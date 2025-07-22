@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
- - 👉 [You will never win](http://9gag.com/gag/a9yD98o)<!-- MEMES:END -->
+ - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [You will never win](http://9gag.com/gag/a9yD98o)
+ - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 😝 [He must have been wearing height reducing shoes, you never know](http://9gag.com/gag/aD2QEGK)
+ - 👉 [What is the reason for this?](http://9gag.com/gag/aPArKoV)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stick into...](http://9gag.com/gag/aGy7m1n)
- - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
- - 💣 [I love japan](http://9gag.com/gag/aQzyWYz)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
+ - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
 
 ---
 

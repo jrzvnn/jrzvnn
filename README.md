@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
  - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 😝 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
- - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
+ - 💣 [You will never win](http://9gag.com/gag/a9yD98o)
+ - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
+ - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
 
 ---
 

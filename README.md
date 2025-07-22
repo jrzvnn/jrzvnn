@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11&amp;#8217;s new update will add a bunch of AI features](https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch)
+ - [Rumored HomePod with screen gets an indirect nod in iOS 26](https://appleinsider.com/articles/25/07/22/rumored-homepod-with-screen-gets-an-indirect-nod-in-ios-26?utm_source=rss)
  - [Blowout deal: Save $2,144 on M3 Max 16-inch MacBook Pro with 128GB RAM, 2TB SSD](https://appleinsider.com/articles/25/07/22/blowout-deal-save-2144-on-m3-max-16-inch-macbook-pro-with-128gb-ram-2tb-ssd?utm_source=rss)
  - [iOS 26 beta 4 adds more &quot;liquid&quot; back to Liquid Glass design, after dialing it back in beta 3 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250722/p32#a250722p32)
- - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
- - [The UK plans to ban public sector and key infrastructure orgs from paying ransoms to ransomware attackers, require others to notify the UK if they plan to pay &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p31#a250722p31)
- - [Sources: dozens of xAI staff voiced concerns over a program granting xAI &quot;perpetual&quot; access to data like their &quot;likeness&quot; for training; several did not consent &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250722/p30#a250722p30)<!-- TECH:END -->
+ - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

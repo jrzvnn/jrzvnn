@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 💣 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)
  - 😝 [#life goals](http://9gag.com/gag/aZZRGjW)
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 😝 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)
  - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
 
 ---

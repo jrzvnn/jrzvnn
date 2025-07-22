@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
- - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
- - 💣 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
  - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
+ - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
+ - 👉 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)<!-- MEMES:END -->
 
 ---
 

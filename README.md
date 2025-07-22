@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It\u2019s called a gun\u2026](http://9gag.com/gag/aBy4p2O)
- - 😝 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
- - 💣 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 😝 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
+ - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
+ - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
 
 ---
 

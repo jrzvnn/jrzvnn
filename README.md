@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [This is peak performance.](http://9gag.com/gag/a4PwDvv)
- - 💣 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
+ - 😝 [Tattoo](http://9gag.com/gag/abARPXE)
+ - 😝 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
+ - 💣 [You will never win](http://9gag.com/gag/a9yD98o)
+ - 😝 [Linda.](http://9gag.com/gag/axym5pb)
+ - 👉 [Infertile Tawny Owl&#39;s lifeless eggs are replaced with orphaned chicks while the Owl is away](http://9gag.com/gag/axymXMW)<!-- MEMES:END -->
 
 ---
 

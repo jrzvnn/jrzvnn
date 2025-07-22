@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poseidon, an AI-focused decentralized data layer built on the Story protocol, raised a $15M seed led by a16z &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250722/p26#a250722p26)
+ - [Apple releasing six new iPhones in 2027 shouldn&#39;t be a surprise](https://appleinsider.com/articles/25/07/22/apple-releasing-six-new-iphones-in-2027-shouldnt-be-a-surprise?utm_source=rss)
  - [OneXSugar: Playing with the first dual-screen transforming handheld](https://www.theverge.com/report/711116/onexsugar-sugar-1-hands-on-preview-transforming-dual-screen)
  - [Doom and gloom reporting on Apple Intelligence continues to ignore Apple&#39;s playbook](https://appleinsider.com/articles/25/07/22/doom-and-gloom-reporting-on-apple-intelligence-continues-to-ignore-apples-playbook?utm_source=rss)
- - [Fantastic Four: First Steps’ greatest superpower is its gorgeous visuals](https://www.theverge.com/movie-reviews/711370/fantastic-four-first-steps-review-marvel)
- - [Apple trials fourth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/07/22/apple-trials-fourth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
- - [Nvidia rival Hailo announced the general availability of its second-generation AI accelerator chip, the Hailo-10H, with HP among its early adopters &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250722/p25#a250722p25)<!-- TECH:END -->
+ - [Fantastic Four: First Steps’ greatest superpower is its gorgeous visuals](https://www.theverge.com/movie-reviews/711370/fantastic-four-first-steps-review-marvel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

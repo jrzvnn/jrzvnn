@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google is seeking to recruit news organizations for a new licensing project related to AI, and plans to launch a pilot initially with ~20 US outlets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p12#a250722p12)
  - [Ashby, which offers an AI-powered talent platform combining applications, CRM, search, and more, raised a $50M Series D, following a $30M Series C in 2024 &lpar;Judy Rider/Crunchbase News&rpar;](http://www.techmeme.com/250722/p11#a250722p11)
  - [Reka AI, which aims to make more efficient LLMs, raised $110M from Nvidia, Snowflake, and others at a $1B+ valuation, up from ~$300M in 2023, per PitchBook &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250722/p10#a250722p10)
  - [X Data Center Fire in Oregon Started Inside Power Cabinet, Authorities Say](https://www.wired.com/story/x-data-center-fire-in-oregon-started-inside-power-cabinet-authorities-say/)
- - [How to Spot and Guard Against Wrong Number Scams](https://www.wired.com/story/how-to-spot-and-guard-against-wrong-number-scams/)
- - [AMD and Stability AI launch the industry&#39;s first Stable Diffusion 3.0 Medium AI model optimized for AMD&#39;s XDNA 2 NPUs, designed to run locally on Ryzen laptops &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250722/p9#a250722p9)<!-- TECH:END -->
+ - [How to Spot and Guard Against Wrong Number Scams](https://www.wired.com/story/how-to-spot-and-guard-against-wrong-number-scams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

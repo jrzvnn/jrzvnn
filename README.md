@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pokémon Legends: Z-A has a detailed new trailer and Switch 2 bundle](https://www.theverge.com/games/711445/pokemon-legends-z-a-nintendo-switch-2-bundle-trailer)
  - [Telegram expands access to its TON crypto wallet, integrated into the Telegram app, for its 87M users in the US &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250722/p18#a250722p18)
  - [Apple warns Iranians of iPhone spyware attacks ahead of Israel conflict](https://appleinsider.com/articles/25/07/22/apple-warns-iranians-of-iphone-spyware-attacks-ahead-of-israel-conflict?utm_source=rss)
  - [A daily Pokémon puzzle game is out now as part of a busy lineup](https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup)
- - [Microsoft says it &quot;has observed two named Chinese nation-state actors, Linen Typhoon and Violet Typhoon exploiting&quot; the SharePoint zero-day vulnerabilities &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p17#a250722p17)
- - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)<!-- TECH:END -->
+ - [Microsoft says it &quot;has observed two named Chinese nation-state actors, Linen Typhoon and Violet Typhoon exploiting&quot; the SharePoint zero-day vulnerabilities &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p17#a250722p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

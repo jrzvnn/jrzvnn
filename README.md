@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto custody company BitGo confidentially files for a US IPO; it raised $100M at a $1.75B valuation in August 2023 &lpar;CoinDesk&rpar;](http://www.techmeme.com/250721/p29#a250721p29)
- - [SEC filing: Ambiq Micro, which makes ultra-low power chips, is seeking to raise as much as $85M from its IPO, marketing 3.4M shares at $22 to $25 each &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250721/p28#a250721p28)
- - [Apple fans in Saudi Arabia can now shop directly from Apple](https://appleinsider.com/articles/25/07/21/apple-fans-in-saudi-arabia-can-now-shop-directly-from-apple?utm_source=rss)
- - [Seattle-based tax compliance software maker Avalara, acquired by Vista Equity Partners in a 2022 deal valuing it at $8.4B, confidentially files for a US IPO &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250721/p27#a250721p27)
- - [What to Expect at Pokemon Presents July 2025: DJ Pikachu and Z-A Legends](https://www.cnet.com/tech/gaming/how-to-watch-pokemon-presents-2025-for-legends-z-a-tcg-pocket-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked memo: CEO Dario Amodei told staff Anthropic plans to seek UAE and Qatar funding, likely enriching &quot;dictators&quot;, says a &quot;no bad person&quot; rule is impractical &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p31#a250721p31)
+ - [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+ - [Samsung Galaxy Watch8 review: thinner and sturdier, but its design with a square casing and a round screen is polarizing, and Gemini is useful but hit-or-miss &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250721/p30#a250721p30)
+ - [Crypto custody company BitGo confidentially files for a US IPO; it raised $100M at a $1.75B valuation in August 2023 &lpar;CoinDesk&rpar;](http://www.techmeme.com/250721/p29#a250721p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

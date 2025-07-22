@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple brings back notification summaries for news in iOS 26](https://appleinsider.com/articles/25/07/22/apple-brings-back-notification-summaries-for-news-in-ios-26?utm_source=rss)
+ - [Why I love my little round Dell USB-C mobile adapter](https://www.theverge.com/tech/711096/adapter-dell-mobile-adapter-favorites)
  - [Apple brings its online retail store to Saudi Arabia](https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch)
  - [Source: OpenAI&#39;s $40B round announced in March is reopening on July 28; SoftBank&#39;s commitment could be cut to $10B if OpenAI does not restructure by end of 2025 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250722/p27#a250722p27)
- - [Apple Intelligence tries summarizing news again after botching BBC stories](https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass)
- - [Mobile subscriptions are shedding unique indie games in search of a bigger audience](https://www.theverge.com/analysis/711575/netflix-games-apple-arcade-mobile-games)
- - [OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round](https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/)<!-- TECH:END -->
+ - [Apple Intelligence tries summarizing news again after botching BBC stories](https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

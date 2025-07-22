@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [#life goals](http://9gag.com/gag/aZZRGjW)
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 😝 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
  - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 😝 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)
- - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 👉 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)<!-- MEMES:END -->
 
 ---
 

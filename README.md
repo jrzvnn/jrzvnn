@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 💣 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
+ - 😝 [This f**ker keeps scamming us](http://9gag.com/gag/aD2QEdN)
+ - 😝 [I&#39;m on a budget, Sandy.](http://9gag.com/gag/adBRErV)
+ - 💣 [General Waste](http://9gag.com/gag/aMVq3wA)
+ - 😝 [Hope you&#39;re winning, son](http://9gag.com/gag/aD2QyOK)
+ - 👉 [So someone made this and apparently there&#39;s devs willing to help him make it an actual game. Yes indie no big studio](http://9gag.com/gag/a9yDopL)<!-- MEMES:END -->
 
 ---
 

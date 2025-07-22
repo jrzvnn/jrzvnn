@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [While AI hasn&#39;t yet led to new physics discoveries, the tech is proving powerful in the field, aiding in experiment design and spotting patterns in complex data &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/250722/p3#a250722p3)
+ - [What Glasses Suit My Face: Shape, Skin Tone and More](https://www.cnet.com/health/personal-care/what-glasses-suit-my-face-shape-skin-tone-and-more/#ftag=CAD590a51e)
  - [Multinational firms like McDonald&#39;s and UK insurer Bupa, struggling to hire AI talent at home, are turning to back offices in India to meet their core AI needs &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p2#a250722p2)
  - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)
- - [10% Off Canon Promo Code &amp; Coupons](https://www.wired.com/story/canon-promo-code/)
- - [15% Off Dell Coupon Codes | July 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [10% Off Canon Promo Code &amp; Coupons](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

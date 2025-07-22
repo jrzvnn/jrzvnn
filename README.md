@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goodbye Legend](http://9gag.com/gag/amoRjnd)
- - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
- - 💣 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
- - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
+ - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
+ - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
+ - 💣 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
+ - 😝 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
+ - 👉 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)<!-- MEMES:END -->
 
 ---
 

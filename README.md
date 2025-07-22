@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This f**ker keeps scamming us](http://9gag.com/gag/aD2QEdN)
- - 😝 [Another satisfied client](http://9gag.com/gag/a7onQMw)
- - 💣 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
- - 😝 [I&#39;m on a budget, Sandy.](http://9gag.com/gag/adBRErV)
- - 👉 [General Waste](http://9gag.com/gag/aMVq3wA)<!-- MEMES:END -->
+ - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
+ - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 💣 [From my archive #1](http://9gag.com/gag/a87VRmZ)
+ - 😝 [Golf trick shot or magic](http://9gag.com/gag/an7G65b)
+ - 👉 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)<!-- MEMES:END -->
 
 ---
 

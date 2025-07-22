@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fiberglass-Free, Chemical-Free: Natural Fire Barriers for Mattresses](https://www.wired.com/story/mattress-fire-retardants-and-alternatives/)
  - [Sources: Google is seeking to recruit news organizations for a new licensing project related to AI, and plans to launch a pilot initially with ~20 US outlets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p12#a250722p12)
+ - [DOCSIS 3.0 vs. 3.1 vs. 4.0: How Are They Different?](https://www.cnet.com/home/internet/comparing-modems-docsis-3-0-vs-docsis-3-1-vs-docsis-4-0/#ftag=CAD590a51e)
  - [Ashby, which offers an AI-powered talent platform combining applications, CRM, search, and more, raised a $50M Series D, following a $30M Series C in 2024 &lpar;Judy Rider/Crunchbase News&rpar;](http://www.techmeme.com/250722/p11#a250722p11)
- - [Reka AI, which aims to make more efficient LLMs, raised $110M from Nvidia, Snowflake, and others at a $1B+ valuation, up from ~$300M in 2023, per PitchBook &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250722/p10#a250722p10)
- - [X Data Center Fire in Oregon Started Inside Power Cabinet, Authorities Say](https://www.wired.com/story/x-data-center-fire-in-oregon-started-inside-power-cabinet-authorities-say/)
- - [How to Spot and Guard Against Wrong Number Scams](https://www.wired.com/story/how-to-spot-and-guard-against-wrong-number-scams/)<!-- TECH:END -->
+ - [Reka AI, which aims to make more efficient LLMs, raised $110M from Nvidia, Snowflake, and others at a $1B+ valuation, up from ~$300M in 2023, per PitchBook &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250722/p10#a250722p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

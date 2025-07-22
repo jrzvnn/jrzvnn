@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s AI team grew fast but it probably won&#39;t shrink as quickly](https://appleinsider.com/articles/25/07/22/apples-ai-team-grew-fast-but-it-probably-wont-shrink-as-quickly?utm_source=rss)
+ - [AI compliance startup Delve raised a $32M Series A at a $300M valuation led by Insight Partners with participation from CISOs at Fortune 500 companies &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250722/p20#a250722p20)
  - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
  - [Everything Is a ‘False Flag’ Now](https://www.wired.com/story/false-flag-conspiracy-theory-trump/)
- - [Honda and Acura EV owners can now use Tesla Superchargers](https://www.theverge.com/news/711472/honda-acura-ev-tesla-supercharger-access-adapter)
- - [Sources: Apple&#39;s team working on AI models wanted to release several as open source, Craig Federighi disagreed, largely concerned about public perception issues &lpar;The Information&rpar;](http://www.techmeme.com/250722/p19#a250722p19)
- - [The Verge Launches New Site Features Aimed at Deepening Audience Engagement and Announces New Editorial Newsletters](https://www.theverge.com/press-room/710921/verge-site-features-launch-newsletters)<!-- TECH:END -->
+ - [Honda and Acura EV owners can now use Tesla Superchargers](https://www.theverge.com/news/711472/honda-acura-ev-tesla-supercharger-access-adapter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

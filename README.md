@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
- - 💣 [From my archive #1](http://9gag.com/gag/a87VRmZ)
- - 😝 [Golf trick shot or magic](http://9gag.com/gag/an7G65b)
- - 👉 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)<!-- MEMES:END -->
+ - 😝 [Hmm ..](http://9gag.com/gag/a4Pwv6Q)
+ - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 💣 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
+ - 😝 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)
+ - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
 
 ---
 

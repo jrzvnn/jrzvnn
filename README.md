@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says Chinese hacking groups are behind SharePoint attacks](https://www.theverge.com/news/711522/microsoft-sharepoint-exploit-china-based-hackers)
- - [Sources: after raising $10B, xAI is now working with a trusted financier to secure up to $12B to buy Nvidia chips, led by Elon Musk-linked Valor Equity Partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250722/p22#a250722p22)
- - [Apple working on edge-lit notification system for Apple Ring &amp; more](https://appleinsider.com/articles/25/07/22/apple-working-on-edge-lit-notification-system-for-apple-ring-more?utm_source=rss)
- - [A Surprise &#39;Pokémon&#39; Game Just Dropped for Switch and Mobile](https://www.wired.com/story/a-surprise-pokemon-game-just-dropped-for-switch-and-mobile/)
- - [Sources: the EU is set to approve Apple&#39;s App Store rule and fee changes, unveiled last month, in the coming weeks, staving off a potentially hefty daily fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250722/p21#a250722p21)<!-- TECH:END -->
+ - [App Store changes should avoid further EU fines](https://appleinsider.com/articles/25/07/22/app-store-changes-should-avoid-further-eu-fines?utm_source=rss)
+ - [&#39;Pokemon&#39; joins the daily puzzle craze with new iPhone game](https://appleinsider.com/articles/25/07/22/pokemon-joins-the-daily-puzzle-craze-with-new-iphone-game?utm_source=rss)
+ - [Sources: Microsoft has poached 24+ employees from Google DeepMind in the past six months; Gemini engineering head Amar Subramanya confirms the move to Microsoft &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p24#a250722p24)
+ - [Filing: the FBI drops its probe of Kraken founder Jesse Powell and returns dozens of devices, after raiding his home in 2023 over seemingly banal allegations &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250722/p23#a250722p23)
+ - [Microsoft says Chinese hacking groups are behind SharePoint attacks](https://www.theverge.com/news/711522/microsoft-sharepoint-exploit-china-based-hackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

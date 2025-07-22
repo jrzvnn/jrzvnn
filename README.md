@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A daily Pokémon puzzle game is out now as part of a busy lineup](https://www.theverge.com/news/710734/pokemon-presents-july-2025-trailer-roundup)
+ - [Microsoft says it &quot;has observed two named Chinese nation-state actors, Linen Typhoon and Violet Typhoon exploiting&quot; the SharePoint zero-day vulnerabilities &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p17#a250722p17)
  - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)
  - [Elgato’s new capture card lowers the price for 4K 60fps gameplay recording](https://www.theverge.com/news/710547/elgato-game-capture-4k-price-release-date-features)
- - [A-lister antics and Schedule A shenanigans](https://www.theverge.com/news/711130/celebrity-press-tour-new-media-podcasts-schedule-a-ip-law)
- - [Philadelphia-based Asylon, which modifies Boston Dynamics&#39; robot dog Spot into DroneDog, raised a $26M Series B led by Insight, taking its total funding to $45M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250722/p16#a250722p16)
- - [Lumotive, whose optical chip tech can &quot;steer&quot; laser light and is an alternative to lidar, extends its Series B from $45M to $59M, including from Amazon&#39;s IIF &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250722/p15#a250722p15)<!-- TECH:END -->
+ - [A-lister antics and Schedule A shenanigans](https://www.theverge.com/news/711130/celebrity-press-tour-new-media-podcasts-schedule-a-ip-law)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

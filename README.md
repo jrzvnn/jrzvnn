@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 💣 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
+ - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
  - 😝 [This is peak performance.](http://9gag.com/gag/a4PwDvv)
- - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
+ - 💣 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
+ - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
 
 ---
 

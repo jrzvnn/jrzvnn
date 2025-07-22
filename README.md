@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blowout deal: Save $2,144 on M3 Max 16-inch MacBook Pro with 128GB RAM, 2TB SSD](https://appleinsider.com/articles/25/07/22/blowout-deal-save-2144-on-m3-max-16-inch-macbook-pro-with-128gb-ram-2tb-ssd?utm_source=rss)
+ - [iOS 26 beta 4 adds more &quot;liquid&quot; back to Liquid Glass design, after dialing it back in beta 3 &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/250722/p32#a250722p32)
+ - [Democrats are desperately trying to revive the click-to-cancel rule](https://www.theverge.com/politics/711707/click-to-cancel-democrats-ftc)
  - [The UK plans to ban public sector and key infrastructure orgs from paying ransoms to ransomware attackers, require others to notify the UK if they plan to pay &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250722/p31#a250722p31)
- - [Sources: dozens of xAI staff voiced concerns over a program granting xAI &quot;perpetual&quot; access to data like their &quot;likeness&quot; for training; several did not consent &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250722/p30#a250722p30)
- - [Survey of 900 US Google users: of ~69K searches, 18% gave AI Overviews; on those searches users clicked a result link 8% of the time, vs. 15% with no AI summary &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250722/p29#a250722p29)
- - [Amazon is acquiring Bee, which sells a $50 device that resembles a Fitbit, is always listening, transcribes conversations, and serves up daily AI summaries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250722/p28#a250722p28)
- - [Apple brings back notification summaries for news in iOS 26](https://appleinsider.com/articles/25/07/22/apple-brings-back-notification-summaries-for-news-in-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Sources: dozens of xAI staff voiced concerns over a program granting xAI &quot;perpetual&quot; access to data like their &quot;likeness&quot; for training; several did not consent &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250722/p30#a250722p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Steve Jobs&#39; daughter&#39;s $6.7M wedding draws high-profile guests](https://appleinsider.com/articles/25/07/22/steve-jobs-daughters-67m-wedding-draws-high-profile-guests?utm_source=rss)
  - [Microsoft launches the 13.8-inch Surface Laptop 5G for business customers, featuring Intel Core Ultra series 2 processors, shipping on August 26 for $1,799+ &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250722/p39#a250722p39)
- - [People Click Links Less Frequently When AI Summary Appears on Google Search, Study Shows](https://www.cnet.com/tech/services-and-software/people-click-links-less-frequently-when-ai-summary-appears-on-google-search-study-shows/#ftag=CAD590a51e)
- - [Eat Here and Get Recharged: Tesla Opens a Drive-In Diner](https://www.cnet.com/roadshow/news/eat-here-and-get-recharged-tesla-opens-a-drive-in-diner/#ftag=CAD590a51e)
- - [Alibaba debuts the Qwen3-Coder model for agentic coding, including a 480B-parameter MoE variant, and open sources Qwen Code, a CLI tool adapted from Gemini CLI &lpar;Qwen&rpar;](http://www.techmeme.com/250722/p38#a250722p38)<!-- TECH:END -->
+ - [Alibaba debuts the Qwen3-Coder model for agentic coding, including a 480B-parameter MoE variant, and open sources Qwen Code, a CLI tool adapted from Gemini CLI &lpar;Qwen&rpar;](http://www.techmeme.com/250722/p38#a250722p38)
+ - [Uncovered iOS 26 beta image hints at sleep score for Apple Watch](https://appleinsider.com/articles/25/07/22/uncovered-ios-26-beta-image-hints-at-sleep-score-for-apple-watch?utm_source=rss)
+ - [The Escobar Phone scam saga has finally come to an end](https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

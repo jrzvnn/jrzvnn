@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 😝 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
- - 💣 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
- - 😝 [#life goals](http://9gag.com/gag/aZZRGjW)
- - 👉 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)<!-- MEMES:END -->
+ - 😝 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 💣 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
+ - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 👉 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)<!-- MEMES:END -->
 
 ---
 

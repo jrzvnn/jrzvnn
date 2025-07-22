@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fiberglass-Free, Chemical-Free: Natural Fire Barriers for Mattresses](https://www.wired.com/story/mattress-fire-retardants-and-alternatives/)
- - [Sources: Google is seeking to recruit news organizations for a new licensing project related to AI, and plans to launch a pilot initially with ~20 US outlets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p12#a250722p12)
- - [DOCSIS 3.0 vs. 3.1 vs. 4.0: How Are They Different?](https://www.cnet.com/home/internet/comparing-modems-docsis-3-0-vs-docsis-3-1-vs-docsis-4-0/#ftag=CAD590a51e)
- - [Ashby, which offers an AI-powered talent platform combining applications, CRM, search, and more, raised a $50M Series D, following a $30M Series C in 2024 &lpar;Judy Rider/Crunchbase News&rpar;](http://www.techmeme.com/250722/p11#a250722p11)
- - [Reka AI, which aims to make more efficient LLMs, raised $110M from Nvidia, Snowflake, and others at a $1B+ valuation, up from ~$300M in 2023, per PitchBook &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250722/p10#a250722p10)<!-- TECH:END -->
+ - [Miaan Group: a number of Iranians received spyware threat alerts from Apple in H1 2025 in the months prior to the Iran-Israel war, the first such cases in Iran &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250722/p14#a250722p14)
+ - [iPhone 16 makes up half of India sales in Q2 but the iPhone 16e falters](https://appleinsider.com/articles/25/07/22/iphone-16-makes-up-half-of-india-sales-in-q2-but-the-iphone-16e-falters?utm_source=rss)
+ - [You can now travel across Korea using Apple Pay and T-money](https://appleinsider.com/articles/25/07/22/you-can-now-travel-across-korea-using-apple-pay-and-t-money?utm_source=rss)
+ - [Knock it off!](https://www.theverge.com/cs/features/709635/knock-it-off)
+ - [Nothing’s new CMF smartwatch drops swappable bezels for a bigger display](https://www.theverge.com/news/711301/nothing-cmf-watch-3-pro-smartwatch-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

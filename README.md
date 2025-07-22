@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple brings back notification summaries for news in iOS 26](https://appleinsider.com/articles/25/07/22/apple-brings-back-notification-summaries-for-news-in-ios-26?utm_source=rss)
+ - [The 47 Best Shows on Hulu Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Why I love my little round Dell USB-C mobile adapter](https://www.theverge.com/tech/711096/adapter-dell-mobile-adapter-favorites)
  - [Apple brings its online retail store to Saudi Arabia](https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch)
- - [Source: OpenAI&#39;s $40B round announced in March is reopening on July 28; SoftBank&#39;s commitment could be cut to $10B if OpenAI does not restructure by end of 2025 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250722/p27#a250722p27)
- - [Apple Intelligence tries summarizing news again after botching BBC stories](https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass)<!-- TECH:END -->
+ - [Source: OpenAI&#39;s $40B round announced in March is reopening on July 28; SoftBank&#39;s commitment could be cut to $10B if OpenAI does not restructure by end of 2025 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250722/p27#a250722p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

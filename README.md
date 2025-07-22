@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba debuts the Qwen3-Coder model for agentic coding, including a 480B-parameter MoE variant, and open sources Qwen Code, a CLI tool adapted from Gemini CLI &lpar;Qwen&rpar;](http://www.techmeme.com/250722/p38#a250722p38)
+ - [Uncovered iOS 26 beta image hints at sleep score for Apple Watch](https://appleinsider.com/articles/25/07/22/uncovered-ios-26-beta-image-hints-at-sleep-score-for-apple-watch?utm_source=rss)
  - [The Escobar Phone scam saga has finally come to an end](https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal)
  - [Mistral releases a study on the environmental impact of its LLMs, conducting what it claims is the first comprehensive lifecycle analysis of an AI model &lpar;Mistral AI&rpar;](http://www.techmeme.com/250722/p37#a250722p37)
- - [UMG has partnered with IP asset management company Liquidax Capital to &quot;accelerate the development of UMG&#39;s music-related AI patents&quot;, already filing 15 &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/250722/p36#a250722p36)
- - [Texas Instruments reports Q2 revenue up 16% YoY to $4.45B, vs. $4.36B est., net income of $1.3B, and forecasts Q3 profit below est.; TXN drops 10%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250722/p35#a250722p35)
- - [Composio, which provides tools to help companies build AI agents, raised a $25M Series A led by Lightspeed, taking its total funding to $29M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250722/p34#a250722p34)<!-- TECH:END -->
+ - [UMG has partnered with IP asset management company Liquidax Capital to &quot;accelerate the development of UMG&#39;s music-related AI patents&quot;, already filing 15 &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/250722/p36#a250722p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

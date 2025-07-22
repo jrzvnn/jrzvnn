@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/how-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
+ - [SAVE Student Loan Borrowers Have Less Than 2 Weeks Before Interest Restarts. Here&#39;s What to Do](https://www.cnet.com/personal-finance/loans/save-student-loan-borrowers-have-less-than-2-weeks-before-interest-restarts-heres-what-to-do/#ftag=CAD590a51e)
  - [While AI hasn&#39;t yet led to new physics discoveries, the tech is proving powerful in the field, aiding in experiment design and spotting patterns in complex data &lpar;Anil Ananthaswamy/Quanta Magazine&rpar;](http://www.techmeme.com/250722/p3#a250722p3)
- - [What Glasses Suit My Face: Shape, Skin Tone and More](https://www.cnet.com/health/personal-care/what-glasses-suit-my-face-shape-skin-tone-and-more/#ftag=CAD590a51e)
- - [Multinational firms like McDonald&#39;s and UK insurer Bupa, struggling to hire AI talent at home, are turning to back offices in India to meet their core AI needs &lpar;Financial Times&rpar;](http://www.techmeme.com/250722/p2#a250722p2)
- - [AT&amp;T Promo Code: Get a Gift Card Worth Up to $200](https://www.wired.com/story/att-promo-code/)
- - [10% Off Canon Promo Code &amp; Coupons](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Is Trump&#39;s Chronic Venous Insufficiency Diagnosis Actually &#39;Benign&#39;? A Vein Specialist Weighs In](https://www.cnet.com/health/medical/is-trumps-chronic-venous-insufficiency-diagnosis-actually-benign-a-vein-specialist-weighs-in/#ftag=CAD590a51e)
+ - [Is Your Iced Coffee Making You Dehydrated in the Summer Heat? I Asked the Experts](https://www.cnet.com/health/medical/is-your-iced-coffee-making-you-dehydrated-summer-heat-asked-experts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
- - 😝 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
- - 💣 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
- - 😝 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)
- - 👉 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)<!-- MEMES:END -->
+ - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 😝 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
+ - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
 
 ---
 

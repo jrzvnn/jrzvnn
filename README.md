@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 💣 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
+ - 😝 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
+ - 😝 [The Prince has left his throne](http://9gag.com/gag/abARPmp)
+ - 💣 [It&#39;s that simple, guys](http://9gag.com/gag/abARPvB)
+ - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
+ - 👉 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)<!-- MEMES:END -->
 
 ---
 

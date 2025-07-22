@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round](https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/)
- - [GoPro&amp;#8217;s refreshed Max 360 action camera is down to an all-time low price](https://www.theverge.com/tech/711629/gopro-max-2025-twelve-south-hirise-3-deluxe-deal-sale)
- - [Apple&#39;s free cash flow could surge under new IRS rules](https://appleinsider.com/articles/25/07/22/apples-free-cash-flow-could-surge-under-new-irs-rules?utm_source=rss)
- - [Amazon buys Bee AI wearable that listens to everything you say](https://www.theverge.com/news/711621/amazon-bee-ai-wearable-acquisition)
- - [Poseidon, an AI-focused decentralized data layer built on the Story protocol, raised a $15M seed led by a16z &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250722/p26#a250722p26)<!-- TECH:END -->
+ - [Apple brings its online retail store to Saudi Arabia](https://www.theverge.com/news/711672/apple-saudi-arabia-online-store-launch)
+ - [Source: OpenAI&#39;s $40B round announced in March is reopening on July 28; SoftBank&#39;s commitment could be cut to $10B if OpenAI does not restructure by end of 2025 &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250722/p27#a250722p27)
+ - [Apple Intelligence tries summarizing news again after botching BBC stories](https://www.theverge.com/news/711678/apple-ios-26-beta-ai-notification-summaries-news-liquid-glass)
+ - [Mobile subscriptions are shedding unique indie games in search of a bigger audience](https://www.theverge.com/analysis/711575/netflix-games-apple-arcade-mobile-games)
+ - [OpenAI Seeks Additional Capital From Investors as Part of Its $40 Billion Round](https://www.wired.com/story/openai-fundraising-round-softbank-sam-altman/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

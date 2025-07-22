@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 💣 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
- - 👉 [You will never win](http://9gag.com/gag/a9yD98o)<!-- MEMES:END -->
+ - 😝 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 😝 [Golf trick shot or magic](http://9gag.com/gag/an7G65b)
+ - 💣 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 👉 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)<!-- MEMES:END -->
 
 ---
 

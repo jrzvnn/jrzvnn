@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks for the chair. I started getting tired looking at her cry](http://9gag.com/gag/a5Q5O6V)
  - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 💣 [Never donate clothes or money](http://9gag.com/gag/a2vOeN9)
  - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 👉 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)<!-- MEMES:END -->
+ - 💣 [See comment section for the name of the dino](http://9gag.com/gag/aE0Z9Ax)
+ - 😝 [#life goals](http://9gag.com/gag/aZZRGjW)
+ - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another satisfied client](http://9gag.com/gag/a7onQMw)
- - 😝 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
- - 💣 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
- - 😝 [General Waste](http://9gag.com/gag/aMVq3wA)
- - 👉 [Infertile Tawny Owl&#39;s lifeless eggs are replaced with orphaned chicks while the Owl is away](http://9gag.com/gag/axymXMW)<!-- MEMES:END -->
+ - 😝 [Mom said no playing outside for you](http://9gag.com/gag/aVvRpPn)
+ - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
+ - 💣 [The elite that rule the world from muricastan](http://9gag.com/gag/aRBRbxQ)
+ - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
+ - 👉 [Made me chuckle](http://9gag.com/gag/an7G6Xo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reka AI, which aims to make more efficient LLMs, raised $110M from Nvidia, Snowflake, and others at a $1B+ valuation, up from ~$300M in 2023, per PitchBook &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250722/p10#a250722p10)
+ - [X Data Center Fire in Oregon Started Inside Power Cabinet, Authorities Say](https://www.wired.com/story/x-data-center-fire-in-oregon-started-inside-power-cabinet-authorities-say/)
+ - [How to Spot and Guard Against Wrong Number Scams](https://www.wired.com/story/how-to-spot-and-guard-against-wrong-number-scams/)
  - [AMD and Stability AI launch the industry&#39;s first Stable Diffusion 3.0 Medium AI model optimized for AMD&#39;s XDNA 2 NPUs, designed to run locally on Ryzen laptops &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250722/p9#a250722p9)
- - [OpenAI and Oracle unveil plans to develop 4.5GW of additional US data center capacity in an expanded partnership, hitting 5GW in total and running 2M AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p8#a250722p8)
- - [OpenAI’s ChatGPT Agent Is Haunting My Browser](https://www.wired.com/story/browser-haunted-by-ai-agents/)
- - [A London judge rules that HPE lost ~£730M after acquiring Mike Lynch&#39;s Autonomy, after a 2022 fraud finding against Lynch, who died in 2024; HPE was seeking $4B &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/250722/p7#a250722p7)
- - [US investment firm Carlyle agrees to acquire a majority stake in IT consultancy and services provider Adastra, sources say valuing it at $400M including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250722/p6#a250722p6)<!-- TECH:END -->
+ - [OpenAI and Oracle unveil plans to develop 4.5GW of additional US data center capacity in an expanded partnership, hitting 5GW in total and running 2M AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p8#a250722p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

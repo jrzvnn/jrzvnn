@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
- - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 😝 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
- - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
+ - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 💣 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
+ - 😝 [This is peak performance.](http://9gag.com/gag/a4PwDvv)
+ - 👉 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)<!-- MEMES:END -->
 
 ---
 

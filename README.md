@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 😝 [Nietzsche wrote about this](http://9gag.com/gag/ajPRzbw)
- - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
+ - 😝 [Another satisfied client](http://9gag.com/gag/a7onQMw)
+ - 😝 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
+ - 💣 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
+ - 😝 [General Waste](http://9gag.com/gag/aMVq3wA)
+ - 👉 [I&#39;m on a budget, Sandy.](http://9gag.com/gag/adBRErV)<!-- MEMES:END -->
 
 ---
 

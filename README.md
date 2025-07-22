@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It happened again. Humanoid robot went rogue, caught on camera.](http://9gag.com/gag/aoynvvg)
+ - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
+ - 💣 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
  - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 😝 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
- - 👉 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)<!-- MEMES:END -->
+ - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
 
 ---
 

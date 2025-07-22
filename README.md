@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 💣 [That was a close call](http://9gag.com/gag/a87VZ01)
- - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 👉 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)<!-- MEMES:END -->
+ - 😝 [Bro singlehandedly saved his gene pool](http://9gag.com/gag/aQzyGA2)
+ - 💣 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
+ - 😝 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
+ - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
 
 ---
 

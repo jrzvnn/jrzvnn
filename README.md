@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AI team grew fast but it probably won&#39;t shrink as quickly](https://appleinsider.com/articles/25/07/22/apples-ai-team-grew-fast-but-it-probably-wont-shrink-as-quickly?utm_source=rss)
- - [AI compliance startup Delve raised a $32M Series A at a $300M valuation led by Insight Partners with participation from CISOs at Fortune 500 companies &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250722/p20#a250722p20)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [Everything Is a ‘False Flag’ Now](https://www.wired.com/story/false-flag-conspiracy-theory-trump/)
- - [Honda and Acura EV owners can now use Tesla Superchargers](https://www.theverge.com/news/711472/honda-acura-ev-tesla-supercharger-access-adapter)<!-- TECH:END -->
+ - [Microsoft says Chinese hacking groups are behind SharePoint attacks](https://www.theverge.com/news/711522/microsoft-sharepoint-exploit-china-based-hackers)
+ - [Sources: after raising $10B, xAI is now working with a trusted financier to secure up to $12B to buy Nvidia chips, led by Elon Musk-linked Valor Equity Partners &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250722/p22#a250722p22)
+ - [Apple working on edge-lit notification system for Apple Ring &amp; more](https://appleinsider.com/articles/25/07/22/apple-working-on-edge-lit-notification-system-for-apple-ring-more?utm_source=rss)
+ - [A Surprise &#39;Pokémon&#39; Game Just Dropped for Switch and Mobile](https://www.wired.com/story/a-surprise-pokemon-game-just-dropped-for-switch-and-mobile/)
+ - [Sources: the EU is set to approve Apple&#39;s App Store rule and fee changes, unveiled last month, in the coming weeks, staving off a potentially hefty daily fine &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250722/p21#a250722p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

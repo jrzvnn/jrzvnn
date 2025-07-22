@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Denzel](http://9gag.com/gag/a4PwD9A)
- - 😝 [Jack Nicholson finding out his sister is his mom](http://9gag.com/gag/aRBRqpQ)
- - 💣 [Made me chuckle](http://9gag.com/gag/an7G6Xo)
- - 😝 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 👉 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)<!-- MEMES:END -->
+ - 😝 [Another satisfied client](http://9gag.com/gag/a7onQMw)
+ - 😝 [She is doing some good work.. it seems like that](http://9gag.com/gag/aBy4pqO)
+ - 💣 [Piertotum Locomotor](http://9gag.com/gag/a7onYvm)
+ - 😝 [General Waste](http://9gag.com/gag/aMVq3wA)
+ - 👉 [Infertile Tawny Owl&#39;s lifeless eggs are replaced with orphaned chicks while the Owl is away](http://9gag.com/gag/axymXMW)<!-- MEMES:END -->
 
 ---
 

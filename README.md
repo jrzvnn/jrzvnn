@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and the UK government announce a partnership to explore AI use in justice, defense, security, and edtech, and possibly expand OpenAI&#39;s London office &lpar;Reuters&rpar;](http://www.techmeme.com/250721/p33#a250721p33)
+ - [Researchers say hackers linked to the Chinese government were behind at least some of the recent widespread attacks using the SharePoint RCE vulnerability &lpar;Washington Post&rpar;](http://www.techmeme.com/250721/p32#a250721p32)
  - [Leaked memo: CEO Dario Amodei told staff Anthropic plans to seek UAE and Qatar funding, likely enriching &quot;dictators&quot;, says a &quot;no bad person&quot; rule is impractical &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p31#a250721p31)
  - [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)
- - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [Samsung Galaxy Watch8 review: thinner and sturdier, but its design with a square casing and a round screen is polarizing, and Gemini is useful but hit-or-miss &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250721/p30#a250721p30)
- - [Crypto custody company BitGo confidentially files for a US IPO; it raised $100M at a $1.75B valuation in August 2023 &lpar;CoinDesk&rpar;](http://www.techmeme.com/250721/p29#a250721p29)<!-- TECH:END -->
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s secret](http://9gag.com/gag/aVvRAKO)
- - 😝 [You will never win](http://9gag.com/gag/a9yD98o)
- - 💣 [Someone lost a perfectly good tire iron. And his arm](http://9gag.com/gag/ary8Ypy)
- - 😝 [He must have been wearing height reducing shoes, you never know](http://9gag.com/gag/aD2QEGK)
- - 👉 [What is the reason for this?](http://9gag.com/gag/aPArKoV)<!-- MEMES:END -->
+ - 😝 [It\u2019s called a gun\u2026](http://9gag.com/gag/aBy4p2O)
+ - 😝 [When you accidentally read a spoiler](http://9gag.com/gag/agmKDK1)
+ - 💣 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 😝 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 👉 [That was a close call](http://9gag.com/gag/a87VZ01)<!-- MEMES:END -->
 
 ---
 

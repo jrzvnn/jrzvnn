@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UMG has partnered with IP asset management company Liquidax Capital to &quot;accelerate the development of UMG&#39;s music-related AI patents&quot;, already filing 15 &lpar;Ethan Millman/The Hollywood Reporter&rpar;](http://www.techmeme.com/250722/p36#a250722p36)
  - [Texas Instruments reports Q2 revenue up 16% YoY to $4.45B, vs. $4.36B est., net income of $1.3B, and forecasts Q3 profit below est.; TXN drops 10%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/250722/p35#a250722p35)
  - [Composio, which provides tools to help companies build AI agents, raised a $25M Series A led by Lightspeed, taking its total funding to $29M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250722/p34#a250722p34)
- - [SAP reports Q2 revenue up 9% YoY to €9.03B, vs. €9.05B est., cloud revenue up 24% to €5.13B, vs. €5.15B est., operating profit up 32% to €2.57B, vs. €2.43B est. &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250722/p33#a250722p33)
- - [Rove’s R2-4K dash cam is an extra set of eyes on the road and $48 off at Amazon](https://www.theverge.com/tech/711754/rove-r2-4k-dash-cam-deal-sale)
- - [Windows 11&amp;#8217;s new update will add a bunch of AI features](https://www.theverge.com/news/711797/windows-11-microsoft-ai-features-copilot-vision-launch)<!-- TECH:END -->
+ - [Can Cortisol Supplements Reduce Your Stress Levels? Here&#39;s What the Experts Say](https://www.cnet.com/health/nutrition/best-cortisol-supplements/#ftag=CAD590a51e)
+ - [SAP reports Q2 revenue up 9% YoY to €9.03B, vs. €9.05B est., cloud revenue up 24% to €5.13B, vs. €5.15B est., operating profit up 32% to €2.57B, vs. €2.43B est. &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250722/p33#a250722p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A roundup of VLSI conference 2025, including the use of digital twins for design exploration, DRAM beyond 1x nm nodes, Intel&#39;s 18A process vs. TSMC, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250722/p1#a250722p1)
+ - [KitchenAid Promo Code: $140 Off in July 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [OpenAI and the UK government announce a partnership to explore AI use in justice, defense, security, and edtech, and possibly expand OpenAI&#39;s London office &lpar;Reuters&rpar;](http://www.techmeme.com/250721/p33#a250721p33)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-22/#ftag=CAD590a51e)
- - [Researchers say hackers linked to the Chinese government were behind at least some of the recent widespread attacks using the SharePoint RCE vulnerability &lpar;Washington Post&rpar;](http://www.techmeme.com/250721/p32#a250721p32)
- - [Leaked memo: CEO Dario Amodei told staff Anthropic plans to seek UAE and Qatar funding, likely enriching &quot;dictators&quot;, says a &quot;no bad person&quot; rule is impractical &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250721/p31#a250721p31)
- - [Leaked Memo: Anthropic CEO Says the Company Will Pursue Gulf State Investments After All](https://www.wired.com/story/anthropic-dario-amodei-gulf-state-leaked-memo/)<!-- TECH:END -->
+ - [Researchers say hackers linked to the Chinese government were behind at least some of the recent widespread attacks using the SharePoint RCE vulnerability &lpar;Washington Post&rpar;](http://www.techmeme.com/250721/p32#a250721p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

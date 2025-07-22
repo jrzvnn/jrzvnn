@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Miaan Group: a number of Iranians received spyware threat alerts from Apple in H1 2025 in the months prior to the Iran-Israel war, the first such cases in Iran &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250722/p14#a250722p14)
- - [iPhone 16 makes up half of India sales in Q2 but the iPhone 16e falters](https://appleinsider.com/articles/25/07/22/iphone-16-makes-up-half-of-india-sales-in-q2-but-the-iphone-16e-falters?utm_source=rss)
- - [You can now travel across Korea using Apple Pay and T-money](https://appleinsider.com/articles/25/07/22/you-can-now-travel-across-korea-using-apple-pay-and-t-money?utm_source=rss)
- - [Knock it off!](https://www.theverge.com/cs/features/709635/knock-it-off)
- - [Nothing’s new CMF smartwatch drops swappable bezels for a bigger display](https://www.theverge.com/news/711301/nothing-cmf-watch-3-pro-smartwatch-price-availability)<!-- TECH:END -->
+ - [This Is the Best Sleeping Bag](https://www.wired.com/story/rumpl-wrap-sack-perfect-sleeping-bag/)
+ - [Elgato’s new capture card lowers the price for 4K 60fps gameplay recording](https://www.theverge.com/news/710547/elgato-game-capture-4k-price-release-date-features)
+ - [A-lister antics and Schedule A shenanigans](https://www.theverge.com/news/711130/celebrity-press-tour-new-media-podcasts-schedule-a-ip-law)
+ - [Philadelphia-based Asylon, which modifies Boston Dynamics&#39; robot dog Spot into DroneDog, raised a $26M Series B led by Insight, taking its total funding to $45M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250722/p16#a250722p16)
+ - [Lumotive, whose optical chip tech can &quot;steer&quot; laser light and is an alternative to lidar, extends its Series B from $45M to $59M, including from Amazon&#39;s IIF &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250722/p15#a250722p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

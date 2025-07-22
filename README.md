@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and Oracle unveil plans to develop 4.5GW of additional US data center capacity in an expanded partnership, hitting 5GW in total and running 2M AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250722/p8#a250722p8)
+ - [OpenAI’s ChatGPT Agent Is Haunting My Browser](https://www.wired.com/story/browser-haunted-by-ai-agents/)
  - [A London judge rules that HPE lost ~£730M after acquiring Mike Lynch&#39;s Autonomy, after a 2022 fraud finding against Lynch, who died in 2024; HPE was seeking $4B &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/250722/p7#a250722p7)
  - [US investment firm Carlyle agrees to acquire a majority stake in IT consultancy and services provider Adastra, sources say valuing it at $400M including debt &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250722/p6#a250722p6)
- - [Did Tesla’s Robotaxi Launch Backfire?](https://www.wired.com/story/tesla-robotaxi-launch-survey-data/)
- - [Google, Amazon, Cohere, and Mistral are intensifying efforts to reduce AI hallucinations via technical fixes, data quality improvements, and fact-checking &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250722/p5#a250722p5)
- - [Seoul-based chip designer FuriosaAI signs a deal with LG to use its AI chip RNGD, its first major contract, after rejecting Meta&#39;s $800M buyout offer in March &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250722/p4#a250722p4)<!-- TECH:END -->
+ - [Did Tesla’s Robotaxi Launch Backfire?](https://www.wired.com/story/tesla-robotaxi-launch-survey-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

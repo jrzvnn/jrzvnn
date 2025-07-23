@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Says He&#39;s &#39;Getting Rid of Woke&#39; and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)
+ - [Walmart hires Instacart CPO Daniel Danker as head of global AI acceleration, product, and design, starting next month and reporting to CEO Doug McMillon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250723/p35#a250723p35)
+ - [Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage](https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/)
  - [Google leaks its full Pixel 10 lineup](https://www.theverge.com/news/712693/google-leaks-entire-pixel-10-lineup-play-store)
- - [Grab Apple&#39;s M4 MacBook Air for $849 with back-to-school savings](https://appleinsider.com/articles/25/07/23/grab-apples-m4-macbook-air-for-849-with-back-to-school-savings?utm_source=rss)
- - [PlayStation DualSense controllers updating soon with multiple device pairing](https://appleinsider.com/articles/25/07/23/playstation-dualsense-controllers-updating-soon-with-multiple-device-pairing?utm_source=rss)
- - [A $17 Hotdog and a Humanoid Robot Serving Popcorn: WIRED’s Day at the Tesla Diner](https://www.wired.com/story/searching-for-humanitys-last-hope-and-a-taste-of-the-future-at-the-tesla-diner/)
- - [Alphabet reports Google Cloud Q2 revenue up 32% YoY to $13.62B, vs. $13.11B est., and raises its 2025 capex forecast to $85B, up from $75B in February &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250723/p34#a250723p34)<!-- TECH:END -->
+ - [Grab Apple&#39;s M4 MacBook Air for $849 with back-to-school savings](https://appleinsider.com/articles/25/07/23/grab-apples-m4-macbook-air-for-849-with-back-to-school-savings?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

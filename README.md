@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases its new Qwen3-235B-A22B-Instruct-2507 model on Hugging Face, improving on Qwen 3&#39;s reasoning, accuracy, and multilingual understanding &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250723/p10#a250723p10)
  - [Dell says COO Jeff Clarke will now oversee its Client Solutions Group, which includes desktop and notebook PCs; Dell&#39;s consumer PC revenue fell 19% in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250723/p9#a250723p9)
  - [Silicon Valley AI Startups Are Embracing China’s Controversial ‘996’ Work Schedule](https://www.wired.com/story/silicon-valley-china-996-work-schedule/)
  - [South Korea Plans to Build a Base on the Moon](https://www.wired.com/story/south-korea-wants-to-build-a-space-base-on-the-moon-within-20-years/)
- - [The battery-powered Starlink Mini is here](https://www.theverge.com/reviews/712043/peakdo-linkpower-review-battery-powered-starlink-mini)
- - [US nuclear weapons agency reportedly breached in Microsoft SharePoint attacks](https://www.theverge.com/news/712080/microsoft-sharepoint-hack-us-nuclear-weapons-agency)<!-- TECH:END -->
+ - [The battery-powered Starlink Mini is here](https://www.theverge.com/reviews/712043/peakdo-linkpower-review-battery-powered-starlink-mini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

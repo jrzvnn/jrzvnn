@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 😝 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
- - 💣 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)
- - 😝 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)
- - 👉 [The Prince has left his throne](http://9gag.com/gag/abARPmp)<!-- MEMES:END -->
+ - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
+ - 😝 [Fertility goes down](http://9gag.com/gag/aD2Qpm9)
+ - 💣 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump admin is pressuring South Korea, Brazil, the EU, and others to drop plans for new taxes on US tech firms as a part of broader trade talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250722/p44#a250722p44)
+ - [Chargeasap Flash Pro Ultra: the ultimate portable power bank gets even better](https://appleinsider.com/articles/25/07/23/chargeasap-flash-pro-ultra-the-ultimate-portable-power-bank-gets-even-better?utm_source=rss)
+ - [PitchBook: in H1, AI startups raised $104.3B in the US, or about 66% of all US VC funding, up from 49% last year; there were 281 VC-backed exits totaling $36B &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250722/p43#a250722p43)
  - [Source: the US National Nuclear Security Administration was among those breached by a hack of SharePoint; no sensitive information is known to be compromised &lpar;Ari Natter/Bloomberg&rpar;](http://www.techmeme.com/250722/p42#a250722p42)
- - [Researchers detail &quot;subliminal learning&quot;, where LLMs learn traits from model-generated data that is semantically unrelated to those traits &lpar;Anthropic&rpar;](http://www.techmeme.com/250722/p41#a250722p41)
- - [A Top NASA Official Is Among Thousands of Staff Leaving the Agency](https://www.wired.com/story/a-top-nasa-official-is-among-thousands-of-staff-leaving-the-agency/)
- - [Businesses and households served by PJM, the US&#39; largest power grid operator, will pay a record $16.1B for electricity supplies amid an AI-driven demand surge &lpar;Naureen S Malik/Bloomberg&rpar;](http://www.techmeme.com/250722/p40#a250722p40)
- - [Steve Jobs&#39; daughter&#39;s $6.7M wedding draws high-profile guests](https://appleinsider.com/articles/25/07/22/steve-jobs-daughters-67m-wedding-draws-high-profile-guests?utm_source=rss)<!-- TECH:END -->
+ - [Researchers detail &quot;subliminal learning&quot;, where LLMs learn traits from model-generated data that is semantically unrelated to those traits &lpar;Anthropic&rpar;](http://www.techmeme.com/250722/p41#a250722p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

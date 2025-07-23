@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 😝 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
- - 💣 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 😝 [Everywhere](http://9gag.com/gag/aqyD0QM)
- - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
+ - 😝 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
+ - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
+ - 💣 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
+ - 😝 [Bad maneuver](http://9gag.com/gag/a1mO4e6)
+ - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
 
 ---
 

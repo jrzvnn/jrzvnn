@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 😝 [Ozzy knows best](http://9gag.com/gag/aAyvnep)
+ - 💣 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
  - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 💣 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
+ - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---
 

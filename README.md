@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can you?](http://9gag.com/gag/aRBR5Pj)
- - 😝 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 💣 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
+ - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
  - 😝 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
+ - 💣 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 😝 [Everywhere](http://9gag.com/gag/aqyD0QM)
  - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 💣 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
  - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
+ - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
+ - 💣 [Denzel](http://9gag.com/gag/a4PwD9A)
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 👉 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
 
 ---
 

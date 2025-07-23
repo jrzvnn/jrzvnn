@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say North Korean scammers infiltrating the US workforce often reference Minions and other Despicable Me characters in GitHub and Telegram profiles &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250723/p8#a250723p8)
  - [OpenAI details how its tools have boosted US worker productivity and says its chief economist is leading a 12-month study to assess AI&#39;s impact on productivity &lpar;OpenAI&rpar;](http://www.techmeme.com/250723/p7#a250723p7)
- - [AWS shuts down its Shanghai AI research lab, following similar moves by other US tech groups, including Microsoft and IBM, to scale back China-based R&amp;D efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p6#a250723p6)
+ - [AWS shuts down its Shanghai AI research lab, following similar moves by Microsoft, IBM, and other US tech companies, to scale back China-based R&amp;D efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p6#a250723p6)
  - [PayPal announces PayPal World, an upcoming platform designed to simplify cross-border payments via Venmo, India&#39;s UPI, Tencent&#39;s Tenpay, and Mercado Pago &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250723/p5#a250723p5)
- - [Analysis: in H1 2025, 500+ orgs lobbied the White House and Congress on AI, on par with H1 2024 but up ~2x since 2023; OpenAI spent $1.8M, up from $380K in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p4#a250723p4)
- - [Xelix, which uses AI to automate businesses&#39; accounts payable workflows by connecting with ERP systems, raised a $160M Series B led by Insight Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250723/p3#a250723p3)<!-- TECH:END -->
+ - [Analysis: in H1 2025, 500+ orgs lobbied the White House and Congress on AI, on par with H1 2024 but up ~2x since 2023; OpenAI spent $1.8M, up from $380K in 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p4#a250723p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

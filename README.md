@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [Focking weebs](http://9gag.com/gag/ary86A5)
- - 💣 [He must have been wearing height reducing shoes, you never know](http://9gag.com/gag/aD2QEGK)
- - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
+ - 😝 [Don&#39;t tell me, its the huge magnet in it.... Isnt it.](http://9gag.com/gag/ayNvO88)
+ - 😝 [Jumping spider in action](http://9gag.com/gag/ae9Ro9m)
+ - 💣 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
+ - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
 
 ---
 

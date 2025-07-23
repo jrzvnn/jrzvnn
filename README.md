@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds new features to Google Photos, including a Veo 2-powered photo-to-video tool and a Remix tool that applies styles like anime and sketches to photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250723/p37#a250723p37)
  - [The new AI Action Plan, which includes some 90 recommendations, aims to loosen environmental rules and vastly expand AI software and hardware exports to allies &lpar;Reuters&rpar;](http://www.techmeme.com/250723/p36#a250723p36)
  - [Undeterred by limits, Elon Musk plots a big robotaxi expansion](https://www.theverge.com/tesla/712703/tesla-robotaxi-fsd-elon-musk-earnings-q2-2025)
  - [Trump Says He&#39;s &#39;Getting Rid of Woke&#39; and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)
- - [Walmart hires Instacart CPO Daniel Danker as head of global AI acceleration, product, and design, starting next month and reporting to CEO Doug McMillon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250723/p35#a250723p35)
- - [Microsoft Put Older Versions of SharePoint on Life Support. Hackers Are Taking Advantage](https://www.wired.com/story/microsoft-sharepoint-hack-china-end-of-life-updates/)<!-- TECH:END -->
+ - [Walmart hires Instacart CPO Daniel Danker as head of global AI acceleration, product, and design, starting next month and reporting to CEO Doug McMillon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250723/p35#a250723p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

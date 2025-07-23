@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steve Jobs&#39; daughter&#39;s $6.7M wedding draws high-profile guests](https://appleinsider.com/articles/25/07/22/steve-jobs-daughters-67m-wedding-draws-high-profile-guests?utm_source=rss)
- - [Microsoft launches the 13.8-inch Surface Laptop 5G for business customers, featuring Intel Core Ultra series 2 processors, shipping on August 26 for $1,799+ &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250722/p39#a250722p39)
- - [Alibaba debuts the Qwen3-Coder model for agentic coding, including a 480B-parameter MoE variant, and open sources Qwen Code, a CLI tool adapted from Gemini CLI &lpar;Qwen&rpar;](http://www.techmeme.com/250722/p38#a250722p38)
- - [Uncovered iOS 26 beta image hints at sleep score for Apple Watch](https://appleinsider.com/articles/25/07/22/uncovered-ios-26-beta-image-hints-at-sleep-score-for-apple-watch?utm_source=rss)
- - [The Escobar Phone scam saga has finally come to an end](https://www.theverge.com/news/711929/escobar-phone-scam-guilty-plea-deal)<!-- TECH:END -->
+ - [Source: the US National Nuclear Security Administration was among those breached by a hack of SharePoint; no sensitive information is known to be compromised &lpar;Ari Natter/Bloomberg&rpar;](http://www.techmeme.com/250722/p42#a250722p42)
+ - [Researchers detail &quot;subliminal learning&quot;, where LLMs learn traits from model-generated data that is semantically unrelated to those traits &lpar;Anthropic&rpar;](http://www.techmeme.com/250722/p41#a250722p41)
+ - [A Top NASA Official Is Among Thousands of Staff Leaving the Agency](https://www.wired.com/story/a-top-nasa-official-is-among-thousands-of-staff-leaving-the-agency/)
+ - [Businesses and households served by PJM, the US&#39; largest power grid operator, will pay a record $16.1B for electricity supplies amid an AI-driven demand surge &lpar;Naureen S Malik/Bloomberg&rpar;](http://www.techmeme.com/250722/p40#a250722p40)
+ - [Steve Jobs&#39; daughter&#39;s $6.7M wedding draws high-profile guests](https://appleinsider.com/articles/25/07/22/steve-jobs-daughters-67m-wedding-draws-high-profile-guests?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

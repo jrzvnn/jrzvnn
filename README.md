@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)
- - 😝 [Ozzy knows best](http://9gag.com/gag/aAyvnep)
- - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 😝 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)
- - 👉 [The Prince has left his throne](http://9gag.com/gag/abARPmp)<!-- MEMES:END -->
+ - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 💣 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
 
 ---
 

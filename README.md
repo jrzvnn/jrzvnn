@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VSCO made a new way to shoot photos on your iPhone](https://www.theverge.com/news/712377/vsco-capture-iphone-app-launch)
- - [AppleCare+ vs AppleCare One: Warranty services compared](https://appleinsider.com/inside/applecare/vs/applecare-vs-applecare-one-warranty-services-compared?utm_source=rss)
- - [The White House unveils the AI Action Plan, seeking to assert US dominance over China, including proposals to ease permitting for AI infrastructure projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/250723/p24#a250723p24)
- - [Anti-Elon Musk protesters are coming for Tesla’s new diner](https://www.theverge.com/news/711701/tesla-diner-protest-demonstration-elon-musk-trump-doge)
- - [A new study just upended AI safety](https://www.theverge.com/ai-artificial-intelligence/711975/a-new-study-just-upended-ai-safety)<!-- TECH:END -->
+ - [Save up to $450 on OWC Express 1M2 USB 4 external SSDs for Mac](https://appleinsider.com/articles/25/07/23/save-up-to-450-on-owc-express-1m2-usb-4-external-ssds-for-mac?utm_source=rss)
+ - [The Outer Worlds 2 will no longer be one of Microsoft&amp;#8217;s first $80 Xbox games](https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox)
+ - [Meta debuts a prototype wristband to read electrical signals from forearm muscles, letting users control devices without touch, trained on 10K peoples&#39; EMG data &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250723/p26#a250723p26)
+ - [The Switch 2 had a very good launch month](https://www.theverge.com/news/712362/nintendo-switch-2-june-2025-sales)
+ - [President Trump&#39;s AI Action Plan, which has 90+ policy recommendations, explicitly seeks to roll back Biden-era measures on AI bias and cybersecurity threats &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250723/p25#a250723p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
+ - 💣 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
  - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 💣 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
- - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
  - 👉 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)<!-- MEMES:END -->
 
 ---

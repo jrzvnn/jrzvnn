@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Trump&amp;#8217;s war on clean energy is making AI a bigger polluter](https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions)
+ - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
  - [Google DeepMind unveils Aeneas, an AI model for contextualizing ancient Latin inscriptions, to help historians interpret and restore fragmentary texts &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250723/p28#a250723p28)
  - [Starlink-powered &amp;#8216;T-Satellite&amp;#8217; service is now live on T-Mobile](https://www.theverge.com/news/712546/starlink-powered-t-satellite-service-is-now-live-on-t-mobile)
- - [Trump is bringing back the AI law moratorium](https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [Instagram changes its algorithm after being accused of steering predators to children](https://www.theverge.com/news/712518/meta-instagram-algorithm-recommendations-update-child-predators)<!-- TECH:END -->
+ - [Trump is bringing back the AI law moratorium](https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

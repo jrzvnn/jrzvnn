@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seems Topical Today](http://9gag.com/gag/ae9RoZB)
- - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
- - 💣 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
- - 😝 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)
- - 👉 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)<!-- MEMES:END -->
+ - 😝 [Focking weebs](http://9gag.com/gag/ary86A5)
+ - 😝 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 💣 [Denzel](http://9gag.com/gag/a4PwD9A)
+ - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
+ - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
 
 ---
 

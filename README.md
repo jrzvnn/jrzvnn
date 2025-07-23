@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
- - 😝 [Your salary](http://9gag.com/gag/aNDj6xG)
- - 💣 [Ozzy Passed Away](http://9gag.com/gag/ayNvgzM)
- - 😝 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
- - 👉 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)<!-- MEMES:END -->
+ - 😝 [Can you?](http://9gag.com/gag/aRBR5Pj)
+ - 😝 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 💣 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
+ - 😝 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
+ - 👉 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)<!-- MEMES:END -->
 
 ---
 

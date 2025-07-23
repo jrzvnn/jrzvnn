@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 💣 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 😝 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)
- - 👉 [Not this time mf](http://9gag.com/gag/aBy4qqx)<!-- MEMES:END -->
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 😝 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
+ - 💣 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)
+ - 😝 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)
+ - 👉 [The Prince has left his throne](http://9gag.com/gag/abARPmp)<!-- MEMES:END -->
 
 ---
 

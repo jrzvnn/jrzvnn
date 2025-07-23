@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t tell me, its the huge magnet in it.... Isnt it.](http://9gag.com/gag/ayNvO88)
- - 😝 [Jumping spider in action](http://9gag.com/gag/ae9Ro9m)
- - 💣 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
- - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
+ - 😝 [The Prince has left his throne](http://9gag.com/gag/abARPmp)
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 💣 [Catch the ball](http://9gag.com/gag/a1mO4LR)
+ - 😝 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
+ - 👉 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Goldman Sachs and BNY partner to let institutional investors purchase tokenized money market funds, with ownership recorded on Goldman&#39;s blockchain platform &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250723/p29#a250723p29)
- - [How Trump&amp;#8217;s war on clean energy is making AI a bigger polluter](https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions)
- - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
- - [No iOS 26 Public Beta Yet but It Could Land on Your iPhone Soon](https://www.cnet.com/tech/services-and-software/no-ios-26-public-beta-yet-but-it-could-land-on-your-iphone-soon/#ftag=CAD590a51e)
- - [Meta Touts Even More Protections for Teen Users. Here&#39;s What&#39;s New](https://www.cnet.com/tech/services-and-software/meta-touts-even-more-protections-for-teen-users-heres-whats-new/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Trump administration plans to vet AI models for &quot;ideological bias&quot; and limit government contracts to tech companies whose models offer &quot;objective truth&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p30#a250723p30)
+ - [I Tried T-Mobile&#39;s New Satellite Service for Texting in Dead Zones. Here&#39;s How It&#39;s Different](https://www.cnet.com/tech/mobile/i-tried-t-mobiles-new-satellite-service-for-texting-in-dead-zones-heres-how-its-different/#ftag=CAD590a51e)
+ - [A Sweltering Heat Dome Is Pummeling the Middle of the US. Here&#39;s What That Means](https://www.cnet.com/news/a-sweltering-heat-dome-is-pummeling-the-middle-of-the-us-heres-what-that-means/#ftag=CAD590a51e)
+ - [Best Laptops We&#39;ve Tested &lpar;July 2025&rpar;](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
+ - [Spotify Takes Down Fake AI Song Credited to Famous Country Singer Who&#39;s Been Dead for Years](https://www.cnet.com/tech/services-and-software/spotify-takes-down-fake-ai-song-credited-to-famous-country-singer-whos-been-dead-for-years/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

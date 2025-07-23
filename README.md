@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AppleCare+ vs AppleCare One: Warranty services compared](https://appleinsider.com/articles/25/07/23/applecare-vs-applecare-one-warranty-services-compared?utm_source=rss)
- - [A hacker claims to have compromised Amazon&#39;s Q coding assistant for VS Code via a GitHub pull request; Amazon says &quot;no customer resources were impacted&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250723/p22#a250723p22)
- - [Ukraine arrests the suspected administrator of Russian-speaking hacking forum XSS.is at the Paris public prosecutor&#39;s request, with help from France and Europol &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250723/p21#a250723p21)
- - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
- - [AppleCare+ brings theft and loss option to iPad and Apple Watch](https://appleinsider.com/articles/25/07/23/applecare-brings-theft-and-loss-option-to-ipad-and-apple-watch?utm_source=rss)<!-- TECH:END -->
+ - [Anti-Elon Musk protesters are coming for Tesla’s new diner](https://www.theverge.com/news/711701/tesla-diner-protest-demonstration-elon-musk-trump-doge)
+ - [A new study just upended AI safety](https://www.theverge.com/ai-artificial-intelligence/711975/a-new-study-just-upended-ai-safety)
+ - [Developers can now try special offers to persuade subscribers to stay](https://appleinsider.com/articles/25/07/23/developers-can-now-try-special-offers-to-persuade-subscribers-to-stay?utm_source=rss)
+ - [Time is running out to save on the Samsung Galaxy Z Fold 7](https://www.theverge.com/tech/712263/samsung-galaxy-z-fold-7-flip-pre-order-deal-sale)
+ - [A US federal jury gives five Nevada men varying prison sentences for their roles in running Jetflicks, one of the largest illegal TV streaming services &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250723/p23#a250723p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

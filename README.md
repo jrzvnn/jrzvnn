@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
- - 😝 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)
- - 💣 [Catch the ball](http://9gag.com/gag/a1mO4LR)
- - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
- - 👉 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)<!-- MEMES:END -->
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
+ - 💣 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
+ - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
 
 ---
 

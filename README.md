@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google adds new features to Google Photos, including a Veo 2-powered photo-to-video tool and a Remix tool that applies styles like anime and sketches to photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250723/p37#a250723p37)
  - [The new AI Action Plan, which includes some 90 recommendations, aims to loosen environmental rules and vastly expand AI software and hardware exports to allies &lpar;Reuters&rpar;](http://www.techmeme.com/250723/p36#a250723p36)
+ - [Bracing for a Recession? These Accounts Can Keep Your Money Safe](https://www.cnet.com/personal-finance/banking/bracing-for-a-recession-these-accounts-can-keep-your-money-safe/#ftag=CAD590a51e)
  - [Undeterred by limits, Elon Musk plots a big robotaxi expansion](https://www.theverge.com/tesla/712703/tesla-robotaxi-fsd-elon-musk-earnings-q2-2025)
- - [Trump Says He&#39;s &#39;Getting Rid of Woke&#39; and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)
- - [Walmart hires Instacart CPO Daniel Danker as head of global AI acceleration, product, and design, starting next month and reporting to CEO Doug McMillon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250723/p35#a250723p35)<!-- TECH:END -->
+ - [Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VSCO made a new way to shoot photos on your iPhone](https://www.theverge.com/news/712377/vsco-capture-iphone-app-launch)
+ - [AppleCare+ vs AppleCare One: Warranty services compared](https://appleinsider.com/inside/applecare/vs/applecare-vs-applecare-one-warranty-services-compared?utm_source=rss)
+ - [The White House unveils the AI Action Plan, seeking to assert US dominance over China, including proposals to ease permitting for AI infrastructure projects &lpar;Bloomberg&rpar;](http://www.techmeme.com/250723/p24#a250723p24)
  - [Anti-Elon Musk protesters are coming for Tesla’s new diner](https://www.theverge.com/news/711701/tesla-diner-protest-demonstration-elon-musk-trump-doge)
- - [A new study just upended AI safety](https://www.theverge.com/ai-artificial-intelligence/711975/a-new-study-just-upended-ai-safety)
- - [Developers can now try special offers to persuade subscribers to stay](https://appleinsider.com/articles/25/07/23/developers-can-now-try-special-offers-to-persuade-subscribers-to-stay?utm_source=rss)
- - [Time is running out to save on the Samsung Galaxy Z Fold 7](https://www.theverge.com/tech/712263/samsung-galaxy-z-fold-7-flip-pre-order-deal-sale)
- - [A US federal jury gives five Nevada men varying prison sentences for their roles in running Jetflicks, one of the largest illegal TV streaming services &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250723/p23#a250723p23)<!-- TECH:END -->
+ - [A new study just upended AI safety](https://www.theverge.com/ai-artificial-intelligence/711975/a-new-study-just-upended-ai-safety)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 😝 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 💣 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
+ - 😝 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)
+ - 😝 [Ozzy knows best](http://9gag.com/gag/aAyvnep)
+ - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 😝 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)
+ - 👉 [The Prince has left his throne](http://9gag.com/gag/abARPmp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 😝 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
- - 💣 [Catch the ball](http://9gag.com/gag/a1mO4LR)
- - 😝 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
- - 👉 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)<!-- MEMES:END -->
+ - 😝 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
+ - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
+ - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Pixel 10 Pro Fold might make blue the new black](https://www.theverge.com/news/712438/google-pixel-10-pro-fold-colors-rumor)
+ - [Faster Qi2 charging is coming to iPhones and &amp;#8216;major&amp;#8217; Android phones](https://www.theverge.com/news/712415/qi2-25w-wireless-charging-major-android-smartphones-wpc)
  - [Save up to $450 on OWC Express 1M2 USB 4 external SSDs for Mac](https://appleinsider.com/articles/25/07/23/save-up-to-450-on-owc-express-1m2-usb-4-external-ssds-for-mac?utm_source=rss)
  - [The Outer Worlds 2 will no longer be Microsoft&amp;#8217;s first $80 Xbox game](https://www.theverge.com/news/712371/the-outer-worlds-2-price-change-microsoft-xbox)
- - [Meta debuts a prototype wristband to read electrical signals from forearm muscles, letting users control devices without touch, trained on 10K peoples&#39; EMG data &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250723/p26#a250723p26)
- - [The Switch 2 had a very good launch month](https://www.theverge.com/news/712362/nintendo-switch-2-june-2025-sales)
- - [President Trump&#39;s AI Action Plan, which has 90+ policy recommendations, explicitly seeks to roll back Biden-era measures on AI bias and cybersecurity threats &lpar;Kate Knibbs/Wired&rpar;](http://www.techmeme.com/250723/p25#a250723p25)<!-- TECH:END -->
+ - [Meta debuts a prototype wristband to read electrical signals from forearm muscles, letting users control devices without touch, trained on 10K peoples&#39; EMG data &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250723/p26#a250723p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

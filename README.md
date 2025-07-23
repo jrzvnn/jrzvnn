@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grab Apple&#39;s M4 MacBook Air for $849 with back-to-school savings](https://appleinsider.com/articles/25/07/23/grab-apples-m4-macbook-air-for-849-with-back-to-school-savings?utm_source=rss)
+ - [PlayStation DualSense controllers updating soon with multiple device pairing](https://appleinsider.com/articles/25/07/23/playstation-dualsense-controllers-updating-soon-with-multiple-device-pairing?utm_source=rss)
  - [A $17 Hotdog and a Humanoid Robot Serving Popcorn: WIRED&#39;s Day at the Tesla Diner](https://www.wired.com/story/searching-for-humanitys-last-hope-and-a-taste-of-the-future-at-the-tesla-diner/)
  - [Alphabet reports Google Cloud Q2 revenue up 32% YoY to $13.62B, vs. $13.11B est., and raises its 2025 capex forecast to $85B, up from $75B in February &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250723/p34#a250723p34)
- - [Amazon&amp;#8217;s Fire TV Omni QLED Series is back down to its Prime Day low](https://www.theverge.com/tech/712612/amazon-fire-tv-omni-qled-series-65-inch-deal-sale)
- - [Apple&#39;s Epic gamble: birthright citizenship ruling cited to overturn antisteering mandate](https://appleinsider.com/articles/25/07/23/apples-epic-gamble-birthright-citizenship-ruling-cited-to-overturn-antisteering-mandate?utm_source=rss)
- - [Google’s CEO says ‘AI is positively impacting every part of the business’](https://www.theverge.com/news/712638/alphabet-google-earnings-q2-2025-ceo-sundar-pichai-ai)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s Fire TV Omni QLED Series is back down to its Prime Day low](https://www.theverge.com/tech/712612/amazon-fire-tv-omni-qled-series-65-inch-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Great Crypto Re-Banking Has Begun](https://www.wired.com/story/the-great-crypto-re-banking-has-begun/)
  - [VenHub, which uses robotics and AI to run fully automated retail stores, confidentially files for a US direct listing, after a $715M SPAC merger failed in May &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250723/p11#a250723p11)
  - [It Looks Like the Tesla Model Y Refresh Has Bombed](https://www.wired.com/story/it-looks-like-the-tesla-model-y-refresh-has-bombed/)
  - [Proton is launching a privacy-focused AI chatbot](https://www.theverge.com/news/711860/proton-privacy-focused-ai-chatbot)
- - [Alibaba releases its new Qwen3-235B-A22B-Instruct-2507 model on Hugging Face, improving on Qwen 3&#39;s reasoning, accuracy, and multilingual understanding &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250723/p10#a250723p10)
- - [Dell says COO Jeff Clarke will now oversee its Client Solutions Group, which includes desktop and notebook PCs; Dell&#39;s consumer PC revenue fell 19% in Q1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250723/p9#a250723p9)<!-- TECH:END -->
+ - [Alibaba releases its new Qwen3-235B-A22B-Instruct-2507 model on Hugging Face, improving on Qwen 3&#39;s reasoning, accuracy, and multilingual understanding &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250723/p10#a250723p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

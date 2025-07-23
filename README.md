@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 💣 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
- - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
+ - 😝 [Grandpa picking up a cat](http://9gag.com/gag/aRBR5VM)
+ - 💣 [This guy explains how Roman soldiers would carry their items.](http://9gag.com/gag/awye698)
+ - 😝 [What if I&#39;m not the smartest peanut in the turd?](http://9gag.com/gag/aZZRAw9)
+ - 👉 [The Prince has left his throne](http://9gag.com/gag/abARPmp)<!-- MEMES:END -->
 
 ---
 

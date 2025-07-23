@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ukraine arrests the suspected administrator of Russian-speaking hacking forum XSS.is at the Paris public prosecutor&#39;s request, with help from France and Europol &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/250723/p21#a250723p21)
+ - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
+ - [AppleCare+ brings theft and loss option to iPad and Apple Watch](https://appleinsider.com/articles/25/07/23/applecare-brings-theft-and-loss-option-to-ipad-and-apple-watch?utm_source=rss)
  - [Sonos names Tom Conrad permanent CEO](https://www.theverge.com/news/712262/sonos-ceo-tom-conrad-speakers-arc-ace)
- - [Lightning iPhones get real USB-C support with custom case](https://appleinsider.com/articles/25/07/23/lightning-iphones-get-real-usb-c-support-with-custom-case?utm_source=rss)
- - [Uber plans to launch a pilot ride type to match female riders and drivers in LA, San Francisco, and Detroit over the next few weeks, called &quot;Women Drivers&quot; &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250723/p20#a250723p20)
- - [Super Pocket Neo Geo Edition Review: Pocketable Fun](https://www.wired.com/review/super-pocket-neo-geo-edition/)
- - [Uber making it easier for women riders and drivers to find each other](https://www.theverge.com/news/711542/uber-women-driver-preference-feature)<!-- TECH:END -->
+ - [Lightning iPhones get real USB-C support with custom case](https://appleinsider.com/articles/25/07/23/lightning-iphones-get-real-usb-c-support-with-custom-case?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

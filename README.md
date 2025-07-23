@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
- - 😝 [I wish I had the confidence to contribute less than bare minimum at my workplace and demand `pay what you owe us`](http://9gag.com/gag/ae9RvRb)
+ - 😝 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
  - 💣 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
- - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
+ - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
+ - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
 
 ---
 

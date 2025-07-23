@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re never safe.](http://9gag.com/gag/aBy4qGQ)
- - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
  - 😝 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)
- - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
+ - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
+ - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
 
 ---
 

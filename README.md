@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
- - 💣 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
+ - 😝 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
+ - 😝 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
+ - 💣 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
+ - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
 
 ---
 

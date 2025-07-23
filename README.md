@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google leaks its full Pixel 10 lineup](https://www.theverge.com/news/712693/google-leaks-entire-pixel-10-lineup-play-store)
  - [Grab Apple&#39;s M4 MacBook Air for $849 with back-to-school savings](https://appleinsider.com/articles/25/07/23/grab-apples-m4-macbook-air-for-849-with-back-to-school-savings?utm_source=rss)
  - [PlayStation DualSense controllers updating soon with multiple device pairing](https://appleinsider.com/articles/25/07/23/playstation-dualsense-controllers-updating-soon-with-multiple-device-pairing?utm_source=rss)
- - [A $17 Hotdog and a Humanoid Robot Serving Popcorn: WIRED&#39;s Day at the Tesla Diner](https://www.wired.com/story/searching-for-humanitys-last-hope-and-a-taste-of-the-future-at-the-tesla-diner/)
- - [Alphabet reports Google Cloud Q2 revenue up 32% YoY to $13.62B, vs. $13.11B est., and raises its 2025 capex forecast to $85B, up from $75B in February &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250723/p34#a250723p34)
- - [Amazon&amp;#8217;s Fire TV Omni QLED Series is back down to its Prime Day low](https://www.theverge.com/tech/712612/amazon-fire-tv-omni-qled-series-65-inch-deal-sale)<!-- TECH:END -->
+ - [A $17 Hotdog and a Humanoid Robot Serving Popcorn: WIRED’s Day at the Tesla Diner](https://www.wired.com/story/searching-for-humanitys-last-hope-and-a-taste-of-the-future-at-the-tesla-diner/)
+ - [Alphabet reports Google Cloud Q2 revenue up 32% YoY to $13.62B, vs. $13.11B est., and raises its 2025 capex forecast to $85B, up from $75B in February &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250723/p34#a250723p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

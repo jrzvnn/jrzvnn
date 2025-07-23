@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
- - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
- - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
+ - 😝 [Catch the ball](http://9gag.com/gag/a1mO4LR)
+ - 😝 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
+ - 💣 [A Gift from Terry](http://9gag.com/gag/aqyDvxP)
+ - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
+ - 👉 [Is this a riddle?](http://9gag.com/gag/amonq8v)<!-- MEMES:END -->
 
 ---
 

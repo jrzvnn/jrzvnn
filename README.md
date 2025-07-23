@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube gives Shorts creators access to new generative AI features powered by Veo 2, including an image-to-video tool and new effects &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250723/p27#a250723p27)
+ - [Trump just unveiled his plan to put AI in everything](https://www.theverge.com/news/712513/trump-ai-action-plan)
  - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
  - [This Window AC Keeps My Home Cool Even During Record-Breaking Heatwaves](https://www.cnet.com/deals/this-window-ac-keeps-my-home-cool-even-during-record-breaking-heatwaves/#ftag=CAD590a51e)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Xfinity Opens Online Shop for All Your Streaming Entertainment Needs](https://www.cnet.com/tech/services-and-software/xfinity-opens-online-shop-for-all-your-streaming-entertainment-needs/#ftag=CAD590a51e)
- - [How to Watch Germany vs. Spain From Anywhere for Free: Stream UEFA Women&#39;s Euro 2025 Semi-Final Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-germany-vs-spain-from-anywhere-for-free-stream-uefa-womens-euro-2025-semi-final-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

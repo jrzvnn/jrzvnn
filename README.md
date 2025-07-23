@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Fold screen size revealed in dubious new leak](https://appleinsider.com/articles/25/07/23/iphone-fold-screen-size-revealed-in-dubious-new-leak?utm_source=rss)
  - [Proton launches Lumo, an AI chatbot to summarize documents, generate code, and more and says it will protect users&#39; information via &quot;zero-access&quot; encryption &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250723/p13#a250723p13)
  - [The UK CMA proposes giving Apple and Google &quot;strategic market status&quot; in mobile platforms after an investigation and finds &quot;opportunities for more innovation&quot; &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/250723/p12#a250723p12)
  - [A New Era for WIRED—That Starts With You](https://www.wired.com/story/a-new-era-for-wired-that-starts-with-you/)
- - [Best Internet Deals for Seniors, July 2025](https://www.cnet.com/home/internet/best-internet-deals-for-seniors/#ftag=CAD590a51e)
- - [Do You Have a Cortisol Imbalance? These Are the Symptoms of High and Low Cortisol](https://www.cnet.com/health/cortisol-imbalance-high-cortisol-symptoms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Deals for Seniors, July 2025](https://www.cnet.com/home/internet/best-internet-deals-for-seniors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

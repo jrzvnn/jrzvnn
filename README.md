@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Circana: Nintendo Switch 2 is the fastest-selling video game device in US history, with 1.6M units sold in June, topping the PS4&#39;s 1.1M units in November 2013 &lpar;IGN&rpar;](http://www.techmeme.com/250723/p38#a250723p38)
- - [Trump wanted to break up Nvidia — but then its CEO won him over](https://www.theverge.com/news/712753/trump-nvidia-jensen-huang-break-up-chips-ai)
  - [Google adds new features to Google Photos, including a Veo 2-powered photo-to-video tool and a Remix tool that applies styles like anime and sketches to photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250723/p37#a250723p37)
  - [The new AI Action Plan, which includes some 90 recommendations, aims to loosen environmental rules and vastly expand AI software and hardware exports to allies &lpar;Reuters&rpar;](http://www.techmeme.com/250723/p36#a250723p36)
- - [Bracing for a Recession? These Accounts Can Keep Your Money Safe](https://www.cnet.com/personal-finance/banking/bracing-for-a-recession-these-accounts-can-keep-your-money-safe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bracing for a Recession? These Accounts Can Keep Your Money Safe](https://www.cnet.com/personal-finance/banking/bracing-for-a-recession-these-accounts-can-keep-your-money-safe/#ftag=CAD590a51e)
+ - [Trump Says He’s ‘Getting Rid of Woke’ and Dismisses Copyright Concerns in AI Policy Speech](https://www.wired.com/story/president-trump-ai-action-plan-speech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

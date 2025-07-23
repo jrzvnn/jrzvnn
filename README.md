@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea Plans to Build a Base on the Moon](https://www.wired.com/story/south-korea-wants-to-build-a-space-base-on-the-moon-within-20-years/)
+ - [PeakDo makes the ultra-portable Starlink Mini ultra convenient](https://www.theverge.com/reviews/712043/peakdo-linkpower-review-battery-powered-starlink-mini)
  - [US nuclear weapons agency reportedly breached in Microsoft SharePoint attacks](https://www.theverge.com/news/712080/microsoft-sharepoint-hack-us-nuclear-weapons-agency)
- - [Researchers say North Korean scammers infiltrating the US workforce often reference Minions and other Despicable Me characters in GitHub and Telegram profiles &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250723/p8#a250723p8)
- - [OpenAI details how its tools have boosted US worker productivity and says its chief economist is leading a 12-month study to assess AI&#39;s impact on productivity &lpar;OpenAI&rpar;](http://www.techmeme.com/250723/p7#a250723p7)
- - [AWS shuts down its Shanghai AI research lab, following similar moves by Microsoft, IBM, and other US tech companies, to scale back China-based R&amp;D efforts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p6#a250723p6)
- - [PayPal announces PayPal World, an upcoming platform designed to simplify cross-border payments via Venmo, India&#39;s UPI, Tencent&#39;s Tenpay, and Mercado Pago &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250723/p5#a250723p5)<!-- TECH:END -->
+ - [This Is What Your Poop Is Trying to Tell You About Your Gut Health](https://www.cnet.com/health/medical/what-poop-trying-tell-about-gut-health/#ftag=CAD590a51e)
+ - [Researchers say North Korean scammers infiltrating the US workforce often reference Minions and other Despicable Me characters in GitHub and Telegram profiles &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250723/p8#a250723p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xelix, which uses AI to automate businesses&#39; accounts payable workflows by connecting with ERP systems, raised a $160M Series B led by Insight Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250723/p3#a250723p3)
  - [In an interview at the Federal Reserve, Sam Altman warns of an impending &quot;fraud crisis&quot; because of how AI could enable bad actors to impersonate other people &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/250723/p2#a250723p2)
  - [Sources: McKinsey has stopped its China business from undertaking consultancy work related to generative AI, a move prompted by Washington&#39;s growing scrutiny &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p1#a250723p1)
  - [BetterComp, which provides compensation management services for HR teams, raised a $33M Series A led by Ten Coves Capital &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250722/p46#a250722p46)
- - [xLight, which is developing a new class of laser for EUV machines in partnership with ASML, raised a $40M Series B led by Playground Global &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250722/p45#a250722p45)
- - [Sources: the Trump admin is pressuring South Korea, Brazil, the EU, and others to drop plans for new taxes on US tech firms as a part of broader trade talks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250722/p44#a250722p44)<!-- TECH:END -->
+ - [xLight, which is developing a new class of laser for EUV machines in partnership with ASML, raised a $40M Series B led by Playground Global &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/250722/p45#a250722p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

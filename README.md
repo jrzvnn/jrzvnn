@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
+ - 😝 [Focking weebs](http://9gag.com/gag/ary86A5)
  - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
- - 💣 [Backshot and pulling her hair](http://9gag.com/gag/a9yDoyo)
+ - 💣 [Everywhere](http://9gag.com/gag/aqyD0QM)
  - 😝 [Bad maneuver](http://9gag.com/gag/a1mO4e6)
- - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
+ - 👉 [Denzel](http://9gag.com/gag/a4PwD9A)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
+ - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
+ - 😝 [Focking weebs](http://9gag.com/gag/ary86A5)
+ - 💣 [He must have been wearing height reducing shoes, you never know](http://9gag.com/gag/aD2QEGK)
  - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 💣 [Denzel](http://9gag.com/gag/a4PwD9A)
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 👉 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)<!-- MEMES:END -->
+ - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
 
 ---
 

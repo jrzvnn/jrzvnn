@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump is bringing back the AI law moratorium](https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium)
+ - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Instagram changes its algorithm after being accused of steering predators to children](https://www.theverge.com/news/712518/meta-instagram-algorithm-recommendations-update-child-predators)
  - [Photos: Here Are the Piles of Used Bedding and Children’s Play Sets Left Near DOGE’s Old Offices](https://www.wired.com/story/photos-bedding-childrens-play-sets-doge-old-offices/)
- - [YouTube gives Shorts creators access to new generative AI features powered by Veo 2, including an image-to-video tool and new effects &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250723/p27#a250723p27)
- - [Trump unveils his plan to put AI in everything](https://www.theverge.com/news/712513/trump-ai-action-plan)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube gives Shorts creators access to new generative AI features powered by Veo 2, including an image-to-video tool and new effects &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250723/p27#a250723p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

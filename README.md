@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK partners with Deliveroo, Just Eat, and Uber Eats to curb illegal food delivery work, share more data, and combat a secondary market in rider accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p17#a250723p17)
- - [UK announces plans to further regulate Apple and Google](https://appleinsider.com/articles/25/07/23/uk-announces-plans-to-regulate-apple-and-google?utm_source=rss)
- - [Maingear’s Retro95 combines ’90s-era PC design with modern specs](https://www.theverge.com/news/712101/maingear-retro95-sleeper-pc-gaming-specs-pricing)
- - [Sony’s new PS5 Power Saver mode sounds ideal for a PlayStation handheld](https://www.theverge.com/news/712212/sony-ps5-power-saver-handheld-rumors)
- - [Compliance tech startup Vanta raised a $150M Series D led by Wellington Management at a $4.15B valuation, up from $2.45B after raising $150M in July 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250723/p16#a250723p16)<!-- TECH:END -->
+ - [Sonos names Tom Conrad permanent CEO](https://www.theverge.com/news/712262/sonos-ceo-tom-conrad-speakers-arc-ace)
+ - [Lightning iPhones get real USB-C support with custom case](https://appleinsider.com/articles/25/07/23/lightning-iphones-get-real-usb-c-support-with-custom-case?utm_source=rss)
+ - [Uber plans to launch a pilot ride type to match female riders and drivers in LA, San Francisco, and Detroit over the next few weeks, called &quot;Women Drivers&quot; &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250723/p20#a250723p20)
+ - [Super Pocket Neo Geo Edition Review: Pocketable Fun](https://www.wired.com/review/super-pocket-neo-geo-edition/)
+ - [Uber making it easier for women riders and drivers to find each other](https://www.theverge.com/news/711542/uber-women-driver-preference-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Goldman Sachs and BNY partner to let institutional investors purchase tokenized money market funds, with ownership recorded on Goldman&#39;s blockchain platform &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/250723/p29#a250723p29)
  - [How Trump&amp;#8217;s war on clean energy is making AI a bigger polluter](https://www.theverge.com/climate-change/712038/ai-energy-trump-epa-gas-coal-emissions)
  - [AppleCare One can cover devices up to four years after purchase](https://appleinsider.com/articles/25/07/23/applecare-one-can-cover-devices-up-to-four-years-after-purchase?utm_source=rss)
- - [Google DeepMind unveils Aeneas, an AI model for contextualizing ancient Latin inscriptions, to help historians interpret and restore fragmentary texts &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250723/p28#a250723p28)
- - [Starlink-powered &amp;#8216;T-Satellite&amp;#8217; service is now live on T-Mobile](https://www.theverge.com/news/712546/starlink-powered-t-satellite-service-is-now-live-on-t-mobile)
- - [Trump is bringing back the AI law moratorium](https://www.theverge.com/ai-artificial-intelligence/712537/trump-ai-action-plan-white-house-ai-law-moratorium)<!-- TECH:END -->
+ - [No iOS 26 Public Beta Yet but It Could Land on Your iPhone Soon](https://www.cnet.com/tech/services-and-software/no-ios-26-public-beta-yet-but-it-could-land-on-your-iphone-soon/#ftag=CAD590a51e)
+ - [Meta Touts Even More Protections for Teen Users. Here&#39;s What&#39;s New](https://www.cnet.com/tech/services-and-software/meta-touts-even-more-protections-for-teen-users-heres-whats-new/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

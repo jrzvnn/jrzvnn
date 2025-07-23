@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
+ - [This Window AC Keeps My Home Cool Even During Record-Breaking Heatwaves](https://www.cnet.com/deals/this-window-ac-keeps-my-home-cool-even-during-record-breaking-heatwaves/#ftag=CAD590a51e)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Wheel World is the feel-good game of the summer](https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam)
- - [Google is bringing its AI-powered photo-to-video capability to more apps](https://www.theverge.com/news/712217/google-ai-photo-video-youtube-shorts)
- - [The Pixel 10 Pro Fold might make blue the new black](https://www.theverge.com/news/712438/google-pixel-10-pro-fold-colors-rumor)
- - [Faster Qi2 charging is coming to iPhones and &amp;#8216;major&amp;#8217; Android phones](https://www.theverge.com/news/712415/qi2-25w-wireless-charging-major-android-smartphones-wpc)<!-- TECH:END -->
+ - [Xfinity Opens Online Shop for All Your Streaming Entertainment Needs](https://www.cnet.com/tech/services-and-software/xfinity-opens-online-shop-for-all-your-streaming-entertainment-needs/#ftag=CAD590a51e)
+ - [How to Watch Germany vs. Spain From Anywhere for Free: Stream UEFA Women&#39;s Euro 2025 Semi-Final Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-germany-vs-spain-from-anywhere-for-free-stream-uefa-womens-euro-2025-semi-final-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

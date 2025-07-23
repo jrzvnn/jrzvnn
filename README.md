@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Fold screen size revealed in dubious new leak](https://appleinsider.com/articles/25/07/23/iphone-fold-screen-size-revealed-in-dubious-new-leak?utm_source=rss)
- - [Proton launches Lumo, an AI chatbot to summarize documents, generate code, and more and says it will protect users&#39; information via &quot;zero-access&quot; encryption &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250723/p13#a250723p13)
- - [The UK CMA proposes giving Apple and Google &quot;strategic market status&quot; in mobile platforms after an investigation and finds &quot;opportunities for more innovation&quot; &lpar;Muvija M/Reuters&rpar;](http://www.techmeme.com/250723/p12#a250723p12)
- - [A New Era for WIRED—That Starts With You](https://www.wired.com/story/a-new-era-for-wired-that-starts-with-you/)
- - [Best Internet Deals for Seniors, July 2025](https://www.cnet.com/home/internet/best-internet-deals-for-seniors/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK partners with Deliveroo, Just Eat, and Uber Eats to curb illegal food delivery work, share more data, and combat a secondary market in rider accounts &lpar;Financial Times&rpar;](http://www.techmeme.com/250723/p17#a250723p17)
+ - [UK announces plans to further regulate Apple and Google](https://appleinsider.com/articles/25/07/23/uk-announces-plans-to-regulate-apple-and-google?utm_source=rss)
+ - [Maingear’s Retro95 combines ’90s-era PC design with modern specs](https://www.theverge.com/news/712101/maingear-retro95-sleeper-pc-gaming-specs-pricing)
+ - [Sony’s new PS5 Power Saver mode sounds ideal for a PlayStation handheld](https://www.theverge.com/news/712212/sony-ps5-power-saver-handheld-rumors)
+ - [Compliance tech startup Vanta raised a $150M Series D led by Wellington Management at a $4.15B valuation, up from $2.45B after raising $150M in July 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250723/p16#a250723p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

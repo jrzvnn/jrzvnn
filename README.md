@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
- - 😝 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 💣 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
- - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
+ - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 😝 [Which Machine is this any one know???](http://9gag.com/gag/aZZRevn)
+ - 💣 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
+ - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
  - 👉 [Hmm. Is the US of A full of paedos? I see pattern here...](http://9gag.com/gag/apRVWmW)<!-- MEMES:END -->
 
 ---

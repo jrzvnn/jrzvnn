@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
  - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
- - 💣 [They did it again, The madlads.](http://9gag.com/gag/abAR9Vb)
+ - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
  - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
- - 👉 [Still the best video on the internet](http://9gag.com/gag/awye6O4)<!-- MEMES:END -->
+ - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
 
 ---
 

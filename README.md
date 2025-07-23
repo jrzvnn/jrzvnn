@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&amp;#8217;s Fire TV Omni QLED Series is back down to its Prime Day low](https://www.theverge.com/tech/712612/amazon-fire-tv-omni-qled-series-65-inch-deal-sale)
+ - [Apple&#39;s Epic gamble: birthright citizenship ruling cited to overturn antisteering mandate](https://appleinsider.com/articles/25/07/23/apples-epic-gamble-birthright-citizenship-ruling-cited-to-overturn-antisteering-mandate?utm_source=rss)
  - [Google’s CEO says ‘AI is positively impacting every part of the business’](https://www.theverge.com/news/712638/alphabet-google-earnings-q2-2025-ceo-sundar-pichai-ai)
  - [IBM reports Q2 revenue up 8% YoY to $16.98B, vs. $16.59B est., and software revenue up 10% to $7.39B, vs. $7.49B est.; IBM drops 5%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250723/p33#a250723p33)
- - [Alphabet reports YouTube&#39;s Q2 ad revenue rose 13% YoY to $9.8B, vs. $9.56B est., and Google&#39;s advertising revenue reached $71.3B, up from $64.6B a year ago &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/250723/p32#a250723p32)
- - [Tesla’s earnings hit a new low, with largest revenue drop in years](https://www.theverge.com/news/712256/tesla-earnings-q2-2025-revenue-profit-elon-musk)
- - [Alphabet reports Q2 revenue up 14% YoY to $96.43B, net income up 19% to $28.2B, operating income up 14% to $31.27B, and Services revenue up 12% to $82.5B &lpar;Alphabet&rpar;](http://www.techmeme.com/250723/p31#a250723p31)<!-- TECH:END -->
+ - [Alphabet reports YouTube&#39;s Q2 ad revenue rose 13% YoY to $9.8B, vs. $9.56B est., and Google&#39;s advertising revenue reached $71.3B, up from $64.6B a year ago &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/250723/p32#a250723p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

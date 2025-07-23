@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 😝 [Fertility goes down](http://9gag.com/gag/aD2Qpm9)
- - 💣 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
- - 😝 [Hello darkness, my old friend](http://9gag.com/gag/a34N9Pr)
- - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
+ - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 😝 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)
+ - 💣 [Socio-economic reasons go brrrrrrrt](http://9gag.com/gag/azx405m)
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 👉 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)<!-- MEMES:END -->
 
 ---
 

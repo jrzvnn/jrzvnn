@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Not this time mf](http://9gag.com/gag/aBy4qqx)
- - 😝 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
- - 💣 [When the scripts were not made by an AI](http://9gag.com/gag/aYQR90m)
- - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
- - 👉 [LOOK AT ME! I am the Mayor now!](http://9gag.com/gag/aVvRAyM)<!-- MEMES:END -->
+ - 😝 [What is the reason for this?](http://9gag.com/gag/aPArKoV)
+ - 💣 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)
+ - 😝 [Virtual girlfriends getting more realistic](http://9gag.com/gag/a6ZGPvL)
+ - 👉 [Paris](http://9gag.com/gag/aAyvn0Z)<!-- MEMES:END -->
 
 ---
 

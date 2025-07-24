@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 💣 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [That ending](http://9gag.com/gag/aByo99N)
- - 👉 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)<!-- MEMES:END -->
+ - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
+ - 👉 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LegalOn, whose contract review tool uses AI to identify risks and suggest edits, raised a $50M Series C, bringing its total raised to $200M+ &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250724/p23#a250724p23)
- - [We are not ready for better deepfakes](https://www.theverge.com/decoder-podcast-with-nilay-patel/712542/captions-ceo-gaurav-misra-interview-deepfakes-ai-misinformation)
- - [Indiegogo is getting acquired by Gamefound, a board game crowdfunding company](https://www.theverge.com/news/712733/indiegogo-acquired-gamefound-crowdfunding)
- - [The once most-overlooked Fujifilm camera might become my favorite](https://www.theverge.com/tech/712828/fujifilm-x-e5-camera-price-size-travel)
- - [iRobot’s new Roomba could solve the roller mop’s biggest problem](https://www.theverge.com/news/712966/irobot-roomba-max-705-combo-roller-mop-carpet-cover)<!-- TECH:END -->
+ - [HeroDevs, which provides support for legacy open-source software, raised $125M from PSG, intends to allocate $20M to its Open Source Sustainability Fund &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250724/p26#a250724p26)
+ - [Top VTuber ditches her talent agency over &amp;#8216;owed&amp;#8217; $500k charity donation](https://www.theverge.com/news/712627/ironmouse-leaves-vshojo-vtuber-twitch-youtube)
+ - [Figma’s AI app building tool is now available for everyone](https://www.theverge.com/news/712995/figma-make-ai-general-availability-announcement)
+ - [No, of Course You Can&#39;t Actually Play the New Lego Game Boy](https://www.wired.com/story/no-of-course-you-cant-actually-play-the-new-lego-game-boy/)
+ - [Leena AI, which develops an employee-facing agentic AI assistant, launches &quot;AI colleagues&quot; that it says can work and interact just like human employees &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250724/p25#a250724p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

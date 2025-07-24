@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zenbivy Light Bed Review: Still the Best Backcountry Sleep System](https://www.wired.com/review/zenbivy-light-bed-2025/)
- - [Google launches its virtual clothes try-on feature, letting users upload photos of themselves, in the US and updates price alerts to let users specify an amount &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250724/p22#a250724p22)
- - [Amazon updates its color screen Kindle Colorsoft with a cheaper 16GB model for $250 and a kids-focused bundle with one year of Kids Plus for $270, available now &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p21#a250724p21)
- - [Amazon&#39;s New Kindle Colorsoft E-Reader Drops Its Price and Its Storage](https://www.cnet.com/tech/computing/amazon-introduces-new-colorsoft-e-reader-that-costs-less/#ftag=CAD590a51e)
- - [The Kindle Colorsoft Just Got Two More Models](https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/)<!-- TECH:END -->
+ - [LegalOn, whose contract review tool uses AI to identify risks and suggest edits, raised a $50M Series C, bringing its total raised to $200M+ &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250724/p23#a250724p23)
+ - [We are not ready for better deepfakes](https://www.theverge.com/decoder-podcast-with-nilay-patel/712542/captions-ceo-gaurav-misra-interview-deepfakes-ai-misinformation)
+ - [Indiegogo is getting acquired by Gamefound, a board game crowdfunding company](https://www.theverge.com/news/712733/indiegogo-acquired-gamefound-crowdfunding)
+ - [The once most-overlooked Fujifilm camera might become my favorite](https://www.theverge.com/tech/712828/fujifilm-x-e5-camera-price-size-travel)
+ - [iRobot’s new Roomba could solve the roller mop’s biggest problem](https://www.theverge.com/news/712966/irobot-roomba-max-705-combo-roller-mop-carpet-cover)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

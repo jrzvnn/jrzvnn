@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AMD CEO Lisa Su says she expects TSMC&#39;s Arizona-made chips to cost &quot;more than 5% but less than 20%&quot; above TSMC&#39;s Taiwan-made chips, and to arrive by 2025&#39;s end &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p14#a250724p14)
+ - [Pinterest is increasingly filled with AI interior design images, often featuring unrealistic or impossible details, complicating users&#39; search for inspiration &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/250724/p13#a250724p13)
+ - [At an AI summit, President Trump says he considered breaking up Nvidia before aides told him that doing so was &quot;very hard&quot; and &quot;I learned the facts here&quot; &lpar;Annmarie Hordern/Bloomberg&rpar;](http://www.techmeme.com/250724/p12#a250724p12)
  - [Microsoft says the &quot;Storm-2603&quot; group is now deploying ransomware via vulnerable SharePoint server versions, as the estimated number of victims hits 400+ &lpar;Raphael Satter/Reuters&rpar;](http://www.techmeme.com/250724/p11#a250724p11)
- - [A profile of Swedish AI coding startup Lovable, which became the fastest-growing software startup ever, reaching $100M+ in annualized revenue in eight months &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250724/p10#a250724p10)
- - [YouTube has become a valuable resource for professional chefs and, in recent years, has helped skilled amateurs build culinary reputations and open restaurants &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/250724/p9#a250724p9)
- - [Americans Are Obsessed With Watching Short Video Dramas From China](https://www.wired.com/story/china-reel-short-dramas-video-social-media/)
- - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)<!-- TECH:END -->
+ - [A profile of Swedish AI coding startup Lovable, which became the fastest-growing software startup ever, reaching $100M+ in annualized revenue in eight months &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250724/p10#a250724p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

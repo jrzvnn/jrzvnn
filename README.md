@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blender is building a full-featured iPad app, but it&#39;s not clear when it will be released](https://appleinsider.com/articles/25/07/24/blender-is-building-a-full-featured-ipad-app-but-its-not-clear-when-it-will-be-released?utm_source=rss)
+ - [Hands-on with macOS 26: the interface is a mess, like a poorly imported iOS design, but the power of Spotlight and Shortcuts will delight many longtime users &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250724/p51#a250724p51)
+ - [Paramount Has a $1.5 Billion &#39;South Park&#39; Problem](https://www.wired.com/story/paramount-has-a-south-park-problem/)
  - [Starlink’s satellite internet is back online after a massive outage](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
- - [Starlink says it&#39;s experiencing a network outage and is &quot;implementing a solution&quot;; NetBlocks reports that connectivity dropped to &quot;16% of ordinary levels&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250724/p50#a250724p50)
- - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [X is testing using Community Notes to highlight posts that are liked by users with different perspectives &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p49#a250724p49)
- - [No, Instagram didn’t suspend Zohran Mamdani’s account for being ‘too socialist’](https://www.theverge.com/news/713385/zohran-mamdani-instagram-suspended-debunk)<!-- TECH:END -->
+ - [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#39;s a Slippery Slope to More Censorship](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

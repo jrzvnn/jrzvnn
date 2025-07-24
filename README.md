@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils second Osaka store ahead of its opening](https://appleinsider.com/articles/25/07/24/apple-unveils-second-osaka-store-ahead-of-its-opening?utm_source=rss)
- - [4 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
- - [Analysis and sources: $1B+ of Nvidia&#39;s AI chips were shipped to China in the three months after President Trump tightened chip export controls in May &lpar;Financial Times&rpar;](http://www.techmeme.com/250724/p20#a250724p20)
- - [Samsung Galaxy Z Fold7 and Galaxy Z Flip7 Review: A Promising Update](https://www.wired.com/review/samsung-galaxy-z-fold7-and-galaxy-z-flip7/)
- - [Q&amp;A with Stability AI CEO Prem Akkaraju on taking over from Emad Mostaque, his movie background, data and copyright, working with creative industries, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250724/p19#a250724p19)<!-- TECH:END -->
+ - [SteelSeries Rival 3 Gen 2 Review: Good Budget Gaming Mice](https://www.wired.com/review/steelseries-rival-3-gen-2/)
+ - [BMW confirms it will not support CarPlay Ultra](https://appleinsider.com/articles/25/07/24/bmw-confirms-it-will-not-support-carplay-ultra?utm_source=rss)
+ - [Dynabook Portégé Z40L-N Review: Replaceable Batteries, High Price](https://www.wired.com/review/dynabook-portege-z40l-n/)
+ - [AppleCare One is a good deal, but not for everyone](https://www.theverge.com/tech/712429/applecare-one-warranty-play-cost-versus-plus-plan-analysis)
+ - [AI-Generated Content on Netflix Is Already Here](https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

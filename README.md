@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&amp;#8217;s shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
+ - [Figma makes its prompt-to-app coding tool Figma Make available to all users, after initially launching it in beta for Full Seat users earlier in 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p34#a250724p34)
+ - [AppleCare One users get gift cards when switching from AppleCare+](https://appleinsider.com/articles/25/07/24/applecare-one-users-get-gift-cards-when-switching-from-applecare?utm_source=rss)
  - [Armada, whose mobile AI data centers for use in remote environments have been used by the US Navy, raised $131M, bringing its total funding to $200M+ &lpar;Cal Biesecker/Defense Daily&rpar;](http://www.techmeme.com/250724/p33#a250724p33)
- - [Everything we think we know about the Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)
- - [An Inventor Is Injecting Bleach Into Cancerous Tumors—and Wants to Bring the Treatment to the US](https://www.wired.com/story/dangerous-bleach-injecting-cancer-treatment/)
- - [Lyft rolls out letting riders &quot;favorite&quot; or block drivers to enhance loyalty from riders and drivers; favorites get priority for future scheduled rides &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250724/p32#a250724p32)
- - [New Qi2 25W standard means quicker, easier wireless charging](https://appleinsider.com/articles/25/07/24/new-qi2-25w-standard-means-quicker-easier-wireless-charging?utm_source=rss)<!-- TECH:END -->
+ - [Everything we think we know about the Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

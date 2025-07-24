@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
- - 😝 [Accident with nature](http://9gag.com/gag/avy9YgX)
- - 💣 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
+ - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 💣 [Accident with nature](http://9gag.com/gag/avy9YgX)
+ - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
  - 👉 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
 
 ---

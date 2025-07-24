@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile&#39;s Starlink-powered satellite service T-Satellite is now generally available as a standalone subscription for US users, not just T-Mobile customers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250723/p42#a250723p42)
- - [At an All-In Podcast summit, President Trump said forcing AI firms to pay for each copyrighted work is &quot;not doable&quot;, calling for &quot;common sense&quot; AI and IP rules &lpar;Deadline&rpar;](http://www.techmeme.com/250723/p41#a250723p41)
- - [9 Wickedly Creative Lego Sets Debuting at Comic-Con 2025](https://www.cnet.com/tech/services-and-software/9-wickedly-creative-lego-sets-debuting-at-comic-con-2025/#ftag=CAD590a51e)
- - [Sundar Pichai says the Gemini app has 450M+ MAUs, with daily requests up 50%+ from Q1, AI Overviews has 2B+ MAUs, and AI Mode has 100M+ MAUs in the US and India &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250723/p40#a250723p40)
- - [SK Hynix reports Q2 revenue up 35% YoY to ~$16.2B vs. ~$14.9B est., operating profit up 68% to ~$6.7B vs. ~$6.5B est., and expects sustained HBM demand in 2025 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250723/p39#a250723p39)<!-- TECH:END -->
+ - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)
+ - [The Wireless Power Consortium launches faster Qi2 25W wireless charging, with &quot;major Android smartphones&quot; finally adopting the standard alongside the iPhone &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250723/p44#a250723p44)
+ - [ServiceNow reports Q2 revenue up 22.5% YoY to $3.22B, vs. $3.12B est., and net income up 47% YoY to $385M, fueled by AI growth; NOW jumps 7%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250723/p43#a250723p43)
+ - [Here is Lego’s official Nintendo Game Boy — with lenticular display](https://www.theverge.com/news/712786/here-is-legos-official-nintendo-game-boy-with-lenticular-display)
+ - [T-Mobile&#39;s Starlink-powered satellite service T-Satellite is now generally available as a standalone subscription for US users, not just T-Mobile customers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250723/p42#a250723p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

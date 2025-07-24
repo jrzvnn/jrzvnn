@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not this time mf](http://9gag.com/gag/aBy4qqx)
  - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
+ - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
  - 💣 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
  - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 👉 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)<!-- MEMES:END -->
+ - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---
 

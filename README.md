@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)
+ - [Gamma Data: China&#39;s female-oriented gaming market surged 124% YoY to $1B in 2024, driven by mobile game Love and Deepspace, which earned $400M, per Sensor Tower &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250724/p7#a250724p7)
  - [STMicro reports Q2 revenue down 14.4% YoY to $2.77B, with an operating loss of $133M, vs. $56.2M profit est., including $190M in impairment and other costs &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250724/p6#a250724p6)
  - [CISPE files a legal complaint in the EU, arguing that the bloc&#39;s approval of Broadcom&#39;s VMware buyout failed to impose conditions to prevent market power abuse &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250724/p5#a250724p5)
- - [London-based stock trading app Lightyear, which operates in 25 European countries, raised $23M led by NordicNinja, sources say at a $200M-$300M valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250724/p4#a250724p4)
- - [Sources: Adani Group has shelved plans for a consumer super app amid losses and internal turmoil, as Reliance and Tata also struggle to scale their platforms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p3#a250724p3)
- - [China&#39;s Qianfan, the third largest satellite broadband constellation with 90 operational satellites, remains far short of its goal of 648 by the end of 2025 &lpar;Ling Xin/South China Morning Post&rpar;](http://www.techmeme.com/250724/p2#a250724p2)<!-- TECH:END -->
+ - [London-based stock trading app Lightyear, which operates in 25 European countries, raised $23M led by NordicNinja, sources say at a $200M-$300M valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250724/p4#a250724p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Blender is building a full-featured iPad app, but it&#39;s not clear when it will be released](https://appleinsider.com/articles/25/07/24/blender-is-building-a-full-featured-ipad-app-but-its-not-clear-when-it-will-be-released?utm_source=rss)
  - [Hands-on with macOS 26: the interface is a mess, like a poorly imported iOS design, but the power of Spotlight and Shortcuts will delight many longtime users &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250724/p51#a250724p51)
- - [Paramount Has a $1.5 Billion &#39;South Park&#39; Problem](https://www.wired.com/story/paramount-has-a-south-park-problem/)
+ - [Paramount Has a $1.5 Billion ‘South Park’ Problem](https://www.wired.com/story/paramount-has-a-south-park-problem/)
  - [Starlink’s satellite internet is back online after a massive outage](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
  - [Steam and Itch.io Are Pulling ‘Porn’ Games. Critics Say It&#39;s a Slippery Slope to More Censorship](https://www.wired.com/story/steam-itchio-are-pulling-porn-games-censorship/)<!-- TECH:END -->
 

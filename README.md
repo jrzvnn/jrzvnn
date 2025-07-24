@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 💣 [That ending](http://9gag.com/gag/aByo99N)
  - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 😝 [Need a new identity](http://9gag.com/gag/aQzywAe)
- - 💣 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
- - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
+ - 👉 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)<!-- MEMES:END -->
 
 ---
 

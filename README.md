@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)
- - [Figma makes its prompt-to-app coding tool Figma Make available to all users, after initially launching it in beta for Full Seat users earlier in 2025 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p34#a250724p34)
- - [AppleCare One users get gift cards when switching from AppleCare+](https://appleinsider.com/articles/25/07/24/applecare-one-users-get-gift-cards-when-switching-from-applecare?utm_source=rss)
- - [Armada, whose mobile AI data centers for use in remote environments have been used by the US Navy, raised $131M, bringing its total funding to $200M+ &lpar;Cal Biesecker/Defense Daily&rpar;](http://www.techmeme.com/250724/p33#a250724p33)
- - [Everything we think we know about the Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)<!-- TECH:END -->
+ - [Source: OpenAI is planning to launch GPT-5 in early August, complete with mini and nano versions that will also be available through its API &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250724/p36#a250724p36)
+ - [A Premium Luggage Service&#39;s Web Bugs Exposed the Travel Plans of Every User—Including Diplomats](https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/)
+ - [OpenAI prepares to launch GPT-5 in August](https://www.theverge.com/notepad-microsoft-newsletter/712950/openai-gpt-5-model-release-date-notepad)
+ - [Google&#39;s lead for Home and Nest Anish Kattukaran apologizes for Assistant reliability issues on home devices and announces &quot;major improvements&quot; later this year &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250724/p35#a250724p35)
+ - [Google&amp;#8217;s shortened goo.gl links will stop working next month](https://www.theverge.com/news/713125/google-url-shortener-links-shutdown-deadline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

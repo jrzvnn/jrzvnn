@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Founders Fund and Dragoneer have committed to investing $1B+ each in OpenAI&#39;s second, $30B installment of its $40B round announced in March &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250724/p28#a250724p28)
+ - [A US judge dismisses a lawsuit accusing Intel of defrauding shareholders by hiding problems in its foundry unit, news of which led to a $32B one-day stock fall &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250724/p27#a250724p27)
  - [HeroDevs, which provides support for legacy open-source software, raised $125M from PSG, intends to allocate $20M to its Open Source Sustainability Fund &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250724/p26#a250724p26)
- - [Top VTuber ditches her talent agency over &amp;#8216;owed&amp;#8217; $500k charity donation](https://www.theverge.com/news/712627/ironmouse-leaves-vshojo-vtuber-twitch-youtube)
- - [Figma’s AI app building tool is now available for everyone](https://www.theverge.com/news/712995/figma-make-ai-general-availability-announcement)
- - [No, of Course You Can&#39;t Actually Play the New Lego Game Boy](https://www.wired.com/story/no-of-course-you-cant-actually-play-the-new-lego-game-boy/)
- - [Leena AI, which develops an employee-facing agentic AI assistant, launches &quot;AI colleagues&quot; that it says can work and interact just like human employees &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250724/p25#a250724p25)<!-- TECH:END -->
+ - [The VTuber world is in crisis over &amp;#8216;owed&amp;#8217; donations](https://www.theverge.com/news/712627/ironmouse-leaves-vshojo-vtuber-twitch-youtube)
+ - [Figma’s AI app building tool is now available for everyone](https://www.theverge.com/news/712995/figma-make-ai-general-availability-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

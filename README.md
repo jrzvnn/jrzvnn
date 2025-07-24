@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis and sources: $1B+ of Nvidia&#39;s AI chips were shipped to China in the three months after President Trump tightened chip export controls in May &lpar;Financial Times&rpar;](http://www.techmeme.com/250724/p20#a250724p20)
+ - [Samsung Galaxy Z Fold7 and Galaxy Z Flip7 Review: A Promising Update](https://www.wired.com/review/samsung-galaxy-z-fold7-and-galaxy-z-flip7/)
  - [Q&amp;A with Stability AI CEO Prem Akkaraju on taking over from Emad Mostaque, his movie background, data and copyright, working with creative industries, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250724/p19#a250724p19)
  - [Sources and a document: China aims to build a national network to sell surplus computing power and address an oversupply caused by a three-year data center boom &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p18#a250724p18)
- - [7 Best Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
- - [Florida Is Now a Haven for Unproven Stem-Cell Treatments](https://www.wired.com/story/florida-is-now-a-haven-for-unproven-stem-cell-treatments/)
- - [Indie open gaming marketplace Itch.io abruptly deindexes NSFW content from its browse and search pages after payment processors raised concerns, following Steam &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p17#a250724p17)<!-- TECH:END -->
+ - [7 Best Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

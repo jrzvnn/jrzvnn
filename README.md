@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube has become a valuable resource for professional chefs and, in recent years, has helped skilled amateurs build culinary reputations and open restaurants &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/250724/p9#a250724p9)
  - [Americans Are Obsessed With Watching Short Video Dramas From China](https://www.wired.com/story/china-reel-short-dramas-video-social-media/)
  - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)
  - [Gamma Data: China&#39;s female-oriented gaming market surged 124% YoY to $1B in 2024, driven by mobile game Love and Deepspace, which earned $400M, per Sensor Tower &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250724/p7#a250724p7)
- - [STMicro reports Q2 revenue down 14.4% YoY to $2.77B, with an operating loss of $133M, vs. $56.2M profit est., including $190M in impairment and other costs &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250724/p6#a250724p6)
- - [CISPE files a legal complaint in the EU, arguing that the bloc&#39;s approval of Broadcom&#39;s VMware buyout failed to impose conditions to prevent market power abuse &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250724/p5#a250724p5)<!-- TECH:END -->
+ - [STMicro reports Q2 revenue down 14.4% YoY to $2.77B, with an operating loss of $133M, vs. $56.2M profit est., including $190M in impairment and other costs &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250724/p6#a250724p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

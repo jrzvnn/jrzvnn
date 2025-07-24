@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 😝 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
- - 💣 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
- - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 👉 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)<!-- MEMES:END -->
+ - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
+ - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
- - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
+ - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
+ - 💣 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
 
 ---
 

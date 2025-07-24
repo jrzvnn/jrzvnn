@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indie open gaming marketplace Itch.io abruptly deindexes NSFW content from its browse and search pages after payment processors raised concerns, following Steam &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p17#a250724p17)
+ - [Interviews with 12+ Tesla, Waymo, and Zoox executives and others show the challenges facing US robotaxis; Waymo operates 250K+ rides per week in five US cities &lpar;Financial Times&rpar;](http://www.techmeme.com/250724/p16#a250724p16)
  - [The Laude Institute, a nonprofit that runs the K Prize multi-round AI coding challenge, says a Brazilian prompt engineer won with just 7.5% of the right answers &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250724/p15#a250724p15)
  - [Itch.io follows Steam in removing adult games](https://www.theverge.com/news/712890/itch-removes-adult-nsfw-games-steam-payment-providers)
- - [AMD CEO Lisa Su says she expects TSMC&#39;s Arizona-made chips to cost &quot;more than 5% but less than 20%&quot; above TSMC&#39;s Taiwan-made chips, and to arrive by 2025&#39;s end &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p14#a250724p14)
- - [Pinterest is increasingly filled with AI interior design images, often featuring unrealistic or impossible details, complicating users&#39; search for inspiration &lpar;Bethan Staton/Financial Times&rpar;](http://www.techmeme.com/250724/p13#a250724p13)
- - [At an AI summit, President Trump says he considered breaking up Nvidia before aides told him that doing so was &quot;very hard&quot; and &quot;I learned the facts here&quot; &lpar;Annmarie Hordern/Bloomberg&rpar;](http://www.techmeme.com/250724/p12#a250724p12)<!-- TECH:END -->
+ - [AMD CEO Lisa Su says she expects TSMC&#39;s Arizona-made chips to cost &quot;more than 5% but less than 20%&quot; above TSMC&#39;s Taiwan-made chips, and to arrive by 2025&#39;s end &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p14#a250724p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

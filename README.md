@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
- - 👉 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)<!-- MEMES:END -->
+ - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 👉 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)<!-- MEMES:END -->
 
 ---
 

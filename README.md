@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
  - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 💣 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)
- - 😝 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
- - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
+ - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 😝 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)
+ - 👉 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)<!-- MEMES:END -->
 
 ---
 

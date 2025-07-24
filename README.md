@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Founders Fund and Dragoneer have committed to investing $1B+ each in OpenAI&#39;s second, $30B installment of its $40B round announced in March &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250724/p28#a250724p28)
- - [A US judge dismisses a lawsuit accusing Intel of defrauding shareholders by hiding problems in its foundry unit, news of which led to a $32B one-day stock fall &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250724/p27#a250724p27)
- - [HeroDevs, which provides support for legacy open-source software, raised $125M from PSG, intends to allocate $20M to its Open Source Sustainability Fund &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250724/p26#a250724p26)
- - [The VTuber world is in crisis over &amp;#8216;owed&amp;#8217; donations](https://www.theverge.com/news/712627/ironmouse-leaves-vshojo-vtuber-twitch-youtube)
- - [Figma’s AI app building tool is now available for everyone](https://www.theverge.com/news/712995/figma-make-ai-general-availability-announcement)<!-- TECH:END -->
+ - [In Yuga Labs vs. Ryder Ripps, an appeals court rules that NFTs are &quot;goods&quot; that can get trademark protection but sends the case back to a lower court &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250724/p31#a250724p31)
+ - [Sources: Cognition, which makes the coding assistant Devin, is in talks to raise $300M+ at a $10B valuation; it was reportedly valued at $4B in March &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250724/p30#a250724p30)
+ - [Here’s your first look at Battlefield 6](https://www.theverge.com/news/712936/battlefield-6-trailer)
+ - [The EU says it will investigate whether KKR provided incorrect or misleading information in its €22B acquisition of Telecom Italia&#39;s fixed-line network &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250724/p29#a250724p29)
+ - [Cursor’s New Bugbot Is Designed to Save Vibe Coders From Themselves](https://www.wired.com/story/cursor-releases-new-ai-tool-for-debugging-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

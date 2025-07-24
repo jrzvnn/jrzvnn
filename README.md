@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [STMicro reports Q2 revenue down 14.4% YoY to $2.77B, with an operating loss of $133M, vs. $56.2M profit est., including $190M in impairment and other costs &lpar;Nathan Vifflin/Reuters&rpar;](http://www.techmeme.com/250724/p6#a250724p6)
+ - [CISPE files a legal complaint in the EU, arguing that the bloc&#39;s approval of Broadcom&#39;s VMware buyout failed to impose conditions to prevent market power abuse &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250724/p5#a250724p5)
+ - [London-based stock trading app Lightyear, which operates in 25 European countries, raised $23M led by NordicNinja, sources say at a $200M-$300M valuation &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250724/p4#a250724p4)
  - [Sources: Adani Group has shelved plans for a consumer super app amid losses and internal turmoil, as Reliance and Tata also struggle to scale their platforms &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p3#a250724p3)
- - [China&#39;s Qianfan, the third largest satellite broadband constellation with 90 operational satellites, remains far short of its goal of 648 by the end of 2025 &lpar;Ling Xin/South China Morning Post&rpar;](http://www.techmeme.com/250724/p2#a250724p2)
- - [Tether CEO Paolo Ardoino says the USDT issuer is making plans to do business in the US after the passage of Genius Act, with a focus on institutional markets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p1#a250724p1)
- - [Sources: the US FDA&#39;s AI tool Elsa has fabricated nonexistent studies, misrepresented research, and cannot access relevant documents to assist with review work &lpar;Sarah Owermohle/CNN&rpar;](http://www.techmeme.com/250723/p45#a250723p45)
- - [The Wireless Power Consortium launches faster Qi2 25W wireless charging, with &quot;major Android smartphones&quot; finally adopting the standard alongside the iPhone &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250723/p44#a250723p44)<!-- TECH:END -->
+ - [China&#39;s Qianfan, the third largest satellite broadband constellation with 90 operational satellites, remains far short of its goal of 648 by the end of 2025 &lpar;Ling Xin/South China Morning Post&rpar;](http://www.techmeme.com/250724/p2#a250724p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

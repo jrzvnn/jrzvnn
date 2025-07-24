@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good to have cams](http://9gag.com/gag/aZZR960)
- - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
- - 👉 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)<!-- MEMES:END -->
+ - 😝 [Need a new identity](http://9gag.com/gag/aQzywAe)
+ - 💣 [Look what they took from us](http://9gag.com/gag/aByo9jz)
+ - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - 👉 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)<!-- MEMES:END -->
 
 ---
 

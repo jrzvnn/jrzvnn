@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
- - 😝 [Catch the ball](http://9gag.com/gag/a1mO4LR)
- - 💣 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
- - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
- - 👉 [Is this a riddle?](http://9gag.com/gag/amonq8v)<!-- MEMES:END -->
+ - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
+ - 💣 [Fill the void](http://9gag.com/gag/axymp3Y)
+ - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
 
 ---
 

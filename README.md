@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will officially deprecate links generated with its goo.gl URL shortener on August 25, 2025; the company stopped generating goo.gl URLs in March 2019 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250724/p37#a250724p37)
- - [The ICJ Rules That Failing to Combat Climate Change Could Violate International Law](https://www.wired.com/story/the-icj-rules-failing-to-combat-climate-could-be-a-violation-of-international-law/)
- - [Google’s Pixel Watch 4 might charge on its side](https://www.theverge.com/news/713142/google-pixel-watch-4-charge-side)
- - [Source: OpenAI is planning to launch GPT-5 in early August, complete with mini and nano versions that will also be available through its API &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250724/p36#a250724p36)
- - [A Premium Luggage Service’s Web Bugs Exposed the Travel Plans of Every User—Including Diplomats](https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/)<!-- TECH:END -->
+ - [Apple seeds the first public betas of iOS 26, iPadOS 26, macOS 26](https://appleinsider.com/articles/25/07/24/apple-seeds-the-first-public-betas-of-ios-26-ipados-26-macos-26?utm_source=rss)
+ - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)
+ - [Apple’s Liquid Glass redesign is shaping up to be a snoozer on Macs](https://www.theverge.com/tech/711358/apple-macos-tahoe-26-public-beta-impressions-macbook-liquid-glass)
+ - [Liquid Glass is fine, I guess](https://www.theverge.com/mobile/710980/apple-ios-26-preview-liquid-glass-ux)
+ - [You can actually multitask on an iPad now and it’s the best new feature in 15 years](https://www.theverge.com/hands-on/712266/you-can-actually-multitask-on-an-ipad-now-and-its-the-best-new-feature-in-15-years)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

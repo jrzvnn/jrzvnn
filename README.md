@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still the best video on the internet](http://9gag.com/gag/awye6O4)
- - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
- - 💣 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
- - 😝 [Reverse floating devise](http://9gag.com/gag/aQzy0y2)
- - 👉 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)<!-- MEMES:END -->
+ - 😝 [Everyone claims to be racist until a big booty stunning Latina walks into the room.](http://9gag.com/gag/a0eOAXL)
+ - 😝 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
+ - 💣 [Not this time mf](http://9gag.com/gag/aBy4qqx)
+ - 😝 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
+ - 👉 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)<!-- MEMES:END -->
 
 ---
 

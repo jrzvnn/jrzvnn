@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catch the ball](http://9gag.com/gag/a1mO4LR)
- - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
- - 💣 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
- - 😝 [Is this a riddle?](http://9gag.com/gag/amonq8v)
- - 👉 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)<!-- MEMES:END -->
+ - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - 😝 [Need a new identity](http://9gag.com/gag/aQzywAe)
+ - 💣 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 😝 [He&#39;s beginning to believe](http://9gag.com/gag/aE0ZrAG)
+ - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
 
 ---
 

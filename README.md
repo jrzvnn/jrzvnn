@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Error 404, titel not found](http://9gag.com/gag/a2vGEDw)
- - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
- - 💣 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
- - 😝 [Is this a riddle?](http://9gag.com/gag/amonq8v)
- - 👉 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)<!-- MEMES:END -->
+ - 😝 [This guy is a f**king moron](http://9gag.com/gag/aqyDvdR)
+ - 😝 [Accident with nature](http://9gag.com/gag/avy9YgX)
+ - 💣 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - 👉 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Crucial Money Moves You Should Make ASAP](https://www.cnet.com/personal-finance/banking/4-crucial-money-moves-you-should-make-asap/#ftag=CAD590a51e)
  - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [The Outer Worlds 2 Walks Back $80 Price, Now Launching at $70](https://www.cnet.com/tech/gaming/the-outer-worlds-2-walks-back-80-price-now-launching-at-70/#ftag=CAD590a51e)
  - [The White House orders tech companies to make AI bigoted again](https://www.theverge.com/policy/713222/trump-woke-ai-executive-order-chatbots-llms)
- - [Trunk Tools, which provides AI services to organize construction documentation, raised a $40M Series B led by Insight, bringing its total funding to $70M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250724/p43#a250724p43)
- - [What to do if some of your devices need extra steps to get covered with AppleCare One](https://appleinsider.com/inside/apple-services/tips/what-to-do-if-some-of-your-devices-need-extra-steps-to-get-covered-with-applecare-one?utm_source=rss)
- - [Walmart consolidates its AI agents into four &quot;super agents&quot;, for customers, staff, engineers, and sellers/suppliers, using Anthropic&#39;s Model Context Protocol &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250724/p42#a250724p42)<!-- TECH:END -->
+ - [I&#39;ve Tried Making My iPad An Almost Mac With iPadOS 26 Beta](https://www.cnet.com/tech/computing/ive-tried-making-my-ipad-an-almost-mac-with-ipados-26-beta/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

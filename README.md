@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of vibe coding startup Lovable, which became the fastest-growing software startup in history, reaching $100M+ in annualized revenue in eight months &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250724/p10#a250724p10)
+ - [A profile of Swedish AI coding startup Lovable, which became the fastest-growing software startup ever, reaching $100M+ in annualized revenue in eight months &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250724/p10#a250724p10)
  - [YouTube has become a valuable resource for professional chefs and, in recent years, has helped skilled amateurs build culinary reputations and open restaurants &lpar;Kate Krader/Bloomberg&rpar;](http://www.techmeme.com/250724/p9#a250724p9)
  - [Americans Are Obsessed With Watching Short Video Dramas From China](https://www.wired.com/story/china-reel-short-dramas-video-social-media/)
  - [Google&#39;s AI Overviews, which a recent Pew study shows reduce clickthrough rates, are further eroding traffic to original publishers by linking to aggregators &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250724/p8#a250724p8)

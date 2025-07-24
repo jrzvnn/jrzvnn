@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
- - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 💣 [That ending](http://9gag.com/gag/aByo99N)
+ - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
  - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 👉 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)<!-- MEMES:END -->
+ - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 👉 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
 
 ---
 

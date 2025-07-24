@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
  - 😝 [That ending](http://9gag.com/gag/aByo99N)
- - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
  - 💣 [Fill the void](http://9gag.com/gag/axymp3Y)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 👉 [Eminem/take it or leave It](http://9gag.com/gag/aW4RK43)<!-- MEMES:END -->
+ - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
+ - 👉 [Paris](http://9gag.com/gag/aAyvn0Z)<!-- MEMES:END -->
 
 ---
 

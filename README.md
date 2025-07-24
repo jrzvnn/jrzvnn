@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
- - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 😝 [How do we tell them](http://9gag.com/gag/aQzyYLd)
- - 👉 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)<!-- MEMES:END -->
+ - 😝 [Error 404, titel not found](http://9gag.com/gag/a2vGEDw)
+ - 😝 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)
+ - 💣 [I didn&#39;t know Batman had P.H.D in realistic physics](http://9gag.com/gag/aXPeZ59)
+ - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
+ - 👉 [Still waiting for the next Cornetto Trilogy installment.](http://9gag.com/gag/a34nPL7)<!-- MEMES:END -->
 
 ---
 

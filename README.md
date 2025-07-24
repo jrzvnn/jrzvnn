@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
- - 😝 [That ending](http://9gag.com/gag/aByo99N)
- - 💣 [Fill the void](http://9gag.com/gag/axymp3Y)
- - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - 👉 [Paris](http://9gag.com/gag/aAyvn0Z)<!-- MEMES:END -->
+ - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
+ - 💣 [That ending](http://9gag.com/gag/aByo99N)
+ - 😝 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
+ - 👉 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)<!-- MEMES:END -->
 
 ---
 

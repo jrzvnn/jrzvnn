@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_source=rss)
- - [Grab a 2025 iPad for as low as $299 heading into the weekend](https://appleinsider.com/articles/25/07/24/grab-a-2025-ipad-for-as-low-as-299-heading-into-the-weekend?utm_source=rss)
- - [Apple seeds the first public betas of iOS 26, iPadOS 26, macOS 26](https://appleinsider.com/articles/25/07/24/apple-seeds-the-first-public-betas-of-ios-26-ipados-26-macos-26?utm_source=rss)
- - [Apple releases the first public betas of iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26, with its new Liquid Glass design language &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p40#a250724p40)<!-- TECH:END -->
+ - [Walmart consolidates its AI agents into four &quot;super agents&quot;, for customers, staff, engineers, and sellers/suppliers, using Anthropic&#39;s Model Context Protocol &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250724/p42#a250724p42)
+ - [iOS 26 &amp; iPadOS 26 dev beta 4 updated to match public release build](https://appleinsider.com/articles/25/07/24/ios-26-ipados-26-dev-beta-4-updated-to-match-public-release-build?utm_source=rss)
+ - [The Very Real Case for Brain-Computer Implants](https://www.wired.com/story/uncanny-valley-podcast-the-very-real-case-for-brain-computer-implants/)
+ - [Google launches Web Guide, an AI-powered Search Labs experiment that organizes Google Search results by grouping pages related to specific aspects of the query &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p41#a250724p41)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

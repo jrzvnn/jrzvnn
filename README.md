@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 😝 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
+ - 💣 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
  - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
- - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
+ - 👉 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)<!-- MEMES:END -->
 
 ---
 

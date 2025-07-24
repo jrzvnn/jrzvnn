@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well at least I asked her](http://9gag.com/gag/a0eOmrz)
- - 😝 [Some say the video is reversed](http://9gag.com/gag/aKGKb23)
- - 💣 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 👉 [Good to have cams](http://9gag.com/gag/aZZR960)<!-- MEMES:END -->
+ - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 💣 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)
+ - 😝 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
+ - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---
 

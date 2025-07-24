@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 💣 [Accident with nature](http://9gag.com/gag/avy9YgX)
- - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
- - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
+ - 😝 [Catch the ball](http://9gag.com/gag/a1mO4LR)
+ - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
+ - 💣 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
+ - 😝 [Is this a riddle?](http://9gag.com/gag/amonq8v)
+ - 👉 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)<!-- MEMES:END -->
 
 ---
 

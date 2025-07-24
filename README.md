@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Be strong, let everyone else risk their devices and data with the new betas](https://appleinsider.com/articles/25/06/09/be-strong-let-everyone-else-risk-their-devices-and-data-with-the-new-betas?utm_source=rss)
+ - [Grab a 2025 iPad for as low as $299 heading into the weekend](https://appleinsider.com/articles/25/07/24/grab-a-2025-ipad-for-as-low-as-299-heading-into-the-weekend?utm_source=rss)
  - [Apple seeds the first public betas of iOS 26, iPadOS 26, macOS 26](https://appleinsider.com/articles/25/07/24/apple-seeds-the-first-public-betas-of-ios-26-ipados-26-macos-26?utm_source=rss)
- - [Apple releases the first public betas of iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26, with its new Liquid Glass design language &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p40#a250724p40)
- - [How to install the iOS 26 public beta](https://www.theverge.com/695230/ios-26-beta-install-how-to)
- - [C3.ai founder and CEO Thomas Siebel steps down due to health issues related to an autoimmune disease that resulted in visual impairment in early 2025 &lpar;Hanh Truong/Silicon Valley Business ...&rpar;](http://www.techmeme.com/250724/p39#a250724p39)
- - [How can Tesla make a cheaper Model Y?](https://www.theverge.com/tesla/713026/tesla-cheaper-model-y-stripped-down)<!-- TECH:END -->
+ - [Apple releases the first public betas of iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26, with its new Liquid Glass design language &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p40#a250724p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

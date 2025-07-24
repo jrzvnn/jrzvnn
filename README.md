@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google will officially deprecate links generated with its goo.gl URL shortener on August 25, 2025; the company stopped generating goo.gl URLs in March 2019 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250724/p37#a250724p37)
  - [The ICJ Rules That Failing to Combat Climate Change Could Violate International Law](https://www.wired.com/story/the-icj-rules-failing-to-combat-climate-could-be-a-violation-of-international-law/)
- - [Best Earplugs for Sleeping You Can Buy in 2025](https://www.cnet.com/health/sleep/best-earplugs-for-sleeping/#ftag=CAD590a51e)
  - [Google’s Pixel Watch 4 might charge on its side](https://www.theverge.com/news/713142/google-pixel-watch-4-charge-side)
- - [Source: OpenAI is planning to launch GPT-5 in early August, complete with mini and nano versions that will also be available through its API &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250724/p36#a250724p36)<!-- TECH:END -->
+ - [Source: OpenAI is planning to launch GPT-5 in early August, complete with mini and nano versions that will also be available through its API &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250724/p36#a250724p36)
+ - [A Premium Luggage Service’s Web Bugs Exposed the Travel Plans of Every User—Including Diplomats](https://www.wired.com/story/luggage-service-web-bugs-exposed-travel-plans-users-diplomats-airportr/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

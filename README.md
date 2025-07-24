@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
+ - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
  - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
- - 💣 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
- - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 💣 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
  - 👉 [Is this true or false?](http://9gag.com/gag/aKGKbmj)<!-- MEMES:END -->
 
 ---

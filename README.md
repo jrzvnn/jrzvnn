@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In Yuga Labs vs. Ryder Ripps, an appeals court rules that NFTs are &quot;goods&quot; that can get trademark protection but sends the case back to a lower court &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250724/p31#a250724p31)
- - [Sources: Cognition, which makes the coding assistant Devin, is in talks to raise $300M+ at a $10B valuation; it was reportedly valued at $4B in March &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250724/p30#a250724p30)
- - [Here’s your first look at Battlefield 6](https://www.theverge.com/news/712936/battlefield-6-trailer)
- - [The EU says it will investigate whether KKR provided incorrect or misleading information in its €22B acquisition of Telecom Italia&#39;s fixed-line network &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250724/p29#a250724p29)
- - [Cursor’s New Bugbot Is Designed to Save Vibe Coders From Themselves](https://www.wired.com/story/cursor-releases-new-ai-tool-for-debugging-code/)<!-- TECH:END -->
+ - [Armada, whose mobile AI data centers for use in remote environments have been used by the US Navy, raised $131M, bringing its total funding to $200M+ &lpar;Cal Biesecker/Defense Daily&rpar;](http://www.techmeme.com/250724/p33#a250724p33)
+ - [Everything we think we know about the Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)
+ - [An Inventor Is Injecting Bleach Into Cancerous Tumors—and Wants to Bring the Treatment to the US](https://www.wired.com/story/dangerous-bleach-injecting-cancer-treatment/)
+ - [Lyft rolls out letting riders &quot;favorite&quot; or block drivers to enhance loyalty from riders and drivers; favorites get priority for future scheduled rides &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250724/p32#a250724p32)
+ - [New Qi2 25W standard means quicker, easier wireless charging](https://appleinsider.com/articles/25/07/24/new-qi2-25w-standard-means-quicker-easier-wireless-charging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

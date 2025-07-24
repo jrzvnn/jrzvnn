@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink’s satellite internet is back online after a massive outage](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
  - [Starlink says it&#39;s experiencing a network outage and is &quot;implementing a solution&quot;; NetBlocks reports that connectivity dropped to &quot;16% of ordinary levels&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250724/p50#a250724p50)
  - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
  - [X is testing using Community Notes to highlight posts that are liked by users with different perspectives &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p49#a250724p49)
- - [No, Instagram didn’t suspend Zohran Mamdani’s account for being ‘too socialist’](https://www.theverge.com/news/713385/zohran-mamdani-instagram-suspended-debunk)
- - [Don&#39;t Let Summer&#39;s High Interest Rates Pass You By. Do This ASAP](https://www.cnet.com/personal-finance/banking/dont-let-summers-high-interest-rates-pass-you-by-do-this-asap/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No, Instagram didn’t suspend Zohran Mamdani’s account for being ‘too socialist’](https://www.theverge.com/news/713385/zohran-mamdani-instagram-suspended-debunk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paris](http://9gag.com/gag/aAyvn0Z)
- - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 💣 [Is this true or false?](http://9gag.com/gag/aKGKbmj)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 👉 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)<!-- MEMES:END -->
+ - 😝 [Error 404, titel not found](http://9gag.com/gag/a2vGEDw)
+ - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
+ - 💣 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
+ - 😝 [Is this a riddle?](http://9gag.com/gag/amonq8v)
+ - 👉 [Rip Ozzy](http://9gag.com/gag/aE0ZrKN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is testing using Community Notes to highlight posts that are liked by users with different perspectives &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250724/p49#a250724p49)
  - [No, Instagram didn’t suspend Zohran Mamdani’s account for being ‘too socialist’](https://www.theverge.com/news/713385/zohran-mamdani-instagram-suspended-debunk)
  - [Starlink satellite internet service is down everywhere](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
  - [Hands-on with iOS 26: Liquid Glass is impressive but can also be distracting, Camera redesign is solid, Call Filtering feature in the Phone app is great, more &lpar;Dan Moren/Six Colors&rpar;](http://www.techmeme.com/250724/p48#a250724p48)
- - [Intel cancelled planned fab projects in Germany and Poland, and will consolidate its testing and assembly operations in Vietnam and Malaysia &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250724/p47#a250724p47)
- - [Intel reveals it’ll shed 33,000 employees this year and retreat in Germany, Poland, and Costa Rica](https://www.theverge.com/news/713388/intel-q2-2025-leave-germany-poland-costa-rica)<!-- TECH:END -->
+ - [Intel cancelled planned fab projects in Germany and Poland, and will consolidate its testing and assembly operations in Vietnam and Malaysia &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250724/p47#a250724p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

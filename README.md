@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel cancelled planned fab projects in Germany and Poland, and will consolidate its testing and assembly operations in Vietnam and Malaysia &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250724/p47#a250724p47)
+ - [Intel reveals it will lose 33,000 employees this year and retreat in Germany, Poland, and Costa Rica](https://www.theverge.com/news/713388/intel-q2-2025-leave-germany-poland-costa-rica)
+ - [Hands-on with iPadOS 26: new windowing system is great and other enhancements like smarter Shortcuts and Files app make the iPad better for professional use &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250724/p46#a250724p46)
  - [Starlink satellite internet service is down everywhere](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
- - [Intel reports Q2 revenue flat YoY at $12.9B, vs. $11.9B est., a $2.9B loss due to restructuring and impairment charges, and forecasts Q3 revenue above estimates &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250724/p45#a250724p45)
- - [Sources: Elad Gil is raising a fund of ~$1.5B that could grow to $2B based on investor interest, making it one of the largest fundraising hauls for a solo GP &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250724/p44#a250724p44)
- - [&#39;Dead Island 2&#39; arrives for Mac users ready to slay on Apple Silicon](https://appleinsider.com/articles/25/07/24/dead-island-2-arrives-for-mac-users-ready-to-slay-on-apple-silicon?utm_source=rss)
- - [VTuber agency VShojo shuts down after talent exodus](https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations)<!-- TECH:END -->
+ - [Intel reports Q2 revenue flat YoY at $12.9B, vs. $11.9B est., a $2.9B loss due to restructuring and impairment charges, and forecasts Q3 revenue above estimates &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250724/p45#a250724p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

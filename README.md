@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Stability AI CEO Prem Akkaraju on taking over from Emad Mostaque, his movie background, data and copyright, working with creative industries, and more &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250724/p19#a250724p19)
  - [Sources and a document: China aims to build a national network to sell surplus computing power and address an oversupply caused by a three-year data center boom &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p18#a250724p18)
  - [7 Best Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
  - [Florida Is Now a Haven for Unproven Stem-Cell Treatments](https://www.wired.com/story/florida-is-now-a-haven-for-unproven-stem-cell-treatments/)
- - [I Tried Orb, a New Internet Speed Test. It Might Be the Best I&#39;ve Ever Used](https://www.cnet.com/home/internet/orb-is-the-internet-speed-test-your-wi-fi-has-been-waiting-for/#ftag=CAD590a51e)
  - [Indie open gaming marketplace Itch.io abruptly deindexes NSFW content from its browse and search pages after payment processors raised concerns, following Steam &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p17#a250724p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

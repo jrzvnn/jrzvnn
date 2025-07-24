@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 💣 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
+ - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
  - 😝 [How do we tell them](http://9gag.com/gag/aQzyYLd)
- - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
+ - 👉 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)<!-- MEMES:END -->
 
 ---
 

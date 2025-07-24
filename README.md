@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Starlink satellite internet service is down everywhere](https://www.theverge.com/news/713359/starlink-down-outage-global-network-offline)
+ - [Intel reports Q2 revenue flat YoY at $12.9B, vs. $11.9B est., a $2.9B loss due to restructuring and impairment charges, and forecasts Q3 revenue above estimates &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250724/p45#a250724p45)
+ - [Sources: Elad Gil is raising a fund of ~$1.5B that could grow to $2B based on investor interest, making it one of the largest fundraising hauls for a solo GP &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250724/p44#a250724p44)
  - [&#39;Dead Island 2&#39; arrives for Mac users ready to slay on Apple Silicon](https://appleinsider.com/articles/25/07/24/dead-island-2-arrives-for-mac-users-ready-to-slay-on-apple-silicon?utm_source=rss)
- - [VTuber agency VShojo shuts down after talent exodus](https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations)
- - [Google rethinks search results with its new AI-curated &amp;#8216;Web Guide&amp;#8217;](https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test)
- - [4 Crucial Money Moves You Should Make ASAP](https://www.cnet.com/personal-finance/banking/4-crucial-money-moves-you-should-make-asap/#ftag=CAD590a51e)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
+ - [VTuber agency VShojo shuts down after talent exodus](https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

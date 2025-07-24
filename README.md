@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
- - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
+ - 💣 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
  - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 👉 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)<!-- MEMES:END -->
+ - 👉 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circana: Nintendo Switch 2 is the fastest-selling video game device in US history, with 1.6M units sold in June, topping the PS4&#39;s 1.1M units in November 2013 &lpar;IGN&rpar;](http://www.techmeme.com/250723/p38#a250723p38)
- - [Trump wanted to break up Nvidia — but then its CEO won him over](https://www.theverge.com/news/712753/trump-nvidia-jensen-huang-break-up-chips-ai)
- - [Google adds new features to Google Photos, including a Veo 2-powered photo-to-video tool and a Remix tool that applies styles like anime and sketches to photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250723/p37#a250723p37)
- - [The new AI Action Plan, which includes some 90 recommendations, aims to loosen environmental rules and vastly expand AI software and hardware exports to allies &lpar;Reuters&rpar;](http://www.techmeme.com/250723/p36#a250723p36)
- - [Bracing for a Recession? These Accounts Can Keep Your Money Safe](https://www.cnet.com/personal-finance/banking/bracing-for-a-recession-these-accounts-can-keep-your-money-safe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [T-Mobile&#39;s Starlink-powered satellite service T-Satellite is now generally available as a standalone subscription for US users, not just T-Mobile customers &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250723/p42#a250723p42)
+ - [At an All-In Podcast summit, President Trump said forcing AI firms to pay for each copyrighted work is &quot;not doable&quot;, calling for &quot;common sense&quot; AI and IP rules &lpar;Deadline&rpar;](http://www.techmeme.com/250723/p41#a250723p41)
+ - [9 Wickedly Creative Lego Sets Debuting at Comic-Con 2025](https://www.cnet.com/tech/services-and-software/9-wickedly-creative-lego-sets-debuting-at-comic-con-2025/#ftag=CAD590a51e)
+ - [Sundar Pichai says the Gemini app has 450M+ MAUs, with daily requests up 50%+ from Q1, AI Overviews has 2B+ MAUs, and AI Mode has 100M+ MAUs in the US and India &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250723/p40#a250723p40)
+ - [SK Hynix reports Q2 revenue up 35% YoY to ~$16.2B vs. ~$14.9B est., operating profit up 68% to ~$6.7B vs. ~$6.5B est., and expects sustained HBM demand in 2025 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250723/p39#a250723p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

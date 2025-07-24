@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 💣 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 😝 [Me trying to act normal in the middle of a foursome but not knowing what to do](http://9gag.com/gag/aGy7PVX)
+ - 😝 [Good to have cams](http://9gag.com/gag/aZZR960)
+ - 😝 [The amount of people who can&#39;t fight with ego problems is crazy](http://9gag.com/gag/a9yD3PL)
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
  - 👉 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)<!-- MEMES:END -->
 
 ---

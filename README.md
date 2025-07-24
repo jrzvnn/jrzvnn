@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SteelSeries Rival 3 Gen 2 Review: Good Budget Gaming Mice](https://www.wired.com/review/steelseries-rival-3-gen-2/)
- - [BMW confirms it will not support CarPlay Ultra](https://appleinsider.com/articles/25/07/24/bmw-confirms-it-will-not-support-carplay-ultra?utm_source=rss)
- - [Dynabook Portégé Z40L-N Review: Replaceable Batteries, High Price](https://www.wired.com/review/dynabook-portege-z40l-n/)
- - [AppleCare One is a good deal, but not for everyone](https://www.theverge.com/tech/712429/applecare-one-warranty-play-cost-versus-plus-plan-analysis)
- - [AI-Generated Content on Netflix Is Already Here](https://www.cnet.com/tech/services-and-software/when-will-you-see-ai-generated-content-on-netflix-its-possible-you-already-have/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon updates its color screen Kindle Colorsoft with a cheaper 16GB model for $250 and a kids-focused bundle with one year of Kids Plus for $270, available now &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p21#a250724p21)
+ - [The Kindle Colorsoft Just Got Two More Models](https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/)
+ - [Amazon is launching a cheaper color Kindle](https://www.theverge.com/news/712765/amazon-kindle-colorsoft-16-gb-kids)
+ - [Snapchat will notify your friends when you&amp;#8217;ve made it home safe](https://www.theverge.com/news/712909/snapchat-home-safe-alert-location-feature)
+ - [Google AI Mode will generate fake clothes to help you buy real ones](https://www.theverge.com/news/712924/google-shopping-ai-mode-fake-clothes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

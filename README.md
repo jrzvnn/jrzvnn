@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indie open gaming marketplace Itch.io abruptly deindexes NSFW content from its browse and search pages after payment processors raised concerns, following Steam &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p17#a250724p17)
- - [Interviews with 12+ Tesla, Waymo, and Zoox executives and others show the challenges facing US robotaxis; Waymo operates 250K+ rides per week in five US cities &lpar;Financial Times&rpar;](http://www.techmeme.com/250724/p16#a250724p16)
- - [The Laude Institute, a nonprofit that runs the K Prize multi-round AI coding challenge, says a Brazilian prompt engineer won with just 7.5% of the right answers &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/250724/p15#a250724p15)
- - [Itch.io follows Steam in removing adult games](https://www.theverge.com/news/712890/itch-removes-adult-nsfw-games-steam-payment-providers)
- - [AMD CEO Lisa Su says she expects TSMC&#39;s Arizona-made chips to cost &quot;more than 5% but less than 20%&quot; above TSMC&#39;s Taiwan-made chips, and to arrive by 2025&#39;s end &lpar;Bloomberg&rpar;](http://www.techmeme.com/250724/p14#a250724p14)<!-- TECH:END -->
+ - [Sources and a document: China aims to build a national network to sell surplus computing power and address an oversupply caused by a three-year data center boom &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p18#a250724p18)
+ - [7 Best Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
+ - [Florida Is Now a Haven for Unproven Stem-Cell Treatments](https://www.wired.com/story/florida-is-now-a-haven-for-unproven-stem-cell-treatments/)
+ - [I Tried Orb, a New Internet Speed Test. It Might Be the Best I&#39;ve Ever Used](https://www.cnet.com/home/internet/orb-is-the-internet-speed-test-your-wi-fi-has-been-waiting-for/#ftag=CAD590a51e)
+ - [Indie open gaming marketplace Itch.io abruptly deindexes NSFW content from its browse and search pages after payment processors raised concerns, following Steam &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250724/p17#a250724p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

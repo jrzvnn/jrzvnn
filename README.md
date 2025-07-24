@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Dead Island 2&#39; arrives for Mac users ready to slay on Apple Silicon](https://appleinsider.com/articles/25/07/24/dead-island-2-arrives-for-mac-users-ready-to-slay-on-apple-silicon?utm_source=rss)
+ - [VTuber agency VShojo shuts down after talent exodus](https://www.theverge.com/news/713343/vshojo-shutting-down-ironmouse-missing-charity-donations)
+ - [Google rethinks search results with its new AI-curated &amp;#8216;Web Guide&amp;#8217;](https://www.theverge.com/news/713351/google-ai-search-results-web-guide-labs-beta-test)
  - [4 Crucial Money Moves You Should Make ASAP](https://www.cnet.com/personal-finance/banking/4-crucial-money-moves-you-should-make-asap/#ftag=CAD590a51e)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [The Outer Worlds 2 Walks Back $80 Price, Now Launching at $70](https://www.cnet.com/tech/gaming/the-outer-worlds-2-walks-back-80-price-now-launching-at-70/#ftag=CAD590a51e)
- - [The White House orders tech companies to make AI bigoted again](https://www.theverge.com/policy/713222/trump-woke-ai-executive-order-chatbots-llms)
- - [I&#39;ve Tried Making My iPad An Almost Mac With iPadOS 26 Beta](https://www.cnet.com/tech/computing/ive-tried-making-my-ipad-an-almost-mac-with-ipados-26-beta/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds the first public betas of iOS 26, iPadOS 26, macOS 26](https://appleinsider.com/articles/25/07/24/apple-seeds-the-first-public-betas-of-ios-26-ipados-26-macos-26?utm_source=rss)
- - [The biggest changes coming to your iPhone with iOS 26](https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025)
- - [Apple’s Liquid Glass redesign is shaping up to be a snoozer on Macs](https://www.theverge.com/tech/711358/apple-macos-tahoe-26-public-beta-impressions-macbook-liquid-glass)
- - [Liquid Glass is fine, I guess](https://www.theverge.com/mobile/710980/apple-ios-26-preview-liquid-glass-ux)
- - [You can actually multitask on an iPad now and it’s the best new feature in 15 years](https://www.theverge.com/hands-on/712266/you-can-actually-multitask-on-an-ipad-now-and-its-the-best-new-feature-in-15-years)<!-- TECH:END -->
+ - [How to install the iOS 26 public beta](https://www.theverge.com/695230/ios-26-beta-install-how-to)
+ - [C3.ai founder and CEO Thomas Siebel steps down due to health issues related to an autoimmune disease that resulted in visual impairment in early 2025 &lpar;Hanh Truong/Silicon Valley Business ...&rpar;](http://www.techmeme.com/250724/p39#a250724p39)
+ - [How can Tesla make a cheaper Model Y?](https://www.theverge.com/tesla/713026/tesla-cheaper-model-y-stripped-down)
+ - [In a memo, Satya Nadella addresses the &quot;enigma&quot; of layoffs while &quot;Microsoft is thriving&quot;, saying the transition into the AI era &quot;might feel messy at times&quot; &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250724/p38#a250724p38)
+ - [Apple seeds the first public betas of iOS 26, iPadOS 26, macOS 26](https://appleinsider.com/articles/25/07/24/apple-seeds-the-first-public-betas-of-ios-26-ipados-26-macos-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

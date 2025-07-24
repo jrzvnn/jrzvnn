@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everyone claims to be racist until a big booty stunning Latina walks into the room.](http://9gag.com/gag/a0eOAXL)
- - 😝 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
- - 💣 [Not this time mf](http://9gag.com/gag/aBy4qqx)
- - 😝 [This should be a paid service. I have a list of words I&#39;d like them to spell](http://9gag.com/gag/a5Q5LrN)
- - 👉 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)<!-- MEMES:END -->
+ - 😝 [Camera&#39;s worst nightmare, or just a bad dream](http://9gag.com/gag/aZZR9Qn)
+ - 😝 [Catch the ball](http://9gag.com/gag/a1mO4LR)
+ - 💣 [My talents are wasted here, nobody got it](http://9gag.com/gag/aXPR5zV)
+ - 😝 [The Waffle House of Pizzas. Don&#39;t tell Goku!!!!](http://9gag.com/gag/axymx5Y)
+ - 👉 [Is this a riddle?](http://9gag.com/gag/amonq8v)<!-- MEMES:END -->
 
 ---
 

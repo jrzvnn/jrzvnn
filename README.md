@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zenbivy Light Bed Review: Still the Best Backcountry Sleep System](https://www.wired.com/review/zenbivy-light-bed-2025/)
+ - [Google launches its virtual clothes try-on feature, letting users upload photos of themselves, in the US and updates price alerts to let users specify an amount &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250724/p22#a250724p22)
  - [Amazon updates its color screen Kindle Colorsoft with a cheaper 16GB model for $250 and a kids-focused bundle with one year of Kids Plus for $270, available now &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250724/p21#a250724p21)
- - [The Kindle Colorsoft Just Got Two More Models](https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/)
- - [Amazon is launching a cheaper color Kindle](https://www.theverge.com/news/712765/amazon-kindle-colorsoft-16-gb-kids)
- - [Snapchat will notify your friends when you&amp;#8217;ve made it home safe](https://www.theverge.com/news/712909/snapchat-home-safe-alert-location-feature)
- - [Google AI Mode will generate fake clothes to help you buy real ones](https://www.theverge.com/news/712924/google-shopping-ai-mode-fake-clothes)<!-- TECH:END -->
+ - [Amazon&#39;s New Kindle Colorsoft E-Reader Drops Its Price and Its Storage](https://www.cnet.com/tech/computing/amazon-introduces-new-colorsoft-e-reader-that-costs-less/#ftag=CAD590a51e)
+ - [The Kindle Colorsoft Just Got Two More Models](https://www.wired.com/story/amazon-kindle-colorsoft-new-models-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

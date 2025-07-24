@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [The White House orders tech companies to make AI bigoted again](https://www.theverge.com/policy/713222/trump-woke-ai-executive-order-chatbots-llms)
  - [Trunk Tools, which provides AI services to organize construction documentation, raised a $40M Series B led by Insight, bringing its total funding to $70M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250724/p43#a250724p43)
  - [What to do if some of your devices need extra steps to get covered with AppleCare One](https://appleinsider.com/inside/apple-services/tips/what-to-do-if-some-of-your-devices-need-extra-steps-to-get-covered-with-applecare-one?utm_source=rss)
- - [Walmart consolidates its AI agents into four &quot;super agents&quot;, for customers, staff, engineers, and sellers/suppliers, using Anthropic&#39;s Model Context Protocol &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250724/p42#a250724p42)
- - [iOS 26 &amp; iPadOS 26 dev beta 4 updated to match public release build](https://appleinsider.com/articles/25/07/24/ios-26-ipados-26-dev-beta-4-updated-to-match-public-release-build?utm_source=rss)<!-- TECH:END -->
+ - [Walmart consolidates its AI agents into four &quot;super agents&quot;, for customers, staff, engineers, and sellers/suppliers, using Anthropic&#39;s Model Context Protocol &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250724/p42#a250724p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

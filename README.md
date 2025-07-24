@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 😝 [How do we tell them](http://9gag.com/gag/aQzyYLd)
- - 💣 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
+ - 😝 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)
  - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 👉 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)<!-- MEMES:END -->
+ - 💣 [Please guard your kids, even against themselves](http://9gag.com/gag/aNDjyV6)
+ - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 👉 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)<!-- MEMES:END -->
 
 ---
 

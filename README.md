@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
+ - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
  - 💣 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
- - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 👉 [Do you trust me?&lpar; Hydraulics&rpar;](http://9gag.com/gag/aXPe0qz)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/amonNny)
+ - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
 
 ---
 

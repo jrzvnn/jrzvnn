@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
  - [Tether says it has ~250K Tether Gold tokens in circulation as of Q2 2025, backed 1:1 by a troy ounce of physical gold; the stablecoin was launched in Jan. 2020 &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250725/p1#a250725p1)
  - [Intel plans to cut its workforce from 96,400 that it reported at the end of June to 75,000, or about 15%, through attrition and &quot;other means&quot; by the end of 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p55#a250724p55)
  - [Aidoc, which uses AI to help doctors make real-time clinical decisions, raised $150M led by General Catalyst and Square Peg, bringing its total funding to $370M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250724/p54#a250724p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-25/#ftag=CAD590a51e)
- - [The US Treasury sanctions three senior North Korean officials accused of tricking companies into hiring North Koreans using stolen identities as IT workers &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250724/p53#a250724p53)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

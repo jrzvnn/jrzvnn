@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taste testing battery-flavored tortilla chips](https://www.theverge.com/news/713693/9-volt-battery-tortilla-chips-rewind-taste-test)
- - [Apple expands its App Store age rating system; developers must disclose app content, such as violent themes, letting Apple calculate and assign age ratings &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250725/p13#a250725p13)
- - [Breaking down Trump’s big gift to the AI industry](https://www.theverge.com/policy/713788/trump-ai-action-plan-explainer)
- - [Asus’ slim ROG G14 gaming laptop with an RTX 5070 Ti is $350 off](https://www.theverge.com/tech/713731/asus-rog-g14-zephyrus-gaming-laptop-5070ti-deal-sale)
- - [Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’](https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview)<!-- TECH:END -->
+ - [Microsoft previews Copilot Appearance, a virtual character with real-time expressions, voice, and conversational memory, for some users in the US, UK, Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p14#a250725p14)
+ - [How to make your iPhone homescreen icons clear using iOS 26](https://www.theverge.com/tech/713748/ios-26-iphone-liquid-glass-home-screen-how-to)
+ - [Oppo Find N5 foldable phone review: Apple&#39;s now on notice](https://appleinsider.com/articles/25/07/25/oppo-find-n5-foldable-phone-review-apples-now-on-notice?utm_source=rss)
+ - [Elden Ring Nightreign is adding two-player co-op](https://www.theverge.com/news/713829/elden-ring-nightreign-two-player-support-patch)
+ - [Taste testing battery-flavored tortilla chips](https://www.theverge.com/news/713693/9-volt-battery-tortilla-chips-rewind-taste-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

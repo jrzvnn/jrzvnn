@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taste testing battery-flavored tortilla chips](https://www.theverge.com/news/713693/9-volt-battery-tortilla-chips-rewind-taste-test)
+ - [Apple expands its App Store age rating system; developers must disclose app content, such as violent themes, letting Apple calculate and assign age ratings &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250725/p13#a250725p13)
+ - [Breaking down Trump’s big gift to the AI industry](https://www.theverge.com/policy/713788/trump-ai-action-plan-explainer)
  - [Asus’ slim ROG G14 gaming laptop with an RTX 5070 Ti is $350 off](https://www.theverge.com/tech/713731/asus-rog-g14-zephyrus-gaming-laptop-5070ti-deal-sale)
- - [Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’](https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview)
- - [The UK&amp;#8217;s new age-gating rules are easy to bypass](https://www.theverge.com/analysis/713773/uk-online-safety-act-age-verification-bypass-vpn)
- - [Sources: GPT-5 shows improved performance in coding, particularly in practical software engineering tasks, outperforming prior OpenAI models and Claude Sonnet 4 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250725/p12#a250725p12)
- - [Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250725/p11#a250725p11)<!-- TECH:END -->
+ - [Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’](https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

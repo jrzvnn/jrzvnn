@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
- - 😝 [Nope](http://9gag.com/gag/amonNny)
- - 💣 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
- - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
+ - 😝 [The design is very human.](http://9gag.com/gag/a34nPx7)
+ - 😝 [We live with the evil](http://9gag.com/gag/a4PV99Z)
+ - 💣 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
+ - 😝 [Instant karma](http://9gag.com/gag/ae9WNA5)
+ - 👉 [Taking your fish for a walk.](http://9gag.com/gag/aYQmpWm)<!-- MEMES:END -->
 
 ---
 

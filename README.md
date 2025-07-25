@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Christian Bale type of dedication](http://9gag.com/gag/a7oALnA)
- - 😝 [It ain&#39;t much but its honest work.](http://9gag.com/gag/a9yBd1K)
- - 💣 [Close game](http://9gag.com/gag/aLnrK4v)
- - 😝 [...](http://9gag.com/gag/aoyDEge)
- - 👉 [Remember this?](http://9gag.com/gag/a2vGN5e)<!-- MEMES:END -->
+ - 😝 [Sports rewards the cream that rises to the top.](http://9gag.com/gag/avym2oW)
+ - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 💣 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
+ - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
+ - 👉 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)<!-- MEMES:END -->
 
 ---
 

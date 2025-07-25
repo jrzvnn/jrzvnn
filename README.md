@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lyft&amp;#8217;s self-driving shuttle buses are coming soon](https://www.theverge.com/news/713949/lyft-self-driving-shuttle-buses-holon-urban)
  - [Dutch delays ruling on Apple dating app fees while EU negotiates](https://appleinsider.com/articles/25/07/25/dutch-delays-ruling-on-apple-dating-app-fees-while-eu-negotiates?utm_source=rss)
  - [Some 4chan users claim they breached Tea, the women&#39;s dating safety app that has topped the US App Store charts, exposing selfies and drivers&#39; licenses &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250725/p16#a250725p16)
- - [A look at Tea, a woman-only safety app with 4M users that lets users anonymously assign red or green flags to local men, as it goes viral with 900K new signups &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/250725/p15#a250725p15)
- - [Bluetti&amp;#8217;s small, camp-friendly generator is over 30 percent off](https://www.theverge.com/tech/713552/bluetti-ac2p-portable-power-station-samsung-galaxy-s24-ultra-deal-sale)
- - [App Store developers must now provide age rating details](https://appleinsider.com/articles/25/07/25/app-store-developers-must-now-provide-age-rating-details?utm_source=rss)<!-- TECH:END -->
+ - [A look at Tea, a women-only safety app with 4M users that lets users anonymously assign red or green flags to local men, as it goes viral with 900K new signups &lpar;Angela Yang/NBC News&rpar;](http://www.techmeme.com/250725/p15#a250725p15)
+ - [Bluetti&amp;#8217;s small, camp-friendly generator is over 30 percent off](https://www.theverge.com/tech/713552/bluetti-ac2p-portable-power-station-samsung-galaxy-s24-ultra-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The design is very human.](http://9gag.com/gag/a34nPx7)
- - 😝 [We live with the evil](http://9gag.com/gag/a4PV99Z)
- - 💣 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
- - 😝 [Instant karma](http://9gag.com/gag/ae9WNA5)
- - 👉 [Taking your fish for a walk.](http://9gag.com/gag/aYQmpWm)<!-- MEMES:END -->
+ - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 😝 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
+ - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - 😝 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
+ - 👉 [Do you trust me?&lpar; Hydraulics&rpar;](http://9gag.com/gag/aXPe0qz)<!-- MEMES:END -->
 
 ---
 

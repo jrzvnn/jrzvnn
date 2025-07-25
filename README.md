@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remember this?](http://9gag.com/gag/a2vGN5e)
- - 😝 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
- - 💣 [` without further ado`](http://9gag.com/gag/aYQmNOx)
- - 😝 [It ain&#39;t much but its honest work.](http://9gag.com/gag/a9yBd1K)
- - 👉 [...](http://9gag.com/gag/aoyDEge)<!-- MEMES:END -->
+ - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - 😝 [That ending](http://9gag.com/gag/aByo99N)
+ - 💣 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
+ - 😝 [Nope](http://9gag.com/gag/amonNny)
+ - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - 😝 [That ending](http://9gag.com/gag/aByo99N)
- - 💣 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
+ - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
+ - 💣 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
+ - 😝 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
  - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
 
 ---

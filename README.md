@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluetti&amp;#8217;s small, camp-friendly generator is over 30 percent off](https://www.theverge.com/tech/713552/bluetti-ac2p-portable-power-station-samsung-galaxy-s24-ultra-deal-sale)
+ - [App Store developers must now provide age rating details](https://appleinsider.com/articles/25/07/25/app-store-developers-must-now-provide-age-rating-details?utm_source=rss)
  - [What iPhone Upgrade Program users need to know about AppleCare One](https://appleinsider.com/articles/25/07/25/what-iphone-upgrade-program-users-need-to-know-about-applecare-one?utm_source=rss)
  - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
- - [Trump’s Anti-Bias AI Order Is Just More Bias](https://www.wired.com/story/trump-ai-order-bias-openai-google/)
- - [Microsoft previews Copilot Appearance, a virtual character with real-time expressions, voice, and conversational memory, for some users in the US, UK, Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p14#a250725p14)
- - [How to make your iPhone homescreen icons clear using iOS 26](https://www.theverge.com/tech/713748/ios-26-iphone-liquid-glass-home-screen-how-to)<!-- TECH:END -->
+ - [Trump’s Anti-Bias AI Order Is Just More Bias](https://www.wired.com/story/trump-ai-order-bias-openai-google/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

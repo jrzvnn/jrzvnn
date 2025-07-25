@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Recall is meeting a lot of resistance from app developers, with Brave and AdGuard joining Signal in blocking the controversial Windows AI tool &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p8#a250725p8)
- - [Somnee Smart Sleep Headband Review: High-Tech Help](https://www.wired.com/review/somnee-sleep-headband/)
- - [Diving into Apple’s Liquid Glass](https://www.theverge.com/the-vergecast/713630/apple-liquid-glass-tesla-diner-vergecast)
- - [Samsung Galaxy Watch8 and Watch8 Classic Review: The Squircle](https://www.wired.com/review/samsung-galaxy-watch8-and-watch8-classic/)
- - [I &amp;#8216;fooled&amp;#8217; Samsung&amp;#8217;s new antioxidant feature with a Cheez-It](https://www.theverge.com/hands-on/713172/samsung-galaxy-watch-8-antioxidant-index-cheezits)<!-- TECH:END -->
+ - [Sources: the number of Optimus humanoid robots Tesla has made this year is in the hundreds, well behind the pace needed to meet Musk&#39;s goal of producing 5K+ &lpar;The Information&rpar;](http://www.techmeme.com/250725/p9#a250725p9)
+ - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
+ - [Apple products eligible for US tax free holiday listed for nine states](https://appleinsider.com/articles/25/07/25/apple-products-eligible-for-us-tax-free-holiday-listed-for-nine-states?utm_source=rss)
+ - [I tried Gemini on the Pixel Watch. Here’s what it’s like](https://www.theverge.com/gadgets/713532/gemini-wear-os-pixel-watch-hands-on)
+ - [Microsoft&#39;s Recall is meeting a lot of resistance from app developers, with Brave and AdGuard joining Signal in blocking the controversial Windows AI tool &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250725/p8#a250725p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

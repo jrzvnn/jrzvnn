@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Close game](http://9gag.com/gag/aLnrK4v)
- - 😝 [We live with the evil](http://9gag.com/gag/a4PV99Z)
- - 💣 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
- - 😝 [Taking your fish for a walk.](http://9gag.com/gag/aYQmpWm)
- - 👉 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)<!-- MEMES:END -->
+ - 😝 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
+ - 💣 [We live with the evil](http://9gag.com/gag/a4PV99Z)
+ - 😝 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
+ - 👉 [The design is very human.](http://9gag.com/gag/a34nPx7)<!-- MEMES:END -->
 
 ---
 

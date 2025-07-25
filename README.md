@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [PIRACY IT&#39;S A CRIME](http://9gag.com/gag/aW4908K)
+ - 😝 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
+ - 💣 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
  - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 💣 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
+ - 👉 [Close game](http://9gag.com/gag/aLnrK4v)<!-- MEMES:END -->
 
 ---
 

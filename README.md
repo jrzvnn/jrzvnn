@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/amonNny)
+ - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
  - 😝 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
- - 💣 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 😝 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
- - 👉 [Gold](http://9gag.com/gag/a87zLY1)<!-- MEMES:END -->
+ - 💣 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
 
 ---
 

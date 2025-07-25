@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Core Devices CEO says the company has recovered the Pebble trademark, allowing it to rename its new smartwatches as Pebble 2 Duo and Pebble Time 2 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250725/p19#a250725p19)
- - [You can now easily buy a Switch 2 without jumping through hoops](https://www.theverge.com/tech/713828/nintendo-switch-in-stock-best-buy-amazon-target-walmart)
- - [Superman&amp;#8217;s Fortress of Solitude is a Silver Age man cave inspired by nature&amp;#8217;s beauty](https://www.theverge.com/film/713692/superman-interview-beth-mickle)
- - [Tea App Breach Exposes 72,000 Selfies, ID Photos and Other User Images](https://www.cnet.com/tech/services-and-software/tea-app-breach-exposes-72000-selfies-id-photos-and-other-user-images/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s M2 Max Mac Studio plunges to $899 at Amazon](https://appleinsider.com/articles/25/07/25/apples-m2-max-mac-studio-plunges-to-899-at-amazon?utm_source=rss)
+ - [Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)
+ - [Facebook ranks worst for online harassment, according to a global activist survey](https://www.theverge.com/news/713976/online-harassment-meta-social-media-environmental-activists)
+ - [Sources: Microsoft is investigating whether a leak in its early alert system for cybersecurity companies let Chinese hackers exploit SharePoint flaws &lpar;Bloomberg&rpar;](http://www.techmeme.com/250725/p20#a250725p20)
+ - [Anker is no longer selling 3D printers](https://www.theverge.com/report/714006/anker-stop-selling-3d-printer-m5-m5c-parts-eufymake)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

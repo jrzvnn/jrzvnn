@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Treasury sanctions three senior North Korean officials accused of tricking companies into hiring North Koreans using stolen identities as IT workers &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250724/p53#a250724p53)
+ - [A UK court sentences a 21-year-old student who created phishing kits that mimicked government, bank, and charity websites, linked to £100M of fraud &lpar;Shane Hickey/The Guardian&rpar;](http://www.techmeme.com/250724/p52#a250724p52)
  - [Paramount-Skydance merger approved after companies agree to government speech demands](https://www.theverge.com/news/713587/paramount-skydance-merger-approved-fcc-speech-dei-bias)
- - [Blender is building a full-featured iPad app, but it&#39;s not clear when it will be released](https://appleinsider.com/articles/25/07/24/blender-is-building-a-full-featured-ipad-app-but-its-not-clear-when-it-will-be-released?utm_source=rss)
- - [Hands-on with macOS 26: the interface is a mess, like a poorly imported iOS design, but the power of Spotlight and Shortcuts will delight many longtime users &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/250724/p51#a250724p51)
- - [Paramount Has a $1.5 Billion ‘South Park’ Problem](https://www.wired.com/story/paramount-has-a-south-park-problem/)
- - [Starlink Outage Takes Down Elon Musk&#39;s Satellite Internet Service](https://www.cnet.com/home/internet/starlink-outage-takes-down-elon-musks-satellite-internet-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Starlink Restored After Hours-Long Outage Took Down Elon Musk&#39;s Satellite Internet Service](https://www.cnet.com/home/internet/starlink-restored-after-hours-long-outage-took-down-elon-musks-satellite-internet-service/#ftag=CAD590a51e)
+ - [T-Mobile and Starlink&#39;s $10 a Month Satellite Texting Service Is Live. Here&#39;s How It Works](https://www.cnet.com/tech/mobile/t-mobile-and-starlinks-10-a-month-satellite-texting-service-is-live-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

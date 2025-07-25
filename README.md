@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 💣 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
  - 😝 [Nope](http://9gag.com/gag/amonNny)
- - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
+ - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 💣 [Baldomero](http://9gag.com/gag/aQzVPZd)
+ - 😝 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
+ - 👉 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)<!-- MEMES:END -->
 
 ---
 

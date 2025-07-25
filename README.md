@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir becomes the 20th most valuable US company, after its stock more than doubled in 2025, giving it a market cap of $375B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250725/p26#a250725p26)
  - [Tea says hackers accessed a database from more than two years ago, leaking 72,000 images, including 13,000 verification photos and images of government IDs &lpar;NBC News&rpar;](http://www.techmeme.com/250725/p25#a250725p25)
  - [DJI couldn’t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
  - [Avatar: Seven Havens, Invincible VS and More: Big Comic-Con 2025 Reveals So Far](https://www.cnet.com/tech/services-and-software/avatar-seven-havens-invincible-vs-more-big-comic-con-2025-reveals-so-far/#ftag=CAD590a51e)
- - [Source: Yann LeCun will continue to work at Meta as chief scientist of the AI research group FAIR and will report to Alexandr Wang &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250725/p24#a250725p24)
- - [Tea Is the Top Free App Right Now. What It Is and Why So Many Women Are Using It](https://www.cnet.com/tech/services-and-software/tea-is-the-top-free-app-right-now-what-it-is-and-why-so-many-women-are-using-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Yann LeCun will continue to work at Meta as chief scientist of the AI research group FAIR and will report to Alexandr Wang &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250725/p24#a250725p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

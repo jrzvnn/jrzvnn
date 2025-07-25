@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
- - 😝 [That ending](http://9gag.com/gag/aByo99N)
- - 💣 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 😝 [Nope](http://9gag.com/gag/amonNny)
- - 👉 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)<!-- MEMES:END -->
+ - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
+ - 💣 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
+ - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
 
 ---
 

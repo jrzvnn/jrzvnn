@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PIRACY IT&#39;S A CRIME](http://9gag.com/gag/aW4908K)
- - 😝 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
- - 💣 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
- - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 👉 [Close game](http://9gag.com/gag/aLnrK4v)<!-- MEMES:END -->
+ - 😝 [Jeffrey Epstein asserts his 5th, 6th, and 14th Amendment rights when asked if he socialized with Donald Trump in the presence of females under the age of 18](http://9gag.com/gag/agmj33w)
+ - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
+ - 💣 [Show me what really matters](http://9gag.com/gag/a9yBby1)
+ - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
+ - 👉 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)<!-- MEMES:END -->
 
 ---
 

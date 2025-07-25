@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 💣 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 👉 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)<!-- MEMES:END -->
+ - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
+ - 💣 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
+ - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
 
 ---
 

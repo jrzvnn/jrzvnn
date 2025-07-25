@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 👉 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)<!-- MEMES:END -->
+ - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
+ - 😝 [Do you trust me?&lpar; Hydraulics&rpar;](http://9gag.com/gag/aXPe0qz)
+ - 💣 [Giant Asian hornets](http://9gag.com/gag/aqyA41R)
+ - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 👉 [That ending](http://9gag.com/gag/aByo99N)<!-- MEMES:END -->
 
 ---
 

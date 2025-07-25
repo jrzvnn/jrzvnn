@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 💣 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
- - 😝 [Nope](http://9gag.com/gag/amonNny)
- - 👉 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)<!-- MEMES:END -->
+ - 😝 [Remember this?](http://9gag.com/gag/a2vGN5e)
+ - 😝 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
+ - 💣 [` without further ado`](http://9gag.com/gag/aYQmNOx)
+ - 😝 [It ain&#39;t much but its honest work.](http://9gag.com/gag/a9yBd1K)
+ - 👉 [...](http://9gag.com/gag/aoyDEge)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK starts enforcing new online child safety laws, requiring websites that host porn, self-harm, suicide, and eating disorder content to verify users&#39; age &lpar;Wired&rpar;](http://www.techmeme.com/250725/p29#a250725p29)
+ - [GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger](https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed)
+ - [Sources: Ramp is in talks to raise $350M led by Iconiq at a ~$21B valuation, after raising $200M at a $16B valuation in June &lpar;The Information&rpar;](http://www.techmeme.com/250725/p28#a250725p28)
  - [Tea App Breach Exposes 72,000 Selfies, ID Photos and Other User Images](https://www.cnet.com/tech/services-and-software/tea-app-breach-exposes-72000-selfies-id-photos-and-other-user-images/#ftag=CAD590a51e)
- - [&#39;Breaking Bad&#39; creator&#39;s new show on Apple TV+ is &#39;Pluribus&#39;](https://appleinsider.com/articles/25/07/25/breaking-bad-creator-unveils-teaser-for-new-pluribus-on-apple-tv?utm_source=rss)
- - [Recent grads and PhDs are being recruited by AI companies like Handshake to provide specialized training data in fields like music and law for $30-$160 per hour &lpar;Emma Haidar/Bloomberg&rpar;](http://www.techmeme.com/250725/p27#a250725p27)
- - [These Stylish Bluetooth Headphones With Unbelievable Battery Life Are Cheaper Than Ever](https://www.cnet.com/deals/these-stylish-bluetooth-headphones-with-unbelievable-battery-life-are-cheaper-than-ever/#ftag=CAD590a51e)
- - [&#39;The Fantastic Four: First Steps&#39;: Are There Post-Credits Scenes?](https://www.cnet.com/tech/services-and-software/the-fantastic-four-first-steps-are-there-post-credits-scenes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Breaking Bad&#39; creator&#39;s new show on Apple TV+ is &#39;Pluribus&#39;](https://appleinsider.com/articles/25/07/25/breaking-bad-creator-unveils-teaser-for-new-pluribus-on-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250725/p11#a250725p11)
- - [Anysphere launches Bugbot, an AI-powered tool that integrates with GitHub to detect coding errors introduced by humans or AI agents, for $40 per month per user &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250725/p10#a250725p10)
- - [Apple researchers take aim at AI hallucinations and true conversations](https://appleinsider.com/articles/25/07/25/apple-researchers-take-aim-at-ai-hallucinations-and-true-conversations?utm_source=rss)
- - [Sources: the number of Optimus humanoid robots Tesla has made this year is in the hundreds, well behind the pace needed to meet Musk&#39;s goal of producing 5K+ &lpar;The Information&rpar;](http://www.techmeme.com/250725/p9#a250725p9)
- - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)<!-- TECH:END -->
+ - [Asus’ slim ROG G14 gaming laptop with an RTX 5070 Ti is $350 off](https://www.theverge.com/tech/713731/asus-rog-g14-zephyrus-gaming-laptop-5070ti-deal-sale)
+ - [Microsoft’s AI CEO thinks Copilot will age and ‘have a room that it lives in’](https://www.theverge.com/news/713715/microsoft-copilot-appearance-feature-age-mustafa-suleyman-interview)
+ - [The UK&amp;#8217;s new age-gating rules are easy to bypass](https://www.theverge.com/analysis/713773/uk-online-safety-act-age-verification-bypass-vpn)
+ - [Sources: GPT-5 shows improved performance in coding, particularly in practical software engineering tasks, outperforming prior OpenAI models and Claude Sonnet 4 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250725/p12#a250725p12)
+ - [Lyft partners with Austria-based Benteler to deploy autonomous shuttles in the US in late 2026, to be initially deployed in partnership with airports and cities &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250725/p11#a250725p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

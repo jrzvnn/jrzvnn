@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tea App Breach Exposes 72,000 Selfies, ID Photos and Other User Images](https://www.cnet.com/tech/services-and-software/tea-app-breach-exposes-72000-selfies-id-photos-and-other-user-images/#ftag=CAD590a51e)
  - [&#39;Breaking Bad&#39; creator&#39;s new show on Apple TV+ is &#39;Pluribus&#39;](https://appleinsider.com/articles/25/07/25/breaking-bad-creator-unveils-teaser-for-new-pluribus-on-apple-tv?utm_source=rss)
  - [Recent grads and PhDs are being recruited by AI companies like Handshake to provide specialized training data in fields like music and law for $30-$160 per hour &lpar;Emma Haidar/Bloomberg&rpar;](http://www.techmeme.com/250725/p27#a250725p27)
- - [Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis](https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/)
- - [Palantir becomes the 20th most valuable US company, after its stock more than doubled in 2025, giving it a market cap of $375B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250725/p26#a250725p26)
- - [Tea says hackers accessed a database from more than two years ago, leaking 72,000 images, including 13,000 verification photos and images of government IDs &lpar;NBC News&rpar;](http://www.techmeme.com/250725/p25#a250725p25)<!-- TECH:END -->
+ - [These Stylish Bluetooth Headphones With Unbelievable Battery Life Are Cheaper Than Ever](https://www.cnet.com/deals/these-stylish-bluetooth-headphones-with-unbelievable-battery-life-are-cheaper-than-ever/#ftag=CAD590a51e)
+ - [&#39;The Fantastic Four: First Steps&#39;: Are There Post-Credits Scenes?](https://www.cnet.com/tech/services-and-software/the-fantastic-four-first-steps-are-there-post-credits-scenes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

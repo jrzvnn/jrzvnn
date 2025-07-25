@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 😝 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
- - 💣 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 😝 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
- - 👉 [Do you trust me?&lpar; Hydraulics&rpar;](http://9gag.com/gag/aXPe0qz)<!-- MEMES:END -->
+ - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 😝 [Gold](http://9gag.com/gag/a87zLY1)
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
+ - 👉 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)<!-- MEMES:END -->
 
 ---
 

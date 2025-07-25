@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
- - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - 💣 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 👉 [Gold](http://9gag.com/gag/a87zLY1)<!-- MEMES:END -->
+ - 😝 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
+ - 😝 [Nope](http://9gag.com/gag/amonNny)
+ - 💣 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
+ - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
+ - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
 ---
 

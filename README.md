@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg announces that former OpenAI researcher Shengjia Zhao will be chief scientist at Meta&#39;s new superintelligence lab &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250725/p23#a250725p23)
+ - [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)
+ - [Your Weekend Streaming Watch List: &#39;Happy Gilmore 2,&#39; &#39;Washington Black&#39; and More](https://www.cnet.com/tech/services-and-software/your-weekend-streaming-watch-list-happy-gilmore-2-washington-black-and-more/#ftag=CAD590a51e)
  - [Intel plans to spin off its Network and Edge Group into a standalone company and says it will seek outside investment for the business unit &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250725/p22#a250725p22)
- - [Comcast&amp;#8217;s fix for streaming service overload is in your cable box](https://www.theverge.com/news/714113/comcast-streamstore-xfinity-streaming-overload)
- - [Sources: Anthropic is in talks to raise $3B to $5B, including from Middle Eastern investors, in a round that could more than double its valuation to $150B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250725/p21#a250725p21)
- - [Breaking Bad creator’s new sci-fi show hits Apple in November](https://www.theverge.com/news/714080/pluribus-trailer-date-apple-tv-plus)
- - [&#39;Breaking Bad&#39; creator unveils teaser for new &#39;Pluribus&#39; on Apple TV+](https://appleinsider.com/articles/25/07/25/breaking-bad-creator-unveils-teaser-for-new-pluribus-on-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Comcast&amp;#8217;s fix for streaming service overload is in your cable box](https://www.theverge.com/news/714113/comcast-streamstore-xfinity-streaming-overload)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

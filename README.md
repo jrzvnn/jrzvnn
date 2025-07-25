@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 Max Mac Studio plunges to $899 at Amazon](https://appleinsider.com/articles/25/07/25/apples-m2-max-mac-studio-plunges-to-899-at-amazon?utm_source=rss)
- - [Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)
- - [Facebook ranks worst for online harassment, according to a global activist survey](https://www.theverge.com/news/713976/online-harassment-meta-social-media-environmental-activists)
- - [Sources: Microsoft is investigating whether a leak in its early alert system for cybersecurity companies let Chinese hackers exploit SharePoint flaws &lpar;Bloomberg&rpar;](http://www.techmeme.com/250725/p20#a250725p20)
- - [Anker is no longer selling 3D printers](https://www.theverge.com/report/714006/anker-stop-selling-3d-printer-m5-m5c-parts-eufymake)<!-- TECH:END -->
+ - [Comcast&amp;#8217;s fix for streaming service overload is in your cable box](https://www.theverge.com/news/714113/comcast-streamstore-xfinity-streaming-overload)
+ - [Sources: Anthropic is in talks to raise $3B to $5B, including from Middle Eastern investors, in a round that could more than double its valuation to $150B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250725/p21#a250725p21)
+ - [Breaking Bad creator’s new sci-fi show hits Apple in November](https://www.theverge.com/news/714080/pluribus-trailer-date-apple-tv-plus)
+ - [&#39;Breaking Bad&#39; creator unveils teaser for new &#39;Pluribus&#39; on Apple TV+](https://appleinsider.com/articles/25/07/25/breaking-bad-creator-unveils-teaser-for-new-pluribus-on-apple-tv?utm_source=rss)
+ - [Apple&#39;s M2 Max Mac Studio plunges to $899 at Amazon](https://appleinsider.com/articles/25/07/25/apples-m2-max-mac-studio-plunges-to-899-at-amazon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

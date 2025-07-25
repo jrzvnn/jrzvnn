@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [Core Devices CEO says the company has recovered the Pebble trademark, allowing it to rename its new smartwatches as Pebble 2 Duo and Pebble Time 2 &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250725/p19#a250725p19)
+ - [You can now easily buy a Switch 2 without jumping through hoops](https://www.theverge.com/tech/713828/nintendo-switch-in-stock-best-buy-amazon-target-walmart)
  - [Superman&amp;#8217;s Fortress of Solitude is a Silver Age man cave inspired by nature&amp;#8217;s beauty](https://www.theverge.com/film/713692/superman-interview-beth-mickle)
- - [The NHTSA closes its 14-month investigation into a series of minor collisions and unexpected behavior from Waymo vehicles, and won&#39;t take further action &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250725/p18#a250725p18)
- - [Want to pay down the national debt? The US government will take Venmo](https://www.theverge.com/news/713980/us-national-debt-treasury-department-reduce-pay-venmo)
- - [Pebble is officially Pebble again](https://www.theverge.com/news/713931/pebble-smartwatch-name-trademark-recovered)
- - [Sen. Alex Padilla grants the Internet Archive federal depository status, making it a part of a network of over 1,100 libraries that archive government documents &lpar;Morgan Sung/KQED&rpar;](http://www.techmeme.com/250725/p17#a250725p17)<!-- TECH:END -->
+ - [Tea App Breach Exposes 72,000 Selfies, ID Photos and Other User Images](https://www.cnet.com/tech/services-and-software/tea-app-breach-exposes-72000-selfies-id-photos-and-other-user-images/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

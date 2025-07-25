@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel plans to cut its workforce from 96,400 that it reported at the end of June to 75,000, or about 15%, through attrition and &quot;other means&quot; by the end of 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250724/p55#a250724p55)
+ - [Aidoc, which uses AI to help doctors make real-time clinical decisions, raised $150M led by General Catalyst and Square Peg, bringing its total funding to $370M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250724/p54#a250724p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, July 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-july-25/#ftag=CAD590a51e)
  - [The US Treasury sanctions three senior North Korean officials accused of tricking companies into hiring North Koreans using stolen identities as IT workers &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250724/p53#a250724p53)
- - [A UK court sentences a 21-year-old student who created phishing kits that mimicked government, bank, and charity websites, linked to £100M of fraud &lpar;Shane Hickey/The Guardian&rpar;](http://www.techmeme.com/250724/p52#a250724p52)
- - [Paramount-Skydance merger approved after companies agree to government speech demands](https://www.theverge.com/news/713587/paramount-skydance-merger-approved-fcc-speech-dei-bias)
- - [Starlink Restored After Hours-Long Outage Took Down Elon Musk&#39;s Satellite Internet Service](https://www.cnet.com/home/internet/starlink-restored-after-hours-long-outage-took-down-elon-musks-satellite-internet-service/#ftag=CAD590a51e)
- - [T-Mobile and Starlink&#39;s $10 a Month Satellite Texting Service Is Live. Here&#39;s How It Works](https://www.cnet.com/tech/mobile/t-mobile-and-starlinks-10-a-month-satellite-texting-service-is-live-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A UK court sentences a 21-year-old student who created phishing kits that mimicked government, bank, and charity websites, linked to £100M of fraud &lpar;Shane Hickey/The Guardian&rpar;](http://www.techmeme.com/250724/p52#a250724p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 😝 [How do we feel about the Dutch accent?](http://9gag.com/gag/a4PVpzA)
- - 💣 [Lets Embrace no HR policy](http://9gag.com/gag/aVvBjXv)
- - 😝 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
- - 👉 [Your daily doses of:](http://9gag.com/gag/aGy7P56)<!-- MEMES:END -->
+ - 😝 [Its starting to annoy me](http://9gag.com/gag/awyv0P8)
+ - 😝 [Still waiting for the next Cornetto Trilogy installment.](http://9gag.com/gag/a34nPL7)
+ - 💣 [Christian Bale type of dedication](http://9gag.com/gag/a7oALnA)
+ - 😝 [Remember this?](http://9gag.com/gag/a2vGN5e)
+ - 👉 [Instant karma](http://9gag.com/gag/ae9WNA5)<!-- MEMES:END -->
 
 ---
 

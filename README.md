@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sports rewards the cream that rises to the top.](http://9gag.com/gag/avym2oW)
- - 😝 [That ending](http://9gag.com/gag/aByo99N)
- - 💣 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
+ - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
+ - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 💣 [That ending](http://9gag.com/gag/aByo99N)
  - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
- - 👉 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)<!-- MEMES:END -->
+ - 👉 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)<!-- MEMES:END -->
 
 ---
 

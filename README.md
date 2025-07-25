@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Close game](http://9gag.com/gag/aLnrK4v)
- - 😝 [Some people get shots, others get trauma. Either way, everybody\u2019s getting something!](http://9gag.com/gag/aW49ZNn)
- - 💣 [We live with the evil](http://9gag.com/gag/a4PV99Z)
- - 😝 [Liv tyler rocking the 90s aesthetic](http://9gag.com/gag/azxQbWN)
- - 👉 [The design is very human.](http://9gag.com/gag/a34nPx7)<!-- MEMES:END -->
+ - 😝 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
+ - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
+ - 💣 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
+ - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 👉 [Gold](http://9gag.com/gag/a87zLY1)<!-- MEMES:END -->
 
 ---
 

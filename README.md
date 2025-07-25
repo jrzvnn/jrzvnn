@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The First Planned Migration of an Entire Country Is Underway](https://www.wired.com/story/the-first-planned-migration-of-an-entire-country-is-underway/)
  - [Intel says it may exit cutting-edge manufacturing if it can&#39;t secure customers for its 14A process, a major shift for the long-time steward of Moore&#39;s Law &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p3#a250725p3)
  - [Sources: repair demand in China for Nvidia&#39;s banned AI chips, including H100 and A100, surges as ~12 firms now repair chips that made their way into the country &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p2#a250725p2)
  - [The Age-Checked Internet Has Arrived](https://www.wired.com/story/the-age-checked-internet-has-arrived/)
- - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)
- - [Tether says it has ~250K Tether Gold tokens in circulation as of Q2 2025, backed 1:1 by a troy ounce of physical gold; the stablecoin was launched in Jan. 2020 &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250725/p1#a250725p1)<!-- TECH:END -->
+ - [NordVPN Coupon and Discount Codes: 76% Off](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

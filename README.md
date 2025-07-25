@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 💣 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 😝 [Gold](http://9gag.com/gag/a87zLY1)
- - 👉 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/amonNny)
+ - 😝 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
+ - 💣 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 😝 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
+ - 👉 [Gold](http://9gag.com/gag/a87zLY1)<!-- MEMES:END -->
 
 ---
 

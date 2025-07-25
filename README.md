@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta will end political, election, or social issue ads in the EU from October, like Google, with both citing incoming regulation &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250725/p6#a250725p6)
+ - [5 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
  - [Public companies are loading up on crypto tokens, including $TRUMP, HYPE, and litecoin, as they expand beyond bitcoin to boost their own share prices &lpar;Financial Times&rpar;](http://www.techmeme.com/250725/p5#a250725p5)
  - [Inside iOS 26 Control Center -- fast access to the best iPhone features](https://appleinsider.com/inside/ios-26/tips/inside-ios-26-control-center----fast-access-to-the-best-iphone-features?utm_source=rss)
- - [Anime Girl VTubers Are Selling Out Concerts, but Are They ‘Real?’ Depends on Who You Ask](https://www.wired.com/story/anime-girl-vtubers-are-selling-out-concerts-but-are-they-real-depends-on-who-you-ask/)
- - [Welcome to the Era of Online Age Verification. Are You Ready to Prove Yourself?](https://www.cnet.com/tech/services-and-software/welcome-to-the-era-of-online-age-verification-are-you-ready-to-prove-yourself/#ftag=CAD590a51e)
- - [Errors found in US judge’s withdrawn decision stink of AI](https://www.theverge.com/news/713653/judge-withdraws-cormedix-case-ai-citation-errors)<!-- TECH:END -->
+ - [Anime Girl VTubers Are Selling Out Concerts, but Are They ‘Real?’ Depends on Who You Ask](https://www.wired.com/story/anime-girl-vtubers-are-selling-out-concerts-but-are-they-real-depends-on-who-you-ask/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

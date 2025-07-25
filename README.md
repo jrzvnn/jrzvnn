@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Welcome to the Era of Online Age Verification. Are You Ready to Prove Yourself?](https://www.cnet.com/tech/services-and-software/welcome-to-the-era-of-online-age-verification-are-you-ready-to-prove-yourself/#ftag=CAD590a51e)
  - [Errors found in US judge’s withdrawn decision stink of AI](https://www.theverge.com/news/713653/judge-withdraws-cormedix-case-ai-citation-errors)
  - [Syncing desktops and better AI wallpapers are coming to ChromeOS](https://www.theverge.com/news/713654/chromeos-m138-freeform-ai-wallpapers-desk-sync-chromebook)
- - [Analysis: US and UK entry-level graduate job listings have plunged since 2022, but there&#39;s only tentative evidence of AI-related disruption in some occupations &lpar;Financial Times&rpar;](http://www.techmeme.com/250725/p4#a250725p4)
- - [You Can Now Get Starlink for Just $15 a Month in New York, but There Are Still Some Hurdles](https://www.cnet.com/home/internet/you-can-now-get-starlink-for-just-15-monthly-in-new-york-but-theres-still-some-hurdles/#ftag=CAD590a51e)
- - [The First Planned Migration of an Entire Country Is Underway](https://www.wired.com/story/the-first-planned-migration-of-an-entire-country-is-underway/)<!-- TECH:END -->
+ - [This $50 Electric Toothbrush Replaced My Stolen $200 One Without a Hitch](https://www.cnet.com/deals/this-50-electric-toothbrush-replaced-my-stolen-200-one-without-a-hitch/#ftag=CAD590a51e)
+ - [Here&#39;s Where to Find Sudoku on Your iPhone Now](https://www.cnet.com/tech/services-and-software/heres-where-to-find-sudoku-on-your-iphone-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

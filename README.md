@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jeffrey Epstein asserts his 5th, 6th, and 14th Amendment rights when asked if he socialized with Donald Trump in the presence of females under the age of 18](http://9gag.com/gag/agmj33w)
- - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 💣 [Show me what really matters](http://9gag.com/gag/a9yBby1)
- - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 👉 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)<!-- MEMES:END -->
+ - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 💣 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
+ - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
+ - 👉 [Do you trust me?&lpar; Hydraulics&rpar;](http://9gag.com/gag/aXPe0qz)<!-- MEMES:END -->
 
 ---
 

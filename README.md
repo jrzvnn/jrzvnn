@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 💣 [That ending](http://9gag.com/gag/aByo99N)
- - 😝 [How the world turns amuses me](http://9gag.com/gag/agmjrY6)
- - 👉 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)<!-- MEMES:END -->
+ - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
+ - 💣 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
+ - 👉 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you build a new reef](http://9gag.com/gag/aGybKP6)
+ - 😝 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)
  - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 💣 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
+ - 💣 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
+ - 😝 [Nope](http://9gag.com/gag/amonNny)
  - 👉 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)<!-- MEMES:END -->
 
 ---

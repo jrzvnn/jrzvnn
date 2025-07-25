@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
+ - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
  - 😝 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
- - 💣 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
- - 😝 [Pics in the comments](http://9gag.com/gag/aVvBQZv)
- - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
+ - 💣 [Pics in the comments](http://9gag.com/gag/aVvBQZv)
+ - 😝 [Gold](http://9gag.com/gag/a87zLY1)
+ - 👉 [Boat fall](http://9gag.com/gag/aZZvW1p)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tea says hackers accessed a database from more than two years ago, leaking 72,000 images, including 13,000 verification photos and images of government IDs &lpar;NBC News&rpar;](http://www.techmeme.com/250725/p25#a250725p25)
  - [DJI couldn’t confirm or deny it disguised this drone to evade a US ban](https://www.theverge.com/report/714103/dji-skyrover-x1-evade-ban-amazon)
+ - [Avatar: Seven Havens, Invincible VS and More: Big Comic-Con 2025 Reveals So Far](https://www.cnet.com/tech/services-and-software/avatar-seven-havens-invincible-vs-more-big-comic-con-2025-reveals-so-far/#ftag=CAD590a51e)
  - [Source: Yann LeCun will continue to work at Meta as chief scientist of the AI research group FAIR and will report to Alexandr Wang &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250725/p24#a250725p24)
- - [Mark Zuckerberg announces that former OpenAI researcher Shengjia Zhao will be chief scientist at Meta&#39;s new superintelligence lab &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250725/p23#a250725p23)
- - [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)
- - [Your Weekend Streaming Watch List: &#39;Happy Gilmore 2,&#39; &#39;Washington Black&#39; and More](https://www.cnet.com/tech/services-and-software/your-weekend-streaming-watch-list-happy-gilmore-2-washington-black-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tea Is the Top Free App Right Now. What It Is and Why So Many Women Are Using It](https://www.cnet.com/tech/services-and-software/tea-is-the-top-free-app-right-now-what-it-is-and-why-so-many-women-are-using-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

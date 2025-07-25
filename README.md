@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Capt&#39;n Cringe is at it again!](http://9gag.com/gag/aZZvP4z)
- - 😝 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)
- - 💣 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
- - 👉 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)<!-- MEMES:END -->
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 😝 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
+ - 💣 [Final road, or something, idk, i don&#39;t watch movies](http://9gag.com/gag/amonNp2)
+ - 😝 [Do you trust me?&lpar; Hydraulics&rpar;](http://9gag.com/gag/aXPe0qz)
+ - 👉 [X23 grew up](http://9gag.com/gag/a1mwpzw)<!-- MEMES:END -->
 
 ---
 

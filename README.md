@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: US and UK entry-level graduate job listings have plunged since 2022, but there&#39;s only tentative evidence of AI-related disruption in some occupations &lpar;Financial Times&rpar;](http://www.techmeme.com/250725/p4#a250725p4)
  - [You Can Now Get Starlink for Just $15 a Month in New York, but There Are Still Some Hurdles](https://www.cnet.com/home/internet/you-can-now-get-starlink-for-just-15-monthly-in-new-york-but-theres-still-some-hurdles/#ftag=CAD590a51e)
  - [The First Planned Migration of an Entire Country Is Underway](https://www.wired.com/story/the-first-planned-migration-of-an-entire-country-is-underway/)
  - [How Is T-Mobile&#39;s Starlink-Based Satellite Service Different From the Rest? I Tried It First-Hand](https://www.cnet.com/tech/mobile/how-is-t-mobiles-starlink-based-satellite-service-different-from-the-rest-i-tried-it-first-hand/#ftag=CAD590a51e)
- - [Intel says it may exit cutting-edge manufacturing if it can&#39;t secure customers for its 14A process, a major shift for the long-time steward of Moore&#39;s Law &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p3#a250725p3)
- - [Pepsi Is Launching Its Own Prebiotic Soda, but Does a &#39;Healthy&#39; Soda Really Exist? 6 Experts Answer](https://www.cnet.com/health/nutrition/pepsi-launching-own-prebiotic-soda-but-does-healthy-soda-exist-experts-answer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel says it may exit cutting-edge manufacturing if it can&#39;t secure customers for its 14A process, a major shift for the long-time steward of Moore&#39;s Law &lpar;Reuters&rpar;](http://www.techmeme.com/250725/p3#a250725p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

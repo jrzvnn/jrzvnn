@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Yann LeCun will continue to work at Meta as chief scientist of the AI research group FAIR and will report to Alexandr Wang &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250725/p24#a250725p24)
  - [Mark Zuckerberg announces that former OpenAI researcher Shengjia Zhao will be chief scientist at Meta&#39;s new superintelligence lab &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250725/p23#a250725p23)
  - [Google gets its swag back](https://www.theverge.com/command-line-newsletter/713603/google-search-chatgpt-openai-earnings-ai-race-swag)
  - [Your Weekend Streaming Watch List: &#39;Happy Gilmore 2,&#39; &#39;Washington Black&#39; and More](https://www.cnet.com/tech/services-and-software/your-weekend-streaming-watch-list-happy-gilmore-2-washington-black-and-more/#ftag=CAD590a51e)
- - [Intel plans to spin off its Network and Edge Group into a standalone company and says it will seek outside investment for the business unit &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250725/p22#a250725p22)
- - [Comcast&amp;#8217;s fix for streaming service overload is in your cable box](https://www.theverge.com/news/714113/comcast-streamstore-xfinity-streaming-overload)<!-- TECH:END -->
+ - [Intel plans to spin off its Network and Edge Group into a standalone company and says it will seek outside investment for the business unit &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/250725/p22#a250725p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

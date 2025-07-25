@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your daily doses of:](http://9gag.com/gag/aGy7P56)
- - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - 💣 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 👉 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)<!-- MEMES:END -->
+ - 😝 [Christian Bale type of dedication](http://9gag.com/gag/a7oALnA)
+ - 😝 [It ain&#39;t much but its honest work.](http://9gag.com/gag/a9yBd1K)
+ - 💣 [Close game](http://9gag.com/gag/aLnrK4v)
+ - 😝 [...](http://9gag.com/gag/aoyDEge)
+ - 👉 [Remember this?](http://9gag.com/gag/a2vGN5e)<!-- MEMES:END -->
 
 ---
 

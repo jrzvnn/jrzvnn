@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its starting to annoy me](http://9gag.com/gag/awyv0P8)
- - 😝 [Still waiting for the next Cornetto Trilogy installment.](http://9gag.com/gag/a34nPL7)
- - 💣 [Christian Bale type of dedication](http://9gag.com/gag/a7oALnA)
- - 😝 [Remember this?](http://9gag.com/gag/a2vGN5e)
- - 👉 [Instant karma](http://9gag.com/gag/ae9WNA5)<!-- MEMES:END -->
+ - 😝 [9gaggers be like... would...](http://9gag.com/gag/aoyDmY2)
+ - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
+ - 💣 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
+ - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 👉 [I don&#39;t know](http://9gag.com/gag/aQzV6Bw)<!-- MEMES:END -->
 
 ---
 

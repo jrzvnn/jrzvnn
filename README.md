@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its starting to annoy me](http://9gag.com/gag/awyv0P8)
- - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
- - 💣 [Still waiting for the next Cornetto Trilogy installment.](http://9gag.com/gag/a34nPL7)
- - 😝 [I need this gear for my car now..](http://9gag.com/gag/an7VqYq)
- - 👉 [Christian Bale type of dedication](http://9gag.com/gag/a7oALnA)<!-- MEMES:END -->
+ - 😝 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
+ - 😝 [The Dumbest Thing Bam Has Ever Done](http://9gag.com/gag/aAyvnME)
+ - 💣 [Well at least I asked her](http://9gag.com/gag/a0eOmrz)
+ - 😝 [Baldomero](http://9gag.com/gag/aQzVPZd)
+ - 👉 [What a time to be alive](http://9gag.com/gag/azxQ7Kx)<!-- MEMES:END -->
 
 ---
 

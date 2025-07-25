@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [X23 grew up](http://9gag.com/gag/a1mwpzw)
- - 😝 [Honesty is not always the best policy.](http://9gag.com/gag/avym2qn)
- - 💣 [It happening all along.. Not surprised if his name is on the list](http://9gag.com/gag/a0ew8jn)
- - 😝 [Mommy will make sure that you&#39;re safe](http://9gag.com/gag/aVvBjwK)
- - 👉 [WARNING: If you recognize this photo, you are now old as f\u00fcck](http://9gag.com/gag/aZZR93W)<!-- MEMES:END -->
+ - 😝 [Its starting to annoy me](http://9gag.com/gag/awyv0P8)
+ - 😝 [He got all the segs after that](http://9gag.com/gag/awyvNPQ)
+ - 💣 [Still waiting for the next Cornetto Trilogy installment.](http://9gag.com/gag/a34nPL7)
+ - 😝 [I need this gear for my car now..](http://9gag.com/gag/an7VqYq)
+ - 👉 [Christian Bale type of dedication](http://9gag.com/gag/a7oALnA)<!-- MEMES:END -->
 
 ---
 

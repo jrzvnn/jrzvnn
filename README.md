@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is better than any woman in lingerie could ever be.](http://9gag.com/gag/aD2MwNx)
+ - 😝 [Nostalgia is a trap](http://9gag.com/gag/a0ewLoz)
  - 😝 [I find this way more useful than a robot vacuum](http://9gag.com/gag/aQzVpAr)
  - 💣 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
  - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)

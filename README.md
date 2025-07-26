@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can in hang a bell on your neck?](http://9gag.com/gag/ayNPp7X)
- - 😝 [It&#39;s like rain on your wedding day](http://9gag.com/gag/aE0EGEp)
- - 💣 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
- - 😝 [I find this way more useful than a robot vacuum](http://9gag.com/gag/aQzVpAr)
- - 👉 [Men](http://9gag.com/gag/aKGpw8N)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/amonNny)
+ - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 💣 [The dogs warned us](http://9gag.com/gag/aLnrQeA)
+ - 😝 [Found my wife.](http://9gag.com/gag/aYQmbmO)
+ - 👉 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)<!-- MEMES:END -->
 
 ---
 

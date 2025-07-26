@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CookUnity Prepared Meal Delivery Review &lpar;2025&rpar;: Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery/)
+ - [Online MAGA cope is now Congressional strategy](https://www.theverge.com/politics/714144/epstein-files-maga-trump-influencers-congress)
  - [Razer Pro Click V2 Vertical Review: A Hybrid Gaming Mouse](https://www.wired.com/review/razer-pro-click-v2-vertical/)
  - [The Drifter is a good old-fashioned thriller](https://www.theverge.com/games-review/712020/the-drifter-review-pc)
- - [The SharePoint hacks increase pressure on Microsoft&#39;s Secure Future Initiative, which the company calls an ambitious effort expected to take years to complete &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250726/p6#a250726p6)
- - [Nemo Dagger Osmo Tent Review &lpar;2025&rpar;: 2-Person Backcountry Palace](https://www.wired.com/review/nemo-dagger-osmo-tent-2025/)
- - [OnePlus Nord 5 review: selfie-centric midranger](https://www.theverge.com/phones/712142/oneplus-nord-5-review)<!-- TECH:END -->
+ - [The SharePoint hacks increase pressure on Microsoft&#39;s Secure Future Initiative, which the company calls an ambitious effort expected to take years to complete &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250726/p6#a250726p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

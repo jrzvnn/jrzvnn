@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
- - 😝 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
- - 💣 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)
  - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 👉 [Why though?](http://9gag.com/gag/aW490En)<!-- MEMES:END -->
+ - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 💣 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
+ - 😝 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
+ - 👉 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
- - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 💣 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
- - 😝 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
- - 👉 [He went to a coldplay concert after this](http://9gag.com/gag/aZZvb20)<!-- MEMES:END -->
+ - 😝 [Can in hang a bell on your neck?](http://9gag.com/gag/ayNPp7X)
+ - 😝 [It&#39;s like rain on your wedding day](http://9gag.com/gag/aE0EGEp)
+ - 💣 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
+ - 😝 [I find this way more useful than a robot vacuum](http://9gag.com/gag/aQzVpAr)
+ - 👉 [Men](http://9gag.com/gag/aKGpw8N)<!-- MEMES:END -->
 
 ---
 

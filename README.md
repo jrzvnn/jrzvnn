@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nostalgia is a trap](http://9gag.com/gag/a0ewLoz)
- - 😝 [I find this way more useful than a robot vacuum](http://9gag.com/gag/aQzVpAr)
- - 💣 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
- - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 👉 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)<!-- MEMES:END -->
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 💣 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
+ - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
+ - 👉 [Checkmate](http://9gag.com/gag/aRBDg42)<!-- MEMES:END -->
 
 ---
 

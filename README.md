@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 💣 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
- - 😝 [Go Sport](http://9gag.com/gag/aMVybmP)
- - 👉 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)<!-- MEMES:END -->
+ - 😝 [He went to a coldplay concert after this](http://9gag.com/gag/aZZvb20)
+ - 💣 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 😝 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
+ - 👉 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)<!-- MEMES:END -->
 
 ---
 

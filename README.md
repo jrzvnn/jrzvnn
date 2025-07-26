@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 5 review: selfie-centric midranger](https://www.theverge.com/phones/712142/oneplus-nord-5-review)
- - [Best Breast Pumps &lpar;2025&rpar;: Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
- - [Inside the struggle to create a cozy Lord of the Rings game](https://www.theverge.com/games/709797/tales-of-the-shire-lotr-development-weta-workshop)
- - [How to Watch Liverpool vs. AC Milan From Anywhere: Stream Pre-Season Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-liverpool-vs-ac-milan-from-anywhere-stream-pre-season-friendly-soccer/#ftag=CAD590a51e)
- - [Adaptive Power Could Be the Best Low-Key iOS 26 Feature for Your iPhone&#39;s Battery](https://www.cnet.com/tech/mobile/adaptive-power-could-be-the-best-low-key-ios-26-feature-for-your-iphones-battery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Razer Pro Click V2 Vertical Review: A Hybrid Gaming Mouse](https://www.wired.com/review/razer-pro-click-v2-vertical/)
+ - [The Drifter is a good old-fashioned thriller](https://www.theverge.com/games-review/712020/the-drifter-review-pc)
+ - [The SharePoint hacks increase pressure on Microsoft&#39;s Secure Future Initiative, which the company calls an ambitious effort expected to take years to complete &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250726/p6#a250726p6)
+ - [Nemo Dagger Osmo Tent Review &lpar;2025&rpar;: 2-Person Backcountry Palace](https://www.wired.com/review/nemo-dagger-osmo-tent-2025/)
+ - [OnePlus Nord 5 review: selfie-centric midranger](https://www.theverge.com/phones/712142/oneplus-nord-5-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

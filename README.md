@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/amonNny)
- - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 💣 [The dogs warned us](http://9gag.com/gag/aLnrQeA)
- - 😝 [Found my wife.](http://9gag.com/gag/aYQmbmO)
- - 👉 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)<!-- MEMES:END -->
+ - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
+ - 😝 [He&#39;s going places... Probably a planet parenthood](http://9gag.com/gag/amonL36)
+ - 💣 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
 
 ---
 

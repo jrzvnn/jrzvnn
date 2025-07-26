@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
- - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 💣 [Checkmate](http://9gag.com/gag/aRBDg42)
- - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
- - 👉 [Don&#39;t overcharge your merchandise](http://9gag.com/gag/aryzeEV)<!-- MEMES:END -->
+ - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 💣 [Go Sport](http://9gag.com/gag/aMVybmP)
+ - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 👉 [Too angry with her self](http://9gag.com/gag/agmj0og)<!-- MEMES:END -->
 
 ---
 

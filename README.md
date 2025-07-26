@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some users are circumventing UK&#39;s age checks by using VPNs, providing fake AI-generated photo IDs, or using images of high-fidelity video game characters &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/250726/p11#a250726p11)
  - [Sources: DOGE has built an AI tool aiming to cut 50% of federal regulations, or around 100,000 rules, by the first anniversary of Trump&#39;s inauguration &lpar;Washington Post&rpar;](http://www.techmeme.com/250726/p10#a250726p10)
  - [Pony AI gets a permit to provide fully driverless robotaxi services in Shanghai, making it the only company with permits in all four of China&#39;s biggest cities &lpar;Pretish M J/Reuters&rpar;](http://www.techmeme.com/250726/p9#a250726p9)
  - [Ninja&#39;s Glass-Bowl Air Fryer Won Me Over. Here Are 4 Reasons I Made the Switch](https://www.cnet.com/home/kitchen-and-household/ninjas-glass-bowl-air-fryer-won-me-over-here-are-4-reasons-i-made-the-switch/#ftag=CAD590a51e)
- - [2025’s Best 3D Printers Are the Best I’ve Seen in a Decade](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
+ - [2025’s Best 3D Printers Are the Best I’ve Seen in a Decade](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

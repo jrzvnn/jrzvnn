@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A minute of silence for our brother...](http://9gag.com/gag/abAEq0E)
- - 😝 [Instant karma](http://9gag.com/gag/ae9WNA5)
- - 💣 [Oh no... Anyway](http://9gag.com/gag/ajPy6V0)
- - 😝 [Can in hang a bell on your neck?](http://9gag.com/gag/ayNPp7X)
- - 👉 [I find this way more useful than a robot vacuum](http://9gag.com/gag/aQzVpAr)<!-- MEMES:END -->
+ - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 😝 [Yea sure](http://9gag.com/gag/an7VYd0)
+ - 💣 [Gold](http://9gag.com/gag/a87zLY1)
+ - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
+ - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
 
 ---
 

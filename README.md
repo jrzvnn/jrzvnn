@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 21 Best Movies on Amazon Prime Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [The Texas Floods Were a Preview of What’s to Come](https://www.wired.com/story/kerr-countys-tragic-flood-wasnt-an-outlier-it-was-a-preview/)
  - [Do You Need a Barbecue Knife?](https://www.wired.com/story/do-you-need-a-barbecue-knife/)
- - [60 Italian Mayors Want to Be the Unlikely Solution to Self-Driving Cars in Europe](https://www.wired.com/story/60-italian-mayors-want-to-be-the-unlikely-solution-to-self-driving-cars-in-europe/)
- - [Google has defended Search against the first wave of disruption from generative AI, but AI agents and apps that can reduce clicks now threaten its ad business &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250726/p5#a250726p5)<!-- TECH:END -->
+ - [With Trends Like &#39;Japanese Walking,&#39; Is Walking Actually Exercise? We Asked Personal Trainers](https://www.cnet.com/health/fitness/trends-japanese-walking-is-walking-exercise-asked-personal-trainers/#ftag=CAD590a51e)
+ - [I Can&#39;t Stop Recommending This Window AC to Anyone Struggling to Survive Summer Heat Waves](https://www.cnet.com/deals/i-cant-stop-recommending-this-window-ac-to-anyone-struggling-to-survive-summer-heat-waves/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

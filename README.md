@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Checkmate](http://9gag.com/gag/aRBDg42)
  - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
- - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 💣 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
- - 👉 [He went to a coldplay concert after this](http://9gag.com/gag/aZZvb20)<!-- MEMES:END -->
+ - 💣 [Worker builds stairway to heaven.](http://9gag.com/gag/aO8Gb2N)
+ - 😝 [Don&#39;t overcharge your merchandise](http://9gag.com/gag/aryzeEV)
+ - 👉 [Go broke](http://9gag.com/gag/aMVyrdV)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
- - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 💣 [Go Sport](http://9gag.com/gag/aMVybmP)
  - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 👉 [Too angry with her self](http://9gag.com/gag/agmj0og)<!-- MEMES:END -->
+ - 💣 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)
+ - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
 
 ---
 

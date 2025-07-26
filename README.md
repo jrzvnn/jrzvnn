@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Christina Marie Chapman, who pleaded guilty and was sentenced to prison for aiding a North Korean remote IT worker scheme, details her time as a &quot;laptop farmer&quot; &lpar;Evan Ratliff/Bloomberg&rpar;](http://www.techmeme.com/250726/p4#a250726p4)
  - [Source: India orders ISPs and app stores to block 25 streaming services, like Ullu and ALTT with millions of downloads, for allegedly promoting obscene content &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250726/p3#a250726p3)
  - [China&#39;s Unitree is marketing the R1, a humanoid robot that has multimodal AI and weighs 25kg, for $5,900, drastically lowering the entry price for such machines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250726/p2#a250726p2)
  - [China&#39;s premier Li Qiang proposes creating an organization for global cooperation in AI and says &quot;bottlenecks&quot; in chip supplies are hindering AI innovation &lpar;Financial Times&rpar;](http://www.techmeme.com/250726/p1#a250726p1)
- - [Blackstone agrees to acquire a majority stake in NetBrain, valuing the Burlington, Massachusetts-based network operations and automation company at $750M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250725/p32#a250725p32)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blackstone agrees to acquire a majority stake in NetBrain, valuing the Burlington, Massachusetts-based network operations and automation company at $750M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250725/p32#a250725p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

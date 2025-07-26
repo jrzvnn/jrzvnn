@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
  - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
- - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 💣 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)
- - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 💣 [Why though?](http://9gag.com/gag/aW490En)
+ - 😝 [Checkmate](http://9gag.com/gag/aRBDg42)
  - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
 
 ---

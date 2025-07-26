@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
- - 😝 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)
- - 💣 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)
- - 😝 [Nope](http://9gag.com/gag/amonNny)
- - 👉 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)<!-- MEMES:END -->
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 💣 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
+ - 😝 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
+ - 👉 [He went to a coldplay concert after this](http://9gag.com/gag/aZZvb20)<!-- MEMES:END -->
 
 ---
 

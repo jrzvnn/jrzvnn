@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
- - 😝 [He&#39;s going places... Probably a planet parenthood](http://9gag.com/gag/amonL36)
+ - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
  - 💣 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
- - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
+ - 😝 [Go Sport](http://9gag.com/gag/aMVybmP)
+ - 👉 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)<!-- MEMES:END -->
 
 ---
 

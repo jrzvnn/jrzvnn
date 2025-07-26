@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: Amazon Buys Bee, VSCO Has a New App, and CMF Debuts a Smartwatch](https://www.wired.com/story/gear-news-of-the-week-amazon-buys-bee-vsco-has-a-new-app-and-cmf-debuts-a-smartwatch/)
+ - [SAVE Borrowers Encouraged to Move to IBR Even Though Forgiveness Options Are Paused. Here&#39;s What&#39;s Going On](https://www.cnet.com/personal-finance/loans/save-borrowers-encouraged-to-move-to-ibr-even-though-forgiveness-options-are-paused-heres-whats-going-on/#ftag=CAD590a51e)
+ - [How to Watch Australia vs. British &amp; Irish Lions From Anywhere: Stream 2nd Test Rugby Union for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-australia-vs-british-irish-lions-from-anywhere-stream-2nd-test-rugby-union-for-free/#ftag=CAD590a51e)
  - [SAVE Student Loan Borrowers, You Have Only a Few Days Left Before Interest Restarts. Should You Move to IBR?](https://www.cnet.com/personal-finance/loans/save-student-loan-borrowers-you-have-only-a-few-days-left-before-interest-restarts-should-you-move-to-ibr/#ftag=CAD590a51e)
- - [Christina Marie Chapman, who pleaded guilty and was sentenced to prison for aiding a North Korean remote IT worker scheme, details her time as a &quot;laptop farmer&quot; &lpar;Evan Ratliff/Bloomberg&rpar;](http://www.techmeme.com/250726/p4#a250726p4)
- - [Source: India orders ISPs and app stores to block 25 streaming services, like Ullu and ALTT with millions of downloads, for allegedly promoting obscene content &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250726/p3#a250726p3)
- - [China&#39;s Unitree is marketing the R1, a humanoid robot that has multimodal AI and weighs 25kg, for $5,900, drastically lowering the entry price for such machines &lpar;Bloomberg&rpar;](http://www.techmeme.com/250726/p2#a250726p2)
- - [China&#39;s premier Li Qiang proposes creating an organization for global cooperation in AI and says &quot;bottlenecks&quot; in chip supplies are hindering AI innovation &lpar;Financial Times&rpar;](http://www.techmeme.com/250726/p1#a250726p1)<!-- TECH:END -->
+ - [Christina Marie Chapman, who pleaded guilty and was sentenced to prison for aiding a North Korean remote IT worker scheme, details her time as a &quot;laptop farmer&quot; &lpar;Evan Ratliff/Bloomberg&rpar;](http://www.techmeme.com/250726/p4#a250726p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

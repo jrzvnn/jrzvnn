@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pony AI gets a permit to provide fully driverless robotaxi services in Shanghai, making it the only company with permits in all four of China&#39;s biggest cities &lpar;Pretish M J/Reuters&rpar;](http://www.techmeme.com/250726/p9#a250726p9)
+ - [2025’s Best 3D Printers Are the Best I’ve Seen in a Decade](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
  - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
  - [US insurance giant Allianz Life says hackers stole the personal information of the &quot;majority&quot; of its customers, staffers, and employees, in a mid-July breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250726/p8#a250726p8)
- - [Here are the laptops I’d tell any parent to consider for their back-to-school student](https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students)
- - [The AI Action Plan suggests Trump wants to inculcate a &quot;try-first&quot; culture through regulatory sandboxes for AI, which have already popped up in some US states &lpar;Aaron Mak/Politico&rpar;](http://www.techmeme.com/250726/p7#a250726p7)
- - [CookUnity Prepared Meal Delivery Review &lpar;2025&rpar;: Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery/)<!-- TECH:END -->
+ - [New Speed Test Results Reveal the Fastest Internet Service Provider in the US](https://www.cnet.com/home/internet/new-speed-test-reveal-the-fastest-internet-provider-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

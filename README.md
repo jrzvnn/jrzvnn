@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Instant karma](http://9gag.com/gag/ae9WNA5)
- - 😝 [A minute of silence for our brother...](http://9gag.com/gag/abAEq0E)
+ - 😝 [Boat fall](http://9gag.com/gag/aZZvW1p)
  - 💣 [Oh no... Anyway](http://9gag.com/gag/ajPy6V0)
  - 😝 [Can in hang a bell on your neck?](http://9gag.com/gag/ayNPp7X)
  - 👉 [Men](http://9gag.com/gag/aKGpw8N)<!-- MEMES:END -->

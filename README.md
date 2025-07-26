@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
  - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 💣 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 😝 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
- - 👉 [Why though?](http://9gag.com/gag/aW490En)<!-- MEMES:END -->
+ - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 💣 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 😝 [Go Sport](http://9gag.com/gag/aMVybmP)
+ - 👉 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant karma](http://9gag.com/gag/ae9WNA5)
- - 😝 [Boat fall](http://9gag.com/gag/aZZvW1p)
- - 💣 [Oh no... Anyway](http://9gag.com/gag/ajPy6V0)
- - 😝 [Can in hang a bell on your neck?](http://9gag.com/gag/ayNPp7X)
- - 👉 [Men](http://9gag.com/gag/aKGpw8N)<!-- MEMES:END -->
+ - 😝 [Why though?](http://9gag.com/gag/aW490En)
+ - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
+ - 💣 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 😝 [Japan sharing its &#39;wisdom&#39; with the world, no questions asked](http://9gag.com/gag/aByoQ9z)
+ - 👉 [When that little voice in the back of your head is right..](http://9gag.com/gag/avymp6X)<!-- MEMES:END -->
 
 ---
 

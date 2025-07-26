@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 21 Best Movies on Amazon Prime Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The Texas Floods Were a Preview of What’s to Come](https://www.wired.com/story/kerr-countys-tragic-flood-wasnt-an-outlier-it-was-a-preview/)
- - [Do You Need a Barbecue Knife?](https://www.wired.com/story/do-you-need-a-barbecue-knife/)
- - [With Trends Like &#39;Japanese Walking,&#39; Is Walking Actually Exercise? We Asked Personal Trainers](https://www.cnet.com/health/fitness/trends-japanese-walking-is-walking-exercise-asked-personal-trainers/#ftag=CAD590a51e)
- - [I Can&#39;t Stop Recommending This Window AC to Anyone Struggling to Survive Summer Heat Waves](https://www.cnet.com/deals/i-cant-stop-recommending-this-window-ac-to-anyone-struggling-to-survive-summer-heat-waves/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus Nord 5 review: selfie-centric midranger](https://www.theverge.com/phones/712142/oneplus-nord-5-review)
+ - [Best Breast Pumps &lpar;2025&rpar;: Wearable, Portable, Easy to Clean](https://www.wired.com/gallery/breast-pump-buying-guide/)
+ - [Inside the struggle to create a cozy Lord of the Rings game](https://www.theverge.com/games/709797/tales-of-the-shire-lotr-development-weta-workshop)
+ - [How to Watch Liverpool vs. AC Milan From Anywhere: Stream Pre-Season Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-liverpool-vs-ac-milan-from-anywhere-stream-pre-season-friendly-soccer/#ftag=CAD590a51e)
+ - [Adaptive Power Could Be the Best Low-Key iOS 26 Feature for Your iPhone&#39;s Battery](https://www.cnet.com/tech/mobile/adaptive-power-could-be-the-best-low-key-ios-26-feature-for-your-iphones-battery/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

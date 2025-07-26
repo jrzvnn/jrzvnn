@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Pony AI gets a permit to provide fully driverless robotaxi services in Shanghai, making it the only company with permits in all four of China&#39;s biggest cities &lpar;Pretish M J/Reuters&rpar;](http://www.techmeme.com/250726/p9#a250726p9)
+ - [Ninja&#39;s Glass-Bowl Air Fryer Won Me Over. Here Are 4 Reasons I Made the Switch](https://www.cnet.com/home/kitchen-and-household/ninjas-glass-bowl-air-fryer-won-me-over-here-are-4-reasons-i-made-the-switch/#ftag=CAD590a51e)
  - [2025’s Best 3D Printers Are the Best I’ve Seen in a Decade](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
  - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [US insurance giant Allianz Life says hackers stole the personal information of the &quot;majority&quot; of its customers, staffers, and employees, in a mid-July breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250726/p8#a250726p8)
- - [New Speed Test Results Reveal the Fastest Internet Service Provider in the US](https://www.cnet.com/home/internet/new-speed-test-reveal-the-fastest-internet-provider-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US insurance giant Allianz Life says hackers stole the personal information of the &quot;majority&quot; of its customers, staffers, and employees, in a mid-July breach &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250726/p8#a250726p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

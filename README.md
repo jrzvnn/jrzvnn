@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge sentences an Arizona woman to 8.5 years in prison for running a &quot;laptop farm&quot; that enabled North Korean workers to secure IT jobs at 309 US companies &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250725/p31#a250725p31)
+ - [&#39;Alien: Earth,&#39; &#39;Gen V&#39; and More -- Big Comic-Con 2025 Reveals So Far](https://www.cnet.com/tech/services-and-software/alien-earth-gen-v-more-big-comic-con-2025-reveals-so-far/#ftag=CAD590a51e)
  - [Wolfenstein TV Series in the Works at Amazon](https://www.cnet.com/culture/entertainment/wolfenstein-tv-series-in-the-works-at-amazon/#ftag=CAD590a51e)
  - [Sources: e-commerce startup OpenStore, co-founded by Keith Rabois, is raising a $15M Series C at a valuation of just $50M, down from $970M in September 2022 &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250725/p30#a250725p30)
- - [The UK starts enforcing new online child safety laws, requiring websites that host porn, self-harm, suicide, and eating disorder content to verify users&#39; age &lpar;Wired&rpar;](http://www.techmeme.com/250725/p29#a250725p29)
- - [GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger](https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed)
- - [Sources: Ramp is in talks to raise $350M led by Iconiq at a ~$21B valuation, after raising $200M at a $16B valuation in June &lpar;The Information&rpar;](http://www.techmeme.com/250725/p28#a250725p28)<!-- TECH:END -->
+ - [The UK starts enforcing new online child safety laws, requiring websites that host porn, self-harm, suicide, and eating disorder content to verify users&#39; age &lpar;Wired&rpar;](http://www.techmeme.com/250725/p29#a250725p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

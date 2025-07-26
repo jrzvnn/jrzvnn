@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany-based Makersite, which helps clients like Microsoft improve product sustainability during the design process, raised a €60M Series B &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250726/p15#a250726p15)
  - [Comic-Con 2025 Rundown: &#39;Coyote vs. Acme&#39;, &#39;Starfleet Academy&#39; and More](https://www.cnet.com/tech/services-and-software/comic-con-2025-rundown-coyote-vs-acme-starfleet-academy-more/#ftag=CAD590a51e)
  - [Premier League Summer Series: Stream Man United vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-man-united-vs-west-ham-from-anywhere/#ftag=CAD590a51e)
  - [The Johns Hopkins University Press will license its authors&#39; books to train AI models, citing concerns that &quot;the window may be closing&quot; for making AI deals &lpar;Ellie Wolfe/The Baltimore Banner&rpar;](http://www.techmeme.com/250726/p14#a250726p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 27, #307](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-27-307/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 27, #777](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-27-777/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 27, #307](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-27-307/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

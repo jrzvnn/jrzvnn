@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s premier Li Qiang proposes creating an organization for global cooperation in AI and says &quot;bottlenecks&quot; in chip supplies are hindering AI innovation &lpar;Financial Times&rpar;](http://www.techmeme.com/250726/p1#a250726p1)
  - [Blackstone agrees to acquire a majority stake in NetBrain, valuing the Burlington, Massachusetts-based network operations and automation company at $750M &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250725/p32#a250725p32)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, July 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-july-26/#ftag=CAD590a51e)
  - [A US judge sentences an Arizona woman to 8.5 years in prison for running a &quot;laptop farm&quot; that enabled North Korean workers to secure IT jobs at 309 US companies &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250725/p31#a250725p31)
- - [&#39;Alien: Earth,&#39; &#39;Gen V&#39; and More -- Big Comic-Con 2025 Reveals So Far](https://www.cnet.com/tech/services-and-software/alien-earth-gen-v-more-big-comic-con-2025-reveals-so-far/#ftag=CAD590a51e)
- - [Wolfenstein TV Series in the Works at Amazon](https://www.cnet.com/culture/entertainment/wolfenstein-tv-series-in-the-works-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Alien: Earth,&#39; &#39;Gen V&#39; and More -- Big Comic-Con 2025 Reveals So Far](https://www.cnet.com/tech/services-and-software/alien-earth-gen-v-more-big-comic-con-2025-reveals-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I could hear this comment](http://9gag.com/gag/aRBDw7B)
- - 😝 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
- - 💣 [Pics in the comments](http://9gag.com/gag/aVvBQZv)
- - 😝 [Gold](http://9gag.com/gag/a87zLY1)
- - 👉 [Boat fall](http://9gag.com/gag/aZZvW1p)<!-- MEMES:END -->
+ - 😝 [Instant karma](http://9gag.com/gag/ae9WNA5)
+ - 😝 [A minute of silence for our brother...](http://9gag.com/gag/abAEq0E)
+ - 💣 [Oh no... Anyway](http://9gag.com/gag/ajPy6V0)
+ - 😝 [Can in hang a bell on your neck?](http://9gag.com/gag/ayNPp7X)
+ - 👉 [Men](http://9gag.com/gag/aKGpw8N)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 😝 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
- - 💣 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)
- - 😝 [True](http://9gag.com/gag/agmjv2K)
- - 👉 [Valid question](http://9gag.com/gag/avymgdZ)<!-- MEMES:END -->
+ - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 💣 [Go Sport](http://9gag.com/gag/aMVybmP)
+ - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 👉 [Checkmate](http://9gag.com/gag/aRBDg42)<!-- MEMES:END -->
 
 ---
 

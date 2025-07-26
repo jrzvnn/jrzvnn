@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 21 Best Movies on Amazon Prime Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The Texas Floods Were a Preview of What’s to Come](https://www.wired.com/story/kerr-countys-tragic-flood-wasnt-an-outlier-it-was-a-preview/)
  - [Do You Need a Barbecue Knife?](https://www.wired.com/story/do-you-need-a-barbecue-knife/)
  - [60 Italian Mayors Want to Be the Unlikely Solution to Self-Driving Cars in Europe](https://www.wired.com/story/60-italian-mayors-want-to-be-the-unlikely-solution-to-self-driving-cars-in-europe/)
- - [Google has defended Search against the first wave of disruption from generative AI, but AI agents and apps that can reduce clicks now threaten its ad business &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250726/p5#a250726p5)
- - [Gear News of the Week: Amazon Buys Bee, VSCO Has a New App, and CMF Debuts a Smartwatch](https://www.wired.com/story/gear-news-of-the-week-amazon-buys-bee-vsco-has-a-new-app-and-cmf-debuts-a-smartwatch/)
- - [SAVE Borrowers Encouraged to Move to IBR Even Though Forgiveness Options Are Paused. Here&#39;s What&#39;s Going On](https://www.cnet.com/personal-finance/loans/save-borrowers-encouraged-to-move-to-ibr-even-though-forgiveness-options-are-paused-heres-whats-going-on/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google has defended Search against the first wave of disruption from generative AI, but AI agents and apps that can reduce clicks now threaten its ad business &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250726/p5#a250726p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

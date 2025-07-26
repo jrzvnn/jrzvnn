@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 💣 [Robert Trujillo nailed his audition so perfectly that they not only gave him the role of Metallica&#39;s bassist but also $1,000,000 on the spot in 2003](http://9gag.com/gag/aRBDQ17)
  - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
- - 👉 [Checkmate](http://9gag.com/gag/aRBDg42)<!-- MEMES:END -->
+ - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 💣 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 👉 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)<!-- MEMES:END -->
 
 ---
 

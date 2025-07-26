@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the tensions between Meta, Apple, and Google on whether apps or app stores should check if a user is a minor, as states work on age verification bills &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250726/p13#a250726p13)
  - [Sources: KKR is in talks to buy ST Telemedia Global Data Centres in a deal that could value the Asian digital infrastructure provider at more than $5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250726/p12#a250726p12)
  - [Edifier M60 speakers review: Big sound in a small package](https://appleinsider.com/articles/25/07/26/edifier-m60-speakers-review-big-sound-in-a-small-package?utm_source=rss)
  - [Some users are circumventing UK&#39;s age checks by using VPNs, providing fake AI-generated photo IDs, or using images of high-fidelity video game characters &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/250726/p11#a250726p11)
- - [Premier League Summer Series: Stream Everton vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-everton-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
- - [Sources: DOGE has built an AI tool aiming to cut 50% of federal regulations, or around 100,000 rules, by the first anniversary of Trump&#39;s inauguration &lpar;Washington Post&rpar;](http://www.techmeme.com/250726/p10#a250726p10)<!-- TECH:END -->
+ - [Premier League Summer Series: Stream Everton vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-everton-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

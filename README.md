@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
  - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 😝 [Go Sport](http://9gag.com/gag/aMVybmP)
  - 💣 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 😝 [Why though?](http://9gag.com/gag/aW490En)
  - 👉 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The AI Action Plan suggests Trump wants to inculcate a &quot;try-first&quot; culture through regulatory sandboxes for AI, which have already popped up in some US states &lpar;Aaron Mak/Politico&rpar;](http://www.techmeme.com/250726/p7#a250726p7)
  - [CookUnity Prepared Meal Delivery Review &lpar;2025&rpar;: Chef-Centric Meals](https://www.wired.com/review/cookunity-prepared-meal-delivery/)
  - [Online MAGA cope is now Congressional strategy](https://www.theverge.com/politics/714144/epstein-files-maga-trump-influencers-congress)
  - [Razer Pro Click V2 Vertical Review: A Hybrid Gaming Mouse](https://www.wired.com/review/razer-pro-click-v2-vertical/)
- - [The Drifter is a good old-fashioned thriller](https://www.theverge.com/games-review/712020/the-drifter-review-pc)
- - [The SharePoint hacks increase pressure on Microsoft&#39;s Secure Future Initiative, which the company calls an ambitious effort expected to take years to complete &lpar;Andrew Martin/Bloomberg&rpar;](http://www.techmeme.com/250726/p6#a250726p6)<!-- TECH:END -->
+ - [The Drifter is a good old-fashioned thriller](https://www.theverge.com/games-review/712020/the-drifter-review-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

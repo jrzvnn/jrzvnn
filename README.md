@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little prank for the big boy](http://9gag.com/gag/aLnrKAW)
- - 😝 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
- - 💣 [True](http://9gag.com/gag/agmjv2K)
- - 😝 [Valid question](http://9gag.com/gag/avymgdZ)
- - 👉 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)<!-- MEMES:END -->
+ - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
+ - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
+ - 💣 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 😝 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
+ - 👉 [Why though?](http://9gag.com/gag/aW490En)<!-- MEMES:END -->
 
 ---
 

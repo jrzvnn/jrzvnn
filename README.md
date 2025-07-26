@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Johns Hopkins University Press will license its authors&#39; books to train AI models, citing concerns that &quot;the window may be closing&quot; for making AI deals &lpar;Ellie Wolfe/The Baltimore Banner&rpar;](http://www.techmeme.com/250726/p14#a250726p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 27, #307](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-27-307/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 27, #777](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-27-777/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 27 #511](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-27-511/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 27, #1499](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-27-1499/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the tensions between Meta, Apple, and Google on whether apps or app stores should check if a user is a minor, as states work on age verification bills &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/250726/p13#a250726p13)
+ - [Sources: KKR is in talks to buy ST Telemedia Global Data Centres in a deal that could value the Asian digital infrastructure provider at more than $5B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250726/p12#a250726p12)
+ - [Edifier M60 speakers review: Big sound in a small package](https://appleinsider.com/articles/25/07/26/edifier-m60-speakers-review-big-sound-in-a-small-package?utm_source=rss)
+ - [Some users are circumventing UK&#39;s age checks by using VPNs, providing fake AI-generated photo IDs, or using images of high-fidelity video game characters &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/250726/p11#a250726p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wolfenstein TV Series in the Works at Amazon](https://www.cnet.com/culture/entertainment/wolfenstein-tv-series-in-the-works-at-amazon/#ftag=CAD590a51e)
+ - [Sources: e-commerce startup OpenStore, co-founded by Keith Rabois, is raising a $15M Series C at a valuation of just $50M, down from $970M in September 2022 &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250725/p30#a250725p30)
  - [The UK starts enforcing new online child safety laws, requiring websites that host porn, self-harm, suicide, and eating disorder content to verify users&#39; age &lpar;Wired&rpar;](http://www.techmeme.com/250725/p29#a250725p29)
  - [GPD’s monster Strix Halo handheld requires a battery ‘backpack’ or a 180W charger](https://www.theverge.com/news/714294/gpd-win-5-strix-halo-specs-revealed)
- - [Sources: Ramp is in talks to raise $350M led by Iconiq at a ~$21B valuation, after raising $200M at a $16B valuation in June &lpar;The Information&rpar;](http://www.techmeme.com/250725/p28#a250725p28)
- - [Tea App Breach Exposes 72,000 Selfies, ID Photos and Other User Images](https://www.cnet.com/tech/services-and-software/tea-app-breach-exposes-72000-selfies-id-photos-and-other-user-images/#ftag=CAD590a51e)
- - [&#39;Breaking Bad&#39; creator&#39;s new show on Apple TV+ is &#39;Pluribus&#39;](https://appleinsider.com/articles/25/07/25/breaking-bad-creator-unveils-teaser-for-new-pluribus-on-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Ramp is in talks to raise $350M led by Iconiq at a ~$21B valuation, after raising $200M at a $16B valuation in June &lpar;The Information&rpar;](http://www.techmeme.com/250725/p28#a250725p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

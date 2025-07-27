@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is better than any woman in lingerie could ever be.](http://9gag.com/gag/aD2MwNx)
- - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
- - 💣 [The dogs warned us](http://9gag.com/gag/aLnrQeA)
- - 😝 [Checkmate](http://9gag.com/gag/aRBDg42)
- - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
+ - 😝 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
+ - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
+ - 💣 [Don&#39;t overcharge your merchandise](http://9gag.com/gag/aryzeEV)
+ - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 👉 [Go Sport](http://9gag.com/gag/aMVybmP)<!-- MEMES:END -->
 
 ---
 

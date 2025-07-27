@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AIUC, which offers enterprises insurance policies and audits for AI agents, emerges from stealth with a $15M seed led by Nat Friedman at NFDG &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250727/p20#a250727p20)
  - [Berlin-based Buena, which is building AI-powered software to automate property management tasks, raised $58M, including a Series A led by GV &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250727/p19#a250727p19)
  - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)
  - [The Fujifilm X-E5 proves familiar isn’t always a bad thing](https://www.theverge.com/tech/714141/fujifilm-x-e5-camera-review)
- - [iPhone 17 Pro camera may gain 8x zoom and a new Pro app](https://appleinsider.com/articles/25/07/27/iphone-17-pro-camera-may-gain-8x-zoom-and-a-new-pro-app?utm_source=rss)
- - [Rune Technologies, which is developing AI-enabled software to transform manual processes in military logistics, raised a $24M Series A by Human Capital &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250727/p18#a250727p18)<!-- TECH:END -->
+ - [iPhone 17 Pro camera may gain 8x zoom and a new Pro app](https://appleinsider.com/articles/25/07/27/iphone-17-pro-camera-may-gain-8x-zoom-and-a-new-pro-app?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

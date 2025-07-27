@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Courtyard, which sells &quot;mystery packs&quot; of collectible cards and comic books that customers can resell on its marketplace, raised a $30M Series A &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250727/p12#a250727p12)
  - [Indian software services provider Tata Consultancy Services plans to cut 2% of its global workforce, or about 12,000 employees, by March 31, 2026 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250727/p11#a250727p11)
  - [The English Premier League recently signed deals with Adobe and Microsoft to offer AI-powered tools to fans, including those playing the Fantasy Premier League &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250727/p10#a250727p10)
  - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
- - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
- - [How to Watch England vs. Spain From Anywhere for Free: Stream UEFA Women&#39;s Euro 2025 Final Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-spain-from-anywhere-for-free-stream-uefa-womens-euro-2025-final-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

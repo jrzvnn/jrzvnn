@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Berlin-based Buena, which is building AI-powered software to automate property management tasks, raised $58M, including a Series A led by GV &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250727/p19#a250727p19)
+ - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)
  - [The Fujifilm X-E5 proves familiar isn’t always a bad thing](https://www.theverge.com/tech/714141/fujifilm-x-e5-camera-review)
  - [iPhone 17 Pro camera may gain 8x zoom and a new Pro app](https://appleinsider.com/articles/25/07/27/iphone-17-pro-camera-may-gain-8x-zoom-and-a-new-pro-app?utm_source=rss)
- - [Rune Technologies, which is developing AI-enabled software to transform manual processes in military logistics, raised a $24M Series A by Human Capital &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250727/p18#a250727p18)
- - [An interview with CEO David Baszucki on Roblox&#39;s origin story, what&#39;s next for the gaming platform whose shares have risen about 200% in the past year, and more &lpar;Tim Fernholz/Sherwood News&rpar;](http://www.techmeme.com/250727/p17#a250727p17)<!-- TECH:END -->
+ - [Rune Technologies, which is developing AI-enabled software to transform manual processes in military logistics, raised a $24M Series A by Human Capital &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250727/p18#a250727p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)
+ - [TCL QM8K Review: The Best Mid-Tier TV](https://www.wired.com/review/tcl-qm8k/)
+ - [Apple beta season is here](https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer)
  - [A ‘Grand Unified Theory’ of Math Just Got a Little Bit Closer](https://www.wired.com/story/a-grand-unified-theory-of-math-just-got-a-little-bit-closer-fermats-last-theorem/)
- - [Online platforms offering astrological advice are thriving in India, with the leading app Astrotalk claiming about 84% of its 70M users are under the age of 35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p8#a250727p8)
- - [Your iPhone&#39;s Messages App Can Do Math. Here&#39;s How](https://www.cnet.com/tech/services-and-software/your-iphones-messages-app-can-do-math-heres-how/#ftag=CAD590a51e)
- - [At TrustCon 2025, trust and safety professionals expressed anxiety over the industry&#39;s retreat, but no leaders condemned platforms&#39; rollback of safety policies &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250727/p7#a250727p7)
- - [Satya Nadella&#39;s memo on Microsoft&#39;s layoffs portends the harsh reality that AI could make software companies more profitable while employing fewer people &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250727/p6#a250727p6)<!-- TECH:END -->
+ - [Online platforms offering astrological advice are thriving in India, with the leading app Astrotalk claiming about 84% of its 70M users are under the age of 35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p8#a250727p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

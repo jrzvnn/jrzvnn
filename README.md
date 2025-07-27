@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Satya Nadella&#39;s memo on Microsoft&#39;s layoffs portends the harsh reality that AI could make software companies more profitable while employing fewer people &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250727/p6#a250727p6)
+ - [Sources: US suppliers are rebuffing Temu&#39;s efforts to undercut Amazon, saying Temu cannot undercut Amazon on branded product prices &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250727/p5#a250727p5)
  - [Architect Partners: companies have raised nearly $86B in 2025 to buy crypto, with over $43B raised since June 1, as skeptics worry about the market overheating &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250727/p4#a250727p4)
  - [US-German software firm Auterion says it plans to ship 33K of its AI drone &quot;strike kits&quot; to Ukraine by the end of 2025 to help combat mass Russian drone attacks &lpar;Financial Times&rpar;](http://www.techmeme.com/250727/p3#a250727p3)
- - [Tyler Winklevoss claims JPMorgan paused crypto exchange Gemini&#39;s onboarding after he criticized the bank&#39;s data access fees for fintech and crypto companies &lpar;Amin Haqshanas/Cointelegraph&rpar;](http://www.techmeme.com/250727/p2#a250727p2)
- - [Alibaba previews the Quark AI glasses, which are its first pair of AI-powered glasses and named after its AI assistant, with plans to launch them later in 2025 &lpar;Ann Cao/South China Morning Post&rpar;](http://www.techmeme.com/250727/p1#a250727p1)
- - [Huawei debuts the CloudMatrix 384 AI computing system, which outperforms Nvidia&#39;s most advanced GB200 NVL72 system on some metrics, according to SemiAnalysis &lpar;Reuters&rpar;](http://www.techmeme.com/250726/p18#a250726p18)<!-- TECH:END -->
+ - [Tyler Winklevoss claims JPMorgan paused crypto exchange Gemini&#39;s onboarding after he criticized the bank&#39;s data access fees for fintech and crypto companies &lpar;Amin Haqshanas/Cointelegraph&rpar;](http://www.techmeme.com/250727/p2#a250727p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

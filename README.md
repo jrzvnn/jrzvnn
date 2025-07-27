@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
- - 😝 [This is not right](http://9gag.com/gag/a6Z8w09)
- - 💣 [Go Sport](http://9gag.com/gag/aMVybmP)
- - 😝 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
- - 👉 [He&#39;s going places... Probably a planet parenthood](http://9gag.com/gag/amonL36)<!-- MEMES:END -->
+ - 😝 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
+ - 😝 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)
+ - 💣 [True](http://9gag.com/gag/agmjv2K)
+ - 😝 [Valid question](http://9gag.com/gag/avymgdZ)
+ - 👉 [Nostalgia is a trap](http://9gag.com/gag/a0ewLoz)<!-- MEMES:END -->
 
 ---
 

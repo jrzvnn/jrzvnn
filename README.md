@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ordinary Canadian](http://9gag.com/gag/an7VKL0)
- - 😝 [True](http://9gag.com/gag/agmjv2K)
- - 💣 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)
- - 😝 [Valid question](http://9gag.com/gag/avymgdZ)
- - 👉 [The storm inside](http://9gag.com/gag/a7oAyX2)<!-- MEMES:END -->
+ - 😝 [A minute of silence for our brother...](http://9gag.com/gag/abAEq0E)
+ - 😝 [Why though?](http://9gag.com/gag/aW490En)
+ - 💣 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
+ - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
+ - 👉 [Go broke](http://9gag.com/gag/aMVyrdV)<!-- MEMES:END -->
 
 ---
 

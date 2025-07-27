@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ordinary Canadian](http://9gag.com/gag/an7VKL0)
- - 😝 [True](http://9gag.com/gag/agmjv2K)
- - 💣 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)
- - 😝 [Valid question](http://9gag.com/gag/avymgdZ)
- - 👉 [Nostalgia is a trap](http://9gag.com/gag/a0ewLoz)<!-- MEMES:END -->
+ - 😝 [This dude actually got doxxed and sued by that african for doing this shit](http://9gag.com/gag/avymPrE)
+ - 😝 [It just makes so much sense..](http://9gag.com/gag/a34n3Qr)
+ - 💣 [Better not](http://9gag.com/gag/amon079)
+ - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
+ - 👉 [The storm inside](http://9gag.com/gag/a7oAyX2)<!-- MEMES:END -->
 
 ---
 

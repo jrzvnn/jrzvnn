@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Running Shoes &lpar;2025&rpar;, Tested and Reviewed: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)
- - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)
- - [TCL QM8K Review: The Best Mid-Tier TV](https://www.wired.com/review/tcl-qm8k/)
- - [Watch This Humanoid Robot Swap Its Own Battery](https://www.cnet.com/tech/computing/watch-this-humanoid-robot-swap-its-own-battery-for-247-operation/#ftag=CAD590a51e)
- - [Wuchang&#39;s Commander Honglan Is a Nightmare. Here&#39;s How to Beat Her](https://www.cnet.com/tech/gaming/wuchang-fallen-feathers-boss-fight-weakness-commander-honglan-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The English Premier League recently signed deals with Adobe and Microsoft to offer AI-powered tools to fans, including those playing the Fantasy Premier League &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250727/p10#a250727p10)
+ - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
+ - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
+ - [How to Watch England vs. Spain From Anywhere for Free: Stream UEFA Women&#39;s Euro 2025 Final Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-spain-from-anywhere-for-free-stream-uefa-womens-euro-2025-final-soccer/#ftag=CAD590a51e)
+ - [Best Running Shoes &lpar;2025&rpar;, Tested and Reviewed: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

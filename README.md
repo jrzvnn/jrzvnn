@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
+ - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
  - 😝 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)
- - 💣 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
+ - 💣 [Returning the favor](http://9gag.com/gag/aE0EzPG)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Touching girls randomly isn&#39;t the way.](http://9gag.com/gag/aryzKpp)<!-- MEMES:END -->
+ - 👉 [Bad luck good bike](http://9gag.com/gag/aND3nO0)<!-- MEMES:END -->
 
 ---
 

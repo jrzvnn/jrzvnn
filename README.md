@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dubai-based Qlub, which offers contactless payment services to restaurants, raised $30M co-led by Shorooq and Cherry Ventures, taking its total funding to $72M &lpar;Nicolas Parasie/Bloomberg&rpar;](http://www.techmeme.com/250727/p16#a250727p16)
+ - [Amazon is blowing out M4 MacBook Air inventory at just $799 today](https://appleinsider.com/articles/25/07/27/amazon-is-blowing-out-m4-macbook-air-inventory-at-just-799-today?utm_source=rss)
+ - [Records show China&#39;s Starlink rivals have only ~120 satellites in orbit, less than 1% of their goal, vs. SpaceX&#39;s ~8,000, underscoring how far behind they are &lpar;New York Times&rpar;](http://www.techmeme.com/250727/p15#a250727p15)
  - [April, which provides tax tools that embed directly into financial apps, raised a $38M Series B led by QED Investors, bringing its total funding to $78M &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/250727/p14#a250727p14)
- - [New York City-based cybersecurity company Axonius acquires Cynerio, which offers healthcare IoT cybersecurity and asset management services, for $180M &lpar;Golan Hazani/CTech&rpar;](http://www.techmeme.com/250727/p13#a250727p13)
- - [NYC-based Courtyard, which sells &quot;mystery packs&quot; of collectible cards and comic books that customers can resell on its marketplace, raised a $30M Series A &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/250727/p12#a250727p12)
- - [Indian software services provider Tata Consultancy Services plans to cut 2% of its global workforce, or about 12,000 employees, by March 31, 2026 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250727/p11#a250727p11)
- - [The English Premier League recently signed deals with Adobe and Microsoft to offer AI-powered tools to fans, including those playing the Fantasy Premier League &lpar;Josh Noble/Financial Times&rpar;](http://www.techmeme.com/250727/p10#a250727p10)<!-- TECH:END -->
+ - [New York City-based cybersecurity company Axonius acquires Cynerio, which offers healthcare IoT cybersecurity and asset management services, for $180M &lpar;Golan Hazani/CTech&rpar;](http://www.techmeme.com/250727/p13#a250727p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

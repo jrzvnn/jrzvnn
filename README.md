@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
- - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
- - 💣 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - 😝 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
+ - 😝 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)
+ - 💣 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
+ - 👉 [Touching girls randomly isn&#39;t the way.](http://9gag.com/gag/aryzKpp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This dude actually got doxxed and sued by that african for doing this shit](http://9gag.com/gag/avymPrE)
- - 😝 [It just makes so much sense..](http://9gag.com/gag/a34n3Qr)
- - 💣 [Better not](http://9gag.com/gag/amon079)
+ - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 😝 [My collection #6](http://9gag.com/gag/ajPynKw)
+ - 💣 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [The storm inside](http://9gag.com/gag/a7oAyX2)<!-- MEMES:END -->
+ - 👉 [Returning the favor](http://9gag.com/gag/aE0EzPG)<!-- MEMES:END -->
 
 ---
 

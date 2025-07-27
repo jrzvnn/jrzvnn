@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
- - 😝 [The storm inside](http://9gag.com/gag/a7oAyX2)
- - 💣 [True](http://9gag.com/gag/agmjv2K)
- - 😝 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)
- - 👉 [Valid question](http://9gag.com/gag/avymgdZ)<!-- MEMES:END -->
+ - 😝 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
+ - 😝 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)
+ - 💣 [8 or 2 choose wisely](http://9gag.com/gag/aO8Gyr2)
+ - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
+ - 👉 [Don&#39;t overcharge your merchandise](http://9gag.com/gag/aryzeEV)<!-- MEMES:END -->
 
 ---
 

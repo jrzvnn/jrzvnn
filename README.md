@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That fat dude get banned for 5 years by local basketball committee.](http://9gag.com/gag/aD2M3gx)
- - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 💣 [He&#39;s going places... Probably a planet parenthood](http://9gag.com/gag/amonL36)
- - 😝 [This is better than any woman in lingerie could ever be.](http://9gag.com/gag/aD2MwNx)
- - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
+ - 😝 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
+ - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
+ - 💣 [The dogs warned us](http://9gag.com/gag/aLnrQeA)
+ - 😝 [Pics in the comments](http://9gag.com/gag/aVvBQZv)
+ - 👉 [Good maneuver](http://9gag.com/gag/avymg05)<!-- MEMES:END -->
 
 ---
 

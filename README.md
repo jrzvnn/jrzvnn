@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It just makes so much sense..](http://9gag.com/gag/a34n3Qr)
- - 😝 [Better not](http://9gag.com/gag/amon079)
- - 💣 [The storm inside](http://9gag.com/gag/a7oAyX2)
+ - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
+ - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
+ - 💣 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Go broke](http://9gag.com/gag/aMVyrdV)<!-- MEMES:END -->
+ - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bidet Lv. 12](http://9gag.com/gag/a5QDNvN)
- - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 💣 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
- - 😝 [He&#39;s going places... Probably a planet parenthood](http://9gag.com/gag/amonL36)
- - 👉 [Go Sport](http://9gag.com/gag/aMVybmP)<!-- MEMES:END -->
+ - 😝 [Wait, that&#39;s eelegal!](http://9gag.com/gag/aVvBQG2)
+ - 😝 [The storm inside](http://9gag.com/gag/a7oAyX2)
+ - 💣 [True](http://9gag.com/gag/agmjv2K)
+ - 😝 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)
+ - 👉 [Valid question](http://9gag.com/gag/avymgdZ)<!-- MEMES:END -->
 
 ---
 

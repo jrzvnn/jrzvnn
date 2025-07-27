@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei debuts the CloudMatrix 384 AI computing system, which outperforms Nvidia&#39;s most advanced GB200 NVL72 system on some metrics, according to SemiAnalysis &lpar;Reuters&rpar;](http://www.techmeme.com/250726/p18#a250726p18)
+ - [A look at efforts by startups, such as Positron and Groq, to develop inference-focused chips that aim to be more energy efficient and performant than Nvidia&#39;s &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250726/p17#a250726p17)
  - [Jeff Dean, who co-founded Google Brain and leads Google&#39;s AI research, has emerged as a prolific angel investor, backing 37 AI startups over the past two years &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250726/p16#a250726p16)
  - [Your Comic-Con 2025 News: &#39;Peacemaker,&#39; &#39;Starfleet Academy&#39; and More Thrills](https://www.cnet.com/tech/services-and-software/your-comic-con-2025-news-peacemaker-starfleet-academy-more-thrills/#ftag=CAD590a51e)
- - [Germany-based Makersite, which helps clients like Microsoft improve product sustainability during the design process, raised a €60M Series B &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250726/p15#a250726p15)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, July 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-july-27/#ftag=CAD590a51e)
- - [Premier League Summer Series: Stream Man United vs. West Ham From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-man-united-vs-west-ham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany-based Makersite, which helps clients like Microsoft improve product sustainability during the design process, raised a €60M Series B &lpar;David Cendon Garcia/EU-Startups&rpar;](http://www.techmeme.com/250726/p15#a250726p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
- - 😝 [Thanks Ataturk](http://9gag.com/gag/a4PV4ew)
- - 💣 [The dogs warned us](http://9gag.com/gag/aLnrQeA)
- - 😝 [Pics in the comments](http://9gag.com/gag/aVvBQZv)
- - 👉 [Good maneuver](http://9gag.com/gag/avymg05)<!-- MEMES:END -->
+ - 😝 [Bidet Lv. 12](http://9gag.com/gag/a5QDNvN)
+ - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 💣 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
+ - 😝 [He&#39;s going places... Probably a planet parenthood](http://9gag.com/gag/amonL36)
+ - 👉 [Go Sport](http://9gag.com/gag/aMVybmP)<!-- MEMES:END -->
 
 ---
 

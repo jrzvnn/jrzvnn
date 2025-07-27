@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top 10 anime betrayals](http://9gag.com/gag/awyvKrR)
- - 😝 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
- - 💣 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
+ - 😝 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
+ - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
+ - 💣 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/awyvKrR)<!-- MEMES:END -->
 
 ---
 

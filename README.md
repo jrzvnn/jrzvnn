@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Returning the favor](http://9gag.com/gag/aE0EzPG)
+ - 😝 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
  - 😝 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
- - 💣 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
+ - 💣 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)<!-- MEMES:END -->
+ - 👉 [Understandable, have a great day](http://9gag.com/gag/aGybR86)<!-- MEMES:END -->
 
 ---
 

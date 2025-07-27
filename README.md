@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Online platforms offering astrological advice are thriving in India, with the leading app Astrotalk claiming about 84% of its 70M users are under the age of 35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p8#a250727p8)
  - [At TrustCon 2025, trust and safety professionals expressed anxiety over the industry&#39;s retreat, but no leaders condemned platforms&#39; rollback of safety policies &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/250727/p7#a250727p7)
  - [Satya Nadella&#39;s memo on Microsoft&#39;s layoffs portends the harsh reality that AI could make software companies more profitable while employing fewer people &lpar;Om Malik/On my Om&rpar;](http://www.techmeme.com/250727/p6#a250727p6)
  - [Sources: US suppliers are rebuffing Temu&#39;s efforts to undercut Amazon, saying Temu cannot undercut Amazon on branded product prices &lpar;Rafe Uddin/Financial Times&rpar;](http://www.techmeme.com/250727/p5#a250727p5)
- - [Architect Partners: companies have raised nearly $86B in 2025 to buy crypto, with over $43B raised since June 1, as skeptics worry about the market overheating &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250727/p4#a250727p4)
- - [US-German software firm Auterion says it plans to ship 33K of its AI drone &quot;strike kits&quot; to Ukraine by the end of 2025 to help combat mass Russian drone attacks &lpar;Financial Times&rpar;](http://www.techmeme.com/250727/p3#a250727p3)<!-- TECH:END -->
+ - [Architect Partners: companies have raised nearly $86B in 2025 to buy crypto, with over $43B raised since June 1, as skeptics worry about the market overheating &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250727/p4#a250727p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

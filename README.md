@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
- - 😝 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
- - 💣 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
+ - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 😝 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
+ - 💣 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)<!-- MEMES:END -->
+ - 👉 [Returning the favor](http://9gag.com/gag/aE0EzPG)<!-- MEMES:END -->
 
 ---
 

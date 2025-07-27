@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
- - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
- - 💣 [Don&#39;t overcharge your merchandise](http://9gag.com/gag/aryzeEV)
- - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
- - 👉 [Go Sport](http://9gag.com/gag/aMVybmP)<!-- MEMES:END -->
+ - 😝 [Ordinary Canadian](http://9gag.com/gag/an7VKL0)
+ - 😝 [True](http://9gag.com/gag/agmjv2K)
+ - 💣 [In Germany we say &#39;Das ist Jacke wie Hose&#39;](http://9gag.com/gag/aD2Mw2O)
+ - 😝 [Valid question](http://9gag.com/gag/avymgdZ)
+ - 👉 [The storm inside](http://9gag.com/gag/a7oAyX2)<!-- MEMES:END -->
 
 ---
 

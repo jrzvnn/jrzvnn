@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating...but where?](http://9gag.com/gag/aryz41y)
- - 😝 [Do you trust me? &lpar;Elevator&rpar;](http://9gag.com/gag/adBbNmN)
- - 💣 [Bidet Lv. 12](http://9gag.com/gag/a5QDNvN)
- - 😝 [Checkmate](http://9gag.com/gag/aRBDg42)
- - 👉 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)<!-- MEMES:END -->
+ - 😝 [That fat dude get banned for 5 years by local basketball committee.](http://9gag.com/gag/aD2M3gx)
+ - 😝 [Too angry with her self](http://9gag.com/gag/agmj0og)
+ - 💣 [He&#39;s going places... Probably a planet parenthood](http://9gag.com/gag/amonL36)
+ - 😝 [This is better than any woman in lingerie could ever be.](http://9gag.com/gag/aD2MwNx)
+ - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
 
 ---
 

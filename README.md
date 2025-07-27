@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)
  - [TCL QM8K Review: The Best Mid-Tier TV](https://www.wired.com/review/tcl-qm8k/)
  - [Apple beta season is here](https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer)
- - [A ‘Grand Unified Theory’ of Math Just Got a Little Bit Closer](https://www.wired.com/story/a-grand-unified-theory-of-math-just-got-a-little-bit-closer-fermats-last-theorem/)
- - [Online platforms offering astrological advice are thriving in India, with the leading app Astrotalk claiming about 84% of its 70M users are under the age of 35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p8#a250727p8)<!-- TECH:END -->
+ - [Breaking From Tradition, ThinkPad X9 Offers a Cheap Path to OLED Ultraportable](https://www.cnet.com/tech/computing/lenovo-thinkpad-x9-14-aura-edition-review-a-cheaper-path-to-oled-ultraportable/#ftag=CAD590a51e)
+ - [A ‘Grand Unified Theory’ of Math Just Got a Little Bit Closer](https://www.wired.com/story/a-grand-unified-theory-of-math-just-got-a-little-bit-closer-fermats-last-theorem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

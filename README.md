@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AIUC, which offers enterprises insurance policies and audits for AI agents, emerges from stealth with a $15M seed led by Nat Friedman at NFDG &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250727/p20#a250727p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for July 28, #308](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-28-308/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 28, #778](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-28-778/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for July 28 #512](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-july-28-512/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for July 28, #1500](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-28-1500/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Berlin-based Buena, which is building AI-powered software to automate property management tasks, raised $58M, including a Series A led by GV &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250727/p19#a250727p19)
+ - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)
+ - [The Fujifilm X-E5 proves familiar isn’t always a bad thing](https://www.theverge.com/tech/714141/fujifilm-x-e5-camera-review)
+ - [iPhone 17 Pro camera may gain 8x zoom and a new Pro app](https://appleinsider.com/articles/25/07/27/iphone-17-pro-camera-may-gain-8x-zoom-and-a-new-pro-app?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

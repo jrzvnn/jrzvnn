@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
- - 😝 [She&#39;s been hiding in that car since morning](http://9gag.com/gag/azxQVLB)
- - 💣 [Returning the favor](http://9gag.com/gag/aE0EzPG)
+ - 😝 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
+ - 💣 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Top 10 anime betrayals](http://9gag.com/gag/awyvKrR)<!-- MEMES:END -->
+ - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
 
 ---
 

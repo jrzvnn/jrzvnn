@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Running Shoes &lpar;2025&rpar;, Tested and Reviewed: Saucony, Nike, Hoka](https://www.wired.com/gallery/best-running-shoes/)
  - [Alibaba releases its Qwen3-235B-A22B-Thinking-2507 reasoning LLM on Hugging Face, topping several benchmarks, as Alibaba moves away from hybrid reasoning models &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250727/p9#a250727p9)
  - [TCL QM8K Review: The Best Mid-Tier TV](https://www.wired.com/review/tcl-qm8k/)
- - [Apple beta season is here](https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer)
- - [Breaking From Tradition, ThinkPad X9 Offers a Cheap Path to OLED Ultraportable](https://www.cnet.com/tech/computing/lenovo-thinkpad-x9-14-aura-edition-review-a-cheaper-path-to-oled-ultraportable/#ftag=CAD590a51e)
- - [A ‘Grand Unified Theory’ of Math Just Got a Little Bit Closer](https://www.wired.com/story/a-grand-unified-theory-of-math-just-got-a-little-bit-closer-fermats-last-theorem/)<!-- TECH:END -->
+ - [Watch This Humanoid Robot Swap Its Own Battery](https://www.cnet.com/tech/computing/watch-this-humanoid-robot-swap-its-own-battery-for-247-operation/#ftag=CAD590a51e)
+ - [Wuchang&#39;s Commander Honglan Is a Nightmare. Here&#39;s How to Beat Her](https://www.cnet.com/tech/gaming/wuchang-fallen-feathers-boss-fight-weakness-commander-honglan-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
- - 😝 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
- - 💣 [Pedo Pascal when he has Anxiety.](http://9gag.com/gag/aqyANVL)
+ - 😝 [Top 10 anime betrayals](http://9gag.com/gag/awyvKrR)
+ - 😝 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
+ - 💣 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
+ - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
 
 ---
 

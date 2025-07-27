@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ironically photos of the women on this app &lpar;verification photos to prove they are women&rpar; have been leaked. Media articles seem more concerned about this data breach than the fact the app was slandering random men.](http://9gag.com/gag/ae9WG6b)
- - 😝 [A hug is sometimes all you need](http://9gag.com/gag/aQzV4Q2)
- - 💣 [My collection #6](http://9gag.com/gag/ajPynKw)
+ - 😝 [Russian soldier helping his wounded comrade.](http://9gag.com/gag/aKGpB7O)
+ - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 💣 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
+ - 👉 [Moist movie](http://9gag.com/gag/an7VKmn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
- - 😝 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
- - 💣 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)
+ - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
+ - 😝 [She&#39;s been hiding in that car since morning](http://9gag.com/gag/azxQVLB)
+ - 💣 [Returning the favor](http://9gag.com/gag/aE0EzPG)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Understandable, have a great day](http://9gag.com/gag/aGybR86)<!-- MEMES:END -->
+ - 👉 [Top 10 anime betrayals](http://9gag.com/gag/awyvKrR)<!-- MEMES:END -->
 
 ---
 

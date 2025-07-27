@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily post from my archive #26](http://9gag.com/gag/aVvBQPM)
- - 😝 [When you&#39;ve prepared for it your whole life, but have to watch someone else fail.](http://9gag.com/gag/aVvBOGv)
- - 💣 [8 or 2 choose wisely](http://9gag.com/gag/aO8Gyr2)
- - 😝 [Go broke](http://9gag.com/gag/aMVyrdV)
- - 👉 [Don&#39;t overcharge your merchandise](http://9gag.com/gag/aryzeEV)<!-- MEMES:END -->
+ - 😝 [This is better than any woman in lingerie could ever be.](http://9gag.com/gag/aD2MwNx)
+ - 😝 [South Park legal team after watching the new episode](http://9gag.com/gag/a7oAKEA)
+ - 💣 [The dogs warned us](http://9gag.com/gag/aLnrQeA)
+ - 😝 [Checkmate](http://9gag.com/gag/aRBDg42)
+ - 👉 [Fascinating...but where?](http://9gag.com/gag/aryz41y)<!-- MEMES:END -->
 
 ---
 

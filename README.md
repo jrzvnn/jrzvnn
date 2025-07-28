@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
- - 😝 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
- - 💣 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 😝 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
- - 👉 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)<!-- MEMES:END -->
+ - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 💣 [Impressive](http://9gag.com/gag/a6Z87jL)
+ - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
+ - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
 
 ---
 

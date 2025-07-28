@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
  - 😝 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 💣 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
+ - 💣 [Moist movie](http://9gag.com/gag/an7VKmn)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 ---
 

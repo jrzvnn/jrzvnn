@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)
+ - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 😝 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
+ - 💣 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
  - 😝 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
- - 💣 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
- - 😝 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
- - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
+ - 👉 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)<!-- MEMES:END -->
 
 ---
 

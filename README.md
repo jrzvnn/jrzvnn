@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)
- - 😝 [Who is in the wrong?](http://9gag.com/gag/adBbj4Z)
- - 💣 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
+ - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 💣 [What did they try to accomplish? also Trololo](http://9gag.com/gag/aGyb0K5)
+ - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - 👉 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)<!-- MEMES:END -->
 
 ---
 

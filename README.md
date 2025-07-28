@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My collection #6](http://9gag.com/gag/ajPynKw)
- - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
- - 💣 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
- - 👉 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)<!-- MEMES:END -->
+ - 😝 [Would you like to know more...? about that galactus cosplay you saw in the home page...?](http://9gag.com/gag/aD2MoxO)
+ - 😝 [Remember when McDonald&#39;s was fun](http://9gag.com/gag/abAEZZ9)
+ - 💣 [This is the joke](http://9gag.com/gag/aLnr9RP)
+ - 😝 [Robin&#39;s long lost brother](http://9gag.com/gag/ae9W60Q)
+ - 👉 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Avatar: Fire and Ash brings war to Pandora in first trailer](https://www.theverge.com/film/714570/avatar-fire-and-ash-trailer)
+ - [Z.ai, formerly known as Zhipu and which has raised $1.5B from Tencent and others, releases GLM-4.5, an open source AI model that&#39;s cheaper to use than DeepSeek &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250728/p15#a250728p15)
  - [Lowest price ever: 15-inch MacBook Air M4 drops to $999](https://appleinsider.com/articles/25/07/28/lowest-price-ever-15-inch-macbook-air-m4-drops-to-999?utm_source=rss)
  - [Apple Store footprint in Chinese contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
- - [E2B, formerly FoundryLabs, which is developing an open-source, sandboxed cloud infrastructure for AI agents, raised a $21M Series A led by Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250728/p14#a250728p14)
- - [Imax partners with Runway AI to screen 10 films selected as finalists in the company&#39;s AI Film Festival at 10 Imax locations across the US &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250728/p13#a250728p13)
- - [Mario Kart World and other Switch 2 games are 10 percent off](https://www.theverge.com/tech/714514/mario-kart-world-zelda-switch-2-deal-sale)<!-- TECH:END -->
+ - [Preparing for a Layoff in Today&#39;s Economy: What to Do Before You Lose Your Job](https://www.cnet.com/personal-finance/banking/preparing-for-a-layoff-in-todays-economy-what-to-do-before-you-lose-your-job/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro walked in like a man..](http://9gag.com/gag/aPAn4xR)
  - 😝 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 💣 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
+ - 😝 [Bro walked in like a man..](http://9gag.com/gag/aPAn4xR)
+ - 💣 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)<!-- MEMES:END -->
+ - 👉 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)<!-- MEMES:END -->
 
 ---
 

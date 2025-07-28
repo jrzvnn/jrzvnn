@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would you like to know more...? about that galactus cosplay you saw in the home page...?](http://9gag.com/gag/aD2MoxO)
- - 😝 [Remember when McDonald&#39;s was fun](http://9gag.com/gag/abAEZZ9)
- - 💣 [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 😝 [Robin&#39;s long lost brother](http://9gag.com/gag/ae9W60Q)
- - 👉 [Mr.troll got a soft heart](http://9gag.com/gag/aYQmw9m)<!-- MEMES:END -->
+ - 😝 [Alabama..](http://9gag.com/gag/a9yBYX0)
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 💣 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 😝 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
+ - 👉 [I am groot](http://9gag.com/gag/a9yB7pZ)<!-- MEMES:END -->
 
 ---
 

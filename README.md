@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yet another Pixel 6A caught fire](https://www.theverge.com/news/714833/google-pixel-6a-fire-battery-update)
+ - [Women&amp;#8217;s &amp;#8216;red flag&amp;#8217; app Tea is a privacy nightmare](https://www.theverge.com/cyber-security/714750/tea-hack-breach)
  - [Your Whistle pet tracker will stop working next month](https://www.theverge.com/news/714775/tractive-whistle-pet-tracker-acquisition)
  - [Anthropic to debut new rate limits for Claude Pro and Max on Aug. 28, likely curbing &lt;5% of users, saying some run Claude Code &quot;continuously in the background&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250728/p21#a250728p21)
- - [Premier League Summer Series: Stream West Ham vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-west-ham-vs-everton-from-anywhere/#ftag=CAD590a51e)
- - [My First Look at T-Mobile&#39;s Unique Starlink T-Satellite Service Made Me Head Far From Home](https://www.cnet.com/tech/mobile/my-first-look-at-t-mobiles-unique-starlink-t-satellite-service-made-me-head-far-from-home/#ftag=CAD590a51e)
  - [Faculty and students on Chinese campuses are enthusiastically embracing AI, and the level of public excitement for AI in China is far greater vs. the US and UK &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250728/p20#a250728p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

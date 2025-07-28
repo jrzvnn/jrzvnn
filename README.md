@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 😝 [FAFO](http://9gag.com/gag/a6Z8MVR)
  - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
  - 💣 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 😝 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)
- - 👉 [Bad luck good bike](http://9gag.com/gag/aND3nO0)<!-- MEMES:END -->
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 👉 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)
- - 😝 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
- - 💣 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
+ - 😝 [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
+ - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
+ - 💣 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [This looks safe.....](http://9gag.com/gag/a0ewpWz)<!-- MEMES:END -->
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 ---
 

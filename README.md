@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
- - 😝 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
- - 💣 [This looks safe.....](http://9gag.com/gag/a0ewpWz)
+ - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
+ - 😝 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - 💣 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
+ - 👉 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)<!-- MEMES:END -->
 
 ---
 

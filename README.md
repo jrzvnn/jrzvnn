@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 😝 [Impressive](http://9gag.com/gag/a6Z87jL)
  - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 💣 [Moist movie](http://9gag.com/gag/an7VKmn)
+ - 💣 [8.4, not bad](http://9gag.com/gag/abAEbGb)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)<!-- MEMES:END -->
+ - 👉 [Thick](http://9gag.com/gag/azxQVzq)<!-- MEMES:END -->
 
 ---
 

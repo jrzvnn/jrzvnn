@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 😝 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)
- - 💣 [Moist movie](http://9gag.com/gag/an7VKmn)
+ - 😝 [Understandable, have a great day](http://9gag.com/gag/aGybR86)
+ - 😝 [8.4, not bad](http://9gag.com/gag/abAEbGb)
+ - 💣 [My collection #6](http://9gag.com/gag/ajPynKw)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)<!-- MEMES:END -->
+ - 👉 [This is the joke](http://9gag.com/gag/aLnr9RP)<!-- MEMES:END -->
 
 ---
 

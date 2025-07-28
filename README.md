@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)
  - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)
- - [Samsung announces a $16.5B deal to produce chips that runs through the end of 2033 and boosts its underperforming foundry unit; source: Tesla is the customer &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p22#a250727p22)
+ - [Samsung announces a $16.5B deal to produce Tesla&#39;s next-generation AI6 chips in its upcoming fab in Taylor, Texas that runs through the end of 2033 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p22#a250727p22)
  - [AI tools like ChatGPT are helping neurodivergent individuals navigate social encounters with real-time guidance, though some experts warn of overreliance &lpar;Hani Richter/Reuters&rpar;](http://www.techmeme.com/250727/p21#a250727p21)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, July 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-july-28/#ftag=CAD590a51e)<!-- TECH:END -->
 

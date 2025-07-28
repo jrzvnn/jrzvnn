@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Impressive](http://9gag.com/gag/a6Z87jL)
  - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 💣 [What did they try to accomplish? also Trololo](http://9gag.com/gag/aGyb0K5)
- - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
- - 👉 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)<!-- MEMES:END -->
+ - 💣 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 👉 [Woods](http://9gag.com/gag/a87zMv1)<!-- MEMES:END -->
 
 ---
 

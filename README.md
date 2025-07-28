@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
- - 😝 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 💣 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
+ - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 😝 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
+ - 💣 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
+ - 👉 [Bad luck good bike](http://9gag.com/gag/aND3nO0)<!-- MEMES:END -->
 
 ---
 

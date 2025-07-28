@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
- - 😝 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
- - 💣 [Touching girls randomly isn&#39;t the way.](http://9gag.com/gag/aryzKpp)
+ - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
+ - 💣 [Moist movie](http://9gag.com/gag/an7VKmn)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
+ - 👉 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Harmonic, an AI math startup co-founded by Robinhood CEO Vlad Tenev, unveils its model Aristotle, saying it achieved gold medal performance on the 2025 IMO &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250728/p27#a250728p27)
+ - [Flexport announces it is selling Convoy&#39;s tech to DAT Freight &amp; Analytics, after acquiring the digital freight startup&#39;s tech stack in late 2023 &lpar;John Kingston/FreightWaves&rpar;](http://www.techmeme.com/250728/p26#a250728p26)
  - [Salient, which uses AI to automate the post-loan origination process for lenders, raised a $60M Series A led by a16z, a source says at a $350M valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250728/p25#a250728p25)
  - [PayPal Launches Pay With Crypto, Expanding Its Push Into Digital Currencies](https://www.cnet.com/personal-finance/crypto/paypal-launches-pay-with-crypto-expanding-its-push-into-digital-currencies/#ftag=CAD590a51e)
- - [iPhone 17 may have been spotted in the wild](https://appleinsider.com/articles/25/07/28/iphone-17-development-device-spotted-in-the-wild?utm_source=rss)
- - [Seattle-based Dropzone AI, which offers AI agents that act as Security Operations Center analysts, raised a $37M Series B led by Theory Ventures &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250728/p24#a250728p24)
- - [The controversial legal tactic The Trump Organization is using to take down fake merch](https://www.theverge.com/analysis/714872/trump-organization-ebay-amazon-walmart-sellers-schedule-a-trademark)<!-- TECH:END -->
+ - [iPhone 17 may have been spotted in the wild](https://appleinsider.com/articles/25/07/28/iphone-17-development-device-spotted-in-the-wild?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

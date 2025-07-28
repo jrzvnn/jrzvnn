@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Cadence Design agrees to plead guilty and pay more than $140M to resolve US charges for selling its chip design products to a Chinese military university &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250728/p23#a250728p23)
+ - [Microsoft Is Giving Windows 10 Users Free Security Updates for a Year, but There&#39;s a Catch](https://www.cnet.com/tech/computing/microsoft-is-giving-windows-10-users-free-security-updates-for-a-year-but-theres-a-catch/#ftag=CAD590a51e)
  - [Sony calls Tencent game &amp;#8216;slavish clone&amp;#8217; of Horizon in new lawsuit](https://www.theverge.com/news/714870/sony-tencent-horizon-clone-lawsuit)
  - [44% of smartphones were imported from India in Q2 2025 as tariffs rearrange supply chains](https://appleinsider.com/articles/25/07/28/44-of-smartphones-were-imported-from-india-in-q2-2025-as-tariffs-rearrange-supply-chains?utm_source=rss)
- - [Apple Shadyside opening in a new and larger location on August 9](https://appleinsider.com/articles/25/07/28/apple-shadyside-opening-in-a-new-and-larger-location-on-august-9?utm_source=rss)
- - [Warner Bros. Discovery will be Warner Bros. and Discovery after they break up](https://www.theverge.com/news/714829/warner-bros-discovery-new-company-names)<!-- TECH:END -->
+ - [Apple Shadyside opening in a new and larger location on August 9](https://appleinsider.com/articles/25/07/28/apple-shadyside-opening-in-a-new-and-larger-location-on-august-9?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

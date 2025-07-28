@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
- - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
- - 💣 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 😝 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
+ - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 💣 [Watercooling](http://9gag.com/gag/aYQmLyN)
  - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 👉 [Understandable, have a great day](http://9gag.com/gag/aGybR86)<!-- MEMES:END -->
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 ---
 

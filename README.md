@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Familiar Nebula Telescopic Thrust Suction Mount Dildo Review](https://www.wired.com/review/familiar-nebula-telescopic-thrust-suction-mount-dildo/)
+ - [How the AI boom is reenergizing San Francisco, one of the slowest US cities to recover from the pandemic, with rising foot traffic and new commercial leases &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/250728/p3#a250728p3)
  - [A look at India&#39;s plan to build a quantum computing hub in Amaravati, Andhra Pradesh, where IBM is in talks to develop India&#39;s most powerful quantum computer &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/250728/p2#a250728p2)
  - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)
- - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)
- - [Samsung announces a $16.5B chip deal that runs through the end of 2033; Elon Musk says it&#39;s to produce Tesla&#39;s next-generation AI6 chips in Taylor, Texas &lpar;Bloomberg&rpar;](http://www.techmeme.com/250727/p22#a250727p22)
- - [AI tools like ChatGPT are helping neurodivergent individuals navigate social encounters with real-time guidance, though some experts warn of overreliance &lpar;Hani Richter/Reuters&rpar;](http://www.techmeme.com/250727/p21#a250727p21)<!-- TECH:END -->
+ - [Q&amp;A with SandboxAQ CEO Jack Hidary on the Alphabet spinoff&#39;s partnership with Aramco, how quantum AI can help turn captured CO2 into valuable products, and more &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250727/p23#a250727p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

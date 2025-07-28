@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Silicon iMac logo on the chin was probably tested, but ultimately skipped](https://appleinsider.com/articles/25/07/28/apple-silicon-imac-logo-on-the-chin-was-probably-tested-but-ultimately-skipped?utm_source=rss)
+ - [Microsoft Edge adds Copilot Mode, an experimental feature that tries to make browsing an agentic AI experience, even anticipating links to click, free for now &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250728/p18#a250728p18)
  - [Apple blocks exploit that leaked Apple Intelligence &amp; synced iPhone data](https://appleinsider.com/articles/25/07/28/apple-blocks-exploit-that-leaked-apple-intelligence-synced-iphone-data?utm_source=rss)
  - [Fable, a startup offering AI-generated security training for employees, comes out of stealth having raised $31M, a source says at a $120M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250728/p17#a250728p17)
- - [Microsoft starts rolling out Xbox age verification in the UK](https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features)
- - [Brother HL-L3280CDW color laser printer review: Pennies, not dollars, per page](https://appleinsider.com/articles/25/07/28/brother-hl-l3280cdw-color-laser-printer-review-pennies-not-dollars-per-page?utm_source=rss)
- - [I Wanted Maximum Visits at My Bird Feeder. A Wildlife Expert Gave Me These Tips](https://www.cnet.com/news/i-wanted-maximum-visits-at-my-bird-feeder-a-wildlife-expert-gave-me-these-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft starts rolling out Xbox age verification in the UK](https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

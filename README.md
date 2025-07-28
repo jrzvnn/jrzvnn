@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal unveils Pay With Crypto for merchants to accept bitcoin, ether, USDT, and more via Coinbase, OKX, and other wallets, rolling out in the coming weeks &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250728/p12#a250728p12)
- - [What Is MicroSD Express? Everything You Need to Know](https://www.wired.com/story/what-is-microsd-express/)
- - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
- - [Apple has 18 months to sort out Apple Intelligence](https://appleinsider.com/articles/25/07/28/apple-has-18-months-to-sort-out-apple-intelligence?utm_source=rss)
- - [Israeli customer service automation company Nice acquires Cognigy, which develops a conversational and agentic AI platform, for $955M, set to close in Q4 2025 &lpar;Shiri Habib-Valdhorn/Globes&rpar;](http://www.techmeme.com/250728/p11#a250728p11)<!-- TECH:END -->
+ - [Consumer Reports&#39; Siobhan Adcock joins HomeKit Insider to talk about smart baby tech](https://appleinsider.com/articles/25/07/28/consumer-reports-siobhan-adcock-joins-homekit-insider-to-talk-about-smart-baby-tech?utm_source=rss)
+ - [Temu users face a &amp;#8216;high risk&amp;#8217; of finding illegal products, EU says](https://www.theverge.com/news/714502/temu-high-risk-illegal-products-eu-investigation)
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
+ - [Xbox will let you play Silksong at Gamescom in August](https://www.theverge.com/news/714490/xbox-gamescom-silksong-playable-demo-xbox-ally-handheld)
+ - [PayPal unveils Pay With Crypto for merchants to accept bitcoin, ether, USDT, and more via Coinbase, OKX, and other wallets, rolling out in the coming weeks &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250728/p12#a250728p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

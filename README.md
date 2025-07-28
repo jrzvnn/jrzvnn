@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
  - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 😝 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 💣 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
+ - 💣 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)<!-- MEMES:END -->
+ - 👉 [Bad luck good bike](http://9gag.com/gag/aND3nO0)<!-- MEMES:END -->
 
 ---
 

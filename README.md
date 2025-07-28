@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Whistle pet tracker will stop working next month](https://www.theverge.com/news/714775/tractive-whistle-pet-tracker-acquisition)
  - [Anthropic to debut new rate limits for Claude Pro and Max on Aug. 28, likely curbing &lt;5% of users, saying some run Claude Code &quot;continuously in the background&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250728/p21#a250728p21)
- - [Faculty and students on Chinese campuses are enthusiastically embracing AI, and the level of public excitement for AI in China is far greater vs. the US and UK &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250728/p20#a250728p20)
- - [Apple Store footprint in China contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
- - [Star Trek, superheroes, and lots of Stephen King: the best of SDCC 2025](https://www.theverge.com/film/714492/sdcc-2025-best-trailers-announcements)
- - [The US smartphone market grew 1% in Q2; the share of US smartphone shipments assembled in China shrank from 61% in Q2&#39;24 to 25% in Q2&#39;25, as India volume soars &lpar;Canalys&rpar;](http://www.techmeme.com/250728/p19#a250728p19)<!-- TECH:END -->
+ - [Premier League Summer Series: Stream West Ham vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-west-ham-vs-everton-from-anywhere/#ftag=CAD590a51e)
+ - [My First Look at T-Mobile&#39;s Unique Starlink T-Satellite Service Made Me Head Far From Home](https://www.cnet.com/tech/mobile/my-first-look-at-t-mobiles-unique-starlink-t-satellite-service-made-me-head-far-from-home/#ftag=CAD590a51e)
+ - [Faculty and students on Chinese campuses are enthusiastically embracing AI, and the level of public excitement for AI in China is far greater vs. the US and UK &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250728/p20#a250728p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

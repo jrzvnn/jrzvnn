@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 😝 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
- - 💣 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
+ - 😝 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
+ - 😝 [High heaven](http://9gag.com/gag/aPAnGbK)
+ - 💣 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Bad luck good bike](http://9gag.com/gag/aND3nO0)<!-- MEMES:END -->
+ - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
 
 ---
 

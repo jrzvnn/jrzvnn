@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
- - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 💣 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
- - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 👉 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)<!-- MEMES:END -->
+ - 😝 [This is the joke](http://9gag.com/gag/aLnr9RP)
+ - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 💣 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
+ - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
- - 💣 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
- - 😝 [I am groot](http://9gag.com/gag/a9yB7pZ)
- - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
+ - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
+ - 😝 [Pocho](http://9gag.com/gag/a9yBPmW)
+ - 💣 [I am groot](http://9gag.com/gag/a9yB7pZ)
+ - 😝 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
+ - 👉 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)<!-- MEMES:END -->
 
 ---
 

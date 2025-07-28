@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it revised its Android Earthquake Alerts algorithm after it failed to send the highest-level Take Action warnings to 10M people in Turkey in 2023 &lpar;BBC&rpar;](http://www.techmeme.com/250728/p10#a250728p10)
- - [Inside iOS 26 Control Center -- fast access to the best iPhone features](https://appleinsider.com/inside/ios-26/tips/inside-ios-26-control-center----fast-access-to-the-best-iphone-features?utm_source=rss)
- - [The European Commission accuses Temu of breaching the DSA by failing to do enough to stop the sale of illegal products on its platform, in preliminary findings &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250728/p9#a250728p9)
- - [From Cheating Exposés to Dating Background Checks, TikTok Detectives Are Thriving](https://www.wired.com/story/from-cheating-exposes-to-dating-background-checks-tiktok-detectives-are-thriving/)
- - [Programmers Aren’t So Humble Anymore—Maybe Because Nobody Codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)<!-- TECH:END -->
+ - [Apple has 18 months to sort out Apple Intelligence](https://appleinsider.com/articles/25/07/28/apple-has-18-months-to-sort-out-apple-intelligence?utm_source=rss)
+ - [Israeli customer service automation company Nice acquires Cognigy, which develops a conversational and agentic AI platform, for $955M, set to close in Q4 2025 &lpar;Shiri Habib-Valdhorn/Globes&rpar;](http://www.techmeme.com/250728/p11#a250728p11)
+ - [iPhone stability and low bars for growth expected in Q3 2025 results](https://appleinsider.com/articles/25/07/28/iphone-stability-and-low-bars-for-growth-expected-in-q3-2025-results?utm_source=rss)
+ - [Nothing Headphone &lpar;1&rpar; Review: Something Special](https://www.wired.com/review/nothing-headphones-1/)
+ - [How Trump let Boeing off the hook for the 737 MAX crashes](https://www.theverge.com/planes/713143/boeing-737-max-crash-trump-case)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

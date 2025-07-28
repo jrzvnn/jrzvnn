@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store footprint in China contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
+ - [Star Trek, superheroes, and lots of Stephen King: the best of SDCC 2025](https://www.theverge.com/film/714492/sdcc-2025-best-trailers-announcements)
+ - [The US smartphone market grew 1% in Q2; the share of US smartphone shipments assembled in China shrank from 61% in Q2&#39;24 to 25% in Q2&#39;25, as India volume soars &lpar;Canalys&rpar;](http://www.techmeme.com/250728/p19#a250728p19)
  - [Apple Silicon iMac logo on the chin was probably tested, but ultimately skipped](https://appleinsider.com/articles/25/07/28/apple-silicon-imac-logo-on-the-chin-was-probably-tested-but-ultimately-skipped?utm_source=rss)
- - [Microsoft Edge adds Copilot Mode, an experimental feature that tries to make browsing an agentic AI experience, even anticipating links to click, free for now &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250728/p18#a250728p18)
- - [Apple blocks exploit that leaked Apple Intelligence &amp; synced iPhone data](https://appleinsider.com/articles/25/07/28/apple-blocks-exploit-that-leaked-apple-intelligence-synced-iphone-data?utm_source=rss)
- - [Fable, a startup offering AI-generated security training for employees, comes out of stealth having raised $31M, a source says at a $120M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250728/p17#a250728p17)
- - [Microsoft starts rolling out Xbox age verification in the UK](https://www.theverge.com/news/714458/microsoft-xbox-age-verification-uk-social-features)<!-- TECH:END -->
+ - [Microsoft Edge adds Copilot Mode, an experimental feature that tries to make browsing an agentic AI experience, even anticipating links to click, free for now &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250728/p18#a250728p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

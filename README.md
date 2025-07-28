@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mario Kart World and other Switch 2 games are 10 percent off](https://www.theverge.com/tech/714514/mario-kart-world-zelda-switch-2-deal-sale)
+ - [ChatGPT can be a disaster for lawyers — Robin AI says it can fix that](https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview)
  - [Consumer Reports&#39; Siobhan Adcock joins HomeKit Insider to talk about smart baby tech](https://appleinsider.com/articles/25/07/28/consumer-reports-siobhan-adcock-joins-homekit-insider-to-talk-about-smart-baby-tech?utm_source=rss)
  - [Temu users face a &amp;#8216;high risk&amp;#8217; of finding illegal products, EU says](https://www.theverge.com/news/714502/temu-high-risk-illegal-products-eu-investigation)
- - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Xbox will let you play Silksong at Gamescom in August](https://www.theverge.com/news/714490/xbox-gamescom-silksong-playable-demo-xbox-ally-handheld)
- - [PayPal unveils Pay With Crypto for merchants to accept bitcoin, ether, USDT, and more via Coinbase, OKX, and other wallets, rolling out in the coming weeks &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250728/p12#a250728p12)<!-- TECH:END -->
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

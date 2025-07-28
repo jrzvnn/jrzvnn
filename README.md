@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
- - 😝 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
- - 💣 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
+ - 😝 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
+ - 😝 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
+ - 💣 [This looks safe.....](http://9gag.com/gag/a0ewpWz)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
+ - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
 
 ---
 

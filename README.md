@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 😝 [Pocho](http://9gag.com/gag/a9yBPmW)
- - 💣 [I am groot](http://9gag.com/gag/a9yB7pZ)
- - 😝 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
- - 👉 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)<!-- MEMES:END -->
+ - 😝 [Bee venom eliminates 100% cancerous cells in 60 mn in a breast metastatic cancer.](http://9gag.com/gag/ayNP8YW)
+ - 😝 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
+ - 💣 [Do you \u2018member?](http://9gag.com/gag/aQzVn1w)
+ - 😝 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
+ - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
 
 ---
 

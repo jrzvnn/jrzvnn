@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lowest price ever: 15-inch MacBook Air M4 drops to $999](https://appleinsider.com/articles/25/07/28/lowest-price-ever-15-inch-macbook-air-m4-drops-to-999?utm_source=rss)
+ - [Apple Store footprint in Chinese contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
  - [E2B, formerly FoundryLabs, which is developing an open-source, sandboxed cloud infrastructure for AI agents, raised a $21M Series A led by Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250728/p14#a250728p14)
  - [Imax partners with Runway AI to screen 10 films selected as finalists in the company&#39;s AI Film Festival at 10 Imax locations across the US &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/250728/p13#a250728p13)
- - [Mario Kart World and other Switch 2 games are 10 percent off](https://www.theverge.com/tech/714514/mario-kart-world-zelda-switch-2-deal-sale)
- - [ChatGPT can be a disaster for lawyers — Robin AI says it can fix that](https://www.theverge.com/decoder-podcast-with-nilay-patel/713303/robin-ai-ceo-richard-robinson-chatgpt-ai-lawyer-legal-interview)
- - [Consumer Reports&#39; Siobhan Adcock joins HomeKit Insider to talk about smart baby tech](https://appleinsider.com/articles/25/07/28/consumer-reports-siobhan-adcock-joins-homekit-insider-to-talk-about-smart-baby-tech?utm_source=rss)<!-- TECH:END -->
+ - [Mario Kart World and other Switch 2 games are 10 percent off](https://www.theverge.com/tech/714514/mario-kart-world-zelda-switch-2-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

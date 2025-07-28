@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moist movie](http://9gag.com/gag/an7VKmn)
- - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 💣 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
+ - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 😝 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)
+ - 💣 [Touching girls randomly isn&#39;t the way.](http://9gag.com/gag/aryzKpp)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Bad luck good bike](http://9gag.com/gag/aND3nO0)<!-- MEMES:END -->
+ - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Star System Contains 5 Potentially Habitable Planets](https://www.wired.com/story/this-star-system-contains-five-potentially-habitable-planets/)
  - [An analysis of ~200 Shein items between April and July: prices spiked in April, settled at 12.5% above pre-tariff levels by late May, and jumped again in July &lpar;Reuters&rpar;](http://www.techmeme.com/250728/p8#a250728p8)
  - [Seriously, Why Do Some AI Chatbot Subscriptions Cost More Than $200?](https://www.wired.com/story/seriously-why-do-some-ai-chatbot-subscriptions-cost-more-than-200/)
  - [How the video game industry, which has used AI since the 1980s, is embracing AI-enhanced gameplay, worrying some developers as major studios cut employees &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/250728/p7#a250728p7)
- - [Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode](https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord)
- - [At Shanghai&#39;s World AI Conference, ByteDance, Unitree, UBTech, Agibot, and other Chinese companies demoed a wide range of robots, including boxing droids &lpar;Bloomberg&rpar;](http://www.techmeme.com/250728/p6#a250728p6)<!-- TECH:END -->
+ - [Reddit and Discord&amp;#8217;s UK age verification can be defeated by Death Stranding&amp;#8217;s photo mode](https://www.theverge.com/report/714402/uk-age-verification-bypass-death-stranding-reddit-discord)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

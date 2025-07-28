@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
- - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 💣 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 😝 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
+ - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
+ - 💣 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
+ - 👉 [We can fix her](http://9gag.com/gag/aE0EzqO)<!-- MEMES:END -->
 
 ---
 

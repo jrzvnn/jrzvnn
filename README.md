@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salient, which uses AI to automate the post-loan origination process for lenders, raised a $60M Series A led by a16z, a source says at a $350M valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250728/p25#a250728p25)
  - [iPhone 17 may have been spotted in the wild](https://appleinsider.com/articles/25/07/28/iphone-17-development-device-spotted-in-the-wild?utm_source=rss)
+ - [Seattle-based Dropzone AI, which offers AI agents that act as Security Operations Center analysts, raised a $37M Series B led by Theory Ventures &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250728/p24#a250728p24)
  - [The controversial legal tactic The Trump Organization is using to take down fake merch](https://www.theverge.com/analysis/714872/trump-organization-ebay-amazon-walmart-sellers-schedule-a-trademark)
- - [Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones](https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms)
- - [Cadence Design agrees to plead guilty and pay more than $140M to resolve US charges for selling its chip design products to a Chinese military university &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250728/p23#a250728p23)
- - [Microsoft Is Giving Windows 10 Users Free Security Updates for a Year, but There&#39;s a Catch](https://www.cnet.com/tech/computing/microsoft-is-giving-windows-10-users-free-security-updates-for-a-year-but-theres-a-catch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung&amp;#8217;s One UI 8 might shut down bootloader unlocking on Galaxy phones](https://www.theverge.com/news/714902/samsung-one-ui-8-bootloader-unlocking-android-roms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

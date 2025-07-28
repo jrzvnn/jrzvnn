@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
- - 😝 [High heaven](http://9gag.com/gag/aPAnGbK)
- - 💣 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)
+ - 😝 [Bro walked in like a man..](http://9gag.com/gag/aPAn4xR)
+ - 😝 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - 💣 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)<!-- MEMES:END -->
+ - 👉 [Looks like acid&#39;s back on the menu, boys](http://9gag.com/gag/ayNP0rW)<!-- MEMES:END -->
 
 ---
 

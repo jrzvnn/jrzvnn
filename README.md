@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incredible Galactus cosplay](http://9gag.com/gag/aByoroN)
- - 😝 [Bad luck good bike](http://9gag.com/gag/aND3nO0)
- - 💣 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
+ - 😝 [Moist movie](http://9gag.com/gag/an7VKmn)
+ - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
+ - 💣 [Why r u g\u00e6y ?](http://9gag.com/gag/avymL4Z)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [We can fix her](http://9gag.com/gag/aE0EzqO)<!-- MEMES:END -->
+ - 👉 [Bad luck good bike](http://9gag.com/gag/aND3nO0)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)
- - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 💣 [My collection #6](http://9gag.com/gag/ajPynKw)
- - 😝 [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 👉 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)<!-- MEMES:END -->
+ - 😝 [A girl is spinning a snake to rescue her guinea pig.](http://9gag.com/gag/ae9WpE5)
+ - 💣 [This is the joke](http://9gag.com/gag/aLnr9RP)
+ - 😝 [Watercooling](http://9gag.com/gag/aYQmLyN)
+ - 👉 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)<!-- MEMES:END -->
 
 ---
 

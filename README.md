@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Faculty and students on Chinese campuses are enthusiastically embracing AI, and the level of public excitement for AI in China is far greater vs. the US and UK &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/250728/p20#a250728p20)
  - [Apple Store footprint in China contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
  - [Star Trek, superheroes, and lots of Stephen King: the best of SDCC 2025](https://www.theverge.com/film/714492/sdcc-2025-best-trailers-announcements)
  - [The US smartphone market grew 1% in Q2; the share of US smartphone shipments assembled in China shrank from 61% in Q2&#39;24 to 25% in Q2&#39;25, as India volume soars &lpar;Canalys&rpar;](http://www.techmeme.com/250728/p19#a250728p19)
- - [Apple Silicon iMac logo on the chin was probably tested, but ultimately skipped](https://appleinsider.com/articles/25/07/28/apple-silicon-imac-logo-on-the-chin-was-probably-tested-but-ultimately-skipped?utm_source=rss)
- - [Microsoft Edge adds Copilot Mode, an experimental feature that tries to make browsing an agentic AI experience, even anticipating links to click, free for now &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250728/p18#a250728p18)<!-- TECH:END -->
+ - [Apple Silicon iMac logo on the chin was probably tested, but ultimately skipped](https://appleinsider.com/articles/25/07/28/apple-silicon-imac-logo-on-the-chin-was-probably-tested-but-ultimately-skipped?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

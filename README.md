@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes they do something useful...](http://9gag.com/gag/a87zj0O)
- - 😝 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
- - 💣 [Moist movie](http://9gag.com/gag/an7VKmn)
+ - 😝 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)
+ - 😝 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)
+ - 💣 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)<!-- MEMES:END -->
+ - 👉 [This looks safe.....](http://9gag.com/gag/a0ewpWz)<!-- MEMES:END -->
 
 ---
 

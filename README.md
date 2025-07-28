@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At the International Mathematical Olympiad, 26 students got higher scores than DeepMind and OpenAI models, possibly the last time humans beat AI at the exam &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/250728/p5#a250728p5)
  - [People are increasingly using generative AI to create digital vision boards, such as videos depicting their ideal futures, to help them achieve their goals &lpar;Alyson Krueger/New York Times&rpar;](http://www.techmeme.com/250728/p4#a250728p4)
  - [Familiar Nebula Telescopic Thrust Suction Mount Dildo Review](https://www.wired.com/review/familiar-nebula-telescopic-thrust-suction-mount-dildo/)
  - [How the AI boom is reenergizing San Francisco, one of the slowest US cities to recover from the pandemic, with rising foot traffic and new commercial leases &lpar;Danielle Abril/Washington Post&rpar;](http://www.techmeme.com/250728/p3#a250728p3)
- - [A look at India&#39;s plan to build a quantum computing hub in Amaravati, Andhra Pradesh, where IBM is in talks to develop India&#39;s most powerful quantum computer &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/250728/p2#a250728p2)
- - [Sources: the US freezes tech export curbs on China to avoid disrupting trade talks and help President Trump secure a 2025 meeting with President Xi Jinping &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250728/p1#a250728p1)<!-- TECH:END -->
+ - [A look at India&#39;s plan to build a quantum computing hub in Amaravati, Andhra Pradesh, where IBM is in talks to develop India&#39;s most powerful quantum computer &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/250728/p2#a250728p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

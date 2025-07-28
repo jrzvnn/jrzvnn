@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Using Unity with ChatGPT on macOS for vibe coding is dangerously easy](https://appleinsider.com/articles/25/07/28/using-unity-with-chatgpt-on-macos-for-vibe-coding-is-dangerously-easy?utm_source=rss)
+ - [Sony details its &amp;#8216;FlexStrike&amp;#8217; wireless PS5 fight stick](https://www.theverge.com/news/714602/sony-playstation-flexstrike-arcade-fight-stick)
+ - [App Store developers must now provide more age rating details](https://appleinsider.com/articles/25/07/25/app-store-developers-must-now-provide-age-rating-details?utm_source=rss)
  - [Avatar: Fire and Ash brings war to Pandora in first trailer](https://www.theverge.com/film/714570/avatar-fire-and-ash-trailer)
- - [Z.ai, formerly known as Zhipu and which has raised $1.5B from Tencent and others, releases GLM-4.5, an open source AI model that&#39;s cheaper to use than DeepSeek &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250728/p15#a250728p15)
- - [Lowest price ever: 15-inch MacBook Air M4 drops to $999](https://appleinsider.com/articles/25/07/28/lowest-price-ever-15-inch-macbook-air-m4-drops-to-999?utm_source=rss)
- - [Apple Store footprint in Chinese contracts in August](https://appleinsider.com/articles/25/07/28/apple-store-footprint-in-chinese-contracts-in-august?utm_source=rss)
- - [Preparing for a Layoff in Today&#39;s Economy: What to Do Before You Lose Your Job](https://www.cnet.com/personal-finance/banking/preparing-for-a-layoff-in-todays-economy-what-to-do-before-you-lose-your-job/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Z.ai, formerly known as Zhipu and which has raised $1.5B from Tencent and others, releases GLM-4.5, an open source AI model that&#39;s cheaper to use than DeepSeek &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250728/p15#a250728p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

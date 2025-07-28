@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PayPal unveils Pay With Crypto for merchants to accept bitcoin, ether, USDT, and more via Coinbase, OKX, and other wallets, rolling out in the coming weeks &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250728/p12#a250728p12)
+ - [What Is MicroSD Express? Everything You Need to Know](https://www.wired.com/story/what-is-microsd-express/)
+ - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
  - [Apple has 18 months to sort out Apple Intelligence](https://appleinsider.com/articles/25/07/28/apple-has-18-months-to-sort-out-apple-intelligence?utm_source=rss)
- - [Israeli customer service automation company Nice acquires Cognigy, which develops a conversational and agentic AI platform, for $955M, set to close in Q4 2025 &lpar;Shiri Habib-Valdhorn/Globes&rpar;](http://www.techmeme.com/250728/p11#a250728p11)
- - [iPhone stability and low bars for growth expected in Q3 2025 results](https://appleinsider.com/articles/25/07/28/iphone-stability-and-low-bars-for-growth-expected-in-q3-2025-results?utm_source=rss)
- - [Nothing Headphone &lpar;1&rpar; Review: Something Special](https://www.wired.com/review/nothing-headphones-1/)
- - [How Trump let Boeing off the hook for the 737 MAX crashes](https://www.theverge.com/planes/713143/boeing-737-max-crash-trump-case)<!-- TECH:END -->
+ - [Israeli customer service automation company Nice acquires Cognigy, which develops a conversational and agentic AI platform, for $955M, set to close in Q4 2025 &lpar;Shiri Habib-Valdhorn/Globes&rpar;](http://www.techmeme.com/250728/p11#a250728p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo&#39;s dating strategy is a classic](http://9gag.com/gag/aGybwMG)
- - 😝 [Do a hobby that relaxes you](http://9gag.com/gag/aoyDj8n)
- - 💣 [Not my fault Grass](http://9gag.com/gag/aGybwbz)
+ - 😝 [Guys be like: Hell Yeah!!!](http://9gag.com/gag/aMVyGXM)
+ - 😝 [High heaven](http://9gag.com/gag/aPAnGbK)
+ - 💣 [Mary Tyler Moore Accidentally Nails a Trick Shot in Front of a Live Audience in 1962](http://9gag.com/gag/aD2MmPO)
  - 😝 [Nobody can stop him. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aByoYRO)
- - 👉 [My collection #6](http://9gag.com/gag/ajPynKw)<!-- MEMES:END -->
+ - 👉 [Sometimes you just gotta let stupidity destroy itself](http://9gag.com/gag/aW496MA)<!-- MEMES:END -->
 
 ---
 

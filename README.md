@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside iOS 26 Control Center -- fast access to the best iPhone features](https://appleinsider.com/inside/ios-26/tips/inside-ios-26-control-center----fast-access-to-the-best-iphone-features?utm_source=rss)
  - [The European Commission accuses Temu of breaching the DSA by failing to do enough to stop the sale of illegal products on its platform, in preliminary findings &lpar;Laura Dubois/Financial Times&rpar;](http://www.techmeme.com/250728/p9#a250728p9)
  - [From Cheating Exposés to Dating Background Checks, TikTok Detectives Are Thriving](https://www.wired.com/story/from-cheating-exposes-to-dating-background-checks-tiktok-detectives-are-thriving/)
  - [Programmers Aren’t So Humble Anymore—Maybe Because Nobody Codes in Perl](https://www.wired.com/story/programmers-arent-humble-anymore-nobody-codes-in-perl/)
- - [This Star System Contains 5 Potentially Habitable Planets](https://www.wired.com/story/this-star-system-contains-five-potentially-habitable-planets/)
- - [An analysis of ~200 Shein items between April and July: prices spiked in April, settled at 12.5% above pre-tariff levels by late May, and jumped again in July &lpar;Reuters&rpar;](http://www.techmeme.com/250728/p8#a250728p8)<!-- TECH:END -->
+ - [This Star System Contains 5 Potentially Habitable Planets](https://www.wired.com/story/this-star-system-contains-five-potentially-habitable-planets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

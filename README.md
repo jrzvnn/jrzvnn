@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Using Unity with ChatGPT on macOS for vibe coding is dangerously easy](https://appleinsider.com/articles/25/07/28/using-unity-with-chatgpt-on-macos-for-vibe-coding-is-dangerously-easy?utm_source=rss)
- - [Sony details its &amp;#8216;FlexStrike&amp;#8217; wireless PS5 fight stick](https://www.theverge.com/news/714602/sony-playstation-flexstrike-arcade-fight-stick)
- - [App Store developers must now provide more age rating details](https://appleinsider.com/articles/25/07/25/app-store-developers-must-now-provide-age-rating-details?utm_source=rss)
- - [Avatar: Fire and Ash brings war to Pandora in first trailer](https://www.theverge.com/film/714570/avatar-fire-and-ash-trailer)
- - [Z.ai, formerly known as Zhipu and which has raised $1.5B from Tencent and others, releases GLM-4.5, an open source AI model that&#39;s cheaper to use than DeepSeek &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250728/p15#a250728p15)<!-- TECH:END -->
+ - [Brother HL-L3280CDW color laser printer review: Pennies, not dollars, per page](https://appleinsider.com/articles/25/07/28/brother-hl-l3280cdw-color-laser-printer-review-pennies-not-dollars-per-page?utm_source=rss)
+ - [Chrome will debut AI-generated store reviews to US shoppers, where clicking an icon just to the left of the URL will show a popup with store reputation info &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250728/p16#a250728p16)
+ - [Is Silicon Valley Losing Its Influence on DC?](https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-losing-its-influence-on-dc/)
+ - [The UK is slogging through an online age-gate apocalypse](https://www.theverge.com/analysis/714587/uk-online-safety-act-age-verification-reactions)
+ - [Microsoft Edge transforms into an AI browser with new Copilot Mode](https://www.theverge.com/news/714435/microsoft-edge-copilot-mode-ai-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

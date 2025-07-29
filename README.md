@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 😝 [Impressive](http://9gag.com/gag/a6Z87jL)
  - 💣 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Impressive](http://9gag.com/gag/a6Z87jL)<!-- MEMES:END -->
+ - 👉 [We just need TitiTes](http://9gag.com/gag/aND3WM4)<!-- MEMES:END -->
 
 ---
 

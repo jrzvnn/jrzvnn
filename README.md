@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Cheap Watches Under $1,000 &lpar;2025&rpar;: Timex, Hamilton, and Seiko](https://www.wired.com/gallery/best-cheap-watches/)
- - [PayPal reports Q2 net revenue up 5% YoY to $8.3B, vs. $8.08B est., TPV up 6% YoY to $443.5B, transactions down 5% YoY to 6.2B, active accounts up 2% YoY to 438M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250729/p10#a250729p10)
- - [Chinese crypto mining hardware maker Bitmain plans to open a new HQ and assembly line in either Texas or Florida by the end of Q3 and start production in 2026 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250729/p9#a250729p9)
- - [iPhone sales rise in China for the first time since late 2023](https://appleinsider.com/articles/25/07/29/iphone-sales-rise-in-china-for-the-first-time-since-late-2023?utm_source=rss)
- - [This Smart Basketball Tracks Data About Every Shot. It Could Be Headed to the NBA](https://www.wired.com/story/smart-basketball-tracks-every-shot-could-be-headed-to-the-nba/)<!-- TECH:END -->
+ - [Netgear’s new Wi-Fi 7 mesh system is its most affordable yet](https://www.theverge.com/news/715035/netgear-orbi-370-mesh-wi-fi-7-price-availability)
+ - [Spain widens App Store antitrust probe to examine pricing](https://appleinsider.com/articles/25/07/29/spain-widens-app-store-antitrust-probe-to-examine-pricing?utm_source=rss)
+ - [I Lived With Alexa+ for a Week. Here’s How It Went &lpar;2025&rpar;](https://www.wired.com/story/alexa-plus-hands-on/)
+ - [Trump’s AI plan is a massive handout to gas and chemical companies](https://www.theverge.com/climate-change/714900/trump-ai-plan-executive-order-handout-gas-coal-chemical-companies)
+ - [25 Best Cheap Watches Under $1,000 &lpar;2025&rpar;: Timex, Hamilton, and Seiko](https://www.wired.com/gallery/best-cheap-watches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

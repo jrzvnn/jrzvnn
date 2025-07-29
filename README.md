@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 38 Best Shows on Apple TV+ Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [An interview with Anthropic&#39;s Dario Amodei and how his father&#39;s passing from an illness, four years before a breakthrough made it 95% curable, shaped his path &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250729/p32#a250729p32)
- - [Sources: Apple loses a fourth AI researcher in a month to Meta&#39;s superintelligence team; the AFM team is in flux and Apple has marginally increased their pay &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250729/p31#a250729p31)
- - [Runway and Luma AI say they are talking to robotics and self-driving car companies about their video models and expect these revenue sources to eclipse studios &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250729/p30#a250729p30)
- - [Dead Apple M1 Pro chip reborn as $13 fashion accessory](https://appleinsider.com/articles/25/07/29/dead-apple-m1-pro-chip-reborn-as-13-fashion-accessory?utm_source=rss)<!-- TECH:END -->
+ - [No India tariff deal means Apple will face iPhone import fees eight times higher than before](https://appleinsider.com/articles/25/07/29/no-india-tariff-deal-means-apple-will-face-iphone-import-fees-eight-times-higher-than-before?utm_source=rss)
+ - [Sharge added a rechargeable battery to its sleek retractable charger](https://www.theverge.com/news/715463/sharge-retractable-3-in-1-power-bank-battery-charger)
+ - [ChatGPT’s new AI study mode won’t just give you the answer](https://www.theverge.com/news/715493/openai-chatgpt-ai-study-mode-answer)
+ - [Sony’s DualSense Edge is $30 off for a limited time](https://www.theverge.com/tech/715427/sony-dualsense-edge-deal-sale)
+ - [The chaos and confusion of Itch and Steam’s abrupt adult game ban](https://www.theverge.com/games/715299/itchio-games-delisting-payment-processor-paypal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

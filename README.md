@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple partner Hon Hai suspends trading pending market-moving announcement](https://appleinsider.com/articles/25/07/29/apple-partner-hon-hai-suspends-trading-pending-market-moving-announcement?utm_source=rss)
- - [A Secretive US Space Plane Will Soon Test Quantum Navigation Technology](https://www.wired.com/story/a-secretive-space-plane-is-set-to-launch-and-test-quantum-navigation-technology/)
- - [Nvidia Geforce RTX 5060 Review: Not Quite There](https://www.wired.com/review/nvidia-geforce-rtx-5060/)
- - [Filing: Bit Digital-owned AI infrastructure company Whitefiber seeks to raise $132.8M in an IPO, selling 7.8M shares for $15 to $17 for an up to $593M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p16#a250729p16)
- - [7 Best Reading Lights &lpar;2025&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)<!-- TECH:END -->
+ - [Ruth Wilson and Emma Thompson lead dark new thriller for Apple TV+](https://appleinsider.com/articles/25/07/29/ruth-wilson-and-emma-thompson-lead-dark-new-thriller-for-apple-tv?utm_source=rss)
+ - [Yelp is creating its own AI videos about restaurants](https://www.theverge.com/news/714944/yelp-ai-stitched-videos)
+ - [Tea, which claims to make dating safer for women, is the #2 app in the US App Store, despite multiple security flaws exposing private chats, photo IDs, and more &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/250729/p17#a250729p17)
+ - [The dangerously blurry line between wellness and medical tech](https://www.theverge.com/health/715102/dangerously-blurry-line-between-wellness-and-medical-tech)
+ - [Apple partner Hon Hai suspends trading pending market-moving announcement](https://appleinsider.com/articles/25/07/29/apple-partner-hon-hai-suspends-trading-pending-market-moving-announcement?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

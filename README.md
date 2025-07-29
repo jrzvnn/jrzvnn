@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
- - 😝 [I think I would have a different reaction](http://9gag.com/gag/aByowZZ)
- - 💣 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
+ - 😝 [For all the fatties.](http://9gag.com/gag/aGyb0N7)
+ - 😝 [Grandpa knows best, even on google earth](http://9gag.com/gag/a2vGdwd)
+ - 💣 [Why this stupidity????](http://9gag.com/gag/a5QDZyG)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
+ - 👉 [Psycho the rapist](http://9gag.com/gag/axy4VzW)<!-- MEMES:END -->
 
 ---
 

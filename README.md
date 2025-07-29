@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Anthropic is nearing a deal to raise $5B in a funding round led by Iconiq, valuing it at $170B; Anthropic was valued at $61.5B in March &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p26#a250729p26)
- - [ChatGPT’s Study Mode Is Here. It Won’t Fix Education’s AI Problems](https://www.wired.com/story/chatgpt-study-mode/)
- - [The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid](https://www.wired.com/story/the-pandemic-accelerated-brain-aging-even-in-people-who-never-got-covid/)
- - [Sparrow, which uses AI to consolidate fragmented leave management processes, raised a $35M Series B led by Silver Lake Waterman, for $64M in total funding &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250729/p25#a250729p25)
- - [Google’s NotebookLM can now make narrated slideshows with AI](https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai)<!-- TECH:END -->
+ - [Lawsuit accuses Apple Pay of taking unauthorized subscription payments](https://appleinsider.com/articles/25/07/29/lawsuit-accuses-apple-pay-of-taking-unauthorized-subscription-payments?utm_source=rss)
+ - [tvOS 18.6 improves speed &amp; stability for Apple TV users](https://appleinsider.com/articles/25/07/29/tvos-186-improves-speed-stability-for-apple-tv-users?utm_source=rss)
+ - [watchOS 11.6 brings security fixes &amp; performance boosts](https://appleinsider.com/articles/25/07/29/watchos-116-brings-security-fixes-performance-boosts?utm_source=rss)
+ - [OpenAI launches study mode in ChatGPT, designed to encourage students to engage with learning material, available to logged-in Free, Plus, Pro, and Team users &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250729/p27#a250729p27)
+ - [macOS Sequoia 18.6 update brings security improvements and bug fixes](https://appleinsider.com/articles/25/07/29/macos-sequoia-186-update-brings-security-improvements-and-bug-fixes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

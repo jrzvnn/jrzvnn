@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPhone 17 dummy models estimate how some expected colors may look](https://appleinsider.com/articles/25/07/29/new-iphone-17-dummy-models-estimate-how-some-expected-colors-may-look?utm_source=rss)
+ - [Australia says it will include YouTube in its ban on social media for children under 16 years of age, reversing an earlier decision to exempt the platform &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/250729/p44#a250729p44)
  - [Ofcom: YouTube is the second most-watched TV service in the UK, behind the BBC and ahead of ITV; one in five Gen Alpha viewers turn to YouTube first on their TV &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250729/p43#a250729p43)
  - [A profile of Luke Farritor, a 23-year-old Thiel Fellow who gained recognition for using AI to help decipher the Herculaneum papyri and later joined DOGE &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p42#a250729p42)
- - [YouTube tells creators they can drop more F-bombs](https://www.theverge.com/news/715658/youtube-swearing-profanity-f-bombs-monetization)
- - [Gov. Tim Walz activates the Minnesota National Guard to help St. Paul address a cyberattack detected Friday that led the city to shut down many of its systems &lpar;Ernesto Londoño/New York Times&rpar;](http://www.techmeme.com/250729/p41#a250729p41)
- - [Docs: Groq revised its 2025 revenue projections to $500M+ within the past month, citing delays in data center capacity, after projecting $2B+ earlier this year &lpar;The Information&rpar;](http://www.techmeme.com/250729/p40#a250729p40)<!-- TECH:END -->
+ - [YouTube tells creators they can drop more F-bombs](https://www.theverge.com/news/715658/youtube-swearing-profanity-f-bombs-monetization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

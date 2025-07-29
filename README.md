@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 😝 [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
- - 💣 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 😝 [Woods](http://9gag.com/gag/a87zMv1)
- - 👉 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)<!-- MEMES:END -->
+ - 😝 [Women](http://9gag.com/gag/aRBDevA)
+ - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
+ - 💣 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
+ - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - 👉 [Fellow Gen X weeb...](http://9gag.com/gag/a7oA7We)<!-- MEMES:END -->
 
 ---
 

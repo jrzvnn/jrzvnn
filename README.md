@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 😝 [Taxi 3 &lpar;2003&rpar;](http://9gag.com/gag/aPAnWzV)
- - 💣 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)
- - 😝 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
- - 👉 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)<!-- MEMES:END -->
+ - 😝 [Awesome! Here are a variety of funny title options across different themes for your video: --- Yeah i used chat gpt](http://9gag.com/gag/awyvV2W)
+ - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 💣 [When you are at the gas station and realize you are ron weasley](http://9gag.com/gag/amon8bX)
+ - 😝 [Okay okay](http://9gag.com/gag/aByo1DD)
+ - 👉 [Tit le](http://9gag.com/gag/a7oA7yb)<!-- MEMES:END -->
 
 ---
 

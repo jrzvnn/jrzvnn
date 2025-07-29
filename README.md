@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 😝 [Unbelievable](http://9gag.com/gag/aLnr9BW)
- - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 💣 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [For all the fatties.](http://9gag.com/gag/aGyb0N7)<!-- MEMES:END -->
+ - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
 
 ---
 

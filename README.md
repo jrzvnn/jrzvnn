@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China used its World AI Conference to assert its AI ambitions to an international audience, presenting an alternative to President Trump&#39;s &quot;America First&quot; plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p5#a250729p5)
  - [Waymo plans to launch its robotaxi service in Dallas in 2026 with Avis as the fleet partner, a first after exclusively working with Uber in Austin and Atlanta &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250729/p4#a250729p4)
  - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)
  - [Sony sues Tencent for copyright and trademark infringement in California federal court, accusing the Chinese tech giant of ripping off its Horizon game series &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250729/p3#a250729p3)
- - [Scammers Are Using Fake Lawyers and Court Dates to Steal Immigrants&#39; Money. Here&#39;s What to Look Out For](https://www.cnet.com/tech/services-and-software/scammers-are-using-fake-lawyers-and-court-dates-to-steal-immigrants-money-heres-what-to-look-out-for/#ftag=CAD590a51e)
- - [If You&#39;re Traveling to Another Country, You Need an eSim. Here&#39;s How You Can Snag a Free One for Your Next Trip](https://www.cnet.com/tech/mobile/if-youre-traveling-to-another-country-you-need-an-esim-heres-how-you-can-snag-a-free-one-for-your-next-trip/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scammers Are Using Fake Lawyers and Court Dates to Steal Immigrants&#39; Money. Here&#39;s What to Look Out For](https://www.cnet.com/tech/services-and-software/scammers-are-using-fake-lawyers-and-court-dates-to-steal-immigrants-money-heres-what-to-look-out-for/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

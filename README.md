@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aRBDevA)
- - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 😝 [Why this stupidity????](http://9gag.com/gag/a5QDZyG)
- - 👉 [Oof](http://9gag.com/gag/aByowgO)<!-- MEMES:END -->
+ - 😝 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
+ - 😝 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)
+ - 💣 [Who needs it anyway](http://9gag.com/gag/aLnrM2P)
+ - 😝 [Oops](http://9gag.com/gag/aE0En6o)
+ - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
 
 ---
 

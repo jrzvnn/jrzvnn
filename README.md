@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
- - 😝 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)
- - 💣 [Who needs it anyway](http://9gag.com/gag/aLnrM2P)
- - 😝 [Oops](http://9gag.com/gag/aE0En6o)
- - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
+ - 😝 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
+ - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 💣 [Alabama..](http://9gag.com/gag/a9yBYX0)
+ - 😝 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 

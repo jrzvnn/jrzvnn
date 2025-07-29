@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lovense was told its sex toy app leaked users’ emails and didn&amp;#8217;t fix it](https://www.theverge.com/news/715645/lovense-sex-toy-app-email-leak-vulnerability)
  - [macOS Sequoia 15.6 update brings security improvements and bug fixes](https://appleinsider.com/articles/25/07/29/macos-sequoia-186-update-brings-security-improvements-and-bug-fixes?utm_source=rss)
  - [Rare Apple memorabilia, Macs, &amp; more up for auction ending August 21](https://appleinsider.com/articles/25/07/29/rare-apple-memorabilia-macs-more-up-for-auction-ending-august-21?utm_source=rss)
  - [EA reports Q1 net bookings up 3% YoY to $1.3B, above $1.29B est., and forecasts Q2 net bookings of $1.8B to $1.9B, below estimates of $2.01B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250729/p37#a250729p37)
- - [Google rolls out new AI Mode features: Search Live with video input, Canvas for planning, image and PDF uploading, and AI Mode in Google Lens in desktop Chrome &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250729/p36#a250729p36)
- - [LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price](https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features)<!-- TECH:END -->
+ - [SpaceX&#39;s Crew-11 Is Heading to the ISS on July 31. Here&#39;s How to Watch](https://www.cnet.com/science/space/spacexs-crew-11-is-heading-to-the-iss-on-july-31-heres-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

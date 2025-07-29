@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netgear’s new Wi-Fi 7 mesh system is its most affordable yet](https://www.theverge.com/news/715035/netgear-orbi-370-mesh-wi-fi-7-price-availability)
- - [Spain widens App Store antitrust probe to examine pricing](https://appleinsider.com/articles/25/07/29/spain-widens-app-store-antitrust-probe-to-examine-pricing?utm_source=rss)
- - [I Lived With Alexa+ for a Week. Here’s How It Went &lpar;2025&rpar;](https://www.wired.com/story/alexa-plus-hands-on/)
- - [Trump’s AI plan is a massive handout to gas and chemical companies](https://www.theverge.com/climate-change/714900/trump-ai-plan-executive-order-handout-gas-coal-chemical-companies)
- - [25 Best Cheap Watches Under $1,000 &lpar;2025&rpar;: Timex, Hamilton, and Seiko](https://www.wired.com/gallery/best-cheap-watches/)<!-- TECH:END -->
+ - [Internal memo: Meta is piloting AI-enabled coding interviews, letting candidates use AI during the process, and asks for &quot;mock AI-enabled interview&quot; volunteers &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250729/p13#a250729p13)
+ - [Apple plans to open the Apple Manufacturing Academy in Detroit in August, run by Michigan State University, as Trump ramps up pressure to invest in the US &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250729/p12#a250729p12)
+ - [iOS 26 Message filtering upsetting fundraising politicians that want to annoy iPhone users](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)
+ - [Apple&#39;s delayed Siri update spawns another securities lawsuit](https://appleinsider.com/articles/25/07/29/apples-delayed-siri-update-spawns-another-securities-lawsuit?utm_source=rss)
+ - [Adobe rolls out new generative AI features for Photoshop to let users more easily add or remove people and objects, including &quot;Harmonize&quot; compositing, in beta &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250729/p11#a250729p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

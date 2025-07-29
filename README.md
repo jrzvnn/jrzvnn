@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opera files complaint against Microsoft’s tricks to make you use Edge](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
+ - [Sources: Groq is set to raise ~$600M in a funding round led by Disruptive, which committed more than $300M to the deal that would give Groq a ~$6B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250729/p35#a250729p35)
+ - [Apple nears $1 billion in Bay Area office space expansion in three months](https://appleinsider.com/articles/25/07/29/apple-nears-1-billion-in-bay-area-office-space-expansion-in-three-months?utm_source=rss)
+ - [Opera is filing a complaint over Microsoft&amp;#8217;s tricks that push you to use Edge](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
  - [&#39;28 Years Later&#39; director Danny Boyle discusses iPhone filmmaking benefits](https://appleinsider.com/articles/25/07/29/28-years-later-director-danny-boyle-discusses-iphone-filmmaking-benefits?utm_source=rss)
- - [Yelp is making AI videos about restaurants, using AI generated scripts and voice-overs based on reviews, incorporating pictures and videos posted by users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250729/p34#a250729p34)
- - [Wag, the pet care tech company once valued at ~$650M following a $300M investment from SoftBank Vision Fund in 2018, has filed for bankruptcy &lpar;Stephen Council/SFGATE&rpar;](http://www.techmeme.com/250729/p33#a250729p33)
- - [No India tariff deal means Apple will face iPhone import fees eight times higher than before](https://appleinsider.com/articles/25/07/29/no-india-tariff-deal-means-apple-will-face-iphone-import-fees-eight-times-higher-than-before?utm_source=rss)<!-- TECH:END -->
+ - [Yelp is making AI videos about restaurants, using AI generated scripts and voice-overs based on reviews, incorporating pictures and videos posted by users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250729/p34#a250729p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s NotebookLM can now make narrated slideshows with AI](https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai)
- - [Big Tech Asked for Looser Clean Water Act Permitting. Trump Wants to Give It to Them](https://www.wired.com/story/big-tech-asked-for-looser-clean-water-act-permitting-trump-wants-to-give-it-to-them/)
- - [Foldable iPhone Will Launch September 2026 for a Cool $1,999, Report Says](https://www.cnet.com/tech/mobile/foldable-iphone-will-launch-september-2026-for-a-cool-1999-report-says/#ftag=CAD590a51e)
- - [Buy a 2.4-inch Macintosh Plus before Apple stops you](https://appleinsider.com/articles/25/07/29/buy-a-24-inch-macintosh-plus-before-apple-stops-you?utm_source=rss)
- - [Sources: Palo Alto Networks is in talks to acquire Israeli cybersecurity company CyberArk Software; a typical premium could put the deal well above $20B &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p24#a250729p24)<!-- TECH:END -->
+ - [Sources: Anthropic is nearing a deal to raise $5B in a funding round led by Iconiq, valuing it at $170B; Anthropic was valued at $61.5B in March &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p26#a250729p26)
+ - [ChatGPT’s Study Mode Is Here. It Won’t Fix Education’s AI Problems](https://www.wired.com/story/chatgpt-study-mode/)
+ - [The Pandemic Appears to Have Accelerated Brain Aging, Even in People Who Never Got Covid](https://www.wired.com/story/the-pandemic-accelerated-brain-aging-even-in-people-who-never-got-covid/)
+ - [Sparrow, which uses AI to consolidate fragmented leave management processes, raised a $35M Series B led by Silver Lake Waterman, for $64M in total funding &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250729/p25#a250729p25)
+ - [Google’s NotebookLM can now make narrated slideshows with AI](https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

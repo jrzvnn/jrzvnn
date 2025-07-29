@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandpa knows best, even on google earth](http://9gag.com/gag/a2vGdwd)
- - 😝 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)
- - 💣 [Who needs it anyway](http://9gag.com/gag/aLnrM2P)
- - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 👉 [This dude actually got doxxed and sued by that african for doing this shit](http://9gag.com/gag/avymPrE)<!-- MEMES:END -->
+ - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - 💣 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 😝 [It&#39;s an awful day for rain](http://9gag.com/gag/ayNPdBq)
+ - 👉 [Oof](http://9gag.com/gag/aByowgO)<!-- MEMES:END -->
 
 ---
 

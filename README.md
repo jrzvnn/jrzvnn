@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Mark Zuckerberg mulls more shake-ups to Meta&#39;s AI strategy; he lost faith in Meta&#39;s AI team during the controversy over allegations it gamed benchmarks &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250729/p22#a250729p22)
- - [Sources: Microsoft is in advanced talks to land a deal that could give it ongoing access to critical OpenAI tech even if OpenAI reaches its goal of building AGI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p21#a250729p21)
- - [MLS and Liga MX face off in Leagues Cup 2025 on Apple TV](https://appleinsider.com/articles/25/07/29/mls-and-liga-mx-face-off-in-leagues-cup-2025-on-apple-tv?utm_source=rss)
- - [A survey of US adults: only ~40% report using AI for work and 60% say they use AI to find information at least some of the time, rising to 74% of under-30s &lpar;Associated Press&rpar;](http://www.techmeme.com/250729/p20#a250729p20)
- - [Google’s AI Mode update adds even more tools for students](https://www.theverge.com/news/715218/google-ai-mode-image-upload-canvas-update-students)<!-- TECH:END -->
+ - [Google’s NotebookLM can now make narrated slideshows with AI](https://www.theverge.com/news/715283/google-notebooklm-video-overviews-studio-ai)
+ - [Big Tech Asked for Looser Clean Water Act Permitting. Trump Wants to Give It to Them](https://www.wired.com/story/big-tech-asked-for-looser-clean-water-act-permitting-trump-wants-to-give-it-to-them/)
+ - [Foldable iPhone Will Launch September 2026 for a Cool $1,999, Report Says](https://www.cnet.com/tech/mobile/foldable-iphone-will-launch-september-2026-for-a-cool-1999-report-says/#ftag=CAD590a51e)
+ - [Buy a 2.4-inch Macintosh Plus before Apple stops you](https://appleinsider.com/articles/25/07/29/buy-a-24-inch-macintosh-plus-before-apple-stops-you?utm_source=rss)
+ - [Sources: Palo Alto Networks is in talks to acquire Israeli cybersecurity company CyberArk Software; a typical premium could put the deal well above $20B &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p24#a250729p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

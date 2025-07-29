@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US DOJ fired two of its most senior antitrust enforcers after disagreements related to defusing its lawsuit against HPE over its $14B Juniper deal &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p8#a250729p8)
+ - [Age Verification Laws Send VPN Use Soaring—and Threaten the Open Internet](https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/)
+ - [Spotify reports Q2 revenue up 10% YoY to €4.2B, MAUs up 11% YoY to 696M, subscribers up 12% YoY to 276M, and an €86M net loss; SPOT falls 5%+ pre-market &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p7#a250729p7)
  - [Sources: Quince, a DTC luxury brand that is viral on Instagram and TikTok, raised ~$200M led by Iconiq at a $4.5B valuation, after raising $120M in January 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p6#a250729p6)
- - [Psychedelic Therapy Crashed and Burned. MAHA Might Bring It Back](https://www.wired.com/story/psychedelic-therapy-mdma-maha/)
- - [China used its World AI Conference to assert its AI ambitions to an international audience, presenting an alternative to President Trump&#39;s &quot;America First&quot; plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p5#a250729p5)
- - [Waymo plans to launch its robotaxi service in Dallas in 2026 with Avis as the fleet partner, a first after exclusively working with Uber in Austin and Atlanta &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250729/p4#a250729p4)
- - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)<!-- TECH:END -->
+ - [Psychedelic Therapy Crashed and Burned. MAHA Might Bring It Back](https://www.wired.com/story/psychedelic-therapy-mdma-maha/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

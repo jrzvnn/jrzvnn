@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops](http://9gag.com/gag/aE0En6o)
- - 😝 [Who needs it anyway](http://9gag.com/gag/aLnrM2P)
- - 💣 [Unbelievable](http://9gag.com/gag/aLnr9BW)
+ - 😝 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 💣 [Impressive](http://9gag.com/gag/a6Z87jL)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
+ - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
 
 ---
 

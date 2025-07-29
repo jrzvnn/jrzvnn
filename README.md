@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Quince, a DTC luxury brand that is viral on Instagram and TikTok, raised ~$200M led by Iconiq at a $4.5B valuation, after raising $120M in January 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p6#a250729p6)
+ - [Psychedelic Therapy Crashed and Burned. MAHA Might Bring It Back](https://www.wired.com/story/psychedelic-therapy-mdma-maha/)
  - [China used its World AI Conference to assert its AI ambitions to an international audience, presenting an alternative to President Trump&#39;s &quot;America First&quot; plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p5#a250729p5)
  - [Waymo plans to launch its robotaxi service in Dallas in 2026 with Avis as the fleet partner, a first after exclusively working with Uber in Austin and Atlanta &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250729/p4#a250729p4)
- - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)
- - [Sony sues Tencent for copyright and trademark infringement in California federal court, accusing the Chinese tech giant of ripping off its Horizon game series &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250729/p3#a250729p3)
- - [Scammers Are Using Fake Lawyers and Court Dates to Steal Immigrants&#39; Money. Here&#39;s What to Look Out For](https://www.cnet.com/tech/services-and-software/scammers-are-using-fake-lawyers-and-court-dates-to-steal-immigrants-money-heres-what-to-look-out-for/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

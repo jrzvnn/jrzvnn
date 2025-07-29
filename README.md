@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alabama..](http://9gag.com/gag/a9yBYX0)
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - 💣 [Mountain of Caucasus](http://9gag.com/gag/aLnrB7P)
- - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [I got rid of the music. Not sure whatt happened before this started.](http://9gag.com/gag/abAE0MX)
+ - 💣 [It&#39;s always the men&#39;s fault](http://9gag.com/gag/a5QD7mo)
+ - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 👉 [Woods](http://9gag.com/gag/a87zMv1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price](https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features)
  - [Sources: Groq is set to raise ~$600M in a funding round led by Disruptive, which committed more than $300M to the deal that would give Groq a ~$6B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250729/p35#a250729p35)
  - [Apple nears $1 billion in Bay Area office space expansion in three months](https://appleinsider.com/articles/25/07/29/apple-nears-1-billion-in-bay-area-office-space-expansion-in-three-months?utm_source=rss)
  - [Opera is filing a complaint over Microsoft&amp;#8217;s tricks that push you to use Edge](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
- - [&#39;28 Years Later&#39; director Danny Boyle discusses iPhone filmmaking benefits](https://appleinsider.com/articles/25/07/29/28-years-later-director-danny-boyle-discusses-iphone-filmmaking-benefits?utm_source=rss)
- - [Yelp is making AI videos about restaurants, using AI generated scripts and voice-overs based on reviews, incorporating pictures and videos posted by users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250729/p34#a250729p34)<!-- TECH:END -->
+ - [&#39;28 Years Later&#39; director Danny Boyle discusses iPhone filmmaking benefits](https://appleinsider.com/articles/25/07/29/28-years-later-director-danny-boyle-discusses-iphone-filmmaking-benefits?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

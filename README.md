@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US DOJ fired two of its most senior antitrust enforcers after disagreements related to defusing its lawsuit against HPE over its $14B Juniper deal &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p8#a250729p8)
- - [Age Verification Laws Send VPN Use Soaring—and Threaten the Open Internet](https://www.wired.com/story/vpn-use-spike-age-verification-laws-uk/)
- - [Spotify reports Q2 revenue up 10% YoY to €4.2B, MAUs up 11% YoY to 696M, subscribers up 12% YoY to 276M, and an €86M net loss; SPOT falls 5%+ pre-market &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p7#a250729p7)
- - [Sources: Quince, a DTC luxury brand that is viral on Instagram and TikTok, raised ~$200M led by Iconiq at a $4.5B valuation, after raising $120M in January 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p6#a250729p6)
- - [Psychedelic Therapy Crashed and Burned. MAHA Might Bring It Back](https://www.wired.com/story/psychedelic-therapy-mdma-maha/)<!-- TECH:END -->
+ - [PayPal reports Q2 net revenue up 5% YoY to $8.3B, vs. $8.08B est., TPV up 6% YoY to $443.5B, transactions down 5% YoY to 6.2B, active accounts up 2% YoY to 438M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250729/p10#a250729p10)
+ - [Chinese crypto mining hardware maker Bitmain plans to open a new HQ and assembly line in either Texas or Florida by the end of Q3 and start production in 2026 &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250729/p9#a250729p9)
+ - [iPhone sales rise in China for the first time since late 2023](https://appleinsider.com/articles/25/07/29/iphone-sales-rise-in-china-for-the-first-time-since-late-2023?utm_source=rss)
+ - [This Smart Basketball Tracks Data About Every Shot. It Could Be Headed to the NBA](https://www.wired.com/story/smart-basketball-tracks-every-shot-could-be-headed-to-the-nba/)
+ - [I Lived With Alexa+ for a Week. Here’s How It Went &lpar;2025&rpar;](https://www.wired.com/story/alexa-plus-hands-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

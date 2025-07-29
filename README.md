@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opera files complaint against Microsoft’s tricks to make you use Edge](https://www.theverge.com/news/715082/opera-microsoft-competition-complaint-edge-windows-tricks)
+ - [&#39;28 Years Later&#39; director Danny Boyle discusses iPhone filmmaking benefits](https://appleinsider.com/articles/25/07/29/28-years-later-director-danny-boyle-discusses-iphone-filmmaking-benefits?utm_source=rss)
  - [Yelp is making AI videos about restaurants, using AI generated scripts and voice-overs based on reviews, incorporating pictures and videos posted by users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250729/p34#a250729p34)
  - [Wag, the pet care tech company once valued at ~$650M following a $300M investment from SoftBank Vision Fund in 2018, has filed for bankruptcy &lpar;Stephen Council/SFGATE&rpar;](http://www.techmeme.com/250729/p33#a250729p33)
- - [No India tariff deal means Apple will face iPhone import fees eight times higher than before](https://appleinsider.com/articles/25/07/29/no-india-tariff-deal-means-apple-will-face-iphone-import-fees-eight-times-higher-than-before?utm_source=rss)
- - [Sharge added a rechargeable battery to its sleek retractable charger](https://www.theverge.com/news/715463/sharge-retractable-3-in-1-power-bank-battery-charger)
- - [ChatGPT’s new AI study mode won’t just give you the answer](https://www.theverge.com/news/715493/openai-chatgpt-ai-study-mode-answer)<!-- TECH:END -->
+ - [No India tariff deal means Apple will face iPhone import fees eight times higher than before](https://appleinsider.com/articles/25/07/29/no-india-tariff-deal-means-apple-will-face-iphone-import-fees-eight-times-higher-than-before?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

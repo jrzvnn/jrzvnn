@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple partner Hon Hai suspends trading pending market-moving announcement](https://appleinsider.com/articles/25/07/29/apple-partner-hon-hai-suspends-trading-pending-market-moving-announcement?utm_source=rss)
+ - [A Secretive US Space Plane Will Soon Test Quantum Navigation Technology](https://www.wired.com/story/a-secretive-space-plane-is-set-to-launch-and-test-quantum-navigation-technology/)
  - [Nvidia Geforce RTX 5060 Review: Not Quite There](https://www.wired.com/review/nvidia-geforce-rtx-5060/)
  - [Filing: Bit Digital-owned AI infrastructure company Whitefiber seeks to raise $132.8M in an IPO, selling 7.8M shares for $15 to $17 for an up to $593M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p16#a250729p16)
- - [7 Best Reading Lights &lpar;2025&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)
- - [What&amp;#8217;s on your desk, Cameron Faulkner?](https://www.theverge.com/tech/712619/desk-home-office-coins)
- - [Google Workspace is rolling out a security update to stop token stealing attacks](https://www.theverge.com/news/715117/google-workspace-dbsc-cookie-stealing-attack)<!-- TECH:END -->
+ - [7 Best Reading Lights &lpar;2025&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube will identify and restrict minors’ accounts with AI](https://www.theverge.com/news/715343/youtube-age-estimation-ai-minor-account-restrictions)
+ - [YouTube is rolling out age estimation tech in the US to identify teen users and serve more age-appropriate content, regardless of the birthday given at signup &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250729/p28#a250729p28)
  - [Lawsuit accuses Apple Pay of taking unauthorized subscription payments](https://appleinsider.com/articles/25/07/29/lawsuit-accuses-apple-pay-of-taking-unauthorized-subscription-payments?utm_source=rss)
  - [tvOS 18.6 improves speed &amp; stability for Apple TV users](https://appleinsider.com/articles/25/07/29/tvos-186-improves-speed-stability-for-apple-tv-users?utm_source=rss)
- - [watchOS 11.6 brings security fixes &amp; performance boosts](https://appleinsider.com/articles/25/07/29/watchos-116-brings-security-fixes-performance-boosts?utm_source=rss)
- - [OpenAI launches study mode in ChatGPT, designed to encourage students to engage with learning material, available to logged-in Free, Plus, Pro, and Team users &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250729/p27#a250729p27)
- - [macOS Sequoia 18.6 update brings security improvements and bug fixes](https://appleinsider.com/articles/25/07/29/macos-sequoia-186-update-brings-security-improvements-and-bug-fixes?utm_source=rss)<!-- TECH:END -->
+ - [watchOS 11.6 brings security fixes &amp; performance boosts](https://appleinsider.com/articles/25/07/29/watchos-116-brings-security-fixes-performance-boosts?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

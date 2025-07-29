@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
- - 😝 [Who is in the wrong?](http://9gag.com/gag/adBbj4Z)
- - 💣 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
- - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
- - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
+ - 😝 [Grandpa knows best, even on google earth](http://9gag.com/gag/a2vGdwd)
+ - 😝 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)
+ - 💣 [Who needs it anyway](http://9gag.com/gag/aLnrM2P)
+ - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 👉 [This dude actually got doxxed and sued by that african for doing this shit](http://9gag.com/gag/avymPrE)<!-- MEMES:END -->
 
 ---
 

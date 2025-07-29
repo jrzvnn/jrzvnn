@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 😝 [Impressive](http://9gag.com/gag/a6Z87jL)
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
- - 😝 [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 👉 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)<!-- MEMES:END -->
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
+ - 💣 [Impressive](http://9gag.com/gag/a6Z87jL)
+ - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
+ - 👉 [C. Can&#39;t Tell](http://9gag.com/gag/aND3dyb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aRBDevA)
- - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
- - 👉 [Macross Plus 1995, legendary anime](http://9gag.com/gag/axy4Gxp)<!-- MEMES:END -->
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 😝 [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
+ - 💣 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 😝 [Woods](http://9gag.com/gag/a87zMv1)
+ - 👉 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)<!-- MEMES:END -->
 
 ---
 

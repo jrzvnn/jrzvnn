@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
  - 😝 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
- - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 💣 [Alabama..](http://9gag.com/gag/a9yBYX0)
- - 😝 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
- - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aRBDevA)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 👉 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)<!-- MEMES:END -->
 
 ---
 

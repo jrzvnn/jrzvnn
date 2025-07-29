@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
+ - 😝 [Unbelievable](http://9gag.com/gag/aLnr9BW)
+ - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [FYI](http://9gag.com/gag/aqyAryQ)<!-- MEMES:END -->
+ - 👉 [For all the fatties.](http://9gag.com/gag/aGyb0N7)<!-- MEMES:END -->
 
 ---
 

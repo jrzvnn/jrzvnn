@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
- - 😝 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
- - 💣 [Women](http://9gag.com/gag/aRBDevA)
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 👉 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)<!-- MEMES:END -->
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 😝 [Impressive](http://9gag.com/gag/a6Z87jL)
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - 👉 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)<!-- MEMES:END -->
 
 ---
 

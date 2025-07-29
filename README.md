@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Message filtering in iOS 26 upsetting politicians that want to annoy iPhone customers](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)
- - [Sources: Coinbase is in advanced talks to acquire CoinDCX, potentially valuing the Indian crypto exchange at less than $1B, below its 2022 $2.15B valuation &lpar;Pankaj Mishra/Livemint&rpar;](http://www.techmeme.com/250728/p30#a250728p30)
- - [Edifier NeoBuds Planar review: Great-sounding Earbuds with a pricing problem](https://appleinsider.com/articles/25/07/29/edifier-neobuds-planar-review-great-sounding-earbuds-with-a-pricing-problem?utm_source=rss)
- - [A second security breach at Tea exposes more than 1.1M user messages, dating from early 2023 to as recently as last week, many containing sensitive information &lpar;404 Media&rpar;](http://www.techmeme.com/250728/p29#a250728p29)
- - [BlinkOps, which provides AI agents for cybersecurity tasks like managing identity access and patching bugs, raised a $50M Series B led by OG Venture Partners &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250728/p28#a250728p28)<!-- TECH:END -->
+ - [How to build your own online e-book library using Calibre](https://appleinsider.com/inside/macos/tips/how-to-build-your-own-online-e-book-library-using-calibre?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, July 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-29/#ftag=CAD590a51e)
+ - [I Hate When Steam Drops for Maintenance, but Now I Know When to Likely Avoid It](https://www.cnet.com/tech/gaming/i-hate-when-steam-drops-for-maintenance-but-now-i-know-when-to-likely-avoid-it/#ftag=CAD590a51e)
+ - [Julius AI, which acts like a data scientist by analyzing data and running predictive models from natural language prompts, raised a $10M seed led by Bessemer &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250728/p32#a250728p32)
+ - [Google will roll out AI Mode in the UK in the coming days after launching in the US and India; the optional feature will appear as a tab and in the search box &lpar;Zoe Kleinman/BBC&rpar;](http://www.techmeme.com/250728/p31#a250728p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

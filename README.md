@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Women](http://9gag.com/gag/aRBDevA)
- - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
- - 💣 [Being the cool mom, but also being a mom](http://9gag.com/gag/aO8Gvvv)
  - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 👉 [Fellow Gen X weeb...](http://9gag.com/gag/a7oA7We)<!-- MEMES:END -->
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 💣 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
+ - 😝 [FYI](http://9gag.com/gag/aqyAryQ)
+ - 👉 [Women](http://9gag.com/gag/aRBDevA)<!-- MEMES:END -->
 
 ---
 

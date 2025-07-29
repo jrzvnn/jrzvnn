@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlinkOps, which provides AI agents for cybersecurity tasks like managing identity access and patching bugs, raised a $50M Series B led by OG Venture Partners &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250728/p28#a250728p28)
- - [SAVE Student Loan Borrowers, Interest Restarts on Friday. Should You Move to IBR Now?](https://www.cnet.com/personal-finance/loans/save-student-loan-borrowers-interest-restarts-on-friday-should-you-move-to-ibr-now/#ftag=CAD590a51e)
- - [Harmonic, an AI math startup co-founded by Robinhood CEO Vlad Tenev, unveils its model Aristotle, saying it achieved gold medal performance on the 2025 IMO &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250728/p27#a250728p27)
- - [Flexport announces it is selling Convoy&#39;s tech to DAT Freight &amp; Analytics, after acquiring the digital freight startup&#39;s tech stack in late 2023 &lpar;John Kingston/FreightWaves&rpar;](http://www.techmeme.com/250728/p26#a250728p26)
- - [Salient, which uses AI to automate the post-loan origination process for lenders, raised a $60M Series A led by a16z, a source says at a $350M valuation &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250728/p25#a250728p25)<!-- TECH:END -->
+ - [Message filtering in iOS 26 upsetting politicians that want to annoy iPhone customers](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)
+ - [Sources: Coinbase is in advanced talks to acquire CoinDCX, potentially valuing the Indian crypto exchange at less than $1B, below its 2022 $2.15B valuation &lpar;Pankaj Mishra/Livemint&rpar;](http://www.techmeme.com/250728/p30#a250728p30)
+ - [Edifier NeoBuds Planar review: Great-sounding Earbuds with a pricing problem](https://appleinsider.com/articles/25/07/29/edifier-neobuds-planar-review-great-sounding-earbuds-with-a-pricing-problem?utm_source=rss)
+ - [A second security breach at Tea exposes more than 1.1M user messages, dating from early 2023 to as recently as last week, many containing sensitive information &lpar;404 Media&rpar;](http://www.techmeme.com/250728/p29#a250728p29)
+ - [BlinkOps, which provides AI agents for cybersecurity tasks like managing identity access and patching bugs, raised a $50M Series B led by OG Venture Partners &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250728/p28#a250728p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

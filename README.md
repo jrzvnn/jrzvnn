@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docs: Groq revised its 2025 revenue projections to $500M+ within the past month, citing delays in data center capacity, after projecting $2B+ earlier this year &lpar;The Information&rpar;](http://www.techmeme.com/250729/p40#a250729p40)
+ - [Daniel Ek says Spotify&#39;s ad business has &quot;been moving too slowly&quot;; Spotify ad chief Lee Brown left on July 28 to join DoorDash as its chief revenue officer &lpar;Catherine Perloff/The Information&rpar;](http://www.techmeme.com/250729/p39#a250729p39)
+ - [The US SEC approves in-kind creations and redemptions for crypto ETFs, allowing institutional investors to exchange ETF shares for the underlying BTC or ETH &lpar;André Beganski/Decrypt&rpar;](http://www.techmeme.com/250729/p38#a250729p38)
  - [Lovense was told its sex toy app leaked users’ emails and didn&amp;#8217;t fix it](https://www.theverge.com/news/715645/lovense-sex-toy-app-email-leak-vulnerability)
- - [macOS Sequoia 15.6 update brings security improvements and bug fixes](https://appleinsider.com/articles/25/07/29/macos-sequoia-186-update-brings-security-improvements-and-bug-fixes?utm_source=rss)
- - [Rare Apple memorabilia, Macs, &amp; more up for auction ending August 21](https://appleinsider.com/articles/25/07/29/rare-apple-memorabilia-macs-more-up-for-auction-ending-august-21?utm_source=rss)
- - [EA reports Q1 net bookings up 3% YoY to $1.3B, above $1.29B est., and forecasts Q2 net bookings of $1.8B to $1.9B, below estimates of $2.01B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250729/p37#a250729p37)
- - [SpaceX&#39;s Crew-11 Is Heading to the ISS on July 31. Here&#39;s How to Watch](https://www.cnet.com/science/space/spacexs-crew-11-is-heading-to-the-iss-on-july-31-heres-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [macOS Sequoia 15.6 update brings security improvements and bug fixes](https://appleinsider.com/articles/25/07/29/macos-sequoia-186-update-brings-security-improvements-and-bug-fixes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

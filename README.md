@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facecam 4K gives Mac users DSLR-style webcam video with real filters](https://appleinsider.com/articles/25/07/29/facecam-4k-gives-mac-users-dslr-style-webcam-video-with-real-filters?utm_source=rss)
- - [Block-owned Cash App unveils Pools, a new peer-to-peer feature for group payments, and says users can accept contributions via Apple Pay or Google Pay, a first &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250729/p15#a250729p15)
- - [One of Nintendo’s most creative Super Nintendo games is now on the Switch](https://www.theverge.com/news/715104/nintendo-mario-paint-super-nintendo-switch-2-online-mouse-mode)
- - [Ambience Healthcare, which uses AI to automate administrative tasks for medical professionals, raised $243M led by a16z and Oak HC/FT at a $1B+ valuation &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250729/p14#a250729p14)
- - [New Apple-funded program teaches manufacturing to US firms](https://appleinsider.com/articles/25/07/29/new-apple-funded-program-teaches-manufacturing-to-us-firms?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia Geforce RTX 5060 Review: Not Quite There](https://www.wired.com/review/nvidia-geforce-rtx-5060/)
+ - [Filing: Bit Digital-owned AI infrastructure company Whitefiber seeks to raise $132.8M in an IPO, selling 7.8M shares for $15 to $17 for an up to $593M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p16#a250729p16)
+ - [7 Best Reading Lights &lpar;2025&rpar;: Clip-On, Rechargeable, Portable](https://www.wired.com/gallery/best-reading-lights/)
+ - [What&amp;#8217;s on your desk, Cameron Faulkner?](https://www.theverge.com/tech/712619/desk-home-office-coins)
+ - [Google Workspace is rolling out a security update to stop token stealing attacks](https://www.theverge.com/news/715117/google-workspace-dbsc-cookie-stealing-attack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

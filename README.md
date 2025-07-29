@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPhone 17 Pro MagSafe redesign shown in leaked image](https://appleinsider.com/articles/25/07/29/new-iphone-17-pro-magsafe-redesign-shown-in-leaked-image?utm_source=rss)
- - [Sources: Figma&#39;s IPO, which could raise as much as $1.2B after Figma raised its range to $30 to $32 per share on July 28, is approaching 40 times oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250729/p19#a250729p19)
- - [JPMorgan Chase is the hot favorite for Apple Card takeover](https://appleinsider.com/articles/25/07/29/jpmorgan-chase-is-the-hot-favorite-for-apple-card-takeover?utm_source=rss)
- - [Sources: JPMorgan Chase is in advanced talks to take over Apple&#39;s credit-card program from Goldman Sachs, with Apple telling JPMorgan it is its preferred choice &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p18#a250729p18)
- - [Spain widens App Store antitrust probe to examine pricing](https://appleinsider.com/articles/25/07/29/spain-widens-app-store-antitrust-probe-to-examine-pricing?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg mulls more shake-ups to Meta&#39;s AI strategy; he lost faith in Meta&#39;s AI team during the controversy over allegations it gamed benchmarks &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250729/p22#a250729p22)
+ - [Sources: Microsoft is in advanced talks to land a deal that could give it ongoing access to critical OpenAI tech even if OpenAI reaches its goal of building AGI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p21#a250729p21)
+ - [MLS and Liga MX face off in Leagues Cup 2025 on Apple TV](https://appleinsider.com/articles/25/07/29/mls-and-liga-mx-face-off-in-leagues-cup-2025-on-apple-tv?utm_source=rss)
+ - [A survey of US adults: only ~40% report using AI for work and 60% say they use AI to find information at least some of the time, rising to 74% of under-30s &lpar;Associated Press&rpar;](http://www.techmeme.com/250729/p20#a250729p20)
+ - [Google’s AI Mode update adds even more tools for students](https://www.theverge.com/news/715218/google-ai-mode-image-upload-canvas-update-students)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

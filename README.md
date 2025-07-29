@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 💣 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
  - 👉 [FYI](http://9gag.com/gag/aqyAryQ)<!-- MEMES:END -->
 

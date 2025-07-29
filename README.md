@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 😝 [Women](http://9gag.com/gag/aRBDevA)
+ - 😝 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)
+ - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
  - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
- - 💣 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
- - 😝 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
- - 👉 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)<!-- MEMES:END -->
+ - 👉 [Macross Plus 1995, legendary anime](http://9gag.com/gag/axy4Gxp)<!-- MEMES:END -->
 
 ---
 

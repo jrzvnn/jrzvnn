@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
- - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
- - 😝 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
- - 👉 [Alabama..](http://9gag.com/gag/a9yBYX0)<!-- MEMES:END -->
+ - 😝 [Alabama..](http://9gag.com/gag/a9yBYX0)
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 💣 [Mountain of Caucasus](http://9gag.com/gag/aLnrB7P)
+ - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
+ - 👉 [It&#39;s a waste of money](http://9gag.com/gag/aVvBe1M)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
- - [LG Promo Codes: 20% Off | July 2025](https://www.wired.com/story/lg-promo-code/)
- - [Athens-based defense tech startup Delian Alliance Industries, which makes its own hardware, software, and sensor fusion systems, raised a $14M Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p2#a250729p2)
- - [Samsung Promo Codes: 30% Off | July 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Waymo plans to launch its robotaxi service in Dallas in 2026 with Avis as the fleet partner, a first after exclusively working with Uber in Austin and Atlanta &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250729/p4#a250729p4)
+ - [The Real Demon Inside ChatGPT](https://www.wired.com/story/chatgpt-devil-worship-llm-training/)
+ - [Sony sues Tencent for copyright and trademark infringement in California federal court, accusing the Chinese tech giant of ripping off its Horizon game series &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250729/p3#a250729p3)
+ - [Scammers Are Using Fake Lawyers and Court Dates to Steal Immigrants&#39; Money. Here&#39;s What to Look Out For](https://www.cnet.com/tech/services-and-software/scammers-are-using-fake-lawyers-and-court-dates-to-steal-immigrants-money-heres-what-to-look-out-for/#ftag=CAD590a51e)
+ - [If You&#39;re Traveling to Another Country, You Need an eSim. Here&#39;s How You Can Snag a Free One for Your Next Trip](https://www.cnet.com/tech/mobile/if-youre-traveling-to-another-country-you-need-an-esim-heres-how-you-can-snag-a-free-one-for-your-next-trip/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

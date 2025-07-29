@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ruth Wilson and Emma Thompson lead dark new thriller for Apple TV+](https://appleinsider.com/articles/25/07/29/ruth-wilson-and-emma-thompson-lead-dark-new-thriller-for-apple-tv?utm_source=rss)
- - [Yelp is creating its own AI videos about restaurants](https://www.theverge.com/news/714944/yelp-ai-stitched-videos)
- - [Tea, which claims to make dating safer for women, is the #2 app in the US App Store, despite multiple security flaws exposing private chats, photo IDs, and more &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/250729/p17#a250729p17)
- - [The dangerously blurry line between wellness and medical tech](https://www.theverge.com/health/715102/dangerously-blurry-line-between-wellness-and-medical-tech)
- - [Apple partner Hon Hai suspends trading pending market-moving announcement](https://appleinsider.com/articles/25/07/29/apple-partner-hon-hai-suspends-trading-pending-market-moving-announcement?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Figma&#39;s IPO, which could raise as much as $1.2B after Figma raised its range to $30 to $32 per share on July 28, is approaching 40 times oversubscribed &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250729/p19#a250729p19)
+ - [JPMorgan Chase is the hot favorite for Apple Card takeover](https://appleinsider.com/articles/25/07/29/jpmorgan-chase-is-the-hot-favorite-for-apple-card-takeover?utm_source=rss)
+ - [Sources: JPMorgan Chase is in advanced talks to take over Apple&#39;s credit-card program from Goldman Sachs, with Apple telling JPMorgan it is its preferred choice &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/250729/p18#a250729p18)
+ - [Spain widens App Store antitrust probe to examine pricing](https://appleinsider.com/articles/25/07/29/spain-widens-app-store-antitrust-probe-to-examine-pricing?utm_source=rss)
+ - [Ruth Wilson and Emma Thompson lead dark new thriller for Apple TV+](https://appleinsider.com/articles/25/07/29/ruth-wilson-and-emma-thompson-lead-dark-new-thriller-for-apple-tv?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

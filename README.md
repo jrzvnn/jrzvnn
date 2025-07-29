@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is the joke](http://9gag.com/gag/aLnr9RP)
- - 😝 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
- - 💣 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)
- - 😝 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)
- - 👉 [This dude actually got doxxed and sued by that african for doing this shit](http://9gag.com/gag/avymPrE)<!-- MEMES:END -->
+ - 😝 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
+ - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [She&#39;s a keeper](http://9gag.com/gag/a4PVjnd)
+ - 👉 [Alabama..](http://9gag.com/gag/a9yBYX0)<!-- MEMES:END -->
 
 ---
 

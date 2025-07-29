@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awesome! Here are a variety of funny title options across different themes for your video: --- Yeah i used chat gpt](http://9gag.com/gag/awyvV2W)
- - 😝 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 💣 [When you are at the gas station and realize you are ron weasley](http://9gag.com/gag/amon8bX)
- - 😝 [Okay okay](http://9gag.com/gag/aByo1DD)
- - 👉 [Tit le](http://9gag.com/gag/a7oA7yb)<!-- MEMES:END -->
+ - 😝 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 😝 [Bro got a little too excited](http://9gag.com/gag/a0ewYrZ)
+ - 👉 [Woods](http://9gag.com/gag/a87zMv1)<!-- MEMES:END -->
 
 ---
 

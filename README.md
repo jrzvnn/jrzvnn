@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impressive](http://9gag.com/gag/a6Z87jL)
- - 😝 [Tea app leak tldr](http://9gag.com/gag/a87zMLe)
- - 💣 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - 👉 [Woods](http://9gag.com/gag/a87zMv1)<!-- MEMES:END -->
+ - 😝 [This is the joke](http://9gag.com/gag/aLnr9RP)
+ - 😝 [Taxi 3 &lpar;2003&rpar;](http://9gag.com/gag/aPAnWzV)
+ - 💣 [Tasks failed successfully](http://9gag.com/gag/a0ewjKz)
+ - 😝 [How to blue screen a guy](http://9gag.com/gag/aqyALpv)
+ - 👉 [Broadcasting live from the bottom of the Argentine sea. I saw it. You saw it.](http://9gag.com/gag/aXPe93v)<!-- MEMES:END -->
 
 ---
 

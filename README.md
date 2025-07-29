@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Meta is piloting AI-enabled coding interviews, letting candidates use AI during the process, and asks for &quot;mock AI-enabled interview&quot; volunteers &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/250729/p13#a250729p13)
- - [Apple plans to open the Apple Manufacturing Academy in Detroit in August, run by Michigan State University, as Trump ramps up pressure to invest in the US &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250729/p12#a250729p12)
- - [iOS 26 Message filtering upsetting fundraising politicians that want to annoy iPhone users](https://appleinsider.com/articles/25/07/29/message-filtering-in-ios-26-upsetting-politicians-that-want-to-annoy-iphone-customers?utm_source=rss)
- - [Apple&#39;s delayed Siri update spawns another securities lawsuit](https://appleinsider.com/articles/25/07/29/apples-delayed-siri-update-spawns-another-securities-lawsuit?utm_source=rss)
- - [Adobe rolls out new generative AI features for Photoshop to let users more easily add or remove people and objects, including &quot;Harmonize&quot; compositing, in beta &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250729/p11#a250729p11)<!-- TECH:END -->
+ - [Facecam 4K gives Mac users DSLR-style webcam video with real filters](https://appleinsider.com/articles/25/07/29/facecam-4k-gives-mac-users-dslr-style-webcam-video-with-real-filters?utm_source=rss)
+ - [Block-owned Cash App unveils Pools, a new peer-to-peer feature for group payments, and says users can accept contributions via Apple Pay or Google Pay, a first &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250729/p15#a250729p15)
+ - [One of Nintendo’s most creative Super Nintendo games is now on the Switch](https://www.theverge.com/news/715104/nintendo-mario-paint-super-nintendo-switch-2-online-mouse-mode)
+ - [Ambience Healthcare, which uses AI to automate administrative tasks for medical professionals, raised $243M led by a16z and Oak HC/FT at a $1B+ valuation &lpar;Brunella Tipismana Urbano/Bloomberg&rpar;](http://www.techmeme.com/250729/p14#a250729p14)
+ - [New Apple-funded program teaches manufacturing to US firms](https://appleinsider.com/articles/25/07/29/new-apple-funded-program-teaches-manufacturing-to-us-firms?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

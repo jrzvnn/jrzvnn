@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For all the fatties.](http://9gag.com/gag/aGyb0N7)
- - 😝 [Grandpa knows best, even on google earth](http://9gag.com/gag/a2vGdwd)
- - 💣 [Why this stupidity????](http://9gag.com/gag/a5QDZyG)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 💣 [Just trust the man](http://9gag.com/gag/awyv5Ar)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Psycho the rapist](http://9gag.com/gag/axy4VzW)<!-- MEMES:END -->
+ - 👉 [Surprised Pikachu literally](http://9gag.com/gag/aByoWOZ)<!-- MEMES:END -->
 
 ---
 

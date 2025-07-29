@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 😝 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
+ - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
+ - 😝 [I think I would have a different reaction](http://9gag.com/gag/aByowZZ)
  - 💣 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
+ - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
 
 ---
 

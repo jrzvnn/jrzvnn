@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
  - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
- - 💣 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 💣 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
  - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
 

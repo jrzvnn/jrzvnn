@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 😝 [I got rid of the music. Not sure whatt happened before this started.](http://9gag.com/gag/abAE0MX)
- - 💣 [It&#39;s always the men&#39;s fault](http://9gag.com/gag/a5QD7mo)
+ - 😝 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
  - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 👉 [Woods](http://9gag.com/gag/a87zMv1)<!-- MEMES:END -->
+ - 💣 [Airbnb is cancer, its the main reason rents skyrocketed](http://9gag.com/gag/aryzKGy)
+ - 😝 [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
+ - 👉 [Does she moo too?](http://9gag.com/gag/a9yBWP0)<!-- MEMES:END -->
 
 ---
 

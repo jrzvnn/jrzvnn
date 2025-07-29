@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dead Apple M1 Pro chip reborn as $13 fashion accessory](https://appleinsider.com/articles/25/07/29/dead-apple-m1-pro-chip-reborn-as-13-fashion-accessory?utm_source=rss)
+ - [Apple&#39;s AI brain drain continues as fourth researcher goes to Meta](https://appleinsider.com/articles/25/07/29/apples-ai-brain-drain-continues-as-fourth-researcher-goes-to-meta?utm_source=rss)
+ - [Source: over a dozen people at Thinking Machines Lab were approached by Meta; one offer was $1B+ over a multi-year span; not a single person has taken the offer &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250729/p29#a250729p29)
  - [YouTube will identify and restrict minors’ accounts with AI](https://www.theverge.com/news/715343/youtube-age-estimation-ai-minor-account-restrictions)
- - [YouTube is rolling out age estimation tech in the US to identify teen users and serve more age-appropriate content, regardless of the birthday given at signup &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250729/p28#a250729p28)
- - [Lawsuit accuses Apple Pay of taking unauthorized subscription payments](https://appleinsider.com/articles/25/07/29/lawsuit-accuses-apple-pay-of-taking-unauthorized-subscription-payments?utm_source=rss)
- - [tvOS 18.6 improves speed &amp; stability for Apple TV users](https://appleinsider.com/articles/25/07/29/tvos-186-improves-speed-stability-for-apple-tv-users?utm_source=rss)
- - [watchOS 11.6 brings security fixes &amp; performance boosts](https://appleinsider.com/articles/25/07/29/watchos-116-brings-security-fixes-performance-boosts?utm_source=rss)<!-- TECH:END -->
+ - [YouTube is rolling out age estimation tech in the US to identify teen users and serve more age-appropriate content, regardless of the birthday given at signup &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250729/p28#a250729p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a typical tuesday at the nope rope factory](http://9gag.com/gag/a9yB7oK)
+ - 😝 [Women](http://9gag.com/gag/aRBDevA)
  - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 💣 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
- - 😝 [It&#39;s an awful day for rain](http://9gag.com/gag/ayNPdBq)
+ - 💣 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 😝 [Why this stupidity????](http://9gag.com/gag/a5QDZyG)
  - 👉 [Oof](http://9gag.com/gag/aByowgO)<!-- MEMES:END -->
 
 ---

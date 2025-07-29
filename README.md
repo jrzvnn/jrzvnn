@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
+ - 💣 [Pdf President Trump](http://9gag.com/gag/aKGpqb6)
  - 😝 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
- - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 💣 [Airbnb is cancer, its the main reason rents skyrocketed](http://9gag.com/gag/aryzKGy)
- - 😝 [Starting new with yt](http://9gag.com/gag/aZZvN9Q)
- - 👉 [Does she moo too?](http://9gag.com/gag/a9yBWP0)<!-- MEMES:END -->
+ - 👉 [Ah yeah.. I watch it for the sport..](http://9gag.com/gag/aE0EzLp)<!-- MEMES:END -->
 
 ---
 

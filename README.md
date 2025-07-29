@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rare Apple memorabilia, Macs, &amp; more up for auction ending August 21](https://appleinsider.com/articles/25/07/29/rare-apple-memorabilia-macs-more-up-for-auction-ending-august-21?utm_source=rss)
  - [EA reports Q1 net bookings up 3% YoY to $1.3B, above $1.29B est., and forecasts Q2 net bookings of $1.8B to $1.9B, below estimates of $2.01B &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250729/p37#a250729p37)
  - [Google rolls out new AI Mode features: Search Live with video input, Canvas for planning, image and PDF uploading, and AI Mode in Google Lens in desktop Chrome &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250729/p36#a250729p36)
  - [LG’s StanbyMe 2 is an unquestionably cool TV at a questionably high price](https://www.theverge.com/news/715523/lg-stanbyme-2-price-available-features)
- - [Sources: Groq is set to raise ~$600M in a funding round led by Disruptive, which committed more than $300M to the deal that would give Groq a ~$6B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250729/p35#a250729p35)
- - [Apple nears $1 billion in Bay Area office space expansion in three months](https://appleinsider.com/articles/25/07/29/apple-nears-1-billion-in-bay-area-office-space-expansion-in-three-months?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Groq is set to raise ~$600M in a funding round led by Disruptive, which committed more than $300M to the deal that would give Groq a ~$6B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250729/p35#a250729p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

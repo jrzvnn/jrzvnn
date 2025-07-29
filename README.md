@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
  - [20% Off HP Coupon Code | July 2025](https://www.wired.com/story/hp-coupon-code/)
  - [LG Promo Codes: 20% Off | July 2025](https://www.wired.com/story/lg-promo-code/)
  - [Athens-based defense tech startup Delian Alliance Industries, which makes its own hardware, software, and sensor fusion systems, raised a $14M Series A &lpar;Financial Times&rpar;](http://www.techmeme.com/250729/p2#a250729p2)
- - [Samsung Promo Codes: 30% Off | July 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Sources: Nvidia ordered 300K H20 chips from TSMC last week, adding to inventory of 600K to 700K, amid strong China demand after Trump admin cleared H20 sales &lpar;Reuters&rpar;](http://www.techmeme.com/250729/p1#a250729p1)<!-- TECH:END -->
+ - [Samsung Promo Codes: 30% Off | July 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

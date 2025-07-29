@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Impressive](http://9gag.com/gag/a6Z87jL)
+ - 😝 [\u03a0\u180e\u180e\u180e\u180e](http://9gag.com/gag/a9yB7Do)
+ - 💣 [It&#39;s an awful day for rain](http://9gag.com/gag/ayNPdBq)
  - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 💣 [He\u2019s right, they all sounduuhhh the sameeeuhhhh](http://9gag.com/gag/amon9r6)
- - 😝 [FYI](http://9gag.com/gag/aqyAryQ)
- - 👉 [Women](http://9gag.com/gag/aRBDevA)<!-- MEMES:END -->
+ - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
 
 ---
 

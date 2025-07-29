@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 38 Best Shows on Apple TV+ Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [An interview with Anthropic&#39;s Dario Amodei and how his father&#39;s passing from an illness, four years before a breakthrough made it 95% curable, shaped his path &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250729/p32#a250729p32)
  - [Sources: Apple loses a fourth AI researcher in a month to Meta&#39;s superintelligence team; the AFM team is in flux and Apple has marginally increased their pay &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250729/p31#a250729p31)
  - [Runway and Luma AI say they are talking to robotics and self-driving car companies about their video models and expect these revenue sources to eclipse studios &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/250729/p30#a250729p30)
- - [Dead Apple M1 Pro chip reborn as $13 fashion accessory](https://appleinsider.com/articles/25/07/29/dead-apple-m1-pro-chip-reborn-as-13-fashion-accessory?utm_source=rss)
- - [Apple&#39;s AI brain drain continues as fourth researcher goes to Meta](https://appleinsider.com/articles/25/07/29/apples-ai-brain-drain-continues-as-fourth-researcher-goes-to-meta?utm_source=rss)<!-- TECH:END -->
+ - [Dead Apple M1 Pro chip reborn as $13 fashion accessory](https://appleinsider.com/articles/25/07/29/dead-apple-m1-pro-chip-reborn-as-13-fashion-accessory?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

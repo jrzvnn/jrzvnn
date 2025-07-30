@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple hits back at DOJ antitrust suit paragraph by paragraph in scathing response](https://appleinsider.com/articles/25/07/30/apple-hits-back-at-doj-antitrust-suit-paragraph-by-paragraph-in-scathing-response?utm_source=rss)
+ - [Apple responds to the DOJ&#39;s antitrust lawsuit from March 2024, saying it sets &quot;a dangerous precedent&quot; and &quot;threatens the very principles that set iPhone apart&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250729/p46#a250729p46)
+ - [Sources: Cohere has told investors it expects to generate $200M+ in annualized revenue by the end of 2025, up from $70M in annualized revenue as of February &lpar;The Information&rpar;](http://www.techmeme.com/250729/p45#a250729p45)
  - [New iPhone 17 dummy models estimate how some expected colors may look](https://appleinsider.com/articles/25/07/29/new-iphone-17-dummy-models-estimate-how-some-expected-colors-may-look?utm_source=rss)
- - [Australia says it will include YouTube in its ban on social media for children under 16 years of age, reversing an earlier decision to exempt the platform &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/250729/p44#a250729p44)
- - [Ofcom: YouTube is the second most-watched TV service in the UK, behind the BBC and ahead of ITV; one in five Gen Alpha viewers turn to YouTube first on their TV &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250729/p43#a250729p43)
- - [A profile of Luke Farritor, a 23-year-old Thiel Fellow who gained recognition for using AI to help decipher the Herculaneum papyri and later joined DOGE &lpar;Bloomberg&rpar;](http://www.techmeme.com/250729/p42#a250729p42)
- - [YouTube tells creators they can drop more F-bombs](https://www.theverge.com/news/715658/youtube-swearing-profanity-f-bombs-monetization)<!-- TECH:END -->
+ - [Australia says it will include YouTube in its ban on social media for children under 16 years of age, reversing an earlier decision to exempt the platform &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/250729/p44#a250729p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

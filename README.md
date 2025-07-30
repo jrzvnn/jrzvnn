@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
+ - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
  - 💣 [Savage](http://9gag.com/gag/abAEZjr)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
+ - 👉 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s Reality Labs posts Q2 revenue up 5% YoY to $370M, vs. $381M est., and operating loss of $4.53B, vs. $4.99B est.; Reality Labs has lost $70B+ since 2020 &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p41#a250730p41)
+ - [Qualcomm reports Q3 revenue up 10% YoY to $10.37B, vs. $10.35B est., and handsets revenue up 7% to $6.33B, vs. $6.44B est.; QCOM drops 4%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250730/p40#a250730p40)
+ - [Robinhood reports Q2 revenue up 45% YoY to $989M vs. $908M est., net income up 105% YoY to $386M, funded customers grew by 2.3M to 26.5M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250730/p39#a250730p39)
  - [Ouch -- China Apple Support recommends a Samsung folding phone after Weibo error [u]](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)
- - [Scientists Say New Government Climate Report Twists Their Work](https://www.wired.com/story/scientists-say-new-government-climate-report-twists-their-work/)
- - [Microsoft reports Q4 Azure and other cloud services revenue up 39% YoY, vs. 34.75% est., and full-year Azure revenue up 34% to $75B, vs. $74.62B est. &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250730/p38#a250730p38)
- - [Microsoft Q4: Windows OEM and Devices revenue up 3% YoY, gaming revenue up 10%, Xbox hardware revenue down 22%, and Xbox content and services revenue up 13% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250730/p37#a250730p37)
- - [Tea app under fire from users and lawyers for breaches exposing private messages](https://appleinsider.com/articles/25/07/30/tea-app-under-fire-from-users-and-lawyers-for-breaches-exposing-private-messages?utm_source=rss)<!-- TECH:END -->
+ - [Scientists Say New Government Climate Report Twists Their Work](https://www.wired.com/story/scientists-say-new-government-climate-report-twists-their-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

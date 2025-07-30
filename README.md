@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can hide an AirTag in Skechers’ new kid shoes](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)
+ - [You can hide an AirTag in Skechers’ new kids’ shoes](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)
  - [How Meituan used Hong Kong as a trial market for global food delivery expansion, with its Keeta service driving out Deliveroo before moving to Saudi Arabia &lpar;Zixu Wang/New York Times&rpar;](http://www.techmeme.com/250730/p29#a250730p29)
  - [Netflix Has Both &#39;Happy Gilmore&#39; Movies Right Now, but Not for Long](https://www.cnet.com/tech/services-and-software/netflix-has-both-happy-gilmore-movies-right-now-but-not-for-long/#ftag=CAD590a51e)
  - [DJI finally brings its impressive Amflow e-bike to US trails](https://www.theverge.com/news/715696/dji-amflow-us-price-mtb-avinox)

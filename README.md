@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Will online safety laws become the next tariff bargaining chip?](https://www.theverge.com/policy/715837/age-verification-uk-online-safety-act-trump)
+ - [Mark Zuckerberg promises you can trust him with superintelligent AI](https://www.theverge.com/ai-artificial-intelligence/715951/mark-zuckerberg-meta-ai-superintelligence-scale-openai-letter)
  - [JPMorgan Chase and Coinbase signed a deal to directly link customers&#39; bank accounts to their cryptocurrency wallets, with the feature expected to launch in 2026 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250730/p28#a250730p28)
  - [US Senator Urges DHS to Probe Whether Agents Were Moved From Criminal Cases to Deportations](https://www.wired.com/story/senator-wyden-hsi-immigration-csam/)
- - [Inside the LG G5&amp;#8217;s shocking last-place finish at the 2025 TV Shootout](https://www.theverge.com/analysis/715450/2025-tv-shootout-value-electronics)
- - [Zuckerberg says superintelligence is in sight, and, when personal superintelligence comes, context-aware devices like glasses will become our primary computers &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/250730/p27#a250730p27)
- - [TikTok videos are about to get crowdsourced fact checks on them](https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch)<!-- TECH:END -->
+ - [Inside the LG G5&amp;#8217;s shocking last-place finish at the 2025 TV Shootout](https://www.theverge.com/analysis/715450/2025-tv-shootout-value-electronics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

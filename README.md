@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 💣 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - 😝 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 💣 [Oof](http://9gag.com/gag/aByowgO)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
+ - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
 
 ---
 

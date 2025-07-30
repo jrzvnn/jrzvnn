@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s Boring Company announces plan to tunnel under Nashville](https://www.theverge.com/news/716004/elon-musk-boring-company-nashville-loop-tunnel)
+ - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_source=rss)
+ - [Peacock’s adaptation finally feels like Twisted Metal in season 2](https://www.theverge.com/tv-reviews/715862/twisted-metal-season-2-review-peacock)
  - [The Trump-Crypto Honeymoon Is Over](https://www.wired.com/story/trump-crypto-caucus-fracture/)
- - [The latest MacBook Air with M4 is down to its lowest price ever](https://www.theverge.com/tech/715878/macbook-air-samsung-galaxy-z-fold-7-deal-sale)
- - [Will online safety laws become the next tariff bargaining chip?](https://www.theverge.com/policy/715837/age-verification-uk-online-safety-act-trump)
- - [Mark Zuckerberg promises you can trust him with superintelligent AI](https://www.theverge.com/ai-artificial-intelligence/715951/mark-zuckerberg-meta-ai-superintelligence-scale-openai-letter)
- - [JPMorgan Chase and Coinbase signed a deal to directly link customers&#39; bank accounts to their cryptocurrency wallets, with the feature expected to launch in 2026 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250730/p28#a250730p28)<!-- TECH:END -->
+ - [The latest MacBook Air with M4 is down to its lowest price ever](https://www.theverge.com/tech/715878/macbook-air-samsung-galaxy-z-fold-7-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

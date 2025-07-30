@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft reports strong cloud earnings, with Windows and Xbox up too](https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
- - [Meta Reports Second Quarter 2025 Results &lpar;Meta&rpar;](http://www.techmeme.com/250730/p36#a250730p36)
- - [Earnings Release FY25 Q4 &lpar;Microsoft&rpar;](http://www.techmeme.com/250730/p35#a250730p35)
- - [8BitDo’s wireless Nintendo 64 controller is now available](https://www.theverge.com/news/716292/8bitdo-64-wireless-controller-nintendo-analogue-3d)
- - [Mark Zuckerberg says &quot;We&#39;ll need to be rigorous about mitigating&quot; new risks posed by superintelligence and &quot;careful about what we choose to open source&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/250730/p34#a250730p34)<!-- TECH:END -->
+ - [Ouch -- China Apple Support recommends a Samsung folding phone after Weibo error [u]](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)
+ - [Scientists Say New Government Climate Report Twists Their Work](https://www.wired.com/story/scientists-say-new-government-climate-report-twists-their-work/)
+ - [Microsoft reports Q4 Azure and other cloud services revenue up 39% YoY, vs. 34.75% est., and full-year Azure revenue up 34% to $75B, vs. $74.62B est. &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250730/p38#a250730p38)
+ - [Microsoft Q4: Windows OEM and Devices revenue up 3% YoY, gaming revenue up 10%, Xbox hardware revenue down 22%, and Xbox content and services revenue up 13% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250730/p37#a250730p37)
+ - [Tea app under fire from users and lawyers for breaches exposing private messages](https://appleinsider.com/articles/25/07/30/tea-app-under-fire-from-users-and-lawyers-for-breaches-exposing-private-messages?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

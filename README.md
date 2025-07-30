@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 😝 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [Funny.. trust me](http://9gag.com/gag/aAyZwmL)
+ - 😝 [It rained](http://9gag.com/gag/axy4Vvb)
+ - 💣 [Psycho the rapist](http://9gag.com/gag/axy4VzW)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
+ - 👉 [I guess it\u2019s time to watch Gladiator again lads.](http://9gag.com/gag/an7Vbzb)<!-- MEMES:END -->
 
 ---
 

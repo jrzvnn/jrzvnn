@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
- - 💣 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 😝 [Opportunity](http://9gag.com/gag/a7oArWw)
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
+ - 👉 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)<!-- MEMES:END -->
 
 ---
 

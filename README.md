@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
  - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [Savage](http://9gag.com/gag/abAEZjr)
- - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)<!-- MEMES:END -->
+ - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
+ - 😝 [Savage](http://9gag.com/gag/abAEZjr)
+ - 👉 [I would be mad too](http://9gag.com/gag/aqyArZP)<!-- MEMES:END -->
 
 ---
 

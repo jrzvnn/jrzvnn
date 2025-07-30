@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mark Zuckerberg&#39;s aim with the Superintelligence Labs is to create a start-up-like unit within Meta that is unencumbered by the company&#39;s bureaucracy &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p2#a250730p2)
  - [Lumana, which integrates vision-language models and agentic AI into its video surveillance system, raised a $40M Series A led by Wing Venture Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250730/p1#a250730p1)
  - [The UK Supreme Court denied Uber&#39;s appeal in a case over VAT, forcing Uber to pay a 20% VAT on fares outside London while rival private taxi operators pay none &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250729/p48#a250729p48)
  - [How to add vocals &amp; voiceovers with Voice Memos layered recording](https://appleinsider.com/inside/iphone-16/tips/how-to-add-vocals-voiceovers-with-voice-memos-layered-recording?utm_source=rss)
- - [Repeated warnings of AI-driven layoffs is fueling anxiety among workers, who report feeling pressured to accept pay cuts or worse conditions to keep their jobs &lpar;Anne Lutz Fernandez/Nobody Wants This&rpar;](http://www.techmeme.com/250729/p47#a250729p47)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Repeated warnings of AI-driven layoffs is fueling anxiety among workers, who report feeling pressured to accept pay cuts or worse conditions to keep their jobs &lpar;Anne Lutz Fernandez/Nobody Wants This&rpar;](http://www.techmeme.com/250729/p47#a250729p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

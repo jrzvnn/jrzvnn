@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon TCG Pocket will change card art after plagiarism accusations](https://www.theverge.com/nintendo/715823/pokemon-tcg-pocket-ho-oh-lugia-tracing-lanjiujiu)
- - [Elon Musk’s Boring Company announces plan to tunnel under Nashville](https://www.theverge.com/news/716004/elon-musk-boring-company-nashville-loop-tunnel)
- - [Tim Cook isn&#39;t going to get fired, and Steve Jobs isn&#39;t rolling over in his grave](https://appleinsider.com/articles/25/07/04/tim-cook-isnt-going-to-get-fired-and-steve-jobs-isnt-rolling-over-in-his-grave?utm_source=rss)
- - [Peacock’s adaptation finally feels like Twisted Metal in season 2](https://www.theverge.com/tv-reviews/715862/twisted-metal-season-2-review-peacock)
- - [The Trump-Crypto Honeymoon Is Over](https://www.wired.com/story/trump-crypto-caucus-fracture/)<!-- TECH:END -->
+ - [You can hide an AirTag in Skechers’ new kid shoes](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)
+ - [How Meituan used Hong Kong as a trial market for global food delivery expansion, with its Keeta service driving out Deliveroo before moving to Saudi Arabia &lpar;Zixu Wang/New York Times&rpar;](http://www.techmeme.com/250730/p29#a250730p29)
+ - [DJI finally brings its impressive Amflow e-bike to US trails](https://www.theverge.com/news/715696/dji-amflow-us-price-mtb-avinox)
+ - [Ready or not, age verification is rolling out across the internet](https://www.theverge.com/analysis/715767/online-age-verification-not-ready)
+ - [Microsoft is getting ready for GPT-5 with a new Copilot smart mode](https://www.theverge.com/notepad-microsoft-newsletter/715849/microsoft-copilot-smart-mode-testing-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

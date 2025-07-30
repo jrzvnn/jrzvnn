@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swim for your life](http://9gag.com/gag/aYQm447)
- - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
- - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 👉 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)<!-- MEMES:END -->
+ - 😝 [Wingcat](http://9gag.com/gag/aD2Mj1x)
+ - 😝 [No original experiences. No original posts.](http://9gag.com/gag/aD2Mzw9)
+ - 💣 [No potato, have a potato farmer instead](http://9gag.com/gag/adBb78D)
+ - 😝 [Brush](http://9gag.com/gag/azxQ8Yx)
+ - 👉 [Virtual anxiety](http://9gag.com/gag/aVvBMYy)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dropbox is shutting down its password manager](https://www.theverge.com/news/716303/dropbox-passwords-manager-shut-down)
  - [Apple&#39;s longtime partner Foxconn investing big on AI infrastructure construction](https://appleinsider.com/articles/25/07/30/apples-longtime-partner-foxconn-investing-big-on-ai-infrastructure-construction?utm_source=rss)
  - [Google’s Newest AI Model Acts like a Satellite to Track Climate Change](https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/)
  - [Gamers Are Furious About the Censorship of NSFW Games—and They’re Fighting Back](https://www.wired.com/story/gamers-are-furious-about-the-censorship-of-nsfw-games-and-theyre-fighting-back/)
- - [In a report, Trump&#39;s Working Group on Digital Asset Markets urges regulators to clarify digital asset trading rules and ease adoption of new financial products &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/250730/p33#a250730p33)
- - [Google plans to start rolling out ML-powered age estimation in the US &quot;over the next few weeks&quot; to detect if users are under 18 and enable existing protections &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250730/p32#a250730p32)<!-- TECH:END -->
+ - [In a report, Trump&#39;s Working Group on Digital Asset Markets urges regulators to clarify digital asset trading rules and ease adoption of new financial products &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/250730/p33#a250730p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 😝 [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 💣 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 😝 [Funny.. trust me](http://9gag.com/gag/aAyZwmL)
+ - 😝 [It rained](http://9gag.com/gag/axy4Vvb)
+ - 💣 [Psycho the rapist](http://9gag.com/gag/axy4VzW)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)<!-- MEMES:END -->
+ - 👉 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)<!-- MEMES:END -->
 
 ---
 

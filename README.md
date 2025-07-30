@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wingcat](http://9gag.com/gag/aD2Mj1x)
- - 😝 [No original experiences. No original posts.](http://9gag.com/gag/aD2Mzw9)
- - 💣 [No potato, have a potato farmer instead](http://9gag.com/gag/adBb78D)
- - 😝 [Brush](http://9gag.com/gag/azxQ8Yx)
- - 👉 [Virtual anxiety](http://9gag.com/gag/aVvBMYy)<!-- MEMES:END -->
+ - 😝 [Ouch](http://9gag.com/gag/abAEzmL)
+ - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
+ - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
+ - 😝 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - 👉 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)<!-- MEMES:END -->
 
 ---
 

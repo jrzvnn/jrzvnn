@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
- - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 💣 [That meme](http://9gag.com/gag/a34njrN)
+ - 😝 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Oof](http://9gag.com/gag/aByowgO)<!-- MEMES:END -->
+ - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
 
 ---
 

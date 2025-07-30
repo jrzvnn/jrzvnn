@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The judge in Elon Musk&#39;s OpenAI lawsuit strikes down 16 of OpenAI&#39;s 55 affirmative defenses, accuses both sides of &quot;gamesmanship&quot; and over-litigating the case &lpar;Laura Italiano/Business Insider&rpar;](http://www.techmeme.com/250730/p4#a250730p4)
+ - [Sources: the US Commerce Department is discussing charging patent holders 1%-5% of their patent value, a radical move likely to spark pushback from businesses &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p3#a250730p3)
+ - [Top Verizon Promo Codes &amp; Deals | August 2025](https://www.wired.com/story/verizon-promo-code/)
  - [Sources: Mark Zuckerberg&#39;s aim with the Superintelligence Labs is to create a start-up-like unit within Meta that is unencumbered by the company&#39;s bureaucracy &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p2#a250730p2)
- - [Lumana, which integrates vision-language models and agentic AI into its video surveillance system, raised a $40M Series A led by Wing Venture Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250730/p1#a250730p1)
- - [The UK Supreme Court denied Uber&#39;s appeal in a case over VAT, forcing Uber to pay a 20% VAT on fares outside London while rival private taxi operators pay none &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250729/p48#a250729p48)
- - [How to add vocals &amp; voiceovers with Voice Memos layered recording](https://appleinsider.com/inside/iphone-16/tips/how-to-add-vocals-voiceovers-with-voice-memos-layered-recording?utm_source=rss)
- - [Repeated warnings of AI-driven layoffs is fueling anxiety among workers, who report feeling pressured to accept pay cuts or worse conditions to keep their jobs &lpar;Anne Lutz Fernandez/Nobody Wants This&rpar;](http://www.techmeme.com/250729/p47#a250729p47)<!-- TECH:END -->
+ - [Lumana, which integrates vision-language models and agentic AI into its video surveillance system, raised a $40M Series A led by Wing Venture Capital &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250730/p1#a250730p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

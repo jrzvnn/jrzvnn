@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
- - 😝 [The take down](http://9gag.com/gag/a4PVbD6)
- - 💣 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
+ - 💣 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
+ - 👉 [Just trust the man](http://9gag.com/gag/awyv5Ar)<!-- MEMES:END -->
 
 ---
 

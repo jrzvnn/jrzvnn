@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm reports Q1 revenue up 12% YoY to $1.05B, royalty revenue up 25% to $585M, vs. $595M est., and forecasts Q2 profit below estimates; ARM drops 8%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250730/p42#a250730p42)
  - [Meta&#39;s Reality Labs posts Q2 revenue up 5% YoY to $370M, vs. $381M est., and operating loss of $4.53B, vs. $4.99B est.; Reality Labs has lost $70B+ since 2020 &lpar;CNBC&rpar;](http://www.techmeme.com/250730/p41#a250730p41)
  - [Qualcomm reports Q3 revenue up 10% YoY to $10.37B, vs. $10.35B est., and handsets revenue up 7% to $6.33B, vs. $6.44B est.; QCOM drops 4%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250730/p40#a250730p40)
  - [Robinhood reports Q2 revenue up 45% YoY to $989M vs. $908M est., net income up 105% YoY to $386M, funded customers grew by 2.3M to 26.5M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250730/p39#a250730p39)
- - [Ouch -- China Apple Support recommends a Samsung folding phone after Weibo error [u]](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)
- - [Scientists Say New Government Climate Report Twists Their Work](https://www.wired.com/story/scientists-say-new-government-climate-report-twists-their-work/)<!-- TECH:END -->
+ - [Ouch -- China Apple Support recommends a Samsung folding phone after Weibo error [u]](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

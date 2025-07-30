@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe releases Windows on Arm versions of Premiere Pro and After Effects](https://www.theverge.com/news/715769/adobe-windows-on-arm-premiere-pro-after-effects-beta-release)
- - [Palo Alto Networks has agreed to buy CyberArk Software in a cash-and-stock deal valuing the Israeli cybersecurity company at about $25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p26#a250730p26)
- - [Samsung Galaxy Z Flip 7 review: more of a good thing](https://www.theverge.com/reviews/715325/samsung-galaxy-z-flip-7-review)
- - [Apple&#39;s AI white whale will drag on earnings &amp; can&#39;t be fixed internally, says Wedbush](https://appleinsider.com/articles/25/07/30/apples-ai-white-whale-will-drag-on-earnings-cant-be-fixed-internally-says-wedbush?utm_source=rss)
- - [Tariffs will hurt, but Apple&#39;s foresight will keep earnings up](https://appleinsider.com/articles/25/07/30/tariffs-will-hurt-but-apples-foresight-will-keep-earnings-up?utm_source=rss)<!-- TECH:END -->
+ - [Zuckerberg says superintelligence is in sight, and, when personal superintelligence comes, context-aware devices like glasses will become our primary computers &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/250730/p27#a250730p27)
+ - [TikTok videos are about to get crowdsourced fact checks on them](https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch)
+ - [Only the base iPhone 17 may escape a $50 price hike](https://appleinsider.com/articles/25/07/30/only-the-base-iphone-17-may-escape-a-50-price-hike?utm_source=rss)
+ - [Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st](https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2)
+ - [TernX Review &lpar;2025&rpar;: Travel With Young Kids Just Got Easier](https://www.wired.com/review/ternx-carry-on-luggage-stroller/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

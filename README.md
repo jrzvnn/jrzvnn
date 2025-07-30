@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny.. trust me](http://9gag.com/gag/aAyZwmL)
- - 😝 [It rained](http://9gag.com/gag/axy4Vvb)
- - 💣 [Psycho the rapist](http://9gag.com/gag/axy4VzW)
+ - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 😝 [The take down](http://9gag.com/gag/a4PVbD6)
+ - 💣 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)<!-- MEMES:END -->
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 

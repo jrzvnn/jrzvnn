@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
  - 😝 [Savage](http://9gag.com/gag/abAEZjr)
- - 👉 [I would be mad too](http://9gag.com/gag/aqyArZP)<!-- MEMES:END -->
+ - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 💣 [Old but gold](http://9gag.com/gag/aGyb1dX)
+ - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
 
 ---
 

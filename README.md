@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Plastic did indeed ruin the world](http://9gag.com/gag/aKGp22Q)
  - 😝 [Just trust the man](http://9gag.com/gag/awyv5Ar)
- - 😝 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
- - 💣 [Plastic did indeed ruin the world](http://9gag.com/gag/aKGp22Q)
+ - 💣 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Lucky there\u2019s a camera, if it\u2019s on tape she can just get sued. If it wasn\u2019t on tape she\u2019s getting hit.](http://9gag.com/gag/aRBDK4Q)<!-- MEMES:END -->
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 

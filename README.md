@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
- - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 😝 [It rained](http://9gag.com/gag/axy4Vvb)
+ - 😝 [I guess it\u2019s time to watch Gladiator again lads.](http://9gag.com/gag/an7Vbzb)
+ - 💣 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)<!-- MEMES:END -->
+ - 👉 [Psycho the rapist](http://9gag.com/gag/axy4VzW)<!-- MEMES:END -->
 
 ---
 

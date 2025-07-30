@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok adds new safety features, including enhanced parental controls, and publicly launches Footnotes, its Community Notes-like feature, in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250730/p23#a250730p23)
- - [Sketchers lets parents hide an AirTag in kids shoes](https://appleinsider.com/articles/25/07/30/sketchers-lets-parents-hide-an-airtag-in-kids-shoes?utm_source=rss)
- - [Ramp raised a $500M Series E-2 led by Iconiq Growth at a $22.5B valuation, says it has 40,000+ businesses as clients, with $700M in annualized revenue in March &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p22#a250730p22)
- - [15 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [Does a &#39;Healthy&#39; Soda Actually Exist? Experts Weigh In on the Trendy Beverages](https://www.cnet.com/health/nutrition/does-healthy-soda-exist-experts-weigh-in-on-trendy-beverages/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+ - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [The Samsung Galaxy Watch 8 is stuck in a familiar orbit](https://www.theverge.com/reviews/715171/samsung-galaxy-watch-8-review-smartwatch-wearos-antioxidant-gemini)
+ - [Ouch -- China Apple Support accidentally recommends a Samsung folding phone](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)
+ - [Google’s Pixel 10 sure looks like it’ll support magnetic Qi2 charging](https://www.theverge.com/news/715747/google-pixel-10-leak-qi2-pixelsnap-magnetic-wireless-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

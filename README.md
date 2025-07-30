@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ramp raised a $500M Series E-2 led by Iconiq Growth at a $22.5B valuation, says it has 40,000+ businesses as clients, with $700M in annualized revenue in March &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p22#a250730p22)
+ - [15 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
  - [Substack apologizes after sending a push alert encouraging some users to subscribe to NatSocToday, a Nazi newsletter advocating for a &quot;White homeland&quot; &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250730/p21#a250730p21)
  - [YouTube makes it easy for TV users to skip to the best bits of videos](https://www.theverge.com/news/715730/youtube-jump-ahead-premium-feature-tv-rollout)
- - [What Your Nighttime Breathing Says About Your Health](https://www.wired.com/story/sleep-apnea-biomarker-night-breathing/)
- - [Indonesia raises taxes on crypto sellers, from 0.1% to 0.21% in domestic exchanges, and from 0.2% to 1% in overseas exchanges, but removes VAT on buyers &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/250730/p20#a250730p20)
- - [India&#39;s online Apple Store adds video calls with specialists](https://appleinsider.com/articles/25/07/30/indias-online-apple-store-adds-video-calls-with-specialists?utm_source=rss)<!-- TECH:END -->
+ - [What Your Nighttime Breathing Says About Your Health](https://www.wired.com/story/sleep-apnea-biomarker-night-breathing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

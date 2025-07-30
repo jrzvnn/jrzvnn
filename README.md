@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [VW 1.9 TDI cold start](http://9gag.com/gag/abAEpD8)
+ - 😝 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
  - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 💣 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
- - 😝 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
+ - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
+ - 👉 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)<!-- MEMES:END -->
 
 ---
 

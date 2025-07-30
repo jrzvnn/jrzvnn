@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
- - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 💣 [I just wanna buy a sign I don\u2019t need from Tony.](http://9gag.com/gag/aPAnBKP)
+ - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 😝 [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - 💣 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 👉 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)<!-- MEMES:END -->
 
 ---
 

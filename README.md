@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [9 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [The Samsung Galaxy Watch 8 is stuck in a familiar orbit](https://www.theverge.com/reviews/715171/samsung-galaxy-watch-8-review-smartwatch-wearos-antioxidant-gemini)
- - [Ouch -- China Apple Support accidentally recommends a Samsung folding phone](https://appleinsider.com/articles/25/07/30/ouch----china-apple-support-accidentally-recommends-a-samsung-folding-phone?utm_source=rss)
- - [Google’s Pixel 10 sure looks like it’ll support magnetic Qi2 charging](https://www.theverge.com/news/715747/google-pixel-10-leak-qi2-pixelsnap-magnetic-wireless-charging)<!-- TECH:END -->
+ - [Adobe releases Windows on Arm versions of Premiere Pro and After Effects](https://www.theverge.com/news/715769/adobe-windows-on-arm-premiere-pro-after-effects-beta-release)
+ - [Palo Alto Networks has agreed to buy CyberArk Software in a cash-and-stock deal valuing the Israeli cybersecurity company at about $25B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p26#a250730p26)
+ - [Samsung Galaxy Z Flip 7 review: more of a good thing](https://www.theverge.com/reviews/715325/samsung-galaxy-z-flip-7-review)
+ - [Apple&#39;s AI white whale will drag on earnings &amp; can&#39;t be fixed internally, says Wedbush](https://appleinsider.com/articles/25/07/30/apples-ai-white-whale-will-drag-on-earnings-cant-be-fixed-internally-says-wedbush?utm_source=rss)
+ - [Tariffs will hurt, but Apple&#39;s foresight will keep earnings up](https://appleinsider.com/articles/25/07/30/tariffs-will-hurt-but-apples-foresight-will-keep-earnings-up?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

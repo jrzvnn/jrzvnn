@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
- - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 😝 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 💣 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 😝 [Oof](http://9gag.com/gag/aByowgO)
+ - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
 
 ---
 

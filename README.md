@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok adds new safety features, including enhanced parental controls, and publicly launches Footnotes, its Community Notes-like feature, in the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250730/p23#a250730p23)
+ - [Sketchers lets parents hide an AirTag in kids shoes](https://appleinsider.com/articles/25/07/30/sketchers-lets-parents-hide-an-airtag-in-kids-shoes?utm_source=rss)
  - [Ramp raised a $500M Series E-2 led by Iconiq Growth at a $22.5B valuation, says it has 40,000+ businesses as clients, with $700M in annualized revenue in March &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p22#a250730p22)
  - [15 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [Substack apologizes after sending a push alert encouraging some users to subscribe to NatSocToday, a Nazi newsletter advocating for a &quot;White homeland&quot; &lpar;Taylor Lorenz/User Mag&rpar;](http://www.techmeme.com/250730/p21#a250730p21)
- - [YouTube makes it easy for TV users to skip to the best bits of videos](https://www.theverge.com/news/715730/youtube-jump-ahead-premium-feature-tv-rollout)
- - [What Your Nighttime Breathing Says About Your Health](https://www.wired.com/story/sleep-apnea-biomarker-night-breathing/)<!-- TECH:END -->
+ - [Does a &#39;Healthy&#39; Soda Actually Exist? Experts Weigh In on the Trendy Beverages](https://www.cnet.com/health/nutrition/does-healthy-soda-exist-experts-weigh-in-on-trendy-beverages/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

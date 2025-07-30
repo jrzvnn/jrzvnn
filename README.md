@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 💣 [Just trust the man](http://9gag.com/gag/awyv5Ar)
+ - 😝 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 😝 [I hate people that swipe](http://9gag.com/gag/aW498Q2)
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
+ - 👉 [Oof](http://9gag.com/gag/aByowgO)<!-- MEMES:END -->
 
 ---
 

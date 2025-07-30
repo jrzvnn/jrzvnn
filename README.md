@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Bank of England governor blocked a meeting arranged by UK Chancellor between regulators and Revolut to discuss Revolut&#39;s full banking authorization &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p17#a250730p17)
  - [Klarna gets an electronic money institution license for its UK division, which could let it directly compete with Revolut and Monzo for retail bank customers &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250730/p16#a250730p16)
  - [Italy opens a probe into Meta, says it may have violated EU competition rules by integrating its Meta AI assistant into WhatsApp without user consent &lpar;Elvira Pollina/Reuters&rpar;](http://www.techmeme.com/250730/p15#a250730p15)
  - [YouTube will now allow videos with strong profanity in the first seven seconds to be fully monetized, reversing previous restrictions that limited ad revenue &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250730/p14#a250730p14)
- - [Buy a 2.4-inch Macintosh before Apple stops you](https://appleinsider.com/articles/25/07/29/buy-a-24-inch-macintosh-plus-before-apple-stops-you?utm_source=rss)
- - [Today&#39;s NYT Connections Hints, Answers and Help for July 30, #780](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-july-30-780/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Buy a 2.4-inch Macintosh before Apple stops you](https://appleinsider.com/articles/25/07/29/buy-a-24-inch-macintosh-plus-before-apple-stops-you?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft plans to invest $30B+ in capital expenditures in Q1, which would be its largest for a single quarter, after reporting $24.2B in capital spending in Q4 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250730/p49#a250730p49)
+ - [Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI](https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/)
  - [Seoul-based chip startup FuriosaAI raised a $125M Series C bridge round from Korea Development Bank, Industrial Bank of Korea, and others at a $735M valuation &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250730/p48#a250730p48)
  - [Austin-based Ambiq Micro closed up ~61% in its NYSE debut, after raising $96M in an upsized IPO, giving the maker of ultra-low power chips a $680M market value &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250730/p47#a250730p47)
- - [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening to, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)
- - [Premier League Summer Series: Stream Man United vs. Bournemouth From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-man-united-vs-bournemouth-from-anywhere/#ftag=CAD590a51e)
- - [Figma priced its US IPO at $33 per share, above its expected range of $30 to $32, raising $1.2B in the offering and valuing the company at $19.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250730/p46#a250730p46)<!-- TECH:END -->
+ - [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening to, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

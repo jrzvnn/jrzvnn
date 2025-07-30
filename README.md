@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oof](http://9gag.com/gag/aByowgO)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 😝 [Swim for your life](http://9gag.com/gag/aYQm447)
+ - 😝 [I would be mad too](http://9gag.com/gag/aqyArZP)
+ - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
  - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
+ - 👉 [I just don&#39;t understand what she means. Does anyone speak sign language?](http://9gag.com/gag/a9yBWqW)<!-- MEMES:END -->
 
 ---
 

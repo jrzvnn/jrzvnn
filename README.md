@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will sign the EU&#39;s code of practice for AI, in a boost to EU&#39;s efforts to regulate AI in the face of opposition from Meta and pressure from US &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/250730/p12#a250730p12)
+ - [A look at Russia&#39;s coordinated crackdown on foreign tech services and shift to state-backed alternatives, as it names VK&#39;s Max its national messaging app &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p13#a250730p13)
+ - [Google says it will sign the EU&#39;s AI Code of Practice, in a boost to EU&#39;s efforts to regulate AI in the face of opposition from Meta and pressure from the US &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/250730/p12#a250730p12)
  - [Lelo Dot Review: A Clitoral Pinpoint Vibrator](https://www.wired.com/review/lelo-dot/)
  - [The US-China trade war has spurred demand for Vietnamese companies that produce chip components like wafers, as Vietnam scales up its semiconductor ambitions &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250730/p11#a250730p11)
- - [A look at OneChronos, as it seeks to create &quot;smart markets&quot; that would allow firms to trade GPU compute like other commodities, such as electricity and oil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250730/p10#a250730p10)
- - [China showcased many of the initiatives for AI self-sufficiency at Shanghai&#39;s World AI Conference, as it invests heavily in power generation and skills training &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250730/p9#a250730p9)<!-- TECH:END -->
+ - [A look at OneChronos, as it seeks to create &quot;smart markets&quot; that would allow firms to trade GPU compute like other commodities, such as electricity and oil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250730/p10#a250730p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

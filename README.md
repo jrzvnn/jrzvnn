@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seoul-based chip startup FuriosaAI raised a $125M Series C bridge round from Korea Development Bank, Industrial Bank of Korea, and others at a $735M valuation &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250730/p48#a250730p48)
  - [Austin-based Ambiq Micro closed up ~61% in its NYSE debut, after raising $96M in an upsized IPO, giving the maker of ultra-low power chips a $680M market value &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250730/p47#a250730p47)
- - [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening To, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)
+ - [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening to, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)
  - [Figma priced its US IPO at $33 per share, above its expected range of $30 to $32, raising $1.2B in the offering and valuing the company at $19.3B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250730/p46#a250730p46)
- - [Trump Ends Tariff Exemption for Small Packages](https://www.wired.com/story/president-trump-suspends-de-minimis/)
- - [Source: data-labeling startup Surge AI is in talks with a16z, Warburg Pincus, and others to raise $1B in its first funding round at a valuation of at least $25B &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250730/p45#a250730p45)<!-- TECH:END -->
+ - [Trump Ends Tariff Exemption for Small Packages](https://www.wired.com/story/president-trump-suspends-de-minimis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

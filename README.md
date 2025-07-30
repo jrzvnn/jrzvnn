@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: data-labeling startup Surge AI is in talks with a16z, Warburg Pincus, and others to raise $1B in its first funding round at a valuation of at least $25B &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250730/p45#a250730p45)
+ - [All of your international packages are about to get more expensive](https://www.theverge.com/news/716463/trump-white-house-end-de-minimis-exemption)
  - [Apple is probably stuck with iPhone manufacture in India](https://appleinsider.com/articles/25/07/30/apple-is-probably-stuck-with-iphone-manufacture-in-india?utm_source=rss)
  - [Spotify’s terrible privacy settings just leaked Palmer Luckey’s bops and bangers](https://www.theverge.com/privacy/716386/spotifys-terrible-privacy-settings-just-leaked-palmer-luckeys-bops-and-bangers)
- - [eBay reports Q2 revenue up 6% YoY to $2.73B, vs. $2.64B est., gross merchandise volume up 6% to $19.5B, net income up 64% to $368M; EBAY jumps 10%+ after hours &lpar;Natalie Weger/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p44#a250730p44)
- - [Apple and others back government plan to digitize healthcare](https://appleinsider.com/articles/25/07/30/apple-and-others-back-government-plan-to-digitize-healthcare?utm_source=rss)
- - [Oxide Computer, which provides on-premise cloud computers to businesses, raised a $100M Series B led by Thomas Tull&#39;s US Innovative Technology Fund &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250730/p43#a250730p43)<!-- TECH:END -->
+ - [eBay reports Q2 revenue up 6% YoY to $2.73B, vs. $2.64B est., gross merchandise volume up 6% to $19.5B, net income up 64% to $368M; EBAY jumps 10%+ after hours &lpar;Natalie Weger/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p44#a250730p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

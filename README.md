@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An inside look at ex-unicorn Builder.ai&#39;s demise, which oversold its AI platform&#39;s abilities and frustrated customers with delivery delays and buggy products &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/250730/p8#a250730p8)
+ - [Israel-based Teramount, which develops fiber-to-chip interconnect tools for AI infrastructure chips, raised a $50M Series A led by Koch Disruptive Technologies &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250730/p7#a250730p7)
  - [A US trade group for 30+ fintechs and aggregators says JPMorgan&#39;s plan to charge for data access could cost some firms 60% to over 100% of their annual revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/250730/p6#a250730p6)
  - [Worldline reports Q2 revenue down 4.4% YoY to €1.14B and a net loss of €4.2B for H1 2025, after booking a €4.1B impairment tied to merchant services business &lpar;Claudia Cohen/Bloomberg&rpar;](http://www.techmeme.com/250730/p5#a250730p5)
- - [The judge in Elon Musk&#39;s OpenAI lawsuit strikes down 16 of OpenAI&#39;s 55 affirmative defenses, accuses both sides of &quot;gamesmanship&quot; and over-litigating the case &lpar;Laura Italiano/Business Insider&rpar;](http://www.techmeme.com/250730/p4#a250730p4)
- - [Sources: the US Commerce Department is discussing charging patent holders 1%-5% of their patent value, a radical move likely to spark pushback from businesses &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250730/p3#a250730p3)
- - [Top Verizon Promo Codes &amp; Deals | August 2025](https://www.wired.com/story/verizon-promo-code/)<!-- TECH:END -->
+ - [The judge in Elon Musk&#39;s OpenAI lawsuit strikes down 16 of OpenAI&#39;s 55 affirmative defenses, accuses both sides of &quot;gamesmanship&quot; and over-litigating the case &lpar;Laura Italiano/Business Insider&rpar;](http://www.techmeme.com/250730/p4#a250730p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

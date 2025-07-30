@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Newest AI Model Acts like a Satellite to Track Climate Change](https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/)
  - [Gamers Are Furious About the Censorship of NSFW Games—and They’re Fighting Back](https://www.wired.com/story/gamers-are-furious-about-the-censorship-of-nsfw-games-and-theyre-fighting-back/)
  - [In a report, Trump&#39;s Working Group on Digital Asset Markets urges regulators to clarify digital asset trading rules and ease adoption of new financial products &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/250730/p33#a250730p33)
  - [Google plans to roll out ML-powered age estimation in the US over the next few weeks to detect whether users are under 18 and then enable existing protections &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250730/p32#a250730p32)
- - [PUBG&amp;#8217;s plan to beat Fortnite, Roblox, and every other game](https://www.theverge.com/games/716209/pubg-2-0-fortnite-roblox-platform-krafton-earnings)
- - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_source=rss)<!-- TECH:END -->
+ - [PUBG&amp;#8217;s plan to beat Fortnite, Roblox, and every other game](https://www.theverge.com/games/716209/pubg-2-0-fortnite-roblox-platform-krafton-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats a bummer](http://9gag.com/gag/a9yBARK)
- - 😝 [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)
- - 💣 [Maximum cruelty](http://9gag.com/gag/abAEzwr)
- - 😝 [Men are simpel](http://9gag.com/gag/a0ew53n)
- - 👉 [Team Work](http://9gag.com/gag/awyvQRQ)<!-- MEMES:END -->
+ - 😝 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
+ - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 😝 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - 👉 [I just leave this here.](http://9gag.com/gag/aW49qXx)<!-- MEMES:END -->
 
 ---
 

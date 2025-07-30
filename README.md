@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
  - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
- - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
- - 👉 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)<!-- MEMES:END -->
+ - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
+ - 💣 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
+ - 😝 [FYI](http://9gag.com/gag/aqyAryQ)
+ - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
 
 ---
 

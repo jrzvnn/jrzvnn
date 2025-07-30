@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
- - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
- - 💣 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 😝 [Well, well, well, who would have thought?](http://9gag.com/gag/ajPyq6p)
+ - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
+ - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [Hear me out...](http://9gag.com/gag/azxQAYb)<!-- MEMES:END -->
+ - 👉 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside the LG G5&amp;#8217;s shocking last-place finish at the 2025 TV Shootout](https://www.theverge.com/analysis/715450/2025-tv-shootout-value-electronics)
  - [Zuckerberg says superintelligence is in sight, and, when personal superintelligence comes, context-aware devices like glasses will become our primary computers &lpar;Mark Zuckerberg/Meta&rpar;](http://www.techmeme.com/250730/p27#a250730p27)
  - [TikTok videos are about to get crowdsourced fact checks on them](https://www.theverge.com/news/715798/tiktok-videos-footnotes-crowdsourced-fact-checks-launch)
  - [Only the base iPhone 17 may escape a $50 price hike](https://appleinsider.com/articles/25/07/30/only-the-base-iphone-17-may-escape-a-50-price-hike?utm_source=rss)
- - [Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st](https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2)
- - [TernX Review &lpar;2025&rpar;: Travel With Young Kids Just Got Easier](https://www.wired.com/review/ternx-carry-on-luggage-stroller/)<!-- TECH:END -->
+ - [Nintendo&amp;#8217;s next Switch 2 Direct is on July 31st](https://www.theverge.com/games/715733/nintendo-direct-annoucement-july-2025-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

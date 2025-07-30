@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
- - 😝 [That meme](http://9gag.com/gag/a34njrN)
- - 💣 [I want to read your theories. What&#39;s in the box?](http://9gag.com/gag/aryzNEV)
+ - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 😝 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)
+ - 💣 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 👉 [That meme](http://9gag.com/gag/a34njrN)<!-- MEMES:END -->
 
 ---
 

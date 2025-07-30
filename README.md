@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube will now allow videos with strong profanity in the first seven seconds to be fully monetized, reversing previous restrictions that limited ad revenue &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250730/p14#a250730p14)
+ - [Buy a 2.4-inch Macintosh before Apple stops you](https://appleinsider.com/articles/25/07/29/buy-a-24-inch-macintosh-plus-before-apple-stops-you?utm_source=rss)
+ - [The Hyperflexible People Who May Help Unlock Better Sleep Apnea Treatments](https://www.wired.com/story/eds-sleep-apnea-treatments/)
  - [A look at Russia&#39;s coordinated crackdown on foreign tech services and shift to state-backed alternatives, as it names VK&#39;s Max its national messaging app &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p13#a250730p13)
- - [Google says it will sign the EU&#39;s AI Code of Practice, in a boost to EU&#39;s efforts to regulate AI in the face of opposition from Meta and pressure from the US &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/250730/p12#a250730p12)
- - [Lelo Dot Review: A Clitoral Pinpoint Vibrator](https://www.wired.com/review/lelo-dot/)
- - [The US-China trade war has spurred demand for Vietnamese companies that produce chip components like wafers, as Vietnam scales up its semiconductor ambitions &lpar;Lam Le/Rest of World&rpar;](http://www.techmeme.com/250730/p11#a250730p11)
- - [A look at OneChronos, as it seeks to create &quot;smart markets&quot; that would allow firms to trade GPU compute like other commodities, such as electricity and oil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250730/p10#a250730p10)<!-- TECH:END -->
+ - [Google says it will sign the EU&#39;s AI Code of Practice, in a boost to EU&#39;s efforts to regulate AI in the face of opposition from Meta and pressure from the US &lpar;Alice Hancock/Financial Times&rpar;](http://www.techmeme.com/250730/p12#a250730p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

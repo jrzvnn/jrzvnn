@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
  - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
+ - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
+ - 💣 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
+ - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
  - 👉 [I just leave this here.](http://9gag.com/gag/aW49qXx)<!-- MEMES:END -->
 
 ---

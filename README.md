@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gamers Are Furious About the Censorship of NSFW Games—and They’re Fighting Back](https://www.wired.com/story/gamers-are-furious-about-the-censorship-of-nsfw-games-and-theyre-fighting-back/)
+ - [In a report, Trump&#39;s Working Group on Digital Asset Markets urges regulators to clarify digital asset trading rules and ease adoption of new financial products &lpar;Josh Wingrove/Bloomberg&rpar;](http://www.techmeme.com/250730/p33#a250730p33)
+ - [Google plans to roll out ML-powered age estimation in the US over the next few weeks to detect whether users are under 18 and then enable existing protections &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250730/p32#a250730p32)
  - [PUBG&amp;#8217;s plan to beat Fortnite, Roblox, and every other game](https://www.theverge.com/games/716209/pubg-2-0-fortnite-roblox-platform-krafton-earnings)
- - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_source=rss)
- - [Dropbox says it will discontinue Dropbox Passwords, launched in 2020, on October 28 to focus on its core product, and recommends 1Password as a replacement &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/250730/p31#a250730p31)
- - [Severe Chrome browser attack vector fixed in latest Apple OS updates](https://appleinsider.com/articles/25/07/30/severe-chrome-browser-attack-vector-fixed-in-latest-apple-os-updates?utm_source=rss)
- - [I Watched AI Agents Try to Hack My Vibe-Coded Websit](https://www.wired.com/story/i-watched-ai-agents-try-to-hack-my-vibe-coded-websit/)<!-- TECH:END -->
+ - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

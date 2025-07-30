@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is that a billboard or are you just happy to see an iPhone?](https://appleinsider.com/articles/25/07/30/is-that-a-billboard-or-are-you-just-happy-to-see-an-iphone?utm_source=rss)
- - [Layoffs hit CNET as its parent company goes on a buying spree](https://www.theverge.com/news/715220/ziff-davis-creators-guild-cnet-layoffs)
- - [Dropbox is shutting down its password manager](https://www.theverge.com/news/716303/dropbox-passwords-manager-shut-down)
- - [Apple&#39;s longtime partner Foxconn investing big on AI infrastructure construction](https://appleinsider.com/articles/25/07/30/apples-longtime-partner-foxconn-investing-big-on-ai-infrastructure-construction?utm_source=rss)
- - [Google’s Newest AI Model Acts like a Satellite to Track Climate Change](https://www.wired.com/story/googles-newest-ai-model-acts-like-a-satellite-to-track-climate-change/)<!-- TECH:END -->
+ - [Microsoft reports strong cloud earnings, with Windows and Xbox up too](https://www.theverge.com/news/716191/microsoft-q4-2025-earnings-revenue-profits-windows-xbox-gaming-surface)
+ - [Meta Reports Second Quarter 2025 Results &lpar;Meta&rpar;](http://www.techmeme.com/250730/p36#a250730p36)
+ - [Earnings Release FY25 Q4 &lpar;Microsoft&rpar;](http://www.techmeme.com/250730/p35#a250730p35)
+ - [8BitDo’s wireless Nintendo 64 controller is now available](https://www.theverge.com/news/716292/8bitdo-64-wireless-controller-nintendo-analogue-3d)
+ - [Mark Zuckerberg says &quot;We&#39;ll need to be rigorous about mitigating&quot; new risks posed by superintelligence and &quot;careful about what we choose to open source&quot; &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/250730/p34#a250730p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

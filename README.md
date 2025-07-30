@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hits back at DOJ antitrust suit paragraph by paragraph in scathing response](https://appleinsider.com/articles/25/07/30/apple-hits-back-at-doj-antitrust-suit-paragraph-by-paragraph-in-scathing-response?utm_source=rss)
- - [Apple responds to the DOJ&#39;s antitrust lawsuit from March 2024, saying it sets &quot;a dangerous precedent&quot; and &quot;threatens the very principles that set iPhone apart&quot; &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250729/p46#a250729p46)
- - [Sources: Cohere has told investors it expects to generate $200M+ in annualized revenue by the end of 2025, up from $70M in annualized revenue as of February &lpar;The Information&rpar;](http://www.techmeme.com/250729/p45#a250729p45)
- - [New iPhone 17 dummy models estimate how some expected colors may look](https://appleinsider.com/articles/25/07/29/new-iphone-17-dummy-models-estimate-how-some-expected-colors-may-look?utm_source=rss)
- - [Australia says it will include YouTube in its ban on social media for children under 16 years of age, reversing an earlier decision to exempt the platform &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/250729/p44#a250729p44)<!-- TECH:END -->
+ - [The UK Supreme Court denied Uber&#39;s appeal in a case over VAT, forcing Uber to pay a 20% VAT on fares outside London while rival private taxi operators pay none &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250729/p48#a250729p48)
+ - [How to add vocals &amp; voiceovers with Voice Memos layered recording](https://appleinsider.com/inside/iphone-16/tips/how-to-add-vocals-voiceovers-with-voice-memos-layered-recording?utm_source=rss)
+ - [Repeated warnings of AI-driven layoffs is fueling anxiety among workers, who report feeling pressured to accept pay cuts or worse conditions to keep their jobs &lpar;Anne Lutz Fernandez/Nobody Wants This&rpar;](http://www.techmeme.com/250729/p47#a250729p47)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, July 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-july-30/#ftag=CAD590a51e)
+ - [Apple hits back at DOJ antitrust suit paragraph by paragraph in scathing response](https://appleinsider.com/articles/25/07/30/apple-hits-back-at-doj-antitrust-suit-paragraph-by-paragraph-in-scathing-response?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

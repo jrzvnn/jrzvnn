@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And What hospital was this at???](http://9gag.com/gag/a34nqE8)
- - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
- - 💣 [Oof](http://9gag.com/gag/aByowgO)
+ - 😝 [We just need TitiTes](http://9gag.com/gag/aND3WM4)
+ - 😝 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
+ - 💣 [That meme](http://9gag.com/gag/a34njrN)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
  - 👉 [I hate people that swipe](http://9gag.com/gag/aW498Q2)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funny.. trust me](http://9gag.com/gag/aAyZwmL)
- - 😝 [It rained](http://9gag.com/gag/axy4Vvb)
- - 💣 [Psycho the rapist](http://9gag.com/gag/axy4VzW)
+ - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 😝 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
+ - 💣 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [I guess it\u2019s time to watch Gladiator again lads.](http://9gag.com/gag/an7Vbzb)<!-- MEMES:END -->
+ - 👉 [Hear me out...](http://9gag.com/gag/azxQAYb)<!-- MEMES:END -->
 
 ---
 

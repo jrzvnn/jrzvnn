@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16e success is a shift in Apple&#39;s upgrade tactics](https://appleinsider.com/articles/25/07/30/iphone-16e-success-is-a-shift-in-apples-upgrade-tactics?utm_source=rss)
- - [Showrunner, an Amazon-backed AI streaming service, launches Thursday, letting users paying $10-$40/mo. to create their own animated shows or build on others&#39; IP &lpar;Lucia Moses/Business Insider&rpar;](http://www.techmeme.com/250730/p30#a250730p30)
- - [Google is using AI age checks to lock down user accounts](https://www.theverge.com/news/716154/google-ai-age-estimation-under-18)
- - [Everything You Wanted to Know About China’s Auto Industry Takeover](https://www.wired.com/story/electric-vehicles-china-takeover/)
- - [You can hide an AirTag in Skechers’ new kids’ shoes](https://www.theverge.com/news/716076/find-my-skechers-shoes-apple-airtag-tracking)<!-- TECH:END -->
+ - [PUBG&amp;#8217;s plan to beat Fortnite, Roblox, and every other game](https://www.theverge.com/games/716209/pubg-2-0-fortnite-roblox-platform-krafton-earnings)
+ - [How to use Starlink with iPhone &amp; how to disable it if you don&#39;t want it](https://appleinsider.com/inside/iphone-16/tips/how-to-use-starlink-with-iphone-how-to-disable-it-if-you-dont-want-it?utm_source=rss)
+ - [Dropbox says it will discontinue Dropbox Passwords, launched in 2020, on October 28 to focus on its core product, and recommends 1Password as a replacement &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/250730/p31#a250730p31)
+ - [Severe Chrome browser attack vector fixed in latest Apple OS updates](https://appleinsider.com/articles/25/07/30/severe-chrome-browser-attack-vector-fixed-in-latest-apple-os-updates?utm_source=rss)
+ - [I Watched AI Agents Try to Hack My Vibe-Coded Websit](https://www.wired.com/story/i-watched-ai-agents-try-to-hack-my-vibe-coded-websit/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

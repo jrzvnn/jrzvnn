@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oof](http://9gag.com/gag/aByowgO)
- - 😝 [Women](http://9gag.com/gag/aRBDevA)
+ - 😝 [WHAT BUSHES!!!](http://9gag.com/gag/a7oAZD2)
+ - 😝 [That meme](http://9gag.com/gag/a34njrN)
  - 💣 [Just trust the man](http://9gag.com/gag/awyv5Ar)
  - 😝 [That\u2019s gotta be a classified joke. Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/an7Vb5V)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 👉 [The fastest transformation ever](http://9gag.com/gag/aND3WX4)<!-- MEMES:END -->
 
 ---
 

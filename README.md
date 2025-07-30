@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Savage](http://9gag.com/gag/abAEZjr)
- - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
- - 💣 [Old but gold](http://9gag.com/gag/aGyb1dX)
- - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 👉 [Great place to work?](http://9gag.com/gag/aryzbzK)<!-- MEMES:END -->
+ - 😝 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
+ - 😝 [Can&#39;t argue with that](http://9gag.com/gag/aD2MWoK)
+ - 💣 [Wingcat](http://9gag.com/gag/aD2Mj1x)
+ - 😝 [No original experiences. No original posts.](http://9gag.com/gag/aD2Mzw9)
+ - 👉 [No potato, have a potato farmer instead](http://9gag.com/gag/adBb78D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man had enough](http://9gag.com/gag/aAyZx3p)
- - 😝 [Bang Gang](http://9gag.com/gag/axy4V2M)
- - 💣 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - 😝 [Makes sense to me](http://9gag.com/gag/aW49qj3)
- - 👉 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)<!-- MEMES:END -->
+ - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
+ - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
+ - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
+ - 👉 [Potato in the comment section](http://9gag.com/gag/azxQX4m)<!-- MEMES:END -->
 
 ---
 

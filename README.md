@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Immigrants](http://9gag.com/gag/aZZvgVz)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 💣 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
+ - 👉 [Which way, western man](http://9gag.com/gag/aryzG50)<!-- MEMES:END -->
 
 ---
 

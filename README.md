@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI will sign the EU AI Code&#39;s safety and security chapter but says the code&#39;s other requirements hurt innovation and its copyright terms are an overreach &lpar;Chandni Shah/Reuters&rpar;](http://www.techmeme.com/250731/p9#a250731p9)
+ - [Hey Microsoft, is it &amp;#8216;Xbox PC&amp;#8217; or &amp;#8216;Xbox on PC&amp;#8217;?](https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes)
+ - [8 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
  - [The Cyberspace Administration of China questioned Nvidia over H20 chip security concerns after US lawmakers urged adding tracking features to exported AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250731/p8#a250731p8)
- - [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
- - [Crescendo 2 Vibrator Review: Above the Curve](https://www.wired.com/review/crescendo-2-vibrator/)
- - [How AI has transformed data center design, with concerns about overspending on AI infrastructure, sparked by DeepSeek, fading amid the ongoing building frenzy &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p7#a250731p7)
- - [OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p6#a250731p6)<!-- TECH:END -->
+ - [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

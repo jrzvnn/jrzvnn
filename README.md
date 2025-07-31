@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Klarna is considering reviving its potential NY IPO as soon as September, after earlier putting plans on hold amid market turbulence due to tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p21#a250731p21)
- - [8 Best Video Doorbell Cameras &lpar;2025&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
- - [Oakley Meta HSTN Limited Edition review: a polarizing choice](https://www.theverge.com/tech-accessory-review/716360/oakley-meta-hstn-limited-edition-review-smart-glasses-wearables)
- - [All the news from Nintendo&amp;#8217;s July 2025 Direct showcase](https://www.theverge.com/games/716586/nintendo-partner-direct-july-2025-news-trailers)
- - [Stack Overflow survey: 84% of developers use or plan to use AI tools in their workflow, up from 76% in 2024, and 33% trust AI accuracy, down from 43% in 2024 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/250731/p20#a250731p20)<!-- TECH:END -->
+ - [Join Us for WIRED’s AI Power Summit](https://www.wired.com/story/wired-ai-power-summit/)
+ - [Safe Security, formerly Lucideus, which quantifies cyber risk using ML, raised a $70M Series C led by Avataar Ventures, bringing its total funding to $170M+ &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/250731/p22#a250731p22)
+ - [The Verge’s favorite backpacks, totes, and other bags for 2025](https://www.theverge.com/tech/715348/backpacks-totes-bags-favorites)
+ - [Nvidia will support GeForce drivers on Windows 10 until October 2026](https://www.theverge.com/news/716607/nvidia-geforce-game-ready-driver-window-10)
+ - [Sources: Klarna is considering reviving its potential NY IPO as soon as September, after earlier putting plans on hold amid market turbulence due to tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p21#a250731p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

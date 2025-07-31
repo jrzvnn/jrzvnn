@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft becomes the second $4 trillion company](https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation)
+ - [Microsoft&#39;s FY 2025 report excludes the names of rivals, breaking from a common industry practice; its last report designated 25+ companies as competitors &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p31#a250731p31)
+ - [Tether reports Q2 net profit of $4.9B, a quarterly record, and says it held nearly $9B in bitcoin at the end of the quarter &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250731/p30#a250731p30)
  - [Ford&amp;#8217;s planning a &amp;#8216;Model T moment&amp;#8217; for EVs on August 11th](https://www.theverge.com/news/716799/ford-model-t-moment-ev-announcement-date-earnings)
- - [Israel-based Noma Security, whose platform secures enterprise data and AI models against AI agents, raised a $100M Series B, bringing its total funding to $132M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250731/p29#a250731p29)
- - [Donald Trump’s New Crypto Bible Is Everything the Industry Ever Wanted](https://www.wired.com/story/donald-trumps-new-crypto-bible-is-everything-the-industry-ever-wanted/)
- - [Turkey-based Good Job Games, which develops Match-3 games like the popular Match Villains, raised a $60M Series A, after raising a $23M seed six months ago &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250731/p28#a250731p28)
- - [Thumby Color micro-review: a delightfully tiny GBA clone that doesn’t play Nintendo](https://www.theverge.com/hands-on/716423/thumby-color-micro-review-gba-rp-2350)<!-- TECH:END -->
+ - [Israel-based Noma Security, whose platform secures enterprise data and AI models against AI agents, raised a $100M Series B, bringing its total funding to $132M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250731/p29#a250731p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

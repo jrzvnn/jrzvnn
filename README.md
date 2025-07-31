@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic’s Game Store is bringing Fortnite back to Google Play](https://www.theverge.com/news/716914/fortnite-epic-games-store-android-google-play)
+ - [Figma opens at $85 on the NYSE, after selling shares at $33 in its IPO, hitting a ~$50B valuation, more than a year after Adobe&#39;s $20B failed acquisition &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p36#a250731p36)
+ - [Still Using Windows 10? Here&#39;s How to Get Another Year of Updates for Free](https://www.wired.com/story/still-using-windows-10-heres-how-to-get-another-year-of-updates-for-free/)
  - [Aaron Sorkin’s Social Network sequel might recast Mark Zuckerberg](https://www.theverge.com/news/716927/meta-mark-zuckerberg-social-network-aaron-sorkin-recast)
- - [A look at Big Tech&#39;s AI talent wars with massive compensation packages; sources: Meta told potential hires they would be allotted 30K GPUs for their AI research &lpar;New York Times&rpar;](http://www.techmeme.com/250731/p35#a250731p35)
- - [The Grave Long-Term Effects of the Gaza Malnutrition Crisis](https://www.wired.com/story/how-malnutrition-affects-the-body-gaza-hunger-children-health/)
- - [Tesla’s ‘robotaxi’ rides in San Francisco have a human at the wheel](https://www.theverge.com/news/716867/tesla-robotaxi-san-francisco-launch)
- - [Epic just won its antitrust lawsuit against Google again](https://www.theverge.com/news/716856/epic-v-google-win-in-appeals-court)<!-- TECH:END -->
+ - [Uber Eats Is Giving You a Taste of AI With These New App Features](https://www.cnet.com/tech/services-and-software/uber-eats-is-giving-you-a-taste-of-ai-with-these-new-app-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

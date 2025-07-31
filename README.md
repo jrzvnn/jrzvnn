@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aaron Sorkin’s Social Network sequel might recast Mark Zuckerberg](https://www.theverge.com/news/716927/meta-mark-zuckerberg-social-network-aaron-sorkin-recast)
  - [A look at Big Tech&#39;s AI talent wars with massive compensation packages; sources: Meta told potential hires they would be allotted 30K GPUs for their AI research &lpar;New York Times&rpar;](http://www.techmeme.com/250731/p35#a250731p35)
  - [The Grave Long-Term Effects of the Gaza Malnutrition Crisis](https://www.wired.com/story/how-malnutrition-affects-the-body-gaza-hunger-children-health/)
  - [Tesla’s ‘robotaxi’ rides in San Francisco have a human at the wheel](https://www.theverge.com/news/716867/tesla-robotaxi-san-francisco-launch)
- - [Epic just won its antitrust lawsuit against Google again](https://www.theverge.com/news/716856/epic-v-google-win-in-appeals-court)
- - [Google loses its appeal of a judge&#39;s order requiring an overhaul of its app store policies in an antitrust case filed by Epic Games &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p34#a250731p34)<!-- TECH:END -->
+ - [Epic just won its antitrust lawsuit against Google again](https://www.theverge.com/news/716856/epic-v-google-win-in-appeals-court)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

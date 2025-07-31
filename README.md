@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Salesforce and ServiceNow are in talks to invest ~$750M each in Genesys, which uses AI to automate customer service functions, valuing Genesys at ~$15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p39#a250731p39)
- - [The Switch 2 is off to a speedy start for big third-party games](https://www.theverge.com/games/716859/nintendo-partner-direct-july-cronos-star-wars)
- - [Framework set in Japan to force Apple to allow third-party app stores](https://appleinsider.com/articles/25/07/31/framework-set-in-japan-to-force-apple-to-allow-third-party-app-stores?utm_source=rss)
- - [The US SEC launches Project Crypto, an initiative to &quot;modernize&quot; securities regulations to allow for crypto-based trading &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250731/p38#a250731p38)
- - [Sources detail the rise and fall of Builder.ai, as founder Sachin Duggal&#39;s alleged financial transgressions fueled the first big bust of the generative AI era &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p37#a250731p37)<!-- TECH:END -->
+ - [DJI won’t sell you an Osmo 360 in the US — but these retailers will](https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama)
+ - [Reddit reports Q2 revenue up 78% YoY to $500M, vs. $426M est., daily active uniques up 21% to 110.4M, Q3 guidance above est.; RDDT jumps 10%+ after hours &lpar;Angela Palumbo/Barron&#39;s Online&rpar;](http://www.techmeme.com/250731/p42#a250731p42)
+ - [Amazon reports Q2 AWS revenue up 17.5% YoY to $30.9B, vs. $30.8B est., and AWS operating income up 8.8% YoY to $10.2B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250731/p41#a250731p41)
+ - [Amazon reports Q2 revenue up 13% YoY to $167.7B, operating income up 31% YoY to $19.2B, and net income up 35% YoY to $18.2B &lpar;Amazon&rpar;](http://www.techmeme.com/250731/p40#a250731p40)
+ - [Sources: Salesforce and ServiceNow are in talks to invest ~$750M each in Genesys, which uses AI to automate customer service functions, valuing Genesys at ~$15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p39#a250731p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

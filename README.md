@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix passed Samsung as the world&#39;s top memory maker in Q2, reporting $15.6B in memory revenue vs. Samsung&#39;s $15.2B, as Nvidia heavily relies on its products &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250731/p18#a250731p18)
- - [Asus Chromebook CX14 Review: What You Get for $429](https://www.wired.com/review/asus-chromebook-cx14/)
- - [Uber Eats adds AI tools to generate for menu item descriptions, enhance food images, and more; it will pay customers in some countries for uploading food photos &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250731/p17#a250731p17)
- - [Oxford-based Ultromics, which has developed the first FDA-cleared, Medicare-reimbursed AI tools for cardiology diagnostics, raised a $55M Series C &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250731/p16#a250731p16)
- - [How Apple’s New Spotlight Compares to Raycast](https://www.wired.com/story/how-new-macos-spotlight-compares-to-raycast/)<!-- TECH:END -->
+ - [Sources: Klarna is considering reviving its potential NY IPO as soon as September, after earlier putting plans on hold amid market turbulence due to tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p21#a250731p21)
+ - [8 Best Video Doorbell Cameras &lpar;2025&rpar;: Smart, Battery, AI, Budget, and Subscription-Free](https://www.wired.com/gallery/best-video-doorbells/)
+ - [Oakley Meta HSTN Limited Edition review: a polarizing choice](https://www.theverge.com/tech-accessory-review/716360/oakley-meta-hstn-limited-edition-review-smart-glasses-wearables)
+ - [All the news from Nintendo&amp;#8217;s July 2025 Direct showcase](https://www.theverge.com/games/716586/nintendo-partner-direct-july-2025-news-trailers)
+ - [Stack Overflow survey: 84% of developers use or plan to use AI tools in their workflow, up from 76% in 2024, and 33% trust AI accuracy, down from 43% in 2024 &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/250731/p20#a250731p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

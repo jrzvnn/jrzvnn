@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
- - 💣 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
+ - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
+ - 😝 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
+ - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
+ - 👉 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)<!-- MEMES:END -->
 
 ---
 

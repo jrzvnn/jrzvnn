@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
  - [Crescendo 2 Vibrator Review: Above the Curve](https://www.wired.com/review/crescendo-2-vibrator/)
  - [How AI has transformed data center design, with concerns about overspending on AI infrastructure, sparked by DeepSeek, fading amid the ongoing building frenzy &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p7#a250731p7)
- - [OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250731/p6#a250731p6)<!-- TECH:END -->
+ - [OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p6#a250731p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

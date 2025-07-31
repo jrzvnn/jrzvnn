@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
- - 😝 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
- - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
+ - 👉 [Choose 1 Ideology that you prefer over the others](http://9gag.com/gag/awyvAAB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Forklift certified](http://9gag.com/gag/aZZvg46)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - 😝 [Man had enough](http://9gag.com/gag/aAyZx3p)
- - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
+ - 😝 [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)
+ - 😝 [Men are simpel](http://9gag.com/gag/a0ew53n)
+ - 💣 [Looked mommy I picked a dog. No, the dog picked you](http://9gag.com/gag/ajPyE0G)
+ - 😝 [A short and witty title](http://9gag.com/gag/azxQXPq)
+ - 👉 [Team Work](http://9gag.com/gag/awyvQRQ)<!-- MEMES:END -->
 
 ---
 

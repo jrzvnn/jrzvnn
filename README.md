@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
+ - [Anaconda, which provides AI development tools for developers and data scientists, raised $150M+ led by Insight Partners, source says at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p23#a250731p23)
  - [Join Us for WIRED’s AI Power Summit](https://www.wired.com/story/wired-ai-power-summit/)
  - [Safe Security, formerly Lucideus, which quantifies cyber risk using ML, raised a $70M Series C led by Avataar Ventures, bringing its total funding to $170M+ &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/250731/p22#a250731p22)
- - [The Verge’s favorite backpacks, totes, and other bags for 2025](https://www.theverge.com/tech/715348/backpacks-totes-bags-favorites)
- - [Nvidia will support GeForce drivers on Windows 10 until October 2026](https://www.theverge.com/news/716607/nvidia-geforce-game-ready-driver-window-10)
- - [Sources: Klarna is considering reviving its potential NY IPO as soon as September, after earlier putting plans on hold amid market turbulence due to tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p21#a250731p21)<!-- TECH:END -->
+ - [The Verge’s favorite backpacks, totes, and other bags for 2025](https://www.theverge.com/tech/715348/backpacks-totes-bags-favorites)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

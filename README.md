@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
  - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
- - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
+ - 😝 [Makes sense to me](http://9gag.com/gag/aW49qj3)
+ - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
 
 ---
 

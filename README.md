@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
- - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 💣 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
+ - 😝 [Sensitive you say](http://9gag.com/gag/aryzg6y)
+ - 😝 [When the mods question all the shitposting posters today](http://9gag.com/gag/an7Vbn0)
+ - 💣 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Which way, western man](http://9gag.com/gag/aryzG50)<!-- MEMES:END -->
+ - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
 
 ---
 

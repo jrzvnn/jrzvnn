@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Came from Core Memory](http://9gag.com/gag/aW491p2)
- - 😝 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)
- - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
+ - 😝 [Ouch](http://9gag.com/gag/abAEzmL)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Look we have polls now.](http://9gag.com/gag/adBbKAZ)<!-- MEMES:END -->
+ - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
 
 ---
 

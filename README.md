@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
- - 😝 [Makes sense to me](http://9gag.com/gag/aW49qj3)
- - 💣 [Came from Core Memory](http://9gag.com/gag/aW491p2)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 👉 [Ouch](http://9gag.com/gag/abAEzmL)<!-- MEMES:END -->
+ - 😝 [Team Work](http://9gag.com/gag/awyvQRQ)
+ - 😝 [I just wanna buy a sign I don\u2019t need from Tony.](http://9gag.com/gag/aPAnBKP)
+ - 💣 [A short and witty title](http://9gag.com/gag/azxQXPq)
+ - 😝 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
+ - 👉 [I just leave this here.](http://9gag.com/gag/aW49qXx)<!-- MEMES:END -->
 
 ---
 

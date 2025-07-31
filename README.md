@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look we have polls now.](http://9gag.com/gag/adBbKAZ)
- - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 😝 [Came from Core Memory](http://9gag.com/gag/aW491p2)
+ - 😝 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)
+ - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)<!-- MEMES:END -->
+ - 👉 [Look we have polls now.](http://9gag.com/gag/adBbKAZ)<!-- MEMES:END -->
 
 ---
 

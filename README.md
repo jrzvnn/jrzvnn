@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - 😝 [A guy wanted to adopt a cat, but he wouldn&#39;t leave his brother&#39;s side, so he had to take both of them](http://9gag.com/gag/aO8GzxM)
- - 💣 [I just leave this here.](http://9gag.com/gag/aW49qXx)
- - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
+ - 😝 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
+ - 😝 [Thats a bummer](http://9gag.com/gag/a9yBARK)
+ - 💣 [Play stupid games, win stupid prizes](http://9gag.com/gag/aoyDOY0)
+ - 😝 [Team Work](http://9gag.com/gag/awyvQRQ)
+ - 👉 [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)<!-- MEMES:END -->
 
 ---
 

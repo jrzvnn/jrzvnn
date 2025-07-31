@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The take down](http://9gag.com/gag/a4PVbD6)
- - 😝 [Makes sense to me](http://9gag.com/gag/aW49qj3)
- - 💣 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)
+ - 😝 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
+ - 👉 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)<!-- MEMES:END -->
 
 ---
 

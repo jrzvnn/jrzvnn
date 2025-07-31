@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sensitive you say](http://9gag.com/gag/aryzg6y)
- - 😝 [When the mods question all the shitposting posters today](http://9gag.com/gag/an7Vbn0)
- - 💣 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
+ - 😝 [Holy new trinity](http://9gag.com/gag/aPAn97g)
+ - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
+ - 💣 [Just Go Talk to Her \u2014 The Worst She Can Say Is &#39;No&#39;](http://9gag.com/gag/aQzVeyq)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
+ - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 
 ---
 

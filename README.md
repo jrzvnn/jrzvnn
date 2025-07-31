@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a gentleman - 101](http://9gag.com/gag/aKGpV03)
- - 😝 [Thats a bummer](http://9gag.com/gag/a9yBARK)
- - 💣 [Play stupid games, win stupid prizes](http://9gag.com/gag/aoyDOY0)
- - 😝 [Team Work](http://9gag.com/gag/awyvQRQ)
- - 👉 [He&#39;s got the moves](http://9gag.com/gag/aLnr8ZA)<!-- MEMES:END -->
+ - 😝 [Act cool](http://9gag.com/gag/a7oADEm)
+ - 😝 [Awkward](http://9gag.com/gag/aND3AOK)
+ - 💣 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
+ - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
 
 ---
 

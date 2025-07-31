@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare reports Q2 revenue up 28% YoY to $512.3M, vs. $501.21M est., and forecasts Q3 revenue of $543.5M to $544.5M, vs. $538.6M est. &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250731/p52#a250731p52)
+ - [Apple incurred ~$800M in tariff-related costs in Q3, $100M less than expected, and expects a jump to $1.1B in Q4 if current rates and policies remain in place &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/250731/p51#a250731p51)
  - [Apple shipped its 3 billionth iPhone](https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone)
  - [Apple staring down $2 billion in total tariff costs in total before end of September](https://appleinsider.com/articles/25/07/31/apple-staring-down-2-billion-in-total-tariff-costs-in-total-before-end-of-september?utm_source=rss)
- - [Apple has now sold over 3B iPhones since its 2007 launch; it reached 1B sold in July 2016, and is estimated to have reached 2B around September 2021 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250731/p50#a250731p50)
- - [Fears over tariff price rises prompted panic buying of iPhones](https://appleinsider.com/articles/25/07/31/fears-over-tariff-price-rises-prompted-panic-buying-of-iphones?utm_source=rss)
- - [Apple says Trump’s tariffs are adding another $1 billion to its costs](https://www.theverge.com/news/717108/apple-trump-tariffs-1-billion-cost)<!-- TECH:END -->
+ - [Apple has now sold over 3B iPhones since its 2007 launch; it reached 1B sold in July 2016, and is estimated to have reached 2B around September 2021 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250731/p50#a250731p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

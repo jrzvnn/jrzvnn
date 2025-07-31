@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After announcing the $799 Phone 3 in early July, Nothing has been contending with a vocal contingent of fans criticizing the phone&#39;s industrial design and price &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250731/p3#a250731p3)
  - [Arm CEO Rene Haas says the company is accelerating its R&amp;D spending as it considers offering &quot;full end solutions&quot;, suggesting plans to launch its own chips &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250731/p2#a250731p2)
  - [Therabody Promo Code: 15% Off | August 2025](https://www.wired.com/story/therabody-promo-code/)
  - [Top Verizon Promo Codes &amp; Deals | August 2025](https://www.wired.com/story/verizon-promo-code/)
- - [How to Watch Arsenal vs. Tottenham From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-arsenal-vs-tottenham-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)
- - [How to Watch England vs. India From Anywhere for Free: Livestream 5th Test Cricket](https://www.cnet.com/tech/services-and-software/how-to-watch-england-vs-india-from-anywhere-for-free-livestream-5th-test-cricket/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Arsenal vs. Tottenham From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-arsenal-vs-tottenham-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

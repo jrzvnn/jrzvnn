@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thumby Color micro-review: a delightfully tiny GBA clone that doesn’t play Nintendo](https://www.theverge.com/hands-on/716423/thumby-color-micro-review-gba-rp-2350)
- - [Fleet management software provider Motive raises $150M led by Kleiner Perkins; the company reportedly could go public by the end of 2025 &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250731/p27#a250731p27)
- - [GuliKit’s new budget-friendly controller can wake the Switch 2](https://www.theverge.com/news/716763/gulikit-elves-2-controller-wake-switch-2)
- - [Future Mac displays could automatically bend to present the best viewing angle](https://appleinsider.com/articles/25/07/31/future-mac-displays-could-automatically-bend-to-present-the-best-viewing-angle?utm_source=rss)
- - [Inside the Summit Where China Pitched Its AI Agenda to the World](https://www.wired.com/story/china-artificial-intelligence-policy-laws-race/)<!-- TECH:END -->
+ - [Ford&amp;#8217;s planning a &amp;#8216;Model T moment&amp;#8217; for EVs on August 11th](https://www.theverge.com/news/716799/ford-model-t-moment-ev-announcement-date-earnings)
+ - [Israel-based Noma Security, whose platform secures enterprise data and AI models against AI agents, raised a $100M Series B, bringing its total funding to $132M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250731/p29#a250731p29)
+ - [Donald Trump’s New Crypto Bible Is Everything the Industry Ever Wanted](https://www.wired.com/story/donald-trumps-new-crypto-bible-is-everything-the-industry-ever-wanted/)
+ - [Turkey-based Good Job Games, which develops Match-3 games like the popular Match Villains, raised a $60M Series A, after raising a $23M seed six months ago &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/250731/p28#a250731p28)
+ - [Thumby Color micro-review: a delightfully tiny GBA clone that doesn’t play Nintendo](https://www.theverge.com/hands-on/716423/thumby-color-micro-review-gba-rp-2350)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

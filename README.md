@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports Q3 revenue up 10% YoY to $94B, its largest quarterly growth since December 2021, net income up 9% to $23.4B, and China net sales up 4% to $15.4B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250731/p46#a250731p46)
+ - [Apple&#39;s Q3 2025 cash dividend is up in spite of growing tariff concerns](https://appleinsider.com/articles/25/07/31/apples-q3-2025-cash-dividend-is-up-in-spite-of-growing-tariff-concerns?utm_source=rss)
+ - [Fears over tariff price rises prompted panic buying of iPhones](https://appleinsider.com/articles/25/07/31/fears-over-tariff-price-rises-prompted-panic-buying-of-iphones?utm_source=rss)
+ - [Roku reports Q2 revenue up 15% YoY to $1.11B, vs. $1.07B est., a net profit of $10.5M, and Platform segment sales up 18% to $976M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250731/p48#a250731p48)
  - [Apple&#39;s $94B Q3 soundly beats Wall Street thanks to iPhone and China growth](https://appleinsider.com/articles/25/07/31/apples-94b-q3-soundly-beats-wall-street-thanks-to-iphone-and-china-growth?utm_source=rss)
- - [Apple Q3: iPhone up 13% YoY to $44.58B, vs. $40.22B est., Mac up 15% to $8.05B, iPad down 8% to $6.58B, and Wearables, Home, and Accessories down 9% to $7.4B &lpar;Apple&rpar;](http://www.techmeme.com/250731/p45#a250731p45)
- - [Coinbase says its new &quot;everything exchange&quot; will include tokenized assets, stocks, derivatives, prediction markets, and more, for US users in the coming months &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250731/p44#a250731p44)
- - [Amazon reports Q2 AWS revenue up 17.5% YoY to $30.9B, vs. $30.8B est., and AWS operating income up 8.8% YoY to $10.2B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p43#a250731p43)<!-- TECH:END -->
+ - [Apple reports Q3 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 13.3% YoY to $27.42B, vs. $26.8B est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250731/p47#a250731p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

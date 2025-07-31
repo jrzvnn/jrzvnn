@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
  - 😝 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
- - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - 👉 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)<!-- MEMES:END -->
+ - 😝 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
+ - 💣 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
+ - 😝 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)
+ - 👉 [Old but gold](http://9gag.com/gag/aGyb1dX)<!-- MEMES:END -->
 
 ---
 

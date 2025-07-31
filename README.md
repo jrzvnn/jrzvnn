@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple staring down $2 billion in total tariff costs in total before end of September](https://appleinsider.com/articles/25/07/31/apple-staring-down-2-billion-in-total-tariff-costs-in-total-before-end-of-september?utm_source=rss)
  - [Coinbase reports Q2 revenue up 3% YoY to $1.5B, vs. $1.6B est., and retail trading volume up 16% to $43B, vs. $48.05B est.; COIN drops 6%+ after hours &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250731/p49#a250731p49)
  - [Tim Cook says Apple is ‘open to’ AI acquisitions](https://www.theverge.com/news/716790/apple-earnings-q3-2025-ai-tim-cook)
- - [Apple&#39;s $94B Q3 soundly beats Wall Street thanks to iPhone and China growth](https://appleinsider.com/articles/25/07/31/apples-94b-q3-soundly-beats-wall-street-thanks-to-iphone-and-china-growth?utm_source=rss)
- - [Google&amp;#8217;s Pixel Tablet is $190 off for a limited time](https://www.theverge.com/tech/717035/google-pixel-tablet-deal-sale)<!-- TECH:END -->
+ - [High Noon Recalls Alcoholic Drinks Mislabeled as Celsius. What to Do if You Were Impacted](https://www.cnet.com/health/high-noon-recalls-alcoholic-drinks-mislabeled-as-celsius-what-to-do-if-you-were-impacted/#ftag=CAD590a51e)
+ - [Apple&#39;s $94B Q3 soundly beats Wall Street thanks to iPhone and China growth](https://appleinsider.com/articles/25/07/31/apples-94b-q3-soundly-beats-wall-street-thanks-to-iphone-and-china-growth?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Holy new trinity](http://9gag.com/gag/aPAn97g)
- - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
- - 💣 [Just Go Talk to Her \u2014 The Worst She Can Say Is &#39;No&#39;](http://9gag.com/gag/aQzVeyq)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 😝 [Men are simpel](http://9gag.com/gag/a0ew53n)
+ - 💣 [Ouch](http://9gag.com/gag/abAEzmL)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
  - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 

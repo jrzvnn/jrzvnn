@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic’s Game Store is bringing Fortnite back to Google Play](https://www.theverge.com/news/716914/fortnite-epic-games-store-android-google-play)
- - [Figma opens at $85 on the NYSE, after selling shares at $33 in its IPO, hitting a ~$50B valuation, more than a year after Adobe&#39;s $20B failed acquisition &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p36#a250731p36)
- - [Still Using Windows 10? Here&#39;s How to Get Another Year of Updates for Free](https://www.wired.com/story/still-using-windows-10-heres-how-to-get-another-year-of-updates-for-free/)
- - [Aaron Sorkin’s Social Network sequel might recast Mark Zuckerberg](https://www.theverge.com/news/716927/meta-mark-zuckerberg-social-network-aaron-sorkin-recast)
- - [Uber Eats Is Giving You a Taste of AI With These New App Features](https://www.cnet.com/tech/services-and-software/uber-eats-is-giving-you-a-taste-of-ai-with-these-new-app-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources detail the rise and fall of Builder.ai, as founder Sachin Duggal&#39;s alleged financial transgressions fueled the first big bust of the generative AI era &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p37#a250731p37)
+ - [The 28 Best Movies on Apple TV+ Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [States Are Moving to Protect Access to Vaccines](https://www.wired.com/story/states-are-moving-to-protect-access-to-vaccines/)
+ - [Best Apple deals: $799 M4 MacBook Air, $1,299 MacBook Pro, $899 iPad Pro, $169 Apple Watch](https://appleinsider.com/articles/25/07/31/best-apple-deals-799-m4-macbook-air-1299-macbook-pro-899-ipad-pro-169-apple-watch?utm_source=rss)
+ - [Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

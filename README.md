@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
- - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 😝 [Witchcraft cost much more](http://9gag.com/gag/aYQmxDO)
- - 👉 [Potato in the comment section](http://9gag.com/gag/azxQX4m)<!-- MEMES:END -->
+ - 😝 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
+ - 😝 [Makes sense to me](http://9gag.com/gag/aW49qj3)
+ - 💣 [Came from Core Memory](http://9gag.com/gag/aW491p2)
+ - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 👉 [Ouch](http://9gag.com/gag/abAEzmL)<!-- MEMES:END -->
 
 ---
 

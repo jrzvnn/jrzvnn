@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 😝 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
- - 💣 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
+ - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
+ - 😝 [When she asks you not to finish on her face...](http://9gag.com/gag/aYQmxv0)
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Forging a millstone](http://9gag.com/gag/aYQmg6v)<!-- MEMES:END -->
+ - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
 
 ---
 

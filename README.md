@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
- - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 💣 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 😝 [Sick dudes out there wish they was in this position](http://9gag.com/gag/awyvn3B)
- - 👉 [Ouch](http://9gag.com/gag/abAEzmL)<!-- MEMES:END -->
+ - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
+ - 💣 [Ouch](http://9gag.com/gag/abAEzmL)
+ - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 👉 [Yodelayheehoo](http://9gag.com/gag/aW49qBK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shipped its 3 billionth iPhone](https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone)
  - [Apple staring down $2 billion in total tariff costs in total before end of September](https://appleinsider.com/articles/25/07/31/apple-staring-down-2-billion-in-total-tariff-costs-in-total-before-end-of-september?utm_source=rss)
  - [Apple has now sold over 3B iPhones since its 2007 launch; it reached 1B sold in July 2016, and is estimated to have reached 2B around September 2021 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250731/p50#a250731p50)
  - [Fears over tariff price rises prompted panic buying of iPhones](https://appleinsider.com/articles/25/07/31/fears-over-tariff-price-rises-prompted-panic-buying-of-iphones?utm_source=rss)
- - [Apple says Trump’s tariffs are adding another $1 billion to its costs](https://www.theverge.com/news/717108/apple-trump-tariffs-1-billion-cost)
- - [Apple has sold 3 billion iPhones since 2007](https://appleinsider.com/articles/25/07/31/apple-has-sold-3-billion-iphones-since-2007?utm_source=rss)<!-- TECH:END -->
+ - [Apple says Trump’s tariffs are adding another $1 billion to its costs](https://www.theverge.com/news/717108/apple-trump-tariffs-1-billion-cost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

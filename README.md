@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fears over tariff price rises prompted panic buying of iPhones](https://appleinsider.com/articles/25/07/31/fears-over-tariff-price-rises-prompted-panic-buying-of-iphones?utm_source=rss)
+ - [Apple says Trump’s tariffs are adding another $1 billion to its costs](https://www.theverge.com/news/717108/apple-trump-tariffs-1-billion-cost)
+ - [Apple has sold 3 billion iPhones since 2007](https://appleinsider.com/articles/25/07/31/apple-has-sold-3-billion-iphones-since-2007?utm_source=rss)
  - [Apple staring down $2 billion in total tariff costs in total before end of September](https://appleinsider.com/articles/25/07/31/apple-staring-down-2-billion-in-total-tariff-costs-in-total-before-end-of-september?utm_source=rss)
- - [Coinbase reports Q2 revenue up 3% YoY to $1.5B, vs. $1.6B est., and retail trading volume up 16% to $43B, vs. $48.05B est.; COIN drops 6%+ after hours &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250731/p49#a250731p49)
- - [Tim Cook says Apple is ‘open to’ AI acquisitions](https://www.theverge.com/news/716790/apple-earnings-q3-2025-ai-tim-cook)
- - [High Noon Recalls Alcoholic Drinks Mislabeled as Celsius. What to Do if You Were Impacted](https://www.cnet.com/health/high-noon-recalls-alcoholic-drinks-mislabeled-as-celsius-what-to-do-if-you-were-impacted/#ftag=CAD590a51e)
- - [Apple&#39;s $94B Q3 soundly beats Wall Street thanks to iPhone and China growth](https://appleinsider.com/articles/25/07/31/apples-94b-q3-soundly-beats-wall-street-thanks-to-iphone-and-china-growth?utm_source=rss)<!-- TECH:END -->
+ - [Coinbase reports Q2 revenue up 3% YoY to $1.5B, vs. $1.6B est., and retail trading volume up 16% to $43B, vs. $48.05B est.; COIN drops 6%+ after hours &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250731/p49#a250731p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

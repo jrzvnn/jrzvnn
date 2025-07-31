@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Q3 2025 cash dividend is up in spite of growing tariff concerns](https://appleinsider.com/articles/25/07/31/apples-q3-2025-cash-dividend-is-up-in-spite-of-growing-tariff-concerns?utm_source=rss)
- - [Fears over tariff price rises prompted panic buying of iPhones](https://appleinsider.com/articles/25/07/31/fears-over-tariff-price-rises-prompted-panic-buying-of-iphones?utm_source=rss)
- - [Roku reports Q2 revenue up 15% YoY to $1.11B, vs. $1.07B est., a net profit of $10.5M, and Platform segment sales up 18% to $976M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250731/p48#a250731p48)
+ - [Tim Cook says Apple is ‘open to’ AI acquisitions](https://www.theverge.com/news/716790/apple-earnings-q3-2025-ai-tim-cook)
  - [Apple&#39;s $94B Q3 soundly beats Wall Street thanks to iPhone and China growth](https://appleinsider.com/articles/25/07/31/apples-94b-q3-soundly-beats-wall-street-thanks-to-iphone-and-china-growth?utm_source=rss)
- - [Apple reports Q3 revenue from Services, which includes the App Store, Apple TV+, and Apple Music, up 13.3% YoY to $27.42B, vs. $26.8B est. &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250731/p47#a250731p47)<!-- TECH:END -->
+ - [Google&amp;#8217;s Pixel Tablet is $190 off for a limited time](https://www.theverge.com/tech/717035/google-pixel-tablet-deal-sale)
+ - [Tim Cook: We spent on AI companies in the quarter, but nobody big](https://appleinsider.com/articles/25/07/31/tim-cook-we-spent-on-ai-companies-in-the-quarter-but-nobody-big?utm_source=rss)
+ - [Reddit wants to be a search engine now](https://www.theverge.com/news/717095/reddit-q2-2025-earnings-search-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

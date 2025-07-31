@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google loses its appeal of a judge&#39;s order requiring an overhaul of its app store policies in an antitrust case filed by Epic Games &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p34#a250731p34)
+ - [Apple Home will gain new AI adaptive temperature in future update](https://appleinsider.com/articles/25/07/31/apple-home-will-gain-new-ai-adaptive-temperature-in-future-update?utm_source=rss)
  - [Microsoft says Russia&#39;s Secret Blizzard hacking group is impersonating Kaspersky and leveraging Russian ISPs to spy on foreign embassies in Moscow &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250731/p33#a250731p33)
  - [Russian Hackers Pose as Cyber Firm to Spy on Embassies &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250731/p32#a250731p32)
- - [The 15 best back-to-school deals for college students](https://www.theverge.com/tech/715937/back-to-school-dorm-essentials-macbook-air-deal-sale)
- - [The Kremlin&#39;s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware](https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/)
- - [Microsoft becomes the second $4 trillion company](https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation)<!-- TECH:END -->
+ - [The 15 best back-to-school deals for college students](https://www.theverge.com/tech/715937/back-to-school-dorm-essentials-macbook-air-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

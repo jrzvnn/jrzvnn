@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI won’t sell you an Osmo 360 in the US — but these retailers will](https://www.theverge.com/news/716996/dji-osmo-360-no-us-launch-bh-adorama)
- - [Reddit reports Q2 revenue up 78% YoY to $500M, vs. $426M est., daily active uniques up 21% to 110.4M, Q3 guidance above est.; RDDT jumps 10%+ after hours &lpar;Angela Palumbo/Barron&#39;s Online&rpar;](http://www.techmeme.com/250731/p42#a250731p42)
- - [Amazon reports Q2 AWS revenue up 17.5% YoY to $30.9B, vs. $30.8B est., and AWS operating income up 8.8% YoY to $10.2B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250731/p41#a250731p41)
- - [Amazon reports Q2 revenue up 13% YoY to $167.7B, operating income up 31% YoY to $19.2B, and net income up 35% YoY to $18.2B &lpar;Amazon&rpar;](http://www.techmeme.com/250731/p40#a250731p40)
- - [Sources: Salesforce and ServiceNow are in talks to invest ~$750M each in Genesys, which uses AI to automate customer service functions, valuing Genesys at ~$15B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p39#a250731p39)<!-- TECH:END -->
+ - [Apple reports Q3 revenue up 10% YoY to $94B, its largest quarterly growth since December 2021, net income up 9% to $23.4B, and China net sales up 4% to $15.4B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250731/p46#a250731p46)
+ - [Apple&#39;s $94B Q3 soundly beats Wall Street thanks to iPhone and China growth](https://appleinsider.com/articles/25/07/31/apples-94b-q3-soundly-beats-wall-street-thanks-to-iphone-and-china-growth?utm_source=rss)
+ - [Apple Q3: iPhone up 13% YoY to $44.58B, vs. $40.22B est., Mac up 15% to $8.05B, iPad down 8% to $6.58B, and Wearables, Home, and Accessories down 9% to $7.4B &lpar;Apple&rpar;](http://www.techmeme.com/250731/p45#a250731p45)
+ - [Coinbase says its new &quot;everything exchange&quot; will include tokenized assets, stocks, derivatives, prediction markets, and more, for US users in the coming months &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250731/p44#a250731p44)
+ - [Amazon reports Q2 AWS revenue up 17.5% YoY to $30.9B, vs. $30.8B est., and AWS operating income up 8.8% YoY to $10.2B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p43#a250731p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says Russia&#39;s Secret Blizzard hacking group is impersonating Kaspersky and leveraging Russian ISPs to spy on foreign embassies in Moscow &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/250731/p33#a250731p33)
+ - [Russian Hackers Pose as Cyber Firm to Spy on Embassies &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250731/p32#a250731p32)
  - [The 15 best back-to-school deals for college students](https://www.theverge.com/tech/715937/back-to-school-dorm-essentials-macbook-air-deal-sale)
  - [The Kremlin&#39;s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware](https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/)
- - [Microsoft becomes the second $4 trillion company](https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation)
- - [Microsoft&#39;s FY 2025 report excludes the names of rivals, breaking from a common industry practice; its last report designated 25+ companies as competitors &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p31#a250731p31)
- - [Tether reports Q2 net profit of $4.9B, a quarterly record, and says it held nearly $9B in bitcoin at the end of the quarter &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250731/p30#a250731p30)<!-- TECH:END -->
+ - [Microsoft becomes the second $4 trillion company](https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

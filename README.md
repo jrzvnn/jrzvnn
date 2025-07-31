@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus Chromebook CX14 Review: What You Get for $429](https://www.wired.com/review/asus-chromebook-cx14/)
+ - [Uber Eats adds AI tools to generate for menu item descriptions, enhance food images, and more; it will pay customers in some countries for uploading food photos &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250731/p17#a250731p17)
  - [Oxford-based Ultromics, which has developed the first FDA-cleared, Medicare-reimbursed AI tools for cardiology diagnostics, raised a $55M Series C &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250731/p16#a250731p16)
  - [How Apple’s New Spotlight Compares to Raycast](https://www.wired.com/story/how-new-macos-spotlight-compares-to-raycast/)
- - [Uber Eats is adding AI to menus, food photos, and reviews](https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features)
- - [Measles Cases Are Soaring in Mexico](https://www.wired.com/story/measles-cases-are-soaring-in-mexico/)
- - [Sources: Shein&#39;s net income rose to over $400M, revenue rose to ~$10B in Q1, driving profit margins to ~5%, driven by consumer purchases ahead of US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p15#a250731p15)<!-- TECH:END -->
+ - [Uber Eats is adding AI to menus, food photos, and reviews](https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

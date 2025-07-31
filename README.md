@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old but gold](http://9gag.com/gag/aGyb1dX)
- - 😝 [Makes sense to me](http://9gag.com/gag/aW49qj3)
+ - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
  - 💣 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
+ - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
+ - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 ---
 

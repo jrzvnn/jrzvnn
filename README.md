@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs an EO ending the de minimis exemption for packages worth $800 or less from all countries, after shuttering the loophole for goods from China in May &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250731/p11#a250731p11)
+ - [Sources: Trump administration is reconsidering plans to replace the Biden-era AI export rules as part of a broader softening on chip controls targeting China &lpar;Semafor&rpar;](http://www.techmeme.com/250731/p10#a250731p10)
  - [xAI will sign the EU AI Code&#39;s safety and security chapter but says the code&#39;s other requirements hurt innovation and its copyright terms are an overreach &lpar;Chandni Shah/Reuters&rpar;](http://www.techmeme.com/250731/p9#a250731p9)
  - [Hey Microsoft, is it &amp;#8216;Xbox PC&amp;#8217; or &amp;#8216;Xbox on PC&amp;#8217;?](https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes)
- - [8 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
- - [The Cyberspace Administration of China questioned Nvidia over H20 chip security concerns after US lawmakers urged adding tracking features to exported AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250731/p8#a250731p8)
- - [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
+ - [8 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

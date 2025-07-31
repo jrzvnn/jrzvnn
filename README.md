@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
- - 💣 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)
- - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 👉 [I just leave this here.](http://9gag.com/gag/aW49qXx)<!-- MEMES:END -->
+ - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
+ - 😝 [A guy wanted to adopt a cat, but he wouldn&#39;t leave his brother&#39;s side, so he had to take both of them](http://9gag.com/gag/aO8GzxM)
+ - 💣 [I just leave this here.](http://9gag.com/gag/aW49qXx)
+ - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
+ - 👉 [WNBA at its peak](http://9gag.com/gag/a6Z8byb)<!-- MEMES:END -->
 
 ---
 

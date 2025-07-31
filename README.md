@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stable, which is building a new Layer 1 blockchain for stablecoins, raised a $28M seed co-led by Bitfinex and Hack VC &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250731/p26#a250731p26)
- - [Roblox reports Q2 revenue up 21% YoY to ~$1B, Bookings up 51% YoY to ~$1.4B, above $1.24B est., and DAUs up 41% YoY to 111.8M, above 106M est.; RBLX jumps 15%+ &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250731/p25#a250731p25)
- - [The Inside Story of Eric Trump’s American Bitcoin](https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/)
- - [&#39;Hitman: Absolution&#39; brings a deadly new chapter to iPhone and iPad](https://appleinsider.com/articles/25/07/31/hitman-absolution-brings-a-deadly-new-chapter-to-iphone-and-ipad?utm_source=rss)
- - [Profiles of OpenAI&#39;s heads of research Mark Chen and Jakub Pachocki, where they discuss the path toward more capable reasoning models and superalignment &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/250731/p24#a250731p24)<!-- TECH:END -->
+ - [Thumby Color micro-review: a delightfully tiny GBA clone that doesn’t play Nintendo](https://www.theverge.com/hands-on/716423/thumby-color-micro-review-gba-rp-2350)
+ - [Fleet management software provider Motive raises $150M led by Kleiner Perkins; the company reportedly could go public by the end of 2025 &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250731/p27#a250731p27)
+ - [GuliKit’s new budget-friendly controller can wake the Switch 2](https://www.theverge.com/news/716763/gulikit-elves-2-controller-wake-switch-2)
+ - [Future Mac displays could automatically bend to present the best viewing angle](https://appleinsider.com/articles/25/07/31/future-mac-displays-could-automatically-bend-to-present-the-best-viewing-angle?utm_source=rss)
+ - [Inside the Summit Where China Pitched Its AI Agenda to the World](https://www.wired.com/story/china-artificial-intelligence-policy-laws-race/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

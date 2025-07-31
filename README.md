@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Legion, a security operations center that uses AI to detect threats within users&#39; computer browsers, emerges from stealth with a $38M seed and Series A &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250730/p57#a250730p57)
+ - [Report: Douyin is merging its online shopping and instant delivery platforms, as ByteDance takes on Alibaba, JD.com, and Meituan in China&#39;s quick delivery race &lpar;Hannah Wang/South China Morning Post&rpar;](http://www.techmeme.com/250731/p1#a250731p1)
+ - [Google DeepMind unveils AlphaEarth Foundations, an AI model that unifies petabytes of Earth observation data and helps scientists create detailed maps on demand &lpar;Google DeepMind&rpar;](http://www.techmeme.com/250730/p58#a250730p58)
+ - [Legion, a browser-based AI security operations center that learns enterprise workflows to detect threats, emerges from stealth with a $38M seed and Series A &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250730/p57#a250730p57)
  - [Source: OpenAI&#39;s monthly revenue grew ~2x in the first seven months of 2025, hitting $12B in annualized revenue; the company&#39;s 2025 revenue projection is $12.7B &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250730/p56#a250730p56)
- - [The Trump administration says Apple, Google, OpenAI, Amazon, Anthropic, and 60+ companies have pledged to make data sharing seamless across health care systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p55#a250730p55)
- - [Margit Wennmachers, who has shaped a16z&#39;s marketing approach since joining in 2010, is stepping down and &quot;graduating&quot; from operating partner to partner emeritus &lpar;Michael Bodley/PitchBook&rpar;](http://www.techmeme.com/250730/p54#a250730p54)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Trump administration says Apple, Google, OpenAI, Amazon, Anthropic, and 60+ companies have pledged to make data sharing seamless across health care systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p55#a250730p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

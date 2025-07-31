@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Framework set in Japan to force Apple to allow third-party app stores](https://appleinsider.com/articles/25/07/31/framework-set-in-japan-to-force-apple-to-allow-third-party-app-stores?utm_source=rss)
+ - [The US SEC launches Project Crypto, an initiative to &quot;modernize&quot; securities regulations to allow for crypto-based trading &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250731/p38#a250731p38)
  - [Sources detail the rise and fall of Builder.ai, as founder Sachin Duggal&#39;s alleged financial transgressions fueled the first big bust of the generative AI era &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p37#a250731p37)
  - [The 28 Best Movies on Apple TV+ Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [States Are Moving to Protect Access to Vaccines](https://www.wired.com/story/states-are-moving-to-protect-access-to-vaccines/)
- - [Best Apple deals: $799 M4 MacBook Air, $1,299 MacBook Pro, $899 iPad Pro, $169 Apple Watch](https://appleinsider.com/articles/25/07/31/best-apple-deals-799-m4-macbook-air-1299-macbook-pro-899-ipad-pro-169-apple-watch?utm_source=rss)
- - [Join Our Next Livestream: Inside Katie Drummond’s Viral Interview With Bryan Johnson](https://www.wired.com/story/inside-katie-drummonds-viral-interview-with-bryan-johnson/)<!-- TECH:END -->
+ - [States Are Moving to Protect Access to Vaccines](https://www.wired.com/story/states-are-moving-to-protect-access-to-vaccines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

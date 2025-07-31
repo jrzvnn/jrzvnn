@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title](http://9gag.com/gag/azxQXPq)
- - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
- - 💣 [Repost compilation](http://9gag.com/gag/aGybjQK)
- - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
- - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
+ - 😝 [Immigrants](http://9gag.com/gag/aZZvgVz)
+ - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 😝 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
+ - 👉 [Just Go Talk to Her \u2014 The Worst She Can Say Is &#39;No&#39;](http://9gag.com/gag/aQzVeyq)<!-- MEMES:END -->
 
 ---
 

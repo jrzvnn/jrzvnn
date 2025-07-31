@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Shein&#39;s net income rose to over $400M, revenue rose to ~$10B in Q1, driving profit margins to ~5%, driven by consumer purchases ahead of US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p15#a250731p15)
- - [The UK&#39;s CMA finds that Microsoft&#39;s software licensing terms harm competition in the cloud market, may open a probe into Microsoft and Amazon in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p14#a250731p14)
- - [UK&#39;s Ofcom launches probes into four companies, which collectively run 34 pornography sites, to assess if they have &quot;highly effective&quot; age verification checks &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/250731/p13#a250731p13)
- - [iPhone exports to the US from India are currently exempt from Trump&#39;s latest 25% tariffs on India; India now accounts for 20%+ of global iPhone production &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250731/p12#a250731p12)
- - [Trump signs an EO ending the de minimis exemption for packages worth $800 or less from all countries, after shuttering the loophole for goods from China in May &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250731/p11#a250731p11)<!-- TECH:END -->
+ - [Oxford-based Ultromics, which has developed the first FDA-cleared, Medicare-reimbursed AI tools for cardiology diagnostics, raised a $55M Series C &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250731/p16#a250731p16)
+ - [How Apple’s New Spotlight Compares to Raycast](https://www.wired.com/story/how-new-macos-spotlight-compares-to-raycast/)
+ - [Uber Eats is adding AI to menus, food photos, and reviews](https://www.theverge.com/news/716578/uber-eats-ai-menu-photo-description-features)
+ - [Measles Cases Are Soaring in Mexico](https://www.wired.com/story/measles-cases-are-soaring-in-mexico/)
+ - [Sources: Shein&#39;s net income rose to over $400M, revenue rose to ~$10B in Q1, driving profit margins to ~5%, driven by consumer purchases ahead of US tariffs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p15#a250731p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

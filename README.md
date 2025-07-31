@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
- - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 💣 [Save your friends](http://9gag.com/gag/aVvBYvw)
+ - 😝 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
+ - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
+ - 👉 [....This is gonna hurt](http://9gag.com/gag/awyvA3x)<!-- MEMES:END -->
 
 ---
 

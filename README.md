@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft plans to invest $30B+ in capital expenditures in Q1, which would be its largest for a single quarter, after reporting $24.2B in capital spending in Q4 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250730/p49#a250730p49)
- - [Mark Zuckerberg Details Meta’s Plan for Self-Improving, Superintelligent AI](https://www.wired.com/story/meta-earnings-superintelligence-q2-2025/)
- - [Seoul-based chip startup FuriosaAI raised a $125M Series C bridge round from Korea Development Bank, Industrial Bank of Korea, and others at a $735M valuation &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250730/p48#a250730p48)
- - [Austin-based Ambiq Micro closed up ~61% in its NYSE debut, after raising $96M in an upsized IPO, giving the maker of ultra-low power chips a $680M market value &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250730/p47#a250730p47)
- - [What JD Vance, Pam Bondi, and Sam Altman Can’t Stop Listening to, According to the ‘Panama Playlists’](https://www.wired.com/story/i-listened-to-the-alleged-spotify-playlists-of-trump-officials-for-five-hours-heres-what-i-learned/)<!-- TECH:END -->
+ - [Samsung reports Q1 revenue up 0.7% YoY to $53.7B, vs. $53.6B est., operating profit down 55% YoY to $3.4B, vs. $3.8B est., with chips operating profit down ~94% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250730/p51#a250730p51)
+ - [Meta is playing the AI game with house money](https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg)
+ - [RadioShack Vintage Turntable review: Nostalgia is a hell of a drug, best avoided](https://appleinsider.com/articles/25/07/31/radioshack-vintage-turntable-review-nostalgia-is-a-hell-of-a-drug-best-avoided?utm_source=rss)
+ - [Meta expects 2025 capital expenditures to be between $66B and $72B, raising the low end of the company&#39;s previous estimate of $64B to $72B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250730/p50#a250730p50)
+ - [Stop Using Q-Tips to Clean Your Ears. Seriously.](https://www.cnet.com/health/personal-care/stop-using-q-tips-to-clean-your-ears-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

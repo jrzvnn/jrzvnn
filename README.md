@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 💣 [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 💣 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Which way, western man](http://9gag.com/gag/aryzG50)<!-- MEMES:END -->
+ - 👉 [Forging a millstone](http://9gag.com/gag/aYQmg6v)<!-- MEMES:END -->
 
 ---
 

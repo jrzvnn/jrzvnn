@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 😝 [Makes sense to me](http://9gag.com/gag/aW49qj3)
- - 💣 [The take down](http://9gag.com/gag/a4PVbD6)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
+ - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
  - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 👉 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)<!-- MEMES:END -->
+ - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 ---
 

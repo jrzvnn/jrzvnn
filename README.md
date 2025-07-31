@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man had enough](http://9gag.com/gag/aAyZx3p)
- - 😝 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
- - 💣 [Old but gold](http://9gag.com/gag/aGyb1dX)
- - 😝 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
- - 👉 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)<!-- MEMES:END -->
+ - 😝 [Now that 9gag has polls, let&#39;s make them regret it. Here&#39;s a poll: Who is your favorite Austrian painter?](http://9gag.com/gag/aAyZ3rL)
+ - 😝 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
+ - 💣 [A short and witty title](http://9gag.com/gag/azxQXPq)
+ - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
+ - 👉 [Repost compilation](http://9gag.com/gag/aGybjQK)<!-- MEMES:END -->
 
 ---
 

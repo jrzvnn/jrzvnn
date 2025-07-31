@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Immigrants](http://9gag.com/gag/aZZvgVz)
  - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
  - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
- - 😝 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
- - 👉 [Just Go Talk to Her \u2014 The Worst She Can Say Is &#39;No&#39;](http://9gag.com/gag/aQzVeyq)<!-- MEMES:END -->
+ - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
+ - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
 
 ---
 

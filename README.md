@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that 9gag has polls, let&#39;s make them regret it. Here&#39;s a poll: Who is your favorite Austrian painter?](http://9gag.com/gag/aAyZ3rL)
- - 😝 [Fascinating technology](http://9gag.com/gag/aKGpDW3)
- - 💣 [A short and witty title](http://9gag.com/gag/azxQXPq)
+ - 😝 [A short and witty title](http://9gag.com/gag/azxQXPq)
  - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
- - 👉 [Repost compilation](http://9gag.com/gag/aGybjQK)<!-- MEMES:END -->
+ - 💣 [Repost compilation](http://9gag.com/gag/aGybjQK)
+ - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
+ - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 
 ---
 

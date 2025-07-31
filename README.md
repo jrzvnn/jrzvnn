@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 😝 [Men are simpel](http://9gag.com/gag/a0ew53n)
- - 💣 [Ouch](http://9gag.com/gag/abAEzmL)
+ - 😝 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
+ - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
+ - 💣 [Man had enough](http://9gag.com/gag/aAyZx3p)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
+ - 👉 [Which way, western man](http://9gag.com/gag/aryzG50)<!-- MEMES:END -->
 
 ---
 

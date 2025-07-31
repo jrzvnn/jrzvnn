@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crescendo 2 Vibrator Review: Above the Curve](https://www.wired.com/review/crescendo-2-vibrator/)
  - [How AI has transformed data center design, with concerns about overspending on AI infrastructure, sparked by DeepSeek, fading amid the ongoing building frenzy &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p7#a250731p7)
  - [OpenAI launches Stargate Norway, the first Stargate-branded initiative in Europe, to build a 230MW data center owned by a joint venture between Nscale and Aker &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/250731/p6#a250731p6)
  - [Grab reports Q2 revenue up 23% YoY to $819M, vs. 812M est., and an adjusted EBITDA of $109M; Grab&#39;s shares are up 60% over the past year as its profit increased &lpar;Bloomberg&rpar;](http://www.techmeme.com/250731/p5#a250731p5)
- - [Experts say Samsung&#39;s $16.5B Tesla chip deal alone is unlikely to revive its foundry division, which has struggled since TSMC became Apple&#39;s principal supplier &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p4#a250731p4)
- - [After announcing the $799 Phone 3 in early July, Nothing has been contending with a vocal contingent of fans criticizing the phone&#39;s industrial design and price &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250731/p3#a250731p3)<!-- TECH:END -->
+ - [Experts say Samsung&#39;s $16.5B Tesla chip deal alone is unlikely to revive its foundry division, which has struggled since TSMC became Apple&#39;s principal supplier &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p4#a250731p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

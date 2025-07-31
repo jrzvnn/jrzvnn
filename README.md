@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung reports Q1 revenue up 0.7% YoY to $53.7B, vs. $53.6B est., operating profit down 55% YoY to $3.4B, vs. $3.8B est., with chips operating profit down ~94% &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250730/p51#a250730p51)
- - [Meta is playing the AI game with house money](https://www.theverge.com/news/716523/meta-q2-earnings-superintelligence-ai-mark-zzuckerberg)
- - [RadioShack Vintage Turntable review: Nostalgia is a hell of a drug, best avoided](https://appleinsider.com/articles/25/07/31/radioshack-vintage-turntable-review-nostalgia-is-a-hell-of-a-drug-best-avoided?utm_source=rss)
- - [Meta expects 2025 capital expenditures to be between $66B and $72B, raising the low end of the company&#39;s previous estimate of $64B to $72B &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250730/p50#a250730p50)
- - [Stop Using Q-Tips to Clean Your Ears. Seriously.](https://www.cnet.com/health/personal-care/stop-using-q-tips-to-clean-your-ears-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Legion, a security operations center that uses AI to detect threats within users&#39; computer browsers, emerges from stealth with a $38M seed and Series A &lpar;Alexandra Sternlicht/Fortune&rpar;](http://www.techmeme.com/250730/p57#a250730p57)
+ - [Source: OpenAI&#39;s monthly revenue grew ~2x in the first seven months of 2025, hitting $12B in annualized revenue; the company&#39;s 2025 revenue projection is $12.7B &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250730/p56#a250730p56)
+ - [The Trump administration says Apple, Google, OpenAI, Amazon, Anthropic, and 60+ companies have pledged to make data sharing seamless across health care systems &lpar;Bloomberg&rpar;](http://www.techmeme.com/250730/p55#a250730p55)
+ - [Margit Wennmachers, who has shaped a16z&#39;s marketing approach since joining in 2010, is stepping down and &quot;graduating&quot; from operating partner to partner emeritus &lpar;Michael Bodley/PitchBook&rpar;](http://www.techmeme.com/250730/p54#a250730p54)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, July 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-july-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

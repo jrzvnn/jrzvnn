@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tariffs and analysts: What to expect from Apple&#39;s Q3 2025 earnings](https://appleinsider.com/articles/25/07/25/tariffs-and-analysts-what-to-expect-from-apples-q3-2025-earnings?utm_source=rss)
- - [Anaconda, which provides AI development tools for developers and data scientists, raised $150M+ led by Insight Partners, source says at a $1.5B valuation &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p23#a250731p23)
- - [Join Us for WIRED’s AI Power Summit](https://www.wired.com/story/wired-ai-power-summit/)
- - [Safe Security, formerly Lucideus, which quantifies cyber risk using ML, raised a $70M Series C led by Avataar Ventures, bringing its total funding to $170M+ &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/250731/p22#a250731p22)
- - [The Verge’s favorite backpacks, totes, and other bags for 2025](https://www.theverge.com/tech/715348/backpacks-totes-bags-favorites)<!-- TECH:END -->
+ - [The Inside Story of Eric Trump’s American Bitcoin](https://www.wired.com/story/the-inside-story-of-eric-trumps-american-bitcoin/)
+ - [&#39;Hitman: Absolution&#39; brings a deadly new chapter to iPhone and iPad](https://appleinsider.com/articles/25/07/31/hitman-absolution-brings-a-deadly-new-chapter-to-iphone-and-ipad?utm_source=rss)
+ - [Profiles of OpenAI&#39;s heads of research Mark Chen and Jakub Pachocki, where they discuss the path toward more capable reasoning models and superalignment &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/250731/p24#a250731p24)
+ - [Why AI researchers are getting paid like NBA All-Stars](https://www.theverge.com/decoder-podcast-with-nilay-patel/716633/ai-talent-war-meta-mark-zuckerberg-openai-nba-all-stars)
+ - [Prices leak for every Pixel 10 phone](https://www.theverge.com/news/716733/google-pixel-10-lineup-price-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

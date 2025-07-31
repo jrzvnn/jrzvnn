@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK&#39;s CMA finds that Microsoft&#39;s software licensing terms harm competition in the cloud market, may open a probe into Microsoft and Amazon in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/250731/p14#a250731p14)
+ - [UK&#39;s Ofcom launches probes into four companies, which collectively run 34 pornography sites, to assess if they have &quot;highly effective&quot; age verification checks &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/250731/p13#a250731p13)
+ - [iPhone exports to the US from India are currently exempt from Trump&#39;s latest 25% tariffs on India; India now accounts for 20%+ of global iPhone production &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250731/p12#a250731p12)
  - [Trump signs an EO ending the de minimis exemption for packages worth $800 or less from all countries, after shuttering the loophole for goods from China in May &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250731/p11#a250731p11)
- - [Sources: Trump administration is reconsidering plans to replace the Biden-era AI export rules as part of a broader softening on chip controls targeting China &lpar;Semafor&rpar;](http://www.techmeme.com/250731/p10#a250731p10)
- - [xAI will sign the EU AI Code&#39;s safety and security chapter but says the code&#39;s other requirements hurt innovation and its copyright terms are an overreach &lpar;Chandni Shah/Reuters&rpar;](http://www.techmeme.com/250731/p9#a250731p9)
- - [Hey Microsoft, is it &amp;#8216;Xbox PC&amp;#8217; or &amp;#8216;Xbox on PC&amp;#8217;?](https://www.theverge.com/microsoft/716564/microsoft-xbox-pc-xbox-on-pc-branding-changes)
- - [8 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)<!-- TECH:END -->
+ - [Sources: Trump administration is reconsidering plans to replace the Biden-era AI export rules as part of a broader softening on chip controls targeting China &lpar;Semafor&rpar;](http://www.techmeme.com/250731/p10#a250731p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

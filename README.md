@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 15 best back-to-school deals for college students](https://www.theverge.com/tech/715937/back-to-school-dorm-essentials-macbook-air-deal-sale)
+ - [The Kremlin&#39;s Most Devious Hacking Group Is Using Russian ISPs to Plant Spyware](https://www.wired.com/story/russia-fsb-turla-secret-blizzard-apolloshadow-isp-cyberespionage/)
  - [Microsoft becomes the second $4 trillion company](https://www.theverge.com/news/716783/microsoft-4-trillion-market-cap-valuation)
  - [Microsoft&#39;s FY 2025 report excludes the names of rivals, breaking from a common industry practice; its last report designated 25+ companies as competitors &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250731/p31#a250731p31)
- - [Tether reports Q2 net profit of $4.9B, a quarterly record, and says it held nearly $9B in bitcoin at the end of the quarter &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250731/p30#a250731p30)
- - [Ford&amp;#8217;s planning a &amp;#8216;Model T moment&amp;#8217; for EVs on August 11th](https://www.theverge.com/news/716799/ford-model-t-moment-ev-announcement-date-earnings)
- - [Israel-based Noma Security, whose platform secures enterprise data and AI models against AI agents, raised a $100M Series B, bringing its total funding to $132M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250731/p29#a250731p29)<!-- TECH:END -->
+ - [Tether reports Q2 net profit of $4.9B, a quarterly record, and says it held nearly $9B in bitcoin at the end of the quarter &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250731/p30#a250731p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

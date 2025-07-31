@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s bring back the old memes](http://9gag.com/gag/avym8rn)
- - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 😝 [Look we have polls now.](http://9gag.com/gag/adBbKAZ)
+ - 😝 [Sweet seedless Instant karma](http://9gag.com/gag/avymGDZ)
+ - 💣 [Great place to work?](http://9gag.com/gag/aryzbzK)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Choose 1 Ideology that you prefer over the others](http://9gag.com/gag/awyvAAB)<!-- MEMES:END -->
+ - 👉 [Defeated lion walks away..](http://9gag.com/gag/a5QDnmo)<!-- MEMES:END -->
 
 ---
 

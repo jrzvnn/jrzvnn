@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Act cool](http://9gag.com/gag/a7oADEm)
- - 😝 [Awkward](http://9gag.com/gag/aND3AOK)
- - 💣 [The Real Reason Red Dead Redemption 3 Is Taking Forever](http://9gag.com/gag/agmjLYq)
+ - 😝 [Cat whisperer.](http://9gag.com/gag/aVvBqNM)
  - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
- - 👉 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)<!-- MEMES:END -->
+ - 💣 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
+ - 😝 [Sick dudes out there wish they was in this position](http://9gag.com/gag/awyvn3B)
+ - 👉 [Ouch](http://9gag.com/gag/abAEzmL)<!-- MEMES:END -->
 
 ---
 

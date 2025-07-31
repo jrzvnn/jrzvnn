@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
- - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 💣 [Save your friends](http://9gag.com/gag/aVvBYvw)
+ - 😝 [Look at me](http://9gag.com/gag/aKGpDXj)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 💣 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Wtf are these shitty polls they added](http://9gag.com/gag/ajPyEwx)<!-- MEMES:END -->
+ - 👉 [....This is gonna hurt](http://9gag.com/gag/awyvA3x)<!-- MEMES:END -->
 
 ---
 

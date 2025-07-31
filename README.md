@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 💣 [Save your friends](http://9gag.com/gag/aVvBYvw)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)<!-- MEMES:END -->
+ - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
 
 ---
 

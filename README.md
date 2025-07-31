@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
- - 😝 [Sophie Cunningham Accidentally Sits On the Cameraman&#39;s face](http://9gag.com/gag/aXPeAz2)
- - 💣 [Ouch](http://9gag.com/gag/abAEzmL)
- - 😝 [Great place to work?](http://9gag.com/gag/aryzbzK)
- - 👉 [Yodelayheehoo](http://9gag.com/gag/aW49qBK)<!-- MEMES:END -->
+ - 😝 [Truly a mystery for the ages..](http://9gag.com/gag/agmjYKx)
+ - 😝 [Life is over - Maybe don&#39;t do stupid shit with your dads stuff](http://9gag.com/gag/aMVy8ox)
+ - 💣 [They\u2019re just making shit up at this point.](http://9gag.com/gag/aD2MjeZ)
+ - 😝 [I just leave this here.](http://9gag.com/gag/aW49qXx)
+ - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 ---
 

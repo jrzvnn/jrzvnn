@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
  - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 😝 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)
- - 💣 [Starlight](http://9gag.com/gag/aGybgLn)
+ - 💣 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
  - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
 

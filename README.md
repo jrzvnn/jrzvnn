@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
  - [Prophet Security, which develops fully autonomous AI agents for cybersecurity defense, raised a $30M Series A led by Accel &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250801/p5#a250801p5)
  - [Surfshark Promo Codes: 87% Off | August 2025](https://www.wired.com/story/surfshark-coupon/)
  - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Source: Anthropic is nearing $5B in annualized revenue, up from $4B reported on July 1, as it nears a deal to raise $5B led by Iconiq at a $170B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250801/p4#a250801p4)
- - [Wallarm, which builds a platform for API and AI security, raised a $55M Series C led by Toba Capital after an $8M Series A in 2018, taking total raised to ~$66M &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/250801/p3#a250801p3)<!-- TECH:END -->
+ - [Source: Anthropic is nearing $5B in annualized revenue, up from $4B reported on July 1, as it nears a deal to raise $5B led by Iconiq at a $170B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250801/p4#a250801p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

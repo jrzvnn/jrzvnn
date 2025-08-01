@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic revoked OpenAI&#39;s API access to Claude, citing ToS violations; sources: OpenAI&#39;s use of the API let it compare its models&#39; behavior against Claude&#39;s &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250801/p33#a250801p33)
  - [Anthropic Revokes OpenAI&#39;s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)
  - [Sources: Mistral is in discussions, including with Abu Dhabi&#39;s MGX, to raise $1B at a valuation of about $10B, up from its previous valuation of €5.8B &lpar;Financial Times&rpar;](http://www.techmeme.com/250801/p32#a250801p32)
  - [Sources: in a rare companywide meeting, Tim Cook said the AI revolution is &quot;ours to grab&quot;, Apple&#39;s AI efforts will mirror its iPhone successes, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250801/p31#a250801p31)
- - [Tesla to pay more than $200 million in damages after being found partly liable for fatal Autopilot crash](https://www.theverge.com/news/717754/tesla-autopilot-crash-liable-jury-trial-damages)
- - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)<!-- TECH:END -->
+ - [Tesla to pay more than $200 million in damages after being found partly liable for fatal Autopilot crash](https://www.theverge.com/news/717754/tesla-autopilot-crash-liable-jury-trial-damages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

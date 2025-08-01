@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)
  - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
  - [Prophet Security, which develops fully autonomous AI agents for cybersecurity defense, raised a $30M Series A led by Accel &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250801/p5#a250801p5)
  - [Surfshark Promo Codes: 87% Off | August 2025](https://www.wired.com/story/surfshark-coupon/)
- - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Source: Anthropic is nearing $5B in annualized revenue, up from $4B reported on July 1, as it nears a deal to raise $5B led by Iconiq at a $170B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250801/p4#a250801p4)<!-- TECH:END -->
+ - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

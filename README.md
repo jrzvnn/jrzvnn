@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The biggest fighting game tournament is a little smaller this year — but still exciting](https://www.theverge.com/games/717660/how-to-watch-evo-2025-las-vegas)
+ - [Why Nintendo didn&amp;#8217;t raise the price of the Switch 2 &lpar;yet&rpar;](https://www.theverge.com/nintendo/717611/nintendo-switch-price-increase-risk-safety)
  - [Blood oxygen sensing shows no sign of returning to Apple Watch any time soon](https://appleinsider.com/articles/25/08/01/blood-oxygen-sensing-shows-no-sign-of-returning-to-apple-watch-any-time-soon?utm_source=rss)
  - [Google says it will preserve &quot;actively used&quot; goo.gl URLs, after announcing earlier that all existing goo.gl links would stop working in August 2025 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250801/p28#a250801p28)
- - [Google backtracks on plans to deactivate shortened goo.gl links](https://www.theverge.com/news/717649/google-goo-gl-url-shortener-links-backtrack)
- - [Source: GPT-5 improvements won&#39;t be comparable to the leaps in performance of earlier models, such as between GPT-3 in 2020 and GPT-4 in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250801/p27#a250801p27)
- - [A US jury finds Tesla partially liable for Autopilot&#39;s role in a fatal 2019 crash in Florida, and orders the company to pay $329M in damages &lpar;Washington Post&rpar;](http://www.techmeme.com/250801/p26#a250801p26)<!-- TECH:END -->
+ - [Google backtracks on plans to deactivate shortened goo.gl links](https://www.theverge.com/news/717649/google-goo-gl-url-shortener-links-backtrack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
  - 😝 [I hope this kind of interaction will be on GTA VI](http://9gag.com/gag/axy40AK)
- - 💣 [Forklift certified](http://9gag.com/gag/aZZvg46)
+ - 😝 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Immigration, Tourist visa, Working visa, Green card, etc etc etc.](http://9gag.com/gag/a4PVG31)<!-- MEMES:END -->
+ - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 ---
 

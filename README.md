@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
- - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
- - 💣 [Best decision ever](http://9gag.com/gag/a4PVRWy)
+ - 😝 [Potato in the comment section](http://9gag.com/gag/azxQX4m)
+ - 💣 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Thicc is fun](http://9gag.com/gag/a87z5pp)<!-- MEMES:END -->
+ - 👉 [Best decision ever](http://9gag.com/gag/a4PVRWy)<!-- MEMES:END -->
 
 ---
 

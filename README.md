@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Mouth Tape &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mouth-tape/)
+ - [Uber’s Drive to Become the Kleenex of Robotaxis](https://www.wired.com/story/ubers-drive-to-become-the-kleenex-of-robotaxis/)
+ - [Nintendo reports Q1 revenue up 132% YoY to ~$3.8B, operating profit up 4.4% to ~$378M, and 5.82M Switch 2 sales, more than double of Switch 1 in its first month &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250801/p8#a250801p8)
  - [Nintendo’s Switch 2 doubles first-month sales of the original](https://www.theverge.com/news/717163/nintendo-earnings-q1-2025-switch-2-sales)
- - [Games industry trade organizations and gamers are speaking out against censorship campaigns that have forced Steam and Itch.io to mass deindex NSFW content &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/250801/p7#a250801p7)
- - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)
- - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
+ - [Games industry trade organizations and gamers are speaking out against censorship campaigns that have forced Steam and Itch.io to mass deindex NSFW content &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/250801/p7#a250801p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

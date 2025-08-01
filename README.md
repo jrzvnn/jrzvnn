@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 😝 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
- - 💣 [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - 😝 [Of course...](http://9gag.com/gag/a87z3A1)
+ - 😝 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
+ - 💣 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
+ - 👉 [Stonks](http://9gag.com/gag/an7VMDL)<!-- MEMES:END -->
 
 ---
 

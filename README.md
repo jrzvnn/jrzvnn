@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bing made Google dance and then stole some search traffic](https://www.theverge.com/analysis/717167/bing-market-share-growth-google-ai)
+ - [Sources: CapitalG and Nvidia are in talks to invest in Vast Data, which could value the AI infrastructure provider at ~$30B, up from $9.1B in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/250801/p10#a250801p10)
  - [Google loses to Epic Games in Play Store appeal](https://appleinsider.com/articles/25/08/01/google-loses-to-epic-games-in-play-store-appeal?utm_source=rss)
  - [Samsung TVs are coming back online after apps stopped working](https://www.theverge.com/news/717210/samsung-tv-outage-streaming-apps-issues)
- - [Confessions of a Recovering AI Porn Addict](https://www.wired.com/story/confessions-of-a-recovering-ai-porn-addict/)
- - [Inside Find My - Track your devices &amp; loved ones with a tap](https://appleinsider.com/inside/iphone/tips/inside-find-my---track-your-devices-loved-ones-with-a-tap?utm_source=rss)
- - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [Confessions of a Recovering AI Porn Addict](https://www.wired.com/story/confessions-of-a-recovering-ai-porn-addict/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

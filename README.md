@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram now requires users to have a public account with 1,000+ followers to go live, aligning with TikTok; previously, the feature was open to all users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250801/p24#a250801p24)
+ - [Weekend sale: M4 Mac mini with 24GB RAM drops to $699](https://appleinsider.com/articles/25/08/01/weekend-sale-m4-mac-mini-with-24gb-ram-drops-to-699?utm_source=rss)
+ - [WIRED Roundup: ChatGPT Goes Full Demon Mode](https://www.wired.com/story/uncanny-valley-podcast-chatgpt-goes-full-demon-mode/)
  - [Hoboken, NJ-based Saphyre, which makes software used in securities trading, raised $70M from FTV Capital &lpar;Luis Garcia/Wall Street Journal&rpar;](http://www.techmeme.com/250801/p23#a250801p23)
- - [Anthropic studied what gives an AI system its ‘personality’ — and what makes it ‘evil’](https://www.theverge.com/anthropic/717551/anthropic-research-fellows-ai-personality-claude-sycophantic-evil)
- - [Google has just two weeks to begin cracking open Android, it admits in emergency filing](https://www.theverge.com/news/717440/google-epic-open-play-store-emergency-stay)
- - [Verizon is upping its fees again](https://www.theverge.com/news/717506/verizon-fee-price-increase-administrative-charge)
- - [Reddit pauses plans to let users make subreddits with content behind a paywall, as it focuses on other priorities, including &quot;accelerating international growth&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250801/p22#a250801p22)<!-- TECH:END -->
+ - [Anthropic studied what gives an AI system its ‘personality’ — and what makes it ‘evil’](https://www.theverge.com/anthropic/717551/anthropic-research-fellows-ai-personality-claude-sycophantic-evil)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

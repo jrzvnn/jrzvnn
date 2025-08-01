@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [Palantir Is Extending Its Reach Even Further Into Government](https://www.wired.com/story/palantir-government-contracting-push/)
+ - [Meituan, Alibaba, and JD.com vow to curb &quot;disorderly competition&quot; and limit their price wars in China&#39;s food delivery space after warning from Chinese regulator &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p9#a250801p9)
  - [The Best Mouth Tape &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mouth-tape/)
- - [Uber’s Drive to Become the Kleenex of Robotaxis](https://www.wired.com/story/ubers-drive-to-become-the-kleenex-of-robotaxis/)
- - [Nintendo reports Q1 revenue up 132% YoY to ~$3.8B, operating profit up 4.4% to ~$378M, and 5.82M Switch 2 sales, more than double of Switch 1 in its first month &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250801/p8#a250801p8)
- - [Nintendo’s Switch 2 doubles first-month sales of the original](https://www.theverge.com/news/717163/nintendo-earnings-q1-2025-switch-2-sales)
- - [Games industry trade organizations and gamers are speaking out against censorship campaigns that have forced Steam and Itch.io to mass deindex NSFW content &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/250801/p7#a250801p7)<!-- TECH:END -->
+ - [Uber’s Drive to Become the Kleenex of Robotaxis](https://www.wired.com/story/ubers-drive-to-become-the-kleenex-of-robotaxis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

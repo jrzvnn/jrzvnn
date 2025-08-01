@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram now requires users to have a public account with 1,000+ followers to go live, aligning with TikTok; previously, the feature was open to all users &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250801/p24#a250801p24)
- - [Weekend sale: M4 Mac mini with 24GB RAM drops to $699](https://appleinsider.com/articles/25/08/01/weekend-sale-m4-mac-mini-with-24gb-ram-drops-to-699?utm_source=rss)
- - [WIRED Roundup: ChatGPT Goes Full Demon Mode](https://www.wired.com/story/uncanny-valley-podcast-chatgpt-goes-full-demon-mode/)
- - [Hoboken, NJ-based Saphyre, which makes software used in securities trading, raised $70M from FTV Capital &lpar;Luis Garcia/Wall Street Journal&rpar;](http://www.techmeme.com/250801/p23#a250801p23)
- - [Anthropic studied what gives an AI system its ‘personality’ — and what makes it ‘evil’](https://www.theverge.com/anthropic/717551/anthropic-research-fellows-ai-personality-claude-sycophantic-evil)<!-- TECH:END -->
+ - [Source: GPT-5 improvements won&#39;t be comparable to the leaps in performance of earlier models, such as between GPT-3 in 2020 and GPT-4 in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250801/p27#a250801p27)
+ - [A US jury finds Tesla partially liable for Autopilot&#39;s role in a fatal 2019 crash in Florida, and orders the company to pay $200M in punitive damages &lpar;Washington Post&rpar;](http://www.techmeme.com/250801/p26#a250801p26)
+ - [Fundamental Research Labs, which is working on AI applications in different fields, including a general-purpose consumer assistant, raised a $30M Series A &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250801/p25#a250801p25)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Best Over-Ear Headphones We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [Neuralink plans a UK clinical trial to test how its chips let patients with severe paralysis control devices with thoughts, marking its entry into the country &lpar;Christy Santhosh/Reuters&rpar;](http://www.techmeme.com/250801/p6#a250801p6)
  - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
  - [Prophet Security, which develops fully autonomous AI agents for cybersecurity defense, raised a $30M Series A led by Accel &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250801/p5#a250801p5)
- - [Surfshark Promo Codes: 87% Off | August 2025](https://www.wired.com/story/surfshark-coupon/)
- - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [Surfshark Promo Codes: 87% Off | August 2025](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hong Kong&#39;s stablecoin licensing regime takes effect, requiring issuers to get approval from the Monetary Authority, comply with AML protocols, and more &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250801/p14#a250801p14)
- - [Vivobarefoot&#39;s Sensus Shoes Are Like Gloves for Your Feet](https://www.wired.com/story/vivobarefoot-sensus-barefoot-rave/)
- - [Microsoft plans to end support for Windows 11 SE next year, five years after launching the OS on low-cost laptops designed to compete with Google Chromebooks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250801/p13#a250801p13)
- - [Source: OpenAI raised $8.3B led by Dragoneer at a $300B valuation, months ahead of schedule and part of a $40B goal for 2025; 5M business users pay for ChatGPT &lpar;New York Times&rpar;](http://www.techmeme.com/250801/p12#a250801p12)
- - [AC or DC: Which Is Better?](https://www.wired.com/story/ac-or-dc-which-is-better/)<!-- TECH:END -->
+ - [Reddit wants to become &quot;a go-to search engine&quot; for users; its core search has 70M+ weekly active unique users and AI-powered Reddit Answers has 6M weekly users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250801/p15#a250801p15)
+ - [IRS head says free Direct File tax service is ‘gone’](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
+ - [11 Best Laptops for College Students &lpar;2025&rpar;, Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
+ - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
+ - [Hong Kong&#39;s stablecoin licensing regime takes effect, requiring issuers to get approval from the Monetary Authority, comply with AML protocols, and more &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250801/p14#a250801p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Itch.io has begun restoring NSFW content, but only if it&amp;#8217;s free](https://www.theverge.com/games/717393/itchio-adult-content-ban-restoring-free-nsfw-pages)
+ - [iPhone 17 Air slim battery design may have leaked](https://appleinsider.com/articles/25/08/01/iphone-17-air-slim-battery-design-may-have-leaked?utm_source=rss)
+ - [China accuses the US of exploiting an old Microsoft Exchange flaw to control a key Chinese defense company&#39;s servers for nearly a year and steal military data &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p17#a250801p17)
  - [The $299 Halo smart glasses will remember the names of people you meet](https://www.theverge.com/news/717387/brilliant-labs-halo-smart-glasses-noa-ai)
- - [Apple didn&#39;t need AI -- but it did need China -- to beat analysts&#39; doom and gloom](https://appleinsider.com/articles/25/08/01/apple-didnt-need-ai----but-it-did-need-china----to-beat-analysts-doom-and-gloom?utm_source=rss)
- - [The UK&#39;s Financial Conduct Authority plans to allow retail investors to access crypto exchange-traded notes, dubbed cETNs, on FCA-approved, UK-based exchanges &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250801/p16#a250801p16)
- - [Eyes of Wakanda feels like fanfiction turned into Marvel history](https://www.theverge.com/tv-reviews/715437/eyes-of-wakanda-review)
- - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

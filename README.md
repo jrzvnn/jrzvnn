@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at me](http://9gag.com/gag/aKGpDXj)
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 💣 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
+ - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 😝 [Sensitive you say](http://9gag.com/gag/aryzg6y)
+ - 💣 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [....This is gonna hurt](http://9gag.com/gag/awyvA3x)<!-- MEMES:END -->
+ - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
 
 ---
 

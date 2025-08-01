@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mistral is in discussions, including with Abu Dhabi&#39;s MGX, to raise $1B at a valuation of about $10B, up from its previous valuation of €5.8B &lpar;Financial Times&rpar;](http://www.techmeme.com/250801/p32#a250801p32)
+ - [Sources: in a rare companywide meeting, Tim Cook said the AI revolution is &quot;ours to grab&quot;, Apple&#39;s AI efforts will mirror its iPhone successes, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250801/p31#a250801p31)
+ - [Tesla to pay more than $200 million in damages after being found partly liable for fatal Autopilot crash](https://www.theverge.com/news/717754/tesla-autopilot-crash-liable-jury-trial-damages)
  - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
- - [Meta, Alphabet, Microsoft, and Amazon have collectively spent ~$90B on capex in their most recent quarters and are expected to spend over $344B for the year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p30#a250801p30)
- - [Fujifilm is raising camera prices by up to $800](https://www.theverge.com/cameras/717685/fujifilm-camera-price-hikes-tariffs-x100vi)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 2, #313](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-2-313/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 2, #1505](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1505/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta, Alphabet, Microsoft, and Amazon have collectively spent ~$90B on capex in their most recent quarters and are expected to spend over $344B for the year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p30#a250801p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

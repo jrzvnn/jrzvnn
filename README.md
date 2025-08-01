@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delta&amp;#8217;s dynamic AI pricing plan sounds different now](https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model)
+ - [Tim Cook says Apple ‘must’ figure out AI and ‘will make the investment to do it’](https://www.theverge.com/news/717865/apple-ceo-tim-cook-ai-investment)
  - [A US jury finds Meta violated the California Invasion of Privacy Act when it intentionally recorded the health data of women via the period tracking app Flo &lpar;Margaret Attridge/Courthouse News Service&rpar;](http://www.techmeme.com/250801/p34#a250801p34)
  - [Amazon eyes ads and upcharges for Alexa Plus](https://www.theverge.com/analysis/717763/amazon-alexa-plus-ai-ads-revenue-subscription-plans)
- - [All hands on deck: Tim Cook, Craig Federighi address Apple employees on AI, Siri](https://appleinsider.com/articles/25/08/01/all-hands-on-deck-tim-cook-craig-federighi-address-apple-employees-on-ai-siri?utm_source=rss)
- - [Anthropic revoked OpenAI&#39;s API access to Claude, citing ToS violations; sources: OpenAI&#39;s use of the API let it compare its models&#39; behavior against Claude&#39;s &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250801/p33#a250801p33)
- - [Anthropic Revokes OpenAI&#39;s Access to Claude](https://www.wired.com/story/anthropic-revokes-openais-access-to-claude/)<!-- TECH:END -->
+ - [All hands on deck: Tim Cook, Craig Federighi address Apple employees on AI, Siri](https://appleinsider.com/articles/25/08/01/all-hands-on-deck-tim-cook-craig-federighi-address-apple-employees-on-ai-siri?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

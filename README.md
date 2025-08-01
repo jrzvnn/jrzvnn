@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
- - 😝 [Best decision ever](http://9gag.com/gag/a4PVRWy)
- - 💣 [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 💣 [Best decision ever](http://9gag.com/gag/a4PVRWy)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [The Steinwinter Supercargo 2040 truck &lpar;1983&rpar;](http://9gag.com/gag/azxQ1BN)<!-- MEMES:END -->
+ - 👉 [Thicc is fun](http://9gag.com/gag/a87z5pp)<!-- MEMES:END -->
 
 ---
 

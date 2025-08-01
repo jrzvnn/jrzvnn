@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo plans to raise the price of original Switch &quot;family of systems and products&quot; and some Switch 2 accessories in the US; Switch 2 price won&#39;t change &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250801/p19#a250801p19)
+ - [Sources: thousands of US export license applications, including for Nvidia&#39;s shipments of AI chips to China, are stalled due to US Commerce Department turmoil &lpar;Reuters&rpar;](http://www.techmeme.com/250801/p20#a250801p20)
+ - [Reddit pauses its paywall plans](https://www.theverge.com/news/717480/reddit-paywall-paid-subreddits-plans-earnings-steve-huffman-spez)
+ - [Nintendo plans to raise the price of the original Switch &quot;family of systems and products&quot; and some Switch 2 accessories in the US; Switch 2&#39;s price won&#39;t change &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250801/p19#a250801p19)
  - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
- - [Inside Jeffrey Epstein’s Forgotten AI Summit](https://www.wired.com/story/epstein-files-science-tech-funding/)
- - [TikTok launches a new version of its app called TikTok Pro in Germany, Portugal, and Spain, allowing users to earn &quot;virtual sunshine&quot; to support charities &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250801/p18#a250801p18)
- - [Itch.io has begun restoring NSFW content, but only if it&amp;#8217;s free](https://www.theverge.com/games/717393/itchio-adult-content-ban-restoring-free-nsfw-pages)<!-- TECH:END -->
+ - [Inside Jeffrey Epstein’s Forgotten AI Summit](https://www.wired.com/story/epstein-files-science-tech-funding/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney...](http://9gag.com/gag/aQzVR0d)
- - 😝 [If you know. You know](http://9gag.com/gag/aAyZx79)
- - 💣 [Forklift certified](http://9gag.com/gag/aZZvg46)
+ - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
+ - 😝 [Let the pollpostings begin!](http://9gag.com/gag/aYQmYpw)
+ - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)<!-- MEMES:END -->
+ - 👉 [Save your friends](http://9gag.com/gag/aVvBYvw)<!-- MEMES:END -->
 
 ---
 

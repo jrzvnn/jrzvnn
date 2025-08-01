@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Starlight](http://9gag.com/gag/aGybgLn)
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 💣 [Forklift certified](http://9gag.com/gag/aZZvg46)
+ - 😝 [Man had enough](http://9gag.com/gag/aAyZx3p)
+ - 😝 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
+ - 💣 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
  - 👉 [Look at me](http://9gag.com/gag/aKGpDXj)<!-- MEMES:END -->
 

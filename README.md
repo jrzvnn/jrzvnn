@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 😝 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
- - 💣 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
+ - 😝 [Dang, right in the feels. We had enough technology to make it a little fun, but not quite enough to get in the way of us being children. We didn&#39;t know how good we had it. Man... Long fkin live the 90s!!!](http://9gag.com/gag/aAyZg3L)
+ - 😝 [Give her your strength guys, shell need it !](http://9gag.com/gag/aAyZ3ZL)
+ - 💣 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Of course...](http://9gag.com/gag/a87z3A1)<!-- MEMES:END -->
+ - 👉 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)<!-- MEMES:END -->
 
 ---
 

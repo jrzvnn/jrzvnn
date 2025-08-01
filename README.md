@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Man had enough](http://9gag.com/gag/aAyZx3p)
  - 💣 [If you know. You know](http://9gag.com/gag/aAyZx79)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)<!-- MEMES:END -->
+ - 👉 [Look at me](http://9gag.com/gag/aKGpDXj)<!-- MEMES:END -->
 
 ---
 

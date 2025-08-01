@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare reports Q2 revenue up 28% YoY to $512.3M, vs. $501.21M est., and forecasts Q3 revenue of $543.5M to $544.5M, vs. $538.6M est. &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250731/p52#a250731p52)
- - [Apple incurred ~$800M in tariff-related costs in Q3, $100M less than expected, and expects a jump to $1.1B in Q4 if current rates and policies remain in place &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/250731/p51#a250731p51)
- - [Apple shipped its 3 billionth iPhone](https://www.theverge.com/news/717103/apple-shipped-its-3-billionth-iphone)
- - [Apple staring down $2 billion in total tariff costs in total before end of September](https://appleinsider.com/articles/25/07/31/apple-staring-down-2-billion-in-total-tariff-costs-in-total-before-end-of-september?utm_source=rss)
- - [Apple has now sold over 3B iPhones since its 2007 launch; it reached 1B sold in July 2016, and is estimated to have reached 2B around September 2021 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250731/p50#a250731p50)<!-- TECH:END -->
+ - [OpenAI removes a ChatGPT feature that let users make their conversations discoverable by Google and other search engines, calling it a &quot;short-lived experiment&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250731/p55#a250731p55)
+ - [Sources: Index Ventures&#39; nearly $100M investment in Figma was worth $2.17B at the initial IPO price, while Greylock&#39;s $50M investment was worth $2.03B &lpar;Katie Roof/Bloomberg&rpar;](http://www.techmeme.com/250731/p54#a250731p54)
+ - [Tim Cook says Apple is &quot;significantly growing&quot; investment in AI and reassigning staff to work on AI features, while remaining &quot;very open to M&amp;A&quot; &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250731/p53#a250731p53)
+ - [LincPlus LincStation S1 review: 6-bay NAS balances speed with capacity and design](https://appleinsider.com/articles/25/08/01/lincplus-lincstation-s1-review-6-bay-nas-balances-speed-with-capacity-and-design?utm_source=rss)
+ - [Cloudflare reports Q2 revenue up 28% YoY to $512.3M, vs. $501.21M est., and forecasts Q3 revenue of $543.5M to $544.5M, vs. $538.6M est. &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250731/p52#a250731p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

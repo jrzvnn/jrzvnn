@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out Gemini 2.5 Deep Think, its most advanced reasoning model, which can consider multiple ideas simultaneously, to $250-per-month Ultra subscribers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250801/p11#a250801p11)
- - [14 Best Couches We&#39;ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couch/)
- - [Bing made Google dance and then stole some search traffic](https://www.theverge.com/analysis/717167/bing-market-share-growth-google-ai)
- - [Sources: CapitalG and Nvidia are in talks to invest in Vast Data, which could value the AI infrastructure provider at ~$30B, up from $9.1B in 2023 &lpar;Reuters&rpar;](http://www.techmeme.com/250801/p10#a250801p10)
- - [Google loses to Epic Games in Play Store appeal](https://appleinsider.com/articles/25/08/01/google-loses-to-epic-games-in-play-store-appeal?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft is killing off Windows 11 SE, its Chrome OS competitor](https://www.theverge.com/news/717253/microsoft-windows-11-se-chrome-os-competitor-end-of-support)
+ - [iPhone 17 out in public, blockbuster earnings, and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/01/iphone-17-out-in-public-blockbuster-earnings-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [Everything we think we know about the Google Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)
+ - [Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Google rolls out Gemini 2.5 Deep Think, its most advanced reasoning model, which can consider multiple ideas simultaneously, to $250-per-month Ultra subscribers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250801/p11#a250801p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
- - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
- - 💣 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
+ - 😝 [If you know. You know](http://9gag.com/gag/aAyZx79)
+ - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 💣 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)<!-- MEMES:END -->
+ - 👉 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 😝 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)
  - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
- - 💣 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
+ - 💣 [This is a repost, but damn I had to share how much I love this community... geh](http://9gag.com/gag/a87zo8Y)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
+ - 👉 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)<!-- MEMES:END -->
 
 ---
 

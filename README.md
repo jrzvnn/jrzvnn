@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google loses to Epic Games in Play Store appeal](https://appleinsider.com/articles/25/08/01/google-loses-to-epic-games-in-play-store-appeal?utm_source=rss)
+ - [Samsung TVs are coming back online after apps stopped working](https://www.theverge.com/news/717210/samsung-tv-outage-streaming-apps-issues)
+ - [Confessions of a Recovering AI Porn Addict](https://www.wired.com/story/confessions-of-a-recovering-ai-porn-addict/)
  - [Inside Find My - Track your devices &amp; loved ones with a tap](https://appleinsider.com/inside/iphone/tips/inside-find-my---track-your-devices-loved-ones-with-a-tap?utm_source=rss)
- - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [Palantir Is Extending Its Reach Even Further Into Government](https://www.wired.com/story/palantir-government-contracting-push/)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Meituan, Alibaba, and JD.com vow to curb &quot;disorderly competition&quot; and limit their price wars in China&#39;s food delivery space after warning from Chinese regulator &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p9#a250801p9)<!-- TECH:END -->
+ - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

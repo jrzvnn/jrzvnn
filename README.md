@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save your friends](http://9gag.com/gag/aVvBYvw)
- - 😝 [Dang, right in the feels. We had enough technology to make it a little fun, but not quite enough to get in the way of us being children. We didn&#39;t know how good we had it. Man... Long fkin live the 90s!!!](http://9gag.com/gag/aAyZg3L)
- - 💣 [Give her your strength guys, shell need it !](http://9gag.com/gag/aAyZ3ZL)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)
+ - 💣 [Starlight](http://9gag.com/gag/aGybgLn)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)<!-- MEMES:END -->
+ - 👉 [The secret ingredient is rainwater](http://9gag.com/gag/amon73y)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 😝 [Sensitive you say](http://9gag.com/gag/aryzg6y)
- - 💣 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 😝 [I hope this kind of interaction will be on GTA VI](http://9gag.com/gag/axy40AK)
+ - 💣 [Forklift certified](http://9gag.com/gag/aZZvg46)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
+ - 👉 [Immigration, Tourist visa, Working visa, Green card, etc etc etc.](http://9gag.com/gag/a4PVG31)<!-- MEMES:END -->
 
 ---
 

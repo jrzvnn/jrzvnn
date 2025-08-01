@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: crypto industry donated $26M+ to Trump&#39;s super PAC, MAGA Inc., in H1, including $5M from Blockchain.com; Marc Andreesen and Ben Horowitz gave $3M each &lpar;Axios&rpar;](http://www.techmeme.com/250801/p29#a250801p29)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [The biggest fighting game tournament is a little smaller this year — but still exciting](https://www.theverge.com/games/717660/how-to-watch-evo-2025-las-vegas)
  - [Why Nintendo didn&amp;#8217;t raise the price of the Switch 2 &lpar;yet&rpar;](https://www.theverge.com/nintendo/717611/nintendo-switch-price-increase-risk-safety)
- - [Blood oxygen sensing shows no sign of returning to Apple Watch any time soon](https://appleinsider.com/articles/25/08/01/blood-oxygen-sensing-shows-no-sign-of-returning-to-apple-watch-any-time-soon?utm_source=rss)
- - [Google says it will preserve &quot;actively used&quot; goo.gl URLs, after announcing earlier that all existing goo.gl links would stop working in August 2025 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250801/p28#a250801p28)
- - [Google backtracks on plans to deactivate shortened goo.gl links](https://www.theverge.com/news/717649/google-goo-gl-url-shortener-links-backtrack)<!-- TECH:END -->
+ - [Blood oxygen sensing shows no sign of returning to Apple Watch any time soon](https://appleinsider.com/articles/25/08/01/blood-oxygen-sensing-shows-no-sign-of-returning-to-apple-watch-any-time-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is killing off Windows 11 SE, its Chrome OS competitor](https://www.theverge.com/news/717253/microsoft-windows-11-se-chrome-os-competitor-end-of-support)
- - [iPhone 17 out in public, blockbuster earnings, and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/01/iphone-17-out-in-public-blockbuster-earnings-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [Everything we think we know about the Google Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)
- - [Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
- - [Google rolls out Gemini 2.5 Deep Think, its most advanced reasoning model, which can consider multiple ideas simultaneously, to $250-per-month Ultra subscribers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250801/p11#a250801p11)<!-- TECH:END -->
+ - [Hong Kong&#39;s stablecoin licensing regime takes effect, requiring issuers to get approval from the Monetary Authority, comply with AML protocols, and more &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250801/p14#a250801p14)
+ - [Vivobarefoot&#39;s Sensus Shoes Are Like Gloves for Your Feet](https://www.wired.com/story/vivobarefoot-sensus-barefoot-rave/)
+ - [Microsoft plans to end support for Windows 11 SE next year, five years after launching the OS on low-cost laptops designed to compete with Google Chromebooks &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250801/p13#a250801p13)
+ - [Source: OpenAI raised $8.3B led by Dragoneer at a $300B valuation, months ahead of schedule and part of a $40B goal for 2025; 5M business users pay for ChatGPT &lpar;New York Times&rpar;](http://www.techmeme.com/250801/p12#a250801p12)
+ - [AC or DC: Which Is Better?](https://www.wired.com/story/ac-or-dc-which-is-better/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallarm, which builds a platform for API and AI security, raised a $55M Series C led by Toba Capital after an $8M Series A in 2018, taking total raised to ~$66M &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/250801/p3#a250801p3)
- - [NYC-based Carbyne, which offers cloud-based tools for emergency services, raised $100M from AT&amp;T Ventures, Axon Enterprises, Cox Enterprises, and others &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250801/p2#a250801p2)
- - [The LeapMove is a gamified camera designed to get kids off the couch](https://www.theverge.com/news/717018/leapfrog-leapmove-motion-detection-gaming)
- - [San Mateo-based observability service Observe raised a $156M Series C led by Sutter Hill Ventures with participation from Snowflake, Madrona, and others &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250801/p1#a250801p1)
- - [Miami-based MyPrize, which offers free-to-play social games in the US and crypto games elsewhere, raised $21M at a $250M valuation, taking total raised to $38M &lpar;Fiona Simmons/GamblingNews&rpar;](http://www.techmeme.com/250731/p59#a250731p59)<!-- TECH:END -->
+ - [Prophet Security, which develops fully autonomous AI agents for cybersecurity defense, raised a $30M Series A led by Accel &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250801/p5#a250801p5)
+ - [Surfshark Promo Codes: 87% Off | August 2025](https://www.wired.com/story/surfshark-coupon/)
+ - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [Source: Anthropic is nearing $5B in annualized revenue, up from $4B reported on July 1, as it nears a deal to raise $5B led by Iconiq at a $170B valuation &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250801/p4#a250801p4)
+ - [Wallarm, which builds a platform for API and AI security, raised a $55M Series C led by Toba Capital after an $8M Series A in 2018, taking total raised to ~$66M &lpar;Michael Novinson/BankInfoSecurity.com&rpar;](http://www.techmeme.com/250801/p3#a250801p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

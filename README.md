@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look at me](http://9gag.com/gag/aKGpDXj)
- - 😝 [Ouch](http://9gag.com/gag/abAEzmL)
- - 💣 [Immigration, Tourist visa, Working visa, Green card, etc etc etc.](http://9gag.com/gag/a4PVG31)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
+ - 💣 [Makes sense to me](http://9gag.com/gag/aW49qj3)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)<!-- MEMES:END -->
+ - 👉 [Look we have polls now.](http://9gag.com/gag/adBbKAZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
  - [Meta, Alphabet, Microsoft, and Amazon have collectively spent ~$90B on capex in their most recent quarters and are expected to spend over $344B for the year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p30#a250801p30)
  - [Fujifilm is raising camera prices by up to $800](https://www.theverge.com/cameras/717685/fujifilm-camera-price-hikes-tariffs-x100vi)
  - [Bose&amp;#8217;s QuietComfort Headphones are $130 off for back-to-school season](https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale)
- - [This Japanese band used 40 iPhones to make a music video](https://appleinsider.com/articles/25/08/01/this-japanese-band-used-40-iphones-to-make-a-music-video?utm_source=rss)
- - [&#39;Final Destination Bloodlines&#39; Is Now Streaming. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/final-destination-bloodlines-is-now-streaming-heres-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Japanese band used 40 iPhones to make a music video](https://appleinsider.com/articles/25/08/01/this-japanese-band-used-40-iphones-to-make-a-music-video?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

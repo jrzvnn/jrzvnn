@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Of course...](http://9gag.com/gag/a87z3A1)
- - 😝 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
- - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
+ - 😝 [LC Sign guy does not flinch](http://9gag.com/gag/aYQmg8q)
+ - 😝 [Food for thought](http://9gag.com/gag/aByogAQ)
+ - 💣 [Let&#39;s see: there was a huge cage full of squirrels in a basement in an old house.](http://9gag.com/gag/a2vGR4Z)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [The Steinwinter Supercargo 2040 truck &lpar;1983&rpar;](http://9gag.com/gag/azxQ1BN)<!-- MEMES:END -->
+ - 👉 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legendary 9gagger speech](http://9gag.com/gag/ae9We4B)
- - 😝 [Man had enough](http://9gag.com/gag/aAyZx3p)
- - 💣 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 😝 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [Look at me](http://9gag.com/gag/aKGpDXj)
+ - 💣 [Makes sense to me](http://9gag.com/gag/aW49qj3)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Makes sense to me](http://9gag.com/gag/aW49qj3)<!-- MEMES:END -->
+ - 👉 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)<!-- MEMES:END -->
 
 ---
 

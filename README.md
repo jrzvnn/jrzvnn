@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Chippendales](http://9gag.com/gag/aoyDPE0)
  - 😝 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
- - 😝 [Best decision ever](http://9gag.com/gag/a4PVRWy)
- - 💣 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
+ - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
  - 👉 [The Steinwinter Supercargo 2040 truck &lpar;1983&rpar;](http://9gag.com/gag/azxQ1BN)<!-- MEMES:END -->
 

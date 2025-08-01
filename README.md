@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Itch.io has begun restoring NSFW content, but only if it&amp;#8217;s free](https://www.theverge.com/games/717393/itchio-adult-content-ban-restoring-free-nsfw-pages)
- - [iPhone 17 Air slim battery design may have leaked](https://appleinsider.com/articles/25/08/01/iphone-17-air-slim-battery-design-may-have-leaked?utm_source=rss)
- - [China accuses the US of exploiting an old Microsoft Exchange flaw to control a key Chinese defense company&#39;s servers for nearly a year and steal military data &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p17#a250801p17)
- - [The $299 Halo smart glasses will remember the names of people you meet](https://www.theverge.com/news/717387/brilliant-labs-halo-smart-glasses-noa-ai)
- - [Best Noise-Canceling Headphones We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo plans to raise the price of original Switch &quot;family of systems and products&quot; and some Switch 2 accessories in the US; Switch 2 price won&#39;t change &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250801/p19#a250801p19)
+ - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
+ - [Inside Jeffrey Epstein’s Forgotten AI Summit](https://www.wired.com/story/epstein-files-science-tech-funding/)
+ - [TikTok launches a new version of its app called TikTok Pro in Germany, Portugal, and Spain, allowing users to earn &quot;virtual sunshine&quot; to support charities &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250801/p18#a250801p18)
+ - [Itch.io has begun restoring NSFW content, but only if it&amp;#8217;s free](https://www.theverge.com/games/717393/itchio-adult-content-ban-restoring-free-nsfw-pages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

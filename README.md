@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: thousands of US export license applications, including for Nvidia&#39;s shipments of AI chips to China, are stalled due to US Commerce Department turmoil &lpar;Reuters&rpar;](http://www.techmeme.com/250801/p20#a250801p20)
- - [Reddit pauses its paywall plans](https://www.theverge.com/news/717480/reddit-paywall-paid-subreddits-plans-earnings-steve-huffman-spez)
- - [Nintendo plans to raise the price of the original Switch &quot;family of systems and products&quot; and some Switch 2 accessories in the US; Switch 2&#39;s price won&#39;t change &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250801/p19#a250801p19)
- - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
- - [Inside Jeffrey Epstein’s Forgotten AI Summit](https://www.wired.com/story/epstein-files-science-tech-funding/)<!-- TECH:END -->
+ - [Verizon is upping its fees again](https://www.theverge.com/news/717506/verizon-fee-price-increase-administrative-charge)
+ - [Reddit pauses plans to let users make subreddits with content behind a paywall, as it focuses on other priorities, including &quot;accelerating international growth&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250801/p22#a250801p22)
+ - [In the UK, X and Reddit are blocking wide-ranging content, including about parliamentary debates, Ukraine, and Gaza, to comply with the Online Safety Act &lpar;BBC&rpar;](http://www.techmeme.com/250801/p21#a250801p21)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [Itch.io Is Restoring NSFW Games—as Long as They’re Free](https://www.wired.com/story/itchio-restoring-free-nsfw-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

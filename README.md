@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Find My - Track your devices &amp; loved ones with a tap](https://appleinsider.com/inside/iphone/tips/inside-find-my---track-your-devices-loved-ones-with-a-tap?utm_source=rss)
  - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
  - [Palantir Is Extending Its Reach Even Further Into Government](https://www.wired.com/story/palantir-government-contracting-push/)
- - [Meituan, Alibaba, and JD.com vow to curb &quot;disorderly competition&quot; and limit their price wars in China&#39;s food delivery space after warning from Chinese regulator &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p9#a250801p9)
- - [The Best Mouth Tape &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mouth-tape/)
- - [Uber’s Drive to Become the Kleenex of Robotaxis](https://www.wired.com/story/ubers-drive-to-become-the-kleenex-of-robotaxis/)<!-- TECH:END -->
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
+ - [Meituan, Alibaba, and JD.com vow to curb &quot;disorderly competition&quot; and limit their price wars in China&#39;s food delivery space after warning from Chinese regulator &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p9#a250801p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

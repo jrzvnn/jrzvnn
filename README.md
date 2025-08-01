@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Bose&amp;#8217;s QuietComfort Headphones are $130 off for back-to-school season](https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale)
  - [This Japanese band used 40 iPhones to make a music video](https://appleinsider.com/articles/25/08/01/this-japanese-band-used-40-iphones-to-make-a-music-video?utm_source=rss)
+ - [&#39;Final Destination Bloodlines&#39; Is Now Streaming. Here&#39;s How to Watch](https://www.cnet.com/tech/services-and-software/final-destination-bloodlines-is-now-streaming-heres-how-to-watch/#ftag=CAD590a51e)
  - [Filings: crypto industry donated $26M+ to Trump&#39;s super PAC, MAGA Inc., in H1, including $5M from Blockchain.com; Marc Andreesen and Ben Horowitz gave $3M each &lpar;Axios&rpar;](http://www.techmeme.com/250801/p29#a250801p29)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [The biggest fighting game tournament is a little smaller this year — but still exciting](https://www.theverge.com/games/717660/how-to-watch-evo-2025-las-vegas)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

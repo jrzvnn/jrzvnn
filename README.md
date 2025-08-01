@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just sleep on his lap???](http://9gag.com/gag/aND3180)
- - 😝 [Let the pollpostings begin!](http://9gag.com/gag/aYQmYpw)
- - 💣 [Stonks](http://9gag.com/gag/an7VMDL)
+ - 😝 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 💣 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
  - 😝 [No martini? That&#39;s a crime! Watch The Naked Gun Movie - only in theatres August 1.](http://9gag.com/gag/aoyDeNw)
- - 👉 [Save your friends](http://9gag.com/gag/aVvBYvw)<!-- MEMES:END -->
+ - 👉 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)<!-- MEMES:END -->
 
 ---
 

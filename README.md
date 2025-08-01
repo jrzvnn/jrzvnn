@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Tesla Found Partly Liable in 2019 Autopilot Death](https://www.wired.com/story/tesla-liable-2019-autopilot-crash-death/)
  - [Meta, Alphabet, Microsoft, and Amazon have collectively spent ~$90B on capex in their most recent quarters and are expected to spend over $344B for the year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250801/p30#a250801p30)
  - [Fujifilm is raising camera prices by up to $800](https://www.theverge.com/cameras/717685/fujifilm-camera-price-hikes-tariffs-x100vi)
- - [Bose&amp;#8217;s QuietComfort Headphones are $130 off for back-to-school season](https://www.theverge.com/tech/717596/bose-quietcomfort-headphones-anker-power-bank-deal-sale)
- - [This Japanese band used 40 iPhones to make a music video](https://appleinsider.com/articles/25/08/01/this-japanese-band-used-40-iphones-to-make-a-music-video?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 2, #313](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-2-313/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 2, #1505](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-2-1505/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

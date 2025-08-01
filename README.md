@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Switch prices are going up after this weekend](https://www.theverge.com/news/717325/nintendo-switch-price-hike-tariffs)
  - [Reddit wants to become &quot;a go-to search engine&quot; for users; its core search has 70M+ weekly active unique users and AI-powered Reddit Answers has 6M weekly users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250801/p15#a250801p15)
  - [IRS head says free Direct File tax service is ‘gone’](https://www.theverge.com/news/717308/irs-direct-file-gone-billy-long-trump-administration)
  - [11 Best Laptops for College Students &lpar;2025&rpar;, Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
- - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)
- - [Hong Kong&#39;s stablecoin licensing regime takes effect, requiring issuers to get approval from the Monetary Authority, comply with AML protocols, and more &lpar;Callan Quinn/Decrypt&rpar;](http://www.techmeme.com/250801/p14#a250801p14)<!-- TECH:END -->
+ - [The First Widespread Cure for HIV Could Be in Children](https://www.wired.com/story/the-first-widespread-cure-for-hiv-could-be-in-children/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

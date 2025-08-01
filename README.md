@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sensitive you say](http://9gag.com/gag/aryzg6y)
- - 😝 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)
- - 💣 [Photon acting differently after realizing it&#39;s observed](http://9gag.com/gag/a6Z8oRA)
+ - 😝 [Black heaven canceled](http://9gag.com/gag/aGybjeK)
+ - 😝 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
+ - 💣 [The mistake was they accidently handed him 30 million dollars](http://9gag.com/gag/aO8GYQN)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Post](http://9gag.com/gag/aGybgj7)<!-- MEMES:END -->
+ - 👉 [Of course...](http://9gag.com/gag/a87z3A1)<!-- MEMES:END -->
 
 ---
 

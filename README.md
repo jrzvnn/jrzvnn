@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hell yeah](http://9gag.com/gag/aMVyYKX)
- - 😝 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
- - 💣 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)
- - 😝 [Simple problem with complex solution](http://9gag.com/gag/aQzV1Ad)
- - 👉 [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)<!-- MEMES:END -->
+ - 😝 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
+ - 😝 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)
+ - 💣 [Soon...](http://9gag.com/gag/a6Z8NXq)
+ - 😝 [Personal nightmare](http://9gag.com/gag/agmjnp6)
+ - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
 
 ---
 

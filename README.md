@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
- - 😝 [Soon...](http://9gag.com/gag/a6Z8NXq)
+ - 😝 [If you know. You know](http://9gag.com/gag/aAyZx79)
+ - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
  - 💣 [Post](http://9gag.com/gag/aGybgj7)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
+ - 👉 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)<!-- MEMES:END -->
 
 ---
 

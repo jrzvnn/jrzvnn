@@ -158,8 +158,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The 45 Best Movies on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 45 Best Shows on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Trump Promised to ‘Drill, Baby, Drill.’ The New Rigs Are Nowhere to Be Found](https://www.wired.com/story/trump-promised-to-drill-baby-drill-the-new-rigs-are-nowhere-to-be-found/)
+ - [The 45 Best Shows on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Google Will Use AI to Guess People’s Ages Based on Search History](https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/)
  - [This $15 Sunscreen Applicator for Kids Saves Me Time Before Outdoor Adventures With My Toddler](https://www.cnet.com/health/this-15-dollar-sunscreen-applicator-for-kids-saves-me-time-before-outdoor-adventures-with-my-toddler/#ftag=CAD590a51e)<!-- TECH:END -->
 

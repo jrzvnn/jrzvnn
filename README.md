@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What happened?](http://9gag.com/gag/apR8G29)
- - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 💣 [Soon...](http://9gag.com/gag/a6Z8NXq)
- - 😝 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)
- - 👉 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)<!-- MEMES:END -->
+ - 😝 [This applies in too many cases](http://9gag.com/gag/ayNPe7M)
+ - 😝 [No preorders](http://9gag.com/gag/aW49jMq)
+ - 💣 [Please don&#39;t.](http://9gag.com/gag/avymzVq)
+ - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
+ - 👉 [Before our time runs out](http://9gag.com/gag/ae9WDB5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
  - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
- - 💣 [Soon...](http://9gag.com/gag/a6Z8NXq)
- - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 👉 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/aGybgj7)
+ - 💣 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 😝 [Personal nightmare](http://9gag.com/gag/agmjnp6)
+ - 👉 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
- - 😝 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
- - 💣 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 😝 [She is proud](http://9gag.com/gag/aGybdz7)
+ - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
+ - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
  - 👉 [Thicc is fun](http://9gag.com/gag/a87z5pp)<!-- MEMES:END -->
 

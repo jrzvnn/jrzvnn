@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Personal nightmare](http://9gag.com/gag/agmjnp6)
  - 😝 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
- - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
- - 💣 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)
+ - 💣 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Personal nightmare](http://9gag.com/gag/agmjnp6)<!-- MEMES:END -->
+ - 👉 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)<!-- MEMES:END -->
 
 ---
 

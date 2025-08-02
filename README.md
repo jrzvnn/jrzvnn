@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Manus unveils Wide Research, an experimental feature that lets users on its Pro plan enlist dozens of parallelized AI agents for large-scale, high-volume tasks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250802/p1#a250802p1)
  - [Roblox&#39;s average DAUs grew 41% YoY to 111.8M in Q2 and hours engaged rose 58% YoY to 27.4B, driven by the success of tycoon-style farming game Grow a Garden &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250801/p39#a250801p39)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-2/#ftag=CAD590a51e)
  - [Anthropic details &quot;persona vectors&quot;, patterns of activity within an AI model&#39;s neural network that control its character traits, such as evil and sycophancy &lpar;Anthropic&rpar;](http://www.techmeme.com/250801/p38#a250801p38)
- - [Trump Media reports Q2 net sales up 5.5% YoY to $883.3K and a net loss of $20M, and says it accumulated ~$2B in bitcoin and bitcoin-related securities in July &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250801/p37#a250801p37)
- - [Cerebras announces the $50/month Code Pro and the $200/month Code Max plans, offering users access to Qwen3-Coder at speeds of up to 2,000 tokens per second &lpar;Daniel Kim/Cerebras&rpar;](http://www.techmeme.com/250801/p36#a250801p36)<!-- TECH:END -->
+ - [Trump Media reports Q2 net sales up 5.5% YoY to $883.3K and a net loss of $20M, and says it accumulated ~$2B in bitcoin and bitcoin-related securities in July &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250801/p37#a250801p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

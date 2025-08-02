@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And then they fukced](http://9gag.com/gag/aGybgrz)
- - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 💣 [Good tips..](http://9gag.com/gag/aXPeoqd)
  - 😝 [Soon...](http://9gag.com/gag/a6Z8NXq)
- - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
+ - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 💣 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 😝 [And then they fukced](http://9gag.com/gag/aGybgrz)
+ - 👉 [Good tips..](http://9gag.com/gag/aXPeoqd)<!-- MEMES:END -->
 
 ---
 

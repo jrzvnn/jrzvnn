@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In case you have a bad day](http://9gag.com/gag/aLnrw0A)
- - 😝 [Food for thought](http://9gag.com/gag/aByogAQ)
- - 💣 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)
+ - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 💣 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Are polls gae?](http://9gag.com/gag/aQzVRMe)<!-- MEMES:END -->
+ - 👉 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)<!-- MEMES:END -->
 
 ---
 

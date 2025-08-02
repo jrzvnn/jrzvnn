@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 45 Best Movies on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 45 Best Shows on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Trump Promised to ‘Drill, Baby, Drill.’ The New Rigs Are Nowhere to Be Found](https://www.wired.com/story/trump-promised-to-drill-baby-drill-the-new-rigs-are-nowhere-to-be-found/)
  - [Google Will Use AI to Guess People’s Ages Based on Search History](https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/)
- - [US fears iPhone supplier BOE is a Chinese military company](https://appleinsider.com/articles/25/08/02/us-fears-iphone-supplier-boe-is-a-chinese-military-company?utm_source=rss)
- - [11 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)
- - [SentinelOne researchers detail over 10 offensive cybersecurity patents filed by Shanghai Firetech, a company allegedly involved in Beijing&#39;s Silk Typhoon hacks &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250802/p6#a250802p6)
- - [Gear News of the Week: Insta360 Debuts a Drone Company, and DJI Surprises With an 8K 360 Camera](https://www.wired.com/story/gear-news-of-the-week-insta360-debuts-a-drone-company-and-dji-surprises-with-an-8k-360-camera/)<!-- TECH:END -->
+ - [This $15 Sunscreen Applicator for Kids Saves Me Time Before Outdoor Adventures With My Toddler](https://www.cnet.com/health/this-15-dollar-sunscreen-applicator-for-kids-saves-me-time-before-outdoor-adventures-with-my-toddler/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

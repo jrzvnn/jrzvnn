@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
- - 😝 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)
- - 💣 [Soon...](http://9gag.com/gag/a6Z8NXq)
- - 😝 [Personal nightmare](http://9gag.com/gag/agmjnp6)
- - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
+ - 😝 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
+ - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 💣 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)
+ - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 👉 [There. I fixed it.](http://9gag.com/gag/aRBD10j)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SentinelOne researchers detail over 10 offensive cybersecurity patents filed by Shanghai Firetech, a company allegedly involved in Beijing&#39;s Silk Typhoon hacks &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250802/p6#a250802p6)
+ - [Gear News of the Week: Insta360 Debuts a Drone Company, and DJI Surprises With an 8K 360 Camera](https://www.wired.com/story/gear-news-of-the-week-insta360-debuts-a-drone-company-and-dji-surprises-with-an-8k-360-camera/)
  - [How to Watch Australia vs. British &amp; Irish Lions From Anywhere: Stream 3rd Test Rugby Union Free](https://www.cnet.com/tech/services-and-software/how-to-watch-australia-vs-british-irish-lions-from-anywhere-stream-3rd-test-rugby-union-free/#ftag=CAD590a51e)
  - [This Bird ID App Has Helped Me Practice Mindfulness More Than Any Meditation App](https://www.cnet.com/health/this-bird-id-app-has-helped-me-practice-mindfulness-more-than-any-meditation-app/#ftag=CAD590a51e)
- - [BougeRV’s portable solar fridge is quietly annoying](https://www.theverge.com/reviews/717166/bougerv-crd2-40-review-12v-portable-combo-fridge)
- - [CB Insights: Figma&#39;s IPO was the largest venture-backed IPO by market capitalization for a US tech company since Rivian&#39;s debut in November 2021 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250802/p5#a250802p5)
- - [Analysis: since April 2, President Trump has excluded over $100B in US smartphone and laptop imports from tariffs, highlighting conflicting administration goals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250802/p4#a250802p4)<!-- TECH:END -->
+ - [BougeRV’s portable solar fridge is quietly annoying](https://www.theverge.com/reviews/717166/bougerv-crd2-40-review-12v-portable-combo-fridge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

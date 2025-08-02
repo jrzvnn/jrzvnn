@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
- - 😝 [Soon...](http://9gag.com/gag/a6Z8NXq)
- - 💣 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
- - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
- - 👉 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)<!-- MEMES:END -->
+ - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [Jojo Siwa](http://9gag.com/gag/aKGpd03)
+ - 💣 [Thicc is fun](http://9gag.com/gag/a87z5pp)
+ - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
 
 ---
 

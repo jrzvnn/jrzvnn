@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This applies in too many cases](http://9gag.com/gag/ayNPe7M)
  - 😝 [No preorders](http://9gag.com/gag/aW49jMq)
- - 💣 [Please don&#39;t.](http://9gag.com/gag/avymzVq)
- - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
- - 👉 [Before our time runs out](http://9gag.com/gag/ae9WDB5)<!-- MEMES:END -->
+ - 😝 [Post](http://9gag.com/gag/aGybgj7)
+ - 💣 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [What happened?](http://9gag.com/gag/apR8G29)
+ - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
 
 ---
 

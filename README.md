@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jojo Siwa](http://9gag.com/gag/aKGpd03)
+ - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
  - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
- - 💣 [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 💣 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
  - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 👉 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)<!-- MEMES:END -->
+ - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
 
 ---
 

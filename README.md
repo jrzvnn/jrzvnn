@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No preorders](http://9gag.com/gag/aW49jMq)
- - 😝 [Post](http://9gag.com/gag/aGybgj7)
- - 💣 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [She is proud](http://9gag.com/gag/aGybdz7)
+ - 💣 [Post](http://9gag.com/gag/aGybgj7)
  - 😝 [What happened?](http://9gag.com/gag/apR8G29)
- - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
+ - 👉 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)<!-- MEMES:END -->
 
 ---
 

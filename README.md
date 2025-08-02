@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 😝 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)
- - 💣 [Post](http://9gag.com/gag/aGybgj7)
- - 😝 [Soon...](http://9gag.com/gag/a6Z8NXq)
- - 👉 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)<!-- MEMES:END -->
+ - 😝 [What happened?](http://9gag.com/gag/apR8G29)
+ - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 💣 [Soon...](http://9gag.com/gag/a6Z8NXq)
+ - 😝 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)
+ - 👉 [Unseen crazy footage of WTC collapsing](http://9gag.com/gag/a9yBK3W)<!-- MEMES:END -->
 
 ---
 

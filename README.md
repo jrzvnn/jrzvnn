@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CB Insights: Figma&#39;s IPO was the largest venture-backed IPO by market capitalization for a US tech company since Rivian&#39;s debut in November 2021 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250802/p5#a250802p5)
  - [Analysis: since April 2, President Trump has excluded over $100B in US smartphone and laptop imports from tariffs, highlighting conflicting administration goals &lpar;Bloomberg&rpar;](http://www.techmeme.com/250802/p4#a250802p4)
  - [Microsoft&#39;s latest 10-K shows that the company&#39;s committed datacenter construction is down YoY, with almost no new leases signed in the past 12 months &lpar;@semianalysis_&rpar;](http://www.techmeme.com/250802/p3#a250802p3)
  - [Signatories to the EU&#39;s voluntary AI Code of Practice include Amazon, Anthropic, Google, Microsoft, and OpenAI, while Chinese AI companies remain absent &lpar;Maximilian Henning/Euractiv&rpar;](http://www.techmeme.com/250802/p2#a250802p2)
- - [Manus unveils Wide Research, an experimental feature that lets users on its Pro plan enlist dozens of parallelized AI agents for large-scale, high-volume tasks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250802/p1#a250802p1)
- - [Roblox&#39;s average DAUs grew 41% YoY to 111.8M in Q2 and hours engaged rose 58% YoY to 27.4B, driven by the success of tycoon-style farming game Grow a Garden &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250801/p39#a250801p39)<!-- TECH:END -->
+ - [Manus unveils Wide Research, an experimental feature that lets users on its Pro plan enlist dozens of parallelized AI agents for large-scale, high-volume tasks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250802/p1#a250802p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

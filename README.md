@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slim battery leak is really for the iPhone 17 Pro [u]](https://appleinsider.com/articles/25/08/01/iphone-17-air-slim-battery-design-may-have-leaked?utm_source=rss)
  - [The enforcer that could break up Apple and Google is facing upheaval](https://www.theverge.com/policy/717303/justice-department-antitrust-division-slater-alford-rinner-firing)
  - [Anthropic says OpenAI staff used Claude Code ahead of GPT-5 launch and it will continue providing API access to OpenAI for benchmarking and safety evaluations &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250802/p8#a250802p8)
  - [The ‘Epstein files’ implosion bleeds into foreign policy](https://www.theverge.com/politics/717725/maga-epstein-israel-netanyahu-carlson-nelk-boys)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [A US-Only TikTok? What We Know So Far About the Potential Replacement App](https://www.cnet.com/tech/services-and-software/a-us-only-tiktok-what-we-know-so-far-about-the-potential-replacement-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

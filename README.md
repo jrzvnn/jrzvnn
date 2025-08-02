@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simple problem with complex solution](http://9gag.com/gag/aQzV1Ad)
- - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
- - 💣 [Please don&#39;t.](http://9gag.com/gag/avymzVq)
- - 😝 [Before our time runs out](http://9gag.com/gag/ae9WDB5)
- - 👉 [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)<!-- MEMES:END -->
+ - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 😝 [Soon...](http://9gag.com/gag/a6Z8NXq)
+ - 💣 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
+ - 👉 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)<!-- MEMES:END -->
 
 ---
 

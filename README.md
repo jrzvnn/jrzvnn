@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An attempt was made ... and another ...](http://9gag.com/gag/aGybdK6)
- - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
- - 💣 [Jojo Siwa](http://9gag.com/gag/aKGpd03)
- - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
+ - 😝 [Simple problem with complex solution](http://9gag.com/gag/aQzV1Ad)
+ - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
+ - 💣 [Please don&#39;t.](http://9gag.com/gag/avymzVq)
+ - 😝 [Before our time runs out](http://9gag.com/gag/ae9WDB5)
+ - 👉 [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)<!-- MEMES:END -->
 
 ---
 

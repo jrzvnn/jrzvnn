@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
- - 😝 [These people can vote btw](http://9gag.com/gag/a4PV3Xw)
- - 💣 [Personal nightmare](http://9gag.com/gag/agmjnp6)
+ - 😝 [Disney...](http://9gag.com/gag/aQzVR0d)
+ - 😝 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)
+ - 💣 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
  - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 👉 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)<!-- MEMES:END -->
+ - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
 
 ---
 

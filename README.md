@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney...](http://9gag.com/gag/aQzVR0d)
- - 😝 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)
- - 💣 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
+ - 😝 [An attempt was made ... and another ...](http://9gag.com/gag/aGybdK6)
+ - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 💣 [Jojo Siwa](http://9gag.com/gag/aKGpd03)
  - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
  - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
 

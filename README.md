@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-2/#ftag=CAD590a51e)
+ - [Anthropic details &quot;persona vectors&quot;, patterns of activity within an AI model&#39;s neural network that control its character traits, such as evil and sycophancy &lpar;Anthropic&rpar;](http://www.techmeme.com/250801/p38#a250801p38)
  - [Trump Media reports Q2 net sales up 5.5% YoY to $883.3K and a net loss of $20M, and says it accumulated ~$2B in bitcoin and bitcoin-related securities in July &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250801/p37#a250801p37)
  - [Cerebras announces the $50/month Code Pro and the $200/month Code Max plans, offering users access to Qwen3-Coder at speeds of up to 2,000 tokens per second &lpar;Daniel Kim/Cerebras&rpar;](http://www.techmeme.com/250801/p36#a250801p36)
- - [Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI](https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race)
- - [Subzero Labs, which is building Rialo, a blockchain designed for non-crypto developers to build &quot;real-world&quot; apps, raised a $20M seed led by Pantera Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250801/p35#a250801p35)
- - [Delta&amp;#8217;s dynamic AI pricing plan sounds different now](https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model)<!-- TECH:END -->
+ - [Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI](https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

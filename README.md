@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Personal nightmare](http://9gag.com/gag/agmjnp6)
- - 😝 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
- - 💣 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 💣 [Thicc is fun](http://9gag.com/gag/a87z5pp)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)<!-- MEMES:END -->
+ - 👉 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)<!-- MEMES:END -->
 
 ---
 

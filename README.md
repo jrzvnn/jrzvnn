@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
- - 😝 [Mommy issues](http://9gag.com/gag/an7V9Gz)
- - 💣 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
+ - 😝 [He looks happy, like a dog with 2 dicks](http://9gag.com/gag/azxQ9KB)
+ - 😝 [Hey boys! Meat is back on the menu!!!](http://9gag.com/gag/aoyDeqm)
+ - 💣 [Looks fine to me](http://9gag.com/gag/apR8mzD)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [He went from 0 to 1945 real quick](http://9gag.com/gag/aRBD1m5)<!-- MEMES:END -->
+ - 👉 [Thicc is fun](http://9gag.com/gag/a87z5pp)<!-- MEMES:END -->
 
 ---
 

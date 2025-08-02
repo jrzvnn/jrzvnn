@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There. I fixed it.](http://9gag.com/gag/aRBD10j)
- - 😝 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)
- - 💣 [Personal nightmare](http://9gag.com/gag/agmjnp6)
- - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)<!-- MEMES:END -->
+ - 😝 [Hell yeah](http://9gag.com/gag/aMVyYKX)
+ - 😝 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
+ - 💣 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)
+ - 😝 [Simple problem with complex solution](http://9gag.com/gag/aQzV1Ad)
+ - 👉 [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)<!-- MEMES:END -->
 
 ---
 

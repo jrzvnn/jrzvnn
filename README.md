@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 45 Best Movies on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Trump Promised to ‘Drill, Baby, Drill.’ The New Rigs Are Nowhere to Be Found](https://www.wired.com/story/trump-promised-to-drill-baby-drill-the-new-rigs-are-nowhere-to-be-found/)
- - [The 45 Best Shows on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Google Will Use AI to Guess People’s Ages Based on Search History](https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/)
- - [This $15 Sunscreen Applicator for Kids Saves Me Time Before Outdoor Adventures With My Toddler](https://www.cnet.com/health/this-15-dollar-sunscreen-applicator-for-kids-saves-me-time-before-outdoor-adventures-with-my-toddler/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
+ - [I tried ‘Bricking’ my phone to fix my brain](https://www.theverge.com/column/717498/brick-phone-screen-time-apps)
+ - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_source=rss)
+ - [You Should Download iOS 18.6 Now to Fix This Zero-Day Flaw](https://www.cnet.com/tech/services-and-software/you-should-download-ios-18-6-now-to-fix-this-zero-day-flaw/#ftag=CAD590a51e)
+ - [What You Should Know About the New, Free Messaging App Bitchat](https://www.cnet.com/tech/services-and-software/what-you-should-know-about-the-new-free-messaging-app-bitchat/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

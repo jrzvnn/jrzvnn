@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is proud](http://9gag.com/gag/aGybdz7)
- - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
- - 💣 [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
+ - 😝 [Post](http://9gag.com/gag/aGybgj7)
+ - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)<!-- MEMES:END -->
+ - 👉 [She is proud](http://9gag.com/gag/aGybdz7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Food for thought](http://9gag.com/gag/aByogAQ)
- - 😝 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)
- - 💣 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
+ - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 😝 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
+ - 💣 [Thicc is fun](http://9gag.com/gag/a87z5pp)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Hell yeah](http://9gag.com/gag/aMVyYKX)<!-- MEMES:END -->
+ - 👉 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)<!-- MEMES:END -->
 
 ---
 

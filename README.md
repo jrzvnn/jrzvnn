@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lina Khan cites Figma IPO as vindication of M&amp;A scrutiny, saying letting startups grow independently, rather than be acquired, can generate &quot;enormous value&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250802/p12#a250802p12)
  - [Sources: the researcher who declined Zuckerberg&#39;s offer of a $1.5B+ package over six years is Thinking Machines co-founder and ex-Meta staffer Andrew Tulloch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250802/p11#a250802p11)
- - [Best Stores for Buying MP3 and Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
- - [Best Home Security Systems in 2025: Safeguard Your Home With These Top Options](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
- - [How Palantir has benefited since President Trump took office, securing new and expanded government contracts and becoming the S&amp;P&#39;s top-performing stock of 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/250802/p10#a250802p10)
- - [Apple Cinemas may come to regret their name as lawyers step in](https://appleinsider.com/articles/25/08/02/apple-cinemas-may-come-to-regret-their-name-as-lawyers-step-in?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 3, #1506](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-3-1506/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 3 #518](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-3-518/#ftag=CAD590a51e)
+ - [Best Stores for Buying MP3 and Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

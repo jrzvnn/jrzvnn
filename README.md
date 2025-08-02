@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
  - 😝 [Jojo Siwa](http://9gag.com/gag/aKGpd03)
- - 💣 [Thicc is fun](http://9gag.com/gag/a87z5pp)
+ - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
+ - 💣 [Touch the fish](http://9gag.com/gag/agmj59q)
  - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
- - 👉 [Touch the fish](http://9gag.com/gag/agmj59q)<!-- MEMES:END -->
+ - 👉 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)<!-- MEMES:END -->
 
 ---
 

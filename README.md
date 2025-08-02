@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta&amp;#8217;s dynamic AI pricing plan sounds different now](https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model)
- - [Tim Cook says Apple ‘must’ figure out AI and ‘will make the investment to do it’](https://www.theverge.com/news/717865/apple-ceo-tim-cook-ai-investment)
- - [A US jury finds Meta violated the California Invasion of Privacy Act when it intentionally recorded the health data of women via the period tracking app Flo &lpar;Margaret Attridge/Courthouse News Service&rpar;](http://www.techmeme.com/250801/p34#a250801p34)
- - [Amazon eyes ads and upcharges for Alexa Plus](https://www.theverge.com/analysis/717763/amazon-alexa-plus-ai-ads-revenue-subscription-plans)
- - [All hands on deck: Tim Cook, Craig Federighi address Apple employees on AI, Siri](https://appleinsider.com/articles/25/08/01/all-hands-on-deck-tim-cook-craig-federighi-address-apple-employees-on-ai-siri?utm_source=rss)<!-- TECH:END -->
+ - [Trump Media reports Q2 net sales up 5.5% YoY to $883.3K and a net loss of $20M, and says it accumulated ~$2B in bitcoin and bitcoin-related securities in July &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250801/p37#a250801p37)
+ - [Cerebras announces the $50/month Code Pro and the $200/month Code Max plans, offering users access to Qwen3-Coder at speeds of up to 2,000 tokens per second &lpar;Daniel Kim/Cerebras&rpar;](http://www.techmeme.com/250801/p36#a250801p36)
+ - [Zuckerberg’s ‘personal superintelligence’ plan: fill your free time with more AI](https://www.theverge.com/command-line-newsletter/717880/zuckerbergs-personal-superintelligence-plan-ai-chatgpt-race)
+ - [Subzero Labs, which is building Rialo, a blockchain designed for non-crypto developers to build &quot;real-world&quot; apps, raised a $20M seed led by Pantera Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250801/p35#a250801p35)
+ - [Delta&amp;#8217;s dynamic AI pricing plan sounds different now](https://www.theverge.com/news/717867/delta-ai-dynamic-pricing-model)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
- - 😝 [Post](http://9gag.com/gag/aGybgj7)
- - 💣 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
- - 😝 [Personal nightmare](http://9gag.com/gag/agmjnp6)
- - 👉 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)<!-- MEMES:END -->
+ - 😝 [Door Dash is something else in USA](http://9gag.com/gag/aND3gWK)
+ - 😝 [Soon...](http://9gag.com/gag/a6Z8NXq)
+ - 💣 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)
+ - 😝 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 👉 [Personal nightmare](http://9gag.com/gag/agmjnp6)<!-- MEMES:END -->
 
 ---
 

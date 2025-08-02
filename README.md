@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Peacock Feathers Are Stunning. They Can Also Emit Laser Beams](https://www.wired.com/story/peacock-feathers-laser-beams/)
  - [Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables)
  - [China&#39;s World AI Conference struck a stark contrast to Trump&#39;s America-first, regulation-light vision, focusing instead on global cooperation for AI safety &lpar;Wired&rpar;](http://www.techmeme.com/250802/p7#a250802p7)
- - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
- - [Best VPN for Mac for 2025: Hide Your Browsing, Privately Torrent and Unblock Streaming Services Like Netflix](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

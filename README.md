@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is proud](http://9gag.com/gag/aGybdz7)
- - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
- - 💣 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)
+ - 😝 [There. I fixed it.](http://9gag.com/gag/aRBD10j)
+ - 😝 [How come you dont see asian with Down sydrome?](http://9gag.com/gag/a6Z8ORL)
+ - 💣 [Personal nightmare](http://9gag.com/gag/agmjnp6)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Personal nightmare](http://9gag.com/gag/agmjnp6)<!-- MEMES:END -->
+ - 👉 [9gaggers... you got bamboozled...](http://9gag.com/gag/a87z3r1)<!-- MEMES:END -->
 
 ---
 

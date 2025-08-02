@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Stores for Buying MP3 and Digital Music You Can Keep Forever](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
+ - [Best Home Security Systems in 2025: Safeguard Your Home With These Top Options](https://www.cnet.com/home/security/best-home-security-system/#ftag=CAD590a51e)
  - [How Palantir has benefited since President Trump took office, securing new and expanded government contracts and becoming the S&amp;P&#39;s top-performing stock of 2025 &lpar;Washington Post&rpar;](http://www.techmeme.com/250802/p10#a250802p10)
  - [Apple Cinemas may come to regret their name as lawyers step in](https://appleinsider.com/articles/25/08/02/apple-cinemas-may-come-to-regret-their-name-as-lawyers-step-in?utm_source=rss)
- - [How VCs are changing the way people learn about the tech industry, through a sprawling media ecosystem consisting of podcasts, newsletters, and streaming shows &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/250802/p9#a250802p9)
- - [I&#39;m Rethinking Amusement Park Rides for Good After Watching Netflix&#39;s &#39;Critical&#39; Docuseries](https://www.cnet.com/tech/services-and-software/im-rethinking-amusement-park-rides-for-good-after-watching-netflix-critical-docuseries/#ftag=CAD590a51e)
- - [Samsung’s Galaxy Watch 8 just came out and you can already save $50](https://www.theverge.com/tech/717078/samsung-galaxy-watch-8-gamesir-super-nova-deal-sale)<!-- TECH:END -->
+ - [How VCs are changing the way people learn about the tech industry, through a sprawling media ecosystem consisting of podcasts, newsletters, and streaming shows &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/250802/p9#a250802p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)
  - [SentinelOne researchers detail over 10 offensive cybersecurity patents filed by Shanghai Firetech, a company allegedly involved in Beijing&#39;s Silk Typhoon hacks &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250802/p6#a250802p6)
  - [Gear News of the Week: Insta360 Debuts a Drone Company, and DJI Surprises With an 8K 360 Camera](https://www.wired.com/story/gear-news-of-the-week-insta360-debuts-a-drone-company-and-dji-surprises-with-an-8k-360-camera/)
  - [How to Watch Australia vs. British &amp; Irish Lions From Anywhere: Stream 3rd Test Rugby Union Free](https://www.cnet.com/tech/services-and-software/how-to-watch-australia-vs-british-irish-lions-from-anywhere-stream-3rd-test-rugby-union-free/#ftag=CAD590a51e)
- - [This Bird ID App Has Helped Me Practice Mindfulness More Than Any Meditation App](https://www.cnet.com/health/this-bird-id-app-has-helped-me-practice-mindfulness-more-than-any-meditation-app/#ftag=CAD590a51e)
- - [BougeRV’s portable solar fridge is quietly annoying](https://www.theverge.com/reviews/717166/bougerv-crd2-40-review-12v-portable-combo-fridge)<!-- TECH:END -->
+ - [This Bird ID App Has Helped Me Practice Mindfulness More Than Any Meditation App](https://www.cnet.com/health/this-bird-id-app-has-helped-me-practice-mindfulness-more-than-any-meditation-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

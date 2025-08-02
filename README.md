@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She is proud](http://9gag.com/gag/aGybdz7)
- - 😝 [Whatever it takes](http://9gag.com/gag/aE0E229)
- - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
+ - 😝 [Food for thought](http://9gag.com/gag/aByogAQ)
+ - 😝 [The silly girl `can\u00b4t believe`](http://9gag.com/gag/azxQ1pb)
+ - 💣 [Are polls gae?](http://9gag.com/gag/aQzVRMe)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Thicc is fun](http://9gag.com/gag/a87z5pp)<!-- MEMES:END -->
+ - 👉 [Hell yeah](http://9gag.com/gag/aMVyYKX)<!-- MEMES:END -->
 
 ---
 

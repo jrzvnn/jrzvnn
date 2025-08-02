@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Cinemas may come to regret their name as lawyers step in](https://appleinsider.com/articles/25/08/02/apple-cinemas-may-come-to-regret-their-name-as-lawyers-step-in?utm_source=rss)
  - [How VCs are changing the way people learn about the tech industry, through a sprawling media ecosystem consisting of podcasts, newsletters, and streaming shows &lpar;Anne VanderMey/Bloomberg&rpar;](http://www.techmeme.com/250802/p9#a250802p9)
+ - [I&#39;m Rethinking Amusement Park Rides for Good After Watching Netflix&#39;s &#39;Critical&#39; Docuseries](https://www.cnet.com/tech/services-and-software/im-rethinking-amusement-park-rides-for-good-after-watching-netflix-critical-docuseries/#ftag=CAD590a51e)
  - [Samsung’s Galaxy Watch 8 just came out and you can already save $50](https://www.theverge.com/tech/717078/samsung-galaxy-watch-8-gamesir-super-nova-deal-sale)
- - [Slim battery leak is really for the iPhone 17 Pro [u]](https://appleinsider.com/articles/25/08/01/iphone-17-air-slim-battery-design-may-have-leaked?utm_source=rss)
- - [Scottish Premiership Soccer: Stream Motherwell vs. Rangers Live From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-stream-motherwell-vs-rangers-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Slim battery leak is really for the iPhone 17 Pro [u]](https://appleinsider.com/articles/25/08/01/iphone-17-air-slim-battery-design-may-have-leaked?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

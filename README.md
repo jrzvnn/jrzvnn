@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Will Use AI to Guess People’s Ages Based on Search History](https://www.wired.com/story/security-news-this-week-google-will-use-ai-to-guess-peoples-ages-based-on-search-history/)
+ - [US fears iPhone supplier BOE is a Chinese military company](https://appleinsider.com/articles/25/08/02/us-fears-iphone-supplier-boe-is-a-chinese-military-company?utm_source=rss)
  - [11 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)
  - [SentinelOne researchers detail over 10 offensive cybersecurity patents filed by Shanghai Firetech, a company allegedly involved in Beijing&#39;s Silk Typhoon hacks &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/250802/p6#a250802p6)
- - [Gear News of the Week: Insta360 Debuts a Drone Company, and DJI Surprises With an 8K 360 Camera](https://www.wired.com/story/gear-news-of-the-week-insta360-debuts-a-drone-company-and-dji-surprises-with-an-8k-360-camera/)
- - [How to Watch Australia vs. British &amp; Irish Lions From Anywhere: Stream 3rd Test Rugby Union Free](https://www.cnet.com/tech/services-and-software/how-to-watch-australia-vs-british-irish-lions-from-anywhere-stream-3rd-test-rugby-union-free/#ftag=CAD590a51e)
- - [This Bird ID App Has Helped Me Practice Mindfulness More Than Any Meditation App](https://www.cnet.com/health/this-bird-id-app-has-helped-me-practice-mindfulness-more-than-any-meditation-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gear News of the Week: Insta360 Debuts a Drone Company, and DJI Surprises With an 8K 360 Camera](https://www.wired.com/story/gear-news-of-the-week-insta360-debuts-a-drone-company-and-dji-surprises-with-an-8k-360-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

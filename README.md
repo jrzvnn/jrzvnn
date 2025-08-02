@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thicc is fun](http://9gag.com/gag/a87z5pp)
- - 😝 [Chippendales](http://9gag.com/gag/aoyDPE0)
- - 💣 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
+ - 😝 [If you know. You know](http://9gag.com/gag/aAyZx79)
+ - 😝 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)
+ - 💣 [KIM JONG UN was able to build this in a Cave, with a box of scraps!!!](http://9gag.com/gag/an7V9Q0)
  - 😝 [\ud83d\udea8gamescom 2025 is around the corner\u203c\ufe0fReady for the biggest gaming event around the world?](http://9gag.com/gag/a9yBR00)
- - 👉 [Wait, nerds can get married? I thought that was illegal](http://9gag.com/gag/a4PV7Av)<!-- MEMES:END -->
+ - 👉 [Post](http://9gag.com/gag/aGybgj7)<!-- MEMES:END -->
 
 ---
 

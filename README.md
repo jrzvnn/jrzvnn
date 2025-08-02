@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Time Flies is a short meditation on the meaning of life](https://www.theverge.com/games-review/707596/time-flies-review-pc-nintendo-switch-playstation-panic-playables)
+ - [China&#39;s World AI Conference struck a stark contrast to Trump&#39;s America-first, regulation-light vision, focusing instead on global cooperation for AI safety &lpar;Wired&rpar;](http://www.techmeme.com/250802/p7#a250802p7)
  - [9 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
  - [I tried ‘Bricking’ my phone to fix my brain](https://www.theverge.com/column/717498/brick-phone-screen-time-apps)
- - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_source=rss)
- - [You Should Download iOS 18.6 Now to Fix This Zero-Day Flaw](https://www.cnet.com/tech/services-and-software/you-should-download-ios-18-6-now-to-fix-this-zero-day-flaw/#ftag=CAD590a51e)
- - [What You Should Know About the New, Free Messaging App Bitchat](https://www.cnet.com/tech/services-and-software/what-you-should-know-about-the-new-free-messaging-app-bitchat/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Newton&#39;s August 1993 launch set the stage for what would become the iPad and iPhone](https://appleinsider.com/articles/18/08/02/newton-launched-august-2-1993-setting-the-stage-for-what-would-become-the-ipad-and-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

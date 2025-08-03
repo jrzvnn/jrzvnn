@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
- - 👉 [Why japan, just WHY?](http://9gag.com/gag/abAEGMr)<!-- MEMES:END -->
+ - 😝 [Size shock](http://9gag.com/gag/aLnrpvg)
+ - 💣 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [What happened?](http://9gag.com/gag/apR8G29)<!-- MEMES:END -->
 
 ---
 

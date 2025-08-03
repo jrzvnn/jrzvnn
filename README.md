@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
- - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
- - 💣 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
+ - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
+ - 💣 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
  - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
  - 👉 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)<!-- MEMES:END -->
 

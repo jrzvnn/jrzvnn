@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Touch the fish](http://9gag.com/gag/agmj59q)
- - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
- - 💣 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 😝 [Starlight](http://9gag.com/gag/aGybgLn)
- - 👉 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)<!-- MEMES:END -->
+ - 😝 [Size shock](http://9gag.com/gag/aLnrpvg)
+ - 😝 [Images taken before the holidays at a high school in T\u00fcrkiye in the 1990s.](http://9gag.com/gag/aVvBwXw)
+ - 💣 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)
+ - 😝 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
+ - 👉 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)<!-- MEMES:END -->
 
 ---
 

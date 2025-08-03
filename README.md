@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)
- - 😝 [Let the suffering begin!!!](http://9gag.com/gag/aQzVdXw)
- - 💣 [She is proud](http://9gag.com/gag/aGybdz7)
  - 😝 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
- - 👉 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)<!-- MEMES:END -->
+ - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 💣 [Looseness](http://9gag.com/gag/ae9WD85)
+ - 😝 [Those who were staying at the hotel got away with CPUs like the Ryzen 7 9800X3D and NVIDIA&#39;s GeForce RTX 5070.](http://9gag.com/gag/aqyAnwj)
+ - 👉 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)<!-- MEMES:END -->
 
 ---
 

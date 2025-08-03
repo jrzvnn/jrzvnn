@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAP plans to acquire HR software company SmartRecruiters, with the deal expected to close in Q4; SmartRecruiters was valued at $1.5B in a 2021 funding round &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250803/p12#a250803p12)
  - [Sources: Apple formed an Answers, Knowledge, and Information team to work on ChatGPT-like search experiences; iPhone 17 Pro may have been seen in live testing &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250803/p11#a250803p11)
  - [Siri may get Chat GPT-like search powers driven by a new Apple team](https://appleinsider.com/articles/25/08/03/new-team-formed-within-apple-to-accelerate-chatgpt-like-siri-revamp?utm_source=rss)
  - [Brendan Carr declares victory over the First Amendment](https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech)
- - [The Nintendo Switch just got more expensive](https://www.theverge.com/news/717610/nintendo-switch-original-price-increase)
- - [Darktrace says it plans to invest $200M in the US in 2026, up 11% YoY, as part of a push to surpass $1B in revenue and grow its US sales to 50% of its revenue &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250803/p10#a250803p10)<!-- TECH:END -->
+ - [The Nintendo Switch just got more expensive](https://www.theverge.com/news/717610/nintendo-switch-original-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Size shock](http://9gag.com/gag/aLnrpvg)
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 💣 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
+ - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
+ - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
+ - 💣 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
  - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
  - 👉 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)<!-- MEMES:END -->
 

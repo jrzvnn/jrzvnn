@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today I&amp;#8217;m toying with](https://www.theverge.com/gadgets/712844/today-im-toying-with)
- - [A profile of Robinhood CEO Vlad Tenev, whose personal fortune has surged 6x over the past year to $6.1B, as the company leans into tokenized stock derivatives &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/250802/p14#a250802p14)
- - [An in-depth look at the rise of relationships between humans and AI companion chatbots on apps like Nomi, coinciding with a loneliness epidemic in the US &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250802/p13#a250802p13)
- - [Lina Khan cites Figma IPO as vindication of M&amp;A scrutiny, saying letting startups grow independently, rather than be acquired, can generate &quot;enormous value&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250802/p12#a250802p12)
- - [Sources: the researcher who declined Zuckerberg&#39;s offer of a $1.5B+ package over six years is Thinking Machines co-founder and ex-Meta staffer Andrew Tulloch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250802/p11#a250802p11)<!-- TECH:END -->
+ - [Foxconn partners with Taiwan-based Teco for AI servers and other AI data center hardware, taking a 10% stake, while Teco gets a less than 1% stake in Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250803/p3#a250803p3)
+ - [Arkham Intelligence claims to have uncovered a previously undisclosed heist of 127,426 BTC, now worth ~$14.5B, from Chinese mining pool LuBian in December 2020 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250803/p2#a250803p2)
+ - [Cinven acquires a majority stake in Smart Communications from Accel-KKR; sources: the deal values the customer conversations platform at ~$1.8B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p1#a250803p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-3/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 3, #314](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-3-314/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

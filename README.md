@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Top Apple Watch deals this August: Prices as low as $169](https://appleinsider.com/articles/25/08/03/top-apple-watch-deals-this-august-prices-as-low-as-169?utm_source=rss)
  - [A look at why the AI data center building boom could spark a financial crisis akin to 2008, including the rising use of debt financing via private credit funds &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250803/p17#a250803p17)
- - [Apple Card shifting to another big bank will probably kill this small company](https://appleinsider.com/articles/25/08/03/apple-card-shifting-to-another-big-bank-will-probably-kill-this-small-company?utm_source=rss)
- - [A look at newsletter platform Beehiiv, which has hit $30M in ARR and fees starting at $43/month for 1,000 subscribers, unlike Substack, which takes a 10% cut &lpar;Jessica Roy/The Information&rpar;](http://www.techmeme.com/250803/p16#a250803p16)
- - [Premier League Summer Series: Stream Man United vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-man-united-vs-everton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 4, #1507](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-4-1507/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 4 #519](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-4-519/#ftag=CAD590a51e)
+ - [Apple Card shifting to another big bank will probably kill this small company](https://appleinsider.com/articles/25/08/03/apple-card-shifting-to-another-big-bank-will-probably-kill-this-small-company?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

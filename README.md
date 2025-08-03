@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
  - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 💣 [What happened?](http://9gag.com/gag/apR8G29)
- - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 💣 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
  - 👉 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)<!-- MEMES:END -->
 
 ---

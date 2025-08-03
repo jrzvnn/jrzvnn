@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
- - 💣 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
- - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
- - 👉 [Hahaha](http://9gag.com/gag/aoyDMnx)<!-- MEMES:END -->
+ - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
+ - 😝 [Someone always has to exaggerate...](http://9gag.com/gag/aKGp64Q)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
+ - 😝 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)
+ - 👉 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)<!-- MEMES:END -->
 
 ---
 

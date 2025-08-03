@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
  - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 😝 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
- - 💣 [She might be a silly b*tch](http://9gag.com/gag/ayNPoyp)
- - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 👉 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)<!-- MEMES:END -->
+ - 💣 [Why japan, just WHY?](http://9gag.com/gag/abAEGMr)
+ - 😝 [What happened?](http://9gag.com/gag/apR8G29)
+ - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
 
 ---
 

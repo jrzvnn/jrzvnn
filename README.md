@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Skechers lets parents hide an AirTag in kids shoes](https://appleinsider.com/articles/25/07/30/sketchers-lets-parents-hide-an-airtag-in-kids-shoes?utm_source=rss)
  - [Efforts to Ground Physics in Math Are Opening the Secrets of Time](https://www.wired.com/story/efforts-to-ground-physics-in-math-are-opening-the-secrets-of-time/)
  - [12 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [How to Clean Your Mattress &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-mattress/)
- - [A profile of Rumble founder Chris Pavlovski, who declined an offer to become CEO of Truth Social and opted to provide services to the platform through Rumble &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250803/p9#a250803p9)<!-- TECH:END -->
+ - [We Tested Dozens of Phones and These Have the Best Cameras](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)
+ - [How to Clean Your Mattress &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-mattress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

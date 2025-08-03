@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hahaha](http://9gag.com/gag/aoyDMnx)
- - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 😝 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)
+ - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
  - 💣 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
  - 😝 [Poor girl](http://9gag.com/gag/aAyZbGo)
- - 👉 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)<!-- MEMES:END -->
+ - 👉 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)<!-- MEMES:END -->
 
 ---
 

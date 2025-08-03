@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
- - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
- - 💣 [Looseness](http://9gag.com/gag/ae9WD85)
- - 😝 [Those who were staying at the hotel got away with CPUs like the Ryzen 7 9800X3D and NVIDIA&#39;s GeForce RTX 5070.](http://9gag.com/gag/aqyAnwj)
- - 👉 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)<!-- MEMES:END -->
+ - 😝 [Looseness](http://9gag.com/gag/ae9WD85)
+ - 💣 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
+ - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
+ - 👉 [She might be a silly b*tch](http://9gag.com/gag/ayNPoyp)<!-- MEMES:END -->
 
 ---
 

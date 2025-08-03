@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 💣 [Cardinal sin](http://9gag.com/gag/ayNP9eM)
- - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
- - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
+ - 😝 [Ah, the golden hand](http://9gag.com/gag/aAyZG39)
+ - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
+ - 💣 [Taco flavored kisses](http://9gag.com/gag/aVvBxRv)
+ - 😝 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)
+ - 👉 [Instruction unclear](http://9gag.com/gag/ae9WgVj)<!-- MEMES:END -->
 
 ---
 

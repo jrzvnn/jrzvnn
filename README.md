@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)
  - 😝 [Before our time runs out](http://9gag.com/gag/ae9WDB5)
- - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
- - 💣 [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)
+ - 💣 [Can&#39;t understand how they do it](http://9gag.com/gag/aE0EpZO)
  - 😝 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
  - 👉 [In case you have a bad day](http://9gag.com/gag/aLnrw0A)<!-- MEMES:END -->
 

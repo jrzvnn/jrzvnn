@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
- - 💣 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
- - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 👉 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)<!-- MEMES:END -->
+ - 😝 [Well he can take a joke!](http://9gag.com/gag/aVvB718)
+ - 😝 [Hahaha](http://9gag.com/gag/aoyDMnx)
+ - 💣 [Why japan, just WHY?](http://9gag.com/gag/abAEGMr)
+ - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
+ - 👉 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)<!-- MEMES:END -->
 
 ---
 

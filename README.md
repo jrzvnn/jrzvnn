@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
- - 😝 [Size shock](http://9gag.com/gag/aLnrpvg)
- - 💣 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
+ - 😝 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 💣 [Size shock](http://9gag.com/gag/aLnrpvg)
  - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 👉 [What happened?](http://9gag.com/gag/apR8G29)<!-- MEMES:END -->
+ - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
 
 ---
 

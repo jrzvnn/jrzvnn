@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
+ - 😝 [Size shock](http://9gag.com/gag/aLnrpvg)
  - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 💣 [Size shock](http://9gag.com/gag/aLnrpvg)
- - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
+ - 💣 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
+ - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 👉 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)<!-- MEMES:END -->
 
 ---
 

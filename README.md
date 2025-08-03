@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Senate confirms Sean Cairncross to serve as National Cyber Director, making him the first Senate-approved cybersecurity official of Trump&#39;s second term &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250803/p13#a250803p13)
  - [SAP plans to acquire HR software company SmartRecruiters, with the deal expected to close in Q4; SmartRecruiters was valued at $1.5B in a 2021 funding round &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250803/p12#a250803p12)
  - [Sources: Apple formed an Answers, Knowledge, and Information team to work on ChatGPT-like search experiences; iPhone 17 Pro may have been seen in live testing &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250803/p11#a250803p11)
  - [Siri may get Chat GPT-like search powers driven by a new Apple team](https://appleinsider.com/articles/25/08/03/new-team-formed-within-apple-to-accelerate-chatgpt-like-siri-revamp?utm_source=rss)
- - [Brendan Carr declares victory over the First Amendment](https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech)
- - [The Nintendo Switch just got more expensive](https://www.theverge.com/news/717610/nintendo-switch-original-price-increase)<!-- TECH:END -->
+ - [Brendan Carr declares victory over the First Amendment](https://www.theverge.com/internet-censorship/717548/brendan-carr-paramount-merger-free-speech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

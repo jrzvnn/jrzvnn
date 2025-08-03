@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
- - 😝 [Looseness](http://9gag.com/gag/ae9WD85)
- - 💣 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
- - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 👉 [She might be a silly b*tch](http://9gag.com/gag/ayNPoyp)<!-- MEMES:END -->
+ - 😝 [In case you have a bad day](http://9gag.com/gag/aLnrw0A)
+ - 😝 [Can&#39;t understand how they do it](http://9gag.com/gag/aE0EpZO)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
+ - 😝 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)
+ - 👉 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)<!-- MEMES:END -->
 
 ---
 

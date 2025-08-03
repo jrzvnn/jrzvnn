@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shares of Hong Kong-listed Chinese chipmaker InnoScience closed up 31% on August 1, after Nvidia named the company as a supplier for its 800V HVDC architecture &lpar;Felix Tam/Bloomberg&rpar;](http://www.techmeme.com/250803/p7#a250803p7)
+ - [Xpheno: Meta, Amazon, Apple, Microsoft, Netflix, Google, and their affiliates grew their combined India headcount by 16% over the past year, adding 28K+ jobs &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/250803/p6#a250803p6)
  - [Thoma Bravo agrees to acquire a stake in Chicago-based capital markets industry SaaS provider Trading Technologies, sources say in a deal valued at over $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p5#a250803p5)
  - [The Marin Community Foundation sold 13.4M+ Figma shares for $440M+ in the IPO; source: the foundation had received the shares from Figma co-founder Evan Wallace &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250803/p4#a250803p4)
- - [Foxconn partners with Taiwan-based Teco for AI servers and other AI data center hardware, taking a 10% stake, while Teco gets a less than 1% stake in Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250803/p3#a250803p3)
- - [Arkham Intelligence claims to have uncovered a previously undisclosed heist of 127,426 BTC, now worth ~$14.5B, from Chinese mining pool LuBian in December 2020 &lpar;Zack Abrams/The Block&rpar;](http://www.techmeme.com/250803/p2#a250803p2)
- - [Cinven acquires a majority stake in Smart Communications from Accel-KKR; sources: the deal values the customer conversations platform at ~$1.8B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p1#a250803p1)<!-- TECH:END -->
+ - [Foxconn partners with Taiwan-based Teco for AI servers and other AI data center hardware, taking a 10% stake, while Teco gets a less than 1% stake in Foxconn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250803/p3#a250803p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

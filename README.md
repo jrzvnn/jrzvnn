@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)
+ - 😝 [Before our time runs out](http://9gag.com/gag/ae9WDB5)
  - 😝 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)
- - 💣 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
- - 😝 [Poor girl](http://9gag.com/gag/aAyZbGo)
- - 👉 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)<!-- MEMES:END -->
+ - 💣 [Press F to Pay Respect](http://9gag.com/gag/aryzVA0)
+ - 😝 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
+ - 👉 [In case you have a bad day](http://9gag.com/gag/aLnrw0A)<!-- MEMES:END -->
 
 ---
 

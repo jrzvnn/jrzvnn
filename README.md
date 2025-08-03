@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today I&amp;#8217;m toying with](https://www.theverge.com/gadgets/712844/today-im-toying-with)
  - [A profile of Robinhood CEO Vlad Tenev, whose personal fortune has surged 6x over the past year to $6.1B, as the company leans into tokenized stock derivatives &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/250802/p14#a250802p14)
  - [An in-depth look at the rise of relationships between humans and AI companion chatbots on apps like Nomi, coinciding with a loneliness epidemic in the US &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/250802/p13#a250802p13)
  - [Lina Khan cites Figma IPO as vindication of M&amp;A scrutiny, saying letting startups grow independently, rather than be acquired, can generate &quot;enormous value&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250802/p12#a250802p12)
- - [Sources: the researcher who declined Zuckerberg&#39;s offer of a $1.5B+ package over six years is Thinking Machines co-founder and ex-Meta staffer Andrew Tulloch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250802/p11#a250802p11)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 3, #1506](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-3-1506/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the researcher who declined Zuckerberg&#39;s offer of a $1.5B+ package over six years is Thinking Machines co-founder and ex-Meta staffer Andrew Tulloch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250802/p11#a250802p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

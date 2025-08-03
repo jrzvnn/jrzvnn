@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah, the golden hand](http://9gag.com/gag/aAyZG39)
- - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
- - 💣 [Taco flavored kisses](http://9gag.com/gag/aVvBxRv)
- - 😝 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)
- - 👉 [Instruction unclear](http://9gag.com/gag/ae9WgVj)<!-- MEMES:END -->
+ - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 💣 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
+ - 😝 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
+ - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*sigh*](http://9gag.com/gag/a6Z8NWL)
- - 😝 [Images taken before the holidays at a high school in T\u00fcrkiye in the 1990s.](http://9gag.com/gag/aVvBwXw)
- - 💣 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
  - 😝 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
- - 👉 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)<!-- MEMES:END -->
+ - 😝 [In case you have a bad day](http://9gag.com/gag/aLnrw0A)
+ - 💣 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
+ - 😝 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)
+ - 👉 [Can&#39;t understand how they do it](http://9gag.com/gag/aE0EpZO)<!-- MEMES:END -->
 
 ---
 

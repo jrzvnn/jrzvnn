@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Outdoor Games for 2025](https://www.cnet.com/health/parenting/best-outdoor-games/#ftag=CAD590a51e)
  - [Internal documents and sources detail how Cambodia&#39;s Huione Group supercharged the growth of Asia&#39;s cyberscam industry into a multi-billion dollar behemoth &lpar;Kai Schultz/Bloomberg&rpar;](http://www.techmeme.com/250803/p8#a250803p8)
  - [Shares of Hong Kong-listed Chinese chipmaker InnoScience closed up 31% on August 1, after Nvidia named the company as a supplier for its 800V HVDC architecture &lpar;Felix Tam/Bloomberg&rpar;](http://www.techmeme.com/250803/p7#a250803p7)
  - [Xpheno: Meta, Amazon, Apple, Microsoft, Netflix, Google, and their affiliates grew their combined India headcount by 16% over the past year, adding 28K+ jobs &lpar;Himanshi Lohchab/The Economic Times&rpar;](http://www.techmeme.com/250803/p6#a250803p6)
- - [Thoma Bravo agrees to acquire a stake in Chicago-based Trading Technologies, sources say the deal values the capital markets industry SaaS provider at over $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p5#a250803p5)
- - [The Marin Community Foundation sold 13.4M+ Figma shares for $440M+ in the IPO; source: the foundation had received the shares from Figma co-founder Evan Wallace &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250803/p4#a250803p4)<!-- TECH:END -->
+ - [Thoma Bravo agrees to acquire a stake in Chicago-based Trading Technologies, sources say the deal values the capital markets industry SaaS provider at over $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p5#a250803p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

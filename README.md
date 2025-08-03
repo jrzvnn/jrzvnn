@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 😝 [Let the suffering begin!!!](http://9gag.com/gag/aQzVdXw)
- - 💣 [Poor dude, i can relate](http://9gag.com/gag/aZZv74V)
- - 😝 [What happened?](http://9gag.com/gag/apR8G29)
- - 👉 [The Steinwinter Supercargo 2040 truck &lpar;1983&rpar;](http://9gag.com/gag/azxQ1BN)<!-- MEMES:END -->
+ - 😝 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)
+ - 😝 [Coldplay didn&#39;t compel you to cheat on your spouse with the HR](http://9gag.com/gag/aKGpd11)
+ - 💣 [Sit down. Duck face](http://9gag.com/gag/aAyZgvo)
+ - 😝 [Hahaha](http://9gag.com/gag/aoyDMnx)
+ - 👉 [She might be a silly b*tch](http://9gag.com/gag/ayNPoyp)<!-- MEMES:END -->
 
 ---
 

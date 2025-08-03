@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asian financial hubs are updating stablecoin regulations and companies like Ant Group plan to become issuers, driven by US&#39; embrace of dollar-pegged stablecoins &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p18#a250803p18)
  - [Top Apple Watch deals this August: Prices as low as $169](https://appleinsider.com/articles/25/08/03/top-apple-watch-deals-this-august-prices-as-low-as-169?utm_source=rss)
  - [A look at why the AI data center building boom could spark a financial crisis akin to 2008, including the rising use of debt financing via private credit funds &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250803/p17#a250803p17)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 4, #1507](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-4-1507/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 4 #519](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-4-519/#ftag=CAD590a51e)
- - [Apple Card shifting to another big bank will probably kill this small company](https://appleinsider.com/articles/25/08/03/apple-card-shifting-to-another-big-bank-will-probably-kill-this-small-company?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 4 #519](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-4-519/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Images taken before the holidays at a high school in T\u00fcrkiye in the 1990s.](http://9gag.com/gag/aVvBwXw)
- - 😝 [Meanwhile in Eastern Europe...](http://9gag.com/gag/avymo6O)
- - 💣 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 👉 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)<!-- MEMES:END -->
+ - 😝 [Best decision ever](http://9gag.com/gag/a4PVRWy)
+ - 💣 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
+ - 😝 [Let the suffering begin!!!](http://9gag.com/gag/aQzVdXw)
+ - 😝 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
+ - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
  - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
- - 💣 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 👉 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)<!-- MEMES:END -->
+ - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
 
 ---
 

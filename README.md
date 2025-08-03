@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 💣 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
- - 😝 [Cardinal sin](http://9gag.com/gag/ayNP9eM)
- - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
+ - 😝 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 💣 [Cardinal sin](http://9gag.com/gag/ayNP9eM)
+ - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
+ - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
 
 ---
 

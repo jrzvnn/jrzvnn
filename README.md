@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let the suffering begin!!!](http://9gag.com/gag/aQzVdXw)
- - 😝 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
- - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
- - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
+ - 😝 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)
+ - 💣 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 😝 [The 3rd world explained.](http://9gag.com/gag/aKGp7R6)
+ - 👉 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)<!-- MEMES:END -->
 
 ---
 

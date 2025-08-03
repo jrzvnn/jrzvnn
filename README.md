@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Skechers lets parents hide an AirTag in kids shoes](https://appleinsider.com/articles/25/07/30/sketchers-lets-parents-hide-an-airtag-in-kids-shoes?utm_source=rss)
+ - [Efforts to Ground Physics in Math Are Opening the Secrets of Time](https://www.wired.com/story/efforts-to-ground-physics-in-math-are-opening-the-secrets-of-time/)
  - [12 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
  - [How to Clean Your Mattress &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-mattress/)
- - [A profile of Rumble founder Chris Pavlovski, who declined an offer to become CEO of Truth Social and opted to provide services to the platform through Rumble &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250803/p9#a250803p9)
- - [Best Outdoor Games for 2025](https://www.cnet.com/health/parenting/best-outdoor-games/#ftag=CAD590a51e)
- - [Internal documents and sources detail how Cambodia&#39;s Huione Group supercharged the growth of Asia&#39;s cyberscam industry into a multi-billion dollar behemoth &lpar;Kai Schultz/Bloomberg&rpar;](http://www.techmeme.com/250803/p8#a250803p8)<!-- TECH:END -->
+ - [A profile of Rumble founder Chris Pavlovski, who declined an offer to become CEO of Truth Social and opted to provide services to the platform through Rumble &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250803/p9#a250803p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

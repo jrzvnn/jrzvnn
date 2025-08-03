@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
  - 😝 [Someone always has to exaggerate...](http://9gag.com/gag/aKGp64Q)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
- - 😝 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)
+ - 😝 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
+ - 💣 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)
+ - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
  - 👉 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)<!-- MEMES:END -->
 
 ---

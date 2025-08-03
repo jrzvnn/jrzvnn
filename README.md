@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [19 Best Barefoot Shoes for Running or Walking &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-barefoot-shoes/)
+ - [A webcam that’s almost like a real camera](https://www.theverge.com/installer-newsletter/717693/elgato-facecam-4k-lg-stanbyme-2-time-flies-installer)
  - [What Happens to Your Data If You Stop Paying for Cloud Storage?](https://www.wired.com/story/what-happens-to-your-data-if-you-stop-paying-for-cloud-storage/)
  - [Skechers lets parents hide an AirTag in kids shoes](https://appleinsider.com/articles/25/07/30/sketchers-lets-parents-hide-an-airtag-in-kids-shoes?utm_source=rss)
- - [Efforts to Ground Physics in Math Are Opening the Secrets of Time](https://www.wired.com/story/efforts-to-ground-physics-in-math-are-opening-the-secrets-of-time/)
- - [12 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [We Tested Dozens of Phones and These Have the Best Cameras](https://www.cnet.com/tech/mobile/best-camera-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Efforts to Ground Physics in Math Are Opening the Secrets of Time](https://www.wired.com/story/efforts-to-ground-physics-in-math-are-opening-the-secrets-of-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

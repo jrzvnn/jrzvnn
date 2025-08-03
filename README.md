@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone always has to exaggerate...](http://9gag.com/gag/aKGp64Q)
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
- - 💣 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)
- - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
- - 👉 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)<!-- MEMES:END -->
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 😝 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
+ - 💣 [She might be a silly b*tch](http://9gag.com/gag/ayNPoyp)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)<!-- MEMES:END -->
 
 ---
 

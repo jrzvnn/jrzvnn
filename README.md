@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [*sigh*](http://9gag.com/gag/a6Z8NWL)
  - 😝 [Images taken before the holidays at a high school in T\u00fcrkiye in the 1990s.](http://9gag.com/gag/aVvBwXw)
- - 😝 [Best decision ever](http://9gag.com/gag/a4PVRWy)
- - 💣 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
- - 😝 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
- - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
+ - 💣 [Make them &lpar;in&rpar; Famous](http://9gag.com/gag/aMVyYXR)
+ - 😝 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
+ - 👉 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)<!-- MEMES:END -->
 
 ---
 

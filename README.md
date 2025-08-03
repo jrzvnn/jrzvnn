@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Barefoot Shoes for Running or Walking &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-barefoot-shoes/)
- - [A webcam that’s almost like a real camera](https://www.theverge.com/installer-newsletter/717693/elgato-facecam-4k-lg-stanbyme-2-time-flies-installer)
- - [What Happens to Your Data If You Stop Paying for Cloud Storage?](https://www.wired.com/story/what-happens-to-your-data-if-you-stop-paying-for-cloud-storage/)
- - [Skechers lets parents hide an AirTag in kids shoes](https://appleinsider.com/articles/25/07/30/sketchers-lets-parents-hide-an-airtag-in-kids-shoes?utm_source=rss)
- - [Efforts to Ground Physics in Math Are Opening the Secrets of Time](https://www.wired.com/story/efforts-to-ground-physics-in-math-are-opening-the-secrets-of-time/)<!-- TECH:END -->
+ - [Lenovo&amp;#8217;s rollable laptop is the coolest computer I&amp;#8217;ve used all year](https://www.theverge.com/reviews/717491/lenovo-thinkbook-plus-gen-6-rollable-laptop-review)
+ - [Scottish Premiership Soccer: Stream Celtic vs. St. Mirren Live From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-stream-celtic-vs-st-mirren-live-from-anywhere/#ftag=CAD590a51e)
+ - [These Are the Photoshop AI Tools Worth Using: How I Use AI to Edit My Photos](https://www.cnet.com/tech/services-and-software/these-are-the-photoshop-ai-tools-worth-using-how-i-use-ai-to-edit-my-photos/#ftag=CAD590a51e)
+ - [Unitree Just Launched Its Most Affordable Humanoid Robot Yet](https://www.cnet.com/tech/computing/unitree-just-launched-its-most-affordable-humanoid-robot-yet/#ftag=CAD590a51e)
+ - [The iPhone 17 Pro &#39;Feature&#39; I Want Most? More Colors Beyond Monochrome and Metal](https://www.cnet.com/tech/mobile/the-iphone-17-pro-feature-i-want-most-more-colors-beyond-monochrome-and-metal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 💣 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
- - 😝 [Cardinal sin](http://9gag.com/gag/ayNP9eM)
- - 👉 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)<!-- MEMES:END -->
+ - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 💣 [Ralph is free to leave](http://9gag.com/gag/aPAn7pQ)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
 
 ---
 

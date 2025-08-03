@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yellow Fever Friday Night](http://9gag.com/gag/adBbVyB)
- - 😝 [In case you have a bad day](http://9gag.com/gag/aLnrw0A)
- - 💣 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
- - 😝 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)
- - 👉 [Can&#39;t understand how they do it](http://9gag.com/gag/aE0EpZO)<!-- MEMES:END -->
+ - 😝 [Lebanese president committing violence to army commander](http://9gag.com/gag/aE0EgXe)
+ - 😝 [Let the suffering begin!!!](http://9gag.com/gag/aQzVdXw)
+ - 💣 [She is proud](http://9gag.com/gag/aGybdz7)
+ - 😝 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
+ - 👉 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)<!-- MEMES:END -->
 
 ---
 

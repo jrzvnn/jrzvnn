@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
+ - 😝 [That look from your boy during a meeting](http://9gag.com/gag/a0ewNnd)
  - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 💣 [Why japan, just WHY?](http://9gag.com/gag/abAEGMr)
- - 😝 [What happened?](http://9gag.com/gag/apR8G29)
- - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
+ - 💣 [What happened?](http://9gag.com/gag/apR8G29)
+ - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 👉 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)<!-- MEMES:END -->
 
 ---
 

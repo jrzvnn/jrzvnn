@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple Card shifting to another big bank will probably kill this small company](https://appleinsider.com/articles/25/08/03/apple-card-shifting-to-another-big-bank-will-probably-kill-this-small-company?utm_source=rss)
  - [A look at newsletter platform Beehiiv, which has hit $30M in ARR and fees starting at $43/month for 1,000 subscribers, unlike Substack, which takes a 10% cut &lpar;Jessica Roy/The Information&rpar;](http://www.techmeme.com/250803/p16#a250803p16)
+ - [Premier League Summer Series: Stream Man United vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-summer-series-stream-man-united-vs-everton-from-anywhere/#ftag=CAD590a51e)
  - [Hugging Face CEO Clément Delangue says open-source AI is vital for US innovation and the US risks losing the AI race to China if it falls behind in open source &lpar;Clément Delangue/VentureBeat&rpar;](http://www.techmeme.com/250803/p15#a250803p15)
- - [I Played Battlefield 6: Hands-On With the Return To Big Battle Warfare](https://www.cnet.com/tech/gaming/i-played-battlefield-6-hands-on-with-the-return-to-big-battle-warfare/#ftag=CAD590a51e)
- - [As a percentage of US GDP, AI datacenter capex is already larger than peak telecom spending during the dot-com era and is approaching the railroad spending boom &lpar;Paul Kedrosky&rpar;](http://www.techmeme.com/250803/p14#a250803p14)<!-- TECH:END -->
+ - [I Played Battlefield 6: Hands-On With the Return To Big Battle Warfare](https://www.cnet.com/tech/gaming/i-played-battlefield-6-hands-on-with-the-return-to-big-battle-warfare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

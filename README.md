@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well he can take a joke!](http://9gag.com/gag/aVvB718)
- - 😝 [Hahaha](http://9gag.com/gag/aoyDMnx)
- - 💣 [Why japan, just WHY?](http://9gag.com/gag/abAEGMr)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
+ - 💣 [Lara Croft on Netflix vs her voice actress](http://9gag.com/gag/aKGp7Qg)
  - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
- - 👉 [A Canadian tuxedo? In this weather???](http://9gag.com/gag/aMVyxyV)<!-- MEMES:END -->
+ - 👉 [Hahaha](http://9gag.com/gag/aoyDMnx)<!-- MEMES:END -->
 
 ---
 

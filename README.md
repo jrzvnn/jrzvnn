@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Posting memes I found on my smartphone until I get bored or die #1212](http://9gag.com/gag/a9yBEZo)
- - 😝 [I&#39;m not crying, you&#39;re crying](http://9gag.com/gag/aVvB75O)
- - 💣 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 😝 [The 3rd world explained.](http://9gag.com/gag/aKGp7R6)
- - 👉 [Dungeon and dragons](http://9gag.com/gag/azxQM5q)<!-- MEMES:END -->
+ - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 😝 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
+ - 👉 [Why japan, just WHY?](http://9gag.com/gag/abAEGMr)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ll never forget when Colbert panicked and cut her off immediately as soon as she let the cat out of the bag.](http://9gag.com/gag/a6Z8KX2)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
  - 😝 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
  - 💣 [I swear it&#39;s the first time it&#39;s happened to me](http://9gag.com/gag/aMVyK3A)
- - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
- - 👉 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)<!-- MEMES:END -->
+ - 😝 [Cardinal sin](http://9gag.com/gag/ayNP9eM)
+ - 👉 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)<!-- MEMES:END -->
 
 ---
 

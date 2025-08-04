@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 jobs will be cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)
- - [Tesla proposes giving Elon Musk $29 billion so he stays CEO](https://www.theverge.com/news/718032/tesla-elon-musk-stock-pay-29-billion-ceo-shareholders)
- - [If you have interest in a folding iPhone, here&#39;s how to tell Apple](https://appleinsider.com/articles/25/08/04/if-you-have-interest-in-a-folding-iphone-heres-how-to-tell-apple?utm_source=rss)
- - [Spotify says it is updating prices across South Asia, the Middle East, Africa, Europe, Latin America, and the Asia-Pacific; an example email had a €1/month rise &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250804/p21#a250804p21)
- - [iPad display tech will make iPhones brighter and more power efficient](https://appleinsider.com/articles/25/08/04/ipad-display-tech-will-make-iphones-brighter-and-more-power-efficient?utm_source=rss)<!-- TECH:END -->
+ - [ALS sufferer uses iPad in demonstration of thought control](https://appleinsider.com/articles/25/08/04/als-sufferer-uses-ipad-in-demonstration-of-thought-control?utm_source=rss)
+ - [8 Best Handheld Gaming Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)
+ - [Why tech is racing to adopt AI coding](https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview)
+ - [Google’s healthcare AI made up a body part — what happens when doctors don’t notice?](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
+ - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 will lose their jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

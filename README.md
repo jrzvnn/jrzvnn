@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
- - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
- - 💣 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)
- - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
+ - 😝 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 💣 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 👉 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)<!-- MEMES:END -->
 
 ---
 

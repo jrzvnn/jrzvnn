@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Found the Pixel 9 Pro to Be a More Streamlined Android Experience, and It’s 20% Off Today](https://www.cnet.com/deals/i-found-the-pixel-9-pro-to-be-a-more-streamlined-android-experience-and-its-20-off-today/#ftag=CAD590a51e)
+ - [Microsoft&#39;s Q4 earnings show its non-AI &quot;core infrastructure business&quot; is booming, with consumer productivity software revenue up 20%, its best uptick in years &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250804/p14#a250804p14)
+ - [The US Military Is Raking in Millions From On-Base Slot Machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
  - [How 20-something CEOs like Cognition AI&#39;s Scott Wu, Cursor&#39;s Michael Truell, Cluely&#39;s Roy Lee, and Scale AI&#39;s Alexandr Wang are swarming San Francisco&#39;s AI boom &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/250804/p13#a250804p13)
- - [Meet Ultra Skelly: Skelly the Skeleton Gets a High-Tech Edition This Halloween](https://www.wired.com/story/high-tech-skelly-is-here-for-halloween/)
- - [Lenovo ThinkBook Plus Gen 6 review: a unique $3,300 laptop with a rollable 120Hz OLED display that can grow from 14&quot; to 16.7&quot;, but it is heavy and expensive &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250804/p12#a250804p12)
- - [Google, OpenAI, Meta, and VCs are increasingly embracing the US military industrial complex, a major Silicon Valley cultural shift supported by President Trump &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/250804/p11#a250804p11)
- - [A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet](https://www.wired.com/story/missing-hiker-ai-drone-recovery/)<!-- TECH:END -->
+ - [Meet Ultra Skelly: Skelly the Skeleton Gets a High-Tech Edition This Halloween](https://www.wired.com/story/high-tech-skelly-is-here-for-halloween/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

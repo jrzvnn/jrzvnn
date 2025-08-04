@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
  - 😝 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
- - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 👉 [Boy meets world](http://9gag.com/gag/aVvBxnO)<!-- MEMES:END -->
+ - 💣 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 😝 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
+ - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
 
 ---
 

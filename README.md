@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://www.theverge.com/news/718692/ign-entertainment-layoffs-creators-guild-ziff-davis)
+ - [iPhone 17 import tariffs may cost Apple more than expected, as Trump threatens India](https://appleinsider.com/articles/25/08/04/iphone-17-import-tariffs-may-cost-apple-more-than-expected-as-trump-threatens-india?utm_source=rss)
  - [ChatGPT Will Start Asking If You Need a Break. That May Not Be Enough to Snap a Bad Habit](https://www.cnet.com/tech/services-and-software/chatgpt-will-start-asking-if-you-need-a-break-that-may-not-be-enough-to-snap-a-bad-habit/#ftag=CAD590a51e)
- - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)
- - [Valve founder Gabe Newell just purchased a superyacht company](https://www.theverge.com/news/718639/gabe-newell-valve-superyacht-oceanco)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 5, #786](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-5-786/#ftag=CAD590a51e)
- - [Best Cheap Laptop: Budget Computers for Every Use](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

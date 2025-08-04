@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
  - 😝 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
+ - 💣 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
  - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - 😝 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)
  - 👉 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)<!-- MEMES:END -->
 
 ---

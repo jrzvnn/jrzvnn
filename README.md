@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike says it investigated 320+ cases of North Korean operatives gaining remote IT jobs in the US, Europe, and elsewhere in its 2025 Threat Hunting Report &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250804/p16#a250804p16)
+ - [What’s Inside the Tiny Miracle Food Pouches That Can Save the Lives of Starving Gazans](https://www.wired.com/story/whats-inside-the-tiny-miracle-food-pouches-that-can-save-the-lives-of-starving-gazans/)
+ - [A profile of Netflix VP Brandon Riegg, who oversees unscripted series, sports, documentary series, and gaming, as the streamer pushes into live shows and sports &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/250804/p15#a250804p15)
  - [I Found the Pixel 9 Pro to Be a More Streamlined Android Experience, and It’s 20% Off Today](https://www.cnet.com/deals/i-found-the-pixel-9-pro-to-be-a-more-streamlined-android-experience-and-its-20-off-today/#ftag=CAD590a51e)
- - [Microsoft&#39;s Q4 earnings show its non-AI &quot;core infrastructure business&quot; is booming, with consumer productivity software revenue up 20%, its best uptick in years &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250804/p14#a250804p14)
- - [The US Military Is Raking in Millions From On-Base Slot Machines](https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/)
- - [How 20-something CEOs like Cognition AI&#39;s Scott Wu, Cursor&#39;s Michael Truell, Cluely&#39;s Roy Lee, and Scale AI&#39;s Alexandr Wang are swarming San Francisco&#39;s AI boom &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/250804/p13#a250804p13)
- - [Meet Ultra Skelly: Skelly the Skeleton Gets a High-Tech Edition This Halloween](https://www.wired.com/story/high-tech-skelly-is-here-for-halloween/)<!-- TECH:END -->
+ - [Microsoft&#39;s Q4 earnings show its non-AI &quot;core infrastructure business&quot; is booming, with consumer productivity software revenue up 20%, its best uptick in years &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250804/p14#a250804p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google, OpenAI, Meta, and VCs are increasingly embracing the US military industrial complex, a major Silicon Valley cultural shift supported by President Trump &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/250804/p11#a250804p11)
+ - [A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet](https://www.wired.com/story/missing-hiker-ai-drone-recovery/)
  - [Xiaomi releases MiDashengLM-7B, an AI voice model under an Apache 2.0 license based on its foundational voice model, deployed in cars and smart home devices &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250804/p10#a250804p10)
  - [A profile of Figma CEO Dylan Field, a former Thiel fellow whose Figma stake is worth ~$6.6B after the company ended its NYSE debut week with a $71B+ market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p9#a250804p9)
- - [Families and funeral directors are using AI obituary generators to memorialize the dead, as critics worry about AI&#39;s impact on how people remember one another &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250804/p8#a250804p8)
- - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)
- - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and the US over alleged censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)<!-- TECH:END -->
+ - [Families and funeral directors are using AI obituary generators to memorialize the dead, as critics worry about AI&#39;s impact on how people remember one another &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250804/p8#a250804p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

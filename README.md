@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is the company still hiring? Asking for a friend](http://9gag.com/gag/axy4oo1)
- - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - 😝 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)
- - 👉 [Not that brave any more](http://9gag.com/gag/a4PVodd)<!-- MEMES:END -->
+ - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
+ - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 💣 [Finish him](http://9gag.com/gag/awyvz6W)
+ - 😝 [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)
+ - 👉 [Meeting Hide the pain Harold at Hungary F1 GP](http://9gag.com/gag/aRBDrDB)<!-- MEMES:END -->
 
 ---
 

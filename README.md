@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 💣 [Finish him](http://9gag.com/gag/awyvz6W)
- - 😝 [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)
- - 👉 [Meeting Hide the pain Harold at Hungary F1 GP](http://9gag.com/gag/aRBDrDB)<!-- MEMES:END -->
+ - 😝 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 👉 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)<!-- MEMES:END -->
 
 ---
 

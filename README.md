@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Outlying analyst concedes error, boards 2027 folding iPad ship date train](https://appleinsider.com/articles/25/08/04/outlying-analyst-concedes-error-boards-2027-folding-ipad-ship-date-train?utm_source=rss)
- - [iPhone 17 Rumors: Everything to Know About Apple&#39;s Upcoming Flagship](https://www.cnet.com/tech/mobile/iphone-17-rumors-everything-to-know-about-apples-upcoming-flagship/#ftag=CAD590a51e)
- - [Silicon Valley has shifted from Web 2.0 to a new &quot;hard tech&quot;, AI-dominated era with fewer perks and a more serious mood, as startups use San Francisco as a base &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/250804/p17#a250804p17)
- - [CrowdStrike says it investigated 320+ cases of North Korean operatives gaining remote IT jobs in the US, Europe, and elsewhere in its 2025 Threat Hunting Report &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/250804/p16#a250804p16)
- - [10 Features That Would Make Me Buy the Apple Watch Series 11](https://www.cnet.com/tech/mobile/10-features-that-would-make-me-upgrade-to-an-apple-watch-series-11/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify is raising Premium prices outside the US](https://www.theverge.com/news/718038/spotify-premium-subscription-price-increase-outside-us)
+ - [Bullish, a digital asset exchange and CoinDesk owner, plans to sell 20.3M shares at $28 to $31 in a US IPO, raising up to $629.3M at an up to $4.2B valuation &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250804/p19#a250804p19)
+ - [Lyft partners with Baidu to launch autonomous vehicles in Germany and the UK in 2026, pending regulatory approval; Lyft will deploy Baidu&#39;s sixth-gen robotaxis &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250804/p18#a250804p18)
+ - [This time, the iPhone 17 Air battery may have actually been leaked](https://appleinsider.com/articles/25/08/04/this-time-the-iphone-17-air-battery-may-have-actually-been-leaked?utm_source=rss)
+ - [Outlying analyst concedes error, boards 2027 folding iPad ship date train](https://appleinsider.com/articles/25/08/04/outlying-analyst-concedes-error-boards-2027-folding-ipad-ship-date-train?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

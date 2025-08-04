@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 😝 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
- - 💣 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
- - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 👉 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)<!-- MEMES:END -->
+ - 😝 [Finish him](http://9gag.com/gag/awyvz6W)
+ - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 💣 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 😝 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)
+ - 👉 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)<!-- MEMES:END -->
 
 ---
 

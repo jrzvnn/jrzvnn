@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 💣 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
  - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
- - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 💣 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
- - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
+ - 👉 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)<!-- MEMES:END -->
 
 ---
 

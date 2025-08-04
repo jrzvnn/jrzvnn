@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
  - 😝 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
- - 😝 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 💣 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 💣 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
  - 👉 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)<!-- MEMES:END -->
 
 ---

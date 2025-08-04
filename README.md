@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcom unveils a new version of its Jericho networking chip, which can connect 1M+ processors across multiple data centers and handle distances of over 100km &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250804/p33#a250804p33)
  - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://www.theverge.com/news/718692/ign-entertainment-layoffs-creators-guild-ziff-davis)
  - [iPhone 17 import tariffs may cost Apple more than expected, as Trump threatens India](https://appleinsider.com/articles/25/08/04/iphone-17-import-tariffs-may-cost-apple-more-than-expected-as-trump-threatens-india?utm_source=rss)
- - [ChatGPT Will Start Asking If You Need a Break. That May Not Be Enough to Snap a Bad Habit](https://www.cnet.com/tech/services-and-software/chatgpt-will-start-asking-if-you-need-a-break-that-may-not-be-enough-to-snap-a-bad-habit/#ftag=CAD590a51e)
- - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)<!-- TECH:END -->
+ - [ChatGPT Will Start Asking If You Need a Break. That May Not Be Enough to Snap a Bad Habit](https://www.cnet.com/tech/services-and-software/chatgpt-will-start-asking-if-you-need-a-break-that-may-not-be-enough-to-snap-a-bad-habit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

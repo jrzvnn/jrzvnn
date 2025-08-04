@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Transcripts from the trial over a fatal 2019 Autopilot crash: Tesla withheld crash‑snapshot data and took years to admit it existed or was relevant to the case &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/250804/p26#a250804p26)
+ - [Google dunks on Apple Intelligence in new Pixel 10 ad](https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad)
+ - [Denzel Washington and Spike Lee reunite for a moral thriller in the music world](https://appleinsider.com/articles/25/08/04/denzel-washington-and-spike-lee-reunite-for-a-moral-thriller-in-the-music-world?utm_source=rss)
  - [Do not click on unexpected emails from DocuSign](https://appleinsider.com/inside/iphone/tips/do-not-click-on-unexpected-emails-from-docusign?utm_source=rss)
- - [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)
- - [Alienware’s AW2725Q 4K OLED gaming monitor is down to its lowest price ever at Amazon](https://www.theverge.com/tech/718105/alienware-aw2725q-4k-monitor-google-nest-thermostat-deal-sale)
- - [Elon Musk says Vine&#39;s video archive is being brought back, and xAI&#39;s newly launched Grok Imagine, available to X Premium+ subscribers, is &quot;AI Vine&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250804/p25#a250804p25)
- - [OpenAI says it will hit 700M weekly active users for ChatGPT this week, up from 500M in March and up 4x YoY, and has 5M paying business users, up from June&#39;s 3M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250804/p24#a250804p24)<!-- TECH:END -->
+ - [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

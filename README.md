@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
  - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
+ - 💣 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
 
 ---
 

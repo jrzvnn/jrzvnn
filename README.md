@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
- - 💣 [All thanks to who?](http://9gag.com/gag/ajPymQ1)
- - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 👉 [Looseness](http://9gag.com/gag/ae9WD85)<!-- MEMES:END -->
+ - 😝 [Not that brave any more](http://9gag.com/gag/a4PVodd)
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 💣 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
+ - 😝 [An effective and very safe way to break the sound barrier in a glorified canoe](http://9gag.com/gag/aO8G7WE)
+ - 👉 [Come Get Some Cells](http://9gag.com/gag/aKGp6oj)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
- - 😝 [Not that brave any more](http://9gag.com/gag/a4PVodd)
- - 💣 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)
- - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 👉 [Finish him](http://9gag.com/gag/awyvz6W)<!-- MEMES:END -->
+ - 😝 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
+ - 😝 [Welcome to UK, where you must pay a dozen different taxes to `protect the environment`](http://9gag.com/gag/a34n161)
+ - 💣 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
 
 ---
 

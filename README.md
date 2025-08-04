@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo’s first wireless Xbox controller is a surprise Rare collaboration](https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition)
  - [Cloudflare says Perplexity uses stealth crawling techniques, like undeclared user agents and rotating IP addresses, to evade robots.txt rules and network blocks &lpar;Cloudflare&rpar;](http://www.techmeme.com/250804/p23#a250804p23)
  - [Spotify raises its premium prices almost everywhere](https://appleinsider.com/articles/25/08/04/spotify-raises-its-premium-prices-almost-everywhere?utm_source=rss)
  - [Save $200 on Apple&#39;s 512GB M4 MacBook Air this week](https://appleinsider.com/articles/25/08/04/save-200-on-apples-512gb-m4-macbook-air-this-week?utm_source=rss)
- - [ALS sufferer uses iPad in demonstration of thought control](https://appleinsider.com/articles/25/08/04/als-sufferer-uses-ipad-in-demonstration-of-thought-control?utm_source=rss)
- - [8 Best Handheld Gaming Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
+ - [Lyft and Baidu Plan to Launch Robotaxis in Europe Next Year](https://www.cnet.com/roadshow/news/lyft-and-baidu-plan-to-launch-robotaxis-in-europe-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

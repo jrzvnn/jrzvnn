@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not that brave any more](http://9gag.com/gag/a4PVodd)
- - 😝 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)
- - 💣 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 😝 [Finish him](http://9gag.com/gag/awyvz6W)
- - 👉 [Meeting Hide the pain Harold at Hungary F1 GP](http://9gag.com/gag/aRBDrDB)<!-- MEMES:END -->
+ - 😝 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)
+ - 😝 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
+ - 💣 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 😝 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
+ - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
 
 ---
 

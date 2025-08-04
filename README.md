@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify is raising Premium prices outside the US](https://www.theverge.com/news/718038/spotify-premium-subscription-price-increase-outside-us)
- - [Bullish, a digital asset exchange and CoinDesk owner, plans to sell 20.3M shares at $28 to $31 in a US IPO, raising up to $629.3M at an up to $4.2B valuation &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250804/p19#a250804p19)
- - [Lyft partners with Baidu to launch autonomous vehicles in Germany and the UK in 2026, pending regulatory approval; Lyft will deploy Baidu&#39;s sixth-gen robotaxis &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250804/p18#a250804p18)
- - [This time, the iPhone 17 Air battery may have actually been leaked](https://appleinsider.com/articles/25/08/04/this-time-the-iphone-17-air-battery-may-have-actually-been-leaked?utm_source=rss)
- - [Outlying analyst concedes error, boards 2027 folding iPad ship date train](https://appleinsider.com/articles/25/08/04/outlying-analyst-concedes-error-boards-2027-folding-ipad-ship-date-train?utm_source=rss)<!-- TECH:END -->
+ - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 jobs will be cut &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)
+ - [Tesla proposes giving Elon Musk $29 billion so he stays CEO](https://www.theverge.com/news/718032/tesla-elon-musk-stock-pay-29-billion-ceo-shareholders)
+ - [If you have interest in a folding iPhone, here&#39;s how to tell Apple](https://appleinsider.com/articles/25/08/04/if-you-have-interest-in-a-folding-iphone-heres-how-to-tell-apple?utm_source=rss)
+ - [Spotify says it is updating prices across South Asia, the Middle East, Africa, Europe, Latin America, and the Asia-Pacific; an example email had a €1/month rise &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250804/p21#a250804p21)
+ - [iPad display tech will make iPhones brighter and more power efficient](https://appleinsider.com/articles/25/08/04/ipad-display-tech-will-make-iphones-brighter-and-more-power-efficient?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

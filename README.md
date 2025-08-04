@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Science Reveals the Surprising Origins of the Potato](https://www.wired.com/story/science-reveals-the-surprising-origins-of-the-potato/)
+ - [Alienware’s AW2725Q 4K OLED gaming monitor is down to its lowest price ever at Amazon](https://www.theverge.com/tech/718105/alienware-aw2725q-4k-monitor-google-nest-thermostat-deal-sale)
  - [Elon Musk says Vine&#39;s video archive is being brought back, and xAI&#39;s newly launched Grok Imagine, available to X Premium+ subscribers, is &quot;AI Vine&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250804/p25#a250804p25)
  - [OpenAI says it will hit 700M weekly active users for ChatGPT this week, up from 500M in March and up 4x YoY, and has 5M paying business users, up from June&#39;s 3M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250804/p24#a250804p24)
- - [Amazon is gutting its Wondery podcast studio](https://www.theverge.com/news/718136/amazon-wondery-gutting-podcast-studio-layoffs)
- - [8BitDo’s first wireless Xbox controller is a surprise Rare collaboration](https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition)
- - [Cloudflare says Perplexity uses stealth crawling techniques, like undeclared user agents and rotating IP addresses, to evade robots.txt rules and network blocks &lpar;Cloudflare&rpar;](http://www.techmeme.com/250804/p23#a250804p23)<!-- TECH:END -->
+ - [Amazon is gutting its Wondery podcast studio](https://www.theverge.com/news/718136/amazon-wondery-gutting-podcast-studio-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

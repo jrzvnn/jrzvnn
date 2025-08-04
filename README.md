@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Figma CEO Dylan Field, a former Thiel fellow whose Figma stake is worth ~$6.6B after the company ended its NYSE debut week with a $71B+ market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p9#a250804p9)
  - [Families and funeral directors are using AI obituary generators to memorialize the dead, as critics worry about AI&#39;s impact on how people remember one another &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250804/p8#a250804p8)
  - [How Disney is grappling with integrating AI into its filmmaking process while safeguarding IP and addressing legal uncertainty, fan backlash, and union concerns &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250804/p7#a250804p7)
- - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and US, who claim it enables censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)
- - [Taiwan&#39;s chip sector is cultivating overseas talent with summer camps and university courses to address a shortage of skilled professionals and production staff &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250804/p5#a250804p5)
- - [Former UK Chancellor and Coinbase Advisory Council member George Osborne says the UK missed the first crypto wave and risks missing the stablecoin-driven second &lpar;George Osborne/Financial Times&rpar;](http://www.techmeme.com/250804/p4#a250804p4)<!-- TECH:END -->
+ - [The UK Online Safety Act&#39;s approach to keeping children safe online has become a rallying point for the right in the UK and the US over alleged censorship &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/250804/p6#a250804p6)
+ - [Taiwan&#39;s chip sector is cultivating overseas talent with summer camps and university courses to address a shortage of skilled professionals and production staff &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250804/p5#a250804p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

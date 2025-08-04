@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says ChatGPT now offers &quot;gentle reminders&quot; to take breaks during long sessions, and it is building tools to better detect signs of emotional distress &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250804/p27#a250804p27)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Cloudflare says Perplexity&amp;#8217;s AI bots are &amp;#8216;stealth crawling&amp;#8217; blocked sites](https://www.theverge.com/news/718319/perplexity-stealth-crawling-cloudflare-ai-bots-report)
  - [One of the biggest newsletter platforms now syndicates to Bluesky and Mastodon](https://www.theverge.com/news/718286/ghost-6-update-social-web-mastodon-bluesky)
- - [Rivian calls Ohio’s ban on direct car sales ‘irrational in the extreme’ in new lawsuit](https://www.theverge.com/news/718186/rivian-ohio-lawsuit-direct-sales-ban)
- - [Transcripts from the trial over a fatal 2019 Autopilot crash: Tesla withheld crash‑snapshot data and took years to admit it existed or was relevant to the case &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/250804/p26#a250804p26)
- - [Google dunks on Apple Intelligence in new Pixel 10 ad](https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad)<!-- TECH:END -->
+ - [Rivian calls Ohio’s ban on direct car sales ‘irrational in the extreme’ in new lawsuit](https://www.theverge.com/news/718186/rivian-ohio-lawsuit-direct-sales-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

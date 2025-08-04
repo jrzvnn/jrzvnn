@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
- - 😝 [Instruction unclear](http://9gag.com/gag/ae9WgVj)
- - 💣 [Finish him](http://9gag.com/gag/awyvz6W)
- - 😝 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)
- - 👉 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)<!-- MEMES:END -->
+ - 😝 [Still funny](http://9gag.com/gag/aByomAx)
+ - 😝 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
+ - 💣 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)<!-- MEMES:END -->
 
 ---
 

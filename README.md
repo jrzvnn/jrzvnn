@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 😝 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
- - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
+ - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)<!-- MEMES:END -->
 
 ---
 

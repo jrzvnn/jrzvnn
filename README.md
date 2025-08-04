@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tested 13 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+ - [Amazon&amp;#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)
+ - [Palantir reports Q2 revenue up 48% YoY to $1B, vs. $940M expected, and boosts full-year outlook guidance to $4.14B-$4.15B, up from $3.89B-$3.90B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250804/p29#a250804p29)
  - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
- - [Google unveils Kaggle Game Arena, a benchmarking platform where AI models compete head-to-head in strategic games, starting with a chess tournament this week &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250804/p28#a250804p28)
- - [Apple&#39;s Adaptive Temperature tech, DJI vacuum, &amp; LG StandByMe 2 portable TV on HomeKit Insider](https://appleinsider.com/articles/25/08/04/apples-adaptive-temperature-tech-dji-vacuum-lg-standbyme-2-portable-tv-on-homekit-insider?utm_source=rss)
- - [ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions](https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders)<!-- TECH:END -->
+ - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

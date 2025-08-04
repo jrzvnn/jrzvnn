@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s Adaptive Temperature tech, DJI vacuum, &amp; LG StandByMe 2 portable TV on HomeKit Insider](https://appleinsider.com/articles/25/08/04/apples-adaptive-temperature-tech-dji-vacuum-lg-standbyme-2-portable-tv-on-homekit-insider?utm_source=rss)
+ - [ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions](https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders)
  - [Amazon Might Bring Ads to Alexa Plus: Here&#39;s What That Could Mean for You](https://www.cnet.com/home/smart-home/amazon-might-bring-ads-to-alexa-plus-heres-what-that-could-mean-for-you/#ftag=CAD590a51e)
  - [OpenAI says ChatGPT now offers &quot;gentle reminders&quot; to take breaks during long sessions, and it is building tools to better detect signs of emotional distress &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250804/p27#a250804p27)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Cloudflare says Perplexity&amp;#8217;s AI bots are &amp;#8216;stealth crawling&amp;#8217; blocked sites](https://www.theverge.com/news/718319/perplexity-stealth-crawling-cloudflare-ai-bots-report)
- - [One of the biggest newsletter platforms now syndicates to Bluesky and Mastodon](https://www.theverge.com/news/718286/ghost-6-update-social-web-mastodon-bluesky)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

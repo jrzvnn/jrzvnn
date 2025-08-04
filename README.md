@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 💣 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
- - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
+ - 😝 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 💣 [Boy meets world](http://9gag.com/gag/aVvBxnO)
+ - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
 
 ---
 

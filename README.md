@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Broadcom unveils a new version of its Jericho networking chip, which can connect 1M+ processors across multiple data centers and handle distances of over 100km &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250804/p33#a250804p33)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://www.theverge.com/news/718692/ign-entertainment-layoffs-creators-guild-ziff-davis)
- - [iPhone 17 import tariffs may cost Apple more than expected, as Trump threatens India](https://appleinsider.com/articles/25/08/04/iphone-17-import-tariffs-may-cost-apple-more-than-expected-as-trump-threatens-india?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 import tariffs may cost Apple more than expected, as Trump threatens India](https://appleinsider.com/articles/25/08/04/iphone-17-import-tariffs-may-cost-apple-more-than-expected-as-trump-threatens-india?utm_source=rss)
+ - [Look to the Sky: Bright Fireballs Appear During the Perseids Meteor Shower](https://www.cnet.com/science/space/look-to-the-sky-bright-fireballs-appear-during-the-perseids-meteor-shower/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 5, #316](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-5-316/#ftag=CAD590a51e)
+ - [This Forgotten &#39;90s Cyberpunk Flick Nailed the Dystopian VR Vibes](https://www.cnet.com/culture/entertainment/this-forgotten-y2k-sci-fi-movie-deserves-another-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

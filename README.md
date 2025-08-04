@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of the biggest newsletter platforms now syndicates to Bluesky and Mastodon](https://www.theverge.com/news/718286/ghost-6-update-social-web-mastodon-bluesky)
  - [Rivian calls Ohio’s ban on direct car sales ‘irrational in the extreme’ in new lawsuit](https://www.theverge.com/news/718186/rivian-ohio-lawsuit-direct-sales-ban)
  - [Transcripts from the trial over a fatal 2019 Autopilot crash: Tesla withheld crash‑snapshot data and took years to admit it existed or was relevant to the case &lpar;Fred Lambert/Electrek&rpar;](http://www.techmeme.com/250804/p26#a250804p26)
  - [Google dunks on Apple Intelligence in new Pixel 10 ad](https://www.theverge.com/news/718191/google-apple-intelligence-dunk-pixel-10-ad)
- - [Denzel Washington and Spike Lee reunite for a moral thriller in the music world](https://appleinsider.com/articles/25/08/04/denzel-washington-and-spike-lee-reunite-for-a-moral-thriller-in-the-music-world?utm_source=rss)
- - [Spotify Raises Premium Subscription Price Globally &lpar;but Not in the US... Yet&rpar;](https://www.cnet.com/tech/services-and-software/spotify-raises-premium-subscription-price-globally-but-not-in-the-us-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Denzel Washington and Spike Lee reunite for a moral thriller in the music world](https://appleinsider.com/articles/25/08/04/denzel-washington-and-spike-lee-reunite-for-a-moral-thriller-in-the-music-world?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

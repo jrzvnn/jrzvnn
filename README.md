@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare says Perplexity uses stealth crawling techniques, like undeclared user agents and rotating IP addresses, to evade robots.txt rules and network blocks &lpar;Cloudflare&rpar;](http://www.techmeme.com/250804/p23#a250804p23)
+ - [Spotify raises its premium prices almost everywhere](https://appleinsider.com/articles/25/08/04/spotify-raises-its-premium-prices-almost-everywhere?utm_source=rss)
+ - [Save $200 on Apple&#39;s 512GB M4 MacBook Air this week](https://appleinsider.com/articles/25/08/04/save-200-on-apples-512gb-m4-macbook-air-this-week?utm_source=rss)
  - [ALS sufferer uses iPad in demonstration of thought control](https://appleinsider.com/articles/25/08/04/als-sufferer-uses-ipad-in-demonstration-of-thought-control?utm_source=rss)
- - [8 Best Handheld Gaming Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)
- - [Why tech is racing to adopt AI coding](https://www.theverge.com/decoder-podcast-with-nilay-patel/715267/anysphere-ceo-michael-truell-cursor-ai-automate-programming-interview)
- - [Google’s healthcare AI made up a body part — what happens when doctors don’t notice?](https://www.theverge.com/health/718049/google-med-gemini-basilar-ganglia-paper-typo-hallucination)
- - [Amazon says it is closing its Wondery podcast studio and will break up its operations as part of a broad reorganization; a source says ~110 will lose their jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250804/p22#a250804p22)<!-- TECH:END -->
+ - [8 Best Handheld Gaming Consoles &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-handhelds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

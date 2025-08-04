@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says Vine&#39;s video archive is being brought back, and xAI&#39;s newly launched Grok Imagine, available to X Premium+ subscribers, is &quot;AI Vine&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250804/p25#a250804p25)
+ - [OpenAI says it will hit 700M weekly active users for ChatGPT this week, up from 500M in March and up 4x YoY, and has 5M paying business users, up from June&#39;s 3M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250804/p24#a250804p24)
+ - [Amazon is gutting its Wondery podcast studio](https://www.theverge.com/news/718136/amazon-wondery-gutting-podcast-studio-layoffs)
  - [8BitDo’s first wireless Xbox controller is a surprise Rare collaboration](https://www.theverge.com/news/717994/8bitdo-wireless-xbox-controller-rare-40th-anniversary-edition)
- - [Cloudflare says Perplexity uses stealth crawling techniques, like undeclared user agents and rotating IP addresses, to evade robots.txt rules and network blocks &lpar;Cloudflare&rpar;](http://www.techmeme.com/250804/p23#a250804p23)
- - [Spotify raises its premium prices almost everywhere](https://appleinsider.com/articles/25/08/04/spotify-raises-its-premium-prices-almost-everywhere?utm_source=rss)
- - [Save $200 on Apple&#39;s 512GB M4 MacBook Air this week](https://appleinsider.com/articles/25/08/04/save-200-on-apples-512gb-m4-macbook-air-this-week?utm_source=rss)
- - [Lyft and Baidu Plan to Launch Robotaxis in Europe Next Year](https://www.cnet.com/roadshow/news/lyft-and-baidu-plan-to-launch-robotaxis-in-europe-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare says Perplexity uses stealth crawling techniques, like undeclared user agents and rotating IP addresses, to evade robots.txt rules and network blocks &lpar;Cloudflare&rpar;](http://www.techmeme.com/250804/p23#a250804p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

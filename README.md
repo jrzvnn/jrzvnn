@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
  - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
- - 😝 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
- - 💣 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
  - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 👉 [Boy meets world](http://9gag.com/gag/aVvBxnO)<!-- MEMES:END -->
+ - 👉 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)<!-- MEMES:END -->
 
 ---
 

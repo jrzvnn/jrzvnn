@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finish him](http://9gag.com/gag/awyvz6W)
- - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 💣 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 😝 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)
- - 👉 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)<!-- MEMES:END -->
+ - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
+ - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
 
 ---
 

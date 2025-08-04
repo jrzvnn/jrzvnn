@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Figma&#39;s stock dropped 27.4% to $88.60 on Monday after last week&#39;s IPO pop; its fully diluted valuation now sits at ~$56B, still almost triple Adobe&#39;s 2022 offer &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p32#a250804p32)
+ - [Source: Figma considered a higher IPO price, but its CEO wanted to bring on board certain long-term institutional shareholders and signed off on $33 per share &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250804/p31#a250804p31)
  - [Google says Big Sleep, its vulnerability research tool &quot;powered by Gemini&quot;, found 20 flaws in various popular open-source software projects &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250804/p30#a250804p30)
  - [I tested 13 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Amazon&amp;#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)
- - [Palantir reports Q2 revenue up 48% YoY to $1B, vs. $940M expected, and boosts full-year outlook guidance to $4.14B-$4.15B, up from $3.89B-$3.90B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250804/p29#a250804p29)
- - [Prime Video: The 29 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-series-on-prime-video-aug-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How 20-something CEOs like Cognition AI&#39;s Scott Wu, Cursor&#39;s Michael Truell, Cluely&#39;s Roy Lee, and Scale AI&#39;s Alexandr Wang are swarming San Francisco&#39;s AI boom &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/250804/p13#a250804p13)
+ - [Meet Ultra Skelly: Skelly the Skeleton Gets a High-Tech Edition This Halloween](https://www.wired.com/story/high-tech-skelly-is-here-for-halloween/)
+ - [Lenovo ThinkBook Plus Gen 6 review: a unique $3,300 laptop with a rollable 120Hz OLED display that can grow from 14&quot; to 16.7&quot;, but it is heavy and expensive &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/250804/p12#a250804p12)
  - [Google, OpenAI, Meta, and VCs are increasingly embracing the US military industrial complex, a major Silicon Valley cultural shift supported by President Trump &lpar;Sheera Frenkel/New York Times&rpar;](http://www.techmeme.com/250804/p11#a250804p11)
- - [A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet](https://www.wired.com/story/missing-hiker-ai-drone-recovery/)
- - [Xiaomi releases MiDashengLM-7B, an AI voice model under an Apache 2.0 license based on its foundational voice model, deployed in cars and smart home devices &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250804/p10#a250804p10)
- - [A profile of Figma CEO Dylan Field, a former Thiel fellow whose Figma stake is worth ~$6.6B after the company ended its NYSE debut week with a $71B+ market cap &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p9#a250804p9)
- - [Families and funeral directors are using AI obituary generators to memorialize the dead, as critics worry about AI&#39;s impact on how people remember one another &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250804/p8#a250804p8)<!-- TECH:END -->
+ - [A Hiker Was Missing for Nearly a Year—Until an AI System Recognized His Helmet](https://www.wired.com/story/missing-hiker-ai-drone-recovery/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

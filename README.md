@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Might Bring Ads to Alexa Plus: Here&#39;s What That Could Mean for You](https://www.cnet.com/home/smart-home/amazon-might-bring-ads-to-alexa-plus-heres-what-that-could-mean-for-you/#ftag=CAD590a51e)
  - [OpenAI says ChatGPT now offers &quot;gentle reminders&quot; to take breaks during long sessions, and it is building tools to better detect signs of emotional distress &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250804/p27#a250804p27)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Cloudflare says Perplexity&amp;#8217;s AI bots are &amp;#8216;stealth crawling&amp;#8217; blocked sites](https://www.theverge.com/news/718319/perplexity-stealth-crawling-cloudflare-ai-bots-report)
- - [One of the biggest newsletter platforms now syndicates to Bluesky and Mastodon](https://www.theverge.com/news/718286/ghost-6-update-social-web-mastodon-bluesky)
- - [Rivian calls Ohio’s ban on direct car sales ‘irrational in the extreme’ in new lawsuit](https://www.theverge.com/news/718186/rivian-ohio-lawsuit-direct-sales-ban)<!-- TECH:END -->
+ - [One of the biggest newsletter platforms now syndicates to Bluesky and Mastodon](https://www.theverge.com/news/718286/ghost-6-update-social-web-mastodon-bluesky)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

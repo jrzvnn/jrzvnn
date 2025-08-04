@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
+ - [Google unveils Kaggle Game Arena, a benchmarking platform where AI models compete head-to-head in strategic games, starting with a chess tournament this week &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250804/p28#a250804p28)
  - [Apple&#39;s Adaptive Temperature tech, DJI vacuum, &amp; LG StandByMe 2 portable TV on HomeKit Insider](https://appleinsider.com/articles/25/08/04/apples-adaptive-temperature-tech-dji-vacuum-lg-standbyme-2-portable-tv-on-homekit-insider?utm_source=rss)
- - [ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions](https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders)
- - [Amazon Might Bring Ads to Alexa Plus: Here&#39;s What That Could Mean for You](https://www.cnet.com/home/smart-home/amazon-might-bring-ads-to-alexa-plus-heres-what-that-could-mean-for-you/#ftag=CAD590a51e)
- - [OpenAI says ChatGPT now offers &quot;gentle reminders&quot; to take breaks during long sessions, and it is building tools to better detect signs of emotional distress &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250804/p27#a250804p27)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [ChatGPT will ‘better detect’ mental distress after reports of it feeding people&amp;#8217;s delusions](https://www.theverge.com/news/718407/openai-chatgpt-mental-health-guardrails-break-reminders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

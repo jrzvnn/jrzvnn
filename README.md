@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Big Sleep, its vulnerability research tool &quot;powered by Gemini&quot;, found 20 flaws in various popular open-source software projects &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250804/p30#a250804p30)
  - [I tested 13 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [Amazon&amp;#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)
  - [Palantir reports Q2 revenue up 48% YoY to $1B, vs. $940M expected, and boosts full-year outlook guidance to $4.14B-$4.15B, up from $3.89B-$3.90B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250804/p29#a250804p29)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)<!-- TECH:END -->
+ - [Prime Video: The 29 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-series-on-prime-video-aug-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

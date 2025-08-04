@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
- - 😝 [Welcome to UK, where you must pay a dozen different taxes to `protect the environment`](http://9gag.com/gag/a34n161)
+ - 😝 [Girl sentenced to 35 days in prison for falsely accusing ex-boyfriend of rape](http://9gag.com/gag/adBb8ZM)
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
  - 💣 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 👉 [Titles? We don&#39;t need no titles.](http://9gag.com/gag/a2vG1o1)<!-- MEMES:END -->
 
 ---
 

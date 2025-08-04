@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan&#39;s chip sector is cultivating overseas talent with summer camps and university courses to address a shortage of skilled professionals and production staff &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/250804/p5#a250804p5)
+ - [Former UK Chancellor and Coinbase Advisory Council member George Osborne says the UK missed the first crypto wave and risks missing the stablecoin-driven second &lpar;George Osborne/Financial Times&rpar;](http://www.techmeme.com/250804/p4#a250804p4)
  - [Indian quick commerce companies like Swiggy, Zepto and Flipkart are slowing down dark store expansion to rein in cash burn after an aggressive year of growth &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250804/p3#a250804p3)
  - [EQT and CPP Investments agree to acquire Neogov, a provider of HR and compliance software for US public sector agencies, for $3B from Warburg Pincus and Carlyle &lpar;Janelle Bradley/PitchBook&rpar;](http://www.techmeme.com/250804/p2#a250804p2)
- - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 4, #315](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-4-315/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 4, #785](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-4-785/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

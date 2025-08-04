@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Do they still Exist .?](http://9gag.com/gag/aO8G3ON)
  - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
- - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 👉 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)<!-- MEMES:END -->
+ - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 👉 [Boy meets world](http://9gag.com/gag/aVvBxnO)<!-- MEMES:END -->
 
 ---
 

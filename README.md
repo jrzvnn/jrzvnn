@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He bucked around and found out &lpar;don&#39;t worry, he&#39;s completely fine&rpar;](http://9gag.com/gag/aMVyE96)
- - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 💣 [Cardinal sin](http://9gag.com/gag/ayNP9eM)
- - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
- - 👉 [Boy meets world](http://9gag.com/gag/aVvBxnO)<!-- MEMES:END -->
+ - 😝 [Train to Shanghai](http://9gag.com/gag/amongro)
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 💣 [Boy meets world](http://9gag.com/gag/aVvBxnO)
+ - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
 
 ---
 

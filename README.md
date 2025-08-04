@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl sentenced to 35 days in prison for falsely accusing ex-boyfriend of rape](http://9gag.com/gag/adBb8ZM)
- - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 💣 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
+ - 😝 [Everybody Poops](http://9gag.com/gag/a87zEx1)
  - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 👉 [Titles? We don&#39;t need no titles.](http://9gag.com/gag/a2vG1o1)<!-- MEMES:END -->
+ - 💣 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
+ - 😝 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
+ - 👉 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not that brave any more](http://9gag.com/gag/a4PVodd)
- - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 💣 [That escalated quickly](http://9gag.com/gag/aPAn3qQ)
- - 😝 [An effective and very safe way to break the sound barrier in a glorified canoe](http://9gag.com/gag/aO8G7WE)
- - 👉 [Come Get Some Cells](http://9gag.com/gag/aKGp6oj)<!-- MEMES:END -->
+ - 😝 [Top tier review for Grounded&lpar;game&rpar;](http://9gag.com/gag/a6Z81LN)
+ - 😝 [Instruction unclear](http://9gag.com/gag/ae9WgVj)
+ - 💣 [Finish him](http://9gag.com/gag/awyvz6W)
+ - 😝 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)
+ - 👉 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)<!-- MEMES:END -->
 
 ---
 

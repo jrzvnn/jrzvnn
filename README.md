@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft relied on China-based engineers to maintain SharePoint &quot;OnPrem&quot;, which was recently exploited by Chinese hackers to breach US government systems &lpar;Renee Dudley/ProPublica&rpar;](http://www.techmeme.com/250803/p21#a250803p21)
- - [Young Americans are increasingly turning to BNPL loans from Affirm and others, as getting approved for credit cards becomes harder in today&#39;s economic climate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p20#a250803p20)
- - [An interview with Strava CEO Michael Martin on Athlete Intelligence, the premium AI &quot;coach&quot; introduced in 2024 that has alienated experienced users, and more &lpar;Haley Zimmerman/Wall Street Journal&rpar;](http://www.techmeme.com/250803/p19#a250803p19)
- - [Asian financial hubs are updating stablecoin regulations and companies like Ant Group plan to become issuers, driven by US&#39; embrace of dollar-pegged stablecoins &lpar;Bloomberg&rpar;](http://www.techmeme.com/250803/p18#a250803p18)
- - [Top Apple Watch deals this August: Prices as low as $169](https://appleinsider.com/articles/25/08/03/top-apple-watch-deals-this-august-prices-as-low-as-169?utm_source=rss)<!-- TECH:END -->
+ - [A study finds that AI trading bots can collude and fix prices in simulated markets without explicit instruction, posing challenges to regulators &lpar;Lu Wang/Bloomberg&rpar;](http://www.techmeme.com/250804/p1#a250804p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 4, #315](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-4-315/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 4, #785](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-4-785/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-4/#ftag=CAD590a51e)
+ - [Microsoft relied on China-based engineers to maintain SharePoint &quot;OnPrem&quot;, which was recently exploited by Chinese hackers to breach US government systems &lpar;Renee Dudley/ProPublica&rpar;](http://www.techmeme.com/250803/p21#a250803p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

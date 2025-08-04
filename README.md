@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT Will Start Asking If You Need a Break. That May Not Be Enough to Snap a Bad Habit](https://www.cnet.com/tech/services-and-software/chatgpt-will-start-asking-if-you-need-a-break-that-may-not-be-enough-to-snap-a-bad-habit/#ftag=CAD590a51e)
  - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)
  - [Valve founder Gabe Newell just purchased a superyacht company](https://www.theverge.com/news/718639/gabe-newell-valve-superyacht-oceanco)
- - [Google mocks Apple&#39;s AI delays while standing in a graveyard of late and abandoned products](https://appleinsider.com/articles/25/08/04/google-mocks-apples-ai-delays-while-standing-in-a-graveyard-of-late-and-abandoned-products?utm_source=rss)
- - [Figma&#39;s stock dropped 27.4% to $88.60 on Monday after last week&#39;s IPO pop; its fully diluted valuation now sits at ~$56B, still almost triple Adobe&#39;s 2022 offer &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p32#a250804p32)
- - [Source: Figma considered a higher IPO price, but its CEO wanted to bring on board certain long-term institutional shareholders and signed off on $33 per share &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250804/p31#a250804p31)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 5, #786](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-5-786/#ftag=CAD590a51e)
+ - [Best Cheap Laptop: Budget Computers for Every Use](https://www.cnet.com/tech/computing/best-budget-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 😝 [Take a look at what happiness looks like you miserable f.....](http://9gag.com/gag/aRBDX6y)
+ - 💣 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
  - 😝 [Girl using an Airbnb in India and has to find a way to discard trash.](http://9gag.com/gag/ae9WgeQ)
- - 👉 [All thanks to who?](http://9gag.com/gag/ajPymQ1)<!-- MEMES:END -->
+ - 👉 [Just dinner amongst friends](http://9gag.com/gag/ae9WgRB)<!-- MEMES:END -->
 
 ---
 

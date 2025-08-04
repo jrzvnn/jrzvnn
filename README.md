@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon pulls the plug on Sengled’s Alexa skill after months of outages](https://www.theverge.com/analysis/718436/amazon-alexa-skill-ended-for-sengled-smart-lighting)
+ - [Valve founder Gabe Newell just purchased a superyacht company](https://www.theverge.com/news/718639/gabe-newell-valve-superyacht-oceanco)
+ - [Google mocks Apple&#39;s AI delays while standing in a graveyard of late and abandoned products](https://appleinsider.com/articles/25/08/04/google-mocks-apples-ai-delays-while-standing-in-a-graveyard-of-late-and-abandoned-products?utm_source=rss)
  - [Figma&#39;s stock dropped 27.4% to $88.60 on Monday after last week&#39;s IPO pop; its fully diluted valuation now sits at ~$56B, still almost triple Adobe&#39;s 2022 offer &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250804/p32#a250804p32)
- - [Source: Figma considered a higher IPO price, but its CEO wanted to bring on board certain long-term institutional shareholders and signed off on $33 per share &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250804/p31#a250804p31)
- - [Google says Big Sleep, its vulnerability research tool &quot;powered by Gemini&quot;, found 20 flaws in various popular open-source software projects &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/250804/p30#a250804p30)
- - [I tested 13 Switch 2 cases and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Amazon&amp;#8217;s best Kindles are cheaper than ever at Best Buy](https://www.theverge.com/tech/718546/amazon-kindle-paperwhite-scribe-colorsoft-signature-edition-deal-sale)<!-- TECH:END -->
+ - [Source: Figma considered a higher IPO price, but its CEO wanted to bring on board certain long-term institutional shareholders and signed off on $33 per share &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250804/p31#a250804p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why. How could this possibly happen?](http://9gag.com/gag/aND3PAr)
- - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 💣 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 👉 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)<!-- MEMES:END -->
+ - 😝 [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)
+ - 😝 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
+ - 💣 [Wow, this was much more difficult than the Normandy landings or the Battle of the Bulge](http://9gag.com/gag/an7VgdL)
+ - 😝 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
+ - 👉 [Train to Shanghai](http://9gag.com/gag/amongro)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok’s &amp;#8216;spicy&amp;#8217; video setting instantly made me Taylor Swift nude deepfakes](https://www.theverge.com/report/718975/xai-grok-imagine-taylor-swifty-deepfake-nudes)
+ - [US DOT Secretary Sean Duffy proposes a rule change to let commercial drones fly beyond an operator&#39;s line of sight, a boon for Walmart and Alphabet&#39;s Wing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p30#a250805p30)
  - [Google’s Pixel 9A is cheaper than ever right now](https://www.theverge.com/tech/718974/google-pixel-9a-deal-sale)
  - [Claude Fans Threw a Funeral for Anthropic’s Retired AI Model](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)
- - [WhatsApp will show a ‘safety overview’ before you join unknown group chats](https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview)
- - [Save $450 on Apple&#39;s 15-inch MacBook Air with 24GB RAM](https://appleinsider.com/articles/25/08/05/save-450-on-apples-15-inch-macbook-air-with-24gb-ram?utm_source=rss)
- - [&#39;Lilo &amp; Stitch&#39; Gets a Streaming Release Date on Disney Plus](https://www.cnet.com/tech/services-and-software/lilo-stitch-gets-a-streaming-release-date-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp will show a ‘safety overview’ before you join unknown group chats](https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

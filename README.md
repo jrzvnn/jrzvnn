@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: in its ChatGPT lawsuit, the NYT asked OpenAI to produce 120M user chats to analyze how often ChatGPT regurgitates its articles, after OpenAI offered 20M &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250805/p40#a250805p40)
+ - [Snap Q2: revenue up 9% YoY to $1.34B, vs. $1.35B est., 469M global DAUs, vs. 467M est., and global ARPU of $2.87, vs. $2.90 est.; SNAP drops ~15% after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250805/p39#a250805p39)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
  - [Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/250805/p38#a250805p38)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [You May Soon Be Able to Chat on WhatsApp Even Without an Account](https://www.cnet.com/tech/services-and-software/you-may-soon-be-able-to-chat-on-whatsapp-even-without-an-account/#ftag=CAD590a51e)
- - [Here&#39;s How to Watch the Original The Naked Gun Movies in Order](https://www.cnet.com/tech/services-and-software/how-to-watch-the-naked-gun-series/#ftag=CAD590a51e)
- - [Apple Watch Ultra 3 may get a very slightly larger display](https://appleinsider.com/articles/25/08/05/apple-watch-ultra-3-may-get-a-very-slightly-larger-display?utm_source=rss)<!-- TECH:END -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

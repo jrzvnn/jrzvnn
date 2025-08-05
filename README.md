@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 💣 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - 😝 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
- - 👉 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)<!-- MEMES:END -->
+ - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 😝 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 😝 [This girl has some serious skills](http://9gag.com/gag/aZZvZW0)
+ - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
 
 ---
 

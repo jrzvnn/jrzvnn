@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: in its ChatGPT lawsuit, the NYT asked OpenAI to produce 120M user chats to analyze how often ChatGPT regurgitates its articles, after OpenAI offered 20M &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250805/p40#a250805p40)
- - [Snap Q2: revenue up 9% YoY to $1.34B, vs. $1.35B est., 469M global DAUs, vs. 467M est., and global ARPU of $2.87, vs. $2.90 est.; SNAP drops ~15% after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250805/p39#a250805p39)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/250805/p38#a250805p38)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
+ - [macOS 26 says goodbye to the classic hard drive icon](https://appleinsider.com/articles/25/08/05/macos-26-says-goodbye-to-the-classic-hard-drive-icon?utm_source=rss)
+ - [AMD reports Q2 revenue up 32% YoY to $7.7B vs. $7.43B est., Data Center revenue up 14% to $3.2B vs. $3.25B est., Client revenue up 67% to $2.5B vs. $2.56B est. &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250805/p42#a250805p42)
+ - [Chikungunya virus not a threat to Apple&#39;s Chinese supply chain](https://appleinsider.com/articles/25/08/05/chikungunya-virus-not-a-threat-to-apples-chinese-supply-chain?utm_source=rss)
+ - [New in iOS 26 beta 5: Camera and Mail toggles, Apple Watch display leak, more](https://appleinsider.com/articles/25/08/05/new-in-ios-26-beta-5-camera-and-mail-toggles-apple-watch-display-leak-more?utm_source=rss)
+ - [Match Q2: revenue of $864M, flat YoY, net earnings of $125.5M, down from $133.3M YoY, and provides a Q3 forecast beating estimates; MTCH jumps 11% after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250805/p41#a250805p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

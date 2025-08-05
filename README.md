@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Gemini can now create AI-generated bedtime stories](https://www.theverge.com/news/719184/google-gemini-ai-storybook-bedtime-stories)
  - [Florida sues some of the biggest porn platforms, accusing them of not complying with the state&#39;s age verification law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250805/p35#a250805p35)
  - [Apple Support&#39;s new generative AI assistant is being tested by a small audience](https://appleinsider.com/articles/25/08/05/apple-support-gears-up-to-roll-out-generative-ai-assistant?utm_source=rss)
  - [Apple seeds fifth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/05/apple-seeds-fifth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
- - [BMX&#39;s new MagSafe battery is ultra-safe, and was made by the old Hyper founders](https://appleinsider.com/articles/25/08/05/bmxs-new-magsafe-battery-is-ultra-safe-and-was-made-by-the-old-hyper-founders?utm_source=rss)
- - [OpenAI releases gpt-oss-120b and gpt-oss-20b, its first open-weight models since GPT-2; the smaller model can run locally on a consumer device with 16GB+ of RAM &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250805/p34#a250805p34)<!-- TECH:END -->
+ - [BMX&#39;s new MagSafe battery is ultra-safe, and was made by the old Hyper founders](https://appleinsider.com/articles/25/08/05/bmxs-new-magsafe-battery-is-ultra-safe-and-was-made-by-the-old-hyper-founders?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big no-no](http://9gag.com/gag/aE0E8Np)
- - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
+ - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
  - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 👉 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)<!-- MEMES:END -->
+ - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
 
 ---
 

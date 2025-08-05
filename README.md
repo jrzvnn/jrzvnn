@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The CFTC is asking for public comment by August 18 about trading spot crypto asset contracts listed on CFTC-registered futures exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250804/p38#a250804p38)
  - [Internal email: Cognition offers buyouts to the ~200 newly acquired Windsurf staff, with Cognition CEO Scott Wu writing &quot;we don&#39;t believe in work-life balance&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250804/p37#a250804p37)
  - [A term sheet shows Ant will sell its remaining 5.84% Paytm stake via block deals that could total ~$433.72M; Ant sold a 4% stake in May and 10.3% in August 2023 &lpar;Ananta Agarwal/Reuters&rpar;](http://www.techmeme.com/250804/p36#a250804p36)
  - [Apple Pencil USB-C drops to all-time best $49.99 with coupon](https://appleinsider.com/articles/25/08/05/apple-pencil-usb-c-drops-to-all-time-best-4999-with-coupon?utm_source=rss)
- - [Google agrees with two power utilities to pause non-essential AI workloads during peak demand or adverse weather events that reduce supply &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250804/p35#a250804p35)
- - [Perplexity defensive over ignoring robots.txt and stealing data](https://appleinsider.com/articles/25/08/05/perplexity-defensive-over-ignoring-robotstxt-and-stealing-data?utm_source=rss)<!-- TECH:END -->
+ - [Google agrees with two power utilities to pause non-essential AI workloads during peak demand or adverse weather events that reduce supply &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250804/p35#a250804p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

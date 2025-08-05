@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ says two Chinese nationals were arrested in California on charges of illegally shipping AI chips, including Nvidia H100s, to China from 2022 to 2025 &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250805/p45#a250805p45)
+ - [Alibaba&#39;s Qwen releases Qwen-Image, an AI image generation model focused on accurate text rendering, with support for alphabetic and logographic scripts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250805/p44#a250805p44)
  - [The best iPad deals you can get in August](https://www.theverge.com/tech/716470/best-ipad-deals)
  - [Super Micro reports Q4 revenue up 7.5% YoY to $5.76B, vs. $6.01B est., and lowers its fiscal year sales forecast; SMCI drops 14%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250805/p43#a250805p43)
- - [Apple is suing Apple Cinemas](https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain)
- - [TP-Link’s new travel router delivers Wi-Fi 7 speeds](https://www.theverge.com/news/719334/tp-link-be3600-wifi-7-travel-router-vpn)
- - [macOS 26 says goodbye to the classic hard drive icon](https://appleinsider.com/articles/25/08/05/macos-26-says-goodbye-to-the-classic-hard-drive-icon?utm_source=rss)<!-- TECH:END -->
+ - [Apple is suing Apple Cinemas](https://www.theverge.com/news/719382/apple-cinemas-sand-media-lawsuit-theater-chain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

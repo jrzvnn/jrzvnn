@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Pixel 9A is cheaper than ever right now](https://www.theverge.com/tech/718974/google-pixel-9a-deal-sale)
+ - [Claude Fans Threw a Funeral for Anthropic’s Retired AI Model](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)
+ - [WhatsApp will show a ‘safety overview’ before you join unknown group chats](https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview)
  - [Save $450 on Apple&#39;s 15-inch MacBook Air with 24GB RAM](https://appleinsider.com/articles/25/08/05/save-450-on-apples-15-inch-macbook-air-with-24gb-ram?utm_source=rss)
- - [TikTok Promotes Stickers for Secretly Recording Meta Ray-Ban Video](https://www.wired.com/story/tiktok-promotes-stickers-for-secretly-recording-meta-ray-ban-video/)
- - [Roku is launching a cheap, ad-free subscription service of its own](https://www.theverge.com/tv/718894/roku-howdy-subscription-service)
- - [Fox One will cost $19.99 per month when it arrives before NFL kickoff](https://www.theverge.com/news/718928/fox-one-streaming-service-price-launch-date-availablity)
- - [Democrats ask how Trump&amp;#8217;s government will regulate Trump Mobile](https://www.theverge.com/policy/718880/trump-mobile-letter-democrats-regulators)<!-- TECH:END -->
+ - [&#39;Lilo &amp; Stitch&#39; Gets a Streaming Release Date on Disney Plus](https://www.cnet.com/tech/services-and-software/lilo-stitch-gets-a-streaming-release-date-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

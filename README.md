@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I don&#39;t blame her](http://9gag.com/gag/abAEv68)
  - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 💣 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
- - 😝 [Wisdom who have lived truly understand.](http://9gag.com/gag/a87zAdd)
- - 👉 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)<!-- MEMES:END -->
+ - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 😝 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
+ - 👉 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)<!-- MEMES:END -->
 
 ---
 

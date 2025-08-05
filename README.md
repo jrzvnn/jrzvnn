@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 😝 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)
- - 💣 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
  - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
  - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
 

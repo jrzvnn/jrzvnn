@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 😝 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
- - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
+ - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
+ - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
+ - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 😝 [9gaggers... what kind of phenotype is this?](http://9gag.com/gag/aKGpExQ)
+ - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
 
 ---
 

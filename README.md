@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 😝 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
- - 👉 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)<!-- MEMES:END -->
+ - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 💣 [Title](http://9gag.com/gag/aW49Gzd)
+ - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 👉 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
+ - 😝 [What did you teach him... Show me](http://9gag.com/gag/azxQ2bB)
  - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
  - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 😝 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
- - 👉 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)<!-- MEMES:END -->
+ - 😝 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
+ - 👉 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)<!-- MEMES:END -->
 
 ---
 

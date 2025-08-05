@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 💣 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 👉 [BREAKING: Zoomers cannot adjust their Nvidea graphics cards settings on their gaming PCs anymore because they aren&#39;t 18 thanks to the Online Safety Act.](http://9gag.com/gag/a6Z81ZA)<!-- MEMES:END -->
+ - 😝 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)
+ - 😝 [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)
+ - 💣 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 😝 [David Fincher, Brad Pitt, and Edward Norton roasting all the critics who trashed Fight Club.](http://9gag.com/gag/a87z7EQ)
+ - 👉 [Who knew there is a small community on youtube that makes good quality LEGO ww2 stopmotions?](http://9gag.com/gag/adBbBnB)<!-- MEMES:END -->
 
 ---
 

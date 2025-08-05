@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
  - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 👉 [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)<!-- MEMES:END -->
+ - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 😝 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)
+ - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
 
 ---
 

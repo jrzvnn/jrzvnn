@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 💣 [David Fincher, Brad Pitt, and Edward Norton roasting all the critics who trashed Fight Club.](http://9gag.com/gag/a87z7EQ)
- - 😝 [This girl has some serious skills](http://9gag.com/gag/aZZvZW0)
- - 👉 [Who knew there is a small community on youtube that makes good quality LEGO ww2 stopmotions?](http://9gag.com/gag/adBbBnB)<!-- MEMES:END -->
+ - 😝 [Big no-no](http://9gag.com/gag/aE0E8Np)
+ - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
+ - 👉 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)<!-- MEMES:END -->
 
 ---
 

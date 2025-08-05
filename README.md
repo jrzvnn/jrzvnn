@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
  - 💣 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
- - 😝 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)
- - 👉 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)<!-- MEMES:END -->
+ - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
 
 ---
 

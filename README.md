@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 👉 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)<!-- MEMES:END -->
+ - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 😝 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)
+ - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
 
 ---
 

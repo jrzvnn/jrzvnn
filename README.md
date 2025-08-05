@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 😝 [I don&#39;t blame her](http://9gag.com/gag/abAEv68)
  - 😝 [Hee hee](http://9gag.com/gag/aE0EMpx)
- - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 😝 [This girl has some serious skills](http://9gag.com/gag/aZZvZW0)
- - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
+ - 💣 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)<!-- MEMES:END -->
 
 ---
 

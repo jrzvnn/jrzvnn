@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spend management startup Alaan raised a $48M Series A led by Peak XV, one of the Middle East&#39;s largest Series A rounds for a fintech, after a $2.5M seed in 2021 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250805/p17#a250805p17)
- - [Taiwanese prosecutors say two ex-TSMC employees and a third suspect were arrested for allegedly stealing proprietary tech; investigators searched Tokyo Electron &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250805/p16#a250805p16)
- - [Filings: SoftBank increased its Nvidia stake to ~$3B in Q1 and bought $330M worth of TSMC stock; a source says Vision Fund monetized ~$2B of assets in H1 2025 &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/250805/p15#a250805p15)
- - [Illinois Governor JB Pritzker signed a bill into law on August 1 banning AI use for providing mental health services, while allowing its use in admin roles &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250805/p14#a250805p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 5, #316](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-5-316/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A draft White House EO shows President Trump plans to step up pressure against big banks over alleged discrimination against crypto companies and conservatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250805/p19#a250805p19)
+ - [14 Best Beauty Box Subscriptions, Tested for Months &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
+ - [Israeli quantum computing startup QuamCore raised a $26M Series A led by Sentinel, taking its total funding to $35M, and plans to move into chip fabrication &lpar;Globes&rpar;](http://www.techmeme.com/250805/p18#a250805p18)
+ - [xAI&amp;#8217;s new Grok image and video generator has a &amp;#8216;spicy&amp;#8217; mode](https://www.theverge.com/news/718795/xai-grok-imagine-video-generator-spicy-mode)
+ - [Spend management startup Alaan raised a $48M Series A led by Peak XV, one of the Middle East&#39;s largest Series A rounds for a fintech, after a $2.5M seed in 2021 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250805/p17#a250805p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

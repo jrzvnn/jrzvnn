@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Taiwanese prosecutors say two ex-TSMC employees and a third suspect were arrested for allegedly stealing proprietary tech; investigators searched Tokyo Electron &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/250805/p16#a250805p16)
  - [Filings: SoftBank increased its Nvidia stake to ~$3B in Q1 and bought $330M worth of TSMC stock; a source says Vision Fund monetized ~$2B of assets in H1 2025 &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/250805/p15#a250805p15)
  - [Illinois Governor JB Pritzker signed a bill into law on August 1 banning AI use for providing mental health services, while allowing its use in admin roles &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250805/p14#a250805p14)
- - [How Supercomputing Will Evolve, According to Jack Dongarra](https://www.wired.com/story/how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 5, #316](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-5-316/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 💣 [Train to Shanghai](http://9gag.com/gag/amongro)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 😝 [Luck favors the prepared!](http://9gag.com/gag/ayNPNvY)
  - 👉 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)<!-- MEMES:END -->
 
 ---

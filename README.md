@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hee hee](http://9gag.com/gag/aE0EMpx)
- - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - 💣 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
- - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 👉 [Thats a good day.](http://9gag.com/gag/aoyDW3A)<!-- MEMES:END -->
+ - 😝 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 😝 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)
+ - 💣 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
 
 ---
 

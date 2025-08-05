@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
+ - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
  - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
+ - 👉 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)<!-- MEMES:END -->
 
 ---
 

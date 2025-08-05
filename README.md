@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Alibaba&#39;s supermarket chain Hema plans to gradually wind down the last of its Costco-like members-only stores in China in a bid to improve profitability &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p20#a250805p20)
  - [A draft White House EO shows President Trump plans to step up pressure against big banks over alleged discrimination against crypto companies and conservatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250805/p19#a250805p19)
  - [14 Best Beauty Box Subscriptions, Tested for Months &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
  - [Israeli quantum computing startup QuamCore raised a $26M Series A led by Sentinel, taking its total funding to $35M, and plans to move into chip fabrication &lpar;Globes&rpar;](http://www.techmeme.com/250805/p18#a250805p18)
- - [xAI&amp;#8217;s new Grok image and video generator has a &amp;#8216;spicy&amp;#8217; mode](https://www.theverge.com/news/718795/xai-grok-imagine-video-generator-spicy-mode)
- - [Spend management startup Alaan raised a $48M Series A led by Peak XV, one of the Middle East&#39;s largest Series A rounds for a fintech, after a $2.5M seed in 2021 &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/250805/p17#a250805p17)<!-- TECH:END -->
+ - [xAI&amp;#8217;s new Grok image and video generator has a &amp;#8216;spicy&amp;#8217; mode](https://www.theverge.com/news/718795/xai-grok-imagine-video-generator-spicy-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

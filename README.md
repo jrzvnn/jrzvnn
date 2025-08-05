@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 💣 [Title](http://9gag.com/gag/aW49Gzd)
- - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 👉 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)<!-- MEMES:END -->
+ - 😝 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
+ - 😝 [Training a zoomer is like training a boomer, the circle of life continues, and the PDF knowledge dies with us](http://9gag.com/gag/avymyBq)
+ - 💣 [Right in the feels](http://9gag.com/gag/a2vGMmO)
+ - 😝 [Kitty is scared to jump down so dude uses an old trick...](http://9gag.com/gag/abAEAEL)
+ - 👉 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)<!-- MEMES:END -->
 
 ---
 

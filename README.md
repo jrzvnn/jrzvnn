@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush](https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/)
  - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
  - [Wikipedia editors adopt a policy giving admins the authority to quickly delete AI-generated articles that meet certain criteria, like incorrect citations &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/250805/p46#a250805p46)
  - [The DOJ says two Chinese nationals were arrested in California on charges of illegally shipping AI chips, including Nvidia H100s, to China from 2022 to 2025 &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250805/p45#a250805p45)
- - [Alibaba&#39;s Qwen releases Qwen-Image, an AI image generation model focused on accurate text rendering, with support for alphabetic and logographic scripts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250805/p44#a250805p44)
- - [The best iPad deals you can get in August](https://www.theverge.com/tech/716470/best-ipad-deals)<!-- TECH:END -->
+ - [Alibaba&#39;s Qwen releases Qwen-Image, an AI image generation model focused on accurate text rendering, with support for alphabetic and logographic scripts &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250805/p44#a250805p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

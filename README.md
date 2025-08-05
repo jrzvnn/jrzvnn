@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ElevenLabs launches Eleven Music, letting individuals and businesses use its AI model to generate music cleared for commercial use via English-language prompts &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250805/p22#a250805p22)
- - [iPhone 17 launch date may have been leaked by German wireless carriers](https://appleinsider.com/articles/25/08/05/iphone-17-launch-date-may-have-been-leaked-by-german-wireless-carriers?utm_source=rss)
- - [Sources: Intel&#39;s 18A process is facing significant yield challenges, with only ~5% of chips meeting its specifications in late 2024 and ~10% by summer 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p21#a250805p21)
- - [Source: Alibaba&#39;s supermarket chain Hema plans to gradually wind down the last of its Costco-like members-only stores in China in a bid to improve profitability &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p20#a250805p20)
- - [A draft White House EO shows President Trump plans to step up pressure against big banks over alleged discrimination against crypto companies and conservatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250805/p19#a250805p19)<!-- TECH:END -->
+ - [The US General Services Administration approves OpenAI, Google, and Anthropic for AI contracts with civilian federal agencies via its Multiple Award Schedule &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p24#a250805p24)
+ - [New York-based sales tool startup Clay raised $100M led by CapitalG at a $3.1B valuation, up from $1.25B in January 2025, and expects $100M in revenue in 2025 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250805/p23#a250805p23)
+ - [ProtoArc EM11 NL vertical mouse review: a low-cost step to an ergonomic workspace](https://appleinsider.com/articles/25/08/05/protoarc-em11-nl-vertical-mouse-review-a-low-cost-step-to-an-ergonomic-workspace?utm_source=rss)
+ - [11 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
+ - [Microsoft&amp;#8217;s Windows XP Crocs are no joke](https://www.theverge.com/microsoft/717965/microsoft-crocs-windows-xp-bliss-wallpaper-theme)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

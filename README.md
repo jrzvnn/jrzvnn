@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
- - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 😝 [9gaggers... what kind of phenotype is this?](http://9gag.com/gag/aKGpExQ)
- - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
+ - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
+ - 💣 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 😝 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)
+ - 👉 [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)<!-- MEMES:END -->
 
 ---
 

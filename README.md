@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)
- - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 💣 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
- - 😝 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
- - 👉 [Wisdom who have lived truly understand.](http://9gag.com/gag/a87zAdd)<!-- MEMES:END -->
+ - 😝 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 💣 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 👉 [Thats a good day.](http://9gag.com/gag/aoyDW3A)<!-- MEMES:END -->
 
 ---
 

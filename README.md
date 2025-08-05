@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
- - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 💣 [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)
+ - 😝 [Policemen save a 6 yo who was playing near a railway crossing at 4 am](http://9gag.com/gag/aD2MYvB)
+ - 👉 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)<!-- MEMES:END -->
 
 ---
 

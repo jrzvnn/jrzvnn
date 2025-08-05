@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [White House OSTP Director Michael Kratsios says the US is exploring software or physical methods to track the location of AI chips, as part of AI Action Plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p5#a250805p5)
  - [Sources: Core Scientific&#39;s hedge fund shareholders may reject CoreWeave&#39;s all-stock merger bid, seeking better terms, as CRWV has fallen 30%+ post-announcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p4#a250805p4)
  - [HP Coupon Codes and Deals: Up to 60% Off | August 2025](https://www.wired.com/story/hp-coupon-code/)
  - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [HelloFresh Coupon Codes: 55% Off + Free Meals - August 2025](https://www.wired.com/story/hellofresh-coupon/)
- - [Hungryroot Coupon Codes: 30% Off in August 2025](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
+ - [HelloFresh Coupon Codes: 55% Off + Free Meals - August 2025](https://www.wired.com/story/hellofresh-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

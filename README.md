@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 😝 [Finish him](http://9gag.com/gag/awyvz6W)
+ - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
+ - 💣 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)
  - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 💣 [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)
- - 😝 [Policemen save a 6 yo who was playing near a railway crossing at 4 am](http://9gag.com/gag/aD2MYvB)
- - 👉 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)<!-- MEMES:END -->
+ - 👉 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)<!-- MEMES:END -->
 
 ---
 

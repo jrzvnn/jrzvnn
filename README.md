@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
- - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 💣 [Wow, this was much more difficult than the Normandy landings or the Battle of the Bulge](http://9gag.com/gag/an7VgdL)
- - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
- - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
+ - 😝 [Who knew there is a small community on youtube that makes good quality LEGO ww2 stopmotions?](http://9gag.com/gag/adBbBnB)
+ - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
+ - 💣 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)
+ - 😝 [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)
+ - 👉 [David Fincher, Brad Pitt, and Edward Norton roasting all the critics who trashed Fight Club.](http://9gag.com/gag/a87z7EQ)<!-- MEMES:END -->
 
 ---
 

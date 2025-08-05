@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/250805/p38#a250805p38)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [Apple Watch Ultra 3 may get a very slightly larger display](https://appleinsider.com/articles/25/08/05/apple-watch-ultra-3-may-get-a-very-slightly-larger-display?utm_source=rss)
  - [Roku&#39;s new Howdy streaming service offers ad-free streaming for $2.99](https://appleinsider.com/articles/25/08/05/rokus-new-howdy-streaming-service-offers-ad-free-streaming-for-299?utm_source=rss)
- - [Newsletter service Ghost says publishers have earned $100M+ on it, its annual revenue is $8.5M+, it now supports ActivityPub, and is upping new member pricing &lpar;Neel Dhanesha/Nieman Lab&rpar;](http://www.techmeme.com/250805/p37#a250805p37)
- - [Amazon’s Starlink Alternative Is Coming to Australia Next Summer](https://www.cnet.com/home/internet/amazons-starlink-alternative-is-coming-to-australia-next-summer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Newsletter service Ghost says publishers have earned $100M+ on it, its annual revenue is $8.5M+, it now supports ActivityPub, and is upping new member pricing &lpar;Neel Dhanesha/Nieman Lab&rpar;](http://www.techmeme.com/250805/p37#a250805p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

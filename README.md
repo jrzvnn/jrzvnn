@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US General Services Administration approves OpenAI, Google, and Anthropic for AI contracts with civilian federal agencies via its Multiple Award Schedule &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p24#a250805p24)
- - [New York-based sales tool startup Clay raised $100M led by CapitalG at a $3.1B valuation, up from $1.25B in January 2025, and expects $100M in revenue in 2025 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/250805/p23#a250805p23)
- - [ProtoArc EM11 NL vertical mouse review: a low-cost step to an ergonomic workspace](https://appleinsider.com/articles/25/08/05/protoarc-em11-nl-vertical-mouse-review-a-low-cost-step-to-an-ergonomic-workspace?utm_source=rss)
- - [11 Best Chromebooks of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-chromebooks/)
- - [Microsoft&amp;#8217;s Windows XP Crocs are no joke](https://www.theverge.com/microsoft/717965/microsoft-crocs-windows-xp-bliss-wallpaper-theme)<!-- TECH:END -->
+ - [Roku launches Howdy, an ad-free streaming service for $2.99 per month, initially only on Roku devices, with content from Lionsgate, WBD, FilmRise, and more &lpar;Kelly Lawler/USA Today&rpar;](http://www.techmeme.com/250805/p27#a250805p27)
+ - [Google&amp;#8217;s Pixel 10 Pro Fold might not go on sale until October](https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october)
+ - [Patreon CEO Jack Conte says the platform paid out $10B+ to creators since its 2013 founding, creators now get $2B+ annually, and there are 25M+ paid memberships &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250805/p26#a250805p26)
+ - [The Best Samsung Galaxy S25 Cases &lpar;2025&rpar;: S25, S25+, S25 Ultra, and S25 Edge](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
+ - [Online shopping is full of copycats](https://www.theverge.com/news/714572/dupes-blogilates-cassey-ho-fast-fashion-fabscrap)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

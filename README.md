@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shareholder letter: Reddit cites Profound&#39;s analysis showing it is the most cited domain across AI models, ahead of Wikipedia, YouTube, Forbes, and others &lpar;Alice Brooker/Press Gazette&rpar;](http://www.techmeme.com/250805/p8#a250805p8)
  - [As Delta experiments with AI-driven pricing, regulators and travelers alike worry about dynamic fare schemes that &quot;go beyond the human cognitive limits&quot; &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250805/p7#a250805p7)
  - [DRAM prices remain high after doubling from May 2025 to June 2025, amid speculation that China&#39;s CXMT may have halted DDR4 production to focus on DDR5 and HBM &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250805/p6#a250805p6)
  - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [White House OSTP Director Michael Kratsios says the US is exploring software or physical methods to track the location of AI chips, as part of AI Action Plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p5#a250805p5)
- - [Sources: Core Scientific&#39;s hedge fund shareholders may reject CoreWeave&#39;s all-stock merger bid, seeking better terms, as CRWV has fallen 30%+ post-announcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p4#a250805p4)<!-- TECH:END -->
+ - [White House OSTP Director Michael Kratsios says the US is exploring software or physical methods to track the location of AI chips, as part of AI Action Plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p5#a250805p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

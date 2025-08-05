@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple rolls out new generative AI assistant for limited testing](https://appleinsider.com/articles/25/08/05/apple-support-gears-up-to-roll-out-generative-ai-assistant?utm_source=rss)
+ - [Apple seeds fifth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/05/apple-seeds-fifth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
+ - [BMX&#39;s new MagSafe battery is ultra-safe, and was made by the old Hyper founders](https://appleinsider.com/articles/25/08/05/bmxs-new-magsafe-battery-is-ultra-safe-and-was-made-by-the-old-hyper-founders?utm_source=rss)
  - [OpenAI releases gpt-oss-120b and gpt-oss-20b, its first open-weight models since GPT-2; the smaller model can run locally on a consumer device with 16GB+ of RAM &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250805/p34#a250805p34)
- - [OpenAI releases a free GPT model that can run right on your laptop](https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release)
- - [Anthropic&#39;s Mike Krieger: Opus 4.1 is better at coding, agentic tasks, and more, and Anthropic was previously too focused on only shipping &quot;really big upgrades&quot; &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250805/p33#a250805p33)
- - [OpenAI Just Released Its First Open-Weight Models Since GPT-2](https://www.wired.com/story/openai-just-released-its-first-open-weight-models-since-gpt-2/)
- - [Sony’s noise-canceling WH-1000XM6 are discounted to their Prime Day low](https://www.theverge.com/tech/718907/sony-wh-1000xm6-skylight-smart-calendar-deal-sale)<!-- TECH:END -->
+ - [OpenAI releases a free GPT model that can run right on your laptop](https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

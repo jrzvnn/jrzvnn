@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filings: SoftBank increased its Nvidia stake to ~$3B in Q1 and bought $330M worth of TSMC stock; a source says Vision Fund monetized ~$2B of assets in H1 2025 &lpar;Min Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/250805/p15#a250805p15)
+ - [Illinois Governor JB Pritzker signed a bill into law on August 1 banning AI use for providing mental health services, while allowing its use in admin roles &lpar;Sophia Fox-Sowell/StateScoop&rpar;](http://www.techmeme.com/250805/p14#a250805p14)
+ - [How Supercomputing Will Evolve, According to Jack Dongarra](https://www.wired.com/story/how-supercomputing-will-evolve-according-to-jack-dongarra-quantum-artificial-intelligence/)
  - [The UK&#39;s Online Safety Act shows the UK prioritized government control over improving safety, becoming a cautionary tale in internet regulation for democracies &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/250805/p13#a250805p13)
- - [Netherlands-based dronemaker Destinus agrees to acquire Zurich-based Daedalean, which develops ML aviation autopilot software, for $223M in cash and stock &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250805/p12#a250805p12)
- - [India&#39;s IT giants face revenue erosion from challenges including corporations establishing their own global capability centers in the country and the rise of AI &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250805/p11#a250805p11)
- - [Uzbek fintech and e-commerce company Uzum raised $65.5M led by Tencent and VR Capital at a ~$1.5B valuation, up from $1.16B in March 2024 after a $114M Series A &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250805/p10#a250805p10)
- - [Users say AI notetaking tools for meetings can misinterpret context when generating summaries or share content meant for a select audience with all participants &lpar;Ann-Marie Alcántara/Wall Street Journal&rpar;](http://www.techmeme.com/250805/p9#a250805p9)<!-- TECH:END -->
+ - [Netherlands-based dronemaker Destinus agrees to acquire Zurich-based Daedalean, which develops ML aviation autopilot software, for $223M in cash and stock &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250805/p12#a250805p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

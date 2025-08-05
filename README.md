@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind releases its Genie 3 model, which can generate 3D worlds from a prompt and has enough visual memory for a few minutes of continuous interaction &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250805/p29#a250805p29)
  - [Chevy Silverado EV smashes world record for longest drive on a single charge](https://www.theverge.com/news/718442/chevy-silverado-ev-longest-drive-single-charge-record)
  - [Google’s new AI model creates video game worlds in real time](https://www.theverge.com/news/718723/google-ai-genie-3-model-video-game-worlds-real-time)
  - [Cisco Talos finds a flaw in the Broadcom BCM5820X chip used in Dell&#39;s ControlVault security firmware, affecting 100+ laptop models; Dell issued patches in 2025 &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/250805/p28#a250805p28)
- - [Roku launches Howdy, an ad-free streaming service for $2.99 per month, initially only on Roku devices, with content from Lionsgate, WBD, FilmRise, and more &lpar;Kelly Lawler/USA Today&rpar;](http://www.techmeme.com/250805/p27#a250805p27)
- - [Google&amp;#8217;s Pixel 10 Pro Fold might not go on sale until October](https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october)<!-- TECH:END -->
+ - [Roku launches Howdy, an ad-free streaming service for $2.99 per month, initially only on Roku devices, with content from Lionsgate, WBD, FilmRise, and more &lpar;Kelly Lawler/USA Today&rpar;](http://www.techmeme.com/250805/p27#a250805p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

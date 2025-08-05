@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think we can all agree on this](https://www.reddit.com/r/funny/comments/1mijfcm/i_think_we_can_all_agree_on_this/)
- - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 👉 [Thats a good day.](http://9gag.com/gag/aoyDW3A)<!-- MEMES:END -->
+ - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 💣 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
+ - 😝 [Wisdom who have lived truly understand.](http://9gag.com/gag/a87zAdd)
+ - 👉 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)<!-- MEMES:END -->
 
 ---
 

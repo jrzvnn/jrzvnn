@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini can now create AI-generated bedtime stories](https://www.theverge.com/news/719184/google-gemini-ai-storybook-bedtime-stories)
- - [Florida sues some of the biggest porn platforms, accusing them of not complying with the state&#39;s age verification law &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250805/p35#a250805p35)
- - [Apple Support&#39;s new generative AI assistant is being tested by a small audience](https://appleinsider.com/articles/25/08/05/apple-support-gears-up-to-roll-out-generative-ai-assistant?utm_source=rss)
- - [Apple seeds fifth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/05/apple-seeds-fifth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
- - [BMX&#39;s new MagSafe battery is ultra-safe, and was made by the old Hyper founders](https://appleinsider.com/articles/25/08/05/bmxs-new-magsafe-battery-is-ultra-safe-and-was-made-by-the-old-hyper-founders?utm_source=rss)<!-- TECH:END -->
+ - [Newsletter service Ghost says publishers have earned $100M+ on it, its annual revenue is $8.5M+, it now supports ActivityPub, and is upping new member pricing &lpar;Neel Dhanesha/Nieman Lab&rpar;](http://www.techmeme.com/250805/p37#a250805p37)
+ - [Amazon’s Starlink Alternative Is Coming to Australia Next Summer](https://www.cnet.com/home/internet/amazons-starlink-alternative-is-coming-to-australia-next-summer/#ftag=CAD590a51e)
+ - [Play Assassin&#39;s Creed, Aliens and More on Xbox Game Pass Soon](https://www.cnet.com/tech/gaming/play-assassins-creed-aliens-and-more-on-xbox-game-pass-soon/#ftag=CAD590a51e)
+ - [The Gemini mobile app now lets users create &quot;personalized, illustrated storybooks complete with read-aloud narration&quot; that can incorporate uploaded photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250805/p36#a250805p36)
+ - [Some Sonos first-gen Roam speakers are overheating and melting](https://appleinsider.com/articles/25/08/05/some-sonos-first-gen-roam-speakers-are-overheating-and-melting?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

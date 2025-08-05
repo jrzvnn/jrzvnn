@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s IT giants face revenue erosion from challenges including corporations establishing their own global capability centers in the country and the rise of AI &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250805/p11#a250805p11)
+ - [Uzbek fintech and e-commerce company Uzum raised $65.5M led by Tencent and VR Capital at a ~$1.5B valuation, up from $1.16B in March 2024 after a $114M Series A &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250805/p10#a250805p10)
+ - [Users say AI notetaking tools for meetings can misinterpret context when generating summaries or share content meant for a select audience with all participants &lpar;Ann-Marie Alcántara/Wall Street Journal&rpar;](http://www.techmeme.com/250805/p9#a250805p9)
  - [Shareholder letter: Reddit cites Profound&#39;s analysis showing it is the most cited domain across AI models, ahead of Wikipedia, YouTube, Forbes, and others &lpar;Alice Brooker/Press Gazette&rpar;](http://www.techmeme.com/250805/p8#a250805p8)
- - [As Delta experiments with AI-driven pricing, regulators and travelers alike worry about dynamic fare schemes that &quot;go beyond the human cognitive limits&quot; &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250805/p7#a250805p7)
- - [DRAM prices remain high after doubling from May 2025 to June 2025, amid speculation that China&#39;s CXMT may have halted DDR4 production to focus on DDR5 and HBM &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250805/p6#a250805p6)
- - [Samsung Promo Codes: 30% Off | August 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [White House OSTP Director Michael Kratsios says the US is exploring software or physical methods to track the location of AI chips, as part of AI Action Plan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p5#a250805p5)<!-- TECH:END -->
+ - [As Delta experiments with AI-driven pricing, regulators and travelers alike worry about dynamic fare schemes that &quot;go beyond the human cognitive limits&quot; &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/250805/p7#a250805p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

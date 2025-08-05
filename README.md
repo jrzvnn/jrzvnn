@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 💣 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 😝 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)
- - 👉 [Thank you Ozzy and Sharon.](http://9gag.com/gag/a34nZAN)<!-- MEMES:END -->
+ - 😝 [Vietnam vet fires an MG43 again, 60 years later](http://9gag.com/gag/a87z1v3)
+ - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
+ - 😝 [Wow, this was much more difficult than the Normandy landings or the Battle of the Bulge](http://9gag.com/gag/an7VgdL)
+ - 👉 [Say thank you to Gabe Newell. No this isn&#39;t AI. He did actually say this.](http://9gag.com/gag/aZZvrG0)<!-- MEMES:END -->
 
 ---
 

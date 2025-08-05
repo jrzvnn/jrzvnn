@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hungryroot Coupon Codes: 30% Off in August 2025](https://www.wired.com/story/hungryroot-promo-code/)
- - [Sources: TSMC fires several employees for violating rules related to obtaining sensitive info on 2nm chip tech; TSMC says it detected &quot;unauthorized activities&quot; &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250805/p3#a250805p3)
- - [Source: Reflection AI, founded by ex-Google researchers and maker of the AI agent Asimov, has raised most of the $1B+ it is seeking to develop open-source LLMs &lpar;The Information&rpar;](http://www.techmeme.com/250805/p2#a250805p2)
- - [The parents of a Parkland shooting victim created an AI version of their son to speak about gun safety, starting with an interview with journalist Jim Acosta &lpar;Jon Blistein/Rolling Stone&rpar;](http://www.techmeme.com/250805/p1#a250805p1)
- - [The CFTC is asking for public comment by August 18 about trading spot crypto asset contracts listed on CFTC-registered futures exchanges &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250804/p38#a250804p38)<!-- TECH:END -->
+ - [Sources: Core Scientific&#39;s hedge fund shareholders may reject CoreWeave&#39;s all-stock merger bid, seeking better terms, as CRWV has fallen 30%+ post-announcement &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p4#a250805p4)
+ - [HP Coupon Codes and Deals: Up to 60% Off | August 2025](https://www.wired.com/story/hp-coupon-code/)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+ - [HelloFresh Coupon Codes: 55% Off + Free Meals - August 2025](https://www.wired.com/story/hellofresh-coupon/)
+ - [Hungryroot Coupon Codes: 30% Off in August 2025](https://www.wired.com/story/hungryroot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

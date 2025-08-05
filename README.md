@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Coinbase adds Embedded Wallets to its mobile SDK, allowing devs to integrate wallets into their apps with minimal code, with support for on-ramps and swaps &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/250805/p38#a250805p38)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Apple Watch Ultra 3 may get a very slightly larger display](https://appleinsider.com/articles/25/08/05/apple-watch-ultra-3-may-get-a-very-slightly-larger-display?utm_source=rss)
- - [Roku&#39;s new Howdy streaming service offers ad-free streaming for $2.99](https://appleinsider.com/articles/25/08/05/rokus-new-howdy-streaming-service-offers-ad-free-streaming-for-299?utm_source=rss)
- - [Newsletter service Ghost says publishers have earned $100M+ on it, its annual revenue is $8.5M+, it now supports ActivityPub, and is upping new member pricing &lpar;Neel Dhanesha/Nieman Lab&rpar;](http://www.techmeme.com/250805/p37#a250805p37)<!-- TECH:END -->
+ - [You May Soon Be Able to Chat on WhatsApp Even Without an Account](https://www.cnet.com/tech/services-and-software/you-may-soon-be-able-to-chat-on-whatsapp-even-without-an-account/#ftag=CAD590a51e)
+ - [Here&#39;s How to Watch the Original The Naked Gun Movies in Order](https://www.cnet.com/tech/services-and-software/how-to-watch-the-naked-gun-series/#ftag=CAD590a51e)
+ - [Apple Watch Ultra 3 may get a very slightly larger display](https://appleinsider.com/articles/25/08/05/apple-watch-ultra-3-may-get-a-very-slightly-larger-display?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

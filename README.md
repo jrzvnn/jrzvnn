@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roku is launching a cheap, ad-free subscription service of its own](https://www.theverge.com/tv/718894/roku-howdy-subscription-service)
+ - [Fox One will cost $19.99 per month when it arrives before NFL kickoff](https://www.theverge.com/news/718928/fox-one-streaming-service-price-launch-date-availablity)
+ - [Democrats ask how Trump&amp;#8217;s government will regulate Trump Mobile](https://www.theverge.com/policy/718880/trump-mobile-letter-democrats-regulators)
  - [New research shows how Apple Vision Pro could watch how you breathe to help with mindfulness](https://appleinsider.com/articles/25/08/05/new-research-shows-how-apple-vision-pro-could-watch-how-you-breathe-to-help-with-mindfulness?utm_source=rss)
- - [Apple Support gears up to roll out generative AI assistant](https://appleinsider.com/articles/25/08/05/apple-support-gears-up-to-roll-out-generative-ai-assistant?utm_source=rss)
- - [Google DeepMind releases its Genie 3 model, which can generate 3D worlds from a prompt and has enough visual memory for a few minutes of continuous interaction &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250805/p29#a250805p29)
- - [Chevy Silverado EV smashes world record for longest drive on a single charge](https://www.theverge.com/news/718442/chevy-silverado-ev-longest-drive-single-charge-record)
- - [Google’s new AI model creates video game worlds in real time](https://www.theverge.com/news/718723/google-ai-genie-3-model-video-game-worlds-real-time)<!-- TECH:END -->
+ - [Apple Support gears up to roll out generative AI assistant](https://appleinsider.com/articles/25/08/05/apple-support-gears-up-to-roll-out-generative-ai-assistant?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

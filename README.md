@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 launch date may have been leaked by German wireless carriers](https://appleinsider.com/articles/25/08/05/iphone-17-launch-date-may-have-been-leaked-by-german-wireless-carriers?utm_source=rss)
+ - [Sources: Intel&#39;s 18A process is facing significant yield challenges, with only ~5% of chips meeting its specifications in late 2024 and ~10% by summer 2025 &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p21#a250805p21)
  - [Source: Alibaba&#39;s supermarket chain Hema plans to gradually wind down the last of its Costco-like members-only stores in China in a bid to improve profitability &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p20#a250805p20)
  - [A draft White House EO shows President Trump plans to step up pressure against big banks over alleged discrimination against crypto companies and conservatives &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250805/p19#a250805p19)
- - [14 Best Beauty Box Subscriptions, Tested for Months &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)
- - [Israeli quantum computing startup QuamCore raised a $26M Series A led by Sentinel, taking its total funding to $35M, and plans to move into chip fabrication &lpar;Globes&rpar;](http://www.techmeme.com/250805/p18#a250805p18)
- - [xAI&amp;#8217;s new Grok image and video generator has a &amp;#8216;spicy&amp;#8217; mode](https://www.theverge.com/news/718795/xai-grok-imagine-video-generator-spicy-mode)<!-- TECH:END -->
+ - [14 Best Beauty Box Subscriptions, Tested for Months &lpar;2025&rpar;](https://www.wired.com/gallery/best-beauty-subscription-boxes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

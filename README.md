@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Ultra 3 may get a very slightly larger display](https://appleinsider.com/articles/25/08/05/apple-watch-ultra-3-may-get-a-very-slightly-larger-display?utm_source=rss)
  - [Roku&#39;s new Howdy streaming service offers ad-free streaming for $2.99](https://appleinsider.com/articles/25/08/05/rokus-new-howdy-streaming-service-offers-ad-free-streaming-for-299?utm_source=rss)
  - [Newsletter service Ghost says publishers have earned $100M+ on it, its annual revenue is $8.5M+, it now supports ActivityPub, and is upping new member pricing &lpar;Neel Dhanesha/Nieman Lab&rpar;](http://www.techmeme.com/250805/p37#a250805p37)
  - [Amazon’s Starlink Alternative Is Coming to Australia Next Summer](https://www.cnet.com/home/internet/amazons-starlink-alternative-is-coming-to-australia-next-summer/#ftag=CAD590a51e)
- - [Play Assassin&#39;s Creed, Aliens and More on Xbox Game Pass Soon](https://www.cnet.com/tech/gaming/play-assassins-creed-aliens-and-more-on-xbox-game-pass-soon/#ftag=CAD590a51e)
- - [The Gemini mobile app now lets users create &quot;personalized, illustrated storybooks complete with read-aloud narration&quot; that can incorporate uploaded photos &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250805/p36#a250805p36)<!-- TECH:END -->
+ - [Play Assassin&#39;s Creed, Aliens and More on Xbox Game Pass Soon](https://www.cnet.com/tech/gaming/play-assassins-creed-aliens-and-more-on-xbox-game-pass-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

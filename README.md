@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp adds a new &quot;safety overview&quot; that appears in new group chats, including info on the group and when it was created, to help protect users from scams &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250805/p32#a250805p32)
+ - [Anthropic releases Claude Opus 4.1 to paid Claude users, in Claude Code, via its API, and more, featuring broad improvements over Opus 4 for the same cost &lpar;Anthropic&rpar;](http://www.techmeme.com/250805/p31#a250805p31)
+ - [This retro camcorder upgrades Super 8 film cameras with modern conveniences](https://www.theverge.com/news/719103/camp-snap-cs8-digital-kodak-super-8-film-camer)
  - [Grok’s &amp;#8216;spicy&amp;#8217; video setting instantly made me Taylor Swift nude deepfakes](https://www.theverge.com/report/718975/xai-grok-imagine-taylor-swifty-deepfake-nudes)
- - [US DOT Secretary Sean Duffy proposes a rule change to let commercial drones fly beyond an operator&#39;s line of sight, a boon for Walmart and Alphabet&#39;s Wing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p30#a250805p30)
- - [Google’s Pixel 9A is cheaper than ever right now](https://www.theverge.com/tech/718974/google-pixel-9a-deal-sale)
- - [Claude Fans Threw a Funeral for Anthropic’s Retired AI Model](https://www.wired.com/story/claude-3-sonnet-funeral-san-francisco/)
- - [WhatsApp will show a ‘safety overview’ before you join unknown group chats](https://www.theverge.com/news/718881/whatsapp-group-chat-scams-safety-overview)<!-- TECH:END -->
+ - [US DOT Secretary Sean Duffy proposes a rule change to let commercial drones fly beyond an operator&#39;s line of sight, a boon for Walmart and Alphabet&#39;s Wing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250805/p30#a250805p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

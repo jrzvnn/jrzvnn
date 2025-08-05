@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Broadcom unveils a new version of its Jericho networking chip, which can connect 1M+ processors across multiple data centers and handle distances of over 100km &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250804/p33#a250804p33)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [IGN hit by layoffs as parent company Ziff Davis cuts costs](https://www.theverge.com/news/718692/ign-entertainment-layoffs-creators-guild-ziff-davis)
- - [iPhone 17 import tariffs may cost Apple more than expected, as Trump threatens India](https://appleinsider.com/articles/25/08/04/iphone-17-import-tariffs-may-cost-apple-more-than-expected-as-trump-threatens-india?utm_source=rss)<!-- TECH:END -->
+ - [Internal email: Cognition offers buyouts to the ~200 newly acquired Windsurf staff, with Cognition CEO Scott Wu writing &quot;we don&#39;t believe in work-life balance&quot; &lpar;The Information&rpar;](http://www.techmeme.com/250804/p37#a250804p37)
+ - [A term sheet shows Ant will sell its remaining 5.84% Paytm stake via block deals that could total ~$433.72M; Ant sold a 4% stake in May and 10.3% in August 2023 &lpar;Ananta Agarwal/Reuters&rpar;](http://www.techmeme.com/250804/p36#a250804p36)
+ - [Apple Pencil USB-C drops to all-time best $49.99 with coupon](https://appleinsider.com/articles/25/08/05/apple-pencil-usb-c-drops-to-all-time-best-4999-with-coupon?utm_source=rss)
+ - [Google agrees with two power utilities to pause non-essential AI workloads during peak demand or adverse weather events that reduce supply &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/250804/p35#a250804p35)
+ - [Perplexity defensive over ignoring robots.txt and stealing data](https://appleinsider.com/articles/25/08/05/perplexity-defensive-over-ignoring-robotstxt-and-stealing-data?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 😝 [Boy meets world](http://9gag.com/gag/aVvBxnO)
- - 💣 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
  - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [Sundress effect](http://9gag.com/gag/aVvBbGK)<!-- MEMES:END -->
+ - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 💣 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 😝 [Not a single move wasted](http://9gag.com/gag/aoyDyQA)
+ - 👉 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)<!-- MEMES:END -->
 
 ---
 

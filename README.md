@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ASS................................................... &lpar;k!&rpar;](http://9gag.com/gag/aMVy4wX)
- - 😝 [This is former world no 1, Simona Halep. She ranked 350 with the rack, world champ after she downsized it](http://9gag.com/gag/aPAnZmq)
- - 💣 [Blatant abuse of power!](http://9gag.com/gag/aoyDg1x)
- - 😝 [Newport City Here I come!](http://9gag.com/gag/aqyAG4Y)
+ - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 💣 [I heard someone was looking for a 20ft snake](http://9gag.com/gag/amonA9v)
+ - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
  - 👉 [Cardinal sin](http://9gag.com/gag/ayNP9eM)<!-- MEMES:END -->
 
 ---

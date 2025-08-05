@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finish him](http://9gag.com/gag/awyvz6W)
- - 😝 [The mummy, 24 years later](http://9gag.com/gag/a2vGK8e)
- - 💣 [F**k off Rebecca](http://9gag.com/gag/a6Z8qwb)
+ - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 💣 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
  - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
- - 👉 [How to be pro at golf](http://9gag.com/gag/aAyZGLR)<!-- MEMES:END -->
+ - 👉 [Wow, this was much more difficult than the Normandy landings or the Battle of the Bulge](http://9gag.com/gag/an7VgdL)<!-- MEMES:END -->
 
 ---
 

@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 😝 [Fantastic Fourplay](http://9gag.com/gag/ajPyPY8)
  - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 😝 [Luck favors the prepared!](http://9gag.com/gag/ayNPNvY)
- - 👉 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)<!-- MEMES:END -->
+ - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 👉 [Found a zero-day exploit](http://9gag.com/gag/a87z1ZY)<!-- MEMES:END -->
 
 ---
 

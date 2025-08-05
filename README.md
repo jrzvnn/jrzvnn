@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chevy Silverado EV smashes world record for longest drive on a single charge](https://www.theverge.com/news/718442/chevy-silverado-ev-longest-drive-single-charge-record)
+ - [Google’s new AI model creates video game worlds in real time](https://www.theverge.com/news/718723/google-ai-genie-3-model-video-game-worlds-real-time)
+ - [Cisco Talos finds a flaw in the Broadcom BCM5820X chip used in Dell&#39;s ControlVault security firmware, affecting 100+ laptop models; Dell issued patches in 2025 &lpar;A.J. Vicens/Reuters&rpar;](http://www.techmeme.com/250805/p28#a250805p28)
  - [Roku launches Howdy, an ad-free streaming service for $2.99 per month, initially only on Roku devices, with content from Lionsgate, WBD, FilmRise, and more &lpar;Kelly Lawler/USA Today&rpar;](http://www.techmeme.com/250805/p27#a250805p27)
- - [Google&amp;#8217;s Pixel 10 Pro Fold might not go on sale until October](https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october)
- - [Patreon CEO Jack Conte says the platform paid out $10B+ to creators since its 2013 founding, creators now get $2B+ annually, and there are 25M+ paid memberships &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250805/p26#a250805p26)
- - [The Best Samsung Galaxy S25 Cases &lpar;2025&rpar;: S25, S25+, S25 Ultra, and S25 Edge](https://www.wired.com/gallery/best-samsung-galaxy-s25-cases-and-accessories/)
- - [Online shopping is full of copycats](https://www.theverge.com/news/714572/dupes-blogilates-cassey-ho-fast-fashion-fabscrap)<!-- TECH:END -->
+ - [Google&amp;#8217;s Pixel 10 Pro Fold might not go on sale until October](https://www.theverge.com/news/718845/google-pixel-10-pro-fold-release-date-delay-october)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartsheet says Mark Mader will retire as CEO and from the board of directors at the end of September, and names Apptio co-founder Sunny Gupta as acting CEO &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250806/p30#a250806p30)
- - [I tested Grok’s Valentine sex chatbot and it &lpar;mostly&rpar; behaved](https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test)
- - [Google swears it isn’t destroying the web with AI search](https://www.theverge.com/news/720069/google-ai-overviews-search-web-traffic-stable)
- - [Google says total organic click volume from Search to websites has been &quot;relatively stable&quot; YoY and it&#39;s sending &quot;slightly more quality clicks&quot; than a year ago &lpar;Liz Reid/The Keyword&rpar;](http://www.techmeme.com/250806/p29#a250806p29)
- - [A US jury finds Tornado Cash co-founder Roman Storm guilty of conspiring to run an unlicensed money-transfer operation that laundered $1B+ via Tornado Cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p28#a250806p28)<!-- TECH:END -->
+ - [The NHTSA certifies Amazon&#39;s Zoox self-driving vehicles for demonstration use and closes a probe from 2022 into whether they complied with federal requirements &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250806/p31#a250806p31)
+ - [The Jurassic Park islands and dinos are coming to Microsoft Flight Simulator 2024](https://www.theverge.com/news/720070/orbx-universal-jurassic-world-park-dinosaurs-microsoft-flight-simulator-2-024)
+ - [OpenAI teases GPT-5 launch event this Thursday](https://www.theverge.com/news/720114/openai-gpt-5-launch-event-tease)
+ - [Inside the Biden Administration’s Unpublished Report on AI Safety](https://www.wired.com/story/inside-the-biden-administrations-unpublished-report-on-ai-safety/)
+ - [Smartsheet says Mark Mader will retire as CEO and from the board of directors at the end of September, and names Apptio co-founder Sunny Gupta as acting CEO &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250806/p30#a250806p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

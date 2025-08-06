@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Made-in-America iPhone not happening anytime soon &amp; Trump seems okay with that](https://appleinsider.com/articles/25/08/06/made-in-america-iphone-not-happening-anytime-soon-trump-seems-okay-with-that?utm_source=rss)
  - [Sonos confirms tariffs will increase its prices this year](https://www.theverge.com/news/739106/sonos-price-hike-tariffs)
  - [Rillet, which is building AI ledger software to automate accounting tasks, raised a $70M Series B co-led by a16z and Iconiq, a source says at a ~$500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250806/p41#a250806p41)
  - [A Single Poisoned Document Could Leak ‘Secret’ Data Via ChatGPT](https://www.wired.com/story/poisoned-document-could-leak-secret-data-chatgpt/)
- - [Trump Media says it is beta testing Truth Search AI, a new search feature powered by Perplexity, on the web version of Truth Social &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250806/p40#a250806p40)
- - [Apple exempt from 100% semiconductor tariffs, thanks to its $100B U.S. investment](https://appleinsider.com/articles/25/08/06/apple-exempt-from-100-semiconductor-tariffs-thanks-to-its-100b-us-investment?utm_source=rss)<!-- TECH:END -->
+ - [Trump Media says it is beta testing Truth Search AI, a new search feature powered by Perplexity, on the web version of Truth Social &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/250806/p40#a250806p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

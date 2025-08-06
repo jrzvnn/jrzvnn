@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250806/p3#a250806p3)
+ - [Earth Is Spinning Weirdly Faster, Making Tuesday One of the Shortest Days Ever](https://www.cnet.com/science/earth-is-spinning-weirdly-faster-making-today-one-of-the-shortest-days-ever/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-6/#ftag=CAD590a51e)
  - [Latin American e-commerce giant MercadoLibre reports Q2 net revenue up 34% YoY to $6.8B, vs. $6.7B est., net income down 1.5% YoY to $523M, vs. $596M est. &lpar;Andre Romani/Reuters&rpar;](http://www.techmeme.com/250806/p2#a250806p2)
- - [The &quot;spicy&quot; option on Grok&#39;s new generative AI video tool Imagine produces nude deepfakes of celebrities like Taylor Swift, even without explicit user prompting &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250806/p1#a250806p1)
- - [AMD Q2: data center revenue up 14% YoY to $3.2B, as CEO Lisa Su says AI chip revenue fell YoY due to US export curbs on China and the transition to MI350 chips &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p53#a250805p53)
- - [Sources: China held talks about merging a group of chip equipment makers into a national champion but faced pushback over ownership structure and valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p52#a250805p52)
- - [A federal judge struck down a California law blocking large platforms from hosting deceptive AI-generated content related to elections, citing Section 230 &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250805/p51#a250805p51)<!-- TECH:END -->
+ - [The &quot;spicy&quot; option on Grok&#39;s new generative AI video tool Imagine produces nude deepfakes of celebrities like Taylor Swift, even without explicit user prompting &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250806/p1#a250806p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

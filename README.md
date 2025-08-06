@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
- - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 💣 [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 😝 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
- - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
+ - 😝 [I can watch this all day](http://9gag.com/gag/aO8GeY2)
+ - 😝 [Then the tow truck arrives...](http://9gag.com/gag/aoyDW90)
+ - 💣 [Father](http://9gag.com/gag/aND3910)
+ - 😝 [Sounds about right](http://9gag.com/gag/aryzWqX)
+ - 👉 [Cossacks: European Wars](http://9gag.com/gag/a7oAOZ2)<!-- MEMES:END -->
 
 ---
 

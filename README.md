@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 😝 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
- - 👉 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)<!-- MEMES:END -->
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 😝 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
+ - 💣 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 😝 [Please don&#39;t stop the fun and craziness](http://9gag.com/gag/agmjQXv)
+ - 👉 [Cossacks: European Wars](http://9gag.com/gag/a7oAOZ2)<!-- MEMES:END -->
 
 ---
 

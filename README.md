@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smartsheet says Mark Mader will retire as CEO and from the board of directors at the end of September, and names Apptio co-founder Sunny Gupta as acting CEO &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250806/p30#a250806p30)
  - [I tested Grok’s Valentine sex chatbot and it &lpar;mostly&rpar; behaved](https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test)
  - [Google swears it isn’t destroying the web with AI search](https://www.theverge.com/news/720069/google-ai-overviews-search-web-traffic-stable)
  - [Google says total organic click volume from Search to websites has been &quot;relatively stable&quot; YoY and it&#39;s sending &quot;slightly more quality clicks&quot; than a year ago &lpar;Liz Reid/The Keyword&rpar;](http://www.techmeme.com/250806/p29#a250806p29)
- - [A US jury finds Tornado Cash co-founder Roman Storm guilty of conspiring to run an unlicensed money-transfer operation that laundered $1B+ via Tornado Cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p28#a250806p28)
- - [Google unveils a Guided Learning mode within its Gemini chatbot to help students and commits $1B over three years to AI education and training efforts in the US &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/250806/p27#a250806p27)<!-- TECH:END -->
+ - [A US jury finds Tornado Cash co-founder Roman Storm guilty of conspiring to run an unlicensed money-transfer operation that laundered $1B+ via Tornado Cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p28#a250806p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

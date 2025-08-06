@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can watch this all day](http://9gag.com/gag/aO8GeY2)
- - 😝 [Sounds about right](http://9gag.com/gag/aryzWqX)
- - 💣 [Father](http://9gag.com/gag/aND3910)
- - 😝 [Cossacks: European Wars](http://9gag.com/gag/a7oAOZ2)
- - 👉 [Thats a good day.](http://9gag.com/gag/aoyDW3A)<!-- MEMES:END -->
+ - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
 
 ---
 

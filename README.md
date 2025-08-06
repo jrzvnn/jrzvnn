@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sundress effect](http://9gag.com/gag/aVvBbGK)
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 💣 [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
+ - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
+ - 😝 [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
+ - 💣 [Sundress effect](http://9gag.com/gag/aVvBbGK)
  - 😝 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)<!-- MEMES:END -->
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
  - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
+ - 😝 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
+ - 💣 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
+ - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - 👉 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)<!-- MEMES:END -->
 
 ---
 

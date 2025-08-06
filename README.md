@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
+ - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
+ - 💣 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
  - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 💣 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
- - 😝 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)
- - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 😝 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
- - 💣 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
- - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 💣 [He got canned](http://9gag.com/gag/a9yBzYo)
+ - 😝 [Sea Snake vomits moray eel. You&#39;re welcome.](http://9gag.com/gag/aryzWDB)
  - 👉 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)<!-- MEMES:END -->
 
 ---

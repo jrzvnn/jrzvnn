@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boom!](http://9gag.com/gag/a9yB68K)
+ - 😝 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
+ - 😝 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
+ - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
  - 😝 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
- - 💣 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
- - 😝 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)
- - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
+ - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
 
 ---
 

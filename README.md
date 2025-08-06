@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
  - 😝 [The secret ingredient\u2026 is crime. What the hell was she thinking?](http://9gag.com/gag/aPAnAZK)
- - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 💣 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
+ - 💣 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
  - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
  - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 

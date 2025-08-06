@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 😝 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
- - 👉 [Well f@ck....](http://9gag.com/gag/aZZvZP0)<!-- MEMES:END -->
+ - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
+ - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
 
 ---
 

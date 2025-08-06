@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 😝 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 💣 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
- - 😝 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)
- - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
+ - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
+ - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
 
 ---
 

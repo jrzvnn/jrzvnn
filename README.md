@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Palantir won over US lawmakers, leveraging geopolitical crises, technological trends, and DC connections, as CEO Alex Karp adopts a persona not unlike Trump &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p12#a250806p12)
+ - [The History and Physics of the Atomic Bomb](https://www.wired.com/story/the-history-and-physics-of-the-atomic-bomb-hiroshima-80th-anniversary/)
+ - [Analyst: China summoning Nvidia over alleged H20 security risks shows it &quot;wants to use the Nvidia case to show China is a buyer, but it won&#39;t be a blind buyer&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p11#a250806p11)
  - [Nvidia says its GPUs do not contain backdoors, kill switches, or spyware, and hard-coded, single-point controls like kill switches undermine trust in US tech &lpar;David Reber Jr/NVIDIA&rpar;](http://www.techmeme.com/250806/p10#a250806p10)
- - [Amazon plans to make OpenAI&#39;s new gpt-oss open-weight models available on Bedrock and SageMaker, the first time it has offered OpenAI&#39;s models to customers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p9#a250806p9)
- - [Lyric, which offers AI-powered supply chain management and forecasting tools, raised a $43.5M Series B led by Insight Partners, taking its total funding to $67M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p8#a250806p8)
- - [Cincinnati-based Pantomath, which automates enterprise data operations using AI, raised a $30M Series B led by General Catalyst, after a $14M Series A in 2023 &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p7#a250806p7)
- - [This Bird App Has Grounded Me in the Present More Than My Meditation Apps](https://www.cnet.com/health/bird-app-grounded-me-present-more-than-meditation-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon plans to make OpenAI&#39;s new gpt-oss open-weight models available on Bedrock and SageMaker, the first time it has offered OpenAI&#39;s models to customers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p9#a250806p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

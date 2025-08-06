@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probably the smartest business deal in history](http://9gag.com/gag/aqyAyRR)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 👉 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)<!-- MEMES:END -->
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 💣 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI video startup Runway is looking to raise ~$500M at a $5B+ pre-money valuation; rival Luma AI aims to raise $1.1B+ at a $3.2B+ pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/250805/p48#a250805p48)
+ - [Samsung Acknowledges Its &#39;Upcoming&#39; Tri-Fold Phone on Earnings Call](https://www.cnet.com/tech/mobile/samsung-acknowledges-its-upcoming-tri-fold-phone-on-earnings-call/#ftag=CAD590a51e)
+ - [Orico MiniTower 2 Bay RAID review: Inexpensive, speed-limited, and fun storage enclosure](https://appleinsider.com/articles/25/08/06/orico-minitower-2-bay-raid-review-inexpensive-speed-limited-and-fun-storage-enclosure?utm_source=rss)
  - [Google is rolling out a fix for Pixel back button issues](https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16)
- - [Linda Yaccarino is named CEO of digital health platform eMed Population Health less than a month after stepping down as CEO of X &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p47#a250805p47)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 6, #317](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-6-317/#ftag=CAD590a51e)
- - [US Coast Guard Report on Titan Submersible Implosion Singles Out OceanGate CEO Stockton Rush](https://www.wired.com/story/us-coast-guard-report-titan-submersible-implosion-oceangate-ceo-stockton-rush/)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
+ - [Linda Yaccarino is named CEO of digital health platform eMed Population Health less than a month after stepping down as CEO of X &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p47#a250805p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

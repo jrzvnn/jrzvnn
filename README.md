@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
+ - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
  - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 💣 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)
- - 😝 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
- - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
+ - 💣 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
+ - 😝 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)
+ - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
 
 ---
 

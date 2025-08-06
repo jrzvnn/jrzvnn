@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash reports Q2 revenue up 25% YoY to $3.28B, vs. $3.16B est., total orders up 20% YoY to 761M, and forecasts Q3 gross order value above estimates &lpar;Juveria Tabassum/Reuters&rpar;](http://www.techmeme.com/250806/p35#a250806p35)
+ - [Airbnb reports Q2 revenue up 13% YoY to $3.1B, vs. $3.03B est., net income of $642M, vs. $599.3M est., Q3 outlook above est., and authorizes a $6B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250806/p34#a250806p34)
  - [Apple&#39;s box office hit &#39;F1 The Movie&#39; races back into IMAX in August](https://appleinsider.com/articles/25/08/06/apples-box-office-hit-f1-the-movie-races-back-into-imax-in-august?utm_source=rss)
  - [AI drug discovery startup Chai Discovery raised a $70M Series A led by Menlo Ventures via its co-investment vehicle with Anthropic, valuing it at ~$550M &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250806/p33#a250806p33)
- - [Apollo Global agrees to acquire a majority stake in Stream Data Centers, which builds, leases, and operates data center campuses, in its first such acquisition &lpar;Laura Benitez/Bloomberg&rpar;](http://www.techmeme.com/250806/p32#a250806p32)
- - [Run ChatGPT-style AI on your Mac with OpenAI&#39;s new offline tools](https://appleinsider.com/articles/25/08/06/run-chatgpt-style-ai-on-your-mac-with-openais-new-offline-tools?utm_source=rss)
- - [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)<!-- TECH:END -->
+ - [Apollo Global agrees to acquire a majority stake in Stream Data Centers, which builds, leases, and operates data center campuses, in its first such acquisition &lpar;Laura Benitez/Bloomberg&rpar;](http://www.techmeme.com/250806/p32#a250806p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

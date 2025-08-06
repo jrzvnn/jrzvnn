@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
+ - [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)
  - [Apple&#39;s $100 billion investment has almost nothing to do with US iPhone manufacturing](https://appleinsider.com/articles/25/08/06/apples-100-billion-investment-has-almost-nothing-to-do-with-us-iphone-manufacturing?utm_source=rss)
  - [Apple commits $2.5B to produce all iPhone and Apple Watch cover glass at Corning&#39;s Kentucky facility, part of its plan to invest $600B in the US over four years &lpar;Apple&rpar;](http://www.techmeme.com/250806/p37#a250806p37)
- - [Google would like you to study with Gemini instead of cheat with it](https://www.theverge.com/news/732182/google-gemini-ai-guided-learning-education)
- - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
- - [Apple announces $100 billion US manufacturing plan after pressure from Donald Trump](https://www.theverge.com/news/719929/apple-100-billion-investment-us-manufacturing-trump)<!-- TECH:END -->
+ - [Google would like you to study with Gemini instead of cheat with it](https://www.theverge.com/news/732182/google-gemini-ai-guided-learning-education)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

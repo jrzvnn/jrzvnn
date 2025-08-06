@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Orico MiniTower 2 Bay RAID review: Inexpensive, speed-limited, and fun storage enclosure](https://appleinsider.com/articles/25/08/06/orico-minitower-2-bay-raid-review-inexpensive-speed-limited-and-fun-storage-enclosure?utm_source=rss)
- - [16 Golden Rules That Business Travelers Swear By](https://www.wired.com/story/golden-rules-of-business-travel/)
- - [Apple expected to announce another $100B U.S. manufacturing investment](https://appleinsider.com/articles/25/08/06/apple-expected-to-announce-another-100b-us-manufacturing-investment?utm_source=rss)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
- - [The Switch OLED went up in price, but you can still save $110](https://www.theverge.com/tech/719765/switch-oled-bundle-mario-kart-8-deal-sale)<!-- TECH:END -->
+ - [The Business Traveler of Today Is Changing—and So Is Their Flight Map](https://www.wired.com/story/business-travel-flight-map/)
+ - [Five men allegedly impersonated FBI agents to pilfer iPhones](https://appleinsider.com/articles/25/08/06/five-men-allegedly-impersonated-fbi-agents-to-pilfer-iphones?utm_source=rss)
+ - [White House official: President Trump plans to announce today that Apple will commit to spending another $100B on US manufacturing; Tim Cook is set to attend &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250806/p23#a250806p23)
+ - [The Extravagant Rise of the Corporate Incentive Trip](https://www.wired.com/story/extravagant-rise-of-the-corporate-incentive-trip/)
+ - [Apple expected to announce another $100B U.S. manufacturing investment](https://appleinsider.com/articles/25/08/06/apple-expected-to-announce-another-100b-us-manufacturing-investment?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

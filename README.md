@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)
- - 😝 [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
- - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
+ - 😝 [Boom!](http://9gag.com/gag/a9yB68K)
+ - 😝 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 💣 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
+ - 😝 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)
+ - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
 
 ---
 

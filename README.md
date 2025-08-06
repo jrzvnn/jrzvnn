@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apollo Global agrees to acquire a majority stake in Stream Data Centers, which builds, leases, and operates data center campuses, in its first such acquisition &lpar;Laura Benitez/Bloomberg&rpar;](http://www.techmeme.com/250806/p32#a250806p32)
  - [Run ChatGPT-style AI on your Mac with OpenAI&#39;s new offline tools](https://appleinsider.com/articles/25/08/06/run-chatgpt-style-ai-on-your-mac-with-openais-new-offline-tools?utm_source=rss)
  - [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)
  - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [The NHTSA certifies Amazon&#39;s Zoox self-driving vehicles for demonstration use and closes a probe from 2022 into whether they complied with federal requirements &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250806/p31#a250806p31)
- - [The Jurassic Park islands and dinos are coming to Microsoft Flight Simulator 2024](https://www.theverge.com/news/720070/orbx-universal-jurassic-world-park-dinosaurs-microsoft-flight-simulator-2-024)<!-- TECH:END -->
+ - [The NHTSA certifies Amazon&#39;s Zoox self-driving vehicles for demonstration use and closes a probe from 2022 into whether they complied with federal requirements &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250806/p31#a250806p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cincinnati-based Pantomath, which automates enterprise data operations using AI, raised a $30M Series B led by General Catalyst, after a $14M Series A in 2023 &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p7#a250806p7)
+ - [OpenMind, which is developing an OS for humanoid robots, raised $20M led by Pantera and unveils FABRIC, a protocol to let robots to share info with one another &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250806/p6#a250806p6)
  - [Court filings: Indian agencies ordered X to remove ~1,400 posts or accounts from March 2024 to June 2025, as X and Modi&#39;s government clash over content rules &lpar;Reuters&rpar;](http://www.techmeme.com/250806/p5#a250806p5)
  - [China plans to allow its first stablecoins in a bid to internationalize the CNY, as policymakers warn that dollar-backed tokens cement USD&#39;s global dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250806/p4#a250806p4)
- - [Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250806/p3#a250806p3)
- - [Earth Is Spinning Weirdly Faster, Making Tuesday One of the Shortest Days Ever](https://www.cnet.com/science/earth-is-spinning-weirdly-faster-making-today-one-of-the-shortest-days-ever/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft unveils Project Ire, a prototype AI system that can reverse engineer and identify malicious software autonomously, without human assistance &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250806/p3#a250806p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

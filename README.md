@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone manufacturing plan hit by Trump doubling tariffs on India](https://appleinsider.com/articles/25/08/06/apples-iphone-manufacturing-plan-hit-by-trump-doubling-tariffs-on-india?utm_source=rss)
+ - [If you&#39;re going to Apple Park in August, you won&#39;t be able to visit the rooftop terrace](https://appleinsider.com/articles/25/08/06/if-youre-going-to-apple-park-in-august-you-wont-be-able-to-visit-the-rooftop-terrace?utm_source=rss)
+ - [Sources: Singapore-based used car online marketplace Carro is preparing for a US IPO as soon as 2026, aiming to raise up to $500M at a $3B+ valuation &lpar;Reuters&rpar;](http://www.techmeme.com/250806/p25#a250806p25)
  - [The UK CMA clears Omnicom&#39;s $13B acquisition of Interpublic after launching an investigation into the deal on June 23; the FTC cleared the deal on June 25 &lpar;Ian Walker/Wall Street Journal&rpar;](http://www.techmeme.com/250806/p24#a250806p24)
- - [Incredibly sketchy rumor says Apple will make &#39;Liquid Silicone&#39; iPhone 17 cases](https://appleinsider.com/articles/25/08/06/incredibly-sketchy-rumor-says-apple-will-make-liquid-silicone-iphone-17-cases?utm_source=rss)
- - [Breathwork, Biohacking, and Cryotherapy: New Buzzwords for Modern Business Travelers](https://www.wired.com/story/the-new-wellness-buzzwords-for-modern-business-travelers/)
- - [Trumpworld Knows Epstein Is a Problem. But They Can’t Solve It](https://www.wired.com/story/trumpworld-epstein-problem/)
- - [These Democrats Think the Party Needs AI to Win Elections](https://www.wired.com/story/democrats-midterm-elections-ai/)<!-- TECH:END -->
+ - [Incredibly sketchy rumor says Apple will make &#39;Liquid Silicone&#39; iPhone 17 cases](https://appleinsider.com/articles/25/08/06/incredibly-sketchy-rumor-says-apple-will-make-liquid-silicone-iphone-17-cases?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
  - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 💣 [He got canned](http://9gag.com/gag/a9yBzYo)
- - 😝 [Sea Snake vomits moray eel. You&#39;re welcome.](http://9gag.com/gag/aryzWDB)
- - 👉 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)<!-- MEMES:END -->
+ - 💣 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
 
 ---
 

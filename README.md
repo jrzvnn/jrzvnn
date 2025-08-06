@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
- - 😝 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
- - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
- - 😝 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 😝 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 💣 [Call to regroup](http://9gag.com/gag/aVvBgX8)
+ - 😝 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
  - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
 
 ---

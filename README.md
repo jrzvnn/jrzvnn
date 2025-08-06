@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 😝 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 😝 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
+ - 💣 [Motorboat for safety!!](http://9gag.com/gag/aMVyV31)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
  - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
 
 ---

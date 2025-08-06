@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Canada Post CAUGHT leaving an &#39;Attempted Delivery&#39; card. Didn&#39;t even have the package!](http://9gag.com/gag/a1mwm9R)
  - 😝 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 💣 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 👉 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)<!-- MEMES:END -->
+ - 💣 [R.I.P](http://9gag.com/gag/apR8R0M)
+ - 😝 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
+ - 👉 [Well f@ck....](http://9gag.com/gag/aZZvZP0)<!-- MEMES:END -->
 
 ---
 

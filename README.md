@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI drug discovery startup Chai Discovery raised a $70M Series A led by Menlo Ventures via its co-investment vehicle with Anthropic, valuing it at ~$550M &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250806/p33#a250806p33)
  - [Apollo Global agrees to acquire a majority stake in Stream Data Centers, which builds, leases, and operates data center campuses, in its first such acquisition &lpar;Laura Benitez/Bloomberg&rpar;](http://www.techmeme.com/250806/p32#a250806p32)
  - [Run ChatGPT-style AI on your Mac with OpenAI&#39;s new offline tools](https://appleinsider.com/articles/25/08/06/run-chatgpt-style-ai-on-your-mac-with-openais-new-offline-tools?utm_source=rss)
  - [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [When Will the iPhone 17 Be Released? We&#39;re Running Down the Possibilities](https://www.cnet.com/tech/mobile/when-will-the-iphone-17-be-released-were-running-down-the-possibilities/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

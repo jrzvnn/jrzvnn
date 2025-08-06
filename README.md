@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple exempt from 100% semiconductor tariffs, thanks to its $100B U.S. investment](https://appleinsider.com/articles/25/08/06/apple-exempt-from-100-semiconductor-tariffs-thanks-to-its-100b-us-investment?utm_source=rss)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [Duolingo reports Q2 revenue up 41% YoY to $252.3M, above $240.7M est., raises FY 2025 revenue forecast to $1.01B-$1.02B, above est.; DUOL jumps 14%+ after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250806/p39#a250806p39)
  - [Apple CEO Tim Cook gifts President Trump gold &amp; glass commemorative plaque](https://appleinsider.com/articles/25/08/06/apple-ceo-tim-cook-gifts-president-trump-gold-glass-commemorative-plaque?utm_source=rss)
- - [Trump threatens 100 percent tariff on computer chips with a gigantic loophole](https://www.theverge.com/news/738172/trump-threatens-100-percent-tariff-on-computer-chips-with-a-gigantic-loophole)
- - [President Trump says he will impose a &quot;tariff of approximately 100% on chips and semiconductors&quot;, exempting firms like Apple that &quot;committed to build&quot; in the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p38#a250806p38)
- - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
- - [Apple made a 24k gold and glass statue for Donald Trump](https://www.theverge.com/news/737757/apple-president-donald-trump-ceo-tim-cook-glass-corning)<!-- TECH:END -->
+ - [Trump threatens 100 percent tariff on computer chips with a gigantic loophole](https://www.theverge.com/news/738172/trump-threatens-100-percent-tariff-on-computer-chips-with-a-gigantic-loophole)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

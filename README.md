@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is offering ChatGPT to US federal agencies at a nominal cost of $1 per year, in a bid to boost its adoption after the US GSA approved OpenAI as a vendor &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p21#a250806p21)
+ - [Instagram adds a reposts feed and rips off Snap Maps](https://www.theverge.com/news/719756/instagram-adds-reposts-feed-rips-off-snap-maps)
+ - [Researchers demonstrate a novel Gemini attack using poisoned Google Calendar invites to trigger smart home devices; Google fixed the flaws earlier in 2025 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250806/p20#a250806p20)
  - [Combating Domestic Violent Extremism Is No Longer a FEMA Priority](https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/)
- - [The Best TVs We’ve Reviewed from Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)
- - [AI could turn your town nuclear](https://www.theverge.com/ai-artificial-intelligence/719409/nuclear-energy-uranium-enrichment-ai-data-center-electricity)
- - [White House: Apple set to announce a major investment](https://appleinsider.com/articles/25/08/06/white-house-apple-set-to-announce-a-major-investment?utm_source=rss)
- - [Investigation: Israel&#39;s Unit 8200 built a system to collect millions of mobile phone calls made daily in Gaza and the West Bank using Microsoft&#39;s Azure platform &lpar;The Guardian&rpar;](http://www.techmeme.com/250806/p19#a250806p19)<!-- TECH:END -->
+ - [Hulu Will Go Global and Fully Merge With Disney Plus](https://www.cnet.com/tech/services-and-software/hulu-will-go-global-and-fully-merge-with-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

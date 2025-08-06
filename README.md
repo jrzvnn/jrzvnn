@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
- - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
  - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
+ - 😝 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 😝 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
+ - 👉 [R.I.P](http://9gag.com/gag/apR8R0M)<!-- MEMES:END -->
 
 ---
 

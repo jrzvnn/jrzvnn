@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [August 6, 1997 -- The day Apple and Microsoft made peace](https://appleinsider.com/articles/18/08/06/august-6-1997----the-day-apple-and-microsoft-made-peace?utm_source=rss)
- - [16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
- - [Nvidia rejects US demand for backdoors in AI chips](https://www.theverge.com/news/719697/nvidia-ai-gpu-chips-denies-backdoors-kill-switches-spyware)
- - [Trump claims TSMC will invest $300 billion in Arizona, pledges semiconductor tariff](https://appleinsider.com/articles/25/08/06/trump-claims-tsmc-will-invest-3-billion-in-arizona-pledges-semiconductor-tariff?utm_source=rss)
- - [Uber reports Q2 revenue up 18% YoY to $12.7B, Gross Bookings up 17% YoY to $46.8B, trips up 18% YoY to 3.3B, income up 82% YoY to $1.5B, a $20B share buyback &lpar;Financial Times&rpar;](http://www.techmeme.com/250806/p15#a250806p15)<!-- TECH:END -->
+ - [Disney says it is &quot;fully integrating&quot; Hulu into Disney+ and plans to launch a &quot;unified&quot; Disney+ and Hulu app in 2026 now that it is Hulu&#39;s sole owner &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250806/p18#a250806p18)
+ - [How Much Protein You Really Need, According to the Experts &lpar;2025&rpar;](https://www.wired.com/story/how-much-protein-do-i-need/)
+ - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
+ - [Disney will stop reporting its streaming subscriber numbers](https://www.theverge.com/news/719730/disney-plus-hulu-espn-streaming-subscriber-numbers-members-financial-reports)
+ - [ESPN plans to launch its new flagship streaming service ESPN on August 21 for $29.99 per month or $35.99 per month when bundled with Disney+ and Hulu &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250806/p17#a250806p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

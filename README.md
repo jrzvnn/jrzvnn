@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
  - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
  - 💣 [Boom!](http://9gag.com/gag/a9yB68K)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
+ - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
+ - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
 
 ---
 

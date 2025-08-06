@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Electric Bikes of 2025, Tested and Reviewed: Commuting, Mountain Biking](https://www.wired.com/gallery/best-electric-bikes/)
+ - [Nvidia rejects US demand for backdoors in AI chips](https://www.theverge.com/news/719697/nvidia-ai-gpu-chips-denies-backdoors-kill-switches-spyware)
  - [Trump claims TSMC will invest $300 billion in Arizona, pledges semiconductor tariff](https://appleinsider.com/articles/25/08/06/trump-claims-tsmc-will-invest-3-billion-in-arizona-pledges-semiconductor-tariff?utm_source=rss)
  - [Uber reports Q2 revenue up 18% YoY to $12.7B, Gross Bookings up 17% YoY to $46.8B, trips up 18% YoY to 3.3B, income up 82% YoY to $1.5B, a $20B share buyback &lpar;Financial Times&rpar;](http://www.techmeme.com/250806/p15#a250806p15)
- - [Charter Planes and Bidding Wars: How Bitcoin Miners Raced to Beat Trump’s Tariffs](https://www.wired.com/story/charter-planes-and-bidding-wars-how-bitcoin-miners-raced-to-beat-trumps-tariffs/)
- - [Microsoft makes OpenAI’s new open model available on Windows](https://www.theverge.com/news/719640/microsoft-openai-gpt-oss-open-model-windows-ai-foundry-release)
- - [Court records: from 2017 to 2022, 400,181 US Uber trips had sexual assault and sexual misconduct reports, far exceeding its public disclosure of 12,522 reports &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/250806/p14#a250806p14)<!-- TECH:END -->
+ - [Charter Planes and Bidding Wars: How Bitcoin Miners Raced to Beat Trump’s Tariffs](https://www.wired.com/story/charter-planes-and-bidding-wars-how-bitcoin-miners-raced-to-beat-trumps-tariffs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

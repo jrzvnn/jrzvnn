@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Business Traveler of Today Is Changing—and So Is Their Flight Map](https://www.wired.com/story/business-travel-flight-map/)
- - [Five men allegedly impersonated FBI agents to pilfer iPhones](https://appleinsider.com/articles/25/08/06/five-men-allegedly-impersonated-fbi-agents-to-pilfer-iphones?utm_source=rss)
- - [White House official: President Trump plans to announce today that Apple will commit to spending another $100B on US manufacturing; Tim Cook is set to attend &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250806/p23#a250806p23)
- - [The Extravagant Rise of the Corporate Incentive Trip](https://www.wired.com/story/extravagant-rise-of-the-corporate-incentive-trip/)
- - [Apple expected to announce another $100B U.S. manufacturing investment](https://appleinsider.com/articles/25/08/06/apple-expected-to-announce-another-100b-us-manufacturing-investment?utm_source=rss)<!-- TECH:END -->
+ - [The UK CMA clears Omnicom&#39;s $13B acquisition of Interpublic after launching an investigation into the deal on June 23; the FTC cleared the deal on June 25 &lpar;Ian Walker/Wall Street Journal&rpar;](http://www.techmeme.com/250806/p24#a250806p24)
+ - [Incredibly sketchy rumor says Apple will make &#39;Liquid Silicone&#39; iPhone 17 cases](https://appleinsider.com/articles/25/08/06/incredibly-sketchy-rumor-says-apple-will-make-liquid-silicone-iphone-17-cases?utm_source=rss)
+ - [Breathwork, Biohacking, and Cryotherapy: New Buzzwords for Modern Business Travelers](https://www.wired.com/story/the-new-wellness-buzzwords-for-modern-business-travelers/)
+ - [Trumpworld Knows Epstein Is a Problem. But They Can’t Solve It](https://www.wired.com/story/trumpworld-epstein-problem/)
+ - [These Democrats Think the Party Needs AI to Win Elections](https://www.wired.com/story/democrats-midterm-elections-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

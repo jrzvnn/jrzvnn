@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Palantir won over US lawmakers, leveraging geopolitical crises, technological trends, and DC connections, as CEO Alex Karp adopts a persona not unlike Trump &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p12#a250806p12)
- - [The History and Physics of the Atomic Bomb](https://www.wired.com/story/the-history-and-physics-of-the-atomic-bomb-hiroshima-80th-anniversary/)
- - [Analyst: China summoning Nvidia over alleged H20 security risks shows it &quot;wants to use the Nvidia case to show China is a buyer, but it won&#39;t be a blind buyer&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p11#a250806p11)
- - [Nvidia says its GPUs do not contain backdoors, kill switches, or spyware, and hard-coded, single-point controls like kill switches undermine trust in US tech &lpar;David Reber Jr/NVIDIA&rpar;](http://www.techmeme.com/250806/p10#a250806p10)
- - [Amazon plans to make OpenAI&#39;s new gpt-oss open-weight models available on Bedrock and SageMaker, the first time it has offered OpenAI&#39;s models to customers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p9#a250806p9)<!-- TECH:END -->
+ - [Court records: from 2017 to 2022, 400,181 US Uber trips had sexual assault and sexual misconduct reports, far exceeding its public disclosure of 12,522 reports &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/250806/p14#a250806p14)
+ - [Microsoft’s plan to fix the web with AI has already hit an embarrassing security flaw](https://www.theverge.com/news/719617/microsoft-nlweb-security-flaw-agentic-web)
+ - [Nuclear Experts Say Mixing AI and Nuclear Weapons Is Inevitable](https://www.wired.com/story/nuclear-experts-say-mixing-ai-and-nuclear-weapons-is-inevitable/)
+ - [Microsoft says it paid $17M to 344 security researchers across 59 countries between June 2024 to June 2025 via its bug bounty program; the top reward was $200K &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250806/p13#a250806p13)
+ - [Life After the Atomic Blast, as Told by Hiroshima’s Survivors](https://www.wired.com/story/life-after-the-atomic-blast-as-told-by-hiroshimas-survivors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

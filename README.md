@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - 💣 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
- - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 👉 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)<!-- MEMES:END -->
+ - 😝 [Final Feliz.](http://9gag.com/gag/aO8G4or)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
+ - 💣 [I\u2019m wondering what happened](http://9gag.com/gag/a4PVP8d)
+ - 😝 [Its Morphin time. Black ranger](http://9gag.com/gag/aD2M6WZ)
+ - 👉 [Life is great in LA](http://9gag.com/gag/aQzVgNq)<!-- MEMES:END -->
 
 ---
 

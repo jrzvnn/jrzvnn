@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is offering ChatGPT to US federal agencies at a nominal cost of $1 per year, in a bid to boost its adoption after the US GSA approved OpenAI as a vendor &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p21#a250806p21)
- - [Instagram adds a reposts feed and rips off Snap Maps](https://www.theverge.com/news/719756/instagram-adds-reposts-feed-rips-off-snap-maps)
- - [Researchers demonstrate a novel Gemini attack using poisoned Google Calendar invites to trigger smart home devices; Google fixed the flaws earlier in 2025 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250806/p20#a250806p20)
- - [Combating Domestic Violent Extremism Is No Longer a FEMA Priority](https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/)
- - [Hulu Will Go Global and Fully Merge With Disney Plus](https://www.cnet.com/tech/services-and-software/hulu-will-go-global-and-fully-merge-with-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Orico MiniTower 2 Bay RAID review: Inexpensive, speed-limited, and fun storage enclosure](https://appleinsider.com/articles/25/08/06/orico-minitower-2-bay-raid-review-inexpensive-speed-limited-and-fun-storage-enclosure?utm_source=rss)
+ - [16 Golden Rules That Business Travelers Swear By](https://www.wired.com/story/golden-rules-of-business-travel/)
+ - [Apple expected to announce another $100B U.S. manufacturing investment](https://appleinsider.com/articles/25/08/06/apple-expected-to-announce-another-100b-us-manufacturing-investment?utm_source=rss)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)
+ - [The Switch OLED went up in price, but you can still save $110](https://www.theverge.com/tech/719765/switch-oled-bundle-mario-kart-8-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook will be at the White House for US investment announcement](https://appleinsider.com/articles/25/08/06/tim-cook-will-be-at-the-white-house-for-us-investment-announcement?utm_source=rss)
- - [Microsoft is bringing its Xbox Copilot to the Windows Game Bar](https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Introducing Regulator and The Stepback, our new subscriber-exclusive newsletters](https://www.theverge.com/bulletin/719429/newsletter-regulator-stepback-lowpass-subscriber)
- - [Seasonal average iPhone selling price lull blunted by iPhone 16e release](https://appleinsider.com/articles/25/08/06/seasonal-average-iphone-selling-price-lull-blunted-by-iphone-16e-release?utm_source=rss)<!-- TECH:END -->
+ - [Google unveils a Guided Learning mode within its Gemini chatbot to help students and commits $1B over three years to AI education and training efforts in the US &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/250806/p27#a250806p27)
+ - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
+ - [Bose&amp;#8217;s stylish SoundLink Home speaker is cheaper for the first time in months](https://www.theverge.com/tech/719712/boses-stylish-soundlink-home-speaker-is-cheaper-for-the-first-time-in-months)
+ - [Call of Duty&amp;#8217;s PC anti-cheat will require Secure Boot on Windows](https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7)
+ - [Google launches its asynchronous coding agent Jules out of beta, with a free plan capped at 15 daily tasks and higher limits for Google AI Pro and Ultra users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250806/p26#a250806p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

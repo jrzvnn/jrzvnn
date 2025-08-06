@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Lyric, which offers AI-powered supply chain management and forecasting tools, raised a $43.5M Series B led by Insight Partners, taking its total funding to $67M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p8#a250806p8)
  - [Cincinnati-based Pantomath, which automates enterprise data operations using AI, raised a $30M Series B led by General Catalyst, after a $14M Series A in 2023 &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250806/p7#a250806p7)
+ - [This Bird App Has Grounded Me in the Present More Than My Meditation Apps](https://www.cnet.com/health/bird-app-grounded-me-present-more-than-meditation-apps/#ftag=CAD590a51e)
  - [OpenMind, which is developing an OS for humanoid robots, raised $20M led by Pantera and unveils FABRIC, a protocol to let robots to share info with one another &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250806/p6#a250806p6)
- - [Court filings: Indian agencies ordered X to remove ~1,400 posts or accounts from March 2024 to June 2025, as X and Modi&#39;s government clash over content rules &lpar;Reuters&rpar;](http://www.techmeme.com/250806/p5#a250806p5)
- - [China plans to allow its first stablecoins in a bid to internationalize the CNY, as policymakers warn that dollar-backed tokens cement USD&#39;s global dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250806/p4#a250806p4)<!-- TECH:END -->
+ - [Court filings: Indian agencies ordered X to remove ~1,400 posts or accounts from March 2024 to June 2025, as X and Modi&#39;s government clash over content rules &lpar;Reuters&rpar;](http://www.techmeme.com/250806/p5#a250806p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 💣 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
- - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - 👉 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)<!-- MEMES:END -->
+ - 😝 [Is this an orca documentary?](http://9gag.com/gag/ae9W9dO)
+ - 💣 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 😝 [Boom!](http://9gag.com/gag/a9yB68K)
+ - 👉 [Back on the menu!](http://9gag.com/gag/axy4yn2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: AI video startup Runway is looking to raise ~$500M at a $5B+ pre-money valuation; rival Luma AI aims to raise $1.1B+ at a $3.2B+ pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/250805/p48#a250805p48)
- - [Samsung Acknowledges Its &#39;Upcoming&#39; Tri-Fold Phone on Earnings Call](https://www.cnet.com/tech/mobile/samsung-acknowledges-its-upcoming-tri-fold-phone-on-earnings-call/#ftag=CAD590a51e)
- - [Orico MiniTower 2 Bay RAID review: Inexpensive, speed-limited, and fun storage enclosure](https://appleinsider.com/articles/25/08/06/orico-minitower-2-bay-raid-review-inexpensive-speed-limited-and-fun-storage-enclosure?utm_source=rss)
- - [Google is rolling out a fix for Pixel back button issues](https://www.theverge.com/news/719556/google-pixel-back-button-navigation-gesture-issues-android-16)
- - [Linda Yaccarino is named CEO of digital health platform eMed Population Health less than a month after stepping down as CEO of X &lpar;Reuters&rpar;](http://www.techmeme.com/250805/p47#a250805p47)<!-- TECH:END -->
+ - [Sources: China held talks about merging a group of chip equipment makers into a national champion but faced pushback over ownership structure and valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250805/p52#a250805p52)
+ - [A federal judge struck down a California law blocking large platforms from hosting deceptive AI-generated content related to elections, citing Section 230 &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250805/p51#a250805p51)
+ - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
+ - [The Trump administration is warning states that they risk losing access to broadband funds if they set price caps on low-cost ISP plans &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250805/p50#a250805p50)
+ - [macOS Sonoma &amp; macOS Sequoia get release candidates for future bug fix update](https://appleinsider.com/articles/25/08/06/macos-sonoma-macos-sequoia-get-release-candidates-for-future-bug-fix-update?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

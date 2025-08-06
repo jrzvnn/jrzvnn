@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hee hee](http://9gag.com/gag/aE0EMpx)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/aND3DOb)
- - 💣 [Keep uploading until my 4000](http://9gag.com/gag/awyvy04)
- - 😝 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)
- - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
+ - 😝 [Farmers Spray Sh*t on Illegal Squatters](http://9gag.com/gag/aZZvDEz)
+ - 😝 [Right in the feels](http://9gag.com/gag/a2vGMmO)
+ - 💣 [So I might be dying soon, f**k me right? Thanks for the laughs d*ckheads and see you tomorrow](http://9gag.com/gag/amonA3o)
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 👉 [Please don&#39;t stop the fun and craziness](http://9gag.com/gag/agmjQXv)<!-- MEMES:END -->
 
 ---
 

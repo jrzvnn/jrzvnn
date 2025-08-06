@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple&#39;s existing U.S. manufacturing partners main beneficiaries of new $100B investment](https://appleinsider.com/articles/25/08/06/apples-existing-us-manufacturing-partners-main-beneficiaries-of-new-100b-investment?utm_source=rss)
+ - [Apple announces $100 billion US manufacturing plan after pressure from Donald Trump](https://www.theverge.com/news/719929/apple-100-billion-investment-us-manufacturing-trump)
  - [Lyft reports Q2 revenue up 11% YoY to $1.59B vs. $1.61B est., gross bookings up 12% to $4.5B, rides up 14% to 234.8M vs. 235.9M est.; LYFT drops 6%+ after hours &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/250806/p36#a250806p36)
  - [WB Games’ best PC titles are in this $12 Humble bundle](https://www.theverge.com/tech/720211/humble-bundle-wb-games-deal-sale)
- - [15 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)
- - [DoorDash reports Q2 revenue up 25% YoY to $3.28B, vs. $3.16B est., total orders up 20% YoY to 761M, and forecasts Q3 gross order value above estimates &lpar;Juveria Tabassum/Reuters&rpar;](http://www.techmeme.com/250806/p35#a250806p35)<!-- TECH:END -->
+ - [15 Best Bluetooth Speakers Our Testers Jammed With in 2025](https://www.wired.com/gallery/best-bluetooth-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

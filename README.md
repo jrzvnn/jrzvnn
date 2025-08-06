@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is bringing its Xbox Copilot to the Windows Game Bar](https://www.theverge.com/news/719668/microsoft-xbox-gaming-copilot-windows-game-bar-beta-test)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [Introducing Regulator and The Stepback, our new subscriber-exclusive newsletters](https://www.theverge.com/bulletin/719429/newsletter-regulator-stepback-lowpass-subscriber)
  - [Seasonal average iPhone selling price lull blunted by iPhone 16e release](https://appleinsider.com/articles/25/08/06/seasonal-average-iphone-selling-price-lull-blunted-by-iphone-16e-release?utm_source=rss)
- - [If you&#39;re going to Apple Park in August, you won&#39;t be able to visit the rooftop terrace](https://appleinsider.com/articles/25/08/06/if-youre-going-to-apple-park-in-august-you-wont-be-able-to-visit-the-rooftop-terrace?utm_source=rss)
- - [Welcome to Regulator](https://www.theverge.com/regulator-newsletter/718187/regulator-newsletter-policy-tech-washington)
- - [Welcome to The Stepback, a weekly breakdown of one essential story from across the tech world](https://www.theverge.com/the-stepback-newsletter/718198/stepback-newsletter-tech-news-explainer)<!-- TECH:END -->
+ - [If you&#39;re going to Apple Park in August, you won&#39;t be able to visit the rooftop terrace](https://appleinsider.com/articles/25/08/06/if-youre-going-to-apple-park-in-august-you-wont-be-able-to-visit-the-rooftop-terrace?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

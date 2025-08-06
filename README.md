@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Run ChatGPT-style AI on your Mac with OpenAI&#39;s new offline tools](https://appleinsider.com/articles/25/08/06/run-chatgpt-style-ai-on-your-mac-with-openais-new-offline-tools?utm_source=rss)
  - [Tornado Cash Developer Roman Storm Guilty on One Count in Federal Crypto Case](https://www.wired.com/story/tornado-cash-developer-roman-storm-guilty-on-one-count-in-federal-crypto-case/)
  - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [The NHTSA certifies Amazon&#39;s Zoox self-driving vehicles for demonstration use and closes a probe from 2022 into whether they complied with federal requirements &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250806/p31#a250806p31)<!-- TECH:END -->
+ - [When Will the iPhone 17 Be Released? We&#39;re Running Down the Possibilities](https://www.cnet.com/tech/mobile/when-will-the-iphone-17-be-released-were-running-down-the-possibilities/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

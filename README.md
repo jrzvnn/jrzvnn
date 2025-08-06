@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils a Guided Learning mode within its Gemini chatbot to help students and commits $1B over three years to AI education and training efforts in the US &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/250806/p27#a250806p27)
- - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
- - [Bose&amp;#8217;s stylish SoundLink Home speaker is cheaper for the first time in months](https://www.theverge.com/tech/719712/boses-stylish-soundlink-home-speaker-is-cheaper-for-the-first-time-in-months)
- - [Call of Duty&amp;#8217;s PC anti-cheat will require Secure Boot on Windows](https://www.theverge.com/news/720007/call-of-duty-pc-anti-cheat-secure-boot-windows-black-ops-7)
- - [Google launches its asynchronous coding agent Jules out of beta, with a free plan capped at 15 daily tasks and higher limits for Google AI Pro and Ultra users &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250806/p26#a250806p26)<!-- TECH:END -->
+ - [I tested Grok’s Valentine sex chatbot and it &lpar;mostly&rpar; behaved](https://www.theverge.com/ai-artificial-intelligence/719913/grok-valentine-test)
+ - [Google swears it isn’t destroying the web with AI search](https://www.theverge.com/news/720069/google-ai-overviews-search-web-traffic-stable)
+ - [Google says total organic click volume from Search to websites has been &quot;relatively stable&quot; YoY and it&#39;s sending &quot;slightly more quality clicks&quot; than a year ago &lpar;Liz Reid/The Keyword&rpar;](http://www.techmeme.com/250806/p29#a250806p29)
+ - [A US jury finds Tornado Cash co-founder Roman Storm guilty of conspiring to run an unlicensed money-transfer operation that laundered $1B+ via Tornado Cash &lpar;Bloomberg&rpar;](http://www.techmeme.com/250806/p28#a250806p28)
+ - [Google unveils a Guided Learning mode within its Gemini chatbot to help students and commits $1B over three years to AI education and training efforts in the US &lpar;Mark Sullivan/Fast Company&rpar;](http://www.techmeme.com/250806/p27#a250806p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

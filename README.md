@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Final destination is so unrealistic...](http://9gag.com/gag/a6Z8DLL)
  - 😝 [R.I.P](http://9gag.com/gag/apR8R0M)
- - 😝 [Poor squirtle](http://9gag.com/gag/aE0Eqr9)
- - 💣 [Apparently there are some deleted scenes](http://9gag.com/gag/aGybyK6)
- - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 👉 [Why do his eyes look so disturbing](http://9gag.com/gag/aqyAezZ)<!-- MEMES:END -->
+ - 💣 [Trump be like: \u2018Please, mine was younger , I have standards](http://9gag.com/gag/awyvyz1)
+ - 😝 [Never noticed this cr@zy detail in The Dark Knight Rises &lpar;2012&rpar;\u2026](http://9gag.com/gag/ajPyP9p)
+ - 👉 [Rome has fallen](http://9gag.com/gag/a9yBzPD)<!-- MEMES:END -->
 
 ---
 

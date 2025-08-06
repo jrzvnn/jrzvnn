@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney says it is &quot;fully integrating&quot; Hulu into Disney+ and plans to launch a &quot;unified&quot; Disney+ and Hulu app in 2026 now that it is Hulu&#39;s sole owner &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250806/p18#a250806p18)
- - [How Much Protein You Really Need, According to the Experts &lpar;2025&rpar;](https://www.wired.com/story/how-much-protein-do-i-need/)
- - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
- - [Disney will stop reporting its streaming subscriber numbers](https://www.theverge.com/news/719730/disney-plus-hulu-espn-streaming-subscriber-numbers-members-financial-reports)
- - [ESPN plans to launch its new flagship streaming service ESPN on August 21 for $29.99 per month or $35.99 per month when bundled with Disney+ and Hulu &lpar;Lillian Rizzo/CNBC&rpar;](http://www.techmeme.com/250806/p17#a250806p17)<!-- TECH:END -->
+ - [Combating Domestic Violent Extremism Is No Longer a FEMA Priority](https://www.wired.com/story/extremism-domestic-violence-fema-dhs-priority/)
+ - [The Best TVs We’ve Reviewed from Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)
+ - [AI could turn your town nuclear](https://www.theverge.com/ai-artificial-intelligence/719409/nuclear-energy-uranium-enrichment-ai-data-center-electricity)
+ - [White House: Apple set to announce a major investment](https://appleinsider.com/articles/25/08/06/white-house-apple-set-to-announce-a-major-investment?utm_source=rss)
+ - [Investigation: Israel&#39;s Unit 8200 built a system to collect millions of mobile phone calls made daily in Gaza and the West Bank using Microsoft&#39;s Azure platform &lpar;The Guardian&rpar;](http://www.techmeme.com/250806/p19#a250806p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

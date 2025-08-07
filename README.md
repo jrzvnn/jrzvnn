@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
- - 😝 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
- - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Title](http://9gag.com/gag/aQzVQQd)
- - 👉 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)<!-- MEMES:END -->
+ - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
+ - 😝 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
+ - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 😝 [Evil robot](http://9gag.com/gag/aYQmO8x)
+ - 👉 [This is good](http://9gag.com/gag/a87zmVZ)<!-- MEMES:END -->
 
 ---
 

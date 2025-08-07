@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ummmm..... Not surprising she is this daft.](http://9gag.com/gag/aByoLp2)
- - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
- - 👉 [Final Feliz.](http://9gag.com/gag/aO8G4or)<!-- MEMES:END -->
+ - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
+ - 😝 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
+ - 💣 [Nature is healing](http://9gag.com/gag/ayNP4XW)
+ - 😝 [Went wrong here?](http://9gag.com/gag/amon62X)
+ - 👉 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)<!-- MEMES:END -->
 
 ---
 

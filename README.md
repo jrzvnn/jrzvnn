@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paramount is now a Skydance Corporation](https://www.theverge.com/tv/756298/paramount-plus-skydance-merger-complete-david-ellison)
  - [OpenAI highlights GPT-5 scores on math, coding, and health benchmarks: 94.6% on AIME 2025 without tools, 74.9% on SWE-bench Verified, 46.2% on HealthBench Hard &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250807/p36#a250807p36)
  - [The 35 Best Movies on HBO Max Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [OpenAI releases GPT-5 pro, a version with extended reasoning exclusive to ChatGPT Pro subscribers, saying it scored 88.4% without tools on the GPQA benchmark &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250807/p35#a250807p35)
- - [Samsung Will Reportedly Make iPhone Image Sensors at Texas Facility](https://www.cnet.com/tech/mobile/samsung-will-reportedly-make-iphone-image-sensors-at-texas-facility/#ftag=CAD590a51e)
- - [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)<!-- TECH:END -->
+ - [Samsung Will Reportedly Make iPhone Image Sensors at Texas Facility](https://www.cnet.com/tech/mobile/samsung-will-reportedly-make-iphone-image-sensors-at-texas-facility/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

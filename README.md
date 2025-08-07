@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank reports Q1 net profit of $2.87B, vs. ~$850M est., boosted by its Nvidia investment and says Vision Fund has a &quot;late-stage portfolio valued at $45B&quot; &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250807/p14#a250807p14)
+ - [Sony reports Q1 revenue up 2.2% YoY to $17.8B, net profit up 23% YoY to ~$1.8B, PS5 sales at 2.5M, up from 2.4M in Q1 2024, and expects a lower FY tariff impact &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p13#a250807p13)
  - [AI&#39;s energy demands are driving fossil fuel investment, as energy needs for AI training and data centers are poorly matched with the patterns of solar and wind &lpar;Financial Times&rpar;](http://www.techmeme.com/250807/p12#a250807p12)
  - [Apple&amp;#8217;s mysterious chip tech will help Samsung make iPhone image sensors in Texas](https://www.theverge.com/news/752689/apple-samsung-partnership-image-sensors-texas)
- - [Tokyo Electron says it fired an employee in Taipei and is cooperating with Taiwan&#39;s investigation after Taiwan arrested six people over alleged TSMC IP theft &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250807/p11#a250807p11)
- - [Index Ventures is set to receive $11B+ in proceeds after Figma&#39;s IPO, Google&#39;s Wiz acquisition, and Meta&#39;s investment in Scale AI, which paid out shareholders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p10#a250807p10)
- - [Grinding Your Teeth While Sleeping? Here&#39;s How to Stop Naturally](https://www.cnet.com/health/sleep/grinding-teeth-while-sleeping-how-to-stop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tokyo Electron says it fired an employee in Taipei and is cooperating with Taiwan&#39;s investigation after Taiwan arrested six people over alleged TSMC IP theft &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250807/p11#a250807p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

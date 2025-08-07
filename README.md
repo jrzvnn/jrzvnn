@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Weapons turns our deepest anxieties into a potent horror masterpiece](https://www.theverge.com/movie-reviews/719762/weapons-review)
+ - [Inside Apple Retail: Discover Apple Ginza in Tokyo](https://appleinsider.com/articles/25/08/07/inside-apple-retail-discover-apple-ginza-in-tokyo?utm_source=rss)
+ - [GPT-5 is priced at $1.25/1M input tokens and $10/1M output tokens, GPT-5 mini costs $0.25 and $2, respectively, and GPT-5 nano costs $0.05 and $0.40 &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250807/p32#a250807p32)
  - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Microsoft brings GPT-5 to Copilot with new smart mode](https://www.theverge.com/news/753984/microsoft-copilot-gpt-5-model-update)
- - [OpenAI says GPT-5 is its first &quot;unified&quot; AI model and combines the reasoning abilities of its o-series of models with the fast responses of its GPT series &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250807/p31#a250807p31)
- - [US military finds a good use for Tesla Cybertruck: missile target practice](https://www.theverge.com/news/754739/tesla-cybertruck-us-air-force-target-practice)
- - [OpenAI launches a research preview of four preset personalities for ChatGPT users to better tailor their interactions: Cynic, Robot, Listener, and Nerd &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250807/p30#a250807p30)<!-- TECH:END -->
+ - [Microsoft brings GPT-5 to Copilot with new smart mode](https://www.theverge.com/news/753984/microsoft-copilot-gpt-5-model-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple&amp;#8217;s mysterious chip tech will help Samsung make iPhone image sensors in Texas](https://www.theverge.com/news/752689/apple-samsung-partnership-image-sensors-texas)
  - [Tokyo Electron says it fired an employee in Taipei and is cooperating with Taiwan&#39;s investigation after Taiwan arrested six people over alleged TSMC IP theft &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250807/p11#a250807p11)
  - [Index Ventures is set to receive $11B+ in proceeds after Figma&#39;s IPO, Google&#39;s Wiz acquisition, and Meta&#39;s investment in Scale AI, which paid out shareholders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p10#a250807p10)
- - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)<!-- TECH:END -->
+ - [Grinding Your Teeth While Sleeping? Here&#39;s How to Stop Naturally](https://www.cnet.com/health/sleep/grinding-teeth-while-sleeping-how-to-stop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

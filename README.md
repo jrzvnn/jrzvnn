@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Full Counter Damage](http://9gag.com/gag/awyvmpD)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 💣 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
  - 😝 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
- - 😝 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
- - 💣 [Nature is healing](http://9gag.com/gag/ayNP4XW)
- - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)<!-- MEMES:END -->
+ - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
 
 ---
 

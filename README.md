@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump Is Undermining Trust in Official Economic Statistics. China Shows Where That Path Can Lead](https://www.wired.com/story/trump-labor-statistics-china-comparison-gdp-unemployment/)
- - [Peloton pivots to wellness alongside another layoff](https://www.theverge.com/news/754154/peloton-q4-2025-earnings-layoffs-wellness-price)
- - [Framework Desktop Review: A Delightful Surprise](https://www.wired.com/review/framework-desktop/)
- - [The Framework Desktop made me fall for small form factor PCs](https://www.theverge.com/reviews/749404/framework-desktop-pc-amd-ryzen-ai-max-385-395-plus-review)
- - [Trump’s endless new tariffs are threatening businesses — and you](https://www.theverge.com/policy/754356/trump-reciprocal-tariffs-august)<!-- TECH:END -->
+ - [DaVinci Resolve Studio adds immersive video viewer for editing Apple Spatial Video](https://appleinsider.com/articles/25/08/07/davinci-resolve-studio-adds-immersive-video-viewer-for-editing-apple-spatial-video?utm_source=rss)
+ - [To no one&#39;s surprise, politicians are wrong about iOS 26 message filtering](https://appleinsider.com/articles/25/08/07/to-no-ones-surprise-politicians-are-wrong-about-ios-26-message-filtering?utm_source=rss)
+ - [Google TV’s uncertain future](https://www.theverge.com/lowpass-newsletter/724970/google-tv-ads-monetization-problem)
+ - [Tether acquires a minority stake in MiCA-licensed Spanish crypto exchange Bit2Me and is leading a €30M funding round that will close in the coming weeks &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250807/p25#a250807p25)
+ - [Trump Is Undermining Trust in Official Economic Statistics. China Shows Where That Path Can Lead](https://www.wired.com/story/trump-labor-statistics-china-comparison-gdp-unemployment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan says TSMC will not have to pay 100% tariffs on US chip imports, as it has set up US plants; UMC may see reduced impact through its cooperation with Intel &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p3#a250807p3)
+ - [LG Promo Codes: 20% Off | August 2025](https://www.wired.com/story/lg-promo-code/)
  - [Sources: Apple lost around a dozen of its AI staff, including top researchers, to rivals in recent months; its core foundation models team has ~50 to 60 people &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/250807/p2#a250807p2)
  - [Toronto-based Blue J, which provides AI-powered tax research software, raised a $122M Series D led by Oak HC/FT and Sapphire Ventures at a $300M+ valuation &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250807/p1#a250807p1)
- - [Sources: NIST withheld publishing an AI safety report and several other AI documents at the end of Biden&#39;s term to avoid clashing with the Trump administration &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250806/p47#a250806p47)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-7/#ftag=CAD590a51e)
- - [Sources: Mustafa Suleyman has been calling Google DeepMind recruits to work at Microsoft AI, offering higher pay and a more startup-like workplace than DeepMind &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p46#a250806p46)<!-- TECH:END -->
+ - [Sources: NIST withheld publishing an AI safety report and several other AI documents at the end of Biden&#39;s term to avoid clashing with the Trump administration &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250806/p47#a250806p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

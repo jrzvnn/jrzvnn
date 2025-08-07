@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - 😝 [Nature is healing](http://9gag.com/gag/ayNP4XW)
+ - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
+ - 😝 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
  - 💣 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
- - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 👉 [What does the numbers say mason?](http://9gag.com/gag/a0ewXLZ)<!-- MEMES:END -->
+ - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
+ - 👉 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)<!-- MEMES:END -->
 
 ---
 

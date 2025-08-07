@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
  - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
- - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Somehow Liberal here hate this. Both dem AND MAGA want the files to be released. stop attacking each other about this.](http://9gag.com/gag/aQzV7M8)
+ - 💣 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
+ - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
  - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
 
 ---

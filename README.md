@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
  - [Q&amp;A with Anthropic CEO Dario Amodei on Anthropic&#39;s growth to ~$5B in ARR, focusing on B2B, AI talent wars, open-source models, safety regulations, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250807/p9#a250807p9)
- - [Sen. Tom cotton sends a letter to Intel&#39;s board chair with questions about CEO Lip-Bu Tan&#39;s ties to China and subpoenas during his tenure as Cadence Design CEO &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250807/p8#a250807p8)
+ - [Senator Tom Cotton sends a letter to Intel&#39;s board chair with questions about CEO Lip-Bu Tan&#39;s China ties and subpoenas during his tenure as Cadence Design CEO &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250807/p8#a250807p8)
  - [Sources: the US federal judiciary&#39;s electronic case filing system was hit in a sweeping hack, potentially compromising the identities of confidential informants &lpar;Politico&rpar;](http://www.techmeme.com/250807/p7#a250807p7)
  - [Researchers show how a weakness in OpenAI&#39;s Connectors let sensitive data be extracted from a Google Drive account using an indirect prompt injection attack &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250807/p6#a250807p6)<!-- TECH:END -->
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
- - 💣 [Nature is healing](http://9gag.com/gag/ayNP4XW)
- - 😝 [Went wrong here?](http://9gag.com/gag/amon62X)
+ - 😝 [Nature is healing](http://9gag.com/gag/ayNP4XW)
+ - 💣 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
+ - 😝 [That is mine](http://9gag.com/gag/apR86PE)
  - 👉 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
- - 😝 [Everyone&#39;s wishing he had anxiety](http://9gag.com/gag/awyvgBy)
- - 💣 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
- - 😝 [Oh boy](http://9gag.com/gag/a6Z8DgA)
- - 👉 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)<!-- MEMES:END -->
+ - 😝 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
+ - 😝 [Father](http://9gag.com/gag/aND3910)
+ - 💣 [Hee hee](http://9gag.com/gag/aE0EMpx)
+ - 😝 [It will happen to you!](http://9gag.com/gag/a1mwDK2)
+ - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
 
 ---
 

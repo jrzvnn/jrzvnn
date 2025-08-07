@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Final Feliz.](http://9gag.com/gag/aO8G4or)
- - 💣 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
- - 😝 [Evil robot](http://9gag.com/gag/aYQmO8x)
- - 👉 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)<!-- MEMES:END -->
+ - 😝 [Ummmm..... Not surprising she is this daft.](http://9gag.com/gag/aByoLp2)
+ - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
+ - 😝 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
+ - 👉 [Final Feliz.](http://9gag.com/gag/aO8G4or)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)
- - [Q&amp;A with Anthropic CEO Dario Amodei on Anthropic&#39;s growth to ~$5B in ARR, focusing on B2B, AI talent wars, open-source models, safety regulations, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250807/p9#a250807p9)
- - [Senator Tom Cotton sends a letter to Intel&#39;s board chair with questions about CEO Lip-Bu Tan&#39;s China ties and subpoenas during his tenure as Cadence Design CEO &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250807/p8#a250807p8)
- - [Sources: the US federal judiciary&#39;s electronic case filing system was hit in a sweeping hack, potentially compromising the identities of confidential informants &lpar;Politico&rpar;](http://www.techmeme.com/250807/p7#a250807p7)
- - [Researchers show how a weakness in OpenAI&#39;s Connectors let sensitive data be extracted from a Google Drive account using an indirect prompt injection attack &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250807/p6#a250807p6)<!-- TECH:END -->
+ - [AI&#39;s energy demands are driving fossil fuel investment, as energy needs for AI training and data centers are poorly matched with the patterns of solar and wind &lpar;Financial Times&rpar;](http://www.techmeme.com/250807/p12#a250807p12)
+ - [Apple&amp;#8217;s mysterious chip tech will help Samsung make iPhone image sensors in Texas](https://www.theverge.com/news/752689/apple-samsung-partnership-image-sensors-texas)
+ - [Tokyo Electron says it fired an employee in Taipei and is cooperating with Taiwan&#39;s investigation after Taiwan arrested six people over alleged TSMC IP theft &lpar;Takashi Mochizuki/Bloomberg&rpar;](http://www.techmeme.com/250807/p11#a250807p11)
+ - [Index Ventures is set to receive $11B+ in proceeds after Figma&#39;s IPO, Google&#39;s Wiz acquisition, and Meta&#39;s investment in Scale AI, which paid out shareholders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p10#a250807p10)
+ - [OpenAI’s new GPT-5 models announced early by GitHub](https://www.theverge.com/news/752091/openai-gpt-5-model-announcement-github-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

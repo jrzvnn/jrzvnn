@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
  - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Nature is healing](http://9gag.com/gag/ayNP4XW)
- - 💣 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
- - 😝 [That is mine](http://9gag.com/gag/apR86PE)
- - 👉 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)<!-- MEMES:END -->
+ - 💣 [Nature is healing](http://9gag.com/gag/ayNP4XW)
+ - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
 
 ---
 

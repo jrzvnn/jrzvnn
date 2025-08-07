@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Windsurf&#39;s gross margins are &quot;very negative&quot;; many believe the same margin pressure is impacting Cursor, Lovable, Replit, and other vibe coding tools &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250807/p53#a250807p53)
+ - [New York-based Casap, which helps banks automate disputes and fight fraud, raised a $25M Series A led by Emergence Capital, bringing its total funding to $33.5M &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250807/p52#a250807p52)
  - [Steam for Chromebooks will stop working in January 2026, after debuting in alpha in March 2022 ahead of the launch of the first Gaming Chromebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250807/p51#a250807p51)
  - [Sources: Intel&#39;s board has stalled recent efforts by CEO Lip-Bu Tan to raise new capital and acquire an AI company meant to help it compete against Nvidia &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p50#a250807p50)
- - [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/)
- - [Sources: Tesla is disbanding the Dojo supercomputer team, and its leader is leaving, after ~20 team members joined DensityAI, a new data center services startup &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250807/p48#a250807p48)
- - [Sources: German AI startup n8n is expected to raise hundreds of millions of euros led by Accel at a pre-money valuation of $2.3B, up from ~$350M four months ago &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p49#a250807p49)<!-- TECH:END -->
+ - [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

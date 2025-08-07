@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI releases GPT-5 pro, a version with extended reasoning exclusive to ChatGPT Pro subscribers, saying it scored 88.4% without tools on the GPQA benchmark &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250807/p35#a250807p35)
+ - [Samsung Will Reportedly Make iPhone Image Sensors at Texas Facility](https://www.cnet.com/tech/mobile/samsung-will-reportedly-make-iphone-image-sensors-at-texas-facility/#ftag=CAD590a51e)
  - [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)
  - [Meta&amp;#8217;s prototype headsets show off the future of mixed reality](https://www.theverge.com/news/755470/meta-prototype-vr-headsets-tiramisu-boba-3-siggraph-2025)
- - [Mysterious Crime Spree Targeted National Guard Equipment Stashes](https://www.wired.com/story/mysterious-crime-spree-targeted-national-guard-equipment-stashes/)
- - [Encryption Made for Police and Military Radios May Be Easily Cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
- - [GPT-5 hands-on: it exudes competence but doesn&#39;t feel like a dramatic leap ahead of other LLMs, and the pricing is aggressively competitive with other providers &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250807/p34#a250807p34)<!-- TECH:END -->
+ - [Mysterious Crime Spree Targeted National Guard Equipment Stashes](https://www.wired.com/story/mysterious-crime-spree-targeted-national-guard-equipment-stashes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

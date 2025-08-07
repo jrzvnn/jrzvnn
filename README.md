@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Toronto-based Blue J, which provides AI-powered tax research software, raised a $122M Series D led by Oak HC/FT and Sapphire Ventures at a $300M+ valuation &lpar;Alex Riehl/BetaKit&rpar;](http://www.techmeme.com/250807/p1#a250807p1)
+ - [Sources: NIST withheld publishing an AI safety report and several other AI documents at the end of Biden&#39;s term to avoid clashing with the Trump administration &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250806/p47#a250806p47)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-7/#ftag=CAD590a51e)
  - [Sources: Mustafa Suleyman has been calling Google DeepMind recruits to work at Microsoft AI, offering higher pay and a more startup-like workplace than DeepMind &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p46#a250806p46)
- - [Sydney-based Lorikeet, which provides AI agents as &quot;customer concierges&quot;, raised a AU$54M Series A led by QED Investors at a AU$200M valuation &lpar;Paul Smith/Australian Financial Review&rpar;](http://www.techmeme.com/250806/p45#a250806p45)
- - [Tavily, which is helping AI agents connect to live web data, raised a $20M Series A led by Insight Partners and Alpha Wave, taking its total funding to $25M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250806/p44#a250806p44)
- - [AppLovin Q2: revenue up 77% YoY to $1.26B, vs. $1.22B est., adjusted EBITDA up 99% YoY to $1.02B, and forecasts Q3 revenue above est.; APP drops 5%+ after hours &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/250806/p43#a250806p43)
- - [Trump Media Is Testing an AI Search Engine Powered by Perplexity](https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wi-Fi 8 Focuses on Reliability Over Speed to Handle Advanced AI Experiences](https://www.cnet.com/home/internet/wi-fi-8-focuses-on-reliability-over-speed-to-handle-advanced-ai-experiences/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [DJI, which is facing an end of 2025 deadline to keep its US business alive, says its lobbying efforts are struggling; DJI controls 70%+ of the US drone market &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250807/p18#a250807p18)
  - [Eli Lilly’s Obesity Pill Shows Promising Weight Loss in New Results](https://www.wired.com/story/eli-lillys-obesity-pill-shows-promising-weight-loss-in-new-results/)
  - [Internal OpenAI code suggests a tiered GPT-5 rollout: free users get basic GPT-5, Plus users get advanced reasoning, and Pro gets research-level performance &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250807/p17#a250807p17)
- - [A now-deleted GitHub blog post reveals GPT-5, available as gpt-5, gpt-5-mini, gpt-5-nano, and gpt-5-chat with &quot;major improvements&quot; in reasoning, code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250807/p16#a250807p16)<!-- TECH:END -->
+ - [These 7 Rumored iPhone 17 Pro Max Features Just Might Convince Me to Upgrade](https://www.cnet.com/tech/mobile/these-7-rumored-iphone-17-pro-max-features-just-might-convince-me-to-upgrade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

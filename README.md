@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mustafa Suleyman has been calling Google DeepMind recruits to work at Microsoft AI, offering higher pay and a more startup-like workplace than DeepMind &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250806/p46#a250806p46)
+ - [Sydney-based Lorikeet, which provides AI agents as &quot;customer concierges&quot;, raised a AU$54M Series A led by QED Investors at a AU$200M valuation &lpar;Paul Smith/Australian Financial Review&rpar;](http://www.techmeme.com/250806/p45#a250806p45)
+ - [Tavily, which is helping AI agents connect to live web data, raised a $20M Series A led by Insight Partners and Alpha Wave, taking its total funding to $25M &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250806/p44#a250806p44)
  - [AppLovin Q2: revenue up 77% YoY to $1.26B, vs. $1.22B est., adjusted EBITDA up 99% YoY to $1.02B, and forecasts Q3 revenue above est.; APP drops 5%+ after hours &lpar;Adam Levine/Barron&#39;s Online&rpar;](http://www.techmeme.com/250806/p43#a250806p43)
- - [Trump Media Is Testing an AI Search Engine Powered by Perplexity](https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/#ftag=CAD590a51e)
- - [Bumble reports Q2 revenue down 8% YoY to $248.2M, vs. $245.1M est., a $367M net loss, and total paying users down 8.7% YoY to 3.8M; BMBL falls 9%+ after hours &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/250806/p42#a250806p42)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [AI Sucks at Sudoku. Much More Troubling Is That It Can&#39;t Explain Why](https://www.cnet.com/tech/services-and-software/ai-sucks-at-sudoku-much-more-troubling-is-that-it-cant-explain-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump Media Is Testing an AI Search Engine Powered by Perplexity](https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

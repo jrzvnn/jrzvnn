@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 😝 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
- - 💣 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
+ - 😝 [Boom!](http://9gag.com/gag/a9yB68K)
  - 😝 [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 👉 [Its Morphin time. Black ranger](http://9gag.com/gag/aD2M6WZ)<!-- MEMES:END -->
+ - 💣 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
+ - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
+ - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - 😝 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
- - 💣 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 😝 [Hot facial &lpar;hair&rpar; from 2017 #33](http://9gag.com/gag/aGybLD6)
- - 👉 [The clock is ticking](http://9gag.com/gag/a5QDVMr)<!-- MEMES:END -->
+ - 😝 [Treasure](http://9gag.com/gag/abAEeZp)
+ - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
+ - 💣 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - 👉 [Don&#39;t look](http://9gag.com/gag/ayNP3Xp)<!-- MEMES:END -->
 
 ---
 

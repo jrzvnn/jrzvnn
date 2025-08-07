@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
- - 😝 [Sea Snake vomits moray eel. You&#39;re welcome.](http://9gag.com/gag/aryzWDB)
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
- - 👉 [The clock is ticking](http://9gag.com/gag/a5QDVMr)<!-- MEMES:END -->
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 😝 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
+ - 💣 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 👉 [Rest in Piss](http://9gag.com/gag/agmjQdn)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 💣 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)
- - 😝 [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
- - 👉 [Everyone&#39;s wishing he had anxiety](http://9gag.com/gag/awyvgBy)<!-- MEMES:END -->
+ - 😝 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
+ - 💣 [Nature is healing](http://9gag.com/gag/ayNP4XW)
+ - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
+ - 😝 [Final Feliz.](http://9gag.com/gag/aO8G4or)
  - 💣 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
- - 😝 [13 hours hike for this view](http://9gag.com/gag/avym6zM)
- - 👉 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)<!-- MEMES:END -->
+ - 😝 [Evil robot](http://9gag.com/gag/aYQmO8x)
+ - 👉 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)<!-- MEMES:END -->
 
 ---
 

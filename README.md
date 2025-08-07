@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A livestream of OpenAI&#39;s GPT-5 announcement &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/250807/p28#a250807p28)
+ - [GPT-5 is being released to all ChatGPT users](https://www.theverge.com/openai/748017/gpt-5-chatgpt-openai-release)
  - [Senators are trying to force ISPs to block all foreign pirate sites](https://www.theverge.com/news/754987/senators-foreign-piracy-sites-block-beard-act)
  - [Why the US Is Racing to Build a Nuclear Reactor on the Moon](https://www.wired.com/story/why-the-us-is-racing-to-build-a-nuclear-reactor-on-the-moon/)
- - [Source: OpenAI awards bonuses to ~1,000 research and engineering employees, or ~30% of its staff, ranging from several hundred thousand to millions of dollars &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250807/p27#a250807p27)
- - [Age Verification Is Sweeping Gaming. Is It Ready for the Age of AI Fakes?](https://www.wired.com/story/age-verification-is-sweeping-gaming-is-it-ready-for-the-age-of-ai-fakes/)
- - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)<!-- TECH:END -->
+ - [Source: OpenAI awards bonuses to ~1,000 research and engineering employees, or ~30% of its staff, ranging from several hundred thousand to millions of dollars &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250807/p27#a250807p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

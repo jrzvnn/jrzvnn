@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
- - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
- - 💣 [Final Feliz.](http://9gag.com/gag/aO8G4or)
- - 😝 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
- - 👉 [He got canned](http://9gag.com/gag/a9yBzYo)<!-- MEMES:END -->
+ - 😝 [Hot facial &lpar;hair&rpar; from 2017 #33](http://9gag.com/gag/aGybLD6)
+ - 😝 [Treasure](http://9gag.com/gag/abAEeZp)
+ - 💣 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 👉 [US hotels are outsourcing their front desk to Indians who checks guests virtually on video call.](http://9gag.com/gag/a87z7PQ)<!-- MEMES:END -->
 
 ---
 

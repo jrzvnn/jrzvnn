@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU says companies exporting chips to the US will face a 15% tariff ceiling despite President Trump&#39;s new &quot;approximately 100%&quot; chip levy announcement &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p19#a250807p19)
+ - [DJI, which is facing an end of 2025 deadline to keep its US business alive, says its lobbying efforts are struggling; DJI controls 70%+ of the US drone market &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250807/p18#a250807p18)
+ - [Eli Lilly’s Obesity Pill Shows Promising Weight Loss in New Results](https://www.wired.com/story/eli-lillys-obesity-pill-shows-promising-weight-loss-in-new-results/)
  - [Internal OpenAI code suggests a tiered GPT-5 rollout: free users get basic GPT-5, Plus users get advanced reasoning, and Pro gets research-level performance &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250807/p17#a250807p17)
- - [A now-deleted GitHub blog post reveals GPT-5, available as gpt-5, gpt-5-mini, gpt-5-nano, and gpt-5-chat with &quot;major improvements&quot; in reasoning, code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250807/p16#a250807p16)
- - [Best Mattress 2025: We’ve Tested 100+ so You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)
- - [State Department cable: Marco Rubio orders diplomats in Europe to lobby against the DSA, arguing it imposes free speech restrictions and high compliance costs &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250807/p15#a250807p15)
- - [SoftBank reports Q1 net profit of $2.87B, vs. ~$850M est., boosted by its Nvidia investment and says Vision Fund has a &quot;late-stage portfolio valued at $45B&quot; &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250807/p14#a250807p14)<!-- TECH:END -->
+ - [A now-deleted GitHub blog post reveals GPT-5, available as gpt-5, gpt-5-mini, gpt-5-nano, and gpt-5-chat with &quot;major improvements&quot; in reasoning, code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250807/p16#a250807p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

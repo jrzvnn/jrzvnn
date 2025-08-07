@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future Apple Vision Pro could take commands by just reading your lips](https://appleinsider.com/articles/25/08/07/future-apple-vision-pro-could-take-commands-by-just-reading-your-lips?utm_source=rss)
- - [SMIC reports Q2 revenue up 16.2% YoY to $2.2B, in line with expectations, and profit down 19.5% YoY to $132.5M, below $183.35M est. &lpar;Reuters&rpar;](http://www.techmeme.com/250807/p23#a250807p23)
- - [Ripple plans to acquire stablecoin payments platform Rail for $200M, set to close in Q4 2025; Rail says it handles 10% of all global stablecoin payment activity &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250807/p22#a250807p22)
- - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)
- - [This smart lock lets me see through my door](https://www.theverge.com/smart-home-review/679906/eufy-familock-s3-max-smart-video-doorlock-review)<!-- TECH:END -->
+ - [GitHub CEO Thomas Dohmke on Copilot, vibe coding, and AI’s next chapter](https://www.theverge.com/decoder-podcast-with-nilay-patel/720075/github-ceo-thomas-dohmke-ai-coding-copilot-openai-interview)
+ - [Digital Foundry, the most trusted name in game console analysis, is going independent](https://www.theverge.com/games/743535/digital-foundry-game-console-analysis-going-independent)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+ - [Apple Maps now helps cyclists navigate Hong Kong and Taiwan streets](https://appleinsider.com/articles/25/08/07/apple-maps-now-helps-cyclists-navigate-hong-kong-and-taiwan-streets?utm_source=rss)
+ - [Future Apple Vision Pro could take commands by just reading your lips](https://appleinsider.com/articles/25/08/07/future-apple-vision-pro-could-take-commands-by-just-reading-your-lips?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

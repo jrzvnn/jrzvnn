@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
- - 😝 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
- - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 😝 [Evil robot](http://9gag.com/gag/aYQmO8x)
- - 👉 [This is good](http://9gag.com/gag/a87zmVZ)<!-- MEMES:END -->
+ - 😝 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
+ - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
+ - 😝 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
+ - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-5 will use &quot;safe completions&quot;, a training approach to maximize model helpfulness within safety constraints and an improvement over refusal-based training &lpar;OpenAI&rpar;](http://www.techmeme.com/250807/p33#a250807p33)
- - [Inside Apple Retail: Discover Apple Ginza in Tokyo](https://appleinsider.com/articles/25/08/07/inside-apple-retail-discover-apple-ginza-in-tokyo?utm_source=rss)
- - [GPT-5 is priced at $1.25/1M input tokens and $10/1M output tokens, GPT-5 mini costs $0.25 and $2, respectively, and GPT-5 nano costs $0.05 and $0.40 &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250807/p32#a250807p32)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Microsoft brings GPT-5 to Copilot with new smart mode](https://www.theverge.com/news/753984/microsoft-copilot-gpt-5-model-update)<!-- TECH:END -->
+ - [Samsung’s inexpensive Galaxy Buds FE are even more affordable at over 50 percent off](https://www.theverge.com/tech/756210/samsung-galaxy-buds-fe-nintendo-switch-2-pro-controller-deal-sale)
+ - [Meta&amp;#8217;s prototype headsets show off the future of mixed reality](https://www.theverge.com/news/755470/meta-prototype-vr-headsets-tiramisu-boba-3-siggraph-2025)
+ - [Mysterious Crime Spree Targeted National Guard Equipment Stashes](https://www.wired.com/story/mysterious-crime-spree-targeted-national-guard-equipment-stashes/)
+ - [Encryption Made for Police and Military Radios May Be Easily Cracked](https://www.wired.com/story/encryption-made-for-police-and-military-radios-may-be-easily-cracked-researchers-find/)
+ - [GPT-5 hands-on: it exudes competence but doesn&#39;t feel like a dramatic leap ahead of other LLMs, and the pricing is aggressively competitive with other providers &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250807/p34#a250807p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

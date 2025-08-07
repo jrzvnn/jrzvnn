@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)
- - [Framework Desktop review: the $1,099+ desktop is compact and easy to assemble with solid performance and power efficiency, but CPU, GPU, and RAM are soldered &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250807/p26#a250807p26)
- - [DaVinci Resolve Studio adds immersive video viewer for editing Apple Spatial Video](https://appleinsider.com/articles/25/08/07/davinci-resolve-studio-adds-immersive-video-viewer-for-editing-apple-spatial-video?utm_source=rss)
- - [To no one&#39;s surprise, politicians are wrong about iOS 26 message filtering](https://appleinsider.com/articles/25/08/07/to-no-ones-surprise-politicians-are-wrong-about-ios-26-message-filtering?utm_source=rss)
- - [Google TV’s uncertain future](https://www.theverge.com/lowpass-newsletter/724970/google-tv-ads-monetization-problem)<!-- TECH:END -->
+ - [Senators are trying to force ISPs to block all foreign pirate sites](https://www.theverge.com/news/754987/senators-foreign-piracy-sites-block-beard-act)
+ - [Why the US Is Racing to Build a Nuclear Reactor on the Moon](https://www.wired.com/story/why-the-us-is-racing-to-build-a-nuclear-reactor-on-the-moon/)
+ - [Source: OpenAI awards bonuses to ~1,000 research and engineering employees, or ~30% of its staff, ranging from several hundred thousand to millions of dollars &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250807/p27#a250807p27)
+ - [Age Verification Is Sweeping Gaming. Is It Ready for the Age of AI Fakes?](https://www.wired.com/story/age-verification-is-sweeping-gaming-is-it-ready-for-the-age-of-ai-fakes/)
+ - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

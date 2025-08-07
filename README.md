@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro rumored to get OLED display in 2026](https://appleinsider.com/articles/25/08/07/macbook-pro-rumored-to-get-oled-display-in-2026?utm_source=rss)
- - [SignalFire: as the AI talent race explodes, Anthropic is hiring engineers 2.68x faster than losing them, above OpenAI&#39;s 2.18x, Meta&#39;s 2.07x, and Google&#39;s 1.17x &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p20#a250807p20)
- - [Apple&#39;s Mac Pro &#39;cheese grater&#39; is 19 years old, and is the best Mac ever made](https://appleinsider.com/articles/18/08/07/apples-mac-pro-cheese-grater-is-12-years-old-and-is-the-best-mac-ever-made?utm_source=rss)
- - [Ceretone Core One Pro Hearing Aids Review: A Blunt Instrument](https://www.wired.com/review/ceretone-core-one-pro-hearing-aids/)
- - [Meta illegally collected Flo users’ menstrual data, jury rules](https://www.theverge.com/news/753469/meta-flo-period-tracker-lawsuit-verdict)<!-- TECH:END -->
+ - [Apple&#39;s bid to close the AI gap could be hampered by AI brain drain](https://appleinsider.com/articles/25/08/07/apples-bid-to-close-the-ai-gap-could-be-hampered-by-ai-brain-drain?utm_source=rss)
+ - [Trump Media Is Testing an AI Search Engine Powered by Perplexity](https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/#ftag=CAD590a51e)
+ - [Best Tested Walking Pads &lpar;2025&rpar;: Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
+ - [All the news from Nintendo&amp;#8217;s August Indie World showcase](https://www.theverge.com/games/719807/nintendo-switch-2-indie-world-direct-showcase-livestream)
+ - [iPhone 18 could get Samsung&#39;s camera as benefit of Apple&#39;s US manufacturing push](https://appleinsider.com/articles/25/08/07/iphone-18-could-get-samsungs-camer-tech-as-benefit-of-apples-us-manufacturing-push?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MacBook Pro rumored to get OLED display in 2026](https://appleinsider.com/articles/25/08/07/macbook-pro-rumored-to-get-oled-display-in-2026?utm_source=rss)
+ - [SignalFire: as the AI talent race explodes, Anthropic is hiring engineers 2.68x faster than losing them, above OpenAI&#39;s 2.18x, Meta&#39;s 2.07x, and Google&#39;s 1.17x &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p20#a250807p20)
+ - [Ceretone Core One Pro Hearing Aids Review: A Blunt Instrument](https://www.wired.com/review/ceretone-core-one-pro-hearing-aids/)
  - [Meta illegally collected Flo users’ menstrual data, jury rules](https://www.theverge.com/news/753469/meta-flo-period-tracker-lawsuit-verdict)
- - [The lawyer who beat Tesla is ready for ‘round two’](https://www.theverge.com/tesla/720157/tesla-death-lawsuit-verdict-lawyer-brett-schreiber-interview)
- - [The EU says companies exporting chips to the US will face a 15% tariff ceiling despite President Trump&#39;s new &quot;approximately 100%&quot; chip levy announcement &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p19#a250807p19)
- - [DJI, which is facing an end of 2025 deadline to keep its US business alive, says its lobbying efforts are struggling; DJI controls 70%+ of the US drone market &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250807/p18#a250807p18)
- - [Eli Lilly’s Obesity Pill Shows Promising Weight Loss in New Results](https://www.wired.com/story/eli-lillys-obesity-pill-shows-promising-weight-loss-in-new-results/)<!-- TECH:END -->
+ - [The lawyer who beat Tesla is ready for ‘round two’](https://www.theverge.com/tesla/720157/tesla-death-lawsuit-verdict-lawyer-brett-schreiber-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

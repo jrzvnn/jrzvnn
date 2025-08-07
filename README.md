@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot facial &lpar;hair&rpar; from 2017 #33](http://9gag.com/gag/aGybLD6)
- - 😝 [Treasure](http://9gag.com/gag/abAEeZp)
- - 💣 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
- - 👉 [US hotels are outsourcing their front desk to Indians who checks guests virtually on video call.](http://9gag.com/gag/a87z7PQ)<!-- MEMES:END -->
+ - 😝 [It&#39;s All In The `Jeans`](http://9gag.com/gag/a6Z8Dqe)
+ - 😝 [Sea Snake vomits moray eel. You&#39;re welcome.](http://9gag.com/gag/aryzWDB)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
+ - 👉 [The clock is ticking](http://9gag.com/gag/a5QDVMr)<!-- MEMES:END -->
 
 ---
 

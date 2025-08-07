@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)
- - 😝 [Peak Male Performance](http://9gag.com/gag/a5QDBog)
- - 💣 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
- - 😝 [Father](http://9gag.com/gag/aND3910)
- - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
+ - 😝 [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
+ - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - 💣 [Final Feliz.](http://9gag.com/gag/aO8G4or)
+ - 😝 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
+ - 👉 [He got canned](http://9gag.com/gag/a9yBzYo)<!-- MEMES:END -->
 
 ---
 

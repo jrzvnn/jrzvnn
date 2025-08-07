@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boom!](http://9gag.com/gag/a9yB68K)
+ - 😝 [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
+ - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
+ - 💣 [He got canned](http://9gag.com/gag/a9yBzYo)
  - 😝 [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 💣 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
- - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
  - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
 
 ---

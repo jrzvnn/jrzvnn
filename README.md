@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tesla is disbanding the Dojo supercomputer team, and its leader is leaving, after ~20 team members joined DensityAI, a new data center services startup &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250807/p48#a250807p48)
+ - [Sources: German AI startup n8n is expected to raise hundreds of millions of euros led by Accel at a pre-money valuation of $2.3B, up from ~$350M four months ago &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p49#a250807p49)
  - [A Texas law enacted in June, inspired by the crippling 2021 winter storm, lets the state&#39;s grid operator cut off electricity to data centers in an emergency &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250807/p47#a250807p47)
- - [Sources: Tesla is disbanding the Dojo supercomputer team, and its leader is leaving, after ~20 team members joined DensityAI, a new data center services startup &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250807/p46#a250807p46)
  - [$15 million truckload of Apple &amp; AMD products stolen in Nevada](https://appleinsider.com/articles/25/08/07/15-million-truckload-of-apple-amd-products-stolen-in-nevada?utm_source=rss)
- - [Two founders of the Samourai Wallet cryptocurrency mixer plead guilty to operating a money transmitting business that transmitted $200M+ in criminal proceeds &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250807/p45#a250807p45)
- - [Source: Meta has acquired WaveForms AI, which is working on AI that understands and mimics emotion in audio and debuted in December with a $40M seed led by a16z &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250807/p44#a250807p44)<!-- TECH:END -->
+ - [Two founders of the Samourai Wallet cryptocurrency mixer plead guilty to operating a money transmitting business that transmitted $200M+ in criminal proceeds &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250807/p45#a250807p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

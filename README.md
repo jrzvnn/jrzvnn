@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Browser Company’s AI browser now has a $20 subscription](https://www.theverge.com/news/756427/browser-company-dia-pro-ai-pricing)
+ - [The Best Colored Noise for Sleep &lpar;2025&rpar;](https://www.wired.com/story/best-noise-for-sleep/)
  - [Pinterest reports Q2 revenue up 17% YoY to $998M vs. $975M est., 578M global MAUs vs. 574.5M est., and earnings per share below est.; PINS down 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250807/p42#a250807p42)
  - [Take-Two reports Q1 net bookings up 17% YoY to $1.42B, net revenue up 12% YoY to $1.5B, vs. $1.32B est., and raises its FY 2026 net bookings projection &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250807/p41#a250807p41)
- - [Block reports Q2 gross profit up 14% YoY to $2.54B, vs. $2.46B est., GPV up 10% to $64.25B, raises FY gross profit forecast to $10.17B; XYZ up 10%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250807/p40#a250807p40)
- - [Trump signs an EO clearing a path to add alternative assets like PE and cryptocurrencies into 401&lpar;k&rpar;s, instructing the US Secretary of Labor to review guidance &lpar;Sarah Min/CNBC&rpar;](http://www.techmeme.com/250807/p39#a250807p39)
- - [What Happens When You Fold and Unfold the Samsung Galaxy Z Fold 7 200,000 Times?](https://www.cnet.com/tech/mobile/what-happens-when-you-fold-and-unfold-the-samsung-galaxy-z-fold-7-200000-times/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Block reports Q2 gross profit up 14% YoY to $2.54B, vs. $2.46B est., GPV up 10% to $64.25B, raises FY gross profit forecast to $10.17B; XYZ up 10%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250807/p40#a250807p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

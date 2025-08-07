@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [MacBook Pro rumored to get OLED display in 2026](https://appleinsider.com/articles/25/08/07/macbook-pro-rumored-to-get-oled-display-in-2026?utm_source=rss)
  - [SignalFire: as the AI talent race explodes, Anthropic is hiring engineers 2.68x faster than losing them, above OpenAI&#39;s 2.18x, Meta&#39;s 2.07x, and Google&#39;s 1.17x &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p20#a250807p20)
+ - [Apple&#39;s Mac Pro &#39;cheese grater&#39; is 19 years old, and is the best Mac ever made](https://appleinsider.com/articles/18/08/07/apples-mac-pro-cheese-grater-is-12-years-old-and-is-the-best-mac-ever-made?utm_source=rss)
  - [Ceretone Core One Pro Hearing Aids Review: A Blunt Instrument](https://www.wired.com/review/ceretone-core-one-pro-hearing-aids/)
- - [Meta illegally collected Flo users’ menstrual data, jury rules](https://www.theverge.com/news/753469/meta-flo-period-tracker-lawsuit-verdict)
- - [The lawyer who beat Tesla is ready for ‘round two’](https://www.theverge.com/tesla/720157/tesla-death-lawsuit-verdict-lawyer-brett-schreiber-interview)<!-- TECH:END -->
+ - [Meta illegally collected Flo users’ menstrual data, jury rules](https://www.theverge.com/news/753469/meta-flo-period-tracker-lawsuit-verdict)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

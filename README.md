@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is cautiously onboarding Grok 4 following Hitler concerns](https://www.theverge.com/notepad-microsoft-newsletter/754647/microsoft-grok-4-roll-out-private-preview-notepad)
  - [Framework Desktop review: the $1,099+ desktop is compact and easy to assemble with solid performance and power efficiency, but CPU, GPU, and RAM are soldered &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250807/p26#a250807p26)
  - [DaVinci Resolve Studio adds immersive video viewer for editing Apple Spatial Video](https://appleinsider.com/articles/25/08/07/davinci-resolve-studio-adds-immersive-video-viewer-for-editing-apple-spatial-video?utm_source=rss)
  - [To no one&#39;s surprise, politicians are wrong about iOS 26 message filtering](https://appleinsider.com/articles/25/08/07/to-no-ones-surprise-politicians-are-wrong-about-ios-26-message-filtering?utm_source=rss)
- - [Google TV’s uncertain future](https://www.theverge.com/lowpass-newsletter/724970/google-tv-ads-monetization-problem)
- - [Tether acquires a minority stake in MiCA-licensed Spanish crypto exchange Bit2Me and is leading a €30M funding round that will close in the coming weeks &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250807/p25#a250807p25)<!-- TECH:END -->
+ - [Google TV’s uncertain future](https://www.theverge.com/lowpass-newsletter/724970/google-tv-ads-monetization-problem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

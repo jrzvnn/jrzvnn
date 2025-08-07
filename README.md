@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs an EO clearing a path to add alternative assets like PE and cryptocurrencies into 401&lpar;k&rpar;s, instructing the US Secretary of Labor to review guidance &lpar;Sarah Min/CNBC&rpar;](http://www.techmeme.com/250807/p39#a250807p39)
+ - [Instacart reports Q2 revenue up 11% YoY to $914M, above est., orders up 17% to 82.7M, vs. 80.8M, and Q3 outlook above estimates; CART jumps 7%+ after hours &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250807/p38#a250807p38)
  - [The latest iPad Air is cheaper than ever](https://www.theverge.com/tech/756304/apple-m3-ipad-air-back-to-school-deal-sale)
  - [Fintiv&#39;s Apple Pay suit failed in Texas, but they are trying again in Georgia](https://appleinsider.com/articles/25/08/07/fintivs-apple-pay-suit-failed-in-texas-but-they-are-trying-again-in-georgia?utm_source=rss)
- - [The 6 biggest changes coming to ChatGPT](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)
- - [Brex says it has secured a license in the EU, allowing it to issue credit and debit cards and offer its spend management products to European customers &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250807/p37#a250807p37)
- - [Friendslop is coming for the Switch 2](https://www.theverge.com/games/756236/content-warning-coop-games-nintendo-switch-2-lethal-company)<!-- TECH:END -->
+ - [The 6 biggest changes coming to ChatGPT](https://www.theverge.com/news/756342/openai-chatgpt-gpt-5-update-biggest-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

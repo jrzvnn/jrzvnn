@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Treasure](http://9gag.com/gag/abAEeZp)
- - 😝 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
- - 💣 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)
- - 😝 [Rest in Piss](http://9gag.com/gag/agmjQdn)
- - 👉 [Don&#39;t look](http://9gag.com/gag/ayNP3Xp)<!-- MEMES:END -->
+ - 😝 [The clock is ticking](http://9gag.com/gag/a5QDVMr)
+ - 😝 [Everyone&#39;s wishing he had anxiety](http://9gag.com/gag/awyvgBy)
+ - 💣 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
+ - 😝 [Oh boy](http://9gag.com/gag/a6Z8DgA)
+ - 👉 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)<!-- MEMES:END -->
 
 ---
 

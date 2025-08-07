@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub CEO Thomas Dohmke on Copilot, vibe coding, and AI’s next chapter](https://www.theverge.com/decoder-podcast-with-nilay-patel/720075/github-ceo-thomas-dohmke-ai-coding-copilot-openai-interview)
- - [Digital Foundry, the most trusted name in game console analysis, is going independent](https://www.theverge.com/games/743535/digital-foundry-game-console-analysis-going-independent)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
- - [Apple Maps now helps cyclists navigate Hong Kong and Taiwan streets](https://appleinsider.com/articles/25/08/07/apple-maps-now-helps-cyclists-navigate-hong-kong-and-taiwan-streets?utm_source=rss)
- - [Future Apple Vision Pro could take commands by just reading your lips](https://appleinsider.com/articles/25/08/07/future-apple-vision-pro-could-take-commands-by-just-reading-your-lips?utm_source=rss)<!-- TECH:END -->
+ - [DJI’s first robovac features drone tech and a transparent design](https://www.theverge.com/news/754168/dji-romo-robot-vacuum)
+ - [HBO Max is going to get even more annoying about password sharing](https://www.theverge.com/news/754357/hbo-max-password-sharing-annoying-earnings)
+ - [The US GSA says AWS has agreed to provide federal agencies with up to $1B in discounts for cloud adoption, modernization, and training through 2028 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250807/p24#a250807p24)
+ - [Amazon slashes 2025 M3 iPad Air to record low $449 for back-to-school](https://appleinsider.com/articles/25/08/07/amazon-slashes-2025-m3-ipad-air-to-record-low-449-for-back-to-school?utm_source=rss)
+ - [Trump demands CEO of Intel resign over ties to China](https://www.theverge.com/news/754269/trump-intel-ceo-lip-bu-tan-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

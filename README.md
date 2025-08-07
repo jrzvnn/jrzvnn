@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Meta has acquired WaveForms AI, which is working on AI that understands and mimics emotion in audio and debuted in December with a $40M seed led by a16z &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250807/p44#a250807p44)
+ - [Sources detail Google&#39;s struggles to monetize Google TV, which has been costing the company hundreds of millions of dollars annually and has yet to break even &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/250807/p43#a250807p43)
+ - [OpenAI gets caught vibe graphing](https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime)
  - [The Browser Company’s AI browser now has a $20 subscription](https://www.theverge.com/news/756427/browser-company-dia-pro-ai-pricing)
- - [The Best Colored Noise for Sleep &lpar;2025&rpar;](https://www.wired.com/story/best-noise-for-sleep/)
- - [Pinterest reports Q2 revenue up 17% YoY to $998M vs. $975M est., 578M global MAUs vs. 574.5M est., and earnings per share below est.; PINS down 10%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250807/p42#a250807p42)
- - [Take-Two reports Q1 net bookings up 17% YoY to $1.42B, net revenue up 12% YoY to $1.5B, vs. $1.32B est., and raises its FY 2026 net bookings projection &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250807/p41#a250807p41)
- - [Block reports Q2 gross profit up 14% YoY to $2.54B, vs. $2.46B est., GPV up 10% to $64.25B, raises FY gross profit forecast to $10.17B; XYZ up 10%+ after hours &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250807/p40#a250807p40)<!-- TECH:END -->
+ - [The Best Colored Noise for Sleep &lpar;2025&rpar;](https://www.wired.com/story/best-noise-for-sleep/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

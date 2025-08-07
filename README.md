@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
+ - 😝 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
  - 😝 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
- - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
- - 😝 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
- - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
+ - 💣 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
+ - 👉 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)<!-- MEMES:END -->
 
 ---
 

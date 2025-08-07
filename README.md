@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats a good day.](http://9gag.com/gag/aoyDW3A)
- - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
- - 💣 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)
- - 😝 [Father](http://9gag.com/gag/aND3910)
- - 👉 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)<!-- MEMES:END -->
+ - 😝 [Oh boy](http://9gag.com/gag/a6Z8DgA)
+ - 😝 [Boom!](http://9gag.com/gag/a9yB68K)
+ - 💣 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - 😝 [Its Morphin time. Black ranger](http://9gag.com/gag/aD2M6WZ)
+ - 👉 [Call to regroup](http://9gag.com/gag/aVvBgX8)<!-- MEMES:END -->
 
 ---
 

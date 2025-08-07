@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Father](http://9gag.com/gag/aND3910)
  - 😝 [Stop eating junk, and exercise more. Your envy will disappear.](http://9gag.com/gag/adBbOBd)
- - 💣 [It will happen to you!](http://9gag.com/gag/a1mwDK2)
- - 😝 [Hee hee](http://9gag.com/gag/aE0EMpx)
- - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/aE0E6EG)
+ - 💣 [Healthy home made ginger drink](http://9gag.com/gag/awyvgAx)
+ - 😝 [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
+ - 👉 [Everyone&#39;s wishing he had anxiety](http://9gag.com/gag/awyvgBy)<!-- MEMES:END -->
 
 ---
 

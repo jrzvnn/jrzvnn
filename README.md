@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Texas law enacted in June, inspired by the crippling 2021 winter storm, lets the state&#39;s grid operator cut off electricity to data centers in an emergency &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250807/p47#a250807p47)
+ - [Sources: Tesla is disbanding the Dojo supercomputer team, and its leader is leaving, after ~20 team members joined DensityAI, a new data center services startup &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/250807/p46#a250807p46)
+ - [$15 million truckload of Apple &amp; AMD products stolen in Nevada](https://appleinsider.com/articles/25/08/07/15-million-truckload-of-apple-amd-products-stolen-in-nevada?utm_source=rss)
  - [Two founders of the Samourai Wallet cryptocurrency mixer plead guilty to operating a money transmitting business that transmitted $200M+ in criminal proceeds &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250807/p45#a250807p45)
- - [Source: Meta has acquired WaveForms AI, which is working on AI that understands and mimics emotion in audio and debuted in December with a $40M seed led by a16z &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250807/p44#a250807p44)
- - [Sources detail Google&#39;s struggles to monetize Google TV, which has been costing the company hundreds of millions of dollars annually and has yet to break even &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/250807/p43#a250807p43)
- - [OpenAI gets caught vibe graphing](https://www.theverge.com/news/756444/openai-gpt-5-vibe-graphing-chart-crime)
- - [The Browser Company’s AI browser now has a $20 subscription](https://www.theverge.com/news/756427/browser-company-dia-pro-ai-pricing)<!-- TECH:END -->
+ - [Source: Meta has acquired WaveForms AI, which is working on AI that understands and mimics emotion in audio and debuted in December with a $40M seed led by a16z &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250807/p44#a250807p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

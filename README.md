@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A livestream of OpenAI&#39;s GPT-5 announcement &lpar;OpenAI on YouTube&rpar;](http://www.techmeme.com/250807/p28#a250807p28)
- - [GPT-5 is being released to all ChatGPT users](https://www.theverge.com/openai/748017/gpt-5-chatgpt-openai-release)
- - [Senators are trying to force ISPs to block all foreign pirate sites](https://www.theverge.com/news/754987/senators-foreign-piracy-sites-block-beard-act)
- - [Why the US Is Racing to Build a Nuclear Reactor on the Moon](https://www.wired.com/story/why-the-us-is-racing-to-build-a-nuclear-reactor-on-the-moon/)
- - [Source: OpenAI awards bonuses to ~1,000 research and engineering employees, or ~30% of its staff, ranging from several hundred thousand to millions of dollars &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250807/p27#a250807p27)<!-- TECH:END -->
+ - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
+ - [Microsoft brings GPT-5 to Copilot with new smart mode](https://www.theverge.com/news/753984/microsoft-copilot-gpt-5-model-update)
+ - [OpenAI says GPT-5 is its first &quot;unified&quot; AI model and combines the reasoning abilities of its o-series of models with the fast responses of its GPT series &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250807/p31#a250807p31)
+ - [US military finds a good use for Tesla Cybertruck: missile target practice](https://www.theverge.com/news/754739/tesla-cybertruck-us-air-force-target-practice)
+ - [OpenAI launches a research preview of four preset personalities for ChatGPT users to better tailor their interactions: Cynic, Robot, Listener, and Nerd &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250807/p30#a250807p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

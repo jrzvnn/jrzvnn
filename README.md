@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
- - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
- - 💣 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
- - 😝 [What does the numbers say mason?](http://9gag.com/gag/a0ewXLZ)
+ - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
+ - 😝 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
+ - 💣 [This is good](http://9gag.com/gag/a87zmVZ)
+ - 😝 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
  - 👉 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)<!-- MEMES:END -->
 
 ---

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weapons turns our deepest anxieties into a potent horror masterpiece](https://www.theverge.com/movie-reviews/719762/weapons-review)
+ - [GPT-5 will use &quot;safe completions&quot;, a training approach to maximize model helpfulness within safety constraints and an improvement over refusal-based training &lpar;OpenAI&rpar;](http://www.techmeme.com/250807/p33#a250807p33)
  - [Inside Apple Retail: Discover Apple Ginza in Tokyo](https://appleinsider.com/articles/25/08/07/inside-apple-retail-discover-apple-ginza-in-tokyo?utm_source=rss)
  - [GPT-5 is priced at $1.25/1M input tokens and $10/1M output tokens, GPT-5 mini costs $0.25 and $2, respectively, and GPT-5 nano costs $0.05 and $0.40 &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250807/p32#a250807p32)
  - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)

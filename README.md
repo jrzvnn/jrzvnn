@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Owner Of Trump Burger Just Got Deported.](http://9gag.com/gag/abAEOZ8)
- - 😝 [Leading experts in logistics.](http://9gag.com/gag/ayNPqwb)
- - 💣 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
- - 😝 [Back on the menu!](http://9gag.com/gag/axy4yn2)
- - 👉 [Everyone&#39;s wishing he had anxiety](http://9gag.com/gag/awyvgBy)<!-- MEMES:END -->
+ - 😝 [Thats a good day.](http://9gag.com/gag/aoyDW3A)
+ - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
+ - 💣 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)
+ - 😝 [Father](http://9gag.com/gag/aND3910)
+ - 👉 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)<!-- MEMES:END -->
 
 ---
 

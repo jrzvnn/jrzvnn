@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s endless new tariffs are threatening businesses — and you](https://www.theverge.com/policy/754356/trump-reciprocal-tariffs-august)
  - [DJI’s first robovac features drone tech and a transparent design](https://www.theverge.com/news/754168/dji-romo-robot-vacuum)
  - [HBO Max is going to get even more annoying about password sharing](https://www.theverge.com/news/754357/hbo-max-password-sharing-annoying-earnings)
  - [The US GSA says AWS has agreed to provide federal agencies with up to $1B in discounts for cloud adoption, modernization, and training through 2028 &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250807/p24#a250807p24)
- - [Amazon slashes 2025 M3 iPad Air to record low $449 for back-to-school](https://appleinsider.com/articles/25/08/07/amazon-slashes-2025-m3-ipad-air-to-record-low-449-for-back-to-school?utm_source=rss)
- - [Trump demands CEO of Intel resign over ties to China](https://www.theverge.com/news/754269/trump-intel-ceo-lip-bu-tan-china)<!-- TECH:END -->
+ - [Amazon slashes 2025 M3 iPad Air to record low $449 for back-to-school](https://appleinsider.com/articles/25/08/07/amazon-slashes-2025-m3-ipad-air-to-record-low-449-for-back-to-school?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

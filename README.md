@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets do it again! - 9GAG DRINKING CONTEST 2025 - 9.8.2025 - 48\u00b000&#39;23`, 17\u00b009&#39;39`](http://9gag.com/gag/aMVym81)
- - 😝 [Let&#39;s make a deal!](http://9gag.com/gag/aXPeVgb)
- - 💣 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
- - 😝 [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
- - 👉 [Lizard](http://9gag.com/gag/a9yBvgL)<!-- MEMES:END -->
+ - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - 😝 [Nature is healing](http://9gag.com/gag/ayNP4XW)
+ - 💣 [Sometimes it&#39;s good to be dishonest](http://9gag.com/gag/aVvBENK)
+ - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 👉 [What does the numbers say mason?](http://9gag.com/gag/a0ewXLZ)<!-- MEMES:END -->
 
 ---
 

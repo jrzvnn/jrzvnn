@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal OpenAI code suggests a tiered GPT-5 rollout: free users get basic GPT-5, Plus users get advanced reasoning, and Pro gets research-level performance &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250807/p17#a250807p17)
+ - [A now-deleted GitHub blog post reveals GPT-5, available as gpt-5, gpt-5-mini, gpt-5-nano, and gpt-5-chat with &quot;major improvements&quot; in reasoning, code, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250807/p16#a250807p16)
+ - [Best Mattress 2025: We’ve Tested 100+ so You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)
  - [State Department cable: Marco Rubio orders diplomats in Europe to lobby against the DSA, arguing it imposes free speech restrictions and high compliance costs &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250807/p15#a250807p15)
- - [SoftBank reports Q1 net profit of $2.87B, vs. ~$850M est., boosted by its Nvidia investment and says Vision Fund has a &quot;late-stage portfolio valued at $45B&quot; &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250807/p14#a250807p14)
- - [Sony reports Q1 revenue up 2.2% YoY to $17.8B, net profit up 23% YoY to ~$1.8B, PS5 sales at 2.5M, up from 2.4M in Q1 2024, and expects a lower FY tariff impact &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p13#a250807p13)
- - [AI&#39;s energy demands are driving fossil fuel investment, as energy needs for AI training and data centers are poorly matched with the patterns of solar and wind &lpar;Financial Times&rpar;](http://www.techmeme.com/250807/p12#a250807p12)
- - [Apple&amp;#8217;s mysterious chip tech will help Samsung make iPhone image sensors in Texas](https://www.theverge.com/news/752689/apple-samsung-partnership-image-sensors-texas)<!-- TECH:END -->
+ - [SoftBank reports Q1 net profit of $2.87B, vs. ~$850M est., boosted by its Nvidia investment and says Vision Fund has a &quot;late-stage portfolio valued at $45B&quot; &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250807/p14#a250807p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

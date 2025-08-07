@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
- - 😝 [Father](http://9gag.com/gag/aND3910)
- - 💣 [Hee hee](http://9gag.com/gag/aE0EMpx)
- - 😝 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)
- - 👉 [It will happen to you!](http://9gag.com/gag/a1mwDK2)<!-- MEMES:END -->
+ - 😝 [I just noticed that the demo of a software to recover/repair picures is listening to my microphone](http://9gag.com/gag/a5QD6Xr)
+ - 😝 [Life is great in LA](http://9gag.com/gag/aQzVgNq)
+ - 💣 [Rest in Piss](http://9gag.com/gag/agmjQdn)
+ - 😝 [Hot facial &lpar;hair&rpar; from 2017 #33](http://9gag.com/gag/aGybLD6)
+ - 👉 [The clock is ticking](http://9gag.com/gag/a5QDVMr)<!-- MEMES:END -->
 
 ---
 

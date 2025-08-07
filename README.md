@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its fine, its fine... everything is fine...Home Sellers in the USA outnumber Buyers by 500 000, the largest gap ever recorded.](http://9gag.com/gag/aqyAXDL)
- - 😝 [Rome has fallen](http://9gag.com/gag/a9yBzPD)
- - 💣 [He got canned](http://9gag.com/gag/a9yBzYo)
- - 😝 [Call to regroup](http://9gag.com/gag/aVvBgX8)
- - 👉 [In China somebody turned on a jammer during a drone show](http://9gag.com/gag/aMVydYR)<!-- MEMES:END -->
+ - 😝 [Male Friendship in 10 seconds..!!](http://9gag.com/gag/avymW6M)
+ - 😝 [Peak Male Performance](http://9gag.com/gag/a5QDBog)
+ - 💣 [I&#39;m with Brad on this ond](http://9gag.com/gag/aMVyBxV)
+ - 😝 [Father](http://9gag.com/gag/aND3910)
+ - 👉 [The amount of privilege growing up blinds him to the point where he can&#39;t do very basic stuff](http://9gag.com/gag/aVvBorK)<!-- MEMES:END -->
 
 ---
 

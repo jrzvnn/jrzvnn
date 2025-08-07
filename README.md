@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s bid to close the AI gap could be hampered by AI brain drain](https://appleinsider.com/articles/25/08/07/apples-bid-to-close-the-ai-gap-could-be-hampered-by-ai-brain-drain?utm_source=rss)
- - [Trump Media Is Testing an AI Search Engine Powered by Perplexity](https://www.cnet.com/tech/services-and-software/trump-media-is-testing-an-ai-search-engine-powered-by-perplexity/#ftag=CAD590a51e)
- - [Best Tested Walking Pads &lpar;2025&rpar;: Urevo, WalkingPad, Sperax](https://www.wired.com/story/best-walking-pads/)
- - [All the news from Nintendo&amp;#8217;s August Indie World showcase](https://www.theverge.com/games/719807/nintendo-switch-2-indie-world-direct-showcase-livestream)
- - [iPhone 18 could get Samsung&#39;s camera as benefit of Apple&#39;s US manufacturing push](https://appleinsider.com/articles/25/08/07/iphone-18-could-get-samsungs-camer-tech-as-benefit-of-apples-us-manufacturing-push?utm_source=rss)<!-- TECH:END -->
+ - [Future Apple Vision Pro could take commands by just reading your lips](https://appleinsider.com/articles/25/08/07/future-apple-vision-pro-could-take-commands-by-just-reading-your-lips?utm_source=rss)
+ - [SMIC reports Q2 revenue up 16.2% YoY to $2.2B, in line with expectations, and profit down 19.5% YoY to $132.5M, below $183.35M est. &lpar;Reuters&rpar;](http://www.techmeme.com/250807/p23#a250807p23)
+ - [Ripple plans to acquire stablecoin payments platform Rail for $200M, set to close in Q4 2025; Rail says it handles 10% of all global stablecoin payment activity &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250807/p22#a250807p22)
+ - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)
+ - [This smart lock lets me see through my door](https://www.theverge.com/smart-home-review/679906/eufy-familock-s3-max-smart-video-doorlock-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

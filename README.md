@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta illegally collected Flo users’ menstrual data, jury rules](https://www.theverge.com/news/753469/meta-flo-period-tracker-lawsuit-verdict)
+ - [The lawyer who beat Tesla is ready for ‘round two’](https://www.theverge.com/tesla/720157/tesla-death-lawsuit-verdict-lawyer-brett-schreiber-interview)
  - [The EU says companies exporting chips to the US will face a 15% tariff ceiling despite President Trump&#39;s new &quot;approximately 100%&quot; chip levy announcement &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p19#a250807p19)
  - [DJI, which is facing an end of 2025 deadline to keep its US business alive, says its lobbying efforts are struggling; DJI controls 70%+ of the US drone market &lpar;Jamie Tarabay/Bloomberg&rpar;](http://www.techmeme.com/250807/p18#a250807p18)
- - [Eli Lilly’s Obesity Pill Shows Promising Weight Loss in New Results](https://www.wired.com/story/eli-lillys-obesity-pill-shows-promising-weight-loss-in-new-results/)
- - [Internal OpenAI code suggests a tiered GPT-5 rollout: free users get basic GPT-5, Plus users get advanced reasoning, and Pro gets research-level performance &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/250807/p17#a250807p17)
- - [These 7 Rumored iPhone 17 Pro Max Features Just Might Convince Me to Upgrade](https://www.cnet.com/tech/mobile/these-7-rumored-iphone-17-pro-max-features-just-might-convince-me-to-upgrade/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eli Lilly’s Obesity Pill Shows Promising Weight Loss in New Results](https://www.wired.com/story/eli-lillys-obesity-pill-shows-promising-weight-loss-in-new-results/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

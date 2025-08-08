@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 💣 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 👉 [`Tipping culture`](http://9gag.com/gag/apR8P6p)<!-- MEMES:END -->
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 💣 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
 
 ---
 

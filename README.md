@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One shot, one opportunity](http://9gag.com/gag/a7oAerL)
- - 😝 [:*:*:*: LeGeNd ReAdS tHiS aNd CoMmEnT fUnNy StUfF :*:*:*:](http://9gag.com/gag/aQzVQMw)
- - 💣 [13%](http://9gag.com/gag/aRBDM82)
- - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
- - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
+ - 😝 [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
+ - 😝 [Lizard](http://9gag.com/gag/a9yBvgL)
+ - 💣 [LC Signs](http://9gag.com/gag/awyvmKR)
+ - 😝 [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
+ - 👉 [Accurate](http://9gag.com/gag/an7V2d5)<!-- MEMES:END -->
 
 ---
 

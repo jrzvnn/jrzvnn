@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI says ChatGPT Pro users can select old models for now but plans to deprecate them in 60 days; Sam Altman says Plus users will be able to keep using GPT-4o &lpar;Joanna Stern/Joanna Stern&#39;s Newsletter&rpar;](http://www.techmeme.com/250808/p21#a250808p21)
- - [The Vibes-Based Pricing of ‘Pro’ AI Software](https://www.wired.com/story/uncanny-valley-podcast-vibes-based-pricing-pro-ai-software/)
- - [ChatGPT is bringing back 4o as an option because people missed it](https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o)
- - [Google is testing an AI-powered Google Finance website in the US, letting users ask questions, access advanced charting tools, view a live news feed, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250808/p20#a250808p20)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)<!-- TECH:END -->
+ - [Apple defends itself -- again -- against Fintiv&#39;s Apple Pay theft claims](https://appleinsider.com/articles/25/08/08/apple-defends-itself----again----against-fintivs-apple-pay-theft-claims?utm_source=rss)
+ - [Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds](https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/)
+ - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)
+ - [Orico MiniMate review: Cute, and fast enough, but too loud](https://appleinsider.com/articles/25/08/08/orico-minimate-review-cute-and-fast-enough-but-too-loud?utm_source=rss)
+ - [OpenAI says ChatGPT Pro users can select old models for now but plans to deprecate them in 60 days; Sam Altman says Plus users will be able to keep using GPT-4o &lpar;Joanna Stern/Joanna Stern&#39;s Newsletter&rpar;](http://www.techmeme.com/250808/p21#a250808p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

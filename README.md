@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Went wrong here?](http://9gag.com/gag/amon62X)
- - 😝 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
- - 💣 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 😝 [Title](http://9gag.com/gag/aQzVQQd)
+ - 💣 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
  - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
+ - 👉 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)<!-- MEMES:END -->
 
 ---
 

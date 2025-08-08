@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250808/p6#a250808p6)
+ - [Analysis: 12 Chinese tech companies have applied to list in Hong Kong so far this year, the most since 2023, after rules allowed lossmaking companies to float &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p5#a250808p5)
  - [Intel CEO Lip-Bu Tan tells employees the company is engaging with the Trump administration to address concerns about him and &quot;ensure they have the facts&quot; &lpar;Lip-Bu Tan/Intel&rpar;](http://www.techmeme.com/250808/p4#a250808p4)
  - [Decart, which offers real-time generative video and GPU optimization tech to cloud providers and AI companies, raised a $100M Series B at a $3.1B valuation &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250808/p3#a250808p3)
- - [Bit Digital-owned AI infrastructure company WhiteFiber closed down 4.59% in its Nasdaq debut, after raising $159.4M in an IPO, valuing the company at $619M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p2#a250808p2)
- - [During the GPT-5 livestream, OpenAI showed two charts whose scales were all over the place, with Sam Altman later calling one &quot;a mega chart screwup from us&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250808/p1#a250808p1)
- - [OpenAI gives some employees a ‘special’ multimillion-dollar bonus](https://www.theverge.com/command-line-newsletter/756561/openai-employees-bonus-sam-altman-ai-talent-wars)<!-- TECH:END -->
+ - [Bit Digital-owned AI infrastructure company WhiteFiber closed down 4.59% in its Nasdaq debut, after raising $159.4M in an IPO, valuing the company at $619M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p2#a250808p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

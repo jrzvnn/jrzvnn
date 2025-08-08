@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT is bringing back 4o as an option because people missed it](https://www.theverge.com/news/756980/openai-chatgpt-users-mourn-gpt-5-4o)
  - [Google is testing an AI-powered Google Finance website in the US, letting users ask questions, access advanced charting tools, view a live news feed, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250808/p20#a250808p20)
  - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)
- - [A decade later, Windows is still bringing Control Panel features to the Settings app](https://www.theverge.com/news/756958/windows-11-settings-control-panel-update-mobile-app-notifications-start-menu)
- - [How Wikipedia is fighting AI slop content](https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion)<!-- TECH:END -->
+ - [A decade later, Windows is still bringing Control Panel features to the Settings app](https://www.theverge.com/news/756958/windows-11-settings-control-panel-update-mobile-app-notifications-start-menu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

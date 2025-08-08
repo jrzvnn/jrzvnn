@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: SoftBank purchased Foxconn&#39;s EV plant in Ohio for $375M, a move aimed at kickstarting its $500B Stargate data center project with OpenAI and Oracle &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p9#a250808p9)
+ - [WIRED Tested Dozens of Blenders. These Are Our 9 Favorites &lpar;2025&rpar;](https://www.wired.com/gallery/best-blender/)
  - [iPhone Fold rumors and renders: What to expect after years of leaks and speculation](https://appleinsider.com/articles/25/08/08/iphone-fold-rumors-and-renders-what-to-expect-after-years-of-leaks-and-speculation?utm_source=rss)
  - [Inside Photos in iOS 26 &amp; macOS 26 -- refinements in Apple&#39;s image and video management tool](https://appleinsider.com/inside/ios-26/tips/inside-photos-in-ios-26-macos-26----refinements-in-apples-image-and-video-management-tool?utm_source=rss)
- - [Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog](https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on)
- - [The Song of the Summer Is Dead](https://www.wired.com/story/the-song-of-the-summer-is-dead/)<!-- TECH:END -->
+ - [Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog](https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

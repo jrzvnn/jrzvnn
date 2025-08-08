@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 😝 [Title](http://9gag.com/gag/aQzVQQd)
- - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 😝 [When muscle memory kicks in.](http://9gag.com/gag/ae9WZ8m)
- - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
+ - 😝 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
+ - 😝 [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
+ - 💣 [Leopard](http://9gag.com/gag/a34nyPr)
+ - 😝 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)
+ - 👉 [Hehe...](http://9gag.com/gag/a7oAV5x)<!-- MEMES:END -->
 
 ---
 

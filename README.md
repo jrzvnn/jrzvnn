@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 😝 [Yeah, the serum is called steroid](http://9gag.com/gag/an7VnO0)
+ - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
  - 😝 [Burr&lpar;n&rpar;](http://9gag.com/gag/aW49vyA)
- - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
+ - 👉 [Lovely astronaut](http://9gag.com/gag/adBbnoj)<!-- MEMES:END -->
 
 ---
 

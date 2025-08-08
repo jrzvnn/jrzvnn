@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
  - 😝 [Title](http://9gag.com/gag/aQzVQQd)
- - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 👉 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)<!-- MEMES:END -->
+ - 💣 [You&#39;re ded](http://9gag.com/gag/ayNP6jy)
+ - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
+ - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
 
 ---
 

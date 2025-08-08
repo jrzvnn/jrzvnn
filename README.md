@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog](https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on)
+ - [The Song of the Summer Is Dead](https://www.wired.com/story/the-song-of-the-summer-is-dead/)
  - [Apple says Apple Intelligence will use OpenAI&#39;s GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250808/p8#a250808p8)
  - [Sony insists Xperia phones are ‘very important’ to it](https://www.theverge.com/news/756593/sony-insists-xperia-phones-are-very-important-to-it)
- - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
- - [A look at the impact of AI voice cloning on India&#39;s dubbing and voiceover sector, as artists demand consent, credit, and fair pay amid a lack of laws for AI use &lpar;Zico Ghosh/The Hollywood Reporter&rpar;](http://www.techmeme.com/250808/p7#a250808p7)
- - [Best Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26: Friends Can&#39;t Decide What to Eat? Here&#39;s How to Create a Poll in Messages](https://www.cnet.com/tech/services-and-software/ios-26-friends-cant-decide-what-to-eat-heres-how-to-create-a-poll-in-messages/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

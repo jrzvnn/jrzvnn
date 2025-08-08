@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
+ - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
  - 💣 [Lizard](http://9gag.com/gag/a9yBvgL)
- - 😝 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)
- - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
+ - 😝 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 👉 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Marc Andreessen complained to the UK government last week about the Online Safety Act and called for a reprimand of technology secretary Peter Kyle &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p12#a250808p12)
- - [Hoto Snapbloq Tools Review: Attractive Power Tools](https://www.wired.com/review/hoto-snapbloq-tools/)
- - [It Looks Like a School Bathroom Smoke Detector. A Teen Hacker Showed It Could Be an Audio Bug](https://www.wired.com/story/school-bathroom-vape-detector-audio-bug/)
- - [President Trump orders regulators to investigate banks for &quot;politicized or unlawful debanking&quot;, echoing allegations from conservatives and the crypto industry &lpar;Joel Khalili/Wired&rpar;](http://www.techmeme.com/250808/p11#a250808p11)
- - [OpenStore is scaling back its e-commerce aggregation efforts, closing nearly all of its 40+ Shopify stores and rebranding under its Jack Archer menswear label &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250808/p10#a250808p10)<!-- TECH:END -->
+ - [Turn your AirPods Max into a masterpiece with Casetify’s new headphone wrap](https://www.theverge.com/news/756693/casetify-apple-airpods-max-johannes-vermeer-girl-with-a-pearl-earring)
+ - [What is Laura Loomer?](https://www.theverge.com/politics/756411/laura-loomer-explainer-maga-trump)
+ - [Sources: China told local brokers and think tanks to stop promoting stablecoins by publishing research or holding seminars, aiming to prevent market instability &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p13#a250808p13)
+ - [Tesla shuts down the team behind its Dojo supercomputer](https://www.theverge.com/news/756706/tesla-dojo-team-shut-down-supercomputer)
+ - [The Best OTC Hearing Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

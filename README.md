@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
- - 😝 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
- - 💣 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [One shot, one opportunity](http://9gag.com/gag/a7oAerL)
+ - 😝 [:*:*:*: LeGeNd ReAdS tHiS aNd CoMmEnT fUnNy StUfF :*:*:*:](http://9gag.com/gag/aQzVQMw)
+ - 💣 [13%](http://9gag.com/gag/aRBDM82)
  - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
- - 👉 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)<!-- MEMES:END -->
+ - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
 
 ---
 

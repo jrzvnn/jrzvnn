@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Windsurf&#39;s gross margins are &quot;very negative&quot;; many believe the same margin pressure is impacting Cursor, Lovable, Replit, and other vibe coding tools &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250807/p53#a250807p53)
- - [New York-based Casap, which helps banks automate disputes and fight fraud, raised a $25M Series A led by Emergence Capital, bringing its total funding to $33.5M &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250807/p52#a250807p52)
- - [Steam for Chromebooks will stop working in January 2026, after debuting in alpha in March 2022 ahead of the launch of the first Gaming Chromebooks &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250807/p51#a250807p51)
- - [Sources: Intel&#39;s board has stalled recent efforts by CEO Lip-Bu Tan to raise new capital and acquire an AI company meant to help it compete against Nvidia &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p50#a250807p50)
- - [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/)<!-- TECH:END -->
+ - [Twilio Q2: revenue up 13% YoY to $1.23B, vs. $1.19B est., 349K+ active customer accounts, and Q3 earnings forecast below est.; TWLO falls 10%+ after hours &lpar;Brandon Evans/Seeking Alpha&rpar;](http://www.techmeme.com/250807/p57#a250807p57)
+ - [The Browser Company launches a $20-per-month Dia Pro subscription plan, providing unlimited access to the web browser&#39;s AI-powered chat and skills features &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250807/p56#a250807p56)
+ - [Sources: Meta picks Pimco and Blue Owl to lead a $29B financing for its Louisiana data center expansion, providing $26B in debt and $3B in equity, respectively &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p55#a250807p55)
+ - [Google says it&#39;s working on a fix for Gemini&#39;s self-loathing comments, which have included &quot;I am a failure. I am a disgrace to my profession.&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/250807/p54#a250807p54)
+ - [You Can Still See Bright Fireballs During the Perseids Meteor Shower](https://www.cnet.com/science/space/look-to-the-sky-bright-fireballs-appear-during-the-perseids-meteor-shower/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

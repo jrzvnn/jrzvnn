@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: SoftBank purchased Foxconn&#39;s EV plant in Ohio for $375M, a move aimed at kickstarting its $500B Stargate data center project with OpenAI and Oracle &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p9#a250808p9)
- - [WIRED Tested Dozens of Blenders. These Are Our 9 Favorites &lpar;2025&rpar;](https://www.wired.com/gallery/best-blender/)
- - [iPhone Fold rumors and renders: What to expect after years of leaks and speculation](https://appleinsider.com/articles/25/08/08/iphone-fold-rumors-and-renders-what-to-expect-after-years-of-leaks-and-speculation?utm_source=rss)
- - [Inside Photos in iOS 26 &amp; macOS 26 -- refinements in Apple&#39;s image and video management tool](https://appleinsider.com/inside/ios-26/tips/inside-photos-in-ios-26-macos-26----refinements-in-apples-image-and-video-management-tool?utm_source=rss)
- - [Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog](https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on)<!-- TECH:END -->
+ - [OpenStore is scaling back its e-commerce aggregation efforts, closing nearly all of its 40+ Shopify stores and rebranding under its Jack Archer menswear label &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250808/p10#a250808p10)
+ - [Apple Intelligence&#39;s future, iPhone 17 rumors, and more on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/08/apple-intelligences-future-iphone-17-rumors-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [Everything we think we know about the Google Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)
+ - [How Does an Electric Bicycle Work? &lpar;2025&rpar;](https://www.wired.com/story/how-does-an-electric-bicycle-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

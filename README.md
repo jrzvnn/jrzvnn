@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 💣 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 😝 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)
+ - 😝 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 😝 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
+ - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 😝 [Title](http://9gag.com/gag/aQzVQQd)
  - 👉 [Basketball moment](http://9gag.com/gag/ae9WZ2b)<!-- MEMES:END -->
 
 ---

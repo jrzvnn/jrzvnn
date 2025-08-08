@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
  - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
  - 💣 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
- - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 👉 [Hehe...](http://9gag.com/gag/a7oAV5x)<!-- MEMES:END -->
 
 ---
 

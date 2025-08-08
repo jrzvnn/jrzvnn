@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo’s new Hello, Mario! mobile app lets kids play with Mario’s face](https://www.theverge.com/news/756718/nintendo-super-mario-kids-hello-mario-free-app)
- - [Trade Desk shares drop ~38% after the company&#39;s latest earnings and projections heightened concerns about its future growth amid Amazon&#39;s rising ad-tech threat &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/250808/p16#a250808p16)
- - [Tesla’s Dojo supercomputer is DOA — now what?](https://www.theverge.com/tesla/756709/tesla-dojo-ai-talent-exodus-elon-musk)
- - [Sam Altman says OpenAI should prioritize growth and its investments in training and compute &quot;for a long time&quot;, even if it delays its path to profitability &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250808/p15#a250808p15)
- - [Japan law is forcing more browser choice on iPhone in December](https://appleinsider.com/articles/25/08/08/japan-law-is-forcing-more-browser-choice-on-iphone-in-december?utm_source=rss)<!-- TECH:END -->
+ - [Get this new Apple Wallpaper that celebrates Southeast Asian musicians &amp; artists](https://appleinsider.com/articles/25/08/08/get-this-new-apple-wallpaper-that-celebrates-southeast-asian-musicians-artists?utm_source=rss)
+ - [This three-pack of fast Wi-Fi 7 routers is under $200 for the first time](https://www.theverge.com/tech/756663/tp-link-be25-wifi-routers-ring-battery-doorbell-deal-sale)
+ - [Inside Dylan Field’s Big IPO—and His Even Bigger Plans for Figma](https://www.wired.com/story/figma-ipo-dylan-field-interview/)
+ - [8BitDo’s Pro 3 is a super customizable controller that’s too limited on Switch 2](https://www.theverge.com/reviews/755307/8bitdo-pro-3-controller-review-pc-nintendo-switch-2)
+ - [Nintendo’s new Hello, Mario! mobile app lets kids play with Mario’s face](https://www.theverge.com/news/756718/nintendo-super-mario-kids-hello-mario-free-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

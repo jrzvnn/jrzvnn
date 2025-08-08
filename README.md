@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
- - 😝 [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
- - 💣 [Leopard](http://9gag.com/gag/a34nyPr)
+ - 😝 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
+ - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 💣 [Hehe...](http://9gag.com/gag/a7oAV5x)
  - 😝 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)
- - 👉 [Hehe...](http://9gag.com/gag/a7oAV5x)<!-- MEMES:END -->
+ - 👉 [Basketball moment](http://9gag.com/gag/ae9WZ2b)<!-- MEMES:END -->
 
 ---
 

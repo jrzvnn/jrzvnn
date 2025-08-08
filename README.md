@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Lens PDF Scanner will get killed before the end of 2025](https://appleinsider.com/articles/25/08/08/microsoft-lens-pdf-scanner-will-get-killed-before-the-end-of-2025?utm_source=rss)
  - [Leaked spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT scammers show how they track potential jobs and record earnings &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250808/p19#a250808p19)
  - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/08/08/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data](https://www.wired.com/story/corporate-livestreams-exposed-search-tool/)
- - [Mini Ikea stores will be opening inside select Best Buy locations this year](https://www.theverge.com/news/756868/ikea-retail-experience-best-buy)<!-- TECH:END -->
+ - [Today&#39;s Super-Tough NYT Strands Answers for Aug. 8, #523, Explained](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-8-523/#ftag=CAD590a51e)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

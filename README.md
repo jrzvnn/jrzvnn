@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
  - [A look at the impact of AI voice cloning on India&#39;s dubbing and voiceover sector, as artists demand consent, credit, and fair pay amid a lack of laws for AI use &lpar;Zico Ghosh/The Hollywood Reporter&rpar;](http://www.techmeme.com/250808/p7#a250808p7)
  - [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)
  - [Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’](https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/)
- - [As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250808/p6#a250808p6)
- - [Analysis: 12 Chinese tech companies have applied to list in Hong Kong so far this year, the most since 2023, after rules allowed lossmaking companies to float &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p5#a250808p5)<!-- TECH:END -->
+ - [As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250808/p6#a250808p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

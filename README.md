@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Lens PDF Scanner will get killed before the end of 2025](https://appleinsider.com/articles/25/08/08/microsoft-lens-pdf-scanner-will-get-killed-before-the-end-of-2025?utm_source=rss)
- - [Leaked spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT scammers show how they track potential jobs and record earnings &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250808/p19#a250808p19)
- - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/08/08/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
- - [Today&#39;s Super-Tough NYT Strands Answers for Aug. 8, #523, Explained](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-8-523/#ftag=CAD590a51e)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)<!-- TECH:END -->
+ - [A decade later, Windows is still bringing Control Panel features to the Settings app](https://www.theverge.com/news/756958/windows-11-settings-control-panel-update-mobile-app-notifications-start-menu)
+ - [How Wikipedia is fighting AI slop content](https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion)
+ - [Join Our Next Livestream: What GPT-5 Means for ChatGPT Users](https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/)
+ - [Nobody is going to send you unsolicited messages for remote work](https://appleinsider.com/articles/25/08/08/nobody-is-going-to-send-you-unsolicited-messages-for-remote-work?utm_source=rss)
+ - [Microsoft Lens PDF Scanner will get killed before the end of 2025](https://appleinsider.com/articles/25/08/08/microsoft-lens-pdf-scanner-will-get-killed-before-the-end-of-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

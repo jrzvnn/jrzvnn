@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
  - 😝 [Title](http://9gag.com/gag/aQzVQQd)
- - 💣 [You&#39;re ded](http://9gag.com/gag/ayNP6jy)
- - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
- - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
+ - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 😝 [When muscle memory kicks in.](http://9gag.com/gag/ae9WZ8m)
+ - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
 
 ---
 

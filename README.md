@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
- - 😝 [Full Counter Damage](http://9gag.com/gag/awyvmpD)
- - 💣 [Men of focus, commitment, and sheer f**king will!](http://9gag.com/gag/aoyD42g)
- - 😝 [Here&#39;s to 40!!!](http://9gag.com/gag/aRBDzvy)
- - 👉 [Leopard](http://9gag.com/gag/a34nyPr)<!-- MEMES:END -->
+ - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 💣 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
 
 ---
 

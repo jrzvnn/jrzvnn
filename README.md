@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
- - 😝 [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
- - 💣 [Lizard](http://9gag.com/gag/a9yBvgL)
- - 😝 [LC Signs](http://9gag.com/gag/awyvmKR)
- - 👉 [That is mine](http://9gag.com/gag/apR86PE)<!-- MEMES:END -->
+ - 😝 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
+ - 💣 [A new bike](http://9gag.com/gag/an7V2bo)
+ - 😝 [SACRIFICE SACRIFICE](http://9gag.com/gag/aryzXDy)
+ - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
 
 ---
 

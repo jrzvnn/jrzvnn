@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 😝 [Guess who&#39;s still around](http://9gag.com/gag/a0ewVeX)
- - 💣 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
- - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
+ - 😝 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
+ - 😝 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
+ - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
 
 ---
 

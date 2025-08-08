@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
- - 😝 [Lizard](http://9gag.com/gag/a9yBvgL)
- - 💣 [LC Signs](http://9gag.com/gag/awyvmKR)
  - 😝 [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
+ - 💣 [Lizard](http://9gag.com/gag/a9yBvgL)
+ - 😝 [LC Signs](http://9gag.com/gag/awyvmKR)
  - 👉 [Accurate](http://9gag.com/gag/an7V2d5)<!-- MEMES:END -->
 
 ---

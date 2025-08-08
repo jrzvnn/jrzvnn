@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)
  - [A decade later, Windows is still bringing Control Panel features to the Settings app](https://www.theverge.com/news/756958/windows-11-settings-control-panel-update-mobile-app-notifications-start-menu)
  - [How Wikipedia is fighting AI slop content](https://www.theverge.com/report/756810/wikipedia-ai-slop-policies-community-speedy-deletion)
- - [Join Our Next Livestream: What GPT-5 Means for ChatGPT Users](https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/)
- - [Nobody is going to send you unsolicited messages for remote work](https://appleinsider.com/articles/25/08/08/nobody-is-going-to-send-you-unsolicited-messages-for-remote-work?utm_source=rss)
- - [Microsoft Lens PDF Scanner will get killed before the end of 2025](https://appleinsider.com/articles/25/08/08/microsoft-lens-pdf-scanner-will-get-killed-before-the-end-of-2025?utm_source=rss)<!-- TECH:END -->
+ - [You Don&#39;t Need iOS 26 to Get This Dreamy Wallpaper on Your iPhone Now](https://www.cnet.com/tech/services-and-software/you-dont-need-ios-26-to-get-this-dreamy-wallpaper-on-your-iphone-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI gives some employees a ‘special’ multimillion-dollar bonus](https://www.theverge.com/command-line-newsletter/756561/openai-employees-bonus-sam-altman-ai-talent-wars)
+ - [An analysis of 96K public ChatGPT transcripts finds 100+ lengthy chats, of which dozens exhibited delusional traits where ChatGPT reinforced users&#39; fringe ideas &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250807/p59#a250807p59)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Aug. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-aug-8/#ftag=CAD590a51e)
  - [Sources: TBD Lab, a team under Meta Superintelligence Labs that houses many researchers poached from rival labs, is spearheading work on Llama&#39;s newest version &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250807/p58#a250807p58)
- - [Twilio Q2: revenue up 13% YoY to $1.23B, vs. $1.19B est., 349K+ active customer accounts, and Q3 earnings forecast below est.; TWLO falls 10%+ after hours &lpar;Brandon Evans/Seeking Alpha&rpar;](http://www.techmeme.com/250807/p57#a250807p57)
- - [The Browser Company launches a $20-per-month Dia Pro subscription plan, providing unlimited access to the web browser&#39;s AI-powered chat and skills features &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250807/p56#a250807p56)
- - [Sources: Meta picks Pimco and Blue Owl to lead a $29B financing for its Louisiana data center expansion, providing $26B in debt and $3B in equity, respectively &lpar;Bloomberg&rpar;](http://www.techmeme.com/250807/p55#a250807p55)<!-- TECH:END -->
+ - [Twilio Q2: revenue up 13% YoY to $1.23B, vs. $1.19B est., 349K+ active customer accounts, and Q3 earnings forecast below est.; TWLO falls 10%+ after hours &lpar;Brandon Evans/Seeking Alpha&rpar;](http://www.techmeme.com/250807/p57#a250807p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

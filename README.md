@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
- - 😝 [This is good](http://9gag.com/gag/a87zmVZ)
- - 💣 [A new bike](http://9gag.com/gag/an7V2bo)
- - 😝 [SACRIFICE SACRIFICE](http://9gag.com/gag/aryzXDy)
- - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
+ - 😝 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
+ - 😝 [Went wrong here?](http://9gag.com/gag/amon62X)
+ - 💣 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
+ - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
+ - 👉 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)<!-- MEMES:END -->
 
 ---
 

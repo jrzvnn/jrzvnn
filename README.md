@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says Apple Intelligence will use OpenAI&#39;s GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250808/p8#a250808p8)
+ - [Sony insists Xperia phones are ‘very important’ to it](https://www.theverge.com/news/756593/sony-insists-xperia-phones-are-very-important-to-it)
  - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
  - [A look at the impact of AI voice cloning on India&#39;s dubbing and voiceover sector, as artists demand consent, credit, and fair pay amid a lack of laws for AI use &lpar;Zico Ghosh/The Hollywood Reporter&rpar;](http://www.techmeme.com/250808/p7#a250808p7)
- - [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)
- - [Donald Trump Orders Crackdown on Politically-Motivated ‘Debanking’](https://www.wired.com/story/donald-trump-orders-crackdown-on-politically-motivated-debanking/)
- - [As Trump targets Intel CEO Lip-Bu Tan, a look at his VC firm Walden International, which has invested $5B+ in 600+ companies, with 100+ in China including SMIC &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250808/p6#a250808p6)<!-- TECH:END -->
+ - [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

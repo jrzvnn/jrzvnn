@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
- - 😝 [Evil robot](http://9gag.com/gag/aYQmO8x)
- - 💣 [Men of focus, commitment, and sheer f**king will!](http://9gag.com/gag/aoyD42g)
- - 😝 [Full Counter Damage](http://9gag.com/gag/awyvmpD)
- - 👉 [Leopard](http://9gag.com/gag/a34nyPr)<!-- MEMES:END -->
+ - 😝 [13%](http://9gag.com/gag/aRBDM82)
+ - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 💣 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 😝 [Here&#39;s to 40!!!](http://9gag.com/gag/aRBDzvy)
+ - 👉 [Basketball moment](http://9gag.com/gag/ae9WZ2b)<!-- MEMES:END -->
 
 ---
 

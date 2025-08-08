@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 💣 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
- - 👉 [13%](http://9gag.com/gag/aRBDM82)<!-- MEMES:END -->
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 😝 [...](http://9gag.com/gag/a34n0WN)
+ - 💣 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 😝 [History is important](http://9gag.com/gag/aPAn8mK)
+ - 👉 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)<!-- MEMES:END -->
 
 ---
 

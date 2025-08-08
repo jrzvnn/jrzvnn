@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ripple and the SEC agree to dismiss their court appeals, ending a lawsuit but leaving a judge&#39;s injunction on XRP sales to institutions and a $125M fine intact &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250808/p18#a250808p18)
+ - [Instagram’s Map is here, and this is how you can turn it off](https://www.theverge.com/news/756798/instagram-map-how-to-turn-it-off)
  - [With GPT-5&#39;s launch, OpenAI has removed its older models like GPT-4o and o3 from the ChatGPT model selector, sparking a backlash from some users &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/250808/p17#a250808p17)
  - [Apple Intelligence’s ChatGPT integration will use GPT-5 starting with iOS 26](https://www.theverge.com/news/756799/apple-intelligence-openai-chatgpt-gpt-5-ios-26)
- - [Avia Smart Deadbolt+ and SolarPro review: Home Key convenience, traditional package](https://appleinsider.com/articles/25/08/08/avia-smart-deadbolt-and-solarpro-review-home-key-convenience-traditional-package?utm_source=rss)
- - [Price war: Save up to $400 on MacBook Pros this weekend](https://appleinsider.com/articles/25/08/08/price-war-save-up-to-400-on-macbook-pros-this-weekend?utm_source=rss)
- - [&#39;House of the Dragon&#39; Actor&#39;s New Horror Game Skewers Hollywood](https://www.wired.com/story/house-of-the-dragon-actors-new-horror-game-skewers-hollywood/)<!-- TECH:END -->
+ - [Avia Smart Deadbolt+ and SolarPro review: Home Key convenience, traditional package](https://appleinsider.com/articles/25/08/08/avia-smart-deadbolt-and-solarpro-review-home-key-convenience-traditional-package?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

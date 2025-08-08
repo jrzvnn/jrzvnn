@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 😝 [Yeah, the serum is called steroid](http://9gag.com/gag/an7VnO0)
- - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [Burr&lpar;n&rpar;](http://9gag.com/gag/aW49vyA)
- - 👉 [Lovely astronaut](http://9gag.com/gag/adBbnoj)<!-- MEMES:END -->
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 😝 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)
+ - 💣 [Bobcat slaps birb midair. Video by oc.wild on IG](http://9gag.com/gag/aAyZ4N9)
+ - 😝 [Accurate](http://9gag.com/gag/an7V2d5)
+ - 👉 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 💣 [Title](http://9gag.com/gag/aQzVQQd)
+ - 😝 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 💣 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
  - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
- - 👉 [Hehe...](http://9gag.com/gag/a7oAV5x)<!-- MEMES:END -->
+ - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
 
 ---
 

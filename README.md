@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft will phase out its Lens scanner app, launched in 2014 as Office Lens, starting in September; users can create new scans in the app only until December &lpar;Rishaj Upadhyay/Windows Report&rpar;](http://www.techmeme.com/250808/p23#a250808p23)
  - [Orico MiniMate review: Cute, and fast enough, but too loud](https://appleinsider.com/articles/25/08/08/orico-minimate-review-cute-and-fast-enough-but-too-loud?utm_source=rss)
  - [Coinbase rolls out DEX trading in its app for US users, excluding New York state, starting with assets on the Base network, with Solana support &quot;coming soon&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250808/p22#a250808p22)
  - [Apple defends itself -- again -- against Fintiv&#39;s Apple Pay theft claims](https://appleinsider.com/articles/25/08/08/apple-defends-itself----again----against-fintivs-apple-pay-theft-claims?utm_source=rss)
- - [Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds](https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/)
- - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)<!-- TECH:END -->
+ - [Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds](https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

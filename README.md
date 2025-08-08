@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/08/08/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [A Misconfiguration That Haunts Corporate Streaming Platforms Could Expose Sensitive Data](https://www.wired.com/story/corporate-livestreams-exposed-search-tool/)
  - [Mini Ikea stores will be opening inside select Best Buy locations this year](https://www.theverge.com/news/756868/ikea-retail-experience-best-buy)
- - [Ripple and the SEC agree to dismiss their court appeals, ending a lawsuit but leaving a judge&#39;s injunction on XRP sales to institutions and a $125M fine intact &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250808/p18#a250808p18)
- - [Instagram’s Map is here, and this is how you can turn your location off](https://www.theverge.com/news/756798/instagram-map-how-to-turn-it-off)
- - [With GPT-5&#39;s launch, OpenAI has removed its older models like GPT-4o and o3 from the ChatGPT model selector, sparking a backlash from some users &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/250808/p17#a250808p17)<!-- TECH:END -->
+ - [Ripple and the SEC agree to dismiss their court appeals, ending a lawsuit but leaving a judge&#39;s injunction on XRP sales to institutions and a $125M fine intact &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250808/p18#a250808p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

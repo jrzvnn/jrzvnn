@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Orico MiniMate review: Cute, and fast enough, but too loud](https://appleinsider.com/articles/25/08/08/orico-minimate-review-cute-and-fast-enough-but-too-loud?utm_source=rss)
  - [Coinbase rolls out DEX trading in its app for US users, excluding New York state, starting with assets on the Base network, with Solana support &quot;coming soon&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250808/p22#a250808p22)
  - [Apple defends itself -- again -- against Fintiv&#39;s Apple Pay theft claims](https://appleinsider.com/articles/25/08/08/apple-defends-itself----again----against-fintivs-apple-pay-theft-claims?utm_source=rss)
  - [Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds](https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/)
- - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)
- - [Orico MiniMate review: Cute, and fast enough, but too loud](https://appleinsider.com/articles/25/08/08/orico-minimate-review-cute-and-fast-enough-but-too-loud?utm_source=rss)<!-- TECH:END -->
+ - [iPad Pro &amp; MacBook Air get mashed up into the MacBook Apple won&#39;t make](https://appleinsider.com/articles/25/08/08/ipad-pro-macbook-air-get-mashed-up-into-the-macbook-apple-wont-make?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

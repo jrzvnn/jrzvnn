@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Truth Social&#39;s New AI Chatbot Is Donald Trump&#39;s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)
+ - [Silver Lake unveils a $400M project to secure powered land for data center developers; it has secured 3GW of power and is developing sites in Texas and Georgia &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250808/p24#a250808p24)
  - [Microsoft will phase out its Lens scanner app, launched in 2014 as Office Lens, starting in September; users can create new scans in the app only until December &lpar;Rishaj Upadhyay/Windows Report&rpar;](http://www.techmeme.com/250808/p23#a250808p23)
- - [Orico MiniMate review: Cute, and fast enough, but too loud](https://appleinsider.com/articles/25/08/08/orico-minimate-review-cute-and-fast-enough-but-too-loud?utm_source=rss)
- - [Coinbase rolls out DEX trading in its app for US users, excluding New York state, starting with assets on the Base network, with Solana support &quot;coming soon&quot; &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250808/p22#a250808p22)
- - [Apple defends itself -- again -- against Fintiv&#39;s Apple Pay theft claims](https://appleinsider.com/articles/25/08/08/apple-defends-itself----again----against-fintivs-apple-pay-theft-claims?utm_source=rss)
- - [Hackers Went Looking for a Backdoor in High-Security Safes—and Now Can Open Them in Seconds](https://www.wired.com/story/securam-prologic-safe-lock-backdoor-exploits/)<!-- TECH:END -->
+ - [I Built a Powerful Gaming PC Solely to Run AI Models. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-built-a-powerful-gaming-pc-solely-to-run-ai-models-heres-why/#ftag=CAD590a51e)
+ - [Best Cordless Vacuums We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

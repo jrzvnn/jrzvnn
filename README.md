@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sony insists Xperia phones are ‘very important’ to it](https://www.theverge.com/news/756593/sony-insists-xperia-phones-are-very-important-to-it)
  - [How to back up your Mac under macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-back-up-your-mac-under-macos-tahoe?utm_source=rss)
  - [A look at the impact of AI voice cloning on India&#39;s dubbing and voiceover sector, as artists demand consent, credit, and fair pay amid a lack of laws for AI use &lpar;Zico Ghosh/The Hollywood Reporter&rpar;](http://www.techmeme.com/250808/p7#a250808p7)
- - [Apple’s lock on iPhone browser engines gets a December deadline](https://www.theverge.com/news/756580/apple-japan-alternative-ios-browsers)<!-- TECH:END -->
+ - [Best Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-streaming-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

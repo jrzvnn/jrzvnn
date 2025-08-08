@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World](https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/)
  - [Two tech groups are backing Anthropic&#39;s appeal of a court ruling allowing a copyright class action, saying potential big settlements could chill AI investment &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250808/p26#a250808p26)
  - [Sources: the US has started issuing licenses to Nvidia to export H20 chips to China following weeks of inaction, after Jensen Huang met Trump on Wednesday &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p25#a250808p25)
  - [Microsoft&#39;s Clippy Crocs Might Be the World&#39;s Weirdest Pair of Shoes](https://www.cnet.com/tech/services-and-software/microsofts-clippy-crocs-might-be-the-worlds-weirdest-pair-of-shoes/#ftag=CAD590a51e)
- - [Truth Social&#39;s New AI Chatbot Is Donald Trump&#39;s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)
- - [Silver Lake unveils a $400M project to secure powered land for data center developers; it has secured 3GW of power and is developing sites in Texas and Georgia &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250808/p24#a250808p24)<!-- TECH:END -->
+ - [Truth Social&#39;s New AI Chatbot Is Donald Trump&#39;s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

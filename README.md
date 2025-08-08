@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
- - 😝 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 💣 [We never got our rights from asking nicely](http://9gag.com/gag/an7Vvj5)
- - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
- - 👉 [Basketball moment](http://9gag.com/gag/ae9WZ2b)<!-- MEMES:END -->
+ - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 😝 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
+ - 💣 [Lizard](http://9gag.com/gag/a9yBvgL)
+ - 😝 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)
+ - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
 
 ---
 

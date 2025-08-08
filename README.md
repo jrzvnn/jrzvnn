@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two tech groups are backing Anthropic&#39;s appeal of a court ruling allowing a copyright class action, saying potential big settlements could chill AI investment &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250808/p26#a250808p26)
  - [Sources: the US has started issuing licenses to Nvidia to export H20 chips to China following weeks of inaction, after Jensen Huang met Trump on Wednesday &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p25#a250808p25)
+ - [Microsoft&#39;s Clippy Crocs Might Be the World&#39;s Weirdest Pair of Shoes](https://www.cnet.com/tech/services-and-software/microsofts-clippy-crocs-might-be-the-worlds-weirdest-pair-of-shoes/#ftag=CAD590a51e)
  - [Truth Social&#39;s New AI Chatbot Is Donald Trump&#39;s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)
- - [Silver Lake unveils a $400M project to secure powered land for data center developers; it has secured 3GW of power and is developing sites in Texas and Georgia &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250808/p24#a250808p24)
- - [Microsoft will phase out its Lens scanner app, launched in 2014 as Office Lens, starting in September; users can create new scans in the app only until December &lpar;Rishaj Upadhyay/Windows Report&rpar;](http://www.techmeme.com/250808/p23#a250808p23)
- - [I Built a Powerful Gaming PC Solely to Run AI Models. Here&#39;s Why](https://www.cnet.com/tech/services-and-software/i-built-a-powerful-gaming-pc-solely-to-run-ai-models-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Silver Lake unveils a $400M project to secure powered land for data center developers; it has secured 3GW of power and is developing sites in Texas and Georgia &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250808/p24#a250808p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

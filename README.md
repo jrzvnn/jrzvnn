@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [13%](http://9gag.com/gag/aRBDM82)
- - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 💣 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 😝 [Here&#39;s to 40!!!](http://9gag.com/gag/aRBDzvy)
- - 👉 [Basketball moment](http://9gag.com/gag/ae9WZ2b)<!-- MEMES:END -->
+ - 😝 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
+ - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 👉 [Guess who&#39;s still around](http://9gag.com/gag/a0ewVeX)<!-- MEMES:END -->
 
 ---
 

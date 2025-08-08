@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi Ricardo... No.](http://9gag.com/gag/azxQKnz)
- - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 💣 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 😝 [Bobcat slaps birb midair. Video by oc.wild on IG](http://9gag.com/gag/aAyZ4N9)
- - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/a34n0WN)
+ - 😝 [Guess who&#39;s still around](http://9gag.com/gag/a0ewVeX)
+ - 💣 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
 
 ---
 

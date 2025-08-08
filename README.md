@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
  - 😝 [Went wrong here?](http://9gag.com/gag/amon62X)
- - 💣 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
- - 😝 [\u201cWait... is this Pepechu for real?](http://9gag.com/gag/aLnr4rV)
- - 👉 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)<!-- MEMES:END -->
+ - 😝 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
+ - 💣 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 👉 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)<!-- MEMES:END -->
 
 ---
 

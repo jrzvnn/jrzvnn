@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 😝 [Its not like in the movie](http://9gag.com/gag/aZZv1n6)
- - 💣 [Alien Isolation Ai was really good and ahead of time, i read about it, they didnt make the ai know your location, they actually made it `think` and observe the space and look for you.](http://9gag.com/gag/agmjOQx)
- - 😝 [What is AEI and how can I get some?](http://9gag.com/gag/avym1Kb)
- - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
+ - 😝 [I think we all know where this is going...](http://9gag.com/gag/azxQK9q)
+ - 😝 [Captain Slow has no chill](http://9gag.com/gag/aoyDRDn)
+ - 💣 [Lizard](http://9gag.com/gag/a9yBvgL)
+ - 😝 [LC Signs](http://9gag.com/gag/awyvmKR)
+ - 👉 [That is mine](http://9gag.com/gag/apR86PE)<!-- MEMES:END -->
 
 ---
 

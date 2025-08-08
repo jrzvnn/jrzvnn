@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says OpenAI should prioritize growth and its investments in training and compute &quot;for a long time&quot;, even if it delays its path to profitability &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250808/p15#a250808p15)
+ - [Japan law is forcing more browser choice on iPhone in December](https://appleinsider.com/articles/25/08/08/japan-law-is-forcing-more-browser-choice-on-iphone-in-december?utm_source=rss)
  - [The Google Finance page is getting an AI makeover](https://www.theverge.com/news/756720/google-finance-ai-makeover-chatbot)
  - [21 Best Festival Accessories and Gear &lpar;2025&rpar;: The Essentials and the Fun Stuff](https://www.wired.com/gallery/best-festival-accessories/)
- - [GPT-5&#39;s system card says gpt-5-thinking has a hallucination rate of 4.5% with browsing enabled, compared to gpt-5-main&#39;s 9.6%, GPT-4o&#39;s 12.9%, and o3&#39;s 12.7% &lpar;Cecily Mauran/Mashable&rpar;](http://www.techmeme.com/250808/p14#a250808p14)
- - [Turn your AirPods Max into a masterpiece with Casetify’s new headphone wrap](https://www.theverge.com/news/756693/casetify-apple-airpods-max-johannes-vermeer-girl-with-a-pearl-earring)
- - [What is Laura Loomer?](https://www.theverge.com/politics/756411/laura-loomer-explainer-maga-trump)<!-- TECH:END -->
+ - [GPT-5&#39;s system card says gpt-5-thinking has a hallucination rate of 4.5% with browsing enabled, compared to gpt-5-main&#39;s 9.6%, GPT-4o&#39;s 12.9%, and o3&#39;s 12.7% &lpar;Cecily Mauran/Mashable&rpar;](http://www.techmeme.com/250808/p14#a250808p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

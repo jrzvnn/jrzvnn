@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank purchased Foxconn&#39;s EV plant in Ohio for $375M, a move aimed at kickstarting its $500B Stargate data center project with OpenAI and Oracle &lpar;Bloomberg&rpar;](http://www.techmeme.com/250808/p9#a250808p9)
+ - [iPhone Fold rumors and renders: What to expect after years of leaks and speculation](https://appleinsider.com/articles/25/08/08/iphone-fold-rumors-and-renders-what-to-expect-after-years-of-leaks-and-speculation?utm_source=rss)
+ - [Inside Photos in iOS 26 &amp; macOS 26 -- refinements in Apple&#39;s image and video management tool](https://appleinsider.com/inside/ios-26/tips/inside-photos-in-ios-26-macos-26----refinements-in-apples-image-and-video-management-tool?utm_source=rss)
  - [Microsoft’s new Copilot 3D feature is great for Ikea, bad for my dog](https://www.theverge.com/hands-on/756587/microsoft-copilot-3d-feature-hands-on)
- - [The Song of the Summer Is Dead](https://www.wired.com/story/the-song-of-the-summer-is-dead/)
- - [Apple says Apple Intelligence will use OpenAI&#39;s GPT-5 on iOS 26, iPadOS 26, and macOS Tahoe 26, with the system updates expected to arrive in September &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250808/p8#a250808p8)
- - [Sony insists Xperia phones are ‘very important’ to it](https://www.theverge.com/news/756593/sony-insists-xperia-phones-are-very-important-to-it)
- - [iOS 26: Friends Can&#39;t Decide What to Eat? Here&#39;s How to Create a Poll in Messages](https://www.cnet.com/tech/services-and-software/ios-26-friends-cant-decide-what-to-eat-heres-how-to-create-a-poll-in-messages/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Song of the Summer Is Dead](https://www.wired.com/story/the-song-of-the-summer-is-dead/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

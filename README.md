@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
+ - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
  - 😝 [Title](http://9gag.com/gag/aQzVQQd)
- - 💣 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
+ - 💣 [Her name is literally Karen.](http://9gag.com/gag/aXPeNmb)
  - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
  - 👉 [The reason why you only see photos...](http://9gag.com/gag/axy4vgD)<!-- MEMES:END -->
 

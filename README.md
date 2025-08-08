@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a satisfied day](http://9gag.com/gag/aW49LbZ)
- - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 💣 [13%](http://9gag.com/gag/aRBDM82)
- - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 😝 [13%](http://9gag.com/gag/aRBDM82)
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 😝 [Burr&lpar;n&rpar;](http://9gag.com/gag/aW49vyA)
  - 👉 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They might get radioactive but will never become fireproof](http://9gag.com/gag/aryzA1K)
- - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 💣 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 👉 [Guess who&#39;s still around](http://9gag.com/gag/a0ewVeX)<!-- MEMES:END -->
+ - 😝 [I&#39;m Losing?Inconceivable!](http://9gag.com/gag/aPAnoOB)
+ - 😝 [Full Counter Damage](http://9gag.com/gag/awyvmpD)
+ - 💣 [Men of focus, commitment, and sheer f**king will!](http://9gag.com/gag/aoyD42g)
+ - 😝 [Here&#39;s to 40!!!](http://9gag.com/gag/aRBDzvy)
+ - 👉 [Leopard](http://9gag.com/gag/a34nyPr)<!-- MEMES:END -->
 
 ---
 

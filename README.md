@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 💣 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 💣 [13%](http://9gag.com/gag/aRBDM82)
  - 😝 [Lady brings the bants](http://9gag.com/gag/aW49oYq)
- - 👉 [When muscle memory kicks in.](http://9gag.com/gag/ae9WZ8m)<!-- MEMES:END -->
+ - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
 
 ---
 

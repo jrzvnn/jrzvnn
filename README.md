@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Late-night iCloud outage stopped users from accessing files for hours](https://appleinsider.com/articles/25/08/09/late-night-icloud-outage-stopped-users-from-accessing-files-for-hours?utm_source=rss)
- - [Matter and Form Three 3D Scanner Review: Easy Scans](https://www.wired.com/review/matter-and-form-three-3d-scanner/)
- - [What&amp;#8217;s a smut peddler to do these days?](https://www.theverge.com/report/756841/itchio-adult-content-creator-backlash-steam-paypal)
- - [Struggling to Rest on Your Period? These Sleep Hacks May Help](https://www.cnet.com/health/sleep/struggling-rest-on-period-sleep-hacks-may-help/#ftag=CAD590a51e)
- - [How to Watch Leeds United vs. Milan From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-leeds-united-vs-milan-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is This Seat Taken? makes seating fussy people fun](https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android)
+ - [I went camping in a heat dome, and these five gadgets saved my vacation](https://www.theverge.com/smart-home/717771/camping-heat-dome-and-these-gadgets-saved-my-vacation)
+ - [Why Donald Trump’s environmental data purge is so much worse this time](https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump)
+ - [Sand and Deliver: We Raced Across Dunes to Find the Best Beach Wagon](https://www.wired.com/story/the-best-beach-wagons-tested/)
+ - [Why You Need an Outdoor Air Quality Monitor &lpar;2025&rpar;](https://www.wired.com/story/why-you-need-an-outdoor-air-quality-monitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

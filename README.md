@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Open Earbuds, Tested and Reviewed &lpar;2025&rpar;: Bose and More](https://www.wired.com/gallery/best-open-ear-buds/)
  - [Is This Seat Taken? makes seating fussy people fun](https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android)
  - [I went camping in a heat dome, and these five gadgets saved my vacation](https://www.theverge.com/smart-home/717771/camping-heat-dome-and-these-gadgets-saved-my-vacation)
  - [Why Donald Trump’s environmental data purge is so much worse this time](https://www.theverge.com/science/757084/data-purge-climate-change-environmental-justice-trump)
- - [Sand and Deliver: We Raced Across Dunes to Find the Best Beach Wagon](https://www.wired.com/story/the-best-beach-wagons-tested/)
- - [Why You Need an Outdoor Air Quality Monitor &lpar;2025&rpar;](https://www.wired.com/story/why-you-need-an-outdoor-air-quality-monitor/)<!-- TECH:END -->
+ - [Sand and Deliver: We Raced Across Dunes to Find the Best Beach Wagon](https://www.wired.com/story/the-best-beach-wagons-tested/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 💣 [Rebecca](http://9gag.com/gag/a4PVN3v)
- - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
+ - 😝 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)
+ - 😝 [Accurate](http://9gag.com/gag/an7V2d5)
+ - 💣 [History is important](http://9gag.com/gag/aPAn8mK)
+ - 😝 [Cheers is filmed before a live studio audience](http://9gag.com/gag/ajPyx5x)
+ - 👉 [Sorry for the cancer, but i promise the rest is worth to watch.](http://9gag.com/gag/aGybGx0)<!-- MEMES:END -->
 
 ---
 

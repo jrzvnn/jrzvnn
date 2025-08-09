@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Women`](http://9gag.com/gag/aMVynxA)
- - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
- - 💣 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
- - 😝 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)
- - 👉 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)<!-- MEMES:END -->
+ - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
+ - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
+ - 💣 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
+ - 😝 [Letsss goooo](http://9gag.com/gag/agmj4yK)
+ - 👉 [There were 3 babies](http://9gag.com/gag/abAEx9L)<!-- MEMES:END -->
 
 ---
 

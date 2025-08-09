@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [Lady brings the bants](http://9gag.com/gag/aW49oYq)
+ - 😝 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
+ - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
+ - 💣 [Rebecca](http://9gag.com/gag/a4PVN3v)
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
  - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
 
 ---

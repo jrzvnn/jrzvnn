@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
- - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
- - 💣 [Degenerates united](http://9gag.com/gag/azxQRVq)
- - 😝 [History is just happening](http://9gag.com/gag/aLnrm8v)
- - 👉 [So far so good only 2/3/5...](http://9gag.com/gag/aAyZ2dL)<!-- MEMES:END -->
+ - 😝 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 💣 [There were 3 babies](http://9gag.com/gag/abAEx9L)
+ - 😝 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
+ - 👉 [Lovely astronaut](http://9gag.com/gag/adBbnoj)<!-- MEMES:END -->
 
 ---
 

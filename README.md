@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 😝 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)
- - 💣 [Sorry for the cancer, but i promise the rest is worth to watch.](http://9gag.com/gag/aGybGx0)
- - 😝 [Accurate](http://9gag.com/gag/an7V2d5)
- - 👉 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)<!-- MEMES:END -->
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 💣 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [Lady brings the bants](http://9gag.com/gag/aW49oYq)
+ - 👉 [When muscle memory kicks in.](http://9gag.com/gag/ae9WZ8m)<!-- MEMES:END -->
 
 ---
 

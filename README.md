@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
- - 😝 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)
- - 💣 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 👉 [Down to Golem&#39;s cave](http://9gag.com/gag/ajPyxrq)<!-- MEMES:END -->
+ - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
+ - 💣 [And then regret it later](http://9gag.com/gag/a7oA9oz)
+ - 😝 [Sorcery](http://9gag.com/gag/azxQG6q)
+ - 👉 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)<!-- MEMES:END -->
 
 ---
 

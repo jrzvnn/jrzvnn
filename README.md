@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 💣 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
  - 😝 [If some of you are still confused](http://9gag.com/gag/aKGp8OO)
- - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
+ - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
 
 ---
 

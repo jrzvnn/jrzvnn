@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [US nuclear, geothermal, and energy storage companies have found a lifeline in the AI data center boom after years of challenges such as high interest rates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p9#a250809p9)
+ - [11 Great Horror Movies to Stream on Prime Video Now](https://www.cnet.com/tech/services-and-software/11-great-horror-movies-to-stream-on-prime-video-now/#ftag=CAD590a51e)
+ - [Best Internet Providers in San Francisco](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
  - [Advocates for net neutrality say they won&#39;t appeal a ruling against the policy, saying they don&#39;t trust the US Supreme Court to rule fairly on the issue &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250809/p8#a250809p8)
- - [After User Backlash, OpenAI Is Bringing Back Older ChatGPT Models](https://www.cnet.com/tech/services-and-software/after-user-backlash-openai-is-bringing-back-older-chatgpt-models/#ftag=CAD590a51e)
- - [You had mail: AOL finally discontinues dial-up Internet service](https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service?utm_source=rss)
- - [How to Watch Arsenal vs. Athletic Club From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-arsenal-vs-athletic-club-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After User Backlash, OpenAI Is Bringing Back Older ChatGPT Models](https://www.cnet.com/tech/services-and-software/after-user-backlash-openai-is-bringing-back-older-chatgpt-models/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

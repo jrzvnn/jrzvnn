@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 😝 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 💣 [Rebecca](http://9gag.com/gag/a4PVN3v)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
  - 😝 [Where the f is everyone?](http://9gag.com/gag/a2vGDAY)
+ - 💣 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
+ - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
  - 👉 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)<!-- MEMES:END -->
 
 ---

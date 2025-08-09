@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
+ - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 💣 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
+ - 😝 [Lady brings the bants](http://9gag.com/gag/aW49oYq)
  - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
 
 ---

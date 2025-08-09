@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 💣 [...](http://9gag.com/gag/a34n0WN)
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 👉 [An island of women](http://9gag.com/gag/aryzZ07)<!-- MEMES:END -->
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 💣 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
+ - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
+ - 👉 [Rebecca](http://9gag.com/gag/a4PVN3v)<!-- MEMES:END -->
 
 ---
 

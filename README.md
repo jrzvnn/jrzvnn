@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 💣 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
+ - 😝 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 😝 [Rebecca](http://9gag.com/gag/a4PVN3v)
+ - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 😝 [Sanji gets all blue...](http://9gag.com/gag/aGybG0n)
  - 👉 [An island of women](http://9gag.com/gag/aryzZ07)<!-- MEMES:END -->
 
 ---

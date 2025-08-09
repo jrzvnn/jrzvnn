@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You&#39;re ded](http://9gag.com/gag/ayNP6jy)
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 💣 [Rebecca](http://9gag.com/gag/a4PVN3v)
  - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 💣 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
- - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
+ - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
 
 ---
 

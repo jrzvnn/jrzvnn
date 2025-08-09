@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
- - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 💣 [So far so good only 2/3/5...](http://9gag.com/gag/aAyZ2dL)
- - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
- - 👉 [An island of women](http://9gag.com/gag/aryzZ07)<!-- MEMES:END -->
+ - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
+ - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
+ - 💣 [Degenerates united](http://9gag.com/gag/azxQRVq)
+ - 😝 [History is just happening](http://9gag.com/gag/aLnrm8v)
+ - 👉 [So far so good only 2/3/5...](http://9gag.com/gag/aAyZ2dL)<!-- MEMES:END -->
 
 ---
 

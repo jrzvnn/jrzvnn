@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 😝 [Where the f is everyone?](http://9gag.com/gag/a2vGDAY)
- - 💣 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
- - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
- - 👉 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)<!-- MEMES:END -->
+ - 😝 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
+ - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 💣 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)
+ - 👉 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)<!-- MEMES:END -->
 
 ---
 

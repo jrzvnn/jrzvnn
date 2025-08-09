@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)
- - 😝 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
- - 💣 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [Rebecca](http://9gag.com/gag/a4PVN3v)
+ - 💣 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
  - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
- - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
+ - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
 
 ---
 

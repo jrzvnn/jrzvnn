@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
- - 👉 [No comment](http://9gag.com/gag/aGybGYz)<!-- MEMES:END -->
+ - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
+ - 💣 [Rebecca](http://9gag.com/gag/a4PVN3v)
+ - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
+ - 👉 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)<!-- MEMES:END -->
 
 ---
 

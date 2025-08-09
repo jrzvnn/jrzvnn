@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say TCS&#39; decision to cut 12K jobs signals the start of an AI-fueled trend that could eliminate ~500K jobs in India&#39;s $283B IT sector within three years &lpar;Reuters&rpar;](http://www.techmeme.com/250809/p6#a250809p6)
+ - [The US Court Records System Has Been Hacked](https://www.wired.com/story/us-court-records-system-hacked/)
+ - [Gear News of the Week: iPhone 17 May Be a Month Away, and Sonos to Raise Prices](https://www.wired.com/story/gear-news-of-the-week-iphone-17-may-be-a-month-away-and-sonos-to-raise-prices/)
  - [Here’s How to Buy the Best Used EV](https://www.wired.com/story/heres-how-to-buy-the-best-used-ev/)
- - [What Even Is Instagram Now?](https://www.wired.com/story/what-even-is-instagram-now/)
- - [How to Watch Man United vs. Fiorentina From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-man-united-vs-fiorentina-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)
- - [EFL Championship Soccer: Stream Southampton vs. Wrexham Live From Anywhere](https://www.cnet.com/tech/services-and-software/efl-championship-soccer-stream-southampton-vs-wrexham-live-from-anywhere/#ftag=CAD590a51e)
- - [An analysis of over 1M words of conversation between a ChatGPT user and ChatGPT shows how chatbots can lead ordinarily rational people to spiral into delusion &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p5#a250809p5)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 9, #320](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-9-320/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

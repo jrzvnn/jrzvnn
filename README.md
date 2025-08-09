@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 😝 [Rebecca](http://9gag.com/gag/a4PVN3v)
- - 💣 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [...](http://9gag.com/gag/a34n0WN)
+ - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
  - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
- - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
+ - 👉 [No comment](http://9gag.com/gag/aGybGYz)<!-- MEMES:END -->
 
 ---
 

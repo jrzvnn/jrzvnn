@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
- - 😝 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 💣 [No comment](http://9gag.com/gag/aGybGYz)
- - 😝 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)
- - 👉 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)<!-- MEMES:END -->
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 💣 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
+ - 😝 [Letsss goooo](http://9gag.com/gag/agmj4yK)
+ - 👉 [`Tipping culture`](http://9gag.com/gag/apR8P6p)<!-- MEMES:END -->
 
 ---
 

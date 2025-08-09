@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-9/#ftag=CAD590a51e)
  - [Sources: Trump&#39;s World Liberty Financial is seeking to raise $1.5B to launch a publicly traded crypto treasury company that would hold its WLFI token and cash &lpar;Fortune&rpar;](http://www.techmeme.com/250808/p29#a250808p29)
  - [Sources: Periodic Labs, which is building AI for material science, is raising $200M led by a16z, valuing the company at $1B before the investment &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250808/p28#a250808p28)
  - [Capacity, which uses AI to automate contact center support, raised $92.6M, including a $42.6M Series D and $50M in debt, bringing its total raised to $155M+ &lpar;Kay Aloha Villamor/The SaaS News&rpar;](http://www.techmeme.com/250808/p27#a250808p27)
- - [Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World](https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/)
- - [Tech trade groups CTA and CCIA back Anthropic&#39;s appeal of a court ruling allowing a copyright class action, fearing big settlements could chill AI investment &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250808/p26#a250808p26)<!-- TECH:END -->
+ - [Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World](https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

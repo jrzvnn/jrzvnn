@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
  - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 😝 [Sorcery](http://9gag.com/gag/azxQG6q)
- - 💣 [You&#39;re ded](http://9gag.com/gag/ayNP6jy)
- - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
- - 👉 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)<!-- MEMES:END -->
+ - 💣 [So far so good only 2/3/5...](http://9gag.com/gag/aAyZ2dL)
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 👉 [An island of women](http://9gag.com/gag/aryzZ07)<!-- MEMES:END -->
 
 ---
 

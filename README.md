@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Struggling to Rest on Your Period? These Sleep Hacks May Help](https://www.cnet.com/health/sleep/struggling-rest-on-period-sleep-hacks-may-help/#ftag=CAD590a51e)
+ - [How to Watch Leeds United vs. Milan From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-leeds-united-vs-milan-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)
  - [Private Companies Are Now Gathering Weather Data for NOAA](https://www.wired.com/story/private-companies-step-up-to-gather-weather-data-for-noaa-as-staffing-cuts-hobble-agency-forecasting/)
  - [The 24 Best Shows on Amazon Prime Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Should You Buy an iPhone 16 or Wait for the iPhone 17?](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-16-or-wait-for-the-iphone-17/#ftag=CAD590a51e)
- - [Experts say TCS&#39; decision to cut 12K jobs signals the start of an AI-fueled trend that could eliminate ~500K jobs in India&#39;s $283B IT sector within three years &lpar;Reuters&rpar;](http://www.techmeme.com/250809/p6#a250809p6)
- - [The US Court Records System Has Been Hacked](https://www.wired.com/story/us-court-records-system-hacked/)<!-- TECH:END -->
+ - [Should You Buy an iPhone 16 or Wait for the iPhone 17?](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-16-or-wait-for-the-iphone-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

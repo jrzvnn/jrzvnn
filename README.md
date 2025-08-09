@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)
+ - 😝 [Sorcery](http://9gag.com/gag/azxQG6q)
+ - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
+ - 💣 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
  - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 💣 [There were 3 babies](http://9gag.com/gag/abAEx9L)
- - 😝 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
- - 👉 [Lovely astronaut](http://9gag.com/gag/adBbnoj)<!-- MEMES:END -->
+ - 👉 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)<!-- MEMES:END -->
 
 ---
 

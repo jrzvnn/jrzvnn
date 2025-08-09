@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 10 #525](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-10-525/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 10, #791](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-10-791/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 10, #1513](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-10-1513/#ftag=CAD590a51e)
  - [A look at Changpeng Zhao&#39;s efforts to get a pardon from Trump for his money-laundering charges, including via lobbying and a business deal with the Trump family &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p11#a250809p11)
- - [A Special Diamond Is the Key to a Fully Open Source Quantum Sensor](https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/)
- - [Deals: Snag these Thunderbolt docks at up to 43% off to supersize your Mac&#39;s connectivity](https://appleinsider.com/articles/25/08/09/deals-snag-these-thunderbolt-docks-at-up-to-43-off-to-supersize-your-macs-connectivity?utm_source=rss)
- - [A steady stream of large conventions in China showcasing homegrown humanoid robots is stirring investor excitement, even though sales are far from taking off &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250809/p10#a250809p10)
- - [Vitamin E: Health Benefits, Food Sources and What to Know Before Using Supplements](https://www.cnet.com/health/nutrition/vitamin-e-health-benefits-food-sources-and-what-to-know-before-using-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Special Diamond Is the Key to a Fully Open Source Quantum Sensor](https://www.wired.com/story/fully-open-source-quantum-sensor-uncut-gem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

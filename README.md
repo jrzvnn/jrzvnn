@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Late-night iCloud outage stopped users from accessing files for hours](https://appleinsider.com/articles/25/08/09/late-night-icloud-outage-stopped-users-from-accessing-files-for-hours?utm_source=rss)
+ - [Matter and Form Three 3D Scanner Review: Easy Scans](https://www.wired.com/review/matter-and-form-three-3d-scanner/)
+ - [What&amp;#8217;s a smut peddler to do these days?](https://www.theverge.com/report/756841/itchio-adult-content-creator-backlash-steam-paypal)
  - [Struggling to Rest on Your Period? These Sleep Hacks May Help](https://www.cnet.com/health/sleep/struggling-rest-on-period-sleep-hacks-may-help/#ftag=CAD590a51e)
- - [How to Watch Leeds United vs. Milan From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-leeds-united-vs-milan-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)
- - [Private Companies Are Now Gathering Weather Data for NOAA](https://www.wired.com/story/private-companies-step-up-to-gather-weather-data-for-noaa-as-staffing-cuts-hobble-agency-forecasting/)
- - [The 24 Best Shows on Amazon Prime Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Should You Buy an iPhone 16 or Wait for the iPhone 17?](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-16-or-wait-for-the-iphone-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch Leeds United vs. Milan From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-leeds-united-vs-milan-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

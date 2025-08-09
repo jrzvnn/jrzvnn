@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
- - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
- - 💣 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 😝 [Letsss goooo](http://9gag.com/gag/agmj4yK)
- - 👉 [There were 3 babies](http://9gag.com/gag/abAEx9L)<!-- MEMES:END -->
+ - 😝 [...](http://9gag.com/gag/a34n0WN)
+ - 😝 [Sorcery](http://9gag.com/gag/azxQG6q)
+ - 💣 [You&#39;re ded](http://9gag.com/gag/ayNP6jy)
+ - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
+ - 👉 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)<!-- MEMES:END -->
 
 ---
 

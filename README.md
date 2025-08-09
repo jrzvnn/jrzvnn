@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
- - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 💣 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
+ - 😝 [`Women`](http://9gag.com/gag/aMVynxA)
+ - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
+ - 💣 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
+ - 😝 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)
+ - 👉 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)<!-- MEMES:END -->
 
 ---
 

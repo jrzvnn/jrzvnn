@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The precise scale of Apple&#39;s pledge to invest $600B+ in the US over four years is difficult to measure, as the company has not provided a breakdown of its plan &lpar;Financial Times&rpar;](http://www.techmeme.com/250809/p4#a250809p4)
  - [The controversy involving Tokyo Electron over alleged TSMC IP theft comes at a low point for the company, after order cancellations and a lull in Chinese demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p3#a250809p3)
  - [Analysis: Nvidia has the biggest weight in the S&amp;P 500 of any individual stock since 1981 and the highest P/E as the index&#39;s top stock since Microsoft in 1999 &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250809/p2#a250809p2)
  - [South Korean AI chip design firm DeepX partners with Baidu on industrial AI projects, as sources say it is preparing to raise a round above its $79M Series C &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250809/p1#a250809p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-9/#ftag=CAD590a51e)
- - [Sources: Trump&#39;s World Liberty Financial is seeking to raise $1.5B to launch a publicly traded crypto treasury company that would hold its WLFI token and cash &lpar;Fortune&rpar;](http://www.techmeme.com/250808/p29#a250808p29)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-9/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

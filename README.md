@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Down to Golem&#39;s cave](http://9gag.com/gag/ajPyxrq)
  - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
- - 💣 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
  - 😝 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
- - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
+ - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
+ - 👉 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)<!-- MEMES:END -->
 
 ---
 

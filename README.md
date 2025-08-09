@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
  - 😝 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
- - 💣 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
- - 😝 [Lady brings the bants](http://9gag.com/gag/aW49oYq)
- - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 👉 [`Tipping culture`](http://9gag.com/gag/apR8P6p)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
  - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 💣 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
- - 😝 [Letsss goooo](http://9gag.com/gag/agmj4yK)
- - 👉 [`Tipping culture`](http://9gag.com/gag/apR8P6p)<!-- MEMES:END -->
+ - 💣 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 👉 [Cant think off a worse way to die](http://9gag.com/gag/aAyZK42)<!-- MEMES:END -->
 
 ---
 

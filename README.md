@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
- - 😝 [Lovely astronaut](http://9gag.com/gag/adBbnoj)
- - 💣 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
  - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 👉 [Rebecca](http://9gag.com/gag/a4PVN3v)<!-- MEMES:END -->
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 💣 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
+ - 😝 [If some of you are still confused](http://9gag.com/gag/aKGp8OO)
+ - 👉 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)<!-- MEMES:END -->
 
 ---
 

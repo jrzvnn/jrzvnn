@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [...](http://9gag.com/gag/a34n0WN)
- - 😝 [Juggernaut](http://9gag.com/gag/aGyb8MZ)
- - 💣 [13%](http://9gag.com/gag/aRBDM82)
- - 😝 [AI bots ruin gaming](http://9gag.com/gag/a5QDzKg)
- - 👉 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)<!-- MEMES:END -->
+ - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
+ - 😝 [An elderly Afghan man started a small photo business with a 100-year-old camera.](http://9gag.com/gag/axy4bvW)
+ - 💣 [Sorry for the cancer, but i promise the rest is worth to watch.](http://9gag.com/gag/aGybGx0)
+ - 😝 [Accurate](http://9gag.com/gag/an7V2d5)
+ - 👉 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)<!-- MEMES:END -->
 
 ---
 

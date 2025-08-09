@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Trump&#39;s World Liberty Financial is seeking to raise $1.5B to launch a publicly traded crypto treasury company that would hold its WLFI token and cash &lpar;Fortune&rpar;](http://www.techmeme.com/250808/p29#a250808p29)
+ - [Sources: Periodic Labs, which is building AI for material science, is raising $200M led by a16z, valuing the company at $1B before the investment &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250808/p28#a250808p28)
+ - [Capacity, which uses AI to automate contact center support, raised $92.6M, including a $42.6M Series D and $50M in debt, bringing its total raised to $155M+ &lpar;Kay Aloha Villamor/The SaaS News&rpar;](http://www.techmeme.com/250808/p27#a250808p27)
  - [Ex-NSA Chief Paul Nakasone Has a Warning for the Tech World](https://www.wired.com/story/ex-nsa-chief-paul-nakasone-has-a-warning-for-the-tech-world/)
- - [Two tech groups are backing Anthropic&#39;s appeal of a court ruling allowing a copyright class action, saying potential big settlements could chill AI investment &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250808/p26#a250808p26)
- - [Sources: the US has started issuing licenses to Nvidia to export H20 chips to China following weeks of inaction, after Jensen Huang met Trump on Wednesday &lpar;Financial Times&rpar;](http://www.techmeme.com/250808/p25#a250808p25)
- - [Microsoft&#39;s Clippy Crocs Might Be the World&#39;s Weirdest Pair of Shoes](https://www.cnet.com/tech/services-and-software/microsofts-clippy-crocs-might-be-the-worlds-weirdest-pair-of-shoes/#ftag=CAD590a51e)
- - [Truth Social’s New AI Chatbot Is Donald Trump’s Media Diet Incarnate](https://www.wired.com/story/i-fear-truth-search-ai-might-be-biased-but-it-says-it-isnt/)<!-- TECH:END -->
+ - [Tech trade groups CTA and CCIA back Anthropic&#39;s appeal of a court ruling allowing a copyright class action, fearing big settlements could chill AI investment &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250808/p26#a250808p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

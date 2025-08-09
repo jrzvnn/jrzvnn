@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tool you did not know you need](http://9gag.com/gag/aZZvQgz)
- - 😝 [Accurate](http://9gag.com/gag/an7V2d5)
- - 💣 [History is important](http://9gag.com/gag/aPAn8mK)
- - 😝 [Cheers is filmed before a live studio audience](http://9gag.com/gag/ajPyx5x)
- - 👉 [Sorry for the cancer, but i promise the rest is worth to watch.](http://9gag.com/gag/aGybGx0)<!-- MEMES:END -->
+ - 😝 [Why do we all know this EXACT chick?](http://9gag.com/gag/a7oA01L)
+ - 😝 [The Ibiza Final Boss](http://9gag.com/gag/aD2Mnex)
+ - 💣 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [...](http://9gag.com/gag/a34n0WN)
+ - 👉 [An island of women](http://9gag.com/gag/aryzZ07)<!-- MEMES:END -->
 
 ---
 

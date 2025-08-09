@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grill on gay meeting](http://9gag.com/gag/aXPeWAg)
- - 😝 [Degenerates united](http://9gag.com/gag/azxQRVq)
- - 💣 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)
- - 😝 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
- - 👉 [Letsss goooo](http://9gag.com/gag/agmj4yK)<!-- MEMES:END -->
+ - 😝 [Down to Golem&#39;s cave](http://9gag.com/gag/ajPyxrq)
+ - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
+ - 💣 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
+ - 😝 [The forbidden Big Black Bread. Don&#39;t worry they&#39;re wearing their Protective Sandals and Protective Tissue](http://9gag.com/gag/adBbnPN)
+ - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
 
 ---
 

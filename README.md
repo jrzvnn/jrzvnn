@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US nuclear, geothermal, and energy storage companies have found a lifeline in the AI data center boom after years of challenges such as high interest rates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p9#a250809p9)
- - [11 Great Horror Movies to Stream on Prime Video Now](https://www.cnet.com/tech/services-and-software/11-great-horror-movies-to-stream-on-prime-video-now/#ftag=CAD590a51e)
- - [Best Internet Providers in San Francisco](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
- - [Advocates for net neutrality say they won&#39;t appeal a ruling against the policy, saying they don&#39;t trust the US Supreme Court to rule fairly on the issue &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250809/p8#a250809p8)
- - [After User Backlash, OpenAI Is Bringing Back Older ChatGPT Models](https://www.cnet.com/tech/services-and-software/after-user-backlash-openai-is-bringing-back-older-chatgpt-models/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: Snag these Thunderbolt docks at up to 43% off to supersize your Mac&#39;s connectivity](https://appleinsider.com/articles/25/08/09/deals-snag-these-thunderbolt-docks-at-up-to-43-off-to-supersize-your-macs-connectivity?utm_source=rss)
+ - [A steady stream of large conventions in China showcasing homegrown humanoid robots is stirring investor excitement, even though sales are far from taking off &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250809/p10#a250809p10)
+ - [Vitamin E: Health Benefits, Food Sources and What to Know Before Using Supplements](https://www.cnet.com/health/nutrition/vitamin-e-health-benefits-food-sources-and-what-to-know-before-using-supplements/#ftag=CAD590a51e)
+ - [How to Watch Palermo vs. Man City From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-palermo-vs-man-city-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)
+ - [US nuclear, geothermal, and energy storage companies have found a lifeline in the AI data center boom after years of challenges such as high interest rates &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p9#a250809p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

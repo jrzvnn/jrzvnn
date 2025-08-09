@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 😝 [Hehe...](http://9gag.com/gag/a7oAV5x)
- - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 😝 [If some of you are still confused](http://9gag.com/gag/aKGp8OO)
- - 👉 [...](http://9gag.com/gag/a34n0WN)<!-- MEMES:END -->
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [Basketball moment](http://9gag.com/gag/ae9WZ2b)
+ - 💣 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
+ - 👉 [An island of women](http://9gag.com/gag/aryzZ07)<!-- MEMES:END -->
 
 ---
 

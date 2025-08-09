@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 😝 [Rebecca](http://9gag.com/gag/a4PVN3v)
- - 💣 [What happens when parents never say no to their kid and always tell them that they are &#39;special&#39;](http://9gag.com/gag/adBbQPD)
- - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
- - 👉 [No comment](http://9gag.com/gag/aGybGYz)<!-- MEMES:END -->
+ - 😝 [Don&#39;t sleep at work!](http://9gag.com/gag/agmj7xx)
+ - 😝 [`Tipping culture`](http://9gag.com/gag/apR8P6p)
+ - 💣 [Rebecca](http://9gag.com/gag/a4PVN3v)
+ - 😝 [Where the f is everyone?](http://9gag.com/gag/a2vGDAY)
+ - 👉 [It&#39;s hard to see our heroes becoming old and weak...](http://9gag.com/gag/a9yB55D)<!-- MEMES:END -->
 
 ---
 

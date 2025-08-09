@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s How to Buy the Best Used EV](https://www.wired.com/story/heres-how-to-buy-the-best-used-ev/)
  - [What Even Is Instagram Now?](https://www.wired.com/story/what-even-is-instagram-now/)
  - [How to Watch Man United vs. Fiorentina From Anywhere: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-man-united-vs-fiorentina-from-anywhere-stream-preseason-friendly-soccer/#ftag=CAD590a51e)
  - [EFL Championship Soccer: Stream Southampton vs. Wrexham Live From Anywhere](https://www.cnet.com/tech/services-and-software/efl-championship-soccer-stream-southampton-vs-wrexham-live-from-anywhere/#ftag=CAD590a51e)
- - [An analysis of over 1M words of conversation between a ChatGPT user and ChatGPT shows how chatbots can lead ordinarily rational people to spiral into delusion &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p5#a250809p5)
- - [The precise scale of Apple&#39;s pledge to invest $600B+ in the US over four years is difficult to measure, as the company has not provided a breakdown of its plan &lpar;Financial Times&rpar;](http://www.techmeme.com/250809/p4#a250809p4)<!-- TECH:END -->
+ - [An analysis of over 1M words of conversation between a ChatGPT user and ChatGPT shows how chatbots can lead ordinarily rational people to spiral into delusion &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p5#a250809p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of over 1M words of conversation between a ChatGPT user and the generative AI chatbot shows how ordinarily rational people can spiral into delusion &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p5#a250809p5)
+ - [An analysis of over 1M words of conversation between a ChatGPT user and ChatGPT shows how chatbots can lead ordinarily rational people to spiral into delusion &lpar;New York Times&rpar;](http://www.techmeme.com/250809/p5#a250809p5)
  - [The precise scale of Apple&#39;s pledge to invest $600B+ in the US over four years is difficult to measure, as the company has not provided a breakdown of its plan &lpar;Financial Times&rpar;](http://www.techmeme.com/250809/p4#a250809p4)
  - [The controversy involving Tokyo Electron over alleged TSMC IP theft comes at a low point for the company, after order cancellations and a lull in Chinese demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250809/p3#a250809p3)
  - [Analysis: Nvidia has the biggest weight in the S&amp;P 500 of any individual stock since 1981 and the highest P/E as the index&#39;s top stock since Microsoft in 1999 &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250809/p2#a250809p2)

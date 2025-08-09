@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
- - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
- - 💣 [And then regret it later](http://9gag.com/gag/a7oA9oz)
- - 😝 [Sorcery](http://9gag.com/gag/azxQG6q)
- - 👉 [How to trigger guitar store employees](http://9gag.com/gag/abAEBXr)<!-- MEMES:END -->
+ - 😝 [Grill on gay meeting](http://9gag.com/gag/aXPeWAg)
+ - 😝 [Degenerates united](http://9gag.com/gag/azxQRVq)
+ - 💣 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)
+ - 😝 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
+ - 👉 [Letsss goooo](http://9gag.com/gag/agmj4yK)<!-- MEMES:END -->
 
 ---
 

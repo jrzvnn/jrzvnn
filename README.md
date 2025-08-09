@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Private Companies Are Now Gathering Weather Data for NOAA](https://www.wired.com/story/private-companies-step-up-to-gather-weather-data-for-noaa-as-staffing-cuts-hobble-agency-forecasting/)
+ - [The 24 Best Shows on Amazon Prime Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [Experts say TCS&#39; decision to cut 12K jobs signals the start of an AI-fueled trend that could eliminate ~500K jobs in India&#39;s $283B IT sector within three years &lpar;Reuters&rpar;](http://www.techmeme.com/250809/p6#a250809p6)
  - [The US Court Records System Has Been Hacked](https://www.wired.com/story/us-court-records-system-hacked/)
- - [Gear News of the Week: iPhone 17 May Be a Month Away, and Sonos to Raise Prices](https://www.wired.com/story/gear-news-of-the-week-iphone-17-may-be-a-month-away-and-sonos-to-raise-prices/)
- - [Here’s How to Buy the Best Used EV](https://www.wired.com/story/heres-how-to-buy-the-best-used-ev/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 9, #320](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-9-320/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gear News of the Week: iPhone 17 May Be a Month Away, and Sonos to Raise Prices](https://www.wired.com/story/gear-news-of-the-week-iphone-17-may-be-a-month-away-and-sonos-to-raise-prices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

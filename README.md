@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Advocates for net neutrality say they won&#39;t appeal a ruling against the policy, saying they don&#39;t trust the US Supreme Court to rule fairly on the issue &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250809/p8#a250809p8)
  - [You had mail: AOL finally discontinues dial-up Internet service](https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service?utm_source=rss)
  - [RFK Jr. wants a wearable on every American — that future’s not as healthy as he thinks](https://www.theverge.com/analysis/756994/rfk-jr-wearables-maha-health-wearables-disordered-eating)
  - [Scottish Premiership Soccer: Stream Rangers vs. Dundee Live From Anywhere](https://www.cnet.com/tech/services-and-software/scottish-premiership-soccer-stream-rangers-vs-dundee-live-from-anywhere/#ftag=CAD590a51e)
- - [Despite stablecoins reaching $5T in transaction volumes in 2025, their promise of cheaper cross-border payments is hampered by persistent foreign exchange costs &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250809/p7#a250809p7)
- - [Aura’s Aspen impressive digital frame is the most affordable it’s been](https://www.theverge.com/tech/756979/aura-aspen-digital-photo-frame-garmin-inreach-mini-2-deal-sale)<!-- TECH:END -->
+ - [Despite stablecoins reaching $5T in transaction volumes in 2025, their promise of cheaper cross-border payments is hampered by persistent foreign exchange costs &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/250809/p7#a250809p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)
- - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 💣 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
  - 😝 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
- - 👉 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)<!-- MEMES:END -->
+ - 😝 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 💣 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 👉 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)<!-- MEMES:END -->
 
 ---
 

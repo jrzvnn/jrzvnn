@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
  - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
+ - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 💣 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
+ - 😝 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 👉 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)<!-- MEMES:END -->
 
 ---
 

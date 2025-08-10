@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investors are increasingly divesting from companies they fear are at risk of AI disruption, like Wix and Shutterstock, which are down at least 30% in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250810/p4#a250810p4)
  - [The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
  - [Ditching my phone for an LTE smartwatch was a humbling experience](https://www.theverge.com/gadgets/756945/smartwatch-lte-minimalist-phone)
  - [New Siri&#39;s App Intents will make or break Apple&#39;s Home Hub](https://appleinsider.com/articles/25/08/10/new-siris-app-intents-will-make-or-break-apples-home-hub?utm_source=rss)
- - [M6 OLED MacBook Pro redesign in 2026 to entice upgraders holding onto older Macs](https://appleinsider.com/articles/25/08/10/m6-oled-macbook-pro-redesign-in-2026-to-entice-upgraders-holding-onto-older-macs?utm_source=rss)
- - [New Siri will bring voice control to just about all apps -- but maybe not banking](https://appleinsider.com/articles/25/08/10/new-siri-will-bring-voice-control-to-just-about-all-apps----but-maybe-not-banking?utm_source=rss)<!-- TECH:END -->
+ - [M6 OLED MacBook Pro redesign in 2026 to entice upgraders holding onto older Macs](https://appleinsider.com/articles/25/08/10/m6-oled-macbook-pro-redesign-in-2026-to-entice-upgraders-holding-onto-older-macs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

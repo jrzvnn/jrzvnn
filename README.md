@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Screen protector leak compares iPhone 17 Air screen to other models](https://appleinsider.com/articles/25/08/10/screen-protector-leak-compares-iphone-17-air-screen-to-other-models?utm_source=rss)
+ - [Screen protector leak compares iPhone 17 Air display to other models](https://appleinsider.com/articles/25/08/10/screen-protector-leak-compares-iphone-17-air-screen-to-other-models?utm_source=rss)
  - [7 password managers to help keep your apps safe](https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe)
  - [We found stuff AI is pretty good at](https://www.theverge.com/podcast/756701/ai-tools-chatgpt-gemini-vergecast)
  - [Bo Hines, the head of the White House Presidential Council of Advisers for Digital Assets, says he is stepping down and returning to the private sector &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250810/p7#a250810p7)

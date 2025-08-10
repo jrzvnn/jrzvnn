@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
- - 😝 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
- - 💣 [Clever man](http://9gag.com/gag/adBbejV)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
  - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 😝 [Clever man](http://9gag.com/gag/adBbejV)
  - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [Chef&#39;s got a mobile seat, cooking in style](http://9gag.com/gag/a5QD20N)
  - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 💣 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)
- - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)
  - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 ---

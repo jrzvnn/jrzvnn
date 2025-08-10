@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
- - 😝 [Ok, ok. you can have it](http://9gag.com/gag/a4PV5Xd)
- - 💣 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
- - 😝 [That&#39;s why you need a tugboat](http://9gag.com/gag/aPAnQPQ)
- - 👉 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)<!-- MEMES:END -->
+ - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
+ - 😝 [He&#39;s not only the one which cums too early, he&#39;s also a 9gag Legend so mind your manners wench!](http://9gag.com/gag/avymRzX)
+ - 💣 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
+ - 😝 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)
+ - 👉 [Letsss goooo](http://9gag.com/gag/agmj4yK)<!-- MEMES:END -->
 
 ---
 

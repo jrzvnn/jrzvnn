@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
- - 😝 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)
- - 💣 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
- - 😝 [Quick reminder](http://9gag.com/gag/a2vGb7D)
- - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
+ - 😝 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
+ - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - 💣 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)
+ - 😝 [Restoring a 1924 gas heater](http://9gag.com/gag/an7VDDq)
+ - 👉 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)<!-- MEMES:END -->
 
 ---
 

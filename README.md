@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CS grads struggle to land jobs as tech companies lay off workers and embrace AI; CS majors face a 6.1% unemployment rate in the US among grads aged 22 to 27 &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250810/p6#a250810p6)
  - [How big trucks and SUVs gobbled up the entire auto industry](https://www.theverge.com/the-stepback-newsletter/756967/giant-trucks-suvs-car-bloat)
  - [Sources: Apple is testing upgraded App Intents with Uber, Temu, Amazon, YouTube, WhatsApp, and other apps to transform Siri into a true voice-first interface &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250810/p5#a250810p5)
  - [Inside the automated warehouse where robots are packing your groceries](https://www.theverge.com/robot/719880/ocado-online-grocery-automation-krogers-luton-ogrp-robot-grid)
- - [Investors are increasingly divesting from companies they fear are at risk of AI disruption, like Wix and Shutterstock, which are down at least 30% in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250810/p4#a250810p4)
- - [How to Watch Chelsea vs. AC Milan From Anywhere for Free: Stream Preseason Friendly Soccer](https://www.cnet.com/tech/services-and-software/how-to-watch-chelsea-vs-ac-milan-from-anywhere-for-free-stream-preseason-friendly-soccer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investors are increasingly divesting from companies they fear are at risk of AI disruption, like Wix and Shutterstock, which are down at least 30% in 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250810/p4#a250810p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

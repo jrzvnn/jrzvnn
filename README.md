@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft launches Copilot 3D, a free AI-powered tool allowing users to transform 2D images into 3D models without a text prompt, available in Copilot Labs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250810/p8#a250810p8)
  - [Screen protector leak compares iPhone 17 Air display to other models](https://appleinsider.com/articles/25/08/10/screen-protector-leak-compares-iphone-17-air-screen-to-other-models?utm_source=rss)
  - [7 password managers to help keep your apps safe](https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe)
  - [We found stuff AI is pretty good at](https://www.theverge.com/podcast/756701/ai-tools-chatgpt-gemini-vergecast)
- - [Bo Hines, the head of the White House Presidential Council of Advisers for Digital Assets, says he is stepping down and returning to the private sector &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250810/p7#a250810p7)
- - [CS grads struggle to land jobs as tech companies lay off workers and embrace AI; CS majors face a 6.1% unemployment rate in the US among grads aged 22 to 27 &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/250810/p6#a250810p6)<!-- TECH:END -->
+ - [Bo Hines, the head of the White House Presidential Council of Advisers for Digital Assets, says he is stepping down and returning to the private sector &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/250810/p7#a250810p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

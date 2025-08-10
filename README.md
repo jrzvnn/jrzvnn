@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
- - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - 😝 [Imagine someone trying to steal this car](http://9gag.com/gag/a87z2BO)
- - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
+ - 😝 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
+ - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
+ - 💣 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 😝 [Restoring a 1924 gas heater](http://9gag.com/gag/an7VDDq)
+ - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
 
 ---
 

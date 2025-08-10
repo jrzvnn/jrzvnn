@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel CEO Lip-Bu Tan is set to meet Trump on Monday to propose ways the US and Intel could work together, show his commitment to the US, and more &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250810/p12#a250810p12)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 11, #526](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-11-526/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 11, #792](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-11-792/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 11, #1514](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-11-1514/#ftag=CAD590a51e)
- - [GPT-5&#39;s release was underwhelming, offering incremental improvements and failing to meet expectations, showing that pure scaling simply isn&#39;t the path to AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250810/p11#a250810p11)
- - [Doomer predictions of a rapid, monopolistic AGI were wrong, as recent AI model releases resemble a Goldilocks scenario with competitive, specialized models &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/250810/p10#a250810p10)<!-- TECH:END -->
+ - [GPT-5&#39;s release was underwhelming, offering incremental improvements and failing to meet expectations, showing that pure scaling simply isn&#39;t the path to AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250810/p11#a250810p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

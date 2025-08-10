@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
- - 😝 [He&#39;s not only the one which cums too early, he&#39;s also a 9gag Legend so mind your manners wench!](http://9gag.com/gag/avymRzX)
- - 💣 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
- - 😝 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)
- - 👉 [Letsss goooo](http://9gag.com/gag/agmj4yK)<!-- MEMES:END -->
+ - 😝 [All right, all right. Let&#39;s stay calm. It was just a movie. See you tomorrow, you filthy bastards.](http://9gag.com/gag/a6Z8BRq)
+ - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
+ - 💣 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
+ - 😝 [That&#39;s why you need a tugboat](http://9gag.com/gag/aPAnQPQ)
+ - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
 
 ---
 

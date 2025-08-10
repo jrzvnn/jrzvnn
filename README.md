@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
- - 😝 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
- - 💣 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
- - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 👉 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
+ - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 😝 [Wannabe gangster threatens elderly man on train and gets taught a lesson](http://9gag.com/gag/a4PVqb1)
+ - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
 
 ---
 

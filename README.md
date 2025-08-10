@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
  - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 💣 [No comment](http://9gag.com/gag/aGybGYz)
- - 😝 [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
- - 👉 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
+ - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
+ - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
+ - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
 
 ---
 

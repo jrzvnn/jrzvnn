@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
- - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [Sorcery](http://9gag.com/gag/azxQG6q)
+ - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
+ - 💣 [Intruder on the field.](http://9gag.com/gag/aO8GP1D)
  - 😝 [Cat talk](http://9gag.com/gag/a6Z8pVe)
- - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
+ - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Woman charged with two Apple Store thefts](https://appleinsider.com/articles/25/08/10/crime-blotter-woman-charged-with-two-apple-store-thefts?utm_source=rss)
  - [How To Use Parallels to Run Windows on a Mac](https://www.wired.com/story/how-to-use-parallels-to-run-windows-on-a-mac/)
  - [This New Pyramid-Like Shape Always Lands With the Same Side Up](https://www.wired.com/story/a-new-pyramid-like-shape-always-lands-the-same-side-up/)
  - [The Merlin Bird ID App Is Better Than Meditation, and It&#39;s Not Just for Birders](https://www.cnet.com/health/the-merlin-bird-id-app-is-better-than-meditation-and-its-not-just-for-birders/#ftag=CAD590a51e)
- - [9 Best WIRED-Tested Cooling Mattresses &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)
- - [Q&amp;A with OpenAI COO Brad Lightcap on GPT-5, its dynamic reasoning, defining AGI, scaling vs. post-training, hallucinations, enterprise adoption, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250810/p3#a250810p3)<!-- TECH:END -->
+ - [9 Best WIRED-Tested Cooling Mattresses &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)
- - 😝 [Letsss goooo](http://9gag.com/gag/agmj4yK)
- - 💣 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
- - 😝 [So far so good only 2/3/5...](http://9gag.com/gag/aAyZ2dL)
- - 👉 [Who the f**k are these degenerates?](http://9gag.com/gag/agmj4rg)<!-- MEMES:END -->
+ - 😝 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
+ - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
+ - 💣 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
+ - 😝 [The Ukrainian stance as far as we can tell](http://9gag.com/gag/aO8G1mr)
+ - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
 
 ---
 

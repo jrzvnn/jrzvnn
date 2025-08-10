@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Woman charged with two Apple Store thefts](https://appleinsider.com/articles/25/08/10/crime-blotter-woman-charged-with-two-apple-store-thefts?utm_source=rss)
- - [How To Use Parallels to Run Windows on a Mac](https://www.wired.com/story/how-to-use-parallels-to-run-windows-on-a-mac/)
- - [This New Pyramid-Like Shape Always Lands With the Same Side Up](https://www.wired.com/story/a-new-pyramid-like-shape-always-lands-the-same-side-up/)
- - [The Merlin Bird ID App Is Better Than Meditation, and It&#39;s Not Just for Birders](https://www.cnet.com/health/the-merlin-bird-id-app-is-better-than-meditation-and-its-not-just-for-birders/#ftag=CAD590a51e)
- - [9 Best WIRED-Tested Cooling Mattresses &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)<!-- TECH:END -->
+ - [New Siri&#39;s App Intents will make or break Apple&#39;s Home Hub](https://appleinsider.com/articles/25/08/10/new-siris-app-intents-will-make-or-break-apples-home-hub?utm_source=rss)
+ - [M6 OLED MacBook Pro redesign in 2026 to entice upgraders holding onto older Macs](https://appleinsider.com/articles/25/08/10/m6-oled-macbook-pro-redesign-in-2026-to-entice-upgraders-holding-onto-older-macs?utm_source=rss)
+ - [New Siri will bring voice control to just about all apps -- but maybe not banking](https://appleinsider.com/articles/25/08/10/new-siri-will-bring-voice-control-to-just-about-all-apps----but-maybe-not-banking?utm_source=rss)
+ - [Sena S1 Smart Cycling Helmet Review: Listen to Everything](https://www.wired.com/review/sena-s1-smart-cycling-helmet/)
+ - [5 Best Electric Toothbrushes, Backed by Dentists and Hygienists](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

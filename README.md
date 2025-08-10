@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [All right, all right. Let&#39;s stay calm. It was just a movie. See you tomorrow, you filthy bastards.](http://9gag.com/gag/a6Z8BRq)
- - 😝 [There were 3 babies](http://9gag.com/gag/abAEx9L)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
  - 💣 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
  - 😝 [That&#39;s why you need a tugboat](http://9gag.com/gag/aPAnQPQ)
- - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
+ - 👉 [Ok, ok. you can have it](http://9gag.com/gag/a4PV5Xd)<!-- MEMES:END -->
 
 ---
 

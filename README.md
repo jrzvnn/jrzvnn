@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This New Pyramid-Like Shape Always Lands With the Same Side Up](https://www.wired.com/story/a-new-pyramid-like-shape-always-lands-the-same-side-up/)
  - [9 Best WIRED-Tested Cooling Mattresses &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)
  - [Q&amp;A with OpenAI COO Brad Lightcap on GPT-5, its dynamic reasoning, defining AGI, scaling vs. post-training, hallucinations, enterprise adoption, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250810/p3#a250810p3)
  - [How to Protect Yourself From Portable Point-of-Sale Scams](https://www.wired.com/story/portable-pos-thefts-how-to-protect-yourself-from-scams/)
- - [Lovense Gemini Nipple Clamps Review: New Sensations](https://www.wired.com/review/lovense-gemini-nipple-clamps/)
- - [AI startups like Anthropic and OpenAI are ramping up efforts to recruit quant researchers from Wall Street firms, offering competitive pay and benefits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250810/p2#a250810p2)<!-- TECH:END -->
+ - [Lovense Gemini Nipple Clamps Review: New Sensations](https://www.wired.com/review/lovense-gemini-nipple-clamps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

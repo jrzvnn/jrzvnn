@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
  - 😝 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)
  - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 😝 [Wannabe gangster threatens elderly man on train and gets taught a lesson](http://9gag.com/gag/a4PVqb1)
- - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
+ - 😝 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
+ - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
 
 ---
 

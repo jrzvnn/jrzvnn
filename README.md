@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
  - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
- - 💣 [Play stupid games](http://9gag.com/gag/aGybAg0)
- - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 👉 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)<!-- MEMES:END -->
+ - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - 💣 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)
+ - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
 
 ---
 

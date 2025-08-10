@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
- - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [No comment](http://9gag.com/gag/aGybGYz)
+ - 💣 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
  - 😝 [And then regret it later](http://9gag.com/gag/a7oA9oz)
  - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
 

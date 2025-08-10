@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
- - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 💣 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
- - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
- - 👉 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)<!-- MEMES:END -->
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 💣 [No comment](http://9gag.com/gag/aGybGYz)
+ - 😝 [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
+ - 👉 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [All right, all right. Let&#39;s stay calm. It was just a movie. See you tomorrow, you filthy bastards.](http://9gag.com/gag/a6Z8BRq)
  - 😝 [No comment](http://9gag.com/gag/aGybGYz)
- - 💣 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
+ - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 💣 [And then regret it later](http://9gag.com/gag/a7oA9oz)
  - 😝 [That&#39;s why you need a tugboat](http://9gag.com/gag/aPAnQPQ)
- - 👉 [Ok, ok. you can have it](http://9gag.com/gag/a4PV5Xd)<!-- MEMES:END -->
+ - 👉 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)<!-- MEMES:END -->
 
 ---
 

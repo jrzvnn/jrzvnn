@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
+ - 😝 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)
  - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
- - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
- - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
+ - 💣 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
+ - 😝 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
+ - 👉 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)<!-- MEMES:END -->
 
 ---
 

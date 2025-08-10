@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
- - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 💣 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
- - 😝 [Who the f**k are these degenerates?](http://9gag.com/gag/agmj4rg)
- - 👉 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)<!-- MEMES:END -->
+ - 😝 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
+ - 😝 [Clever man](http://9gag.com/gag/adBbejV)
+ - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
 
 ---
 

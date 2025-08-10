@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
- - 😝 [He&#39;s not only the one which cums too early, he&#39;s also a 9gag Legend so mind your manners wench!](http://9gag.com/gag/avymRzX)
- - 💣 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
- - 😝 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)
- - 👉 [Letsss goooo](http://9gag.com/gag/agmj4yK)<!-- MEMES:END -->
+ - 😝 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
+ - 😝 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
+ - 💣 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
+ - 😝 [Clever man](http://9gag.com/gag/adBbejV)
+ - 👉 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)<!-- MEMES:END -->
 
 ---
 

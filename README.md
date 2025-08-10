@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese officials have urged the Trump administration to relax HBM chip export controls during trade talks, after the Biden administration ban in 2024 &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250810/p1#a250810p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 10, #321](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-10-321/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-10/#ftag=CAD590a51e)
  - [Coding bootcamps, a Silicon Valley mainstay for over a decade, are facing decline as AI eliminates the kind of entry-level roles for which they trained people &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250809/p13#a250809p13)
- - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
- - [Hands-on with Alexa+: fun to talk to and good at handling multistep requests, but it is buggy, unreliable, and worse at some basic tasks than the original Alexa &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250809/p12#a250809p12)<!-- TECH:END -->
+ - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

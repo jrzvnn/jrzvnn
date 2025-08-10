@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
- - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
- - 💣 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 😝 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 💣 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
  - 😝 [Restoring a 1924 gas heater](http://9gag.com/gag/an7VDDq)
- - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
+ - 👉 [Final destination](http://9gag.com/gag/aryzxr0)<!-- MEMES:END -->
 
 ---
 

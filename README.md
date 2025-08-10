@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sorcery](http://9gag.com/gag/azxQG6q)
- - 😝 [An island of women](http://9gag.com/gag/aryzZ07)
- - 💣 [Intruder on the field.](http://9gag.com/gag/aO8GP1D)
- - 😝 [Cat talk](http://9gag.com/gag/a6Z8pVe)
- - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
+ - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
+ - 😝 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
+ - 💣 [Clever man](http://9gag.com/gag/adBbejV)
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 ---
 

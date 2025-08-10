@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who else remember](http://9gag.com/gag/aGybA25)
- - 😝 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
- - 💣 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
- - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
+ - 😝 [Thank you](http://9gag.com/gag/adBbxbD)
+ - 😝 [9gag drinking contest winner: austria with 9 beers](http://9gag.com/gag/aQzVZ17)
+ - 💣 [He&#39;s not only the one which cums too early, he&#39;s also a 9gag Legend so mind your manners wench!](http://9gag.com/gag/avymRzX)
+ - 😝 [The gagger who showed up too early last year, arrived late at sundown this year, but he finally made it. Give him a drink.](http://9gag.com/gag/aPAnQ9B)
+ - 👉 [Letsss goooo](http://9gag.com/gag/agmj4yK)<!-- MEMES:END -->
 
 ---
 

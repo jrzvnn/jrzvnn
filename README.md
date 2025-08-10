@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 4 Best Hearing Aids for Seniors in 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids-for-seniors/)
+ - [Ditching my phone for an LTE smartwatch was a humbling experience](https://www.theverge.com/gadgets/756945/smartwatch-lte-minimalist-phone)
  - [New Siri&#39;s App Intents will make or break Apple&#39;s Home Hub](https://appleinsider.com/articles/25/08/10/new-siris-app-intents-will-make-or-break-apples-home-hub?utm_source=rss)
  - [M6 OLED MacBook Pro redesign in 2026 to entice upgraders holding onto older Macs](https://appleinsider.com/articles/25/08/10/m6-oled-macbook-pro-redesign-in-2026-to-entice-upgraders-holding-onto-older-macs?utm_source=rss)
- - [New Siri will bring voice control to just about all apps -- but maybe not banking](https://appleinsider.com/articles/25/08/10/new-siri-will-bring-voice-control-to-just-about-all-apps----but-maybe-not-banking?utm_source=rss)
- - [Sena S1 Smart Cycling Helmet Review: Listen to Everything](https://www.wired.com/review/sena-s1-smart-cycling-helmet/)
- - [5 Best Electric Toothbrushes, Backed by Dentists and Hygienists](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [New Siri will bring voice control to just about all apps -- but maybe not banking](https://appleinsider.com/articles/25/08/10/new-siri-will-bring-voice-control-to-just-about-all-apps----but-maybe-not-banking?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

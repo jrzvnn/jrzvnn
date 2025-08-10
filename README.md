@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Who else remember](http://9gag.com/gag/aGybA25)
  - 😝 [Well I was going to share a film with you this will have to do](http://9gag.com/gag/a2vG2z9)
- - 😝 [Just like the other guy that women freed from jail after seeing his mugshot](http://9gag.com/gag/apR8PG9)
- - 💣 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
+ - 💣 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
  - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 👉 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)<!-- MEMES:END -->
+ - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 ---
 

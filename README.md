@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: SoftBank has selected banks for a potential US IPO of its payments app operator PayPay, which may raise over $2B and could take place as soon as Q4 &lpar;Reuters&rpar;](http://www.techmeme.com/250810/p14#a250810p14)
  - [Sources: Nvidia and AMD agreed to pay the US government 15% of revenues from H20 and MI308 chip sales in China to obtain export licenses granted last week &lpar;Financial Times&rpar;](http://www.techmeme.com/250810/p13#a250810p13)
  - [Sources: Intel CEO Lip-Bu Tan is set to meet Trump on Monday to propose ways the US and Intel could work together, show his commitment to the US, and more &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250810/p12#a250810p12)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 11, #526](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-11-526/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 11, #792](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-11-792/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 11, #1514](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-11-1514/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 11, #792](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-11-792/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

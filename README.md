@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u2026because it\u2019s yours](http://9gag.com/gag/aRBDoPq)
  - 😝 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
- - 💣 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 💣 [Stop interrupting!!!](http://9gag.com/gag/aoyD4g3)
  - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
- - 👉 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)<!-- MEMES:END -->
+ - 👉 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)<!-- MEMES:END -->
 
 ---
 

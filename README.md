@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German authorities launch investigation into popular Youtuber after he exposes what&#39;s really going on in Germany.](http://9gag.com/gag/aO8GDgE)
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
  - 😝 [Degenerates, where are you?](http://9gag.com/gag/aGybGN0)
- - 💣 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
- - 😝 [The Ukrainian stance as far as we can tell](http://9gag.com/gag/aO8G1mr)
- - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
+ - 💣 [I\u2019m embarrassed that 20 rubber bands would stop my vw.](http://9gag.com/gag/a0ewnLO)
+ - 😝 [Cat talk](http://9gag.com/gag/a6Z8pVe)
+ - 👉 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)<!-- MEMES:END -->
 
 ---
 

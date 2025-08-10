@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GPT-5&#39;s release was underwhelming, offering incremental improvements and failing to meet expectations, showing that pure scaling simply isn&#39;t the path to AGI &lpar;Gary Marcus/Marcus on AI&rpar;](http://www.techmeme.com/250810/p11#a250810p11)
  - [Doomer predictions of a rapid, monopolistic AGI were wrong, as recent AI model releases resemble a Goldilocks scenario with competitive, specialized models &lpar;David Sacks/@davidsacks&rpar;](http://www.techmeme.com/250810/p10#a250810p10)
  - [AOL is discontinuing its dial-up internet service on September 30; it was launched in 1991 and reportedly had subscribers &quot;in the low thousands&quot; in 2021 &lpar;Stevie Bonifield/PC Gamer&rpar;](http://www.techmeme.com/250810/p9#a250810p9)
  - [Microsoft launches Copilot 3D, a free AI-powered tool allowing users to transform 2D images into 3D models without a text prompt, available in Copilot Labs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250810/p8#a250810p8)
- - [Screen protector leak compares iPhone 17 Air display to other models](https://appleinsider.com/articles/25/08/10/screen-protector-leak-compares-iphone-17-air-screen-to-other-models?utm_source=rss)
- - [7 password managers to help keep your apps safe](https://www.theverge.com/tech/712968/7-password-managers-to-help-keep-your-apps-safe)<!-- TECH:END -->
+ - [Screen protector leak compares iPhone 17 Air display to other models](https://appleinsider.com/articles/25/08/10/screen-protector-leak-compares-iphone-17-air-screen-to-other-models?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

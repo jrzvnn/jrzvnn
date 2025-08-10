@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
  - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
- - 💣 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)
- - 😝 [Restoring a 1924 gas heater](http://9gag.com/gag/an7VDDq)
- - 👉 [At this point its the best highlight of the game. Dildo number 4 enters the WNBA](http://9gag.com/gag/aLnrGq5)<!-- MEMES:END -->
+ - 💣 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - 😝 [Imagine someone trying to steal this car](http://9gag.com/gag/a87z2BO)
+ - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
 
 ---
 

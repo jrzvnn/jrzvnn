@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best WIRED-Tested Cooling Mattresses &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)
  - [Q&amp;A with OpenAI COO Brad Lightcap on GPT-5, its dynamic reasoning, defining AGI, scaling vs. post-training, hallucinations, enterprise adoption, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/250810/p3#a250810p3)
  - [How to Protect Yourself From Portable Point-of-Sale Scams](https://www.wired.com/story/portable-pos-thefts-how-to-protect-yourself-from-scams/)
  - [Lovense Gemini Nipple Clamps Review: New Sensations](https://www.wired.com/review/lovense-gemini-nipple-clamps/)
- - [AI startups like Anthropic and OpenAI are ramping up efforts to recruit quant researchers from Wall Street firms, offering competitive pay and benefits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250810/p2#a250810p2)
- - [Sources: Chinese officials have urged the Trump administration to relax HBM chip export controls during trade talks, after the Biden administration ban in 2024 &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/250810/p1#a250810p1)<!-- TECH:END -->
+ - [AI startups like Anthropic and OpenAI are ramping up efforts to recruit quant researchers from Wall Street firms, offering competitive pay and benefits &lpar;Bloomberg&rpar;](http://www.techmeme.com/250810/p2#a250810p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

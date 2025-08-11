@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - 😝 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 💣 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
+ - 😝 [Clever man](http://9gag.com/gag/adBbejV)
+ - 💣 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 😝 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
+ - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
 
 ---
 

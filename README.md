@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple doubles down on all-glass iPhone with wraparound touchscreen](https://appleinsider.com/articles/25/08/11/apple-doubles-down-on-all-glass-iphone-with-wraparound-touchscreen?utm_source=rss)
- - [FuturHealth weight-loss plans now include Apple Fitness+ access](https://appleinsider.com/articles/25/08/11/futurhealth-weight-loss-plans-now-include-apple-fitness-access?utm_source=rss)
- - [Paramount Plus will soon become the exclusive home to the UFC](https://www.theverge.com/news/757341/paramount-plus-ufc-deal-sports-streaming)
- - [Fairphone’s new cables and chargers are both faster and tougher](https://www.theverge.com/news/757304/fairphone-usb-c-cables-30w-charger-durable-sustainable)
- - [A modder created the iPadBook that Apple won&amp;#8217;t](https://www.theverge.com/news/757340/custom-mod-apple-macbook-air-ipad-m4-ipad-pro)<!-- TECH:END -->
+ - [This collaborative doodling website is like Google Maps plus MS Paint](https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired)
+ - [The EU Commission approves Prosus&#39; €4.1B takeover of Just Eat Takeaway in a bid to create a &quot;European tech champion&quot; to rival DoorDash, which acquired Deliveroo &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p14#a250811p14)
+ - [Notion CEO Ivan Zhao wants you to demand better from your tools](https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview)
+ - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
+ - [The CSA releases Matter 1.4.2 to improve reliability, stability, and cross-platform coordination, like Wi-Fi-only commissioning to lose its Bluetooth dependency &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250811/p13#a250811p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

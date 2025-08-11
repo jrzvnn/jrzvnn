@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don&#39;t put camera guards, screen protectors, or keyboard covers on a MacBook Pro](https://appleinsider.com/articles/25/08/11/dont-put-camera-guards-screen-protectors-or-keyboard-covers-on-a-macbook-pro?utm_source=rss)
- - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
- - [Matter’s latest update doubles down on stability and pushes the platforms to play better together](https://www.theverge.com/matter/757179/matter-1-4-2-spec-release-pushes-platforms-to-play-nicely)
- - [Hyundai wants Ioniq 5 owners to pay to fix a keyless entry security hole](https://www.theverge.com/news/757205/hyundai-ioniq-5-security-upgrade-fix-game-boy-device-attacks)
- - [A UK judge dismisses Wikimedia&#39;s Online Safety Act challenge over requiring Wikipedia to verify users and contributors&#39; IDs, but says it can file new challenges &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250811/p11#a250811p11)<!-- TECH:END -->
+ - [Paramount Plus will soon become the exclusive home to the UFC](https://www.theverge.com/news/757341/paramount-plus-ufc-deal-sports-streaming)
+ - [Fairphone’s new cables and chargers are both faster and tougher](https://www.theverge.com/news/757304/fairphone-usb-c-cables-30w-charger-durable-sustainable)
+ - [A modder created the iPadBook that Apple won&amp;#8217;t](https://www.theverge.com/news/757340/custom-mod-apple-macbook-air-ipad-m4-ipad-pro)
+ - [The 4 Best Invisible Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-invisible-hearing-aids/)
+ - [Tahoe Therapeutics, which is building AI models of living cells, raised $30M led by Amplify Partners at a $120M valuation, taking its total funding to $42M &lpar;Alex Knapp/Forbes&rpar;](http://www.techmeme.com/250811/p12#a250811p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

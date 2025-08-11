@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
  - 💣 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
  - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
- - 👉 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)<!-- MEMES:END -->
+ - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
 
 ---
 

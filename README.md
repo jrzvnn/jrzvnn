@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
- - 💣 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [Gotta love 9gaggers](http://9gag.com/gag/azxQYBp)
+ - 💣 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
+ - 😝 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
 
 ---
 

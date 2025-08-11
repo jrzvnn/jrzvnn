@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
- - 💣 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
  - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 👉 [Play stupid games](http://9gag.com/gag/aGybAg0)<!-- MEMES:END -->
+ - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
+ - 💣 [Clever man](http://9gag.com/gag/adBbejV)
+ - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
+ - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
 
 ---
 

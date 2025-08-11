@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI makes Grok 4 free for all users worldwide after making Grok Imagine free for all US users; Grok 4 Heavy remains exclusive to SuperGrok Heavy subscribers &lpar;Omair Pall/Mashable India&rpar;](http://www.techmeme.com/250811/p20#a250811p20)
- - [The viral video of a ‘deactivated’ Tesla Cybertruck is most likely fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
- - [iRobot’s future isn’t looking up](https://www.theverge.com/news/757434/irobot-earnings-show-roomba-maker-still-struggling)
- - [Apple puts out its sixth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/11/apple-puts-out-its-sixth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
- - [UFC Streaming Moves to Paramount Plus in Multi-Billion-Dollar Deal](https://www.cnet.com/tech/services-and-software/ufc-streaming-moves-to-paramount-in-multi-billion-dollar-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You can save $30 on the OnePlus Watch 3, a great Galaxy Watch 8 alternative](https://www.theverge.com/tech/757554/oneplus-watch-3-2-back-to-school-deal-sale)
+ - [Sources: GM plans a renewed push on driverless cars, focused on personal use rather than a robotaxi service, and is trying to bring back some ex-Cruise workers &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/250811/p21#a250811p21)
+ - [WIRED Roundup: Unpacking OpenAI’s Government Partnership](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/)
+ - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
+ - [xAI makes Grok 4 free for all users worldwide after making Grok Imagine free for all US users; Grok 4 Heavy remains exclusive to SuperGrok Heavy subscribers &lpar;Omair Pall/Mashable India&rpar;](http://www.techmeme.com/250811/p20#a250811p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

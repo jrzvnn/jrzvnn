@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s what the new ringtones in iOS 26 sound like](https://appleinsider.com/articles/25/08/11/heres-what-the-new-ringtones-in-ios-26-sound-like?utm_source=rss)
  - [SEC filing: crypto exchange Bullish increased the size and price of its US IPO to sell 30M shares for $32 to $33 each, up from 20.3M shares for $28 to $31 each &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250811/p26#a250811p26)
  - [Source: StubHub now aims to hold its IPO in September after pausing plans in April; it updated its IPO prospectus, reporting Q1 revenue up 10% YoY to $397.6M &lpar;CNBC&rpar;](http://www.techmeme.com/250811/p25#a250811p25)
  - [Even the lowly canister vacuum now wants access to your Wi-Fi network](https://www.theverge.com/news/757731/miele-guard-l1-electro-canister-vacuum-smart-wifi-mobile-app)
- - [Trump family&#39;s World Liberty Financial is using a publicly listed company, ALT5 Sigma, to raise $1.5B for the purchase of its WLFI token &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250811/p24#a250811p24)
- - [Anthropic adds a memory feature for Claude to reference information from past chats, available now for Max, Team, and Enterprise plans, and soon for other plans &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250811/p23#a250811p23)<!-- TECH:END -->
+ - [Best Internet Providers in Portland, Oregon](https://www.cnet.com/home/internet/best-internet-providers-in-portland-or/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
+ - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - 💣 [I need a solution](http://9gag.com/gag/aD2MXMd)
+ - 😝 [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 ---
 

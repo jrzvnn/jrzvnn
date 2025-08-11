@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases &lpar;Luc Olinga/Gizmodo&rpar;](http://www.techmeme.com/250811/p1#a250811p1)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 11, #322](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-11-322/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-11/#ftag=CAD590a51e)
  - [Wondery&#39;s restructure suggests the end of the &quot;Serial&quot; podcasting era and the start of a new one, marked by investment tied to video and the creator economy &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250810/p16#a250810p16)
- - [Western pharma giants have struck multibillion-dollar deals with Chinese biotech firms using AI, signaling confidence in China&#39;s AI drug discovery research &lpar;Leslie Liang/Rest of World&rpar;](http://www.techmeme.com/250810/p15#a250810p15)
- - [Sources: SoftBank has selected banks for a potential US IPO of its payments app operator PayPay, which may raise over $2B and could take place as soon as Q4 &lpar;Reuters&rpar;](http://www.techmeme.com/250810/p14#a250810p14)
- - [Sources: Nvidia and AMD agreed to pay the US government 15% of revenues from H20 and MI308 chip sales in China to obtain export licenses granted last week &lpar;Financial Times&rpar;](http://www.techmeme.com/250810/p13#a250810p13)
- - [Sources: Intel CEO Lip-Bu Tan is set to meet Trump on Monday to propose ways the US and Intel could work together, show his commitment to the US, and more &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/250810/p12#a250810p12)<!-- TECH:END -->
+ - [Western pharma giants have struck multibillion-dollar deals with Chinese biotech firms using AI, signaling confidence in China&#39;s AI drug discovery research &lpar;Leslie Liang/Rest of World&rpar;](http://www.techmeme.com/250810/p15#a250810p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

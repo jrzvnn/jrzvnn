@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Yomiuri Shimbun, Japan&#39;s largest newspaper by circulation, sues Perplexity, alleging unauthorized reproduction of its articles, and seeks $14.7M in damages &lpar;Andrew Deck/Nieman Lab&rpar;](http://www.techmeme.com/250811/p27#a250811p27)
- - [Over 150% China tariff rate delayed by 90 days, 30% still in effect for iPhone season](https://appleinsider.com/articles/25/08/11/over-150-tariffs-from-china-delayed-by-90-days-30-still-in-effect-for-iphone-season?utm_source=rss)
- - [Here&#39;s what the new ringtones in iOS 26 sound like](https://appleinsider.com/articles/25/08/11/heres-what-the-new-ringtones-in-ios-26-sound-like?utm_source=rss)
- - [SEC filing: crypto exchange Bullish increased the size and price of its US IPO to sell 30M shares for $32 to $33 each, up from 20.3M shares for $28 to $31 each &lpar;Charles Capel/Bloomberg&rpar;](http://www.techmeme.com/250811/p26#a250811p26)
- - [Source: StubHub now aims to hold its IPO in September after pausing plans in April; it updated its IPO prospectus, reporting Q1 revenue up 10% YoY to $397.6M &lpar;CNBC&rpar;](http://www.techmeme.com/250811/p25#a250811p25)<!-- TECH:END -->
+ - [Paxos applies to create a US national trust bank, which would allow it to manage and hold assets for customers, following applications by Circle and Ripple &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250811/p29#a250811p29)
+ - [That viral video of a ‘deactivated’ Tesla Cybertruck is a fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
+ - [Anthropic’s Claude chatbot can now remember your past conversations](https://www.theverge.com/news/757743/anthropic-claude-ai-search-past-chats)
+ - [Trump says he met with Lip-Bu Tan and that the Intel CEO will continue talks with his Cabinet members in the coming days, after calling for his resignation &lpar;Skylar Woodhouse/Bloomberg&rpar;](http://www.techmeme.com/250811/p28#a250811p28)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 12, #323](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-12-323/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

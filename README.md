@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
- - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
- - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
+ - 😝 [Rabid Fox trying to eat his way in](http://9gag.com/gag/a6Z82rb)
+ - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
  - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
+ - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
 
 ---
 

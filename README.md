@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
- - 😝 [Neat..](http://9gag.com/gag/axy4Pm2)
- - 💣 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
- - 😝 [Cool !](http://9gag.com/gag/a6Z8pnq)
- - 👉 [Dedication to gaming achieved](http://9gag.com/gag/aLnrm7W)<!-- MEMES:END -->
+ - 😝 [Clever man](http://9gag.com/gag/adBbejV)
+ - 😝 [Cars flip over very easily](http://9gag.com/gag/aW492q2)
+ - 💣 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/aD2MXyN)
+ - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
 
 ---
 

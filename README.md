@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its gonna be his fault for not teleporting there to help](http://9gag.com/gag/aE0EXEe)
- - 😝 [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
- - 💣 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
- - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
+ - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
+ - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
 
 ---
 

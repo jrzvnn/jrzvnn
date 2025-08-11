@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai wants Ioniq 5 owners to pay to fix a keyless entry security hole](https://www.theverge.com/news/757205/hyundai-ioniq-5-security-upgrade-fix-game-boy-device-attacks)
  - [A UK judge dismisses Wikimedia&#39;s Online Safety Act challenge over requiring Wikipedia to verify users and contributors, but says it can file further challenges &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250811/p11#a250811p11)
  - [7 Best Tents &lpar;2025&rpar;, Tested: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)
  - [What Does Palantir Actually Do?](https://www.wired.com/story/palantir-what-the-company-does/)
- - [Trade experts: Nvidia and AMD&#39;s deal to export AI chips to China and pay the US 15% of revenue is &quot;unprecedented&quot; and a sign of &quot;a new and dangerous world&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p10#a250811p10)
- - [UK researchers: 80 game cheat-selling websites generate $12.8M to $73.2M annually, with 30,000 to 174,000 monthly buyers across North America and Europe alone &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250811/p9#a250811p9)<!-- TECH:END -->
+ - [Trade experts: Nvidia and AMD&#39;s deal to export AI chips to China and pay the US 15% of revenue is &quot;unprecedented&quot; and a sign of &quot;a new and dangerous world&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p10#a250811p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

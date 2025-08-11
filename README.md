@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
+ - 😝 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 💣 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
  - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
- - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
- - 👉 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)<!-- MEMES:END -->
+ - 👉 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)<!-- MEMES:END -->
 
 ---
 

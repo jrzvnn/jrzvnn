@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
  - [ESPN will offer a $39.99 bundle with Fox&amp;#8217;s live sports streaming service](https://www.theverge.com/news/757483/espn-fox-one-live-sports-streaming-service-bundle)
  - [AOL Will Pull the Plug on Dial-Up Internet, 34 Years After Its Launch](https://www.cnet.com/tech/aol-will-pull-the-plug-on-dial-up-internet-34-years-after-its-launch/#ftag=CAD590a51e)
  - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
- - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
  - [This magnetic charger brings the conveniences of wireless charging to the iPad](https://www.theverge.com/news/757457/kuxiu-m30-magnetic-smart-connector-charger-apple-ipad-pro-air)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

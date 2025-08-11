@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Clever man](http://9gag.com/gag/adBbejV)
  - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
- - 😝 [When you have a captive audience, deliver your best!](http://9gag.com/gag/aVvBZbw)
  - 💣 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 😝 [The good old days](http://9gag.com/gag/aPAnXVG)
- - 👉 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)<!-- MEMES:END -->
+ - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 👉 [Play stupid games](http://9gag.com/gag/aGybAg0)<!-- MEMES:END -->
 
 ---
 

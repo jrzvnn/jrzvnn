@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
- - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
+ - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
+ - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
  - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
  - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 👉 [F Garfield](http://9gag.com/gag/a2vG2L9)<!-- MEMES:END -->
+ - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
 
 ---
 

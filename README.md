@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK retailer M&amp;S resumes click and collect services after a cyberattack on April 22, set to cost it ~£300M; M&amp;S restarted online delivery orders on June 10 &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/250811/p7#a250811p7)
- - [Sea&#39;s Shopee is nearing a $100B market cap after its stock surged 300%+ since early 2024, driven by its in-house, community-based logistics network SPX Express &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p6#a250811p6)
- - [Low cost MacBook could launch for $599 in late 2025](https://appleinsider.com/articles/25/08/11/low-cost-macbook-could-launch-for-599-in-late-2025?utm_source=rss)
- - [The Black Market for Fake Science Is Growing Faster Than Legitimate Research, Study Warns](https://www.wired.com/story/black-market-for-fraudulent-science-growing-faster-than-legitimate-research/)
- - [Best Running Shoes for Women in 2025](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK researchers: 80 game cheat-selling websites generate $12.8M to $73.2M annually, with 30,000 to 174,000 monthly buyers across North America and Europe alone &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250811/p9#a250811p9)
+ - [Malaysian startup Zetrix unveils NurAI, a chatbot for Muslims built using similar techniques to DeepSeek&#39;s V3, and plans AI avatars of Islamic scholars &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250811/p8#a250811p8)
+ - [13 Best Back-to-School Laptop Deals for 2025](https://www.wired.com/story/best-back-to-school-laptop-deals/)
+ - [Inside the Multimillion-Dollar Gray Market for Video Game Cheats](https://www.wired.com/story/inside-the-multimillion-dollar-grey-market-for-video-game-cheats/)
+ - [UK retailer M&amp;S resumes click and collect services after a cyberattack on April 22, set to cost it ~£300M; M&amp;S restarted online delivery orders on June 10 &lpar;James Davey/Reuters&rpar;](http://www.techmeme.com/250811/p7#a250811p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 😝 [F Garfield](http://9gag.com/gag/a2vG2L9)
- - 💣 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
+ - 😝 [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
+ - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 💣 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
  - 😝 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 👉 [F Garfield](http://9gag.com/gag/a2vG2L9)<!-- MEMES:END -->
 
 ---
 

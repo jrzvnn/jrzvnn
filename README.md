@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 💣 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
- - 😝 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
- - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
+ - 😝 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
+ - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 💣 [Clever man](http://9gag.com/gag/adBbejV)
+ - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
+ - 👉 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)<!-- MEMES:END -->
 
 ---
 

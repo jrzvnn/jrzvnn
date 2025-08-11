@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even the lowly canister vacuum now wants access to your Wi-Fi network](https://www.theverge.com/news/757731/miele-guard-l1-electro-canister-vacuum-smart-wifi-mobile-app)
+ - [Trump family&#39;s World Liberty Financial is using a publicly listed company, ALT5 Sigma, to raise $1.5B for the purchase of its WLFI token &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250811/p24#a250811p24)
  - [Anthropic adds a memory feature for Claude to reference information from past chats, available now for Max, Team, and Enterprise plans, and soon for other plans &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250811/p23#a250811p23)
  - [Revel plans to wind down rideshare operations in its home city of New York after four years, pivoting to an EV-charging business that counts Uber as a partner &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250811/p22#a250811p22)
- - [This see-thru Game Boy is a work of art — because she designed a transparent circuit board](https://www.theverge.com/games/757662/natalie-the-nerd-transparent-translucent-game-boy-pcb)
- - [New ringtones and app launch speed-up: What&#39;s new in iOS 26 beta 6](https://appleinsider.com/articles/25/08/11/new-ringtones-and-app-launch-speed-up-whats-new-in-ios-26-beta-6?utm_source=rss)
- - [OpenAI Scrambles to Update GPT-5 After Users Revolt](https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/)<!-- TECH:END -->
+ - [This see-thru Game Boy is a work of art — because she designed a transparent circuit board](https://www.theverge.com/games/757662/natalie-the-nerd-transparent-translucent-game-boy-pcb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

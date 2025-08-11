@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
- - 💣 [Clever man](http://9gag.com/gag/adBbejV)
- - 😝 [The intriguing case of the invisible children](http://9gag.com/gag/aAyZMXE)
- - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
+ - 😝 [Thanks God of Random](http://9gag.com/gag/ayNPRGp)
+ - 😝 [Neat..](http://9gag.com/gag/axy4Pm2)
+ - 💣 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
+ - 😝 [Cool !](http://9gag.com/gag/a6Z8pnq)
+ - 👉 [Dedication to gaming achieved](http://9gag.com/gag/aLnrm7W)<!-- MEMES:END -->
 
 ---
 

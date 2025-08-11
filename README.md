@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
- - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 😝 [Fireworks during the day](http://9gag.com/gag/axy4R8W)
- - 👉 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)<!-- MEMES:END -->
+ - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - 😝 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 💣 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
 
 ---
 

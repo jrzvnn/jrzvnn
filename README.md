@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
- - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 💣 [Clever man](http://9gag.com/gag/adBbejV)
- - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 👉 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)<!-- MEMES:END -->
+ - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
+ - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
 
 ---
 

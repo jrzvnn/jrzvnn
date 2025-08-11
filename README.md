@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
- - 😝 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
- - 💣 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
- - 👉 [Play stupid games](http://9gag.com/gag/aGybAg0)<!-- MEMES:END -->
+ - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 💣 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
+ - 😝 [Taco taco](http://9gag.com/gag/aD2MXBx)
+ - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
 
 ---
 

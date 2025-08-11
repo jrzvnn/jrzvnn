@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford reveals breakthrough process for lower priced EVs](https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t)
  - [This collaborative doodling website is like Google Maps plus MS Paint](https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired)
  - [The EU Commission approves Prosus&#39; €4.1B takeover of Just Eat Takeaway in a bid to create a &quot;European tech champion&quot; to rival DoorDash, which acquired Deliveroo &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p14#a250811p14)
  - [Notion CEO Ivan Zhao wants you to demand better from your tools](https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview)
- - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
- - [The CSA releases Matter 1.4.2 to improve reliability, stability, and cross-platform coordination, like Wi-Fi-only commissioning to lose its Bluetooth dependency &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250811/p13#a250811p13)<!-- TECH:END -->
+ - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

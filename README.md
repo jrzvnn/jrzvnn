@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nightmare once you learn how to lucid dream, be like](http://9gag.com/gag/aByoXND)
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 💣 [Straight from the vault #22](http://9gag.com/gag/adBbo6B)
- - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 😝 [Fireworks during the day](http://9gag.com/gag/axy4R8W)
+ - 💣 [Its gonna be his fault for not teleporting there to help](http://9gag.com/gag/aE0EXEe)
+ - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
+ - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
 
 ---
 

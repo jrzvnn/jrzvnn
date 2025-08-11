@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can save $30 on the OnePlus Watch 3, a great Galaxy Watch 8 alternative](https://www.theverge.com/tech/757554/oneplus-watch-3-2-back-to-school-deal-sale)
- - [Sources: GM plans a renewed push on driverless cars, focused on personal use rather than a robotaxi service, and is trying to bring back some ex-Cruise workers &lpar;David Welch/Bloomberg&rpar;](http://www.techmeme.com/250811/p21#a250811p21)
- - [WIRED Roundup: Unpacking OpenAI’s Government Partnership](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-unpacking-openai-government-partnership/)
- - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
- - [xAI makes Grok 4 free for all users worldwide after making Grok Imagine free for all US users; Grok 4 Heavy remains exclusive to SuperGrok Heavy subscribers &lpar;Omair Pall/Mashable India&rpar;](http://www.techmeme.com/250811/p20#a250811p20)<!-- TECH:END -->
+ - [This see-thru Game Boy is a work of art — because she designed a transparent circuit board](https://www.theverge.com/games/757662/natalie-the-nerd-transparent-translucent-game-boy-pcb)
+ - [New ringtones and app launch speed-up: What&#39;s new in iOS 26 beta 6](https://appleinsider.com/articles/25/08/11/new-ringtones-and-app-launch-speed-up-whats-new-in-ios-26-beta-6?utm_source=rss)
+ - [OpenAI Scrambles to Update GPT-5 After Users Revolt](https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/)
+ - [Revel shutters rideshare business, pivots to EV charging](https://www.theverge.com/news/757661/revel-shutters-rideshare-business-pivots-to-ev-charging)
+ - [You can save $30 on the OnePlus Watch 3, a great Galaxy Watch 8 alternative](https://www.theverge.com/tech/757554/oneplus-watch-3-2-back-to-school-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

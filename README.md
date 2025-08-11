@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fr tho](http://9gag.com/gag/ayNP1bY)
- - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - 💣 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
- - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
+ - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
+ - 😝 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
+ - 💣 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 👉 [Play stupid games](http://9gag.com/gag/aGybAg0)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [President Trump says that he initially asked Nvidia for a 20% cut of H20 sales to China, but the number came down to 15% after Jensen Huang negotiated with him &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250811/p19#a250811p19)
  - [CBS uses the real Steve Wozniak -- and Disney&#39;s -- to help fight bitcoin fraudsters](https://appleinsider.com/articles/25/08/11/cbs-uses-the-real-steve-wozniak----and-disneys----to-help-fight-bitcoin-fraudsters?utm_source=rss)
  - [Reddit says it will block the Internet Archive from indexing most of its pages after it caught AI companies scraping its data from the Wayback Machine &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250811/p18#a250811p18)
- - [Meta makes conservative activist an AI bias advisor following lawsuit](https://www.theverge.com/news/757537/meta-robby-starbuck-conservative-activist-ai-bias-advisor)<!-- TECH:END -->
+ - [Amazon&#39;s $799 M4 MacBook Air deal has been extended for back-to-school](https://appleinsider.com/articles/25/08/11/amazons-799-m4-macbook-air-deal-has-been-extended-for-back-to-school?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

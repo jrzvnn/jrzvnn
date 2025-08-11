@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
- - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 💣 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
+ - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
+ - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
 
 ---
 

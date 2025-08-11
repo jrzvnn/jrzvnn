@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
- - 😝 [Fireworks during the day](http://9gag.com/gag/axy4R8W)
- - 💣 [Its gonna be his fault for not teleporting there to help](http://9gag.com/gag/aE0EXEe)
+ - 😝 [Its gonna be his fault for not teleporting there to help](http://9gag.com/gag/aE0EXEe)
+ - 😝 [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
+ - 💣 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
  - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
+ - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
 
 ---
 

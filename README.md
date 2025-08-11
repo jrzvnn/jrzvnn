@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US demands cut of Nvidia sales in order to ship AI chips to China](https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china)
- - [In &#39;Alien: Earth&#39;, the Future Is a Corporate Hellscape](https://www.wired.com/story/in-alien-earth-the-future-is-a-corporate-hellscape/)
- - [Ninja’s latest ice cream maker has never been cheaper](https://www.theverge.com/tech/757228/ninja-swirl-ice-cream-maker-deal-sale)
- - [Ford reveals breakthrough process for lower priced EVs](https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t)
- - [This collaborative doodling website is like Google Maps plus MS Paint](https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired)<!-- TECH:END -->
+ - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
+ - [GitHub CEO Thomas Dohmke plans to step down to pursue entrepreneurial endeavors; memo: Microsoft is opting not to directly replace the position &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250811/p16#a250811p16)
+ - [This 16-inch Razer Blade look-a-like laptop is $1,300 at Best Buy](https://www.theverge.com/tech/757349/gigabyte-aero-x16-doom-xbox-ps5-controller-deal-sale)
+ - [Sonos updates, smart lock launch, Sonagi outdoor smart TV review on HomeKit Insider](https://appleinsider.com/articles/25/08/11/sonos-updates-smart-lock-launch-sonagi-outdoor-smart-tv-review-on-homekit-insider?utm_source=rss)
+ - [Ford&#39;s Answer to China: A Completely New Way of Making Cars](https://www.wired.com/story/fords-answer-to-china-a-completely-new-way-of-making-cars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

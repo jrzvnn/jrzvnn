@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
+ - 😝 [Life&#39;s a scam](http://9gag.com/gag/axy4OLK)
  - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 💣 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
- - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - 👉 [Katie Porter Wrecking Billionaire CEO](http://9gag.com/gag/aD2MVP7)<!-- MEMES:END -->
+ - 💣 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
+ - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - 👉 [Fr tho](http://9gag.com/gag/ayNP1bY)<!-- MEMES:END -->
 
 ---
 

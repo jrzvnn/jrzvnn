@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clever man](http://9gag.com/gag/adBbejV)
- - 😝 [Cars flip over very easily](http://9gag.com/gag/aW492q2)
- - 💣 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
+ - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
+ - 💣 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
  - 😝 [Core memory unlocked](http://9gag.com/gag/aD2MXyN)
- - 👉 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)<!-- MEMES:END -->
+ - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
 
 ---
 

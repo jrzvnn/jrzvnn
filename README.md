@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning from Norway!](http://9gag.com/gag/aZZvzDV)
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 💣 [Why not both?](http://9gag.com/gag/aYQmqX2)
- - 😝 [My local pub](http://9gag.com/gag/avymdBO)
- - 👉 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)<!-- MEMES:END -->
+ - 😝 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
+ - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 💣 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
+ - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
 
 ---
 

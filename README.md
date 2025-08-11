@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
+ - 😝 [Impatient with short attention span](http://9gag.com/gag/aZZvjp9)
  - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 💣 [Clever man](http://9gag.com/gag/adBbejV)
+ - 💣 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
  - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - 👉 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)<!-- MEMES:END -->
+ - 👉 [Katie Porter Wrecking Billionaire CEO](http://9gag.com/gag/aD2MVP7)<!-- MEMES:END -->
 
 ---
 

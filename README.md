@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
+ - 😝 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
  - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
- - 💣 [F Garfield](http://9gag.com/gag/a2vG2L9)
+ - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
  - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 👉 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)<!-- MEMES:END -->
+ - 👉 [F Garfield](http://9gag.com/gag/a2vG2L9)<!-- MEMES:END -->
 
 ---
 

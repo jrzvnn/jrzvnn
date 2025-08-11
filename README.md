@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI-focused hedge funds raise billions, such as ex-OpenAI researcher Leopold Aschenbrenner&#39;s Situational Awareness that amassed $1.5B+ for a &quot;brain trust on AI&quot; &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/250811/p4#a250811p4)
  - [AOL is finally shutting down dial-up](https://www.theverge.com/news/757194/aol-dial-up-is-dead)
  - [A long-running cyberattack campaign between Israel and Iran has continued since the June ceasefire, with Israel landing the most telling blows &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p3#a250811p3)
  - [Rumble says it plans to acquire German AI cloud group Northern Data in an all-stock deal; estimates show the deal could be valued at $1.17B &lpar;Reuters&rpar;](http://www.techmeme.com/250811/p2#a250811p2)
- - [Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases &lpar;Luc Olinga/Gizmodo&rpar;](http://www.techmeme.com/250811/p1#a250811p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 11, #322](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-11-322/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman says OpenAI is restoring GPT-4o to ChatGPT and raising reasoning model limits for free and Plus users, as usage of reasoning models increases &lpar;Luc Olinga/Gizmodo&rpar;](http://www.techmeme.com/250811/p1#a250811p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

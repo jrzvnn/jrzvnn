@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US demands cut of Nvidia sales in order to ship AI chips to China](https://www.theverge.com/news/757428/donald-trump-nvidia-amd-ai-chip-sales-china)
+ - [In &#39;Alien: Earth&#39;, the Future Is a Corporate Hellscape](https://www.wired.com/story/in-alien-earth-the-future-is-a-corporate-hellscape/)
+ - [Ninja’s latest ice cream maker has never been cheaper](https://www.theverge.com/tech/757228/ninja-swirl-ice-cream-maker-deal-sale)
  - [Ford reveals breakthrough process for lower priced EVs](https://www.theverge.com/ford-motor-company/757243/ford-ev-truck-breakthrough-model-t)
- - [This collaborative doodling website is like Google Maps plus MS Paint](https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired)
- - [The EU Commission approves Prosus&#39; €4.1B takeover of Just Eat Takeaway in a bid to create a &quot;European tech champion&quot; to rival DoorDash, which acquired Deliveroo &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p14#a250811p14)
- - [Notion CEO Ivan Zhao wants you to demand better from your tools](https://www.theverge.com/decoder-podcast-with-nilay-patel/756736/notion-ceo-ivan-zhao-productivity-software-design-ai-interview)
- - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)<!-- TECH:END -->
+ - [This collaborative doodling website is like Google Maps plus MS Paint](https://www.theverge.com/news/757364/wplace-pixel-art-website-r-place-inspired)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

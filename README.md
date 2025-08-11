@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
- - 😝 [Can anyone from Pakistan confirm this?](http://9gag.com/gag/aYQmMz7)
- - 💣 [DNA tests are helpful](http://9gag.com/gag/an7Vr5o)
- - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
+ - 💣 [Fr tho](http://9gag.com/gag/ayNP1bY)
+ - 😝 [Fireworks during the day](http://9gag.com/gag/axy4R8W)
+ - 👉 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)<!-- MEMES:END -->
 
 ---
 

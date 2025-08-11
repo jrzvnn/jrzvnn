@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
- - 😝 [Grandpa, what are you doing?](http://9gag.com/gag/aO8GPvy)
- - 💣 [I need a solution](http://9gag.com/gag/aD2MXMd)
- - 😝 [Baby monkey&#39;s bath time. I can&#39;t help but notice a similarity](http://9gag.com/gag/an7VEg0)
- - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
+ - 😝 [Good morning from Norway!](http://9gag.com/gag/aZZvzDV)
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 💣 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 😝 [My local pub](http://9gag.com/gag/avymdBO)
+ - 👉 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)<!-- MEMES:END -->
 
 ---
 

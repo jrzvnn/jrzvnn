@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 😝 [Gotta love 9gaggers](http://9gag.com/gag/azxQYBp)
- - 💣 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - 😝 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
+ - 😝 [F Garfield](http://9gag.com/gag/a2vG2L9)
+ - 💣 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
+ - 😝 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
+ - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
 
 ---
 

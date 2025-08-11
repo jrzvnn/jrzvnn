@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 😝 [Rabid Fox trying to eat his way in](http://9gag.com/gag/a6Z82rb)
- - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
+ - 😝 [Nightmare once you learn how to lucid dream, be like](http://9gag.com/gag/aByoXND)
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 💣 [Straight from the vault #22](http://9gag.com/gag/adBbo6B)
+ - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 👉 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)<!-- MEMES:END -->
 
 ---
 

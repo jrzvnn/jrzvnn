@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
+ - 😝 [Red marker in case you\u2018re blind](http://9gag.com/gag/awyvdvR)
+ - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
  - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 😝 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
+ - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
 
 ---
 

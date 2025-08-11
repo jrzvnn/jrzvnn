@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)
  - [AirPods could soon get Live Translation, iOS 26 beta code suggests](https://appleinsider.com/articles/25/08/11/airpods-could-soon-get-live-translation-ios-26-beta-code-suggests?utm_source=rss)
  - [Nvidia announces two low-power Blackwell workstation GPUs, the RTX PRO 4000 SFF and RTX PRO 2000, both featuring compact designs and available later this year &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250811/p31#a250811p31)
  - [Nvidia debuts new Omniverse SDKs and Cosmos world foundation models for robotics devs, including Cosmos Reason, a 7B-parameter reasoning vision language model &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250811/p30#a250811p30)
- - [Lowest price ever: Apple&#39;s M4 MacBook Pro with 24GB RAM plunges to $1,499](https://appleinsider.com/articles/25/08/11/lowest-price-ever-apples-m4-macbook-pro-with-24gb-ram-plunges-to-1499?utm_source=rss)
- - [Paxos applies to create a US national trust bank, which would allow it to manage and hold assets for customers, following applications by Circle and Ripple &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/250811/p29#a250811p29)<!-- TECH:END -->
+ - [Lowest price ever: Apple&#39;s M4 MacBook Pro with 24GB RAM plunges to $1,499](https://appleinsider.com/articles/25/08/11/lowest-price-ever-apples-m4-macbook-pro-with-24gb-ram-plunges-to-1499?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

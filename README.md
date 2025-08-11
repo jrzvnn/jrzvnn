@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit will block the Internet Archive](https://www.theverge.com/news/757538/reddit-internet-archive-wayback-machine-block-limit)
- - [Trump says &quot;it&#39;s possible I&#39;d make a deal&quot; to let Nvidia sell Blackwell chips &quot;enhanced in a negative way&quot; in China and confirms a 15% fee on H20 chip sales &lpar;Financial Times&rpar;](http://www.techmeme.com/250811/p17#a250811p17)
- - [Ford is betting the future on smaller EV batteries](https://www.theverge.com/ford-motor-company/757473/ford-ev-universal-affordable-small-battery)
- - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
- - [ESPN will offer a $39.99 bundle with Fox&amp;#8217;s live sports streaming service](https://www.theverge.com/news/757483/espn-fox-one-live-sports-streaming-service-bundle)<!-- TECH:END -->
+ - [CBS uses the real Steve Wozniak -- and Disney&#39;s -- to help fight bitcoin fraudsters](https://appleinsider.com/articles/25/08/11/cbs-uses-the-real-steve-wozniak----and-disneys----to-help-fight-bitcoin-fraudsters?utm_source=rss)
+ - [Reddit says it will block the Internet Archive from indexing most of its pages after it caught AI companies scraping its data from the Wayback Machine &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250811/p18#a250811p18)
+ - [Apple puts out its sixth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/11/apple-puts-out-its-sixth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
+ - [Meta makes conservative activist an AI bias advisor following lawsuit](https://www.theverge.com/news/757537/meta-robby-starbuck-conservative-activist-ai-bias-advisor)
+ - [Amazon&#39;s $799 M4 MacBook Air deal has been extended for back-to-school](https://appleinsider.com/articles/25/08/11/amazons-799-m4-macbook-air-deal-has-been-extended-for-back-to-school?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

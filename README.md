@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Don&#39;t put camera guards, screen protectors, or keyboard covers on a MacBook Pro](https://appleinsider.com/articles/25/08/11/dont-put-camera-guards-screen-protectors-or-keyboard-covers-on-a-macbook-pro?utm_source=rss)
+ - [Best Nintendo Switch 2 Accessories: Controllers, Cases, and More](https://www.wired.com/gallery/best-switch-2-accessories/)
+ - [Matter’s latest update doubles down on stability and pushes the platforms to play better together](https://www.theverge.com/matter/757179/matter-1-4-2-spec-release-pushes-platforms-to-play-nicely)
  - [Hyundai wants Ioniq 5 owners to pay to fix a keyless entry security hole](https://www.theverge.com/news/757205/hyundai-ioniq-5-security-upgrade-fix-game-boy-device-attacks)
- - [A UK judge dismisses Wikimedia&#39;s Online Safety Act challenge over requiring Wikipedia to verify users and contributors, but says it can file further challenges &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250811/p11#a250811p11)
- - [7 Best Tents &lpar;2025&rpar;, Tested: Backpacking, Family, and Ultralight](https://www.wired.com/gallery/best-camping-tents/)
- - [What Does Palantir Actually Do?](https://www.wired.com/story/palantir-what-the-company-does/)
- - [Trade experts: Nvidia and AMD&#39;s deal to export AI chips to China and pay the US 15% of revenue is &quot;unprecedented&quot; and a sign of &quot;a new and dangerous world&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/250811/p10#a250811p10)<!-- TECH:END -->
+ - [A UK judge dismisses Wikimedia&#39;s Online Safety Act challenge over requiring Wikipedia to verify users and contributors&#39; IDs, but says it can file new challenges &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/250811/p11#a250811p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

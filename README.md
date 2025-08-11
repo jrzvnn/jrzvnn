@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
+ - 😝 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
+ - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
+ - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 👉 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)<!-- MEMES:END -->
 
 ---
 

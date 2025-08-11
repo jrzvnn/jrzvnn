@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Play stupid games](http://9gag.com/gag/aGybAg0)
- - 😝 [Wtf is that?](http://9gag.com/gag/a1mw2rP)
+ - 😝 [Why be lactose intolerant? Just tolerate it](http://9gag.com/gag/a87z2dZ)
+ - 😝 [That douchebag coworker who jumps in and does your 8h task i 5min](http://9gag.com/gag/aByoGDA)
  - 💣 [Clearly Nikki doesn\u2019t like thiss](http://9gag.com/gag/agmj4gn)
- - 😝 [Taco taco](http://9gag.com/gag/aD2MXBx)
- - 👉 [Clever man](http://9gag.com/gag/adBbejV)<!-- MEMES:END -->
+ - 😝 [Why not both?](http://9gag.com/gag/aYQmqX2)
+ - 👉 [Wtf is that?](http://9gag.com/gag/a1mw2rP)<!-- MEMES:END -->
 
 ---
 

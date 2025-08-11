@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI makes Grok 4 free for all users worldwide after making Grok Imagine free for all US users; Grok 4 Heavy remains exclusive to SuperGrok Heavy subscribers &lpar;Omair Pall/Mashable India&rpar;](http://www.techmeme.com/250811/p20#a250811p20)
+ - [The viral video of a ‘deactivated’ Tesla Cybertruck is most likely fake](https://www.theverge.com/tesla/757594/tesla-cybertruck-deactivated-viral-video-fake)
+ - [iRobot’s future isn’t looking up](https://www.theverge.com/news/757434/irobot-earnings-show-roomba-maker-still-struggling)
  - [Apple puts out its sixth developer betas of iOS 26, iPadOS 26](https://appleinsider.com/articles/25/08/11/apple-puts-out-its-sixth-developer-betas-of-ios-26-ipados-26?utm_source=rss)
- - [President Trump says that he initially asked Nvidia for a 20% cut of H20 sales to China, but the number came down to 15% after Jensen Huang negotiated with him &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250811/p19#a250811p19)
- - [CBS uses the real Steve Wozniak -- and Disney&#39;s -- to help fight bitcoin fraudsters](https://appleinsider.com/articles/25/08/11/cbs-uses-the-real-steve-wozniak----and-disneys----to-help-fight-bitcoin-fraudsters?utm_source=rss)
- - [Reddit says it will block the Internet Archive from indexing most of its pages after it caught AI companies scraping its data from the Wayback Machine &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250811/p18#a250811p18)
- - [Amazon&#39;s $799 M4 MacBook Air deal has been extended for back-to-school](https://appleinsider.com/articles/25/08/11/amazons-799-m4-macbook-air-deal-has-been-extended-for-back-to-school?utm_source=rss)<!-- TECH:END -->
+ - [UFC Streaming Moves to Paramount Plus in Multi-Billion-Dollar Deal](https://www.cnet.com/tech/services-and-software/ufc-streaming-moves-to-paramount-in-multi-billion-dollar-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

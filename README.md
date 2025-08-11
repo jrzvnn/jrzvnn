@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may shift iPhone 17 Pro antennas to the camera bump](https://appleinsider.com/articles/25/08/11/apple-may-shift-iphone-17-pro-antennas-to-the-camera-bump?utm_source=rss)
+ - [This magnetic charger brings the conveniences of wireless charging to the iPad](https://www.theverge.com/news/757457/kuxiu-m30-magnetic-smart-connector-charger-apple-ipad-pro-air)
+ - [&#39;Apple Home&#39; is increasingly replacing HomeKit references in beta software](https://appleinsider.com/articles/25/08/11/apple-home-is-increasingly-replacing-homekit-references-in-beta-software?utm_source=rss)
  - [The best smart rings for tracking sleep and health](https://www.theverge.com/tech/647901/best-smart-rings)
- - [GitHub CEO Thomas Dohmke plans to step down to pursue entrepreneurial endeavors; memo: Microsoft is opting not to directly replace the position &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250811/p16#a250811p16)
- - [This 16-inch Razer Blade look-a-like laptop is $1,300 at Best Buy](https://www.theverge.com/tech/757349/gigabyte-aero-x16-doom-xbox-ps5-controller-deal-sale)
- - [Sonos updates, smart lock launch, Sonagi outdoor smart TV review on HomeKit Insider](https://appleinsider.com/articles/25/08/11/sonos-updates-smart-lock-launch-sonagi-outdoor-smart-tv-review-on-homekit-insider?utm_source=rss)
- - [Ford&#39;s Answer to China: A Completely New Way of Making Cars](https://www.wired.com/story/fords-answer-to-china-a-completely-new-way-of-making-cars/)<!-- TECH:END -->
+ - [GitHub CEO Thomas Dohmke says he is leaving to &quot;become a startup founder again&quot;; memo: Microsoft is opting not to directly replace the position &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250811/p16#a250811p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

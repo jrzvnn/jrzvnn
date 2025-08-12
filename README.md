@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk cries antitrust as X &amp; Grok can&#39;t compete with OpenAI on Apple&#39;s App Store](https://appleinsider.com/articles/25/08/12/elon-musk-cries-antitrust-as-x-grok-cant-compete-with-openai-on-apples-app-store?utm_source=rss)
+ - [ESET says a high-severity WinRAR zero-day is being exploited by two Russian cybercrime groups, enabling persistent backdoors when malicious files are opened &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/250811/p35#a250811p35)
  - [Elon Musk alleges Apple is violating antitrust laws by &quot;making it impossible&quot; for any AI firm but OpenAI to top its App Store, says xAI will take legal action &lpar;Surbhi Misra/Reuters&rpar;](http://www.techmeme.com/250811/p34#a250811p34)
  - [Apple Cinemas&#39; name &#39;reflects geographic roots,&#39; not the tech company](https://appleinsider.com/articles/25/08/12/apple-cinemas-name-reflects-geographic-roots-not-the-tech-company?utm_source=rss)
- - [Q&amp;A with Notion CEO Ivan Zhao on Notion&#39;s evolution into an &quot;AI workspace&quot;, being profitable, B2B vs. B2C, usage-based pricing for AI, and more &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/250811/p33#a250811p33)
- - [Siri&#39;s New Features May Include Adding Voice Controls to Apps](https://www.cnet.com/tech/services-and-software/siris-new-features-may-include-adding-voice-controls-to-apps/#ftag=CAD590a51e)
- - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)<!-- TECH:END -->
+ - [Q&amp;A with Notion CEO Ivan Zhao on Notion&#39;s evolution into an &quot;AI workspace&quot;, being profitable, B2B vs. B2C, usage-based pricing for AI, and more &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/250811/p33#a250811p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

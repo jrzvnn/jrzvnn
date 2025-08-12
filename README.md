@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is preparing to back a Neuralink rival called Merge Labs, co-founded by Sam Altman, that aims to raise $250M at an $850M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250812/p27#a250812p27)
  - [eToro reports Q2 crypto revenue up 17% YoY to $1.9B, assets under administration up 54% to $17.5B, and adjusted non-GAAP net income up 23% to $54.2M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250812/p26#a250812p26)
  - [Sources: investigators have uncovered evidence that Russia is at least in part responsible for a recent hack of the US federal court filing system &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p25#a250812p25)
  - [Future Apple Vision Pro may add more touch controls](https://appleinsider.com/articles/25/08/12/future-apple-vision-pro-may-add-more-touch-controls?utm_source=rss)
- - [League of Legends is testing a new WASD control scheme, 16 years in](https://www.theverge.com/news/758360/league-of-legends-wasd-keyboard-control-riot-games)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 13 #528](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-13-528/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [League of Legends is testing a new WASD control scheme, 16 years in](https://www.theverge.com/news/758360/league-of-legends-wasd-keyboard-control-riot-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

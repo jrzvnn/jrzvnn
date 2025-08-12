@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese authorities urge local companies to avoid using less advanced chips, particularly Nvidia&#39;s H20, for government or national security work &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p2#a250812p2)
  - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)
  - [Newegg Promo Code: 10% Off August 2025](https://www.wired.com/story/newegg-promo-code/)
  - [30% Off Tempur-Pedic Promo Codes | August 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [LG Promo Codes: 20% Off | August 2025](https://www.wired.com/story/lg-promo-code/)
- - [Elon Musk cries antitrust as X &amp; Grok can&#39;t compete with OpenAI on Apple&#39;s App Store](https://appleinsider.com/articles/25/08/12/elon-musk-cries-antitrust-as-x-grok-cant-compete-with-openai-on-apples-app-store?utm_source=rss)<!-- TECH:END -->
+ - [LG Promo Codes: 20% Off | August 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

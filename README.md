@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
+ - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
+ - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
+ - 👉 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)<!-- MEMES:END -->
 
 ---
 

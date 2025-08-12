@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Krafton claims former Subnautica 2 devs ‘lost interest’ in developing game](https://www.theverge.com/news/758265/subnautica-2-lawsuit-response-krafton-unknown-worlds)
+ - [UK government suggests deleting files to save water](https://www.theverge.com/science/758275/drought-delete-files-email-data-center-water-uk)
+ - [The 55 Best Shows on Disney+ Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
  - [Despite Musk&#39;s claim Apple &quot;makes it impossible&quot; for non-OpenAI AI apps to top its App Store, DeepSeek was #1 in January and Perplexity was #1 in July in India &lpar;Henry Chandonnet/Business Insider&rpar;](http://www.techmeme.com/250812/p23#a250812p23)
- - [Blowout special: 13-inch iPad Air M2 Wi-Fi + Cellular on sale for $649](https://appleinsider.com/articles/25/08/12/blowout-special-13-inch-ipad-air-m2-wi-fi-cellular-on-sale-for-649?utm_source=rss)
- - [Trump Family–Backed World Liberty Financial Sets Up $1.5 Billion Crypto Treasury](https://www.wired.com/story/president-trump-crypto-treasury-world-liberty-financial/)
- - [Appfigures: AI companion apps are on track to generate $120M+ in revenue in 2025, and in H1 there were 60M downloads of this kind of app, up 88% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250812/p22#a250812p22)
- - [Anthropic just made its latest move in the AI coding wars](https://www.theverge.com/ai-artificial-intelligence/757998/anthropic-just-made-its-latest-move-in-the-ai-coding-wars)<!-- TECH:END -->
+ - [Blowout special: 13-inch iPad Air M2 Wi-Fi + Cellular on sale for $649](https://appleinsider.com/articles/25/08/12/blowout-special-13-inch-ipad-air-m2-wi-fi-cellular-on-sale-for-649?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

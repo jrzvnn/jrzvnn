@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
+ - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
+ - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
  - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
- - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 💣 [No one is too busy](http://9gag.com/gag/abAEEME)
- - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
  - 👉 [The person who convinced her to do cosmetic surgery can sell refrigerator in Ice Land](http://9gag.com/gag/a87zKd3)<!-- MEMES:END -->
 
 ---

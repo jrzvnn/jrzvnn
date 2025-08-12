@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Profound, which helps brands optimize visibility in AI search responses, raised a $35M Series B led by Sequoia, bringing its total funding to $58.5M &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250812/p31#a250812p31)
- - [Best Side-Sleeper Mattress 2025: Picked by a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)
- - [Circle announces it will offer 10M shares to the public, of which 8M will be sold by existing stockholders; CRCL drops 6%+ after hours &lpar;Christina Cheddar Berk/CNBC&rpar;](http://www.techmeme.com/250812/p30#a250812p30)
- - [CoreWeave Q2: revenue up 207% YoY to $1.21B, vs. $1.08B est., adjusted net loss of $130.8M, vs. $96.3M est., up from $5M in Q2 2024; CRWV drops 8%+ after hours &lpar;Redd Brown/Bloomberg&rpar;](http://www.techmeme.com/250812/p29#a250812p29)
- - [CoreWeave shares drop even as revenue and guidance top estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250812/p28#a250812p28)<!-- TECH:END -->
+ - [Google posts an official look at the Pixel 10 Pro Fold](https://www.theverge.com/news/758429/google-pixel-10-pro-fold-video-teaser-leaks)
+ - [OpenAI is adding Connectors for Gmail, Google Calendar, and Google Contacts in ChatGPT for Pro users, with Plus, Team, Enterprise, and Edu plans to follow &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250812/p32#a250812p32)
+ - [I Tried the New McDonaldland Meal for Adults, With Its Bizarre Pink and Blue Shake](https://www.cnet.com/news/i-tried-the-new-mcdonaldland-meal-for-adults-with-its-bizarre-pink-and-blue-shake/#ftag=CAD590a51e)
+ - [Best Internet Providers in Phoenix, Arizona](https://www.cnet.com/home/internet/best-internet-providers-in-phoenix-az/#ftag=CAD590a51e)
+ - [Google Searches for &#39;Taylor Swift&#39; Summon This Dazzling Easter Egg](https://www.cnet.com/culture/entertainment/google-searches-for-taylor-swift-summon-this-dazzling-easter-egg/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

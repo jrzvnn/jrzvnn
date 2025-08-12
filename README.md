@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung has launched its first Micro RGB TV with improved color accuracy](https://www.theverge.com/news/758063/samsung-micro-rgb-tv)
  - [New Kiko Kostadinov Beats Pill blends Thracian art &amp; modern audio](https://appleinsider.com/articles/25/08/12/new-kiko-kostadinov-beats-pill-blends-thracian-art-modern-audio?utm_source=rss)
  - [New Plugable Thunderbolt 4 dock brings dual 4K HDMI to M4 Macs](https://appleinsider.com/articles/25/08/12/new-plugable-thunderbolt-4-dock-brings-dual-4k-hdmi-to-m4-macs?utm_source=rss)
  - [The First At-Home Cervical Cancer Screening Wand Is Now Available](https://www.cnet.com/health/medical/first-at-home-cervical-cancer-screening-wand-now-available/#ftag=CAD590a51e)
- - [12 of the Best Peacock Shows to Stream Today](https://www.cnet.com/tech/services-and-software/best-peacock-shows-august-2025/#ftag=CAD590a51e)
- - [Cloud vs. Local: What’s the Best for Security Camera Footage? &lpar;2025&rpar;](https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/)<!-- TECH:END -->
+ - [12 of the Best Peacock Shows to Stream Today](https://www.cnet.com/tech/services-and-software/best-peacock-shows-august-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

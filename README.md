@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Title](http://9gag.com/gag/aMVyONV)
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 💣 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
- - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
- - 👉 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)<!-- MEMES:END -->
+ - 😝 [Straight from the vault #26](http://9gag.com/gag/aVvBVPO)
+ - 💣 [Please reverse this tourture..](http://9gag.com/gag/a6Z8jGL)
+ - 😝 [Such warm moment, melts my skin and bones, only skeleton left.](http://9gag.com/gag/apR88b9)
+ - 👉 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Character.AI Gave Up on AGI. Now It’s Selling Stories](https://www.wired.com/story/character-ai-ceo-chatbots-entertainment/)
+ - [&#39;NFL Retro Bowl &#39;26&#39; rushes onto Apple Arcade on September 4](https://appleinsider.com/articles/25/08/12/nfl-retro-bowl-26-rushes-onto-apple-arcade-on-september-4?utm_source=rss)
  - [In US court, Terraform Labs co-founder Do Kwon says he will plead guilty to charges of conspiracy and wire fraud under an agreement with prosecutors &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250812/p14#a250812p14)
  - [Pebblebee’s AirTag alternative can now share your real-time location in an emergency](https://www.theverge.com/news/757543/pebblebee-clip-tracker-android-ios-alert-live-safety-panic-alarm)
- - [Google is adding a new way to personalize the news you see](https://www.theverge.com/news/757979/google-search-preferred-sources-launch-top-stories)
- - [Apple’s latest MacBook Pro with M4 is down to its lowest price to date](https://www.theverge.com/tech/758044/apple-macbook-pro-powerbeats-pro-2-earbuds-deal-sale)
- - [Samsung has launched its first Micro RGB TV with improved color accuracy](https://www.theverge.com/news/758063/samsung-micro-rgb-tv)<!-- TECH:END -->
+ - [Google is adding a new way to personalize the news you see](https://www.theverge.com/news/757979/google-search-preferred-sources-launch-top-stories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

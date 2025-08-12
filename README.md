@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackwater’s founder would like to sell you a privacy phone made in the USA](https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater)
+ - [Terraform co-founder Do Kwon pleads guilty over $40 billion crypto collapse](https://www.theverge.com/news/758160/do-kwon-terraform-labs-guilty-plea)
  - [Perplexity offers to acquire Chrome for $34.5B, significantly more than Perplexity&#39;s estimated $18B valuation, and says large VC funds agreed to back the deal &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/250812/p15#a250812p15)
  - [The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke](https://www.wired.com/story/trump-administration-dhs-white-house-deportations-meme/)
- - [Character.AI Gave Up on AGI. Now It’s Selling Stories](https://www.wired.com/story/character-ai-ceo-chatbots-entertainment/)
- - [&#39;NFL Retro Bowl &#39;26&#39; rushes onto Apple Arcade on September 4](https://appleinsider.com/articles/25/08/12/nfl-retro-bowl-26-rushes-onto-apple-arcade-on-september-4?utm_source=rss)
- - [In US court, Terraform Labs co-founder Do Kwon says he will plead guilty to charges of conspiracy and wire fraud under an agreement with prosecutors &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250812/p14#a250812p14)<!-- TECH:END -->
+ - [Character.AI Gave Up on AGI. Now It’s Selling Stories](https://www.wired.com/story/character-ai-ceo-chatbots-entertainment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

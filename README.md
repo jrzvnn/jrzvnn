@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Character.AI says it&#39;s generating revenue at a run rate of $30M+ and has 20M MAUs who spend, on average, 75 minutes a day chatting with a bot &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250812/p18#a250812p18)
+ - [Perplexity offers to buy Google Chrome for $34.5 billion](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)
  - [Meta says Threads has 400M monthly active users, up from 350M MAUs in April &lpar;Emily Price/Fast Company&rpar;](http://www.techmeme.com/250812/p17#a250812p17)
  - [AI companies are chasing government users with steep discounts](https://www.theverge.com/policy/758189/openai-anthropic-claude-chatgpt-government)
- - [Anthropic updates Claude Sonnet 4 to support a 1M token context window, letting it process prompts up to 750K words or 75K lines of code, up 5x on its old limit &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250812/p16#a250812p16)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [A20 chip developments could mean more iPhone variants in 2026](https://appleinsider.com/articles/25/08/12/a20-chip-developments-could-mean-more-iphone-variants-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic updates Claude Sonnet 4 to support a 1M token context window, letting it process prompts up to 750K words or 75K lines of code, up 5x on its old limit &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250812/p16#a250812p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

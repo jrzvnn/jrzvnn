@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [A member of Taiwan&#39;s parliament stole a bill and ran off with it to prevent it from being passed.](http://9gag.com/gag/a9yBX2W)
- - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
- - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
+ - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
+ - 😝 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
+ - 💣 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 👉 [The person who convinced her to do cosmetic surgery can sell refrigerator in Ice Land](http://9gag.com/gag/a87zKd3)<!-- MEMES:END -->
 
 ---
 

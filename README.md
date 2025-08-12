@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says he’s suing Apple for rigging App Store rankings](https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store)
  - [Microsoft releases lightweight Office taskbar apps for Windows 11](https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release)
  - [Martin Scorsese opens up about acting, filmaking, and nearly destroying &#39;Taxi Driver&#39;](https://appleinsider.com/articles/25/08/12/martin-scorsese-opens-up-about-acting-filmaking-and-nearly-destroying-taxi-driver?utm_source=rss)
  - [Sea reports Q2 revenue up 38% YoY to $5.26B, vs. $5B est., a $414M net income, vs. $444M est., Shopee revenue up 34% YoY to $3.8B, driven by commissions and ads &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p10#a250812p10)
- - [Taylor Swift’s 12th announced at 12:12 on the 12th](https://www.theverge.com/news/757921/taylor-swift-t12-album-name)
- - [The Rise of the US Military’s Clandestine Foreign War Apparatus](https://www.wired.com/story/the-fort-bragg-cartel-seth-harp-excerpt/)<!-- TECH:END -->
+ - [Taylor Swift’s 12th announced at 12:12 on the 12th](https://www.theverge.com/news/757921/taylor-swift-t12-album-name)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

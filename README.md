@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
  - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 😝 [It&#39;s all so bothersome](http://9gag.com/gag/a1mw2g6)
- - 👉 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)<!-- MEMES:END -->
+ - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
 
 ---
 

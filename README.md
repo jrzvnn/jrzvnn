@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is trying to poach Meta&#39;s AI talent, is making multimillion-dollar offers, with a mandate to match Meta&#39;s compensation for top talent &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/250812/p20#a250812p20)
+ - [Ultimate Ears’ Wonderboom 4 speaker is cheaper than ever at 40 percent off](https://www.theverge.com/tech/757717/ultimate-ears-ue-wonderboom-4-bluetooth-speaker-deal-sale)
+ - [Google launches Preferred Sources in the US and India, allowing users to personalize the news in Search&#39;s &quot;top stories&quot; section by selecting favorite outlets &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250812/p21#a250812p21)
+ - [Sources: Microsoft is trying to poach Meta&#39;s AI talent and is making multimillion-dollar offers, with a mandate to match Meta&#39;s compensation for top talent &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/250812/p20#a250812p20)
  - [Qubic, a layer-1 blockchain project that pools mining resources, has been trying a 51% attack on Monero and says it succeeded, causing Monero&#39;s price to fall &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250812/p19#a250812p19)
- - [Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI](https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini)
- - [Character.AI says it&#39;s generating revenue at a run rate of $30M+ and has 20M MAUs who spend, on average, 75 minutes a day chatting with a bot &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250812/p18#a250812p18)
- - [Perplexity offers to buy Google Chrome for $34.5 billion](https://www.theverge.com/news/758218/perplexity-google-chrome-bid-unsolicited-offer)<!-- TECH:END -->
+ - [Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI](https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

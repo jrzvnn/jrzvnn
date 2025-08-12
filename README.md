@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
  - 😝 [Title](http://9gag.com/gag/aMVyONV)
- - 😝 [Straight from the vault #26](http://9gag.com/gag/aVvBVPO)
- - 💣 [Please reverse this tourture..](http://9gag.com/gag/a6Z8jGL)
+ - 💣 [I need one](http://9gag.com/gag/aryzBY5)
  - 😝 [Such warm moment, melts my skin and bones, only skeleton left.](http://9gag.com/gag/apR88b9)
- - 👉 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)<!-- MEMES:END -->
+ - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
 
 ---
 

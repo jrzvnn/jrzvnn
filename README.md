@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases lightweight Office taskbar apps for Windows 11](https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release)
+ - [Martin Scorsese opens up about acting, filmaking, and nearly destroying &#39;Taxi Driver&#39;](https://appleinsider.com/articles/25/08/12/martin-scorsese-opens-up-about-acting-filmaking-and-nearly-destroying-taxi-driver?utm_source=rss)
  - [Sea reports Q2 revenue up 38% YoY to $5.26B, vs. $5B est., a $414M net income, vs. $444M est., Shopee revenue up 34% YoY to $3.8B, driven by commissions and ads &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p10#a250812p10)
  - [Taylor Swift’s 12th announced at 12:12 on the 12th](https://www.theverge.com/news/757921/taylor-swift-t12-album-name)
- - [The Rise of the US Military’s Clandestine Foreign War Apparatus](https://www.wired.com/story/the-fort-bragg-cartel-seth-harp-excerpt/)
- - [What&#39;s Your Curl Type? &lpar;2025&rpar;](https://www.wired.com/story/whats-your-curl-type/)
- - [Ford is doubling down on EVs — the timing is awful](https://www.theverge.com/ford-motor-company/757719/ford-is-doubling-down-on-evs-the-timing-is-awful)<!-- TECH:END -->
+ - [The Rise of the US Military’s Clandestine Foreign War Apparatus](https://www.wired.com/story/the-fort-bragg-cartel-seth-harp-excerpt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

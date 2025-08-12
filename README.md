@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
  - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 💣 [The funny part is the jersey with `equality` on it.](http://9gag.com/gag/a9yBOw6)
- - 😝 [The NBA ain\u2019t putting up nets.](http://9gag.com/gag/aAyZZ3g)
- - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
+ - 💣 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
+ - 👉 [Instant for me](http://9gag.com/gag/aO8GpVM)<!-- MEMES:END -->
 
 ---
 

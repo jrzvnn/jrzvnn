@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic says Fortnite is coming back to iOS in Australia](https://www.theverge.com/news/757885/epic-apple-google-australia-judgment)
+ - [Central American Beaches Are Being Overrun With Local and Foreign Plastic](https://www.wired.com/story/the-plastic-bottles-we-throw-into-the-pacific-are-infesting-the-beaches-of-central-america/)
  - [The Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
  - [Sources: Chinese authorities urge local companies to avoid using less advanced chips, particularly Nvidia&#39;s H20, for government or national security work &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p2#a250812p2)
- - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)
- - [Newegg Promo Code: 10% Off August 2025](https://www.wired.com/story/newegg-promo-code/)
- - [30% Off Tempur-Pedic Promo Codes | August 2025](https://www.wired.com/story/tempur-pedic-promo-code/)<!-- TECH:END -->
+ - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

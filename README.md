@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
- - 😝 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
- - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
- - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
+ - 😝 [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
+ - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
+ - 💣 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 😝 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
+ - 👉 [Satanists just don&#39;t acknowledge religions](http://9gag.com/gag/a2vGOV1)<!-- MEMES:END -->
 
 ---
 

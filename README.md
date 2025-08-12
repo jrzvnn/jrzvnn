@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia might be responsible for the PACER hack](https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia)
+ - [Elon Musk&#39;s antitrust claims dismissed by Apple, cites curation for safe discovery](https://appleinsider.com/articles/25/08/12/elon-musks-antitrust-claims-dismissed-by-apple-cites-curation-for-safe-discovery?utm_source=rss)
+ - [AOL Will Shut Down Dial-Up Internet Access in September](https://www.wired.com/story/aol-shutting-down-dial-up-internet-access-in-september/)
  - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [In response to Elon Musk&#39;s claims that the App Store favors the ChatGPT app, Apple says the App Store &quot;is designed to be fair and free of bias&quot; &lpar;Mark Gurman/@markgurman&rpar;](http://www.techmeme.com/250812/p34#a250812p34)
- - [Squint, which uses AI and AR to modernize manufacturing processes, raised a $40M Series B led by The Westly Group and TCV at a $265M valuation &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250812/p33#a250812p33)
- - [Google posts an official look at the Pixel 10 Pro Fold](https://www.theverge.com/news/758429/google-pixel-10-pro-fold-video-teaser-leaks)
- - [OpenAI is adding Connectors for Gmail, Google Calendar, and Google Contacts in ChatGPT for Pro users, with Plus, Team, Enterprise, and Edu plans to follow &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/250812/p32#a250812p32)<!-- TECH:END -->
+ - [In response to Elon Musk&#39;s claims that the App Store favors the ChatGPT app, Apple says the App Store &quot;is designed to be fair and free of bias&quot; &lpar;Mark Gurman/@markgurman&rpar;](http://www.techmeme.com/250812/p34#a250812p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

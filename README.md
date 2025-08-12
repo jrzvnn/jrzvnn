@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
- - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 💣 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 👉 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)<!-- MEMES:END -->
+ - 😝 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 💣 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
+ - 😝 [The insult will continue until moral improves](http://9gag.com/gag/aE0EZy9)
+ - 👉 [Dude, what?](http://9gag.com/gag/awyvY84)<!-- MEMES:END -->
 
 ---
 

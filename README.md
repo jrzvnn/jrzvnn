@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
- - 😝 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
- - 💣 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 👉 [The person who convinced her to do cosmetic surgery can sell refrigerator in Ice Land](http://9gag.com/gag/a87zKd3)<!-- MEMES:END -->
+ - 😝 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
+ - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 💣 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
+ - 👉 [How to friend](http://9gag.com/gag/aryz8v5)<!-- MEMES:END -->
 
 ---
 

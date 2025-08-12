@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
- - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
- - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
- - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
- - 👉 [The person who convinced her to do cosmetic surgery can sell refrigerator in Ice Land](http://9gag.com/gag/a87zKd3)<!-- MEMES:END -->
+ - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
+ - 💣 [`My name is Butchy Allen, &amp; I&#39;m the fastest dog alive!`](http://9gag.com/gag/aZZvvPn)
+ - 😝 [The NBA ain\u2019t putting up nets.](http://9gag.com/gag/aAyZZ3g)
+ - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
 
 ---
 

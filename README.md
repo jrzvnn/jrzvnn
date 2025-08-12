@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 💣 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
  - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
+ - 😝 [A member of Taiwan&#39;s parliament stole a bill and ran off with it to prevent it from being passed.](http://9gag.com/gag/a9yBX2W)
+ - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
+ - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
 
 ---
 

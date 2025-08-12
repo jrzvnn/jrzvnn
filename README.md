@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
- - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 💣 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 😝 [Title](http://9gag.com/gag/aMVyONV)
+ - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
+ - 💣 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
  - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
- - 👉 [Instant for me](http://9gag.com/gag/aO8GpVM)<!-- MEMES:END -->
+ - 👉 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)<!-- MEMES:END -->
 
 ---
 

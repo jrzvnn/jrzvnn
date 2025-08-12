@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and IBM believe the first industrial-scale quantum computer is in sight, potentially by 2030, but challenges like scaling from ~200 to 1M qubits remain &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/250812/p6#a250812p6)
- - [Lisa Su Runs AMD—and Is Out for Nvidia’s Blood](https://www.wired.com/story/lisa-su-runs-amd-and-is-out-for-nvidias-blood/)
- - [How Jensen Huang successfully lobbied Trump to restart H20 sales to China; US officials had not vetted Trump&#39;s 20% pay-to-play proposal when Trump offered it &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250812/p5#a250812p5)
- - [Epic says it is bringing Fortnite back to iOS in Australia &quot;at a date to be determined&quot;, after a judge ruled Apple and Google&#39;s app stores are anticompetitive &lpar;The Verge&rpar;](http://www.techmeme.com/250812/p4#a250812p4)
- - [An Australian federal judge rules Apple and Google engaged in anti-competitive conduct by misusing app store market power, but rejects some of Epic&#39;s claims &lpar;ABC&rpar;](http://www.techmeme.com/250812/p3#a250812p3)<!-- TECH:END -->
+ - [Q&amp;A with AMD CEO Lisa Su on AI accelerators, US manufacturing, becoming AMD CEO in 2014, aiming to surpass Nvidia, OpenAI, Tesla, xAI, China, ROCm, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250812/p9#a250812p9)
+ - [How Larry Ellison is focusing his philanthropic efforts on the Ellison Institute of Technology, an Oxford-based, for-profit entity set to spend £1B by 2027 &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p8#a250812p8)
+ - [Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals](https://www.wired.com/story/apples-ai-ambitions-leave-big-questions-over-its-climate-goals/)
+ - [Epic Games gains partial victory over Apple and Google in Australia](https://appleinsider.com/articles/25/08/12/epic-games-gains-partial-victory-over-apple-and-google-in-australia?utm_source=rss)
+ - [How Google, Meta, and Apple&#39;s pledges to spend billions on new Silicon Valley housing failed to meet expectations; Apple spent $1.6B by July 2024, the most &lpar;Nicole Friedman/Wall Street Journal&rpar;](http://www.techmeme.com/250812/p7#a250812p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
- - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
+ - 😝 [His reaction can&#39;t even be paint by an artist](http://9gag.com/gag/aD2MOVx)
+ - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 💣 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
+ - 😝 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)
+ - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
 
 ---
 

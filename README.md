@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk alleges Apple is violating antitrust laws by &quot;making it impossible&quot; for any AI firm but OpenAI to top its App Store, says xAI will take legal action &lpar;Surbhi Misra/Reuters&rpar;](http://www.techmeme.com/250811/p34#a250811p34)
+ - [Apple Cinemas&#39; name &#39;reflects geographic roots,&#39; not the tech company](https://appleinsider.com/articles/25/08/12/apple-cinemas-name-reflects-geographic-roots-not-the-tech-company?utm_source=rss)
  - [Q&amp;A with Notion CEO Ivan Zhao on Notion&#39;s evolution into an &quot;AI workspace&quot;, being profitable, B2B vs. B2C, usage-based pricing for AI, and more &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/250811/p33#a250811p33)
- - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)
- - [AirPods could soon get Live Translation, iOS 26 beta code suggests](https://appleinsider.com/articles/25/08/11/airpods-could-soon-get-live-translation-ios-26-beta-code-suggests?utm_source=rss)
- - [Nvidia announces two low-power Blackwell workstation GPUs, the RTX PRO 4000 SFF and RTX PRO 2000, both featuring compact designs and available later this year &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250811/p31#a250811p31)
- - [Nvidia debuts new Omniverse SDKs and Cosmos world foundation models for robotics devs, including Cosmos Reason, a 7B-parameter reasoning vision language model &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250811/p30#a250811p30)<!-- TECH:END -->
+ - [Siri&#39;s New Features May Include Adding Voice Controls to Apps](https://www.cnet.com/tech/services-and-software/siris-new-features-may-include-adding-voice-controls-to-apps/#ftag=CAD590a51e)
+ - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

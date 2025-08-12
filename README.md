@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
- - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 👉 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)<!-- MEMES:END -->
+ - 😝 [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
+ - 😝 [As if they were playing with fans until now lol](http://9gag.com/gag/ajPyK9q)
+ - 💣 [Very controversial](http://9gag.com/gag/a9yBXpK)
+ - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
 
 ---
 

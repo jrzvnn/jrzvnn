@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
- - 😝 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
- - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
+ - 😝 [Here to spread knowledge about my absolute favorite name of an animal.](https://www.reddit.com/r/memes/comments/1mobgsy/here_to_spread_knowledge_about_my_absolute/)
+ - 😝 [What did you eat.](https://www.reddit.com/r/memes/comments/1mo9dhs/what_did_you_eat/)
+ - 💣 [The more you read, the worse it gets](https://www.reddit.com/r/memes/comments/1mo7sjh/the_more_you_read_the_worse_it_gets/)
+ - 😝 [Y&#39;all know It&#39;s true...](https://www.reddit.com/r/funny/comments/1mo7one/yall_know_its_true/)
+ - 👉 [I didn&#39;t do it](https://www.reddit.com/r/memes/comments/1mo7dsh/i_didnt_do_it/)<!-- MEMES:END -->
 
 ---
 

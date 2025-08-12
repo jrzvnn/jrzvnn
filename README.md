@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
- - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 💣 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
+ - 😝 [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
+ - 💣 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
+ - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 👉 [He was not lying](http://9gag.com/gag/aAyZOyE)<!-- MEMES:END -->
 
 ---
 

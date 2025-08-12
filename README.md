@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic says it is bringing Fortnite back to iOS in Australia &quot;at a date to be determined&quot;, after a judge ruled Apple and Google&#39;s app stores are anticompetitive &lpar;The Verge&rpar;](http://www.techmeme.com/250812/p4#a250812p4)
+ - [An Australian federal judge rules Apple and Google engaged in anti-competitive conduct by misusing app store market power, but rejects some of Epic&#39;s claims &lpar;ABC&rpar;](http://www.techmeme.com/250812/p3#a250812p3)
  - [Epic says Fortnite is coming back to iOS in Australia](https://www.theverge.com/news/757885/epic-apple-google-australia-judgment)
  - [Central American Beaches Are Being Overrun With Local and Foreign Plastic](https://www.wired.com/story/the-plastic-bottles-we-throw-into-the-pacific-are-infesting-the-beaches-of-central-america/)
- - [The Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
- - [Sources: Chinese authorities urge local companies to avoid using less advanced chips, particularly Nvidia&#39;s H20, for government or national security work &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p2#a250812p2)
- - [A look at potential issues as US judges join lawyers in testing generative AI to speed up legal research, summarize cases, draft routine orders, and more &lpar;James O&#39;Donnell/MIT Technology Review&rpar;](http://www.techmeme.com/250812/p1#a250812p1)<!-- TECH:END -->
+ - [The Best Whitening Toothpaste of 2025, According to Dentists](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

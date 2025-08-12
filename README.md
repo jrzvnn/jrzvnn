@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Notion CEO Ivan Zhao on Notion&#39;s evolution into an &quot;AI workspace&quot;, being profitable, B2B vs. B2C, usage-based pricing for AI, and more &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/250811/p33#a250811p33)
  - [Sources: Google, Meta, and other tech firms have met with Brazilian officials as new regulations on tech are being shaped, with Trump&#39;s tariffs as a backdrop &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250811/p32#a250811p32)
  - [AirPods could soon get Live Translation, iOS 26 beta code suggests](https://appleinsider.com/articles/25/08/11/airpods-could-soon-get-live-translation-ios-26-beta-code-suggests?utm_source=rss)
  - [Nvidia announces two low-power Blackwell workstation GPUs, the RTX PRO 4000 SFF and RTX PRO 2000, both featuring compact designs and available later this year &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250811/p31#a250811p31)
- - [Nvidia debuts new Omniverse SDKs and Cosmos world foundation models for robotics devs, including Cosmos Reason, a 7B-parameter reasoning vision language model &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250811/p30#a250811p30)
- - [Lowest price ever: Apple&#39;s M4 MacBook Pro with 24GB RAM plunges to $1,499](https://appleinsider.com/articles/25/08/11/lowest-price-ever-apples-m4-macbook-pro-with-24gb-ram-plunges-to-1499?utm_source=rss)<!-- TECH:END -->
+ - [Nvidia debuts new Omniverse SDKs and Cosmos world foundation models for robotics devs, including Cosmos Reason, a 7B-parameter reasoning vision language model &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250811/p30#a250811p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

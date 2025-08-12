@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
+ - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
  - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 💣 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
- - 😝 [The insult will continue until moral improves](http://9gag.com/gag/aE0EZy9)
- - 👉 [Dude, what?](http://9gag.com/gag/awyvY84)<!-- MEMES:END -->
+ - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
+ - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
 
 ---
 

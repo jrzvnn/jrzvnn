@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
- - 💣 [`My name is Butchy Allen, &amp; I&#39;m the fastest dog alive!`](http://9gag.com/gag/aZZvvPn)
- - 😝 [The NBA ain\u2019t putting up nets.](http://9gag.com/gag/aAyZZ3g)
- - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
+ - 😝 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
+ - 😝 [The funny part is the jersey with `equality` on it.](http://9gag.com/gag/a9yBOw6)
+ - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 😝 [No one is too busy](http://9gag.com/gag/abAEEME)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
 
 ---
 

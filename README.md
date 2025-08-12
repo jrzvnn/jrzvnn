@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Plugable Thunderbolt 4 dock brings dual 4K HDMI to M4 Macs](https://appleinsider.com/articles/25/08/12/new-plugable-thunderbolt-4-dock-brings-dual-4k-hdmi-to-m4-macs?utm_source=rss)
+ - [Cloud vs. Local: What’s the Best for Security Camera Footage? &lpar;2025&rpar;](https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/)
+ - [Trump screwed over Nvidia’s Chinese sales, then let them happen](https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen)
  - [Inside the ‘Whites Only’ Community in Arkansas](https://www.wired.com/story/whites-only-community-arkansas/)
- - [Sling TV&amp;#8217;s $5 pass buys you one day of cable TV](https://www.theverge.com/news/758020/sling-tv-pass-one-day-cable-tv)
- - [iPhone 17 Air GPU won&#39;t be as powerful as iPhone 17 Pro](https://appleinsider.com/articles/25/08/12/chip-binned-iphone-17-air-wont-be-as-powerful-as-the-pro-models?utm_source=rss)
- - [&#39;Ted Lasso&#39; now flies the friendly skies on United&#39;s in-flight entertainment system](https://appleinsider.com/articles/25/08/12/ted-lasso-now-flies-the-friendly-skies-on-uniteds-in-flight-entertainment-system?utm_source=rss)
- - [Alien: Earth is a brilliant and terrifying expansion of the franchise](https://www.theverge.com/tv-reviews/719173/alien-earth-review)<!-- TECH:END -->
+ - [Sling TV&amp;#8217;s $5 pass buys you one day of cable TV](https://www.theverge.com/news/758020/sling-tv-pass-one-day-cable-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says he’s suing Apple for rigging App Store rankings](https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store)
- - [Microsoft releases lightweight Office taskbar apps for Windows 11](https://www.theverge.com/news/757935/microsoft-365-companion-apps-windows-11-release)
- - [Martin Scorsese opens up about acting, filmaking, and nearly destroying &#39;Taxi Driver&#39;](https://appleinsider.com/articles/25/08/12/martin-scorsese-opens-up-about-acting-filmaking-and-nearly-destroying-taxi-driver?utm_source=rss)
- - [Sea reports Q2 revenue up 38% YoY to $5.26B, vs. $5B est., a $414M net income, vs. $444M est., Shopee revenue up 34% YoY to $3.8B, driven by commissions and ads &lpar;Bloomberg&rpar;](http://www.techmeme.com/250812/p10#a250812p10)
- - [Taylor Swift’s 12th announced at 12:12 on the 12th](https://www.theverge.com/news/757921/taylor-swift-t12-album-name)<!-- TECH:END -->
+ - [Circle reports Q2 revenue up 53% YoY to $658M, USDC circulation up 90% YoY to $61.3B, a $482M net loss, and unveils Arc, a stablecoin-focused Layer-1 blockchain &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250812/p12#a250812p12)
+ - [Data Brokers Are Hiding Their Opt-Out Pages From Google Search](https://www.wired.com/story/data-brokers-hiding-opt-out-pages-google-search/)
+ - [Sam Altman is right and wrong about the future of photos](https://www.theverge.com/ai-artificial-intelligence/757709/sam-altman-ai-bunnies-what-is-a-photo)
+ - [Chip-binned iPhone 17 Air won&#39;t be as powerful as the Pro models](https://appleinsider.com/articles/25/08/12/chip-binned-iphone-17-air-wont-be-as-powerful-as-the-pro-models?utm_source=rss)
+ - [Anthropic plans to offer Claude to US lawmakers for $1 per year, following OpenAI; a source says Google is in talks to offer Gemini on similarly cheap terms &lpar;Financial Times&rpar;](http://www.techmeme.com/250812/p11#a250812p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

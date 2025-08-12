@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Kiko Kostadinov Beats Pill blends Thracian art &amp; modern audio](https://appleinsider.com/articles/25/08/12/new-kiko-kostadinov-beats-pill-blends-thracian-art-modern-audio?utm_source=rss)
  - [New Plugable Thunderbolt 4 dock brings dual 4K HDMI to M4 Macs](https://appleinsider.com/articles/25/08/12/new-plugable-thunderbolt-4-dock-brings-dual-4k-hdmi-to-m4-macs?utm_source=rss)
- - [Cloud vs. Local: What’s the Best for Security Camera Footage? &lpar;2025&rpar;](https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/)
- - [Trump screwed over Nvidia’s Chinese sales, then let them happen](https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen)
- - [Inside the ‘Whites Only’ Community in Arkansas](https://www.wired.com/story/whites-only-community-arkansas/)
- - [Sling TV&amp;#8217;s $5 pass buys you one day of cable TV](https://www.theverge.com/news/758020/sling-tv-pass-one-day-cable-tv)<!-- TECH:END -->
+ - [The First At-Home Cervical Cancer Screening Wand Is Now Available](https://www.cnet.com/health/medical/first-at-home-cervical-cancer-screening-wand-now-available/#ftag=CAD590a51e)
+ - [12 of the Best Peacock Shows to Stream Today](https://www.cnet.com/tech/services-and-software/best-peacock-shows-august-2025/#ftag=CAD590a51e)
+ - [Cloud vs. Local: What’s the Best for Security Camera Footage? &lpar;2025&rpar;](https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

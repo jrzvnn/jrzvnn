@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Match is settling with the FTC for $14M and a number of changes like making it easy to cancel subs, after the FTC sued in 2019 over false advertising and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250812/p24#a250812p24)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Krafton claims former Subnautica 2 devs ‘lost interest’ in developing game](https://www.theverge.com/news/758265/subnautica-2-lawsuit-response-krafton-unknown-worlds)
  - [UK government suggests deleting files to save water](https://www.theverge.com/science/758275/drought-delete-files-email-data-center-water-uk)
- - [How to Play Battlefield 6 Beta: Open Access Resumes This Friday](https://www.cnet.com/tech/gaming/battlefield-6-open-beta-weekend-2-start-time-new-maps-modes/#ftag=CAD590a51e)
- - [&#39;Alien: Earth&#39; Creator Noah Hawley Wants You to Have That &#39;I&#39;m Out&#39; Feeling Each Week](https://www.cnet.com/tech/services-and-software/alien-earth-creator-noah-hawley-wants-you-to-have-that-im-out-feeling-each-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 55 Best Shows on Disney+ Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

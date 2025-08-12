@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sling TV&amp;#8217;s $5 pass buys you one day of cable TV](https://www.theverge.com/news/758020/sling-tv-pass-one-day-cable-tv)
+ - [iPhone 17 Air GPU won&#39;t be as powerful as iPhone 17 Pro](https://appleinsider.com/articles/25/08/12/chip-binned-iphone-17-air-wont-be-as-powerful-as-the-pro-models?utm_source=rss)
  - [&#39;Ted Lasso&#39; now flies the friendly skies on United&#39;s in-flight entertainment system](https://appleinsider.com/articles/25/08/12/ted-lasso-now-flies-the-friendly-skies-on-uniteds-in-flight-entertainment-system?utm_source=rss)
  - [Alien: Earth is a brilliant and terrifying expansion of the franchise](https://www.theverge.com/tv-reviews/719173/alien-earth-review)
- - [Indian entrepreneur Bhavin Turakhia partners with GoDaddy to offer enterprises his email service Titan, which costs $2+ per month, aiming for 10M+ users by 2029 &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250812/p13#a250812p13)
- - [11 Best Computer Speakers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-computer-speakers/)
- - [How to save a smart home company](https://www.theverge.com/podcast/757679/how-insteon-came-back-from-the-dead-smart-lighting-hotline)<!-- TECH:END -->
+ - [Indian entrepreneur Bhavin Turakhia partners with GoDaddy to offer enterprises his email service Titan, which costs $2+ per month, aiming for 10M+ users by 2029 &lpar;Benicia Tan/Bloomberg&rpar;](http://www.techmeme.com/250812/p13#a250812p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

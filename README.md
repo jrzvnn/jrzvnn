@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [NYC-based Profound, which helps brands optimize visibility in AI search responses, raised a $35M Series B led by Sequoia, bringing its total funding to $58.5M &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250812/p31#a250812p31)
+ - [Best Side Sleeper Mattress 2025: Picked By a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)
  - [Circle announces it will offer 10M shares to the public, of which 8M will be sold by existing stockholders; CRCL drops 6%+ after hours &lpar;Christina Cheddar Berk/CNBC&rpar;](http://www.techmeme.com/250812/p30#a250812p30)
  - [CoreWeave Q2: revenue up 207% YoY to $1.21B, vs. $1.08B est., adjusted net loss of $130.8M, vs. $96.3M est., up from $5M in Q2 2024; CRWV drops 8%+ after hours &lpar;Redd Brown/Bloomberg&rpar;](http://www.techmeme.com/250812/p29#a250812p29)
- - [CoreWeave shares drop even as revenue and guidance top estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250812/p28#a250812p28)
- - [Sources: OpenAI is preparing to back a Neuralink rival called Merge Labs, co-founded by Sam Altman, that aims to raise $250M at an $850M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250812/p27#a250812p27)<!-- TECH:END -->
+ - [CoreWeave shares drop even as revenue and guidance top estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250812/p28#a250812p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

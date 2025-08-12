@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [CONFIDENCE](http://9gag.com/gag/a5QDqGg)
- - 😝 [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
- - 💣 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
+ - 😝 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
+ - 💣 [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
  - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
  - 👉 [He was not lying](http://9gag.com/gag/aAyZOyE)<!-- MEMES:END -->
 

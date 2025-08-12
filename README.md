@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with AMD CEO Lisa Su on AI accelerators, US manufacturing, becoming AMD CEO in 2014, aiming to surpass Nvidia, OpenAI, Tesla, xAI, China, ROCm, and more &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250812/p9#a250812p9)
- - [How Larry Ellison is focusing his philanthropic efforts on the Ellison Institute of Technology, an Oxford-based, for-profit entity set to spend £1B by 2027 &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p8#a250812p8)
- - [Apple’s AI Ambitions Leave Big Questions Over Its Climate Goals](https://www.wired.com/story/apples-ai-ambitions-leave-big-questions-over-its-climate-goals/)
- - [Epic Games gains partial victory over Apple and Google in Australia](https://appleinsider.com/articles/25/08/12/epic-games-gains-partial-victory-over-apple-and-google-in-australia?utm_source=rss)
- - [How Google, Meta, and Apple&#39;s pledges to spend billions on new Silicon Valley housing failed to meet expectations; Apple spent $1.6B by July 2024, the most &lpar;Nicole Friedman/Wall Street Journal&rpar;](http://www.techmeme.com/250812/p7#a250812p7)<!-- TECH:END -->
+ - [Taylor Swift’s 12th announced at 12:12AM on the 12th](https://www.theverge.com/news/757921/taylor-swift-t12-album-name)
+ - [The Rise of the US Military’s Clandestine Foreign War Apparatus](https://www.wired.com/story/the-fort-bragg-cartel-seth-harp-excerpt/)
+ - [What&#39;s Your Curl Type? &lpar;2025&rpar;](https://www.wired.com/story/whats-your-curl-type/)
+ - [Ford is doubling down on EVs — the timing is awful](https://www.theverge.com/ford-motor-company/757719/ford-is-doubling-down-on-evs-the-timing-is-awful)
+ - [GTA V now has DLSS 4 Multi Frame Generation support](https://www.theverge.com/news/757907/gta-5-dlss-4-multi-frame-generation-official-release-nvidia-game-ready-driver)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

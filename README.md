@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nugatti Veyron doing &gt;400km/h on the Autobahn. Illegal street racing Charges against the driver were dropped, state attorney argued that this wasn&#39;t reckless driving because the car was built to handle such speeds](http://9gag.com/gag/ayNPQYb)
  - 😝 [Behold, a post from 9gag in 2014.](http://9gag.com/gag/azxQ4Vb)
- - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 💣 [How to trigger a regime](http://9gag.com/gag/aVvB2VO)
- - 😝 [The Negotiator](http://9gag.com/gag/aByo4nN)
- - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
+ - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
+ - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
  - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 💣 [Task failed successfully](http://9gag.com/gag/awyv4P8)
- - 😝 [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)
- - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
+ - 💣 [An attempt was made](http://9gag.com/gag/ae9WR8b)
+ - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
+ - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
 
 ---
 

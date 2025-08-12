@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aMVyONV)
- - 😝 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
- - 💣 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 😝 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 😝 [Question: where do these type of wifes grow?](http://9gag.com/gag/a7oApOL)
+ - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
+ - 💣 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)
+ - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
  - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
 
 ---

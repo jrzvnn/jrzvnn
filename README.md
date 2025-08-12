@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
  - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
+ - 😝 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
  - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
  - 😝 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
  - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->

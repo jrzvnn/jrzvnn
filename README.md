@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
- - 😝 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
- - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 😝 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
- - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [Task failed successfully](http://9gag.com/gag/awyv4P8)
+ - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 😝 [I need a solution](http://9gag.com/gag/aD2MXMd)
+ - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
 
 ---
 

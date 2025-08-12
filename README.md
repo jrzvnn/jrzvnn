@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
- - 😝 [Now with more pixels and wide angle](http://9gag.com/gag/aAyZv6o)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
+ - 💣 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
+ - 👉 [I need a solution](http://9gag.com/gag/aD2MXMd)<!-- MEMES:END -->
 
 ---
 

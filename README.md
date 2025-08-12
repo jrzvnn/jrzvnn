@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultimate Ears’ Wonderboom 4 speaker is cheaper than ever at 40 percent off](https://www.theverge.com/tech/757717/ultimate-ears-ue-wonderboom-4-bluetooth-speaker-deal-sale)
- - [Google launches Preferred Sources in the US and India, allowing users to personalize the news in Search&#39;s &quot;top stories&quot; section by selecting favorite outlets &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250812/p21#a250812p21)
- - [Sources: Microsoft is trying to poach Meta&#39;s AI talent and is making multimillion-dollar offers, with a mandate to match Meta&#39;s compensation for top talent &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/250812/p20#a250812p20)
- - [Qubic, a layer-1 blockchain project that pools mining resources, has been trying a 51% attack on Monero and says it succeeded, causing Monero&#39;s price to fall &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250812/p19#a250812p19)
- - [Back-to-School Spending Is Down 50%, CNET Survey Finds. Here&#39;s How to Get the Tech and Gear You Need for Less](https://www.cnet.com/tech/back-to-school-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Blowout special: 13-inch iPad Air M2 Wi-Fi + Cellular on sale for $649](https://appleinsider.com/articles/25/08/12/blowout-special-13-inch-ipad-air-m2-wi-fi-cellular-on-sale-for-649?utm_source=rss)
+ - [Trump Family–Backed World Liberty Financial Sets Up $1.5 Billion Crypto Treasury](https://www.wired.com/story/president-trump-crypto-treasury-world-liberty-financial/)
+ - [Appfigures: AI companion apps are on track to generate $120M+ in revenue in 2025, and in H1 there were 60M downloads of this kind of app, up 88% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250812/p22#a250812p22)
+ - [Anthropic just made its latest move in the AI coding wars](https://www.theverge.com/ai-artificial-intelligence/757998/anthropic-just-made-its-latest-move-in-the-ai-coding-wars)
+ - [Perplexity propositions Google with $34.5B to sell off Chrome](https://appleinsider.com/articles/25/08/12/perplexity-propositions-google-with-345b-to-sell-off-chrome?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

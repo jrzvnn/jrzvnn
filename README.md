@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s RBI grants Paytm &quot;in-principle&quot; approval to operate as a payment services provider for online merchants, after China&#39;s Ant Group sold its entire stake &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250812/p35#a250812p35)
  - [Russia might be responsible for the PACER hack](https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia)
  - [Elon Musk&#39;s antitrust claims dismissed by Apple, cites curation for safe discovery](https://appleinsider.com/articles/25/08/12/elon-musks-antitrust-claims-dismissed-by-apple-cites-curation-for-safe-discovery?utm_source=rss)
  - [AOL Will Shut Down Dial-Up Internet Access in September](https://www.wired.com/story/aol-shutting-down-dial-up-internet-access-in-september/)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [In response to Elon Musk&#39;s claims that the App Store favors the ChatGPT app, Apple says the App Store &quot;is designed to be fair and free of bias&quot; &lpar;Mark Gurman/@markgurman&rpar;](http://www.techmeme.com/250812/p34#a250812p34)<!-- TECH:END -->
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

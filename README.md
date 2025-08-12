@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave reports Q2 revenue up 207% YoY to $1.21B, vs. $1.08B est., and net loss down 10% YoY to $290.5M; CRWV drops 5%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250812/p28#a250812p28)
+ - [CoreWeave Q2: revenue up 207% YoY to $1.21B, vs. $1.08B est., adjusted net loss of $130.8M, vs. $96.3M est., up from $5M in Q2 2024; CRWV drops 8%+ after hours &lpar;Redd Brown/Bloomberg&rpar;](http://www.techmeme.com/250812/p29#a250812p29)
+ - [CoreWeave shares drop even as revenue tops estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250812/p28#a250812p28)
  - [Sources: OpenAI is preparing to back a Neuralink rival called Merge Labs, co-founded by Sam Altman, that aims to raise $250M at an $850M valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250812/p27#a250812p27)
  - [eToro reports Q2 crypto revenue up 17% YoY to $1.9B, assets under administration up 54% to $17.5B, and adjusted non-GAAP net income up 23% to $54.2M &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250812/p26#a250812p26)
- - [Sources: investigators have uncovered evidence that Russia is at least in part responsible for a recent hack of the US federal court filing system &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p25#a250812p25)
- - [Future Apple Vision Pro may add more touch controls](https://appleinsider.com/articles/25/08/12/future-apple-vision-pro-may-add-more-touch-controls?utm_source=rss)<!-- TECH:END -->
+ - [Sources: investigators have uncovered evidence that Russia is at least in part responsible for a recent hack of the US federal court filing system &lpar;New York Times&rpar;](http://www.techmeme.com/250812/p25#a250812p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

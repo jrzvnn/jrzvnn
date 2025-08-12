@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blackwater’s founder would like to sell you a privacy phone made in the USA](https://www.theverge.com/mobile/758073/unplugged-up-phone-erik-prince-blackwater)
- - [Terraform co-founder Do Kwon pleads guilty over $40 billion crypto collapse](https://www.theverge.com/news/758160/do-kwon-terraform-labs-guilty-plea)
- - [Perplexity offers to acquire Chrome for $34.5B, significantly more than Perplexity&#39;s estimated $18B valuation, and says large VC funds agreed to back the deal &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/250812/p15#a250812p15)
- - [The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke](https://www.wired.com/story/trump-administration-dhs-white-house-deportations-meme/)
- - [Character.AI Gave Up on AGI. Now It’s Selling Stories](https://www.wired.com/story/character-ai-ceo-chatbots-entertainment/)<!-- TECH:END -->
+ - [Meta says Threads has 400M monthly active users, up from 350M MAUs in April &lpar;Emily Price/Fast Company&rpar;](http://www.techmeme.com/250812/p17#a250812p17)
+ - [AI companies are chasing government users with steep discounts](https://www.theverge.com/policy/758189/openai-anthropic-claude-chatgpt-government)
+ - [Anthropic updates Claude Sonnet 4 to support a 1M token context window, letting it process prompts up to 750K words or 75K lines of code, up 5x on its old limit &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250812/p16#a250812p16)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [A20 chip developments could mean more iPhone variants in 2026](https://appleinsider.com/articles/25/08/12/a20-chip-developments-could-mean-more-iphone-variants-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

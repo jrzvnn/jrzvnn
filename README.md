@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google launches Preferred Sources in the US and India, allowing users to personalize the news in Search&#39;s &quot;top stories&quot; section by selecting favorite outlets &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250812/p21#a250812p21)
  - [Sources: Microsoft is trying to poach Meta&#39;s AI talent and is making multimillion-dollar offers, with a mandate to match Meta&#39;s compensation for top talent &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/250812/p20#a250812p20)
  - [Qubic, a layer-1 blockchain project that pools mining resources, has been trying a 51% attack on Monero and says it succeeded, causing Monero&#39;s price to fall &lpar;Adrian Zmudzinski/Cointelegraph&rpar;](http://www.techmeme.com/250812/p19#a250812p19)
- - [Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI](https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini)<!-- TECH:END -->
+ - [Back-to-School Spending Is Down 50%, CNET Survey Finds. Here&#39;s How to Get the Tech and Gear You Need for Less](https://www.cnet.com/tech/back-to-school-survey-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

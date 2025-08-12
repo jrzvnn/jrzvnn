@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has launched its first Micro RGB TV with improved color accuracy](https://www.theverge.com/news/758063/samsung-micro-rgb-tv)
- - [New Kiko Kostadinov Beats Pill blends Thracian art &amp; modern audio](https://appleinsider.com/articles/25/08/12/new-kiko-kostadinov-beats-pill-blends-thracian-art-modern-audio?utm_source=rss)
- - [New Plugable Thunderbolt 4 dock brings dual 4K HDMI to M4 Macs](https://appleinsider.com/articles/25/08/12/new-plugable-thunderbolt-4-dock-brings-dual-4k-hdmi-to-m4-macs?utm_source=rss)
- - [The First At-Home Cervical Cancer Screening Wand Is Now Available](https://www.cnet.com/health/medical/first-at-home-cervical-cancer-screening-wand-now-available/#ftag=CAD590a51e)
- - [12 of the Best Peacock Shows to Stream Today](https://www.cnet.com/tech/services-and-software/best-peacock-shows-august-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In US court, Terraform Labs co-founder Do Kwon says he will plead guilty to charges of conspiracy and wire fraud under an agreement with prosecutors &lpar;Bob Van Voris/Bloomberg&rpar;](http://www.techmeme.com/250812/p14#a250812p14)
+ - [Pebblebee’s AirTag alternative can now share your real-time location in an emergency](https://www.theverge.com/news/757543/pebblebee-clip-tracker-android-ios-alert-live-safety-panic-alarm)
+ - [Google is adding a new way to personalize the news you see](https://www.theverge.com/news/757979/google-search-preferred-sources-launch-top-stories)
+ - [Apple’s latest MacBook Pro with M4 is down to its lowest price to date](https://www.theverge.com/tech/758044/apple-macbook-pro-powerbeats-pro-2-earbuds-deal-sale)
+ - [Samsung has launched its first Micro RGB TV with improved color accuracy](https://www.theverge.com/news/758063/samsung-micro-rgb-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

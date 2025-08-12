@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
- - 💣 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
- - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
- - 👉 [Fireworks during the day](http://9gag.com/gag/axy4R8W)<!-- MEMES:END -->
+ - 😝 [Men enjoying simple things](http://9gag.com/gag/a5QDqvO)
+ - 😝 [Straight from the vault # 30](http://9gag.com/gag/azxQYjj)
+ - 💣 [Survival tips, the more you know](http://9gag.com/gag/a5QDqnr)
+ - 😝 [I already know the answer, but if you were to vote again?](http://9gag.com/gag/aoyD8Pm)
+ - 👉 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)<!-- MEMES:END -->
 
 ---
 

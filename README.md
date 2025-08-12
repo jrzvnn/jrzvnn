@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Facts are Facts](http://9gag.com/gag/a2vGb6Z)
- - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 💣 [An attempt was made](http://9gag.com/gag/ae9WR8b)
- - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 👉 [`I am a vegan cause I respect nature...` Nature:](http://9gag.com/gag/aByoXOZ)<!-- MEMES:END -->
+ - 😝 [I never see Irish people rioting on the streets repatriations for their enslavement.](http://9gag.com/gag/aND3jQ6)
+ - 😝 [Don&#39;t give me hope...](http://9gag.com/gag/aYQmAAx)
+ - 💣 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 😝 [Satanists just don&#39;t acknowledge religions](http://9gag.com/gag/a2vGOV1)
+ - 👉 [Dont do 9GAG kids, stay in school](http://9gag.com/gag/aMVyO4P)<!-- MEMES:END -->
 
 ---
 

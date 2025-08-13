@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
- - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
+ - 😝 [You are welcome](http://9gag.com/gag/aLnrrwx)
+ - 😝 [Seem like united healthcare wants to find out once again](http://9gag.com/gag/a87zzDV)
+ - 💣 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - 👉 [The universe speaks](http://9gag.com/gag/aAyZZxR)<!-- MEMES:END -->
 
 ---
 

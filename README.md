@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch Series 11 to feature minor upgrades in S11 chipset](https://appleinsider.com/articles/25/08/13/apple-watch-series-11-to-feature-minor-upgrades-in-s11-chipset?utm_source=rss)
  - [OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs](https://www.wired.com/story/openai-gpt5-safety/)
  - [xAI co-founder Igor Babuschkin, who led its engineering teams, says he is leaving the company to launch a venture firm that supports AI research and startups &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p35#a250813p35)
  - [Sources: Perplexity talked with The Browser Co. and Brave about buying them, offering ~$1B for Brave; OpenAI also discussed an acquisition with The Browser Co. &lpar;The Information&rpar;](http://www.techmeme.com/250813/p34#a250813p34)
- - [Tesla&amp;#8217;s graphics are about to get Unreal](https://www.theverge.com/news/759016/tesla-in-car-graphics-unreal-engine)
- - [ChatGPT-5 Gives You Real Choices After All. Here&#39;s a Quick Breakdown](https://www.cnet.com/tech/services-and-software/chatgpt-5-gives-you-real-choices-after-all-heres-a-quick-breakdown/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla&amp;#8217;s graphics are about to get Unreal](https://www.theverge.com/news/759016/tesla-in-car-graphics-unreal-engine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

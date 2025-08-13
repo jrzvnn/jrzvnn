@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arintra, whose AI medical coding system translates clinical documentation into insurance codes for healthcare providers, raised a $21M Series A led by Peak XV &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250813/p9#a250813p9)
+ - [Advent International agrees to acquire and take private Nasdaq-listed Sapiens International, an Israel-based insurance software company, for $2.5B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p8#a250813p8)
  - [China&#39;s vision for its autonomous vehicle industry, backed by state support and infrastructure investment, is driving its lead in ADAS and robotaxi deployment &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/250813/p7#a250813p7)
  - [ChatGPT won’t remove old models without warning after GPT-5 backlash](https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement)
- - [Studies suggest AI chatbots&#39; sycophantic design may increase narcissism among young and vulnerable users, potentially altering personality traits at scale &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250813/p6#a250813p6)
- - [OpenAI introduces &quot;Auto&quot;, &quot;Fast&quot;, and &quot;Thinking&quot; settings for GPT-5 in ChatGPT&#39;s model picker, with &quot;Auto&quot; similar to the GPT-5 model router announced earlier &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p5#a250813p5)
- - [Singapore&#39;s three neobanks, GXS Bank, MariBank, and Trust Bank, together posted $278.1M in losses in 2024 as legacy rivals digitalized, intensifying competition &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/250813/p4#a250813p4)<!-- TECH:END -->
+ - [Studies suggest AI chatbots&#39; sycophantic design may increase narcissism among young and vulnerable users, potentially altering personality traits at scale &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250813/p6#a250813p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

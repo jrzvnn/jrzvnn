@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
+ - [iOS 26.4 already being tested by Apple but won&#39;t be here until early 2026](https://appleinsider.com/articles/25/08/13/ios-264-already-being-tested-by-apple-but-wont-be-here-until-early-2026?utm_source=rss)
  - [Russia is &quot;partially&quot; restricting WhatsApp and Telegram calls, saying the apps are used &quot;to deceive and extort money&quot; and &quot;in sabotage and terrorist activities&quot; &lpar;Dasha Litvinova/Associated Press&rpar;](http://www.techmeme.com/250813/p33#a250813p33)
- - [Kodak says it’ll figure things out and won’t shut down](https://www.theverge.com/news/758982/kodak-debt-retirement-funds)
- - [Cisco reports Q4 revenue up 8% YoY to $14.67B, vs. $14.62B est., net income up 31% to $2.8B, and forecasts Q1 revenue above estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250813/p32#a250813p32)
- - [Stripe apologizes for customer service agents claiming LGBTQ products were banned](https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content)
- - [The $599 MacBook rumor is persistent, but seems more likely than ever](https://appleinsider.com/articles/25/08/13/the-599-macbook-rumor-is-persistent-but-seems-more-likely-than-ever?utm_source=rss)<!-- TECH:END -->
+ - [Swing Into Action in Marvel&#39;s Spider-Man on PlayStation Plus Soon](https://www.cnet.com/tech/gaming/swing-into-action-in-marvels-spider-man-on-playstation-plus-soon/#ftag=CAD590a51e)
+ - [Best Melatonin Supplements of 2025](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

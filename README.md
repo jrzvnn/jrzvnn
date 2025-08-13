@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
- - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
- - 💣 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
- - 😝 [\u201cStop doing childish things you are 35 years old\u201d. Me:](http://9gag.com/gag/ajPyyYg)
- - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
+ - 😝 [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
+ - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 💣 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 😝 [Statistic joke! But if it&#39;s 13 and 50 everyone&#39;s mad!](http://9gag.com/gag/aAyZmdd)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
 
 ---
 

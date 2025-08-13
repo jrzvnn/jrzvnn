@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Core Devices CEO Eric Migicovsky unveils the Pebble Time 2 in four colors with a 1.5&quot; e-paper display, multicolor RGB backlighting, and 30-day battery life &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250813/p21#a250813p21)
+ - [Coffee Grinders Used to Be a Mystery. A New Device Might Solve It](https://www.wired.com/story/particle-size-analysis-to-test-the-best-coffee-grinders/)
  - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
- - [10 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
- - [The new War of the Worlds movie is even more terrible than you’ve heard but also hilarious](https://www.theverge.com/film/758158/war-of-the-worlds-2025-amazon-prime-video)
- - [Hisense’s 116-inch RGB MiniLED TV is now available for $30,000](https://www.theverge.com/news/758201/hisense-rgb-miniled-tv-116ux-100ux-now-available)
- - [Chatbots aren’t telling you their secrets](https://www.theverge.com/x-ai/758595/chatbots-lie-about-themselves-grok-suspension-ai)<!-- TECH:END -->
+ - [52 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
+ - [10 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

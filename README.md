@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The $599 MacBook rumor is persistent, but seems more likely than ever](https://appleinsider.com/articles/25/08/13/the-599-macbook-rumor-is-persistent-but-seems-more-likely-than-ever?utm_source=rss)
+ - [Is Amazon testing a cheaper color Kindle?](https://www.theverge.com/news/758951/amazon-kindle-colorsoft-leak-eink)
  - [Microplastics are everywhere — including in the air around plastic treaty negotiations](https://www.theverge.com/report/758868/plastic-air-pollution-treaty-negotiations)
  - [Sources: the US Navy and Air Force may cancel two nearly complete HR software projects to give firms like Salesforce and Palantir a chance to win similar work &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250813/p31#a250813p31)
- - [dbrand seemingly confirms final iPhone 17 design with Tank Case](https://appleinsider.com/articles/25/08/13/dbrand-seemingly-confirms-final-iphone-17-design-with-tank-case?utm_source=rss)
- - [Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home](https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera)
- - [Apple&#39;s Siri-enabled robots are running behind, but still coming](https://appleinsider.com/articles/25/08/13/apples-siri-enabled-robots-are-running-behind-but-still-coming?utm_source=rss)<!-- TECH:END -->
+ - [dbrand seemingly confirms final iPhone 17 design with Tank Case](https://appleinsider.com/articles/25/08/13/dbrand-seemingly-confirms-final-iphone-17-design-with-tank-case?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

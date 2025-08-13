@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Studies suggest AI chatbots&#39; sycophantic design may increase narcissism among young and vulnerable users, potentially altering personality traits at scale &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250813/p6#a250813p6)
  - [OpenAI introduces &quot;Auto&quot;, &quot;Fast&quot;, and &quot;Thinking&quot; settings for GPT-5 in ChatGPT&#39;s model picker, with &quot;Auto&quot; similar to the GPT-5 model router announced earlier &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p5#a250813p5)
  - [Singapore&#39;s three neobanks, GXS Bank, MariBank, and Trust Bank, together posted $278.1M in losses in 2024 as legacy rivals digitalized, intensifying competition &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/250813/p4#a250813p4)
- - [A senior US official says the recent hack of the US federal court filing system is a continuation of &quot;rudimentary security issues&quot; persisting since 2020 &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/250813/p3#a250813p3)
- - [Mumbai-based online pharmacy Truemeds, which offers generic alternatives to branded drugs, raised $85M led by Accel at a $400M valuation, up from $110M in 2023 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250813/p2#a250813p2)
- - [Fractal Analytics, which became India&#39;s first AI unicorn in 2022, files for an IPO in Mumbai to raise about $560M, and could value the company at over $3.5B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250813/p1#a250813p1)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-13/#ftag=CAD590a51e)
+ - [A senior US official says the recent hack of the US federal court filing system is a continuation of &quot;rudimentary security issues&quot; persisting since 2020 &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/250813/p3#a250813p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

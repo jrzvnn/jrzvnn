@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI co-founder Igor Babuschkin, who led its engineering teams, says he is leaving the company to launch a venture firm that supports AI research and startups &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p35#a250813p35)
  - [Sources: Perplexity talked with The Browser Co. and Brave about buying them, offering ~$1B for Brave; OpenAI also discussed an acquisition with The Browser Co. &lpar;The Information&rpar;](http://www.techmeme.com/250813/p34#a250813p34)
  - [Tesla&amp;#8217;s graphics are about to get Unreal](https://www.theverge.com/news/759016/tesla-in-car-graphics-unreal-engine)
- - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
- - [iOS 26.4 already being tested by Apple but won&#39;t be here until early 2026](https://appleinsider.com/articles/25/08/13/ios-264-already-being-tested-by-apple-but-wont-be-here-until-early-2026?utm_source=rss)
- - [Russia is &quot;partially&quot; restricting WhatsApp and Telegram calls, saying the apps are used &quot;to deceive and extort money&quot; and &quot;in sabotage and terrorist activities&quot; &lpar;Dasha Litvinova/Associated Press&rpar;](http://www.techmeme.com/250813/p33#a250813p33)<!-- TECH:END -->
+ - [ChatGPT-5 Gives You Real Choices After All. Here&#39;s a Quick Breakdown](https://www.cnet.com/tech/services-and-software/chatgpt-5-gives-you-real-choices-after-all-heres-a-quick-breakdown/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 14, #325](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-14-325/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

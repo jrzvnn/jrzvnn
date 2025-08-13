@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)
+ - [Google&amp;#8217;s Gemini AI will get more personalized by remembering details automatically](https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update)
+ - [LinkedIn’s Mini Sudoku is a clever twist on the classic puzzle](https://www.theverge.com/news/758756/linkedins-mini-sudoku-is-a-clever-twist-on-the-classic-puzzle)
  - [Chinese chip equipment supplier E-Town sues Applied Materials in the Beijing IP Court over alleged trade secret theft; Applied Materials hired two E-Town staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p25#a250813p25)
- - [Apple may soon let Douyin Pay users buy from the China App Store](https://appleinsider.com/articles/25/08/13/apple-may-soon-let-douyin-pay-users-buy-from-the-china-app-store?utm_source=rss)
- - [A look at social media &quot;clippers&quot;, who are paid $0.50 to $2 per thousand views by streamers, podcasts, and startups to make buzzy moments go viral online &lpar;Ben Raab/Wall Street Journal&rpar;](http://www.techmeme.com/250813/p24#a250813p24)
- - [Made by Google 2025: We Found All the Biggest Pixel 10 Leaks and Rumors](https://www.cnet.com/tech/mobile/made-by-google-2025-we-found-all-the-biggest-pixel-10-leaks-and-rumors/#ftag=CAD590a51e)
- - [Musk is wrong and has only influence on his side in a childish App Store spat](https://appleinsider.com/articles/25/08/13/musk-is-wrong-and-has-only-influence-on-his-side-in-a-childish-app-store-spat-against-apple?utm_source=rss)<!-- TECH:END -->
+ - [Apple may soon let Douyin Pay users buy from the China App Store](https://appleinsider.com/articles/25/08/13/apple-may-soon-let-douyin-pay-users-buy-from-the-china-app-store?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

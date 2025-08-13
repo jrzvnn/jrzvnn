@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
- - 😝 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
- - 💣 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 😝 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
- - 👉 [\u201cStop doing childish things you are 35 years old\u201d. Me:](http://9gag.com/gag/ajPyyYg)<!-- MEMES:END -->
+ - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - 💣 [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 👉 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)<!-- MEMES:END -->
 
 ---
 

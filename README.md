@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
- - 💣 [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
- - 😝 [Man scolds a koala for being in the middle of the road, looks like the koala is listening](http://9gag.com/gag/aZZvvGW)
- - 👉 [Title](http://9gag.com/gag/aMVyONV)<!-- MEMES:END -->
+ - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - 💣 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
+ - 😝 [\u201cStop doing childish things you are 35 years old\u201d. Me:](http://9gag.com/gag/ajPyyYg)
+ - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
 
 ---
 

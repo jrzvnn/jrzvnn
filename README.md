@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
- - 😝 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 😝 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
+ - 😝 [Bookworm](http://9gag.com/gag/a9yBDyZ)
  - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 😝 [Two weeks, two weeeeeks](http://9gag.com/gag/aByovbx)
- - 👉 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)<!-- MEMES:END -->
+ - 😝 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
+ - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
 
 ---
 

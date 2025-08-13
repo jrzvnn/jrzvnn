@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
- - 😝 [Bookworm](http://9gag.com/gag/a9yBDyZ)
- - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 😝 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
- - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
+ - 😝 [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
+ - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 💣 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
+ - 😝 [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
 
 ---
 

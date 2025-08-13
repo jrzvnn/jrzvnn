@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
- - 😝 [Bad Monkey](http://9gag.com/gag/adBbbVB)
- - 💣 [Come on and slam!](http://9gag.com/gag/axy4me1)
- - 😝 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
- - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
+ - 😝 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
+ - 😝 [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
+ - 💣 [I guess we will never know which `community`, because the Right will be validated.](http://9gag.com/gag/agmjjL6)
+ - 😝 [Every Summer](http://9gag.com/gag/awyv8G8)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
 
 ---
 

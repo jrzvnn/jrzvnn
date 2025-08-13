@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 😝 [Bear Attack](http://9gag.com/gag/ae9W7om)
- - 💣 [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)
- - 😝 [Statistic joke! But if it&#39;s 13 and 50 everyone&#39;s mad!](http://9gag.com/gag/aAyZmdd)
- - 👉 [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)<!-- MEMES:END -->
+ - 😝 [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
+ - 😝 [Things I want to do with adult money](http://9gag.com/gag/an7VG1n)
+ - 💣 [Palantir.](http://9gag.com/gag/aYQmR0v)
+ - 😝 [The \ud83c\udde8\ud83c\uddf3 Coast Guard failed to chase the \ud83c\uddf5\ud83c\uddedPhilippine Coast Guard, resulting in a collision between the CCG and the PLA Navy, inside Philippine 200nm EEZ.](http://9gag.com/gag/ayNPYYp)
+ - 👉 [Carwave](http://9gag.com/gag/aND3jDw)<!-- MEMES:END -->
 
 ---
 

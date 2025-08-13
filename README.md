@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says it now offers same-day grocery delivery in 1,000+ cities and plans to bring it to 2,300+ more by the end of 2025; Prime subscribers get it free &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250813/p22#a250813p22)
  - [Core Devices CEO Eric Migicovsky unveils the Pebble Time 2 in four colors with a 1.5&quot; e-paper display, multicolor RGB backlighting, and 30-day battery life &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250813/p21#a250813p21)
  - [Coffee Grinders Used to Be a Mystery. A New Device Might Solve It](https://www.wired.com/story/particle-size-analysis-to-test-the-best-coffee-grinders/)
  - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
- - [52 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
- - [10 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)<!-- TECH:END -->
+ - [52 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

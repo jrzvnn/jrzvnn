@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown by this simple math trick](http://9gag.com/gag/a87znjZ)
  - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 💣 [Council of men approved](http://9gag.com/gag/amondj9)
- - 😝 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
- - 👉 [`Engineered` by someone who never stepped on shit](http://9gag.com/gag/aND3qbA)<!-- MEMES:END -->
+ - 😝 [3D printing](http://9gag.com/gag/aLnrb1W)
+ - 💣 [Old but gold](http://9gag.com/gag/a9yBBoo)
+ - 😝 [Respect](http://9gag.com/gag/a9yBB40)
+ - 👉 [Massive solar flare](http://9gag.com/gag/ae9Wdem)<!-- MEMES:END -->
 
 ---
 

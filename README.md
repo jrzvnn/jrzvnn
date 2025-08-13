@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: World Liberty Financial&#39;s partnership with Binance-run PancakeSwap is helping boost demand for USD1, generating profit for Trump, as CZ seeks a pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p15#a250813p15)
+ - [iPhone 17 Pro price rise to be masked by increased storage](https://appleinsider.com/articles/25/08/13/iphone-17-pro-price-rise-to-be-masked-by-increased-storage?utm_source=rss)
+ - [Sources: the US secretly embedded location trackers in select AI chip and server shipments, including Dell and Super Micro, to detect illegal China diversions &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p14#a250813p14)
  - [This Might Be the Most Massive Black Hole Ever Discovered](https://www.wired.com/story/this-is-probably-the-most-massive-black-hole-in-history-gravitational-lens/)
- - [Pony AI says it rolled out 200+ Gen-7 Robotaxis since mass production started two months ago, putting it on track for its 1,000-vehicle goal by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p13#a250813p13)
- - [Tencent reports Q2 revenue up 15% YoY to ~$25.7B, vs. ~$24.8B est., gaming revenue up 17% YoY to ~$5.6B, global revenue up 35% YoY to ~$2.6B, a $7.7B net profit &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p12#a250813p12)
- - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)
- - [A US federal judge rules Elon Musk must face OpenAI&#39;s claims that his legal and media attacks are a &quot;years-long harassment campaign&quot; and sets a March 2026 trial &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250813/p11#a250813p11)<!-- TECH:END -->
+ - [Pony AI says it rolled out 200+ Gen-7 Robotaxis since mass production started two months ago, putting it on track for its 1,000-vehicle goal by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p13#a250813p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

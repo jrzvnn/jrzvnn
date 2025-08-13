@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A senior US official says the recent hack of the US federal court filing system is a continuation of &quot;rudimentary security issues&quot; persisting since 2020 &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/250813/p3#a250813p3)
  - [Mumbai-based online pharmacy Truemeds, which offers generic alternatives to branded drugs, raised $85M led by Accel at a $400M valuation, up from $110M in 2023 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250813/p2#a250813p2)
  - [Fractal Analytics, which became India&#39;s first AI unicorn in 2022, files for an IPO in Mumbai to raise about $560M, and could value the company at over $3.5B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250813/p1#a250813p1)
  - [How to run ChatGPT-style AI on your Mac without paying a dime](https://appleinsider.com/inside/mac/tips/how-to-run-chatgpt-style-ai-on-your-mac-without-paying-a-dime?utm_source=rss)
- - [Perplexity&#39;s unsolicited $34.5B bid for Chrome with claimed VC backing is clearly a marketing stunt and strategic signaling amid Google&#39;s antitrust uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250812/p40#a250812p40)
- - [OpenAI restores GPT-4o as default for all paid ChatGPT users, vows &quot;plenty of notice&quot; if 4o is deprecated, raises GPT-5 Thinking rate limits to 3K messages/week &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250812/p39#a250812p39)<!-- TECH:END -->
+ - [Perplexity&#39;s unsolicited $34.5B bid for Chrome with claimed VC backing is clearly a marketing stunt and strategic signaling amid Google&#39;s antitrust uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250812/p40#a250812p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

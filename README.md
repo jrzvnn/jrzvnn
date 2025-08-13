@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
- - 💣 [How to friend](http://9gag.com/gag/aryz8v5)
- - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
- - 👉 [The funny part is the jersey with `equality` on it.](http://9gag.com/gag/a9yBOw6)<!-- MEMES:END -->
+ - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - 💣 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
+ - 😝 [Old but gold](http://9gag.com/gag/a9yBBoo)
+ - 👉 [No one is too busy](http://9gag.com/gag/abAEEME)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is plotting its AI comeback with robots, a lifelike version of Siri, a smart speaker with a display, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
+ - [Sources: Apple AI plans include robots, such as a tabletop one in 2027, a conversational Siri, a smart speaker with a display in 2026, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
  - [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
+ - [AI Agents Are Using a Third of All Search Traffic Meant Towards Brands, Report Says](https://www.cnet.com/tech/services-and-software/ai-agents-are-using-a-third-of-all-search-traffic-meant-towards-brands-report-says/#ftag=CAD590a51e)
  - [RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines](https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/)
- - [Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google](https://www.wired.com/story/hassan-data-broker-opt-out-letter/)
- - [GPT-5 Doesn&#39;t Dislike You—It Might Just Need a Benchmark for Emotional Intelligence](https://www.wired.com/story/gpt-5-doesnt-dislike-you-it-might-just-need-a-benchmark-for-empathy/)<!-- TECH:END -->
+ - [Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google](https://www.wired.com/story/hassan-data-broker-opt-out-letter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

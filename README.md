@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GPT-5&#39;s router directs queries based on complexity and intent, helping OpenAI allocate compute for low-value informational and high-value commercial requests &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250813/p17#a250813p17)
- - [The Fairphone &lpar;Gen. 6&rpar; Review: Better Than Ever](https://www.wired.com/review/fairphone-gen-6/)
- - [Sam Altman’s new startup wants to merge machines and humans](https://www.theverge.com/news/758577/sam-altman-merge-labs-neuralink-rival)
- - [I Won&#39;t Split AirPods With My Wife Again Thanks to This iPhone Trick](https://www.cnet.com/tech/services-and-software/i-wont-split-airpods-with-my-wife-again-thanks-to-this-iphone-trick/#ftag=CAD590a51e)
- - [My Top Smart Tech Picks for Back-to-School in 2025](https://www.cnet.com/home/smart-home/best-smart-home-tech-for-back-to-school/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Stripe appoints Paradigm co-founder Matt Huang to serve as CEO of its planned Layer-1 blockchain Tempo; a source says Huang will remain at Paradigm &lpar;Fortune&rpar;](http://www.techmeme.com/250813/p19#a250813p19)
+ - [Crypto exchange Bullish raised $1.1B in its IPO, selling 30M shares at $37 per share, above its $32 to $33 marketed range, implying a $5.4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p18#a250813p18)
+ - [What Is Creatine, and Should You Be Taking Most Studied Supplement &lpar;2025&rpar;](https://www.wired.com/story/what-is-creatine/)
+ - [James Talarico Is on the Run](https://www.wired.com/story/james-talarico-texas-democrats-gerrymandering/)
+ - [Drag x Drive is more drag than drive](https://www.theverge.com/games-review/758328/drag-x-drive-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

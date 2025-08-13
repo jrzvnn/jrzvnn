@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 😝 [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
- - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 😝 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
- - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
+ - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 😝 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
+ - 💣 [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
+ - 😝 [Man scolds a koala for being in the middle of the road, looks like the koala is listening](http://9gag.com/gag/aZZvvGW)
+ - 👉 [Title](http://9gag.com/gag/aMVyONV)<!-- MEMES:END -->
 
 ---
 

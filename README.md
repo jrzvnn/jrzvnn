@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 😝 [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
- - 💣 [An attempt was made](http://9gag.com/gag/ae9WR8b)
- - 😝 [Remember, no horny](http://9gag.com/gag/aZZvv1z)
+ - 😝 [Quicky poll.](http://9gag.com/gag/avym9Ed)
+ - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - 😝 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
  - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
 
 ---

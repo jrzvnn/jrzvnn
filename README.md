@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant for me](http://9gag.com/gag/aO8GpVM)
- - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 💣 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
- - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 👉 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)<!-- MEMES:END -->
+ - 😝 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
+ - 😝 [Bad Monkey](http://9gag.com/gag/adBbbVB)
+ - 💣 [Come on and slam!](http://9gag.com/gag/axy4me1)
+ - 😝 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
+ - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
 
 ---
 

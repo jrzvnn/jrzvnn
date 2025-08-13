@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
- - 😝 [Smile!!!!](http://9gag.com/gag/azxQ4Vm)
- - 💣 [I guess we will never know which `community`, because the Right will be validated.](http://9gag.com/gag/agmjjL6)
- - 😝 [Every Summer](http://9gag.com/gag/awyv8G8)
- - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
+ - 😝 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
+ - 😝 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)
+ - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 😝 [Two weeks, two weeeeeks](http://9gag.com/gag/aByovbx)
+ - 👉 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)<!-- MEMES:END -->
 
 ---
 

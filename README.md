@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
- - 💣 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
- - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 👉 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)<!-- MEMES:END -->
+ - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - 😝 [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
+ - 💣 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 😝 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
+ - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
 
 ---
 

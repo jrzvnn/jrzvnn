@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
- - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 💣 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 😝 [How to friend](http://9gag.com/gag/aryz8v5)
- - 👉 [Would watch](http://9gag.com/gag/adBbRo2)<!-- MEMES:END -->
+ - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
+ - 💣 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
+ - 👉 [How to friend](http://9gag.com/gag/aryz8v5)<!-- MEMES:END -->
 
 ---
 

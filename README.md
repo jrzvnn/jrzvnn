@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are welcome](http://9gag.com/gag/aLnrrwx)
  - 😝 [Instant for me](http://9gag.com/gag/aO8GpVM)
- - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
+ - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - 💣 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 👉 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)<!-- MEMES:END -->
 
 ---
 

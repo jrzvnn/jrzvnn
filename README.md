@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fairphone &lpar;Gen. 6&rpar; Review: Better Than Ever](https://www.wired.com/review/fairphone-gen-6/)
  - [Sam Altman’s new startup wants to merge machines and humans](https://www.theverge.com/news/758577/sam-altman-merge-labs-neuralink-rival)
  - [Ukrainians are adapting critical yet fragile SpaceX equipment to withstand Russia&#39;s assault, spawning a cottage industry of backstreet workshops and technicians &lpar;Volodymyr Verbianyi/Bloomberg&rpar;](http://www.techmeme.com/250813/p16#a250813p16)
  - [Samsung Smart Monitor M9 M90SF Review: The 4K OLED Hybrid](https://www.wired.com/review/samsung-smart-monitor-m9-m90sf/)
- - [Sources: World Liberty Financial&#39;s partnership with Binance-run PancakeSwap is helping boost demand for USD1, generating profit for Trump, as CZ seeks a pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p15#a250813p15)
- - [iPhone 17 Pro price rise to be masked by increased storage](https://appleinsider.com/articles/25/08/13/iphone-17-pro-price-rise-to-be-masked-by-increased-storage?utm_source=rss)<!-- TECH:END -->
+ - [Sources: World Liberty Financial&#39;s partnership with Binance-run PancakeSwap is helping boost demand for USD1, generating profit for Trump, as CZ seeks a pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p15#a250813p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

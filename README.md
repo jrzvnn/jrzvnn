@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seem like united healthcare wants to find out once again](http://9gag.com/gag/a87zzDV)
- - 😝 [Respect](http://9gag.com/gag/a9yBB40)
- - 💣 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
- - 😝 [The universe speaks](http://9gag.com/gag/aAyZZxR)
- - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
+ - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
+ - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
+ - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 👉 [Title](http://9gag.com/gag/aMVyONV)<!-- MEMES:END -->
 
 ---
 

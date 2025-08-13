@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Musk is wrong and has only influence on his side in a childish App Store spat](https://appleinsider.com/articles/25/08/13/musk-is-wrong-and-has-only-influence-on-his-side-in-a-childish-app-store-spat-against-apple?utm_source=rss)
+ - [James Talarico Is on the Run](https://www.wired.com/story/james-talarico-texas-democrats-gerrymandering/)
+ - [Tensor wants to be the first company to sell you a ‘robocar’ — but who are they?](https://www.theverge.com/news/758605/tensor-autox-autonomous-vehicle-robocar-personal-own-china)
  - [Some doctors got worse at detecting cancer after relying on AI](https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai)
- - [Twelve South’s 120W charger with Apple Find My support is nearly half off](https://www.theverge.com/tech/758465/twelve-south-plugbug-charger-sonos-ace-headphones-deal-sale)
- - [A veteran toy racing company is trading slots for smartphone-controlled RC cars](https://www.theverge.com/news/758651/carrera-hybrid-rc-slot-cars-porsche-gt3-r)
- - [US tech startups are reviving US hiring plans as President Trump&#39;s One Big Beautiful Bill lets companies accelerate R&amp;D tax deductions, starting in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p23#a250813p23)
- - [6 Best Coffee Grinders For All Budgets, Tested &amp; Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
+ - [Twelve South’s 120W charger with Apple Find My support is nearly half off](https://www.theverge.com/tech/758465/twelve-south-plugbug-charger-sonos-ace-headphones-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

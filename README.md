@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Perplexity talked with The Browser Co. and Brave about buying them, offering ~$1B for Brave; OpenAI also discussed an acquisition with The Browser Co. &lpar;The Information&rpar;](http://www.techmeme.com/250813/p34#a250813p34)
+ - [Tesla&amp;#8217;s graphics are about to get Unreal](https://www.theverge.com/news/759016/tesla-in-car-graphics-unreal-engine)
  - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
  - [iOS 26.4 already being tested by Apple but won&#39;t be here until early 2026](https://appleinsider.com/articles/25/08/13/ios-264-already-being-tested-by-apple-but-wont-be-here-until-early-2026?utm_source=rss)
- - [Russia is &quot;partially&quot; restricting WhatsApp and Telegram calls, saying the apps are used &quot;to deceive and extort money&quot; and &quot;in sabotage and terrorist activities&quot; &lpar;Dasha Litvinova/Associated Press&rpar;](http://www.techmeme.com/250813/p33#a250813p33)
- - [Swing Into Action in Marvel&#39;s Spider-Man on PlayStation Plus Soon](https://www.cnet.com/tech/gaming/swing-into-action-in-marvels-spider-man-on-playstation-plus-soon/#ftag=CAD590a51e)
- - [Best Melatonin Supplements of 2025](https://www.cnet.com/health/nutrition/best-melatonin-supplements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Russia is &quot;partially&quot; restricting WhatsApp and Telegram calls, saying the apps are used &quot;to deceive and extort money&quot; and &quot;in sabotage and terrorist activities&quot; &lpar;Dasha Litvinova/Associated Press&rpar;](http://www.techmeme.com/250813/p33#a250813p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Stripe appoints Paradigm co-founder Matt Huang to serve as CEO of its planned Layer-1 blockchain Tempo; a source says Huang will remain at Paradigm &lpar;Fortune&rpar;](http://www.techmeme.com/250813/p19#a250813p19)
- - [Crypto exchange Bullish raised $1.1B in its IPO, selling 30M shares at $37 per share, above its $32 to $33 marketed range, implying a $5.4B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p18#a250813p18)
- - [What Is Creatine, and Should You Be Taking Most Studied Supplement &lpar;2025&rpar;](https://www.wired.com/story/what-is-creatine/)
- - [James Talarico Is on the Run](https://www.wired.com/story/james-talarico-texas-democrats-gerrymandering/)
- - [Drag x Drive is more drag than drive](https://www.theverge.com/games-review/758328/drag-x-drive-review)<!-- TECH:END -->
+ - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
+ - [10 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
+ - [The new War of the Worlds movie is even more terrible than you’ve heard but also hilarious](https://www.theverge.com/film/758158/war-of-the-worlds-2025-amazon-prime-video)
+ - [Hisense’s 116-inch RGB MiniLED TV is now available for $30,000](https://www.theverge.com/news/758201/hisense-rgb-miniled-tv-116ux-100ux-now-available)
+ - [Chatbots aren’t telling you their secrets](https://www.theverge.com/x-ai/758595/chatbots-lie-about-themselves-grok-suspension-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

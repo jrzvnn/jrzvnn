@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to run ChatGPT-style AI on your Mac without paying a dime](https://appleinsider.com/inside/mac/tips/how-to-run-chatgpt-style-ai-on-your-mac-without-paying-a-dime?utm_source=rss)
+ - [Perplexity&#39;s unsolicited $34.5B bid for Chrome with claimed VC backing is clearly a marketing stunt and strategic signaling amid Google&#39;s antitrust uncertainty &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250812/p40#a250812p40)
+ - [OpenAI restores GPT-4o as default for all paid ChatGPT users, vows &quot;plenty of notice&quot; if 4o is deprecated, raises GPT-5 Thinking rate limits to 3K messages/week &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250812/p39#a250812p39)
  - [Similarweb: UK traffic fell 47% for Pornhub, 47% for XVideos, and 39% for xHamster from July 24, the day before age verification rules took effect, to August 8 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250812/p38#a250812p38)
- - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [1Kosmos, which provides identity verification and passwordless authentication software, raised a $57M Series B, including a $10M line of credit &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250812/p37#a250812p37)
- - [Study: endoscopists used to AI-assisted colonoscopies detected fewer precancerous growths after AI assistance was removed, compared to before AI was introduced &lpar;Joedy McCreary/MedPage Today&rpar;](http://www.techmeme.com/250812/p36#a250812p36)
- - [Elon Musk says he’s suing Apple for rigging App Store rankings](https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store)<!-- TECH:END -->
+ - [Made by Google 2025: We Found All the Biggest Pixel 10 Leaks and Rumors](https://www.cnet.com/tech/mobile/made-by-google-2025-we-found-all-the-biggest-pixel-10-leaks-and-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

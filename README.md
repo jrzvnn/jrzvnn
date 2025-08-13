@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Kodak says it’ll figure things out and won’t shut down](https://www.theverge.com/news/758982/kodak-debt-retirement-funds)
  - [Cisco reports Q4 revenue up 8% YoY to $14.67B, vs. $14.62B est., net income up 31% to $2.8B, and forecasts Q1 revenue above estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250813/p32#a250813p32)
- - [Stripe apologizes for customer service agents claiming LGTBQ products were banned](https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content)
+ - [Stripe apologizes for customer service agents claiming LGBTQ products were banned](https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content)
  - [The $599 MacBook rumor is persistent, but seems more likely than ever](https://appleinsider.com/articles/25/08/13/the-599-macbook-rumor-is-persistent-but-seems-more-likely-than-ever?utm_source=rss)
  - [Is Amazon testing a cheaper color Kindle?](https://www.theverge.com/news/758951/amazon-kindle-colorsoft-leak-eink)<!-- TECH:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cisco reports Q4 revenue up 8% YoY to $14.67B, vs. $14.62B est., net income up 31% to $2.8B, and forecasts Q1 revenue above estimates &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250813/p32#a250813p32)
+ - [Stripe apologizes for customer service agents claiming LGTBQ products were banned](https://www.theverge.com/report/758927/stripe-lgbt-content-statement-itchio-adult-content)
  - [The $599 MacBook rumor is persistent, but seems more likely than ever](https://appleinsider.com/articles/25/08/13/the-599-macbook-rumor-is-persistent-but-seems-more-likely-than-ever?utm_source=rss)
  - [Is Amazon testing a cheaper color Kindle?](https://www.theverge.com/news/758951/amazon-kindle-colorsoft-leak-eink)
- - [Microplastics are everywhere — including in the air around plastic treaty negotiations](https://www.theverge.com/report/758868/plastic-air-pollution-treaty-negotiations)
- - [Sources: the US Navy and Air Force may cancel two nearly complete HR software projects to give firms like Salesforce and Palantir a chance to win similar work &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250813/p31#a250813p31)
- - [dbrand seemingly confirms final iPhone 17 design with Tank Case](https://appleinsider.com/articles/25/08/13/dbrand-seemingly-confirms-final-iphone-17-design-with-tank-case?utm_source=rss)<!-- TECH:END -->
+ - [Microplastics are everywhere — including in the air around plastic treaty negotiations](https://www.theverge.com/report/758868/plastic-air-pollution-treaty-negotiations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

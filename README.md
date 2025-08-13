@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How gears work](http://9gag.com/gag/ae9WRGQ)
  - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 💣 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
+ - 😝 [How gears work](http://9gag.com/gag/ae9WRGQ)
+ - 💣 [Title](http://9gag.com/gag/aMVyONV)
+ - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 👉 [Big mama to the rescue](http://9gag.com/gag/avymdWd)<!-- MEMES:END -->
 
 ---
 

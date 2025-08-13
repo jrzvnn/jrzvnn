@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge rules Elon Musk must face OpenAI&#39;s claims that his legal and media attacks are a &quot;years-long harassment campaign&quot; and sets a March 2026 trial &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250813/p11#a250813p11)
  - [Chinese open-source AI models from DeepSeek, Alibaba&#39;s Qwen, and others gaining global traction spurs US policymakers and companies to respond &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250813/p10#a250813p10)
  - [Arintra, whose AI medical coding system translates clinical documentation into insurance codes for healthcare providers, raised a $21M Series A led by Peak XV &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250813/p9#a250813p9)
  - [Advent International agrees to acquire and take private Nasdaq-listed Sapiens International, an Israel-based insurance software company, for $2.5B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p8#a250813p8)
- - [China&#39;s vision for its autonomous vehicle industry, backed by state support and infrastructure investment, is driving its lead in ADAS and robotaxi deployment &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/250813/p7#a250813p7)
- - [ChatGPT won’t remove old models without warning after GPT-5 backlash](https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement)<!-- TECH:END -->
+ - [China&#39;s vision for its autonomous vehicle industry, backed by state support and infrastructure investment, is driving its lead in ADAS and robotaxi deployment &lpar;Yi-Ling Liu/Rest of World&rpar;](http://www.techmeme.com/250813/p7#a250813p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

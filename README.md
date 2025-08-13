@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT won’t remove old models without warning after GPT-5 backlash](https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement)
  - [Studies suggest AI chatbots&#39; sycophantic design may increase narcissism among young and vulnerable users, potentially altering personality traits at scale &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250813/p6#a250813p6)
  - [OpenAI introduces &quot;Auto&quot;, &quot;Fast&quot;, and &quot;Thinking&quot; settings for GPT-5 in ChatGPT&#39;s model picker, with &quot;Auto&quot; similar to the GPT-5 model router announced earlier &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p5#a250813p5)
  - [Singapore&#39;s three neobanks, GXS Bank, MariBank, and Trust Bank, together posted $278.1M in losses in 2024 as legacy rivals digitalized, intensifying competition &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/250813/p4#a250813p4)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-13/#ftag=CAD590a51e)
- - [A senior US official says the recent hack of the US federal court filing system is a continuation of &quot;rudimentary security issues&quot; persisting since 2020 &lpar;John Sakellariadis/Politico&rpar;](http://www.techmeme.com/250813/p3#a250813p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-13/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

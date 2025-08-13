@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
- - [New York claims Zelle&amp;#8217;s shoddy security enabled a billion dollars in scams](https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit)
- - [Insta360&amp;#8217;s next ultra-compact action camera is getting a redesign](https://www.theverge.com/news/758816/insta360-go-ultra-action-camera-4k-leaked-images-specs)
- - [The Xbox app for Windows on Arm will soon let you download games](https://www.theverge.com/news/758828/microsoft-windows-on-arm-xbox-app-download-feature)
- - [Bullish shares jump 143% to $90 in the company&#39;s NYSE debut, up from the IPO price of $37; sources say the IPO was more than 20 times oversubscribed &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p27#a250813p27)<!-- TECH:END -->
+ - [Sources: Apple is plotting its AI comeback with robots, a lifelike version of Siri, a smart speaker with a display, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
+ - [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
+ - [RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines](https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/)
+ - [Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google](https://www.wired.com/story/hassan-data-broker-opt-out-letter/)
+ - [GPT-5 Doesn&#39;t Dislike You—It Might Just Need a Benchmark for Emotional Intelligence](https://www.wired.com/story/gpt-5-doesnt-dislike-you-it-might-just-need-a-benchmark-for-empathy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

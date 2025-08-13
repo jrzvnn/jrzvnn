@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Apple considering return of iPad repair to some US stores](https://appleinsider.com/articles/25/08/13/apple-considering-return-of-ipad-repair-to-some-us-stores?utm_source=rss)
- - [AR me-time or shared movies? Bluetti&#39;s latest 1kWh has summer fun covered](https://appleinsider.com/articles/25/08/13/ar-me-time-or-shared-movies-bluettis-latest-1kwh-has-summer-fun-covered?utm_source=rss)
- - [Google is rolling out a feature for Gemini that, when enabled, will let the AI chatbot &quot;remember&quot; a user&#39;s past conversations without prompting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250813/p26#a250813p26)
- - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)<!-- TECH:END -->
+ - [New York claims Zelle&amp;#8217;s shoddy security enabled a billion dollars in scams](https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit)
+ - [Insta360&amp;#8217;s next ultra-compact action camera is getting a redesign](https://www.theverge.com/news/758816/insta360-go-ultra-action-camera-4k-leaked-images-specs)
+ - [The Xbox app for Windows on Arm will soon let you download games](https://www.theverge.com/news/758828/microsoft-windows-on-arm-xbox-app-download-feature)
+ - [Bullish shares jump 143% to $90 in the company&#39;s NYSE debut, up from the IPO price of $37; sources say the IPO was more than 20 times oversubscribed &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p27#a250813p27)
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

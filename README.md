@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it now offers same-day grocery delivery in 1,000+ cities and plans to bring it to 2,300+ more by the end of 2025; Prime subscribers get it free &lpar;Dana Wollman/Bloomberg&rpar;](http://www.techmeme.com/250813/p22#a250813p22)
- - [Core Devices CEO Eric Migicovsky unveils the Pebble Time 2 in four colors with a 1.5&quot; e-paper display, multicolor RGB backlighting, and 30-day battery life &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250813/p21#a250813p21)
- - [Coffee Grinders Used to Be a Mystery. A New Device Might Solve It](https://www.wired.com/story/particle-size-analysis-to-test-the-best-coffee-grinders/)
- - [Here’s a look at the final Pebble Time 2 design](https://www.theverge.com/news/758592/pebble-time-2-final-design-wearables-smartwatches)
- - [52 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US tech startups are reviving US hiring plans as President Trump&#39;s One Big Beautiful Bill lets companies accelerate R&amp;D tax deductions, starting in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p23#a250813p23)
+ - [6 Best Coffee Grinders For All Budgets, Tested &amp; Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
+ - [&#39;War of the Worlds&#39; Isn’t Just Bad. It’s Also Shameless Tech Propaganda](https://www.wired.com/story/war-of-the-worlds-isnt-just-bad-its-also-shameless-tech-propaganda/)
+ - [Hidden Door is an AI storytelling game that actually makes sense](https://www.theverge.com/games/757816/hidden-door-early-access-ai-story)
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microplastics are everywhere — including in the air around plastic treaty negotiations](https://www.theverge.com/report/758868/plastic-air-pollution-treaty-negotiations)
+ - [Sources: the US Navy and Air Force may cancel two nearly complete HR software projects to give firms like Salesforce and Palantir a chance to win similar work &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250813/p31#a250813p31)
  - [dbrand seemingly confirms final iPhone 17 design with Tank Case](https://appleinsider.com/articles/25/08/13/dbrand-seemingly-confirms-final-iphone-17-design-with-tank-case?utm_source=rss)
  - [Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home](https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera)
- - [Apple&#39;s Siri-enabled robots are running behind, but still coming](https://appleinsider.com/articles/25/08/13/apples-siri-enabled-robots-are-running-behind-but-still-coming?utm_source=rss)
- - [Siri&#39;s biggest upgrade yet takes shape with &#39;Linwood&#39; &amp; &#39;Glenwood&#39;](https://appleinsider.com/articles/25/08/13/siris-biggest-upgrade-yet-takes-shape-with-linwood-glenwood?utm_source=rss)
- - [Another Pixel 10 leak points to wireless Qi2 charging](https://www.theverge.com/news/758906/pixel-10-qi2-charging-pixelsnap-case-leak)<!-- TECH:END -->
+ - [Apple&#39;s Siri-enabled robots are running behind, but still coming](https://appleinsider.com/articles/25/08/13/apples-siri-enabled-robots-are-running-behind-but-still-coming?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

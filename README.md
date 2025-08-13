@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You&#39;re the carbon they want to reduce](http://9gag.com/gag/a7oAGZe)
  - 😝 [Biskies](http://9gag.com/gag/an7Vdnn)
- - 😝 [\u201cStop doing childish things you are 35 years old\u201d. Me:](http://9gag.com/gag/ajPyyYg)
  - 💣 [No one is too busy](http://9gag.com/gag/abAEEME)
  - 😝 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
  - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->

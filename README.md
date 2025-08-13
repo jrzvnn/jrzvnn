@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How gears work](http://9gag.com/gag/ae9WRGQ)
+ - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - 💣 [Yes it is](http://9gag.com/gag/a7oAnXb)
  - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 😝 [Quicky poll.](http://9gag.com/gag/avym9Ed)
- - 💣 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 😝 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
- - 👉 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)<!-- MEMES:END -->
+ - 👉 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
- - 😝 [Her spouse sounds terrible](http://9gag.com/gag/aE0EZMx)
- - 💣 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
+ - 😝 [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)
+ - 💣 [Title](http://9gag.com/gag/aMVyONV)
  - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
- - 👉 [Title](http://9gag.com/gag/aMVyONV)<!-- MEMES:END -->
+ - 👉 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)<!-- MEMES:END -->
 
 ---
 

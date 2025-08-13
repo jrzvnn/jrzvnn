@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at social media &quot;clippers&quot;, who are paid $0.50 to $2 per thousand views by streamers, podcasts, and startups to make buzzy moments go viral online &lpar;Ben Raab/Wall Street Journal&rpar;](http://www.techmeme.com/250813/p24#a250813p24)
+ - [Made by Google 2025: We Found All the Biggest Pixel 10 Leaks and Rumors](https://www.cnet.com/tech/mobile/made-by-google-2025-we-found-all-the-biggest-pixel-10-leaks-and-rumors/#ftag=CAD590a51e)
  - [Musk is wrong and has only influence on his side in a childish App Store spat](https://appleinsider.com/articles/25/08/13/musk-is-wrong-and-has-only-influence-on-his-side-in-a-childish-app-store-spat-against-apple?utm_source=rss)
  - [James Talarico Is on the Run](https://www.wired.com/story/james-talarico-texas-democrats-gerrymandering/)
- - [Tensor wants to be the first company to sell you a ‘robocar’ — but who are they?](https://www.theverge.com/news/758605/tensor-autox-autonomous-vehicle-robocar-personal-own-china)
- - [Some doctors got worse at detecting cancer after relying on AI](https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai)
- - [Twelve South’s 120W charger with Apple Find My support is nearly half off](https://www.theverge.com/tech/758465/twelve-south-plugbug-charger-sonos-ace-headphones-deal-sale)<!-- TECH:END -->
+ - [Tensor wants to be the first company to sell you a ‘robocar’ — but who are they?](https://www.theverge.com/news/758605/tensor-autox-autonomous-vehicle-robocar-personal-own-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

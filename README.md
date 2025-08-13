@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
- - 😝 [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
- - 💣 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
+ - 😝 [Mind blown by this simple math trick](http://9gag.com/gag/a87znjZ)
+ - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 💣 [Council of men approved](http://9gag.com/gag/amondj9)
  - 😝 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
- - 👉 [Interesting](http://9gag.com/gag/axy44Bb)<!-- MEMES:END -->
+ - 👉 [`Engineered` by someone who never stepped on shit](http://9gag.com/gag/aND3qbA)<!-- MEMES:END -->
 
 ---
 

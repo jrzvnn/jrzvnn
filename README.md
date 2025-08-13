@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From cancer to cute pixie cut](http://9gag.com/gag/a6Z8jLq)
+ - 😝 [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
  - 😝 [Title](http://9gag.com/gag/aMVyONV)
- - 💣 [I need one](http://9gag.com/gag/aryzBY5)
+ - 💣 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
  - 😝 [Such warm moment, melts my skin and bones, only skeleton left.](http://9gag.com/gag/apR88b9)
- - 👉 [An attempt was made](http://9gag.com/gag/ae9WR8b)<!-- MEMES:END -->
+ - 👉 [Time for some juicy chicken](http://9gag.com/gag/azxQ4Bb)<!-- MEMES:END -->
 
 ---
 

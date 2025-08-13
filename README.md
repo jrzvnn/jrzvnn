@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Apple considering return of iPad repair to some US stores](https://appleinsider.com/articles/25/08/13/apple-considering-return-of-ipad-repair-to-some-us-stores?utm_source=rss)
  - [AR me-time or shared movies? Bluetti&#39;s latest 1kWh has summer fun covered](https://appleinsider.com/articles/25/08/13/ar-me-time-or-shared-movies-bluettis-latest-1kwh-has-summer-fun-covered?utm_source=rss)
  - [Google is rolling out a feature for Gemini that, when enabled, will let the AI chatbot &quot;remember&quot; a user&#39;s past conversations without prompting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250813/p26#a250813p26)
- - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)
- - [Tax-Free Back-to-School Sales 2025: You Still Have Time to Save in These 3 States](https://www.cnet.com/personal-finance/banking/tax-free-back-to-school-sales-2025-you-still-have-time-to-save-in-these-3-states/#ftag=CAD590a51e)
- - [How to Wash a Heated Blanket Safely](https://www.cnet.com/health/sleep/how-to-wash-a-heated-blanket-safely/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

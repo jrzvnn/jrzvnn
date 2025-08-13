@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Perplexity is seeking new funding at a $20B post-money valuation, up from a reported $18B in its latest fundraising round in July &lpar;Business Insider&rpar;](http://www.techmeme.com/250813/p30#a250813p30)
+ - [Apple said to be working on Ring-like doorbell camera and smart cameras](https://appleinsider.com/articles/25/08/13/apple-said-to-be-working-on-ring-like-doorbell-camera-and-smart-cameras?utm_source=rss)
  - [Apple&#39;s Siri-enabled robots are running behind, but still coming](https://appleinsider.com/articles/25/08/13/apples-siri-enabled-robots-are-running-behind-but-still-coming?utm_source=rss)
- - [Sources: Apple AI plans include robots, such as a tabletop one in 2027, a conversational Siri, a smart speaker with a display in 2026, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)
- - [Starlink Mini users just lost their beloved pause feature](https://www.theverge.com/analysis/758826/starlink-mini-standby-pause-bait-switch)
- - [AI Agents Are Using a Third of All Search Traffic Meant Towards Brands, Report Says](https://www.cnet.com/tech/services-and-software/ai-agents-are-using-a-third-of-all-search-traffic-meant-towards-brands-report-says/#ftag=CAD590a51e)
- - [RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines](https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/)<!-- TECH:END -->
+ - [New York sues Zelle, claiming that security lapses led to $1B in consumer fraud losses; the US CFPB dropped a similar case in March &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250813/p29#a250813p29)
+ - [Sources: Apple AI plans include robots, such as a tabletop one in 2027, a conversational Siri, a smart speaker with a display in 2026, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

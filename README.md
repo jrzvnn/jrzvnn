@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
- - 😝 [Things I want to do with adult money](http://9gag.com/gag/an7VG1n)
- - 💣 [Palantir.](http://9gag.com/gag/aYQmR0v)
- - 😝 [The \ud83c\udde8\ud83c\uddf3 Coast Guard failed to chase the \ud83c\uddf5\ud83c\uddedPhilippine Coast Guard, resulting in a collision between the CCG and the PLA Navy, inside Philippine 200nm EEZ.](http://9gag.com/gag/ayNPYYp)
- - 👉 [Carwave](http://9gag.com/gag/aND3jDw)<!-- MEMES:END -->
+ - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 💣 [How to friend](http://9gag.com/gag/aryz8v5)
+ - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 👉 [The funny part is the jersey with `equality` on it.](http://9gag.com/gag/a9yBOw6)<!-- MEMES:END -->
 
 ---
 

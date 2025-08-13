@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
  - 😝 [3D printing](http://9gag.com/gag/aLnrb1W)
  - 💣 [Old but gold](http://9gag.com/gag/a9yBBoo)
  - 😝 [Respect](http://9gag.com/gag/a9yBB40)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)
- - 😝 [Not 5 seconds passed](http://9gag.com/gag/aE0EOmx)
- - 💣 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 😝 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
- - 👉 [How to friend](http://9gag.com/gag/aryz8v5)<!-- MEMES:END -->
+ - 😝 [Biskies](http://9gag.com/gag/an7Vdnn)
+ - 😝 [\u201cStop doing childish things you are 35 years old\u201d. Me:](http://9gag.com/gag/ajPyyYg)
+ - 💣 [No one is too busy](http://9gag.com/gag/abAEEME)
+ - 😝 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
+ - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gathering of Nazg\u00fbl in the UK](http://9gag.com/gag/adBbo5M)
- - 😝 [Still achieved what was necessary.](http://9gag.com/gag/ae9WR0p)
- - 💣 [Title](http://9gag.com/gag/aMVyONV)
- - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
+ - 😝 [That day, my guy heard a lie and decided not to keep quiet](http://9gag.com/gag/ae9W78j)
+ - 💣 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
+ - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
  - 👉 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)<!-- MEMES:END -->
 
 ---

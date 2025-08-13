@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
  - [New York claims Zelle&amp;#8217;s shoddy security enabled a billion dollars in scams](https://www.theverge.com/news/758827/new-york-zelle-scams-fraud-lawsuit)
  - [Insta360&amp;#8217;s next ultra-compact action camera is getting a redesign](https://www.theverge.com/news/758816/insta360-go-ultra-action-camera-4k-leaked-images-specs)
  - [The Xbox app for Windows on Arm will soon let you download games](https://www.theverge.com/news/758828/microsoft-windows-on-arm-xbox-app-download-feature)
- - [Bullish shares jump 143% to $90 in the company&#39;s NYSE debut, up from the IPO price of $37; sources say the IPO was more than 20 times oversubscribed &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p27#a250813p27)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Bullish shares jump 143% to $90 in the company&#39;s NYSE debut, up from the IPO price of $37; sources say the IPO was more than 20 times oversubscribed &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p27#a250813p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

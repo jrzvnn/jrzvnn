@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some doctors got worse at detecting cancer after relying on AI](https://www.theverge.com/ai-artificial-intelligence/758672/some-doctors-got-worse-at-detecting-cancer-after-relying-on-ai)
  - [Twelve South’s 120W charger with Apple Find My support is nearly half off](https://www.theverge.com/tech/758465/twelve-south-plugbug-charger-sonos-ace-headphones-deal-sale)
  - [A veteran toy racing company is trading slots for smartphone-controlled RC cars](https://www.theverge.com/news/758651/carrera-hybrid-rc-slot-cars-porsche-gt3-r)
  - [US tech startups are reviving US hiring plans as President Trump&#39;s One Big Beautiful Bill lets companies accelerate R&amp;D tax deductions, starting in 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p23#a250813p23)
- - [6 Best Coffee Grinders For All Budgets, Tested &amp; Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)
- - [&#39;War of the Worlds&#39; Isn’t Just Bad. It’s Also Shameless Tech Propaganda](https://www.wired.com/story/war-of-the-worlds-isnt-just-bad-its-also-shameless-tech-propaganda/)<!-- TECH:END -->
+ - [6 Best Coffee Grinders For All Budgets, Tested &amp; Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-coffee-grinders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Samsung Smart Monitor M9 M90SF Review: The 4K OLED Hybrid](https://www.wired.com/review/samsung-smart-monitor-m9-m90sf/)
  - [Sources: World Liberty Financial&#39;s partnership with Binance-run PancakeSwap is helping boost demand for USD1, generating profit for Trump, as CZ seeks a pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250813/p15#a250813p15)
  - [iPhone 17 Pro price rise to be masked by increased storage](https://appleinsider.com/articles/25/08/13/iphone-17-pro-price-rise-to-be-masked-by-increased-storage?utm_source=rss)
- - [Sources: the US secretly embedded location trackers in select AI chip and server shipments, including Dell and Super Micro, to detect illegal China diversions &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p14#a250813p14)<!-- TECH:END -->
+ - [Best Internet Providers in Las Vegas, Nevada](https://www.cnet.com/home/internet/best-internet-providers-in-las-vegas-nv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

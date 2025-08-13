@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is rolling out a feature for Gemini that, when enabled, will let the AI chatbot &quot;remember&quot; a user&#39;s past conversations without prompting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250813/p26#a250813p26)
  - [Apple&#39;s iPhone 17 Pro $50 pricing increase strategy won&#39;t matter to half of buyers](https://appleinsider.com/articles/25/08/13/apples-iphone-17-pro-50-pricing-increase-strategy-wont-matter-to-half-of-buyers?utm_source=rss)
- - [Google&amp;#8217;s Gemini AI will get more personalized by remembering details automatically](https://www.theverge.com/news/758624/google-gemini-ai-automatic-memory-privacy-update)
- - [LinkedIn’s Mini Sudoku is a clever twist on the classic puzzle](https://www.theverge.com/news/758756/linkedins-mini-sudoku-is-a-clever-twist-on-the-classic-puzzle)
- - [Chinese chip equipment supplier E-Town sues Applied Materials in the Beijing IP Court over alleged trade secret theft; Applied Materials hired two E-Town staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p25#a250813p25)
- - [Apple may soon let Douyin Pay users buy from the China App Store](https://appleinsider.com/articles/25/08/13/apple-may-soon-let-douyin-pay-users-buy-from-the-china-app-store?utm_source=rss)<!-- TECH:END -->
+ - [Tax-Free Back-to-School Sales 2025: You Still Have Time to Save in These 3 States](https://www.cnet.com/personal-finance/banking/tax-free-back-to-school-sales-2025-you-still-have-time-to-save-in-these-3-states/#ftag=CAD590a51e)
+ - [How to Wash a Heated Blanket Safely](https://www.cnet.com/health/sleep/how-to-wash-a-heated-blanket-safely/#ftag=CAD590a51e)
+ - [Gemini Is Going to Start Learning More About You. Here&#39;s How to Turn That Off](https://www.cnet.com/tech/services-and-software/gemini-is-going-to-start-learning-more-about-you-heres-how-to-turn-that-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

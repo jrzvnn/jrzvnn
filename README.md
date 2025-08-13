@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pony AI says it rolled out 200+ Gen-7 Robotaxis since mass production started two months ago, putting it on track for its 1,000-vehicle goal by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250813/p13#a250813p13)
  - [Tencent reports Q2 revenue up 15% YoY to ~$25.7B, vs. ~$24.8B est., gaming revenue up 17% YoY to ~$5.6B, global revenue up 35% YoY to ~$2.6B, a $7.7B net profit &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p12#a250813p12)
+ - [Best Internet Providers in Brooklyn, New York](https://www.cnet.com/home/internet/best-internet-providers-in-brooklyn-ny/#ftag=CAD590a51e)
  - [A US federal judge rules Elon Musk must face OpenAI&#39;s claims that his legal and media attacks are a &quot;years-long harassment campaign&quot; and sets a March 2026 trial &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250813/p11#a250813p11)
- - [Chinese open-source AI models from DeepSeek, Alibaba&#39;s Qwen, and others gaining global traction spurs US policymakers and companies to respond &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250813/p10#a250813p10)
- - [Arintra, whose AI medical coding system translates clinical documentation into insurance codes for healthcare providers, raised a $21M Series A led by Peak XV &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/250813/p9#a250813p9)
- - [Advent International agrees to acquire and take private Nasdaq-listed Sapiens International, an Israel-based insurance software company, for $2.5B in cash &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p8#a250813p8)<!-- TECH:END -->
+ - [I Tried the New McDonaldland Meal for Adults, With Its Bizarre Pink and Blue Shake](https://www.cnet.com/news/i-tried-the-new-mcdonaldland-meal-for-adults-with-its-bizarre-pink-and-blue-shake/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

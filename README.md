@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
- - 😝 [How gears work](http://9gag.com/gag/ae9WRGQ)
- - 💣 [Title](http://9gag.com/gag/aMVyONV)
+ - 😝 [Dude, what?](http://9gag.com/gag/awyvY84)
+ - 😝 [Would watch](http://9gag.com/gag/adBbRo2)
+ - 💣 [Big mama to the rescue](http://9gag.com/gag/avymdWd)
  - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
- - 👉 [Big mama to the rescue](http://9gag.com/gag/avymdWd)<!-- MEMES:END -->
+ - 👉 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s RBI grants Paytm &quot;in-principle&quot; approval to operate as a payment services provider for online merchants, after China&#39;s Ant Group sold its entire stake &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250812/p35#a250812p35)
- - [Russia might be responsible for the PACER hack](https://www.theverge.com/law/758440/federal-courts-hacked-pacer-cm-ecf-russia)
- - [Elon Musk&#39;s antitrust claims dismissed by Apple, cites curation for safe discovery](https://appleinsider.com/articles/25/08/12/elon-musks-antitrust-claims-dismissed-by-apple-cites-curation-for-safe-discovery?utm_source=rss)
- - [AOL Will Shut Down Dial-Up Internet Access in September](https://www.wired.com/story/aol-shutting-down-dial-up-internet-access-in-september/)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)<!-- TECH:END -->
+ - [Similarweb: UK traffic fell 47% for Pornhub, 47% for XVideos, and 39% for xHamster from July 24, the day before age verification rules took effect, to August 8 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250812/p38#a250812p38)
+ - [How to choose which Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [1Kosmos, which provides identity verification and passwordless authentication software, raised a $57M Series B, including a $10M line of credit &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250812/p37#a250812p37)
+ - [Study: endoscopists used to AI-assisted colonoscopies detected fewer precancerous growths after AI assistance was removed, compared to before AI was introduced &lpar;Joedy McCreary/MedPage Today&rpar;](http://www.techmeme.com/250812/p36#a250812p36)
+ - [Elon Musk says he’s suing Apple for rigging App Store rankings](https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

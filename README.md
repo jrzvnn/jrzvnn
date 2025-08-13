@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;re the carbon they want to reduce](http://9gag.com/gag/a7oAGZe)
- - 😝 [Biskies](http://9gag.com/gag/an7Vdnn)
- - 💣 [No one is too busy](http://9gag.com/gag/abAEEME)
- - 😝 [Kings Of The Wall](http://9gag.com/gag/a9yBB6W)
- - 👉 [Yes it is](http://9gag.com/gag/a7oAnXb)<!-- MEMES:END -->
+ - 😝 [Instant for me](http://9gag.com/gag/aO8GpVM)
+ - 😝 [Could end up being a pricey party](http://9gag.com/gag/a7oAnZx)
+ - 💣 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 😝 [Jack Sparrow](http://9gag.com/gag/a0ewOeQ)
+ - 👉 [Straid to hell\u2026](http://9gag.com/gag/aoyDno0)<!-- MEMES:END -->
 
 ---
 

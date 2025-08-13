@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Perplexity is seeking new funding at a $20B post-money valuation, up from a reported $18B in its latest fundraising round in July &lpar;Business Insider&rpar;](http://www.techmeme.com/250813/p30#a250813p30)
- - [Apple said to be working on Ring-like doorbell camera and smart cameras](https://appleinsider.com/articles/25/08/13/apple-said-to-be-working-on-ring-like-doorbell-camera-and-smart-cameras?utm_source=rss)
  - [Apple&#39;s Siri-enabled robots are running behind, but still coming](https://appleinsider.com/articles/25/08/13/apples-siri-enabled-robots-are-running-behind-but-still-coming?utm_source=rss)
- - [New York sues Zelle, claiming that security lapses led to $1B in consumer fraud losses; the US CFPB dropped a similar case in March &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250813/p29#a250813p29)
- - [Sources: Apple AI plans include robots, such as a tabletop one in 2027, a conversational Siri, a smart speaker with a display in 2026, and home security cameras &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250813/p28#a250813p28)<!-- TECH:END -->
+ - [Siri&#39;s biggest upgrade yet takes shape with &#39;Linwood&#39; &amp; &#39;Glenwood&#39;](https://appleinsider.com/articles/25/08/13/siris-biggest-upgrade-yet-takes-shape-with-linwood-glenwood?utm_source=rss)
+ - [Another Pixel 10 leak points to wireless Qi2 charging](https://www.theverge.com/news/758906/pixel-10-qi2-charging-pixelsnap-case-leak)
+ - [Sources: Perplexity is seeking new funding at a $20B post-money valuation, up from a reported $18B in its latest fundraising round in July &lpar;Business Insider&rpar;](http://www.techmeme.com/250813/p30#a250813p30)
+ - [Apple said to be working on Ring-like doorbell camera and smart cameras](https://appleinsider.com/articles/25/08/13/apple-said-to-be-working-on-ring-like-doorbell-camera-and-smart-cameras?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

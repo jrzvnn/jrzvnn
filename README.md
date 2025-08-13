@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
- - 😝 [Bookworm](http://9gag.com/gag/a9yBDyZ)
- - 💣 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
- - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 😝 [Never let them know your next move](http://9gag.com/gag/a4PVwDy)
+ - 😝 [Marine giving a Japanese Soldier a cigarette after discovering he had buried himself and played dead for nearly two days, Iwo Jima, 1945](http://9gag.com/gag/an7VG9q)
+ - 💣 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
+ - 😝 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
  - 👉 [Interesting](http://9gag.com/gag/axy44Bb)<!-- MEMES:END -->
 
 ---

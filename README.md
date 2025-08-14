@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 💣 [Acrobatic view](http://9gag.com/gag/amonKX9)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
  - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
- - 👉 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)<!-- MEMES:END -->
+ - 👉 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)<!-- MEMES:END -->
 
 ---
 

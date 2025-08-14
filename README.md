@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump administration is in talks with Intel to have the US government potentially take a stake in the company; INTC jumps 6%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p35#a250814p35)
+ - [Apple TV+ remains a contender for Sunday Night Baseball rights](https://appleinsider.com/articles/25/08/14/apple-tv-remains-a-contender-for-sunday-night-baseball-rights?utm_source=rss)
  - [China is about to launch SSDs so small you insert them like a SIM card](https://www.theverge.com/news/759624/china-is-about-to-launch-ssds-so-small-you-insert-them-like-a-sim-card)
  - [Bluesky revises its policies and Community Guidelines to comply with new regulations, including the EU DSA, UK Online Safety Act, and US Take It Down Act &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250814/p34#a250814p34)
- - [Inside the Biden Administration&#39;s Gamble to Freeze China’s AI Future](https://www.wired.com/story/chips-china-artificial-intelligence-controls/)
- - [iOS 26 beta 6 gets small build update, doesn&#39;t bring back blood oxygen sensor](https://appleinsider.com/articles/25/08/14/ios-26-beta-6-gets-small-build-update-doesnt-bring-back-blood-oxygen-sensor?utm_source=rss)
- - [Nanoleaf&amp;#8217;s smart lights are cheaper than ever in its back-to-school sale](https://www.theverge.com/tech/759620/nanoleaf-back-to-school-deal-sale)<!-- TECH:END -->
+ - [Inside the Biden Administration&#39;s Gamble to Freeze China’s AI Future](https://www.wired.com/story/chips-china-artificial-intelligence-controls/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

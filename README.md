@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Will Now Blur Nude Photos in Your Messages. Here&#39;s How to Turn It On &lpar;or Off&rpar;](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)
  - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)
+ - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
  - [AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill](https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/)
- - [Supreme Court opens door to social media age-gating in US](https://www.theverge.com/news/759769/supreme-court-mississippi-age-gating-social-media-ruling)
- - [When to Watch &#39;South Park&#39; Season 27, Episode 3](https://www.cnet.com/tech/services-and-software/when-to-watch-south-park-season-27-episode-3/#ftag=CAD590a51e)
- - [SCOTUS rejects NetChoice&#39;s emergency appeal to block a Mississippi law that requires age verification and parental consent for teens to join social networks &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p37#a250814p37)<!-- TECH:END -->
+ - [Supreme Court opens door to social media age-gating in US](https://www.theverge.com/news/759769/supreme-court-mississippi-age-gating-social-media-ruling)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

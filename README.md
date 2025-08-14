@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
- - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
- - 👉 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)<!-- MEMES:END -->
+ - 😝 [Nobody knows such a person..](http://9gag.com/gag/avymXMZ)
+ - 😝 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 💣 [Come on Disney](http://9gag.com/gag/aXPeQX6)
+ - 😝 [Confiscate this](http://9gag.com/gag/ae9WPyb)
+ - 👉 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)<!-- MEMES:END -->
 
 ---
 

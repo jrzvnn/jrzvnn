@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [US drivin](http://9gag.com/gag/ae9WRoq)
  - 😝 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
- - 💣 [Bad Monkey](http://9gag.com/gag/adBbbVB)
- - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 😝 [Reuplaod cause John China keep deleting it](http://9gag.com/gag/aQzVrq2)
+ - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 😝 [Just got laid off recently could have done that haha can find another job no sweat](http://9gag.com/gag/a5QDyQo)
  - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
  - 😝 [Guess he learned his lesson](http://9gag.com/gag/a0ewWNq)
- - 💣 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 💣 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
  - 😝 [Way cool. Old school is priceless.](http://9gag.com/gag/aVvB4zd)
- - 👉 [Acrobatic view](http://9gag.com/gag/amonKX9)<!-- MEMES:END -->
+ - 👉 [Last photo together](http://9gag.com/gag/adBb4KQ)<!-- MEMES:END -->
 
 ---
 

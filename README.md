@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HTC is getting in on AI glasses, too](https://www.theverge.com/news/759221/htc-vive-eagle-ai-smart-glasses)
  - [Apple Watch getting blood oxygen sensor back after 18 month absence](https://appleinsider.com/articles/25/08/14/apple-watch-getting-blood-oxygen-sensor-back-after-18-month-absence?utm_source=rss)
- - [Google Messages is now blurring nude images](https://www.theverge.com/news/759198/google-messages-sensitive-content-warnings-feature)
- - [Apple rolls out a software update to enable a redesigned blood oxygen monitoring feature for the Watch Series 9, 10, and Ultra 2, circumventing the ITC ban &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250814/p21#a250814p21)
- - [iPhone 17 Pro&#39;s all-aluminum chassis may have been shown in new leak](https://appleinsider.com/articles/25/08/14/iphone-17-pros-all-aluminum-chassis-shown-in-new-leak?utm_source=rss)
- - [Fitness band maker Whoop says it will not disable its blood pressure tracking tool after a request from the US FDA in July and requests meeting with the agency &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250814/p20#a250814p20)<!-- TECH:END -->
+ - [Shopify CEO Tobi Lutke, Tyler and Cameron Winklevoss, and 80+ fintech and crypto CEOs urge Trump to block US banks from charging fees to access customer data &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250814/p23#a250814p23)
+ - [Google Messages rolls out Sensitive Content Warnings on Android to blur nude images for signed-in users; Android System SafetyCore powers on-device processing &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250814/p22#a250814p22)
+ - [Senators Press Howard Lutnick’s Former Investment Firm Over Tariff Conflict of Interest Concerns](https://www.wired.com/story/senators-probe-cantor-fitzgerald-tariffs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

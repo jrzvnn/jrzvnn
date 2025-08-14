@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS rejects NetChoice&#39;s emergency appeal to block a Mississippi law that requires age verification and parental consent for teens to join social networks &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p37#a250814p37)
  - [Sources: Lambda is in talks for a funding round that could value the cloud services company between $4B and $5B ahead of a potential IPO by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p36#a250814p36)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [Why Trump Flip-Flopped on Nvidia Selling H20 Chips to China](https://www.wired.com/story/nvidia-chips-export-controls-trump-h20-security/)
- - [Sources: the Trump administration is in talks with Intel to have the US government potentially take a stake in the company; INTC jumps 6%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p35#a250814p35)
- - [Apple TV+ remains a contender for Sunday Night Baseball rights](https://appleinsider.com/articles/25/08/14/apple-tv-remains-a-contender-for-sunday-night-baseball-rights?utm_source=rss)<!-- TECH:END -->
+ - [The 10 Best Movies Peacock Has to Offer](https://www.cnet.com/culture/entertainment/peacock-best-movies-2025/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 15, #1518](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-15-1518/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

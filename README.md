@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/axy44Bb)
- - 😝 [Big elephant gives a polite warning to nuisance humans](http://9gag.com/gag/aQzVVrr)
- - 💣 [Well now you know](http://9gag.com/gag/aRBDDMQ)
- - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 👉 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)<!-- MEMES:END -->
+ - 😝 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)
+ - 😝 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
+ - 💣 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
+ - 😝 [Well now you know](http://9gag.com/gag/aRBDDMQ)
+ - 👉 [Flying you say?](http://9gag.com/gag/aryzzEX)<!-- MEMES:END -->
 
 ---
 

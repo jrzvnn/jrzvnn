@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
- - 😝 [3D printing](http://9gag.com/gag/aLnrb1W)
- - 💣 [Old but gold](http://9gag.com/gag/a9yBBoo)
- - 😝 [Respect](http://9gag.com/gag/a9yBB40)
- - 👉 [Massive solar flare](http://9gag.com/gag/ae9Wdem)<!-- MEMES:END -->
+ - 😝 [Old but gold](http://9gag.com/gag/a9yBBoo)
+ - 💣 [Respect](http://9gag.com/gag/a9yBB40)
+ - 😝 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
+ - 👉 [`Engineered` by someone who never stepped on shit](http://9gag.com/gag/aND3qbA)<!-- MEMES:END -->
 
 ---
 

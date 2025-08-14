@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Carlyle agrees to sell Amsterdam-based HSO, a Microsoft solutions integrator that serves 1,400 clients worldwide, to Bain Capital, sources say for $1B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250814/p5#a250814p5)
  - [A recent UK AI Security Institute study found that LLMs from OpenAI, Meta, xAI, and Alibaba can shift users&#39; political views in under 10 minutes of conversation &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250814/p4#a250814p4)
  - [Companies, including Google and Cisco, have reinstated in-person interviews for some roles to combat AI-driven cheating, with some using deepfake detection tech &lpar;Ray A. Smith/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p3#a250814p3)
  - [Blue Apron Coupon &amp; Promo Codes: $25 Off | August 2025](https://www.wired.com/story/blue-apron-coupon/)
- - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/)
- - [Sources: DeepSeek R2&#39;s launch delay is due to training issues on Huawei Ascend chips, prompting a switch to Nvidia chips for training and Huawei&#39;s for inference &lpar;Financial Times&rpar;](http://www.techmeme.com/250814/p2#a250814p2)<!-- TECH:END -->
+ - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

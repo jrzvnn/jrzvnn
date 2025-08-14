@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [44 Must-Have Back-to-School College Dorm Room Essentials and Gear &lpar;2025&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)
- - [Arkham Intelligence: SpaceX now holds 8,285 bitcoin, valued at ~$1.02B, down from 28,000 bitcoin worth $1.8B in April 2021 after cutting its holdings in 2022 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250814/p17#a250814p17)
- - [iPhone 17 Pro&#39;s all-aluminum chassis shown in new leak](https://appleinsider.com/articles/25/08/14/iphone-17-pros-all-aluminum-chassis-shown-in-new-leak?utm_source=rss)
- - [Everything we think we know about the Google Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)
- - [Should You Buy the iPhone 16E Now or Wait for the iPhone 17?](https://www.cnet.com/tech/mobile/should-you-buy-the-iphone-16e-now-or-wait-for-the-iphone-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teenage Engineering’s new PC case is plastic and free](https://www.theverge.com/news/759178/teenage-engineering-mini-itx-computer-2-pc-case)
+ - [The US NSF and Nvidia partner to fund the Open Multimodal Infrastructure to Accelerate Science project, led by Ai2; NSF is contributing $75M and Nvidia $77M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250814/p18#a250814p18)
+ - [Can I Drink Electrolyte Water Every Day? Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/can-i-drink-electrolyte-water-every-day/)
+ - [LG B5 OLED Review: Subtle Luxury](https://www.wired.com/review/lg-b5/)
+ - [44 Must-Have Back-to-School College Dorm Room Essentials and Gear &lpar;2025&rpar;](https://www.wired.com/gallery/best-college-and-dorm-essentials-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

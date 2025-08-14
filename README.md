@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
- - 😝 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
- - 💣 [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
- - 😝 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
- - 👉 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)<!-- MEMES:END -->
+ - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
+ - 💣 [That horse said not today](http://9gag.com/gag/abAEmGB)
+ - 😝 [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
+ - 👉 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)<!-- MEMES:END -->
 
 ---
 

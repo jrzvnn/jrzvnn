@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Employees enjoying themselves, what a concept](http://9gag.com/gag/aW49NMA)
- - 😝 [Title](http://9gag.com/gag/apR8dv9)
- - 💣 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
- - 😝 [`Engineered` by someone who never stepped on shit](http://9gag.com/gag/aND3qbA)
- - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
+ - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 😝 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
+ - 💣 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 👉 [That horse said not today](http://9gag.com/gag/abAEmGB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China is about to launch SSDs so small you insert them like a SIM card](https://www.theverge.com/news/759624/china-is-about-to-launch-ssds-so-small-you-insert-them-like-a-sim-card)
  - [Bluesky revises its policies and Community Guidelines to comply with new regulations, including the EU DSA, UK Online Safety Act, and US Take It Down Act &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250814/p34#a250814p34)
  - [Inside the Biden Administration&#39;s Gamble to Freeze China’s AI Future](https://www.wired.com/story/chips-china-artificial-intelligence-controls/)
  - [iOS 26 beta 6 gets small build update, doesn&#39;t bring back blood oxygen sensor](https://appleinsider.com/articles/25/08/14/ios-26-beta-6-gets-small-build-update-doesnt-bring-back-blood-oxygen-sensor?utm_source=rss)
- - [Nanoleaf&amp;#8217;s smart lights are cheaper than ever in its back-to-school sale](https://www.theverge.com/tech/759620/nanoleaf-back-to-school-deal-sale)
- - [Sources: chip startup Rivos, which plans to release a GPU for inference as early as 2026, is seeking to raise between $400M and $500M at a $2B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/250814/p33#a250814p33)<!-- TECH:END -->
+ - [Nanoleaf&amp;#8217;s smart lights are cheaper than ever in its back-to-school sale](https://www.theverge.com/tech/759620/nanoleaf-back-to-school-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

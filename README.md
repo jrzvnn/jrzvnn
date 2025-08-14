@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
  - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - 💣 [Boom!](http://9gag.com/gag/aGybNmw)
- - 😝 [Murrica](http://9gag.com/gag/axy4QZp)
+ - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 💣 [Acrobatic view](http://9gag.com/gag/amonKX9)
+ - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
  - 👉 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)<!-- MEMES:END -->
 
 ---

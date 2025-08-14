@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Replaced My Mac With an iPad for an Entire Week. It Went as Well as You’d Expect](https://www.wired.com/story/i-replaced-my-mac-with-an-ipad-for-an-entire-week-it-went-as-well-as-youd-expect/)
  - [A deep dive on Big Tech&#39;s AI energy boom as Amazon, Microsoft, and Google become major players, leading to fears that individuals&#39; and SMBs&#39; rates may rise &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p16#a250814p16)
  - [As Apple closes one China store, it opens another one in Shenzen](https://appleinsider.com/articles/25/08/14/as-apple-closes-one-china-store-it-opens-another-one-in-shenzen?utm_source=rss)
  - [Milan-based Bending Spoons raised €500M+ in debt led by JPMorgan Chase to buy more software businesses; the company raised $155M at a $2.6B valuation in 2024 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250814/p15#a250814p15)
- - [The Future of EV Charging Can Be Found at Your Local Gas Station](https://www.wired.com/story/the-future-of-ev-charging-gas-stations-rest-stops/)
- - [How Wall Street is embracing crypto, spurred in part by political opportunism, as some executives fear the rush may risk the safety of personal bank accounts &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/250814/p14#a250814p14)<!-- TECH:END -->
+ - [The Future of EV Charging Can Be Found at Your Local Gas Station](https://www.wired.com/story/the-future-of-ev-charging-gas-stations-rest-stops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

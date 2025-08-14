@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is streaming about to have a Wordle moment?](https://www.theverge.com/lowpass-newsletter/758917/streaming-gaming-netflix)
  - [Ex-Twitter CEO Parag Agrawal launches Parallel Web Systems to build infrastructure for AI agents to search the web, raising $30M from Khosla Ventures and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p27#a250814p27)
  - [M4 Ultra Mac Pro may still be in the works](https://appleinsider.com/articles/25/08/14/m4-ultra-mac-pro-may-still-be-in-the-works?utm_source=rss)
  - [Elon Musk’s gangster tech regulation comes for Apple](https://www.theverge.com/analysis/759338/elon-musk-apple-antitrust-app-store-ai-grok)
- - [Christian Militants Are Using Instagram to Recruit—and Becoming Influencers in the Process](https://www.wired.com/story/christian-militias-instagram-recruit-influencers/)
- - [Sola, which wants to use AI agents to automate businesses&#39; repetitive, manual tasks, raised $21M, including a $3.5M seed and a $17.5M Series A led by a16z &lpar;Emma Hinchliffe/Fortune&rpar;](http://www.techmeme.com/250814/p26#a250814p26)<!-- TECH:END -->
+ - [Christian Militants Are Using Instagram to Recruit—and Becoming Influencers in the Process](https://www.wired.com/story/christian-militias-instagram-recruit-influencers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD.com reports Q2 revenue up 22% YoY to $49.7B, above $46.8B est., and net income down 50% YoY to ~$846M, benefiting from government-directed consumer subsidies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p13#a250814p13)
- - [Q&amp;A with researcher Petter Törnberg on his pre-print study showing how social media&#39;s structural architecture creates problematic outcomes like echo chambers &lpar;Jennifer Ouellette/Ars Technica&rpar;](http://www.techmeme.com/250814/p12#a250814p12)
- - [Adyen reports H1 2025 net revenue up 20% YoY to €1.09B, vs. €1.11B est., processed volume up 5% YoY to €649B, and EBITDA up 28% YoY to €543.7M; ADYEN falls 17%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250814/p11#a250814p11)
- - [An interview with Binance co-founder Yi He on growing up poor in China, the challenges she faced during Binance&#39;s year of crisis when CZ was in prison, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250814/p10#a250814p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 14, #325](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-14-325/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Apple closes one China store, it opens another one in Shenzen](https://appleinsider.com/articles/25/08/14/as-apple-closes-one-china-store-it-opens-another-one-in-shenzen?utm_source=rss)
+ - [Milan-based Bending Spoons raised €500M+ in debt led by JPMorgan Chase to buy more software businesses; the company raised $155M at a $2.6B valuation in 2024 &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250814/p15#a250814p15)
+ - [The Future of EV Charging Can Be Found at Your Local Gas Station](https://www.wired.com/story/the-future-of-ev-charging-gas-stations-rest-stops/)
+ - [How Wall Street is embracing crypto, spurred in part by political opportunism, as some executives fear the rush may risk the safety of personal bank accounts &lpar;Rob Copeland/New York Times&rpar;](http://www.techmeme.com/250814/p14#a250814p14)
+ - [The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived](https://www.wired.com/story/the-first-federal-cybersecurity-disaster-of-trump-20-has-arrived/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb now lets you ‘pay later’ on vacation rentals](https://www.theverge.com/news/759637/airbnb-reserve-now-pay-later-stays)
+ - [Google announces Gemma 3 270M, a compact model designed for task-specific fine-tuning with strong capabilities in instruction following and text structuring &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250814/p31#a250814p31)
  - [History repeating: Why Apple is so late to the foldable phone market](https://appleinsider.com/articles/25/08/14/history-repeating-why-apple-is-so-late-to-the-foldable-phone-market?utm_source=rss)
  - [Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode](https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai)
- - [xAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)
- - [Anthropic expands Claude&#39;s Learning Mode, available only to Education users since an April launch, to all users, including two learning variants for Claude Code &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250814/p30#a250814p30)
- - [Meta’s AI policies let chatbots get romantic with minors](https://www.theverge.com/news/759562/meta-ai-rules-chatbots-romantic-minors)<!-- TECH:END -->
+ - [xAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come on and slam!](http://9gag.com/gag/axy4me1)
- - 😝 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
- - 💣 [I guess we will never know which `community`, because the Right will be validated.](http://9gag.com/gag/agmjjL6)
- - 😝 [Employees enjoying themselves, what a concept](http://9gag.com/gag/aW49NMA)
- - 👉 [Reuplaod cause John China keep deleting it](http://9gag.com/gag/aQzVrq2)<!-- MEMES:END -->
+ - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
+ - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
+ - 💣 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
+ - 😝 [Statistic joke! But if it&#39;s 13 and 50 everyone&#39;s mad!](http://9gag.com/gag/aAyZmdd)
+ - 👉 [Title](http://9gag.com/gag/apR8dv9)<!-- MEMES:END -->
 
 ---
 

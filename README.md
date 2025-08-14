@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with OpenAI VP and Head of ChatGPT Nick Turley on ChatGPT&#39;s future, showing ads in chatbots, hallucinations, GPT-5 blowback, 4o, subscriptions, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250814/p29#a250814p29)
+ - [Price war: Apple&#39;s M4 Pro MacBook Pro drops to $1,699](https://appleinsider.com/articles/25/08/14/price-war-apples-m4-pro-macbook-pro-drops-to-1699?utm_source=rss)
+ - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
  - [Google Flights can help you book a trip when you don’t know where to go](https://www.theverge.com/news/759444/google-flight-deals-ai-update-travel-ideas)
- - [New &#39;Severance&#39; art appears at Apple&#39;s usual Melrose mural spot](https://appleinsider.com/articles/25/08/14/new-severance-art-appears-at-apples-usual-melrose-mural-spot?utm_source=rss)
- - [Microsoft is getting ready to return to the office](https://www.theverge.com/notepad-microsoft-newsletter/759251/microsoft-return-to-office-policy-2025-notepad)
- - [Apple Card falls to third in customer satisfaction rankings, after holding top spot for four years](https://appleinsider.com/articles/25/08/14/apple-card-falls-to-third-in-customer-satisfaction-rankings-after-holding-top-spot-for-four-years?utm_source=rss)
- - [Google launches Flight Deals, an AI tool within Google Flights to let users find fares using natural language queries, in beta in the US, Canada, and India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250814/p28#a250814p28)<!-- TECH:END -->
+ - [New &#39;Severance&#39; art appears at Apple&#39;s usual Melrose mural spot](https://appleinsider.com/articles/25/08/14/new-severance-art-appears-at-apples-usual-melrose-mural-spot?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

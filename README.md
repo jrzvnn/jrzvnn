@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adyen reports H1 2025 net revenue up 20% YoY to €1.09B, vs. €1.11B est., processed volume up 5% YoY to €649B, and EBITDA up 28% YoY to €543.7M; ADYEN falls 17%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250814/p11#a250814p11)
  - [An interview with Binance co-founder Yi He on growing up poor in China, the tests she faced during Binance&#39;s year of crisis when CZ was imprisoned, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250814/p10#a250814p10)
- - [Why You Can’t Trust a Chatbot to Talk About Itself](https://www.wired.com/story/chatbot-llm-self-awareness/)
- - [Klarna, which is planning a potential NY IPO as soon as September, is focusing on its banking push to boost revenue while shedding its image as a BNPL phenom &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250814/p9#a250814p9)
- - [B-Vibe 360 Plug Review: Backdoor Fun](https://www.wired.com/review/b-vibe-360-plug/)
- - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 14, #325](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-14-325/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 14 #529](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-14-529/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 14, #795](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-14-795/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches Flight Deals, an AI tool within Google Flights to let users find fares using natural language queries, in beta in the US, Canada, and India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250814/p28#a250814p28)
+ - [The Apple Watch Is Finally Getting Blood Oxygen Sensing Back](https://www.wired.com/story/apple-watch-blood-oxygen-sensing-is-back/)
+ - [5G MacBook Pro hinted at in macOS Tahoe code](https://appleinsider.com/articles/25/08/14/5g-macbook-pro-hinted-at-in-macos-tahoe-code?utm_source=rss)
  - [Is streaming about to have a Wordle moment?](https://www.theverge.com/lowpass-newsletter/758917/streaming-gaming-netflix)
- - [Ex-Twitter CEO Parag Agrawal launches Parallel Web Systems to build infrastructure for AI agents to search the web, raising $30M from Khosla Ventures and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p27#a250814p27)
- - [M4 Ultra Mac Pro may still be in the works](https://appleinsider.com/articles/25/08/14/m4-ultra-mac-pro-may-still-be-in-the-works?utm_source=rss)
- - [Elon Musk’s gangster tech regulation comes for Apple](https://www.theverge.com/analysis/759338/elon-musk-apple-antitrust-app-store-ai-grok)
- - [Christian Militants Are Using Instagram to Recruit—and Becoming Influencers in the Process](https://www.wired.com/story/christian-militias-instagram-recruit-influencers/)<!-- TECH:END -->
+ - [Ex-Twitter CEO Parag Agrawal launches Parallel Web Systems to build infrastructure for AI agents to search the web, raising $30M from Khosla Ventures and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p27#a250814p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

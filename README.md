@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Monkey](http://9gag.com/gag/adBbbVB)
- - 😝 [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
- - 💣 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
- - 😝 [After four years of fighting an abusive, narcissistic mother and a broken legal system, my son can finally stay with me.... F**k you and see you tomorrow...](http://9gag.com/gag/axy4nZb)
- - 👉 [Flying you say?](http://9gag.com/gag/aryzzEX)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/axy44Bb)
+ - 😝 [Big elephant gives a polite warning to nuisance humans](http://9gag.com/gag/aQzVVrr)
+ - 💣 [Well now you know](http://9gag.com/gag/aRBDDMQ)
+ - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
+ - 👉 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)<!-- MEMES:END -->
 
 ---
 

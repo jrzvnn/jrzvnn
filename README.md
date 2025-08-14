@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/apR8dv9)
- - 😝 [Just got laid off recently could have done that haha can find another job no sweat](http://9gag.com/gag/a5QDyQo)
- - 💣 [Why most times comedy feels more real and reality feels like bad comedy](http://9gag.com/gag/aQzVrgK)
- - 😝 [If only there was a continent full of people with a similar faith. The Brits are now a minority in Birmingham.](http://9gag.com/gag/aqyApWv)
- - 👉 [`Engineered` by someone who never stepped on shit](http://9gag.com/gag/aND3qbA)<!-- MEMES:END -->
+ - 😝 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
+ - 😝 [Engine failure, no problem, just land in the field](http://9gag.com/gag/amondN2)
+ - 💣 [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
+ - 😝 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
+ - 👉 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)<!-- MEMES:END -->
 
 ---
 

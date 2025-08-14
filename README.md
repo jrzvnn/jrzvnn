@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [GPT-5 review: GPT-5-Thinking is a substantial upgrade over o3, Auto is only useful for free tier users, picking the right model still matters, and more &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/250813/p40#a250813p40)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-14/#ftag=CAD590a51e)
  - [India-based ride-hailing app Rapido starts testing its food delivery service Ownly in Bengaluru, marking its first serious move to challenge Swiggy and Zomato &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250813/p39#a250813p39)
  - [Lenovo reports Q1 revenue up 22% YoY to $18.8B, vs. $17.4B est., and net profit surged 108% YoY to $505M, vs. $307.7M est., despite challenges from US tariffs &lpar;Reuters&rpar;](http://www.techmeme.com/250813/p38#a250813p38)
- - [New Apple TV 4K &amp; HomePod mini coming soon with new chipsets](https://appleinsider.com/articles/25/08/14/apple-tv-4k-to-get-a17-pro-apple-intelligence-according-to-new-leak?utm_source=rss)
- - [TTP analysis: Google used an internal reorganization to reduce the amount it reported on US lobbying spending, likely by millions; Google disputes the claims &lpar;Ted Mann/Bloomberg&rpar;](http://www.techmeme.com/250813/p37#a250813p37)<!-- TECH:END -->
+ - [New Apple TV 4K &amp; HomePod mini coming soon with new chipsets](https://appleinsider.com/articles/25/08/14/apple-tv-4k-to-get-a17-pro-apple-intelligence-according-to-new-leak?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

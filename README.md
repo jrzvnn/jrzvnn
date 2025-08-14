@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B-Vibe 360 Plug Review: Backdoor Fun](https://www.wired.com/review/b-vibe-360-plug/)
+ - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)
+ - [I&#39;m a Hot Sleeper, and This $0 Cooling Trick Has Curbed My Night Sweats](https://www.cnet.com/health/sleep/im-a-hot-sleeper-and-this-0-cooling-trick-has-curbed-my-night-sweats/#ftag=CAD590a51e)
  - [Foxconn reports Q2 net operating profit up 27% YoY to ~$1.9B, beating estimates, on $59.73B revenue, on the strength of its growing AI server business &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250814/p8#a250814p8)
- - [Indian IT services company Infosys agrees to take a 75% stake in Versent Group, a cloud services provider wholly owned by Australia&#39;s Telstra Group, for ~$153M &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/250814/p7#a250814p7)
- - [Morgan Stanley: hyperscalers will fund about 50% of the $2.9T in future AI infrastructure through 2028, with debt, PE, VC, and other sources making up the rest &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250814/p6#a250814p6)
- - [Carlyle agrees to sell Amsterdam-based HSO, a Microsoft solutions integrator that serves 1,400 clients worldwide, to Bain Capital, sources say for $1B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250814/p5#a250814p5)
- - [A recent UK AI Security Institute study found that LLMs from OpenAI, Meta, xAI, and Alibaba can shift users&#39; political views in under 10 minutes of conversation &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250814/p4#a250814p4)<!-- TECH:END -->
+ - [Indian IT services company Infosys agrees to take a 75% stake in Versent Group, a cloud services provider wholly owned by Australia&#39;s Telstra Group, for ~$153M &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/250814/p7#a250814p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

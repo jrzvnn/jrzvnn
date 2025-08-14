@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes it is](http://9gag.com/gag/a7oAnXb)
- - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
- - 💣 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
- - 😝 [Statistic joke! But if it&#39;s 13 and 50 everyone&#39;s mad!](http://9gag.com/gag/aAyZmdd)
- - 👉 [Title](http://9gag.com/gag/apR8dv9)<!-- MEMES:END -->
+ - 😝 [US drivin](http://9gag.com/gag/ae9WRoq)
+ - 😝 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
+ - 💣 [Bad Monkey](http://9gag.com/gag/adBbbVB)
+ - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wild Animals always danger](http://9gag.com/gag/avym9wb)
  - 😝 [Legend was born](http://9gag.com/gag/aQzVrMz)
- - 😝 [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
- - 💣 [Flying you say?](http://9gag.com/gag/aryzzEX)
- - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
- - 👉 [Please, let&#39;s make it happen. For the love of decent humanity.](http://9gag.com/gag/aXPeGwD)<!-- MEMES:END -->
+ - 💣 [Please, let&#39;s make it happen. For the love of decent humanity.](http://9gag.com/gag/aXPeGwD)
+ - 😝 [After four years of fighting an abusive, narcissistic mother and a broken legal system, my son can finally stay with me.... F**k you and see you tomorrow...](http://9gag.com/gag/axy4nZb)
+ - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
 
 ---
 

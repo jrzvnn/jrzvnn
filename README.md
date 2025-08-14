@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes, a short and witty title](http://9gag.com/gag/a5QDyRy)
- - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
- - 💣 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
- - 😝 [After four years of fighting an abusive, narcissistic mother and a broken legal system, my son can finally stay with me.... F**k you and see you tomorrow...](http://9gag.com/gag/axy4nZb)
- - 👉 [Flying you say?](http://9gag.com/gag/aryzzEX)<!-- MEMES:END -->
+ - 😝 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
+ - 😝 [Title](http://9gag.com/gag/apR8dv9)
+ - 💣 [Employees enjoying themselves, what a concept](http://9gag.com/gag/aW49NMA)
+ - 😝 [Just got laid off recently could have done that haha can find another job no sweat](http://9gag.com/gag/a5QDyQo)
+ - 👉 [Please, let&#39;s make it happen. For the love of decent humanity.](http://9gag.com/gag/aXPeGwD)<!-- MEMES:END -->
 
 ---
 

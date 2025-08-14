@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant karma, served hot and steamy](http://9gag.com/gag/aAyZN1p)
+ - 😝 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
  - 😝 [Wild Animals always danger](http://9gag.com/gag/avym9wb)
- - 💣 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
+ - 💣 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
  - 😝 [Bad Monkey](http://9gag.com/gag/adBbbVB)
- - 👉 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)<!-- MEMES:END -->
+ - 👉 [UK: 13 year old girl arrested at McDonalds for being an &#39;unaccompanied minor&#39; meanwhile grooming gangs walk free.](http://9gag.com/gag/agmjZNw)<!-- MEMES:END -->
 
 ---
 

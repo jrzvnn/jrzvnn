@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verge readers can get a $25 exclusive discount on the Boox Palma 2](https://www.theverge.com/tech/759253/boox-palma-2-ebook-reader-deal-sale)
  - [Philips Hue’s new bridge could turn your lights into motion sensors](https://www.theverge.com/news/759240/philips-hue-leak-hue-bridge-pro-zigbee-motion-sensing)
  - [Toronto-based Cohere raised $500M led by Radical and Inovia at a $6.8B valuation, up from $5.5B in July 2024, and has doubled its ARR to $100M so far in 2025 &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250814/p25#a250814p25)
  - [Cohere hires Joelle Pineau, who previously led Meta&#39;s FAIR lab, as chief AI officer, to oversee AI strategy across Cohere&#39;s research, product, and policy teams &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250814/p24#a250814p24)
- - [The head of ChatGPT won’t rule out adding ads](https://www.theverge.com/news/759140/openai-chatgpt-ads-nick-turley-decoder)
- - [You can pivot this wireless smartphone power bank to charge an Apple Watch, too](https://www.theverge.com/news/759300/kuxiu-wireless-magsafe-magnetic-power-bank-charger)<!-- TECH:END -->
+ - [The head of ChatGPT won’t rule out adding ads](https://www.theverge.com/news/759140/openai-chatgpt-ads-nick-turley-decoder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

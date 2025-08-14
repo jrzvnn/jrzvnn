@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nobody knows such a person..](http://9gag.com/gag/avymXMZ)
- - 😝 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
- - 💣 [Come on Disney](http://9gag.com/gag/aXPeQX6)
- - 😝 [Confiscate this](http://9gag.com/gag/ae9WPyb)
- - 👉 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)<!-- MEMES:END -->
+ - 😝 [People are tired of ugly. &lpar;This girl is breathing \ud83d\udd25&rpar;](http://9gag.com/gag/aMVyWGA)
+ - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 💣 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
+ - 😝 [Way cool. Old school is priceless.](http://9gag.com/gag/aVvB4zd)
+ - 👉 [Acrobatic view](http://9gag.com/gag/amonKX9)<!-- MEMES:END -->
 
 ---
 

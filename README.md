@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You want sum?](http://9gag.com/gag/avymDPZ)
+ - 😝 [A Japanese guy trying to prove that something is not real](http://9gag.com/gag/aYQmmjq)
+ - 💣 [That horse said not today](http://9gag.com/gag/abAEmGB)
  - 😝 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
- - 😝 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
- - 💣 [Flying you say?](http://9gag.com/gag/aryzzEX)
- - 😝 [After four years of fighting an abusive, narcissistic mother and a broken legal system, my son can finally stay with me.... F**k you and see you tomorrow...](http://9gag.com/gag/axy4nZb)
- - 👉 [Last photo together](http://9gag.com/gag/adBb4KQ)<!-- MEMES:END -->
+ - 👉 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)<!-- MEMES:END -->
 
 ---
 

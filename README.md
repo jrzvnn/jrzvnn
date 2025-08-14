@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: xAI was part of a US government AI initiative alongside OpenAI, Anthropic, and Google, but was removed after Grok posted antisemitic content in July &lpar;Wired&rpar;](http://www.techmeme.com/250814/p32#a250814p32)
- - [Airbnb now lets you ‘pay later’ on vacation rentals](https://www.theverge.com/news/759637/airbnb-reserve-now-pay-later-stays)
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [Google announces Gemma 3 270M, a compact model designed for task-specific fine-tuning with strong capabilities in instruction following and text structuring &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250814/p31#a250814p31)
- - [Chefs Advise: Don&#39;t Waste Your Money on These 20 Pointless Kitchen Tools](https://www.cnet.com/news/chefs-advise-dont-waste-your-money-on-these-20-pointless-kitchen-tools/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26 beta 6 gets small build update, doesn&#39;t bring back blood oxygen sensor](https://appleinsider.com/articles/25/08/14/ios-26-beta-6-gets-small-build-update-doesnt-bring-back-blood-oxygen-sensor?utm_source=rss)
+ - [Nanoleaf&amp;#8217;s smart lights are cheaper than ever in its back-to-school sale](https://www.theverge.com/tech/759620/nanoleaf-back-to-school-deal-sale)
+ - [Sources: chip startup Rivos, which plans to release a GPU for inference as early as 2026, is seeking to raise between $400M and $500M at a $2B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/250814/p33#a250814p33)
+ - [A DOGE AI Tool Called SweetREX Is Coming to Slash US Government Regulation](https://www.wired.com/story/sweetrex-deregulation-ai-us-government-regulation-doge/)
+ - [Watch Our Livestream Replay: What GPT-5 Means for ChatGPT Users](https://www.wired.com/story/what-gpt-5-means-for-chatgpt-users/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

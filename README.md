@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess he learned his lesson](http://9gag.com/gag/a0ewWNq)
- - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - 💣 [Acrobatic view](http://9gag.com/gag/amonKX9)
  - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - 👉 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)<!-- MEMES:END -->
+ - 😝 [Guess he learned his lesson](http://9gag.com/gag/a0ewWNq)
+ - 💣 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 😝 [Way cool. Old school is priceless.](http://9gag.com/gag/aVvB4zd)
+ - 👉 [Acrobatic view](http://9gag.com/gag/amonKX9)<!-- MEMES:END -->
 
 ---
 

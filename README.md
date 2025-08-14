@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 😝 [Milk maid](http://9gag.com/gag/aAyZZg2)
- - 💣 [That horse said not today](http://9gag.com/gag/abAEmGB)
  - 😝 [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
- - 👉 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)<!-- MEMES:END -->
+ - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
+ - 💣 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
+ - 😝 [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)
+ - 👉 [Last photo together](http://9gag.com/gag/adBb4KQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)
- - 😝 [75 years and still functional](http://9gag.com/gag/apR8zp5)
- - 💣 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
- - 😝 [Acrobatic view](http://9gag.com/gag/amonKX9)
- - 👉 [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)<!-- MEMES:END -->
+ - 😝 [Guess he learned his lesson](http://9gag.com/gag/a0ewWNq)
+ - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
+ - 💣 [Acrobatic view](http://9gag.com/gag/amonKX9)
+ - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 👉 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)<!-- MEMES:END -->
 
 ---
 

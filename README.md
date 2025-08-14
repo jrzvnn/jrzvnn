@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wild Animals always danger](http://9gag.com/gag/avym9wb)
- - 😝 [Legend was born](http://9gag.com/gag/aQzVrMz)
+ - 😝 [Statistic joke! But if it&#39;s 13 and 50 everyone&#39;s mad!](http://9gag.com/gag/aAyZmdd)
+ - 😝 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
  - 💣 [Please, let&#39;s make it happen. For the love of decent humanity.](http://9gag.com/gag/aXPeGwD)
- - 😝 [After four years of fighting an abusive, narcissistic mother and a broken legal system, my son can finally stay with me.... F**k you and see you tomorrow...](http://9gag.com/gag/axy4nZb)
- - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
+ - 😝 [Employees enjoying themselves, what a concept](http://9gag.com/gag/aW49NMA)
+ - 👉 [Title](http://9gag.com/gag/apR8dv9)<!-- MEMES:END -->
 
 ---
 

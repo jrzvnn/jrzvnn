@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode](https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai)
+ - [xAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)
+ - [Anthropic expands Claude&#39;s Learning Mode, available only to Education users since an April launch, to all users, including two learning variants for Claude Code &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/250814/p30#a250814p30)
  - [Meta’s AI policies let chatbots get romantic with minors](https://www.theverge.com/news/759562/meta-ai-rules-chatbots-romantic-minors)
- - [Apple rolls out iOS 18.6.1, watchOS 11.6.1 with restored Blood Oxygen feature](https://appleinsider.com/articles/25/08/14/apple-rolls-out-ios-1861-watchos-1161-with-restored-blood-oxygen-feature?utm_source=rss)
- - [Stop using these ESR power banks that have been recalled for fire and explosion risks](https://www.theverge.com/news/759512/recall-esr-halolock-wireless-power-bank-2g520-2g505b-2g512b)
- - [HyperX&amp;#8217;s new gaming headset claims to last 250 hours on a single charge](https://www.theverge.com/news/759290/hyperxs-new-gaming-headset-claims-to-last-250-hours-on-a-single-charge)
- - [Acura’s RSX prototype is a taste of what’s to come with Honda Zero](https://www.theverge.com/honda/759331/acura-rsx-prototype-monterey-honda-zero-asimo)<!-- TECH:END -->
+ - [Apple rolls out iOS 18.6.1, watchOS 11.6.1 with restored Blood Oxygen feature](https://appleinsider.com/articles/25/08/14/apple-rolls-out-ios-1861-watchos-1161-with-restored-blood-oxygen-feature?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

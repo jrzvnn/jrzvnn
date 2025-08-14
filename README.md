@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: xAI was part of a US government AI initiative alongside OpenAI, Anthropic, and Google, but was removed after Grok posted antisemitic content in July &lpar;Wired&rpar;](http://www.techmeme.com/250814/p32#a250814p32)
  - [Airbnb now lets you ‘pay later’ on vacation rentals](https://www.theverge.com/news/759637/airbnb-reserve-now-pay-later-stays)
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
  - [Google announces Gemma 3 270M, a compact model designed for task-specific fine-tuning with strong capabilities in instruction following and text structuring &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250814/p31#a250814p31)
- - [History repeating: Why Apple is so late to the foldable phone market](https://appleinsider.com/articles/25/08/14/history-repeating-why-apple-is-so-late-to-the-foldable-phone-market?utm_source=rss)
- - [Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode](https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai)
- - [xAI Was About to Land a Major Government Contract. Then Grok Praised Hitler](https://www.wired.com/story/xai-grok-government-contract-hitler/)<!-- TECH:END -->
+ - [Chefs Advise: Don&#39;t Waste Your Money on These 20 Pointless Kitchen Tools](https://www.cnet.com/news/chefs-advise-dont-waste-your-money-on-these-20-pointless-kitchen-tools/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
- - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
- - 💣 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
- - 😝 [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)
+ - 😝 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
+ - 💣 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 😝 [Nobody knows such a person..](http://9gag.com/gag/avymXMZ)
  - 👉 [Last photo together](http://9gag.com/gag/adBb4KQ)<!-- MEMES:END -->
 
 ---

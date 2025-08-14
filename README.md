@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked code references upcoming Studio Display &amp; possible other new monitors](https://appleinsider.com/articles/25/08/14/leaked-code-references-upcoming-studio-display-possible-other-new-monitors?utm_source=rss)
+ - [iPad mini 8 to feature OLED &amp; A19 Pro](https://appleinsider.com/articles/25/08/14/ipad-mini-8-to-feature-oled-a19-pro?utm_source=rss)
+ - [Leaked code suggests Apple Vision Pro to get M5 after all](https://appleinsider.com/articles/25/08/13/leaked-code-suggests-apple-vision-pro-to-get-m5-after-all?utm_source=rss)
  - [Google plans to spend $9B in Oklahoma over two years on cloud and AI infrastructure, including a new data center campus and an expansion of its Pryor facility &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/250813/p36#a250813p36)
- - [Apple Watch Series 11 to feature minor upgrades in S11 chipset](https://appleinsider.com/articles/25/08/13/apple-watch-series-11-to-feature-minor-upgrades-in-s11-chipset?utm_source=rss)
- - [OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs](https://www.wired.com/story/openai-gpt5-safety/)
- - [Best Internet Providers in San Antonio, Texas](https://www.cnet.com/home/internet/best-internet-providers-in-san-antonio-tx/#ftag=CAD590a51e)
- - [xAI co-founder Igor Babuschkin, who led its engineering teams, says he is leaving the company to launch a venture firm that supports AI research and startups &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250813/p35#a250813p35)<!-- TECH:END -->
+ - [Apple Watch Series 11 to feature minor upgrades in S11 chipset](https://appleinsider.com/articles/25/08/13/apple-watch-series-11-to-feature-minor-upgrades-in-s11-chipset?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

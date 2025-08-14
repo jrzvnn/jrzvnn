@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A recent UK AI Security Institute study found that LLMs from OpenAI, Meta, xAI, and Alibaba can shift users&#39; political views in under 10 minutes of conversation &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250814/p4#a250814p4)
  - [Companies, including Google and Cisco, have reinstated in-person interviews for some roles to combat AI-driven cheating, with some using deepfake detection tech &lpar;Ray A. Smith/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p3#a250814p3)
  - [Blue Apron Coupon &amp; Promo Codes: $25 Off | August 2025](https://www.wired.com/story/blue-apron-coupon/)
  - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/)
- - [Sources: DeepSeek R2&#39;s launch delay is due to training issues on Huawei Ascend chips, prompting a switch to Nvidia chips for training and Huawei&#39;s for inference &lpar;Financial Times&rpar;](http://www.techmeme.com/250814/p2#a250814p2)
- - [Microsoft Windows head Pavan Davuluri says the next Windows version will be more ambient, pervasive and multi-modal, with voice becoming more important &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250814/p1#a250814p1)<!-- TECH:END -->
+ - [Sources: DeepSeek R2&#39;s launch delay is due to training issues on Huawei Ascend chips, prompting a switch to Nvidia chips for training and Huawei&#39;s for inference &lpar;Financial Times&rpar;](http://www.techmeme.com/250814/p2#a250814p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

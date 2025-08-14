@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People are tired of ugly. &lpar;This girl is breathing \ud83d\udd25&rpar;](http://9gag.com/gag/aMVyWGA)
- - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - 💣 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
- - 😝 [Way cool. Old school is priceless.](http://9gag.com/gag/aVvB4zd)
+ - 😝 [Welcome party at the nudist campsite!](http://9gag.com/gag/abAEERB)
+ - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
  - 👉 [Acrobatic view](http://9gag.com/gag/amonKX9)<!-- MEMES:END -->
 
 ---

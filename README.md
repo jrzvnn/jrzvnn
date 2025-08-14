@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If jealousy had a face](http://9gag.com/gag/aO8Gjmr)
  - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
- - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 💣 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
+ - 💣 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
  - 😝 [9gag comment section sharing 1 brain cell](http://9gag.com/gag/azxQDoj)
- - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
+ - 👉 [Last photo together](http://9gag.com/gag/adBb4KQ)<!-- MEMES:END -->
 
 ---
 

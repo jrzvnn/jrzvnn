@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Trump Flip-Flopped on Nvidia Selling H20 Chips to China](https://www.wired.com/story/nvidia-chips-export-controls-trump-h20-security/)
  - [Sources: the Trump administration is in talks with Intel to have the US government potentially take a stake in the company; INTC jumps 6%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p35#a250814p35)
  - [Apple TV+ remains a contender for Sunday Night Baseball rights](https://appleinsider.com/articles/25/08/14/apple-tv-remains-a-contender-for-sunday-night-baseball-rights?utm_source=rss)
  - [China is about to launch SSDs so small you insert them like a SIM card](https://www.theverge.com/news/759624/china-is-about-to-launch-ssds-so-small-you-insert-them-like-a-sim-card)
- - [Bluesky revises its policies and Community Guidelines to comply with new regulations, including the EU DSA, UK Online Safety Act, and US Take It Down Act &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250814/p34#a250814p34)
- - [Inside the Biden Administration&#39;s Gamble to Freeze China’s AI Future](https://www.wired.com/story/chips-china-artificial-intelligence-controls/)<!-- TECH:END -->
+ - [Bluesky revises its policies and Community Guidelines to comply with new regulations, including the EU DSA, UK Online Safety Act, and US Take It Down Act &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250814/p34#a250814p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

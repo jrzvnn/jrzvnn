@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Fortnite login is down](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 15, #326](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-15-326/#ftag=CAD590a51e)
  - [Google Will Now Blur Nude Photos in Your Messages. Here&#39;s How to Turn It On &lpar;or Off&rpar;](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 15 #530](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-15-530/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 15, #796](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-15-796/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)
+ - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
+ - [AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill](https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

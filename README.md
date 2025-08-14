@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
- - 😝 [Old but gold](http://9gag.com/gag/a9yBBoo)
- - 💣 [Respect](http://9gag.com/gag/a9yBB40)
- - 😝 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
- - 👉 [`Engineered` by someone who never stepped on shit](http://9gag.com/gag/aND3qbA)<!-- MEMES:END -->
+ - 😝 [Bad Monkey](http://9gag.com/gag/adBbbVB)
+ - 😝 [Uuuggghhhh](http://9gag.com/gag/aByo4ZD)
+ - 💣 [My whole life has been a lie](http://9gag.com/gag/adBbbQ9)
+ - 😝 [After four years of fighting an abusive, narcissistic mother and a broken legal system, my son can finally stay with me.... F**k you and see you tomorrow...](http://9gag.com/gag/axy4nZb)
+ - 👉 [Flying you say?](http://9gag.com/gag/aryzzEX)<!-- MEMES:END -->
 
 ---
 

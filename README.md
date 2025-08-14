@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian IT services company Infosys agrees to take a 75% stake in Versent Group, a cloud services provider wholly owned by Australia&#39;s Telstra Group, for ~$153M &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/250814/p7#a250814p7)
+ - [Morgan Stanley: hyperscalers will fund about 50% of the $2.9T in future AI infrastructure through 2028, with debt, PE, VC, and other sources making up the rest &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250814/p6#a250814p6)
  - [Carlyle agrees to sell Amsterdam-based HSO, a Microsoft solutions integrator that serves 1,400 clients worldwide, to Bain Capital, sources say for $1B &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/250814/p5#a250814p5)
  - [A recent UK AI Security Institute study found that LLMs from OpenAI, Meta, xAI, and Alibaba can shift users&#39; political views in under 10 minutes of conversation &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250814/p4#a250814p4)
- - [Companies, including Google and Cisco, have reinstated in-person interviews for some roles to combat AI-driven cheating, with some using deepfake detection tech &lpar;Ray A. Smith/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p3#a250814p3)
- - [Blue Apron Coupon &amp; Promo Codes: $25 Off | August 2025](https://www.wired.com/story/blue-apron-coupon/)
- - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/)<!-- TECH:END -->
+ - [Companies, including Google and Cisco, have reinstated in-person interviews for some roles to combat AI-driven cheating, with some using deepfake detection tech &lpar;Ray A. Smith/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p3#a250814p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

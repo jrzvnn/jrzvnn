@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 😝 [That horse said not today](http://9gag.com/gag/abAEmGB)
- - 💣 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 😝 [Bird tries to build a nest for a cat friend after discovering she&#39;s pregnant](http://9gag.com/gag/a0ewzPO)
- - 👉 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)<!-- MEMES:END -->
+ - 😝 [6 national leaders took part in today\u2019s pre-Alaska phone call between Trump &amp; Zelensky:](http://9gag.com/gag/a87znNp)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 😝 [Boom!](http://9gag.com/gag/aGybNmw)
+ - 👉 [That horse said not today](http://9gag.com/gag/abAEmGB)<!-- MEMES:END -->
 
 ---
 

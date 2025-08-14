@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s AirPods Max are $70 off in every color](https://www.theverge.com/tech/759392/apple-airpods-max-pixel-9-eufy-deal-sale)
- - [Q&amp;A with OpenAI VP and Head of ChatGPT Nick Turley on ChatGPT&#39;s future, showing ads in chatbots, hallucinations, GPT-5 blowback, 4o, subscriptions, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250814/p29#a250814p29)
- - [Price war: Apple&#39;s M4 Pro MacBook Pro drops to $1,699](https://appleinsider.com/articles/25/08/14/price-war-apples-m4-pro-macbook-pro-drops-to-1699?utm_source=rss)
- - [The Verge’s 2025 back-to-school shopping guide](https://www.theverge.com/tech/707770/back-to-school-supplies-gifts-college-high-school-dorm-essentials-2025)
- - [Google Flights can help you book a trip when you don’t know where to go](https://www.theverge.com/news/759444/google-flight-deals-ai-update-travel-ideas)<!-- TECH:END -->
+ - [Meta’s AI policies let chatbots get romantic with minors](https://www.theverge.com/news/759562/meta-ai-rules-chatbots-romantic-minors)
+ - [Apple rolls out iOS 18.6.1, watchOS 11.6.1 with restored Blood Oxygen feature](https://appleinsider.com/articles/25/08/14/apple-rolls-out-ios-1861-watchos-1161-with-restored-blood-oxygen-feature?utm_source=rss)
+ - [Stop using these ESR power banks that have been recalled for fire and explosion risks](https://www.theverge.com/news/759512/recall-esr-halolock-wireless-power-bank-2g520-2g505b-2g512b)
+ - [HyperX&amp;#8217;s new gaming headset claims to last 250 hours on a single charge](https://www.theverge.com/news/759290/hyperxs-new-gaming-headset-claims-to-last-250-hours-on-a-single-charge)
+ - [Acura’s RSX prototype is a taste of what’s to come with Honda Zero](https://www.theverge.com/honda/759331/acura-rsx-prototype-monterey-honda-zero-asimo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

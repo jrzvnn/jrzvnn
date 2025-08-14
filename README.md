@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
- - 😝 [Reuplaod cause John China keep deleting it](http://9gag.com/gag/aQzVrq2)
- - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
- - 😝 [Just got laid off recently could have done that haha can find another job no sweat](http://9gag.com/gag/a5QDyQo)
- - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
+ - 😝 [Instant karma, served hot and steamy](http://9gag.com/gag/aAyZN1p)
+ - 😝 [Wild Animals always danger](http://9gag.com/gag/avym9wb)
+ - 💣 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
+ - 😝 [Bad Monkey](http://9gag.com/gag/adBbbVB)
+ - 👉 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
- - 😝 [Wild Animals always danger](http://9gag.com/gag/avym9wb)
- - 💣 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
- - 😝 [Bad Monkey](http://9gag.com/gag/adBbbVB)
- - 👉 [UK: 13 year old girl arrested at McDonalds for being an &#39;unaccompanied minor&#39; meanwhile grooming gangs walk free.](http://9gag.com/gag/agmjZNw)<!-- MEMES:END -->
+ - 😝 [Legend was born](http://9gag.com/gag/aQzVrMz)
+ - 😝 [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
+ - 💣 [Flying you say?](http://9gag.com/gag/aryzzEX)
+ - 😝 [You can thank me later. Or not](http://9gag.com/gag/adBbbMD)
+ - 👉 [Please, let&#39;s make it happen. For the love of decent humanity.](http://9gag.com/gag/aXPeGwD)<!-- MEMES:END -->
 
 ---
 

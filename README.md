@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How Anxious](http://9gag.com/gag/awyve41)
- - 😝 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
- - 💣 [Title](http://9gag.com/gag/apR8dv9)
- - 😝 [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
- - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
+ - 😝 [After every long hardship there will be a beautiful peace](http://9gag.com/gag/axy4A4M)
+ - 😝 [Massive solar flare](http://9gag.com/gag/ae9Wdem)
+ - 💣 [Statistic joke! But if it&#39;s 13 and 50 everyone&#39;s mad!](http://9gag.com/gag/aAyZmdd)
+ - 😝 [Employees enjoying themselves, what a concept](http://9gag.com/gag/aW49NMA)
+ - 👉 [`Engineered` by someone who never stepped on shit](http://9gag.com/gag/aND3qbA)<!-- MEMES:END -->
 
 ---
 

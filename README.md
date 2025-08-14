@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes comments are even better then a post](http://9gag.com/gag/aPAnn4n)
- - 😝 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)
- - 💣 [I&#39;m easily amused](http://9gag.com/gag/aD2MM2w)
- - 😝 [Well now you know](http://9gag.com/gag/aRBDDMQ)
- - 👉 [Flying you say?](http://9gag.com/gag/aryzzEX)<!-- MEMES:END -->
+ - 😝 [How Anxious](http://9gag.com/gag/awyve41)
+ - 😝 [Oi, mate! You gotta loicense to speak to females?!](http://9gag.com/gag/aGybb40)
+ - 💣 [Title](http://9gag.com/gag/apR8dv9)
+ - 😝 [I&#39;m tired, boss.](http://9gag.com/gag/a34nn5m)
+ - 👉 [And they say romance is dead...](http://9gag.com/gag/aqyAdgL)<!-- MEMES:END -->
 
 ---
 

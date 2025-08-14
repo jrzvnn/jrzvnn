@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill](https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/)
+ - [Supreme Court opens door to social media age-gating in US](https://www.theverge.com/news/759769/supreme-court-mississippi-age-gating-social-media-ruling)
  - [SCOTUS rejects NetChoice&#39;s emergency appeal to block a Mississippi law that requires age verification and parental consent for teens to join social networks &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p37#a250814p37)
  - [Sources: Lambda is in talks for a funding round that could value the cloud services company between $4B and $5B ahead of a potential IPO by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p36#a250814p36)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
- - [The 10 Best Movies Peacock Has to Offer](https://www.cnet.com/culture/entertainment/peacock-best-movies-2025/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 15, #1518](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-15-1518/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

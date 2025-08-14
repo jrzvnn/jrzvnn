@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arkham Intelligence: SpaceX now holds 8,285 bitcoin, valued at ~$1.02B, down from 28,000 bitcoin worth $1.8B in April 2021 after cutting its holdings in 2022 &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250814/p17#a250814p17)
  - [iPhone 17 Pro&#39;s all-aluminum chassis shown in new leak](https://appleinsider.com/articles/25/08/14/iphone-17-pros-all-aluminum-chassis-shown-in-new-leak?utm_source=rss)
  - [Everything we think we know about the Google Pixel 10 phones](https://www.theverge.com/news/713081/google-pixel-10-pro-xl-fold-rumors-specs-price-release-date)
  - [I Replaced My Mac With an iPad for an Entire Week. It Went as Well as You’d Expect](https://www.wired.com/story/i-replaced-my-mac-with-an-ipad-for-an-entire-week-it-went-as-well-as-youd-expect/)
- - [A deep dive on Big Tech&#39;s AI energy boom as Amazon, Microsoft, and Google become major players, leading to fears that individuals&#39; and SMBs&#39; rates may rise &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p16#a250814p16)
- - [As Apple closes one China store, it opens another one in Shenzen](https://appleinsider.com/articles/25/08/14/as-apple-closes-one-china-store-it-opens-another-one-in-shenzen?utm_source=rss)<!-- TECH:END -->
+ - [A deep dive on Big Tech&#39;s AI energy boom as Amazon, Microsoft, and Google become major players, leading to fears that individuals&#39; and SMBs&#39; rates may rise &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p16#a250814p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

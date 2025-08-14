@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple home robots wouldn&#39;t exist without the abandoned Apple Car](https://appleinsider.com/articles/25/08/14/apple-home-robots-wouldnt-exist-without-the-abandoned-apple-car?utm_source=rss)
+ - [The head of ChatGPT on AI attachment, ads, and what’s next](https://www.theverge.com/decoder-podcast-with-nilay-patel/758873/chatgpt-nick-turley-openai-ai-gpt-5-interview)
+ - [UK porn site traffic tumbles following age gating rules](https://www.theverge.com/news/759234/uk-porn-site-traffic-tumbles-age-verification-rules)
  - [HTC is getting in on AI glasses, too](https://www.theverge.com/news/759221/htc-vive-eagle-ai-smart-glasses)
- - [Apple Watch getting blood oxygen sensor back after 18 month absence](https://appleinsider.com/articles/25/08/14/apple-watch-getting-blood-oxygen-sensor-back-after-18-month-absence?utm_source=rss)
- - [Shopify CEO Tobi Lutke, Tyler and Cameron Winklevoss, and 80+ fintech and crypto CEOs urge Trump to block US banks from charging fees to access customer data &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250814/p23#a250814p23)
- - [Google Messages rolls out Sensitive Content Warnings on Android to blur nude images for signed-in users; Android System SafetyCore powers on-device processing &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250814/p22#a250814p22)
- - [Senators Press Howard Lutnick’s Former Investment Firm Over Tariff Conflict of Interest Concerns](https://www.wired.com/story/senators-probe-cantor-fitzgerald-tariffs/)<!-- TECH:END -->
+ - [Apple Watch getting blood oxygen sensor back after 18 month absence](https://appleinsider.com/articles/25/08/14/apple-watch-getting-blood-oxygen-sensor-back-after-18-month-absence?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

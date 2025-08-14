@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill](https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/)
  - [Supreme Court opens door to social media age-gating in US](https://www.theverge.com/news/759769/supreme-court-mississippi-age-gating-social-media-ruling)
+ - [When to Watch &#39;South Park&#39; Season 27, Episode 3](https://www.cnet.com/tech/services-and-software/when-to-watch-south-park-season-27-episode-3/#ftag=CAD590a51e)
  - [SCOTUS rejects NetChoice&#39;s emergency appeal to block a Mississippi law that requires age verification and parental consent for teens to join social networks &lpar;New York Times&rpar;](http://www.techmeme.com/250814/p37#a250814p37)
- - [Sources: Lambda is in talks for a funding round that could value the cloud services company between $4B and $5B ahead of a potential IPO by the end of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p36#a250814p36)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Need Wordle Hints? Here&#39;s the Answer and Help for Aug. 14, #1517](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-14-1517/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

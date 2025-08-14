@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Binance co-founder Yi He on growing up poor in China, the tests she faced during Binance&#39;s year of crisis when CZ was imprisoned, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250814/p10#a250814p10)
+ - [Why You Can’t Trust a Chatbot to Talk About Itself](https://www.wired.com/story/chatbot-llm-self-awareness/)
+ - [Klarna, which is planning a potential NY IPO as soon as September, is focusing on its banking push to boost revenue while shedding its image as a BNPL phenom &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250814/p9#a250814p9)
  - [B-Vibe 360 Plug Review: Backdoor Fun](https://www.wired.com/review/b-vibe-360-plug/)
- - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)
- - [I&#39;m a Hot Sleeper, and This $0 Cooling Trick Has Curbed My Night Sweats](https://www.cnet.com/health/sleep/im-a-hot-sleeper-and-this-0-cooling-trick-has-curbed-my-night-sweats/#ftag=CAD590a51e)
- - [Foxconn reports Q2 operating profit up 27% YoY to ~$1.9B, above $1.6B est., and $59.73B in revenue, above est., driven by its growing AI server business &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250814/p8#a250814p8)
- - [Indian IT services company Infosys agrees to take a 75% stake in Versent Group, a cloud services provider wholly owned by Australia&#39;s Telstra Group, for ~$153M &lpar;Hritam Mukherjee/Reuters&rpar;](http://www.techmeme.com/250814/p7#a250814p7)<!-- TECH:END -->
+ - [Cowboy’s e-bikes granted a second life](https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

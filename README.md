@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JD.com reports Q2 revenue up 22% YoY to $49.7B, above $46.8B est., and net income down 50% YoY to ~$846M, benefiting from government-directed consumer subsidies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250814/p13#a250814p13)
+ - [Q&amp;A with researcher Petter Törnberg on his pre-print study showing how social media&#39;s structural architecture creates problematic outcomes like echo chambers &lpar;Jennifer Ouellette/Ars Technica&rpar;](http://www.techmeme.com/250814/p12#a250814p12)
  - [Adyen reports H1 2025 net revenue up 20% YoY to €1.09B, vs. €1.11B est., processed volume up 5% YoY to €649B, and EBITDA up 28% YoY to €543.7M; ADYEN falls 17%+ &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/250814/p11#a250814p11)
- - [An interview with Binance co-founder Yi He on growing up poor in China, the tests she faced during Binance&#39;s year of crisis when CZ was imprisoned, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250814/p10#a250814p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 14, #325](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-14-325/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 14 #529](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-14-529/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 14, #795](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-14-795/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Binance co-founder Yi He on growing up poor in China, the challenges she faced during Binance&#39;s year of crisis when CZ was in prison, and more &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250814/p10#a250814p10)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 14, #325](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-14-325/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

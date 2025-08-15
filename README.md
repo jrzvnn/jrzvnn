@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Federal Reserve continues its relaxation of crypto oversight by ending a program created in 2023 to scrutinize fintech and crypto activities by banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250815/p16#a250815p16)
  - [Sen. Josh Hawley launches a probe of Meta following a report on its AI policy allowing sensual chats with kids, tells Zuckerberg to produce docs by September 19 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250815/p15#a250815p15)
- - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)
- - [Decoding Palantir, the Most Mysterious Company in Silicon Valley](https://www.wired.com/story/uncanny-valley-podcast-palantir-most-mysterious-company-silicon-valley/)
- - [Louisiana sues Roblox for creating an environment where &amp;#8216;child predators thrive&amp;#8217;](https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [These 12 Foods Turned Out to Be Way Healthier Than I Thought](https://www.cnet.com/health/nutrition/these-12-foods-turned-out-to-be-way-healthier-than-i-thought/#ftag=CAD590a51e)
+ - [The Peanuts Gang Is Back With Apple TV Plus Summer Musical](https://www.cnet.com/tech/services-and-software/the-peanuts-gang-is-back-with-apple-tv-plus-summer-musical/#ftag=CAD590a51e)
+ - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

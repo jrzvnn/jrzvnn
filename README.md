@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Cheapfake’ AI Celeb Videos Are Rage-Baiting People on YouTube](https://www.wired.com/story/cheapfake-ai-celeb-videos-are-rage-baiting-people-on-youtube/)
- - [The Pixel 10 Pro Fold’s full specs may have just leaked](https://www.theverge.com/news/759877/google-pixel-10-pro-fold-full-spec-leak)
- - [Looking for More iPhone Battery Life? Adaptive Power in iOS 26 Should Provide a Boost](https://www.cnet.com/tech/mobile/looking-for-more-iphone-battery-life-adaptive-power-in-ios-26-should-provide-a-boost/#ftag=CAD590a51e)
- - [An interview with Sam Altman on spending billions on AI infrastructure, wanting Chrome if it&#39;s really selling, AI models saturating the chat use case, and more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250815/p3#a250815p3)
- - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)<!-- TECH:END -->
+ - [SoftBank-owned PayPay files for a US listing; sources: PayPay aims to raise $2B+ at a $10B+ valuation, and the listing could happen by the end of the year &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250815/p5#a250815p5)
+ - [Inside Apple&#39;s QuickTime Player - A surprisingly sophisticated video tool on Mac](https://appleinsider.com/inside/macos/tips/inside-apples-quicktime-player---a-surprisingly-sophisticated-video-tool-on-mac?utm_source=rss)
+ - [Meta&#39;s standalone Meta AI app, launched in April 2025, offers an uneven experience, often hallucinating facts and failing to provide personalized responses &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p4#a250815p4)
+ - [Tired of Those Constant Nighttime Pee Runs? Treat the Tinkles With These Tips](https://www.cnet.com/health/sleep/tired-of-those-constant-nighttime-pee-runs-treat-the-tinkles-with-these-tips/#ftag=CAD590a51e)
+ - [Velocity Raptor Z95A Gaming PC Shows What Leaving It to the Pros Looks Like](https://www.cnet.com/tech/computing/velocity-raptor-z95a-gaming-pc-shows-what-leaving-it-to-the-pros-looks-like/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

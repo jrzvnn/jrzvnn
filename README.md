@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)
+ - [Battlefield 6 Beta Double XP Exclusive to PS Plus and Other Changes For Weekend Two](https://www.cnet.com/tech/gaming/battlefield-6-beta-double-xp-exclusive-to-ps-plus-and-other-changes-for-weekend-two/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Aug. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-aug-15/#ftag=CAD590a51e)
  - [Accenture plans to acquire Australian cybersecurity company CyberCX from private equity firm BGH Capital; the deal reportedly values CyberCX at more than AU$1B &lpar;Mark Anderson/Bloomberg Law&rpar;](http://www.techmeme.com/250814/p43#a250814p43)
- - [Foxconn&#39;s AI server business surged 60%+ YoY in Q2, surpassing revenue from Apple-related products for the first time, and is projected to grow 170% YoY in Q3 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250814/p42#a250814p42)
- - [Sen. Josh Hawley calls for a congressional probe into Meta after a report on its AI policy allowing sensual chats with kids; Sen. Marsha Blackburn backs a probe &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250814/p41#a250814p41)
- - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)<!-- TECH:END -->
+ - [Foxconn&#39;s AI server business surged 60%+ YoY in Q2, surpassing revenue from Apple-related products for the first time, and is projected to grow 170% YoY in Q3 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250814/p42#a250814p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

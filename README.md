@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 😝 [75 years and still functional](http://9gag.com/gag/apR8zp5)
+ - 😝 [Come on Disney](http://9gag.com/gag/aXPeQX6)
+ - 💣 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
  - 😝 [FAFO](http://9gag.com/gag/apR8nGE)
- - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
+ - 👉 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)<!-- MEMES:END -->
 
 ---
 

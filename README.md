@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 😝 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
- - 💣 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
- - 😝 [Not all heroes wear capes, some just carry a paint roller](http://9gag.com/gag/apR8zZM)
- - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
+ - 😝 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)
+ - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
+ - 💣 [Murrica](http://9gag.com/gag/axy4QZp)
+ - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
+ - 👉 [75 years and still functional](http://9gag.com/gag/apR8zp5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch, iPhone 17, and the M6 MacBook Pro on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/15/apple-watch-iphone-17-and-the-m6-macbook-pro-on-the-appleinsider-podcast?utm_source=rss)
  - [Sources: some N26 investors seek to replace its co-CEOs after German regulator Bafin identified new deficiencies in the digital bank&#39;s internal controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p6#a250815p6)
  - [Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have](https://www.wired.com/review/dyson-airwrap-co-anda2x/)
  - [SoftBank-owned PayPay files for a US listing; sources: PayPay aims to raise $2B+ at a $10B+ valuation, and the listing could happen by the end of the year &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250815/p5#a250815p5)
- - [Inside Apple&#39;s QuickTime Player - A surprisingly sophisticated video tool on Mac](https://appleinsider.com/inside/macos/tips/inside-apples-quicktime-player---a-surprisingly-sophisticated-video-tool-on-mac?utm_source=rss)
- - [Meta&#39;s standalone Meta AI app, launched in April 2025, offers an uneven experience, often hallucinating facts and failing to provide personalized responses &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p4#a250815p4)<!-- TECH:END -->
+ - [Inside Apple&#39;s QuickTime Player - A surprisingly sophisticated video tool on Mac](https://appleinsider.com/inside/macos/tips/inside-apples-quicktime-player---a-surprisingly-sophisticated-video-tool-on-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

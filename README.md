@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
- - 💣 [Wild ride](http://9gag.com/gag/aAyZLVd)
+ - 😝 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 😝 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
+ - 💣 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
  - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
- - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
+ - 👉 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)<!-- MEMES:END -->
 
 ---
 

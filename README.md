@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Charging rhino is a good reason to stand still](http://9gag.com/gag/avymXWM)
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 💣 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
- - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
+ - 😝 [Place is garbage and has its own bots..](http://9gag.com/gag/aryz99p)
+ - 😝 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)
+ - 💣 [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
 
 ---
 

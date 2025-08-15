@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity](https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/)
- - [Appfigures: ChatGPT&#39;s app for iOS and Android hit $2B in global consumer spending, including $1.35B so far in 2025, up 673% YoY; Grok made ~$25.6M this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250815/p12#a250815p12)
- - [The Peanuts Gang Is Back With Apple TV Plus Summer Musical](https://www.cnet.com/tech/services-and-software/the-peanuts-gang-is-back-with-apple-tv-plus-summer-musical/#ftag=CAD590a51e)
- - [iPhone 17 Pro Max rumored to get big telephoto lens upgrade](https://appleinsider.com/articles/25/08/15/iphone-17-pro-max-rumored-to-get-big-telephoto-lens-upgrade?utm_source=rss)
- - [Berkshire Hathaway trims Apple stake but keeps it as largest holding](https://appleinsider.com/articles/25/08/15/berkshire-hathaway-trims-apple-stake-but-keeps-it-as-largest-holding?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 Pro Max leak points to lighter frame &amp; bigger battery](https://appleinsider.com/articles/25/08/15/iphone-17-pro-max-leak-points-to-lighter-frame-bigger-battery?utm_source=rss)
+ - [MacBook Pro notch might be making your games blurry](https://appleinsider.com/articles/25/08/15/macbook-pro-notch-might-be-making-your-games-blurry?utm_source=rss)
+ - [A treaty to end plastic pollution is still out of reach — that’s not necessarily a bad thing](https://www.theverge.com/news/760058/plastic-pollution-treaty-negotiations-end)
+ - [Anthropic has new rules for a more dangerous AI landscape](https://www.theverge.com/news/760080/anthropic-updated-usage-policy-dangerous-ai-landscape)
+ - [Best Apple Watch &lpar;2025&rpar;: Buyer’s Guide to the Series 10 and SE](https://www.wired.com/gallery/best-apple-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

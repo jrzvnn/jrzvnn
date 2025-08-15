@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoreWeave investors sold more than $1B in shares as the IPO lockup ended; the stock held steady on Friday after dropping about 35% over the previous two days &lpar;Financial Times&rpar;](http://www.techmeme.com/250815/p17#a250815p17)
  - [The Federal Reserve continues its relaxation of crypto oversight by ending a program created in 2023 to scrutinize fintech and crypto activities by banks &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250815/p16#a250815p16)
  - [Sen. Josh Hawley launches a probe of Meta following a report on its AI policy allowing sensual chats with kids, tells Zuckerberg to produce docs by September 19 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250815/p15#a250815p15)
  - [These 12 Foods Turned Out to Be Way Healthier Than I Thought](https://www.cnet.com/health/nutrition/these-12-foods-turned-out-to-be-way-healthier-than-i-thought/#ftag=CAD590a51e)
- - [The Peanuts Gang Is Back With Apple TV Plus Summer Musical](https://www.cnet.com/tech/services-and-software/the-peanuts-gang-is-back-with-apple-tv-plus-summer-musical/#ftag=CAD590a51e)
- - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)<!-- TECH:END -->
+ - [The Peanuts Gang Is Back With Apple TV Plus Summer Musical](https://www.cnet.com/tech/services-and-software/the-peanuts-gang-is-back-with-apple-tv-plus-summer-musical/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [75 years and still functional](http://9gag.com/gag/apR8zp5)
- - 😝 [Come on Disney](http://9gag.com/gag/aXPeQX6)
- - 💣 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
- - 😝 [FAFO](http://9gag.com/gag/apR8nGE)
+ - 😝 [That&#39;s social engineering](http://9gag.com/gag/agmjpBx)
+ - 💣 [Come on Disney](http://9gag.com/gag/aXPeQX6)
+ - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
  - 👉 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)<!-- MEMES:END -->
 
 ---

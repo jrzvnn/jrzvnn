@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)
- - 😝 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
- - 💣 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 😝 [FAFO](http://9gag.com/gag/apR8nGE)
- - 👉 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)<!-- MEMES:END -->
+ - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
+ - 💣 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 

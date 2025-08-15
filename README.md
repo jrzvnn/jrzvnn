@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - 💣 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
+ - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
+ - 😝 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)
+ - 💣 [75 years and still functional](http://9gag.com/gag/apR8zp5)
+ - 😝 [Come on Disney](http://9gag.com/gag/aXPeQX6)
+ - 👉 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)<!-- MEMES:END -->
 
 ---
 

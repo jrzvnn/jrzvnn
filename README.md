@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 💣 [Smooth seller](http://9gag.com/gag/avymDgq)
- - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
- - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
+ - 😝 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
+ - 😝 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)
+ - 💣 [Bird tries to build a nest for a cat friend after discovering she&#39;s pregnant](http://9gag.com/gag/a0ewzPO)
+ - 😝 [Living the dream, 40 and still gaming](http://9gag.com/gag/aoyDAne)
+ - 👉 [Murrica](http://9gag.com/gag/axy4QZp)<!-- MEMES:END -->
 
 ---
 

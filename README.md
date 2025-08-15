@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [Picnic](http://9gag.com/gag/an7VW2L)
- - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 😝 [As it should be.](http://9gag.com/gag/aryzDBd)
- - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
+ - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
+ - 💣 [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
+ - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opendoor CEO Carrie Wheeler steps down, with Shrisha Radhakrishna named president and interim CEO; OPEN jumps 8%+ &lpar;Norah Mulinda/Bloomberg&rpar;](http://www.techmeme.com/250815/p10#a250815p10)
  - [Sam Altman says ‘yes,’ AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)
- - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout, confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)
- - [Vibe coding through the GPT-5 mess](https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts)
- - [For Legends: Z-A’s battle system, I rewired the Pokémon part of my brain](https://www.theverge.com/games/759788/pokemon-legends-z-a-battle-real-time-preview)
- - [Lucid reveals off-road version of Gravity SUV, which it has definitely sold more than 9 of](https://www.theverge.com/electric-cars/759910/lucid-reveals-off-road-version-of-gravity-suv-which-it-has-definitely-sold-more-than-9-of)<!-- TECH:END -->
+ - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout and confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)
+ - [Pokemon Legends: Z-A Hands-On: Trying Out Real-Time and Mega-Evolution Fights](https://www.cnet.com/tech/gaming/pokemon-legends-z-a-hands-on-trying-out-real-time-and-mega-evolution-fights/#ftag=CAD590a51e)
+ - [2025 iPhone Photography Award Winners Prove Any Phone Can Create Stunning Images](https://www.cnet.com/tech/mobile/2025-iphone-photography-award-winners-prove-any-phone-can-create-stunning-images/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

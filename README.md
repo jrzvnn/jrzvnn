@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - 💣 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
- - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
- - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
+ - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 😝 [FAFO](http://9gag.com/gag/apR8nGE)
+ - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
 
 ---
 

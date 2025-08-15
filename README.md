@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
- - 😝 [Instant karma, served hot and steamy](http://9gag.com/gag/aAyZN1p)
- - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
- - 👉 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)<!-- MEMES:END -->
+ - 😝 [Smooth seller](http://9gag.com/gag/avymDgq)
+ - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
+ - 💣 [You want sum?](http://9gag.com/gag/avymDPZ)
+ - 😝 [Living the dream, 40 and still gaming](http://9gag.com/gag/aoyDAne)
+ - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
 
 ---
 

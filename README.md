@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [75 years and still functional](http://9gag.com/gag/apR8zp5)
- - 😝 [That&#39;s social engineering](http://9gag.com/gag/agmjpBx)
- - 💣 [Come on Disney](http://9gag.com/gag/aXPeQX6)
- - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
- - 👉 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)<!-- MEMES:END -->
+ - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 😝 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
+ - 💣 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 👉 [Last photo together](http://9gag.com/gag/adBb4KQ)<!-- MEMES:END -->
 
 ---
 

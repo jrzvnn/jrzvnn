@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NewPipe protecting your privacy from YouTube](http://9gag.com/gag/aYQmZqV)
  - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
- - 😝 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
- - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
+ - 😝 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
+ - 💣 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
+ - 😝 [Not all heroes wear capes, some just carry a paint roller](http://9gag.com/gag/apR8zZM)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 

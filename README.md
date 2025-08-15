@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite login is down](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
- - [Google Will Now Blur Nude Photos in Your Messages. Here&#39;s How to Turn It On &lpar;or Off&rpar;](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)
- - [Source: AI coding startup Cognition raised nearly $500M led by Founders Fund, bringing its valuation to $9.8B, more than double the level earlier this year &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250814/p38#a250814p38)
- - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill](https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/)<!-- TECH:END -->
+ - [Fortnite login is mostly back after an outage](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
+ - [Anker Solix F3800 Plus portable power station review: investment in reliable home power](https://appleinsider.com/articles/25/08/15/anker-solix-f3800-plus-portable-power-station-review-investment-in-reliable-home-power?utm_source=rss)
+ - [Source: cloud startup Vercel has been approached by investors offering to invest hundreds of millions at an $8B-$9B valuation; it was valued at $3B last year &lpar;The Information&rpar;](http://www.techmeme.com/250814/p39#a250814p39)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 15, #326](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-15-326/#ftag=CAD590a51e)
+ - [Google Will Now Blur Nude Photos in Your Messages. Here&#39;s How to Turn It On &lpar;or Off&rpar;](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth seller](http://9gag.com/gag/avymDgq)
- - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 💣 [You want sum?](http://9gag.com/gag/avymDPZ)
- - 😝 [Living the dream, 40 and still gaming](http://9gag.com/gag/aoyDAne)
- - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
+ - 😝 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
+ - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - 💣 [Smooth seller](http://9gag.com/gag/avymDgq)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 👉 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)<!-- MEMES:END -->
 
 ---
 

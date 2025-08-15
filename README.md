@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
- - 😝 [Putin&#39;s welcome party in Anchorage](http://9gag.com/gag/a5QD9eL)
- - 💣 [75 years and still functional](http://9gag.com/gag/apR8zp5)
- - 😝 [Come on Disney](http://9gag.com/gag/aXPeQX6)
- - 👉 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)<!-- MEMES:END -->
+ - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
+ - 😝 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - 💣 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
+ - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
+ - 👉 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)<!-- MEMES:END -->
 
 ---
 

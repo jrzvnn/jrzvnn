@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baker catches fire on live TV while baking traditional Iranian bread](http://9gag.com/gag/aW49P1n)
+ - 😝 [Charging rhino is a good reason to stand still](http://9gag.com/gag/avymXWM)
  - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 💣 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
- - 😝 [As it should be.](http://9gag.com/gag/aryzDBd)
- - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
+ - 💣 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
 
 ---
 

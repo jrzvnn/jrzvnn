@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
  - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
  - 💣 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
- - 😝 [Wild ride](http://9gag.com/gag/aAyZLVd)
- - 👉 [Last photo together](http://9gag.com/gag/adBb4KQ)<!-- MEMES:END -->
+ - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 

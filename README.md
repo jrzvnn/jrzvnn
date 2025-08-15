@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman Says ChatGPT Is on Track to Out-Talk Humanity](https://www.wired.com/story/sam-altman-says-chatgpt-is-on-track-to-out-talk-humanity/)
+ - [Appfigures: ChatGPT&#39;s app for iOS and Android hit $2B in global consumer spending, including $1.35B so far in 2025, up 673% YoY; Grok made ~$25.6M this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250815/p12#a250815p12)
  - [iPhone 17 Pro Max rumored to get big telephoto lens upgrade](https://appleinsider.com/articles/25/08/15/iphone-17-pro-max-rumored-to-get-big-telephoto-lens-upgrade?utm_source=rss)
  - [Berkshire Hathaway trims Apple stake but keeps it as largest holding](https://appleinsider.com/articles/25/08/15/berkshire-hathaway-trims-apple-stake-but-keeps-it-as-largest-holding?utm_source=rss)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Premier League Soccer: Stream Liverpool vs. Bournemouth Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-bournemouth-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

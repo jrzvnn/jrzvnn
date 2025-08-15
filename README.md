@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The high school in my town lets the seniors paint their parking spaces. Ryan nailed it!](https://www.reddit.com/r/funny/comments/1mqwg4k/the_high_school_in_my_town_lets_the_seniors_paint/)
- - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
- - 💣 [75 years and still functional](http://9gag.com/gag/apR8zp5)
- - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
- - 👉 [Ryazan powder production plant. 15.08.2025](http://9gag.com/gag/apR8n0W)<!-- MEMES:END -->
+ - 😝 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - 😝 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
+ - 💣 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 😝 [Ryazan powder production plant. 15.08.2025](http://9gag.com/gag/apR8n0W)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 

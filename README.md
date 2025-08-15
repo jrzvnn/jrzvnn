@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers say they used generative AI algorithms to design novel antibiotics targeting drug-resistant Neisseria gonorrhoeae and MRSA &lpar;Anne Trafton/MIT News&rpar;](http://www.techmeme.com/250815/p14#a250815p14)
+ - [PBS is slashing its budget in response to Trump&amp;#8217;s attack on public media](https://www.theverge.com/news/760026/pbs-is-slashing-its-budget-in-response-to-trumps-attack-on-public-media)
  - [Developers Say GPT-5 Is a Mixed Bag](https://www.wired.com/story/gpt-5-coding-review-software-engineering/)
  - [Anthropic updates Claude usage policy, adding stricter cybersecurity rules and explicitly banning the development of WMDs, and loosens political content rules &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250815/p13#a250815p13)
- - [Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low](https://www.theverge.com/tech/759853/anker-maggo-3-in-1-qi2-charging-station-oneplus-buds-4-deal-sale)
- - [iPhone 17 Pro Max leak points to lighter frame &amp; bigger battery](https://appleinsider.com/articles/25/08/15/iphone-17-pro-max-leak-points-to-lighter-frame-bigger-battery?utm_source=rss)
- - [MacBook Pro notch might be making your games blurry](https://appleinsider.com/articles/25/08/15/macbook-pro-notch-might-be-making-your-games-blurry?utm_source=rss)<!-- TECH:END -->
+ - [Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low](https://www.theverge.com/tech/759853/anker-maggo-3-in-1-qi2-charging-station-oneplus-buds-4-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

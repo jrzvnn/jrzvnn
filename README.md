@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 😝 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - 😝 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)
+ - 😝 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
  - 💣 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
+ - 😝 [FAFO](http://9gag.com/gag/apR8nGE)
  - 👉 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch, iPhone 17, and the M6 MacBook Pro on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/15/apple-watch-iphone-17-and-the-m6-macbook-pro-on-the-appleinsider-podcast?utm_source=rss)
- - [Sources: some N26 investors seek to replace its co-CEOs after German regulator Bafin identified new deficiencies in the digital bank&#39;s internal controls &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p6#a250815p6)
- - [Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have](https://www.wired.com/review/dyson-airwrap-co-anda2x/)
- - [SoftBank-owned PayPay files for a US listing; sources: PayPay aims to raise $2B+ at a $10B+ valuation, and the listing could happen by the end of the year &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250815/p5#a250815p5)
- - [Inside Apple&#39;s QuickTime Player - A surprisingly sophisticated video tool on Mac](https://appleinsider.com/inside/macos/tips/inside-apples-quicktime-player---a-surprisingly-sophisticated-video-tool-on-mac?utm_source=rss)<!-- TECH:END -->
+ - [CoreWeave&#39;s IPO lockup expires Friday for holders of 80%+ of its Class A shares; its stock plunged 33% in the two days after its Q2 earnings amid selloff fears &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250815/p8#a250815p8)
+ - [Klarna reports Q2 revenue up 25% YoY to $823M with a net loss of $53M, up from a net loss of $18M in Q2 2024, as it prepares for a second attempt at a US IPO &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250815/p7#a250815p7)
+ - [The 13 Foods That Could Save Your Kidneys and Your Wallet](https://www.cnet.com/health/nutrition/the-13-foods-that-could-save-your-kidneys-and-your-wallet/#ftag=CAD590a51e)
+ - [Apple Already Has the Perfect AI Gadget &lpar;It Just Needs One More Thing&rpar;](https://www.cnet.com/tech/apple-already-has-the-perfect-ai-gadget-it-just-needs-one-more-thing/#ftag=CAD590a51e)
+ - [I Tested the Galaxy Z Flip 7 FE and Had Mixed Feelings &lpar;Until I Saw the Sale Price&rpar;](https://www.cnet.com/tech/mobile/i-tested-the-galaxy-z-flip-7-fe-and-had-mixed-feelings-until-i-saw-the-sale-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

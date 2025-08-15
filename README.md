@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How Google&#39;s Jigsaw and longtime pollster Scott Rasmussen plan to use AI to survey Americans to find common ground ahead of the US&#39; 250th anniversary &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250815/p2#a250815p2)
- - [Best Workout Shoes in 2025, Tested and Reviewed](https://www.cnet.com/health/fitness/best-workout-shoes/#ftag=CAD590a51e)
  - [Lelo Sona 3 Cruise Review: Stale Update](https://www.wired.com/review/lelo-sona-3-cruise/)
  - [Meta&#39;s strong Q2 shows it has learned a company must give investors short-term results to get permission for long-term investments, such as its AI ambitions &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250815/p1#a250815p1)
- - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
+ - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)
+ - [Battlefield 6 Beta Double XP Exclusive to PS Plus and Other Changes For Weekend Two](https://www.cnet.com/tech/gaming/battlefield-6-beta-double-xp-exclusive-to-ps-plus-and-other-changes-for-weekend-two/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

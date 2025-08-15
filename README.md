@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
- - 😝 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
- - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 😝 [Baker catches fire on live TV while baking traditional Iranian bread](http://9gag.com/gag/aW49P1n)
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 💣 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
  - 😝 [As it should be.](http://9gag.com/gag/aryzDBd)
- - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
+ - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
 
 ---
 

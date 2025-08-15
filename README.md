@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Louisiana sues Roblox for creating an environment where &amp;#8216;child predators thrive&amp;#8217;](https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [What my first five Steam purchases say about me](https://www.theverge.com/games/760049/steam-first-five-purchases-meme-dragon-age)
  - [Researchers say they used generative AI algorithms to design novel antibiotics targeting drug-resistant Neisseria gonorrhoeae and MRSA &lpar;Anne Trafton/MIT News&rpar;](http://www.techmeme.com/250815/p14#a250815p14)
- - [PBS is slashing its budget in response to Trump&amp;#8217;s attack on public media](https://www.theverge.com/news/760026/pbs-is-slashing-its-budget-in-response-to-trumps-attack-on-public-media)
- - [Developers Say GPT-5 Is a Mixed Bag](https://www.wired.com/story/gpt-5-coding-review-software-engineering/)
- - [Anthropic updates Claude usage policy, adding stricter cybersecurity rules and explicitly banning the development of WMDs, and loosens political content rules &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250815/p13#a250815p13)
- - [Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low](https://www.theverge.com/tech/759853/anker-maggo-3-in-1-qi2-charging-station-oneplus-buds-4-deal-sale)<!-- TECH:END -->
+ - [PBS is slashing its budget in response to Trump&amp;#8217;s attack on public media](https://www.theverge.com/news/760026/pbs-is-slashing-its-budget-in-response-to-trumps-attack-on-public-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

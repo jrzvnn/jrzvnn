@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite login is mostly back after an outage](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
- - [Anker Solix F3800 Plus portable power station review: investment in reliable home power](https://appleinsider.com/articles/25/08/15/anker-solix-f3800-plus-portable-power-station-review-investment-in-reliable-home-power?utm_source=rss)
- - [Source: cloud startup Vercel has been approached by investors offering to invest hundreds of millions at an $8B-$9B valuation; it was valued at $3B last year &lpar;The Information&rpar;](http://www.techmeme.com/250814/p39#a250814p39)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 15, #326](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-15-326/#ftag=CAD590a51e)
- - [Google Will Now Blur Nude Photos in Your Messages. Here&#39;s How to Turn It On &lpar;or Off&rpar;](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sen. Josh Hawley calls for a congressional probe into Meta after a report on its AI policy allowing sensual chats with kids; Sen. Marsha Blackburn backs a probe &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250814/p41#a250814p41)
+ - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)
+ - [I Discovered the Mystery Flavor of McDonald&#39;s New Pink and Blue Shake...](https://www.cnet.com/news/what-is-the-mystery-flavor-of-the-mt-mcdonaldland-pink-and-blue-mcdonalds-shake/#ftag=CAD590a51e)
+ - [Fortnite login is back after an outage](https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys)
+ - [Anker Solix F3800 Plus portable power station review: investment in reliable home power](https://appleinsider.com/articles/25/08/15/anker-solix-f3800-plus-portable-power-station-review-investment-in-reliable-home-power?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 😝 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
- - 💣 [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
- - 👉 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)<!-- MEMES:END -->
+ - 😝 [Instinctively,....](http://9gag.com/gag/aLnrN9V)
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
+ - 👉 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)
  - [Accenture plans to acquire Australian cybersecurity company CyberCX from private equity firm BGH Capital; the deal reportedly values CyberCX at more than AU$1B &lpar;Mark Anderson/Bloomberg Law&rpar;](http://www.techmeme.com/250814/p43#a250814p43)
  - [Foxconn&#39;s AI server business surged 60%+ YoY in Q2, surpassing revenue from Apple-related products for the first time, and is projected to grow 170% YoY in Q3 &lpar;Lauly Li/Nikkei Asia&rpar;](http://www.techmeme.com/250814/p42#a250814p42)
  - [Sen. Josh Hawley calls for a congressional probe into Meta after a report on its AI policy allowing sensual chats with kids; Sen. Marsha Blackburn backs a probe &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250814/p41#a250814p41)
- - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)
- - [I Discovered the Mystery Flavor of McDonald&#39;s New Pink and Blue Shake...](https://www.cnet.com/news/what-is-the-mystery-flavor-of-the-mt-mcdonaldland-pink-and-blue-mcdonalds-shake/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Louisiana AG Liz Murrill sues Roblox, alleging among other things that it continues to facilitate CSAM distribution and the sexual exploitation of children &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250814/p40#a250814p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

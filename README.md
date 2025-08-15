@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘Cheapfake’ AI Celeb Videos Are Rage-Baiting People on YouTube](https://www.wired.com/story/cheapfake-ai-celeb-videos-are-rage-baiting-people-on-youtube/)
  - [The Pixel 10 Pro Fold’s full specs may have just leaked](https://www.theverge.com/news/759877/google-pixel-10-pro-fold-full-spec-leak)
  - [Looking for More iPhone Battery Life? Adaptive Power in iOS 26 Should Provide a Boost](https://www.cnet.com/tech/mobile/looking-for-more-iphone-battery-life-adaptive-power-in-ios-26-should-provide-a-boost/#ftag=CAD590a51e)
  - [An interview with Sam Altman on spending billions on AI infrastructure, wanting Chrome if it&#39;s really selling, AI models saturating the chat use case, and more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250815/p3#a250815p3)
- - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)
- - [Get Ready for All the New Ringtones in iOS 26](https://www.cnet.com/tech/services-and-software/get-ready-for-all-these-new-ringtones-in-ios-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

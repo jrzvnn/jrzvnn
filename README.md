@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sen. Josh Hawley launches a probe of Meta following a report on its AI policy allowing sensual chats with kids, tells Zuckerberg to produce docs by September 19 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250815/p15#a250815p15)
+ - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)
  - [Decoding Palantir, the Most Mysterious Company in Silicon Valley](https://www.wired.com/story/uncanny-valley-podcast-palantir-most-mysterious-company-silicon-valley/)
  - [Louisiana sues Roblox for creating an environment where &amp;#8216;child predators thrive&amp;#8217;](https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [What my first five Steam purchases say about me](https://www.theverge.com/games/760049/steam-first-five-purchases-meme-dragon-age)
- - [Researchers say they used generative AI algorithms to design novel antibiotics targeting drug-resistant Neisseria gonorrhoeae and MRSA &lpar;Anne Trafton/MIT News&rpar;](http://www.techmeme.com/250815/p14#a250815p14)<!-- TECH:END -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave&#39;s IPO lockup expires Friday for holders of 80%+ of its Class A shares; its stock plunged 33% in the two days after its Q2 earnings amid selloff fears &lpar;Carmen Reinicke/Bloomberg&rpar;](http://www.techmeme.com/250815/p8#a250815p8)
- - [Klarna reports Q2 revenue up 25% YoY to $823M with a net loss of $53M, up from a net loss of $18M in Q2 2024, as it prepares for a second attempt at a US IPO &lpar;Akila Quinio/Financial Times&rpar;](http://www.techmeme.com/250815/p7#a250815p7)
- - [The 13 Foods That Could Save Your Kidneys and Your Wallet](https://www.cnet.com/health/nutrition/the-13-foods-that-could-save-your-kidneys-and-your-wallet/#ftag=CAD590a51e)
- - [Apple Already Has the Perfect AI Gadget &lpar;It Just Needs One More Thing&rpar;](https://www.cnet.com/tech/apple-already-has-the-perfect-ai-gadget-it-just-needs-one-more-thing/#ftag=CAD590a51e)
- - [I Tested the Galaxy Z Flip 7 FE and Had Mixed Feelings &lpar;Until I Saw the Sale Price&rpar;](https://www.cnet.com/tech/mobile/i-tested-the-galaxy-z-flip-7-fe-and-had-mixed-feelings-until-i-saw-the-sale-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout, confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)
+ - [Vibe coding through the GPT-5 mess](https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts)
+ - [For Legends: Z-A’s battle system, I rewired the Pokémon part of my brain](https://www.theverge.com/games/759788/pokemon-legends-z-a-battle-real-time-preview)
+ - [Lucid reveals off-road version of Gravity SUV, which it has definitely sold more than 9 of](https://www.theverge.com/electric-cars/759910/lucid-reveals-off-road-version-of-gravity-suv-which-it-has-definitely-sold-more-than-9-of)
+ - [GPT-5 failed the hype test](https://www.theverge.com/openai/759755/gpt-5-failed-the-hype-test-sam-altman-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

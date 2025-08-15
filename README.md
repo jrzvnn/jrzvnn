@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans its fourth AI restructuring in six months, dividing Superintelligence Labs into TBD Lab, a product team, an infrastructure team, and FAIR &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250815/p19#a250815p19)
- - [Call of Duty: Black Ops 7 Leak Claims Nov. 14 Release Date, No Switch 2 Version Yet](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-7-leak-claims-nov-14-release-date-no-switch-2-version-yet/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 16, #797](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-16-797/#ftag=CAD590a51e)
+ - [Sources: Meta plans its fourth AI restructuring in six months, dividing its superintelligence lab into TBD Lab, a product team, an infrastructure team, and FAIR &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250815/p19#a250815p19)
  - [Some developers say GPT-5 excels at technical reasoning and planning coding tasks and is cost-effective, but Claude Opus and Sonnet still produce better code &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250815/p18#a250815p18)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 16 #531](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-16-531/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [CoreWeave investors sold more than $1B in shares as the IPO lockup ended; the stock held steady on Friday after dropping about 35% over the previous two days &lpar;Financial Times&rpar;](http://www.techmeme.com/250815/p17#a250815p17)
+ - [EA Makes Big Changes to Rush Mode in Battlefield 6 Beta](https://www.cnet.com/tech/gaming/ea-makes-big-changes-to-rush-mode-in-battlefield-6-beta-for-weekend-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

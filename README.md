@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
- - 😝 [People are tired of ugly. &lpar;This girl is breathing \ud83d\udd25&rpar;](http://9gag.com/gag/aMVyWGA)
+ - 😝 [You are die\ud83d\udc49](http://9gag.com/gag/a9yBVEL)
+ - 😝 [Instant karma, served hot and steamy](http://9gag.com/gag/aAyZN1p)
  - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
  - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
- - 👉 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)<!-- MEMES:END -->
+ - 👉 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)<!-- MEMES:END -->
 
 ---
 

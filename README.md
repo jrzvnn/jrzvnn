@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some developers say GPT-5 excels at technical reasoning and planning coding tasks and is cost-effective, but Claude Opus and Sonnet still produce better code &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250815/p18#a250815p18)
  - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [CoreWeave investors sold more than $1B in shares as the IPO lockup ended; the stock held steady on Friday after dropping about 35% over the previous two days &lpar;Financial Times&rpar;](http://www.techmeme.com/250815/p17#a250815p17)
  - [EA Makes Big Changes to Rush Mode in Battlefield 6 Beta](https://www.cnet.com/tech/gaming/ea-makes-big-changes-to-rush-mode-in-battlefield-6-beta-for-weekend-2/#ftag=CAD590a51e)
- - [What to Stream This Weekend: &#39;Alien: Earth,&#39; &#39;Butterfly,&#39; &#39;Night Always Comes&#39; and More](https://www.cnet.com/tech/services-and-software/what-to-stream-this-weekend-alien-earth-butterfly-night-always-comes-more/#ftag=CAD590a51e)
- - [Pokemon Legends: Z-A&#39;s Real-Time Battles Forced Me to Think Fast &lpar;and I Liked It&rpar;](https://www.cnet.com/tech/gaming/pokemon-legends-z-a-hands-on-trying-out-real-time-and-mega-evolution-fights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to Stream This Weekend: &#39;Alien: Earth,&#39; &#39;Butterfly,&#39; &#39;Night Always Comes&#39; and More](https://www.cnet.com/tech/services-and-software/what-to-stream-this-weekend-alien-earth-butterfly-night-always-comes-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

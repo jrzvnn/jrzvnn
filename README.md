@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 😝 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
- - 💣 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
- - 😝 [Yes halal](http://9gag.com/gag/aD2MrEO)
- - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
+ - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - 😝 [Oh no, anyway](http://9gag.com/gag/aE0ENqK)
+ - 💣 [Wild ride](http://9gag.com/gag/aAyZLVd)
+ - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
+ - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Google&#39;s Jigsaw and longtime pollster Scott Rasmussen plan to use AI to survey Americans to find common ground ahead of the US&#39; 250th anniversary &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250815/p2#a250815p2)
- - [Best Workout Shoes in 2025, Tested and Reviewed](https://www.cnet.com/health/fitness/best-workout-shoes/#ftag=CAD590a51e)
- - [Lelo Sona 3 Cruise Review: Stale Update](https://www.wired.com/review/lelo-sona-3-cruise/)
- - [Meta&#39;s strong Q2 shows it has learned a company must give investors short-term results to get permission for long-term investments, such as its AI ambitions &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250815/p1#a250815p1)
- - [Sealy Promo Code: Save $300 on Mattresses in August 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
+ - [Looking for More iPhone Battery Life? Adaptive Power in iOS 26 Should Provide a Boost](https://www.cnet.com/tech/mobile/looking-for-more-iphone-battery-life-adaptive-power-in-ios-26-should-provide-a-boost/#ftag=CAD590a51e)
+ - [An interview with Sam Altman on spending billions on AI infrastructure, wanting Chrome if it&#39;s really selling, AI models saturating the chat use case, and more &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250815/p3#a250815p3)
+ - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)
+ - [Get Ready for All the New Ringtones in iOS 26](https://www.cnet.com/tech/services-and-software/get-ready-for-all-these-new-ringtones-in-ios-26/#ftag=CAD590a51e)
+ - [Here&#39;s How to Access Apple&#39;s Visual Intelligence on an iPhone 15 Pro](https://www.cnet.com/tech/services-and-software/heres-how-to-access-apples-visual-intelligence-on-an-iphone-15-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

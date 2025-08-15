@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
+ - 😝 [NewPipe protecting your privacy from YouTube](http://9gag.com/gag/aYQmZqV)
  - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 💣 [Picnic](http://9gag.com/gag/an7VW2L)
- - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
- - 👉 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)<!-- MEMES:END -->
+ - 💣 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 😝 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
+ - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Developers Say GPT-5 Is a Mixed Bag](https://www.wired.com/story/gpt-5-coding-review-software-engineering/)
  - [Anthropic updates Claude usage policy, adding stricter cybersecurity rules and explicitly banning the development of WMDs, and loosens political content rules &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250815/p13#a250815p13)
  - [Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low](https://www.theverge.com/tech/759853/anker-maggo-3-in-1-qi2-charging-station-oneplus-buds-4-deal-sale)
  - [iPhone 17 Pro Max leak points to lighter frame &amp; bigger battery](https://appleinsider.com/articles/25/08/15/iphone-17-pro-max-leak-points-to-lighter-frame-bigger-battery?utm_source=rss)
- - [MacBook Pro notch might be making your games blurry](https://appleinsider.com/articles/25/08/15/macbook-pro-notch-might-be-making-your-games-blurry?utm_source=rss)
- - [A treaty to end plastic pollution is still out of reach — that’s not necessarily a bad thing](https://www.theverge.com/news/760058/plastic-pollution-treaty-negotiations-end)<!-- TECH:END -->
+ - [MacBook Pro notch might be making your games blurry](https://appleinsider.com/articles/25/08/15/macbook-pro-notch-might-be-making-your-games-blurry?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

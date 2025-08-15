@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Laura Loomer and the limits of posting everything](https://www.theverge.com/politics/760269/laura-loomer-deposition)
  - [Sources: current and former OpenAI employees plan to sell ~$6B in stock to Thrive Capital, SoftBank, and others in a secondary sale that values OpenAI at ~$500B &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250815/p23#a250815p23)
- - [9 Best Pillows &lpar;2025&rpar; Tested For Side, Back, and Stomach Sleepers](https://www.wired.com/gallery/best-pillows/)
- - [A US district court judge temporarily blocks an FTC probe into Media Matters, part of an antitrust investigation into ad boycotts, calling the probe retaliatory &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p22#a250815p22)
- - [Roblox shares closed down 6.34% on Friday after the company was accused in two lawsuits of failing to sufficiently protect youngsters on its platform &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250815/p21#a250815p21)
- - [Winklevoss twins&#39; Gemini files for a US IPO and reports a $282.5M net loss on $67.9M revenue in H1 2025, vs. a $41.4M net loss on $73.5M revenue a year earlier &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250815/p20#a250815p20)<!-- TECH:END -->
+ - [Best Alkaline Batteries for Your Devices in 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
+ - [Beijing&#39;s &#39;Robot Olympics&#39; Are Off and Running &lpar;and Falling&rpar;](https://www.cnet.com/tech/services-and-software/beijings-robot-olympics-are-off-and-running-and-falling/#ftag=CAD590a51e)
+ - [9 Best Pillows &lpar;2025&rpar; Tested For Side, Back, and Stomach Sleepers](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

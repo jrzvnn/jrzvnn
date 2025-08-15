@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 💣 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 😝 [There\u2019s your answer, bub](http://9gag.com/gag/a87zXwe)
- - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
+ - 😝 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
+ - 💣 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
+ - 😝 [Yes halal](http://9gag.com/gag/aD2MrEO)
+ - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
 
 ---
 

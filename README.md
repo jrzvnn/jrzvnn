@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose QuietComfort Ultra Earbuds &lpar;2nd gen&rpar; review: The best, made better](https://appleinsider.com/articles/25/08/15/bose-quietcomfort-ultra-earbuds-2nd-gen-review-the-best-made-better?utm_source=rss)
  - [Opendoor CEO Carrie Wheeler steps down, with Shrisha Radhakrishna named president and interim CEO; OPEN jumps 8%+ &lpar;Norah Mulinda/Bloomberg&rpar;](http://www.techmeme.com/250815/p10#a250815p10)
- - [Sam Altman says ‘yes,’ AI is in a bubble](https://www.theverge.com/ai-artificial-intelligence/759965/sam-altman-openai-ai-bubble-interview)
- - [Sam Altman says OpenAI &quot;totally screwed up some things&quot; on the GPT-5 rollout and confirms plans to fund a brain-computer interface startup to rival Neuralink &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250815/p9#a250815p9)
- - [Pokemon Legends: Z-A Hands-On: Trying Out Real-Time and Mega-Evolution Fights](https://www.cnet.com/tech/gaming/pokemon-legends-z-a-hands-on-trying-out-real-time-and-mega-evolution-fights/#ftag=CAD590a51e)
- - [2025 iPhone Photography Award Winners Prove Any Phone Can Create Stunning Images](https://www.cnet.com/tech/mobile/2025-iphone-photography-award-winners-prove-any-phone-can-create-stunning-images/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Narwal’s New S30 Series Improves on Wet-Dry Vacuuming with AI Dirt Detection and Self-Cleaning](https://www.cnet.com/home/kitchen-and-household/narwals-new-s30-series-improves-on-wet-dry-vacuuming-with-ai-and-self-cleaning/#ftag=CAD590a51e)
+ - [Here Are the 4 Best Noise Colors to Improve Your Sleep](https://www.cnet.com/health/sleep/here-are-the-4-best-noise-colors-to-improve-your-sleep/#ftag=CAD590a51e)
+ - [Best Microwaves of 2025, Tested and Reviewed](https://www.cnet.com/home/kitchen-and-household/best-microwave/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
- - 😝 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)
- - 💣 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 😝 [Life on ship with Vader got significantly worse after Tarkin, er, retired](http://9gag.com/gag/aGybrMG)
- - 👉 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)<!-- MEMES:END -->
+ - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
+ - 😝 [Way cool. Old school is priceless.](http://9gag.com/gag/aVvB4zd)
+ - 💣 [Inflation](http://9gag.com/gag/aE0EjxO)
+ - 😝 [As it should be.](http://9gag.com/gag/aryzDBd)
+ - 👉 [A vending machine](http://9gag.com/gag/ayNPmxr)<!-- MEMES:END -->
 
 ---
 

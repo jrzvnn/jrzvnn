@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mike Novogratz&#39;s Galaxy says it has secured $1.4B in debt financing to expand its Helios data center in West Texas, aiming to boost AI and HPC capabilities &lpar;CoinDesk&rpar;](http://www.techmeme.com/250815/p11#a250815p11)
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [Bose QuietComfort Ultra Earbuds &lpar;2nd gen&rpar; review: The best, made better](https://appleinsider.com/articles/25/08/15/bose-quietcomfort-ultra-earbuds-2nd-gen-review-the-best-made-better?utm_source=rss)
  - [Opendoor CEO Carrie Wheeler steps down, with Shrisha Radhakrishna named president and interim CEO; OPEN jumps 8%+ &lpar;Norah Mulinda/Bloomberg&rpar;](http://www.techmeme.com/250815/p10#a250815p10)
- - [Narwal’s New S30 Series Improves on Wet-Dry Vacuuming with AI Dirt Detection and Self-Cleaning](https://www.cnet.com/home/kitchen-and-household/narwals-new-s30-series-improves-on-wet-dry-vacuuming-with-ai-and-self-cleaning/#ftag=CAD590a51e)
- - [Here Are the 4 Best Noise Colors to Improve Your Sleep](https://www.cnet.com/health/sleep/here-are-the-4-best-noise-colors-to-improve-your-sleep/#ftag=CAD590a51e)
- - [Best Microwaves of 2025, Tested and Reviewed](https://www.cnet.com/home/kitchen-and-household/best-microwave/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Narwal’s New S30 Series Improves on Wet-Dry Vacuuming with AI Dirt Detection and Self-Cleaning](https://www.cnet.com/home/kitchen-and-household/narwals-new-s30-series-improves-on-wet-dry-vacuuming-with-ai-and-self-cleaning/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

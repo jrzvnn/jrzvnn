@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
- - 😝 [Way cool. Old school is priceless.](http://9gag.com/gag/aVvB4zd)
- - 💣 [Inflation](http://9gag.com/gag/aE0EjxO)
+ - 😝 [The future is garbage old man..](http://9gag.com/gag/aVvB17P)
+ - 😝 [College Gymnast Sister Started An OnlyFans!](http://9gag.com/gag/a9yBNjD)
+ - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
  - 😝 [As it should be.](http://9gag.com/gag/aryzDBd)
- - 👉 [A vending machine](http://9gag.com/gag/ayNPmxr)<!-- MEMES:END -->
+ - 👉 [Over 20 British police officers, some of them wearing hijabs, arrested two 90 year old women. European police are making world laugh.](http://9gag.com/gag/aYQmd82)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
- - 😝 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 💣 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
- - 👉 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)<!-- MEMES:END -->
+ - 😝 [The high school in my town lets the seniors paint their parking spaces. Ryan nailed it!](https://www.reddit.com/r/funny/comments/1mqwg4k/the_high_school_in_my_town_lets_the_seniors_paint/)
+ - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
+ - 💣 [75 years and still functional](http://9gag.com/gag/apR8zp5)
+ - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
+ - 👉 [Ryazan powder production plant. 15.08.2025](http://9gag.com/gag/apR8n0W)<!-- MEMES:END -->
 
 ---
 

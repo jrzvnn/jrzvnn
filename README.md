@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Place is garbage and has its own bots..](http://9gag.com/gag/aryz99p)
- - 😝 [He knocked the soy milk out of that guy](http://9gag.com/gag/aZZvVyn)
- - 💣 [Cool.](http://9gag.com/gag/agmj641)
  - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Im OP of course](http://9gag.com/gag/a5QDyMy)
+ - 💣 [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
  - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
 
 ---

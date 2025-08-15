@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Pillows &lpar;2025&rpar; Tested For Side, Back, and Stomach Sleepers](https://www.wired.com/gallery/best-pillows/)
  - [A US district court judge temporarily blocks an FTC probe into Media Matters, part of an antitrust investigation into ad boycotts, calling the probe retaliatory &lpar;Bloomberg&rpar;](http://www.techmeme.com/250815/p22#a250815p22)
  - [Roblox shares closed down 6.34% on Friday after the company was accused in two lawsuits of failing to sufficiently protect youngsters on its platform &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250815/p21#a250815p21)
  - [Winklevoss twins&#39; Gemini files for a US IPO and reports a $282.5M net loss on $67.9M revenue in H1 2025, vs. a $41.4M net loss on $73.5M revenue a year earlier &lpar;Monique Mulima/Bloomberg&rpar;](http://www.techmeme.com/250815/p20#a250815p20)
- - [Sources: Meta plans its fourth AI restructuring in six months, dividing its superintelligence lab into TBD Lab, a product team, an infrastructure team, and FAIR &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250815/p19#a250815p19)
- - [Call of Duty: Black Ops 7 Leak Claims Nov. 14 Release Date, No Switch 2 Version Yet](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-7-leak-claims-nov-14-release-date-no-switch-2-version-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Ops 6 Quad Feed Double XP Weekend Live Now During Battlefield 6 Open Beta](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-live-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

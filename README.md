@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)
- - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
- - 💣 [Murrica](http://9gag.com/gag/axy4QZp)
- - 😝 [Erm, guys.. I think I found the one.](http://9gag.com/gag/adBbrXB)
- - 👉 [75 years and still functional](http://9gag.com/gag/apR8zp5)<!-- MEMES:END -->
+ - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 😝 [Last photo together](http://9gag.com/gag/adBb4KQ)
+ - 💣 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)
+ - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 

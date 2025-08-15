@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 😝 [Im OP of course](http://9gag.com/gag/a5QDyMy)
- - 💣 [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 👉 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)<!-- MEMES:END -->
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [Picnic](http://9gag.com/gag/an7VW2L)
+ - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [As it should be.](http://9gag.com/gag/aryzDBd)
+ - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
 
 ---
 

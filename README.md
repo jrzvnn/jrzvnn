@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Picnic](http://9gag.com/gag/an7VW2L)
- - 😝 [A dog and his human, true love](http://9gag.com/gag/a5QDyjE)
- - 💣 [Bird tries to build a nest for a cat friend after discovering she&#39;s pregnant](http://9gag.com/gag/a0ewzPO)
- - 😝 [Romanian firefighters rest on the road after a 48-hour battle with the fires in Greece.](http://9gag.com/gag/an7V8j0)
- - 👉 [Murrica](http://9gag.com/gag/axy4QZp)<!-- MEMES:END -->
+ - 😝 [Man tries to steal Police vehicle](http://9gag.com/gag/agmjdz1)
+ - 😝 [First Smoke detectors and now Apple Watch. They only come with charger when you buy them](http://9gag.com/gag/aND32AK)
+ - 💣 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
+ - 😝 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)
+ - 👉 [Is this guy okay?](http://9gag.com/gag/aPAnp3B)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 vs. 17 Air, 17 Pro, 17 Pro Max: All the Rumored Specs Compared](https://www.cnet.com/tech/mobile/iphone-17-vs-17-air-17-pro-17-pro-max-all-the-rumored-specs-compared/#ftag=CAD590a51e)
+ - [How to Get Offline Maps on Your iPhone in a Few Easy Steps](https://www.cnet.com/tech/mobile/how-to-get-offline-maps-on-your-iphone-in-a-few-easy-steps/#ftag=CAD590a51e)
+ - [Don&#39;t Wait for iOS 26, Download iOS 18.6 Now to Fix This iPhone Security Flaw](https://www.cnet.com/tech/services-and-software/dont-wait-for-ios-26-download-ios-18-6-now-to-fix-this-iphone-security-flaw/#ftag=CAD590a51e)
  - [UN Plastics Treaty Talks Once Again End in Failure](https://www.wired.com/story/un-plastics-treaty-talks-once-again-end-in-failure/)
- - [The 47 Best Movies on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Apple Finally Destroyed Steve Jobs’ Vision of the iPad. Good](https://www.wired.com/story/apple-finally-destroyed-steve-jobss-vision-of-the-ipad-good/)
- - [The 47 Best Shows on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV](https://www.wired.com/story/gear-news-of-the-week-a-new-privacy-phone-arrives-and-samsung-has-a-115-inch-micro-rgb-tv/)<!-- TECH:END -->
+ - [The 47 Best Movies on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

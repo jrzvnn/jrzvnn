@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 😝 [Frankly](http://9gag.com/gag/azxQDNK)
+ - 💣 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
  - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
- - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
+ - 👉 [Success is a part of me.](http://9gag.com/gag/aByobrz)<!-- MEMES:END -->
 
 ---
 

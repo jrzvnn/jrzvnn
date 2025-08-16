@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
+ - [Dead Take’s best scares come from real-life performances](https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr)
+ - [UN Plastics Treaty Talks Once Again End in Failure](https://www.wired.com/story/un-plastics-treaty-talks-once-again-end-in-failure/)
  - [Apple Watch&#39;s 2026 changes may include more sensors, exterior update](https://appleinsider.com/articles/25/08/16/apple-watchs-2026-changes-may-include-more-sensors-exterior-update?utm_source=rss)
- - [A profile of UCB CS professor Ion Stoica, a billionaire who has helped launch four startups out of his privately-funded research lab, including Databricks &lpar;Martina Di Licosa/Forbes&rpar;](http://www.techmeme.com/250816/p10#a250816p10)
- - [Acer Predator Helios 16S AI Review: Great Performance, Annoying Crashes](https://www.wired.com/review/acer-predator-helios-16s-ai/)
- - [DJI Osmo 360 Review: A Strong Start](https://www.wired.com/review/dji-osmo-360/)
- - [A brazen attack on air safety is underway — here’s what’s at stake](https://www.theverge.com/planes/758913/air-safety-regulation-faa-trump-bedford-sully)<!-- TECH:END -->
+ - [A profile of UCB CS professor Ion Stoica, a billionaire who has helped launch four startups out of his privately-funded research lab, including Databricks &lpar;Martina Di Licosa/Forbes&rpar;](http://www.techmeme.com/250816/p10#a250816p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

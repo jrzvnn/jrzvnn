@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [19 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
+ - [WIRED’s Guide to Buying a Used Plug-In Hybrid](https://www.wired.com/story/the-guide-to-buying-a-used-plug-in-hybrid-phev/)
  - [TikTok is updating its Community Guidelines, adding new rules for Live creators, including a requirement that commercial content must be disclosed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250816/p9#a250816p9)
  - [How One Wikipedia Editor Unraveled the ‘Single Largest Self-Promotion Operation’ in the Site&#39;s History](https://www.wired.com/story/wikipedia-editor-largest-self-promotion-operation/)
- - [Sources say Meta&#39;s chaotic culture and lack of vision have led to AI brain drain; Meta strongly denies it has had issues with talent and retention &lpar;Forbes&rpar;](http://www.techmeme.com/250816/p8#a250816p8)
- - [The World Humanoid Robot Games kicked off in Beijing on August 15, with robots across 280 teams from 16 countries competing in track and field and other sports &lpar;Reuters&rpar;](http://www.techmeme.com/250816/p7#a250816p7)
- - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p6#a250816p6)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Aston Villa vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-live-stream-aston-villa-vs-newcastle-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
- - 💣 [0 survival instinct](http://9gag.com/gag/aZZvK39)
- - 😝 [That&#39;s just horrible](http://9gag.com/gag/aryz006)
- - 👉 [`Mr. President Trump, you stood there like a little white noodle, like a fanboy,` - said Arnold Schwarzenegger about Trump&#39;s meeting with Putin.](http://9gag.com/gag/azxQzBN)<!-- MEMES:END -->
+ - 😝 [Comments it yourself](http://9gag.com/gag/a9yB43W)
+ - 💣 [That&#39;s just horrible](http://9gag.com/gag/aryz006)
+ - 😝 [This is why Vegas tourism will stay down American shows that in his Vegas hotel you can\u2019t even use the mini fridge anymore. They have equipt it with sensors and if you put anything inside you\u2019ll be charged $50 per day](http://9gag.com/gag/a4PV8qA)
+ - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
 
 ---
 

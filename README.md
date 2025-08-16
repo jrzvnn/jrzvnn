@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources say Meta&#39;s chaotic culture and lack of vision have led to AI brain drain; Meta strongly denies it has had issues with talent and retention &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250816/p8#a250816p8)
+ - [How One Wikipedia Editor Unraveled the ‘Single Largest Self-Promotion Operation’ in the Site&#39;s History](https://www.wired.com/story/wikipedia-editor-largest-self-promotion-operation/)
+ - [Signs Your Gut Is Unhealthy and 4 Ways to Fix It, According to a Microbiome Expert](https://www.cnet.com/health/medical/signs-your-gut-is-unhealthy-and-4-ways-to-fix-it-according-to-a-microbiome-expert/#ftag=CAD590a51e)
+ - [Sources say Meta&#39;s chaotic culture and lack of vision have led to AI brain drain; Meta strongly denies it has had issues with talent and retention &lpar;Forbes&rpar;](http://www.techmeme.com/250816/p8#a250816p8)
  - [The World Humanoid Robot Games kicked off in Beijing on August 15, with robots across 280 teams from 16 countries competing in track and field and other sports &lpar;Reuters&rpar;](http://www.techmeme.com/250816/p7#a250816p7)
- - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p6#a250816p6)
- - [Jump, a SaaS startup founded by Alex Rodriguez and Marc Lore for managing sports ticketing and fan experiences, raised a $23M Series A at a $100M+ valuation &lpar;Justin Birnbaum/Forbes&rpar;](http://www.techmeme.com/250816/p5#a250816p5)
- - [Lyft co-founders Logan Green and John Zimmer step down as board chair and vice chair, convert their Class B stock to Class A, completing the succession plan &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p4#a250816p4)<!-- TECH:END -->
+ - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p6#a250816p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

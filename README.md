@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Tried the Best At-Home Pet DNA Test Kits on My Two Cats &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-dna-tests/)
+ - [A look at AI-powered stuffed animals like Grem, Grok, and Gabbo, which are being promoted as an alternative to screen time for children as young as 3 &lpar;Amanda Hess/New York Times&rpar;](http://www.techmeme.com/250816/p11#a250816p11)
  - [Generative AI Gave MIT Scientists a New Tool to Fight Antibiotic-Resistant Bacteria](https://www.cnet.com/tech/services-and-software/generative-ai-gave-mit-scientists-a-new-tool-to-fight-antibiotic-resistant-bacteria/#ftag=CAD590a51e)
  - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Mini-LED vs. OLED: What&#39;s the Best?](https://www.cnet.com/tech/home-entertainment/oled-vs-led-vs-miniled-vs-lcd-whats-the-best/#ftag=CAD590a51e)
- - [Ozempic Users Can Now Workout With Apple Fitness Plus Through New Weight-Loss Partnership](https://www.cnet.com/health/apple-fitness-plus-and-futurhealth-team-up-with-new-weight-loss-partnership/#ftag=CAD590a51e)
- - [Best Adjustable Dumbbells for 2025: Fitness Expert Tested](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mini-LED vs. OLED: What&#39;s the Best?](https://www.cnet.com/tech/home-entertainment/oled-vs-led-vs-miniled-vs-lcd-whats-the-best/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

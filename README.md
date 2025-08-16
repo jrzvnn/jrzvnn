@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 😝 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 💣 [Living in 100% relative humidity](http://9gag.com/gag/aND32b3)
- - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 👉 [Security guard: he said what?!](http://9gag.com/gag/an7V8DV)<!-- MEMES:END -->
+ - 😝 [Interesting](http://9gag.com/gag/aByoNDz)
+ - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 💣 [Wonder why](http://9gag.com/gag/aMVy6bR)
+ - 😝 [Snowman had enough of karen](http://9gag.com/gag/aKGpyD6)
+ - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
 
 ---
 

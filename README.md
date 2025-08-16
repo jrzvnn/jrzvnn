@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frankly](http://9gag.com/gag/azxQDNK)
- - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 😝 [A vending machine](http://9gag.com/gag/ayNPmxr)
+ - 💣 [Yes halal](http://9gag.com/gag/aD2MrEO)
  - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
- - 👉 [And my mom is scared](http://9gag.com/gag/a34nzV1)<!-- MEMES:END -->
+ - 👉 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)<!-- MEMES:END -->
 
 ---
 

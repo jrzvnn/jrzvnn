@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon discounts M4 Mac mini to $499 during weekend sale](https://appleinsider.com/articles/25/08/16/amazon-discounts-m4-mac-mini-to-499-during-weekend-sale?utm_source=rss)
  - [GPT-5&#39;s underwhelming performance on benchmarks suggests that the current approach of scaling LLMs is starting to reach the limits of available resources &lpar;Financial Times&rpar;](http://www.techmeme.com/250816/p15#a250816p15)
+ - [Best Mineral Sunscreen of 2025](https://www.cnet.com/health/personal-care/best-mineral-sunscreens/#ftag=CAD590a51e)
  - [Explore the Disney+ &#39;Alien: Earth&#39; immersive environment with the Apple Vision Pro now](https://appleinsider.com/articles/25/08/16/explore-the-disney-alien-earth-immersive-environment-with-the-apple-vision-pro-now?utm_source=rss)
- - [How an editor uncovered the &quot;largest self-promotion operation in Wikipedia&#39;s history&quot; that promoted obscure composer David Woodard with entries in 335 languages &lpar;Nate Anderson/Ars Technica&rpar;](http://www.techmeme.com/250816/p14#a250816p14)
- - [Starlink Deal Makes Satellite Dish 50% Cheaper for New Customers. Here&#39;s How It Works](https://www.cnet.com/home/internet/starlink-deal-makes-satellite-dish-50-cheaper-for-new-customers-heres-how-it-works/#ftag=CAD590a51e)
- - [Wobkey Zen65 review: A solid mechanical keyboard with small issues](https://appleinsider.com/articles/25/08/16/wobkey-zen65-review-a-solid-mechanical-keyboard-with-small-issues?utm_source=rss)<!-- TECH:END -->
+ - [German Super Cup Soccer Livestream: How to Watch Stuttgart vs. Bayern Munich From Anywhere](https://www.cnet.com/tech/services-and-software/german-super-cup-soccer-livestream-how-to-watch-stuttgart-vs-bayern-munich-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

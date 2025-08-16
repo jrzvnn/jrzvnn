@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your Uber Eats driver had a snack break before delivering your order](http://9gag.com/gag/aqyAO1P)
- - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
- - 💣 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
- - 😝 [This is what the best yo-yo tricks look like](http://9gag.com/gag/aByoz9O)
- - 👉 [Forests need this method to prevent the fire.](http://9gag.com/gag/aLnr31W)<!-- MEMES:END -->
+ - 😝 [That&#39;s just horrible](http://9gag.com/gag/aryz006)
+ - 😝 [Forests need this method to prevent the fire.](http://9gag.com/gag/aLnr31W)
+ - 💣 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
+ - 👉 [Cool.](http://9gag.com/gag/agmj641)<!-- MEMES:END -->
 
 ---
 

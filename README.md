@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You kNow who wouldn&#39;t last long in Japan, they hate being held accountable](http://9gag.com/gag/a34neN8)
- - 😝 [Inflation](http://9gag.com/gag/aE0EjxO)
- - 💣 [A vending machine](http://9gag.com/gag/ayNPmxr)
- - 😝 [Yes halal](http://9gag.com/gag/aD2MrEO)
- - 👉 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)<!-- MEMES:END -->
+ - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
+ - 😝 [Instinctively,....](http://9gag.com/gag/aLnrN9V)
+ - 💣 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
+ - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
+ - 👉 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)<!-- MEMES:END -->
 
 ---
 

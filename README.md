@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
- - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 💣 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
  - 😝 [Long live the king](http://9gag.com/gag/axy48AY)
- - 👉 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)<!-- MEMES:END -->
+ - 👉 [And my mom is scared](http://9gag.com/gag/a34nzV1)<!-- MEMES:END -->
 
 ---
 

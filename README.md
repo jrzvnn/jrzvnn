@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s just horrible](http://9gag.com/gag/aryz006)
- - 😝 [Forests need this method to prevent the fire.](http://9gag.com/gag/aLnr31W)
- - 💣 [I can fix her.](http://9gag.com/gag/aVvB4dM)
- - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
- - 👉 [Cool.](http://9gag.com/gag/agmj641)<!-- MEMES:END -->
+ - 😝 [Place is garbage and has its own bots..](http://9gag.com/gag/aryz99p)
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 💣 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 😝 [From My Archive](http://9gag.com/gag/ae9WEoQ)
+ - 👉 [`Mr. President Trump, you stood there like a little white noodle, like a fanboy,` - said Arnold Schwarzenegger about Trump&#39;s meeting with Putin.](http://9gag.com/gag/azxQzBN)<!-- MEMES:END -->
 
 ---
 

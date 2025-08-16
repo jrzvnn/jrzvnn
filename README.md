@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My precious](http://9gag.com/gag/a2vG9zD)
- - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 💣 [Interesting](http://9gag.com/gag/aByoNDz)
- - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
- - 👉 [Cool.](http://9gag.com/gag/agmj641)<!-- MEMES:END -->
+ - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
+ - 💣 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
+ - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
+ - 👉 [Success is a part of me.](http://9gag.com/gag/aByobrz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 💣 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
- - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
- - 👉 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)<!-- MEMES:END -->
+ - 😝 [Your Uber Eats driver had a snack break before delivering your order](http://9gag.com/gag/aqyAO1P)
+ - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
+ - 💣 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
+ - 😝 [This is what the best yo-yo tricks look like](http://9gag.com/gag/aByoz9O)
+ - 👉 [Forests need this method to prevent the fire.](http://9gag.com/gag/aLnr31W)<!-- MEMES:END -->
 
 ---
 

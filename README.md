@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
- - 💣 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
- - 😝 [Long live the king](http://9gag.com/gag/axy48AY)
- - 👉 [And my mom is scared](http://9gag.com/gag/a34nzV1)<!-- MEMES:END -->
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [Security guard: he said what?!](http://9gag.com/gag/an7V8DV)
+ - 💣 [Wonder why](http://9gag.com/gag/aMVy6bR)
+ - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
+ - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
 
 ---
 

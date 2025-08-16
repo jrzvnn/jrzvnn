@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Signatures that are also art](http://9gag.com/gag/adBbr22)
- - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
- - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
- - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
+ - 😝 [Frankly](http://9gag.com/gag/azxQDNK)
+ - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
+ - 💣 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 👉 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)<!-- MEMES:END -->
 
 ---
 

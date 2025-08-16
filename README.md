@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
- - 💣 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
- - 👉 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)<!-- MEMES:END -->
+ - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 😝 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
+ - 💣 [Living in 100% relative humidity](http://9gag.com/gag/aND32b3)
+ - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 👉 [Security guard: he said what?!](http://9gag.com/gag/an7V8DV)<!-- MEMES:END -->
 
 ---
 

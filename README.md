@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
- - 😝 [Not all heroes wear capes, some just carry a paint roller](http://9gag.com/gag/apR8zZM)
- - 💣 [And my mom is scared](http://9gag.com/gag/a34nzV1)
- - 😝 [Sorry I can&#39;t! I&#39;m locked in to the German Shopping Cart Return Championships...](http://9gag.com/gag/aLnr3Az)
- - 👉 [Snake bites](http://9gag.com/gag/ae9Wq25)<!-- MEMES:END -->
+ - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 💣 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 👉 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)<!-- MEMES:END -->
 
 ---
 

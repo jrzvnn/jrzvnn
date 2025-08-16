@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [TikTok is updating its Community Guidelines, adding new rules for Live creators, including a requirement that commercial content must be disclosed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250816/p9#a250816p9)
  - [How One Wikipedia Editor Unraveled the ‘Single Largest Self-Promotion Operation’ in the Site&#39;s History](https://www.wired.com/story/wikipedia-editor-largest-self-promotion-operation/)
- - [Premier League Soccer: Livestream Aston Villa vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-live-stream-aston-villa-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [Signs Your Gut Is Unhealthy and 4 Ways to Fix It, According to a Microbiome Expert](https://www.cnet.com/health/medical/signs-your-gut-is-unhealthy-and-4-ways-to-fix-it-according-to-a-microbiome-expert/#ftag=CAD590a51e)
- - [Sources say Meta&#39;s chaotic culture and lack of vision have led to AI brain drain; Meta strongly denies it has had issues with talent and retention &lpar;Forbes&rpar;](http://www.techmeme.com/250816/p8#a250816p8)<!-- TECH:END -->
+ - [Sources say Meta&#39;s chaotic culture and lack of vision have led to AI brain drain; Meta strongly denies it has had issues with talent and retention &lpar;Forbes&rpar;](http://www.techmeme.com/250816/p8#a250816p8)
+ - [The World Humanoid Robot Games kicked off in Beijing on August 15, with robots across 280 teams from 16 countries competing in track and field and other sports &lpar;Reuters&rpar;](http://www.techmeme.com/250816/p7#a250816p7)
+ - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p6#a250816p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

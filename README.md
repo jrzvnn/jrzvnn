@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Living in 100% relative humidity](http://9gag.com/gag/aND32b3)
- - 😝 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 💣 [Comments it yourself](http://9gag.com/gag/a9yB43W)
- - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
- - 👉 [Success is a part of me.](http://9gag.com/gag/aByobrz)<!-- MEMES:END -->
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
+ - 💣 [My precious](http://9gag.com/gag/a2vG9zD)
+ - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
+ - 👉 [Interesting](http://9gag.com/gag/aByoNDz)<!-- MEMES:END -->
 
 ---
 

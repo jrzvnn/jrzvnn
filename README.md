@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Explore the Disney+ &#39;Alien: Earth&#39; immersive environment with the Apple Vision Pro now](https://appleinsider.com/articles/25/08/16/explore-the-disney-alien-earth-immersive-environment-with-the-apple-vision-pro-now?utm_source=rss)
+ - [How an editor uncovered the &quot;largest self-promotion operation in Wikipedia&#39;s history&quot; that promoted obscure composer David Woodard with entries in 335 languages &lpar;Nate Anderson/Ars Technica&rpar;](http://www.techmeme.com/250816/p14#a250816p14)
+ - [Starlink Deal Makes Satellite Dish 50% Cheaper for New Customers. Here&#39;s How It Works](https://www.cnet.com/home/internet/starlink-deal-makes-satellite-dish-50-cheaper-for-new-customers-heres-how-it-works/#ftag=CAD590a51e)
  - [Wobkey Zen65 review: A solid mechanical keyboard with small issues](https://appleinsider.com/articles/25/08/16/wobkey-zen65-review-a-solid-mechanical-keyboard-with-small-issues?utm_source=rss)
- - [Global smart glasses shipments grew 110% YoY in H1; Meta&#39;s share of the market rose to 73%; AI smart glasses accounted for 78% of shipments, up from 46% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250816/p13#a250816p13)
- - [Anthropic enables Claude Opus 4 and 4.1 to end conversations in &quot;cases of persistently harmful or abusive user interactions&quot;; users can still start new chats &lpar;Anthropic&rpar;](http://www.techmeme.com/250816/p12#a250816p12)
- - [Best Wi-Fi 6 Routers for 2025](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
- - [The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut](https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale)<!-- TECH:END -->
+ - [Global smart glasses shipments grew 110% YoY in H1; Meta&#39;s share of the market rose to 73%; AI smart glasses accounted for 78% of shipments, up from 46% YoY &lpar;Counterpoint Research&rpar;](http://www.techmeme.com/250816/p13#a250816p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

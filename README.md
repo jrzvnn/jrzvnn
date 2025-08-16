@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
  - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 💣 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 😝 [Smoking is bad for your health and your vacation days](http://9gag.com/gag/aGybqYZ)
- - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
+ - 😝 [A vending machine](http://9gag.com/gag/ayNPmxr)
+ - 💣 [Yes halal](http://9gag.com/gag/aD2MrEO)
+ - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
+ - 👉 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)<!-- MEMES:END -->
 
 ---
 

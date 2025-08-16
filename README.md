@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder why](http://9gag.com/gag/aMVy6bR)
- - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
- - 💣 [I can fix her.](http://9gag.com/gag/aVvB4dM)
- - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 👉 [My precious](http://9gag.com/gag/a2vG9zD)<!-- MEMES:END -->
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 😝 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
+ - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Long live the king](http://9gag.com/gag/axy48AY)
+ - 👉 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)<!-- MEMES:END -->
 
 ---
 

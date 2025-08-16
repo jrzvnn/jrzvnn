@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 😝 [Goldie but an oldie](http://9gag.com/gag/a7oAPLL)
- - 💣 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
- - 😝 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)
- - 👉 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)<!-- MEMES:END -->
+ - 😝 [Signatures that are also art](http://9gag.com/gag/adBbr22)
+ - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 💣 [Give me your best double potato mash gifs](http://9gag.com/gag/abAEm1b)
+ - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
+ - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
 
 ---
 

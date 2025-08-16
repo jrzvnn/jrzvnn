@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 😝 [Your Uber Eats driver had a snack break before delivering your order](http://9gag.com/gag/aqyAO1P)
- - 💣 [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [This is why Vegas tourism will stay down American shows that in his Vegas hotel you can\u2019t even use the mini fridge anymore. They have equipt it with sensors and if you put anything inside you\u2019ll be charged $50 per day](http://9gag.com/gag/a4PV8qA)
- - 👉 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)<!-- MEMES:END -->
+ - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
+ - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
+ - 💣 [This parent gets its...](http://9gag.com/gag/avymVAn)
+ - 😝 [From My Archive](http://9gag.com/gag/ae9WEoQ)
+ - 👉 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)<!-- MEMES:END -->
 
 ---
 

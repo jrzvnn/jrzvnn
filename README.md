@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Generative AI Gave MIT Scientists a New Tool to Fight Antibiotic-Resistant Bacteria](https://www.cnet.com/tech/services-and-software/generative-ai-gave-mit-scientists-a-new-tool-to-fight-antibiotic-resistant-bacteria/#ftag=CAD590a51e)
  - [11 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [Dead Take’s best scares come from real-life performances](https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr)
- - [UN Plastics Treaty Talks Once Again End in Failure](https://www.wired.com/story/un-plastics-treaty-talks-once-again-end-in-failure/)
- - [Apple Watch&#39;s 2026 changes may include more sensors, exterior update](https://appleinsider.com/articles/25/08/16/apple-watchs-2026-changes-may-include-more-sensors-exterior-update?utm_source=rss)
- - [A profile of UCB CS professor Ion Stoica, a billionaire who has helped launch four startups out of his privately-funded research lab, including Databricks &lpar;Martina Di Licosa/Forbes&rpar;](http://www.techmeme.com/250816/p10#a250816p10)<!-- TECH:END -->
+ - [Mini-LED vs. OLED: What&#39;s the Best?](https://www.cnet.com/tech/home-entertainment/oled-vs-led-vs-miniled-vs-lcd-whats-the-best/#ftag=CAD590a51e)
+ - [Ozempic Users Can Now Workout With Apple Fitness Plus Through New Weight-Loss Partnership](https://www.cnet.com/health/apple-fitness-plus-and-futurhealth-team-up-with-new-weight-loss-partnership/#ftag=CAD590a51e)
+ - [Best Adjustable Dumbbells for 2025: Fitness Expert Tested](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

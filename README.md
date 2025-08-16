@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV](https://www.wired.com/story/gear-news-of-the-week-a-new-privacy-phone-arrives-and-samsung-has-a-115-inch-micro-rgb-tv/)
- - [Russia Is Cracking Down on End-to-End Encrypted Calls](https://www.wired.com/story/russia-crack-down-end-to-end-encrypted-calling/)
- - [19 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
- - [WIRED’s Guide to Buying a Used Plug-In Hybrid](https://www.wired.com/story/the-guide-to-buying-a-used-plug-in-hybrid-phev/)
- - [TikTok is updating its Community Guidelines, adding new rules for Live creators, including a requirement that commercial content must be disclosed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250816/p9#a250816p9)<!-- TECH:END -->
+ - [UN Plastics Treaty Talks Once Again End in Failure](https://www.wired.com/story/un-plastics-treaty-talks-once-again-end-in-failure/)
+ - [The 47 Best Movies on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Apple Finally Destroyed Steve Jobs’ Vision of the iPad. Good](https://www.wired.com/story/apple-finally-destroyed-steve-jobss-vision-of-the-ipad-good/)
+ - [The 47 Best Shows on Netflix Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV](https://www.wired.com/story/gear-news-of-the-week-a-new-privacy-phone-arrives-and-samsung-has-a-115-inch-micro-rgb-tv/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

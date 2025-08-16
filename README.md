@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
- - [Amazon discounts M4 Mac mini to $499 during weekend sale](https://appleinsider.com/articles/25/08/16/amazon-discounts-m4-mac-mini-to-499-during-weekend-sale?utm_source=rss)
- - [GPT-5&#39;s underwhelming performance on benchmarks suggests that the current approach of scaling LLMs is starting to reach the limits of available resources &lpar;Financial Times&rpar;](http://www.techmeme.com/250816/p15#a250816p15)
- - [Best Mineral Sunscreen of 2025](https://www.cnet.com/health/personal-care/best-mineral-sunscreens/#ftag=CAD590a51e)
- - [Explore the Disney+ &#39;Alien: Earth&#39; immersive environment with the Apple Vision Pro now](https://appleinsider.com/articles/25/08/16/explore-the-disney-alien-earth-immersive-environment-with-the-apple-vision-pro-now?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 17, #532](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-17-532/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 17, #798](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-17-798/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 17, #1520](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-17-1520/#ftag=CAD590a51e)
+ - [Amazon discounts M4 Mac mini to $499 during weekend sale](https://appleinsider.com/articles/25/08/16/amazon-discounts-m4-mac-mini-to-499-during-weekend-sale?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
- - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
- - 💣 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
- - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
- - 👉 [Success is a part of me.](http://9gag.com/gag/aByobrz)<!-- MEMES:END -->
+ - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 💣 [So where the f**k is it?! Why is the sun still showing? What on the ever going on shining hell is this shit?!!! I NEED RAINNNNN!](http://9gag.com/gag/a87z92Y)
+ - 😝 [Interesting](http://9gag.com/gag/aByoNDz)
+ - 👉 [My precious](http://9gag.com/gag/a2vG9zD)<!-- MEMES:END -->
 
 ---
 

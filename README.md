@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
- - 💣 [My precious](http://9gag.com/gag/a2vG9zD)
+ - 😝 [My precious](http://9gag.com/gag/a2vG9zD)
+ - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 💣 [Interesting](http://9gag.com/gag/aByoNDz)
  - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
- - 👉 [Interesting](http://9gag.com/gag/aByoNDz)<!-- MEMES:END -->
+ - 👉 [Cool.](http://9gag.com/gag/agmj641)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 😝 [A vending machine](http://9gag.com/gag/ayNPmxr)
- - 💣 [Yes halal](http://9gag.com/gag/aD2MrEO)
- - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
- - 👉 [Woodturning is one of the most satisfying things to watch.](http://9gag.com/gag/aVvB4Zd)<!-- MEMES:END -->
+ - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 💣 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 😝 [Smoking is bad for your health and your vacation days](http://9gag.com/gag/aGybqYZ)
+ - 👉 [Picnic](http://9gag.com/gag/an7VW2L)<!-- MEMES:END -->
 
 ---
 

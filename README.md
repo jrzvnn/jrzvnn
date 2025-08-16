@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
- - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
- - 💣 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 😝 [Smoking is bad for your health and your vacation days](http://9gag.com/gag/aGybqYZ)
- - 👉 [Picnic](http://9gag.com/gag/an7VW2L)<!-- MEMES:END -->
+ - 😝 [Frankly](http://9gag.com/gag/azxQDNK)
+ - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
+ - 👉 [And my mom is scared](http://9gag.com/gag/a34nzV1)<!-- MEMES:END -->
 
 ---
 

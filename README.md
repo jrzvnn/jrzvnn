@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 😝 [Frankly](http://9gag.com/gag/azxQDNK)
- - 💣 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
+ - 😝 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
  - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
  - 👉 [Success is a part of me.](http://9gag.com/gag/aByobrz)<!-- MEMES:END -->
 

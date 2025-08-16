@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
- - 😝 [Instinctively,....](http://9gag.com/gag/aLnrN9V)
- - 💣 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)
- - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
- - 👉 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)<!-- MEMES:END -->
+ - 😝 [Signatures that are also art](http://9gag.com/gag/adBbr22)
+ - 😝 [Frankly](http://9gag.com/gag/azxQDNK)
+ - 💣 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 😝 [Azov cut russias \u201ebreakthrough\u201c into pieces.](http://9gag.com/gag/ae9Wqdm)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 

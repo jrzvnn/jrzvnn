@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wonder why](http://9gag.com/gag/aMVy6bR)
  - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 💣 [Frankly](http://9gag.com/gag/azxQDNK)
- - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
- - 👉 [My precious](http://9gag.com/gag/a2vG9zD)<!-- MEMES:END -->
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 💣 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
+ - 👉 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)<!-- MEMES:END -->
 
 ---
 

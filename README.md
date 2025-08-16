@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Not all heroes wear capes, some just carry a paint roller](http://9gag.com/gag/apR8zZM)
  - 💣 [And my mom is scared](http://9gag.com/gag/a34nzV1)
  - 😝 [Sorry I can&#39;t! I&#39;m locked in to the German Shopping Cart Return Championships...](http://9gag.com/gag/aLnr3Az)
- - 👉 [Long live the king](http://9gag.com/gag/axy48AY)<!-- MEMES:END -->
+ - 👉 [Snake bites](http://9gag.com/gag/ae9Wq25)<!-- MEMES:END -->
 
 ---
 

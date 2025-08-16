@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Map of English Channel swims completed so far this season](http://9gag.com/gag/avymXVq)
- - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
- - 💣 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
- - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
+ - 😝 [Cool.](http://9gag.com/gag/agmj641)
+ - 😝 [It&#39;s `Anything Can Happen Friday`](http://9gag.com/gag/a9yBZx6)
+ - 💣 [Success is a part of me.](http://9gag.com/gag/aByobrz)
+ - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
+ - 👉 [Nice idea Bro](http://9gag.com/gag/a1mw8mG)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - 😝 [Comments it yourself](http://9gag.com/gag/a9yB43W)
- - 💣 [That&#39;s just horrible](http://9gag.com/gag/aryz006)
- - 😝 [This is why Vegas tourism will stay down American shows that in his Vegas hotel you can\u2019t even use the mini fridge anymore. They have equipt it with sensors and if you put anything inside you\u2019ll be charged $50 per day](http://9gag.com/gag/a4PV8qA)
- - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
+ - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
+ - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
+ - 💣 [This parent gets its...](http://9gag.com/gag/avymVAn)
+ - 😝 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
+ - 👉 [From My Archive](http://9gag.com/gag/ae9WEoQ)<!-- MEMES:END -->
 
 ---
 

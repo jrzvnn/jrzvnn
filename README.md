@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
- - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 💣 [Interesting](http://9gag.com/gag/aByoNDz)
- - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 👉 [And my mom is scared](http://9gag.com/gag/a34nzV1)<!-- MEMES:END -->
+ - 😝 [Wonder why](http://9gag.com/gag/aMVy6bR)
+ - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
+ - 💣 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
+ - 👉 [My precious](http://9gag.com/gag/a2vG9zD)<!-- MEMES:END -->
 
 ---
 

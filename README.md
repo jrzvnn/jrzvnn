@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/aByoNDz)
+ - 😝 [Wonder why](http://9gag.com/gag/aMVy6bR)
  - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 💣 [Wonder why](http://9gag.com/gag/aMVy6bR)
- - 😝 [Snowman had enough of karen](http://9gag.com/gag/aKGpyD6)
- - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
+ - 💣 [Frankly](http://9gag.com/gag/azxQDNK)
+ - 😝 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)
+ - 👉 [My precious](http://9gag.com/gag/a2vG9zD)<!-- MEMES:END -->
 
 ---
 

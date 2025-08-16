@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frankly](http://9gag.com/gag/azxQDNK)
- - 😝 [The therapist when the card declines :](http://9gag.com/gag/aMVyD21)
- - 💣 [I can fix her.](http://9gag.com/gag/aVvB4dM)
+ - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
  - 😝 [Success is a part of me.](http://9gag.com/gag/aByobrz)
- - 👉 [There was a public event where free cake was offered to attendees to enjoy with the music. This is how the \u201cattendees\u201d shared the cake.](http://9gag.com/gag/aPAndLq)<!-- MEMES:END -->
+ - 💣 [Its ok not to be ok](http://9gag.com/gag/aByoj6x)
+ - 😝 [Smoking is bad for your health and your vacation days](http://9gag.com/gag/aGybqYZ)
+ - 👉 [A Senior Alpha dog puts a troublemaker in check](http://9gag.com/gag/aMVyNE6)<!-- MEMES:END -->
 
 ---
 

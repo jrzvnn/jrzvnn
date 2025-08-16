@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox plans to restrict unrated experiences to devs, automatically remove servers with violative content, and limit some social hangouts to verified 17+ users &lpar;Matt Kaufman/Roblox Corporate&rpar;](http://www.techmeme.com/250815/p24#a250815p24)
+ - [UFC 319: du Plessis vs. Chimaev — Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-319-du-plessis-vs-khamzat-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)
  - [Laura Loomer and the limits of posting everything](https://www.theverge.com/politics/760269/laura-loomer-deposition)
  - [Sources: current and former OpenAI employees plan to sell ~$6B in stock to Thrive Capital, SoftBank, and others in a secondary sale that values OpenAI at ~$500B &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250815/p23#a250815p23)
- - [Best Alkaline Batteries for Your Devices in 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)
- - [Beijing&#39;s &#39;Robot Olympics&#39; Are Off and Running &lpar;and Falling&rpar;](https://www.cnet.com/tech/services-and-software/beijings-robot-olympics-are-off-and-running-and-falling/#ftag=CAD590a51e)
- - [9 Best Pillows &lpar;2025&rpar; Tested For Side, Back, and Stomach Sleepers](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
+ - [Best Alkaline Batteries for Your Devices in 2025](https://www.cnet.com/news/best-alkaline-batteries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

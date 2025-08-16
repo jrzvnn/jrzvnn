@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The World Humanoid Robot Games kicked off in Beijing on August 15, with robots across 280 teams from 16 countries competing in track and field and other sports &lpar;Reuters&rpar;](http://www.techmeme.com/250816/p7#a250816p7)
+ - [Applied Materials Q3: revenue up 8% YoY to $7.3B, vs. $7.22B est., profit up 4% YoY to $1.78B, and projects Q4 revenue and profit below est. on China challenges &lpar;Kelly Cloonan/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p6#a250816p6)
+ - [Jump, a SaaS startup founded by Alex Rodriguez and Marc Lore for managing sports ticketing and fan experiences, raised a $23M Series A at a $100M+ valuation &lpar;Justin Birnbaum/Forbes&rpar;](http://www.techmeme.com/250816/p5#a250816p5)
  - [Lyft co-founders Logan Green and John Zimmer step down as board chair and vice chair, convert their Class B stock to Class A, completing the succession plan &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250816/p4#a250816p4)
- - [Hands-on with Tiramisu, Meta&#39;s &quot;hyperrealistic&quot; VR research prototype with beyond-retinal resolution, high brightness and contrast, and a narrow field of view &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250816/p3#a250816p3)
- - [Filing: Shein reports 2024 UK sales up 32.3% YoY to £2.05B, making the UK its third largest market after the US and Germany, as it works toward a Hong Kong IPO &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250816/p2#a250816p2)
- - [Hands-on with Boba 3, Meta&#39;s prototype PC VR headset with a form factor similar to the Quest 3, featuring an ultrawide field of view of 180° by 120° &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250816/p1#a250816p1)
- - [A proposed class action lawsuit accuses Otter.ai of &quot;deceptively and surreptitiously&quot; recording private conversations to train its AI without user consent &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250815/p25#a250815p25)<!-- TECH:END -->
+ - [Hands-on with Tiramisu, Meta&#39;s &quot;hyperrealistic&quot; VR research prototype with beyond-retinal resolution, high brightness and contrast, and a narrow field of view &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250816/p3#a250816p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

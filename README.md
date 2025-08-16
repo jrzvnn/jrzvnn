@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV](https://www.wired.com/story/gear-news-of-the-week-a-new-privacy-phone-arrives-and-samsung-has-a-115-inch-micro-rgb-tv/)
+ - [Russia Is Cracking Down on End-to-End Encrypted Calls](https://www.wired.com/story/russia-crack-down-end-to-end-encrypted-calling/)
  - [19 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
- - [WIRED’s Guide to Buying a Used Plug-In Hybrid](https://www.wired.com/story/the-guide-to-buying-a-used-plug-in-hybrid-phev/)
- - [TikTok is updating its Community Guidelines, adding new rules for Live creators, including a requirement that commercial content must be disclosed &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250816/p9#a250816p9)
- - [How One Wikipedia Editor Unraveled the ‘Single Largest Self-Promotion Operation’ in the Site&#39;s History](https://www.wired.com/story/wikipedia-editor-largest-self-promotion-operation/)
- - [Premier League Soccer: Livestream Aston Villa vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-live-stream-aston-villa-vs-newcastle-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 26 Best TV Shows on Disney Plus](https://www.cnet.com/tech/services-and-software/best-disney-plus-tv-shows-2025/#ftag=CAD590a51e)
+ - [WIRED’s Guide to Buying a Used Plug-In Hybrid](https://www.wired.com/story/the-guide-to-buying-a-used-plug-in-hybrid-phev/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

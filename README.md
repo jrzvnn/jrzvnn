@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Vision versus Reality!](http://9gag.com/gag/aVvB42d)
- - 😝 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)
- - 💣 [Map of English Channel swims completed so far this season](http://9gag.com/gag/avymXVq)
- - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
- - 👉 [Success is a part of me.](http://9gag.com/gag/aByobrz)<!-- MEMES:END -->
+ - 😝 [Map of English Channel swims completed so far this season](http://9gag.com/gag/avymXVq)
+ - 😝 [And my mom is scared](http://9gag.com/gag/a34nzV1)
+ - 💣 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
+ - 👉 [Iron Snoopy for iron deficiency, a genius idea](http://9gag.com/gag/aPAnzqR)<!-- MEMES:END -->
 
 ---
 

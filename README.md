@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Anthropic enables Claude Opus 4 and 4.1 to end conversations in &quot;cases of persistently harmful or abusive user interactions&quot;; users can still start new chats &lpar;Anthropic&rpar;](http://www.techmeme.com/250816/p12#a250816p12)
- - [Best Wi-Fi 6 Routers for 2025](https://www.cnet.com/home/internet/best-wi-fi-6-routers/#ftag=CAD590a51e)
  - [The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut](https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale)
  - [I Tried the Best At-Home Pet DNA Test Kits on My Two Cats &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-dna-tests/)
- - [A look at AI-powered stuffed animals like Grem, Grok, and Gabbo, which are being promoted as an alternative to screen time for children as young as 3 &lpar;Amanda Hess/New York Times&rpar;](http://www.techmeme.com/250816/p11#a250816p11)<!-- TECH:END -->
+ - [A look at AI-powered stuffed animals like Grem, Grok, and Gabbo, which are being promoted as an alternative to screen time for children as young as 3 &lpar;Amanda Hess/New York Times&rpar;](http://www.techmeme.com/250816/p11#a250816p11)
+ - [&#39;Thunderbolts&#39; Streaming on Disney Plus: Release Date and Time](https://www.cnet.com/tech/services-and-software/thunderbolts-streaming-on-disney-plus-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Snake bites](http://9gag.com/gag/ae9Wq25)
- - 😝 [Female villains throughout the years](http://9gag.com/gag/aO8GOdE)
- - 💣 [This parent gets its...](http://9gag.com/gag/avymVAn)
- - 😝 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
- - 👉 [From My Archive](http://9gag.com/gag/ae9WEoQ)<!-- MEMES:END -->
+ - 😝 [That&#39;s just horrible](http://9gag.com/gag/aryz006)
+ - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
+ - 💣 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
+ - 😝 [This is what the best yo-yo tricks look like](http://9gag.com/gag/aByoz9O)
+ - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
 
 ---
 

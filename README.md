@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool.](http://9gag.com/gag/agmj641)
- - 😝 [Security guard: he said what?!](http://9gag.com/gag/an7V8DV)
- - 💣 [Wonder why](http://9gag.com/gag/aMVy6bR)
- - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
- - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
+ - 😝 [Two men of culture meet in the wild](http://9gag.com/gag/aXPeQ1d)
+ - 😝 [Not all heroes wear capes, some just carry a paint roller](http://9gag.com/gag/apR8zZM)
+ - 💣 [And my mom is scared](http://9gag.com/gag/a34nzV1)
+ - 😝 [Sorry I can&#39;t! I&#39;m locked in to the German Shopping Cart Return Championships...](http://9gag.com/gag/aLnr3Az)
+ - 👉 [Long live the king](http://9gag.com/gag/axy48AY)<!-- MEMES:END -->
 
 ---
 

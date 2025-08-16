@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Shein reports 2024 UK sales up 32.3% YoY to £2.05B, making the UK its third largest market after the US and Germany, as it works toward a Hong Kong IPO &lpar;Helen Reid/Reuters&rpar;](http://www.techmeme.com/250816/p2#a250816p2)
  - [Hands-on with Boba 3, Meta&#39;s prototype PC VR headset with a form factor similar to the Quest 3, featuring an ultrawide field of view of 180° by 120° &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250816/p1#a250816p1)
  - [A proposed class action lawsuit accuses Otter.ai of &quot;deceptively and surreptitiously&quot; recording private conversations to train its AI without user consent &lpar;Bobby Allyn/NPR&rpar;](http://www.techmeme.com/250815/p25#a250815p25)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-16/#ftag=CAD590a51e)
- - [Roblox plans to restrict unrated experiences to devs, automatically remove servers with violative content, and limit some social hangouts to verified 17+ users &lpar;Matt Kaufman/Roblox Corporate&rpar;](http://www.techmeme.com/250815/p24#a250815p24)
- - [UFC 319: du Plessis vs. Chimaev — Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-319-du-plessis-vs-khamzat-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Roblox plans to restrict unrated experiences to devs, automatically remove servers with violative content, and limit some social hangouts to verified 17+ users &lpar;Matt Kaufman/Roblox Corporate&rpar;](http://www.techmeme.com/250815/p24#a250815p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

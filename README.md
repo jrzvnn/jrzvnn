@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m a guy who likes to draw, and I want to thank you dudes/dudettes for all the nice feedback. My illustration is finally finished and i hope some off you find enjoyment in it. I tried to create an image that looks like the illustrations from the fairytale-books I read as a kid.](http://9gag.com/gag/aByo5RQ)
- - 😝 [Cool to see. Figured I would toss it in here](http://9gag.com/gag/abAEDAb)
- - 💣 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 😝 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
- - 👉 [He did it!](http://9gag.com/gag/a9yBewm)<!-- MEMES:END -->
+ - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - 😝 [0 survival instinct](http://9gag.com/gag/aZZvK39)
+ - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
+ - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
 
 ---
 

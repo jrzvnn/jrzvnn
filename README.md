@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NYC-based Protege, which prepares and sells real-world datasets like lab results and sports footage for AI training, raised a $25M Series A led by Footwork &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250817/p9#a250817p9)
  - [Sources: Apple slow-walks immersive content it shot around the launch of Vision Pro; Meta may launch &quot;Hypernova&quot; smart glasses with display for ~$800 next month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250817/p8#a250817p8)
  - [A look at the &quot;Palantir Mafia&quot;, a group of Palantir alumni who have started or are leading 350+ tech companies, including at least a dozen valued at $1B+ &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p7#a250817p7)
  - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
- - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
- - [These 5 Posture Corrector Picks Will Straighten You Out &lpar;2025&rpar;](https://www.wired.com/gallery/posture-correctors/)<!-- TECH:END -->
+ - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

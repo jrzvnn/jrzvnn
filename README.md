@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Indoor Security Cameras for 2025: Tested in Our Own Homes](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
  - [Interview with Trent Brunson, R&amp;D director at cybersecurity firm Trail of Bits, which won $3M and 2nd place in DARPA&#39;s AI Cyber Challenge, behind Team Atlanta &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250817/p11#a250817p11)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 18, #799](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-18-799/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 18, #1521](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-18-1521/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 18, #533](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-18-533/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 18, #533](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-18-533/#ftag=CAD590a51e)
+ - [Ben Stiller, Tramell Tillman bring a &#39;Severance&#39; marching band to a &#39;Zoolander&#39; screening](https://appleinsider.com/articles/25/08/17/ben-stiller-tramell-tillman-bring-a-severance-marching-band-to-a-zoolander-screening?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

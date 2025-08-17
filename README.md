@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 😝 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
- - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
- - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
- - 👉 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)<!-- MEMES:END -->
+ - 😝 [At least they could pretend that they care a little](http://9gag.com/gag/agmjpq6)
+ - 😝 [Directed by Michael Bay](http://9gag.com/gag/a7oAmLe)
+ - 💣 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 😝 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
+ - 👉 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)<!-- MEMES:END -->
 
 ---
 

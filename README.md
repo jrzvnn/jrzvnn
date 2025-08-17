@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Start Saving Now: An iPhone 17 Pro Price Hike Is Likely, Says New Report](https://www.cnet.com/tech/mobile/start-saving-now-an-iphone-17-pro-price-hike-is-likely-says-new-report/#ftag=CAD590a51e)
  - [What Is the Electric Constant and Why Should You Care?](https://www.wired.com/story/what-is-the-electric-constant-and-why-should-you-care/)
- - [The 7 Best Mattress Toppers &lpar;2025&rpar; Out of Dozens We&#39;ve Tested: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)
- - [India&#39;s blueprint to displace China as the world&#39;s electronics workshop relies heavily on Chinese companies&#39; technical expertise and manufacturing know-how &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250817/p5#a250817p5)
- - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
- - [Premier League Soccer: Livestream Nottingham Forest vs. Brentford From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-brentford-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Prefer the Merlin Bird ID App Over Meditation Apps for Staying in the Present Moment](https://www.cnet.com/health/i-now-prefer-the-merlin-bird-id-app-over-meditation-apps-for-staying-in-the-present-moment/#ftag=CAD590a51e)
+ - [Best Senior Phone Plans of 2025](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)
+ - [The 7 Best Mattress Toppers &lpar;2025&rpar; Out of Dozens We&#39;ve Tested: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

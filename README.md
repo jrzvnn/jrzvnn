@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At least they could pretend that they care a little](http://9gag.com/gag/agmjpq6)
- - 😝 [Directed by Michael Bay](http://9gag.com/gag/a7oAmLe)
- - 💣 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
- - 😝 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
- - 👉 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)<!-- MEMES:END -->
+ - 😝 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 💣 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
+ - 😝 [Cool to see. Figured I would toss it in here](http://9gag.com/gag/abAEDAb)
+ - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
 
 ---
 

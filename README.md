@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
  - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
  - 💣 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
- - 😝 [Cool to see. Figured I would toss it in here](http://9gag.com/gag/abAEDAb)
+ - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
  - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
 
 ---

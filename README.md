@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
  - 😝 [0 survival instinct](http://9gag.com/gag/aZZvK39)
- - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
- - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
+ - 💣 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
+ - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 👉 [Imagine if we nuke them thrice.](http://9gag.com/gag/aW49Ax4)<!-- MEMES:END -->
 
 ---
 

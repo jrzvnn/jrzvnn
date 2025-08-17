@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
  - 💣 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
  - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 👉 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)<!-- MEMES:END -->
+ - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
 
 ---
 

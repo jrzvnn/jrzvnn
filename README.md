@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the &quot;Palantir Mafia&quot;, a group of Palantir alumni who have started or are leading 350+ tech companies, including at least a dozen valued at $1B+ &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p7#a250817p7)
  - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
  - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
  - [These 5 Posture Corrector Picks Will Straighten You Out &lpar;2025&rpar;](https://www.wired.com/gallery/posture-correctors/)
- - [Premier League Soccer: Stream Man United vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-united-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
- - [Why the former editor of Polygon is making a podcast for old gamers](https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Man United vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-united-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

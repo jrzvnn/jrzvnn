@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jiggle work try hard today](http://9gag.com/gag/aO8GOZ2)
  - 😝 [For those who need to hear this](http://9gag.com/gag/apR8729)
- - 💣 [Long live the king](http://9gag.com/gag/axy48AY)
- - 😝 [Cool to see. Figured I would toss it in here](http://9gag.com/gag/abAEDAb)
+ - 😝 [Long live the king](http://9gag.com/gag/axy48AY)
+ - 💣 [Cool to see. Figured I would toss it in here](http://9gag.com/gag/abAEDAb)
+ - 😝 [There we go](http://9gag.com/gag/aND3MO4)
  - 👉 [This is what the best yo-yo tricks look like](http://9gag.com/gag/aByoz9O)<!-- MEMES:END -->
 
 ---

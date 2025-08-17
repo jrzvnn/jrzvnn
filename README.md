@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For those who need to hear this](http://9gag.com/gag/apR8729)
- - 😝 [Long live the king](http://9gag.com/gag/axy48AY)
- - 💣 [This is what the best yo-yo tricks look like](http://9gag.com/gag/aByoz9O)
- - 😝 [There we go](http://9gag.com/gag/aND3MO4)
- - 👉 [Cool to see. Figured I would toss it in here](http://9gag.com/gag/abAEDAb)<!-- MEMES:END -->
+ - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
+ - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 💣 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
+ - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
+ - 👉 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)<!-- MEMES:END -->
 
 ---
 

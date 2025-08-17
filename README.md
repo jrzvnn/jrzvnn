@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
- - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
- - 💣 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 😝 [Wonder why](http://9gag.com/gag/aMVy6bR)
+ - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
  - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
- - 👉 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)<!-- MEMES:END -->
+ - 👉 [At least they could pretend that they care a little](http://9gag.com/gag/agmjpq6)<!-- MEMES:END -->
 
 ---
 

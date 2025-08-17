@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 7 Best Mattress Toppers &lpar;2025&rpar; Out of Dozens We&#39;ve Tested: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)
  - [India&#39;s blueprint to displace China as the world&#39;s electronics workshop relies heavily on Chinese companies&#39; technical expertise and manufacturing know-how &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250817/p5#a250817p5)
  - [The Best Pixel 9 Cases, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-google-pixel-9-cases-and-accessories/)
  - [Cognitive scientist Margaret Boden, whose books helped shape the philosophical conversation about human intelligence and AI, passed away on July 18 at age 88 &lpar;Michael S. Rosenwald/New York Times&rpar;](http://www.techmeme.com/250817/p4#a250817p4)
- - [Big Tech&#39;s reverse acquihires for AI talent are hollowing out startups and eroding the culture that has made Silicon Valley an unparalleled source of innovation &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p3#a250817p3)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big Tech&#39;s reverse acquihires for AI talent are hollowing out startups and eroding the culture that has made Silicon Valley an unparalleled source of innovation &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p3#a250817p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

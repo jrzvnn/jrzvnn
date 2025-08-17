@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
- - 😝 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
+ - 😝 [Your Uber Eats driver had a snack break before delivering your order](http://9gag.com/gag/aqyAO1P)
+ - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
  - 💣 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
- - 😝 [UK security](http://9gag.com/gag/aGybvpw)
- - 👉 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)<!-- MEMES:END -->
+ - 😝 [Pardon moi](http://9gag.com/gag/aO8GEPv)
+ - 👉 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)<!-- MEMES:END -->
 
 ---
 

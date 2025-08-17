@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Real wealth is having $6 billion, obviously](http://9gag.com/gag/aXPe329)
  - 😝 [Rise! Rise, my glorious creation, and come to Papa!](http://9gag.com/gag/aAyZA9o)
- - 💣 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
- - 😝 [UK security](http://9gag.com/gag/aGybvpw)
+ - 😝 [Real wealth is having $6 billion, obviously](http://9gag.com/gag/aXPe329)
+ - 💣 [UK security](http://9gag.com/gag/aGybvpw)
+ - 😝 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
  - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---

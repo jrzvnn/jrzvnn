@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
- - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 💣 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
- - 😝 [I\u2019m a guy who likes to draw, and I want to thank you dudes/dudettes for all the nice feedback. My illustration is finally finished and i hope some off you find enjoyment in it. I tried to create an image that looks like the illustrations from the fairytale-books I read as a kid.](http://9gag.com/gag/aByo5RQ)
- - 👉 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)<!-- MEMES:END -->
+ - 😝 [No shit, Sherlock](http://9gag.com/gag/ayNPAxy)
+ - 💣 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 😝 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
+ - 👉 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)<!-- MEMES:END -->
 
 ---
 

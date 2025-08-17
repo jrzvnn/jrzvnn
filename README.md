@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the problems at Uber Freight, which has posted operating losses every year since it was founded in 2017, except for 2022, and just appointed a new CEO &lpar;Thomas Black/Bloomberg&rpar;](http://www.techmeme.com/250816/p18#a250816p18)
  - [Barbour ABI: the UK&#39;s data center count, currently 477, is set to jump by ~100 over the next five years, with more than half in London and neighboring counties &lpar;BBC&rpar;](http://www.techmeme.com/250816/p17#a250816p17)
  - [I Used an AI-Powered Glucose Monitor for 2 Weeks. Here&#39;s What Surprised Me](https://www.cnet.com/health/medical/i-used-an-ai-powered-glucose-monitor-for-2-weeks-heres-what-surprised-me/#ftag=CAD590a51e)
  - [A new Artificial Analysis benchmark, focusing on OpenAI&#39;s gpt-oss-120b, shows how open-weight LLMs exhibit inconsistent performance across hosting providers &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250816/p16#a250816p16)
- - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 17, #532](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-17-532/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 18, #799](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-18-799/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 18, #1521](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-18-1521/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 18, #533](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-18-533/#ftag=CAD590a51e)
  - [Ben Stiller, Tramell Tillman bring a &#39;Severance&#39; marching band to a &#39;Zoolander&#39; screening](https://appleinsider.com/articles/25/08/17/ben-stiller-tramell-tillman-bring-a-severance-marching-band-to-a-zoolander-screening?utm_source=rss)
- - [How Chinese streaming giants iQiyi and Tencent are gaining on Netflix in Southeast Asia through original productions and free, ad-supported services &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250817/p10#a250817p10)
- - [Best Teeth Whitening Kits You Should Check Out In 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
- - [I Test Meal Kits for a Living. Here Are 7 Mistakes That Could Cost You Money &lpar;and Meals!&rpar;](https://www.cnet.com/health/nutrition/i-test-meal-kits-for-a-living-here-are-7-mistakes-that-could-cost-you-money-and-meals/#ftag=CAD590a51e)
- - [NYC-based Protege, which prepares and sells real-world datasets like lab results and sports footage for AI training, raised a $25M Series A led by Footwork &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250817/p9#a250817p9)<!-- TECH:END -->
+ - [How Chinese streaming giants iQiyi and Tencent are gaining on Netflix in Southeast Asia through original productions and free, ad-supported services &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250817/p10#a250817p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 😝 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 😝 [0 survival instinct](http://9gag.com/gag/aZZvK39)
  - 💣 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
+ - 😝 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 👉 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)<!-- MEMES:END -->
 
 ---
 

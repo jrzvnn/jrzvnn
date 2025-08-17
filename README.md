@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
- - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 💣 [This is why Vegas tourism will stay down American shows that in his Vegas hotel you can\u2019t even use the mini fridge anymore. They have equipt it with sensors and if you put anything inside you\u2019ll be charged $50 per day](http://9gag.com/gag/a4PV8qA)
- - 😝 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
- - 👉 [At least they could pretend that they care a little](http://9gag.com/gag/agmjpq6)<!-- MEMES:END -->
+ - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - 😝 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
+ - 👉 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)<!-- MEMES:END -->
 
 ---
 

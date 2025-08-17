@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s just horrible](http://9gag.com/gag/aryz006)
- - 😝 [Know what they are looking for](http://9gag.com/gag/a5QDvxN)
- - 💣 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
- - 😝 [This is what the best yo-yo tricks look like](http://9gag.com/gag/aByoz9O)
- - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
+ - 😝 [Heh change of power is getting out of hand](http://9gag.com/gag/ayNPrx8)
+ - 😝 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
+ - 💣 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
+ - 😝 [At least they could pretend that they care a little](http://9gag.com/gag/agmjpq6)
+ - 👉 [And my mom is scared](http://9gag.com/gag/a34nzV1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rise! Rise, my glorious creation, and come to Papa!](http://9gag.com/gag/aAyZA9o)
- - 😝 [Real wealth is having $6 billion, obviously](http://9gag.com/gag/aXPe329)
- - 💣 [UK security](http://9gag.com/gag/aGybvpw)
- - 😝 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
- - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
+ - 😝 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
+ - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
+ - 💣 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 😝 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
+ - 👉 [What would you call this player?](http://9gag.com/gag/a87zN0d)<!-- MEMES:END -->
 
 ---
 

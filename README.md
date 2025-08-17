@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
  - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
- - [Why the former editor of Polygon is making a podcast for old gamers](https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon)
- - [PitchBook: 15.9% of VC-backed deals in 2025 so far have been down rounds, a 10-year high, with AI and ML startups accounting for 29.3% of the down rounds &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250817/p6#a250817p6)
- - [Watch Figure 02 Humanoid Fold Laundry in New AI Demo](https://www.cnet.com/tech/computing/watch-figure-02-humanoid-fold-laundry-in-new-ai-demo/#ftag=CAD590a51e)
- - [Camp Snap CS-8 Review: Simple Video Capture](https://www.wired.com/review/camp-snap-cs-8/)<!-- TECH:END -->
+ - [These 5 Posture Corrector Picks Will Straighten You Out &lpar;2025&rpar;](https://www.wired.com/gallery/posture-correctors/)
+ - [Premier League Soccer: Stream Man United vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-united-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
+ - [Why the former editor of Polygon is making a podcast for old gamers](https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

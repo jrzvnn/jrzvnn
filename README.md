@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Teeth Whitening Kits You Should Check Out In 2025](https://www.cnet.com/health/personal-care/best-teeth-whitening-kits/#ftag=CAD590a51e)
+ - [I Test Meal Kits for a Living. Here Are 7 Mistakes That Could Cost You Money &lpar;and Meals!&rpar;](https://www.cnet.com/health/nutrition/i-test-meal-kits-for-a-living-here-are-7-mistakes-that-could-cost-you-money-and-meals/#ftag=CAD590a51e)
  - [NYC-based Protege, which prepares and sells real-world datasets like lab results and sports footage for AI training, raised a $25M Series A led by Footwork &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250817/p9#a250817p9)
  - [Sources: Apple slow-walks immersive content it shot around the launch of Vision Pro; Meta may launch &quot;Hypernova&quot; smart glasses with display for ~$800 next month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250817/p8#a250817p8)
- - [A look at the &quot;Palantir Mafia&quot;, a group of Palantir alumni who have started or are leading 350+ tech companies, including at least a dozen valued at $1B+ &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p7#a250817p7)
- - [Qi 2.2 is coming to iPhone with faster charging -- here&#39;s what you need to know](https://appleinsider.com/articles/25/08/13/qi-22-is-coming-to-iphone-with-faster-charging----heres-what-you-need-to-know?utm_source=rss)
- - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)<!-- TECH:END -->
+ - [A look at the &quot;Palantir Mafia&quot;, a group of Palantir alumni who have started or are leading 350+ tech companies, including at least a dozen valued at $1B+ &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250817/p7#a250817p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

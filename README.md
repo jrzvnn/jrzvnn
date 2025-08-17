@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - 😝 [Healthy marriage](http://9gag.com/gag/a1mwn62)
- - 💣 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
  - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
- - 👉 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)<!-- MEMES:END -->
+ - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
+ - 💣 [What would you call this player?](http://9gag.com/gag/a87zN0d)
+ - 😝 [Bunny choose barrel roll..](http://9gag.com/gag/a87zOqZ)
+ - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---
 

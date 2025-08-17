@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 😝 [0 survival instinct](http://9gag.com/gag/aZZvK39)
- - 💣 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 😝 [Master Gamers....](http://9gag.com/gag/aAyZL9g)
- - 👉 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)<!-- MEMES:END -->
+ - 😝 [For those who need to hear this](http://9gag.com/gag/apR8729)
+ - 😝 [Long live the king](http://9gag.com/gag/axy48AY)
+ - 💣 [This is what the best yo-yo tricks look like](http://9gag.com/gag/aByoz9O)
+ - 😝 [There we go](http://9gag.com/gag/aND3MO4)
+ - 👉 [Cool to see. Figured I would toss it in here](http://9gag.com/gag/abAEDAb)<!-- MEMES:END -->
 
 ---
 

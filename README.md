@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 💣 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
- - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
- - 👉 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)<!-- MEMES:END -->
+ - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
+ - 😝 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
+ - 💣 [Real wealth is having $6 billion, obviously](http://9gag.com/gag/aXPe329)
+ - 😝 [Rise! Rise, my glorious creation, and come to Papa!](http://9gag.com/gag/aAyZA9o)
+ - 👉 [Russian History](http://9gag.com/gag/ae9Wwbv)<!-- MEMES:END -->
 
 ---
 

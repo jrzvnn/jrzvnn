@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Healthy marriage](http://9gag.com/gag/a1mwn62)
- - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
- - 💣 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
- - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 👉 [What would you call this player?](http://9gag.com/gag/a87zN0d)<!-- MEMES:END -->
+ - 😝 [Harvesting in Poland. All the best, fellas!](http://9gag.com/gag/abAEwMO)
+ - 😝 [UK security](http://9gag.com/gag/aGybvpw)
+ - 💣 [Healthy marriage](http://9gag.com/gag/a1mwn62)
+ - 😝 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
+ - 👉 [Oldschool rope making &lpar;no sound&rpar;](http://9gag.com/gag/aO8GE63)<!-- MEMES:END -->
 
 ---
 

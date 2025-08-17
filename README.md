@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [More high-profile retirements expected soon at Apple](https://appleinsider.com/articles/25/08/17/more-high-profile-retirements-expected-soon-at-apple?utm_source=rss)
+ - [Why the former editor of Polygon is making a podcast for old gamers](https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon)
  - [PitchBook: 15.9% of VC-backed deals in 2025 so far have been down rounds, a 10-year high, with AI and ML startups accounting for 29.3% of the down rounds &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250817/p6#a250817p6)
- - [Camp Snap CS-8 Review: Simple Video Capture](https://www.wired.com/review/camp-snap-cs-8/)
- - [Pebblebee Is Getting Serious About Personal Safety Tracking](https://www.wired.com/story/pebblebee-is-getting-serious-about-personal-safety-tracking/)
- - [The one feature that keeps me from recommending flip phones](https://www.theverge.com/the-stepback-newsletter/760031/foldables-flip-phones-flaw)
- - [Teenage Engineering did it again](https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer)<!-- TECH:END -->
+ - [Watch Figure 02 Humanoid Fold Laundry in New AI Demo](https://www.cnet.com/tech/computing/watch-figure-02-humanoid-fold-laundry-in-new-ai-demo/#ftag=CAD590a51e)
+ - [Camp Snap CS-8 Review: Simple Video Capture](https://www.wired.com/review/camp-snap-cs-8/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

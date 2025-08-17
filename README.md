@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
- - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 💣 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 😝 [Bunny choose barrel roll..](http://9gag.com/gag/a87zOqZ)
+ - 😝 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
+ - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 💣 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
  - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---

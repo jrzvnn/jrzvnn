@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Start Saving Now: An iPhone 17 Pro Price Hike Is Likely, Says New Report](https://www.cnet.com/tech/mobile/start-saving-now-an-iphone-17-pro-price-hike-is-likely-says-new-report/#ftag=CAD590a51e)
- - [What Is the Electric Constant and Why Should You Care?](https://www.wired.com/story/what-is-the-electric-constant-and-why-should-you-care/)
- - [I Prefer the Merlin Bird ID App Over Meditation Apps for Staying in the Present Moment](https://www.cnet.com/health/i-now-prefer-the-merlin-bird-id-app-over-meditation-apps-for-staying-in-the-present-moment/#ftag=CAD590a51e)
- - [Best Senior Phone Plans of 2025](https://www.cnet.com/tech/mobile/best-senior-phone-plans/#ftag=CAD590a51e)
- - [The 7 Best Mattress Toppers &lpar;2025&rpar; Out of Dozens We&#39;ve Tested: Supportive, Plush, Memory Foam](https://www.wired.com/gallery/best-mattress-toppers/)<!-- TECH:END -->
+ - [PitchBook: 15.9% of VC-backed deals in 2025 so far have been down rounds, a 10-year high, with AI and ML startups accounting for 29.3% of the down rounds &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250817/p6#a250817p6)
+ - [Camp Snap CS-8 Review: Simple Video Capture](https://www.wired.com/review/camp-snap-cs-8/)
+ - [Pebblebee Is Getting Serious About Personal Safety Tracking](https://www.wired.com/story/pebblebee-is-getting-serious-about-personal-safety-tracking/)
+ - [The one feature that keeps me from recommending flip phones](https://www.theverge.com/the-stepback-newsletter/760031/foldables-flip-phones-flaw)
+ - [Teenage Engineering did it again](https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

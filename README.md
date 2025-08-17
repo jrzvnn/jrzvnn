@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
  - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 😝 [0 survival instinct](http://9gag.com/gag/aZZvK39)
- - 💣 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
- - 👉 [Imagine if we nuke them thrice.](http://9gag.com/gag/aW49Ax4)<!-- MEMES:END -->
+ - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
+ - 👉 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)<!-- MEMES:END -->
 
 ---
 

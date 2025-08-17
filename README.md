@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)
- - 😝 [When hunger strikes at 3 am](http://9gag.com/gag/ae9WEpj)
- - 💣 [Peace in the hood festival](http://9gag.com/gag/agmj9gq)
- - 😝 [IG: allthatisshe Our couch ate my wife...](http://9gag.com/gag/avymVeb)
- - 👉 [Help your gf](http://9gag.com/gag/aGybrz6)<!-- MEMES:END -->
+ - 😝 [Help your gf](http://9gag.com/gag/aGybrz6)
+ - 😝 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
+ - 💣 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
+ - 😝 [UK security](http://9gag.com/gag/aGybvpw)
+ - 👉 [You don&#39;t hate HR enough.](http://9gag.com/gag/aryzEvp)<!-- MEMES:END -->
 
 ---
 

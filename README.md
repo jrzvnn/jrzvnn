@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MSNBC is becoming ‘My Source News Opinion World’](https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand)
  - [iPhone 17e rumored to finally leave the notch behind](https://appleinsider.com/articles/25/08/18/iphone-17e-rumored-to-finally-leave-the-notch-behind?utm_source=rss)
  - [Grammarly debuts AI agents for writing and grading assistance, like an AI grader agent and a citation finder agent, available to Grammarly Free and Pro users &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250818/p10#a250818p10)
  - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)
- - [Grammarly says its AI agent can predict an A paper](https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators)
- - [Huion Kamvas Pro 19 review: As good as Wacom for half the price](https://appleinsider.com/articles/25/08/18/huion-kamvas-pro-19-review-a-great-budget-drawing-surface?utm_source=rss)<!-- TECH:END -->
+ - [Grammarly says its AI agent can predict an A paper](https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

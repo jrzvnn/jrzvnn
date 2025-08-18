@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 😝 [Nope](http://9gag.com/gag/a7oAgmz)
- - 💣 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
- - 😝 [Ah yes, good ol times](http://9gag.com/gag/apR8Mpn)
- - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
+ - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 😝 [Dads are the best](http://9gag.com/gag/aPAnq9P)
+ - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bunny choose barrel roll..](http://9gag.com/gag/a87zOqZ)
- - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
- - 💣 [Masahiro Hara, a Japanese engineer at Denso Wave, invented the QR code in 1994 to track auto parts.](http://9gag.com/gag/apR8wp5)
- - 😝 [Inner peace unlocked](http://9gag.com/gag/a5QDYKG)
- - 👉 [Men and fire, a timeless love story](http://9gag.com/gag/axy4wwK)<!-- MEMES:END -->
+ - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
+ - 😝 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
+ - 💣 [Nope](http://9gag.com/gag/a7oAgmz)
+ - 😝 [Tja...](http://9gag.com/gag/aqyAE2L)
+ - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---
 

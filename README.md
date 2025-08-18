@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
- - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 💣 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 😝 [Fat and furious](http://9gag.com/gag/a0ew3nn)
- - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
+ - 😝 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
+ - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 😝 [Sanji gets all blue...](http://9gag.com/gag/a6Z8RZA)
+ - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
 
 ---
 

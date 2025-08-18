@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey by Google Cloud and The Harris Poll finds 87% of game developers are using AI agents in their workflows; 63% expressed concerns about data ownership &lpar;Vic Hood/GamesIndustry.biz&rpar;](http://www.techmeme.com/250818/p11#a250818p11)
+ - [Core iPhone 18 shifts to early 2027 launch as schedule rumors resurface](https://appleinsider.com/articles/25/08/18/core-iphone-18-shifts-to-early-2027-launch-as-schedule-rumors-resurface?utm_source=rss)
+ - [Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;](https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations)
  - [MSNBC is becoming ‘My Source News Opinion World’](https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand)
- - [iPhone 17e rumored to finally leave the notch behind](https://appleinsider.com/articles/25/08/18/iphone-17e-rumored-to-finally-leave-the-notch-behind?utm_source=rss)
- - [Grammarly debuts AI agents for writing and grading assistance, like an AI grader agent and a citation finder agent, available to Grammarly Free and Pro users &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250818/p10#a250818p10)
- - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)
- - [Grammarly says its AI agent can predict an A paper](https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators)<!-- TECH:END -->
+ - [iPhone 17e rumored to finally leave the notch behind](https://appleinsider.com/articles/25/08/18/iphone-17e-rumored-to-finally-leave-the-notch-behind?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

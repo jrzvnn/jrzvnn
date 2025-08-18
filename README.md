@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jackie Brown &lpar;1997&rpar;. This is Robert De Niro and Bridget Fonda. Its a Tarantino movie.](http://9gag.com/gag/a34nOE1)
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aPAnq0P)
+ - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
+ - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
+ - 💣 [GLENN: You look fabulous in that suit TRUMP: That&#39;s the one that attacked you last time ZELENSKYY: I remember that. You&#39;re in the same suit. I changed mine.](http://9gag.com/gag/ayNPKmW)
+ - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
  - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
 
 ---

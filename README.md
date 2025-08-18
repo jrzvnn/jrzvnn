@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
+ - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
  - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 💣 [GLENN: You look fabulous in that suit TRUMP: That&#39;s the one that attacked you last time ZELENSKYY: I remember that. You&#39;re in the same suit. I changed mine.](http://9gag.com/gag/ayNPKmW)
- - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
+ - 💣 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 😝 [Gabriel!](http://9gag.com/gag/aE0E4bO)
+ - 👉 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)<!-- MEMES:END -->
 
 ---
 

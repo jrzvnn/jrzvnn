@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)
- - [The 16 Best Apple TV Plus Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-shows-2025/#ftag=CAD590a51e)
+ - [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)
+ - [The Tweens Down Under: Life Without Social Media in Australia](https://www.wired.com/story/kids-social-media-australia-ban/)
  - [How Microschools Became the Latest Tech Mogul Obsession](https://www.wired.com/story/silicon-valley-tech-moguls-microschools/)
- - [Tech in the Classroom: A History of Hype and Hysteria](https://www.wired.com/story/photo-essay-school-tech-hysteria/)
- - [The Tweens Down Under: Life Without Social Media in Australia](https://www.wired.com/story/kids-social-media-australia-ban/)<!-- TECH:END -->
+ - [Tech in the Classroom: A History of Hype and Hysteria](https://www.wired.com/story/photo-essay-school-tech-hysteria/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

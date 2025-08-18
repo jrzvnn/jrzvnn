@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces a new feature called &quot;Install-to-Play&quot; for GeForce Now, letting users install select games without waiting for Nvidia to formally curate them &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p22#a250818p22)
+ - [Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p24#a250818p24)
+ - [Google says users created 100M videos using its AI filmmaking tool Flow since its May launch; Flow leverages Veo 3 and focuses on maintaining visual consistency &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/250818/p23#a250818p23)
+ - [Nvidia announces Install-to-Play for GeForce Now, letting users install games opted into Valve&#39;s Steam Cloud Play, without waiting for Nvidia to curate them &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p22#a250818p22)
  - [Nvidia&#39;s app gets global DLSS override and more control panel features, including anisotropic filtering, anti-aliasing, and ambient occlusion &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250818/p21#a250818p21)
- - [Nvidia&#39;s GeForce Now game streaming service will get RTX 5080 GPUs in September, letting users of its $20/month Ultimate tier stream in 5K at up to 120fps &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250818/p20#a250818p20)
- - [Nvidia’s GeForce Now is upgrading to RTX 5080 GPUs and opening a floodgate of new games](https://www.theverge.com/news/760219/nvidia-geforce-now-rtx-5080-cloud-gaming)
- - [Nvidia gives fake Harrison Ford better hair using spheres](https://www.theverge.com/news/760479/nvidia-rtx-hair-indiana-jones-game)<!-- TECH:END -->
+ - [Nvidia&#39;s GeForce Now game streaming service will get RTX 5080 GPUs in September, letting users of its $20/month Ultimate tier stream in 5K at up to 120fps &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/250818/p20#a250818p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

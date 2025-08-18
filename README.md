@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True? or no](http://9gag.com/gag/an7V37n)
- - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
- - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 😝 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
- - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
+ - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 💣 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
+ - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
+ - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nice one VW](https://www.reddit.com/r/funny/comments/1mtvuno/nice_one_vw/)
  - 😝 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 😝 [Sanji gets all blue...](http://9gag.com/gag/a6Z8RZA)
- - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
+ - 💣 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 👉 [Sanji gets all blue...](http://9gag.com/gag/a6Z8RZA)<!-- MEMES:END -->
 
 ---
 

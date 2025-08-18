@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blockchain-based lender Figure files for a US IPO, reporting H1 revenue up 22.4% YoY to $191M and a profit of $29M, compared with a loss of $13M in H1 2024 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250818/p28#a250818p28)
  - [Source: Arm has hired Amazon AI chip director Rami Sinno to help develop its own chips; he previously worked on Amazon&#39;s Trainium and Inferentia chips &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250818/p27#a250818p27)
  - [An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)
  - [Palo Alto Networks reports Q4 revenue up 16% YoY to $2.54B, vs. $2.5B est., and Q1 and FY 2026 guidance above estimates; PANW jumps 4%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250818/p26#a250818p26)
- - [Palo Alto Networks founder Nir Zuk retires and steps down as CTO and board member; Chief Product Officer Lee Klarich becomes CTO and joins the board &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250818/p25#a250818p25)
- - [OpenAI CEO Sam Altman Believes We&#39;re in an AI Bubble](https://www.cnet.com/tech/services-and-software/openai-ceo-sam-altman-believes-were-in-an-ai-bubble/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Palo Alto Networks founder Nir Zuk retires and steps down as CTO and board member; Chief Product Officer Lee Klarich becomes CTO and joins the board &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250818/p25#a250818p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

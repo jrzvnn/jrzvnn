@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank agrees to invest $2B in Intel, buying roughly 2% of Intel&#39;s outstanding shares &lpar;CNBC&rpar;](http://www.techmeme.com/250818/p30#a250818p30)
+ - [Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250818/p31#a250818p31)
+ - [SoftBank agrees to invest $2B in Intel, paying $23 per share for Intel&#39;s common stock to acquire roughly 2% of the company&#39;s outstanding shares &lpar;CNBC&rpar;](http://www.techmeme.com/250818/p30#a250818p30)
  - [What is Roblox? Everything you need to know](https://appleinsider.com/articles/21/03/19/what-is-roblox---everything-you-need-to-know-about-the-latest-craze?utm_source=rss)
  - [Xcode 26 beta suggests Apple&#39;s will add native Claude integration to Swift Assist](https://appleinsider.com/articles/25/08/18/xcode-26-beta-suggests-apples-will-add-native-claude-integration-to-swift-assist?utm_source=rss)
- - [American Exceptionalism Acquisition, a SPAC led by Chamath Palihapitiya, files for a US IPO, seeking to raise $250M &lpar;Kia Kokalitcheva/PitchBook&rpar;](http://www.techmeme.com/250818/p29#a250818p29)
- - [Blockchain-based lender Figure files for a US IPO, reporting H1 revenue up 22.4% YoY to $191M and a profit of $29M, compared with a loss of $13M in H1 2024 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250818/p28#a250818p28)<!-- TECH:END -->
+ - [American Exceptionalism Acquisition, a SPAC led by Chamath Palihapitiya and focused on energy, AI, DeFi, and defense, files for a US IPO, seeking to raise $250M &lpar;Kia Kokalitcheva/PitchBook&rpar;](http://www.techmeme.com/250818/p29#a250818p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

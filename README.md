@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nope](http://9gag.com/gag/a7oAgmz)
- - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 💣 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 👉 [Clowns. Absolute incompetent clowns.](http://9gag.com/gag/aKGpZ2j)<!-- MEMES:END -->
+ - 😝 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
+ - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [Fat and furious](http://9gag.com/gag/a0ew3nn)
+ - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
 
 ---
 

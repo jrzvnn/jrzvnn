@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [American Exceptionalism Acquisition, a SPAC led by Chamath Palihapitiya, files for a US IPO, seeking to raise $250M &lpar;Kia Kokalitcheva/PitchBook&rpar;](http://www.techmeme.com/250818/p29#a250818p29)
  - [Blockchain-based lender Figure files for a US IPO, reporting H1 revenue up 22.4% YoY to $191M and a profit of $29M, compared with a loss of $13M in H1 2024 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250818/p28#a250818p28)
- - [Source: Arm has hired Amazon AI chip director Rami Sinno to help develop its own chips; he previously worked on Amazon&#39;s Trainium and Inferentia chips &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250818/p27#a250818p27)
- - [An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)
- - [Palo Alto Networks reports Q4 revenue up 16% YoY to $2.54B, vs. $2.5B est., and Q1 and FY 2026 guidance above estimates; PANW jumps 4%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250818/p26#a250818p26)
- - [Palo Alto Networks founder Nir Zuk retires and steps down as CTO and board member; Chief Product Officer Lee Klarich becomes CTO and joins the board &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250818/p25#a250818p25)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 19, #1522](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-19-1522/#ftag=CAD590a51e)
+ - [Best Surge Protectors of 2025: I Tested 16 Surge Protectors to Find the Best](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19, #800](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-800/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

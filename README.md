@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
+ - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
  - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
  - 💣 [They say money cannot buy happiness. They\u2019re wrong](http://9gag.com/gag/amonyM2)
- - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
- - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
+ - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 

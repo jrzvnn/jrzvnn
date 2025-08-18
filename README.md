@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok&#39;s website is exposing the underlying prompts for its AI personas, including one for a &quot;crazy conspiracist&quot; persona that spends &quot;a lot of time on 4chan&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250818/p13#a250818p13)
+ - [Samsung announces the Galaxy Buds3 FE, with a new AirPods Pro-like design, improved ANC, and upgraded audio quality, launching September 4 for $149.99 &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/250818/p12#a250818p12)
  - [Core iPhone 18 shifts to early 2027 launch as schedule rumors resurface](https://appleinsider.com/articles/25/08/18/core-iphone-18-shifts-to-early-2027-launch-as-schedule-rumors-resurface?utm_source=rss)
  - [A survey by Google Cloud and The Harris Poll finds 87% of game developers are using AI agents in their workflows; 63% expressed concerns about data ownership &lpar;Vic Hood/GamesIndustry.biz&rpar;](http://www.techmeme.com/250818/p11#a250818p11)
- - [Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;](https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations)
- - [MSNBC is becoming ‘My Source News Opinion World’](https://www.theverge.com/news/760533/msnbc-my-source-news-opinion-world-rebrand)
- - [iPhone 17e rumored to finally leave the notch behind](https://appleinsider.com/articles/25/08/18/iphone-17e-rumored-to-finally-leave-the-notch-behind?utm_source=rss)<!-- TECH:END -->
+ - [Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;](https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

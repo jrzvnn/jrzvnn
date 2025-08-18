@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 💣 [True? or no](http://9gag.com/gag/an7V37n)
- - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
- - 👉 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)<!-- MEMES:END -->
+ - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
+ - 😝 [True? or no](http://9gag.com/gag/an7V37n)
+ - 💣 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
+ - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 👉 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)<!-- MEMES:END -->
 
 ---
 

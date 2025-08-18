@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
- - 💣 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
- - 😝 [For freeing him he shall grant you wishes three](http://9gag.com/gag/a87zg5e)
- - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
+ - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [Nope](http://9gag.com/gag/a7oAgmz)
+ - 💣 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 😝 [Sanji gets all blue...](http://9gag.com/gag/a6Z8RZA)
+ - 👉 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)<!-- MEMES:END -->
 
 ---
 

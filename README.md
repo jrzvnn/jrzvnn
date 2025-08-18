@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic asked Menlo to use the VC firm&#39;s own capital for investment in the startup and not an SPV, as Menlo did in a previous funding round &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/250818/p18#a250818p18)
  - [Apple moves to its seventh iOS 26, macOS Tahoe 26 developer betas as release looms](https://appleinsider.com/articles/25/08/18/apple-moves-to-its-seventh-ios-26-macos-tahoe-26-developer-betas-as-release-looms?utm_source=rss)
  - [Mac mini with M5 and M5 Pro Apple Silicon are being tested](https://appleinsider.com/articles/25/08/18/mac-mini-with-m5-and-m5-pro-apple-silicon-are-being-tested?utm_source=rss)
  - [Source: Oracle Chief Security Officer Mary Ann Davidson, who joined in 1988 and became the company&#39;s first CSO, is leaving as part of a recent reorganization &lpar;Bloomberg&rpar;](http://www.techmeme.com/250818/p17#a250818p17)
- - [Save up to $693 across Apple&#39;s Mac Studio line this week](https://appleinsider.com/articles/25/08/18/save-up-to-693-across-apples-mac-studio-line-this-week?utm_source=rss)
- - [Amazon’s Fallout season two heads to New Vegas](https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video)<!-- TECH:END -->
+ - [Save up to $693 across Apple&#39;s Mac Studio line this week](https://appleinsider.com/articles/25/08/18/save-up-to-693-across-apples-mac-studio-line-this-week?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

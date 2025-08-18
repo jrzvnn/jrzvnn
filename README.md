@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s podcast audience is projected to reach 150M in 2025, up from ~700K five years ago, driven by grassroots hosts instinctively navigating China&#39;s red lines &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/250818/p2#a250818p2)
  - [As CEOs and executives mandate AI adoption to make their businesses more efficient and competitive, many have yet to fully integrate it into their own workdays &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/250818/p1#a250818p1)
  - [Australia&#39;s ACCC says Google agreed pay a ~$36M fine over deals from 2019-2021 with Telstra and Optus to pre-install only Google Search on Android phones &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/250817/p15#a250817p15)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-18/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 18, #329](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-18-329/#ftag=CAD590a51e)
- - [A profile of Epic Systems CEO Judy Faulkner, who has led the EHR software company for 46 years, building it into one of the largest US private tech companies &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250817/p14#a250817p14)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 18, #329](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-18-329/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

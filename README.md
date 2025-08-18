@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is finally improving Windows 11’s dark mode](https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements)
- - [Sources: the EU and US are delaying formalizing their trade deal over &quot;non-tariff barriers&quot;, including relaxing the DSA, which the EU sees as a red line &lpar;Financial Times&rpar;](http://www.techmeme.com/250818/p4#a250818p4)
- - [The Plan to Turn the Caribbean’s Glut of Sargassum Into Biofuel](https://www.wired.com/story/there-is-more-sargassum-than-ever-in-the-caribbean-and-they-want-to-turn-it-into-energy/)
- - [SoftBank buys Foxconn&#39;s Ohio EV plant; Foxconn will produce AI servers at the plant as part of Softbank&#39;s $500B Stargate project with OpenAI and Oracle &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250818/p3#a250818p3)
- - [Best Beer Clubs for 2025](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)
+ - [The 16 Best Apple TV Plus Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-shows-2025/#ftag=CAD590a51e)
+ - [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)
+ - [The Tweens Down Under: Life Without Social Media in Australia](https://www.wired.com/story/kids-social-media-australia-ban/)
+ - [How Microschools Became the Latest Tech Mogul Obsession](https://www.wired.com/story/silicon-valley-tech-moguls-microschools/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

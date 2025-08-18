@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fallout season two heads to New Vegas](https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video)
- - [Fujifilm is raising the prices of its cameras again](https://www.theverge.com/news/760707/fujifilm-price-increase-cameras-tariffs)
- - [Sources: the Trump administration is in discussions to take a stake of ~10% in Intel, converting some or all of Intel&#39;s $10.9B CHIPS Act grants into equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250818/p16#a250818p16)
- - [HR giant Workday says hackers stole an unspecified amount of personal information, like names and email addresses, from one of its third-party CRM platforms &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250818/p15#a250818p15)
- - [Beats Pill collab with Verdy will chew your speaker for $500](https://appleinsider.com/articles/25/08/18/beats-pill-collab-with-verdy-will-chew-your-speaker-for-500?utm_source=rss)<!-- TECH:END -->
+ - [Apple moves to its seventh iOS 26, macOS Tahoe 26 developer betas as release looms](https://appleinsider.com/articles/25/08/18/apple-moves-to-its-seventh-ios-26-macos-tahoe-26-developer-betas-as-release-looms?utm_source=rss)
+ - [Mac mini with M5 and M5 Pro Apple Silicon are being tested](https://appleinsider.com/articles/25/08/18/mac-mini-with-m5-and-m5-pro-apple-silicon-are-being-tested?utm_source=rss)
+ - [Source: Oracle Chief Security Officer Mary Ann Davidson, who joined in 1988 and became the company&#39;s first CSO, is leaving as part of a recent reorganization &lpar;Bloomberg&rpar;](http://www.techmeme.com/250818/p17#a250818p17)
+ - [Save up to $693 across Apple&#39;s Mac Studio line this week](https://appleinsider.com/articles/25/08/18/save-up-to-693-across-apples-mac-studio-line-this-week?utm_source=rss)
+ - [Amazon’s Fallout season two heads to New Vegas](https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

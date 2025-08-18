@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fujifilm is raising the prices of its cameras again](https://www.theverge.com/news/760707/fujifilm-price-increase-cameras-tariffs)
+ - [Sources: the Trump administration is in discussions to take a stake of ~10% in Intel, converting some or all of Intel&#39;s $10.9B CHIPS Act grants into equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250818/p16#a250818p16)
  - [HR giant Workday says hackers stole an unspecified amount of personal information, like names and email addresses, from one of its third-party CRM platforms &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250818/p15#a250818p15)
  - [Beats Pill collab with Verdy will chew your speaker for $500](https://appleinsider.com/articles/25/08/18/beats-pill-collab-with-verdy-will-chew-your-speaker-for-500?utm_source=rss)
- - [Matter update, Apple smart home cameras, &amp; Hue leaks on HomeKit Insider](https://appleinsider.com/articles/25/08/18/matter-update-apple-smart-home-cameras-hue-leaks-on-homekit-insider?utm_source=rss)
- - [How the head of Obsidian went from superfan to CEO](https://www.theverge.com/decoder-podcast-with-nilay-patel/760522/obsidian-ceo-steph-ango-kepano-productivity-software-notes-app)
- - [Google increases its stake in bitcoin miner and datacenter operator TeraWulf from 8% to 14%, bringing its total investment to ~$3.2B; WULF jumps 10%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250818/p14#a250818p14)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Leeds vs. Everton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-everton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

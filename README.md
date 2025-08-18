@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
- - 💣 [Nope](http://9gag.com/gag/a7oAgmz)
- - 😝 [For freeing him he shall grant you wishes three](http://9gag.com/gag/a87zg5e)
- - 👉 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)<!-- MEMES:END -->
+ - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
+ - 😝 [The Professional](http://9gag.com/gag/aZZv5e6)
+ - 💣 [This is for my stoic friends who may not have had the opportunity to experience the wisdom of Musonius Rufus](http://9gag.com/gag/aND3580)
+ - 😝 [Men and fire, a timeless love story](http://9gag.com/gag/axy4wwK)
+ - 👉 [Shes cute. Ok i depressed now...](http://9gag.com/gag/aAyZ50o)<!-- MEMES:END -->
 
 ---
 

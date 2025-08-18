@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/a7oAgmz)
- - 😝 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
- - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
+ - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 💣 [What would you call this player?](http://9gag.com/gag/a87zN0d)
  - 😝 [Fat and furious](http://9gag.com/gag/a0ew3nn)
  - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
 

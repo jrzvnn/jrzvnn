@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 😝 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
- - 💣 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
+ - 😝 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
+ - 😝 [Undeterred over 9000](http://9gag.com/gag/a1mwgrv)
+ - 💣 [When an atheist man met a cancer patient](http://9gag.com/gag/aByozVQ)
+ - 😝 [For freeing him he shall grant you wishes three](http://9gag.com/gag/a87zg5e)
+ - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
 
 ---
 

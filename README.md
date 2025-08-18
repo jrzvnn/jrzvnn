@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New in iOS 26 beta 7: Blood oxygen measuring, adaptive power notifications](https://appleinsider.com/articles/25/08/18/new-in-ios-26-beta-7-blood-oxygen-measuring-adaptive-power-notifications?utm_source=rss)
- - [YouTuber Mark Rober is getting a Netflix series](https://www.theverge.com/news/760907/mark-rober-netflix-series-youtube)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Google Home adds scheduling for older Nest thermostats](https://www.theverge.com/news/760853/google-home-app-nest-learning-thermostat-e-3rd-gen-schedule-feature)
- - [The West Texas Measles Outbreak Has Ended](https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/)<!-- TECH:END -->
+ - [Nvidia’s GeForce Now is upgrading to RTX 5080 GPUs and opening a floodgate of new games](https://www.theverge.com/news/760219/nvidia-geforce-now-rtx-5080-cloud-gaming)
+ - [Nvidia gives fake Harrison Ford better hair using spheres](https://www.theverge.com/news/760479/nvidia-rtx-hair-indiana-jones-game)
+ - [Nvidia’s app gets global DLSS override and more control panel features](https://www.theverge.com/news/760488/nvidia-app-dlss-override-control-panel-features)
+ - [‘Play Instantly on Discord’: Fortnite will be Nvidia and Discord’s first instant game demo](https://www.theverge.com/news/760894/play-instantly-on-discord-fortnite-will-be-nvidia-try-before-you-buy-geforce-now)
+ - [New in iOS 26 beta 7: Blood oxygen measuring, adaptive power notifications](https://appleinsider.com/articles/25/08/18/new-in-ios-26-beta-7-blood-oxygen-measuring-adaptive-power-notifications?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17e rumored to finally leave the notch behind](https://appleinsider.com/articles/25/08/18/iphone-17e-rumored-to-finally-leave-the-notch-behind?utm_source=rss)
+ - [Grammarly debuts AI agents for writing and grading assistance, like an AI grader agent and a citation finder agent, available to Grammarly Free and Pro users &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250818/p10#a250818p10)
  - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)
  - [Grammarly says its AI agent can predict an A paper](https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators)
- - [Huion Kamvas Pro 19 review: As good as Wacom for half the price](https://appleinsider.com/articles/25/08/18/huion-kamvas-pro-19-review-a-great-budget-drawing-surface?utm_source=rss)
- - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
- - [Apple released the iMac 27 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_source=rss)<!-- TECH:END -->
+ - [Huion Kamvas Pro 19 review: As good as Wacom for half the price](https://appleinsider.com/articles/25/08/18/huion-kamvas-pro-19-review-a-great-budget-drawing-surface?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

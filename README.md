@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IVIX, which uses AI to help regulators detect financial fraud, raised a $60M Series B led by OG Venture Partners, bringing its total funding to $85M &lpar;Marc Vartabedian/Wall Street Journal&rpar;](http://www.techmeme.com/250818/p9#a250818p9)
- - [The best gadgets and apps in August &lpar;so far&rpar;](https://www.theverge.com/tech/756896/best-gadgets-apps-weve-covered)
- - [9 Picks of the Best Gaming Mouse, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)
- - [Digital bank Monzo, which has 13M UK customers, plans to launch a mobile phone service; Revolut and Klarna, each with ~11M UK customers, announced similar plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250818/p8#a250818p8)
- - [Medallion, which automates healthcare back-office operations and compliance, raised $43M at a valuation of around $440M, bringing its total raised to $130M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250818/p7#a250818p7)<!-- TECH:END -->
+ - [Samsung’s budget Galaxy Buds 3 FE are here](https://www.theverge.com/news/760445/galaxy-buds3-fe-price-specs-samsung)
+ - [Grammarly says its AI agent can predict an A paper](https://www.theverge.com/news/760508/grammarly-ai-agents-help-students-educators)
+ - [Huion Kamvas Pro 19 review: As good as Wacom for half the price](https://appleinsider.com/articles/25/08/18/huion-kamvas-pro-19-review-a-great-budget-drawing-surface?utm_source=rss)
+ - [These very practical accessories will improve your AirPods experience](https://appleinsider.com/articles/25/08/16/these-very-practical-accessories-will-improve-your-airpods-experience?utm_source=rss)
+ - [Apple released the iMac 27 years ago and it&#39;s better than ever](https://appleinsider.com/articles/22/08/15/apple-released-the-imac-24-years-ago-and-its-better-than-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

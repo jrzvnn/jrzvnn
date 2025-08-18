@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine this is how you had to get gta6](http://9gag.com/gag/aryzwe0)
- - 😝 [UK security](http://9gag.com/gag/aGybvpw)
- - 💣 [Healthy marriage](http://9gag.com/gag/a1mwn62)
- - 😝 [Oldschool rope making &lpar;no sound&rpar;](http://9gag.com/gag/aO8GE63)
- - 👉 [Russian History](http://9gag.com/gag/ae9Wwbv)<!-- MEMES:END -->
+ - 😝 [True? or no](http://9gag.com/gag/an7V37n)
+ - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
+ - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 😝 [This is funny bc it\u00b4s Them &amp; Them...](http://9gag.com/gag/aND3Xwr)
+ - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
 
 ---
 

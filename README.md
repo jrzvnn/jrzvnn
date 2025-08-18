@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paris Metro Pickpoket](http://9gag.com/gag/aAyZA1p)
- - 😝 [Nope](http://9gag.com/gag/a7oAgmz)
- - 💣 [Mind blown.](http://9gag.com/gag/avymqYd)
- - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
- - 👉 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)<!-- MEMES:END -->
+ - 😝 [Bunny choose barrel roll..](http://9gag.com/gag/a87zOqZ)
+ - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
+ - 💣 [Masahiro Hara, a Japanese engineer at Denso Wave, invented the QR code in 1994 to track auto parts.](http://9gag.com/gag/apR8wp5)
+ - 😝 [Inner peace unlocked](http://9gag.com/gag/a5QDYKG)
+ - 👉 [Men and fire, a timeless love story](http://9gag.com/gag/axy4wwK)<!-- MEMES:END -->
 
 ---
 

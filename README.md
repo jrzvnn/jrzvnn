@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 💣 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
- - 😝 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
- - 👉 [You need protein](http://9gag.com/gag/aMVy7qG)<!-- MEMES:END -->
+ - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
+ - 😝 [What would you call this player?](http://9gag.com/gag/a87zN0d)
+ - 💣 [They say money cannot buy happiness. They\u2019re wrong](http://9gag.com/gag/amonyM2)
+ - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
 
 ---
 

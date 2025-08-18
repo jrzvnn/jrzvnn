@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Professional](http://9gag.com/gag/aZZv5e6)
- - 😝 [This is for my stoic friends who may not have had the opportunity to experience the wisdom of Musonius Rufus](http://9gag.com/gag/aND3580)
- - 💣 [Men and fire, a timeless love story](http://9gag.com/gag/axy4wwK)
- - 😝 [For freeing him he shall grant you wishes three](http://9gag.com/gag/a87zg5e)
- - 👉 [Shes cute. Ok i depressed now...](http://9gag.com/gag/aAyZ50o)<!-- MEMES:END -->
+ - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - 😝 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
+ - 💣 [What would you call this player?](http://9gag.com/gag/a87zN0d)
+ - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 👉 [Nope](http://9gag.com/gag/a7oAgmz)<!-- MEMES:END -->
 
 ---
 

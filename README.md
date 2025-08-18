@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
- - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
- - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 😝 [Dads are the best](http://9gag.com/gag/aPAnq9P)
- - 👉 [Crying in Polish](http://9gag.com/gag/aGybvQ5)<!-- MEMES:END -->
+ - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [Crying in Polish](http://9gag.com/gag/aGybvQ5)
+ - 💣 [Nope](http://9gag.com/gag/a7oAgmz)
+ - 😝 [For freeing him he shall grant you wishes three](http://9gag.com/gag/a87zg5e)
+ - 👉 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)<!-- MEMES:END -->
 
 ---
 

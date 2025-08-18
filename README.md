@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palo Alto Networks reports Q4 revenue up 16% YoY to $2.54B, vs. $2.5B est., and Q1 and FY 2026 guidance above estimates; PANW jumps 4%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250818/p26#a250818p26)
  - [Palo Alto Networks founder Nir Zuk retires and steps down as CTO and board member; Chief Product Officer Lee Klarich becomes CTO and joins the board &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250818/p25#a250818p25)
  - [Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p24#a250818p24)
  - [Google says users created 100M videos using its AI filmmaking tool Flow since its May launch; Flow leverages Veo 3 and focuses on maintaining visual consistency &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/250818/p23#a250818p23)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 19, #330](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-19-330/#ftag=CAD590a51e)
- - [Claude AI Can Now End Conversations It Deems Harmful or Abusive](https://www.cnet.com/tech/services-and-software/claude-ai-can-now-end-conversations-it-deems-harmful-or-abusive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 19, #330](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-19-330/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

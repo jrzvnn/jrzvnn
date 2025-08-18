@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Digital bank Monzo, which has 13M UK customers, plans to launch a mobile phone service; Revolut and Klarna, each with ~11M UK customers, announced similar plans &lpar;Financial Times&rpar;](http://www.techmeme.com/250818/p8#a250818p8)
  - [Medallion, which automates healthcare back-office operations and compliance, raised $43M at a valuation of around $440M, bringing its total raised to $130M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/250818/p7#a250818p7)
  - [Medallion Raises $43 Million to Expand AI Infrastructure and Launch the First National Credentialing Clearinghouse &lpar;Medallion&rpar;](http://www.techmeme.com/250818/p6#a250818p6)
  - [Inside Apple&#39;s QuickTime Player - A surprisingly sophisticated video tool on Mac](https://appleinsider.com/inside/macos/tips/inside-apples-quicktime-player---a-surprisingly-sophisticated-video-tool-on-mac?utm_source=rss)
- - [WIRED Tests Dozens of Air Purifiers a Year. Here’s What We Look For &lpar;2025&rpar;](https://www.wired.com/story/how-we-test-air-purifiers/)
- - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)<!-- TECH:END -->
+ - [WIRED Tests Dozens of Air Purifiers a Year. Here’s What We Look For &lpar;2025&rpar;](https://www.wired.com/story/how-we-test-air-purifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

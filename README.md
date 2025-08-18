@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Fallout season two heads to New Vegas](https://www.theverge.com/games/760687/fallout-season-two-first-look-prime-video)
  - [Fujifilm is raising the prices of its cameras again](https://www.theverge.com/news/760707/fujifilm-price-increase-cameras-tariffs)
  - [Sources: the Trump administration is in discussions to take a stake of ~10% in Intel, converting some or all of Intel&#39;s $10.9B CHIPS Act grants into equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250818/p16#a250818p16)
  - [HR giant Workday says hackers stole an unspecified amount of personal information, like names and email addresses, from one of its third-party CRM platforms &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250818/p15#a250818p15)
- - [Beats Pill collab with Verdy will chew your speaker for $500](https://appleinsider.com/articles/25/08/18/beats-pill-collab-with-verdy-will-chew-your-speaker-for-500?utm_source=rss)
- - [Premier League Soccer: Stream Leeds vs. Everton Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-everton-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Beats Pill collab with Verdy will chew your speaker for $500](https://appleinsider.com/articles/25/08/18/beats-pill-collab-with-verdy-will-chew-your-speaker-for-500?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

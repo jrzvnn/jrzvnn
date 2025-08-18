@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Matter update, Apple smart home cameras, &amp; Hue leaks on HomeKit Insider](https://appleinsider.com/articles/25/08/18/matter-update-apple-smart-home-cameras-hue-leaks-on-homekit-insider?utm_source=rss)
  - [How the head of Obsidian went from superfan to CEO](https://www.theverge.com/decoder-podcast-with-nilay-patel/760522/obsidian-ceo-steph-ango-kepano-productivity-software-notes-app)
  - [Google increases its stake in bitcoin miner and datacenter operator TeraWulf from 8% to 14%, bringing its total investment to ~$3.2B; WULF jumps 10%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250818/p14#a250818p14)
  - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Dubious leak backtracks on iPhone 17 &#39;Liquid Silicone&#39; case design](https://appleinsider.com/articles/25/08/18/dubious-leak-backtracks-on-iphone-17-liquid-silicone-case-design?utm_source=rss)
- - [The Apple Watch Ultra is on sale for a record low of $650](https://www.theverge.com/tech/760602/apple-watch-ultra-2-soundcore-select-4-go-speaker-deal-sale)<!-- TECH:END -->
+ - [Dubious leak backtracks on iPhone 17 &#39;Liquid Silicone&#39; case design](https://appleinsider.com/articles/25/08/18/dubious-leak-backtracks-on-iphone-17-liquid-silicone-case-design?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

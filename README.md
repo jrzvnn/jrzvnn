@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New in iOS 26 beta 7: Blood oxygen measuring, adaptive power notifications](https://appleinsider.com/articles/25/08/18/new-in-ios-26-beta-7-blood-oxygen-measuring-adaptive-power-notifications?utm_source=rss)
+ - [YouTuber Mark Rober is getting a Netflix series](https://www.theverge.com/news/760907/mark-rober-netflix-series-youtube)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [Google Home adds scheduling for older Nest thermostats](https://www.theverge.com/news/760853/google-home-app-nest-learning-thermostat-e-3rd-gen-schedule-feature)
- - [The West Texas Measles Outbreak Has Ended](https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/)
- - [Texas AG Ken Paxton launches a probe into Meta and Character.AI over claims they deceptively market chatbots as mental health tools, including for children &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250818/p19#a250818p19)
- - [Microsoft hints at ‘more affordable’ Xbox Cloud Gaming plan](https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint)
- - [Jackery Explorer 1000 Deal: $350 Off Battery Bank Right Now](https://www.wired.com/story/jackery-explorer-1000-deal/)<!-- TECH:END -->
+ - [The West Texas Measles Outbreak Has Ended](https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

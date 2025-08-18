@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok&#39;s website is exposing the underlying prompts for its AI personas, including one for a &quot;crazy conspiracist&quot; persona that spends &quot;a lot of time on 4chan&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/250818/p13#a250818p13)
- - [Samsung announces the Galaxy Buds3 FE, with a new AirPods Pro-like design, improved ANC, and upgraded audio quality, launching September 4 for $149.99 &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/250818/p12#a250818p12)
- - [Core iPhone 18 shifts to early 2027 launch as schedule rumors resurface](https://appleinsider.com/articles/25/08/18/core-iphone-18-shifts-to-early-2027-launch-as-schedule-rumors-resurface?utm_source=rss)
- - [A survey by Google Cloud and The Harris Poll finds 87% of game developers are using AI agents in their workflows; 63% expressed concerns about data ownership &lpar;Vic Hood/GamesIndustry.biz&rpar;](http://www.techmeme.com/250818/p11#a250818p11)
- - [Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;](https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations)<!-- TECH:END -->
+ - [How the head of Obsidian went from superfan to CEO](https://www.theverge.com/decoder-podcast-with-nilay-patel/760522/obsidian-ceo-steph-ango-kepano-productivity-software-notes-app)
+ - [Google increases its stake in bitcoin miner and datacenter operator TeraWulf from 8% to 14%, bringing its total investment to ~$3.2B; WULF jumps 10%+ &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250818/p14#a250818p14)
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [Dubious leak backtracks on iPhone 17 &#39;Liquid Silicone&#39; case design](https://appleinsider.com/articles/25/08/18/dubious-leak-backtracks-on-iphone-17-liquid-silicone-case-design?utm_source=rss)
+ - [The Apple Watch Ultra is on sale for a record low of $650](https://www.theverge.com/tech/760602/apple-watch-ultra-2-soundcore-select-4-go-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Medallion, which automates healthcare back-office operations and compliance, raised $43M at a valuation of around $440M, bringing its total raised to $130M &lpar;Medallion&rpar;](http://www.techmeme.com/250818/p6#a250818p6)
+ - [Inside Apple&#39;s QuickTime Player - A surprisingly sophisticated video tool on Mac](https://appleinsider.com/inside/macos/tips/inside-apples-quicktime-player---a-surprisingly-sophisticated-video-tool-on-mac?utm_source=rss)
+ - [WIRED Tests Dozens of Air Purifiers a Year. Here’s What We Look For &lpar;2025&rpar;](https://www.wired.com/story/how-we-test-air-purifiers/)
  - [Humanoid Robot Games highlighted robotics advancements but also limitations, with robots tripping over each other; one robot ran faster than many amateur humans &lpar;Yan Zhuang/New York Times&rpar;](http://www.techmeme.com/250818/p5#a250818p5)
- - [The Best Tech for Back to School](https://www.wired.com/story/best-tech-gear-back-to-school/)
- - [The Tweens Down Under: Life Without Social Media in Australia](https://www.wired.com/story/kids-social-media-australia-ban/)
- - [How Microschools Became the Latest Tech Mogul Obsession](https://www.wired.com/story/silicon-valley-tech-moguls-microschools/)
- - [Tech in the Classroom: A History of Hype and Hysteria](https://www.wired.com/story/photo-essay-school-tech-hysteria/)<!-- TECH:END -->
+ - [The 16 Best Apple TV Plus Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: Arm has hired Amazon AI chip director Rami Sinno to help develop its own chips; he previously worked on Amazon&#39;s Trainium and Inferentia chips &lpar;Max A. Cherney/Reuters&rpar;](http://www.techmeme.com/250818/p27#a250818p27)
- - [An Account Using the Same Name as Trump&#39;s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)
+ - [An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories](https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/)
  - [Palo Alto Networks reports Q4 revenue up 16% YoY to $2.54B, vs. $2.5B est., and Q1 and FY 2026 guidance above estimates; PANW jumps 4%+ after hours &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250818/p26#a250818p26)
  - [Palo Alto Networks founder Nir Zuk retires and steps down as CTO and board member; Chief Product Officer Lee Klarich becomes CTO and joins the board &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250818/p25#a250818p25)
  - [Nvidia, Discord, and Epic Games are testing game demos on Discord servers, letting users try a game without downloading it or signing up, starting with Fortnite &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250818/p24#a250818p24)<!-- TECH:END -->

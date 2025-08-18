@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Type of girl that spawns in your life somehow when you don\u2019t have a job](http://9gag.com/gag/a0ewgYz)
  - 😝 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
- - 💣 [Nope](http://9gag.com/gag/a7oAgmz)
- - 😝 [Tja...](http://9gag.com/gag/aqyAE2L)
+ - 😝 [Mind blown.](http://9gag.com/gag/avymqYd)
+ - 💣 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 😝 [Ah yes, good ol times](http://9gag.com/gag/apR8Mpn)
  - 👉 [Healthy marriage](http://9gag.com/gag/a1mwn62)<!-- MEMES:END -->
 
 ---

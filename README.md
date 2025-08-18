@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s ACCC says Google agreed pay a ~$36M fine over deals from 2019-2021 with Telstra and Optus to pre-install only Google Search on Android phones &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/250817/p15#a250817p15)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-18/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 18, #329](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-18-329/#ftag=CAD590a51e)
  - [A profile of Epic Systems CEO Judy Faulkner, who has led the EHR software company for 46 years, building it into one of the largest US private tech companies &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250817/p14#a250817p14)
- - [A look at OpenAI&#39;s campaign over the past year to secure its transition from a nonprofit, led by a team of Democratic insiders in California &lpar;Politico&rpar;](http://www.techmeme.com/250817/p13#a250817p13)
- - [AI is increasingly being used in hacking, with cybercriminals using AI to enhance their capabilities and cybersecurity firms using it to find vulnerabilities &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/250817/p12#a250817p12)
- - [Best Indoor Security Cameras for 2025: Tested in Our Own Homes](https://www.cnet.com/home/security/best-indoor-home-security-cameras/#ftag=CAD590a51e)
- - [Interview with Trent Brunson, R&amp;D director at cybersecurity firm Trail of Bits, which won $3M and 2nd place in DARPA&#39;s AI Cyber Challenge, behind Team Atlanta &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250817/p11#a250817p11)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s campaign over the past year to secure its transition from a nonprofit, led by a team of Democratic insiders in California &lpar;Politico&rpar;](http://www.techmeme.com/250817/p13#a250817p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

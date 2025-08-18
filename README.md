@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 😝 [Nope](http://9gag.com/gag/a7oAgmz)
+ - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
+ - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
  - 💣 [Sue her](http://9gag.com/gag/a34nrrN)
- - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
+ - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aPAnq0P)
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 

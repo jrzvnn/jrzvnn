@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I\u2019m a guy who likes to draw, and I want to thank you dudes/dudettes for all the nice feedback. My illustration is finally finished and i hope some off you find enjoyment in it. I tried to create an image that looks like the illustrations from the fairytale-books I read as a kid.](http://9gag.com/gag/aByo5RQ)
- - 😝 [Russian History](http://9gag.com/gag/ae9Wwbv)
- - 💣 [Bunny choose barrel roll..](http://9gag.com/gag/a87zOqZ)
- - 😝 [Man throws fish and an eagle catches it in mid-air, what a shot](http://9gag.com/gag/avymw4b)
- - 👉 [This is for my stoic friends who may not have had the opportunity to experience the wisdom of Musonius Rufus](http://9gag.com/gag/aND3580)<!-- MEMES:END -->
+ - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
+ - 😝 [Suprise! Guess who was hiding under the burqa](http://9gag.com/gag/aryzEGy)
+ - 💣 [Mem from hdd day 21](http://9gag.com/gag/aRBDG4j)
+ - 😝 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
 
 ---
 

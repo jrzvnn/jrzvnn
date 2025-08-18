@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Home adds scheduling for older Nest thermostats](https://www.theverge.com/news/760853/google-home-app-nest-learning-thermostat-e-3rd-gen-schedule-feature)
  - [The West Texas Measles Outbreak Has Ended](https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/)
  - [Texas AG Ken Paxton launches a probe into Meta and Character.AI over claims they deceptively market chatbots as mental health tools, including for children &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250818/p19#a250818p19)
  - [Microsoft hints at ‘more affordable’ Xbox Cloud Gaming plan](https://www.theverge.com/news/760813/microsoft-xbox-cloud-gaming-new-price-plan-hint)
- - [Jackery Explorer 1000 Deal: $350 Off Battery Bank Right Now](https://www.wired.com/story/jackery-explorer-1000-deal/)
- - [WIRED Roundup: Why GPT-5 Flopped](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-why-gpt-5-flopped/)<!-- TECH:END -->
+ - [Jackery Explorer 1000 Deal: $350 Off Battery Bank Right Now](https://www.wired.com/story/jackery-explorer-1000-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

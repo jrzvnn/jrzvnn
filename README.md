@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank buys Foxconn&#39;s Ohio EV plant; Foxconn will produce AI servers at the plant as part of Softbank&#39;s $500B Stargate project with OpenAI and Oracle &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250818/p3#a250818p3)
- - [Best Beer Clubs for 2025](https://www.cnet.com/news/best-beer-subscription-boxes/#ftag=CAD590a51e)
- - [China&#39;s podcast audience is projected to reach 150M in 2025, up from ~700K five years ago, driven by grassroots hosts instinctively navigating China&#39;s red lines &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/250818/p2#a250818p2)
- - [As CEOs and executives mandate AI adoption to make their businesses more efficient and competitive, many have yet to fully integrate it into their own workdays &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/250818/p1#a250818p1)
- - [Australia&#39;s ACCC says Google agreed pay a ~$36M fine over deals from 2019-2021 with Telstra and Optus to pre-install only Google Search on Android phones &lpar;Himanshi Akhand/Reuters&rpar;](http://www.techmeme.com/250817/p15#a250817p15)<!-- TECH:END -->
+ - [Microsoft is finally improving Windows 11’s dark mode](https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements)
+ - [Best Reading Glasses to Buy Online in 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
+ - [Sources: the EU and US are delaying formalizing their trade deal over &quot;non-tariff barriers&quot;, including relaxing the DSA, which the EU sees as a red line &lpar;Financial Times&rpar;](http://www.techmeme.com/250818/p4#a250818p4)
+ - [The Plan to Turn the Caribbean’s Glut of Sargassum Into Biofuel](https://www.wired.com/story/there-is-more-sargassum-than-ever-in-the-caribbean-and-they-want-to-turn-it-into-energy/)
+ - [SoftBank buys Foxconn&#39;s Ohio EV plant; Foxconn will produce AI servers at the plant as part of Softbank&#39;s $500B Stargate project with OpenAI and Oracle &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/250818/p3#a250818p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

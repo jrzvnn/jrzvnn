@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 💣 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
- - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
+ - 😝 [Instant Coffee Karma](https://www.reddit.com/r/funny/comments/1musr2x/instant_coffee_karma/)
+ - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 💣 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 👉 [Damn the memories...](http://9gag.com/gag/aXPeyjz)<!-- MEMES:END -->
 
 ---
 

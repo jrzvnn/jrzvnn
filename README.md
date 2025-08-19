@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 😝 [GREAT AMERICAN DAD\ud83c\uddfa\ud83c\uddf2\ud83c\uddfa\ud83c\uddf2](http://9gag.com/gag/a9yB0vK)
- - 💣 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
- - 😝 [Going back to 2002 to get rich](http://9gag.com/gag/awyvW4x)
- - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
+ - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 😝 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
+ - 💣 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 😝 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
+ - 👉 [Not today, not ever](http://9gag.com/gag/a0ewqwB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Take Control of Your Google Search Results by Choosing the Sources You Want to See](https://www.cnet.com/tech/services-and-software/take-control-of-your-google-search-results-by-choosing-the-sources-you-want-to-see/#ftag=CAD590a51e)
+ - [Is Ultrahuman&#39;s Ring Air Now the Most Accurate Ovulation-Tracking Smart Ring?](https://www.cnet.com/health/is-ultrahumans-ring-air-now-the-most-accurate-ovulation-tracking-smart-ring/#ftag=CAD590a51e)
+ - [The First At-Home Cervical Cancer Screening Wand: Cost, Insurance Coverage and How It Works](https://www.cnet.com/health/medical/first-at-home-cervical-cancer-screening-wand-cost-insurance-coverage-how-works/#ftag=CAD590a51e)
  - [Sources: Apple is making all four iPhone 17 models in India ahead of debut, a first, as it expands to five factories to cut reliance on China for US-bound units &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p4#a250819p4)
- - [Tim Sweeney says the UK&#39;s mobile app store regulation lags &quot;well behind&quot; other countries, and calls the CMA&#39;s iPhone sideloading decision delay a &quot;blunder&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250819/p3#a250819p3)
- - [AT&amp;T Promo Code: Get Up to $300 in August](https://www.wired.com/story/att-promo-code/)
- - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
- - [OpenAI launches ChatGPT Go, a new India-only plan priced at Rs. 399 per month, or ~$4.57, its most affordable yet, to expand in its second-largest market &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250819/p2#a250819p2)<!-- TECH:END -->
+ - [Tim Sweeney says the UK&#39;s mobile app store regulation lags &quot;well behind&quot; other countries, and calls the CMA&#39;s iPhone sideloading decision delay a &quot;blunder&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250819/p3#a250819p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

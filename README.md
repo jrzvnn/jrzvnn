@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 4,446 US adults on AI: 71% are concerned AI will permanently displace large numbers of workers, 61% worry about electricity consumption, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p11#a250819p11)
+ - [Spotify’s new track mixing tool adds DJ features to your playlists](https://www.theverge.com/news/761290/spotify-playlist-mix-audio-transition-feature)
+ - [DeepSeek releases V3.1, adding a longer context window, with few other details; Chinese local media blames CEO Liang Wenfeng&#39;s perfectionism for R2&#39;s delay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p10#a250819p10)
  - [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)
- - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)
- - [We could make Rosie the Robot, but should we?](https://www.theverge.com/podcast/759695/we-could-make-rosie-the-robot-but-should-we)
- - [It’s Google’s turn to convince us to care about AI on our phones](https://www.theverge.com/tech/760372/made-by-google-2025-pixel-10-gemini)
- - [Nanoleaf’s new immersive TV lighting kit is better at extending what’s on screen](https://www.theverge.com/news/760570/nanoleaf-4d-tv-smart-ambient-lighting-camera-lightstrip)<!-- TECH:END -->
+ - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

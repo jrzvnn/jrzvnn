@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palestine was the problem with TikTok](https://www.theverge.com/features/761076/gaza-images-starvation-tiktok-ban)
  - [Sony just launched five new PC gaming peripherals, so I tried them all at once](https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on)
  - [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
  - [Google proposes Play Store changes in the EU, like making it easier for developers to direct users to websites and a new tiered fee structure, after EU scrutiny &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250819/p17#a250819p17)
- - [OpenAI Is Poised To Become The Most Valuable Startup Ever. Should It Be?](https://www.wired.com/story/openai-valuation-500-billion-skepticism/)
- - [The Chromatic Game Boy is getting Tetris&amp;#8217; best multiplayer mode](https://www.theverge.com/news/760100/modretro-chromatic-game-boy-tetris-update-battle-mode)<!-- TECH:END -->
+ - [OpenAI Is Poised to Become the Most Valuable Startup Ever. Should It Be?](https://www.wired.com/story/openai-valuation-500-billion-skepticism/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

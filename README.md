@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK blinks, backs down from its Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)
- - [The Best Cooling Sheets &lpar;2025&rpar;: Brooklinen, Slumber Cloud, Buffy](https://www.wired.com/gallery/best-cooling-sheets/)
- - [Apple upping iPhone 17 production in India to dance around China tariffs](https://appleinsider.com/articles/25/08/19/apple-upping-iphone-17-production-in-india-to-dance-around-china-tariffs?utm_source=rss)
- - [Ready to Escape Google? Start by Changing Your Phone&#39;s Default Search Engine](https://www.cnet.com/tech/ready-to-escape-google-start-by-changing-your-phones-default-search-engine/#ftag=CAD590a51e)
- - [When Will You Get Your Hands on the iPhone 17? We&#39;re Tracking the Release Date](https://www.cnet.com/tech/mobile/when-will-you-get-your-hands-on-the-iphone-17-were-tracking-the-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel will receive a $2 billion lifeline from SoftBank](https://www.theverge.com/news/761259/intel-softbank-2-billion-investment)
+ - [New iPhone 17 synthetic material cases rumored to replace FineWoven](https://appleinsider.com/articles/25/08/19/new-iphone-17-synthetic-material-cases-rumored-to-replace-finewoven?utm_source=rss)
+ - [iPhone 17 rumored to be the last with Camera Control](https://appleinsider.com/articles/25/08/19/iphone-17-rumored-to-be-the-last-with-camera-control?utm_source=rss)
+ - [The 15 Best Golf Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
+ - [UK blinks, backs down from Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

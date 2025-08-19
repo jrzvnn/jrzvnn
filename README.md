@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - 💣 [Nope](http://9gag.com/gag/a7oAgmz)
  - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
+ - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
 
 ---
 

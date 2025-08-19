@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
- - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
- - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
+ - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - 💣 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 

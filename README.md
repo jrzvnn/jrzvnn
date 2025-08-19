@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sue her](http://9gag.com/gag/a34nrrN)
- - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
- - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 😝 [Damn the memories...](http://9gag.com/gag/aXPeyjz)
- - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
+ - 😝 [Jackie Brown &lpar;1997&rpar;. This is Robert De Niro and Bridget Fonda. Its a Tarantino movie.](http://9gag.com/gag/a34nOE1)
+ - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
 
 ---
 

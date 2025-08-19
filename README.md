@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 😝 [Sue her](http://9gag.com/gag/a34nrrN)
+ - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
  - 😝 [Damn the memories...](http://9gag.com/gag/aXPeyjz)
- - 👉 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)<!-- MEMES:END -->
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 

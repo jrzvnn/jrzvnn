@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Meta restructures Superintelligence Lab; Alexandr Wang heads TBD Lab, Robert Fergus heads FAIR, Nat Friedman heads products, Aparna Ramani heads Infra &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250819/p18#a250819p18)
- - [Palestine was the problem with TikTok](https://www.theverge.com/features/761076/gaza-images-starvation-tiktok-ban)
- - [Made by Google 2025: The Biggest Pixel 10 Leaks We&#39;ve Heard Ahead of Launch](https://www.cnet.com/tech/mobile/made-by-google-2025-the-biggest-pixel-10-leaks-weve-heard-ahead-of-launch/#ftag=CAD590a51e)
- - [Sony just launched five new PC gaming peripherals, so I tried them all at once](https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on)
- - [I Tried Inzone&#39;s New Gaming Mouse. It Made My Aim Better](https://www.cnet.com/tech/computing/i-tried-inzones-new-gaming-mouse-it-made-my-aim-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta considers downsizing its AI division, with some executives expected to leave, and is exploring using third-party models for its AI products &lpar;New York Times&rpar;](http://www.techmeme.com/250819/p19#a250819p19)
+ - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
+ - [How the MAGA goon squad became tech lobbyists](https://www.theverge.com/regulator-newsletter/761358/how-the-maga-goon-squad-became-tech-lobbyists)
+ - [Ticket reseller sued for illegally buying over 2,000 Taylor Swift tickets](https://www.theverge.com/news/761476/taylor-swift-eras-tour-ftc-ticket-reseller-bots-lawsuit)
+ - [Memo: Meta restructures Superintelligence Labs; Alexandr Wang heads TBD Lab, Robert Fergus heads FAIR, Nat Friedman heads products, Aparna Ramani heads Infra &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250819/p18#a250819p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

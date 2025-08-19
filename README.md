@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
+ - [Microsoft employees occupy headquarters in protest of Israel contracts](https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid)
  - [Austin-based Aalo Atomics, which is building a modular nuclear reactor and data center, set to finish construction in 2026, raised a $100M Series B led by Valor &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250819/p27#a250819p27)
  - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
- - [New beta firmware arrives for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/25/08/19/new-beta-firmware-arrives-for-airpods-pro-2-airpods-4?utm_source=rss)
- - [Made by Google 2025 Live: Pixel 10, Pixel Watch 4, Gemini News and Android 16](https://www.cnet.com/tech/mobile/made-by-google-2025-live-pixel-10-pixel-watch-4-gemini-news-and-android-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

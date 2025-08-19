@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Nvidia is developing a new Blackwell-based AI chip for China, tentatively known as the B30A, that will be more powerful than the H20 available in China &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p8#a250819p8)
+ - [You Can Get This Asus TUF 32 4K Monitor at an All-New Low Price Right Now](https://www.cnet.com/deals/you-can-get-this-asus-tuf-32-4k-monitor-at-an-all-new-low-price-right-now/#ftag=CAD590a51e)
  - [Xiaomi reports Q2 revenue up 31% YoY to $16.2B, above ~$16B est., and net income up 75.4% to ~$1.6B driven by EV sales, as its smartphone business slows down &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250819/p7#a250819p7)
- - [Sources: Databricks is finalizing a funding round that would value it at $100B, up 61% from December 2024, co-led by Thrive Capital; a16z is set to participate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250819/p6#a250819p6)
- - [Sources: Masayoshi Son met Lip-Bu Tan to discuss SoftBank acquiring Intel&#39;s faltering foundry business in the weeks before announcing SoftBank&#39;s $2B investment &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p5#a250819p5)
- - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)<!-- TECH:END -->
+ - [Best Family Phone Plans for 2025](https://www.cnet.com/tech/mobile/best-family-phone-plan/#ftag=CAD590a51e)
+ - [Lenovo Legion Go S Is My New Favorite Way to Play Call of Duty Anywhere](https://www.cnet.com/tech/gaming/lenovo-legion-go-s-is-my-new-favorite-way-to-play-call-of-duty-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

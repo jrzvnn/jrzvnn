@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
- - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 😝 [Going back to 2002 to get rich](http://9gag.com/gag/awyvW4x)
- - 👉 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)<!-- MEMES:END -->
+ - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - 😝 [Sue her](http://9gag.com/gag/a34nrrN)
+ - 💣 [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - 😝 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
+ - 👉 [How to date The Grinch](http://9gag.com/gag/axy4qMp)<!-- MEMES:END -->
 
 ---
 

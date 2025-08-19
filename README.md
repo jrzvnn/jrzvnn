@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
  - [An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon](https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/)
- - [Take Control of Your Google Search Results by Choosing the Sources You Want to See](https://www.cnet.com/tech/services-and-software/take-control-of-your-google-search-results-by-choosing-the-sources-you-want-to-see/#ftag=CAD590a51e)
- - [Is Ultrahuman&#39;s Ring Air Now the Most Accurate Ovulation-Tracking Smart Ring?](https://www.cnet.com/health/is-ultrahumans-ring-air-now-the-most-accurate-ovulation-tracking-smart-ring/#ftag=CAD590a51e)
- - [The First At-Home Cervical Cancer Screening Wand: Cost, Insurance Coverage and How It Works](https://www.cnet.com/health/medical/first-at-home-cervical-cancer-screening-wand-cost-insurance-coverage-how-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 19, #534](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-19-534/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19, #800](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-800/#ftag=CAD590a51e)
+ - [Aspirin Not Working for Your Headache? Experts Say These Foods Could Provide Relief](https://www.cnet.com/health/nutrition/aspirin-not-working-headache-experts-say-foods-provide-relief/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

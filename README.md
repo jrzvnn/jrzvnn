@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
  - [OpenAI launches ChatGPT Go, a new India-only plan priced at Rs. 399, or ~$4.57, per month, its most affordable yet, to expand in its second-largest market &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250819/p2#a250819p2)
  - [A federal appeals court rejects T-Mobile&#39;s bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250819/p1#a250819p1)
- - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)
- - [The US FTC sues Key Investment Group, operator of sites like TotalTickets.com, for skirting ticket limits to buy up and resell live event tickets at a markup &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250818/p33#a250818p33)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-19/#ftag=CAD590a51e)
+ - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get ready for Silksong’s ‘special announcement’ on Thursday](https://www.theverge.com/news/761451/hollow-knight-silksong-special-announcement-youtube)
+ - [Tether hires Bo Hines, who stepped down as White House Crypto Council Executive Director earlier in August, as an adviser to help it expand in the US &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250819/p15#a250819p15)
  - [What to expect from Google&#39;s &quot;Made by Google&quot; Pixel hardware event on August 20: four Pixel 10 phones, including a 10 Pro Fold, Pixel Watch 4, and Pixel Buds 2A &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250819/p14#a250819p14)
  - [Made by Google 2025: What to expect from Google’s new Pixel hardware](https://www.theverge.com/news/761300/made-by-google-what-to-expect-pixel-10-pro-xl-fold-watch-4-buds-2a)
- - [Apple brings its Self Service Repair program to Canada](https://appleinsider.com/articles/25/08/19/apple-brings-its-self-service-repair-program-to-canada?utm_source=rss)
- - [&#39;Kirby Air Riders&#39; Is Coming to Switch 2 and It’s ‘Basically Like Mario Kart&#39;](https://www.wired.com/story/kirby-air-riders-is-coming-to-switch-2-and-its-basically-like-mario-kart/)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)<!-- TECH:END -->
+ - [Apple brings its Self Service Repair program to Canada](https://appleinsider.com/articles/25/08/19/apple-brings-its-self-service-repair-program-to-canada?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Sweeney says the UK&#39;s mobile app store regulation lags &quot;well behind&quot; other countries, and calls the CMA&#39;s iPhone sideloading decision delay a &quot;blunder&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250819/p3#a250819p3)
  - [AT&amp;T Promo Code: Get Up to $300 in August](https://www.wired.com/story/att-promo-code/)
  - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
  - [OpenAI launches ChatGPT Go, a new India-only plan priced at Rs. 399, or ~$4.57, per month, its most affordable yet, to expand in its second-largest market &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250819/p2#a250819p2)
- - [A federal appeals court rejects T-Mobile&#39;s bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250819/p1#a250819p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-19/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A federal appeals court rejects T-Mobile&#39;s bid to overturn a $92M fine for illegally sharing customer location data without consent, per a 2024 FCC ruling &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/250819/p1#a250819p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

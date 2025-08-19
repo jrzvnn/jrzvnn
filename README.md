@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 💣 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
- - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
- - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
+ - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 💣 [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
 
 ---
 

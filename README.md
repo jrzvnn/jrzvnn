@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Meta restructures Superintelligence Lab; Alexandr Wang heads TBD Lab, Robert Fergus heads FAIR, Nat Friedman heads products, Aparna Ramani heads Infra &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250819/p18#a250819p18)
  - [Palestine was the problem with TikTok](https://www.theverge.com/features/761076/gaza-images-starvation-tiktok-ban)
+ - [Made by Google 2025: The Biggest Pixel 10 Leaks We&#39;ve Heard Ahead of Launch](https://www.cnet.com/tech/mobile/made-by-google-2025-the-biggest-pixel-10-leaks-weve-heard-ahead-of-launch/#ftag=CAD590a51e)
  - [Sony just launched five new PC gaming peripherals, so I tried them all at once](https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on)
- - [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
- - [Google proposes Play Store changes in the EU, like making it easier for developers to direct users to websites and a new tiered fee structure, after EU scrutiny &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250819/p17#a250819p17)
- - [OpenAI Is Poised to Become the Most Valuable Startup Ever. Should It Be?](https://www.wired.com/story/openai-valuation-500-billion-skepticism/)<!-- TECH:END -->
+ - [I Tried Inzone&#39;s New Gaming Mouse. It Made My Aim Better](https://www.cnet.com/tech/computing/i-tried-inzones-new-gaming-mouse-it-made-my-aim-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

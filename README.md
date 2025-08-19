@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal code hints at Apple Watch gaining Touch ID security](https://appleinsider.com/articles/25/08/19/internal-code-hints-at-apple-watch-gaining-touch-id-security?utm_source=rss)
+ - [Dell 14 Premium Review: Hello Old Friend](https://www.wired.com/review/dell-14-premium/)
+ - [Bill Gates backs the Alzheimer&#39;s Insights AI Prize, which gives $1M to a team making AI to &quot;accelerate breakthrough discoveries from existing Alzheimer&#39;s data&quot; &lpar;Stephen Morris/Financial Times&rpar;](http://www.techmeme.com/250819/p12#a250819p12)
  - [Ayaneo’s dual-screen Android handheld is its next modernized Nintendo DS](https://www.theverge.com/news/761296/ayaneo-pocket-ds-dual-screen-handheld-android-13)
- - [A survey of 4,446 US adults on AI: 71% are concerned AI will permanently displace large numbers of workers, 61% worry about electricity consumption, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p11#a250819p11)
- - [Spotify’s new track mixing tool adds DJ features to your playlists](https://www.theverge.com/news/761290/spotify-playlist-mix-audio-transition-feature)
- - [DeepSeek releases V3.1, adding a longer context window, with few other details; Chinese local media blames CEO Liang Wenfeng&#39;s perfectionism for R2&#39;s delay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p10#a250819p10)
- - [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)<!-- TECH:END -->
+ - [A survey of 4,446 US adults on AI: 71% are concerned AI will permanently displace large numbers of workers, 61% worry about electricity consumption, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p11#a250819p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

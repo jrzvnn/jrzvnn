@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Higher iPhone 16 builds raise hopes for Apple&#39;s holiday season](https://appleinsider.com/articles/25/08/19/higher-iphone-16-builds-raise-hopes-for-apples-holiday-season?utm_source=rss)
- - [Labubus Are on Track to Be a Billion-Dollar Business This year](https://www.wired.com/story/labubu-pop-mart-earnings-2025/)
- - [Keychain, which makes AI-powered software to help manufacturers manage their product cycles, raised a $30M Series B, bringing its total funding to $68M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250819/p13#a250819p13)
- - [Dreame’s L20 Ultra robovac / mop hybrid is a whopping $550 off](https://www.theverge.com/tech/761086/dreame-l20-ultra-amazon-echo-show-5-deal-sale)
- - [Tesla will sell you back the turn signal stalk it removed from the Model 3](https://www.theverge.com/tesla/761325/tesla-turn-sginal-stalk-model-3-retrofit-price-china)<!-- TECH:END -->
+ - [Made by Google 2025: What to expect from Google’s new Pixel hardware](https://www.theverge.com/news/761300/made-by-google-what-to-expect-pixel-10-pro-xl-fold-watch-4-buds-2a)
+ - [Apple brings its Self Service Repair program to Canada](https://appleinsider.com/articles/25/08/19/apple-brings-its-self-service-repair-program-to-canada?utm_source=rss)
+ - [&#39;Kirby Air Riders&#39; Is Coming to Switch 2 and It’s ‘Basically Like Mario Kart&#39;](https://www.wired.com/story/kirby-air-riders-is-coming-to-switch-2-and-its-basically-like-mario-kart/)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [Razer’s Gengar Edition headphones are now available in the US](https://www.theverge.com/news/761044/razer-pokemon-kraken-kitty-v2-wired-headphones-gengar-edition-us-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

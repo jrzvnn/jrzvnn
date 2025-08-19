@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US DNI Tulsi Gabbard says the UK has agreed to drop its mandate requiring Apple to provide a backdoor for accessing users&#39; encrypted data &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/250818/p34#a250818p34)
+ - [The US FTC sues Key Investment Group, operator of sites like TotalTickets.com, for skirting ticket limits to buy up and resell live event tickets at a markup &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250818/p33#a250818p33)
  - [An MIT report says 95% of GenAI pilots at companies have little to no financial impact, mainly due to a &quot;learning gap&quot; for both the tools and the companies &lpar;Sheryl Estrada/Fortune&rpar;](http://www.techmeme.com/250818/p32#a250818p32)
- - [SwitchBot K10+ review: Compact cleaning with strong suction &amp; smart navigation](https://appleinsider.com/articles/25/08/18/switchbot-k10-review-compact-cleaning-with-strong-suction-smart-navigation?utm_source=rss)
- - [Nvidia debuts the Nemotron-Nano-9B-v2, a hybrid Mamba-transformer model, saying it achieves scores comparable to or better than Qwen3-8B on reasoning benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250818/p31#a250818p31)
- - [SoftBank agrees to invest $2B in Intel, paying $23/share for Intel&#39;s common stock and buying ~2% of its outstanding shares; INTC jumps ~6% to ~$25 after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250818/p30#a250818p30)
- - [What is Roblox? Everything you need to know](https://appleinsider.com/articles/21/03/19/what-is-roblox---everything-you-need-to-know-about-the-latest-craze?utm_source=rss)<!-- TECH:END -->
+ - [New iOS 26 Public Beta 4 Gets Us One Step Closer to the Final iPhone Release](https://www.cnet.com/tech/services-and-software/new-ios-26-public-beta-4-gets-us-one-step-closer-to-the-final-iphone-release/#ftag=CAD590a51e)
+ - [SwitchBot K10+ review: Compact cleaning with strong suction &amp; smart navigation](https://appleinsider.com/articles/25/08/18/switchbot-k10-review-compact-cleaning-with-strong-suction-smart-navigation?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fat and furious](http://9gag.com/gag/a0ew3nn)
- - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - 💣 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
  - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 👉 [Luigi?](http://9gag.com/gag/aByoewQ)<!-- MEMES:END -->
+ - 💣 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aPAnq0P)
+ - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
 
 ---
 

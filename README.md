@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
  - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 💣 [Gaslighting 101](http://9gag.com/gag/aqyAwzR)
- - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
+ - 😝 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - 👉 [Luigi?](http://9gag.com/gag/aByoewQ)<!-- MEMES:END -->
 
 ---
 

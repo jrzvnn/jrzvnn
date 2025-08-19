@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 💣 [Nope](http://9gag.com/gag/a7oAgmz)
+ - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
  - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 👉 [England is beyond help.](http://9gag.com/gag/an7Vwgo)<!-- MEMES:END -->
+ - 💣 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aPAnq0P)
+ - 👉 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
 
 ---
 

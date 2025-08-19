@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Alibaba releases Qwen-Image-Edit, the image editing version of Qwen-Image, supporting modifications of Chinese and English text while preserving font and style &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250819/p28#a250819p28)
  - [Google announced the next step in its nuclear energy plans](https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility)
- - [Apple Won&#39;t Have to Provide an Encryption Backdoor in the UK, Says US Official](https://www.cnet.com/tech/services-and-software/apple-wont-have-to-provide-an-encryption-backdoor-in-the-uk-says-us-official/#ftag=CAD590a51e)
- - [Gamescom 2025: Black Myth Wukong Sequel, Resident Evil 9 and Other Reveals](https://www.cnet.com/tech/gaming/gamescom-2025-black-myth-wukong-sequel-resident-evil-9-and-other-reveals/#ftag=CAD590a51e)
- - [Meta Rolls Out AI Translations for Facebook and Instagram User-Generated Content](https://www.cnet.com/tech/services-and-software/meta-rolls-out-ai-translations-for-facebook-and-instagram-user-generated-content/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
+ - [Microsoft employees occupy headquarters in protest of Israel contracts](https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid)
+ - [Austin-based Aalo Atomics, which is building a modular nuclear reactor and data center, set to finish construction in 2026, raised a $100M Series B led by Valor &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250819/p27#a250819p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

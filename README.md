@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
+ - [Could These Be the iPhone 17&#39;s New Colors We&#39;ve Been Waiting For?](https://www.cnet.com/tech/mobile/iphone-17-colors-a-surprising-hue-could-be-coming-for-pro-models/#ftag=CAD590a51e)
+ - [Grammarly Pushes Beyond Proofreading With AI-Powered Writing Guidance](https://www.cnet.com/tech/services-and-software/grammarly-pushes-beyond-proofreading-with-ai-powered-writing-guidance/#ftag=CAD590a51e)
+ - [Sling&#39;s New $20 &#39;Select&#39; Package Gives You 11 Channels](https://www.cnet.com/tech/services-and-software/slings-new-20-select-package-gives-you-11-channels/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 20, #801](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-20-801/#ftag=CAD590a51e)
- - [Alibaba releases Qwen-Image-Edit, the image editing version of Qwen-Image, supporting modifications of Chinese and English text while preserving font and style &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250819/p28#a250819p28)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 20, #1523](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-20-1523/#ftag=CAD590a51e)
- - [The James Webb Space Telescope Finds New Moon Orbiting Uranus](https://www.cnet.com/science/space/the-james-webb-space-telescope-has-found-a-new-moon-orbiting-uranus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba releases Qwen-Image-Edit, the image editing version of Qwen-Image, supporting modifications of Chinese and English text while preserving font and style &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250819/p28#a250819p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

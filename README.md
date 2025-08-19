@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
  - 😝 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 💣 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
- - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
+ - 😝 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 💣 [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - 😝 [Going back to 2002 to get rich](http://9gag.com/gag/awyvW4x)
+ - 👉 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)<!-- MEMES:END -->
 
 ---
 

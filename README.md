@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ayaneo’s dual-screen Android handheld is its next modernized Nintendo DS](https://www.theverge.com/news/761296/ayaneo-pocket-ds-dual-screen-handheld-android-13)
  - [A survey of 4,446 US adults on AI: 71% are concerned AI will permanently displace large numbers of workers, 61% worry about electricity consumption, and more &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p11#a250819p11)
  - [Spotify’s new track mixing tool adds DJ features to your playlists](https://www.theverge.com/news/761290/spotify-playlist-mix-audio-transition-feature)
  - [DeepSeek releases V3.1, adding a longer context window, with few other details; Chinese local media blames CEO Liang Wenfeng&#39;s perfectionism for R2&#39;s delay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250819/p10#a250819p10)
- - [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)
- - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)<!-- TECH:END -->
+ - [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Commerce Secretary Howard Lutnick says Intel must give the government an equity stake in the company in return for CHIPS Act funds; INTC closes up 7% &lpar;CNBC&rpar;](http://www.techmeme.com/250819/p30#a250819p30)
  - [Microsoft rolls out a COPILOT function in Excel for users in the Beta Channel, letting them use text prompts to categorize data, summarize feedback, and more &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250819/p29#a250819p29)
  - [Could These Be the iPhone 17&#39;s New Colors We&#39;ve Been Waiting For?](https://www.cnet.com/tech/mobile/iphone-17-colors-a-surprising-hue-could-be-coming-for-pro-models/#ftag=CAD590a51e)
  - [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
- - [Grammarly Pushes Beyond Proofreading With AI-Powered Writing Guidance](https://www.cnet.com/tech/services-and-software/grammarly-pushes-beyond-proofreading-with-ai-powered-writing-guidance/#ftag=CAD590a51e)
- - [Sling&#39;s New $20 &#39;Select&#39; Package Gives You 11 Channels](https://www.cnet.com/tech/services-and-software/slings-new-20-select-package-gives-you-11-channels/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grammarly Pushes Beyond Proofreading With AI-Powered Writing Guidance](https://www.cnet.com/tech/services-and-software/grammarly-pushes-beyond-proofreading-with-ai-powered-writing-guidance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

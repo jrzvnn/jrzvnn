@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
  - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 💣 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 😝 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
+ - 💣 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
  - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aPAnq0P)
- - 👉 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
+ - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi reports Q2 revenue up 31% YoY to $16.2B, above ~$16B est., and net income up 75.4% to ~$1.6B driven by EV sales, as its smartphone business slows down &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250819/p7#a250819p7)
  - [Sources: Databricks is finalizing a funding round that would value it at $100B, up 61% from December 2024, co-led by Thrive Capital; a16z is set to participate &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250819/p6#a250819p6)
  - [Sources: Masayoshi Son met Lip-Bu Tan to discuss SoftBank acquiring Intel&#39;s faltering foundry business in the weeks before announcing SoftBank&#39;s $2B investment &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p5#a250819p5)
  - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
- - [An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon](https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 19, #534](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-19-534/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon](https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

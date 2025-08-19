@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Functionize, which offers a cloud platform that uses AI to speed up software testing, raised a $41M Series B, bringing its total funding to $67M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250819/p16#a250819p16)
- - [Get ready for Silksong’s ‘special announcement’ on Thursday](https://www.theverge.com/news/761451/hollow-knight-silksong-special-announcement-youtube)
- - [Tether hires Bo Hines, who stepped down as White House Crypto Council Executive Director earlier in August, as an adviser to help it expand in the US &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/250819/p15#a250819p15)
- - [What to expect from Google&#39;s &quot;Made by Google&quot; Pixel hardware event on August 20: four Pixel 10 phones, including a 10 Pro Fold, Pixel Watch 4, and Pixel Buds 2A &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250819/p14#a250819p14)
- - [Made by Google 2025: What to expect from Google’s new Pixel hardware](https://www.theverge.com/news/761300/made-by-google-what-to-expect-pixel-10-pro-xl-fold-watch-4-buds-2a)<!-- TECH:END -->
+ - [Sony just launched five new PC gaming peripherals, so I tried them all at once](https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on)
+ - [Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database](https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/)
+ - [Google proposes Play Store changes in the EU, like making it easier for developers to direct users to websites and a new tiered fee structure, after EU scrutiny &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250819/p17#a250819p17)
+ - [OpenAI Is Poised To Become The Most Valuable Startup Ever. Should It Be?](https://www.wired.com/story/openai-valuation-500-billion-skepticism/)
+ - [The Chromatic Game Boy is getting Tetris&amp;#8217; best multiplayer mode](https://www.theverge.com/news/760100/modretro-chromatic-game-boy-tetris-update-battle-mode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

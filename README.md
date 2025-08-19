@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based Aalo Atomics, which is building a modular nuclear reactor and data center, set to finish construction in 2026, raised a $100M Series B led by Valor &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250819/p27#a250819p27)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [New beta firmware arrives for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/25/08/19/new-beta-firmware-arrives-for-airpods-pro-2-airpods-4?utm_source=rss)
- - [Federal prosecutors charge an Oregon man with operating the Rapper Bot, one of the most powerful DDoS botnets ever seen, which knocked X offline earlier in 2025 &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250819/p26#a250819p26)
- - [The 50 Best Shows on Hulu Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Made by Google 2025 Live: Pixel 10, Pixel Watch 4, Gemini News and Android 16](https://www.cnet.com/tech/mobile/made-by-google-2025-live-pixel-10-pixel-watch-4-gemini-news-and-android-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

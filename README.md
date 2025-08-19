@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new Nissan Leaf is still one of the cheapest EVs in America](https://www.theverge.com/nissan/761633/nissan-leaf-starting-price-cheap-ev)
+ - [Source: Pylon, which uses AI to automate B2B customer service, raised $31M led by a16z and Bain Capital at a valuation in the hundreds of millions of dollars &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250819/p23#a250819p23)
+ - [Apple is reportedly making more of its new iPhones in India instead of China](https://www.theverge.com/news/761582/apple-iphone-17-pro-max-air-india-china)
  - [Meta rolls out AI-powered voice translations for creators on Facebook and Instagram globally, supporting English-Spanish translations with lip syncing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250819/p22#a250819p22)
- - [Robinhood, in partnership with Kalshi, launches a sports prediction market on Robinhood Derivatives, letting users trade on pro and college football games &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250819/p21#a250819p21)
- - [Save up to $500 on MacBook Air laptops with the year&#39;s best deals](https://appleinsider.com/articles/25/08/19/save-up-to-500-on-macbook-air-laptops-with-the-years-best-deals?utm_source=rss)
- - [Asus has the new world’s fastest OLED monitor at 720Hz, and it’s dripping with style](https://www.theverge.com/news/761481/asus-720hz-gaming-monitor-rog-swift-oled-pg27aqwp-w)
- - [Google will pay $30M to settle a class action lawsuit alleging it violated kids&#39; privacy on YouTube by collecting data without parental consent for targeted ads &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250819/p20#a250819p20)<!-- TECH:END -->
+ - [Robinhood, in partnership with Kalshi, launches a sports prediction market on Robinhood Derivatives, letting users trade on pro and college football games &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250819/p21#a250819p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

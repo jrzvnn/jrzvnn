@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 😝 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
- - 💣 [Awkward](http://9gag.com/gag/aMVyLxG)
+ - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
  - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
+ - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
 
 ---
 

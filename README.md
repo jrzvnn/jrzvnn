@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - 😝 [Sue her](http://9gag.com/gag/a34nrrN)
- - 💣 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 😝 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
- - 👉 [How to date The Grinch](http://9gag.com/gag/axy4qMp)<!-- MEMES:END -->
+ - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - 😝 [GREAT AMERICAN DAD\ud83c\uddfa\ud83c\uddf2\ud83c\uddfa\ud83c\uddf2](http://9gag.com/gag/a9yB0vK)
+ - 💣 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
+ - 😝 [Going back to 2002 to get rich](http://9gag.com/gag/awyvW4x)
+ - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
 
 ---
 

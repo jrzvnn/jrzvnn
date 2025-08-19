@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 😝 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
- - 💣 [Sue her](http://9gag.com/gag/a34nrrN)
- - 😝 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
- - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
+ - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
+ - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
 
 ---
 

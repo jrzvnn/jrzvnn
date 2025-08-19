@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
- - 😝 [Contaminated gasoline at the pump](http://9gag.com/gag/ae9WzBj)
- - 💣 [A video from Titanic Museum shows how cold the water was for the titanic victims](http://9gag.com/gag/awyv2zy)
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 👉 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
+ - 😝 [Fat and furious](http://9gag.com/gag/a0ew3nn)
+ - 😝 [23-year-old who is 350 lbs isn&#39;t giving himself any excuses to better himself](http://9gag.com/gag/aqyAwMQ)
+ - 💣 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - 😝 [Luigi?](http://9gag.com/gag/aByoewQ)
+ - 👉 [Dads are the best](http://9gag.com/gag/aPAnq9P)<!-- MEMES:END -->
 
 ---
 

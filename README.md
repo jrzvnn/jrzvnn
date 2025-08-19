@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel will receive a $2 billion lifeline from SoftBank](https://www.theverge.com/news/761259/intel-softbank-2-billion-investment)
- - [New iPhone 17 synthetic material cases rumored to replace FineWoven](https://appleinsider.com/articles/25/08/19/new-iphone-17-synthetic-material-cases-rumored-to-replace-finewoven?utm_source=rss)
- - [iPhone 17 rumored to be the last with Camera Control](https://appleinsider.com/articles/25/08/19/iphone-17-rumored-to-be-the-last-with-camera-control?utm_source=rss)
- - [The 15 Best Golf Gifts for Every Kind of Golfer &lpar;2024&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
- - [UK blinks, backs down from Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)<!-- TECH:END -->
+ - [The AI-Powered PDF Marks the End of an Era](https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/)
+ - [The Best Ergonomic Mouse &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)
+ - [We could make Rosie the Robot, but should we?](https://www.theverge.com/podcast/759695/we-could-make-rosie-the-robot-but-should-we)
+ - [It’s Google’s turn to convince us to care about AI on our phones](https://www.theverge.com/tech/760372/made-by-google-2025-pixel-10-gemini)
+ - [Nanoleaf’s new immersive TV lighting kit is better at extending what’s on screen](https://www.theverge.com/news/760570/nanoleaf-4d-tv-smart-ambient-lighting-camera-lightstrip)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Gemini can now read your Docs aloud](https://www.theverge.com/news/761920/google-docs-gemini-ai-read-aloud)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 20, #801](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-20-801/#ftag=CAD590a51e)
  - [Alibaba releases Qwen-Image-Edit, the image editing version of Qwen-Image, supporting modifications of Chinese and English text while preserving font and style &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250819/p28#a250819p28)
- - [Google announced the next step in its nuclear energy plans](https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility)
- - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
- - [Microsoft employees occupy headquarters in protest of Israel contracts](https://www.theverge.com/ai-artificial-intelligence/761731/pro-palestinian-protests-microsoft-headquarters-redmond-washington-no-azure-tech-for-apartheid)
- - [Austin-based Aalo Atomics, which is building a modular nuclear reactor and data center, set to finish construction in 2026, raised a $100M Series B led by Valor &lpar;Julia Hornstein/Business Insider&rpar;](http://www.techmeme.com/250819/p27#a250819p27)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 20, #1523](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-20-1523/#ftag=CAD590a51e)
+ - [The James Webb Space Telescope Finds New Moon Orbiting Uranus](https://www.cnet.com/science/space/the-james-webb-space-telescope-has-found-a-new-moon-orbiting-uranus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [The White House launches an official TikTok account, with the aim of communicating President Trump&#39;s policies &lpar;Steve Holland/Reuters&rpar;](http://www.techmeme.com/250819/p31#a250819p31)
- - [This Phone for Kids Will Block the Capture of Nude Content From Within the Camera](https://www.cnet.com/tech/mobile/this-kids-smartphone-will-block-the-capture-of-nude-content-from-within-the-camera/#ftag=CAD590a51e)
  - [US Commerce Secretary Howard Lutnick says Intel must give the government an equity stake in the company in return for CHIPS Act funds; INTC closes up 7% &lpar;CNBC&rpar;](http://www.techmeme.com/250819/p30#a250819p30)
- - [Made by Google Pixel 10 Event Watch Party: Watch the New Phone Reveals With Us Tomorrow](https://www.cnet.com/tech/mobile/made-by-google-pixel-10-event-watch-party-watch-the-new-phone-reveals-with-us/#ftag=CAD590a51e)
- - [Microsoft rolls out a COPILOT function in Excel for users in the Beta Channel, letting them use text prompts to categorize data, summarize feedback, and more &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250819/p29#a250819p29)<!-- TECH:END -->
+ - [Microsoft rolls out a COPILOT function in Excel for users in the Beta Channel, letting them use text prompts to categorize data, summarize feedback, and more &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250819/p29#a250819p29)
+ - [Could These Be the iPhone 17&#39;s New Colors We&#39;ve Been Waiting For?](https://www.cnet.com/tech/mobile/iphone-17-colors-a-surprising-hue-could-be-coming-for-pro-models/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

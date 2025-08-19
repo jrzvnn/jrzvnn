@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Nissan Leaf is still one of the cheapest EVs in America](https://www.theverge.com/nissan/761633/nissan-leaf-starting-price-cheap-ev)
- - [Source: Pylon, which uses AI to automate B2B customer service, raised $31M led by a16z and Bain Capital at a valuation in the hundreds of millions of dollars &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/250819/p23#a250819p23)
- - [Apple is reportedly making more of its new iPhones in India instead of China](https://www.theverge.com/news/761582/apple-iphone-17-pro-max-air-india-china)
- - [Meta rolls out AI-powered voice translations for creators on Facebook and Instagram globally, supporting English-Spanish translations with lip syncing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250819/p22#a250819p22)
- - [Robinhood, in partnership with Kalshi, launches a sports prediction market on Robinhood Derivatives, letting users trade on pro and college football games &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250819/p21#a250819p21)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Bullish says it has received all $1.15B in capital raised from its IPO in stablecoins, including USDC, USDG, and PYUSD, marking a first for US public markets &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250819/p25#a250819p25)
+ - [Meta’s AI translation tool can dub your Instagram videos](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels)
+ - [Wyoming launches a stablecoin, FRNT, marking the first time a US state has issued a blockchain-based, fiat-pegged token to be used by retail and enterprises &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250819/p24#a250819p24)
+ - [PNY’s Overclocked RTX 5070 Ti Is Finally Selling at Retail](https://www.wired.com/story/pny-rtx-5070-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
- - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
- - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 👉 [Sue her](http://9gag.com/gag/a34nrrN)<!-- MEMES:END -->
+ - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 😝 [Sue her](http://9gag.com/gag/a34nrrN)
+ - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
+ - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
 
 ---
 

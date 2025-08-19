@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
- - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 😝 [GREAT AMERICAN DAD\ud83c\uddfa\ud83c\uddf2\ud83c\uddfa\ud83c\uddf2](http://9gag.com/gag/a9yB0vK)
+ - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
  - 💣 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 😝 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
- - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
+ - 😝 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
+ - 👉 [What the dog doin](http://9gag.com/gag/apR8w7b)<!-- MEMES:END -->
 
 ---
 

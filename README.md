@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)
- - 😝 [Lieutenant Kolesnikov Alexey graduated in December 2024, went on his first combat mission on 6 August and was dispatched in Vasylivka, Ukraine on 10 August 2025. Lifespan: 4 days.](http://9gag.com/gag/a4PVyV6)
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 😝 [Having fun](http://9gag.com/gag/aGybmnX)
- - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
+ - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - 😝 [Thailand.](http://9gag.com/gag/aE0EmDN)
+ - 💣 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
+ - 😝 [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)
+ - 👉 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)<!-- MEMES:END -->
 
 ---
 

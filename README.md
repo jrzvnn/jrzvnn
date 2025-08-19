@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 😝 [Sue her](http://9gag.com/gag/a34nrrN)
- - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 👉 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)<!-- MEMES:END -->
+ - 😝 [The smell of sobriety](http://9gag.com/gag/an7Vwm5)
+ - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - 💣 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 😝 [Going back to 2002 to get rich](http://9gag.com/gag/awyvW4x)
+ - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
 
 ---
 

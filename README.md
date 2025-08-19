@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK blinks, backs down from its Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)
  - [Eight Sleep, which makes the AI-based Pod smart mattress cover to monitor sleep stages and more, raised $100M from HSG and more, after an $86M Series C in 2021 &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250819/p9#a250819p9)
  - [People Are Trying to ‘Deprogram’ Their MAGA Parents Through Book Clubs](https://www.wired.com/story/people-are-trying-to-deprogram-their-maga-parents-through-book-clubs/)
  - [Silicon Valley Is Panicking About Zohran Mamdani. NYC’s Tech Scene Is Not](https://www.wired.com/story/tech-executives-new-york-zohran-mamdani/)
- - [The Mysterious Origins of the Most Energetic Neutrino Ever Detected](https://www.wired.com/story/the-mysterious-origins-of-the-most-energetic-neutrino-ever-detected/)
- - [Sources: Nvidia is developing a new Blackwell-based AI chip for China, tentatively known as the B30A, that will be more powerful than the H20 available in China &lpar;Reuters&rpar;](http://www.techmeme.com/250819/p8#a250819p8)<!-- TECH:END -->
+ - [The Mysterious Origins of the Most Energetic Neutrino Ever Detected](https://www.wired.com/story/the-mysterious-origins-of-the-most-energetic-neutrino-ever-detected/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

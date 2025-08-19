@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Firecrawl, which offers an open-source web crawler for developers and AI agents, raised a $14.5M Series A led by Nexus Venture Partners &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250819/p32#a250819p32)
  - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [The White House launches an official TikTok account, with the aim of communicating President Trump&#39;s policies &lpar;Steve Holland/Reuters&rpar;](http://www.techmeme.com/250819/p31#a250819p31)
- - [US Commerce Secretary Howard Lutnick says Intel must give the government an equity stake in the company in return for CHIPS Act funds; INTC closes up 7% &lpar;CNBC&rpar;](http://www.techmeme.com/250819/p30#a250819p30)
- - [Microsoft rolls out a COPILOT function in Excel for users in the Beta Channel, letting them use text prompts to categorize data, summarize feedback, and more &lpar;Sean Endicott/Windows Central&rpar;](http://www.techmeme.com/250819/p29#a250819p29)
- - [Could These Be the iPhone 17&#39;s New Colors We&#39;ve Been Waiting For?](https://www.cnet.com/tech/mobile/iphone-17-colors-a-surprising-hue-could-be-coming-for-pro-models/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Phone for Kids Will Block the Capture of Nude Content From Within the Camera](https://www.cnet.com/tech/mobile/this-kids-smartphone-will-block-the-capture-of-nude-content-from-within-the-camera/#ftag=CAD590a51e)
+ - [US Commerce Secretary Howard Lutnick says Intel must give the government an equity stake in the company in return for CHIPS Act funds; INTC closes up 7% &lpar;CNBC&rpar;](http://www.techmeme.com/250819/p30#a250819p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

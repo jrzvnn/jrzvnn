@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Federal prosecutors charge an Oregon man with operating the Rapper Bot, one of the most powerful DDoS botnets ever seen, which knocked X offline earlier in 2025 &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250819/p26#a250819p26)
+ - [The 50 Best Shows on Hulu Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Bullish says it has received all $1.15B in capital raised from its IPO in stablecoins, including USDC, USDG, and PYUSD, marking a first for US public markets &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250819/p25#a250819p25)
- - [Meta’s AI translation tool can dub your Instagram videos](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels)
- - [Wyoming launches a stablecoin, FRNT, marking the first time a US state has issued a blockchain-based, fiat-pegged token to be used by retail and enterprises &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250819/p24#a250819p24)
- - [PNY’s Overclocked RTX 5070 Ti Is Finally Selling at Retail](https://www.wired.com/story/pny-rtx-5070-deal/)<!-- TECH:END -->
+ - [Meta’s AI translation tool can dub your Instagram videos](https://www.theverge.com/news/761665/meta-ai-translation-facebook-instagram-reels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

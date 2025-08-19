@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Higher iPhone 16 builds raise hopes for Apple&#39;s holiday season](https://appleinsider.com/articles/25/08/19/higher-iphone-16-builds-raise-hopes-for-apples-holiday-season?utm_source=rss)
+ - [Labubus Are on Track to Be a Billion-Dollar Business This year](https://www.wired.com/story/labubu-pop-mart-earnings-2025/)
  - [Keychain, which makes AI-powered software to help manufacturers manage their product cycles, raised a $30M Series B, bringing its total funding to $68M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250819/p13#a250819p13)
  - [Dreame’s L20 Ultra robovac / mop hybrid is a whopping $550 off](https://www.theverge.com/tech/761086/dreame-l20-ultra-amazon-echo-show-5-deal-sale)
- - [Tesla will sell you back the turn signal stalk it removed from the Model 3](https://www.theverge.com/tesla/761325/tesla-turn-sginal-stalk-model-3-retrofit-price-china)
- - [Microsoft Excel adds Copilot AI to help fill in spreadsheet cells](https://www.theverge.com/news/761338/microsoft-excel-ai-copilot-spreadsheet-cell-filling)
- - [Internal code hints at Apple Watch gaining Touch ID security](https://appleinsider.com/articles/25/08/19/internal-code-hints-at-apple-watch-gaining-touch-id-security?utm_source=rss)<!-- TECH:END -->
+ - [Tesla will sell you back the turn signal stalk it removed from the Model 3](https://www.theverge.com/tesla/761325/tesla-turn-sginal-stalk-model-3-retrofit-price-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

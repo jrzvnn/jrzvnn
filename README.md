@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK blinks, backs down from its Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)
  - [The Best Cooling Sheets &lpar;2025&rpar;: Brooklinen, Slumber Cloud, Buffy](https://www.wired.com/gallery/best-cooling-sheets/)
  - [Apple upping iPhone 17 production in India to dance around China tariffs](https://appleinsider.com/articles/25/08/19/apple-upping-iphone-17-production-in-india-to-dance-around-china-tariffs?utm_source=rss)
- - [UK blinks, backs down from its Apple backdoor encryption demand](https://appleinsider.com/articles/25/08/19/uk-blinks-backs-down-from-its-apple-backdoor-encryption-demand?utm_source=rss)
  - [Ready to Escape Google? Start by Changing Your Phone&#39;s Default Search Engine](https://www.cnet.com/tech/ready-to-escape-google-start-by-changing-your-phones-default-search-engine/#ftag=CAD590a51e)
  - [When Will You Get Your Hands on the iPhone 17? We&#39;re Tracking the Release Date](https://www.cnet.com/tech/mobile/when-will-you-get-your-hands-on-the-iphone-17-were-tracking-the-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
 

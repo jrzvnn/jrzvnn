@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Tim Sweeney says the UK&#39;s mobile app store regulation lags &quot;well behind&quot; other countries, and calls the CMA&#39;s iPhone sideloading decision delay a &quot;blunder&quot; &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250819/p3#a250819p3)
  - [AT&amp;T Promo Code: Get Up to $300 in August](https://www.wired.com/story/att-promo-code/)
  - [Canon Promo Codes: 10% Off | August 2025](https://www.wired.com/story/canon-promo-code/)
- - [OpenAI launches ChatGPT Go, a new India-only plan priced at Rs. 399, or ~$4.57, per month, its most affordable yet, to expand in its second-largest market &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250819/p2#a250819p2)<!-- TECH:END -->
+ - [OpenAI launches ChatGPT Go, a new India-only plan priced at Rs. 399 per month, or ~$4.57, its most affordable yet, to expand in its second-largest market &lpar;Kashish Tandon/Reuters&rpar;](http://www.techmeme.com/250819/p2#a250819p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

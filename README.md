@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta considers downsizing its AI division, with some executives expected to leave, and is exploring using third-party models for its AI products &lpar;New York Times&rpar;](http://www.techmeme.com/250819/p19#a250819p19)
- - [All the news from Gamescom Opening Night Live 2025](https://www.theverge.com/news/760975/gamescom-opening-night-live-2025-news-trailers)
- - [How the MAGA goon squad became tech lobbyists](https://www.theverge.com/regulator-newsletter/761358/how-the-maga-goon-squad-became-tech-lobbyists)
- - [Ticket reseller sued for illegally buying over 2,000 Taylor Swift tickets](https://www.theverge.com/news/761476/taylor-swift-eras-tour-ftc-ticket-reseller-bots-lawsuit)
- - [Memo: Meta restructures Superintelligence Labs; Alexandr Wang heads TBD Lab, Robert Fergus heads FAIR, Nat Friedman heads products, Aparna Ramani heads Infra &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250819/p18#a250819p18)<!-- TECH:END -->
+ - [Asus has the new world’s fastest OLED monitor at 720Hz, and it’s dripping with style](https://www.theverge.com/news/761481/asus-720hz-gaming-monitor-rog-swift-oled-pg27aqwp-w)
+ - [Google will pay $30M to settle a class action lawsuit alleging it violated kids&#39; privacy on YouTube by collecting data without parental consent for targeted ads &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250819/p20#a250819p20)
+ - [New iPhone 17 synthetic material cases rumored to replace FineWoven](https://appleinsider.com/articles/25/08/19/new-iphone-17-synthetic-material-cases-rumored-to-replace-finewoven?utm_source=rss)
+ - [Internal code hints at Apple Watch gaining Touch ID security](https://appleinsider.com/articles/25/08/19/internal-code-hints-at-apple-watch-gaining-touch-id-security?utm_source=rss)
+ - [Senate Probe Uncovers Allegations of Widespread Abuse in ICE Custody](https://www.wired.com/story/senate-probe-uncovers-widespread-abuse-in-ice-custody/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

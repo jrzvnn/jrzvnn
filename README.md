@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many booties I would disappoint](http://9gag.com/gag/a9yB01Z)
+ - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
  - 😝 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 💣 [Sue her](http://9gag.com/gag/a34nrrN)
+ - 💣 [What\u2019s going on, Sweden?](http://9gag.com/gag/aXPe3dd)
  - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aPAnq0P)
  - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
 

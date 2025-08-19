@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
+ - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
  - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 😝 [Thailand.](http://9gag.com/gag/aE0EmDN)
- - 💣 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
- - 😝 [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)
- - 👉 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)<!-- MEMES:END -->
+ - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
 
 ---
 

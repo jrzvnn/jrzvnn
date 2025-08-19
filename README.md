@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Masayoshi Son met Lip-Bu Tan to discuss SoftBank acquiring Intel&#39;s faltering foundry business in the weeks before announcing SoftBank&#39;s $2B investment &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p5#a250819p5)
  - [UK drops demand for backdoor into Apple encryption](https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped)
  - [An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon](https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 19, #534](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-19-534/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19, #800](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-800/#ftag=CAD590a51e)
- - [Aspirin Not Working for Your Headache? Experts Say These Foods Could Provide Relief](https://www.cnet.com/health/nutrition/aspirin-not-working-headache-experts-say-foods-provide-relief/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 19, #800](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-19-800/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

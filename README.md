@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
  - 😝 [What the dog doin](http://9gag.com/gag/apR8w7b)
- - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
- - 👉 [Now we wait](http://9gag.com/gag/aPAn20w)<!-- MEMES:END -->
+ - 💣 [England is beyond help.](http://9gag.com/gag/an7Vwgo)
+ - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
+ - 👉 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)<!-- MEMES:END -->
 
 ---
 

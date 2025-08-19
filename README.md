@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [New beta firmware arrives for AirPods Pro 2, AirPods 4](https://appleinsider.com/articles/25/08/19/new-beta-firmware-arrives-for-airpods-pro-2-airpods-4?utm_source=rss)
  - [Federal prosecutors charge an Oregon man with operating the Rapper Bot, one of the most powerful DDoS botnets ever seen, which knocked X offline earlier in 2025 &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/250819/p26#a250819p26)
  - [The 50 Best Shows on Hulu Right Now &lpar;August 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Bullish says it has received all $1.15B in capital raised from its IPO in stablecoins, including USDC, USDG, and PYUSD, marking a first for US public markets &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250819/p25#a250819p25)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

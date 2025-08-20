@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [U-Scooter](http://9gag.com/gag/axy4qjL)
- - 😝 [The real main course](http://9gag.com/gag/a87zR16)
- - 💣 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)<!-- MEMES:END -->
+ - 😝 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [Title](http://9gag.com/gag/amonZej)
+ - 💣 [The real main course](http://9gag.com/gag/a87zR16)
+ - 😝 [Newer electronics may use less energy but don&#39;t seem to have the same quality as old stuff.](http://9gag.com/gag/a1mw9Bw)
+ - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
 
 ---
 

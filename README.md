@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils a new Gemini-powered personal health coach for Fitbit, rolling out as a preview in October for Fitbit Premium users in the redesigned Fitbit app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250820/p31#a250820p31)
- - [Google unveils the Pixel Watch 4 in 41mm and 45mm sizes, with an Actua 360 curved display and emergency satellite communication, starting at $349 from October 9 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250820/p30#a250820p30)
- - [Google unveils the $999 Pixel 10 Pro and $1,199 10 Pro XL, with 6.3&quot; and 6.8&quot; OLED displays, Tensor G5 chips, Zoned UFS storage, available on August 28 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p29#a250820p29)
- - [Google unveils the $799 Pixel 10, featuring a new Tensor G5 chip, 6.3&quot; OLED display, Gorilla Glass Victus 2, and Qi2 support, available on August 28 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p28#a250820p28)
- - [Google unveils the $1,799+ Pixel 10 Pro Fold, with a Tensor G5 chip, a new hinge with a gear-less design, 6.4&quot; outer and 8&quot; inner screens, available October 9 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250820/p27#a250820p27)<!-- TECH:END -->
+ - [Google removes support for physical SIM cards on the Pixel 10 series in the US, relying solely on eSIM; Apple removed it with the iPhone 14 series in the US &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p36#a250820p36)
+ - [Here’s where you can preorder Google’s upcoming Pixel Watch 4](https://www.theverge.com/tech/761364/google-pixel-watch-4-preorder-how-to-buy-price-release-date)
+ - [The Fitbit App Is Turning Into an AI-Powered Personal Health Coach](https://www.wired.com/story/fitbit-app-ai-personal-health-coach/)
+ - [Google plans to update the Pixel Buds Pro 2 in September with adaptive audio, background noise reduction when using Gemini Live, and a new &quot;moonstone&quot; color &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250820/p34#a250820p34)
+ - [Google unveils the Tensor G5, a 3nm chip manufactured by TSMC, says it has &quot;significant gains&quot; in performance and runs the &quot;newest&quot; Gemini Nano model &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250820/p35#a250820p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

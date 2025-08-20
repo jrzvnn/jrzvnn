@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US Treasury Secretary Scott Bessent expects stablecoins to drive demand for Treasuries, as talks with Tether and Circle help inform issuance decisions &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p6#a250820p6)
  - [Hyperkin’s DualSense-inspired Xbox controller is finally launching this fall](https://www.theverge.com/news/761638/hyperkin-competitor-xbox-wired-controller-sony-ps5-dualsense)
  - [Butterfly Effect, the startup behind Manus and an earlier product called Monica, says its annual revenue run rate has hit $90M, with Manus contributing the most &lpar;Bloomberg&rpar;](http://www.techmeme.com/250820/p5#a250820p5)
  - [PE firm Advent International agrees to acquire U-blox, a SIX Swiss Exchange-listed wireless and positioning chipmaker, for about $1.3B via public tender offer &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p4#a250820p4)
- - [Canva launches employee stock sale to new and existing investors at a $42B valuation, up 30%+ from $32B in 2024, reports $3.3B+ annualized sales and 240M+ MAUs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250820/p3#a250820p3)
- - [Verizon&#39;s Simple Mobile and Total Wireless Plans Expand International Features](https://www.cnet.com/tech/mobile/verizons-simple-mobile-and-total-wireless-plans-expand-international-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Canva debuts a staff stock sale to new and existing investors at a $42B valuation, up 30%+ from $32B in 2024, and reports $3.3B+ annualized sales and 240M+ MAUs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250820/p3#a250820p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

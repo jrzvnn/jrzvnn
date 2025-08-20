@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 💣 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
- - 😝 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
+ - 😝 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
+ - 💣 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
+ - 😝 [Hell is basically one giant UK..](http://9gag.com/gag/aPAn5BR)
  - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
 
 ---

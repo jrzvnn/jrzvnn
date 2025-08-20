@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She has a boyfriend](http://9gag.com/gag/an7VoVz)
- - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - 😝 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
+ - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - 💣 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
  - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
- - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
+ - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
 
 ---
 

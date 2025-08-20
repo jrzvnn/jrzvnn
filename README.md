@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google removes support for physical SIM cards on the Pixel 10 series in the US, relying solely on eSIM; Apple removed it with the iPhone 14 series in the US &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p36#a250820p36)
- - [Here’s where you can preorder Google’s upcoming Pixel Watch 4](https://www.theverge.com/tech/761364/google-pixel-watch-4-preorder-how-to-buy-price-release-date)
- - [The Fitbit App Is Turning Into an AI-Powered Personal Health Coach](https://www.wired.com/story/fitbit-app-ai-personal-health-coach/)
- - [Google plans to update the Pixel Buds Pro 2 in September with adaptive audio, background noise reduction when using Gemini Live, and a new &quot;moonstone&quot; color &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/250820/p34#a250820p34)
- - [Google unveils the Tensor G5, a 3nm chip manufactured by TSMC, says it has &quot;significant gains&quot; in performance and runs the &quot;newest&quot; Gemini Nano model &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250820/p35#a250820p35)<!-- TECH:END -->
+ - [Pixel 10 series get a Gemini Nano-powered Journal app, music creation feature for recorder, NotebookLM integration for screenshots, Gboard Writing Tools, more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250820/p38#a250820p38)
+ - [Google Pixel 10, Pro, Fold arrive, try to spoil the iPhone 17 party](https://appleinsider.com/articles/25/08/20/google-pixel-10-pro-fold-arrive-try-to-spoil-the-iphone-17-party?utm_source=rss)
+ - [Google&#39;s new AI features for Pixel include Magic Cue for contextual suggestions across apps, Voice Translate for calls, and Visual Overlays for the camera &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250820/p37#a250820p37)
+ - [Wireless carriers still own iPhone market despite Apple&#39;s retail push](https://appleinsider.com/articles/25/08/20/wireless-carriers-still-own-iphone-market-despite-apples-retail-push?utm_source=rss)
+ - [Google removes support for physical SIM cards on the Pixel 10 series in the US, relying solely on eSIM; Apple removed it with the iPhone 14 series in the US &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p36#a250820p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

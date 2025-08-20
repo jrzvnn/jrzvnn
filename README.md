@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 10 series get a Gemini Nano-powered Journal app, music creation feature for recorder, NotebookLM integration for screenshots, Gboard Writing Tools, more &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250820/p38#a250820p38)
- - [Google Pixel 10, Pro, Fold arrive, try to spoil the iPhone 17 party](https://appleinsider.com/articles/25/08/20/google-pixel-10-pro-fold-arrive-try-to-spoil-the-iphone-17-party?utm_source=rss)
- - [Google&#39;s new AI features for Pixel include Magic Cue for contextual suggestions across apps, Voice Translate for calls, and Visual Overlays for the camera &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250820/p37#a250820p37)
- - [Wireless carriers still own iPhone market despite Apple&#39;s retail push](https://appleinsider.com/articles/25/08/20/wireless-carriers-still-own-iphone-market-despite-apples-retail-push?utm_source=rss)
- - [Google removes support for physical SIM cards on the Pixel 10 series in the US, relying solely on eSIM; Apple removed it with the iPhone 14 series in the US &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p36#a250820p36)<!-- TECH:END -->
+ - [Sources: Character.AI has recently discussed a sale with potential buyers and also talked with investors about raising a few hundred million at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/250820/p43#a250820p43)
+ - [The PlayStation 5 Is About to Get More Expensive](https://www.wired.com/story/the-playstation-5-is-about-to-get-more-expensive/)
+ - [Google announces Gemini for Home, a new voice assistant for Google Home, with support for Gemini Live, coming later this year and replacing Google Assistant &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250820/p42#a250820p42)
+ - [Made by Google 2025: all the Pixel news and announcements](https://www.theverge.com/news/761340/made-by-google-news-announcements-pixel-10-watch-4-buds-2a)
+ - [Google launches its first magnetic wireless charging accessories under the Pixelsnap brand; the Pixel 10 phones are compatible with Qi2 and MagSafe accessories &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250820/p41#a250820p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

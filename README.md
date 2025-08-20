@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - 😝 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
- - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/adBbG1D)
- - 👉 [Zero compassion](http://9gag.com/gag/aoyDvPA)<!-- MEMES:END -->
+ - 😝 [Thailand.](http://9gag.com/gag/aE0EmDN)
+ - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
+ - 💣 [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)
+ - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
+ - 👉 [Nt jeep](http://9gag.com/gag/avymKYW)<!-- MEMES:END -->
 
 ---
 

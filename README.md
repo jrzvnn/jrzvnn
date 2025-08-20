@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His potato chopping skills could support a few McDonald franchises](http://9gag.com/gag/aND3bB3)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
- - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
- - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
+ - 😝 [Awkward](http://9gag.com/gag/aMVyLxG)
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
+ - 👉 [How to date The Grinch](http://9gag.com/gag/axy4qMp)<!-- MEMES:END -->
 
 ---
 

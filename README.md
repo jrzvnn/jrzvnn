@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 💣 [Nt jeep](http://9gag.com/gag/avymKYW)
- - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
+ - 😝 [Meloni](http://9gag.com/gag/aRBDpYG)
+ - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
+ - 💣 [Awkward](http://9gag.com/gag/aMVyLxG)
+ - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
+ - 👉 [Better show it all to be sure](http://9gag.com/gag/an7VPzn)<!-- MEMES:END -->
 
 ---
 

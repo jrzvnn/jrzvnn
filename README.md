@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prices leak for the rest of Google’s new Pixel products.](https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak)
+ - [Baidu reports Q2 revenue down 4% YoY to ~$4.6B, slightly below est., and online ad revenue down 15% YoY to ~$2.3B, as China&#39;s ad market remains weak &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/250820/p9#a250820p9)
+ - [Prices leak for the rest of Google’s new Pixel products](https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak)
  - [Kick says it is &quot;urgently reviewing&quot; the circumstances of the death of a French livestreamer who was subjected to violence and sleep deprivation during streams &lpar;Tom McArthur/BBC&rpar;](http://www.techmeme.com/250820/p8#a250820p8)
  - [It&#39;s the Economy, Donald](https://www.wired.com/story/its-the-economy-donald-no-panican/)
- - [Signs Your Gut Is Struggling and Needs Help, According to a Microbiome Expert](https://www.cnet.com/health/medical/signs-gut-struggling-needs-help-according-microbiome-expert/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 20, #801](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-20-801/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Signs Your Gut Is Struggling and Needs Help, According to a Microbiome Expert](https://www.cnet.com/health/medical/signs-gut-struggling-needs-help-according-microbiome-expert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

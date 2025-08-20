@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases iOS 18.6.2, iPadOS 18.6.2, macOS Sequoia 15.6.1](https://appleinsider.com/articles/25/08/20/apple-releases-ios-1862-ipados-1862-macos-sequoia-1561?utm_source=rss)
- - [Here’s everything you need to know about preordering the new Google Pixel phones](https://www.theverge.com/tech/761562/google-pixel-10-pro-xl-fold-preorder-price-how-to-buy-release-date)
- - [Do Large Language Models Dream of AI Agents?](https://www.wired.com/story/sleeptime-compute-chatbots-memory/)
- - [A US judge sentences Noah Urban, a member of Scattered Spider, to 10 years in prison in connection with a string of major hacks and cryptocurrency thefts &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250820/p44#a250820p44)
- - [How to remove personal data from the internet before it&#39;s too late](https://appleinsider.com/articles/25/08/20/how-to-remove-personal-data-from-the-internet-before-its-too-late?utm_source=rss)<!-- TECH:END -->
+ - [The best new features of the Pixel 10 lineup](https://www.theverge.com/news/762590/google-pixel-10-pro-xl-fold-best-new-features)
+ - [Google says the quiet part out loud: IP68 protection doesn’t last](https://www.theverge.com/news/762773/google-says-the-quiet-part-louder-ip68-protection-doesnt-last)
+ - [Anthropic announces a subscription offering that adds Claude Code to Enterprise and Team plans; the tool was previously available only via individual accounts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p45#a250820p45)
+ - [The magnets are the coolest thing about the Pixel 10](https://www.theverge.com/analysis/762711/pixel-10-qi2-magnets-pixelsense)
+ - [Apple releases iOS 18.6.2, iPadOS 18.6.2, macOS Sequoia 15.6.1](https://appleinsider.com/articles/25/08/20/apple-releases-ios-1862-ipados-1862-macos-sequoia-1561?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

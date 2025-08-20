@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon plans a major revamp of its Fire tablets and is set to release a higher-end Android tablet as soon as 2026, a first after using forked Android &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250820/p19#a250820p19)
  - [NYC-based Bluefish Labs, which analyzes prompt responses for large brands to understand how LLMs answer consumer questions, raised a $20M Series A led by NEA &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p18#a250820p18)
  - [Sources: China is considering allowing yuan-backed stablecoins to boost global yuan adoption; the State Council may approve a roadmap later in August &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p17#a250820p17)
  - [Ben Stiller will not be directing any &#39;Severance&#39; season 3 episodes](https://appleinsider.com/articles/25/08/20/ben-stiller-will-not-be-directing-any-severance-season-3-episodes?utm_source=rss)
- - [The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
- - [South Korea&#39;s Upstage, which offers AI document intelligence tools, raised a $45M Series B bridge led by the KDB, Amazon, and AMD, after a $72M Series B in 2024 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p16#a250820p16)<!-- TECH:END -->
+ - [The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

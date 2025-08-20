@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 💣 [Ninja turtle in action](http://9gag.com/gag/aZZv6o6)
- - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
- - 👉 [Zero compassion](http://9gag.com/gag/aoyDvPA)<!-- MEMES:END -->
+ - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
+ - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 💣 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
+ - 😝 [A man and his goose, just rocking along](http://9gag.com/gag/aZZv6A9)
+ - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
 
 ---
 

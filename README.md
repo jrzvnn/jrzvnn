@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to vandalize a vandalism without much effort.](http://9gag.com/gag/a7oAQn2)
- - 😝 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
- - 💣 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
- - 😝 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
- - 👉 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)<!-- MEMES:END -->
+ - 😝 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)
+ - 😝 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 💣 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
+ - 😝 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
+ - 👉 [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)<!-- MEMES:END -->
 
 ---
 

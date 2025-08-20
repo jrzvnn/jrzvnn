@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awkward](http://9gag.com/gag/aMVyLxG)
- - 😝 [Good to know, I guess](http://9gag.com/gag/avymKZq)
+ - 😝 [Better show it all to be sure](http://9gag.com/gag/an7VPzn)
+ - 😝 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
  - 💣 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
- - 😝 [That&#39;s one expensive parking ticket](http://9gag.com/gag/ae9Wn7v)
- - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
+ - 👉 [Zero compassion](http://9gag.com/gag/aoyDvPA)<!-- MEMES:END -->
 
 ---
 

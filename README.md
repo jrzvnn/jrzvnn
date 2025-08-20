@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grok&#39;s &quot;share&quot; button generates a unique URL that makes private chats searchable on Google, Bing, and DuckDuckGo; Google has indexed 370K+ Grok conversations &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250820/p13#a250820p13)
- - [9 Best Planners of 2025: Weekly, Daily, and Monthly](https://www.wired.com/story/best-paper-planners/)
- - [Sources: Oracle is on the hook for tens of billions to build unprecedentedly large data centers, including $1B per year on a gas-powered megasite in West Texas &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250820/p12#a250820p12)
- - [Onimusha Way of the Sword Hands-On: Back to the Demon-Killing Samurai Grind](https://www.cnet.com/tech/gaming/onimusha-way-of-the-sword-hands-on-back-to-the-demon-killing-samurai-grind/#ftag=CAD590a51e)
- - [Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts](https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/)<!-- TECH:END -->
+ - [South Korea&#39;s Upstage, which offers AI document intelligence tools, raised a $45M Series B bridge led by the KDB, Amazon, and AMD, after a $72M Series B in 2024 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p16#a250820p16)
+ - [Document: Microsoft&#39;s 2025 System Security Plan submitted to the DOD, dated February 28, failed to disclose China-based engineers working on DoD cloud systems &lpar;ProPublica&rpar;](http://www.techmeme.com/250820/p15#a250820p15)
+ - [Amazon now sells used Hertz rental cars](https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles)
+ - [A look at the 2025 AI Film Festival, backed by Runway AI and screened by Imax, as some cinephiles deride it while others praise the quality of its short films &lpar;John Semley/Wired&rpar;](http://www.techmeme.com/250820/p14#a250820p14)
+ - [OWC&#39;s Express 1M2 80G is a blisteringly fast portable SSD](https://appleinsider.com/articles/25/08/20/owcs-express-1m2-80g-is-a-blisteringly-fast-portable-ssd?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

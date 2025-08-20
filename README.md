@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts](https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/)
+ - [FEMA Now Requires Disaster Victims to Have an Email Address](https://www.wired.com/story/fema-now-requires-disaster-victims-to-have-an-email-address/)
  - [Made by Google: How to watch the Pixel 10 launch](https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a)
  - [How DOGE Set Up a Shadow X Account for a Government Agency](https://www.wired.com/story/how-doge-set-up-a-shadow-x-account-for-a-government-agency/)
- - [I Went to an AI Film Festival Screening and Left With More Questions Than Answers](https://www.wired.com/story/cream-of-the-slop-an-ai-film-festival-screening-left-me-with-more-questions-than-answers/)
- - [Government Staffing Cuts Have Fueled an Ant-Smuggling Boom](https://www.wired.com/story/usda-ant-smuggling-pets-illegal-wildlife/)
- - [Sources: Elon Musk is quietly pumping the brakes on his plans to start a US political party, telling allies he wants to focus his attention on his companies &lpar;Brian Schwartz/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p11#a250820p11)<!-- TECH:END -->
+ - [I Went to an AI Film Festival Screening and Left With More Questions Than Answers](https://www.wired.com/story/cream-of-the-slop-an-ai-film-festival-screening-left-me-with-more-questions-than-answers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

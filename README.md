@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA and IBM release Surya, an open-source AI model trained on over a decade&#39;s worth of NASA solar data to predict solar flares and winds &lpar;Peter Hall/MIT Technology Review&rpar;](http://www.techmeme.com/250820/p47#a250820p47)
+ - [Update now: iOS 18.6.2 patch stops new and active spyware attacks](https://appleinsider.com/articles/25/08/20/update-now-ios-1862-patch-stops-new-and-active-spyware-attacks?utm_source=rss)
  - [Windows 11 test brings AI file search to the Copilot app](https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app)
  - [OpenAI CFO Sarah Friar says the company hit its first $1B revenue month in July and that &quot;the biggest thing we face is being constantly under compute&quot; &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250820/p46#a250820p46)
- - [The best new features of the Pixel 10 lineup](https://www.theverge.com/news/762590/google-pixel-10-pro-xl-fold-best-new-features)
- - [Google says the quiet part out loud: IP68 protection doesn’t last](https://www.theverge.com/news/762773/google-says-the-quiet-part-louder-ip68-protection-doesnt-last)
- - [Anthropic announces a subscription offering that adds Claude Code to Enterprise and Team plans; the tool was previously available only via individual accounts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p45#a250820p45)<!-- TECH:END -->
+ - [The best new features of the Pixel 10 lineup](https://www.theverge.com/news/762590/google-pixel-10-pro-xl-fold-best-new-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

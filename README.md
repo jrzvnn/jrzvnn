@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Masimo was last to learn about blood oxygen sensing returning to Apple Watch](https://appleinsider.com/articles/25/08/20/masimo-was-last-to-learn-about-blood-oxygen-sensing-returning-to-apple-watch?utm_source=rss)
+ - [Masimo sues feds to stop Apple Watch pulse oximetry restoration](https://appleinsider.com/articles/25/08/20/masimo-was-last-to-learn-about-blood-oxygen-sensing-returning-to-apple-watch?utm_source=rss)
  - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)
  - [Inside Google&#39;s Reliability Labs, where it stress tests Pixel phones and watches; Google claims the Pixel 10 Pro Fold can withstand 10+ years of folding &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250820/p52#a250820p52)
  - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,449 &lpar;$350 off&rpar;](https://appleinsider.com/articles/25/08/20/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1449-350-off?utm_source=rss)

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Morning Show&#39; season 4 trailer teases a strained newsroom](https://appleinsider.com/articles/25/08/20/the-morning-show-season-4-trailer-teases-a-strained-newsroom?utm_source=rss)
- - [Sony is raising PS5 prices, starting tomorrow](https://www.theverge.com/news/762410/sony-ps5-price-hike-raise-digital-pro)
- - [Microsoft says it curtailed Chinese companies&#39; access to advance vulnerability notifications via MAPP starting in July, after probing the SharePoint breach &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250820/p23#a250820p23)
- - [Amazon&amp;#8217;s next tablet might run Android](https://www.theverge.com/news/762348/amazon-android-tablet-launch-fireos)
- - [TechWoven leaks bolstered by questionable packaging shots](https://appleinsider.com/articles/25/08/20/techwoven-leaks-bolstered-by-questionable-packaging-shots?utm_source=rss)<!-- TECH:END -->
+ - [How iPhone Action Mode helps Parkinson&#39;s sufferers capture steady moments](https://appleinsider.com/articles/25/08/20/how-iphone-action-mode-helps-parkinsons-sufferers-capture-steady-moments?utm_source=rss)
+ - [Sword of the Sea is a spirited celebration of movement and the sea](https://www.theverge.com/games-review/762217/sword-of-the-sea-review-ps5-steam)
+ - [Sony says it is raising PlayStation 5 prices by $50 for all models in the US due to a &quot;challenging economic environment&quot;, starting on August 21 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250820/p24#a250820p24)
+ - [TinyFish, which develops AI-powered web agents that automate complex online tasks like dynamic price surveillance, raised a $47M Series A led by ICONIQ Capital &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250820/p25#a250820p25)
+ - [&#39;The Morning Show&#39; season 4 trailer teases a strained newsroom](https://appleinsider.com/articles/25/08/20/the-morning-show-season-4-trailer-teases-a-strained-newsroom?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

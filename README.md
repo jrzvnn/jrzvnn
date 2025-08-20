@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and the NFL extend their partnership to bring real-time game data and analysis to coaches and players using Microsoft Copilot and Azure AI &lpar;Ali McCadden/CNBC&rpar;](http://www.techmeme.com/250820/p50#a250820p50)
  - [The game studio building a new BioShock just had mass layoffs](https://www.theverge.com/news/762933/bioshock-cloud-chamber-take-two-2k-layoffs)
  - [Google Photos will let users edit images using text or voice prompts, first on Pixel 10 devices in the US, and will add support for C2PA Content Credentials &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250820/p49#a250820p49)
  - [Analogue 3D gets yet another delay to later in 2025](https://www.theverge.com/news/762883/analogue-3d-delay-q4-2025)
- - [Qualcomm unveils the Snapdragon W5+ Gen 2 and W5 Gen 2 for wearables, with a new satellite messaging feature, improved GPS accuracy, better efficiency, and more &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250820/p48#a250820p48)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)<!-- TECH:END -->
+ - [Qualcomm unveils the Snapdragon W5+ Gen 2 and W5 Gen 2 for wearables, with a new satellite messaging feature, improved GPS accuracy, better efficiency, and more &lpar;Michael L Hicks/Android Central&rpar;](http://www.techmeme.com/250820/p48#a250820p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

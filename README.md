@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts](https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/)
  - [FEMA Now Requires Disaster Victims to Have an Email Address](https://www.wired.com/story/fema-now-requires-disaster-victims-to-have-an-email-address/)
  - [Made by Google: How to watch the Pixel 10 launch](https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a)
- - [How DOGE Set Up a Shadow X Account for a Government Agency](https://www.wired.com/story/how-doge-set-up-a-shadow-x-account-for-a-government-agency/)<!-- TECH:END -->
+ - [MacOS Tahoe vs. Sequoia: Here&#39;s How Liquid Glass Redesigns Your Mac&#39;s Icons](https://www.cnet.com/tech/services-and-software/macos-tahoe-vs-sequoia-heres-how-liquid-glass-redesigns-your-macs-icons/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

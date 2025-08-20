@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Made by Google 2025: all the Pixel news and announcements](https://www.theverge.com/news/761340/made-by-google-news-announcements-pixel-10-watch-4-buds-2a)
  - [How iPhone Action Mode helps Parkinson&#39;s sufferers capture steady moments](https://appleinsider.com/articles/25/08/20/how-iphone-action-mode-helps-parkinsons-sufferers-capture-steady-moments?utm_source=rss)
  - [Sword of the Sea is a spirited celebration of movement and the sea](https://www.theverge.com/games-review/762217/sword-of-the-sea-review-ps5-steam)
  - [Sony says it is raising PlayStation 5 prices by $50 for all models in the US due to a &quot;challenging economic environment&quot;, starting on August 21 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250820/p24#a250820p24)
- - [TinyFish, which develops AI-powered web agents that automate complex online tasks like dynamic price surveillance, raised a $47M Series A led by ICONIQ Capital &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250820/p25#a250820p25)
- - [&#39;The Morning Show&#39; season 4 trailer teases a strained newsroom](https://appleinsider.com/articles/25/08/20/the-morning-show-season-4-trailer-teases-a-strained-newsroom?utm_source=rss)<!-- TECH:END -->
+ - [TinyFish, which develops AI-powered web agents that automate complex online tasks like dynamic price surveillance, raised a $47M Series A led by ICONIQ Capital &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250820/p25#a250820p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
- - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
- - 💣 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
- - 👉 [Fatality](http://9gag.com/gag/aRBDqQ7)<!-- MEMES:END -->
+ - 😝 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
+ - 😝 [Boys will be boys...](http://9gag.com/gag/a9yBgYK)
+ - 💣 [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 😝 [You&#39;re welcome](http://9gag.com/gag/a4PVvP1)
+ - 👉 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)<!-- MEMES:END -->
 
 ---
 

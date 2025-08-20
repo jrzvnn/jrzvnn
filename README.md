@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
- - 😝 [The real main course](http://9gag.com/gag/a87zR16)
- - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [Newer electronics may use less energy but don&#39;t seem to have the same quality as old stuff.](http://9gag.com/gag/a1mw9Bw)
- - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
+ - 😝 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
+ - 😝 [How to vandalize a vandalism without much effort.](http://9gag.com/gag/a7oAQn2)
+ - 💣 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
+ - 😝 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)
+ - 👉 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)<!-- MEMES:END -->
 
 ---
 

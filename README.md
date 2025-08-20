@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&amp;#8217;s Gemini Live AI assistant will show you what it&amp;#8217;s talking about](https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update)
  - [The Made by Google event felt like being sucked into an episode of Wandavision](https://www.theverge.com/analysis/762891/made-by-google-pixel-10-jimmy-fallon)
  - [Framework is teasing a ‘big’ update for August 26th — could it be Framework 16?](https://www.theverge.com/news/763037/framework-is-teasing-a-big-update-for-august-26th-could-it-be-framework-16)
- - [Masimo sues US CBP, saying CBP exceeded its authority in an Aug. 1 internal advice ruling that enabled Apple to reactivate a Watch blood oxygen tracking feature &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/250820/p51#a250820p51)
- - [21 Best Early Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
- - [Microsoft and the NFL extend their partnership to bring real-time game data and analysis to coaches and players using Microsoft Copilot and Azure AI &lpar;Ali McCadden/CNBC&rpar;](http://www.techmeme.com/250820/p50#a250820p50)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 21, #332](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-21-332/#ftag=CAD590a51e)
+ - [&#39;South Park&#39; Season 27: How to Watch Episode 3 Without Cable](https://www.cnet.com/tech/services-and-software/south-park-season-27-how-to-watch-episode-3-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

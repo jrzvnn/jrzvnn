@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Google’s new Pixel 10 phones compare to one another on paper](https://www.theverge.com/tech/761983/google-pixel-10-pro-xl-fold-comparison-specs-price-features)
  - [Sources: Character.AI has recently discussed a sale with potential buyers and also talked with investors about raising a few hundred million at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/250820/p43#a250820p43)
  - [The PlayStation 5 Is About to Get More Expensive](https://www.wired.com/story/the-playstation-5-is-about-to-get-more-expensive/)
  - [Google announces Gemini for Home, a new voice assistant for Google Home, with support for Gemini Live, coming later this year and replacing Google Assistant &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250820/p42#a250820p42)
- - [Made by Google 2025: all the Pixel news and announcements](https://www.theverge.com/news/761340/made-by-google-news-announcements-pixel-10-watch-4-buds-2a)
- - [Google launches its first magnetic wireless charging accessories under the Pixelsnap brand; the Pixel 10 phones are compatible with Qi2 and MagSafe accessories &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250820/p41#a250820p41)<!-- TECH:END -->
+ - [Made by Google 2025: all the Pixel news and announcements](https://www.theverge.com/news/761340/made-by-google-news-announcements-pixel-10-watch-4-buds-2a)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

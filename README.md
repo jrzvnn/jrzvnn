@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not today, not ever](http://9gag.com/gag/a0ewqwB)
- - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
- - 💣 [Now we wait](http://9gag.com/gag/aPAn20w)
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
+ - 😝 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - 😝 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
+ - 💣 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - 😝 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/adBbG1D)
+ - 👉 [Zero compassion](http://9gag.com/gag/aoyDvPA)<!-- MEMES:END -->
 
 ---
 

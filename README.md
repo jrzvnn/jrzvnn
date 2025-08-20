@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US judge sentences Noah Urban, a member of Scattered Spider, to 10 years in prison in connection with a string of major hacks and cryptocurrency thefts &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250820/p44#a250820p44)
  - [Apple releases iOS 18.6.2, iPadOS 18.6.2, macOS Sequoia 15.6.1](https://appleinsider.com/articles/25/08/20/apple-releases-ios-1862-ipados-1862-macos-sequoia-1561?utm_source=rss)
- - [How to remove personal data from the internet before it&#39;s too late](https://appleinsider.com/articles/25/08/20/how-to-remove-personal-data-from-the-internet-before-its-too-late?utm_source=rss)
- - [How Google’s new Pixel 10 phones compare to one another on paper](https://www.theverge.com/tech/761983/google-pixel-10-pro-xl-fold-comparison-specs-price-features)
- - [Nothing Beats Our Editors&#39; Favorite Office Chair, and It’s on Sale Now](https://www.wired.com/story/branch-deals-labor-day/)<!-- TECH:END -->
+ - [Here’s everything you need to know about preordering the new Google Pixel phones](https://www.theverge.com/tech/761562/google-pixel-10-pro-xl-fold-preorder-price-how-to-buy-release-date)
+ - [Do Large Language Models Dream of AI Agents?](https://www.wired.com/story/sleeptime-compute-chatbots-memory/)
+ - [A US judge sentences Noah Urban, a member of Scattered Spider, to 10 years in prison in connection with a string of major hacks and cryptocurrency thefts &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250820/p44#a250820p44)
+ - [How to remove personal data from the internet before it&#39;s too late](https://appleinsider.com/articles/25/08/20/how-to-remove-personal-data-from-the-internet-before-its-too-late?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

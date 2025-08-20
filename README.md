@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)
  - [Inside Google&#39;s Reliability Labs, where it stress tests Pixel phones and watches; Google claims the Pixel 10 Pro Fold can withstand 10+ years of folding &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250820/p52#a250820p52)
  - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,449 &lpar;$350 off&rpar;](https://appleinsider.com/articles/25/08/20/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1449-350-off?utm_source=rss)
- - [Ricoh’s GR IV launches in September for a much steeper price than its predecessor](https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs)<!-- TECH:END -->
+ - [Ricoh Announces Updated Version of My Favorite Travel Camera](https://www.cnet.com/tech/computing/ricoh-announces-updated-version-of-my-favorite-travel-camera/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
- - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
- - 💣 [The real main course](http://9gag.com/gag/a87zR16)
- - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [Werewolf](http://9gag.com/gag/a34nmMN)<!-- MEMES:END -->
+ - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [Newer electronics may use less energy but don&#39;t seem to have the same quality as old stuff.](http://9gag.com/gag/a1mw9Bw)
+ - 👉 [Fatality](http://9gag.com/gag/aRBDqQ7)<!-- MEMES:END -->
 
 ---
 

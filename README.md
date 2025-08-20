@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - 😝 [Raughs](http://9gag.com/gag/a0ewrDQ)
- - 💣 [Didn&#39;t expect that](http://9gag.com/gag/aAyZzE9)
- - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)<!-- MEMES:END -->
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
+ - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 💣 [Raughs](http://9gag.com/gag/a0ewrDQ)
+ - 😝 [You&#39;re welcome](http://9gag.com/gag/a4PVvP1)
+ - 👉 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok&#39;s &quot;share&quot; button generates a unique URL that makes private chats searchable on Google, Bing, and DuckDuckGo; Google has indexed 370K+ Grok conversations &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250820/p13#a250820p13)
+ - [9 Best Planners of 2025: Weekly, Daily, and Monthly](https://www.wired.com/story/best-paper-planners/)
  - [Sources: Oracle is on the hook for tens of billions to build unprecedentedly large data centers, including $1B per year on a gas-powered megasite in West Texas &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250820/p12#a250820p12)
  - [Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts](https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/)
- - [FEMA Now Requires Disaster Victims to Have an Email Address](https://www.wired.com/story/fema-now-requires-disaster-victims-to-have-an-email-address/)
- - [Made by Google: How to watch the Pixel 10 launch](https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a)
- - [MacOS Tahoe vs. Sequoia: Here&#39;s How Liquid Glass Redesigns Your Mac&#39;s Icons](https://www.cnet.com/tech/services-and-software/macos-tahoe-vs-sequoia-heres-how-liquid-glass-redesigns-your-macs-icons/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FEMA Now Requires Disaster Victims to Have an Email Address](https://www.wired.com/story/fema-now-requires-disaster-victims-to-have-an-email-address/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

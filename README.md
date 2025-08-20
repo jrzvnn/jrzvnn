@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
  - 😝 [How to vandalize a vandalism without much effort.](http://9gag.com/gag/a7oAQn2)
- - 💣 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
- - 😝 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)
- - 👉 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)<!-- MEMES:END -->
+ - 😝 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
+ - 💣 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
+ - 😝 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
+ - 👉 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)<!-- MEMES:END -->
 
 ---
 

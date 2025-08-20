@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s Gemini Live AI assistant will show you what it&amp;#8217;s talking about](https://www.theverge.com/news/763114/google-gemini-live-ai-visual-guidance-speech-update)
- - [The Made by Google event felt like being sucked into an episode of Wandavision](https://www.theverge.com/analysis/762891/made-by-google-pixel-10-jimmy-fallon)
- - [Framework is teasing a ‘big’ update for August 26th — could it be Framework 16?](https://www.theverge.com/news/763037/framework-is-teasing-a-big-update-for-august-26th-could-it-be-framework-16)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 21, #332](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-21-332/#ftag=CAD590a51e)
- - [&#39;South Park&#39; Season 27: How to Watch Episode 3 Without Cable](https://www.cnet.com/tech/services-and-software/south-park-season-27-how-to-watch-episode-3-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Masimo was last to learn about blood oxygen sensing returning to Apple Watch](https://appleinsider.com/articles/25/08/20/masimo-was-last-to-learn-about-blood-oxygen-sensing-returning-to-apple-watch?utm_source=rss)
+ - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)
+ - [Inside Google&#39;s Reliability Labs, where it stress tests Pixel phones and watches; Google claims the Pixel 10 Pro Fold can withstand 10+ years of folding &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250820/p52#a250820p52)
+ - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,449 &lpar;$350 off&rpar;](https://appleinsider.com/articles/25/08/20/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1449-350-off?utm_source=rss)
+ - [Ricoh’s GR IV launches in September for a much steeper price than its predecessor](https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

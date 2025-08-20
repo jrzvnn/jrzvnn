@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better show it all to be sure](http://9gag.com/gag/an7VPzn)
- - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
- - 💣 [She has a boyfriend](http://9gag.com/gag/an7VoVz)
+ - 😝 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
+ - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
+ - 💣 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
  - 😝 [Hell is basically one giant UK..](http://9gag.com/gag/aPAn5BR)
- - 👉 [Pure determination, what a match](http://9gag.com/gag/aKGpQyW)<!-- MEMES:END -->
+ - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
 
 ---
 

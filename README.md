@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
- - 💣 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 😝 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
- - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
+ - 😝 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
+ - 😝 [Awkward](http://9gag.com/gag/aMVyLxG)
+ - 💣 [Shit is hilarious... and well deserved lol](http://9gag.com/gag/aD2Mv49)
+ - 😝 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
+ - 👉 [Nice accuracy](http://9gag.com/gag/a34nO9N)<!-- MEMES:END -->
 
 ---
 

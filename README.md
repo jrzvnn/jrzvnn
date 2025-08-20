@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 countdown begins as Foxconn ramps up factory hiring in China](https://appleinsider.com/articles/25/08/20/iphone-17-countdown-begins-as-foxconn-ramps-up-factory-hiring-in-china?utm_source=rss)
+ - [Microsoft and Asus plan to launch the Xbox Ally and Xbox Ally X handhelds on October 16; leaks have suggested the Xbox Ally will cost €599 and Ally X €899 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250820/p20#a250820p20)
  - [Sources: Amazon plans a major revamp of its Fire tablets and is set to release a higher-end Android tablet as soon as 2026, a first after using forked Android &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250820/p19#a250820p19)
  - [Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th](https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility)
- - [NYC-based Bluefish Labs, which analyzes prompt responses for large brands to understand how LLMs answer consumer questions, raised a $20M Series A led by NEA &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p18#a250820p18)
- - [Sources: China is considering allowing yuan-backed stablecoins to boost global yuan adoption; the State Council may approve a roadmap later in August &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p17#a250820p17)
- - [Ben Stiller will not be directing any &#39;Severance&#39; season 3 episodes](https://appleinsider.com/articles/25/08/20/ben-stiller-will-not-be-directing-any-severance-season-3-episodes?utm_source=rss)<!-- TECH:END -->
+ - [NYC-based Bluefish Labs, which analyzes prompt responses for large brands to understand how LLMs answer consumer questions, raised a $20M Series A led by NEA &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p18#a250820p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

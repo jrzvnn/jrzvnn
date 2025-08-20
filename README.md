@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge sentences Noah Urban, a member of Scattered Spider, to 10 years in prison in connection with a string of major hacks and cryptocurrency thefts &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250820/p44#a250820p44)
+ - [Apple releases iOS 18.6.2, iPadOS 18.6.2, macOS Sequoia 15.6.1](https://appleinsider.com/articles/25/08/20/apple-releases-ios-1862-ipados-1862-macos-sequoia-1561?utm_source=rss)
+ - [How to remove personal data from the internet before it&#39;s too late](https://appleinsider.com/articles/25/08/20/how-to-remove-personal-data-from-the-internet-before-its-too-late?utm_source=rss)
  - [How Google’s new Pixel 10 phones compare to one another on paper](https://www.theverge.com/tech/761983/google-pixel-10-pro-xl-fold-comparison-specs-price-features)
- - [Sources: Character.AI has recently discussed a sale with potential buyers and also talked with investors about raising a few hundred million at a $1B+ valuation &lpar;The Information&rpar;](http://www.techmeme.com/250820/p43#a250820p43)
- - [The PlayStation 5 Is About to Get More Expensive](https://www.wired.com/story/the-playstation-5-is-about-to-get-more-expensive/)
- - [Google announces Gemini for Home, a new voice assistant for Google Home, with support for Gemini Live, coming later this year and replacing Google Assistant &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250820/p42#a250820p42)
- - [Made by Google 2025: all the Pixel news and announcements](https://www.theverge.com/news/761340/made-by-google-news-announcements-pixel-10-watch-4-buds-2a)<!-- TECH:END -->
+ - [Nothing Beats Our Editors&#39; Favorite Office Chair, and It’s on Sale Now](https://www.wired.com/story/branch-deals-labor-day/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

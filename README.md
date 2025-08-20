@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: NSA Director William Hartman unsuccessfully tried to protect Vinh Nguyen, an expert in AI and cryptology, from being fired on President Trump&#39;s orders &lpar;Julian E. Barnes/New York Times&rpar;](http://www.techmeme.com/250820/p26#a250820p26)
- - [Made by Google 2025: all the Pixel news and announcements](https://www.theverge.com/news/761340/made-by-google-news-announcements-pixel-10-watch-4-buds-2a)
- - [How iPhone Action Mode helps Parkinson&#39;s sufferers capture steady moments](https://appleinsider.com/articles/25/08/20/how-iphone-action-mode-helps-parkinsons-sufferers-capture-steady-moments?utm_source=rss)
- - [Sword of the Sea is a spirited celebration of movement and the sea](https://www.theverge.com/games-review/762217/sword-of-the-sea-review-ps5-steam)
- - [Sony says it is raising PlayStation 5 prices by $50 for all models in the US due to a &quot;challenging economic environment&quot;, starting on August 21 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250820/p24#a250820p24)<!-- TECH:END -->
+ - [Google unveils a new Gemini-powered personal health coach for Fitbit, rolling out as a preview in October for Fitbit Premium users in the redesigned Fitbit app &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250820/p31#a250820p31)
+ - [Google unveils the Pixel Watch 4 in 41mm and 45mm sizes, with an Actua 360 curved display and emergency satellite communication, starting at $349 from October 9 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250820/p30#a250820p30)
+ - [Google unveils the $999 Pixel 10 Pro and $1,199 10 Pro XL, with 6.3&quot; and 6.8&quot; OLED displays, Tensor G5 chips, Zoned UFS storage, available on August 28 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p29#a250820p29)
+ - [Google unveils the $799 Pixel 10, featuring a new Tensor G5 chip, 6.3&quot; OLED display, Gorilla Glass Victus 2, and Qi2 support, available on August 28 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250820/p28#a250820p28)
+ - [Google unveils the $1,799+ Pixel 10 Pro Fold, with a Tensor G5 chip, a new hinge with a gear-less design, 6.4&quot; outer and 8&quot; inner screens, available October 9 &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/250820/p27#a250820p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

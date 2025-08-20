@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
- - 💣 [How to date The Grinch](http://9gag.com/gag/axy4qMp)
- - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
- - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
+ - 😝 [Nice accuracy](http://9gag.com/gag/a34nO9N)
+ - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - 💣 [The real main course](http://9gag.com/gag/a87zR16)
+ - 😝 [I&#39;m afraid it&#39;s just the beginning](http://9gag.com/gag/a5QDYmO)
+ - 👉 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)<!-- MEMES:END -->
 
 ---
 

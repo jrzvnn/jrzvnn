@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s Upstage, which offers AI document intelligence tools, raised a $45M Series B bridge led by the KDB, Amazon, and AMD, after a $72M Series B in 2024 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p16#a250820p16)
- - [Document: Microsoft&#39;s 2025 System Security Plan submitted to the DOD, dated February 28, failed to disclose China-based engineers working on DoD cloud systems &lpar;ProPublica&rpar;](http://www.techmeme.com/250820/p15#a250820p15)
- - [Amazon now sells used Hertz rental cars](https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles)
- - [A look at the 2025 AI Film Festival, backed by Runway AI and screened by Imax, as some cinephiles deride it while others praise the quality of its short films &lpar;John Semley/Wired&rpar;](http://www.techmeme.com/250820/p14#a250820p14)
- - [OWC&#39;s Express 1M2 80G is a blisteringly fast portable SSD](https://appleinsider.com/articles/25/08/20/owcs-express-1m2-80g-is-a-blisteringly-fast-portable-ssd?utm_source=rss)<!-- TECH:END -->
+ - [NYC-based Bluefish Labs, which analyzes prompt responses for large brands to understand how LLMs answer consumer questions, raised a $20M Series A led by NEA &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p18#a250820p18)
+ - [Sources: China is considering allowing yuan-backed stablecoins to boost global yuan adoption; the State Council may approve a roadmap later in August &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p17#a250820p17)
+ - [Ben Stiller will not be directing any &#39;Severance&#39; season 3 episodes](https://appleinsider.com/articles/25/08/20/ben-stiller-will-not-be-directing-any-severance-season-3-episodes?utm_source=rss)
+ - [The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best](https://www.wired.com/story/best-cold-plunge-tubs/)
+ - [South Korea&#39;s Upstage, which offers AI document intelligence tools, raised a $45M Series B bridge led by the KDB, Amazon, and AMD, after a $72M Series B in 2024 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250820/p16#a250820p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

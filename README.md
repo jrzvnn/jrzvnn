@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - 😝 [Raughs](http://9gag.com/gag/a0ewrDQ)
- - 💣 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
- - 😝 [Meloni](http://9gag.com/gag/aRBDpYG)
- - 👉 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)<!-- MEMES:END -->
+ - 😝 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
+ - 💣 [A Montessori-trained kid gets reset.](http://9gag.com/gag/aAyZjm2)
+ - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
+ - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
 
 ---
 

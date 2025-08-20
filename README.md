@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 💣 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 😝 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
+ - 💣 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
+ - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
  - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
 
 ---

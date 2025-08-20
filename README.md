@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
+ - 😝 [She has a boyfriend](http://9gag.com/gag/an7VoVz)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 💣 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 😝 [A man and his goose, just rocking along](http://9gag.com/gag/aZZv6A9)
- - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
+ - 💣 [A Korean vlogger found out that the peace sign is viewed differently in Turkey.](http://9gag.com/gag/aPAnq1n)
+ - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
+ - 👉 [The real main course](http://9gag.com/gag/a87zR16)<!-- MEMES:END -->
 
 ---
 

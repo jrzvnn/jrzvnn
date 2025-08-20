@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canva launches employee stock sale to new and existing investors at a $42B valuation, up 30%+ from $32B in 2024, reports $3.3B+ annualized sales and 240M+ MAUs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250820/p3#a250820p3)
  - [Sources: US Commerce Secretary Howard Lutnick is exploring government equity stakes in return for CHIPS Act funding from Micron, TSMC, Samsung, and others &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p2#a250820p2)
  - [EliseAI, which provides AI tools for healthcare and housing industries, raised a $250M Series E led by a16z, doubling its valuation to $2.2B from August 2024 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250820/p1#a250820p1)
- - [Shares of SoftBank plunged as much as 9.17% on Wednesday, as tech stocks in Japan, South Korea, Taiwan and Hong Kong fall after US tech stocks dropped overnight &lpar;Amala Balakrishner/CNBC&rpar;](http://www.techmeme.com/250819/p36#a250819p36)
- - [The Nasdaq fell 1.4%, with Nvidia down 3.5%, Palantir down 9.4% and Arm down 5%, with AI enthusiasm cooling after a critical MIT report and warning from Altman &lpar;Financial Times&rpar;](http://www.techmeme.com/250819/p35#a250819p35)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Made by Google 2025 Live: Pixel 10, Pixel Watch 4, Gemini News and Android 16](https://www.cnet.com/tech/mobile/made-by-google-2025-live-pixel-10-pixel-watch-4-gemini-news-and-android-16/#ftag=CAD590a51e)
+ - [Shares of SoftBank plunged as much as 9.17% on Wednesday, as tech stocks in Japan, South Korea, Taiwan and Hong Kong fall after US tech stocks dropped overnight &lpar;Amala Balakrishner/CNBC&rpar;](http://www.techmeme.com/250819/p36#a250819p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
- - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [Fatality](http://9gag.com/gag/aRBDqQ7)
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
+ - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
  - 😝 [Newer electronics may use less energy but don&#39;t seem to have the same quality as old stuff.](http://9gag.com/gag/a1mw9Bw)
- - 👉 [Fatality](http://9gag.com/gag/aRBDqQ7)<!-- MEMES:END -->
+ - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
 
 ---
 

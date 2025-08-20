@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Grok&#39;s &quot;share&quot; button generates a unique URL that makes private chats searchable on Google, Bing, and DuckDuckGo; Google has indexed 370K+ Grok conversations &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250820/p13#a250820p13)
  - [9 Best Planners of 2025: Weekly, Daily, and Monthly](https://www.wired.com/story/best-paper-planners/)
  - [Sources: Oracle is on the hook for tens of billions to build unprecedentedly large data centers, including $1B per year on a gas-powered megasite in West Texas &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250820/p12#a250820p12)
- - [Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts](https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/)
- - [FEMA Now Requires Disaster Victims to Have an Email Address](https://www.wired.com/story/fema-now-requires-disaster-victims-to-have-an-email-address/)<!-- TECH:END -->
+ - [Onimusha Way of the Sword Hands-On: Back to the Demon-Killing Samurai Grind](https://www.cnet.com/tech/gaming/onimusha-way-of-the-sword-hands-on-back-to-the-demon-killing-samurai-grind/#ftag=CAD590a51e)
+ - [Chinese ‘Virtual Human’ Salespeople Are Outperforming Their Real Human Counterparts](https://www.wired.com/story/artificial-intelligence-tiktok-shop-ecommerce-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

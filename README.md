@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Made by Google: How to watch the Pixel 10 launch](https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a)
  - [How DOGE Set Up a Shadow X Account for a Government Agency](https://www.wired.com/story/how-doge-set-up-a-shadow-x-account-for-a-government-agency/)
  - [I Went to an AI Film Festival Screening and Left With More Questions Than Answers](https://www.wired.com/story/cream-of-the-slop-an-ai-film-festival-screening-left-me-with-more-questions-than-answers/)
  - [Government Staffing Cuts Have Fueled an Ant-Smuggling Boom](https://www.wired.com/story/usda-ant-smuggling-pets-illegal-wildlife/)
- - [Sources: Elon Musk is quietly pumping the brakes on his plans to start a US political party, telling allies he wants to focus his attention on his companies &lpar;Brian Schwartz/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p11#a250820p11)
- - [YouGov: 59% of US adults use smart assistants to check the weather, 51% for music, 47% to get answers on the web, and 40% for timers, mirroring usage in 2018 &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/250820/p10#a250820p10)<!-- TECH:END -->
+ - [Sources: Elon Musk is quietly pumping the brakes on his plans to start a US political party, telling allies he wants to focus his attention on his companies &lpar;Brian Schwartz/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p11#a250820p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

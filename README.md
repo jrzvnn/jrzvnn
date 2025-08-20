@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Masimo sues US CBP, saying CBP exceeded its authority in an Aug. 1 internal advice ruling that enabled Apple to reactivate a Watch blood oxygen tracking feature &lpar;Christopher Yasiejko/Bloomberg Law&rpar;](http://www.techmeme.com/250820/p51#a250820p51)
+ - [21 Best Early Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
  - [Microsoft and the NFL extend their partnership to bring real-time game data and analysis to coaches and players using Microsoft Copilot and Azure AI &lpar;Ali McCadden/CNBC&rpar;](http://www.techmeme.com/250820/p50#a250820p50)
  - [The game studio building a new BioShock just had mass layoffs](https://www.theverge.com/news/762933/bioshock-cloud-chamber-take-two-2k-layoffs)
- - [Google Photos will let users edit images using text or voice prompts, first on Pixel 10 devices in the US, and will add support for C2PA Content Credentials &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250820/p49#a250820p49)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 21, #536](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-21-536/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 21, #802](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-21-802/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Photos will let users edit images using text or voice prompts, first on Pixel 10 devices in the US, and will add support for C2PA Content Credentials &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250820/p49#a250820p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

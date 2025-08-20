@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Nt jeep](http://9gag.com/gag/avymKYW)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 💣 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)
- - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 👉 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)<!-- MEMES:END -->
+ - 💣 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
+ - 😝 [If not fren why fren shaped?](http://9gag.com/gag/ae9WnEq)
+ - 👉 [Asking the real questions](http://9gag.com/gag/aZZv6Xp)<!-- MEMES:END -->
 
 ---
 

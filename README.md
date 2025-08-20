@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Butterfly Effect, the startup behind Manus and an earlier product called Monica, says its annual revenue run rate has hit $90M, with Manus contributing the most &lpar;Bloomberg&rpar;](http://www.techmeme.com/250820/p5#a250820p5)
  - [PE firm Advent International agrees to acquire U-blox, a SIX Swiss Exchange-listed wireless and positioning chipmaker, for about $1.3B via public tender offer &lpar;Andrea Figueras/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p4#a250820p4)
  - [Canva launches employee stock sale to new and existing investors at a $42B valuation, up 30%+ from $32B in 2024, reports $3.3B+ annualized sales and 240M+ MAUs &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250820/p3#a250820p3)
- - [Sources: US Commerce Secretary Howard Lutnick is exploring government equity stakes in return for CHIPS Act funding from Micron, TSMC, Samsung, and others &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p2#a250820p2)
- - [EliseAI, which provides AI tools for healthcare and housing industries, raised a $250M Series E led by a16z, doubling its valuation to $2.2B from August 2024 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250820/p1#a250820p1)<!-- TECH:END -->
+ - [Verizon&#39;s Simple Mobile and Total Wireless Plans Expand International Features](https://www.cnet.com/tech/mobile/verizons-simple-mobile-and-total-wireless-plans-expand-international-features/#ftag=CAD590a51e)
+ - [Sources: US Commerce Secretary Howard Lutnick is exploring government equity stakes in return for CHIPS Act funding from Micron, TSMC, Samsung, and others &lpar;Reuters&rpar;](http://www.techmeme.com/250820/p2#a250820p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

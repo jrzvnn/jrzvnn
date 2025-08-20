@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
+ - 😝 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
+ - 😝 [Pure determination, what a match](http://9gag.com/gag/aKGpQyW)
+ - 💣 [Meloni](http://9gag.com/gag/aRBDpYG)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
- - 💣 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
- - 😝 [Hell is basically one giant UK..](http://9gag.com/gag/aPAn5BR)
- - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
+ - 👉 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)<!-- MEMES:END -->
 
 ---
 

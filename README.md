@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thailand.](http://9gag.com/gag/aE0EmDN)
- - 😝 [Golphist won more than two million dollars thanks to a fly](http://9gag.com/gag/agmjejq)
- - 💣 [Energy companies hate this 1 trick for unlimited power.](http://9gag.com/gag/ae9W8vQ)
- - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
- - 👉 [Nt jeep](http://9gag.com/gag/avymKYW)<!-- MEMES:END -->
+ - 😝 [Awkward](http://9gag.com/gag/aMVyLxG)
+ - 😝 [Good to know, I guess](http://9gag.com/gag/avymKZq)
+ - 💣 [Always My favourite Spiderman](http://9gag.com/gag/adBbDbM)
+ - 😝 [That&#39;s one expensive parking ticket](http://9gag.com/gag/ae9Wn7v)
+ - 👉 [Men and women have very different tastes in women](http://9gag.com/gag/aND3bp4)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TechWoven leaks bolstered by questionable packaging shots](https://appleinsider.com/articles/25/08/20/techwoven-leaks-bolstered-by-questionable-packaging-shots?utm_source=rss)
  - [Google hires NBA star Stephen Curry as a &quot;performance advisor&quot; for its Health, Pixel, and Cloud products, including testing Fitbit&#39;s new personal health coach &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250820/p22#a250820p22)
  - [Arkansas Hosts the Planet’s Only Public Diamond Mine](https://www.wired.com/story/arkansas-hosts-the-planets-only-public-diamond-mine/)
  - [FieldAI, which is developing &quot;brains&quot; for robots, raised $405M at a $2B post-money valuation from Nvidia and others; FieldAI raised an initial $91M in late 2024 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250820/p21#a250820p21)
- - [Scientists Just Caught Human Embryo Implantation on Camera](https://www.wired.com/story/the-exact-moment-of-implantation-of-a-human-embryo-is-captured-on-video/)
- - [Google signs Stephen Curry to pitch its Pixel, health, and AI gear](https://www.theverge.com/news/762146/google-pixel-stephen-curry-partnership)<!-- TECH:END -->
+ - [Scientists Just Caught Human Embryo Implantation on Camera](https://www.wired.com/story/the-exact-moment-of-implantation-of-a-human-embryo-is-captured-on-video/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

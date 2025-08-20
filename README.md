@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [You have to be your own biggest fan](http://9gag.com/gag/aE0EmAM)
  - 😝 [Zero compassion](http://9gag.com/gag/aoyDvPA)
  - 💣 [Boss: Why did you arrive late?](http://9gag.com/gag/azxQpvK)
- - 😝 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
- - 👉 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)<!-- MEMES:END -->
+ - 😝 [Sportsmanship.](http://9gag.com/gag/aByoBGZ)
+ - 👉 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)<!-- MEMES:END -->
 
 ---
 

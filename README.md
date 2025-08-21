@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs an EO creating the National Design Studio to improve &quot;websites and physical sites&quot;; sources say he&#39;s tapping Airbnb co-founder Joe Gebbia to lead it &lpar;Gregory Korte/Bloomberg&rpar;](http://www.techmeme.com/250821/p27#a250821p27)
+ - [The 40 Best Movies on Hulu This Week &lpar;August 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Apple TV+ senior executive Chris Parnell poached by Paramount](https://appleinsider.com/articles/25/08/21/apple-tv-senior-executive-chris-parnell-poached-by-paramount?utm_source=rss)
  - [Longtime Bungie head Pete Parsons steps down](https://www.theverge.com/news/763895/bungie-ceo-pete-parsons-steps-down-destiny)
- - [Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls](https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai)
- - [a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on &quot;American Dynamism, AI, and cyber&quot; &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250821/p26#a250821p26)
- - [Trump Phone still doesn&#39;t exist beyond a terrible Photoshop job](https://appleinsider.com/articles/25/08/21/trump-phone-still-doesnt-exist-beyond-a-terrible-photoshop-job?utm_source=rss)
- - [Marvel&#39;s &#39;Thunderbolts&#39;: Release Date and Time on Disney Plus](https://www.cnet.com/tech/services-and-software/marvels-thunderbolts-release-date-and-time-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls](https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses &lpar;yet&rpar;](https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses)
- - [Google will provide Gemini for Government to US federal agencies at $0.47 per agency through 2026; OpenAI and Anthropic are offering their products for $1/year &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250821/p25#a250821p25)
- - [Apple iPhone 16 Pro vs. Google Pixel 10 Pro -- flagship showdown](https://appleinsider.com/articles/25/08/21/apple-iphone-16-pro-vs-google-pixel-10-pro----flagship-showdown?utm_source=rss)
- - [Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now](https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/)
- - [FTC draws hard line on foreign-driven censorship &amp; data demands for Big Tech](https://appleinsider.com/articles/25/08/21/ftc-draws-hard-line-on-foreign-driven-censorship-data-demands-for-big-tech?utm_source=rss)<!-- TECH:END -->
+ - [Marvel&#39;s &#39;Thunderbolts&#39;: Release Date and Time on Disney Plus](https://www.cnet.com/tech/services-and-software/marvels-thunderbolts-release-date-and-time-on-disney-plus/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 22, #333](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-22-333/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 22 #537](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-22-537/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 22, #803](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-22-803/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 22, #1525](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-22-1525/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

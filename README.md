@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon looks scary again in the new Z-A trailer](https://www.theverge.com/pokemon/763401/pokeon-legends-za-mega-victreebel)
- - [Nine current and ex-Apple staffers accuse Apple VP of Fitness Tech Jay Blahnik of creating a toxic work environment; Apple settled a sexual harassment complaint &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250821/p18#a250821p18)
- - [How Burning Man VR rebuilt after Microsoft shut it down](https://www.theverge.com/lowpass-newsletter/762887/burning-man-vr-microsoft-rebuilt)
- - [Hogwarts Great Hall is a new immersive environment for Apple Vision Pro viewers](https://appleinsider.com/articles/25/08/21/hogwarts-great-hall-is-a-new-immersive-environment-for-apple-vision-pro-viewers?utm_source=rss)
- - [Apple raises the price of Apple TV+ in the US and some markets globally after previously raising the price in 2023; in the US, the price will rise $3 to $12.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250821/p17#a250821p17)<!-- TECH:END -->
+ - [Microsoft kills editing in 365 Copilot app for iPhone &amp; iPad](https://appleinsider.com/articles/25/08/21/microsoft-kills-editing-in-365-copilot-app-for-iphone-ipad?utm_source=rss)
+ - [LG’s massive 77-inch C5 OLED TV is more than $1,000 off](https://www.theverge.com/tech/763418/lg-c5-oled-tv-sony-wh-1000xm5-deal-sale)
+ - [Sources: Crusoe is discussing raising $1B+ at a $10B valuation; the company, which is helping build OpenAI&#39;s first Stargate facility, had $250M revenue in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250821/p19#a250821p19)
+ - [Tesla is dragging its feet in reporting FSD and Autopilot crashes to the government](https://www.theverge.com/tesla/763603/tesla-autopilot-fsd-crash-report-delay-nhtsa)
+ - [&#39;I learned so much&#39; -- Attendees laud first Apple Manufacturing Academy in Detroit](https://appleinsider.com/articles/25/08/21/i-learned-so-much----attendees-laud-first-apple-manufacturing-academy-in-detroit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

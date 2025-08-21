@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Longtime Bungie head Pete Parsons steps down](https://www.theverge.com/news/763895/bungie-ceo-pete-parsons-steps-down-destiny)
+ - [Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls](https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai)
  - [a16z hires Anne Neuberger, formerly a senior cybersecurity official in the Biden White House, as a senior adviser to work on &quot;American Dynamism, AI, and cyber&quot; &lpar;Patrick Howell O&#39;Neill/Bloomberg&rpar;](http://www.techmeme.com/250821/p26#a250821p26)
  - [Trump Phone still doesn&#39;t exist beyond a terrible Photoshop job](https://appleinsider.com/articles/25/08/21/trump-phone-still-doesnt-exist-beyond-a-terrible-photoshop-job?utm_source=rss)
- - [Marvel&#39;s &#39;Thunderbolts&#39;: Release Date and Time on Disney Plus](https://www.cnet.com/tech/services-and-software/marvels-thunderbolts-release-date-and-time-on-disney-plus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 22, #333](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-22-333/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 22 #537](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-22-537/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel&#39;s &#39;Thunderbolts&#39;: Release Date and Time on Disney Plus](https://www.cnet.com/tech/services-and-software/marvels-thunderbolts-release-date-and-time-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

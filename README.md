@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
  - 😝 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
- - 💣 [The real main course](http://9gag.com/gag/a87zR16)
- - 😝 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
+ - 💣 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
+ - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
  - 👉 [Zero compassion](http://9gag.com/gag/aoyDvPA)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real main course](http://9gag.com/gag/a87zR16)
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - 😝 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
  - 💣 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)
- - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 👉 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)<!-- MEMES:END -->
+ - 😝 [Back in the day, this was our Google search engine.](http://9gag.com/gag/a87zBp3)
+ - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
 
 ---
 

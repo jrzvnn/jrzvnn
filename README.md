@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s lower house of parliament passes a sweeping online gaming bill to impose a blanket ban on real-money games nationwide, threatening a $23B industry &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250820/p58#a250820p58)
+ - [How to import your old passwords into Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_source=rss)
+ - [Sources: Beijing&#39;s Nvidia H20 curbs were triggered by US Commerce Secretary Lutnick&#39;s not selling China the best stuff remark, which officials found &quot;insulting&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p57#a250820p57)
  - [TRM Labs launches Beacon Network, a real-time alert system for illicit crypto activity, partnering with law enforcement and exchanges like Binance and Coinbase &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/250820/p56#a250820p56)
- - [Meta froze hiring in its AI division last week with sources saying exceptions need Alexandr Wang&#39;s permission; the duration of the freeze remains unclear &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p55#a250820p55)
- - [Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, introduces &quot;always-on&quot; AI glasses for $249 &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p54#a250820p54)
- - [Mchose UT98 review: A robust mechanical keyboard with all the bells and whistles](https://appleinsider.com/articles/25/08/21/mchose-ut98-review-a-robust-mechanical-keyboard-with-all-the-bells-and-whistles?utm_source=rss)
- - [Tour Championship 2025: TV Schedule, How to Watch, Stream All the PGA Tour Golf From Anywhere](https://www.cnet.com/tech/services-and-software/tour-championship-2025-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta froze hiring in its AI division last week with sources saying exceptions need Alexandr Wang&#39;s permission; the duration of the freeze remains unclear &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p55#a250820p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

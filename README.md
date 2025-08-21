@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CBP data: between April and June 2025, CBP searched 14,899 devices carried by international travelers, up from a high of 12,766+ between January and March 2022 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250821/p11#a250821p11)
  - [Tim Cook&#39;s gift to Trump is mocked by &#39;South Park&#39;](https://appleinsider.com/articles/25/08/21/tim-cooks-gift-to-trump-is-mocked-by-south-park?utm_source=rss)
  - [Meet Wukong, the AI Chatbot China Has Installed on Its Space Station](https://www.wired.com/story/meet-wukong-chinas-first-ai-chatbot-on-a-space-station/)
  - [7 Best Shower Water Filters &lpar;2025&rpar;, WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
- - [A Brompton Reborn: How to Future-Proof a Decades-Old Foldable Bike](https://www.wired.com/story/a-brompton-reborn-how-to-future-proof-a-decades-old-foldable-bike/)
- - [Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250821/p10#a250821p10)<!-- TECH:END -->
+ - [Blood of the Dawnwalker Is a Vampire Action RPG with Breath of the Wild&#39;s Neatest Feature](https://www.cnet.com/tech/gaming/blood-of-the-dawnwalker-is-a-vampire-action-rpg-with-breath-of-the-wilds-neatest-feature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

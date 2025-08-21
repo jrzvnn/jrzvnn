@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 💣 [The real main course](http://9gag.com/gag/a87zR16)
+ - 😝 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
+ - 💣 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
  - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [When you accidentally sent a face instead of a DP.](http://9gag.com/gag/amon3Z6)<!-- MEMES:END -->
+ - 👉 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)<!-- MEMES:END -->
 
 ---
 

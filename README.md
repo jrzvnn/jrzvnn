@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Brompton Reborn: How to Future-Proof a Decades-Old Foldable Bike](https://www.wired.com/story/a-brompton-reborn-how-to-future-proof-a-decades-old-foldable-bike/)
  - [Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250821/p10#a250821p10)
  - [The Destruction of NASA Would Be a Blow to Our Collective Imagination](https://www.wired.com/story/the-destruction-of-nasa-would-be-a-blow-to-our-collective-imagination/)
  - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
- - [9 Best Back-to-School Laptop Deals for 2025](https://www.wired.com/story/best-back-to-school-laptop-deals/)
- - [Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It?](https://www.wired.com/story/why-did-a-10-billion-dollar-startup-let-me-vibe-code-for-them-and-why-did-i-love-it/)<!-- TECH:END -->
+ - [I Tested MSI&#39;s $999 Gaming Laptop and Liked Its 1080p Performance but Little Else](https://www.cnet.com/tech/computing/i-tested-msis-999-gaming-laptop-and-liked-its-1080p-performance-but-little-else/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

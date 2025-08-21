@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - 😝 [The real main course](http://9gag.com/gag/a87zR16)
- - 💣 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)<!-- MEMES:END -->
+ - 😝 [RIP hero.](http://9gag.com/gag/axy45XY)
+ - 😝 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
+ - 💣 [Nice try fed](http://9gag.com/gag/aByo7VD)
+ - 😝 [By the third sign you let them go, there&#39;s no coming back.](http://9gag.com/gag/apR8WYW)
+ - 👉 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)<!-- MEMES:END -->
 
 ---
 

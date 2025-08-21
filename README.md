@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
- - 😝 [Still waiting](http://9gag.com/gag/aW49rj3)
- - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [Happy International Women&#39;s Day to Kate, Ireland&#39;s only female](http://9gag.com/gag/aO8GMGN)
- - 👉 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)<!-- MEMES:END -->
+ - 😝 [What?](http://9gag.com/gag/aGybmqG)
+ - 😝 [Hug Life](http://9gag.com/gag/a5QDOgy)
+ - 💣 [Weeee](http://9gag.com/gag/aqyAPVZ)
+ - 😝 [Nice try fed](http://9gag.com/gag/aByo7VD)
+ - 👉 [They want to replace PBS with this guy&#39;s fake university.](http://9gag.com/gag/apR84pB)<!-- MEMES:END -->
 
 ---
 

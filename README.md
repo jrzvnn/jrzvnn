@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ says it will no longer target developers who create decentralized crypto platforms without criminal intent, as part of a regulatory retreat on crypto &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/250821/p24#a250821p24)
+ - [Why I love my Le Creuset sauté pan](https://www.theverge.com/tech/763409/le-creuset-saute-pan-favorites)
  - [Kanye West Said Memecoins ‘Prey On Fans.’ Then He Apparently Launched One](https://www.wired.com/story/kanye-west-memecoin/)
  - [Google says the median Gemini app text prompt consumes 0.24Wh of energy, about the same as running a microwave for a second, and emits 0.03g of CO2 equivalent &lpar;Casey Crownhart/MIT Technology Review&rpar;](http://www.techmeme.com/250821/p23#a250821p23)
- - [Medium&#39;s CEO explains how the platform&#39;s AI policy has evolved as it adopts some AI tools while prioritizing human curation and inviting community feedback &lpar;Tony Stubblebine/The Medium Blog&rpar;](http://www.techmeme.com/250821/p22#a250821p22)
- - [Sources: Anthropic is in talks to raise $10B, significantly above the previously reported $5B, due to strong investor demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p21#a250821p21)
- - [Flash deals: Save $400 on 2025 Mac Studio, plus get M2 Max spec for $899](https://appleinsider.com/articles/25/08/21/flash-deals-save-400-on-2025-mac-studio-plus-get-m2-max-spec-for-899?utm_source=rss)<!-- TECH:END -->
+ - [Honor&#39;s Magic V5 Boasts On-Device Live AI Call Translation for Guaranteed Privacy](https://www.cnet.com/tech/mobile/honors-magic-v5-boasts-on-device-live-ai-call-translation-for-guaranteed-privacy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

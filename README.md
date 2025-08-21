@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
- - 💣 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
+ - 😝 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
+ - 😝 [Which do you like](http://9gag.com/gag/aQzVGzz)
+ - 💣 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
+ - 😝 [Lol](http://9gag.com/gag/avymYZZ)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 ---
 

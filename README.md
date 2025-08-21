@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Werewolf](http://9gag.com/gag/a34nmMN)
- - 😝 [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
- - 💣 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
- - 😝 [Nice try fed](http://9gag.com/gag/aByo7VD)
- - 👉 [RIP hero.](http://9gag.com/gag/axy45XY)<!-- MEMES:END -->
+ - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - 😝 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
+ - 💣 [The real main course](http://9gag.com/gag/a87zR16)
+ - 😝 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
+ - 👉 [Zero compassion](http://9gag.com/gag/aoyDvPA)<!-- MEMES:END -->
 
 ---
 

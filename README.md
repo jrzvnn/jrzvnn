@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)
- - 😝 [RIP hero.](http://9gag.com/gag/axy45XY)
- - 💣 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
+ - 😝 [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
+ - 😝 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
+ - 💣 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
+ - 😝 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)
+ - 👉 [Werewolf](http://9gag.com/gag/a34nmMN)<!-- MEMES:END -->
 
 ---
 

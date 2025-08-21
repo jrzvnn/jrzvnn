@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)
+ - [SpaceX inks Alaska Air deal for Starlink in-flight Wi-Fi; sources say it is courting Middle Eastern airlines in a potential watershed against legacy operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p4#a250821p4)
  - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)
  - [Analysis: Baidu&#39;s stock is trading at a forward P/E ratio of ~9.7, the lowest of any profitable Hang Seng Tech Index company, amid AI competitiveness concerns &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/250821/p2#a250821p2)
- - [Alibaba-backed Z.ai, formerly Zhipu, launches a general-purpose AI agent app, which lets users use natural language to book hotels, order takeaway, and more &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250821/p1#a250821p1)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-21/#ftag=CAD590a51e)
- - [White House Joins TikTok With New Account. Here&#39;s What It&#39;s Posted So Far](https://www.cnet.com/tech/services-and-software/white-house-joins-tiktok-with-new-account-heres-what-its-posted-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba-backed Z.ai, formerly Zhipu, launches a general-purpose AI agent app, which lets users use natural language to book hotels, order takeaway, and more &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250821/p1#a250821p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

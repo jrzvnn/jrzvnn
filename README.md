@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet Wukong, the AI Chatbot China Has Installed on Its Space Station](https://www.wired.com/story/meet-wukong-chinas-first-ai-chatbot-on-a-space-station/)
+ - [7 Best Shower Water Filters &lpar;2025&rpar;, WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
  - [A Brompton Reborn: How to Future-Proof a Decades-Old Foldable Bike](https://www.wired.com/story/a-brompton-reborn-how-to-future-proof-a-decades-old-foldable-bike/)
  - [Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250821/p10#a250821p10)
- - [The Destruction of NASA Would Be a Blow to Our Collective Imagination](https://www.wired.com/story/the-destruction-of-nasa-would-be-a-blow-to-our-collective-imagination/)
- - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
- - [I Tested MSI&#39;s $999 Gaming Laptop and Liked Its 1080p Performance but Little Else](https://www.cnet.com/tech/computing/i-tested-msis-999-gaming-laptop-and-liked-its-1080p-performance-but-little-else/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Destruction of NASA Would Be a Blow to Our Collective Imagination](https://www.wired.com/story/the-destruction-of-nasa-would-be-a-blow-to-our-collective-imagination/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

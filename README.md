@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 💣 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
- - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
+ - 😝 [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)
+ - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 💣 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
+ - 😝 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
+ - 👉 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)<!-- MEMES:END -->
 
 ---
 

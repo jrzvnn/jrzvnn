@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
- - 😝 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
- - 💣 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)
+ - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 💣 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
  - 😝 [Back in the day, this was our Google search engine.](http://9gag.com/gag/a87zBp3)
- - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
+ - 👉 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is the Flipper Zero the next big car theft gadget?](https://www.theverge.com/cars/763446/flipper-zero-car-theft-firmware-hack-key-fob)
- - [Apple TV+ subscription jumps to $12.99 per month](https://appleinsider.com/articles/25/08/21/apple-tv-subscription-jumps-to-1299-per-month?utm_source=rss)
- - [Apple&#39;s Epic Games court loss spawns debate over tech attorney &amp; client privilege](https://appleinsider.com/articles/25/08/21/apples-epic-games-court-loss-spawns-debate-over-tech-attorney-client-privilege?utm_source=rss)
- - [Africa Is Buying a Record Number of Chinese Solar Panels](https://www.wired.com/story/african-imports-of-chinese-solar-panels-increase/)
- - [Apple TV Plus is getting more expensive and will cost $12.99 per month](https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase)<!-- TECH:END -->
+ - [Pokémon looks scary again in the new Z-A trailer](https://www.theverge.com/pokemon/763401/pokeon-legends-za-mega-victreebel)
+ - [Nine current and ex-Apple staffers accuse Apple VP of Fitness Tech Jay Blahnik of creating a toxic work environment; Apple settled a sexual harassment complaint &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/250821/p18#a250821p18)
+ - [How Burning Man VR rebuilt after Microsoft shut it down](https://www.theverge.com/lowpass-newsletter/762887/burning-man-vr-microsoft-rebuilt)
+ - [Hogwarts Great Hall is a new immersive environment for Apple Vision Pro viewers](https://appleinsider.com/articles/25/08/21/hogwarts-great-hall-is-a-new-immersive-environment-for-apple-vision-pro-viewers?utm_source=rss)
+ - [Apple raises the price of Apple TV+ in the US and some markets globally after previously raising the price in 2023; in the US, the price will rise $3 to $12.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250821/p17#a250821p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

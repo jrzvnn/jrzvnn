@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google rolls out AI Mode to 180 countries and territories in English, after testing in the US, UK, and India, and plans to add more languages and regions &quot;soon&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250821/p13#a250821p13)
- - [Google&amp;#8217;s next big Android update can force dark mode and icon themes](https://www.theverge.com/news/763334/google-android-16-qpr2-beta-1-availability)
- - [Google releases a study saying a median Gemini text prompt uses 0.26mm of water and makes ~0.03g CO2; critics call it misleading for omitting indirect water use &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/250821/p12#a250821p12)
- - [Google says a typical AI text prompt only uses 5 drops of water — experts say that&amp;#8217;s misleading](https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study)
- - [Honor’s new flip phone will go with your Jimmy Choos](https://www.theverge.com/news/763298/honors-new-flip-phone-will-go-with-your-jimmy-choos)<!-- TECH:END -->
+ - [GFW Report: on August 20, China&#39;s Great Firewall blocked all TCP port 443 traffic, used for HTTPS, for 74 minutes, an unusual move; the cause may be accidental &lpar;Nathaniel Mott/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250821/p15#a250821p15)
+ - [New Insta360 Go Ultra offers 4K capture in a small form](https://appleinsider.com/articles/25/08/21/new-insta360-go-ultra-offers-4k-capture-in-a-small-form?utm_source=rss)
+ - [The Best Gaming Headsets for Xbox, PS5, and PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
+ - [Insta360 redesigned its compact action cam with a bigger battery and swappable storage](https://www.theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd)
+ - [Hank Green’s Focus Friend swapped my screen time for bean time](https://www.theverge.com/tech/763021/focus-friend-hank-green-app-store-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaker provides another look at TechWoven iPhone 17 Pro Max cases](https://appleinsider.com/articles/25/08/21/leaker-provides-another-look-at-techwoven-iphone-17-pro-max-cases?utm_source=rss)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [Microsoft is bringing PC gaming apps and stores to its Xbox app on Windows](https://www.theverge.com/news/763994/microsoft-xbox-app-windows-third-party-stores-apps-utilities)
- - [Anthropic says it worked with the US National Nuclear Security Administration on a classifier to block concerning chats, like those on building nuclear reactors &lpar;Morgan Chalfant/Semafor&rpar;](http://www.techmeme.com/250821/p29#a250821p29)
- - [Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month &lpar;Andrew Osborn/Reuters&rpar;](http://www.techmeme.com/250821/p28#a250821p28)
- - [Trump signs an EO creating the National Design Studio to improve &quot;websites and physical sites&quot;; sources say he&#39;s tapping Airbnb co-founder Joe Gebbia to lead it &lpar;Gregory Korte/Bloomberg&rpar;](http://www.techmeme.com/250821/p27#a250821p27)<!-- TECH:END -->
+ - [Best Cordless Vacuums: A New Winner Emerges and It&#39;s Cheap, Too](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [How to Watch &#39;Professor T&#39;: Stream Season 4 Anywhere for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-professor-t-stream-season-4-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Medium&#39;s CEO explains how the platform&#39;s AI policy has evolved as it adopts some AI tools while prioritizing human curation and inviting community feedback &lpar;Tony Stubblebine/The Medium Blog&rpar;](http://www.techmeme.com/250821/p22#a250821p22)
  - [Sources: Anthropic is in talks to raise $10B, significantly above the previously reported $5B, due to strong investor demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p21#a250821p21)
  - [Flash deals: Save $400 on 2025 Mac Studio, plus get M2 Max spec for $899](https://appleinsider.com/articles/25/08/21/flash-deals-save-400-on-2025-mac-studio-plus-get-m2-max-spec-for-899?utm_source=rss)
  - [2025 is turning into a good year for long-awaited games](https://www.theverge.com/games/763698/delayed-games-silksong-metroid-prime-4-2025)
- - [Apple denies its Fitness chief is bullying his team as an employee sues](https://appleinsider.com/articles/25/08/21/apple-denies-its-fitness-chief-is-bullying-his-team-as-an-employee-sues?utm_source=rss)
- - [How Google’s new Pixel 10 compares to the last-gen Pixel 9](https://www.theverge.com/tech/763600/google-pixel-9-vs-10-comparison-specs-price-features)<!-- TECH:END -->
+ - [Apple denies its Fitness chief is bullying his team as an employee sues](https://appleinsider.com/articles/25/08/21/apple-denies-its-fitness-chief-is-bullying-his-team-as-an-employee-sues?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

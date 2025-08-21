@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As all things should be](http://9gag.com/gag/aQzVGWW)
- - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [Aaaaand its gone!](http://9gag.com/gag/aND3xpr)
  - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
 
 ---

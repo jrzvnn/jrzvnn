@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses &lpar;yet&rpar;](https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses)
+ - [Google will provide Gemini for Government to US federal agencies at $0.47 per agency through 2026; OpenAI and Anthropic are offering their products for $1/year &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/250821/p25#a250821p25)
  - [Apple iPhone 16 Pro vs. Google Pixel 10 Pro -- flagship showdown](https://appleinsider.com/articles/25/08/21/apple-iphone-16-pro-vs-google-pixel-10-pro----flagship-showdown?utm_source=rss)
- - [Take $15 Off &#39;Tony Hawk&#39;s Pro Skater 3+4&#39; Remasters Right Now](https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/)
- - [FTC draws hard line on foreign-driven censorship &amp; data demands for Big Tech](https://appleinsider.com/articles/25/08/21/ftc-draws-hard-line-on-foreign-driven-censorship-data-demands-for-big-tech?utm_source=rss)
- - [The DOJ says it will no longer target developers who create decentralized crypto platforms without criminal intent, as part of a regulatory retreat on crypto &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/250821/p24#a250821p24)
- - [Vivo Launches Mixed Reality Headset, an Apple Vision Pro Competitor](https://www.cnet.com/tech/computing/vivo-launches-mixed-reality-headset-an-apple-vision-pro-competitor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now](https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/)
+ - [FTC draws hard line on foreign-driven censorship &amp; data demands for Big Tech](https://appleinsider.com/articles/25/08/21/ftc-draws-hard-line-on-foreign-driven-censorship-data-demands-for-big-tech?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mustafa Suleyman says &quot;Seemingly Conscious AI&quot; is coming but is something to avoid, and that developers must build AI for people, not to be a digital person &lpar;Mustafa Suleyman&rpar;](http://www.techmeme.com/250820/p53#a250820p53)
- - [Masimo sues feds to stop Apple Watch pulse oximetry restoration](https://appleinsider.com/articles/25/08/20/masimo-was-last-to-learn-about-blood-oxygen-sensing-returning-to-apple-watch?utm_source=rss)
- - [Today is your last chance to grab a PS5 before Sony’s price hikes go into effect](https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale)
- - [Inside Google&#39;s Reliability Labs, where it stress tests Pixel phones and watches; Google claims the Pixel 10 Pro Fold can withstand 10+ years of folding &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/250820/p52#a250820p52)
- - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,449 &lpar;$350 off&rpar;](https://appleinsider.com/articles/25/08/20/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1449-350-off?utm_source=rss)<!-- TECH:END -->
+ - [Meta froze hiring in its AI division last week with sources saying exceptions need Alexandr Wang&#39;s permission; the duration of the freeze remains unclear &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/250820/p55#a250820p55)
+ - [Halo, a startup founded by former Harvard students who developed a facial recognition app for Ray-Ban Meta glasses, is launching &quot;always-on&quot; AI glasses for $249 &lpar;TechCrunch&rpar;](http://www.techmeme.com/250820/p54#a250820p54)
+ - [Mchose UT98 review: A robust mechanical keyboard with all the bells and whistles](https://appleinsider.com/articles/25/08/21/mchose-ut98-review-a-robust-mechanical-keyboard-with-all-the-bells-and-whistles?utm_source=rss)
+ - [Tour Championship 2025: TV Schedule, How to Watch, Stream All the PGA Tour Golf From Anywhere](https://www.cnet.com/tech/services-and-software/tour-championship-2025-tv-schedule-today-how-to-watch-stream-all-the-pga-tour-golf-from-anywhere/#ftag=CAD590a51e)
+ - [Mustafa Suleyman says &quot;Seemingly Conscious AI&quot; is coming but is something to avoid, and that developers must build AI for people, not to be a digital person &lpar;Mustafa Suleyman&rpar;](http://www.techmeme.com/250820/p53#a250820p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

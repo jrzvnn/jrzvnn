@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepSeek details V3.1 and says it surpasses R1 on key benchmarks and is customized to work with next-gen Chinese-made AI chips, after unveiling it on August 19 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p9#a250821p9)
  - [An interview with GM SVP of Software and Services Engineering David Richardson on GM&#39;s new AI team, developing &quot;cobots&quot;, or collaborative robots, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250821/p8#a250821p8)
  - [In a UK tribunal filing, ex-Meta employee Samujjal Purkayastha alleges Meta misled advertisers by inflating Shops ads&#39; performance and bypassed Apple&#39;s ATT &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250821/p7#a250821p7)
  - [A profile of Stability AI, which under CEO Prem Akkaraju and Chair Sean Parker has shifted from building frontier AI models to a Hollywood-focused SaaS company &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250821/p6#a250821p6)
- - [Microsoft employee arrested at headquarters while protesting Israel contracts](https://www.theverge.com/news/763261/microsoft-employee-arrested-headquarters-protest-redmond-police)
- - [ChatGPT-5 Lets You Choose Your AI Model. These Are Your Options](https://www.cnet.com/tech/services-and-software/chatgpt-5-lets-you-choose-your-ai-model-these-are-your-options/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft employee arrested at headquarters while protesting Israel contracts](https://www.theverge.com/news/763261/microsoft-employee-arrested-headquarters-protest-redmond-police)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

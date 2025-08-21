@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
  - 😝 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
- - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 😝 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)
- - 👉 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)<!-- MEMES:END -->
+ - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
 
 ---
 

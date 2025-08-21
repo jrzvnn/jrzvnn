@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
- - 😝 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
- - 💣 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
- - 😝 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)
- - 👉 [Werewolf](http://9gag.com/gag/a34nmMN)<!-- MEMES:END -->
+ - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
+ - 👉 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)<!-- MEMES:END -->
 
 ---
 

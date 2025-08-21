@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The real main course](http://9gag.com/gag/a87zR16)
- - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
- - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
+ - 😝 [Watch out, it&#39;s a woman](http://9gag.com/gag/aRBDnyj)
+ - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 💣 [Me seeing my wife naked for the 3000th times.](http://9gag.com/gag/agmjz2v)
+ - 😝 [Sir... this is not bombay...](http://9gag.com/gag/a1mwypP)
+ - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
 
 ---
 

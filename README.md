@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says the median Gemini app text prompt consumes 0.24Wh of energy, about the same as running a microwave for a second, and emits 0.03g of CO2 equivalent &lpar;Casey Crownhart/MIT Technology Review&rpar;](http://www.techmeme.com/250821/p23#a250821p23)
+ - [Honor&#39;s Magic V5 Boasts On-Device Live AI Call Translation for Guaranteed Privacy](https://www.cnet.com/tech/mobile/honors-magic-v5-boasts-on-device-live-ai-call-translation-for-guaranteed-privacy/#ftag=CAD590a51e)
+ - [Netflix&#39;s New Astrology Hub Has Shows Inspired by Your Sign](https://www.cnet.com/tech/services-and-software/netflixs-new-astrology-hub-has-shows-inspired-by-your-sign/#ftag=CAD590a51e)
  - [Medium&#39;s CEO explains how the platform&#39;s AI policy has evolved as it adopts some AI tools while prioritizing human curation and inviting community feedback &lpar;Tony Stubblebine/The Medium Blog&rpar;](http://www.techmeme.com/250821/p22#a250821p22)
- - [Sources: Anthropic is in talks to raise $10B, significantly above the previously reported $5B, due to strong investor demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p21#a250821p21)
- - [Flash deals: Save $400 on 2025 Mac Studio, plus get M2 Max spec for $899](https://appleinsider.com/articles/25/08/21/flash-deals-save-400-on-2025-mac-studio-plus-get-m2-max-spec-for-899?utm_source=rss)
- - [2025 is turning into a good year for long-awaited games](https://www.theverge.com/games/763698/delayed-games-silksong-metroid-prime-4-2025)
- - [Apple denies its Fitness chief is bullying his team as an employee sues](https://appleinsider.com/articles/25/08/21/apple-denies-its-fitness-chief-is-bullying-his-team-as-an-employee-sues?utm_source=rss)<!-- TECH:END -->
+ - [Best Cordless Vacuums We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month &lpar;Andrew Osborn/Reuters&rpar;](http://www.techmeme.com/250821/p28#a250821p28)
  - [Trump signs an EO creating the National Design Studio to improve &quot;websites and physical sites&quot;; sources say he&#39;s tapping Airbnb co-founder Joe Gebbia to lead it &lpar;Gregory Korte/Bloomberg&rpar;](http://www.techmeme.com/250821/p27#a250821p27)
  - [The 40 Best Movies on Hulu This Week &lpar;August 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
  - [Apple TV+ senior executive Chris Parnell poached by Paramount](https://appleinsider.com/articles/25/08/21/apple-tv-senior-executive-chris-parnell-poached-by-paramount?utm_source=rss)
- - [Longtime Bungie head Pete Parsons steps down](https://www.theverge.com/news/763895/bungie-ceo-pete-parsons-steps-down-destiny)
- - [Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls](https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai)<!-- TECH:END -->
+ - [Longtime Bungie head Pete Parsons steps down](https://www.theverge.com/news/763895/bungie-ceo-pete-parsons-steps-down-destiny)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

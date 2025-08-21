@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nostalgia - The unicorn factor](http://9gag.com/gag/awyvwGB)
- - 😝 [Werewolf](http://9gag.com/gag/a34nmMN)
- - 💣 [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
- - 😝 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
- - 👉 [RIP hero.](http://9gag.com/gag/axy45XY)<!-- MEMES:END -->
+ - 😝 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 💣 [No Man Left Behind](http://9gag.com/gag/aAyZzZo)
+ - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
+ - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
 
 ---
 

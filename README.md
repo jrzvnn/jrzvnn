@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - 😝 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
- - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
+ - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 😝 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)
+ - 💣 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
+ - 😝 [The Thai cover band you didnt know you needed in your life](http://9gag.com/gag/avymY2q)
+ - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
 
 ---
 

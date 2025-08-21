@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
  - [Microsoft is bringing PC gaming apps and stores to its Xbox app on Windows](https://www.theverge.com/news/763994/microsoft-xbox-app-windows-third-party-stores-apps-utilities)
  - [Anthropic says it worked with the US National Nuclear Security Administration on a classifier to block concerning chats, like those on building nuclear reactors &lpar;Morgan Chalfant/Semafor&rpar;](http://www.techmeme.com/250821/p29#a250821p29)
  - [Russia orders that state-backed messenger app MAX, which critics say could be used to track users, must be pre-installed on phones and tablets from next month &lpar;Andrew Osborn/Reuters&rpar;](http://www.techmeme.com/250821/p28#a250821p28)
- - [Trump signs an EO creating the National Design Studio to improve &quot;websites and physical sites&quot;; sources say he&#39;s tapping Airbnb co-founder Joe Gebbia to lead it &lpar;Gregory Korte/Bloomberg&rpar;](http://www.techmeme.com/250821/p27#a250821p27)
- - [The 40 Best Movies on Hulu This Week &lpar;August 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
+ - [Trump signs an EO creating the National Design Studio to improve &quot;websites and physical sites&quot;; sources say he&#39;s tapping Airbnb co-founder Joe Gebbia to lead it &lpar;Gregory Korte/Bloomberg&rpar;](http://www.techmeme.com/250821/p27#a250821p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

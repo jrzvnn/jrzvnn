@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 💣 [Sir... this is not bombay...](http://9gag.com/gag/a1mwypP)
- - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
- - 👉 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)<!-- MEMES:END -->
+ - 😝 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
+ - 😝 [Still waiting](http://9gag.com/gag/aW49rj3)
+ - 💣 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 😝 [Happy International Women&#39;s Day to Kate, Ireland&#39;s only female](http://9gag.com/gag/aO8GMGN)
+ - 👉 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)<!-- MEMES:END -->
 
 ---
 

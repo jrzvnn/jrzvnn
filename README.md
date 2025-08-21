@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 😝 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
- - 💣 [When you accidentally sent a face instead of a DP.](http://9gag.com/gag/amon3Z6)
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 👉 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)<!-- MEMES:END -->
+ - 😝 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
+ - 😝 [RIP hero.](http://9gag.com/gag/axy45XY)
+ - 💣 [Nice try fed](http://9gag.com/gag/aByo7VD)
+ - 😝 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
+ - 👉 [By the third sign you let them go, there&#39;s no coming back.](http://9gag.com/gag/apR8WYW)<!-- MEMES:END -->
 
 ---
 

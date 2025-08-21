@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook&#39;s gift to Trump is mocked by &#39;South Park&#39;](https://appleinsider.com/articles/25/08/21/tim-cooks-gift-to-trump-is-mocked-by-south-park?utm_source=rss)
  - [Meet Wukong, the AI Chatbot China Has Installed on Its Space Station](https://www.wired.com/story/meet-wukong-chinas-first-ai-chatbot-on-a-space-station/)
  - [7 Best Shower Water Filters &lpar;2025&rpar;, WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
  - [A Brompton Reborn: How to Future-Proof a Decades-Old Foldable Bike](https://www.wired.com/story/a-brompton-reborn-how-to-future-proof-a-decades-old-foldable-bike/)
- - [Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250821/p10#a250821p10)
- - [The Destruction of NASA Would Be a Blow to Our Collective Imagination](https://www.wired.com/story/the-destruction-of-nasa-would-be-a-blow-to-our-collective-imagination/)<!-- TECH:END -->
+ - [Sources: Take-Two lays off 80 staff at BioShock studio Cloud Chamber, or ~33% of its 250 staff, and delays the next BioShock game to late 2026 or early 2027 &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250821/p10#a250821p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

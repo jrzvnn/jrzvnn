@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)
- - [SpaceX inks Alaska Air deal for Starlink in-flight Wi-Fi; sources say it is courting Middle Eastern airlines in a potential watershed against legacy operators &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p4#a250821p4)
- - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)
- - [Analysis: Baidu&#39;s stock is trading at a forward P/E ratio of ~9.7, the lowest of any profitable Hang Seng Tech Index company, amid AI competitiveness concerns &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/250821/p2#a250821p2)
- - [Alibaba-backed Z.ai, formerly Zhipu, launches a general-purpose AI agent app, which lets users use natural language to book hotels, order takeaway, and more &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250821/p1#a250821p1)<!-- TECH:END -->
+ - [A profile of Stability AI, which under CEO Prem Akkaraju and Chair Sean Parker has shifted from building frontier AI models to a Hollywood-focused SaaS company &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250821/p6#a250821p6)
+ - [Microsoft employee arrested at headquarters while protesting Israel contracts](https://www.theverge.com/news/763261/microsoft-employee-arrested-headquarters-protest-redmond-police)
+ - [ChatGPT-5 Lets You Choose Your AI Model. These Are Your Options](https://www.cnet.com/tech/services-and-software/chatgpt-5-lets-you-choose-your-ai-model-these-are-your-options/#ftag=CAD590a51e)
+ - [Why Ancestry Is the Best DNA Test Kit in 2025](https://www.cnet.com/health/medical/why-ancestry-best-dna-test-kit-2025/#ftag=CAD590a51e)
+ - [Q&amp;A with Coinbase CEO Brian Armstrong on starting the company, battling North Korean hackers, stablecoin adoption, the GENIUS Act, pro-crypto Congress, and more &lpar;John Collison/Cheeky Pint&rpar;](http://www.techmeme.com/250821/p5#a250821p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

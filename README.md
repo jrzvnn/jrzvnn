@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
- - 😝 [Which do you like](http://9gag.com/gag/aQzVGzz)
- - 💣 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
- - 😝 [Lol](http://9gag.com/gag/avymYZZ)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - 😝 [What in hell happened here?](http://9gag.com/gag/a5QD4QL)
+ - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 💣 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
+ - 😝 [No autotune](http://9gag.com/gag/a5QDmoG)
+ - 👉 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)<!-- MEMES:END -->
 
 ---
 

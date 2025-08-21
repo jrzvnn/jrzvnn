@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Take $15 Off &#39;Tony Hawk&#39;s Pro Skater 3+4&#39; Remasters Right Now](https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/)
  - [FTC draws hard line on foreign-driven censorship &amp; data demands for Big Tech](https://appleinsider.com/articles/25/08/21/ftc-draws-hard-line-on-foreign-driven-censorship-data-demands-for-big-tech?utm_source=rss)
  - [The DOJ says it will no longer target developers who create decentralized crypto platforms without criminal intent, as part of a regulatory retreat on crypto &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/250821/p24#a250821p24)
- - [Why I love my Le Creuset sauté pan](https://www.theverge.com/tech/763409/le-creuset-saute-pan-favorites)<!-- TECH:END -->
+ - [Vivo Launches Mixed Reality Headset, an Apple Vision Pro Competitor](https://www.cnet.com/tech/computing/vivo-launches-mixed-reality-headset-an-apple-vision-pro-competitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

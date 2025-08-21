@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2025 is turning into a good year for long-awaited games](https://www.theverge.com/games/763698/delayed-games-silksong-metroid-prime-4-2025)
+ - [Apple denies its Fitness chief is bullying his team as an employee sues](https://appleinsider.com/articles/25/08/21/apple-denies-its-fitness-chief-is-bullying-his-team-as-an-employee-sues?utm_source=rss)
  - [How Google’s new Pixel 10 compares to the last-gen Pixel 9](https://www.theverge.com/tech/763600/google-pixel-9-vs-10-comparison-specs-price-features)
  - [Trump Is Betting Big on Intel. Will the Chips Fall His Way?](https://www.wired.com/story/golden-shares-tsmc-micron-trump-equity-stake/)
- - [Microsoft’s Xbox handheld is a good first step towards a Windows gaming OS](https://www.theverge.com/notepad-microsoft-newsletter/763357/microsoft-asus-xbox-ally-handheld-hands-on-notepad)
- - [YouTube Music turns 10 and adds new &amp;#8216;taste match&amp;#8217; playlists](https://www.theverge.com/news/763611/youtube-music-taste-match-10-anniversary)
- - [Interviews with three Google executives on the new Pixel phones, why Pixel won&#39;t ever be a &quot;giant player&quot;, improving the devices by ~30% each year, AI, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p20#a250821p20)<!-- TECH:END -->
+ - [You Need to Download iOS 18.6.2 Now to Patch This Zero-Day Exploit](https://www.cnet.com/tech/services-and-software/you-need-to-download-ios-18-6-2-now-to-patch-this-zero-day-exploit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is the Flipper Zero the next big car theft gadget?](https://www.theverge.com/cars/763446/flipper-zero-car-theft-firmware-hack-key-fob)
  - [Apple TV+ subscription jumps to $12.99 per month](https://appleinsider.com/articles/25/08/21/apple-tv-subscription-jumps-to-1299-per-month?utm_source=rss)
- - [Silksong finally launches in September](https://www.theverge.com/news/680636/hollow-knight-silksong-release-date-trailer)
- - [Thoma Bravo agrees to acquire HR software provider Dayforce for $12.3B, paying $70 per share, a 32% premium to Dayforce shares before reports of a possible deal &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250821/p16#a250821p16)
- - [Heart rate alerts lead Apple Watch user to brain tumor diagnosis](https://appleinsider.com/articles/25/08/21/heart-rate-alerts-lead-apple-watch-user-to-brain-tumor-diagnosis?utm_source=rss)
- - [Meta accused of inflating ad results &amp; dodging Apple privacy rules](https://appleinsider.com/articles/25/08/21/meta-accused-of-inflating-ad-results-dodging-apple-privacy-rules?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s Epic Games court loss spawns debate over tech attorney &amp; client privilege](https://appleinsider.com/articles/25/08/21/apples-epic-games-court-loss-spawns-debate-over-tech-attorney-client-privilege?utm_source=rss)
+ - [Africa Is Buying a Record Number of Chinese Solar Panels](https://www.wired.com/story/african-imports-of-chinese-solar-panels-increase/)
+ - [Apple TV Plus is getting more expensive and will cost $12.99 per month](https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

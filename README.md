@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: the Trump administration considers taking equity stakes in CHIPS Act recipients but not in firms that are increasing US investment, like TSMC and Micron &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250821/p31#a250821p31)
  - [Source: Meta has signed a deal with Google, worth more than $10B over six years, to use Google Cloud&#39;s servers, storage, networking, and other services &lpar;The Information&rpar;](http://www.techmeme.com/250821/p30#a250821p30)
  - [Leaker provides another look at TechWoven iPhone 17 Pro Max cases](https://appleinsider.com/articles/25/08/21/leaker-provides-another-look-at-techwoven-iphone-17-pro-max-cases?utm_source=rss)
  - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)
- - [Microsoft is bringing PC gaming apps and stores to its Xbox app on Windows](https://www.theverge.com/news/763994/microsoft-xbox-app-windows-third-party-stores-apps-utilities)
- - [Best Cordless Vacuums: A New Winner Emerges and It&#39;s Cheap, Too](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft is bringing PC gaming apps and stores to its Xbox app on Windows](https://www.theverge.com/news/763994/microsoft-xbox-app-windows-third-party-stores-apps-utilities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

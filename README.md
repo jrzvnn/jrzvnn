@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)
  - [Analysis: Baidu&#39;s stock is trading at a forward P/E ratio of ~9.7, the lowest of any profitable Hang Seng Tech Index company, amid AI competitiveness concerns &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/250821/p2#a250821p2)
  - [Alibaba-backed Z.ai, formerly Zhipu, launches a general-purpose AI agent app, which lets users use natural language to book hotels, order takeaway, and more &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250821/p1#a250821p1)
- - [India&#39;s lower house of parliament passes a sweeping online gaming bill to impose a blanket ban on real-money games nationwide, threatening a $23B industry &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250820/p58#a250820p58)
- - [How to import your old passwords into Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Aug. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-aug-21/#ftag=CAD590a51e)
+ - [White House Joins TikTok With New Account. Here&#39;s What It&#39;s Posted So Far](https://www.cnet.com/tech/services-and-software/white-house-joins-tiktok-with-new-account-heres-what-its-posted-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
- - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - 😝 [As all things should be](http://9gag.com/gag/aQzVGWW)
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
 
 ---
 

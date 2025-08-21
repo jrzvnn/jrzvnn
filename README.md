@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qi2 Wireless Charging: Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/what-is-qi2-wireless-charging/)
+ - [The Destruction of NASA Would Be a Blow to Our Collective Imagination](https://www.wired.com/story/the-destruction-of-nasa-would-be-a-blow-to-our-collective-imagination/)
  - [9 Best Back-to-School Laptop Deals for 2025](https://www.wired.com/story/best-back-to-school-laptop-deals/)
  - [Why Did a $10 Billion Startup Let Me Vibe-Code for Them—and Why Did I Love It?](https://www.wired.com/story/why-did-a-10-billion-dollar-startup-let-me-vibe-code-for-them-and-why-did-i-love-it/)
- - [Apple Watch’s restored blood oxygen tracking attracts another lawsuit](https://www.theverge.com/news/763291/apple-masimo-blood-oxygen-patent-customs-lawsuit)
- - [DeepSeek details V3.1 and says it surpasses R1 on key benchmarks and is customized to work with next-gen Chinese-made AI chips, after unveiling it on August 19 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p9#a250821p9)
- - [An interview with GM SVP of Software and Services Engineering David Richardson on GM&#39;s new AI team, developing &quot;cobots&quot;, or collaborative robots, and more &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250821/p8#a250821p8)<!-- TECH:END -->
+ - [Apple Watch’s restored blood oxygen tracking attracts another lawsuit](https://www.theverge.com/news/763291/apple-masimo-blood-oxygen-patent-customs-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

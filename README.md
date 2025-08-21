@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Shanghai-based self-driving company Banma aims to spin off from Alibaba via a Hong Kong IPO, reducing Alibaba&#39;s stake from the current 44.72% to 30% &lpar;Aileen Chuang/South China Morning Post&rpar;](http://www.techmeme.com/250821/p3#a250821p3)
  - [Analysis: Baidu&#39;s stock is trading at a forward P/E ratio of ~9.7, the lowest of any profitable Hang Seng Tech Index company, amid AI competitiveness concerns &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/250821/p2#a250821p2)
  - [Alibaba-backed Z.ai, formerly Zhipu, launches a general-purpose AI agent app, which lets users use natural language to book hotels, order takeaway, and more &lpar;Danielle Popov/South China Morning Post&rpar;](http://www.techmeme.com/250821/p1#a250821p1)
  - [India&#39;s lower house of parliament passes a sweeping online gaming bill to impose a blanket ban on real-money games nationwide, threatening a $23B industry &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250820/p58#a250820p58)
- - [How to import your old passwords into Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_source=rss)
- - [Sources: Beijing&#39;s Nvidia H20 curbs were triggered by US Commerce Secretary Lutnick&#39;s not selling China the best stuff remark, which officials found &quot;insulting&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250820/p57#a250820p57)<!-- TECH:END -->
+ - [How to import your old passwords into Apple Passwords](https://appleinsider.com/inside/macos/tips/how-to-import-your-old-passwords-into-the-new-apple-passwords?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stuck in traffic again..](http://9gag.com/gag/a4PVv96)
- - 😝 [The real main course](http://9gag.com/gag/a87zR16)
- - 💣 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
- - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [Zero compassion](http://9gag.com/gag/aoyDvPA)<!-- MEMES:END -->
+ - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 😝 [50 cent trying to keep a straight face watching Jim Carrey dance](http://9gag.com/gag/a2vG3Ge)
+ - 💣 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 👉 [Can i give her my tip?](http://9gag.com/gag/azxQWgp)<!-- MEMES:END -->
 
 ---
 

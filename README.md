@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The real main course](http://9gag.com/gag/a87zR16)
  - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
- - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
  - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
- - 😝 [My butt is on fire](http://9gag.com/gag/aPAnEWq)
- - 👉 [How To Know A Body-Cam Video Will Be Amazing?](http://9gag.com/gag/aW49roK)<!-- MEMES:END -->
+ - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
+ - 👉 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
 
 ---
 

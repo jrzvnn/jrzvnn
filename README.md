@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 😝 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 💣 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 😝 [No autotune](http://9gag.com/gag/a5QDmoG)
- - 👉 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)<!-- MEMES:END -->
+ - 😝 [Which do you like](http://9gag.com/gag/aQzVGzz)
+ - 💣 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
+ - 😝 [Lol](http://9gag.com/gag/avymYZZ)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 ---
 

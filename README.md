@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What?](http://9gag.com/gag/aGybmqG)
- - 😝 [Hug Life](http://9gag.com/gag/a5QDOgy)
- - 💣 [Weeee](http://9gag.com/gag/aqyAPVZ)
+ - 😝 [Werewolf](http://9gag.com/gag/a34nmMN)
+ - 😝 [He woke up and chose very very mild violence](http://9gag.com/gag/avymN3Z)
+ - 💣 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
  - 😝 [Nice try fed](http://9gag.com/gag/aByo7VD)
- - 👉 [They want to replace PBS with this guy&#39;s fake university.](http://9gag.com/gag/apR84pB)<!-- MEMES:END -->
+ - 👉 [RIP hero.](http://9gag.com/gag/axy45XY)<!-- MEMES:END -->
 
 ---
 

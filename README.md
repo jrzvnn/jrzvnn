@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Terry is truly a legend. What wise words he just said here](http://9gag.com/gag/aAyZorL)
- - 😝 [RIP hero.](http://9gag.com/gag/axy45XY)
- - 💣 [Nice try fed](http://9gag.com/gag/aByo7VD)
- - 😝 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
- - 👉 [By the third sign you let them go, there&#39;s no coming back.](http://9gag.com/gag/apR8WYW)<!-- MEMES:END -->
+ - 😝 [This is actually mind blowing](http://9gag.com/gag/ajPyz9p)
+ - 😝 [When you accidentally sent a face instead of a DP.](http://9gag.com/gag/amon3Z6)
+ - 💣 [The old Deathstar look.......](http://9gag.com/gag/aoyDvY0)
+ - 😝 [By the third sign you let them go, there&#39;s no coming back.](http://9gag.com/gag/apR8WYW)
+ - 👉 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)<!-- MEMES:END -->
 
 ---
 

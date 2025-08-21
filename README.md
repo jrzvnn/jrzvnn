@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoma Bravo agrees to buy HR software provider Dayforce for $12.3B at $70 per share, a 32% premium to Dayforce shares before reports of a possible deal &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250821/p16#a250821p16)
+ - [Heart rate alerts lead Apple Watch user to brain tumor diagnosis](https://appleinsider.com/articles/25/08/21/heart-rate-alerts-lead-apple-watch-user-to-brain-tumor-diagnosis?utm_source=rss)
  - [Meta accused of inflating ad results &amp; dodging Apple privacy rules](https://appleinsider.com/articles/25/08/21/meta-accused-of-inflating-ad-results-dodging-apple-privacy-rules?utm_source=rss)
  - [Amazon is betting on agents to win the AI race](https://www.theverge.com/decoder-podcast-with-nilay-patel/761830/amazon-david-luan-agi-lab-adept-ai-interview)
- - [Google Search&amp;#8217;s AI Mode is going global and getting smarter](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)
- - [Google started the green bubble Messages fight, and is now tired of it](https://appleinsider.com/articles/25/08/21/google-started-the-green-bubble-messages-fight-and-is-now-tired-of-it?utm_source=rss)
- - [7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)<!-- TECH:END -->
+ - [Google Search&amp;#8217;s AI Mode is going global and getting smarter](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

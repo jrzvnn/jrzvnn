@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
- - 😝 [50 cent trying to keep a straight face watching Jim Carrey dance](http://9gag.com/gag/a2vG3Ge)
- - 💣 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)
- - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 👉 [Can i give her my tip?](http://9gag.com/gag/azxQWgp)<!-- MEMES:END -->
+ - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 😝 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
+ - 💣 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
+ - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
 
 ---
 

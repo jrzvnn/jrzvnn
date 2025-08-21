@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weapon Training](http://9gag.com/gag/aMVyoV1)
+ - 😝 [Alan\u2019s smart, be like Alan](http://9gag.com/gag/aPAn5pV)
  - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 💣 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
- - 😝 [Back in the day, this was our Google search engine.](http://9gag.com/gag/a87zBp3)
- - 👉 [That&#39;s a lot of attachments, what&#39;s she sending](http://9gag.com/gag/aD2MKEN)<!-- MEMES:END -->
+ - 💣 [London man sent to prison for yelling `We love bacon` in public](http://9gag.com/gag/adBbEWd)
+ - 😝 [I gave up on life](http://9gag.com/gag/aD2MybB)
+ - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
 
 ---
 

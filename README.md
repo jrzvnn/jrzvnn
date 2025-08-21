@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Search&amp;#8217;s AI Mode is going global and getting smarter](https://www.theverge.com/news/763367/google-search-ai-mode-agentic-restaurant-bookings)
+ - [Google started the green bubble Messages fight, and is now tired of it](https://appleinsider.com/articles/25/08/21/google-started-the-green-bubble-messages-fight-and-is-now-tired-of-it?utm_source=rss)
+ - [7 Best Sunrise Alarm Clocks to Snag Before the Fall 2025 Time Change](https://www.wired.com/gallery/best-sunrise-alarm-clocks/)
  - [GFW Report: on August 20, China&#39;s Great Firewall blocked all TCP port 443 traffic, used for HTTPS, for 74 minutes, an unusual move; the cause may be accidental &lpar;Nathaniel Mott/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250821/p15#a250821p15)
- - [New Insta360 Go Ultra offers 4K capture in a small form](https://appleinsider.com/articles/25/08/21/new-insta360-go-ultra-offers-4k-capture-in-a-small-form?utm_source=rss)
- - [The Best Gaming Headsets for Xbox, PS5, and PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Insta360 redesigned its compact action cam with a bigger battery and swappable storage](https://www.theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd)
- - [Hank Green’s Focus Friend swapped my screen time for bean time](https://www.theverge.com/tech/763021/focus-friend-hank-green-app-store-ios-android)<!-- TECH:END -->
+ - [New Insta360 Go Ultra offers 4K capture in a small form](https://appleinsider.com/articles/25/08/21/new-insta360-go-ultra-offers-4k-capture-in-a-small-form?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [By the third sign you let them go, there&#39;s no coming back.](http://9gag.com/gag/apR8WYW)
- - 😝 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
- - 💣 [Sadly, 9gaggers don\u2019t have girlfriends.](http://9gag.com/gag/aZZvAWp)
  - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 👉 [Which do you like](http://9gag.com/gag/aQzVGzz)<!-- MEMES:END -->
+ - 😝 [I&#39;ll give it a week until they sell it](http://9gag.com/gag/aryzQzB)
+ - 💣 [It&#39;s SIR](http://9gag.com/gag/aRBDbRG)
+ - 😝 [Would you remember the sequence?](http://9gag.com/gag/aqyA04R)
+ - 👉 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)<!-- MEMES:END -->
 
 ---
 

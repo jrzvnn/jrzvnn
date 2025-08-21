@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Music turns 10 and adds new &amp;#8216;taste match&amp;#8217; playlists](https://www.theverge.com/news/763611/youtube-music-taste-match-10-anniversary)
+ - [Interviews with three Google executives on the new Pixel phones, why Pixel won&#39;t ever be a &quot;giant player&quot;, improving the devices by ~30% each year, AI, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p20#a250821p20)
  - [Microsoft kills editing in 365 Copilot app for iPhone &amp; iPad](https://appleinsider.com/articles/25/08/21/microsoft-kills-editing-in-365-copilot-app-for-iphone-ipad?utm_source=rss)
  - [LG’s massive 77-inch C5 OLED TV is more than $1,000 off](https://www.theverge.com/tech/763418/lg-c5-oled-tv-sony-wh-1000xm5-deal-sale)
- - [Sources: Crusoe is discussing raising $1B+ at a $10B valuation; the company, which is helping build OpenAI&#39;s first Stargate facility, had $250M revenue in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250821/p19#a250821p19)
- - [Tesla is dragging its feet in reporting FSD and Autopilot crashes to the government](https://www.theverge.com/tesla/763603/tesla-autopilot-fsd-crash-report-delay-nhtsa)
- - [&#39;I learned so much&#39; -- Attendees laud first Apple Manufacturing Academy in Detroit](https://appleinsider.com/articles/25/08/21/i-learned-so-much----attendees-laud-first-apple-manufacturing-academy-in-detroit?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Crusoe is discussing raising $1B+ at a $10B valuation; the company, which is helping build OpenAI&#39;s first Stargate facility, had $250M revenue in 2024 &lpar;The Information&rpar;](http://www.techmeme.com/250821/p19#a250821p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

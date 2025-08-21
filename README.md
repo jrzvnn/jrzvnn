@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 😝 [Which do you like](http://9gag.com/gag/aQzVGzz)
- - 💣 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
- - 😝 [Lol](http://9gag.com/gag/avymYZZ)
+ - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 😝 [Especially for those who did not believe that it works](http://9gag.com/gag/a2vGeME)
+ - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
  - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 ---

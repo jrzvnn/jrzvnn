@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CBP data: between April and June 2025, CBP searched 14,899 devices carried by international travelers, up from a high of 12,766+ between January and March 2022 &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250821/p11#a250821p11)
- - [Tim Cook&#39;s gift to Trump is mocked by &#39;South Park&#39;](https://appleinsider.com/articles/25/08/21/tim-cooks-gift-to-trump-is-mocked-by-south-park?utm_source=rss)
- - [Meet Wukong, the AI Chatbot China Has Installed on Its Space Station](https://www.wired.com/story/meet-wukong-chinas-first-ai-chatbot-on-a-space-station/)
- - [7 Best Shower Water Filters &lpar;2025&rpar;, WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
- - [Blood of the Dawnwalker Is a Vampire Action RPG with Breath of the Wild&#39;s Neatest Feature](https://www.cnet.com/tech/gaming/blood-of-the-dawnwalker-is-a-vampire-action-rpg-with-breath-of-the-wilds-neatest-feature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google rolls out AI Mode to 180 countries and territories in English, after testing in the US, UK, and India, and plans to add more languages and regions &quot;soon&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250821/p13#a250821p13)
+ - [Google&amp;#8217;s next big Android update can force dark mode and icon themes](https://www.theverge.com/news/763334/google-android-16-qpr2-beta-1-availability)
+ - [Google releases a study saying a median Gemini text prompt uses 0.26mm of water and makes ~0.03g CO2; critics call it misleading for omitting indirect water use &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/250821/p12#a250821p12)
+ - [Google says a typical AI text prompt only uses 5 drops of water — experts say that&amp;#8217;s misleading](https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study)
+ - [Honor’s new flip phone will go with your Jimmy Choos](https://www.theverge.com/news/763298/honors-new-flip-phone-will-go-with-your-jimmy-choos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

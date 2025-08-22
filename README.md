@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is Down Alternative and Who Should Buy It? Experts Explain &lpar;2025&rpar;](https://www.wired.com/story/what-is-down-alternative/)
  - [Trump Mobile’s fake iPhone is now a fake S25 Ultra](https://www.theverge.com/news/764175/trump-mobile-t1-phone-samsung-s25-ultra-spigen)
  - [This Extremely Cute Bean Wants to Help You Stop Doomscrolling](https://www.wired.com/story/this-extremely-cute-bean-wants-to-help-you-stop-doomscrolling/)
- - [Chinese stocks rally on August 22, driven by gains in local chipmakers Cambricon and Hygon, after Nvidia reportedly halts the production for its H20 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p9#a250822p9)
- - [How to Become a Vibe Coder](https://www.wired.com/story/uncanny-valley-podcast-how-to-become-a-vibe-coder/)
- - [Automaker Geely Launched Its Own Satellites Into Space, Highlighting China’s Ambitions](https://www.wired.com/story/geely-satellites-china-auto-ambitions/)<!-- TECH:END -->
+ - [China&#39;s SSE Composite Index hits a decade high on Aug. 22, driven by gains in local chipmakers Cambricon and Hygon, after Nvidia reportedly halts H20 production &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p9#a250822p9)
+ - [How to Become a Vibe Coder](https://www.wired.com/story/uncanny-valley-podcast-how-to-become-a-vibe-coder/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

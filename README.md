@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Tesla plans to roll out in-car voice assistant features powered by DeepSeek and ByteDance&#39;s Doubao in China; Tesla vehicles in the US use Grok &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250822/p17#a250822p17)
  - [The translucent Beats Studio Buds Plus are half off](https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale)
- - [Silksong is out soon, and indie games are getting out of the way](https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis)
- - [Meta&#39;s AI Push Leads to $10 Billion Google Cloud Deal, Report Says](https://www.cnet.com/tech/services-and-software/metas-ai-push-leads-to-10-billion-google-cloud-deal-report-says/#ftag=CAD590a51e)
- - [X removes the ability for free-tier developers to like posts and follow users via its API to &quot;protect the platform from spam, bots, and manipulative activities&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p16#a250822p16)<!-- TECH:END -->
+ - [Premier League Soccer: Stream West Ham vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
+ - [Best 6 TVs I&#39;ve Tested for August 2025](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
+ - [Silksong is out soon, and indie games are getting out of the way](https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

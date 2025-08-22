@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [&#39;namsayin](http://9gag.com/gag/aAyZowg)
- - 😝 [Why do men only drive in African Safaris?](http://9gag.com/gag/a34nmgN)
- - 💣 [As all things should be](http://9gag.com/gag/aQzVGWW)
  - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 👉 [Which do you like](http://9gag.com/gag/aQzVGzz)<!-- MEMES:END -->
+ - 😝 [As all things should be](http://9gag.com/gag/aQzVGWW)
+ - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [Sanji gets all blue...](http://9gag.com/gag/a4PVeVd)
+ - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
 
 ---
 

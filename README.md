@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)
- - 💣 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [Average day on 9gag](http://9gag.com/gag/aGybP9K)
- - 👉 [Actually don\u2019t try this at home unless you know what you\u2019re doing.](http://9gag.com/gag/aKGprqQ)<!-- MEMES:END -->
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
+ - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
+ - 👉 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)<!-- MEMES:END -->
 
 ---
 

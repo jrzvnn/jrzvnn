@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Databricks plans to acquire Tecton, which helps companies build and deploy ML applications, for an undisclosed sum; Tecton was valued at $900M in 2022 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250822/p31#a250822p31)
  - [Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo](https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit)
  - [Bluesky Goes Dark in Mississippi Over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
  - [On its 10th anniversary, YouTube Music gets new features, including &quot;Taste Match&quot; playlists similar to Spotify Blend and event notifications through Bandsintown &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p30#a250822p30)
- - [Pattern, an e-commerce firm that resells goods on online marketplaces, files for a US IPO, reporting net income of $32.1M on revenue of $1.1B for H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p29#a250822p29)
- - [How to Watch &#39;Unforgotten&#39;: Stream Season 6 Anywhere for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-unforgotten-stream-season-6-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pattern, an e-commerce firm that resells goods on online marketplaces, files for a US IPO, reporting net income of $32.1M on revenue of $1.1B for H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p29#a250822p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

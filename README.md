@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s first Gemini smart home speaker detailed in leak](https://www.theverge.com/news/764203/google-gemini-smart-home-speaker-nest)
- - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)
- - [Camera Control is being redesigned for iPhone 18, not abandoned](https://appleinsider.com/articles/25/08/22/camera-control-is-being-redesigned-for-iphone-18-not-abandoned?utm_source=rss)
- - [Email: TikTok plans to lay off several hundred UK trust and safety staff in the UK and Asia, citing &quot;technological advances&quot; such as LLMs in content moderation &lpar;Financial Times&rpar;](http://www.techmeme.com/250822/p10#a250822p10)
- - [&#39;F1: the Movie&#39; is now available to rent or buy](https://appleinsider.com/articles/25/08/22/f1-the-movie-is-now-available-to-rent-or-buy?utm_source=rss)<!-- TECH:END -->
+ - [The Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [Netflix’s Long Story Short is a more human successor to BoJack Horseman](https://www.theverge.com/tv-reviews/763955/long-story-short-review-netflix-bojack-horseman)
+ - [Sources: OpenAI has been partially using Google search results scraped by a startup called SerpApi for ChatGPT responses on current events like news and sports &lpar;The Information&rpar;](http://www.techmeme.com/250822/p12#a250822p12)
+ - [Google&#39;s Pixel 10 event, Apple&#39;s &#39;TechWoven&#39; iPhone cases, and more, on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/22/googles-pixel-10-event-apples-techwoven-iphone-cases-and-more-on-the-appleinsider-podcast?utm_source=rss)
+ - [Filing: OnlyFans took in $7.2B from subscribers in FY ending Nov. 2024, up from $6.6B YoY, and paid out $5.8B, up from $5.3B; creator accounts grew 13% to 4.6M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250822/p11#a250822p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

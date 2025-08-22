@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Mobile’s fake iPhone is now a fake S25 Ultra](https://www.theverge.com/news/764175/trump-mobile-t1-phone-samsung-s25-ultra-spigen)
+ - [This Extremely Cute Bean Wants to Help You Stop Doomscrolling](https://www.wired.com/story/this-extremely-cute-bean-wants-to-help-you-stop-doomscrolling/)
+ - [Chinese stocks rally on August 22, driven by gains in local chipmakers Cambricon and Hygon, after Nvidia reportedly halts the production for its H20 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p9#a250822p9)
  - [How to Become a Vibe Coder](https://www.wired.com/story/uncanny-valley-podcast-how-to-become-a-vibe-coder/)
- - [Automaker Geely Launched Its Own Satellites Into Space, Highlighting China’s Ambitions](https://www.wired.com/story/geely-satellites-china-auto-ambitions/)
- - [Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
- - [OpenAI sets up a legal entity, and plans to open its first office in India after launching ChatGPT Go, its cheapest plan, in the country on August 19 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250822/p8#a250822p8)
- - [Scientists Find a New Moon Orbiting Uranus](https://www.wired.com/story/new-moon-identified-on-uranus-orbiting-close-to-its-ring-system/)<!-- TECH:END -->
+ - [Automaker Geely Launched Its Own Satellites Into Space, Highlighting China’s Ambitions](https://www.wired.com/story/geely-satellites-china-auto-ambitions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

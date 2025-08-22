@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pattern, an e-commerce firm that resells goods on online marketplaces, files for a US IPO, reporting net income of $32.1M on revenue of $1.1B for H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p29#a250822p29)
+ - [The Trump-Intel Deal Is Official](https://www.wired.com/story/trump-announce-intel-deal-equity-stake/)
  - [US government takes 10 percent stake in Intel in exchange for money it was already on the hook for](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)
  - [Bluesky blocks access to its service in Mississippi, saying it doesn&#39;t have the resources to comply with the state&#39;s broad new law requiring age verification &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p28#a250822p28)
- - [Amazon&#39;s month-end sale slashes up to 43% off AirPods, Apple Watch, iPad, Mac](https://appleinsider.com/articles/25/08/22/amazons-month-end-sale-slashes-up-to-43-off-airpods-apple-watch-ipad-mac?utm_source=rss)
- - [Ether surged 15% late Friday, rising as high as $4,885 and surpassing its November 2021 record of $4,866.01 after Fed Chair Jerome Powell hinted at rate cuts &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250822/p27#a250822p27)
- - [Netflix wants its partners to follow these rules when using gen AI](https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines)<!-- TECH:END -->
+ - [Amazon&#39;s month-end sale slashes up to 43% off AirPods, Apple Watch, iPad, Mac](https://appleinsider.com/articles/25/08/22/amazons-month-end-sale-slashes-up-to-43-off-airpods-apple-watch-ipad-mac?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Email: TikTok plans to lay off several hundred UK trust and safety staff in the UK and Asia, citing &quot;technological advances&quot; such as LLMs in content moderation &lpar;Financial Times&rpar;](http://www.techmeme.com/250822/p10#a250822p10)
  - [&#39;F1: the Movie&#39; is now available to rent or buy](https://appleinsider.com/articles/25/08/22/f1-the-movie-is-now-available-to-rent-or-buy?utm_source=rss)
  - [This Extremely Cute Bean Wants to Help You Stop Doomscrolling](https://www.wired.com/story/this-extremely-cute-bean-wants-to-help-you-stop-doomscrolling/)
  - [Lenovo ThinkBook Plus Gen 6 Rollable Review: Like Magic](https://www.wired.com/review/lenovo-thinkbook-plus-gen-6-rollable/)
- - [What Is Down Alternative and Who Should Buy It? Experts Explain &lpar;2025&rpar;](https://www.wired.com/story/what-is-down-alternative/)
- - [Trump Mobile’s fake iPhone is now a fake S25 Ultra](https://www.theverge.com/news/764175/trump-mobile-t1-phone-samsung-s25-ultra-spigen)<!-- TECH:END -->
+ - [What Is Down Alternative and Who Should Buy It? Experts Explain &lpar;2025&rpar;](https://www.wired.com/story/what-is-down-alternative/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

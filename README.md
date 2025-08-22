@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 😝 [Me me me](http://9gag.com/gag/apR8yB8)
- - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 💣 [Me me me](http://9gag.com/gag/apR8yB8)
+ - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
 

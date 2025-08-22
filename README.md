@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silksong is out soon, and indie games are getting out of the way](https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis)
  - [Meta&#39;s AI Push Leads to $10 Billion Google Cloud Deal, Report Says](https://www.cnet.com/tech/services-and-software/metas-ai-push-leads-to-10-billion-google-cloud-deal-report-says/#ftag=CAD590a51e)
  - [X removes the ability for free-tier developers to like posts and follow users via its API to &quot;protect the platform from spam, bots, and manipulative activities&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p16#a250822p16)
  - [Latest Apple memorabilia auction is a testament to the power of nostalgia](https://appleinsider.com/articles/25/08/22/latest-apple-memorabilia-auction-is-a-testament-to-the-power-of-nostalgia?utm_source=rss)
- - [At This Point, It’s Impossible to Know What the Trump Phone Looks Like](https://www.wired.com/story/trump-phone-t1-samsung-spigen/)
- - [Astronomer’s New CEO Speaks—Yes, About That](https://www.wired.com/story/astronomers-new-ceo-speaks-coldplay/)<!-- TECH:END -->
+ - [At This Point, It’s Impossible to Know What the Trump Phone Looks Like](https://www.wired.com/story/trump-phone-t1-samsung-spigen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

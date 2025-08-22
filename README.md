@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)
- - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 😝 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)
+ - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 💣 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
  - 😝 [Me everyday, 9gag make it a bit better](http://9gag.com/gag/aByoqKD)
- - 👉 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)<!-- MEMES:END -->
+ - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
 
 ---
 

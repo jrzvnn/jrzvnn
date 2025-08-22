@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla plans to roll out in-car voice assistant features powered by DeepSeek and ByteDance&#39;s Doubao in China; Tesla vehicles in the US use Grok &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250822/p17#a250822p17)
+ - [The translucent Beats Studio Buds Plus are half off](https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale)
  - [Silksong is out soon, and indie games are getting out of the way](https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis)
  - [Meta&#39;s AI Push Leads to $10 Billion Google Cloud Deal, Report Says](https://www.cnet.com/tech/services-and-software/metas-ai-push-leads-to-10-billion-google-cloud-deal-report-says/#ftag=CAD590a51e)
- - [X removes the ability for free-tier developers to like posts and follow users via its API to &quot;protect the platform from spam, bots, and manipulative activities&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p16#a250822p16)
- - [Latest Apple memorabilia auction is a testament to the power of nostalgia](https://appleinsider.com/articles/25/08/22/latest-apple-memorabilia-auction-is-a-testament-to-the-power-of-nostalgia?utm_source=rss)
- - [At This Point, It’s Impossible to Know What the Trump Phone Looks Like](https://www.wired.com/story/trump-phone-t1-samsung-spigen/)<!-- TECH:END -->
+ - [X removes the ability for free-tier developers to like posts and follow users via its API to &quot;protect the platform from spam, bots, and manipulative activities&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p16#a250822p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

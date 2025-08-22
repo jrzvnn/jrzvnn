@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Clothing subscription service Rent the Runway gives up around 86% ownership to three lenders in exchange for $240M+ in debt relief and $20M in fresh financing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250821/p33#a250821p33)
+ - [Netflix Anime Hits Anime NYC: &#39;Blue Eye Samurai,&#39; &#39;Splinter Cell: Deathwatch&#39; and More](https://www.cnet.com/tech/services-and-software/netflix-anime-hits-anime-nyc-blue-eye-samurai-splinter-cell-deathwatch-and-more/#ftag=CAD590a51e)
+ - [Netflix’s new Splinter Cell animated series kicks off in October](https://www.theverge.com/netflix/763821/netflix-splinter-cell-deathwatch-release-date-trailer)
  - [Zoom reports Q2 revenue up 5% YoY to $1.22B, Enterprise revenue up 7% to $730.7M, vs. $716.7M est., raises FY 2026 forecast above est.; ZM jumps 6%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250821/p32#a250821p32)
- - [Source: the Trump administration considers taking equity stakes in CHIPS Act recipients but not in firms that are increasing US investment, like TSMC and Micron &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250821/p31#a250821p31)
- - [Source: Meta has signed a deal with Google, worth more than $10B over six years, to use Google Cloud&#39;s servers, storage, networking, and other services &lpar;The Information&rpar;](http://www.techmeme.com/250821/p30#a250821p30)
- - [Leaker provides another look at TechWoven iPhone 17 Pro Max cases](https://appleinsider.com/articles/25/08/21/leaker-provides-another-look-at-techwoven-iphone-17-pro-max-cases?utm_source=rss)
- - [Here are the best streaming service deals available right now](https://www.theverge.com/23353629/streaming-deals-netflix-hulu-disney-plus-amazon-prime-video-hbo-max-best-deal-sale)<!-- TECH:END -->
+ - [Source: the Trump administration considers taking equity stakes in CHIPS Act recipients but not in firms that are increasing US investment, like TSMC and Micron &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250821/p31#a250821p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

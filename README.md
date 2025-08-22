@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta plans to launch its first glasses with a display and a wristband that lets users control the glasses with hand gestures, at Connect in September &lpar;CNBC&rpar;](http://www.techmeme.com/250822/p23#a250822p23)
- - [Apple Watch designs allegedly stolen and provided to Oppo](https://appleinsider.com/articles/25/08/22/apple-watch-designs-allegedly-stolen-and-provided-to-oppo?utm_source=rss)
- - [The power shift inside OpenAI](https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift)
- - [The 50 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Australia orders Binance Australia to hire an external auditor within 28 days over &quot;serious concerns&quot; with money laundering and terrorism financing controls &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250822/p22#a250822p22)<!-- TECH:END -->
+ - [Intel says the US will make an $8.9B investment by purchasing 433.3M primary shares of Intel common stock for $20.47/share; INTC closed on August 22 at $24.80 &lpar;Intel&rpar;](http://www.techmeme.com/250822/p25#a250822p25)
+ - [Bluesky blocks Mississippi under new age verification law](https://www.theverge.com/internet-censorship/764697/bluesky-blocks-mississippi-age-verification-law)
+ - [Meta is going to stuff Midjourney AI images into your feed](https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership)
+ - [Meta announces a partnership with Midjourney, to license the startup&#39;s &quot;aesthetic technology&quot; for Meta&#39;s future models and products &lpar;Alexandr Wang/@alexandr_wang&rpar;](http://www.techmeme.com/250822/p24#a250822p24)
+ - [Sources: Meta plans to launch its first glasses with a display and a wristband that lets users control the glasses with hand gestures, at Connect in September &lpar;CNBC&rpar;](http://www.techmeme.com/250822/p23#a250822p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

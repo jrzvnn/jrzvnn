@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is in talks with Google about using Gemini to power a revamped Siri; Google has started training a model that could run on Apple&#39;s servers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250822/p18#a250822p18)
+ - [Rumored TechWoven iPhone 17 cases just got more real in first leaked video](https://appleinsider.com/articles/25/08/22/rumored-techwoven-iphone-17-cases-just-got-more-real-in-first-leaked-video?utm_source=rss)
  - [Apple chips to be made at newly opened Texas Instruments plant](https://appleinsider.com/articles/25/08/22/apple-chips-to-be-made-at-newly-opened-texas-instruments-plant?utm_source=rss)
  - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
- - [Join Our Next Livestream: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
- - [Tesla plans to roll out in-car voice assistant features powered by DeepSeek and ByteDance&#39;s Doubao in China; Tesla vehicles in the US use Grok &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250822/p17#a250822p17)
- - [The translucent Beats Studio Buds Plus are half off](https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale)<!-- TECH:END -->
+ - [Join Our Next Livestream: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

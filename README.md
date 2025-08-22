@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix wants its partners to follow these rules when using gen AI](https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines)
+ - [Apple sues ex-staffer Chen Shi for allegedly stealing trade secrets to benefit Oppo before leaving Apple in June, claims Oppo knew of and encouraged his actions &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250822/p26#a250822p26)
  - [Intel says the US will make an $8.9B investment by purchasing 433.3M primary shares of Intel common stock for $20.47/share; INTC closed on August 22 at $24.80 &lpar;Intel&rpar;](http://www.techmeme.com/250822/p25#a250822p25)
  - [Bluesky blocks Mississippi under new age verification law](https://www.theverge.com/internet-censorship/764697/bluesky-blocks-mississippi-age-verification-law)
- - [Meta is going to stuff Midjourney AI images into your feed](https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership)
- - [Meta announces a partnership with Midjourney, to license the startup&#39;s &quot;aesthetic technology&quot; for Meta&#39;s future models and products &lpar;Alexandr Wang/@alexandr_wang&rpar;](http://www.techmeme.com/250822/p24#a250822p24)
- - [Sources: Meta plans to launch its first glasses with a display and a wristband that lets users control the glasses with hand gestures, at Connect in September &lpar;CNBC&rpar;](http://www.techmeme.com/250822/p23#a250822p23)<!-- TECH:END -->
+ - [Meta is going to stuff Midjourney AI images into your feed](https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

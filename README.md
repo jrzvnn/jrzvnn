@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
+ - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
  - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 

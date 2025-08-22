@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
- - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)<!-- MEMES:END -->
+ - 😝 [Pron](http://9gag.com/gag/aND3NMb)
+ - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 💣 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
+ - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
 

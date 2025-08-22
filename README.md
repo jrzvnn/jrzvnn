@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me me me](http://9gag.com/gag/apR8yB8)
+ - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
  - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
- - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
+ - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
+ - 😝 [Less than five I&#39;m sure](http://9gag.com/gag/ayNPy0b)
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 

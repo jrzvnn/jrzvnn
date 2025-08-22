@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Massagers for When You’d Rather Not Pay Spa Prices &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
  - [Apple celebrates National Parks&#39; 109th anniversary with Watch &amp; Maps](https://appleinsider.com/articles/25/08/22/apple-celebrates-national-parks-109th-anniversary-with-watch-maps?utm_source=rss)
  - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
  - [A look at the invite-only iOS and Android apps for Digg, which now operates similarly to Reddit, with links with a lot of &quot;diggs&quot; moving up the feed &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250822/p13#a250822p13)
- - [Epic Games investor Y Combinator unsurprisingly files anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
- - [Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever](https://www.wired.com/review/rad-power-bikes-radrunner-max/)<!-- TECH:END -->
+ - [Epic Games investor Y Combinator unsurprisingly files anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

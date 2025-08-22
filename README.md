@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple chips to be made at newly opened Texas Instruments plant](https://appleinsider.com/articles/25/08/22/apple-chips-to-be-made-at-newly-opened-texas-instruments-plant?utm_source=rss)
+ - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)
+ - [Join Our Next Livestream: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
  - [Tesla plans to roll out in-car voice assistant features powered by DeepSeek and ByteDance&#39;s Doubao in China; Tesla vehicles in the US use Grok &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/250822/p17#a250822p17)
- - [The translucent Beats Studio Buds Plus are half off](https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale)
- - [Premier League Soccer: Stream West Ham vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
- - [Best 6 TVs I&#39;ve Tested for August 2025](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Silksong is out soon, and indie games are getting out of the way](https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis)<!-- TECH:END -->
+ - [The translucent Beats Studio Buds Plus are half off](https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

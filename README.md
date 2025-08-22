@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC grants Waymo its first permit, which extends through late September, to test up to eight of its autonomous vehicles in Manhattan and Downtown Brooklyn &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250822/p15#a250822p15)
- - [Source: Snap is considering raising outside money to fund Spectacles development or spinning off Spectacles, to compete with deeper-pocketed rivals like Meta &lpar;The Information&rpar;](http://www.techmeme.com/250822/p14#a250822p14)
- - [Best Massagers for When You’d Rather Not Pay Spa Prices &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-massagers/)
- - [Apple celebrates National Parks&#39; 109th anniversary with Watch &amp; Maps](https://appleinsider.com/articles/25/08/22/apple-celebrates-national-parks-109th-anniversary-with-watch-maps?utm_source=rss)
- - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [X removes the ability for free-tier developers to like posts and follow users via its API to &quot;protect the platform from spam, bots, and manipulative activities&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p16#a250822p16)
+ - [Latest Apple memorabilia auction is a testament to the power of nostalgia](https://appleinsider.com/articles/25/08/22/latest-apple-memorabilia-auction-is-a-testament-to-the-power-of-nostalgia?utm_source=rss)
+ - [At This Point, It’s Impossible to Know What the Trump Phone Looks Like](https://www.wired.com/story/trump-phone-t1-samsung-spigen/)
+ - [Astronomer’s New CEO Speaks—Yes, About That](https://www.wired.com/story/astronomers-new-ceo-speaks-coldplay/)
+ - [NYC grants Waymo its first permit, which extends through late September, to test up to eight of its autonomous vehicles in Manhattan and Downtown Brooklyn &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250822/p15#a250822p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
- - [Netflix’s Long Story Short is a more human successor to BoJack Horseman](https://www.theverge.com/tv-reviews/763955/long-story-short-review-netflix-bojack-horseman)
- - [Sources: OpenAI has been partially using Google search results scraped by a startup called SerpApi for ChatGPT responses on current events like news and sports &lpar;The Information&rpar;](http://www.techmeme.com/250822/p12#a250822p12)
- - [Google&#39;s Pixel 10 event, Apple&#39;s &#39;TechWoven&#39; iPhone cases, and more, on the AppleInsider Podcast](https://appleinsider.com/articles/25/08/22/googles-pixel-10-event-apples-techwoven-iphone-cases-and-more-on-the-appleinsider-podcast?utm_source=rss)
- - [Filing: OnlyFans took in $7.2B from subscribers in FY ending Nov. 2024, up from $6.6B YoY, and paid out $5.8B, up from $5.3B; creator accounts grew 13% to 4.6M &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250822/p11#a250822p11)<!-- TECH:END -->
+ - [Epic Games investor Y Combinator unsurprisingly files anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
+ - [Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever](https://www.wired.com/review/rad-power-bikes-radrunner-max/)
+ - [Belkin’s first 25W Qi2 chargers power up multiple devices](https://www.theverge.com/news/763659/belkin-qi2-2-25w-wireless-charging-ultracharge-pro)
+ - [Google made it easier to edit your Drive videos](https://www.theverge.com/news/764221/google-drive-video-editing-vids-shortcut)
+ - [Google’s AI-stuffed Pixel 10 event](https://www.theverge.com/the-vergecast/764217/vergecast-google-pixel-10-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

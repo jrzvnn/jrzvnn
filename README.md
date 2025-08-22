@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
  - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
  - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
+ - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
  - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
+ - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 😝 [UK is not a place to visit anymore.](http://9gag.com/gag/aryzPGd)
  - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
 
 ---

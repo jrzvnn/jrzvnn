@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 💣 [Lol](http://9gag.com/gag/avymYZZ)
- - 😝 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)
- - 👉 [UK is not a place to visit anymore.](http://9gag.com/gag/aryzPGd)<!-- MEMES:END -->
+ - 😝 [Me me me](http://9gag.com/gag/apR8yB8)
+ - 💣 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 👉 [Never forget him](http://9gag.com/gag/adBb3nB)<!-- MEMES:END -->
 
 ---
 

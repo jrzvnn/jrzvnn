@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pron](http://9gag.com/gag/aND3NMb)
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 💣 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
+ - 😝 [Me me me](http://9gag.com/gag/apR8yB8)
+ - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
 
 ---
 

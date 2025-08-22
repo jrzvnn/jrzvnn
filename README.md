@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump says Intel has agreed to give the US a ~10% stake; source: the government won&#39;t be on the board or play a major role in Intel&#39;s governance; INTC jumps 6%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250822/p20#a250822p20)
+ - [Trump says the US is taking a 10 percent stake in Intel](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)
+ - [Trump says Intel has agreed to give the US a 10% stake; source: the government won&#39;t be on the board or play a major role in Intel&#39;s governance; INTC jumps 6%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250822/p20#a250822p20)
  - [Axbylute will actually sell Intel and Tencent’s gigantic glasses-free 3D handheld](https://www.theverge.com/report/763957/axbylute-will-actually-sell-intel-and-tencents-gigantic-glasses-free-3d-handheld)
  - [Phony Apple support pages push malware that slips past Mac security](https://appleinsider.com/articles/25/08/22/phony-apple-support-pages-push-malware-that-slips-past-mac-security?utm_source=rss)
- - [Microsoft tests letting you resume Android apps on Windows 11](https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11)
- - [Gemini could join other third-party AI systems in boosting Siri Intelligence](https://appleinsider.com/articles/25/08/22/gemini-could-join-other-third-party-ai-systems-in-boosting-siri-intelligence?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft tests letting you resume Android apps on Windows 11](https://www.theverge.com/news/764484/microsoft-tests-letting-you-resume-android-apps-on-windows-11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Majority rules, unless it&#39;s kim jong un](http://9gag.com/gag/aRBD55j)
- - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 💣 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
- - 👉 [C minus students](http://9gag.com/gag/aND3xvb)<!-- MEMES:END -->
+ - 😝 [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 💣 [Lol](http://9gag.com/gag/avymYZZ)
+ - 😝 [Golden Age of Anime](http://9gag.com/gag/aPAnObn)
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 

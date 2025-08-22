@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me me me](http://9gag.com/gag/apR8yB8)
  - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
  - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
- - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
+ - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Which do you like](http://9gag.com/gag/aQzVGzz)
- - 😝 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
- - 💣 [Peter Parker&#39;s face says it all, who is number one](http://9gag.com/gag/aO8GgpD)
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 😝 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
+ - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
  - 😝 [Sanji gets all blue...](http://9gag.com/gag/a4PVeVd)
- - 👉 [Looks awesome](http://9gag.com/gag/adBbZbM)<!-- MEMES:END -->
+ - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump admin plans to reallocate $2B+ from CHIPS Act to fund critical minerals projects, aiming to cut US reliance on China for key resources &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p5#a250822p5)
  - [OpenAI says its Chief People Officer Julia Villagra will leave on August 22; Villagra joined in February 2024 and was promoted to the role in March 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250822/p4#a250822p4)
  - [Court filing: Elon Musk says he talked to Mark Zuckerberg in February about backing a $97.4B OpenAI bid, but neither he nor Meta signed a letter of intent &lpar;Financial Times&rpar;](http://www.techmeme.com/250822/p3#a250822p3)
  - [Paramount Plus Coupon Codes and Deals: Up to 50% Off in August](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [KitchenAid Promo Code: $150 Off in August 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Jensen Huang says Nvidia is in talks with China over H20 security concerns, is hopeful for a resolution, and reiterates that the H20 has no &quot;security backdoors&quot; &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250822/p2#a250822p2)<!-- TECH:END -->
+ - [KitchenAid Promo Code: $150 Off in August 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

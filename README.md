@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
- - 😝 [My back still hurts](http://9gag.com/gag/awyvqLB)
- - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
+ - 😝 [Me me me](http://9gag.com/gag/apR8yB8)
+ - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 💣 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 😝 [Latvia: *snoooort*](http://9gag.com/gag/avymbRb)
+ - 👉 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)<!-- MEMES:END -->
 
 ---
 

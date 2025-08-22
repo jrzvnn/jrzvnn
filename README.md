@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Australia orders Binance Australia to hire an external auditor within 28 days over &quot;serious concerns&quot; with money laundering and terrorism financing controls &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250822/p22#a250822p22)
+ - [A Beloved &#39;Cyberpunk: Edgerunners&#39; Character Just Made Her Fighting Game Debut](https://www.cnet.com/tech/gaming/a-beloved-cyberpunk-edgerunners-character-just-made-her-fighting-game-debut/#ftag=CAD590a51e)
  - [Belkin UltraCharge Pro 3-in-1 &amp; travel charger review: Wired performance, wireless convenience](https://appleinsider.com/articles/25/08/22/belkin-ultracharge-pro-3-in-1-travel-charger-review-wired-performance-wireless-convenience?utm_source=rss)
  - [Workers need better protections from the heat](https://www.theverge.com/news/764463/heat-stress-health-work-protections)
- - [Ontic, whose software helps corporate security teams respond to physical threats, raised a $230M Series C led by KKR, following a $40M Series B in November 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p21#a250822p21)
- - [Trump says the US is taking a 10 percent stake in Intel](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)<!-- TECH:END -->
+ - [Roborock Says a Robot Vacuum With an Arm Will Cost Just a Few Hundred Dollars](https://www.cnet.com/home/kitchen-and-household/roborock-says-a-robot-vacuum-with-an-arm-will-cost-just-a-few-hundred-dollars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

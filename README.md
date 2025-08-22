@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
  - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 💣 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [In a doctor&#39;s waiting room](http://9gag.com/gag/aoyDXOg)
+ - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
 
 ---
 

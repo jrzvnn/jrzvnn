@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
- - 👉 [Damn those white racists pizza deliveroos!](http://9gag.com/gag/axy45KK)<!-- MEMES:END -->
+ - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 😝 [Damn those white racists pizza deliveroos!](http://9gag.com/gag/axy45KK)
+ - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
  - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
- - 😝 [UK is not a place to visit anymore.](http://9gag.com/gag/aryzPGd)
- - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
+ - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
 
 ---
 

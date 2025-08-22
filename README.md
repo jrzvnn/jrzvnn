@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch designs allegedly stolen and provided to Oppo](https://appleinsider.com/articles/25/08/22/apple-watch-designs-allegedly-stolen-and-provided-to-oppo?utm_source=rss)
+ - [The power shift inside OpenAI](https://www.theverge.com/command-line-newsletter/764650/openai-chatgpt-fidji-simo-sam-altman-power-shift)
  - [The 50 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
  - [Australia orders Binance Australia to hire an external auditor within 28 days over &quot;serious concerns&quot; with money laundering and terrorism financing controls &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250822/p22#a250822p22)
- - [A Beloved &#39;Cyberpunk: Edgerunners&#39; Character Just Made Her Fighting Game Debut](https://www.cnet.com/tech/gaming/a-beloved-cyberpunk-edgerunners-character-just-made-her-fighting-game-debut/#ftag=CAD590a51e)
- - [Belkin UltraCharge Pro 3-in-1 &amp; travel charger review: Wired performance, wireless convenience](https://appleinsider.com/articles/25/08/22/belkin-ultracharge-pro-3-in-1-travel-charger-review-wired-performance-wireless-convenience?utm_source=rss)
- - [Workers need better protections from the heat](https://www.theverge.com/news/764463/heat-stress-health-work-protections)<!-- TECH:END -->
+ - [A Beloved &#39;Cyberpunk: Edgerunners&#39; Character Just Made Her Fighting Game Debut](https://www.cnet.com/tech/gaming/a-beloved-cyberpunk-edgerunners-character-just-made-her-fighting-game-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

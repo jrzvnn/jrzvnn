@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
  - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
  - 💣 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [UK is not a place to visit anymore.](http://9gag.com/gag/aryzPGd)
- - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
+ - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 👉 [Damn those white racists pizza deliveroos!](http://9gag.com/gag/axy45KK)<!-- MEMES:END -->
 
 ---
 

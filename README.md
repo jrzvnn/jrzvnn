@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 😝 [Aaaaand its gone!](http://9gag.com/gag/aND3xpr)
- - 👉 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)<!-- MEMES:END -->
+ - 😝 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
+ - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 💣 [A lioness joins the safari tour bus for some cuddles](http://9gag.com/gag/aE0E9NN)
+ - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
+ - 👉 [As all things should be](http://9gag.com/gag/aQzVGWW)<!-- MEMES:END -->
 
 ---
 

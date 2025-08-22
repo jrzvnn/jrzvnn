@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Majority rules, unless it&#39;s kim jong un](http://9gag.com/gag/aRBD55j)
  - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 💣 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 💣 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
  - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
  - 👉 [C minus students](http://9gag.com/gag/aND3xvb)<!-- MEMES:END -->
 

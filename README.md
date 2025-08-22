@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
  - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
+ - 💣 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
  - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 ---
 

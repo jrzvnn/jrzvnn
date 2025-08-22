@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 💣 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 😝 [Sanji gets all blue...](http://9gag.com/gag/a4PVeVd)
- - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
+ - 😝 [No autotune](http://9gag.com/gag/a5QDmoG)
+ - 😝 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
+ - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
+ - 👉 [Which do you like](http://9gag.com/gag/aQzVGzz)<!-- MEMES:END -->
 
 ---
 

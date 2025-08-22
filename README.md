@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 😝 [Me me me](http://9gag.com/gag/apR8yB8)
- - 💣 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 👉 [Never forget him](http://9gag.com/gag/adBb3nB)<!-- MEMES:END -->
+ - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 😝 [Me everyday, 9gag make it a bit better](http://9gag.com/gag/aByoqKD)
+ - 👉 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)<!-- MEMES:END -->
 
 ---
 

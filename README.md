@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin UltraCharge Pro 3-in-1 &amp; travel charger review: Wired performance, wireless convenience](https://appleinsider.com/articles/25/08/22/belkin-ultracharge-pro-3-in-1-travel-charger-review-wired-performance-wireless-convenience?utm_source=rss)
+ - [Workers need better protections from the heat](https://www.theverge.com/news/764463/heat-stress-health-work-protections)
  - [Ontic, whose software helps corporate security teams respond to physical threats, raised a $230M Series C led by KKR, following a $40M Series B in November 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p21#a250822p21)
  - [Trump says the US is taking a 10 percent stake in Intel](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)
- - [Trump says Intel has agreed to give the US a 10% stake; source: the government won&#39;t be on the board or play a major role in Intel&#39;s governance; INTC jumps 6%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250822/p20#a250822p20)
- - [Axbylute will actually sell Intel and Tencent’s gigantic glasses-free 3D handheld](https://www.theverge.com/report/763957/axbylute-will-actually-sell-intel-and-tencents-gigantic-glasses-free-3d-handheld)
- - [Phony Apple support pages push malware that slips past Mac security](https://appleinsider.com/articles/25/08/22/phony-apple-support-pages-push-malware-that-slips-past-mac-security?utm_source=rss)<!-- TECH:END -->
+ - [Trump says Intel has agreed to give the US a 10% stake; source: the government won&#39;t be on the board or play a major role in Intel&#39;s governance; INTC jumps 6%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250822/p20#a250822p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

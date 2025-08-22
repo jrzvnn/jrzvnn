@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Become a Vibe Coder](https://www.wired.com/story/uncanny-valley-podcast-how-to-become-a-vibe-coder/)
+ - [Automaker Geely Launched Its Own Satellites Into Space, Highlighting China’s Ambitions](https://www.wired.com/story/geely-satellites-china-auto-ambitions/)
+ - [Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
  - [OpenAI sets up a legal entity, and plans to open its first office in India after launching ChatGPT Go, its cheapest plan, in the country on August 19 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250822/p8#a250822p8)
- - [Scientists Find a New Moon Orbiting Uranus](https://www.wired.com/story/new-moon-identified-on-uranus-orbiting-close-to-its-ring-system/)
- - [Sources: EU officials are fast-tracking digital euro plans, and considering Ethereum or Solana over a private blockchain after the US passed the Genius Act &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250822/p7#a250822p7)
- - [Florida man orders beautification of America after gold-plating the White House](https://www.theverge.com/news/764142/trump-executive-order-national-design-studio)
- - [11 Tips for Getting Started in Metal Gear Solid Delta: Snake Eater](https://www.cnet.com/tech/gaming/11-tips-for-getting-started-in-metal-gear-solid-delta-snake-eater/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists Find a New Moon Orbiting Uranus](https://www.wired.com/story/new-moon-identified-on-uranus-orbiting-close-to-its-ring-system/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI sets up a legal entity, and plans to open its first office in India after launching ChatGPT Go, its cheapest plan, in the country on August 19 &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/250822/p8#a250822p8)
+ - [Scientists Find a New Moon Orbiting Uranus](https://www.wired.com/story/new-moon-identified-on-uranus-orbiting-close-to-its-ring-system/)
  - [Sources: EU officials are fast-tracking digital euro plans, and considering Ethereum or Solana over a private blockchain after the US passed the Genius Act &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250822/p7#a250822p7)
  - [Florida man orders beautification of America after gold-plating the White House](https://www.theverge.com/news/764142/trump-executive-order-national-design-studio)
- - [11 Tips for Getting Started in Metal Gear Solid Delta: Snake Eater](https://www.cnet.com/tech/gaming/11-tips-for-getting-started-in-metal-gear-solid-delta-snake-eater/#ftag=CAD590a51e)
- - [Vivo demos Vivo Vision, its first MR headset, which looks like an Apple Vision Pro clone but is ~40% lighter with micro-OLED displays, and could cost ~$1,400 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250822/p6#a250822p6)
- - [Sources: the Trump admin plans to reallocate $2B+ from CHIPS Act to fund critical minerals projects, aiming to cut US reliance on China for key resources &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p5#a250822p5)<!-- TECH:END -->
+ - [11 Tips for Getting Started in Metal Gear Solid Delta: Snake Eater](https://www.cnet.com/tech/gaming/11-tips-for-getting-started-in-metal-gear-solid-delta-snake-eater/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

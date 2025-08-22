@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Apple One worth the money, as 2026 nears?](https://appleinsider.com/articles/25/08/22/is-apple-one-worth-the-money-as-2026-nears?utm_source=rss)
  - [Cloud security provider Netskope files for a US IPO, reports H1 FY 2026 revenue up 30.7% YoY to $328.5M; it is seeking to raise $500M+ at a $5B+ valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250822/p19#a250822p19)
  - [Sources: Apple is in talks with Google about using Gemini to power a revamped Siri; Google has started training a model that could run on Apple&#39;s servers &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250822/p18#a250822p18)
  - [Rumored TechWoven iPhone 17 cases just got more real in first leaked video](https://appleinsider.com/articles/25/08/22/rumored-techwoven-iphone-17-cases-just-got-more-real-in-first-leaked-video?utm_source=rss)
- - [Apple chips to be made at newly opened Texas Instruments plant](https://appleinsider.com/articles/25/08/22/apple-chips-to-be-made-at-newly-opened-texas-instruments-plant?utm_source=rss)
- - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Apple chips to be made at newly opened Texas Instruments plant](https://appleinsider.com/articles/25/08/22/apple-chips-to-be-made-at-newly-opened-texas-instruments-plant?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

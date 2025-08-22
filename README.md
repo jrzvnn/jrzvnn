@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [As all things should be](http://9gag.com/gag/aQzVGWW)
- - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 😝 [Which do you like](http://9gag.com/gag/aQzVGzz)
+ - 😝 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
+ - 💣 [Peter Parker&#39;s face says it all, who is number one](http://9gag.com/gag/aO8GgpD)
  - 😝 [Sanji gets all blue...](http://9gag.com/gag/a4PVeVd)
- - 👉 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)<!-- MEMES:END -->
+ - 👉 [Looks awesome](http://9gag.com/gag/adBbZbM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky blocks access to its service in Mississippi, saying it doesn&#39;t have the resources to comply with the state&#39;s broad new law requiring age verification &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p28#a250822p28)
+ - [Amazon&#39;s month-end sale slashes up to 43% off AirPods, Apple Watch, iPad, Mac](https://appleinsider.com/articles/25/08/22/amazons-month-end-sale-slashes-up-to-43-off-airpods-apple-watch-ipad-mac?utm_source=rss)
+ - [Ether surged 15% late Friday, rising as high as $4,885 and surpassing its November 2021 record of $4,866.01 after Fed Chair Jerome Powell hinted at rate cuts &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250822/p27#a250822p27)
  - [Netflix wants its partners to follow these rules when using gen AI](https://www.theverge.com/netflix/764433/netflix-gen-ai-production-guidelines)
- - [Apple sues ex-staffer Chen Shi for allegedly stealing trade secrets to benefit Oppo before leaving Apple in June, claims Oppo knew of and encouraged his actions &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250822/p26#a250822p26)
- - [Intel says the US will make an $8.9B investment by purchasing 433.3M primary shares of Intel common stock for $20.47/share; INTC closed on August 22 at $24.80 &lpar;Intel&rpar;](http://www.techmeme.com/250822/p25#a250822p25)
- - [Bluesky blocks Mississippi under new age verification law](https://www.theverge.com/internet-censorship/764697/bluesky-blocks-mississippi-age-verification-law)
- - [Meta is going to stuff Midjourney AI images into your feed](https://www.theverge.com/news/764715/meta-ai-midjourney-license-partnership)<!-- TECH:END -->
+ - [Apple sues ex-staffer Chen Shi for allegedly stealing trade secrets to benefit Oppo before leaving Apple in June, claims Oppo knew of and encouraged his actions &lpar;Newley Purnell/Bloomberg&rpar;](http://www.techmeme.com/250822/p26#a250822p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

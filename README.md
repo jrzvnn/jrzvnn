@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 💣 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
- - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
+ - 😝 [Man attempts to lift an air conditioner, fails spectacularly](http://9gag.com/gag/aXPeDzb)
+ - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 💣 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 😝 [Me everyday, 9gag make it a bit better](http://9gag.com/gag/aByoqKD)
+ - 👉 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)<!-- MEMES:END -->
 
 ---
 

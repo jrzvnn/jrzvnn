@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 💣 [A lioness joins the safari tour bus for some cuddles](http://9gag.com/gag/aE0E9NN)
- - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
- - 👉 [As all things should be](http://9gag.com/gag/aQzVGWW)<!-- MEMES:END -->
+ - 😝 [Lucky](http://9gag.com/gag/aVvBpNv)
+ - 😝 [As all things should be](http://9gag.com/gag/aQzVGWW)
+ - 💣 [Why do men only drive in African Safaris?](http://9gag.com/gag/a34nmgN)
+ - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 👉 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)<!-- MEMES:END -->
 
 ---
 

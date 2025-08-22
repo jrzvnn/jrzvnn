@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
+ - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
  - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
- - 😝 [Less than five I&#39;m sure](http://9gag.com/gag/ayNPy0b)
- - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
+ - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
+ - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
 
 ---
 

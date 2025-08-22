@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Bluesky Goes Dark in Mississippi Over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
  - [On its 10th anniversary, YouTube Music gets new features, including &quot;Taste Match&quot; playlists similar to Spotify Blend and event notifications through Bandsintown &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p30#a250822p30)
  - [Pattern, an e-commerce firm that resells goods on online marketplaces, files for a US IPO, reporting net income of $32.1M on revenue of $1.1B for H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p29#a250822p29)
- - [The Trump-Intel Deal Is Official](https://www.wired.com/story/trump-announce-intel-deal-equity-stake/)<!-- TECH:END -->
+ - [How to Watch &#39;Unforgotten&#39;: Stream Season 6 Anywhere for Free](https://www.cnet.com/tech/services-and-software/how-to-watch-unforgotten-stream-season-6-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

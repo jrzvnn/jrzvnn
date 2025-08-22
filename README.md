@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo](https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit)
+ - [Bluesky Goes Dark in Mississippi Over Age Verification Law](https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/)
+ - [On its 10th anniversary, YouTube Music gets new features, including &quot;Taste Match&quot; playlists similar to Spotify Blend and event notifications through Bandsintown &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p30#a250822p30)
  - [Pattern, an e-commerce firm that resells goods on online marketplaces, files for a US IPO, reporting net income of $32.1M on revenue of $1.1B for H1 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p29#a250822p29)
- - [The Trump-Intel Deal Is Official](https://www.wired.com/story/trump-announce-intel-deal-equity-stake/)
- - [US government takes 10 percent stake in Intel in exchange for money it was already on the hook for](https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal)
- - [Bluesky blocks access to its service in Mississippi, saying it doesn&#39;t have the resources to comply with the state&#39;s broad new law requiring age verification &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250822/p28#a250822p28)
- - [Amazon&#39;s month-end sale slashes up to 43% off AirPods, Apple Watch, iPad, Mac](https://appleinsider.com/articles/25/08/22/amazons-month-end-sale-slashes-up-to-43-off-airpods-apple-watch-ipad-mac?utm_source=rss)<!-- TECH:END -->
+ - [The Trump-Intel Deal Is Official](https://www.wired.com/story/trump-announce-intel-deal-equity-stake/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

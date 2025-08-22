@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
- - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 💣 [Me me me](http://9gag.com/gag/apR8yB8)
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 👉 [The Who?](http://9gag.com/gag/a7oAzGL)<!-- MEMES:END -->
+ - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 💣 [The kind of manipulation men want](http://9gag.com/gag/apR8Wb8)
+ - 😝 [Sanji gets all blue...](http://9gag.com/gag/a4PVeVd)
+ - 👉 [Gentleman](http://9gag.com/gag/a9yBQYK)<!-- MEMES:END -->
 
 ---
 

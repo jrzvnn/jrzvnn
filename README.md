@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: EU officials are fast-tracking digital euro plans, and considering Ethereum or Solana over a private blockchain after the US passed the Genius Act &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250822/p7#a250822p7)
+ - [Florida man orders beautification of America after gold-plating the White House](https://www.theverge.com/news/764142/trump-executive-order-national-design-studio)
  - [11 Tips for Getting Started in Metal Gear Solid Delta: Snake Eater](https://www.cnet.com/tech/gaming/11-tips-for-getting-started-in-metal-gear-solid-delta-snake-eater/#ftag=CAD590a51e)
  - [Vivo demos Vivo Vision, its first MR headset, which looks like an Apple Vision Pro clone but is ~40% lighter with micro-OLED displays, and could cost ~$1,400 &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250822/p6#a250822p6)
- - [Sources: the Trump admin plans to reallocate $2B+ from CHIPS Act to fund critical minerals projects, aiming to cut US reliance on China for key resources &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p5#a250822p5)
- - [OpenAI says its Chief People Officer Julia Villagra will leave on August 22; Villagra joined in February 2024 and was promoted to the role in March 2024 &lpar;Anna Tong/Reuters&rpar;](http://www.techmeme.com/250822/p4#a250822p4)
- - [Court filing: Elon Musk says he talked to Mark Zuckerberg in February about backing a $97.4B OpenAI bid, but neither he nor Meta signed a letter of intent &lpar;Financial Times&rpar;](http://www.techmeme.com/250822/p3#a250822p3)<!-- TECH:END -->
+ - [Sources: the Trump admin plans to reallocate $2B+ from CHIPS Act to fund critical minerals projects, aiming to cut US reliance on China for key resources &lpar;Reuters&rpar;](http://www.techmeme.com/250822/p5#a250822p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

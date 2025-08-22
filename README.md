@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
- - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 💣 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
- - 👉 [Me me me](http://9gag.com/gag/apR8yB8)<!-- MEMES:END -->
+ - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 💣 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
+ - 😝 [With what money?](http://9gag.com/gag/aZZvGr0)
+ - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
 
 ---
 

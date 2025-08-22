@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No autotune](http://9gag.com/gag/a5QDmoG)
- - 😝 [Gender pay gap](http://9gag.com/gag/a6Z8AE8)
- - 💣 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 😝 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
- - 👉 [Which do you like](http://9gag.com/gag/aQzVGzz)<!-- MEMES:END -->
+ - 😝 [Looks like meat is back on the menu boys](http://9gag.com/gag/a87zZ6p)
+ - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
+ - 💣 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 😝 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)
+ - 👉 [Me me me](http://9gag.com/gag/apR8yB8)<!-- MEMES:END -->
 
 ---
 

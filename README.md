@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Best Early Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
  - [English Premier League Soccer: Livestream Brentford vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/english-premier-league-soccer-livestream-brentford-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
  - [The iPhone 17 Release Date Is Coming Up Fast, but When? Leaks Hint at an Exact Date](https://www.cnet.com/tech/mobile/the-iphone-17-release-date-is-coming-up-fast-but-when-leaks-hint-at-an-exact-date/#ftag=CAD590a51e)
  - [&#39;Peacemaker&#39; Season 2 Release Schedule: Here&#39;s When You Can Watch Episode 2](https://www.cnet.com/tech/services-and-software/peacemaker-season-2-schedule-heres-when-you-can-watch-episode-2/#ftag=CAD590a51e)
- - [Coway Bidetmega 500S Review: Cleanliness and Comfort Come Full Circle &lpar;or Elongated&rpar;](https://www.cnet.com/health/coway-bidetmega-500s-review-cleanliness-and-comfort-comes-full-circle-or-elongated/#ftag=CAD590a51e)
- - [Climate Change Is Bringing Legionnaire’s Disease to a Town Near You](https://www.wired.com/story/this-deadly-bacteria-was-once-an-only-in-new-york-problem-not-anymore/)<!-- TECH:END -->
+ - [Coway Bidetmega 500S Review: Cleanliness and Comfort Come Full Circle &lpar;or Elongated&rpar;](https://www.cnet.com/health/coway-bidetmega-500s-review-cleanliness-and-comfort-comes-full-circle-or-elongated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

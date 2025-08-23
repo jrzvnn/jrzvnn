@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Y Combinator unsurprisingly files Epic-friendly anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
  - [Apple Watch designs allegedly stolen and provided to Oppo](https://appleinsider.com/articles/25/08/22/apple-watch-designs-allegedly-stolen-and-provided-to-oppo?utm_source=rss)
  - [Airbnb co-founder Joe Gebbia, named by Trump as the first US chief design officer, says he wants to update federal websites to an &quot;Apple Store-like experience&quot; &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250823/p13#a250823p13)
  - [Some lawyers and bankers say the Intel deal may face legal challenges as the CHIPS Act may not allow the US government to convert grants into equity &lpar;New York Times&rpar;](http://www.techmeme.com/250823/p12#a250823p12)
- - [The 12 Best Foods to Eat for Eye Health](https://www.cnet.com/health/personal-care/the-12-best-foods-to-eat-for-eye-health/#ftag=CAD590a51e)
- - [Sources: in a meeting with UK Technology Secretary Peter Kyle, Sam Altman proposed giving ChatGPT Plus to everyone in the UK, a deal that would have cost £2B &lpar;The Guardian&rpar;](http://www.techmeme.com/250823/p11#a250823p11)<!-- TECH:END -->
+ - [The 12 Best Foods to Eat for Eye Health](https://www.cnet.com/health/personal-care/the-12-best-foods-to-eat-for-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

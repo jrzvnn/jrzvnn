@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
- - 💣 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)
- - 😝 [Land pirates delivering pizza, what a time](http://9gag.com/gag/aGyoK87)
- - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 💣 [Not fair](http://9gag.com/gag/ajPybbQ)
- - 😝 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
- - 👉 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)<!-- MEMES:END -->
+ - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
+ - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 💣 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)
+ - 😝 [Land pirates delivering pizza, what a time](http://9gag.com/gag/aGyoK87)
+ - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
 
 ---
 

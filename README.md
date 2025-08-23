@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Climate Change Is Bringing Legionnaire’s Disease to a Town Near You](https://www.wired.com/story/this-deadly-bacteria-was-once-an-only-in-new-york-problem-not-anymore/)
- - [Q&amp;A with David Luan, head of Amazon&#39;s AGI research lab, on leaving Adept in a reverse acquihire deal, why he believes progress on AI models has slowed, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250823/p7#a250823p7)
- - [US Government Seeks Medical Records of Trans Youth](https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/)
- - [I Can’t Stop Playing Duolingo Chess](https://www.wired.com/story/duolingo-chess/)
- - [Your Guide to the Latest Details on Disneyland and Disney World: New Rides, Lands, Shows and Attractions](https://www.cnet.com/tech/services-and-software/your-guide-to-the-latest-details-on-disneyland-and-disney-world-new-rides-lands-shows-and-attractions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [English Premier League Soccer: Livestream Brentford vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/english-premier-league-soccer-livestream-brentford-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
+ - [The iPhone 17 Release Date Is Coming Up Fast, but When? Leaks Hint at an Exact Date](https://www.cnet.com/tech/mobile/the-iphone-17-release-date-is-coming-up-fast-but-when-leaks-hint-at-an-exact-date/#ftag=CAD590a51e)
+ - [&#39;Peacemaker&#39; Season 2 Release Schedule: Here&#39;s When You Can Watch Episode 2](https://www.cnet.com/tech/services-and-software/peacemaker-season-2-schedule-heres-when-you-can-watch-episode-2/#ftag=CAD590a51e)
+ - [Coway Bidetmega 500S Review: Cleanliness and Comfort Come Full Circle &lpar;or Elongated&rpar;](https://www.cnet.com/health/coway-bidetmega-500s-review-cleanliness-and-comfort-comes-full-circle-or-elongated/#ftag=CAD590a51e)
+ - [Climate Change Is Bringing Legionnaire’s Disease to a Town Near You](https://www.wired.com/story/this-deadly-bacteria-was-once-an-only-in-new-york-problem-not-anymore/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

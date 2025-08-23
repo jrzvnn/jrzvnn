@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How AI is increasingly being used to replace human content moderators, who say that the tech is not yet capable of reliably identifying harmful content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250823/p8#a250823p8)
  - [How to Build a PC &lpar;2025&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
  - [Apple Store in Bengaluru prepares for September 2 opening](https://appleinsider.com/articles/25/08/23/apple-store-in-bengaluru-prepares-for-september-2-opening?utm_source=rss)
- - [Ninja Gaiden: Ragebound is a perfect reimagining of the classic series](https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc)<!-- TECH:END -->
+ - [The Star of Made by Google Wasn&#39;t the Pixel 10. It Was Jimmy Fallon](https://www.cnet.com/tech/mobile/the-star-of-made-by-google-wasnt-the-pixel-10-it-was-jimmy-fallon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

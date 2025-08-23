@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
  - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
  - 💣 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 😝 [Swedens greatest contribution to NATO](http://9gag.com/gag/a4Pxpe1)
- - 👉 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)<!-- MEMES:END -->
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
+ - 👉 [What are you doing for living?](http://9gag.com/gag/a87zrKY)<!-- MEMES:END -->
 
 ---
 

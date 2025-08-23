@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
  - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
- - 💣 [Not fair](http://9gag.com/gag/ajPybbQ)
+ - 💣 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
  - 😝 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
  - 👉 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s move to ban online real-money games over addiction and money laundering concerns appears valid, but it may push users toward offshore crypto casinos &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250823/p2#a250823p2)
+ - [Major real-money gaming platforms in India halted cash games after President Murmu signed the Promotion and Regulation of Online Gaming Act, 2025, into law &lpar;The Hindu&rpar;](http://www.techmeme.com/250823/p1#a250823p1)
  - [Istanbul-based stock and crypto brokerage Midas raised an $80M Series B led by QED Investors, valuing the company, sources say, at nearly $1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250822/p33#a250822p33)
  - [Sources: Visa shut down its open-banking business in the US amid regulatory uncertainty; the unit provided tools to help fintechs access customer-account data &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/250822/p32#a250822p32)
- - [Premier League Soccer: Stream Man City vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)
- - [US Government Makes $8.9B Investment to Take 10% Stake in Intel](https://www.cnet.com/tech/computing/us-government-makes-8-9b-investment-to-take-10-stake-in-intel/#ftag=CAD590a51e)
- - [Databricks plans to acquire Tecton, which helps companies build and deploy ML applications, for an undisclosed sum; Tecton was valued at $900M in 2022 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250822/p31#a250822p31)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Man City vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
- - 😝 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)
- - 💣 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
- - 😝 [Your take?](http://9gag.com/gag/apRdKz5)
- - 👉 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)<!-- MEMES:END -->
+ - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 💣 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [C minus students](http://9gag.com/gag/aND3xvb)<!-- MEMES:END -->
 
 ---
 

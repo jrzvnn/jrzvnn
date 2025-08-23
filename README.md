@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 😝 [Balls of steel or stupidity](http://9gag.com/gag/agmjRyw)
- - 💣 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [What are you doing for living?](http://9gag.com/gag/a87zrKY)<!-- MEMES:END -->
+ - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 💣 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
+ - 😝 [Fool of a took!](http://9gag.com/gag/aGyoKPw)
+ - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What&amp;#8217;s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)
  - [Sources: Foxconn recalled ~300 Chinese engineers from its Indian plant making iPhone parts, replacing them with Taiwanese staff, its second such move in months &lpar;Bloomberg&rpar;](http://www.techmeme.com/250823/p9#a250823p9)
  - [Best Hair Dryer: Rigorous Testing in Real Apartments &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
  - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
- - [Apple Watch&#39;s blood oxygen restoration may get killed by ITC](https://appleinsider.com/articles/25/08/23/apple-watchs-blood-oxygen-restoration-may-get-killed-by-itc?utm_source=rss)
- - [Samsung QN90F vs. Samsung Micro RGB TV: Why Do These Huge TVs Cost $30,000?](https://www.cnet.com/tech/home-entertainment/samsung-qn90f-vs-samsung-micro-rgb-tv-why-do-these-huge-tvs-cost-30000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch&#39;s blood oxygen restoration may get killed by ITC](https://appleinsider.com/articles/25/08/23/apple-watchs-blood-oxygen-restoration-may-get-killed-by-itc?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

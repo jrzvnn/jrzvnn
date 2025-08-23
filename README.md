@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 💣 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
  - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 💣 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
- - 😝 [The heavy traffic was instantly solved](http://9gag.com/gag/aE0Qd0o)
- - 👉 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)<!-- MEMES:END -->
+ - 👉 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)<!-- MEMES:END -->
 
 ---
 

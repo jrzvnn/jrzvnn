@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 💣 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
  - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)<!-- MEMES:END -->
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 😝 [Im just jealous that he has a girlfriend](http://9gag.com/gag/aryd1md)
+ - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
 
 ---
 

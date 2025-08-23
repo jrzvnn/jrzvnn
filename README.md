@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Balls of steel or stupidity](http://9gag.com/gag/agmjRyw)
- - 😝 [Justice system is biased](http://9gag.com/gag/a9yB9w1)
- - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 😝 [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 💣 [Lol](http://9gag.com/gag/avymYZZ)
  - 😝 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)
- - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 

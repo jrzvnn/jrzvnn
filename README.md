@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 💣 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 😝 [Women are funny and smart get over it..](http://9gag.com/gag/aAymBdp)
- - 👉 [C minus students](http://9gag.com/gag/aND3xvb)<!-- MEMES:END -->
+ - 😝 [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 💣 [I don&#39;t know how i&#39;d feel seeing this everyday](http://9gag.com/gag/ajPybPQ)
+ - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---
 

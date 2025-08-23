@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Y Combinator unsurprisingly files Epic-friendly anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
  - [Apple Watch designs allegedly stolen and provided to Oppo](https://appleinsider.com/articles/25/08/22/apple-watch-designs-allegedly-stolen-and-provided-to-oppo?utm_source=rss)
  - [Airbnb co-founder Joe Gebbia, named by Trump as the first US chief design officer, says he wants to update federal websites to an &quot;Apple Store-like experience&quot; &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250823/p13#a250823p13)
- - [Some lawyers and bankers say the Intel deal may face legal challenges as the CHIPS Act may not allow the US government to convert grants into equity &lpar;New York Times&rpar;](http://www.techmeme.com/250823/p12#a250823p12)
- - [The 12 Best Foods to Eat for Eye Health](https://www.cnet.com/health/personal-care/the-12-best-foods-to-eat-for-eye-health/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You Missed This Spine-Chilling Sci-Fi Nightmare, It&#39;s Now Streaming Free on Tubi](https://www.cnet.com/culture/entertainment/if-you-missed-this-spine-chilling-sci-fi-nightmare-its-now-streaming-free-on-tubi/#ftag=CAD590a51e)
+ - [Some lawyers and bankers say the Intel deal may face legal challenges as the CHIPS Act may not allow the US government to convert grants into equity &lpar;New York Times&rpar;](http://www.techmeme.com/250823/p12#a250823p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

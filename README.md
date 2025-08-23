@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are so scared of dogs.](http://9gag.com/gag/aGyb3KG)
- - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 😝 [Please come back when i can finally afford you...](http://9gag.com/gag/aXPe58D)
+ - 💣 [Im just jealous that he has a girlfriend](http://9gag.com/gag/aryd1md)
  - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)<!-- MEMES:END -->
+ - 👉 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)<!-- MEMES:END -->
 
 ---
 

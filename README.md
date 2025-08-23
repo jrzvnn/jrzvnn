@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Climate Change Is Bringing Legionnaire’s Disease to a Town Near You](https://www.wired.com/story/this-deadly-bacteria-was-once-an-only-in-new-york-problem-not-anymore/)
  - [Q&amp;A with David Luan, head of Amazon&#39;s AGI research lab, on leaving Adept in a reverse acquihire deal, why he believes progress on AI models has slowed, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250823/p7#a250823p7)
  - [US Government Seeks Medical Records of Trans Youth](https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/)
  - [I Can’t Stop Playing Duolingo Chess](https://www.wired.com/story/duolingo-chess/)
- - [Your Guide to the Latest Details on Disneyland and Disney World: New Rides, Lands, Shows and Attractions](https://www.cnet.com/tech/services-and-software/your-guide-to-the-latest-details-on-disneyland-and-disney-world-new-rides-lands-shows-and-attractions/#ftag=CAD590a51e)
- - [Apple AirTag 2 Rumors: New Features and Possible Release Date Leaked](https://www.cnet.com/tech/mobile/apple-airtag-2-rumors-new-features-and-possible-release-date-leaked/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Your Guide to the Latest Details on Disneyland and Disney World: New Rides, Lands, Shows and Attractions](https://www.cnet.com/tech/services-and-software/your-guide-to-the-latest-details-on-disneyland-and-disney-world-new-rides-lands-shows-and-attractions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

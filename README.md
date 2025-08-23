@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FanDuel partners with CME Group to offer event-based contracts, letting users wager &quot;yes&quot; or &quot;no&quot; on financial events and benchmarks, starting later this year &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250823/p5#a250823p5)
  - [TSMC&#39;s financial statement shows the company booked its first profit from its four-year-old Arizona subsidiary in H1 2025, reporting $150.1M in net profit &lpar;Lisa Wang/Taipei Times&rpar;](http://www.techmeme.com/250823/p4#a250823p4)
  - [Sources: Nvidia has shown new versions of its Blackwell-based AI chips for Chinese customers to US officials, including one with ~80% of the peak performance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250823/p3#a250823p3)
  - [Lenovo Coupon Codes and Deals: Up to $100 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)
- - [India&#39;s move to ban online real-money games over addiction and money laundering concerns appears valid, but it may push users toward offshore crypto casinos &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250823/p2#a250823p2)
- - [Major real-money gaming platforms in India halted cash games after President Murmu signed the Promotion and Regulation of Online Gaming Act, 2025, into law &lpar;The Hindu&rpar;](http://www.techmeme.com/250823/p1#a250823p1)<!-- TECH:END -->
+ - [India&#39;s move to ban online real-money games over addiction and money laundering concerns appears valid, but it may push users toward offshore crypto casinos &lpar;Andy Mukherjee/Bloomberg&rpar;](http://www.techmeme.com/250823/p2#a250823p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

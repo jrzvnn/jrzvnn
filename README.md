@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
- - 💣 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
- - 😝 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
- - 👉 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)<!-- MEMES:END -->
+ - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
+ - 😝 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)
+ - 💣 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
+ - 😝 [Your take?](http://9gag.com/gag/apRdKz5)
+ - 👉 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)<!-- MEMES:END -->
 
 ---
 

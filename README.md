@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Foxconn recalled ~300 Chinese engineers from its Indian plant making iPhone parts, replacing them with Taiwanese staff, its second such move in months &lpar;Bloomberg&rpar;](http://www.techmeme.com/250823/p9#a250823p9)
  - [Best Hair Dryer: Rigorous Testing in Real Apartments &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
  - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
  - [Apple Watch&#39;s blood oxygen restoration may get killed by ITC](https://appleinsider.com/articles/25/08/23/apple-watchs-blood-oxygen-restoration-may-get-killed-by-itc?utm_source=rss)
- - [Apple&#39;s enterprise tools can limit employee access to ChatGPT](https://appleinsider.com/articles/25/08/23/apples-enterprise-tools-can-limit-employee-access-to-chatgpt?utm_source=rss)
- - [The Fairphone 6 no longer feels like a compromise &lpar;except in the US&rpar;](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)<!-- TECH:END -->
+ - [Apple&#39;s enterprise tools can limit employee access to ChatGPT](https://appleinsider.com/articles/25/08/23/apples-enterprise-tools-can-limit-employee-access-to-chatgpt?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

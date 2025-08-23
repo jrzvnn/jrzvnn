@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
- - 💣 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)
- - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
- - 👉 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)<!-- MEMES:END -->
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
+ - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [What are you doing for living?](http://9gag.com/gag/a87zrKY)<!-- MEMES:END -->
 
 ---
 

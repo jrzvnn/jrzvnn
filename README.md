@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Store in Bengaluru prepares for September 2 opening](https://appleinsider.com/articles/25/08/23/apple-store-in-bengaluru-prepares-for-september-2-opening?utm_source=rss)
+ - [Ninja Gaiden: Ragebound is a perfect reimagining of the classic series](https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc)
  - [9 Best Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
  - [AI Isn&#39;t Human and We Need to Stop Treating It That Way, Says Microsoft AI CEO](https://www.cnet.com/tech/services-and-software/ai-isnt-human-and-we-need-to-stop-treating-it-that-way-says-microsoft-ai-ceo/#ftag=CAD590a51e)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [How to Fight Food Noise if It’s Taking Over Your Life, Both IRL and Online](https://www.cnet.com/health/how-to-fight-food-noise-if-its-taking-over-your-life-both-irl-and-online/#ftag=CAD590a51e)
- - [Will Trump help 4Chan escape the UK’s internet police?](https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump)<!-- TECH:END -->
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

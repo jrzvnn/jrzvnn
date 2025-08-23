@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [OpenAI warns investors against &quot;unauthorized opportunities&quot; to gain exposure to its equity, including through special purpose vehicles &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250823/p15#a250823p15)
- - [A look at Texas Instruments&#39; new 300mm wafer fab in Sherman, Texas, a part of its $60B US investment megaproject where some chips for iPhones will be made &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250823/p14#a250823p14)
- - [Y Combinator unsurprisingly files Epic-friendly anti-App Store brief](https://appleinsider.com/articles/25/08/22/epic-games-investor-y-combinator-unsurprisingly-files-anti-app-store-brief?utm_source=rss)
- - [Apple Watch designs allegedly stolen and provided to Oppo](https://appleinsider.com/articles/25/08/22/apple-watch-designs-allegedly-stolen-and-provided-to-oppo?utm_source=rss)
- - [Airbnb co-founder Joe Gebbia, named by Trump as the first US chief design officer, says he wants to update federal websites to an &quot;Apple Store-like experience&quot; &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/250823/p13#a250823p13)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 24, #805](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-24-805/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 24 #539](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-24-539/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 24, #1527](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-24-1527/#ftag=CAD590a51e)
+ - [A look at Texas Instruments&#39; new 300mm wafer fab in Sherman, Texas, a part of its $60B US investment megaproject where some chips for iPhones will be made &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250823/p14#a250823p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

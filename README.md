@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: Always-Recording Smart Glasses, and Google Teases a New Nest Speaker](https://www.wired.com/story/gear-news-of-the-week-always-recording-smart-glasses-and-google-teases-a-new-nest-speaker/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 23 #538](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-23-538/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 23, #334](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-23-334/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 23, #804](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-23-804/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 23, #1526](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-23-1526/#ftag=CAD590a51e)
- - [I Want to Get More Birds at My Feeder. A Wildlife Expert Told Me How](https://www.cnet.com/news/want-more-birds-feeder-wildlife-expert-told-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 23, #1526](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-23-1526/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
  - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
- - 💣 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [I would react the same.... but I need a girlfriend first and hope this happens to me as well.](http://9gag.com/gag/ayNzExb)
+ - 💣 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
  - 👉 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)<!-- MEMES:END -->
 
 ---

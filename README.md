@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Hair Dryer: Rigorous Testing in Real Apartments &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
+ - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
+ - [Apple Watch&#39;s blood oxygen restoration may get killed by ITC](https://appleinsider.com/articles/25/08/23/apple-watchs-blood-oxygen-restoration-may-get-killed-by-itc?utm_source=rss)
  - [Apple&#39;s enterprise tools can limit employee access to ChatGPT](https://appleinsider.com/articles/25/08/23/apples-enterprise-tools-can-limit-employee-access-to-chatgpt?utm_source=rss)
- - [The Fairphone 6 no longer feels like a compromise &lpar;except in the US&rpar;](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)
- - [How AI is increasingly being used to replace human content moderators, who say that the tech is not yet capable of reliably identifying harmful content &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250823/p8#a250823p8)
- - [How to Build a PC &lpar;2025&rpar;: Hardware Suggestions, Instructions, and More](https://www.wired.com/story/how-to-build-a-pc/)
- - [Apple Store in Bengaluru prepares for September 2 opening](https://appleinsider.com/articles/25/08/23/apple-store-in-bengaluru-prepares-for-september-2-opening?utm_source=rss)<!-- TECH:END -->
+ - [The Fairphone 6 no longer feels like a compromise &lpar;except in the US&rpar;](https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

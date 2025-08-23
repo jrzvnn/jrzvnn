@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with David Luan, head of Amazon&#39;s AGI research lab, on leaving Adept in a reverse acquihire deal, why he believes progress on AI models has slowed, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250823/p7#a250823p7)
+ - [US Government Seeks Medical Records of Trans Youth](https://www.wired.com/story/us-government-seeks-medical-records-of-trans-youth/)
+ - [I Can’t Stop Playing Duolingo Chess](https://www.wired.com/story/duolingo-chess/)
  - [Your Guide to the Latest Details on Disneyland and Disney World: New Rides, Lands, Shows and Attractions](https://www.cnet.com/tech/services-and-software/your-guide-to-the-latest-details-on-disneyland-and-disney-world-new-rides-lands-shows-and-attractions/#ftag=CAD590a51e)
- - [Apple AirTag 2 Rumors: New Features and Possible Release Date Leaked](https://www.cnet.com/tech/mobile/apple-airtag-2-rumors-new-features-and-possible-release-date-leaked/#ftag=CAD590a51e)
- - [Gear News of the Week: Always-Recording Smart Glasses, and Google Teases a New Nest Speaker](https://www.wired.com/story/gear-news-of-the-week-always-recording-smart-glasses-and-google-teases-a-new-nest-speaker/)
- - [AI Data Centers Are Coming for Your Land, Water and Power](https://www.cnet.com/tech/services-and-software/features/ai-data-centers-are-coming-for-your-land-water-and-power/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 23 #538](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-23-538/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple AirTag 2 Rumors: New Features and Possible Release Date Leaked](https://www.cnet.com/tech/mobile/apple-airtag-2-rumors-new-features-and-possible-release-date-leaked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

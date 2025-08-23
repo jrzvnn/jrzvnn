@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 💣 [Lol](http://9gag.com/gag/avymYZZ)
- - 😝 [These guys are real heroes, saving the doggo from the fire](http://9gag.com/gag/a9yVjMD)
- - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
+ - 😝 [`He got me invested in some kind of fruit company or something, and one day he says we don&#39;t have to worry about money anymore. And I said - &#39;Good. One less thing&#39;.`](http://9gag.com/gag/awyvRzr)
+ - 😝 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
+ - 💣 [Justice system is biased](http://9gag.com/gag/a9yB9w1)
+ - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
 
 ---
 

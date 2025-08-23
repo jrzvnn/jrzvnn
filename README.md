@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
- - 💣 [Low tire tread ?](http://9gag.com/gag/aByoq8z)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [C minus students](http://9gag.com/gag/aND3xvb)<!-- MEMES:END -->
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 💣 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 👉 [And then they ask why they don\u2019t get paid as much as men\u2026](http://9gag.com/gag/aKGp0YW)<!-- MEMES:END -->
 
 ---
 

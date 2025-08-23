@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 💣 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
  - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
- - 👉 [What are you doing for living?](http://9gag.com/gag/a87zrKY)<!-- MEMES:END -->
+ - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 💣 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)
+ - 😝 [Swedens greatest contribution to NATO](http://9gag.com/gag/a4Pxpe1)
+ - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
 
 ---
 

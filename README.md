@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [Please come back when i can finally afford you...](http://9gag.com/gag/aXPe58D)
- - 💣 [Im just jealous that he has a girlfriend](http://9gag.com/gag/aryd1md)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)<!-- MEMES:END -->
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
+ - 💣 [Not fair](http://9gag.com/gag/ajPybbQ)
+ - 😝 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
+ - 👉 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)<!-- MEMES:END -->
 
 ---
 

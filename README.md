@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
  - 💣 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
  - 😝 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
  - 👉 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Want to Get More Birds at My Feeder. A Wildlife Expert Told Me How](https://www.cnet.com/news/want-more-birds-feeder-wildlife-expert-told-how/#ftag=CAD590a51e)
- - [This $0 Cooling Trick Has Helped Me Control My Night Sweats When AC Doesn&#39;t Cut It](https://www.cnet.com/health/sleep/this-0-cooling-trick-control-night-sweats-when-ac-doesnt-cut-it/#ftag=CAD590a51e)
- - [A surge in AI company valuations is driving the popularity of special purpose vehicles, but some involve high fees, opaque structures, and layers of middlemen &lpar;Business Insider&rpar;](http://www.techmeme.com/250823/p6#a250823p6)
- - [FanDuel partners with CME Group to offer event-based contracts, letting users wager &quot;yes&quot; or &quot;no&quot; on financial events and benchmarks, starting later this year &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250823/p5#a250823p5)
- - [TSMC&#39;s financial statement shows the company booked its first profit from its four-year-old Arizona subsidiary in H1 2025, reporting $150.1M in net profit &lpar;Lisa Wang/Taipei Times&rpar;](http://www.techmeme.com/250823/p4#a250823p4)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 23 #538](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-23-538/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 23, #334](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-23-334/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 23, #804](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-23-804/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 23, #1526](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-23-1526/#ftag=CAD590a51e)
+ - [I Want to Get More Birds at My Feeder. A Wildlife Expert Told Me How](https://www.cnet.com/news/want-more-birds-feeder-wildlife-expert-told-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

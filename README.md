@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 😝 [Google unknowingly documented the life journey of an elderly couple in Indonesia.](http://9gag.com/gag/a1mwzR6)
- - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
+ - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 💣 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
  - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [What are you doing for living?](http://9gag.com/gag/a87zrKY)<!-- MEMES:END -->
+ - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
 
 ---
 

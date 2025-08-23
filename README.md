@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He fought to the end](http://9gag.com/gag/aYQdjPV)
- - 😝 [The heavy traffic was instantly solved](http://9gag.com/gag/aE0Qd0o)
- - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
- - 😝 [The future.....](http://9gag.com/gag/aYQdj0N)
- - 👉 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)<!-- MEMES:END -->
+ - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 😝 [The legendary outlaw](http://9gag.com/gag/ajPy2yw)
+ - 💣 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)
+ - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
+ - 👉 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)<!-- MEMES:END -->
 
 ---
 

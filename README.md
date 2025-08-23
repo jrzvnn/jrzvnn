@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 💣 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)<!-- MEMES:END -->
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 💣 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
+ - 😝 [The heavy traffic was instantly solved](http://9gag.com/gag/aE0Qd0o)
+ - 👉 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)<!-- MEMES:END -->
 
 ---
 

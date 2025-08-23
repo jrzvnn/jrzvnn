@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An interview with Alex Kachkine, who shook the art world in June with a research paper in Nature on restoring paintings using AI, as he works to refine the tech &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/250823/p16#a250823p16)
+ - [Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave](https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 24, #335](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-24-335/#ftag=CAD590a51e)
  - [OpenAI warns investors against &quot;unauthorized opportunities&quot; to gain exposure to its equity, including through special purpose vehicles &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250823/p15#a250823p15)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 24, #805](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-24-805/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 24 #539](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-24-539/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 24, #805](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-24-805/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

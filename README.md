@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats why 9gag sucks](http://9gag.com/gag/aRBDY0M)
  - 😝 [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
- - 💣 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 😝 [Lol](http://9gag.com/gag/avymYZZ)
+ - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
+ - 💣 [Lol](http://9gag.com/gag/avymYZZ)
+ - 😝 [These guys are real heroes, saving the doggo from the fire](http://9gag.com/gag/a9yVjMD)
  - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---

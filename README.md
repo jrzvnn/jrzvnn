@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Early Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025/)
- - [English Premier League Soccer: Livestream Brentford vs. Aston Villa From Anywhere](https://www.cnet.com/tech/services-and-software/english-premier-league-soccer-livestream-brentford-vs-aston-villa-from-anywhere/#ftag=CAD590a51e)
- - [The iPhone 17 Release Date Is Coming Up Fast, but When? Leaks Hint at an Exact Date](https://www.cnet.com/tech/mobile/the-iphone-17-release-date-is-coming-up-fast-but-when-leaks-hint-at-an-exact-date/#ftag=CAD590a51e)
- - [&#39;Peacemaker&#39; Season 2 Release Schedule: Here&#39;s When You Can Watch Episode 2](https://www.cnet.com/tech/services-and-software/peacemaker-season-2-schedule-heres-when-you-can-watch-episode-2/#ftag=CAD590a51e)
- - [Coway Bidetmega 500S Review: Cleanliness and Comfort Come Full Circle &lpar;or Elongated&rpar;](https://www.cnet.com/health/coway-bidetmega-500s-review-cleanliness-and-comfort-comes-full-circle-or-elongated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Best Keyboards &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-keyboards/)
+ - [AI Isn&#39;t Human and We Need to Stop Treating It That Way, Says Microsoft AI CEO](https://www.cnet.com/tech/services-and-software/ai-isnt-human-and-we-need-to-stop-treating-it-that-way-says-microsoft-ai-ceo/#ftag=CAD590a51e)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
+ - [How to Fight Food Noise if It’s Taking Over Your Life, Both IRL and Online](https://www.cnet.com/health/how-to-fight-food-noise-if-its-taking-over-your-life-both-irl-and-online/#ftag=CAD590a51e)
+ - [Will Trump help 4Chan escape the UK’s internet police?](https://www.theverge.com/politics/764653/4chan-uk-online-safety-act-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

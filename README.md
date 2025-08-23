@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your Guide to the Latest Details on Disneyland and Disney World: New Rides, Lands, Shows and Attractions](https://www.cnet.com/tech/services-and-software/your-guide-to-the-latest-details-on-disneyland-and-disney-world-new-rides-lands-shows-and-attractions/#ftag=CAD590a51e)
+ - [Apple AirTag 2 Rumors: New Features and Possible Release Date Leaked](https://www.cnet.com/tech/mobile/apple-airtag-2-rumors-new-features-and-possible-release-date-leaked/#ftag=CAD590a51e)
  - [Gear News of the Week: Always-Recording Smart Glasses, and Google Teases a New Nest Speaker](https://www.wired.com/story/gear-news-of-the-week-always-recording-smart-glasses-and-google-teases-a-new-nest-speaker/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 23 #538](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-23-538/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 23, #334](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-23-334/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 23, #804](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-23-804/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 23, #1526](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-23-1526/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AI Data Centers Are Coming for Your Land, Water and Power](https://www.cnet.com/tech/services-and-software/features/ai-data-centers-are-coming-for-your-land-water-and-power/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 23 #538](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-23-538/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

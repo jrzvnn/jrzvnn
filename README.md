@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose’s compact TV Speaker is more than $100 off right now](https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale)
  - [Some experts say Trump&#39;s extraordinary intervention is unlikely to save Intel, which faces challenges with poor yields and competition from TSMC and Nvidia &lpar;Reuters&rpar;](http://www.techmeme.com/250823/p10#a250823p10)
  - [What&amp;#8217;s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)
  - [Sources: Foxconn recalled ~300 Chinese engineers from its Indian plant making iPhone parts, replacing them with Taiwanese staff, its second such move in months &lpar;Bloomberg&rpar;](http://www.techmeme.com/250823/p9#a250823p9)
- - [Best Hair Dryer: Rigorous Testing in Real Apartments &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-dryers/)
- - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
+ - [Best Hair Dryer: Rigorous Testing in Real Apartments &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-dryers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

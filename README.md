@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 24, #335](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-24-335/#ftag=CAD590a51e)
  - [OpenAI warns investors against &quot;unauthorized opportunities&quot; to gain exposure to its equity, including through special purpose vehicles &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250823/p15#a250823p15)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 24, #805](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-24-805/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 24 #539](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-24-539/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 24, #1527](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-24-1527/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 24, #1527](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-24-1527/#ftag=CAD590a51e)
+ - [A look at Texas Instruments&#39; new 300mm wafer fab in Sherman, Texas, a part of its $60B US investment megaproject where some chips for iPhones will be made &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250823/p14#a250823p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

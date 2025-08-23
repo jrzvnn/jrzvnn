@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: in a meeting with UK Technology Secretary Peter Kyle, Sam Altman proposed giving ChatGPT Plus to everyone in the UK, a deal that would have cost £2B &lpar;The Guardian&rpar;](http://www.techmeme.com/250823/p11#a250823p11)
  - [Bose’s compact TV Speaker is more than $100 off right now](https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale)
+ - [La Liga Soccer: Stream Levante vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-levante-vs-barcelona-live-from-anywhere/#ftag=CAD590a51e)
  - [Some experts say Trump&#39;s extraordinary intervention is unlikely to save Intel, which faces challenges with poor yields and competition from TSMC and Nvidia &lpar;Reuters&rpar;](http://www.techmeme.com/250823/p10#a250823p10)
- - [What&amp;#8217;s on your desk, Dominic Preston?](https://www.theverge.com/tech/762930/home-office-logitech-standing-desk)
- - [Sources: Foxconn recalled ~300 Chinese engineers from its Indian plant making iPhone parts, replacing them with Taiwanese staff, its second such move in months &lpar;Bloomberg&rpar;](http://www.techmeme.com/250823/p9#a250823p9)<!-- TECH:END -->
+ - [Best Innerspring Mattress in 2025](https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

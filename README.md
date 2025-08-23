@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Want to Get More Birds at My Feeder. A Wildlife Expert Told Me How](https://www.cnet.com/news/want-more-birds-feeder-wildlife-expert-told-how/#ftag=CAD590a51e)
+ - [This $0 Cooling Trick Has Helped Me Control My Night Sweats When AC Doesn&#39;t Cut It](https://www.cnet.com/health/sleep/this-0-cooling-trick-control-night-sweats-when-ac-doesnt-cut-it/#ftag=CAD590a51e)
  - [A surge in AI company valuations is driving the popularity of special purpose vehicles, but some involve high fees, opaque structures, and layers of middlemen &lpar;Business Insider&rpar;](http://www.techmeme.com/250823/p6#a250823p6)
  - [FanDuel partners with CME Group to offer event-based contracts, letting users wager &quot;yes&quot; or &quot;no&quot; on financial events and benchmarks, starting later this year &lpar;Dean Seal/Wall Street Journal&rpar;](http://www.techmeme.com/250823/p5#a250823p5)
- - [TSMC&#39;s financial statement shows the company booked its first profit from its four-year-old Arizona subsidiary in H1 2025, reporting $150.1M in net profit &lpar;Lisa Wang/Taipei Times&rpar;](http://www.techmeme.com/250823/p4#a250823p4)
- - [Sources: Nvidia has shown new versions of its Blackwell-based AI chips for Chinese customers to US officials, including one with ~80% of the peak performance &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250823/p3#a250823p3)
- - [Lenovo Coupon Codes and Deals: Up to $100 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [TSMC&#39;s financial statement shows the company booked its first profit from its four-year-old Arizona subsidiary in H1 2025, reporting $150.1M in net profit &lpar;Lisa Wang/Taipei Times&rpar;](http://www.techmeme.com/250823/p4#a250823p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

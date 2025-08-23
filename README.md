@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
- - 😝 [Never forget him](http://9gag.com/gag/adBb3nB)
- - 💣 [I don&#39;t know how i&#39;d feel seeing this everyday](http://9gag.com/gag/ajPybPQ)
- - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 💣 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
  - 👉 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)<!-- MEMES:END -->
 
 ---

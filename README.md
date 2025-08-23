@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 😝 [Damn](http://9gag.com/gag/aD2MpeB)
- - 💣 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
- - 😝 [Fool of a took!](http://9gag.com/gag/aGyoKPw)
- - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
+ - 😝 [Watching a rear end collision in comfort](http://9gag.com/gag/ajPdQz0)
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
+ - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
+ - 👉 [Shiiiet](http://9gag.com/gag/a6Zxr6A)<!-- MEMES:END -->
 
 ---
 

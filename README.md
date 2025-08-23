@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
  - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
- - 💣 [Shiiiet](http://9gag.com/gag/a6Zxr6A)
+ - 😝 [Shiiiet](http://9gag.com/gag/a6Zxr6A)
+ - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
  - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
  - 👉 [Raise it](http://9gag.com/gag/apRdKYn)<!-- MEMES:END -->
 

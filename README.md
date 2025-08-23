@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
- - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 💣 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [Justice system is biased](http://9gag.com/gag/a9yB9w1)<!-- MEMES:END -->
+ - 😝 [She had us in the first half, not gonna lie](http://9gag.com/gag/ae9WX2v)
+ - 💣 [Lol](http://9gag.com/gag/avymYZZ)
+ - 😝 [Bro fell asleep mid-air](http://9gag.com/gag/apRdKqn)
+ - 👉 [Never forget him](http://9gag.com/gag/adBb3nB)<!-- MEMES:END -->
 
 ---
 

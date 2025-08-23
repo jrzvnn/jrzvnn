@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German cop uses language everyone understands. `F**k off and go home`](http://9gag.com/gag/a6Z8v6N)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 💣 [Push people to their very last nerve and then wonder why they react](http://9gag.com/gag/an7VLA5)
- - 😝 [Bro fell asleep mid-air](http://9gag.com/gag/apRdKqn)
- - 👉 [I would appreciate it](http://9gag.com/gag/aByo7qZ)<!-- MEMES:END -->
+ - 😝 [Balls of steel or stupidity](http://9gag.com/gag/agmjRyw)
+ - 😝 [Justice system is biased](http://9gag.com/gag/a9yB9w1)
+ - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 😝 [Doggo taking a leap of faith](http://9gag.com/gag/a5QxpZO)
+ - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
 
 ---
 

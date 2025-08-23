@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Who?](http://9gag.com/gag/a7oAzGL)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 💣 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [Damn](http://9gag.com/gag/aD2MpeB)<!-- MEMES:END -->
+ - 😝 [Actually don\u2019t try this at home unless you know what you\u2019re doing.](http://9gag.com/gag/aKGprqQ)
+ - 😝 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 💣 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 😝 [Golden Age of Anime](http://9gag.com/gag/aPAnObn)
+ - 👉 [What are you doing for living?](http://9gag.com/gag/a87zrKY)<!-- MEMES:END -->
 
 ---
 

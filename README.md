@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 💣 [Damn](http://9gag.com/gag/aD2MpeB)
- - 😝 [Im just jealous that he has a girlfriend](http://9gag.com/gag/aryd1md)
- - 👉 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)<!-- MEMES:END -->
+ - 😝 [He fought to the end](http://9gag.com/gag/aYQdjPV)
+ - 😝 [The heavy traffic was instantly solved](http://9gag.com/gag/aE0Qd0o)
+ - 💣 [C minus students](http://9gag.com/gag/aND3xvb)
+ - 😝 [The future.....](http://9gag.com/gag/aYQdj0N)
+ - 👉 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)<!-- MEMES:END -->
 
 ---
 

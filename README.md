@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`He got me invested in some kind of fruit company or something, and one day he says we don&#39;t have to worry about money anymore. And I said - &#39;Good. One less thing&#39;.`](http://9gag.com/gag/awyvRzr)
- - 😝 [Remembering this hero. majid kavousifar](http://9gag.com/gag/aD2MpOK)
- - 💣 [Justice system is biased](http://9gag.com/gag/a9yB9w1)
+ - 😝 [Gentleman](http://9gag.com/gag/a9yBQYK)
  - 😝 [C minus students](http://9gag.com/gag/aND3xvb)
- - 👉 [The great leaders of Europe.](http://9gag.com/gag/aW49wwn)<!-- MEMES:END -->
+ - 💣 [Time to start a revolution](http://9gag.com/gag/a4PVDwv)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [Justice system is biased](http://9gag.com/gag/a9yB9w1)<!-- MEMES:END -->
 
 ---
 

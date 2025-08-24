@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK filings: TikTok&#39;s revenue in the UK, Europe, and Latin America grew 38% YoY to $6.3B in 2024, up from $2.6B in 2022 &lpar;Forbes&rpar;](http://www.techmeme.com/250824/p9#a250824p9)
  - [How AI tools from ElevenLabs and others were used to recreate a woman&#39;s voice, lost to motor neuron disease, from just eight seconds of audio on a VHS tape &lpar;Beth Rose/BBC&rpar;](http://www.techmeme.com/250824/p8#a250824p8)
  - [Casca, which offers AI-powered tools for banks to accelerate loan application and origination processes, raised a $29M Series A led by Canapi Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250824/p7#a250824p7)
  - [AI infrastructure provider Crusoe acquires Israeli startup Atero, whose tech optimizes GPUs for AI workloads, in a cash and stock deal estimated at ~$150M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250824/p6#a250824p6)
- - [Twin Health, which uses AI-based digital twin tech to provide personalized diabetes and metabolic health guidance, raised a $53M Series E at a $950M valuation &lpar;Jessica Hagen/Mobi Health News&rpar;](http://www.techmeme.com/250824/p5#a250824p5)
- - [HP Coupon Codes and Deals: Up to 60% Off | August 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
+ - [Twin Health, which uses AI-based digital twin tech to provide personalized diabetes and metabolic health guidance, raised a $53M Series E at a $950M valuation &lpar;Jessica Hagen/Mobi Health News&rpar;](http://www.techmeme.com/250824/p5#a250824p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
- - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
- - 💣 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
  - 😝 [You&#39;ve learned something new today.](http://9gag.com/gag/aQzrPjq)
- - 👉 [Never forget him](http://9gag.com/gag/adBb3nB)<!-- MEMES:END -->
+ - 😝 [Am I a criminal now?](http://9gag.com/gag/amodNKo)
+ - 💣 [Diversity has arrived in Japan](http://9gag.com/gag/ajPdYvQ)
+ - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 👉 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)<!-- MEMES:END -->
 
 ---
 

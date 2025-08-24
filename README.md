@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
- - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
- - 💣 [Best day ever](http://9gag.com/gag/aGyoKqK)
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 👉 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)<!-- MEMES:END -->
+ - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
+ - 😝 [She was afraid people would rewrite history, so she recorded over 300,000 hours of TV over 35 years on 71,000 VHS tapes.Marion Stokes recorded television programs nonstop for over three decades. She started in the late 1970s](http://9gag.com/gag/aNDqegr)
+ - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 😝 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
+ - 👉 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)<!-- MEMES:END -->
 
 ---
 

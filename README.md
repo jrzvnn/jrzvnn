@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eddie Hall, the legend himself, bench pressing two men, just another day at the gym](http://9gag.com/gag/aLnrY7v)
- - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
- - 💣 [Oh Boy.](http://9gag.com/gag/aAyZnbE)
- - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
- - 👉 [Good guy fish doctor](http://9gag.com/gag/a0exvLd)<!-- MEMES:END -->
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
+ - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
+ - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
+ - 👉 [What if I just put some gas in it?](http://9gag.com/gag/amodNoy)<!-- MEMES:END -->
 
 ---
 

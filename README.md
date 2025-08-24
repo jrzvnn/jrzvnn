@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Spotify&#39;s Discovery Mode has become the new normal in music marketing, five years after its 2020 launch when it faced a backlash and &quot;payola&quot; accusations &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250824/p15#a250824p15)
  - [xAI releases the weights of Grok 2 on Hugging Face, under the Grok 2 Community License Agreement; Musk says Grok 3 &quot;will be made open source in about 6 months&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250824/p14#a250824p14)
  - [A look at Apple&#39;s three-year iPhone redesign plan, starting with iPhone Air this fall, foldable with Touch ID in 2026, and a curved-glass &quot;iPhone 20&quot; in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250824/p13#a250824p13)
  - [&#39;Love Island USA&#39; Season 7 Reunion Special: Start Time, How to Watch](https://www.cnet.com/culture/entertainment/love-island-usa-season-7-reunion-special-start-time-how-to-watch/#ftag=CAD590a51e)
- - [An interview with Nick Clegg about Zuckerberg&#39;s &quot;masculine energy&quot;, Silicon Valley&#39;s &quot;cloying conformity&quot; and &quot;combination of machismo and self-pity&quot;, and more &lpar;Gaby Hinsliff/The Guardian&rpar;](http://www.techmeme.com/250824/p12#a250824p12)
- - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)<!-- TECH:END -->
+ - [An interview with Nick Clegg about Zuckerberg&#39;s &quot;masculine energy&quot;, Silicon Valley&#39;s &quot;cloying conformity&quot; and &quot;combination of machismo and self-pity&quot;, and more &lpar;Gaby Hinsliff/The Guardian&rpar;](http://www.techmeme.com/250824/p12#a250824p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

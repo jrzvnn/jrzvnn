@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
- - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 💣 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
  - 😝 [Best day ever](http://9gag.com/gag/aGyoKqK)
- - 👉 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)<!-- MEMES:END -->
+ - 😝 [Rage against the machine](http://9gag.com/gag/aByvRqZ)
+ - 💣 [Therapy session in 20 years: My deep trust issues started when this guy gave us a helicopter...](http://9gag.com/gag/aGyoYbX)
+ - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 👉 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)<!-- MEMES:END -->
 
 ---
 

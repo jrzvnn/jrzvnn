@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Apple&#39;s three-year iPhone redesign plan, starting with iPhone Air this fall, foldable with Touch ID in 2026, and a curved-glass &quot;iPhone 20&quot; in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250824/p13#a250824p13)
  - [&#39;Love Island USA&#39; Season 7 Reunion Special: Start Time, How to Watch](https://www.cnet.com/culture/entertainment/love-island-usa-season-7-reunion-special-start-time-how-to-watch/#ftag=CAD590a51e)
  - [An interview with Nick Clegg about Zuckerberg&#39;s &quot;masculine energy&quot;, Silicon Valley&#39;s &quot;cloying conformity&quot; and &quot;combination of machismo and self-pity&quot;, and more &lpar;Gaby Hinsliff/The Guardian&rpar;](http://www.techmeme.com/250824/p12#a250824p12)
  - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
- - [New AirPods Max aren&#39;t coming any time soon](https://appleinsider.com/articles/25/08/24/new-airpods-max-arent-coming-any-time-soon?utm_source=rss)
- - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)<!-- TECH:END -->
+ - [New AirPods Max aren&#39;t coming any time soon](https://appleinsider.com/articles/25/08/24/new-airpods-max-arent-coming-any-time-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

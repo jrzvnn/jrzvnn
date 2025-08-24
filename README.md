@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hidden Ingredients Behind AI’s Creativity](https://www.wired.com/story/researchers-uncover-hidden-ingredients-behind-ai-creativity/)
  - [Is It Ever Legal—or Ethical—to Remove DRM?](https://www.wired.com/story/is-it-ever-legal-to-remove-drm/)
  - [What Is the Magnetic Constant and Why Does It Matter?](https://www.wired.com/story/what-is-the-magnetic-constant-and-why-does-it-matter/)
  - [The US CFTC staff describe chaos, cutbacks, and an atmosphere of resentment and paranoia as the agency prepares to take on new crypto regulatory duties &lpar;Bloomberg&rpar;](http://www.techmeme.com/250824/p10#a250824p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 24, #335](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-24-335/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 24 #539](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-24-539/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Crystal Palace vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-crystal-palace-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
- - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
- - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
- - 👉 [What if I just put some gas in it?](http://9gag.com/gag/amodNoy)<!-- MEMES:END -->
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 💣 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
 
 ---
 

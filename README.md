@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
- - 😝 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)
- - 💣 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 👉 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)<!-- MEMES:END -->
+ - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
+ - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
+ - 💣 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - 😝 [Have it](http://9gag.com/gag/a1mxAb2)
+ - 👉 [Rage against the machine](http://9gag.com/gag/aByvRqZ)<!-- MEMES:END -->
 
 ---
 

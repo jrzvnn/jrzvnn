@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uhh wat](http://9gag.com/gag/arydvXy)
- - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
- - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)<!-- MEMES:END -->
+ - 😝 [Rage against the machine](http://9gag.com/gag/aByvRqZ)
+ - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 💣 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
+ - 😝 [Don&#39;t mess with my baby.](http://9gag.com/gag/ae9djoO)
+ - 👉 [Uhh wat](http://9gag.com/gag/arydvXy)<!-- MEMES:END -->
 
 ---
 

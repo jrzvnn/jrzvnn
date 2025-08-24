@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has considered bringing back the bumper for the iPhone 17](https://appleinsider.com/articles/25/08/24/apple-has-considered-bringing-back-the-bumper-for-the-iphone-17?utm_source=rss)
  - [Researchers detail an indirect prompt injection flaw in Perplexity&#39;s Comet AI browser, letting attackers manipulate it into performing unauthorized actions &lpar;Brave&rpar;](http://www.techmeme.com/250824/p16#a250824p16)
  - [How Spotify&#39;s Discovery Mode has become the new normal in music marketing, five years after its 2020 launch when it faced a backlash and &quot;payola&quot; accusations &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250824/p15#a250824p15)
  - [La Liga Soccer: Stream Oviedo vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-oviedo-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
- - [xAI releases the weights of Grok 2 on Hugging Face, under the Grok 2 Community License Agreement; Musk says Grok 3 &quot;will be made open source in about 6 months&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250824/p14#a250824p14)
- - [A look at Apple&#39;s three-year iPhone redesign plan, starting with iPhone Air this fall, foldable with Touch ID in 2026, and a curved-glass &quot;iPhone 20&quot; in 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250824/p13#a250824p13)<!-- TECH:END -->
+ - [xAI releases the weights of Grok 2 on Hugging Face, under the Grok 2 Community License Agreement; Musk says Grok 3 &quot;will be made open source in about 6 months&quot; &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/250824/p14#a250824p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

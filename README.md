@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
- - 💣 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)
- - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
- - 👉 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)<!-- MEMES:END -->
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
+ - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
+ - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 😝 [It happened again](http://9gag.com/gag/amodNMv)
+ - 👉 [What if I just put some gas in it?](http://9gag.com/gag/amodNoy)<!-- MEMES:END -->
 
 ---
 

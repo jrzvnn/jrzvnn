@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
  - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
- - 💣 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
- - 😝 [Majority rules, unless it&#39;s kim jong un](http://9gag.com/gag/aRBD55j)
- - 👉 [I was born in the darkness](http://9gag.com/gag/aKGL4Xb)<!-- MEMES:END -->
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 💣 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
+ - 😝 [Where&#39;s your bacon loicense?](http://9gag.com/gag/a34xPjr)
+ - 👉 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)<!-- MEMES:END -->
 
 ---
 

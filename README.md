@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
  - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
- - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 😝 [It happened again](http://9gag.com/gag/amodNMv)
- - 👉 [What if I just put some gas in it?](http://9gag.com/gag/amodNoy)<!-- MEMES:END -->
+ - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 💣 [Hot damn!](http://9gag.com/gag/ayNz7WV)
+ - 😝 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/amodNA6)
+ - 👉 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)<!-- MEMES:END -->
 
 ---
 

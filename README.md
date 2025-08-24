@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: 94-year-old man attacked in Apple Store](https://appleinsider.com/articles/25/08/24/crime-blotter-94-year-old-man-attacked-in-apple-store?utm_source=rss)
- - [15 Best White Noise Machines &lpar;2025&rpar;: Lectrofan, Snooz, Hatch, and More](https://www.wired.com/gallery/best-white-noise-machines/)
- - [The Hidden Ingredients Behind AI’s Creativity](https://www.wired.com/story/researchers-uncover-hidden-ingredients-behind-ai-creativity/)
- - [Is It Ever Legal—or Ethical—to Remove DRM?](https://www.wired.com/story/is-it-ever-legal-to-remove-drm/)
- - [What Is the Magnetic Constant and Why Does It Matter?](https://www.wired.com/story/what-is-the-magnetic-constant-and-why-does-it-matter/)<!-- TECH:END -->
+ - [How Raya, a privately held dating app with a waitlist of 2.5M people, found success through its rigorous user selection process and Fight Club-style rules &lpar;Lane Florsheim/Wall Street Journal&rpar;](http://www.techmeme.com/250824/p11#a250824p11)
+ - [The road to $3 trillion -- Tim Cook took charge of Apple on August 24, 2011](https://appleinsider.com/articles/20/08/24/tim-cook-took-charge-of-apple-on-this-day-in-2011?utm_source=rss)
+ - [8BitDo 64 Bluetooth Controller Review: For Human Hands](https://www.wired.com/review/8bitdo-64-bluetooth-controller/)
+ - [They’re trying to make deep-sea mining happen](https://www.theverge.com/the-stepback-newsletter/763871/deep-sea-mining-happening-again)
+ - [The most fun way to look through old photos](https://www.theverge.com/installer-newsletter/764641/shutter-declutter-pixel-10-pro-fold-samsung-galaxy-buds-3-fe-herdling-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

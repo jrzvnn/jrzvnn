@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
- - 😝 [Shiiiet](http://9gag.com/gag/a6Zxr6A)
- - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 😝 [Not fair](http://9gag.com/gag/ajPybbQ)
- - 👉 [Raise it](http://9gag.com/gag/apRdKYn)<!-- MEMES:END -->
+ - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
+ - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
+ - 💣 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
+ - 😝 [Majority rules, unless it&#39;s kim jong un](http://9gag.com/gag/aRBD55j)
+ - 👉 [I was born in the darkness](http://9gag.com/gag/aKGL4Xb)<!-- MEMES:END -->
 
 ---
 

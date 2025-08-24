@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have it](http://9gag.com/gag/a1mxAb2)
- - 😝 [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)
- - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 👉 [One of us..](http://9gag.com/gag/awy8r7R)<!-- MEMES:END -->
+ - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
+ - 👉 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Diversity has arrived in Japan](http://9gag.com/gag/ajPdYvQ)
- - 😝 [Am I a criminal now?](http://9gag.com/gag/amodNKo)
- - 💣 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 😝 [You&#39;ve learned something new today.](http://9gag.com/gag/aQzrPjq)
- - 👉 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/amodNA6)<!-- MEMES:END -->
+ - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
+ - 💣 [He thought he was fast](http://9gag.com/gag/amodNyo)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Majority rules, unless it&#39;s kim jong un](http://9gag.com/gag/aRBD55j)
- - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
- - 💣 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
- - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
- - 👉 [Balls of steel or stupidity](http://9gag.com/gag/agmjRyw)<!-- MEMES:END -->
+ - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
+ - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 💣 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
 
 ---
 

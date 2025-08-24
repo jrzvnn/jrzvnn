@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 😝 [Eddie Hall, the legend himself, bench pressing two men, just another day at the gym](http://9gag.com/gag/aLnrY7v)
  - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
- - 💣 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
- - 😝 [Good guy fish doctor](http://9gag.com/gag/a0exvLd)
- - 👉 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)<!-- MEMES:END -->
+ - 💣 [Oh Boy.](http://9gag.com/gag/aAyZnbE)
+ - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
+ - 👉 [Good guy fish doctor](http://9gag.com/gag/a0exvLd)<!-- MEMES:END -->
 
 ---
 

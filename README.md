@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rage against the machine](http://9gag.com/gag/aByvRqZ)
- - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
- - 💣 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
- - 😝 [Don&#39;t mess with my baby.](http://9gag.com/gag/ae9djoO)
- - 👉 [Uhh wat](http://9gag.com/gag/arydvXy)<!-- MEMES:END -->
+ - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
+ - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
+ - 💣 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 😝 [Best day ever](http://9gag.com/gag/aGyoKqK)
+ - 👉 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)<!-- MEMES:END -->
 
 ---
 

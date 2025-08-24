@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
- - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
- - 💣 [Diversity has arrived in Japan](http://9gag.com/gag/ajPdYvQ)
- - 😝 [Im just jealous that he has a girlfriend](http://9gag.com/gag/aryd1md)
- - 👉 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)<!-- MEMES:END -->
+ - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
+ - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
+ - 💣 [Am I a criminal now?](http://9gag.com/gag/amodNKo)
+ - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 👉 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/amodNA6)<!-- MEMES:END -->
 
 ---
 

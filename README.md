@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
  - 💣 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
  - 😝 [Have it](http://9gag.com/gag/a1mxAb2)
- - 👉 [Rage against the machine](http://9gag.com/gag/aByvRqZ)<!-- MEMES:END -->
+ - 👉 [What is this called?](https://www.reddit.com/r/funny/comments/1mz3yta/what_is_this_called/)<!-- MEMES:END -->
 
 ---
 

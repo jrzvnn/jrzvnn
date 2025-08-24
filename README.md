@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
- - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
- - 💣 [He thought he was fast](http://9gag.com/gag/amodNyo)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
+ - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
+ - 💣 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 😝 [You&#39;ve learned something new today.](http://9gag.com/gag/aQzrPjq)
+ - 👉 [Never forget him](http://9gag.com/gag/adBb3nB)<!-- MEMES:END -->
 
 ---
 

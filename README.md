@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love how he shows respect to the ones that respect him equally](http://9gag.com/gag/aryd1qX)
- - 😝 [Raise it](http://9gag.com/gag/apRdKYn)
- - 💣 [Am I a criminal now?](http://9gag.com/gag/amodNKo)
- - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 👉 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/amodNA6)<!-- MEMES:END -->
+ - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
+ - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
+ - 💣 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
+ - 👉 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)<!-- MEMES:END -->
 
 ---
 

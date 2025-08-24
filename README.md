@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI tools from ElevenLabs and others were used to recreate a woman&#39;s voice, lost to motor neuron disease, from just eight seconds of audio on a VHS tape &lpar;Beth Rose/BBC&rpar;](http://www.techmeme.com/250824/p8#a250824p8)
+ - [Casca, which offers AI-powered tools for banks to accelerate loan application and origination processes, raised a $29M Series A led by Canapi Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250824/p7#a250824p7)
  - [AI infrastructure provider Crusoe acquires Israeli startup Atero, whose tech optimizes GPUs for AI workloads, in a cash and stock deal estimated at ~$150M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250824/p6#a250824p6)
  - [Twin Health, which uses AI-based digital twin tech to provide personalized diabetes and metabolic health guidance, raised a $53M Series E at a $950M valuation &lpar;Jessica Hagen/Mobi Health News&rpar;](http://www.techmeme.com/250824/p5#a250824p5)
- - [HP Coupon Codes and Deals: Up to 60% Off | August 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Austin-based Overhaul, an in-transit supply chain risk management company, raised a $105M Series C led by Springcoast Partners and Edison Partners &lpar;Liz Young/Wall Street Journal&rpar;](http://www.techmeme.com/250824/p4#a250824p4)
- - [KnowledgeLake, which uses AI and RPA to help organizations automate their work with documents, raised $65M in a majority growth round led by Edison Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250824/p3#a250824p3)<!-- TECH:END -->
+ - [HP Coupon Codes and Deals: Up to 60% Off | August 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

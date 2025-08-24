@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak doctor or engineer](http://9gag.com/gag/awyvq7x)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
- - 💣 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
- - 😝 [Hot damn!](http://9gag.com/gag/ayNz7WV)
- - 👉 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)<!-- MEMES:END -->
+ - 😝 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)
+ - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
+ - 💣 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
+ - 👉 [You little shit](http://9gag.com/gag/a0ex87z)<!-- MEMES:END -->
 
 ---
 

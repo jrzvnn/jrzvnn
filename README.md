@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Uhh wat](http://9gag.com/gag/arydvXy)
  - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
- - 💣 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
- - 😝 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)
- - 👉 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)<!-- MEMES:END -->
+ - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
+ - 👉 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)<!-- MEMES:END -->
 
 ---
 

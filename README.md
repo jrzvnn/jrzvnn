@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
- - 😝 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 💣 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
- - 😝 [Where&#39;s your bacon loicense?](http://9gag.com/gag/a34xPjr)
- - 👉 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)<!-- MEMES:END -->
+ - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
+ - 💣 [And that&#39;s how I met your mother](http://9gag.com/gag/aRBDxXA)
+ - 😝 [Good guy fish doctor](http://9gag.com/gag/a0exvLd)
+ - 👉 [Only one person can save Cracker Barrel.](http://9gag.com/gag/a2vGQXE)<!-- MEMES:END -->
 
 ---
 

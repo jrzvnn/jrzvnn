@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
  - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
- - 💣 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - 😝 [Have it](http://9gag.com/gag/a1mxAb2)
- - 👉 [What is this called?](https://www.reddit.com/r/funny/comments/1mz3yta/what_is_this_called/)<!-- MEMES:END -->
+ - 💣 [Best day ever](http://9gag.com/gag/aGyoKqK)
+ - 😝 [Rage against the machine](http://9gag.com/gag/aByvRqZ)
+ - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
 
 ---
 

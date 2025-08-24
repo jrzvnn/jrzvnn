@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
- - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
- - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
  - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - 👉 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)<!-- MEMES:END -->
+ - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 💣 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)<!-- MEMES:END -->
 
 ---
 

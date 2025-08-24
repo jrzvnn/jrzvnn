@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
  - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 💣 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [I like bacon](http://9gag.com/gag/a5Qxdzr)
  - 👉 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)<!-- MEMES:END -->
 
 ---

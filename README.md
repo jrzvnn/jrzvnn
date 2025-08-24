@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
  - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
- - 😝 [She was afraid people would rewrite history, so she recorded over 300,000 hours of TV over 35 years on 71,000 VHS tapes.Marion Stokes recorded television programs nonstop for over three decades. She started in the late 1970s](http://9gag.com/gag/aNDqegr)
- - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 😝 [Oh, also on teslas/ubers/taxis](http://9gag.com/gag/aLnb61A)
+ - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
  - 👉 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)<!-- MEMES:END -->
 
 ---

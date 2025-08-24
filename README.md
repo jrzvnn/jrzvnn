@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
- - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 💣 [Best day ever](http://9gag.com/gag/aGyoKqK)
- - 😝 [Rage against the machine](http://9gag.com/gag/aByvRqZ)
- - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
+ - 😝 [Have it](http://9gag.com/gag/a1mxAb2)
+ - 😝 [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)
+ - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
+ - 👉 [One of us..](http://9gag.com/gag/awy8r7R)<!-- MEMES:END -->
 
 ---
 

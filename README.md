@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two former executives who ran the CHIPS Program Office say the US-Intel deal won&#39;t solve Intel&#39;s real issue: a lack of external customers for its foundry unit &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250824/p17#a250824p17)
  - [Apple has considered bringing back the bumper for the iPhone 17](https://appleinsider.com/articles/25/08/24/apple-has-considered-bringing-back-the-bumper-for-the-iphone-17?utm_source=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25 #540](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-540/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 25, #806](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-25-806/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 25, #1528](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-25-1528/#ftag=CAD590a51e)
- - [Researchers detail an indirect prompt injection flaw in Perplexity&#39;s Comet AI browser, letting attackers manipulate it into performing unauthorized actions &lpar;Brave&rpar;](http://www.techmeme.com/250824/p16#a250824p16)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 25, #1528](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-25-1528/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

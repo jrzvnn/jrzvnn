@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: 94-year-old man attacked in Apple Store](https://appleinsider.com/articles/25/08/24/crime-blotter-94-year-old-man-attacked-in-apple-store?utm_source=rss)
+ - [15 Best White Noise Machines &lpar;2025&rpar;: Lectrofan, Snooz, Hatch, and More](https://www.wired.com/gallery/best-white-noise-machines/)
  - [The Hidden Ingredients Behind AI’s Creativity](https://www.wired.com/story/researchers-uncover-hidden-ingredients-behind-ai-creativity/)
  - [Is It Ever Legal—or Ethical—to Remove DRM?](https://www.wired.com/story/is-it-ever-legal-to-remove-drm/)
- - [What Is the Magnetic Constant and Why Does It Matter?](https://www.wired.com/story/what-is-the-magnetic-constant-and-why-does-it-matter/)
- - [The US CFTC staff describe chaos, cutbacks, and an atmosphere of resentment and paranoia as the agency prepares to take on new crypto regulatory duties &lpar;Bloomberg&rpar;](http://www.techmeme.com/250824/p10#a250824p10)
- - [Premier League Soccer: Stream Crystal Palace vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-crystal-palace-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Is the Magnetic Constant and Why Does It Matter?](https://www.wired.com/story/what-is-the-magnetic-constant-and-why-does-it-matter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

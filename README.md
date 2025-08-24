@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
- - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
- - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
+ - 😝 [Rage against the machine](http://9gag.com/gag/aByvRqZ)
+ - 💣 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)
  - 😝 [Blink twice if you need help](http://9gag.com/gag/a4Px47Z)
- - 👉 [Rage against the machine](http://9gag.com/gag/aByvRqZ)<!-- MEMES:END -->
+ - 👉 [Best day ever](http://9gag.com/gag/aGyoKqK)<!-- MEMES:END -->
 
 ---
 

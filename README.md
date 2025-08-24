@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Kid thought he was tough, then got put in his place by a teacher](http://9gag.com/gag/ajPy2Y8)
- - 😝 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)
- - 💣 [Hard rock climbing!](http://9gag.com/gag/ae9WXNb)
- - 😝 [Pikachu body goals](http://9gag.com/gag/aoyDBYg)
- - 👉 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)<!-- MEMES:END -->
+ - 😝 [What are you doing for living?](http://9gag.com/gag/a87zrKY)
+ - 💣 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)
+ - 😝 [When it&#39;s just not your day...](http://9gag.com/gag/aO8G6WE)
+ - 👉 [Just randomly thought about this picture from way back...](http://9gag.com/gag/a2vGQWZ)<!-- MEMES:END -->
 
 ---
 

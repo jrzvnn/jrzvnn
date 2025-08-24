@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;ve learned something new today.](http://9gag.com/gag/aQzrPjq)
- - 😝 [Am I a criminal now?](http://9gag.com/gag/amodNKo)
- - 💣 [Diversity has arrived in Japan](http://9gag.com/gag/ajPdYvQ)
- - 😝 [I don&#39;t get paid enough for this](http://9gag.com/gag/aYQmzzm)
- - 👉 [I&#39;d rather do this than be a 9gag admin](http://9gag.com/gag/amonDp2)<!-- MEMES:END -->
+ - 😝 [Uhh wat](http://9gag.com/gag/arydvXy)
+ - 😝 [The California board of tourism just released this video](http://9gag.com/gag/a4PVMDv)
+ - 💣 [Sum Sum Sum](http://9gag.com/gag/a87ndW3)
+ - 😝 [Looks like a skit straight out of The Office](http://9gag.com/gag/amodqY2)
+ - 👉 [Can&#39;t wait for Tulsi to put on the yellow/green spandex!](http://9gag.com/gag/awy8NnW)<!-- MEMES:END -->
 
 ---
 

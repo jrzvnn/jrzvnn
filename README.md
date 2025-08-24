@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Raya, a privately held dating app with a waitlist of 2.5M people, found success through its rigorous user selection process and Fight Club-style rules &lpar;Lane Florsheim/Wall Street Journal&rpar;](http://www.techmeme.com/250824/p11#a250824p11)
- - [The road to $3 trillion -- Tim Cook took charge of Apple on August 24, 2011](https://appleinsider.com/articles/20/08/24/tim-cook-took-charge-of-apple-on-this-day-in-2011?utm_source=rss)
- - [8BitDo 64 Bluetooth Controller Review: For Human Hands](https://www.wired.com/review/8bitdo-64-bluetooth-controller/)
- - [They’re trying to make deep-sea mining happen](https://www.theverge.com/the-stepback-newsletter/763871/deep-sea-mining-happening-again)
- - [The most fun way to look through old photos](https://www.theverge.com/installer-newsletter/764641/shutter-declutter-pixel-10-pro-fold-samsung-galaxy-buds-3-fe-herdling-installer)<!-- TECH:END -->
+ - [Big changes rumored to be coming to the iPhone for the next three years](https://appleinsider.com/articles/25/08/24/big-changes-rumored-to-be-coming-to-the-iphone-for-the-next-three-years?utm_source=rss)
+ - [iPhone Fold forced Apple into a display tech rethink](https://appleinsider.com/articles/25/08/24/iphone-fold-forced-apple-into-a-display-tech-rethink?utm_source=rss)
+ - [Apple has been teasing the 20th anniversary all-glass iPhone for years](https://appleinsider.com/articles/25/08/24/apple-has-been-teasing-the-20th-anniversary-all-glass-iphone-for-years?utm_source=rss)
+ - [Best Heart Rate Monitors &lpar;2025&rpar;, WIRED Tested and Reviewed](https://www.wired.com/gallery/best-heart-rate-monitors/)
+ - [How Raya, a privately held dating app with a waitlist of 2.5M people, found success through its rigorous user selection process and Fight Club-style rules &lpar;Lane Florsheim/Wall Street Journal&rpar;](http://www.techmeme.com/250824/p11#a250824p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Seemplicity, whose AI-based tech automates enterprise vulnerability and exposure management, raised a $50M Series B led by Sienna Venture Capital &lpar;Rick Whiting/CRN&rpar;](http://www.techmeme.com/250824/p2#a250824p2)
+ - [Elon Musk says xAI has open sourced Grok 2.5 and plans to do the same for Grok 3 in about six months, with Grok 2&#39;s weights now available on Hugging Face &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/250824/p1#a250824p1)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-24/#ftag=CAD590a51e)
  - [A journalist recounts shipping code as a vibe coding engineer during a two-day stint at Notion, working alongside engineers using AI tools like Cursor &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250823/p18#a250823p18)
- - [A look at the collapse of narrative podcasts, facing high production costs and limited ad revenue, despite overall podcast listenership reaching all-time highs &lpar;Eric Benson/Rolling Stone&rpar;](http://www.techmeme.com/250823/p17#a250823p17)
- - [An interview with Alex Kachkine, who shook the art world in June with a research paper in Nature on restoring paintings using AI, as he works to refine the tech &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/250823/p16#a250823p16)
- - [Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave](https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/)<!-- TECH:END -->
+ - [A look at the collapse of narrative podcasts, facing high production costs and limited ad revenue, despite overall podcast listenership reaching all-time highs &lpar;Eric Benson/Rolling Stone&rpar;](http://www.techmeme.com/250823/p17#a250823p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

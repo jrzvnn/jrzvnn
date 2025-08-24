@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Best Cheap TVs &lpar;2025&rpar;: TCL, Hisense, and More](https://www.wired.com/gallery/best-cheap-tvs/)
+ - [Vibration Plates: Fitness Experts Explain the Best Way to Use This Workout Tool](https://www.cnet.com/health/fitness/do-vibration-plates-actually-help-you-lose-weight-build-muscle-and-get-stronger/#ftag=CAD590a51e)
  - [The Framework Desktop and Linux have shown me the path to PC gaming in the living room](https://www.theverge.com/games/761025/framework-desktop-bazzite-linux-steam-machine-pc-game-console-impressions)
  - [Big changes rumored to be coming to the iPhone for the next three years](https://appleinsider.com/articles/25/08/24/big-changes-rumored-to-be-coming-to-the-iphone-for-the-next-three-years?utm_source=rss)
- - [iPhone Fold forced Apple into a display tech rethink](https://appleinsider.com/articles/25/08/24/iphone-fold-forced-apple-into-a-display-tech-rethink?utm_source=rss)
- - [Apple has been teasing the 20th anniversary all-glass iPhone for years](https://appleinsider.com/articles/25/08/24/apple-has-been-teasing-the-20th-anniversary-all-glass-iphone-for-years?utm_source=rss)<!-- TECH:END -->
+ - [iPhone Fold forced Apple into a display tech rethink](https://appleinsider.com/articles/25/08/24/iphone-fold-forced-apple-into-a-display-tech-rethink?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

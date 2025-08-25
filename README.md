@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [Lol..](http://9gag.com/gag/ayNzp3r)
+ - 😝 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)
+ - 💣 [9gaggers](http://9gag.com/gag/a87nbR6)
  - 😝 [I love bacon](http://9gag.com/gag/aAymrBR)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 👉 [Bacon](http://9gag.com/gag/ae9d3xv)<!-- MEMES:END -->
 
 ---
 

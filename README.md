@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Elon Musk baselessly suing Apple for Grok&#39;s position on the App Store](https://appleinsider.com/articles/25/08/25/elon-musk-baselessly-suing-apple-for-groks-position-on-the-app-store?utm_source=rss)
+ - [Trump told a major offshore wind project to stop construction just before it reached the finish line.](https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt)
  - [Nvidia says the Jetson AGX Thor, its latest &quot;robot brain&quot; chip module, is now on sale for $3,499 as a developer kit; the module will ship next month &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250825/p20#a250825p20)
  - [Report: Don&#39;t Expect New AirPods Max 2 at Apple&#39;s iPhone 17 Event](https://www.cnet.com/tech/mobile/report-dont-expect-new-airpods-max-2-at-apples-iphone-17-event/#ftag=CAD590a51e)
- - [xAI sues Apple and OpenAI in US federal court in Texas, accusing them of illegally conspiring to thwart AI competition &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250825/p19#a250825p19)
- - [The new Fi Mini pet tracker has GPS, and it&amp;#8217;s barely bigger than an AirTag](https://www.theverge.com/news/765132/fi-mini-gps-pet-lost-dog-cat-location-tracking)<!-- TECH:END -->
+ - [xAI sues Apple and OpenAI in US federal court in Texas, accusing them of illegally conspiring to thwart AI competition &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250825/p19#a250825p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

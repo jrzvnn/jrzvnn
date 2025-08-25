@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sensor Tower: in H1 2025, Temu&#39;s MAUs in Latin America soared 143% YoY to 105M; Mexico, Chile, and Uruguay are starting to tax low-cost imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p9#a250825p9)
+ - [Sources detail Intel&#39;s two-week roller-coaster ride, from Trump demanding CEO Lip-Bu Tan step down to the US government becoming Intel&#39;s biggest shareholder &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p8#a250825p8)
+ - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/)
  - [How Masayoshi Son became President Trump&#39;s favored foreign investor, after cultivating close ties since Trump&#39;s first term, leading to SoftBank&#39;s $2B Intel deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p7#a250825p7)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25 #540](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-540/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 25, #806](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-25-806/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 25, #1528](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-25-1528/#ftag=CAD590a51e)
- - [IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms](https://www.wired.com/story/ibm-and-nasa-develop-a-digital-twin-of-the-sun-to-predict-future-solar-storms/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25 #540](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-540/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

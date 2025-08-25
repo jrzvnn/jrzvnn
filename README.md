@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Discounts for Teachers &lpar;2025&rpar;: Deals on School Supplies, Tech, and More](https://www.wired.com/story/best-teacher-discounts/)
+ - [Google Nest Camera and Doorbell leak shows off new colors and 2K video recording](https://www.theverge.com/news/765373/google-home-nest-cam-doorbell-2k-video-leak-gemini)
  - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
  - [Take 20 Percent Off Ooni&#39;s Largest Pizza Oven for Labor Day](https://www.wired.com/story/ooni-koda-2-max-deal/)
- - [Filing: Intel warns the US taking a 10% stake could trigger &quot;adverse reactions&quot;, including in international sales, which made up 76% of revenue last fiscal year &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250825/p24#a250825p24)
- - [Has Your Android Started Blurring Nude Images Sent in Messages? You&#39;re Not Alone](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)
- - [A Year Later and I&#39;m Still Obsessed With Daily Harvest&#39;s $5 Premade Pasta Meals](https://www.cnet.com/health/nutrition/a-year-later-and-im-still-obsessed-with-daily-harvests-5-premade-pasta-dishes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Intel warns the US taking a 10% stake could trigger &quot;adverse reactions&quot;, including in international sales, which made up 76% of revenue last fiscal year &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250825/p24#a250825p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

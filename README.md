@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fastest hand in west](http://9gag.com/gag/a2vxNMO)
- - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
- - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - 😝 [Blink twice if you need help](http://9gag.com/gag/a4Px47Z)
- - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
+ - 😝 [It happened again](http://9gag.com/gag/amodNMv)
+ - 😝 [Mindf**k Movies for rainy days](http://9gag.com/gag/ae9d3LB)
+ - 💣 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
+ - 😝 [My life](http://9gag.com/gag/an7dKb5)
+ - 👉 [I love bacon](http://9gag.com/gag/aAymrBR)<!-- MEMES:END -->
 
 ---
 

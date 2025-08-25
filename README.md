@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Best day ever](http://9gag.com/gag/aGyoKqK)<!-- MEMES:END -->
+ - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 😝 [Driver stops for gas in the middle of a high speed police chase and still manages to get away.](http://9gag.com/gag/aqyd9NL)
+ - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [Karma at its finest](http://9gag.com/gag/a9yVdQD)
+ - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
 
 ---
 

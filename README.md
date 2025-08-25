@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
- - 😝 [One of us..](http://9gag.com/gag/awy8r7R)
- - 💣 [Where can I apply?](http://9gag.com/gag/a5QxNoL)
- - 😝 [Seems right](http://9gag.com/gag/abAd5Db)
- - 👉 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)<!-- MEMES:END -->
+ - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 😝 [Bacon](http://9gag.com/gag/ae9d3xv)
+ - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 ---
 

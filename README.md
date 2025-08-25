@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Steve Jobs&#39;s legacy still drives the &#39;Shot on iPhone&#39; ad agency](https://appleinsider.com/articles/25/08/25/how-steve-jobss-legacy-still-drives-the-shot-on-iphone-ad-agency?utm_source=rss)
  - [&#39;F1: the Movie&#39; drives past $600M at the international box office](https://appleinsider.com/articles/25/08/25/f1-the-movie-drives-past-600m-at-the-international-box-office?utm_source=rss)
  - [Pro by Déesse Pro Review: Mostly a Gimmick](https://www.wired.com/review/pro-by-deesse-pro/)
- - [Meta Has Already Won the Smart Glasses Race](https://www.wired.com/story/meta-has-already-won-the-smart-glasses-race/)
- - [a16z, OpenAI&#39;s Greg Brockman, and others launch Leading the Future, a pro-AI super PAC network with $100M+ in funding, hoping to emulate crypto PAC Fairshake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p11#a250825p11)
- - [How German delivery giant DHL uses automation and AI to help offset an ageing workforce, with one in three support staff set to retire in the next five years &lpar;Andrew Hill/Financial Times&rpar;](http://www.techmeme.com/250825/p10#a250825p10)<!-- TECH:END -->
+ - [iPhone 17 Launch: Everything We Expect to Be Announced at Apple&#39;s September Event](https://www.cnet.com/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/#ftag=CAD590a51e)
+ - [Meta Has Already Won the Smart Glasses Race](https://www.wired.com/story/meta-has-already-won-the-smart-glasses-race/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

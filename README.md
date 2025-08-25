@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25 #540](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-540/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 25, #806](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-25-806/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 25, #1528](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-25-1528/#ftag=CAD590a51e)
  - [IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms](https://www.wired.com/story/ibm-and-nasa-develop-a-digital-twin-of-the-sun-to-predict-future-solar-storms/)
- - [Sources: TSMC plans to drop Chinese chipmaking equipment, including AMEC&#39;s etching tools, from its most advanced 2nm production to avoid potential US backlash &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250825/p6#a250825p6)
- - [Sources: Spotify&#39;s difficulties of lining up partnerships have delayed its super premium service, which Spotify has been talking about for a couple of years &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250825/p5#a250825p5)
- - [Spotify Co-President and CBO Alex Norström says price increases are &quot;part of our toolbox now&quot;, adding that they will be accompanied by new services and features &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p4#a250825p4)
- - [A look at the surge in US states introducing AI bills, as the states shift from comprehensive AI laws to focus on narrower issues, like mental health &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/250825/p3#a250825p3)<!-- TECH:END -->
+ - [Sources: TSMC plans to drop Chinese chipmaking equipment, including AMEC&#39;s etching tools, from its most advanced 2nm production to avoid potential US backlash &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250825/p6#a250825p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

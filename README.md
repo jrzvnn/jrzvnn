@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bacon](http://9gag.com/gag/ae9d3xv)
- - 😝 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)
- - 💣 [9gaggers](http://9gag.com/gag/a87nbR6)
- - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [It happened again](http://9gag.com/gag/amodNMv)<!-- MEMES:END -->
+ - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 

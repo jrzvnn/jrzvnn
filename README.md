@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thoma Bravo buys Verint for $1.23B in a deal valuing the customer service automation software provider at $2B, days after the PE firm bought Dayforce for $12.3B &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250825/p18#a250825p18)
- - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
- - [AI doesn’t belong in journaling](https://www.theverge.com/analysis/764519/ai-gemini-pixel-journal-app)
- - [Best Robot Vacuums We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
- - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)<!-- TECH:END -->
+ - [Elon Musk baselessly suing Apple for Grok&#39;s position on the App Store](https://appleinsider.com/articles/25/08/25/elon-musk-baselessly-suing-apple-for-groks-position-on-the-app-store?utm_source=rss)
+ - [Nvidia says the Jetson AGX Thor, its latest &quot;robot brain&quot; chip module, is now on sale for $3,499 as a developer kit; the module will ship next month &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250825/p20#a250825p20)
+ - [xAI sues Apple and OpenAI in US federal court in Texas, accusing them of illegally conspiring to thwart AI competition &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250825/p19#a250825p19)
+ - [The new Fi Mini pet tracker has GPS, and it&amp;#8217;s barely bigger than an AirTag](https://www.theverge.com/news/765132/fi-mini-gps-pet-lost-dog-cat-location-tracking)
+ - [Thoma Bravo buys Verint for $1.23B in a deal valuing the customer service automation software provider at $2B, days after the PE firm bought Dayforce for $12.3B &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250825/p18#a250825p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

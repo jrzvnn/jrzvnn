@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_source=rss)
+ - [The US Commerce Department voids a Biden administration deal with the nonprofit Natcast to oversee $7.4B in semiconductor research funds, calling it illegal &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250825/p25#a250825p25)
  - [Best Discounts for Teachers &lpar;2025&rpar;: Deals on School Supplies, Tech, and More](https://www.wired.com/story/best-teacher-discounts/)
  - [Google Nest Camera and Doorbell leak shows off new colors and 2K video recording](https://www.theverge.com/news/765373/google-home-nest-cam-doorbell-2k-video-leak-gemini)
- - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
- - [Take 20 Percent Off Ooni&#39;s Largest Pizza Oven for Labor Day](https://www.wired.com/story/ooni-koda-2-max-deal/)
- - [Filing: Intel warns the US taking a 10% stake could trigger &quot;adverse reactions&quot;, including in international sales, which made up 76% of revenue last fiscal year &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250825/p24#a250825p24)<!-- TECH:END -->
+ - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

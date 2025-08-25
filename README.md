@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s xAI Sues Apple and OpenAI Over App Store Rankings](https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/)
+ - [Google plans to begin verifying the identity of all developers who distribute apps on Android, even if it&#39;s outside the Play Store, starting September 2026 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250825/p22#a250825p22)
+ - [Apple seeds developer beta 8 of iOS 26, iPadOS 26, macOS Tahoe 26](https://appleinsider.com/articles/25/08/25/apple-seeds-developer-beta-8-of-ios-26-ipados-26-macos-tahoe-26?utm_source=rss)
+ - [Elon Musk&#39;s xAI Sues Apple and OpenAI Over App Store Rankings](https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/)
  - [WIRED Might Have Found a New Best Bag in the World](https://www.wired.com/story/wired-might-have-found-a-new-best-bag-in-the-world/)
- - [Our favorite smart lock is on sale for the first time today](https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale)
- - [What &#39;Shark Tank&#39; star Kevin O&#39;Leary learned from Steve Jobs &amp; his harsh advice](https://appleinsider.com/articles/25/08/25/what-shark-tank-star-kevin-oleary-learned-from-steve-jobs-his-harsh-advice?utm_source=rss)
- - [YouTube used AI to make changes in some videos without telling the creators; YouTube says it&#39;s an experiment to unblur, denoise, and improve quality &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250825/p21#a250825p21)<!-- TECH:END -->
+ - [Our favorite smart lock is on sale for the first time today](https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

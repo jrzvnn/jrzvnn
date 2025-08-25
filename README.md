@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
- - 😝 [One of us..](http://9gag.com/gag/awy8r7R)
- - 💣 [Seems right](http://9gag.com/gag/abAd5Db)
- - 😝 [I wish I had friends](http://9gag.com/gag/aoydzLX)
- - 👉 [Where can I apply?](http://9gag.com/gag/a5QxNoL)<!-- MEMES:END -->
+ - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 😝 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
+ - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
 
 ---
 

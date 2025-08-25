@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
  - [Take 20 Percent Off Ooni&#39;s Largest Pizza Oven for Labor Day](https://www.wired.com/story/ooni-koda-2-max-deal/)
  - [Filing: Intel warns the US taking a 10% stake could trigger &quot;adverse reactions&quot;, including in international sales, which made up 76% of revenue last fiscal year &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250825/p24#a250825p24)
- - [Sources: the Trump administration is considering imposing sanctions on EU or member state officials responsible for implementing the EU&#39;s DSA &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250825/p23#a250825p23)
- - [16 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)<!-- TECH:END -->
+ - [Has Your Android Started Blurring Nude Images Sent in Messages? You&#39;re Not Alone](https://www.cnet.com/tech/services-and-software/google-will-now-blur-nude-photos-in-your-messages-heres-how-to-turn-it-on-or-off/#ftag=CAD590a51e)
+ - [A Year Later and I&#39;m Still Obsessed With Daily Harvest&#39;s $5 Premade Pasta Meals](https://www.cnet.com/health/nutrition/a-year-later-and-im-still-obsessed-with-daily-harvests-5-premade-pasta-dishes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

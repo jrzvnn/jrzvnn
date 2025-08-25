@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
  - 😝 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
- - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
  - 👉 [This is what AI was made for](http://9gag.com/gag/awy8r4y)<!-- MEMES:END -->
 
 ---

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [WIRED Roundup: The US Chip Manufacturers’ Bonanza](https://www.wired.com/story/uncannny-valley-wired-roundup-us-chip-manufacturers-bonanza/)
  - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)
  - [The 58 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pokemon TCG Pocket&#39;s Next Set Showcases Johto&#39;s Rarest Legendaries](https://www.cnet.com/tech/gaming/pokemon-tcg-pockets-next-set-showcases-johtos-rarest-legendaries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
- - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Best day ever](http://9gag.com/gag/aGyoKqK)<!-- MEMES:END -->
+ - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 💣 [Best day ever](http://9gag.com/gag/aGyoKqK)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 👉 [Ceased to exist](http://9gag.com/gag/a1mxvQw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)
+ - [The 58 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
  - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)
  - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_source=rss)
- - [The US Commerce Department voids a Biden administration deal with the nonprofit Natcast to oversee $7.4B in semiconductor research funds, calling it illegal &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250825/p25#a250825p25)
- - [We Tested All the Cheapest Meal Kits and Prepared Meal Services. These Are the Best](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
- - [Best Discounts for Teachers &lpar;2025&rpar;: Deals on School Supplies, Tech, and More](https://www.wired.com/story/best-teacher-discounts/)<!-- TECH:END -->
+ - [The US Commerce Department voids a Biden administration deal with the nonprofit Natcast to oversee $7.4B in semiconductor research funds, calling it illegal &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250825/p25#a250825p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

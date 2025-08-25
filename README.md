@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
- - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 💣 [How sugar cane juice is made with manual power. Uhmmmm, delicio.... Oh....](http://9gag.com/gag/aqydm4Z)
- - 😝 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)
- - 👉 [Ceased to exist](http://9gag.com/gag/a1mxvQw)<!-- MEMES:END -->
+ - 😝 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)
+ - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 💣 [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)
+ - 😝 [One of us..](http://9gag.com/gag/awy8r7R)
+ - 👉 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)<!-- MEMES:END -->
 
 ---
 

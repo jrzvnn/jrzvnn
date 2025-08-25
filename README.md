@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [So far in 2025, at least 10 biotech companies have pivoted into crypto to boost stock prices, frequently sparking frenzied but short-lived spikes in shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p26#a250825p26)
- - [WIRED Roundup: The US Chip Manufacturers’ Bonanza](https://www.wired.com/story/uncannny-valley-wired-roundup-us-chip-manufacturers-bonanza/)
- - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)
- - [The 58 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Pokemon TCG Pocket&#39;s Next Set Showcases Johto&#39;s Rarest Legendaries](https://www.cnet.com/tech/gaming/pokemon-tcg-pockets-next-set-showcases-johtos-rarest-legendaries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity&#39;s Comet AI Web Browser Had a Major Security Vulnerability](https://www.cnet.com/tech/services-and-software/perplexitys-comet-ai-web-browser-had-a-major-security-vulnerability/#ftag=CAD590a51e)
+ - [This Is the Best Oil to Use for Every Type of Cooking](https://www.cnet.com/news/this-is-the-best-oil-to-use-for-every-type-of-cooking/#ftag=CAD590a51e)
+ - [The White House Wants to Beautify US Websites. This Airbnb Co-Founder Is in Charge](https://www.cnet.com/tech/services-and-software/the-white-house-wants-to-beautify-us-websites-this-airbnb-co-founder-is-in-charge/#ftag=CAD590a51e)
+ - [Perplexity Will Share Revenue From AI Searches With Publishers](https://www.cnet.com/tech/services-and-software/perplexity-will-share-revenue-from-ai-searches-with-publishers/#ftag=CAD590a51e)
+ - [So far in 2025, at least 10 biotech companies have pivoted into crypto to boost stock prices, frequently sparking frenzied but short-lived spikes in shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p26#a250825p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

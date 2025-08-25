@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Crypto Micronation Is Making Friends at the White House](https://www.wired.com/story/liberland-micro-nation-justin-sun-white-house/)
  - [Sony&#39;s gaming execs, designers, and studio founders describe how it wants its first-party studios to contribute more to revenue growth and take measured risks &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/250825/p2#a250825p2)
  - [Vertical streaming apps charging $20/week are beating Netflix and other SVOD platforms in user growth with their mini-dramas optimized for mobile viewing &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/250825/p1#a250825p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 25, #336](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-25-336/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-25/#ftag=CAD590a51e)
- - [Q&amp;A with Grindr CEO George Arison on developing AI-powered features like Wingman and A-List, Grindr&#39;s new telehealth service Woodwork, his RTO mandate, and more &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250824/p19#a250824p19)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Aug. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-aug-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

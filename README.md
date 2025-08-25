@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
- - 😝 [Best day ever](http://9gag.com/gag/aGyoKqK)
- - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 😝 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)
+ - 💣 [Best day ever](http://9gag.com/gag/aGyoKqK)
  - 😝 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
- - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
+ - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
 
 ---
 

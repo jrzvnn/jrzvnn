@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How sugar cane juice is made with manual power. Uhmmmm, delicio.... Oh....](http://9gag.com/gag/aqydm4Z)
- - 😝 [Look at this absolute unit of a stingray](http://9gag.com/gag/an7dej5)
- - 💣 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 😝 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)
+ - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
+ - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
  - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
 
 ---

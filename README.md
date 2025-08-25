@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)
  - [CalDigit TS5 Plus review: A great &amp; capable Thunderbolt 5 dock for Mac](https://appleinsider.com/articles/25/05/20/caldigit-ts5-plus-review-a-great-capable-thunderbolt-5-dock-for-mac?utm_source=rss)
  - [The US Commerce Department voids a Biden administration deal with the nonprofit Natcast to oversee $7.4B in semiconductor research funds, calling it illegal &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250825/p25#a250825p25)
- - [Best Discounts for Teachers &lpar;2025&rpar;: Deals on School Supplies, Tech, and More](https://www.wired.com/story/best-teacher-discounts/)
- - [Google Nest Camera and Doorbell leak shows off new colors and 2K video recording](https://www.theverge.com/news/765373/google-home-nest-cam-doorbell-2k-video-leak-gemini)
- - [The 38 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)<!-- TECH:END -->
+ - [We Tested All the Cheapest Meal Kits and Prepared Meal Services. These Are the Best](https://www.cnet.com/health/nutrition/cheapest-meal-delivery-service/#ftag=CAD590a51e)
+ - [Best Discounts for Teachers &lpar;2025&rpar;: Deals on School Supplies, Tech, and More](https://www.wired.com/story/best-teacher-discounts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

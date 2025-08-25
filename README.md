@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here’s where you can buy microSD Express cards for the Switch 2](https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy)
+ - [AI doesn’t belong in journaling](https://www.theverge.com/analysis/764519/ai-gemini-pixel-journal-app)
+ - [Best Robot Vacuums We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e)
  - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)
- - [Lowest price ever: Apple&#39;s 1TB M4 Mac mini falls to $849](https://appleinsider.com/articles/25/08/25/lowest-price-ever-apples-1tb-m4-mac-mini-falls-to-849?utm_source=rss)
- - [Apple&#39;s iPhone 17 cases promise grip &amp; style, if they&#39;re real](https://appleinsider.com/articles/25/08/25/apples-iphone-17-cases-promise-grip-style-if-theyre-real?utm_source=rss)
- - [Saudi Arabia&#39;s Humain debuts Humain Chat, a bilingual Arabic-English conversational AI powered by its Allam LLM and designed around Islamic values and heritage &lpar;Omar El Chmouri/Bloomberg&rpar;](http://www.techmeme.com/250825/p17#a250825p17)
- - [Apple&amp;#8217;s three-year iPhone plan is a break from the boring](https://www.theverge.com/news/765063/apple-iphone-air-redesign-three-year-plan)<!-- TECH:END -->
+ - [Lowest price ever: Apple&#39;s 1TB M4 Mac mini falls to $849](https://appleinsider.com/articles/25/08/25/lowest-price-ever-apples-1tb-m4-mac-mini-falls-to-849?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

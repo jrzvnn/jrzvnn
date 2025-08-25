@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)
- - 😝 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
- - 💣 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)
- - 😝 [I wish I had friends](http://9gag.com/gag/aoydzLX)
- - 👉 [One of us..](http://9gag.com/gag/awy8r7R)<!-- MEMES:END -->
+ - 😝 [Driver stops for gas in the middle of a high speed police chase and still manages to get away.](http://9gag.com/gag/aqyd9NL)
+ - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 💣 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - 👉 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)<!-- MEMES:END -->
 
 ---
 

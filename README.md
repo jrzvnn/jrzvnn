@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - 😝 [Distractions](http://9gag.com/gag/a5QxdON)
  - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Best day ever](http://9gag.com/gag/aGyoKqK)<!-- MEMES:END -->
+ - 💣 [This is what AI was made for](http://9gag.com/gag/awy8r4y)
+ - 😝 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
+ - 👉 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)<!-- MEMES:END -->
 
 ---
 

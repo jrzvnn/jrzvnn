@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s three-year iPhone plan is a break from the boring](https://www.theverge.com/news/765063/apple-iphone-air-redesign-three-year-plan)
- - [An interview with Eric Trump on how he became a crypto evangelist after several banks cut off the Trump family&#39;s accounts following the January 6 Capitol riot &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250825/p16#a250825p16)
- - [Faster charging with Qi2.2, Dreame PM20 air purifier review, and more on HomeKit Insider](https://appleinsider.com/articles/25/08/25/faster-charging-with-qi22-dreame-pm20-air-purifier-review-and-more-on-homekit-insider?utm_source=rss)
- - [Nevada records: xAI terminated its public benefit corporation status on May 9, 2024, and when xAI merged with X, the company remained without its PBC structure &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250825/p15#a250825p15)
- - [Trump&amp;#8217;s immigration crackdown could be slowing the hunt for child predators online](https://www.theverge.com/policy/764602/online-child-exploitation-investigations-hsi-immigration)<!-- TECH:END -->
+ - [Inside iOS 26 Genmoji: Tapbacks, smarter AI &amp; deeper customization](https://appleinsider.com/articles/25/08/22/inside-ios-26-genmoji-tapbacks-smarter-ai-deeper-customization?utm_source=rss)
+ - [Lowest price ever: Apple&#39;s 1TB M4 Mac mini falls to $849](https://appleinsider.com/articles/25/08/25/lowest-price-ever-apples-1tb-m4-mac-mini-falls-to-849?utm_source=rss)
+ - [Apple&#39;s iPhone 17 cases promise grip &amp; style, if they&#39;re real](https://appleinsider.com/articles/25/08/25/apples-iphone-17-cases-promise-grip-style-if-theyre-real?utm_source=rss)
+ - [Saudi Arabia&#39;s Humain debuts Humain Chat, a bilingual Arabic-English conversational AI powered by its Allam LLM and designed around Islamic values and heritage &lpar;Omar El Chmouri/Bloomberg&rpar;](http://www.techmeme.com/250825/p17#a250825p17)
+ - [Apple&amp;#8217;s three-year iPhone plan is a break from the boring](https://www.theverge.com/news/765063/apple-iphone-air-redesign-three-year-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

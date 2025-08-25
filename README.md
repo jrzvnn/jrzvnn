@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
- - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
- - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
+ - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
  - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
  - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 

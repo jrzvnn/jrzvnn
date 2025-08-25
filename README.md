@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The new entry-level Kindle Colorsoft is $30 off for a limited time](https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale)
  - [Sources: Doug Beck, director of Pentagon&#39;s Defense Innovation Unit, resigns; DOD officials had previously raised concerns about his donations to Democrats &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p27#a250825p27)
- - [So far in 2025, at least 10 biotech companies have pivoted into crypto to boost stock prices, frequently sparking frenzied but short-lived spikes in shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p26#a250825p26)
- - [WIRED Roundup: The US Chip Manufacturers’ Bonanza](https://www.wired.com/story/uncannny-valley-wired-roundup-us-chip-manufacturers-bonanza/)
- - [Best Early Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025/)<!-- TECH:END -->
+ - [Perplexity&#39;s Comet AI Web Browser Had a Major Security Vulnerability](https://www.cnet.com/tech/services-and-software/perplexitys-comet-ai-web-browser-had-a-major-security-vulnerability/#ftag=CAD590a51e)
+ - [This Is the Best Oil to Use for Every Type of Cooking](https://www.cnet.com/news/this-is-the-best-oil-to-use-for-every-type-of-cooking/#ftag=CAD590a51e)
+ - [The White House Wants to Beautify US Websites. This Airbnb Co-Founder Is in Charge](https://www.cnet.com/tech/services-and-software/the-white-house-wants-to-beautify-us-websites-this-airbnb-co-founder-is-in-charge/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This new delivery robot will bring the entire grocery store to you](https://www.theverge.com/news/765167/robomart-autonomous-food-delivery-locker-rm5)
- - [Elon Musk baselessly suing Apple for Grok&#39;s position on the App Store](https://appleinsider.com/articles/25/08/25/elon-musk-baselessly-suing-apple-for-groks-position-on-the-app-store?utm_source=rss)
- - [Trump told a major offshore wind project to stop construction just before it reached the finish line](https://www.theverge.com/news/765175/trump-offshore-wind-farm-revolution-orsted-halt)
- - [Nvidia says the Jetson AGX Thor, its latest &quot;robot brain&quot; chip module, is now on sale for $3,499 as a developer kit; the module will ship next month &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250825/p20#a250825p20)
- - [Report: Don&#39;t Expect New AirPods Max 2 at Apple&#39;s iPhone 17 Event](https://www.cnet.com/tech/mobile/report-dont-expect-new-airpods-max-2-at-apples-iphone-17-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our favorite smart lock is on sale for the first time today](https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale)
+ - [What &#39;Shark Tank&#39; star Kevin O&#39;Leary learned from Steve Jobs &amp; his harsh advice](https://appleinsider.com/articles/25/08/25/what-shark-tank-star-kevin-oleary-learned-from-steve-jobs-his-harsh-advice?utm_source=rss)
+ - [YouTube used AI to make changes in some videos without telling the creators; YouTube says it&#39;s an experiment to unblur, denoise, and improve quality &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250825/p21#a250825p21)
+ - [AirPods Pro 3 rumors: Heart rate sensing, better ANC, and maybe cameras](https://appleinsider.com/articles/25/08/25/airpods-pro-3-rumors-heart-rate-sensing-better-anc-and-maybe-cameras?utm_source=rss)
+ - [Elon Musk&amp;#8217;s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

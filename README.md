@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Masayoshi Son became President Trump&#39;s favored foreign investor, after cultivating close ties since Trump&#39;s first term, leading to SoftBank&#39;s $2B Intel deal &lpar;Financial Times&rpar;](http://www.techmeme.com/250825/p7#a250825p7)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 25 #540](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-25-540/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 25, #806](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-25-806/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Aug. 25, #1528](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-25-1528/#ftag=CAD590a51e)
- - [IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms](https://www.wired.com/story/ibm-and-nasa-develop-a-digital-twin-of-the-sun-to-predict-future-solar-storms/)
- - [Sources: TSMC plans to drop Chinese chipmaking equipment, including AMEC&#39;s etching tools, from its most advanced 2nm production to avoid potential US backlash &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/250825/p6#a250825p6)<!-- TECH:END -->
+ - [IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms](https://www.wired.com/story/ibm-and-nasa-develop-a-digital-twin-of-the-sun-to-predict-future-solar-storms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix plans to open its first Netflix House locations, 100K-sq-ft entertainment and shopping venues, in Philadelphia on November 12 and Dallas on December 11 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250825/p13#a250825p13)
+ - [25 Best Power Banks &lpar;2025&rpar;, I&#39;ve Tested Countless to Find Them](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [EcoFlow’s Rapid power bank is the fastest yet](https://www.theverge.com/reviews/764829/fastest-power-bank-review-ecoflow-rapid)
+ - [Perplexity launches Comet Plus, a $5/month tier offering curated content, and says it has allocated $42.5M for publishers, which will receive 80% of the revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p14#a250825p14)
  - [Recharged rumor: iPhone 17 Pro may get reverse wireless charging](https://appleinsider.com/articles/25/08/25/recharged-rumor-iphone-17-pro-may-get-reverse-wireless-charging?utm_source=rss)
- - [LG S95AR Review: A Hassle-Free Dolby Atmos Soundbar](https://www.wired.com/review/lg-s95ar/)
- - [First Netflix House opens its doors on November 12th](https://www.theverge.com/news/765025/first-netflix-house-opens-its-doors-on-november-12th)
- - [PDD Holdings, which owns Pinduoduo and Temu, reports Q2 revenue up 7% YoY to ~$14.53B, above est., and net income down 5% YoY to ~$4.5B, driven by discounts &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p12#a250825p12)<!-- TECH:END -->
+ - [When the Blade Breaks](https://www.theverge.com/features/760555/vineyard-wind-turbine-blade-break-nantucket)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 😝 [It happened again](http://9gag.com/gag/amodNMv)
- - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
+ - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 😝 [Bacon](http://9gag.com/gag/ae9d3xv)
+ - 👉 [This is what AI was made for](http://9gag.com/gag/awy8r4y)<!-- MEMES:END -->
 
 ---
 

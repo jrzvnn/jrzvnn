@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
- - 😝 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
- - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [It happened again](http://9gag.com/gag/amodNMv)
  - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
 
 ---

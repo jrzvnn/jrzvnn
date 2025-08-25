@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Distractions](http://9gag.com/gag/a5QxdON)
- - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 💣 [This is what AI was made for](http://9gag.com/gag/awy8r4y)
+ - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 😝 [Best day ever](http://9gag.com/gag/aGyoKqK)
+ - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
  - 😝 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
- - 👉 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)<!-- MEMES:END -->
+ - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
 
 ---
 

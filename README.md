@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver stops for gas in the middle of a high speed police chase and still manages to get away.](http://9gag.com/gag/aqyd9NL)
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 💣 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 😝 [Where can I apply?](http://9gag.com/gag/a5QxNoL)
  - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
- - 👉 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)<!-- MEMES:END -->
+ - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
 
 ---
 

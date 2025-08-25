@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk’s xAI Sues Apple and OpenAI Over App Store Rankings](https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/)
+ - [WIRED Might Have Found a New Best Bag in the World](https://www.wired.com/story/wired-might-have-found-a-new-best-bag-in-the-world/)
  - [Our favorite smart lock is on sale for the first time today](https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale)
  - [What &#39;Shark Tank&#39; star Kevin O&#39;Leary learned from Steve Jobs &amp; his harsh advice](https://appleinsider.com/articles/25/08/25/what-shark-tank-star-kevin-oleary-learned-from-steve-jobs-his-harsh-advice?utm_source=rss)
- - [YouTube used AI to make changes in some videos without telling the creators; YouTube says it&#39;s an experiment to unblur, denoise, and improve quality &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250825/p21#a250825p21)
- - [AirPods Pro 3 rumors: Heart rate sensing, better ANC, and maybe cameras](https://appleinsider.com/articles/25/08/25/airpods-pro-3-rumors-heart-rate-sensing-better-anc-and-maybe-cameras?utm_source=rss)
- - [Elon Musk&amp;#8217;s xAI is suing OpenAI and Apple](https://www.theverge.com/news/765171/elon-musk-apple-openai-antitrust-lawsuit)<!-- TECH:END -->
+ - [YouTube used AI to make changes in some videos without telling the creators; YouTube says it&#39;s an experiment to unblur, denoise, and improve quality &lpar;Thomas Germain/BBC&rpar;](http://www.techmeme.com/250825/p21#a250825p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

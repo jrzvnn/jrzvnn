@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [Distractions](http://9gag.com/gag/a5QxdON)
  - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
  - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 😝 [Bacon](http://9gag.com/gag/ae9d3xv)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
  - 👉 [This is what AI was made for](http://9gag.com/gag/awy8r4y)<!-- MEMES:END -->
 
 ---

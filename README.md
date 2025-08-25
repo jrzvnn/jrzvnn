@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Steve Jobs&#39;s legacy still drives the &#39;Shot on iPhone&#39; ad agency](https://appleinsider.com/articles/25/08/25/how-steve-jobss-legacy-still-drives-the-shot-on-iphone-ad-agency?utm_source=rss)
- - [&#39;F1: the Movie&#39; drives past $600M at the international box office](https://appleinsider.com/articles/25/08/25/f1-the-movie-drives-past-600m-at-the-international-box-office?utm_source=rss)
- - [Pro by Déesse Pro Review: Mostly a Gimmick](https://www.wired.com/review/pro-by-deesse-pro/)
- - [iPhone 17 Launch: Everything We Expect to Be Announced at Apple&#39;s September Event](https://www.cnet.com/tech/mobile/apple-iphone-17-event-september-2025-what-to-expect/#ftag=CAD590a51e)
- - [Meta Has Already Won the Smart Glasses Race](https://www.wired.com/story/meta-has-already-won-the-smart-glasses-race/)<!-- TECH:END -->
+ - [Netflix plans to open its first Netflix House locations, 100K-sq-ft entertainment and shopping venues, in Philadelphia on November 12 and Dallas on December 11 &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250825/p13#a250825p13)
+ - [Recharged rumor: iPhone 17 Pro may get reverse wireless charging](https://appleinsider.com/articles/25/08/25/recharged-rumor-iphone-17-pro-may-get-reverse-wireless-charging?utm_source=rss)
+ - [LG S95AR Review: A Hassle-Free Dolby Atmos Soundbar](https://www.wired.com/review/lg-s95ar/)
+ - [First Netflix House opens its doors on November 12th](https://www.theverge.com/news/765025/first-netflix-house-opens-its-doors-on-november-12th)
+ - [PDD Holdings, which owns Pinduoduo and Temu, reports Q2 revenue up 7% YoY to ~$14.53B, above est., and net income down 5% YoY to ~$4.5B, driven by discounts &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p12#a250825p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

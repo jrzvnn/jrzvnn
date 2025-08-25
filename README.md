@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [a16z, OpenAI&#39;s Greg Brockman, and others launch Leading the Future, a pro-AI super PAC network with $100M+ in funding, hoping to emulate crypto PAC Fairshake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p11#a250825p11)
  - [How German delivery giant DHL uses automation and AI to help offset an ageing workforce, with one in three support staff set to retire in the next five years &lpar;Andrew Hill/Financial Times&rpar;](http://www.techmeme.com/250825/p10#a250825p10)
  - [Virgins Are Reality TV’s Latest Darlings. Their Reasons for Abstaining Are Complicated](https://www.wired.com/story/virgins-are-reality-tvs-latest-darlings-reasons-for-abstaining/)
  - [Sensor Tower: in H1 2025, Temu&#39;s MAUs in Latin America soared 143% YoY to 105M; Mexico, Chile, and Uruguay are starting to tax low-cost imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p9#a250825p9)
- - [Save Your Kidneys and Your Budget With These 13 Superfoods](https://www.cnet.com/health/nutrition/save-your-kidneys-and-your-budget-with-these-13-superfoods/#ftag=CAD590a51e)
- - [This Hidden iPhone Feature Could Improve Your Call Quality](https://www.cnet.com/tech/services-and-software/this-hidden-iphone-feature-could-improve-your-call-quality/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save Your Kidneys and Your Budget With These 13 Superfoods](https://www.cnet.com/health/nutrition/save-your-kidneys-and-your-budget-with-these-13-superfoods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

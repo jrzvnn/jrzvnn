@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - 😝 [Co-worker&#39;s watches](https://www.reddit.com/r/funny/comments/1n05399/coworkers_watches/)
+ - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 💣 [Fastest hand in west](http://9gag.com/gag/a2vxNMO)
  - 😝 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
- - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 👉 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)<!-- MEMES:END -->
 
 ---
 

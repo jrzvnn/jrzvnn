@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
- - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
- - 💣 [Best day ever](http://9gag.com/gag/aGyoKqK)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 👉 [Ceased to exist](http://9gag.com/gag/a1mxvQw)<!-- MEMES:END -->
+ - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 

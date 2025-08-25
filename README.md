@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
- - 😝 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)
- - 💣 [Best day ever](http://9gag.com/gag/aGyoKqK)
+ - 😝 [8 ball trick shot](http://9gag.com/gag/a6ZxwQm)
  - 😝 [Dude recognized and accepted it. Respect.](http://9gag.com/gag/axyANpb)
- - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
+ - 💣 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)
+ - 😝 [I wish I had friends](http://9gag.com/gag/aoydzLX)
+ - 👉 [One of us..](http://9gag.com/gag/awy8r7R)<!-- MEMES:END -->
 
 ---
 

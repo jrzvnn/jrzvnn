@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ceased to exist](http://9gag.com/gag/a1mxvQw)
  - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
  - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 😝 [5th day of russia celebrating Ukrainian independence day!](http://9gag.com/gag/a6Zxdq2)
- - 👉 [Ceased to exist](http://9gag.com/gag/a1mxvQw)<!-- MEMES:END -->
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Best day ever](http://9gag.com/gag/aGyoKqK)<!-- MEMES:END -->
 
 ---
 

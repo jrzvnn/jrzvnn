@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
  - 😝 [Fastest hand in west](http://9gag.com/gag/a2vxNMO)
- - 💣 [Dodged a bullet](http://9gag.com/gag/a34xd5r)
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
+ - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - 💣 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 😝 [Blink twice if you need help](http://9gag.com/gag/a4Px47Z)
+ - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
 
 ---
 

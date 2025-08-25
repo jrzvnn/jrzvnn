@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Details About the First iPhone Foldable Are Coming Into Focus](https://www.cnet.com/tech/mobile/details-about-the-first-iphone-foldable-are-coming-into-focus/#ftag=CAD590a51e)
  - [The new entry-level Kindle Colorsoft is $30 off for a limited time](https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale)
  - [Sources: Doug Beck, director of Pentagon&#39;s Defense Innovation Unit, resigns; DOD officials had previously raised concerns about his donations to Democrats &lpar;Reuters&rpar;](http://www.techmeme.com/250825/p27#a250825p27)
  - [Perplexity&#39;s Comet AI Web Browser Had a Major Security Vulnerability](https://www.cnet.com/tech/services-and-software/perplexitys-comet-ai-web-browser-had-a-major-security-vulnerability/#ftag=CAD590a51e)
- - [This Is the Best Oil to Use for Every Type of Cooking](https://www.cnet.com/news/this-is-the-best-oil-to-use-for-every-type-of-cooking/#ftag=CAD590a51e)
- - [The White House Wants to Beautify US Websites. This Airbnb Co-Founder Is in Charge](https://www.cnet.com/tech/services-and-software/the-white-house-wants-to-beautify-us-websites-this-airbnb-co-founder-is-in-charge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Is the Best Oil to Use for Every Type of Cooking](https://www.cnet.com/news/this-is-the-best-oil-to-use-for-every-type-of-cooking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

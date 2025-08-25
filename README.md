@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A Karen, always a Karen](http://9gag.com/gag/aLnbKEv)
- - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
- - 💣 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)
  - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
- - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
+ - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
+ - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Best day ever](http://9gag.com/gag/aGyoKqK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 😝 [Driver stops for gas in the middle of a high speed police chase and still manages to get away.](http://9gag.com/gag/aqyd9NL)
- - 💣 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 😝 [Karma at its finest](http://9gag.com/gag/a9yVdQD)
- - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
+ - 😝 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)
+ - 😝 [Seems right](http://9gag.com/gag/abAd5Db)
+ - 💣 [One of us..](http://9gag.com/gag/awy8r7R)
+ - 😝 [I wish I had friends](http://9gag.com/gag/aoydzLX)
+ - 👉 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)<!-- MEMES:END -->
 
 ---
 

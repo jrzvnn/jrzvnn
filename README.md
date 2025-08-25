@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She was afraid people would rewrite history, so she recorded over 300,000 hours of TV over 35 years on 71,000 VHS tapes.Marion Stokes recorded television programs nonstop for over three decades. She started in the late 1970s](http://9gag.com/gag/aNDqegr)
- - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 💣 [Be kind, please rewind](http://9gag.com/gag/aAymYPE)
- - 😝 [Someone&#39;s grandma 50 years ago:](http://9gag.com/gag/abAdX38)
- - 👉 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)<!-- MEMES:END -->
+ - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
+ - 💣 [How sugar cane juice is made with manual power. Uhmmmm, delicio.... Oh....](http://9gag.com/gag/aqydm4Z)
+ - 😝 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)
+ - 👉 [Ceased to exist](http://9gag.com/gag/a1mxvQw)<!-- MEMES:END -->
 
 ---
 

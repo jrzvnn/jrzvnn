@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: the Trump administration is considering imposing sanctions on EU or member state officials responsible for implementing the EU&#39;s DSA &lpar;Humeyra Pamuk/Reuters&rpar;](http://www.techmeme.com/250825/p23#a250825p23)
  - [16 Best Back-to-School Deals for 2025](https://www.wired.com/story/best-back-to-school-deals-2025/)
  - [Google plans to begin verifying the identity of all developers who distribute apps on Android, even if it&#39;s outside the Play Store, starting September 2026 &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250825/p22#a250825p22)
- - [Apple seeds developer beta 8 of iOS 26, iPadOS 26, macOS Tahoe 26](https://appleinsider.com/articles/25/08/25/apple-seeds-developer-beta-8-of-ios-26-ipados-26-macos-tahoe-26?utm_source=rss)
- - [Elon Musk&#39;s xAI Sues Apple and OpenAI Over App Store Rankings](https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/)<!-- TECH:END -->
+ - [Waymo Gets the Green Light to Test in New York City. Everything to Know About the Robotaxi](https://www.cnet.com/roadshow/news/waymo-gets-the-green-light-to-test-in-new-york-city-everything-to-know-about-the-robotaxi/#ftag=CAD590a51e)
+ - [Apple seeds developer beta 8 of iOS 26, iPadOS 26, macOS Tahoe 26](https://appleinsider.com/articles/25/08/25/apple-seeds-developer-beta-8-of-ios-26-ipados-26-macos-tahoe-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

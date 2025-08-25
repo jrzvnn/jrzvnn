@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Blink your ears and you&#39;ll miss the meep](http://9gag.com/gag/aKGL4O3)
- - 😝 [Someone needs to hear this: HR is NOT your friend.](http://9gag.com/gag/apRdEdD)
+ - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
  - 💣 [Here&#39;s an idea, make it GOOD, remove Zendaya, there, Shrek 5 will be a billion dollar success!](http://9gag.com/gag/amodN5j)
- - 😝 [Seems right](http://9gag.com/gag/abAd5Db)
- - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Best day ever](http://9gag.com/gag/aGyoKqK)<!-- MEMES:END -->
 
 ---
 

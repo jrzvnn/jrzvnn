@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;F1: the Movie&#39; drives past $600M at the international box office](https://appleinsider.com/articles/25/08/25/f1-the-movie-drives-past-600m-at-the-international-box-office?utm_source=rss)
+ - [Pro by Déesse Pro Review: Mostly a Gimmick](https://www.wired.com/review/pro-by-deesse-pro/)
  - [Meta Has Already Won the Smart Glasses Race](https://www.wired.com/story/meta-has-already-won-the-smart-glasses-race/)
  - [a16z, OpenAI&#39;s Greg Brockman, and others launch Leading the Future, a pro-AI super PAC network with $100M+ in funding, hoping to emulate crypto PAC Fairshake &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250825/p11#a250825p11)
- - [How German delivery giant DHL uses automation and AI to help offset an ageing workforce, with one in three support staff set to retire in the next five years &lpar;Andrew Hill/Financial Times&rpar;](http://www.techmeme.com/250825/p10#a250825p10)
- - [Virgins Are Reality TV’s Latest Darlings. Their Reasons for Abstaining Are Complicated](https://www.wired.com/story/virgins-are-reality-tvs-latest-darlings-reasons-for-abstaining/)
- - [Sensor Tower: in H1 2025, Temu&#39;s MAUs in Latin America soared 143% YoY to 105M; Mexico, Chile, and Uruguay are starting to tax low-cost imports &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p9#a250825p9)<!-- TECH:END -->
+ - [How German delivery giant DHL uses automation and AI to help offset an ageing workforce, with one in three support staff set to retire in the next five years &lpar;Andrew Hill/Financial Times&rpar;](http://www.techmeme.com/250825/p10#a250825p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

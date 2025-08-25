@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone said it&#39;s a cigarette lighter.](http://9gag.com/gag/a6Zxwd9)
- - 😝 [Seems right](http://9gag.com/gag/abAd5Db)
- - 💣 [One of us..](http://9gag.com/gag/awy8r7R)
- - 😝 [I wish I had friends](http://9gag.com/gag/aoydzLX)
- - 👉 [The formerly `Great` Britian](http://9gag.com/gag/amodXQ4)<!-- MEMES:END -->
+ - 😝 [A Karen, always a Karen](http://9gag.com/gag/aLnbKEv)
+ - 😝 [Let&#39;s kill me together !](http://9gag.com/gag/aGyo9q7)
+ - 💣 [Japan before and after, randomly on my feed](http://9gag.com/gag/avyDpNO)
+ - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
 
 ---
 

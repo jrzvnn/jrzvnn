@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Power Banks &lpar;2025&rpar;, I&#39;ve Tested Countless to Find Them](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
- - [EcoFlow’s Rapid power bank is the fastest yet](https://www.theverge.com/reviews/764829/fastest-power-bank-review-ecoflow-rapid)
- - [Perplexity launches Comet Plus, a $5/month tier offering curated content, and says it has allocated $42.5M for publishers, which will receive 80% of the revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250825/p14#a250825p14)
- - [Recharged rumor: iPhone 17 Pro may get reverse wireless charging](https://appleinsider.com/articles/25/08/25/recharged-rumor-iphone-17-pro-may-get-reverse-wireless-charging?utm_source=rss)
- - [When the Blade Breaks](https://www.theverge.com/features/760555/vineyard-wind-turbine-blade-break-nantucket)<!-- TECH:END -->
+ - [An interview with Eric Trump on how he became a crypto evangelist after several banks cut off the Trump family&#39;s accounts following the January 6 Capitol riot &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250825/p16#a250825p16)
+ - [Faster charging with Qi2.2, Dreame PM20 air purifier review, and more on HomeKit Insider](https://appleinsider.com/articles/25/08/25/faster-charging-with-qi22-dreame-pm20-air-purifier-review-and-more-on-homekit-insider?utm_source=rss)
+ - [Nevada records: xAI terminated its public benefit corporation status on May 9, 2024, and when xAI merged with X, the company remained without its PBC structure &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/250825/p15#a250825p15)
+ - [Trump&amp;#8217;s immigration crackdown could be slowing the hunt for child predators online](https://www.theverge.com/policy/764602/online-child-exploitation-investigations-hsi-immigration)
+ - [25 Best Power Banks &lpar;2025&rpar;, I&#39;ve Tested Countless to Find Them](https://www.wired.com/gallery/best-portable-chargers-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

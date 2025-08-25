@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where can I apply?](http://9gag.com/gag/a5QxNoL)
- - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
- - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 👉 [What was his thought process here?](http://9gag.com/gag/aryd1w7)<!-- MEMES:END -->
+ - 😝 [What was his thought process here?](http://9gag.com/gag/aryd1w7)
+ - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [5th day of russia celebrating Ukrainian independence day!](http://9gag.com/gag/a6Zxdq2)
+ - 👉 [Ceased to exist](http://9gag.com/gag/a1mxvQw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Melania Trump says she hopes to become the First Lady of Technology as she leads the Presidential AI Challenge to inspire children and teachers to embrace AI &lpar;Miranda Devine/New York Post&rpar;](http://www.techmeme.com/250826/p19#a250826p19)
- - [Rumor claims AirPods Pro 3 charging case may slim down &amp; drop button](https://appleinsider.com/articles/25/08/26/rumor-claims-airpods-pro-3-charging-case-may-slim-down-drop-button?utm_source=rss)
- - [This Solar-Powered Camping Backpack Charged My Phone 18 Times in One Trip](https://www.cnet.com/deals/this-solar-powered-camping-backpack-charged-my-phone-18-times-in-one-cycle/#ftag=CAD590a51e)
- - [Sources: Apple executives have discussed acquiring Mistral AI and Perplexity, with Eddy Cue as the most vocal champion within the company for such AI deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p18#a250826p18)
- - [Google says it is behind the viral &quot;nano-banana&quot; image model, launches it as Gemini 2.5 Flash Image with finer edit controls in Gemini app, Gemini API, more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250826/p17#a250826p17)<!-- TECH:END -->
+ - [Exclusive deal: Save $350 on Apple&#39;s M4 MacBook Pro with 32GB RAM](https://appleinsider.com/articles/25/08/26/exclusive-deal-save-350-on-apples-m4-macbook-pro-with-32gb-ram?utm_source=rss)
+ - [iPhone 17 accessory makers bet on &#39;Air&#39; name instead of &#39;Slim&#39;](https://appleinsider.com/articles/25/08/26/iphone-17-accessory-makers-bet-on-air-name-instead-of-slim?utm_source=rss)
+ - [Tesla rejected $60 settlement in Autopilot case that ultimately cost it 4 times that amount](https://www.theverge.com/tesla/765907/tesla-rejected-60-settlement-in-autopilot-case-that-ultimately-cost-it-4-times-that-amount)
+ - [The Framework Laptop 16 Can Now Be Upgraded to an RTX 5070](https://www.wired.com/story/framework-laptop-16-nvidia-rtx-5070/)
+ - [Framework is now selling the first gaming laptop that lets you easily upgrade its GPU — with Nvidia’s blessing](https://www.theverge.com/laptops/765528/framework-is-now-selling-the-first-gaming-laptop-that-lets-you-easily-upgrade-its-gpu-with-nvidias-blessing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

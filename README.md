@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: HongShan, formerly Sequoia China, has invested only a quarter of the ~$9B it raised in 2022 and has been increasingly looking beyond China for deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p40#a250826p40)
  - [Internal memo: Indian IT services giant TCS forms a new unit for AI-based operations and names Amit Kapur, who led TCS&#39; UK and Ireland business, as its chief &lpar;Sai Ishwarbharath B/Reuters&rpar;](http://www.techmeme.com/250826/p39#a250826p39)
  - [Apple Invites gets countdown widget in latest update](https://appleinsider.com/articles/25/08/26/apple-invites-gets-countdown-widget-in-latest-update?utm_source=rss)
  - [Microsoft temporarily locked down a building at its HQ after protesters got inside Brad Smith&#39;s office, demanding that it cut ties with the Israeli government &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250826/p38#a250826p38)
- - [Get Ready, Apple&#39;s iPhone 17 Event Confirmed for Sept. 9](https://www.cnet.com/tech/mobile/get-ready-apples-iphone-17-event-confirmed-for-sept-9/#ftag=CAD590a51e)
- - [Okta reports Q2 revenue up 13% YoY to $728M, vs. $711.8M est., net income up 131% to $67M, and increases its fiscal 2026 forecast; OKTA jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250826/p37#a250826p37)<!-- TECH:END -->
+ - [Get Ready, Apple&#39;s iPhone 17 Event Confirmed for Sept. 9](https://www.cnet.com/tech/mobile/get-ready-apples-iphone-17-event-confirmed-for-sept-9/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

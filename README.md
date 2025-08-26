@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says Meta plans to spend $50B on its &quot;Hyperion&quot; data center under construction in Louisiana; earlier, Meta said that its investment would exceed $10B &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250826/p33#a250826p33)
+ - [Here are 30 of our favorite deals from REI’s ongoing Labor Day sale](https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025)
+ - [Anthropic settles AI book piracy lawsuit](https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement)
  - [Arlo Announces a New Lineup of AI-Powered Security Cameras](https://www.cnet.com/home/security/arlo-announces-a-new-lineup-of-ai-powered-security-cameras/#ftag=CAD590a51e)
- - [Looks like nuclear fusion is picking up steam](https://www.theverge.com/news/766269/nuclear-fusion-project-map)
- - [KPop Demon Hunters is Netflix’s most popular movie of all time](https://www.theverge.com/netflix/766280/kpop-demon-hunters-netflix-record)
- - [AI super PACs, the hottest investment in tech](https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments)
- - [Taylor Swift Is Engaged. Her Instagram Post Might Beat Messi&#39;s Record](https://www.cnet.com/tech/taylor-swift-is-engaged-and-her-instagram-post-could-smash-lionel-messis-record/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Looks like nuclear fusion is picking up steam](https://www.theverge.com/news/766269/nuclear-fusion-project-map)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

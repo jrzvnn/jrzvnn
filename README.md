@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub)
  - [Google DeepMind&#39;s Weather Lab, launched in June, showed superior accuracy in forecasting Hurricane Erin&#39;s path up to 72 hours ahead, beating traditional models &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/250826/p31#a250826p31)
  - [How to watch Apple&#39;s &#39;Awe Dropping&#39; iPhone 17 launch live](https://appleinsider.com/inside/iphone-17/tips/how-to-watch-apples-awe-dropping-iphone-17-launch-live?utm_source=rss)
- - [Looking to Buy a Window Air Conditioner? Read This First](https://www.wired.com/story/what-to-know-before-buying-a-window-air-conditioner/)
- - [Sonos Era 300 Sale: The Big Sonos Speaker Is 20 Percent Off](https://www.wired.com/story/sonos-era-300-deal/)
- - [Researchers Are Already Leaving Meta’s New Superintelligence Lab](https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/)<!-- TECH:END -->
+ - [iOS 26 Is Almost Here. This Is When I Think Apple Will Release the iPhone Update](https://www.cnet.com/tech/services-and-software/ios-26-is-almost-here-this-is-when-i-think-apple-will-release-the-iphone-update/#ftag=CAD590a51e)
+ - [Looking to Buy a Window Air Conditioner? Read This First](https://www.wired.com/story/what-to-know-before-buying-a-window-air-conditioner/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

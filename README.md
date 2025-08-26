@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
- - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 💣 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
  - 😝 [Stayed turned around and did nothing like the Turnaround cat](http://9gag.com/gag/a4PxdD1)
- - 👉 [Mouse trapped in the office](https://www.reddit.com/r/funny/comments/1n0gnz5/mouse_trapped_in_the_office/)<!-- MEMES:END -->
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 

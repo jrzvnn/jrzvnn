@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
- - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
  - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
- - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
+ - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 

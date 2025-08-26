@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole](https://www.wired.com/story/uncanny-valley-podcast-big-interview-alexis-ohanian/)
- - [AI Chatbots Are Inconsistent in Answering Questions About Suicide, New Study Finds](https://www.cnet.com/tech/services-and-software/ai-chatbots-are-inconsistent-in-answering-questions-about-suicide-new-study-finds/#ftag=CAD590a51e)
- - [AI Is Eliminating Jobs for Younger Workers](https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/)
- - [Bengaluru, home to about 33% of India&#39;s 1,800+ GCCs and key to the $300B tech industry, struggles as its infrastructure lags behind rapid tech sector growth &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p3#a250826p3)
- - [Japanese media groups Nikkei and Asahi Shimbun jointly sue Perplexity in Tokyo, alleging the AI startup &quot;copied and stored&quot; their content without permission &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p2#a250826p2)<!-- TECH:END -->
+ - [Shopify updated a help page in May to tighten its rules against &quot;hateful content&quot; like racist merchandise, after removing a similar ban in July 2024 &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250826/p4#a250826p4)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26 #541](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-541/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 26, #337](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-26-337/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 26, #807](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-26-807/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 26, #1529](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-26-1529/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

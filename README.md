@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filing: Tesla rejected a $60M settlement offer in a lawsuit over a fatal 2019 crash of an Autopilot-equipped Model S, before losing a $243M verdict &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250826/p6#a250826p6)
+ - [US EV Sales Are Booming—for Now](https://www.wired.com/story/us-ev-sales-are-booming-not-great-for-evs/)
  - [A profile of A24, valued at $3.5B in June 2024, as the studio focuses on big budget projects and invests in AI tools via A24 Labs, drawing mixed reactions &lpar;Alex Barasch/New Yorker&rpar;](http://www.techmeme.com/250826/p5#a250826p5)
  - [Shopify updated a help page in May to tighten its rules against &quot;hateful content&quot; like racist merchandise, after removing a similar ban in July 2024 &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250826/p4#a250826p4)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26 #541](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-541/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 26, #337](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-26-337/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 26, #807](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-26-807/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26 #541](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-541/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

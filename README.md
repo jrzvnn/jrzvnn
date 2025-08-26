@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Klarna seeks a $13B to $14B valuation in its IPO next month, selling shares for $34-$36 as early as this week; Klarna sought a ~$50B valuation in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250826/p13#a250826p13)
+ - [Hasselblad X2D II: the luxury sports car of medium format cameras](https://www.theverge.com/camera-review/765305/hasselblad-x2d-ii-the-luxury-sports-car-of-medium-format-cameras)
+ - [Hasselblad’s new medium format flagship comes with end-to-end HDR](https://www.theverge.com/news/765787/hasselblad-x2d-ii-100c-camera-launch)
  - [Sources: Temu resumes shipping goods from China directly to US consumers and increases its US ad spending, after a trade truce between Washington and Beijing &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p12#a250826p12)
- - [Germany says Apple can&#39;t claim Apple Watch is carbon neutral](https://appleinsider.com/articles/25/08/26/germany-says-apple-cant-claim-apple-watch-is-carbon-neutral?utm_source=rss)
- - [AT&amp;T agrees to buy spectrum licenses from EchoStar for ~$23B in cash, adding 50MHz of low-band and mid-band spectrum, set to close by mid-2026 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250826/p11#a250826p11)
- - [Spotify launches a DM feature to let users share audio and send text-based messages, available to mobile users over 16 years old in &quot;select markets&quot; this week &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250826/p10#a250826p10)
- - [Yield Sec: illegal gambling operators captured 71% of Europe&#39;s online betting and casino market in 2024, or €80.65B, as regulators struggle with crypto casinos &lpar;Navya Menon/Bloomberg&rpar;](http://www.techmeme.com/250826/p9#a250826p9)<!-- TECH:END -->
+ - [Germany says Apple can&#39;t claim Apple Watch is carbon neutral](https://appleinsider.com/articles/25/08/26/germany-says-apple-cant-claim-apple-watch-is-carbon-neutral?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

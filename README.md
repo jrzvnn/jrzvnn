@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 😝 [Just toss that ham in the frying pan](http://9gag.com/gag/aNDqKZG)
- - 💣 [Denmark is taking a stand against AI deepfakes. This is a game changer for personal rights](http://9gag.com/gag/adBdYrZ)
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
+ - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
 
 ---
 

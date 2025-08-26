@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cue vs. Federighi: Executives differ on if Apple should buy their way out of AI crisis](https://appleinsider.com/articles/25/08/26/cue-vs-federighi-executives-differ-on-if-apple-should-buy-their-way-out-of-ai-crisis?utm_source=rss)
  - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
  - [London-based Attio, which offers a CRM service where AI agents and humans work together, raised a $52M Series B led by GV, bringing its total funding to $116M &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250826/p26#a250826p26)
  - [Polymarket raised &quot;double-digit millions&quot; from 1789 Capital, which Donald Trump Jr. joined as a partner in 2024; Trump Jr. will join Polymarket&#39;s advisory board &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250826/p25#a250826p25)
- - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/08/26/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)
- - [Google pilots a new language practice feature on Google Translate with tailored listening and practicing sessions, and also adds AI-powered live conversations &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/250826/p24#a250826p24)<!-- TECH:END -->
+ - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/08/26/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

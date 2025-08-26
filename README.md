@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US taking a 10% equity stake in Intel is a terrible idea and a dangerous turn for US industrial policy, but also the least bad idea to make Foundry viable &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250826/p8#a250826p8)
+ - [How They Make the Mario Kart-Style &#39;Ghost Car&#39; for Auto Racing Broadcasts](https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/)
+ - [Stanford researchers: over the past three years, employment has dropped 13% for entry-level workers starting out in fields that are the most exposed to AI &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250826/p7#a250826p7)
  - [Court filing: Tesla rejected a $60M settlement offer in a lawsuit over a fatal 2019 crash of an Autopilot-equipped Model S, before losing a $243M verdict &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250826/p6#a250826p6)
- - [US EV Sales Are Booming—for Now](https://www.wired.com/story/us-ev-sales-are-booming-not-great-for-evs/)
- - [A profile of A24, valued at $3.5B in June 2024, as the studio focuses on big budget projects and invests in AI tools via A24 Labs, drawing mixed reactions &lpar;Alex Barasch/New Yorker&rpar;](http://www.techmeme.com/250826/p5#a250826p5)
- - [Shopify updated a help page in May to tighten its rules against &quot;hateful content&quot; like racist merchandise, after removing a similar ban in July 2024 &lpar;Thomas Seal/Bloomberg&rpar;](http://www.techmeme.com/250826/p4#a250826p4)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 26 #541](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-26-541/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US EV Sales Are Booming—for Now](https://www.wired.com/story/us-ev-sales-are-booming-not-great-for-evs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

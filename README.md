@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SSA&#39;s chief data officer files a whistleblower complaint that DOGE uploaded a database with every Social Security number ever issued to an insecure cloud server &lpar;Nicholas Nehamas/New York Times&rpar;](http://www.techmeme.com/250826/p20#a250826p20)
+ - [Jessica Chastain stars in Apple TV+ thriller &#39;The Savant&#39;, premiering September 26](https://appleinsider.com/articles/25/08/26/jessica-chastain-stars-in-apple-tv-thriller-the-savant-premiering-september-26?utm_source=rss)
+ - [Dyson’s 360 Vis Nav, our favorite robot vacuum for carpets, is half off](https://www.theverge.com/tech/765920/dyson-360-vis-nav-google-tv-streamer-4k-deal-sale)
  - [Exclusive deal: Save $350 on Apple&#39;s M4 MacBook Pro with 32GB RAM](https://appleinsider.com/articles/25/08/26/exclusive-deal-save-350-on-apples-m4-macbook-pro-with-32gb-ram?utm_source=rss)
- - [iPhone 17 accessory makers bet on &#39;Air&#39; name instead of &#39;Slim&#39;](https://appleinsider.com/articles/25/08/26/iphone-17-accessory-makers-bet-on-air-name-instead-of-slim?utm_source=rss)
- - [Tesla rejected $60 settlement in Autopilot case that ultimately cost it 4 times that amount](https://www.theverge.com/tesla/765907/tesla-rejected-60-settlement-in-autopilot-case-that-ultimately-cost-it-4-times-that-amount)
- - [The Framework Laptop 16 Can Now Be Upgraded to an RTX 5070](https://www.wired.com/story/framework-laptop-16-nvidia-rtx-5070/)
- - [Framework is now selling the first gaming laptop that lets you easily upgrade its GPU — with Nvidia’s blessing](https://www.theverge.com/laptops/765528/framework-is-now-selling-the-first-gaming-laptop-that-lets-you-easily-upgrade-its-gpu-with-nvidias-blessing)<!-- TECH:END -->
+ - [iPhone 17 accessory makers bet on &#39;Air&#39; name instead of &#39;Slim&#39;](https://appleinsider.com/articles/25/08/26/iphone-17-accessory-makers-bet-on-air-name-instead-of-slim?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

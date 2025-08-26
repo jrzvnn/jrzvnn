@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250826/p30#a250826p30)
+ - [New Liquid Apple Event logo moves and changes color when swiped](https://appleinsider.com/articles/25/08/26/new-liquid-apple-event-logo-moves-and-changes-color-when-swiped?utm_source=rss)
+ - [Intel has partnerships with multiple Chinese surveillance companies sanctioned by the US for enabling human rights abuses, including Uniview and Hikvision &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250826/p29#a250826p29)
  - [Meta plans to spend tens of millions to launch a super PAC that will back candidates for California state offices with a light-touch approach to AI regulation &lpar;Politico&rpar;](http://www.techmeme.com/250826/p28#a250826p28)
- - [CRKD’s $99 Peak Design clone is great for handhelds](https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review)
- - [The family of a teen who committed suicide sues OpenAI, alleging that ChatGPT gave him info about suicide methods and at times deterred him from seeking help &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250826/p27#a250826p27)
- - [Cue vs. Federighi: Executives differ on if Apple should buy their way out of AI crisis](https://appleinsider.com/articles/25/08/26/cue-vs-federighi-executives-differ-on-if-apple-should-buy-their-way-out-of-ai-crisis?utm_source=rss)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
+ - [CRKD’s $99 Peak Design clone is great for handhelds](https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

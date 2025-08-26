@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework unveils a second-generation Framework Laptop 16 with a swappable Nvidia RTX 5070 GPU, an industry first, shipping in November 2025 for $2,199+ &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250826/p21#a250826p21)
- - [SSA&#39;s chief data officer files a whistleblower complaint that DOGE uploaded a database with every Social Security number ever issued to an insecure cloud server &lpar;Nicholas Nehamas/New York Times&rpar;](http://www.techmeme.com/250826/p20#a250826p20)
- - [Jessica Chastain stars in Apple TV+ thriller &#39;The Savant&#39;, premiering September 26](https://appleinsider.com/articles/25/08/26/jessica-chastain-stars-in-apple-tv-thriller-the-savant-premiering-september-26?utm_source=rss)
- - [Dyson’s 360 Vis Nav, our favorite robot vacuum for carpets, is half off](https://www.theverge.com/tech/765920/dyson-360-vis-nav-google-tv-streamer-4k-deal-sale)
- - [Exclusive deal: Save $350 on Apple&#39;s M4 MacBook Pro with 32GB RAM](https://appleinsider.com/articles/25/08/26/exclusive-deal-save-350-on-apples-m4-macbook-pro-with-32gb-ram?utm_source=rss)<!-- TECH:END -->
+ - [Apple’s iPhone 17 launch event is set for September 9th](https://www.theverge.com/apple/766062/apple-iphone-17-launch-event-awe-dropping)
+ - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/08/26/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)
+ - [Apple announces an &quot;Awe dropping&quot; event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250826/p23#a250826p23)
+ - [YouTube rolls out Hype, which lets users boost creators with under 500K subscribers via a hype button that gives videos points, in the US and 38 other countries &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250826/p22#a250826p22)
+ - [EA&amp;#8217;s free-to-play Skate revival hits early access in September](https://www.theverge.com/news/761186/ea-skate-free-to-play-early-access-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

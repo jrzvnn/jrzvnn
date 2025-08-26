@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [?????????](http://9gag.com/gag/aZZdxjQ)
+ - 😝 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)
  - 😝 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
- - 💣 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)
- - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
+ - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - 😝 [Czech citizens just crowdfunded Ukrainians a Blackhawk.](http://9gag.com/gag/ae9dGKq)
+ - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---
 

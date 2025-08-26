@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Klarna seeks a $13B to $14B valuation in its IPO next month, selling shares for $34-$36 as early as this week; Klarna sought a ~$50B valuation in 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/250826/p13#a250826p13)
- - [Hasselblad X2D II: the luxury sports car of medium format cameras](https://www.theverge.com/camera-review/765305/hasselblad-x2d-ii-the-luxury-sports-car-of-medium-format-cameras)
- - [Hasselblad’s new medium format flagship comes with end-to-end HDR](https://www.theverge.com/news/765787/hasselblad-x2d-ii-100c-camera-launch)
- - [Sources: Temu resumes shipping goods from China directly to US consumers and increases its US ad spending, after a trade truce between Washington and Beijing &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p12#a250826p12)
- - [Germany says Apple can&#39;t claim Apple Watch is carbon neutral](https://appleinsider.com/articles/25/08/26/germany-says-apple-cant-claim-apple-watch-is-carbon-neutral?utm_source=rss)<!-- TECH:END -->
+ - [Zooming in on weird cameras](https://www.theverge.com/uncategorized/765482/fujifilm-x-half-sigma-bf-petapixel-chris-jordan-iphone-mini)
+ - [Hands-on with the Level Lock Pro: sleeker, smarter, still very expensive](https://www.theverge.com/hands-on/765571/level-lock-pro-hands-on-review-apple-home-key-matter-thread)
+ - [Wyze’s newest pan and tilt cam can track your pets in 4K](https://www.theverge.com/news/765794/wyze-cam-pan-v4-security-camera-price-availability)
+ - [French prosecutors open an investigation into Australian video platform Kick over the death of a content creator who was violently abused during livestreams &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/250826/p15#a250826p15)
+ - [Apple Music migration tool will finally help U.S. Spotify users switch](https://appleinsider.com/articles/25/08/26/apple-music-migration-tool-will-finally-help-us-spotify-users-switch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

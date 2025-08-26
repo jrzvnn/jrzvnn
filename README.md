@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
  - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
  - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 👉 [This is what AI was made for](http://9gag.com/gag/awy8r4y)<!-- MEMES:END -->
+ - 😝 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
+ - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
 
 ---
 

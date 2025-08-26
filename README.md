@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumor claims AirPods Pro 3 charging case may slim down &amp; drop button](https://appleinsider.com/articles/25/08/26/rumor-claims-airpods-pro-3-charging-case-may-slim-down-drop-button?utm_source=rss)
+ - [Sources: Apple executives have discussed acquiring Mistral AI and Perplexity, with Eddy Cue as the most vocal champion within the company for such AI deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p18#a250826p18)
+ - [Google says it is behind the viral &quot;nano-banana&quot; image model, launches it as Gemini 2.5 Flash Image with finer edit controls in Gemini app, Gemini API, more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250826/p17#a250826p17)
  - [Parallels Desktop revamps branding, adds macOS 26 Tahoe support](https://appleinsider.com/articles/25/08/26/parallels-desktop-revamps-branding-adds-macos-26-tahoe-support?utm_source=rss)
- - [14 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
- - [Google will verify Android developers distributing apps outside the Play store](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
- - [Marshall’s first Bluetooth party speaker has a hidden light show](https://www.theverge.com/news/764259/marshall-bromley-750-bluetooth-wireless-party-speaker)
- - [Trump Media and Crypto.com sign a deal to integrate Crypto.com&#39;s wallet and adopt the CRO token for Truth Social&#39;s rewards; Trump Media will buy $105M in CRO &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250826/p16#a250826p16)<!-- TECH:END -->
+ - [14 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

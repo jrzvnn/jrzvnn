@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese media groups Nikkei and Asahi Shimbun jointly sue Perplexity in Tokyo, alleging the AI startup &quot;copied and stored&quot; their content without permission &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p2#a250826p2)
  - [Lenovo Coupon Codes and Deals: Up to $880 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)
  - [SoftBank shares are up 61% in 2025, making it one of Tokyo&#39;s top performers, on the back of AI and chip investments, as some investors question the upside &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250826/p1#a250826p1)
  - [20% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)
- - [KitchenAid Promo Code: 25% Off in August 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [KitchenAid Promo Code: 25% Off in August 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 💣 [Sad music](http://9gag.com/gag/amod03X)
+ - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
  - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
 
 ---
 

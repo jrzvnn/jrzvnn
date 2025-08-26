@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
  - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 😝 [Nsc](http://9gag.com/gag/awy87WW)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)
  - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
 
 ---

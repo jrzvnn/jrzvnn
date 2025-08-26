@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
- - 😝 [Italians are smart!](http://9gag.com/gag/aAympep)
+ - 😝 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
+ - 😝 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)
  - 💣 [Told my girlfriend to grab a 2-pack of socks... this is what I got instead](http://9gag.com/gag/a9yVP4D)
  - 😝 [Dogg on point](http://9gag.com/gag/aNDqKjv)
  - 👉 [Lol](http://9gag.com/gag/a9yVPVL)<!-- MEMES:END -->

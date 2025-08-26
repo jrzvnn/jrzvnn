@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
- - 😝 [Italians are smart!](http://9gag.com/gag/aAympep)
- - 💣 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
- - 😝 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)
- - 👉 [Told my girlfriend to grab a 2-pack of socks... this is what I got instead](http://9gag.com/gag/a9yVP4D)<!-- MEMES:END -->
+ - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [Nsc](http://9gag.com/gag/awy87WW)
+ - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
 
 ---
 

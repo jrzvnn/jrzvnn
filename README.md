@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Blue Water Autonomy, which is building autonomous, unmanned ships for the US Navy, raised a $50M Series A led by GV, bringing its total funding to $64M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250826/p32#a250826p32)
  - [The winners and losers of Taylor Swift’s engagement announcement](https://www.theverge.com/news/766173/taylor-swift-travis-kelce-engagement-announcement-instagram-threads)
  - [The 39 Best Shows on Apple TV+ Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [If Wi-Fi Can Go Through Walls, Why Is My Internet So Slow?](https://www.cnet.com/home/internet/if-wi-fi-can-go-through-walls-why-is-my-internet-so-slow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

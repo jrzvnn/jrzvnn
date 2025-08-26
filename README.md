@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Internal memo: Indian IT services giant TCS forms a new unit for AI-based operations and names Amit Kapur, who led TCS&#39; UK and Ireland business, as its chief &lpar;Sai Ishwarbharath B/Reuters&rpar;](http://www.techmeme.com/250826/p39#a250826p39)
  - [Apple Invites gets countdown widget in latest update](https://appleinsider.com/articles/25/08/26/apple-invites-gets-countdown-widget-in-latest-update?utm_source=rss)
  - [Microsoft locks down a building at its headquarters after protesters got inside Brad Smith&#39;s office, demanding that it cut ties with the Israeli government &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250826/p38#a250826p38)
- - [Get Ready, Apple&#39;s iPhone 17 Event Confirmed for Sept. 9](https://www.cnet.com/tech/mobile/get-ready-apples-iphone-17-event-confirmed-for-sept-9/#ftag=CAD590a51e)
- - [Okta reports Q2 revenue up 13% YoY to $728M, vs. $711.8M est., net income up 131% to $67M, and increases its fiscal 2026 forecast; OKTA jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250826/p37#a250826p37)<!-- TECH:END -->
+ - [Okta reports Q2 revenue up 13% YoY to $728M, vs. $711.8M est., net income up 131% to $67M, and increases its fiscal 2026 forecast; OKTA jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250826/p37#a250826p37)
+ - [OpenAI plans to update ChatGPT to better respond to mental distress cues, provide parental controls, and bolster safeguards around conversations about suicide &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250826/p36#a250826p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

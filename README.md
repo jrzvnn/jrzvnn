@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mindf**k Movies for rainy days](http://9gag.com/gag/ae9d3LB)
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 💣 [Sad music](http://9gag.com/gag/amod03X)
- - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [Denmark is taking a stand against AI deepfakes. This is a game changer for personal rights](http://9gag.com/gag/adBdYrZ)<!-- MEMES:END -->
+ - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 💣 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 👉 [First Responder Training](http://9gag.com/gag/arydpBK)<!-- MEMES:END -->
 
 ---
 

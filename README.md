@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yield Sec: illegal gambling operators captured 71% of Europe&#39;s online betting and casino market in 2024, or €80.65B, as regulators struggle with crypto casinos &lpar;Navya Menon/Bloomberg&rpar;](http://www.techmeme.com/250826/p9#a250826p9)
+ - [Matter Is Finally Ready to Deliver the Smart Home It Promised](https://www.wired.com/story/matter-is-finally-on-track-to-deliver-the-smart-home-it-promised/)
+ - [Spotify is adding DMs](https://www.theverge.com/news/765771/spotify-messages-dms-audio-sharing-feature)
  - [The US taking a 10% equity stake in Intel is a terrible idea and a dangerous turn for US industrial policy, but also the least bad idea to make Foundry viable &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250826/p8#a250826p8)
- - [How They Make the Mario Kart-Style &#39;Ghost Car&#39; for Auto Racing Broadcasts](https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/)
- - [Stanford researchers: over the past three years, employment has dropped 13% for entry-level workers starting out in fields that are the most exposed to AI &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250826/p7#a250826p7)
- - [Court filing: Tesla rejected a $60M settlement offer in a lawsuit over a fatal 2019 crash of an Autopilot-equipped Model S, before losing a $243M verdict &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250826/p6#a250826p6)
- - [14 of the Best Sci-Fi TV Shows on Apple TV Plus](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How They Make the Mario Kart-Style &#39;Ghost Car&#39; for Auto Racing Broadcasts](https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

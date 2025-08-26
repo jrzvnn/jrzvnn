@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 😝 [Teach em early...](http://9gag.com/gag/aVvdXv2)
  - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 💣 [First question, is it confirmed? And second question, if yes, what would be the reactions?](http://9gag.com/gag/aPApGPG)
+ - 😝 [Italians are smart!](http://9gag.com/gag/aAympep)
+ - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
 
 ---
 

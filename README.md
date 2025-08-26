@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
  - 💣 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
  - 😝 [Stayed turned around and did nothing like the Turnaround cat](http://9gag.com/gag/a4PxdD1)
- - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
+ - 👉 [Mouse trapped in the office](https://www.reddit.com/r/funny/comments/1n0gnz5/mouse_trapped_in_the_office/)<!-- MEMES:END -->
 
 ---
 

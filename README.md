@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Level Lock Pro review: The original invisible smart lock gets even better](https://appleinsider.com/articles/25/08/26/level-lock-pro-review-the-original-invisible-smart-lock-gets-even-better?utm_source=rss)
+ - [Logitech’s MX Master 4 leaks point to haptic feedback](https://www.theverge.com/news/765847/logitech-mx-master-4-leaks-haptic-feedback)
  - [Zooming in on weird cameras](https://www.theverge.com/uncategorized/765482/fujifilm-x-half-sigma-bf-petapixel-chris-jordan-iphone-mini)
  - [Hands-on with the Level Lock Pro: sleeker, smarter, still very expensive](https://www.theverge.com/hands-on/765571/level-lock-pro-hands-on-review-apple-home-key-matter-thread)
- - [Wyze’s newest pan and tilt cam can track your pets in 4K](https://www.theverge.com/news/765794/wyze-cam-pan-v4-security-camera-price-availability)
- - [French prosecutors open an investigation into Australian video platform Kick over the death of a content creator who was violently abused during livestreams &lpar;Graham Fraser/BBC&rpar;](http://www.techmeme.com/250826/p15#a250826p15)
- - [Apple Music migration tool will finally help U.S. Spotify users switch](https://appleinsider.com/articles/25/08/26/apple-music-migration-tool-will-finally-help-us-spotify-users-switch?utm_source=rss)<!-- TECH:END -->
+ - [Wyze’s newest pan and tilt cam can track your pets in 4K](https://www.theverge.com/news/765794/wyze-cam-pan-v4-security-camera-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

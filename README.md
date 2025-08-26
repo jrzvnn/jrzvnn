@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany says Apple can&#39;t claim Apple Watch is carbon neutral](https://appleinsider.com/articles/25/08/26/germany-says-apple-cant-claim-apple-watch-is-carbon-neutral?utm_source=rss)
+ - [AT&amp;T agrees to buy spectrum licenses from EchoStar for ~$23B in cash, adding 50MHz of low-band and mid-band spectrum, set to close by mid-2026 &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250826/p11#a250826p11)
+ - [Spotify launches a DM feature to let users share audio and send text-based messages, available to mobile users over 16 years old in &quot;select markets&quot; this week &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250826/p10#a250826p10)
  - [Yield Sec: illegal gambling operators captured 71% of Europe&#39;s online betting and casino market in 2024, or €80.65B, as regulators struggle with crypto casinos &lpar;Navya Menon/Bloomberg&rpar;](http://www.techmeme.com/250826/p9#a250826p9)
- - [Matter Is Finally Ready to Deliver the Smart Home It Promised](https://www.wired.com/story/matter-is-finally-on-track-to-deliver-the-smart-home-it-promised/)
- - [Spotify is adding DMs](https://www.theverge.com/news/765771/spotify-messages-dms-audio-sharing-feature)
- - [The US taking a 10% equity stake in Intel is a terrible idea and a dangerous turn for US industrial policy, but also the least bad idea to make Foundry viable &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250826/p8#a250826p8)
- - [How They Make the Mario Kart-Style &#39;Ghost Car&#39; for Auto Racing Broadcasts](https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/)<!-- TECH:END -->
+ - [Matter Is Finally Ready to Deliver the Smart Home It Promised](https://www.wired.com/story/matter-is-finally-on-track-to-deliver-the-smart-home-it-promised/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

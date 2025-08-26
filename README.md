@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
  - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [Denmark is taking a stand against AI deepfakes. This is a game changer for personal rights](http://9gag.com/gag/adBdYrZ)
- - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
+ - 😝 [Had to be done](http://9gag.com/gag/apRdBBD)
+ - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arlo Announces a New Lineup of AI-Powered Security Cameras](https://www.cnet.com/home/security/arlo-announces-a-new-lineup-of-ai-powered-security-cameras/#ftag=CAD590a51e)
  - [Looks like nuclear fusion is picking up steam](https://www.theverge.com/news/766269/nuclear-fusion-project-map)
  - [KPop Demon Hunters is Netflix’s most popular movie of all time](https://www.theverge.com/netflix/766280/kpop-demon-hunters-netflix-record)
  - [AI super PACs, the hottest investment in tech](https://www.theverge.com/regulator-newsletter/766105/ai-super-pac-tech-investments)
- - [Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors](https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/)
- - [Blue Water Autonomy, which is building autonomous, unmanned ships for the US Navy, raised a $50M Series A led by GV, bringing its total funding to $64M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250826/p32#a250826p32)<!-- TECH:END -->
+ - [Taylor Swift Is Engaged. Her Instagram Post Might Beat Messi&#39;s Record](https://www.cnet.com/tech/taylor-swift-is-engaged-and-her-instagram-post-could-smash-lionel-messis-record/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

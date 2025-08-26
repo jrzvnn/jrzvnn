@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How They Make the Mario Kart-Style &#39;Ghost Car&#39; for Auto Racing Broadcasts](https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/)
  - [Stanford researchers: over the past three years, employment has dropped 13% for entry-level workers starting out in fields that are the most exposed to AI &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250826/p7#a250826p7)
  - [Court filing: Tesla rejected a $60M settlement offer in a lawsuit over a fatal 2019 crash of an Autopilot-equipped Model S, before losing a $243M verdict &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250826/p6#a250826p6)
- - [US EV Sales Are Booming—for Now](https://www.wired.com/story/us-ev-sales-are-booming-not-great-for-evs/)<!-- TECH:END -->
+ - [14 of the Best Sci-Fi TV Shows on Apple TV Plus](https://www.cnet.com/tech/services-and-software/best-apple-tv-plus-sci-fi-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

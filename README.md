@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
- - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 😝 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 💣 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 😝 [Stayed turned around and did nothing like the Turnaround cat](http://9gag.com/gag/a4PxdD1)
+ - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
 
 ---
 

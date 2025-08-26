@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
+ - 😝 [Italians are smart!](http://9gag.com/gag/aAympep)
+ - 💣 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
+ - 😝 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)
+ - 👉 [Told my girlfriend to grab a 2-pack of socks... this is what I got instead](http://9gag.com/gag/a9yVP4D)<!-- MEMES:END -->
 
 ---
 

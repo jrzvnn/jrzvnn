@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love bacon](http://9gag.com/gag/aAymrBR)
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 💣 [My life](http://9gag.com/gag/an7dKb5)
- - 😝 [Small Erika](http://9gag.com/gag/a0exLQQ)
- - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
+ - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 💣 [This is what AI was made for](http://9gag.com/gag/awy8r4y)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 

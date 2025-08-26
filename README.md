@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Anthropic reached a settlement in a copyright class action brought by authors whose works were included in two pirate databases Anthropic downloaded &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250826/p30#a250826p30)
- - [New Liquid Apple Event logo moves and changes color when swiped](https://appleinsider.com/articles/25/08/26/new-liquid-apple-event-logo-moves-and-changes-color-when-swiped?utm_source=rss)
- - [Intel has partnerships with multiple Chinese surveillance companies sanctioned by the US for enabling human rights abuses, including Uniview and Hikvision &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250826/p29#a250826p29)
- - [Meta plans to spend tens of millions to launch a super PAC that will back candidates for California state offices with a light-touch approach to AI regulation &lpar;Politico&rpar;](http://www.techmeme.com/250826/p28#a250826p28)
- - [CRKD’s $99 Peak Design clone is great for handhelds](https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review)<!-- TECH:END -->
+ - [How to watch Apple&#39;s &#39;Awe Dropping&#39; iPhone 17 launch live](https://appleinsider.com/inside/iphone-17/tips/how-to-watch-apples-awe-dropping-iphone-17-launch-live?utm_source=rss)
+ - [Looking to Buy a Window Air Conditioner? Read This First](https://www.wired.com/story/what-to-know-before-buying-a-window-air-conditioner/)
+ - [Sonos Era 300 Sale: The Big Sonos Speaker Is 20 Percent Off](https://www.wired.com/story/sonos-era-300-deal/)
+ - [Researchers Are Already Leaving Meta’s New Superintelligence Lab](https://www.wired.com/story/researchers-leave-meta-superintelligence-labs-openai/)
+ - [31 Best Early Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

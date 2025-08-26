@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [Sad music](http://9gag.com/gag/amod03X)
  - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 😝 [Stayed turned around and did nothing like the Turnaround cat](http://9gag.com/gag/a4PxdD1)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 😝 [Imagine being a legit refugee young woman and this happens to you](http://9gag.com/gag/aRByVwA)
+ - 👉 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)<!-- MEMES:END -->
 
 ---
 

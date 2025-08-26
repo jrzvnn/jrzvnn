@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole](https://www.wired.com/story/uncanny-valley-podcast-big-interview-alexis-ohanian/)
  - [AI Chatbots Are Inconsistent in Answering Questions About Suicide, New Study Finds](https://www.cnet.com/tech/services-and-software/ai-chatbots-are-inconsistent-in-answering-questions-about-suicide-new-study-finds/#ftag=CAD590a51e)
  - [AI Is Eliminating Jobs for Younger Workers](https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/)
  - [Bengaluru, home to about 33% of India&#39;s 1,800+ GCCs and key to the $300B tech industry, struggles as its infrastructure lags behind rapid tech sector growth &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p3#a250826p3)
- - [Japanese media groups Nikkei and Asahi Shimbun jointly sue Perplexity in Tokyo, alleging the AI startup &quot;copied and stored&quot; their content without permission &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p2#a250826p2)
- - [Lenovo Coupon Codes and Deals: Up to $880 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [Japanese media groups Nikkei and Asahi Shimbun jointly sue Perplexity in Tokyo, alleging the AI startup &quot;copied and stored&quot; their content without permission &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p2#a250826p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

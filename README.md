@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Melania Trump says she hopes to become the First Lady of Technology as she leads the Presidential AI Challenge to inspire children and teachers to embrace AI &lpar;Miranda Devine/New York Post&rpar;](http://www.techmeme.com/250826/p19#a250826p19)
  - [Rumor claims AirPods Pro 3 charging case may slim down &amp; drop button](https://appleinsider.com/articles/25/08/26/rumor-claims-airpods-pro-3-charging-case-may-slim-down-drop-button?utm_source=rss)
  - [Sources: Apple executives have discussed acquiring Mistral AI and Perplexity, with Eddy Cue as the most vocal champion within the company for such AI deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p18#a250826p18)
  - [Google says it is behind the viral &quot;nano-banana&quot; image model, launches it as Gemini 2.5 Flash Image with finer edit controls in Gemini app, Gemini API, more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250826/p17#a250826p17)
- - [Parallels Desktop revamps branding, adds macOS 26 Tahoe support](https://appleinsider.com/articles/25/08/26/parallels-desktop-revamps-branding-adds-macos-26-tahoe-support?utm_source=rss)
- - [14 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Parallels Desktop revamps branding, adds macOS 26 Tahoe support](https://appleinsider.com/articles/25/08/26/parallels-desktop-revamps-branding-adds-macos-26-tahoe-support?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

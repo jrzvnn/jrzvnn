@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mindf**k Movies for rainy days](http://9gag.com/gag/ae9d3LB)
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 💣 [9gaggers](http://9gag.com/gag/a87nbR6)
- - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
+ - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
+ - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Will Make All Android App Developers Verify Their Identity Starting Next Year](https://www.wired.com/story/google-will-prevent-sideloading-of-unverified-android-apps-from-next-year/)
  - [Microsoft locks down a building after protesters get inside president&amp;#8217;s office](https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office)
  - [Anthropic releases Claude for Chrome, which lets Claude take actions on the user&#39;s behalf within the browser, as a research preview for 1,000 Max subscribers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250826/p34#a250826p34)
  - [Trump says Meta plans to spend $50B on its &quot;Hyperion&quot; data center under construction in Louisiana; earlier, Meta said that its investment would exceed $10B &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250826/p33#a250826p33)
- - [Here are 30 of our favorite deals from REI’s ongoing Labor Day sale](https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025)
- - [Anthropic settles AI book piracy lawsuit](https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement)<!-- TECH:END -->
+ - [Here are 30 of our favorite deals from REI’s ongoing Labor Day sale](https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

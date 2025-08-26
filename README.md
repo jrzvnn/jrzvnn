@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love bacon](http://9gag.com/gag/aAymrBR)
- - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
- - 💣 [It happened again](http://9gag.com/gag/amodNMv)
- - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [I wonder why](http://9gag.com/gag/a9yVLWW)<!-- MEMES:END -->
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [My fellow Canindian... are we cool?..](http://9gag.com/gag/awy8r2D)
+ - 💣 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
+ - 😝 [Distractions](http://9gag.com/gag/a5QxdON)
+ - 👉 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)<!-- MEMES:END -->
 
 ---
 

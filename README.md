@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It happened again](http://9gag.com/gag/amodNMv)
- - 😝 [Mindf**k Movies for rainy days](http://9gag.com/gag/ae9d3LB)
- - 💣 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
+ - 😝 [I love bacon](http://9gag.com/gag/aAymrBR)
+ - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
+ - 💣 [It happened again](http://9gag.com/gag/amodNMv)
  - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [I love bacon](http://9gag.com/gag/aAymrBR)<!-- MEMES:END -->
+ - 👉 [I wonder why](http://9gag.com/gag/a9yVLWW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Invites gets countdown widget in latest update](https://appleinsider.com/articles/25/08/26/apple-invites-gets-countdown-widget-in-latest-update?utm_source=rss)
  - [Microsoft locks down a building at its headquarters after protesters got inside Brad Smith&#39;s office, demanding that it cut ties with the Israeli government &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250826/p38#a250826p38)
  - [Okta reports Q2 revenue up 13% YoY to $728M, vs. $711.8M est., net income up 131% to $67M, and increases its fiscal 2026 forecast; OKTA jumps 6%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250826/p37#a250826p37)
  - [OpenAI plans to update ChatGPT to better respond to mental distress cues, provide parental controls, and bolster safeguards around conversations about suicide &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250826/p36#a250826p36)
- - [MongoDB reports Q2 revenue up 24% YoY to $591.4M, vs. $553.9M est., net loss down 14% to $47M, and increases its full-year guidance; MDB jumps 28%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250826/p35#a250826p35)
- - [Google Will Make All Android App Developers Verify Their Identity Starting Next Year](https://www.wired.com/story/google-will-prevent-sideloading-of-unverified-android-apps-from-next-year/)<!-- TECH:END -->
+ - [MongoDB reports Q2 revenue up 24% YoY to $591.4M, vs. $553.9M est., net loss down 14% to $47M, and increases its full-year guidance; MDB jumps 28%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250826/p35#a250826p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

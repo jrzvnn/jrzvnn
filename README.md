@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo Coupon Codes and Deals: Up to $880 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)
  - [SoftBank shares are up 61% in 2025, making it one of Tokyo&#39;s top performers, on the back of AI and chip investments, as some investors question the upside &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250826/p1#a250826p1)
  - [20% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)
  - [KitchenAid Promo Code: 25% Off in August 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-26/#ftag=CAD590a51e)
- - [Q&amp;A with Harsh Jain, CEO of Dream11 parent Dream Sports, on India&#39;s real-money gaming law, which he says erased 95% of the group&#39;s revenue and all its profits &lpar;Moneycontrol&rpar;](http://www.techmeme.com/250825/p31#a250825p31)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Aug. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-aug-26/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

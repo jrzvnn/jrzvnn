@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta plans to spend tens of millions to launch a super PAC that will back candidates for California state offices with a light-touch approach to AI regulation &lpar;Politico&rpar;](http://www.techmeme.com/250826/p28#a250826p28)
+ - [CRKD’s $99 Peak Design clone is great for handhelds](https://www.theverge.com/reviews/765340/crkd-vortex-backpack-peak-design-handheld-gaming-review)
+ - [The family of a teen who committed suicide sues OpenAI, alleging that ChatGPT gave him info about suicide methods and at times deterred him from seeking help &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/250826/p27#a250826p27)
  - [Cue vs. Federighi: Executives differ on if Apple should buy their way out of AI crisis](https://appleinsider.com/articles/25/08/26/cue-vs-federighi-executives-differ-on-if-apple-should-buy-their-way-out-of-ai-crisis?utm_source=rss)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [London-based Attio, which offers a CRM service where AI agents and humans work together, raised a $52M Series B led by GV, bringing its total funding to $116M &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250826/p26#a250826p26)
- - [Polymarket raised &quot;double-digit millions&quot; from 1789 Capital, which Donald Trump Jr. joined as a partner in 2024; Trump Jr. will join Polymarket&#39;s advisory board &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250826/p25#a250826p25)
- - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/08/26/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)<!-- TECH:END -->
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft locks down a building after protesters get inside president&amp;#8217;s office](https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office)
+ - [Anthropic releases Claude for Chrome, which lets Claude take actions on the user&#39;s behalf within the browser, as a research preview for 1,000 Max subscribers &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250826/p34#a250826p34)
  - [Trump says Meta plans to spend $50B on its &quot;Hyperion&quot; data center under construction in Louisiana; earlier, Meta said that its investment would exceed $10B &lpar;Riley Griffin/Bloomberg&rpar;](http://www.techmeme.com/250826/p33#a250826p33)
  - [Here are 30 of our favorite deals from REI’s ongoing Labor Day sale](https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025)
- - [Anthropic settles AI book piracy lawsuit](https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement)
- - [Arlo Announces a New Lineup of AI-Powered Security Cameras](https://www.cnet.com/home/security/arlo-announces-a-new-lineup-of-ai-powered-security-cameras/#ftag=CAD590a51e)
- - [Looks like nuclear fusion is picking up steam](https://www.theverge.com/news/766269/nuclear-fusion-project-map)<!-- TECH:END -->
+ - [Anthropic settles AI book piracy lawsuit](https://www.theverge.com/news/766311/anthropic-class-action-ai-piracy-authors-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

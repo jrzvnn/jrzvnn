@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Ring could be microphone &amp; volume control for your iPhone](https://appleinsider.com/articles/25/08/26/apple-ring-could-be-microphone-volume-control-for-your-iphone?utm_source=rss)
- - [Level Lock Pro review: The original invisible smart lock gets even better](https://appleinsider.com/articles/25/08/26/level-lock-pro-review-the-original-invisible-smart-lock-gets-even-better?utm_source=rss)
- - [Logitech’s MX Master 4 leaks point to haptic feedback](https://www.theverge.com/news/765847/logitech-mx-master-4-leaks-haptic-feedback)
- - [Zooming in on weird cameras](https://www.theverge.com/uncategorized/765482/fujifilm-x-half-sigma-bf-petapixel-chris-jordan-iphone-mini)
- - [Hands-on with the Level Lock Pro: sleeker, smarter, still very expensive](https://www.theverge.com/hands-on/765571/level-lock-pro-hands-on-review-apple-home-key-matter-thread)<!-- TECH:END -->
+ - [Parallels Desktop revamps branding, adds macOS 26 Tahoe support](https://appleinsider.com/articles/25/08/26/parallels-desktop-revamps-branding-adds-macos-26-tahoe-support?utm_source=rss)
+ - [14 Best Soundbars We’ve Tested and Reviewed &lpar;2025&rpar;: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [Google will verify Android developers distributing apps outside the Play store](https://www.theverge.com/news/765881/google-android-apps-side-loading-developer-verification)
+ - [Marshall’s first Bluetooth party speaker has a hidden light show](https://www.theverge.com/news/764259/marshall-bromley-750-bluetooth-wireless-party-speaker)
+ - [Trump Media and Crypto.com sign a deal to integrate Crypto.com&#39;s wallet and adopt the CRO token for Truth Social&#39;s rewards; Trump Media will buy $105M in CRO &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/250826/p16#a250826p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
  - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 💣 [This is what AI was made for](http://9gag.com/gag/awy8r4y)
+ - 😝 [Oh Adam!](http://9gag.com/gag/a2vxzQd)
+ - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
  - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
  - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 😝 [Oh Adam!](http://9gag.com/gag/a2vxzQd)
- - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [Distractions](http://9gag.com/gag/a5QxdON)
+ - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
  - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
+ - 😝 [?????????](http://9gag.com/gag/aZZdxjQ)
+ - 😝 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
+ - 💣 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)
+ - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
 
 ---

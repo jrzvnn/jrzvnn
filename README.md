@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [Go `Home`](http://9gag.com/gag/aoydEbn)
+ - 😝 [Not all heroes wear capes, some wear lizards](http://9gag.com/gag/a87nLXd)
+ - 💣 [Oh Adam!](http://9gag.com/gag/a2vxzQd)
  - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Distractions](http://9gag.com/gag/a5QxdON)<!-- MEMES:END -->
+ - 👉 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
- - 😝 [This is what AI was made for](http://9gag.com/gag/awy8r4y)
- - 💣 [I wish I had friends](http://9gag.com/gag/aoydzLX)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Go `Home`](http://9gag.com/gag/aoydEbn)<!-- MEMES:END -->
+ - 😝 [Mindf**k Movies for rainy days](http://9gag.com/gag/ae9d3LB)
+ - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
+ - 💣 [9gaggers](http://9gag.com/gag/a87nbR6)
+ - 😝 [My life](http://9gag.com/gag/an7dKb5)
+ - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
 
 ---
 

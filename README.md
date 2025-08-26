@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 😝 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
  - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
+ - 😝 [Imagine being a legit refugee young woman and this happens to you](http://9gag.com/gag/aRByVwA)
+ - 👉 [The state of the UK police](http://9gag.com/gag/aW4dWPn)<!-- MEMES:END -->
 
 ---
 

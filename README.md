@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Is Eliminating Jobs for Younger Workers](https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/)
  - [Bengaluru, home to about 33% of India&#39;s 1,800+ GCCs and key to the $300B tech industry, struggles as its infrastructure lags behind rapid tech sector growth &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p3#a250826p3)
  - [Japanese media groups Nikkei and Asahi Shimbun jointly sue Perplexity in Tokyo, alleging the AI startup &quot;copied and stored&quot; their content without permission &lpar;Financial Times&rpar;](http://www.techmeme.com/250826/p2#a250826p2)
  - [Lenovo Coupon Codes and Deals: Up to $880 Off PCs](https://www.wired.com/story/lenovo-coupon-code/)
- - [SoftBank shares are up 61% in 2025, making it one of Tokyo&#39;s top performers, on the back of AI and chip investments, as some investors question the upside &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250826/p1#a250826p1)
- - [20% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [SoftBank shares are up 61% in 2025, making it one of Tokyo&#39;s top performers, on the back of AI and chip investments, as some investors question the upside &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250826/p1#a250826p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

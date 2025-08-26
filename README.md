@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 💣 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [Had to be done](http://9gag.com/gag/apRdBBD)
+ - 💣 [Sad music](http://9gag.com/gag/amod03X)
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
  - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---

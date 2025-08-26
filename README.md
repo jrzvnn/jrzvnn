@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [We love Bacon!!!!!](http://9gag.com/gag/aPAp4Dw)
+ - 😝 [Just toss that ham in the frying pan](http://9gag.com/gag/aNDqKZG)
+ - 💣 [Denmark is taking a stand against AI deepfakes. This is a game changer for personal rights](http://9gag.com/gag/adBdYrZ)
  - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
+ - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
 
 ---
 

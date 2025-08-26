@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
  - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
- - 😝 [My life](http://9gag.com/gag/an7dKb5)
- - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
+ - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
+ - 😝 [Dogg on point](http://9gag.com/gag/aNDqKjv)
+ - 👉 [This is what AI was made for](http://9gag.com/gag/awy8r4y)<!-- MEMES:END -->
 
 ---
 

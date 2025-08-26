@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not quick poll](http://9gag.com/gag/a0ex9Lq)
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 😝 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
  - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 😝 [Imagine being a legit refugee young woman and this happens to you](http://9gag.com/gag/aRByVwA)
- - 👉 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)<!-- MEMES:END -->
+ - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
+ - 👉 [Not quick poll](http://9gag.com/gag/a0ex9Lq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where were the `camel toe teachers` when I was 16?](http://9gag.com/gag/aPApvRP)
- - 😝 [Distractions](http://9gag.com/gag/a5QxdON)
- - 💣 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - 😝 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
+ - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
  - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
+ - 👉 [Distractions](http://9gag.com/gag/a5QxdON)<!-- MEMES:END -->
 
 ---
 

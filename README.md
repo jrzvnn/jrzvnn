@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what AI was made for](http://9gag.com/gag/awy8r4y)
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)
- - 😝 [Lol](http://9gag.com/gag/a9yVPVL)
- - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
+ - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
+ - 😝 [Italians are smart!](http://9gag.com/gag/aAympep)
+ - 💣 [Told my girlfriend to grab a 2-pack of socks... this is what I got instead](http://9gag.com/gag/a9yVP4D)
+ - 😝 [Dogg on point](http://9gag.com/gag/aNDqKjv)
+ - 👉 [Lol](http://9gag.com/gag/a9yVPVL)<!-- MEMES:END -->
 
 ---
 

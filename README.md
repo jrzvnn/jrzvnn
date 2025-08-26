@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [For Akatosh!11](http://9gag.com/gag/amodXx6)
- - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 💣 [For Akatosh!11](http://9gag.com/gag/amodXx6)
  - 😝 [Their time will come](http://9gag.com/gag/aZZdPRp)
- - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
+ - 👉 [Jesus Christ, Rebecaaa!](http://9gag.com/gag/adBdNzD)<!-- MEMES:END -->
 
 ---
 

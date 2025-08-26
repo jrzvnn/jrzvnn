@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Teach em early...](http://9gag.com/gag/aVvdXv2)
+ - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
  - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [First question, is it confirmed? And second question, if yes, what would be the reactions?](http://9gag.com/gag/aPApGPG)
- - 😝 [Italians are smart!](http://9gag.com/gag/aAympep)
- - 👉 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)<!-- MEMES:END -->
+ - 💣 [First Responder Training](http://9gag.com/gag/arydpBK)
+ - 😝 [My life](http://9gag.com/gag/an7dKb5)
+ - 👉 [For Akatosh!11](http://9gag.com/gag/amodXx6)<!-- MEMES:END -->
 
 ---
 

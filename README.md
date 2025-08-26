@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors](https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/)
  - [Blue Water Autonomy, which is building autonomous, unmanned ships for the US Navy, raised a $50M Series A led by GV, bringing its total funding to $64M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250826/p32#a250826p32)
  - [The winners and losers of Taylor Swift’s engagement announcement](https://www.theverge.com/news/766173/taylor-swift-travis-kelce-engagement-announcement-instagram-threads)
  - [The 39 Best Shows on Apple TV+ Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub)
- - [Google DeepMind&#39;s Weather Lab, launched in June, showed superior accuracy in forecasting Hurricane Erin&#39;s path up to 72 hours ahead, beating traditional models &lpar;Eric Berger/Ars Technica&rpar;](http://www.techmeme.com/250826/p31#a250826p31)<!-- TECH:END -->
+ - [Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops](https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

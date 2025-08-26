@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iPhone 17 launch event is set for September 9th](https://www.theverge.com/apple/766062/apple-iphone-17-launch-event-awe-dropping)
+ - [London-based Attio, which offers a CRM service where AI agents and humans work together, raised a $52M Series B led by GV, bringing its total funding to $116M &lpar;Lucy Adams/Tech.eu&rpar;](http://www.techmeme.com/250826/p26#a250826p26)
+ - [Polymarket raised &quot;double-digit millions&quot; from 1789 Capital, which Donald Trump Jr. joined as a partner in 2024; Trump Jr. will join Polymarket&#39;s advisory board &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250826/p25#a250826p25)
  - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/08/26/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)
- - [Apple announces an &quot;Awe dropping&quot; event on September 9 at 10AM PT at Apple Park, where the iPhone 17 lineup, new Apple Watch models, and more are expected &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/250826/p23#a250826p23)
- - [YouTube rolls out Hype, which lets users boost creators with under 500K subscribers via a hype button that gives videos points, in the US and 38 other countries &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250826/p22#a250826p22)
- - [EA&amp;#8217;s free-to-play Skate revival hits early access in September](https://www.theverge.com/news/761186/ea-skate-free-to-play-early-access-release-date)<!-- TECH:END -->
+ - [Google pilots a new language practice feature on Google Translate with tailored listening and practicing sessions, and also adds AI-powered live conversations &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/250826/p24#a250826p24)
+ - [Dish gives up on becoming the fourth major wireless carrier](https://www.theverge.com/report/766038/dish-echostar-spectrum-att-sale-fourth-carrier)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

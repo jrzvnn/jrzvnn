@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL Review](https://www.wired.com/review/google-pixel-10-pixel-10-pro-and-pixel-10-pro-xl/)
+ - [Google Pixel 10 Pro review: AI, Qi2, and a spec bump too](https://www.theverge.com/reviews/766613/google-pixel-10-pro-review-ai-magic-cue-camera-pro-res-zoom)
  - [Deals: Amazon&#39;s $449 M3 iPad Air sale is back, plus save 20% at eBay](https://appleinsider.com/articles/25/08/27/deals-amazons-449-m3-ipad-air-sale-is-back-plus-save-20-at-ebay?utm_source=rss)
  - [Skate Hands-On Preview: I Think It Might Be the Perfect Free-to-Play Game](https://www.cnet.com/tech/gaming/skate-hands-on-preview-i-think-it-might-be-the-perfect-free-to-play-game/#ftag=CAD590a51e)
- - [Disney sues Sling TV over its one-day cable passes](https://www.theverge.com/news/766933/disney-sling-tv-streaming-cable-passes-lawsuit)
- - [The Trump administration promised a fourth wireless carrier — America got a hot mess instead](https://www.theverge.com/tech/766795/dish-echostar-wireless-network-trump)
- - [OpenAI will add parental controls for ChatGPT following teen’s death](https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death)<!-- TECH:END -->
+ - [Disney sues Sling TV over its one-day cable passes](https://www.theverge.com/news/766933/disney-sling-tv-streaming-cable-passes-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

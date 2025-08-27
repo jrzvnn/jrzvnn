@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft President Brad Smith addressed protests over Israel contracts after seven protesters, including two current Microsoft employees, occupied his office &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250827/p1#a250827p1)
  - [A look at the possible remedies a US court might impose on Google after its antitrust loss last year, including a breakup, with a decision expected this week &lpar;Tim Wu/New York Times&rpar;](http://www.techmeme.com/250826/p44#a250826p44)
  - [AI firms are striking partnerships and giving some users in Asia free access to AI tools, in pursuit of larger sources of real-world consumer data for training &lpar;Itika Sharma Punit/Rest of World&rpar;](http://www.techmeme.com/250826/p43#a250826p43)
  - [How to use the iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_source=rss)
- - [Memo: Verily, Alphabet&#39;s life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/250826/p42#a250826p42)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 27, #338](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-27-338/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: Verily, Alphabet&#39;s life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/250826/p42#a250826p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

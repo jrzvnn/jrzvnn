@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung is Unpacking again in early September](https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september)
  - [Colombia launches antitrust investigation over Apple&#39;s App Store policies](https://appleinsider.com/articles/25/08/27/colombia-launches-antitrust-investigation-over-apples-app-store-policies?utm_source=rss)
  - [4Chan and Kiwi Farms file joint lawsuit against the UK](https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom)
  - [PlayStation Plus Subscribers Are Eating With These Free September Games](https://www.cnet.com/tech/gaming/playstation-plus-subscribers-are-eating-with-these-free-september-games/#ftag=CAD590a51e)
- - [Snowflake reports Q2 product revenue up 32% YoY to $1.09B, above $1.04B est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 11%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250827/p38#a250827p38)
- - [CrowdStrike reports Q2 revenue up 21% YoY to $1.17B, above $1.15B est., and forecasts Q3 revenue below estimates; CRWD drops 6%+ after hours &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250827/p37#a250827p37)<!-- TECH:END -->
+ - [Snowflake reports Q2 product revenue up 32% YoY to $1.09B, above $1.04B est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 11%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250827/p38#a250827p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

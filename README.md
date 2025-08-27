@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI will add parental controls for ChatGPT following teen’s death](https://www.theverge.com/news/766678/openai-chatgpt-parental-controls-teen-death)
+ - [Kwikset’s new locks point to a smarter, more open future for your front door](https://www.theverge.com/smart-home/766403/kwisket-halo-select-plus-nfc-home-key-matter)
  - [&#39;Hitman World of Assassination&#39; sneaks onto iPhone and iPad](https://appleinsider.com/articles/25/08/27/hitman-world-of-assassination-sneaks-onto-iphone-and-ipad?utm_source=rss)
  - [Best Window Air Conditioners 2025: 11 Picks to Cool You for Years](https://www.wired.com/gallery/best-window-air-conditioners/)
- - [Apple loyalty softens with carrier switches but still outpaces Android](https://appleinsider.com/articles/25/08/27/apple-loyalty-softens-with-carrier-switches-but-still-outpaces-android?utm_source=rss)
- - [Anthropic Warns of New &#39;Vibe Hacking&#39; Attacks That Use Claude AI](https://www.cnet.com/tech/services-and-software/anthropic-warns-of-new-vibe-hacking-attacks-that-use-claude-ai/#ftag=CAD590a51e)
- - [Microsoft expands Xbox Cloud Gaming to Game Pass Core and Standard subscribers](https://www.theverge.com/news/766762/microsoft-xbox-cloud-gaming-game-pass-core-standard-pc-games)<!-- TECH:END -->
+ - [Apple loyalty softens with carrier switches but still outpaces Android](https://appleinsider.com/articles/25/08/27/apple-loyalty-softens-with-carrier-switches-but-still-outpaces-android?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

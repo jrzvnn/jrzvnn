@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside India&#39;s growing ~$1.5B e-waste recycling industry, about 95% of workers are employed informally, doing dangerous, toxic, and lawless work for meager pay &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250827/p8#a250827p8)
+ - [Review: Google Pixel 10 Series](https://www.wired.com/gallery/review-google-pixel-10-series/)
  - [&quot;Deadbots&quot;, AI avatars of the deceased, are used for advocacy and emotional connection, but their potential commercial use raises ethical and legal concerns &lpar;Chloe Veltman/NPR&rpar;](http://www.techmeme.com/250827/p7#a250827p7)
  - [A profile of Egune AI, a startup building LLMs for the Mongolian language, as it navigates geopolitics, a lack of resources, and the nascent local tech scene &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250827/p6#a250827p6)
- - [UK-based Yoto, whose screen-free speakers for kids play audiobooks and music, reports 2024 revenue up 86% YoY to £94.8M and expects to turn a profit in 2025 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250827/p5#a250827p5)
- - [Salesloft says hackers stole OAuth tokens from its Drift chat agent integration to conduct a Salesforce data theft campaign between August 8 and August 18 &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250827/p4#a250827p4)
- - [Sources: OpenAI&#39;s restructuring may slip into 2026 as it negotiates with Microsoft; failure to reach a deal in 2025 would let SoftBank withhold $10B commitment &lpar;Financial Times&rpar;](http://www.techmeme.com/250827/p3#a250827p3)<!-- TECH:END -->
+ - [UK-based Yoto, whose screen-free speakers for kids play audiobooks and music, reports 2024 revenue up 86% YoY to £94.8M and expects to turn a profit in 2025 &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250827/p5#a250827p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

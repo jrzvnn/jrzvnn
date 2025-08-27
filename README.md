@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 10 Pro review: the best AI phone on the market with handy features like Magic Cue, with a great display and Qi2 charging but no design improvements &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/250827/p29#a250827p29)
- - [This Is the Group That&#39;s Been Swatting US Universities](https://www.wired.com/story/purgatory-gores-swatting-us-universities/)
- - [I Got My Hands on the Pixel 10: The Impressive Triple-Camera Setup Isn&#39;t Its Only Wow Factor](https://www.cnet.com/tech/mobile/i-got-my-hands-on-the-pixel-10-impressive-triple-camera-setup-isnt-its-only-wow-factor/#ftag=CAD590a51e)
- - [Google Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL Review](https://www.wired.com/review/google-pixel-10-pixel-10-pro-and-pixel-10-pro-xl/)
- - [I&#39;ve Spent Days Testing the Pixel 10 Pro XL and It&#39;s Quite the Android Phone](https://www.cnet.com/tech/mobile/ive-spent-days-testing-the-pixel-10-pro-xl-and-its-quite-the-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 10 review: justifies its price better than the Pixel 9 with upgrades like a triple camera system and Qi2 support, but it&#39;s not a gaming powerhouse &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/250827/p30#a250827p30)
+ - [Brisk It’s beginner-friendly smart smoker is more than $100 off for Labor Day](https://www.theverge.com/tech/766558/brisk-it-zelos-450-smart-grill-labor-day-deal-sale)
+ - [Microsoft’s employee protests have reached a boiling point](https://www.theverge.com/notepad-microsoft-newsletter/766683/microsoft-employee-protests-boiling-point-notepad)
+ - [Save 20 Percent on Our Favorite Android Earbuds](https://www.wired.com/story/nothing-ear-a-deal/)
+ - [Google Pixel 10 Pro review: the best AI phone on the market with handy features like Magic Cue, with a great display and Qi2 charging but no design improvements &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/250827/p29#a250827p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

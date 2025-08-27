@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 💣 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
+ - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [A short and witty](http://9gag.com/gag/aMVWGgM)
+ - 💣 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
  - 😝 [Iron](http://9gag.com/gag/a34xjqe)
- - 👉 [A short and witty](http://9gag.com/gag/aMVWGgM)<!-- MEMES:END -->
+ - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---
 

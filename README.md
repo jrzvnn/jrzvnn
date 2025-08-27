@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
  - 💣 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)
  - 😝 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
- - 👉 [Come on Eric...](http://9gag.com/gag/a0expqO)<!-- MEMES:END -->
+ - 👉 [Lol](http://9gag.com/gag/a9yVPVL)<!-- MEMES:END -->
 
 ---
 

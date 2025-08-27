@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung announces a virtual Unpacked event for September 4 at 5:30am ET, where new tablets and the Galaxy S25 FE are expected &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250827/p39#a250827p39)
  - [Samsung is Unpacking again in early September](https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september)
  - [Colombia launches antitrust investigation over Apple&#39;s App Store policies](https://appleinsider.com/articles/25/08/27/colombia-launches-antitrust-investigation-over-apples-app-store-policies?utm_source=rss)
  - [4Chan and Kiwi Farms file joint lawsuit against the UK](https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom)
- - [PlayStation Plus Subscribers Are Eating With These Free September Games](https://www.cnet.com/tech/gaming/playstation-plus-subscribers-are-eating-with-these-free-september-games/#ftag=CAD590a51e)
- - [Snowflake reports Q2 product revenue up 32% YoY to $1.09B, above $1.04B est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 11%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250827/p38#a250827p38)<!-- TECH:END -->
+ - [PlayStation Plus Subscribers Are Eating With These Free September Games](https://www.cnet.com/tech/gaming/playstation-plus-subscribers-are-eating-with-these-free-september-games/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filing: Elon Musk&#39;s lawyers ask a US judge to block OpenAI from obtaining documents from Meta related to a previous $97.4B bid for OpenAI&#39;s assets &lpar;Shubham Kalia/Reuters&rpar;](http://www.techmeme.com/250827/p14#a250827p14)
  - [London targets noisy commuters with headphone campaign](https://www.theverge.com/news/766522/london-tfl-headphone-campaign-noisy-passengers)
  - [A look at Xiaomi&#39;s evolution from a tech assembler to a high-tech manufacturer, as it applies its smartphone manufacturing strategy to developing EVs and chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250827/p13#a250827p13)
  - [US Commerce Secretary Howard Lutnick says the US plans to publish GDP and economic data on the blockchain, but gave no details on the blockchain or timeline &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250827/p12#a250827p12)
- - [Tussell: UK government contracts for AI-related projects have reached £573M in 2025 to July 15, up from £468M for the whole of 2024, as it seeks efficiency &lpar;Josh Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/250827/p11#a250827p11)
- - [Q&amp;A with Francis Dufay, CEO of Jumia, Africa&#39;s largest e-commerce platform, on Temu and other rivals, adding Chinese sellers to stay competitive, AI, and more &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250827/p10#a250827p10)<!-- TECH:END -->
+ - [Tussell: UK government contracts for AI-related projects have reached £573M in 2025 to July 15, up from £468M for the whole of 2024, as it seeks efficiency &lpar;Josh Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/250827/p11#a250827p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

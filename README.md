@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces a virtual Unpacked event for September 4 at 5:30am ET, where new tablets and the Galaxy S25 FE are expected &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250827/p39#a250827p39)
+ - [Samsung announces a virtual Galaxy event for September 4 at 5:30am ET, where new tablets and the Galaxy S25 FE are expected &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250827/p39#a250827p39)
+ - [Nvidia CEO Says More Advanced AI Models Will Keep Chip, Data Center Growth Going](https://www.cnet.com/tech/services-and-software/nvidia-ceo-says-more-advanced-ai-models-will-keep-chip-data-center-growth-going/#ftag=CAD590a51e)
+ - [Samsung&#39;s Next Galaxy Unpacked Event Will Be a Sept. 4 Livestream](https://www.cnet.com/tech/mobile/samsungs-next-galaxy-unpacked-event-will-be-a-sept-4-livestream/#ftag=CAD590a51e)
  - [Samsung is Unpacking again in early September](https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september)
- - [Colombia launches antitrust investigation over Apple&#39;s App Store policies](https://appleinsider.com/articles/25/08/27/colombia-launches-antitrust-investigation-over-apples-app-store-policies?utm_source=rss)
- - [4Chan and Kiwi Farms file joint lawsuit against the UK](https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom)
- - [PlayStation Plus Subscribers Are Eating With These Free September Games](https://www.cnet.com/tech/gaming/playstation-plus-subscribers-are-eating-with-these-free-september-games/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Next Apple Watch Series 11 Has a Release Date and a Few Surprises](https://www.cnet.com/tech/mobile/the-next-apple-watch-series-11-has-a-release-date-and-a-few-surprises/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI firms are striking partnerships and giving some users in Asia free access to AI tools, in pursuit of larger sources of real-world consumer data for training &lpar;Itika Sharma Punit/Rest of World&rpar;](http://www.techmeme.com/250826/p43#a250826p43)
+ - [How to use the iOS 18 iPhone Control Center](https://appleinsider.com/inside/ios-18/tips/how-to-use-the-new-ios-18-iphone-control-center?utm_source=rss)
  - [Memo: Verily, Alphabet&#39;s life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/250826/p42#a250826p42)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 27, #338](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-27-338/#ftag=CAD590a51e)
- - [Chinese AI chip designer Cambricon reports 44-fold revenue growth and a profit of ~$144M in H1 2025, after Beijing encouraged companies to use homegrown tech &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250826/p41#a250826p41)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 27 #542](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-27-542/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 27, #808](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-27-808/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese AI chip designer Cambricon reports 44-fold revenue growth and a profit of ~$144M in H1 2025, after Beijing encouraged companies to use homegrown tech &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250826/p41#a250826p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

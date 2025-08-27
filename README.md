@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and Anthropic publish findings from joint safety tests of each other&#39;s models, aimed at surfacing blind spots in their internal evaluations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250827/p34#a250827p34)
  - [4chan and Kiwi Farms sue the UK&#39;s Ofcom in a US court over the Online Safety Act, saying they aren&#39;t subject to UK law, after Ofcom tried to fine and block them &lpar;404 Media&rpar;](http://www.techmeme.com/250827/p33#a250827p33)
  - [The 75 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Sources: cloud startup Vercel is raising hundreds of millions of dollars led by Accel at a valuation of about $9B, up from about $3B in a round last year &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250827/p32#a250827p32)
- - [iPhone growth props up global smartphone market in 2025](https://appleinsider.com/articles/25/08/27/iphone-growth-props-up-global-smartphone-market-in-2025?utm_source=rss)
- - [Microsoft&amp;#8217;s Copilot AI is now inside Samsung TVs and monitors](https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch)<!-- TECH:END -->
+ - [Nintendo&#39;s Latest Updated Switch 2 Game Has Me Hungering for More](https://www.cnet.com/tech/gaming/nintendos-latest-updated-switch-2-game-has-me-hungering-for-more/#ftag=CAD590a51e)
+ - [Pluto TV to Stream Full Seasons of CBS Hit Shows This Fall](https://www.cnet.com/tech/services-and-software/pluto-tv-to-stream-full-seasons-of-cbs-hit-shows-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

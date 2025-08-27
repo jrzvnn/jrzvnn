@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London targets noisy commuters with headphone campaign](https://www.theverge.com/news/766522/london-tfl-headphone-campaign-noisy-passengers)
+ - [A look at Xiaomi&#39;s evolution from a tech assembler to a high-tech manufacturer, as it applies its smartphone manufacturing strategy to developing EVs and chips &lpar;Financial Times&rpar;](http://www.techmeme.com/250827/p13#a250827p13)
  - [US Commerce Secretary Howard Lutnick says the US plans to publish GDP and economic data on the blockchain, but gave no details on the blockchain or timeline &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250827/p12#a250827p12)
  - [Tussell: UK government contracts for AI-related projects have reached £573M in 2025 to July 15, up from £468M for the whole of 2024, as it seeks efficiency &lpar;Josh Gabert-Doyon/Financial Times&rpar;](http://www.techmeme.com/250827/p11#a250827p11)
- - [Q&amp;A with Francis Dufay, CEO of Jumia, Africa&#39;s largest e-commerce platform, on Temu and other rivals, adding Chinese sellers to stay competitive, AI, and more &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250827/p10#a250827p10)
- - [Q&amp;A with General Catalyst&#39;s Hemant Taneja on the VC firm&#39;s &quot;AI roll-up&quot; strategy to buy service businesses and inject them with AI, investment bubbles, and more &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250827/p9#a250827p9)
- - [Inside India&#39;s growing ~$1.5B e-waste recycling industry: about 95% of workers are employed informally, doing dangerous, toxic, and lawless work for meager pay &lpar;Yashraj Sharma/Rest of World&rpar;](http://www.techmeme.com/250827/p8#a250827p8)<!-- TECH:END -->
+ - [Q&amp;A with Francis Dufay, CEO of Jumia, Africa&#39;s largest e-commerce platform, on Temu and other rivals, adding Chinese sellers to stay competitive, AI, and more &lpar;Damilare Dosunmu/Rest of World&rpar;](http://www.techmeme.com/250827/p10#a250827p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

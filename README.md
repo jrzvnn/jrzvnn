@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI&#39;s restructuring may slip into 2026 as it negotiates with Microsoft; failure to reach a deal in 2025 would let SoftBank withhold $10B commitment &lpar;Financial Times&rpar;](http://www.techmeme.com/250827/p3#a250827p3)
  - [Malaysian chip designer SkyeChip unveils the MARS1000, the country&#39;s first edge AI processor, as Malaysia seeks to climb the global semiconductor value chain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250827/p2#a250827p2)
  - [Microsoft President Brad Smith addressed protests over Israel contracts after seven protesters, including two current Microsoft employees, occupied his office &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250827/p1#a250827p1)
  - [A look at the possible remedies a US court might impose on Google after its antitrust loss last year, including a breakup, with a decision expected this week &lpar;Tim Wu/New York Times&rpar;](http://www.techmeme.com/250826/p44#a250826p44)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-27/#ftag=CAD590a51e)
- - [AI firms are striking partnerships and giving some users in Asia free access to AI tools, in pursuit of larger sources of real-world consumer data for training &lpar;Itika Sharma Punit/Rest of World&rpar;](http://www.techmeme.com/250826/p43#a250826p43)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Aug. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-aug-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

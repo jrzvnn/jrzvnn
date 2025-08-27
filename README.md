@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
+ - 💣 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
  - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
- - 💣 [Sad music](http://9gag.com/gag/amod03X)
- - 😝 [Iron](http://9gag.com/gag/a34xjqe)
  - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---

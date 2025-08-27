@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft hosts emergency press conference after protesters &amp;#8216;storm a building&amp;#8217;](https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest)
- - [Synology BeeStation Plus review: Simple NAS storage with caveats](https://appleinsider.com/articles/25/08/27/synology-beestation-plus-review-simple-nas-storage-with-caveats?utm_source=rss)
- - [Sources: HongShan, formerly Sequoia China, has invested only a quarter of the ~$9B it raised in 2022 and has been increasingly looking beyond China for deals &lpar;The Information&rpar;](http://www.techmeme.com/250826/p40#a250826p40)
- - [Can Invisible Lasers Help Bridge the Digital Divide? I Toured This Futuristic Cell Tower to Find Out](https://www.cnet.com/home/internet/can-invisible-lasers-help-bridge-the-digital-divide-i-toured-this-futuristic-cell-tower-to-find-out/#ftag=CAD590a51e)
- - [Internal memo: Indian IT services giant TCS forms a new unit for AI-based operations and names Amit Kapur, who led TCS&#39; UK and Ireland business, as its chief &lpar;Sai Ishwarbharath B/Reuters&rpar;](http://www.techmeme.com/250826/p39#a250826p39)<!-- TECH:END -->
+ - [Memo: Verily, Alphabet&#39;s life sciences unit, lays off staff and ends its medical devices program, shifting its focus instead to precision health, data, and AI &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/250826/p42#a250826p42)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 27, #338](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-27-338/#ftag=CAD590a51e)
+ - [Chinese AI chip designer Cambricon reports 44-fold revenue growth and a profit of ~$144M in H1 2025, after Beijing encouraged companies to use homegrown tech &lpar;Rachel Yeo/Bloomberg&rpar;](http://www.techmeme.com/250826/p41#a250826p41)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 27 #542](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-27-542/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 27, #808](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-27-808/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

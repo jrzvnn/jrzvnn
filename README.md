@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 😝 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
- - 💣 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
- - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
+ - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 💣 [Fact](http://9gag.com/gag/aVvdeYv)
+ - 😝 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
+ - 👉 [Iron](http://9gag.com/gag/a34xjqe)<!-- MEMES:END -->
 
 ---
 

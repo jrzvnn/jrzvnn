@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s climate progress faces new pressure from AI&#39;s energy appetite](https://appleinsider.com/articles/25/08/27/apples-climate-progress-faces-new-pressure-from-ais-energy-appetite?utm_source=rss)
+ - [Report: German banks blocked €10B+ in PayPal payments on Monday over fraud concerns; PayPal says a temporary service interruption affected some transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p31#a250827p31)
  - [Google Pixel 10 review: justifies its price better than the Pixel 9 with upgrades like a triple camera system and Qi2 support, but it&#39;s not a gaming powerhouse &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/250827/p30#a250827p30)
  - [Brisk It’s beginner-friendly smart smoker is more than $100 off for Labor Day](https://www.theverge.com/tech/766558/brisk-it-zelos-450-smart-grill-labor-day-deal-sale)
- - [Microsoft’s employee protests have reached a boiling point](https://www.theverge.com/notepad-microsoft-newsletter/766683/microsoft-employee-protests-boiling-point-notepad)
- - [Save 20 Percent on Our Favorite Android Earbuds](https://www.wired.com/story/nothing-ear-a-deal/)
- - [Google Pixel 10 Pro review: the best AI phone on the market with handy features like Magic Cue, with a great display and Qi2 charging but no design improvements &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/250827/p29#a250827p29)<!-- TECH:END -->
+ - [Microsoft’s employee protests have reached a boiling point](https://www.theverge.com/notepad-microsoft-newsletter/766683/microsoft-employee-protests-boiling-point-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

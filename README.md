@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump administration suspends FEMA employees who warned about disaster response](https://www.theverge.com/news/766890/trump-fema-employees-suspended-letter)
+ - [Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations](https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review)
  - [Apple&#39;s climate progress faces new pressure from AI&#39;s energy appetite](https://appleinsider.com/articles/25/08/27/apples-climate-progress-faces-new-pressure-from-ais-energy-appetite?utm_source=rss)
  - [Report: German banks blocked €10B+ in PayPal payments on Monday over fraud concerns; PayPal says a temporary service interruption affected some transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p31#a250827p31)
- - [Google Pixel 10 review: justifies its price better than the Pixel 9 with upgrades like a triple camera system and Qi2 support, but it&#39;s not a gaming powerhouse &lpar;Derrek Lee/Android Central&rpar;](http://www.techmeme.com/250827/p30#a250827p30)
- - [Brisk It’s beginner-friendly smart smoker is more than $100 off for Labor Day](https://www.theverge.com/tech/766558/brisk-it-zelos-450-smart-grill-labor-day-deal-sale)
- - [Microsoft’s employee protests have reached a boiling point](https://www.theverge.com/notepad-microsoft-newsletter/766683/microsoft-employee-protests-boiling-point-notepad)<!-- TECH:END -->
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

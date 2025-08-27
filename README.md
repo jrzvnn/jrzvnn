@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CrowdStrike reports Q2 revenue up 21% YoY to $1.17B, above $1.15B est., and forecasts Q3 revenue below estimates; CRWD drops 6%+ after hours &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250827/p37#a250827p37)
  - [HP reports Q3 revenue up 3.1% YoY to $13.9B, vs. $13.7B est., Personal Systems revenue up 6% to $9.9B, and forecasts Q4 profit above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250827/p36#a250827p36)
  - [Nvidia reports Q2 revenue up 56% YoY to $46.74B, above $46.06B est., Data Center revenue up 56% to $41.1B, and approves an additional $60B in share buybacks &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250827/p35#a250827p35)
- - [OpenAI and Anthropic publish findings from joint safety tests of each other&#39;s models, aimed at surfacing blind spots in their internal evaluations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250827/p34#a250827p34)
- - [4chan and Kiwi Farms sue the UK&#39;s Ofcom in a US court over the Online Safety Act, saying they aren&#39;t subject to UK law, after Ofcom tried to fine and block them &lpar;404 Media&rpar;](http://www.techmeme.com/250827/p33#a250827p33)
- - [The 75 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
+ - [Apple Music Now Lets You Transfer Playlists From Spotify: Here&#39;s Why You May Want To](https://www.cnet.com/culture/entertainment/apple-music-now-lets-you-transfer-playlists-from-spotify-heres-why-you-may-want-to/#ftag=CAD590a51e)
+ - [OpenAI and Anthropic publish findings from joint safety tests of each other&#39;s models, aimed at surfacing blind spots in their internal evaluations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250827/p34#a250827p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

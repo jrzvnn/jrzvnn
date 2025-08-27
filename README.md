@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
+ - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
  - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
  - 💣 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)
  - 😝 [Told my girlfriend to grab a 2-pack of socks... this is what I got instead](http://9gag.com/gag/a9yVP4D)

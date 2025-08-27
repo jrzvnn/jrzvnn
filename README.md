@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic&#39;s Threat Intelligence report for August says Claude was weaponized for sophisticated cybercrimes, including a &quot;vibe-hacking&quot; data extortion scheme &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250827/p21#a250827p21)
- - [Windows 11 now has better Bluetooth quality for game chat and voice calls](https://www.theverge.com/news/766569/microsoft-windows-11-bluetooth-super-wideband-stereo-le-audio-voice-feature)
- - [South Korean lawmakers pass a bill to ban using mobile phones and other smart devices during classes at elementary and middle schools nationwide, starting 2026 &lpar;Choe Sang-Hun/New York Times&rpar;](http://www.techmeme.com/250827/p20#a250827p20)
- - [The Era of AI-Generated Ransomware Has Arrived](https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/)
- - [Wahoo Kickr Run Review: a &lpar;Mostly&rpar; Screen-Free Treadmill](https://www.wired.com/review/wahoo-kickr-run/)<!-- TECH:END -->
+ - [PopSocket PopCase Kindle Hands-On &lpar;2025&rpar;: Easy Reading](https://www.wired.com/story/popsocket-popcase-kindle-hands-on/)
+ - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)
+ - [Elehear Beyond Pro Review: Big Hearing Aids](https://www.wired.com/review/elehear-beyond-pro/)
+ - [The Verge’s favorite pet gear for 2025](https://www.theverge.com/tech/765085/pet-gadgets-dog-cat-fish-favorites)
+ - [Plaud upgrades its card-sized AI note-taker with better range](https://www.theverge.com/news/766335/plaud-ai-note-pro-launch-pricing-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

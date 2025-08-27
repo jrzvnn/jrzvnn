@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s so genious.](http://9gag.com/gag/a4PxYmv)
- - 😝 [Come on Eric...](http://9gag.com/gag/a0expqO)
- - 💣 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
- - 😝 [Iron](http://9gag.com/gag/a34xjqe)
- - 👉 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)<!-- MEMES:END -->
+ - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
+ - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)<!-- MEMES:END -->
 
 ---
 

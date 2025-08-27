@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
- - 😝 [Italians are smart!](http://9gag.com/gag/aAympep)
- - 💣 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
- - 😝 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)
- - 👉 [Told my girlfriend to grab a 2-pack of socks... this is what I got instead](http://9gag.com/gag/a9yVP4D)<!-- MEMES:END -->
+ - 😝 [Now that&#39;s impressive](http://9gag.com/gag/a6Zxyqe)
+ - 😝 [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)
+ - 💣 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
+ - 😝 [My life](http://9gag.com/gag/an7dKb5)
+ - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
 
 ---
 

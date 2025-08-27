@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
+ - 😝 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
+ - 😝 [Lol](http://9gag.com/gag/a9yVPVL)
+ - 💣 [It&#39;s so genious.](http://9gag.com/gag/a4PxYmv)
+ - 😝 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
+ - 👉 [Come on Eric...](http://9gag.com/gag/a0expqO)<!-- MEMES:END -->
 
 ---
 

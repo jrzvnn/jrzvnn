@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
  - 😝 [?????????](http://9gag.com/gag/aZZdxjQ)
- - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
  - 💣 [Just wait](http://9gag.com/gag/aByvYbz)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)<!-- MEMES:END -->
+ - 😝 [Tootin&#39;](http://9gag.com/gag/aD2PG17)
+ - 👉 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)<!-- MEMES:END -->
 
 ---
 

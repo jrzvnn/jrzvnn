@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
- - 😝 [Lol](http://9gag.com/gag/a9yVPVL)
- - 💣 [It&#39;s so genious.](http://9gag.com/gag/a4PxYmv)
- - 😝 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
- - 👉 [Come on Eric...](http://9gag.com/gag/a0expqO)<!-- MEMES:END -->
+ - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [A short and witty](http://9gag.com/gag/aMVWGgM)
+ - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 😝 [Iron](http://9gag.com/gag/a34xjqe)
+ - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
 
 ---
 

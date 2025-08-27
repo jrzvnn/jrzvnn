@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 75 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Sources: cloud startup Vercel is raising hundreds of millions of dollars led by Accel at a valuation of about $9B, up from about $3B in a round last year &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250827/p32#a250827p32)
  - [iPhone growth props up global smartphone market in 2025](https://appleinsider.com/articles/25/08/27/iphone-growth-props-up-global-smartphone-market-in-2025?utm_source=rss)
  - [Microsoft&amp;#8217;s Copilot AI is now inside Samsung TVs and monitors](https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch)
- - [Trump administration suspends FEMA employees who warned about disaster response](https://www.theverge.com/news/766890/trump-fema-employees-suspended-letter)
- - [Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations](https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review)
- - [Apple&#39;s climate progress faces new pressure from AI&#39;s energy appetite](https://appleinsider.com/articles/25/08/27/apples-climate-progress-faces-new-pressure-from-ais-energy-appetite?utm_source=rss)<!-- TECH:END -->
+ - [Trump administration suspends FEMA employees who warned about disaster response](https://www.theverge.com/news/766890/trump-fema-employees-suspended-letter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

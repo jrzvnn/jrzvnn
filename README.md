@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EVs are getting a temporary Trump bump thanks to expiring incentives](https://www.theverge.com/electric-cars/766609/ev-sales-increase-trump-tax-credit-expire)
+ - [TuneIn is now streaming Apple Music radio stations to 75 million listeners worldwide](https://appleinsider.com/articles/25/08/27/tunein-is-now-streaming-apple-music-radio-stations-to-75-million-listeners-worldwide?utm_source=rss)
+ - [Sources and docs: a Russia-based Yandex employee maintains open-source tool fast-glob, embedded in 30 US DOD software packages and downloaded 70M times per week &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250827/p25#a250827p25)
  - [Google updates video editing tool Vids to add AI avatars, automatic transcript trimming, and image-to-video tools, and releases a basic version to all users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250827/p24#a250827p24)
- - [Google will now let everyone use its AI-powered video editor Vids](https://www.theverge.com/news/766557/google-vids-ai-avatar-gemini-image-to-video)
- - [7 Best OLED TVs &lpar;2025&rpar;: Sony, LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)
- - [SpaceX Starship Finally Pulls Off a Successful Test Flight](https://www.wired.com/story/spacex-starship-successful-test-flight/)
- - [Plaud unveils the $179 Plaud Note Pro, an AI note-taking device with two extra mics to hear audio 16.4 feet away and a 1-inch display, shipping in October &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250827/p23#a250827p23)<!-- TECH:END -->
+ - [Google will now let everyone use its AI-powered video editor Vids](https://www.theverge.com/news/766557/google-vids-ai-avatar-gemini-image-to-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

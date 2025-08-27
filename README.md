@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Un recognize able](http://9gag.com/gag/aKGLg3W)
- - 😝 [Most Indian restaurants are owned by Muslims](http://9gag.com/gag/aoydZQA)
- - 💣 [Ga2aw00d for the people.](http://9gag.com/gag/aGyoVRZ)
- - 😝 [Just like they do at home, woman gaped in the middle of London in the middle of the day](http://9gag.com/gag/aXPdpOv)
- - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
+ - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
+ - 💣 [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)
+ - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
+ - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
 
 ---
 

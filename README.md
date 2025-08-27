@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 10 Pro review: the best AI phone on the market with handy features like Magic Cue, with a great display and Qi2 charging but no design improvements &lpar;Max Buondonno/The Shortcut&rpar;](http://www.techmeme.com/250827/p29#a250827p29)
+ - [This Is the Group That&#39;s Been Swatting US Universities](https://www.wired.com/story/purgatory-gores-swatting-us-universities/)
+ - [I Got My Hands on the Pixel 10: The Impressive Triple-Camera Setup Isn&#39;t Its Only Wow Factor](https://www.cnet.com/tech/mobile/i-got-my-hands-on-the-pixel-10-impressive-triple-camera-setup-isnt-its-only-wow-factor/#ftag=CAD590a51e)
  - [Google Pixel 10, Pixel 10 Pro, and Pixel 10 Pro XL Review](https://www.wired.com/review/google-pixel-10-pixel-10-pro-and-pixel-10-pro-xl/)
- - [Google Pixel 10 Pro review: AI, Qi2, and a spec bump too](https://www.theverge.com/reviews/766613/google-pixel-10-pro-review-ai-magic-cue-camera-pro-res-zoom)
- - [Deals: Amazon&#39;s $449 M3 iPad Air sale is back, plus save 20% at eBay](https://appleinsider.com/articles/25/08/27/deals-amazons-449-m3-ipad-air-sale-is-back-plus-save-20-at-ebay?utm_source=rss)
- - [Skate Hands-On Preview: I Think It Might Be the Perfect Free-to-Play Game](https://www.cnet.com/tech/gaming/skate-hands-on-preview-i-think-it-might-be-the-perfect-free-to-play-game/#ftag=CAD590a51e)
- - [Disney sues Sling TV over its one-day cable passes](https://www.theverge.com/news/766933/disney-sling-tv-streaming-cable-passes-lawsuit)<!-- TECH:END -->
+ - [I&#39;ve Spent Days Testing the Pixel 10 Pro XL and It&#39;s Quite the Android Phone](https://www.cnet.com/tech/mobile/ive-spent-days-testing-the-pixel-10-pro-xl-and-its-quite-the-android-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

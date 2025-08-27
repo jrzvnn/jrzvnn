@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)
- - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
- - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
+ - 😝 [Good news.](http://9gag.com/gag/apRdv95)
+ - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 💣 [Do you need more signals? Wake up,eat bacon be strong](http://9gag.com/gag/adBdjgB)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)
+ - 👉 [Dogg on point](http://9gag.com/gag/aNDqKjv)<!-- MEMES:END -->
 
 ---
 

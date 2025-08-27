@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing busted using professional photos as Phone 3 samples](https://www.theverge.com/report/766543/nothing-busted-using-fake-phone-3-photo-samples)
+ - [Fourth Apple Store in India to open on September 4](https://appleinsider.com/articles/25/08/27/fourth-apple-store-in-india-to-open-on-september-4?utm_source=rss)
+ - [NASA’s Largest Satellite Antenna Ever Has Just Unfurled in Space](https://www.wired.com/story/the-largest-satellite-antenna-ever-has-just-unfurled-in-space/)
  - [What It&#39;s Like to Work at a Body Farm](https://www.wired.com/story/your-next-job-body-farm/)
- - [Sources: a Chinese fab making Huawei&#39;s AI chips is set to start production as soon as the end of 2025, with two more due in 2026; the fabs&#39; ownership is unclear &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250827/p18#a250827p18)
- - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Worried About Losing Your Job? Pack a Digital Go Bag](https://www.wired.com/story/whats-in-your-digital-go-bag/)
- - [Meituan reports Q2 revenue up 11.7% YoY to ~$12.8B and net income down 97% YoY to ~$51M, blaming &quot;irrational competition&quot; in the Chinese food delivery market &lpar;Bloomberg&rpar;](http://www.techmeme.com/250827/p17#a250827p17)<!-- TECH:END -->
+ - [Sources: a Chinese fab making Huawei&#39;s AI chips is set to start production as soon as the end of 2025, with two more due in 2026; the fabs&#39; ownership is unclear &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250827/p18#a250827p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

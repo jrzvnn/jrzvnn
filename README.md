@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 💣 [Sad music](http://9gag.com/gag/amod03X)
- - 😝 [It&#39;s so genious.](http://9gag.com/gag/a4PxYmv)
- - 👉 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)<!-- MEMES:END -->
+ - 😝 [Do you need more signals? Wake up,eat bacon be strong](http://9gag.com/gag/adBdjgB)
+ - 😝 [Dogg on point](http://9gag.com/gag/aNDqKjv)
+ - 💣 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
+ - 😝 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
+ - 👉 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)<!-- MEMES:END -->
 
 ---
 

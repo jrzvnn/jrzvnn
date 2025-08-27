@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)<!-- MEMES:END -->
+ - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
+ - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
 
 ---
 

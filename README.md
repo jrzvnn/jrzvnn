@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Pixel Tablet is up to $170 off ahead of Labor Day weekend](https://www.theverge.com/tech/766417/google-pixel-tablet-apple-airpods-4-deal-sale)
+ - [Apple taking half of TSMC&#39;s 2nm chip capacity when production hits full speed](https://appleinsider.com/articles/25/08/27/apple-taking-half-of-tsmcs-2nm-chip-capacity-when-production-hits-full-speed?utm_source=rss)
+ - [Chipolo&#39;s new trackers have Find My compatibility &amp; six-month batteries](https://appleinsider.com/articles/25/08/27/chipolos-new-trackers-have-find-my-compatibility-six-month-batteries?utm_source=rss)
  - [PopSocket PopCase Kindle Hands-On &lpar;2025&rpar;: Easy Reading](https://www.wired.com/story/popsocket-popcase-kindle-hands-on/)
- - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)
- - [Elehear Beyond Pro Review: Big Hearing Aids](https://www.wired.com/review/elehear-beyond-pro/)
- - [The Verge’s favorite pet gear for 2025](https://www.theverge.com/tech/765085/pet-gadgets-dog-cat-fish-favorites)
- - [Plaud upgrades its card-sized AI note-taker with better range](https://www.theverge.com/news/766335/plaud-ai-note-pro-launch-pricing-availability)<!-- TECH:END -->
+ - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

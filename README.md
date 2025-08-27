@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX Starship Finally Pulls Off a Successful Test Flight](https://www.wired.com/story/spacex-starship-successful-test-flight/)
+ - [Plaud unveils the $179 Plaud Note Pro, an AI note-taking device with two extra mics to hear audio 16.4 feet away and a 1-inch display, shipping in October &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250827/p23#a250827p23)
  - [Google’s Pixel Tablet is up to $170 off ahead of Labor Day weekend](https://www.theverge.com/tech/766417/google-pixel-tablet-apple-airpods-4-deal-sale)
  - [Apple taking half of TSMC&#39;s 2nm chip capacity when production hits full speed](https://appleinsider.com/articles/25/08/27/apple-taking-half-of-tsmcs-2nm-chip-capacity-when-production-hits-full-speed?utm_source=rss)
- - [Chipolo&#39;s new trackers have Find My compatibility &amp; six-month batteries](https://appleinsider.com/articles/25/08/27/chipolos-new-trackers-have-find-my-compatibility-six-month-batteries?utm_source=rss)
- - [PopSocket PopCase Kindle Hands-On &lpar;2025&rpar;: Easy Reading](https://www.wired.com/story/popsocket-popcase-kindle-hands-on/)
- - [Apple partners with TuneIn to make Apple Music&#39;s six radio stations available outside its app, a first, as it seeks to compete with Spotify; TuneIn has 75M MAUs &lpar;Rolfe Winkler/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p22#a250827p22)<!-- TECH:END -->
+ - [Chipolo&#39;s new trackers have Find My compatibility &amp; six-month batteries](https://appleinsider.com/articles/25/08/27/chipolos-new-trackers-have-find-my-compatibility-six-month-batteries?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

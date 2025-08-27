@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 😝 [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)
  - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 😝 [Meme origin](http://9gag.com/gag/apRdvA9)
+ - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
  - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
 
 ---

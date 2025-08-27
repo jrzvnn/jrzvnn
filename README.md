@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
- - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
- - 💣 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
- - 😝 [Good news.](http://9gag.com/gag/apRdv95)
- - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
+ - 😝 [Not a meme but I had to post this](http://9gag.com/gag/avyDgQ5)
+ - 😝 [Hopefully it won&#39;t get taken down again.](http://9gag.com/gag/aoydjnm)
+ - 💣 [Told my girlfriend to grab a 2-pack of socks... this is what I got instead](http://9gag.com/gag/a9yVP4D)
+ - 😝 [Courage of the lion](http://9gag.com/gag/aZZdMwz)
+ - 👉 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
  - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
- - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
+ - 💣 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 😝 [Meme origin](http://9gag.com/gag/apRdvA9)
+ - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
 
 ---
 

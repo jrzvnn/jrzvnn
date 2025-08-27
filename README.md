@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 20 could be next to get Tandem OLED treatment](https://appleinsider.com/articles/25/08/27/iphone-20-could-be-next-to-get-tandem-oled-treatment?utm_source=rss)
- - [Nothing busted using professional photos as Phone 3 samples](https://www.theverge.com/report/766543/nothing-busted-using-fake-phone-3-photo-samples)
- - [Fourth Apple Store in India to open on September 4](https://appleinsider.com/articles/25/08/27/fourth-apple-store-in-india-to-open-on-september-4?utm_source=rss)
- - [NASA’s Largest Satellite Antenna Ever Has Just Unfurled in Space](https://www.wired.com/story/the-largest-satellite-antenna-ever-has-just-unfurled-in-space/)
- - [If These 8 Rumored iPhone 17 Pro Max Features Turn Out to Be True, I Just Might Switch](https://www.cnet.com/tech/mobile/if-these-8-rumored-iphone-17-pro-max-features-turn-out-to-be-true-i-just-might-switch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthropic&#39;s Threat Intelligence report for August says Claude was weaponized for sophisticated cybercrimes, including a &quot;vibe-hacking&quot; data extortion scheme &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250827/p21#a250827p21)
+ - [Windows 11 now has better Bluetooth quality for game chat and voice calls](https://www.theverge.com/news/766569/microsoft-windows-11-bluetooth-super-wideband-stereo-le-audio-voice-feature)
+ - [South Korean lawmakers pass a bill to ban using mobile phones and other smart devices during classes at elementary and middle schools nationwide, starting 2026 &lpar;Choe Sang-Hun/New York Times&rpar;](http://www.techmeme.com/250827/p20#a250827p20)
+ - [The Era of AI-Generated Ransomware Has Arrived](https://www.wired.com/story/the-era-of-ai-generated-ransomware-has-arrived/)
+ - [Wahoo Kickr Run Review: a &lpar;Mostly&rpar; Screen-Free Treadmill](https://www.wired.com/review/wahoo-kickr-run/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

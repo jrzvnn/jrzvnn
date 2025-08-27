@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life isn&#39;t fair!](http://9gag.com/gag/a9yVPW1)
  - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - 👉 [A short and witty](http://9gag.com/gag/aMVWGgM)<!-- MEMES:END -->
+ - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 💣 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
 
 ---
 

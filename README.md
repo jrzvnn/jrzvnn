@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The theater](http://9gag.com/gag/aByv3MZ)
- - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 💣 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
+ - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 💣 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
  - 😝 [Iron](http://9gag.com/gag/a34xjqe)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 👉 [A short and witty](http://9gag.com/gag/aMVWGgM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance plans an employee share buyback at $200.41/share, valuing it at $330B+, up from $315B in March 2025, and its Q2 revenue grew 25% YoY to $48B &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p26#a250827p26)
- - [EVs are getting a temporary Trump bump thanks to expiring incentives](https://www.theverge.com/electric-cars/766609/ev-sales-increase-trump-tax-credit-expire)
- - [TuneIn is now streaming Apple Music radio stations to 75 million listeners worldwide](https://appleinsider.com/articles/25/08/27/tunein-is-now-streaming-apple-music-radio-stations-to-75-million-listeners-worldwide?utm_source=rss)
- - [Sources and docs: a Russia-based Yandex employee maintains open-source tool fast-glob, embedded in 30 US DOD software packages and downloaded 70M times per week &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250827/p25#a250827p25)
- - [Google updates video editing tool Vids to add AI avatars, automatic transcript trimming, and image-to-video tools, and releases a basic version to all users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250827/p24#a250827p24)<!-- TECH:END -->
+ - [Apple loyalty softens with carrier switches but still outpaces Android](https://appleinsider.com/articles/25/08/27/apple-loyalty-softens-with-carrier-switches-but-still-outpaces-android?utm_source=rss)
+ - [Microsoft expands Xbox Cloud Gaming to Game Pass Core and Standard subscribers](https://www.theverge.com/news/766762/microsoft-xbox-cloud-gaming-game-pass-core-standard-pc-games)
+ - [The FBI and agencies in the UK, Canada, and others warn that a Chinese hacking campaign targeting US telecoms has expanded to 80 countries and 200+ US companies &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250827/p28#a250827p28)
+ - [Circana: in July, Sea&#39;s Free Fire jumped seven spots to 6th in US mobile game sales, above COD, driven by anime and Netflix tie-ins; US users buy 2M Switch 2s &lpar;Bloomberg&rpar;](http://www.techmeme.com/250827/p27#a250827p27)
+ - [The Magic Phrase Behind Donald Trump’s Power Grab](https://www.wired.com/story/president-donald-trump-priorities/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Nothing busted using professional photos as Phone 3 samples](https://www.theverge.com/report/766543/nothing-busted-using-fake-phone-3-photo-samples)
  - [Fourth Apple Store in India to open on September 4](https://appleinsider.com/articles/25/08/27/fourth-apple-store-in-india-to-open-on-september-4?utm_source=rss)
  - [NASA’s Largest Satellite Antenna Ever Has Just Unfurled in Space](https://www.wired.com/story/the-largest-satellite-antenna-ever-has-just-unfurled-in-space/)
- - [If These 8 Rumored iPhone 17 Pro Max Features Turn Out to Be True, I Just Might Switch](https://www.cnet.com/tech/mobile/if-these-8-rumored-iphone-17-pro-max-features-turn-out-to-be-true-i-just-might-switch/#ftag=CAD590a51e)
- - [What It&#39;s Like to Work at a Body Farm](https://www.wired.com/story/your-next-job-body-farm/)<!-- TECH:END -->
+ - [What It&#39;s Like to Work at a Body Farm](https://www.wired.com/story/your-next-job-body-farm/)
+ - [Sources: a Chinese fab making Huawei&#39;s AI chips is set to start production as soon as the end of 2025, with two more due in 2026; the fabs&#39; ownership is unclear &lpar;Zijing Wu/Financial Times&rpar;](http://www.techmeme.com/250827/p18#a250827p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

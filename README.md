@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roadside drink vendor refilling his juice directly from the river.](http://9gag.com/gag/a34xdge)
+ - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
  - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 💣 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [Man is asked to leave a gym, he chooses to square up with police, officer declines his offer to fight](http://9gag.com/gag/aNDqnO3)
+ - 👉 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)<!-- MEMES:END -->
 
 ---
 

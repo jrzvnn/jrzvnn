@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HP reports Q3 revenue up 3.1% YoY to $13.9B, vs. $13.7B est., Personal Systems revenue up 6% to $9.9B, and forecasts Q4 profit above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250827/p36#a250827p36)
+ - [Nvidia reports Q2 revenue up 56% YoY to $46.74B, above $46.06B est., Data Center revenue up 56% to $41.1B, and approves an additional $60B in share buybacks &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250827/p35#a250827p35)
  - [OpenAI and Anthropic publish findings from joint safety tests of each other&#39;s models, aimed at surfacing blind spots in their internal evaluations &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250827/p34#a250827p34)
  - [4chan and Kiwi Farms sue the UK&#39;s Ofcom in a US court over the Online Safety Act, saying they aren&#39;t subject to UK law, after Ofcom tried to fine and block them &lpar;404 Media&rpar;](http://www.techmeme.com/250827/p33#a250827p33)
- - [The 75 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Nintendo&#39;s Latest Updated Switch 2 Game Has Me Hungering for More](https://www.cnet.com/tech/gaming/nintendos-latest-updated-switch-2-game-has-me-hungering-for-more/#ftag=CAD590a51e)
- - [Pluto TV to Stream Full Seasons of CBS Hit Shows This Fall](https://www.cnet.com/tech/services-and-software/pluto-tv-to-stream-full-seasons-of-cbs-hit-shows-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 75 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

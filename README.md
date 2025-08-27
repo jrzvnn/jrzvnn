@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sad music](http://9gag.com/gag/amod03X)
- - 😝 [Most Indian restaurants are owned by Muslims](http://9gag.com/gag/aoydZQA)
- - 💣 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 😝 [The state of the UK police](http://9gag.com/gag/aW4dWPn)
  - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
- - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
+ - 💣 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
+ - 👉 [Man is asked to leave a gym, he chooses to square up with police, officer declines his offer to fight](http://9gag.com/gag/aNDqnO3)<!-- MEMES:END -->
 
 ---
 

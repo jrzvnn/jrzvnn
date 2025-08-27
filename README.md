@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - 😝 [Fact](http://9gag.com/gag/aVvdeYv)
- - 💣 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 😝 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
- - 👉 [Iron](http://9gag.com/gag/a34xjqe)<!-- MEMES:END -->
+ - 😝 [?????????](http://9gag.com/gag/aZZdxjQ)
+ - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
+ - 💣 [Just wait](http://9gag.com/gag/aByvYbz)
+ - 😝 [Military tuk tuk](http://9gag.com/gag/adBdXLV)
+ - 👉 [I&#39;m paying no delivery... I can bring it home by myself](http://9gag.com/gag/azxBV4z)<!-- MEMES:END -->
 
 ---
 

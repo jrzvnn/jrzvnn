@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [This is a beautiful show. I love nature.](http://9gag.com/gag/a9yVL2L)
- - 💣 [Barista life is hard, but brain surgery is harder](http://9gag.com/gag/apRd0xD)
- - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
- - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
+ - 😝 [Thirsty hours](http://9gag.com/gag/a1mxeZP)
+ - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 💣 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
+ - 😝 [Good news.](http://9gag.com/gag/apRdv95)
+ - 👉 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)<!-- MEMES:END -->
 
 ---
 

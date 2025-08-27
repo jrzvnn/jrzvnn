@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Colombia launches antitrust investigation over Apple&#39;s App Store policies](https://appleinsider.com/articles/25/08/27/colombia-launches-antitrust-investigation-over-apples-app-store-policies?utm_source=rss)
  - [4Chan and Kiwi Farms file joint lawsuit against the UK](https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom)
+ - [PlayStation Plus Subscribers Are Eating With These Free September Games](https://www.cnet.com/tech/gaming/playstation-plus-subscribers-are-eating-with-these-free-september-games/#ftag=CAD590a51e)
  - [Snowflake reports Q2 product revenue up 32% YoY to $1.09B, above $1.04B est., and forecasts FY 2026 product revenue above estimates; SNOW jumps 11%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250827/p38#a250827p38)
- - [CrowdStrike reports Q2 revenue up 21% YoY to $1.17B, above $1.15B est., and forecasts Q3 revenue below estimates; CRWD drops 6%+ after hours &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250827/p37#a250827p37)
- - [HP reports Q3 revenue up 3.1% YoY to $13.9B, vs. $13.7B est., Personal Systems revenue up 6% to $9.9B, and forecasts Q4 profit above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250827/p36#a250827p36)
- - [Nvidia reports Q2 revenue up 56% YoY to $46.74B, above $46.06B est., Data Center revenue up 56% to $41.1B, and approves an additional $60B in share buybacks &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250827/p35#a250827p35)<!-- TECH:END -->
+ - [CrowdStrike reports Q2 revenue up 21% YoY to $1.17B, above $1.15B est., and forecasts Q3 revenue below estimates; CRWD drops 6%+ after hours &lpar;Jake Bleiberg/Bloomberg&rpar;](http://www.techmeme.com/250827/p37#a250827p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

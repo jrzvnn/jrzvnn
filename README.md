@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good news.](http://9gag.com/gag/apRdv95)
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 💣 [Do you need more signals? Wake up,eat bacon be strong](http://9gag.com/gag/adBdjgB)
- - 😝 [Core memory unlocked](http://9gag.com/gag/a7oG7rL)
- - 👉 [Dogg on point](http://9gag.com/gag/aNDqKjv)<!-- MEMES:END -->
+ - 😝 [Guess who&#39;s gonna get promoted next?](http://9gag.com/gag/aGyoV5w)
+ - 😝 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)
+ - 💣 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [FOR HER](http://9gag.com/gag/aqyd2K7)<!-- MEMES:END -->
 
 ---
 

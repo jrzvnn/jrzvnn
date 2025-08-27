@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The theater](http://9gag.com/gag/aByv3MZ)
  - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
- - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
+ - 💣 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - 😝 [Iron](http://9gag.com/gag/a34xjqe)
+ - 👉 [The coverage is missing something important to the story](http://9gag.com/gag/aoyd0Yw)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers](http://9gag.com/gag/a87nbR6)
- - 😝 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
- - 💣 [Doctor To The Rescue](http://9gag.com/gag/aD2Pmb7)
- - 😝 [How many asians are 9gaggers?](http://9gag.com/gag/azxBE4Z)
- - 👉 [Lol](http://9gag.com/gag/a9yVPVL)<!-- MEMES:END -->
+ - 😝 [Life isn&#39;t fair!](http://9gag.com/gag/a9yVPW1)
+ - 😝 [Sad music](http://9gag.com/gag/amod03X)
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
+ - 👉 [A short and witty](http://9gag.com/gag/aMVWGgM)<!-- MEMES:END -->
 
 ---
 

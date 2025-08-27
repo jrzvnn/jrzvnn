@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&amp;#8217;s Copilot AI is now inside Samsung TVs and monitors](https://www.theverge.com/news/767078/microsoft-samsung-tv-copilot-ai-assistant-launch)
  - [Trump administration suspends FEMA employees who warned about disaster response](https://www.theverge.com/news/766890/trump-fema-employees-suspended-letter)
  - [Metal Gear Solid Delta awkwardly mixes modern visuals with old-school frustrations](https://www.theverge.com/games-review/766751/metal-gear-solid-delta-snake-eater-review)
  - [Apple&#39;s climate progress faces new pressure from AI&#39;s energy appetite](https://appleinsider.com/articles/25/08/27/apples-climate-progress-faces-new-pressure-from-ais-energy-appetite?utm_source=rss)
- - [Report: German banks blocked €10B+ in PayPal payments on Monday over fraud concerns; PayPal says a temporary service interruption affected some transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p31#a250827p31)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: German banks blocked €10B+ in PayPal payments on Monday over fraud concerns; PayPal says a temporary service interruption affected some transactions &lpar;Reuters&rpar;](http://www.techmeme.com/250827/p31#a250827p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

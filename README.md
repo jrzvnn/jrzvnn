@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 💣 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
- - 😝 [It do be like that](http://9gag.com/gag/aW4d8mA)
- - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
+ - 😝 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
+ - 😝 [Soon](http://9gag.com/gag/apRdLr9)
+ - 💣 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)
+ - 😝 [Take me back to the good old days of Pizza Hut, before all the scrolling](http://9gag.com/gag/aE0QRRN)
+ - 👉 [A short and witty](http://9gag.com/gag/aMVWGgM)<!-- MEMES:END -->
 
 ---
 

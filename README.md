@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Fan made Lego iMac G3 needs 5000 votes for a slim chance of getting made](https://appleinsider.com/articles/25/08/28/fan-made-lego-imac-g3-needs-5000-votes-for-a-slim-chance-of-getting-made?utm_source=rss)
  - [Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250828/p39#a250828p39)
- - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
- - [Google&#39;s AI Live Translation and Learning Tools Are Here. How to Use Them](https://www.cnet.com/tech/mobile/googles-ai-live-translation-and-learning-tools-are-here-how-to-use-them/#ftag=CAD590a51e)
- - [AI Is a Threat to the Entry-Level Job Market, Stanford Study Shows](https://www.cnet.com/tech/services-and-software/ai-is-a-threat-to-the-entry-level-job-market-stanford-study-shows/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&#39;s New Pixel Studio Is Weirdly Obsessed With the iPhone](https://www.cnet.com/pictures/googles-new-pixel-studio-is-weirdly-obsessed-with-the-iphone/#ftag=CAD590a51e)
+ - [After 2 Million AI Orders, Taco Bell Admits Humans Still Belong in the Drive-Thru](https://www.cnet.com/tech/services-and-software/after-2-million-ai-orders-taco-bell-admits-humans-still-belong-in-the-drive-thru/#ftag=CAD590a51e)
+ - [Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People](https://www.cnet.com/tech/services-and-software/credit-bureau-transunion-hit-with-data-breach-affecting-4-4-million-people/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

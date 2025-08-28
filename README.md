@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 😝 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
- - 💣 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)
+ - 😝 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)
+ - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
+ - 💣 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
  - 😝 [In the absence of law, one must become the law](http://9gag.com/gag/an7d1oz)
- - 👉 [Someone&#39;s having a bad day](http://9gag.com/gag/avyDgBO)<!-- MEMES:END -->
+ - 👉 [I&#39;m paying no delivery... I can bring it home by myself](http://9gag.com/gag/azxBV4z)<!-- MEMES:END -->
 
 ---
 

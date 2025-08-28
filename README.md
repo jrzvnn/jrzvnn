@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
+ - [Google&#39;s AI Live Translation and Learning Tools Are Here. How to Use Them](https://www.cnet.com/tech/mobile/googles-ai-live-translation-and-learning-tools-are-here-how-to-use-them/#ftag=CAD590a51e)
+ - [AI Is a Threat to the Entry-Level Job Market, Stanford Study Shows](https://www.cnet.com/tech/services-and-software/ai-is-a-threat-to-the-entry-level-job-market-stanford-study-shows/#ftag=CAD590a51e)
  - [The Duty-Free Loophole Is Closing. What That Means for You—and Your Packages](https://www.wired.com/story/de-minimis-exemption-ending-what-that-means-for-you/)
- - [Microsoft launches its first in-house AI models](https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai)
- - [Our Favorite GoPro Is $150 Off](https://www.wired.com/story/gopro-hero-black-deal/)
- - [Dell reports Q2 revenue up 19% YoY to $29.78B, vs. $29.17B est., and says it plans to ship $20B of AI servers in its fiscal 2026, double what it sold last year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250828/p38#a250828p38)<!-- TECH:END -->
+ - [Microsoft launches its first in-house AI models](https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

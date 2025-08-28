@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to supercharge Netflix’s shopping mall plans](https://www.theverge.com/lowpass-newsletter/767106/netflix-house-sandbox-vr)
+ - [Scientists Are Flocking to Bluesky](https://www.wired.com/story/bluesky-now-platform-of-choice-for-science-community/)
+ - [Inconsistency between TechWoven &amp; iPhone 17 crossbody strap makes everything look fake](https://appleinsider.com/articles/25/08/28/inconsistency-between-techwoven-iphone-17-crossbody-strap-makes-everything-look-fake?utm_source=rss)
  - [Two House Republicans open a probe into alleged organized efforts to inject bias into Wikipedia, citing an ADL report about anti-Israel bias on the site &lpar;Emily Brooks/The Hill&rpar;](http://www.techmeme.com/250828/p24#a250828p24)
- - [Elden Ring Nightreign is getting even harder in September](https://www.theverge.com/games/767490/elden-ring-nightreign-expansion-deep-of-night)
- - [MSI’s Katana gaming laptop is $400 off and includes Battlefield 6](https://www.theverge.com/tech/767400/msi-gaming-laptop-rtx-5070-sony-xm5-oled-deal-sale)
- - [Why China Builds Faster Than the Rest of the World](https://www.wired.com/story/dan-wang-china-breakneck-book-interview/)
- - [Review of Honor Magic V5, the world&#39;s thinnest foldable phone at 8.8mm thick when folded, as it launches in Europe for €1,999, following a July launch in China &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250828/p23#a250828p23)<!-- TECH:END -->
+ - [Elden Ring Nightreign is getting even harder in September](https://www.theverge.com/games/767490/elden-ring-nightreign-expansion-deep-of-night)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I also bought bubble gum with the left over quarters](http://9gag.com/gag/aO8jmOv)
  - 😝 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
+ - 😝 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
  - 💣 [Bless our nurses.](http://9gag.com/gag/awy8xMB)
- - 😝 [News is news](http://9gag.com/gag/amodrG4)
- - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
+ - 😝 [Texting and driving? What could go wrong?](http://9gag.com/gag/aqydr6R)
+ - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
+ - 😝 [Come on Eric...](http://9gag.com/gag/a0expqO)
+ - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
+ - 💣 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 😝 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)
+ - 👉 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)<!-- MEMES:END -->
 
 ---
 

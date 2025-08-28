@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shredded me livers ...](http://9gag.com/gag/apRd07M)
- - 😝 [I wanted to cherchez la femme, but not her fault.](http://9gag.com/gag/aO8jVz3)
+ - 😝 [Dayum, women really hate break-ups before the year ends](http://9gag.com/gag/aGyoxmn)
+ - 😝 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
  - 💣 [I&#39;m paying no delivery... I can bring it home by myself](http://9gag.com/gag/azxBV4z)
- - 😝 [Military tuk tuk](http://9gag.com/gag/adBdXLV)
- - 👉 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)<!-- MEMES:END -->
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [I wanted to cherchez la femme, but not her fault.](http://9gag.com/gag/aO8jVz3)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review of Honor Magic V5, the world&#39;s thinnest foldable phone at 8.8mm thick when folded, as it launches in Europe for €1,999, following a July launch in China &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250828/p23#a250828p23)
- - [Honor’s Magic V5 is the thinnest foldable yet, but that’s not why it matters](https://www.theverge.com/phone-review/766712/honor-magic-v5-review-worlds-thinnest-foldable)
- - [Honor launches the world’s thinnest foldable in Europe](https://www.theverge.com/news/767351/honor-magic-v5-foldable-magicpad-3-magicbook-art-14)
- - [Taco Bell&amp;#8217;s AI drive-thru plan gets caught up on trolls and glitches](https://www.theverge.com/news/767421/taco-bell-ai-drive-thru-trolls-glitches)
- - [The US starts publishing GDP data on nine public blockchains including Bitcoin, Ethereum, and Solana, with the help of Coinbase, Kraken, and Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p22#a250828p22)<!-- TECH:END -->
+ - [Two House Republicans open a probe into alleged organized efforts to inject bias into Wikipedia, citing an ADL report about anti-Israel bias on the site &lpar;Emily Brooks/The Hill&rpar;](http://www.techmeme.com/250828/p24#a250828p24)
+ - [Elden Ring Nightreign is getting even harder in September](https://www.theverge.com/games/767490/elden-ring-nightreign-expansion-deep-of-night)
+ - [MSI’s Katana gaming laptop is $400 off and includes Battlefield 6](https://www.theverge.com/tech/767400/msi-gaming-laptop-rtx-5070-sony-xm5-oled-deal-sale)
+ - [Why China Builds Faster Than the Rest of the World](https://www.wired.com/story/dan-wang-china-breakneck-book-interview/)
+ - [Review of Honor Magic V5, the world&#39;s thinnest foldable phone at 8.8mm thick when folded, as it launches in Europe for €1,999, following a July launch in China &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250828/p23#a250828p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

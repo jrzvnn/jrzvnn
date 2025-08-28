@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK GOVERNMENT: THINK ABOUT THE KIDS](http://9gag.com/gag/aZZdMB9)
- - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
- - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
+ - 😝 [Soon](http://9gag.com/gag/apRdLr9)
+ - 😝 [Wanna see something cool?](http://9gag.com/gag/aAymwO2)
+ - 💣 [Read that again](http://9gag.com/gag/axyAgAb)
+ - 😝 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)
+ - 👉 [It do be like that](http://9gag.com/gag/aW4d8mA)<!-- MEMES:END -->
 
 ---
 

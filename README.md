@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Didi reports Q2 revenue up 10.9% YoY to ~$7.8B, overseas revenue up 28% YoY, and a ~$350M net loss, driven by a one-off ~$740M charge in a shareholder lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p18#a250828p18)
  - [Nvidia CFO Colette Kress says the US hasn&#39;t outlined its plan for a 15% China commission, Nvidia won&#39;t pay until it has it, and it can sell AI chips without it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p17#a250828p17)
+ - [Honest Review of the New Tiami Mattress &lpar;2025&rpar;](https://www.wired.com/review/tiami-mattress-review/)
  - [Apple says the UK CMA&#39;s proposed &quot;EU-style&quot; regulation is &quot;bad for users and bad for developers&quot;, &quot;undermines&quot; privacy and security, and &quot;hampers&quot; innovation &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/250828/p16#a250828p16)
- - [Typepad is shutting down on September 30 and users&#39; &quot;account and all related services will be permanently deactivated&quot;; users can export content before then &lpar;Everything Typepad&rpar;](http://www.techmeme.com/250828/p15#a250828p15)
- - [Google plans to invest an additional $9B in Virginia through 2026 to boost its cloud and AI infrastructure, including a new data center in Chesterfield County &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250828/p14#a250828p14)
- - [China Is Building a Brain-Computer Interface Industry](https://www.wired.com/story/china-is-getting-serious-about-brain-computer-interfaces/)<!-- TECH:END -->
+ - [Typepad is shutting down on September 30 and users&#39; &quot;account and all related services will be permanently deactivated&quot;; users can export content before then &lpar;Everything Typepad&rpar;](http://www.techmeme.com/250828/p15#a250828p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

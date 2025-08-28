@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
- - 💣 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)
- - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
- - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
+ - 😝 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
+ - 😝 [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)
+ - 💣 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
+ - 😝 [Cat introduce kitty to baby](http://9gag.com/gag/azxBApK)
+ - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 ---
 

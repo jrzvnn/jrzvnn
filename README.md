@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Little too late?](http://9gag.com/gag/ayNzDpW)
- - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
- - 💣 [Duty](http://9gag.com/gag/aE0QYwG)
- - 😝 [Looks like Zapdos](http://9gag.com/gag/azxB8Xp)
- - 👉 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)<!-- MEMES:END -->
+ - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 😝 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
+ - 💣 [English IVY](http://9gag.com/gag/amodrMo)
+ - 😝 [There&#39;s plenty in the site](http://9gag.com/gag/aAymdP2)
+ - 👉 [The best a man can get](http://9gag.com/gag/aNDqAoG)<!-- MEMES:END -->
 
 ---
 

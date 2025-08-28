@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
- - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
- - 💣 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [Hehehe](http://9gag.com/gag/aNDqn2A)<!-- MEMES:END -->
+ - 😝 [Good guy cheetah](http://9gag.com/gag/arydKgX)
+ - 😝 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
+ - 💣 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
+ - 😝 [There&#39;s plenty in the site](http://9gag.com/gag/aAymdP2)
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 ---
 

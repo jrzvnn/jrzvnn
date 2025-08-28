@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
- - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - 💣 [Good guy cheetah](http://9gag.com/gag/arydKgX)
+ - 😝 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
  - 😝 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
- - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
+ - 💣 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [This Warden is to funny](http://9gag.com/gag/arydO7y)<!-- MEMES:END -->
 
 ---
 

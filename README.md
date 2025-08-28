@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Review of Honor Magic V5, the world&#39;s thinnest foldable phone at 8.8mm thick when folded, as it launches in Europe for €1,999, following a July launch in China &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250828/p23#a250828p23)
  - [Honor’s Magic V5 is the thinnest foldable yet, but that’s not why it matters](https://www.theverge.com/phone-review/766712/honor-magic-v5-review-worlds-thinnest-foldable)
  - [Honor launches the world’s thinnest foldable in Europe](https://www.theverge.com/news/767351/honor-magic-v5-foldable-magicpad-3-magicbook-art-14)
  - [Taco Bell&amp;#8217;s AI drive-thru plan gets caught up on trolls and glitches](https://www.theverge.com/news/767421/taco-bell-ai-drive-thru-trolls-glitches)
- - [The US starts publishing GDP data on nine public blockchains including Bitcoin, Ethereum, and Solana, with the help of Coinbase, Kraken, and Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p22#a250828p22)
- - [My gaming buddy](https://www.theverge.com/games/767156/gaming-grief)<!-- TECH:END -->
+ - [The US starts publishing GDP data on nine public blockchains including Bitcoin, Ethereum, and Solana, with the help of Coinbase, Kraken, and Gemini &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p22#a250828p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

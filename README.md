@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life isn&#39;t fair!](http://9gag.com/gag/a9yVPW1)
- - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
- - 💣 [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)
- - 😝 [Dayum, women really hate break-ups before the year ends](http://9gag.com/gag/aGyoxmn)
- - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
+ - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
+ - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
+ - 💣 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)
+ - 😝 [In the absence of law, one must become the law](http://9gag.com/gag/an7d1oz)
+ - 👉 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)<!-- MEMES:END -->
 
 ---
 

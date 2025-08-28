@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone&#39;s having a bad day](http://9gag.com/gag/avyDgBO)
- - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
- - 💣 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
- - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
+ - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
+ - 💣 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)
+ - 😝 [In the absence of law, one must become the law](http://9gag.com/gag/an7d1oz)
+ - 👉 [Someone&#39;s having a bad day](http://9gag.com/gag/avyDgBO)<!-- MEMES:END -->
 
 ---
 

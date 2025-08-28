@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fan made Lego iMac G3 needs 5000 votes for a slim chance of getting made](https://appleinsider.com/articles/25/08/28/fan-made-lego-imac-g3-needs-5000-votes-for-a-slim-chance-of-getting-made?utm_source=rss)
  - [Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250828/p39#a250828p39)
  - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
  - [Google&#39;s AI Live Translation and Learning Tools Are Here. How to Use Them](https://www.cnet.com/tech/mobile/googles-ai-live-translation-and-learning-tools-are-here-how-to-use-them/#ftag=CAD590a51e)
- - [AI Is a Threat to the Entry-Level Job Market, Stanford Study Shows](https://www.cnet.com/tech/services-and-software/ai-is-a-threat-to-the-entry-level-job-market-stanford-study-shows/#ftag=CAD590a51e)
- - [The Duty-Free Loophole Is Closing. What That Means for You—and Your Packages](https://www.wired.com/story/de-minimis-exemption-ending-what-that-means-for-you/)<!-- TECH:END -->
+ - [AI Is a Threat to the Entry-Level Job Market, Stanford Study Shows](https://www.cnet.com/tech/services-and-software/ai-is-a-threat-to-the-entry-level-job-market-stanford-study-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

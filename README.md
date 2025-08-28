@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung announces a virtual Galaxy event for September 4 at 5:30am ET, where new tablets and the Galaxy S25 FE are expected &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250827/p39#a250827p39)
- - [Nvidia CEO Says More Advanced AI Models Will Keep Chip, Data Center Growth Going](https://www.cnet.com/tech/services-and-software/nvidia-ceo-says-more-advanced-ai-models-will-keep-chip-data-center-growth-going/#ftag=CAD590a51e)
- - [Samsung&#39;s Next Galaxy Unpacked Event Will Be a Sept. 4 Livestream](https://www.cnet.com/tech/mobile/samsungs-next-galaxy-unpacked-event-will-be-a-sept-4-livestream/#ftag=CAD590a51e)
- - [Samsung is Unpacking again in early September](https://www.theverge.com/news/767164/samsung-is-unpacking-again-in-early-september)
- - [The Next Apple Watch Series 11 Has a Release Date and a Few Surprises](https://www.cnet.com/tech/mobile/the-next-apple-watch-series-11-has-a-release-date-and-a-few-surprises/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)
+ - [Nvidia says it had no new H20 sales to China in Q2 and assumes the same for Q3, but could realize $2B-$5B in H20 sales in Q3 if geopolitical issues are resolved &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p41#a250827p41)
+ - [Top CDC Officials Resign After Director Is Pushed Out](https://www.wired.com/story/centers-for-disease-control-prevention-cdc-resignations/)
+ - [Google Cloud says its Universal Ledger, a layer-1 blockchain for financial products, is in a private testnet, and more details will be revealed at a later date &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/250827/p40#a250827p40)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 28, #809](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-28-809/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xcode 26 beta 7 adds GPT-5 &amp; Claude account support](https://appleinsider.com/articles/25/08/28/xcode-26-beta-7-adds-gpt-5-claude-account-support?utm_source=rss)
+ - [Intel CFO David Zinser says the company received $5.7B from the US government on Wednesday evening; the White House says the deal is still &quot;being ironed out&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250828/p32#a250828p32)
  - [Google’s Pixel Care Plus includes free screen and battery repair](https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair)
  - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
- - [Battlefield 6 PC Specs Revealed, Supports 2019 Graphics Cards](https://www.cnet.com/tech/gaming/battlefield-6-pc-specs-revealed-supports-2019-graphics-cards/#ftag=CAD590a51e)
- - [InstaLILY, whose industry-specific AI agents called InstaWorkers integrate with legacy systems, raised $25M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250828/p31#a250828p31)
- - [Xbox&amp;#8217;s cross-device play history syncs your recently played games on every  screen](https://www.theverge.com/news/767697/xbox-cross-device-play-history-cloud-gaming)<!-- TECH:END -->
+ - [Battlefield 6 PC Specs Revealed, Supports 2019 Graphics Cards](https://www.cnet.com/tech/gaming/battlefield-6-pc-specs-revealed-supports-2019-graphics-cards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

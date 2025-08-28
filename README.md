@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty](http://9gag.com/gag/aMVWGgM)
- - 😝 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 💣 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - 😝 [Title](http://9gag.com/gag/aO8jmR3)
+ - 😝 [UE5 is cancer](http://9gag.com/gag/ae9dYZp)
+ - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
  - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [Hehehe](http://9gag.com/gag/aNDqn2A)<!-- MEMES:END -->
+ - 👉 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)<!-- MEMES:END -->
 
 ---
 

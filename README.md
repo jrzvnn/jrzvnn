@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter, FTC chair Andrew Ferguson warns Google not to filter or suppress emails sent by Republicans over Gmail; Google says its spam filters are not biased &lpar;Hans Nichols/Axios&rpar;](http://www.techmeme.com/250828/p34#a250828p34)
  - [Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel&#39;s stake in the unit falls below 51% &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p33#a250828p33)
  - [&#39;Destiny: Rising&#39;, series&#39; first foray onto mobile, out now](https://appleinsider.com/articles/25/08/28/destiny-rising-series-first-foray-onto-mobile-out-now?utm_source=rss)
  - [The 29 Best Movies on Apple TV+ Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [Xcode 26 beta 7 adds GPT-5 &amp; Claude account support](https://appleinsider.com/articles/25/08/28/xcode-26-beta-7-adds-gpt-5-claude-account-support?utm_source=rss)
- - [Intel CFO David Zinser says the company received $5.7B from the US government on Wednesday evening; the White House says the deal is still &quot;being ironed out&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250828/p32#a250828p32)<!-- TECH:END -->
+ - [Xcode 26 beta 7 adds GPT-5 &amp; Claude account support](https://appleinsider.com/articles/25/08/28/xcode-26-beta-7-adds-gpt-5-claude-account-support?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

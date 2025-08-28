@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aO8jmR3)
- - 😝 [UE5 is cancer](http://9gag.com/gag/ae9dYZp)
- - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)<!-- MEMES:END -->
+ - 😝 [Texting and driving? What could go wrong?](http://9gag.com/gag/aqydr6R)
+ - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
+ - 💣 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)
+ - 😝 [Instruction unclear](http://9gag.com/gag/aRByAQ2)
+ - 👉 [Hehehe](http://9gag.com/gag/aNDqn2A)<!-- MEMES:END -->
 
 ---
 

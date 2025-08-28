@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Commonwealth, which wants to build a fusion power plant, raised $863M from Nvidia&#39;s NVentures, Khosla Ventures, and Google, bringing its total raised to ~$3B &lpar;Will Wade/Bloomberg&rpar;](http://www.techmeme.com/250828/p25#a250828p25)
- - [Microsoft Word now automatically saves new documents to the cloud](https://www.theverge.com/news/767522/microsoft-word-automatic-document-save-cloud-default)
- - [The 48 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
- - [How to supercharge Netflix’s shopping mall plans](https://www.theverge.com/lowpass-newsletter/767106/netflix-house-sandbox-vr)
- - [Scientists Are Flocking to Bluesky](https://www.wired.com/story/bluesky-now-platform-of-choice-for-science-community/)<!-- TECH:END -->
+ - [Kobo replaces Pocket with Instapaper on its e-readers in a free update](https://www.theverge.com/news/767527/instapaper-replaces-pocket-on-kobo-e-readers)
+ - [Anthropic says it will train its AI models on user data, including new chat transcripts and coding sessions, unless users opt out by September 28 &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250828/p26#a250828p26)
+ - [Kirby&amp;#8217;s new Switch 2 expansion adds just the right amount of challenge](https://www.theverge.com/games-review/767427/kirby-and-the-forgotten-land-star-crossed-world-review-switch-2)
+ - [Anthropic will start training its AI models on chat transcripts](https://www.theverge.com/anthropic/767507/anthropic-user-data-consumers-ai-models-training-privacy)
+ - [Commonwealth, which wants to build a fusion power plant, raised $863M from Nvidia&#39;s NVentures, Khosla Ventures, and Google, bringing its total raised to ~$3B &lpar;Will Wade/Bloomberg&rpar;](http://www.techmeme.com/250828/p25#a250828p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

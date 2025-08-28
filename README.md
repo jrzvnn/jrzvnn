@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Kindle Colorsoft Kids Review &lpar;2025&rpar;: Great for All Ages](https://www.wired.com/review/kindle-colorsoft-kids-2025/)
  - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
  - [&#39;Ted Lasso&#39; star Brett Goldstein returns to Apple TV+ in &#39;All of You&#39; romance](https://appleinsider.com/articles/25/08/28/ted-lasso-star-brett-goldstein-returns-to-apple-tv-in-all-of-you-romance?utm_source=rss)
- - [Didi reports Q2 revenue up 10.9% YoY to ~$7.8B, overseas revenue up 28% YoY, and a ~$350M net loss, driven by a one-off ~$740M charge in a shareholder lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p18#a250828p18)
- - [Nvidia CFO Colette Kress says the US hasn&#39;t outlined its plan for a 15% China commission, Nvidia won&#39;t pay until it has it, and it can sell AI chips without it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p17#a250828p17)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 17 Air Might Give Us Hints About Its Rumored Foldable](https://www.cnet.com/tech/mobile/apples-iphone-17-air-might-give-us-hints-about-its-rumored-foldable/#ftag=CAD590a51e)
+ - [Didi reports Q2 revenue up 10.9% YoY to ~$7.8B, overseas revenue up 28% YoY, and a ~$350M net loss, driven by a one-off ~$740M charge in a shareholder lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p18#a250828p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

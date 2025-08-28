@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft fires two more employees for participating in Palestine protests on campus](https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid)
  - [Fan made Lego iMac G3 needs 5000 votes for a slim chance of getting made](https://appleinsider.com/articles/25/08/28/fan-made-lego-imac-g3-needs-5000-votes-for-a-slim-chance-of-getting-made?utm_source=rss)
  - [Affirm reports Q4 revenue up 33% YoY to $876.4M, above $837M est., GMV up 43% to $10.4B, and EPS of $0.20, above $0.12 est.; AFRM jumps 13%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250828/p39#a250828p39)
  - [Google&#39;s New Pixel Studio Is Weirdly Obsessed With the iPhone](https://www.cnet.com/pictures/googles-new-pixel-studio-is-weirdly-obsessed-with-the-iphone/#ftag=CAD590a51e)
- - [After 2 Million AI Orders, Taco Bell Admits Humans Still Belong in the Drive-Thru](https://www.cnet.com/tech/services-and-software/after-2-million-ai-orders-taco-bell-admits-humans-still-belong-in-the-drive-thru/#ftag=CAD590a51e)
- - [Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People](https://www.cnet.com/tech/services-and-software/credit-bureau-transunion-hit-with-data-breach-affecting-4-4-million-people/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After 2 Million AI Orders, Taco Bell Admits Humans Still Belong in the Drive-Thru](https://www.cnet.com/tech/services-and-software/after-2-million-ai-orders-taco-bell-admits-humans-still-belong-in-the-drive-thru/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

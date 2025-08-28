@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
- - 😝 [Soon](http://9gag.com/gag/apRdLr9)
- - 💣 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)
- - 😝 [It do be like that](http://9gag.com/gag/aW4d8mA)
- - 👉 [UE5 is cancer](http://9gag.com/gag/ae9dYZp)<!-- MEMES:END -->
+ - 😝 [UK GOVERNMENT: THINK ABOUT THE KIDS](http://9gag.com/gag/aZZdMB9)
+ - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
+ - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 ---
 

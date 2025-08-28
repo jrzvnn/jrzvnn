@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
- - 💣 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
- - 😝 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)
- - 👉 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)<!-- MEMES:END -->
+ - 😝 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
+ - 😝 [Bless our nurses.](http://9gag.com/gag/awy8xMB)
+ - 💣 [I can relate, working with wahmen, i would rather choose the trenches.](http://9gag.com/gag/a7oGZv2)
+ - 😝 [It do be like that](http://9gag.com/gag/aW4d8mA)
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 ---
 

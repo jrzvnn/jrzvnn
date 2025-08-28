@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can relate, working with wahmen, i would rather choose the trenches.](http://9gag.com/gag/a7oGZv2)
- - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
- - 💣 [Instruction unclear](http://9gag.com/gag/aRByAQ2)
- - 😝 [It do be like that](http://9gag.com/gag/aW4d8mA)
- - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
+ - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
+ - 😝 [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)
+ - 💣 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
+ - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
+ - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 ---
 

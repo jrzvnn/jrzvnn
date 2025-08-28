@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Air rumors: The thinnest iPhone with a potentially &#39;awe dropping&#39; design](https://appleinsider.com/articles/25/08/28/iphone-17-air-rumors-the-thinnest-iphone-with-a-potentially-awe-dropping-design?utm_source=rss)
- - [Star Wars: Starfighter is going to be star-studded](https://www.theverge.com/film/767588/star-wars-starfighter-cast)
- - [Battlefield 6 PC requirements are pretty chill — if you don&amp;#8217;t mind 30fps](https://www.theverge.com/news/767582/battlefield-6-pc-requirements-are-pretty-chill-if-you-dont-mind-30fps)
- - [Source: Mark Zuckerberg lobbied President Trump against digital service taxes, which Trump then publicly criticized; Meta confirms they met privately last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p27#a250828p27)
- - [Fubo Sports is a $55.99 / month streaming bundle made for watching football](https://www.theverge.com/news/767572/fubo-sports-espn-nfl-network-college-football-streaming)<!-- TECH:END -->
+ - [Anthropic requires users to accept new terms by September 28, including choosing whether new chats and coding sessions can be used to train AI models &lpar;Anthropic&rpar;](http://www.techmeme.com/250828/p29#a250828p29)
+ - [GM’s new adapters reflect the increasingly confused reality of EV charging](https://www.theverge.com/electric-cars/767535/gms-new-adapters-reflect-increasingly-confused-world-ev-charging)
+ - [OpenAI makes Realtime API generally available with new features, including MCP support, and launches gpt-realtime, its most advanced speech-to-speech model &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250828/p28#a250828p28)
+ - [Apple&#39;s Powerbeats Fit aim to outmuscle rivals in the gym](https://appleinsider.com/articles/25/08/28/apples-powerbeats-fit-aim-to-outmuscle-rivals-in-the-gym?utm_source=rss)
+ - [iPhone 17 Air rumors: The thinnest iPhone with a potentially &#39;awe dropping&#39; design](https://appleinsider.com/articles/25/08/28/iphone-17-air-rumors-the-thinnest-iphone-with-a-potentially-awe-dropping-design?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)
- - 😝 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)
- - 💣 [Bless our nurses.](http://9gag.com/gag/awy8xMB)
- - 😝 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
- - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
+ - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
+ - 😝 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 ---
 

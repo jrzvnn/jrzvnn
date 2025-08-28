@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google&#39;s AI Live Translation and Learning Tools Are Here. How to Use Them](https://www.cnet.com/tech/mobile/googles-ai-live-translation-and-learning-tools-are-here-how-to-use-them/#ftag=CAD590a51e)
  - [AI Is a Threat to the Entry-Level Job Market, Stanford Study Shows](https://www.cnet.com/tech/services-and-software/ai-is-a-threat-to-the-entry-level-job-market-stanford-study-shows/#ftag=CAD590a51e)
  - [The Duty-Free Loophole Is Closing. What That Means for You—and Your Packages](https://www.wired.com/story/de-minimis-exemption-ending-what-that-means-for-you/)
- - [Microsoft launches its first in-house AI models](https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai)<!-- TECH:END -->
+ - [Microsoft AI launches its first in-house models](https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia CFO Colette Kress says the US hasn&#39;t outlined its plan for a 15% China commission, Nvidia won&#39;t pay until it has it, and it can sell AI chips without it &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p17#a250828p17)
+ - [Apple says the UK CMA&#39;s proposed &quot;EU-style&quot; regulation is &quot;bad for users and bad for developers&quot;, &quot;undermines&quot; privacy and security, and &quot;hampers&quot; innovation &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/250828/p16#a250828p16)
+ - [Typepad is shutting down on September 30 and users&#39; &quot;account and all related services will be permanently deactivated&quot;; users can export content before then &lpar;Everything Typepad&rpar;](http://www.techmeme.com/250828/p15#a250828p15)
  - [Google plans to invest an additional $9B in Virginia through 2026 to boost its cloud and AI infrastructure, including a new data center in Chesterfield County &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250828/p14#a250828p14)
- - [China Is Building a Brain-Computer Interface Industry](https://www.wired.com/story/china-is-getting-serious-about-brain-computer-interfaces/)
- - [Microsoft is expanding Xbox Cloud Gaming to Game Pass Core and Standard subscribers, dropping the Game Pass Ultimate requirement, and tests more PC game access &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250828/p13#a250828p13)
- - [Maisa AI, which offers an enterprise agentic automation service that uses a proprietary system to limit hallucinations, raised a $25M seed led by Creandum &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250828/p12#a250828p12)
- - [UK banks face losses on billions of pounds in loans to dozens of alternative broadband network providers that have tried to challenge BT and O2&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p11#a250828p11)<!-- TECH:END -->
+ - [China Is Building a Brain-Computer Interface Industry](https://www.wired.com/story/china-is-getting-serious-about-brain-computer-interfaces/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

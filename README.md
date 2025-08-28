@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kindle Colorsoft Kids Review &lpar;2025&rpar;: Great for All Ages](https://www.wired.com/review/kindle-colorsoft-kids-2025/)
- - [Apple pulls iPhone torrent app from AltStore PAL in Europe](https://www.theverge.com/news/767344/apple-removes-itorrent-altstore-pal-ios-marketplace)
- - [&#39;Ted Lasso&#39; star Brett Goldstein returns to Apple TV+ in &#39;All of You&#39; romance](https://appleinsider.com/articles/25/08/28/ted-lasso-star-brett-goldstein-returns-to-apple-tv-in-all-of-you-romance?utm_source=rss)
- - [Apple&#39;s iPhone 17 Air Might Give Us Hints About Its Rumored Foldable](https://www.cnet.com/tech/mobile/apples-iphone-17-air-might-give-us-hints-about-its-rumored-foldable/#ftag=CAD590a51e)
- - [Didi reports Q2 revenue up 10.9% YoY to ~$7.8B, overseas revenue up 28% YoY, and a ~$350M net loss, driven by a one-off ~$740M charge in a shareholder lawsuit &lpar;Reuters&rpar;](http://www.techmeme.com/250828/p18#a250828p18)<!-- TECH:END -->
+ - [Rain, a stablecoin-backed Visa card issuer, raised a $58M Series B led by Sapphire Ventures, after raising a $24.5M Series A led by Norwest in March &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/250828/p19#a250828p19)
+ - [MagSafe PopSockets have come for your Kindle](https://www.theverge.com/news/767369/popsocket-popcase-kindle-magsafe-price-availability)
+ - [15 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
+ - [DJI’s Mic 3 crams more features into a smaller package](https://www.theverge.com/news/767297/dji-mic-3-wireless-microphone-launch)
+ - [Apple TV+ show &#39;Trying&#39; will be free on the BBC soon](https://appleinsider.com/articles/25/08/28/apple-tv-show-trying-will-be-free-on-the-bbc-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

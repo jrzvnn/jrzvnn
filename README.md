@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
- - 😝 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
- - 💣 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
+ - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
+ - 💣 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
  - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [This Warden is to funny](http://9gag.com/gag/arydO7y)<!-- MEMES:END -->
+ - 👉 [Hehehe](http://9gag.com/gag/aNDqn2A)<!-- MEMES:END -->
 
 ---
 

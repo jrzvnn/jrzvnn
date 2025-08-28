@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [ChargePoint’s new megawatt EV chargers could level the playing field with China](https://www.theverge.com/news/766156/chargepoint-dc-fast-charging-600-kw-megawatt)
- - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
- - [Rain, a stablecoin-backed Visa card issuer, raised a $58M Series B led by Sapphire Ventures, after raising a $24.5M Series A led by Norwest in March &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/250828/p19#a250828p19)
- - [MagSafe PopSockets have come for your Kindle](https://www.theverge.com/news/767369/popsocket-popcase-kindle-magsafe-price-availability)<!-- TECH:END -->
+ - [Dutch web design automation startup Framer raised $100M led by Meritech and Atomico with Accel participation at a $2B valuation, after raising $27M in 2023 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250828/p21#a250828p21)
+ - [M0, which develops stablecoin infrastructure to boost interoperability and liquidity, raised a $40M Series B led by Polychain and Ribbit Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250828/p20#a250828p20)
+ - [Samsung S95F QD-OLED Review: The Best Looking TV Screen of 2025](https://www.wired.com/review/samsung-s95f/)
+ - [Standalone AI Devices Are Back, Baby. The Note-Taking Plaud Note 3 Proves It](https://www.cnet.com/tech/mobile/standalone-ai-devices-are-back-baby-the-note-taking-plaud-note-3-proves-it/#ftag=CAD590a51e)
+ - [Banana Ball Fans: How to Watch the Savannah Bananas This Weekend](https://www.cnet.com/tech/services-and-software/banana-ball-fans-how-to-watch-the-savannah-bananas-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

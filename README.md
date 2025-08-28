@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wanna see something cool?](http://9gag.com/gag/aAymwO2)
- - 😝 [Read that again](http://9gag.com/gag/axyAgAb)
- - 💣 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)
+ - 😝 [Bless our nurses.](http://9gag.com/gag/awy8xMB)
+ - 😝 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
+ - 💣 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
  - 😝 [Duty](http://9gag.com/gag/aE0QYwG)
- - 👉 [It do be like that](http://9gag.com/gag/aW4d8mA)<!-- MEMES:END -->
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 ---
 

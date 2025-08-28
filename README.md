@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soon](http://9gag.com/gag/apRdLr9)
- - 😝 [Wanna see something cool?](http://9gag.com/gag/aAymwO2)
- - 💣 [Read that again](http://9gag.com/gag/axyAgAb)
- - 😝 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)
- - 👉 [It do be like that](http://9gag.com/gag/aW4d8mA)<!-- MEMES:END -->
+ - 😝 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
+ - 😝 [Instruction unclear](http://9gag.com/gag/aRByAQ2)
+ - 💣 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 ---
 

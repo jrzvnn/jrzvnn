@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
  - [Dutch web design automation startup Framer raised $100M led by Meritech and Atomico with Accel participation at a $2B valuation, after raising $27M in 2023 &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250828/p21#a250828p21)
  - [M0, which develops stablecoin infrastructure to boost interoperability and liquidity, raised a $40M Series B led by Polychain and Ribbit Capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250828/p20#a250828p20)
  - [Samsung S95F QD-OLED Review: The Best Looking TV Screen of 2025](https://www.wired.com/review/samsung-s95f/)
- - [Standalone AI Devices Are Back, Baby. The Note-Taking Plaud Note 3 Proves It](https://www.cnet.com/tech/mobile/standalone-ai-devices-are-back-baby-the-note-taking-plaud-note-3-proves-it/#ftag=CAD590a51e)
- - [Banana Ball Fans: How to Watch the Savannah Bananas This Weekend](https://www.cnet.com/tech/services-and-software/banana-ball-fans-how-to-watch-the-savannah-bananas-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Standalone AI Devices Are Back, Baby. The Note-Taking Plaud Note 3 Proves It](https://www.cnet.com/tech/mobile/standalone-ai-devices-are-back-baby-the-note-taking-plaud-note-3-proves-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

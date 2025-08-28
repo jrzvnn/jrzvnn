@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK banks face losses on billions of pounds in loans to dozens of alternative broadband network providers that have tried to challenge BT and O2&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p11#a250828p11)
  - [An in-depth look at India&#39;s quick commerce boom, driven by Blinkit, Zepto, and Instamart, which have collectively lost more than $1.4B in the past four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p10#a250828p10)
  - [How ChatGPT-powered companionship dolls from Hyodol are helping ease loneliness among older adults in South Korea, as the company aims for a US debut in 2026 &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250828/p9#a250828p9)
  - [The 5 Healthiest Air Fryer Foods, Hand-Picked by Registered Dietitians](https://www.cnet.com/health/nutrition/the-5-healthiest-air-fryer-foods-hand-picked-by-registered-dietitians/#ftag=CAD590a51e)
- - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)
- - [Nvidia CFO Colette Kress says Q2 &quot;net other income&quot; was $2.2B, &quot;driven by gains in a publicly-held equity security&quot;, which refers to Nvidia&#39;s CoreWeave position &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250828/p7#a250828p7)<!-- TECH:END -->
+ - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

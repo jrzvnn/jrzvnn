@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How ChatGPT-powered companionship dolls from Hyodol are helping ease loneliness among older adults in South Korea, as the company aims for a US debut in 2026 &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250828/p9#a250828p9)
+ - [The 5 Healthiest Air Fryer Foods, Hand-Picked by Registered Dietitians](https://www.cnet.com/health/nutrition/the-5-healthiest-air-fryer-foods-hand-picked-by-registered-dietitians/#ftag=CAD590a51e)
  - [How legacy carmakers fell behind Tesla and Chinese EV brands in software, as a Toyota Woven engineer says the company&#39;s new Arene platform is &quot;full of bugs&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p8#a250828p8)
- - [Nvidia&#39;s CFO says Q2 &quot;net other income&quot; was $2.2B, &quot;driven by gains in a publicly-held equity security&quot;, which refers to Nvidia&#39;s position in CoreWeave &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250828/p7#a250828p7)
- - [Payroll and HR software provider Gusto agrees to acquire Guideline, which offers 401&lpar;k&rpar; plans to small businesses; Guideline was valued at $1.15B in 2021 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250828/p6#a250828p6)
- - [Nvidia reports record Q2 gaming revenue of $4.29B, up 49% YoY, exceeding estimates of $3.74B &lpar;Max Knoblauch/Sherwood News&rpar;](http://www.techmeme.com/250828/p5#a250828p5)
- - [A look at India&#39;s rationale for banning online real-money games, with IT minister Ashwini Vaishnaw citing 450M people losing a combined ~$2.3B to them &lpar;Vivek Kaul/Newslaundry&rpar;](http://www.techmeme.com/250828/p4#a250828p4)<!-- TECH:END -->
+ - [Nvidia CFO Colette Kress says Q2 &quot;net other income&quot; was $2.2B, &quot;driven by gains in a publicly-held equity security&quot;, which refers to Nvidia&#39;s CoreWeave position &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/250828/p7#a250828p7)
+ - [Payroll and HR software provider Gusto agrees to acquire Guideline, which offers 401&lpar;k&rpar; plans to small businesses; Guideline was valued at $1.15B in 2021 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250828/p6#a250828p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI launches Grok Code Fast 1, a &quot;speedy and economical&quot; agentic coding model, available for free for a limited time on GitHub Copilot, Cursor, Windsurf, more &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250828/p35#a250828p35)
  - [Best Labor Day Deals: AirPods $89, M4 MacBook Air $799, Disney Plus bundle $29](https://appleinsider.com/articles/25/08/28/best-labor-day-deals-airpods-89-m4-macbook-air-799-disney-plus-bundle-29?utm_source=rss)
  - [In a letter, FTC chair Andrew Ferguson warns Google not to filter or suppress emails sent by Republicans over Gmail; Google says its spam filters are not biased &lpar;Hans Nichols/Axios&rpar;](http://www.techmeme.com/250828/p34#a250828p34)
  - [Google Has a New Device Protection Program: Here&#39;s What to Know About Pixel Care+](https://www.cnet.com/tech/mobile/googles-device-protection-program-just-got-a-makeover-heres-everything-to-know-about-pixel-care/#ftag=CAD590a51e)
- - [Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel&#39;s stake in the unit falls below 51% &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p33#a250828p33)
- - [&#39;Destiny: Rising&#39;, series&#39; first foray onto mobile, out now](https://appleinsider.com/articles/25/08/28/destiny-rising-series-first-foray-onto-mobile-out-now?utm_source=rss)<!-- TECH:END -->
+ - [Intel CFO says the US deal aims to deter Intel from selling its foundry; it lets the US buy 5% more at $20/share if Intel&#39;s stake in the unit falls below 51% &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p33#a250828p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

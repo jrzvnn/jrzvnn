@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
- - 💣 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
+ - 😝 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
  - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - 👉 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)<!-- MEMES:END -->
+ - 💣 [Good guy cheetah](http://9gag.com/gag/arydKgX)
+ - 😝 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
+ - 👉 [Just wait](http://9gag.com/gag/aByvYbz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft unveils MAI-Voice-1, a speech model that can generate a full minute of audio in under a second on a single GPU, and a text model called MAI-1-preview &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250828/p30#a250828p30)
  - [Anthropic requires users to accept new terms by September 28, including choosing whether new chats and coding sessions can be used to train AI models &lpar;Anthropic&rpar;](http://www.techmeme.com/250828/p29#a250828p29)
  - [GM’s new adapters reflect the increasingly confused reality of EV charging](https://www.theverge.com/electric-cars/767535/gms-new-adapters-reflect-increasingly-confused-world-ev-charging)
  - [OpenAI makes Realtime API generally available with new features, including MCP support, and launches gpt-realtime, its most advanced speech-to-speech model &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250828/p28#a250828p28)
- - [Apple&#39;s Powerbeats Fit aim to outmuscle rivals in the gym](https://appleinsider.com/articles/25/08/28/apples-powerbeats-fit-aim-to-outmuscle-rivals-in-the-gym?utm_source=rss)
- - [iPhone 17 Air rumors: The thinnest iPhone with a potentially &#39;awe dropping&#39; design](https://appleinsider.com/articles/25/08/28/iphone-17-air-rumors-the-thinnest-iphone-with-a-potentially-awe-dropping-design?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s Powerbeats Fit aim to outmuscle rivals in the gym](https://appleinsider.com/articles/25/08/28/apples-powerbeats-fit-aim-to-outmuscle-rivals-in-the-gym?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

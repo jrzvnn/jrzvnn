@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
- - 😝 [Man of culture with time travel machine.](http://9gag.com/gag/a7oG7ob)
- - 💣 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
- - 😝 [Cat introduce kitty to baby](http://9gag.com/gag/azxBApK)
+ - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 💣 [In UK a 14 years old girl has been arrested because she protected her 12 years old sister with an axe and a knife](http://9gag.com/gag/aRByVN5)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
  - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 ---

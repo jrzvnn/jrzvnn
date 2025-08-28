@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [20 years ago, one of the greatest shows premiered.](http://9gag.com/gag/ae9dbKm)
  - 😝 [Good guy cheetah](http://9gag.com/gag/arydKgX)
- - 😝 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
- - 💣 [He couldn&#39;t find any other place to pray .](http://9gag.com/gag/aE0Q76M)
+ - 💣 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
  - 😝 [There&#39;s plenty in the site](http://9gag.com/gag/aAymdP2)
- - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
+ - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
 
 ---
 

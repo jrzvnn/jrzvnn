@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
- - 😝 [Soon](http://9gag.com/gag/apRdLr9)
- - 💣 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)
- - 😝 [Take me back to the good old days of Pizza Hut, before all the scrolling](http://9gag.com/gag/aE0QRRN)
- - 👉 [A short and witty](http://9gag.com/gag/aMVWGgM)<!-- MEMES:END -->
+ - 😝 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
+ - 😝 [Instruction unclear](http://9gag.com/gag/aRByAQ2)
+ - 💣 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
+ - 😝 [A short and witty](http://9gag.com/gag/aMVWGgM)
+ - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo: Meta&#39;s Hypernova AR glasses will enter mass production in Q3 2025 to beat Apple to market, but have a modest sales target of 150-200K over two years &lpar;@mingchikuo&rpar;](http://www.techmeme.com/250827/p43#a250827p43)
  - [Taylor Swift and Travis Kelce&#39;s engagement announcement on Instagram surpasses 1M reposts, more than any other post has ever received on the platform &lpar;Hannah Dailey/Billboard&rpar;](http://www.techmeme.com/250827/p42#a250827p42)
  - [Microsoft fires two employee protesters who occupied its president&amp;#8217;s office](https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest)
- - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)
- - [Nvidia says it had no new H20 sales to China in Q2 and assumes the same for Q3, but could realize $2B-$5B in H20 sales in Q3 if geopolitical issues are resolved &lpar;Robbie Whelan/Wall Street Journal&rpar;](http://www.techmeme.com/250827/p41#a250827p41)
- - [Top CDC Officials Resign After Director Is Pushed Out](https://www.wired.com/story/centers-for-disease-control-prevention-cdc-resignations/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 28, #339](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-28-339/#ftag=CAD590a51e)
+ - [Apple threatens UK with delayed features if EU DMA-like regulations introduced](https://appleinsider.com/articles/25/08/28/apple-threatens-uk-with-delayed-features-if-eu-dma-like-regulations-introduced?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

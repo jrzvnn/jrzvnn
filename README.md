@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Or use DISM instead](http://9gag.com/gag/aNDqZ5K)
+ - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
  - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
- - 💣 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)
- - 😝 [In the absence of law, one must become the law](http://9gag.com/gag/an7d1oz)
- - 👉 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)<!-- MEMES:END -->
+ - 💣 [Taxi drivers stopped a pregnant woman from collecting her kid. They said the kids should use a taxi, and then the woman asked for a minute, then she called flying squad and police then they did their job. 8 taxi drivers arrested.](http://9gag.com/gag/a9yV7x1)
+ - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
+ - 👉 [THE MADMAN!](http://9gag.com/gag/aByvr6D)<!-- MEMES:END -->
 
 ---
 

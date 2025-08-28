@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Come on Eric...](http://9gag.com/gag/a0expqO)
  - 😝 [An expert shows how to properly get into a BMW i8.](http://9gag.com/gag/amodzL6)
- - 💣 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 😝 [Salute, to this Hero :&rpar;](http://9gag.com/gag/aPApW6R)
+ - 💣 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)
  - 😝 [Happy birthday to me](http://9gag.com/gag/a2vxmVD)
- - 👉 [My virginity must be protected at all cost](http://9gag.com/gag/aXPd9KV)<!-- MEMES:END -->
+ - 👉 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)<!-- MEMES:END -->
 
 ---
 

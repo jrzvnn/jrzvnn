@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)
+ - 😝 [A short and witty](http://9gag.com/gag/aMVWGgM)
  - 😝 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 💣 [Bless our nurses.](http://9gag.com/gag/awy8xMB)
- - 😝 [Texting and driving? What could go wrong?](http://9gag.com/gag/aqydr6R)
- - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
+ - 💣 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [Hehehe](http://9gag.com/gag/aNDqn2A)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [FOR HER](http://9gag.com/gag/aqyd2K7)
+ - 😝 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
  - 😝 [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)
- - 💣 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 😝 [Maybe the greatest feeling in the world](http://9gag.com/gag/aKGLBZ1)
- - 👉 [Bless our nurses.](http://9gag.com/gag/awy8xMB)<!-- MEMES:END -->
+ - 💣 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
+ - 😝 [It do be like that](http://9gag.com/gag/aW4d8mA)
+ - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
 
 ---
 

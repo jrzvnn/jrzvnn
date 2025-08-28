@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Watch Our Livestream Replay: Back to School in the Age of AI](https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/)
  - [The Duty-Free Loophole Is Closing. What That Means for You—and Your Packages](https://www.wired.com/story/de-minimis-exemption-ending-what-that-means-for-you/)
  - [Microsoft launches its first in-house AI models](https://www.theverge.com/news/767809/microsoft-in-house-ai-models-launch-openai)
  - [Our Favorite GoPro Is $150 Off](https://www.wired.com/story/gopro-hero-black-deal/)
- - [Dell reports Q2 revenue up 19% YoY to $29.78B, vs. $29.17B est., and says it plans to ship $20B of AI servers in its fiscal 2026, double what it sold last year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250828/p38#a250828p38)
- - [Sources: Meta aims to launch its next-gen Llama AI model, Llama 4.X, by the end of 2025; the TBD team developing Llama 4.X is also trying to fix Llama 4 bugs &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/250828/p37#a250828p37)<!-- TECH:END -->
+ - [Dell reports Q2 revenue up 19% YoY to $29.78B, vs. $29.17B est., and says it plans to ship $20B of AI servers in its fiscal 2026, double what it sold last year &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250828/p38#a250828p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

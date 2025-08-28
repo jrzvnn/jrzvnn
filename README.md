@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Mark Zuckerberg lobbied President Trump against digital service taxes, which Trump then publicly criticized; Meta confirms they met privately last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p27#a250828p27)
+ - [Fubo Sports is a $55.99 / month streaming bundle made for watching football](https://www.theverge.com/news/767572/fubo-sports-espn-nfl-network-college-football-streaming)
  - [Kobo replaces Pocket with Instapaper on its e-readers in a free update](https://www.theverge.com/news/767527/instapaper-replaces-pocket-on-kobo-e-readers)
  - [Anthropic says it will train its AI models on user data, including new chat transcripts and coding sessions, unless users opt out by September 28 &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250828/p26#a250828p26)
- - [Kirby&amp;#8217;s new Switch 2 expansion adds just the right amount of challenge](https://www.theverge.com/games-review/767427/kirby-and-the-forgotten-land-star-crossed-world-review-switch-2)
- - [Anthropic will start training its AI models on chat transcripts](https://www.theverge.com/anthropic/767507/anthropic-user-data-consumers-ai-models-training-privacy)
- - [Commonwealth, which wants to build a fusion power plant, raised $863M from Nvidia&#39;s NVentures, Khosla Ventures, and Google, bringing its total raised to ~$3B &lpar;Will Wade/Bloomberg&rpar;](http://www.techmeme.com/250828/p25#a250828p25)<!-- TECH:END -->
+ - [Kirby&amp;#8217;s new Switch 2 expansion adds just the right amount of challenge](https://www.theverge.com/games-review/767427/kirby-and-the-forgotten-land-star-crossed-world-review-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

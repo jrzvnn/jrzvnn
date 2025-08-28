@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good guy cheetah](http://9gag.com/gag/arydKgX)
- - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 💣 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)<!-- MEMES:END -->
+ - 😝 [I spent like 10 for that game](http://9gag.com/gag/a9yVWdD)
+ - 😝 [Soon](http://9gag.com/gag/apRdLr9)
+ - 💣 [I can&#39;t handle this..](http://9gag.com/gag/ajPdqXw)
+ - 😝 [It do be like that](http://9gag.com/gag/aW4d8mA)
+ - 👉 [UE5 is cancer](http://9gag.com/gag/ae9dYZp)<!-- MEMES:END -->
 
 ---
 

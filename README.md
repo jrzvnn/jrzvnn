@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Is How You Log Off](https://www.wired.com/story/uncanny-valley-podcast-this-is-how-you-log-off/)
- - [Microsoft unveils MAI-Voice-1, a speech model that can generate a full minute of audio in under a second on a single GPU, and a text model called MAI-1-preview &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250828/p30#a250828p30)
- - [Anthropic requires users to accept new terms by September 28, including choosing whether new chats and coding sessions can be used to train AI models &lpar;Anthropic&rpar;](http://www.techmeme.com/250828/p29#a250828p29)
- - [GM’s new adapters reflect the increasingly confused reality of EV charging](https://www.theverge.com/electric-cars/767535/gms-new-adapters-reflect-increasingly-confused-world-ev-charging)
- - [OpenAI makes Realtime API generally available with new features, including MCP support, and launches gpt-realtime, its most advanced speech-to-speech model &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250828/p28#a250828p28)<!-- TECH:END -->
+ - [Google’s Pixel Care Plus includes free screen and battery repair](https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair)
+ - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
+ - [InstaLILY, whose industry-specific AI agents called InstaWorkers integrate with legacy systems, raised $25M from Insight Partners &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250828/p31#a250828p31)
+ - [Xbox&amp;#8217;s cross-device play history syncs your recently played games on every  screen](https://www.theverge.com/news/767697/xbox-cross-device-play-history-cloud-gaming)
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
- - 😝 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
- - 💣 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)
- - 😝 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
- - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
+ - 😝 [Good guy cheetah](http://9gag.com/gag/arydKgX)
+ - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 💣 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
+ - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
+ - 👉 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)<!-- MEMES:END -->
 
 ---
 

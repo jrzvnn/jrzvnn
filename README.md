@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to invest an additional $9B in Virginia through 2026 to boost its cloud and AI infrastructure, including a new data center in Chesterfield County &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250828/p14#a250828p14)
+ - [China Is Building a Brain-Computer Interface Industry](https://www.wired.com/story/china-is-getting-serious-about-brain-computer-interfaces/)
  - [Microsoft is expanding Xbox Cloud Gaming to Game Pass Core and Standard subscribers, dropping the Game Pass Ultimate requirement, and tests more PC game access &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250828/p13#a250828p13)
  - [Maisa AI, which offers an enterprise agentic automation service that uses a proprietary system to limit hallucinations, raised a $25M seed led by Creandum &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250828/p12#a250828p12)
- - [UK banks face losses on billions of pounds in loans to dozens of alternative broadband network providers that have tried to challenge BT and O2&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p11#a250828p11)
- - [An in-depth look at India&#39;s quick commerce boom, driven by Blinkit, Zepto, and Instamart, which have collectively lost more than $1.4B in the past four years &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p10#a250828p10)
- - [How ChatGPT-powered companionship dolls from Hyodol are helping ease loneliness among older adults in South Korea, as the company aims for a US debut in 2026 &lpar;Michelle Kim/Rest of World&rpar;](http://www.techmeme.com/250828/p9#a250828p9)<!-- TECH:END -->
+ - [UK banks face losses on billions of pounds in loans to dozens of alternative broadband network providers that have tried to challenge BT and O2&#39;s dominance &lpar;Financial Times&rpar;](http://www.techmeme.com/250828/p11#a250828p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

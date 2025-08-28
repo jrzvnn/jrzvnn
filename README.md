@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s cool bro, only two people saw that](http://9gag.com/gag/an7dN8z)
- - 😝 [Bless our nurses.](http://9gag.com/gag/awy8xMB)
- - 💣 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [Don&#39;t bring this thing in your bed.](http://9gag.com/gag/aNDqn5G)<!-- MEMES:END -->
+ - 😝 [Just wait](http://9gag.com/gag/aByvYbz)
+ - 😝 [Monke vs Century Egg](http://9gag.com/gag/aYQdeGv)
+ - 💣 [So Rageful It\u2019s Actually Funny](http://9gag.com/gag/ae9d6AB)
+ - 😝 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 ---
 

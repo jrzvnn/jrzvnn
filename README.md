@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Battlefield 6 PC requirements are pretty chill — if you don&amp;#8217;t mind 30fps](https://www.theverge.com/news/767582/battlefield-6-pc-requirements-are-pretty-chill-if-you-dont-mind-30fps)
  - [Source: Mark Zuckerberg lobbied President Trump against digital service taxes, which Trump then publicly criticized; Meta confirms they met privately last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/250828/p27#a250828p27)
  - [Fubo Sports is a $55.99 / month streaming bundle made for watching football](https://www.theverge.com/news/767572/fubo-sports-espn-nfl-network-college-football-streaming)
  - [Kobo replaces Pocket with Instapaper on its e-readers in a free update](https://www.theverge.com/news/767527/instapaper-replaces-pocket-on-kobo-e-readers)
- - [Anthropic says it will train its AI models on user data, including new chat transcripts and coding sessions, unless users opt out by September 28 &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250828/p26#a250828p26)
- - [Kirby&amp;#8217;s new Switch 2 expansion adds just the right amount of challenge](https://www.theverge.com/games-review/767427/kirby-and-the-forgotten-land-star-crossed-world-review-switch-2)<!-- TECH:END -->
+ - [Anthropic says it will train its AI models on user data, including new chat transcripts and coding sessions, unless users opt out by September 28 &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250828/p26#a250828p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

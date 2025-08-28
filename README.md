@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [ChargePoint’s new megawatt EV chargers could level the playing field with China](https://www.theverge.com/news/766156/chargepoint-dc-fast-charging-600-kw-megawatt)
+ - [The best alternatives to Spotify for listening to music](https://www.theverge.com/22910685/music-listening-service-spotify-apple-youtube-amazon)
  - [Rain, a stablecoin-backed Visa card issuer, raised a $58M Series B led by Sapphire Ventures, after raising a $24.5M Series A led by Norwest in March &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/250828/p19#a250828p19)
- - [MagSafe PopSockets have come for your Kindle](https://www.theverge.com/news/767369/popsocket-popcase-kindle-magsafe-price-availability)
- - [15 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [DJI’s Mic 3 crams more features into a smaller package](https://www.theverge.com/news/767297/dji-mic-3-wireless-microphone-launch)
- - [Apple TV+ show &#39;Trying&#39; will be free on the BBC soon](https://appleinsider.com/articles/25/08/28/apple-tv-show-trying-will-be-free-on-the-bbc-soon?utm_source=rss)<!-- TECH:END -->
+ - [MagSafe PopSockets have come for your Kindle](https://www.theverge.com/news/767369/popsocket-popcase-kindle-magsafe-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

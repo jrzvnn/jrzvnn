@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dayum, women really hate break-ups before the year ends](http://9gag.com/gag/aGyoxmn)
- - 😝 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)
- - 💣 [I&#39;m paying no delivery... I can bring it home by myself](http://9gag.com/gag/azxBV4z)
- - 😝 [This might be the greatest lifehack, share your best life hack](http://9gag.com/gag/ajPdAWg)
- - 👉 [I wanted to cherchez la femme, but not her fault.](http://9gag.com/gag/aO8jVz3)<!-- MEMES:END -->
+ - 😝 [Someone&#39;s having a bad day](http://9gag.com/gag/avyDgBO)
+ - 😝 [Dumbass had 3 business days to stop](http://9gag.com/gag/apRd0y8)
+ - 💣 [THE MADMAN!](http://9gag.com/gag/aByvr6D)
+ - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 👉 [Sad music](http://9gag.com/gag/amod03X)<!-- MEMES:END -->
 
 ---
 

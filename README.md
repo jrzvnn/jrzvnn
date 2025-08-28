@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - 😝 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
- - 💣 [He just gave in to the intrusive thoughts](http://9gag.com/gag/aQzr8Dw)
- - 😝 [Bless our nurses.](http://9gag.com/gag/awy8xMB)
- - 👉 [Good guy cheetah](http://9gag.com/gag/arydKgX)<!-- MEMES:END -->
+ - 😝 [Little too late?](http://9gag.com/gag/ayNzDpW)
+ - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
+ - 💣 [Duty](http://9gag.com/gag/aE0QYwG)
+ - 😝 [Looks like Zapdos](http://9gag.com/gag/azxB8Xp)
+ - 👉 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)<!-- MEMES:END -->
 
 ---
 

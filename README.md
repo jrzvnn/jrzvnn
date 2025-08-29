@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 11 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
  - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
  - [Alibaba reports Q1 revenue up 2% YoY to ~$34.6B, below ~$35.4B est., and net income up 76% to ~$5.9B, above ~$4B est., as AI demand drives cloud sales up 26% &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250829/p8#a250829p8)
  - [Sources: ChatGPT co-creator Shengjia Zhao threatened to quit Meta within days of joining and return to OpenAI; later, he was given the chief AI scientist title &lpar;Financial Times&rpar;](http://www.techmeme.com/250829/p7#a250829p7)
- - [The Wild, Citywide Scavenger Hunt That Ate San Francisco](https://www.wired.com/story/pursuit-scavenger-hunt-san-francisco/)
- - [What’s really happening with the hires at Meta Superintelligence Labs](https://www.theverge.com/ai-artificial-intelligence/767746/meta-ai-superintelligence-lab-departures-scale-zuckerberg-memo)<!-- TECH:END -->
+ - [I Tested the Asus ProArt P16 Laptop and It Delivers the Goods for Creators](https://www.cnet.com/tech/computing/i-tested-the-asus-proart-p16-laptop-and-it-delivers-the-goods-for-creators/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

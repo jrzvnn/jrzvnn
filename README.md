@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam users in the UK will need a credit card to access &amp;#8216;mature content&amp;#8217; games](https://www.theverge.com/news/767980/steam-uk-age-vertification-online-safety-act-credit-card-mature-games)
- - [Reliance launches a subsidiary called Reliance Intelligence, aiming to create national-scale AI infrastructure in India, in partnership with Google and Meta &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250829/p13#a250829p13)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [Sources: DeepSeek plans to use Huawei&#39;s Ascend AI chips to train smaller versions of its upcoming R2 models but will still use Nvidia chips for largest models &lpar;The Information&rpar;](http://www.techmeme.com/250829/p12#a250829p12)
- - [The White House Apparently Ordered Federal Workers to Roll Out Grok &#39;ASAP&#39;](https://www.wired.com/story/white-house-elon-musk-xai-grok/)<!-- TECH:END -->
+ - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)
+ - [The US makes it harder for Samsung, SK Hynix, and Intel to produce chips in China by revoking waivers for the use of US equipment in their Chinese operations &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250829/p16#a250829p16)
+ - [Sources: the US government restored xAI to its vendors list after removing it for Grok&#39;s antisemitic content; email: the White House asked GSA to add xAI &quot;ASAP&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250829/p15#a250829p15)
+ - [Tesla releases Model Y Performance in Europe — will it staunch the bleeding?](https://www.theverge.com/news/767959/tesla-model-y-performance-europe-range-specs-sales)
+ - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

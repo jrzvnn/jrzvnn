@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 😝 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
+ - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
  - 💣 [What an asshole.](http://9gag.com/gag/aYQd4rO)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Disturbing, decoded parts of the Minneapolis trans mass sh\u2014ter\u2019s manifesto reveals he picked the Annunciation Catholic Church and school, where he once went and where his mother had worked, because it\u2019s a \u201cliberal school [that] does not allow teachers to carry [firearms].\u201d](http://9gag.com/gag/aXPdqxP)<!-- MEMES:END -->
+ - 👉 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)<!-- MEMES:END -->
 
 ---
 

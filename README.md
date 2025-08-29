@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hisense&amp;#8217;s take on the Samsung Frame TV is $300 off](https://www.theverge.com/tech/768031/hisense-lego-samsung-elgato-deal-sale)
- - [FriendliAI, which aims to help companies run AI model inference faster and cheaper, raised a $20M extension to its $6M seed fund from late 2021 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250829/p17#a250829p17)
- - [&#39;1984&#39; Macintosh ad writer Steve Hayden dies aged 78](https://appleinsider.com/articles/25/08/29/1984-macintosh-ad-writer-steve-hayen-dies-aged-78?utm_source=rss)
- - [FEMA’s Chaotic Summer Has Gone From Bad to Worse](https://www.wired.com/story/fema-funding-dhs-agency-punishment/)
- - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)<!-- TECH:END -->
+ - [Tesla asks court to toss wrongful death verdict that cost it $243 million](https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss)
+ - [Last call: Save up to $400 on these MacBook Pros](https://appleinsider.com/articles/25/08/29/last-call-save-up-to-400-on-these-macbook-pros?utm_source=rss)
+ - [Apple taps into TikTok&#39;s sibling app Douyin to sell iPhones in China](https://appleinsider.com/articles/25/08/29/apple-taps-into-tiktoks-sibling-app-douyin-to-sell-iphones-in-china?utm_source=rss)
+ - [The future of AI hardware isn&amp;#8217;t one device — it&amp;#8217;s an entire ecosystem](https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing)
+ - [Hisense&amp;#8217;s take on the Samsung Frame TV is $300 off](https://www.theverge.com/tech/768031/hisense-lego-samsung-elgato-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hop on the pile ...](http://9gag.com/gag/aXPdqjd)
- - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
- - 💣 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
- - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
- - 👉 [Weird ornament](http://9gag.com/gag/aByvWwO)<!-- MEMES:END -->
+ - 😝 [My right hand almost rise up.](http://9gag.com/gag/aRByKLA)
+ - 😝 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)
+ - 💣 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 😝 [Growing up in the 80s versus how movies portray it](http://9gag.com/gag/a4Pxbr6)
+ - 👉 [Driver asks for a second one](http://9gag.com/gag/aAymdVR)<!-- MEMES:END -->
 
 ---
 

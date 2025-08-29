@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Genius movie](http://9gag.com/gag/awy8VmB)
- - 😝 [English IVY](http://9gag.com/gag/amodrMo)
- - 💣 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
+ - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
+ - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 💣 [What an asshole.](http://9gag.com/gag/aYQd4rO)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)<!-- MEMES:END -->
+ - 👉 [Disturbing, decoded parts of the Minneapolis trans mass sh\u2014ter\u2019s manifesto reveals he picked the Annunciation Catholic Church and school, where he once went and where his mother had worked, because it\u2019s a \u201cliberal school [that] does not allow teachers to carry [firearms].\u201d](http://9gag.com/gag/aXPdqxP)<!-- MEMES:END -->
 
 ---
 

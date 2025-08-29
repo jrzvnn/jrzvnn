@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam users in the UK will need a credit card to access &amp;#8216;mature content&amp;#8217; games](https://www.theverge.com/news/767980/steam-uk-age-vertification-online-safety-act-credit-card-mature-games)
+ - [Reliance launches a subsidiary called Reliance Intelligence, aiming to create national-scale AI infrastructure in India, in partnership with Google and Meta &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250829/p13#a250829p13)
  - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
  - [Sources: DeepSeek plans to use Huawei&#39;s Ascend AI chips to train smaller versions of its upcoming R2 models but will still use Nvidia chips for largest models &lpar;The Information&rpar;](http://www.techmeme.com/250829/p12#a250829p12)
- - [The White House Apparently Ordered Federal Workers to Roll Out Grok &#39;ASAP&#39;](https://www.wired.com/story/white-house-elon-musk-xai-grok/)
- - [A judge rules Nvidia must face trial over allegations that it benefitted from autonomous driving data stolen by an engineer who defected from Valeo in 2021 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250829/p11#a250829p11)
- - [The Only Reason I Travel With My VR Headset Is the One Thing Meta Needs to Focus on More: Fitness](https://www.cnet.com/tech/computing/the-only-reason-i-travel-with-my-vr-headset-is-the-one-thing-meta-needs-to-focus-more-on-fitness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The White House Apparently Ordered Federal Workers to Roll Out Grok &#39;ASAP&#39;](https://www.wired.com/story/white-house-elon-musk-xai-grok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

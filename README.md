@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
  - [Alibaba reports Q1 revenue up 2% YoY to ~$34.6B, below ~$35.4B est., and net income up 76% to ~$5.9B, above ~$4B est., as AI demand drives cloud sales up 26% &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250829/p8#a250829p8)
  - [Sources: ChatGPT co-creator Shengjia Zhao threatened to quit Meta within days of joining and return to OpenAI; later, he was given the chief AI scientist title &lpar;Financial Times&rpar;](http://www.techmeme.com/250829/p7#a250829p7)
  - [The Wild, Citywide Scavenger Hunt That Ate San Francisco](https://www.wired.com/story/pursuit-scavenger-hunt-san-francisco/)
- - [What’s really happening with the hires at Meta Superintelligence Labs](https://www.theverge.com/ai-artificial-intelligence/767746/meta-ai-superintelligence-lab-departures-scale-zuckerberg-memo)
- - [Inside Apple&#39;s Numbers - how it compares to Microsoft Excel](https://appleinsider.com/inside/iwork/vs/inside-apples-numbers---how-it-compares-to-microsoft-excel?utm_source=rss)<!-- TECH:END -->
+ - [What’s really happening with the hires at Meta Superintelligence Labs](https://www.theverge.com/ai-artificial-intelligence/767746/meta-ai-superintelligence-lab-departures-scale-zuckerberg-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

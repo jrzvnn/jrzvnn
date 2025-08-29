@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo leaks show concept laptop with rotating display](https://www.theverge.com/news/767940/lenovo-rotating-display-laptop-concept-project-pivo-leak)
- - [UK iCloud data demand wanted far more than the world&#39;s Messages](https://appleinsider.com/articles/25/08/29/uk-icloud-data-demand-wanted-far-more-than-the-worlds-messages?utm_source=rss)
- - [The 11 Best Greens Powders, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-greens-powders/)
- - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
- - [Alibaba reports Q1 revenue up 2% YoY to ~$34.6B, below ~$35.4B est., and net income up 76% to ~$5.9B, above ~$4B est., as AI demand drives cloud sales up 26% &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250829/p8#a250829p8)<!-- TECH:END -->
+ - [Blizzard’s Diablo team has unionized](https://www.theverge.com/news/767944/diablo-developers-form-union-blizzard-entertainment)
+ - [In a trial over a fatal Autopilot crash, Tesla denied having crash-snapshot data, until a hacker hired by the plaintiffs recovered the data from the vehicle &lpar;Washington Post&rpar;](http://www.techmeme.com/250829/p10#a250829p10)
+ - [12 Best Laptops for College Students &lpar;2025&rpar;, Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
+ - [The Pixel 10’s AI screamed at us](https://www.theverge.com/the-vergecast/767883/pixel-10-pro-ai-dish-intel-musk-lawsuit)
+ - [Eyes up, Guardian: &#39;Destiny: Rising&#39; is now on iPhone and iPad](https://appleinsider.com/articles/25/08/28/destiny-rising-series-first-foray-onto-mobile-out-now?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

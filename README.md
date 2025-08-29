@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Intel says its funding deal with the US loosens its requirements under the CHIPS Act, including removing the need to meet certain project milestones &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250829/p33#a250829p33)
  - [SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes](https://www.wired.com/story/charles-borges-resignation-email-disappearance/)
  - [Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT&#39;s visits &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250829/p32#a250829p32)
  - [Time to Save Up: iPhone 17 Pro Price Hike Appears Imminent, Says New Report](https://www.cnet.com/tech/mobile/time-to-save-up-iphone-17-pro-price-hike-appears-imminent-says-new-report/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)
- - [The Ethereum Foundation pauses its grants program, which awarded $3M+ to 100+ projects since 2018, to rethink its spending strategy and reduce its burn rate &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250829/p31#a250829p31)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

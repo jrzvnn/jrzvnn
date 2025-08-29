@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 😝 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
- - 💣 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
- - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Me checking in the snooze button every morning](http://9gag.com/gag/arydbOp)<!-- MEMES:END -->
+ - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
+ - 😝 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)
+ - 💣 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
+ - 😝 [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
+ - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta created and let users create flirty chatbots and intimate images using the names and likenesses of Taylor Swift and other celebs without their permission &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/250829/p30#a250829p30)
+ - [Showrunner wants to turn you into a happy little content prompter for the &amp;#8216;Netflix of AI&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview)
  - [The FCC rejects a proposal by broadcasters and others that would have imposed cable-style fees on streaming services, tech companies, and broadband providers &lpar;Matthew Keys/TheDesk.net&rpar;](http://www.techmeme.com/250829/p29#a250829p29)
  - [TikTok is now letting everyone DM each other with voice memos and pictures](https://www.theverge.com/news/768245/tiktok-is-now-letting-everyone-dm-each-other-with-voice-memos-and-pictures)
- - [Pixel 10 Pro 10x zoom is AI slop dressed up as photography](https://appleinsider.com/articles/25/08/29/pixel-10-pro-10x-zoom-is-ai-slop-dressed-up-as-photography?utm_source=rss)
- - [Microsoft’s next annual update for Windows 11 is in Release Preview testing](https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test)
- - [WhatsApp fixed a zero-click bug in its iOS and Mac apps that was being used, alongside a now-fixed Apple flaw, to hack into devices of &quot;specific targeted users&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250829/p28#a250829p28)<!-- TECH:END -->
+ - [Pixel 10 Pro 10x zoom is AI slop dressed up as photography](https://appleinsider.com/articles/25/08/29/pixel-10-pro-10x-zoom-is-ai-slop-dressed-up-as-photography?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

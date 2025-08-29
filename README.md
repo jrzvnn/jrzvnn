@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 😝 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
- - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 😝 [Getting home with style](http://9gag.com/gag/aYQd4LV)
+ - 💣 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 ---
 

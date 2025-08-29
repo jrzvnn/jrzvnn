@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)
  - 😝 [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
- - 💣 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
  - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 💣 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
+ - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
  - 👉 [First one is the cutest](http://9gag.com/gag/aRByjMQ)<!-- MEMES:END -->
 
 ---

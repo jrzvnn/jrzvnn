@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
- - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
- - 💣 [OMG GREAT MMA FIGHT EVER](http://9gag.com/gag/aNDqAOv)
+ - 😝 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
+ - 😝 [The best a man can get](http://9gag.com/gag/aNDqAoG)
+ - 💣 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
  - 😝 [Growing up in the 80s versus how movies portray it](http://9gag.com/gag/a4Pxbr6)
- - 👉 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)<!-- MEMES:END -->
+ - 👉 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An investigation finds spammers are deploying Holocaust-themed AI slop images across Facebook, in an attempt to game Meta&#39;s content monetization program &lpar;BBC&rpar;](http://www.techmeme.com/250829/p4#a250829p4)
+ - [We Asked Dentists: What&#39;s the Best Whitening Toothpaste of 2025?](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
  - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)
  - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [HP Coupon Codes and Deals: Up to 60% Off | September 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

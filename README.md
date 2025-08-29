@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
- - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 💣 [She will be riding too](http://9gag.com/gag/aAymwv2)
+ - 😝 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
+ - 😝 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
+ - 💣 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)<!-- MEMES:END -->
+ - 👉 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)<!-- MEMES:END -->
 
 ---
 

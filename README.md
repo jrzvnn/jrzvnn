@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
- - 😝 [Duty](http://9gag.com/gag/aE0QYwG)
- - 💣 [Exactly.](http://9gag.com/gag/adBdqRB)
- - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
- - 👉 [Weird ornament](http://9gag.com/gag/aByvWwO)<!-- MEMES:END -->
+ - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 😝 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
+ - 💣 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 😝 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)
+ - 👉 [F**k around, find out.](http://9gag.com/gag/aByv1Az)<!-- MEMES:END -->
 
 ---
 

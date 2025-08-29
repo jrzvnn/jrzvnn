@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 💣 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
+ - 😝 [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
+ - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
+ - 💣 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Memes are good](http://9gag.com/gag/a87n8z6)<!-- MEMES:END -->
+ - 👉 [First one is the cutest](http://9gag.com/gag/aRByjMQ)<!-- MEMES:END -->
 
 ---
 

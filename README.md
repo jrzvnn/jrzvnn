@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
+ - 😝 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
  - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
  - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)

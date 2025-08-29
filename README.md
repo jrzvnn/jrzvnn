@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
  - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 😝 [Sadly #2 turn into #1 and the cycle repeats itself. Facts of life, don\u2019t shoot the messenger](http://9gag.com/gag/aD2PGNO)
+ - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
  - 👉 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)<!-- MEMES:END -->
 

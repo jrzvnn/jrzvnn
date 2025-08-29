@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
- - 😝 [The best a man can get](http://9gag.com/gag/aNDqAoG)
- - 💣 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
- - 😝 [Growing up in the 80s versus how movies portray it](http://9gag.com/gag/a4Pxbr6)
- - 👉 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)<!-- MEMES:END -->
+ - 😝 [Hop on the pile ...](http://9gag.com/gag/aXPdqjd)
+ - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
+ - 💣 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
+ - 👉 [Weird ornament](http://9gag.com/gag/aByvWwO)<!-- MEMES:END -->
 
 ---
 

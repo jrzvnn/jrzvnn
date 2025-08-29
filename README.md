@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
- - 💣 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 😝 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)
- - 👉 [F**k around, find out.](http://9gag.com/gag/aByv1Az)<!-- MEMES:END -->
+ - 😝 [Driver asks for a second one](http://9gag.com/gag/aAymdVR)
+ - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
+ - 💣 [He just gave in to the intrusive thoughts](http://9gag.com/gag/aQzr8Dw)
+ - 😝 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
+ - 👉 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)<!-- MEMES:END -->
 
 ---
 

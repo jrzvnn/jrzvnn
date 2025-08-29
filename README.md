@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Apple&#39;s Numbers - how it compares to Microsoft Excel](https://appleinsider.com/inside/iwork/vs/inside-apples-numbers---how-it-compares-to-microsoft-excel?utm_source=rss)
  - [Huawei reports H1 2025 revenue up 3.9% YoY to ~$58.5B, driven by soaring AI compute demand and a rebound in phone sales, and net profit down 32% YoY to ~$5.2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250829/p6#a250829p6)
  - [How Much Melatonin Should You Be Taking? &lpar;2025&rpar;](https://www.wired.com/story/how-much-melatonin-should-i-take/)
  - [The Internet Revolutionized Porn. Age Verification Could Upend Everything](https://www.wired.com/story/the-internet-revolutionized-porn-age-verification-could-upend-everything/)
- - [Need a Horror Film Full of Twists and Turns? Watch This Free Futuristic Flick on Tubi](https://www.cnet.com/culture/entertainment/need-a-horror-film-full-of-twists-and-turns-watch-this-free-futuristic-flick-on-tubi/#ftag=CAD590a51e)
  - [India&#39;s largest telco Reliance Jio, owned by Asia&#39;s richest man Mukesh Ambani, says it aims to list its shares through an IPO in India by the first half of 2026 &lpar;Chandini Monnappa/Reuters&rpar;](http://www.techmeme.com/250829/p5#a250829p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

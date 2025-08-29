@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak suggests new Philips Hue lights will have direct Matter support](https://www.theverge.com/news/768232/leak-philips-hue-lights-matter-over-thread)
  - [Taco Bell, which deployed voice AI-powered ordering at 500+ drive-through locations, is now reconsidering the tech after viral videos of glitches and pranks &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250829/p27#a250829p27)
  - [Nothing Projector One review: Compact, smart, and budget-friendly](https://appleinsider.com/articles/25/08/29/nothing-projector-one-review-compact-smart-and-budget-friendly?utm_source=rss)
  - [Sources: Google is set to face a modest EU antitrust fine over adtech practices, in an investigation triggered by a complaint by the European Publishers Council &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250829/p26#a250829p26)
- - [The 91 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Elon Musk&#39;s Grok Has a New Coding Model That Emphasizes Speed](https://www.cnet.com/tech/services-and-software/elon-musks-grok-has-a-new-coding-model-that-emphasizes-speed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 91 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

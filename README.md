@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. can&#39;t tell.](http://9gag.com/gag/aKGLVe6)
- - 😝 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)
- - 💣 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
- - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
+ - 😝 [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
+ - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 💣 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
+ - 😝 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)
+ - 👉 [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)<!-- MEMES:END -->
 
 ---
 

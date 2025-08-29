@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)
+ - [Meta says it&#39;ll update AI chatbot rules to prevent inappropriate chats with teens and let teens access only AI characters that promote education and creativity &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250829/p22#a250829p22)
  - [Mastodon says it does not &quot;have the means to apply age verification&quot; to its services and it&#39;s up to server admins to observe local laws in places they operate &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250829/p21#a250829p21)
  - [41 Best Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025-1/)
- - [If your iPhone buttons don&#39;t work, troubleshoot before you invent a conspiracy](https://appleinsider.com/articles/25/08/29/if-your-iphone-buttons-dont-work-troubleshoot-before-you-invent-a-conspiracy?utm_source=rss)
- - [French President Emmanuel Macron vows a strong response if any country takes measures that undermine Europe&#39;s digital sovereignty &lpar;Richard Bravo/Bloomberg&rpar;](http://www.techmeme.com/250829/p20#a250829p20)
- - [Perplexity&#39;s head of advertising and shopping Taz Patel has left after nine months; its ad business reportedly generated only about $20,000 in Q4 2024 &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250829/p19#a250829p19)<!-- TECH:END -->
+ - [If your iPhone buttons don&#39;t work, troubleshoot before you invent a conspiracy](https://appleinsider.com/articles/25/08/29/if-your-iphone-buttons-dont-work-troubleshoot-before-you-invent-a-conspiracy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
+ - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
  - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
- - 💣 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
- - 😝 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)
- - 👉 [Haribo candy contains pig &lpar;mostly bones&rpar;](http://9gag.com/gag/aVvdPn8)<!-- MEMES:END -->
+ - 💣 [Real pros know](http://9gag.com/gag/aZZdmXW)
+ - 😝 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
+ - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
 
 ---
 

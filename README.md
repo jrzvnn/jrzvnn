@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;1984&#39; Macintosh ad writer Steve Hayden dies aged 78](https://appleinsider.com/articles/25/08/29/1984-macintosh-ad-writer-steve-hayen-dies-aged-78?utm_source=rss)
+ - [FEMA&#39;s Chaotic Summer Has Gone from Bad to Worse](https://www.wired.com/story/fema-funding-dhs-agency-punishment/)
  - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)
  - [The US makes it harder for Samsung, SK Hynix, and Intel to produce chips in China by revoking waivers for the use of US equipment in their Chinese operations &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250829/p16#a250829p16)
- - [Sources: the US government restored xAI to its vendors list after removing it for Grok&#39;s antisemitic content; email: the White House asked GSA to add xAI &quot;ASAP&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250829/p15#a250829p15)
- - [Tesla releases Model Y Performance in Europe — will it staunch the bleeding?](https://www.theverge.com/news/767959/tesla-model-y-performance-europe-range-specs-sales)
- - [The Best Google Pixel Phones of 2025, Tested and Reviewed: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Sources: the US government restored xAI to its vendors list after removing it for Grok&#39;s antisemitic content; email: the White House asked GSA to add xAI &quot;ASAP&quot; &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/250829/p15#a250829p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

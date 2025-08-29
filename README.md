@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
  - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 💣 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
+ - 😝 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
+ - 💣 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
+ - 👉 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)<!-- MEMES:END -->
 
 ---
 

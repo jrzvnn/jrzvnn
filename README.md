@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Pinocchio predicted use and abuse of boys](http://9gag.com/gag/a2vx5RZ)
  - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 😝 [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
- - 💣 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)
+ - 💣 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
+ - 👉 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)<!-- MEMES:END -->
 
 ---
 

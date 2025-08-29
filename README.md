@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s largest telco Reliance Jio, owned by Asia&#39;s richest man Mukesh Ambani, says it aims to list its shares through an IPO in India by the first half of 2026 &lpar;Chandini Monnappa/Reuters&rpar;](http://www.techmeme.com/250829/p5#a250829p5)
+ - [This liquid-cooled projector promises an incredibly bright 6,200 lumen image](https://www.theverge.com/news/767898/dangei-6200-lumen-projector-specs-date)
+ - [DJI Mic 3 Review: The Best Wireless Mic Gets Better](https://www.wired.com/review/dji-mic-3/)
  - [Google adds iPhone-like &amp;#8216;Calling Cards&amp;#8217; to its Phone app](https://www.theverge.com/news/767895/android-google-phone-app-calling-card-rollou)
- - [DOGE Operatives Are Joining Donald Trump’s New National Design Studio](https://www.wired.com/story/doge-operatives-joining-national-design-studio/)
- - [An investigation finds spammers are deploying Holocaust-themed AI slop images across Facebook, in an attempt to game Meta&#39;s content monetization program &lpar;BBC&rpar;](http://www.techmeme.com/250829/p4#a250829p4)
- - [We Asked Dentists: What&#39;s the Best Whitening Toothpaste of 2025?](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
- - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)<!-- TECH:END -->
+ - [DOGE Operatives Are Joining Donald Trump’s New National Design Studio](https://www.wired.com/story/doge-operatives-joining-national-design-studio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

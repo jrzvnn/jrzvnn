@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk files a motion to dismiss a US SEC suit over his 2022 Twitter stake disclosure, calling allegations that he cheated investors a government overreach &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/250829/p2#a250829p2)
  - [Court filing: the UK sought broad access to Apple user data, including bulk iCloud interception beyond ADP, and hasn&#39;t dropped the mandate as the US claimed &lpar;Financial Times&rpar;](http://www.techmeme.com/250829/p1#a250829p1)
  - [Sources: Pinecone, which provides an AI-compatible vector database, is exploring a sale after receiving takeover interest; Pinecone was valued at $750M in 2023 &lpar;The Information&rpar;](http://www.techmeme.com/250828/p44#a250828p44)
  - [How to import &amp; export Markdown with Apple Notes in macOS Tahoe](https://appleinsider.com/inside/macos-26/tips/how-to-import-export-markdown-with-apple-notes-in-macos-tahoe?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Aug. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-aug-29/#ftag=CAD590a51e)
- - [Marvell reports Q2 revenue up 58% YoY to $2.01B, in line with estimates, and forecasts Q3 revenue at $2.06B, below $2.11B est.; MRVL drops 11%+ after hours &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250828/p43#a250828p43)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Aug. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-aug-29/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

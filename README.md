@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French President Emmanuel Macron vows a strong response if any country takes measures that undermine Europe&#39;s digital sovereignty &lpar;Richard Bravo/Bloomberg&rpar;](http://www.techmeme.com/250829/p20#a250829p20)
+ - [Perplexity&#39;s head of advertising and shopping Taz Patel has left after nine months; its ad business reportedly generated only about $20,000 in Q4 2024 &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250829/p19#a250829p19)
  - [Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes](https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes)
  - [Valve adds credit card-based age checks for UK users to access &quot;mature content&quot; games on Steam; Discord and others are using selfies for verification &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250829/p18#a250829p18)
- - [Tesla asks court to toss wrongful death verdict that cost it $243 million](https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss)
- - [Last call: Save up to $400 on these MacBook Pros](https://appleinsider.com/articles/25/08/29/last-call-save-up-to-400-on-these-macbook-pros?utm_source=rss)
- - [Apple taps into TikTok&#39;s sibling app Douyin to sell iPhones in China](https://appleinsider.com/articles/25/08/29/apple-taps-into-tiktoks-sibling-app-douyin-to-sell-iphones-in-china?utm_source=rss)<!-- TECH:END -->
+ - [All the Subtle Changes iOS 26 Brings to Your Lock Screen](https://www.cnet.com/tech/services-and-software/all-the-subtle-changes-ios-26-brings-to-your-lock-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

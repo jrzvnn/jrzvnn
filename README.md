@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
- - 😝 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
- - 💣 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
+ - 😝 [WTF man are you serious right now](http://9gag.com/gag/a7oGZwr)
+ - 💣 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)<!-- MEMES:END -->
+ - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
 
 ---
 

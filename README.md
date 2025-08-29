@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google adds iPhone-like &amp;#8216;Calling Cards&amp;#8217; to its Phone app](https://www.theverge.com/news/767895/android-google-phone-app-calling-card-rollou)
+ - [DOGE Operatives Are Joining Donald Trump’s New National Design Studio](https://www.wired.com/story/doge-operatives-joining-national-design-studio/)
  - [An investigation finds spammers are deploying Holocaust-themed AI slop images across Facebook, in an attempt to game Meta&#39;s content monetization program &lpar;BBC&rpar;](http://www.techmeme.com/250829/p4#a250829p4)
  - [We Asked Dentists: What&#39;s the Best Whitening Toothpaste of 2025?](https://www.cnet.com/health/personal-care/best-whitening-toothpaste/#ftag=CAD590a51e)
- - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)
- - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
+ - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)
- - 💣 [English IVY](http://9gag.com/gag/amodrMo)
- - 😝 [There&#39;s plenty in the site](http://9gag.com/gag/aAymdP2)
- - 👉 [The best a man can get](http://9gag.com/gag/aNDqAoG)<!-- MEMES:END -->
+ - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 💣 [Just a normal procedure](http://9gag.com/gag/aD2PGe7)
+ - 😝 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
+ - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
 
 ---
 

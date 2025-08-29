@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A judge rules Nvidia must face trial over allegations that it benefitted from autonomous driving data stolen by an engineer who defected from Valeo in 2021 &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/250829/p11#a250829p11)
+ - [Insta360 Go Ultra Review: Better Video, but Bigger Package](https://www.wired.com/review/insta360-go-ultra/)
  - [Blizzard’s Diablo team has unionized](https://www.theverge.com/news/767944/diablo-developers-form-union-blizzard-entertainment)
  - [In a trial over a fatal Autopilot crash, Tesla denied having crash-snapshot data, until a hacker hired by the plaintiffs recovered the data from the vehicle &lpar;Washington Post&rpar;](http://www.techmeme.com/250829/p10#a250829p10)
- - [12 Best Laptops for College Students &lpar;2025&rpar;, Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)
- - [The Pixel 10’s AI screamed at us](https://www.theverge.com/the-vergecast/767883/pixel-10-pro-ai-dish-intel-musk-lawsuit)
- - [Eyes up, Guardian: &#39;Destiny: Rising&#39; is now on iPhone and iPad](https://appleinsider.com/articles/25/08/28/destiny-rising-series-first-foray-onto-mobile-out-now?utm_source=rss)<!-- TECH:END -->
+ - [12 Best Laptops for College Students &lpar;2025&rpar;, Including Tablets and 2-in-1s](https://www.wired.com/gallery/best-laptops-for-college-students/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

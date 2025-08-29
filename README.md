@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google is set to face a modest EU antitrust fine over adtech practices, in an investigation triggered by a complaint by the European Publishers Council &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250829/p26#a250829p26)
  - [The 91 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Elon Musk&#39;s Grok Has a New Coding Model That Emphasizes Speed](https://www.cnet.com/tech/services-and-software/elon-musks-grok-has-a-new-coding-model-that-emphasizes-speed/#ftag=CAD590a51e)
  - [Flip, a TikTok rival that let shoppers post video reviews and earn cash based on engagement, has shut down; it had raised $300M and was valued at $1B+ in 2024 &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/250829/p25#a250829p25)
- - [California Gov. Gavin Newsom and lawmakers strike a deal with Uber and Lyft allowing drivers to unionize while remaining classified as independent contractors &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250829/p24#a250829p24)
- - [xAI sues a former employee in federal court in California for allegedly stealing Grok trade secrets and taking them to OpenAI, where he recently accepted a job &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250829/p23#a250829p23)
- - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)<!-- TECH:END -->
+ - [California Gov. Gavin Newsom and lawmakers strike a deal with Uber and Lyft allowing drivers to unionize while remaining classified as independent contractors &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250829/p24#a250829p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

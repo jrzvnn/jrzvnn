@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Electric shock opportunity](http://9gag.com/gag/aGyo160)
- - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 💣 [This is how you turn on the power](http://9gag.com/gag/aGyo1Bw)
- - 😝 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)
- - 👉 [Young girls in the UK](http://9gag.com/gag/aMVW9qW)<!-- MEMES:END -->
+ - 😝 [There&#39;s plenty in the site](http://9gag.com/gag/aAymdP2)
+ - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
+ - 💣 [A real-life Minecraft compass?](http://9gag.com/gag/aByvWWA)
+ - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
 
 ---
 

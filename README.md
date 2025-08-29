@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 💣 [CHECKMATE](http://9gag.com/gag/an7d13B)
+ - 😝 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
+ - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)<!-- MEMES:END -->
+ - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
 
 ---
 

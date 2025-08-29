@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 💣 [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 😝 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
+ - 💣 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)<!-- MEMES:END -->
+ - 👉 [Me checking in the snooze button every morning](http://9gag.com/gag/arydbOp)<!-- MEMES:END -->
 
 ---
 

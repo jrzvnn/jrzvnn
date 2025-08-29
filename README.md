@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Driver asks for a second one](http://9gag.com/gag/aAymdVR)
- - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
- - 💣 [He just gave in to the intrusive thoughts](http://9gag.com/gag/aQzr8Dw)
- - 😝 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
- - 👉 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)<!-- MEMES:END -->
+ - 😝 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)
+ - 😝 [F**k around, find out.](http://9gag.com/gag/aByv1Az)
+ - 💣 [OMG GREAT MMA FIGHT EVER](http://9gag.com/gag/aNDqAOv)
+ - 😝 [Growing up in the 80s versus how movies portray it](http://9gag.com/gag/a4Pxbr6)
+ - 👉 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)<!-- MEMES:END -->
 
 ---
 

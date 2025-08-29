@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)
  - 💣 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
  - 😝 [Growing up in the 80s versus how movies portray it](http://9gag.com/gag/a4Pxbr6)
- - 👉 [Driver asks for a second one](http://9gag.com/gag/aAymdVR)<!-- MEMES:END -->
+ - 👉 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)<!-- MEMES:END -->
 
 ---
 

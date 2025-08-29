@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT&#39;s visits &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250829/p32#a250829p32)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)
  - [The Ethereum Foundation pauses its grants program, which awarded $3M+ to 100+ projects since 2018, to rethink its spending strategy and reduce its burn rate &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250829/p31#a250829p31)
  - [WhatsApp flaw paired with iOS 18 exploit delivered zero-click spyware](https://appleinsider.com/articles/25/08/29/whatsapp-flaw-paired-with-ios-18-exploit-delivered-zero-click-spyware?utm_source=rss)
- - [We Know When the iPhone 17 Will Be Announced, but When Can You Get It? Our Best Estimates](https://www.cnet.com/tech/mobile/we-know-when-the-iphone-17-will-be-announced-but-when-can-you-get-it-our-best-estimates/#ftag=CAD590a51e)
- - [Meta created and let users create flirty chatbots and intimate images using the names and likenesses of Taylor Swift and other celebs without their permission &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/250829/p30#a250829p30)<!-- TECH:END -->
+ - [We Know When the iPhone 17 Will Be Announced, but When Can You Get It? Our Best Estimates](https://www.cnet.com/tech/mobile/we-know-when-the-iphone-17-will-be-announced-but-when-can-you-get-it-our-best-estimates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 91 best Labor Day deals we’ve found so far](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Flip, a TikTok rival that let shoppers post video reviews and earn cash based on engagement, has shut down; it had raised $300M and was valued at $1B+ in 2024 &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/250829/p25#a250829p25)
+ - [California Gov. Gavin Newsom and lawmakers strike a deal with Uber and Lyft allowing drivers to unionize while remaining classified as independent contractors &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/250829/p24#a250829p24)
  - [xAI sues a former employee in federal court in California for allegedly stealing Grok trade secrets and taking them to OpenAI, where he recently accepted a job &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250829/p23#a250829p23)
- - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)
- - [Meta says it&#39;ll update AI chatbot rules to prevent inappropriate chats with teens and let teens access only AI characters that promote education and creativity &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250829/p22#a250829p22)
- - [Mastodon says it does not &quot;have the means to apply age verification&quot; to its services and it&#39;s up to server admins to observe local laws in places they operate &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250829/p21#a250829p21)
- - [41 Best Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025-1/)<!-- TECH:END -->
+ - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

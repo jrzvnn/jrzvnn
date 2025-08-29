@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pinocchio predicted use and abuse of boys](http://9gag.com/gag/a2vx5RZ)
- - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 💣 [Some people just don&#39;t know how to hold it in](http://9gag.com/gag/aMVWwOM)
+ - 😝 [Genius movie](http://9gag.com/gag/awy8VmB)
+ - 😝 [English IVY](http://9gag.com/gag/amodrMo)
+ - 💣 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)<!-- MEMES:END -->
+ - 👉 [Pls say happy birthday to me](http://9gag.com/gag/amodz54)<!-- MEMES:END -->
 
 ---
 

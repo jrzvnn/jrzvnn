@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel 10 Pro 10x zoom is AI slop dressed up as photography](https://appleinsider.com/articles/25/08/29/pixel-10-pro-10x-zoom-is-ai-slop-dressed-up-as-photography?utm_source=rss)
  - [Microsoft’s next annual update for Windows 11 is in Release Preview testing](https://www.theverge.com/microsoft-windows/768227/windows-11-25h2-release-preview-test)
  - [WhatsApp fixed a zero-click bug in its iOS and Mac apps that was being used, alongside a now-fixed Apple flaw, to hack into devices of &quot;specific targeted users&quot; &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250829/p28#a250829p28)
  - [Leak suggests new Philips Hue lights will have direct Matter support](https://www.theverge.com/news/768232/leak-philips-hue-lights-matter-over-thread)
- - [Taco Bell, which deployed voice AI-powered ordering at 500+ drive-through locations, is now reconsidering the tech after viral videos of glitches and pranks &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250829/p27#a250829p27)
- - [Nothing Projector One review: Compact, smart, and budget-friendly](https://appleinsider.com/articles/25/08/29/nothing-projector-one-review-compact-smart-and-budget-friendly?utm_source=rss)<!-- TECH:END -->
+ - [Taylor Swift Is Engaged. Her Post Is Climbing Instagram&#39;s Most-Liked List](https://www.cnet.com/tech/taylor-swift-is-engaged-her-post-smashed-an-instagram-record-is-number-eight-on-most-liked-non-soccer-list/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

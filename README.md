@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hehehe](http://9gag.com/gag/aNDqn2A)
- - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - 💣 [Just a normal procedure](http://9gag.com/gag/aD2PGe7)
- - 😝 [I&#39;ve never sat inside a coffee house longer in my life before](http://9gag.com/gag/agmdLXx)
- - 👉 [He was trying to separate them with a knife and got himself in the abdomen.](http://9gag.com/gag/aNDqn4w)<!-- MEMES:END -->
+ - 😝 [It&#39;s cool bro, only two people saw that](http://9gag.com/gag/an7dN8z)
+ - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
+ - 💣 [Hehehe](http://9gag.com/gag/aNDqn2A)
+ - 😝 [Whoops.](http://9gag.com/gag/a0exbeQ)
+ - 👉 [Dude was honest like he was standing in front of Apostle Peter...](http://9gag.com/gag/a0expzL)<!-- MEMES:END -->
 
 ---
 

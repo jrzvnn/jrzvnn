@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My right hand almost rise up.](http://9gag.com/gag/aRByKLA)
+ - 😝 [C. can&#39;t tell.](http://9gag.com/gag/aKGLVe6)
  - 😝 [Why not build car headlights from whatever the f**k this camera lens or shielding is made of](http://9gag.com/gag/aLnbMPM)
- - 💣 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
- - 😝 [Growing up in the 80s versus how movies portray it](http://9gag.com/gag/a4Pxbr6)
- - 👉 [Good thing she is a nurse \u2014 she already knows how to put herself back together..](http://9gag.com/gag/adBdXZD)<!-- MEMES:END -->
+ - 💣 [It&#39;s a new world, poor UK girls](http://9gag.com/gag/aQzr91d)
+ - 😝 [So tolerant, so progressive](http://9gag.com/gag/aGyoDQz)
+ - 👉 [Electric shock opportunity](http://9gag.com/gag/aGyo160)<!-- MEMES:END -->
 
 ---
 

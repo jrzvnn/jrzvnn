@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation finds spammers are deploying Holocaust-themed AI slop images across Facebook, in an attempt to game Meta&#39;s content monetization program &lpar;BBC&rpar;](http://www.techmeme.com/250829/p4#a250829p4)
  - [Police are investigating a murder-suicide in what appears to be the first documented murder involving someone who engaged extensively with an AI chatbot &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250829/p3#a250829p3)
  - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [HP Coupon Codes and Deals: Up to 60% Off | September 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Elon Musk files a motion to dismiss a US SEC suit over his 2022 Twitter stake disclosure, calling allegations that he cheated investors a government overreach &lpar;Nicola M White/Bloomberg&rpar;](http://www.techmeme.com/250829/p2#a250829p2)<!-- TECH:END -->
+ - [HP Coupon Codes and Deals: Up to 60% Off | September 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

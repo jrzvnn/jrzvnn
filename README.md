@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hisense&amp;#8217;s take on the Samsung Frame TV is $300 off](https://www.theverge.com/tech/768031/hisense-lego-samsung-elgato-deal-sale)
  - [FriendliAI, which aims to help companies run AI model inference faster and cheaper, raised a $20M extension to its $6M seed fund from late 2021 &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250829/p17#a250829p17)
  - [&#39;1984&#39; Macintosh ad writer Steve Hayden dies aged 78](https://appleinsider.com/articles/25/08/29/1984-macintosh-ad-writer-steve-hayen-dies-aged-78?utm_source=rss)
- - [FEMA&#39;s Chaotic Summer Has Gone From Bad to Worse](https://www.wired.com/story/fema-funding-dhs-agency-punishment/)
- - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)
- - [The US makes it harder for Samsung, SK Hynix, and Intel to produce chips in China by revoking waivers for the use of US equipment in their Chinese operations &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/250829/p16#a250829p16)<!-- TECH:END -->
+ - [FEMA’s Chaotic Summer Has Gone From Bad to Worse](https://www.wired.com/story/fema-funding-dhs-agency-punishment/)
+ - [Turning KPop Demon Hunters into a franchise is going to take some smart strategizing](https://www.theverge.com/netflix/767180/kpop-demon-hunters-sequel-franchise-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

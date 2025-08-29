@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 😝 [Sadly #2 turn into #1 and the cycle repeats itself. Facts of life, don\u2019t shoot the messenger](http://9gag.com/gag/aD2PGNO)
- - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)<!-- MEMES:END -->
+ - 😝 [Gotta love Babylon Bee](http://9gag.com/gag/ayNzxBr)
+ - 😝 [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
+ - 💣 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
+ - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 👉 [First one is the cutest](http://9gag.com/gag/aRByjMQ)<!-- MEMES:END -->
 
 ---
 

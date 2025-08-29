@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes](https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes)
+ - [Valve adds credit card-based age checks for UK users to access &quot;mature content&quot; games on Steam; Discord and others are using selfies for verification &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250829/p18#a250829p18)
  - [Tesla asks court to toss wrongful death verdict that cost it $243 million](https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss)
  - [Last call: Save up to $400 on these MacBook Pros](https://appleinsider.com/articles/25/08/29/last-call-save-up-to-400-on-these-macbook-pros?utm_source=rss)
- - [Apple taps into TikTok&#39;s sibling app Douyin to sell iPhones in China](https://appleinsider.com/articles/25/08/29/apple-taps-into-tiktoks-sibling-app-douyin-to-sell-iphones-in-china?utm_source=rss)
- - [The future of AI hardware isn&amp;#8217;t one device — it&amp;#8217;s an entire ecosystem](https://www.theverge.com/report/767765/ai-hardware-google-pixel-gemini-wearables-ambient-computing)
- - [Hisense&amp;#8217;s take on the Samsung Frame TV is $300 off](https://www.theverge.com/tech/768031/hisense-lego-samsung-elgato-deal-sale)<!-- TECH:END -->
+ - [Apple taps into TikTok&#39;s sibling app Douyin to sell iPhones in China](https://appleinsider.com/articles/25/08/29/apple-taps-into-tiktoks-sibling-app-douyin-to-sell-iphones-in-china?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

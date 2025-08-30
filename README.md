@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [DHS Secretary Kristi Noem fires 24 FEMA IT staffers, including the CIO and CISO; DHS says they failed security protocols and let hackers access FEMA networks &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250830/p6#a250830p6)
  - [What to Look for When Buying a Sleep Mask &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-sleep-mask-2025/)
  - [DOGE Put Everyone’s Social Security Data at Risk, Whistleblower Claims](https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/)
- - [Falcon 9 Milestones Vindicate SpaceX’s ‘Dumb’ Approach to Reuse](https://www.wired.com/story/falcon-9-milestones-vindicate-spacex-approach-to-reuse/)<!-- TECH:END -->
+ - [Labor Day Just Made My Favorite All-in-One Kitchen Appliance a Steal at 25% Off](https://www.cnet.com/deals/labor-day-just-made-my-favorite-all-in-one-kitchen-appliance-a-steal-at-25-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

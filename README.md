@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
- - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
- - 💣 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
+ - 😝 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
+ - 💣 [Life is](http://9gag.com/gag/a7oGrYA)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Panda babies](http://9gag.com/gag/aPApjwQ)<!-- MEMES:END -->
+ - 👉 [Clip from the movie Wolves](http://9gag.com/gag/an7dMXE)<!-- MEMES:END -->
 
 ---
 

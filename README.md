@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They deleted my supreme bacon.](http://9gag.com/gag/a87nyM3)
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 💣 [Life finds a way](http://9gag.com/gag/amodr3X)
+ - 😝 [Clip from the movie Wolves](http://9gag.com/gag/an7dMXE)
+ - 😝 [First one is the cutest](http://9gag.com/gag/aRByjMQ)
+ - 💣 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
+ - 👉 [Panda babies](http://9gag.com/gag/aPApjwQ)<!-- MEMES:END -->
 
 ---
 

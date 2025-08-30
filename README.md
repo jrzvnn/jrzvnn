@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They deleted my supreme bacon.](http://9gag.com/gag/a87nyM3)
- - 😝 [Fiat to Fiat](http://9gag.com/gag/a7oGDOA)
- - 💣 [Getting home with style](http://9gag.com/gag/aYQd4LV)
- - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
- - 👉 [Let&#39;s make this asshole famous](http://9gag.com/gag/aryd5jV)<!-- MEMES:END -->
+ - 😝 [It just keeps happening!](http://9gag.com/gag/aZZdg86)
+ - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 💣 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
+ - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
- - 😝 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
- - 💣 [OPs on 9gag. &lpar;If you have the sound on, turn it off&rpar;](http://9gag.com/gag/abAd66L)
+ - 😝 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
+ - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
+ - 💣 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
+ - 👉 [Armed robbers get a taste of instant karma](http://9gag.com/gag/ae9dM3q)<!-- MEMES:END -->
 
 ---
 

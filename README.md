@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Purgatory, tied to online community The Com, claims responsibility for swatting attacks on US universities, airports, and more, charging $20 to $95 per incident &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250830/p10#a250830p10)
  - [TransUnion data breach impacts 4.4M U.S. customers](https://appleinsider.com/articles/25/08/30/transunion-data-breach-impacts-44m-us-customers?utm_source=rss)
  - [No, a Windows update probably didn’t brick your SSD](https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd)
  - [TikTok suspends its live feature for the &quot;next few days&quot; in Indonesia, citing &quot;increasing violence in protests&quot; over lawmakers&#39; pay &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/250830/p9#a250830p9)
- - [Appeals court shoots down &#39;reciprocal&#39; tariffs, will still hit iPhone 17 launch](https://appleinsider.com/articles/25/08/30/appeals-court-shoots-down-reciprocal-tariffs-will-still-hit-iphone-17-launch?utm_source=rss)
- - [The 59 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)<!-- TECH:END -->
+ - [Appeals court shoots down &#39;reciprocal&#39; tariffs, will still hit iPhone 17 launch](https://appleinsider.com/articles/25/08/30/appeals-court-shoots-down-reciprocal-tariffs-will-still-hit-iphone-17-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

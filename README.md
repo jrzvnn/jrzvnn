@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ride1Up TrailRush Electric Mountain Bike Review: Quality Components, Bargain Price](https://www.wired.com/review/ride1up-trailrush-electric-mountain-bike/)
+ - [Why do Waymos keep loitering in front of my house?](https://www.theverge.com/google-waymo/766002/waymo-la-loiter-parking-robotaxi-ai-public-space)
  - [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://www.wired.com/story/how-to-avoid-google-forms-scams/)
- - [Antarctica Is Changing Rapidly. The Consequences Could Be Dire](https://www.wired.com/story/antarctica-is-changing-rapidly-with-dire-consequences-for-the-world/)
- - [DHS Secretary Kristi Noem fires 24 FEMA IT staffers, including the CIO and CISO; DHS says they failed security protocols and let hackers access FEMA networks &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250830/p6#a250830p6)
- - [What to Look for When Buying a Sleep Mask &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-sleep-mask-2025/)
- - [DOGE Put Everyone’s Social Security Data at Risk, Whistleblower Claims](https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/)<!-- TECH:END -->
+ - [Your 2025 NFL Sunday Ticket Packages, Explained](https://www.cnet.com/tech/services-and-software/your-2025-nfl-sunday-ticket-packages-explained/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Wolves vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-wolves-vs-everton-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

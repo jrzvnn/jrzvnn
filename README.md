@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 😝 [Getting home with style](http://9gag.com/gag/aYQd4LV)
- - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 😝 [Still a good boi](http://9gag.com/gag/aByvxPA)
- - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 😝 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
+ - 💣 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
+ - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
+ - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
 
 ---
 

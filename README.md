@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [13 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
  - [A study focused on OpenAI&#39;s GPT-4o mini found that LLMs can be persuaded to comply with objectionable requests using the same tactics that persuade humans &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250830/p7#a250830p7)
  - [Tilta Khronos iPhone camera system review: future-proofed pro modular rig](https://appleinsider.com/articles/25/08/30/tilta-khronos-iphone-camera-system-review-future-proofed-pro-modular-rig?utm_source=rss)
- - [Premier League Soccer: Stream Leeds vs. Newcastle Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-newcastle-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Back Up Your Android Phone &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-android/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

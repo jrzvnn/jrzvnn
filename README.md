@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appeals court shoots down &#39;reciprocal&#39; tariffs, will still hit iPhone 17 launch](https://appleinsider.com/articles/25/08/30/appeals-court-shoots-down-reciprocal-tariffs-will-still-hit-iphone-17-launch?utm_source=rss)
+ - [The 59 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
  - [Filing: StubHub, which is planning a September IPO, says revenue grew 3% to $828M in H1, missing its earlier projection of $885M, with adjusted EBITDA down 7% &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/250830/p8#a250830p8)
  - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
- - [The 20 best Labor Day deals you can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)
- - [13 Best Android Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-android-phones/)
- - [A study focused on OpenAI&#39;s GPT-4o mini found that LLMs can be persuaded to comply with objectionable requests using the same tactics that persuade humans &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250830/p7#a250830p7)<!-- TECH:END -->
+ - [The 20 best Labor Day deals you can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

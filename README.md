@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
- - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
- - 💣 [First one is the cutest](http://9gag.com/gag/aRByjMQ)
+ - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 💣 [Some things just dont need an essay](http://9gag.com/gag/aKGLV1Z)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Panda babies](http://9gag.com/gag/aPApjwQ)<!-- MEMES:END -->
+ - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
 
 ---
 

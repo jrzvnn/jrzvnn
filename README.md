@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 😝 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
- - 💣 [Me checking in the snooze button every morning](http://9gag.com/gag/arydbOp)
+ - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
+ - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 💣 [First one is the cutest](http://9gag.com/gag/aRByjMQ)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
+ - 👉 [Panda babies](http://9gag.com/gag/aPApjwQ)<!-- MEMES:END -->
 
 ---
 

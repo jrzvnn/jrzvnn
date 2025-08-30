@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
  - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
- - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 💣 [What an asshole.](http://9gag.com/gag/aYQd4rO)
  - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
- - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
+ - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
 
 ---
 

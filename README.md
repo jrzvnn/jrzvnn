@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study focused on OpenAI&#39;s GPT-4o mini found that LLMs can be persuaded to comply with objectionable requests using the same tactics that persuade humans &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250830/p7#a250830p7)
  - [Tilta Khronos iPhone camera system review: future-proofed pro modular rig](https://appleinsider.com/articles/25/08/30/tilta-khronos-iphone-camera-system-review-future-proofed-pro-modular-rig?utm_source=rss)
  - [How to Back Up Your Android Phone &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-android/)
  - [My Secret Weapon for Camping Is This Portable Projector That&#39;s 22% Off for Labor Day Weekend](https://www.cnet.com/deals/my-secret-weapon-for-camping-is-this-portable-projector-thats-22-off/#ftag=CAD590a51e)
- - [From Bougainvilleas to Trucks: How Pixel 10&#39;s AI Camera Coach Helped Me Take Better Photos](https://www.cnet.com/tech/mobile/from-bougainvilleas-to-trucks-how-pixel-10s-ai-camera-coach-helped-me-take-better-photos/#ftag=CAD590a51e)
- - [My Secret Weapon for All-Season Campervan Adventures Is This Portable AC](https://www.cnet.com/deals/my-secret-weapon-for-all-season-campervan-adventures-is-this-portable-ac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [From Bougainvilleas to Trucks: How Pixel 10&#39;s AI Camera Coach Helped Me Take Better Photos](https://www.cnet.com/tech/mobile/from-bougainvilleas-to-trucks-how-pixel-10s-ai-camera-coach-helped-me-take-better-photos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

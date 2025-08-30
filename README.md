@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Turkmenistan turned censorship into a lucrative extortion scheme by intentionally restricting internet access in order to sell its own VPNs to citizens &lpar;Tor Blog&rpar;](http://www.techmeme.com/250830/p12#a250830p12)
  - [iPhone 17 TechWoven case rumors have more holes](https://appleinsider.com/articles/25/08/30/iphone-17-techwoven-case-rumors-have-more-holes?utm_source=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 31 #546](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-31-546/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 31, #812](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-31-812/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 31, #1534](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-31-1534/#ftag=CAD590a51e)
- - [The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p11#a250830p11)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 31, #1534](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-31-1534/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

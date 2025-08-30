@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Nvidia reveals its top two customers accounted for 39% of its Q2 revenue, up from 25% in Q2, 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250830/p1#a250830p1)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-30/#ftag=CAD590a51e)
  - [Apple&#39;s Xcode 26 beta 7 adds support for GPT-5 and Claude Sonnet 4, which developers can use by signing into their paid Claude account &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250829/p35#a250829p35)
  - [Sources: Meta Superintelligence Labs&#39; leaders have discussed using Google or OpenAI&#39;s models to power Meta AI and other AI features in Meta&#39;s social media apps &lpar;The Information&rpar;](http://www.techmeme.com/250829/p34#a250829p34)
- - [Punitive &#39;Fortnite&#39; antisteering injunction unfair &amp; unconstitutional, says Apple](https://appleinsider.com/articles/25/08/30/punitive-fortnite-antisteering-injunction-unfair-unconstitutional-says-apple?utm_source=rss)
- - [Magic: The Gathering PAX Panel Previews Seriously Sinister Supervillains](https://www.cnet.com/culture/entertainment/magic-the-gathering-pax-panel-previews-seriously-sinister-supervillains/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Punitive &#39;Fortnite&#39; antisteering injunction unfair &amp; unconstitutional, says Apple](https://appleinsider.com/articles/25/08/30/punitive-fortnite-antisteering-injunction-unfair-unconstitutional-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

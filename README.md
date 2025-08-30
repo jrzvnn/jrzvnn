@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
- - 😝 [English IVY](http://9gag.com/gag/amodrMo)
- - 💣 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
+ - 😝 [Exactly.](http://9gag.com/gag/adBdqRB)
+ - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [We can still build beautifully &lpar;from Poland&rpar;](http://9gag.com/gag/aQzr3vK)<!-- MEMES:END -->
+ - 👉 [Memes are good](http://9gag.com/gag/a87n8z6)<!-- MEMES:END -->
 
 ---
 

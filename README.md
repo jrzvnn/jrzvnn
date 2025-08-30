@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
- - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 💣 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
- - 😝 [Ukrain Girl &lpar;16&rpar; Liana Kassay died and german news hidding facts](http://9gag.com/gag/a1mxoOb)
- - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
+ - 😝 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 💣 [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 😝 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 ---
 

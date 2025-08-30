@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
- - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
- - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
- - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 💣 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
+ - 😝 [I&#39;m not gonna post it - you gotta look it up yourselves](http://9gag.com/gag/aZZdgRn)
+ - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
 
 ---
 

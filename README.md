@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
- - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
- - 💣 [They expected wasp control but it was Hans, der Flammenwerfer.](http://9gag.com/gag/aAymwbd)
+ - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
+ - 😝 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 💣 [First one is the cutest](http://9gag.com/gag/aRByjMQ)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Armed robbers get a taste of instant karma](http://9gag.com/gag/ae9dM3q)<!-- MEMES:END -->
+ - 👉 [Panda babies](http://9gag.com/gag/aPApjwQ)<!-- MEMES:END -->
 
 ---
 

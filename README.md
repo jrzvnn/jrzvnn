@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting home with style](http://9gag.com/gag/aYQd4LV)
- - 😝 [Damn ninjas cutting onions](http://9gag.com/gag/ajPdXBp)
- - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
+ - 💣 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)<!-- MEMES:END -->
+ - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
 
 ---
 

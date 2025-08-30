@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
+ - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
  - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
  - 💣 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
- - 😝 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
- - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
+ - 😝 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 ---
 

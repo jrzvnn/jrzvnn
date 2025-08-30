@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Discounty adds some bite to cozy life sims](https://www.theverge.com/games-review/768145/discounty-review-switch-ps5-xbox-steam)
  - [Your Body Ages Faster Because of Extreme Heat](https://www.wired.com/story/your-body-ages-faster-because-of-extreme-heat/)
- - [My Favorite Pixel 10 Feature Makes MagSafe Accessories Last Longer Than Ever](https://www.cnet.com/tech/mobile/my-favorite-pixel-10-feature-makes-magsafe-accessories-last-longer-than-ever/#ftag=CAD590a51e)
- - [If You&#39;re Still Running Windows 10, You Need to Do This One Thing Before Oct. 14](https://www.cnet.com/tech/services-and-software/if-youre-still-running-windows-10-you-absolutely-need-to-do-this-one-thing-before-oct-14/#ftag=CAD590a51e)
- - [Buy an iPhone 16 or Wait for the iPhone 17? Here&#39;s How the Phones Might Compare](https://www.cnet.com/tech/mobile/buy-an-iphone-16-or-wait-for-the-iphone-17-heres-how-the-phones-might-compare/#ftag=CAD590a51e)
- - [Ride1Up TrailRush Electric Mountain Bike Review: Quality Components, Bargain Price](https://www.wired.com/review/ride1up-trailrush-electric-mountain-bike/)<!-- TECH:END -->
+ - [Ride1Up TrailRush Electric Mountain Bike Review: Quality Components, Bargain Price](https://www.wired.com/review/ride1up-trailrush-electric-mountain-bike/)
+ - [Why do Waymos keep loitering in front of my house?](https://www.theverge.com/google-waymo/766002/waymo-la-loiter-parking-robotaxi-ai-public-space)
+ - [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://www.wired.com/story/how-to-avoid-google-forms-scams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

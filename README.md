@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Getting home with style](http://9gag.com/gag/aYQd4LV)
- - 😝 [We can still build beautifully &lpar;from Poland&rpar;](http://9gag.com/gag/aQzr3vK)
- - 💣 [His legacy lives on](http://9gag.com/gag/an7dMD5)
- - 😝 [Yes](http://9gag.com/gag/aNDq1Ev)
- - 👉 [Disturbing, decoded parts of the Minneapolis trans mass sh\u2014ter\u2019s manifesto reveals he picked the Annunciation Catholic Church and school, where he once went and where his mother had worked, because it\u2019s a \u201cliberal school [that] does not allow teachers to carry [firearms].\u201d](http://9gag.com/gag/aXPdqxP)<!-- MEMES:END -->
+ - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 😝 [It just keeps happening!](http://9gag.com/gag/aZZdg86)
+ - 👉 [What a tale that was](http://9gag.com/gag/amod7Ao)<!-- MEMES:END -->
 
 ---
 

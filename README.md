@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
- - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 💣 [Some things just dont need an essay](http://9gag.com/gag/aKGLV1Z)
+ - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 😝 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
+ - 💣 [Me checking in the snooze button every morning](http://9gag.com/gag/arydbOp)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
+ - 👉 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
 
 ---
 

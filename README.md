@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Gear News of the Week: Apple’s iPhone Event Gets a Date, and Plaud Upgrades Its AI Note-Taker](https://www.wired.com/story/gear-news-of-the-week-apples-iphone-event-gets-a-date-and-plaud-upgrades-its-ai-note-taker/)
- - [Q&amp;A with Stanford researchers on their recent study finding that, since 2022, US employment in the most AI-exposed fields has fallen 13% for entry-level workers &lpar;Derek Thompson&rpar;](http://www.techmeme.com/250830/p5#a250830p5)
- - [China says it will prevent excess competition in the AI sector, echoing Xi Jinping&#39;s caution against excessive local government investment in AI last month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250830/p4#a250830p4)
- - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
- - [NPCI, which runs India&#39;s digital payments network UPI, has started making its infrastructure available to banks to deliver short-term loans to small businesses &lpar;Financial Times&rpar;](http://www.techmeme.com/250830/p3#a250830p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 30 #545](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-30-545/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 30, #811](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-30-811/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 30, #1533](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-30-1533/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

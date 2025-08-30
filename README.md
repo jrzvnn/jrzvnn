@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wolfenstein difficulty level](http://9gag.com/gag/aD2PzNN)
- - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
- - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 😝 [Getting home with style](http://9gag.com/gag/aYQd4LV)
+ - 😝 [We&#39;ll have fun on the mountain, they said... It will be fun, they said.... I hope we don&#39;t lose our fingers...](http://9gag.com/gag/arydOy6)
+ - 💣 [Word pronunciation for non-English speakers](http://9gag.com/gag/aGyoe07)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
  - 👉 [Memes are good](http://9gag.com/gag/a87n8z6)<!-- MEMES:END -->
 

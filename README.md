@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
- - 😝 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
- - 💣 [Life is](http://9gag.com/gag/a7oGrYA)
+ - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
+ - 😝 [Wolfenstein difficulty level](http://9gag.com/gag/aD2PzNN)
+ - 💣 [She will be riding too](http://9gag.com/gag/aAymwv2)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Clip from the movie Wolves](http://9gag.com/gag/an7dMXE)<!-- MEMES:END -->
+ - 👉 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a tale that was](http://9gag.com/gag/amod7Ao)
- - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 💣 [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 👉 [Life is](http://9gag.com/gag/a7oGrYA)<!-- MEMES:END -->
+ - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
+ - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
+ - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
 
 ---
 

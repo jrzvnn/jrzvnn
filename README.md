@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Falcon 9 Milestones Vindicate SpaceX’s ‘Dumb’ Approach to Reuse](https://www.wired.com/story/falcon-9-milestones-vindicate-spacex-approach-to-reuse/)
  - [Gear News of the Week: Apple’s iPhone Event Gets a Date, and Plaud Upgrades Its AI Note-Taker](https://www.wired.com/story/gear-news-of-the-week-apples-iphone-event-gets-a-date-and-plaud-upgrades-its-ai-note-taker/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 30 #545](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-30-545/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 30, #341](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-30-341/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 30, #811](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-30-811/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Aug. 30, #1533](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-30-1533/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 30, #811](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-30-811/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

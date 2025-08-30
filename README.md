@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 TechWoven case rumors have more holes](https://appleinsider.com/articles/25/08/30/iphone-17-techwoven-case-rumors-have-more-holes?utm_source=rss)
  - [The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p11#a250830p11)
  - [Purgatory, tied to online community The Com, claims responsibility for swatting attacks on US universities, airports, and more, charging $20 to $95 per incident &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250830/p10#a250830p10)
  - [TransUnion data breach impacts 4.4M U.S. customers](https://appleinsider.com/articles/25/08/30/transunion-data-breach-impacts-44m-us-customers?utm_source=rss)
- - [No, a Windows update probably didn’t brick your SSD](https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd)
- - [TikTok suspends its live feature for the &quot;next few days&quot; in Indonesia, citing &quot;increasing violence in protests&quot; over lawmakers&#39; pay &lpar;Stefanno Sulaiman/Reuters&rpar;](http://www.techmeme.com/250830/p9#a250830p9)<!-- TECH:END -->
+ - [No, a Windows update probably didn’t brick your SSD](https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

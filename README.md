@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, she Hathaway with it...](http://9gag.com/gag/aByv8Kx)
- - 😝 [You learn not to do dumb things](http://9gag.com/gag/agmdYZq)
- - 💣 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 😝 [Wolfenstein difficulty level](http://9gag.com/gag/aD2PzNN)
+ - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [First one is the cutest](http://9gag.com/gag/aRByjMQ)<!-- MEMES:END -->
+ - 👉 [Memes are good](http://9gag.com/gag/a87n8z6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
- - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
- - 💣 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 😝 [They deleted my supreme bacon.](http://9gag.com/gag/a87nyM3)
+ - 😝 [Sar mutaa!!](http://9gag.com/gag/ajPdXmw)
+ - 💣 [Life finds a way](http://9gag.com/gag/amodr3X)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
+ - 👉 [Getting home with style](http://9gag.com/gag/aYQd4LV)<!-- MEMES:END -->
 
 ---
 

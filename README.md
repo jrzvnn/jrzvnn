@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
  - 😝 [It just keeps happening!](http://9gag.com/gag/aZZdg86)
- - 👉 [What a tale that was](http://9gag.com/gag/amod7Ao)<!-- MEMES:END -->
+ - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 💣 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
+ - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 ---
 

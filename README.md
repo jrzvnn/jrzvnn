@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My Secret Weapon for Camping Is This Portable Projector That&#39;s 22% Off for Labor Day Weekend](https://www.cnet.com/deals/my-secret-weapon-for-camping-is-this-portable-projector-thats-22-off/#ftag=CAD590a51e)
+ - [From Bougainvilleas to Trucks: How Pixel 10&#39;s AI Camera Coach Helped Me Take Better Photos](https://www.cnet.com/tech/mobile/from-bougainvilleas-to-trucks-how-pixel-10s-ai-camera-coach-helped-me-take-better-photos/#ftag=CAD590a51e)
+ - [My Secret Weapon for All-Season Campervan Adventures Is This Portable AC](https://www.cnet.com/deals/my-secret-weapon-for-all-season-campervan-adventures-is-this-portable-ac/#ftag=CAD590a51e)
  - [Discounty adds some bite to cozy life sims](https://www.theverge.com/games-review/768145/discounty-review-switch-ps5-xbox-steam)
- - [Your Body Ages Faster Because of Extreme Heat](https://www.wired.com/story/your-body-ages-faster-because-of-extreme-heat/)
- - [Ride1Up TrailRush Electric Mountain Bike Review: Quality Components, Bargain Price](https://www.wired.com/review/ride1up-trailrush-electric-mountain-bike/)
- - [Why do Waymos keep loitering in front of my house?](https://www.theverge.com/google-waymo/766002/waymo-la-loiter-parking-robotaxi-ai-public-space)
- - [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://www.wired.com/story/how-to-avoid-google-forms-scams/)<!-- TECH:END -->
+ - [Your Body Ages Faster Because of Extreme Heat](https://www.wired.com/story/your-body-ages-faster-because-of-extreme-heat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

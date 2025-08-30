@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes](http://9gag.com/gag/aNDq1Ev)
- - 😝 [His legacy lives on](http://9gag.com/gag/an7dMD5)
- - 💣 [You could tell she&#39;d been harassed before by them](http://9gag.com/gag/a4Px7vZ)
+ - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
  - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
- - 👉 [Ukrain Girl &lpar;16&rpar; Liana Kassay died and german news hidding facts](http://9gag.com/gag/a1mxoOb)<!-- MEMES:END -->
+ - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
 
 ---
 

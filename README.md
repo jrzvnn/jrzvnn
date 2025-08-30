@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
+ - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
  - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
- - 💣 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
  - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
- - 👉 [Watch to the end](http://9gag.com/gag/aGyojL0)<!-- MEMES:END -->
+ - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
 
 ---
 

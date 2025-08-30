@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clip from the movie Wolves](http://9gag.com/gag/an7dMXE)
- - 😝 [First one is the cutest](http://9gag.com/gag/aRByjMQ)
- - 💣 [Morroco vs UK](http://9gag.com/gag/abAdpAX)
+ - 😝 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
+ - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
+ - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Panda babies](http://9gag.com/gag/aPApjwQ)<!-- MEMES:END -->
+ - 👉 [We can still build beautifully &lpar;from Poland&rpar;](http://9gag.com/gag/aQzr3vK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
- - 😝 [Wolfenstein difficulty level](http://9gag.com/gag/aD2PzNN)
- - 💣 [She will be riding too](http://9gag.com/gag/aAymwv2)
+ - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
+ - 💣 [Getting home with style](http://9gag.com/gag/aYQd4LV)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
+ - 👉 [Clip from the movie Wolves](http://9gag.com/gag/an7dMXE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Antarctica Is Changing Rapidly. The Consequences Could Be Dire](https://www.wired.com/story/antarctica-is-changing-rapidly-with-dire-consequences-for-the-world/)
  - [DHS Secretary Kristi Noem fires 24 FEMA IT staffers, including the CIO and CISO; DHS says they failed security protocols and let hackers access FEMA networks &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250830/p6#a250830p6)
  - [What to Look for When Buying a Sleep Mask &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-sleep-mask-2025/)
  - [DOGE Put Everyone’s Social Security Data at Risk, Whistleblower Claims](https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/)
- - [Falcon 9 Milestones Vindicate SpaceX’s ‘Dumb’ Approach to Reuse](https://www.wired.com/story/falcon-9-milestones-vindicate-spacex-approach-to-reuse/)
- - [Gear News of the Week: Apple’s iPhone Event Gets a Date, and Plaud Upgrades Its AI Note-Taker](https://www.wired.com/story/gear-news-of-the-week-apples-iphone-event-gets-a-date-and-plaud-upgrades-its-ai-note-taker/)<!-- TECH:END -->
+ - [Falcon 9 Milestones Vindicate SpaceX’s ‘Dumb’ Approach to Reuse](https://www.wired.com/story/falcon-9-milestones-vindicate-spacex-approach-to-reuse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

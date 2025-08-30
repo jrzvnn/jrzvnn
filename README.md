@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life finds a way](http://9gag.com/gag/amodr3X)
- - 😝 [It just keeps happening!](http://9gag.com/gag/aZZdg86)
- - 💣 [Damn ninjas cutting onions](http://9gag.com/gag/ajPdXBp)
- - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
- - 👉 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)<!-- MEMES:END -->
+ - 😝 [How to get a vietnamese wife](http://9gag.com/gag/a1mxbjw)
+ - 😝 [Brother may I have some oats?](http://9gag.com/gag/azxBr3N)
+ - 💣 [Life finds a way](http://9gag.com/gag/amodr3X)
+ - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
+ - 👉 [Damn ninjas cutting onions](http://9gag.com/gag/ajPdXBp)<!-- MEMES:END -->
 
 ---
 

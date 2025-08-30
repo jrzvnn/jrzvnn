@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)
- - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
- - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 😝 [She will be riding too](http://9gag.com/gag/aAymwv2)
+ - 😝 [English IVY](http://9gag.com/gag/amodrMo)
+ - 💣 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
  - 😝 [Come Race on Our Level with Sonic Racing: CrossWorlds!](http://9gag.com/gag/a34xMv5)
  - 👉 [We can still build beautifully &lpar;from Poland&rpar;](http://9gag.com/gag/aQzr3vK)<!-- MEMES:END -->
 

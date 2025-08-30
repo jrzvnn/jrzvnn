@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 😝 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
- - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 👉 [Watch to the end](http://9gag.com/gag/aGyojL0)<!-- MEMES:END -->
+ - 😝 [Yes](http://9gag.com/gag/aNDq1Ev)
+ - 😝 [His legacy lives on](http://9gag.com/gag/an7dMD5)
+ - 💣 [You could tell she&#39;d been harassed before by them](http://9gag.com/gag/a4Px7vZ)
+ - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
+ - 👉 [Ukrain Girl &lpar;16&rpar; Liana Kassay died and german news hidding facts](http://9gag.com/gag/a1mxoOb)<!-- MEMES:END -->
 
 ---
 

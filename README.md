@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iPhone 17 TechWoven case rumors have more holes](https://appleinsider.com/articles/25/08/30/iphone-17-techwoven-case-rumors-have-more-holes?utm_source=rss)
- - [The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p11#a250830p11)
- - [Purgatory, tied to online community The Com, claims responsibility for swatting attacks on US universities, airports, and more, charging $20 to $95 per incident &lpar;David Gilbert/Wired&rpar;](http://www.techmeme.com/250830/p10#a250830p10)
- - [TransUnion data breach impacts 4.4M U.S. customers](https://appleinsider.com/articles/25/08/30/transunion-data-breach-impacts-44m-us-customers?utm_source=rss)
- - [No, a Windows update probably didn’t brick your SSD](https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Aug. 31 #546](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-aug-31-546/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Aug. 31, #812](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-aug-31-812/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Aug. 31, #1534](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-aug-31-1534/#ftag=CAD590a51e)
+ - [The price per token for AI models has fallen, but costs for developers are rising as newer reasoning models require more tokens to complete tasks &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p11#a250830p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

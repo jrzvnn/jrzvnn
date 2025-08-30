@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Intel says its funding deal with the US loosens its requirements under the CHIPS Act, including removing the need to meet certain project milestones &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250829/p33#a250829p33)
- - [SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes](https://www.wired.com/story/charles-borges-resignation-email-disappearance/)
- - [There&#39;s a Total Lunar Eclipse Coming, but You Might Not Be Able to See It](https://www.cnet.com/science/space/theres-a-lunar-eclipse-coming-but-you-might-not-be-able-to-see-it/#ftag=CAD590a51e)
- - [Top 100 AI consumer apps: Gemini ranks #2 behind ChatGPT on mobile with ~50% of its MAUs, with Grok at #4; on the web, Gemini has ~12% of ChatGPT&#39;s visits &lpar;Andreessen Horowitz&rpar;](http://www.techmeme.com/250829/p32#a250829p32)
- - [Time to Save Up: iPhone 17 Pro Price Hike Appears Imminent, Says New Report](https://www.cnet.com/tech/mobile/time-to-save-up-iphone-17-pro-price-hike-appears-imminent-says-new-report/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Xcode 26 beta 7 adds support for GPT-5 and Claude Sonnet 4, which developers can use by signing into their paid Claude account &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250829/p35#a250829p35)
+ - [Sources: Meta Superintelligence Labs&#39; leaders have discussed using Google or OpenAI&#39;s models to power Meta AI and other AI features in Meta&#39;s social media apps &lpar;The Information&rpar;](http://www.techmeme.com/250829/p34#a250829p34)
+ - [Punitive &#39;Fortnite&#39; antisteering injunction unfair &amp; unconstitutional, says Apple](https://appleinsider.com/articles/25/08/30/punitive-fortnite-antisteering-injunction-unfair-unconstitutional-says-apple?utm_source=rss)
+ - [Magic: The Gathering PAX Panel Previews Seriously Sinister Supervillains](https://www.cnet.com/culture/entertainment/magic-the-gathering-pax-panel-previews-seriously-sinister-supervillains/#ftag=CAD590a51e)
+ - [Filing: Intel says its funding deal with the US loosens its requirements under the CHIPS Act, including removing the need to meet certain project milestones &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250829/p33#a250829p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

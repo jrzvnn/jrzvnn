@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says it will prevent excess competition in the AI sector, echoing Xi Jinping&#39;s caution against excessive local government investment in AI last month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250830/p4#a250830p4)
  - [Best Air Fryer Toaster Ovens for 2025](https://www.cnet.com/home/kitchen-and-household/best-countertop-oven-and-air-fryer/#ftag=CAD590a51e)
  - [NPCI, which runs India&#39;s digital payments network UPI, has started making its infrastructure available to banks to deliver short-term loans to small businesses &lpar;Financial Times&rpar;](http://www.techmeme.com/250830/p3#a250830p3)
  - [SEC filing: Super Micro cautions that its financial control weaknesses, if not fixed, could hurt its ability to report results &quot;in a timely and accurate manner&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250830/p2#a250830p2)
- - [Filing: Nvidia reveals its top two customers accounted for 39% of its Q2 revenue, up from 25% in Q2, 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250830/p1#a250830p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Aug. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-aug-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Nvidia reveals its top two customers accounted for 39% of its Q2 revenue, up from 25% in Q2, 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250830/p1#a250830p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

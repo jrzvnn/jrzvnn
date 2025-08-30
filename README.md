@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
- - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 😝 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
+ - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
+ - 💣 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
  - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
- - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
+ - 👉 [Watch to the end](http://9gag.com/gag/aGyojL0)<!-- MEMES:END -->
 
 ---
 

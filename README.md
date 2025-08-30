@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
  - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 💣 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
- - 😝 [I&#39;m not gonna post it - you gotta look it up yourselves](http://9gag.com/gag/aZZdgRn)
- - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
+ - 😝 [Pamela Anderson in her natural habitat before the fame](http://9gag.com/gag/a1mxbzD)
+ - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 👉 [Watch to the end](http://9gag.com/gag/aGyojL0)<!-- MEMES:END -->
 
 ---
 

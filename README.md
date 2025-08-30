@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scammers Will Try to Trick You Into Filling Out Google Forms. Don’t Fall for It](https://www.wired.com/story/how-to-avoid-google-forms-scams/)
  - [Antarctica Is Changing Rapidly. The Consequences Could Be Dire](https://www.wired.com/story/antarctica-is-changing-rapidly-with-dire-consequences-for-the-world/)
  - [DHS Secretary Kristi Noem fires 24 FEMA IT staffers, including the CIO and CISO; DHS says they failed security protocols and let hackers access FEMA networks &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250830/p6#a250830p6)
  - [What to Look for When Buying a Sleep Mask &lpar;2025&rpar;](https://www.wired.com/story/how-to-buy-a-sleep-mask-2025/)
- - [DOGE Put Everyone’s Social Security Data at Risk, Whistleblower Claims](https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/)
- - [Labor Day Just Made My Favorite All-in-One Kitchen Appliance a Steal at 25% Off](https://www.cnet.com/deals/labor-day-just-made-my-favorite-all-in-one-kitchen-appliance-a-steal-at-25-off/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DOGE Put Everyone’s Social Security Data at Risk, Whistleblower Claims](https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

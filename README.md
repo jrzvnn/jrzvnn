@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
- - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
- - 😝 [If there&#39;s a gold medal in r#pe they would have won in all categories... And UK is defending these goons.](http://9gag.com/gag/aqydgRj)
- - 👉 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)<!-- MEMES:END -->
+ - 😝 [God Save the King!](http://9gag.com/gag/a1mxonv)
+ - 😝 [Fact](http://9gag.com/gag/aAymgrg)
+ - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
+ - 😝 [She&#39;s walks with authority too](http://9gag.com/gag/a0exRon)
+ - 👉 [Apes together strong](http://9gag.com/gag/aMVWZXM)<!-- MEMES:END -->
 
 ---
 

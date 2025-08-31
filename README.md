@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
- - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 💣 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
- - 😝 [Subsun in austria looks like a portal to another dimension](http://9gag.com/gag/aW4dYeA)
- - 👉 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)<!-- MEMES:END -->
+ - 😝 [Oops..](http://9gag.com/gag/awy8XP8)
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 💣 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - 😝 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
+ - 👉 [I&#39;m not gonna post it - you gotta look it up yourselves](http://9gag.com/gag/aZZdgRn)<!-- MEMES:END -->
 
 ---
 

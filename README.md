@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intense battle.](http://9gag.com/gag/a9yVprK)
- - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
- - 💣 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
- - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
- - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
+ - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 👉 [Silicon Valley](http://9gag.com/gag/a9yVKDo)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Crypto and tech entrepreneurs are attending Network School, founded by Balaji Srinivasan in Forest City, Malaysia, to test his concepts about the Network State &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250831/p7#a250831p7)
  - [How to Set Up Your New Android Phone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-your-new-android-phone/)
+ - [The M4 Mac Mini Offers the Best Value I&#39;ve Seen From an Apple Product, and It&#39;s $54 Off for Labor Day](https://www.cnet.com/deals/the-m4-mac-mini-offers-the-best-value-ive-seen-from-an-apple-product-and-its-60-off/#ftag=CAD590a51e)
  - [How to Clean a TV Screen or Computer Monitor](https://www.wired.com/story/how-to-clean-a-tv-screen/)
- - [You Can Play the New Gears of War Game Now on Xbox Game Pass](https://www.cnet.com/tech/gaming/you-can-play-the-new-gears-of-war-game-now-on-xbox-game-pass/#ftag=CAD590a51e)
- - [These Hi-Fi Speakers Are Made out of Rocket Fuel Tanks](https://www.wired.com/story/debris-hi-fi-speakers-are-made-out-of-rocket-fuel-tanks/)<!-- TECH:END -->
+ - [I&#39;m a Runner with Over 15 Years of Running Experience. These Are the Best Treadmills of 2025](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

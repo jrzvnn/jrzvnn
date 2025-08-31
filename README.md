@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Xi Jinping is pushing the country&#39;s tech industry to be oriented toward applications for AI, charting a pragmatic alternative to Silicon Valley&#39;s pursuit of AGI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250831/p2#a250831p2)
  - [PUBG developer Krafton is eyeing major expansion in India, seeking acquisitions as growth slows in China and the US, and plans to invest at least $50M annually &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250831/p1#a250831p1)
- - [An interview with Bumble CEO Whitney Wolfe Herd on AI being the &quot;most emotionally intelligent matchmaker&quot;, planning an AI-powered matchmaking app, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p15#a250830p15)
- - [El Salvador has split its 6,000+ bitcoin across 14 wallets, describing the move as a precaution against quantum attacks, a merely theoretical threat for now &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250830/p14#a250830p14)
- - [An inside look at how Netflix&#39;s use of data led to generic &quot;algorithm films&quot; intended for broad appeal, with AI set to further entrench the production style &lpar;Phil Hoad/The Guardian&rpar;](http://www.techmeme.com/250830/p13#a250830p13)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 31, #342](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-31-342/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-31/#ftag=CAD590a51e)
+ - [An interview with Bumble CEO Whitney Wolfe Herd on AI being the &quot;most emotionally intelligent matchmaker&quot;, planning an AI-powered matchmaking app, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p15#a250830p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

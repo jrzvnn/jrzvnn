@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
- - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
+ - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 💣 [That damn evil circadian rhythm..](http://9gag.com/gag/aAymgD9)
+ - 😝 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
+ - 👉 [Towel head guy gets it. But we didn&#39;t want to listen. &lpar;Minister of foreign affairs of UAE&rpar;.](http://9gag.com/gag/azxB1GK)<!-- MEMES:END -->
 
 ---
 

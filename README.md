@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
- - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
- - 👉 [Best financial decision](http://9gag.com/gag/a87n84Q)<!-- MEMES:END -->
+ - 😝 [These two dogs showing off their manners](http://9gag.com/gag/aO8jY1v)
+ - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
+ - 💣 [Moonwalk](http://9gag.com/gag/agmdn4r)
+ - 😝 [Someone forgot to put the car in park](http://9gag.com/gag/aMVWZMA)
+ - 👉 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)<!-- MEMES:END -->
 
 ---
 

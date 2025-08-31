@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
  - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 👉 [Best financial decision](http://9gag.com/gag/a87n84Q)<!-- MEMES:END -->
+ - 💣 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
+ - 😝 [Subsun in austria looks like a portal to another dimension](http://9gag.com/gag/aW4dYeA)
+ - 👉 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)<!-- MEMES:END -->
 
 ---
 

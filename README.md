@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
+ - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
+ - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
  - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
- - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 💣 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 👉 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)<!-- MEMES:END -->
+ - 👉 [Let&#39;s not forget](http://9gag.com/gag/an7dM4L)<!-- MEMES:END -->
 
 ---
 

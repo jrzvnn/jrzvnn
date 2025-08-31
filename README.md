@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Clean a TV Screen or Computer Monitor](https://www.wired.com/story/how-to-clean-a-tv-screen/)
  - [These Hi-Fi Speakers Are Made out of Rocket Fuel Tanks](https://www.wired.com/story/debris-hi-fi-speakers-are-made-out-of-rocket-fuel-tanks/)
  - [AI agents are science fiction not yet ready for primetime](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do)
  - [AI Lies to You Because It Thinks That&#39;s What You Want](https://www.cnet.com/tech/services-and-software/ai-lies-to-you-because-it-thinks-thats-what-you-want/#ftag=CAD590a51e)
- - [These Newly Discovered Cells Breathe in Two Ways](https://www.wired.com/story/these-newly-discovered-cells-breathe-in-two-ways/)
- - [iOS 26 Is Bringing Parents More Control Over Kids&#39; Screen Time](https://www.cnet.com/tech/services-and-software/ios-26-is-bringing-parents-more-control-over-kids-screen-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These Newly Discovered Cells Breathe in Two Ways](https://www.wired.com/story/these-newly-discovered-cells-breathe-in-two-ways/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

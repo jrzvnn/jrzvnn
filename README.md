@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best financial decision](http://9gag.com/gag/a87n84Q)
- - 😝 [Fiat to Fiat](http://9gag.com/gag/a7oGDOA)
- - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
- - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
- - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
+ - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 💣 [Is this racism ?](http://9gag.com/gag/a4Pxbmm)
+ - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
+ - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
 
 ---
 

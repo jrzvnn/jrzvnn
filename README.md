@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
  - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [I&#39;m not gonna post it - you gotta look it up yourselves](http://9gag.com/gag/aZZdgRn)<!-- MEMES:END -->
+ - 😝 [It&#39;s real](http://9gag.com/gag/aByvgg1)
+ - 👉 [Oops..](http://9gag.com/gag/awy8XP8)<!-- MEMES:END -->
 
 ---
 

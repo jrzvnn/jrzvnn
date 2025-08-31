@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PUBG developer Krafton is eyeing major expansion in India, seeking acquisitions as growth slows in China and the US, and plans to invest at least $50M annually &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250831/p1#a250831p1)
  - [An interview with Bumble CEO Whitney Wolfe Herd on AI being the &quot;most emotionally intelligent matchmaker&quot;, planning an AI-powered matchmaking app, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p15#a250830p15)
  - [El Salvador has split its 6,000+ bitcoin across 14 wallets, describing the move as a precaution against quantum attacks, a merely theoretical threat for now &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250830/p14#a250830p14)
  - [An inside look at how Netflix&#39;s use of data led to generic &quot;algorithm films&quot; intended for broad appeal, with AI set to further entrench the production style &lpar;Phil Hoad/The Guardian&rpar;](http://www.techmeme.com/250830/p13#a250830p13)
- - [Verizon&amp;#8217;s &amp;#8216;software issue&amp;#8217; has disconnected many wireless customers across the US](https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue)
- - [How Turkmenistan turned censorship into a lucrative extortion scheme by intentionally restricting internet access in order to sell its own VPNs to citizens &lpar;Tor Blog&rpar;](http://www.techmeme.com/250830/p12#a250830p12)<!-- TECH:END -->
+ - [Verizon&amp;#8217;s &amp;#8216;software issue&amp;#8217; has disconnected many wireless customers across the US](https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

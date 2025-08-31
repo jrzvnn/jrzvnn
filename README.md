@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Hi-Fi Speakers Are Made out of Rocket Fuel Tanks](https://www.wired.com/story/debris-hi-fi-speakers-are-made-out-of-rocket-fuel-tanks/)
+ - [AI agents are science fiction not yet ready for primetime](https://www.theverge.com/the-stepback-newsletter/767376/ai-agents-jarvis-what-can-they-do)
  - [These Newly Discovered Cells Breathe in Two Ways](https://www.wired.com/story/these-newly-discovered-cells-breathe-in-two-ways/)
  - [A critique of two contrasting research papers on AI&#39;s impact on US employment trends, along with caveats from a Stanford study on jobs in AI-exposed fields &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250831/p6#a250831p6)
- - [Premier League Soccer: Stream Nottingham Forest vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Brighton vs. Man City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brighton-vs-man-city-live-from-anywhere/#ftag=CAD590a51e)
- - [iOS 26 Beta Brings AI Summaries Back to News Apps, but With a Warning](https://www.cnet.com/tech/services-and-software/ios-26-beta-brings-ai-summaries-back-to-news-apps-with-a-warning/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Nottingham Forest vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

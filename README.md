@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
  - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
- - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
- - 👉 [Silicon Valley](http://9gag.com/gag/a9yVKDo)<!-- MEMES:END -->
+ - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 👉 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)<!-- MEMES:END -->
 
 ---
 

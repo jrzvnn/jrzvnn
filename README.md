@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [*rant in British*](http://9gag.com/gag/a1mxQN2)
- - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
- - 💣 [Troll level: master](http://9gag.com/gag/amod2z4)
- - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
- - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
+ - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 💣 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
+ - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
 
 ---
 

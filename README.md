@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A critique of two contrasting research papers on AI&#39;s impact on US employment trends, along with caveats from a Stanford study on jobs in AI-exposed fields &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250831/p6#a250831p6)
+ - [Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act](https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/)
  - [Best Vegan Meal Delivery Services for 2025, Tested by a Plant-Based Eater](https://www.cnet.com/health/nutrition/best-vegan-meal-delivery-services/#ftag=CAD590a51e)
  - [A look at the potential future of personalized, AI-generated entertainment, and how it could both submerge human originality and enable new forms of expression &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/250831/p5#a250831p5)
- - [Cambridge, UK-based Paragraf, which makes graphene-based electronics using standard semiconductor processes, raised a $55M Series C to scale its manufacturing &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250831/p4#a250831p4)
- - [AI startup Aurasell, which aims to automate sales tools built on top of CRM software like Salesforce, emerges from stealth with $30M seed led by Next47 &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250831/p3#a250831p3)
- - [Xi Jinping is pushing the country&#39;s tech industry to be oriented toward applications for AI, charting a pragmatic alternative to Silicon Valley&#39;s pursuit of AGI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250831/p2#a250831p2)<!-- TECH:END -->
+ - [Cambridge, UK-based Paragraf, which makes graphene-based electronics using standard semiconductor processes, raised a $55M Series C to scale its manufacturing &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250831/p4#a250831p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

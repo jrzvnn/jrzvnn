@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
- - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
- - 💣 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
+ - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
  - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
+ - 💣 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 👉 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)<!-- MEMES:END -->
 
 ---
 

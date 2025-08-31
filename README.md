@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI startup Aurasell, which aims to automate sales tools built on top of CRM software like Salesforce, emerges from stealth with $30M seed led by Next47 &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250831/p3#a250831p3)
  - [Xi Jinping is pushing the country&#39;s tech industry to be oriented toward applications for AI, charting a pragmatic alternative to Silicon Valley&#39;s pursuit of AGI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250831/p2#a250831p2)
  - [PUBG developer Krafton is eyeing major expansion in India, seeking acquisitions as growth slows in China and the US, and plans to invest at least $50M annually &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250831/p1#a250831p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 31, #342](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-31-342/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-31/#ftag=CAD590a51e)
- - [An interview with Bumble CEO Whitney Wolfe Herd on AI being the &quot;most emotionally intelligent matchmaker&quot;, planning an AI-powered matchmaking app, and more &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250830/p15#a250830p15)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-31/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

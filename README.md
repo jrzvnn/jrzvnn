@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenLight, which designs custom application-specific silicon photonic chips, raised a $34M Series A as it targets the data center interconnect market &lpar;Dan Swinhoe/DatacenterDynamics&rpar;](http://www.techmeme.com/250831/p8#a250831p8)
  - [iPhone 17 Pro&#39;s &#39;Clear Case&#39; may not be completely see-through](https://appleinsider.com/articles/25/08/31/iphone-17-pros-clear-case-may-not-be-completely-see-through?utm_source=rss)
  - [The Verge’s favorite gifts for book lovers](https://www.theverge.com/tech/761931/book-lovers-gadgets-tech-gift-guide-ideas-unique-holiday)
  - [The M4 Mac Mini Offers the Best Value I&#39;ve Seen From an Apple Product, and It&#39;s $54 Off for Labor Day](https://www.cnet.com/deals/the-m4-mac-mini-offers-the-best-value-ive-seen-from-an-apple-product-and-its-54-off/#ftag=CAD590a51e)
- - [Meta is struggling to rein in its AI chatbots](https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors)
- - [The 71 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)<!-- TECH:END -->
+ - [Meta is struggling to rein in its AI chatbots](https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
  - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
- - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 👉 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)<!-- MEMES:END -->
+ - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 😝 [If there&#39;s a gold medal in r#pe they would have won in all categories... And UK is defending these goons.](http://9gag.com/gag/aqydgRj)
+ - 👉 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)<!-- MEMES:END -->
 
 ---
 

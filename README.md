@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Meta is struggling to rein in its AI chatbots](https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors)
  - [The 71 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
  - [Globular Cluster CMA1 Comfort Mod for Apple Vision Pro review: customized weight redistribution](https://appleinsider.com/articles/25/08/31/globular-cluster-cma1-comfort-mod-for-apple-vision-pro-review-customized-weight-redistribution?utm_source=rss)
- - [Key Pixel Settings to Change on Your Google Phone](https://www.wired.com/story/key-pixel-settings-to-change-on-your-google-phone/)
- - [Best Handheld Fan and Wearable Fan &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-handheld-fans/)<!-- TECH:END -->
+ - [How to Watch &#39;Ms. Rachel,&#39; Season 2, on Netflix](https://www.cnet.com/tech/services-and-software/how-to-watch-ms-rachel-season-2-on-netflix/#ftag=CAD590a51e)
+ - [Key Pixel Settings to Change on Your Google Phone](https://www.wired.com/story/key-pixel-settings-to-change-on-your-google-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

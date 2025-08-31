@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intense battle.](http://9gag.com/gag/a9yVprK)
- - 😝 [What are you doing with harambe? NOOOOOOOO](http://9gag.com/gag/aVvdMqn)
- - 💣 [Troll level: master](http://9gag.com/gag/amod2z4)
- - 😝 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
- - 👉 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)<!-- MEMES:END -->
+ - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 😝 [Big are the balls](http://9gag.com/gag/a87n38V)
+ - 💣 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
+ - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
+ - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
 
 ---
 

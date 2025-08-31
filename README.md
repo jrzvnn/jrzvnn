@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best financial decision](http://9gag.com/gag/a87n84Q)
- - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 💣 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
- - 😝 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
- - 👉 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)<!-- MEMES:END -->
+ - 😝 [*rant in British*](http://9gag.com/gag/a1mxQN2)
+ - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
+ - 💣 [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
+ - 👉 [No pokerface](http://9gag.com/gag/avyD78W)<!-- MEMES:END -->
 
 ---
 

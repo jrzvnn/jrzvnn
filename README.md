@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Let&#39;s make this asshole famous](http://9gag.com/gag/aryd5jV)
- - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
- - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
- - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
- - 👉 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)<!-- MEMES:END -->
+ - 😝 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 💣 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
+ - 😝 [All pickup truck drivers should be required to have a CDL license](http://9gag.com/gag/aQzr1V7)
+ - 👉 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)<!-- MEMES:END -->
 
 ---
 

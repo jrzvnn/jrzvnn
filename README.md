@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [These two dogs showing off their manners](http://9gag.com/gag/aO8jY1v)
- - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
- - 💣 [Moonwalk](http://9gag.com/gag/agmdn4r)
- - 😝 [Someone forgot to put the car in park](http://9gag.com/gag/aMVWZMA)
- - 👉 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)<!-- MEMES:END -->
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 💣 [Best financial decision](http://9gag.com/gag/a87n84Q)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 👉 [What an asshole.](http://9gag.com/gag/aYQd4rO)<!-- MEMES:END -->
 
 ---
 

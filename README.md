@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You could tell she&#39;d been harassed before by them](http://9gag.com/gag/a4Px7vZ)
- - 😝 [Meanwhile in Brazil](http://9gag.com/gag/aRBy137)
- - 💣 [Current state of 9gag](http://9gag.com/gag/aW4dYWq)
- - 😝 [Ukrain Girl &lpar;16&rpar; Liana Kassay died and german news hidding facts](http://9gag.com/gag/a1mxoOb)
- - 👉 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)<!-- MEMES:END -->
+ - 😝 [Intense battle.](http://9gag.com/gag/a9yVprK)
+ - 😝 [What are you doing with harambe? NOOOOOOOO](http://9gag.com/gag/aVvdMqn)
+ - 💣 [Troll level: master](http://9gag.com/gag/amod2z4)
+ - 😝 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
+ - 👉 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)<!-- MEMES:END -->
 
 ---
 

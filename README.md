@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chatbots can be manipulated through flattery and peer pressure](https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure)
  - [&#39;Ms. Rachel&#39; on Netflix: When You Can Stream Season 2](https://www.cnet.com/tech/services-and-software/ms-rachel-on-netflix-when-you-can-stream-season-2/#ftag=CAD590a51e)
  - [An interview with CrowdStrike CEO George Kurtz on the company&#39;s M&amp;A strategy as it acquires Madrid-based data observability startup Onum for about $290M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250831/p11#a250831p11)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 1 #547](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-1-547/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 1, #813](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-1-813/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 1, #1535](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-1-1535/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 1, #813](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-1-813/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

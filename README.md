@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto and tech entrepreneurs are attending Network School, founded by Balaji Srinivasan in Forest City, Malaysia, to test his concepts about the Network State &lpar;Ryan Weeks/Bloomberg&rpar;](http://www.techmeme.com/250831/p7#a250831p7)
- - [How to Set Up Your New Android Phone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-your-new-android-phone/)
- - [The M4 Mac Mini Offers the Best Value I&#39;ve Seen From an Apple Product, and It&#39;s $54 Off for Labor Day](https://www.cnet.com/deals/the-m4-mac-mini-offers-the-best-value-ive-seen-from-an-apple-product-and-its-60-off/#ftag=CAD590a51e)
- - [How to Clean a TV Screen or Computer Monitor](https://www.wired.com/story/how-to-clean-a-tv-screen/)
- - [I&#39;m a Runner with Over 15 Years of Running Experience. These Are the Best Treadmills of 2025](https://www.cnet.com/health/fitness/best-treadmill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta is struggling to rein in its AI chatbots](https://www.theverge.com/news/768465/meta-ai-chatbot-guidelines-for-minors)
+ - [The 71 Best Deals From REI’s 2025 Labor Day Sale](https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/)
+ - [Globular Cluster CMA1 Comfort Mod for Apple Vision Pro review: customized weight redistribution](https://appleinsider.com/articles/25/08/31/globular-cluster-cma1-comfort-mod-for-apple-vision-pro-review-customized-weight-redistribution?utm_source=rss)
+ - [Key Pixel Settings to Change on Your Google Phone](https://www.wired.com/story/key-pixel-settings-to-change-on-your-google-phone/)
+ - [Best Handheld Fan and Wearable Fan &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-handheld-fans/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

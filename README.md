@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Newly Discovered Cells Breathe in Two Ways](https://www.wired.com/story/these-newly-discovered-cells-breathe-in-two-ways/)
  - [A critique of two contrasting research papers on AI&#39;s impact on US employment trends, along with caveats from a Stanford study on jobs in AI-exposed fields &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/250831/p6#a250831p6)
- - [Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act](https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/)
- - [Best Vegan Meal Delivery Services for 2025, Tested by a Plant-Based Eater](https://www.cnet.com/health/nutrition/best-vegan-meal-delivery-services/#ftag=CAD590a51e)
- - [A look at the potential future of personalized, AI-generated entertainment, and how it could both submerge human originality and enable new forms of expression &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/250831/p5#a250831p5)
- - [Cambridge, UK-based Paragraf, which makes graphene-based electronics using standard semiconductor processes, raised a $55M Series C to scale its manufacturing &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250831/p4#a250831p4)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Nottingham Forest vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-nottingham-forest-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Brighton vs. Man City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brighton-vs-man-city-live-from-anywhere/#ftag=CAD590a51e)
+ - [iOS 26 Beta Brings AI Summaries Back to News Apps, but With a Warning](https://www.cnet.com/tech/services-and-software/ios-26-beta-brings-ai-summaries-back-to-news-apps-with-a-warning/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

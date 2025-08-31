@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A new policy document authored by seven Chinese government departments outlines plans to create a globally competitive brain-computer interface industry by 2030 &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/250831/p12#a250831p12)
  - [Best Labor Day Mattress Sales &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-mattress-deals-2025-1/)
+ - [My Trip Through Netflix&#39;s Zodiac Hub Landed Me on a Hidden-Gem Series](https://www.cnet.com/tech/services-and-software/my-trip-through-netflixs-zodiac-hub-landed-me-on-hidden-gem-series/#ftag=CAD590a51e)
  - [Chatbots can be manipulated through flattery and peer pressure](https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure)
- - [&#39;Ms. Rachel&#39; on Netflix: When You Can Stream Season 2](https://www.cnet.com/tech/services-and-software/ms-rachel-on-netflix-when-you-can-stream-season-2/#ftag=CAD590a51e)
- - [An interview with CrowdStrike CEO George Kurtz on the company&#39;s M&amp;A strategy as it acquires Madrid-based data observability startup Onum for about $290M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250831/p11#a250831p11)<!-- TECH:END -->
+ - [&#39;Ms. Rachel&#39; on Netflix: When You Can Stream Season 2](https://www.cnet.com/tech/services-and-software/ms-rachel-on-netflix-when-you-can-stream-season-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

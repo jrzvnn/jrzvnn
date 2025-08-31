@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Intense battle.](http://9gag.com/gag/a9yVprK)
+ - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
+ - 💣 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
  - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
- - 💣 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
- - 😝 [It&#39;s real](http://9gag.com/gag/aByvgg1)
- - 👉 [Oops..](http://9gag.com/gag/awy8XP8)<!-- MEMES:END -->
+ - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
- - 😝 [Maybe 73 rd time would have been the charm.](http://9gag.com/gag/axyA00n)
- - 💣 [Best financial decision](http://9gag.com/gag/a87n84Q)
- - 😝 [Someone forgot to put the car in park](http://9gag.com/gag/aMVWZMA)
- - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
+ - 😝 [What an asshole.](http://9gag.com/gag/aYQd4rO)
+ - 😝 [Bear with rabies](http://9gag.com/gag/a4PxG6A)
+ - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
+ - 👉 [Best financial decision](http://9gag.com/gag/a87n84Q)<!-- MEMES:END -->
 
 ---
 

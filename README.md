@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s not a Bus...it&#39;s an Airbus](http://9gag.com/gag/aAymD4Z)
  - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 💣 [Is this racism ?](http://9gag.com/gag/a4Pxbmm)
+ - 😝 [Life is](http://9gag.com/gag/a7oGrYA)
+ - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
  - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
- - 👉 [Troll level: master](http://9gag.com/gag/amod2z4)<!-- MEMES:END -->
+ - 👉 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)<!-- MEMES:END -->
 
 ---
 

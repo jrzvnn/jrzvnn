@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
+ - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
  - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
- - 💣 [Best financial decision](http://9gag.com/gag/a87n84Q)
- - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [What an asshole.](http://9gag.com/gag/aYQd4rO)<!-- MEMES:END -->
+ - 👉 [Best financial decision](http://9gag.com/gag/a87n84Q)<!-- MEMES:END -->
 
 ---
 

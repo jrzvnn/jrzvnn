@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oops..](http://9gag.com/gag/awy8XP8)
- - 😝 [History memes](http://9gag.com/gag/aqyd1Kp)
- - 💣 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
- - 😝 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
- - 👉 [I&#39;m not gonna post it - you gotta look it up yourselves](http://9gag.com/gag/aZZdgRn)<!-- MEMES:END -->
+ - 😝 [Spider blow](http://9gag.com/gag/a9yVKxj)
+ - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 💣 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
 
 ---
 

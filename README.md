@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the potential future of personalized, AI-generated entertainment, and how it could both submerge human originality and enable new forms of expression &lpar;Joshua Rothman/New Yorker&rpar;](http://www.techmeme.com/250831/p5#a250831p5)
+ - [Cambridge, UK-based Paragraf, which makes graphene-based electronics using standard semiconductor processes, raised a $55M Series C to scale its manufacturing &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250831/p4#a250831p4)
  - [AI startup Aurasell, which aims to automate sales tools built on top of CRM software like Salesforce, emerges from stealth with $30M seed led by Next47 &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250831/p3#a250831p3)
  - [Xi Jinping is pushing the country&#39;s tech industry to be oriented toward applications for AI, charting a pragmatic alternative to Silicon Valley&#39;s pursuit of AGI &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250831/p2#a250831p2)
- - [PUBG developer Krafton is eyeing major expansion in India, seeking acquisitions as growth slows in China and the US, and plans to invest at least $50M annually &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250831/p1#a250831p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Aug. 31, #342](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-aug-31-342/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Aug. 31](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-aug-31/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PUBG developer Krafton is eyeing major expansion in India, seeking acquisitions as growth slows in China and the US, and plans to invest at least $50M annually &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/250831/p1#a250831p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

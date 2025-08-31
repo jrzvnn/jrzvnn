@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Troll level: master](http://9gag.com/gag/amod2z4)
- - 😝 [The future is now, old man.](http://9gag.com/gag/aZZdgK3)
- - 💣 [What an asshole.](http://9gag.com/gag/aYQd4rO)
- - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
- - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
+ - 😝 [You could tell she&#39;d been harassed before by them](http://9gag.com/gag/a4Px7vZ)
+ - 😝 [Meanwhile in Brazil](http://9gag.com/gag/aRBy137)
+ - 💣 [Current state of 9gag](http://9gag.com/gag/aW4dYWq)
+ - 😝 [Ukrain Girl &lpar;16&rpar; Liana Kassay died and german news hidding facts](http://9gag.com/gag/a1mxoOb)
+ - 👉 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)<!-- MEMES:END -->
 
 ---
 

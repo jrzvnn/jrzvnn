@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 😝 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
  - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 💣 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
- - 😝 [All pickup truck drivers should be required to have a CDL license](http://9gag.com/gag/aQzr1V7)
+ - 💣 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
  - 👉 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)<!-- MEMES:END -->
 
 ---

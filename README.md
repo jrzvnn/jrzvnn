@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
  - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
- - 💣 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
+ - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 💣 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
+ - 😝 [The worst spy ever](http://9gag.com/gag/apRd5dn)
  - 👉 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)<!-- MEMES:END -->
 
 ---

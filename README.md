@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s real](http://9gag.com/gag/aByvgg1)
- - 😝 [God Save the King!](http://9gag.com/gag/a1mxonv)
- - 💣 [Fact](http://9gag.com/gag/aAymgrg)
- - 😝 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
- - 👉 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)<!-- MEMES:END -->
+ - 😝 [Let&#39;s make this asshole famous](http://9gag.com/gag/aryd5jV)
+ - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
+ - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
+ - 👉 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)<!-- MEMES:END -->
 
 ---
 

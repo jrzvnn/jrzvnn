@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
- - 😝 [These two dogs showing off their manners](http://9gag.com/gag/aO8jY1v)
- - 💣 [Moonwalk](http://9gag.com/gag/agmdn4r)
- - 😝 [That damn evil circadian rhythm..](http://9gag.com/gag/aAymgD9)
- - 👉 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)<!-- MEMES:END -->
+ - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [That&#39;s a big one!](http://9gag.com/gag/a2vxo4E)
+ - 💣 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 😝 [Memes are good](http://9gag.com/gag/a87n8z6)
+ - 👉 [I&#39;m not gonna post it - you gotta look it up yourselves](http://9gag.com/gag/aZZdgRn)<!-- MEMES:END -->
 
 ---
 

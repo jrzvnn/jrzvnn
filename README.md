@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You could tell she&#39;d been harassed before by them](http://9gag.com/gag/a4Px7vZ)
- - 😝 [Current state of 9gag](http://9gag.com/gag/aW4dYWq)
- - 💣 [Meanwhile in Brazil](http://9gag.com/gag/aRBy137)
- - 😝 [Ukrain Girl &lpar;16&rpar; Liana Kassay died and german news hidding facts](http://9gag.com/gag/a1mxoOb)
- - 👉 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)<!-- MEMES:END -->
+ - 😝 [Best financial decision](http://9gag.com/gag/a87n84Q)
+ - 😝 [Fiat to Fiat](http://9gag.com/gag/a7oGDOA)
+ - 💣 [No pokerface](http://9gag.com/gag/avyD78W)
+ - 😝 [Based on a real life story Grape!!!](http://9gag.com/gag/azxB8NB)
+ - 👉 [History memes](http://9gag.com/gag/aqyd1Kp)<!-- MEMES:END -->
 
 ---
 

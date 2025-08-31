@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Spider blow](http://9gag.com/gag/a9yVKxj)
- - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 💣 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
- - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 👉 [Bear with rabies](http://9gag.com/gag/a4PxG6A)<!-- MEMES:END -->
+ - 😝 [This picture has been shared all around Japan Twitter lately](http://9gag.com/gag/a9yVKRj)
+ - 😝 [These two dogs showing off their manners](http://9gag.com/gag/aO8jY1v)
+ - 💣 [Moonwalk](http://9gag.com/gag/agmdn4r)
+ - 😝 [That damn evil circadian rhythm..](http://9gag.com/gag/aAymgD9)
+ - 👉 [ARE YOU FKIN KIDDIN&#39; ME!!](http://9gag.com/gag/ajPdNZg)<!-- MEMES:END -->
 
 ---
 

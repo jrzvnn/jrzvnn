@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
- - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
- - 💣 [Watch to the end](http://9gag.com/gag/aGyojL0)
  - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
+ - 😝 [One was for the Monsters](http://9gag.com/gag/aLnbgmx)
+ - 💣 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
+ - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
  - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
 
 ---

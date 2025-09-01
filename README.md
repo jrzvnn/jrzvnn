@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
  - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
- - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 😝 [You too?](http://9gag.com/gag/ajPd9o8)
- - 👉 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)<!-- MEMES:END -->
+ - 💣 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
+ - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
+ - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
 
 ---
 

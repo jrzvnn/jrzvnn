@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
- - 😝 [Oops..](http://9gag.com/gag/awy8XP8)
- - 💣 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - 😝 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
- - 👉 [Intense battle.](http://9gag.com/gag/a9yVprK)<!-- MEMES:END -->
+ - 😝 [Intense battle.](http://9gag.com/gag/a9yVprK)
+ - 😝 [Guys Duding and universe conspiring against the Oldtimer](http://9gag.com/gag/aAymgEd)
+ - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---
 

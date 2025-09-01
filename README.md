@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 😝 [Someone&#39;s vacation just got extended indefinitely](http://9gag.com/gag/axyAz82)
  - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
  - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)<!-- MEMES:END -->
+ - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---
 

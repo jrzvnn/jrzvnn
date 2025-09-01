@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
  - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 💣 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - 😝 [Mojo-jojo](http://9gag.com/gag/aKGL6qZ)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
 
 ---
 

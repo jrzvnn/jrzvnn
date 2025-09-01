@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)
  - [Silksong is only $19.99](https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing)
  - [Q&amp;A with Cloudflare CEO Matthew Prince on why he thinks AI chatbots imperil the web and journalism&#39;s future, his company&#39;s pay-per-crawl initiative, and more &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/250901/p3#a250901p3)
- - [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)
- - [A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more &lpar;Colleen Flaherty/Inside Higher Ed&rpar;](http://www.techmeme.com/250901/p2#a250901p2)
- - [A profile of Chinese AI chip designer Cambricon, whose share price has doubled since the start of August, supported by Beijing&#39;s aims for tech self-sufficiency &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p1#a250901p1)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 1, #1535](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-1-1535/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 1, #813](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-1-813/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

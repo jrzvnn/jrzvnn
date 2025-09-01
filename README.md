@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
+ - 😝 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)
  - 😝 [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
- - 💣 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)
- - 😝 [What a legend](http://9gag.com/gag/apRdG7n)
+ - 💣 [What a legend](http://9gag.com/gag/apRdG7n)
+ - 😝 [You too?](http://9gag.com/gag/ajPd9o8)
  - 👉 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You underestimate my power](http://9gag.com/gag/axyA96M)
- - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
- - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Welp...](http://9gag.com/gag/azxBM7x)
- - 👉 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)<!-- MEMES:END -->
+ - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 😝 [Mojo-jojo](http://9gag.com/gag/aKGL6qZ)
+ - 👉 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)<!-- MEMES:END -->
 
 ---
 

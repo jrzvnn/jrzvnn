@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
- - 💣 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 😝 [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
+ - 💣 [Osaka, today](http://9gag.com/gag/a9yVRyj)
+ - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---
 

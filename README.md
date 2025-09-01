@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Cloudflare CEO Matthew Prince on why he thinks AI chatbots imperil the web and journalism&#39;s future, his company&#39;s pay-per-crawl initiative, and more &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/250901/p3#a250901p3)
  - [Hell Is Us is a cryptic and ambitious meditation on the horrors of war](https://www.theverge.com/games-review/767993/hell-is-us-review-ps5-xbox-steam)
  - [A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more &lpar;Colleen Flaherty/Inside Higher Ed&rpar;](http://www.techmeme.com/250901/p2#a250901p2)
  - [A profile of Chinese AI chip designer Cambricon, whose share price has doubled since the start of August, supported by Beijing&#39;s aims for tech self-sufficiency &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p1#a250901p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 1, #343](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-1-343/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 1, #343](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-1-343/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

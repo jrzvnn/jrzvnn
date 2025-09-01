@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 😝 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
- - 💣 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
  - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
+ - 👉 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)<!-- MEMES:END -->
 
 ---
 

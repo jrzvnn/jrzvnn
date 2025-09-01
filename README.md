@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 😝 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
- - 💣 [Towel head guy gets it. But we didn&#39;t want to listen. &lpar;Minister of foreign affairs of UAE&rpar;.](http://9gag.com/gag/azxB1GK)
- - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
+ - 😝 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
+ - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
+ - 💣 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 😝 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---
 

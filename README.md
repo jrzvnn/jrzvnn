@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 89 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People](https://www.cnet.com/tech/services-and-software/credit-bureau-transunion-hit-with-data-breach-affecting-4-4-million-people/#ftag=CAD590a51e)
  - [Apple suppliers must invest in automation or face losing orders](https://appleinsider.com/articles/25/09/01/apple-suppliers-must-invest-in-automation-or-face-losing-orders?utm_source=rss)
  - [Vibration Plates: Can You Use Them to Lose Weight, Build Muscle and Get Stronger?](https://www.cnet.com/health/fitness/vibration-plates-can-you-use-them-to-lose-weight-build-muscle-and-get-stronger/#ftag=CAD590a51e)
- - [China&#39;s AI content labeling law takes effect, aligned with increased AI scrutiny, as concerns grow over misinformation, copyright infringement, and online fraud &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250901/p10#a250901p10)
- - [Internal memo: Revolut begins a secondary share sale for employees at $1,381.06 per share, valuing Revolut at $75B, up from $45B in a 2024 secondary share sale &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250901/p9#a250901p9)
- - [WLFI, Trump&#39;s World Liberty Financial token, begins trading at ~$0.30, implying a ~$7.5B market cap; ~24.67% of its 100B supply was in circulation at the open &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250901/p8#a250901p8)<!-- TECH:END -->
+ - [China&#39;s AI content labeling law takes effect, aligned with increased AI scrutiny, as concerns grow over misinformation, copyright infringement, and online fraud &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250901/p10#a250901p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

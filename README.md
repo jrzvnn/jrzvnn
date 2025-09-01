@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)
- - 😝 [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
- - 💣 [What a legend](http://9gag.com/gag/apRdG7n)
+ - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
+ - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
+ - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
  - 😝 [You too?](http://9gag.com/gag/ajPd9o8)
- - 👉 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)<!-- MEMES:END -->
+ - 👉 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)<!-- MEMES:END -->
 
 ---
 

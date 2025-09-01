@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 😝 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
  - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 💣 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 😝 [Mojo-jojo](http://9gag.com/gag/aKGL6qZ)
  - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
 
 ---

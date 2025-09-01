@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 Pro review one year later: Don&#39;t buy the iPhone 17, get the 16 Pro instead](https://appleinsider.com/articles/25/09/01/iphone-16-pro-review-one-year-later-dont-buy-the-iphone-17-get-the-16-pro-instead?utm_source=rss)
  - [Chatbot added to Apple&#39;s &#39;SEED&#39; sales support app](https://appleinsider.com/articles/25/09/01/chatbot-added-to-apples-seed-sales-support-app?utm_source=rss)
  - [Sources: OpenAI is scouting local partners to set up a 1GW+ data center in India, although the exact timeline is unclear; Sam Altman is set to visit this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250901/p6#a250901p6)
  - [Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America](https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/)
- - [Is AI the end of software engineering or the next step in its evolution?](https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution)
- - [Analysis: porn sites that don&#39;t comply with the UK&#39;s age verification laws have seen their traffic from UK users grow, while sites complying had declines &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250901/p5#a250901p5)<!-- TECH:END -->
+ - [Is AI the end of software engineering or the next step in its evolution?](https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

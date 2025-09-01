@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
  - 😝 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
- - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 😝 [Chop chop chop](http://9gag.com/gag/ae9dDEp)
+ - 😝 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - 💣 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
  - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---

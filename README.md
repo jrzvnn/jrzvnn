@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
- - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
+ - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 👉 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)<!-- MEMES:END -->
 
 ---
 

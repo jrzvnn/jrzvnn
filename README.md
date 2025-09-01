@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is scouting local partners to set up a 1GW+ data center in India, although the exact timeline is unclear; Sam Altman is set to visit this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250901/p6#a250901p6)
+ - [Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America](https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/)
+ - [Is AI the end of software engineering or the next step in its evolution?](https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution)
  - [Analysis: porn sites that don&#39;t comply with the UK&#39;s age verification laws have seen their traffic from UK users grow, while sites complying had declines &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250901/p5#a250901p5)
- - [China Is About to Show Off Its New High-Tech Weapons to the World](https://www.wired.com/story/china-victory-day-parade-weapons/)
- - [AI shopping agents are prompting sellers and brands to rethink how they sell online, as advertisers adopt techniques to appear more prominently in AI results &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p4#a250901p4)
- - [AI Can Probably Do Some of Your Work Tasks. That Doesn&#39;t Mean It Can Do Your Job](https://www.cnet.com/tech/services-and-software/ai-can-probably-do-some-of-your-work-tasks-that-doesnt-mean-it-can-do-your-job/#ftag=CAD590a51e)
- - [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)<!-- TECH:END -->
+ - [China Is About to Show Off Its New High-Tech Weapons to the World](https://www.wired.com/story/china-victory-day-parade-weapons/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

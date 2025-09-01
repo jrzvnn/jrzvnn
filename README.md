@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
- - 💣 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
- - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
- - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
+ - 😝 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
+ - 💣 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
+ - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
 
 ---
 

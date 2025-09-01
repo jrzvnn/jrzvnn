@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 1,047 US college students on GenAI: 55% use the tech for brainstorming ideas, 18% now question the value of college more than they used to, and more &lpar;Colleen Flaherty/Inside Higher Ed&rpar;](http://www.techmeme.com/250901/p2#a250901p2)
  - [A profile of Chinese AI chip designer Cambricon, whose share price has doubled since the start of August, supported by Beijing&#39;s aims for tech self-sufficiency &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p1#a250901p1)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 1, #343](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-1-343/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-1/#ftag=CAD590a51e)
- - [Q&amp;A with Lyft CEO David Risher on three consecutive profitable quarters, cofounders leaving the board, Freenow acquisition, the economics of robotaxis, and more &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250831/p13#a250831p13)
- - [41 Best Labor Day Sales on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/best-labor-day-sales-deals-2025-1/)<!-- TECH:END -->
+ - [Q&amp;A with Lyft CEO David Risher on three consecutive profitable quarters, cofounders leaving the board, Freenow acquisition, the economics of robotaxis, and more &lpar;J. Edward Moreno/Sherwood News&rpar;](http://www.techmeme.com/250831/p13#a250831p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

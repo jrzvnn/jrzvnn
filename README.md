@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He has his mom&#39;s eyes](http://9gag.com/gag/a5QxMZr)
- - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
- - 💣 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
  - 😝 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
  - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---

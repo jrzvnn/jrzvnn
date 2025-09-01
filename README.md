@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new store expands Apple&#39;s support to a third location in India](https://appleinsider.com/articles/25/09/01/apples-new-store-expands-apples-support-to-a-third-location-in-india?utm_source=rss)
- - [iPhone 16 Pro review one year later: Don&#39;t buy the iPhone 17, get the 16 Pro instead](https://appleinsider.com/articles/25/09/01/iphone-16-pro-review-one-year-later-dont-buy-the-iphone-17-get-the-16-pro-instead?utm_source=rss)
- - [Chatbot added to Apple&#39;s &#39;SEED&#39; sales support app](https://appleinsider.com/articles/25/09/01/chatbot-added-to-apples-seed-sales-support-app?utm_source=rss)
- - [Sources: OpenAI is scouting local partners to set up a 1GW+ data center in India, although the exact timeline is unclear; Sam Altman is set to visit this month &lpar;Bloomberg&rpar;](http://www.techmeme.com/250901/p6#a250901p6)
- - [Latam-GPT: The Free, Open Source, and Collaborative AI of Latin America](https://www.wired.com/story/latam-gpt-the-free-open-source-and-collaborative-ai-of-latin-america/)<!-- TECH:END -->
+ - [Leaker battle: iPhone Fold will not get under-screen Touch ID](https://appleinsider.com/articles/25/09/01/leaker-battle-iphone-fold-will-not-get-under-screen-touch-id?utm_source=rss)
+ - [Apple&#39;s new store expands official support &amp; sales to a third location in India](https://appleinsider.com/articles/25/09/01/apples-new-store-expands-apples-support-to-a-third-location-in-india?utm_source=rss)
+ - [Urban Arrow FamilyNext Pro Review: The Perfect Family Bike](https://www.wired.com/review/urban-arrow-familynext-pro/)
+ - [Magnesium Supplements Crash Course: Benefits and Side Effects](https://www.wired.com/story/what-are-magnesium-supplements-good-for/)
+ - [iPhone 16 Pro review one year later: Don&#39;t buy the iPhone 17, get the 16 Pro instead](https://appleinsider.com/articles/25/09/01/iphone-16-pro-review-one-year-later-dont-buy-the-iphone-17-get-the-16-pro-instead?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

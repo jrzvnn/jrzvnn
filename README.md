@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
- - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
- - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
+ - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 💣 [Towel head guy gets it. But we didn&#39;t want to listen. &lpar;Minister of foreign affairs of UAE&rpar;.](http://9gag.com/gag/azxB1GK)
+ - 😝 [If it breath, we can pet it. - Humans &lpar;Otter raised by human&rpar;. Music is Walt disney Robin Hood 1973.](http://9gag.com/gag/a2vxRQ9)
+ - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
 
 ---
 

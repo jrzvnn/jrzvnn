@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
  - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 💣 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
- - 😝 [Good for the Cracker Barrel? Good for the gander.](http://9gag.com/gag/a7oGwXq)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 💣 [Instant karma for talking smack](http://9gag.com/gag/aD2P1Pw)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---
 

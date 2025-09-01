@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - 💣 [Osaka, today](http://9gag.com/gag/a9yVRyj)
- - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
+ - 😝 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
+ - 😝 [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
+ - 💣 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)
+ - 😝 [What a legend](http://9gag.com/gag/apRdG7n)
+ - 👉 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)
+ - [Apple&#39;s AirTag turned a baggage claim disaster into a bizarre recovery](https://appleinsider.com/articles/25/09/01/apples-airtag-turned-a-baggage-claim-disaster-into-a-bizarre-recovery?utm_source=rss)
  - [Tencent open sources translation models Hunyuan-MT-7B and Hunyuan-MT-Chimera-7B, which support 33 languages, claiming they beat established models in benchmarks &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/250901/p11#a250901p11)
  - [The 95 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People](https://www.cnet.com/tech/services-and-software/credit-bureau-transunion-hit-with-data-breach-affecting-4-4-million-people/#ftag=CAD590a51e)
- - [Apple suppliers must invest in automation or face losing orders](https://appleinsider.com/articles/25/09/01/apple-suppliers-must-invest-in-automation-or-face-losing-orders?utm_source=rss)
- - [Vibration Plates: Can You Use Them to Lose Weight, Build Muscle and Get Stronger?](https://www.cnet.com/health/fitness/vibration-plates-can-you-use-them-to-lose-weight-build-muscle-and-get-stronger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Credit Bureau TransUnion Hit With Data Breach Affecting 4.4 Million People](https://www.cnet.com/tech/services-and-software/credit-bureau-transunion-hit-with-data-breach-affecting-4-4-million-people/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

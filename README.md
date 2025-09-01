@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m the first in my bloodline to see this](https://www.reddit.com/r/memes/comments/1n5llrf/im_the_first_in_my_bloodline_to_see_this/)
- - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
- - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
+ - 😝 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
+ - 💣 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 👉 [Osaka, today](http://9gag.com/gag/a9yVRyj)<!-- MEMES:END -->
 
 ---
 

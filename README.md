@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 💣 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 😝 [Here, have some Cavillrine...](http://9gag.com/gag/a87n5NO)
+ - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 💣 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
  - 😝 [Mojo-jojo](http://9gag.com/gag/aKGL6qZ)
- - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
+ - 👉 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)<!-- MEMES:END -->
 
 ---
 

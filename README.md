@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
- - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
+ - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
+ - 😝 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
+ - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 😝 [Chop chop chop](http://9gag.com/gag/ae9dDEp)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---
 

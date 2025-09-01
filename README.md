@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 😝 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
  - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
  - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
- - 😝 [Mojo-jojo](http://9gag.com/gag/aKGL6qZ)
- - 👉 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)<!-- MEMES:END -->
+ - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
+ - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
 
 ---
 

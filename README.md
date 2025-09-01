@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: porn sites that don&#39;t comply with the UK&#39;s age verification laws have seen their traffic from UK users grow, while sites complying had declines &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250901/p5#a250901p5)
+ - [China Is About to Show Off Its New High-Tech Weapons to the World](https://www.wired.com/story/china-victory-day-parade-weapons/)
  - [AI shopping agents are prompting sellers and brands to rethink how they sell online, as advertisers adopt techniques to appear more prominently in AI results &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p4#a250901p4)
  - [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)
- - [Silksong is only $19.99](https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing)
- - [Q&amp;A with Cloudflare CEO Matthew Prince on why he thinks AI chatbots imperil the web and journalism&#39;s future, his company&#39;s pay-per-crawl initiative, and more &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/250901/p3#a250901p3)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 1, #1535](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-1-1535/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Silksong is only $19.99](https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

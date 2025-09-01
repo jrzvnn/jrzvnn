@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Analysis: porn sites that don&#39;t comply with the UK&#39;s age verification laws have seen their traffic from UK users grow, while sites complying had declines &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/250901/p5#a250901p5)
  - [China Is About to Show Off Its New High-Tech Weapons to the World](https://www.wired.com/story/china-victory-day-parade-weapons/)
  - [AI shopping agents are prompting sellers and brands to rethink how they sell online, as advertisers adopt techniques to appear more prominently in AI results &lpar;Financial Times&rpar;](http://www.techmeme.com/250901/p4#a250901p4)
- - [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)
- - [Silksong is only $19.99](https://www.theverge.com/news/768524/hollow-knight-silksong-pricing-release-timing)<!-- TECH:END -->
+ - [AI Can Probably Do Some of Your Work Tasks. That Doesn&#39;t Mean It Can Do Your Job](https://www.cnet.com/tech/services-and-software/ai-can-probably-do-some-of-your-work-tasks-that-doesnt-mean-it-can-do-your-job/#ftag=CAD590a51e)
+ - [WIRED Roundup: Meta’s AI Brain Drain](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-metas-ai-brain-drain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

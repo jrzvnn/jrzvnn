@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 89 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [The 95 best Labor Day sales happening now](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
  - [Apple suppliers must invest in automation or face losing orders](https://appleinsider.com/articles/25/09/01/apple-suppliers-must-invest-in-automation-or-face-losing-orders?utm_source=rss)
  - [Vibration Plates: Can You Use Them to Lose Weight, Build Muscle and Get Stronger?](https://www.cnet.com/health/fitness/vibration-plates-can-you-use-them-to-lose-weight-build-muscle-and-get-stronger/#ftag=CAD590a51e)
  - [China&#39;s AI content labeling law takes effect, aligned with increased AI scrutiny, as concerns grow over misinformation, copyright infringement, and online fraud &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250901/p10#a250901p10)

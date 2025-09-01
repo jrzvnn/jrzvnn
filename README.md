@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 💣 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - 💣 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
  - 😝 [`wE bUiLt tHis cIty`](http://9gag.com/gag/abAdG89)
- - 👉 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)<!-- MEMES:END -->
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---
 

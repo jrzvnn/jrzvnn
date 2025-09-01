@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple suppliers must invest in automation or face losing orders](https://appleinsider.com/articles/25/09/01/apple-suppliers-must-invest-in-automation-or-face-losing-orders?utm_source=rss)
  - [China&#39;s new AI content labeling law goes into effect, as part of a broad effort to address AI-related risks such as misinformation and copyright infringement &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250901/p10#a250901p10)
  - [Internal memo: Revolut begins a secondary share sale for staffers at $1,381.06 per share, valuing Revolut at $75B, up from $45B in a 2024 secondary share sale &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250901/p9#a250901p9)
- - [WLFI, the token of Trump&#39;s World Liberty Financial, begins trading at ~$0.30 with a market cap of ~$7.5B; ~24.67% of its 100B supply is in circulation at open &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250901/p8#a250901p8)
+ - [WLFI, Trump&#39;s World Liberty Financial token, begins trading at ~$0.30, implying a ~$7.5B market cap; ~24.67% of its 100B supply was in circulation at the open &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/250901/p8#a250901p8)
  - [The 25 Absolute Best Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-sept-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

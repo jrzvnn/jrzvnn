@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
- - 😝 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
  - 💣 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
  - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 👉 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)<!-- MEMES:END -->
 
 ---
 

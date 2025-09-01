@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
  - [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)
  - [Apple&#39;s AirTag turned a baggage claim disaster into a bizarre recovery](https://appleinsider.com/articles/25/09/01/apples-airtag-turned-a-baggage-claim-disaster-into-a-bizarre-recovery?utm_source=rss)
- - [Tencent open sources translation models Hunyuan-MT-7B and Hunyuan-MT-Chimera-7B, which support 33 languages, claiming they beat established models in benchmarks &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/250901/p11#a250901p11)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 2 #548](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-2-548/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

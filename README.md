@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
- - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - 💣 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
+ - 😝 [You underestimate my power](http://9gag.com/gag/axyA96M)
+ - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Welp...](http://9gag.com/gag/azxBM7x)
+ - 👉 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)<!-- MEMES:END -->
 
 ---
 

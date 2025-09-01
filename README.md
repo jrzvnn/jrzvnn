@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
  - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
  - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)<!-- MEMES:END -->
+ - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
 
 ---
 

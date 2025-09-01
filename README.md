@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
  - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
- - 💣 [Oops..](http://9gag.com/gag/awy8XP8)
- - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
- - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 💣 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
+ - 😝 [Good for the Cracker Barrel? Good for the gander.](http://9gag.com/gag/a7oGwXq)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---
 

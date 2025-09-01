@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intense battle.](http://9gag.com/gag/a9yVprK)
- - 😝 [Oops..](http://9gag.com/gag/awy8XP8)
- - 💣 [The wedding is next month](http://9gag.com/gag/aVvd0BM)
- - 😝 [170lbs down](http://9gag.com/gag/axyA7L2)
+ - 😝 [Watch to the end](http://9gag.com/gag/aGyojL0)
+ - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 💣 [Oops..](http://9gag.com/gag/awy8XP8)
+ - 😝 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)
  - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
+ - 😝 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
+ - 😝 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
  - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [You and I and everyone wishes](http://9gag.com/gag/aD2PgMx)<!-- MEMES:END -->
+ - 👉 [Osaka, today](http://9gag.com/gag/a9yVRyj)<!-- MEMES:END -->
 
 ---
 

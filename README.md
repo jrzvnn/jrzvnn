@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
- - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
- - 💣 [Towel head guy gets it. But we didn&#39;t want to listen. &lpar;Minister of foreign affairs of UAE&rpar;.](http://9gag.com/gag/azxB1GK)
- - 😝 [If it breath, we can pet it. - Humans &lpar;Otter raised by human&rpar;. Music is Walt disney Robin Hood 1973.](http://9gag.com/gag/a2vxRQ9)
- - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
+ - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
+ - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 👉 [Imagine paying rent to your boyfriend for his own apartment for three years](http://9gag.com/gag/a7oG3Ab)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPhone 17 event preview, Level Lock, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/01/apple-iphone-17-event-preview-level-lock-and-more-on-homekit-insider?utm_source=rss)
  - [Source: G42 is talking to Google, AWS, Meta, Microsoft, and xAI to become tenants at its UAE-US AI Campus, and aims to diversify chip suppliers beyond Nvidia &lpar;Kelsey Warner/Semafor&rpar;](http://www.techmeme.com/250901/p7#a250901p7)
  - [Leaker battle: iPhone Fold will not get under-screen Touch ID](https://appleinsider.com/articles/25/09/01/leaker-battle-iphone-fold-will-not-get-under-screen-touch-id?utm_source=rss)
  - [Apple&#39;s new store expands official support &amp; sales to a third location in India](https://appleinsider.com/articles/25/09/01/apples-new-store-expands-apples-support-to-a-third-location-in-india?utm_source=rss)
- - [Apple&#39;s iPhone 17 Event Is Happening Sept. 9. How to Watch](https://www.cnet.com/tech/mobile/apples-iphone-17-event-is-happening-sept-9-how-to-watch/#ftag=CAD590a51e)
- - [Urban Arrow FamilyNext Pro Review: The Perfect Family Bike](https://www.wired.com/review/urban-arrow-familynext-pro/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 17 Event Is Happening Sept. 9. How to Watch](https://www.cnet.com/tech/mobile/apples-iphone-17-event-is-happening-sept-9-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

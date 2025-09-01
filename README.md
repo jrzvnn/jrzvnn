@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
- - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
- - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
+ - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 😝 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
+ - 💣 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
 
 ---
 

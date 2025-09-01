@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)
- - 😝 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
- - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 😝 [CEOs are the new influencers.](http://9gag.com/gag/aAymeXd)
- - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
+ - 😝 [Apes together strong](http://9gag.com/gag/aMVWZXM)
+ - 😝 [Superman but can\u2019t do his one job](http://9gag.com/gag/a1mxR5R)
+ - 💣 [Wow they sure showed her](http://9gag.com/gag/aO8jrwR)
+ - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
+ - 👉 [Bro cleared traffic](http://9gag.com/gag/aNDq0Kr)<!-- MEMES:END -->
 
 ---
 

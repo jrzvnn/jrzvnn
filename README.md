@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silicon Valley](http://9gag.com/gag/a9yVKDo)
+ - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
  - 😝 [Piotr Szczerek, the Polish Millionare that stole a signed cap from a kid at a tennis game](http://9gag.com/gag/azxB1Em)
- - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Tesla with wagon wheels, why not](http://9gag.com/gag/ajPd9rR)
- - 👉 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)<!-- MEMES:END -->
+ - 💣 [I gues we can go home now boys!](http://9gag.com/gag/a5QxMdE)
+ - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 👉 [Ah yes... abrahamic favorites...](http://9gag.com/gag/awy8A5x)<!-- MEMES:END -->
 
 ---
 

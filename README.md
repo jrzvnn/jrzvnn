@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even cats have a past.](https://www.reddit.com/r/funny/comments/1n6q2w2/even_cats_have_a_past/)
- - 😝 [In 2019, Taylor Swift&#39;s mom filmed her after lasik eye surgery getting emotional over a banana, and sent it to Fallon to show during her interview](https://www.reddit.com/r/funny/comments/1n6q17v/in_2019_taylor_swifts_mom_filmed_her_after_lasik/)
- - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
  - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 👉 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)<!-- MEMES:END -->
+ - 💣 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
+ - 😝 [Bro the disrespect](http://9gag.com/gag/arydnM6)
+ - 👉 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)<!-- MEMES:END -->
 
 ---
 

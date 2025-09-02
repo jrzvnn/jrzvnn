@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Klarna and some shareholders are selling 34.3M shares for $35 to $37 each, aiming to raise up to $1.27B and giving it an up to ~$14B market cap &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250902/p9#a250902p9)
+ - [Onion CEO Ben Collins Hasn&#39;t Given Up on Print—or Buying Infowars](https://www.wired.com/story/uncanny-valley-podcast-big-interview-ben-collins-onion/)
  - [An analysis of Grok&#39;s responses to 41 political questions in May and July shows it shifted to the right on 50%+ of them, often aligning with Elon Musk&#39;s views &lpar;New York Times&rpar;](http://www.techmeme.com/250902/p8#a250902p8)
  - [Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries](https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/)
- - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [IFR: Chinese factories install ~280K industrial robots every year, or 50% of the global total, helping China boost its global exports; ~50% are locally made &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p7#a250902p7)
- - [No, Trump Can’t Legally Federalize US Elections](https://www.wired.com/story/trump-federalize-election-unconstitutional/)<!-- TECH:END -->
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

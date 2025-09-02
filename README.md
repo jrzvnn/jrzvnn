@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Should I?](https://www.reddit.com/r/funny/comments/1n6v4dj/should_i/)
  - 😝 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
- - 💣 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
- - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
- - 👉 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)<!-- MEMES:END -->
+ - 😝 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
+ - 💣 [Lol.](http://9gag.com/gag/aqydjdj)
+ - 😝 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 ---
 

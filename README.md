@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In US v. Google, a judge rejects prosecutors&#39; bid to make Google sell off Chrome but says Google is barred from exclusive contracts and must share search data &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250902/p34#a250902p34)
+ - [US v. Google: a judge rules that Google can keep Chrome and Android but can&#39;t have exclusive search deals and must share search data; GOOG jumps 6%+ after hours &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250902/p34#a250902p34)
  - [Silksong: all of the updates about the Hollow Knight sequel](https://www.theverge.com/news/769489/hollow-knight-silksong-news-updates)
  - [Cloudflare says attackers gained access to a Salesforce instance it uses for internal customer case management, as part of the Salesloft Drift breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250902/p33#a250902p33)
  - [OpenAI CPO Kevin Weil will become VP of a new group called OpenAI for Science to build an &quot;AI-powered platform that accelerates scientific discovery&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250902/p32#a250902p32)

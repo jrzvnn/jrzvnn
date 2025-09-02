@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Ukraine is using AI to allow groups of drones, known as swarms, to coordinate with each other to attack Russian positions for much of the past year &lpar;Alistair MacDonald/Wall Street Journal&rpar;](http://www.techmeme.com/250902/p18#a250902p18)
  - [Underdog and Crypto.com launch a sports prediction market to let US users in 16 states bet on the NFL, the NBA, and other leagues via Underdog&#39;s app &lpar;Contessa Brewer/CNBC&rpar;](http://www.techmeme.com/250902/p17#a250902p17)
  - [Varonis Systems agrees to acquire email security company SlashNext for up to $150M, including retention awards, after buying database company Cyral for ~$25M &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250902/p16#a250902p16)
  - [My favorite cooking gadget is getting a big upgrade](https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date)
- - [TSMC says the US revoked its authorization to ship gear to its main Chinese chipmaking base in Nanjing, after the US revoked Samsung&#39;s and SK Hynix&#39;s waivers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p15#a250902p15)
- - [AirPods live translation may not arrive for the iOS 26 launch](https://appleinsider.com/articles/25/09/02/airpods-live-translation-may-not-arrive-for-the-ios-26-launch?utm_source=rss)<!-- TECH:END -->
+ - [TSMC says the US revoked its authorization to ship gear to its main Chinese chipmaking base in Nanjing, after the US revoked Samsung&#39;s and SK Hynix&#39;s waivers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p15#a250902p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

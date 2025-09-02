@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US v. Google: a judge rules that Google can keep Chrome and Android but can&#39;t have exclusive search deals and must share search data; GOOG jumps 6%+ after hours &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250902/p34#a250902p34)
- - [Silksong: all of the updates about the Hollow Knight sequel](https://www.theverge.com/news/769489/hollow-knight-silksong-news-updates)
- - [Cloudflare says attackers gained access to a Salesforce instance it uses for internal customer case management, as part of the Salesloft Drift breach &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250902/p33#a250902p33)
- - [OpenAI CPO Kevin Weil will become VP of a new group called OpenAI for Science to build an &quot;AI-powered platform that accelerates scientific discovery&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250902/p32#a250902p32)
- - [Four more employees depart Apple, join other AI efforts](https://appleinsider.com/articles/25/09/02/four-more-employees-depart-apple-join-other-ai-efforts?utm_source=rss)<!-- TECH:END -->
+ - [US v. Google: a judge bars Google from paying to be the exclusive search engine on devices and browsers but allows it to make payments for product distribution &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250902/p35#a250902p35)
+ - [Google and Apple&amp;#8217;s $20 billion search deal survives](https://www.theverge.com/news/769599/google-apple-search-deal-us-doj-antitrust-case-remedies)
+ - [Google must stop exclusive contracts with companies like Apple but keeps Chrome](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
+ - [Amazon&amp;#8217;s Lens Live AI shops for anything you can see](https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping)
+ - [Google gets to keep Chrome, judge rules in search antitrust case](https://www.theverge.com/policy/717087/google-search-remedies-ruling-chrome)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

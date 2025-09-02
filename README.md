@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
- - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
+ - 😝 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 💣 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)
+ - 😝 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 ---
 

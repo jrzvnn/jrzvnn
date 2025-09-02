@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
- - 😝 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
- - 💣 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)
- - 😝 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
- - 👉 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)<!-- MEMES:END -->
+ - 😝 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)
+ - 😝 [You underestimate my power](http://9gag.com/gag/axyA96M)
+ - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 😝 [61](http://9gag.com/gag/a2vx7QY)
+ - 👉 [Happy ending](http://9gag.com/gag/a5QxENV)<!-- MEMES:END -->
 
 ---
 

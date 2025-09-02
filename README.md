@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
- - 😝 [Welp...](http://9gag.com/gag/azxBM7x)
- - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 💣 [Osaka, today](http://9gag.com/gag/a9yVRyj)
+ - 😝 [Someone give this man a medal, what a hero](http://9gag.com/gag/aQzroQq)
+ - 👉 [Do your job](http://9gag.com/gag/aByvmYz)<!-- MEMES:END -->
 
 ---
 

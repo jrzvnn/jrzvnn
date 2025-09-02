@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [An analysis of Grok&#39;s responses to 41 political questions in May and July shows it shifted to the right on 50%+ of them, often aligning with Elon Musk&#39;s views &lpar;New York Times&rpar;](http://www.techmeme.com/250902/p8#a250902p8)
  - [Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries](https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/)
+ - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
  - [IFR: Chinese factories install ~280K industrial robots every year, or 50% of the global total, helping China boost its global exports; ~50% are locally made &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p7#a250902p7)
- - [No, Trump Can’t Legally Federalize US Elections](https://www.wired.com/story/trump-federalize-election-unconstitutional/)
- - [Meraki Espresso Machine Review &lpar;2025&rpar;: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)<!-- TECH:END -->
+ - [No, Trump Can’t Legally Federalize US Elections](https://www.wired.com/story/trump-federalize-election-unconstitutional/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

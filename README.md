@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
  - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 💣 [Welp...](http://9gag.com/gag/azxBM7x)
- - 😝 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
- - 👉 [That `i know the truth` person](http://9gag.com/gag/arydoDp)<!-- MEMES:END -->
+ - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 💣 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
+ - 😝 [Find Greta](http://9gag.com/gag/a9yVEWK)
+ - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
 
 ---
 

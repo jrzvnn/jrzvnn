@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Mexico City-based Kapital, which offers financial visibility tools to SMBs, raised an $86M Series C led by Tribe Capital at a ~$1.3B valuation &lpar;Matthew Monks/Bloomberg&rpar;](http://www.techmeme.com/250902/p21#a250902p21)
+ - [Amazon ends shared Prime free shipping outside your home](https://www.theverge.com/news/769051/amazon-prime-free-shipping-benefit-sharing-ending)
+ - [Winklevoss twins&#39; Gemini plans to sell 16.67M shares at a price range of $17-$19 in its US IPO, seeking to raise $317M and valuing the crypto exchange at $2.2B &lpar;CoinDesk&rpar;](http://www.techmeme.com/250902/p20#a250902p20)
  - [Sources: the EU delayed a planned September 1 fine against Google over ad tech practices, amid fears it could provoke Trump and unravel progress on trade talks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p19#a250902p19)
- - [Do You Need a Satellite Messenger?](https://www.wired.com/story/do-you-need-a-satellite-messenger/)
- - [How Ukraine is using AI to allow groups of drones, known as swarms, to coordinate with each other to attack Russian positions for much of the past year &lpar;Alistair MacDonald/Wall Street Journal&rpar;](http://www.techmeme.com/250902/p18#a250902p18)
- - [Underdog and Crypto.com launch a sports prediction market to let US users in 16 states bet on the NFL, the NBA, and other leagues via Underdog&#39;s app &lpar;Contessa Brewer/CNBC&rpar;](http://www.techmeme.com/250902/p17#a250902p17)
- - [Varonis Systems agrees to acquire email security company SlashNext for up to $150M, including retention awards, after buying database company Cyral for ~$25M &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250902/p16#a250902p16)<!-- TECH:END -->
+ - [Do You Need a Satellite Messenger?](https://www.wired.com/story/do-you-need-a-satellite-messenger/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 😝 [That `i know the truth` person](http://9gag.com/gag/arydoDp)
  - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
- - 💣 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
- - 😝 [Find Greta](http://9gag.com/gag/a9yVEWK)
+ - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
  - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
 
 ---

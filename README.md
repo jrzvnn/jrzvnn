@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s lead AI researcher for robotics, Jian Zhang, has left for Meta&#39;s Robotics Studio; sources: three more researchers left Apple&#39;s Foundation Models team &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250902/p31#a250902p31)
  - [iPhone Fold 2026 rumored with lighter Apple Vision Air in 2027](https://appleinsider.com/articles/25/09/02/iphone-fold-2026-rumored-with-lighter-apple-vision-air-in-2027?utm_source=rss)
+ - [Apple&#39;s lead AI researcher for robotics, Jian Zhang, has left for Meta&#39;s Robotics Studio; sources: three more researchers left Apple&#39;s Foundation Models team &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250902/p31#a250902p31)
  - [Plaud says it has sold 1M+ of its $159 NotePin AI recording devices since 2023, is profitable, and is on track to bring in $250M in annualized revenue this year &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250902/p30#a250902p30)
  - [The 50 Best Shows on HBO Max Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->

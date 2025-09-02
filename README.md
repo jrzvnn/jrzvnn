@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled](https://www.theverge.com/news/769372/microsoft-perfect-dark-revival-take-two-deal)
  - [iPhone Fold 2026 rumored with lighter Apple Vision Air in 2027](https://appleinsider.com/articles/25/09/02/iphone-fold-2026-rumored-with-lighter-apple-vision-air-in-2027?utm_source=rss)
  - [OpenAI acquires product analytics company Statsig for $1.1B and shuffles executive roles, with Statsig CEO Vijaye Raji becoming OpenAI&#39;s CTO of Applications &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250902/p29#a250902p29)
- - [OpenAI shuffles executive roles, acquires Statsig for $1.1 billion](https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves)
- - [Disney agrees to pay $10M to settle an FTC complaint that alleges Disney failed to designate certain YouTube videos as being made for children &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250902/p28#a250902p28)
- - [Sony WH-1000XM5 Deal: $100 Off Sony’s Last-Gen Flagships](https://www.wired.com/story/sony-wh-1000xm5-deal/)<!-- TECH:END -->
+ - [OpenAI shuffles executive roles, acquires Statsig for $1.1 billion](https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

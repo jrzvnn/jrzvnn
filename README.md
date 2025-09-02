@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That `i know the truth` person](http://9gag.com/gag/arydoDp)
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 💣 [Do your job](http://9gag.com/gag/aByvmYz)
- - 😝 [Someone give this man a medal, what a hero](http://9gag.com/gag/aQzroQq)
- - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
+ - 😝 [Good use of free will](http://9gag.com/gag/avyD57d)
+ - 😝 [What a legend](http://9gag.com/gag/apRdG7n)
+ - 💣 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)
+ - 😝 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 ---
 

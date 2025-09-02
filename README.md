@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
- - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
- - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)
- - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/amodPV6)
+ - 😝 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
+ - 💣 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
+ - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
+ - 👉 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)<!-- MEMES:END -->
 
 ---
 

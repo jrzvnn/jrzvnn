@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI details its plan to add guardrails for teens and people in emotional distress in the next 120 days, including routing conversations to GPT-5-thinking &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250902/p10#a250902p10)
+ - [Hungry Worms Could Help Solve Plastic Pollution](https://www.wired.com/story/could-plastic-eating-moth-larvae-be-a-solution-to-environmental-pollution/)
+ - [9 Best Electric Cargo Bikes for Families &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-cargo-bikes/)
  - [Filing: Klarna and some shareholders are selling 34.3M shares for $35-$37 each in its IPO, aiming to raise up to $1.27B and giving it an up to ~$14B market cap &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250902/p9#a250902p9)
- - [Onion CEO Ben Collins Hasn&#39;t Given Up on Print—or Buying Infowars](https://www.wired.com/story/uncanny-valley-podcast-big-interview-ben-collins-onion/)
- - [An analysis of Grok&#39;s responses to 41 political questions in May and July shows it shifted to the right on 50%+ of them, often aligning with Elon Musk&#39;s views &lpar;New York Times&rpar;](http://www.techmeme.com/250902/p8#a250902p8)
- - [Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries](https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/)
- - [Best Samsung Phone of 2025](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Onion CEO Ben Collins Hasn&#39;t Given Up on Print—or Buying Infowars](https://www.wired.com/story/uncanny-valley-podcast-big-interview-ben-collins-onion/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

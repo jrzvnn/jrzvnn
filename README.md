@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
- - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
- - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 💣 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 😝 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
+ - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
 
 ---
 

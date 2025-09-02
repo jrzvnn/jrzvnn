@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Procurement records show the Trump administration jettisoned a Biden-era order and reactivated an ICE contract for Paragon spyware &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250902/p23#a250902p23)
+ - [How to Clean Your Dog&#39;s Ears and Clip Your Cat&#39;s Nails—Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-pet/)
  - [Trade in your old iPhone and grab a 10% cash bonus ahead of the iPhone 17](https://appleinsider.com/articles/25/09/02/trade-in-your-old-iphone-and-grab-a-10-cash-bonus-ahead-of-the-iphone-17?utm_source=rss)
  - [Blockchain-based lender Figure plans to sell 26.3M shares priced between $18 and $20 to raise up to $526.3M in its US IPO, targeting a valuation of ~$4.13B &lpar;Reuters&rpar;](http://www.techmeme.com/250902/p22#a250902p22)
- - [The 71 best Labor Day deals you can still get](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
- - [The Backbone Pro controller is $20 off for a limited time](https://www.theverge.com/tech/768973/backbone-pro-bluetooth-gaming-controller-intel-battlefield-6-deal-sale)
- - [Source: Mexico City-based Kapital, which offers financial visibility tools to SMBs, raised an $86M Series C led by Tribe Capital at a ~$1.3B valuation &lpar;Matthew Monks/Bloomberg&rpar;](http://www.techmeme.com/250902/p21#a250902p21)<!-- TECH:END -->
+ - [The 71 best Labor Day deals you can still get](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

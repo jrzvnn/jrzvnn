@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
+ - 😝 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
  - 😝 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
  - 💣 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)
- - 😝 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)
- - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
+ - 😝 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
+ - 👉 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)<!-- MEMES:END -->
 
 ---
 

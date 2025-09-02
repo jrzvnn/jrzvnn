@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 💣 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 😝 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
- - 👉 [Every single time](http://9gag.com/gag/adBdVLj)<!-- MEMES:END -->
+ - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 👉 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Play Games is about to show people what you play](https://www.theverge.com/news/768886/google-play-games-update-player-profile-stats)
  - [UK fintechs, including Revolut and Starling, step up plans to buy US banks to get US licenses and lend across all 50 states as Trump admin eases merger rules &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p4#a250902p4)
  - [A look at AI adoption across US schools and colleges, as tech companies invest in AI education initiatives, including partnerships with major teachers&#39; unions &lpar;Vauhini Vara/Bloomberg&rpar;](http://www.techmeme.com/250902/p3#a250902p3)
  - [Marc Benioff says Salesforce has cut its support staff from 9,000 to ~5,000 in the past year after deploying AI agents to handle a growing share of its work &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/250902/p2#a250902p2)
- - [UK-based Phasecraft, which develops algorithms for quantum computers, raised a $34M Series B co-led by Plural, Playground Global, and Novo Holdings &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250902/p1#a250902p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK-based Phasecraft, which develops algorithms for quantum computers, raised a $34M Series B co-led by Plural, Playground Global, and Novo Holdings &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250902/p1#a250902p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

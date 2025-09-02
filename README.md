@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 😝 [Osaka, today](http://9gag.com/gag/a9yVRyj)
  - 😝 [Welp...](http://9gag.com/gag/azxBM7x)
- - 💣 [Do your job](http://9gag.com/gag/aByvmYz)
- - 😝 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)
- - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
+ - 💣 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
 
 ---
 

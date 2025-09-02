@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/amodPV6)
- - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
- - 💣 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
- - 😝 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
- - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
+ - 😝 [Any resemblance is purely coincidental...](https://www.reddit.com/r/funny/comments/1n6oocx/any_resemblance_is_purely_coincidental/)
+ - 😝 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
+ - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 👉 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)<!-- MEMES:END -->
 
 ---
 

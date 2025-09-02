@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [A girls friend went to Wales and checked into her Air BnB and look who was waiting for her….](https://www.reddit.com/r/funny/comments/1n6yo7c/a_girls_friend_went_to_wales_and_checked_into_her/)
- - 💣 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
+ - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 👉 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)<!-- MEMES:END -->
 
 ---
 

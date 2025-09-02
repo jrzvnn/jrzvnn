@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is having ‘productive discussions’ with Trump lawyers about his deplatforming suit](https://www.theverge.com/news/769285/google-trump-youtube-ban-january-6th-lawsuit)
  - [Apple outs its ninth developer betas for iOS 26, macOS Tahoe 26](https://appleinsider.com/articles/25/09/02/apple-outs-its-ninth-developer-betas-for-ios-26-macos-tahoe-26?utm_source=rss)
  - [Tesla’s new ‘Master Plan’ sounds like AI slop](https://www.theverge.com/tesla/769009/tesla-master-plan-4-ai-robotics-abundance)
  - [Uber Eats partners with Best Buy to deliver your tech](https://www.theverge.com/news/769183/uber-eats-best-buy-partnership-deliveries)
- - [WordPress showed off Telex, its experimental AI development tool, at WordCamp US; CEO Matt Mullenweg called it &quot;V0 or Lovable, but specifically for WordPress&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250902/p27#a250902p27)
- - [Anthropic is now valued at $183 billion](https://www.theverge.com/anthropic/769179/anthropic-is-now-valued-at-183-billion)<!-- TECH:END -->
+ - [WordPress showed off Telex, its experimental AI development tool, at WordCamp US; CEO Matt Mullenweg called it &quot;V0 or Lovable, but specifically for WordPress&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250902/p27#a250902p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

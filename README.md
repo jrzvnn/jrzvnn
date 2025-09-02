@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)
- - 😝 [You underestimate my power](http://9gag.com/gag/axyA96M)
- - 💣 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
- - 😝 [61](http://9gag.com/gag/a2vx7QY)
- - 👉 [Happy ending](http://9gag.com/gag/a5QxENV)<!-- MEMES:END -->
+ - 😝 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
+ - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
+ - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
 
 ---
 

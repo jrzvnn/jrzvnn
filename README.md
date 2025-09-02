@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may be readying the largest case redesign yet for iPhone 17](https://appleinsider.com/articles/25/09/02/apple-may-be-readying-the-largest-case-redesign-yet-for-iphone-17?utm_source=rss)
  - [OpenAI details its plan to add guardrails for teens and people in emotional distress in the next 120 days, including routing conversations to GPT-5-thinking &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250902/p10#a250902p10)
  - [Hungry Worms Could Help Solve Plastic Pollution](https://www.wired.com/story/could-plastic-eating-moth-larvae-be-a-solution-to-environmental-pollution/)
  - [9 Best Electric Cargo Bikes for Families &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-cargo-bikes/)
- - [Filing: Klarna and some shareholders are selling 34.3M shares for $35-$37 each in its IPO, aiming to raise up to $1.27B and giving it an up to ~$14B market cap &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250902/p9#a250902p9)
- - [Onion CEO Ben Collins Hasn&#39;t Given Up on Print—or Buying Infowars](https://www.wired.com/story/uncanny-valley-podcast-big-interview-ben-collins-onion/)<!-- TECH:END -->
+ - [Filing: Klarna and some shareholders are selling 34.3M shares for $35-$37 each in its IPO, aiming to raise up to $1.27B and giving it an up to ~$14B market cap &lpar;Matthew Griffin/Bloomberg&rpar;](http://www.techmeme.com/250902/p9#a250902p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

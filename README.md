@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
- - [Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled](https://www.theverge.com/news/769372/microsoft-perfect-dark-revival-take-two-deal)
  - [iPhone Fold 2026 rumored with lighter Apple Vision Air in 2027](https://appleinsider.com/articles/25/09/02/iphone-fold-2026-rumored-with-lighter-apple-vision-air-in-2027?utm_source=rss)
- - [OpenAI acquires product analytics company Statsig for $1.1B and shuffles executive roles, with Statsig CEO Vijaye Raji becoming OpenAI&#39;s CTO of Applications &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250902/p29#a250902p29)
- - [OpenAI shuffles executive roles, acquires Statsig for $1.1 billion](https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves)<!-- TECH:END -->
+ - [Plaud says it has sold 1M+ of its $159 NotePin AI recording devices since 2023, is profitable, and is on track to bring in $250M in annualized revenue this year &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250902/p30#a250902p30)
+ - [The 50 Best Shows on HBO Max Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Microsoft gave Perfect Dark’s developers a chance to save the game — after it was already canceled](https://www.theverge.com/news/769372/microsoft-perfect-dark-revival-take-two-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

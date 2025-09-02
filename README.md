@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uh oh who let them in?](http://9gag.com/gag/azxBmmZ)
  - 😝 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
+ - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
  - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
- - 😝 [Wow, Brits abroad really are out of control, aren&#39;t they?](http://9gag.com/gag/ajPdmGR)
- - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
+ - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 👉 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)<!-- MEMES:END -->
 
 ---
 

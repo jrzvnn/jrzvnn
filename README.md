@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can charge your Apple Watch, phone, and laptop all at once with this 240W USB-C cable](https://www.theverge.com/news/769123/zens-usb-c-charging-cable-pro-2-3-240w)
  - [iPhone 17 price hikes may be minimal despite U.S. tariffs](https://appleinsider.com/articles/25/09/02/iphone-17-price-hikes-may-be-minimal-despite-us-tariffs?utm_source=rss)
  - [Amazon plans to end the ability for Prime members to share free shipping benefits with individuals outside their household, starting on October 1 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250902/p24#a250902p24)
  - [Why are online puzzle games having a moment?](https://www.theverge.com/podcast/768156/puzzle-games-sudoku-cracking-the-cryptic-project-indigo-marc-levoy)
- - [US procurement records show the Trump administration jettisoned a Biden-era order and reactivated an ICE contract for Tel Aviv-based Paragon&#39;s spyware &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250902/p23#a250902p23)
- - [How to Clean Your Dog&#39;s Ears and Clip Your Cat&#39;s Nails—Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-pet/)<!-- TECH:END -->
+ - [US procurement records show the Trump administration jettisoned a Biden-era order and reactivated an ICE contract for Tel Aviv-based Paragon&#39;s spyware &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250902/p23#a250902p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

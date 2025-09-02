@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 💣 [Welp...](http://9gag.com/gag/azxBM7x)
- - 😝 [Trying my luck with a new hobby and taking pictures of birbs I find in the area. I thought with one was hecking cute and you might like it.](http://9gag.com/gag/a1mx1N6)
- - 👉 [Bro the disrespect](http://9gag.com/gag/arydnM6)<!-- MEMES:END -->
+ - 😝 [She ran like she had warrants](http://9gag.com/gag/amod5bd)
+ - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - 😝 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)
+ - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
 
 ---
 

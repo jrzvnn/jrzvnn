@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 3, #345](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-3-345/#ftag=CAD590a51e)
  - [Ousted Democratic FTC commissioner can return &lpar;again&rpar; for now](https://www.theverge.com/news/769683/fired-democratic-ftc-commissioner-rebecca-slaughter-reinstated)
  - [A Lunar Eclipse and a Blood Moon Are Coming: Here&#39;s How to Stream Them](https://www.cnet.com/science/space/theres-a-lunar-eclipse-coming-but-you-might-not-be-able-to-see-it/#ftag=CAD590a51e)
  - [A six-year US effort to counter Chinese telecom dominance took a hit after the One Big Beautiful Bill cut ~$1B from a program aimed at developing Open RAN tech &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/250902/p36#a250902p36)
- - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
- - [Beats Studio Pro, Solo Buds, and Solo 4 could receive new color options](https://appleinsider.com/articles/25/09/02/beats-studio-pro-solo-buds-and-solo-4-could-receive-new-color-options?utm_source=rss)<!-- TECH:END -->
+ - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

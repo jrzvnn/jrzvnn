@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 😝 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
- - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Based](http://9gag.com/gag/amodPV6)
+ - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
+ - 💣 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
  - 😝 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 ---
 

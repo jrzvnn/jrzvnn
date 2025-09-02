@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stand back and stand by…](https://www.reddit.com/r/funny/comments/1n6xlug/stand_back_and_stand_by/)
- - 😝 [Low IQ](http://9gag.com/gag/aByvmBO)
- - 💣 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 👉 [35th birthday - off work, had a mental breakdown - fiance that id been with for 10 years had a mutual separation. Got to keep the dog. F**k you and see you tomorrow.](http://9gag.com/gag/a7oG1nb)<!-- MEMES:END -->
+ - 😝 [Park Here and Step Out](https://www.reddit.com/r/funny/comments/1n6xulf/park_here_and_step_out/)
+ - 😝 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
+ - 💣 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
+ - 😝 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
+ - 👉 [Lol.](http://9gag.com/gag/aqydjdj)<!-- MEMES:END -->
 
 ---
 

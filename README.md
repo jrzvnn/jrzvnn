@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google must stop exclusive search contracts, keeps Chrome](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
+ - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [US v. Google: a judge bars Google from paying to be the exclusive search engine on devices and browsers but allows it to make payments for product distribution &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250902/p35#a250902p35)
- - [Google and Apple&amp;#8217;s $20 billion search deal survives](https://www.theverge.com/news/769599/google-apple-search-deal-us-doj-antitrust-case-remedies)
- - [Google must stop exclusive contracts with companies like Apple but keeps Chrome](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
- - [Amazon&amp;#8217;s Lens Live AI shops for anything you can see](https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping)
- - [Google gets to keep Chrome, judge rules in search antitrust case](https://www.theverge.com/policy/717087/google-search-remedies-ruling-chrome)<!-- TECH:END -->
+ - [Google and Apple&amp;#8217;s $20 billion search deal survives](https://www.theverge.com/news/769599/google-apple-search-deal-us-doj-antitrust-case-remedies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

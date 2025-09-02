@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`No matter how hot she is, someone out there is sick of dealing with her shit`](http://9gag.com/gag/amodvnV)
  - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 💣 [Furlong](http://9gag.com/gag/aVvd7GK)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [Respect](http://9gag.com/gag/a9yVRGW)<!-- MEMES:END -->
+ - 😝 [Welp...](http://9gag.com/gag/azxBM7x)
+ - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
 
 ---
 

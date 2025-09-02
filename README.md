@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
  - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
- - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
- - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
- - 👉 [Do your job](http://9gag.com/gag/aByvmYz)<!-- MEMES:END -->
+ - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
+ - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
 
 ---
 

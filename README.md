@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
- - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 👉 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)<!-- MEMES:END -->
+ - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
+ - 💣 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 😝 [Finally some clarity](http://9gag.com/gag/an7dg05)
+ - 👉 [Low IQ](http://9gag.com/gag/aByvmBO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Fold 2026 rumored with lighter Apple Vision Air in 2027](https://appleinsider.com/articles/25/09/02/iphone-fold-2026-rumored-with-lighter-apple-vision-air-in-2027?utm_source=rss)
  - [OpenAI acquires product analytics company Statsig for $1.1B and shuffles executive roles, with Statsig CEO Vijaye Raji becoming OpenAI&#39;s CTO of Applications &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250902/p29#a250902p29)
  - [OpenAI shuffles executive roles, acquires Statsig for $1.1 billion](https://www.theverge.com/openai/769325/openai-statsig-acquisition-executive-moves)
  - [Disney agrees to pay $10M to settle an FTC complaint that alleges Disney failed to designate certain YouTube videos as being made for children &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250902/p28#a250902p28)
- - [Sony WH-1000XM5 Deal: $100 Off Sony&#39;s Last-Gen Flagships](https://www.wired.com/story/sony-wh-1000xm5-deal/)
- - [Google is having ‘productive discussions’ with Trump lawyers about his deplatforming suit](https://www.theverge.com/news/769285/google-trump-youtube-ban-january-6th-lawsuit)<!-- TECH:END -->
+ - [Sony WH-1000XM5 Deal: $100 Off Sony’s Last-Gen Flagships](https://www.wired.com/story/sony-wh-1000xm5-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

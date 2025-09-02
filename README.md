@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
- - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
- - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 💣 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)
  - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
- - 👉 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)<!-- MEMES:END -->
+ - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
 
 ---
 

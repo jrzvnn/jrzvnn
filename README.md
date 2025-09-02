@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 😝 [Welp...](http://9gag.com/gag/azxBM7x)
+ - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 💣 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)
  - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 💣 [We don&#39;t hug](http://9gag.com/gag/aMVWYOx)
- - 😝 [Bro the disrespect](http://9gag.com/gag/arydnM6)
- - 👉 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)<!-- MEMES:END -->
+ - 👉 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)<!-- MEMES:END -->
 
 ---
 

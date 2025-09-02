@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s real happiness,](http://9gag.com/gag/awy8oLQ)
- - 😝 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
- - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [You underestimate my power](http://9gag.com/gag/axyA96M)<!-- MEMES:END -->
+ - 😝 [What a legend](http://9gag.com/gag/apRdG7n)
+ - 😝 [Good use of free will](http://9gag.com/gag/avyD57d)
+ - 💣 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 😝 [I hope lizard bro is ok](http://9gag.com/gag/azxBMYB)
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 ---
 

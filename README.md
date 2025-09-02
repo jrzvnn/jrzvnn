@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/amodPV6)
- - 😝 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
- - 💣 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
- - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
- - 👉 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)<!-- MEMES:END -->
+ - 😝 [You start watching due to Gloria but you continue to watch Due to Phil](http://9gag.com/gag/aD2PgL9)
+ - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Trying my luck with a new hobby and taking pictures of birbs I find in the area. I thought with one was hecking cute and you might like it.](http://9gag.com/gag/a1mx1N6)
+ - 👉 [Mental issues](http://9gag.com/gag/ae9dAZv)<!-- MEMES:END -->
 
 ---
 

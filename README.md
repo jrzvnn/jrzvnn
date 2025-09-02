@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Lunar Eclipse and a Blood Moon Are Coming: Here&#39;s How to Stream Them](https://www.cnet.com/science/space/theres-a-lunar-eclipse-coming-but-you-might-not-be-able-to-see-it/#ftag=CAD590a51e)
  - [A six-year US effort to counter Chinese telecom dominance took a hit after the One Big Beautiful Bill cut ~$1B from a program aimed at developing Open RAN tech &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/250902/p36#a250902p36)
  - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
  - [Beats Studio Pro, Solo Buds, and Solo 4 could receive new color options](https://appleinsider.com/articles/25/09/02/beats-studio-pro-solo-buds-and-solo-4-could-receive-new-color-options?utm_source=rss)
- - [Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
- - [US v. Google: all the news from the search antitrust showdown](https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates)<!-- TECH:END -->
+ - [Join Us for WIRED’s “Uncanny Valley” Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

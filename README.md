@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Procurement records show the Trump administration jettisoned a Biden-era order and reactivated an ICE contract for Paragon spyware &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250902/p23#a250902p23)
- - [How to Clean Your Dog&#39;s Ears and Clip Your Cat&#39;s Nails—Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-pet/)
- - [Trade in your old iPhone and grab a 10% cash bonus ahead of the iPhone 17](https://appleinsider.com/articles/25/09/02/trade-in-your-old-iphone-and-grab-a-10-cash-bonus-ahead-of-the-iphone-17?utm_source=rss)
- - [Blockchain-based lender Figure plans to sell 26.3M shares priced between $18 and $20 to raise up to $526.3M in its US IPO, targeting a valuation of ~$4.13B &lpar;Reuters&rpar;](http://www.techmeme.com/250902/p22#a250902p22)
- - [The 71 best Labor Day deals you can still get](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)<!-- TECH:END -->
+ - [iPhone 17 price hikes may be minimal despite U.S. tariffs](https://appleinsider.com/articles/25/09/02/iphone-17-price-hikes-may-be-minimal-despite-us-tariffs?utm_source=rss)
+ - [Amazon plans to end the ability for Prime members to share free shipping benefits with individuals outside their household, starting on October 1 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250902/p24#a250902p24)
+ - [Why are online puzzle games having a moment?](https://www.theverge.com/podcast/768156/puzzle-games-sudoku-cracking-the-cryptic-project-indigo-marc-levoy)
+ - [US procurement records show the Trump administration jettisoned a Biden-era order and reactivated an ICE contract for Tel Aviv-based Paragon&#39;s spyware &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/250902/p23#a250902p23)
+ - [How to Clean Your Dog&#39;s Ears and Clip Your Cat&#39;s Nails—Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-your-pet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

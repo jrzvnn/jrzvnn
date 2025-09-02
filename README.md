@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Varonis Systems agrees to acquire email security company SlashNext for up to $150M, including retention awards, after buying database company Cyral for ~$25M &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250902/p16#a250902p16)
  - [My favorite cooking gadget is getting a big upgrade](https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date)
  - [TSMC says the US revoked its authorization to ship gear to its main Chinese chipmaking base in Nanjing, after the US revoked Samsung&#39;s and SK Hynix&#39;s waivers &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p15#a250902p15)
  - [AirPods live translation may not arrive for the iOS 26 launch](https://appleinsider.com/articles/25/09/02/airpods-live-translation-may-not-arrive-for-the-ios-26-launch?utm_source=rss)
- - [The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance](https://www.wired.com/story/final-fantasy-tactics-refresh/)
- - [Dolby launches Dolby Vision 2, adding AI-powered Content Intelligence and Authentic Motion, first on Hisense TVs, over 10 years after launching Dolby Vision &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250902/p14#a250902p14)<!-- TECH:END -->
+ - [The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance](https://www.wired.com/story/final-fantasy-tactics-refresh/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

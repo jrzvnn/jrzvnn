@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 😝 [My brother told me that I should post this here. So here it is.](https://www.reddit.com/r/funny/comments/1n6zney/my_brother_told_me_that_i_should_post_this_here/)
+ - 😝 [Only in Australia - Car with NO REGO license plates. &lpar;Rego is what the Aussies call Vehicle Registration - it&#39;s illegal to drive with no rego&rpar;](https://www.reddit.com/r/funny/comments/1n6zm0p/only_in_australia_car_with_no_rego_license_plates/)
+ - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
  - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - 💣 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 😝 [Finally some clarity](http://9gag.com/gag/an7dg05)
- - 👉 [Low IQ](http://9gag.com/gag/aByvmBO)<!-- MEMES:END -->
+ - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---
 

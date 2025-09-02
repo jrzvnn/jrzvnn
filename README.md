@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meraki Espresso Machine Review &lpar;2025&rpar;: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
- - [Meet the Guys Betting Big on AI Gambling Agents](https://www.wired.com/story/sports-betting-crypto-artificial-intelligence-agents/)
- - [Google plans to update Play Games on Android to show stats, achievements, and social features in most regions on September 23 and the EU and the UK on October 1 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250902/p6#a250902p6)
- - [A profile of Jumia, hailed as the &quot;Amazon of Africa&quot;, as CEO Francis Dufay tries to hit profitability by 2027 after scaling down its food delivery business &lpar;Aanu Adeoye/Financial Times&rpar;](http://www.techmeme.com/250902/p5#a250902p5)
- - [Google Play Games is about to show people what you play](https://www.theverge.com/news/768886/google-play-games-update-player-profile-stats)<!-- TECH:END -->
+ - [An analysis of Grok&#39;s responses to 41 political questions in May and July shows it shifted to the right on 50%+ of them, often aligning with Elon Musk&#39;s views &lpar;New York Times&rpar;](http://www.techmeme.com/250902/p8#a250902p8)
+ - [Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries](https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/)
+ - [IFR: Chinese factories install ~280K industrial robots every year, or 50% of the global total, helping China boost its global exports; ~50% are locally made &lpar;Financial Times&rpar;](http://www.techmeme.com/250902/p7#a250902p7)
+ - [No, Trump Can’t Legally Federalize US Elections](https://www.wired.com/story/trump-federalize-election-unconstitutional/)
+ - [Meraki Espresso Machine Review &lpar;2025&rpar;: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

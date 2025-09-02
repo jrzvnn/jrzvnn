@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blockchain-based lender Figure plans to sell 26.3M shares priced between $18 and $20 to raise up to $526.3M in its US IPO, targeting a valuation of ~$4.13B &lpar;Reuters&rpar;](http://www.techmeme.com/250902/p22#a250902p22)
+ - [The 71 best Labor Day deals you can still get](https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025)
+ - [The Backbone Pro controller is $20 off for a limited time](https://www.theverge.com/tech/768973/backbone-pro-bluetooth-gaming-controller-intel-battlefield-6-deal-sale)
  - [Source: Mexico City-based Kapital, which offers financial visibility tools to SMBs, raised an $86M Series C led by Tribe Capital at a ~$1.3B valuation &lpar;Matthew Monks/Bloomberg&rpar;](http://www.techmeme.com/250902/p21#a250902p21)
- - [Amazon ends shared Prime free shipping outside your home](https://www.theverge.com/news/769051/amazon-prime-free-shipping-benefit-sharing-ending)
- - [Winklevoss twins&#39; Gemini plans to sell 16.67M shares at a price range of $17-$19 in its US IPO, seeking to raise $317M and valuing the crypto exchange at $2.2B &lpar;CoinDesk&rpar;](http://www.techmeme.com/250902/p20#a250902p20)
- - [Sources: the EU delayed a planned September 1 fine against Google over ad tech practices, amid fears it could provoke Trump and unravel progress on trade talks &lpar;Bloomberg&rpar;](http://www.techmeme.com/250902/p19#a250902p19)
- - [Do You Need a Satellite Messenger?](https://www.wired.com/story/do-you-need-a-satellite-messenger/)<!-- TECH:END -->
+ - [Amazon ends shared Prime free shipping outside your home](https://www.theverge.com/news/769051/amazon-prime-free-shipping-benefit-sharing-ending)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

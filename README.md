@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a16z&#39;s Speedrun, a YC-like accelerator targeting a more creative demographic; a16z invested $180M into 150 Speedrun companies over the last 18 months &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250902/p11#a250902p11)
- - [Apple may be readying the largest case redesign yet for iPhone 17](https://appleinsider.com/articles/25/09/02/apple-may-be-readying-the-largest-case-redesign-yet-for-iphone-17?utm_source=rss)
- - [OpenAI details its plan to add guardrails for teens and people in emotional distress in the next 120 days, including routing conversations to GPT-5-thinking &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250902/p10#a250902p10)
- - [Hungry Worms Could Help Solve Plastic Pollution](https://www.wired.com/story/could-plastic-eating-moth-larvae-be-a-solution-to-environmental-pollution/)
- - [9 Best Electric Cargo Bikes for Families &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-cargo-bikes/)<!-- TECH:END -->
+ - [Dolby Vision 2 goes beyond HDR with more AI and &amp;#8216;authentic motion&amp;#8217; smoothing](https://www.theverge.com/news/768842/dolby-vision-2-launch-content-intelligence-tone-mapping)
+ - [France&#39;s unnecessary iPhone 12 RF patch is spreading across Europe](https://appleinsider.com/articles/25/09/02/frances-unnecessary-iphone-12-rf-patch-is-spreading-across-europe?utm_source=rss)
+ - [Microsoft says it agreed to give the US GSA $6B+ in potential savings on Office, Azure, 365, and other tools over three years, including $3.1B in the first year &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250902/p13#a250902p13)
+ - [Internal data: Amazon registered 5.4M US Prime sign-ups over the 21-day run-up to Prime Day and the four-day event, ~116K less than 2024 and 106K below its goal &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250902/p12#a250902p12)
+ - [A look at a16z&#39;s Speedrun, a YC-like accelerator targeting a more creative demographic; a16z invested $180M into 150 Speedrun companies over the last 18 months &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250902/p11#a250902p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

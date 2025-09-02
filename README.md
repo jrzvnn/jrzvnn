@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good use of free will](http://9gag.com/gag/avyD57d)
- - 😝 [What a legend](http://9gag.com/gag/apRdG7n)
- - 💣 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)
- - 😝 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
- - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
+ - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
+ - 😝 [I hope your okay](http://9gag.com/gag/adBdVj2)
+ - 👉 [Do your job](http://9gag.com/gag/aByvmYz)<!-- MEMES:END -->
 
 ---
 

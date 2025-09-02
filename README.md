@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
- - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [Bro the disrespect](http://9gag.com/gag/arydnM6)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - 💣 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
+ - 👉 [Genniousess](http://9gag.com/gag/adBdVRN)<!-- MEMES:END -->
 
 ---
 

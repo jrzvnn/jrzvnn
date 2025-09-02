@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He thought he was tough](http://9gag.com/gag/aLnbpAz)
- - 😝 [The amount of women who think we have any say in the matter\u2026](http://9gag.com/gag/a87n1de)
- - 💣 [Lol.](http://9gag.com/gag/aqydjdj)
- - 😝 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
- - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
+ - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - 😝 [Bro the disrespect](http://9gag.com/gag/arydnM6)
+ - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
 
 ---
 

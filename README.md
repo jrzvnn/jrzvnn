@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Phasecraft, which develops algorithms for quantum computers, raised a $34M Series B co-led by Plural, Playground Global, and Novo Holdings &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/250902/p1#a250902p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-2/#ftag=CAD590a51e)
  - [Interview with Lovable CEO Anton Osika on competition, staying in Europe, and more; the company now has 2.3M+ active users, including 180K paying subscribers &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/250901/p16#a250901p16)
  - [LaserPecker LP5 review: Expensive but solid laser engraving](https://appleinsider.com/articles/25/09/02/laserpecker-lp5-review-expensive-but-solid-laser-engraving?utm_source=rss)
- - [TrendForce: global chip foundry revenue surged 14.6% QoQ to $41.7B in Q2, with TSMC securing a 70% market share, followed by Samsung with 7% and SMIC with 5% &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250901/p15#a250901p15)
- - [Tokyo-based LayerX, which uses AI to help enterprises automate back-office workload, raised a $100M Series B led by TCV, taking its total funding to $192.2M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250901/p14#a250901p14)<!-- TECH:END -->
+ - [TrendForce: global chip foundry revenue surged 14.6% QoQ to $41.7B in Q2, with TSMC securing a 70% market share, followed by Samsung with 7% and SMIC with 5% &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250901/p15#a250901p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That `i know the truth` person](http://9gag.com/gag/arydoDp)
- - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
- - 💣 [Every single time](http://9gag.com/gag/adBdVLj)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [Welp...](http://9gag.com/gag/azxBM7x)<!-- MEMES:END -->
+ - 😝 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 😝 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)
+ - 💣 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
+ - 😝 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
+ - 👉 [Yes singing, nothing else](http://9gag.com/gag/aByv0bZ)<!-- MEMES:END -->
 
 ---
 

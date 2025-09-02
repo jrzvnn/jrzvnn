@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
- - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
- - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Pour me a beer mate](http://9gag.com/gag/a6ZxNgq)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 😝 [What a legend](http://9gag.com/gag/apRdG7n)
+ - 😝 [The generation traumatized by holding a flashlight for their dad will soon come to an end.](http://9gag.com/gag/an7d4L0)
+ - 💣 [Good use of free will](http://9gag.com/gag/avyD57d)
+ - 😝 [Now tell me how your day\u2019s been \u2026](http://9gag.com/gag/aGyodPK)
+ - 👉 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)<!-- MEMES:END -->
 
 ---
 

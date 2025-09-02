@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respect](http://9gag.com/gag/a9yVRGW)
- - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
- - 💣 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)
- - 😝 [History lesson](http://9gag.com/gag/an7d5qV)
- - 👉 [Tourist scam](http://9gag.com/gag/a87nGGe)<!-- MEMES:END -->
+ - 😝 [Do your job](http://9gag.com/gag/aByvmYz)
+ - 😝 [Sex for rent? I&#39;m pretty sure there is already a name for that.](http://9gag.com/gag/aMVWYP6)
+ - 💣 [Respect](http://9gag.com/gag/a9yVRGW)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 👉 [Never trust, never believe, never commit](http://9gag.com/gag/awy8oD4)<!-- MEMES:END -->
 
 ---
 

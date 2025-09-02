@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LaserPecker LP5 review: Expensive but solid laser engraving](https://appleinsider.com/articles/25/09/02/laserpecker-lp5-review-expensive-but-solid-laser-engraving?utm_source=rss)
+ - [TrendForce: global chip foundry revenue surged 14.6% QoQ to $41.7B in Q2, with TSMC securing a 70% market share, followed by Samsung with 7% and SMIC with 5% &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250901/p15#a250901p15)
  - [Tokyo-based LayerX, which uses AI to help enterprises automate back-office workload, raised a $100M Series B led by TCV, taking its total funding to $192.2M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250901/p14#a250901p14)
  - [WLFI, the token of the Trump family&#39;s World Liberty Financial, falls 25% to about $0.21 on its first day of trading, giving it a market cap of around $6B &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250901/p13#a250901p13)
- - [Alibaba&#39;s shares jumped 19% in Hong Kong on Monday, following strong quarterly results from its cloud computing unit and reports of its new AI chip on Friday &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250901/p12#a250901p12)
- - [The best Labor Day TV sales](https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale)
- - [The 28 best Labor Day deals you still can grab for $100 or less](https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
+ - [Alibaba&#39;s shares jumped 19% in Hong Kong on Monday, following strong quarterly results from its cloud computing unit and reports of its new AI chip on Friday &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/250901/p12#a250901p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

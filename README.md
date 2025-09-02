@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That `i know the truth` person](http://9gag.com/gag/arydoDp)
  - 😝 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 😝 [Every single time](http://9gag.com/gag/adBdVLj)
- - 💣 [Osaka, today](http://9gag.com/gag/a9yVRyj)
+ - 💣 [Do your job](http://9gag.com/gag/aByvmYz)
  - 😝 [Someone give this man a medal, what a hero](http://9gag.com/gag/aQzroQq)
- - 👉 [Do your job](http://9gag.com/gag/aByvmYz)<!-- MEMES:END -->
+ - 👉 [History lesson](http://9gag.com/gag/an7d5qV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI CPO Kevin Weil will become VP of a new group called OpenAI for Science to build an &quot;AI-powered platform that accelerates scientific discovery&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250902/p32#a250902p32)
+ - [Four more employees depart Apple, join other AI efforts](https://appleinsider.com/articles/25/09/02/four-more-employees-depart-apple-join-other-ai-efforts?utm_source=rss)
+ - [How the Democrats keep copying the MAGA influencer playbook &lpar;and failing&rpar;](https://www.theverge.com/regulator-newsletter/769232/democrats-chorus-influencer-program-regulator)
  - [Trump is moving Space Command to Alabama](https://www.theverge.com/news/769475/trump-space-command-alabama-headquarters)
- - [The tariff apocalypse is here](https://www.theverge.com/analysis/769427/trump-tariffs-online-shopping-shipping-suspended-de-minimis)
- - [iPhone Fold 2026 rumored with lighter Apple Vision Air in 2027](https://appleinsider.com/articles/25/09/02/iphone-fold-2026-rumored-with-lighter-apple-vision-air-in-2027?utm_source=rss)
- - [Apple&#39;s lead AI researcher for robotics, Jian Zhang, has left for Meta&#39;s Robotics Studio; sources: three more researchers left Apple&#39;s Foundation Models team &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250902/p31#a250902p31)
- - [Plaud says it has sold 1M+ of its $159 NotePin AI recording devices since 2023, is profitable, and is on track to bring in $250M in annualized revenue this year &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250902/p30#a250902p30)<!-- TECH:END -->
+ - [The tariff apocalypse is here](https://www.theverge.com/analysis/769427/trump-tariffs-online-shopping-shipping-suspended-de-minimis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

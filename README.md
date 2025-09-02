@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic is now valued at $183 billion](https://www.theverge.com/anthropic/769179/anthropic-is-now-valued-at-183-billion)
  - [OpenAI sent subpoenas to AI governance nonprofits Encode and CANI, alleging they are part of a conspiracy involving Elon Musk, Mark Zuckerberg, and others &lpar;Emily Shugerman/The San Francisco Standard&rpar;](http://www.techmeme.com/250902/p26#a250902p26)
  - [Anthropic raised a $13B Series F led by Iconiq, Fidelity, and Lightspeed at a $183B valuation, up from $61.5B in March, and reports a $5B+ run-rate revenue &lpar;Anthropic&rpar;](http://www.techmeme.com/250902/p25#a250902p25)
  - [A Call of Duty movie is coming](https://www.theverge.com/news/769150/call-of-duty-movie-paramount-activision)
- - [How to Make Light Roast Espresso, According to Chemists &lpar;2025&rpar;](https://www.wired.com/story/how-i-learned-to-stop-worrying-and-love-light-roast-espresso/)
- - [You can charge your Apple Watch, phone, and laptop all at once with this 240W USB-C cable](https://www.theverge.com/news/769123/zens-usb-c-charging-cable-pro-2-3-240w)<!-- TECH:END -->
+ - [How to Make Light Roast Espresso, According to Chemists &lpar;2025&rpar;](https://www.wired.com/story/how-i-learned-to-stop-worrying-and-love-light-roast-espresso/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

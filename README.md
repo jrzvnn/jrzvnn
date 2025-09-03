@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)
+ - 😝 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 💣 [Furlong](http://9gag.com/gag/aVvd7GK)
  - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 💣 [Hard facts](http://9gag.com/gag/adBdgpZ)
- - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
  - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---

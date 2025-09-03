@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
  - 😝 [Going to chill with the homies for an hour](http://9gag.com/gag/amodP6j)
- - 💣 [Almost a hug from a stingray](http://9gag.com/gag/aLnbpXV)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
+ - 😝 [Some people just never learn, bless her heart](http://9gag.com/gag/axyAMmM)
+ - 💣 [Genniousess](http://9gag.com/gag/adBdVRN)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
- - 😝 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
- - 💣 [Lol.](http://9gag.com/gag/aqydjdj)
- - 😝 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
- - 👉 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)<!-- MEMES:END -->
+ - 😝 [Low IQ](http://9gag.com/gag/aByvmBO)
+ - 😝 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)
+ - 💣 [IYKYK](http://9gag.com/gag/aD2PdYx)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 👉 [I need this guy for so many people](http://9gag.com/gag/ae9dD0m)<!-- MEMES:END -->
 
 ---
 

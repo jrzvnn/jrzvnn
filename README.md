@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DuckDuckGo CEO Gabriel Weinberg, Senator Amy Klobuchar, News / Media Alliance CEO Danielle Coffey, and others criticize the US v. Google ruling as too lenient &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250903/p12#a250903p12)
  - [Sources: Nintendo repeatedly pushed back Switch 2 launch plans after game designers asked for more time, believing a focus on gameplay trumped advanced hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p11#a250903p11)
  - [Nvidia acquires Solver, a three-year-old AI coding agent startup formerly known as Laredo Labs, which had raised $8M from Radical Ventures and other investors &lpar;The Information&rpar;](http://www.techmeme.com/250903/p10#a250903p10)
  - [The PartyBox 720 is JBL’s largest battery-powered party speaker](https://www.theverge.com/news/768543/jbl-partybox-720-grip-boombox-4-price-availability)
- - [Acer gives its 18-inch Predator Helios gaming laptop a 4K screen and top GPU](https://www.theverge.com/news/769243/acer-gives-its-18-inch-predator-helios-gaming-laptop-a-4k-screen-and-top-gpu)
- - [Acer’s new Amadana and CE270 monitors are unusually, strikingly stylish](https://www.theverge.com/desktop-computers/769759/acer-amadana-ce270u-z-monitors-design)<!-- TECH:END -->
+ - [Acer gives its 18-inch Predator Helios gaming laptop a 4K screen and top GPU](https://www.theverge.com/news/769243/acer-gives-its-18-inch-predator-helios-gaming-laptop-a-4k-screen-and-top-gpu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

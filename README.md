@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral updates Le Chat with a memory feature for chats and an MCP connector directory supporting over 20 enterprise platforms, both available on its free plan &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250903/p31#a250903p31)
- - [Scale AI still exists and it’s suing an ex-employee over corporate espionage](https://www.theverge.com/ai-artificial-intelligence/770410/scale-ai-corporate-espionage-data-labeling-mercor-meta)
- - [A PlayStation game is now the best-selling game on Xbox](https://www.theverge.com/news/770311/playstation-game-helldivers-2-best-selling-game-on-xbox)
- - [Pornhub will only have to pay $5 million to settle CSAM, exploitation allegations](https://www.theverge.com/news/770388/pornhub-ftc-settlement-csam-exploitation)
- - [Mophie adds wireless charging to the AirPods Max with a clever new stand](https://www.theverge.com/news/770322/mophie-airpods-max-headphones-wireless-charging-stand)<!-- TECH:END -->
+ - [Scale AI sues a former employee and Mercor, his current employer and one of Scale&#39;s key competitors, for allegedly stealing more than 100 confidential documents &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250903/p33#a250903p33)
+ - [Google Pixel 8 and newer models can now stream audio to multiple headphones at once with expanded Bluetooth LE Audio and Auracast support &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250903/p32#a250903p32)
+ - [The Best Bluetooth Speaker Is $20 Off](https://www.wired.com/story/jbl-flip-7-speaker-deal/)
+ - [Anker&amp;#8217;s power bank with dual USB-C retractable cables is a great deal at $25 off](https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale)
+ - [Bank of America hikes AAPL target to $260 following Google search ruling](https://appleinsider.com/articles/25/09/03/bank-of-america-hikes-aapl-target-to-260-following-google-search-ruling?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

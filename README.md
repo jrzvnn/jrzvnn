@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tried Jsaux’s new anti-glare Switch 2 screen protector, and it revealed a glaring bug](https://www.theverge.com/games/770667/i-tried-jsauxs-new-anti-glare-switch-2-screen-protector-and-it-revealed-a-glaring-bug)
+ - [HPE reports Q3 revenue up 19% YoY to $9.1B, Server revenue up 16% YoY to $4.9B, and Q4 guidance below estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250903/p40#a250903p40)
  - [Switzerland releases its own AI model trained on public data](https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus)
  - [Apple to upgrade Siri with web search powered by Apple Intelligence](https://appleinsider.com/articles/25/09/03/apple-to-upgrade-siri-with-web-search-powered-by-apple-intelligence?utm_source=rss)
- - [Salesforce reports Q2 revenue up 10% YoY to $10.2B and forecasts Q3 revenue below estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250903/p39#a250903p39)
- - [Sources: Apple plans an AI search tool, World Knowledge Answers, for a spring 2026 Siri revamp; Apple and Google have agreed to test a Google AI model for Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250903/p38#a250903p38)
- - [This &#39;leaked&#39; factory iPhone 17 Pro Max video is probably a fake](https://appleinsider.com/articles/25/09/03/this-leaked-factory-iphone-17-pro-max-video-is-probably-a-fake?utm_source=rss)<!-- TECH:END -->
+ - [Salesforce reports Q2 revenue up 10% YoY to $10.2B and forecasts Q3 revenue below estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250903/p39#a250903p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

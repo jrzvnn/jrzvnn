@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Paper doesn&amp;#8217;t hit its stride until it&amp;#8217;s out of the office](https://www.theverge.com/tv-reviews/769607/peacock-the-paper-review)
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Google&amp;#8217;s best-ever 4K streamer is within $1 of its lowest price](https://www.theverge.com/tech/769978/google-tv-streamer-4k-deal-sale)
  - [Best Smokeless Firepits &lpar;2025&rpar;, Tested for Fun and Fresh Air](https://www.wired.com/gallery/best-smokeless-fire-pit/)
- - [Wall Street analysts bullish on Apple &amp; Google search deal remaining intact](https://appleinsider.com/articles/25/09/03/wall-street-analysts-bullish-on-apple-google-search-deal-remaining-intact?utm_source=rss)
- - [Why I love my Kenmore canister vacuum](https://www.theverge.com/tech/769451/why-i-love-my-kenmore-canister-vacuum)
- - [A profile of Flock Safety, which operates 80K AI surveillance cameras across the US and hit a $7.5B valuation in March 2025, as it expands into US-made drones &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250903/p27#a250903p27)
- - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
+ - [Wall Street analysts bullish on Apple &amp; Google search deal remaining intact](https://appleinsider.com/articles/25/09/03/wall-street-analysts-bullish-on-apple-google-search-deal-remaining-intact?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

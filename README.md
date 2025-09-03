@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shares surge after federal Google search deal ruling](https://appleinsider.com/articles/25/09/03/apple-shares-surge-after-federal-google-search-deal-ruling?utm_source=rss)
  - [Garmin’s Fenix 8 Pro series finally lets you leave your phone at home — sort of](https://www.theverge.com/news/770034/garmin-fenix-8-pro-satellite-lte-microled-price)
  - [Anti-piracy organization ACE says a joint operation with Egyptian law enforcement shut down Streameast, the world&#39;s largest illegal sports streaming platform &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/250903/p26#a250903p26)
  - [iPhone 17 Pro will be brighter than iPhone 16 Pro, and have better battery life](https://appleinsider.com/articles/25/09/03/iphone-17-pro-will-be-brighter-than-iphone-16-pro-and-have-better-battery-life?utm_source=rss)
- - [Israeli cybersecurity company Cato Networks acquires Aim Security, sources say for ~$350M, its first acquisition, says it passed $300M in ARR, and raised $50M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250903/p25#a250903p25)
- - [You.com, which pivoted from AI search to enterprise AI tools, raised $100M led by Cox Enterprises at a $1.5B valuation, after a $50M Series B in September 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250903/p24#a250903p24)<!-- TECH:END -->
+ - [Israeli cybersecurity company Cato Networks acquires Aim Security, sources say for ~$350M, its first acquisition, says it passed $300M in ARR, and raised $50M &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/250903/p25#a250903p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

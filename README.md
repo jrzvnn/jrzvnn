@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/amodPV6)
- - 😝 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
- - 💣 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
- - 😝 [The order of these posts on my FB](https://www.reddit.com/r/funny/comments/1n755ey/the_order_of_these_posts_on_my_fb/)
- - 👉 [Lol.](http://9gag.com/gag/aqydjdj)<!-- MEMES:END -->
+ - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - 😝 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
+ - 💣 [...](http://9gag.com/gag/aRByXV2)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 👉 [Going to chill with the homies for an hour](http://9gag.com/gag/amodP6j)<!-- MEMES:END -->
 
 ---
 

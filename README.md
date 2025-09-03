@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dolby Atmos FlexConnect Lets You Place Speakers Anywhere](https://www.wired.com/story/dolby-atmost-flex-connect-tcl/)
- - [ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook](https://www.wired.com/review/remarkable-paper-pro-move/)
- - [Remarkable’s new digital notepad is smaller than a paperback](https://www.theverge.com/news/769005/remarkable-paper-pro-move-e-note-notebook-stylus-tablet-e-ink)
- - [AI search engine startup Exa Labs raised an $85M Series B led by Benchmark at a $700M valuation, up 10x on its 2024 Series A, and plans to grow its GPU cluster &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p18#a250903p18)
- - [Ninth developer betas for iOS 26, macOS Tahoe 26 hit devices](https://appleinsider.com/articles/25/09/02/apple-outs-its-ninth-developer-betas-for-ios-26-macos-tahoe-26?utm_source=rss)<!-- TECH:END -->
+ - [The UK’s largest energy supplier has created its own EV charger](https://www.theverge.com/news/769962/octopus-energy-octopus-charge-ev-charger)
+ - [Microsoft&amp;#8217;s PowerToys are about to add two big missing Windows features](https://www.theverge.com/news/770015/microsoft-windows-11-dark-light-theme-automatic-switch-powertoy)
+ - [Utila, which is building an &quot;operating system for stablecoins&quot;, raised a $22M Series A extension led by Red Dot, taking its total funding to $51M+ &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250903/p21#a250903p21)
+ - [HappyRobot, which uses AI to automate freight operator communications, raised a $44M Series B led by Base10 Partners, a source says at a ~$500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250903/p20#a250903p20)
+ - [Finnish quantum computing startup IQM raised a $320M Series B led by Ten Eleven at a $1B+ valuation, and plans a US expansion and to scale its data centers &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250903/p19#a250903p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

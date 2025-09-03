@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Puffy Cloud Mattress Review: Soft but Supportive](https://www.wired.com/review/puffy-cloud-mattress/)
  - [Beats Solo 4 launches special Ruby Red JENNIE edition](https://appleinsider.com/articles/25/09/03/beats-solo-4-launches-special-ruby-red-jennie-edition?utm_source=rss)
  - [A profile of Ashish Vaswani, lead author of Attention Is All You Need and Essential AI co-founder, who says the transformer-based AI boom is stifling innovation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/250903/p13#a250903p13)
- - [The Baby Died. Whose Fault Is It?](https://www.wired.com/story/the-baby-died-whose-fault-is-it-surrogate-pregnancy/)
- - [DuckDuckGo CEO Gabriel Weinberg, Senator Amy Klobuchar, News / Media Alliance CEO Danielle Coffey, and others criticize the US v. Google ruling as too lenient &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250903/p12#a250903p12)<!-- TECH:END -->
+ - [You Don&#39;t Need iOS 26 to Do Math in Your iPhone&#39;s Messages App. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-dont-need-ios-26-to-do-math-in-your-iphones-messages-app-heres-how/#ftag=CAD590a51e)
+ - [The Baby Died. Whose Fault Is It?](https://www.wired.com/story/the-baby-died-whose-fault-is-it-surrogate-pregnancy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
- - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 💣 [IYKYK](http://9gag.com/gag/aD2PdYx)
- - 😝 [Most of my colleagues .](http://9gag.com/gag/arydMMX)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 😝 [Going to chill with the homies for an hour](http://9gag.com/gag/amodP6j)
+ - 💣 [Almost a hug from a stingray](http://9gag.com/gag/aLnbpXV)
+ - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
 
 ---
 

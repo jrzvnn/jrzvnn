@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 💣 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
- - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - 😝 [Hard facts](http://9gag.com/gag/adBdgpZ)
+ - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 👉 [Genniousess](http://9gag.com/gag/adBdVRN)<!-- MEMES:END -->
 
 ---
 

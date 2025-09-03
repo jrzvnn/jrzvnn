@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [5 armed police arrest Comedian for a tweet.](http://9gag.com/gag/ajPdVK1)
- - 😝 [I like it](http://9gag.com/gag/arydmpX)
- - 💣 [I over dicked it](http://9gag.com/gag/aRByEej)
- - 😝 [What does it taste?](http://9gag.com/gag/aE0Qqjn)
- - 👉 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)<!-- MEMES:END -->
+ - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Puffy Cloud Mattress Review: Soft but Supportive](https://www.wired.com/review/puffy-cloud-mattress/)
  - [Beats Solo 4 launches special Ruby Red JENNIE edition](https://appleinsider.com/articles/25/09/03/beats-solo-4-launches-special-ruby-red-jennie-edition?utm_source=rss)
  - [A profile of Ashish Vaswani, lead author of Attention Is All You Need and Essential AI co-founder, who says the transformer-based AI boom is stifling innovation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/250903/p13#a250903p13)
  - [The Baby Died. Whose Fault Is It?](https://www.wired.com/story/the-baby-died-whose-fault-is-it-surrogate-pregnancy/)
- - [DuckDuckGo CEO Gabriel Weinberg, Senator Amy Klobuchar, News / Media Alliance CEO Danielle Coffey, and others criticize the US v. Google ruling as too lenient &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250903/p12#a250903p12)
- - [Sources: Nintendo repeatedly pushed back Switch 2 launch plans after game designers asked for more time, believing a focus on gameplay trumped advanced hardware &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p11#a250903p11)<!-- TECH:END -->
+ - [DuckDuckGo CEO Gabriel Weinberg, Senator Amy Klobuchar, News / Media Alliance CEO Danielle Coffey, and others criticize the US v. Google ruling as too lenient &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250903/p12#a250903p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

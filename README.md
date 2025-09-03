@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My brother told me that I should post this here. So here it is.](https://www.reddit.com/r/funny/comments/1n6zney/my_brother_told_me_that_i_should_post_this_here/)
- - 😝 [Only in Australia - Car with NO REGO license plates. &lpar;Rego is what the Aussies call Vehicle Registration - it&#39;s illegal to drive with no rego&rpar;](https://www.reddit.com/r/funny/comments/1n6zm0p/only_in_australia_car_with_no_rego_license_plates/)
- - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 😝 [Round 4 is a doozy](http://9gag.com/gag/ae9dD4O)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 😝 [And he took the Batmobile](http://9gag.com/gag/aGyopgX)
+ - 😝 [Rest in peace little angel &lpar;after 13 years&rpar;](http://9gag.com/gag/aRByX3A)
+ - 💣 [Lol.](http://9gag.com/gag/aqydjdj)
+ - 😝 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
+ - 👉 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)<!-- MEMES:END -->
 
 ---
 

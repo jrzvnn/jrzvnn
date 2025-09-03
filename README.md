@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 💣 [Furlong](http://9gag.com/gag/aVvd7GK)
- - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
+ - 😝 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 💣 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 

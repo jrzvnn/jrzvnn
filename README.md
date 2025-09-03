@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How &#39;Hollow Knight: Silksong&#39; Fans Turned Waiting for Its Release Into a Game](https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/)
  - [007 First Light looks like a hit, man](https://www.theverge.com/news/770509/007-first-light-state-of-play-september-2025)
  - [Sources: xAI CFO Mike Liberatore left the company around the end of July, after joining in April &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250903/p35#a250903p35)
  - [Google rolls out new Android and Pixel features: Material 3 Expressive design for Pixel 6 and newer models, on-wrist navigation for the Pixel Watch, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250903/p34#a250903p34)
- - [Scale AI sues a former employee and Mercor, his current employer and one of Scale&#39;s key competitors, for allegedly stealing more than 100 confidential documents &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250903/p33#a250903p33)
- - [Google Pixel 8 and newer models can now stream audio to multiple headphones at once with expanded Bluetooth LE Audio and Auracast support &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250903/p32#a250903p32)<!-- TECH:END -->
+ - [Scale AI sues a former employee and Mercor, his current employer and one of Scale&#39;s key competitors, for allegedly stealing more than 100 confidential documents &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250903/p33#a250903p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

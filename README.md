@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)
- - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
- - 💣 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 💣 [Hard facts](http://9gag.com/gag/adBdgpZ)
  - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
 
 ---
 

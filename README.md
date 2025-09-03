@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Major Amazon leak spoils the Philips Hue party](https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party)
+ - [After 15 years and 396 updates, Instagram is on the iPad](https://appleinsider.com/articles/25/09/03/after-15-years-and-396-updates-instagram-is-on-the-ipad?utm_source=rss)
+ - [Amazon confirms Sophie Turner as Lara Croft in live-action Tomb Raider series](https://www.theverge.com/news/770357/amazon-lara-croft-tomb-raider-sophie-turner-series)
  - [Today&#39;s top iPad deals offer prices from $299 &amp; discounts up to $250 off](https://appleinsider.com/articles/25/09/03/todays-top-ipad-deals-offer-prices-from-299-discounts-up-to-250-off?utm_source=rss)
- - [Bank of America hikes AAPL target to $260 following Google search ruling](https://appleinsider.com/articles/25/09/03/bank-of-america-hikes-aapl-target-to-260-following-google-search-ruling?utm_source=rss)
- - [Etherealize, which develops products and infrastructure for financial institutions on Ethereum, raised $40M in a round co‑led by Electric Capital and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250903/p30#a250903p30)
- - [Roblox experiences are getting ESRB age ratings](https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation)
- - [Sports streaming hub Streameast ‘shut down’ in sting](https://www.theverge.com/news/770275/sports-streaming-hub-streameast-shut-down-in-sting)<!-- TECH:END -->
+ - [Bank of America hikes AAPL target to $260 following Google search ruling](https://appleinsider.com/articles/25/09/03/bank-of-america-hikes-aapl-target-to-260-following-google-search-ruling?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

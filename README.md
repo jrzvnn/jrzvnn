@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - 😝 [When you forget you&#39;re not online](http://9gag.com/gag/apRd9AD)
- - 💣 [Life is beautiful](http://9gag.com/gag/azxBepq)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 😝 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 💣 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
 
 ---
 

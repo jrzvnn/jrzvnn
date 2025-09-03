@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ninth developer betas for iOS 26, macOS Tahoe 26 hit devices](https://appleinsider.com/articles/25/09/02/apple-outs-its-ninth-developer-betas-for-ios-26-macos-tahoe-26?utm_source=rss)
- - [Study: Character.AI chatbots of Timothée Chalamet, Chappell Roan, and Patrick Mahomes chatted inappropriately with teen accounts on topics like sex and drugs &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/250903/p17#a250903p17)
- - [Acer unveils the $3,999+ Veriton GN100 AI Mini Workstation with a Nvidia GB10 Grace Blackwell Superchip to run AI models locally, its first Mini AI workstation &lpar;VideoCardz.com&rpar;](http://www.techmeme.com/250903/p16#a250903p16)
- - [What Is a Passkey? Here’s How to Set Up and Use Them &lpar;2025&rpar;](https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/)
- - [Polar launches the $199 Polar Loop, a screen-free fitness band to track activity, sleep, and more without a subscription, in three colors, shipping September 10 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250903/p15#a250903p15)<!-- TECH:END -->
+ - [Dolby Atmos FlexConnect Lets You Place Speakers Anywhere](https://www.wired.com/story/dolby-atmost-flex-connect-tcl/)
+ - [ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook](https://www.wired.com/review/remarkable-paper-pro-move/)
+ - [Remarkable’s new digital notepad is smaller than a paperback](https://www.theverge.com/news/769005/remarkable-paper-pro-move-e-note-notebook-stylus-tablet-e-ink)
+ - [AI search engine startup Exa Labs raised an $85M Series B led by Benchmark at a $700M valuation, up 10x on its 2024 Series A, and plans to grow its GPU cluster &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p18#a250903p18)
+ - [Ninth developer betas for iOS 26, macOS Tahoe 26 hit devices](https://appleinsider.com/articles/25/09/02/apple-outs-its-ninth-developer-betas-for-ios-26-macos-tahoe-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

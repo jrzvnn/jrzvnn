@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggo &lpar;\u2022\u1d25\u2022&rpar;](http://9gag.com/gag/aAymGMg)
- - 😝 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
- - 💣 [I over dicked it](http://9gag.com/gag/aRByEej)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [Bit of an oopsy, better give the lad a second chance.](http://9gag.com/gag/aGyoz76)<!-- MEMES:END -->
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 💣 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 

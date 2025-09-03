@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FTC and Utah say Pornhub operator Aylo has agreed to pay a $5M fine to settle charges that it did little to block CSAM and non-consensual material &lpar;Rami Ayyub/Reuters&rpar;](http://www.techmeme.com/250903/p28#a250903p28)
- - [The Paper doesn&amp;#8217;t hit its stride until it&amp;#8217;s out of the office](https://www.theverge.com/tv-reviews/769607/peacock-the-paper-review)
- - [How Disinformation About the Minnesota Shooting Spread Like Wildfire on X](https://www.wired.com/story/disinformation-minnesota-shooting-x/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Google&amp;#8217;s best-ever 4K streamer is within $1 of its lowest price](https://www.theverge.com/tech/769978/google-tv-streamer-4k-deal-sale)<!-- TECH:END -->
+ - [Sports streaming hub Streameast ‘shut down’ in sting](https://www.theverge.com/news/770275/sports-streaming-hub-streameast-shut-down-in-sting)
+ - [Meta launches an Instagram app for the iPad, 15 years after its mobile app; it is slightly different than the mobile app, opening directly to a feed of Reels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250903/p29#a250903p29)
+ - [The Instagram iPad App Is Finally Here](https://www.wired.com/story/instagram-ipad-app-is-finally-here/)
+ - [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels)
+ - [The FTC and Utah say Pornhub operator Aylo has agreed to pay a $5M fine to settle charges that it did little to block CSAM and non-consensual material &lpar;Rami Ayyub/Reuters&rpar;](http://www.techmeme.com/250903/p28#a250903p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

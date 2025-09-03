@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
  - [Puffy Cloud Mattress Review: Soft but Supportive](https://www.wired.com/review/puffy-cloud-mattress/)
  - [Beats Solo 4 launches special Ruby Red JENNIE edition](https://appleinsider.com/articles/25/09/03/beats-solo-4-launches-special-ruby-red-jennie-edition?utm_source=rss)
  - [A profile of Ashish Vaswani, lead author of Attention Is All You Need and Essential AI co-founder, who says the transformer-based AI boom is stifling innovation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/250903/p13#a250903p13)
- - [You Don&#39;t Need iOS 26 to Do Math in Your iPhone&#39;s Messages App. Here&#39;s How](https://www.cnet.com/tech/services-and-software/you-dont-need-ios-26-to-do-math-in-your-iphones-messages-app-heres-how/#ftag=CAD590a51e)
  - [The Baby Died. Whose Fault Is It?](https://www.wired.com/story/the-baby-died-whose-fault-is-it-surrogate-pregnancy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

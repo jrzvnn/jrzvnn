@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How SK Hynix&#39;s rise as Nvidia&#39;s main HBM chip supplier, ahead of Samsung and Micron, disrupted the old order at the top end of the memory chip market &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p4#a250903p4)
+ - [IDC: in Q1 2025, the world&#39;s top four robot vacuum makers, all from China, together accounted for 54.1% of shipments, as iRobot fell from first to fifth place &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250903/p3#a250903p3)
+ - [BMW&#39;s iX3 electric SUV, debuting September 5, will be the first in a series of &quot;software-defined vehicles&quot; on its €10B+ Neue Klasse platform unveiled in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p2#a250903p2)
  - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
- - [Newegg Promo Code: 10% Off in September 2025](https://www.wired.com/story/newegg-promo-code/)
- - [The ruling that allows Google to continue paying for traffic acquisition is a huge win for Apple and for Mozilla, which relies heavily on payments from Google &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250903/p1#a250903p1)
- - [A US district judge rules that Amazon must face a class action lawsuit involving 288M customers over claims it overcharged for products sold by third parties &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250902/p42#a250902p42)
- - [How to keep yourself accountable by sharing your Fitness activity on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-keep-yourself-accountable-by-sharing-your-fitness-activity-on-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Newegg Promo Code: 10% Off in September 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

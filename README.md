@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He really enjoys his playtime with his animal pals 🥰🥰](https://www.reddit.com/r/funny/comments/1n79fs6/he_really_enjoys_his_playtime_with_his_animal_pals/)
  - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 💣 [IYKYK](http://9gag.com/gag/aD2PdYx)
- - 😝 [Genniousess](http://9gag.com/gag/adBdVRN)
- - 👉 [The good old days before every moment was documented](http://9gag.com/gag/azxBe0K)<!-- MEMES:END -->
+ - 😝 [IYKYK](http://9gag.com/gag/aD2PdYx)
+ - 💣 [Genniousess](http://9gag.com/gag/adBdVRN)
+ - 😝 [The good old days before every moment was documented](http://9gag.com/gag/azxBe0K)
+ - 👉 [Some people just never learn, bless her heart](http://9gag.com/gag/axyAMmM)<!-- MEMES:END -->
 
 ---
 

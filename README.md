@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
+ - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
  - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
- - 💣 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 💣 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
  - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
 
 ---

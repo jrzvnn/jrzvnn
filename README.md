@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
  - 😝 [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)
- - 💣 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
+ - 😝 [Bro the disrespect](http://9gag.com/gag/arydnM6)
+ - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
+ - 😝 [She just wanted to give him cake](http://9gag.com/gag/ayNz9Gy)
  - 👉 [Mental issues](http://9gag.com/gag/ae9dAZv)<!-- MEMES:END -->
 
 ---

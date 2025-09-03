@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
  - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
+ - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 😝 [Hey yooooooooooo.](http://9gag.com/gag/a4Pxorm)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 

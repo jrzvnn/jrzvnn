@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Etherealize, which develops products and infrastructure for financial institutions on Ethereum, raised $40M in a round co‑led by Electric Capital and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250903/p30#a250903p30)
  - [Roblox experiences are getting ESRB age ratings](https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation)
  - [Sports streaming hub Streameast ‘shut down’ in sting](https://www.theverge.com/news/770275/sports-streaming-hub-streameast-shut-down-in-sting)
- - [Meta launches an Instagram app for the iPad, 15 years after its mobile app; it is slightly different than the mobile app, opening directly to a feed of Reels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250903/p29#a250903p29)
- - [The Instagram iPad App Is Finally Here](https://www.wired.com/story/instagram-ipad-app-is-finally-here/)
- - [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels)<!-- TECH:END -->
+ - [Google Is Bringing Gemini AI to Its Smart Home Lineup, Starting Oct. 1](https://www.cnet.com/home/smart-home/google-is-bringing-gemini-ai-to-its-smart-home-lineup-starting-oct-1/#ftag=CAD590a51e)
+ - [Meta launches an Instagram app for the iPad, 15 years after its mobile app; it is slightly different than the mobile app, opening directly to a feed of Reels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250903/p29#a250903p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

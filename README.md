@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [IYKYK](http://9gag.com/gag/aD2PdYx)
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
  - 💣 [Genniousess](http://9gag.com/gag/adBdVRN)
- - 😝 [The good old days before every moment was documented](http://9gag.com/gag/azxBe0K)
- - 👉 [Some people just never learn, bless her heart](http://9gag.com/gag/axyAMmM)<!-- MEMES:END -->
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)<!-- MEMES:END -->
 
 ---
 

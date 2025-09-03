@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple plans an AI search tool, World Knowledge Answers, for spring 2026 as part of a Siri revamp; Apple and Google plan to test a Google model for Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250903/p38#a250903p38)
+ - [This &#39;leaked&#39; factory iPhone 17 Pro Max video is probably a fake](https://appleinsider.com/articles/25/09/03/this-leaked-factory-iphone-17-pro-max-video-is-probably-a-fake?utm_source=rss)
+ - [Sources: Mistral AI is finalizing a €2B investment that values the company at €12B, in its first fundraise since June 2024, when it was valued at €5.8B &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250903/p37#a250903p37)
  - [Ecobee now has Apple Home security system integrations](https://appleinsider.com/articles/25/09/03/ecobee-now-has-apple-home-security-system-integrations?utm_source=rss)
- - [Source: OpenAI is increasing the size of its secondary share sale to $10.3B, up from $6B; the transaction is at a $500B valuation, in line with expectations &lpar;CNBC&rpar;](http://www.techmeme.com/250903/p36#a250903p36)
- - [Instagram App Finally Appears on iPads, After 15 Years of Neglecting Apple&#39;s Tablet](https://www.cnet.com/tech/services-and-software/instagram-app-finally-appears-on-ipads-after-15-years-of-neglecting-apples-tablet/#ftag=CAD590a51e)
- - [How &#39;Hollow Knight: Silksong&#39; Fans Turned Waiting for Its Release Into a Game](https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/)
- - [007 First Light looks like a hit, man](https://www.theverge.com/news/770509/007-first-light-state-of-play-september-2025)<!-- TECH:END -->
+ - [Source: OpenAI is increasing the size of its secondary share sale to $10.3B, up from $6B; the transaction is at a $500B valuation, in line with expectations &lpar;CNBC&rpar;](http://www.techmeme.com/250903/p36#a250903p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polymarket CEO says the company &quot;has been given the green light to go live&quot; in the US after the CFTC issued a no-action letter regarding event contracts &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250903/p42#a250903p42)
  - [Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn](https://www.wired.com/story/stealerium-infostealer-porn-sextortion/)
  - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [Apple to upgrade Siri with web search powered by Apple Intelligence](https://appleinsider.com/articles/25/09/03/apple-to-upgrade-siri-with-web-search-powered-by-apple-intelligence?utm_source=rss)
- - [Apple&amp;#8217;s rumored AI search tool for Siri could rely on Google](https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini)
- - [Figma reports Q2 revenue up 41% YoY to $249.6M, vs. $248.8M est., $28.2M net income, and forecasts Q3 and FY 2025 revenue above est.; FIG drops 10%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250903/p41#a250903p41)<!-- TECH:END -->
+ - [Apple&amp;#8217;s rumored AI search tool for Siri could rely on Google](https://www.theverge.com/news/770712/apple-ai-search-tool-siri-google-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

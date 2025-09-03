@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US district judge rules that Amazon must face a class action lawsuit involving 288M customers over claims it overcharged for products sold by third parties &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250902/p42#a250902p42)
  - [How to keep yourself accountable by sharing your Fitness activity on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-keep-yourself-accountable-by-sharing-your-fitness-activity-on-iphone?utm_source=rss)
  - [Source: Sierra, which builds AI customer service agents, nears a $350M raise at a $10B valuation, up from $4.5B in October 2024, and is set to top $100M in ARR &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250902/p41#a250902p41)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-3/#ftag=CAD590a51e)
- - [Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids](https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data)
- - [YouTube Is Pausing Premium Family Plans if You Aren&#39;t Watching From the Same Address](https://www.cnet.com/tech/services-and-software/youtube-is-pausing-premium-family-plans-if-you-arent-watching-from-the-same-address/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids](https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

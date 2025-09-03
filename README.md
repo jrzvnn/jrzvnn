@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK’s largest energy supplier has created its own EV charger](https://www.theverge.com/news/769962/octopus-energy-octopus-charge-ev-charger)
- - [Microsoft&amp;#8217;s PowerToys are about to add two big missing Windows features](https://www.theverge.com/news/770015/microsoft-windows-11-dark-light-theme-automatic-switch-powertoy)
- - [Utila, which is building an &quot;operating system for stablecoins&quot;, raised a $22M Series A extension led by Red Dot, taking its total funding to $51M+ &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250903/p21#a250903p21)
- - [HappyRobot, which uses AI to automate freight operator communications, raised a $44M Series B led by Base10 Partners, a source says at a ~$500M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/250903/p20#a250903p20)
- - [Finnish quantum computing startup IQM raised a $320M Series B led by Ten Eleven at a $1B+ valuation, and plans a US expansion and to scale its data centers &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/250903/p19#a250903p19)<!-- TECH:END -->
+ - [You.com, which pivoted from AI search to enterprise AI tools, raised $100M led by Cox Enterprises at a $1.5B valuation, after a $50M Series B in September 2024 &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/250903/p24#a250903p24)
+ - [Remarkable Paper Pro Move review: the new $449 digital notepad has a spacious 7.3&quot; color E Ink display and slim design, but it is not ideal for lengthy notes &lpar;Nena Farrell/Wired&rpar;](http://www.techmeme.com/250903/p23#a250903p23)
+ - [Garmin unveils the $1,200+ Fenix 8 Pro, including new satellite and cellular communications tools, and a $2,000 microLED version, both shipping September 8 &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/250903/p22#a250903p22)
+ - [How to Switch From iPhone to Android &lpar;2025&rpar;](https://www.wired.com/story/how-to-switch-from-iphone-to-android/)
+ - [Netflix will let you make your own highlight clips](https://www.theverge.com/news/769471/netflix-highlight-clips-moments-start-end)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

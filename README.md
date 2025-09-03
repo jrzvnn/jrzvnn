@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s top iPad deals offer prices from $299 &amp; discounts up to $250 off](https://appleinsider.com/articles/25/09/03/todays-top-ipad-deals-offer-prices-from-299-discounts-up-to-250-off?utm_source=rss)
+ - [Bank of America hikes AAPL target to $260 following Google search ruling](https://appleinsider.com/articles/25/09/03/bank-of-america-hikes-aapl-target-to-260-following-google-search-ruling?utm_source=rss)
  - [Etherealize, which develops products and infrastructure for financial institutions on Ethereum, raised $40M in a round co‑led by Electric Capital and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/250903/p30#a250903p30)
  - [Roblox experiences are getting ESRB age ratings](https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation)
- - [Sports streaming hub Streameast ‘shut down’ in sting](https://www.theverge.com/news/770275/sports-streaming-hub-streameast-shut-down-in-sting)
- - [Google Is Bringing Gemini AI to Its Smart Home Lineup, Starting Oct. 1](https://www.cnet.com/home/smart-home/google-is-bringing-gemini-ai-to-its-smart-home-lineup-starting-oct-1/#ftag=CAD590a51e)
- - [Meta launches an Instagram app for the iPad, 15 years after its mobile app; it is slightly different than the mobile app, opening directly to a feed of Reels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250903/p29#a250903p29)<!-- TECH:END -->
+ - [Sports streaming hub Streameast ‘shut down’ in sting](https://www.theverge.com/news/770275/sports-streaming-hub-streameast-shut-down-in-sting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

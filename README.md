@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [5 armed police arrest Comedian for a tweet.](http://9gag.com/gag/ajPdVK1)
+ - 😝 [I like it](http://9gag.com/gag/arydmpX)
+ - 💣 [I over dicked it](http://9gag.com/gag/aRByEej)
  - 😝 [What does it taste?](http://9gag.com/gag/aE0Qqjn)
- - 💣 [I like it](http://9gag.com/gag/arydmpX)
- - 😝 [I over dicked it](http://9gag.com/gag/aRByEej)
- - 👉 [When you forget you&#39;re not online](http://9gag.com/gag/apRd9AD)<!-- MEMES:END -->
+ - 👉 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)<!-- MEMES:END -->
 
 ---
 

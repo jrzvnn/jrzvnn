@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [France&#39;s CNIL fines Google €325M for placing tracking cookies and ads in Gmail without users&#39; consent; Google says it is reviewing the decision &lpar;France 24&rpar;](http://www.techmeme.com/250903/p45#a250903p45)
  - [Apple Vision Pro&#39;s biggest market is enterprise, in spite of obvious limitations](https://appleinsider.com/articles/25/09/03/apple-vision-pros-biggest-market-is-enterprise-in-spite-of-obvious-limitations?utm_source=rss)
  - [Roblox will expand age checks to all users of its communication tools by the end of 2025 using facial age estimation tech, ID verification, and parental consent &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250903/p44#a250903p44)
  - [Want Paramount Plus? You Can Get Half Off Annual Plans Right Now](https://www.cnet.com/deals/want-paramount-plus-you-can-get-half-off-annual-plans-right-now/#ftag=CAD590a51e)
- - [C3.ai reports Q1 revenue down 19% YoY to $70.3M, and names long-time tech exec Stephen Ehikian as CEO, replacing Thomas Siebel; its stock falls 11%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250903/p43#a250903p43)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
+ - [C3.ai reports Q1 revenue down 19% YoY to $70.3M, and names long-time tech exec Stephen Ehikian as CEO, replacing Thomas Siebel; its stock falls 11%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250903/p43#a250903p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

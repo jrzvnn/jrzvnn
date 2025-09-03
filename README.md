@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hard facts](http://9gag.com/gag/adBdgpZ)
- - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 💣 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - 😝 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
- - 👉 [Happy ending](http://9gag.com/gag/a5QxENV)<!-- MEMES:END -->
+ - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 😝 [When you forget you&#39;re not online](http://9gag.com/gag/apRd9AD)
+ - 💣 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 

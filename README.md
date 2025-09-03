@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Doggo &lpar;\u2022\u1d25\u2022&rpar;](http://9gag.com/gag/aAymGMg)
  - 😝 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
- - 💣 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 😝 [Dog groomers&#39; wet dream.](http://9gag.com/gag/aoydKEe)
+ - 💣 [I over dicked it](http://9gag.com/gag/aRByEej)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
  - 👉 [Bit of an oopsy, better give the lad a second chance.](http://9gag.com/gag/aGyoz76)<!-- MEMES:END -->
 
 ---

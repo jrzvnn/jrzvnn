@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google rolls out new Android and Pixel features: Material 3 Expressive design for Pixel 6 and newer models, on-wrist navigation for the Pixel Watch, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250903/p34#a250903p34)
  - [Scale AI sues a former employee and Mercor, his current employer and one of Scale&#39;s key competitors, for allegedly stealing more than 100 confidential documents &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250903/p33#a250903p33)
  - [Google Pixel 8 and newer models can now stream audio to multiple headphones at once with expanded Bluetooth LE Audio and Auracast support &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250903/p32#a250903p32)
  - [The Best Bluetooth Speaker Is $20 Off](https://www.wired.com/story/jbl-flip-7-speaker-deal/)
- - [Anker&amp;#8217;s power bank with dual USB-C retractable cables is a great deal at $25 off](https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale)
- - [Bank of America hikes AAPL target to $260 following Google search ruling](https://appleinsider.com/articles/25/09/03/bank-of-america-hikes-aapl-target-to-260-following-google-search-ruling?utm_source=rss)<!-- TECH:END -->
+ - [Anker&amp;#8217;s power bank with dual USB-C retractable cables is a great deal at $25 off](https://www.theverge.com/tech/770332/anker-laptop-charger-samsung-galaxy-buds-3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

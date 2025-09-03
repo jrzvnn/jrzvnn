@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pornhub will only have to pay $5 million to settle CSAM, exploitation allegations](https://www.theverge.com/news/770388/pornhub-ftc-settlement-csam-exploitation)
  - [Mophie adds wireless charging to the AirPods Max with a clever new stand](https://www.theverge.com/news/770322/mophie-airpods-max-headphones-wireless-charging-stand)
+ - [You Won&#39;t Find a Better Smoothie Blender Than the $120 Twisti &lpar;Trust Me, I&#39;ve Looked&rpar;](https://www.cnet.com/home/kitchen-and-household/you-wont-find-a-better-smoothie-blender-than-the-120-twisti-trust-me-ive-looked/#ftag=CAD590a51e)
  - [James Gunn’s Superman sequel is coming in 2027](https://www.theverge.com/entertainment/770317/james-gunns-superman-sequel-is-coming-in-2027)
- - [Major Amazon leak spoils the Philips Hue party](https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party)
- - [After 15 years and 396 updates, Instagram is on the iPad](https://appleinsider.com/articles/25/09/03/after-15-years-and-396-updates-instagram-is-on-the-ipad?utm_source=rss)
- - [Amazon confirms Sophie Turner as Lara Croft in live-action Tomb Raider series](https://www.theverge.com/news/770357/amazon-lara-croft-tomb-raider-sophie-turner-series)<!-- TECH:END -->
+ - [Major Amazon leak spoils the Philips Hue party](https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

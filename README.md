@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roblox experiences are getting ESRB age ratings](https://www.theverge.com/news/770305/roblox-esrb-age-ratings-iarc-age-estimation)
  - [Sports streaming hub Streameast ‘shut down’ in sting](https://www.theverge.com/news/770275/sports-streaming-hub-streameast-shut-down-in-sting)
  - [Meta launches an Instagram app for the iPad, 15 years after its mobile app; it is slightly different than the mobile app, opening directly to a feed of Reels &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/250903/p29#a250903p29)
  - [The Instagram iPad App Is Finally Here](https://www.wired.com/story/instagram-ipad-app-is-finally-here/)
- - [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels)
- - [The FTC and Utah say Pornhub operator Aylo has agreed to pay a $5M fine to settle charges that it did little to block CSAM and non-consensual material &lpar;Rami Ayyub/Reuters&rpar;](http://www.techmeme.com/250903/p28#a250903p28)<!-- TECH:END -->
+ - [Instagram is coming to iPad, 15 years later](https://www.theverge.com/news/769460/instagram-ipad-app-launch-reels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

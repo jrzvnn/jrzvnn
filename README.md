@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This driver deserves prison](http://9gag.com/gag/aPApg0w)
- - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
  - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 👉 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)<!-- MEMES:END -->
+ - 💣 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
 
 ---
 

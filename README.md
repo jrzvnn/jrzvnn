@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
  - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
  - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 😝 [Hey yooooooooooo.](http://9gag.com/gag/a4Pxorm)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 😝 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
+ - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
 
 ---
 

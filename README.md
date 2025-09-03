@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 😝 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 😝 [This driver deserves prison](http://9gag.com/gag/aPApg0w)
+ - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 👉 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - 😝 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
- - 💣 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 😝 [Hard facts](http://9gag.com/gag/adBdgpZ)
+ - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 💣 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
  - 😝 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
- - 👉 [Furlong](http://9gag.com/gag/aVvd7GK)<!-- MEMES:END -->
+ - 👉 [Happy ending](http://9gag.com/gag/a5QxENV)<!-- MEMES:END -->
 
 ---
 

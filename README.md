@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s antitrust case ruling leaves Apple deal untouched](https://appleinsider.com/articles/25/09/02/google-must-stop-exclusive-contracts-with-companies-like-apple-but-keeps-chrome?utm_source=rss)
- - [Puffy Cloud Mattress Review: Soft but Supportive](https://www.wired.com/review/puffy-cloud-mattress/)
- - [Beats Solo 4 launches special Ruby Red JENNIE edition](https://appleinsider.com/articles/25/09/03/beats-solo-4-launches-special-ruby-red-jennie-edition?utm_source=rss)
- - [A profile of Ashish Vaswani, lead author of Attention Is All You Need and Essential AI co-founder, who says the transformer-based AI boom is stifling innovation &lpar;Julia Love/Bloomberg&rpar;](http://www.techmeme.com/250903/p13#a250903p13)
- - [The Baby Died. Whose Fault Is It?](https://www.wired.com/story/the-baby-died-whose-fault-is-it-surrogate-pregnancy/)<!-- TECH:END -->
+ - [Samsung’s new party speakers are less subtle than ever](https://www.theverge.com/news/769896/samsungs-new-party-speakers-are-less-subtle-than-ever)
+ - [New Indian Apple Store shown off in images and an Apple Music playlist](https://appleinsider.com/articles/25/09/03/new-indian-apple-store-shown-off-in-images-and-an-apple-music-playlist?utm_source=rss)
+ - [SK Hynix and ASML say they assembled the industry&#39;s first Twinscan NXE:5200B High-NA EUV lithography system at SK&#39;s M16 fab, initially to test next-gen tech &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250903/p14#a250903p14)
+ - [What Is a Passkey? Here’s How to Set Up and Use Them &lpar;2025&rpar;](https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/)
+ - [The Loophole Turning Stablecoins Into a Trillion-Dollar Fight](https://www.wired.com/story/genius-act-loophole-stablecoins-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

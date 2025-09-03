@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - 😝 [Genniousess](http://9gag.com/gag/adBdVRN)
- - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
- - 👉 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)<!-- MEMES:END -->
+ - 😝 [Woman is mad that dog blocked her path](http://9gag.com/gag/avyD5An)
+ - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - 💣 [IYKYK](http://9gag.com/gag/aD2PdYx)
+ - 😝 [Most of my colleagues .](http://9gag.com/gag/arydMMX)
+ - 👉 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)<!-- MEMES:END -->
 
 ---
 

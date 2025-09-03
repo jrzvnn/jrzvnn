@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IYKYK](http://9gag.com/gag/aD2PdYx)
- - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
- - 💣 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
- - 👉 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)<!-- MEMES:END -->
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 💣 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 

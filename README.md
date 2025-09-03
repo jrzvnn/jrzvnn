@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mophie adds wireless charging to the AirPods Max with a clever new stand](https://www.theverge.com/news/770322/mophie-airpods-max-headphones-wireless-charging-stand)
+ - [James Gunn’s Superman sequel is coming in 2027](https://www.theverge.com/entertainment/770317/james-gunns-superman-sequel-is-coming-in-2027)
  - [Major Amazon leak spoils the Philips Hue party](https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party)
  - [After 15 years and 396 updates, Instagram is on the iPad](https://appleinsider.com/articles/25/09/03/after-15-years-and-396-updates-instagram-is-on-the-ipad?utm_source=rss)
- - [Amazon confirms Sophie Turner as Lara Croft in live-action Tomb Raider series](https://www.theverge.com/news/770357/amazon-lara-croft-tomb-raider-sophie-turner-series)
- - [Today&#39;s top iPad deals offer prices from $299 &amp; discounts up to $250 off](https://appleinsider.com/articles/25/09/03/todays-top-ipad-deals-offer-prices-from-299-discounts-up-to-250-off?utm_source=rss)
- - [Bank of America hikes AAPL target to $260 following Google search ruling](https://appleinsider.com/articles/25/09/03/bank-of-america-hikes-aapl-target-to-260-following-google-search-ruling?utm_source=rss)<!-- TECH:END -->
+ - [Amazon confirms Sophie Turner as Lara Croft in live-action Tomb Raider series](https://www.theverge.com/news/770357/amazon-lara-croft-tomb-raider-sophie-turner-series)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

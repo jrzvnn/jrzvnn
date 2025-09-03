@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into the state of the tech job market in 2025, including an increase in demand for AI engineers and a rising average tenure at Big Tech companies &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250903/p5#a250903p5)
  - [How SK Hynix&#39;s rise as Nvidia&#39;s main HBM chip supplier, ahead of Samsung and Micron, disrupted the old order at the top end of the memory chip market &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p4#a250903p4)
  - [IDC: in Q1 2025, the world&#39;s top four robot vacuum makers, all from China, together accounted for 54.1% of shipments, as iRobot fell from first to fifth place &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/250903/p3#a250903p3)
  - [BMW&#39;s iX3 electric SUV, debuting September 5, will be the first in a series of &quot;software-defined vehicles&quot; on its €10B+ Neue Klasse platform unveiled in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p2#a250903p2)
- - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
- - [Newegg Promo Code: 10% Off in September 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

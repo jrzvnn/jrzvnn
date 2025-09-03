@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to keep yourself accountable by sharing your Fitness activity on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-keep-yourself-accountable-by-sharing-your-fitness-activity-on-iphone?utm_source=rss)
+ - [Source: Sierra, which builds AI customer service agents, nears a $350M raise at a $10B valuation, up from $4.5B in October 2024, and is set to top $100M in ARR &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250902/p41#a250902p41)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-3/#ftag=CAD590a51e)
  - [Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids](https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data)
- - [The judge in US v. Google says allowing Google&#39;s payments is &quot;more palatable now&quot;, since GenAI companies &quot;already are in a better position&quot; to compete &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250902/p40#a250902p40)
- - [Google says it is reviewing the court&#39;s ruling on search and has &quot;concerns&quot; about how the requirements &quot;will impact our users and their privacy&quot; &lpar;Lee-Anne Mulholland/Google&rpar;](http://www.techmeme.com/250902/p39#a250902p39)
- - [Content creators and rideshare drivers are among the professions covered under the &quot;no tax on tips&quot; policy passed as part of the US spending bill signed in July &lpar;Alison Durkee/Forbes&rpar;](http://www.techmeme.com/250902/p38#a250902p38)
- - [Google critics think the search remedies ruling is a total whiff](https://www.theverge.com/news/769738/google-doj-antitrust-remedies-ruling-critics)<!-- TECH:END -->
+ - [YouTube Is Pausing Premium Family Plans if You Aren&#39;t Watching From the Same Address](https://www.cnet.com/tech/services-and-software/youtube-is-pausing-premium-family-plans-if-you-arent-watching-from-the-same-address/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

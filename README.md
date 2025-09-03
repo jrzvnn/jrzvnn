@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Source: OpenAI is increasing the size of its secondary share sale to $10.3B, up from $6B; the transaction is at a $500B valuation, in line with expectations &lpar;CNBC&rpar;](http://www.techmeme.com/250903/p36#a250903p36)
+ - [Instagram App Finally Appears on iPads, After 15 Years of Neglecting Apple&#39;s Tablet](https://www.cnet.com/tech/services-and-software/instagram-app-finally-appears-on-ipads-after-15-years-of-neglecting-apples-tablet/#ftag=CAD590a51e)
  - [How &#39;Hollow Knight: Silksong&#39; Fans Turned Waiting for Its Release Into a Game](https://www.wired.com/story/how-fans-turned-waiting-for-hollow-knight-silksongs-release-into-a-game/)
  - [007 First Light looks like a hit, man](https://www.theverge.com/news/770509/007-first-light-state-of-play-september-2025)
- - [Sources: xAI CFO Mike Liberatore left the company around the end of July, after joining in April &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250903/p35#a250903p35)
- - [Google rolls out new Android and Pixel features: Material 3 Expressive design for Pixel 6 and newer models, on-wrist navigation for the Pixel Watch, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250903/p34#a250903p34)<!-- TECH:END -->
+ - [Sources: xAI CFO Mike Liberatore left the startup around the end of July, after joining in April; xAI has seen several high-profile departures in recent weeks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250903/p35#a250903p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

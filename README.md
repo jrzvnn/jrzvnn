@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
  - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - 💣 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - 😝 [This driver deserves prison](http://9gag.com/gag/aPApg0w)
- - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
+ - 😝 [Finally some clarity](http://9gag.com/gag/an7dg05)
+ - 💣 [Hard facts](http://9gag.com/gag/adBdgpZ)
+ - 😝 [As a tradesman, I can appreciate this.](http://9gag.com/gag/aqydy4Y)
+ - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
 
 ---
 

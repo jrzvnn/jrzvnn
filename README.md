@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mistral updates Le Chat with a memory feature for chats and an MCP connector directory supporting over 20 enterprise platforms, both available on its free plan &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/250903/p31#a250903p31)
+ - [Scale AI still exists and it’s suing an ex-employee over corporate espionage](https://www.theverge.com/ai-artificial-intelligence/770410/scale-ai-corporate-espionage-data-labeling-mercor-meta)
+ - [A PlayStation game is now the best-selling game on Xbox](https://www.theverge.com/news/770311/playstation-game-helldivers-2-best-selling-game-on-xbox)
  - [Pornhub will only have to pay $5 million to settle CSAM, exploitation allegations](https://www.theverge.com/news/770388/pornhub-ftc-settlement-csam-exploitation)
- - [Mophie adds wireless charging to the AirPods Max with a clever new stand](https://www.theverge.com/news/770322/mophie-airpods-max-headphones-wireless-charging-stand)
- - [You Won&#39;t Find a Better Smoothie Blender Than the $120 Twisti &lpar;Trust Me, I&#39;ve Looked&rpar;](https://www.cnet.com/home/kitchen-and-household/you-wont-find-a-better-smoothie-blender-than-the-120-twisti-trust-me-ive-looked/#ftag=CAD590a51e)
- - [James Gunn’s Superman sequel is coming in 2027](https://www.theverge.com/entertainment/770317/james-gunns-superman-sequel-is-coming-in-2027)
- - [Major Amazon leak spoils the Philips Hue party](https://www.theverge.com/news/770345/major-amazon-leak-spoils-the-philips-hue-party)<!-- TECH:END -->
+ - [Mophie adds wireless charging to the AirPods Max with a clever new stand](https://www.theverge.com/news/770322/mophie-airpods-max-headphones-wireless-charging-stand)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

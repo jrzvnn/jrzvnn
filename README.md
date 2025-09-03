@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)
- - 😝 [Bro the disrespect](http://9gag.com/gag/arydnM6)
- - 💣 [Tourist scam](http://9gag.com/gag/a87nGGe)
- - 😝 [She just wanted to give him cake](http://9gag.com/gag/ayNz9Gy)
- - 👉 [Mental issues](http://9gag.com/gag/ae9dAZv)<!-- MEMES:END -->
+ - 😝 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
+ - 😝 [Genniousess](http://9gag.com/gag/adBdVRN)
+ - 💣 [Mental issues](http://9gag.com/gag/ae9dAZv)
+ - 😝 [Happy ending](http://9gag.com/gag/a5QxENV)
+ - 👉 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)<!-- MEMES:END -->
 
 ---
 

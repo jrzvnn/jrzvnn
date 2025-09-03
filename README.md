@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple plans an AI search tool, World Knowledge Answers, for spring 2026 as part of a Siri revamp; Apple and Google plan to test a Google model for Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250903/p38#a250903p38)
- - [This &#39;leaked&#39; factory iPhone 17 Pro Max video is probably a fake](https://appleinsider.com/articles/25/09/03/this-leaked-factory-iphone-17-pro-max-video-is-probably-a-fake?utm_source=rss)
- - [Sources: Mistral AI is finalizing a €2B investment that values the company at €12B, in its first fundraise since June 2024, when it was valued at €5.8B &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250903/p37#a250903p37)
- - [Ecobee now has Apple Home security system integrations](https://appleinsider.com/articles/25/09/03/ecobee-now-has-apple-home-security-system-integrations?utm_source=rss)
- - [Source: OpenAI is increasing the size of its secondary share sale to $10.3B, up from $6B; the transaction is at a $500B valuation, in line with expectations &lpar;CNBC&rpar;](http://www.techmeme.com/250903/p36#a250903p36)<!-- TECH:END -->
+ - [Switzerland releases its own AI model trained on public data](https://www.theverge.com/ai-artificial-intelligence/770646/switzerland-ai-model-llm-open-apertus)
+ - [Apple to upgrade Siri with web search powered by Apple Intelligence](https://appleinsider.com/articles/25/09/03/apple-to-upgrade-siri-with-web-search-powered-by-apple-intelligence?utm_source=rss)
+ - [Salesforce reports Q2 revenue up 10% YoY to $10.2B and forecasts Q3 revenue below estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250903/p39#a250903p39)
+ - [Sources: Apple plans an AI search tool, World Knowledge Answers, for a spring 2026 Siri revamp; Apple and Google have agreed to test a Google AI model for Siri &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250903/p38#a250903p38)
+ - [This &#39;leaked&#39; factory iPhone 17 Pro Max video is probably a fake](https://appleinsider.com/articles/25/09/03/this-leaked-factory-iphone-17-pro-max-video-is-probably-a-fake?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

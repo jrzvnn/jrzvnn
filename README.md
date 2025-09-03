@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids](https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data)
+ - [The judge in US v. Google says allowing Google&#39;s payments is &quot;more palatable now&quot;, since GenAI companies &quot;already are in a better position&quot; to compete &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/250902/p40#a250902p40)
  - [Google says it is reviewing the court&#39;s ruling on search and has &quot;concerns&quot; about how the requirements &quot;will impact our users and their privacy&quot; &lpar;Lee-Anne Mulholland/Google&rpar;](http://www.techmeme.com/250902/p39#a250902p39)
  - [Content creators and rideshare drivers are among the professions covered under the &quot;no tax on tips&quot; policy passed as part of the US spending bill signed in July &lpar;Alison Durkee/Forbes&rpar;](http://www.techmeme.com/250902/p38#a250902p38)
- - [Google critics think the search remedies ruling is a total whiff](https://www.theverge.com/news/769738/google-doj-antitrust-remedies-ruling-critics)
- - [JMGO N1S Ultra 4K Triple Laser Projector review: Great picture, but needs support](https://appleinsider.com/articles/25/09/03/jmgo-n1s-ultra-4k-triple-laser-projector-review-great-picture-but-needs-support?utm_source=rss)
- - [As part of the US v. Google remedies ruling, a technical committee will be established to help enforce the final judgment, which will last six years &lpar;New York Times&rpar;](http://www.techmeme.com/250902/p37#a250902p37)<!-- TECH:END -->
+ - [Google critics think the search remedies ruling is a total whiff](https://www.theverge.com/news/769738/google-doj-antitrust-remedies-ruling-critics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

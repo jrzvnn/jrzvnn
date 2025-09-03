@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will reveal its Gemini smart home plans &lpar;and hardware&rpar; next month](https://www.theverge.com/news/769848/google-teases-new-nest-cam-gemini-home)
+ - [A reporter details how her mother, a kidney transplant patient who lives in China, bonded with DeepSeek&#39;s chatbot as her AI doctor, calling it &quot;more humane&quot; &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/250903/p8#a250903p8)
  - [The EU&#39;s General Court backs the EU-US Data Privacy Framework, approved in 2023, rejecting a legal challenge that US surveillance laws fall short of EU laws &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p7#a250903p7)
  - [Ooni’s newest pizza oven adds AI to your slice](https://www.theverge.com/news/768542/ooni-volt-2-pizza-oven-ai-pizza-intelligence)
- - [A look at issues facing AI companies, including LLMs&#39; limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p6#a250903p6)
- - [Best Smoke Detectors for 2025, Engineer-Tested and Approved](https://www.cnet.com/home/security/best-smoke-detector/#ftag=CAD590a51e)
- - [A deep dive into the state of the tech job market in 2025, including an increase in demand for AI engineers and a rising average tenure at Big Tech companies &lpar;Gergely Orosz/The Pragmatic Engineer&rpar;](http://www.techmeme.com/250903/p5#a250903p5)<!-- TECH:END -->
+ - [A look at issues facing AI companies, including LLMs&#39; limited memory, as they tackle safety in chatbots engaging in conversations about suicide and self-harm &lpar;Financial Times&rpar;](http://www.techmeme.com/250903/p6#a250903p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

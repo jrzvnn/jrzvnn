@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mental issues](http://9gag.com/gag/ae9dAZv)
- - 😝 [Jessie without her hairdo.](http://9gag.com/gag/avyD5n5)
- - 💣 [...](http://9gag.com/gag/aRByXV2)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [Going to chill with the homies for an hour](http://9gag.com/gag/amodP6j)<!-- MEMES:END -->
+ - 😝 [Lol.](http://9gag.com/gag/aqydjdj)
+ - 😝 [Bit of an oopsy, better give the lad a second chance.](http://9gag.com/gag/aGyoz76)
+ - 💣 [He had an old chinese phone, an old raspberry pi 3b+, python, opencv and a bit of deep learning. And then there were the neighbor&#39;s chickens, who were driving him crazy.](http://9gag.com/gag/aW4dgDq)
+ - 😝 [She just wanted to give him cake](http://9gag.com/gag/ayNz9Gy)
+ - 👉 [Uploading my old 9gag collection 93](http://9gag.com/gag/aW4djX6)<!-- MEMES:END -->
 
 ---
 

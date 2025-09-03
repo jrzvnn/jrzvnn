@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
- - 😝 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
- - 💣 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
- - 😝 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
- - 👉 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)<!-- MEMES:END -->
+ - 😝 [IYKYK](http://9gag.com/gag/aD2PdYx)
+ - 😝 [Chinese man jumped through the window to escape his girlfriend.](http://9gag.com/gag/aLnbp9A)
+ - 💣 [Is this worse than Black Friday?](http://9gag.com/gag/ayNzMoX)
+ - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 👉 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)<!-- MEMES:END -->
 
 ---
 

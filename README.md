@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [C3.ai reports Q1 revenue down 19% YoY to $70.3M, and names long-time tech exec Stephen Ehikian as CEO, replacing Thomas Siebel; its stock falls 11%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250903/p43#a250903p43)
  - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
  - [Disney Settles FTC Complaint With YouTube Over Children&#39;s Data Collection](https://www.cnet.com/tech/services-and-software/disney-settles-ftc-complaint-over-youtube-childrens-data-collection/#ftag=CAD590a51e)
  - [Polymarket CEO says the company &quot;has been given the green light to go live&quot; in the US after the CFTC issued a no-action letter regarding event contracts &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/250903/p42#a250903p42)
- - [How to Watch NFL Games Without Cable in 2025](https://www.cnet.com/tech/services-and-software/how-to-watch-nfl-games-without-cable-in-2025/#ftag=CAD590a51e)
- - [Google Is Bringing Gemini AI to Its Smart Home Lineup, Starting Oct. 1](https://www.cnet.com/home/smart-home/google-is-bringing-gemini-ai-to-its-smart-home-lineup-starting-oct-1/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Watch NFL Games Without Cable in 2025](https://www.cnet.com/tech/services-and-software/how-to-watch-nfl-games-without-cable-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

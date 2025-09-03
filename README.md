@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Smokeless Firepits &lpar;2025&rpar;, Tested for Fun and Fresh Air](https://www.wired.com/gallery/best-smokeless-fire-pit/)
+ - [Wall Street analysts bullish on Apple &amp; Google search deal remaining intact](https://appleinsider.com/articles/25/09/03/wall-street-analysts-bullish-on-apple-google-search-deal-remaining-intact?utm_source=rss)
  - [Why I love my Kenmore canister vacuum](https://www.theverge.com/tech/769451/why-i-love-my-kenmore-canister-vacuum)
  - [A profile of Flock Safety, which operates 80K AI surveillance cameras across the US and hit a $7.5B valuation in March 2025, as it expands into US-made drones &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250903/p27#a250903p27)
- - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
- - [I Had ChatGPT Order Me a Pizza. This Could Change Everything](https://www.cnet.com/tech/services-and-software/i-had-chatgpt-order-me-a-pizza-this-could-change-everything/#ftag=CAD590a51e)
- - [Apple shares surge after federal Google search deal ruling](https://appleinsider.com/articles/25/09/03/apple-shares-surge-after-federal-google-search-deal-ruling?utm_source=rss)<!-- TECH:END -->
+ - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

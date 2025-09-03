@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro&#39;s biggest market is enterprise, in spite of obvious limitations](https://appleinsider.com/articles/25/09/03/apple-vision-pros-biggest-market-is-enterprise-in-spite-of-obvious-limitations?utm_source=rss)
  - [Roblox will expand age checks to all users of its communication tools by the end of 2025 using facial age estimation tech, ID verification, and parental consent &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250903/p44#a250903p44)
  - [Want Paramount Plus? You Can Get Half Off Annual Plans Right Now](https://www.cnet.com/deals/want-paramount-plus-you-can-get-half-off-annual-plans-right-now/#ftag=CAD590a51e)
  - [C3.ai reports Q1 revenue down 19% YoY to $70.3M, and names long-time tech exec Stephen Ehikian as CEO, replacing Thomas Siebel; its stock falls 11%+ after hours &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250903/p43#a250903p43)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [Disney Settles FTC Complaint With YouTube Over Children&#39;s Data Collection](https://www.cnet.com/tech/services-and-software/disney-settles-ftc-complaint-over-youtube-childrens-data-collection/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

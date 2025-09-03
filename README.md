@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Low IQ](http://9gag.com/gag/aByvmBO)
- - 😝 [Sometimes I wonder](http://9gag.com/gag/a34xwV1)
- - 💣 [IYKYK](http://9gag.com/gag/aD2PdYx)
- - 😝 [Sophie&#39;s choice](http://9gag.com/gag/aNDqpn3)
- - 👉 [I need this guy for so many people](http://9gag.com/gag/ae9dD0m)<!-- MEMES:END -->
+ - 😝 [`Oh yeah... that one.`](http://9gag.com/gag/aO8jQOr)
+ - 😝 [Most of my colleagues .](http://9gag.com/gag/arydMMX)
+ - 💣 [Hard facts](http://9gag.com/gag/adBdgpZ)
+ - 😝 [9gag community, it\u2019s time to go to all his social media accounts and show him lots of love](http://9gag.com/gag/apRdG5E)
+ - 👉 [Genniousess](http://9gag.com/gag/adBdVRN)<!-- MEMES:END -->
 
 ---
 

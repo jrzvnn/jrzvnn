@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)
- - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 💣 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
- - 👉 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)<!-- MEMES:END -->
+ - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 💣 [Austin Texas](http://9gag.com/gag/abAdgWE)
+ - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
+ - 👉 [`My actions weren&#39;t supposed to have consequences!` - this \u2026r](http://9gag.com/gag/aRByBM7)<!-- MEMES:END -->
 
 ---
 

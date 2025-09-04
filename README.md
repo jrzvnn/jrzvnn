@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
- - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
- - 💣 [I like it](http://9gag.com/gag/arydmpX)
- - 😝 [Seriously, don&#39;t even bother](http://9gag.com/gag/aMVWVZM)
- - 👉 [I can\u2019t resist, but I won\u2019t. The pain is unbelievable, but I\u2019m scared of the dentist.](http://9gag.com/gag/a4PxoOA)<!-- MEMES:END -->
+ - 😝 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
+ - 😝 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
+ - 💣 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)<!-- MEMES:END -->
 
 ---
 

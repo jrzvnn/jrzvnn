@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silksong&amp;#8217;s release is hammering Steam, Xbox, PlayStation, and Nintendo stores](https://www.theverge.com/games/771461/silksong-release-steam-nintendo-eshop-crash)
  - [3 Best Robot Lawn Mowers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-robot-lawn-mowers/)
  - [Six years after launch, Apple Arcade is striving for a bigger audience](https://www.theverge.com/games/770599/apple-arcade-interview-alex-rothman)
- - [Amazon&amp;#8217;s Project Kuiper signs first airline to space internet service](https://www.theverge.com/news/771459/amazon-project-kuiper-jetblue-satellite-internet)
- - [Sources: plans for X Money, a nationwide peer-to-peer payments service integrated into X, have stalled as DFS NY and other state regulators raise concerns &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250904/p27#a250904p27)
- - [iPhone 17 Pro lineup may get modest RAM increase versus iPhone 16 Pro](https://appleinsider.com/articles/25/09/04/iphone-17-pro-lineup-may-get-modest-ram-increase-versus-iphone-16-pro?utm_source=rss)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s Project Kuiper strikes its first satellite internet deal with an airline](https://www.theverge.com/news/771459/amazon-project-kuiper-jetblue-satellite-internet)
+ - [Sources: plans for X Money, a nationwide peer-to-peer payments service integrated into X, have stalled as DFS NY and other state regulators raise concerns &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250904/p27#a250904p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DOJ charges ex-IRL CEO Abraham Shafi with securities and wire fraud for allegedly misleading investors about user growth, concealing personal expenses, and more &lpar;Fortune&rpar;](http://www.techmeme.com/250904/p35#a250904p35)
- - [Adobe plans to launch a free version of its Premiere video editor for iPhone later this month, with one-tap exporting to TikTok, YouTube Shorts, and Instagram &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p34#a250904p34)
- - [A profile of Anthropic&#39;s Frontier Red Team, which is unique among AI companies in having a mandate to both evaluate its AI models and publicize findings widely &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250904/p33#a250904p33)
- - [Google now lets US-based Google Photos users turn static images into silent four-second videos using its Veo 3 model &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250904/p32#a250904p32)
- - [Stripe and Paradigm unveil Tempo, a Layer-1 blockchain for stablecoins; a source says Tempo will not launch with its own token and there is no launch timeline &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250904/p31#a250904p31)<!-- TECH:END -->
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
+ - [Anti-Vaxxers Rejoice at Florida’s Scheme to End Vaccine Mandates for Kids and Everyone Else](https://www.wired.com/story/anti-vaxxers-rejoice-florida-plan-end-vaccine-mandate/)
+ - [The tech antitrust renaissance may already be over](https://www.theverge.com/policy/771409/break-up-big-tech-movement-google-search-remedies-ruling)
+ - [You can now attach 10,000 character blogs to your Threads posts](https://www.theverge.com/news/770391/meta-threads-text-dumps-attachments-10000-characters)
+ - [DOJ charges ex-IRL CEO Abraham Shafi with securities and wire fraud for allegedly misleading investors about user growth, concealing personal expenses, and more &lpar;Fortune&rpar;](http://www.techmeme.com/250904/p35#a250904p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

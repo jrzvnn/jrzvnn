@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
- - 😝 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
- - 💣 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)<!-- MEMES:END -->
+ - 😝 [This driver deserves prison](http://9gag.com/gag/aPApg0w)
+ - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 💣 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
+ - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 👉 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)<!-- MEMES:END -->
 
 ---
 

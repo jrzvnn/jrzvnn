@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I too enjoy roulette, but there are times I gotta restrict myself.](http://9gag.com/gag/aO8j3XM)
- - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
- - 💣 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
+ - 😝 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
+ - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
+ - 💣 [I like it](http://9gag.com/gag/arydmpX)
  - 😝 [Seriously, don&#39;t even bother](http://9gag.com/gag/aMVWVZM)
- - 👉 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)<!-- MEMES:END -->
+ - 👉 [I can\u2019t resist, but I won\u2019t. The pain is unbelievable, but I\u2019m scared of the dentist.](http://9gag.com/gag/a4PxoOA)<!-- MEMES:END -->
 
 ---
 

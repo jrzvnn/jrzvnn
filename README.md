@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 😝 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
- - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
  - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 👉 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)<!-- MEMES:END -->
+ - 😝 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 💣 [You&#39;re telling me, there is hope?](http://9gag.com/gag/aQzrze7)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---
 

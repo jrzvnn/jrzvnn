@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 😝 [Me everytime somebody got the stuff I want](http://9gag.com/gag/azxB2Bm)
  - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
  - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
  - 👉 [Whiping Up The Cream](http://9gag.com/gag/abAdvm9)<!-- MEMES:END -->

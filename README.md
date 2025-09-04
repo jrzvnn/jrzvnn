@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues](https://www.wired.com/story/uspto-denies-neuralinks-applications-for-telepathy-telekinesis-marks/)
  - [Wallet update turns &#39;buy now pay later&#39; into a built-in feature of iPhones](https://appleinsider.com/articles/25/09/04/wallet-update-turns-buy-now-pay-later-into-a-built-in-feature-of-iphones?utm_source=rss)
  - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
  - [OpenAI plans to launch a jobs platform in 2026 to match employers with candidates with AI skills, and a certification program for AI roles in the coming months &lpar;Bloomberg&rpar;](http://www.techmeme.com/250904/p39#a250904p39)
- - [Why it’s so hard to make a ‘safer’ football helmet](https://www.theverge.com/design/771771/design-safer-helmets-nfl)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
+ - [Why it’s so hard to make a ‘safer’ football helmet](https://www.theverge.com/design/771771/design-safer-helmets-nfl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

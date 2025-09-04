@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bengaluru-based FirstClub, a grocery delivery startup prioritizing quality over speed, raised a $23M Series A led by Accel and RTP Global at a $120M valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250903/p51#a250903p51)
  - [Sources: Lambda, a cloud provider that rents out Nvidia chips, has hired banks to prepare for a US IPO as soon as H1 2026; it was valued at $2.5B in February &lpar;The Information&rpar;](http://www.techmeme.com/250903/p50#a250903p50)
- - [Anthropic named the Qatar Investment Authority as a &quot;significant&quot; investor in its $13B round; QIA expects to do up to 25 tech deals through 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p49#a250903p49)
- - [American Bitcoin closed up 16.5% in its Nasdaq debut on Wednesday, valuing Eric Trump and Donald Trump Jr.&#39;s stake in the bitcoin mining company at $1.5B &lpar;Reuters&rpar;](http://www.techmeme.com/250903/p48#a250903p48)
- - [A US jury orders Google to pay $425M+ to plaintiffs in a 2020 class action lawsuit for collecting data even after they turned off Web &amp; App Activity tracking &lpar;Margaret Attridge/Courthouse News Service&rpar;](http://www.techmeme.com/250903/p47#a250903p47)
- - [OpenAI makes ChatGPT Projects available to all free users, and allows more files to be added to projects; Projects was previously exclusive to paid subscribers &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/250903/p46#a250903p46)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 4, #346](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-4-346/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Sept. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-sept-4/#ftag=CAD590a51e)
+ - [Anthropic named the Qatar Investment Authority as a &quot;significant&quot; investor in its $13B round; QIA expects to do up to 25 tech deals through 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250903/p49#a250903p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

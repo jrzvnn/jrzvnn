@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe plans to launch a free version of its Premiere video editor for iPhone later this month, with one-tap exporting to TikTok, YouTube Shorts, and Instagram &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p34#a250904p34)
  - [A profile of Anthropic&#39;s Frontier Red Team, which is unique among AI companies in having a mandate to both evaluate its AI models and publicize findings widely &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250904/p33#a250904p33)
  - [Google now lets US-based Google Photos users turn static images into silent four-second videos using its Veo 3 model &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250904/p32#a250904p32)
  - [Stripe and Paradigm unveil Tempo, a Layer-1 blockchain for stablecoins; a source says Tempo will not launch with its own token and there is no launch timeline &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250904/p31#a250904p31)
- - [Darth Vader&amp;#8217;s lightsaber is up for auction](https://www.theverge.com/news/771642/darth-vader-lightsaber-propstore-auction-indiana-jones)
- - [‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash](https://www.wired.com/story/hollow-knight-silksong-is-already-causing-online-gaming-stores-to-crash/)<!-- TECH:END -->
+ - [Darth Vader&amp;#8217;s lightsaber is up for auction](https://www.theverge.com/news/771642/darth-vader-lightsaber-propstore-auction-indiana-jones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

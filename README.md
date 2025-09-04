@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Docusign reports Q2 revenue up 9% YoY to $800.6M vs. $780.1M est., raises FY 2026 sales outlook, and forecasts Q3 revenue above est.; DOCU jumps 8%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p48#a250904p48)
  - [How Wikipedia became the factual foundation of the web and why it&#39;s under attack from Musk, conservative groups, the Trump administration, and other governments &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/250904/p47#a250904p47)
- - [3 Sports Documentaries You Absolutely Should Watch Right Now](https://www.cnet.com/tech/services-and-software/3-sports-documentaries-you-absolutely-should-watch-right-now/#ftag=CAD590a51e)
- - [Roborock’s New Lineup at IFA 2025 Includes Its First Robot Lawnmowers, an Ultra-Thin Robot Vacuum and More](https://www.cnet.com/news/roborocks-new-lineup-at-ifa-2025-includes-its-first-robot-lawnmowers-new-stick-vacuums-an-ultra-thin-robot-vacuum-and-more/#ftag=CAD590a51e)
- - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)<!-- TECH:END -->
+ - [A Lunar Eclipse and Blood Moon Are Coming This Weekend: How to Stream Them](https://www.cnet.com/science/space/a-lunar-eclipse-and-blood-moon-are-coming-this-weekend-how-to-stream-them/#ftag=CAD590a51e)
+ - [NFL 2025 Kickoff Game: How to Watch Cowboys vs. Eagles Tonight](https://www.cnet.com/tech/services-and-software/nfl-2025-kickoff-game-how-to-watch-cowboys-vs-eagles-tonight/#ftag=CAD590a51e)
+ - [33 Unique Gifts for People Who Already Have Everything](https://www.cnet.com/news/gifts-for-people-who-have-everything/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US v. Google ruling signals a cautious antitrust approach by courts and a reluctance to intervene too deeply, ahead of other Big Tech antitrust rulings &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250904/p14#a250904p14)
  - [Samsung unveils the $650+ Galaxy S25 FE and $800+ Tab S11 series in 11&quot; and 14.6&quot;, offering thinner, lighter designs alongside modest upgrades, shipping now &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p13#a250904p13)
  - [Sources: DeepSeek is developing an agentic AI model that can carry out multi-step actions with little direction as well as learn and improve, set for a Q4 debut &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250904/p12#a250904p12)
  - [Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price](https://www.wired.com/story/samsungs-galaxy-tab-s11-series-and-galaxy-s25-fe/)
- - [Samsung’s Galaxy S25 FE and Tab S11 are thinner, lighter, and otherwise about the same](https://www.theverge.com/phones/768658/samsung-galaxy-s25-fe-tab-s11-ultra)
- - [Samsung takes another stab at an FE phone](https://www.theverge.com/news/770776/samsung-galaxy-s25-fe-tab-s11-ultra-price)<!-- TECH:END -->
+ - [Samsung’s Galaxy S25 FE and Tab S11 are thinner, lighter, and otherwise about the same](https://www.theverge.com/phones/768658/samsung-galaxy-s25-fe-tab-s11-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

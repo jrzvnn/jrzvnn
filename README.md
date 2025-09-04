@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wallet update turns &#39;buy now pay later&#39; into a built-in feature of iPhones](https://appleinsider.com/articles/25/09/04/wallet-update-turns-buy-now-pay-later-into-a-built-in-feature-of-iphones?utm_source=rss)
+ - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)
+ - [OpenAI plans to launch a jobs platform in 2026 to match employers with candidates with AI skills, and a certification program for AI roles in the coming months &lpar;Bloomberg&rpar;](http://www.techmeme.com/250904/p39#a250904p39)
  - [Why it’s so hard to make a ‘safer’ football helmet](https://www.theverge.com/design/771771/design-safer-helmets-nfl)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
- - [Tim Cook invited to meeting in Trump&#39;s Rose Garden [u]](https://appleinsider.com/articles/25/09/04/tim-cook-has-been-invited-a-meeting-in-trumps-rose-garden-on-iphone-17-launch-day?utm_source=rss)
- - [ID.me, a digital ID service used by US agencies like the IRS, raised a $340M Series E led by Ribbit at a $2B+ valuation, bringing its total funding to $580M+ &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p38#a250904p38)
- - [Stardew Valley’s creator is in Silksong](https://www.theverge.com/news/771772/hollow-knight-silksong-stardew-valley-eric-barone-concernedape)<!-- TECH:END -->
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: Grab Apple&#39;s 512GB M4 MacBook Air for just $999](https://appleinsider.com/articles/25/09/04/deals-grab-apples-512gb-m4-macbook-air-for-just-999?utm_source=rss)
  - [Bret Taylor&#39;s Sierra raised $350M at a $10B valuation, up from $4.5B in 2024, and says its AI customer service agents are being used by &quot;hundreds of millions&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250904/p40#a250904p40)
  - [Should AI Get Legal Rights?](https://www.wired.com/story/model-welfare-artificial-intelligence-sentience/)
  - [Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues](https://www.wired.com/story/uspto-denies-neuralinks-applications-for-telepathy-telekinesis-marks/)
- - [Wallet update turns &#39;buy now pay later&#39; into a built-in feature of iPhones](https://appleinsider.com/articles/25/09/04/wallet-update-turns-buy-now-pay-later-into-a-built-in-feature-of-iphones?utm_source=rss)
- - [Here are the best robot vacuum deals available right now](https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale)<!-- TECH:END -->
+ - [Wallet update turns &#39;buy now pay later&#39; into a built-in feature of iPhones](https://appleinsider.com/articles/25/09/04/wallet-update-turns-buy-now-pay-later-into-a-built-in-feature-of-iphones?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

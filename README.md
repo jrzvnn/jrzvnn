@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara announces Apple-friendly doorbell, outdoor camera, video hub, and more](https://www.theverge.com/news/771071/aqara-announces-apple-friendly-doorbell-outdoor-camera-video-hub-and-more)
- - [Belkin’s cheap wired earbuds give you ANC without battery anxieties](https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch)
- - [This Belkin Qi2 charging puck comes with a kickstand and cooling](https://www.theverge.com/news/770539/belkin-ultracharge-magnetic-charger-qi2-availability)
- - [Philips Hue responds to cheaper competitors with major product overhaul](https://www.theverge.com/smart-home/768554/philips-hue-essentials-smart-lighting-cheaper-support-matter-thread)
- - [Inside Philips Hue’s plans to make all your lights motion sensors](https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani)<!-- TECH:END -->
+ - [Taiwan&#39;s Hsinchu chip hub, where childcare perks and high salaries make raising children more viable, is the only place where its fertility rate is not falling &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250904/p9#a250904p9)
+ - [Anker stuffed its awesome Nebula X1 projector into a party speaker](https://www.theverge.com/news/765735/anker-nebula-x1-pro-party-speaker-price-specs)
+ - [Anker’s fastest power bank launches alongside new Prime family](https://www.theverge.com/news/765778/anker-fastest-power-bank-launches-new-prime-family)
+ - [Anker&amp;#8217;s new AI voice recorder is the size of a coin](https://www.theverge.com/news/769467/anker-soundcore-work-ai-recorder-gpt-4o)
+ - [Eufy&amp;#8217;s latest security camera can see everywhere all at once](https://www.theverge.com/news/769518/anker-eufycam-s4-4k-ai-core)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

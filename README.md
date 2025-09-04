@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix&#39;s union approves a 6% wage bump and 10% allocation of SK&#39;s annual profit to a bonus pool, totaling ~$2.7B for 33,625 staff in 2025, averting a strike &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250904/p19#a250904p19)
  - [Tim Cook has been invited a meeting in Trump&#39;s Rose Garden on iPhone 17 launch day](https://appleinsider.com/articles/25/09/04/tim-cook-has-been-invited-a-meeting-in-trumps-rose-garden-on-iphone-17-launch-day?utm_source=rss)
  - [A Labubu Rave Offers a Salve for the Darkest Timeline](https://www.wired.com/story/a-labubu-rave-offers-a-salve-for-the-darkest-timeline/)
  - [GSR fund documents: TikTok rival Xiaohongshu, known as RedNote in the US, saw its valuation rise 19% to $31B from $26B in March during recent GSR transactions &lpar;Echo Wong/Bloomberg&rpar;](http://www.techmeme.com/250904/p18#a250904p18)
- - [Sources: Alibaba, ByteDance, and other Chinese tech companies remain keen on Nvidia&#39;s AI chips despite Beijing strongly discouraging them from such purchases &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p17#a250904p17)
- - [Microsoft open-sources its 6502 version of BASIC from 1976](https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release)<!-- TECH:END -->
+ - [Sources: Alibaba, ByteDance, and other Chinese tech companies remain keen on Nvidia&#39;s AI chips despite Beijing strongly discouraging them from such purchases &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p17#a250904p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

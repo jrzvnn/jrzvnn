@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
+ - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
  - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 💣 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)
- - 😝 [Star trek is communism](http://9gag.com/gag/agmdQGW)
- - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
+ - 💣 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)
+ - 😝 [I like it](http://9gag.com/gag/arydmpX)
+ - 👉 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)<!-- MEMES:END -->
 
 ---
 

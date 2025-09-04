@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)
- - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
- - 💣 [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
- - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 👉 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)<!-- MEMES:END -->
+ - 😝 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
+ - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 💣 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)
+ - 😝 [Star trek is communism](http://9gag.com/gag/agmdQGW)
+ - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
 
 ---
 

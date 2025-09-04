@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hue launches its first video doorbell](https://www.theverge.com/news/769914/hue-video-doorbell-pricing-release-date)
  - [As the Pentagon rushes to deploy AI into its weapons systems, some experts fear humans can&#39;t keep pace with AI&#39;s aggressive tendency to escalate in a crisis &lpar;Michael Hirsh/Politico&rpar;](http://www.techmeme.com/250904/p8#a250904p8)
  - [AlliedOffsets: Microsoft dominates credit purchases from technology-based carbon removal projects, accounting for about $8B of the $9.5B market to date &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p7#a250904p7)
  - [US banking groups warn a GENIUS Act loophole, which allows crypto exchanges reward stablecoin holdings, could drive users to pull money from traditional banks &lpar;Adam Willems/Wired&rpar;](http://www.techmeme.com/250904/p6#a250904p6)
- - [Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs](https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2)
- - [At IFA 2025, tech giants like Amazon, Google, and Samsung and startups like Doma are expected to showcase how AI could make smart homes more intuitive &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p5#a250904p5)<!-- TECH:END -->
+ - [Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs](https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

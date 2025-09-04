@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I too enjoy roulette, but there are times I gotta restrict myself.](http://9gag.com/gag/aO8j3XM)
- - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 💣 [Self-defence](http://9gag.com/gag/aYQdQvm)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)<!-- MEMES:END -->
+ - 😝 [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
+ - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 😝 [Self-defence](http://9gag.com/gag/aYQdQvm)
+ - 👉 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)<!-- MEMES:END -->
 
 ---
 

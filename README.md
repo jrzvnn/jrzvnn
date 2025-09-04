@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 😝 [In the skies of Ukraine, during a combat mission, a MiG-29 fighter jet of the Azerbaijani Air Force was spotted.](http://9gag.com/gag/ae9d9j5)
- - 💣 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 😝 [Dystopian capitalism](http://9gag.com/gag/a9yVzq1)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 😝 [Whose line is it anyway?](http://9gag.com/gag/aYQdG4w)
+ - 😝 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [I over dicked it](http://9gag.com/gag/aRByEej)
+ - 👉 [Dont you know who i am.](http://9gag.com/gag/ajPd7Eq)<!-- MEMES:END -->
 
 ---
 

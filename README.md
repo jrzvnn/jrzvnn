@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Nvidia agreed to rent 10,000 of its own AI chips from Lambda for $1.3B over four years, the latest example of Nvidia&#39;s circular financial arrangements &lpar;The Information&rpar;](http://www.techmeme.com/250904/p43#a250904p43)
+ - [WBD files a copyright suit against Midjourney, accusing the startup of using its content to train AI and letting users generate images of characters like Batman &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/250904/p42#a250904p42)
  - [Augment, founded by Deliverr&#39;s Harish Abbott, raised an $85M Series A led by Redpoint to scale its AI assistant for logistics, five months after a $25M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p41#a250904p41)
  - [The new Street Fighter movie Hadokens into theaters in October 2026](https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast)
- - [Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now](https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale)
- - [US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers](https://www.wired.com/story/us-congressmans-brother-lands-no-bid-contract-to-train-dhs-snipers/)
- - [Deals: Grab Apple&#39;s 512GB M4 MacBook Air for just $999](https://appleinsider.com/articles/25/09/04/deals-grab-apples-512gb-m4-macbook-air-for-just-999?utm_source=rss)<!-- TECH:END -->
+ - [Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now](https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

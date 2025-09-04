@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Commercials Are Coming to NFL RedZone This Season... Sigh](https://www.cnet.com/tech/services-and-software/commercials-are-coming-to-nfl-redzone-this-season-sigh/#ftag=CAD590a51e)
- - [Meta rolls out a tool that lets users attach up to 10,000 characters of text to Threads posts, building upon the 500-character text limit for posts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250904/p36#a250904p36)
- - [Apple Arcade keeps adapting in hopes of finding its audience](https://appleinsider.com/articles/25/09/04/apple-arcade-keeps-adapting-in-hopes-of-finding-its-audience?utm_source=rss)
- - [Slovakia vs. Germany: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/slovakia-vs-germany-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why it’s so hard to make a ‘safer’ football helmet](https://www.theverge.com/design/771771/design-safer-helmets-nfl)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+ - [Tim Cook invited to meeting in Trump&#39;s Rose Garden [u]](https://appleinsider.com/articles/25/09/04/tim-cook-has-been-invited-a-meeting-in-trumps-rose-garden-on-iphone-17-launch-day?utm_source=rss)
+ - [ID.me, a digital ID service used by US agencies like the IRS, raised a $340M Series E led by Ribbit at a $2B+ valuation, bringing its total funding to $580M+ &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p38#a250904p38)
+ - [Stardew Valley’s creator is in Silksong](https://www.theverge.com/news/771772/hollow-knight-silksong-stardew-valley-eric-barone-concernedape)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

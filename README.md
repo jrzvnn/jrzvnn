@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
- - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
- - 💣 [I thought those are goals...](http://9gag.com/gag/a5QxQ1O)
- - 😝 [I like it](http://9gag.com/gag/arydmpX)
- - 👉 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)<!-- MEMES:END -->
+ - 😝 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)
+ - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - 💣 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
+ - 😝 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)
+ - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
 
 ---
 

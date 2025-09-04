@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honorable Mention](http://9gag.com/gag/aLnb1AP)
+ - 😝 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
  - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
  - 💣 [I thought those are goals...](http://9gag.com/gag/a5QxQ1O)
  - 😝 [I like it](http://9gag.com/gag/arydmpX)

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At IFA 2025, tech giants like Amazon, Google, and Samsung and startups like Doma are expected to showcase how AI could make smart homes more intuitive &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p5#a250904p5)
  - [Uber is tapping Indian drivers for its data-labeling arm, Uber AI Solutions, offering extra income for completing micro tasks like tagging objects in photos &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250904/p4#a250904p4)
  - [Despite setback in the DOJ&#39;s Google case, the Trump administration continues to pursue antitrust cases against Big Tech while defending US tech companies abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p3#a250904p3)
  - [Paramount Plus Coupon Codes and Deals: Up to 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
- - [LegalZoom Promo Codes and Deals: 20% Off Services](https://www.wired.com/story/legalzoom-promo-code/)
- - [CEOs of Apple, Google, Meta, OpenAI, and others are expected to attend an AI event hosted by Melania Trump and dinner at the White House Rose Garden on Thursday &lpar;The Hill&rpar;](http://www.techmeme.com/250904/p2#a250904p2)<!-- TECH:END -->
+ - [LegalZoom Promo Codes and Deals: 20% Off Services](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

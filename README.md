@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips Hue responds to cheaper competitors with major product overhaul](https://www.theverge.com/smart-home/768554/philips-hue-essentials-smart-lighting-cheaper-support-matter-thread)
+ - [Inside Philips Hue’s plans to make all your lights motion sensors](https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani)
+ - [Your Sonos speakers can now control your Hue lights](https://www.theverge.com/smart-home/768604/your-sonos-speakers-control-hue-lights)
  - [Hue launches its first video doorbell](https://www.theverge.com/news/769914/hue-video-doorbell-pricing-release-date)
- - [As the Pentagon rushes to deploy AI into its weapons systems, some experts fear humans can&#39;t keep pace with AI&#39;s aggressive tendency to escalate in a crisis &lpar;Michael Hirsh/Politico&rpar;](http://www.techmeme.com/250904/p8#a250904p8)
- - [AlliedOffsets: Microsoft dominates credit purchases from technology-based carbon removal projects, accounting for about $8B of the $9.5B market to date &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p7#a250904p7)
- - [US banking groups warn a GENIUS Act loophole, which allows crypto exchanges reward stablecoin holdings, could drive users to pull money from traditional banks &lpar;Adam Willems/Wired&rpar;](http://www.techmeme.com/250904/p6#a250904p6)
- - [Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs](https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2)<!-- TECH:END -->
+ - [Philips Hue lights get bigger, brighter, and cheaper with a major product refresh](https://www.theverge.com/ifa-berlin/769934/philips-hue-essentials-bridge-pro-light-strip-matter-ifa-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

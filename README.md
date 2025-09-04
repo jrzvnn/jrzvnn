@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian government data: India&#39;s push to develop a local chip industry is gaining momentum, with $18B in investment commitments and $7B+ in allocated subsidies &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/250904/p11#a250904p11)
- - [This Blood Thinner Is More Effective Than Aspirin at Preventing Heart Attacks](https://www.wired.com/story/anticoagulant-shown-to-be-more-effective-than-aspirin-in-preventing-heart-attacks/)
- - [Universities have begun appointing Chief AI Officers tasked with developing curricula, promoting tech partnerships, and integrating AI into faculty workflows &lpar;John Kell/Fortune&rpar;](http://www.techmeme.com/250904/p10#a250904p10)
- - [Taiwan&#39;s Hsinchu chip hub, where childcare perks and high salaries make raising children more viable, is the only place where its fertility rate is not falling &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250904/p9#a250904p9)
- - [Eufy’s Marswalker Is the First Robot Vacuum Designed to Climb a Full Flight of Stairs](https://www.cnet.com/home/kitchen-and-household/eufys-marswalker-is-the-first-robot-vacuum-designed-climb-full-flight-stairs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: DeepSeek is developing an agentic AI model that can carry out multi-step actions with little direction as well as learn and improve, set for a Q4 debut &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250904/p12#a250904p12)
+ - [Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price](https://www.wired.com/story/samsungs-galaxy-tab-s11-series-and-galaxy-s25-fe/)
+ - [Samsung’s Galaxy S25 FE and Tab S11 are thinner, lighter, and otherwise about the same](https://www.theverge.com/phones/768658/samsung-galaxy-s25-fe-tab-s11-ultra)
+ - [Samsung takes another stab at an FE phone](https://www.theverge.com/news/770776/samsung-galaxy-s25-fe-tab-s11-ultra-price)
+ - [The newest Samsung SmartThings hub ditches Z-Wave](https://www.theverge.com/ifa-berlin/770837/the-newest-samsung-smartthings-hub-ditches-z-wave)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

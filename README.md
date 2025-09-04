@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 😝 [Dont you know who i am.](http://9gag.com/gag/ajPd7Eq)
- - 💣 [I over dicked it](http://9gag.com/gag/aRByEej)
- - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
- - 👉 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)<!-- MEMES:END -->
+ - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 😝 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
+ - 👉 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Where\u2019s His Body Gone](http://9gag.com/gag/an7dgMo)
+ - 😝 [Finally some clarity](http://9gag.com/gag/an7dg05)
+ - 💣 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)
  - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 💣 [Life is beautiful](http://9gag.com/gag/azxBepq)
- - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
- - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
+ - 👉 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)<!-- MEMES:END -->
 
 ---
 

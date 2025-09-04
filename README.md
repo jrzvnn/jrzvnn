@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Sequoia flaw could have exposed Keychain data including passwords](https://appleinsider.com/articles/25/09/04/macos-sequoia-flaw-could-have-exposed-keychain-data-including-passwords?utm_source=rss)
  - [Leaked iPhone 17 Camera Control buttons reveal unexpected color options](https://appleinsider.com/articles/25/09/04/leaked-iphone-17-camera-control-buttons-reveal-unexpected-color-options?utm_source=rss)
  - [TCL gives parents a monochrome mode to combat kids&amp;#8217; phone addiction](https://www.theverge.com/news/768556/tcl-nxtpaper-5g-junior-ifa-e-reader-kids-phone)
  - [This AC adapter splits in two, giving you a wireless power bank for the road](https://www.theverge.com/news/770272/baseus-energeek-gt01-2-in-1-magnetic-power-bank)
- - [Adobe brings Premiere video editing to the iPhone](https://appleinsider.com/articles/25/09/04/adobe-brings-premiere-video-editing-to-the-iphone?utm_source=rss)
- - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)<!-- TECH:END -->
+ - [Adobe brings Premiere video editing to the iPhone](https://appleinsider.com/articles/25/09/04/adobe-brings-premiere-video-editing-to-the-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber is tapping Indian drivers for its data-labeling arm, Uber AI Solutions, offering extra income for completing micro tasks like tagging objects in photos &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250904/p4#a250904p4)
  - [Despite setback in the DOJ&#39;s Google case, the Trump administration continues to pursue antitrust cases against Big Tech while defending US tech companies abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p3#a250904p3)
  - [Paramount Plus Coupon Codes and Deals: Up to 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
  - [LegalZoom Promo Codes and Deals: 20% Off Services](https://www.wired.com/story/legalzoom-promo-code/)
- - [CEOs of Apple, Google, Meta, OpenAI, and others are expected to attend an AI event hosted by Melania Trump and dinner at the White House Rose Garden on Thursday &lpar;The Hill&rpar;](http://www.techmeme.com/250904/p2#a250904p2)
- - [Orchard Robotics, which uses cameras and AI to help fruit growers manage crops more precisely, raised a $22M Series A led by Quiet Capital and Shine Capital &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p1#a250904p1)<!-- TECH:END -->
+ - [CEOs of Apple, Google, Meta, OpenAI, and others are expected to attend an AI event hosted by Melania Trump and dinner at the White House Rose Garden on Thursday &lpar;The Hill&rpar;](http://www.techmeme.com/250904/p2#a250904p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

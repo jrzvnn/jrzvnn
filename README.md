@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
- - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
- - 💣 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 😝 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
+ - 💣 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
+ - 😝 [I like it](http://9gag.com/gag/arydmpX)
+ - 👉 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Augment, founded by Deliverr&#39;s Harish Abbott, raised an $85M Series A led by Redpoint to scale its AI assistant for logistics, five months after a $25M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p41#a250904p41)
+ - [The new Street Fighter movie Hadokens into theaters in October 2026](https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast)
  - [Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now](https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale)
  - [US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers](https://www.wired.com/story/us-congressmans-brother-lands-no-bid-contract-to-train-dhs-snipers/)
- - [Deals: Grab Apple&#39;s 512GB M4 MacBook Air for just $999](https://appleinsider.com/articles/25/09/04/deals-grab-apples-512gb-m4-macbook-air-for-just-999?utm_source=rss)
- - [Waymo Is Expanding to Denver and Seattle. Everything to Know About the Robotaxi](https://www.cnet.com/roadshow/news/waymo-is-expanding-to-denver-seattle-everything-to-know-about-the-robotaxi/#ftag=CAD590a51e)
- - [Bret Taylor&#39;s Sierra raised $350M at a $10B valuation, up from $4.5B in 2024, and says its AI customer service agents are being used by &quot;hundreds of millions&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250904/p40#a250904p40)<!-- TECH:END -->
+ - [Deals: Grab Apple&#39;s 512GB M4 MacBook Air for just $999](https://appleinsider.com/articles/25/09/04/deals-grab-apples-512gb-m4-macbook-air-for-just-999?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

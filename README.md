@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is set to avoid a potentially hefty EU antitrust fine by agreeing to sell Teams separately from its Office 365 and Microsoft 365 packages &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250904/p30#a250904p30)
+ - [Signify announces massive new lineup of Hue smart lights &amp; new Bridge Pro at IFA 2025](https://appleinsider.com/articles/25/09/04/signify-announces-massive-new-lineup-of-hue-smart-lights-new-bridge-pro-at-ifa-2025?utm_source=rss)
+ - [The best stuff announced at IFA so far](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
  - [Should the Company Trucks Go Electric? Depends on When You Charge](https://www.wired.com/story/managed-charging-evs-ford-southern-company/)
- - [The story behind YouTube’s NFL livestream](https://www.theverge.com/lowpass-newsletter/771340/youtube-nfl-livestream-free)
- - [The Unexpected Winners of Trump’s Trade War](https://www.wired.com/story/shein-temu-winners-trade-war-trump/)
- - [Ketryx, which is building an AI-native compliance platform to speed up medical device development, raised a $39M Series B, bringing its total funding to $55M+ &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250904/p29#a250904p29)
- - [It’s Possible to Remove the Forever Chemicals in Drinking Water. Will It Happen?](https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/)<!-- TECH:END -->
+ - [The story behind YouTube’s NFL livestream](https://www.theverge.com/lowpass-newsletter/771340/youtube-nfl-livestream-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

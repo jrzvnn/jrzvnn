@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
  - 😝 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
- - 💣 [593846](http://9gag.com/gag/ae9dQ6v)
- - 😝 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)
- - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
+ - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
+ - 💣 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
 
 ---
 

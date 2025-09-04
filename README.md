@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
- - 😝 [Finally some clarity](http://9gag.com/gag/an7dg05)
- - 💣 [Hard facts](http://9gag.com/gag/adBdgpZ)
+ - 😝 [Honorable Mention](http://9gag.com/gag/aLnb1AP)
+ - 😝 [The ad campaign we wanted.](http://9gag.com/gag/avyDQRM)
+ - 💣 [I over dicked it](http://9gag.com/gag/aRByEej)
  - 😝 [As a tradesman, I can appreciate this.](http://9gag.com/gag/aqydy4Y)
- - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
+ - 👉 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
- - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
- - 💣 [I like it](http://9gag.com/gag/arydmpX)
- - 😝 [Self-defence](http://9gag.com/gag/aYQdQvm)
- - 👉 [`My actions weren&#39;t supposed to have consequences!` - this \u2026r](http://9gag.com/gag/aRByBM7)<!-- MEMES:END -->
+ - 😝 [I too enjoy roulette, but there are times I gotta restrict myself.](http://9gag.com/gag/aO8j3XM)
+ - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 💣 [Self-defence](http://9gag.com/gag/aYQdQvm)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [I don&#39;t think hanz can handle this](http://9gag.com/gag/abAdV7v)<!-- MEMES:END -->
 
 ---
 

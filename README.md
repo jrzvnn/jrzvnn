@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [Dystopian capitalism](http://9gag.com/gag/a9yVzq1)
+ - 👉 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)<!-- MEMES:END -->
 
 ---
 

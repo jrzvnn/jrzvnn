@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 💣 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
- - 😝 [I like it](http://9gag.com/gag/arydmpX)
- - 👉 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)<!-- MEMES:END -->
+ - 😝 [This person has the best job](https://www.reddit.com/r/funny/comments/1n8fe1e/this_person_has_the_best_job/)
+ - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 😝 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
+ - 👉 [I like it](http://9gag.com/gag/arydmpX)<!-- MEMES:END -->
 
 ---
 

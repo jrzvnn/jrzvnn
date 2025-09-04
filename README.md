@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [In the skies of Ukraine, during a combat mission, a MiG-29 fighter jet of the Azerbaijani Air Force was spotted.](http://9gag.com/gag/ae9d9j5)
+ - 💣 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
  - 😝 [Dystopian capitalism](http://9gag.com/gag/a9yVzq1)
- - 👉 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)<!-- MEMES:END -->
+ - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
 
 ---
 

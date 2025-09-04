@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TCL’s fun little PlayCube projector is a Google TV concept no more](https://www.theverge.com/news/766615/tcls-fun-little-playcube-projector-is-a-google-tv-concept-no-more)
- - [Get your Star Trek cheap - a year of Paramount+ is half off for a limited time](https://appleinsider.com/articles/25/09/04/get-your-star-trek-cheap---a-year-of-paramount-is-half-off-for-a-limited-time?utm_source=rss)
- - [Honeywell&#39;s Quantinuum raised $600M from Quanta, Nvidia&#39;s NVentures, and others at a $10B pre-money valuation, up from $5B after raising $300M in January 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250904/p26#a250904p26)
- - [Roblox restricts some features in the UAE and Saudi Arabia, including its in-game chat tool, and improves Arabic content moderation over child safety concerns &lpar;Leen Al-Rashdan/Bloomberg&rpar;](http://www.techmeme.com/250904/p25#a250904p25)
- - [Samsung’s Galaxy S26 series may ape the iPhone 17’s biggest design change](https://www.theverge.com/news/771261/samsungs-galaxy-s26-series-may-ape-the-iphone-17s-biggest-design-change)<!-- TECH:END -->
+ - [Adobe brings Premiere video editing to the iPhone](https://appleinsider.com/articles/25/09/04/adobe-brings-premiere-video-editing-to-the-iphone?utm_source=rss)
+ - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)
+ - [Here’s how the Pixel’s AI zoom compares to a real 100x lens](https://www.theverge.com/tech/769360/google-pixel-10-pro-res-zoom-100x-sample-photos-nikon-coolpix-p1100)
+ - [Here is Lego’s $1,000 Death Star, the most expensive Lego set ever](https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date)
+ - [Strava’s refreshed Apple Watch app adds Live Segments](https://www.theverge.com/news/771048/stravas-refreshed-apple-watch-app-adds-live-segments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

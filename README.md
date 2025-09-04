@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
- - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
- - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 😝 [Self-defence](http://9gag.com/gag/aYQdQvm)
- - 👉 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)<!-- MEMES:END -->
+ - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 💣 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 😝 [Furlong](http://9gag.com/gag/aVvd7GK)
+ - 👉 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)<!-- MEMES:END -->
 
 ---
 

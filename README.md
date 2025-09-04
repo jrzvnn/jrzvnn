@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian government data: India&#39;s push to develop a local chip industry is gaining momentum, with $18B in investment commitments and $7B+ in allocated subsidies &lpar;Menaka Doshi/Bloomberg&rpar;](http://www.techmeme.com/250904/p11#a250904p11)
+ - [This Blood Thinner Is More Effective Than Aspirin at Preventing Heart Attacks](https://www.wired.com/story/anticoagulant-shown-to-be-more-effective-than-aspirin-in-preventing-heart-attacks/)
+ - [Universities have begun appointing Chief AI Officers tasked with developing curricula, promoting tech partnerships, and integrating AI into faculty workflows &lpar;John Kell/Fortune&rpar;](http://www.techmeme.com/250904/p10#a250904p10)
  - [Taiwan&#39;s Hsinchu chip hub, where childcare perks and high salaries make raising children more viable, is the only place where its fertility rate is not falling &lpar;Hsiuwen Liu/Rest of World&rpar;](http://www.techmeme.com/250904/p9#a250904p9)
- - [Anker stuffed its awesome Nebula X1 projector into a party speaker](https://www.theverge.com/news/765735/anker-nebula-x1-pro-party-speaker-price-specs)
- - [Anker’s fastest power bank launches alongside new Prime family](https://www.theverge.com/news/765778/anker-fastest-power-bank-launches-new-prime-family)
- - [Anker&amp;#8217;s new AI voice recorder is the size of a coin](https://www.theverge.com/news/769467/anker-soundcore-work-ai-recorder-gpt-4o)
- - [Eufy&amp;#8217;s latest security camera can see everywhere all at once](https://www.theverge.com/news/769518/anker-eufycam-s4-4k-ai-core)<!-- TECH:END -->
+ - [Anker stuffed its awesome Nebula X1 projector into a party speaker](https://www.theverge.com/news/765735/anker-nebula-x1-pro-party-speaker-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

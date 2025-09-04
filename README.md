@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CEOs of Apple, Google, Meta, OpenAI, and others are expected to attend an AI event hosted by Melania Trump and dinner at the White House Rose Garden on Thursday &lpar;The Hill&rpar;](http://www.techmeme.com/250904/p2#a250904p2)
  - [Orchard Robotics, which uses cameras and AI to help fruit growers manage crops more precisely, raised a $22M Series A led by Quiet Capital and Shine Capital &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p1#a250904p1)
  - [Meet Dyson’s Brand-New Lineup: V8 Cyclone, V16 Piston Animal, HushJet Purifier Compact](https://www.wired.com/story/dyson-new-lineup-2026/)
  - [How to use Siri with ChatGPT on older iPhones without Apple Intelligence](https://appleinsider.com/inside/ios/tips/how-to-use-siri-with-chatgpt-on-older-iphones-without-apple-intelligence?utm_source=rss)
- - [Switzerland launches Apertus, an open-source AI model trained only on publicly available data across more than 1,000 languages, in 8B and 70B parameter sizes &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250903/p52#a250903p52)
- - [Bengaluru-based FirstClub, a grocery delivery startup prioritizing quality over speed, raised a $23M Series A led by Accel and RTP Global at a $120M valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250903/p51#a250903p51)<!-- TECH:END -->
+ - [Switzerland launches Apertus, an open-source AI model trained only on publicly available data across more than 1,000 languages, in 8B and 70B parameter sizes &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/250903/p52#a250903p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

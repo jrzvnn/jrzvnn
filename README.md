@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Wikipedia became the factual foundation of the web and why it&#39;s under attack from Musk, conservative groups, the Trump administration, and other governments &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/250904/p47#a250904p47)
  - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)
  - [Tech companies pledge to ready Americans for an AI-dominated world](https://www.theverge.com/policy/772084/amazon-google-microsoft-white-house-ai-education)
  - [An Anthropic executive says the company will stop selling AI services to majority Chinese-owned groups and to US adversaries, like Russia, Iran, and North Korea &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p46#a250904p46)
- - [Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now](https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/)
- - [Marvel Rivals Season 4 Release Time: Angela Abilities and Balance Changes](https://www.cnet.com/tech/gaming/marvel-rivals-season-4-release-time-angela-abilities-and-balance-changes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now](https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 💣 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)
- - 😝 [I like it](http://9gag.com/gag/arydmpX)
- - 👉 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)<!-- MEMES:END -->
+ - 😝 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)
+ - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
+ - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [Whiping Up The Cream](http://9gag.com/gag/abAdvm9)<!-- MEMES:END -->
 
 ---
 

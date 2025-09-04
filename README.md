@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: StubHub and Netskope plan to start formally marketing their IPOs as soon as Monday; StubHub could raise $1B+, and Netskope is seeking to raise ~$1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250904/p44#a250904p44)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Source: Nvidia agreed to rent 10,000 of its own AI chips from Lambda for $1.3B over four years, the latest example of Nvidia&#39;s circular financial arrangements &lpar;The Information&rpar;](http://www.techmeme.com/250904/p43#a250904p43)
  - [WBD files a copyright suit against Midjourney, accusing the startup of using its content to train AI and letting users generate images of characters like Batman &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/250904/p42#a250904p42)
- - [Augment, founded by Deliverr&#39;s Harish Abbott, raised an $85M Series A led by Redpoint to scale its AI assistant for logistics, five months after a $25M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p41#a250904p41)
- - [The new Street Fighter movie Hadokens into theaters in October 2026](https://www.theverge.com/news/771977/street-fighter-movie-release-date-cast)
- - [Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now](https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale)<!-- TECH:END -->
+ - [Augment, founded by Deliverr&#39;s Harish Abbott, raised an $85M Series A led by Redpoint to scale its AI assistant for logistics, five months after a $25M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250904/p41#a250904p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Docusign reports Q2 revenue up 9% YoY to $800.6M vs. $780.1M est., raises FY 2026 sales outlook, and forecasts Q3 revenue above est.; DOCU jumps 8%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p48#a250904p48)
  - [How Wikipedia became the factual foundation of the web and why it&#39;s under attack from Musk, conservative groups, the Trump administration, and other governments &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/250904/p47#a250904p47)
- - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)
- - [Tech companies pledge to ready Americans for an AI-dominated world](https://www.theverge.com/policy/772084/amazon-google-microsoft-white-house-ai-education)
- - [An Anthropic executive says the company will stop selling AI services to majority Chinese-owned groups and to US adversaries, like Russia, Iran, and North Korea &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p46#a250904p46)
- - [Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now](https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/)<!-- TECH:END -->
+ - [3 Sports Documentaries You Absolutely Should Watch Right Now](https://www.cnet.com/tech/services-and-software/3-sports-documentaries-you-absolutely-should-watch-right-now/#ftag=CAD590a51e)
+ - [Roborock’s New Lineup at IFA 2025 Includes Its First Robot Lawnmowers, an Ultra-Thin Robot Vacuum and More](https://www.cnet.com/news/roborocks-new-lineup-at-ifa-2025-includes-its-first-robot-lawnmowers-new-stick-vacuums-an-ultra-thin-robot-vacuum-and-more/#ftag=CAD590a51e)
+ - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

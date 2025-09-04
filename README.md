@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silksong&amp;#8217;s release is hammering Steam, Xbox, PlayStation, and Nintendo stores](https://www.theverge.com/games/771461/silksong-release-steam-nintendo-eshop-crash)
- - [3 Best Robot Lawn Mowers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-robot-lawn-mowers/)
- - [Six years after launch, Apple Arcade is striving for a bigger audience](https://www.theverge.com/games/770599/apple-arcade-interview-alex-rothman)
- - [Amazon&amp;#8217;s Project Kuiper strikes its first satellite internet deal with an airline](https://www.theverge.com/news/771459/amazon-project-kuiper-jetblue-satellite-internet)
- - [Sources: plans for X Money, a nationwide peer-to-peer payments service integrated into X, have stalled as DFS NY and other state regulators raise concerns &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250904/p27#a250904p27)<!-- TECH:END -->
+ - [Ketryx, which is building an AI-native compliance platform to speed up medical device development, raised a $39M Series B, bringing its total funding to $55M+ &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250904/p29#a250904p29)
+ - [We Can Get Rid of Carcinogens and Forever Chemicals in Drinking Water. Will We Do It?](https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/)
+ - [Jury orders Google to pay $425 million for violating user privacy](https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking)
+ - [Lead Bank, a 97-year-old Missouri bank rebuilt to serve fintech and crypto firms, raised $70M from a16z, Khosla Ventures, and others at a $1.47B valuation &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250904/p28#a250904p28)
+ - [Welcome to Optimizer, our relentless quest to live a smarter, healthier life](https://www.theverge.com/optimizer-newsletter/769130/optimizer-newsletter-gadgets-apps-wearable-health)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

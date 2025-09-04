@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook invited to meeting in Trump&#39;s Rose Garden on iPhone 17 launch day](https://appleinsider.com/articles/25/09/04/tim-cook-has-been-invited-a-meeting-in-trumps-rose-garden-on-iphone-17-launch-day?utm_source=rss)
- - [Amazon&#39;s Project Kuiper signs up JetBlue as its first airline customer to use its satellite internet for in-flight Wi-Fi in a quarter of the fleet from 2027 &lpar;Micah Maidenberg/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p23#a250904p23)
- - [Modest iPhone 17 Pro price increase rumor challenged by new estimate](https://appleinsider.com/articles/25/09/04/modest-iphone-17-pro-price-increase-rumor-challenged-by-new-estimate?utm_source=rss)
- - [Israeli startup Sola, which develops AI-based low-code cybersecurity tools, raised a $35M Series A led by S32 and says it has ~2,000 customers &lpar;Resilience Media&rpar;](http://www.techmeme.com/250904/p22#a250904p22)
- - [The US Army awards a $98.9M contract to TurbineOne to deploy AI software that helps infantry identify drones and other threats locally on soldiers&#39; devices &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p21#a250904p21)<!-- TECH:END -->
+ - [TCL’s fun little PlayCube projector is a Google TV concept no more](https://www.theverge.com/news/766615/tcls-fun-little-playcube-projector-is-a-google-tv-concept-no-more)
+ - [Get your Star Trek cheap - a year of Paramount+ is half off for a limited time](https://appleinsider.com/articles/25/09/04/get-your-star-trek-cheap---a-year-of-paramount-is-half-off-for-a-limited-time?utm_source=rss)
+ - [Honeywell&#39;s Quantinuum raised $600M from Quanta, Nvidia&#39;s NVentures, and others at a $10B pre-money valuation, up from $5B after raising $300M in January 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250904/p26#a250904p26)
+ - [Roblox restricts some features in the UAE and Saudi Arabia, including its in-game chat tool, and improves Arabic content moderation over child safety concerns &lpar;Leen Al-Rashdan/Bloomberg&rpar;](http://www.techmeme.com/250904/p25#a250904p25)
+ - [Samsung’s Galaxy S26 series may ape the iPhone 17’s biggest design change](https://www.theverge.com/news/771261/samsungs-galaxy-s26-series-may-ape-the-iphone-17s-biggest-design-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The story behind YouTube’s NFL livestream](https://www.theverge.com/lowpass-newsletter/771340/youtube-nfl-livestream-free)
+ - [The Unexpected Winners of Trump’s Trade War](https://www.wired.com/story/shein-temu-winners-trade-war-trump/)
  - [Ketryx, which is building an AI-native compliance platform to speed up medical device development, raised a $39M Series B, bringing its total funding to $55M+ &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250904/p29#a250904p29)
- - [We Can Get Rid of Carcinogens and Forever Chemicals in Drinking Water. Will We Do It?](https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/)
- - [Jury orders Google to pay $425 million for violating user privacy](https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking)
- - [Lead Bank, a 97-year-old Missouri bank rebuilt to serve fintech and crypto firms, raised $70M from a16z, Khosla Ventures, and others at a $1.47B valuation &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/250904/p28#a250904p28)
- - [Welcome to Optimizer, our relentless quest to live a smarter, healthier life](https://www.theverge.com/optimizer-newsletter/769130/optimizer-newsletter-gadgets-apps-wearable-health)<!-- TECH:END -->
+ - [It’s Possible to Remove the Forever Chemicals in Drinking Water. Will It Happen?](https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/)
+ - [Jury orders Google to pay $425 million for violating user privacy](https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

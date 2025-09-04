@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
- - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
  - 💣 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
- - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
  - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
 
 ---

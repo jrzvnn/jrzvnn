@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro lineup may get modest RAM increase versus iPhone 16 Pro](https://appleinsider.com/articles/25/09/04/iphone-17-pro-lineup-may-get-modest-ram-increase-versus-iphone-16-pro?utm_source=rss)
- - [How Often Should You Vacuum to Get Rid of Microplastics and Other Particulates? &lpar;2025&rpar;](https://www.wired.com/story/how-often-should-you-vacuum/)
- - [World’s first sodium-ion portable power station is ready for extreme cold](https://www.theverge.com/news/767607/worlds-first-sodium-ion-power-station-is-ready-for-extreme-cold)
- - [Ecovacs claims its fast-charging robovac can clean nonstop](https://www.theverge.com/news/770205/ecovacs-deebot-omni-x11-fast-charging-robovac)
- - [The quest to keep OpenAI honest](https://www.theverge.com/decoder-podcast-with-nilay-patel/770325/eyesonopenai-coalition-nonprofit-sam-altman-ai)<!-- TECH:END -->
+ - [3 Best Robot Lawn Mowers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-robot-lawn-mowers/)
+ - [Six years after launch, Apple Arcade is striving for a bigger audience](https://www.theverge.com/games/770599/apple-arcade-interview-alex-rothman)
+ - [Amazon&amp;#8217;s Project Kuiper signs first airline to space internet service](https://www.theverge.com/news/771459/amazon-project-kuiper-jetblue-satellite-internet)
+ - [Sources: plans for X Money, a nationwide peer-to-peer payments service integrated into X, have stalled as DFS NY and other state regulators raise concerns &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250904/p27#a250904p27)
+ - [iPhone 17 Pro lineup may get modest RAM increase versus iPhone 16 Pro](https://appleinsider.com/articles/25/09/04/iphone-17-pro-lineup-may-get-modest-ram-increase-versus-iphone-16-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

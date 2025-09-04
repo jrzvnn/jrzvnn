@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked iPhone 17 Camera Control buttons reveal unexpected color options](https://appleinsider.com/articles/25/09/04/leaked-iphone-17-camera-control-buttons-reveal-unexpected-color-options?utm_source=rss)
+ - [TCL gives parents a monochrome mode to combat kids&amp;#8217; phone addiction](https://www.theverge.com/news/768556/tcl-nxtpaper-5g-junior-ifa-e-reader-kids-phone)
+ - [This AC adapter splits in two, giving you a wireless power bank for the road](https://www.theverge.com/news/770272/baseus-energeek-gt01-2-in-1-magnetic-power-bank)
  - [Adobe brings Premiere video editing to the iPhone](https://appleinsider.com/articles/25/09/04/adobe-brings-premiere-video-editing-to-the-iphone?utm_source=rss)
- - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)
- - [Here’s how the Pixel’s AI zoom compares to a real 100x lens](https://www.theverge.com/tech/769360/google-pixel-10-pro-res-zoom-100x-sample-photos-nikon-coolpix-p1100)
- - [Here is Lego’s $1,000 Death Star, the most expensive Lego set ever](https://www.theverge.com/news/770770/lego-ucs-death-star-price-release-date)
- - [Strava’s refreshed Apple Watch app adds Live Segments](https://www.theverge.com/news/771048/stravas-refreshed-apple-watch-app-adds-live-segments)<!-- TECH:END -->
+ - [How to Prevent Tech Neck and Sit Properly With Your Laptop &lpar;2025&rpar;](https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

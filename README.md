@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whose line is it anyway?](http://9gag.com/gag/aYQdG4w)
- - 😝 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
- - 💣 [Good old days](http://9gag.com/gag/aW4dp83)
- - 😝 [I over dicked it](http://9gag.com/gag/aRByEej)
- - 👉 [Dont you know who i am.](http://9gag.com/gag/ajPd7Eq)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [Dont you know who i am.](http://9gag.com/gag/ajPd7Eq)
+ - 💣 [I over dicked it](http://9gag.com/gag/aRByEej)
+ - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
+ - 👉 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)<!-- MEMES:END -->
 
 ---
 

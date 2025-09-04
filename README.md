@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research and 25 experts, victims, and execs: North Korean hackers are saturating the crypto industry with credible-seeming job offers in a bid to steal crypto &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p20#a250904p20)
  - [Apple&#39;s iPhone 17 Is Almost Here: These Are the Biggest Rumors](https://www.cnet.com/tech/mobile/apples-iphone-17-is-almost-here-these-are-the-biggest-rumors/#ftag=CAD590a51e)
  - [SK Hynix&#39;s union approves a 6% wage bump and 10% allocation of SK&#39;s annual profit to a bonus pool, totaling ~$2.7B for 33,625 staff in 2025, averting a strike &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250904/p19#a250904p19)
  - [Best Unlimited Data Plans for 2025](https://www.cnet.com/tech/mobile/best-unlimited-data-plan/#ftag=CAD590a51e)
- - [Porsche Is Set to Be the First Electric Car Maker to Deliver Wireless Charging Later This Year](https://www.cnet.com/roadshow/news/porsche-is-set-to-be-the-first-electric-car-maker-to-deliver-wireless-charging-later-this-year/#ftag=CAD590a51e)
- - [Tim Cook has been invited a meeting in Trump&#39;s Rose Garden on iPhone 17 launch day](https://appleinsider.com/articles/25/09/04/tim-cook-has-been-invited-a-meeting-in-trumps-rose-garden-on-iphone-17-launch-day?utm_source=rss)<!-- TECH:END -->
+ - [Porsche Is Set to Be the First Electric Car Maker to Deliver Wireless Charging Later This Year](https://www.cnet.com/roadshow/news/porsche-is-set-to-be-the-first-electric-car-maker-to-deliver-wireless-charging-later-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

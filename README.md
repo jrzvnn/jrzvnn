@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honorable Mention](http://9gag.com/gag/aLnb1AP)
- - 😝 [What skill this girl has with the love of her life](http://9gag.com/gag/ae9d9GB)
- - 💣 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
- - 😝 [I like it](http://9gag.com/gag/arydmpX)
- - 👉 [`My actions weren&#39;t supposed to have consequences!` - this \u2026r](http://9gag.com/gag/aRByBM7)<!-- MEMES:END -->
+ - 😝 [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
+ - 😝 [This python really thought it could get away with eating a whole alligator](http://9gag.com/gag/a0ex73Z)
+ - 💣 [Surstr\u00f6mming prank](http://9gag.com/gag/abAdg0L)
+ - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
+ - 👉 [Hard facts](http://9gag.com/gag/adBdgpZ)<!-- MEMES:END -->
 
 ---
 

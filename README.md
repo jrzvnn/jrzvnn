@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Anthropic&#39;s Frontier Red Team, which is unique among AI companies in having a mandate to both evaluate its AI models and publicize findings widely &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/250904/p33#a250904p33)
+ - [Google now lets US-based Google Photos users turn static images into silent four-second videos using its Veo 3 model &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250904/p32#a250904p32)
+ - [Stripe and Paradigm unveil Tempo, a Layer-1 blockchain for stablecoins; a source says Tempo will not launch with its own token and there is no launch timeline &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250904/p31#a250904p31)
  - [Darth Vader&amp;#8217;s lightsaber is up for auction](https://www.theverge.com/news/771642/darth-vader-lightsaber-propstore-auction-indiana-jones)
- - [Apple sets its sights on turning future Apple Vision product into Smart Sunglasses](https://appleinsider.com/articles/25/09/04/apple-sets-its-sights-on-turning-future-apple-vision-product-into-smart-sunglasses?utm_source=rss)
- - [Meet Dyson’s Brand-New Lineup: V8 Cyclone, V16 Piston Animal, HushJet Purifier Compact](https://www.wired.com/story/dyson-new-lineup-2026/)
- - [Xgimi’s incredibly bright 4K projector targets daytime gamers](https://www.theverge.com/news/766515/xgimi-bright-4k-projector-targets-daytime-gamers)
- - [Microsoft is about to shake up its Copilot pricing for businesses](https://www.theverge.com/notepad-microsoft-newsletter/771199/microsoft-365-copilot-changes-agents-pricing-notepad)<!-- TECH:END -->
+ - [‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash](https://www.wired.com/story/hollow-knight-silksong-is-already-causing-online-gaming-stores-to-crash/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

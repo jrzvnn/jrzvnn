@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters](https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit)
  - [Tech companies pledge to ready Americans for an AI-dominated world](https://www.theverge.com/policy/772084/amazon-google-microsoft-white-house-ai-education)
  - [An Anthropic executive says the company will stop selling AI services to majority Chinese-owned groups and to US adversaries, like Russia, Iran, and North Korea &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p46#a250904p46)
  - [Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now](https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/)
- - [Broadcom reports Q3 revenue up 22% YoY to $16B, vs. $15.8B est., AI revenue up 63% to $5.2B, vs. $5.11B est., and forecasts Q4 revenue above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250904/p45#a250904p45)
- - [Sources: StubHub and Netskope plan to start formally marketing their IPOs as soon as Monday; StubHub could raise $1B+, and Netskope is seeking to raise ~$1B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250904/p44#a250904p44)<!-- TECH:END -->
+ - [Broadcom reports Q3 revenue up 22% YoY to $16B, vs. $15.8B est., AI revenue up 63% to $5.2B, vs. $5.11B est., and forecasts Q4 revenue above estimates &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250904/p45#a250904p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

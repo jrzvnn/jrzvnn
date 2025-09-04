@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US v. Google ruling signals a cautious antitrust approach by courts and a reluctance to intervene too deeply, ahead of other Big Tech antitrust rulings &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/250904/p14#a250904p14)
- - [Samsung unveils the $650+ Galaxy S25 FE and $800+ Tab S11 series in 11&quot; and 14.6&quot;, offering thinner, lighter designs alongside modest upgrades, shipping now &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250904/p13#a250904p13)
- - [Sources: DeepSeek is developing an agentic AI model that can carry out multi-step actions with little direction as well as learn and improve, set for a Q4 debut &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250904/p12#a250904p12)
- - [Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price](https://www.wired.com/story/samsungs-galaxy-tab-s11-series-and-galaxy-s25-fe/)
- - [Samsung’s Galaxy S25 FE and Tab S11 are thinner, lighter, and otherwise about the same](https://www.theverge.com/phones/768658/samsung-galaxy-s25-fe-tab-s11-ultra)<!-- TECH:END -->
+ - [Microsoft open-sources its 6502 version of BASIC from 1976](https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release)
+ - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
+ - [Philips Hue unveils a major product refresh at IFA 2025, including a $90 Hue Bridge Pro, updated $25 smart bulbs, and the $169 Hue Secure doorbell, its first &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p16#a250904p16)
+ - [Tencent releases HunyuanWorld-Voyager, an open-weights AI model that generates 3D-consistent video sequences from a single image, trained on 100K+ video clips &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250904/p15#a250904p15)
+ - [Huawei’s second trifold adds stylus support and purple pleather](https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

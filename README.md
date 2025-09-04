@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
- - 😝 [Recycling plastic](http://9gag.com/gag/apRd9YD)
- - 💣 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
- - 😝 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)
- - 👉 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)<!-- MEMES:END -->
+ - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 😝 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
+ - 💣 [593846](http://9gag.com/gag/ae9dQ6v)
+ - 😝 [This girl with a sneezing condition](http://9gag.com/gag/a9yV1NW)
+ - 👉 [Life is beautiful](http://9gag.com/gag/azxBepq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Alibaba, ByteDance, and other Chinese tech companies remain keen on Nvidia&#39;s AI chips despite Beijing strongly discouraging them from such purchases &lpar;Reuters&rpar;](http://www.techmeme.com/250904/p17#a250904p17)
  - [Microsoft open-sources its 6502 version of BASIC from 1976](https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release)
  - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
  - [Philips Hue unveils a major product refresh at IFA 2025, including a $90 Hue Bridge Pro, updated $25 smart bulbs, and the $169 Hue Secure doorbell, its first &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250904/p16#a250904p16)
- - [Tencent releases HunyuanWorld-Voyager, an open-weights AI model that generates 3D-consistent video sequences from a single image, trained on 100K+ video clips &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250904/p15#a250904p15)
- - [Huawei’s second trifold adds stylus support and purple pleather](https://www.theverge.com/news/771122/huaweis-second-trifold-adds-stylus-support-and-purple-pleather)<!-- TECH:END -->
+ - [Tencent releases HunyuanWorld-Voyager, an open-weights AI model that generates 3D-consistent video sequences from a single image, trained on 100K+ video clips &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/250904/p15#a250904p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

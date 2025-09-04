@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should the Company Trucks Go Electric? Depends on When You Charge](https://www.wired.com/story/managed-charging-evs-ford-southern-company/)
  - [The story behind YouTube’s NFL livestream](https://www.theverge.com/lowpass-newsletter/771340/youtube-nfl-livestream-free)
  - [The Unexpected Winners of Trump’s Trade War](https://www.wired.com/story/shein-temu-winners-trade-war-trump/)
  - [Ketryx, which is building an AI-native compliance platform to speed up medical device development, raised a $39M Series B, bringing its total funding to $55M+ &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/250904/p29#a250904p29)
- - [It’s Possible to Remove the Forever Chemicals in Drinking Water. Will It Happen?](https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/)
- - [Jury orders Google to pay $425 million for violating user privacy](https://www.theverge.com/news/771540/google-class-action-verdict-user-privacy-tracking)<!-- TECH:END -->
+ - [It’s Possible to Remove the Forever Chemicals in Drinking Water. Will It Happen?](https://www.wired.com/story/we-can-get-rid-of-carcinogens-and-forever-chemicals-in-drinking-water-will-we-do-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

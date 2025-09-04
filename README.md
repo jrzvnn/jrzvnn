@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aqara announces Apple-friendly doorbell, outdoor camera, video hub, and more](https://www.theverge.com/news/771071/aqara-announces-apple-friendly-doorbell-outdoor-camera-video-hub-and-more)
+ - [Belkin’s cheap wired earbuds give you ANC without battery anxieties](https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch)
+ - [This Belkin Qi2 charging puck comes with a kickstand and cooling](https://www.theverge.com/news/770539/belkin-ultracharge-magnetic-charger-qi2-availability)
  - [Philips Hue responds to cheaper competitors with major product overhaul](https://www.theverge.com/smart-home/768554/philips-hue-essentials-smart-lighting-cheaper-support-matter-thread)
- - [Inside Philips Hue’s plans to make all your lights motion sensors](https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani)
- - [Your Sonos speakers can now control your Hue lights](https://www.theverge.com/smart-home/768604/your-sonos-speakers-control-hue-lights)
- - [Hue launches its first video doorbell](https://www.theverge.com/news/769914/hue-video-doorbell-pricing-release-date)
- - [Philips Hue lights get bigger, brighter, and cheaper with a major product refresh](https://www.theverge.com/ifa-berlin/769934/philips-hue-essentials-bridge-pro-light-strip-matter-ifa-launch)<!-- TECH:END -->
+ - [Inside Philips Hue’s plans to make all your lights motion sensors](https://www.theverge.com/smart-home/768585/philips-hue-motion-aware-rf-sensing-lights-motion-ivani)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

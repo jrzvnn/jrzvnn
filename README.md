@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft is set to avoid a potentially hefty EU antitrust fine by agreeing to sell Teams separately from its Office 365 and Microsoft 365 packages &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/250904/p30#a250904p30)
- - [Signify announces massive new lineup of Hue smart lights &amp; new Bridge Pro at IFA 2025](https://appleinsider.com/articles/25/09/04/signify-announces-massive-new-lineup-of-hue-smart-lights-new-bridge-pro-at-ifa-2025?utm_source=rss)
- - [The best stuff announced at IFA so far](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
- - [Should the Company Trucks Go Electric? Depends on When You Charge](https://www.wired.com/story/managed-charging-evs-ford-southern-company/)
- - [The story behind YouTube’s NFL livestream](https://www.theverge.com/lowpass-newsletter/771340/youtube-nfl-livestream-free)<!-- TECH:END -->
+ - [Darth Vader&amp;#8217;s lightsaber is up for auction](https://www.theverge.com/news/771642/darth-vader-lightsaber-propstore-auction-indiana-jones)
+ - [Apple sets its sights on turning future Apple Vision product into Smart Sunglasses](https://appleinsider.com/articles/25/09/04/apple-sets-its-sights-on-turning-future-apple-vision-product-into-smart-sunglasses?utm_source=rss)
+ - [Meet Dyson’s Brand-New Lineup: V8 Cyclone, V16 Piston Animal, HushJet Purifier Compact](https://www.wired.com/story/dyson-new-lineup-2026/)
+ - [Xgimi’s incredibly bright 4K projector targets daytime gamers](https://www.theverge.com/news/766515/xgimi-bright-4k-projector-targets-daytime-gamers)
+ - [Microsoft is about to shake up its Copilot pricing for businesses](https://www.theverge.com/notepad-microsoft-newsletter/771199/microsoft-365-copilot-changes-agents-pricing-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

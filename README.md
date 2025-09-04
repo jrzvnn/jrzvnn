@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
- - 😝 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)
- - 💣 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 😝 [He should try vegan](http://9gag.com/gag/ajPd760)
- - 👉 [This driver deserves prison](http://9gag.com/gag/aPApg0w)<!-- MEMES:END -->
+ - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
+ - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 💣 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
+ - 😝 [I like it](http://9gag.com/gag/arydmpX)
+ - 👉 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)<!-- MEMES:END -->
 
 ---
 

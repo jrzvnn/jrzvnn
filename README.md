@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how I imagine my dog is in heaven right now](http://9gag.com/gag/aoydyKg)
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 💣 [Cleopatra looks a lot like Britney Spears](http://9gag.com/gag/avyDydd)
- - 😝 [I like it](http://9gag.com/gag/arydmpX)
- - 👉 [Nobody reads this.](http://9gag.com/gag/a9yVyeL)<!-- MEMES:END -->
+ - 😝 [She has got to be dreaming..](http://9gag.com/gag/a87n7XQ)
+ - 😝 [Life is beautiful](http://9gag.com/gag/azxBepq)
+ - 💣 [Not a surprise tbh](http://9gag.com/gag/a2vx1b1)
+ - 😝 [This machine is a game-changer for tomato harvesting](http://9gag.com/gag/amodArj)
+ - 👉 [There is a certain beauty in the idiocy of individuals\u2026 case in point\u2026](http://9gag.com/gag/ae9dQKB)<!-- MEMES:END -->
 
 ---
 

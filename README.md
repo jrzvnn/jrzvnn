@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Commercials Are Coming to NFL RedZone This Season... Sigh](https://www.cnet.com/tech/services-and-software/commercials-are-coming-to-nfl-redzone-this-season-sigh/#ftag=CAD590a51e)
  - [Meta rolls out a tool that lets users attach up to 10,000 characters of text to Threads posts, building upon the 500-character text limit for posts &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250904/p36#a250904p36)
  - [Apple Arcade keeps adapting in hopes of finding its audience](https://appleinsider.com/articles/25/09/04/apple-arcade-keeps-adapting-in-hopes-of-finding-its-audience?utm_source=rss)
- - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Anti-Vaxxers Rejoice at Florida’s Scheme to End Vaccine Mandates for Kids and Everyone Else](https://www.wired.com/story/anti-vaxxers-rejoice-florida-plan-end-vaccine-mandate/)
- - [The tech antitrust renaissance may already be over](https://www.theverge.com/policy/771409/break-up-big-tech-movement-google-search-remedies-ruling)<!-- TECH:END -->
+ - [Slovakia vs. Germany: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/slovakia-vs-germany-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

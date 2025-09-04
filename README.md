@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Automotive AI company Cerence sues Apple for patent infringement](https://appleinsider.com/articles/25/09/04/automotive-ai-company-cerence-sues-apple-for-patent-infringement?utm_source=rss)
  - [Docusign reports Q2 revenue up 9% YoY to $800.6M vs. $780.1M est., raises FY 2026 sales outlook, and forecasts Q3 revenue above est.; DOCU jumps 8%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250904/p48#a250904p48)
  - [How Wikipedia became the factual foundation of the web and why it&#39;s under attack from Musk, conservative groups, the Trump administration, and other governments &lpar;Josh Dzieza/The Verge&rpar;](http://www.techmeme.com/250904/p47#a250904p47)
- - [A Lunar Eclipse and Blood Moon Are Coming This Weekend: How to Stream Them](https://www.cnet.com/science/space/a-lunar-eclipse-and-blood-moon-are-coming-this-weekend-how-to-stream-them/#ftag=CAD590a51e)
- - [NFL 2025 Kickoff Game: How to Watch Cowboys vs. Eagles Tonight](https://www.cnet.com/tech/services-and-software/nfl-2025-kickoff-game-how-to-watch-cowboys-vs-eagles-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Lunar Eclipse and Blood Moon Are Coming This Weekend: How to Stream Them](https://www.cnet.com/science/space/a-lunar-eclipse-and-blood-moon-are-coming-this-weekend-how-to-stream-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

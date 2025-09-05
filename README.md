@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
+ - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
  - 💣 [Australia is wild, Australians are wilder](http://9gag.com/gag/aE0Q6Xn)
- - 😝 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
- - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 👉 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)<!-- MEMES:END -->
 
 ---
 

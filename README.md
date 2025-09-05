@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 😝 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
- - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)<!-- MEMES:END -->
+ - 😝 [But first, paying half a million dollars for a block like that.](http://9gag.com/gag/aRByB6q)
+ - 😝 [Dementia. What&#39;s waiting for me at the end of my life](http://9gag.com/gag/aXPdnBv)
+ - 💣 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
+ - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 

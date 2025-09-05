@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smart Man](http://9gag.com/gag/aD2P7bd)
- - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
- - 💣 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 😝 [I was not expecting this kind of robbery.](http://9gag.com/gag/aE0QqBM)
+ - 😝 [Me everytime somebody got the stuff I want](http://9gag.com/gag/azxB2Bm)
+ - 💣 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
  - 😝 [I over dicked it](http://9gag.com/gag/aRByEej)
- - 👉 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)<!-- MEMES:END -->
+ - 👉 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)<!-- MEMES:END -->
 
 ---
 

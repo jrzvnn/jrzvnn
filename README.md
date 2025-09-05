@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Classic Sesame Street episodes are coming to YouTube](https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix)
  - [Trump says U.S. will strike back if EU keeps fining tech giants](https://appleinsider.com/articles/25/09/05/trump-says-us-will-strike-back-if-eu-keeps-fining-tech-giants?utm_source=rss)
  - [US tech industry&#39;s eight companies valued at $1T+ gained a combined $420B in market cap this week, lifting their total value to $21T, led by a Google rally &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250905/p23#a250905p23)
  - [Anthropic to pay $1.5 billion to authors in landmark AI settlement](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement)
- - [iPhone 17 Pro rumored to ditch titanium frame and go back to aluminum](https://appleinsider.com/articles/25/09/05/iphone-17-pro-rumored-to-ditch-titanium-frame-and-go-back-to-aluminum?utm_source=rss)
- - [At the White House dinner, Zuckerberg said Meta plans to spend &quot;something like at least $600B&quot; through 2028 on data centers and other infrastructure in the US &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250905/p22#a250905p22)<!-- TECH:END -->
+ - [iPhone 17 Pro rumored to ditch titanium frame and go back to aluminum](https://appleinsider.com/articles/25/09/05/iphone-17-pro-rumored-to-ditch-titanium-frame-and-go-back-to-aluminum?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

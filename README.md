@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sydney Sweeney has great genes.](http://9gag.com/gag/aGyoyjn)
- - 😝 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
- - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
+ - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
+ - 😝 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)
+ - 💣 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
  - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---

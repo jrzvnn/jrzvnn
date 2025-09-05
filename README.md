@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Facebook is revamping its classic Poke feature to be easier to use and include gamification elements similar to Snapchat and TikTok as it courts younger users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250905/p2#a250905p2)
+ - [I Tried the Lenovo Legion Go 2 Gaming Handheld. It&#39;s a Big Upgrade With a Bigger Price](https://www.cnet.com/tech/gaming/i-tried-the-lenovo-legion-go-2-gaming-handheld-its-a-big-upgrade-with-a-bigger-price/#ftag=CAD590a51e)
  - [Lenovo&#39;s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen](https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/)
  - [Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up](https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost)
- - [Lenovo updates its beefiest and bulkiest laptops](https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa)
- - [Lenovo’s new concept laptop has a rotating screen that’s perfect for doomscrolling](https://www.theverge.com/news/771907/lenovo-thinkbook-vertiflex-concept-laptop-vertical-screen-specs)<!-- TECH:END -->
+ - [Lenovo updates its beefiest and bulkiest laptops](https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

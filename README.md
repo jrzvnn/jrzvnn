@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
  - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 💣 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
  - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 💣 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
+ - 😝 [Ali G is goat](http://9gag.com/gag/an7dRXq)
  - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
 
 ---

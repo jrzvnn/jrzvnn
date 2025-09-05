@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech CEOs Praise Donald Trump at White House Dinner](https://www.wired.com/story/tech-ceos-donald-trump-white-house/)
+ - [What would actually make the Apple Watch better?](https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables)
  - [New iPhone 17 Pro leak suggests Dynamic Island is shrinking](https://appleinsider.com/articles/25/09/05/new-iphone-17-pro-leak-suggests-dynamic-island-is-shrinking?utm_source=rss)
  - [Baseten, which helps companies launch open-source or custom AI models, raised a $150M Series D led by Bond at a $2.15B valuation, up from $825M in February &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250905/p10#a250905p10)
- - [Columbia tries using AI to cool off student tensions](https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests)
- - [iPhone 17 event, Google deal, and Apple Vision Sunglasses on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/05/iphone-17-event-google-deal-and-apple-vision-sunglasses-on-the-appleinsider-podcast?utm_source=rss)
- - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)<!-- TECH:END -->
+ - [Columbia tries using AI to cool off student tensions](https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

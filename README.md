@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whiping Up The Cream](http://9gag.com/gag/abAdvm9)
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 💣 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
+ - 😝 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
  - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 💣 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
+ - 😝 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
  - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---

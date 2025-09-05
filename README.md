@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me everytime somebody got the stuff I want](http://9gag.com/gag/azxB2Bm)
- - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
- - 💣 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
- - 😝 [I over dicked it](http://9gag.com/gag/aRByEej)
+ - 😝 [Sydney Sweeney has great genes.](http://9gag.com/gag/aGyoyjn)
+ - 😝 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
  - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---

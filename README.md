@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 😝 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
- - 💣 [Best Halloween Short Of The Season!](http://9gag.com/gag/adBdB6V)
- - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
- - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
+ - 😝 [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
+ - 😝 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
+ - 💣 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)
+ - 😝 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
+ - 👉 [A clever title that I totally have an idea for.](http://9gag.com/gag/aAym63d)<!-- MEMES:END -->
 
 ---
 

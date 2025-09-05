@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best Halloween Short Of The Season!](http://9gag.com/gag/adBdB6V)
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 💣 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 😝 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 💣 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)
  - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 👉 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)<!-- MEMES:END -->
+ - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
 
 ---
 

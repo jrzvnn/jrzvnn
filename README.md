@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Tesla offers $1 trillion to Elon Musk to unleash his army of robots](https://www.theverge.com/news/772508/tesla-elon-musk-trillion-pay-package-robot)
  - [Tech CEOs Praise Donald Trump at White House Dinner](https://www.wired.com/story/tech-ceos-donald-trump-white-house/)
  - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
- - [What would actually make the Apple Watch better?](https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables)
- - [New iPhone 17 Pro leak suggests Dynamic Island is shrinking](https://appleinsider.com/articles/25/09/05/new-iphone-17-pro-leak-suggests-dynamic-island-is-shrinking?utm_source=rss)<!-- TECH:END -->
+ - [I&#39;m a Lifelong Soccer Fan. How Hisense Is Powering My FIFA World Cup Excitement](https://www.cnet.com/tech/home-entertainment/im-a-lifelong-soccer-fan-how-hisense-is-powering-my-fifa-world-cup-excitement/#ftag=CAD590a51e)
+ - [What would actually make the Apple Watch better?](https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

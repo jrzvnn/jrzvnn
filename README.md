@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 😝 [Best Halloween Short Of The Season!](http://9gag.com/gag/adBdB6V)
+ - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 💣 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
  - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
- - 😝 [One from ye olde collection](http://9gag.com/gag/aW4d75x)
- - 👉 [You&#39;re telling me, there is hope?](http://9gag.com/gag/aQzrze7)<!-- MEMES:END -->
+ - 👉 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)<!-- MEMES:END -->
 
 ---
 

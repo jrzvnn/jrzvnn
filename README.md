@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best stuff announced at IFA so far](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
- - [Planet Money TikToks inspired one of the year&amp;#8217;s most brilliant animated movies](https://www.theverge.com/entertainment/771889/boys-go-to-jupiter-julian-glander-interview)
- - [Apple has broken its India annual sales record, and more growth is coming](https://appleinsider.com/articles/25/09/05/apple-has-broken-its-india-annual-sales-record-and-more-growth-is-coming?utm_source=rss)
- - [Fall Equinox Is Coming: What to Know and What It Looks Like](https://www.cnet.com/science/fall-equinox-is-coming-what-to-know-and-what-it-looks-like/#ftag=CAD590a51e)
- - [At the White House dinner on Thursday night, Big Tech executives put on an uncanny display of fealty to Donald Trump by taking turns praising his leadership &lpar;Brian Barrett/Wired&rpar;](http://www.techmeme.com/250905/p14#a250905p14)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
+ - [Isotopes, co-founded by Scale AI&#39;s former CTO Arun Murthy to build an AI agent for enterprise business analytics, raised a $20M seed &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250905/p15#a250905p15)
+ - [The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026](https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026)
+ - [Google fined $3.5 billion by EU for ad tech abuse](https://www.theverge.com/news/772848/google-ad-tech-eu-antitrust-fine)
+ - [The best stuff announced at IFA so far](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

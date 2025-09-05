@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some more lore for you](http://9gag.com/gag/aNDq92K)
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 💣 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
- - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
+ - 😝 [Lol](http://9gag.com/gag/a6ZxDY2)
+ - 😝 [Australia is wild, Australians are wilder](http://9gag.com/gag/aE0Q6Xn)
+ - 💣 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 😝 [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 

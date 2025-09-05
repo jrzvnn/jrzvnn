@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)
- - 😝 [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
- - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
+ - 😝 [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
+ - 😝 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
+ - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 😝 [Kids having fun](http://9gag.com/gag/a6ZxXzb)
+ - 👉 [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
- - 😝 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
- - 💣 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)
- - 😝 [Now that&#39;s hawkward !](http://9gag.com/gag/aLnbzeW)
- - 👉 [A clever title that I totally have an idea for.](http://9gag.com/gag/aAym63d)<!-- MEMES:END -->
+ - 😝 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 💣 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 😝 [Kids having fun](http://9gag.com/gag/a6ZxXzb)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 

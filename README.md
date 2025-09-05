@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best stuff announced at IFA so far](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
+ - [Planet Money TikToks inspired one of the year&amp;#8217;s most brilliant animated movies](https://www.theverge.com/entertainment/771889/boys-go-to-jupiter-julian-glander-interview)
+ - [Apple has broken its India annual sales record, and more growth is coming](https://appleinsider.com/articles/25/09/05/apple-has-broken-its-india-annual-sales-record-and-more-growth-is-coming?utm_source=rss)
  - [At the White House dinner on Thursday night, Big Tech executives put on an uncanny display of fealty to Donald Trump by taking turns praising his leadership &lpar;Brian Barrett/Wired&rpar;](http://www.techmeme.com/250905/p14#a250905p14)
- - [The Nothing Ear Open headphones are below $100 for the first time](https://www.theverge.com/tech/772636/nothing-ear-open-gulikit-es-pro-switch-2-controller-deal-sale)
- - [Samsung&amp;#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro](https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro)
- - [Tech leaders take turns flattering Trump at White House dinner](https://www.theverge.com/policy/772760/tech-ceos-ai-trump-white-house-dinner)
- - [OpenAI acqui-hires the team behind Alex Codes, a Y-Combinator-backed startup whose tool lets developers use AI models within Apple&#39;s development suite Xcode &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250905/p13#a250905p13)<!-- TECH:END -->
+ - [The Nothing Ear Open headphones are below $100 for the first time](https://www.theverge.com/tech/772636/nothing-ear-open-gulikit-es-pro-switch-2-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

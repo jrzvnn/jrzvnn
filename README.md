@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Silicon Valley’s most powerful alliance just got stronger](https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai)
  - [Qualcomm debuts Snapdragon Ride Pilot, a hands-free driver assistance system that is launching with the BMW iX3 and has been validated for use in 60+ countries &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250905/p26#a250905p26)
  - [Two authors file a proposed class action lawsuit against Apple, alleging Apple knowingly used a dataset of pirated books to train its AI models &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250905/p25#a250905p25)
- - [Researchers Discover 18 Popular VPNs Are Connected: Why This Matters](https://www.cnet.com/tech/researchers-discover-18-popular-vpns-are-connected-why-this-matters/#ftag=CAD590a51e)
- - [Tesla Proposes a Trillion-Dollar Bet That It&#39;s More Than Just Cars](https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/)<!-- TECH:END -->
+ - [Researchers Discover 18 Popular VPNs Are Connected: Why This Matters](https://www.cnet.com/tech/researchers-discover-18-popular-vpns-are-connected-why-this-matters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

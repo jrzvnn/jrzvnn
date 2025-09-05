@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nepal says it is blocking most major social media platforms, including Facebook, X, and YouTube, after they failed to register with the government &lpar;Binaj Gurubacharya/Associated Press&rpar;](http://www.techmeme.com/250905/p1#a250905p1)
- - [Conversational AI firm Cerence sues Apple in Texas for infringing patents tied to virtual keyboards and &quot;Hey Siri&quot;, says it raised the issues with Apple in 2021 &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250904/p53#a250904p53)
- - [Source: AI contractor marketplace Mercor has received investment offers valuing it as high as $10B, just six months after raising $100M at a $2B valuation &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250904/p52#a250904p52)
- - [At a White House dinner, tech CEOs thanked Trump for promoting chip and AI investments, while Trump promised an easy energy permitting process for data centers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250904/p51#a250904p51)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook is revamping its classic Poke feature to be easier to use and include gamification elements similar to Snapchat and TikTok as it courts younger users &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250905/p2#a250905p2)
+ - [Lenovo&#39;s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen](https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/)
+ - [Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up](https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost)
+ - [Lenovo updates its beefiest and bulkiest laptops](https://www.theverge.com/news/771674/lenovo-thinkpad-p16-gen-3-ifa)
+ - [Lenovo’s new concept laptop has a rotating screen that’s perfect for doomscrolling](https://www.theverge.com/news/771907/lenovo-thinkbook-vertiflex-concept-laptop-vertical-screen-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

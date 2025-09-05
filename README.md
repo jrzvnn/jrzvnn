@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 😝 [Good thing most police wear body cams now](http://9gag.com/gag/aQzrz3K)
- - 💣 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 😝 [Comically large gold club](http://9gag.com/gag/awy8goD)
- - 👉 [Real life quick time event](http://9gag.com/gag/aW4dpDZ)<!-- MEMES:END -->
+ - 😝 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
+ - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 💣 [Comically large gold club](http://9gag.com/gag/awy8goD)
+ - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
+ - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---
 

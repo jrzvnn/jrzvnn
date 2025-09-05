@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings](https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/)
- - [How Synthesia is combining multiple AI voice and video models to improve avatar realism with natural gestures and accent preservation &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250905/p4#a250905p4)
- - [Qualcomm teams up with BMW for hands-free driving](https://www.theverge.com/news/771917/qualcomm-bmw-snapdragon-ride-pilot-adas)
- - [BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power](https://www.theverge.com/news/770351/bmw-ix3-neue-klasse-ev-range-specs-price)
- - [Honda’s Prelude returns as a 200-horsepower fake-shifting hybrid](https://www.theverge.com/news/772274/honda-prelude-fake-shifting-sound-hyrbid)<!-- TECH:END -->
+ - [OnePlus and Hasselblad are parting ways](https://www.theverge.com/news/772369/oneplus-and-hasselblad-are-parting-ways)
+ - [Xbox engineer brings Windows Mixed Reality headsets back to life](https://www.theverge.com/news/772360/microsoft-windows-mixed-reality-headsets-streamvr-driver)
+ - [iPhone 17 Should Be Official Tuesday, but When Will It Ship? We&#39;re Tracking the Release](https://www.cnet.com/tech/mobile/iphone-17-should-be-official-tuesday-but-when-will-it-ship-were-tracking-the-release/#ftag=CAD590a51e)
+ - [How to Bring Apple&#39;s Visual Intelligence to Your iPhone 15 Pro](https://www.cnet.com/tech/services-and-software/how-to-bring-apples-visual-intelligence-to-your-iphone-15-pro/#ftag=CAD590a51e)
+ - [How I Fix AI Image Hallucinations While Using ChatGPT, Midjourney and More](https://www.cnet.com/tech/services-and-software/how-i-fix-ai-image-hallucinations-while-using-chatgpt-midjourney-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

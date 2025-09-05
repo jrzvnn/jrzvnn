@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic to pay $1.5 billion to authors in landmark AI settlement](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement)
+ - [Join Us for WIRED’s AI Power Summit](https://www.wired.com/story/wired-ai-power-summit/)
  - [iPhone 17 Pro rumored to ditch titanium frame and go back to aluminum](https://appleinsider.com/articles/25/09/05/iphone-17-pro-rumored-to-ditch-titanium-frame-and-go-back-to-aluminum?utm_source=rss)
  - [At the White House dinner, Zuckerberg said Meta plans to spend &quot;something like at least $600B&quot; through 2028 on data centers and other infrastructure in the US &lpar;Kalley Huang/The Information&rpar;](http://www.techmeme.com/250905/p22#a250905p22)
- - [After the EU fined Google €2.95B, Trump threatens a trade probe, saying the Trump administration &quot;will not allow these discriminatory actions to stand&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250905/p21#a250905p21)
- - [In a letter to OpenAI, AGs of California and Delaware raise concerns about the deaths of some ChatGPT users and threaten to block OpenAI&#39;s planned restructuring &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250905/p20#a250905p20)
- - [Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement](https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/)<!-- TECH:END -->
+ - [After the EU fined Google €2.95B, Trump threatens a trade probe, saying the Trump administration &quot;will not allow these discriminatory actions to stand&quot; &lpar;Kevin Breuninger/CNBC&rpar;](http://www.techmeme.com/250905/p21#a250905p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

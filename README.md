@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 😝 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
- - 💣 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 😝 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 💣 [Best Halloween Short Of The Season!](http://9gag.com/gag/adBdB6V)
  - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
- - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 

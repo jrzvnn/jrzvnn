@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo unveils Legion Go 2 , with an 8.8&quot; screen and AMD Ryzen Z2 or Z2 Extreme chip, available in October, starting at $1,099, costing $400 more than Legion Go &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250905/p7#a250905p7)
- - [Inside Podcasts: How to set up a podcast, edit it, and keep it running](https://appleinsider.com/articles/25/09/05/inside-podcasts-how-to-set-up-a-podcast-edit-it-and-keep-it-running?utm_source=rss)
- - [Details of three new Apple Watches spilled in last-minute iPhone 17 event leak](https://appleinsider.com/articles/25/09/05/details-of-three-new-apple-watches-spilled-in-last-minute-iphone-17-event-leak?utm_source=rss)
- - [AirPods Pro 3 coming shortly with heart rate monitor, and new charging case](https://appleinsider.com/articles/25/09/05/airpods-pro-3-coming-shortly-with-heart-rate-monitor-and-new-charging-case?utm_source=rss)
- - [All the Top New Gadgets We Saw at IFA Berlin 2025](https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/)<!-- TECH:END -->
+ - [Your robot is about to get its own robot](https://www.theverge.com/the-vergecast/772231/ifa-robots-smart-lights-google-antitrust-vergecast)
+ - [The 29 Best Energy Drinks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-energy-drinks/)
+ - [ProRata.ai, which lets publishers embed custom AI search on their sites with a 50/50 revenue share, raised a $40M Series B, bringing its total raised to $75M+ &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250905/p8#a250905p8)
+ - [OpenAI could launch its own AI chip next year](https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom)
+ - [Reolink&amp;#8217;s new floodlight cam has 360 vision and on-device AI](https://www.theverge.com/news/772353/reolink-trackflex-floodlight-wifi-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

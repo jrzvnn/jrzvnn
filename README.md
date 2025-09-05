@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Whiping Up The Cream](http://9gag.com/gag/abAdvm9)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 😝 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
- - 👉 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)<!-- MEMES:END -->
+ - 😝 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
+ - 💣 [Smart Man](http://9gag.com/gag/aD2P7bd)
+ - 😝 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
+ - 👉 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)<!-- MEMES:END -->
 
 ---
 

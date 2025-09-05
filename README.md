@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cook praises Trump&#39;s leadership in White House dinner](https://appleinsider.com/articles/25/09/05/cook-praises-trumps-leadership-in-white-house-dinner?utm_source=rss)
- - [Google leaks its own new Nest Cams and Doorbell](https://www.theverge.com/news/772414/google-nest-cam-outdoor-indoor-doorbell-home-app-leak)
- - [What to expect from Apple&#39;s September 9 event: major design upgrades for the iPhone, an ultrathin iPhone 17 Air, three Apple Watch models, and AirPods Pro 3 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250905/p6#a250905p6)
- - [Leaked iPhone 17 Pro component images reveal probable colors](https://appleinsider.com/articles/25/09/05/leaked-iphone-17-pro-component-images-reveal-probable-colors?utm_source=rss)
- - [Microsoft 365 Personal is now free for US college students for a year](https://www.theverge.com/news/772385/microsoft-365-personal-free-us-college-students)<!-- TECH:END -->
+ - [Lenovo unveils Legion Go 2 , with an 8.8&quot; screen and AMD Ryzen Z2 or Z2 Extreme chip, available in October, starting at $1,099, costing $400 more than Legion Go &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250905/p7#a250905p7)
+ - [Inside Podcasts: How to set up a podcast, edit it, and keep it running](https://appleinsider.com/articles/25/09/05/inside-podcasts-how-to-set-up-a-podcast-edit-it-and-keep-it-running?utm_source=rss)
+ - [Details of three new Apple Watches spilled in last-minute iPhone 17 event leak](https://appleinsider.com/articles/25/09/05/details-of-three-new-apple-watches-spilled-in-last-minute-iphone-17-event-leak?utm_source=rss)
+ - [AirPods Pro 3 coming shortly with heart rate monitor, and new charging case](https://appleinsider.com/articles/25/09/05/airpods-pro-3-coming-shortly-with-heart-rate-monitor-and-new-charging-case?utm_source=rss)
+ - [All the Top New Gadgets We Saw at IFA Berlin 2025](https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

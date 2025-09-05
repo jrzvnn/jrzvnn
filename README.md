@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This 32-inch monitor is the first 6K display with Mac touchscreen support](https://appleinsider.com/articles/25/09/05/this-32-inch-monitor-is-the-first-6k-display-with-mac-touchscreen-support?utm_source=rss)
+ - [The EU fines Google €2.95B for abusing its dominance in digital ads, and says its preliminary stance is that Google must divest parts of its ad-tech business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250905/p12#a250905p12)
  - [The Exit 8 movie is even scarier than the game](https://www.theverge.com/film/769133/tiff-2025-nouvelle-vague-exit-8-reviews)
  - [We saw the next Boox Palma and… is that a color E Ink screen and cellular connectivity?](https://www.theverge.com/news/772647/boox-palma-e-reader-e-ink-smartphone-4g-cellular)
- - [Eero’s Signal is a cellular safety net for your Wi-Fi network](https://www.theverge.com/news/772645/eero-signal-cellular-backup-wi-fi)
- - [World Liberty Financial blacklisted Justin Sun&#39;s wallet after it transferred ~$9M worth WLFI tokens to HTX exchange; Sun called out the freezing of assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250905/p11#a250905p11)
- - [The Doomers Who Insist AI Will Kill Us All](https://www.wired.com/story/the-doomers-who-insist-ai-will-kill-us-all/)<!-- TECH:END -->
+ - [Eero’s Signal is a cellular safety net for your Wi-Fi network](https://www.theverge.com/news/772645/eero-signal-cellular-backup-wi-fi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
- - [Roblox launches text-to-speech and speech-to-text APIs, and AI tools, including letting creators generate fully functional 3D objects from prompts, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250905/p18#a250905p18)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [iPhone 16 review one year later: Still a great phone, and will be for years](https://appleinsider.com/articles/25/09/05/iphone-16-review-one-year-later-still-a-great-phone-and-will-be-for-years?utm_source=rss)
- - [Roblox increases its DevEx rate, letting creators earn 8.5% more when they convert their earned Robux into cash, says creators earned $1B+ over the past year &lpar;David Baszucki/Roblox Corporate&rpar;](http://www.techmeme.com/250905/p17#a250905p17)<!-- TECH:END -->
+ - [Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic](https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons)
+ - [This Portable Projector Turned My Campsite Into a Movie Night](https://www.cnet.com/deals/this-portable-projector-turned-my-campsite-into-a-movie-night/#ftag=CAD590a51e)
+ - [YouTube Cracks Down on Premium Family Plans Used at Different Addresses](https://www.cnet.com/tech/services-and-software/youtube-cracks-down-on-premium-family-plans-used-at-different-addresses/#ftag=CAD590a51e)
+ - [Bose Debuts QuietComfort Ultra Headphones &lpar;2nd Gen&rpar; With Upgraded Noise Canceling and Other Small Improvements](https://www.cnet.com/tech/mobile/bose-debuts-quietcomfort-ultra-headphones-2nd-gen-with-upgraded-noise-canceling-and-other-small-improvements/#ftag=CAD590a51e)
+ - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two authors file a proposed class action lawsuit against Apple, alleging Apple knowingly used a dataset of pirated books to train its AI models &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/250905/p25#a250905p25)
+ - [Researchers Discover 18 Popular VPNs Are Connected: Why This Matters](https://www.cnet.com/tech/researchers-discover-18-popular-vpns-are-connected-why-this-matters/#ftag=CAD590a51e)
  - [Tesla Proposes a Trillion-Dollar Bet That It&#39;s More Than Just Cars](https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/)
  - [Defense Department Scrambles to Pretend It’s Called the War Department](https://www.wired.com/story/department-of-defense-department-of-war/)
- - [AppLovin stock jumps 7%+ and Robinhood jumps 8%+ in extended trading after S&amp;P Global said the two will join the S&amp;P 500 index on September 22 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250905/p24#a250905p24)
- - [This Laptop Handles AI Like a Pro -- Without the Premium Price Tag](https://www.cnet.com/deals/this-laptop-handles-ai-like-a-pro-without-the-premium-price-tag/#ftag=CAD590a51e)
- - [Meta Reimagines Facebook&#39;s Poke Feature to Gamify Gen Z Flirting](https://www.cnet.com/tech/services-and-software/meta-reimagines-facebooks-poke-feature-to-gamify-gen-z-flirting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Biden-Era Plan to Pay Travelers for Airline-Caused Delays Is Dead](https://www.cnet.com/tech/the-biden-era-plan-to-pay-travelers-for-airline-caused-delays-is-dead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

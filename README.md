@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
- - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
- - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 😝 [`Why am i facing consequences for my action? Tf?`](http://9gag.com/gag/axyAW8D)
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 💣 [An angle rarely seen](http://9gag.com/gag/aRByL9q)
+ - 😝 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)
  - 👉 [Good thing most police wear body cams now](http://9gag.com/gag/aQzrz3K)<!-- MEMES:END -->
 
 ---

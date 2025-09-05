@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
- - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
- - 💣 [Smart Man](http://9gag.com/gag/aD2P7bd)
- - 😝 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)
- - 👉 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)<!-- MEMES:END -->
+ - 😝 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
+ - 😝 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
+ - 💣 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
+ - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
 
 ---
 

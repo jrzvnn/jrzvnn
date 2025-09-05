@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The liberal is confused. It hurt itself in its confusion.](http://9gag.com/gag/ae9d1Mj)
- - 😝 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
- - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 😝 [Kids having fun](http://9gag.com/gag/a6ZxXzb)
- - 👉 [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 💣 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 😝 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
+ - 👉 [You&#39;re telling me, there is hope?](http://9gag.com/gag/aQzrze7)<!-- MEMES:END -->
 
 ---
 

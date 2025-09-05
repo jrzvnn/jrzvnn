@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baseten, which helps companies launch open-source or custom AI models, raised a $150M Series D led by Bond at a $2.15B valuation, up from $825M in February &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250905/p10#a250905p10)
+ - [Columbia tries using AI to cool off student tensions](https://www.theverge.com/ai-artificial-intelligence/770510/columbia-university-sway-ai-to-cool-off-student-tensions-israel-palestine-protests)
  - [iPhone 17 event, Google deal, and Apple Vision Sunglasses on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/05/iphone-17-event-google-deal-and-apple-vision-sunglasses-on-the-appleinsider-podcast?utm_source=rss)
  - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
- - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
- - [Boston Dynamics and Toyota Research Institute have developed a large behavior model that enables more natural movement and &quot;emergent skills&quot; in humanoid robots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250905/p9#a250905p9)
- - [7 Best Password Managers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)<!-- TECH:END -->
+ - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

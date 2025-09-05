@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
- - 😝 [Smart Man](http://9gag.com/gag/aD2P7bd)
- - 💣 [Hey 9gag I heard you like cats, not my video, sorry for the crop.](http://9gag.com/gag/aLnbnK5)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)<!-- MEMES:END -->
+ - 😝 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
+ - 💣 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [`Why am i facing consequences for my action? Tf?`](http://9gag.com/gag/axyAW8D)
+ - 👉 [Good thing most police wear body cams now](http://9gag.com/gag/aQzrz3K)<!-- MEMES:END -->
 
 ---
 

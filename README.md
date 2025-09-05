@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
  - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
  - 💣 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
  - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
- - 👉 [Another one](http://9gag.com/gag/adBdBNN)<!-- MEMES:END -->
+ - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
 
 ---
 

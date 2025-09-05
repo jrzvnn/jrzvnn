@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s September 9 event: major design upgrades for the iPhone, an ultrathin iPhone 17 Air, three Apple Watch models, and AirPods Pro 3 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250905/p6#a250905p6)
  - [Leaked iPhone 17 Pro component images reveal probable colors](https://appleinsider.com/articles/25/09/05/leaked-iphone-17-pro-component-images-reveal-probable-colors?utm_source=rss)
  - [Cook praises Trump&#39;s leadership in White House dinner](https://appleinsider.com/articles/25/09/05/cook-praises-trumps-leadership-in-white-house-dinner?utm_source=rss)
  - [Microsoft 365 Personal is now free for US college students for a year](https://www.theverge.com/news/772385/microsoft-365-personal-free-us-college-students)
- - [Circle to Search adds continuous translation](https://www.theverge.com/news/772396/circle-to-search-scroll-translate-continuous-google-android)
- - [Sources: chip design workers at ByteDance, many based in Beijing or Shanghai, unexpectedly discovered last week that they are part of a Singapore unit &lpar;Reuters&rpar;](http://www.techmeme.com/250905/p5#a250905p5)<!-- TECH:END -->
+ - [Circle to Search adds continuous translation](https://www.theverge.com/news/772396/circle-to-search-scroll-translate-continuous-google-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

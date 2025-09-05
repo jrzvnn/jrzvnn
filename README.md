@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla offers $1 trillion to Elon Musk to unleash his army of robots](https://www.theverge.com/news/772508/tesla-elon-musk-trillion-pay-package-robot)
- - [Tech CEOs Praise Donald Trump at White House Dinner](https://www.wired.com/story/tech-ceos-donald-trump-white-house/)
- - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
- - [I&#39;m a Lifelong Soccer Fan. How Hisense Is Powering My FIFA World Cup Excitement](https://www.cnet.com/tech/home-entertainment/im-a-lifelong-soccer-fan-how-hisense-is-powering-my-fifa-world-cup-excitement/#ftag=CAD590a51e)
- - [What would actually make the Apple Watch better?](https://www.theverge.com/optimizer-newsletter/772003/apple-watch-iphone-17-optimizer-smartwatch-wearables)<!-- TECH:END -->
+ - [The Exit 8 movie is even scarier than the game](https://www.theverge.com/film/769133/tiff-2025-nouvelle-vague-exit-8-reviews)
+ - [We saw the next Boox Palma and… is that a color E Ink screen and cellular connectivity?](https://www.theverge.com/news/772647/boox-palma-e-reader-e-ink-smartphone-4g-cellular)
+ - [Eero’s Signal is a cellular safety net for your Wi-Fi network](https://www.theverge.com/news/772645/eero-signal-cellular-backup-wi-fi)
+ - [World Liberty Financial blacklisted Justin Sun&#39;s wallet after it transferred ~$9M worth WLFI tokens to HTX exchange; Sun called out the freezing of assets &lpar;Bloomberg&rpar;](http://www.techmeme.com/250905/p11#a250905p11)
+ - [The Doomers Who Insist AI Will Kill Us All](https://www.wired.com/story/the-doomers-who-insist-ai-will-kill-us-all/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

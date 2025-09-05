@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Trump says U.S. will strike back if EU keeps fining tech giants](https://appleinsider.com/articles/25/09/05/trump-says-us-will-strike-back-if-eu-keeps-fining-tech-giants?utm_source=rss)
  - [US tech industry&#39;s eight companies valued at $1T+ gained a combined $420B in market cap this week, lifting their total value to $21T, led by a Google rally &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/250905/p23#a250905p23)
  - [Anthropic to pay $1.5 billion to authors in landmark AI settlement](https://www.theverge.com/anthropic/773087/anthropic-to-pay-1-5-billion-to-authors-in-landmark-ai-settlement)
- - [iPhone 17 Pro rumored to ditch titanium frame and go back to aluminum](https://appleinsider.com/articles/25/09/05/iphone-17-pro-rumored-to-ditch-titanium-frame-and-go-back-to-aluminum?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 6, #348](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-6-348/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

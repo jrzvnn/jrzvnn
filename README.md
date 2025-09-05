@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: chip design workers at ByteDance, many based in Beijing or Shanghai, unexpectedly discovered last week that they are part of a Singapore unit &lpar;Reuters&rpar;](http://www.techmeme.com/250905/p5#a250905p5)
  - [OnePlus and Hasselblad are parting ways](https://www.theverge.com/news/772369/oneplus-and-hasselblad-are-parting-ways)
  - [Xbox engineer brings Windows Mixed Reality headsets back to life](https://www.theverge.com/news/772360/microsoft-windows-mixed-reality-headsets-streamvr-driver)
  - [iPhone 17 Should Be Official Tuesday, but When Will It Ship? We&#39;re Tracking the Release](https://www.cnet.com/tech/mobile/iphone-17-should-be-official-tuesday-but-when-will-it-ship-were-tracking-the-release/#ftag=CAD590a51e)
- - [How to Bring Apple&#39;s Visual Intelligence to Your iPhone 15 Pro](https://www.cnet.com/tech/services-and-software/how-to-bring-apples-visual-intelligence-to-your-iphone-15-pro/#ftag=CAD590a51e)
- - [How I Fix AI Image Hallucinations While Using ChatGPT, Midjourney and More](https://www.cnet.com/tech/services-and-software/how-i-fix-ai-image-hallucinations-while-using-chatgpt-midjourney-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Bring Apple&#39;s Visual Intelligence to Your iPhone 15 Pro](https://www.cnet.com/tech/services-and-software/how-to-bring-apples-visual-intelligence-to-your-iphone-15-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

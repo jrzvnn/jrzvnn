@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)
- - 😝 [Remembering movies only you seem to recall](http://9gag.com/gag/a87n7mV)
- - 💣 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
- - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
- - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
+ - 💣 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
+ - 😝 [Early helicopter designs were something else](http://9gag.com/gag/a5QxV0g)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conjuring Another Universe](http://9gag.com/gag/abAdvRE)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [Comically large gold club](http://9gag.com/gag/awy8goD)
- - 😝 [Keeeeyyy errrrr beeeep ong dee ong waaahhh urrrrrr](http://9gag.com/gag/aYQdVp2)
- - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
+ - 😝 [Smart Man](http://9gag.com/gag/aD2P7bd)
+ - 😝 [Venice hides secrets](http://9gag.com/gag/aNDqLwr)
+ - 💣 [I wanna see she starve](http://9gag.com/gag/aNDqLew)
+ - 😝 [I over dicked it](http://9gag.com/gag/aRByEej)
+ - 👉 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)<!-- MEMES:END -->
 
 ---
 

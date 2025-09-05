@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Spec Razor Blade Laptops Are Average 14% Off Right Now](https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/)
- - [Roblox is testing Roblox Moments, a TikTok-like video app allowing users to share 30-second clips of gameplay, and makes the source code available to developers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250905/p16#a250905p16)
- - [SwitchBot&#39;s New AI Art Frame Lets You Give Prompts to Generate Art in Seconds](https://www.cnet.com/home/smart-home/switchbots-new-ai-art-frame-lets-you-give-prompts-to-generate-art-in-seconds/#ftag=CAD590a51e)
- - [We Use Our Smartphones Like Laptops, So Why Do We Need Both? Here&#39;s What CNET&#39;s Survey Says](https://www.cnet.com/tech/mobile/we-use-our-smartphones-like-laptops-so-why-do-we-need-both-heres-what-cnets-survey-says/#ftag=CAD590a51e)
- - [13 of the Best Peacock Shows to Stream This Weekend](https://www.cnet.com/tech/services-and-software/best-peacock-shows-september-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
+ - [Roblox launches text-to-speech and speech-to-text APIs, and AI tools, including letting creators generate fully functional 3D objects from prompts, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250905/p18#a250905p18)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [iPhone 16 review one year later: Still a great phone, and will be for years](https://appleinsider.com/articles/25/09/05/iphone-16-review-one-year-later-still-a-great-phone-and-will-be-for-years?utm_source=rss)
+ - [Roblox increases its DevEx rate, letting creators earn 8.5% more when they convert their earned Robux into cash, says creators earned $1B+ over the past year &lpar;David Baszucki/Roblox Corporate&rpar;](http://www.techmeme.com/250905/p17#a250905p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

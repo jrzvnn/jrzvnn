@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Job interviews be like](http://9gag.com/gag/a9yV6WZ)
- - 😝 [We can never be too carefull](http://9gag.com/gag/ajPd1Ng)
- - 💣 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)
- - 😝 [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)
- - 👉 [The dude that married this woman won a prize bigger than any lottery! luck bastard, it should have been me.](http://9gag.com/gag/a0exeLL)<!-- MEMES:END -->
+ - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
+ - 😝 [Shared by an X account who is British - they didn&#39;t specify exactly where this is, but I&#39;m guessing London.](http://9gag.com/gag/adBdBp2)
+ - 💣 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
+ - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
 
 ---
 

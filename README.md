@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [An angle rarely seen](http://9gag.com/gag/aRByL9q)
- - 😝 [Cat turns on a treadmill and starts working out](http://9gag.com/gag/a7oG8XL)
- - 👉 [Good thing most police wear body cams now](http://9gag.com/gag/aQzrz3K)<!-- MEMES:END -->
+ - 😝 [Good thing most police wear body cams now](http://9gag.com/gag/aQzrz3K)
+ - 💣 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 😝 [Comically large gold club](http://9gag.com/gag/awy8goD)
+ - 👉 [Real life quick time event](http://9gag.com/gag/aW4dpDZ)<!-- MEMES:END -->
 
 ---
 

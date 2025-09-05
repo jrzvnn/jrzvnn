@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to OpenAI, AGs of California and Delaware raise concerns about the deaths of some ChatGPT users and threaten to block OpenAI&#39;s planned restructuring &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250905/p20#a250905p20)
+ - [Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement](https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/)
+ - [Filing: Anthropic will pay $1.5B to resolve an authors&#39; copyright lawsuit over the company&#39;s downloading of millions of pirated books &lpar;Bloomberg&rpar;](http://www.techmeme.com/250905/p19#a250905p19)
  - [Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic](https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons)
- - [This Portable Projector Turned My Campsite Into a Movie Night](https://www.cnet.com/deals/this-portable-projector-turned-my-campsite-into-a-movie-night/#ftag=CAD590a51e)
- - [YouTube Cracks Down on Premium Family Plans Used at Different Addresses](https://www.cnet.com/tech/services-and-software/youtube-cracks-down-on-premium-family-plans-used-at-different-addresses/#ftag=CAD590a51e)
- - [Bose Debuts QuietComfort Ultra Headphones &lpar;2nd Gen&rpar; With Upgraded Noise Canceling and Other Small Improvements](https://www.cnet.com/tech/mobile/bose-debuts-quietcomfort-ultra-headphones-2nd-gen-with-upgraded-noise-canceling-and-other-small-improvements/#ftag=CAD590a51e)
- - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [This Portable Projector Turned My Campsite Into a Movie Night](https://www.cnet.com/deals/this-portable-projector-turned-my-campsite-into-a-movie-night/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

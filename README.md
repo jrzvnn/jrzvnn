@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Isotopes, co-founded by Scale AI&#39;s former CTO Arun Murthy to build an AI agent for enterprise business analytics, raised a $20M seed &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250905/p15#a250905p15)
- - [The Lenovo Legion Go 2 will get Xbox-flavored Windows in spring 2026](https://www.theverge.com/news/772853/the-lenovo-legion-go-2-will-get-xbox-flavored-windows-in-spring-2026)
- - [Google fined $3.5 billion by EU for ad tech abuse](https://www.theverge.com/news/772848/google-ad-tech-eu-antitrust-fine)
- - [The best stuff announced at IFA so far](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)<!-- TECH:END -->
+ - [Roblox is testing Roblox Moments, a TikTok-like video app allowing users to share 30-second clips of gameplay, and makes the source code available to developers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/250905/p16#a250905p16)
+ - [SwitchBot&#39;s New AI Art Frame Lets You Give Prompts to Generate Art in Seconds](https://www.cnet.com/home/smart-home/switchbots-new-ai-art-frame-lets-you-give-prompts-to-generate-art-in-seconds/#ftag=CAD590a51e)
+ - [We Use Our Smartphones Like Laptops, So Why Do We Need Both? Here&#39;s What CNET&#39;s Survey Says](https://www.cnet.com/tech/mobile/we-use-our-smartphones-like-laptops-so-why-do-we-need-both-heres-what-cnets-survey-says/#ftag=CAD590a51e)
+ - [13 of the Best Peacock Shows to Stream This Weekend](https://www.cnet.com/tech/services-and-software/best-peacock-shows-september-2025/#ftag=CAD590a51e)
+ - [Score Insane Student Deals on Laptops and Gaming Consoles at AliExpress](https://www.cnet.com/tech/score-insane-student-deals-on-laptops-and-gaming-consoles-at-aliexpress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

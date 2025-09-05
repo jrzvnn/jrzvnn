@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Afghanistan \u2026 Before disease arrived](http://9gag.com/gag/aD2PY2K)
+ - 😝 [Whiping Up The Cream](http://9gag.com/gag/abAdvm9)
  - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
- - 😝 [Dude.](http://9gag.com/gag/aVvdg2w)
- - 👉 [Old joke.](http://9gag.com/gag/an7dO0z)<!-- MEMES:END -->
+ - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 😝 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
+ - 👉 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)<!-- MEMES:END -->
 
 ---
 

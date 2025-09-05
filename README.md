@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI is set to produce an AI chip co-designed with Broadcom next year, and has committed $10B in orders; the chip will be for internal use only &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p50#a250904p50)
+ - [At a White House dinner, tech CEOs thanked Trump for promoting chip and AI investments, while Trump promised an easy energy permitting process for data centers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250904/p51#a250904p51)
+ - [Sources: OpenAI is set to produce an AI chip co-designed with Broadcom next year, and has committed $10B in orders; the chip will be for internal use only &lpar;Financial Times&rpar;](http://www.techmeme.com/250904/p50#a250904p50)
  - [Amazon, Microsoft, Google, Code.org, IBM, and other companies pledged new commitments for AI in education as part of a White House event hosted by Melania Trump &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250904/p49#a250904p49)
  - [World Cup 2026 Qualifier Soccer: Stream Brazil vs. Chile Live From Anywhere for Free](https://www.cnet.com/tech/services-and-software/world-cup-2026-qualifier-soccer-stream-brazil-vs-chile-live-from-anywhere-for-free/#ftag=CAD590a51e)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Automotive AI company Cerence sues Apple for patent infringement](https://appleinsider.com/articles/25/09/04/automotive-ai-company-cerence-sues-apple-for-patent-infringement?utm_source=rss)<!-- TECH:END -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

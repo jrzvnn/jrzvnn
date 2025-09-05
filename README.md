@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 😝 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)
- - 💣 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
+ - 😝 [Sydney Sweeney has great genes.](http://9gag.com/gag/aGyoyjn)
+ - 😝 [He saw a spider](http://9gag.com/gag/aD2P2OG)
+ - 💣 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)
  - 😝 [Early helicopter designs were something else](http://9gag.com/gag/a5QxV0g)
  - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 

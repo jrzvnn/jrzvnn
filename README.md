@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I was not expecting this kind of robbery.](http://9gag.com/gag/aE0QqBM)
  - 😝 [Me everytime somebody got the stuff I want](http://9gag.com/gag/azxB2Bm)
- - 💣 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 😝 [`Wow`, says the guy.](http://9gag.com/gag/aPApgGV)
+ - 💣 [Show Me Your Most Disgusting Pictures](http://9gag.com/gag/aNDqwD3)
  - 😝 [I over dicked it](http://9gag.com/gag/aRByEej)
- - 👉 [It was supposed to be a fake slap. Bam! Suddenly the casserole isnt cold](http://9gag.com/gag/axyAon1)<!-- MEMES:END -->
+ - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---
 

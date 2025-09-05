@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘People Are So Proud of This’: How River and Lake Water Is Cooling Buildings](https://www.wired.com/story/people-are-so-proud-of-this-how-river-and-lake-water-is-cooling-buildings/)
  - [How Synthesia is combining multiple AI voice and video models to improve avatar realism with natural gestures and accent preservation &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250905/p4#a250905p4)
  - [Qualcomm teams up with BMW for hands-free driving](https://www.theverge.com/news/771917/qualcomm-bmw-snapdragon-ride-pilot-adas)
  - [BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power](https://www.theverge.com/news/770351/bmw-ix3-neue-klasse-ev-range-specs-price)
- - [Honda’s Prelude returns as a 200-horsepower fake-shifting hybrid](https://www.theverge.com/news/772274/honda-prelude-fake-shifting-sound-hyrbid)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 5 #551](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-5-551/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honda’s Prelude returns as a 200-horsepower fake-shifting hybrid](https://www.theverge.com/news/772274/honda-prelude-fake-shifting-sound-hyrbid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

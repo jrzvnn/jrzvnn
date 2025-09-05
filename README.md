@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 😝 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
+ - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
  - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [We Have Another One, 9Gag....](http://9gag.com/gag/ajPdV38)
- - 😝 [Ali G is goat](http://9gag.com/gag/an7dRXq)
- - 👉 [Another one](http://9gag.com/gag/adBdBNN)<!-- MEMES:END -->
+ - 👉 [Headshots vs. Time Loops - Round 5 is on](http://9gag.com/gag/amodoO9)<!-- MEMES:END -->
 
 ---
 

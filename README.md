@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Synthesia is combining multiple AI voice and video models to improve avatar realism with natural gestures and accent preservation &lpar;Rhiannon Williams/MIT Technology Review&rpar;](http://www.techmeme.com/250905/p4#a250905p4)
+ - [Qualcomm teams up with BMW for hands-free driving](https://www.theverge.com/news/771917/qualcomm-bmw-snapdragon-ride-pilot-adas)
  - [BMW’s iX3 is a ‘new class’ of EV that packs a lot of range and computing power](https://www.theverge.com/news/770351/bmw-ix3-neue-klasse-ev-range-specs-price)
  - [Honda’s Prelude returns as a 200-horsepower fake-shifting hybrid](https://www.theverge.com/news/772274/honda-prelude-fake-shifting-sound-hyrbid)
- - [Researchers from UCL, Google DeepMind, and Intrinsic unveil RoboBallet, an AI system designed to help teams of industrial robots work together without colliding &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/250905/p3#a250905p3)
- - [Keep Waking Up to Pee? Here Are 5 Ways to Prevent Middle-of-the-Night Bathroom Trips](https://www.cnet.com/health/sleep/keep-waking-up-pee-ways-prevent-middle-night-bathroom-trips/#ftag=CAD590a51e)
- - [This robot lawnmower is designed to pick fruit and throw your dog a ball](https://www.theverge.com/news/772045/nexlawn-master-x-series-concept-robot-lawnmower)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 5 #551](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-5-551/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

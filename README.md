@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your robot is about to get its own robot](https://www.theverge.com/the-vergecast/772231/ifa-robots-smart-lights-google-antitrust-vergecast)
- - [The 29 Best Energy Drinks, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-energy-drinks/)
- - [ProRata.ai, which lets publishers embed custom AI search on their sites with a 50/50 revenue share, raised a $40M Series B, bringing its total raised to $75M+ &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250905/p8#a250905p8)
- - [OpenAI could launch its own AI chip next year](https://www.theverge.com/news/772433/openai-custom-chip-production-broadcom)
- - [Reolink&amp;#8217;s new floodlight cam has 360 vision and on-device AI](https://www.theverge.com/news/772353/reolink-trackflex-floodlight-wifi-launch)<!-- TECH:END -->
+ - [iPhone 17 event, Google deal, and Apple Vision Sunglasses on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/05/iphone-17-event-google-deal-and-apple-vision-sunglasses-on-the-appleinsider-podcast?utm_source=rss)
+ - [IFA 2025: the biggest tech and gadget announcements](https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights)
+ - [Apple iPhone 17 launch event: What to expect](https://www.theverge.com/iphone/767381/apple-iphone-17-awe-dropping-launch-what-to-expect)
+ - [Boston Dynamics and Toyota Research Institute have developed a large behavior model that enables more natural movement and &quot;emergent skills&quot; in humanoid robots &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250905/p9#a250905p9)
+ - [7 Best Password Managers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

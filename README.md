@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He saw a spider](http://9gag.com/gag/aD2P2OG)
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 😝 [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)
+ - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 💣 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
  - 😝 [Simpler times when you knew exactly what you were getting with the climate control](http://9gag.com/gag/apRdDGB)
- - 👉 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)<!-- MEMES:END -->
+ - 👉 [I don&#39;t know who&#39;s happier... the kid or the sheep. how lovely](http://9gag.com/gag/aZZd12W)<!-- MEMES:END -->
 
 ---
 

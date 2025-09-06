@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
- - 💣 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)
- - 😝 [Getdafuqouttahere.](http://9gag.com/gag/aRByZR5)
- - 👉 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)<!-- MEMES:END -->
+ - 😝 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
+ - 💣 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
+ - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
 
 ---
 

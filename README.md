@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 😝 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
+ - 💣 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)
  - 😝 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)
- - 😝 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
- - 💣 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
- - 😝 [The Nobel Peace prize goes to....](http://9gag.com/gag/avyDevn)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 👉 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)<!-- MEMES:END -->
 
 ---
 

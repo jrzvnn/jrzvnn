@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba debuts Qwen3-Max-Preview, its largest AI model with over 1T parameters, showcasing strong benchmark performance; the model is not open source &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250905/p30#a250905p30)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-6/#ftag=CAD590a51e)
  - [OpenAI told investors that it projects its cash burn this year through 2029 will rise to a total of $115B, about $80B higher than it previously expected &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250905/p29#a250905p29)
  - [Nvidia opposes the GAIN AI Act, saying the proposed US law forcing AI chipmakers to sell to US buyers first is &quot;just another variation of the AI Diffusion Rule&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250905/p28#a250905p28)
- - [OpenAI is merging its Model Behavior team with its Post Training group to bring the work of the Model Behavior team closer to core model development &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250905/p27#a250905p27)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [OpenAI is merging its Model Behavior team with its Post Training group to bring the work of the Model Behavior team closer to core model development &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250905/p27#a250905p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

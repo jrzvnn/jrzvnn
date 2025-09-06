@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to Babyproof Your Home &lpar;2025&rpar;](https://www.wired.com/story/how-to-babyproof-your-home/)
  - [Meraki Espresso Machine Review: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
- - [The 49 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 21 Best Movies on Amazon Prime Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 49 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Real Estate Speculators Are Swooping In to Buy Disaster-Hit Homes](https://www.wired.com/story/disasters-destroyed-their-homes-then-the-real-estate-vultures-swooped-in/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

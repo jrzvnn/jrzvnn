@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says clients of its Azure cloud platform may experience increased latency after multiple international cables in the Red Sea were cut &lpar;Susanne Barton/Bloomberg&rpar;](http://www.techmeme.com/250906/p16#a250906p16)
  - [Christian Catalini, co-creator of Meta&#39;s Libra stablecoin project, reflects on Libra&#39;s failure, what Stripe&#39;s Tempo blockchain can learn from it, and more &lpar;Christian Catalini/Forbes&rpar;](http://www.techmeme.com/250906/p15#a250906p15)
  - [iPhone 17 Air rumors: The thinnest iPhone with a potentially &#39;awe dropping&#39; design](https://appleinsider.com/articles/25/08/28/iphone-17-air-rumors-the-thinnest-iphone-with-a-potentially-awe-dropping-design?utm_source=rss)
  - [Cherry KW X ULP 2.0 Mini review: A great low-profile keyboard](https://appleinsider.com/articles/25/09/06/cherry-kw-x-ulp-20-mini-review-a-great-low-profile-keyboard?utm_source=rss)
- - [An analysis of US DOL data: the IT sector&#39;s unemployment rate fell from 5.5% in July to 4.5% in August, while active tech job postings declined 2.6% from July &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p14#a250906p14)
- - [This Robot Vacuum Has 4WD and Fast Charging Like An Electric SUV. Here’s Why It Matters](https://www.cnet.com/home/kitchen-and-household/this-new-robot-vacuum-has-4wd-and-fast-charging-like-an-electric-suv-heres-why-it-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An analysis of US DOL data: the IT sector&#39;s unemployment rate fell from 5.5% in July to 4.5% in August, while active tech job postings declined 2.6% from July &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p14#a250906p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

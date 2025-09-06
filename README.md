@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 💣 [Australia is wild, Australians are wilder](http://9gag.com/gag/aE0Q6Xn)
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 👉 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)<!-- MEMES:END -->
+ - 😝 [Your enemy comes with a smile](http://9gag.com/gag/aD2P29x)
+ - 💣 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 😝 [....](http://9gag.com/gag/aE0QVRn)
+ - 👉 [Australia is wild, Australians are wilder](http://9gag.com/gag/aE0Q6Xn)<!-- MEMES:END -->
 
 ---
 

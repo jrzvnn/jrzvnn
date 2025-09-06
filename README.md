@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
- - 😝 [Your enemy comes with a smile](http://9gag.com/gag/aD2P29x)
- - 💣 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 😝 [....](http://9gag.com/gag/aE0QVRn)
- - 👉 [Australia is wild, Australians are wilder](http://9gag.com/gag/aE0Q6Xn)<!-- MEMES:END -->
+ - 😝 [I love my Mommy, both of them!](http://9gag.com/gag/awy83xx)
+ - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
+ - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 😝 [\u201cNo stop, stop protecting yourself from the violent person braking your windows\u201d dumbass](http://9gag.com/gag/a87nmEV)
+ - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
 
 ---
 

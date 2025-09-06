@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
- - 💣 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 😝 [Can Press Machine](http://9gag.com/gag/a87n6dO)
+ - 💣 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)
  - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
- - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
+ - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
 
 ---
 

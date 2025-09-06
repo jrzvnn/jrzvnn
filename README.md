@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Park Chan-wook&amp;#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews)
  - [OnePlus ends its five-year partnership with camera company Hasselblad and plans to develop its own imaging engine called DetailMax Engine for upcoming phones &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250906/p12#a250906p12)
  - [iPhone 16 review one year later: Still a great phone, and will be for years](https://appleinsider.com/articles/25/09/05/iphone-16-review-one-year-later-still-a-great-phone-and-will-be-for-years?utm_source=rss)
  - [Apple TV+ secures 10-episode follow-up to BBC&#39;s &#39;Gavin and Stacey&#39;](https://appleinsider.com/articles/25/09/06/apple-tv-secures-10-episode-follow-up-to-bbcs-gavin-and-stacey?utm_source=rss)
- - [Dare to Stream These 11 Great Horror Movies on Prime Video](https://www.cnet.com/tech/services-and-software/dare-to-stream-these-11-great-horror-movies-on-prime-video/#ftag=CAD590a51e)
- - [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti)<!-- TECH:END -->
+ - [Dare to Stream These 11 Great Horror Movies on Prime Video](https://www.cnet.com/tech/services-and-software/dare-to-stream-these-11-great-horror-movies-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

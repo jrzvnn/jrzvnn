@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/aXPdNmP)
- - 😝 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
- - 💣 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)
- - 😝 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)
+ - 😝 [Smooth move](http://9gag.com/gag/aoydV7n)
+ - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
+ - 💣 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
+ - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
  - 👉 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)<!-- MEMES:END -->
 
 ---

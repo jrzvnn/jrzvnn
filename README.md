@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 😝 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
- - 💣 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)
- - 😝 [Feminism](http://9gag.com/gag/aZZdwZn)
- - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
+ - 😝 [Granma nooooooo.....](http://9gag.com/gag/aAym6O9)
+ - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
+ - 💣 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
+ - 😝 [Setting that Tinder age range just right](http://9gag.com/gag/a87nm5V)
+ - 👉 [If you go to school again, Which side do you choose?](http://9gag.com/gag/aXPdPm2)<!-- MEMES:END -->
 
 ---
 

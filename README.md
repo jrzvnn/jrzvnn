@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
  - 😝 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)
- - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
- - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
- - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
- - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
+ - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
+ - 👉 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)<!-- MEMES:END -->
 
 ---
 

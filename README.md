@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Authors claim Apple Intelligence may be trained with pirated books](https://appleinsider.com/articles/25/09/06/authors-claim-apple-intelligence-may-be-trained-with-pirated-books?utm_source=rss)
  - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
  - [Herdling is a serene and adorable way to unwind](https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox)
  - [A look at the ramp up of Apple&#39;s retail footprint in India, as a source says Apple&#39;s revenue grew 13% YoY to $9B during India&#39;s fiscal year that ended in March &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250906/p11#a250906p11)
- - [Anthropic agrees to $1.5B settlement to end AI book piracy lawsuit](https://appleinsider.com/articles/25/09/06/anthropic-agrees-to-15b-settlement-to-end-ai-book-piracy-lawsuit?utm_source=rss)
- - [Google Pixel 10 review: perfectly fine](https://www.theverge.com/reviews/772813/google-pixel-10-review)<!-- TECH:END -->
+ - [Anthropic agrees to $1.5B settlement to end AI book piracy lawsuit](https://appleinsider.com/articles/25/09/06/anthropic-agrees-to-15b-settlement-to-end-ai-book-piracy-lawsuit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

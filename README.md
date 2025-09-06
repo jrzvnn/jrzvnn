@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bros before h*es](http://9gag.com/gag/a9yVznL)
- - 😝 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
- - 💣 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
- - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
- - 👉 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)<!-- MEMES:END -->
+ - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
+ - 😝 [Good old days](http://9gag.com/gag/aW4dp83)
+ - 💣 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
+ - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
 
 ---
 

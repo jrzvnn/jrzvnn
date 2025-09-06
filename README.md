@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)
- - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 💣 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
- - 😝 [Simpler times when you knew exactly what you were getting with the climate control](http://9gag.com/gag/apRdDGB)
- - 👉 [I don&#39;t know who&#39;s happier... the kid or the sheep. how lovely](http://9gag.com/gag/aZZd12W)<!-- MEMES:END -->
+ - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [Some more lore for you](http://9gag.com/gag/aNDq92K)
+ - 💣 [Rainman strikes again](http://9gag.com/gag/aZZdwb3)
+ - 😝 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)
+ - 👉 [Wtf is this?](http://9gag.com/gag/aMVWdyA)<!-- MEMES:END -->
 
 ---
 

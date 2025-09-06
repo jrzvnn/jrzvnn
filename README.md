@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok says it now has more than 200M MAUs in Europe, up from 175M in 2024, the latest sign of its rapid growth among teenagers &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/250906/p5#a250906p5)
  - [C3 AI, whose NYSE ticker symbol is AI, has fallen 32%+ in the past month on growth concerns, after its Q1 revenue fell 19% YoY to $70.3M, below $100M+ est. &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250906/p4#a250906p4)
  - [German Chancellor Friedrich Merz inaugurates the Jupiter supercomputer, powered by Nvidia chips, the world&#39;s fourth-fastest and Europe&#39;s first Exascale system &lpar;Reuters&rpar;](http://www.techmeme.com/250906/p3#a250906p3)
  - [Freshworks founder Girish Mathrubootham, one of India&#39;s most prominent SaaS founders, announced he will step down as executive chair effective December 1, 2025 &lpar;Chandra R Srikanth/Moneycontrol&rpar;](http://www.techmeme.com/250906/p2#a250906p2)
- - [Cadence Design to acquire Hexagon&#39;s Stockholm-based design and engineering unit, a computer-aided engineering software provider, for €2.7B in cash and stock &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250906/p1#a250906p1)
- - [Alibaba debuts Qwen3-Max-Preview, its largest AI model with over 1T parameters, showcasing strong benchmark performance; the model is not open source &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250905/p30#a250905p30)<!-- TECH:END -->
+ - [Cadence Design to acquire Hexagon&#39;s Stockholm-based design and engineering unit, a computer-aided engineering software provider, for €2.7B in cash and stock &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250906/p1#a250906p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

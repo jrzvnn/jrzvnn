@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
- - 💣 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
- - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
+ - 😝 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
+ - 😝 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
+ - 💣 [How men make friends \ud83d\ude02](http://9gag.com/gag/a2vxMdE)
+ - 😝 [This is why women live longer](http://9gag.com/gag/axyAW2M)
+ - 👉 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)<!-- MEMES:END -->
 
 ---
 

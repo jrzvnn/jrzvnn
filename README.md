@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
- - 💣 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 😝 [Never relax](http://9gag.com/gag/amod684)
- - 👉 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)<!-- MEMES:END -->
+ - 😝 [A lawyer called Mark Zuckerberg is suing Facebook after the social network repeatedly took down his page, claiming he was impersonating the company\u2019s boss.](http://9gag.com/gag/a9yVvND)
+ - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
+ - 💣 [So much time spent in the computer room...](http://9gag.com/gag/aE0QAdo)
+ - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 👉 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)<!-- MEMES:END -->
 
 ---
 

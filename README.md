@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth move](http://9gag.com/gag/aoydV7n)
- - 😝 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 💣 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
- - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 👉 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)<!-- MEMES:END -->
+ - 😝 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)
+ - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
+ - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
 
 ---
 

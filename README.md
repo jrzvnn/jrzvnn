@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cherry KW X ULP 2.0 Mini review: A great low-profile keyboard](https://appleinsider.com/articles/25/09/06/cherry-kw-x-ulp-20-mini-review-a-great-low-profile-keyboard?utm_source=rss)
  - [An analysis of US DOL data: the IT sector&#39;s unemployment rate fell from 5.5% in July to 4.5% in August, while active tech job postings declined 2.6% from July &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p14#a250906p14)
  - [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music)
  - [Data shows WLFI&#39;s sharp drop was driven by shorting and dumping across exchanges, not Justin Sun&#39;s token movements; WLFI blames phishing-related compromises &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250906/p13#a250906p13)
- - [Park Chan-wook&amp;#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews)
- - [OnePlus ends its five-year partnership with camera company Hasselblad and plans to develop its own imaging engine called DetailMax Engine for upcoming phones &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250906/p12#a250906p12)<!-- TECH:END -->
+ - [Park Chan-wook&amp;#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

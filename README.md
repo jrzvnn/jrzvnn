@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
  - 😝 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
- - 💣 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)
- - 😝 [Who reads titles?](http://9gag.com/gag/a9yVvQj)
+ - 💣 [Never relax](http://9gag.com/gag/amod684)
+ - 😝 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)
  - 👉 [Never relax, people.](http://9gag.com/gag/aLnbemv)<!-- MEMES:END -->
 
 ---

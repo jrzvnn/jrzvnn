@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV+ secures 10-episode follow-up to BBC&#39;s &#39;Gavin and Stacey&#39;](https://appleinsider.com/articles/25/09/06/apple-tv-secures-10-episode-follow-up-to-bbcs-gavin-and-stacey?utm_source=rss)
+ - [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti)
+ - [Super Robot Wars Y plays just like a kid’s giant robo fanfiction](https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2)
  - [Authors claim Apple Intelligence may be trained with pirated books](https://appleinsider.com/articles/25/09/06/authors-claim-apple-intelligence-may-be-trained-with-pirated-books?utm_source=rss)
- - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
- - [Herdling is a serene and adorable way to unwind](https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox)
- - [A look at the ramp up of Apple&#39;s retail footprint in India, as a source says Apple&#39;s revenue grew 13% YoY to $9B during India&#39;s fiscal year that ended in March &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250906/p11#a250906p11)
- - [Anthropic agrees to $1.5B settlement to end AI book piracy lawsuit](https://appleinsider.com/articles/25/09/06/anthropic-agrees-to-15b-settlement-to-end-ai-book-piracy-lawsuit?utm_source=rss)<!-- TECH:END -->
+ - [England vs. Andorra: Livestream World Cup 2026 Qualifier Soccer From Anywhere for Free](https://www.cnet.com/tech/services-and-software/england-vs-andorra-livestream-world-cup-2026-qualifier-soccer-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

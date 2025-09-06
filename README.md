@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Granma nooooooo.....](http://9gag.com/gag/aAym6O9)
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 💣 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
+ - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
+ - 😝 [Your enemy comes with a smile](http://9gag.com/gag/aD2P29x)
+ - 💣 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
  - 😝 [Setting that Tinder age range just right](http://9gag.com/gag/a87nm5V)
- - 👉 [If you go to school again, Which side do you choose?](http://9gag.com/gag/aXPdPm2)<!-- MEMES:END -->
+ - 👉 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)<!-- MEMES:END -->
 
 ---
 

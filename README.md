@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 10 review: perfectly fine](https://www.theverge.com/reviews/772813/google-pixel-10-review)
+ - [MAGA populists call for holy war against Big Tech](https://www.theverge.com/politics/773154/maga-tech-right-ai-natcon)
  - [How to Babyproof Your Home &lpar;2025&rpar;](https://www.wired.com/story/how-to-babyproof-your-home/)
  - [Meraki Espresso Machine Review: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
- - [When Will Apple Release iOS 26? Here&#39;s My Prediction](https://www.cnet.com/tech/services-and-software/when-will-apple-release-ios-26-heres-my-prediction/#ftag=CAD590a51e)
- - [Premiere Pro for Free: How Adobe&#39;s New iPhone App Will Let You Edit Videos at No Cost](https://www.cnet.com/tech/services-and-software/premiere-pro-for-free-how-adobes-new-iphone-app-will-let-you-edit-videos-at-no-cost/#ftag=CAD590a51e)
- - [The Apple Smart Home Is Almost Here: 4 Rumored Devices Could Show Up This Month](https://www.cnet.com/home/smart-home/the-apple-smart-home-is-almost-here-4-rumored-devices-could-show-up-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [When Will Apple Release iOS 26? Here&#39;s My Prediction](https://www.cnet.com/tech/services-and-software/when-will-apple-release-ios-26-heres-my-prediction/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
  - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 💣 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
+ - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 💣 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
  - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
+ - 👉 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)<!-- MEMES:END -->
 
 ---
 

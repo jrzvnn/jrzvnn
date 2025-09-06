@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia opposes the GAIN AI Act, saying the proposed US law forcing AI chipmakers to sell to US buyers first is &quot;just another variation of the AI Diffusion Rule&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250905/p28#a250905p28)
+ - [OpenAI is merging its Model Behavior team with its Post Training group to bring the work of the Model Behavior team closer to core model development &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250905/p27#a250905p27)
  - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
  - [Pixel 10 vs. Pixel 10 Pro vs. Pixel 10 Pro XL: How Google&#39;s Latest Phones Compare](https://www.cnet.com/tech/mobile/pixel-10-vs-pixel-10-pro-vs-pixel-10-pro-xl-how-googles-latest-phones-compare/#ftag=CAD590a51e)
- - [Silicon Valley’s most powerful alliance just got stronger](https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai)
- - [Qualcomm debuts Snapdragon Ride Pilot, a hands-free driver assistance system that is launching with the BMW iX3 and has been validated for use in 60+ countries &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250905/p26#a250905p26)
- - [Meta Reimagines Facebook&#39;s Poke Feature to Gamify Gen Z Flirting](https://www.cnet.com/tech/services-and-software/meta-reimagines-facebooks-poke-feature-to-gamify-gen-z-flirting/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Silicon Valley’s most powerful alliance just got stronger](https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

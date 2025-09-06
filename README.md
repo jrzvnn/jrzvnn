@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 💣 [The Nobel Peace prize goes to....](http://9gag.com/gag/avyDevn)
- - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
- - 👉 [Your enemy comes with a smile](http://9gag.com/gag/aD2P29x)<!-- MEMES:END -->
+ - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
+ - 😝 [If you go to school again, Which side do you choose?](http://9gag.com/gag/aXPdPm2)
+ - 💣 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
+ - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
+ - 👉 [Some more lore for you](http://9gag.com/gag/aNDq92K)<!-- MEMES:END -->
 
 ---
 

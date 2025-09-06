@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I love my Mommy, both of them!](http://9gag.com/gag/awy83xx)
- - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
- - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
- - 😝 [\u201cNo stop, stop protecting yourself from the violent person braking your windows\u201d dumbass](http://9gag.com/gag/a87nmEV)
- - 👉 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)<!-- MEMES:END -->
+ - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
+ - 😝 [Rainman strikes again](http://9gag.com/gag/aZZdwb3)
+ - 💣 [\u201cNo stop, stop protecting yourself from the violent person braking your windows\u201d dumbass](http://9gag.com/gag/a87nmEV)
+ - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 👉 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)<!-- MEMES:END -->
 
 ---
 

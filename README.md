@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Where&#39;s the Fun in AI Gambling?](https://www.wired.com/story/uncanny-valley-podcast-wheres-the-fun-in-ai-gambling/)
  - [Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch](https://www.wired.com/story/gear-news-of-the-week-veo-3-comes-to-google-photos-and-garmin-adds-satellite-comms-to-a-watch/)
  - [Thailand, aiming to become the second-largest PCB production hub, is witnessing a tech manufacturing boom as the PCB supply chain shifts from China and Taiwan &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250906/p10#a250906p10)
- - [Lovense Ferri Panty Vibrator Review: Super Comfy](https://www.wired.com/review/lovense-ferri-panty-vibrator/)
- - [What Are the Healthiest Air Fryer Foods? Registered Dietitians Weigh In](https://www.cnet.com/health/nutrition/what-healthiest-air-fryer-foods-registered-dietitians-weigh-in/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Major Amazon Prime Benefit Faces Crackdown Next Month](https://www.cnet.com/tech/services-and-software/major-prime-benefit-faces-amazon-crackdown-next-month/#ftag=CAD590a51e)
+ - [Lovense Ferri Panty Vibrator Review: Super Comfy](https://www.wired.com/review/lovense-ferri-panty-vibrator/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

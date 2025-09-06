@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 49 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 21 Best Movies on Amazon Prime Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 49 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Real Estate Speculators Are Swooping In to Buy Disaster-Hit Homes](https://www.wired.com/story/disasters-destroyed-their-homes-then-the-real-estate-vultures-swooped-in/)
  - [How to Watch Apple’s iPhone 17 Announcement, and What to Expect](https://www.wired.com/story/apple-iphone-17-event-how-to-watch-what-to-expect/)
  - [The 49 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to Babyproof Your Home &lpar;2025&rpar;](https://www.wired.com/story/how-to-babyproof-your-home/)
  - [Meraki Espresso Machine Review: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
- - [The 21 Best Movies on Amazon Prime Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The 49 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Real Estate Speculators Are Swooping In to Buy Disaster-Hit Homes](https://www.wired.com/story/disasters-destroyed-their-homes-then-the-real-estate-vultures-swooped-in/)<!-- TECH:END -->
+ - [When Will Apple Release iOS 26? Here&#39;s My Prediction](https://www.cnet.com/tech/services-and-software/when-will-apple-release-ios-26-heres-my-prediction/#ftag=CAD590a51e)
+ - [Premiere Pro for Free: How Adobe&#39;s New iPhone App Will Let You Edit Videos at No Cost](https://www.cnet.com/tech/services-and-software/premiere-pro-for-free-how-adobes-new-iphone-app-will-let-you-edit-videos-at-no-cost/#ftag=CAD590a51e)
+ - [The Apple Smart Home Is Almost Here: 4 Rumored Devices Could Show Up This Month](https://www.cnet.com/home/smart-home/the-apple-smart-home-is-almost-here-4-rumored-devices-could-show-up-this-month/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [If you go to school again, Which side do you choose?](http://9gag.com/gag/aXPdPm2)
- - 💣 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
- - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
- - 👉 [Some more lore for you](http://9gag.com/gag/aNDq92K)<!-- MEMES:END -->
+ - 😝 [Feminism](http://9gag.com/gag/aZZdwZn)
+ - 😝 [I don&#39;t know who&#39;s happier... the kid or the sheep. how lovely](http://9gag.com/gag/aZZd12W)
+ - 💣 [Dude.](http://9gag.com/gag/aVvdg2w)
+ - 😝 [Peak coolness achieved](http://9gag.com/gag/a2vx8bp)
+ - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
 
 ---
 

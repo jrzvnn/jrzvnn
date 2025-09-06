@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The latest Karen in baseball game](http://9gag.com/gag/aoydROw)
  - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 💣 [14 times......](http://9gag.com/gag/a0ex0RX)
- - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
- - 👉 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)<!-- MEMES:END -->
+ - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
+ - 👉 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)<!-- MEMES:END -->
 
 ---
 

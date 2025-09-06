@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Effective hair dryer](http://9gag.com/gag/aByv6GA)
- - 😝 [Your enemy comes with a smile](http://9gag.com/gag/aD2P29x)
- - 💣 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
- - 😝 [Setting that Tinder age range just right](http://9gag.com/gag/a87nm5V)
- - 👉 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)<!-- MEMES:END -->
+ - 😝 [-1hp -1hp -1hp -1hp -1hp](http://9gag.com/gag/a4PxPeQ)
+ - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
+ - 💣 [The Nobel Peace prize goes to....](http://9gag.com/gag/avyDevn)
+ - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
+ - 👉 [Your enemy comes with a smile](http://9gag.com/gag/aD2P29x)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I got second class. It ain&#39;t much but it&#39;s honest work.](http://9gag.com/gag/aXPdMOz)
- - 😝 [Muslim bacon, right to jail](http://9gag.com/gag/aW4d774)
- - 💣 [Old joke.](http://9gag.com/gag/an7dO0z)
- - 😝 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
- - 👉 [I don&#39;t know who&#39;s happier... the kid or the sheep. how lovely](http://9gag.com/gag/aZZd12W)<!-- MEMES:END -->
+ - 😝 [Some more lore for you](http://9gag.com/gag/aNDq92K)
+ - 😝 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
+ - 💣 [Rainman strikes again](http://9gag.com/gag/aZZdwb3)
+ - 😝 [Feminism](http://9gag.com/gag/aZZdwZn)
+ - 👉 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)<!-- MEMES:END -->
 
 ---
 

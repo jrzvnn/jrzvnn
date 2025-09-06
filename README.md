@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shame on other publishers](http://9gag.com/gag/abAdeVE)
  - 😝 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
- - 💣 [How men make friends \ud83d\ude02](http://9gag.com/gag/a2vxMdE)
- - 😝 [This is why women live longer](http://9gag.com/gag/axyAW2M)
- - 👉 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)<!-- MEMES:END -->
+ - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
+ - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 😝 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)
+ - 👉 [Shame on other publishers](http://9gag.com/gag/abAdeVE)<!-- MEMES:END -->
 
 ---
 

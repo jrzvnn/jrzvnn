@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Cherry KW X ULP 2.0 Mini review: A great low-profile keyboard](https://appleinsider.com/articles/25/09/06/cherry-kw-x-ulp-20-mini-review-a-great-low-profile-keyboard?utm_source=rss)
  - [An analysis of US DOL data: the IT sector&#39;s unemployment rate fell from 5.5% in July to 4.5% in August, while active tech job postings declined 2.6% from July &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p14#a250906p14)
+ - [This Robot Vacuum Has 4WD and Fast Charging Like An Electric SUV. Here’s Why It Matters](https://www.cnet.com/home/kitchen-and-household/this-new-robot-vacuum-has-4wd-and-fast-charging-like-an-electric-suv-heres-why-it-matters/#ftag=CAD590a51e)
  - [Pocket Scion is a synth you play with plants](https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music)
- - [Data shows WLFI&#39;s sharp drop was driven by shorting and dumping across exchanges, not Justin Sun&#39;s token movements; WLFI blames phishing-related compromises &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250906/p13#a250906p13)
- - [Park Chan-wook&amp;#8217;s No Other Choice is as bleak as it is hilarious](https://www.theverge.com/movie-reviews/773376/tiff-2025-no-other-choice-man-in-my-basement-reviews)<!-- TECH:END -->
+ - [Data shows WLFI&#39;s sharp drop was driven by shorting and dumping across exchanges, not Justin Sun&#39;s token movements; WLFI blames phishing-related compromises &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/250906/p13#a250906p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

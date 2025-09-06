@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 💣 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)
- - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
+ - 😝 [So much time spent in the computer room...](http://9gag.com/gag/aE0QAdo)
+ - 💣 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
+ - 😝 [Never relax, people.](http://9gag.com/gag/aLnbemv)
+ - 👉 [The Nobel Peace prize goes to....](http://9gag.com/gag/avyDevn)<!-- MEMES:END -->
 
 ---
 

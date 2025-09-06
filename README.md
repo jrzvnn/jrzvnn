@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI told investors that it projects its cash burn this year through 2029 will rise to a total of $115B, about $80B higher than it previously expected &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250905/p29#a250905p29)
  - [Nvidia opposes the GAIN AI Act, saying the proposed US law forcing AI chipmakers to sell to US buyers first is &quot;just another variation of the AI Diffusion Rule&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250905/p28#a250905p28)
  - [OpenAI is merging its Model Behavior team with its Post Training group to bring the work of the Model Behavior team closer to core model development &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250905/p27#a250905p27)
  - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Pixel 10 vs. Pixel 10 Pro vs. Pixel 10 Pro XL: How Google&#39;s Latest Phones Compare](https://www.cnet.com/tech/mobile/pixel-10-vs-pixel-10-pro-vs-pixel-10-pro-xl-how-googles-latest-phones-compare/#ftag=CAD590a51e)
- - [Silicon Valley’s most powerful alliance just got stronger](https://www.theverge.com/command-line-newsletter/773260/google-apple-search-deal-money-ai)<!-- TECH:END -->
+ - [Pixel 10 vs. Pixel 10 Pro vs. Pixel 10 Pro XL: How Google&#39;s Latest Phones Compare](https://www.cnet.com/tech/mobile/pixel-10-vs-pixel-10-pro-vs-pixel-10-pro-xl-how-googles-latest-phones-compare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

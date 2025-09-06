@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feminism](http://9gag.com/gag/aZZdwZn)
- - 😝 [I don&#39;t know who&#39;s happier... the kid or the sheep. how lovely](http://9gag.com/gag/aZZd12W)
- - 💣 [Dude.](http://9gag.com/gag/aVvdg2w)
- - 😝 [Peak coolness achieved](http://9gag.com/gag/a2vx8bp)
- - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
+ - 😝 [Bros before h*es](http://9gag.com/gag/a9yVznL)
+ - 😝 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
+ - 💣 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
+ - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
+ - 👉 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)<!-- MEMES:END -->
 
 ---
 

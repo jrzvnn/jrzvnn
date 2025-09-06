@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The latest Karen in baseball game](http://9gag.com/gag/aoydROw)
+ - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
  - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
  - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
- - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
- - 👉 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)<!-- MEMES:END -->
+ - 😝 [The latest Karen in baseball game](http://9gag.com/gag/aoydROw)
+ - 👉 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)<!-- MEMES:END -->
 
 ---
 

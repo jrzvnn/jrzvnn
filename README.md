@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
  - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 💣 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
  - 😝 [`Goverment consipiracy noises`](http://9gag.com/gag/aO8j41R)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 💣 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
+ - 😝 [Never relax](http://9gag.com/gag/amod684)
+ - 👉 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You might be able to delete your comment, but not the memory.](http://9gag.com/gag/an7dOe5)
- - 😝 [Can Press Machine](http://9gag.com/gag/a87n6dO)
- - 💣 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)
- - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
+ - 😝 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
+ - 💣 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)
+ - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
+ - 👉 [Can Press Machine](http://9gag.com/gag/a87n6dO)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)
+ - 😝 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
  - 💣 [He exists somewhere out there](http://9gag.com/gag/a4Pxz6w)
- - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
- - 👉 [Can Press Machine](http://9gag.com/gag/a87n6dO)<!-- MEMES:END -->
+ - 😝 [Getdafuqouttahere.](http://9gag.com/gag/aRByZR5)
+ - 👉 [Indie game \u201cLittle Witch in the Woods\u201d has been delayed, the devs then posted this photo alongside an apology.](http://9gag.com/gag/aYQdOKO)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 16 review one year later: Still a great phone, and will be for years](https://appleinsider.com/articles/25/09/05/iphone-16-review-one-year-later-still-a-great-phone-and-will-be-for-years?utm_source=rss)
  - [Apple TV+ secures 10-episode follow-up to BBC&#39;s &#39;Gavin and Stacey&#39;](https://appleinsider.com/articles/25/09/06/apple-tv-secures-10-episode-follow-up-to-bbcs-gavin-and-stacey?utm_source=rss)
  - [Bluetti says it can reduce vanlife power installations to ‘30 minutes’](https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti)
  - [Super Robot Wars Y plays just like a kid’s giant robo fanfiction](https://www.theverge.com/games/773191/super-robot-wars-y-impressions-demo-nintendo-switch-2)
- - [Authors claim Apple Intelligence may be trained with pirated books](https://appleinsider.com/articles/25/09/06/authors-claim-apple-intelligence-may-be-trained-with-pirated-books?utm_source=rss)
- - [England vs. Andorra: Livestream World Cup 2026 Qualifier Soccer From Anywhere for Free](https://www.cnet.com/tech/services-and-software/england-vs-andorra-livestream-world-cup-2026-qualifier-soccer-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Authors claim Apple Intelligence may be trained with pirated books](https://appleinsider.com/articles/25/09/06/authors-claim-apple-intelligence-may-be-trained-with-pirated-books?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 💣 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)<!-- MEMES:END -->
+ - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 💣 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)
+ - 😝 [Tell us your most special special day](http://9gag.com/gag/aE0QMr9)
+ - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
 
 ---
 

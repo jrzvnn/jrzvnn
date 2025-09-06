@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICE Has Spyware Now](https://www.wired.com/story/ice-has-spyware-now/)
- - [Where&#39;s the Fun in AI Gambling?](https://www.wired.com/story/uncanny-valley-podcast-wheres-the-fun-in-ai-gambling/)
- - [Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch](https://www.wired.com/story/gear-news-of-the-week-veo-3-comes-to-google-photos-and-garmin-adds-satellite-comms-to-a-watch/)
- - [Thailand, aiming to become the second-largest PCB production hub, is witnessing a tech manufacturing boom as the PCB supply chain shifts from China and Taiwan &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250906/p10#a250906p10)
- - [Major Amazon Prime Benefit Faces Crackdown Next Month](https://www.cnet.com/tech/services-and-software/major-prime-benefit-faces-amazon-crackdown-next-month/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 49 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 21 Best Movies on Amazon Prime Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [Real Estate Speculators Are Swooping In to Buy Disaster-Hit Homes](https://www.wired.com/story/disasters-destroyed-their-homes-then-the-real-estate-vultures-swooped-in/)
+ - [How to Watch Apple’s iPhone 17 Announcement, and What to Expect](https://www.wired.com/story/apple-iphone-17-event-how-to-watch-what-to-expect/)
+ - [The 49 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

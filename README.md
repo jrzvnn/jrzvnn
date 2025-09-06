@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 😝 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)
- - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
- - 😝 [Great, now I know I will never be able to sleep](http://9gag.com/gag/aoydWXx)
- - 👉 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)<!-- MEMES:END -->
+ - 😝 [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
+ - 😝 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
+ - 💣 [A Ukrainian refugee was butchered in north Carolina.](http://9gag.com/gag/aD2PnEK)
+ - 😝 [Who reads titles?](http://9gag.com/gag/a9yVvQj)
+ - 👉 [Never relax, people.](http://9gag.com/gag/aLnbemv)<!-- MEMES:END -->
 
 ---
 

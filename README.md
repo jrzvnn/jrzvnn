@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia publishes a list of locally developed apps it says will function during mobile internet shutdowns, excluding foreign services like WhatsApp and YouTube &lpar;Reuters&rpar;](http://www.techmeme.com/250906/p7#a250906p7)
+ - [Public records show C3 AI&#39;s Project Sherlock, company&#39;s flagship contract to speed up policing in San Mateo County, has struggled with usability issues and more &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250906/p6#a250906p6)
+ - [The Top New Gadgets We Saw at IFA Berlin 2025](https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/)
  - [TikTok says it now has more than 200M MAUs in Europe, up from 175M in 2024, the latest sign of its rapid growth among teenagers &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/250906/p5#a250906p5)
- - [C3 AI, whose NYSE ticker symbol is AI, has fallen 32%+ in the past month on growth concerns, after its Q1 revenue fell 19% YoY to $70.3M, below $100M+ est. &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250906/p4#a250906p4)
- - [German Chancellor Friedrich Merz inaugurates the Jupiter supercomputer, powered by Nvidia chips, the world&#39;s fourth-fastest and Europe&#39;s first Exascale system &lpar;Reuters&rpar;](http://www.techmeme.com/250906/p3#a250906p3)
- - [Freshworks founder Girish Mathrubootham, one of India&#39;s most prominent SaaS founders, announced he will step down as executive chair effective December 1, 2025 &lpar;Chandra R Srikanth/Moneycontrol&rpar;](http://www.techmeme.com/250906/p2#a250906p2)
- - [Cadence Design to acquire Hexagon&#39;s Stockholm-based design and engineering unit, a computer-aided engineering software provider, for €2.7B in cash and stock &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250906/p1#a250906p1)<!-- TECH:END -->
+ - [C3 AI, whose NYSE ticker symbol is AI, has fallen 32%+ in the past month on growth concerns, after its Q1 revenue fell 19% YoY to $70.3M, below $100M+ est. &lpar;Hyunsoo Rim/Sherwood News&rpar;](http://www.techmeme.com/250906/p4#a250906p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

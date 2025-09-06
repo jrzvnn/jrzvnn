@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the ramp up of Apple&#39;s retail footprint in India, as a source says Apple&#39;s revenue grew 13% YoY to $9B during India&#39;s fiscal year that ended in March &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/250906/p11#a250906p11)
+ - [Anthropic agrees to $1.5B settlement to end AI book piracy lawsuit](https://appleinsider.com/articles/25/09/06/anthropic-agrees-to-15b-settlement-to-end-ai-book-piracy-lawsuit?utm_source=rss)
  - [Google Pixel 10 review: perfectly fine](https://www.theverge.com/reviews/772813/google-pixel-10-review)
- - [MAGA populists call for holy war against Big Tech](https://www.theverge.com/politics/773154/maga-tech-right-ai-natcon)
- - [How to Babyproof Your Home &lpar;2025&rpar;](https://www.wired.com/story/how-to-babyproof-your-home/)
- - [Meraki Espresso Machine Review: Fine Grind, Loose Fit](https://www.wired.com/review/meraki-espresso-maker/)
- - [When Will Apple Release iOS 26? Here&#39;s My Prediction](https://www.cnet.com/tech/services-and-software/when-will-apple-release-ios-26-heres-my-prediction/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Apple Watch Series 11 Could Share the Stage at Next Week&#39;s Event](https://www.cnet.com/tech/mobile/the-apple-watch-series-11-could-share-the-stage-at-next-weeks-event/#ftag=CAD590a51e)
+ - [Will Apple Launch AirPods Pro 3 This Year? Here&#39;s What We&#39;re Expecting](https://www.cnet.com/tech/mobile/will-apple-launch-airpods-pro-3-this-year-heres-what-were-expecting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

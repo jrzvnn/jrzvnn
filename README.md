@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 😝 [Rainman strikes again](http://9gag.com/gag/aZZdwb3)
- - 💣 [\u201cNo stop, stop protecting yourself from the violent person braking your windows\u201d dumbass](http://9gag.com/gag/a87nmEV)
+ - 😝 [He saw a spider](http://9gag.com/gag/aD2P2OG)
  - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
- - 👉 [Hearing this and knowing you might be losing your life in the next few minutes... Scariest sound ever existed](http://9gag.com/gag/aNDqDjA)<!-- MEMES:END -->
+ - 💣 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 😝 [Simpler times when you knew exactly what you were getting with the climate control](http://9gag.com/gag/apRdDGB)
+ - 👉 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)<!-- MEMES:END -->
 
 ---
 

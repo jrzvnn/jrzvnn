@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some more lore for you](http://9gag.com/gag/aNDq92K)
- - 😝 [I think this deserves more appreciation](http://9gag.com/gag/a1mx7Y8)
- - 💣 [Rainman strikes again](http://9gag.com/gag/aZZdwb3)
+ - 😝 [Wtf is this?](http://9gag.com/gag/aMVWdyA)
+ - 😝 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)
+ - 💣 [This guy is a human brick-throwing machine](http://9gag.com/gag/a6Zx9OA)
  - 😝 [Feminism](http://9gag.com/gag/aZZdwZn)
- - 👉 [In 2023, 17 people d*ed while taking a photo at this very dangerous viewpoint in Rio.](http://9gag.com/gag/aoydWem)<!-- MEMES:END -->
+ - 👉 [Good old days](http://9gag.com/gag/aW4dp83)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thailand, aiming to become the second-largest PCB production hub, is witnessing a tech manufacturing boom as the PCB supply chain shifts from China and Taiwan &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250906/p10#a250906p10)
  - [Lovense Ferri Panty Vibrator Review: Super Comfy](https://www.wired.com/review/lovense-ferri-panty-vibrator/)
  - [What Are the Healthiest Air Fryer Foods? Registered Dietitians Weigh In](https://www.cnet.com/health/nutrition/what-healthiest-air-fryer-foods-registered-dietitians-weigh-in/#ftag=CAD590a51e)
  - [First look: Dyson’s Spot+Scrub Ai robot seeks out stains](https://www.theverge.com/ifa-berlin/772423/dyson-spot-scrub-ai-robot-vacuum-mop-multifunction-dock-first-look)
- - [A book excerpt details Spotify&#39;s decade-long push against Apple&#39;s App Store commissions and steering rules, including pushing the EU to pass new antitrust laws &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p9#a250906p9)
- - [Source: Balderton Capital, one of Revolut&#39;s earliest VC backers, has sold ~$1B in shares through multiple transactions that valued the fintech company at $45B &lpar;Financial Times&rpar;](http://www.techmeme.com/250906/p8#a250906p8)<!-- TECH:END -->
+ - [A book excerpt details Spotify&#39;s decade-long push against Apple&#39;s App Store commissions and steering rules, including pushing the EU to pass new antitrust laws &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/250906/p9#a250906p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

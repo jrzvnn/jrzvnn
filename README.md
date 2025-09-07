@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
- - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
- - 💣 [Back in the past](http://9gag.com/gag/aE0QoMn)
- - 😝 [The beauty of our homeland. Extraverts might not agree.](http://9gag.com/gag/avyDEyX)
+ - 😝 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
+ - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 💣 [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 😝 [I suck](http://9gag.com/gag/aW4dL24)
  - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
 
 ---

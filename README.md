@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 💣 [France is following the UK..](http://9gag.com/gag/apRd3dM)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [KareN](http://9gag.com/gag/a9yV5pD)<!-- MEMES:END -->
+ - 😝 [Who knew he was so young??](http://9gag.com/gag/apRd669)
+ - 😝 [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
+ - 💣 [This man is a true legend for saving 1,200 apple varieties](http://9gag.com/gag/azxBK3p)
+ - 😝 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)
+ - 👉 [Who they gonna blame this time?](http://9gag.com/gag/avyD6BW)<!-- MEMES:END -->
 
 ---
 

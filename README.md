@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit)
- - [Sources: ASML is committing €1.3B for Mistral&#39;s €1.7B Series C funding round, becoming the top shareholder, and is expected to get a board seat &lpar;Reuters&rpar;](http://www.techmeme.com/250907/p14#a250907p14)
- - [Shift5, which develops cybersecurity tools for the military and critical infrastructure, raised a $75M Series C led by Hedosophia &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250907/p13#a250907p13)
- - [Turkey vs. Spain: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/turkey-vs-spain-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Germany vs. Northern Ireland: Livestream World Cup 2026 Qualifier Soccer From Anywhere for Free](https://www.cnet.com/tech/services-and-software/germany-vs-northern-ireland-livestream-world-cup-2026-qualifier-soccer-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Texans vs. Rams Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/texans-vs-rams-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [Lions vs. Packers Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/lions-vs-packers-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [Titans vs. Broncos Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/titans-vs-broncos-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
+ - [49ers vs. Seahawks Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/49ers-vs-seahawks-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

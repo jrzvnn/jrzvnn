@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
- - 😝 [France is following the UK..](http://9gag.com/gag/apRd3dM)
- - 💣 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
  - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
- - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
+ - 👉 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)<!-- MEMES:END -->
 
 ---
 

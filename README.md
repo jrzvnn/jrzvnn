@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)
- - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
- - 💣 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
+ - 😝 [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
+ - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
+ - 💣 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
  - 👉 [Never relax](http://9gag.com/gag/aXPdNmP)<!-- MEMES:END -->
 
 ---

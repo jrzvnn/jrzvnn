@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/aXPdNmP)
- - 😝 [On the back](http://9gag.com/gag/aNDqvzb)
+ - 😝 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
+ - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
  - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Floppy sledge](http://9gag.com/gag/aZZd1W0)<!-- MEMES:END -->
+ - 😝 [Men, please vent to women. They DO care. It&#39;s a trap](http://9gag.com/gag/awy8181)
+ - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
 
 ---
 

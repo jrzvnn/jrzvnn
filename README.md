@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto](https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews)
  - [A profile of Razer CEO Min-Liang Tan, as the gaming hardware giant readies AI tools for game development and to help players sharpen their skills &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250907/p12#a250907p12)
+ - [How to Get the Map in Silksong and Unlock Shakra&#39;s Full Shop](https://www.cnet.com/tech/gaming/how-to-get-the-map-in-silksong-and-unlock-shakras-full-shop/#ftag=CAD590a51e)
  - [Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept](https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept)
- - [How to Add WIRED as a Preferred Source on Google &lpar;2025&rpar;](https://www.wired.com/story/wired-google-preferred-source/)
- - [Panthers vs. Jaguars Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-jaguars-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Add WIRED as a Preferred Source on Google &lpar;2025&rpar;](https://www.wired.com/story/wired-google-preferred-source/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

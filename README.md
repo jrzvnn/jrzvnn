@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dress for success](http://9gag.com/gag/aW4dnAd)
- - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 💣 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 😝 [The beauty of our homeland. Extraverts might not agree.](http://9gag.com/gag/avyDEyX)
- - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
+ - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
+ - 💣 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
 
 ---
 

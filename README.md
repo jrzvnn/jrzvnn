@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
+ - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
  - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 💣 [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
  - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
+ - 👉 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)<!-- MEMES:END -->
 
 ---
 

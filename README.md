@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [Dress for success](http://9gag.com/gag/aW4dnAd)
+ - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
+ - 💣 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
  - 😝 [The beauty of our homeland. Extraverts might not agree.](http://9gag.com/gag/avyDEyX)
- - 👉 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)<!-- MEMES:END -->
+ - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
 
 ---
 

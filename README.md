@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Who knew he was so young??](http://9gag.com/gag/apRd669)
  - 😝 [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
- - 💣 [This man is a true legend for saving 1,200 apple varieties](http://9gag.com/gag/azxBK3p)
- - 😝 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)
- - 👉 [Who they gonna blame this time?](http://9gag.com/gag/avyD6BW)<!-- MEMES:END -->
+ - 💣 [Who they gonna blame this time?](http://9gag.com/gag/avyD6BW)
+ - 😝 [Smooth move](http://9gag.com/gag/aoydV7n)
+ - 👉 [This man is a true legend for saving 1,200 apple varieties](http://9gag.com/gag/azxBK3p)<!-- MEMES:END -->
 
 ---
 

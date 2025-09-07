@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
  - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
- - 💣 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 💣 [Dress for success](http://9gag.com/gag/aW4dnAd)
  - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Dress for success](http://9gag.com/gag/aW4dnAd)<!-- MEMES:END -->
+ - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
 
 ---
 

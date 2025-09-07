@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
- - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
- - 💣 [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
+ - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
+ - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
  - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
+ - 👉 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)<!-- MEMES:END -->
 
 ---
 

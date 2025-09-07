@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Volkswagen rounds out new lineup of affordable EVs with ID. Cross concept](https://www.theverge.com/news/773435/volkswagen-rounds-out-new-lineup-of-affordable-evs-with-id-cross-concept)
  - [How to Add WIRED as a Preferred Source on Google &lpar;2025&rpar;](https://www.wired.com/story/wired-google-preferred-source/)
- - [Panthers vs. Jaguars Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-jaguars-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
- - [Bengals vs. Browns Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/bengals-vs-browns-live-stream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
- - [Giants vs. Commanders Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/giants-vs-commanders-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
- - [Buccaneers vs. Falcons Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/buccaneers-vs-falcons-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: VCs have invested $5B+ in humanoid robotics startups since the beginning of 2024, as years of steady progress and GenAI triggers an investment frenzy &lpar;Washington Post&rpar;](http://www.techmeme.com/250907/p11#a250907p11)
+ - [AirPods Pro 3 expected this fall, IR cameras in 2026](https://appleinsider.com/articles/25/09/07/airpods-pro-3-expected-this-fall-ir-cameras-in-2026?utm_source=rss)
+ - [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

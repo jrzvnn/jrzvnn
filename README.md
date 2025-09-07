@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods Pro 3 expected this fall, IR cameras in 2026](https://appleinsider.com/articles/25/09/07/airpods-pro-3-expected-this-fall-ir-cameras-in-2026?utm_source=rss)
  - [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review)
  - [China may get censored Apple Intelligence by end of 2025](https://appleinsider.com/articles/25/09/07/china-may-get-censored-apple-intelligence-by-end-of-2025?utm_source=rss)
- - [Dealroom: European VC deals are set to rise 3-4% YoY in 2025 to $57B, about the same as in 2023, driven by rising startup valuations in AI, fintech, and defense &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250907/p10#a250907p10)
- - [Korean carrier may have leaked iPhone 17 specifications ahead of event](https://appleinsider.com/articles/25/09/07/iphone-17-specifications-leaked-ahead-of-event?utm_source=rss)
- - [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals)<!-- TECH:END -->
+ - [I Tried Gemini&#39;s &#39;Nano Bananas&#39; for Image Editing. The AI Slipups Were Obvious](https://www.cnet.com/tech/services-and-software/i-tried-geminis-nano-bananas-for-image-editing-the-ai-slipups-were-obvious/#ftag=CAD590a51e)
+ - [Dealroom: European VC deals are set to rise 3-4% YoY in 2025 to $57B, about the same as in 2023, driven by rising startup valuations in AI, fintech, and defense &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250907/p10#a250907p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

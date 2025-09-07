@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Karen](http://9gag.com/gag/aZZd8n6)
+ - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
  - 😝 [KareN](http://9gag.com/gag/a9yV5pD)
- - 💣 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 💣 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
+ - 😝 [On the back](http://9gag.com/gag/aNDqvzb)
+ - 👉 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)<!-- MEMES:END -->
 
 ---
 

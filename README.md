@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [LOL](http://9gag.com/gag/a87n0zQ)
+ - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
  - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
- - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
+ - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
 
 ---
 

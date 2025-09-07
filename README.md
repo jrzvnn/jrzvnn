@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China may get censored Apple Intelligence by end of 2025](https://appleinsider.com/articles/25/09/07/china-may-get-censored-apple-intelligence-by-end-of-2025?utm_source=rss)
+ - [Dealroom: European VC deals are set to rise 3-4% YoY in 2025 to $57B, about the same as in 2023, driven by rising startup valuations in AI, fintech, and defense &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250907/p10#a250907p10)
  - [Korean carrier may have leaked iPhone 17 specifications ahead of event](https://appleinsider.com/articles/25/09/07/iphone-17-specifications-leaked-ahead-of-event?utm_source=rss)
  - [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals)
- - [A really cheap way to get really smart lights](https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer)
- - [&#39;The Studio,&#39; &#39;Severance&#39; secure 15 Emmy awards for Apple TV+](https://appleinsider.com/articles/25/09/07/the-studio-severance-secure-15-emmy-awards-for-apple-tv?utm_source=rss)
- - [Crime blotter: Hong Kong Apple Store thief gets 13 months](https://appleinsider.com/articles/25/09/07/crime-blotter-hong-kong-apple-store-thief-gets-13-months?utm_source=rss)<!-- TECH:END -->
+ - [A really cheap way to get really smart lights](https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

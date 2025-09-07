@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
  - 😝 [Absoloutley disgusting](http://9gag.com/gag/aoydV8e)
- - 💣 [Never relax](http://9gag.com/gag/aXPdNmP)
- - 😝 [Never come to a skateboard fight with a knife](http://9gag.com/gag/aqyd6zP)
- - 👉 [KareN](http://9gag.com/gag/a9yV5pD)<!-- MEMES:END -->
+ - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
+ - 💣 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
+ - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
+ - 👉 [Never relax](http://9gag.com/gag/aXPdNmP)<!-- MEMES:END -->
 
 ---
 

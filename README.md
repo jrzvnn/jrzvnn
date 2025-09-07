@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Floppy sledge](http://9gag.com/gag/aZZd1W0)
- - 😝 [The evidence of a truly committed nap](http://9gag.com/gag/amod1Xj)
- - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 😝 [Men, please vent to women. They DO care. It&#39;s a trap](http://9gag.com/gag/awy8181)
+ - 😝 [Accurate depiction?](http://9gag.com/gag/aGyo8xn)
+ - 😝 [France is following the UK..](http://9gag.com/gag/apRd3dM)
+ - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
  - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
 
 ---

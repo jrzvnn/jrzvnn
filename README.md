@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Winklevoss twins have become major GOP donors; a source says they&#39;ve donated $32M+ since 2017, including $21M to a new pro-Trump and pro-crypto super PAC &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/250907/p9#a250907p9)
+ - [Psychological Tricks Can Get AI to Break the Rules](https://www.wired.com/story/psychological-tricks-can-get-ai-to-break-the-rules/)
  - [An in-depth look at AWS&#39; underperformance in the GenAI era, as Microsoft Azure and Google Cloud gain ground, and how Anthropic could spark an AWS AI resurgence &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250907/p8#a250907p8)
  - [Warner Bros., DC Comics and More Sue Midjourney, Says AI Firm &#39;Thinks It Is Above the Law&#39;](https://www.cnet.com/tech/services-and-software/warner-bros-dc-comics-and-more-sue-midjourney-says-ai-firm-thinks-it-is-above-the-law/#ftag=CAD590a51e)
- - [How to Use Blue, Pink, Brown and White Noise to Improve Your Sleep](https://www.cnet.com/health/sleep/how-use-blue-pink-brown-white-noise-improve-sleep/#ftag=CAD590a51e)
- - [A profile of Mercor, a Scale AI rival valued at $2B in February, which hires domain experts to train models; it had a $100M run rate in March and $6M H1 profit &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250907/p7#a250907p7)
- - [Austin-based Hello Patient, whose AI agents help healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)<!-- TECH:END -->
+ - [How to Use Blue, Pink, Brown and White Noise to Improve Your Sleep](https://www.cnet.com/health/sleep/how-use-blue-pink-brown-white-noise-improve-sleep/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

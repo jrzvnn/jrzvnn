@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accurate depiction?](http://9gag.com/gag/aGyo8xn)
- - 😝 [France is following the UK..](http://9gag.com/gag/apRd3dM)
- - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
- - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 👉 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)<!-- MEMES:END -->
+ - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 😝 [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 💣 [KareN](http://9gag.com/gag/a9yV5pD)
+ - 😝 [Men, please vent to women. They DO care. It&#39;s a trap](http://9gag.com/gag/awy8181)
+ - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
 
 ---
 

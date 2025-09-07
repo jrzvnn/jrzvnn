@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [LOL](http://9gag.com/gag/a87n0zQ)
- - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
- - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
+ - 😝 [Behind every person that chooses to stay single is a past relationship that looked like this\u2026.](http://9gag.com/gag/aD2Pn7G)
+ - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
+ - 💣 [France is following the UK..](http://9gag.com/gag/apRd3dM)
+ - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
+ - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They not like us](http://9gag.com/gag/apRd6yM)
- - 😝 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)
- - 💣 [Who they gonna blame this time?](http://9gag.com/gag/avyD6BW)
- - 😝 [Finest](http://9gag.com/gag/azxBG9b)
- - 👉 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)<!-- MEMES:END -->
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
+ - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 😝 [The beauty of our homeland. Extraverts might not agree.](http://9gag.com/gag/avyDEyX)
+ - 👉 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google finally details Gemini usage limits](https://www.theverge.com/news/773496/google-gemini-usage-limits)
  - [A look at Ross Ulbricht&#39;s return to public life after receiving a pardon in January, including speaking at Bitcoin 2025 and accepting millions in donations &lpar;New York Times&rpar;](http://www.techmeme.com/250907/p15#a250907p15)
  - [GM slows EV production as tax credit nears expiration](https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit)
  - [Texans vs. Rams Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/texans-vs-rams-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
- - [Lions vs. Packers Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/lions-vs-packers-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)
- - [Titans vs. Broncos Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/titans-vs-broncos-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lions vs. Packers Livestream: How to Watch NFL Week 1 Online Today](https://www.cnet.com/tech/services-and-software/lions-vs-packers-livestream-how-to-watch-nfl-week-1-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

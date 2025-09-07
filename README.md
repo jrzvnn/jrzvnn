@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An in-depth look at AWS&#39; underperformance in the GenAI era, as Microsoft Azure and Google Cloud gain ground, and how Anthropic could spark an AWS AI resurgence &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250907/p8#a250907p8)
+ - [Warner Bros., DC Comics and More Sue Midjourney, Says AI Firm &#39;Thinks It Is Above the Law&#39;](https://www.cnet.com/tech/services-and-software/warner-bros-dc-comics-and-more-sue-midjourney-says-ai-firm-thinks-it-is-above-the-law/#ftag=CAD590a51e)
+ - [How to Use Blue, Pink, Brown and White Noise to Improve Your Sleep](https://www.cnet.com/health/sleep/how-use-blue-pink-brown-white-noise-improve-sleep/#ftag=CAD590a51e)
  - [A profile of Mercor, a Scale AI rival valued at $2B in February, which hires domain experts to train models; it had a $100M run rate in March and $6M H1 profit &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250907/p7#a250907p7)
- - [Austin-based Hello Patient, whose AI agents help healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)
- - [6 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
- - [Mojo Vision raised a $75M Series B led by Vanedge Capital to commercialize its microLED tech for products such as AI glasses and optical interconnects &lpar;David Harold/Jon Peddie Research&rpar;](http://www.techmeme.com/250907/p5#a250907p5)<!-- TECH:END -->
+ - [Austin-based Hello Patient, whose AI agents help healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
- - 😝 [KareN](http://9gag.com/gag/a9yV5pD)
- - 💣 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
  - 😝 [On the back](http://9gag.com/gag/aNDqvzb)
+ - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
+ - 😝 [Another day](http://9gag.com/gag/aVvdKE2)
  - 👉 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
- - 💣 [Another day](http://9gag.com/gag/aVvdKE2)
- - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 👉 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)<!-- MEMES:END -->
+ - 😝 [They not like us](http://9gag.com/gag/apRd6yM)
+ - 😝 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)
+ - 💣 [Who they gonna blame this time?](http://9gag.com/gag/avyD6BW)
+ - 😝 [Finest](http://9gag.com/gag/azxBG9b)
+ - 👉 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)<!-- MEMES:END -->
 
 ---
 

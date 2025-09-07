@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
- - 💣 [Do I want to be abused?](http://9gag.com/gag/axyAv2p)
- - 😝 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)
- - 👉 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)<!-- MEMES:END -->
+ - 😝 [France is following the UK..](http://9gag.com/gag/apRd3dM)
+ - 😝 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
+ - 💣 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 😝 [Its funny because is true](http://9gag.com/gag/aRByz6Q)
+ - 👉 [On the back](http://9gag.com/gag/aNDqvzb)<!-- MEMES:END -->
 
 ---
 

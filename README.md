@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Mercor, a Scale AI rival valued at $2B in February, which hires domain experts to train models; it had a $100M run rate in March and $6M H1 profit &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/250907/p7#a250907p7)
- - [Austin-based Hello Patient, whose AI agents let healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)
+ - [Austin-based Hello Patient, whose AI agents help healthcare organizations handle patient communications, raised a $22.5M Series A led by Scale Venture Partners &lpar;Marissa Plescia/MedCity News&rpar;](http://www.techmeme.com/250907/p6#a250907p6)
  - [6 Best Phones You Can’t Buy in the US &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/)
  - [Mojo Vision raised a $75M Series B led by Vanedge Capital to commercialize its microLED tech for products such as AI glasses and optical interconnects &lpar;David Harold/Jon Peddie Research&rpar;](http://www.techmeme.com/250907/p5#a250907p5)
  - [Recall.ai, which offers an API and a desktop SDK for managing meeting recordings and transcripts, raised $38M in a Series B led by Bessemer at a $250M valuation &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/250907/p4#a250907p4)<!-- TECH:END -->

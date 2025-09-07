@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review)
  - [China may get censored Apple Intelligence by end of 2025](https://appleinsider.com/articles/25/09/07/china-may-get-censored-apple-intelligence-by-end-of-2025?utm_source=rss)
  - [Dealroom: European VC deals are set to rise 3-4% YoY in 2025 to $57B, about the same as in 2023, driven by rising startup valuations in AI, fintech, and defense &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/250907/p10#a250907p10)
  - [Korean carrier may have leaked iPhone 17 specifications ahead of event](https://appleinsider.com/articles/25/09/07/iphone-17-specifications-leaked-ahead-of-event?utm_source=rss)
- - [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals)
- - [A really cheap way to get really smart lights](https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer)<!-- TECH:END -->
+ - [Computer chips, with a side of forever chemicals](https://www.theverge.com/the-stepback-newsletter/772845/computer-chips-forever-chemicals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Studio,&#39; &#39;Severance&#39; secure 15 Emmy awards for Apple TV+](https://appleinsider.com/articles/25/09/07/the-studio-severance-secure-15-emmy-awards-for-apple-tv?utm_source=rss)
  - [Crime blotter: Hong Kong Apple Store thief gets 13 months](https://appleinsider.com/articles/25/09/07/crime-blotter-hong-kong-apple-store-thief-gets-13-months?utm_source=rss)
  - [The New Math of Quantum Cryptography](https://www.wired.com/story/the-new-math-of-quantum-cryptography/)
  - [The Winklevoss twins have become major GOP donors; a source says they&#39;ve donated $32M+ since 2017, including $21M to a new pro-Trump and pro-crypto super PAC &lpar;Alex Isenstadt/Axios&rpar;](http://www.techmeme.com/250907/p9#a250907p9)
- - [6 Things Causing Poor Air Quality in Your Home, According to an Expert](https://www.cnet.com/news/6-things-causing-poor-air-quality-in-your-home-according-to-an-expert/#ftag=CAD590a51e)
- - [Psychological Tricks Can Get AI to Break the Rules](https://www.wired.com/story/psychological-tricks-can-get-ai-to-break-the-rules/)<!-- TECH:END -->
+ - [6 Things Causing Poor Air Quality in Your Home, According to an Expert](https://www.cnet.com/news/6-things-causing-poor-air-quality-in-your-home-according-to-an-expert/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

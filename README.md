@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
- - 😝 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [This man is a true legend for saving 1,200 apple varieties](http://9gag.com/gag/azxBK3p)
- - 👉 [Who knew he was so young??](http://9gag.com/gag/apRd669)<!-- MEMES:END -->
+ - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 💣 [France is following the UK..](http://9gag.com/gag/apRd3dM)
+ - 😝 [I suck](http://9gag.com/gag/aW4dL24)
+ - 👉 [KareN](http://9gag.com/gag/a9yV5pD)<!-- MEMES:END -->
 
 ---
 

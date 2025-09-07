@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
- - 😝 [On the back](http://9gag.com/gag/aNDqvzb)
- - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 😝 [Another day](http://9gag.com/gag/aVvdKE2)
+ - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 😝 [KareN](http://9gag.com/gag/a9yV5pD)
+ - 💣 [Never relax](http://9gag.com/gag/aE0QALM)
+ - 😝 [I suck](http://9gag.com/gag/aW4dL24)
  - 👉 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)
- - 😝 [Who they gonna blame this time?](http://9gag.com/gag/avyD6BW)
- - 💣 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
- - 😝 [Back in the past](http://9gag.com/gag/aE0QoMn)
- - 👉 [The beauty of our homeland. Extraverts might not agree.](http://9gag.com/gag/avyDEyX)<!-- MEMES:END -->
+ - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
+ - 😝 [Dress for success](http://9gag.com/gag/aW4dnAd)
+ - 💣 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
+ - 😝 [I suck](http://9gag.com/gag/aW4dL24)
+ - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
 
 ---
 

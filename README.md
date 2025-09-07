@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [Never relax](http://9gag.com/gag/aXPdNmP)
- - 💣 [KareN](http://9gag.com/gag/a9yV5pD)
- - 😝 [Men, please vent to women. They DO care. It&#39;s a trap](http://9gag.com/gag/awy8181)
- - 👉 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)<!-- MEMES:END -->
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 😝 [KareN](http://9gag.com/gag/a9yV5pD)
+ - 💣 [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 😝 [This driver is a true hero for saving the cyclist from a wolf attack](http://9gag.com/gag/axyA6nn)
+ - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
 
 ---
 

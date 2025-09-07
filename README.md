@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 💣 [Potaton\u2019t](http://9gag.com/gag/aD2PnDK)
- - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
- - 👉 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)<!-- MEMES:END -->
+ - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
+ - 😝 [Behind every person that chooses to stay single is a past relationship that looked like this\u2026.](http://9gag.com/gag/aD2Pn7G)
+ - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
+ - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
+ - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
 
 ---
 

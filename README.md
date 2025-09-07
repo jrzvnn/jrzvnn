@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
- - 😝 [It&#39;s nice how friends share their happiness](http://9gag.com/gag/a1mxDnG)
- - 💣 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 👉 [Never relax](http://9gag.com/gag/aXPdNmP)<!-- MEMES:END -->
+ - 😝 [Never relax](http://9gag.com/gag/aXPdNmP)
+ - 😝 [On the back](http://9gag.com/gag/aNDqvzb)
+ - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
+ - 😝 [I suck](http://9gag.com/gag/aW4dL24)
+ - 👉 [Floppy sledge](http://9gag.com/gag/aZZd1W0)<!-- MEMES:END -->
 
 ---
 

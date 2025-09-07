@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: ASML is committing €1.3B for Mistral&#39;s €1.7B Series C funding round, becoming the top shareholder, and is expected to get a board seat &lpar;Reuters&rpar;](http://www.techmeme.com/250907/p14#a250907p14)
  - [Shift5, which develops cybersecurity tools for the military and critical infrastructure, raised a $75M Series C led by Hedosophia &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250907/p13#a250907p13)
- - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)
- - [TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto](https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews)
- - [A profile of Razer CEO Min-Liang Tan, as the gaming hardware giant readies AI tools for game development and to help players sharpen their skills &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/250907/p12#a250907p12)<!-- TECH:END -->
+ - [Turkey vs. Spain: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/turkey-vs-spain-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Germany vs. Northern Ireland: Livestream World Cup 2026 Qualifier Soccer From Anywhere for Free](https://www.cnet.com/tech/services-and-software/germany-vs-northern-ireland-livestream-world-cup-2026-qualifier-soccer-from-anywhere-for-free/#ftag=CAD590a51e)
+ - [iPhone 17 Pro rumors: Apple&#39;s best iPhones are about to get even better](https://appleinsider.com/articles/25/08/29/iphone-17-pro-rumors-apples-best-iphones-are-about-to-get-even-better?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

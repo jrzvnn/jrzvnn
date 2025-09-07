@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mojo Vision raised a $75M Series B led by Vanedge Capital to commercialize its microLED tech for products such as AI glasses and optical interconnects &lpar;David Harold/Jon Peddie Research&rpar;](http://www.techmeme.com/250907/p5#a250907p5)
  - [Recall.ai, which offers an API and a desktop SDK for managing meeting recordings and transcripts, raised $38M in a Series B led by Bessemer at a $250M valuation &lpar;Paul Gillin/SiliconANGLE&rpar;](http://www.techmeme.com/250907/p4#a250907p4)
  - [Predoc, which uses AI to automate medical records management, raised $30M seed and Series A led by Base10 Partners, with participation from Northzone and others &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250907/p3#a250907p3)
  - [Bengaluru-based Tessolve, which offers semiconductor engineering services and has built 11 chip testing and embedded labs globally, raised $150M from TPG Growth &lpar;Priyamvada C/Livemint&rpar;](http://www.techmeme.com/250907/p2#a250907p2)
- - [Google DeepMind and LIGO researchers detail Deep Loop Shaping, an AI tool that they say improves the observatory&#39;s ability to track gravitational waves &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/250907/p1#a250907p1)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 7, #349](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-7-349/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google DeepMind and LIGO researchers detail Deep Loop Shaping, an AI tool that they say improves the observatory&#39;s ability to track gravitational waves &lpar;Alan Boyle/GeekWire&rpar;](http://www.techmeme.com/250907/p1#a250907p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

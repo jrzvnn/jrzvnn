@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [KareN](http://9gag.com/gag/a9yV5pD)
- - 💣 [Never relax](http://9gag.com/gag/aXPdNmP)
- - 😝 [This driver is a true hero for saving the cyclist from a wolf attack](http://9gag.com/gag/axyA6nn)
- - 👉 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)<!-- MEMES:END -->
+ - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 💣 [I don&#39;t know who&#39;s happier... the kid or the sheep. how lovely](http://9gag.com/gag/aZZd12W)
+ - 😝 [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
+ - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
 
 ---
 

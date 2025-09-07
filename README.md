@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 😝 [Behind every person that chooses to stay single is a past relationship that looked like this\u2026.](http://9gag.com/gag/aD2Pn7G)
- - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
+ - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
+ - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 💣 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
+ - 😝 [I suck](http://9gag.com/gag/aW4dL24)
+ - 👉 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)<!-- MEMES:END -->
+ - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
+ - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
+ - 💣 [Back in the past](http://9gag.com/gag/aE0QoMn)
+ - 😝 [The beauty of our homeland. Extraverts might not agree.](http://9gag.com/gag/avyDEyX)
+ - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
 
 ---
 

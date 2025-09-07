@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
- - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
- - 💣 [Based](http://9gag.com/gag/a6Zx5ZA)
+ - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
+ - 😝 [Another day](http://9gag.com/gag/aVvdKE2)
+ - 💣 [Never relax](http://9gag.com/gag/aE0QALM)
  - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)<!-- MEMES:END -->
+ - 👉 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)<!-- MEMES:END -->
 
 ---
 

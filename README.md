@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Add WIRED as a Preferred Source on Google &lpar;2025&rpar;](https://www.wired.com/story/wired-google-preferred-source/)
+ - [PitchBook: VCs have invested $5B+ in humanoid robotics startups since the beginning of 2024, as years of steady progress and GenAI triggers an investment frenzy &lpar;Washington Post&rpar;](http://www.techmeme.com/250907/p11#a250907p11)
  - [AirPods Pro 3 expected this fall, IR cameras in 2026](https://appleinsider.com/articles/25/09/07/airpods-pro-3-expected-this-fall-ir-cameras-in-2026?utm_source=rss)
  - [Wake Up Dead Man adds a delightfully dark twist to Knives Out](https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review)
- - [The iPhone 17 Cameras Need Google&#39;s Approach for Identifying AI Images](https://www.cnet.com/tech/mobile/the-iphone-17-cameras-need-googles-approach-for-identifying-ai-images/#ftag=CAD590a51e)
- - [China may get censored Apple Intelligence by end of 2025](https://appleinsider.com/articles/25/09/07/china-may-get-censored-apple-intelligence-by-end-of-2025?utm_source=rss)
- - [I Tried Gemini&#39;s &#39;Nano Bananas&#39; for Image Editing. The AI Slipups Were Obvious](https://www.cnet.com/tech/services-and-software/i-tried-geminis-nano-bananas-for-image-editing-the-ai-slipups-were-obvious/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 17 Cameras Need Google&#39;s Approach for Identifying AI Images](https://www.cnet.com/tech/mobile/the-iphone-17-cameras-need-googles-approach-for-identifying-ai-images/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

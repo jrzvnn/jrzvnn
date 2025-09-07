@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
  - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [Who knew he was so young??](http://9gag.com/gag/apRd669)
- - 💣 [I\u2019m a dude playing a dude disguised as another dude](http://9gag.com/gag/ae9d1yO)
- - 😝 [I don&#39;t know who&#39;s happier... the kid or the sheep. how lovely](http://9gag.com/gag/aZZd12W)
- - 👉 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)<!-- MEMES:END -->
+ - 💣 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
+ - 😝 [Lucky to walk away.](http://9gag.com/gag/aVvdK8M)
+ - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
 
 ---
 

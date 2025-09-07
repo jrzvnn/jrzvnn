@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 😝 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
- - 💣 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
+ - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
+ - 💣 [Another day](http://9gag.com/gag/aVvdKE2)
+ - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
  - 👉 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)<!-- MEMES:END -->
 
 ---

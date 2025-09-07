@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Behind every person that chooses to stay single is a past relationship that looked like this\u2026.](http://9gag.com/gag/aD2Pn7G)
- - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 💣 [France is following the UK..](http://9gag.com/gag/apRd3dM)
- - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
+ - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
+ - 😝 [France is following the UK..](http://9gag.com/gag/apRd3dM)
+ - 💣 [This guy just cant catch a break](http://9gag.com/gag/a34xAE7)
+ - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
+ - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
 
 ---
 

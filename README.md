@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 💣 [Smile and wave boys](http://9gag.com/gag/aGyonNZ)
- - 😝 [Lucky to walk away.](http://9gag.com/gag/aVvdK8M)
- - 👉 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)<!-- MEMES:END -->
+ - 😝 [THey&#39;re the same picture.](http://9gag.com/gag/aAymK2d)
+ - 😝 [Good &#39;ol hip hop](http://9gag.com/gag/amodG0o)
+ - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [This man is a true legend for saving 1,200 apple varieties](http://9gag.com/gag/azxBK3p)
+ - 👉 [Who knew he was so young??](http://9gag.com/gag/apRd669)<!-- MEMES:END -->
 
 ---
 

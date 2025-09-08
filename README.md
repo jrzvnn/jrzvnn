@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
  - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)
  - [Save up to $500 on these MacBook Pros ahead of the Apple Event](https://appleinsider.com/articles/25/09/08/save-up-to-500-on-these-macbook-pros-ahead-of-the-apple-event?utm_source=rss)
  - [Attaullah Baig, ex-head of security at WhatsApp, sues Meta for allegedly ignoring critical security flaws, claims Meta staffers could access sensitive user data &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250908/p26#a250908p26)
- - [Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250908/p25#a250908p25)
- - [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)<!-- TECH:END -->
+ - [Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250908/p25#a250908p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

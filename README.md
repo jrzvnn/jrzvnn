@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Pro Max&#39;s larger battery could last four more hours per charge](https://appleinsider.com/articles/25/09/08/iphone-17-pro-maxs-larger-battery-could-last-four-more-hours-per-charge?utm_source=rss)
+ - [A deep dive on Huawei&#39;s Ascend AI chip production, SMIC, TSMC, US export controls, HBM bottlenecks, China&#39;s HBM issues, Huawei&#39;s data center chips, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250908/p11#a250908p11)
  - [Forward Industries raised $1.65B via a private investment in a PIPE offering led by Galaxy, Jump, and Multicoin to start a Solana asset treasury strategy &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/250908/p10#a250908p10)
  - [SpaceX agrees to acquire EchoStar&#39;s AWS-4 and H-block spectrum licenses for up to $8.5B in cash and up to $8.5B in stock, resolving an FCC inquiry into EchoStar &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p9#a250908p9)
- - [The iPhone 17 Air Could Use a Silicon-Carbon Battery. What Is It?](https://www.wired.com/story/iphone-17-air-silicon-carbon-battery-what-is-it/)
- - [Why Former NFL All-Pros Are Turning to Psychedelics](https://www.wired.com/story/can-psychedelics-reduce-traumatic-brain-injury-one-nfl-all-pro-thinks-so/)
- - [OpenAI comes for Hollywood with Critterz, an AI-powered animated film](https://www.theverge.com/news/773584/openai-animated-feature-film-critterz)<!-- TECH:END -->
+ - [The iPhone 17 Air Could Use a Silicon-Carbon Battery. What Is It?](https://www.wired.com/story/iphone-17-air-silicon-carbon-battery-what-is-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

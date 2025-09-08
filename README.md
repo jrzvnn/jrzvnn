@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motion, which sells an integrated suite of AI agents for SMB, raised a $38M Series C led by Scale Venture Partners, bringing its total funding to $75M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250908/p24#a250908p24)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Cognition raised $400M led by Founders Fund at a $10.2B valuation, up from $4B in March; its coding tool Devin&#39;s ARR grew from $1M in Sept. 2024 to $73M by June &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p23#a250908p23)
  - [College Football 26 is $20 off in time for the 2025 season](https://www.theverge.com/tech/773698/college-football-26-ea-sports-ps5-xbox-deal-sale)
- - [YouTube says its first exclusive NFL broadcast on September 5 averaged more than 17.3M global viewers, including 1.1M average minute audiences outside of the US &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250908/p22#a250908p22)
- - [EchoStar offloads satellite spectrum to SpaceX for $17 billion](https://www.theverge.com/news/773645/echostar-dish-spacex-starlink-direct-to-cell-fcc-investigation)
- - [AI audio startup ElevenLabs launches a tender offer to let staff sell up to $100M in stock at a $6.6B valuation, up from a $3.3B valuation in January 2025 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250908/p21#a250908p21)
- - [&#39;Only Murders in the Building&#39;: When to Watch Season 5](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-when-to-watch-season-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube says its first exclusive NFL broadcast on September 5 averaged more than 17.3M global viewers, including 1.1M average minute audiences outside of the US &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250908/p22#a250908p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

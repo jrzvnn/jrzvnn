@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Uber and Shanghai-based robotaxi company Momenta plan to test Level 4 fully driverless cars in Munich from 2026, as a precursor to launching a robotaxi service &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250908/p8#a250908p8)
+ - [Buy an iPhone 16 or Wait for the iPhone 17? Here&#39;s How They Might Compare](https://www.cnet.com/tech/mobile/buy-an-iphone-16-or-wait-for-the-iphone-17-heres-how-they-might-compare/#ftag=CAD590a51e)
  - [I Hate My AI Friend](https://www.wired.com/story/i-hate-my-ai-friend/)
  - [The influencer in this Vodafone ad isn’t real](https://www.theverge.com/news/773567/vodafone-generative-ai-ad-presenter-tiktok)
- - [Sources: the US is proposing annual approvals for exports of chipmaking supplies to Samsung and SK Hynix factories in China as part of a &quot;site license&quot; idea &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250908/p7#a250908p7)
- - [Bose QuietComfort Ultra Earbuds &lpar;2nd Gen&rpar;: Excellent Buds](https://www.wired.com/review/bose-qc-ultra-2/)<!-- TECH:END -->
+ - [Sources: the US is proposing annual approvals for exports of chipmaking supplies to Samsung and SK Hynix factories in China as part of a &quot;site license&quot; idea &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250908/p7#a250908p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
- - 😝 [Cops have difficult jobs\u2026](http://9gag.com/gag/ae9dZeQ)
- - 💣 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
+ - 😝 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
+ - 😝 [They werent doing that before](http://9gag.com/gag/ayNz188)
+ - 💣 [My preciousssss](http://9gag.com/gag/azxBGGx)
+ - 😝 [Uwotm8](http://9gag.com/gag/azxBG3b)
+ - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
 
 ---
 

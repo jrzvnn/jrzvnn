@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
- - 😝 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 💣 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
- - 😝 [Eat me](http://9gag.com/gag/adBdnx9)
- - 👉 [Finish the sentece: ` It&#39;s funny because she is...`](http://9gag.com/gag/a2vx2Ep)<!-- MEMES:END -->
+ - 😝 [Bro said ` I dont want to get fired `](http://9gag.com/gag/abAdBXE)
+ - 😝 [An hour after the new banksy artwork was revealed that was mocking the courts for censoring people, the courts censored it by covering it up...](http://9gag.com/gag/aLnbmQx)
+ - 💣 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)
+ - 😝 [Would be nice to live there](http://9gag.com/gag/avyDRnb)
+ - 👉 [Irishman supporting Palestinian protest by Pakistanis](http://9gag.com/gag/azxBRgm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
- - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
- - 💣 [Never relax](http://9gag.com/gag/aE0QALM)
+ - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
+ - 😝 [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
+ - 💣 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
  - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
- - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
+ - 👉 [Never relax](http://9gag.com/gag/aE0QALM)<!-- MEMES:END -->
 
 ---
 

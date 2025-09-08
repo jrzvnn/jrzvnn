@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is on the menu today? Korean](http://9gag.com/gag/aPApPoK)
- - 😝 [Another day](http://9gag.com/gag/aVvdKE2)
- - 💣 [Never relax](http://9gag.com/gag/aE0QALM)
- - 😝 [I suck](http://9gag.com/gag/aW4dL24)
- - 👉 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)<!-- MEMES:END -->
+ - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
+ - 😝 [Women](http://9gag.com/gag/aYQdDrv)
+ - 💣 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
+ - 😝 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
+ - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
 
 ---
 

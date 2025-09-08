@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/09/08/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)
- - [Signal announces a backup feature that includes 100MB of storage for texts and the last 45 days&#39; worth of media for free, or 100GB of storage for $1.99/month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250908/p32#a250908p32)
- - [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs)
- - [In a September 5 filing in the US v. Google ad tech trial, Google said &quot;the open web is already in rapid decline&quot;, contradicting Google&#39;s recent statements &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/250908/p31#a250908p31)
- - [Local Nepalese media reports that 19+ people were killed after police opened fire on &quot;Gen Z protests&quot; against a government ban on major social media platforms &lpar;Andres Schipani/Financial Times&rpar;](http://www.techmeme.com/250908/p30#a250908p30)<!-- TECH:END -->
+ - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)
+ - [How fans saved every iPod clickwheel game from disappearing](https://appleinsider.com/articles/25/09/08/how-fans-saved-every-ipod-clickwheel-game-from-disappearing?utm_source=rss)
+ - [AI infrastructure company Pinecone&#39;s CEO Edo Liberty will step aside and into a new role as chief scientist; ex-Google executive Ash Ashutosh will become CEO &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250908/p33#a250908p33)
+ - [Signal&amp;#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)
+ - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/09/08/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

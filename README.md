@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 😝 [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
- - 💣 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
- - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
- - 👉 [Never relax](http://9gag.com/gag/aE0QALM)<!-- MEMES:END -->
+ - 😝 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)
+ - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
+ - 💣 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)
+ - 😝 [WWJD](http://9gag.com/gag/aE0QWgK)
+ - 👉 [Emotional damage!](http://9gag.com/gag/aVvdmev)<!-- MEMES:END -->
 
 ---
 

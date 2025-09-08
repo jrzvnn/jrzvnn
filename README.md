@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
- - 😝 [Hiruzen&#39;s financial planning for Naruto was certainly... unique](http://9gag.com/gag/a9yVv6K)
+ - 😝 [Maybe you are interested in a different side of england](http://9gag.com/gag/ajPdLqG)
+ - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
  - 💣 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)
- - 😝 [Another day](http://9gag.com/gag/aVvdKE2)
- - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
+ - 😝 [Why not take them all.](http://9gag.com/gag/amodxX2)
+ - 👉 [Karen](http://9gag.com/gag/aZZd8n6)<!-- MEMES:END -->
 
 ---
 

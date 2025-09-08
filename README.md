@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)
  - [All the biggest IFA 2025 announcements for Apple users: Hue lights, Matter devices, &amp; more](https://appleinsider.com/articles/25/09/08/all-the-biggest-ifa-2025-announcements-for-apple-users-hue-lights-matter-devices-more?utm_source=rss)
  - [Motion, which sells an integrated suite of AI agents for SMB, raised a $38M Series C led by Scale Venture Partners, bringing its total funding to $75M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250908/p24#a250908p24)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Cognition raised $400M led by Founders Fund at a $10.2B valuation, up from $4B in March; its coding tool Devin&#39;s ARR grew from $1M in Sept. 2024 to $73M by June &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p23#a250908p23)
- - [College Football 26 is $20 off in time for the 2025 season](https://www.theverge.com/tech/773698/college-football-26-ea-sports-ps5-xbox-deal-sale)<!-- TECH:END -->
+ - [Creepy or Fun? Vodafone&#39;s New Spokesperson Is AI, Not a Real Person](https://www.cnet.com/news/social-media/creepy-or-fun-vodafones-new-spokesperson-is-ai-not-a-real-person/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

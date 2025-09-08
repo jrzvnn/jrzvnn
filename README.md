@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel announces top-level executive changes, including the departure of its products chief, Michelle Holthaus, and establishes a new central engineering group &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250908/p35#a250908p35)
- - [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)
- - [Source: Amazon took a stake in Colombian delivery startup Rappi via a $25M convertible note, entitling it to buy up to 12% via warrants if milestones are met &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p34#a250908p34)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)<!-- TECH:END -->
+ - [Dell says its CFO, Yvonne McGill, will resign effective September 9 after nearly 30 years with the company and names SVP David Kennedy as interim CFO &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250908/p36#a250908p36)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 9, #351](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-9-351/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 9 #555](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-9-555/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 9, #821](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-9-821/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 9, #1543](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-9-1543/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

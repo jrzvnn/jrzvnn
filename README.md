@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
- - 😝 [Uwotm8](http://9gag.com/gag/azxBG3b)
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [They werent doing that before](http://9gag.com/gag/ayNz188)
- - 👉 [Justice for Harambe](http://9gag.com/gag/a9yVmpK)<!-- MEMES:END -->
+ - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - 😝 [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
+ - 💣 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
+ - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
+ - 👉 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)<!-- MEMES:END -->
 
 ---
 

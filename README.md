@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 😝 [Eat me](http://9gag.com/gag/adBdnx9)
- - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 😝 [Lunar eclipse photos online](http://9gag.com/gag/aW4dow6)
- - 👉 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
+ - 😝 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
+ - 💣 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
+ - 😝 [But wait, there&#39;s more!](http://9gag.com/gag/ajPdx21)
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---
 

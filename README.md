@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)
- - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 💣 [Precious](http://9gag.com/gag/aMVWzAA)
- - 😝 [The truth speaks for itself](http://9gag.com/gag/aW4doLd)
- - 👉 [Emotional damage!](http://9gag.com/gag/aVvdmev)<!-- MEMES:END -->
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
+ - 💣 [Never relax](http://9gag.com/gag/aE0QALM)
+ - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
  - 😝 [Eat me](http://9gag.com/gag/adBdnx9)
- - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
- - 💣 [Another day](http://9gag.com/gag/aVvdKE2)
+ - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
  - 😝 [Lunar eclipse photos online](http://9gag.com/gag/aW4dow6)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 👉 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
 
 ---
 

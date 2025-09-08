@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
- - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 😝 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)
- - 👉 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
+ - 😝 [The owner even featured on our local news channel.](http://9gag.com/gag/amodx1o)
+ - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
+ - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
+ - 😝 [What an odd thing to say..](http://9gag.com/gag/ae9dxwj)
+ - 👉 [Justice for Harambe](http://9gag.com/gag/a9yVmpK)<!-- MEMES:END -->
 
 ---
 

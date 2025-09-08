@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
- - 😝 [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
+ - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
  - 💣 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
- - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
+ - 😝 [WWJD](http://9gag.com/gag/aE0QWgK)
  - 👉 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)<!-- MEMES:END -->
 
 ---

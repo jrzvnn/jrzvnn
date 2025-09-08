@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The owner even featured on our local news channel.](http://9gag.com/gag/amodx1o)
+ - 😝 [WWJD](http://9gag.com/gag/aE0QWgK)
  - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
  - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 😝 [What an odd thing to say..](http://9gag.com/gag/ae9dxwj)
+ - 😝 [The owner even featured on our local news channel.](http://9gag.com/gag/amodx1o)
  - 👉 [Justice for Harambe](http://9gag.com/gag/a9yVmpK)<!-- MEMES:END -->
 
 ---

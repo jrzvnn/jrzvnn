@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates a Help Center document to clarify Gemini 2.5 Pro usage limits: five prompts per day for free users, 100 prompts for AI Pro, and 500 for AI Ultra &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250908/p5#a250908p5)
- - [The Wizard of Oz&#39;s revamp draws 4,000 to 5,000 fans two or three times per day to the Las Vegas Sphere; a source says the 1939 film may gross $1B in its new run &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250908/p4#a250908p4)
- - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 8, #350](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-8-350/#ftag=CAD590a51e)
- - [Uber and Momenta will test fully driverless cars in Germany](https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi)<!-- TECH:END -->
+ - [The influencer in this AI Vodafone ad isn’t real](https://www.theverge.com/news/773567/vodafone-generative-ai-ad-presenter-tiktok)
+ - [Sources: the US is proposing annual approvals for exports of chipmaking supplies to Samsung and SK Hynix factories in China as part of a &quot;site license&quot; idea &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250908/p7#a250908p7)
+ - [Bose QuietComfort Ultra Earbuds &lpar;2nd Gen&rpar;: Excellent Buds](https://www.wired.com/review/bose-qc-ultra-2/)
+ - [Anthropic&#39;s $1.5B copyright settlement raises a drawbridge on its startup rivals, which could not afford to pay such fines, setting an AI copyright floor price &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250908/p6#a250908p6)
+ - [Ford introduces F-150 Lightning STX to replace XLT trim](https://www.theverge.com/ford-motor-company/773017/ford-f150-lightning-stx-specs-xtl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

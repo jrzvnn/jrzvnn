@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google updates a Help Center document to clarify Gemini 2.5 Pro usage limits: five prompts per day for free users, 100 prompts for AI Pro, and 500 for AI Ultra &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250908/p5#a250908p5)
- - [7 Vitamins That Could Promote Hair Growth and Give You Long Locks](https://www.cnet.com/health/nutrition/vitamins-promote-hair-growth-give-long-locks/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 8 #554](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-8-554/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 8, #820](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-8-820/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 8, #1542](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-8-1542/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Wizard of Oz&#39;s revamp draws 4,000 to 5,000 fans two or three times per day to the Las Vegas Sphere; a source says the 1939 film may gross $1B in its new run &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250908/p4#a250908p4)
+ - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 8, #350](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-8-350/#ftag=CAD590a51e)
+ - [Uber and Momenta will test fully driverless cars in Germany](https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

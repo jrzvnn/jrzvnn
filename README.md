@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Wizard of Oz&#39;s revamp draws 4,000 to 5,000 fans two or three times per day to the Las Vegas Sphere; a source says the 1939 film may gross $1B in its new run &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250908/p4#a250908p4)
  - [An interview with Dr. Raj Jena, the UK&#39;s first clinical professor of AI in radiation oncology, on how AI is improving cancer care, quality control, and more &lpar;Sarah Neville/Financial Times&rpar;](http://www.techmeme.com/250908/p3#a250908p3)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 8, #350](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-8-350/#ftag=CAD590a51e)
  - [Uber and Momenta will test fully driverless cars in Germany](https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-8/#ftag=CAD590a51e)
- - [Filing: Shanghai-based, US-listed lidar maker Hesai aims to raise ~$497M in its Hong Kong IPO, offering 17M shares at up to $29.25 each, amid US delisting risks &lpar;Dave Sebastian/Bloomberg&rpar;](http://www.techmeme.com/250908/p2#a250908p2)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

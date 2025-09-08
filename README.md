@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google announces Veo updates: support for vertical video and 1080p, lower pricing, and general availability of Veo 3 and Veo 3 Fast in the Gemini API &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250908/p39#a250908p39)
  - [AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)
- - [SEC filing: Microsoft strikes a deal worth up to $19.4B through 2031 to get AI cloud computing power from Nebius Group; NBIS jumps 50%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p38#a250908p38)
- - [E-commerce company Eightco soared over 3,000% on Monday after announcing a plan to buy Worldcoin tokens and naming Wall Street analyst Dan Ives as chairman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p37#a250908p37)
- - [Dell says its CFO, Yvonne McGill, will resign effective September 9 after nearly 30 years with the company and names SVP David Kennedy as interim CFO &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250908/p36#a250908p36)<!-- TECH:END -->
+ - [Get This Item to Make Hollow Knight: Silksong Much Easier](https://www.cnet.com/tech/gaming/get-this-item-to-make-hollow-knight-silksong-much-easier/#ftag=CAD590a51e)
+ - [11 Excellent Horror Movies to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/11-excellent-horror-movies-to-stream-on-hbo-max/#ftag=CAD590a51e)
+ - [Apple Event 2025 Live Updates: The Final iPhone 17 Rumors Ahead of Its Debut](https://www.cnet.com/tech/mobile/apple-event-2025-live-updates-the-final-iphone-17-rumors-ahead-of-its-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

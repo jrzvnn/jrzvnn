@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shenzhen-based humanoid startup X Square Robot raised ~$100M led by Alibaba, bringing total funding to ~$280M, and released a foundation model for embodied AI &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/250907/p20#a250907p20)
  - [OpenAI is providing its tools and computing resources for an AI-made animated feature film called Critterz, which is set to hit theaters globally in 2026 &lpar;Jessica Toonkel/Wall Street Journal&rpar;](http://www.techmeme.com/250907/p19#a250907p19)
  - [A profile of Zachary Cefaratti, a below-the-radar dealmaker for data centers, crypto mining, and tech groups in the Gulf through his advisory firm Dalma Capital &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/250907/p18#a250907p18)
  - [We Are Days Away From the iPhone 17 Pro&#39;s Likely Reveal: Will Apple Raise the Price?](https://www.cnet.com/tech/mobile/we-are-days-away-from-the-iphone-17-pros-likely-reveal-will-apple-raise-the-price/#ftag=CAD590a51e)
- - [The 2025 MTV VMAs Are on Tonight. Here&#39;s How to Watch Live Without Cable](https://www.cnet.com/tech/services-and-software/the-2025-mtv-vmas-are-on-tonight-how-to-watch-live-without-cable/#ftag=CAD590a51e)
- - [A look at Marc Benioff&#39;s pursuit of productivity gains through AI at Salesforce, which has undergone a series of layoffs over the past two years &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250907/p17#a250907p17)<!-- TECH:END -->
+ - [The 2025 MTV VMAs Are on Tonight. Here&#39;s How to Watch Live Without Cable](https://www.cnet.com/tech/services-and-software/the-2025-mtv-vmas-are-on-tonight-how-to-watch-live-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

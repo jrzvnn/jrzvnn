@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We Are Days Away From the iPhone 17 Pro&#39;s Likely Reveal: Will Apple Raise the Price?](https://www.cnet.com/tech/mobile/we-are-days-away-from-the-iphone-17-pros-likely-reveal-will-apple-raise-the-price/#ftag=CAD590a51e)
+ - [The 2025 MTV VMAs Are on Tonight. Here&#39;s How to Watch Live Without Cable](https://www.cnet.com/tech/services-and-software/the-2025-mtv-vmas-are-on-tonight-how-to-watch-live-without-cable/#ftag=CAD590a51e)
  - [A look at Marc Benioff&#39;s pursuit of productivity gains through AI at Salesforce, which has undergone a series of layoffs over the past two years &lpar;Caroline O&#39;Donovan/Washington Post&rpar;](http://www.techmeme.com/250907/p17#a250907p17)
  - [How Larry Ellison is reshaping Oxford, including relocating his Ellison Institute from LA to Oxford, with plans to invest $1.3B+ into research on AI and more &lpar;Jenny Strasburg/Wall Street Journal&rpar;](http://www.techmeme.com/250907/p16#a250907p16)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 8, #1542](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-8-1542/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 8, #820](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-8-820/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 8 #554](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-8-554/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 8, #1542](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-8-1542/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

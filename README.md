@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Army awards a $159M contract to a partnership of Anduril and Meta and a $195M contract to Rivet, to produce competing prototypes of a new combat goggle &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250908/p29#a250908p29)
  - [The best stuff announced at IFA](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
  - [Aikido Security says attackers injected malware into 18 popular npm packages, including the debug package, with over 2.6B total weekly downloads &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250908/p28#a250908p28)
  - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
- - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)
- - [Save up to $500 on these MacBook Pros ahead of the Apple Event](https://appleinsider.com/articles/25/09/08/save-up-to-500-on-these-macbook-pros-ahead-of-the-apple-event?utm_source=rss)<!-- TECH:END -->
+ - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

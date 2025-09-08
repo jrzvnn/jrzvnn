@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)
+ - [Save up to $500 on these MacBook Pros ahead of the Apple Event](https://appleinsider.com/articles/25/09/08/save-up-to-500-on-these-macbook-pros-ahead-of-the-apple-event?utm_source=rss)
+ - [Attaullah Baig, ex-head of security at WhatsApp, sues Meta for allegedly ignoring critical security flaws, claims Meta staffers could access sensitive user data &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250908/p26#a250908p26)
  - [Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250908/p25#a250908p25)
- - [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)
- - [All the biggest IFA 2025 announcements for Apple users: Hue lights, Matter devices, &amp; more](https://appleinsider.com/articles/25/09/08/all-the-biggest-ifa-2025-announcements-for-apple-users-hue-lights-matter-devices-more?utm_source=rss)
- - [Motion, which sells an integrated suite of AI agents for SMB, raised a $38M Series C led by Scale Venture Partners, bringing its total funding to $75M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250908/p24#a250908p24)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
+ - [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

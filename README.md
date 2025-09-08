@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [14 times......](http://9gag.com/gag/a0ex0RX)
- - 😝 [Women](http://9gag.com/gag/aYQdDrv)
- - 💣 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
+ - 😝 [LOL](http://9gag.com/gag/a87n0zQ)
+ - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 💣 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)
  - 😝 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
  - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
 

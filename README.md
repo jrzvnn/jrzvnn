@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 💣 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
- - 😝 [But wait, there&#39;s more!](http://9gag.com/gag/ajPdx21)
+ - 😝 [Another day](http://9gag.com/gag/aVvdKE2)
+ - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
  - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---

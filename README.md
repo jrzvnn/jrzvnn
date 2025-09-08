@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best stuff announced at IFA](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
+ - [Aikido Security says attackers injected malware into 18 popular npm packages, including the debug package, with over 2.6B total weekly downloads &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250908/p28#a250908p28)
  - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
  - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)
- - [Save up to $500 on these MacBook Pros ahead of the Apple Event](https://appleinsider.com/articles/25/09/08/save-up-to-500-on-these-macbook-pros-ahead-of-the-apple-event?utm_source=rss)
- - [Attaullah Baig, ex-head of security at WhatsApp, sues Meta for allegedly ignoring critical security flaws, claims Meta staffers could access sensitive user data &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/250908/p26#a250908p26)
- - [Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250908/p25#a250908p25)<!-- TECH:END -->
+ - [Save up to $500 on these MacBook Pros ahead of the Apple Event](https://appleinsider.com/articles/25/09/08/save-up-to-500-on-these-macbook-pros-ahead-of-the-apple-event?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

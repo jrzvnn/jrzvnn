@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
- - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
- - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
- - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - 👉 [Boomer X Gen-Z](http://9gag.com/gag/aD2PbjK)<!-- MEMES:END -->
+ - 😝 [New passive income just dropped](http://9gag.com/gag/a1mx0yw)
+ - 😝 [Seriously, nice job 9gaggers, now I am scared of public transportations.](http://9gag.com/gag/aD2P8Wx)
+ - 💣 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
+ - 👉 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)<!-- MEMES:END -->
 
 ---
 

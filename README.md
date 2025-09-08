@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nova Launcher’s founder and sole developer has left](https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android)
  - [The US Army awards a $159M contract to a partnership of Anduril and Meta and a $195M contract to Rivet, to produce competing prototypes of a new combat goggle &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250908/p29#a250908p29)
  - [The best stuff announced at IFA](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
  - [Aikido Security says attackers injected malware into 18 popular npm packages, including the debug package, with over 2.6B total weekly downloads &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250908/p28#a250908p28)
- - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)
- - [A look at the looming DJI drones ban in the US, as some say the ban will be disruptive; no federal agency has undertaken a mandated security risk assessment &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/250908/p27#a250908p27)<!-- TECH:END -->
+ - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cops have difficult jobs\u2026](http://9gag.com/gag/ae9dZeQ)
- - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 💣 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
- - 😝 [\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7Woman reported to police\ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7 after a man assaulted her. Police threatened to arrest her for &#39; being offensive&#39; when describing her attacker](http://9gag.com/gag/a2vxDKD)
- - 👉 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)<!-- MEMES:END -->
+ - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
+ - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
+ - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
+ - 👉 [Boomer X Gen-Z](http://9gag.com/gag/aD2PbjK)<!-- MEMES:END -->
 
 ---
 

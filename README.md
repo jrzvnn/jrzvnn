@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SpaceX agrees to acquire EchoStar&#39;s AWS-4 and H-block spectrum licenses for up to $8.5B in cash and up to $8.5B in stock, resolving an FCC inquiry into EchoStar &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p9#a250908p9)
  - [The iPhone 17 Air Could Use a Silicon-Carbon Battery. What Is It?](https://www.wired.com/story/iphone-17-air-silicon-carbon-battery-what-is-it/)
  - [Why Former NFL All-Pros Are Turning to Psychedelics](https://www.wired.com/story/can-psychedelics-reduce-traumatic-brain-injury-one-nfl-all-pro-thinks-so/)
  - [OpenAI comes for Hollywood with Critterz, an AI-powered animated film](https://www.theverge.com/news/773584/openai-animated-feature-film-critterz)
- - [More leaked images give weight to Apple&#39;s iPhone 17 cross-body strap](https://appleinsider.com/articles/25/09/08/more-leaked-images-give-weight-to-apples-iphone-17-cross-body-strap?utm_source=rss)
- - [Uber and Shanghai-based robotaxi company Momenta plan to test Level 4 fully driverless cars in Munich from 2026, as a precursor to launching a robotaxi service &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250908/p8#a250908p8)<!-- TECH:END -->
+ - [More leaked images give weight to Apple&#39;s iPhone 17 cross-body strap](https://appleinsider.com/articles/25/09/08/more-leaked-images-give-weight-to-apples-iphone-17-cross-body-strap?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wikipedia is already trying to erase it](http://9gag.com/gag/aqydx47)
- - 😝 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
- - 💣 [My preciousssss](http://9gag.com/gag/azxBGGx)
- - 😝 [Uwotm8](http://9gag.com/gag/azxBG3b)
- - 👉 [They werent doing that before](http://9gag.com/gag/ayNz188)<!-- MEMES:END -->
+ - 😝 [Walks like a duck](http://9gag.com/gag/azxBKgK)
+ - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
+ - 😝 [WWJD](http://9gag.com/gag/aE0QWgK)
+ - 👉 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)<!-- MEMES:END -->
 
 ---
 

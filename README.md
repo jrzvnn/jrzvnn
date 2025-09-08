@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [WWJD](http://9gag.com/gag/aE0QWgK)
- - 😝 [The owner even featured on our local news channel.](http://9gag.com/gag/amodx1o)
+ - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
+ - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
  - 💣 [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
- - 👉 [Justice for Harambe](http://9gag.com/gag/a9yVmpK)<!-- MEMES:END -->
+ - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
+ - 👉 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)<!-- MEMES:END -->
 
 ---
 

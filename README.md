@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
  - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
- - 💣 [Eat me](http://9gag.com/gag/adBdnx9)
- - 😝 [Would be nice to live there](http://9gag.com/gag/avyDRnb)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlanta-based Rainforest, which embeds payment processing into platforms, raised a $29M Series B led by Matrix and Infinity, taking its total funding to $57.5M &lpar;Crunchbase News&rpar;](http://www.techmeme.com/250908/p19#a250908p19)
- - [Filing: Nasdaq asks the SEC to let investors trade tokenized securities on its exchange, and could roll out the first token-settled trades by the end of Q3 2026 &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/250908/p18#a250908p18)
- - [Crypto asset manager CoinShares agrees to go public via SPAC Vine Hill at a $1.2B pre-money valuation, set to close by Q4&#39;s end; CoinShares has ~$10B in AUM &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250908/p17#a250908p17)
- - [Ticketing platform StubHub plans to sell ~34M shares at $22 to $25 in its IPO, valuing it at up to $9.2B and raising up to $851M, after delaying an IPO in April &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p16#a250908p16)
- - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)<!-- TECH:END -->
+ - [AI audio startup ElevenLabs launches a tender offer to let staff sell up to $100M in stock at a $6.6B valuation, up from a $3.3B valuation in January 2025 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250908/p21#a250908p21)
+ - [Current and ex-Meta employees submitted documents and affidavits to Congress alleging that Meta suppressed research on child safety risks in its VR platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/250908/p20#a250908p20)
+ - [Sal Khan is hopeful that AI won’t destroy education](https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview)
+ - [Arco is stunning sci-fi with shades of Moebius and Miyazaki](https://www.theverge.com/toronto-international-film-festival/773517/tiff-2025-reviews-arco-good-fortune-sacrifice)
+ - [Atlanta-based Rainforest, which embeds payment processing into platforms, raised a $29M Series B led by Matrix and Infinity, taking its total funding to $57.5M &lpar;Crunchbase News&rpar;](http://www.techmeme.com/250908/p19#a250908p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

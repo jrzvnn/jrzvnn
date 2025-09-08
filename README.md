@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel announces top-level executive changes, including the departure of its products chief, Michelle Holthaus, and establishes a new central engineering group &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250908/p35#a250908p35)
  - [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)
  - [Source: Amazon took a stake in Colombian delivery startup Rappi via a $25M convertible note, entitling it to buy up to 12% via warrants if milestones are met &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p34#a250908p34)
  - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)
- - [How fans saved every iPod clickwheel game from disappearing](https://appleinsider.com/articles/25/09/08/how-fans-saved-every-ipod-clickwheel-game-from-disappearing?utm_source=rss)<!-- TECH:END -->
+ - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

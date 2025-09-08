@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)
  - [How fans saved every iPod clickwheel game from disappearing](https://appleinsider.com/articles/25/09/08/how-fans-saved-every-ipod-clickwheel-game-from-disappearing?utm_source=rss)
  - [AI infrastructure company Pinecone&#39;s CEO Edo Liberty will step aside and into a new role as chief scientist; ex-Google executive Ash Ashutosh will become CEO &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/250908/p33#a250908p33)
- - [Signal&amp;#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)
- - [What to expect from Apple&#39;s iPhone 17 &#39;Awe Dropping&#39; event on September 9](https://appleinsider.com/articles/25/09/08/what-to-expect-from-apples-iphone-17-awe-dropping-event-on-september-9?utm_source=rss)<!-- TECH:END -->
+ - [Signal&amp;#8217;s first paid feature adds encrypted media and message backups](https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

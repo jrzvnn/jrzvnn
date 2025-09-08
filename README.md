@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto asset manager CoinShares agrees to go public via SPAC Vine Hill at a $1.2B pre-money valuation, set to close by the end of Q4; CoinShares has ~$10B AUM &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250908/p17#a250908p17)
+ - [Atlanta-based Rainforest, which lets platforms embed payment processing, raised a $29M Series B led by Matrix and Infinity, taking its total funding to $57.5M &lpar;Crunchbase News&rpar;](http://www.techmeme.com/250908/p19#a250908p19)
+ - [Filing: Nasdaq asks the US SEC to let investors trade tokenized securities on its exchange, potentially rolling out the first token-settled trades in Q3 2026 &lpar;Anirban Sen/Reuters&rpar;](http://www.techmeme.com/250908/p18#a250908p18)
+ - [Crypto asset manager CoinShares agrees to go public via SPAC Vine Hill at a $1.2B pre-money valuation, set to close by Q4&#39;s end; CoinShares has ~$10B in AUM &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250908/p17#a250908p17)
  - [Ticketing platform StubHub plans to sell ~34M shares at $22 to $25 in its IPO, valuing it at up to $9.2B and raising up to $851M, after delaying an IPO in April &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p16#a250908p16)
- - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)
- - [The iPhone 17’s potential makeover might be just enough](https://www.theverge.com/tech/773538/iphone-17-event-awe-dropping-upgrade-apple-intelligence)
- - [ASPI researchers: Myanmar&#39;s online scam centers on the Thai border rose from 11 to 27 since 2021&#39;s military coup, holding an estimated 100K trafficked people &lpar;Rebecca Ratcliffe/The Guardian&rpar;](http://www.techmeme.com/250908/p15#a250908p15)<!-- TECH:END -->
+ - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

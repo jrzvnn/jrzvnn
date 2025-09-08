@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [WWJD](http://9gag.com/gag/aE0QWgK)
- - 😝 [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 💣 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
  - 😝 [The owner even featured on our local news channel.](http://9gag.com/gag/amodx1o)
+ - 💣 [Emotional damage!](http://9gag.com/gag/aVvdmev)
+ - 😝 [Let\u2019s see how long it take for it to be taken down again](http://9gag.com/gag/ae9dZPp)
  - 👉 [Justice for Harambe](http://9gag.com/gag/a9yVmpK)<!-- MEMES:END -->
 
 ---

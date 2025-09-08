@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic becomes the first major AI company to back SB 53, a California bill that requires large AI companies to disclose safety testing protocols &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250908/p25#a250908p25)
  - [Meta curbed research about VR safety risks to kids, whistleblowers say](https://www.theverge.com/policy/773821/meta-virtual-reality-horizon-worlds-youth-safety-research-whistleblower)
  - [All the biggest IFA 2025 announcements for Apple users: Hue lights, Matter devices, &amp; more](https://appleinsider.com/articles/25/09/08/all-the-biggest-ifa-2025-announcements-for-apple-users-hue-lights-matter-devices-more?utm_source=rss)
  - [Motion, which sells an integrated suite of AI agents for SMB, raised a $38M Series C led by Scale Venture Partners, bringing its total funding to $75M &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250908/p24#a250908p24)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Creepy or Fun? Vodafone&#39;s New Spokesperson Is AI, Not a Real Person](https://www.cnet.com/news/social-media/creepy-or-fun-vodafones-new-spokesperson-is-ai-not-a-real-person/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

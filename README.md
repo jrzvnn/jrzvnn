@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nova Launcher’s founder and sole developer has left](https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android)
- - [The US Army awards a $159M contract to a partnership of Anduril and Meta and a $195M contract to Rivet, to produce competing prototypes of a new combat goggle &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/250908/p29#a250908p29)
- - [The best stuff announced at IFA](https://www.theverge.com/news/769573/ifa-2025-smart-home-lights-power-bank-robot-vacuum-ai-headphones)
- - [Aikido Security says attackers injected malware into 18 popular npm packages, including the debug package, with over 2.6B total weekly downloads &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250908/p28#a250908p28)
- - [Google admits the open web is in ‘rapid decline’](https://www.theverge.com/news/773928/google-open-web-rapid-decline)<!-- TECH:END -->
+ - [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs)
+ - [In a September 5 filing in the US v. Google ad tech trial, Google said &quot;the open web is already in rapid decline&quot;, contradicting Google&#39;s recent statements &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/250908/p31#a250908p31)
+ - [Local Nepalese media reports that 19+ people were killed after police opened fire on &quot;Gen Z protests&quot; against a government ban on major social media platforms &lpar;Andres Schipani/Financial Times&rpar;](http://www.techmeme.com/250908/p30#a250908p30)
+ - [Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today](https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/)
+ - [Nova Launcher’s founder and sole developer has left](https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

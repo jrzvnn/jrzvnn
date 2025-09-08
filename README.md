@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
  - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 💣 [I suck](http://9gag.com/gag/aW4dL24)
+ - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
+ - 💣 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
  - 😝 [Why not take them all.](http://9gag.com/gag/amodxX2)
- - 👉 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)<!-- MEMES:END -->
+ - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
 
 ---
 

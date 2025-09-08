@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Signal announces a backup feature that includes 100MB of storage for texts and the last 45 days&#39; worth of media for free, or 100GB of storage for $1.99/month &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250908/p32#a250908p32)
  - [The Polestar 5 is an 884hp fastback sedan that should make Porsche nervous](https://www.theverge.com/electric-cars/773730/polestar-5-ev-horsepower-range-speed-specs)
  - [In a September 5 filing in the US v. Google ad tech trial, Google said &quot;the open web is already in rapid decline&quot;, contradicting Google&#39;s recent statements &lpar;Barry Schwartz/Search Engine Roundtable&rpar;](http://www.techmeme.com/250908/p31#a250908p31)
  - [Local Nepalese media reports that 19+ people were killed after police opened fire on &quot;Gen Z protests&quot; against a government ban on major social media platforms &lpar;Andres Schipani/Financial Times&rpar;](http://www.techmeme.com/250908/p30#a250908p30)
- - [Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today](https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/)
- - [Nova Launcher’s founder and sole developer has left](https://www.theverge.com/news/773937/nova-launcher-founder-left-kevin-barry-branch-open-source-android)<!-- TECH:END -->
+ - [Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today](https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

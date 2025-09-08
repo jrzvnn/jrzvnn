@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)
  - [Source: Amazon took a stake in Colombian delivery startup Rappi via a $25M convertible note, entitling it to buy up to 12% via warrants if milestones are met &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p34#a250908p34)
  - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Gemini app finally expands to audio files](https://www.theverge.com/ai-artificial-intelligence/774008/gemini-audio-new-languages-notebooklm-reports)
- - [How fans saved every iPod clickwheel game from disappearing](https://appleinsider.com/articles/25/09/08/how-fans-saved-every-ipod-clickwheel-game-from-disappearing?utm_source=rss)
- - [The Apple Watch Series 11 Could Share the Stage at Tomorrow&#39;s Event](https://www.cnet.com/tech/mobile/the-apple-watch-series-11-could-share-the-stage-at-tomorrows-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How fans saved every iPod clickwheel game from disappearing](https://appleinsider.com/articles/25/09/08/how-fans-saved-every-ipod-clickwheel-game-from-disappearing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

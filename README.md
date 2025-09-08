@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Based](http://9gag.com/gag/a6Zx5ZA)
- - 😝 [Staff Gave Young fan some gifts after the woman took the ball from him. He was at the game celebrating his birthday. He Also Went home with a signed bat from Bader](http://9gag.com/gag/a7oG01q)
- - 💣 [Emotional damage!](http://9gag.com/gag/aVvdmev)
- - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
- - 👉 [Not all heroes wear capes, some wear green shirts](http://9gag.com/gag/aqyd6vM)<!-- MEMES:END -->
+ - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
+ - 😝 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
+ - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [But wait, there&#39;s more!](http://9gag.com/gag/ajPdx21)
+ - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 ---
 

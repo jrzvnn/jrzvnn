@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 😝 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [But wait, there&#39;s more!](http://9gag.com/gag/ajPdx21)
+ - 😝 [Eat me](http://9gag.com/gag/adBdnx9)
+ - 😝 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - 💣 [Another day](http://9gag.com/gag/aVvdKE2)
+ - 😝 [Lunar eclipse photos online](http://9gag.com/gag/aW4dow6)
  - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 ---

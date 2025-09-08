@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [LOL](http://9gag.com/gag/a87n0zQ)
- - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 😝 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
+ - 😝 [Hiruzen&#39;s financial planning for Naruto was certainly... unique](http://9gag.com/gag/a9yVv6K)
  - 💣 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)
- - 😝 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
- - 👉 [Another day](http://9gag.com/gag/aVvdKE2)<!-- MEMES:END -->
+ - 😝 [Another day](http://9gag.com/gag/aVvdKE2)
+ - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
 
 ---
 

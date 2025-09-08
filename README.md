@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)
- - 😝 [Never relax](http://9gag.com/gag/aE0QALM)
- - 💣 [Seems like a reasonable Lad](http://9gag.com/gag/aQzrQy7)
- - 😝 [They werent doing that before](http://9gag.com/gag/ayNz188)
- - 👉 [Cops have difficult jobs\u2026](http://9gag.com/gag/ae9dZeQ)<!-- MEMES:END -->
+ - 😝 [Red Hook Studios 2014 vs Red Hook Studios 2022](http://9gag.com/gag/a9yV5no)
+ - 😝 [Cops have difficult jobs\u2026](http://9gag.com/gag/ae9dZeQ)
+ - 💣 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
+ - 😝 [I suck](http://9gag.com/gag/aW4dL24)
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---
 

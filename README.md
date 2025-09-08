@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [College Football 26 is $20 off in time for the 2025 season](https://www.theverge.com/tech/773698/college-football-26-ea-sports-ps5-xbox-deal-sale)
  - [YouTube says its first exclusive NFL broadcast on September 5 averaged more than 17.3M global viewers, including 1.1M average minute audiences outside of the US &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250908/p22#a250908p22)
  - [EchoStar offloads satellite spectrum to SpaceX for $17 billion](https://www.theverge.com/news/773645/echostar-dish-spacex-starlink-direct-to-cell-fcc-investigation)
  - [AI audio startup ElevenLabs launches a tender offer to let staff sell up to $100M in stock at a $6.6B valuation, up from a $3.3B valuation in January 2025 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250908/p21#a250908p21)
- - [Current and ex-Meta employees submitted documents and affidavits to Congress alleging that Meta suppressed research on child safety risks in its VR platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/250908/p20#a250908p20)
- - [Sal Khan is hopeful that AI won’t destroy education](https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview)<!-- TECH:END -->
+ - [&#39;Only Murders in the Building&#39;: When to Watch Season 5](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-when-to-watch-season-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eat me](http://9gag.com/gag/adBdnx9)
- - 😝 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
- - 💣 [Walks like a duck](http://9gag.com/gag/azxBKgK)
+ - 😝 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
+ - 💣 [The definition of easygoing](http://9gag.com/gag/aKGLvO6)
  - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
- - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
+ - 👉 [Eat me](http://9gag.com/gag/adBdnx9)<!-- MEMES:END -->
 
 ---
 

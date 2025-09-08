@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quantum computing startup Infleqtion agrees to merge with a Michael Klein-led blank-check company, giving it a $1.8B pre-money valuation and $540M in funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p14#a250908p14)
- - [Cloud security software company Netskope plans to sell 47.8M shares at $15 to $17 in its IPO, valuing it at up to $6.5B and raising up to $813M &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p13#a250908p13)
- - [Databricks is set to close $1B in funding at a $100B valuation and is on track to generate $4B in revenue in its fiscal year ending January 2026, up 50% YoY &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p12#a250908p12)
- - [Inside Podcasts: How to set up a podcast, edit it, and keep it running](https://appleinsider.com/articles/25/09/05/inside-podcasts-how-to-set-up-a-podcast-edit-it-and-keep-it-running?utm_source=rss)
- - [iPhone 17 Pro Max&#39;s larger battery could last four more hours per charge](https://appleinsider.com/articles/25/09/08/iphone-17-pro-maxs-larger-battery-could-last-four-more-hours-per-charge?utm_source=rss)<!-- TECH:END -->
+ - [Crypto asset manager CoinShares agrees to go public via SPAC Vine Hill at a $1.2B pre-money valuation, set to close by the end of Q4; CoinShares has ~$10B AUM &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/250908/p17#a250908p17)
+ - [Ticketing platform StubHub plans to sell ~34M shares at $22 to $25 in its IPO, valuing it at up to $9.2B and raising up to $851M, after delaying an IPO in April &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p16#a250908p16)
+ - [Why Your Office Chair Should Have Lumbar Support](https://www.wired.com/story/does-your-office-chair-need-lumbar-support/)
+ - [The iPhone 17’s potential makeover might be just enough](https://www.theverge.com/tech/773538/iphone-17-event-awe-dropping-upgrade-apple-intelligence)
+ - [ASPI researchers: Myanmar&#39;s online scam centers on the Thai border rose from 11 to 27 since 2021&#39;s military coup, holding an estimated 100K trafficked people &lpar;Rebecca Ratcliffe/The Guardian&rpar;](http://www.techmeme.com/250908/p15#a250908p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

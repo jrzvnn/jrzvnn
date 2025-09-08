@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: Microsoft strikes a deal worth up to $19.4B through 2031 to get AI cloud computing power from Nebius Group; NBIS jumps 50%+ after hours &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p38#a250908p38)
  - [E-commerce company Eightco soared over 3,000% on Monday after announcing a plan to buy Worldcoin tokens and naming Wall Street analyst Dan Ives as chairman &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p37#a250908p37)
  - [Dell says its CFO, Yvonne McGill, will resign effective September 9 after nearly 30 years with the company and names SVP David Kennedy as interim CFO &lpar;Savyata Mishra/Reuters&rpar;](http://www.techmeme.com/250908/p36#a250908p36)
  - [Intel announces top-level executive changes, including the departure of its products chief, Michelle Holthaus, and establishes a new central engineering group &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250908/p35#a250908p35)
- - [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)
- - [Rabbit Overhauls Its R1 AI Device With a Major Touch-Focused OS Update](https://www.cnet.com/tech/services-and-software/rabbit-overhauls-its-r1-ai-device-with-a-major-touch-focused-os-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Switch modder ordered to pay $2 million in piracy lawsuit](https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

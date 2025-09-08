@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A judge rejects Anthropic&#39;s $1.5B copyright settlement over concerns that class lawyers are striking a deal behind the scenes that will be forced on authors &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250908/p40#a250908p40)
  - [Google announces Veo updates: support for vertical video and 1080p, lower pricing, and general availability of Veo 3 and Veo 3 Fast in the Gemini API &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250908/p39#a250908p39)
  - [AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)
  - [Get This Item to Make Hollow Knight: Silksong Much Easier](https://www.cnet.com/tech/gaming/get-this-item-to-make-hollow-knight-silksong-much-easier/#ftag=CAD590a51e)
- - [11 Excellent Horror Movies to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/11-excellent-horror-movies-to-stream-on-hbo-max/#ftag=CAD590a51e)
- - [Apple Event 2025 Live Updates: The Final iPhone 17 Rumors Ahead of Its Debut](https://www.cnet.com/tech/mobile/apple-event-2025-live-updates-the-final-iphone-17-rumors-ahead-of-its-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [11 Excellent Horror Movies to Stream on HBO Max](https://www.cnet.com/tech/services-and-software/11-excellent-horror-movies-to-stream-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

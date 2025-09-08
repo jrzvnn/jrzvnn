@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 😝 [En effective way to cancel.](http://9gag.com/gag/ae9dZ1q)
- - 💣 [Alaskan helicopter pilot shows holes In melting glaciers](http://9gag.com/gag/a7oGVOb)
- - 😝 [Why not take them all.](http://9gag.com/gag/amodxX2)
- - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
+ - 😝 [Anybody care to defend this?](http://9gag.com/gag/arydXKX)
+ - 😝 [Traditions must be kept alive](http://9gag.com/gag/a4PxNWw)
+ - 💣 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
+ - 😝 [They werent doing that before](http://9gag.com/gag/ayNz188)
+ - 👉 [Is it connected to the router?](http://9gag.com/gag/agmd7Dx)<!-- MEMES:END -->
 
 ---
 

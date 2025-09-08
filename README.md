@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The influencer in this AI Vodafone ad isn’t real](https://www.theverge.com/news/773567/vodafone-generative-ai-ad-presenter-tiktok)
+ - [Uber and Shanghai-based robotaxi company Momenta plan to test Level 4 fully driverless cars in Munich from 2026, as a precursor to launching a robotaxi service &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250908/p8#a250908p8)
+ - [I Hate My AI Friend](https://www.wired.com/story/i-hate-my-ai-friend/)
+ - [The influencer in this Vodafone ad isn’t real](https://www.theverge.com/news/773567/vodafone-generative-ai-ad-presenter-tiktok)
  - [Sources: the US is proposing annual approvals for exports of chipmaking supplies to Samsung and SK Hynix factories in China as part of a &quot;site license&quot; idea &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/250908/p7#a250908p7)
- - [Bose QuietComfort Ultra Earbuds &lpar;2nd Gen&rpar;: Excellent Buds](https://www.wired.com/review/bose-qc-ultra-2/)
- - [Anthropic&#39;s $1.5B copyright settlement raises a drawbridge on its startup rivals, which could not afford to pay such fines, setting an AI copyright floor price &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250908/p6#a250908p6)
- - [Ford introduces F-150 Lightning STX to replace XLT trim](https://www.theverge.com/ford-motor-company/773017/ford-f150-lightning-stx-specs-xtl)<!-- TECH:END -->
+ - [Bose QuietComfort Ultra Earbuds &lpar;2nd Gen&rpar;: Excellent Buds](https://www.wired.com/review/bose-qc-ultra-2/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

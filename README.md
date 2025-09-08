@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EchoStar offloads satellite spectrum to SpaceX for $17 billion](https://www.theverge.com/news/773645/echostar-dish-spacex-starlink-direct-to-cell-fcc-investigation)
  - [AI audio startup ElevenLabs launches a tender offer to let staff sell up to $100M in stock at a $6.6B valuation, up from a $3.3B valuation in January 2025 &lpar;Rachel Metz/Bloomberg&rpar;](http://www.techmeme.com/250908/p21#a250908p21)
  - [Current and ex-Meta employees submitted documents and affidavits to Congress alleging that Meta suppressed research on child safety risks in its VR platforms &lpar;Washington Post&rpar;](http://www.techmeme.com/250908/p20#a250908p20)
  - [Sal Khan is hopeful that AI won’t destroy education](https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview)
- - [Arco is stunning sci-fi with shades of Moebius and Miyazaki](https://www.theverge.com/toronto-international-film-festival/773517/tiff-2025-reviews-arco-good-fortune-sacrifice)
- - [Atlanta-based Rainforest, which embeds payment processing into platforms, raised a $29M Series B led by Matrix and Infinity, taking its total funding to $57.5M &lpar;Crunchbase News&rpar;](http://www.techmeme.com/250908/p19#a250908p19)<!-- TECH:END -->
+ - [Arco is stunning sci-fi with shades of Moebius and Miyazaki](https://www.theverge.com/toronto-international-film-festival/773517/tiff-2025-reviews-arco-good-fortune-sacrifice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

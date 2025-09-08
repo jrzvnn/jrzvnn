@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 Pro Max&#39;s larger battery could last four more hours per charge](https://appleinsider.com/articles/25/09/08/iphone-17-pro-maxs-larger-battery-could-last-four-more-hours-per-charge?utm_source=rss)
- - [A deep dive on Huawei&#39;s Ascend AI chip production, SMIC, TSMC, US export controls, HBM bottlenecks, China&#39;s HBM issues, Huawei&#39;s data center chips, and more &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250908/p11#a250908p11)
- - [Forward Industries raised $1.65B via a private investment in a PIPE offering led by Galaxy, Jump, and Multicoin to start a Solana asset treasury strategy &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/250908/p10#a250908p10)
- - [SpaceX agrees to acquire EchoStar&#39;s AWS-4 and H-block spectrum licenses for up to $8.5B in cash and up to $8.5B in stock, resolving an FCC inquiry into EchoStar &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p9#a250908p9)
- - [The iPhone 17 Air Could Use a Silicon-Carbon Battery. What Is It?](https://www.wired.com/story/iphone-17-air-silicon-carbon-battery-what-is-it/)<!-- TECH:END -->
+ - [Quantum computing startup Infleqtion agrees to merge with a Michael Klein-led blank-check company, giving it a $1.8B pre-money valuation and $540M in funding &lpar;Bloomberg&rpar;](http://www.techmeme.com/250908/p14#a250908p14)
+ - [Cloud security software company Netskope plans to sell 47.8M shares at $15 to $17 in its IPO, valuing it at up to $6.5B and raising up to $813M &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p13#a250908p13)
+ - [Databricks is set to close $1B in funding at a $100B valuation and is on track to generate $4B in revenue in its fiscal year ending January 2026, up 50% YoY &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p12#a250908p12)
+ - [Inside Podcasts: How to set up a podcast, edit it, and keep it running](https://appleinsider.com/articles/25/09/05/inside-podcasts-how-to-set-up-a-podcast-edit-it-and-keep-it-running?utm_source=rss)
+ - [iPhone 17 Pro Max&#39;s larger battery could last four more hours per charge](https://appleinsider.com/articles/25/09/08/iphone-17-pro-maxs-larger-battery-could-last-four-more-hours-per-charge?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Is AI the New Frontier of Women&#39;s Oppression?](https://www.wired.com/story/is-ai-the-new-frontier-of-female-oppression/)
+ - [Inside the Man vs. Machine Hackathon](https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/)
+ - [All the news from Apple’s iPhone 17 keynote](https://www.theverge.com/news/772434/apple-iphone-17-event-news)
  - [US Taxpayers Will Pay Billions in New Fossil Fuel Subsidies Thanks to the Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
  - [Memo: Microsoft mandates staff to return to the office three days per week, starting in late February 2026 for those who live within 50 miles of its Redmond HQ &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p21#a250909p21)
- - [Tesla says its new Megablock can cut costs for renewable energy storage.](https://www.theverge.com/news/774410/tesla-battery-energy-storage-megablock-megapack)
- - [Anthropic&#39;s Claude can now create PDFs, slides, and spreadsheets, available now for Max, Team, and Enterprise users, and coming to Pro users in the coming weeks &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250909/p20#a250909p20)<!-- TECH:END -->
+ - [Tesla says its new Megablock can cut costs for renewable energy storage.](https://www.theverge.com/news/774410/tesla-battery-energy-storage-megablock-megapack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

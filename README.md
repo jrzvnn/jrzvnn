@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US Cyber Command and the NSA will retain a single leader after the Trump administration found that breaking up the arrangement would be very complex &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250909/p18#a250909p18)
- - [Blockchain-based lender Figure upsizes its Nasdaq IPO and now plans to sell 31.5M shares priced between $20 and $22, aiming to raise up to ~$693M, up from $526M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250909/p17#a250909p17)
- - [Hyundai’s out-of-this-world EV concept is a glimpse at the upcoming Ioniq 3](https://www.theverge.com/news/774315/hyundai-concept-three-ev-ioniq-3-star-wars)
- - [Google’s Veo 3 can now generate vertical AI videos](https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support)
- - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OLED MacBook Pro expected to have Samsung displays in late 2026](https://appleinsider.com/articles/25/09/09/oled-macbook-pro-expected-to-have-samsung-displays-in-late-2026?utm_source=rss)
+ - [Big Tech moves to hedge bets with Democrats ahead of 2026 midterms](https://appleinsider.com/articles/25/09/09/big-tech-moves-to-hedge-bets-with-democrats-ahead-of-2026-midterms?utm_source=rss)
+ - [Nvidia unveils Rubin CPX, a new chip system designed for AI tasks like video generation and software creation, set to launch at the end of 2026 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250909/p19#a250909p19)
+ - [Microsoft mandates a return to office](https://www.theverge.com/report/774414/microsoft-return-to-office-policy-announcement)
+ - [France vs. Iceland: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-iceland-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

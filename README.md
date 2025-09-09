@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mr Clean](http://9gag.com/gag/ae9dmzb)
- - 😝 [Ugliest car ever just dropped](http://9gag.com/gag/a7oGVdm)
- - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 👉 [Who would&#39;ve thought...](http://9gag.com/gag/a9yV88W)<!-- MEMES:END -->
+ - 😝 [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
+ - 😝 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)<!-- MEMES:END -->
 
 ---
 

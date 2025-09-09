@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [macOS Tahoe is getting a new Repair Assistant for part calibration and pairing](https://appleinsider.com/articles/25/09/09/macos-tahoe-is-getting-a-new-repair-assistant-for-part-calibration-and-pairing?utm_source=rss)
+ - [Crypto exchange Gemini raises the proposed price range for its US IPO from $17-$19 per share to $24-$26, targeting a valuation of up to $3.08B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250909/p53#a250909p53)
  - [Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine](https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/)
  - [Judge puts Anthropic&amp;#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected)
- - [Q&amp;A with EFF Executive Director Cindy Cohn, who will leave the role later this year after leading the nonprofit since 2015, on privacy, encryption, AI, and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/250909/p52#a250909p52)
- - [iPhone 17 Pro vs iPhone 16 Pro - The new top tier, compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-iphone-16-pro---the-new-top-tier-compared?utm_source=rss)
- - [There are an incredible amount of new Apple Watch bands with new colors and styles](https://appleinsider.com/articles/25/09/09/there-are-an-incredible-amount-of-new-apple-watch-bands-with-new-colors-and-styles?utm_source=rss)<!-- TECH:END -->
+ - [Q&amp;A with EFF Executive Director Cindy Cohn, who will leave the role later this year after leading the nonprofit since 2015, on privacy, encryption, AI, and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/250909/p52#a250909p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

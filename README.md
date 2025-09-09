@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)
- - 😝 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
- - 💣 [Avada kedavra](http://9gag.com/gag/aZZdjRX)
- - 😝 [More Animal facts please](http://9gag.com/gag/ajPdKgw)
- - 👉 [Clarity](http://9gag.com/gag/aZZdj1V)<!-- MEMES:END -->
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 😝 [Avada kedavra](http://9gag.com/gag/aZZdjRX)
+ - 💣 [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)
+ - 😝 [Right in my feels](http://9gag.com/gag/aO8j1vM)
+ - 👉 [Yen &gt; Triss](http://9gag.com/gag/amodxj4)<!-- MEMES:END -->
 
 ---
 

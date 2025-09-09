@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Reflection AI, which is building AI coding tools, nears a deal to raise ~$1B at a valuation of $4.5B to $5.5B; Nvidia&#39;s VC arm would invest $250M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p42#a250909p42)
- - [Live Translation will also work with AirPods 4 and AirPods Pro 2](https://appleinsider.com/articles/25/09/09/live-translation-will-also-work-with-airpods-4-and-airpods-pro-2?utm_source=rss)
- - [Apple unveils the A19 chip, with a 6-core CPU and 5-core GPU, the A19 Pro, with a 6-core CPU and 6-core GPU, the N1 networking chip, and the C1X modem &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250909/p41#a250909p41)
- - [The iPhone 17 Series Gets the Biggest iPhone Design Refresh in Years](https://www.wired.com/story/apple-iphone-17-iphone-air-and-iphone-17-pro/)
- - [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)<!-- TECH:END -->
+ - [Hands-on with Apple AirPods Pro 3: updated ANC system is impressive, foam ear tips are more comfortable but their fit and feel will take some getting used to &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/250909/p44#a250909p44)
+ - [Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3](https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/)
+ - [Here’s a first look at the iPhone 17](https://www.theverge.com/hands-on/772556/iphone-17-hands-on-first-look-apple-event-photos-features-price)
+ - [iPhone Air hands-on: very thin with rounded edges reminiscent of previous iPhone designs and a camera &quot;plateau&quot; that flows smoothly into the back of the phone &lpar;The Verge&rpar;](http://www.techmeme.com/250909/p43#a250909p43)
+ - [Sources: Reflection AI, which is building AI coding tools, nears a deal to raise ~$1B at a valuation of $4.5B to $5.5B; Nvidia&#39;s VC arm would invest $250M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p42#a250909p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

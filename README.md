@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces the ultra-slim iPhone Air with a 5.6mm design, an A19 Pro chip, a 6.5&quot; display with ProMotion, N1 wireless chip for WiFi and Bluetooth, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250909/p31#a250909p31)
- - [Our Favorite Budget TV Is Only $264 at Walmart](https://www.wired.com/story/vizio-tv-deal/)
- - [iPhone Air is here with new Apple modem, slim design, and A19 Pro performance](https://appleinsider.com/articles/25/09/09/iphone-air-is-here-with-new-apple-modem-slim-design-and-a19-pro-performance?utm_source=rss)
- - [Apple Watch Ultra 3 iterative yet necessary update with 5G is here](https://appleinsider.com/articles/25/09/09/apple-watch-ultra-3-iterative-yet-necessary-update-with-5g-is-here?utm_source=rss)
- - [Apple announces the iPhone 17, featuring the A19 chip, larger 6.3&quot; display and 120Hz ProMotion support, improved brightness of up to 3,000 nits, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250909/p30#a250909p30)<!-- TECH:END -->
+ - [MagSafe battery resurrected, gives up to 40 hours of use to iPhone Air](https://appleinsider.com/articles/25/09/09/magsafe-battery-resurrected-gives-up-to-40-hours-of-use-to-iphone-air?utm_source=rss)
+ - [Apple will launch watchOS 26 on September 15th](https://www.theverge.com/news/772968/apple-watch-watchos-26-release-date-upgrade-september-15)
+ - [Apple’s macOS Tahoe 26 update releases September 15th](https://www.theverge.com/news/772630/apple-macos-tahoe-26-update-launch-iphone-event)
+ - [Apple reveals iPadOS 26 release date](https://www.theverge.com/news/773018/apple-ipados-26-release-date-launch)
+ - [iOS 26 is out on September 15th](https://www.theverge.com/news/770784/apple-ios-26-release-date-liquid-glass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

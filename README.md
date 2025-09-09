@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rabies by the doggies](http://9gag.com/gag/a7oGVbe)
- - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
- - 💣 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
+ - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - 😝 [Casual Friday](http://9gag.com/gag/aE0QWep)
+ - 💣 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
+ - 😝 [Nnn](http://9gag.com/gag/aW4dbAn)
+ - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 ---
 

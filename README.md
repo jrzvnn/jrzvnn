@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Helsinki-based ReOrbit, which builds satellites and a software platform to help countries fully control their satellite systems, raised a €45M Series A &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/250909/p2#a250909p2)
  - [Apple Event deals: Save up to $450 on current MacBook Pros today only](https://appleinsider.com/articles/25/09/09/apple-event-deals-save-up-to-450-on-current-macbook-pros-today-only?utm_source=rss)
  - [The UK Electoral Commission says it took three years and over £250K to recover from an August 2021 hack that exposed private data of 40M voters to Chinese spies &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250909/p1#a250909p1)
  - [Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World](https://www.wired.com/story/geedge-networks-mass-censorship-leak/)
- - [The Nepalese government lifts its social media ban after local media reported 19+ deaths in clashes over anti-government demonstrations sparked by the ban &lpar;Gopal Sharma/Reuters&rpar;](http://www.techmeme.com/250908/p44#a250908p44)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-9/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Nepalese government lifts its social media ban after local media reported 19+ deaths in clashes over anti-government demonstrations sparked by the ban &lpar;Gopal Sharma/Reuters&rpar;](http://www.techmeme.com/250908/p44#a250908p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

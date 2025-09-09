@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clarity](http://9gag.com/gag/aZZdj1V)
- - 😝 [Nnn](http://9gag.com/gag/aW4dbAn)
+ - 😝 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)
+ - 😝 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
  - 💣 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
  - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
  - 👉 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)<!-- MEMES:END -->

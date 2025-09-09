@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hands-on with Apple Watch Series 11, SE 3, and Ultra 3: SE 3 feels surprisingly similar to the Series 11 and the satellite SOS feature is neat &lpar;The Verge&rpar;](http://www.techmeme.com/250909/p46#a250909p46)
+ - [Ramp says it has hit $1B in annualized revenue, after saying it had hit $700M in March; it was valued at $22.5B in July &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250909/p45#a250909p45)
  - [Hands-on with Apple AirPods Pro 3: updated ANC system is impressive, foam ear tips are more comfortable but their fit and feel will take some getting used to &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/250909/p44#a250909p44)
  - [Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3](https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/)
- - [Here’s a first look at the iPhone 17](https://www.theverge.com/hands-on/772556/iphone-17-hands-on-first-look-apple-event-photos-features-price)
- - [iPhone Air hands-on: very thin with rounded edges reminiscent of previous iPhone designs and a camera &quot;plateau&quot; that flows smoothly into the back of the phone &lpar;The Verge&rpar;](http://www.techmeme.com/250909/p43#a250909p43)
- - [Sources: Reflection AI, which is building AI coding tools, nears a deal to raise ~$1B at a valuation of $4.5B to $5.5B; Nvidia&#39;s VC arm would invest $250M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p42#a250909p42)<!-- TECH:END -->
+ - [Here’s a first look at the iPhone 17](https://www.theverge.com/hands-on/772556/iphone-17-hands-on-first-look-apple-event-photos-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

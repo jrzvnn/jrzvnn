@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: IBM, Dell, Cisco, Oracle, Microsoft, Intel, Nvidia, and other US tech companies helped design and build China&#39;s vast digital surveillance state &lpar;Associated Press&rpar;](http://www.techmeme.com/250909/p12#a250909p12)
  - [Booking.com, Expedia, Airbnb, and others are preparing for AI agents, which could disrupt their booking platforms and upend the $1.6T global travel market &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p11#a250909p11)
  - [A New Platform Is Launching to Protect Public Servants From an Angry Mob](https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/)
  - [Apple Event Live Blog: Updates on iPhone 17, iPhone Air, Apple Watch 11, AirPods Pro 3](https://www.wired.com/live/apple-event-iphone-17-iphone-air/)
- - [US jobseekers describe a hellish job market, with young people using ChatGPT to write applications, HR using AI to read them, and few people getting hired &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/250909/p10#a250909p10)
- - [Genki will pay Nintendo damages over 3D-printed Switch 2](https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement)<!-- TECH:END -->
+ - [US jobseekers describe a hellish job market, with young people using ChatGPT to write applications, HR using AI to read them, and few people getting hired &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/250909/p10#a250909p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Check out the Apple iPhone 17 event with AppleInsider&#39;s in-person coverage](https://appleinsider.com/articles/25/09/09/check-out-the-apple-iphone-17-event-with-appleinsiders-in-person-coverage?utm_source=rss)
  - [Here&amp;#8217;s everything you need to know about preordering the 2025 iPhone lineup](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
  - [The iPhone Air’s battery pack is slim, but not as slim as the iPhone Air](https://www.theverge.com/apple-event/775048/iphone-air-magsafe-battery-pack-hands-on-photos)
  - [How the new memory shield on iPhone 17 makes you even more secure](https://appleinsider.com/articles/25/09/09/how-the-new-memory-shield-on-iphone-17-makes-you-even-more-secure?utm_source=rss)
- - [Oracle reports Q1 revenue up 12% YoY to $14.93B, vs. $15.04B est., and remaining performance obligations up 359% to $455B; ORCL jumps 19%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250909/p49#a250909p49)
- - [The iPhone 17 lineup comes with 256GB of base storage, up from 128GB in the iPhone 16 series; for the first time, the Pro Max model offers a 2TB configuration &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250909/p48#a250909p48)<!-- TECH:END -->
+ - [Oracle reports Q1 revenue up 12% YoY to $14.93B, vs. $15.04B est., and remaining performance obligations up 359% to $455B; ORCL jumps 19%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250909/p49#a250909p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

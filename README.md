@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Judge puts Anthropic&amp;#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected)
+ - [Q&amp;A with EFF Executive Director Cindy Cohn, who will leave the role later this year after leading the nonprofit since 2015, on privacy, encryption, AI, and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/250909/p52#a250909p52)
+ - [iPhone 17 Pro vs iPhone 16 Pro - The new top tier, compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-iphone-16-pro---the-new-top-tier-compared?utm_source=rss)
  - [There are an incredible amount of new Apple Watch bands with new colors and styles](https://appleinsider.com/articles/25/09/09/there-are-an-incredible-amount-of-new-apple-watch-bands-with-new-colors-and-styles?utm_source=rss)
- - [Apple&amp;#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick)
- - [The new iPhones have an 18MP Center Stage front camera that features a new square sensor and can use AI to automatically adjust the field of view and rotation &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250909/p51#a250909p51)
- - [Verge staffers react to the iPhone Air: what we love and don’t love](https://www.theverge.com/tech/774831/iphone-air-apple-reactions-thin-camera)
- - [Google announces an AI Plus subscription tier for emerging markets, offering &quot;more access to Gemini 2.5 Pro&quot; and tools like Flow, starting with Indonesia &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250909/p50#a250909p50)<!-- TECH:END -->
+ - [Apple&amp;#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

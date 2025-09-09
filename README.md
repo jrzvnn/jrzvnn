@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces the iPhone 17, featuring the A19 chip, larger 6.3&quot; display and 120Hz ProMotion support, improved brightness of up to 3,000 nits, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250909/p30#a250909p30)
- - [Apple&#39;s base iPhone 17 grows up with a better screen &amp; improved cameras](https://appleinsider.com/articles/25/09/09/apples-base-iphone-17-grows-up-with-a-better-screen-improved-cameras?utm_source=rss)
- - [Apple announces the ultra-slim iPhone Air](https://www.theverge.com/news/771942/apple-iphone-17-air-announcement)
- - [Apple Watch SE 3 refreshed with modern design, features, and budget-friendly price](https://appleinsider.com/articles/25/09/09/apple-watch-se-3-refreshed-with-modern-design-features-and-budget-friendly-price?utm_source=rss)
- - [Apple expects to notify 100 million people that they have hypertension in a year](https://appleinsider.com/articles/25/09/09/apple-expects-to-notify-100-million-people-that-they-have-hypertension-in-a-year?utm_source=rss)<!-- TECH:END -->
+ - [Apple announces the ultra-slim iPhone Air with a 5.6mm design, an A19 Pro chip, a 6.5&quot; display with ProMotion, N1 wireless chip for WiFi and Bluetooth, and more &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250909/p31#a250909p31)
+ - [Our Favorite Budget TV Is Only $264 at Walmart](https://www.wired.com/story/vizio-tv-deal/)
+ - [iPhone Air is here with new Apple modem, slim design, and A19 Pro performance](https://appleinsider.com/articles/25/09/09/iphone-air-is-here-with-new-apple-modem-slim-design-and-a19-pro-performance?utm_source=rss)
+ - [Apple Watch Ultra 3 iterative yet necessary update with 5G is here](https://appleinsider.com/articles/25/09/09/apple-watch-ultra-3-iterative-yet-necessary-update-with-5g-is-here?utm_source=rss)
+ - [Apple announces the iPhone 17, featuring the A19 chip, larger 6.3&quot; display and 120Hz ProMotion support, improved brightness of up to 3,000 nits, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250909/p30#a250909p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

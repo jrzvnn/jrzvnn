@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Event deals: Save up to $450 on current MacBook Pros today only](https://appleinsider.com/articles/25/09/09/apple-event-deals-save-up-to-450-on-current-macbook-pros-today-only?utm_source=rss)
+ - [The UK Electoral Commission says it took three years and over £250K to recover from an August 2021 hack that exposed private data of 40M voters to Chinese spies &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/250909/p1#a250909p1)
  - [Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World](https://www.wired.com/story/geedge-networks-mass-censorship-leak/)
  - [The Nepalese government lifts its social media ban after local media reported 19+ deaths in clashes over anti-government demonstrations sparked by the ban &lpar;Gopal Sharma/Reuters&rpar;](http://www.techmeme.com/250908/p44#a250908p44)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-9/#ftag=CAD590a51e)
- - [Evan Spiegel says Snap is restructuring around small &quot;squads&quot; of 10 to 15 people to compete better; Snapchat+ now brings in $700M+ in ARR from 15M+ paying users &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250908/p43#a250908p43)
- - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-9/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

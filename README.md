@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Ant Group&#39;s Ant Digital Technologies is quietly working to link ~$8.4B of energy infrastructure and other real-world assets to its AntChain blockchain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250909/p9#a250909p9)
  - [A profile of Techmeme, which turns 20 this week yet oddly works and looks as it did in 2005, as its executive-heavy readership expands amid the AI boom &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/250909/p8#a250909p8)
- - [Xbox is coming to cars thanks to an LG and Microsoft partnership](https://www.theverge.com/news/774177/microsoft-xbox-car-lg-partnership-cloud-streaming)
- - [Sources: the US informs European countries that it is stepping back from joint efforts to combat disinformation from Russia, China, Iran, and other countries &lpar;Amy Mackinnon/Financial Times&rpar;](http://www.techmeme.com/250909/p7#a250909p7)
- - [Windows 11 SSD issues blamed on reviewers using &amp;#8216;early versions of firmware&amp;#8217;](https://www.theverge.com/report/774201/phison-windows-11-ssd-issues-early-firmware)
- - [Hands-on with AI startup Friend&#39;s $129 always-listening pendant: feels like a beefy AirTag, runs Gemini 2.5, gives unhelpful commentary, and makes others uneasy &lpar;Wired&rpar;](http://www.techmeme.com/250909/p6#a250909p6)<!-- TECH:END -->
+ - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 9, #351](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-9-351/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 9, #821](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-9-821/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

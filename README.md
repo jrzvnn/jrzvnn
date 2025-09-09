@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple iPhone 17 launch event: how to watch](https://www.theverge.com/news/773176/apple-iphone-17-launch-event-watch-time-date)
  - [Best Buy is pretty sure that AirPods Pro 3 are coming during the iPhone 17 event](https://appleinsider.com/articles/25/09/09/best-buy-is-pretty-sure-that-airpods-pro-3-are-coming-during-the-iphone-17-event?utm_source=rss)
  - [iPhone 17 Air may get iPhone SE-like branding and drop &#39;17&#39;](https://appleinsider.com/articles/25/09/09/iphone-17-air-may-get-iphone-se-like-branding-and-drop-17?utm_source=rss)
  - [Apple loses to HP in ACSI personal computer satisfaction survey](https://appleinsider.com/articles/25/09/09/apple-loses-to-hp-in-acsi-personal-computer-satisfaction-survey?utm_source=rss)
- - [This Atari handheld with retro controls is finally available for preorder](https://www.theverge.com/news/774305/atari-gamestation-go-retro-handheld-trackball-paddle)
- - [Sign Up to Get the Hottest Daily Deals Sent Straight to Your Phone](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-daily-deals-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Atari handheld with retro controls is finally available for preorder](https://www.theverge.com/news/774305/atari-gamestation-go-retro-handheld-trackball-paddle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

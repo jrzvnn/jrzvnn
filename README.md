@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World](https://www.wired.com/story/geedge-networks-mass-censorship-leak/)
  - [The Nepalese government lifts its social media ban after local media reported 19+ deaths in clashes over anti-government demonstrations sparked by the ban &lpar;Gopal Sharma/Reuters&rpar;](http://www.techmeme.com/250908/p44#a250908p44)
  - [Evan Spiegel says Snap is restructuring around small &quot;squads&quot; of 10 to 15 people to compete better; Snapchat+ now brings in $700M+ in ARR from 15M+ paying users &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/250908/p43#a250908p43)
  - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)
- - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
- - [Creepy or Fun? Vodafone&#39;s New Spokesperson Is AI, Not a Real Person](https://www.cnet.com/news/social-media/creepy-or-fun-vodafones-new-spokesperson-is-ai-not-a-real-person/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

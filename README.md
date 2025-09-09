@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
  - 😝 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
- - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 💣 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)
  - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [`I can fix her.` Well, don\u2019t.](http://9gag.com/gag/aZZdQL3)<!-- MEMES:END -->
+ - 👉 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
 
 ---
 

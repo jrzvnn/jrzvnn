@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
- - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - 😝 [Rabies by the doggies](http://9gag.com/gag/a7oGVbe)
+ - 😝 [Quick, americans are sleeping, lets travel across america](http://9gag.com/gag/arydZpK)
  - 💣 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
- - 😝 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)
- - 👉 [Nnn](http://9gag.com/gag/aW4dbAn)<!-- MEMES:END -->
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)<!-- MEMES:END -->
 
 ---
 

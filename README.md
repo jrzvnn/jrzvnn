@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils the $799+ Apple Watch Ultra 3, which now includes 5G, up to 42 hours of battery life, and satellite connectivity, shipping September 19 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250909/p28#a250909p28)
+ - [Apple announces the iPhone 17, featuring the A19 chip, larger 6.3&quot; display and 120Hz ProMotion support, improved brightness of up to 3,000 nits, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250909/p30#a250909p30)
+ - [Apple&#39;s base iPhone 17 grows up with a better screen &amp; improved cameras](https://appleinsider.com/articles/25/09/09/apples-base-iphone-17-grows-up-with-a-better-screen-improved-cameras?utm_source=rss)
+ - [Apple announces the ultra-slim iPhone Air](https://www.theverge.com/news/771942/apple-iphone-17-air-announcement)
  - [Apple Watch SE 3 refreshed with modern design, features, and budget-friendly price](https://appleinsider.com/articles/25/09/09/apple-watch-se-3-refreshed-with-modern-design-features-and-budget-friendly-price?utm_source=rss)
- - [Apple announces $249+ Apple Watch SE 3, featuring the S10 chip, an always-on display, support for gestures, coming September 19 &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/250909/p27#a250909p27)
- - [Apple’s iPhone 17 is here](https://www.theverge.com/apple/772543/apple-iphone-17-launch-price-availability)
- - [Apple announces $399+ Apple Watch Series 11, its thinnest watch yet, with support for hypertension detection, Sleep Score, 5G connectivity, and more &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250909/p26#a250909p26)<!-- TECH:END -->
+ - [Apple expects to notify 100 million people that they have hypertension in a year](https://appleinsider.com/articles/25/09/09/apple-expects-to-notify-100-million-people-that-they-have-hypertension-in-a-year?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

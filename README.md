@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
- - 😝 [These people are incapable of having fun](http://9gag.com/gag/aKGLeP1)
- - 💣 [The look of pure regret](http://9gag.com/gag/aZZdEyV)
- - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 👉 [I can shave her](http://9gag.com/gag/a7oG9Nb)<!-- MEMES:END -->
+ - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - 😝 [Go Australia \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/aByvE62)
+ - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [Girls be Like](http://9gag.com/gag/awy8dND)<!-- MEMES:END -->
 
 ---
 

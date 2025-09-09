@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
- - 😝 [Go Australia \ud83c\udde6\ud83c\uddfa](http://9gag.com/gag/aByvE62)
+ - 😝 [Yen &gt; Triss](http://9gag.com/gag/amodxj4)
+ - 😝 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
  - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 😝 [No man no cry..](http://9gag.com/gag/aQzr2Gd)
  - 👉 [Girls be Like](http://9gag.com/gag/awy8dND)<!-- MEMES:END -->
 
 ---

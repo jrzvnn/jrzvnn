@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple loses to HP in ACSI personal computer satisfaction survey](https://appleinsider.com/articles/25/09/09/apple-loses-to-hp-in-acsi-personal-computer-satisfaction-survey?utm_source=rss)
+ - [This Atari handheld with retro controls is finally available for preorder](https://www.theverge.com/news/774305/atari-gamestation-go-retro-handheld-trackball-paddle)
  - [The 15 Best Fans to Cool You Year Round &lpar;2025&rpar;](https://www.wired.com/gallery/best-fans/)
  - [Canon is bringing back a point-and-shoot from 2016 with fewer features and a higher price &lpar;it’s viral&rpar;](https://www.theverge.com/news/774095/canon-powershot-elph-360-hsa-kendall-jenner-reissue-price-specs)
- - [The UAE&#39;s Institute of Foundation Models open sources its K2 Think model, trained on only ~2,000 AI chips and designed for math, coding, and science research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250909/p16#a250909p16)
- - [The United Arab Emirates Releases a Tiny But Powerful AI Model](https://www.wired.com/story/uae-releases-a-tiny-but-powerful-reasoning-model/)
- - [Sources: Nasdaq agrees to buy $50M in shares of the Winklevoss twins&#39; Gemini crypto exchange in a private placement at the time of Gemini&#39;s IPO this week &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250909/p15#a250909p15)<!-- TECH:END -->
+ - [The UAE&#39;s Institute of Foundation Models open sources its K2 Think model, trained on only ~2,000 AI chips and designed for math, coding, and science research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250909/p16#a250909p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

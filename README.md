@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your motivation for the week](http://9gag.com/gag/a87neVY)
- - 😝 [Clarity](http://9gag.com/gag/aZZdj1V)
- - 💣 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)
- - 😝 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 👉 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
+ - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 💣 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)
+ - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
+ - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)<!-- MEMES:END -->
 
 ---
 

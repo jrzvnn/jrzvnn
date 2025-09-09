@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Baby Monitors We&#39;ve Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-baby-monitors/)
+ - [Sources: Nasdaq is set to acquire $50M in shares of the Winklevoss twins&#39; Gemini crypto exchange in a private placement at the time of the IPO this week &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250909/p15#a250909p15)
+ - [Guillermo del Toro makes Frankenstein his own](https://www.theverge.com/toronto-international-film-festival/774035/tiff-2025-reviews-frankenstein-normal-eternity)
  - [Just about every detail about the unreleased Powerbeats Fit has been leaked](https://appleinsider.com/articles/25/09/09/just-about-every-detail-about-the-unreleases-powerbeats-fit-has-been-leaked?utm_source=rss)
- - [Google pulls the Pixel 10’s Daily Hub to ‘enhance its performance’](https://www.theverge.com/news/774274/google-pulls-the-pixel-10s-daily-hub-to-enhance-its-performance)
- - [Apple Store is down ahead of &#39;Awe Dropping&#39; iPhone 17 launch](https://appleinsider.com/articles/25/09/09/apple-store-is-down-ahead-of-awe-dropping-iphone-17-launch?utm_source=rss)
- - [MacOS Tahoe vs. Sequoia: Here&#39;s How Much Liquid Glass Will Change Your Mac&#39;s Icons](https://www.cnet.com/tech/services-and-software/macos-tahoe-vs-sequoia-heres-how-much-liquid-glass-will-change-your-macs-icons/#ftag=CAD590a51e)
- - [Apple Store Goes Down Ahead of iPhone 17 Event](https://www.cnet.com/tech/mobile/apple-store-goes-down-ahead-of-iphone-17-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google pulls the Pixel 10’s Daily Hub to ‘enhance its performance’](https://www.theverge.com/news/774274/google-pulls-the-pixel-10s-daily-hub-to-enhance-its-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

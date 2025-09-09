@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)
- - 💣 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
- - 😝 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
- - 👉 [Your motivation for the week](http://9gag.com/gag/a87neVY)<!-- MEMES:END -->
+ - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
+ - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 💣 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)
+ - 😝 [Right in my feels](http://9gag.com/gag/aO8j1vM)
+ - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 ---
 

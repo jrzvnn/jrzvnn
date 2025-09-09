@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Hotness overloaded](http://9gag.com/gag/axyARLM)
  - 😝 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
  - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [No man no cry..](http://9gag.com/gag/aQzr2Gd)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
  - 👉 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Cut Camera updated for ProRes RAW, genlock, and Center Stage](https://appleinsider.com/articles/25/09/09/final-cut-camera-updated-for-prores-raw-genlock-and-center-stage?utm_source=rss)
- - [iOS 26, macOS Tahoe, and more are coming on September 15](https://appleinsider.com/articles/25/09/09/ios-26-macos-tahoe-and-more-are-coming-on-september-15?utm_source=rss)
- - [The iPhone 17 Air starts at $999 and the iPhone 17 at $799, both with 256GB of storage; all new iPhones will be available on September 19 &lpar;Valentina Palladino/Engadget&rpar;](http://www.techmeme.com/250909/p37#a250909p37)
- - [iPhone 14 and iPhone 15 get an extra year of satellite features for free](https://appleinsider.com/articles/25/09/09/iphone-14-and-iphone-15-get-an-extra-year-of-satellite-features-for-free?utm_source=rss)
- - [Apple will release iOS 26, iPadOS 26, macOS 26 Tahoe, watchOS 26, tvOS 26, and visionOS 26 on September 15, featuring a Liquid Glass redesign and other updates &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250909/p36#a250909p36)<!-- TECH:END -->
+ - [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
+ - [Source: Meta signed a contract worth $140M+ to use technology from AI image startup Black Forest Labs, committing $35M in the first year and $105M in the second &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250909/p40#a250909p40)
+ - [The iPhone 17 comes with Apple’s new in-house networking chip](https://www.theverge.com/news/774941/apple-iphone-17-n1-wi-fi-bluetooth-thread-networking-chip)
+ - [The iPhone 17 Pro starts at $1,099 and the Pro Max at $1,199, both with 256GB of storage, and for the first time, the Pro Max offers up to 2TB &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250909/p39#a250909p39)
+ - [Apple&#39;s new iPhone 17 accessories include the TechWoven case and Crossbody Strap](https://appleinsider.com/articles/25/09/09/apples-new-iphone-17-accessories-include-the-techwoven-case-and-crossbody-strap?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

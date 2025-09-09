@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Precious](http://9gag.com/gag/aMVWzAA)
- - 😝 [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
- - 💣 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)
- - 😝 [Hong Kong billionaire Li Ka-shing &lpar;97&rpar; donated $500 million to Ukraine through his London-based foundation.](http://9gag.com/gag/awy8dRR)
- - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
+ - 😝 [Mr Clean](http://9gag.com/gag/ae9dmzb)
+ - 😝 [Ugliest car ever just dropped](http://9gag.com/gag/a7oGVdm)
+ - 💣 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 👉 [Who would&#39;ve thought...](http://9gag.com/gag/a9yV88W)<!-- MEMES:END -->
 
 ---
 

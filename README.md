@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)
- - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 😝 [Clarity](http://9gag.com/gag/aZZdj1V)
+ - 😝 [Batgirl&#39;s bathroom layout is a crime against humanity](http://9gag.com/gag/aVvdZPw)
  - 💣 [Oi! Do you have a Muppet license for that!](http://9gag.com/gag/a0ex1Dz)
  - 😝 [Right in my feels](http://9gag.com/gag/aO8j1vM)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 👉 [Apparently, the casino said it was a glitch in the system.](http://9gag.com/gag/aE0QoWN)<!-- MEMES:END -->
 
 ---
 

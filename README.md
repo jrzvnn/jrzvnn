@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollow Knight: Silksong Includes a Secret Konami Code Easter Egg](https://www.cnet.com/tech/gaming/hollow-knight-silksong-includes-a-secret-konami-code-easter-egg/#ftag=CAD590a51e)
- - [NotebookLM Can Now Make Flashcards and Quizzes to Help You Study](https://www.cnet.com/tech/services-and-software/notebooklm-can-now-make-flashcards-and-quizzes-to-help-you-study/#ftag=CAD590a51e)
- - [A judge rejects Anthropic&#39;s $1.5B copyright settlement over concerns that class lawyers are striking a deal behind the scenes that will be forced on authors &lpar;Annelise Levy/Bloomberg Law&rpar;](http://www.techmeme.com/250908/p40#a250908p40)
- - [Google announces Veo updates: support for vertical video and 1080p, lower pricing, and general availability of Veo 3 and Veo 3 Fast in the Gemini API &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/250908/p39#a250908p39)
- - [AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games](https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling)<!-- TECH:END -->
+ - [Sources: OpenAI execs fear rising political scrutiny in California could hinder its for-profit plans and have discussed moving out of the state as a last resort &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250908/p42#a250908p42)
+ - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
+ - [Creepy or Fun? Vodafone&#39;s New Spokesperson Is AI, Not a Real Person](https://www.cnet.com/news/social-media/creepy-or-fun-vodafones-new-spokesperson-is-ai-not-a-real-person/#ftag=CAD590a51e)
+ - [How VC firm 1789 Capital grew to $1B+ in assets with Donald Trump Jr. as a partner; its recent deals include investments in xAI, Neuralink, and Perplexity &lpar;Reuters&rpar;](http://www.techmeme.com/250908/p41#a250908p41)
+ - [Hollow Knight: Silksong Includes a Secret Konami Code Easter Egg](https://www.cnet.com/tech/gaming/hollow-knight-silksong-includes-a-secret-konami-code-easter-egg/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [Yen &gt; Triss](http://9gag.com/gag/amodxj4)
- - 💣 [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)
- - 😝 [More Animal facts please](http://9gag.com/gag/ajPdKgw)
- - 👉 [Girls be Like](http://9gag.com/gag/awy8dND)<!-- MEMES:END -->
+ - 😝 [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
+ - 😝 [Ignore emojis at start. Notice who always are generous ones](http://9gag.com/gag/an7dEZq)
+ - 💣 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)
+ - 😝 [Nice steps](http://9gag.com/gag/ae9dm3Q)
+ - 👉 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)<!-- MEMES:END -->
 
 ---
 

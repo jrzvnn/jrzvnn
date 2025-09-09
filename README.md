@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine](https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/)
  - [Judge puts Anthropic&amp;#8217;s $1.5 billion book piracy settlement on hold](https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected)
  - [Q&amp;A with EFF Executive Director Cindy Cohn, who will leave the role later this year after leading the nonprofit since 2015, on privacy, encryption, AI, and more &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/250909/p52#a250909p52)
  - [iPhone 17 Pro vs iPhone 16 Pro - The new top tier, compared](https://appleinsider.com/inside/iphone-17/vs/iphone-17-pro-vs-iphone-16-pro---the-new-top-tier-compared?utm_source=rss)
- - [There are an incredible amount of new Apple Watch bands with new colors and styles](https://appleinsider.com/articles/25/09/09/there-are-an-incredible-amount-of-new-apple-watch-bands-with-new-colors-and-styles?utm_source=rss)
- - [Apple&amp;#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick)<!-- TECH:END -->
+ - [There are an incredible amount of new Apple Watch bands with new colors and styles](https://appleinsider.com/articles/25/09/09/there-are-an-incredible-amount-of-new-apple-watch-bands-with-new-colors-and-styles?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
- - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 💣 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)
- - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
- - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)<!-- MEMES:END -->
+ - 😝 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)
+ - 😝 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - 💣 [Avada kedavra](http://9gag.com/gag/aZZdjRX)
+ - 😝 [More Animal facts please](http://9gag.com/gag/ajPdKgw)
+ - 👉 [Clarity](http://9gag.com/gag/aZZdj1V)<!-- MEMES:END -->
 
 ---
 

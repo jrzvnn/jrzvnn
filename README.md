@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
- - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 💣 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [I can shave her](http://9gag.com/gag/a7oG9Nb)<!-- MEMES:END -->
+ - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
+ - 😝 [Groove... Groove... Groove...](http://9gag.com/gag/aAymMB9)
+ - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 😝 [Girls be Like](http://9gag.com/gag/awy8dND)
+ - 👉 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)<!-- MEMES:END -->
 
 ---
 

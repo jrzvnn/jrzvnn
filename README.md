@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
- - 😝 [Ignore emojis at start. Notice who always are generous ones](http://9gag.com/gag/an7dEZq)
- - 💣 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)
- - 😝 [Nice steps](http://9gag.com/gag/ae9dm3Q)
- - 👉 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)<!-- MEMES:END -->
+ - 😝 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 💣 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [I can shave her](http://9gag.com/gag/a7oG9Nb)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [Avada kedavra](http://9gag.com/gag/aZZdjRX)
+ - 😝 [Yen &gt; Triss](http://9gag.com/gag/amodxj4)
  - 💣 [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)
- - 😝 [Right in my feels](http://9gag.com/gag/aO8j1vM)
- - 👉 [Yen &gt; Triss](http://9gag.com/gag/amodxj4)<!-- MEMES:END -->
+ - 😝 [More Animal facts please](http://9gag.com/gag/ajPdKgw)
+ - 👉 [Girls be Like](http://9gag.com/gag/awy8dND)<!-- MEMES:END -->
 
 ---
 

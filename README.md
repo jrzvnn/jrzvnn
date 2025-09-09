@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right-Wing Influencers Are Turning to Foreign Affairs](https://www.wired.com/story/right-wing-influencers-are-turning-to-foreign-affairs/)
- - [Helsinki-based DataCrunch, which aims to become Europe&#39;s first AI cloud hyperscaler, raised a €55M Series A, bringing its total funding to €76.5M &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250909/p22#a250909p22)
- - [iPhone 17 event live blog: on the ground at Apple’s keynote](https://www.theverge.com/apple-event/769391/iphone-17-apple-watch-11-ultra-se-airpods-pro-3)
- - [Inside the Man vs. Machine Hackathon](https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/)
- - [All the news from Apple’s iPhone 17 keynote](https://www.theverge.com/news/772434/apple-iphone-17-event-news)<!-- TECH:END -->
+ - [AirPods Pro 3 arrive with heart rate sensing, and best-ever ANC](https://appleinsider.com/articles/25/09/09/airpods-pro-3-arrive-with-heart-rate-sensing-and-best-ever-anc?utm_source=rss)
+ - [Apple announces AirPods Pro 3 with ‘world’s best ANC’ and live translation](https://www.theverge.com/news/772410/apple-airpods-pro-3-release-date-pricing-announcement)
+ - [A livestream of Apple&#39;s &quot;Awe dropping&quot; event from Apple Park &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/250909/p24#a250909p24)
+ - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,399 &lpar;$400 off&rpar;](https://appleinsider.com/articles/25/09/09/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1399-400-off?utm_source=rss)
+ - [A live blog of Apple&#39;s &quot;Awe dropping&quot; event, where major iPhone design upgrades, an ultrathin iPhone 17 Air, and three Apple Watch models are expected &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250909/p23#a250909p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The new iPhones have an 18MP Center Stage front camera that features a new square sensor and can use AI to automatically adjust the field of view and rotation &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250909/p51#a250909p51)
+ - [Verge staffers react to the iPhone Air: what we love and don’t love](https://www.theverge.com/tech/774831/iphone-air-apple-reactions-thin-camera)
  - [Google announces an AI Plus subscription tier for emerging markets, offering &quot;more access to Gemini 2.5 Pro&quot; and tools like Flow, starting with Indonesia &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250909/p50#a250909p50)
  - [The iPhone 17 Pro’s orange is good — and well-timed](https://www.theverge.com/apple/775186/apple-iphone-17-pro-cosmic-orange-color-good)
- - [Check out the Apple iPhone 17 event with AppleInsider&#39;s in-person coverage](https://appleinsider.com/articles/25/09/09/check-out-the-apple-iphone-17-event-with-appleinsiders-in-person-coverage?utm_source=rss)
- - [Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights](https://www.wired.com/story/eff-cindy-cohn-stepping-down/)
- - [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)<!-- TECH:END -->
+ - [Check out the Apple iPhone 17 event with AppleInsider&#39;s in-person coverage](https://appleinsider.com/articles/25/09/09/check-out-the-apple-iphone-17-event-with-appleinsiders-in-person-coverage?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

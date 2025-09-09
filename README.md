@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)
- - [Source: Meta signed a contract worth $140M+ to use technology from AI image startup Black Forest Labs, committing $35M in the first year and $105M in the second &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250909/p40#a250909p40)
- - [The iPhone 17 comes with Apple’s new in-house networking chip](https://www.theverge.com/news/774941/apple-iphone-17-n1-wi-fi-bluetooth-thread-networking-chip)
- - [The iPhone 17 Pro starts at $1,099 and the Pro Max at $1,199, both with 256GB of storage, and for the first time, the Pro Max offers up to 2TB &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/250909/p39#a250909p39)
- - [Apple&#39;s new iPhone 17 accessories include the TechWoven case and Crossbody Strap](https://appleinsider.com/articles/25/09/09/apples-new-iphone-17-accessories-include-the-techwoven-case-and-crossbody-strap?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Reflection AI, which is building AI coding tools, nears a deal to raise ~$1B at a valuation of $4.5B to $5.5B; Nvidia&#39;s VC arm would invest $250M+ &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p42#a250909p42)
+ - [Live Translation will also work with AirPods 4 and AirPods Pro 2](https://appleinsider.com/articles/25/09/09/live-translation-will-also-work-with-airpods-4-and-airpods-pro-2?utm_source=rss)
+ - [Apple unveils the A19 chip, with a 6-core CPU and 5-core GPU, the A19 Pro, with a 6-core CPU and 6-core GPU, the N1 networking chip, and the C1X modem &lpar;Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250909/p41#a250909p41)
+ - [The iPhone 17 Series Gets the Biggest iPhone Design Refresh in Years](https://www.wired.com/story/apple-iphone-17-iphone-air-and-iphone-17-pro/)
+ - [Apple barely talked about AI at its big iPhone 17 event](https://www.theverge.com/apple-event/774963/apple-september-launch-event-ai-apple-intelligence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

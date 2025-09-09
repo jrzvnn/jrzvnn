@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google announces an AI Plus subscription tier for emerging markets, offering &quot;more access to Gemini 2.5 Pro&quot; and tools like Flow, starting with Indonesia &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250909/p50#a250909p50)
+ - [The iPhone 17 Pro’s orange is good — and well-timed](https://www.theverge.com/apple/775186/apple-iphone-17-pro-cosmic-orange-color-good)
  - [Check out the Apple iPhone 17 event with AppleInsider&#39;s in-person coverage](https://appleinsider.com/articles/25/09/09/check-out-the-apple-iphone-17-event-with-appleinsiders-in-person-coverage?utm_source=rss)
- - [Here&amp;#8217;s everything you need to know about preordering the 2025 iPhone lineup](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
- - [The iPhone Air’s battery pack is slim, but not as slim as the iPhone Air](https://www.theverge.com/apple-event/775048/iphone-air-magsafe-battery-pack-hands-on-photos)
- - [How the new memory shield on iPhone 17 makes you even more secure](https://appleinsider.com/articles/25/09/09/how-the-new-memory-shield-on-iphone-17-makes-you-even-more-secure?utm_source=rss)
- - [Oracle reports Q1 revenue up 12% YoY to $14.93B, vs. $15.04B est., and remaining performance obligations up 359% to $455B; ORCL jumps 19%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250909/p49#a250909p49)<!-- TECH:END -->
+ - [Cindy Cohn Is Leaving the EFF, but Not the Fight for Digital Rights](https://www.wired.com/story/eff-cindy-cohn-stepping-down/)
+ - [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

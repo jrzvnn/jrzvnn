@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
  - 😝 [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - 😝 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
- - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 💣 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
  - 👉 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)<!-- MEMES:END -->
 
 ---

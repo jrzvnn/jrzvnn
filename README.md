@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Change it back.. CHANGE IT BACK](http://9gag.com/gag/amod6j2)
- - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - 👉 [Difference](http://9gag.com/gag/amodMAv)<!-- MEMES:END -->
+ - 😝 [An hour after the new banksy artwork was revealed that was mocking the courts for censoring people, the courts censored it by covering it up...](http://9gag.com/gag/aLnbmQx)
+ - 😝 [Banksy painted graffiti on the Royal Courts of Justice building in London, depicting a judge beating a protester with a hammer.](http://9gag.com/gag/a4PxAmy)
+ - 💣 [Precious](http://9gag.com/gag/aMVWzAA)
+ - 😝 [Bro said ` I dont want to get fired `](http://9gag.com/gag/abAdBXE)
+ - 👉 [Irishman supporting Palestinian protest by Pakistanis](http://9gag.com/gag/azxBRgm)<!-- MEMES:END -->
 
 ---
 

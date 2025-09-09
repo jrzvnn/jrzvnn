@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 17 launch event: how to watch](https://www.theverge.com/news/773176/apple-iphone-17-launch-event-watch-time-date)
- - [Best Buy is pretty sure that AirPods Pro 3 are coming during the iPhone 17 event](https://appleinsider.com/articles/25/09/09/best-buy-is-pretty-sure-that-airpods-pro-3-are-coming-during-the-iphone-17-event?utm_source=rss)
- - [iPhone 17 Air may get iPhone SE-like branding and drop &#39;17&#39;](https://appleinsider.com/articles/25/09/09/iphone-17-air-may-get-iphone-se-like-branding-and-drop-17?utm_source=rss)
- - [Apple loses to HP in ACSI personal computer satisfaction survey](https://appleinsider.com/articles/25/09/09/apple-loses-to-hp-in-acsi-personal-computer-satisfaction-survey?utm_source=rss)
- - [This Atari handheld with retro controls is finally available for preorder](https://www.theverge.com/news/774305/atari-gamestation-go-retro-handheld-trackball-paddle)<!-- TECH:END -->
+ - [Google’s Veo 3 can now generate vertical AI videos](https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support)
+ - [Motorola’s budget Razr is even more affordable now that it’s $100 off](https://www.theverge.com/tech/773288/motorola-razr-2025-superman-4k-ultra-hd-deal-sale)
+ - [New OWC dock has three ethernet ports, multiple Thunderbolt 5, and more](https://appleinsider.com/articles/25/09/09/new-owc-dock-has-three-ethernet-ports-multiple-thunderbolt-5-and-more?utm_source=rss)
+ - [All the Dyson Hair Tools You’ll Ever Need &lpar;2025&rpar;](https://www.wired.com/gallery/best-dyson-hair-tools/)
+ - [Apple iPhone 17 launch event: how to watch](https://www.theverge.com/news/773176/apple-iphone-17-launch-event-watch-time-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and LG partner to bring Xbox Cloud Gaming to cars that use LG&#39;s Automotive Content Platform, including Kia&#39;s EV3 and Sportage models in Europe &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p13#a250909p13)
  - [Investigation: IBM, Dell, Cisco, Oracle, Microsoft, Intel, Nvidia, and other US tech companies helped design and build China&#39;s vast digital surveillance state &lpar;Associated Press&rpar;](http://www.techmeme.com/250909/p12#a250909p12)
  - [Booking.com, Expedia, Airbnb, and others are preparing for AI agents, which could disrupt their booking platforms and upend the $1.6T global travel market &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p11#a250909p11)
- - [A New Platform Is Launching to Protect Public Servants From an Angry Mob](https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/)
- - [Apple Event Live Blog: Updates on iPhone 17, iPhone Air, Apple Watch 11, AirPods Pro 3](https://www.wired.com/live/apple-event-iphone-17-iphone-air/)
- - [US jobseekers describe a hellish job market, with young people using ChatGPT to write applications, HR using AI to read them, and few people getting hired &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/250909/p10#a250909p10)<!-- TECH:END -->
+ - [iOS 26 Cheat Sheet: What to Know About the Upcoming iPhone Update](https://www.cnet.com/tech/services-and-software/ios-26-cheat-sheet-what-to-know-about-the-upcoming-iphone-update/#ftag=CAD590a51e)
+ - [These 18 Popular VPNs Share Parent Companies and Privacy Risks](https://www.cnet.com/tech/services-and-software/these-18-popular-vpns-share-parent-companies-and-privacy-risks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

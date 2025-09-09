@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [There are an incredible amount of new Apple Watch bands with new colors and styles](https://appleinsider.com/articles/25/09/09/there-are-an-incredible-amount-of-new-apple-watch-bands-with-new-colors-and-styles?utm_source=rss)
+ - [Apple&amp;#8217;s newest health-tracking features are coming to older watches](https://www.theverge.com/news/775200/apple-watch-series-9-hypertension-sleep-score-wrist-flick)
  - [The new iPhones have an 18MP Center Stage front camera that features a new square sensor and can use AI to automatically adjust the field of view and rotation &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250909/p51#a250909p51)
  - [Verge staffers react to the iPhone Air: what we love and don’t love](https://www.theverge.com/tech/774831/iphone-air-apple-reactions-thin-camera)
- - [Google announces an AI Plus subscription tier for emerging markets, offering &quot;more access to Gemini 2.5 Pro&quot; and tools like Flow, starting with Indonesia &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250909/p50#a250909p50)
- - [The iPhone 17 Pro’s orange is good — and well-timed](https://www.theverge.com/apple/775186/apple-iphone-17-pro-cosmic-orange-color-good)
- - [Check out the Apple iPhone 17 event with AppleInsider&#39;s in-person coverage](https://appleinsider.com/articles/25/09/09/check-out-the-apple-iphone-17-event-with-appleinsiders-in-person-coverage?utm_source=rss)<!-- TECH:END -->
+ - [Google announces an AI Plus subscription tier for emerging markets, offering &quot;more access to Gemini 2.5 Pro&quot; and tools like Flow, starting with Indonesia &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250909/p50#a250909p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

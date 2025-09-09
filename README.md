@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn!](http://9gag.com/gag/azxBRxq)
- - 😝 [Yes it is](http://9gag.com/gag/aYQdMdN)
- - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [Rabies by the doggies](http://9gag.com/gag/a7oGVbe)<!-- MEMES:END -->
+ - 😝 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
+ - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - 💣 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - 😝 [Romania is a state of mind](http://9gag.com/gag/aVvdL5w)
+ - 👉 [Nnn](http://9gag.com/gag/aW4dbAn)<!-- MEMES:END -->
 
 ---
 

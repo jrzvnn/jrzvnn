@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
- - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 💣 [Yes it is](http://9gag.com/gag/aYQdMdN)
- - 😝 [Uwotm8](http://9gag.com/gag/azxBG3b)
- - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
+ - 😝 [Damn!](http://9gag.com/gag/azxBRxq)
+ - 😝 [Bro said ` I dont want to get fired `](http://9gag.com/gag/abAdBXE)
+ - 💣 [Irishman supporting Palestinian protest by Pakistanis](http://9gag.com/gag/azxBRgm)
+ - 😝 [Nnn](http://9gag.com/gag/aW4dbAn)
+ - 👉 [Precious](http://9gag.com/gag/aMVWzAA)<!-- MEMES:END -->
 
 ---
 

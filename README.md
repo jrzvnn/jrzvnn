@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amnesty: Pakistan is spying on millions via phone tapping and a Chinese-built internet firewall, in one of the broadest surveillance programs outside China &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250909/p5#a250909p5)
+ - [It’s time to change your Plex password again](https://www.theverge.com/news/774188/plex-breach-change-password-email)
  - [How David Sacks emerged as a key advocate for tech, crypto, and AI in the Trump administration, leveraging his tech expertise and All-In media presence &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250909/p4#a250909p4)
  - [50% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)
- - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
- - [Dyson Promo Codes: 20% Off | September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Lenovo Coupon Codes and Deals: Up to $890 Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

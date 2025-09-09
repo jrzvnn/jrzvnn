@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genki will pay Nintendo damages over 3D-printed Switch 2](https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement)
- - [Sources: Ant Group&#39;s Ant Digital Technologies is quietly working to link ~$8.4B of energy infrastructure and other real-world assets to its AntChain blockchain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250909/p9#a250909p9)
- - [A profile of Techmeme, which turns 20 this week yet oddly works and looks as it did in 2005, as its executive-heavy readership expands amid the AI boom &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/250909/p8#a250909p8)
- - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 9, #351](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-9-351/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Booking.com, Expedia, Airbnb, and others are preparing for AI agents, which could disrupt their booking platforms and upend the $1.6T global travel market &lpar;Financial Times&rpar;](http://www.techmeme.com/250909/p11#a250909p11)
+ - [A New Platform Is Launching to Protect Public Servants From an Angry Mob](https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/)
+ - [Apple Event Live Blog: Updates on iPhone 17, iPhone Air, Apple Watch 11, AirPods Pro 3](https://www.wired.com/live/apple-event-iphone-17-iphone-air/)
+ - [US jobseekers describe a hellish job market, with young people using ChatGPT to write applications, HR using AI to read them, and few people getting hired &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/250909/p10#a250909p10)
+ - [Genki will pay Nintendo damages over 3D-printed Switch 2](https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

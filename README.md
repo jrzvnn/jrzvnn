@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - 😝 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
  - 😝 [Casual Friday](http://9gag.com/gag/aE0QWep)
- - 💣 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - 😝 [Nnn](http://9gag.com/gag/aW4dbAn)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 💣 [She didn&#39;t even notice him in the back!](http://9gag.com/gag/aXPd73V)
+ - 😝 [Ignore emojis at start. Notice who always are generous ones](http://9gag.com/gag/an7dEZq)
+ - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
 
 ---
 

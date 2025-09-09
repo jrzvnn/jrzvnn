@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honey badger attacks an elephant.](http://9gag.com/gag/aByvE9A)
- - 😝 [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)
- - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)<!-- MEMES:END -->
+ - 😝 [Controlled NymphO having a day!](http://9gag.com/gag/a1mx54P)
+ - 😝 [These people are incapable of having fun](http://9gag.com/gag/aKGLeP1)
+ - 💣 [The look of pure regret](http://9gag.com/gag/aZZdEyV)
+ - 😝 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
+ - 👉 [I can shave her](http://9gag.com/gag/a7oG9Nb)<!-- MEMES:END -->
 
 ---
 

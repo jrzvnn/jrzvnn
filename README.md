@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain-based lender Figure upsizes its US IPO and now plans to sell 31.5M shares priced between $20 and $22, aiming to raise up to ~$693M, up from $526M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250909/p17#a250909p17)
+ - [Sources: US Cyber Command and the NSA will retain a single leader after the Trump administration found that breaking up the arrangement would be very complex &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/250909/p18#a250909p18)
+ - [Blockchain-based lender Figure upsizes its Nasdaq IPO and now plans to sell 31.5M shares priced between $20 and $22, aiming to raise up to ~$693M, up from $526M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250909/p17#a250909p17)
  - [Hyundai’s out-of-this-world EV concept is a glimpse at the upcoming Ioniq 3](https://www.theverge.com/news/774315/hyundai-concept-three-ev-ioniq-3-star-wars)
  - [Google’s Veo 3 can now generate vertical AI videos](https://www.theverge.com/news/774352/google-veo-3-ai-vertical-video-1080p-support)
- - [Motorola’s budget Razr is even more affordable now that it’s $100 off](https://www.theverge.com/tech/773288/motorola-razr-2025-superman-4k-ultra-hd-deal-sale)
- - [New OWC dock has three ethernet ports, multiple Thunderbolt 5, and more](https://appleinsider.com/articles/25/09/09/new-owc-dock-has-three-ethernet-ports-multiple-thunderbolt-5-and-more?utm_source=rss)<!-- TECH:END -->
+ - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

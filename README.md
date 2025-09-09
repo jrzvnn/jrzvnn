@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows 11 SSD issues blamed on reviewers using &amp;#8216;early versions of firmware&amp;#8217;](https://www.theverge.com/report/774201/phison-windows-11-ssd-issues-early-firmware)
+ - [Hands-on with AI startup Friend&#39;s $129 always-listening pendant: feels like a beefy AirTag, runs Gemini 2.5, gives unhelpful commentary, and makes others uneasy &lpar;Wired&rpar;](http://www.techmeme.com/250909/p6#a250909p6)
  - [Amnesty: Pakistan is spying on millions via phone tapping and a Chinese-built internet firewall, in one of the broadest surveillance programs outside China &lpar;Ariba Shahid/Reuters&rpar;](http://www.techmeme.com/250909/p5#a250909p5)
  - [It’s time to change your Plex password again](https://www.theverge.com/news/774188/plex-breach-change-password-email)
- - [How David Sacks emerged as a key advocate for tech, crypto, and AI in the Trump administration, leveraging his tech expertise and All-In media presence &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250909/p4#a250909p4)
- - [50% Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)
- - [Apple Event 2025: iPhone 17, AirPods Pro 3, Apple Watch Series 11 Live Updates](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How David Sacks emerged as a key advocate for tech, crypto, and AI in the Trump administration, leveraging his tech expertise and All-In media presence &lpar;Ben Smith/Semafor&rpar;](http://www.techmeme.com/250909/p4#a250909p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

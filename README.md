@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is giving iPhone 14 and 15 users another free year of satellite features](https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free)
  - [Synopsys stock falls 20%+ in extended trading after the company said its IP business underperformed in Q3 partly due to US export restrictions to China &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250909/p54#a250909p54)
  - [Evercore hikes Apple stock target to $260 on iPhone Air upgrade hopes](https://appleinsider.com/articles/25/09/09/evercore-hikes-apple-stock-target-to-260-on-iphone-air-upgrade-hopes?utm_source=rss)
  - [macOS Tahoe is getting a new Repair Assistant for part calibration and pairing](https://appleinsider.com/articles/25/09/09/macos-tahoe-is-getting-a-new-repair-assistant-for-part-calibration-and-pairing?utm_source=rss)
- - [Crypto exchange Gemini raises the proposed price range for its US IPO from $17-$19 per share to $24-$26, targeting a valuation of up to $3.08B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250909/p53#a250909p53)
- - [Apple Event 2025 Live Updates: Our Early Reactions to iPhone Air, AirPods Pro 3](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto exchange Gemini raises the proposed price range for its US IPO from $17-$19 per share to $24-$26, targeting a valuation of up to $3.08B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250909/p53#a250909p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

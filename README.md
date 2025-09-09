@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Change it back.. CHANGE IT BACK](http://9gag.com/gag/amod6j2)
  - 😝 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 😝 [Yes it is](http://9gag.com/gag/aYQdMdN)
- - 💣 [Uwotm8](http://9gag.com/gag/azxBG3b)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
+ - 💣 [Netflix: `AKCHEWELLY, the real threat is...`](http://9gag.com/gag/an7d2p5)
+ - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
+ - 👉 [Difference](http://9gag.com/gag/amodMAv)<!-- MEMES:END -->
 
 ---
 

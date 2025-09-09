@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - 😝 [Groove... Groove... Groove...](http://9gag.com/gag/aAymMB9)
+ - 😝 [Honey badger attacks an elephant.](http://9gag.com/gag/aByvE9A)
+ - 😝 [Interacting with the latest DLC Germany NPCs update](http://9gag.com/gag/an7dxN5)
  - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [Girls be Like](http://9gag.com/gag/awy8dND)
- - 👉 [Something probably gonna happened with the hole...](http://9gag.com/gag/aVvdL8O)<!-- MEMES:END -->
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)<!-- MEMES:END -->
 
 ---
 

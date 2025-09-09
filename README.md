@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Just about every detail about the unreleases Powerbeats Fit has been leaked](https://appleinsider.com/articles/25/09/09/just-about-every-detail-about-the-unreleases-powerbeats-fit-has-been-leaked?utm_source=rss)
  - [Apple Store is down ahead of &#39;Awe Dropping&#39; iPhone 17 launch](https://appleinsider.com/articles/25/09/09/apple-store-is-down-ahead-of-awe-dropping-iphone-17-launch?utm_source=rss)
  - [Nvidia is aggressively opposing Republican-led proposals to limit AI chip sales to China, labeling supporters as &quot;AI doomers&quot;, an unconventional lobbying blitz &lpar;New York Times&rpar;](http://www.techmeme.com/250909/p14#a250909p14)
  - [New Beats earbuds leak hours before Apple&amp;#8217;s big event](https://www.theverge.com/news/774250/beats-powerbeats-fit-apple-wireless-earbuds-leak)
- - [Hasan Piker Will Never Run for Office](https://www.wired.com/story/uncanny-valley-podcast-big-interview-hasan-piker/)
- - [Firefox launches ‘shake to summarize’ on iPhones](https://www.theverge.com/news/774129/firefox-shake-to-summarize-ios-ai-launch)<!-- TECH:END -->
+ - [Hasan Piker Will Never Run for Office](https://www.wired.com/story/uncanny-valley-podcast-big-interview-hasan-piker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

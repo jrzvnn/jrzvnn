@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Right-Wing Influencers Are Turning to Foreign Affairs](https://www.wired.com/story/right-wing-influencers-are-turning-to-foreign-affairs/)
+ - [Helsinki-based DataCrunch, which aims to become Europe&#39;s first AI cloud hyperscaler, raised a €55M Series A, bringing its total funding to €76.5M &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250909/p22#a250909p22)
+ - [iPhone 17 event live blog: on the ground at Apple’s keynote](https://www.theverge.com/apple-event/769391/iphone-17-apple-watch-11-ultra-se-airpods-pro-3)
  - [Inside the Man vs. Machine Hackathon](https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/)
- - [All the news from Apple’s iPhone 17 keynote](https://www.theverge.com/news/772434/apple-iphone-17-event-news)
- - [US Taxpayers Will Pay Billions in New Fossil Fuel Subsidies Thanks to the Big Beautiful Bill](https://www.wired.com/story/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/)
- - [Memo: Microsoft mandates staff to return to the office three days per week, starting in late February 2026 for those who live within 50 miles of its Redmond HQ &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p21#a250909p21)
- - [Tesla says its new Megablock can cut costs for renewable energy storage.](https://www.theverge.com/news/774410/tesla-battery-energy-storage-megablock-megapack)<!-- TECH:END -->
+ - [All the news from Apple’s iPhone 17 keynote](https://www.theverge.com/news/772434/apple-iphone-17-event-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

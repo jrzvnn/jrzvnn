@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MagSafe battery resurrected, gives up to 40 hours of use to iPhone Air](https://appleinsider.com/articles/25/09/09/magsafe-battery-resurrected-gives-up-to-40-hours-of-use-to-iphone-air?utm_source=rss)
- - [Apple will launch watchOS 26 on September 15th](https://www.theverge.com/news/772968/apple-watch-watchos-26-release-date-upgrade-september-15)
- - [Apple’s macOS Tahoe 26 update releases September 15th](https://www.theverge.com/news/772630/apple-macos-tahoe-26-update-launch-iphone-event)
- - [Apple reveals iPadOS 26 release date](https://www.theverge.com/news/773018/apple-ipados-26-release-date-launch)
- - [iOS 26 is out on September 15th](https://www.theverge.com/news/770784/apple-ios-26-release-date-liquid-glass)<!-- TECH:END -->
+ - [iPhone 17 Pro is here with hugely improved cooling &amp; unibody frame](https://appleinsider.com/articles/25/09/09/iphone-17-pro-is-here-with-hugely-improved-cooling-unibody-frame?utm_source=rss)
+ - [iPhone Air is here with new Apple modem, slim design, and A19 Pro performance](https://appleinsider.com/articles/25/09/09/iphone-air-is-here-with-new-apple-modem-slim-design-and-a19-pro-performance?utm_source=rss)
+ - [Sources: Microsoft will use Anthropic&#39;s models for some AI features in Office 365 apps, after finding Claude Sonnet 4 outperforms GPT-5 in some tasks &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250909/p35#a250909p35)
+ - [Apple’s using more recycled materials in its iPhones and watches](https://www.theverge.com/news/774547/apple-recycled-material-titanium-iphone-watch)
+ - [Spigen&#39;s iPhone 17 Pro Max clear cases have a solution to that logo problem](https://appleinsider.com/articles/25/09/09/spigens-iphone-17-pro-max-clear-cases-have-a-solution-to-that-logo-problem?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

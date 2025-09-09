@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Microsoft mandates staff to return to the office three days per week, starting in late February 2026 for those who live within 50 miles of its Redmond HQ &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250909/p21#a250909p21)
+ - [Tesla says its new Megablock can cut costs for renewable energy storage.](https://www.theverge.com/news/774410/tesla-battery-energy-storage-megablock-megapack)
+ - [Anthropic&#39;s Claude can now create PDFs, slides, and spreadsheets, available now for Max, Team, and Enterprise users, and coming to Pro users in the coming weeks &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250909/p20#a250909p20)
  - [OLED MacBook Pro expected to have Samsung displays in late 2026](https://appleinsider.com/articles/25/09/09/oled-macbook-pro-expected-to-have-samsung-displays-in-late-2026?utm_source=rss)
- - [Big Tech moves to hedge bets with Democrats ahead of 2026 midterms](https://appleinsider.com/articles/25/09/09/big-tech-moves-to-hedge-bets-with-democrats-ahead-of-2026-midterms?utm_source=rss)
- - [Nvidia unveils Rubin CPX, a new chip system designed for AI tasks like video generation and software creation, set to launch at the end of 2026 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/250909/p19#a250909p19)
- - [Microsoft mandates a return to office](https://www.theverge.com/report/774414/microsoft-return-to-office-policy-announcement)
- - [France vs. Iceland: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-iceland-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big Tech moves to hedge bets with Democrats ahead of 2026 midterms](https://appleinsider.com/articles/25/09/09/big-tech-moves-to-hedge-bets-with-democrats-ahead-of-2026-midterms?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

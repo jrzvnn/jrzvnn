@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Apple Watch Series 11, SE 3, and Ultra 3: SE 3 feels surprisingly similar to the Series 11 and the satellite SOS feature is neat &lpar;The Verge&rpar;](http://www.techmeme.com/250909/p46#a250909p46)
- - [Ramp says it has hit $1B in annualized revenue, after saying it had hit $700M in March; it was valued at $22.5B in July &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250909/p45#a250909p45)
- - [Hands-on with Apple AirPods Pro 3: updated ANC system is impressive, foam ear tips are more comfortable but their fit and feel will take some getting used to &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/250909/p44#a250909p44)
- - [Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3](https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/)
- - [Here’s a first look at the iPhone 17](https://www.theverge.com/hands-on/772556/iphone-17-hands-on-first-look-apple-event-photos-features-price)<!-- TECH:END -->
+ - [How the new memory shield on iPhone 17 makes you even more secure](https://appleinsider.com/articles/25/09/09/how-the-new-memory-shield-on-iphone-17-makes-you-even-more-secure?utm_source=rss)
+ - [Oracle reports Q1 revenue up 12% YoY to $14.93B, vs. $15.04B est., and remaining performance obligations up 359% to $455B; ORCL jumps 19%+ after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250909/p49#a250909p49)
+ - [The iPhone 17 lineup comes with 256GB of base storage, up from 128GB in the iPhone 16 series; for the first time, the Pro Max model offers a 2TB configuration &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250909/p48#a250909p48)
+ - [Google Cloud CEO Thomas Kurian says the division has $106B in unfulfilled customer contract commitments, with an expected revenue of $58B by 2027 &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/250909/p47#a250909p47)
+ - [Hands-on with Apple Watch Series 11, SE 3, and Ultra 3: SE 3 feels surprisingly similar to the Series 11 and the satellite SOS feature is neat &lpar;The Verge&rpar;](http://www.techmeme.com/250909/p46#a250909p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)
- - 😝 [Casual Friday](http://9gag.com/gag/aE0QWep)
- - 💣 [She didn&#39;t even notice him in the back!](http://9gag.com/gag/aXPd73V)
- - 😝 [Ignore emojis at start. Notice who always are generous ones](http://9gag.com/gag/an7dEZq)
- - 👉 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)<!-- MEMES:END -->
+ - 😝 [He raised $64,000 in less than 2 hours before they took it down.](http://9gag.com/gag/a0exnQq)
+ - 😝 [Woman reported to police after a man assaulted her. Police threatened to arrest her for &#39;being offensive&#39; when describing her attacker.](http://9gag.com/gag/aPAp8KV)
+ - 💣 [3 female officers attempted to restrain 1 man, hurting each other during the process](http://9gag.com/gag/amodMx9)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
 
 ---
 

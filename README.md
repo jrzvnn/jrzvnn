@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ignore emojis at start. Notice who always are generous ones](http://9gag.com/gag/an7dEZq)
  - 😝 [Guess who got PAID every time he was released?](http://9gag.com/gag/abAdxOE)
- - 💣 [Finally, a productivity engine that produces everything but productivity](http://9gag.com/gag/aO8jPmv)
- - 😝 [In a world of karens... be a chad...](http://9gag.com/gag/aByvGGQ)
- - 👉 [Nice steps](http://9gag.com/gag/ae9dm3Q)<!-- MEMES:END -->
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)
+ - 💣 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 😝 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
+ - 👉 [Your motivation for the week](http://9gag.com/gag/a87neVY)<!-- MEMES:END -->
 
 ---
 

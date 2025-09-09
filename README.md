@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Just about every detail about the unreleases Powerbeats Fit has been leaked](https://appleinsider.com/articles/25/09/09/just-about-every-detail-about-the-unreleases-powerbeats-fit-has-been-leaked?utm_source=rss)
+ - [Just about every detail about the unreleased Powerbeats Fit has been leaked](https://appleinsider.com/articles/25/09/09/just-about-every-detail-about-the-unreleases-powerbeats-fit-has-been-leaked?utm_source=rss)
+ - [Google pulls the Pixel 10’s Daily Hub to ‘enhance its performance’](https://www.theverge.com/news/774274/google-pulls-the-pixel-10s-daily-hub-to-enhance-its-performance)
  - [Apple Store is down ahead of &#39;Awe Dropping&#39; iPhone 17 launch](https://appleinsider.com/articles/25/09/09/apple-store-is-down-ahead-of-awe-dropping-iphone-17-launch?utm_source=rss)
- - [Nvidia is aggressively opposing Republican-led proposals to limit AI chip sales to China, labeling supporters as &quot;AI doomers&quot;, an unconventional lobbying blitz &lpar;New York Times&rpar;](http://www.techmeme.com/250909/p14#a250909p14)
- - [New Beats earbuds leak hours before Apple&amp;#8217;s big event](https://www.theverge.com/news/774250/beats-powerbeats-fit-apple-wireless-earbuds-leak)
- - [Hasan Piker Will Never Run for Office](https://www.wired.com/story/uncanny-valley-podcast-big-interview-hasan-piker/)<!-- TECH:END -->
+ - [MacOS Tahoe vs. Sequoia: Here&#39;s How Much Liquid Glass Will Change Your Mac&#39;s Icons](https://www.cnet.com/tech/services-and-software/macos-tahoe-vs-sequoia-heres-how-much-liquid-glass-will-change-your-macs-icons/#ftag=CAD590a51e)
+ - [Apple Store Goes Down Ahead of iPhone 17 Event](https://www.cnet.com/tech/mobile/apple-store-goes-down-ahead-of-iphone-17-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

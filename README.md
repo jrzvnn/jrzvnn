@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 and iPhone 15 get an extra year of satellite features for free](https://appleinsider.com/articles/25/09/09/iphone-14-and-iphone-15-get-an-extra-year-of-satellite-features-for-free?utm_source=rss)
+ - [The eight biggest announcements from Apple’s iPhone Air event](https://www.theverge.com/news/774502/apple-biggest-announcements-fall-event-iphone-17-air-pro-max-watch-series-ultra-se-airpods)
+ - [Apple will release iOS 26, iPadOS 26, macOS 26 Tahoe, watchOS 26, tvOS 26, and visionOS 26 on September 15, featuring a Liquid Glass redesign and other updates &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250909/p36#a250909p36)
  - [iPhone 17 Pro is here with hugely improved cooling &amp; unibody frame](https://appleinsider.com/articles/25/09/09/iphone-17-pro-is-here-with-hugely-improved-cooling-unibody-frame?utm_source=rss)
- - [iPhone Air is here with new Apple modem, slim design, and A19 Pro performance](https://appleinsider.com/articles/25/09/09/iphone-air-is-here-with-new-apple-modem-slim-design-and-a19-pro-performance?utm_source=rss)
- - [Sources: Microsoft will use Anthropic&#39;s models for some AI features in Office 365 apps, after finding Claude Sonnet 4 outperforms GPT-5 in some tasks &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/250909/p35#a250909p35)
- - [Apple’s using more recycled materials in its iPhones and watches](https://www.theverge.com/news/774547/apple-recycled-material-titanium-iphone-watch)
- - [Spigen&#39;s iPhone 17 Pro Max clear cases have a solution to that logo problem](https://appleinsider.com/articles/25/09/09/spigens-iphone-17-pro-max-clear-cases-have-a-solution-to-that-logo-problem?utm_source=rss)<!-- TECH:END -->
+ - [iPhone Air is here with new Apple modem, slim design, and A19 Pro performance](https://appleinsider.com/articles/25/09/09/iphone-air-is-here-with-new-apple-modem-slim-design-and-a19-pro-performance?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

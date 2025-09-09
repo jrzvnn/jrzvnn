@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 arrive with heart rate sensing, and best-ever ANC](https://appleinsider.com/articles/25/09/09/airpods-pro-3-arrive-with-heart-rate-sensing-and-best-ever-anc?utm_source=rss)
- - [Apple Watch Series 11 hides hypertension monitoring &amp; better battery in a familiar shell](https://appleinsider.com/articles/25/09/09/apple-watch-series-11-hides-hypertension-monitoring-better-battery-in-a-familiar-shell?utm_source=rss)
- - [Apple announces the Apple Watch Ultra 3](https://www.theverge.com/news/770763/apple-watch-ultra-3-awe-dropping-event)
- - [Apple announces new entry-level Apple Watch SE 3 with always-on display](https://www.theverge.com/news/772862/apple-watch-se-2025-iphone-event-announcement-specs-price)
- - [Apple Watch Series 11 announced with 5G and stronger glass](https://www.theverge.com/news/772872/apple-watch-series-11-specs-features-price-release-date)<!-- TECH:END -->
+ - [Apple unveils the $799+ Apple Watch Ultra 3, which now includes 5G, up to 42 hours of battery life, and satellite connectivity, shipping September 19 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250909/p28#a250909p28)
+ - [Apple Watch SE 3 refreshed with modern design, features, and budget-friendly price](https://appleinsider.com/articles/25/09/09/apple-watch-se-3-refreshed-with-modern-design-features-and-budget-friendly-price?utm_source=rss)
+ - [Apple announces $249+ Apple Watch SE 3, featuring the S10 chip, an always-on display, support for gestures, coming September 19 &lpar;Ben Lovejoy/9to5Mac&rpar;](http://www.techmeme.com/250909/p27#a250909p27)
+ - [Apple’s iPhone 17 is here](https://www.theverge.com/apple/772543/apple-iphone-17-launch-price-availability)
+ - [Apple announces $399+ Apple Watch Series 11, its thinnest watch yet, with support for hypertension detection, Sleep Score, 5G connectivity, and more &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/250909/p26#a250909p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eat me](http://9gag.com/gag/adBdnx9)
- - 😝 [What an odd thing to say..](http://9gag.com/gag/ae9dxwj)
- - 💣 [Something Has Gone Wrong With People](http://9gag.com/gag/aNDqVPr)
- - 😝 [You guys are the reason why we don&#39;t have remote work anymore](http://9gag.com/gag/aPApe9G)
- - 👉 [Screaming intensifies, rage mode activated](http://9gag.com/gag/a6ZxBKm)<!-- MEMES:END -->
+ - 😝 [Damn!](http://9gag.com/gag/azxBRxq)
+ - 😝 [Yes it is](http://9gag.com/gag/aYQdMdN)
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/apRdxb5)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [Rabies by the doggies](http://9gag.com/gag/a7oGVbe)<!-- MEMES:END -->
 
 ---
 

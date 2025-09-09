@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AirPods Pro 3 arrive with heart rate sensing, and best-ever ANC](https://appleinsider.com/articles/25/09/09/airpods-pro-3-arrive-with-heart-rate-sensing-and-best-ever-anc?utm_source=rss)
- - [Apple announces AirPods Pro 3 with ‘world’s best ANC’ and live translation](https://www.theverge.com/news/772410/apple-airpods-pro-3-release-date-pricing-announcement)
- - [A livestream of Apple&#39;s &quot;Awe dropping&quot; event from Apple Park &lpar;Apple on YouTube&rpar;](http://www.techmeme.com/250909/p24#a250909p24)
- - [Lowest price ever: M4 MacBook Pro with 24GB RAM drops to $1,399 &lpar;$400 off&rpar;](https://appleinsider.com/articles/25/09/09/lowest-price-ever-m4-macbook-pro-with-24gb-ram-drops-to-1399-400-off?utm_source=rss)
- - [A live blog of Apple&#39;s &quot;Awe dropping&quot; event, where major iPhone design upgrades, an ultrathin iPhone 17 Air, and three Apple Watch models are expected &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250909/p23#a250909p23)<!-- TECH:END -->
+ - [Apple Watch Series 11 hides hypertension monitoring &amp; better battery in a familiar shell](https://appleinsider.com/articles/25/09/09/apple-watch-series-11-hides-hypertension-monitoring-better-battery-in-a-familiar-shell?utm_source=rss)
+ - [Apple announces the Apple Watch Ultra 3](https://www.theverge.com/news/770763/apple-watch-ultra-3-awe-dropping-event)
+ - [Apple announces new entry-level Apple Watch SE 3 with always-on display](https://www.theverge.com/news/772862/apple-watch-se-2025-iphone-event-announcement-specs-price)
+ - [Apple Watch Series 11 announced with 5G and stronger glass](https://www.theverge.com/news/772872/apple-watch-series-11-specs-features-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

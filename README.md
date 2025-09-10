@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML&#39;s €1.3B investment in Mistral gives the French startup capital and credibility, but it must prove it can survive in a US- and China-dominated AI industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p15#a250910p15)
  - [The EU&#39;s General Court sides with Meta and TikTok in their legal dispute with the EC over the DSA&#39;s 0.05% supervisory fee, saying the EU&#39;s methodology is flawed &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250910/p14#a250910p14)
  - [Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation](https://www.wired.com/story/researchers-create-3d-printed-artificial-skin-that-allows-blood-circulation/)
- - [This Is the First Time Scientists Have Seen Decisionmaking in a Brain](https://www.wired.com/story/this-is-the-first-time-scientists-have-seen-decision-making-in-a-brain/)
- - [iPhone 17 event tidbits: the new MagSafe battery is iPhone Air exclusive, the Air likely uses binned A19 Pro chips, and older AirPods will get Live Translation &lpar;Dan Moren/Six Colors&rpar;](http://www.techmeme.com/250910/p13#a250910p13)
- - [Google says it is scrapping multi-cloud data transfer fees for organizations in the EU and the UK ahead of the EU Data Act taking effect on September 12 &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250910/p12#a250910p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-10/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 10, #352](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-10-352/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

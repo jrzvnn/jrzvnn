@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Right-Wing Activist Charlie Kirk Dead at 31](https://www.wired.com/story/charlie-kirk-obituary/)
  - [Amazon drivers could be wearing AR glasses with a built-in display next year](https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors)
  - [Visit Jupiter and control space and time with visionOS 26](https://appleinsider.com/articles/25/09/10/visit-jupiter-and-control-space-and-time-with-visionos-26?utm_source=rss)
  - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)
- - [Should You Buy an iPhone 16 or iPhone 17? Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-16-or-iphone-17-heres-how-they-compare/#ftag=CAD590a51e)
- - [Apple Event 2025 Live Updates: Our Early Reactions to iPhone Air, AirPods Pro 3](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Should You Buy an iPhone 16 or iPhone 17? Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-16-or-iphone-17-heres-how-they-compare/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

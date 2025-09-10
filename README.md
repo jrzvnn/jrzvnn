@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone buyer&#39;s guide fall 2025: iPhone 17, iPhone 17 Pro, or iPhone Air?](https://appleinsider.com/articles/25/09/10/iphone-buyers-guide-fall-2025-iphone-17-iphone-17-pro-or-iphone-air?utm_source=rss)
  - [Reddit launches free tools for publishers within Reddit Pro to track article performance and get suggestions on which communities to share their stories in &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250910/p38#a250910p38)
  - [Spotify Premium subscribers can now stream in lossless quality after years of waiting](https://appleinsider.com/articles/25/09/10/spotify-premium-subscribers-can-now-stream-in-lossless-quality-after-years-of-waiting?utm_source=rss)
  - [Vimeo to be acquired by Bending Spoons for $1.38 billion](https://www.theverge.com/news/775701/vimeo-bending-spoons-acquisition)
- - [How the 2025 Apple Watch models compare to previous versions](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison)
- - [When Does the Next &#39;South Park&#39; Episode Come Out?](https://www.cnet.com/tech/services-and-software/when-does-the-next-south-park-episode-come-out/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the 2025 Apple Watch models compare to previous versions](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

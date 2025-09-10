@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple isn&amp;#8217;t packing a charging cable in with the AirPods Pro 3](https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box)
+ - [Our Favorite Earbuds for Working Out Are Cheaper Than Ever](https://www.wired.com/story/beats-powerbeats-pro-deal/)
+ - [Microsoft’s AI Chief Says Machine Consciousness Is an &#39;Illusion&#39;](https://www.wired.com/story/microsofts-ai-chief-says-machine-consciousness-is-an-illusion/)
  - [Klarna shares jump 30% in their NYSE debut, opening at $52, above the IPO price of $40, after the company and some of its backers raised $1.37B in the offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p42#a250910p42)
- - [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)
- - [Bluesky brings age verification to South Dakota and Wyoming](https://www.theverge.com/news/775901/bluesky-age-verification-us-south-dakota-wyoming)
- - [Windows developers can now publish apps to Microsoft’s store without fees](https://www.theverge.com/news/775877/windows-developers-microsoft-store-publishing-free)
- - [Blackmagic’s camera dock works with the new iPhone’s professional filmmaking features](https://www.theverge.com/news/775855/blackmagic-design-camera-prodock-iphone-17-pro-filmmakers)<!-- TECH:END -->
+ - [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

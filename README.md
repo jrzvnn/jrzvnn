@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 17 is a screaming deal](https://www.theverge.com/news/775802/apple-iphone-17-deal-compare-pro)
- - [If a $2,000 iPhone 17 Pro Max sounds expensive, just wait for the iPhone Fold](https://appleinsider.com/articles/25/09/10/if-a-2000-iphone-17-pro-max-sounds-expensive-just-wait-for-the-iphone-fold?utm_source=rss)
- - [ByteDance launches Seedream 4.0, an AI image model it claims can beat Google&#39;s viral &quot;nano banana&quot; model in prompt adherence, alignment, and aesthetics &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250910/p40#a250910p40)
- - [Larry Ellison usurps Elon Musk as the world’s richest person](https://www.theverge.com/news/775763/larry-ellison-oracle-elon-musk-richest-person)
- - [OpenAI Brings Back Standard Voice Mode After Revolt](https://www.cnet.com/tech/services-and-software/openai-brings-back-standard-voice-mode-after-revolt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
+ - [Reddit is testing a way to read articles without leaving the app](https://www.theverge.com/news/775722/reddit-news-publishers-beta-articles-analytics)
+ - [Apple and Samsung are battling for smartphone speed supremacy](https://appleinsider.com/articles/25/09/10/apple-and-samsung-are-battling-for-smartphone-speed-supremacy?utm_source=rss)
+ - [The iPhone 17 is a shockingly great deal](https://www.theverge.com/news/775802/apple-iphone-17-deal-compare-pro)
+ - [If a $2,000 iPhone 17 Pro Max sounds expensive, just wait for the iPhone Fold](https://appleinsider.com/articles/25/09/10/if-a-2000-iphone-17-pro-max-sounds-expensive-just-wait-for-the-iphone-fold?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

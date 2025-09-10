@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girls be Like](http://9gag.com/gag/awy8dND)
- - 😝 [You are not mad enough](http://9gag.com/gag/an7dDw0)
- - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
+ - 😝 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
  - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 👉 [Sharing is caring!](http://9gag.com/gag/a9yVOE1)<!-- MEMES:END -->
+ - 💣 [Sharing is caring!](http://9gag.com/gag/a9yVOE1)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [The Simpsons knew it 30 years ago.](http://9gag.com/gag/aE0QXmn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thuma Dupes: Japanese Joinery Bed Frames That Stack Up &lpar;2025&rpar;](https://www.wired.com/gallery/japanese-joinery-bed-frames/)
- - [Kraken opens trading of 60+ tokenized US securities to its EU users, powered by Backed Finance&#39;s xStocks; rwa.xyz says tokenized shares&#39; market value is ~$421M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250910/p18#a250910p18)
- - [Global premium smartphone sales rose 8% YoY in H1 2025, reaching the highest-ever mark for an H1; Apple grew 3% YoY, capturing 62%+ of the overall sales &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/250910/p17#a250910p17)
- - [An analysis of Lightcast, Foote Partners, and PwC studies on job salaries: AI-skilled workers command 19% to 56% higher pay, reflecting &quot;task-based hiring&quot; &lpar;Riley Gutiérrez McDermid/Gizmodo&rpar;](http://www.techmeme.com/250910/p16#a250910p16)
- - [&#39;Only Murders in the Building&#39; Season 5: When to Watch New Episodes](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-when-to-watch-season-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spotify plans to roll out lossless, offering 24-bit / 44.1 kHz FLAC audio, to all Premium users in the next two months, without needing a new higher-priced tier &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250910/p19#a250910p19)
+ - [How to prepare for iPhone 17 preorders and beat the rush](https://appleinsider.com/articles/25/09/10/how-to-prepare-for-iphone-17-preorders-and-beat-the-rush?utm_source=rss)
+ - [Apple&amp;#8217;s misunderstood crossbody iPhone strap might be the best I&amp;#8217;ve seen](https://www.theverge.com/report/775498/apple-iphone-crossbody-strap-magnetic-reaction)
+ - [US Investment in Spyware Is Skyrocketing](https://www.wired.com/story/us-spyware-investment/)
+ - [How eSIMs Work, and How to Switch to One From a Standard SIM](https://www.wired.com/story/how-esims-work-and-how-to-switch-from-standard-sim/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

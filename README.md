@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter to FTC Chair Andrew Ferguson, Sen. Ron Wyden accuses Microsoft of &quot;gross cybersecurity negligence&quot; leading to hospital operator Ascension&#39;s breach &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p22#a250910p22)
- - [Philips Norelco i9000 Shaver Review &lpar;2025&rpar;: A Close Shave](https://www.wired.com/review/philips-norelco-i9000-prestige-ultra-shaver/)
- - [CuspAI, which develops AI foundation models for materials discovery, raised a $100M Series A led by NEA and Temasek, a source says at a ~$520M valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250910/p21#a250910p21)
- - [Quantum startup PsiQuantum raised $1B led by BlackRock, Temasek, and Baillie Gifford at a $7B valuation, up from $3.2B in 2021, to build a 1M-qubit computer &lpar;Financial Times&rpar;](http://www.techmeme.com/250910/p20#a250910p20)
- - [Spotify plans to roll out lossless audio, with 24-bit/44.1 kHz FLAC quality, to Premium users in the next two months, without needing a new higher-priced tier &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250910/p19#a250910p19)<!-- TECH:END -->
+ - [&#39;ChillyHell&#39; backdoor hid in notarized Mac apps for four years](https://appleinsider.com/articles/25/09/10/chillyhell-backdoor-hid-in-notarized-mac-apps-for-four-years?utm_source=rss)
+ - [Lyft partners with Ann Arbor-based May Mobility to let riders in Atlanta request an autonomous minivan, with a safety driver, first in a seven square-mile area &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250910/p23#a250910p23)
+ - [New Blackmagic Camera ProDock is the first to support advanced iPhone 17 Pro video features](https://appleinsider.com/articles/25/09/10/new-blackmagic-camera-prodock-is-the-first-to-support-advanced-iphone-17-pro-video-features?utm_source=rss)
+ - [Hypochlorous Acid Mists Have Entered the Chat &lpar;2025&rpar;](https://www.wired.com/story/hypochlorous-acid-sprays-are-they-worth-it/)
+ - [Blade’s air taxis are coming to the Uber app](https://www.theverge.com/news/774485/joby-blade-uber-evtol-helicopter-air-taxi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ASML&#39;s €1.3B investment in Mistral gives the French startup capital and credibility, but it must prove it can survive in a US- and China-dominated AI industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p15#a250910p15)
- - [The EU&#39;s General Court sides with Meta and TikTok in their legal dispute with the EC over the DSA&#39;s 0.05% supervisory fee, saying the EU&#39;s methodology is flawed &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250910/p14#a250910p14)
- - [Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation](https://www.wired.com/story/researchers-create-3d-printed-artificial-skin-that-allows-blood-circulation/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-10/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 10, #352](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-10-352/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An analysis of Lightcast, Foote Partners, and PwC studies on job salaries: AI-skilled workers command 19% to 56% higher pay, reflecting &quot;task-based hiring&quot; &lpar;Riley Gutiérrez McDermid/Gizmodo&rpar;](http://www.techmeme.com/250910/p16#a250910p16)
+ - [&#39;Only Murders in the Building&#39; Season 5: When to Watch New Episodes](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-when-to-watch-season-5/#ftag=CAD590a51e)
+ - [The Story of British Billionaire Mike Lynch’s Tragic Boat Sinking](https://www.wired.com/story/mike-lynch-sinking-disaster/)
+ - [Zillow’s new AI staging feature is impressively unimpressive](https://www.theverge.com/news/775465/zillow-ai-virtual-staging)
+ - [ASML&#39;s €1.3B investment in Mistral gives the French startup capital and credibility, but it must prove it can survive in a US- and China-dominated AI industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p15#a250910p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

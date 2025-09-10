@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
- - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 💣 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)
- - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 💣 [Rebecca?](http://9gag.com/gag/amodpQ4)
+ - 😝 [Right in the feels](http://9gag.com/gag/aD2PQZZ)
+ - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
 
 ---
 

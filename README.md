@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch&#39;s hypertension notifications and sleep score will come to some older models with watchOS 26; FDA clearance for the notifications is expected soon &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250909/p57#a250909p57)
- - [Apple says the iPhone 17 comes with a massive security upgrade](https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security)
- - [Source: Klarna and some shareholders raised $1.37B in a US IPO that was more than 20x oversubscribed, selling 34.3M shares at $40 each, above the marketed range &lpar;Anthony Hughes/Bloomberg&rpar;](http://www.techmeme.com/250909/p56#a250909p56)
- - [Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years](https://www.wired.com/story/apple-call-screening-ios-26-has-been-on-pixel-for-years/)
- - [A profile of 6-year-old Ramp, which has grown to a $22.5B valuation as it expanded beyond corporate cards to tools for expense reporting, bill payment, and more &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250909/p55#a250909p55)<!-- TECH:END -->
+ - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)
+ - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
+ - [Apple says the iPhone 17 lineup and iPhone Air come with Memory Integrity Enforcement, which provides &quot;industry-first, always-on memory safety protection&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250909/p58#a250909p58)
+ - [More Than 4.4 Million Exposed in Credit Bureau TransUnion Breach: What to Know](https://www.cnet.com/tech/services-and-software/more-than-4-4-million-exposed-in-credit-bureau-transunion-breach/#ftag=CAD590a51e)
+ - [The Apple Watch Series 11 Brings High Blood Pressure Alerts](https://www.cnet.com/tech/mobile/the-apple-watch-series-11-brings-high-blood-pressure-alerts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify plans to roll out lossless, offering 24-bit / 44.1 kHz FLAC audio, to all Premium users in the next two months, without needing a new higher-priced tier &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250910/p19#a250910p19)
+ - [Quantum startup PsiQuantum raised $1B led by BlackRock, Temasek, and Baillie Gifford at a $7B valuation, up from $3.2B in 2021, to build a 1M-qubit computer &lpar;Financial Times&rpar;](http://www.techmeme.com/250910/p20#a250910p20)
+ - [Spotify plans to roll out lossless audio, with 24-bit/44.1 kHz FLAC quality, to Premium users in the next two months, without needing a new higher-priced tier &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250910/p19#a250910p19)
  - [How to prepare for iPhone 17 preorders and beat the rush](https://appleinsider.com/articles/25/09/10/how-to-prepare-for-iphone-17-preorders-and-beat-the-rush?utm_source=rss)
  - [Apple&amp;#8217;s misunderstood crossbody iPhone strap might be the best I&amp;#8217;ve seen](https://www.theverge.com/report/775498/apple-iphone-crossbody-strap-magnetic-reaction)
- - [US Investment in Spyware Is Skyrocketing](https://www.wired.com/story/us-spyware-investment/)
- - [How eSIMs Work, and How to Switch to One From a Standard SIM](https://www.wired.com/story/how-esims-work-and-how-to-switch-from-standard-sim/)<!-- TECH:END -->
+ - [US Investment in Spyware Is Skyrocketing](https://www.wired.com/story/us-spyware-investment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

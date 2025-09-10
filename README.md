@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opendoor names Shopify COO Kaz Nejatian as its CEO, following Carrie Wheeler&#39;s ouster, and taps co-founder Keith Rabois as chairman; OPEN jumps 35%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p49#a250910p49)
  - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
  - [Source: Perplexity has secured commitments from investors for $200M in new funding at a $20B valuation &lpar;The Information&rpar;](http://www.techmeme.com/250910/p48#a250910p48)
  - [OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle](https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate)
- - [YouTube rolls out multi-language audio after a two-year pilot, saying creators saw 25%+ of watch time coming from views in their video&#39;s non-primary language &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250910/p47#a250910p47)
- - [Right-Wing Activist Charlie Kirk Dead at 31](https://www.wired.com/story/charlie-kirk-obituary/)<!-- TECH:END -->
+ - [YouTube rolls out multi-language audio after a two-year pilot, saying creators saw 25%+ of watch time coming from views in their video&#39;s non-primary language &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250910/p47#a250910p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

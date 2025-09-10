@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to FTC Chair Andrew Ferguson, Sen. Ron Wyden accuses Microsoft of &quot;gross cybersecurity negligence&quot; leading to hospital operator Ascension&#39;s breach &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p22#a250910p22)
  - [Philips Norelco i9000 Shaver Review &lpar;2025&rpar;: A Close Shave](https://www.wired.com/review/philips-norelco-i9000-prestige-ultra-shaver/)
  - [CuspAI, which develops AI foundation models for materials discovery, raised a $100M Series A led by NEA and Temasek, a source says at a ~$520M valuation &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250910/p21#a250910p21)
  - [Quantum startup PsiQuantum raised $1B led by BlackRock, Temasek, and Baillie Gifford at a $7B valuation, up from $3.2B in 2021, to build a 1M-qubit computer &lpar;Financial Times&rpar;](http://www.techmeme.com/250910/p20#a250910p20)
- - [Spotify plans to roll out lossless audio, with 24-bit/44.1 kHz FLAC quality, to Premium users in the next two months, without needing a new higher-priced tier &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250910/p19#a250910p19)
- - [How to prepare for iPhone 17 preorders and beat the rush](https://appleinsider.com/articles/25/09/10/how-to-prepare-for-iphone-17-preorders-and-beat-the-rush?utm_source=rss)<!-- TECH:END -->
+ - [Spotify plans to roll out lossless audio, with 24-bit/44.1 kHz FLAC quality, to Premium users in the next two months, without needing a new higher-priced tier &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250910/p19#a250910p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Senator Ted Cruz introduces a bill that would let AI companies apply for exemptions from federal regulations to help them experiment with new technology &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250910/p46#a250910p46)
+ - [Trump is slowing — but not stopping — US greenhouse gas reductions](https://www.theverge.com/news/776032/us-greenhouse-gas-emissions-trump-forecast-rhodium-group)
+ - [Charlie Kirk shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
  - [Analysis: 13+ datasets used by tech companies without permission to train AI models contain 15.8M+ YouTube videos from 2M+ channels, including 1M how-to videos &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250910/p45#a250910p45)
- - [What Time Is the Next Nintendo Direct?: How to Watch September&#39;s Nintendo Direct](https://www.cnet.com/tech/gaming/what-time-is-the-next-nintendo-direct-how-to-watch-septembers-nintendo-direct/#ftag=CAD590a51e)
- - [Charlie Kirk Shot at Utah Valley University Event](https://www.wired.com/story/charlie-kirk-shot-at-utah-valley-university-event/)
- - [Apple Watch Series 11 vs Apple Watch Series 10 -- More battery, less change](https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-apple-watch-series-10----more-battery-less-change?utm_source=rss)
- - [Everything Announced at Apple Event 2025: iPhone Air, iPhone 17, AirPods Pro 3 and New Apple Watches](https://www.cnet.com/tech/mobile/everything-announced-at-apple-event-2025-iphone-air-iphone-17-airpods-pro-3-and-new-apple-watches/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What Time Is the Next Nintendo Direct?: How to Watch September&#39;s Nintendo Direct](https://www.cnet.com/tech/gaming/what-time-is-the-next-nintendo-direct-how-to-watch-septembers-nintendo-direct/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

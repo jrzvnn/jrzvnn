@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
  - [A US Treasury Department document says &quot;digital content creators&quot;, including podcasters, social media influencers, and streamers, are eligible for tax-free tips &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250910/p34#a250910p34)
  - [How the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs)
  - [Amazon and Netflix partner to let advertisers buy Netflix ad inventory via Amazon&#39;s demand-side platform, after Amazon signed a similar deal with Disney in June &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/250910/p33#a250910p33)
- - [DJI’s next modular tiny action camera revealed in leaked images](https://www.theverge.com/news/775588/dji-osmo-nan-modular-magnetic-action-camera-leak)
- - [Israeli chip monitoring startup ProteanTecs raised a $51M Series D led by IAG, with participation from Arm, Samsung, and more, taking its total funding to $250M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250910/p32#a250910p32)<!-- TECH:END -->
+ - [DJI’s next modular tiny action camera revealed in leaked images](https://www.theverge.com/news/775588/dji-osmo-nan-modular-magnetic-action-camera-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

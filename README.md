@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
  - [iPhone 17 lets users turn off screen strobing for better eye comfort](https://appleinsider.com/articles/25/09/10/iphone-17-lets-users-turn-off-screen-strobing-for-better-eye-comfort?utm_source=rss)
  - [US Senator Ted Cruz introduces a bill that would let AI companies apply for exemptions from federal regulations to help them experiment with new technology &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250910/p46#a250910p46)
  - [Trump is slowing — but not stopping — US greenhouse gas reductions](https://www.theverge.com/news/776032/us-greenhouse-gas-emissions-trump-forecast-rhodium-group)
- - [Charlie Kirk shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
  - [Thursday Night Football: How to Watch Commanders vs. Packers](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-commanders-vs-packers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
  - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
  - 💣 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
- - 😝 [In a world without suicidal empathy...](http://9gag.com/gag/aKGLOjQ)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
  - 👉 [You so high](http://9gag.com/gag/aVvdZBO)<!-- MEMES:END -->
 
 ---

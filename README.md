@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ahh, France.](http://9gag.com/gag/a0exEwZ)
- - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
- - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
- - 😝 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)
- - 👉 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)<!-- MEMES:END -->
+ - 😝 [Hold on](http://9gag.com/gag/a0exEOZ)
+ - 😝 [No man no cry..](http://9gag.com/gag/aQzr2Gd)
+ - 💣 [Weasel comes back to help his friend up...](http://9gag.com/gag/avyDv9M)
+ - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
+ - 👉 [I know the rules but he&#39;s a real hero and I wanted to share some good news for once](http://9gag.com/gag/aW4d2Q3)<!-- MEMES:END -->
 
 ---
 

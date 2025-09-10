@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Windows developers can now publish apps to Microsoft’s store without fees](https://www.theverge.com/news/775877/windows-developers-microsoft-store-publishing-free)
+ - [Blackmagic’s camera dock works with the new iPhone’s professional filmmaking features](https://www.theverge.com/news/775855/blackmagic-design-camera-prodock-iphone-17-pro-filmmakers)
+ - [We tested six smart rings, and there’s a clear winner](https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables)
  - [3 Exciting Camera Features on Apple&#39;s New iPhone 17 Lineup](https://www.wired.com/story/exciting-camera-features-on-apples-new-iphone-17-lineup/)
- - [Bluesky says it will comply with age-verification laws in South Dakota and Wyoming because they strike the &quot;right balance&quot;, after exiting Mississippi &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250910/p41#a250910p41)
- - [Here&amp;#8217;s everything you need to know about preordering the 2025 iPhone lineup](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
- - [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
- - [Reddit is testing a way to read articles without leaving the app](https://www.theverge.com/news/775722/reddit-news-publishers-beta-articles-analytics)<!-- TECH:END -->
+ - [Bluesky says it will comply with age-verification laws in South Dakota and Wyoming because they strike the &quot;right balance&quot;, after exiting Mississippi &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250910/p41#a250910p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

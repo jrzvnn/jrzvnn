@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 😝 [A video of a reggae concert that the city mismanaged.](http://9gag.com/gag/aPApXwn)
- - 💣 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)
- - 😝 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 😝 [Sometimes life just needs a background music](http://9gag.com/gag/aRByOYj)
+ - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
+ - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
 
 ---
 

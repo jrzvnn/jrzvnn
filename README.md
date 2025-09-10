@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple’s new iPhone 17 compares to the last-gen iPhone 16](https://www.theverge.com/tech/772987/iphone-16-vs-17-comparison-specs-price-features)
- - [The Ferrari Testarossa returns as a plug-in hyrbid with 1035hp](https://www.theverge.com/news/775545/ferrari-testarossa-hybrid-speed-specs-price)
- - [Melania Trump’s AI Era Is Upon Us](https://www.wired.com/story/melania-trumps-ai-era-is-upon-us/)
- - [How all the 2025 iPhone models compare on paper](https://www.theverge.com/tech/773085/iphone-17-pro-max-air-comparison-specs-price-features)
- - [Eufy’s video doorbell smart lock combo is back to its all-time low price](https://www.theverge.com/tech/775514/eufy-familock-s3-max-eero-7-wifi-router-deal-sale)<!-- TECH:END -->
+ - [Reddit launches free tools for publishers within Reddit Pro to track article performance and get suggestions on which communities to share their stories in &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250910/p38#a250910p38)
+ - [Spotify Premium subscribers can now stream in lossless quality after years of waiting](https://appleinsider.com/articles/25/09/10/spotify-premium-subscribers-can-now-stream-in-lossless-quality-after-years-of-waiting?utm_source=rss)
+ - [Vimeo to be acquired by Bending Spoons for $1.38 billion](https://www.theverge.com/news/775701/vimeo-bending-spoons-acquisition)
+ - [How the 2025 Apple Watch models compare to previous versions](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison)
+ - [When Does the Next &#39;South Park&#39; Episode Come Out?](https://www.cnet.com/tech/services-and-software/when-does-the-next-south-park-episode-come-out/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

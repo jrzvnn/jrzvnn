@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - 😝 [Uploading my old 9gag collection 96](http://9gag.com/gag/aByvG81)
- - 💣 [Man just wanted some meatballs](http://9gag.com/gag/adBdeMZ)
- - 😝 [No man no cry..](http://9gag.com/gag/aQzr2Gd)
- - 👉 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)<!-- MEMES:END -->
+ - 😝 [This just in](http://9gag.com/gag/ayNzQKM)
+ - 😝 [I can shave her](http://9gag.com/gag/a7oG9Nb)
+ - 💣 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 👉 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)<!-- MEMES:END -->
 
 ---
 

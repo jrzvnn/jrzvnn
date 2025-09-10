@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thuma Dupes: Japanese Joinery Bed Frames That Stack Up &lpar;2025&rpar;](https://www.wired.com/gallery/japanese-joinery-bed-frames/)
+ - [Kraken opens trading of 60+ tokenized US securities to its EU users, powered by Backed Finance&#39;s xStocks; rwa.xyz says tokenized shares&#39; market value is ~$421M &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/250910/p18#a250910p18)
+ - [Global premium smartphone sales rose 8% YoY in H1 2025, reaching the highest-ever mark for an H1; Apple grew 3% YoY, capturing 62%+ of the overall sales &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/250910/p17#a250910p17)
  - [An analysis of Lightcast, Foote Partners, and PwC studies on job salaries: AI-skilled workers command 19% to 56% higher pay, reflecting &quot;task-based hiring&quot; &lpar;Riley Gutiérrez McDermid/Gizmodo&rpar;](http://www.techmeme.com/250910/p16#a250910p16)
- - [&#39;Only Murders in the Building&#39; Season 5: When to Watch New Episodes](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-when-to-watch-season-5/#ftag=CAD590a51e)
- - [The Story of British Billionaire Mike Lynch’s Tragic Boat Sinking](https://www.wired.com/story/mike-lynch-sinking-disaster/)
- - [Zillow’s new AI staging feature is impressively unimpressive](https://www.theverge.com/news/775465/zillow-ai-virtual-staging)
- - [ASML&#39;s €1.3B investment in Mistral gives the French startup capital and credibility, but it must prove it can survive in a US- and China-dominated AI industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p15#a250910p15)<!-- TECH:END -->
+ - [&#39;Only Murders in the Building&#39; Season 5: When to Watch New Episodes](https://www.cnet.com/tech/services-and-software/only-murders-in-the-building-when-to-watch-season-5/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
  - 😝 [Impersonation](http://9gag.com/gag/a9yVOoD)
- - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 💣 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 😝 [Me in 2025, nervously checking the row behind me for the latest systematically oppressed schoolar, making sure his thesis project doesn\u2019t involve a kitchen knife in my jugular.](http://9gag.com/gag/avyD9q5)
+ - 💣 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 😝 [90% crime posts 10% other. While we should post about it, but its out of balance](http://9gag.com/gag/aKGLKo6)
  - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
 
 ---

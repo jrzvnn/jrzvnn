@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Visit Jupiter and control space and time with visionOS 26](https://appleinsider.com/articles/25/09/10/visit-jupiter-and-control-space-and-time-with-visionos-26?utm_source=rss)
  - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)
- - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
- - [iPhone 17 lets users turn off screen strobing for better eye comfort](https://appleinsider.com/articles/25/09/10/iphone-17-lets-users-turn-off-screen-strobing-for-better-eye-comfort?utm_source=rss)
- - [US Senator Ted Cruz introduces a bill that would let AI companies apply for exemptions from federal regulations to help them experiment with new technology &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250910/p46#a250910p46)
- - [Trump is slowing — but not stopping — US greenhouse gas reductions](https://www.theverge.com/news/776032/us-greenhouse-gas-emissions-trump-forecast-rhodium-group)<!-- TECH:END -->
+ - [Should You Buy an iPhone 16 or iPhone 17? Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-16-or-iphone-17-heres-how-they-compare/#ftag=CAD590a51e)
+ - [Apple Event 2025 Live Updates: Our Early Reactions to iPhone Air, AirPods Pro 3](https://www.cnet.com/tech/mobile/apple-event-2025-iphone-17-airpods-pro-3-apple-watch-series-11-live-updates/#ftag=CAD590a51e)
+ - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The stocks of Strategy copycats, companies buying crypto for their treasuries, are falling, as some struggle with little differentiation and rising volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p8#a250910p8)
  - [How AlphaFold2 and the rise of generative AI kickstarted a new AI drug discovery boom after a spate of startups from the mid-2010s failed to live up to the hype &lpar;Financial Times&rpar;](http://www.techmeme.com/250910/p7#a250910p7)
  - [Sources: Meta&#39;s TBD Lab team sits in an area near Zuckerberg&#39;s desk that requires special badge access and their names are not visible on the internal org chart &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250910/p6#a250910p6)
  - [Alibaba&#39;s mapping app Amap launches its own ranking of restaurants, hotels, and tourist destinations, intensifying its competition with Chinese rival Meituan &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250910/p5#a250910p5)
- - [Nikon&amp;#8217;s first RED co-brand is the Nikon ZR](https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr)
- - [Leaked docs: Chinese network-monitoring provider Geedge Networks has sold Great Firewall-style censorship systems to at least four countries, including Pakistan &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250910/p4#a250910p4)<!-- TECH:END -->
+ - [Nikon&amp;#8217;s first RED co-brand is the Nikon ZR](https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

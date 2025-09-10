@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 😝 [Nice steps](http://9gag.com/gag/ae9dm3Q)
  - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 💣 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [You so high](http://9gag.com/gag/aVvdZBO)<!-- MEMES:END -->
+ - 💣 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
+ - 😝 [Hold on](http://9gag.com/gag/a0exEOZ)
+ - 👉 [Nnn](http://9gag.com/gag/aW4dbAn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
- - 😝 [Girls be Like](http://9gag.com/gag/awy8dND)
- - 💣 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)<!-- MEMES:END -->
+ - 😝 [Hold on](http://9gag.com/gag/a0exEOZ)
+ - 😝 [No man no cry..](http://9gag.com/gag/aQzr2Gd)
+ - 💣 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)
+ - 😝 [Pilots from the Netherlands helped protect Polish airspace as part of NATO alliance operations. Thank you.](http://9gag.com/gag/aryd2r6)
+ - 👉 [Weasel comes back to help his friend up...](http://9gag.com/gag/avyDv9M)<!-- MEMES:END -->
 
 ---
 

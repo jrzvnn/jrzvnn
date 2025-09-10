@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This just in](http://9gag.com/gag/ayNzQKM)
  - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
- - 💣 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 😝 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
+ - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
+ - 💣 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
+ - 😝 [In a world without suicidal empathy...](http://9gag.com/gag/aKGLOjQ)
  - 👉 [You so high](http://9gag.com/gag/aVvdZBO)<!-- MEMES:END -->
 
 ---

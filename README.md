@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
  - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 💣 [A video of a reggae concert that the city mismanaged.](http://9gag.com/gag/aPApXwn)
- - 😝 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)
- - 👉 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)<!-- MEMES:END -->
+ - 😝 [A video of a reggae concert that the city mismanaged.](http://9gag.com/gag/aPApXwn)
+ - 💣 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)
+ - 😝 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 

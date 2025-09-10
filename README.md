@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based Nebius Group plans to raise $2B in convertible notes and $1B in equity to help it expand after signing an up to $17.4B+ deal with Microsoft &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p35#a250910p35)
- - [Dust Bunny is a family-friendly horror from the creator of Hannibal](https://www.theverge.com/toronto-international-film-festival/775552/tiff-2025-reviews-dust-bunny-smashing-machine)
- - [The Best Meta Quest Games You Can Play Right Now &lpar;2025&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-games/)
- - [A US Treasury Department document says &quot;digital content creators&quot;, including podcasters, social media influencers, and streamers, are eligible for tax-free tips &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250910/p34#a250910p34)
- - [How the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs)<!-- TECH:END -->
+ - [How Apple’s new iPhone 17 compares to the last-gen iPhone 16](https://www.theverge.com/tech/772987/iphone-16-vs-17-comparison-specs-price-features)
+ - [The Ferrari Testarossa returns as a plug-in hyrbid with 1035hp](https://www.theverge.com/news/775545/ferrari-testarossa-hybrid-speed-specs-price)
+ - [Melania Trump’s AI Era Is Upon Us](https://www.wired.com/story/melania-trumps-ai-era-is-upon-us/)
+ - [How all the 2025 iPhone models compare on paper](https://www.theverge.com/tech/773085/iphone-17-pro-max-air-comparison-specs-price-features)
+ - [Eufy’s video doorbell smart lock combo is back to its all-time low price](https://www.theverge.com/tech/775514/eufy-familock-s3-max-eero-7-wifi-router-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

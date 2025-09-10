@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stability AI launches Stable Audio 2.5, which the company claims is the first audio generation model designed for &quot;enterprise-grade use cases&quot; &lpar;Sean Michael Kerner/Venturebeat&rpar;](http://www.techmeme.com/250910/p39#a250910p39)
- - [The blind box trend comes to tech with this tiny digital Kodak camera](https://www.theverge.com/news/775679/kodak-reto-charmera-digital-keychain-camera-blind-bag)
- - [iPhone buyer&#39;s guide fall 2025: iPhone 17, iPhone 17 Pro, or iPhone Air?](https://appleinsider.com/articles/25/09/10/iphone-buyers-guide-fall-2025-iphone-17-iphone-17-pro-or-iphone-air?utm_source=rss)
- - [Reddit launches free tools for publishers within Reddit Pro to track article performance and get suggestions on which communities to share their stories in &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250910/p38#a250910p38)
- - [Spotify Premium subscribers can now stream in lossless quality after years of waiting](https://appleinsider.com/articles/25/09/10/spotify-premium-subscribers-can-now-stream-in-lossless-quality-after-years-of-waiting?utm_source=rss)<!-- TECH:END -->
+ - [Larry Ellison usurps Elon Musk as the world’s richest person](https://www.theverge.com/news/775763/larry-ellison-oracle-elon-musk-richest-person)
+ - [OpenAI Brings Back Standard Voice Mode After Revolt](https://www.cnet.com/tech/services-and-software/openai-brings-back-standard-voice-mode-after-revolt/#ftag=CAD590a51e)
+ - [A bombshell child safety leak changed Meta — it got worse](https://www.theverge.com/policy/775623/meta-whistleblowers-hearing-virtual-reality)
+ - [Anonymity is dead and we’re all content now](https://www.theverge.com/internet-culture/775740/anonymity-privacy-filming-viral-tiktok)
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

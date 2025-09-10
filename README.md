@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [US Senator Ted Cruz introduces a bill that would let AI companies apply for exemptions from federal regulations to help them experiment with new technology &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250910/p46#a250910p46)
  - [Trump is slowing — but not stopping — US greenhouse gas reductions](https://www.theverge.com/news/776032/us-greenhouse-gas-emissions-trump-forecast-rhodium-group)
  - [Charlie Kirk shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
- - [Analysis: 13+ datasets used by tech companies without permission to train AI models contain 15.8M+ YouTube videos from 2M+ channels, including 1M how-to videos &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250910/p45#a250910p45)<!-- TECH:END -->
+ - [Thursday Night Football: How to Watch Commanders vs. Packers](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-commanders-vs-packers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it is scrapping multi-cloud data transfer fees for organizations in the EU and the UK ahead of the EU Data Act taking effect on September 12 &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250910/p12#a250910p12)
+ - [Arm launches four Lumex compute subsystem CPU architectures to improve on-device AI on smartphones, PCs, and wearables, and unveils the new Mali G1-Ultra GPU &lpar;Ben Funk/HotHardware&rpar;](http://www.techmeme.com/250910/p11#a250910p11)
+ - [At the Man vs. Machine hackathon, co-hosted by AI nonprofit METR to test if AI helps people code faster and better, the top prize went to an &quot;AI-supported&quot; team &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250910/p10#a250910p10)
  - [How AI is upending the music industry in Latin America, as artists push back against a flood of AI-generated music on Spotify, Deezer, and YouTube Music &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250910/p9#a250910p9)
- - [The stocks of Strategy copycats, companies buying crypto for their treasuries, are falling, as some struggle with little differentiation and rising volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p8#a250910p8)
- - [How AlphaFold2 and the rise of generative AI kickstarted a new AI drug discovery boom after a spate of startups from the mid-2010s failed to live up to the hype &lpar;Financial Times&rpar;](http://www.techmeme.com/250910/p7#a250910p7)
- - [Sources: Meta&#39;s TBD Lab team sits in an area near Zuckerberg&#39;s desk that requires special badge access and their names are not visible on the internal org chart &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250910/p6#a250910p6)
- - [Alibaba&#39;s mapping app Amap launches its own ranking of restaurants, hotels, and tourist destinations, intensifying its competition with Chinese rival Meituan &lpar;Casey Hall/Reuters&rpar;](http://www.techmeme.com/250910/p5#a250910p5)<!-- TECH:END -->
+ - [The stocks of Strategy copycats, companies buying crypto for their treasuries, are falling, as some struggle with little differentiation and rising volatility &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p8#a250910p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Apple&#39;s March update to its AI training guidelines for data annotators marked DEI as a &quot;controversial&quot; topic and removed intolerance as &quot;harmful&quot; behavior &lpar;Océane Herrero/Politico&rpar;](http://www.techmeme.com/250909/p60#a250909p60)
  - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)
  - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
  - [Apple says the iPhone 17 lineup and iPhone Air come with Memory Integrity Enforcement, which provides &quot;industry-first, always-on memory safety protection&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250909/p58#a250909p58)
- - [More Than 4.4 Million Exposed in Credit Bureau TransUnion Breach: What to Know](https://www.cnet.com/tech/services-and-software/more-than-4-4-million-exposed-in-credit-bureau-transunion-breach/#ftag=CAD590a51e)
- - [The Apple Watch Series 11 Brings High Blood Pressure Alerts](https://www.cnet.com/tech/mobile/the-apple-watch-series-11-brings-high-blood-pressure-alerts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More Than 4.4 Million Exposed in Credit Bureau TransUnion Breach: What to Know](https://www.cnet.com/tech/services-and-software/more-than-4-4-million-exposed-in-credit-bureau-transunion-breach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

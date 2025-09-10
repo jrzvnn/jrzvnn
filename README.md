@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluesky says it will comply with age-verification laws in South Dakota and Wyoming because they strike the &quot;right balance&quot;, after exiting Mississippi &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250910/p41#a250910p41)
+ - [Here&amp;#8217;s everything you need to know about preordering the 2025 iPhone lineup](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
  - [How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
  - [Reddit is testing a way to read articles without leaving the app](https://www.theverge.com/news/775722/reddit-news-publishers-beta-articles-analytics)
- - [Apple and Samsung are battling for smartphone speed supremacy](https://appleinsider.com/articles/25/09/10/apple-and-samsung-are-battling-for-smartphone-speed-supremacy?utm_source=rss)
- - [The iPhone 17 is a shockingly great deal](https://www.theverge.com/news/775802/apple-iphone-17-deal-compare-pro)
- - [If a $2,000 iPhone 17 Pro Max sounds expensive, just wait for the iPhone Fold](https://appleinsider.com/articles/25/09/10/if-a-2000-iphone-17-pro-max-sounds-expensive-just-wait-for-the-iphone-fold?utm_source=rss)<!-- TECH:END -->
+ - [Apple and Samsung are battling for smartphone speed supremacy](https://appleinsider.com/articles/25/09/10/apple-and-samsung-are-battling-for-smartphone-speed-supremacy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

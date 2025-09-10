@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple extends free access to satellite connectivity features for an additional year for existing iPhone 14 and iPhone 15 users &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250910/p44#a250910p44)
  - [iPhone 17 is just the start, Apple&#39;s busiest upgrade wave in years has just begun](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
  - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
  - [SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026](https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/)
- - [You can preorder the AirPods Pro 3 right now](https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart)
- - [Sources: OpenAI signed a contract with Oracle to purchase $300B in computing power, requiring 4.5 gigawatts of capacity, over roughly five years &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p43#a250910p43)<!-- TECH:END -->
+ - [You can preorder the AirPods Pro 3 right now](https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

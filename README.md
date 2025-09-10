@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Priorities](http://9gag.com/gag/aPApQ2Q)
- - 😝 [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
- - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 👉 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)<!-- MEMES:END -->
+ - 😝 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
+ - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 💣 [Yeah she looks tired thats for sure](http://9gag.com/gag/aryd2E5)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
+ - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
 
 ---
 

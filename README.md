@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked docs: Chinese network-monitoring provider Geedge Networks has sold Great Firewall-style censorship systems to at least four countries, including Pakistan &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/250910/p4#a250910p4)
  - [The Trump administration&#39;s Big Tech courtship and its efforts to accelerate AI adoption across the US are alarming populists in the president&#39;s base &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/250910/p3#a250910p3)
  - [The Players&#39; Tribune owner Minute Media acquires VideoVerse, whose AI tools let broadcasters extract highlights from sports footage, sources say for $200M-$250M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250910/p2#a250910p2)
  - [Robinhood announces an in-app feed where users can follow and copy verified trades of other investors and public figures, rolling out in beta in Q1 2026 &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p1#a250910p1)
- - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
- - [Memo: Apple&#39;s March update to its AI training guidelines for data annotators marked DEI as a &quot;controversial&quot; topic and removed intolerance as &quot;harmful&quot; behavior &lpar;Océane Herrero/Politico&rpar;](http://www.techmeme.com/250909/p60#a250909p60)<!-- TECH:END -->
+ - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

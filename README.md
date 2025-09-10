@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Apple&#39;s March update to its AI training guidelines for data annotators marked DEI as a &quot;controversial&quot; topic and removed intolerance as &quot;harmful&quot; behavior &lpar;Océane Herrero/Politico&rpar;](http://www.techmeme.com/250909/p60#a250909p60)
- - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)
  - [Watch WIRED’s ‘Uncanny Valley’ Live](https://www.wired.com/story/uncanny-valley-live-show-san-francisco/)
- - [Apple says the iPhone 17 lineup and iPhone Air come with Memory Integrity Enforcement, which provides &quot;industry-first, always-on memory safety protection&quot; &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/250909/p58#a250909p58)
- - [More Than 4.4 Million Exposed in Credit Bureau TransUnion Breach: What to Know](https://www.cnet.com/tech/services-and-software/more-than-4-4-million-exposed-in-credit-bureau-transunion-breach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo: Apple&#39;s March update to its AI training guidelines for data annotators marked DEI as a &quot;controversial&quot; topic and removed intolerance as &quot;harmful&quot; behavior &lpar;Océane Herrero/Politico&rpar;](http://www.techmeme.com/250909/p60#a250909p60)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-10/#ftag=CAD590a51e)
+ - [Sources: Sequoia stands to gain about $2.65B in Klarna&#39;s IPO, a six-fold return on its total investment of ~$500M; it is selling ~2% of its stake in the IPO &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/250909/p59#a250909p59)
+ - [The Top Android Phones of 2026 Could Get Better AI With Arm&#39;s New CPUs](https://www.cnet.com/tech/mobile/the-top-android-phones-of-2026-could-get-better-ai-with-arms-new-cpus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;ChillyHell&#39; backdoor hid in notarized Mac apps for four years](https://appleinsider.com/articles/25/09/10/chillyhell-backdoor-hid-in-notarized-mac-apps-for-four-years?utm_source=rss)
- - [Lyft partners with Ann Arbor-based May Mobility to let riders in Atlanta request an autonomous minivan, with a safety driver, first in a seven square-mile area &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250910/p23#a250910p23)
- - [New Blackmagic Camera ProDock is the first to support advanced iPhone 17 Pro video features](https://appleinsider.com/articles/25/09/10/new-blackmagic-camera-prodock-is-the-first-to-support-advanced-iphone-17-pro-video-features?utm_source=rss)
- - [Hypochlorous Acid Mists Have Entered the Chat &lpar;2025&rpar;](https://www.wired.com/story/hypochlorous-acid-sprays-are-they-worth-it/)
- - [Blade’s air taxis are coming to the Uber app](https://www.theverge.com/news/774485/joby-blade-uber-evtol-helicopter-air-taxi)<!-- TECH:END -->
+ - [Reddit removes visible subscriber counts from subreddit pages, replacing it with seven-day active visitors or contributions, to better reflect user activity &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250910/p26#a250910p26)
+ - [Bain Capital agrees to sell its data centers in China to a consortium led by Shanghai-listed Shenzhen Dongyangguang in a ~$4B deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p25#a250910p25)
+ - [Hands on from Apple Park: iPhone 17 Pro, iPhone Air, AirPods Pro 3, Apple Watch](https://appleinsider.com/articles/25/09/10/hands-on-from-apple-park-iphone-17-pro-iphone-air-airpods-pro-3-apple-watch?utm_source=rss)
+ - [Reddit is dropping subscriber counts on subreddits](https://www.theverge.com/news/775524/reddit-subreddit-member-count-vistors-contributions)
+ - [Uber plans to add Blade helicopter rides as soon as 2026 via a partnership with electric air taxi maker Joby Aviation, which acquired Blade for $125M in August &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250910/p24#a250910p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

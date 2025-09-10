@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No man no cry..](http://9gag.com/gag/aQzr2Gd)
- - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 💣 [Hold on](http://9gag.com/gag/a0exEOZ)
- - 😝 [Its true!](http://9gag.com/gag/a1mxLzb)
- - 👉 [Weasel comes back to help his friend up...](http://9gag.com/gag/avyDv9M)<!-- MEMES:END -->
+ - 😝 [This just in](http://9gag.com/gag/ayNzQKM)
+ - 😝 [I can shave her](http://9gag.com/gag/a7oG9Nb)
+ - 💣 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 👉 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)<!-- MEMES:END -->
 
 ---
 

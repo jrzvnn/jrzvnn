@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna shares jump 30% in their NYSE debut, opening at $52, above the IPO price of $40, after the company and some of its backers raised $1.37B in the offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p42#a250910p42)
  - [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)
  - [Bluesky brings age verification to South Dakota and Wyoming](https://www.theverge.com/news/775901/bluesky-age-verification-us-south-dakota-wyoming)
  - [Windows developers can now publish apps to Microsoft’s store without fees](https://www.theverge.com/news/775877/windows-developers-microsoft-store-publishing-free)
- - [Blackmagic’s camera dock works with the new iPhone’s professional filmmaking features](https://www.theverge.com/news/775855/blackmagic-design-camera-prodock-iphone-17-pro-filmmakers)
- - [We tested six smart rings, and there’s a clear winner](https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables)<!-- TECH:END -->
+ - [Blackmagic’s camera dock works with the new iPhone’s professional filmmaking features](https://www.theverge.com/news/775855/blackmagic-design-camera-prodock-iphone-17-pro-filmmakers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

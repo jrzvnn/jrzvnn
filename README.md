@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Electrolyte Powders &lpar;2025&rpar;: Tasty and Effective](https://www.wired.com/gallery/best-electrolyte-powders/)
- - [Brain Co., co-founded by Jared Kushner, Elad Gil, and others to help enterprises and governments use AI, comes out of stealth with a $30M Series A &lpar;Forbes&rpar;](http://www.techmeme.com/250910/p31#a250910p31)
- - [Bending Spoons agrees to acquire video platform Vimeo in an all-cash deal valued at ~$1.38B, set to close in Q4; Vimeo will be delisted from exchanges &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/250910/p30#a250910p30)
- - [Sources: Amazon is developing consumer AR glasses codenamed Jayhawk with microphones, speakers, a camera, and color display, set for late 2026 or early 2027 &lpar;The Information&rpar;](http://www.techmeme.com/250910/p29#a250910p29)
- - [Reddit, Yahoo, Medium, Quora, People, O&#39;Reilly, wikiHow, Ziff Davis, and others adopt the Really Simple Licensing &lpar;RSL&rpar; Standard to set terms for AI scraping &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250910/p28#a250910p28)<!-- TECH:END -->
+ - [A US Treasury Department document says &quot;digital content creators&quot;, including podcasters, social media influencers, and streamers, are eligible for tax-free tips &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/250910/p34#a250910p34)
+ - [How the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/tech/770868/apple-airpods-pro-3-max-which-to-buy-price-specs)
+ - [Amazon and Netflix partner to let advertisers buy Netflix ad inventory via Amazon&#39;s demand-side platform, after Amazon signed a similar deal with Disney in June &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/250910/p33#a250910p33)
+ - [DJI’s next modular tiny action camera revealed in leaked images](https://www.theverge.com/news/775588/dji-osmo-nan-modular-magnetic-action-camera-leak)
+ - [Israeli chip monitoring startup ProteanTecs raised a $51M Series D led by IAG, with participation from Arm, Samsung, and more, taking its total funding to $250M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250910/p32#a250910p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

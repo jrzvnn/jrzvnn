@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stability AI launches Stable Audio 2.5, which the company claims is the first audio generation model designed for &quot;enterprise-grade use cases&quot; &lpar;Sean Michael Kerner/Venturebeat&rpar;](http://www.techmeme.com/250910/p39#a250910p39)
+ - [The blind box trend comes to tech with this tiny digital Kodak camera](https://www.theverge.com/news/775679/kodak-reto-charmera-digital-keychain-camera-blind-bag)
  - [iPhone buyer&#39;s guide fall 2025: iPhone 17, iPhone 17 Pro, or iPhone Air?](https://appleinsider.com/articles/25/09/10/iphone-buyers-guide-fall-2025-iphone-17-iphone-17-pro-or-iphone-air?utm_source=rss)
  - [Reddit launches free tools for publishers within Reddit Pro to track article performance and get suggestions on which communities to share their stories in &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250910/p38#a250910p38)
- - [Spotify Premium subscribers can now stream in lossless quality after years of waiting](https://appleinsider.com/articles/25/09/10/spotify-premium-subscribers-can-now-stream-in-lossless-quality-after-years-of-waiting?utm_source=rss)
- - [Vimeo to be acquired by Bending Spoons for $1.38 billion](https://www.theverge.com/news/775701/vimeo-bending-spoons-acquisition)
- - [How the 2025 Apple Watch models compare to previous versions](https://www.theverge.com/tech/775584/apple-watch-series-11-ultra-3-se-specs-comparison)<!-- TECH:END -->
+ - [Spotify Premium subscribers can now stream in lossless quality after years of waiting](https://appleinsider.com/articles/25/09/10/spotify-premium-subscribers-can-now-stream-in-lossless-quality-after-years-of-waiting?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

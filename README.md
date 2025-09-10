@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube rolls out multi-language audio after a two-year pilot, saying creators saw 25%+ of watch time coming from views in their video&#39;s non-primary language &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250910/p47#a250910p47)
  - [Right-Wing Activist Charlie Kirk Dead at 31](https://www.wired.com/story/charlie-kirk-obituary/)
  - [Amazon drivers could be wearing AR glasses with a built-in display next year](https://www.theverge.com/news/776155/amazon-augmented-reality-glasses-jayhawk-launch-rumors)
  - [Visit Jupiter and control space and time with visionOS 26](https://appleinsider.com/articles/25/09/10/visit-jupiter-and-control-space-and-time-with-visionos-26?utm_source=rss)
- - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)
- - [Should You Buy an iPhone 16 or iPhone 17? Here&#39;s How They Compare](https://www.cnet.com/tech/mobile/should-you-buy-an-iphone-16-or-iphone-17-heres-how-they-compare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years](https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

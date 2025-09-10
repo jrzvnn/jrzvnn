@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 😝 [Sometimes life just needs a background music](http://9gag.com/gag/aRByOYj)
- - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
- - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
+ - 😝 [This is what truly matters](http://9gag.com/gag/awy8YAD)
+ - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
+ - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
+ - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 

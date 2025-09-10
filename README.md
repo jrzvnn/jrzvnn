@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This just in](http://9gag.com/gag/ayNzQKM)
  - 😝 [I can shave her](http://9gag.com/gag/a7oG9Nb)
- - 💣 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
- - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 💣 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
  - 👉 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)<!-- MEMES:END -->
 
 ---

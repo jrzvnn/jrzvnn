@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brain Co., co-founded by Jared Kushner, Elad Gil, and others to help enterprises and governments use AI, comes out of stealth with a $30M Series A &lpar;Forbes&rpar;](http://www.techmeme.com/250910/p31#a250910p31)
  - [Bending Spoons agrees to acquire video platform Vimeo in an all-cash deal valued at ~$1.38B, set to close in Q4; Vimeo will be delisted from exchanges &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/250910/p30#a250910p30)
  - [Sources: Amazon is developing consumer AR glasses codenamed Jayhawk with microphones, speakers, a camera, and color display, set for late 2026 or early 2027 &lpar;The Information&rpar;](http://www.techmeme.com/250910/p29#a250910p29)
  - [Reddit, Yahoo, Medium, Quora, People, O&#39;Reilly, wikiHow, Ziff Davis, and others adopt the Really Simple Licensing &lpar;RSL&rpar; Standard to set terms for AI scraping &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250910/p28#a250910p28)
- - [Amazon&#39;s Zoox launches its robotaxi service in Las Vegas, letting riders hail its toaster-shaped vehicles between specific destinations around the city&#39;s Strip &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/250910/p27#a250910p27)
- - [You Can Play Hollow Knight: Silksong on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/you-can-play-hollow-knight-silksong-on-xbox-game-pass-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s Zoox launches its robotaxi service in Las Vegas, letting riders hail its toaster-shaped cars between specific destinations in the city&#39;s 4.2-mile Strip &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/250910/p27#a250910p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

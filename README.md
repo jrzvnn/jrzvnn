@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit removes visible subscriber counts from subreddit pages, replacing it with seven-day active visitors or contributions, to better reflect user activity &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250910/p26#a250910p26)
- - [Bain Capital agrees to sell its data centers in China to a consortium led by Shanghai-listed Shenzhen Dongyangguang in a ~$4B deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p25#a250910p25)
- - [Hands on from Apple Park: iPhone 17 Pro, iPhone Air, AirPods Pro 3, Apple Watch](https://appleinsider.com/articles/25/09/10/hands-on-from-apple-park-iphone-17-pro-iphone-air-airpods-pro-3-apple-watch?utm_source=rss)
- - [Reddit is dropping subscriber counts on subreddits](https://www.theverge.com/news/775524/reddit-subreddit-member-count-vistors-contributions)
- - [Uber plans to add Blade helicopter rides as soon as 2026 via a partnership with electric air taxi maker Joby Aviation, which acquired Blade for $125M in August &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250910/p24#a250910p24)<!-- TECH:END -->
+ - [Bending Spoons agrees to acquire video platform Vimeo in an all-cash deal valued at ~$1.38B, set to close in Q4; Vimeo will be delisted from exchanges &lpar;Lynn Doan/Bloomberg&rpar;](http://www.techmeme.com/250910/p30#a250910p30)
+ - [Sources: Amazon is developing consumer AR glasses codenamed Jayhawk with microphones, speakers, a camera, and color display, set for late 2026 or early 2027 &lpar;The Information&rpar;](http://www.techmeme.com/250910/p29#a250910p29)
+ - [Reddit, Yahoo, Medium, Quora, People, O&#39;Reilly, wikiHow, Ziff Davis, and others adopt the Really Simple Licensing &lpar;RSL&rpar; Standard to set terms for AI scraping &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250910/p28#a250910p28)
+ - [Amazon&#39;s Zoox launches its robotaxi service in Las Vegas, letting riders hail its toaster-shaped vehicles between specific destinations around the city&#39;s Strip &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/250910/p27#a250910p27)
+ - [You Can Play Hollow Knight: Silksong on Xbox Game Pass Now](https://www.cnet.com/tech/gaming/you-can-play-hollow-knight-silksong-on-xbox-game-pass-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

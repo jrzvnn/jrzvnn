@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 😝 [Impersonation](http://9gag.com/gag/a9yVOoD)
  - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 💣 [Rebecca?](http://9gag.com/gag/amodpQ4)
- - 😝 [Right in the feels](http://9gag.com/gag/aD2PQZZ)
- - 👉 [My pension money...](http://9gag.com/gag/aLnbW6M)<!-- MEMES:END -->
+ - 💣 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
 
 ---
 

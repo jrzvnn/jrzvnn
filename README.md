@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This just in](http://9gag.com/gag/ayNzQKM)
- - 😝 [Ahh, France.](http://9gag.com/gag/a0exEwZ)
- - 💣 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 😝 [In a world without suicidal empathy...](http://9gag.com/gag/aKGLOjQ)
  - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 👉 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)<!-- MEMES:END -->
+ - 💣 [Nnn](http://9gag.com/gag/aW4dbAn)
+ - 😝 [Hold on](http://9gag.com/gag/a0exEOZ)
+ - 👉 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)<!-- MEMES:END -->
 
 ---
 

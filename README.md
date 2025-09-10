@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Is the First Time Scientists Have Seen Decisionmaking in a Brain](https://www.wired.com/story/this-is-the-first-time-scientists-have-seen-decision-making-in-a-brain/)
  - [iPhone 17 event tidbits: the new MagSafe battery is iPhone Air exclusive, the Air likely uses binned A19 Pro chips, and older AirPods will get Live Translation &lpar;Dan Moren/Six Colors&rpar;](http://www.techmeme.com/250910/p13#a250910p13)
  - [Google says it is scrapping multi-cloud data transfer fees for organizations in the EU and the UK ahead of the EU Data Act taking effect on September 12 &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/250910/p12#a250910p12)
  - [Arm launches four Lumex compute subsystem CPU architectures to improve on-device AI on smartphones, PCs, and wearables, and unveils the new Mali G1-Ultra GPU &lpar;Ben Funk/HotHardware&rpar;](http://www.techmeme.com/250910/p11#a250910p11)
- - [At the Man vs. Machine hackathon, co-hosted by AI nonprofit METR to test if AI helps people code faster and better, the top prize went to an &quot;AI-supported&quot; team &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250910/p10#a250910p10)
- - [How AI is upending the music industry in Latin America, as artists push back against a flood of AI-generated music on Spotify, Deezer, and YouTube Music &lpar;Laura Rodríguez Salamanca/Rest of World&rpar;](http://www.techmeme.com/250910/p9#a250910p9)<!-- TECH:END -->
+ - [At the Man vs. Machine hackathon, co-hosted by AI nonprofit METR to test if AI helps people code faster and better, the top prize went to an &quot;AI-supported&quot; team &lpar;Kylie Robison/Wired&rpar;](http://www.techmeme.com/250910/p10#a250910p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

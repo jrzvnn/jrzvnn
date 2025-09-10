@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
+ - 😝 [Ahh, France.](http://9gag.com/gag/a0exEwZ)
  - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
- - 💣 [Klappmesser](http://9gag.com/gag/aVvdLQK)
- - 😝 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 💣 [Impersonation](http://9gag.com/gag/a9yVOoD)
+ - 😝 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)
+ - 👉 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)<!-- MEMES:END -->
 
 ---
 

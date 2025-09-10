@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice steps](http://9gag.com/gag/ae9dm3Q)
- - 😝 [Your welcome, my friend](http://9gag.com/gag/a9yVX8K)
- - 💣 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 😝 [No man no cry..](http://9gag.com/gag/aQzr2Gd)
- - 👉 [Hold on](http://9gag.com/gag/a0exEOZ)<!-- MEMES:END -->
+ - 😝 [This just in](http://9gag.com/gag/ayNzQKM)
+ - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 💣 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
+ - 👉 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)<!-- MEMES:END -->
 
 ---
 

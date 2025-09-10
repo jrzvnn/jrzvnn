@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 17 is a screaming deal](https://www.theverge.com/news/775802/apple-iphone-17-deal-compare-pro)
+ - [If a $2,000 iPhone 17 Pro Max sounds expensive, just wait for the iPhone Fold](https://appleinsider.com/articles/25/09/10/if-a-2000-iphone-17-pro-max-sounds-expensive-just-wait-for-the-iphone-fold?utm_source=rss)
+ - [ByteDance launches Seedream 4.0, an AI image model it claims can beat Google&#39;s viral &quot;nano banana&quot; model in prompt adherence, alignment, and aesthetics &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250910/p40#a250910p40)
  - [Larry Ellison usurps Elon Musk as the world’s richest person](https://www.theverge.com/news/775763/larry-ellison-oracle-elon-musk-richest-person)
- - [OpenAI Brings Back Standard Voice Mode After Revolt](https://www.cnet.com/tech/services-and-software/openai-brings-back-standard-voice-mode-after-revolt/#ftag=CAD590a51e)
- - [A bombshell child safety leak changed Meta — it got worse](https://www.theverge.com/policy/775623/meta-whistleblowers-hearing-virtual-reality)
- - [Anonymity is dead and we’re all content now](https://www.theverge.com/internet-culture/775740/anonymity-privacy-filming-viral-tiktok)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI Brings Back Standard Voice Mode After Revolt](https://www.cnet.com/tech/services-and-software/openai-brings-back-standard-voice-mode-after-revolt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

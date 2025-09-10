@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)
+ - [Bluesky brings age verification to South Dakota and Wyoming](https://www.theverge.com/news/775901/bluesky-age-verification-us-south-dakota-wyoming)
  - [Windows developers can now publish apps to Microsoft’s store without fees](https://www.theverge.com/news/775877/windows-developers-microsoft-store-publishing-free)
  - [Blackmagic’s camera dock works with the new iPhone’s professional filmmaking features](https://www.theverge.com/news/775855/blackmagic-design-camera-prodock-iphone-17-pro-filmmakers)
- - [We tested six smart rings, and there’s a clear winner](https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables)
- - [3 Exciting Camera Features on Apple&#39;s New iPhone 17 Lineup](https://www.wired.com/story/exciting-camera-features-on-apples-new-iphone-17-lineup/)
- - [Bluesky says it will comply with age-verification laws in South Dakota and Wyoming because they strike the &quot;right balance&quot;, after exiting Mississippi &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250910/p41#a250910p41)<!-- TECH:END -->
+ - [We tested six smart rings, and there’s a clear winner](https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

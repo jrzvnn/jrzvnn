@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU&#39;s General Court sides with Meta and TikTok in their legal dispute with the EC over the DSA&#39;s 0.05% supervisory fee, saying the EU&#39;s methodology is flawed &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/250910/p14#a250910p14)
+ - [Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation](https://www.wired.com/story/researchers-create-3d-printed-artificial-skin-that-allows-blood-circulation/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 10](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-10/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 10, #352](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-10-352/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 10, #822](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-10-822/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 10, #1544](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-10-1544/#ftag=CAD590a51e)
- - [This Is the First Time Scientists Have Seen Decisionmaking in a Brain](https://www.wired.com/story/this-is-the-first-time-scientists-have-seen-decision-making-in-a-brain/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 10, #822](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-10-822/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

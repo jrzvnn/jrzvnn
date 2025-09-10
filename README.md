@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: 13+ datasets used by tech companies without permission to train AI models contain 15.8M+ YouTube videos from 2M+ channels, including 1M how-to videos &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/250910/p45#a250910p45)
  - [Charlie Kirk Shot at Utah Valley University Event](https://www.wired.com/story/charlie-kirk-shot-at-utah-valley-university-event/)
  - [Apple Watch Series 11 vs Apple Watch Series 10 -- More battery, less change](https://appleinsider.com/inside/apple-watch-series-11/vs/apple-watch-series-11-vs-apple-watch-series-10----more-battery-less-change?utm_source=rss)
  - [Apple extends free access to satellite connectivity features for an extra year for iPhone 14 and iPhone 15 owners who activated their device before September 9 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250910/p44#a250910p44)
- - [iPhone 17 is just the start, Apple&#39;s busiest upgrade wave in years has just begun](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [iPhone 17 is just the start, Apple&#39;s busiest upgrade wave in years has just begun](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

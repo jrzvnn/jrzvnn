@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple isn&amp;#8217;t packing a charging cable in with the AirPods Pro 3](https://www.theverge.com/news/775981/apple-airpods-pro-3-no-charging-cable-in-box)
- - [Our Favorite Earbuds for Working Out Are Cheaper Than Ever](https://www.wired.com/story/beats-powerbeats-pro-deal/)
- - [Microsoft’s AI Chief Says Machine Consciousness Is an &#39;Illusion&#39;](https://www.wired.com/story/microsofts-ai-chief-says-machine-consciousness-is-an-illusion/)
- - [Klarna shares jump 30% in their NYSE debut, opening at $52, above the IPO price of $40, after the company and some of its backers raised $1.37B in the offering &lpar;Bloomberg&rpar;](http://www.techmeme.com/250910/p42#a250910p42)
- - [PlayStation launches new app for parental controls](https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app)<!-- TECH:END -->
+ - [iPhone 17 is just the start, Apple&#39;s busiest upgrade wave in years has just begun](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
+ - [SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026](https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/)
+ - [You can preorder the AirPods Pro 3 right now](https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart)
+ - [Sources: OpenAI signed a contract with Oracle to purchase $300B in computing power, requiring 4.5 gigawatts of capacity, over roughly five years &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p43#a250910p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

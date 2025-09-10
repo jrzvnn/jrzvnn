@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 😝 [This just in](http://9gag.com/gag/ayNzQKM)
+ - 😝 [German police officer has a nice chat with engineer](http://9gag.com/gag/aAym2KL)
+ - 💣 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
  - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
- - 💣 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
- - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [You so high](http://9gag.com/gag/aVvdZBO)<!-- MEMES:END -->
+ - 👉 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)<!-- MEMES:END -->
 
 ---
 

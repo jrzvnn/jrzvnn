@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
- - 😝 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)
- - 💣 [Sharing is caring!](http://9gag.com/gag/a9yVOE1)
+ - 😝 [Put it back on! PUT IT BACK ON!](http://9gag.com/gag/axyAPLK)
+ - 😝 [Girls be Like](http://9gag.com/gag/awy8dND)
+ - 💣 [Confirmed: You cannot wash stupid off!](http://9gag.com/gag/aGyoA70)
  - 😝 [Bruh where did the 2025 go](http://9gag.com/gag/a87n2jO)
- - 👉 [The Simpsons knew it 30 years ago.](http://9gag.com/gag/aE0QXmn)<!-- MEMES:END -->
+ - 👉 [Never going to forget her name. Iryna Zarutska](http://9gag.com/gag/a87nwxO)<!-- MEMES:END -->
 
 ---
 

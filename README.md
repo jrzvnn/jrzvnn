@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even killings are content](https://www.theverge.com/analysis/776497/charlie-kirk-shooting-utah-content-creators-influencers)
  - [Figure&#39;s shares opened up 44% at $44 in its Nasdaq debut, giving it a $7.62B+ market cap, after the company and some of its backers raised $787.5M in its IPO &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p15#a250911p15)
  - [Netflix&amp;#8217;s best movies deserve more time on the big screen](https://www.theverge.com/netflix/776477/netflix-movie-theaters-frankenstein-knives-out)
  - [FTC orders AI companies to hand over info about chatbots&amp;#8217; impact on kids](https://www.theverge.com/policy/776545/ftc-ai-chatbot-companion-kids-teens-study)
- - [GE Vernova plans to sell its Proficy industrial software unit to PE firm TPG for $600M and reinvest the proceeds in grid software &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p14#a250911p14)
- - [iPhone 17 vs. iPhone 16 compared: Base model battle](https://appleinsider.com/articles/25/09/11/iphone-17-vs-iphone-16-compared-base-model-battle?utm_source=rss)<!-- TECH:END -->
+ - [GE Vernova plans to sell its Proficy industrial software unit to PE firm TPG for $600M and reinvest the proceeds in grid software &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p14#a250911p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

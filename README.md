@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Albania appoints an AI bot named Diella as the minister responsible for managing and awarding all public procurement tenders to combat corruption &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p25#a250911p25)
+ - [The iPhone 17 memory shield will give spyware developers a hard time](https://appleinsider.com/articles/25/09/11/the-iphone-17-memory-shield-will-give-spyware-developers-a-hard-time?utm_source=rss)
+ - [Microsoft and OpenAI have a new deal that could clear the way for an IPO](https://www.theverge.com/news/776884/openai-microsoft-mou)
  - [Threat notifications sent out September 3, French government confirms](https://appleinsider.com/articles/25/09/11/threat-notifications-sent-out-september-3-french-government-confirms?utm_source=rss)
- - [Microsoft is making &amp;#8216;significant investments&amp;#8217; in training its own AI models](https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models)
- - [Republicans pledge censorship crackdown to avenge Charlie Kirk’s death](https://www.theverge.com/policy/776840/charlie-kirk-death-social-media-jawboning)
- - [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise)
- - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)<!-- TECH:END -->
+ - [Microsoft is making &amp;#8216;significant investments&amp;#8217; in training its own AI models](https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

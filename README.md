@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new iPhone Air is the future -- not the present](https://appleinsider.com/articles/25/09/11/apples-new-iphone-air-is-the-future----not-the-present?utm_source=rss)
  - [Gmail is launching a tab for all your Amazon purchases](https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders)
  - [Xbox Cloud is getting a much-needed upgrade](https://www.theverge.com/notepad-microsoft-newsletter/776320/microsoft-xbox-cloud-gaming-limitations-strategy-notepad)
  - [Fortnite will soon let you buy exactly the V-bucks you need](https://www.theverge.com/news/776478/fortnite-v-bucks-need-top-up-item-shop-skins-exact-amount)
- - [The FTC orders Google, OpenAI, Meta and Instagram, Snap, xAI, and Character.AI to provide information on how their AI chatbots impact children and teens &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250911/p13#a250911p13)
- - [Roku wants you to see a lot more AI-generated ads](https://www.theverge.com/lowpass-newsletter/776248/roku-ai-ads)<!-- TECH:END -->
+ - [The FTC orders Google, OpenAI, Meta and Instagram, Snap, xAI, and Character.AI to provide information on how their AI chatbots impact children and teens &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250911/p13#a250911p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

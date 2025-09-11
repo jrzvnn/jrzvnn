@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet R1, a Chinese tech giant’s rival to Tesla’s Optimus robot](https://www.theverge.com/news/776224/ant-group-tesla-optimus-rival-r1)
+ - [DreamCloud Hybrid Mattress Review: Support and Value](https://www.wired.com/review/dreamcloud-hybrid-mattress/)
+ - [Borderlands 4 turns off your brain and turns on the fun](https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox)
  - [Apple&#39;s support page says AirPods&#39; new Live Translation won&#39;t be available to users in the EU and with an EU-region Apple Account, likely due to EU regulations &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250911/p10#a250911p10)
- - [Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)
- - [Status Audio Pro X Review: The Best High-End Earbuds?](https://www.wired.com/review/status-audio-pro-x/)
- - [AI companies&#39; bet on prediction token-based LLMs may make them vulnerable to disruption by a novel approach, especially as new models face diminishing returns &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250911/p9#a250911p9)
- - [Philips Hue&#39;s Latest Update Makes Your Lights and Doorbells Way Smarter](https://www.cnet.com/tech/philips-hues-latest-update-makes-your-lights-and-doorbells-way-smarter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

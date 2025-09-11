@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s new iPhone Air is the future -- not the present](https://appleinsider.com/articles/25/09/11/apples-new-iphone-air-is-the-future----not-the-present?utm_source=rss)
  - [Apple’s faster MagSafe Charger can now charge other phones at 25W](https://www.theverge.com/news/776411/apple-magsafe-charger-qi2-2-wireless-charging-25w)
  - [Why does Apple think three lenses are eight lenses?](https://www.theverge.com/iphone/776253/apple-event-iphone-17-pro-air-cameras-lenses-cropping-marketing)
  - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Digital banking group NOBA plans to list on Nasdaq Stockholm in Q3 2025, in a deal expected to value the company at around $3.74B &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p11#a250911p11)
- - [&#39;Foundation&#39; stars left guessing as Apple stays quiet on season 4](https://appleinsider.com/articles/25/09/11/foundation-stars-left-guessing-as-apple-stays-quiet-on-season-4?utm_source=rss)<!-- TECH:END -->
+ - [Digital banking group NOBA plans to list on Nasdaq Stockholm in Q3 2025, in a deal expected to value the company at around $3.74B &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p11#a250911p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

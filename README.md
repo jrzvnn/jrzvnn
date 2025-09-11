@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right-Wing Activists Are Targeting People for Allegedly Celebrating Charlie Kirk&#39;s Death](https://www.wired.com/story/right-wing-activists-are-targeting-people-for-allegedly-celebrating-charlie-kirks-death/)
+ - [Charlie Kirk Was Shot and Killed in a Post-Content Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)
+ - [Right-Wing Activists Are Targeting People for Allegedly Celebrating Charlie Kirk’s Death](https://www.wired.com/story/right-wing-activists-are-targeting-people-for-allegedly-celebrating-charlie-kirks-death/)
  - [Baseus&amp;#8217; solar-powered dash cam keeps an eye on your parked car for up to two weeks](https://www.theverge.com/news/776613/baseus-primetrip-vd1-pro-dashcam-solar-power-two-week-standby)
  - [Sources: Winklevoss twins&#39; Gemini has seen its planned US IPO oversubscribed by 20x; in an unusual move, the IPO proceeds will be capped at $425M &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/250911/p17#a250911p17)
- - [You can now play Silksong on flagship Android phones — and pick up where you left off on PC](https://www.theverge.com/hands-on/776180/hollow-knight-silksong-android-phone-windows-emulation-gamehub)
- - [The US DOJ sues Uber, with its civil rights division alleging that Uber discriminates against people with physical disabilities in violation of federal law &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250911/p16#a250911p16)<!-- TECH:END -->
+ - [Order a Case for Your New iPhone 17 Ahead of Tomorrow&#39;s Preorder Launch](https://www.cnet.com/deals/iphone-17-series-cases/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

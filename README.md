@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
- - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
+ - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 💣 [Who keeps employing these ghouls in the first place!?](http://9gag.com/gag/aGyobrK)
+ - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
+ - 👉 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)<!-- MEMES:END -->
 
 ---
 

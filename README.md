@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GE Vernova plans to sell its Proficy industrial software unit to PE firm TPG for $600M and reinvest the proceeds in grid software &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p14#a250911p14)
+ - [iPhone 17 vs. iPhone 16 compared: Base model battle](https://appleinsider.com/articles/25/09/11/iphone-17-vs-iphone-16-compared-base-model-battle?utm_source=rss)
+ - [Tonverk is Elektron’s new polyphonic sample mangler and groovebox](https://www.theverge.com/news/776487/elektron-tonverk-polyphonic-sampler-groovebox)
  - [Apple&#39;s new iPhone Air is the future -- not the present](https://appleinsider.com/articles/25/09/11/apples-new-iphone-air-is-the-future----not-the-present?utm_source=rss)
- - [Gmail is launching a tab for all your Amazon purchases](https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders)
- - [Xbox Cloud is getting a much-needed upgrade](https://www.theverge.com/notepad-microsoft-newsletter/776320/microsoft-xbox-cloud-gaming-limitations-strategy-notepad)
- - [Fortnite will soon let you buy exactly the V-bucks you need](https://www.theverge.com/news/776478/fortnite-v-bucks-need-top-up-item-shop-skins-exact-amount)
- - [The FTC orders Google, OpenAI, Meta and Instagram, Snap, xAI, and Character.AI to provide information on how their AI chatbots impact children and teens &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250911/p13#a250911p13)<!-- TECH:END -->
+ - [Gmail is launching a tab for all your Amazon purchases](https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

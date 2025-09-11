@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Travel Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-cameras/)
- - [Sierra CEO Bret Taylor on why the AI bubble feels like the dotcom boom](https://www.theverge.com/decoder-podcast-with-nilay-patel/773904/sierra-ceo-bret-taylor-ai-agents-openai-bubble-interview)
- - [Apple’s Big Bet to Eliminate the iPhone’s Most Targeted Vulnerabilities](https://www.wired.com/story/apple-iphone-17-memory-integrity-enforcement/)
- - [The Long Walk is a dystopian slog where brutality is the main point](https://www.theverge.com/movie-reviews/775654/the-long-walk-review)
- - [Turn Your iPhone 17 Into a Pro Cinema Rig With Blackmagic&#39;s New ProDock](https://www.cnet.com/tech/mobile/turn-your-iphone-17-into-a-pro-cinema-rig-with-blackmagics-new-prodock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why does Apple think three lenses are eight lenses?](https://www.theverge.com/iphone/776253/apple-event-iphone-17-pro-air-cameras-lenses-cropping-marketing)
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Digital banking group NOBA plans to list on Nasdaq Stockholm in Q3 2025, in a deal expected to value the company at around $3.74B &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p11#a250911p11)
+ - [&#39;Foundation&#39; stars left guessing as Apple stays quiet on season 4](https://appleinsider.com/articles/25/09/11/foundation-stars-left-guessing-as-apple-stays-quiet-on-season-4?utm_source=rss)
+ - [After Charlie Kirk’s killing, MAGA influencers call for violence](https://www.theverge.com/politics/776293/charlie-kirk-maga-influencer-violence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

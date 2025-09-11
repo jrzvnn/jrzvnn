@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Long Walk is a dystopian slog where brutality is the main point](https://www.theverge.com/movie-reviews/775654/the-long-walk-review)
  - [All-Clad Gas Pizza Oven Review &lpar;2025&rpar;: A Pie That Rotates Itself](https://www.wired.com/review/all-clad-gas-pizza-oven/)
  - [The 7 Best WIRED-Tested Handheld Vacuums &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
  - [If a $2,000 iPhone 17 Pro Max sounds expensive, just wait for the iPhone Fold](https://appleinsider.com/articles/25/09/10/if-a-2000-iphone-17-pro-max-sounds-expensive-just-wait-for-the-iphone-fold?utm_source=rss)
- - [Nothing’s Ear 3 earbuds have a microphone and ‘talk’ button on their charging case](https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum)
- - [macOS Tahoe review -- a strong update, just not for the reasons you expect](https://appleinsider.com/articles/25/09/11/macos-tahoe-review----a-strong-update-just-not-for-the-reasons-you-expect?utm_source=rss)<!-- TECH:END -->
+ - [Nothing’s Ear 3 earbuds have a microphone and ‘talk’ button on their charging case](https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

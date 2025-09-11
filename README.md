@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aligning those who align AI, one satirical website at a time](https://www.theverge.com/ai-artificial-intelligence/776752/center-for-the-alignment-of-ai-alignment-centers)
+ - [Apple left &#39;Foundation&#39; stars guessing until the end on a season 4 return](https://appleinsider.com/articles/25/09/11/foundation-stars-left-guessing-as-apple-stays-quiet-on-season-4?utm_source=rss)
  - [Google plans to shut down Tables, a work-tracking tool and competitor to Airtable, in December and directs users to migrate to Google Sheets or AppSheet &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250911/p20#a250911p20)
  - [Sony’s InZone Buds are great for gaming, and right now they’re cheaper than ever](https://www.theverge.com/tech/776630/sony-inzone-buds-samsung-music-frame-deal-sale)
- - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)
- - [How China’s Propaganda and Surveillance Systems Really Operate](https://www.wired.com/story/made-in-china-how-chinas-surveillance-industry-actually-works/)
- - [Encyclopedia Britannica and Merriam-Webster sue Perplexity, alleging that it unlawfully scraped their websites and redirected their traffic to its AI summaries &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250911/p19#a250911p19)<!-- TECH:END -->
+ - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

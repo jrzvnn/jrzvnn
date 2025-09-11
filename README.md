@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impersonation](http://9gag.com/gag/a9yVOoD)
- - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 👉 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)<!-- MEMES:END -->
+ - 😝 [Hotness overloaded](http://9gag.com/gag/axyARLM)
+ - 😝 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
+ - 💣 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
+ - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 

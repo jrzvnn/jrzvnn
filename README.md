@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gmail is launching a tab for all your Amazon purchases](https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders)
+ - [Xbox Cloud is getting a much-needed upgrade](https://www.theverge.com/notepad-microsoft-newsletter/776320/microsoft-xbox-cloud-gaming-limitations-strategy-notepad)
  - [Fortnite will soon let you buy exactly the V-bucks you need](https://www.theverge.com/news/776478/fortnite-v-bucks-need-top-up-item-shop-skins-exact-amount)
  - [The FTC orders Google, OpenAI, Meta and Instagram, Snap, xAI, and Character.AI to provide information on how their AI chatbots impact children and teens &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250911/p13#a250911p13)
- - [Roku wants you to see a lot more AI-generated ads](https://www.theverge.com/lowpass-newsletter/776248/roku-ai-ads)
- - [F5 plans to acquire CalypsoAI, which helps companies secure their generative AI infrastructure, for $180M; CalypsoAI raised $43.2M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250911/p12#a250911p12)
- - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [Roku wants you to see a lot more AI-generated ads](https://www.theverge.com/lowpass-newsletter/776248/roku-ai-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe there is an airport nearby, Suddenly an airplane got appeared in the video](http://9gag.com/gag/apRdbe8)
- - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 😝 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)
  - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [Before old grandpa narrative sets in understand there is no muzzle flash, and there is audio of an officer seeing a man on the roof with a long rifle and more than 1 video of THIS man on the roof in all black. So](http://9gag.com/gag/a87nzGZ)
- - 👉 [Hotness overloaded](http://9gag.com/gag/axyARLM)<!-- MEMES:END -->
+ - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
+ - 👉 [Thats just nuts!](http://9gag.com/gag/aryd8pB)<!-- MEMES:END -->
 
 ---
 

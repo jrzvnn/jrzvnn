@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlantic Council: the number of US-based investors in spyware nearly tripled in 2024 to 31 firms, compared to just 11 in 2023, topping Israel&#39;s 26 investors &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250911/p6#a250911p6)
  - [30% Off Tempur-Pedic Promo Codes | September 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
  - [Blockchain-based lender Figure and some of its backers raised $787.5M in an IPO, selling 31.5M shares at $25 each, valuing the company at about $5.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p5#a250911p5)
  - [Sensor Tower: as of July 2025, Rapido had 50M MAUs on Android in India vs. Uber&#39;s 30M; in the four-wheeler cab segment, Rapido holds ~30% share vs. Uber&#39;s ~50% &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250911/p4#a250911p4)
- - [TopResume Free Review, Discounts &amp; Packages for September 2025](https://www.wired.com/story/topresume-discount-code/)
- - [1Password Coupon: Score a Free Trial in September](https://www.wired.com/story/1password-coupon/)<!-- TECH:END -->
+ - [TopResume Free Review, Discounts &amp; Packages for September 2025](https://www.wired.com/story/topresume-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

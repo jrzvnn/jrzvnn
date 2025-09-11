@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now play Silksong on flagship Android phones — and pick up where you left off on PC](https://www.theverge.com/hands-on/776180/hollow-knight-silksong-android-phone-windows-emulation-gamehub)
+ - [The US DOJ sues Uber, with its civil rights division alleging that Uber discriminates against people with physical disabilities in violation of federal law &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250911/p16#a250911p16)
  - [How trusting talent put Apple TV+ on the road to Emmy excellence](https://appleinsider.com/articles/25/09/11/how-trusting-talent-put-apple-tv-on-the-road-to-emmy-excellence?utm_source=rss)
  - [Save Big on Our Favorite Outdoor Security Cam](https://www.wired.com/story/arlo-deal-september-2025/)
- - [Applications now open for Apple&#39;s 2026 Security Research Device Program](https://appleinsider.com/articles/25/09/11/applications-now-open-for-apples-2026-security-research-device-program?utm_source=rss)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Even killings are content](https://www.theverge.com/analysis/776497/charlie-kirk-shooting-utah-content-creators-influencers)<!-- TECH:END -->
+ - [Applications now open for Apple&#39;s 2026 Security Research Device Program](https://appleinsider.com/articles/25/09/11/applications-now-open-for-apples-2026-security-research-device-program?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

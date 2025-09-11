@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 💣 [Title](http://9gag.com/gag/ajPdR3g)
- - 😝 [It&#39;s nice not living in third world countries](http://9gag.com/gag/aXPdeR9)
- - 👉 [Friends will do this with me](http://9gag.com/gag/avyDmKq)<!-- MEMES:END -->
+ - 😝 [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 💣 [South Park writers in the writers room right now](http://9gag.com/gag/aD2PM8B)
+ - 😝 [Ya boi tony is here, send your questions in the comments below](http://9gag.com/gag/aoyddYm)
+ - 👉 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)<!-- MEMES:END -->
 
 ---
 

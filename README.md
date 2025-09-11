@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What is my purpose? you smile and shut up.](http://9gag.com/gag/aW4d9G2)
- - 😝 [Beautiful Brazil](http://9gag.com/gag/aVvd2mP)
- - 💣 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
- - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
- - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
+ - 😝 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)
+ - 😝 [Bro thought he could get away with this doing that in Japan....](http://9gag.com/gag/aO8jRLM)
+ - 💣 [Why though?](http://9gag.com/gag/apRdYgE)
+ - 😝 [The Resort](http://9gag.com/gag/aZZdv40)
+ - 👉 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)<!-- MEMES:END -->
 
 ---
 

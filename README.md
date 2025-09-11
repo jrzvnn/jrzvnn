@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Graphic videos of Charlie Kirk&#39;s shooting, first posted to X, also spread to Instagram, Threads, YouTube, and Telegram within hours, amassing millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p2#a250911p2)
- - [CFTC nominee Brian Quintenz says the Winklevosses asked Trump to pause his confirmation after he refused to make promises &quot;rectifying&quot; a prior Gemini settlement &lpar;Declan Harty/Politico&rpar;](http://www.techmeme.com/250911/p1#a250911p1)
- - [Koi, which is developing a centralized protection layer for enterprise endpoints, raised a $38M Series A, taking its total funding to $48M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250910/p52#a250910p52)
- - [How to create your own Memories movies in Photos](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_source=rss)
- - [Apple exec likes that customers will struggle to choose between iPhone Air &amp; Pro](https://appleinsider.com/articles/25/09/11/apple-exec-likes-that-customers-will-struggle-to-choose-between-iphone-air-pro?utm_source=rss)<!-- TECH:END -->
+ - [Sensor Tower: as of July 2025, Rapido had 50M MAUs on Android in India vs. Uber&#39;s 30M; in the four-wheeler cab segment, Rapido holds ~30% share vs. Uber&#39;s ~50% &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250911/p4#a250911p4)
+ - [TopResume Free Review, Discounts &amp; Packages for September 2025](https://www.wired.com/story/topresume-discount-code/)
+ - [1Password Coupon: Score a Free Trial in September](https://www.wired.com/story/1password-coupon/)
+ - [Ant Group unit Robbyant showcases its first LLM-powered humanoid robot, the R1, at a conference in Shanghai, joining an intensifying effort by Chinese companies &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250911/p3#a250911p3)
+ - [Graphic videos of Charlie Kirk&#39;s shooting, first posted to X, also spread to Instagram, Threads, YouTube, and Telegram within hours, amassing millions of views &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p2#a250911p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

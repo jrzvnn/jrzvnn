@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [iPhone 17 vs. iPhone 16 compared: Base model battle](https://appleinsider.com/articles/25/09/11/iphone-17-vs-iphone-16-compared-base-model-battle?utm_source=rss)
  - [Tonverk is Elektron’s new polyphonic sample mangler and groovebox](https://www.theverge.com/news/776487/elektron-tonverk-polyphonic-sampler-groovebox)
  - [Apple&#39;s new iPhone Air is the future -- not the present](https://appleinsider.com/articles/25/09/11/apples-new-iphone-air-is-the-future----not-the-present?utm_source=rss)
- - [Gmail is launching a tab for all your Amazon purchases](https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders)<!-- TECH:END -->
+ - [When Is the Earliest Day You Can Get an iPhone 17?](https://www.cnet.com/tech/mobile/when-is-the-earliest-day-you-can-get-an-iphone-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

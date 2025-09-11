@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Tahoe review -- a strong update, just not for the reasons you expect](https://appleinsider.com/articles/25/09/11/macos-tahoe-review----a-strong-update-just-not-for-the-reasons-you-expect?utm_source=rss)
- - [Sega reportedly called police after mistakenly scrapping Nintendo dev kits](https://www.theverge.com/news/776260/sega-police-raid-nintendo-dev-kits)
- - [Microsoft 365 Copilot bundles sales, service, and finance Copilots in October](https://www.theverge.com/news/776235/microsoft-365-copilot-bundle-sales-service-finance-announcement)
- - [BMW PGA Championship 2025: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/bmw-pga-championship-2025-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)
- - [Meet R1, a Chinese tech giant’s rival to Tesla’s Optimus robot](https://www.theverge.com/news/776224/ant-group-tesla-optimus-rival-r1)<!-- TECH:END -->
+ - [All-Clad Gas Pizza Oven Review &lpar;2025&rpar;: A Pie That Rotates Itself](https://www.wired.com/review/all-clad-gas-pizza-oven/)
+ - [The 7 Best WIRED-Tested Handheld Vacuums &lpar;2025&rpar;](https://www.wired.com/gallery/best-handheld-vacuum/)
+ - [If a $2,000 iPhone 17 Pro Max sounds expensive, just wait for the iPhone Fold](https://appleinsider.com/articles/25/09/10/if-a-2000-iphone-17-pro-max-sounds-expensive-just-wait-for-the-iphone-fold?utm_source=rss)
+ - [Nothing’s Ear 3 earbuds have a microphone and ‘talk’ button on their charging case](https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum)
+ - [macOS Tahoe review -- a strong update, just not for the reasons you expect](https://appleinsider.com/articles/25/09/11/macos-tahoe-review----a-strong-update-just-not-for-the-reasons-you-expect?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

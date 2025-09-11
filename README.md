@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a regular class photo, nothing to see here](http://9gag.com/gag/amodnG4)
  - 😝 [Thats just nuts!](http://9gag.com/gag/aryd8pB)
- - 💣 [I don&#39;t know much about the stock market, but I should have bought the dip I guess.](http://9gag.com/gag/aVvdBZn)
- - 😝 [Beautiful Brazil](http://9gag.com/gag/aVvd2mP)
- - 👉 [Ahh, France.](http://9gag.com/gag/a0exEwZ)<!-- MEMES:END -->
+ - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 😝 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
+ - 👉 [I don&#39;t know much about the stock market, but I should have bought the dip I guess.](http://9gag.com/gag/aVvdBZn)<!-- MEMES:END -->
 
 ---
 

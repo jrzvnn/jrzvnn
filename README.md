@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)
  - 😝 [What is my purpose? you smile and shut up.](http://9gag.com/gag/aW4d9G2)
- - 💣 [...here they come](http://9gag.com/gag/aW4d2B3)
  - 😝 [Beautiful Brazil](http://9gag.com/gag/aVvd2mP)
- - 👉 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)<!-- MEMES:END -->
+ - 💣 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
+ - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
+ - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
 
 ---
 

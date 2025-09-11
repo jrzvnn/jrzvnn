@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
+ - 😝 [Just a regular class photo, nothing to see here](http://9gag.com/gag/amodnG4)
  - 😝 [Thats just nuts!](http://9gag.com/gag/aryd8pB)
- - 💣 [Just a regular class photo, nothing to see here](http://9gag.com/gag/amodnG4)
- - 😝 [The Resort](http://9gag.com/gag/aZZdv40)
- - 👉 [Beautiful Brazil](http://9gag.com/gag/aVvd2mP)<!-- MEMES:END -->
+ - 💣 [I don&#39;t know much about the stock market, but I should have bought the dip I guess.](http://9gag.com/gag/aVvdBZn)
+ - 😝 [Beautiful Brazil](http://9gag.com/gag/aVvd2mP)
+ - 👉 [Ahh, France.](http://9gag.com/gag/a0exEwZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
- - 😝 [90% crime posts 10% other. While we should post about it, but its out of balance](http://9gag.com/gag/aKGLKo6)
- - 💣 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 😝 [Lol bro your elites sold you out](http://9gag.com/gag/a7oGNrx)
+ - 😝 [Thats just nuts!](http://9gag.com/gag/aryd8pB)
+ - 💣 [Just a regular class photo, nothing to see here](http://9gag.com/gag/amodnG4)
+ - 😝 [The Resort](http://9gag.com/gag/aZZdv40)
+ - 👉 [Beautiful Brazil](http://9gag.com/gag/aVvd2mP)<!-- MEMES:END -->
 
 ---
 

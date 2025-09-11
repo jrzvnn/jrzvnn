@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet R1, a Chinese tech giant’s rival to Tesla’s Optimus robot](https://www.theverge.com/news/776224/ant-group-tesla-optimus-rival-r1)
- - [DreamCloud Hybrid Mattress Review: Support and Value](https://www.wired.com/review/dreamcloud-hybrid-mattress/)
- - [Borderlands 4 turns off your brain and turns on the fun](https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox)
- - [Apple&#39;s support page says AirPods&#39; new Live Translation won&#39;t be available to users in the EU and with an EU-region Apple Account, likely due to EU regulations &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250911/p10#a250911p10)
- - [Best Reusable Water Bottles of 2025, Tested &amp; Reviewed](https://www.wired.com/gallery/best-reusable-water-bottles/)<!-- TECH:END -->
+ - [macOS Tahoe review -- a strong update, just not for the reasons you expect](https://appleinsider.com/articles/25/09/11/macos-tahoe-review----a-strong-update-just-not-for-the-reasons-you-expect?utm_source=rss)
+ - [Sega reportedly called police after mistakenly scrapping Nintendo dev kits](https://www.theverge.com/news/776260/sega-police-raid-nintendo-dev-kits)
+ - [Microsoft 365 Copilot bundles sales, service, and finance Copilots in October](https://www.theverge.com/news/776235/microsoft-365-copilot-bundle-sales-service-finance-announcement)
+ - [BMW PGA Championship 2025: TV Schedule Today, How to Watch, Stream All the Golf From Anywhere](https://www.cnet.com/tech/services-and-software/bmw-pga-championship-2025-tv-schedule-today-how-to-watch-stream-all-the-golf-from-anywhere/#ftag=CAD590a51e)
+ - [Meet R1, a Chinese tech giant’s rival to Tesla’s Optimus robot](https://www.theverge.com/news/776224/ant-group-tesla-optimus-rival-r1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

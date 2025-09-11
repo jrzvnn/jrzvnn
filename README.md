@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
- - 💣 [I see](http://9gag.com/gag/abAdReE)
- - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
- - 👉 [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)<!-- MEMES:END -->
+ - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 😝 [90% crime posts 10% other. While we should post about it, but its out of balance](http://9gag.com/gag/aKGLKo6)
+ - 💣 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
 
 ---
 

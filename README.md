@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rebecca?](http://9gag.com/gag/amodpQ4)
- - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
- - 💣 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 😝 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)
- - 👉 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)<!-- MEMES:END -->
+ - 😝 [Impersonation](http://9gag.com/gag/a9yVOoD)
+ - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 👉 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)<!-- MEMES:END -->
 
 ---
 

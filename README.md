@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [See, its not that difficult, kunts](http://9gag.com/gag/aAymXep)
- - 😝 [Bro thought he could get away with this doing that in Japan....](http://9gag.com/gag/aO8jRLM)
- - 💣 [Why though?](http://9gag.com/gag/apRdYgE)
+ - 😝 [Federal charge](http://9gag.com/gag/agmdEyK)
+ - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
  - 😝 [The Resort](http://9gag.com/gag/aZZdv40)
  - 👉 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)<!-- MEMES:END -->
 

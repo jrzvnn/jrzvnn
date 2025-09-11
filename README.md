@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AI companies&#39; bet on prediction token-based LLMs may make them vulnerable to disruption by a novel approach, especially as new models face diminishing returns &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250911/p9#a250911p9)
+ - [Philips Hue&#39;s Latest Update Makes Your Lights and Doorbells Way Smarter](https://www.cnet.com/tech/philips-hues-latest-update-makes-your-lights-and-doorbells-way-smarter/#ftag=CAD590a51e)
+ - [NotebookLM: These AI Tools Can Help You Study and Learn](https://www.cnet.com/tech/services-and-software/notebooklm-these-ai-tools-can-actually-help-you-study-and-learn/#ftag=CAD590a51e)
  - [How Larry Ellison, briefly the world&#39;s richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants &lpar;Financial Times&rpar;](http://www.techmeme.com/250911/p8#a250911p8)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #353](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-353/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 11, #823](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-11-823/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 11](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-11-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Still Running Windows 10? Make Sure You Take This Step Before Oct. 14](https://www.cnet.com/tech/services-and-software/still-running-windows-10-make-sure-you-take-this-step-before-oct-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

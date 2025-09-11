@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Larry Ellison, briefly the world&#39;s richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants &lpar;Financial Times&rpar;](http://www.techmeme.com/250911/p8#a250911p8)
  - [Crispr Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
  - [David Zaslav thinks HBO Max is ‘way underpriced’](https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing)
  - [Vantage Data Centers raised $1.6B from GIC and the Abu Dhabi Investment Authority to expand in APAC, including the acquisition of a Malaysian data center campus &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p7#a250911p7)
- - [The 5 Healthiest Air Fryer Foods, According to Registered Dietitians](https://www.cnet.com/health/nutrition/the-5-healthiest-air-fryer-foods-according-to-registered-dietitians/#ftag=CAD590a51e)
- - [Atlantic Council: the number of US-based investors in spyware companies nearly tripled in 2024 to 31, compared to just 11 in 2023, topping Israel&#39;s 26 investors &lpar;Vas Panagiotopoulos/Wired&rpar;](http://www.techmeme.com/250911/p6#a250911p6)<!-- TECH:END -->
+ - [The 5 Healthiest Air Fryer Foods, According to Registered Dietitians](https://www.cnet.com/health/nutrition/the-5-healthiest-air-fryer-foods-according-to-registered-dietitians/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

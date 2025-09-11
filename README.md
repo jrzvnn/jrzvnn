@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CFTC nominee Brian Quintenz says the Winklevosses asked Trump to pause his confirmation after he refused to make promises &quot;rectifying&quot; a prior Gemini settlement &lpar;Declan Harty/Politico&rpar;](http://www.techmeme.com/250911/p1#a250911p1)
  - [Koi, which is developing a centralized protection layer for enterprise endpoints, raised a $38M Series A, taking its total funding to $48M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250910/p52#a250910p52)
  - [How to create your own Memories movies in Photos](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_source=rss)
  - [Apple exec likes that customers will struggle to choose between iPhone Air &amp; Pro](https://appleinsider.com/articles/25/09/11/apple-exec-likes-that-customers-will-struggle-to-choose-between-iphone-air-pro?utm_source=rss)
- - [Microsoft releases its first preview of Visual Studio 2026, the first major update since November 2021, with a new look and deeper AI integration &lpar;Tim Anderson/The Register&rpar;](http://www.techmeme.com/250910/p51#a250910p51)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft releases its first preview of Visual Studio 2026, the first major update since November 2021, with a new look and deeper AI integration &lpar;Tim Anderson/The Register&rpar;](http://www.techmeme.com/250910/p51#a250910p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

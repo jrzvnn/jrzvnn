@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 💣 [Title](http://9gag.com/gag/ajPdR3g)
- - 😝 [I thought I was family too](http://9gag.com/gag/a9yVXGo)
- - 👉 [Friends will do this with me](http://9gag.com/gag/avyDmKq)<!-- MEMES:END -->
+ - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
+ - 💣 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 😝 [Mormon?](http://9gag.com/gag/aO8jpVr)
+ - 👉 [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)<!-- MEMES:END -->
 
 ---
 

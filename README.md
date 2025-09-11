@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
- - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
  - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [Who keeps employing these ghouls in the first place!?](http://9gag.com/gag/aGyobrK)
- - 👉 [I don&#39;t know much about the stock market, but I should have bought the dip I guess.](http://9gag.com/gag/aVvdBZn)<!-- MEMES:END -->
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
 
 ---
 

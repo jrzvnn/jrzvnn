@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Status Audio Pro X Review: The Best High-End Earbuds?](https://www.wired.com/review/status-audio-pro-x/)
  - [AI companies&#39; bet on prediction token-based LLMs may make them vulnerable to disruption by a novel approach, especially as new models face diminishing returns &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250911/p9#a250911p9)
  - [Philips Hue&#39;s Latest Update Makes Your Lights and Doorbells Way Smarter](https://www.cnet.com/tech/philips-hues-latest-update-makes-your-lights-and-doorbells-way-smarter/#ftag=CAD590a51e)
  - [NotebookLM: These AI Tools Can Help You Study and Learn](https://www.cnet.com/tech/services-and-software/notebooklm-these-ai-tools-can-actually-help-you-study-and-learn/#ftag=CAD590a51e)
- - [How Larry Ellison, briefly the world&#39;s richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants &lpar;Financial Times&rpar;](http://www.techmeme.com/250911/p8#a250911p8)
- - [Still Running Windows 10? Make Sure You Take This Step Before Oct. 14](https://www.cnet.com/tech/services-and-software/still-running-windows-10-make-sure-you-take-this-step-before-oct-14/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Larry Ellison, briefly the world&#39;s richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants &lpar;Financial Times&rpar;](http://www.techmeme.com/250911/p8#a250911p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

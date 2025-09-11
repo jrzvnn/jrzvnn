@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
- - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
+ - 😝 [Impersonation is helpful](https://www.reddit.com/r/funny/comments/1nedkog/impersonation_is_helpful/)
+ - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 😝 [Title](http://9gag.com/gag/ajPdR3g)
+ - 👉 [Greek architecture](http://9gag.com/gag/aoydd0e)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It will also coincidentally feature the A10 warthog](http://9gag.com/gag/arydBVB)
- - 😝 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)
- - 💣 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)
- - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 👉 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)<!-- MEMES:END -->
+ - 😝 [Thats just nuts!](http://9gag.com/gag/aryd8pB)
+ - 😝 [Ahh, France.](http://9gag.com/gag/a0exEwZ)
+ - 💣 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 😝 [It&#39;s nice not living in third world countries](http://9gag.com/gag/aXPdeR9)
+ - 👉 [A video of a reggae concert that the city mismanaged.](http://9gag.com/gag/aPApXwn)<!-- MEMES:END -->
 
 ---
 

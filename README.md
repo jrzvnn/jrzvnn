@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
- - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
- - 💣 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
  - 😝 [Mormon?](http://9gag.com/gag/aO8jpVr)
- - 👉 [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)<!-- MEMES:END -->
+ - 😝 [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
+ - 💣 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 😝 [Ya boi tony is here, send your questions in the comments below](http://9gag.com/gag/aoyddYm)
+ - 👉 [South Park writers in the writers room right now](http://9gag.com/gag/aD2PM8B)<!-- MEMES:END -->
 
 ---
 

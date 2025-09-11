@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Encyclopedia Britannica and Merriam-Webster sue Perplexity, alleging that it unlawfully scraped their websites and redirected their traffic to its AI summaries &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250911/p19#a250911p19)
- - [iPhone Air is incredibly tougher than it looks](https://appleinsider.com/articles/25/09/11/iphone-air-is-incredibly-tougher-than-it-looks?utm_source=rss)
- - [Apple still won&#39;t confirm that it&#39;s working on a foldable iPhone](https://appleinsider.com/articles/25/09/11/apple-still-wont-confirm-that-its-working-on-a-foldable-iphone?utm_source=rss)
- - [&#39;How to Train Your Dragon&#39; Streaming on Peacock: Release Date and Time](https://www.cnet.com/tech/services-and-software/how-to-train-your-dragon-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)
- - [These are the best iPhone 17 Pro and iPhone 17 Pro Max cases you can buy right now](https://appleinsider.com/inside/iphone-17/best/best-iphone-17-pro-and-iphone-17-pro-max-cases?utm_source=rss)<!-- TECH:END -->
+ - [Google plans to shut down Tables, a work-tracking tool and competitor to Airtable, in December and directs users to migrate to Google Sheets or AppSheet &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250911/p20#a250911p20)
+ - [Sony’s InZone Buds are great for gaming, and right now they’re cheaper than ever](https://www.theverge.com/tech/776630/sony-inzone-buds-samsung-music-frame-deal-sale)
+ - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)
+ - [How China’s Propaganda and Surveillance Systems Really Operate](https://www.wired.com/story/made-in-china-how-chinas-surveillance-industry-actually-works/)
+ - [Encyclopedia Britannica and Merriam-Webster sue Perplexity, alleging that it unlawfully scraped their websites and redirected their traffic to its AI summaries &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250911/p19#a250911p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

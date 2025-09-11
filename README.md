@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Koi, which is developing a centralized protection layer for enterprise endpoints, raised a $38M Series A, taking its total funding to $48M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250910/p52#a250910p52)
+ - [How to create your own Memories movies in Photos](https://appleinsider.com/inside/ios/tips/how-to-create-your-own-memories-movies-in-photos-on-ios-or-ipados-18?utm_source=rss)
  - [Apple exec likes that customers will struggle to choose between iPhone Air &amp; Pro](https://appleinsider.com/articles/25/09/11/apple-exec-likes-that-customers-will-struggle-to-choose-between-iphone-air-pro?utm_source=rss)
  - [Microsoft releases its first preview of Visual Studio 2026, the first major update since November 2021, with a new look and deeper AI integration &lpar;Tim Anderson/The Register&rpar;](http://www.techmeme.com/250910/p51#a250910p51)
- - [Apple&#39;s AI training guideline update twisted into political conspiracy](https://appleinsider.com/articles/25/09/11/apples-ai-training-guideline-update-twisted-into-political-conspiracy?utm_source=rss)
- - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
- - [‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence](https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/)<!-- TECH:END -->
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

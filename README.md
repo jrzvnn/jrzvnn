@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How platforms are responding to the Charlie Kirk shooting](https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube)
- - [Opendoor names Shopify COO Kaz Nejatian as its CEO, following Carrie Wheeler&#39;s ouster, and taps co-founder Keith Rabois as chairman; OPEN jumps 35%+ after hours &lpar;Katherine Hamilton/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p49#a250910p49)
  - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
- - [Source: Perplexity has secured commitments from investors for $200M in new funding at a $20B valuation &lpar;The Information&rpar;](http://www.techmeme.com/250910/p48#a250910p48)
- - [OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle](https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate)<!-- TECH:END -->
+ - [‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence](https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/)
+ - [Interviews with Tim Cook, Apple&#39;s VP of industrial design Molly Anderson, and others about the design choices behind iPhone Air, cross-body straps, and more &lpar;Sam Schube/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p50#a250910p50)
+ - [Elon Musk Says Starlink Could Replace Your Cellphone Carrier](https://www.cnet.com/home/internet/elon-musk-says-starlink-could-replace-your-cellphone-carrier/#ftag=CAD590a51e)
+ - [iPhone 17 Pro Max vs. iPhone 16 Pro Max Spec Compared: Big Apple Battle](https://www.cnet.com/tech/mobile/iphone-17-pro-max-vs-iphone-16-pro-max-spec-compared-big-apple-battle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

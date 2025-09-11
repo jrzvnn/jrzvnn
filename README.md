@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC orders Google, OpenAI, Meta and Instagram, Snap, xAI, and Character.AI to provide information on how their AI chatbots impact children and teens &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250911/p13#a250911p13)
+ - [Roku wants you to see a lot more AI-generated ads](https://www.theverge.com/lowpass-newsletter/776248/roku-ai-ads)
  - [F5 plans to acquire CalypsoAI, which helps companies secure their generative AI infrastructure, for $180M; CalypsoAI raised $43.2M &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250911/p12#a250911p12)
  - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Apple&#39;s new iPhone Air is the future -- not the present](https://appleinsider.com/articles/25/09/11/apples-new-iphone-air-is-the-future----not-the-present?utm_source=rss)
- - [Apple’s faster MagSafe Charger can now charge other phones at 25W](https://www.theverge.com/news/776411/apple-magsafe-charger-qi2-2-wireless-charging-25w)
- - [Why does Apple think three lenses are eight lenses?](https://www.theverge.com/iphone/776253/apple-event-iphone-17-pro-air-cameras-lenses-cropping-marketing)<!-- TECH:END -->
+ - [Apple&#39;s new iPhone Air is the future -- not the present](https://appleinsider.com/articles/25/09/11/apples-new-iphone-air-is-the-future----not-the-present?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

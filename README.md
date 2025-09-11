@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple exec likes that customers will struggle to choose between iPhone Air &amp; Pro](https://appleinsider.com/articles/25/09/11/apple-exec-likes-that-customers-will-struggle-to-choose-between-iphone-air-pro?utm_source=rss)
+ - [Microsoft releases its first preview of Visual Studio 2026, the first major update since November 2021, with a new look and deeper AI integration &lpar;Tim Anderson/The Register&rpar;](http://www.techmeme.com/250910/p51#a250910p51)
+ - [Apple&#39;s AI training guideline update twisted into political conspiracy](https://appleinsider.com/articles/25/09/11/apples-ai-training-guideline-update-twisted-into-political-conspiracy?utm_source=rss)
  - [Charlie Kirk fatally shot at Turning Point USA event in Utah](https://www.theverge.com/news/776079/charlie-kirk-shooting)
- - [‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence](https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/)
- - [Interviews with Tim Cook, Apple&#39;s VP of industrial design Molly Anderson, and others about the design choices behind iPhone Air, cross-body straps, and more &lpar;Sam Schube/Wall Street Journal&rpar;](http://www.techmeme.com/250910/p50#a250910p50)
- - [Elon Musk Says Starlink Could Replace Your Cellphone Carrier](https://www.cnet.com/home/internet/elon-musk-says-starlink-could-replace-your-cellphone-carrier/#ftag=CAD590a51e)
- - [iPhone 17 Pro Max vs. iPhone 16 Pro Max Spec Compared: Big Apple Battle](https://www.cnet.com/tech/mobile/iphone-17-pro-max-vs-iphone-16-pro-max-spec-compared-big-apple-battle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence](https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

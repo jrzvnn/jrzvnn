@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)
  - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
  - 💣 [AI &lt;&lt; Natural Stupidity](http://9gag.com/gag/aE0QQnO)
  - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
  - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->

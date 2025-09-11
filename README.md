@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
  - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
  - 💣 [Who is the most universally hated person from your country?](http://9gag.com/gag/ajPdWP8)
- - 😝 [FALSE FLAG POSTS](http://9gag.com/gag/apRddYp)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
  - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
 
 ---

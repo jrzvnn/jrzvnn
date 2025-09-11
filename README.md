@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 😝 [It will also coincidentally feature the A10 warthog](http://9gag.com/gag/arydBVB)
  - 😝 [Don&#39;t prank Optimus. Optimus will prank you back.](http://9gag.com/gag/abAd2X8)
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 💣 [I don&#39;t know what he did to get that punishment.](http://9gag.com/gag/amodVX4)
  - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 👉 [Thats just nuts!](http://9gag.com/gag/aryd8pB)<!-- MEMES:END -->
+ - 👉 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)<!-- MEMES:END -->
 
 ---
 

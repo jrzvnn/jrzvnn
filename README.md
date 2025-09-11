@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [These are the best iPhone 17 Pro and iPhone 17 Pro Max cases you can buy right now](https://appleinsider.com/inside/iphone-17/best/best-iphone-17-pro-and-iphone-17-pro-max-cases?utm_source=rss)
- - [In 2030, OpenAI projects $200B in revenue, with R&amp;D spending hitting ~45% of that, or ~$90B; R&amp;D costs of Alphabet and others are currently 10%-20% of revenue &lpar;The Information&rpar;](http://www.techmeme.com/250911/p18#a250911p18)
+ - [OpenAI projects $200B in revenue in 2030, with R&amp;D spending hitting ~45% of that, or ~$90B; R&amp;D costs of Alphabet and others are currently 10%-20% of revenue &lpar;The Information&rpar;](http://www.techmeme.com/250911/p18#a250911p18)
  - [NASA found clues of life on Mars, but budget cuts threaten future missions](https://www.theverge.com/nasa/776554/nasa-mars-jezero-crater-budget-cuts)
  - [Charlie Kirk Was Shot and Killed in a Post-Content-Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)
  - [Right-Wing Activists Are Targeting People for Allegedly Celebrating Charlie Kirk’s Death](https://www.wired.com/story/right-wing-activists-are-targeting-people-for-allegedly-celebrating-charlie-kirks-death/)<!-- TECH:END -->

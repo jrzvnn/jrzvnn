@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hotness overloaded](http://9gag.com/gag/axyARLM)
- - 😝 [Bro thought he could get away with this doing that in Japan....](http://9gag.com/gag/aO8jRLM)
+ - 😝 [Ahh, France.](http://9gag.com/gag/a0exEwZ)
+ - 😝 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
  - 💣 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 😝 [Poor Lenny](http://9gag.com/gag/ayNzQ0X)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 👉 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)<!-- MEMES:END -->
 
 ---
 

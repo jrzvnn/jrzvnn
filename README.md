@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internet detectives are misusing AI to find Charlie Kirk’s alleged shooter](https://www.theverge.com/news/776793/charlie-kirk-fbi-person-of-interest-photos-shooter)
  - [Figure&#39;s shares closed up 24% at $31.11 in its Nasdaq debut, giving it a ~$6.6B market cap, after the company and some of its backers raised $787.5M in its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p22#a250911p22)
  - [Adobe reports Q3 revenue up 11% YoY to $5.99B, vs. $5.91B est., Digital Media revenue up 12% to $4.46B, and Digital Experience revenue up 9% to $1.48B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250911/p21#a250911p21)
  - [Aligning those who align AI, one satirical website at a time](https://www.theverge.com/ai-artificial-intelligence/776752/center-for-the-alignment-of-ai-alignment-centers)
- - [Apple left &#39;Foundation&#39; stars guessing until the end on a season 4 return](https://appleinsider.com/articles/25/09/11/foundation-stars-left-guessing-as-apple-stays-quiet-on-season-4?utm_source=rss)
- - [Google plans to shut down Tables, a work-tracking tool and competitor to Airtable, in December and directs users to migrate to Google Sheets or AppSheet &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250911/p20#a250911p20)<!-- TECH:END -->
+ - [Apple left &#39;Foundation&#39; stars guessing until the end on a season 4 return](https://appleinsider.com/articles/25/09/11/foundation-stars-left-guessing-as-apple-stays-quiet-on-season-4?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

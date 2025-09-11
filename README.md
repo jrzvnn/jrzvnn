@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Looking like it&#39;s X-axis VS Y-axis](https://www.reddit.com/r/funny/comments/1neb9n6/looking_like_its_xaxis_vs_yaxis/)
  - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 😝 [New games for `vintage` people](http://9gag.com/gag/abAdEoL)
- - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
+ - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 👉 [New games for `vintage` people](http://9gag.com/gag/abAdEoL)<!-- MEMES:END -->
 
 ---
 

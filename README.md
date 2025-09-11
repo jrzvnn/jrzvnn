@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Federal charge](http://9gag.com/gag/agmdEyK)
- - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
- - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [The Resort](http://9gag.com/gag/aZZdv40)
- - 👉 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)<!-- MEMES:END -->
+ - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 😝 [\u201cInfamous people\u201d](http://9gag.com/gag/aAymX8p)
+ - 💣 [I see](http://9gag.com/gag/abAdReE)
+ - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
+ - 👉 [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)<!-- MEMES:END -->
 
 ---
 

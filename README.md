@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When something is so good, you need a lifetime supply](http://9gag.com/gag/aVvdVb8)
+ - 😝 [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)
  - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 💣 [South Park writers in the writers room right now](http://9gag.com/gag/aD2PM8B)
- - 😝 [Ya boi tony is here, send your questions in the comments below](http://9gag.com/gag/aoyddYm)
- - 👉 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)<!-- MEMES:END -->
+ - 💣 [AI &lt;&lt; Natural Stupidity](http://9gag.com/gag/aE0QQnO)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
+ - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
 
 ---
 

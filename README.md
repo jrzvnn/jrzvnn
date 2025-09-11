@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 😝 [New games for `vintage` people](http://9gag.com/gag/abAdEoL)
+ - 😝 [Friends will do this with me](http://9gag.com/gag/avyDmKq)
+ - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
  - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
 
 ---

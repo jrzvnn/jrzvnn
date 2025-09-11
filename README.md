@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rebecca?](http://9gag.com/gag/amodpQ4)
  - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
- - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 💣 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)
- - 😝 [Enjoy your joints while you can](http://9gag.com/gag/azxBQjp)
+ - 💣 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 😝 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)
  - 👉 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)<!-- MEMES:END -->
 
 ---

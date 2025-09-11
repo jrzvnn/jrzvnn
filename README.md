@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats just nuts!](http://9gag.com/gag/aryd8pB)
+ - 😝 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
  - 😝 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
  - 💣 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 😝 [For a seond he was like:`Aw s*ieeeeet!11`](http://9gag.com/gag/aE0QEO9)
+ - 😝 [Who keeps employing these ghouls in the first place!?](http://9gag.com/gag/aGyobrK)
  - 👉 [I don&#39;t know much about the stock market, but I should have bought the dip I guess.](http://9gag.com/gag/aVvdBZn)<!-- MEMES:END -->
 
 ---

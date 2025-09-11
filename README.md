@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threat notifications sent out September 3, French government confirms](https://appleinsider.com/articles/25/09/11/threat-notifications-sent-out-september-3-french-government-confirms?utm_source=rss)
  - [Microsoft is making &amp;#8216;significant investments&amp;#8217; in training its own AI models](https://www.theverge.com/report/776853/microsoft-ai-training-capacity-investments-in-house-models)
  - [Republicans pledge censorship crackdown to avenge Charlie Kirk’s death](https://www.theverge.com/policy/776840/charlie-kirk-death-social-media-jawboning)
  - [Anthropic’s Claude AI can now automatically ‘remember’ past chats](https://www.theverge.com/news/776827/anthropic-claude-ai-memory-upgrade-team-enterprise)
- - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)
- - [OpenAI and Microsoft say they have signed a non-binding memorandum of understanding for the next phase of their partnership, and are working to finalize terms &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250911/p24#a250911p24)<!-- TECH:END -->
+ - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI companies&#39; bet on prediction token-based LLMs may make them vulnerable to disruption by a novel approach, especially as new models face diminishing returns &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/250911/p9#a250911p9)
  - [How Larry Ellison, briefly the world&#39;s richest man, and Oracle CEO Safra Catz capitalized on the AI boom and vaulted Oracle into contention with industry giants &lpar;Financial Times&rpar;](http://www.techmeme.com/250911/p8#a250911p8)
- - [Crispr Offers New Hope for Treating Diabetes](https://www.wired.com/story/no-more-injections-crispr-offers-new-hope-for-treating-diabetes/)
- - [David Zaslav thinks HBO Max is ‘way underpriced’](https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing)
- - [Vantage Data Centers raised $1.6B from GIC and the Abu Dhabi Investment Authority to expand in APAC, including the acquisition of a Malaysian data center campus &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p7#a250911p7)
- - [The 5 Healthiest Air Fryer Foods, According to Registered Dietitians](https://www.cnet.com/health/nutrition/the-5-healthiest-air-fryer-foods-according-to-registered-dietitians/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 11, #353](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-11-353/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 11, #823](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-11-823/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 11](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-11-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

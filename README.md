@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impersonation is helpful](https://www.reddit.com/r/funny/comments/1nedkog/impersonation_is_helpful/)
  - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 😝 [Title](http://9gag.com/gag/ajPdR3g)
- - 👉 [Greek architecture](http://9gag.com/gag/aoydd0e)<!-- MEMES:END -->
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 💣 [Title](http://9gag.com/gag/ajPdR3g)
+ - 😝 [Greek architecture](http://9gag.com/gag/aoydd0e)
+ - 👉 [Friends will do this with me](http://9gag.com/gag/avyDmKq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
  - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
- - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
- - 💣 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
- - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
+ - 💣 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)
+ - 😝 [Enjoy your joints while you can](http://9gag.com/gag/azxBQjp)
+ - 👉 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)<!-- MEMES:END -->
 
 ---
 

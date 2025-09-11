@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Impersonation](http://9gag.com/gag/a9yVOoD)
- - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 💣 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
+ - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 😝 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)
+ - 💣 [Mexican army runs into sicarios...](http://9gag.com/gag/a87nK3d)
+ - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
+ - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
 ---
 

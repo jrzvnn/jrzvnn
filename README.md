@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Encyclopedia Britannica and Merriam-Webster sue Perplexity, alleging that it unlawfully scraped their websites and redirected their traffic to its AI summaries &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250911/p19#a250911p19)
+ - [iPhone Air is incredibly tougher than it looks](https://appleinsider.com/articles/25/09/11/iphone-air-is-incredibly-tougher-than-it-looks?utm_source=rss)
  - [Apple still won&#39;t confirm that it&#39;s working on a foldable iPhone](https://appleinsider.com/articles/25/09/11/apple-still-wont-confirm-that-its-working-on-a-foldable-iphone?utm_source=rss)
- - [These are the best iPhone 17 Pro and iPhone 17 Pro Max cases you can buy right now](https://appleinsider.com/inside/iphone-17/best/best-iphone-17-pro-and-iphone-17-pro-max-cases?utm_source=rss)
- - [OpenAI projects $200B in revenue in 2030, with R&amp;D spending hitting ~45% of that, or ~$90B; R&amp;D costs of Alphabet and others are currently 10%-20% of revenue &lpar;The Information&rpar;](http://www.techmeme.com/250911/p18#a250911p18)
- - [NASA found clues of life on Mars, but budget cuts threaten future missions](https://www.theverge.com/nasa/776554/nasa-mars-jezero-crater-budget-cuts)
- - [Charlie Kirk Was Shot and Killed in a Post-Content-Moderation World](https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/)<!-- TECH:END -->
+ - [&#39;How to Train Your Dragon&#39; Streaming on Peacock: Release Date and Time](https://www.cnet.com/tech/services-and-software/how-to-train-your-dragon-streaming-on-peacock-release-date-and-time/#ftag=CAD590a51e)
+ - [These are the best iPhone 17 Pro and iPhone 17 Pro Max cases you can buy right now](https://appleinsider.com/inside/iphone-17/best/best-iphone-17-pro-and-iphone-17-pro-max-cases?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

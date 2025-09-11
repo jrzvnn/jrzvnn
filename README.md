@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The presidential palace in Kathmandu, the capital of Nepal, was seized and set on fire by protesters against the ban on social media. The prime minister&#39;s wife died after being beaten. About 1,500 prisoners were released from prisons.](http://9gag.com/gag/an7dDrV)
- - 😝 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 💣 [If professional electric is Russian...](http://9gag.com/gag/azxB45b)
- - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 👉 [When you decide to take that leap, sometimes it pays off.](http://9gag.com/gag/a1mxErY)<!-- MEMES:END -->
+ - 😝 [My pension money...](http://9gag.com/gag/aLnbW6M)
+ - 😝 [Slavic Lives Matter](http://9gag.com/gag/a4PxWx1)
+ - 💣 [Core memory unlocked](http://9gag.com/gag/aqydD1Y)
+ - 😝 [Before old grandpa narrative sets in understand there is no muzzle flash, and there is audio of an officer seeing a man on the roof with a long rifle and more than 1 video of THIS man on the roof in all black. So](http://9gag.com/gag/a87nzGZ)
+ - 👉 [Guess the only way to fight against them is.... Pork?](http://9gag.com/gag/aE0QOmO)<!-- MEMES:END -->
 
 ---
 

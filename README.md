@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Apple Downtown Detroit store will open on iPhone 17 launch day](https://appleinsider.com/articles/25/09/12/a-new-apple-downtown-detroit-store-will-open-on-iphone-17-launch-day?utm_source=rss)
- - [Charlie Kirk Shooting Suspect Identified as 22-Year-Old Utah Man](https://www.wired.com/story/charlie-kirk-shooting-suspect-identified-as-22-year-old-utah-man-tyler-robinson/)
- - [Pokémon Legends: Z-A&amp;#8217;s first DLC will take you to the Mega Dimension](https://www.theverge.com/pokemon/777169/pokemon-legends-za-mega-dimension-dlc-nmega-raichu)
- - [Zombie iTunes social media accounts lurch back to life for Taylor Swift](https://appleinsider.com/articles/25/09/12/zombie-itunes-social-media-accounts-lurch-back-to-life-for-taylor-swift?utm_source=rss)
- - [The Best Gifts for Newlyweds They’ll Actually Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-newlyweds/)<!-- TECH:END -->
+ - [Some 20-somethings flocking to SF to build trillion-dollar AI startups say no to booze, sleep, and fun as they strive to be, or appear to be, the most obsessed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250912/p14#a250912p14)
+ - [AirPods Pro 3 vs AirPods Pro 2: Apple&#39;s premium earbuds, compared](https://appleinsider.com/inside/airpods/vs/airpods-pro-3-vs-airpods-pro-2-apples-premium-earbuds-compared?utm_source=rss)
+ - [Nissan Leaf 2026 Review: Superb Steering, Competitive Pricing](https://www.wired.com/review/nissan-leaf-2026/)
+ - [I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now](https://www.wired.com/story/anthropic-settlement-books-copyright/)
+ - [Fight for glory in Fire Emblem: Fortune’s Weave coming to the Switch 2 next year](https://www.theverge.com/news/777187/fire-emblem-fortunes-weave-annoucement-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

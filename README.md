@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
- - 💣 [Just another day in paradise looking at these mountains](http://9gag.com/gag/aMVWy5R)
+ - 😝 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
+ - 😝 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
+ - 💣 [Se ator\u00f3 el cierre](http://9gag.com/gag/a6Zx3Qm)
  - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)<!-- MEMES:END -->
+ - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
 
 ---
 

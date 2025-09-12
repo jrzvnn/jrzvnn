@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is he gay now?](https://www.reddit.com/r/funny/comments/1nf5b4b/is_he_gay_now/)
- - 😝 [Anti anti FA](http://9gag.com/gag/aLnbNXg)
- - 💣 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 😝 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
- - 👉 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)<!-- MEMES:END -->
+ - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
+ - 💣 [Store owner saved himself from unknown visitors](http://9gag.com/gag/a87nXqO)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---
 

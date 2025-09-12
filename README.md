@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 💣 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
- - 😝 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
+ - 💣 [Muppet show](http://9gag.com/gag/aoyddDe)
+ - 😝 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
+ - 👉 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)<!-- MEMES:END -->
 
 ---
 

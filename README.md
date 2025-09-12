@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite hype and optimistic projections, the humanoid robot industry faces hurdles, from battery life and design to limited demand for large-scale deployments &lpar;Evan Ackerman/IEEE Spectrum&rpar;](http://www.techmeme.com/250912/p3#a250912p3)
  - [Lenovo Coupon Codes and Deals: Up to $500 Off](https://www.wired.com/story/lenovo-coupon-code/)
  - [Apple gets FDA clearance for hypertension alerts on Apple Watch, and plans to roll out the feature to Series 11, 10, and 9, and Watch Ultra 3, and 2 next week &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250912/p2#a250912p2)
  - [Sources: OpenAI and Nvidia will pledge billions in UK data center investments during their next week&#39;s trip, which coincides with President Trump&#39;s UK visit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250912/p1#a250912p1)
- - [Alibaba releases Qwen3-Next, a new model architecture optimized for long-context understanding, large parameter scale, and better computational efficiency &lpar;Crystal Liu/Alizila&rpar;](http://www.techmeme.com/250911/p29#a250911p29)
- - [FDA Clears the Apple Watch for Hypertension Alerts](https://www.cnet.com/tech/mobile/the-fda-clears-the-apple-watch-for-hypertension-alerts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alibaba releases Qwen3-Next, a new model architecture optimized for long-context understanding, large parameter scale, and better computational efficiency &lpar;Crystal Liu/Alizila&rpar;](http://www.techmeme.com/250911/p29#a250911p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

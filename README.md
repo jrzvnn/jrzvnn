@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Looking back at Steve Jobs&#39;s NeXT, Inc -- the most successful failure ever](https://appleinsider.com/articles/25/09/12/looking-back-at-steve-jobss-next-inc----the-most-successful-failure-ever?utm_source=rss)
+ - [Metroid Prime 4 goes beyond, launching this December](https://www.theverge.com/news/777056/metroid-prime-4-release-date-nintend-direct-september-2025)
  - [Virtual Boy games are coming to Nintendo Switch Online](https://www.theverge.com/nintendo/777032/nintendo-switch-virtual-boy-games)
  - [Ultraloq adds Android tap-to-unlock to its Apple Home Key smart lock](https://www.theverge.com/news/777055/ultraloq-adds-android-tap-to-unlock-to-its-apple-home-key-smart-lock)
- - [Sources: India&#39;s Billionbrains Garage, parent of investment app Groww, plans to file for an India IPO next week, seeking $650M-$800M at an ~$8B valuation &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/250912/p12#a250912p12)
- - [iPhone 17 Pro Max sees shipping date slip immediately, but iPhone Air does not](https://appleinsider.com/articles/25/09/12/iphone-17-pro-max-sees-shipping-date-slip-immediately-but-iphone-air-does-not?utm_source=rss)
- - [Mario’s going to space in The Super Mario Galaxy Movie trailer](https://www.theverge.com/news/777071/super-mario-bros-movie-sequel-nintendo-direct-september-2025)<!-- TECH:END -->
+ - [Sources: India&#39;s Billionbrains Garage, parent of investment app Groww, plans to file for an India IPO next week, seeking $650M-$800M at an ~$8B valuation &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/250912/p12#a250912p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

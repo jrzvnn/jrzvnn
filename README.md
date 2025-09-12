@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 12, #354](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-12-354/#ftag=CAD590a51e)
  - [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090](https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs)
  - [Put the Q-Tip Down. Here&#39;s How to Safely Clean Your Ears](https://www.cnet.com/health/personal-care/put-q-tip-down-how-safely-clean-ears/#ftag=CAD590a51e)
  - [Online Apple Store goes down ahead of iPhone 17 preorders](https://appleinsider.com/articles/25/09/12/online-apple-store-goes-down-ahead-of-iphone-17-preorders?utm_source=rss)
- - [Over 100K Nepali citizens gathered on Discord to help nominate an interim leader after protests sparked by a social media ban led to the government&#39;s collapse &lpar;Pranav Baskar/New York Times&rpar;](http://www.techmeme.com/250912/p6#a250912p6)
- - [Switzerland proposes regulations forcing service providers to collect user IDs and disable encryption, threatening its status as a haven for privacy tech firms &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250912/p5#a250912p5)<!-- TECH:END -->
+ - [Over 100K Nepali citizens gathered on Discord to help nominate an interim leader after protests sparked by a social media ban led to the government&#39;s collapse &lpar;Pranav Baskar/New York Times&rpar;](http://www.techmeme.com/250912/p6#a250912p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside VLC - the best universal video tool for Mac for over a decade](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)
  - [VPNs and Age-Verification Laws: What You Need to Know](https://www.wired.com/story/vpns-and-age-verification-laws/)
  - [iPhone Air delayed in China over eSIM regulations](https://appleinsider.com/articles/25/09/12/iphone-air-delayed-in-china-over-esim-regulations?utm_source=rss)
  - [Apple delays iPhone Air pre-orders in China, likely over eSIM regulatory issues, replacing the original schedule with &quot;release information to be updated later&quot; &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250912/p9#a250912p9)
- - [Sony’s new Xperia phone jumps on the camera bar bandwagon](https://www.theverge.com/news/777002/sony-xperia-10-vii-phone-design-specs-price)
- - [iOS 26 review: Smart, glassy, but waiting on Siri](https://appleinsider.com/articles/25/09/12/ios-26-review-smart-glassy-but-waiting-on-siri?utm_source=rss)<!-- TECH:END -->
+ - [Sony’s new Xperia phone jumps on the camera bar bandwagon](https://www.theverge.com/news/777002/sony-xperia-10-vii-phone-design-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

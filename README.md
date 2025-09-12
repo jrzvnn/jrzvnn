@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft avoids EU fine after Slack complained about Teams bundling](https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 12, #354](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-12-354/#ftag=CAD590a51e)
- - [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090](https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs)
- - [Put the Q-Tip Down. Here&#39;s How to Safely Clean Your Ears](https://www.cnet.com/health/personal-care/put-q-tip-down-how-safely-clean-ears/#ftag=CAD590a51e)
- - [Online Apple Store goes down ahead of iPhone 17 preorders](https://appleinsider.com/articles/25/09/12/online-apple-store-goes-down-ahead-of-iphone-17-preorders?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Foundation&#39; dodges a Seldon Crisis with last-minute renewal](https://appleinsider.com/articles/25/09/12/foundation-dodges-a-seldon-crisis-with-last-minute-renewal?utm_source=rss)
+ - [The EU ends an antitrust probe against Microsoft with no fine and accepts its concessions, including offering Office without Teams in Europe for seven years &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250912/p7#a250912p7)
+ - [Prongs rock](https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial)
+ - [FTC to AI Companies: Tell Us How You Protect Teens and Kids Who Use AI Companions](https://www.cnet.com/tech/services-and-software/ftc-to-ai-companies-tell-us-how-you-protect-teens-and-kids-who-use-ai-companions/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 12, #824](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-12-824/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

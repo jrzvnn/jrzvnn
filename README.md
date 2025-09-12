@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new Apple Downtown Detroit store will open on iPhone 17 launch day](https://appleinsider.com/articles/25/09/12/a-new-apple-downtown-detroit-store-will-open-on-iphone-17-launch-day?utm_source=rss)
+ - [Charlie Kirk Shooting Suspect Identified as 22-Year-Old Utah Man](https://www.wired.com/story/charlie-kirk-shooting-suspect-identified-as-22-year-old-utah-man-tyler-robinson/)
  - [Pokémon Legends: Z-A&amp;#8217;s first DLC will take you to the Mega Dimension](https://www.theverge.com/pokemon/777169/pokemon-legends-za-mega-dimension-dlc-nmega-raichu)
  - [Zombie iTunes social media accounts lurch back to life for Taylor Swift](https://appleinsider.com/articles/25/09/12/zombie-itunes-social-media-accounts-lurch-back-to-life-for-taylor-swift?utm_source=rss)
- - [The Best Gifts for Newlyweds They’ll Actually Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-newlyweds/)
- - [The next Pokémon looks a bit like Minecraft](https://www.theverge.com/news/777159/pokemon-pokopia-nintendo-switch-2)
- - [Bring death to Chronos in Hades 2 this September](https://www.theverge.com/news/777117/hades-2-release-date-september-nintendo-switch)<!-- TECH:END -->
+ - [The Best Gifts for Newlyweds They’ll Actually Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-newlyweds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

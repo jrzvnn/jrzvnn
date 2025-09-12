@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
- - 💣 [Who is the most universally hated person from your country?](http://9gag.com/gag/ajPdWP8)
- - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/ajPdR3g)
+ - 😝 [It&#39;s nice not living in third world countries](http://9gag.com/gag/aXPdeR9)
+ - 💣 [The Resort](http://9gag.com/gag/aZZdv40)
+ - 😝 [FALSE FLAG POSTS](http://9gag.com/gag/apRddYp)
+ - 👉 [Friends will do this with me](http://9gag.com/gag/avyDmKq)<!-- MEMES:END -->
 
 ---
 

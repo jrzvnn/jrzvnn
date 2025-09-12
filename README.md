@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air delayed in China over eSIM regulations](https://appleinsider.com/articles/25/09/12/iphone-air-delayed-in-china-over-esim-regulations?utm_source=rss)
+ - [Apple delays iPhone Air pre-orders in China, likely over eSIM regulatory issues, replacing the original schedule with &quot;release information to be updated later&quot; &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250912/p9#a250912p9)
+ - [Sony’s new Xperia phone jumps on the camera bar bandwagon](https://www.theverge.com/news/777002/sony-xperia-10-vii-phone-design-specs-price)
  - [iOS 26 review: Smart, glassy, but waiting on Siri](https://appleinsider.com/articles/25/09/12/ios-26-review-smart-glassy-but-waiting-on-siri?utm_source=rss)
- - [Inside VLC - the best universal video tool for Mac for over a decade.](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)
- - [At the Semicon trade show in Taipei, Taiwan promotes diplomatic relations and pitches its tech manufacturing to &quot;create trusted non-red supply chains&quot; &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/250912/p8#a250912p8)
- - [8 Best Espresso Machines for Home &lpar;2025&rpar;, Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)
- - [&#39;Foundation&#39; dodges a Seldon Crisis with last-minute renewal](https://appleinsider.com/articles/25/09/12/foundation-dodges-a-seldon-crisis-with-last-minute-renewal?utm_source=rss)<!-- TECH:END -->
+ - [Inside VLC - the best universal video tool for Mac for over a decade.](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

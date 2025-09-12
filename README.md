@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Robby Walker, one of Apple&#39;s most senior AI executives who was in charge of Siri until earlier this year, is leaving the company next month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250912/p24#a250912p24)
- - [The iPhone Air Could Trigger a Thin Phone Avalanche](https://www.cnet.com/tech/mobile/the-iphone-air-could-trigger-a-thin-phone-avalanche/#ftag=CAD590a51e)
- - [Apple Watch Fans Get a Much-Needed Upgrade With the Ultra 3](https://www.cnet.com/tech/mobile/apple-watch-fans-get-a-much-needed-upgrade-with-the-ultra-3/#ftag=CAD590a51e)
  - [Opendoor&#39;s new chairman Keith Rabois says &quot;I don&#39;t know what most&quot; of its 1400 employees do and the company doesn&#39;t need &quot;more than 200 of them&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250912/p23#a250912p23)
- - [Microsoft Will Lower Price of Office 365 Without Teams Platform, Avoiding EU Antitrust Fine](https://www.cnet.com/tech/services-and-software/microsoft-will-lower-price-of-office-365-without-teams-platform-avoiding-eu-antitrust-fine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 35% on Parallels Desktop 26 to run Windows apps on macOS Tahoe](https://appleinsider.com/articles/25/09/12/save-35-on-parallels-desktop-26-to-run-windows-apps-on-macos-tahoe?utm_source=rss)
+ - [How Sleep Score works on Apple Watch with watchOS 26](https://appleinsider.com/articles/25/09/12/how-sleep-score-works-on-apple-watch-with-watchos-26?utm_source=rss)
+ - [Gemini opened up 32.2% at $37.01 per share in its Nasdaq debut, giving it a ~$4.4B market cap, after the Winklevoss&#39; crypto exchange raised $425M in its IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250912/p22#a250912p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

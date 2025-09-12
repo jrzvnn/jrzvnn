@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They can&#39;t even make a circle](http://9gag.com/gag/a5Qx5by)
- - 😝 [Store owner saved himself from unknown visitors](http://9gag.com/gag/a87nXqO)
- - 💣 [Economy in 2025](http://9gag.com/gag/avyDmQ5)
- - 😝 [Title](http://9gag.com/gag/ajPdR3g)
- - 👉 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)<!-- MEMES:END -->
+ - 😝 [Anti anti FA](http://9gag.com/gag/aLnbNXg)
+ - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
+ - 💣 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
+ - 😝 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---
 

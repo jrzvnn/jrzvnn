@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waiting for her golden medal.](http://9gag.com/gag/aNDqjz6)
- - 😝 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
- - 💣 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
+ - 😝 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 💣 [Yeah she looks tired thats for sure](http://9gag.com/gag/aryd2E5)
  - 😝 [No Coments](http://9gag.com/gag/aLnbNjv)
- - 👉 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)<!-- MEMES:END -->
+ - 👉 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)<!-- MEMES:END -->
 
 ---
 

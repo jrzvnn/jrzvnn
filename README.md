@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
  - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 😝 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 💣 [Rooftop/parking lot cam](http://9gag.com/gag/abAdmBX)
- - 😝 [My brain during every important discussion](http://9gag.com/gag/aZZdVvn)
- - 👉 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)<!-- MEMES:END -->
+ - 💣 [Economy in 2025](http://9gag.com/gag/avyDmQ5)
+ - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
+ - 👉 [Store owner saved himself from unknown visitors](http://9gag.com/gag/a87nXqO)<!-- MEMES:END -->
 
 ---
 

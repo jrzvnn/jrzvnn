@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether names Bo Hines, the former Executive Director of the White House Crypto Council, as the CEO of its new US unit and launches USAT stablecoin &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250912/p15#a250912p15)
+ - [Charlie Kirk&amp;#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme](https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme)
  - [The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model](https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale)
  - [The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26](https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26)
- - [Nintendo Drops Surprise Trailer for New Super Mario Galaxy Movie](https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/)
- - [Some 20-somethings flocking to SF to build trillion-dollar AI startups say no to booze, sleep, and fun as they strive to be, or appear to be, the most obsessed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250912/p14#a250912p14)
- - [Is the iPhone Air a Klutz&#39;s Worst Nightmare?](https://www.cnet.com/tech/mobile/is-the-iphone-air-a-klutzs-worst-nightmare/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo Drops Surprise Trailer for New Super Mario Galaxy Movie](https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

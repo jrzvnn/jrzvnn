@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [&#39;Hades II&#39; Is Coming to Nintendo Switch This Month](https://www.wired.com/story/hades-ii-is-coming-to-nintendo-switch-this-month/)
  - [Micro1, a Scale AI competitor that lets AI companies find contractors for data labeling and training, raised a $35M Series A led by O1A at a $500M valuation &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250912/p18#a250912p18)
- - [Encyclopedia Britannica and Merriam-Webster sue Perplexity AI for copyright and trademark infringement](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)
+ - [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)
  - [Eight years ago, the iPhone X set the table for everything that has come since](https://appleinsider.com/articles/25/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_source=rss)
- - [Encyclopedia Britannica Wants Perplexity to Stop Using Its Logos When AI Makes Stuff Up](https://www.cnet.com/tech/services-and-software/encyclopedia-britannica-wants-perplexity-to-stop-using-its-logos-when-ai-makes-stuff-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This is how much an iPhone Air will cost to repair out of warranty](https://appleinsider.com/articles/25/09/12/this-is-how-much-an-iphone-air-will-cost-to-repair-out-of-warranty?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

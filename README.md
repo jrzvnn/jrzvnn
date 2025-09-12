@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 😝 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
- - 💣 [Who keeps employing these ghouls in the first place!?](http://9gag.com/gag/aGyobrK)
- - 😝 [Dude didn&#39;t learn the lesson after the first streamer tried that](http://9gag.com/gag/a7oG68q)
- - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
+ - 😝 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
+ - 💣 [Rooftop/parking lot cam](http://9gag.com/gag/abAdmBX)
+ - 😝 [My brain during every important discussion](http://9gag.com/gag/aZZdVvn)
+ - 👉 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)<!-- MEMES:END -->
 
 ---
 

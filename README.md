@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That moment you question everything you&#39;ve ever learned](http://9gag.com/gag/adBd41Z)
- - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
- - 💣 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
+ - 😝 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
  - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 💣 [Dude didn&#39;t learn the lesson after the first streamer tried that](http://9gag.com/gag/a7oG68q)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
  - 👉 [Thats just nuts!](http://9gag.com/gag/aryd8pB)<!-- MEMES:END -->
 
 ---

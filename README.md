@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto trading volume at Bitstamp, bought by Robinhood in 2024, grew 21% MoM in August to $14.4B, surpassing Robinhood&#39;s crypto volume, which fell 18% to $13.7B &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250912/p11#a250912p11)
- - [Nintendo Direct September 2025: all the news and trailers](https://www.theverge.com/nintendo/776546/nintendo-direct-september-2025-announcements-trailers)
- - [Save up to $1,100 when you preorder Apple&#39;s iPhone 17, 17 Pro, 17 Pro Max, or iPhone Air](https://appleinsider.com/articles/25/09/12/save-up-to-1100-when-you-preorder-apples-iphone-17-17-pro-17-pro-max-or-iphone-air?utm_source=rss)
- - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
- - [iPhone 17 launch, Apple Watches, and AirPods Pro 3 on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/12/iphone-17-launch-apple-watches-and-airpods-pro-3-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Mario’s going to space in The Super Mario Galaxy Movie trailer](https://www.theverge.com/news/777071/super-mario-bros-movie-sequel-nintendo-direct-september-2025)
+ - [Powerbeats Pro 2 will get AirPods Pro 3-like fitness features with iOS 26](https://appleinsider.com/articles/25/09/12/powerbeats-pro-2-will-get-airpods-pro-3-like-fitness-features-with-ios-26?utm_source=rss)
+ - [Mastodon is bringing quote posts to the fediverse](https://www.theverge.com/news/777067/mastodon-quote-posts-fediverse-launch)
+ - [Wi-Fi Router Vs Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
+ - [Crypto trading volume at Bitstamp, bought by Robinhood in 2024, grew 21% MoM in August to $14.4B, surpassing Robinhood&#39;s crypto volume, which fell 18% to $13.7B &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250912/p11#a250912p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

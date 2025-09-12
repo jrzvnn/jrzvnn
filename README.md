@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save 35% on Parallels Desktop 26 to run Windows apps on macOS Tahoe](https://appleinsider.com/articles/25/09/12/save-35-on-parallels-desktop-26-to-run-windows-apps-on-macos-tahoe?utm_source=rss)
  - [How Sleep Score works on Apple Watch with watchOS 26](https://appleinsider.com/articles/25/09/12/how-sleep-score-works-on-apple-watch-with-watchos-26?utm_source=rss)
- - [Gemini shares opened up 32.2% at $37.01 in its Nasdaq debut, giving it a ~$4.4B market cap, after the Winklevoss&#39; exchange operator raised $425M in its IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250912/p22#a250912p22)
- - [Mastodon plans to launch quote posts starting next week with safety features allowing users to control how they get quoted, to avoid &quot;dunking&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250912/p21#a250912p21)
- - [Save $70 on One of Our Favorite Android Tablets](https://www.wired.com/story/samsung-galaxy-tab-s10-fe-deal/)
- - [Everything New in the Apple Watch Series 11: Blood Pressure Alerts, Sleep Scores, 5G and More](https://www.cnet.com/tech/mobile/everything-new-in-the-apple-watch-series-11-blood-pressure-alerts-sleep-scores-5g-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Gemini opened up 32.2% at $37.01 per share in its Nasdaq debut, giving it a ~$4.4B market cap, after the Winklevoss&#39; crypto exchange raised $425M in its IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250912/p22#a250912p22)
+ - [Mastodon plans to roll out quote posts next week, with safety features that give users several ways to control how their posts can be quoted, to avoid &quot;dunking&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250912/p21#a250912p21)
+ - [Save $70 on One of Our Favorite Android Tablets](https://www.wired.com/story/samsung-galaxy-tab-s10-fe-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

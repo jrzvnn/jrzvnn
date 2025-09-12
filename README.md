@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ajPdR3g)
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 💣 [Magnificent](http://9gag.com/gag/aQzrBQK)
- - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
+ - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
+ - 💣 [Airbnb came with a hidden DLC: host lives inside the walls](http://9gag.com/gag/a87nVx6)
+ - 😝 [Magnificent](http://9gag.com/gag/aQzrBQK)
  - 👉 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)<!-- MEMES:END -->
 
 ---

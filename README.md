@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/ajPdR3g)
- - 😝 [It&#39;s nice not living in third world countries](http://9gag.com/gag/aXPdeR9)
- - 💣 [The Resort](http://9gag.com/gag/aZZdv40)
- - 😝 [FALSE FLAG POSTS](http://9gag.com/gag/apRddYp)
- - 👉 [Friends will do this with me](http://9gag.com/gag/avyDmKq)<!-- MEMES:END -->
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
+ - 💣 [Just another day in paradise looking at these mountains](http://9gag.com/gag/aMVWy5R)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
+ - 👉 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)<!-- MEMES:END -->
 
 ---
 

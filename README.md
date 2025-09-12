@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090](https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs)
+ - [Put the Q-Tip Down. Here&#39;s How to Safely Clean Your Ears](https://www.cnet.com/health/personal-care/put-q-tip-down-how-safely-clean-ears/#ftag=CAD590a51e)
  - [Online Apple Store goes down ahead of iPhone 17 preorders](https://appleinsider.com/articles/25/09/12/online-apple-store-goes-down-ahead-of-iphone-17-preorders?utm_source=rss)
  - [Over 100K Nepali citizens gathered on Discord to help nominate an interim leader after protests sparked by a social media ban led to the government&#39;s collapse &lpar;Pranav Baskar/New York Times&rpar;](http://www.techmeme.com/250912/p6#a250912p6)
- - [Switzerland proposes regulations forcing service providers to collect user IDs and disable encryption, threatening its status as a haven for privacy tech firms &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250912/p5#a250912p5)
- - [California SB 243, which would mandate safety protocols for AI companion chatbots, has passed the State Assembly and Senate and now heads to Gov. Newsom&#39;s desk &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250912/p4#a250912p4)
- - [Apple Watch hypertension alerts cleared by FDA for new and old watches](https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda)<!-- TECH:END -->
+ - [Switzerland proposes regulations forcing service providers to collect user IDs and disable encryption, threatening its status as a haven for privacy tech firms &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/250912/p5#a250912p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Manhood before puberty 😂](https://www.reddit.com/r/funny/comments/1nf3bv1/manhood_before_puberty/)
- - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 💣 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
- - 👉 [Yes sir](http://9gag.com/gag/amoddV4)<!-- MEMES:END -->
+ - 😝 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)
+ - 😝 [Anti anti FA](http://9gag.com/gag/aLnbNXg)
+ - 💣 [White lives matter](http://9gag.com/gag/aZZdRD3)
+ - 😝 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---
 

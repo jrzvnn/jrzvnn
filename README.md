@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
- - 😝 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
- - 💣 [Se ator\u00f3 el cierre](http://9gag.com/gag/a6Zx3Qm)
+ - 😝 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
+ - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
+ - 💣 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
  - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)<!-- MEMES:END -->
+ - 👉 [European customer refuses to leave a tip](http://9gag.com/gag/aByvv2Z)<!-- MEMES:END -->
 
 ---
 

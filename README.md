@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
- - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 💣 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 😝 [How can I describe this?](http://9gag.com/gag/a4PxwEv)
- - 👉 [Mormon?](http://9gag.com/gag/aO8jpVr)<!-- MEMES:END -->
+ - 😝 [That moment you question everything you&#39;ve ever learned](http://9gag.com/gag/adBd41Z)
+ - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
+ - 💣 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 👉 [Thats just nuts!](http://9gag.com/gag/aryd8pB)<!-- MEMES:END -->
 
 ---
 

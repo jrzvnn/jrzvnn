@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Alibaba and Baidu have begun using their own internally designed chips to train their AI models, partly replacing AI chips made by Nvidia &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250912/p16#a250912p16)
+ - [iPhone 17 Pro: Wild Orange Color, Bigger Zoom, A19 Pro Chip for $1,099](https://www.cnet.com/tech/mobile/iphone-17-pro-wild-cosmic-orange-bigger-zoom-a19-pro-1099/#ftag=CAD590a51e)
+ - [This is the Most Effective Type of Creatine You Should Be Taking to See Results, According to Registered Dietitians](https://www.cnet.com/health/the-best-types-of-creatine-for-all-your-fitness-goals/#ftag=CAD590a51e)
  - [Tether names Bo Hines, the former Executive Director of the White House Crypto Council, as the CEO of its new US unit and launches USAT stablecoin &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250912/p15#a250912p15)
- - [Charlie Kirk&amp;#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme](https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme)
- - [The Galaxy Watch 8 Classic is $140 off, nearly the same price as the standard model](https://www.theverge.com/tech/777246/samsung-galaxy-watch-8-classic-anker-soundcore-select-4-go-deal-sale)
- - [The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26](https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26)<!-- TECH:END -->
+ - [Charlie Kirk&amp;#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme](https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

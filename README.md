@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 💣 [Store owner saved himself from unknown visitors](http://9gag.com/gag/a87nXqO)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 💣 [How can I describe this?](http://9gag.com/gag/a4PxwEv)
  - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
+ - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
 
 ---
 

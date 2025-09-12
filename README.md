@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Discord is distancing itself from the Charlie Kirk shooting suspect](https://www.theverge.com/news/777614/discord-charlie-kirk-shooting-tyler-robinson)
+ - [Canelo vs. Crawford: When to Watch the Fight Live on Netflix](https://www.cnet.com/tech/services-and-software/canelo-vs-crawford-when-to-watch-the-fight-live-on-netflix/#ftag=CAD590a51e)
  - [Executive linked to Siri delays is leaving Apple in October](https://appleinsider.com/articles/25/09/12/executive-linked-to-siri-delays-is-leaving-apple-in-october?utm_source=rss)
  - [Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’](https://www.wired.com/story/lee-pace-foundation-interview/)
- - [France-based Scintil Photonics, which is developing integrated photonic system-on-chips for AI infrastructure, raised a $58M Series B led by Yotta and NGP &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250912/p25#a250912p25)
- - [Extremist Groups Hated Charlie Kirk. They’re Using His Death to Radicalize Others](https://www.wired.com/story/extremists-hated-charlie-kirk-now-radicalizing-others/)<!-- TECH:END -->
+ - [France-based Scintil Photonics, which is developing integrated photonic system-on-chips for AI infrastructure, raised a $58M Series B led by Yotta and NGP &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250912/p25#a250912p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

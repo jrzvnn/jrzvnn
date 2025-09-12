@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Resort](http://9gag.com/gag/aZZdv40)
- - 😝 [On this day in 1993 the X Files premiered on television.](http://9gag.com/gag/aD2PP99)
- - 💣 [Title](http://9gag.com/gag/ajPdR3g)
- - 😝 [Friends will do this with me](http://9gag.com/gag/avyDmKq)
- - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
+ - 😝 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
+ - 💣 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
+ - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
+ - 👉 [If professional electric is Russian...](http://9gag.com/gag/azxB45b)<!-- MEMES:END -->
 
 ---
 

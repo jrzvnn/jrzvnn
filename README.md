@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases Qwen3-Next, a new model architecture optimized for long-context understanding, large parameter scale, and better computational efficiency &lpar;Crystal Liu/Alizila&rpar;](http://www.techmeme.com/250911/p29#a250911p29)
+ - [The FDA Clears the Apple Watch for Hypertension Alerts](https://www.cnet.com/tech/mobile/the-fda-clears-the-apple-watch-for-hypertension-alerts/#ftag=CAD590a51e)
  - [Apple Watch hypertension notifications get FDA approval](https://appleinsider.com/articles/25/09/12/apple-watch-hypertension-notifications-get-fda-approval?utm_source=rss)
- - [Scenes From Charlie Kirk&#39;s Impromptu Memorial in Utah](https://www.wired.com/story/a-vigil-for-charlie-kirk/)
- - [Databricks&#39; head of AI, Naveen Rao, is transitioning to an advisory role; source: his next venture will focus on a next-gen computer to address rising AI costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p28#a250911p28)
- - [DOJ antitrust lawyers battling a stubborn Apple turn to the court for help](https://appleinsider.com/articles/25/09/12/doj-antitrust-lawyers-battling-a-stubborn-apple-turn-to-the-court-for-help?utm_source=rss)
- - [Source: the clause rescinding Microsoft&#39;s access to OpenAI&#39;s most powerful tech if OpenAI develops AGI remains part of their new deal, but it has been modified &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p27#a250911p27)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-12/#ftag=CAD590a51e)
+ - [Scenes From Charlie Kirk&#39;s Impromptu Memorial in Utah](https://www.wired.com/story/a-vigil-for-charlie-kirk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

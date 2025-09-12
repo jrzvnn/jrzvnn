@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Espresso Machines for Home &lpar;2025&rpar;, Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)
  - [&#39;Foundation&#39; dodges a Seldon Crisis with last-minute renewal](https://appleinsider.com/articles/25/09/12/foundation-dodges-a-seldon-crisis-with-last-minute-renewal?utm_source=rss)
  - [The EU ends an antitrust probe against Microsoft with no fine and accepts its concessions, including offering Office without Teams in Europe for seven years &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/250912/p7#a250912p7)
  - [Prongs rock](https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial)
- - [FTC to AI Companies: Tell Us How You Protect Teens and Kids Who Use AI Companions](https://www.cnet.com/tech/services-and-software/ftc-to-ai-companies-tell-us-how-you-protect-teens-and-kids-who-use-ai-companions/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 12, #824](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-12-824/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTC to AI Companies: Tell Us How You Protect Teens and Kids Who Use AI Companions](https://www.cnet.com/tech/services-and-software/ftc-to-ai-companies-tell-us-how-you-protect-teens-and-kids-who-use-ai-companions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

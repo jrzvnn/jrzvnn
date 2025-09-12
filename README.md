@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
- - 😝 [Don&#39;t drink and dance](http://9gag.com/gag/aE0QOyK)
+ - 😝 [Cop: `what&#39;s going on?` Guy: `\ud83d\udc40 with??????????\ud83d\udc40`](http://9gag.com/gag/aE0QEYN)
+ - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
  - 💣 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
- - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [European customer refuses to leave a tip](http://9gag.com/gag/aByvv2Z)<!-- MEMES:END -->
+ - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
+ - 👉 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)<!-- MEMES:END -->
 
 ---
 

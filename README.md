@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Powerbeats Pro 2 are getting heart rate monitoring updates with iOS 26](https://www.theverge.com/news/777289/apple-beats-powerbeats-pro-2-heart-rate-monitoring-ios-26)
+ - [Nintendo Drops Surprise Trailer for New Super Mario Galaxy Movie](https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/)
  - [Some 20-somethings flocking to SF to build trillion-dollar AI startups say no to booze, sleep, and fun as they strive to be, or appear to be, the most obsessed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250912/p14#a250912p14)
  - [AirPods Pro 3 vs AirPods Pro 2: Apple&#39;s premium earbuds, compared](https://appleinsider.com/inside/airpods/vs/airpods-pro-3-vs-airpods-pro-2-apples-premium-earbuds-compared?utm_source=rss)
- - [Nissan Leaf 2026 Review: Superb Steering, Competitive Pricing](https://www.wired.com/review/nissan-leaf-2026/)
- - [I Wasn’t Sure I Wanted Anthropic to Pay Me for My Books—I Do Now](https://www.wired.com/story/anthropic-settlement-books-copyright/)
- - [Fight for glory in Fire Emblem: Fortune’s Weave coming to the Switch 2 next year](https://www.theverge.com/news/777187/fire-emblem-fortunes-weave-annoucement-trailer)<!-- TECH:END -->
+ - [Nissan Leaf 2026 Review: Superb Steering, Competitive Pricing](https://www.wired.com/review/nissan-leaf-2026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

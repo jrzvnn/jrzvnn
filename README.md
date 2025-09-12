@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The FDA Clears the Apple Watch for Hypertension Alerts](https://www.cnet.com/tech/mobile/the-fda-clears-the-apple-watch-for-hypertension-alerts/#ftag=CAD590a51e)
  - [Apple Watch hypertension notifications get FDA approval](https://appleinsider.com/articles/25/09/12/apple-watch-hypertension-notifications-get-fda-approval?utm_source=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-12/#ftag=CAD590a51e)
- - [Scenes From Charlie Kirk&#39;s Impromptu Memorial in Utah](https://www.wired.com/story/a-vigil-for-charlie-kirk/)<!-- TECH:END -->
+ - [Databricks&#39; head of AI, Naveen Rao, is transitioning to an advisory role; source: his next venture will focus on a next-gen computer to address rising AI costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p28#a250911p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pokémon Legends: Z-A&amp;#8217;s first DLC will take you to the Mega Dimension](https://www.theverge.com/pokemon/777169/pokemon-legends-za-mega-dimension-dlc-nmega-raichu)
  - [Zombie iTunes social media accounts lurch back to life for Taylor Swift](https://appleinsider.com/articles/25/09/12/zombie-itunes-social-media-accounts-lurch-back-to-life-for-taylor-swift?utm_source=rss)
  - [The Best Gifts for Newlyweds They’ll Actually Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-newlyweds/)
  - [The next Pokémon looks a bit like Minecraft](https://www.theverge.com/news/777159/pokemon-pokopia-nintendo-switch-2)
- - [Bring death to Chronos in Hades 2 this September](https://www.theverge.com/news/777117/hades-2-release-date-september-nintendo-switch)
- - [Sources: the FTC is investigating whether Amazon and Google misled advertisers by not properly disclosing the terms and pricing for ads on their websites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250912/p13#a250912p13)<!-- TECH:END -->
+ - [Bring death to Chronos in Hades 2 this September](https://www.theverge.com/news/777117/hades-2-release-date-september-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

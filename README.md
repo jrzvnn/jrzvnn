@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death](https://www.wired.com/story/charlie-kirk-art-censorship/)
  - [Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean](https://www.wired.com/story/charlie-kirk-bullet-memes/)
  - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)
  - [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk)
- - [OpenAI unveils Grove, a five-week mentorship program for nascent tech entrepreneurs, hosted in its San Francisco HQ, with ~15 participants in its first cohort &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/250912/p26#a250912p26)
- - [Congress Republicans want to target liberal donors after Charlie Kirk&amp;#8217;s death](https://www.theverge.com/policy/777615/republicans-radical-left-select-committee)<!-- TECH:END -->
+ - [OpenAI unveils Grove, a five-week mentorship program for nascent tech entrepreneurs, hosted in its San Francisco HQ, with ~15 participants in its first cohort &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/250912/p26#a250912p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: India&#39;s Billionbrains Garage, parent of investment app Groww, plans to file for an India IPO next week, seeking $650M-$800M at an ~$8B valuation &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/250912/p12#a250912p12)
+ - [iPhone 17 Pro Max sees shipping date slip immediately, but iPhone Air does not](https://appleinsider.com/articles/25/09/12/iphone-17-pro-max-sees-shipping-date-slip-immediately-but-iphone-air-does-not?utm_source=rss)
  - [Mario’s going to space in The Super Mario Galaxy Movie trailer](https://www.theverge.com/news/777071/super-mario-bros-movie-sequel-nintendo-direct-september-2025)
  - [Powerbeats Pro 2 will get AirPods Pro 3-like fitness features with iOS 26](https://appleinsider.com/articles/25/09/12/powerbeats-pro-2-will-get-airpods-pro-3-like-fitness-features-with-ios-26?utm_source=rss)
- - [Mastodon is bringing quote posts to the fediverse](https://www.theverge.com/news/777067/mastodon-quote-posts-fediverse-launch)
- - [Wi-Fi Router Vs Mesh System: Which Is Best for You?](https://www.wired.com/story/mesh-system-vs-wi-fi-router/)
- - [Crypto trading volume at Bitstamp, bought by Robinhood in 2024, grew 21% MoM in August to $14.4B, surpassing Robinhood&#39;s crypto volume, which fell 18% to $13.7B &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/250912/p11#a250912p11)<!-- TECH:END -->
+ - [Mastodon is bringing quote posts to the fediverse](https://www.theverge.com/news/777067/mastodon-quote-posts-fediverse-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

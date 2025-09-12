@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
- - 💣 [Magnificent](http://9gag.com/gag/aQzrBQK)
- - 😝 [Likes are not a replacement for compassion.....](http://9gag.com/gag/a34xeNm)
+ - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
+ - 😝 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
+ - 💣 [I know.....](http://9gag.com/gag/ajPdGRw)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
  - 👉 [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)<!-- MEMES:END -->
 
 ---

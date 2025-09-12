@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 💣 [How can I describe this?](http://9gag.com/gag/a4PxwEv)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
  - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
  - 👉 [White lives matter](http://9gag.com/gag/aZZdRD3)<!-- MEMES:END -->
 

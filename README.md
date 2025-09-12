@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Opendoor&#39;s new chairman Keith Rabois says &quot;I don&#39;t know what most&quot; of its 1400 employees do and the company doesn&#39;t need &quot;more than 200 of them&quot; &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250912/p23#a250912p23)
  - [Save 35% on Parallels Desktop 26 to run Windows apps on macOS Tahoe](https://appleinsider.com/articles/25/09/12/save-35-on-parallels-desktop-26-to-run-windows-apps-on-macos-tahoe?utm_source=rss)
  - [How Sleep Score works on Apple Watch with watchOS 26](https://appleinsider.com/articles/25/09/12/how-sleep-score-works-on-apple-watch-with-watchos-26?utm_source=rss)
  - [Gemini opened up 32.2% at $37.01 per share in its Nasdaq debut, giving it a ~$4.4B market cap, after the Winklevoss&#39; crypto exchange raised $425M in its IPO &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/250912/p22#a250912p22)
- - [Mastodon plans to roll out quote posts next week, with safety features that give users several ways to control how their posts can be quoted, to avoid &quot;dunking&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250912/p21#a250912p21)
- - [Save $70 on One of Our Favorite Android Tablets](https://www.wired.com/story/samsung-galaxy-tab-s10-fe-deal/)<!-- TECH:END -->
+ - [Mastodon plans to roll out quote posts next week, with safety features that give users several ways to control how their posts can be quoted, to avoid &quot;dunking&quot; &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250912/p21#a250912p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Manhood before puberty 😂](https://www.reddit.com/r/funny/comments/1nf3bv1/manhood_before_puberty/)
  - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 💣 [Economy in 2025](http://9gag.com/gag/avyDmQ5)
- - 😝 [Iykyk](http://9gag.com/gag/a1mxwqw)
- - 👉 [Store owner saved himself from unknown visitors](http://9gag.com/gag/a87nXqO)<!-- MEMES:END -->
+ - 💣 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
+ - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 👉 [Yes sir](http://9gag.com/gag/amoddV4)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking back at Steve Jobs&#39;s NeXT, Inc -- the most successful failure ever](https://appleinsider.com/articles/25/09/12/looking-back-at-steve-jobss-next-inc----the-most-successful-failure-ever?utm_source=rss)
- - [Metroid Prime 4 goes beyond, launching this December](https://www.theverge.com/news/777056/metroid-prime-4-release-date-nintend-direct-september-2025)
- - [Virtual Boy games are coming to Nintendo Switch Online](https://www.theverge.com/nintendo/777032/nintendo-switch-virtual-boy-games)
- - [Ultraloq adds Android tap-to-unlock to its Apple Home Key smart lock](https://www.theverge.com/news/777055/ultraloq-adds-android-tap-to-unlock-to-its-apple-home-key-smart-lock)
- - [Sources: India&#39;s Billionbrains Garage, parent of investment app Groww, plans to file for an India IPO next week, seeking $650M-$800M at an ~$8B valuation &lpar;Rajesh Mascarenhas/Bloomberg&rpar;](http://www.techmeme.com/250912/p12#a250912p12)<!-- TECH:END -->
+ - [Zombie iTunes social media accounts lurch back to life for Taylor Swift](https://appleinsider.com/articles/25/09/12/zombie-itunes-social-media-accounts-lurch-back-to-life-for-taylor-swift?utm_source=rss)
+ - [The Best Gifts for Newlyweds They’ll Actually Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-newlyweds/)
+ - [The next Pokémon looks a bit like Minecraft](https://www.theverge.com/news/777159/pokemon-pokopia-nintendo-switch-2)
+ - [Bring death to Chronos in Hades 2 this September](https://www.theverge.com/news/777117/hades-2-release-date-september-nintendo-switch)
+ - [Sources: the FTC is investigating whether Amazon and Google misled advertisers by not properly disclosing the terms and pricing for ads on their websites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250912/p13#a250912p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

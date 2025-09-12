@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 😝 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
- - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 😝 [No Coments](http://9gag.com/gag/aLnbNjv)
- - 👉 [My trusted companion](http://9gag.com/gag/aD2PNbO)<!-- MEMES:END -->
+ - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
+ - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 💣 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
+ - 😝 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
+ - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
 ---
 

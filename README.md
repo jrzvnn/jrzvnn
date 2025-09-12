@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 17 Crossbody Strap is too expensive, and there are better choices](https://appleinsider.com/inside/iphone-17/best/apples-iphone-17-crossbody-strap-is-too-expensive-and-there-are-better-choices?utm_source=rss)
- - [Inside VLC - the best universal video tool for Mac for over a decade](https://appleinsider.com/articles/25/09/12/inside-vlc---the-best-universal-video-tool-for-mac-for-over-a-decade?utm_source=rss)
- - [VPNs and Age-Verification Laws: What You Need to Know](https://www.wired.com/story/vpns-and-age-verification-laws/)
- - [iPhone Air delayed in China over eSIM regulations](https://appleinsider.com/articles/25/09/12/iphone-air-delayed-in-china-over-esim-regulations?utm_source=rss)
- - [Apple delays iPhone Air pre-orders in China, likely over eSIM regulatory issues, replacing the original schedule with &quot;release information to be updated later&quot; &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250912/p9#a250912p9)<!-- TECH:END -->
+ - [Save up to $1,100 when you preorder Apple&#39;s iPhone 17, 17 Pro, 17 Pro Max, or iPhone Air](https://appleinsider.com/articles/25/09/12/save-up-to-1100-when-you-preorder-apples-iphone-17-17-pro-17-pro-max-or-iphone-air?utm_source=rss)
+ - [Best Merino Wool T-Shirts &lpar;2025&rpar;, Tried On and Tested](https://www.wired.com/gallery/best-merino-wool-t-shirts/)
+ - [iPhone 17 launch, Apple Watches, and AirPods Pro 3 on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/12/iphone-17-launch-apple-watches-and-airpods-pro-3-on-the-appleinsider-podcast?utm_source=rss)
+ - [SK Hynix announces that it has completed development of HBM4, the next generation of high-bandwidth memory crucial for AI work; stock jumps 7% to a record high &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250912/p10#a250912p10)
+ - [iPhone Air launch delayed in China over eSIM issues](https://www.theverge.com/news/777023/iphone-air-launch-delayed-china-esim-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’](https://www.wired.com/story/lee-pace-foundation-interview/)
  - [France-based Scintil Photonics, which is developing integrated photonic system-on-chips for AI infrastructure, raised a $58M Series B led by Yotta and NGP &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250912/p25#a250912p25)
  - [Extremist Groups Hated Charlie Kirk. They’re Using His Death to Radicalize Others](https://www.wired.com/story/extremists-hated-charlie-kirk-now-radicalizing-others/)
  - [Stellantis cancels Ram 1500 REV as electric truck demand dims](https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger)
- - [GameHub fixed its Silksong save game uploads and now I&amp;#8217;m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)
- - [Sources: Robby Walker, one of Apple&#39;s most senior AI executives who was in charge of Siri until earlier this year, is leaving the company next month &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250912/p24#a250912p24)<!-- TECH:END -->
+ - [GameHub fixed its Silksong save game uploads and now I&amp;#8217;m playing across phone and PC](https://www.theverge.com/pc-gaming/777551/gamehub-fixed-its-silksong-save-game-uploads-and-now-im-playing-across-phone-and-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 😝 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 💣 [Muppet show](http://9gag.com/gag/aoyddDe)
- - 😝 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
- - 👉 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)<!-- MEMES:END -->
+ - 💣 [No Coments](http://9gag.com/gag/aLnbNjv)
+ - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
+ - 👉 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)<!-- MEMES:END -->
 
 ---
 

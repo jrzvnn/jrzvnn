@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: the clause rescinding Microsoft&#39;s access to OpenAI&#39;s most powerful tech if OpenAI develops AGI remains part of their new deal, but it has been modified &lpar;New York Times&rpar;](http://www.techmeme.com/250911/p27#a250911p27)
  - [Source: crypto exchange Gemini raises $425M in its IPO, selling about 15.2M shares for $28 each after marketing them for $24 to $26 apiece &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p26#a250911p26)
  - [Albania appoints an AI bot named Diella as the minister responsible for managing and awarding all public procurement tenders to combat corruption &lpar;Reuters&rpar;](http://www.techmeme.com/250911/p25#a250911p25)
  - [The iPhone 17 memory shield will give spyware developers a hard time](https://appleinsider.com/articles/25/09/11/the-iphone-17-memory-shield-will-give-spyware-developers-a-hard-time?utm_source=rss)
- - [Microsoft and OpenAI have a new deal that could clear the way for an IPO](https://www.theverge.com/news/776884/openai-microsoft-mou)
- - [Threat notifications sent out September 3, French government confirms](https://appleinsider.com/articles/25/09/11/threat-notifications-sent-out-september-3-french-government-confirms?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft and OpenAI have a new deal that could clear the way for an IPO](https://www.theverge.com/news/776884/openai-microsoft-mou)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

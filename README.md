@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
  - 💣 [Magnificent](http://9gag.com/gag/aQzrBQK)
- - 😝 [That&#39;s the tule, guys, sorry.](http://9gag.com/gag/apRdzAb)
- - 👉 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)<!-- MEMES:END -->
+ - 😝 [Likes are not a replacement for compassion.....](http://9gag.com/gag/a34xeNm)
+ - 👉 [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)<!-- MEMES:END -->
 
 ---
 

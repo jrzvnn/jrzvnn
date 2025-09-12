@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Encyclopedia Britannica and Merriam-Webster sue Perplexity AI for copyright and trademark infringement](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)
+ - [Eight years ago, the iPhone X set the table for everything that has come since](https://appleinsider.com/articles/25/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_source=rss)
+ - [This is how much an iPhone Air will cost to repair out of warranty](https://appleinsider.com/articles/25/09/12/this-is-how-much-an-iphone-air-will-cost-to-repair-out-of-warranty?utm_source=rss)
  - [Sources: Tencent recruited prominent AI researcher Yao Shunyu from OpenAI; Chinese media says he got a CN¥100M, or ~$66M, pay package &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/250912/p17#a250912p17)
- - [Sources: Alibaba and Baidu have begun using their own internally designed chips to train their AI models, partly replacing AI chips made by Nvidia &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250912/p16#a250912p16)
- - [iPhone 17 Pro: Wild Orange Color, Bigger Zoom, A19 Pro Chip for $1,099](https://www.cnet.com/tech/mobile/iphone-17-pro-wild-cosmic-orange-bigger-zoom-a19-pro-1099/#ftag=CAD590a51e)
- - [This is the Most Effective Type of Creatine You Should Be Taking to See Results, According to Registered Dietitians](https://www.cnet.com/health/the-best-types-of-creatine-for-all-your-fitness-goals/#ftag=CAD590a51e)
- - [Tether names Bo Hines, the former Executive Director of the White House Crypto Council, as the CEO of its new US unit and launches USAT stablecoin &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/250912/p15#a250912p15)<!-- TECH:END -->
+ - [Sources: Alibaba and Baidu have begun using their own internally designed chips to train their AI models, partly replacing AI chips made by Nvidia &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/250912/p16#a250912p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

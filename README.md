@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Polymarket considers an offer valuing it at ~$9B, up from $1B in the summer; Kalshi is close to raising money at a $5B valuation, up from $2B in June &lpar;The Information&rpar;](http://www.techmeme.com/250912/p20#a250912p20)
+ - [On Techmeme&#39;s 20th birthday, its founder explains what&#39;s behind the site&#39;s consistency, debunks some supposed media trends, and outlines future directions &lpar;Gabe Rivera/Techmeme News&rpar;](http://www.techmeme.com/250912/p19#a250912p19)
  - [&#39;Hades II&#39; Is Coming to Nintendo Switch This Month](https://www.wired.com/story/hades-ii-is-coming-to-nintendo-switch-this-month/)
  - [Micro1, a Scale AI competitor that lets AI companies find contractors for data labeling and training, raised a $35M Series A led by O1A at a $500M valuation &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250912/p18#a250912p18)
- - [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)
- - [Eight years ago, the iPhone X set the table for everything that has come since](https://appleinsider.com/articles/25/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_source=rss)
- - [This is how much an iPhone Air will cost to repair out of warranty](https://appleinsider.com/articles/25/09/12/this-is-how-much-an-iphone-air-will-cost-to-repair-out-of-warranty?utm_source=rss)<!-- TECH:END -->
+ - [Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions](https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

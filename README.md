@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI and Nvidia will pledge billions in UK data center investments during their next week&#39;s trip, which coincides with President Trump&#39;s UK visit &lpar;Bloomberg&rpar;](http://www.techmeme.com/250912/p1#a250912p1)
  - [Alibaba releases Qwen3-Next, a new model architecture optimized for long-context understanding, large parameter scale, and better computational efficiency &lpar;Crystal Liu/Alizila&rpar;](http://www.techmeme.com/250911/p29#a250911p29)
  - [FDA Clears the Apple Watch for Hypertension Alerts](https://www.cnet.com/tech/mobile/the-fda-clears-the-apple-watch-for-hypertension-alerts/#ftag=CAD590a51e)
  - [Apple Watch hypertension notifications get FDA approval](https://appleinsider.com/articles/25/09/12/apple-watch-hypertension-notifications-get-fda-approval?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-12/#ftag=CAD590a51e)
- - [Databricks&#39; head of AI, Naveen Rao, is transitioning to an advisory role; source: his next venture will focus on a next-gen computer to address rising AI costs &lpar;Bloomberg&rpar;](http://www.techmeme.com/250911/p28#a250911p28)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

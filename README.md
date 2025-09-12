@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
+ - 😝 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 💣 [No Coments](http://9gag.com/gag/aLnbNjv)
- - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
- - 👉 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)<!-- MEMES:END -->
+ - 💣 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
+ - 👉 [Title](http://9gag.com/gag/ajPdR3g)<!-- MEMES:END -->
 
 ---
 

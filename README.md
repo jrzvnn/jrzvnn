@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is he gay now?](https://www.reddit.com/r/funny/comments/1nf5b4b/is_he_gay_now/)
  - 😝 [Anti anti FA](http://9gag.com/gag/aLnbNXg)
- - 😝 [White lives matter](http://9gag.com/gag/aZZdRD3)
- - 💣 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
- - 😝 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)
- - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
+ - 💣 [White lives matter](http://9gag.com/gag/aZZdRD3)
+ - 😝 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
+ - 👉 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)<!-- MEMES:END -->
 
 ---
 

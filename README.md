@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ken giving a callback to one of the most legendary jokes in Jeopardy history](https://www.reddit.com/r/funny/comments/1nfimlj/ken_giving_a_callback_to_one_of_the_most/)
  - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 😝 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
- - 💣 [I know.....](http://9gag.com/gag/ajPdGRw)
- - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)<!-- MEMES:END -->
+ - 💣 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
+ - 😝 [I know.....](http://9gag.com/gag/ajPdGRw)
+ - 👉 [Yes sir](http://9gag.com/gag/amoddV4)<!-- MEMES:END -->
 
 ---
 

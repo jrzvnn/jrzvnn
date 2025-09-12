@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dude is like `where am I? Who am I?`](http://9gag.com/gag/azxB40z)
- - 😝 [He heard the prophecy\u2026 misunderstood the wardrobe](http://9gag.com/gag/an7droL)
- - 💣 [Man died fighting for what he believed in](http://9gag.com/gag/a6ZxGAN)
- - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
- - 👉 [If professional electric is Russian...](http://9gag.com/gag/azxB45b)<!-- MEMES:END -->
+ - 😝 [Picture of the evidence](http://9gag.com/gag/aGyo7RG)
+ - 💣 [Who keeps employing these ghouls in the first place!?](http://9gag.com/gag/aGyobrK)
+ - 😝 [Dude didn&#39;t learn the lesson after the first streamer tried that](http://9gag.com/gag/a7oG68q)
+ - 👉 [The future, it&#39;s scary.](http://9gag.com/gag/aQzrymq)<!-- MEMES:END -->
 
 ---
 

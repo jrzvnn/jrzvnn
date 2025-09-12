@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cats VS Humans](https://www.reddit.com/r/funny/comments/1newrz7/cats_vs_humans/)
  - 😝 [What a muppet](http://9gag.com/gag/axyAmWp)
- - 😝 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
- - 💣 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
- - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [Yeah she looks tired thats for sure](http://9gag.com/gag/aryd2E5)<!-- MEMES:END -->
+ - 💣 [I like my steak extwa cwispy](http://9gag.com/gag/a7oGnZr)
+ - 😝 [A young White woman bleeding out, and five adults just sat there. Not one tried to stop it. Not one tried to help her.](http://9gag.com/gag/aMVWOqA)
+ - 👉 [Yes sir](http://9gag.com/gag/amoddV4)<!-- MEMES:END -->
 
 ---
 

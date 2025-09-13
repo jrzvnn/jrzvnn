@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moments after Kirk got shot a man tried to steal merch from the table](http://9gag.com/gag/aByvozZ)
- - 😝 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
- - 💣 [I know.....](http://9gag.com/gag/ajPdGRw)
- - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
- - 👉 [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)<!-- MEMES:END -->
+ - 😝 [New fucking restaurant](https://www.reddit.com/r/funny/comments/1nfk11l/new_fucking_restaurant/)
+ - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
+ - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
+ - 👉 [That&#39;s the tule, guys, sorry.](http://9gag.com/gag/apRdzAb)<!-- MEMES:END -->
 
 ---
 

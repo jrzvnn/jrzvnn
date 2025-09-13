@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Assembly passes a bill that requires device makers and app stores to verify user ages; Google and Meta support the bill, while the MPA opposes it &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/250913/p10#a250913p10)
  - [Filing: Samsung agreed to settle a patent lawsuit over wireless tech with Headwater Research following a $279M jury verdict against Samsung earlier in 2025 &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250913/p9#a250913p9)
  - [Spotify Lossless is an inconvenient improvement](https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement)
  - [IBM is holding its own in the quantum computing race against Google, Microsoft, and others, as they tackle enormous scientific and engineering challenges &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/250913/p8#a250913p8)
- - [visionOS 26 review: a necessary evolution in need of new hardware](https://appleinsider.com/articles/25/09/13/visionos-26-review-a-necessary-evolution-in-need-of-new-hardware?utm_source=rss)
- - [Apple breaks records in China with high iPhone 17 preorders](https://appleinsider.com/articles/25/09/13/apple-breaks-records-in-china-with-high-iphone-17-preorders?utm_source=rss)<!-- TECH:END -->
+ - [visionOS 26 review: a necessary evolution in need of new hardware](https://appleinsider.com/articles/25/09/13/visionos-26-review-a-necessary-evolution-in-need-of-new-hardware?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

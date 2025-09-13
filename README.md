@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
+ - 😝 [Do you remember?](http://9gag.com/gag/axyAeBL)
+ - 😝 [The roman builders were brilliant](http://9gag.com/gag/amodOY6)
+ - 💣 [Buuurrn..](http://9gag.com/gag/agmdpvx)
+ - 😝 [Goddamnit again?!](http://9gag.com/gag/a6Zxen2)
+ - 👉 [Is this a real game?](http://9gag.com/gag/a1mx8D2)<!-- MEMES:END -->
 
 ---
 

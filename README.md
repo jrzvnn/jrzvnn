@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
+ - 😝 [octobersveryown- pop style &lpar;demo&rpar; - listen to the full song](https://www.reddit.com/r/funny/comments/1nfwgcy/octobersveryown_pop_style_demo_listen_to_the_full/)
+ - 😝 [The roman builders were brilliant](http://9gag.com/gag/amodOY6)
+ - 💣 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 😝 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
+ - 👉 [Very accurate](http://9gag.com/gag/aW4dNVq)<!-- MEMES:END -->
 
 ---
 

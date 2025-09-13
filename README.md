@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
  - 😝 [Rooftop/parking lot cam](http://9gag.com/gag/abAdmBX)
- - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 😝 [Me show off my skill in public](http://9gag.com/gag/aE0QjYN)
- - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
+ - 💣 [Our meme](http://9gag.com/gag/axyAQRK)
+ - 😝 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---
 

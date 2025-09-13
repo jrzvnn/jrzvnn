@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
  - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
  - 😝 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
- - 👉 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)<!-- MEMES:END -->
+ - 👉 [Very wholesome. Recommended](http://9gag.com/gag/aVvd11v)<!-- MEMES:END -->
 
 ---
 

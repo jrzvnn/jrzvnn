@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 13, #355](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-13-355/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-13/#ftag=CAD590a51e)
  - [AI video generation startup Higgsfield raised a $50M Series A led by GFT Ventures &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/250912/p31#a250912p31)
  - [Copenhagen-based Teton.ai, which offers an AI companion to help nurses monitor patients and improve workflows, raised a $20M Series A led by Plural &lpar;Anthony Vecchione/Mobi Health News&rpar;](http://www.techmeme.com/250912/p30#a250912p30)
- - [Beijing-based AIsphere, the startup behind the AI video generator PixVerse, raised a $60M Series B led by Alibaba, and says PixVerse has 100M+ users globally &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250912/p29#a250912p29)
- - [Atolio, which is making a private AI-powered search tool for enterprises, raised a $24M Series A led by Translink Capital &lpar;FinSMEs&rpar;](http://www.techmeme.com/250912/p28#a250912p28)
- - [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &amp;#8216;on your orders&amp;#8217;](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview)<!-- TECH:END -->
+ - [Beijing-based AIsphere, the startup behind the AI video generator PixVerse, raised a $60M Series B led by Alibaba, and says PixVerse has 100M+ users globally &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250912/p29#a250912p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

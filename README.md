@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The roman builders were brilliant](http://9gag.com/gag/amodOY6)
  - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 💣 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
  - 😝 [Very accurate](http://9gag.com/gag/aW4dNVq)
+ - 💣 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
+ - 😝 [The roman builders were brilliant](http://9gag.com/gag/amodOY6)
  - 👉 [This one hit me](http://9gag.com/gag/an7d8G5)<!-- MEMES:END -->
 
 ---

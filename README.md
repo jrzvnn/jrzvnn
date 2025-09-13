@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fucking restaurant](https://www.reddit.com/r/funny/comments/1nfk11l/new_fucking_restaurant/)
+ - 😝 [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
  - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
  - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
  - 😝 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
- - 👉 [That&#39;s the tule, guys, sorry.](http://9gag.com/gag/apRdzAb)<!-- MEMES:END -->
+ - 👉 [Very accurate](http://9gag.com/gag/aW4dNVq)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
  - 😝 [A new home being built collapses during a storm near Houston, Texas](http://9gag.com/gag/azxBQGb)
- - 😝 [Magnificent](http://9gag.com/gag/aQzrBQK)
- - 💣 [Our meme](http://9gag.com/gag/axyAQRK)
- - 😝 [It&#39;s just a joke.](http://9gag.com/gag/abAdK88)
+ - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
  - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---

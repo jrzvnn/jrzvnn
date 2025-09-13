@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
  - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
  - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 😝 [Do you remember?](http://9gag.com/gag/axyAeBL)
+ - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
  - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [my bro is consciously disappointed in me for sure](https://www.reddit.com/r/funny/comments/1nfueix/my_bro_is_consciously_disappointed_in_me_for_sure/)
  - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 💣 [Bad timing](http://9gag.com/gag/aD2PNP7)
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [Bad timing](http://9gag.com/gag/aD2PNP7)
+ - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [Log Prank](https://www.reddit.com/r/funny/comments/1nfujtn/log_prank/)
  - 👉 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)<!-- MEMES:END -->
 
 ---

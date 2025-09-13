@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Restoring &lpar;gently&rpar; a Tuscan beak](http://9gag.com/gag/a0exzeB)
  - 😝 [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
- - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
- - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 😝 [It&#39;s just a joke.](http://9gag.com/gag/abAdK88)
+ - 💣 [My trusted companion](http://9gag.com/gag/aD2PNbO)
+ - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
  - 👉 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)<!-- MEMES:END -->
 
 ---

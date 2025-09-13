@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 13 #559](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-559/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 13, #1547](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-13-1547/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 13, #825](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-13-825/#ftag=CAD590a51e)
+ - [Gear News of the Week: Google’s Next-Gen Nest Cams Are Coming, and Sony Debuts a New Xperia Phone](https://www.wired.com/story/gear-news-of-the-week-googles-next-gen-nest-cams-are-coming-and-sony-debuts-a-new-xperia-phone/)
  - [The Free Ride for EVs in the Carpool Lane Is Coming to an End](https://www.wired.com/story/the-free-ride-for-evs-in-the-carpool-lane-is-coming-to-an-end/)
- - [Apple Debuts Newest Lineup of iPhones: Expect Premium Prices](https://www.cnet.com/tech/mobile/apple-debuts-newest-lineup-of-iphones-expect-premium-prices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s High Blood Pressure Alerts: When and Where They&#39;ll Be Available](https://www.cnet.com/health/medical/apples-high-blood-pressure-alerts-when-and-where-theyll-be-available/#ftag=CAD590a51e)
+ - [The 15 Most Dangerous Foods Hiding in Your Fridge That Could Make You Sick](https://www.cnet.com/health/nutrition/most-dangerous-foods-hiding-fridge-could-make-sick/#ftag=CAD590a51e)
+ - [Researchers say videos of Charlie Kirk&#39;s shooting fall into a policy gap on social media platforms, between allowable &quot;graphic content&quot; and &quot;glorified violence&quot; &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250913/p5#a250913p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
  - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
- - 💣 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 😝 [A title worth reading](http://9gag.com/gag/aGyoro6)
- - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 💣 [Our meme](http://9gag.com/gag/axyAQRK)
+ - 😝 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
+ - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
 
 ---
 

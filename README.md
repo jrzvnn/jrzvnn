@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
  - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 💣 [The roman builders were brilliant](http://9gag.com/gag/amodOY6)
- - 😝 [Sockcuckers](http://9gag.com/gag/a5Qx92N)
- - 👉 [Stonemason at Cologne cathedral](http://9gag.com/gag/avyDXKW)<!-- MEMES:END -->
+ - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
+ - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 😝 [Is this man so tiny?](http://9gag.com/gag/aVvd9gd)
+ - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
 
 ---
 

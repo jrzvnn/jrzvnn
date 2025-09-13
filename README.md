@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Penske Media sues Google, says ~20% of Google search results linking to its sites now include AI Overviews, and affiliate link revenue fell 33%+ since late 2024 &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/250913/p19#a250913p19)
  - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $235M at a ~$1.23B valuation, after coming out of stealth in March with a $200M seed &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250913/p18#a250913p18)
- - [Pick up Apple&#39;s M4 Mac mini for $499, plus save up to $200 on upgraded models](https://appleinsider.com/articles/25/09/13/pick-up-apples-m4-mac-mini-for-499-plus-save-up-to-200-on-upgraded-models?utm_source=rss)
- - [JD.com: sales of the iPhone 17 series in the first minute after pre-orders opened in China surpassed the first-day pre-order volume of 2024&#39;s iPhone 16 series &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250913/p17#a250913p17)
- - [OpenAI projects that it will reduce the revenue share it pays to Microsoft from 20% this year to ~8% by 2030, potentially retaining over $50B more in revenue &lpar;The Information&rpar;](http://www.techmeme.com/250913/p16#a250913p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 14, #356](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-14-356/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 14, #826](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-14-826/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 14 #560](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-14-560/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI video generation startup Higgsfield raised a $50M Series A led by GFT Ventures &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/250912/p31#a250912p31)
+ - [Copenhagen-based Teton.ai, which offers an AI companion to help nurses monitor patients and improve workflows, raised a $20M Series A led by Plural &lpar;Anthony Vecchione/Mobi Health News&rpar;](http://www.techmeme.com/250912/p30#a250912p30)
+ - [Beijing-based AIsphere, the startup behind the AI video generator PixVerse, raised a $60M Series B led by Alibaba, and says PixVerse has 100M+ users globally &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/250912/p29#a250912p29)
  - [Atolio, which is making a private AI-powered search tool for enterprises, raised a $24M Series A led by Translink Capital &lpar;FinSMEs&rpar;](http://www.techmeme.com/250912/p28#a250912p28)
- - [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &amp;#8216;on your orders&amp;#8217;](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview)
- - [Penguin Ai, which offers AI-powered tools for administrative tasks to healthcare payers and providers, raised $29.7M, including a $25M Series A led by Greycroft &lpar;Jessica Hagen/Mobi Health News&rpar;](http://www.techmeme.com/250912/p27#a250912p27)
- - [Elon Musk is trying to silence Microsoft employees who criticize Charlie Kirk](https://www.theverge.com/news/777664/elon-musk-charlie-kirk-satya-nadella-fire)
- - [Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death](https://www.wired.com/story/charlie-kirk-art-censorship/)<!-- TECH:END -->
+ - [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &amp;#8216;on your orders&amp;#8217;](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

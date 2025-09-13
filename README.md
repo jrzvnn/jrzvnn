@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death](https://www.wired.com/story/charlie-kirk-art-censorship/)
- - [Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean](https://www.wired.com/story/charlie-kirk-bullet-memes/)
- - [DOJ Sues Uber Over Allegations of Refusing Service to Disabled Customers](https://www.cnet.com/tech/services-and-software/doj-sues-uber-over-allegations-of-refusing-service-to-disabled-customers/#ftag=CAD590a51e)
- - [MagSafe Battery for iPhone Air absolutely does not fit properly on anything else](https://appleinsider.com/articles/25/09/11/magsafe-battery-for-iphone-air-absolutely-does-not-fit-properly-on-anything-else?utm_source=rss)
- - [The WSJ carelessly spread anti-trans misinformation](https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk)<!-- TECH:END -->
+ - [Atolio, which is making a private AI-powered search tool for enterprises, raised a $24M Series A led by Translink Capital &lpar;FinSMEs&rpar;](http://www.techmeme.com/250912/p28#a250912p28)
+ - [Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &amp;#8216;on your orders&amp;#8217;](https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview)
+ - [Penguin Ai, which offers AI-powered tools for administrative tasks to healthcare payers and providers, raised $29.7M, including a $25M Series A led by Greycroft &lpar;Jessica Hagen/Mobi Health News&rpar;](http://www.techmeme.com/250912/p27#a250912p27)
+ - [Elon Musk is trying to silence Microsoft employees who criticize Charlie Kirk](https://www.theverge.com/news/777664/elon-musk-charlie-kirk-satya-nadella-fire)
+ - [Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death](https://www.wired.com/story/charlie-kirk-art-censorship/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [visionOS 26 review: a necessary evolution in need of new hardware](https://appleinsider.com/articles/25/09/13/visionos-26-review-a-necessary-evolution-in-need-of-new-hardware?utm_source=rss)
  - [Apple breaks records in China with high iPhone 17 preorders](https://appleinsider.com/articles/25/09/13/apple-breaks-records-in-china-with-high-iphone-17-preorders?utm_source=rss)
  - [6 Best Digital Notebooks, Tablets, and Smart Pens &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/)
  - [Adult Swim&amp;#8217;s new stop-motion series is a celebration of Latin American culture](https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview)
- - [A profile of Figure CEO Mike Cagney, now a billionaire after Figure&#39;s post-IPO surge; he resigned as SoFi&#39;s CEO in 2017 after several workplace controversies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250913/p7#a250913p7)
- - [What Are Ebike ‘Classes’ and What Do They Mean?](https://www.wired.com/story/guide-to-ebike-classes/)<!-- TECH:END -->
+ - [A profile of Figure CEO Mike Cagney, now a billionaire after Figure&#39;s post-IPO surge; he resigned as SoFi&#39;s CEO in 2017 after several workplace controversies &lpar;Bloomberg&rpar;](http://www.techmeme.com/250913/p7#a250913p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

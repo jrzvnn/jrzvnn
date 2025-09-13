@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Kalshi is shaking up US sports betting, as its board member and CFTC Chair nominee Brian Quintenz takes a permissive stance on sports prediction markets &lpar;Financial Times&rpar;](http://www.techmeme.com/250913/p6#a250913p6)
  - [Security News This Week: Jeffrey Epstein’s Yahoo Inbox Revealed](https://www.wired.com/story/jeffrey-epsteins-yahoo-inbox-revealed/)
  - [This Wearable Isn&#39;t Telepathic, but It Knows What You Want to Say](https://www.cnet.com/tech/services-and-software/this-wearable-cant-read-your-mind-but-it-can-hear-you-without-speaking/#ftag=CAD590a51e)
  - [I Was Right Yet Again: Apple Will Release iOS 26 on Monday](https://www.cnet.com/tech/services-and-software/i-was-right-yet-again-apple-is-releasing-ios-26-on-monday/#ftag=CAD590a51e)
- - [How to Watch the 77th Emmy Awards Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-77th-emmy-awards-without-cable/#ftag=CAD590a51e)
- - [Gear News of the Week: Google’s Next-Gen Nest Cams Are Coming, and Sony Debuts a New Xperia Phone](https://www.wired.com/story/gear-news-of-the-week-googles-next-gen-nest-cams-are-coming-and-sony-debuts-a-new-xperia-phone/)<!-- TECH:END -->
+ - [How to Watch the 77th Emmy Awards Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-77th-emmy-awards-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

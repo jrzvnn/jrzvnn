@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lendbuzz, which uses AI to underwrite auto loans, files for a US IPO and reports H1 2025 revenue up 38% YoY to $172.9M and net income up 98.2% YoY to $11.1M &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250913/p1#a250913p1)
  - [Shares of transit software company Via closed at $49.51 in their NYSE debut, above the $46 IPO price, giving Via a market cap of ~$3.9B, after raising $492.9M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250912/p32#a250912p32)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 13, #355](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-13-355/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-13/#ftag=CAD590a51e)
- - [AI video generation startup Higgsfield raised a $50M Series A led by GFT Ventures &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/250912/p31#a250912p31)
- - [Copenhagen-based Teton.ai, which offers an AI companion to help nurses monitor patients and improve workflows, raised a $20M Series A led by Plural &lpar;Anthony Vecchione/Mobi Health News&rpar;](http://www.techmeme.com/250912/p30#a250912p30)<!-- TECH:END -->
+ - [AI video generation startup Higgsfield raised a $50M Series A led by GFT Ventures &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/250912/p31#a250912p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

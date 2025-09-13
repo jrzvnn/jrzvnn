@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A title worth reading](http://9gag.com/gag/aGyoro6)
  - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 💣 [Is this a real game?](http://9gag.com/gag/a1mx8D2)
- - 😝 [I cooked it for 5 hours on a wood-fired stove.](http://9gag.com/gag/a4PxBgy)
- - 👉 [Do you remember?](http://9gag.com/gag/axyAeBL)<!-- MEMES:END -->
+ - 😝 [Do you remember?](http://9gag.com/gag/axyAeBL)
+ - 💣 [I cooked it for 5 hours on a wood-fired stove.](http://9gag.com/gag/a4PxBgy)
+ - 😝 [Is this a real game?](http://9gag.com/gag/a1mx8D2)
+ - 👉 [Goddamnit again?!](http://9gag.com/gag/a6Zxen2)<!-- MEMES:END -->
 
 ---
 

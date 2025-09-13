@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Downloads of Jack Dorsey-backed Bluetooth P2P messaging app Bitchat spiked to 48K+ in Nepal during recent protests, according to Bitchat developer &quot;callebtc&quot; &lpar;Javier Bastardo/Forbes&rpar;](http://www.techmeme.com/250913/p3#a250913p3)
  - [Internal email: xAI lays off hundreds of data annotation team staffers, following a strategic shift to prioritize specialist AI tutors over generalist roles &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250913/p2#a250913p2)
  - [Lendbuzz, which uses AI to underwrite auto loans, files for a US IPO and reports H1 2025 revenue up 38% YoY to $172.9M and net income up 98.2% YoY to $11.1M &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250913/p1#a250913p1)
  - [Shares of transit software company Via closed at $49.51 in their NYSE debut, above the $46 IPO price, giving Via a market cap of ~$3.9B, after raising $492.9M &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250912/p32#a250912p32)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 13, #355](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-13-355/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 13, #355](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-13-355/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

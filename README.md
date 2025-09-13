@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [What to expect from the Meta Connect 2025 keynote on September 17 at 5pm PT: &quot;Hypernova&quot; smart glasses with a display, Meta AI and Llama updates, and more &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250913/p14#a250913p14)
  - [Sources: Anthropic scrapped plans to hire a Republican for its top policy role, instead choosing an Obama alumn as it adopts a cooler stance towards Trump &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/250913/p13#a250913p13)
+ - [Premier League Soccer: Livestream Brentford vs. Chelsea From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-chelsea-from-anywhere/#ftag=CAD590a51e)
  - [How a 2020 Rolex Collection Changed the Face of Watch Design](https://www.wired.com/story/how-a-2020-rolex-collection-changed-the-face-of-watch-design/)
- - [China launches probes into alleged US discrimination against Chinese chip companies and suspected dumping of US analog chips used in devices like Wi-Fi routers &lpar;Ryan Woo/Reuters&rpar;](http://www.techmeme.com/250913/p12#a250913p12)
- - [California passes SB 53, which requires AI companies to disclose their safety testing regimes; Newsom vetoed a similar though more expansive measure last year &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250913/p11#a250913p11)<!-- TECH:END -->
+ - [China launches probes into alleged US discrimination against Chinese chip companies and suspected dumping of US analog chips used in devices like Wi-Fi routers &lpar;Ryan Woo/Reuters&rpar;](http://www.techmeme.com/250913/p12#a250913p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

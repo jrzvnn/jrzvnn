@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
- - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
- - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 😝 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
- - 👉 [Very accurate](http://9gag.com/gag/aW4dNVq)<!-- MEMES:END -->
+ - 😝 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
+ - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 💣 [Our meme](http://9gag.com/gag/axyAQRK)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
+ - 👉 [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He read it.](https://www.reddit.com/r/funny/comments/1ng9z0s/he_read_it/)
- - 😝 [This sign is in the bathroom at my doctor&#39;s office.](https://www.reddit.com/r/funny/comments/1ng9ydl/this_sign_is_in_the_bathroom_at_my_doctors_office/)
- - 💣 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
+ - 👉 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)<!-- MEMES:END -->
 
 ---
 

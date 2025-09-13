@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
- - 💣 [5000 days in 9gag! please upload your best cursed images, extra points if it&#39;s related to 9/11](http://9gag.com/gag/aNDqq4A)
- - 😝 [I cooked it for 5 hours on a wood-fired stove.](http://9gag.com/gag/a4PxBgy)
- - 👉 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)<!-- MEMES:END -->
+ - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
+ - 💣 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [A title worth reading](http://9gag.com/gag/aGyoro6)
+ - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
 
 ---
 

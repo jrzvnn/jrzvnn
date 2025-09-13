@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
  - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 💣 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
  - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 👉 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)<!-- MEMES:END -->
+ - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
 
 ---
 

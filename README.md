@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 😝 [Sweet home Alabama.....](http://9gag.com/gag/abAdKRL)
- - 💣 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
  - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
+ - 💣 [Our meme](http://9gag.com/gag/axyAQRK)
+ - 😝 [I cooked it for 5 hours on a wood-fired stove.](http://9gag.com/gag/a4PxBgy)
+ - 👉 [5000 days in 9gag! please upload your best cursed images, extra points if it&#39;s related to 9/11](http://9gag.com/gag/aNDqq4A)<!-- MEMES:END -->
 
 ---
 

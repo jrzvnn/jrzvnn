@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Are Ebike ‘Classes’ and What Do They Mean?](https://www.wired.com/story/guide-to-ebike-classes/)
  - [Exit 8’s director was inspired by watching people play the game](https://www.theverge.com/interview/777509/exit-8-director-interview)
  - [Cook talks iPhone Air battery, glass investment in Corning factory visit](https://appleinsider.com/articles/25/09/13/cook-talks-iphone-air-battery-glass-investment-in-corning-factory-visit?utm_source=rss)
  - [Dell 27 Plus 4K Review &lpar;S2725QS&rpar;: The Monitor Almost Everyone Should Buy](https://www.wired.com/review/dell-27-plus-4k-monitor-s2725qs/)
- - [These 2 Cities Are Pushing Back on Data Centers. Here&#39;s What They&#39;re Worried About](https://www.cnet.com/tech/services-and-software/these-2-cities-are-pushing-back-on-data-centers-heres-what-theyre-worried-about/#ftag=CAD590a51e)
- - [How Often Should You Replace Your Mattress and Bedding?](https://www.wired.com/story/how-often-should-you-replace-your-mattress-and-bedding/)<!-- TECH:END -->
+ - [These 2 Cities Are Pushing Back on Data Centers. Here&#39;s What They&#39;re Worried About](https://www.cnet.com/tech/services-and-software/these-2-cities-are-pushing-back-on-data-centers-heres-what-theyre-worried-about/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

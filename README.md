@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gear News of the Week: Google’s Next-Gen Nest Cams Are Coming, and Sony Debuts a New Xperia Phone](https://www.wired.com/story/gear-news-of-the-week-googles-next-gen-nest-cams-are-coming-and-sony-debuts-a-new-xperia-phone/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 13 #559](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-13-559/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 13, #1547](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-13-1547/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 13, #825](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-13-825/#ftag=CAD590a51e)
- - [The Free Ride for EVs in the Carpool Lane Is Coming to an End](https://www.wired.com/story/the-free-ride-for-evs-in-the-carpool-lane-is-coming-to-an-end/)<!-- TECH:END -->
+ - [Security News This Week: Jeffrey Epstein’s Yahoo Inbox Revealed](https://www.wired.com/story/jeffrey-epsteins-yahoo-inbox-revealed/)
+ - [This Wearable Isn&#39;t Telepathic, but It Knows What You Want to Say](https://www.cnet.com/tech/services-and-software/this-wearable-cant-read-your-mind-but-it-can-hear-you-without-speaking/#ftag=CAD590a51e)
+ - [I Was Right Yet Again: Apple Will Release iOS 26 on Monday](https://www.cnet.com/tech/services-and-software/i-was-right-yet-again-apple-is-releasing-ios-26-on-monday/#ftag=CAD590a51e)
+ - [How to Watch the 77th Emmy Awards Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-77th-emmy-awards-without-cable/#ftag=CAD590a51e)
+ - [Gear News of the Week: Google’s Next-Gen Nest Cams Are Coming, and Sony Debuts a New Xperia Phone](https://www.wired.com/story/gear-news-of-the-week-googles-next-gen-nest-cams-are-coming-and-sony-debuts-a-new-xperia-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Businesses Are Doing Carbon Dioxide Removal All Wrong](https://www.wired.com/story/big-businesses-are-doing-carbon-dioxide-removal-all-wrong/)
+ - [The 25 Best Shows on Amazon Prime Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
  - [How Kalshi is shaking up US sports betting, as its board member and CFTC Chair nominee Brian Quintenz takes a permissive stance on sports prediction markets &lpar;Financial Times&rpar;](http://www.techmeme.com/250913/p6#a250913p6)
  - [Jeffrey Epstein’s Yahoo Inbox Revealed](https://www.wired.com/story/jeffrey-epsteins-yahoo-inbox-revealed/)
- - [This Wearable Isn&#39;t Telepathic, but It Knows What You Want to Say](https://www.cnet.com/tech/services-and-software/this-wearable-cant-read-your-mind-but-it-can-hear-you-without-speaking/#ftag=CAD590a51e)
- - [I Was Right Yet Again: Apple Will Release iOS 26 on Monday](https://www.cnet.com/tech/services-and-software/i-was-right-yet-again-apple-is-releasing-ios-26-on-monday/#ftag=CAD590a51e)
- - [How to Watch the 77th Emmy Awards Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-the-77th-emmy-awards-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [This Wearable Isn&#39;t Telepathic, but It Knows What You Want to Say](https://www.cnet.com/tech/services-and-software/this-wearable-cant-read-your-mind-but-it-can-hear-you-without-speaking/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
  - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 😝 [Do you remember?](http://9gag.com/gag/axyAeBL)
- - 💣 [I cooked it for 5 hours on a wood-fired stove.](http://9gag.com/gag/a4PxBgy)
- - 😝 [Is this a real game?](http://9gag.com/gag/a1mx8D2)
- - 👉 [Goddamnit again?!](http://9gag.com/gag/a6Zxen2)<!-- MEMES:END -->
+ - 💣 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
 
 ---
 

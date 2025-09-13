@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Silksong players be like 🤣](https://www.reddit.com/r/funny/comments/1nfslbs/silksong_players_be_like/)
  - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 💣 [This one hit me](http://9gag.com/gag/an7d8G5)
- - 😝 [FREEDOM](http://9gag.com/gag/aLnbOg6)
- - 👉 [Me show off my skill in public](http://9gag.com/gag/aE0QjYN)<!-- MEMES:END -->
+ - 😝 [This one hit me](http://9gag.com/gag/an7d8G5)
+ - 💣 [FREEDOM](http://9gag.com/gag/aLnbOg6)
+ - 😝 [Me show off my skill in public](http://9gag.com/gag/aE0QjYN)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
  - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
- - 💣 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 😝 [Is this man so tiny?](http://9gag.com/gag/aVvd9gd)
- - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
+ - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
+ - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
+ - 👉 [Our meme](http://9gag.com/gag/axyAQRK)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
  - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 💣 [Very wholesome. Recommended](http://9gag.com/gag/aVvd11v)
- - 😝 [Finished a stressful 4 year relationship a few weeks ago. Never felt such a mix of relief and loneliness. but I turned 32 today which is nice... F**k you guys and see you tomorrow.](http://9gag.com/gag/aE0Qb2M)
- - 👉 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)<!-- MEMES:END -->
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 💣 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 😝 [The new Harry Potter series is lit](http://9gag.com/gag/aW4dA1q)
+ - 👉 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)<!-- MEMES:END -->
 
 ---
 

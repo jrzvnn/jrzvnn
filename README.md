@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)
- - 😝 [Rooftop/parking lot cam](http://9gag.com/gag/abAdmBX)
- - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
- - 👉 [I know.....](http://9gag.com/gag/ajPdGRw)<!-- MEMES:END -->
+ - 😝 [Too much politics, here two of things i love the most](http://9gag.com/gag/aE0QNMM)
+ - 😝 [Restoring &lpar;gently&rpar; a Tuscan beak](http://9gag.com/gag/a0exzeB)
+ - 💣 [My trusted companion](http://9gag.com/gag/aD2PNbO)
+ - 😝 [Damn he must have a high salary](http://9gag.com/gag/apRdje5)
+ - 👉 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)<!-- MEMES:END -->
 
 ---
 

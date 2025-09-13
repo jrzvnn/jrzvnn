@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s High Blood Pressure Alerts: When and Where They&#39;ll Be Available](https://www.cnet.com/health/medical/apples-high-blood-pressure-alerts-when-and-where-theyll-be-available/#ftag=CAD590a51e)
+ - [The 15 Most Dangerous Foods Hiding in Your Fridge That Could Make You Sick](https://www.cnet.com/health/nutrition/most-dangerous-foods-hiding-fridge-could-make-sick/#ftag=CAD590a51e)
  - [Researchers say videos of Charlie Kirk&#39;s shooting fall into a policy gap on social media platforms, between allowable &quot;graphic content&quot; and &quot;glorified violence&quot; &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250913/p5#a250913p5)
  - [Source: Nvidia is scaling back DGX Cloud to primarily internal R&amp;D use; DGX Cloud was initially envisioned to compete with major cloud providers like AWS &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/250913/p4#a250913p4)
- - [Downloads of Jack Dorsey-backed Bluetooth P2P messaging app Bitchat spiked to 48K+ in Nepal during recent protests, according to Bitchat developer &quot;callebtc&quot; &lpar;Javier Bastardo/Forbes&rpar;](http://www.techmeme.com/250913/p3#a250913p3)
- - [Internal email: xAI lays off hundreds of data annotation team staffers, following a strategic shift to prioritize specialist AI tutors over generalist roles &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/250913/p2#a250913p2)
- - [Lendbuzz, which uses AI to underwrite auto loans, files for a US IPO and reports H1 2025 revenue up 38% YoY to $172.9M and net income up 98.2% YoY to $11.1M &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250913/p1#a250913p1)<!-- TECH:END -->
+ - [Downloads of Jack Dorsey-backed Bluetooth P2P messaging app Bitchat spiked to 48K+ in Nepal during recent protests, according to Bitchat developer &quot;callebtc&quot; &lpar;Javier Bastardo/Forbes&rpar;](http://www.techmeme.com/250913/p3#a250913p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

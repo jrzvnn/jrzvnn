@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My trusted companion](http://9gag.com/gag/aD2PNbO)
- - 😝 [Conservatives 0 Democrats +1](http://9gag.com/gag/abAddeX)
- - 💣 [When you&#39;re too broke to be robbed.](http://9gag.com/gag/a4Pxrvm)
- - 😝 [It&#39;s just a joke.](http://9gag.com/gag/abAdK88)
- - 👉 [Very accurate](http://9gag.com/gag/aW4dNVq)<!-- MEMES:END -->
+ - 😝 [Joe Rogan reacting to Charlie Kirk being shot as the news came in](http://9gag.com/gag/awy88WW)
+ - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
+ - 💣 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
+ - 😝 [Yes sir](http://9gag.com/gag/amoddV4)
+ - 👉 [I know.....](http://9gag.com/gag/ajPdGRw)<!-- MEMES:END -->
 
 ---
 

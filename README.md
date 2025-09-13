@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [maybe YOU just don&#39;t get art](https://www.reddit.com/r/funny/comments/1ng74p6/maybe_you_just_dont_get_art/)
- - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
- - 💣 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
+ - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
  - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 👉 [I cooked it for 5 hours on a wood-fired stove.](http://9gag.com/gag/a4PxBgy)<!-- MEMES:END -->
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
 
 ---
 

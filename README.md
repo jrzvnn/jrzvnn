@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Muppet show](http://9gag.com/gag/aoyddDe)
- - 😝 [They took a bribe from the Japanese tourist and within 24 hrs lost their jobs](http://9gag.com/gag/adBd4M2)
- - 💣 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 😝 [Very wholesome. Recommended](http://9gag.com/gag/aVvd11v)
- - 👉 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)<!-- MEMES:END -->
+ - 😝 [A title worth reading](http://9gag.com/gag/aGyoro6)
+ - 😝 [Bro went to Nepal as a tourist, left as a full-fledged journalist](http://9gag.com/gag/a1mxBOb)
+ - 💣 [Is this a real game?](http://9gag.com/gag/a1mx8D2)
+ - 😝 [I cooked it for 5 hours on a wood-fired stove.](http://9gag.com/gag/a4PxBgy)
+ - 👉 [Do you remember?](http://9gag.com/gag/axyAeBL)<!-- MEMES:END -->
 
 ---
 

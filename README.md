@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hike, which was valued at $1.4B in 2016 and has since pivoted from a messaging app to a real-money gaming app, shuts down following India&#39;s ban on such apps &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250913/p20#a250913p20)
  - [Penske Media sues Google, says ~20% of Google search results linking to its sites now include AI Overviews, and affiliate link revenue fell 33%+ since late 2024 &lpar;Ben Fritz/Wall Street Journal&rpar;](http://www.techmeme.com/250913/p19#a250913p19)
  - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $235M at a ~$1.23B valuation, after coming out of stealth in March with a $200M seed &lpar;Brian Kahn/Bloomberg&rpar;](http://www.techmeme.com/250913/p18#a250913p18)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 14, #356](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-14-356/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 14, #826](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-14-826/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 14 #560](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-14-560/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 14, #826](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-14-826/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

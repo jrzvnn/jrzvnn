@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from the Meta Connect 2025 keynote on September 17 at 5pm PT: &quot;Hypernova&quot; smart glasses with a display, Meta AI and Llama updates, and more &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250913/p14#a250913p14)
  - [Sources: Anthropic scrapped plans to hire a Republican for its top policy role, instead choosing an Obama alumn as it adopts a cooler stance towards Trump &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/250913/p13#a250913p13)
  - [How a 2020 Rolex Collection Changed the Face of Watch Design](https://www.wired.com/story/how-a-2020-rolex-collection-changed-the-face-of-watch-design/)
  - [China launches probes into alleged US discrimination against Chinese chip companies and suspected dumping of US analog chips used in devices like Wi-Fi routers &lpar;Ryan Woo/Reuters&rpar;](http://www.techmeme.com/250913/p12#a250913p12)
- - [California passes SB 53, which requires AI companies to disclose their safety testing regimes; Newsom vetoed a similar though more expansive measure last year &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250913/p11#a250913p11)
- - [Time is running out to get half off a year of Paramount Plus](https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale)<!-- TECH:END -->
+ - [California passes SB 53, which requires AI companies to disclose their safety testing regimes; Newsom vetoed a similar though more expansive measure last year &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250913/p11#a250913p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

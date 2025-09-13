@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pick up Apple&#39;s M4 Mac mini for $499, plus save up to $200 on upgraded models](https://appleinsider.com/articles/25/09/13/pick-up-apples-m4-mac-mini-for-499-plus-save-up-to-200-on-upgraded-models?utm_source=rss)
+ - [JD.com: sales of the iPhone 17 series in the first minute after pre-orders opened in China surpassed the first-day pre-order volume of 2024&#39;s iPhone 16 series &lpar;Coco Feng/South China Morning Post&rpar;](http://www.techmeme.com/250913/p17#a250913p17)
  - [OpenAI projects that it will reduce the revenue share it pays to Microsoft from 20% this year to ~8% by 2030, potentially retaining over $50B more in revenue &lpar;The Information&rpar;](http://www.techmeme.com/250913/p16#a250913p16)
  - [Apple Watch Ultra 3 vs Apple Watch Ultra 2 -- Same body, better screen](https://appleinsider.com/inside/apple-watch-ultra-3/vs/apple-watch-ultra-3-vs-apple-watch-ultra-2----same-body-better-screen?utm_source=rss)
- - [Mira Murati&#39;s TML launches a research blog called Connectionism, and shares its work on resolving nondeterminism and achieving reproducible results from LLMs &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250913/p15#a250913p15)
- - [What to expect from the Meta Connect 2025 keynote on September 17 at 5pm PT: &quot;Hypernova&quot; smart glasses with a display, Meta AI and Llama updates, and more &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/250913/p14#a250913p14)
- - [Sources: Anthropic scrapped plans to hire a Republican for its top policy role, instead choosing an Obama alumn as it adopts a cooler stance towards Trump &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/250913/p13#a250913p13)<!-- TECH:END -->
+ - [Mira Murati&#39;s TML launches a research blog called Connectionism, and shares its work on resolving nondeterminism and achieving reproducible results from LLMs &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250913/p15#a250913p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

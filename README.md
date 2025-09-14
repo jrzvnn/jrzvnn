@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How thousands of small-scale farmers in Malawi are using a government-backed AI chatbot, designed by the nonprofit Opportunity International, for farming advice &lpar;Gregory Gondwe/Associated Press&rpar;](http://www.techmeme.com/250914/p6#a250914p6)
+ - [6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime &lpar;2025&rpar;](https://www.wired.com/gallery/best-sex-machines/)
  - [An interview with Eliezer Yudkowsky, one of the first people to warn of AI risks, on AI benefits, using violence to stop AI, Rationalism, his new book, and more &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/250914/p5#a250914p5)
  - [Nearly all funding for AI safety research comes from Silicon Valley companies racing to develop AI, as the voices of AI &quot;doomers&quot; fade in prominence &lpar;Peter Guest/Bloomberg&rpar;](http://www.techmeme.com/250914/p4#a250914p4)
- - [Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle &lpar;Google Research&rpar;](http://www.techmeme.com/250914/p3#a250914p3)
- - [Japan says it will provide $3.63B to Micron for R&amp;D and capital spending at its Hiroshima fab to mass produce advanced DRAM, aiming for shipments by August 2028 &lpar;Hajime Tsukada/Nikkei Asia&rpar;](http://www.techmeme.com/250914/p2#a250914p2)
- - [Australia is emerging as a prominent player in quantum computing, enabled by breakthrough academic work and sustained government funding since the 1990s &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/250914/p1#a250914p1)<!-- TECH:END -->
+ - [Google releases VaultGemma, a 1B-parameter model it says is the largest open LLM trained from scratch with differential privacy, on Hugging Face and Kaggle &lpar;Google Research&rpar;](http://www.techmeme.com/250914/p3#a250914p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

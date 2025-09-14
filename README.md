@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Torras Ostand Q3 Air case for iPhone 17 Pro Max offers rugged protection, athleisure style](https://appleinsider.com/articles/25/09/14/torras-ostand-q3-air-case-for-iphone-17-pro-max-offers-rugged-protection-athleisure-style?utm_source=rss)
- - [Hypershell Pro X Series Review: An Exoskeleton You Can Actually Buy](https://www.wired.com/review/hypershell-pro-x-series-review/)
- - [In Silksong, spite is my motivation to keep playing](https://www.theverge.com/games/777653/silksong-impressions-team-cherry-metroidvania-sherma-is-cool)
- - [Apple Glass without AR still expected in late 2026, early 2027](https://appleinsider.com/articles/25/09/14/apple-glass-without-ar-still-expected-in-late-2026-early-2027?utm_source=rss)
- - [Razer BlackShark V3 Pro Review: High-End Gaming Audio](https://www.wired.com/review/razer-blackshark-v3-pro/)<!-- TECH:END -->
+ - [Under-display Face ID still a possibility for the iPhone 18](https://appleinsider.com/articles/25/09/14/under-display-face-id-still-a-possibility-for-the-iphone-18?utm_source=rss)
+ - [11 Best Protein Powders, According to Years of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-protein-powders/)
+ - [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value)
+ - [A look at Starlink&#39;s plans to launch a cellphone service that some experts say will likely remain complementary to existing networks, focusing on rural coverage &lpar;Washington Post&rpar;](http://www.techmeme.com/250914/p9#a250914p9)
+ - [Torras Ostand Q3 Air case for iPhone 17 Pro Max offers rugged protection, athleisure style](https://appleinsider.com/articles/25/09/14/torras-ostand-q3-air-case-for-iphone-17-pro-max-offers-rugged-protection-athleisure-style?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

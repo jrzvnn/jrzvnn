@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
  - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 💣 [I know.....](http://9gag.com/gag/ajPdGRw)
- - 😝 [Saw a WinXP CD post. This was also peak 2000s.](http://9gag.com/gag/aW4dyEK)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
+ - 👉 [I know.....](http://9gag.com/gag/ajPdGRw)<!-- MEMES:END -->
 
 ---
 

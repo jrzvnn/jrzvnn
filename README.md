@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 💣 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
  - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 💣 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
- - 👉 [I know.....](http://9gag.com/gag/ajPdGRw)<!-- MEMES:END -->
+ - 👉 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)<!-- MEMES:END -->
 
 ---
 

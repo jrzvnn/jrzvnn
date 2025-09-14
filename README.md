@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Massive protest in London](http://9gag.com/gag/ae9dEgO)
- - 😝 [A title worth reading](http://9gag.com/gag/aGyoro6)
- - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 💣 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
  - 😝 [The plot twist we all needed](http://9gag.com/gag/aO8jOPy)
- - 👉 [A BLM level burning.](http://9gag.com/gag/aAymLWd)<!-- MEMES:END -->
+ - 👉 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)<!-- MEMES:END -->
 
 ---
 

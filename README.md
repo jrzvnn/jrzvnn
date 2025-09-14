@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Massive protest in London](http://9gag.com/gag/ae9dEgO)
- - 😝 [Lovely day for it](http://9gag.com/gag/aNDqG73)
- - 💣 [A title worth reading](http://9gag.com/gag/aGyoro6)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [A title worth reading](http://9gag.com/gag/aGyoro6)
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [The plot twist we all needed](http://9gag.com/gag/aO8jOPy)
  - 👉 [A BLM level burning.](http://9gag.com/gag/aAymLWd)<!-- MEMES:END -->
 
 ---

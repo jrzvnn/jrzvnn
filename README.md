@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
  - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
  - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

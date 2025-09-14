@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
- - 💣 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 😝 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
+ - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 💣 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
  - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
 
 ---

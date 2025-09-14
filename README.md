@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s Gemini app is the #1 app in the US App Store, driven by its Nano Banana model, which has been used to edit 500M+ images since its August 26 launch &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250914/p11#a250914p11)
+ - [Panthers vs. Cardinals Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-cardinals-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [Broncos vs. Colts Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/broncos-vs-colts-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
  - [Rolling Stone’s parent company sues Google over AI Overviews](https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews)
- - [La Liga Soccer: Stream Barcelona vs. Valencia Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-valencia-live-from-anywhere/#ftag=CAD590a51e)
- - [tvOS 26 review: High on polish, light on new features for Apple TV](https://appleinsider.com/articles/25/09/14/tvos-26-review-high-on-polish-light-on-new-features-for-apple-tv?utm_source=rss)
- - [AirPods, AirPods Pro, or AirPods Max - Fall 2025 AirPods buyer&#39;s guide](https://appleinsider.com/articles/25/09/14/airpods-airpods-pro-or-airpods-max---fall-2025-airpods-buyers-guide?utm_source=rss)
- - [World Liberty Financial blocking Justin Sun&#39;s wallet contrasts with the Trump sons&#39; complaints about being &quot;debanked&quot;, the issue they said inspired the project &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250914/p10#a250914p10)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Barcelona vs. Valencia Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-valencia-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

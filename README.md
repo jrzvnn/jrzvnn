@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This one hit me](http://9gag.com/gag/an7d8G5)
- - 😝 [Massive protest in London](http://9gag.com/gag/ae9dEgO)
- - 💣 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
- - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 😝 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
+ - 👉 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Ghetto american Onijah Robinson flew to Pakistan and won&#39;t leave, wants money and free land](http://9gag.com/gag/amodyMV)
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 💣 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
  - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
  - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 

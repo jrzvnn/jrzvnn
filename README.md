@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
+ - 😝 [First rule in a haunted house. never let go of the hand. Second rule in group escape: NEVER LET GO OF THE HAND!!!](http://9gag.com/gag/aW4dAZ6)
  - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
  - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
  - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)

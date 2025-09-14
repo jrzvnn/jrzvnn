@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How Coinbase is navigating the easing regulatory environment, increasing acceptance of crypto in the financial system, and intensifying competition &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250914/p12#a250914p12)
  - [Hands on: Apple&#39;s new 60W charger is all but needed for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)
- - [Daily Mail cries to regulators about UK Apple News block](https://appleinsider.com/articles/25/09/14/newspaper-says-its-blocked-from-apple-news-uk?utm_source=rss)
- - [What’s next for Apple after the iPhone 17?](https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro)
- - [iPhone 17 vs iPhone 16? Here&#39;s How They Compare and Which One You Should Buy](https://www.cnet.com/tech/mobile/iphone-17-vs-iphone-16-heres-how-they-compare-and-which-one-you-should-buy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 15 #561](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-15-561/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 15, #827](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-15-827/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 15, #1549](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-15-1549/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

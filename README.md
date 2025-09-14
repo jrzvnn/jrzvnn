@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
  - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 👉 [I know.....](http://9gag.com/gag/ajPdGRw)<!-- MEMES:END -->
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cameraman&#39;s laugh...](https://www.reddit.com/r/funny/comments/1ngn86d/cameramans_laugh/)
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 💣 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
+ - 😝 [This one hit me](http://9gag.com/gag/an7d8G5)
+ - 😝 [Massive protest in London](http://9gag.com/gag/ae9dEgO)
+ - 💣 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
+ - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 

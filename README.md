@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 😝 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
- - 💣 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 👉 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)<!-- MEMES:END -->
+ - 😝 [Lovely day for it](http://9gag.com/gag/aNDqG73)
+ - 😝 [First rule in a haunted house. never let go of the hand. Second rule in group escape: NEVER LET GO OF THE HAND!!!](http://9gag.com/gag/aW4dAZ6)
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [The brave Heart](http://9gag.com/gag/ae9dEO5)
+ - 👉 [A title worth reading](http://9gag.com/gag/aGyoro6)<!-- MEMES:END -->
 
 ---
 

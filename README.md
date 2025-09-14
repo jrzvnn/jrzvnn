@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [Is this a real game?](http://9gag.com/gag/a1mx8D2)
+ - 😝 [Lovely day for it](http://9gag.com/gag/aNDqG73)
+ - 💣 [A title worth reading](http://9gag.com/gag/aGyoro6)
  - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 💣 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
- - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
+ - 👉 [A BLM level burning.](http://9gag.com/gag/aAymLWd)<!-- MEMES:END -->
 
 ---
 

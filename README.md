@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
  - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
+ - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
  - 👉 [I know.....](http://9gag.com/gag/ajPdGRw)<!-- MEMES:END -->
 
 ---

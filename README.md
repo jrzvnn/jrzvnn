@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Glass without AR still expected in late 2026, early 2027](https://appleinsider.com/articles/25/09/14/apple-glass-without-ar-still-expected-in-late-2026-early-2027?utm_source=rss)
+ - [Razer BlackShark V3 Pro Review: High-End Gaming Audio](https://www.wired.com/review/razer-blackshark-v3-pro/)
  - [i.AI, a UK government unit offering a median salary of £67K to develop tools to improve civil service efficiency, is struggling to attract top talent &lpar;Ramsay Hodgson/Financial Times&rpar;](http://www.techmeme.com/250914/p8#a250914p8)
  - [Whats next for Apple - M5 iPad Pro, new Apple TV, AirTag 2, and more](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
- - [How to Switch to Google Fi &lpar;2025&rpar;: Plans, Tips, and Advice](https://www.wired.com/story/how-to-switch-to-google-fi/)
- - [Phone batteries are getting more compact, but the US is missing out](https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones)
- - [The iPhone to get this year](https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer)<!-- TECH:END -->
+ - [How to Switch to Google Fi &lpar;2025&rpar;: Plans, Tips, and Advice](https://www.wired.com/story/how-to-switch-to-google-fi/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

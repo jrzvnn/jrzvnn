@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
  - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

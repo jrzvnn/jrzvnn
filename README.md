@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First rule in a haunted house. never let go of the hand. Second rule in group escape: NEVER LET GO OF THE HAND!!!](http://9gag.com/gag/aW4dAZ6)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
+ - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

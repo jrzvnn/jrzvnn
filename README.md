@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
  - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 💣 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 💣 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 😝 [Old habits are hard to break.....](http://9gag.com/gag/amodQw9)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

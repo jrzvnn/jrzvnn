@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Made a ball pit for him](http://9gag.com/gag/aW4dyGq)
- - 💣 [The plot twist we all needed](http://9gag.com/gag/aO8jOPy)
- - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 👉 [Iranian women refusing to wear Hijab](http://9gag.com/gag/aVvd8pw)<!-- MEMES:END -->
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 💣 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

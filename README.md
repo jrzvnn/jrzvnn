@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
- - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 😝 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 😝 [My Downton Abbey screening was crazy](https://www.reddit.com/r/funny/comments/1ngff5y/my_downton_abbey_screening_was_crazy/)
+ - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 💣 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
+ - 👉 [13PX-FIGH-TING-4FUN](http://9gag.com/gag/aRByGB7)<!-- MEMES:END -->
 
 ---
 

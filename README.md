@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True or not](https://www.reddit.com/r/funny/comments/1ngo82x/true_or_not/)
- - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 😝 [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
  - 💣 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 👉 [It&#39;s coming](http://9gag.com/gag/aByvMbO)<!-- MEMES:END -->
+ - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
+ - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
 
 ---
 

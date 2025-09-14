@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
- - [The Quest to Find the Longest-Running Simple Computer Program](https://www.wired.com/story/the-quest-to-find-the-longest-running-simple-computer-program/)
- - [Plant Care Tips for the Winter, According to Experts &lpar;2025&rpar;](https://www.wired.com/story/how-to-keep-plants-alive-in-winter/)
- - [From  &#39;Orwell 2+2=5’ to &#39;Frankenstein’: TIFF&#39;s Films on Power, Creation, and Survival Are a Warning](https://www.wired.com/story/from-orwell-225-to-frankenstein-tiffs-films-on-power-creation-and-survival-are-a-warning/)
- - [Q&amp;A with Bret Taylor, CEO of Sierra and chairman of OpenAI, on Sierra&#39;s AI customer support agents, AGI, Sam Altman&#39;s comments on the AI bubble, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250914/p7#a250914p7)<!-- TECH:END -->
+ - [i.AI, a UK government unit offering a median salary of £67K to develop tools to improve civil service efficiency, is struggling to attract top talent &lpar;Ramsay Hodgson/Financial Times&rpar;](http://www.techmeme.com/250914/p8#a250914p8)
+ - [Whats next for Apple - M5 iPad Pro, new Apple TV, AirTag 2, and more](https://appleinsider.com/articles/25/09/10/iphone-17-is-just-the-start-apples-busiest-upgrade-wave-in-years-has-just-begun?utm_source=rss)
+ - [How to Switch to Google Fi &lpar;2025&rpar;: Plans, Tips, and Advice](https://www.wired.com/story/how-to-switch-to-google-fi/)
+ - [Phone batteries are getting more compact, but the US is missing out](https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones)
+ - [The iPhone to get this year](https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

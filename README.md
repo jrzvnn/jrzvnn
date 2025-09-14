@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An interview with Goldman Sachs partner Kerry Blum on how the company&#39;s ~46,000 employees are using GenAI-powered GS AI Assistant and the risks of over-reliance &lpar;Joshua Franklin/Financial Times&rpar;](http://www.techmeme.com/250914/p13#a250914p13)
+ - [&#39;How to Train Your Dragon&#39; Remake: Release Date and Time on Peacock](https://www.cnet.com/tech/services-and-software/how-to-train-your-dragon-remake-release-date-and-time-on-peacock/#ftag=CAD590a51e)
  - [Sunday Night Football: How to Watch Falcons vs. Vikings Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-falcons-vs-vikings-tonight/#ftag=CAD590a51e)
  - [How Coinbase is navigating the easing regulatory environment, increasing acceptance of crypto in the financial system, and intensifying competition &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/250914/p12#a250914p12)
- - [Hands on: Apple&#39;s new 60W charger is all but needed for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 15 #561](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-15-561/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands on: Apple&#39;s new 60W charger is all but needed for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

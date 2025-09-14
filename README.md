@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Under-display Face ID still a possibility for the iPhone 18](https://appleinsider.com/articles/25/09/14/under-display-face-id-still-a-possibility-for-the-iphone-18?utm_source=rss)
- - [11 Best Protein Powders, According to Years of Testing &lpar;2025&rpar;](https://www.wired.com/gallery/best-protein-powders/)
- - [Scarlet turns Shakespeare into an animated fantasy epic](https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value)
- - [A look at Starlink&#39;s plans to launch a cellphone service that some experts say will likely remain complementary to existing networks, focusing on rural coverage &lpar;Washington Post&rpar;](http://www.techmeme.com/250914/p9#a250914p9)
- - [Torras Ostand Q3 Air case for iPhone 17 Pro Max offers rugged protection, athleisure style](https://appleinsider.com/articles/25/09/14/torras-ostand-q3-air-case-for-iphone-17-pro-max-offers-rugged-protection-athleisure-style?utm_source=rss)<!-- TECH:END -->
+ - [Watch the Emmy Awards Tonight Without Cable](https://www.cnet.com/tech/services-and-software/watch-the-emmy-awards-tonight-without-cable/#ftag=CAD590a51e)
+ - [49ers vs. Saints Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/49ers-vs-saints-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [Seahawks vs. Steelers Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/seahawks-vs-steelers-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
+ - [Bears vs. Lions Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/bears-vs-lions-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

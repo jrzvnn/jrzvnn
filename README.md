@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
  - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
+ - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
  - 💣 [I know.....](http://9gag.com/gag/ajPdGRw)
- - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
+ - 😝 [Saw a WinXP CD post. This was also peak 2000s.](http://9gag.com/gag/aW4dyEK)
  - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---

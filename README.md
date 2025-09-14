@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
  - 😝 [Bird catcher spectacularrrrr](http://9gag.com/gag/a0exG0q)
- - 💣 [First rule in a haunted house. never let go of the hand. Second rule in group escape: NEVER LET GO OF THE HAND!!!](http://9gag.com/gag/aW4dAZ6)
  - 😝 [The brave Heart](http://9gag.com/gag/ae9dEO5)
+ - 💣 [First rule in a haunted house. never let go of the hand. Second rule in group escape: NEVER LET GO OF THE HAND!!!](http://9gag.com/gag/aW4dAZ6)
+ - 😝 [3% is the number of clinically diagnosed](http://9gag.com/gag/an7dZXB)
  - 👉 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 😝 [Our meme](http://9gag.com/gag/axyAQRK)
- - 💣 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
- - 👉 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)<!-- MEMES:END -->
+ - 😝 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)
+ - 😝 [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
+ - 💣 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 😝 [3% is the number of clinically diagnosed](http://9gag.com/gag/an7dZXB)
+ - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Daily Mail cries to regulators about UK Apple News block](https://appleinsider.com/articles/25/09/14/newspaper-says-its-blocked-from-apple-news-uk?utm_source=rss)
  - [What’s next for Apple after the iPhone 17?](https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro)
+ - [iPhone 17 vs iPhone 16? Here&#39;s How They Compare and Which One You Should Buy](https://www.cnet.com/tech/mobile/iphone-17-vs-iphone-16-heres-how-they-compare-and-which-one-you-should-buy/#ftag=CAD590a51e)
  - [Google&#39;s Gemini app is the #1 app in the US App Store, driven by its Nano Banana model, which has been used to edit 500M+ images since its August 26 launch &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250914/p11#a250914p11)
- - [Eagles vs. Chiefs Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/eagles-vs-chiefs-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
- - [Panthers vs. Cardinals Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/panthers-vs-cardinals-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eagles vs. Chiefs Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/eagles-vs-chiefs-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

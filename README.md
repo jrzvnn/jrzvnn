@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Malaysia reins in data center expansion amid power and water shortages, hindering Chinese companies that use the region as a backdoor to access US-made AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250913/p23#a250913p23)
  - [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth)
  - [Watchdogs say fraudsters are extorting small businesses for hundreds of dollars each by posting or threatening to post phony one-star reviews on Google Maps &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250913/p22#a250913p22)
  - [US salaries for key stablecoin roles are rising as a skills shortage meets a potentially immense market opportunity, putting upward pressure on pay &lpar;Bloomberg&rpar;](http://www.techmeme.com/250913/p21#a250913p21)
- - [Canelo vs. Crawford Fight: What Time to Watch the Action Tonight on Netflix](https://www.cnet.com/tech/services-and-software/canelo-vs-crawford-fight-what-time-to-watch-the-action-tonight-on-netflix/#ftag=CAD590a51e)
- - [Hike, which was valued at $1.4B in 2016 and has since pivoted from a messaging app to a real-money gaming app, shuts down following India&#39;s ban on such apps &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250913/p20#a250913p20)<!-- TECH:END -->
+ - [Canelo vs. Crawford Fight: What Time to Watch the Action Tonight on Netflix](https://www.cnet.com/tech/services-and-software/canelo-vs-crawford-fight-what-time-to-watch-the-action-tonight-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

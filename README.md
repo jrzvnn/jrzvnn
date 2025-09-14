@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japan says it will provide $3.63B to Micron for R&amp;D and capital spending at its Hiroshima fab to mass produce advanced DRAM, aiming for shipments by August 2028 &lpar;Hajime Tsukada/Nikkei Asia&rpar;](http://www.techmeme.com/250914/p2#a250914p2)
  - [Australia is emerging as a prominent player in quantum computing, enabled by breakthrough academic work and sustained government funding since the 1990s &lpar;Nic Fildes/Financial Times&rpar;](http://www.techmeme.com/250914/p1#a250914p1)
  - [Dyson Promo Codes: 20% Off in September 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [Malaysia reins in data center expansion amid power and water shortages, hindering Chinese companies that use the region as a backdoor to access US-made AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/250913/p23#a250913p23)
- - [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth)
- - [Watchdogs say fraudsters are extorting small businesses for hundreds of dollars each by posting or threatening to post phony one-star reviews on Google Maps &lpar;Stuart A. Thompson/New York Times&rpar;](http://www.techmeme.com/250913/p22#a250913p22)<!-- TECH:END -->
+ - [Liam Hemsworth is Geralt in the first Witcher season 4 trailer](https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

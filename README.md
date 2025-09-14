@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
  - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

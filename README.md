@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 😝 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
- - 👉 [How I met your mother](http://9gag.com/gag/aAymL9Z)<!-- MEMES:END -->
+ - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
+ - 💣 [He either hit jackpot or he&#39;s in serious trouble](http://9gag.com/gag/aByvb11)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 

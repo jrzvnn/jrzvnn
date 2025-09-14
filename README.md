@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [La Liga Soccer: Stream Barcelona vs. Valencia Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-valencia-live-from-anywhere/#ftag=CAD590a51e)
  - [tvOS 26 review: High on polish, light on new features for Apple TV](https://appleinsider.com/articles/25/09/14/tvos-26-review-high-on-polish-light-on-new-features-for-apple-tv?utm_source=rss)
  - [AirPods, AirPods Pro, or AirPods Max - Fall 2025 AirPods buyer&#39;s guide](https://appleinsider.com/articles/25/09/14/airpods-airpods-pro-or-airpods-max---fall-2025-airpods-buyers-guide?utm_source=rss)
  - [World Liberty Financial blocking Justin Sun&#39;s wallet contrasts with the Trump sons&#39; complaints about being &quot;debanked&quot;, the issue they said inspired the project &lpar;Molly White/Citation Needed&rpar;](http://www.techmeme.com/250914/p10#a250914p10)
- - [Hands on: AirPods Pro 3 Live Translation and heart rate monitoring are compelling](https://appleinsider.com/articles/25/09/14/hands-on-airpods-pro-3-live-translation-and-heart-rate-monitoring-are-compelling?utm_source=rss)
- - [The Helldivers community is coping with a spotlight it doesn’t want](https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk)<!-- TECH:END -->
+ - [Hands on: AirPods Pro 3 Live Translation and heart rate monitoring are compelling](https://appleinsider.com/articles/25/09/14/hands-on-airpods-pro-3-live-translation-and-heart-rate-monitoring-are-compelling?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

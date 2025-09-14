@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 😝 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
- - 💣 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 😝 [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
- - 👉 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)<!-- MEMES:END -->
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 💣 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
+ - 😝 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
+ - 👉 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)<!-- MEMES:END -->
 
 ---
 

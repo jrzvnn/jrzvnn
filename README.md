@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Quest to Find the Longest-Running Simple Computer Program](https://www.wired.com/story/the-quest-to-find-the-longest-running-simple-computer-program/)
  - [Plant Care Tips for the Winter, According to Experts &lpar;2025&rpar;](https://www.wired.com/story/how-to-keep-plants-alive-in-winter/)
  - [From  &#39;Orwell 2+2=5’ to &#39;Frankenstein’: TIFF&#39;s Films on Power, Creation, and Survival Are a Warning](https://www.wired.com/story/from-orwell-225-to-frankenstein-tiffs-films-on-power-creation-and-survival-are-a-warning/)
  - [Q&amp;A with Bret Taylor, CEO of Sierra and chairman of OpenAI, on Sierra&#39;s AI customer support agents, AGI, Sam Altman&#39;s comments on the AI bubble, and more &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250914/p7#a250914p7)
- - [Missed Apple&#39;s iPhone 17 Event? Here&#39;s a Quick Recap of Every New Announcement](https://www.cnet.com/tech/mobile/missed-apples-iphone-17-event-heres-a-quick-recap-of-every-new-announcement/#ftag=CAD590a51e)
- - [A Guide to the Top 100 Live TV Channels on YouTube TV, Sling, Fubo and More](https://www.cnet.com/tech/services-and-software/a-guide-to-top-100-live-tv-channels-live-tv-streaming-services-look-youtubetv-hulu-live-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Missed Apple&#39;s iPhone 17 Event? Here&#39;s a Quick Recap of Every New Announcement](https://www.cnet.com/tech/mobile/missed-apples-iphone-17-event-heres-a-quick-recap-of-every-new-announcement/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

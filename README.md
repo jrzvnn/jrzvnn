@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods, AirPods Pro, or AirPods Max - Fall 2025 AirPods buyer&#39;s guide](https://appleinsider.com/articles/25/09/14/airpods-airpods-pro-or-airpods-max---fall-2025-airpods-buyers-guide?utm_source=rss)
  - [Under-display Face ID still a possibility for the iPhone 18](https://appleinsider.com/articles/25/09/14/under-display-face-id-still-a-possibility-for-the-iphone-18?utm_source=rss)
  - [Watch the Emmy Awards Tonight Without Cable](https://www.cnet.com/tech/services-and-software/watch-the-emmy-awards-tonight-without-cable/#ftag=CAD590a51e)
  - [49ers vs. Saints Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/49ers-vs-saints-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
- - [Seahawks vs. Steelers Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/seahawks-vs-steelers-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)
- - [Bears vs. Lions Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/bears-vs-lions-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seahawks vs. Steelers Livestream: How to Watch NFL Week 2 Online Today](https://www.cnet.com/tech/services-and-software/seahawks-vs-steelers-livestream-how-to-watch-nfl-week-2-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

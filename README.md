@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
  - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 💣 [The Fascinating Anatomy Of Conjoined Sisters](http://9gag.com/gag/a2vx9ZZ)
- - 😝 [The new Harry Potter series is lit](http://9gag.com/gag/aW4dA1q)
- - 👉 [Member Friday? You\u2019re welcome lol](http://9gag.com/gag/aD2Pr3d)<!-- MEMES:END -->
+ - 😝 [Anyone else has this bug?](http://9gag.com/gag/aLnbOn5)
+ - 💣 [How I met your mother](http://9gag.com/gag/aAymL9Z)
+ - 😝 [Not even a 10% of his determination nor skill i am have is](http://9gag.com/gag/aByvbyP)
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 

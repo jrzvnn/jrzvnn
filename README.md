@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says Nvidia was found in violation of antitrust regulations in a preliminary investigation, in a brief statement without further details &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/250915/p2#a250915p2)
+ - [The SSD version of LaCie’s iconic Rugged drive gets a speed boost](https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k)
  - [Apple’s new iPhone charger is a first of its kind](https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 15, #357](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-15-357/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-15/#ftag=CAD590a51e)
- - [A look at training sessions hosted by robotaxi companies, like Zoox, to teach first responders how to handle emergencies involving self-driving cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/250915/p1#a250915p1)
- - [Get Ready for the Holiday Tech Splurge: US Adults Expected to Spend $931 on Devices, CNET Survey Finds](https://www.cnet.com/tech/mobile/get-ready-for-the-holiday-tech-splurge-us-adults-expected-to-spend-931-on-devices-cnet-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

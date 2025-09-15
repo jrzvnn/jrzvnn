@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How I met your mother](http://9gag.com/gag/aAymL9Z)
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
  - 😝 [Dog.exe runs on several platforms...](http://9gag.com/gag/amodQEj)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 👉 [No touch policy](http://9gag.com/gag/aGyovBG)<!-- MEMES:END -->
 
 ---
 

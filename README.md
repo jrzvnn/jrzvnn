@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
  - 😝 [Here Is The Full List Of Emmys 2025 Winners](http://9gag.com/gag/aRBydV7)
- - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 💣 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 👉 [Dog.exe runs on several platforms...](http://9gag.com/gag/amodQEj)<!-- MEMES:END -->
 
 ---
 

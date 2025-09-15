@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone 17 cases in silicone, clear, TechWoven, tested](https://appleinsider.com/articles/25/09/15/apples-iphone-17-cases-in-silicone-clear-techwoven-tested?utm_source=rss)
+ - [Amazon announces fall hardware event](https://www.theverge.com/news/778008/amazon-fall-hardware-event-announced-kindles-echo-alexa)
  - [iPhone 17 event recap, Owlet Dream Sight, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/15/iphone-17-event-recap-owlet-dream-sight-and-more-on-homekit-insider?utm_source=rss)
  - [Conceivable Life Sciences, which wants to use AI to automate the work done by embryologists in IVF labs, raised $50M, bringing its total funding to $70M &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/250915/p12#a250915p12)
- - [Battling for the lead at an IRL version of Mario Kart](https://www.theverge.com/games/777737/rpm-raceway-kart-klash-mario-kart-irl)
- - [11 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
- - [Your iPhone is about to look way different](https://www.theverge.com/apple-ios/777383/iphone-ios-26-liquid-glass-redesign-look)<!-- TECH:END -->
+ - [Battling for the lead at an IRL version of Mario Kart](https://www.theverge.com/games/777737/rpm-raceway-kart-klash-mario-kart-irl)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

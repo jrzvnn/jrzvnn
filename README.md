@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [TikTok deal may be done: Trump to meet China&#39;s Xi Jinping](https://appleinsider.com/articles/25/09/15/tiktok-deal-may-be-done-trump-to-meet-chinas-xi-jinping?utm_source=rss)
+ - [I Was Right Yet Again: iOS 26 Goes Live Today](https://www.cnet.com/tech/services-and-software/i-was-right-yet-again-ios-26-goes-live-today/#ftag=CAD590a51e)
  - [Samsung’s 2TB 990 Evo Plus SSD is $100 for a limited time](https://www.theverge.com/tech/778029/samsung-2tb-ssd-pcssd-fire-tv-4k-deal-sale)
- - [Elon Musk responds to Tesla pay proposal by buying $1 billion worth of stock](https://www.theverge.com/news/778103/elon-musk-tesla-shares-purchase-billion-dollars)
- - [Tel Aviv-based Remedio, which uses AI to detect risky misconfigurations on corporate networks, raised $65M led by Bessemer, a source says at a $300M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250915/p21#a250915p21)
- - [Here&amp;#8217;s why usage of Gemini&amp;#8217;s Nano Banana image editor is growing](https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor)
- - [CoreWeave says it has signed a new $6.3B order with Nvidia that guarantees Nvidia will purchase any cloud capacity not sold to customers through April 13, 2032 &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/250915/p20#a250915p20)<!-- TECH:END -->
+ - [Elon Musk responds to Tesla pay proposal by buying $1 billion worth of stock](https://www.theverge.com/news/778103/elon-musk-tesla-shares-purchase-billion-dollars)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

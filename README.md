@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based Terra Security, which offers an AI-driven penetration testing platform, raised a $30M Series A led by Felicis, bringing its total funding to $38M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250915/p8#a250915p8)
  - [Divergent Technologies, which makes automated assembly systems and 3D printers to make missile parts and other equipment, raised $290M at a $2.3B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250915/p7#a250915p7)
  - [DEXA Scan Deep Dive, With Insights From the Experts &lpar;2025&rpar;](https://www.wired.com/story/do-you-need-a-dexa-scan/)
  - [Android&amp;#8217;s next flagship processor will be the &amp;#8216;Snapdragon 8 Elite Gen 5&amp;#8217;](https://www.theverge.com/news/777925/qualcomm-snapdragon-8-elite-gen-5-name)
- - [Qualcomm says its new flagship processor will be called Snapdragon 8 Elite Gen 5; Xiaomi says its 17 series will launch with the chip &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/250915/p6#a250915p6)
- - [&#39;Severance&#39; and &#39;The Studio&#39; earn Apple TV+ a record-breaking 22 Emmys](https://appleinsider.com/articles/25/09/15/severance-and-the-studio-earn-apple-tv-a-record-breaking-22-emmys?utm_source=rss)<!-- TECH:END -->
+ - [ExpressVPN vs. Surfshark: Two of CNET’s Favorite VPNs Compared](https://www.cnet.com/tech/services-and-software/expressvpn-vs-surfshark/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

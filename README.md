@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 💣 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
+ - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
  - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
 
 ---

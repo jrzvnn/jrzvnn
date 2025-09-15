@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
- - [AirPods Pro 3 review: tripling down on a good thing](https://www.theverge.com/headphone-review/777798/airpods-pro-3-review-active-noise-cancelling-live-translation-headphones)
- - [iPadOS 26 review: The Mac lover&#39;s tablet update](https://appleinsider.com/articles/25/09/15/ipados-26-review-the-mac-lovers-tablet-update?utm_source=rss)
- - [Saudi Arabia-based Hala, which offers payment services to more than 142,000 SMBs in the Gulf region, raised a $157M Series B, source says at a ~$900M valuation &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250915/p9#a250915p9)
- - [Israel-based Terra Security, which offers an AI-driven penetration testing platform, raised a $30M Series A led by Felicis, bringing its total funding to $38M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250915/p8#a250915p8)<!-- TECH:END -->
+ - [Trump implies that a TikTok deal has been reached with China, saying a deal was reached &quot;on a &#39;certain&#39; company that young people&quot; in the US wanted to save &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250915/p11#a250915p11)
+ - [Apple AirPods Pro 3 review: significantly better fit, sound quality, noise cancellation, and battery life, but heart-rate monitoring is buried in fitness apps &lpar;David Carnoy/CNET&rpar;](http://www.techmeme.com/250915/p10#a250915p10)
+ - [iPhone 17 Pro is top seller but questions over iPhone Air linger](https://appleinsider.com/articles/25/09/15/iphone-17-pro-is-top-seller-but-questions-over-iphone-air-linger?utm_source=rss)
+ - [7 Best Automatic Litter Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
+ - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

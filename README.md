@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
  - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
  - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
- - 👉 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)<!-- MEMES:END -->
+ - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
 

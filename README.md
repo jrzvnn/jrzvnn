@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 💣 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
- - 😝 [This is happiness](http://9gag.com/gag/aKGLZnO)
- - 👉 [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)<!-- MEMES:END -->
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

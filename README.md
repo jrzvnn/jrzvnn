@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
- - [iOS 26 review: Liquid Glass is aesthetically pleasing, many quality-of-life upgrades, call screening is a true game changer, but the Games app feels unfinished &lpar;Zachary McAuliffe/CNET&rpar;](http://www.techmeme.com/250915/p28#a250915p28)
- - [Russia Tests Hypersonic Missile at NATO’s Doorstep—and Shares the Video](https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/)
- - [Apple adds new tools to help parents manage kids&#39; device use and app access](https://appleinsider.com/articles/25/09/15/apple-adds-new-tools-to-help-parents-manage-kids-device-use-and-app-access?utm_source=rss)
- - [Apple launches iOS 26, iPadOS 26, macOS 26 Tahoe, watchOS 26, visionOS 26, and tvOS 26, featuring Liquid Glass design, new Apple Intelligence features, and more &lpar;José Adorno/BGR&rpar;](http://www.techmeme.com/250915/p27#a250915p27)<!-- TECH:END -->
+ - [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)
+ - [macOS 26 Tahoe review: Liquid Glass has small regressions in usability and accessibility but the upgrade has enough iterative changes like automated Shortcuts &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250915/p29#a250915p29)
+ - [If you were running betas, you may need to turn that off to get the updates](https://appleinsider.com/inside/ios-26/tips/if-you-were-running-betas-you-may-need-to-turn-that-off-to-get-the-updates?utm_source=rss)
+ - [Google thinks it can have AI summaries and a healthy web, too](https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit)
+ - [iOS 18, iOS 16, macOS Sequoia, and macOS Sonoma got updates too](https://appleinsider.com/articles/25/09/15/ios-18-ios-16-macos-sequoia-and-macos-sonoma-got-updates-too?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple launches iOS 26, iPadOS 26, macOS 26 Tahoe, watchOS 26, visionOS 26, and tvOS 26, featuring Liquid Glass design, new Apple Intelligence features, and more &lpar;José Adorno/BGR&rpar;](http://www.techmeme.com/250915/p27#a250915p27)
  - [Microsoft’s Office apps now have free Copilot Chat features](https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat)
  - [Amazon slashes M4 MacBook Pro to $1,299, plus save up to $410 across range](https://appleinsider.com/articles/25/09/15/amazon-slashes-m4-macbook-pro-to-1299-plus-save-up-to-410-across-range?utm_source=rss)
- - [OpenAI debuts GPT‑5-Codex, a version of GPT‑5 optimized for agentic coding in Codex and says it spends its &quot;thinking&quot; time more dynamically than previous models &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250915/p26#a250915p26)<!-- TECH:END -->
+ - [Apple&#39;s Sleeper Hit of Its Fall Lineup? The Apple Watch SE 3](https://www.cnet.com/tech/mobile/apples-sleeper-hit-of-its-fall-lineup-the-apple-watch-se-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

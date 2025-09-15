@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [WIRED Roundup: How Charlie Kirk Changed Conservative Media](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-how-charlie-kirk-changed-conservative-media/)
  - [Apple MacOS Tahoe 26: Top New Features to Try Today](https://www.wired.com/story/macos-26-tahoe-top-features/)
+ - [Mullvad VPN Now Adds QUIC Protocol to Get Around Firewalls and Censorship](https://www.cnet.com/tech/services-and-software/mullvad-vpn-now-adds-quic-protocol-to-get-around-firewalls-and-censorship/#ftag=CAD590a51e)
  - [Apple has finally explained why battery life can be different after an OS update](https://appleinsider.com/articles/25/09/15/apple-has-finally-explained-why-battery-life-can-be-different-after-an-os-update?utm_source=rss)
- - [A now-removed unlisted video on Meta&#39;s YouTube channel shows Meta Ray-Ban glasses with a HUD shown to one eye, used for Meta AI and on-foot navigation &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p30#a250915p30)
- - [macOS Tahoe with Liquid Glass, Clipboard History, and more is now available](https://appleinsider.com/articles/25/09/15/macos-tahoe-with-liquid-glass-clipboard-history-and-more-is-now-available?utm_source=rss)<!-- TECH:END -->
+ - [A now-removed unlisted video on Meta&#39;s YouTube channel shows Meta Ray-Ban glasses with a HUD shown to one eye, used for Meta AI and on-foot navigation &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p30#a250915p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

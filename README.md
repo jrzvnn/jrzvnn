@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
+ - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
  - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---

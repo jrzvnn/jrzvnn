@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
- - 😝 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
  - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
  - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
 
 ---
 

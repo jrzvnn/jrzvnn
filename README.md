@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
  - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 😝 [Dog.exe runs on several platforms...](http://9gag.com/gag/amodQEj)
- - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
+ - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Google executive says users increasingly want &quot;contextual answers and summaries&quot;, but Google is not going to abandon the model that provides &quot;10 blue links&quot; &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250915/p32#a250915p32)
  - [Disney and Webtoon announce a new digital platform with 35K+ Disney comics; Disney plans to acquire a 2% equity interest in Webtoon; WBTN jumps 70%+ after hours &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/250915/p31#a250915p31)
  - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
  - [Facebook gave our data to Cambridge Analytica and all I got was this $38.36](https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36)
- - [Save $40 on a Handmade Dutch Coffeemaker That&#39;s Built for Life](https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/)
- - [WIRED Roundup: How Charlie Kirk Changed Conservative Media](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-how-charlie-kirk-changed-conservative-media/)<!-- TECH:END -->
+ - [Save $40 on a Handmade Dutch Coffeemaker That&#39;s Built for Life](https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

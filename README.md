@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
+ - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
 

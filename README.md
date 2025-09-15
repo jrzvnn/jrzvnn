@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [iCloud support culled for iOS 10, macOS Sierra users](https://appleinsider.com/articles/25/09/15/icloud-support-culled-for-ios-10-macos-sierra-users?utm_source=rss)
  - [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)
- - [Trump says foreign workers are &amp;#8216;welcome&amp;#8217; after ICE raid in Georgia targets hundreds of South Koreans](https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers)
- - [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)
- - [macOS 26 Tahoe review: Liquid Glass has small regressions in usability and accessibility but the upgrade has enough iterative changes like automated Shortcuts &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250915/p29#a250915p29)<!-- TECH:END -->
+ - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
+ - [Most People Use ChatGPT for Personal Life, Not Work, According to a New OpenAI Study](https://www.cnet.com/tech/services-and-software/most-people-use-chatgpt-for-personal-life-not-work-according-to-a-new-openai-study/#ftag=CAD590a51e)
+ - [Locking Your Social Security Number Can Protect You From Identity Theft – Here&#39;s How It Works](https://www.cnet.com/tech/services-and-software/locking-your-social-security-number-can-protect-you-from-identity-theft-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

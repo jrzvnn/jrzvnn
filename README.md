@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at training sessions hosted by robotaxi companies, like Zoox, to teach first responders how to handle emergencies involving self-driving cars &lpar;Lisa Bonos/Washington Post&rpar;](http://www.techmeme.com/250915/p1#a250915p1)
  - [A deep dive into the architecture of Nvidia&#39;s Rubin CPX chip, which is optimized for long-context AI tasks and the prefill phase of inference &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/250914/p17#a250914p17)
  - [Amazon&#39;s $799 M4 MacBook Air deal is back, plus save up to $500 on upgraded models](https://appleinsider.com/articles/25/09/15/amazons-799-m4-macbook-air-deal-is-back-plus-save-up-to-500-on-upgraded-models?utm_source=rss)
  - [The AI revolution has more in common with shipping containerization than the boom unleashed by the microprocessor: diffuse global benefits but few new fortunes &lpar;Jerry Neumann/Colossus&rpar;](http://www.techmeme.com/250914/p16#a250914p16)
- - [Prime Video: The 30 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-september-2025/#ftag=CAD590a51e)
- - [Japan is becoming a test bed for whether logistics companies can overcome labor shortages, as the aging country lags behind US and China in logistics automation &lpar;Harry Dempsey/Financial Times&rpar;](http://www.techmeme.com/250914/p15#a250914p15)<!-- TECH:END -->
+ - [Prime Video: The 30 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-september-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

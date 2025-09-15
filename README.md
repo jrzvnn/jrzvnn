@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They age diffently than men.....](http://9gag.com/gag/aLnb30z)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
  - 😝 [Here Is The Full List Of Emmys 2025 Winners](http://9gag.com/gag/aRBydV7)
  - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
  - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 

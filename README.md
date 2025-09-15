@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Severance&#39; and &#39;The Studio&#39; earn Apple TV+ a record-breaking 22 Emmys](https://appleinsider.com/articles/25/09/15/severance-and-the-studio-earn-apple-tv-a-record-breaking-22-emmys?utm_source=rss)
+ - [Whole-Genome Sequencing Will Change Pregnancy](https://www.wired.com/story/whole-genome-sequencing-will-change-pregnancy/)
  - [The London Stock Exchange launches a blockchain-based platform, marking its push into digital assets, initially focused on private funds &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250915/p5#a250915p5)
  - [Microsoft is changing how Xbox controllers work on Windows 11](https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11)
- - [An Anthropic report details how Claude usage varies by country and US states, finding 36% use it for coding, 77% of enterprise use is for automation, and more &lpar;Anthropic&rpar;](http://www.techmeme.com/250915/p4#a250915p4)
- - [Liquid Glass Could Be One of Apple&#39;s Most Divisive System Designs Yet](https://www.wired.com/story/liquid-glass-could-be-one-of-apples-most-divisive-system-designs-yet/)
- - [OpenAI Ramps Up Robotics Work in Race Toward AGI](https://www.wired.com/story/openai-ramps-up-robotics-work-in-race-toward-agi/)<!-- TECH:END -->
+ - [An Anthropic report details how Claude usage varies by country and US states, finding 36% use it for coding, 77% of enterprise use is for automation, and more &lpar;Anthropic&rpar;](http://www.techmeme.com/250915/p4#a250915p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
+ - 😝 [No touch policy](http://9gag.com/gag/aGyovBG)
+ - 💣 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
  - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [No touch policy](http://9gag.com/gag/aGyovBG)<!-- MEMES:END -->
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

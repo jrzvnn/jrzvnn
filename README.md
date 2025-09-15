@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air vs iPhone 17 Pro -- Style versus function](https://appleinsider.com/inside/iphone-air/vs/iphone-air-vs-iphone-17-pro----style-versus-function?utm_source=rss)
+ - [Spotify adds new features for free users globally, allowing them to search for and play any song they want; the company reported 433M ad-supported MAUs in Q2 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250915/p16#a250915p16)
+ - [How brands and creators are fighting for your attention — and your money](https://www.theverge.com/decoder-podcast-with-nilay-patel/776412/amy-lanzi-ceo-digitas-digital-marketing-creators-ai-hank-green)
  - [Amazon schedules its annual fall hardware event for September 30 in NYC, where it is expected to launch new Echo smart speakers and Kindle devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250915/p15#a250915p15)
- - [Hands on: Apple&#39;s new 60W charger is effectively required for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)
- - [PayPal launches PayPal Links, which lets users create a personalized, one-time link to send or request payment to other PayPal users &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/250915/p14#a250915p14)
- - [Sources: Google adopts risk-based Android security updates, prioritizing fixing only high-risk vulnerabilities in monthly releases, and others in quarterly ASBs &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250915/p13#a250915p13)
- - [Apple&#39;s iPhone 17 cases in silicone, clear, TechWoven, tested](https://appleinsider.com/articles/25/09/15/apples-iphone-17-cases-in-silicone-clear-techwoven-tested?utm_source=rss)<!-- TECH:END -->
+ - [Hands on: Apple&#39;s new 60W charger is effectively required for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

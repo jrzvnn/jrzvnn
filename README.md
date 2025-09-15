@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WIRED Health Recap: Cancer Vaccines, CRISPR Breakthroughs, and More](https://www.wired.com/story/wired-health-recap-cancer-vaccines-crispr-breakthroughs-and-more/)
+ - [An Anthropic report details how Claude usage varies by country and US states, finding 36% use it for coding, 77% of enterprise use is for automation, and more &lpar;Anthropic&rpar;](http://www.techmeme.com/250915/p4#a250915p4)
+ - [Liquid Glass Could Be One of Apple&#39;s Most Divisive System Designs Yet](https://www.wired.com/story/liquid-glass-could-be-one-of-apples-most-divisive-system-designs-yet/)
+ - [OpenAI Ramps Up Robotics Work in Race Toward AGI](https://www.wired.com/story/openai-ramps-up-robotics-work-in-race-toward-agi/)
  - [The Next Era of Gene Editing Will Be Disease Agnostic](https://www.wired.com/story/the-next-era-of-gene-editing-will-be-disease-agnostic/)
- - [MAHA Wants Action on Pesticides. It’s Not Going to Get It From Trump’s Corporate-Friendly EPA](https://www.wired.com/story/the-epas-closeness-to-industry-stands-in-the-way-of-it-helping-maha/)
- - [OpenAI releases the first detailed public study on how people use ChatGPT: 73% of chats were non-work related, practical guidance was the top use case, and more &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250915/p3#a250915p3)
- - [China says Nvidia was found in violation of antitrust regulations in a preliminary investigation, in a brief statement without further details &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p2#a250915p2)<!-- TECH:END -->
+ - [WIRED Health Recap: Cancer Vaccines, CRISPR Breakthroughs, and More](https://www.wired.com/story/wired-health-recap-cancer-vaccines-crispr-breakthroughs-and-more/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
  - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
  - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
  - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
+ - 👉 [No touch policy](http://9gag.com/gag/aGyovBG)<!-- MEMES:END -->
 
 ---
 

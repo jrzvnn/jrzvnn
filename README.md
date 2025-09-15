@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court)
- - [iCloud support culled for iOS 10, macOS Sierra users](https://appleinsider.com/articles/25/09/15/icloud-support-culled-for-ios-10-macos-sierra-users?utm_source=rss)
- - [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)
- - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [Most People Use ChatGPT for Personal Life, Not Work, According to a New OpenAI Study](https://www.cnet.com/tech/services-and-software/most-people-use-chatgpt-for-personal-life-not-work-according-to-a-new-openai-study/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple has finally explained why battery life can be different after an OS update](https://appleinsider.com/articles/25/09/15/apple-has-finally-explained-why-battery-life-can-be-different-after-an-os-update?utm_source=rss)
+ - [A now-removed unlisted video on Meta&#39;s YouTube channel shows Meta Ray-Ban glasses with a HUD shown to one eye, used for Meta AI and on-foot navigation &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p30#a250915p30)
+ - [macOS Tahoe with Liquid Glass, Clipboard History, and more is now available](https://appleinsider.com/articles/25/09/15/macos-tahoe-with-liquid-glass-clipboard-history-and-more-is-now-available?utm_source=rss)
+ - [The Top New Features in Apple WatchOS 26](https://www.wired.com/story/top-new-features-in-watchos-26/)
+ - [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

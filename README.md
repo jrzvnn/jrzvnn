@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Top New Features in Apple’s iOS 26 and iPadOS 26](https://www.wired.com/story/apple-ios-26-and-ipados-26-top-new-features/)
+ - [iOS 26 review: Liquid Glass is aesthetically pleasing, many quality-of-life upgrades, call screening is a true game changer, but the Games app feels unfinished &lpar;Zachary McAuliffe/CNET&rpar;](http://www.techmeme.com/250915/p28#a250915p28)
+ - [Russia Tests Hypersonic Missile at NATO’s Doorstep—and Shares the Video](https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/)
  - [Apple adds new tools to help parents manage kids&#39; device use and app access](https://appleinsider.com/articles/25/09/15/apple-adds-new-tools-to-help-parents-manage-kids-device-use-and-app-access?utm_source=rss)
- - [Apple launches iOS 26, iPadOS 26, macOS 26 Tahoe, watchOS 26, visionOS 26, and tvOS 26, featuring Liquid Glass design, new Apple Intelligence features, and more &lpar;José Adorno/BGR&rpar;](http://www.techmeme.com/250915/p27#a250915p27)
- - [Microsoft’s Office apps now have free Copilot Chat features](https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat)
- - [Amazon slashes M4 MacBook Pro to $1,299, plus save up to $410 across range](https://appleinsider.com/articles/25/09/15/amazon-slashes-m4-macbook-pro-to-1299-plus-save-up-to-410-across-range?utm_source=rss)
- - [Apple&#39;s Sleeper Hit of Its Fall Lineup? The Apple Watch SE 3](https://www.cnet.com/tech/mobile/apples-sleeper-hit-of-its-fall-lineup-the-apple-watch-se-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple launches iOS 26, iPadOS 26, macOS 26 Tahoe, watchOS 26, visionOS 26, and tvOS 26, featuring Liquid Glass design, new Apple Intelligence features, and more &lpar;José Adorno/BGR&rpar;](http://www.techmeme.com/250915/p27#a250915p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

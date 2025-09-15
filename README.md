@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder he went mental. The Frustration must\u2019ve been unbearable](http://9gag.com/gag/adBdwOB)
- - 😝 [Swiss fix roadwork without traffic jams](http://9gag.com/gag/abAdwWp)
- - 💣 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
- - 😝 [Let me out](http://9gag.com/gag/aXPd1gg)
- - 👉 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)<!-- MEMES:END -->
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
+ - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
+ - 👉 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)<!-- MEMES:END -->
 
 ---
 

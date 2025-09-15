@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
- - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)<!-- MEMES:END -->
+ - 😝 [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 💣 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
+ - 😝 [This is happiness](http://9gag.com/gag/aKGLZnO)
+ - 👉 [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)<!-- MEMES:END -->
 
 ---
 

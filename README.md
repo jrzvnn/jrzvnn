@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Divergent Technologies, which makes automated assembly systems and 3D printers to make missile parts and other equipment, raised $290M at a $2.3B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250915/p7#a250915p7)
+ - [DEXA Scan Deep Dive, With Insights From the Experts &lpar;2025&rpar;](https://www.wired.com/story/do-you-need-a-dexa-scan/)
+ - [Android&amp;#8217;s next flagship processor will be the &amp;#8216;Snapdragon 8 Elite Gen 5&amp;#8217;](https://www.theverge.com/news/777925/qualcomm-snapdragon-8-elite-gen-5-name)
  - [Qualcomm says its new flagship processor will be called Snapdragon 8 Elite Gen 5; Xiaomi says its 17 series will launch with the chip &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/250915/p6#a250915p6)
- - [&#39;Severance&#39; and &#39;The Studio&#39; earn Apple TV+ a record-breaking 22 Emmys](https://appleinsider.com/articles/25/09/15/severance-and-the-studio-earn-apple-tv-a-record-breaking-22-emmys?utm_source=rss)
- - [Whole-Genome Sequencing Will Change Pregnancy](https://www.wired.com/story/whole-genome-sequencing-will-change-pregnancy/)
- - [The London Stock Exchange launches a blockchain-based platform, marking its push into digital assets, initially focused on private funds &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250915/p5#a250915p5)
- - [Microsoft is changing how Xbox controllers work on Windows 11](https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11)<!-- TECH:END -->
+ - [&#39;Severance&#39; and &#39;The Studio&#39; earn Apple TV+ a record-breaking 22 Emmys](https://appleinsider.com/articles/25/09/15/severance-and-the-studio-earn-apple-tv-a-record-breaking-22-emmys?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

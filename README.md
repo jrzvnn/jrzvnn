@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
- - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
+ - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 💣 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
+ - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

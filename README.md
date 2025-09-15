@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NY could force TikTok, YouTube, and Instagram to roll out age verification](https://www.theverge.com/news/778177/ny-safe-act-online-age-verification-social-media-proposed-rules)
+ - [How UAE&#39;s $2B investment in Trump family&#39;s WLF is linked to the deal allowing the UAE&#39;s G42 to access AI chips, in which David Sacks played a key role &lpar;New York Times&rpar;](http://www.techmeme.com/250915/p23#a250915p23)
+ - [USA Today Enters Its Gen AI Era With a Chatbot](https://www.wired.com/story/usa-today-enters-its-gen-ai-era-with-a-chatbot/)
  - [Spotify&amp;#8217;s free users can finally play the songs they want](https://www.theverge.com/news/778176/spotify-free-user-upgrade-play-specific-songs)
- - [TikTok deal may be done: Trump to meet China&#39;s Xi Jinping](https://appleinsider.com/articles/25/09/15/tiktok-deal-may-be-done-trump-to-meet-chinas-xi-jinping?utm_source=rss)
- - [Snap announces Snap OS 2.0 for its Spectacles glasses, updating first-party apps and adding new features like Travel Mode and support for WebXR &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p22#a250915p22)
- - [Samsung’s 2TB 990 Evo Plus SSD is $100 for a limited time](https://www.theverge.com/tech/778029/samsung-2tb-ssd-pcssd-fire-tv-4k-deal-sale)
- - [Elon Musk responds to Tesla pay proposal by buying $1 billion worth of stock](https://www.theverge.com/news/778103/elon-musk-tesla-shares-purchase-billion-dollars)<!-- TECH:END -->
+ - [TikTok deal may be done: Trump to meet China&#39;s Xi Jinping](https://appleinsider.com/articles/25/09/15/tiktok-deal-may-be-done-trump-to-meet-chinas-xi-jinping?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

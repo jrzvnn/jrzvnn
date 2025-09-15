@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Las posibilidades... mmmm](http://9gag.com/gag/apRdnqE)
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 💣 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 😝 [Old habits are hard to break.....](http://9gag.com/gag/amodQw9)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 😝 [Indian ice cream cone , Hygiene is 0%](http://9gag.com/gag/awy8jmx)
+ - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 😝 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

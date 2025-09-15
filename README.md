@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
  - 😝 [Dog.exe runs on several platforms...](http://9gag.com/gag/amodQEj)
- - 👉 [No touch policy](http://9gag.com/gag/aGyovBG)<!-- MEMES:END -->
+ - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
 

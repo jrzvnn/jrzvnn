@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is recruiting people to work on humanoid robots and is training AI algorithms that are better able to make sense of the physical world &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/250915/p19#a250915p19)
- - [LA-based MarqVision, which uses AI to monitor marketplaces for counterfeits, raised a $48M Series B led by Peak XV Partners, bringing its total funding to ~$90M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250915/p18#a250915p18)
- - [The US and China might finally have a TikTok deal](https://www.theverge.com/news/778087/tiktok-ban-framework-deal-us-china-trump)
- - [Alphabet becomes the fourth company to reach a $3T market cap, joining Nvidia, Microsoft, and Apple, after its stock jumped 4%+ on Monday &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250915/p17#a250915p17)
- - [iPhone Air vs iPhone 17 Pro -- Style versus function](https://appleinsider.com/inside/iphone-air/vs/iphone-air-vs-iphone-17-pro----style-versus-function?utm_source=rss)<!-- TECH:END -->
+ - [Samsung’s 2TB 990 Evo Plus SSD is $100 for a limited time](https://www.theverge.com/tech/778029/samsung-2tb-ssd-pcssd-fire-tv-4k-deal-sale)
+ - [Elon Musk responds to Tesla pay proposal by buying $1 billion worth of stock](https://www.theverge.com/news/778103/elon-musk-tesla-shares-purchase-billion-dollars)
+ - [Tel Aviv-based Remedio, which uses AI to detect risky misconfigurations on corporate networks, raised $65M led by Bessemer, a source says at a $300M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250915/p21#a250915p21)
+ - [Here&amp;#8217;s why usage of Gemini&amp;#8217;s Nano Banana image editor is growing](https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor)
+ - [CoreWeave says it has signed a new $6.3B order with Nvidia that guarantees Nvidia will purchase any cloud capacity not sold to customers through April 13, 2032 &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/250915/p20#a250915p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

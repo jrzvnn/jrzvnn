@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
  - 😝 [Here Is The Full List Of Emmys 2025 Winners](http://9gag.com/gag/aRBydV7)
- - 💣 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
  - 👉 [Dog.exe runs on several platforms...](http://9gag.com/gag/amodQEj)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 💣 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
- - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 😝 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
+ - 😝 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

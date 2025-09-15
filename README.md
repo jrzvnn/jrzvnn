@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)
- - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 😝 [Iranian women refusing to wear Hijab](http://9gag.com/gag/aVvd8pw)
- - 👉 [No potatoes for long videos](http://9gag.com/gag/a34xg5m)<!-- MEMES:END -->
+ - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 👉 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)<!-- MEMES:END -->
 
 ---
 

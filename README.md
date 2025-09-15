@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
  - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [Awakening](http://9gag.com/gag/a6ZxzLR)<!-- MEMES:END -->
+ - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
 

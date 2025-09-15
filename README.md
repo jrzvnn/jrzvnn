@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
- - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 😝 [This isn&#39;t grandma&#39;s first rodeo](http://9gag.com/gag/aVvdrK2)
+ - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 😝 [Iranian women refusing to wear Hijab](http://9gag.com/gag/aVvd8pw)
+ - 👉 [No potatoes for long videos](http://9gag.com/gag/a34xg5m)<!-- MEMES:END -->
 
 ---
 

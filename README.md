@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is changing how Xbox controllers work on Windows 11](https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11)
  - [An Anthropic report details how Claude usage varies by country and US states, finding 36% use it for coding, 77% of enterprise use is for automation, and more &lpar;Anthropic&rpar;](http://www.techmeme.com/250915/p4#a250915p4)
  - [Liquid Glass Could Be One of Apple&#39;s Most Divisive System Designs Yet](https://www.wired.com/story/liquid-glass-could-be-one-of-apples-most-divisive-system-designs-yet/)
  - [OpenAI Ramps Up Robotics Work in Race Toward AGI](https://www.wired.com/story/openai-ramps-up-robotics-work-in-race-toward-agi/)
- - [The Next Era of Gene Editing Will Be Disease Agnostic](https://www.wired.com/story/the-next-era-of-gene-editing-will-be-disease-agnostic/)
- - [WIRED Health Recap: Cancer Vaccines, CRISPR Breakthroughs, and More](https://www.wired.com/story/wired-health-recap-cancer-vaccines-crispr-breakthroughs-and-more/)<!-- TECH:END -->
+ - [The Next Era of Gene Editing Will Be Disease Agnostic](https://www.wired.com/story/the-next-era-of-gene-editing-will-be-disease-agnostic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

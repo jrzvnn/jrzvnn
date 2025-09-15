@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says foreign workers are &amp;#8216;welcome&amp;#8217; after ICE raid in Georgia targets hundreds of South Koreans](https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers)
  - [Turn Your Old Tech Into Art—Now With a 20% Discount](https://www.wired.com/story/grid-studio-5-anniversary-sale/)
  - [macOS 26 Tahoe review: Liquid Glass has small regressions in usability and accessibility but the upgrade has enough iterative changes like automated Shortcuts &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/250915/p29#a250915p29)
  - [If you were running betas, you may need to turn that off to get the updates](https://appleinsider.com/inside/ios-26/tips/if-you-were-running-betas-you-may-need-to-turn-that-off-to-get-the-updates?utm_source=rss)
- - [Google thinks it can have AI summaries and a healthy web, too](https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit)
- - [iOS 18, iOS 16, macOS Sequoia, and macOS Sonoma got updates too](https://appleinsider.com/articles/25/09/15/ios-18-ios-16-macos-sequoia-and-macos-sonoma-got-updates-too?utm_source=rss)<!-- TECH:END -->
+ - [Google thinks it can have AI summaries and a healthy web, too](https://www.theverge.com/news/778306/google-ai-summaries-penske-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

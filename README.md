@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap announces Snap OS 2.0 for its Spectacles glasses, updating first-party apps and adding new features like Travel Mode and support for WebXR &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p22#a250915p22)
  - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
  - [TikTok deal may be done: Trump to meet China&#39;s Xi Jinping](https://appleinsider.com/articles/25/09/15/tiktok-deal-may-be-done-trump-to-meet-chinas-xi-jinping?utm_source=rss)
  - [I Was Right Yet Again: iOS 26 Goes Live Today](https://www.cnet.com/tech/services-and-software/i-was-right-yet-again-ios-26-goes-live-today/#ftag=CAD590a51e)
- - [Samsung’s 2TB 990 Evo Plus SSD is $100 for a limited time](https://www.theverge.com/tech/778029/samsung-2tb-ssd-pcssd-fire-tv-4k-deal-sale)
- - [Elon Musk responds to Tesla pay proposal by buying $1 billion worth of stock](https://www.theverge.com/news/778103/elon-musk-tesla-shares-purchase-billion-dollars)<!-- TECH:END -->
+ - [Samsung’s 2TB 990 Evo Plus SSD is $100 for a limited time](https://www.theverge.com/tech/778029/samsung-2tb-ssd-pcssd-fire-tv-4k-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

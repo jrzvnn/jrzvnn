@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Supreme Court is Google’s last hope to avoid an Epic reckoning in October](https://www.theverge.com/news/778332/google-epic-play-store-lawsuit-30-days-supreme-court)
  - [iCloud support culled for iOS 10, macOS Sierra users](https://appleinsider.com/articles/25/09/15/icloud-support-culled-for-ios-10-macos-sierra-users?utm_source=rss)
  - [Meta leaks its new smart glasses with a display](https://www.theverge.com/news/778354/meta-smart-glasses-display-ray-ban-oakley-sphaera-connect)
  - [Best Noise-Canceling Earbuds for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [Most People Use ChatGPT for Personal Life, Not Work, According to a New OpenAI Study](https://www.cnet.com/tech/services-and-software/most-people-use-chatgpt-for-personal-life-not-work-according-to-a-new-openai-study/#ftag=CAD590a51e)
- - [Locking Your Social Security Number Can Protect You From Identity Theft – Here&#39;s How It Works](https://www.cnet.com/tech/services-and-software/locking-your-social-security-number-can-protect-you-from-identity-theft-heres-how-it-works/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Most People Use ChatGPT for Personal Life, Not Work, According to a New OpenAI Study](https://www.cnet.com/tech/services-and-software/most-people-use-chatgpt-for-personal-life-not-work-according-to-a-new-openai-study/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

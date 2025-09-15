@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Iranian women refusing to wear Hijab](http://9gag.com/gag/aVvd8pw)
  - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [Propagandalf](http://9gag.com/gag/aZZd53V)
- - 👉 [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)<!-- MEMES:END -->
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 💣 [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)
+ - 😝 [Pranks are evolving..](http://9gag.com/gag/aD2P5DB)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

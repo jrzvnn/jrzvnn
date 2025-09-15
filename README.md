@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 😝 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 💣 [Help me](http://9gag.com/gag/a34xrwQ)
- - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 😝 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
+ - 👉 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)<!-- MEMES:END -->
 
 ---
 

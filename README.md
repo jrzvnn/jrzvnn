@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sheeiiit...it is real!](http://9gag.com/gag/aVvd8EP)
- - 😝 [No touch policy](http://9gag.com/gag/aGyovBG)
- - 💣 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)
- - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
+ - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 👉 [Just a normal day at the theme park](http://9gag.com/gag/ajPdjOR)<!-- MEMES:END -->
 
 ---
 

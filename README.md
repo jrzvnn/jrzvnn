@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [watchos 26 is here, and features AI coaching &amp; improved health tools](https://appleinsider.com/articles/25/09/15/watchos-26-is-here-and-features-ai-coaching-improved-health-tools?utm_source=rss)
- - [Apple releases iOS 26 with Liquid Glass and more intelligence](https://appleinsider.com/articles/25/09/15/apple-releases-ios-26-with-liquid-glass-and-more-intelligence?utm_source=rss)
- - [Spatial widgets add a new dimension to Apple Vision Pro with visionOS 26, available now](https://appleinsider.com/articles/25/09/15/spatial-widgets-add-a-new-dimension-to-apple-vision-pro-with-visionos-26-available-now?utm_source=rss)
- - [I&amp;#8217;ve been using macOS Tahoe 26 since June and here are the best eight things about it](https://www.theverge.com/apple-mac-os/777936/apple-macos-tahoe-26-final-release-testing-impressions-liquid-glass)
- - [The unbearable sameness of Liquid Glass](https://www.theverge.com/apple/778197/liquid-glass-iphone-watch-ipad-mac)<!-- TECH:END -->
+ - [Amazon slashes M4 MacBook Pro to $1,299, plus save up to $410 across range](https://appleinsider.com/articles/25/09/15/amazon-slashes-m4-macbook-pro-to-1299-plus-save-up-to-410-across-range?utm_source=rss)
+ - [OpenAI debuts GPT‑5-Codex, a version of GPT‑5 optimized for agentic coding in Codex and says it spends its &quot;thinking&quot; time more dynamically than previous models &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250915/p26#a250915p26)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [macOS Tahoe with Liquid Glass, Clipboard History, and more is now available](https://appleinsider.com/articles/25/09/15/macos-tahoe-with-liquid-glass-clipboard-history-and-more-is-now-available?utm_source=rss)
+ - [iPadOS 26 arrives with controversial Liquid Glass and Mac-like multitasking](https://appleinsider.com/articles/25/09/15/ipados-26-arrives-with-controversial-liquid-glass-and-mac-like-multitasking?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

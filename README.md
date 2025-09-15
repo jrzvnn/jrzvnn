@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions](https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [NY could force TikTok, YouTube, and Instagram to roll out age verification](https://www.theverge.com/news/778177/ny-safe-act-online-age-verification-social-media-proposed-rules)
  - [How UAE&#39;s $2B investment in Trump family&#39;s WLF is linked to the deal allowing the UAE&#39;s G42 to access AI chips, in which David Sacks played a key role &lpar;New York Times&rpar;](http://www.techmeme.com/250915/p23#a250915p23)
- - [USA Today Enters Its Gen AI Era With a Chatbot](https://www.wired.com/story/usa-today-enters-its-gen-ai-era-with-a-chatbot/)
- - [Spotify&amp;#8217;s free users can finally play the songs they want](https://www.theverge.com/news/778176/spotify-free-user-upgrade-play-specific-songs)
- - [TikTok deal may be done: Trump to meet China&#39;s Xi Jinping](https://appleinsider.com/articles/25/09/15/tiktok-deal-may-be-done-trump-to-meet-chinas-xi-jinping?utm_source=rss)<!-- TECH:END -->
+ - [USA Today Enters Its Gen AI Era With a Chatbot](https://www.wired.com/story/usa-today-enters-its-gen-ai-era-with-a-chatbot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

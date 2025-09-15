@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 💣 [Don&#39;t be that person](http://9gag.com/gag/aW4dyd3)
- - 😝 [Pranks are evolving..](http://9gag.com/gag/aD2P5DB)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
+ - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 👉 [One of these is not like the others](http://9gag.com/gag/aRByGvA)<!-- MEMES:END -->
 
 ---
 

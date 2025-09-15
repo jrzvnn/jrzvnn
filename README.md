@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
- - 😝 [Indian ice cream cone , Hygiene is 0%](http://9gag.com/gag/awy8jmx)
- - 💣 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
  - 😝 [Hip hip hurry](http://9gag.com/gag/aQzrbyz)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 😝 [Be careful out there fellas](http://9gag.com/gag/a9yVeYD)
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---
 

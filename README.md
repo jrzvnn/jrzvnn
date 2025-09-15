@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump implies that a TikTok deal has been reached with China, saying a deal was reached &quot;on a &#39;certain&#39; company that young people&quot; in the US wanted to save &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/250915/p11#a250915p11)
- - [Apple AirPods Pro 3 review: significantly better fit, sound quality, noise cancellation, and battery life, but heart-rate monitoring is buried in fitness apps &lpar;David Carnoy/CNET&rpar;](http://www.techmeme.com/250915/p10#a250915p10)
- - [iPhone 17 Pro is top seller but questions over iPhone Air linger](https://appleinsider.com/articles/25/09/15/iphone-17-pro-is-top-seller-but-questions-over-iphone-air-linger?utm_source=rss)
- - [7 Best Automatic Litter Boxes &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
- - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 event recap, Owlet Dream Sight, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/15/iphone-17-event-recap-owlet-dream-sight-and-more-on-homekit-insider?utm_source=rss)
+ - [Conceivable Life Sciences, which wants to use AI to automate the work done by embryologists in IVF labs, raised $50M, bringing its total funding to $70M &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/250915/p12#a250915p12)
+ - [Battling for the lead at an IRL version of Mario Kart](https://www.theverge.com/games/777737/rpm-raceway-kart-klash-mario-kart-irl)
+ - [11 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K](https://www.wired.com/gallery/best-computer-monitors/)
+ - [Your iPhone is about to look way different](https://www.theverge.com/apple-ios/777383/iphone-ios-26-liquid-glass-redesign-look)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

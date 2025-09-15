@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LA-based MarqVision, which uses AI to monitor marketplaces for counterfeits, raised a $48M Series B led by Peak XV Partners, bringing its total funding to ~$90M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250915/p18#a250915p18)
+ - [The US and China might finally have a TikTok deal](https://www.theverge.com/news/778087/tiktok-ban-framework-deal-us-china-trump)
  - [Alphabet becomes the fourth company to reach a $3T market cap, joining Nvidia, Microsoft, and Apple, after its stock jumped 4%+ on Monday &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250915/p17#a250915p17)
  - [iPhone Air vs iPhone 17 Pro -- Style versus function](https://appleinsider.com/inside/iphone-air/vs/iphone-air-vs-iphone-17-pro----style-versus-function?utm_source=rss)
- - [Spotify adds new features for free users globally, allowing them to search for and play any song they want; the company reported 433M ad-supported MAUs in Q2 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250915/p16#a250915p16)
- - [How brands and creators are fighting for your attention — and your money](https://www.theverge.com/decoder-podcast-with-nilay-patel/776412/amy-lanzi-ceo-digitas-digital-marketing-creators-ai-hank-green)
- - [Amazon schedules its annual fall hardware event for September 30 in NYC, where it is expected to launch new Echo smart speakers and Kindle devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250915/p15#a250915p15)<!-- TECH:END -->
+ - [Spotify adds new features for free users globally, allowing them to search for and play any song they want; the company reported 433M ad-supported MAUs in Q2 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250915/p16#a250915p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: the SEC settles a lawsuit accusing crypto exchange Gemini of failing to register the Gemini Earn lending program before offering it to retail investors &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/250915/p38#a250915p38)
  - [How California reached a deal to let ride-hailing drivers unionize while reducing insurance requirements for Uber and Lyft, ending years of costly legal fights &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/250915/p37#a250915p37)
  - [A new super PAC called the Fellowship PAC says it will spend $100M+ to support pro-crypto legislators; sources say Tether is expected to be one of the backers &lpar;New York Times&rpar;](http://www.techmeme.com/250915/p36#a250915p36)
  - [The now-removed video from Meta also showed the rumored Oakley Meta Sphaera glasses with a centered camera, highlighting their use in skiing and running &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p35#a250915p35)
- - [Filing: the Internet Archive and major music labels settle a copyright infringement lawsuit against IA over its project to preserve early music recordings &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250915/p34#a250915p34)
- - [Robinhood has filed an application with the SEC to launch a new publicly traded fund called &quot;Robinhood Ventures Fund I&quot; that will hold shares of startups &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250915/p33#a250915p33)<!-- TECH:END -->
+ - [Filing: the Internet Archive and major music labels settle a copyright infringement lawsuit against IA over its project to preserve early music recordings &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250915/p34#a250915p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

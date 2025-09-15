@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MAHA Wants Action on Pesticides. It’s Not Going to Get It From Trump’s Corporate-Friendly EPA](https://www.wired.com/story/the-epas-closeness-to-industry-stands-in-the-way-of-it-helping-maha/)
  - [OpenAI releases the first detailed public study on how people use ChatGPT: 73% of chats were non-work related, practical guidance was the top use case, and more &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/250915/p3#a250915p3)
  - [China says Nvidia was found in violation of antitrust regulations in a preliminary investigation, in a brief statement without further details &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p2#a250915p2)
  - [The SSD version of LaCie’s iconic Rugged drive gets a speed boost](https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k)
- - [Apple’s new iPhone charger is a first of its kind](https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 15, #357](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-15-357/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s new iPhone charger is a first of its kind](https://www.theverge.com/news/777883/apple-charger-usb-pd-3-2-avs-dynamic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

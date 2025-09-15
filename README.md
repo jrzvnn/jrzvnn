@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon schedules its annual fall hardware event for September 30 in NYC, where it is expected to launch new Echo smart speakers and Kindle devices &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/250915/p15#a250915p15)
+ - [Hands on: Apple&#39;s new 60W charger is effectively required for iPhone 17 fast charging](https://appleinsider.com/articles/25/09/14/hands-on-apples-new-60w-charger-is-all-but-needed-for-iphone-17-fast-charging?utm_source=rss)
+ - [PayPal launches PayPal Links, which lets users create a personalized, one-time link to send or request payment to other PayPal users &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/250915/p14#a250915p14)
  - [Sources: Google adopts risk-based Android security updates, prioritizing fixing only high-risk vulnerabilities in monthly releases, and others in quarterly ASBs &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/250915/p13#a250915p13)
- - [Apple&#39;s iPhone 17 cases in silicone, clear, TechWoven, tested](https://appleinsider.com/articles/25/09/15/apples-iphone-17-cases-in-silicone-clear-techwoven-tested?utm_source=rss)
- - [Amazon announces fall hardware event](https://www.theverge.com/news/778008/amazon-fall-hardware-event-announced-kindles-echo-alexa)
- - [iPhone 17 event recap, Owlet Dream Sight, and more on HomeKit Insider](https://appleinsider.com/articles/25/09/15/iphone-17-event-recap-owlet-dream-sight-and-more-on-homekit-insider?utm_source=rss)
- - [Conceivable Life Sciences, which wants to use AI to automate the work done by embryologists in IVF labs, raised $50M, bringing its total funding to $70M &lpar;Sarah Frier/Bloomberg&rpar;](http://www.techmeme.com/250915/p12#a250915p12)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 17 cases in silicone, clear, TechWoven, tested](https://appleinsider.com/articles/25/09/15/apples-iphone-17-cases-in-silicone-clear-techwoven-tested?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

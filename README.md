@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 💣 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
+ - 💣 [Awakening](http://9gag.com/gag/a6ZxzLR)
  - 😝 [Core memory unlocked.](http://9gag.com/gag/aryd0wV)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 

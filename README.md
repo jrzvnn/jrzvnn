@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Save $40 on a Handmade Dutch Coffeemaker That&#39;s Built for Life](https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/)
  - [WIRED Roundup: How Charlie Kirk Changed Conservative Media](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-how-charlie-kirk-changed-conservative-media/)
  - [Apple MacOS Tahoe 26: Top New Features to Try Today](https://www.wired.com/story/macos-26-tahoe-top-features/)
- - [Mullvad VPN Now Adds QUIC Protocol to Get Around Firewalls and Censorship](https://www.cnet.com/tech/services-and-software/mullvad-vpn-now-adds-quic-protocol-to-get-around-firewalls-and-censorship/#ftag=CAD590a51e)
- - [Apple has finally explained why battery life can be different after an OS update](https://appleinsider.com/articles/25/09/15/apple-has-finally-explained-why-battery-life-can-be-different-after-an-os-update?utm_source=rss)
- - [A now-removed unlisted video on Meta&#39;s YouTube channel shows Meta Ray-Ban glasses with a HUD shown to one eye, used for Meta AI and on-foot navigation &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/250915/p30#a250915p30)<!-- TECH:END -->
+ - [Mullvad VPN Now Adds QUIC Protocol to Get Around Firewalls and Censorship](https://www.cnet.com/tech/services-and-software/mullvad-vpn-now-adds-quic-protocol-to-get-around-firewalls-and-censorship/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

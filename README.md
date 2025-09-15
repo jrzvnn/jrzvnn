@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
- - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
+ - 😝 [No wonder he went mental. The Frustration must\u2019ve been unbearable](http://9gag.com/gag/adBdwOB)
+ - 😝 [Swiss fix roadwork without traffic jams](http://9gag.com/gag/abAdwWp)
+ - 💣 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
+ - 😝 [Let me out](http://9gag.com/gag/aXPd1gg)
+ - 👉 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)<!-- MEMES:END -->
 
 ---
 

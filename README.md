@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: the Internet Archive and major music labels settle a copyright infringement lawsuit against IA over its project to preserve early music recordings &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/250915/p34#a250915p34)
  - [Robinhood has filed an application with the SEC to launch a new publicly traded fund called &quot;Robinhood Ventures Fund I&quot; that will hold shares of startups &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250915/p33#a250915p33)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [How AI Is Upending Politics, Tech, the Media, and More](https://www.wired.com/story/wired-ai-summit-tech-politics-media/)
- - [Monday Night Football: How to Watch Buccaneers vs. Texans, Chargers vs. Raiders Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-buccaneers-vs-texans-chargers-vs-raiders-tonight/#ftag=CAD590a51e)
- - [Remember That TikTok Ban? This Week&#39;s Deadline Brings Hints of a Deal](https://www.cnet.com/news/social-media/remember-that-tiktok-ban-this-weeks-deadline-brings-hints-of-a-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Google executive says users increasingly want &quot;contextual answers and summaries&quot;, but Google is not going to abandon the model that provides &quot;10 blue links&quot; &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250915/p32#a250915p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

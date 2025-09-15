@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Awakening](http://9gag.com/gag/a6ZxzLR)
  - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)
- - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
+ - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 😝 [Post the best of your `Look again` collection.](http://9gag.com/gag/amodOEv)
+ - 👉 [Mass media calls this `thousands of people`.](http://9gag.com/gag/aW4dez2)<!-- MEMES:END -->
 
 ---
 

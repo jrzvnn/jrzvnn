@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
+ - [AirPods Pro 3 review: tripling down on a good thing](https://www.theverge.com/headphone-review/777798/airpods-pro-3-review-active-noise-cancelling-live-translation-headphones)
+ - [iPadOS 26 review: The Mac lover&#39;s tablet update](https://appleinsider.com/articles/25/09/15/ipados-26-review-the-mac-lovers-tablet-update?utm_source=rss)
  - [Saudi Arabia-based Hala, which offers payment services to more than 142,000 SMBs in the Gulf region, raised a $157M Series B, source says at a ~$900M valuation &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250915/p9#a250915p9)
- - [Israel-based Terra Security, which offers an AI-driven penetration testing platform, raised a $30M Series A led by Felicis, bringing its total funding to $38M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250915/p8#a250915p8)
- - [Divergent Technologies, which makes automated assembly systems and 3D printers to make missile parts and other equipment, raised $290M at a $2.3B valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/250915/p7#a250915p7)
- - [DEXA Scan Deep Dive, With Insights From the Experts &lpar;2025&rpar;](https://www.wired.com/story/do-you-need-a-dexa-scan/)
- - [Android&amp;#8217;s next flagship processor will be the &amp;#8216;Snapdragon 8 Elite Gen 5&amp;#8217;](https://www.theverge.com/news/777925/qualcomm-snapdragon-8-elite-gen-5-name)<!-- TECH:END -->
+ - [Israel-based Terra Security, which offers an AI-driven penetration testing platform, raised a $30M Series A led by Felicis, bringing its total funding to $38M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/250915/p8#a250915p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

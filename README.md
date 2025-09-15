@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of these is not like the others](http://9gag.com/gag/aRByGvA)
  - 😝 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 😝 [I wonder why, I wonder how](http://9gag.com/gag/aW4d5on)
  - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
+ - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

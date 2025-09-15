@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Robinhood has filed an application with the SEC to launch a new publicly traded fund called &quot;Robinhood Ventures Fund I&quot; that will hold shares of startups &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250915/p33#a250915p33)
  - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
  - [How AI Is Upending Politics, Tech, the Media, and More](https://www.wired.com/story/wired-ai-summit-tech-politics-media/)
- - [A Google executive says users increasingly want &quot;contextual answers and summaries&quot;, but Google is not going to abandon the model that provides &quot;10 blue links&quot; &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250915/p32#a250915p32)
- - [Disney and Webtoon announce a new digital platform with 35K+ Disney comics; Disney plans to acquire a 2% equity interest in Webtoon; WBTN jumps 70%+ after hours &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/250915/p31#a250915p31)<!-- TECH:END -->
+ - [Monday Night Football: How to Watch Buccaneers vs. Texans, Chargers vs. Raiders Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-buccaneers-vs-texans-chargers-vs-raiders-tonight/#ftag=CAD590a51e)
+ - [Remember That TikTok Ban? This Week&#39;s Deadline Brings Hints of a Deal](https://www.cnet.com/news/social-media/remember-that-tiktok-ban-this-weeks-deadline-brings-hints-of-a-deal/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study finds that six major AI chatbots can be easily tricked into creating phishing emails targeting elderly people, despite being trained not to &lpar;Reuters&rpar;](http://www.techmeme.com/250915/p42#a250915p42)
  - [Sources: US FTC is probing if Ticketmaster does enough to stop bots from illegal resales, focusing on its compliance with a law against automated ticket resales &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250915/p41#a250915p41)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 16, #358](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-16-358/#ftag=CAD590a51e)
- - [Doctronic, which uses generative AI for health guidance and offers video visits with licensed doctors, raised a $20M Series A led by Lightspeed Venture Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250915/p40#a250915p40)
- - [Larq PureVis 2 review: A smart water bottle that makes hydration easier](https://appleinsider.com/articles/25/09/16/larq-purevis-2-review-a-smart-water-bottle-that-makes-hydration-easier?utm_source=rss)
- - [Sources: Jack Ma has returned to Alibaba&#39;s campuses after disappearing from public view during China&#39;s 2020 tech crackdown, influencing Alibaba&#39;s pivot to AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p39#a250915p39)<!-- TECH:END -->
+ - [Check Your Bank Accounts, You Might Spot a Deposit From a Facebook Lawsuit](https://www.cnet.com/tech/check-your-bank-accounts-you-might-spot-a-deposit-from-a-facebook-lawsuit/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-16/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 16, #358](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-16-358/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

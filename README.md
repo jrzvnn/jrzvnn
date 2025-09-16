@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Get Hard &lpar;2015&rpar; teaching us how to be tough](https://www.reddit.com/r/funny/comments/1niazfp/get_hard_2015_teaching_us_how_to_be_tough/)
- - 😝 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
- - 💣 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
- - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
- - 👉 [This is how you do it](http://9gag.com/gag/aPApqrw)<!-- MEMES:END -->
+ - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
+ - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
+ - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 😝 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
 
 ---
 

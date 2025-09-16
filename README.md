@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 😝 [Just Himeno dropping by](http://9gag.com/gag/apRdwND)
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
  - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
  - 😝 [Silksong is a very good game](http://9gag.com/gag/aZZdYvW)
  - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->

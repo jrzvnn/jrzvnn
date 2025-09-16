@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How the Swiss National Bank became one of the world&#39;s biggest tech investors, with a combined $42B+ invested in Amazon, Apple, Meta, Microsoft, and Nvidia &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/250916/p41#a250916p41)
+ - [The 50 Best Shows on Hulu Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty](https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/)
  - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
- - [Sources: Binance nears a deal with the US DOJ to remove the outside compliance monitor imposed under its $4.3B 2023 settlement over money laundering failures &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/250916/p40#a250916p40)
- - [Waymo gets green light for airport service in San Francisco](https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi)
- - [Xbox Game Pass Is Looking Like a Great Deal for Fall With These Games](https://www.cnet.com/tech/gaming/xbox-game-pass-is-looking-like-a-great-deal-for-fall-with-these-games/#ftag=CAD590a51e)
- - [Wyze’s new palm-scanning door lock has a second, backup battery](https://www.theverge.com/news/779046/wyze-palm-scanning-door-smart-lock)<!-- TECH:END -->
+ - [Sources: Binance nears a deal with the US DOJ to remove the outside compliance monitor imposed under its $4.3B 2023 settlement over money laundering failures &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/250916/p40#a250916p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

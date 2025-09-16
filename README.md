@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
  - 😝 [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 💣 [Dad had a whole other life out there](http://9gag.com/gag/aZZdYGV)
+ - 💣 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
  - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
  - 👉 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)<!-- MEMES:END -->
 

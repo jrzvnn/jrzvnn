@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Welcome to our pen-and-paper club](https://www.theverge.com/tech/773135/pen-notebook-upgrade-calendar)
- - [Apple Watch Series 11 Review: Finally, the Watch Lives Longer](https://www.wired.com/review/apple-watch-series-11/)
- - [Meta&amp;#8217;s new smart glasses are coming this week](https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect)
- - [Apple Watch Series 11 review: stuck in the middle](https://www.theverge.com/smartwatch-review/778012/apple-watch-series-11-review-hypertension-5g-sleep-score-wearables-smartwatch)
- - [The Apple Watch SE 3 is the one to buy](https://www.theverge.com/smartwatch-review/778037/apple-watch-se-3-review-battery-specs-watchos-26-smartwatch-wearable)<!-- TECH:END -->
+ - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
+ - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)
+ - [Filing: cloud cybersecurity software startup Netskope raised its IPO price range to $17-$19 per share, up from $15-$17, aiming to raise $908.2M, up from $812.6M &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250916/p16#a250916p16)
+ - [This is the first Roku TV smart projector](https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector)
+ - [AT&amp;#038;T&amp;#8217;s AI call-screening tool uses your call history to filter out spam](https://www.theverge.com/news/778518/att-ai-call-screening-digital-receptionist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

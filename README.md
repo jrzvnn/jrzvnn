@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube unveils new generative AI tools for Shorts, including a custom version of Veo 3 called Veo 3 Fast, which includes sound, and an Edit with AI feature &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250916/p25#a250916p25)
+ - [The China-US deal for TikTok could take another month to work out](https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle)
  - [Disney, Universal, and WBD sue China&#39;s MiniMax, alleging that its image- and video-generating service Hailuo AI was built from stolen intellectual property &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p24#a250916p24)
  - [YouTube is adding AI into more parts of content creation](https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing)
- - [YouTube makes it easier and more lucrative to go live](https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates)
- - [YouTube is cooking up some new monetization features](https://www.theverge.com/news/778693/youtube-monetization-features-ai-tagging-dynamic-ads)
- - [Humanoid robot startup Figure raised a $1B+ Series C led by Parkway Venture Capital at a post-money valuation of $39B, up from $2.6B in February 2024 &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250916/p23#a250916p23)<!-- TECH:END -->
+ - [YouTube makes it easier and more lucrative to go live](https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

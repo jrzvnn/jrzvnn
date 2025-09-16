@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apollo Global is exploring a sale of AOL in a deal that could value AOL at around $1.5B; Apollo bought AOL in 2021 as part of its $5B Verizon deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p35#a250916p35)
- - [Nory, which offers an AI-powered restaurant management system, raised a $37M Series B led by Kinnevik, bringing its total funding to $63M &lpar;Silicon Republic&rpar;](http://www.techmeme.com/250916/p34#a250916p34)
- - [YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250916/p33#a250916p33)
- - [How to Set Up and Use a Burner Phone](https://www.wired.com/story/how-to-set-up-use-burner-phone/)
- - [Druid, whose Druid Conductor orchestration engine allows companies to deploy specialized AI agents, raised a $31M Series C and hires Joseph Kim as CEO &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250916/p32#a250916p32)<!-- TECH:END -->
+ - [Google&amp;#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)
+ - [YouTube responds to concerns about drops in views from creators, pointing out that ad blockers can &quot;impact the accuracy of reported view counts&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250916/p36#a250916p36)
+ - [iPhone 17 vs iPhone 17 Pro -- What a $300 premium gets the Pro](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-iphone-17-pro----what-a-300-premium-gets-the-pro?utm_source=rss)
+ - [Culinary Pros Name the 4 Most Common Cooking Mistakes That New Chefs Make](https://www.cnet.com/news/culinary-pros-name-the-4-most-common-cooking-mistakes-that-new-chefs-make/#ftag=CAD590a51e)
+ - [Sources: Apollo Global is exploring a sale of AOL in a deal that could value AOL at around $1.5B; Apollo bought AOL in 2021 as part of its $5B Verizon deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p35#a250916p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

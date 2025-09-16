@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swiss fix roadwork without traffic jams](http://9gag.com/gag/abAdwWp)
  - 😝 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
- - 💣 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
- - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
- - 👉 [It was definitely necessary](http://9gag.com/gag/amodZNd)<!-- MEMES:END -->
+ - 😝 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
+ - 💣 [It was definitely necessary](http://9gag.com/gag/amodZNd)
+ - 😝 [This is how you do it](http://9gag.com/gag/aPApqrw)
+ - 👉 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)<!-- MEMES:END -->
 
 ---
 

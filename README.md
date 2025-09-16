@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
  - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 💣 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 😝 [The true Dark Lord](http://9gag.com/gag/a7oGx4m)
  - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
 
 ---

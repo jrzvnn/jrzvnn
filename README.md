@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Tech Giants Race to Spend Billions in UK AI Push](https://www.wired.com/story/microsoft-nvidia-uk-investment-trump/)
  - [Dyna Robotics, which is building an AI foundation model for robotics, raised a $120M Series A led by Robostrategy, CRV, and First Round Capital &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250916/p49#a250916p49)
  - [Console, which uses AI agents in Slack to resolve lower-level IT support tickets, raised a $23M Series A led by DST Global Partners and Thrive Capital &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/250916/p48#a250916p48)
  - [OpenAI Rolls Out Teen Safety Features Amid Growing Scrutiny](https://www.wired.com/story/openai-launches-teen-safety-features/)
- - [Sam Altman says ChatGPT will stop talking about suicide with teens](https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens)
- - [Apple Watch Ultra 3 review: a more significant upgrade than the Ultra 2, with emergency SOS via satellite, 5G, a 42-hour battery life, and a bigger display &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250916/p47#a250916p47)<!-- TECH:END -->
+ - [Sam Altman says ChatGPT will stop talking about suicide with teens](https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

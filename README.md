@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Online services marketplace Fiverr lays off 30% of its workforce, or about 250 people, as part of a restructuring to become &quot;an AI-first company&quot; &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/250916/p44#a250916p44)
+ - [Consumer Reports asks Microsoft to keep supporting Windows 10](https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft)
  - [Trump extends the deadline for ByteDance to divest TikTok&#39;s US operations until December 16, the fourth such extension; a deal is expected to be finalized soon &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p43#a250916p43)
  - [Microsoft trumps Google with $30 billion investment in the UK](https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer)
- - [Sources: under the US-China framework, a US investor consortium that includes Oracle, Silver Lake, and a16z would hold an ~80% stake in TikTok&#39;s US business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p42#a250916p42)
- - [How the Swiss National Bank became one of the world&#39;s biggest tech investors, with a combined $42B+ invested in Amazon, Apple, Meta, Microsoft, and Nvidia &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/250916/p41#a250916p41)
- - [The 50 Best Shows on Hulu Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
+ - [Sources: under the US-China framework, a US investor consortium that includes Oracle, Silver Lake, and a16z would hold an ~80% stake in TikTok&#39;s US business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p42#a250916p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

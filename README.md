@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
+ - 😝 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 💣 [She thought he would come home alone](http://9gag.com/gag/aZZdYen)
+ - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
+ - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
 
 ---
 

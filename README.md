@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US FTC is probing if Ticketmaster does enough to stop bots from illegal resales, focusing on its compliance with a law against automated ticket resales &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250915/p41#a250915p41)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 16, #358](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-16-358/#ftag=CAD590a51e)
+ - [Doctronic, which uses generative AI for health guidance and offers video visits with licensed doctors, raised a $20M Series A led by Lightspeed Venture Partners &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/250915/p40#a250915p40)
  - [Larq PureVis 2 review: A smart water bottle that makes hydration easier](https://appleinsider.com/articles/25/09/16/larq-purevis-2-review-a-smart-water-bottle-that-makes-hydration-easier?utm_source=rss)
- - [Sources: Jack Ma has returned to Alibaba&#39;s campuses after disappearing from public view during China&#39;s 2020 tech crackdown, influencing Alibaba&#39;s pivot to AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p39#a250915p39)
- - [Apple Debuts Newest Lineup of iPhones: Expect to Pay Premium Prices](https://www.cnet.com/tech/mobile/apple-debuts-newest-lineup-of-iphones-expect-premium-prices/#ftag=CAD590a51e)
- - [Champions League Soccer: Livestream Every 2025-26 Match From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-every-2025-26-match-from-anywhere/#ftag=CAD590a51e)
- - [These Are the Catchiest Songs of All Time, According to AI. Do You Agree?](https://www.cnet.com/tech/services-and-software/these-are-the-catchiest-songs-of-all-time-according-to-ai-do-you-agree/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Jack Ma has returned to Alibaba&#39;s campuses after disappearing from public view during China&#39;s 2020 tech crackdown, influencing Alibaba&#39;s pivot to AI &lpar;Bloomberg&rpar;](http://www.techmeme.com/250915/p39#a250915p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

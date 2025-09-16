@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
  - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
  - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [The true Dark Lord](http://9gag.com/gag/a7oGx4m)
+ - 😝 [Dad had a whole other life out there](http://9gag.com/gag/aZZdYGV)
  - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
 
 ---

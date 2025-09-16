@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Himeno dropping by](http://9gag.com/gag/apRdwND)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
  - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [Silksong is a very good game](http://9gag.com/gag/aZZdYvW)
+ - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
  - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
 
 ---

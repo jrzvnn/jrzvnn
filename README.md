@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 😝 [Do you think she is ready for competitions?](https://www.reddit.com/r/funny/comments/1nixilw/do_you_think_she_is_ready_for_competitions/)
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
  - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
- - 👉 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)<!-- MEMES:END -->
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 👉 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)<!-- MEMES:END -->
 
 ---
 

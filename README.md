@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 💣 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 😝 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
  - 😝 [Protesters overpowered police who tried to stop them from walking the pre-approved route](http://9gag.com/gag/avyDj6n)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 👉 [Classic 2016](http://9gag.com/gag/aAym7no)<!-- MEMES:END -->
 
 ---
 

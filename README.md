@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
+ - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
+ - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 😝 [Protesters overpowered police who tried to stop them from walking the pre-approved route](http://9gag.com/gag/avyDj6n)
  - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
 
 ---

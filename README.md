@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches the Agent Payments Protocol, or AP2, designed to securely facilitate agent-led payments across platforms, with the support of over 60 companies &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250916/p20#a250916p20)
  - [Secure your family&#39;s data from scammers with Incogni&#39;s Family &amp; Friends plan](https://appleinsider.com/articles/25/09/16/secure-your-familys-data-from-scammers-with-incognis-family-friends-plan?utm_source=rss)
  - [How to Clean AirPods &lpar;and Other Earbuds&rpar;](https://www.wired.com/story/how-to-clean-earbuds-and-airpods/)
  - [OpenAI says it is developing a &quot;different ChatGPT experience&quot; for teens and plans to use age-prediction tech to bar kids under 18 from the standard version &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250916/p19#a250916p19)
- - [Sources: Oracle is among a consortium of companies that would enable TikTok to continue US operations if a framework deal between the US and China is finalized &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/250916/p18#a250916p18)
- - [Tech executives say the Trump administration&#39;s stake in Intel and its intervention into other private businesses have had a chilling effect on decision-making &lpar;Yasmin Khorram/Politico&rpar;](http://www.techmeme.com/250916/p17#a250916p17)<!-- TECH:END -->
+ - [Sources: Oracle is among a consortium of companies that would enable TikTok to continue US operations if a framework deal between the US and China is finalized &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/250916/p18#a250916p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

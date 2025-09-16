@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 💣 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 😝 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)
- - 👉 [This is how you do it](http://9gag.com/gag/aPApqrw)<!-- MEMES:END -->
+ - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 👉 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)<!-- MEMES:END -->
 
 ---
 

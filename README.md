@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [She does not want to be filmed for privacy reasons.](http://9gag.com/gag/azxBy1Z)
  - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)
+ - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
  - 👉 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)<!-- MEMES:END -->
 
 ---

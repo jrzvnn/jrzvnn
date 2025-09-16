@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking the total funding to $450M+, and says it had $1B in total sales in early 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250916/p2#a250916p2)
+ - [Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking its total funding to $450M+, and says it had $1B in total sales in early 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250916/p2#a250916p2)
  - [Google plans to invest £5B in the UK on AI, energy, R&amp;D, and more over the next two years, and expects to add 8,000 jobs a year at businesses across the country &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250916/p1#a250916p1)
  - [How to turn the camera flash on and off in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-turn-the-camera-flash-on-and-off-in-ios-26?utm_source=rss)
  - [A study finds that six major AI chatbots can be easily tricked into creating phishing emails targeting elderly people, despite being trained not to &lpar;Reuters&rpar;](http://www.techmeme.com/250915/p42#a250915p42)

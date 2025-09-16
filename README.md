@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sam Altman says ChatGPT will stop talking about suicide with teens](https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens)
  - [Apple Watch Ultra 3 review: a more significant upgrade than the Ultra 2, with emergency SOS via satellite, 5G, a 42-hour battery life, and a bigger display &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/250916/p47#a250916p47)
  - [Apple Watch SE 3 review: great value for $249, with an always-on display and 5G connectivity, but an outdated design and no ECG or hypertension alerts &lpar;Kate Kozuch/Tom&#39;s Guide&rpar;](http://www.techmeme.com/250916/p46#a250916p46)
- - [Charlie Kirk’s death got complicated by gamer brainrot](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator)
- - [Microsoft announces a $30B investment in the UK over four years to support AI infrastructure and ongoing operations, including $15B to build a supercomputer &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250916/p45#a250916p45)<!-- TECH:END -->
+ - [The New iPhone 17 Air Is Slim, but Your Chances of Dropping It Aren&#39;t. Don&#39;t Skimp on the Case](https://www.cnet.com/deals/shop-iphone-17-series-cases-now/#ftag=CAD590a51e)
+ - [Charlie Kirk’s death got complicated by gamer brainrot](https://www.theverge.com/column/778988/charlie-kirk-tyler-robinson-online-regulator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

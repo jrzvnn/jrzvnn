@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250916/p11#a250916p11)
  - [Seon, which uses AI to detect and prevent fraud, raised an $80M Series C led by Sixth Street Growth, bringing its total funding to $187M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250916/p10#a250916p10)
  - [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)
  - [The 8 Foods You&#39;re Eating That Likely Contain Microplastics](https://www.cnet.com/health/nutrition/foods-eating-likely-contain-microplastics/#ftag=CAD590a51e)
- - [Epson Unleashes Lifestudio Projectors with New 3LCD Light Engine](https://www.cnet.com/tech/home-entertainment/epson-unleashes-lifestudio-projectors-with-new-3lcd-light-engine/#ftag=CAD590a51e)
- - [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)<!-- TECH:END -->
+ - [Epson Unleashes Lifestudio Projectors with New 3LCD Light Engine](https://www.cnet.com/tech/home-entertainment/epson-unleashes-lifestudio-projectors-with-new-3lcd-light-engine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

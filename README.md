@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump extends the deadline for ByteDance to divest TikTok&#39;s US operations until December 16, the fourth such extension; a deal is expected to be finalized soon &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p43#a250916p43)
  - [Microsoft trumps Google with $30 billion investment in the UK](https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer)
  - [Sources: under the US-China framework, a US investor consortium that includes Oracle, Silver Lake, and a16z would hold an ~80% stake in TikTok&#39;s US business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p42#a250916p42)
  - [How the Swiss National Bank became one of the world&#39;s biggest tech investors, with a combined $42B+ invested in Amazon, Apple, Meta, Microsoft, and Nvidia &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/250916/p41#a250916p41)
- - [The 50 Best Shows on Hulu Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty](https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/)<!-- TECH:END -->
+ - [The 50 Best Shows on Hulu Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

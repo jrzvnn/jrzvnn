@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Swiss fix roadwork without traffic jams](http://9gag.com/gag/abAdwWp)
+ - 😝 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
+ - 💣 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
  - 😝 [It&#39;s coming](http://9gag.com/gag/aByvMbO)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 💣 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [STD](http://9gag.com/gag/a0ex30O)
- - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
+ - 👉 [It was definitely necessary](http://9gag.com/gag/amodZNd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jack Altman&#39;s Alt Capital raised $275M for a new fund to lead more Series A rounds at AI startups, a jump from the $150M fund it closed in February 2024 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250916/p39#a250916p39)
+ - [Be patient: even Apple is behind on its own Liquid Glass redesign](https://appleinsider.com/articles/25/09/16/be-patient-even-apple-is-behind-on-its-own-liquid-glass-redesign?utm_source=rss)
  - [Tesla under investigation for door handles that trap people inside](https://www.theverge.com/news/778980/tesla-nhtsa-investigation-door-handles-trap)
  - [Modern Animal, a veterinary clinic network that uses proprietary AI-powered software to enhance veterinary workflows, raised a $46M Series D &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250916/p38#a250916p38)
- - [A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users](https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/)
- - [Chip design software maker Cadence agrees to acquire Stockholm-based Hexagon&#39;s design and simulation software business for ~$3.18B in cash and stock &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250916/p37#a250916p37)
- - [Google&amp;#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)<!-- TECH:END -->
+ - [A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users](https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

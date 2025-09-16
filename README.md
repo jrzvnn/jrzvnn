@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Secure your family&#39;s data from scammers with Incogni&#39;s Family &amp; Friends plan](https://appleinsider.com/articles/25/09/16/secure-your-familys-data-from-scammers-with-incognis-family-friends-plan?utm_source=rss)
+ - [How to Clean AirPods &lpar;and Other Earbuds&rpar;](https://www.wired.com/story/how-to-clean-earbuds-and-airpods/)
  - [OpenAI says it is developing a &quot;different ChatGPT experience&quot; for teens and plans to use age-prediction tech to bar kids under 18 from the standard version &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250916/p19#a250916p19)
  - [Sources: Oracle is among a consortium of companies that would enable TikTok to continue US operations if a framework deal between the US and China is finalized &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/250916/p18#a250916p18)
- - [Tech executives say the Trump administration&#39;s stake in Intel and its intervention into other private businesses have had a chilling effect on decision-making &lpar;Yasmin Khorram/Politico&rpar;](http://www.techmeme.com/250916/p17#a250916p17)
- - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
- - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)<!-- TECH:END -->
+ - [Tech executives say the Trump administration&#39;s stake in Intel and its intervention into other private businesses have had a chilling effect on decision-making &lpar;Yasmin Khorram/Politico&rpar;](http://www.techmeme.com/250916/p17#a250916p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at prediction markets Kalshi and Polymarket; Kalshi has ~$1B in current monthly volume and processed $6.9B in total, including $6.4B since October 2024 &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/250916/p13#a250916p13)
- - [First Apple Store outside the US relocates back to its original location](https://appleinsider.com/articles/25/09/16/first-apple-store-outside-the-us-relocates-back-to-its-original-location?utm_source=rss)
- - [Invisible Technologies, a Scale AI rival that helped train ChatGPT, raised $100M, sources say at a $2B+ valuation, and reports $134M in 2024 sales &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250916/p12#a250916p12)
- - [Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250916/p11#a250916p11)
- - [Alienware 16 Area-51 Review: An Oddity From Space With Respectable Power](https://www.cnet.com/tech/computing/alienware-16-area-51-review-an-oddity-from-space-with-respectable-power/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Welcome to our pen-and-paper club](https://www.theverge.com/tech/773135/pen-notebook-upgrade-calendar)
+ - [Apple Watch Series 11 Review: Finally, the Watch Lives Longer](https://www.wired.com/review/apple-watch-series-11/)
+ - [Meta&amp;#8217;s new smart glasses are coming this week](https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect)
+ - [Apple Watch Series 11 review: stuck in the middle](https://www.theverge.com/smartwatch-review/778012/apple-watch-series-11-review-hypertension-5g-sleep-score-wearables-smartwatch)
+ - [The Apple Watch SE 3 is the one to buy](https://www.theverge.com/smartwatch-review/778037/apple-watch-se-3-review-battery-specs-watchos-26-smartwatch-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

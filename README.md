@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 💣 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)
- - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
- - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
+ - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 😝 [Savage](http://9gag.com/gag/ayNzj4V)
+ - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
 
 ---
 

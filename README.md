@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)
- - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 👉 [This is how you do it](http://9gag.com/gag/aPApqrw)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 💣 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)
+ - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
+ - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
 
 ---
 

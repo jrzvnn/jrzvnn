@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 😝 [Shark attack on tourist in cage](http://9gag.com/gag/aNDqMbr)
- - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
  - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 

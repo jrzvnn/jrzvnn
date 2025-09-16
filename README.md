@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bernstein restarts AAPL coverage with $290 price target](https://appleinsider.com/articles/25/09/16/bernstein-restarts-aapl-coverage-with-290-price-target?utm_source=rss)
- - [Jack Altman&#39;s Alt Capital raised $275M for a new fund to lead more Series A rounds at AI startups, a jump from the $150M fund it closed in February 2024 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250916/p39#a250916p39)
- - [Be patient: even Apple is behind on its own Liquid Glass redesign](https://appleinsider.com/articles/25/09/16/be-patient-even-apple-is-behind-on-its-own-liquid-glass-redesign?utm_source=rss)
- - [OpenAI Is Building a Teen-Friendly Version of ChatGPT](https://www.cnet.com/tech/services-and-software/openai-is-building-a-teen-friendly-version-of-chatgpt/#ftag=CAD590a51e)
- - [James Gunn&#39;s &#39;Superman&#39; Heads to Streaming. Here&#39;s When to Watch](https://www.cnet.com/tech/services-and-software/james-gunns-superman-heads-to-streaming-heres-when-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
+ - [Sources: Binance nears a deal with the US DOJ to remove the outside compliance monitor imposed under its $4.3B 2023 settlement over money laundering failures &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/250916/p40#a250916p40)
+ - [Waymo gets green light for airport service in San Francisco](https://www.theverge.com/news/779039/waymo-sfo-airport-permit-robotaxi)
+ - [Wyze’s new palm-scanning door lock has a second, backup battery](https://www.theverge.com/news/779046/wyze-palm-scanning-door-smart-lock)
+ - [iPhone Air vs iPhone 17 Pro -- Style versus function](https://appleinsider.com/inside/iphone-air/vs/iphone-air-vs-iphone-17-pro----style-versus-function?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

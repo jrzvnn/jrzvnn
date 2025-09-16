@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
- - 💣 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 😝 [Savage](http://9gag.com/gag/ayNzj4V)
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
  - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
 
 ---

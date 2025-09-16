@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube says it has paid out $100B+ to creators over the last four years and the number of YouTube channels making over $100K from TV screens has jumped 45% YoY &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250916/p26#a250916p26)
- - [YouTube unveils new generative AI tools for Shorts, including a custom version of Veo 3 called Veo 3 Fast, which includes sound, and an Edit with AI feature &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250916/p25#a250916p25)
- - [The China-US deal for TikTok could take another month to work out](https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle)
- - [Disney, Universal, and WBD sue China&#39;s MiniMax, alleging that its image- and video-generating service Hailuo AI was built from stolen intellectual property &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p24#a250916p24)
- - [YouTube is adding AI into more parts of content creation](https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing)<!-- TECH:END -->
+ - [iPhone 17 vs iPhone 17 Pro -- What a $300 premium gets the Pro](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-iphone-17-pro----what-a-300-premium-gets-the-pro?utm_source=rss)
+ - [Salesforce launches Missionforce, a new business unit focused on integrating AI into defense workflows concerning personnel, logistics, and decision-making &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250916/p28#a250916p28)
+ - [Meta created its own super PAC to politically kneecap its AI rivals](https://www.theverge.com/ai-artificial-intelligence/778767/meta-mark-zuckerberg-super-pac-kneecap-ai-rivals-california)
+ - [YouTube unveils new ways for creators to earn with brand deals and the Shopping program, including letting them swap out brand sponsorships in longform videos &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250916/p27#a250916p27)
+ - [YouTube says it has paid out $100B+ to creators over the last four years and the number of YouTube channels making over $100K from TV screens has jumped 45% YoY &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250916/p26#a250916p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

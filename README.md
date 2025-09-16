@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
- - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
+ - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 💣 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
+ - 😝 [RIP Robert Redford](http://9gag.com/gag/aVvdyww)
  - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---

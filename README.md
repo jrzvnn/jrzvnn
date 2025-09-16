@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 💣 [Who feels the same way](http://9gag.com/gag/aryd7EV)
- - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
- - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
+ - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
+ - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 👉 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)<!-- MEMES:END -->
 
 ---
 

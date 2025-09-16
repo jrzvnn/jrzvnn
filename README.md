@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing raised a $200M Series C led by Tiger Global at a $1.3B valuation, taking the total funding to $450M+, and says it had $1B in total sales in early 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250916/p2#a250916p2)
+ - [Google plans to invest £5B in the UK on AI, energy, R&amp;D, and more over the next two years, and expects to add 8,000 jobs a year at businesses across the country &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/250916/p1#a250916p1)
  - [How to turn the camera flash on and off in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-turn-the-camera-flash-on-and-off-in-ios-26?utm_source=rss)
  - [A study finds that six major AI chatbots can be easily tricked into creating phishing emails targeting elderly people, despite being trained not to &lpar;Reuters&rpar;](http://www.techmeme.com/250915/p42#a250915p42)
- - [Sources: US FTC is probing if Ticketmaster does enough to stop bots from illegal resales, focusing on its compliance with a law against automated ticket resales &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250915/p41#a250915p41)
- - [Check Your Bank Accounts, You Might Spot a Deposit From a Facebook Lawsuit](https://www.cnet.com/tech/check-your-bank-accounts-you-might-spot-a-deposit-from-a-facebook-lawsuit/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-16/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: US FTC is probing if Ticketmaster does enough to stop bots from illegal resales, focusing on its compliance with a law against automated ticket resales &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/250915/p41#a250915p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
  - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 💣 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
- - 😝 [RIP Robert Redford](http://9gag.com/gag/aVvdyww)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 💣 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
+ - 😝 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)
+ - 👉 [This is how you do it](http://9gag.com/gag/aPApqrw)<!-- MEMES:END -->
 
 ---
 

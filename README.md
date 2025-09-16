@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bernstein restarts AAPL coverage with $290 price target](https://appleinsider.com/articles/25/09/16/bernstein-restarts-aapl-coverage-with-290-price-target?utm_source=rss)
  - [Jack Altman&#39;s Alt Capital raised $275M for a new fund to lead more Series A rounds at AI startups, a jump from the $150M fund it closed in February 2024 &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/250916/p39#a250916p39)
  - [Be patient: even Apple is behind on its own Liquid Glass redesign](https://appleinsider.com/articles/25/09/16/be-patient-even-apple-is-behind-on-its-own-liquid-glass-redesign?utm_source=rss)
  - [OpenAI Is Building a Teen-Friendly Version of ChatGPT](https://www.cnet.com/tech/services-and-software/openai-is-building-a-teen-friendly-version-of-chatgpt/#ftag=CAD590a51e)
- - [James Gunn&#39;s &#39;Superman&#39; Heads to Streaming. Here&#39;s When to Watch](https://www.cnet.com/tech/services-and-software/james-gunns-superman-heads-to-streaming-heres-when-to-watch/#ftag=CAD590a51e)
- - [The VPN Market Is Booming Because We&#39;re Working Remotely and Worried About Privacy](https://www.cnet.com/tech/services-and-software/the-vpn-market-is-booming-because-were-working-remotely-and-worried-about-privacy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [James Gunn&#39;s &#39;Superman&#39; Heads to Streaming. Here&#39;s When to Watch](https://www.cnet.com/tech/services-and-software/james-gunns-superman-heads-to-streaming-heres-when-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

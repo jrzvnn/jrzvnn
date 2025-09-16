@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches the Agent Payments Protocol, or AP2, designed to securely facilitate agent-led payments across platforms, with the support of over 60 companies &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250916/p20#a250916p20)
- - [Secure your family&#39;s data from scammers with Incogni&#39;s Family &amp; Friends plan](https://appleinsider.com/articles/25/09/16/secure-your-familys-data-from-scammers-with-incognis-family-friends-plan?utm_source=rss)
- - [How to Clean AirPods &lpar;and Other Earbuds&rpar;](https://www.wired.com/story/how-to-clean-earbuds-and-airpods/)
- - [OpenAI says it is developing a &quot;different ChatGPT experience&quot; for teens and plans to use age-prediction tech to bar kids under 18 from the standard version &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250916/p19#a250916p19)
- - [Sources: Oracle is among a consortium of companies that would enable TikTok to continue US operations if a framework deal between the US and China is finalized &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/250916/p18#a250916p18)<!-- TECH:END -->
+ - [Apple Sports update makes it easier to follow your favorite teams everywhere](https://appleinsider.com/articles/25/09/16/apple-sports-update-makes-it-easier-to-follow-your-favorite-teams-everywhere?utm_source=rss)
+ - [Israel-based Vega, which offers an AI-based security analytics platform, raised $65M in seed and Series A led by Accel at a $400M valuation &lpar;Meytal Vaizberg/Globes&rpar;](http://www.techmeme.com/250916/p21#a250916p21)
+ - [Apple Watch SE 3 review roundup: who needs the Series 11?](https://appleinsider.com/articles/25/09/16/apple-watch-se-3-review-roundup-who-needs-the-series-11?utm_source=rss)
+ - [Epson partnered with Bose for the speakers on its new projectors](https://www.theverge.com/news/778725/epson-lifestudio-projectors-4k-grand-flex-plus-pop-google-tv)
+ - [5 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

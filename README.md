@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
- - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
+ - 😝 [Swiss fix roadwork without traffic jams](http://9gag.com/gag/abAdwWp)
+ - 😝 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
+ - 💣 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
+ - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
+ - 👉 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)<!-- MEMES:END -->
 
 ---
 

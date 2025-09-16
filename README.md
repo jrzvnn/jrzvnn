@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google&amp;#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)
  - [YouTube responds to concerns about drops in views from creators, pointing out that ad blockers can &quot;impact the accuracy of reported view counts&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250916/p36#a250916p36)
  - [iPhone 17 vs iPhone 17 Pro -- What a $300 premium gets the Pro](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-iphone-17-pro----what-a-300-premium-gets-the-pro?utm_source=rss)
- - [Culinary Pros Name the 4 Most Common Cooking Mistakes That New Chefs Make](https://www.cnet.com/news/culinary-pros-name-the-4-most-common-cooking-mistakes-that-new-chefs-make/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apollo Global is exploring a sale of AOL in a deal that could value AOL at around $1.5B; Apollo bought AOL in 2021 as part of its $5B Verizon deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p35#a250916p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
- - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - 💣 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 😝 [Savage](http://9gag.com/gag/ayNzj4V)
+ - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
 
 ---
 

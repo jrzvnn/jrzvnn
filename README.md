@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US tech giants announce £31B+ in UK investments, coinciding with Trump&#39;s visit to the nation; OpenAI will bring Stargate to the UK with Nvidia and Nscale &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p53#a250916p53)
  - [Google is testing a Windows desktop app that brings Mac&#39;s Spotlight-like search bar to PC users, allowing them to search local files, Google Drive, and the web &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250916/p52#a250916p52)
  - [Can Luigi Mangione get too big to jail?](https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem)
  - [BreachForums admin Conor Fitzpatrick is resentenced to three years in prison after an appeals court vacated his prior sentence of 20 years of supervised release &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250916/p51#a250916p51)
- - [AI code review startup CodeRabbit raised a $60M Series B led by Scale Venture Partners, valuing the company at $550M, and says it makes $15M+ in ARR &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250916/p50#a250916p50)
- - [US Tech Giants Race to Spend Billions in UK AI Push](https://www.wired.com/story/microsoft-nvidia-uk-investment-trump/)<!-- TECH:END -->
+ - [AI code review startup CodeRabbit raised a $60M Series B led by Scale Venture Partners, valuing the company at $550M, and says it makes $15M+ in ARR &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250916/p50#a250916p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

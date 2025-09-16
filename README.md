@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
- - 😝 [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 💣 [It was definitely necessary](http://9gag.com/gag/amodZNd)
- - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
- - 👉 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)<!-- MEMES:END -->
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 😝 [Silksong is a very good game](http://9gag.com/gag/aZZdYvW)
+ - 👉 [This is too effing beautiful](http://9gag.com/gag/agmd9q1)<!-- MEMES:END -->
 
 ---
 

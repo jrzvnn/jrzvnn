@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
- - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)
+ - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
+ - 👉 [This is how you do it](http://9gag.com/gag/aPApqrw)<!-- MEMES:END -->
 
 ---
 

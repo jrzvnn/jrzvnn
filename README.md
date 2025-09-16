@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Savage](http://9gag.com/gag/ayNzj4V)
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
  - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
 
 ---

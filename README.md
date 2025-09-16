@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)
  - [Sources: Chinese hardware maker Goertek tightened its grip on Meta&#39;s AI glasses supply chain, including making &quot;Hypernova&quot;, through a spate of dealmaking &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p5#a250916p5)
  - [Up to $2,000 Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)
  - [OpenAI hires former xAI CFO Mike Liberatore as business finance officer, reporting to CFO Sarah Friar, to oversee infrastructure spend; he left xAI in July &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250916/p4#a250916p4)
- - [Shanghai-based, US-listed lidar maker Hesai jumped 7.7% in its Hong Kong debut, giving the company a ~$4.5B market cap after raising ~$514M from the IPO &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250916/p3#a250916p3)
- - [How to Shop Like a Pro During Amazon Prime Day &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/)<!-- TECH:END -->
+ - [Shanghai-based, US-listed lidar maker Hesai jumped 7.7% in its Hong Kong debut, giving the company a ~$4.5B market cap after raising ~$514M from the IPO &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250916/p3#a250916p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

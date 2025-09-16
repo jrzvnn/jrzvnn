@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Sports update makes it easier to follow your favorite teams everywhere](https://appleinsider.com/articles/25/09/16/apple-sports-update-makes-it-easier-to-follow-your-favorite-teams-everywhere?utm_source=rss)
- - [Israel-based Vega, which offers an AI-based security analytics platform, raised $65M in seed and Series A led by Accel at a $400M valuation &lpar;Meytal Vaizberg/Globes&rpar;](http://www.techmeme.com/250916/p21#a250916p21)
- - [Apple Watch SE 3 review roundup: who needs the Series 11?](https://appleinsider.com/articles/25/09/16/apple-watch-se-3-review-roundup-who-needs-the-series-11?utm_source=rss)
- - [Epson partnered with Bose for the speakers on its new projectors](https://www.theverge.com/news/778725/epson-lifestudio-projectors-4k-grand-flex-plus-pop-google-tv)
- - [5 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)<!-- TECH:END -->
+ - [Disney, Universal, and WBD sue China&#39;s MiniMax, alleging that its image- and video-generating service Hailuo AI was built from stolen intellectual property &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p24#a250916p24)
+ - [YouTube is adding AI into more parts of content creation](https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing)
+ - [YouTube makes it easier and more lucrative to go live](https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates)
+ - [YouTube is cooking up some new monetization features](https://www.theverge.com/news/778693/youtube-monetization-features-ai-tagging-dynamic-ads)
+ - [Humanoid robot startup Figure raised a $1B+ Series C led by Parkway Venture Capital at a post-money valuation of $39B, up from $2.6B in February 2024 &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/250916/p23#a250916p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

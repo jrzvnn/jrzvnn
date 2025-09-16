@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft trumps Google with $30 billion investment in the UK](https://www.theverge.com/news/778881/microsoft-uk-investment-ai-supercomputer)
+ - [Sources: under the US-China framework, a US investor consortium that includes Oracle, Silver Lake, and a16z would hold an ~80% stake in TikTok&#39;s US business &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p42#a250916p42)
  - [How the Swiss National Bank became one of the world&#39;s biggest tech investors, with a combined $42B+ invested in Amazon, Apple, Meta, Microsoft, and Nvidia &lpar;Mercedes Ruehl/Financial Times&rpar;](http://www.techmeme.com/250916/p41#a250916p41)
  - [The 50 Best Shows on Hulu Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty](https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/)
- - [AirPods Pro 3 review: The best true wireless earbuds get even better](https://appleinsider.com/articles/25/09/15/airpods-pro-3-review-the-best-true-wireless-earbuds-get-even-better?utm_source=rss)
- - [Sources: Binance nears a deal with the US DOJ to remove the outside compliance monitor imposed under its $4.3B 2023 settlement over money laundering failures &lpar;Sabrina Willmer/Bloomberg&rpar;](http://www.techmeme.com/250916/p40#a250916p40)<!-- TECH:END -->
+ - [Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty](https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

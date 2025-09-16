@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)
  - 😝 [Classic 2016](http://9gag.com/gag/aAym7no)
- - 💣 [Tarantino](http://9gag.com/gag/aAymAE0)
- - 😝 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
+ - 😝 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 💣 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

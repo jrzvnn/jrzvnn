@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p8#a250916p8)
- - [AI Is Bad at Sudoku. It&#39;s Even Worse at Showing Its Work](https://www.cnet.com/tech/services-and-software/ai-is-bad-at-sudoku-its-even-worse-at-showing-its-work/#ftag=CAD590a51e)
- - [Microsoft’s Xbox PC app adds Steam games and access to other stores](https://www.theverge.com/news/778627/microsoft-xbox-pc-app-stream-integration-stores-update)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 16, #828](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-16-828/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 16 #562](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-562/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
+ - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p9#a250916p9)
+ - [Nothing plans to launch &amp;#8216;first AI-native devices next year&amp;#8217;](https://www.theverge.com/news/778636/nothing-ai-native-devices)
+ - [Matthew Prince Wants AI Companies to Pay for Their Sins](https://www.wired.com/story/big-interview-podcast-matthew-prince-cloudflare/)
+ - [One Vigilante, 22 Cell Towers, and a World of Conspiracies](https://www.wired.com/story/22-cell-towers-one-vigilante-world-of-conspiracies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

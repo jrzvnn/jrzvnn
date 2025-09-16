@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft’s Xbox PC app adds Steam games and access to other stores](https://www.theverge.com/news/778627/microsoft-xbox-pc-app-stream-integration-stores-update)
  - [China says US spin-off of TikTok will use ByteDance&#39;s Chinese algorithm and the deal with the US includes &quot;licensing the algorithm and other IP rights&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p7#a250916p7)
  - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)
  - [Sources: Chinese hardware maker Goertek tightened its grip on Meta&#39;s AI glasses supply chain, including making &quot;Hypernova&quot;, through a spate of dealmaking &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p5#a250916p5)
- - [Up to $2,000 Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)
- - [OpenAI hires former xAI CFO Mike Liberatore as business finance officer, reporting to CFO Sarah Friar, to oversee infrastructure spend; he left xAI in July &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250916/p4#a250916p4)<!-- TECH:END -->
+ - [Up to $2,000 Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

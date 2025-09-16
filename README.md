@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla under investigation for door handles that trap people inside](https://www.theverge.com/news/778980/tesla-nhtsa-investigation-door-handles-trap)
+ - [Modern Animal, a veterinary clinic network that uses proprietary AI-powered software to enhance veterinary workflows, raised a $46M Series D &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250916/p38#a250916p38)
+ - [A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users](https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/)
  - [Chip design software maker Cadence agrees to acquire Stockholm-based Hexagon&#39;s design and simulation software business for ~$3.18B in cash and stock &lpar;Nathan Owens/Manufacturing Dive&rpar;](http://www.techmeme.com/250916/p37#a250916p37)
- - [Google&amp;#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)
- - [YouTube responds to concerns about drops in views from creators, pointing out that ad blockers can &quot;impact the accuracy of reported view counts&quot; &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/250916/p36#a250916p36)
- - [iPhone 17 vs iPhone 17 Pro -- What a $300 premium gets the Pro](https://appleinsider.com/inside/iphone-17/vs/iphone-17-vs-iphone-17-pro----what-a-300-premium-gets-the-pro?utm_source=rss)
- - [Sources: Apollo Global is exploring a sale of AOL in a deal that could value AOL at around $1.5B; Apollo bought AOL in 2021 as part of its $5B Verizon deal &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250916/p35#a250916p35)<!-- TECH:END -->
+ - [Google&amp;#8217;s new Windows desktop app brings a Spotlight-like search bar to PC](https://www.theverge.com/news/778940/google-app-windows-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

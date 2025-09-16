@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 💣 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
- - 👉 [And then they smash.](http://9gag.com/gag/a6ZxgKL)<!-- MEMES:END -->
+ - 😝 [This is how you do it](http://9gag.com/gag/aPApqrw)
+ - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
+ - 💣 [Dad had a whole other life out there](http://9gag.com/gag/aZZdYGV)
+ - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
+ - 👉 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)<!-- MEMES:END -->
 
 ---
 

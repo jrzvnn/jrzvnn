@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Swiss fix roadwork without traffic jams](http://9gag.com/gag/abAdwWp)
- - 😝 [Even today this is some awesome shit](http://9gag.com/gag/a7oGXZe)
- - 💣 [Witnessing a ship launch is quite a spectacle](http://9gag.com/gag/aD2P5gN)
- - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
- - 👉 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)<!-- MEMES:END -->
+ - 😝 [Silksong is a very good game](http://9gag.com/gag/aZZdYvW)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 💣 [We don&#39;t have to live like this](http://9gag.com/gag/aVvdrRP)
+ - 😝 [Tarantino](http://9gag.com/gag/aAymAE0)
+ - 👉 [He turned his back on her...](http://9gag.com/gag/aVvd5zw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it is developing a &quot;different ChatGPT experience&quot; for teens and plans to use age-prediction tech to bar kids under 18 from the standard version &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/250916/p19#a250916p19)
+ - [Sources: Oracle is among a consortium of companies that would enable TikTok to continue US operations if a framework deal between the US and China is finalized &lpar;Jennifer Jacobs/CBS News&rpar;](http://www.techmeme.com/250916/p18#a250916p18)
+ - [Tech executives say the Trump administration&#39;s stake in Intel and its intervention into other private businesses have had a chilling effect on decision-making &lpar;Yasmin Khorram/Politico&rpar;](http://www.techmeme.com/250916/p17#a250916p17)
  - [Apple Watch Series 11 review roundup: Battery life is the biggest benefit](https://appleinsider.com/articles/25/09/16/apple-watch-series-11-review-roundup-battery-life-is-the-biggest-benefit?utm_source=rss)
- - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)
- - [Filing: cloud cybersecurity software startup Netskope raised its IPO price range to $17-$19 per share, up from $15-$17, aiming to raise $908.2M, up from $812.6M &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250916/p16#a250916p16)
- - [This is the first Roku TV smart projector](https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector)
- - [AT&amp;#038;T&amp;#8217;s AI call-screening tool uses your call history to filter out spam](https://www.theverge.com/news/778518/att-ai-call-screening-digital-receptionist)<!-- TECH:END -->
+ - [The Best Ventless Fireplaces for Cozy Vibes &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-ventless-fireplaces/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

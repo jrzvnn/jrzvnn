@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 💣 [Let me out](http://9gag.com/gag/aXPd1gg)
- - 😝 [Positivity](http://9gag.com/gag/a34xXWQ)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 💣 [Who feels the same way](http://9gag.com/gag/aryd7EV)
+ - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
+ - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
 
 ---
 

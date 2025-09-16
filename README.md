@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube says it has paid out $100B+ to creators over the last four years and the number of YouTube channels making over $100K from TV screens has jumped 45% YoY &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/250916/p26#a250916p26)
  - [YouTube unveils new generative AI tools for Shorts, including a custom version of Veo 3 called Veo 3 Fast, which includes sound, and an Edit with AI feature &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250916/p25#a250916p25)
  - [The China-US deal for TikTok could take another month to work out](https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle)
  - [Disney, Universal, and WBD sue China&#39;s MiniMax, alleging that its image- and video-generating service Hailuo AI was built from stolen intellectual property &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p24#a250916p24)
- - [YouTube is adding AI into more parts of content creation](https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing)
- - [YouTube makes it easier and more lucrative to go live](https://www.theverge.com/news/778668/youtube-live-streaming-reactions-multi-format-updates)<!-- TECH:END -->
+ - [YouTube is adding AI into more parts of content creation](https://www.theverge.com/news/778469/youtube-creators-ai-analytics-ask-studio-dubbing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

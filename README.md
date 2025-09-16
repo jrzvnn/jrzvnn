@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It was definitely necessary](http://9gag.com/gag/amodZNd)
- - 😝 [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 💣 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 😝 [Tja...](http://9gag.com/gag/aKGLM5W)
- - 👉 [Is this a sunset or a sunrise?](http://9gag.com/gag/aYQd0Yq)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 😝 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
+ - 👉 [Tarantino](http://9gag.com/gag/aAymAE0)<!-- MEMES:END -->
 
 ---
 

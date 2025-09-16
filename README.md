@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First Apple Store outside the US relocates back to its original location](https://appleinsider.com/articles/25/09/16/first-apple-store-outside-the-us-relocates-back-to-its-original-location?utm_source=rss)
  - [Invisible Technologies, a Scale AI rival that helped train ChatGPT, raised $100M, sources say at a $2B+ valuation, and reports $134M in 2024 sales &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250916/p12#a250916p12)
  - [Microsoft adds auto model selection to Visual Studio Code that primarily favors Claude Sonnet 4 over GPT-5 for paid GitHub Copilot users &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250916/p11#a250916p11)
  - [Seon, which uses AI to detect and prevent fraud, raised an $80M Series C led by Sixth Street Growth, bringing its total funding to $187M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250916/p10#a250916p10)
- - [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)
- - [The 8 Foods You&#39;re Eating That Likely Contain Microplastics](https://www.cnet.com/health/nutrition/foods-eating-likely-contain-microplastics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

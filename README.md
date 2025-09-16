@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p8#a250916p8)
+ - [AI Is Bad at Sudoku. It&#39;s Even Worse at Showing Its Work](https://www.cnet.com/tech/services-and-software/ai-is-bad-at-sudoku-its-even-worse-at-showing-its-work/#ftag=CAD590a51e)
  - [Microsoft’s Xbox PC app adds Steam games and access to other stores](https://www.theverge.com/news/778627/microsoft-xbox-pc-app-stream-integration-stores-update)
- - [China says US spin-off of TikTok will use ByteDance&#39;s Chinese algorithm and the deal with the US includes &quot;licensing the algorithm and other IP rights&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p7#a250916p7)
- - [Amazon plans to hold its 2025 Prime Big Deal Days from October 7 at 12:01am PT through October 8, exclusive to Prime subscribers &lpar;Brandon Russell/The Verge&rpar;](http://www.techmeme.com/250916/p6#a250916p6)
- - [Sources: Chinese hardware maker Goertek tightened its grip on Meta&#39;s AI glasses supply chain, including making &quot;Hypernova&quot;, through a spate of dealmaking &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p5#a250916p5)
- - [Up to $2,000 Off LG Promo Codes &amp; Coupons](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 16, #828](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-16-828/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 16 #562](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-16-562/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

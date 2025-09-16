@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)
  - [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
  - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p9#a250916p9)
  - [Nothing plans to launch &amp;#8216;first AI-native devices next year&amp;#8217;](https://www.theverge.com/news/778636/nothing-ai-native-devices)
- - [Matthew Prince Wants AI Companies to Pay for Their Sins](https://www.wired.com/story/big-interview-podcast-matthew-prince-cloudflare/)
- - [One Vigilante, 22 Cell Towers, and a World of Conspiracies](https://www.wired.com/story/22-cell-towers-one-vigilante-world-of-conspiracies/)<!-- TECH:END -->
+ - [Matthew Prince Wants AI Companies to Pay for Their Sins](https://www.wired.com/story/big-interview-podcast-matthew-prince-cloudflare/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

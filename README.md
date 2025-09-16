@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube announces AI tools for podcasters, including one that turns video podcasts into clips and another that creates video for audio-only podcasts &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250916/p33#a250916p33)
+ - [How to Set Up and Use a Burner Phone](https://www.wired.com/story/how-to-set-up-use-burner-phone/)
  - [Druid, whose Druid Conductor orchestration engine allows companies to deploy specialized AI agents, raised a $31M Series C and hires Joseph Kim as CEO &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250916/p32#a250916p32)
  - [New MVNO Noble Mobile launches with former presidential candidate Andrew Yang as CEO, offering cash back rewards to clients using less than 20 GB of monthly &lpar;Monica Alleven/Fierce Network&rpar;](http://www.techmeme.com/250916/p31#a250916p31)
- - [Official watch bands for your new Apple Watch are $34 off at Woot](https://www.theverge.com/tech/778766/apple-watch-solo-loop-band-ipad-air-m3-deal-sale)
- - [YouTube plans to expand its likeness detection tech to all Partner Program creators in the next months; creators can opt in by uploading an image of their face &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/250916/p30#a250916p30)
- - [YouTube unveils new livestreaming features, including letting creators transition between public and members-only streams, and ads that run next to the stream &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/250916/p29#a250916p29)<!-- TECH:END -->
+ - [Official watch bands for your new Apple Watch are $34 off at Woot](https://www.theverge.com/tech/778766/apple-watch-solo-loop-band-ipad-air-m3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

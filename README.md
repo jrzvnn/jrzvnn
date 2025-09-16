@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seon, which uses AI to detect and prevent fraud, raised an $80M Series C led by Sixth Street Growth, bringing its total funding to $187M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/250916/p10#a250916p10)
  - [Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse](https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/)
- - [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)
- - [Sources: Nvidia&#39;s China-only RTX 6000D receives lukewarm demand, with some seeing it as expensive given its performance lags the RTX 5090 &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p9#a250916p9)
- - [Nothing plans to launch &amp;#8216;first AI-native devices next year&amp;#8217;](https://www.theverge.com/news/778636/nothing-ai-native-devices)
- - [Matthew Prince Wants AI Companies to Pay for Their Sins](https://www.wired.com/story/big-interview-podcast-matthew-prince-cloudflare/)<!-- TECH:END -->
+ - [The 8 Foods You&#39;re Eating That Likely Contain Microplastics](https://www.cnet.com/health/nutrition/foods-eating-likely-contain-microplastics/#ftag=CAD590a51e)
+ - [Epson Unleashes Lifestudio Projectors with New 3LCD Light Engine](https://www.cnet.com/tech/home-entertainment/epson-unleashes-lifestudio-projectors-with-new-3lcd-light-engine/#ftag=CAD590a51e)
+ - [Microsoft favors Anthropic over OpenAI for Visual Studio Code](https://www.theverge.com/report/778641/microsoft-visual-studio-code-anthropic-claude-4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

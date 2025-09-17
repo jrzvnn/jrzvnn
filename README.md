@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [StubHub&#39;s shares closed down 6.4% in its NYSE debut, giving it an $8.1B market value, after the ticketing platform raised $800M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250917/p38#a250917p38)
+ - [Backstabbing and Moral Decay Rule in This Fierce Drama That&#39;s Worth Rewatching](https://www.cnet.com/tech/services-and-software/backstabbing-moral-decay-rule-in-this-fierce-drama-thats-worth-rewatching/#ftag=CAD590a51e)
  - [Baseus PicoGo MagSafe batteries review: all better than Apple&#39;s new one](https://appleinsider.com/articles/25/09/17/baseus-picogo-magsafe-batteries-review-all-better-than-apples-new-one?utm_source=rss)
  - [Microsoft Paint is getting its own Photoshop-like project files](https://www.theverge.com/news/780287/microsoft-paint-project-files-feature-photoshop-psd)
- - [Scientists detail Delphi-2M, a generative AI model trained on large-scale health records that can predict susceptibility to 1,000+ diseases decades from now &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250917/p37#a250917p37)
- - [&amp;#8216;Ask Gemini&amp;#8217; AI will tell you what you missed during a Google Meet call](https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant)
- - [The New iPhone Air Is Slim, but Your Chances of Dropping It Aren&#39;t. Don&#39;t Skimp on the Case](https://www.cnet.com/deals/shop-iphone-17-series-cases-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 18, #830](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-18-830/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

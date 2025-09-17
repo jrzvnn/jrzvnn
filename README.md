@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 😝 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
- - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 😝 [Who feels the same way](http://9gag.com/gag/aryd7EV)
  - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---

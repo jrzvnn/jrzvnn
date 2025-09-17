@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
- - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
+ - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
  - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---

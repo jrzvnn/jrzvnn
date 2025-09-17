@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Custom chips and thermal monitoring at heart of Apple&#39;s 40W Dynamic Power Adapter](https://appleinsider.com/articles/25/09/17/custom-chips-and-thermal-monitoring-at-heart-of-apples-40w-dynamic-power-adapter?utm_source=rss)
+ - [Casio’s stress-relieving furry robot is coming to the US](https://www.theverge.com/news/779857/casio-robot-furry-pet-moflin-us-availability)
  - [Lyft partners with Waymo to launch fully autonomous robotaxi rides in Nashville starting in 2026, their first collaboration; LYFT jumps 10% &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250917/p25#a250917p25)
  - [Amazon debuts a chatbot-style assistant to help advertisers use AI to make ads, which can run across Amazon&#39;s ad inventory and platforms that have Amazon deals &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/250917/p24#a250917p24)
- - [Upgrade your everyday carry setup with these 22 picks](https://www.theverge.com/tech/771373/everyday-carry-edc-gift-guide)
- - [Sony’s PS5 update adds controller swapping and Power Saving mode](https://www.theverge.com/news/779837/sony-playstation-5-ps5-update-power-saving-mode)
- - [iPhone 17 Pro &amp; iPhone 17 Pro Max review roundup -- fast, excellent, and orange](https://appleinsider.com/articles/25/09/17/iphone-17-pro-iphone-17-pro-max-review-roundup----fast-excellent-and-orange?utm_source=rss)<!-- TECH:END -->
+ - [Upgrade your everyday carry setup with these 22 picks](https://www.theverge.com/tech/771373/everyday-carry-edc-gift-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

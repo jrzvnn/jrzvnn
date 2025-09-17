@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scientists detail Delphi-2M, an AI model trained on large-scale health records that can predict susceptibility to over 1,000 diseases decades into the future &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250917/p37#a250917p37)
+ - [Baseus PicoGo MagSafe batteries review: all better than Apple&#39;s new one](https://appleinsider.com/articles/25/09/17/baseus-picogo-magsafe-batteries-review-all-better-than-apples-new-one?utm_source=rss)
+ - [Microsoft Paint is getting its own Photoshop-like project files](https://www.theverge.com/news/780287/microsoft-paint-project-files-feature-photoshop-psd)
+ - [Scientists detail Delphi-2M, a generative AI model trained on large-scale health records that can predict susceptibility to 1,000+ diseases decades from now &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250917/p37#a250917p37)
  - [&amp;#8216;Ask Gemini&amp;#8217; AI will tell you what you missed during a Google Meet call](https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant)
- - [The New iPhone Air Is Slim, but Your Chances of Dropping It Aren&#39;t. Don&#39;t Skimp on the Case](https://www.cnet.com/deals/shop-iphone-17-series-cases-now/#ftag=CAD590a51e)
- - [A US House committee asks the CEOs of Discord, Steam, Twitch, and Reddit to testify at an October 8 hearing on the &quot;radicalization of online forum users&quot; &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250917/p36#a250917p36)
- - [Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes](https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/)<!-- TECH:END -->
+ - [The New iPhone Air Is Slim, but Your Chances of Dropping It Aren&#39;t. Don&#39;t Skimp on the Case](https://www.cnet.com/deals/shop-iphone-17-series-cases-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

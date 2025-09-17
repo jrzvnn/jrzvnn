@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EvoluteIQ, which offers a low-code AI platform for companies to design, deploy, and scale business processes, raised $53M led by Baird Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/250917/p18#a250917p18)
- - [How to upgrade the SSD in your M4 Mac mini](https://appleinsider.com/inside/mac-mini/tips/how-to-upgrade-the-ssd-in-your-m4-mac-mini?utm_source=rss)
- - [Groq, which sells AI chips and data-center compute powered by those chips, raised $750M led by Disruptive at a post-money valuation of $6.9B &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/250917/p17#a250917p17)
- - [The hunger strike to end AI](https://www.theverge.com/ai-artificial-intelligence/778773/the-hunger-strike-to-end-ai-anthropic-google-deepmind-agi)
- - [Apple’s future MacBook Pro might have a touchscreen](https://www.theverge.com/news/779759/apple-macbook-pro-oled-touchscreen-rumors)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang says he was &quot;disappointed&quot; after a report that China has urged Chinese companies not to use the company&#39;s AI chips &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250917/p22#a250917p22)
+ - [iPhone 17 Pro &amp; iPhone 17 Pro Max review roundup -- fast, excellent, and orange](https://appleinsider.com/articles/25/09/17/iphone-17-pro-iphone-17-pro-max-review-roundup----fast-excellent-and-orange?utm_source=rss)
+ - [iPhone Air review roundup: Slim but not perfect](https://appleinsider.com/articles/25/09/17/iphone-air-review-roundup-slim-but-not-perfect?utm_source=rss)
+ - [iPhone 17 review: best value of the 17 lineup with a 120Hz refresh rate screen, good A19 performance, and Center Stage front camera but no telephoto lens &lpar;Eric Zeman/PCMag&rpar;](http://www.techmeme.com/250917/p21#a250917p21)
+ - [No, Nintendo and Pokémon did not patent ‘summoning characters and making them battle’](https://www.theverge.com/games/779062/nintendo-pokemon-summoning-battle-patent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

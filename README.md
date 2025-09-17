@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How xAI is building Colossus 2, which is on track to be the world&#39;s first gigawatt-scale AI datacenter after reaching 200MW in six months &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](http://www.techmeme.com/250917/p29#a250917p29)
+ - [8BitDo’s wireless N64-inspired controller is 30 percent off](https://www.theverge.com/tech/779829/8bitdo-n64-wireless-controller-mission-impossible-rent-deal-sale)
  - [Inside Trumpworld’s Reality Distortion Field](https://www.wired.com/story/inside-trumpworlds-reality-distortion-field/)
  - [Here’s who is actually using ChatGPT — and how they are using it](https://www.theverge.com/news/779793/openai-chatgpt-user-report)
- - [Nvidia’s chips are no longer welcome in China](https://www.theverge.com/news/779934/nvidia-ban-china-no-longer-welcome)
- - [Tesla agrees to settle another wrongful death lawsuit involving Autopilot](https://www.theverge.com/news/779850/tesla-settle-wrongful-death-autopilot-maldonado)
- - [Israel-based Irregular, which works with leading AI labs like OpenAI to mitigate cybersecurity risks, raised $80M led by Sequoia Capital and Redpoint Ventures &lpar;Globes&rpar;](http://www.techmeme.com/250917/p28#a250917p28)<!-- TECH:END -->
+ - [This PS5 Update Lets DualSense Controllers Pair With Multiple Devices at the Same Time](https://www.cnet.com/tech/gaming/this-ps5-update-lets-dualsense-controllers-pair-with-multiple-devices-at-the-same-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

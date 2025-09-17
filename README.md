@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
  - 😝 [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
  - 💣 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - 😝 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 😝 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)
+ - 👉 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)<!-- MEMES:END -->
 
 ---
 

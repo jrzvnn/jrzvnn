@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Off Weeks&#39; drama starring Ben Stiller coming to Apple TV+](https://appleinsider.com/articles/25/09/17/the-off-weeks-drama-starring-ben-stiller-coming-to-apple-tv?utm_source=rss)
  - [Apple to release software fix for iPhone Air and iPhone 17 Pro camera issues](https://appleinsider.com/articles/25/09/17/apple-to-release-software-fix-for-iphone-air-and-iphone-17-pro-camera-issues?utm_source=rss)
- - [Wait, What? NASA Found Signs of Ancient Alien Life on Mars](https://www.cnet.com/science/space/nasa-found-signs-of-ancient-alien-life-on-mars-heres-how-excited-you-should-be/#ftag=CAD590a51e)
  - [iPhone 18 Pro rumored to feature &#39;slightly transparent&#39; back glass](https://appleinsider.com/articles/25/09/17/iphone-18-pro-rumored-to-feature-slightly-transparent-back-glass?utm_source=rss)
- - [Microsoft Offers Free Windows 10 Extended Security Updates: Here&#39;s What to Do](https://www.cnet.com/tech/computing/microsoft-offers-windows-10-extended-security-updates-for-free-you-just-need-to-do-one-thing/#ftag=CAD590a51e)
- - [iPhone Air vs. Galaxy S25 Edge: Thin Phones Compared](https://www.cnet.com/tech/mobile/iphone-air-vs-galaxy-s25-edge-thin-phones-compared/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple CEO Tim Cook attended UK state dinner with President Trump](https://appleinsider.com/articles/25/09/17/apple-ceo-tim-cook-attended-uk-state-dinner-with-president-trump-other-ceos?utm_source=rss)
+ - [Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

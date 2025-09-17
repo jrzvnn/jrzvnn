@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CEO Tim Cook attended UK State Dinner with President Trump, other CEOs](https://appleinsider.com/articles/25/09/17/apple-ceo-tim-cook-attended-uk-state-dinner-with-president-trump-other-ceos?utm_source=rss)
+ - [Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)
  - [OpenAI says its reasoning system solved all 12 problems at the 2025 ICPC World Finals, with GPT-5 solving 11 and an experimental model solving the last &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250917/p39#a250917p39)
- - [The DOGE Subcommittee Hearing on Weather Modification Was a Nest of Conspiracy Theorizing](https://www.wired.com/story/the-doge-subcommittee-hearing-on-weather-modification-was-a-nest-of-conspiracy-theorizing/)
- - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off](https://www.wired.com/story/save-big-on-our-favorite-tcl-televisions/)
- - [StubHub&#39;s shares closed down 6.4% in its NYSE debut, giving StubHub an $8.1B market value, after the ticketing platform raised $800M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250917/p38#a250917p38)<!-- TECH:END -->
+ - [New Bill Aims to Block Both Online Adult Content and VPNs](https://www.cnet.com/tech/services-and-software/new-bill-aims-to-block-both-online-adult-content-and-vpns/#ftag=CAD590a51e)
+ - [The DOGE Subcommittee Hearing on Weather Modification Was a Nest of Conspiracy Theorizing](https://www.wired.com/story/the-doge-subcommittee-hearing-on-weather-modification-was-a-nest-of-conspiracy-theorizing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

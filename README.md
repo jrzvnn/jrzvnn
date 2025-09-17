@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
- - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 😝 [Well, well, well, isn&#39;t it the muppets at it again](http://9gag.com/gag/ae9dLpj)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 😝 [Here! I thought you would hate it..](http://9gag.com/gag/ae9dnLv)
+ - 😝 [Why is the dangerous bear so cute](http://9gag.com/gag/ae9dnzp)
+ - 💣 [Not scanning a QR for the menu, standing with the boomers on this one](http://9gag.com/gag/aVvdpZy)
+ - 😝 [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)
+ - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
 
 ---
 

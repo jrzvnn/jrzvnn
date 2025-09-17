@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wait, What? NASA Found Signs of Ancient Alien Life on Mars](https://www.cnet.com/science/space/nasa-found-signs-of-ancient-alien-life-on-mars-heres-how-excited-you-should-be/#ftag=CAD590a51e)
  - [iPhone 18 Pro rumored to feature &#39;slightly transparent&#39; back glass](https://appleinsider.com/articles/25/09/17/iphone-18-pro-rumored-to-feature-slightly-transparent-back-glass?utm_source=rss)
- - [Apple CEO Tim Cook attended UK state dinner with President Trump](https://appleinsider.com/articles/25/09/17/apple-ceo-tim-cook-attended-uk-state-dinner-with-president-trump-other-ceos?utm_source=rss)
- - [Microsoft’s new Xbox mode on Windows has leaked for any handheld](https://www.theverge.com/news/780388/microsoft-xbox-fullscreen-mode-windows-11-handheld-leak)
- - [OpenAI says its reasoning system solved all 12 problems at the 2025 ICPC World Finals, with GPT-5 solving 11 and an experimental model solving the last &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250917/p39#a250917p39)
- - [New Bill Aims to Block Both Online Adult Content and VPNs](https://www.cnet.com/tech/services-and-software/new-bill-aims-to-block-both-online-adult-content-and-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft Offers Free Windows 10 Extended Security Updates: Here&#39;s What to Do](https://www.cnet.com/tech/computing/microsoft-offers-windows-10-extended-security-updates-for-free-you-just-need-to-do-one-thing/#ftag=CAD590a51e)
+ - [iPhone Air vs. Galaxy S25 Edge: Thin Phones Compared](https://www.cnet.com/tech/mobile/iphone-air-vs-galaxy-s25-edge-thin-phones-compared/#ftag=CAD590a51e)
+ - [Americans, You&#39;re Worse at Recognizing Phishing Scams Than the Brits](https://www.cnet.com/tech/services-and-software/americans-youre-worse-at-recognizing-phishing-scams-than-the-brits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

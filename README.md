@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
- - 😝 [Horrific sights as the streets of London are invaded by people waving far-right symbols, replacing the traditional Palestinian flags.](http://9gag.com/gag/aVvd5dy)
- - 💣 [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 😝 [Men will be men](http://9gag.com/gag/aPApbdV)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Not scanning a QR for the menu, standing with the boomers on this one](http://9gag.com/gag/aVvdpZy)
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
 
 ---
 

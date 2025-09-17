@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Gemini 2.5 Deep Think achieves a gold medal performance at the 2025 ICPC World Finals programming competition; only four out of 139 human teams won gold medals &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250917/p34#a250917p34)
  - [Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger](https://www.theverge.com/news/778722/logitech-pro-x2-superstrike-superlight-wireless-haptics-rapid-trigger-gaming-mouse-pc)
  - [Americans want AI to stay out of their personal lives](https://www.theverge.com/ai-artificial-intelligence/780184/pew-research-americans-want-ai-out-of-their-personal-lives)
- - [The Astro A20 X headset was made for multi-console homes](https://www.theverge.com/news/776006/astro-a20x-headset-switch-ps5-xbox-price-features)<!-- TECH:END -->
+ - [Robots Could Help Kids Become Better Readers, According to a New Study](https://www.cnet.com/tech/services-and-software/robots-could-help-kids-become-better-readers-according-to-a-new-study/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

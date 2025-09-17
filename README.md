@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
  - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
- - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 💣 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
  - 👉 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)<!-- MEMES:END -->
 
 ---

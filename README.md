@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The World Shipping Council launches an AI tool to scan millions of bookings in real time to identify risks of cargo fires, which reached a decade-high in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p1#a250917p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-17/#ftag=CAD590a51e)
+ - [Meta Connect 2025: What&#39;s Next for Quest Headsets, Orion Smart Glasses and More](https://www.cnet.com/tech/meta-connect-2025-whats-next-for-quest-headsets-orion-smart-glasses-and-more/#ftag=CAD590a51e)
  - [Tencent and Baidu sold $3.3B combined in offshore bonds this year, the most ever for Chinese tech companies, as companies secure cheap financing for AI buildout &lpar;Janice Huang/Bloomberg&rpar;](http://www.techmeme.com/250916/p60#a250916p60)
- - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)
- - [Singapore-based used car marketplace Carro raised $60M led by Japan sovereign wealth fund Cool Japan Fund to promote Japanese cars in the Asia-Pacific region &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p58#a250916p58)
- - [Sources: SMIC is testing China&#39;s first domestically produced DUV lithography machine, aiming to reduce reliance on western chipmaking technology &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p57#a250916p57)<!-- TECH:END -->
+ - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

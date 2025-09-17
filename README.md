@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 😝 [When the CEO tells you to code your own game engine](http://9gag.com/gag/ayNzKKq)
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
  - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
- - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
+ - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 

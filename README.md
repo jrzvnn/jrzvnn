@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent and Baidu sold $3.3B combined in offshore bonds this year, the most ever for Chinese tech companies, as companies secure cheap financing for AI buildout &lpar;Janice Huang/Bloomberg&rpar;](http://www.techmeme.com/250916/p60#a250916p60)
  - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)
  - [Singapore-based used car marketplace Carro raised $60M led by Japan sovereign wealth fund Cool Japan Fund to promote Japanese cars in the Asia-Pacific region &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p58#a250916p58)
  - [Sources: SMIC is testing China&#39;s first domestically produced DUV lithography machine, aiming to reduce reliance on western chipmaking technology &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p57#a250916p57)
- - [How Meta&#39;s California super PAC, rare as a single-company entity, lets Mark Zuckerberg spend Meta&#39;s money on his own political choices, including AI regulation &lpar;The Verge&rpar;](http://www.techmeme.com/250916/p56#a250916p56)
- - [Logitech Lift mouse review: a solid entry-level ergonomic mouse with a few tricks up its sleeve](https://appleinsider.com/articles/25/09/17/logitech-lift-mouse-review-a-solid-entry-level-ergonomic-mouse-with-a-few-tricks-up-its-sleeve?utm_source=rss)<!-- TECH:END -->
+ - [How Meta&#39;s California super PAC, rare as a single-company entity, lets Mark Zuckerberg spend Meta&#39;s money on his own political choices, including AI regulation &lpar;The Verge&rpar;](http://www.techmeme.com/250916/p56#a250916p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

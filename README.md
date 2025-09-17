@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you do it](http://9gag.com/gag/aPApqrw)
- - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
- - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 👉 [Sharia law at work.](http://9gag.com/gag/avyDwWW)<!-- MEMES:END -->
 
 ---
 

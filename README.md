@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuxiu’s X40 Turbo lays claim to best 3-in-1 travel charger](https://www.theverge.com/tech/779884/kuxius-x40-turbo-lays-claim-to-best-3-in-1-travel-charger)
+ - [AirPods Pro 3 vs Beats Powerbeats Pro 2: Health and hearing](https://appleinsider.com/articles/25/09/17/airpods-pro-3-vs-beats-powerbeats-pro-2-health-and-hearing?utm_source=rss)
+ - [The NYDFS grants Bullish a BitLicense, allowing its US entity to offer spot trading and custody services in the state &lpar;CoinDesk&rpar;](http://www.techmeme.com/250917/p27#a250917p27)
  - [Amazon says it&#39;s investing $1B+ to raise pay for US fulfillment and transportation staff, increasing the average total compensation to $30+/hour with benefits &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p26#a250917p26)
- - [Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)
- - [Custom chips and thermal monitoring at heart of Apple&#39;s 40W Dynamic Power Adapter](https://appleinsider.com/articles/25/09/17/custom-chips-and-thermal-monitoring-at-heart-of-apples-40w-dynamic-power-adapter?utm_source=rss)
- - [Casio’s stress-relieving furry robot is coming to the US](https://www.theverge.com/news/779857/casio-robot-furry-pet-moflin-us-availability)
- - [Lyft partners with Waymo to launch robotaxis in Nashville starting in 2026, their first collaboration; Waymo started Nashville tests in March; LYFT jumps 10%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250917/p25#a250917p25)<!-- TECH:END -->
+ - [Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

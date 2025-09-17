@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 💣 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
- - 😝 [Stealth :P](http://9gag.com/gag/aO8jM1E)
- - 👉 [Peak happiness achieved](http://9gag.com/gag/aPApEmQ)<!-- MEMES:END -->
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
- - 💣 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)
- - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 👉 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)<!-- MEMES:END -->
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 😝 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)
+ - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
 
 ---
 

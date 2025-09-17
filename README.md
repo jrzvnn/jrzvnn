@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
- - 😝 [Help me](http://9gag.com/gag/a34xrwQ)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 💣 [Help me](http://9gag.com/gag/a34xrwQ)
+ - 😝 [Apophis asteroid, Friday April 13th 2029](http://9gag.com/gag/axyAq52)
+ - 👉 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)<!-- MEMES:END -->
 
 ---
 

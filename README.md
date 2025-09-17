@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia CEO Jensen Huang says he was &quot;disappointed&quot; after a report that China has urged Chinese companies not to use the company&#39;s AI chips &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250917/p22#a250917p22)
- - [iPhone 17 Pro &amp; iPhone 17 Pro Max review roundup -- fast, excellent, and orange](https://appleinsider.com/articles/25/09/17/iphone-17-pro-iphone-17-pro-max-review-roundup----fast-excellent-and-orange?utm_source=rss)
- - [iPhone Air review roundup: Slim but not perfect](https://appleinsider.com/articles/25/09/17/iphone-air-review-roundup-slim-but-not-perfect?utm_source=rss)
- - [iPhone 17 review: best value of the 17 lineup with a 120Hz refresh rate screen, good A19 performance, and Center Stage front camera but no telephoto lens &lpar;Eric Zeman/PCMag&rpar;](http://www.techmeme.com/250917/p21#a250917p21)
- - [No, Nintendo and Pokémon did not patent ‘summoning characters and making them battle’](https://www.theverge.com/games/779062/nintendo-pokemon-summoning-battle-patent)<!-- TECH:END -->
+ - [Samsung HW-Q990F Soundbar System Review: Glorious Atmos](https://www.wired.com/review/samsung-hw-q990f/)
+ - [iPhone 17 review roundup -- the best iPhone for almost everyone](https://appleinsider.com/articles/25/09/17/iphone-17-review-roundup----the-best-iphone-for-almost-everyone?utm_source=rss)
+ - [How to watch Mark Zuckerberg’s keynote at Meta Connect 2025](https://www.theverge.com/news/777565/meta-connect-2025-how-to-watch-keynote-mark-zuckerberg)
+ - [Track power outages in real time across the US with the Ting app](https://www.theverge.com/science/779089/power-outage-blackout-map-app-ting)
+ - [Waymo to launch a robotaxi service in Nashville in 2026](https://www.theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

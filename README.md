@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
- - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
+ - 😝 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 👉 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)<!-- MEMES:END -->
 
 ---
 

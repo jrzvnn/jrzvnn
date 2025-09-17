@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US House committee asks the CEOs of Discord, Steam, Twitch, and Reddit to testify at an October 8 hearing on the &quot;radicalization of online forum users&quot; &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250917/p36#a250917p36)
+ - [Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes](https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/)
  - [Mac Studio M3 Ultra owners can&#39;t install macOS Tahoe yet](https://appleinsider.com/articles/25/09/17/mac-studio-m3-ultra-owners-cant-install-macos-tahoe-yet?utm_source=rss)
  - [Court filings: Tesla has settled two lawsuits over deaths in two separate California crashes in 2019 involving Autopilot; the terms were not disclosed &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p35#a250917p35)
- - [Prime Big Deal Days is coming Oct. 7, but you can save up to $450 on Apple now](https://appleinsider.com/articles/25/09/17/prime-big-deal-days-is-coming-oct-7-but-you-can-save-up-to-450-on-apple-now?utm_source=rss)
- - [Gemini 2.5 Deep Think achieves a gold medal performance at the 2025 ICPC World Finals programming competition; only four out of 139 human teams won gold medals &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250917/p34#a250917p34)
- - [Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger](https://www.theverge.com/news/778722/logitech-pro-x2-superstrike-superlight-wireless-haptics-rapid-trigger-gaming-mouse-pc)<!-- TECH:END -->
+ - [Prime Big Deal Days is coming Oct. 7, but you can save up to $450 on Apple now](https://appleinsider.com/articles/25/09/17/prime-big-deal-days-is-coming-oct-7-but-you-can-save-up-to-450-on-apple-now?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

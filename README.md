@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
- - 👉 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)<!-- MEMES:END -->
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 

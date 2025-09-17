@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
  - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
  - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
- - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
 
 ---
 

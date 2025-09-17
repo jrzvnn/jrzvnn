@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Scientists detail Delphi-2M, an AI model trained on large-scale health records that can predict susceptibility to over 1,000 diseases decades into the future &lpar;Clive Cookson/Financial Times&rpar;](http://www.techmeme.com/250917/p37#a250917p37)
  - [&amp;#8216;Ask Gemini&amp;#8217; AI will tell you what you missed during a Google Meet call](https://www.theverge.com/news/780211/google-ask-gemini-meet-workspace-ai-assistant)
+ - [The New iPhone Air Is Slim, but Your Chances of Dropping It Aren&#39;t. Don&#39;t Skimp on the Case](https://www.cnet.com/deals/shop-iphone-17-series-cases-now/#ftag=CAD590a51e)
  - [A US House committee asks the CEOs of Discord, Steam, Twitch, and Reddit to testify at an October 8 hearing on the &quot;radicalization of online forum users&quot; &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/250917/p36#a250917p36)
- - [Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes](https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/)
- - [Mac Studio M3 Ultra owners can&#39;t install macOS Tahoe yet](https://appleinsider.com/articles/25/09/17/mac-studio-m3-ultra-owners-cant-install-macos-tahoe-yet?utm_source=rss)<!-- TECH:END -->
+ - [Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes](https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

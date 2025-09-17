@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla agrees to settle another wrongful death lawsuit involving Autopilot](https://www.theverge.com/news/779850/tesla-settle-wrongful-death-autopilot-maldonado)
+ - [Israel-based Irregular, which works with leading AI labs like OpenAI to mitigate cybersecurity risks, raised $80M led by Sequoia Capital and Redpoint Ventures &lpar;Globes&rpar;](http://www.techmeme.com/250917/p28#a250917p28)
  - [Kuxiu’s X40 Turbo lays claim to best 3-in-1 travel charger](https://www.theverge.com/tech/779884/kuxius-x40-turbo-lays-claim-to-best-3-in-1-travel-charger)
  - [AirPods Pro 3 vs Beats Powerbeats Pro 2: Health and hearing](https://appleinsider.com/articles/25/09/17/airpods-pro-3-vs-beats-powerbeats-pro-2-health-and-hearing?utm_source=rss)
- - [The NYDFS grants Bullish a BitLicense, allowing its US entity to offer spot trading and custody services in the state &lpar;CoinDesk&rpar;](http://www.techmeme.com/250917/p27#a250917p27)
- - [Amazon says it&#39;s investing $1B+ to raise pay for US fulfillment and transportation staff, increasing the average total compensation to $30+/hour with benefits &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p26#a250917p26)
- - [Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator](https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/)<!-- TECH:END -->
+ - [The NYDFS grants Bullish a BitLicense, allowing its US entity to offer spot trading and custody services in the state &lpar;CoinDesk&rpar;](http://www.techmeme.com/250917/p27#a250917p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

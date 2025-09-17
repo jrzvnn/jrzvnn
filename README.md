@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, rose ~3.9% to its highest level since November 2021, amid renewed AI enthusiasm &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250917/p9#a250917p9)
  - [Chinese state media: Alibaba has secured China Unicom as a major client for its AI chips; earlier reports said Alibaba was supplying tens of thousands of chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p8#a250917p8)
  - [A profile of Song-Chun Zhu, an AI scientist and NSF and Pentagon grantee, who left the US after 28 years to lead China&#39;s state-backed AI institute BIGAI in 2020 &lpar;Chang Che/The Guardian&rpar;](http://www.techmeme.com/250917/p7#a250917p7)
  - [Meta Connect 2025: What&#39;s Next for Quest Headsets, Orion Smart Glasses and More](https://www.cnet.com/tech/meta-connect-2025-whats-next-for-quest-headsets-orion-smart-glasses-and-more/#ftag=CAD590a51e)
- - [Indian on-demand home services provider Urban Company surged 56%+ in its stock market debut after raising $215M in India&#39;s most oversubscribed major IPO of 2025 &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/250917/p6#a250917p6)
- - [The UK has ramped up the use of facial recognition, AI, and internet regulation to address crime and other issues, stoking concerns of surveillance overreach &lpar;New York Times&rpar;](http://www.techmeme.com/250917/p5#a250917p5)<!-- TECH:END -->
+ - [Indian on-demand home services provider Urban Company surged 56%+ in its stock market debut after raising $215M in India&#39;s most oversubscribed major IPO of 2025 &lpar;Ashutosh Joshi/Bloomberg&rpar;](http://www.techmeme.com/250917/p6#a250917p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

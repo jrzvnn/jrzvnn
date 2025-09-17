@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Touchscreen MacBook Pro now predicted for late 2026](https://appleinsider.com/articles/25/09/17/touchscreen-macbook-pro-now-predicted-for-late-2026?utm_source=rss)
+ - [Garmin&amp;#8217;s new Bounce watch for kids doubles the price, not the features](https://www.theverge.com/news/778318/garmin-bounce-2-lte-child-smartwatch-tracker-wearable)
  - [WIRED’s Best E-Readers, Tested and Reviewed &lpar;2025&rpar;: Kindle, Kobo, Boox](https://www.wired.com/gallery/best-ereaders/)
  - [Airia, which is building a governance and orchestration layer for AI agents, raised $50M from its co-founder John Marshall, with an additional $50M commitment &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250917/p15#a250917p15)
- - [This Giant Subterranean Neutrino Detector Is Taking On the Mysteries of Physics](https://www.wired.com/story/this-giant-subterranean-neutrino-detector-is-taking-on-the-mysteries-of-physics/)
- - [Meta Is Debuting New Smart Glasses Today. Here’s How to Watch](https://www.wired.com/story/meta-connect-2025-how-to-watch/)
- - [The Wacom One, now one size bigger](https://www.theverge.com/news/779738/wacom-one-14-display-tablet-price-availability)<!-- TECH:END -->
+ - [This Giant Subterranean Neutrino Detector Is Taking On the Mysteries of Physics](https://www.wired.com/story/this-giant-subterranean-neutrino-detector-is-taking-on-the-mysteries-of-physics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

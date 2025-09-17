@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 😝 [This is how you do it](http://9gag.com/gag/aPApqrw)
+ - 😝 [It&#39;s been 23 minutes and I couldn&#39;t come up with a decent title.](http://9gag.com/gag/adBdDdj)
  - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
- - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 

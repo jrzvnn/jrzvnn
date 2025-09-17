@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Change Your Kindle’s Language: Spanish, French, Japanese, and More &lpar;2025&rpar;](https://www.wired.com/story/how-to-change-kindle-language/)
- - [Garmin’s Venu 4 adds an LED flashlight and accessibility upgrades](https://www.theverge.com/news/780138/garmin-venu-4-smartwatch-accessibility-flashlight-color-blindness)
- - [You can soon attend Zoom meetings as your AI avatar](https://www.theverge.com/news/779154/zoom-ai-photorealistic-avatars-live-translation)
- - [Google updates its Search app&#39;s Discover page to let users follow specific publishers and creators; it plans to add YouTube Shorts and X and Instagram posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250917/p33#a250917p33)
- - [New PS5 Update Lets DualSense Controllers Pair With Multiple Devices at the Same Time](https://www.cnet.com/tech/gaming/new-ps5-update-lets-dualsense-controllers-pair-with-multiple-devices-at-the-same-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Low-cost MacBook rumored enter mass production shortly](https://appleinsider.com/articles/25/09/17/low-cost-macbook-rumored-enter-mass-production-shortly?utm_source=rss)
+ - [Best Xbox Controller for 2025: Series X and Series S](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [&#39;South Park&#39; Streaming Release Schedule: How to Watch on Paramount Plus](https://www.cnet.com/tech/services-and-software/south-park-streaming-release-schedule-how-to-watch-on-paramount-plus/#ftag=CAD590a51e)
+ - [How to Change Your Kindle’s Language: Spanish, French, Japanese, and More &lpar;2025&rpar;](https://www.wired.com/story/how-to-change-kindle-language/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

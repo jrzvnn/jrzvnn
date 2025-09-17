@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mushroom Supplements Are the Biohackers’ Latest Fix &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
+ - [Business Insider reportedly tells journalists they can use AI to draft stories](https://www.theverge.com/news/779739/business-insider-ai-writing-stories)
+ - [Kuo: the OLED MacBook Pro, expected to enter mass production by late 2026, will feature a touch screen display &lpar;Tim Hardwick/MacRumors&rpar;](http://www.techmeme.com/250917/p13#a250917p13)
  - [CrowdStrike: DeepSeek refuses to write code or produces less-secure code when English prompts say the code will be used by groups or regions disfavored by China &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/250917/p12#a250917p12)
- - [Sources: Anthropic refused federal law enforcement requests to use its AI models for some tasks, such as the surveillance of US citizens, irking the White House &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250917/p11#a250917p11)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 17, #359](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-17-359/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 17 #563](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-17-563/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 17, #1551](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-17-1551/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Anthropic refused federal law enforcement requests to use its AI models for some tasks, such as the surveillance of US citizens, irking the White House &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250917/p11#a250917p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WIRED’s Best E-Readers, Tested and Reviewed &lpar;2025&rpar;: Kindle, Kobo, Boox](https://www.wired.com/gallery/best-ereaders/)
  - [Airia, which is building a governance and orchestration layer for AI agents, raised $50M from its co-founder John Marshall, with an additional $50M commitment &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250917/p15#a250917p15)
- - [The Wacom One, now one size bigger](https://www.theverge.com/news/779738/wacom-one-14-display-tablet-price-availability)
- - [Scale AI signed a $100M ceiling contract with the DOD to provide end-to-end services, including its data engine for data preparation and AI model testing &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/250917/p14#a250917p14)
- - [Mushroom Supplements Are the Biohackers’ Latest Fix &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-mushroom-supplements/)
- - [Business Insider reportedly tells journalists they can use AI to draft stories](https://www.theverge.com/news/779739/business-insider-ai-writing-stories)<!-- TECH:END -->
+ - [This Giant Subterranean Neutrino Detector Is Taking On the Mysteries of Physics](https://www.wired.com/story/this-giant-subterranean-neutrino-detector-is-taking-on-the-mysteries-of-physics/)
+ - [Meta Is Debuting New Smart Glasses Today. Here’s How to Watch](https://www.wired.com/story/meta-connect-2025-how-to-watch/)
+ - [The Wacom One, now one size bigger](https://www.theverge.com/news/779738/wacom-one-14-display-tablet-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

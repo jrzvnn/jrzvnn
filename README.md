@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 😝 [Who feels the same way](http://9gag.com/gag/aryd7EV)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 

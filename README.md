@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He is ....](http://9gag.com/gag/aD2P57Z)
+ - 😝 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
  - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - 😝 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 💣 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
+ - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
 
 ---
 

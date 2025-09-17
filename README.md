@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Low-cost MacBook rumored enter mass production shortly](https://appleinsider.com/articles/25/09/17/low-cost-macbook-rumored-enter-mass-production-shortly?utm_source=rss)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [How to Change Your Kindle’s Language: Spanish, French, Japanese, and More &lpar;2025&rpar;](https://www.wired.com/story/how-to-change-kindle-language/)
- - [Garmin’s Venu 4 adds an LED flashlight and accessibility upgrades](https://www.theverge.com/news/780138/garmin-venu-4-smartwatch-accessibility-flashlight-color-blindness)
- - [You can soon attend Zoom meetings as your AI avatar](https://www.theverge.com/news/779154/zoom-ai-photorealistic-avatars-live-translation)<!-- TECH:END -->
+ - [Prime Big Deal Days is coming Oct. 7, but you can save up to $450 on Apple now](https://appleinsider.com/articles/25/09/17/prime-big-deal-days-is-coming-oct-7-but-you-can-save-up-to-450-on-apple-now?utm_source=rss)
+ - [Gemini 2.5 Deep Think achieves a gold medal performance at the 2025 ICPC World Finals programming competition; only four out of 139 human teams won gold medals &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250917/p34#a250917p34)
+ - [Logitech’s Pro X2 Superstrike offers haptic-based clicks and rapid trigger](https://www.theverge.com/news/778722/logitech-pro-x2-superstrike-superlight-wireless-haptics-rapid-trigger-gaming-mouse-pc)
+ - [Americans want AI to stay out of their personal lives](https://www.theverge.com/ai-artificial-intelligence/780184/pew-research-americans-want-ai-out-of-their-personal-lives)
+ - [The Astro A20 X headset was made for multi-console homes](https://www.theverge.com/news/776006/astro-a20x-headset-switch-ps5-xbox-price-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

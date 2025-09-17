@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung HW-Q990F Soundbar System Review: Glorious Atmos](https://www.wired.com/review/samsung-hw-q990f/)
- - [iPhone 17 review roundup -- the best iPhone for almost everyone](https://appleinsider.com/articles/25/09/17/iphone-17-review-roundup----the-best-iphone-for-almost-everyone?utm_source=rss)
- - [How to watch Mark Zuckerberg’s keynote at Meta Connect 2025](https://www.theverge.com/news/777565/meta-connect-2025-how-to-watch-keynote-mark-zuckerberg)
- - [Track power outages in real time across the US with the Ting app](https://www.theverge.com/science/779089/power-outage-blackout-map-app-ting)
- - [Waymo to launch a robotaxi service in Nashville in 2026](https://www.theverge.com/news/779147/waymo-robotaxi-nashville-lyft-2026)<!-- TECH:END -->
+ - [Lyft partners with Waymo to launch fully autonomous robotaxi rides in Nashville starting in 2026, their first collaboration; LYFT jumps 10% &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250917/p25#a250917p25)
+ - [Amazon debuts a chatbot-style assistant to help advertisers use AI to make ads, which can run across Amazon&#39;s ad inventory and platforms that have Amazon deals &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/250917/p24#a250917p24)
+ - [Upgrade your everyday carry setup with these 22 picks](https://www.theverge.com/tech/771373/everyday-carry-edc-gift-guide)
+ - [Sony’s PS5 update adds controller swapping and Power Saving mode](https://www.theverge.com/news/779837/sony-playstation-5-ps5-update-power-saving-mode)
+ - [iPhone 17 Pro &amp; iPhone 17 Pro Max review roundup -- fast, excellent, and orange](https://appleinsider.com/articles/25/09/17/iphone-17-pro-iphone-17-pro-max-review-roundup----fast-excellent-and-orange?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

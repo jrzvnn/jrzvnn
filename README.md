@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 💣 [Sharia law at work.](http://9gag.com/gag/avyDwWW)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 👉 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)<!-- MEMES:END -->
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
+ - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 👉 [He is ....](http://9gag.com/gag/aD2P57Z)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)
+ - [Critics say the Philippine government is prioritizing collecting online casino license fees, projected at ~$1B in 2025, over tackling online gambling addiction &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p2#a250917p2)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
  - [The World Shipping Council launches an AI tool to scan millions of bookings in real time to identify risks of cargo fires, which reached a decade-high in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p1#a250917p1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-17/#ftag=CAD590a51e)
- - [Meta Connect 2025: What&#39;s Next for Quest Headsets, Orion Smart Glasses and More](https://www.cnet.com/tech/meta-connect-2025-whats-next-for-quest-headsets-orion-smart-glasses-and-more/#ftag=CAD590a51e)
- - [Tencent and Baidu sold $3.3B combined in offshore bonds this year, the most ever for Chinese tech companies, as companies secure cheap financing for AI buildout &lpar;Janice Huang/Bloomberg&rpar;](http://www.techmeme.com/250916/p60#a250916p60)
- - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-17/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

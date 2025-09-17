@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
- - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
+ - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 💣 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
  - 😝 [Who feels the same way](http://9gag.com/gag/aryd7EV)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
 
 ---
 

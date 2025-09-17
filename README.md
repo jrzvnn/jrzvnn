@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
- - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 😝 [And if she escapes and calls the police, they put HER in prison.](http://9gag.com/gag/a4Px0mA)
+ - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
+ - 💣 [Glad the bowl didn&#39;t overreact ....](http://9gag.com/gag/aPAp2OP)
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 ---

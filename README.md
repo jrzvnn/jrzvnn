@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: StubHub is pricing its US IPO at $23.50/share after marketing a range of $22-$25, giving it an $8.6B market cap, and will trade under the ticker STUB &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p55#a250916p55)
- - [Mac Mini Sale: Get Into MacOS for Less Than $500 Today](https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/)
- - [Q&amp;A with Amy Lanzi, CEO of marketing and ad agency Digitas, on digital marketing, AI&#39;s impact on advertising, the creator economy, and more &lpar;Hank Green/The Verge&rpar;](http://www.techmeme.com/250916/p54#a250916p54)
- - [US tech giants announce £31B+ in UK investments, coinciding with Trump&#39;s visit to the nation; OpenAI will bring Stargate to the UK with Nvidia and Nscale &lpar;Bloomberg&rpar;](http://www.techmeme.com/250916/p53#a250916p53)
- - [Google is testing a Windows desktop app that brings Mac&#39;s Spotlight-like search bar to PC users, allowing them to search local files, Google Drive, and the web &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250916/p52#a250916p52)<!-- TECH:END -->
+ - [China calls US-China framework deal to move TikTok&#39;s US business to American ownership a &quot;win-win&quot;; Trump and Xi are expected to confirm the agreement on Friday &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p59#a250916p59)
+ - [Singapore-based used car marketplace Carro raised $60M led by Japan sovereign wealth fund Cool Japan Fund to promote Japanese cars in the Asia-Pacific region &lpar;Reuters&rpar;](http://www.techmeme.com/250916/p58#a250916p58)
+ - [Sources: SMIC is testing China&#39;s first domestically produced DUV lithography machine, aiming to reduce reliance on western chipmaking technology &lpar;Financial Times&rpar;](http://www.techmeme.com/250916/p57#a250916p57)
+ - [How Meta&#39;s California super PAC, rare as a single-company entity, lets Mark Zuckerberg spend Meta&#39;s money on his own political choices, including AI regulation &lpar;The Verge&rpar;](http://www.techmeme.com/250916/p56#a250916p56)
+ - [Logitech Lift mouse review: a solid entry-level ergonomic mouse with a few tricks up its sleeve](https://appleinsider.com/articles/25/09/17/logitech-lift-mouse-review-a-solid-entry-level-ergonomic-mouse-with-a-few-tricks-up-its-sleeve?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

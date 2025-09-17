@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Men will be men](http://9gag.com/gag/aPApbdV)
- - 😝 [Not scanning a QR for the menu, standing with the boomers on this one](http://9gag.com/gag/aVvdpZy)
- - 💣 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
- - 😝 [Peak happiness achieved](http://9gag.com/gag/aPApEmQ)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 👉 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Irregular, which helps AI labs test their models&#39; for misuse, raised $80M across seed and Series A rounds led by Sequoia and Redpoint at a $450M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250917/p30#a250917p30)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Liquid Glass is causing a disorientating optical illusion for some iPhone users](https://appleinsider.com/articles/25/09/17/liquid-glass-is-causing-a-disorientating-optical-illusion-for-some-iphone-users?utm_source=rss)
- - [TCL’s new smart lock squeezes four unlocking methods into a door knob](https://www.theverge.com/news/779970/tcl-k1-smart-lock-door-knob-fingerprint)
- - [How xAI is building Colossus 2, which is on track to be the world&#39;s first gigawatt-scale AI datacenter after reaching 200MW in six months &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](http://www.techmeme.com/250917/p29#a250917p29)<!-- TECH:END -->
+ - [Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home](https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge)
+ - [Macroscope, founded by Kayvon Beykpour to let developers find bugs and help product managers track engineering work, raised $40M from GV, Lightspeed, and others &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250917/p32#a250917p32)
+ - [Sources: Reddit is in early talks with Google to deepen integration of its content into Google&#39;s AI products, beyond its $60M data-sharing deal signed in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p31#a250917p31)
+ - [Amazon is creating more tools to fill its site with AI ads](https://www.theverge.com/news/780045/amazon-ai-ads-chatbot-inventory-monitoring)
+ - [Former World of Warcraft lead designer finally shows off new multiplayer game](https://www.theverge.com/news/779968/bonfire-studios-arkheron-trailer-alpha-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

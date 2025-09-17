@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says its reasoning system solved all 12 problems at the 2025 ICPC World Finals, with GPT-5 solving 11 and an experimental model solving the last &lpar;Maximilian Schreiner/The Decoder&rpar;](http://www.techmeme.com/250917/p39#a250917p39)
  - [The DOGE Subcommittee Hearing on Weather Modification Was a Nest of Conspiracy Theorizing](https://www.wired.com/story/the-doge-subcommittee-hearing-on-weather-modification-was-a-nest-of-conspiracy-theorizing/)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off](https://www.wired.com/story/save-big-on-our-favorite-tcl-televisions/)
- - [StubHub&#39;s shares closed down 6.4% in its NYSE debut, giving it an $8.1B market value, after the ticketing platform raised $800M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250917/p38#a250917p38)
- - [Backstabbing and Moral Decay Rule in This Fierce Drama That&#39;s Worth Rewatching](https://www.cnet.com/tech/services-and-software/backstabbing-moral-decay-rule-in-this-fierce-drama-thats-worth-rewatching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [StubHub&#39;s shares closed down 6.4% in its NYSE debut, giving StubHub an $8.1B market value, after the ticketing platform raised $800M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250917/p38#a250917p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

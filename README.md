@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
  - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
- - 😝 [When the protest turns into a love story](http://9gag.com/gag/aD2PvO9)
- - 💣 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 😝 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)
+ - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [Who feels the same way](http://9gag.com/gag/aryd7EV)
  - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
 
 ---

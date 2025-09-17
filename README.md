@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)
  - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
  - 💣 [He is ....](http://9gag.com/gag/aD2P57Z)
- - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 😝 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)
  - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---

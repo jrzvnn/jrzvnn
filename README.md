@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Irregular, which helps AI labs test their models&#39; for misuse, raised $80M across seed and Series A rounds led by Sequoia and Redpoint at a $450M valuation &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/250917/p30#a250917p30)
  - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [Liquid Glass is causing a disorientating optical illusion for some iPhone users](https://appleinsider.com/articles/25/09/17/liquid-glass-is-causing-a-disorientating-optical-illusion-for-some-iphone-users?utm_source=rss)
  - [TCL’s new smart lock squeezes four unlocking methods into a door knob](https://www.theverge.com/news/779970/tcl-k1-smart-lock-door-knob-fingerprint)
- - [How xAI is building Colossus 2, which is on track to be the world&#39;s first gigawatt-scale AI datacenter after reaching 200MW in six months &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](http://www.techmeme.com/250917/p29#a250917p29)
- - [8BitDo’s wireless N64-inspired controller is 30 percent off](https://www.theverge.com/tech/779829/8bitdo-n64-wireless-controller-mission-impossible-rent-deal-sale)<!-- TECH:END -->
+ - [How xAI is building Colossus 2, which is on track to be the world&#39;s first gigawatt-scale AI datacenter after reaching 200MW in six months &lpar;Jeremie Eliahou Ontiveros/SemiAnalysis&rpar;](http://www.techmeme.com/250917/p29#a250917p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

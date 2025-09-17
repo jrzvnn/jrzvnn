@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Change Your Kindle’s Language: Spanish, French, Japanese, and More &lpar;2025&rpar;](https://www.wired.com/story/how-to-change-kindle-language/)
  - [Garmin’s Venu 4 adds an LED flashlight and accessibility upgrades](https://www.theverge.com/news/780138/garmin-venu-4-smartwatch-accessibility-flashlight-color-blindness)
  - [You can soon attend Zoom meetings as your AI avatar](https://www.theverge.com/news/779154/zoom-ai-photorealistic-avatars-live-translation)
  - [Google updates its Search app&#39;s Discover page to let users follow specific publishers and creators; it plans to add YouTube Shorts and X and Instagram posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250917/p33#a250917p33)
- - [Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home](https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge)
- - [Macroscope, which was founded by Periscope&#39;s Kayvon Beykpour to help developers find bugs, raised a $30M Series A led by Lightspeed, following a $10M seed &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250917/p32#a250917p32)<!-- TECH:END -->
+ - [New PS5 Update Lets DualSense Controllers Pair With Multiple Devices at the Same Time](https://www.cnet.com/tech/gaming/new-ps5-update-lets-dualsense-controllers-pair-with-multiple-devices-at-the-same-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

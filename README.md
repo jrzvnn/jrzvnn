@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Low-cost MacBook rumored enter mass production shortly](https://appleinsider.com/articles/25/09/17/low-cost-macbook-rumored-enter-mass-production-shortly?utm_source=rss)
- - [Best Xbox Controller for 2025: Series X and Series S](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)
  - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [&#39;South Park&#39; Streaming Release Schedule: How to Watch on Paramount Plus](https://www.cnet.com/tech/services-and-software/south-park-streaming-release-schedule-how-to-watch-on-paramount-plus/#ftag=CAD590a51e)
- - [How to Change Your Kindle’s Language: Spanish, French, Japanese, and More &lpar;2025&rpar;](https://www.wired.com/story/how-to-change-kindle-language/)<!-- TECH:END -->
+ - [How to Change Your Kindle’s Language: Spanish, French, Japanese, and More &lpar;2025&rpar;](https://www.wired.com/story/how-to-change-kindle-language/)
+ - [Garmin’s Venu 4 adds an LED flashlight and accessibility upgrades](https://www.theverge.com/news/780138/garmin-venu-4-smartwatch-accessibility-flashlight-color-blindness)
+ - [You can soon attend Zoom meetings as your AI avatar](https://www.theverge.com/news/779154/zoom-ai-photorealistic-avatars-live-translation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are dogs not halal enough?](http://9gag.com/gag/a5QxYnV)
- - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Phone vendors are now converting iPhone 12 to iPhone 17 pro max.](http://9gag.com/gag/aqydEdQ)
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
  - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [Not scanning a QR for the menu, standing with the boomers on this one](http://9gag.com/gag/aVvdpZy)
- - 👉 [Meanwhile in Great Britain](http://9gag.com/gag/a9yV08o)<!-- MEMES:END -->
+ - 😝 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 👉 [4 climbing hours for this view](http://9gag.com/gag/aXPdOYV)<!-- MEMES:END -->
 
 ---
 

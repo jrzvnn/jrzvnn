@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba, Tencent, and Baidu have raised $5B+ via bonds this month for AI and digital infra; with JD.com, their combined 2025 AI capex is projected to top $32B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p4#a250917p4)
  - [Foxmont and BCG report: Philippine startups raised a record $1.12B in 2024, up 16.7% YoY, with foreign investment rising to 52.5%, but regulatory hurdles remain &lpar;Ramon Royandoyan/Nikkei Asia&rpar;](http://www.techmeme.com/250917/p3#a250917p3)
  - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)
  - [Critics say the Philippine government is prioritizing collecting online casino license fees, projected at ~$1B in 2025, over tackling online gambling addiction &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p2#a250917p2)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [The World Shipping Council launches an AI tool to scan millions of bookings in real time to identify risks of cargo fires, which reached a decade-high in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p1#a250917p1)<!-- TECH:END -->
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

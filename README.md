@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China told ByteDance, Alibaba, and others to stop testing and ordering Nvidia&#39;s RTX Pro 6000D, a stronger ban than earlier guidance focused on H20 &lpar;Financial Times&rpar;](http://www.techmeme.com/250917/p10#a250917p10)
- - [The Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, rose ~3.9% to its highest level since November 2021, amid renewed AI enthusiasm &lpar;Charlotte Yang/Bloomberg&rpar;](http://www.techmeme.com/250917/p9#a250917p9)
- - [Chinese state media: Alibaba has secured China Unicom as a major client for its AI chips; earlier reports said Alibaba was supplying tens of thousands of chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p8#a250917p8)
- - [A profile of Song-Chun Zhu, an AI scientist and NSF and Pentagon grantee, who left the US after 28 years to lead China&#39;s state-backed AI institute BIGAI in 2020 &lpar;Chang Che/The Guardian&rpar;](http://www.techmeme.com/250917/p7#a250917p7)
- - [Meta Connect 2025: What&#39;s Next for Quest Headsets, Orion Smart Glasses and More](https://www.cnet.com/tech/meta-connect-2025-whats-next-for-quest-headsets-orion-smart-glasses-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Anthropic refused federal law enforcement requests to use its AI models for some tasks, such as the surveillance of US citizens, irking the White House &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/250917/p11#a250917p11)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 17, #359](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-17-359/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 17 #563](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-17-563/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 17, #1551](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-17-1551/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 17, #829](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-17-829/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

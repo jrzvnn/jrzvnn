@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
- - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 😝 [Who feels the same way](http://9gag.com/gag/aryd7EV)
- - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 😝 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 💣 [The most useful knot that you will ever forget](http://9gag.com/gag/a6ZxRBR)
+ - 😝 [Stealth :P](http://9gag.com/gag/aO8jM1E)
+ - 👉 [Peak happiness achieved](http://9gag.com/gag/aPApEmQ)<!-- MEMES:END -->
 
 ---
 

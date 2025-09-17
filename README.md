@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off](https://www.wired.com/story/save-big-on-our-favorite-tcl-televisions/)
  - [StubHub&#39;s shares closed down 6.4% in its NYSE debut, giving it an $8.1B market value, after the ticketing platform raised $800M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250917/p38#a250917p38)
  - [Backstabbing and Moral Decay Rule in This Fierce Drama That&#39;s Worth Rewatching](https://www.cnet.com/tech/services-and-software/backstabbing-moral-decay-rule-in-this-fierce-drama-thats-worth-rewatching/#ftag=CAD590a51e)
- - [Baseus PicoGo MagSafe batteries review: all better than Apple&#39;s new one](https://appleinsider.com/articles/25/09/17/baseus-picogo-magsafe-batteries-review-all-better-than-apples-new-one?utm_source=rss)
- - [Microsoft Paint is getting its own Photoshop-like project files](https://www.theverge.com/news/780287/microsoft-paint-project-files-feature-photoshop-psd)<!-- TECH:END -->
+ - [Baseus PicoGo MagSafe batteries review: all better than Apple&#39;s new one](https://appleinsider.com/articles/25/09/17/baseus-picogo-magsafe-batteries-review-all-better-than-apples-new-one?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

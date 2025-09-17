@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google updates its Search app&#39;s Discover page to let users follow specific publishers and creators; it plans to add YouTube Shorts and X and Instagram posts &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250917/p33#a250917p33)
  - [Tariffs kill the Starling Home Hub, Google Nest’s best bridge to Apple Home](https://www.theverge.com/news/780013/starling-home-hub-discontinued-google-nest-apple-home-bridge)
  - [Macroscope, founded by Kayvon Beykpour to let developers find bugs and help product managers track engineering work, raised $40M from GV, Lightspeed, and others &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250917/p32#a250917p32)
  - [Sources: Reddit is in early talks with Google to deepen integration of its content into Google&#39;s AI products, beyond its $60M data-sharing deal signed in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250917/p31#a250917p31)
- - [Amazon is creating more tools to fill its site with AI ads](https://www.theverge.com/news/780045/amazon-ai-ads-chatbot-inventory-monitoring)
- - [Former World of Warcraft lead designer finally shows off new multiplayer game](https://www.theverge.com/news/779968/bonfire-studios-arkheron-trailer-alpha-date)<!-- TECH:END -->
+ - [Amazon is creating more tools to fill its site with AI ads](https://www.theverge.com/news/780045/amazon-ai-ads-chatbot-inventory-monitoring)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

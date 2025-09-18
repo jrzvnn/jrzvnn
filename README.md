@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
+ - 😝 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
  - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 💣 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
- - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
+ - 💣 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 😝 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
+ - 👉 [For an hour I still don&#39;t know WHY](http://9gag.com/gag/aYQd3xm)<!-- MEMES:END -->
 
 ---
 

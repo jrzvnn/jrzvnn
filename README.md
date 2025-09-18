@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
- - 😝 [Poemic](http://9gag.com/gag/a9yV951)
- - 👉 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)<!-- MEMES:END -->
+ - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 👉 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)<!-- MEMES:END -->
 
 ---
 

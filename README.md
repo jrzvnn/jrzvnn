@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anti-Trump Protesters Take Aim at ‘Naive’ US-UK AI Deal](https://www.wired.com/story/climate-activists-unite-in-london-to-protest-trump-visit-uk/)
- - [Sources: Meta has held talks with Fox Corp. and others about licensing their articles for use in its AI tools, after previously reducing its focus on news &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250918/p13#a250918p13)
- - [iOS 26 Brings All These New Ringtones to Your iPhone](https://www.cnet.com/tech/services-and-software/ios-26-brings-all-these-new-ringtones-to-your-iphone/#ftag=CAD590a51e)
- - [AI Psychosis Is Rarely Psychosis at All](https://www.wired.com/story/ai-psychosis-is-rarely-psychosis-at-all/)
- - [Deliveroo CEO Will Shu will step down once its takeover by DoorDash takes effect; the deal is expected to close by October 2 &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250918/p12#a250918p12)<!-- TECH:END -->
+ - [Reddit wants a better AI deal with Google: users in exchange for content](https://www.theverge.com/news/780769/reddit-ai-google-new-deal)
+ - [Nvidia and Intel announce a partnership to develop multiple new generations of x86 products; Nvidia will purchase $5B of Intel stock at $23.28 per share &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250918/p14#a250918p14)
+ - [The Home Depot Deals During the 2025 Decor Days Sales Event](https://www.wired.com/story/home-depot-decor-days-deals-2025/)
+ - [Cybercriminals Have a Weird New Way to Target You With Scam Texts](https://www.wired.com/story/sms-blasters-scam-texts/)
+ - [Anti-Trump Protesters Take Aim at ‘Naive’ US-UK AI Deal](https://www.wired.com/story/climate-activists-unite-in-london-to-protest-trump-visit-uk/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

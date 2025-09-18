@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)
+ - [Meta Ray-Ban Display won&#39;t challenge Apple&#39;s eventual smart glasses](https://appleinsider.com/articles/25/09/18/meta-ray-ban-display-wont-challenge-apples-eventual-smart-glasses?utm_source=rss)
  - [Nvidia plans to invest £2B to support the UK&#39;s AI industry in partnership with Accel, Air Street Capital, Balderton Capital, Hoxton Ventures, and Phoenix Court &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250918/p36#a250918p36)
  - [Netskope closes up 18.37% at $22.49 per share in its Nasdaq debut, giving it a $8.6B market value, after the cybersecurity company raised $908.2M in its IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p35#a250918p35)
- - [You Can Save $200 on Samsung’s Elite Gaming Monitor Today](https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/)
- - [New iPhones, Apple Watches, and AirPods Pro are shipping to early buyers](https://appleinsider.com/articles/25/09/18/new-iphones-apple-watches-and-airpods-pro-are-shipping-to-early-buyers?utm_source=rss)
- - [The Autumn Equinox Is on Monday. Here&#39;s What It Is and What to Know About It](https://www.cnet.com/science/the-autumn-equinox-is-on-monday-what-it-is-and-what-to-know-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You Can Save $200 on Samsung’s Elite Gaming Monitor Today](https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

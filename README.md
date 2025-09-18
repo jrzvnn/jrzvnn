@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Remember this shit?. Somehow Yoko Ono&#39;s FLAT ASS won over John Lennon&#39;s heart](http://9gag.com/gag/abAdNPO)
+ - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
  - 😝 [Poemic](http://9gag.com/gag/a9yV951)
- - 👉 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)<!-- MEMES:END -->
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China drops antitrust probe into Google, opened in February over Android dominance and its impact on Chinese phonemakers, amid US-China trade talks &lpar;Financial Times&rpar;](http://www.techmeme.com/250918/p4#a250918p4)
  - [ShinyHunters claims it stole 1.5B+ Salesforce records from 760 companies using compromised Salesloft Drift OAuth tokens; a source says the figures are accurate &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250918/p3#a250918p3)
  - [CrowdStrike agrees to acquire Pangea, which protects companies from prompt injection attacks by monitoring AI interactions with users and software, for ~$260M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/250918/p2#a250918p2)
  - [Upscale AI, which is building a suite of open standards-based networking tools for AI infrastructure, raised a $100M+ seed led by Mayfield and Maverick Silicon &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250918/p1#a250918p1)
- - [A US district judge rules Amazon violated consumer law by collecting Prime subscribers&#39; billing info before disclosing terms, handing the FTC a partial win &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p52#a250917p52)
- - [Boox Tab X C review: A jack of all trades, a master of none](https://appleinsider.com/articles/25/09/18/boox-tab-x-c-review-a-jack-of-all-trades-a-master-of-none?utm_source=rss)<!-- TECH:END -->
+ - [A US district judge rules Amazon violated consumer law by collecting Prime subscribers&#39; billing info before disclosing terms, handing the FTC a partial win &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p52#a250917p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

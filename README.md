@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is filling Teams with AI agents](https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents)
  - [Numeral, which provides AI-powered sales tax compliance software, raised a $35M Series B led by Mayfield at a $350M valuation, six months after an $18M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250918/p30#a250918p30)
  - [The FTC is suing Ticketmaster for illegally ‘coordinating’ with brokers](https://www.theverge.com/news/781261/ftc-suing-ticketmaster-antitrust-illegally-coordinating-with-brokers)
- - [Tesla Plans to Redesign Door Handles That Could Trap Passengers in Cars](https://www.cnet.com/roadshow/news/tesla-plans-to-redesign-door-handles-that-could-trap-passengers-in-cars/#ftag=CAD590a51e)
- - [Apple Music Now Lets You Transfer Playlists From Spotify. Why You May Want To](https://www.cnet.com/tech/services-and-software/apple-music-now-lets-you-transfer-playlists-from-spotify-why-you-may-want-to/#ftag=CAD590a51e)
- - [Google is rolling out a Gemini button in Chrome for all desktop users in the US browsing in English, and other AI features, including AI Mode in the address bar &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250918/p29#a250918p29)<!-- TECH:END -->
+ - [Google is rolling out a Gemini button in Chrome for all desktop users in the US browsing in English, and other AI features, including AI Mode in the address bar &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250918/p29#a250918p29)
+ - [Google Injects Gemini Into Chrome as AI Browsers Go Mainstream](https://www.wired.com/story/google-gemini-ai-chrome-browser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

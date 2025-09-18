@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung brings ads to US fridges](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)
- - [Filing: Insight Partners says a ransomware attack on its systems between October 2024 and January 2025 affected 12,600+ people, including limited partners &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250918/p11#a250918p11)
- - [Huawei unveils two new SuperPoD products, the Atlas 950 and Atlas 960, the latter linking up to 15,488 Ascend AI chips, as it seeks to challenge Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p10#a250918p10)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 18 #564](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-18-564/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 18, #360](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-18-360/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deliveroo CEO Will Shu will step down once its takeover by DoorDash takes effect; the deal is expected to close by October 2 &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250918/p12#a250918p12)
+ - [iPhone Fold will spearhead huge upgrade cycle in 2026](https://appleinsider.com/articles/25/09/18/iphone-fold-will-spearhead-huge-upgrade-cycle-in-2026?utm_source=rss)
+ - [Tesla is updating its passenger-trapping door handles](https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles)
+ - [Meta’s New Smart Glasses Got a Subtle Name Change. It Speaks Volumes About What’s Wrong With Them](https://www.wired.com/story/metas-new-smart-glasses-got-a-subtle-name-change-it-speaks-volumes-about-whats-wrong-with-them/)
+ - [Samsung brings ads to US fridges](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

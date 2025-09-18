@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Luma AI partners with Adobe to bring its generative video model Ray3 to Firefly&#39;s paid users; Ray3 creates highly realistic 10-second videos without dialogue &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250918/p21#a250918p21)
- - [Google will use hashes to find and remove nonconsensual intimate imagery from Search](https://www.theverge.com/news/780852/google-stopncii-nonconsensual-intimate-imagery-hashes)
- - [Atlassian acquires developer productivity platform DX for $1B in cash and restricted stock; DX has 350+ enterprise customers and raised less than $5M &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250918/p20#a250918p20)
- - [Best Apple Watch &lpar;2025&rpar;: Buyer’s Guide to the Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)
- - [Meta unveils new Ray Ban glasses as it aims to get ahead of Apple](https://appleinsider.com/articles/25/09/18/meta-unveils-new-ray-ban-glasses-as-it-aims-to-get-ahead-of-apple?utm_source=rss)<!-- TECH:END -->
+ - [Google plans to start using StopNCII&#39;s hashes to proactively identify nonconsensual images in search results and remove them &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250918/p23#a250918p23)
+ - [You can turn off iOS 26&amp;#8217;s obtrusive new screenshot previews](https://www.theverge.com/news/780921/apple-ios-26-iphone-screenshot-preview-disable-settings)
+ - [How to Trade In or Sell Your iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
+ - [How chatbots — and their makers — are enabling AI psychosis](https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health)
+ - [Torras Ostand Q3 Silicone case for iPhone 17 Pro Max offers premium style and function](https://appleinsider.com/articles/25/09/18/torras-ostand-q3-silicone-case-for-iphone-17-pro-max-offers-premium-style-and-function?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

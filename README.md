@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [The horror](http://9gag.com/gag/ae9dB7W)
  - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
  - 😝 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)
- - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
+ - 👉 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing launches Ear 3, with a Super Mic system activated by a Talk button on the case, available on September 25 for $179 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250918/p18#a250918p18)
- - [Fortnite creators will soon be able to sell in-game items](https://www.theverge.com/games/780819/fortnite-creators-sell-items)
- - [A look at Live Translation on AirPods Pro, one of the strongest examples yet of how AI can be used in a seamless, practical way to improve people&#39;s lives &lpar;Brian X. Chen/New York Times&rpar;](http://www.techmeme.com/250918/p17#a250918p17)
- - [Steam is dropping Windows 32-bit support in 2026](https://www.theverge.com/news/780806/valve-steam-32-bit-windows-support-end)
- - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)<!-- TECH:END -->
+ - [Meta unveils new Ray Ban glasses as it aims to get ahead of Apple](https://appleinsider.com/articles/25/09/18/meta-unveils-new-ray-ban-glasses-as-it-aims-to-get-ahead-of-apple?utm_source=rss)
+ - [Inside Apple&#39;s obsessive quest to make earbuds feel like a concert](https://appleinsider.com/articles/25/09/18/inside-apples-obsessive-quest-to-make-earbuds-feel-like-a-concert?utm_source=rss)
+ - [In a peer-reviewed Nature article, DeepSeek says it has spent $294,000 on training its R1 model and used 512 Nvidia H800 chips &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250918/p19#a250918p19)
+ - [Auk Mini Review: Start Your Own Seeds, Scandinavian Style](https://www.wired.com/review/auk-mini/)
+ - [Corsair’s new gaming mouse is as lightweight as $.35 in nickels](https://www.theverge.com/news/776782/corsair-sabre-v2-pro-ultralight-gaming-mouse-weight-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple Watch looks for hypertension and what do if you get an alert](https://appleinsider.com/articles/25/09/18/how-apple-watch-looks-for-hypertension-and-what-do-if-you-get-an-alert?utm_source=rss)
+ - [Nvidia invests $5 billion into Intel to jointly develop PC and data center chips](https://www.theverge.com/news/780792/nvidia-intel-investment-pc-chips-data-center)
  - [Niamh Sweeney, Facebook&#39;s former head of public policy in Ireland, is appointed as Ireland&#39;s new Data Protection Commissioner, starting October 13 &lpar;Peter Flanagan/The Irish Times&rpar;](http://www.techmeme.com/250918/p15#a250918p15)
  - [Reddit wants a better AI deal with Google: users in exchange for content](https://www.theverge.com/news/780769/reddit-ai-google-new-deal)
- - [Nvidia and Intel announce a partnership to develop multiple generations of x86 products; Nvidia will buy $5B of Intel stock at $23.28 per share; INTC jumps 20%+ &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250918/p14#a250918p14)
- - [The Home Depot Deals During the 2025 Decor Days Sales Event](https://www.wired.com/story/home-depot-decor-days-deals-2025/)
- - [Cybercriminals Have a Weird New Way to Target You With Scam Texts](https://www.wired.com/story/sms-blasters-scam-texts/)<!-- TECH:END -->
+ - [Nvidia and Intel announce a partnership to develop multiple generations of x86 products; Nvidia will buy $5B of Intel stock at $23.28 per share; INTC jumps 20%+ &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250918/p14#a250918p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

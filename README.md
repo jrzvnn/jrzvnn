@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is partnering with StopNCII to combat nonconsensual images](https://www.theverge.com/news/780852/google-stopncii-nonconsensual-intimate-imagery-hashes)
+ - [Luma AI partners with Adobe to bring its generative video model Ray3 to Firefly&#39;s paid users; Ray3 creates highly realistic 10-second videos without dialogue &lpar;Steven Zeitchik/The Hollywood Reporter&rpar;](http://www.techmeme.com/250918/p21#a250918p21)
+ - [Google will use hashes to find and remove nonconsensual intimate imagery from Search](https://www.theverge.com/news/780852/google-stopncii-nonconsensual-intimate-imagery-hashes)
  - [Atlassian acquires developer productivity platform DX for $1B in cash and restricted stock; DX has 350+ enterprise customers and raised less than $5M &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250918/p20#a250918p20)
  - [Best Apple Watch &lpar;2025&rpar;: Buyer’s Guide to the Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)
- - [Meta unveils new Ray Ban glasses as it aims to get ahead of Apple](https://appleinsider.com/articles/25/09/18/meta-unveils-new-ray-ban-glasses-as-it-aims-to-get-ahead-of-apple?utm_source=rss)
- - [Inside Apple&#39;s obsessive quest to make earbuds feel like a concert](https://appleinsider.com/articles/25/09/18/inside-apples-obsessive-quest-to-make-earbuds-feel-like-a-concert?utm_source=rss)<!-- TECH:END -->
+ - [Meta unveils new Ray Ban glasses as it aims to get ahead of Apple](https://appleinsider.com/articles/25/09/18/meta-unveils-new-ray-ban-glasses-as-it-aims-to-get-ahead-of-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
- - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 💣 [Memories](http://9gag.com/gag/aLnbxGz)
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
+ - 💣 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
  - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
  - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
  - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 💣 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
  - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 👉 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)<!-- MEMES:END -->
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---
 

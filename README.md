@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is filling Teams with AI agents](https://www.theverge.com/news/781278/microsoft-teams-copilot-ai-agents)
- - [Numeral, which provides AI-powered sales tax compliance software, raised a $35M Series B led by Mayfield at a $350M valuation, six months after an $18M Series A &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250918/p30#a250918p30)
- - [The FTC is suing Ticketmaster for illegally ‘coordinating’ with brokers](https://www.theverge.com/news/781261/ftc-suing-ticketmaster-antitrust-illegally-coordinating-with-brokers)
- - [Google is rolling out a Gemini button in Chrome for all desktop users in the US browsing in English, and other AI features, including AI Mode in the address bar &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250918/p29#a250918p29)
- - [Google Injects Gemini Into Chrome as AI Browsers Go Mainstream](https://www.wired.com/story/google-gemini-ai-chrome-browser/)<!-- TECH:END -->
+ - [Meta announces a preview of the Wearable Device Access Toolkit, which lets developers build apps that use the vision and audio capabilities of its smart glasses &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250918/p31#a250918p31)
+ - [Deals: 1TB M4 Pro MacBook Pro falls to $1,899, plus save up to $500](https://appleinsider.com/articles/25/09/18/deals-1tb-m4-pro-macbook-pro-falls-to-1899-plus-save-up-to-500?utm_source=rss)
+ - [Meta&amp;#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)
+ - [Apple releases last-minute iOS 26 fix ahead of iPhone 17 Pro launch](https://appleinsider.com/articles/25/09/18/apple-releases-last-minute-ios-26-fix-ahead-of-iphone-17-pro-launch?utm_source=rss)
+ - [Meta is opening up its smart glasses to developers](https://www.theverge.com/news/780943/meta-smart-glasses-developer-toolkit-ray-ban-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

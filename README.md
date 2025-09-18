@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is partnering with StopNCII to combat nonconsensual images](https://www.theverge.com/news/780852/google-stopncii-nonconsensual-intimate-imagery-hashes)
+ - [Atlassian acquires developer productivity platform DX for $1B in cash and restricted stock; DX has 350+ enterprise customers and raised less than $5M &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250918/p20#a250918p20)
+ - [Best Apple Watch &lpar;2025&rpar;: Buyer’s Guide to the Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)
  - [Meta unveils new Ray Ban glasses as it aims to get ahead of Apple](https://appleinsider.com/articles/25/09/18/meta-unveils-new-ray-ban-glasses-as-it-aims-to-get-ahead-of-apple?utm_source=rss)
- - [Inside Apple&#39;s obsessive quest to make earbuds feel like a concert](https://appleinsider.com/articles/25/09/18/inside-apples-obsessive-quest-to-make-earbuds-feel-like-a-concert?utm_source=rss)
- - [In a peer-reviewed Nature article, DeepSeek says it has spent $294,000 on training its R1 model and used 512 Nvidia H800 chips &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250918/p19#a250918p19)
- - [Auk Mini Review: Start Your Own Seeds, Scandinavian Style](https://www.wired.com/review/auk-mini/)
- - [Corsair’s new gaming mouse is as lightweight as $.35 in nickels](https://www.theverge.com/news/776782/corsair-sabre-v2-pro-ultralight-gaming-mouse-weight-specs-price)<!-- TECH:END -->
+ - [Inside Apple&#39;s obsessive quest to make earbuds feel like a concert](https://appleinsider.com/articles/25/09/18/inside-apples-obsessive-quest-to-make-earbuds-feel-like-a-concert?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

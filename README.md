@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
- - 😝 [The horror](http://9gag.com/gag/ae9dB7W)
- - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
- - 😝 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)
- - 👉 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)<!-- MEMES:END -->
+ - 😝 [Remember this shit?. Somehow Yoko Ono&#39;s FLAT ASS won over John Lennon&#39;s heart](http://9gag.com/gag/abAdNPO)
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 💣 [Ok maybe we should start getting worried](http://9gag.com/gag/a34xXLr)
+ - 😝 [Still remember this sound, it was a classic](http://9gag.com/gag/an7d6Vo)
+ - 👉 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)<!-- MEMES:END -->
 
 ---
 

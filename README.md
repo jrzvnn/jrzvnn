@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Collision With Another Planet Could Have Allowed for Life on Earth](https://www.wired.com/story/a-collision-with-another-planet-could-have-allowed-for-life-on-earth/)
  - [Rivian’s e-bike leaks ahead of next month’s announcement](https://www.theverge.com/news/780734/rivians-e-bike-leaks-ahead-of-next-months-announcement)
  - [For Staying Present, I Now Click on This Bird ID App Instead of My Meditation Apps](https://www.cnet.com/health/for-staying-present-now-click-bird-id-app-instead-meditation-apps/#ftag=CAD590a51e)
  - [7 Pieces of Wellness Tech That Could Be Covered by Your HSA](https://www.cnet.com/health/pieces-wellness-tech-could-be-covered-by-your-hsa/#ftag=CAD590a51e)
- - [Source: SoftBank&#39;s plans for a JV with OpenAI to bring AI to Japanese corporate customers are well behind schedule, with an update now expected in November &lpar;Yusuke Ogawa/Reuters&rpar;](http://www.techmeme.com/250918/p9#a250918p9)
- - [Anthropic details three infrastructure bugs that intermittently degraded Claude&#39;s responses between August and early September, and explains how they were fixed &lpar;Anthropic&rpar;](http://www.techmeme.com/250918/p8#a250918p8)<!-- TECH:END -->
+ - [Source: SoftBank&#39;s plans for a JV with OpenAI to bring AI to Japanese corporate customers are well behind schedule, with an update now expected in November &lpar;Yusuke Ogawa/Reuters&rpar;](http://www.techmeme.com/250918/p9#a250918p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

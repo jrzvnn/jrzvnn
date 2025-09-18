@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 💣 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
- - 😝 [Who feels the same way](http://9gag.com/gag/aryd7EV)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
+ - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 💣 [Enough To Make A Grown Man Cry!](http://9gag.com/gag/aryd75V)
+ - 😝 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)
+ - 👉 [Mighty Titler](http://9gag.com/gag/avyDKzE)<!-- MEMES:END -->
 
 ---
 

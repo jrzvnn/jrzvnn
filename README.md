@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
- - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
+ - 💣 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
  - 😝 [Be anything](http://9gag.com/gag/aMVW3xP)
- - 👉 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)<!-- MEMES:END -->
+ - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why your outdoorsy friend suddenly has a gummy bear power bank](https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank)
+ - [Samsung rolls out a software update to display promotions and ads on the Cover Screens of some Family Hub refrigerators in the US as part of a pilot program &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250918/p32#a250918p32)
+ - [Apple Vision Pro rumored to leverage cutting-edge 2nm process with new R2 chip](https://appleinsider.com/articles/25/09/18/apple-vision-pro-rumored-to-leverage-cutting-edge-2nm-process-with-new-r2-chip?utm_source=rss)
  - [Ubiquiti’s new desktop NAS looks more like a wireless router](https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup)
- - [I’ve Spent Thousands of Hours Testing the Best 3D Printers. There Are Some Clear Winners](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)
- - [Meta announces a preview of the Wearable Device Access Toolkit, which lets developers build apps that use the vision and audio capabilities of its smart glasses &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250918/p31#a250918p31)
- - [Deals: 1TB M4 Pro MacBook Pro falls to $1,899, plus save up to $500](https://appleinsider.com/articles/25/09/18/deals-1tb-m4-pro-macbook-pro-falls-to-1899-plus-save-up-to-500?utm_source=rss)
- - [Meta&amp;#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)<!-- TECH:END -->
+ - [I’ve Spent Thousands of Hours Testing the Best 3D Printers. There Are Some Clear Winners](https://www.cnet.com/tech/computing/best-3d-printer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

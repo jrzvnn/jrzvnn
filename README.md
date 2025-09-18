@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple TV+ &#39;The Last Frontier&#39; throws Jason Clarke into Alaska&#39;s frozen hellscape](https://appleinsider.com/articles/25/09/18/apple-tv-the-last-frontier-throws-jason-clarke-into-alaskas-frozen-hellscape?utm_source=rss)
+ - [Political Influencers Are Ramping Up Security—and Posting Through It](https://www.wired.com/story/political-influencers-are-ramping-up-security-and-posting-through-it/)
  - [Inside Apple&#39;s Audio Labs, where the company develops features like spatial audio and uses tuning studios as reference points for AirPods and other products &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250918/p24#a250918p24)
  - [What it takes to make sure the Apple Watch works anywhere](https://appleinsider.com/articles/25/09/18/what-it-takes-to-make-sure-the-apple-watch-works-anywhere?utm_source=rss)
- - [25 Amazon Prime Perks You Might Not Be Using &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-perks/)
- - [Google plans to start using StopNCII&#39;s hashes to proactively identify nonconsensual images in search results and remove them &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250918/p23#a250918p23)<!-- TECH:END -->
+ - [25 Amazon Prime Perks You Might Not Be Using &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-perks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

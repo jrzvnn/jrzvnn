@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Injects Gemini Into Chrome as AI Browsers Go Mainstream](https://www.wired.com/story/google-gemini-ai-chrome-browser/)
+ - [Google is expanding Gemini in Chrome and letting it do stuff for you](https://www.theverge.com/ai-artificial-intelligence/781192/chrome-gemini-ai-agentic-update-google-mac-windows)
+ - [Ray-Ban Display glasses are Zuckerberg&#39;s latest bid to reframe Meta, focusing on &quot;personal superintelligence&quot;, but they face technical and societal challenges &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250918/p28#a250918p28)
  - [Yes, Jimmy Kimmel’s suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)
- - [Netskope opened up 21% at $23 per share in its Nasdaq debut, giving it a ~$8.79B market cap, after the cybersecurity company raised $908.2M in its IPO &lpar;Reuters&rpar;](http://www.techmeme.com/250918/p27#a250918p27)
- - [Israel formally states it did not kill Charlie Kirk](https://www.theverge.com/policy/781158/benjamin-netanyahu-charlie-kirk-conspiracy)
- - [The US FTC and seven states sue Live Nation and its Ticketmaster subsidiary for failing to stem the use of bots and large-scale resale operations &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250918/p26#a250918p26)
- - [Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide](https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download)<!-- TECH:END -->
+ - [Champions League Soccer: Livestream Man City vs. Napoli Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-man-city-vs-napoli-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

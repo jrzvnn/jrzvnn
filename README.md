@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be anything](http://9gag.com/gag/aMVW3xP)
- - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 💣 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
- - 😝 [Rage Comic #025](http://9gag.com/gag/azxB0Nz)
- - 👉 [Poemic](http://9gag.com/gag/a9yV951)<!-- MEMES:END -->
+ - 😝 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
+ - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 💣 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
+ - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
 
 ---
 

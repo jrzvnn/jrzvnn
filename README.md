@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI Psychosis Is Rarely Psychosis at All](https://www.wired.com/story/ai-psychosis-is-rarely-psychosis-at-all/)
  - [Deliveroo CEO Will Shu will step down once its takeover by DoorDash takes effect; the deal is expected to close by October 2 &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250918/p12#a250918p12)
  - [iPhone Fold will spearhead huge upgrade cycle in 2026](https://appleinsider.com/articles/25/09/18/iphone-fold-will-spearhead-huge-upgrade-cycle-in-2026?utm_source=rss)
  - [Tesla is updating its passenger-trapping door handles](https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles)
- - [Meta’s New Smart Glasses Got a Subtle Name Change. It Speaks Volumes About What’s Wrong With Them](https://www.wired.com/story/metas-new-smart-glasses-got-a-subtle-name-change-it-speaks-volumes-about-whats-wrong-with-them/)
- - [Samsung brings ads to US fridges](https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges)<!-- TECH:END -->
+ - [Meta’s New Smart Glasses Got a Subtle Name Change. It Speaks Volumes About What’s Wrong With Them](https://www.wired.com/story/metas-new-smart-glasses-got-a-subtle-name-change-it-speaks-volumes-about-whats-wrong-with-them/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

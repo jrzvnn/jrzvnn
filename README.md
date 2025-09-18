@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
- - 💣 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 👉 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)<!-- MEMES:END -->
+ - 😝 [You can&#39;t have nice things](http://9gag.com/gag/ae9dnyB)
+ - 😝 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
+ - 💣 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - 😝 [Seconds before being shot...](http://9gag.com/gag/aZZdeR6)
+ - 👉 [Zeitgeist](http://9gag.com/gag/aAymjog)<!-- MEMES:END -->
 
 ---
 

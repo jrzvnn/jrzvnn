@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anti-Trump Protesters Take Aim at ‘Naive’ US-UK AI Deal](https://www.wired.com/story/climate-activists-unite-in-london-to-protest-trump-visit-uk/)
  - [Sources: Meta has held talks with Fox Corp. and others about licensing their articles for use in its AI tools, after previously reducing its focus on news &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250918/p13#a250918p13)
+ - [iOS 26 Brings All These New Ringtones to Your iPhone](https://www.cnet.com/tech/services-and-software/ios-26-brings-all-these-new-ringtones-to-your-iphone/#ftag=CAD590a51e)
  - [AI Psychosis Is Rarely Psychosis at All](https://www.wired.com/story/ai-psychosis-is-rarely-psychosis-at-all/)
- - [Deliveroo CEO Will Shu will step down once its takeover by DoorDash takes effect; the deal is expected to close by October 2 &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250918/p12#a250918p12)
- - [iPhone Fold will spearhead huge upgrade cycle in 2026](https://appleinsider.com/articles/25/09/18/iphone-fold-will-spearhead-huge-upgrade-cycle-in-2026?utm_source=rss)
- - [Tesla is updating its passenger-trapping door handles](https://www.theverge.com/news/780744/tesla-redesigning-passenger-trapping-door-handles)<!-- TECH:END -->
+ - [Deliveroo CEO Will Shu will step down once its takeover by DoorDash takes effect; the deal is expected to close by October 2 &lpar;Yadarisa Shabong/Reuters&rpar;](http://www.techmeme.com/250918/p12#a250918p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

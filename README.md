@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s the Best iPhone to Buy or Avoid Right Now? &lpar;2025&rpar;](https://www.wired.com/gallery/iphone-buying-guide/)
- - [Seven indie games that will upgrade your downtime this fall](https://www.theverge.com/games/774447/upgrade-downtime-indie-games-2025)
- - [Robotaxis as public transit? Waymo thinks so](https://www.theverge.com/news/780156/waymo-via-robotaxi-microtransit-chandler-flex)
- - [Shein launches Xcelerator, a service granting fashion brands access to its fast-fashion manufacturing network in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p16#a250918p16)
- - [How Apple Watch looks for hypertension and what do if you get an alert](https://appleinsider.com/articles/25/09/18/how-apple-watch-looks-for-hypertension-and-what-do-if-you-get-an-alert?utm_source=rss)<!-- TECH:END -->
+ - [Nothing launches Ear 3, with a Super Mic system activated by a Talk button on the case, available on September 25 for $179 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250918/p18#a250918p18)
+ - [Fortnite creators will soon be able to sell in-game items](https://www.theverge.com/games/780819/fortnite-creators-sell-items)
+ - [A look at Live Translation on AirPods Pro, one of the strongest examples yet of how AI can be used in a seamless, practical way to improve people&#39;s lives &lpar;Brian X. Chen/New York Times&rpar;](http://www.techmeme.com/250918/p17#a250918p17)
+ - [Steam is dropping Windows 32-bit support in 2026](https://www.theverge.com/news/780806/valve-steam-32-bit-windows-support-end)
+ - [How to Back Up Your iPhone to iCloud, MacOS, or Windows &lpar;2025&rpar;](https://www.wired.com/story/how-to-backup-your-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

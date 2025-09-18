@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
- - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
+ - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---
 

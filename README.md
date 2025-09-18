@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You Can Save $200 on Samsung&#39;s Elite Gaming Monitor Today](https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/)
  - [New iPhones, Apple Watches, and AirPods Pro are shipping to early buyers](https://appleinsider.com/articles/25/09/18/new-iphones-apple-watches-and-airpods-pro-are-shipping-to-early-buyers?utm_source=rss)
- - [The Autumn Equinox Is on Monday. Here&#39;s What It Is and What to Know About It](https://www.cnet.com/science/the-autumn-equinox-is-on-monday-what-it-is-and-what-to-know-about-it/#ftag=CAD590a51e)
  - [Brendan Carr Isn&#39;t Going to Stop Until Someone Makes Him](https://www.wired.com/story/brendan-carr-isnt-going-to-stop-until-someone-makes-him/)
  - [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd)
  - [Hyundai CEO distances company from ICE raid: ‘not our facility’](https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump)<!-- TECH:END -->

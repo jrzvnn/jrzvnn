@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI and Apollo Research trained o3 and o4-mini versions to not engage in &quot;scheming&quot;, or secretly pursuing undesirable goals, reducing &quot;covert actions&quot; ~30X &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250918/p7#a250918p7)
  - [Activist investor Elliott announces a $2B stake in Workday and says the company&#39;s new multi-year plan will drive &quot;substantial long-term value creation&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250918/p6#a250918p6)
  - [Google says India has emerged as the No. 1 country for Nano Banana model usage, making Gemini the top free app on both the App Store and Google Play in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250918/p5#a250918p5)
  - [Sources: China drops antitrust probe into Google, opened in February over Android dominance and its impact on Chinese phonemakers, amid US-China trade talks &lpar;Financial Times&rpar;](http://www.techmeme.com/250918/p4#a250918p4)
- - [ShinyHunters claims it stole 1.5B+ Salesforce records from 760 companies using compromised Salesloft Drift OAuth tokens; a source says the figures are accurate &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250918/p3#a250918p3)
- - [CrowdStrike agrees to acquire Pangea, which protects companies from prompt injection attacks by monitoring AI interactions with users and software, for ~$260M &lpar;James Rundle/Wall Street Journal&rpar;](http://www.techmeme.com/250918/p2#a250918p2)<!-- TECH:END -->
+ - [ShinyHunters claims it stole 1.5B+ Salesforce records from 760 companies using compromised Salesloft Drift OAuth tokens; a source says the figures are accurate &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/250918/p3#a250918p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

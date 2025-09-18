@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is rolling out a Gemini button in Chrome for all desktop users in the US browsing in English, and other AI features, including AI Mode in the address bar &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250918/p29#a250918p29)
  - [Google Injects Gemini Into Chrome as AI Browsers Go Mainstream](https://www.wired.com/story/google-gemini-ai-chrome-browser/)
  - [Google is expanding Gemini in Chrome and letting it do stuff for you](https://www.theverge.com/ai-artificial-intelligence/781192/chrome-gemini-ai-agentic-update-google-mac-windows)
  - [Ray-Ban Display glasses are Zuckerberg&#39;s latest bid to reframe Meta, focusing on &quot;personal superintelligence&quot;, but they face technical and societal challenges &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/250918/p28#a250918p28)
- - [Yes, Jimmy Kimmel’s suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)
- - [Champions League Soccer: Livestream Man City vs. Napoli Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-man-city-vs-napoli-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yes, Jimmy Kimmel’s suspension was government censorship](https://www.theverge.com/policy/781148/jimmy-kimmel-charlie-kirk-monologue-brendan-carr-censorship-first-amendment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

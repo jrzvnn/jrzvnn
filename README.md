@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
+ - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 💣 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
  - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 💣 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - 😝 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
 
 ---
 

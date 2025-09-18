@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
- - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 💣 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
  - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 👉 [Booooo](http://9gag.com/gag/a87nRz6)<!-- MEMES:END -->
+ - 😝 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
+ - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---
 

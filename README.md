@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netskope opened up 21% at $23 per share in its Nasdaq debut, giving it a ~$8.79B market cap, after the cybersecurity company raised $908.2M in its IPO &lpar;Reuters&rpar;](http://www.techmeme.com/250918/p27#a250918p27)
  - [Israel formally states it did not kill Charlie Kirk](https://www.theverge.com/policy/781158/benjamin-netanyahu-charlie-kirk-conspiracy)
  - [The US FTC and seven states sue Live Nation and its Ticketmaster subsidiary for failing to stem the use of bots and large-scale resale operations &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/250918/p26#a250918p26)
  - [Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide](https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download)
- - [Satya Nadella is haunted at the prospect of Microsoft not surviving the AI era](https://www.theverge.com/tech/780946/microsoft-satya-nadella-town-hall-comments-ai-era-notepad)
- - [Anker’s recent power bank recall involves over 481,000 units](https://www.theverge.com/news/781072/anker-power-bank-uscpsc-global-recall-fire-risk-battery-zolo-maggo)<!-- TECH:END -->
+ - [Satya Nadella is haunted at the prospect of Microsoft not surviving the AI era](https://www.theverge.com/tech/780946/microsoft-satya-nadella-town-hall-comments-ai-era-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

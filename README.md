@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - 💣 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 😝 [God, they are too good at marketing.](http://9gag.com/gag/amodERj)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 👉 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)<!-- MEMES:END -->
 
 ---
 

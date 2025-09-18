@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: White House weighs more CFTC chair candidates, including government officials focused on crypto policy, as Brian Quintenz&#39;s nomination remains stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p37#a250918p37)
+ - [Intel says Arc GPUs will live on after Nvidia deal](https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal)
  - [MagSafe Battery for iPhone Air uses the same battery type as the phone itself](https://appleinsider.com/articles/25/09/18/magsafe-battery-for-iphone-air-uses-the-same-battery-type-as-the-phone-itself?utm_source=rss)
  - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)
- - [Meta Ray-Ban Display won&#39;t challenge Apple&#39;s eventual smart glasses](https://appleinsider.com/articles/25/09/18/meta-ray-ban-display-wont-challenge-apples-eventual-smart-glasses?utm_source=rss)
- - [Nvidia plans to invest £2B to support the UK&#39;s AI industry in partnership with Accel, Air Street Capital, Balderton Capital, Hoxton Ventures, and Phoenix Court &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/250918/p36#a250918p36)<!-- TECH:END -->
+ - [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Massive Attack turning facial recognition into a live art statement](http://9gag.com/gag/a34x6BQ)
  - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 💣 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - 😝 [An oldie from the archives...](http://9gag.com/gag/azxB03N)
+ - 💣 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 😝 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
  - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---

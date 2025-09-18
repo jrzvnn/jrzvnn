@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 😝 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)
- - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
- - 😝 [If you put me in charge of interior design](http://9gag.com/gag/aLnb7bW)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 😝 [Dog leads officer to his leash before being led out the door. DOG: `mom said I can&#39;t go anywhere without it`](http://9gag.com/gag/aGyomqX)
+ - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
+ - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 😝 [Be anything](http://9gag.com/gag/aMVW3xP)
+ - 👉 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)<!-- MEMES:END -->
 
 ---
 

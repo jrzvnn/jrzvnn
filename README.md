@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)
- - 😝 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
- - 💣 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
+ - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 👉 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)<!-- MEMES:END -->
 
 ---
 

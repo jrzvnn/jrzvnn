@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Move Aside, Chatbots: AI Humanoids Are Here](https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/)
+ - [Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal](https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/)
  - [Verge readers can get 20 percent off Nanoleaf wall lights](https://www.theverge.com/tech/781437/nanoleaf-blocks-squares-playstation-portal-deal-sale)
  - [British renewable energy startup Octopus Energy spins off its AI arm, Kraken, in what could create a stand-alone entity worth $15B &lpar;Yusuf Khan/Wall Street Journal&rpar;](http://www.techmeme.com/250918/p34#a250918p34)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
- - [Rex-Osprey launches the first spot dogecoin and XRP ETFs in the US after the SEC approved generic listing standards, paving the way for speedier ETF listings &lpar;Yaël Bizouati-Kennedy/Sherwood News&rpar;](http://www.techmeme.com/250918/p33#a250918p33)
- - [New Bill Aims to Block Both Online Adult Content and VPNs: How Your VPN Could Be Affected](https://www.cnet.com/tech/services-and-software/new-bill-aims-to-block-both-online-adult-content-and-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verge readers can get 20 percent off Nanoleaf wall lights](https://www.theverge.com/tech/781437/nanoleaf-blocks-squares-playstation-portal-deal-sale)
+ - [British renewable energy startup Octopus Energy spins off its AI arm, Kraken, in what could create a stand-alone entity worth $15B &lpar;Yusuf Khan/Wall Street Journal&rpar;](http://www.techmeme.com/250918/p34#a250918p34)
  - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
  - [Rex-Osprey launches the first spot dogecoin and XRP ETFs in the US after the SEC approved generic listing standards, paving the way for speedier ETF listings &lpar;Yaël Bizouati-Kennedy/Sherwood News&rpar;](http://www.techmeme.com/250918/p33#a250918p33)
- - [Why your outdoorsy friend suddenly has a gummy bear power bank](https://www.theverge.com/tech/781387/backpacking-ultralight-haribo-power-bank)
- - [Samsung rolls out a software update to display promotions and ads on the Cover Screens of some Family Hub refrigerators in the US as part of a pilot program &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/250918/p32#a250918p32)
- - [Apple Vision Pro rumored to leverage cutting-edge 2nm process with new R2 chip](https://appleinsider.com/articles/25/09/18/apple-vision-pro-rumored-to-leverage-cutting-edge-2nm-process-with-new-r2-chip?utm_source=rss)<!-- TECH:END -->
+ - [New Bill Aims to Block Both Online Adult Content and VPNs: How Your VPN Could Be Affected](https://www.cnet.com/tech/services-and-software/new-bill-aims-to-block-both-online-adult-content-and-vpns/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

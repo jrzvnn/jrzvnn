@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netskope priced its IPO at $19 per share, at the top of its targeted range, valuing the company at $7.3B, and raised $908.2M in the offering &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/250917/p40#a250917p40)
- - [Here&amp;#8217;s the Jimmy Kimmel clip that got him pulled off the air](https://www.theverge.com/policy/780502/heres-the-jimmy-kimmel-clip-that-got-him-pulled-off-the-air)
- - [Jimmy Kimmel Live pulled ‘indefinitely’ for joke about Charlie Kirk’s killer after FCC threat](https://www.theverge.com/news/780471/disney-abc-jimmy-kimmel-live-charlie-kirk)
- - [All the news from Meta Connect 2025](https://www.theverge.com/news/777572/meta-connect-2025-news-announcements-mark-zuckerberg-smart-glasses)
- - [&#39;The Off Weeks&#39; drama starring Ben Stiller coming to Apple TV+](https://appleinsider.com/articles/25/09/17/the-off-weeks-drama-starring-ben-stiller-coming-to-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)
+ - [Meta&amp;#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)
+ - [Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets](https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming)
+ - [Meta unveils Meta Ray-Ban Display, with a screen in the right lens and the Meta Neural Band, a wristband that detects hand gestures, on sale Sept. 30 for $799 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250917/p45#a250917p45)
+ - [Meta is making the metaverse look better](https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US district judge rules Amazon violated consumer law by collecting Prime subscribers&#39; billing info before disclosing terms, handing the FTC a partial win &lpar;Reuters&rpar;](http://www.techmeme.com/250917/p52#a250917p52)
+ - [Boox Tab X C review: A jack of all trades, a master of none](https://appleinsider.com/articles/25/09/18/boox-tab-x-c-review-a-jack-of-all-trades-a-master-of-none?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Sept. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-sept-18/#ftag=CAD590a51e)
  - [Survey: 50% of US adults are more concerned than excited about the increased use of AI in daily life; 53% say AI will harm people&#39;s ability to think creatively &lpar;Pew Research Center&rpar;](http://www.techmeme.com/250917/p51#a250917p51)
- - [Sources: several xAI execs left after clashing with two of Musk&#39;s closest advisers over concerns about unrealistic financial projections and xAI&#39;s management &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250917/p50#a250917p50)
- - [Hands-on with Meta Ray-Ban Display and Neural Band: small display adds new functionality, useful real-time translation, Neural Band seems the ideal input method &lpar;Ben Lang/Road to VR&rpar;](http://www.techmeme.com/250917/p49#a250917p49)
- - [Meta upgrades Horizon Worlds with Meta Horizon Studio, letting creators use AI prompts to build worlds, powered by its new &quot;built from scratch&quot; virtual engine &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250917/p48#a250917p48)
- - [Meta rolls out Horizon TV for Quest headsets, with apps including Disney+ and ESPN, and partners with Universal and Blumhouse to let users watch 3D movies &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250917/p47#a250917p47)<!-- TECH:END -->
+ - [Sources: several xAI execs left after clashing with two of Musk&#39;s closest advisers over concerns about unrealistic financial projections and xAI&#39;s management &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250917/p50#a250917p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

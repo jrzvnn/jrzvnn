@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wildfire smoke is an insidious and growing public health threat](https://www.theverge.com/science/780453/fire-smoke-health-premature-deaths-research)
+ - [China Turns Legacy Chips Into a Trade Weapon](https://www.wired.com/story/china-probe-us-chip-makers-tiktok-deal/)
  - [Apple TV+ &#39;The Last Frontier&#39; throws Jason Clarke into Alaska&#39;s frozen hellscape](https://appleinsider.com/articles/25/09/18/apple-tv-the-last-frontier-throws-jason-clarke-into-alaskas-frozen-hellscape?utm_source=rss)
  - [Political Influencers Are Ramping Up Security—and Posting Through It](https://www.wired.com/story/political-influencers-are-ramping-up-security-and-posting-through-it/)
- - [Inside Apple&#39;s Audio Labs, where the company develops features like spatial audio and uses tuning studios as reference points for AirPods and other products &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250918/p24#a250918p24)
- - [What it takes to make sure the Apple Watch works anywhere](https://appleinsider.com/articles/25/09/18/what-it-takes-to-make-sure-the-apple-watch-works-anywhere?utm_source=rss)
- - [25 Amazon Prime Perks You Might Not Be Using &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-perks/)<!-- TECH:END -->
+ - [Inside Apple&#39;s Audio Labs, where the company develops features like spatial audio and uses tuning studios as reference points for AirPods and other products &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250918/p24#a250918p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Nvidia spent more than $900M to hire Enfabrica CEO Rochan Sankar and other employees at the AI hardware startup and to license the company&#39;s technology &lpar;CNBC&rpar;](http://www.techmeme.com/250918/p38#a250918p38)
  - [Sources: White House weighs more CFTC chair candidates, including government officials focused on crypto policy, as Brian Quintenz&#39;s nomination remains stalled &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p37#a250918p37)
+ - [Want to Stream Hulu, Peacock and More for Free? Try Food Delivery Memberships](https://www.cnet.com/deals/want-to-stream-hulu-peacock-and-more-for-free-try-food-delivery-memberships/#ftag=CAD590a51e)
  - [Intel says Arc GPUs will live on after Nvidia deal](https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal)
- - [MagSafe Battery for iPhone Air uses the same battery type as the phone itself](https://appleinsider.com/articles/25/09/18/magsafe-battery-for-iphone-air-uses-the-same-battery-type-as-the-phone-itself?utm_source=rss)
- - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [Nothing’s charging case Super Mic is a small upgrade to earbud audio](https://www.theverge.com/tech/781588/nothing-ear-3-charging-case-super-mic-impressions-hands-on)<!-- TECH:END -->
+ - [MagSafe Battery for iPhone Air uses the same battery type as the phone itself](https://appleinsider.com/articles/25/09/18/magsafe-battery-for-iphone-air-uses-the-same-battery-type-as-the-phone-itself?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

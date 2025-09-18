@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Pieces of Wellness Tech That Could Be Covered by Your HSA](https://www.cnet.com/health/pieces-wellness-tech-could-be-covered-by-your-hsa/#ftag=CAD590a51e)
  - [Source: SoftBank&#39;s plans for a JV with OpenAI to bring AI to Japanese corporate customers are well behind schedule, with an update now expected in November &lpar;Yusuke Ogawa/Reuters&rpar;](http://www.techmeme.com/250918/p9#a250918p9)
  - [Anthropic details three infrastructure bugs that intermittently degraded Claude&#39;s responses between August and early September, and explains how they were fixed &lpar;Anthropic&rpar;](http://www.techmeme.com/250918/p8#a250918p8)
  - [OpenAI and Apollo Research trained o3 and o4-mini versions to not engage in &quot;scheming&quot;, or secretly pursuing undesirable goals, reducing &quot;covert actions&quot; ~30X &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/250918/p7#a250918p7)
- - [Activist investor Elliott announces a $2B stake in Workday and says the company&#39;s new multi-year plan will drive &quot;substantial long-term value creation&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250918/p6#a250918p6)
- - [Google says India has emerged as the No. 1 country for Nano Banana model usage, making Gemini the top free app on both the App Store and Google Play in India &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250918/p5#a250918p5)<!-- TECH:END -->
+ - [Activist investor Elliott announces a $2B stake in Workday and says the company&#39;s new multi-year plan will drive &quot;substantial long-term value creation&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250918/p6#a250918p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

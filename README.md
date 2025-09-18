@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Insight Partners says a ransomware attack on its systems between October 2024 and January 2025 affected 12,600+ people, including limited partners &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/250918/p11#a250918p11)
+ - [Huawei unveils two new SuperPoD products, the Atlas 950 and Atlas 960, the latter linking up to 15,488 Ascend AI chips, as it seeks to challenge Nvidia &lpar;Bloomberg&rpar;](http://www.techmeme.com/250918/p10#a250918p10)
  - [A Collision With Another Planet Could Have Allowed for Life on Earth](https://www.wired.com/story/a-collision-with-another-planet-could-have-allowed-for-life-on-earth/)
  - [Rivian’s e-bike leaks ahead of next month’s announcement](https://www.theverge.com/news/780734/rivians-e-bike-leaks-ahead-of-next-months-announcement)
- - [For Staying Present, I Now Click on This Bird ID App Instead of My Meditation Apps](https://www.cnet.com/health/for-staying-present-now-click-bird-id-app-instead-meditation-apps/#ftag=CAD590a51e)
- - [7 Pieces of Wellness Tech That Could Be Covered by Your HSA](https://www.cnet.com/health/pieces-wellness-tech-could-be-covered-by-your-hsa/#ftag=CAD590a51e)
- - [Source: SoftBank&#39;s plans for a JV with OpenAI to bring AI to Japanese corporate customers are well behind schedule, with an update now expected in November &lpar;Yusuke Ogawa/Reuters&rpar;](http://www.techmeme.com/250918/p9#a250918p9)<!-- TECH:END -->
+ - [For Staying Present, I Now Click on This Bird ID App Instead of My Meditation Apps](https://www.cnet.com/health/for-staying-present-now-click-bird-id-app-instead-meditation-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

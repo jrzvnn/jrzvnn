@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [James Cameron on AI: it&amp;#8217;s &amp;#8216;just as creative&amp;#8217; as people, but with no &amp;#8216;unique lived experience&amp;#8217;](https://www.theverge.com/column/780942/james-cameron-andrew-bosworth-ai-mixed-reality-headsets)
  - [Microsoft is turning Foxconn&amp;#8217;s empty buildings into the &amp;#8216;world&amp;#8217;s most powerful&amp;#8217; AI data center](https://www.theverge.com/news/781052/microsoft-foxconn-fairwater-worlds-most-powerful-ai-data-center)
  - [Q&amp;A with CEO Cristóbal Valenzuela on Runway&#39;s &quot;world models&quot; breakthrough, how it differs from typical AI video generation, the Lionsgate partnership, and more &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/250918/p25#a250918p25)
  - [This Microsoft Entra ID Vulnerability Could Have Been Catastrophic](https://www.wired.com/story/microsoft-entra-id-vulnerability-digital-catastrophe/)
- - [Hyundai to invest $2.7 billion in Georgia factory hit by ICE raid](https://www.theverge.com/news/780980/hyundai-investor-day-erev-hybrid-metaplant)
- - [Wildfire smoke is an insidious and growing public health threat](https://www.theverge.com/science/780453/fire-smoke-health-premature-deaths-research)<!-- TECH:END -->
+ - [Hyundai to invest $2.7 billion in Georgia factory hit by ICE raid](https://www.theverge.com/news/780980/hyundai-investor-day-erev-hybrid-metaplant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

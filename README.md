@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Move Aside, Chatbots: AI Humanoids Are Here](https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/)
- - [Jensen Huang Wants You to Know He’s Getting a Lot Out of the ‘Fantastic’ Nvidia-Intel Deal](https://www.wired.com/story/nvidia-intel-announce-collaboration-chips/)
- - [Verge readers can get 20 percent off Nanoleaf wall lights](https://www.theverge.com/tech/781437/nanoleaf-blocks-squares-playstation-portal-deal-sale)
- - [British renewable energy startup Octopus Energy spins off its AI arm, Kraken, in what could create a stand-alone entity worth $15B &lpar;Yusuf Khan/Wall Street Journal&rpar;](http://www.techmeme.com/250918/p34#a250918p34)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Brendan Carr Isn&#39;t Going to Stop Until Someone Makes Him](https://www.wired.com/story/brendan-carr-isnt-going-to-stop-until-someone-makes-him/)
+ - [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd)
+ - [Hyundai CEO distances company from ICE raid: ‘not our facility’](https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump)
+ - [No One Knows What &#39;Terminally Online&#39; Means Anymore](https://www.wired.com/story/no-one-knows-what-being-terminally-online-means-anymore-thats-a-problem/)
+ - [Move Aside, Chatbots: AI Humanoids Are Here](https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

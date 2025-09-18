@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Be anything](http://9gag.com/gag/aMVW3xP)
  - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
- - 💣 [Norway testing plasma canon to `drill` tunnels into the mountain, delivering 20000C, hotter than the surface of the sun](http://9gag.com/gag/awy8EAr)
- - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 👉 [Soul mates](http://9gag.com/gag/a34xVLN)<!-- MEMES:END -->
+ - 💣 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
+ - 😝 [Rage Comic #025](http://9gag.com/gag/azxB0Nz)
+ - 👉 [Poemic](http://9gag.com/gag/a9yV951)<!-- MEMES:END -->
 
 ---
 

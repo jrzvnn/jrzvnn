@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
- - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 💣 [You can&#39;t have nice things](http://9gag.com/gag/ae9dnyB)
+ - 😝 [Josie &lpar;Jennifer Connelly&rpar; - Career Opportunities &lpar;1991&rpar;](http://9gag.com/gag/a87nR83)
+ - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 😝 [Still remember this sound, it was a classic](http://9gag.com/gag/an7d6Vo)
- - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
+ - 👉 [Afghan police murderer in Mannheim was found guilty of murder today. Sentenced to life in prison &lpar;max 15 years&rpar;](http://9gag.com/gag/ajPdeLp)<!-- MEMES:END -->
 
 ---
 

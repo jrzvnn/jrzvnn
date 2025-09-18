@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New iPhones, Apple Watches, and AirPods Pro are shipping to early buyers](https://appleinsider.com/articles/25/09/18/new-iphones-apple-watches-and-airpods-pro-are-shipping-to-early-buyers?utm_source=rss)
  - [Brendan Carr Isn&#39;t Going to Stop Until Someone Makes Him](https://www.wired.com/story/brendan-carr-isnt-going-to-stop-until-someone-makes-him/)
  - [Nvidia and Intel’s $5 billion deal is apparently about eating AMD’s lunch](https://www.theverge.com/report/781330/nvidia-intel-explain-5-billion-deal-jensen-huang-lip-bu-tan-amd)
  - [Hyundai CEO distances company from ICE raid: ‘not our facility’](https://www.theverge.com/news/781497/hyundai-ceo-distances-ice-raid-georgia-trump)
- - [No One Knows What &#39;Terminally Online&#39; Means Anymore](https://www.wired.com/story/no-one-knows-what-being-terminally-online-means-anymore-thats-a-problem/)
- - [Move Aside, Chatbots: AI Humanoids Are Here](https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/)<!-- TECH:END -->
+ - [No One Knows What &#39;Terminally Online&#39; Means Anymore](https://www.wired.com/story/no-one-knows-what-being-terminally-online-means-anymore-thats-a-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
  - 😝 [Hunter Wasps](http://9gag.com/gag/aMVWoEV)
- - 💣 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 😝 [Mighty Titler](http://9gag.com/gag/avyDKzE)
+ - 💣 [When your trust issues paid off](http://9gag.com/gag/a2vx6pe)
  - 😝 [Actually, I don\u2019t like anyone.](http://9gag.com/gag/aVvdA3d)
  - 👉 [Guess which meme is gonna be first in the comment section?](http://9gag.com/gag/aQzrL9e)<!-- MEMES:END -->
 

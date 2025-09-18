@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to start using StopNCII&#39;s hashes to proactively identify nonconsensual images in search results and remove them &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250918/p23#a250918p23)
- - [You can turn off iOS 26&amp;#8217;s obtrusive new screenshot previews](https://www.theverge.com/news/780921/apple-ios-26-iphone-screenshot-preview-disable-settings)
- - [How to Trade In or Sell Your iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
- - [How chatbots — and their makers — are enabling AI psychosis](https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health)
- - [Torras Ostand Q3 Silicone case for iPhone 17 Pro Max offers premium style and function](https://appleinsider.com/articles/25/09/18/torras-ostand-q3-silicone-case-for-iphone-17-pro-max-offers-premium-style-and-function?utm_source=rss)<!-- TECH:END -->
+ - [Apple TV+ &#39;The Last Frontier&#39; throws Jason Clarke into Alaska&#39;s frozen hellscape](https://appleinsider.com/articles/25/09/18/apple-tv-the-last-frontier-throws-jason-clarke-into-alaskas-frozen-hellscape?utm_source=rss)
+ - [Inside Apple&#39;s Audio Labs, where the company develops features like spatial audio and uses tuning studios as reference points for AirPods and other products &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/250918/p24#a250918p24)
+ - [What it takes to make sure the Apple Watch works anywhere](https://appleinsider.com/articles/25/09/18/what-it-takes-to-make-sure-the-apple-watch-works-anywhere?utm_source=rss)
+ - [25 Amazon Prime Perks You Might Not Be Using &lpar;2025&rpar;](https://www.wired.com/story/amazon-prime-perks/)
+ - [Google plans to start using StopNCII&#39;s hashes to proactively identify nonconsensual images in search results and remove them &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/250918/p23#a250918p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

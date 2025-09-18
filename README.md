@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)
- - [Meta&amp;#8217;s Ray-Ban Gen 2 and Oakley Vanguard glasses are available to preorder](https://www.theverge.com/tech/780353/meta-ray-ban-display-oakley-vanguard-preorder-price-how-to-buy)
- - [Meta is bringing an all-in-one movie and TV streaming hub to Quest headsets](https://www.theverge.com/news/780492/meta-quest-headset-horizon-tv-streaming)
- - [Meta unveils Meta Ray-Ban Display, with a screen in the right lens and the Meta Neural Band, a wristband that detects hand gestures, on sale Sept. 30 for $799 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250917/p45#a250917p45)
- - [Meta is making the metaverse look better](https://www.theverge.com/news/780256/meta-horizon-worlds-engine-studio)<!-- TECH:END -->
+ - [Meta upgrades Horizon Worlds with Meta Horizon Studio, letting creators use AI prompts to build worlds, powered by its new &quot;built from scratch&quot; virtual engine &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250917/p48#a250917p48)
+ - [Meta rolls out Horizon TV for Quest headsets, with apps including Disney+ and ESPN, and partners with Universal and Blumhouse to let users watch 3D movies &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250917/p47#a250917p47)
+ - [Meta Connect 2025 Live: New Ray-Bans Gen 2, Oakley Vanguards, Quest VR](https://www.cnet.com/tech/meta-connect-2025-live-new-ray-bans-gen-2-oakley-vanguards-quest-vr/#ftag=CAD590a51e)
+ - [Meta rolls out Hyperscape Capture in early access, letting developers and creators use Quest 3 devices to scan a room and turn it into a VR space in minutes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250917/p46#a250917p46)
+ - [Meta Connect 2025: the 6 biggest announcements](https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

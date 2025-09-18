@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It is day of the Woden my varlets!](http://9gag.com/gag/agmdWvg)
- - 😝 [Pro-Palestinians are very angry because Real Madrid does not allow Palestinian flags into the Bernab\u00e9u Stadium and throws them in the trash. Should other football clubs do the same?](http://9gag.com/gag/aQzrL57)
- - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
  - 😝 [Well, we&#39;re waiting...](http://9gag.com/gag/a5Qx4Bq)
- - 👉 [You can&#39;t have nice things](http://9gag.com/gag/ae9dnyB)<!-- MEMES:END -->
+ - 💣 [You can&#39;t have nice things](http://9gag.com/gag/ae9dnyB)
+ - 😝 [Still remember this sound, it was a classic](http://9gag.com/gag/an7d6Vo)
+ - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get an iPhone 17 Pro on T-Mobile with any condition trade-in + up to 20% savings vs the other big guys on comparable plans](https://appleinsider.com/articles/25/09/19/get-an-iphone-17-pro-on-t-mobile-with-any-condition-trade-in-up-to-20-savings-vs-the-other-big-guys-on-comparable-plans?utm_source=rss)
+ - [OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin](https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin)
+ - [Meta&amp;#8217;s quest to own your face](https://www.theverge.com/podcast/781830/meta-smart-glasses-ray-ban-vergecast)
  - [First look at the Google Home app powered by Gemini](https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini)
- - [Report: OpenAI has considered building glasses, a digital voice recorder, and a pin and signed a deal with Luxshare to assemble at least one of its devices &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250919/p9#a250919p9)
- - [If iOS 26 is Draining Your iPhone&#39;s Battery, Apple Says It&#39;s Temporary](https://www.cnet.com/tech/services-and-software/if-ios-26-is-draining-your-iphones-battery-apple-says-its-temporary/#ftag=CAD590a51e)
- - [Sources: OpenAI plans to spend ~$100B on backup servers from cloud providers through 2030, in addition to the $350B already projected for server rentals &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250919/p8#a250919p8)
- - [Apple&#39;s Super Bowl: Tim Cook mobbed in NYC for iPhone 17 launch](https://appleinsider.com/articles/25/09/19/apples-super-bowl-tim-cook-mobbed-in-nyc-for-iphone-17-launch?utm_source=rss)<!-- TECH:END -->
+ - [Report: OpenAI has considered building glasses, a digital voice recorder, and a pin and signed a deal with Luxshare to assemble at least one of its devices &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250919/p9#a250919p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some people are just uuuugghhhllllhhhh!](http://9gag.com/gag/a87nZZd)
- - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
- - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
+ - 😝 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
+ - 😝 [He he](http://9gag.com/gag/aoydrwg)
+ - 💣 [100% precision](http://9gag.com/gag/apRdevp)
+ - 😝 [`Night Time` - my new oil painting on a board, 12`x16`](http://9gag.com/gag/a5QxLjL)
+ - 👉 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)<!-- MEMES:END -->
 
 ---
 

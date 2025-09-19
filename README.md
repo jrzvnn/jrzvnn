@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
- - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
- - 😝 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
- - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
+ - 😝 [Poemic](http://9gag.com/gag/a9yV951)
+ - 😝 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
+ - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 👉 [Triple wielding](http://9gag.com/gag/a9yV9Q0)<!-- MEMES:END -->
 
 ---
 

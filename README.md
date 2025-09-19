@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stunning iPhone 17 Pro Max photos celebrate joy in NY exhibition](https://appleinsider.com/articles/25/09/19/stunning-iphone-17-pro-max-photos-celebrate-joy-in-ny-exhibition?utm_source=rss)
- - [iPhone 17 review: More pro features added than ever before](https://appleinsider.com/articles/25/09/19/iphone-17-review-more-pro-features-added-than-ever-before?utm_source=rss)
- - [Sources: Nvidia is in advanced talks to invest $500M in UK self-driving car startup Wayve, as part of a broader £2B funding pledge in UK startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250919/p5#a250919p5)
- - [iPhone 17 buyers pack Apple Stores worldwide](https://appleinsider.com/articles/25/09/19/iphone-17-buyers-pack-apple-stores-worldwide?utm_source=rss)
- - [16 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)<!-- TECH:END -->
+ - [iPhone cameras, iPhone AirMagSafe battery, and Meta Ray Bans, on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/19/iphone-cameras-iphone-airmagsafe-battery-and-meta-ray-bans-on-the-appleinsider-podcast?utm_source=rss)
+ - [11 Best Hoodies for Style, Comfort, and Warmth &lpar;2025&rpar;](https://www.wired.com/gallery/best-hoodies/)
+ - [Apple’s 2025 iPhone lineup is now available to buy in stores and online](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
+ - [Why I ‘upgraded’ to a film camera that’s older than I am](https://www.theverge.com/cameras/772825/upgrading-film-camera-canon-ef)
+ - [Stunning iPhone 17 Pro Max photos celebrate joy in NY exhibition](https://appleinsider.com/articles/25/09/19/stunning-iphone-17-pro-max-photos-celebrate-joy-in-ny-exhibition?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

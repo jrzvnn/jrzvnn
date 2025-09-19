@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
  - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---

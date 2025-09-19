@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta CTO says the technical issues during live demos of its new smart glasses were due to a self-inflicted DDoS and a bug that put Zuckerberg&#39;s glasses to sleep &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250919/p13#a250919p13)
  - [We want to hear about which apps aren&#39;t working right with macOS Tahoe](https://appleinsider.com/articles/25/09/19/we-want-to-hear-about-which-apps-arent-working-right-with-macos-tahoe?utm_source=rss)
  - [Neuralink plans a US clinical trial in October to test a brain implant that translates thoughts into text, hoping to put its device in a healthy person by 2030 &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/250919/p12#a250919p12)
  - [An iPhone 17 torn apart shows how Apple cut the SIM slot for bigger batteries](https://appleinsider.com/articles/25/09/19/an-iphone-17-torn-apart-shows-how-apple-cut-the-sim-slot-for-bigger-batteries?utm_source=rss)
- - [Pope Leo XIV &#39;Not Going to Authorize&#39; an AI Version of Himself](https://www.cnet.com/tech/services-and-software/pope-leo-xiv-not-going-to-authorize-an-ai-version-of-himself/#ftag=CAD590a51e)
- - [Under Pressure From Roblox, Fortnite Allowing Creators to Sell In-Game Items](https://www.cnet.com/tech/gaming/under-pressure-from-roblox-fortnite-allowing-creators-to-sell-in-game-items/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pope Leo XIV &#39;Not Going to Authorize&#39; an AI Version of Himself](https://www.cnet.com/tech/services-and-software/pope-leo-xiv-not-going-to-authorize-an-ai-version-of-himself/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

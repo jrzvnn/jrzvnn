@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Alexa Speakers and Amazon Echo Devices We’ve Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [Nest is dead, long live Google Home](https://www.theverge.com/report/781221/the-end-of-nest-google-home-smart-home)
- - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)
- - [Sources: OpenAI is recruiting from Apple&#39;s design, manufacturing, and supply chain teams, as it targets late 2026 or early 2027 for its first devices &lpar;The Information&rpar;](http://www.techmeme.com/250919/p7#a250919p7)
- - [Nothing teases the first headphones from its budget CMF brand](https://www.theverge.com/news/781763/nothing-cmf-headphone-pro-wireless)<!-- TECH:END -->
+ - [What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors](https://www.wired.com/story/high-refresh-rate-explained/)
+ - [Him is a grueling and messy takedown of American football culture](https://www.theverge.com/entertainment/781175/him-review-justin-tipping-marlon-wayans)
+ - [Tour our smart home reviewer’s smart backyard](https://www.theverge.com/video/781682/tour-smart-backyard)
+ - [The strongest argument for smart glasses is accessibility](https://www.theverge.com/column/781772/optimizer-newsletter-meta-ray-ban-display-smart-glasses-accessibility)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

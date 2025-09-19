@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: investors in the TikTok US deal are expected to pay the Trump administration a multibillion-dollar fee for negotiating a deal with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250919/p20#a250919p20)
+ - [RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots](https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/)
  - [Corporate travel and expense management service Navan, formerly known as TripActions, files for a US IPO, reporting a $99.9M net loss on $329.4M revenue in H1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p19#a250919p19)
  - [Pattern, which helps brands optimize their sales on online marketplaces, closes up 11.6% at $15.63 per share in its Nasdaq debut, after raising $300M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250919/p18#a250919p18)
- - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)
- - [Microsoft Is Raising Xbox Series Console Prices Again. Here&#39;s What You&#39;ll Pay This Fall](https://www.cnet.com/tech/gaming/microsoft-is-raising-xbox-series-console-prices-again-heres-what-youll-pay-this-fall/#ftag=CAD590a51e)
- - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

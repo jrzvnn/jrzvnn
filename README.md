@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 51 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [President Trump signs a proclamation requiring companies to pay an annual $100,000 fee for H-1B visas, a move that could significantly impact the tech industry &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p23#a250919p23)
  - [Tests show OpenAI&#39;s Sora can closely mimic Netflix shows, movies, TikTok videos, and Twitch streams, suggesting it was trained on versions of such content &lpar;Washington Post&rpar;](http://www.techmeme.com/250919/p22#a250919p22)
  - [Trump appears to suggest Xi Jinping approved a deal to divest TikTok&#39;s US operations during a call, but neither side elaborated on what the approval entailed &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/250919/p21#a250919p21)
- - [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

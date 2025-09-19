@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
- - 😝 [Feminism](http://9gag.com/gag/aE0QezG)
- - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
+ - 😝 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
+ - 😝 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)
+ - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 👉 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)<!-- MEMES:END -->
 
 ---
 

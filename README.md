@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Trump claims the US is about to get a tremendous fee for taking TikTok out of China](https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china)
  - [A US judge temporarily orders Meta not to respond to DHS subpoenas seeking Instagram users&#39; info after their accounts posted an ICE agent&#39;s name &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/250919/p24#a250919p24)
+ - [The New Meta Ray-Bans Might Be Your Next Disneyland Tour Guide](https://www.cnet.com/tech/mobile/the-new-meta-ray-bans-might-be-your-next-disneyland-tour-guide/#ftag=CAD590a51e)
  - [The 51 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [President Trump signs a proclamation requiring companies to pay an annual $100,000 fee for H-1B visas, a move that could significantly impact the tech industry &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p23#a250919p23)
- - [Tests show OpenAI&#39;s Sora can closely mimic Netflix shows, movies, TikTok videos, and Twitch streams, suggesting it was trained on versions of such content &lpar;Washington Post&rpar;](http://www.techmeme.com/250919/p22#a250919p22)<!-- TECH:END -->
+ - [President Trump signs a proclamation requiring companies to pay an annual $100,000 fee for H-1B visas, a move that could significantly impact the tech industry &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p23#a250919p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

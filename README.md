@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [First look at the Google Home app powered by Gemini](https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini)
+ - [Report: OpenAI has considered building glasses, a digital voice recorder, and a pin and signed a deal with Luxshare to assemble at least one of its devices &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250919/p9#a250919p9)
+ - [If iOS 26 is Draining Your iPhone&#39;s Battery, Apple Says It&#39;s Temporary](https://www.cnet.com/tech/services-and-software/if-ios-26-is-draining-your-iphones-battery-apple-says-its-temporary/#ftag=CAD590a51e)
  - [Sources: OpenAI plans to spend ~$100B on backup servers from cloud providers through 2030, in addition to the $350B already projected for server rentals &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250919/p8#a250919p8)
- - [Apple&#39;s Super Bowl: Tim Cook mobbed in NYC for iPhone 17 launch](https://appleinsider.com/articles/25/09/19/apples-super-bowl-tim-cook-mobbed-in-nyc-for-iphone-17-launch?utm_source=rss)
- - [What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors](https://www.wired.com/story/high-refresh-rate-explained/)
- - [Him is a grueling and messy takedown of American football culture](https://www.theverge.com/entertainment/781175/him-review-justin-tipping-marlon-wayans)
- - [Tour our smart home reviewer’s smart backyard](https://www.theverge.com/video/781682/tour-smart-backyard)<!-- TECH:END -->
+ - [Apple&#39;s Super Bowl: Tim Cook mobbed in NYC for iPhone 17 launch](https://appleinsider.com/articles/25/09/19/apples-super-bowl-tim-cook-mobbed-in-nyc-for-iphone-17-launch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

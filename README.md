@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
- - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 💣 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---
 

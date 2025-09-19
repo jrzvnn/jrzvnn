@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
- - 😝 [Remember this shit?. Somehow Yoko Ono&#39;s FLAT ASS won over John Lennon&#39;s heart](http://9gag.com/gag/abAdNPO)
- - 💣 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
+ - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---
 

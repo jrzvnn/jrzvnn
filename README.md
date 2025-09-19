@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [James Bond Wannabes: The UK&#39;s Spy Office Says Learn to Use a VPN](https://www.cnet.com/tech/services-and-software/james-bond-wannabes-the-uks-spy-office-says-learn-to-use-a-vpn/#ftag=CAD590a51e)
  - [Sources: Apple told at least two suppliers to boost their daily output of entry-level iPhone 17 by at least 30%, after strong pre-orders last weekend &lpar;The Information&rpar;](http://www.techmeme.com/250919/p15#a250919p15)
  - [Final Cut Pro &amp; Final Cut Camera updated to suit iPhone 17 Pro features](https://appleinsider.com/articles/25/09/19/final-cut-pro-final-cut-camera-updated-to-suit-iphone-17-pro-features?utm_source=rss)
  - [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi)
- - [It&amp;#8217;s new iPhone day, so grab some screen protectors for just $4.49](https://www.theverge.com/tech/781914/iphone-17-pro-air-screen-protector-anker-nano-travel-adapter-deal-sale)
- - [Customers report day one scratches and scuffs on iPhone 17 Pro](https://appleinsider.com/articles/25/09/19/customers-report-day-one-scratches-and-scuffs-on-iphone-17-pro?utm_source=rss)<!-- TECH:END -->
+ - [It&amp;#8217;s new iPhone day, so grab some screen protectors for just $4.49](https://www.theverge.com/tech/781914/iphone-17-pro-air-screen-protector-anker-nano-travel-adapter-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

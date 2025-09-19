@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
- - 😝 [Poemic](http://9gag.com/gag/a9yV951)
- - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 👉 [Rage Comic #025](http://9gag.com/gag/azxB0Nz)<!-- MEMES:END -->
+ - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 😝 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 💣 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 😝 [Anyone else?](http://9gag.com/gag/a7oG4Lw)
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---
 

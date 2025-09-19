@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple tests Bluetooth, Wi-Fi, 5G, and satellite connectivity on the Apple Watch, including using a Global Navigation Satellite System simulation room &lpar;Vanessa Hand Orellana/CNET&rpar;](http://www.techmeme.com/250919/p2#a250919p2)
  - [China says Xiaomi will issue a software update for 115K+ SU7 EVs to fix assisted driving safety issues, its second recall-related fix since the 2024 launch &lpar;Reuters&rpar;](http://www.techmeme.com/250919/p1#a250919p1)
  - [How to change what the iPhone 17 Camera Control button does](https://appleinsider.com/inside/iphone/tips/how-to-change-what-the-iphone-16-camera-control-button-does?utm_source=rss)
  - [Canadian law enforcement seizes $40.5M in digital assets after shutting down TradeOgre crypto exchange, making it the largest Canadian crypto seizure to date. &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250918/p47#a250918p47)
- - [SoftBank&#39;s Vision Fund plans layoffs; sources say ~20% of staff will be impacted as SoftBank shifts resources to Masayoshi Son&#39;s large-scale AI bets in the US &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250918/p46#a250918p46)
- - [LA-based Lingokids, an interactive learning app for kids aged 2-8, raised $120M led by Bullhound Capital and General Catalyst to help expand its IP partnerships &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250918/p45#a250918p45)<!-- TECH:END -->
+ - [SoftBank&#39;s Vision Fund plans layoffs; sources say ~20% of staff will be impacted as SoftBank shifts resources to Masayoshi Son&#39;s large-scale AI bets in the US &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250918/p46#a250918p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

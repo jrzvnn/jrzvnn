@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone cameras, iPhone AirMagSafe battery, and Meta Ray Bans, on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/19/iphone-cameras-iphone-airmagsafe-battery-and-meta-ray-bans-on-the-appleinsider-podcast?utm_source=rss)
- - [11 Best Hoodies for Style, Comfort, and Warmth &lpar;2025&rpar;](https://www.wired.com/gallery/best-hoodies/)
- - [Apple’s 2025 iPhone lineup is now available to buy in stores and online](https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date)
- - [Why I ‘upgraded’ to a film camera that’s older than I am](https://www.theverge.com/cameras/772825/upgrading-film-camera-canon-ef)
- - [Stunning iPhone 17 Pro Max photos celebrate joy in NY exhibition](https://appleinsider.com/articles/25/09/19/stunning-iphone-17-pro-max-photos-celebrate-joy-in-ny-exhibition?utm_source=rss)<!-- TECH:END -->
+ - [This RPG series does everything wrong, and it’s working](https://www.theverge.com/games/781492/trails-in-the-sky-1st-chapter-switch-ps5-steam)
+ - [The Apple Watch SE 3, Series 11, and Ultra 3 are now available](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
+ - [You can now buy the AirPods Pro 3](https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart)
+ - [The Verge’s guide to upgrading your fall](https://www.theverge.com/tech/777703/fall-upgrade-books-cameras-ebikes)
+ - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

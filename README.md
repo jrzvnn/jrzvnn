@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
  - 😝 [Some people are just uuuugghhhllllhhhh!](http://9gag.com/gag/a87nZZd)
- - 💣 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
  - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---

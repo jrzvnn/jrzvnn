@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
  - [Donald Trump Is Saying There&#39;s a TikTok Deal. China Isn&#39;t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)
  - [TikTok U.S. is apparently safe, and isn&#39;t going to look or work much differently](https://appleinsider.com/articles/25/09/19/tiktok-us-is-apparently-safe-and-isnt-going-to-look-or-work-much-differently?utm_source=rss)
  - [James Bond Wannabes: The UK&#39;s Spy Office Says Learn to Use a VPN](https://www.cnet.com/tech/services-and-software/james-bond-wannabes-the-uks-spy-office-says-learn-to-use-a-vpn/#ftag=CAD590a51e)
- - [Sources: Apple told at least two suppliers to boost their daily output of entry-level iPhone 17 by at least 30%, after strong pre-orders last weekend &lpar;The Information&rpar;](http://www.techmeme.com/250919/p15#a250919p15)
- - [Final Cut Pro &amp; Final Cut Camera updated to suit iPhone 17 Pro features](https://appleinsider.com/articles/25/09/19/final-cut-pro-final-cut-camera-updated-to-suit-iphone-17-pro-features?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Apple told at least two suppliers to boost their daily output of entry-level iPhone 17 by at least 30%, after strong pre-orders last weekend &lpar;The Information&rpar;](http://www.techmeme.com/250919/p15#a250919p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)
  - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)
  - [Microsoft plans to raise Xbox Series X price by $50 to $649.99 and Series S by $20 to $399.99 starting Oct. 3, citing &quot;changes in the macroeconomic environment&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250919/p16#a250919p16)
  - [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
- - [Donald Trump Is Saying There’s a TikTok Deal. China Isn’t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)
- - [TikTok U.S. is apparently safe, and isn&#39;t going to look or work much differently](https://appleinsider.com/articles/25/09/19/tiktok-us-is-apparently-safe-and-isnt-going-to-look-or-work-much-differently?utm_source=rss)<!-- TECH:END -->
+ - [Donald Trump Is Saying There’s a TikTok Deal. China Isn’t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

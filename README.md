@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pattern, which helps brands optimize their sales on online marketplaces, closes up 11.6% at $15.63 per share in its Nasdaq debut, after raising $300M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250919/p18#a250919p18)
  - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)
  - [Microsoft Is Raising Xbox Series Console Prices Again. Here&#39;s What You&#39;ll Pay This Fall](https://www.cnet.com/tech/gaming/microsoft-is-raising-xbox-series-console-prices-again-heres-what-youll-pay-this-fall/#ftag=CAD590a51e)
  - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 20 #566](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-20-566/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 20, #832](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-20-832/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 20 #566](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-20-566/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

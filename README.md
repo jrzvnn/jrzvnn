@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)
+ - [Microsoft Is Raising Xbox Series Console Prices Again. Here&#39;s What You&#39;ll Pay This Fall](https://www.cnet.com/tech/gaming/microsoft-is-raising-xbox-series-console-prices-again-heres-what-youll-pay-this-fall/#ftag=CAD590a51e)
  - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)
- - [Microsoft plans to raise Xbox Series X price by $50 to $649.99 and Series S by $20 to $399.99 starting Oct. 3, citing &quot;changes in the macroeconomic environment&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250919/p16#a250919p16)
- - [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
- - [Donald Trump Is Saying There’s a TikTok Deal. China Isn’t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 20 #566](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-20-566/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 20, #832](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-20-832/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
  - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
+ - 😝 [Feminism](http://9gag.com/gag/aE0QezG)
+ - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---
 

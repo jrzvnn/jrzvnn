@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 may be an unexpected early hit for Apple](https://appleinsider.com/articles/25/09/19/iphone-17-may-be-an-unexpected-early-hit-for-apple?utm_source=rss)
  - [Microsoft plans to raise Xbox Series X price by $50 to $649.99 and Series S by $20 to $399.99 starting Oct. 3, citing &quot;changes in the macroeconomic environment&quot; &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/250919/p16#a250919p16)
  - [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
  - [Donald Trump Is Saying There’s a TikTok Deal. China Isn’t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)
- - [TikTok U.S. is apparently safe, and isn&#39;t going to look or work much differently](https://appleinsider.com/articles/25/09/19/tiktok-us-is-apparently-safe-and-isnt-going-to-look-or-work-much-differently?utm_source=rss)
- - [Is AI Capable of &#39;Scheming?&#39; What OpenAI Found When Testing for Tricky Behavior](https://www.cnet.com/tech/services-and-software/is-ai-capable-of-scheming-what-openai-found-when-testing-for-tricky-behavior/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok U.S. is apparently safe, and isn&#39;t going to look or work much differently](https://appleinsider.com/articles/25/09/19/tiktok-us-is-apparently-safe-and-isnt-going-to-look-or-work-much-differently?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

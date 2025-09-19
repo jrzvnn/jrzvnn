@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
- - 😝 [He he](http://9gag.com/gag/aoydrwg)
- - 💣 [100% precision](http://9gag.com/gag/apRdevp)
- - 😝 [`Night Time` - my new oil painting on a board, 12`x16`](http://9gag.com/gag/a5QxLjL)
- - 👉 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)<!-- MEMES:END -->
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LA-based Lingokids, an interactive learning app for kids aged 2-8, raised $120M led by Bullhound Capital and General Catalyst to help expand its IP partnerships &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250918/p45#a250918p45)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-19/#ftag=CAD590a51e)
  - [MI6 launched Silent Courier, an online portal hosted on the dark web designed to let potential spies from Russia and elsewhere communicate with UK intelligence &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/250918/p44#a250918p44)
  - [Report: at an xAI meeting, Elon Musk and his executives said the Grok chatbot has 64M monthly users; OpenAI said in August that ChatGPT had 700M weekly users &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250918/p43#a250918p43)
- - [Inside xAI&#39;s chaotic summer: Musk reorganized xAI on the fly, researchers left over concerns it abandoned science in favor of attention-grabbing products, more &lpar;New York Times&rpar;](http://www.techmeme.com/250918/p42#a250918p42)
- - [Flashforge AD5X review: inexpensive multi-color printing with tradeoffs](https://appleinsider.com/articles/25/09/19/flashforge-ad5x-review-inexpensive-multi-color-printing-with-tradeoffs?utm_source=rss)
- - [Q&amp;A with YouTube CEO Neil Mohan on new AI tools to help creators, YouTube&#39;s dominance on TVs, helping creators better monetize sponsorships, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250918/p41#a250918p41)<!-- TECH:END -->
+ - [Inside xAI&#39;s chaotic summer: Musk reorganized xAI on the fly, researchers left over concerns it abandoned science in favor of attention-grabbing products, more &lpar;New York Times&rpar;](http://www.techmeme.com/250918/p42#a250918p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

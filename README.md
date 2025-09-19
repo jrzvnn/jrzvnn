@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
  - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
- - 😝 [Anyone else?](http://9gag.com/gag/a7oG4Lw)
- - 👉 [Memories](http://9gag.com/gag/aLnbxGz)<!-- MEMES:END -->
+ - 😝 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
+ - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
 
 ---
 

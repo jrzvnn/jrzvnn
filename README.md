@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: xAI has raised $10B at a post-money valuation of $200B, weeks after reportedly raising $10B in debt and equity at a ~$150B valuation &lpar;CNBC&rpar;](http://www.techmeme.com/250919/p14#a250919p14)
- - [Ugreen’s new super slim wallet tracker has 5 years of battery life](https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life)
- - [So… is there a TikTok deal or not?](https://www.theverge.com/policy/781967/tiktok-deal-us-china-still-ambiguous)
- - [10 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Meta CTO says the technical issues during live demos of its new smart glasses were due to a self-inflicted DDoS and a bug that put Zuckerberg&#39;s glasses to sleep &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250919/p13#a250919p13)<!-- TECH:END -->
+ - [Sources: Apple told at least two suppliers to boost their daily output of entry-level iPhone 17 by at least 30%, after strong pre-orders last weekend &lpar;The Information&rpar;](http://www.techmeme.com/250919/p15#a250919p15)
+ - [Final Cut Pro &amp; Final Cut Camera updated to suit iPhone 17 Pro features](https://appleinsider.com/articles/25/09/19/final-cut-pro-final-cut-camera-updated-to-suit-iphone-17-pro-features?utm_source=rss)
+ - [I know why Mark Zuckerberg risked live demo failure](https://www.theverge.com/report/781673/meta-demo-fail-connect-2025-mark-zuckerberg-google-glass-steve-jobs-wi-fi)
+ - [It&amp;#8217;s new iPhone day, so grab some screen protectors for just $4.49](https://www.theverge.com/tech/781914/iphone-17-pro-air-screen-protector-anker-nano-travel-adapter-deal-sale)
+ - [Customers report day one scratches and scuffs on iPhone 17 Pro](https://appleinsider.com/articles/25/09/19/customers-report-day-one-scratches-and-scuffs-on-iphone-17-pro?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

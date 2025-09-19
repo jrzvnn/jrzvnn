@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
- - 💣 [School bullies](http://9gag.com/gag/ae9dvD5)
+ - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
  - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
  - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---

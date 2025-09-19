@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ChatGPT tricked to swipe sensitive data from Gmail](https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak)
+ - [How Energy-Generating Sidewalks Work](https://www.wired.com/story/how-energy-generating-sidewalks-work/)
+ - [EVs Have Gotten Too Powerful](https://www.wired.com/story/evs-have-gotten-too-powerful/)
  - [Meta&amp;#8217;s failed smart glasses demos had nothing to do with the Wi-Fi](https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures)
- - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)
- - [Meta Accused of Torrenting Porn to Advance Its Goal of AI ‘Superintelligence’](https://www.wired.com/story/meta-lawsuit-strike-3-porn-copyright-ai/)
- - [How to Avoid Scams and Shoddy Wares on Amazon &lpar;2025&rpar;](https://www.wired.com/story/how-shop-safe-amazon/)
- - [ByteDance&#39;s valuation hit $400B in private deals, up from $230B in early 2025; shareholders see it as undervalued and plan to retain stakes amid US TikTok sale &lpar;CNBC&rpar;](http://www.techmeme.com/250919/p4#a250919p4)<!-- TECH:END -->
+ - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Scorsese and DiCaprio&#39;s gothic horror project draws Apple TV+ interest](https://appleinsider.com/articles/25/09/19/scorsese-and-dicaprios-gothic-horror-project-draws-apple-tv-interest?utm_source=rss)
+ - [MAGA influencers are already fighting over Charlie Kirk’s death](https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson)
  - [Meta files an application for authorization &quot;to sell energy, capacity, and certain ancillary services&quot; in the US amid rising energy demand for AI datacenters &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p10#a250919p10)
  - [The 9 Best Grills of 2025](https://www.wired.com/gallery/best-grills-and-smokers/)
- - [ESPN and Fox One net one million signups in under two weeks](https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups)
- - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [OpenAI is raiding Apple&#39;s talent and manufacturing pool for its wild AI hardware dream](https://appleinsider.com/articles/25/09/19/openai-is-raiding-apples-talent-and-manufacturing-pool-for-its-wild-ai-hardware-dream?utm_source=rss)<!-- TECH:END -->
+ - [ESPN and Fox One net one million signups in under two weeks](https://www.theverge.com/news/781885/espn-fox-one-sports-streaming-one-million-signups)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

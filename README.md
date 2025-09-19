@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI plans to spend ~$100B on backup servers from cloud providers through 2030, in addition to the $350B already projected for server rentals &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/250919/p8#a250919p8)
+ - [Apple&#39;s Super Bowl: Tim Cook mobbed in NYC for iPhone 17 launch](https://appleinsider.com/articles/25/09/19/apples-super-bowl-tim-cook-mobbed-in-nyc-for-iphone-17-launch?utm_source=rss)
  - [What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors](https://www.wired.com/story/high-refresh-rate-explained/)
  - [Him is a grueling and messy takedown of American football culture](https://www.theverge.com/entertainment/781175/him-review-justin-tipping-marlon-wayans)
- - [Tour our smart home reviewer’s smart backyard](https://www.theverge.com/video/781682/tour-smart-backyard)
- - [The strongest argument for smart glasses is accessibility](https://www.theverge.com/column/781772/optimizer-newsletter-meta-ray-ban-display-smart-glasses-accessibility)
- - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Tour our smart home reviewer’s smart backyard](https://www.theverge.com/video/781682/tour-smart-backyard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

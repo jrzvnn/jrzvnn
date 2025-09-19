@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 review: More pro features added than ever before](https://appleinsider.com/articles/25/09/19/iphone-17-review-more-pro-features-added-than-ever-before?utm_source=rss)
+ - [Sources: Nvidia is in advanced talks to invest $500M in UK self-driving car startup Wayve, as part of a broader £2B funding pledge in UK startups &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/250919/p5#a250919p5)
  - [iPhone 17 buyers pack Apple Stores worldwide](https://appleinsider.com/articles/25/09/19/iphone-17-buyers-pack-apple-stores-worldwide?utm_source=rss)
  - [16 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
- - [ChatGPT tricked to swipe sensitive data from Gmail](https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak)
- - [How Energy-Generating Sidewalks Work](https://www.wired.com/story/how-energy-generating-sidewalks-work/)
- - [EVs Have Gotten Too Powerful](https://www.wired.com/story/evs-have-gotten-too-powerful/)<!-- TECH:END -->
+ - [ChatGPT tricked to swipe sensitive data from Gmail](https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

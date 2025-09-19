@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 😝 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
- - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
  - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 👉 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)<!-- MEMES:END -->
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
+ - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
+ - 😝 [Anyone else?](http://9gag.com/gag/a7oG4Lw)
+ - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
 
 ---
 

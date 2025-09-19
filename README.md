@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is raiding Apple&#39;s talent and manufacturing pool for its wild AI hardware dream](https://appleinsider.com/articles/25/09/19/openai-is-raiding-apples-talent-and-manufacturing-pool-for-its-wild-ai-hardware-dream?utm_source=rss)
+ - [iPhone 17 vs. iPhone 16 compared: Base model battle](https://appleinsider.com/articles/25/09/19/iphone-17-vs-iphone-16-compared-base-model-battle?utm_source=rss)
+ - [I write about Apple all day, but here&#39;s why I&#39;m not buying a new iPhone this year](https://appleinsider.com/articles/25/09/19/i-write-about-apple-all-day-but-heres-why-im-not-buying-a-new-iphone-this-year?utm_source=rss)
  - [YouTube Thinks AI Is Its Next Big Bang](https://www.wired.com/story/youtube-thinks-ai-is-its-next-big-bang/)
- - [Get an iPhone 17 Pro on T-Mobile with any condition trade-in + up to 20% savings vs the other big guys on comparable plans](https://appleinsider.com/articles/25/09/19/get-an-iphone-17-pro-on-t-mobile-with-any-condition-trade-in-up-to-20-savings-vs-the-other-big-guys-on-comparable-plans?utm_source=rss)
- - [OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin](https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin)
- - [Meta&amp;#8217;s quest to own your face](https://www.theverge.com/podcast/781830/meta-smart-glasses-ray-ban-vergecast)
- - [First look at the Google Home app powered by Gemini](https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini)<!-- TECH:END -->
+ - [Get an iPhone 17 Pro on T-Mobile with any condition trade-in + up to 20% savings vs the other big guys on comparable plans](https://appleinsider.com/articles/25/09/19/get-an-iphone-17-pro-on-t-mobile-with-any-condition-trade-in-up-to-20-savings-vs-the-other-big-guys-on-comparable-plans?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

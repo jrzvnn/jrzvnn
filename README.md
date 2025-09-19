@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
+ - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
  - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
- - 😝 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
- - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
+ - 😝 [Anyone else?](http://9gag.com/gag/a7oG4Lw)
+ - 👉 [Memories](http://9gag.com/gag/aLnbxGz)<!-- MEMES:END -->
 
 ---
 

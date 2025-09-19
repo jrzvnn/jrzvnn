@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canadian law enforcement seizes $40.5M in digital assets after shutting down TradeOgre crypto exchange, making it the largest Canadian crypto seizure to date. &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/250918/p47#a250918p47)
  - [SoftBank&#39;s Vision Fund plans layoffs; sources say ~20% of staff will be impacted as SoftBank shifts resources to Masayoshi Son&#39;s large-scale AI bets in the US &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/250918/p46#a250918p46)
  - [LA-based Lingokids, an interactive learning app for kids aged 2-8, raised $120M led by Bullhound Capital and General Catalyst to help expand its IP partnerships &lpar;Dean Takahashi/GamesBeat&rpar;](http://www.techmeme.com/250918/p45#a250918p45)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-19/#ftag=CAD590a51e)
- - [MI6 launched Silent Courier, an online portal hosted on the dark web designed to let potential spies from Russia and elsewhere communicate with UK intelligence &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/250918/p44#a250918p44)
- - [Report: at an xAI meeting, Elon Musk and his executives said the Grok chatbot has 64M monthly users; OpenAI said in August that ChatGPT had 700M weekly users &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250918/p43#a250918p43)<!-- TECH:END -->
+ - [MI6 launched Silent Courier, an online portal hosted on the dark web designed to let potential spies from Russia and elsewhere communicate with UK intelligence &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/250918/p44#a250918p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

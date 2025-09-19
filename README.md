@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 buyers pack Apple Stores worldwide](https://appleinsider.com/articles/25/09/19/iphone-17-buyers-pack-apple-stores-worldwide?utm_source=rss)
+ - [16 Best Apple Watch Accessories &lpar;2025&rpar;: Bands, Chargers, Cases, and Screen Protectors](https://www.wired.com/gallery/best-apple-watch-accessories/)
  - [ChatGPT tricked to swipe sensitive data from Gmail](https://www.theverge.com/news/781746/chatgpt-gmail-shadow-leak)
  - [How Energy-Generating Sidewalks Work](https://www.wired.com/story/how-energy-generating-sidewalks-work/)
- - [EVs Have Gotten Too Powerful](https://www.wired.com/story/evs-have-gotten-too-powerful/)
- - [Meta&amp;#8217;s failed smart glasses demos had nothing to do with the Wi-Fi](https://www.theverge.com/news/781730/meta-explains-live-ai-smart-glasses-demo-failures)
- - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)<!-- TECH:END -->
+ - [EVs Have Gotten Too Powerful](https://www.wired.com/story/evs-have-gotten-too-powerful/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

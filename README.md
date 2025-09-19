@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 💣 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
- - 😝 [He he](http://9gag.com/gag/aoydrwg)
- - 👉 [100% precision](http://9gag.com/gag/apRdevp)<!-- MEMES:END -->
+ - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
+ - 💣 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)
+ - 😝 [Since I don&#39;t have friends, this is where I choose to share this cool thing that happened. Was doing some embroidery in a public park this afternoon, when this distinguished gentleman decided to politely sit on my lap for more than an hour.](http://9gag.com/gag/aAymnb9)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Notion launches customizable agents that can create documents and perform other actions in the background, and says it has reached $500M in annualized revenue &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/250918/p39#a250918p39)
- - [These Are the 15 New York Officials ICE and NYPD Arrested in Manhattan](https://www.wired.com/story/ice-mass-arrests-new-york-officials/)
- - [Best Robot Lawn Mowers: After Testing Mowers for Weeks I Discovered the 4 Worth Buying](https://www.cnet.com/news/best-robot-lawn-mowers/#ftag=CAD590a51e)
- - [Sources: Nvidia spent more than $900M to hire Enfabrica CEO Rochan Sankar and other employees at the AI hardware startup and to license the company&#39;s technology &lpar;CNBC&rpar;](http://www.techmeme.com/250918/p38#a250918p38)
- - [Thursday Night Football: How to Watch Dolphins vs. Bills Tonight](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-dolphins-vs-bills-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: at an xAI meeting, Elon Musk and his executives said the Grok chatbot has 64M monthly users; OpenAI said in August that ChatGPT had 700M weekly users &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/250918/p43#a250918p43)
+ - [Inside xAI&#39;s chaotic summer: Musk reorganized xAI on the fly, researchers left over concerns it abandoned science in favor of attention-grabbing products, more &lpar;New York Times&rpar;](http://www.techmeme.com/250918/p42#a250918p42)
+ - [Flashforge AD5X review: inexpensive multi-color printing with tradeoffs](https://appleinsider.com/articles/25/09/19/flashforge-ad5x-review-inexpensive-multi-color-printing-with-tradeoffs?utm_source=rss)
+ - [Q&amp;A with YouTube CEO Neil Mohan on new AI tools to help creators, YouTube&#39;s dominance on TVs, helping creators better monetize sponsorships, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250918/p41#a250918p41)
+ - [A UK teenager allegedly tied to Scattered Spider is charged in the US over 120+ cyberattacks, and in the UK with another teen over a Transport for London hack &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/250918/p40#a250918p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

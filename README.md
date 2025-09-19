@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Microsoft is raising prices on Xbox consoles in the US again](https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us)
  - [Donald Trump Is Saying There’s a TikTok Deal. China Isn’t](https://www.wired.com/story/trump-xi-us-china-tiktok-deal/)
  - [TikTok U.S. is apparently safe, and isn&#39;t going to look or work much differently](https://appleinsider.com/articles/25/09/19/tiktok-us-is-apparently-safe-and-isnt-going-to-look-or-work-much-differently?utm_source=rss)
- - [James Bond Wannabes: The UK&#39;s Spy Office Says Learn to Use a VPN](https://www.cnet.com/tech/services-and-software/james-bond-wannabes-the-uks-spy-office-says-learn-to-use-a-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is AI Capable of &#39;Scheming?&#39; What OpenAI Found When Testing for Tricky Behavior](https://www.cnet.com/tech/services-and-software/is-ai-capable-of-scheming-what-openai-found-when-testing-for-tricky-behavior/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

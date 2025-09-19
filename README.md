@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
  - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
+ - 💣 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
+ - 😝 [Since I don&#39;t have friends, this is where I choose to share this cool thing that happened. Was doing some embroidery in a public park this afternoon, when this distinguished gentleman decided to politely sit on my lap for more than an hour.](http://9gag.com/gag/aAymnb9)
+ - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---
 

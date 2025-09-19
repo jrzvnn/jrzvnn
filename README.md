@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube Thinks AI Is Its Next Big Bang](https://www.wired.com/story/youtube-thinks-ai-is-its-next-big-bang/)
  - [Get an iPhone 17 Pro on T-Mobile with any condition trade-in + up to 20% savings vs the other big guys on comparable plans](https://appleinsider.com/articles/25/09/19/get-an-iphone-17-pro-on-t-mobile-with-any-condition-trade-in-up-to-20-savings-vs-the-other-big-guys-on-comparable-plans?utm_source=rss)
  - [OpenAI might be developing a smart speaker, glasses, voice recorder, and a pin](https://www.theverge.com/news/781854/openai-chatgpt-hardware-rumors-smart-speaker-glasses-pin)
  - [Meta&amp;#8217;s quest to own your face](https://www.theverge.com/podcast/781830/meta-smart-glasses-ray-ban-vergecast)
- - [First look at the Google Home app powered by Gemini](https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini)
- - [Report: OpenAI has considered building glasses, a digital voice recorder, and a pin and signed a deal with Luxshare to assemble at least one of its devices &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/250919/p9#a250919p9)<!-- TECH:END -->
+ - [First look at the Google Home app powered by Gemini](https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
  - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 💣 [Booooo](http://9gag.com/gag/a87nRz6)
- - 😝 [Anyone else?](http://9gag.com/gag/a7oG4Lw)
- - 👉 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)<!-- MEMES:END -->
+ - 💣 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---
 

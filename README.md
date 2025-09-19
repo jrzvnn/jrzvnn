@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: xAI has raised $10B at a post-money valuation of $200B, weeks after reportedly raising $10B in debt and equity at a ~$150B valuation &lpar;CNBC&rpar;](http://www.techmeme.com/250919/p14#a250919p14)
  - [Ugreen’s new super slim wallet tracker has 5 years of battery life](https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life)
  - [So… is there a TikTok deal or not?](https://www.theverge.com/policy/781967/tiktok-deal-us-china-still-ambiguous)
  - [10 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids&#39; Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Meta CTO says the technical issues during live demos of its new smart glasses were due to a self-inflicted DDoS and a bug that put Zuckerberg&#39;s glasses to sleep &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250919/p13#a250919p13)
- - [We want to hear about which apps aren&#39;t working right with macOS Tahoe](https://appleinsider.com/articles/25/09/19/we-want-to-hear-about-which-apps-arent-working-right-with-macos-tahoe?utm_source=rss)<!-- TECH:END -->
+ - [Meta CTO says the technical issues during live demos of its new smart glasses were due to a self-inflicted DDoS and a bug that put Zuckerberg&#39;s glasses to sleep &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250919/p13#a250919p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

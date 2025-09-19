@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
- - 😝 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
- - 👉 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)<!-- MEMES:END -->
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 💣 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---
 

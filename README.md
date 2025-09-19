@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
- - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [Triple wielding](http://9gag.com/gag/a9yV9Q0)
+ - 😝 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)
+ - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 😝 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
+ - 👉 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)<!-- MEMES:END -->
 
 ---
 

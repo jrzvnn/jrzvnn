@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This RPG series does everything wrong, and it’s working](https://www.theverge.com/games/781492/trails-in-the-sky-1st-chapter-switch-ps5-steam)
- - [The Apple Watch SE 3, Series 11, and Ultra 3 are now available](https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date)
- - [You can now buy the AirPods Pro 3](https://www.theverge.com/tech/775719/airpods-pro-3-third-gen-preorder-buy-amazon-best-buy-walmart)
- - [The Verge’s guide to upgrading your fall](https://www.theverge.com/tech/777703/fall-upgrade-books-cameras-ebikes)
- - [Which iPhone 17 Model Should You Buy?](https://www.wired.com/story/which-apple-iphone-17-models-to-buy/)<!-- TECH:END -->
+ - [Nest is dead, long live Google Home](https://www.theverge.com/report/781221/the-end-of-nest-google-home-smart-home)
+ - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)
+ - [Sources: OpenAI is recruiting from Apple&#39;s design, manufacturing, and supply chain teams, as it targets late 2026 or early 2027 for its first devices &lpar;The Information&rpar;](http://www.techmeme.com/250919/p7#a250919p7)
+ - [Nothing teases the first headphones from its budget CMF brand](https://www.theverge.com/news/781763/nothing-cmf-headphone-pro-wireless)
+ - [Mastodon, the nonprofit behind the social network, plans to offer paid hosting, moderation, and support services for organizations joining the fediverse &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250919/p6#a250919p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 😝 [When you did a f**k up as a dad](http://9gag.com/gag/aqydPov)
- - 💣 [Remember this shit?. Somehow Yoko Ono&#39;s FLAT ASS won over John Lennon&#39;s heart](http://9gag.com/gag/abAdNPO)
- - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
+ - 😝 [You can&#39;t tell if she&#39;s hot just by the shadow. Hold my beer ...](http://9gag.com/gag/a34xVwe)
+ - 😝 [Poemic](http://9gag.com/gag/a9yV951)
+ - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 👉 [Rage Comic #025](http://9gag.com/gag/azxB0Nz)<!-- MEMES:END -->
 
 ---
 

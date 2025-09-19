@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Zeitgeist](http://9gag.com/gag/aAymjog)
  - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 😝 [Feminism](http://9gag.com/gag/aE0QezG)
  - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---

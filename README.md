@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [School bullies](http://9gag.com/gag/ae9dvD5)
- - 😝 [Memories](http://9gag.com/gag/aLnbxGz)
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
+ - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 💣 [School bullies](http://9gag.com/gag/ae9dvD5)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 👉 [Parenting in 90s](http://9gag.com/gag/a5Qx45V)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Triple wielding](http://9gag.com/gag/a9yV9Q0)
- - 😝 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [He did in fact, do something. Kudos to the dad](http://9gag.com/gag/an7d6Mz)
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 💣 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
  - 😝 [That&#39;s one way to solve the problem](http://9gag.com/gag/aE0QrEO)
- - 👉 [Mom carrying the team to victory, a true masterpiece](http://9gag.com/gag/aXPdDnV)<!-- MEMES:END -->
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---
 

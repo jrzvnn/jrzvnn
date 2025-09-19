@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump appears to suggest Xi Jinping approved a deal to divest TikTok&#39;s US operations during a call, but neither side elaborated on what the approval entailed &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/250919/p21#a250919p21)
+ - [Windows 11 is adding another Copilot button nobody asked for](https://www.theverge.com/news/782194/windows-11-share-with-copilot-button)
+ - [Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”](https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation)
  - [Sources: investors in the TikTok US deal are expected to pay the Trump administration a multibillion-dollar fee for negotiating a deal with China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250919/p20#a250919p20)
- - [RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots](https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/)
- - [Corporate travel and expense management service Navan, formerly known as TripActions, files for a US IPO, reporting a $99.9M net loss on $329.4M revenue in H1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p19#a250919p19)
- - [Pattern, which helps brands optimize their sales on online marketplaces, closes up 11.6% at $15.63 per share in its Nasdaq debut, after raising $300M in its IPO &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250919/p18#a250919p18)
- - [Sources: Oracle is in discussions with Meta to provide computing power for training and deploying AI models, in a deal worth about $20B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250919/p17#a250919p17)<!-- TECH:END -->
+ - [RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots](https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

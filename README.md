@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 💣 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
- - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
+ - 😝 [Just the essentials for peak male living](http://9gag.com/gag/aAyNBPd)
+ - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
+ - 💣 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)
+ - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
+ - 👉 [God Dammit!](http://9gag.com/gag/a1mqp0G)<!-- MEMES:END -->
 
 ---
 

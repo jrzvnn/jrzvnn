@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei says DeepSeek-R1-Safe, which was trained on 1,000 of its Ascend AI chips, is &quot;nearly 100% successful&quot; in preventing politically sensitive topics &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250920/p7#a250920p7)
  - [Premier League Soccer: Stream Man United vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-united-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
  - [The US government is taking a second stab at breaking up Google](https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up)
  - [How to Properly Clean a Kid’s. Car Seat &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-a-kids-car-seat/)
- - [1Password Review &lpar;2025&rpar;: Gold Standard Security](https://www.wired.com/review/1password-2025/)
- - [Henry Halfhead is full of heart](https://www.theverge.com/games-review/776873/henry-halfhead-review-pc-ps5-switch)<!-- TECH:END -->
+ - [1Password Review &lpar;2025&rpar;: Gold Standard Security](https://www.wired.com/review/1password-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

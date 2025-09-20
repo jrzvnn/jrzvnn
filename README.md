@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 💣 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 😝 [Sad but true??? lol](http://9gag.com/gag/aAyNBAE)
+ - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 💣 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
  - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
 
 ---

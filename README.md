@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The White House says the $100K H-1B fee will not be applied to renewals or existing holders of valid visas re-entering the US, only new applicants &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p12#a250920p12)
+ - [A White House official says the $100K H-1B fee will not apply to renewals or existing holders of valid visas re-entering the US, only new applicants &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p12#a250920p12)
  - [I&#39;ll Text You the Hottest Daily Deals Right to Your Phone Free](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-daily-deals-for-free/#ftag=CAD590a51e)
  - [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000)
  - [Memos: Amazon, which employs the most H-1B holders at 14K+, and Microsoft advise H-1B staff to avoid travel and return to the US before 12:01am ET on Sept. 21 &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/250920/p11#a250920p11)

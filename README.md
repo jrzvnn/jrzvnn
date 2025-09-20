@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 😝 [Womp womp](http://9gag.com/gag/aGyo335)
- - 💣 [German Police](http://9gag.com/gag/aryd6my)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
  - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---

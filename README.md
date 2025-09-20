@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
  - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 😝 [If you can go on vacation to the country you `fled` from, then you should be deported back to that country.](http://9gag.com/gag/apRjKYB)
  - 👉 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)<!-- MEMES:END -->
 
 ---

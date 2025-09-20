@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
  - 💣 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
- - 😝 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
+ - 😝 [I need some lightbulbs changed too](http://9gag.com/gag/a34pvR8)
  - 👉 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)<!-- MEMES:END -->
 
 ---

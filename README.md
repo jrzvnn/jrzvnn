@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the essentials for peak male living](http://9gag.com/gag/aAyNBPd)
- - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
- - 💣 [God Dammit!](http://9gag.com/gag/a1mqp0G)
- - 😝 [Sad but true??? lol](http://9gag.com/gag/aAyNBAE)
- - 👉 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)<!-- MEMES:END -->
+ - 😝 [Expectations vs Reality](https://www.reddit.com/r/funny/comments/1nm85cw/expectations_vs_reality/)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 💣 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 👉 [Sad but true??? lol](http://9gag.com/gag/aAyNBAE)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air avoids &#39;bendgate&#39; in YouTube destruction &#39;test&#39;](https://appleinsider.com/articles/25/09/20/iphone-air-avoids-bendgate-in-youtube-destruction-test?utm_source=rss)
+ - [An ICE raid at an EV factory begs the question: how ‘stable’ is the US?](https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling)
  - [Perplexity struggles to scale its shopping and ad businesses nearly a year after launching ad sales and in-app purchasing, frustrating marketers and merchants &lpar;The Information&rpar;](http://www.techmeme.com/250920/p6#a250920p6)
  - [Where to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [17 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
- - [These AI Chatbots Shouldn&#39;t Have Given Me Gambling Advice. They Did Anyway](https://www.cnet.com/tech/services-and-software/these-ai-chatbots-shouldnt-have-given-me-gambling-advice-they-did-anyway/#ftag=CAD590a51e)
- - [Sorry, but You&#39;re Probably Using Your Electric Toothbrush Wrong. Here&#39;s How to Do It Right](https://www.cnet.com/health/personal-care/sorry-but-youre-probably-using-your-electric-toothbrush-wrong-heres-how-to-do-it-right/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [17 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

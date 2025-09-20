@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages](https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/)
- - [Gear News of the Week: Nothing’s Latest Earbuds, Amazon’s Hardware Event, and a New Free VPN](https://www.wired.com/story/gear-news-of-the-week-nothings-latest-earbuds-amazons-hardware-event-and-a-new-free-vpn/)
- - [Say Hello to the 2025 Ig Nobel Prize Winners](https://www.wired.com/story/say-hello-to-the-2025-ig-nobel-prize-winners/)
- - [Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward](https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/)
- - [Collins Aerospace, which provides check-in and boarding systems, confirms a &quot;cyber-related disruption&quot; as Heathrow and other European airports report issues &lpar;Reuters&rpar;](http://www.techmeme.com/250920/p5#a250920p5)<!-- TECH:END -->
+ - [Big Tech Dreams of Putting Data Centers in Space](https://www.wired.com/story/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/)
+ - [Diminish Distractions by Setting Your iPhone to Gray Scale When You&#39;re Home](https://www.wired.com/story/set-your-iphone-to-gray-scale-when-youre-home-shortcuts/)
+ - [The 51 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [The 51 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [Distillation Can Make AI Models Smaller and Cheaper](https://www.wired.com/story/how-distillation-makes-ai-models-smaller-and-cheaper/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

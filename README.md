@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
  - 😝 [Womp womp](http://9gag.com/gag/aGyo335)
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [IF it&#39;s everything it says it is, this could be a big moment in history. IF we can actually follow through to rid the world of it?](http://9gag.com/gag/ae9dXvb)
+ - 💣 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---

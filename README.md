@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The wafer-thin iPhone Air is surprisingly strong.](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)
+ - [Torras FlexLine and MiniMag are here to power your new iPhone 17 Pro Max](https://appleinsider.com/articles/25/09/20/torras-flexline-and-minimag-are-here-to-power-your-new-iphone-17-pro-max?utm_source=rss)
+ - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2025&rpar;](https://www.wired.com/gallery/best-hybrid-mattress/)
+ - [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)
  - [Republicans’ political purge is just getting started](https://www.theverge.com/policy/781974/charlie-kirk-free-speech-legal-attacks)
- - [Best Dog Beds &lpar;2025&rpar;: For All Kinds of Dogs in All Kinds of Spaces](https://www.wired.com/gallery/best-dog-bed/)
- - [Huawei says DeepSeek-R1-Safe, which was trained on 1,000 of its Ascend AI chips, is &quot;nearly 100% successful&quot; in preventing politically sensitive topics &lpar;Eduardo Baptista/Reuters&rpar;](http://www.techmeme.com/250920/p7#a250920p7)
- - [Premier League Soccer: Stream Man United vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-united-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Dog Beds &lpar;2025&rpar;: For All Kinds of Dogs in All Kinds of Spaces](https://www.wired.com/gallery/best-dog-bed/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

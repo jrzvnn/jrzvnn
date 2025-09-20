@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not so hehe little one](http://9gag.com/gag/aqyd35v)
+ - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
  - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 😝 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
+ - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---
 

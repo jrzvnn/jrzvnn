@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Womp womp](http://9gag.com/gag/aGyo335)
  - 😝 [Not so hehe little one](http://9gag.com/gag/aqyd35v)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 😝 [Strange women lying in ponds distributing cats is no basis for a system of government...](http://9gag.com/gag/apRdezD)
+ - 😝 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)
  - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---

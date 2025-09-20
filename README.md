@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premier League Soccer: Livestream Liverpool vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-everton-from-anywhere/#ftag=CAD590a51e)
  - [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30)
  - [Nvidia and Intel sidestepping questions about manufacturing in their new deal only reinforces that Intel&#39;s best path forward is to spin off its foundry business &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250920/p4#a250920p4)
  - [Similarweb: TikTok had 183M US MAUs on iOS and Android in August 2025, up 16% YoY, vs. Instagram&#39;s 169M, Facebook&#39;s 157M, Pinterest&#39;s 100M, and Snapchat&#39;s 70M &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/250920/p3#a250920p3)
- - [China&#39;s market regulator opens a probe into Chengdu Kuaigou, a Kuaishou unit involved in livestream shopping, for suspected violations of e-commerce rules &lpar;Olivia Tam/Bloomberg&rpar;](http://www.techmeme.com/250920/p2#a250920p2)
- - [Jaguar Land Rover extends its production shutdown after a cyberattack discovered in late August, and says efforts to reboot production safely &quot;will take time&quot; &lpar;Stephen Wilmot/Wall Street Journal&rpar;](http://www.techmeme.com/250920/p1#a250920p1)<!-- TECH:END -->
+ - [China&#39;s market regulator opens a probe into Chengdu Kuaigou, a Kuaishou unit involved in livestream shopping, for suspected violations of e-commerce rules &lpar;Olivia Tam/Bloomberg&rpar;](http://www.techmeme.com/250920/p2#a250920p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

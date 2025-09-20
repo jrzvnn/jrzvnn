@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 💣 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
- - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
+ - 😝 [I need some lightbulbs changed too](http://9gag.com/gag/a34pvR8)
+ - 😝 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
+ - 💣 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
+ - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
+ - 👉 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
- - 😝 [He he](http://9gag.com/gag/aoydrwg)
- - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [100% precision](http://9gag.com/gag/apRdevp)
- - 👉 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)<!-- MEMES:END -->
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 💣 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
+ - 😝 [Just casually draining people&#39;s energy online](http://9gag.com/gag/aByvDq1)
+ - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
 
 ---
 

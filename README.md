@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
  - [Big Tech Dreams of Putting Data Centers in Space](https://www.wired.com/story/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/)
  - [Diminish Distractions by Setting Your iPhone to Gray Scale When You&#39;re Home](https://www.wired.com/story/set-your-iphone-to-gray-scale-when-youre-home-shortcuts/)
  - [The 51 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The 51 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Distillation Can Make AI Models Smaller and Cheaper](https://www.wired.com/story/how-distillation-makes-ai-models-smaller-and-cheaper/)<!-- TECH:END -->
+ - [The 51 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

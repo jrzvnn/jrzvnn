@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 💣 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
- - 😝 [Good](http://9gag.com/gag/aMVNeZ1)
- - 👉 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)<!-- MEMES:END -->
+ - 💣 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 😝 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
+ - 👉 [German Police](http://9gag.com/gag/aryd6my)<!-- MEMES:END -->
 
 ---
 

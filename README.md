@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I need some lightbulbs changed too](http://9gag.com/gag/a34pvR8)
- - 😝 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
- - 💣 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 😝 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
+ - 💣 [Abandoned Uranium mine in the Czech republic](http://9gag.com/gag/aMVNe86)
  - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
- - 👉 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)<!-- MEMES:END -->
+ - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
 
 ---
 

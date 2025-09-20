@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages](https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/)
+ - [Gear News of the Week: Nothing’s Latest Earbuds, Amazon’s Hardware Event, and a New Free VPN](https://www.wired.com/story/gear-news-of-the-week-nothings-latest-earbuds-amazons-hardware-event-and-a-new-free-vpn/)
  - [Say Hello to the 2025 Ig Nobel Prize Winners](https://www.wired.com/story/say-hello-to-the-2025-ig-nobel-prize-winners/)
  - [Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward](https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/)
- - [Collins Aerospace, which provides check-in and boarding systems, confirms a &quot;cyber-related disruption&quot; as Heathrow and other European airports report issues &lpar;Reuters&rpar;](http://www.techmeme.com/250920/p5#a250920p5)
- - [Premier League Soccer: Livestream Liverpool vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-everton-from-anywhere/#ftag=CAD590a51e)
- - [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30)<!-- TECH:END -->
+ - [Collins Aerospace, which provides check-in and boarding systems, confirms a &quot;cyber-related disruption&quot; as Heathrow and other European airports report issues &lpar;Reuters&rpar;](http://www.techmeme.com/250920/p5#a250920p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Similarweb: TikTok had 183M US MAUs on iOS and Android in August 2025, up 16% YoY, vs. Instagram&#39;s 169M, Facebook&#39;s 157M, Pinterest&#39;s 100M, and Snapchat&#39;s 70M &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/250920/p3#a250920p3)
  - [China&#39;s market regulator opens a probe into Chengdu Kuaigou, a Kuaishou unit involved in livestream shopping, for suspected violations of e-commerce rules &lpar;Olivia Tam/Bloomberg&rpar;](http://www.techmeme.com/250920/p2#a250920p2)
  - [Jaguar Land Rover extends its production shutdown after a cyberattack discovered in late August, and says efforts to reboot production safely &quot;will take time&quot; &lpar;Stephen Wilmot/Wall Street Journal&rpar;](http://www.techmeme.com/250920/p1#a250920p1)
  - [Happn, a dating app with 170M registered users that matches people based on where they cross paths, agrees to a takeover deal with Beijing-based Hello Group &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p29#a250919p29)
- - [China introduces new rules to curb monks&#39; and clergy&#39;s use of livestreaming and AI for unlicensed online preaching and commercial activities, following scandals &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p28#a250919p28)
- - [xAI launches Grok 4 Fast, a multimodal model with a 2M context window and a unified architecture that combines reasoning and non-reasoning modes &lpar;xAI&rpar;](http://www.techmeme.com/250919/p27#a250919p27)<!-- TECH:END -->
+ - [China introduces new rules to curb monks&#39; and clergy&#39;s use of livestreaming and AI for unlicensed online preaching and commercial activities, following scandals &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p28#a250919p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

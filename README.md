@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jaguar Land Rover extends its production shutdown after a cyberattack discovered in late August, and says efforts to reboot production safely &quot;will take time&quot; &lpar;Stephen Wilmot/Wall Street Journal&rpar;](http://www.techmeme.com/250920/p1#a250920p1)
  - [Happn, a dating app with 170M registered users that matches people based on where they cross paths, agrees to a takeover deal with Beijing-based Hello Group &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p29#a250919p29)
  - [China introduces new rules to curb monks&#39; and clergy&#39;s use of livestreaming and AI for unlicensed online preaching and commercial activities, following scandals &lpar;Financial Times&rpar;](http://www.techmeme.com/250919/p28#a250919p28)
  - [xAI launches Grok 4 Fast, a multimodal model with a 2M context window and a unified architecture that combines reasoning and non-reasoning modes &lpar;xAI&rpar;](http://www.techmeme.com/250919/p27#a250919p27)
- - [BitGo&#39;s S-1 shows it had net income of $12.6M on revenue of $4.19B in H1 2025, compared with net income of $30.9M on revenue of $1.12B a year earlier &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250919/p26#a250919p26)
- - [Microsoft says it will bring a $3.3B data center in Wisconsin online in early 2026 and calls it &quot;the world&#39;s most powerful AI datacenter&quot; &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/250919/p25#a250919p25)<!-- TECH:END -->
+ - [BitGo&#39;s S-1 shows it had net income of $12.6M on revenue of $4.19B in H1 2025, compared with net income of $30.9M on revenue of $1.12B a year earlier &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250919/p26#a250919p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
  - 😝 [German Police](http://9gag.com/gag/aryd6my)
  - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 😝 [Just casually draining people&#39;s energy online](http://9gag.com/gag/aByvDq1)
  - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---

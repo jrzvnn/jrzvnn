@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
  - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 😝 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
- - 💣 [Abandoned Uranium mine in the Czech republic](http://9gag.com/gag/aMVNe86)
- - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
- - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
+ - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---
 

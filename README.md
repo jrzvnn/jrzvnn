@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese robotaxi operators WeRide and Pony AI are partnering with local companies like Grab to expand into Singapore, one of the world&#39;s best-mapped cities &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250920/p16#a250920p16)
  - [VCs and founders warn that the $100K fee will make H-1B sponsorship prohibitively expensive for startups, not Big Tech, and drive talent outside the US &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250920/p15#a250920p15)
  - [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)
- - [A profile of Anthropic CEO Dario Amodei, a critic of Trump and David Sacks&#39; AI agenda, arguing its hands-off approach could steer AI down a dangerous path &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250920/p14#a250920p14)
- - [Karoline Leavitt confirms Oracle will handle TikTok&#39;s data and security, and says the US is &quot;100% confident&quot; a deal is done and it &quot;just needs to be signed&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p13#a250920p13)
- - [36 Best Advent Calendars for Kids in 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 21, #833](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-21-833/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 21 #567](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-21-567/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

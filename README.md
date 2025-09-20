@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where are you Florida? Ahh, here you are!](http://9gag.com/gag/a5Qx8dq)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [Love makes you blind](http://9gag.com/gag/aZZdeAQ)
+ - 😝 [Disney representation of animals](http://9gag.com/gag/aYQd21x)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 💣 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
+ - 😝 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
  - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---

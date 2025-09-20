@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Set Up Your New iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
  - [iPhone Air avoids &#39;bendgate&#39; in YouTube destruction &#39;test&#39;](https://appleinsider.com/articles/25/09/20/iphone-air-avoids-bendgate-in-youtube-destruction-test?utm_source=rss)
- - [An ICE raid at an EV factory begs the question: how ‘stable’ is the US?](https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling)
- - [Perplexity struggles to scale its shopping and ad businesses nearly a year after launching ad sales and in-app purchasing, frustrating marketers and merchants &lpar;The Information&rpar;](http://www.techmeme.com/250920/p6#a250920p6)
- - [Where to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
- - [17 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 17 vs. Samsung&#39;s Galaxy S25: Comparing the Base Flagship Phones](https://www.cnet.com/tech/mobile/apples-iphone-17-vs-samsungs-galaxy-s25-comparing-the-base-flagship-phones/#ftag=CAD590a51e)
+ - [Pumpkin, Fanta or Cheetos: What Flavor of Orange Is the Cosmic Orange iPhone 17 Pro?](https://www.cnet.com/tech/mobile/pumpkin-fanta-or-cheeto-what-flavor-of-orange-is-the-cosmic-orange-iphone-17-pro/#ftag=CAD590a51e)
+ - [5 Warning Signs Your Gut Is Unhealthy That You Shouldn&#39;t Ignore](https://www.cnet.com/health/medical/is-your-gut-in-trouble-5-warning-signs-you-shouldnt-ignore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

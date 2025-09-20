@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
- - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
 
 ---
 

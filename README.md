@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
  - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [If you can go on vacation to the country you `fled` from, then you should be deported back to that country.](http://9gag.com/gag/apRjKYB)
- - 👉 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)<!-- MEMES:END -->
+ - 💣 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [Disney representation of animals](http://9gag.com/gag/aYQd21x)
  - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
  - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 😝 [One of those `Am I The Only One?` posts](http://9gag.com/gag/aAymnNL)
  - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---

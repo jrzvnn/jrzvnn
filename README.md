@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)
  - [White House Press Secretary Karoline Leavitt says Americans would hold six of the seven board seats for TikTok US and its algorithm would be US-controlled &lpar;Kasia Klimasinska/Bloomberg&rpar;](http://www.techmeme.com/250920/p9#a250920p9)
  - [Meta faces a backlash after using Instagram photos of teenage schoolgirls, posted by their parents with visible faces and names, to promote Threads to a man &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/250920/p8#a250920p8)
  - [&#39;Tulsa King&#39; Season 3 Release Schedule: When New Episodes Hit Paramount Plus](https://www.cnet.com/tech/services-and-software/tulsa-king-season-3-release-schedule-when-new-episodes-hit-paramount-plus/#ftag=CAD590a51e)
- - [Torras FlexLine and MiniMag are here to power your new iPhone 17 Pro Max](https://appleinsider.com/articles/25/09/20/torras-flexline-and-minimag-are-here-to-power-your-new-iphone-17-pro-max?utm_source=rss)
- - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2025&rpar;](https://www.wired.com/gallery/best-hybrid-mattress/)<!-- TECH:END -->
+ - [Torras FlexLine and MiniMag are here to power your new iPhone 17 Pro Max](https://appleinsider.com/articles/25/09/20/torras-flexline-and-minimag-are-here-to-power-your-new-iphone-17-pro-max?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

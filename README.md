@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000)
+ - [Memos: Amazon, which employs the most H-1B holders at 14K+, and Microsoft advise H-1B staff to avoid travel and return to the US before 12:01am ET on Sept. 21 &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/250920/p11#a250920p11)
  - [In a 30-minute test, Meta Ray-Ban Display was as spotty as Zuckerberg&#39;s failed demos, with the wristband occasionally failing to register finger swipes &lpar;New York Times&rpar;](http://www.techmeme.com/250920/p10#a250920p10)
  - [M4 Mac mini vs Minisforum AI X1: Compact desktop powerhouses, compared](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-minisforum-ai-x1-compact-desktop-powerhouses-compared?utm_source=rss)
- - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)
- - [White House Press Secretary Karoline Leavitt says Americans would hold six of the seven board seats for TikTok US and its algorithm would be US-controlled &lpar;Kasia Klimasinska/Bloomberg&rpar;](http://www.techmeme.com/250920/p9#a250920p9)
- - [Meta faces a backlash after using Instagram photos of teenage schoolgirls, posted by their parents with visible faces and names, to promote Threads to a man &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/250920/p8#a250920p8)<!-- TECH:END -->
+ - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

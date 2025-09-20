@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
- - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [Just casually draining people&#39;s energy online](http://9gag.com/gag/aByvDq1)
- - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
+ - 😝 [Doing the lord&#39;s work](http://9gag.com/gag/ae9doDO)
+ - 😝 [He he](http://9gag.com/gag/aoydrwg)
+ - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [100% precision](http://9gag.com/gag/apRdevp)
+ - 👉 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US government is taking a second stab at breaking up Google](https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up)
  - [How to Properly Clean a Kid’s. Car Seat &lpar;2025&rpar;](https://www.wired.com/story/how-to-clean-a-kids-car-seat/)
  - [1Password Review &lpar;2025&rpar;: Gold Standard Security](https://www.wired.com/review/1password-2025/)
  - [Henry Halfhead is full of heart](https://www.theverge.com/games-review/776873/henry-halfhead-review-pc-ps5-switch)
- - [How to Set Up Your New iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
- - [iPhone Air avoids &#39;bendgate&#39; in YouTube destruction &#39;test&#39;](https://appleinsider.com/articles/25/09/20/iphone-air-avoids-bendgate-in-youtube-destruction-test?utm_source=rss)<!-- TECH:END -->
+ - [How to Set Up Your New iPhone &lpar;2025&rpar;](https://www.wired.com/story/how-to-set-up-a-new-iphone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

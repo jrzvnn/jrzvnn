@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [He he](http://9gag.com/gag/aoydrwg)
- - 💣 [100% precision](http://9gag.com/gag/apRdevp)
- - 😝 [IF it&#39;s everything it says it is, this could be a big moment in history. IF we can actually follow through to rid the world of it?](http://9gag.com/gag/ae9dXvb)
- - 👉 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)<!-- MEMES:END -->
+ - 😝 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 💣 [Womp womp](http://9gag.com/gag/aGyo335)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---
 

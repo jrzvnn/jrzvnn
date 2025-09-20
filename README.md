@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the essentials for peak male living](http://9gag.com/gag/aAyNBPd)
- - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
- - 💣 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)
- - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
- - 👉 [God Dammit!](http://9gag.com/gag/a1mqp0G)<!-- MEMES:END -->
+ - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [Tinder picture vs reality](http://9gag.com/gag/aQzNPqq)
+ - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
 
 ---
 

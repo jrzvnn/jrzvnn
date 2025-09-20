@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [White House Press Secretary Karoline Leavitt says Americans would hold six of the seven board seats for TikTok US and its algorithm would be US-controlled &lpar;Kasia Klimasinska/Bloomberg&rpar;](http://www.techmeme.com/250920/p9#a250920p9)
  - [Meta faces a backlash after using Instagram photos of teenage schoolgirls, posted by their parents with visible faces and names, to promote Threads to a man &lpar;Robert Booth/The Guardian&rpar;](http://www.techmeme.com/250920/p8#a250920p8)
  - [Torras FlexLine and MiniMag are here to power your new iPhone 17 Pro Max](https://appleinsider.com/articles/25/09/20/torras-flexline-and-minimag-are-here-to-power-your-new-iphone-17-pro-max?utm_source=rss)
  - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2025&rpar;](https://www.wired.com/gallery/best-hybrid-mattress/)
- - [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)
- - [Republicans’ political purge is just getting started](https://www.theverge.com/policy/781974/charlie-kirk-free-speech-legal-attacks)<!-- TECH:END -->
+ - [The wafer-thin iPhone Air is surprisingly strong](https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

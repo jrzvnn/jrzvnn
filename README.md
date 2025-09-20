@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The White House says the $100K H-1B fee will not be applied to renewals or existing holders of valid visas re-entering the US, only new applicants &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250920/p12#a250920p12)
  - [Trump announces skilled worker visas will now cost $100,000](https://www.theverge.com/news/782251/trump-h-1b-skilled-worker-visas-cost-100000)
  - [Memos: Amazon, which employs the most H-1B holders at 14K+, and Microsoft advise H-1B staff to avoid travel and return to the US before 12:01am ET on Sept. 21 &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/250920/p11#a250920p11)
  - [In a 30-minute test, Meta Ray-Ban Display was as spotty as Zuckerberg&#39;s failed demos, with the wristband occasionally failing to register finger swipes &lpar;New York Times&rpar;](http://www.techmeme.com/250920/p10#a250920p10)
- - [M4 Mac mini vs Minisforum AI X1: Compact desktop powerhouses, compared](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-minisforum-ai-x1-compact-desktop-powerhouses-compared?utm_source=rss)
- - [Prime members can get three months of Kindle Unlimited for free](https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale)<!-- TECH:END -->
+ - [M4 Mac mini vs Minisforum AI X1: Compact desktop powerhouses, compared](https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-minisforum-ai-x1-compact-desktop-powerhouses-compared?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

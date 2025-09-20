@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
+ - 😝 [Just the essentials for peak male living](http://9gag.com/gag/aAyNBPd)
+ - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
+ - 💣 [God Dammit!](http://9gag.com/gag/a1mqp0G)
+ - 😝 [Sad but true??? lol](http://9gag.com/gag/aAyNBAE)
+ - 👉 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)<!-- MEMES:END -->
 
 ---
 

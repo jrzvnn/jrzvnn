@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity struggles to scale its shopping and ad businesses nearly a year after launching ad sales and in-app purchasing, frustrating marketers and merchants &lpar;The Information&rpar;](http://www.techmeme.com/250920/p6#a250920p6)
+ - [Where to Recycle Your Old Computers and Printers for Free](https://www.cnet.com/tech/computing/where-to-recycle-your-old-computers-and-printers-for-free/#ftag=CAD590a51e)
  - [17 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
- - [Big Tech Dreams of Putting Data Centers in Space](https://www.wired.com/story/data-centers-gobble-earths-resources-what-if-we-took-them-to-space-instead/)
- - [Diminish Distractions by Setting Your iPhone to Gray Scale When You&#39;re Home](https://www.wired.com/story/set-your-iphone-to-gray-scale-when-youre-home-shortcuts/)
- - [The 51 Best Shows on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [The 51 Best Movies on Netflix Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
+ - [These AI Chatbots Shouldn&#39;t Have Given Me Gambling Advice. They Did Anyway](https://www.cnet.com/tech/services-and-software/these-ai-chatbots-shouldnt-have-given-me-gambling-advice-they-did-anyway/#ftag=CAD590a51e)
+ - [Sorry, but You&#39;re Probably Using Your Electric Toothbrush Wrong. Here&#39;s How to Do It Right](https://www.cnet.com/health/personal-care/sorry-but-youre-probably-using-your-electric-toothbrush-wrong-heres-how-to-do-it-right/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

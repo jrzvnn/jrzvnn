@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 💣 [I want a new haircut](http://9gag.com/gag/arydPr5)
- - 😝 [Prove me wrong](http://9gag.com/gag/a5Qypgo)
- - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
+ - 😝 [Why you should brush your teeth](http://9gag.com/gag/aGyo366)
+ - 💣 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [Tinder picture vs reality](http://9gag.com/gag/aQzNPqq)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---
 

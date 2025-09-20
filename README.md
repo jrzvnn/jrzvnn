@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney representation of animals](http://9gag.com/gag/aYQd21x)
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 💣 [Her: Daddy wasn&#39;t doing his job...also Her: It&#39;s harder than your fathers](http://9gag.com/gag/awy86KW)
- - 😝 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)
- - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 💣 [It&#39;s time](http://9gag.com/gag/a34xVK5)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 👉 [I know a guy who can do it cheaper](http://9gag.com/gag/aVvdnq8)<!-- MEMES:END -->
 
 ---
 

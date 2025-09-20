@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 💣 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 😝 [Just casually draining people&#39;s energy online](http://9gag.com/gag/aByvDq1)
- - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
+ - 😝 [He he](http://9gag.com/gag/aoydrwg)
+ - 💣 [100% precision](http://9gag.com/gag/apRdevp)
+ - 😝 [IF it&#39;s everything it says it is, this could be a big moment in history. IF we can actually follow through to rid the world of it?](http://9gag.com/gag/ae9dXvb)
+ - 👉 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)<!-- MEMES:END -->
 
 ---
 

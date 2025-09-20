@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Say Hello to the 2025 Ig Nobel Prize Winners](https://www.wired.com/story/say-hello-to-the-2025-ig-nobel-prize-winners/)
+ - [Meta’s Smart Glasses Might Make You Smarter. They’ll Certainly Make You More Awkward](https://www.wired.com/story/meta-smart-glasses-cognitive-disadvantage/)
  - [Collins Aerospace, which provides check-in and boarding systems, confirms a &quot;cyber-related disruption&quot; as Heathrow and other European airports report issues &lpar;Reuters&rpar;](http://www.techmeme.com/250920/p5#a250920p5)
  - [Premier League Soccer: Livestream Liverpool vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-liverpool-vs-everton-from-anywhere/#ftag=CAD590a51e)
- - [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30)
- - [Nvidia and Intel sidestepping questions about manufacturing in their new deal only reinforces that Intel&#39;s best path forward is to spin off its foundry business &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250920/p4#a250920p4)
- - [Similarweb: TikTok had 183M US MAUs on iOS and Android in August 2025, up 16% YoY, vs. Instagram&#39;s 169M, Facebook&#39;s 157M, Pinterest&#39;s 100M, and Snapchat&#39;s 70M &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/250920/p3#a250920p3)<!-- TECH:END -->
+ - [Anker’s latest sleep buds can silence snoring](https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

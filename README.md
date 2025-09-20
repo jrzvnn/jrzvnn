@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Cloud says it now works with nine of the 10 leading AI labs, including OpenAI, and with 60% of the world&#39;s generative AI startups, fueling its growth &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250920/p17#a250920p17)
  - [Chinese robotaxi operators WeRide and Pony AI are partnering with local companies like Grab to expand into Singapore, one of the world&#39;s best-mapped cities &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250920/p16#a250920p16)
  - [VCs and founders warn that the $100K fee will make H-1B sponsorship prohibitively expensive for startups, not Big Tech, and drive talent outside the US &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/250920/p15#a250920p15)
  - [Amazon, Google, and Microsoft warn employees to rush back to the US](https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 21, #833](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-21-833/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 21 #567](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-21-567/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 21, #833](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-21-833/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

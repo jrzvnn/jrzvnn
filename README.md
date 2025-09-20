@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
- - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
- - 💣 [Womp womp](http://9gag.com/gag/aGyo335)
- - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 😝 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [Soul mates](http://9gag.com/gag/a34xVLN)
+ - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [Just casually draining people&#39;s energy online](http://9gag.com/gag/aByvDq1)
  - 👉 [It&#39;s time](http://9gag.com/gag/a34xVK5)<!-- MEMES:END -->
 
 ---

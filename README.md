@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
  - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [Tinder picture vs reality](http://9gag.com/gag/aQzNPqq)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 💣 [I want a new haircut](http://9gag.com/gag/arydPr5)
+ - 😝 [Prove me wrong](http://9gag.com/gag/a5Qypgo)
  - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
 
 ---

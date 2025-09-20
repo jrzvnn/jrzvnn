@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [100% precision](http://9gag.com/gag/apRdevp)
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 💣 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 👉 [Just offering some roadside snacks to passing cyclists in Italy, as one does](http://9gag.com/gag/a5QypNV)<!-- MEMES:END -->
+ - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [Never relax](http://9gag.com/gag/awy8Rn4)
+ - 💣 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
+ - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
 
 ---
 

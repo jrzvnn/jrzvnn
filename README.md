@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [100% precision](http://9gag.com/gag/apRdevp)
  - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [German Police](http://9gag.com/gag/aryd6my)
- - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 👉 [Never relax](http://9gag.com/gag/awy8Rn4)<!-- MEMES:END -->
+ - 💣 [UPS! give this man a raise](http://9gag.com/gag/a7oGjOz)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 👉 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)<!-- MEMES:END -->
 
 ---
 

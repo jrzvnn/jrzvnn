@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ancient Library](http://9gag.com/gag/amodjZ2)
- - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
  - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
- - 👉 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)<!-- MEMES:END -->
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 👉 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)<!-- MEMES:END -->
 
 ---
 

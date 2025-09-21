@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Three charged in Apple delivery truck robbery](https://appleinsider.com/articles/25/09/21/crime-blotter-three-charged-in-apple-delivery-truck-robbery?utm_source=rss)
  - [As carriers deploy protections against fraudulent texts, scammers are using &quot;SMS blasters&quot; that impersonate base stations to send fake messages to nearby phones &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250921/p8#a250921p8)
  - [Best Bamboo Sheets &lpar;2025&rpar;: WIRED&#39;s Brand-New Top Pick](https://www.wired.com/gallery/best-bamboo-sheets/)
  - [iOS 26: Plan Dinner With Friends With Polls in Messages](https://www.cnet.com/tech/services-and-software/ios-26-plan-dinner-with-friends-with-polls-in-messages/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Bournemouth vs. Newcastle Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-newcastle-live-from-anywhere/#ftag=CAD590a51e)
- - [iOS 26 Brings All These Changes to Your iPhone&#39;s Lock Screen](https://www.cnet.com/tech/services-and-software/ios-26-brings-all-these-changes-to-your-iphones-lock-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Bournemouth vs. Newcastle Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-newcastle-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

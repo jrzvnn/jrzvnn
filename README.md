@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based startup Mantic ranked #8 in the Metaculus forecasting cup that asks entrants to predict 60 geopolitical events, the first time an AI made the top 10 &lpar;Nikita Ostrovsky/Time&rpar;](http://www.techmeme.com/250921/p18#a250921p18)
  - [The FTC&#39;s 2023 lawsuit against Amazon goes to trial this week, alleging it used misleading tactics to entice people into Prime and made cancellation difficult &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p17#a250921p17)
  - [Markup AI, which scans, scores, and rewrites AI-generated content to ensure brand compliance for content marketers, raised a $27.5M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250921/p16#a250921p16)
  - [Kredete, which helps Africans abroad build credit while sending money home, raised a $22M Series A and launches Africa&#39;s first stablecoin-backed credit card &lpar;John Adoyi/TechCabal&rpar;](http://www.techmeme.com/250921/p15#a250921p15)
- - [Interviews with Apple&#39;s Tim Millet, Arun Mathias, and Kaiann Drance on the new neural accelerators in A19 Pro GPU cores, C1X modem, N1 wireless chip, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250921/p14#a250921p14)
- - [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game)<!-- TECH:END -->
+ - [Interviews with Apple&#39;s Tim Millet, Arun Mathias, and Kaiann Drance on the new neural accelerators in A19 Pro GPU cores, C1X modem, N1 wireless chip, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250921/p14#a250921p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

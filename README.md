@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 😝 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
- - 👉 [Yeah righttttt](http://9gag.com/gag/a6Z3mWN)<!-- MEMES:END -->
+ - 😝 [Rock, paper, scissors](http://9gag.com/gag/aE0NdoM)
+ - 😝 [Men throw rock. Men happy.](http://9gag.com/gag/a2vjz3E)
+ - 💣 [Pitbull defending its owner from attackers.](http://9gag.com/gag/a2vjzbO)
+ - 😝 [Breaking bad ending](http://9gag.com/gag/aQzNPN2)
+ - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
 
 ---
 

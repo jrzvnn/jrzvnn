@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [[OC] Yoga](https://www.reddit.com/r/funny/comments/1nmriuw/oc_yoga/)
  - 😝 [This is what the aurora looks like from directly overhead. Absolutely stunning](http://9gag.com/gag/axyndvp)
- - 😝 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)
- - 💣 [No politics, no drama, only music.](http://9gag.com/gag/amobN5v)
- - 😝 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)
- - 👉 [Prove me wrong](http://9gag.com/gag/a5Qypgo)<!-- MEMES:END -->
+ - 💣 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)
+ - 😝 [No politics, no drama, only music.](http://9gag.com/gag/amobN5v)
+ - 👉 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)<!-- MEMES:END -->
 
 ---
 

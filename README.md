@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Customers report day one scratches and scuffs on iPhone 17 Pro](https://appleinsider.com/articles/25/09/19/customers-report-day-one-scratches-and-scuffs-on-iphone-17-pro?utm_source=rss)
  - [Inside the Jaguar Land Rover cyberattack, which forced a shutdown of most systems and is likely to cost the company hundreds of millions of pounds &lpar;The Guardian&rpar;](http://www.techmeme.com/250921/p12#a250921p12)
  - [A review of Tim Berners-Lee&#39;s new book This is for Everyone, while his startup Inrupt, which aims to commercialize the Solid web protocol, struggles to scale &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250921/p11#a250921p11)
  - [Trump&amp;#8217;s H-1B visa fee isn&amp;#8217;t just about immigration, it&amp;#8217;s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty)
- - [Ultralytics, which develops the YOLO series of open-source computer vision models and sells commercial licenses, raised a $30M Series A led by Elephant VC &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250921/p10#a250921p10)
- - [Falcons vs. Panthers Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/falcons-vs-panthers-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ultralytics, which develops the YOLO series of open-source computer vision models and sells commercial licenses, raised a $30M Series A led by Elephant VC &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250921/p10#a250921p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

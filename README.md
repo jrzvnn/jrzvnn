@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
- - 😝 [Cultural enrichment](http://9gag.com/gag/aoyqE0g)
- - 💣 [Rock, paper, scissors](http://9gag.com/gag/aE0NdoM)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 💣 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
  - 😝 [A proper script will do the trick](http://9gag.com/gag/aVv1z7v)
- - 👉 [God Dammit!](http://9gag.com/gag/a1mqp0G)<!-- MEMES:END -->
+ - 👉 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)<!-- MEMES:END -->
 
 ---
 

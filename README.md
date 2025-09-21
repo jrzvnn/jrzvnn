@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 😝 [Breaking bad ending](http://9gag.com/gag/aQzNPN2)
+ - 😝 [Men throw rock. Men happy.](http://9gag.com/gag/a2vjz3E)
  - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [Nah i do mine like this.](http://9gag.com/gag/aPAdvgG)
- - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
+ - 😝 [I never knew land tanks were so hydrodynamic](http://9gag.com/gag/ajPMrq8)
+ - 👉 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)<!-- MEMES:END -->
 
 ---
 

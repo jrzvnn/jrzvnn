@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air teardown: clever use of space by placing the logic board above the 12.26 Wh battery, the same cell used in Apple&#39;s MagSafe Battery pack, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250921/p1#a250921p1)
  - [Some companies are turning to fossil fuels to power their data centers as countries around the world scramble to meet rising energy demands amid the AI boom &lpar;Rest of World&rpar;](http://www.techmeme.com/250920/p19#a250920p19)
  - [A profile of Noah Urban, who was a key member of the Scattered Spider group because of his social engineering skills and is serving a 10-year prison sentence &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250920/p18#a250920p18)
  - [iPhone Air teardown shows how Apple pulled off the thin design](https://appleinsider.com/articles/25/09/21/iphone-air-teardown-shows-how-apple-pulled-off-the-thin-design?utm_source=rss)
- - [Google Cloud says it now works with nine of the 10 leading AI labs, including OpenAI, and with 60% of the world&#39;s generative AI startups, fueling its growth &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250920/p17#a250920p17)
- - [Chinese robotaxi operators WeRide and Pony AI are partnering with local companies like Grab to expand into Singapore, one of the world&#39;s best-mapped cities &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/250920/p16#a250920p16)<!-- TECH:END -->
+ - [Google Cloud says it now works with nine of the 10 leading AI labs, including OpenAI, and with 60% of the world&#39;s generative AI startups, fueling its growth &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250920/p17#a250920p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

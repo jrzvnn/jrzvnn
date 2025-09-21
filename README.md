@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just the essentials for peak male living](http://9gag.com/gag/aAyNBPd)
  - 😝 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)
- - 💣 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
- - 😝 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)
- - 👉 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)<!-- MEMES:END -->
+ - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
+ - 💣 [Cultural enrichment](http://9gag.com/gag/aoyqE0g)
+ - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
+ - 👉 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)<!-- MEMES:END -->
 
 ---
 

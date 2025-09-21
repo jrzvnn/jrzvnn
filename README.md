@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Ancient Library](http://9gag.com/gag/amodjZ2)
  - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
  - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
  - 👉 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)<!-- MEMES:END -->
 
 ---

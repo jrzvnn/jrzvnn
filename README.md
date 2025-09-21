@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 22, #834](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-22-834/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 22 #568](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-22-568/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 22, #1556](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-22-1556/#ftag=CAD590a51e)
  - [Apple&#39;s in-house chip play has a big AI payoff in the future](https://appleinsider.com/articles/25/09/21/apples-in-house-chip-play-has-a-big-ai-payoff?utm_source=rss)
- - [The UK FCA has improved its crypto registration process, reducing approval times and increasing acceptance rate after criticism it was too slow and restrictive &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250921/p20#a250921p20)
- - [&#39;One Battle After Another&#39; Review: Probably the Best Movie Experience I&#39;ve Had All Year](https://www.cnet.com/tech/services-and-software/one-battle-after-another-review/#ftag=CAD590a51e)
- - [Amazon issues first material AirPods Pro 3 price drop](https://appleinsider.com/articles/25/09/21/amazon-issues-first-material-airpods-pro-3-price-drop?utm_source=rss)
- - [Trump administration&#39;s $100,000 H-1B fee threatens India&#39;s $280B IT services sector, which heavily relies on H-1B visas to deploy engineers to US client sites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p19#a250921p19)<!-- TECH:END -->
+ - [The UK FCA has improved its crypto registration process, reducing approval times and increasing acceptance rate after criticism it was too slow and restrictive &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250921/p20#a250921p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

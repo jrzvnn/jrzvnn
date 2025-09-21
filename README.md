@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
  - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 💣 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
- - 😝 [A proper script will do the trick](http://9gag.com/gag/aVv1z7v)
- - 👉 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)<!-- MEMES:END -->
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 💣 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
+ - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 👉 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)<!-- MEMES:END -->
 
 ---
 

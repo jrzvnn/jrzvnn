@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not mine, but i can relate.](http://9gag.com/gag/a7o6v4x)
- - 😝 [God Dammit!](http://9gag.com/gag/a1mqp0G)
- - 💣 [Cultural enrichment](http://9gag.com/gag/aoyqE0g)
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 👉 [Rock, paper, scissors](http://9gag.com/gag/aE0NdoM)<!-- MEMES:END -->
+ - 😝 [Ancient Library](http://9gag.com/gag/amodjZ2)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 💣 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 👉 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)<!-- MEMES:END -->
 
 ---
 

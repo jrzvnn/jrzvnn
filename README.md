@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OECD lists 1,300+ AI regulations, guidelines, and other policies worldwide as of September 2025, up ~30% since 2022, but international cooperation has stalled &lpar;Naoki Watanabe/Nikkei Asia&rpar;](http://www.techmeme.com/250921/p24#a250921p24)
  - [A look at UAE-based Khazna, a real estate company that builds and rents out data centers and controls 70% of the country&#39;s operational data center capacity &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250921/p23#a250921p23)
  - [A profile of Derek Li, founder of China&#39;s top adaptive learning edtech Squirrel AI, whose business is fueled by the country&#39;s relentless academic pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p22#a250921p22)
  - [&#39;Tulsa King&#39; Season 3 Release Schedule: When to Watch More on Paramount Plus](https://www.cnet.com/tech/services-and-software/tulsa-king-season-3-release-schedule-when-to-watch-more-on-paramount-plus/#ftag=CAD590a51e)
- - [A look at life in online scam compounds run by Chinese gangs on the Myanmar-Thai border, with purported Thai immigration officials luring trafficking victims &lpar;Reuters&rpar;](http://www.techmeme.com/250921/p21#a250921p21)
- - [The foldable iPhone might look like two iPhone Airs stuck together](https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown)<!-- TECH:END -->
+ - [A look at life in online scam compounds run by Chinese gangs on the Myanmar-Thai border, with purported Thai immigration officials luring trafficking victims &lpar;Reuters&rpar;](http://www.techmeme.com/250921/p21#a250921p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

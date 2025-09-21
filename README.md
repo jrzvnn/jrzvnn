@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
+ - 💣 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 👉 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)<!-- MEMES:END -->
 
 ---
 

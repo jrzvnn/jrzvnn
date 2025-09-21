@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is what the aurora looks like from directly overhead. Absolutely stunning](http://9gag.com/gag/axyndvp)
- - 😝 [Pitbull defending its owner from attackers.](http://9gag.com/gag/a2vjzbO)
- - 💣 [Rock, paper, scissors](http://9gag.com/gag/aE0NdoM)
- - 😝 [Meanwhile some homeowners are being punished for protecting their life and property.. sad times..](http://9gag.com/gag/aO8NKx3)
- - 👉 [Breaking bad ending](http://9gag.com/gag/aQzNPN2)<!-- MEMES:END -->
+ - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
+ - 👉 [Practice](http://9gag.com/gag/a34pvb7)<!-- MEMES:END -->
 
 ---
 

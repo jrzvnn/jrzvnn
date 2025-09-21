@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [No politics, no drama, only music.](http://9gag.com/gag/amobN5v)
- - 💣 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)
- - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
- - 👉 [Meanwhile some homeowners are being punished for protecting their life and property.. sad times..](http://9gag.com/gag/aO8NKx3)<!-- MEMES:END -->
+ - 😝 [`horrible` death](http://9gag.com/gag/aO8j6BM)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
+ - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
 
 ---
 

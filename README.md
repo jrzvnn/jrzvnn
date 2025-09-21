@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [No politics, no drama, only music.](http://9gag.com/gag/amobN5v)
  - 💣 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)
  - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
- - 👉 [Brother ordered 1kg cashews on Amazon, got 2 almonds instead](https://www.reddit.com/r/funny/comments/1nmpdb1/brother_ordered_1kg_cashews_on_amazon_got_2/)<!-- MEMES:END -->
+ - 👉 [Meanwhile some homeowners are being punished for protecting their life and property.. sad times..](http://9gag.com/gag/aO8NKx3)<!-- MEMES:END -->
 
 ---
 

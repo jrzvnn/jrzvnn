@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers suggest LLM-powered medical AI tools understate the severity of symptoms in female patients and show less &quot;empathy&quot; toward Black and Asian patients &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250921/p6#a250921p6)
  - [A profile of Edwin Chen, the CEO of Surge AI, a Scale AI rival that had $1.2B revenue in 2024, is profitable, and is reportedly raising $1B at a $30B valuation &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250921/p5#a250921p5)
  - [Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, is up 41% YTD vs. Nasdaq&#39;s 17%, driven by China&#39;s AI and chip self-sufficiency push &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/250921/p4#a250921p4)
  - [Amazon expands Multichannel Fulfillment to let Walmart sellers use Amazon&#39;s logistics network to deliver orders and announces support for Shein by year-end &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250921/p3#a250921p3)
- - [Diplomats say the EU is moving to exclude Meta, Apple, Google, and Amazon from the new Financial Data Access system to protect the bloc&#39;s &quot;digital sovereignty&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250921/p2#a250921p2)
- - [iPhone Air teardown: clever use of space by placing the logic board above the 12.26 Wh battery, the same cell used in Apple&#39;s MagSafe Battery pack, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250921/p1#a250921p1)<!-- TECH:END -->
+ - [Diplomats say the EU is moving to exclude Meta, Apple, Google, and Amazon from the new Financial Data Access system to protect the bloc&#39;s &quot;digital sovereignty&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250921/p2#a250921p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

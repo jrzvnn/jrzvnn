@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 💣 [Practice](http://9gag.com/gag/a34pvb7)
- - 😝 [My posts dont show in fresh, so I need to repost something good to see what the problem is, me or the post.](http://9gag.com/gag/aByNRex)
- - 👉 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)<!-- MEMES:END -->
+ - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
+ - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
 
 ---
 

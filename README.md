@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 💣 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
- - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
+ - 😝 [This is what the aurora looks like from directly overhead. Absolutely stunning](http://9gag.com/gag/axyndvp)
+ - 😝 [Pitbull defending its owner from attackers.](http://9gag.com/gag/a2vjzbO)
+ - 💣 [Rock, paper, scissors](http://9gag.com/gag/aE0NdoM)
+ - 😝 [Meanwhile some homeowners are being punished for protecting their life and property.. sad times..](http://9gag.com/gag/aO8NKx3)
+ - 👉 [Breaking bad ending](http://9gag.com/gag/aQzNPN2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kredete, which helps Africans abroad build credit while sending money home, raised a $22M Series A and launches Africa&#39;s first stablecoin-backed credit card &lpar;John Adoyi/TechCabal&rpar;](http://www.techmeme.com/250921/p15#a250921p15)
  - [Interviews with Apple&#39;s Tim Millet, Arun Mathias, and Kaiann Drance on the new neural accelerators in A19 Pro GPU cores, C1X modem, N1 wireless chip, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250921/p14#a250921p14)
  - [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game)
  - [Inside Apple Marunouchi: Tokyo&#39;s largest Apple Store](https://appleinsider.com/articles/25/09/21/inside-apple-marunouchi-tokyos-largest-apple-store?utm_source=rss)
- - [Trump says Fox CEO Lachlan Murdoch &quot;is involved&quot; in the ownership group for TikTok US and &quot;Rupert is probably going to be in the group&quot; along with Michael Dell &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250921/p13#a250921p13)
- - [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)<!-- TECH:END -->
+ - [Trump says Fox CEO Lachlan Murdoch &quot;is involved&quot; in the ownership group for TikTok US and &quot;Rupert is probably going to be in the group&quot; along with Michael Dell &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250921/p13#a250921p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

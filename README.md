@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says Fox CEO Lachlan Murdoch &quot;is involved&quot; in the ownership group for TikTok US and &quot;Rupert is probably going to be in the group&quot; along with Michael Dell &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250921/p13#a250921p13)
+ - [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)
  - [Customers report day one scratches and scuffs on iPhone 17 Pro](https://appleinsider.com/articles/25/09/19/customers-report-day-one-scratches-and-scuffs-on-iphone-17-pro?utm_source=rss)
  - [Inside the Jaguar Land Rover cyberattack, which forced a shutdown of most systems and is likely to cost the company hundreds of millions of pounds &lpar;The Guardian&rpar;](http://www.techmeme.com/250921/p12#a250921p12)
- - [A review of Tim Berners-Lee&#39;s new book This is for Everyone, while his startup Inrupt, which aims to commercialize the Solid web protocol, struggles to scale &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250921/p11#a250921p11)
- - [Trump&amp;#8217;s H-1B visa fee isn&amp;#8217;t just about immigration, it&amp;#8217;s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty)
- - [Ultralytics, which develops the YOLO series of open-source computer vision models and sells commercial licenses, raised a $30M Series A led by Elephant VC &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250921/p10#a250921p10)<!-- TECH:END -->
+ - [A review of Tim Berners-Lee&#39;s new book This is for Everyone, while his startup Inrupt, which aims to commercialize the Solid web protocol, struggles to scale &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250921/p11#a250921p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

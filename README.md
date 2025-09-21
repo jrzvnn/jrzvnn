@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why you should brush your teeth](http://9gag.com/gag/aGyo366)
- - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
- - 💣 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
- - 👉 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)<!-- MEMES:END -->
+ - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
+ - 😝 [Cultural enrichment](http://9gag.com/gag/aoyqE0g)
+ - 💣 [Rock, paper, scissors](http://9gag.com/gag/aE0NdoM)
+ - 😝 [A proper script will do the trick](http://9gag.com/gag/aVv1z7v)
+ - 👉 [God Dammit!](http://9gag.com/gag/a1mqp0G)<!-- MEMES:END -->
 
 ---
 

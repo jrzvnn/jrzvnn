@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 😝 [`horrible` death](http://9gag.com/gag/aO8j6BM)
- - 💣 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
- - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
+ - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 💣 [Practice](http://9gag.com/gag/a34pvb7)
+ - 😝 [My posts dont show in fresh, so I need to repost something good to see what the problem is, me or the post.](http://9gag.com/gag/aByNRex)
+ - 👉 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)<!-- MEMES:END -->
 
 ---
 

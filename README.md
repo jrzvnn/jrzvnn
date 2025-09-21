@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
  - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
  - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
  - 😝 [Guy gets kicked off air by Sky News for wearing a BACON shirt and exposing ISLAM](http://9gag.com/gag/aO8NqZy)
- - 👉 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)<!-- MEMES:END -->
+ - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
 
 ---
 

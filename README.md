@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hang Seng Tech Index, which tracks the top 30 Hong Kong-listed tech stocks, is up 41% YTD vs. Nasdaq&#39;s 17%, driven by AI and China&#39;s chip self-sufficiency push &lpar;William Sandlund/Financial Times&rpar;](http://www.techmeme.com/250921/p4#a250921p4)
  - [Amazon expands Multichannel Fulfillment to let Walmart sellers use Amazon&#39;s logistics network to deliver orders and announces support for Shein by year-end &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/250921/p3#a250921p3)
  - [Diplomats say the EU is moving to exclude Meta, Apple, Google, and Amazon from the new Financial Data Access system to protect the bloc&#39;s &quot;digital sovereignty&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/250921/p2#a250921p2)
  - [iPhone Air teardown: clever use of space by placing the logic board above the 12.26 Wh battery, the same cell used in Apple&#39;s MagSafe Battery pack, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250921/p1#a250921p1)
- - [Some companies are turning to fossil fuels to power their data centers as countries around the world scramble to meet rising energy demands amid the AI boom &lpar;Rest of World&rpar;](http://www.techmeme.com/250920/p19#a250920p19)
- - [A profile of Noah Urban, who was a key member of the Scattered Spider group because of his social engineering skills and is serving a 10-year prison sentence &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/250920/p18#a250920p18)<!-- TECH:END -->
+ - [Some companies are turning to fossil fuels to power their data centers as countries around the world scramble to meet rising energy demands amid the AI boom &lpar;Rest of World&rpar;](http://www.techmeme.com/250920/p19#a250920p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s in-house chip play has a big AI payoff in the future](https://appleinsider.com/articles/25/09/21/apples-in-house-chip-play-has-a-big-ai-payoff?utm_source=rss)
  - [The UK FCA has improved its crypto registration process, reducing approval times and increasing acceptance rate after criticism it was too slow and restrictive &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/250921/p20#a250921p20)
+ - [&#39;One Battle After Another&#39; Review: Probably the Best Movie Experience I&#39;ve Had All Year](https://www.cnet.com/tech/services-and-software/one-battle-after-another-review/#ftag=CAD590a51e)
  - [Amazon issues first material AirPods Pro 3 price drop](https://appleinsider.com/articles/25/09/21/amazon-issues-first-material-airpods-pro-3-price-drop?utm_source=rss)
- - [Trump administration&#39;s $100,000 H-1B fee threatens India&#39;s $280B IT services sector, which heavily relies on H-1B visas to deploy engineers to US client sites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p19#a250921p19)
- - [The touchscreen MacBook rumors are never ending](https://www.theverge.com/news/782302/touchscreen-oled-macbook-rumors)
- - [UK-based startup Mantic ranked #8 in the Metaculus forecasting cup that asks entrants to predict 60 geopolitical events, the first time an AI made the top 10 &lpar;Nikita Ostrovsky/Time&rpar;](http://www.techmeme.com/250921/p18#a250921p18)<!-- TECH:END -->
+ - [Trump administration&#39;s $100,000 H-1B fee threatens India&#39;s $280B IT services sector, which heavily relies on H-1B visas to deploy engineers to US client sites &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p19#a250921p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

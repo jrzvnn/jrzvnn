@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
  - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
  - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 😝 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
  - 👉 [Yeah righttttt](http://9gag.com/gag/a6Z3mWN)<!-- MEMES:END -->
 
 ---

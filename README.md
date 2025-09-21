@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 💣 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
- - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
+ - 😝 [Meanwhile some homeowners are being punished for protecting their life and property.. sad times..](http://9gag.com/gag/aO8NKx3)
+ - 😝 [Cultural enrichment](http://9gag.com/gag/aoyqE0g)
+ - 💣 [Just offering some roadside snacks to passing cyclists in Italy, as one does](http://9gag.com/gag/a5QypNV)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 👉 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)<!-- MEMES:END -->
 
 ---
 

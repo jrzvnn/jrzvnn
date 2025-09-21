@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Bamboo Sheets &lpar;2025&rpar;: WIRED&#39;s Brand-New Top Pick](https://www.wired.com/gallery/best-bamboo-sheets/)
  - [The NFL Goes MrBeast Mode](https://www.wired.com/story/the-nfl-goes-mrbeast-mode/)
  - [White House Press Secretary says the $100K H-1B fee is not an annual fee and it is a &quot;one-time fee that applies only to the petition&quot; in the upcoming lottery &lpar;Karoline Leavitt/@presssec&rpar;](http://www.techmeme.com/250921/p7#a250921p7)
  - [VPNs Are in High Demand for These Main Reasons](https://www.cnet.com/tech/services-and-software/vpns-are-in-high-demand-for-these-main-reasons/#ftag=CAD590a51e)
- - [Researchers suggest LLM-powered medical AI tools understate the severity of symptoms in female patients and show less &quot;empathy&quot; toward Black and Asian patients &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250921/p6#a250921p6)
- - [A profile of Edwin Chen, the CEO of Surge AI, a Scale AI rival that had $1.2B revenue in 2024, is profitable, and is reportedly raising $1B at a $30B valuation &lpar;Phoebe Liu/Forbes&rpar;](http://www.techmeme.com/250921/p5#a250921p5)<!-- TECH:END -->
+ - [Researchers suggest LLM-powered medical AI tools understate the severity of symptoms in female patients and show less &quot;empathy&quot; toward Black and Asian patients &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250921/p6#a250921p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

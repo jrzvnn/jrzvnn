@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air hints at what iPhone Fold will look like](https://appleinsider.com/articles/25/09/21/iphone-air-hints-at-what-iphone-fold-will-look-like?utm_source=rss)
  - [25 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)
  - [Why PlayStation and Xbox are no longer about the station or the box](https://www.theverge.com/column/781303/microsoft-sony-playstation-xbox-future-of-gaming-console)
  - [The best smart glasses got a little better](https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer)
- - [Crime blotter: Three charged in Apple delivery truck robbery](https://appleinsider.com/articles/25/09/21/crime-blotter-three-charged-in-apple-delivery-truck-robbery?utm_source=rss)
- - [La Liga Soccer: Stream Real Madrid vs. Espanyol Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-espanyol-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: Three charged in Apple delivery truck robbery](https://appleinsider.com/articles/25/09/21/crime-blotter-three-charged-in-apple-delivery-truck-robbery?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

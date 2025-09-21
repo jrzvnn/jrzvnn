@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&amp;#8217;s H-1B visa fee isn&amp;#8217;t just about immigration, it&amp;#8217;s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty)
  - [Ultralytics, which develops the YOLO series of open-source computer vision models and sells commercial licenses, raised a $30M Series A led by Elephant VC &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250921/p10#a250921p10)
  - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
  - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)
- - [iPhone Air hints at what iPhone Fold will look like](https://appleinsider.com/articles/25/09/21/iphone-air-hints-at-what-iphone-fold-will-look-like?utm_source=rss)
- - [An inside look at Léon Thévenin, the only undersea internet cable repair ship permanently stationed in Africa, operated by the French telecom company Orange &lpar;Rest of World&rpar;](http://www.techmeme.com/250921/p9#a250921p9)<!-- TECH:END -->
+ - [iPhone Air hints at what iPhone Fold will look like](https://appleinsider.com/articles/25/09/21/iphone-air-hints-at-what-iphone-fold-will-look-like?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

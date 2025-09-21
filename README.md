@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
  - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 💣 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
  - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 💣 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
  - 👉 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)<!-- MEMES:END -->
 
 ---

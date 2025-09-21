@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That looks very satisfying...](http://9gag.com/gag/aGyoPnZ)
- - 😝 [Such amazing birds](http://9gag.com/gag/aW4NB7q)
- - 💣 [Cultural enrichment](http://9gag.com/gag/aoyqE0g)
- - 😝 [After the UK also durch Citizens stand up against Migration-Politics.](http://9gag.com/gag/a87Xdw1)
- - 👉 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)<!-- MEMES:END -->
+ - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 😝 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
+ - 💣 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 👉 [Why you should brush your teeth](http://9gag.com/gag/aGyo366)<!-- MEMES:END -->
 
 ---
 

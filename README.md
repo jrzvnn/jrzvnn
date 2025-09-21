@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`horrible` death](http://9gag.com/gag/aO8j6BM)
- - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
- - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 😝 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
- - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
+ - 😝 [This is what the aurora looks like from directly overhead. Absolutely stunning](http://9gag.com/gag/axyndvp)
+ - 😝 [No hate speach, its more a question.](http://9gag.com/gag/a4PrpD6)
+ - 💣 [No politics, no drama, only music.](http://9gag.com/gag/amobN5v)
+ - 😝 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)
+ - 👉 [Prove me wrong](http://9gag.com/gag/a5Qypgo)<!-- MEMES:END -->
 
 ---
 

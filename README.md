@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Mushroom Gummies on the Market, Lab-Approved &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-gummies/)
  - [iPhone Air hints at what iPhone Fold will look like](https://appleinsider.com/articles/25/09/21/iphone-air-hints-at-what-iphone-fold-will-look-like?utm_source=rss)
  - [An inside look at Léon Thévenin, the only undersea internet cable repair ship permanently stationed in Africa, operated by the French telecom company Orange &lpar;Rest of World&rpar;](http://www.techmeme.com/250921/p9#a250921p9)
  - [Premier League Soccer: Stream Arsenal vs. Man City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-man-city-live-from-anywhere/#ftag=CAD590a51e)
- - [25 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)
- - [One of the Year&#39;s Biggest Horror Movies Is Now Streaming on Netflix](https://www.cnet.com/tech/services-and-software/28-years-later-how-to-watch-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [25 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

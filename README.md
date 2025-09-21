@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
  - 😝 [If it&#39;s brown lay down, if it&#39;s black fight back, if it&#39;s white goodnight.](http://9gag.com/gag/aoydBm3)
- - 💣 [German Police](http://9gag.com/gag/aryd6my)
+ - 😝 [Why you should brush your teeth](http://9gag.com/gag/aGyo366)
+ - 💣 [An octopus has three hearts.](http://9gag.com/gag/aPApNNG)
  - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
- - 👉 [Why you should brush your teeth](http://9gag.com/gag/aGyo366)<!-- MEMES:END -->
+ - 👉 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
- - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
- - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
+ - 😝 [Dog saves his kid from blitz attack](http://9gag.com/gag/ae9dXdB)
+ - 😝 [`horrible` death](http://9gag.com/gag/aO8j6BM)
+ - 💣 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
  - 👉 [And the winner is......](http://9gag.com/gag/aW4dVwn)<!-- MEMES:END -->
 
 ---

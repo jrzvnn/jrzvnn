@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [25 Key iPhone Settings to Change &lpar;2025&rpar;](https://www.wired.com/story/key-iphone-settings-to-change/)
+ - [Why PlayStation and Xbox are no longer about the station or the box](https://www.theverge.com/column/781303/microsoft-sony-playstation-xbox-future-of-gaming-console)
+ - [The best smart glasses got a little better](https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer)
  - [Crime blotter: Three charged in Apple delivery truck robbery](https://appleinsider.com/articles/25/09/21/crime-blotter-three-charged-in-apple-delivery-truck-robbery?utm_source=rss)
- - [As carriers deploy protections against fraudulent texts, scammers are using &quot;SMS blasters&quot; that impersonate base stations to send fake messages to nearby phones &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/250921/p8#a250921p8)
- - [Best Bamboo Sheets &lpar;2025&rpar;: WIRED&#39;s Brand-New Top Pick](https://www.wired.com/gallery/best-bamboo-sheets/)
- - [iOS 26: Plan Dinner With Friends With Polls in Messages](https://www.cnet.com/tech/services-and-software/ios-26-plan-dinner-with-friends-with-polls-in-messages/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Bournemouth vs. Newcastle Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-bournemouth-vs-newcastle-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Real Madrid vs. Espanyol Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-espanyol-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

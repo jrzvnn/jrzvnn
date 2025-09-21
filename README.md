@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with Apple&#39;s Tim Millet, Arun Mathias, and Kaiann Drance on the new neural accelerators in A19 Pro GPU cores, C1X modem, N1 wireless chip, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250921/p14#a250921p14)
+ - [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game)
+ - [Inside Apple Marunouchi: Tokyo&#39;s largest Apple Store](https://appleinsider.com/articles/25/09/21/inside-apple-marunouchi-tokyos-largest-apple-store?utm_source=rss)
  - [Trump says Fox CEO Lachlan Murdoch &quot;is involved&quot; in the ownership group for TikTok US and &quot;Rupert is probably going to be in the group&quot; along with Michael Dell &lpar;Erin Doherty/CNBC&rpar;](http://www.techmeme.com/250921/p13#a250921p13)
- - [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)
- - [Customers report day one scratches and scuffs on iPhone 17 Pro](https://appleinsider.com/articles/25/09/19/customers-report-day-one-scratches-and-scuffs-on-iphone-17-pro?utm_source=rss)
- - [Inside the Jaguar Land Rover cyberattack, which forced a shutdown of most systems and is likely to cost the company hundreds of millions of pounds &lpar;The Guardian&rpar;](http://www.techmeme.com/250921/p12#a250921p12)
- - [A review of Tim Berners-Lee&#39;s new book This is for Everyone, while his startup Inrupt, which aims to commercialize the Solid web protocol, struggles to scale &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250921/p11#a250921p11)<!-- TECH:END -->
+ - [A jury will decide if Amazon illegally tricked people into paying for Prime](https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

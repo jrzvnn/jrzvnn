@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beautiful Lake](http://9gag.com/gag/ayNzyop)
- - 😝 [Residents in Dearborn, MI share what it\u2019s like to have to listen to the Muslim call to prayer being blasted through the city five times a day.](http://9gag.com/gag/aYQnjjN)
- - 💣 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)
- - 😝 [A proper script will do the trick](http://9gag.com/gag/aVv1z7v)
- - 👉 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)<!-- MEMES:END -->
+ - 😝 [Why you should brush your teeth](http://9gag.com/gag/aGyo366)
+ - 😝 [This bionic arm is just incredible](http://9gag.com/gag/arydP7p)
+ - 💣 [Dishonor on thy game](http://9gag.com/gag/a2vjEq9)
+ - 😝 [This is 9gag not the UK, no need to censor every word ffs](http://9gag.com/gag/aKGL0bZ)
+ - 👉 [The ultimate dad joke](http://9gag.com/gag/aGyoP4n)<!-- MEMES:END -->
 
 ---
 

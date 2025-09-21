@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Kredete, which helps Africans abroad build credit while sending money home, raised a $22M Series A and launches Africa&#39;s first stablecoin-backed credit card &lpar;John Adoyi/TechCabal&rpar;](http://www.techmeme.com/250921/p15#a250921p15)
  - [Interviews with Apple&#39;s Tim Millet, Arun Mathias, and Kaiann Drance on the new neural accelerators in A19 Pro GPU cores, C1X modem, N1 wireless chip, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/250921/p14#a250921p14)
  - [Montblanc is getting into the digital notepad game](https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game)
- - [Inside Apple Marunouchi: Tokyo&#39;s largest Apple Store](https://appleinsider.com/articles/25/09/21/inside-apple-marunouchi-tokyos-largest-apple-store?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Marvel Zombies&#39;: How to Watch Marvel&#39;s All-New Animated Show](https://www.cnet.com/tech/services-and-software/marvel-zombies-how-to-watch-marvels-all-new-animated-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

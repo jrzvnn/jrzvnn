@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Derek Li, founder of China&#39;s top adaptive learning edtech Squirrel AI, whose business is fueled by the country&#39;s relentless academic pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p22#a250921p22)
+ - [&#39;Tulsa King&#39; Season 3 Release Schedule: When to Watch More on Paramount Plus](https://www.cnet.com/tech/services-and-software/tulsa-king-season-3-release-schedule-when-to-watch-more-on-paramount-plus/#ftag=CAD590a51e)
  - [A look at life in online scam compounds run by Chinese gangs on the Myanmar-Thai border, with purported Thai immigration officials luring trafficking victims &lpar;Reuters&rpar;](http://www.techmeme.com/250921/p21#a250921p21)
  - [The foldable iPhone might look like two iPhone Airs stuck together](https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 22, #834](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-22-834/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 22 #568](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-22-568/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 22, #1556](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-22-1556/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 22, #834](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-22-834/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

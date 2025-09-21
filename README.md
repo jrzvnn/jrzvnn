@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at life in online scam compounds run by Chinese gangs on the Myanmar-Thai border, with purported Thai immigration officials luring trafficking victims &lpar;Reuters&rpar;](http://www.techmeme.com/250921/p21#a250921p21)
  - [The foldable iPhone might look like two iPhone Airs stuck together](https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 22, #834](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-22-834/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 22 #568](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-22-568/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 22, #1556](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-22-1556/#ftag=CAD590a51e)
- - [Apple&#39;s in-house chip play has a big AI payoff in the future](https://appleinsider.com/articles/25/09/21/apples-in-house-chip-play-has-a-big-ai-payoff?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 22, #1556](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-22-1556/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A review of Tim Berners-Lee&#39;s new book This is for Everyone, while his startup Inrupt, which aims to commercialize the Solid web protocol, struggles to scale &lpar;John Thornhill/Financial Times&rpar;](http://www.techmeme.com/250921/p11#a250921p11)
  - [Trump&amp;#8217;s H-1B visa fee isn&amp;#8217;t just about immigration, it&amp;#8217;s about fealty](https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty)
  - [Ultralytics, which develops the YOLO series of open-source computer vision models and sells commercial licenses, raised a $30M Series A led by Elephant VC &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250921/p10#a250921p10)
- - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Falcons vs. Panthers Livestream: How to Watch NFL Week 3 Online Today](https://www.cnet.com/tech/services-and-software/falcons-vs-panthers-livestream-how-to-watch-nfl-week-3-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

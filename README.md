@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 is getting a video wallpaper feature](https://www.theverge.com/news/782383/microsoft-windows-11-video-wallpapers)
- - [UK-based Tide, a neobank used by 1.6M micro and small enterprises, half of them in India, raised $120M led by TPG at a $1.5B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250922/p2#a250922p2)
- - [A look at the data center cluster in the Chinese city of Wuhu, where 15 companies, including Huawei, have built data centers with a total investment of $37B &lpar;Financial Times&rpar;](http://www.techmeme.com/250922/p1#a250922p1)
- - [Silent Hill f Review: A Misnamed and Misguided Survival Horror Game](https://www.cnet.com/tech/gaming/silent-hill-f-review/#ftag=CAD590a51e)
- - [Silent Hill F has two killer ingredients: mystery and rage](https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam)<!-- TECH:END -->
+ - [Livestream: Tech Went All in on Trump. Now What?](https://www.wired.com/story/livestream-tech-went-all-in-on-trump-now-what/)
+ - [Low prices, available land, and cooler weather are driving the data center boom in the Nordics, which have 1.5 GW of capacity live and 7.5 GW in the pipeline &lpar;Maggie Shiltagh/Bloomberg&rpar;](http://www.techmeme.com/250922/p3#a250922p3)
+ - [Palantir Wants to Be a Lifestyle Brand](https://www.wired.com/story/palantir-wants-to-be-a-lifestyle-brand/)
+ - [I Thought I Knew Silicon Valley. I Was Wrong](https://www.wired.com/story/silicon-valley-politics-shift/)
+ - [WIRED’s Politics Issue Cover Is Coming to a City Near You](https://www.wired.com/story/wired-politics-cover-search/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

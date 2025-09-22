@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of Nintendo’s amiibo figures are up to 70 percent off](https://www.theverge.com/tech/782445/some-of-nintendos-amiibo-figures-are-up-to-70-percent-off)
- - [The US v. Google ad tech trial, in which a judge ruled that the company illegally monopolized the digital ad market, begins its remedies phase &lpar;Digiday&rpar;](http://www.techmeme.com/250922/p9#a250922p9)
- - [T-Mobile CEO Mike Sievert is stepping down](https://www.theverge.com/news/782429/t-mobile-ceo-mike-sievert-stepping-down-srini-gopalan)
- - [The Mandalorian and Grogu channels classic Star Wars in first trailer](https://www.theverge.com/news/782419/the-mandalorian-and-grogu-trailer-star-wars)
- - [Google DeepMind updates its Frontier Safety Framework to account for new risks, including the potential for models to resist shutdown or modification by humans &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250922/p8#a250922p8)<!-- TECH:END -->
+ - [Record labels claim AI generator Suno illegally ripped their songs from YouTube](https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube)
+ - [Sources: smart ring maker Oura is raising an $875M+ Series E at a $10.9B valuation, up from $5B in November 2024, and has sold ~3M rings over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250922/p10#a250922p10)
+ - [Dropout’s Sam Reich on business, comedy, and keeping the internet weird](https://www.theverge.com/podcast/781331/hank-green-sam-reich-dropout-collegehumor-game-changer)
+ - [Why your next car should be an electric cargo bike](https://www.theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus)
+ - [Some of Nintendo’s amiibo figures are up to 70 percent off](https://www.theverge.com/tech/782445/some-of-nintendos-amiibo-figures-are-up-to-70-percent-off)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

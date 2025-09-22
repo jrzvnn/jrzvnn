@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an interview, Brian Armstrong says Coinbase plans to become a financial super app that integrates its crypto offering with traditional banking services &lpar;CoinDesk&rpar;](http://www.techmeme.com/250921/p26#a250921p26)
+ - [Ethereum&#39;s &quot;low-risk DeFi&quot; applications like payments and savings could drive the chain&#39;s revenue in a similar way that search and ads sustain Google&#39;s business &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/250921/p25#a250921p25)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 22, #364](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-22-364/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-22/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 21, #363](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-21-363/#ftag=CAD590a51e)
- - [OECD lists 1,300+ AI regulations, guidelines, and other policies worldwide as of September 2025, up ~30% since 2022, but international cooperation has stalled &lpar;Naoki Watanabe/Nikkei Asia&rpar;](http://www.techmeme.com/250921/p24#a250921p24)
- - [A look at UAE-based Khazna, a real estate company that builds and rents out data centers and controls 70% of the country&#39;s operational data center capacity &lpar;Divsha Bhat/Rest of World&rpar;](http://www.techmeme.com/250921/p23#a250921p23)
- - [A profile of Derek Li, founder of China&#39;s top adaptive learning edtech Squirrel AI, whose business is fueled by the country&#39;s relentless academic pressure &lpar;Bloomberg&rpar;](http://www.techmeme.com/250921/p22#a250921p22)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 21, #363](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-21-363/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

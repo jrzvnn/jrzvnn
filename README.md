@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Circuit &amp; Chisel, whose ATXP protocol enables AI agents to make autonomous payments, raised a $19.2M seed led by Primary Venture Partners and ParaFi &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250922/p21#a250922p21)
  - [WIRED Roundup: The Right Embraces Cancel Culture](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/)
  - [Apple&#39;s first developer betas of iOS 26.1, macOS Tahoe 26.1 are out now](https://appleinsider.com/articles/25/09/22/apples-first-developer-betas-of-ios-261-macos-tahoe-261-are-out-now?utm_source=rss)
  - [Google adds Gemini to Google TV, starting on TCL&#39;s new QM9K series TVs and expanding to Google TV Streamer 4K and other major TV brands later in 2025 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250922/p20#a250922p20)
- - [The Trump administration just can’t stop leaking its chats](https://www.theverge.com/report/782655/trump-truth-social-pam-bondi-post-government-security)
- - [iPhone 17 users report unexpected Wi-Fi disconnects](https://appleinsider.com/articles/25/09/22/iphone-17-users-report-unexpected-wi-fi-disconnects?utm_source=rss)<!-- TECH:END -->
+ - [The Trump administration just can’t stop leaking its chats](https://www.theverge.com/report/782655/trump-truth-social-pam-bondi-post-government-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

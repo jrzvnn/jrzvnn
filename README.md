@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is part of Disney&amp;#8217;s legacy now](https://www.theverge.com/policy/781960/disney-jimmy-kimmel-disney-boycott-bob-iger-dana-walden)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Circuit &amp; Chisel, whose ATXP protocol enables AI agents to make autonomous payments, raised a $19.2M seed led by Primary Venture Partners and ParaFi &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250922/p21#a250922p21)
- - [WIRED Roundup: The Right Embraces Cancel Culture](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/)
- - [Apple&#39;s first developer betas of iOS 26.1, macOS Tahoe 26.1 are out now](https://appleinsider.com/articles/25/09/22/apples-first-developer-betas-of-ios-261-macos-tahoe-261-are-out-now?utm_source=rss)
- - [Google adds Gemini to Google TV, starting on TCL&#39;s new QM9K series TVs and expanding to Google TV Streamer 4K and other major TV brands later in 2025 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250922/p20#a250922p20)<!-- TECH:END -->
+ - [&#39;Slow Horses&#39; Season 5: Release Date and How to Watch on Apple TV Plus](https://www.cnet.com/tech/services-and-software/slow-horses-season-5-release-date-and-how-to-watch-on-apple-tv-plus/#ftag=CAD590a51e)
+ - [Do We Really Need a &#39;The Summer I Turned Pretty&#39; Movie?](https://www.cnet.com/tech/services-and-software/do-we-really-need-a-the-summer-i-turned-pretty-movie/#ftag=CAD590a51e)
+ - [Circuit &amp; Chisel, whose ATXP protocol enables AI agents to make autonomous payments, raised a $19.2M seed led by Primary Venture Partners and ParaFi &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250922/p21#a250922p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

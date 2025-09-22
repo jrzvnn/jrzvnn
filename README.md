@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
- - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
- - 💣 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)
- - 😝 [Mission Impawsible](http://9gag.com/gag/abAmq6E)
- - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
+ - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 😝 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)
+ - 💣 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)
+ - 😝 [What have i done?](http://9gag.com/gag/axyn2r1)
+ - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---
 

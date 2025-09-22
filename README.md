@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix most Apple Music issues in macOS Tahoe](https://appleinsider.com/inside/apple-music/tips/how-to-fix-most-apple-music-issues-in-macos-tahoe?utm_source=rss)
- - [AppZen, which builds AI-powered tools to automate finance functions, raised a $180M Series D led by Riverwood Capital, bringing its total funding to $290M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/250922/p12#a250922p12)
- - [Surfshark VPN has a 7-day free trial to try out its private, safe &amp; robust service](https://appleinsider.com/articles/25/09/22/surfshark-vpn-has-a-7-day-free-trial-to-try-out-its-private-safe-robust-service?utm_source=rss)
- - [The $100K+ H-1B fee could accelerate offshoring as tech companies route work to India and other countries rather than bringing engineers to the US &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250922/p11#a250922p11)
- - [Record labels claim AI generator Suno illegally ripped their songs from YouTube](https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube)<!-- TECH:END -->
+ - [SwitchBot Matter 1.4 vacuums, Google Gemini leaks, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/09/22/switchbot-matter-14-vacuums-google-gemini-leaks-more-on-homekit-insider?utm_source=rss)
+ - [The RIAA amends its lawsuit against Suno, now accusing it of unlawfully &quot;stream ripping&quot; songs on YouTube and violating the DMCA &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250922/p14#a250922p14)
+ - [A White House official says the US will not hold a golden share or equity in TikTok US and the new board will not have a member selected by the US government &lpar;Bloomberg&rpar;](http://www.techmeme.com/250922/p13#a250922p13)
+ - [Amazon has the best price on Apple&amp;#8217;s new AirPods Pro 3](https://www.theverge.com/tech/782461/airpods-pro-3-hades-nintendo-switch-deal-sale)
+ - [How to fix most Apple Music issues in macOS Tahoe](https://appleinsider.com/inside/apple-music/tips/how-to-fix-most-apple-music-issues-in-macos-tahoe?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

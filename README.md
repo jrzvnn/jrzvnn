@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
  - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 💣 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)
- - 😝 [It&#39;s on the internet so it has to be true](http://9gag.com/gag/aZZVWXX)
+ - 💣 [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 😝 [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
  - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---

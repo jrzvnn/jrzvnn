@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yuri](http://9gag.com/gag/a6Z3wr2)
- - 😝 [What a d**head](http://9gag.com/gag/aAyNVPR)
- - 💣 [When they are Majority, there no such thing as equal and tolerance.](http://9gag.com/gag/a2vjNyD)
- - 😝 [Street smart bad boy](http://9gag.com/gag/aVv1QZP)
- - 👉 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)<!-- MEMES:END -->
+ - 😝 [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
+ - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - 💣 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)
+ - 😝 [Mission Impawsible](http://9gag.com/gag/abAmq6E)
+ - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
 
 ---
 

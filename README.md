@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Silent Hill f Review: A Misnamed and Misguided Survival Horror Game](https://www.cnet.com/tech/gaming/silent-hill-f-review/#ftag=CAD590a51e)
  - [Silent Hill F has two killer ingredients: mystery and rage](https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam)
+ - [MediaTek&#39;s Next Chip Will Boost Low-Power AI in Next Year&#39;s Top Android Phones](https://www.cnet.com/tech/mobile/mediateks-next-chip-will-boost-low-power-ai-in-next-years-top-android-phones/#ftag=CAD590a51e)
  - [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)
- - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)
- - [The Fall Equinox Arrives Today: The Seasonal Change Explained](https://www.cnet.com/science/the-autumn-equinox-is-on-monday-what-it-is-and-what-to-know-about-it/#ftag=CAD590a51e)
- - [The European Commission considers tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)<!-- TECH:END -->
+ - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

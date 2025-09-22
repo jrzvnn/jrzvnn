@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)
+ - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
  - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
+ - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 😝 [When they are Majority, there no such thing as equal and tolerance.](http://9gag.com/gag/a2vjNyD)
+ - 👉 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)<!-- MEMES:END -->
 
 ---
 

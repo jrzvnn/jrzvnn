@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Meta rolls out an AI assistant for Facebook Dating in the US and Canada, to reduce &quot;swipe fatigue&quot; by letting users find matches via natural language prompts &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/250922/p26#a250922p26)
  - [Bakkt shares jump 40%+ after naming Mike Alfred, the crypto veteran who co-founded Digital Assets Data, to its board &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250922/p25#a250922p25)
+ - [Google TV Adds Gemini AI Integration So You Can Talk to Your Television](https://www.cnet.com/tech/services-and-software/google-tv-adds-gemini-ai-integration-so-you-can-talk-to-your-television/#ftag=CAD590a51e)
  - [Facebook Dating tries using AI to end ‘swipe fatigue’](https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue)
- - [Perplexity debuts Email Assistant for Gmail and Outlook, which can manage inboxes, schedule meetings, and more, for subscribers of its $200/month Max plan &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250922/p24#a250922p24)
- - [A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy](https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations)<!-- TECH:END -->
+ - [Did Amazon Trick You Into Joining Prime? A Trial Will Decide](https://www.cnet.com/news/did-amazon-trick-you-into-joining-prime-a-trial-will-decide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

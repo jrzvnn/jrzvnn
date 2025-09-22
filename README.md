@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out an AI assistant for Facebook Dating in the US and Canada, to reduce &quot;swipe fatigue&quot; by letting users find matches via natural language prompts &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/250922/p26#a250922p26)
  - [Bakkt shares jump 40%+ after naming Mike Alfred, the crypto veteran who co-founded Digital Assets Data, to its board &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250922/p25#a250922p25)
  - [Facebook Dating tries using AI to end ‘swipe fatigue’](https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue)
  - [Perplexity debuts Email Assistant for Gmail and Outlook, which can manage inboxes, schedule meetings, and more, for subscribers of its $200/month Max plan &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250922/p24#a250922p24)
- - [A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy](https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations)
- - [Seven new Apple Immersive films let Apple Vision Pro users explore sports, music, and culture](https://appleinsider.com/articles/25/09/22/seven-new-apple-immersive-films-let-apple-vision-pro-users-explore-sports-music-and-culture?utm_source=rss)<!-- TECH:END -->
+ - [A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy](https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

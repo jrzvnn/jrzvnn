@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Cool.](http://9gag.com/gag/aVv1zPw)
  - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
- - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)
- - 👉 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)<!-- MEMES:END -->
+ - 💣 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 😝 [Mission Impawsible](http://9gag.com/gag/abAmq6E)
+ - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
 
 ---
 

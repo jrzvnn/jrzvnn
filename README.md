@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should You Subscribe to Garmin Connect+? &lpar;2025&rpar;](https://www.wired.com/story/should-you-subscribe-to-garmin-connect/)
- - [Half a century of Apple lore gets explored in David Pogue&#39;s new book](https://appleinsider.com/articles/25/09/22/half-a-century-of-apple-lore-gets-explored-in-david-pogues-new-book?utm_source=rss)
- - [Oracle promotes Clay Magouyrk and Mike Sicilia to co-CEOs, replacing Safra Catz; Magouyrk previously led Cloud Infrastructure, and Sicilia led Oracle Industries &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250922/p7#a250922p7)
- - [Books that changed our lives](https://www.theverge.com/tech/774085/books-that-changed-our-lives)
- - [The Best Cat Litter Depends on Your Cat and Type of Litter Box](https://www.wired.com/story/what-type-of-cat-litter-should-you-use/)<!-- TECH:END -->
+ - [T-Mobile CEO Mike Sievert is stepping down](https://www.theverge.com/news/782429/t-mobile-ceo-mike-sievert-stepping-down-srini-gopalan)
+ - [The Mandalorian and Grogu channels classic Star Wars in first trailer](https://www.theverge.com/news/782419/the-mandalorian-and-grogu-trailer-star-wars)
+ - [Google DeepMind updates its Frontier Safety Framework to account for new risks, including the potential for models to resist shutdown or modification by humans &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250922/p8#a250922p8)
+ - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
+ - [Should You Subscribe to Garmin Connect+? &lpar;2025&rpar;](https://www.wired.com/story/should-you-subscribe-to-garmin-connect/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

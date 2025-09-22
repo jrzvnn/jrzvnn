@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
  - [Apple stock blows past early 2025 high as investors rally back](https://appleinsider.com/articles/25/09/22/apple-stock-blows-past-early-2025-high-as-investors-rally-back?utm_source=rss)
  - [A look at CoreWeave, whose financing strategy involves using GPUs as collateral for large loans, which enabled rapid expansion but resulted in $11.2B in debt &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/250922/p27#a250922p27)
  - [What&#39;s new in iOS 26.1 beta 1: More Apple Intelligence languages, MCP in the works](https://appleinsider.com/articles/25/09/22/whats-new-in-ios-261-beta-1-more-apple-intelligence-languages-mcp-in-the-works?utm_source=rss)
- - [Steam game removed after cryptostealer takes over $150K](https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware)
- - [Jimmy Kimmel’s show will return after censorship outrage](https://www.theverge.com/news/782970/jimmy-kimmel-live-return-disney-charlie-kirk)<!-- TECH:END -->
+ - [Steam game removed after cryptostealer takes over $150K](https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

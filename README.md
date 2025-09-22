@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech leaders embracing Trump for short-term gain may ultimately imperil their companies and is counter to Silicon Valley&#39;s idealistic roots &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250922/p29#a250922p29)
  - [Over 200 prominent figures, including senior staffers at AI companies, call for international action to create &quot;red lines&quot; for AI development by the end of 2026 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250922/p28#a250922p28)
  - [iOS 26 could get a major AI boost with the Model Context Protocol](https://appleinsider.com/articles/25/09/22/ios-26-could-get-a-major-ai-boost-with-the-model-context-protocol?utm_source=rss)
  - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [Inventor of $399 Vibrating Chef&#39;s Knife Says It Requires &#39;50% Less Force to Cut&#39;](https://www.cnet.com/news/the-inventor-of-this-400-vibrating-chefs-knife-says-it-takes-50-less-force-to-cut/#ftag=CAD590a51e)
- - [I Tried Dreame’s New Wet and Dry Vacuum That Reduces Allergies by Spraying Your Carpets With Water](https://www.cnet.com/home/kitchen-and-household/i-tried-the-dreames-new-wet-and-dry-vacuum-that-reduces-allergies-by-spraying-your-carpets-with-water/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inventor of $399 Vibrating Chef&#39;s Knife Says It Requires &#39;50% Less Force to Cut&#39;](https://www.cnet.com/news/the-inventor-of-this-400-vibrating-chefs-knife-says-it-takes-50-less-force-to-cut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

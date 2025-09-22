@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 😝 [When Princes Kill for the Crown](http://9gag.com/gag/aRBNwK7)
  - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
- - 💣 [Guy gets kicked off air by Sky News for wearing a BACON shirt and exposing ISLAM](http://9gag.com/gag/aO8NqZy)
+ - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
  - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
  - 👉 [Can someone explain how a great white gets all those battle scars? What is it battling with?](http://9gag.com/gag/aQzrYY2)<!-- MEMES:END -->
 

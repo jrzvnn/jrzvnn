@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside iOS 26 - How to add free custom ringtones to your iPhone](https://appleinsider.com/inside/ios-26/tips/inside-ios-26---how-to-add-free-custom-ringtones-to-your-iphone?utm_source=rss)
  - [Apple&amp;#8217;s iPhone 17 Pro can be easily scratched](https://www.theverge.com/news/782393/apple-iphone-17-series-easily-scratched-anodized)
  - [Louisiana Hands Meta a Tax Break and Power for Its Biggest Data Center](https://www.wired.com/story/louisiana-hands-meta-a-tax-break-and-power-for-its-biggest-data-center/)
  - [White House says TikTok&#39;s new US entity would lease a copy of the algorithm from ByteDance, which Oracle would retrain; users won&#39;t need to re-download the app &lpar;Axios&rpar;](http://www.techmeme.com/250922/p5#a250922p5)
- - [Best Sheets for Every Bed and Budget &lpar;2025&rpar;: Cotton, Linen, Bamboo](https://www.wired.com/story/best-bedsheets/)
- - [The GSA adds Meta&#39;s Llama to its list of approved AI tools for US federal agencies, after previously approving Microsoft, Google, Anthropic, and Open AI&#39;s tools &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/250922/p4#a250922p4)<!-- TECH:END -->
+ - [Best Sheets for Every Bed and Budget &lpar;2025&rpar;: Cotton, Linen, Bamboo](https://www.wired.com/story/best-bedsheets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Seattle, transformed into a tech hub by Amazon and Microsoft&#39;s explosive growth, is grappling with the companies&#39; layoffs affecting local economy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p27#a250921p27)
  - [In an interview, Brian Armstrong says Coinbase plans to become a financial super app that integrates its crypto offering with traditional banking services &lpar;CoinDesk&rpar;](http://www.techmeme.com/250921/p26#a250921p26)
+ - [How to Watch &#39;Survivor&#39;: Stream Season 49 Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-survivor-stream-season-49-without-cable/#ftag=CAD590a51e)
  - [Ethereum&#39;s &quot;low-risk DeFi&quot; applications like payments and savings could drive the chain&#39;s revenue in a similar way that search and ads sustain Google&#39;s business &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/250921/p25#a250921p25)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 22, #364](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-22-364/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-22/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 21, #363](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-21-363/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 22, #364](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-22-364/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

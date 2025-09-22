@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
- - 😝 [What a d**head](http://9gag.com/gag/aAyNVPR)
- - 💣 [Nice](http://9gag.com/gag/azxDLMj)
- - 😝 [Men are simple creatures](http://9gag.com/gag/abAmqgO)
- - 👉 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)<!-- MEMES:END -->
+ - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
+ - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
+ - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
 
 ---
 

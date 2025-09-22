@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Tide, a neobank used by 1.6M micro and small enterprises, half of them in India, raised $120M led by TPG at a $1.5B valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250922/p2#a250922p2)
  - [A look at the data center cluster in the Chinese city of Wuhu, where 15 companies, including Huawei, have built data centers with a total investment of $37B &lpar;Financial Times&rpar;](http://www.techmeme.com/250922/p1#a250922p1)
  - [Silent Hill f Review: A Misnamed and Misguided Survival Horror Game](https://www.cnet.com/tech/gaming/silent-hill-f-review/#ftag=CAD590a51e)
  - [Silent Hill F has two killer ingredients: mystery and rage](https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam)
- - [MediaTek&#39;s Next Chip Will Boost Low-Power AI in Next Year&#39;s Top Android Phones](https://www.cnet.com/tech/mobile/mediateks-next-chip-will-boost-low-power-ai-in-next-years-top-android-phones/#ftag=CAD590a51e)
- - [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)<!-- TECH:END -->
+ - [MediaTek&#39;s Next Chip Will Boost Low-Power AI in Next Year&#39;s Top Android Phones](https://www.cnet.com/tech/mobile/mediateks-next-chip-will-boost-low-power-ai-in-next-years-top-android-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

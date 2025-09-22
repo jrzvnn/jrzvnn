@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
+ - 😝 [Yuri](http://9gag.com/gag/a6Z3wr2)
  - 😝 [What a d**head](http://9gag.com/gag/aAyNVPR)
- - 💣 [Yuri](http://9gag.com/gag/a6Z3wr2)
- - 😝 [When they are Majority, there no such thing as equal and tolerance.](http://9gag.com/gag/a2vjNyD)
+ - 💣 [When they are Majority, there no such thing as equal and tolerance.](http://9gag.com/gag/a2vjNyD)
+ - 😝 [Street smart bad boy](http://9gag.com/gag/aVv1QZP)
  - 👉 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)<!-- MEMES:END -->
 
 ---

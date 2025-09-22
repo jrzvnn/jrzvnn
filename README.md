@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple stock blows past early 2025 high as investors rally back](https://appleinsider.com/articles/25/09/22/apple-stock-blows-past-early-2025-high-as-investors-rally-back?utm_source=rss)
  - [Scale AI launches SEAL Showdown, a public AI benchmarking system that relies on votes from contributors in 100+ countries to gauge everyday usability of models &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250922/p15#a250922p15)
  - [SwitchBot Matter 1.4 vacuums, Google Gemini leaks, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/09/22/switchbot-matter-14-vacuums-google-gemini-leaks-more-on-homekit-insider?utm_source=rss)
  - [The RIAA amends its lawsuit against Suno, now accusing it of unlawfully &quot;stream ripping&quot; songs on YouTube and violating the DMCA &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250922/p14#a250922p14)
- - [A White House official says the US will not hold a golden share or equity in TikTok US and the new board will not have a member selected by the US government &lpar;Bloomberg&rpar;](http://www.techmeme.com/250922/p13#a250922p13)
- - [Amazon has the best price on Apple&amp;#8217;s new AirPods Pro 3](https://www.theverge.com/tech/782461/airpods-pro-3-hades-nintendo-switch-deal-sale)<!-- TECH:END -->
+ - [A White House official says the US will not hold a golden share or equity in TikTok US and the new board will not have a member selected by the US government &lpar;Bloomberg&rpar;](http://www.techmeme.com/250922/p13#a250922p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

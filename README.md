@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU Commission is considering tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)
+ - [The European Commission considers tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)
  - [How Seattle, transformed into a tech hub by Amazon and Microsoft&#39;s explosive growth, is grappling with the companies&#39; layoffs affecting local economy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p27#a250921p27)
  - [In an interview, Brian Armstrong says Coinbase plans to become a financial super app that integrates its crypto offering with traditional banking services &lpar;CoinDesk&rpar;](http://www.techmeme.com/250921/p26#a250921p26)
  - [How to Watch &#39;Survivor&#39;: Stream Season 49 Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-survivor-stream-season-49-without-cable/#ftag=CAD590a51e)

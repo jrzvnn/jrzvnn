@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 😝 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)
- - 💣 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)
+ - 😝 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)
+ - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - 💣 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
  - 😝 [What have i done?](http://9gag.com/gag/axyn2r1)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 👉 [Nice](http://9gag.com/gag/azxDLMj)<!-- MEMES:END -->
 
 ---
 

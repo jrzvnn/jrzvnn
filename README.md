@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 😝 [Mission Impawsible](http://9gag.com/gag/abAmq6E)
- - 👉 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)<!-- MEMES:END -->
+ - 😝 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
+ - 😝 [What a d**head](http://9gag.com/gag/aAyNVPR)
+ - 💣 [Yuri](http://9gag.com/gag/a6Z3wr2)
+ - 😝 [When they are Majority, there no such thing as equal and tolerance.](http://9gag.com/gag/a2vjNyD)
+ - 👉 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)<!-- MEMES:END -->
 
 ---
 

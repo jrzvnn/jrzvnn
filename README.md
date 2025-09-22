@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta rolls out an AI assistant for Facebook Dating in the US and Canada, to reduce &quot;swipe fatigue&quot; by letting users find matches via natural language prompts &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/250922/p26#a250922p26)
- - [Bakkt shares jump 40%+ after naming Mike Alfred, the crypto veteran who co-founded Digital Assets Data, to its board &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/250922/p25#a250922p25)
- - [Google TV Adds Gemini AI Integration So You Can Talk to Your Television](https://www.cnet.com/tech/services-and-software/google-tv-adds-gemini-ai-integration-so-you-can-talk-to-your-television/#ftag=CAD590a51e)
- - [Facebook Dating tries using AI to end ‘swipe fatigue’](https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue)
- - [Did Amazon Trick You Into Joining Prime? A Trial Will Decide](https://www.cnet.com/news/did-amazon-trick-you-into-joining-prime-a-trial-will-decide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What&#39;s new in iOS 26.1 beta 1: More Apple Intelligence languages, MCP in the works](https://appleinsider.com/articles/25/09/22/whats-new-in-ios-261-beta-1-more-apple-intelligence-languages-mcp-in-the-works?utm_source=rss)
+ - [Steam game removed after cryptostealer takes over $150K](https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware)
+ - [Jimmy Kimmel’s show will return after censorship outrage](https://www.theverge.com/news/782970/jimmy-kimmel-live-return-disney-charlie-kirk)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Meta rolls out an AI assistant for Facebook Dating in the US and Canada, to reduce &quot;swipe fatigue&quot; by letting users find matches via natural language prompts &lpar;Sydney Bradley/Business Insider&rpar;](http://www.techmeme.com/250922/p26#a250922p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

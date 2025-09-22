@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump administration just can’t stop leaking its chats](https://www.theverge.com/report/782655/trump-truth-social-pam-bondi-post-government-security)
+ - [iPhone 17 users report unexpected Wi-Fi disconnects](https://appleinsider.com/articles/25/09/22/iphone-17-users-report-unexpected-wi-fi-disconnects?utm_source=rss)
  - [ESR has everything you need to protect your new iPhone 17 &amp; AirPods Pro 3](https://appleinsider.com/articles/25/09/22/esr-has-everything-you-need-to-protect-your-new-iphone-17-airpods-pro-3?utm_source=rss)
  - [Jensen Huang says the 10 GW OpenAI project is equivalent to 4M-5M GPUs; the first phase is expected to come online in H2 2026 using Nvidia&#39;s Vera Rubin platform &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250922/p19#a250922p19)
- - [iPhone 17 boom inspires investors, Wedbush hikes AAPL target to $310](https://appleinsider.com/articles/25/09/22/iphone-17-boom-inspires-investors-wedbush-hikes-aapl-target-to-310?utm_source=rss)
- - [Nvidia is partnering up with OpenAI to offer compute and cash](https://www.theverge.com/ai-artificial-intelligence/782624/nvidia-is-partnering-up-with-openai-to-offer-compute-and-cash)
- - [Bitcoin-treasury company Strive, co-founded by Vivek Ramaswamy, will acquire Semler Scientific, a medical device company that has a bitcoin treasury, for $1.34B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250922/p18#a250922p18)<!-- TECH:END -->
+ - [iPhone 17 boom inspires investors, Wedbush hikes AAPL target to $310](https://appleinsider.com/articles/25/09/22/iphone-17-boom-inspires-investors-wedbush-hikes-aapl-target-to-310?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

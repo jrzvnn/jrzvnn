@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WIRED Roundup: The Right Embraces Cancel Culture](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/)
+ - [Apple&#39;s first developer betas of iOS 26.1, macOS Tahoe 26.1 are out now](https://appleinsider.com/articles/25/09/22/apples-first-developer-betas-of-ios-261-macos-tahoe-261-are-out-now?utm_source=rss)
+ - [Google adds Gemini to Google TV, starting on TCL&#39;s new QM9K series TVs and expanding to Google TV Streamer 4K and other major TV brands later in 2025 &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250922/p20#a250922p20)
  - [The Trump administration just can’t stop leaking its chats](https://www.theverge.com/report/782655/trump-truth-social-pam-bondi-post-government-security)
- - [iPhone 17 users report unexpected Wi-Fi disconnects](https://appleinsider.com/articles/25/09/22/iphone-17-users-report-unexpected-wi-fi-disconnects?utm_source=rss)
- - [ESR has everything you need to protect your new iPhone 17 &amp; AirPods Pro 3](https://appleinsider.com/articles/25/09/22/esr-has-everything-you-need-to-protect-your-new-iphone-17-airpods-pro-3?utm_source=rss)
- - [Jensen Huang says the 10 GW OpenAI project is equivalent to 4M-5M GPUs; the first phase is expected to come online in H2 2026 using Nvidia&#39;s Vera Rubin platform &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250922/p19#a250922p19)
- - [iPhone 17 boom inspires investors, Wedbush hikes AAPL target to $310](https://appleinsider.com/articles/25/09/22/iphone-17-boom-inspires-investors-wedbush-hikes-aapl-target-to-310?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 users report unexpected Wi-Fi disconnects](https://appleinsider.com/articles/25/09/22/iphone-17-users-report-unexpected-wi-fi-disconnects?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

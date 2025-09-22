@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
- - 😝 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)
- - 💣 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)
+ - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 💣 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
  - 😝 [Mission Impawsible](http://9gag.com/gag/abAmq6E)
- - 👉 [Good, good. Let the hate flow through you.](http://9gag.com/gag/a6Z3w7L)<!-- MEMES:END -->
+ - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba releases Qwen3-Omni, a family of open-source AI models that can process text, audio, image, and video inputs and generate both text and speech outputs &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250922/p32#a250922p32)
+ - [iPhone Air Proves That Thinner Can Be Better, and Easy to Repair](https://www.cnet.com/tech/mobile/iphone-air-proves-that-thinner-can-be-better-and-easy-to-repair-site-reports/#ftag=CAD590a51e)
  - [Distyl AI, which provides AI tools to automate business processes like HR management, raised $175M led by Lightspeed and Khosla Ventures at a $1.8B valuation &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/250922/p31#a250922p31)
  - [Trump escalates crackdown by designating ‘Antifa’ a domestic terror group](https://www.theverge.com/news/783158/antifa-domestic-terror-designation-donald-trump)
- - [The AI-energy apocalypse might be a little overblown](https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report)
- - [Source: the Nvidia-OpenAI deal has two separate transactions: Nvidia invests in OpenAI for non-voting shares, then OpenAI can use the cash to buy Nvidia&#39;s chips &lpar;Reuters&rpar;](http://www.techmeme.com/250922/p30#a250922p30)
- - [Tech leaders embracing Trump for short-term gain may ultimately imperil their companies and is counter to Silicon Valley&#39;s idealistic roots &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250922/p29#a250922p29)<!-- TECH:END -->
+ - [The AI-energy apocalypse might be a little overblown](https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
  - 😝 [`uK hAs fReE SpEeCh` - 2 tier kier..](http://9gag.com/gag/aND2rXw)
- - 😝 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)
- - 💣 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)
- - 😝 [Take a break from all the propagagnda and have some Pixie &amp; Brutus live action...](http://9gag.com/gag/ajPMrww)
+ - 💣 [Boss finally sees you doing something right](http://9gag.com/gag/a34pP23)
+ - 😝 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)
  - 👉 [Good, good. Let the hate flow through you.](http://9gag.com/gag/a6Z3w7L)<!-- MEMES:END -->
 
 ---

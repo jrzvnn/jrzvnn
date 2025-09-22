@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity debuts Email Assistant for Gmail and Outlook, which can manage inboxes, schedule meetings, and more, for subscribers of its $200/month Max plan &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/250922/p24#a250922p24)
+ - [A ‘global call for AI red lines’ sounds the alarm about the lack of international AI policy](https://www.theverge.com/ai-artificial-intelligence/782752/ai-global-red-lines-extreme-risk-united-nations)
+ - [Seven new Apple Immersive films let Apple Vision Pro users explore sports, music, and culture](https://appleinsider.com/articles/25/09/22/seven-new-apple-immersive-films-let-apple-vision-pro-users-explore-sports-music-and-culture?utm_source=rss)
  - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Save $36 on a Cool, Compact Hall Effect Keyboard](https://www.wired.com/story/keychron-q1-he-deal/)
- - [On the H-1B fee, Jensen Huang says he&#39;s &quot;glad&quot; to see &quot;Trump making the moves he&#39;s making&quot;; Sam Altman says &quot;outlining financial incentives seems good to me&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250922/p23#a250922p23)
- - [The Steam Deck LCD is 20 percent off through October 6th](https://www.theverge.com/tech/782737/the-steam-deck-lcd-is-20-percent-off-through-october-6th)
- - [Omnea, which makes AI tools for automating procurement, raised a $50M Series B led by Insight Partners and Khosla Ventures, taking its total funding to $75M &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250922/p22#a250922p22)<!-- TECH:END -->
+ - [Save $36 on a Cool, Compact Hall Effect Keyboard](https://www.wired.com/story/keychron-q1-he-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

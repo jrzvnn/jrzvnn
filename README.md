@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surfshark VPN has a 7-day free trial to try out its private, safe &amp; robust service](https://appleinsider.com/articles/25/09/22/surfshark-vpn-has-a-7-day-free-trial-to-try-out-its-private-safe-robust-service?utm_source=rss)
+ - [The $100K+ H-1B fee could accelerate offshoring as tech companies route work to India and other countries rather than bringing engineers to the US &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/250922/p11#a250922p11)
  - [Record labels claim AI generator Suno illegally ripped their songs from YouTube](https://www.theverge.com/news/782448/riaa-suno-ai-lawsuit-update-stream-ripping-youtube)
  - [Sources: smart ring maker Oura is raising an $875M+ Series E at a $10.9B valuation, up from $5B in November 2024, and has sold ~3M rings over the past year &lpar;Bloomberg&rpar;](http://www.techmeme.com/250922/p10#a250922p10)
- - [Dropout’s Sam Reich on business, comedy, and keeping the internet weird](https://www.theverge.com/podcast/781331/hank-green-sam-reich-dropout-collegehumor-game-changer)
- - [Why your next car should be an electric cargo bike](https://www.theverge.com/transportation/781908/electric-cargo-bike-car-replace-bike-bus)
- - [Some of Nintendo’s amiibo figures are up to 70 percent off](https://www.theverge.com/tech/782445/some-of-nintendos-amiibo-figures-are-up-to-70-percent-off)<!-- TECH:END -->
+ - [Dropout’s Sam Reich on business, comedy, and keeping the internet weird](https://www.theverge.com/podcast/781331/hank-green-sam-reich-dropout-collegehumor-game-changer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

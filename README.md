@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Practice](http://9gag.com/gag/a34pvb7)
- - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
- - 👉 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)<!-- MEMES:END -->
+ - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 💣 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 😝 [Japanese armor](http://9gag.com/gag/a2vjN9O)
+ - 👉 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)<!-- MEMES:END -->
 
 ---
 

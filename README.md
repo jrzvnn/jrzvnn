@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool.](http://9gag.com/gag/aVv1zPw)
- - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
- - 💣 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 😝 [Men are simple creatures](http://9gag.com/gag/abAmqgO)
+ - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
+ - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 💣 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
+ - 😝 [Mission Impawsible](http://9gag.com/gag/abAmq6E)
  - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
 
 ---

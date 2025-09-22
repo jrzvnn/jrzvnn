@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Silent Hill F has two killer ingredients: mystery and rage](https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam)
  - [A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster](https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/)
  - [Canon Promo Codes: 10% Off | September 2025](https://www.wired.com/story/canon-promo-code/)
- - [The European Commission considers tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)
- - [How Seattle, transformed into a tech hub by Amazon and Microsoft&#39;s explosive growth, is grappling with the companies&#39; layoffs affecting local economy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p27#a250921p27)<!-- TECH:END -->
+ - [The Fall Equinox Arrives Today: The Seasonal Change Explained](https://www.cnet.com/science/the-autumn-equinox-is-on-monday-what-it-is-and-what-to-know-about-it/#ftag=CAD590a51e)
+ - [The European Commission considers tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

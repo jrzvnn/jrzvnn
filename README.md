@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He maybe a damaged little f**k, but he is my damaged little f**k and i love him...](http://9gag.com/gag/azxDbwj)
- - 😝 [Stereotypes aren&#39;t given they&#39;re earned](http://9gag.com/gag/aD2N08N)
- - 💣 [Good, good. Let the hate flow through you.](http://9gag.com/gag/a6Z3w7L)
- - 😝 [Funny they didn&#39;t find the phrase `women and children first` offensive....](http://9gag.com/gag/aoyqZpe)
- - 👉 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)<!-- MEMES:END -->
+ - 😝 [Cool.](http://9gag.com/gag/aVv1zPw)
+ - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 💣 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 😝 [Transform the way you play and create with the ROG Flow Z13, powered by the incredible power and flexibility of the AMD Ryzen\u2122 AI Max+ 395 processor.](http://9gag.com/gag/aO8NyYv)
+ - 👉 [Mission Impawsible](http://9gag.com/gag/abAmq6E)<!-- MEMES:END -->
 
 ---
 

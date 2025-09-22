@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I just think this belongs heree](http://9gag.com/gag/ae9P3RB)
  - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
- - 💣 [Nice](http://9gag.com/gag/azxDLMj)
+ - 😝 [Nice](http://9gag.com/gag/azxDLMj)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/abAmqgO)
  - 😝 [What have i done?](http://9gag.com/gag/axyn2r1)
- - 👉 [Men are simple creatures](http://9gag.com/gag/abAmqgO)<!-- MEMES:END -->
+ - 👉 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)<!-- MEMES:END -->
 
 ---
 

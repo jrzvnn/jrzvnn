@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [A true feminist fighting for true equality](http://9gag.com/gag/agmZ35W)
  - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
  - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [Japanese armor](http://9gag.com/gag/a2vjN9O)
+ - 😝 [We don&#39;t deserve dogs](http://9gag.com/gag/aXPG0mv)
  - 👉 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)<!-- MEMES:END -->
 
 ---

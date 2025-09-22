@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to bring back Launchpad on macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-bring-back-launchpad-on-macos-tahoe?utm_source=rss)
- - [Apple stock blows past early 2025 high as investors rally back](https://appleinsider.com/articles/25/09/22/apple-stock-blows-past-early-2025-high-as-investors-rally-back?utm_source=rss)
- - [Scale AI launches SEAL Showdown, a public AI benchmarking system that relies on votes from contributors in 100+ countries to gauge everyday usability of models &lpar;Agnee Ghosh/Bloomberg&rpar;](http://www.techmeme.com/250922/p15#a250922p15)
- - [SwitchBot Matter 1.4 vacuums, Google Gemini leaks, &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/09/22/switchbot-matter-14-vacuums-google-gemini-leaks-more-on-homekit-insider?utm_source=rss)
- - [The RIAA amends its lawsuit against Suno, now accusing it of unlawfully &quot;stream ripping&quot; songs on YouTube and violating the DMCA &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250922/p14#a250922p14)<!-- TECH:END -->
+ - [TikTok is tagging videos from Gaza with TikTok Shop products](https://www.theverge.com/tech/782540/tiktok-shop-scanning-gaza-videos-e-commerce-dupes)
+ - [Rare Apple-1 in original wooden case fetches $475,000 at auction](https://appleinsider.com/articles/25/09/22/rare-apple-1-in-original-wooden-case-fetches-475000-at-auction?utm_source=rss)
+ - [Nvidia plans to invest $100B in OpenAI progressively as part of a deal to deploy at least 10 GW of Nvidia systems for OpenAI&#39;s infrastructure &lpar;OpenAI&rpar;](http://www.techmeme.com/250922/p17#a250922p17)
+ - [Oracle is replacing CEO Safra Catz with two co-CEOs](https://www.theverge.com/news/782585/oracle-ceo-safra-catz-steps-down)
+ - [MediaTek unveils its 3nm Dimensity 9500 mobile SoC, featuring an 8-core CPU, 12-core GPU with hardware ray tracing, and its ninth-gen MediaTek NPU 990 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250922/p16#a250922p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

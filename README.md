@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The European Commission considers tweaking rules to simplify users&#39; cookie preference settings, after its 2009 rule plastered the internet with consent banners &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/250921/p28#a250921p28)
  - [How Seattle, transformed into a tech hub by Amazon and Microsoft&#39;s explosive growth, is grappling with the companies&#39; layoffs affecting local economy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250921/p27#a250921p27)
  - [In an interview, Brian Armstrong says Coinbase plans to become a financial super app that integrates its crypto offering with traditional banking services &lpar;CoinDesk&rpar;](http://www.techmeme.com/250921/p26#a250921p26)
- - [How to Watch &#39;Survivor&#39;: Stream Season 49 Without Cable](https://www.cnet.com/tech/services-and-software/how-to-watch-survivor-stream-season-49-without-cable/#ftag=CAD590a51e)
- - [Ethereum&#39;s &quot;low-risk DeFi&quot; applications like payments and savings could drive the chain&#39;s revenue in a similar way that search and ads sustain Google&#39;s business &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/250921/p25#a250921p25)<!-- TECH:END -->
+ - [Ethereum&#39;s &quot;low-risk DeFi&quot; applications like payments and savings could drive the chain&#39;s revenue in a similar way that search and ads sustain Google&#39;s business &lpar;Vitalik Buterin/Vitalik Buterin&#39;s website&rpar;](http://www.techmeme.com/250921/p25#a250921p25)
+ - [OECD lists 1,300+ AI regulations, guidelines, and other policies worldwide as of September 2025, up ~30% since 2022, but international cooperation has stalled &lpar;Naoki Watanabe/Nikkei Asia&rpar;](http://www.techmeme.com/250921/p24#a250921p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

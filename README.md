@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is tagging videos from Gaza with TikTok Shop products](https://www.theverge.com/tech/782540/tiktok-shop-scanning-gaza-videos-e-commerce-dupes)
- - [Rare Apple-1 in original wooden case fetches $475,000 at auction](https://appleinsider.com/articles/25/09/22/rare-apple-1-in-original-wooden-case-fetches-475000-at-auction?utm_source=rss)
- - [Nvidia plans to invest $100B in OpenAI progressively as part of a deal to deploy at least 10 GW of Nvidia systems for OpenAI&#39;s infrastructure &lpar;OpenAI&rpar;](http://www.techmeme.com/250922/p17#a250922p17)
- - [Oracle is replacing CEO Safra Catz with two co-CEOs](https://www.theverge.com/news/782585/oracle-ceo-safra-catz-steps-down)
- - [MediaTek unveils its 3nm Dimensity 9500 mobile SoC, featuring an 8-core CPU, 12-core GPU with hardware ray tracing, and its ninth-gen MediaTek NPU 990 &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/250922/p16#a250922p16)<!-- TECH:END -->
+ - [iPhone 17 boom inspires investors, Wedbush hikes AAPL target to $310](https://appleinsider.com/articles/25/09/22/iphone-17-boom-inspires-investors-wedbush-hikes-aapl-target-to-310?utm_source=rss)
+ - [Nvidia is partnering up with OpenAI to offer compute and cash](https://www.theverge.com/ai-artificial-intelligence/782624/nvidia-is-partnering-up-with-openai-to-offer-compute-and-cash)
+ - [TikTok Deal Has Unanswered Questions -- What That Means for You](https://www.cnet.com/news/social-media/tiktok-deal-has-unanswered-questions-what-that-means-for-you/#ftag=CAD590a51e)
+ - [Bitcoin-treasury company Strive, co-founded by Vivek Ramaswamy, will acquire Semler Scientific, a medical device company that has a bitcoin treasury, for $1.34B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250922/p18#a250922p18)
+ - [TCL’s Google TVs with an mmWave presence sensor are out now](https://www.theverge.com/news/782625/tcl-google-tv-qm9k-mmwave-presence-sensor-gemini)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

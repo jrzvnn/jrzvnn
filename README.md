@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are an Englishman in 1939. Choose your future](http://9gag.com/gag/aXPGb5V)
- - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
- - 💣 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
- - 😝 [What have i done?](http://9gag.com/gag/axyn2r1)
- - 👉 [Nice](http://9gag.com/gag/azxDLMj)<!-- MEMES:END -->
+ - 😝 [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
+ - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
+ - 💣 [Kim Jong-un notices a member sleeping during the assembly. RIP dude.](http://9gag.com/gag/aryrvOK)
+ - 😝 [It&#39;s on the internet so it has to be true](http://9gag.com/gag/aZZVWXX)
+ - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---
 

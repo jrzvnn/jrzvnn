@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump escalates crackdown by designating ‘Antifa’ a domestic terror group](https://www.theverge.com/news/783158/antifa-domestic-terror-designation-donald-trump)
  - [The AI-energy apocalypse might be a little overblown](https://www.theverge.com/report/782952/ai-electricity-demand-inflated-forecast-report)
  - [Source: the Nvidia-OpenAI deal has two separate transactions: Nvidia invests in OpenAI for non-voting shares, then OpenAI can use the cash to buy Nvidia&#39;s chips &lpar;Reuters&rpar;](http://www.techmeme.com/250922/p30#a250922p30)
  - [Tech leaders embracing Trump for short-term gain may ultimately imperil their companies and is counter to Silicon Valley&#39;s idealistic roots &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/250922/p29#a250922p29)
- - [Over 200 prominent figures, including senior staffers at AI companies, call for international action to create &quot;red lines&quot; for AI development by the end of 2026 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250922/p28#a250922p28)
- - [iOS 26 could get a major AI boost with the Model Context Protocol](https://appleinsider.com/articles/25/09/22/ios-26-could-get-a-major-ai-boost-with-the-model-context-protocol?utm_source=rss)<!-- TECH:END -->
+ - [Over 200 prominent figures, including senior staffers at AI companies, call for international action to create &quot;red lines&quot; for AI development by the end of 2026 &lpar;Shakeel Hashim/Transformer&rpar;](http://www.techmeme.com/250922/p28#a250922p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

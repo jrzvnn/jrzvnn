@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Abandoned Uranium mine in the Czech republic](http://9gag.com/gag/aMVNe86)
- - 😝 [IMMEDIATE RESIGNATION NOW](http://9gag.com/gag/aXPG0xV)
- - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [Guy gets kicked off air by Sky News for wearing a BACON shirt and exposing ISLAM](http://9gag.com/gag/aO8NqZy)
- - 👉 [Asian female Ricardo. For the old good times.](http://9gag.com/gag/adB40j9)<!-- MEMES:END -->
+ - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 😝 [And the winner is......](http://9gag.com/gag/aW4dVwn)
+ - 💣 [Guy gets kicked off air by Sky News for wearing a BACON shirt and exposing ISLAM](http://9gag.com/gag/aO8NqZy)
+ - 😝 [Poor Liam. The fans are going to be brutal.](http://9gag.com/gag/avyXp0b)
+ - 👉 [Can someone explain how a great white gets all those battle scars? What is it battling with?](http://9gag.com/gag/aQzrYY2)<!-- MEMES:END -->
 
 ---
 

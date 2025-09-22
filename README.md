@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Omnea, which makes AI tools for automating procurement, raised a $50M Series B led by Insight Partners and Khosla Ventures, taking its total funding to $75M &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250922/p22#a250922p22)
- - [This is part of Disney&amp;#8217;s legacy now](https://www.theverge.com/policy/781960/disney-jimmy-kimmel-disney-boycott-bob-iger-dana-walden)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Circuit &amp; Chisel, whose ATXP protocol enables AI agents to make autonomous payments, raised a $19.2M seed led by Primary Venture Partners and ParaFi &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/250922/p21#a250922p21)
- - [WIRED Roundup: The Right Embraces Cancel Culture](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/)<!-- TECH:END -->
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [Save $36 on a Cool, Compact Hall Effect Keyboard](https://www.wired.com/story/keychron-q1-he-deal/)
+ - [On the H-1B fee, Jensen Huang says he&#39;s &quot;glad&quot; to see &quot;Trump making the moves he&#39;s making&quot;; Sam Altman says &quot;outlining financial incentives seems good to me&quot; &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/250922/p23#a250922p23)
+ - [The Steam Deck LCD is 20 percent off through October 6th](https://www.theverge.com/tech/782737/the-steam-deck-lcd-is-20-percent-off-through-october-6th)
+ - [Omnea, which makes AI tools for automating procurement, raised a $50M Series B led by Insight Partners and Khosla Ventures, taking its total funding to $75M &lpar;Geoff Weiss/Business Insider&rpar;](http://www.techmeme.com/250922/p22#a250922p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

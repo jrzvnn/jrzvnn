@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
- - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 😝 [I just think this belongs heree](http://9gag.com/gag/ae9P3RB)
+ - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - 💣 [Nice](http://9gag.com/gag/azxDLMj)
  - 😝 [What have i done?](http://9gag.com/gag/axyn2r1)
- - 👉 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)<!-- MEMES:END -->
+ - 👉 [Men are simple creatures](http://9gag.com/gag/abAmqgO)<!-- MEMES:END -->
 
 ---
 

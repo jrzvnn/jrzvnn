@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ESR has everything you need to protect your new iPhone 17 &amp; AirPods Pro 3](https://appleinsider.com/articles/25/09/22/esr-has-everything-you-need-to-protect-your-new-iphone-17-airpods-pro-3?utm_source=rss)
+ - [Jensen Huang says the 10 GW OpenAI project is equivalent to 4M-5M GPUs; the first phase is expected to come online in H2 2026 using Nvidia&#39;s Vera Rubin platform &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250922/p19#a250922p19)
  - [iPhone 17 boom inspires investors, Wedbush hikes AAPL target to $310](https://appleinsider.com/articles/25/09/22/iphone-17-boom-inspires-investors-wedbush-hikes-aapl-target-to-310?utm_source=rss)
  - [Nvidia is partnering up with OpenAI to offer compute and cash](https://www.theverge.com/ai-artificial-intelligence/782624/nvidia-is-partnering-up-with-openai-to-offer-compute-and-cash)
- - [TikTok Deal Has Unanswered Questions -- What That Means for You](https://www.cnet.com/news/social-media/tiktok-deal-has-unanswered-questions-what-that-means-for-you/#ftag=CAD590a51e)
- - [Bitcoin-treasury company Strive, co-founded by Vivek Ramaswamy, will acquire Semler Scientific, a medical device company that has a bitcoin treasury, for $1.34B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250922/p18#a250922p18)
- - [TCL’s Google TVs with an mmWave presence sensor are out now](https://www.theverge.com/news/782625/tcl-google-tv-qm9k-mmwave-presence-sensor-gemini)<!-- TECH:END -->
+ - [Bitcoin-treasury company Strive, co-founded by Vivek Ramaswamy, will acquire Semler Scientific, a medical device company that has a bitcoin treasury, for $1.34B &lpar;Ateev Bhandari/Reuters&rpar;](http://www.techmeme.com/250922/p18#a250922p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

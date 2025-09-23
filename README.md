@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A first look at Kojima’s OD Xbox game](https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer)
  - [Chewy Promo Codes: $20 Off | September 2025](https://www.wired.com/story/chewy-promo-code/)
  - [A look at India&#39;s $18.2B chipmaking push, with 10 projects across six states to cut import reliance, as experts question if talent and investment are enough &lpar;Priyanka Salve/CNBC&rpar;](http://www.techmeme.com/250923/p1#a250923p1)
  - [How to take a high quality screenshot of a YouTube video on a Mac](https://appleinsider.com/inside/macos/tips/how-to-take-a-high-quality-screenshot-of-a-youtube-video-on-a-mac?utm_source=rss)
- - [A look at MrBeast&#39;s entertainment company, which has ~$450M in annual sales but faced three years of losses due to high production costs of $3M-$4M per video &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250922/p35#a250922p35)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at MrBeast&#39;s entertainment company, which has ~$450M in annual sales but faced three years of losses due to high production costs of $3M-$4M per video &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250922/p35#a250922p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

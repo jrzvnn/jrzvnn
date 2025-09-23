@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at London-based &quot;neocloud&quot; startup Nscale, which landed a $500M investment from Nvidia and aims to scale up to 300K GPUs globally, on par with CoreWeave &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250923/p18#a250923p18)
- - [Larry Ellison is turning into a media magnate, potentially controlling CBS, CNN, TikTok, and more, amid a regulatory environment favorable to Trump allies &lpar;New York Times&rpar;](http://www.techmeme.com/250923/p17#a250923p17)
- - [Sam Altman says OpenAI wants to create &quot;a factory that can produce a gigawatt of new AI infrastructure every week&quot; and plans to reveal more details this year &lpar;Sam Altman&rpar;](http://www.techmeme.com/250923/p16#a250923p16)
- - [Apple partners to protect California redwoods and expand global conservation](https://appleinsider.com/articles/25/09/23/apple-partners-to-protect-california-redwoods-and-expand-global-conservation?utm_source=rss)
- - [Apple could make it easier to use third-party smartwatches with iOS 26](https://appleinsider.com/articles/25/09/23/apple-could-make-it-easier-to-use-third-party-smartwatches-with-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Source: Stripe is in talks to buy back shares from its VC backers at a $106.7B valuation; Sequoia bought $861M worth of shares in 2024 at a $70B valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250923/p19#a250923p19)
+ - [Apple Ginza reopens at its first home with a modern, sustainable redesign](https://appleinsider.com/articles/25/09/23/apple-ginza-reopens-at-its-first-home-with-a-modern-sustainable-redesign?utm_source=rss)
+ - [WhatsApp adds built-in text translations on iPhone and Android](https://www.theverge.com/news/783653/whatsapp-message-translation-feature-iphone-android)
+ - [DHS Has Been Collecting US Citizens’ DNA for Years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
+ - [Best External Hard Drive &lpar;2025&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

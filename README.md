@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
- - [10 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [GoPro’s new gimbal works with action cameras, point-and-shoots, and smartphones](https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone)
- - [GoPro’s 360-degree action cam gets an 8K upgrade and swappable lenses](https://www.theverge.com/news/782901/gopro-max-2-action-camera-360-degree-8k)
- - [GoPro put a light on its Hero action camera to illuminate your adventures](https://www.theverge.com/news/782961/gopro-lit-hero-led-light-action-camera-4k)<!-- TECH:END -->
+ - [Bang &amp;#038; Olufsen&amp;#8217;s new earbuds will cost you more than the latest iPhone](https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability)
+ - [YouTube wants you to go live](https://www.theverge.com/podcast/783282/youtube-livestream-ai-ads-vergecast)
+ - [Google adds a new You tab to Google Play, featuring player account information, personalized content recommendations, rewards, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p13#a250923p13)
+ - [Google announces Play Games Sidekick for Android, an in-game overlay that provides access to Gemini Live while playing games downloaded from the Play Store &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250923/p12#a250923p12)
+ - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

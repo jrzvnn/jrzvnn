@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia-based Morse Micro, which develops ultra-low power Wi-Fi HaLow chips, raised a ~$38M Series C, bringing its total raised to ~$125M &lpar;ComputerWeekly.com&rpar;](http://www.techmeme.com/250923/p29#a250923p29)
  - [&#39;The Savant&#39; pulled from Apple TV+ schedule, new date unannounced](https://appleinsider.com/articles/25/09/23/the-savant-pulled-from-apple-tv-schedule-new-date-unannounced?utm_source=rss)
  - [Sources: Microsoft is in talks with US publishers about launching a two-sided marketplace that would compensate publishers for their content used by AI products &lpar;Axios&rpar;](http://www.techmeme.com/250923/p28#a250923p28)
- - [Here are 25 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
- - [Apple quietly cancels the release of Apple TV+ show The Savant this Friday; its trailer faced backlash for allegedly misrepresenting right-wing ideologies &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250923/p27#a250923p27)
- - [The 39 Best Shows on Apple TV+ Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [Here Are the Catchiest Songs Ever, According to AI and Human DJs](https://www.cnet.com/tech/services-and-software/these-are-the-catchiest-songs-of-all-time-according-to-ai-and-human-djs/#ftag=CAD590a51e)
+ - [Microsoft&#39;s Gaming Copilot AI Now Can Help You Beat That Tough Boss on PC](https://www.cnet.com/tech/gaming/microsofts-gaming-copilot-ai-now-can-help-you-beat-that-tough-boss-on-pc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

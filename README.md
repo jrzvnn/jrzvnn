@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Fnality, which lets banks transact in a digital cash asset backed with funds at the Bank of England, raised $136M led by BoA, Citigroup, and others &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/250923/p7#a250923p7)
+ - [Volvo promises software improvements for buggy EX90 SUV](https://www.theverge.com/transportation/783112/volvo-ex90-software-factory-sales-hybrid)
  - [How Signal’s Meredith Whittaker Remembers SignalGate: ‘No Fucking Way’](https://www.wired.com/story/the-big-interview-podcast-meredith-whittaker-signal/)
  - [Confessions of a Black Looksmaxxer](https://www.wired.com/story/confessions-of-a-black-looksmaxxer/)
- - [Uber launches prepaid passes for frequent routes](https://www.theverge.com/news/782765/uber-prepaid-pass-bundle-discount-route)
- - [WIRED Tested the Best Organic Sheets &lpar;2025&rpar;: Coyuchi, The Citizenry](https://www.wired.com/gallery/best-organic-sheets/)
- - [Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p6#a250923p6)<!-- TECH:END -->
+ - [Uber launches prepaid passes for frequent routes](https://www.theverge.com/news/782765/uber-prepaid-pass-bundle-discount-route)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

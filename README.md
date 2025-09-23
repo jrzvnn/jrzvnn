@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Signal’s Meredith Whittaker Remembers SignalGate: ‘No Fucking Way’](https://www.wired.com/story/the-big-interview-podcast-meredith-whittaker-signal/)
+ - [Confessions of a Black Looksmaxxer](https://www.wired.com/story/confessions-of-a-black-looksmaxxer/)
+ - [Uber launches prepaid passes for frequent routes](https://www.theverge.com/news/782765/uber-prepaid-pass-bundle-discount-route)
  - [WIRED Tested the Best Organic Sheets &lpar;2025&rpar;: Coyuchi, The Citizenry](https://www.wired.com/gallery/best-organic-sheets/)
- - [Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p6#a250923p6)
- - [She Fought the Far Right Online for Years. Now She Wants to Do It in Congress](https://www.wired.com/story/kat-abughazaleh-youtuber-for-congress/)
- - [Nick Fuentes’ Plan to Conquer America](https://www.wired.com/story/nick-fuentes-plan-to-conquer-america/)
- - [A look at the Nvidia-OpenAI deal, where Nvidia will invest in $10B tranches; sources say OpenAI informed Microsoft about the deal a day before it was signed &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250923/p5#a250923p5)<!-- TECH:END -->
+ - [Auterion, which provides autopilot and swarming software for military drones, raised $130M led by Bessemer at a $600M+ valuation, says it has ~$100M in revenue &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p6#a250923p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Borderlands 4 on Nintendo Switch 2 is being delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay)
  - [Sources: OpenAI and Nvidia are discussing structuring their new AI data center partnership so that OpenAI would lease Nvidia&#39;s AI chips instead of buying them &lpar;The Information&rpar;](http://www.techmeme.com/250923/p37#a250923p37)
  - [Snowflake, Salesforce, and others announce the Open Semantic Interchange, a vendor-neutral standard for how business data is defined and shared across platforms &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250923/p36#a250923p36)
  - [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)
- - [GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA &lpar;Xavier René-Corail/The GitHub Blog&rpar;](http://www.techmeme.com/250923/p35#a250923p35)
- - [If You Get a Hypertension Notification on Your Apple Watch, This Is What You Should Do Next](https://www.cnet.com/health/medical/what-should-you-do-if-you-get-a-hypertension-notification-on-your-apple-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA &lpar;Xavier René-Corail/The GitHub Blog&rpar;](http://www.techmeme.com/250923/p35#a250923p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

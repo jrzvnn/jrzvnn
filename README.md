@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pharmacy benefit management startup Capital Rx raised $400M, including a $252M Series F; it has raised $607M+ to date and was valued at $3.25B pre-Series F &lpar;Claire Rychlewski/Axios&rpar;](http://www.techmeme.com/250923/p10#a250923p10)
- - [We’re living in a golden age of affordable mechanical keyboards](https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs)
- - [Google begins its battle for the ‘unofficial currency of the internet’](https://www.theverge.com/policy/783285/google-doj-ad-tech-remedies-trial)
- - [The EU is scrutinizing how Apple, Google, and Microsoft tackle online scams](https://www.theverge.com/news/783507/eu-regulators-apple-google-microsoft-online-scams)
- - [8 Best Vegan Meal Delivery Services and Kits &lpar;2025&rpar;, Tested, Tasted, and Reviewed](https://www.wired.com/gallery/best-vegan-meal-kit-service/)<!-- TECH:END -->
+ - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
+ - [10 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
+ - [GoPro’s new gimbal works with action cameras, point-and-shoots, and smartphones](https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone)
+ - [GoPro’s 360-degree action cam gets an 8K upgrade and swappable lenses](https://www.theverge.com/news/782901/gopro-max-2-action-camera-360-degree-8k)
+ - [GoPro put a light on its Hero action camera to illuminate your adventures](https://www.theverge.com/news/782961/gopro-lit-hero-led-light-action-camera-4k)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

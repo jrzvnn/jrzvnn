@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oracle will pay for and oversee the construction of three of the new Stargate data centers, and OpenAI will then purchase computing power from Oracle &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250923/p34#a250923p34)
  - [OpenAI, Oracle, and SoftBank announce five new data center locations in the US, boosting Stargate&#39;s planned capacity to nearly 7 GW &lpar;Wired&rpar;](http://www.techmeme.com/250923/p33#a250923p33)
  - [Apple TV Plus has quietly pulled its new show about domestic extremism](https://www.theverge.com/entertainment/784185/apple-tv-plus-the-savant-domestic-terrorism)
  - [No, Apple isn’t trying to buy up all the 13 Pro Maxes](https://www.theverge.com/news/783963/apple-iphone-13-pro-max-trade-in-offer)
- - [OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers](https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/)
- - [MLB will use robot umpires beginning next season](https://www.theverge.com/news/783982/mlb-baseball-robot-umpires-abs)<!-- TECH:END -->
+ - [OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers](https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

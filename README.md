@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [She would be perfect &lpar;sorry for twitter&rpar;](http://9gag.com/gag/aRBNVK7)
+ - 😝 [Simple words](http://9gag.com/gag/awyGKg4)
  - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---

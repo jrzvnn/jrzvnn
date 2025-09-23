@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yo mama](http://9gag.com/gag/avyX0dW)
+ - 😝 [Found out](http://9gag.com/gag/abAmyRr)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 😝 [True](http://9gag.com/gag/a4Prd0Z)
+ - 😝 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
  - 👉 [It&#39;s like they can&#39;t find someone their age.](http://9gag.com/gag/aryrpx5)<!-- MEMES:END -->
 
 ---

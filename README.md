@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music for Android gains some iOS 26 upgrades](https://appleinsider.com/articles/25/09/23/apple-music-for-android-gains-some-ios-26-upgrades?utm_source=rss)
+ - [The Best Roku for Most People Is Under $30 on Sale](https://www.wired.com/story/roku-streaming-stick-plus-2025-deal/)
+ - [Uber launches prepaid passes, letting customers pay a discounted price in advance on frequently taken trips, in bundles of 5, 10, 15, or 20 rides &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250923/p23#a250923p23)
  - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Disney Plus is getting another price hike](https://www.theverge.com/news/783489/disney-plus-streaming-subscription-price-increase)
- - [Tesla’s robotaxi push is confusing the hell out of regulators](https://www.theverge.com/news/783804/tesla-robotaxi-california-dmv-confusion)
- - [Figma made its design tools more accessible to AI agents](https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update)
- - [Jimmy Kimmel still isn’t coming back to many ABC stations in the US](https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting)<!-- TECH:END -->
+ - [Disney Plus is getting another price hike](https://www.theverge.com/news/783489/disney-plus-streaming-subscription-price-increase)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

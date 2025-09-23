@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
  - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
+ - 😝 [This view is both terrifying and amazing](http://9gag.com/gag/aKGNPDO)
  - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alien: Earth&amp;#8217;s beefy tablets were inspired by Sony&amp;#8217;s classic Watchman](https://www.theverge.com/entertainment/782939/alien-earth-andy-nicholson-interview)
+ - [Google rolls out an AI-powered conversational photo editing tool, previously exclusive to the Pixel 10 series, to all Google Photos users on Android &lpar;Artie Beaty/ZDNET&rpar;](http://www.techmeme.com/250923/p26#a250923p26)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [Microsoft&amp;#8217;s AI CEO on the future of the browser](https://www.theverge.com/tech/783795/microsoft-ai-ceo-mustafa-suleyman-future-of-browser-interview-notepad)
- - [In a letter to Rep. Jim Jordan, YouTube says it will reinstate creators it banned for COVID and election misinfo, and blames Biden officials for the bans &lpar;Ashleigh Fields/The Hill&rpar;](http://www.techmeme.com/250923/p25#a250923p25)
- - [TP-Link’s BE3600 Travel Router makes it easy to get online on the go, and it’s cheaper than ever](https://www.theverge.com/tech/783870/tp-link-be3600-travel-router-apple-airtag-deal-sale)
- - [Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p24#a250923p24)<!-- TECH:END -->
+ - [In a letter to Rep. Jim Jordan, YouTube says it will reinstate creators it banned for COVID and election misinfo, and blames Biden officials for the bans &lpar;Ashleigh Fields/The Hill&rpar;](http://www.techmeme.com/250923/p25#a250923p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

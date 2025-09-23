@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 😝 [Loyce Edward Deen 5 Nov. 1944](http://9gag.com/gag/amobX1V)
- - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 😝 [Just a little bit happy](http://9gag.com/gag/abAmyEr)
  - 😝 [Found out](http://9gag.com/gag/abAmyRr)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 💣 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
+ - 😝 [Dystopian reality](http://9gag.com/gag/aVv1Xwv)
+ - 👉 [Simple words](http://9gag.com/gag/awyGKg4)<!-- MEMES:END -->
 
 ---
 

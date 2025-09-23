@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta starts rolling out built-in message translation in WhatsApp, with support for 19+ languages on iOS and six on Android &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p20#a250923p20)
- - [Secret Service dismantles network capable of shutting down cell service in New York](https://www.theverge.com/news/783706/secret-service-telecommunications-threat-new-york)
- - [Former Spotify execs launch AI-powered &amp;#8216;learning platform&amp;#8217; for the &amp;#8216;curiously minded&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/783624/oboe-ai-education-learning)
- - [Source: Stripe is in talks to buy back shares from its VC backers at a $106.7B valuation; Sequoia bought $861M worth of shares in 2024 at a $70B valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250923/p19#a250923p19)
- - [Apple Ginza reopens at its first home with a modern, sustainable redesign](https://appleinsider.com/articles/25/09/23/apple-ginza-reopens-at-its-first-home-with-a-modern-sustainable-redesign?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 Pro, iPhone Air excel in bend tests, still fragile for drop tests](https://appleinsider.com/articles/25/09/23/iphone-17-pro-iphone-air-excel-in-bend-tests-still-fragile-for-drop-tests?utm_source=rss)
+ - [&#39;NBA 2K26 Arcade Edition&#39; arrives on Apple Arcade this October](https://appleinsider.com/articles/25/09/23/nba-2k26-arcade-edition-arrives-on-apple-arcade-this-october?utm_source=rss)
+ - [Why One VC Thinks Quantum Is a Bigger Unlock Than AGI](https://www.wired.com/story/alexa-von-tobel-quantum-venture-capital/)
+ - [Baby Steps hits on the hell and hilarity of hiking](https://www.theverge.com/games/783549/baby-steps-review-ps5-steam)
+ - [Meta starts rolling out built-in message translation in WhatsApp, with support for 19+ languages on iOS and six on Android &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p20#a250923p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

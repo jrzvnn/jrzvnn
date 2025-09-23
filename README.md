@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
+ - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 💣 [Found out](http://9gag.com/gag/abAmyRr)
  - 😝 [Simple words](http://9gag.com/gag/awyGKg4)

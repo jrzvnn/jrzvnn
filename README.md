@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 😝 [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
  - 💣 [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 😝 [i sure love autumn](https://www.reddit.com/r/funny/comments/1nocy9u/i_sure_love_autumn/)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 👉 [It&#39;s like they can&#39;t find someone their age.](http://9gag.com/gag/aryrpx5)<!-- MEMES:END -->
 
 ---
 

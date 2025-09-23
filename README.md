@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Photos expands conversational editing to more Android phones](https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android)
+ - [Microsoft says it is experimenting with microfluidics, which involves sending fluid through channels in AI and server chips to improve cooling efficiency &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p21#a250923p21)
  - [How to make sure The Verge shows up in your Google search results](https://www.theverge.com/tech/782887/how-to-the-verge-google-search-results)
  - [You can grab Alan Wake 2 and eight other Remedy games for just $27 right now](https://www.theverge.com/tech/783776/remedy-30th-anniversary-humble-bundle-alan-wake-2-control-deal-sale)
- - [Save $300 on Apple&#39;s M4 MacBook Pro line, with prices from $1,299](https://appleinsider.com/articles/25/09/23/save-300-on-apples-m4-macbook-pro-line-with-prices-from-1299?utm_source=rss)
- - [iPhone 17 Pro, iPhone Air excel in bend tests, still fragile for drop tests](https://appleinsider.com/articles/25/09/23/iphone-17-pro-iphone-air-excel-in-bend-tests-still-fragile-for-drop-tests?utm_source=rss)
- - [&#39;NBA 2K26 Arcade Edition&#39; arrives on Apple Arcade this October](https://appleinsider.com/articles/25/09/23/nba-2k26-arcade-edition-arrives-on-apple-arcade-this-october?utm_source=rss)<!-- TECH:END -->
+ - [Save $300 on Apple&#39;s M4 MacBook Pro line, with prices from $1,299](https://appleinsider.com/articles/25/09/23/save-300-on-apples-m4-macbook-pro-line-with-prices-from-1299?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

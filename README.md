@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Photos expands conversational editing to more Android phones](https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android)
- - [Microsoft says it is experimenting with microfluidics, which involves sending fluid through channels in AI and server chips to improve cooling efficiency &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p21#a250923p21)
- - [How to make sure The Verge shows up in your Google search results](https://www.theverge.com/tech/782887/how-to-the-verge-google-search-results)
- - [You can grab Alan Wake 2 and eight other Remedy games for just $27 right now](https://www.theverge.com/tech/783776/remedy-30th-anniversary-humble-bundle-alan-wake-2-control-deal-sale)
- - [Save $300 on Apple&#39;s M4 MacBook Pro line, with prices from $1,299](https://appleinsider.com/articles/25/09/23/save-300-on-apples-m4-macbook-pro-line-with-prices-from-1299?utm_source=rss)<!-- TECH:END -->
+ - [Disney Plus is getting another price hike](https://www.theverge.com/news/783489/disney-plus-streaming-subscription-price-increase)
+ - [Tesla’s robotaxi push is confusing the hell out of regulators](https://www.theverge.com/news/783804/tesla-robotaxi-california-dmv-confusion)
+ - [Figma made its design tools more accessible to AI agents](https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update)
+ - [Jimmy Kimmel still isn’t coming back to many ABC stations in the US](https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting)
+ - [Empower Semiconductor, which makes power management chips that cut server power consumption by ~50%, raised a $140M Series D, bringing its total raised $200M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250923/p22#a250923p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nick Fuentes’ Plan to Conquer America](https://www.wired.com/story/nick-fuentes-plan-to-conquer-america/)
  - [A look at the Nvidia-OpenAI deal, where Nvidia will invest in $10B tranches; sources say OpenAI informed Microsoft about the deal a day before it was signed &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250923/p5#a250923p5)
  - [Microsoft’s Windows AI Lab is a new way to test experimental features](https://www.theverge.com/news/783475/microsoft-windows-ai-labs-feature)
  - [Apple iPhone 17 Review: Close to Perfect](https://www.wired.com/review/apple-iphone-17/)
- - [Tado’s new AI features will adaptively heat your home](https://www.theverge.com/news/783465/tado-x-ai-auto-assist-heating-update)
- - [Research: low productivity gains from AI may stem from employees using AI to produce &quot;workslop&quot;, or low-effort, passable work that creates more work for others &lpar;Harvard Business Review&rpar;](http://www.techmeme.com/250923/p4#a250923p4)<!-- TECH:END -->
+ - [Tado’s new AI features will adaptively heat your home](https://www.theverge.com/news/783465/tado-x-ai-auto-assist-heating-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

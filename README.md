@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches the American Technology Excellence Project, a super PAC to fight AI policy bills at the state level; it previously launched a California PAC &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/250923/p14#a250923p14)
- - [Bang &amp;#038; Olufsen&amp;#8217;s new earbuds will cost you more than the latest iPhone](https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability)
- - [YouTube wants you to go live](https://www.theverge.com/podcast/783282/youtube-livestream-ai-ads-vergecast)
- - [Google adds a new You tab to Google Play, featuring player account information, personalized content recommendations, rewards, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p13#a250923p13)
- - [Google announces Play Games Sidekick for Android, an in-game overlay that provides access to Gemini Live while playing games downloaded from the Play Store &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250923/p12#a250923p12)<!-- TECH:END -->
+ - [Larry Ellison is turning into a media magnate, potentially controlling CBS, CNN, TikTok, and more, amid a regulatory environment favorable to Trump allies &lpar;New York Times&rpar;](http://www.techmeme.com/250923/p17#a250923p17)
+ - [Sam Altman says OpenAI wants to create &quot;a factory that can produce a gigawatt of new AI infrastructure every week&quot; and plans to reveal more details this year &lpar;Sam Altman&rpar;](http://www.techmeme.com/250923/p16#a250923p16)
+ - [Apple partners to protect California redwoods and expand global conservation](https://appleinsider.com/articles/25/09/23/apple-partners-to-protect-california-redwoods-and-expand-global-conservation?utm_source=rss)
+ - [Apple could make it easier to use third-party smartwatches with iOS 26](https://appleinsider.com/articles/25/09/23/apple-could-make-it-easier-to-use-third-party-smartwatches-with-ios-26?utm_source=rss)
+ - [Revolut says it plans to invest $13B, including $4B in the UK, and expand into 30 new geographies by the end of the decade, aiming to reach 100M users globally &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250923/p15#a250923p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

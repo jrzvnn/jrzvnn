@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tap to Pay on iPhone comes to yet more European countries](https://appleinsider.com/articles/25/09/23/tap-to-pay-on-iphone-comes-to-yet-more-european-countries?utm_source=rss)
- - [The US Secret Service says it has dismantled 300+ SIM card servers in the NYC area that could have disrupted communications ahead of the UN General Assembly &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250923/p8#a250923p8)
- - [20th anniversary iPhone to get brighter, thinner display](https://appleinsider.com/articles/25/09/23/20th-anniversary-iphone-to-get-brighter-thinner-display?utm_source=rss)
- - [How to Use 1Password&#39;s Travel Mode at the Border &lpar;2025&rpar;](https://www.wired.com/story/1password-travel-mode/)
- - [London-based Fnality, which lets banks transact in a digital cash asset backed with funds at the Bank of England, raised $136M led by BoA, Citigroup, and others &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/250923/p7#a250923p7)<!-- TECH:END -->
+ - [Pharmacy benefit management startup Capital Rx raised $400M, including a $252M Series F; it has raised $607M+ to date and was valued at $3.25B pre-Series F &lpar;Claire Rychlewski/Axios&rpar;](http://www.techmeme.com/250923/p10#a250923p10)
+ - [We’re living in a golden age of affordable mechanical keyboards](https://www.theverge.com/tech/783024/upgrade-mechanical-keyboard-prebuilt-best-affordable-typing-gaming-specs)
+ - [Google begins its battle for the ‘unofficial currency of the internet’](https://www.theverge.com/policy/783285/google-doj-ad-tech-remedies-trial)
+ - [The EU is scrutinizing how Apple, Google, and Microsoft tackle online scams](https://www.theverge.com/news/783507/eu-regulators-apple-google-microsoft-online-scams)
+ - [8 Best Vegan Meal Delivery Services and Kits &lpar;2025&rpar;, Tested, Tasted, and Reviewed](https://www.wired.com/gallery/best-vegan-meal-kit-service/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

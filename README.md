@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Micron reports Q4 revenue up 46% YoY to $11.32B, vs. $11.22B est., net income up 261% to $3.2B, data center revenue down 22%, and Q1 revenue forecast above est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250923/p32#a250923p32)
  - [Trump’s Tylenol Directive Could Actually Increase Autism Rates, Researchers Warn](https://www.wired.com/story/trumps-tylenol-directive-could-actually-increase-autism-rates-researchers-warn/)
  - [Google&amp;#8217;s Mixboard is an AI moodboard builder](https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas)
  - [The Trump administration proposes an H-1B visa process giving more weight to applications from employers who pay higher wages if visa demand exceeds the 85K cap &lpar;Ted Hesson/Reuters&rpar;](http://www.techmeme.com/250923/p31#a250923p31)
- - [Sources: Tether is in talks to raise $15B to $20B in exchange for a ~3% stake through a private placement in a deal that could value the company at ~$500B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p30#a250923p30)
- - [Apple Invites adds calendar syncing and video playback](https://appleinsider.com/articles/25/09/23/apple-invites-adds-calendar-syncing-and-video-playback?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Tether is in talks to raise $15B to $20B in exchange for a ~3% stake through a private placement in a deal that could value the company at ~$500B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p30#a250923p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 💣 [We all f**ked? Or just me.](http://9gag.com/gag/a2vjYv1)
+ - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
  - 😝 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 👉 [It&#39;s like they can&#39;t find someone their age.](http://9gag.com/gag/aryrpx5)<!-- MEMES:END -->
 
 ---
 

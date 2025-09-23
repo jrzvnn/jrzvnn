@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Classic Meme](http://9gag.com/gag/aRBNVBy)
+ - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
+ - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 😝 [About to find out](http://9gag.com/gag/a6Z3LXR)
- - 😝 [Bond burger](http://9gag.com/gag/ajPM658)
- - 💣 [Wamen](http://9gag.com/gag/aE0Nzvn)
- - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 👉 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)<!-- MEMES:END -->
 
 ---

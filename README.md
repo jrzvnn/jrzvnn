@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 😝 [This was the fastest politician to FAFO ever. Good luck Starmer. Source in comments.](http://9gag.com/gag/aAyNVQZ)
+ - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
+ - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 😝 [Found out](http://9gag.com/gag/abAmyRr)
- - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 😝 [New recruits in English Police.](http://9gag.com/gag/aE0N13O)
- - 👉 [It&#39;s like they can&#39;t find someone their age.](http://9gag.com/gag/aryrpx5)<!-- MEMES:END -->
+ - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---
 

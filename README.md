@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
+ - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
  - 😝 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
- - 👉 [It&#39;s like they can&#39;t find someone their age.](http://9gag.com/gag/aryrpx5)<!-- MEMES:END -->
+ - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
 
 ---
 

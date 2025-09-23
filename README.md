@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI and Nvidia are discussing structuring their new AI data center partnership so that OpenAI would lease Nvidia&#39;s AI chips instead of buying them &lpar;The Information&rpar;](http://www.techmeme.com/250923/p37#a250923p37)
+ - [Snowflake, Salesforce, and others announce the Open Semantic Interchange, a vendor-neutral standard for how business data is defined and shared across platforms &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250923/p36#a250923p36)
  - [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)
  - [GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA &lpar;Xavier René-Corail/The GitHub Blog&rpar;](http://www.techmeme.com/250923/p35#a250923p35)
- - [If You Get a Hypertension Notification on Your Apple Watch, This Is What You Should Do Next](https://www.cnet.com/health/medical/what-should-you-do-if-you-get-a-hypertension-notification-on-your-apple-watch/#ftag=CAD590a51e)
- - [Oracle will pay for and oversee the construction of three of the new Stargate data centers, and OpenAI will then purchase computing power from Oracle &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250923/p34#a250923p34)
- - [OpenAI, Oracle, and SoftBank announce five new data center locations in the US, boosting Stargate&#39;s planned capacity to nearly 7 GW &lpar;Wired&rpar;](http://www.techmeme.com/250923/p33#a250923p33)<!-- TECH:END -->
+ - [If You Get a Hypertension Notification on Your Apple Watch, This Is What You Should Do Next](https://www.cnet.com/health/medical/what-should-you-do-if-you-get-a-hypertension-notification-on-your-apple-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

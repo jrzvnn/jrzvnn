@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Secret Service dismantles network capable of shutting down cell service in New York](https://www.theverge.com/news/783706/secret-service-telecommunications-threat-new-york)
+ - [Former Spotify execs launch AI-powered &amp;#8216;learning platform&amp;#8217; for the &amp;#8216;curiously minded&amp;#8217;](https://www.theverge.com/ai-artificial-intelligence/783624/oboe-ai-education-learning)
  - [Source: Stripe is in talks to buy back shares from its VC backers at a $106.7B valuation; Sequoia bought $861M worth of shares in 2024 at a $70B valuation &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/250923/p19#a250923p19)
  - [Apple Ginza reopens at its first home with a modern, sustainable redesign](https://appleinsider.com/articles/25/09/23/apple-ginza-reopens-at-its-first-home-with-a-modern-sustainable-redesign?utm_source=rss)
- - [WhatsApp adds built-in text translations on iPhone and Android](https://www.theverge.com/news/783653/whatsapp-message-translation-feature-iphone-android)
- - [DHS Has Been Collecting US Citizens’ DNA for Years](https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/)
- - [Best External Hard Drive &lpar;2025&rpar;: SSD to Store Data, Video &amp; More](https://www.wired.com/story/best-portable-external-storage-drives/)<!-- TECH:END -->
+ - [WhatsApp adds built-in text translations on iPhone and Android](https://www.theverge.com/news/783653/whatsapp-message-translation-feature-iphone-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

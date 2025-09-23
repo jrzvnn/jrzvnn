@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MLB will use robot umpires beginning next season](https://www.theverge.com/news/783982/mlb-baseball-robot-umpires-abs)
- - [Micron reports Q4 revenue up 46% YoY to $11.32B, vs. $11.22B est., net income up 261% to $3.2B, data center revenue down 22%, and Q1 revenue forecast above est. &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/250923/p32#a250923p32)
- - [Trump’s Tylenol Directive Could Actually Increase Autism Rates, Researchers Warn](https://www.wired.com/story/trumps-tylenol-directive-could-actually-increase-autism-rates-researchers-warn/)
- - [Google&amp;#8217;s Mixboard is an AI moodboard builder](https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas)
- - [The Trump administration proposes an H-1B visa process giving more weight to applications from employers who pay higher wages if visa demand exceeds the 85K cap &lpar;Ted Hesson/Reuters&rpar;](http://www.techmeme.com/250923/p31#a250923p31)<!-- TECH:END -->
+ - [OpenAI, Oracle, and SoftBank announce five new data center locations in the US, boosting Stargate&#39;s planned capacity to nearly 7 GW &lpar;Wired&rpar;](http://www.techmeme.com/250923/p33#a250923p33)
+ - [Apple TV Plus has quietly pulled its new show about domestic extremism](https://www.theverge.com/entertainment/784185/apple-tv-plus-the-savant-domestic-terrorism)
+ - [No, Apple isn’t trying to buy up all the 13 Pro Maxes](https://www.theverge.com/news/783963/apple-iphone-13-pro-max-trade-in-offer)
+ - [OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers](https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/)
+ - [MLB will use robot umpires beginning next season](https://www.theverge.com/news/783982/mlb-baseball-robot-umpires-abs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

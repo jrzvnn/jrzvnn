@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We all f**ked? Or just me.](http://9gag.com/gag/a2vjYv1)
- - 😝 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
- - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [New recruits in English Police.](http://9gag.com/gag/aE0N13O)
- - 👉 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)<!-- MEMES:END -->
+ - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 😝 [Found out](http://9gag.com/gag/abAmyRr)
+ - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 😝 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
+ - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---
 

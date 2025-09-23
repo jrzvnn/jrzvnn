@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is in talks with US publishers about launching a two-sided marketplace that would compensate publishers for their content used by AI products &lpar;Axios&rpar;](http://www.techmeme.com/250923/p28#a250923p28)
+ - [Here are 25 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
  - [Apple quietly cancels the release of Apple TV+ show The Savant this Friday; its trailer faced backlash for allegedly misrepresenting right-wing ideologies &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/250923/p27#a250923p27)
  - [The 39 Best Shows on Apple TV+ Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Google rolls out an AI-powered conversational photo editing tool, previously exclusive to the Pixel 10 series, to all Google Photos users on Android &lpar;Artie Beaty/ZDNET&rpar;](http://www.techmeme.com/250923/p26#a250923p26)
- - [In a letter to Rep. Jim Jordan, YouTube says it will reinstate creators it banned for COVID and election misinfo, and blames Biden officials for the bans &lpar;Ashleigh Fields/The Hill&rpar;](http://www.techmeme.com/250923/p25#a250923p25)
- - [Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p24#a250923p24)<!-- TECH:END -->
+ - [Alien: Earth&amp;#8217;s beefy tablets were inspired by Sony&amp;#8217;s classic Watchman](https://www.theverge.com/entertainment/782939/alien-earth-andy-nicholson-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A bit hairy](http://9gag.com/gag/aXPGEz6)
- - 😝 [Nice](http://9gag.com/gag/azxDLMj)
- - 💣 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
- - 😝 [Men are simple creatures](http://9gag.com/gag/abAmqgO)
- - 👉 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)<!-- MEMES:END -->
+ - 😝 [Yo mama](http://9gag.com/gag/avyX0dW)
+ - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 😝 [Just a little bit happy](http://9gag.com/gag/abAmyEr)
+ - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
 
 ---
 

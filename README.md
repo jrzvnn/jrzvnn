@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This was the fastest politician to FAFO ever. Good luck Starmer. Source in comments.](http://9gag.com/gag/aAyNVQZ)
- - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
- - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 😝 [Found out](http://9gag.com/gag/abAmyRr)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - 😝 [Mission Impawsible](http://9gag.com/gag/abAmq6E)
+ - 💣 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
+ - 😝 [New recruits in English Police.](http://9gag.com/gag/aE0N13O)
+ - 👉 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)<!-- MEMES:END -->
 
 ---
 

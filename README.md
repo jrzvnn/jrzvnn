@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little bit happy](http://9gag.com/gag/abAmyEr)
- - 😝 [Found out](http://9gag.com/gag/abAmyRr)
- - 💣 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
- - 😝 [Dystopian reality](http://9gag.com/gag/aVv1Xwv)
- - 👉 [Simple words](http://9gag.com/gag/awyGKg4)<!-- MEMES:END -->
+ - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 😝 [Wamen](http://9gag.com/gag/aE0Nzvn)
+ - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---
 

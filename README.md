@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bond burger](http://9gag.com/gag/ajPM658)
- - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
+ - 😝 [Wamen](http://9gag.com/gag/aE0Nzvn)
+ - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 😝 [Poland doesnt give two shits anymore, glad they are part of the Eu lol.](http://9gag.com/gag/a6Z3LEm)
  - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---

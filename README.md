@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Yo mama](http://9gag.com/gag/avyX0dW)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
  - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 😝 [Just a little bit happy](http://9gag.com/gag/abAmyEr)
- - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
+ - 😝 [True](http://9gag.com/gag/a4Prd0Z)
+ - 👉 [It&#39;s like they can&#39;t find someone their age.](http://9gag.com/gag/aryrpx5)<!-- MEMES:END -->
 
 ---
 

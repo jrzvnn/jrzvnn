@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Trump administration proposes an H-1B visa process giving more weight to applications from employers who pay higher wages if visa demand exceeds the 85K cap &lpar;Ted Hesson/Reuters&rpar;](http://www.techmeme.com/250923/p31#a250923p31)
+ - [Sources: Tether is in talks to raise $15B to $20B in exchange for a ~3% stake through a private placement in a deal that could value the company at ~$500B &lpar;Bloomberg&rpar;](http://www.techmeme.com/250923/p30#a250923p30)
+ - [Apple Invites adds calendar syncing and video playback](https://appleinsider.com/articles/25/09/23/apple-invites-adds-calendar-syncing-and-video-playback?utm_source=rss)
  - [Australia-based Morse Micro, which develops ultra-low power Wi-Fi HaLow chips, raised a ~$38M Series C, bringing its total raised to ~$125M &lpar;ComputerWeekly.com&rpar;](http://www.techmeme.com/250923/p29#a250923p29)
- - [&#39;The Savant&#39; pulled from Apple TV+ schedule, new date unannounced](https://appleinsider.com/articles/25/09/23/the-savant-pulled-from-apple-tv-schedule-new-date-unannounced?utm_source=rss)
- - [Sources: Microsoft is in talks with US publishers about launching a two-sided marketplace that would compensate publishers for their content used by AI products &lpar;Axios&rpar;](http://www.techmeme.com/250923/p28#a250923p28)
- - [Here Are the Catchiest Songs Ever, According to AI and Human DJs](https://www.cnet.com/tech/services-and-software/these-are-the-catchiest-songs-of-all-time-according-to-ai-and-human-djs/#ftag=CAD590a51e)
- - [Microsoft&#39;s Gaming Copilot AI Now Can Help You Beat That Tough Boss on PC](https://www.cnet.com/tech/gaming/microsofts-gaming-copilot-ai-now-can-help-you-beat-that-tough-boss-on-pc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Savant&#39; pulled from Apple TV+ schedule, new date unannounced](https://appleinsider.com/articles/25/09/23/the-savant-pulled-from-apple-tv-schedule-new-date-unannounced?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

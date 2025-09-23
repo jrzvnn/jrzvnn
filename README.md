@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at London-based &quot;neocloud&quot; startup Nscale, which landed a $500M investment from Nvidia and aims to scale up to 300K GPUs globally, on par with CoreWeave &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/250923/p18#a250923p18)
  - [Larry Ellison is turning into a media magnate, potentially controlling CBS, CNN, TikTok, and more, amid a regulatory environment favorable to Trump allies &lpar;New York Times&rpar;](http://www.techmeme.com/250923/p17#a250923p17)
  - [Sam Altman says OpenAI wants to create &quot;a factory that can produce a gigawatt of new AI infrastructure every week&quot; and plans to reveal more details this year &lpar;Sam Altman&rpar;](http://www.techmeme.com/250923/p16#a250923p16)
  - [Apple partners to protect California redwoods and expand global conservation](https://appleinsider.com/articles/25/09/23/apple-partners-to-protect-california-redwoods-and-expand-global-conservation?utm_source=rss)
- - [Apple could make it easier to use third-party smartwatches with iOS 26](https://appleinsider.com/articles/25/09/23/apple-could-make-it-easier-to-use-third-party-smartwatches-with-ios-26?utm_source=rss)
- - [Revolut says it plans to invest $13B, including $4B in the UK, and expand into 30 new geographies by the end of the decade, aiming to reach 100M users globally &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250923/p15#a250923p15)<!-- TECH:END -->
+ - [Apple could make it easier to use third-party smartwatches with iOS 26](https://appleinsider.com/articles/25/09/23/apple-could-make-it-easier-to-use-third-party-smartwatches-with-ios-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

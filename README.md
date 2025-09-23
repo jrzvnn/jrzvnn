@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU tells Apple to crack down on online fraud](https://appleinsider.com/articles/25/09/23/eu-tells-apple-to-crack-down-on-online-fraud?utm_source=rss)
- - [Apple Music for Android gains some iOS 26 upgrades](https://appleinsider.com/articles/25/09/23/apple-music-for-android-gains-some-ios-26-upgrades?utm_source=rss)
- - [The Best Roku for Most People Is Under $30 on Sale](https://www.wired.com/story/roku-streaming-stick-plus-2025-deal/)
- - [Uber launches prepaid passes, letting customers pay a discounted price in advance on frequently taken trips, in bundles of 5, 10, 15, or 20 rides &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/250923/p23#a250923p23)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
+ - [TP-Link’s BE3600 Travel Router makes it easy to get online on the go, and it’s cheaper than ever](https://www.theverge.com/tech/783870/tp-link-be3600-travel-router-apple-airtag-deal-sale)
+ - [Filing: Indian ride-hailing app Rapido doubled its valuation to $2.3B after Swiggy offloaded its 12% Rapido stake for ~$270M in a secondary share sale &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250923/p24#a250923p24)
+ - [‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say](https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/)
+ - [Trump couldn’t win over Charlie Kirk’s mourners](https://www.theverge.com/policy/783707/charlie-kirk-memorial-christian-nationalism-maga)
+ - [Watch Our Livestream Replay: Tech Went All In on Trump. Now What?](https://www.wired.com/story/livestream-tech-went-all-in-on-trump-now-what/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

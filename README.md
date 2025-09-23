@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic Meme](http://9gag.com/gag/aRBNVBy)
- - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
- - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 😝 [About to find out](http://9gag.com/gag/a6Z3LXR)
- - 👉 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)<!-- MEMES:END -->
+ - 😝 [Simple words](http://9gag.com/gag/awyGKg4)
+ - 😝 [Dystopian reality](http://9gag.com/gag/aVv1Xwv)
+ - 💣 [She would be perfect &lpar;sorry for twitter&rpar;](http://9gag.com/gag/aRBNVK7)
+ - 😝 [Hakuna Matata](http://9gag.com/gag/aW4NOqx)
+ - 👉 [Spray bottle birb](http://9gag.com/gag/aryr4Pp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 😝 [This is a survival capsule design to survive a tsunami. Look familiar?](http://9gag.com/gag/abAm53v)
- - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 👉 [It&#39;s like they can&#39;t find someone their age.](http://9gag.com/gag/aryrpx5)<!-- MEMES:END -->
+ - 😝 [A bit hairy](http://9gag.com/gag/aXPGEz6)
+ - 😝 [Nice](http://9gag.com/gag/azxDLMj)
+ - 💣 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - 😝 [Men are simple creatures](http://9gag.com/gag/abAmqgO)
+ - 👉 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [Disney Plus is getting another price hike](https://www.theverge.com/news/783489/disney-plus-streaming-subscription-price-increase)
  - [Tesla’s robotaxi push is confusing the hell out of regulators](https://www.theverge.com/news/783804/tesla-robotaxi-california-dmv-confusion)
  - [Figma made its design tools more accessible to AI agents](https://www.theverge.com/news/783828/figma-make-ai-app-coding-mcp-server-update)
- - [Jimmy Kimmel still isn’t coming back to many ABC stations in the US](https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting)
- - [Empower Semiconductor, which makes power management chips that cut server power consumption by ~50%, raised a $140M Series D, bringing its total raised $200M+ &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250923/p22#a250923p22)<!-- TECH:END -->
+ - [Jimmy Kimmel still isn’t coming back to many ABC stations in the US](https://www.theverge.com/news/783902/jimmy-kimmel-abc-nexstar-sinclair-broadcasting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

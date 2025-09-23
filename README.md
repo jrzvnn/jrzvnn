@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google introduces Mixboard, an AI-powered tool that lets users create mood boards, available in public beta in the US &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p38#a250923p38)
  - [The Switch 2 version of Borderlands 4 has been delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay)
  - [Sources: OpenAI and Nvidia are discussing structuring their new AI data center partnership so that OpenAI would lease Nvidia&#39;s AI chips instead of buying them &lpar;The Information&rpar;](http://www.techmeme.com/250923/p37#a250923p37)
  - [Snowflake, Salesforce, and others announce the Open Semantic Interchange, a vendor-neutral standard for how business data is defined and shared across platforms &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250923/p36#a250923p36)
- - [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)
- - [GitHub outlines plans to secure npm following multiple supply-chain attacks, including deprecating legacy classic tokens and migrating users to FIDO-based 2FA &lpar;Xavier René-Corail/The GitHub Blog&rpar;](http://www.techmeme.com/250923/p35#a250923p35)<!-- TECH:END -->
+ - [Inside Charlie Kirk’s megachurch memorial service](https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

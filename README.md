@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 😝 [Such clown behavior belongs in the humor section I guess. I first thought this was pr0n.](http://9gag.com/gag/a1mqvg8)
- - 💣 [Hugo boss](http://9gag.com/gag/aKGNgD3)
- - 😝 [Did not know that. That is interesting.](http://9gag.com/gag/axynZ9p)
+ - 💣 [We all f**ked? Or just me.](http://9gag.com/gag/a2vjYv1)
+ - 😝 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
  - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---

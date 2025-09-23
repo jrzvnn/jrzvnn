@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use 1Password&#39;s Travel Mode at the Border &lpar;2025&rpar;](https://www.wired.com/story/1password-travel-mode/)
  - [20th anniversary iPhone to get brighter, thinner display](https://appleinsider.com/articles/25/09/23/20th-anniversary-iphone-to-get-brighter-thinner-display?utm_source=rss)
+ - [How to Use 1Password&#39;s Travel Mode at the Border &lpar;2025&rpar;](https://www.wired.com/story/1password-travel-mode/)
  - [London-based Fnality, which lets banks transact in a digital cash asset backed with funds at the Bank of England, raised $136M led by BoA, Citigroup, and others &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/250923/p7#a250923p7)
  - [Volvo promises software improvements for buggy EX90 SUV](https://www.theverge.com/transportation/783112/volvo-ex90-software-factory-sales-hybrid)
  - [How Signal’s Meredith Whittaker Remembers SignalGate: ‘No Fucking Way’](https://www.wired.com/story/the-big-interview-podcast-meredith-whittaker-signal/)<!-- TECH:END -->

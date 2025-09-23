@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at MrBeast&#39;s entertainment company, which has ~$450M in annual sales but faced three years of losses due to high production costs of $3M-$4M per video &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/250922/p35#a250922p35)
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-23/#ftag=CAD590a51e)
  - [Your iPhone Could Eke Out More Battery Life Thanks to Adaptive Power in iOS 26](https://www.cnet.com/tech/mobile/your-iphone-could-eke-out-more-battery-life-thanks-to-adaptive-power-in-ios-26/#ftag=CAD590a51e)
  - [Sources: humanoid robotics startup 1X is seeking to raise up to $1B at a $10B+ valuation, more than 12x its previous valuation from a January financing &lpar;The Information&rpar;](http://www.techmeme.com/250922/p34#a250922p34)
- - [Palworld is getting a farming spinoff](https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff)
- - [The EU&#39;s cybersecurity agency says a ransomware attack caused the recent disruptions that affected check-in systems at Heathrow and other European airports &lpar;Reuters&rpar;](http://www.techmeme.com/250922/p33#a250922p33)<!-- TECH:END -->
+ - [Palworld is getting a farming spinoff](https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

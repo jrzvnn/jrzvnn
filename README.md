@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Secret Service says it has dismantled 300+ SIM card servers in the NYC area that could have disrupted communications ahead of the UN General Assembly &lpar;Myles Miller/Bloomberg&rpar;](http://www.techmeme.com/250923/p8#a250923p8)
  - [20th anniversary iPhone to get brighter, thinner display](https://appleinsider.com/articles/25/09/23/20th-anniversary-iphone-to-get-brighter-thinner-display?utm_source=rss)
  - [How to Use 1Password&#39;s Travel Mode at the Border &lpar;2025&rpar;](https://www.wired.com/story/1password-travel-mode/)
  - [London-based Fnality, which lets banks transact in a digital cash asset backed with funds at the Bank of England, raised $136M led by BoA, Citigroup, and others &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/250923/p7#a250923p7)
- - [Volvo promises software improvements for buggy EX90 SUV](https://www.theverge.com/transportation/783112/volvo-ex90-software-factory-sales-hybrid)
- - [How Signal’s Meredith Whittaker Remembers SignalGate: ‘No Fucking Way’](https://www.wired.com/story/the-big-interview-podcast-meredith-whittaker-signal/)<!-- TECH:END -->
+ - [Volvo promises software improvements for buggy EX90 SUV](https://www.theverge.com/transportation/783112/volvo-ex90-software-factory-sales-hybrid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

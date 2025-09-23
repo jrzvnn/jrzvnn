@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
+ - 😝 [Wamen](http://9gag.com/gag/aE0Nzvn)
  - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 💣 [Wamen](http://9gag.com/gag/aE0Nzvn)
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 😝 [Dystopian reality](http://9gag.com/gag/aVv1Xwv)
  - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---

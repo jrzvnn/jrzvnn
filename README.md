@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 😝 [They definitely did not expect that](http://9gag.com/gag/apRjqwM)
- - 💣 [UK really is modelling itself after the Muppet G-stapo](http://9gag.com/gag/agmZ3wK)
- - 😝 [This dude found the music version of the lost library of Alexandria.](http://9gag.com/gag/aAyNVn0)
- - 👉 [Yuri](http://9gag.com/gag/a6Z3wr2)<!-- MEMES:END -->
+ - 😝 [Whaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](http://9gag.com/gag/ayNVp1V)
+ - 😝 [Nice](http://9gag.com/gag/azxDLMj)
+ - 💣 [Men are simple creatures](http://9gag.com/gag/abAmqgO)
+ - 😝 [Primal instinct kicks in](http://9gag.com/gag/aMVNbX6)
+ - 👉 [Mission Impawsible](http://9gag.com/gag/abAmq6E)<!-- MEMES:END -->
 
 ---
 

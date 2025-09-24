@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at some uncertainties surrounding Nvidia&#39;s proposed $100B investment in OpenAI, including concerns about the agreement&#39;s circular structure &lpar;Financial Times&rpar;](http://www.techmeme.com/250924/p11#a250924p11)
  - [Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light](https://www.wired.com/review/logitech-signature-solar-slim-k980-keyboard/)
  - [Logitech’s new light-powered keyboard doesn’t even need the sun](https://www.theverge.com/news/782968/logitech-signature-solar-k980-keyboard)
- - [Bain: by 2030, AI companies will need $2T in combined annual revenue to fund compute power to meet projected demand, but are likely to fall short by $800B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250924/p10#a250924p10)
- - [Inside the Trump Administration&#39;s chaotic H-1B visa overhaul, with Commerce Secretary Howard Lutnick initially presenting the $100,000 fee as an annual charge &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250924/p9#a250924p9)<!-- TECH:END -->
+ - [The Only Bad Thing I Can Say About Bowers &amp; Wilkins&#39; Exceptional New PX8 S2 Headphones Is Their Price Hurts](https://www.cnet.com/tech/mobile/the-only-bad-thing-i-can-say-about-bowers-wilkins-exceptional-new-px8-s2-headphones-is-their-price-hurts/#ftag=CAD590a51e)
+ - [Bain: by 2030, AI companies will need $2T in combined annual revenue to fund compute power to meet projected demand, but are likely to fall short by $800B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250924/p10#a250924p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

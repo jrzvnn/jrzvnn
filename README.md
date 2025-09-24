@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
+ - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
  - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
  - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 😝 [Let&#39;s remove all the tech from our daily lives as best we can or reduce it to a minimum, then we might be able to pick up where we left offvin the 90s/00s?](http://9gag.com/gag/aO8Nvqy)
+ - 👉 [Wow...](http://9gag.com/gag/aYQneQ0)<!-- MEMES:END -->
 
 ---
 

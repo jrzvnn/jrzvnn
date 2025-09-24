@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These earbuds include a tiny wired microphone you can hold](https://www.theverge.com/news/784703/portronics-conch-one-usb-c-earbuds-headphones-wired-microphone)
  - [Best Backpacking Stove &lpar;2025&rpar;: MSR, Jetboil, Firebox](https://www.wired.com/gallery/best-backpacking-stoves/)
  - [Meta says Instagram has hit 3B monthly users and is changing its home screen to prioritize DMs and Reels; it is testing opening directly into Reels in India &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250924/p23#a250924p23)
  - [Samsung’s latest Galaxy earbuds come with a free Galaxy SmartTag2 tracker](https://www.theverge.com/tech/784644/samsung-galaxy-buds-3-fe-blink-video-doorbell-deal-sale)
- - [Zerohash, which provides on-chain infrastructure for businesses to offer trading, stablecoin payments, and more, raised a $104M Series D-2 at a $1B valuation &lpar;Blockworks&rpar;](http://www.techmeme.com/250924/p22#a250924p22)
- - [Hades II&amp;#8217;s big 1.0 update has me obsessed all over again](https://www.theverge.com/games/783718/hades-ii-2-1-0-update-review-pc-nintendo-switch)<!-- TECH:END -->
+ - [Zerohash, which provides on-chain infrastructure for businesses to offer trading, stablecoin payments, and more, raised a $104M Series D-2 at a $1B valuation &lpar;Blockworks&rpar;](http://www.techmeme.com/250924/p22#a250924p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

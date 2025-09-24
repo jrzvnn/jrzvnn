@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025)
+ - [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)
  - [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect)
  - [Some Australian leaders and experts debate whether the country should use a Chinese-owned version of TikTok or one run by Trump allies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/250924/p37#a250924p37)
- - [Pokémon and Theo Von agree on one thing: they shouldn&amp;#8217;t be in DHS videos](https://www.theverge.com/news/785288/pokemon-theo-von-dhs-ice)
- - [Qualcomm announces the Snapdragon 8 Elite Gen 5](https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5)
- - [PlayStation&amp;#8217;s new wireless speakers are for your desktop](https://www.theverge.com/news/785282/sony-playstation-pulse-elevate-wireless-speakers)<!-- TECH:END -->
+ - [Pokémon and Theo Von agree on one thing: they shouldn&amp;#8217;t be in DHS videos](https://www.theverge.com/news/785288/pokemon-theo-von-dhs-ice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

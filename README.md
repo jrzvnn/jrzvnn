@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coke Designed a Plastic Bottle to Sell Us All More Soda](https://www.wired.com/story/consumed-book-excerpt-coca-cola-plastic-bottles/)
  - [Spotify reinstates integration with third-party DJ software for Premium subscribers in 51 markets, including the US, after pulling support in 2020 &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/250924/p16#a250924p16)
  - [iPhone Air review: An aspirational iPhone that the Pro won&#39;t buy](https://appleinsider.com/articles/25/09/24/iphone-air-review-an-aspirational-iphone-that-the-pro-wont-buy?utm_source=rss)
  - [Tim Cook visits Japan for opening of Apple Ginza](https://appleinsider.com/articles/25/09/24/tim-cook-visits-japan-for-opening-of-apple-ginza?utm_source=rss)
- - [The Best Sheets on Amazon, Tested by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/best-sheets-on-amazon/)
- - [The 22 Very Online Upstarts Changing the Face of Politics](https://www.wired.com/story/wired-2025-political-power-users/)<!-- TECH:END -->
+ - [The Best Sheets on Amazon, Tested by WIRED &lpar;2025&rpar;](https://www.wired.com/gallery/best-sheets-on-amazon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

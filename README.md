@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
  - 😝 [Found out](http://9gag.com/gag/abAmyRr)
- - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
+ - 💣 [Hugo boss](http://9gag.com/gag/aKGNgD3)
+ - 😝 [What have i done?](http://9gag.com/gag/axyn2r1)
+ - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bowers &amp;#038; Wilkins says the Px8 S2 are the best headphones it&amp;#8217;s ever made](https://www.theverge.com/news/784549/bowers-wilkins-px8-s2-wireless-headphones-price-release-date-specs)
- - [Sources: Oracle seeks to borrow $15B through the US sale of corporate bonds, as it begins to fulfill massive cloud infrastructure deals with OpenAI and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p19#a250924p19)
- - [A Startup Used AI to Make a Psychedelic Without the Trip](https://www.wired.com/story/a-startup-used-ai-to-make-a-psychedelic-without-the-trip/)
- - [Where has Final Fantasy Tactics been all my life?](https://www.theverge.com/entertainment/783944/final-fantasy-tactics-remake-review-square-enix-playstation)
- - [Pokémon Legends Z-A is bringing fashion back to the franchise](https://www.theverge.com/games/784264/pokemon-legends-z-a-hands-on-fashion-nintendo-switch-2)<!-- TECH:END -->
+ - [The die is cast: A close-up view of Apple&#39;s A19 SoC](https://appleinsider.com/articles/25/09/24/the-die-is-cast-a-close-up-view-of-apples-a19-soc?utm_source=rss)
+ - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)
+ - [Xiaomi’s 15T and 15T Pro are impressive phones that are about to be outdated](https://www.theverge.com/tech/784514/xiaomi-15t-pro-release-price-specs-cameras)
+ - [17 Best MagSafe Wireless Chargers &lpar;2025&rpar;: Power Banks, Stands, Pads, and Travel Chargers](https://www.wired.com/gallery/best-magsafe-wireless-chargers/)
+ - [Bowers &amp;#038; Wilkins says the Px8 S2 are the best headphones it&amp;#8217;s ever made](https://www.theverge.com/news/784549/bowers-wilkins-px8-s2-wireless-headphones-price-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

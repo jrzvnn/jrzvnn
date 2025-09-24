@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $50 on Our Favorite Budget Graphics Card](https://www.wired.com/story/nvidia-gpu-deal-september-2025/)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Source: President Trump will sign the TikTok deal on Thursday &lpar;Nandita Bose/Reuters&rpar;](http://www.techmeme.com/250924/p31#a250924p31)
  - [Meta is opening pop-up shops to show off its smart glasses with a display](https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display)
- - [Apple&#39;s weak &#39;scratchgate&#39; defense insists iPhone 17 isn&#39;t easily damaged](https://appleinsider.com/articles/25/09/24/apples-weak-scratchgate-defense-insists-iphone-17-isnt-easily-damaged?utm_source=rss)
- - [You Can Snag Free Windows 10 Extended Security Updates From Microsoft. Here&#39;s How](https://www.cnet.com/tech/computing/you-can-snag-free-windows-10-extended-security-updates-from-microsoft-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s weak &#39;scratchgate&#39; defense insists iPhone 17 isn&#39;t easily damaged](https://appleinsider.com/articles/25/09/24/apples-weak-scratchgate-defense-insists-iphone-17-isnt-easily-damaged?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

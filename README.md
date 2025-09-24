@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An Indian court dismisses X&#39;s March lawsuit challenging the government&#39;s content takedown orders, ruling foreign platforms can&#39;t invoke free speech protections &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250924/p38#a250924p38)
+ - [Google&#39;s ChromeOS Will Combine With Android Next Year to Supercharge Big-Screen AI](https://www.cnet.com/tech/services-and-software/googles-chromeos-will-combine-with-android-next-year-to-supercharge-big-screen-ai/#ftag=CAD590a51e)
+ - [5 Features Coming to Your New Laptop in 2026 Thanks to Snapdragon X2 Elite](https://www.cnet.com/tech/computing/5-features-coming-to-your-new-laptop-in-2026-thanks-to-snapdragon-x2-elite/#ftag=CAD590a51e)
  - [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025)
- - [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)
- - [X-ray scans reveal the hidden risks of cheap batteries](https://www.theverge.com/news/784966/lumafield-x-ray-ct-scan-lithium-ion-battery-risks-manufacturing-defect)
- - [Some Australian leaders and experts debate whether the country should use a Chinese-owned version of TikTok or one run by Trump allies &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/250924/p37#a250924p37)
- - [Pokémon and Theo Von agree on one thing: they shouldn&amp;#8217;t be in DHS videos](https://www.theverge.com/news/785288/pokemon-theo-von-dhs-ice)<!-- TECH:END -->
+ - [Google reveals its Android for PC is coming next year](https://www.theverge.com/tech/785351/google-reveals-its-android-for-pc-is-coming-next-year)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

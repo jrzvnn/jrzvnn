@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft Flight Simulator 2024 is coming to PS5 in December](https://www.theverge.com/tech/785181/microsoft-flight-simulator-2024-is-coming-to-ps5-in-december)
+ - [Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs](https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs)
+ - [Qualcomm announces the Snapdragon X2 Elite and X2 Elite Extreme chips for PCs, offering up to 18 cores, and says the latter is the first Arm chip to hit 5GHz &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250924/p36#a250924p36)
  - [Steam’s redesigned store menu will help you find your next game](https://www.theverge.com/news/785110/valve-steam-redesigned-store-menu-personalized-recommendations)
- - [PlayStation State of Play September 2025: all the news and trailers](https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers)
- - [Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips](https://www.wired.com/story/qualcomm-snapdragon-x2-chips-2025/)
- - [Trump plans to sign a TikTok deal on Thursday; source: TikTok US would be run by a new joint venture company, with ByteDance holding less than 20% of its stock &lpar;NBC News&rpar;](http://www.techmeme.com/250924/p35#a250924p35)
- - [Sources: Intel approached Apple about a potential investment in the chipmaker as part of its turnaround efforts and discussed how to work more closely together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p34#a250924p34)<!-- TECH:END -->
+ - [PlayStation State of Play September 2025: all the news and trailers](https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

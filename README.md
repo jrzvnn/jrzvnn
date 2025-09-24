@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Is YouTube Premium Lite—and Should You Subscribe to It?](https://www.wired.com/story/youtube-premium-lite-should-you-subscribe/)
  - [Bluesky seems to be having trouble](https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble)
  - [Pocket Casts is showing ads to people who paid for an ad-free app](https://www.theverge.com/news/784429/pocket-casts-ads-lifetime-memberships-complaints)
  - [10 Best Natural Deodorants I Tested Day to Day &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [iPhones will add US Passport support by end of 2025](https://appleinsider.com/articles/25/09/24/iphones-will-add-us-passport-support-by-end-of-2025?utm_source=rss)
- - [UK&#39;s National Crime Agency says it&#39;s arrested a man in connection with a cyberattack that has caused days of disruption at Heathrow and other European airports &lpar;Imran Rahman-Jones/BBC&rpar;](http://www.techmeme.com/250924/p17#a250924p17)<!-- TECH:END -->
+ - [iPhones will add US Passport support by end of 2025](https://appleinsider.com/articles/25/09/24/iphones-will-add-us-passport-support-by-end-of-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

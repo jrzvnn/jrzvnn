@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A hope for walking again](http://9gag.com/gag/aryrKmd)
- - 😝 [Classic Meme](http://9gag.com/gag/aRBNVBy)
- - 💣 [This ... and more](http://9gag.com/gag/aryrRQ6)
- - 😝 [Friends](http://9gag.com/gag/aD2NmLK)
- - 👉 [Never Forgetti](http://9gag.com/gag/agmZN7r)<!-- MEMES:END -->
+ - 😝 [One of the oddest movie trilogies of recent time, but I&#39;m willing to give it a shot](https://www.reddit.com/r/funny/comments/1npcopx/one_of_the_oddest_movie_trilogies_of_recent_time/)
+ - 💣 [Classic Meme](http://9gag.com/gag/aRBNVBy)
+ - 😝 [This ... and more](http://9gag.com/gag/aryrRQ6)
+ - 👉 [Friends](http://9gag.com/gag/aD2NmLK)<!-- MEMES:END -->
 
 ---
 

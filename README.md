@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
- - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
  - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 😝 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)
+ - 👉 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)<!-- MEMES:END -->
 
 ---
 

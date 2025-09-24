@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at some uncertainties surrounding Nvidia&#39;s proposed $100B investment in OpenAI, including concerns about the agreement&#39;s circular structure &lpar;Financial Times&rpar;](http://www.techmeme.com/250924/p11#a250924p11)
+ - [Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light](https://www.wired.com/review/logitech-signature-solar-slim-k980-keyboard/)
+ - [Logitech’s new light-powered keyboard doesn’t even need the sun](https://www.theverge.com/news/782968/logitech-signature-solar-k980-keyboard)
  - [Bain: by 2030, AI companies will need $2T in combined annual revenue to fund compute power to meet projected demand, but are likely to fall short by $800B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250924/p10#a250924p10)
- - [Inside the Trump Administration&#39;s chaotic H-1B visa overhaul, with Commerce Secretary Howard Lutnick initially presenting the $100,000 fee as an annual charge &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250924/p9#a250924p9)
- - [Sources: Flipkart is investing $30M in its fintech unit Supermoney, after a $20M 2024 spin-off round; Supermoney disbursed $700M+ in loans via lending partners &lpar;Alex Gabriel Simon/Bloomberg&rpar;](http://www.techmeme.com/250924/p8#a250924p8)
- - [BofA Securities: Blinkit holds over 50% share of India&#39;s quick commerce market, as rivals Zepto and Instamart prioritize profitability over aggressive expansion &lpar;Pranav Mukul/The Economic Times&rpar;](http://www.techmeme.com/250924/p7#a250924p7)
- - [Kimmel returns to television to mock FCC Chair Brendan Carr](https://www.theverge.com/policy/784355/jimmy-kimmel-return-brendan-carr-trump)<!-- TECH:END -->
+ - [Inside the Trump Administration&#39;s chaotic H-1B visa overhaul, with Commerce Secretary Howard Lutnick initially presenting the $100,000 fee as an annual charge &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250924/p9#a250924p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

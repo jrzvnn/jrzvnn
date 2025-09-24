@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s weak &#39;scratchgate&#39; defense insists iPhone 17 isn&#39;t easily damaged](https://appleinsider.com/articles/25/09/24/apples-weak-scratchgate-defense-insists-iphone-17-isnt-easily-damaged?utm_source=rss)
  - [Google launches its Search Live feature in the US, letting users ask questions in AI Mode while sharing their phone&#39;s camera feed for real-time help &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250924/p30#a250924p30)
  - [Waymo is launching a new service for business travelers](https://www.theverge.com/news/784929/waymo-for-business-corporate-travel-employer)
  - [YouTube adds a &quot;hide&quot; button to let users dismiss recommendation pop-ups that appear at the end of videos, following user feedback that pop-ups were distracting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250924/p29#a250924p29)
- - [This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw](https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/)
- - [Volvo’s next-gen hyrbids will be American-made EREVs](https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us)<!-- TECH:END -->
+ - [This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw](https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

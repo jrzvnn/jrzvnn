@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PlayStation&amp;#8217;s new wireless speakers are for your desktop](https://www.theverge.com/news/785282/sony-playstation-pulse-elevate-wireless-speakers)
+ - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
  - [Wolverine looks bloody good in first gameplay trailer](https://www.theverge.com/news/611201/sony-playstation-5-ps5-wolverine-gameplay-trailer)
  - [Intel seeks direct Apple investment as US chip manufacturing gets increasing priority](https://appleinsider.com/articles/25/09/24/intel-seeks-direct-apple-investment-as-us-chip-manufacturing-gets-increasing-priority?utm_source=rss)
- - [Haunting PS5 shooter Saros launches in March](https://www.theverge.com/news/785146/sony-playstation-saros-ps5-release-date-trailer-returnal-housemarque)
- - [Microsoft Flight Simulator 2024 is coming to PS5 in December](https://www.theverge.com/tech/785181/microsoft-flight-simulator-2024-ps5-release-date)
- - [Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs](https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs)<!-- TECH:END -->
+ - [Haunting PS5 shooter Saros launches in March](https://www.theverge.com/news/785146/sony-playstation-saros-ps5-release-date-trailer-returnal-housemarque)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Appfigures: dedicated mobile apps for vibe coding have yet to gain traction, with Instance: AI App Builder, the largest such app, seeing just 16,000 downloads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250924/p5#a250924p5)
+ - [Taiwan curbs chip exports to South Africa over national security concerns, the first time it has used its chip industry as a weapon against a China ally &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p6#a250924p6)
+ - [Appfigures: dedicated mobile apps for vibe coding have yet to gain traction; the largest such app, Instance: AI App Builder, has just 16,000 downloads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250924/p5#a250924p5)
  - [Tracxn: funding for Indian digital lending startups fell to $462M between January and August 2025 from $1.1B a year earlier, after RBI tightened lending norms &lpar;The Economic Times&rpar;](http://www.techmeme.com/250924/p4#a250924p4)
  - [London-based media monitoring and risk management company Signal AI raised $165M led by Battery Ventures, which will hold a majority stake after the investment &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250924/p3#a250924p3)
- - [Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p2#a250924p2)
- - [iPhone 17 Pro teardown: the anodized aluminum scratches badly around the camera plateau edge, the screwed-in battery is a cool repairability upgrade, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250924/p1#a250924p1)<!-- TECH:END -->
+ - [Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p2#a250924p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

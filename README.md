@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
  - 😝 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
- - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 💣 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)
+ - 😝 [Safe zone](http://9gag.com/gag/aE0N78x)
+ - 👉 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)<!-- MEMES:END -->
 
 ---
 

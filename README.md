@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Greptile, maker of an AI-powered code review tool, raised a $25M Series A led by Benchmark and launches Greptile v3 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250923/p43#a250923p43)
+ - [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)
+ - [How Trump leveraged Biden&#39;s TikTok ban law to help allies gain control of the app, amid fears it could be used to boost pro-Trump content and suppress criticism &lpar;Washington Post&rpar;](http://www.techmeme.com/250923/p42#a250923p42)
  - [iPhone 17 Pro teardown reveals vapor chamber, explains scratches](https://appleinsider.com/articles/25/09/24/iphone-17-pro-teardown-reveals-vapor-chamber-explains-scratches?utm_source=rss)
- - [Pokémon lawyers won&amp;#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts)
- - [Alibaba releases the Qwen3-VL vision models, the Qwen3Guard &quot;safety moderation&quot; models, and three closed-weight models, including Qwen3-Max with 1T+ parameters &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250923/p41#a250923p41)
- - [For One Glorious Morning, a Website Saved San Francisco From Parking Tickets](https://www.wired.com/story/san-francisco-find-my-parking-cops/)
- - [Privacy startup Duality says it has developed a private LLM inference framework that uses fully homomorphic encryption to let LLMs answer encrypted prompts &lpar;Rina Diane Caballar/IEEE Spectrum&rpar;](http://www.techmeme.com/250923/p40#a250923p40)<!-- TECH:END -->
+ - [Pokémon lawyers won&amp;#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How patience, ChatGPT, and a little luck can net you one nearly functional iPhone game](https://appleinsider.com/articles/25/09/24/how-patience-chatgpt-and-a-little-luck-can-net-you-one-nearly-functional-iphone-game?utm_source=rss)
- - [WeTravel, whose travel payments software is used by group travel operators, raised a $92M Series C at a ~$450M valuation, up from ~$100M in 2022 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250924/p18#a250924p18)
- - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
- - [Trump’s H-1B chaos is Europe&amp;#8217;s opportunity to steal tech talent](https://www.theverge.com/news/784412/trump-h-1b-visa-europe-steal)
- - [What Is YouTube Premium Lite—and Should You Subscribe to It?](https://www.wired.com/story/youtube-premium-lite-should-you-subscribe/)<!-- TECH:END -->
+ - [Bowers &amp;#038; Wilkins says the Px8 S2 are the best headphones it&amp;#8217;s ever made](https://www.theverge.com/news/784549/bowers-wilkins-px8-s2-wireless-headphones-price-release-date-specs)
+ - [Sources: Oracle seeks to borrow $15B through the US sale of corporate bonds, as it begins to fulfill massive cloud infrastructure deals with OpenAI and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p19#a250924p19)
+ - [A Startup Used AI to Make a Psychedelic Without the Trip](https://www.wired.com/story/a-startup-used-ai-to-make-a-psychedelic-without-the-trip/)
+ - [Where has Final Fantasy Tactics been all my life?](https://www.theverge.com/entertainment/783944/final-fantasy-tactics-remake-review-square-enix-playstation)
+ - [Pokémon Legends Z-A is bringing fashion back to the franchise](https://www.theverge.com/games/784264/pokemon-legends-z-a-hands-on-fashion-nintendo-switch-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

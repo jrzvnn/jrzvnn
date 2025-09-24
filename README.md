@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta plans to open new pop-up shops in Las Vegas and NYC and reopen its LA shop starting in October to show off Meta Ray-Ban Display and other hardware &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250924/p32#a250924p32)
  - [Save $50 on Our Favorite Budget Graphics Card](https://www.wired.com/story/nvidia-gpu-deal-september-2025/)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [Source: President Trump will sign the TikTok deal on Thursday &lpar;Nandita Bose/Reuters&rpar;](http://www.techmeme.com/250924/p31#a250924p31)
- - [Meta is opening pop-up shops to show off its smart glasses with a display](https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display)
- - [Apple&#39;s weak &#39;scratchgate&#39; defense insists iPhone 17 isn&#39;t easily damaged](https://appleinsider.com/articles/25/09/24/apples-weak-scratchgate-defense-insists-iphone-17-isnt-easily-damaged?utm_source=rss)<!-- TECH:END -->
+ - [Meta is opening pop-up shops to show off its smart glasses with a display](https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

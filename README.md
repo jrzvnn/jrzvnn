@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
  - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 😝 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
  - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 😝 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
  - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
 
 ---

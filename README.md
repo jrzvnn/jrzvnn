@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
- - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [This worked for me so might work for you](http://9gag.com/gag/aAyN1bo)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 😝 [Safe zone](http://9gag.com/gag/aE0N78x)
+ - 😝 [Never Forgetti](http://9gag.com/gag/agmZN7r)
+ - 💣 [This ... and more](http://9gag.com/gag/aryrRQ6)
+ - 😝 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
+ - 👉 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)<!-- MEMES:END -->
 
 ---
 

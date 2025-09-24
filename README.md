@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A hope for walking again](http://9gag.com/gag/aryrKmd)
- - 😝 [One of the oddest movie trilogies of recent time, but I&#39;m willing to give it a shot](https://www.reddit.com/r/funny/comments/1npcopx/one_of_the_oddest_movie_trilogies_of_recent_time/)
- - 💣 [Classic Meme](http://9gag.com/gag/aRBNVBy)
- - 😝 [This ... and more](http://9gag.com/gag/aryrRQ6)
- - 👉 [Friends](http://9gag.com/gag/aD2NmLK)<!-- MEMES:END -->
+ - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 💣 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)
+ - 😝 [Found out](http://9gag.com/gag/abAmyRr)
+ - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
 
 ---
 

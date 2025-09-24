@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube adds a &quot;hide&quot; button to let users dismiss recommendation pop-ups that appear at the end of videos, following user feedback that pop-ups were distracting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250924/p29#a250924p29)
+ - [This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw](https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/)
+ - [Volvo’s next-gen hyrbids will be American-made EREVs](https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us)
  - [You can now upgrade a retro Casio watch with Bluetooth, step tracking, and games](https://www.theverge.com/news/784895/ollee-casio-f-91w-a158w-watch-one-kit-bluetooth-smartwatch)
- - [OpenAI partners with SAP to launch OpenAI for Germany, bringing its AI tools to Germany&#39;s public sector through SAP&#39;s Delos Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p28#a250924p28)
- - [Waymo launches Waymo for Business, a service targeting employers, universities, and event organizers, available in San Francisco, Los Angeles, and Phoenix &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250924/p27#a250924p27)
- - [The 15 Best Tried and Tested Gifts for Bird Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-bird-lovers/)
- - [Jessica Chastain says she and Apple are &amp;#8216;not aligned&amp;#8217; on decision to halt The Savant](https://www.theverge.com/news/784839/jessica-chastain-respone-the-savant-pause-apple-tv-plus)<!-- TECH:END -->
+ - [OpenAI partners with SAP to launch OpenAI for Germany, bringing its AI tools to Germany&#39;s public sector through SAP&#39;s Delos Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p28#a250924p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

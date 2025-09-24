@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These earbuds include a tiny wired microphone you can hold](https://www.theverge.com/news/784703/portronics-conch-one-usb-c-earbuds-headphones-wired-microphone)
- - [Best Backpacking Stove &lpar;2025&rpar;: MSR, Jetboil, Firebox](https://www.wired.com/gallery/best-backpacking-stoves/)
- - [Meta says Instagram has hit 3B monthly users and is changing its home screen to prioritize DMs and Reels; it is testing opening directly into Reels in India &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/250924/p23#a250924p23)
- - [Samsung’s latest Galaxy earbuds come with a free Galaxy SmartTag2 tracker](https://www.theverge.com/tech/784644/samsung-galaxy-buds-3-fe-blink-video-doorbell-deal-sale)
- - [Zerohash, which provides on-chain infrastructure for businesses to offer trading, stablecoin payments, and more, raised a $104M Series D-2 at a $1B valuation &lpar;Blockworks&rpar;](http://www.techmeme.com/250924/p22#a250924p22)<!-- TECH:END -->
+ - [YouTube will now let you hide those pesky end screens](https://www.theverge.com/news/784774/youtube-end-screen-videos-hide)
+ - [Google launches the Data Commons MCP Server, allowing developers to integrate its collection of public datasets into AI systems via natural language queries &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250924/p25#a250924p25)
+ - [Microsoft is bringing Anthropic&#39;s Claude Sonnet 4 and Claude Opus 4.1 to Microsoft 365 Copilot, starting with Researcher and Copilot Studio &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250924/p24#a250924p24)
+ - [A Former Apple Luminary Sets Out to Create the Ultimate GPU Software](https://www.wired.com/story/semiconductor-software-startups-chips/)
+ - [I tried a 240Hz 4K OLED gaming monitor and now I’m ruined](https://www.theverge.com/tech/784323/upgrading-240hz-oled-gaming-monitor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Classic Meme](http://9gag.com/gag/aRBNVBy)
- - 😝 [Safe zone](http://9gag.com/gag/aE0N78x)
- - 💣 [Never Forgetti](http://9gag.com/gag/agmZN7r)
- - 😝 [This ... and more](http://9gag.com/gag/aryrRQ6)
- - 👉 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)<!-- MEMES:END -->
+ - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 😝 [This worked for me so might work for you](http://9gag.com/gag/aAyN1bo)
+ - 👉 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
  - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
  - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 😝 [This worked for me so might work for you](http://9gag.com/gag/aAyN1bo)
+ - 😝 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)
  - 👉 [Always nice to see coop in the real life](http://9gag.com/gag/a9yNPpK)<!-- MEMES:END -->
 
 ---

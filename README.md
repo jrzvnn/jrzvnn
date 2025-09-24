@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
  - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
  - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [The crossover we need, but don&#39;t deserve](http://9gag.com/gag/aE0N75N)
+ - 😝 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)
  - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 ---

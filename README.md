@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Steam’s redesigned store menu will help you find your next game](https://www.theverge.com/news/785110/valve-steam-redesigned-store-menu-personalized-recommendations)
  - [PlayStation State of Play September 2025: all the news and trailers](https://www.theverge.com/games/784746/playstation-state-of-play-september-2025-news-trailers)
  - [Qualcomm Debuts Snapdragon X2 Elite and X2 Elite Extreme, Its Next-Gen Laptop Chips](https://www.wired.com/story/qualcomm-snapdragon-x2-chips-2025/)
  - [Trump plans to sign a TikTok deal on Thursday; source: TikTok US would be run by a new joint venture company, with ByteDance holding less than 20% of its stock &lpar;NBC News&rpar;](http://www.techmeme.com/250924/p35#a250924p35)
- - [Sources: Intel approached Apple about a potential investment in the chipmaker as part of its turnaround efforts and discussed how to work more closely together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p34#a250924p34)
- - [Canadian PE firm Novacap agrees to acquire Integral Ad Science, which provides digital ad measurement and verification, in a deal valuing IAS at about $1.9B &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/250924/p33#a250924p33)<!-- TECH:END -->
+ - [Sources: Intel approached Apple about a potential investment in the chipmaker as part of its turnaround efforts and discussed how to work more closely together &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p34#a250924p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

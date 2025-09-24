@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Safe zone](http://9gag.com/gag/aE0N78x)
- - 😝 [Never Forgetti](http://9gag.com/gag/agmZN7r)
- - 💣 [This ... and more](http://9gag.com/gag/aryrRQ6)
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 👉 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)<!-- MEMES:END -->
+ - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 💣 [Found out](http://9gag.com/gag/abAmyRr)
+ - 😝 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
+ - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
 
 ---
 

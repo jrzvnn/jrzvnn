@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wolverine looks bloody good in first gameplay trailer](https://www.theverge.com/news/611201/sony-playstation-5-ps5-wolverine-gameplay-trailer)
  - [Intel seeks direct Apple investment as US chip manufacturing gets increasing priority](https://appleinsider.com/articles/25/09/24/intel-seeks-direct-apple-investment-as-us-chip-manufacturing-gets-increasing-priority?utm_source=rss)
  - [Haunting PS5 shooter Saros launches in March](https://www.theverge.com/news/785146/sony-playstation-saros-ps5-release-date-trailer-returnal-housemarque)
  - [Microsoft Flight Simulator 2024 is coming to PS5 in December](https://www.theverge.com/tech/785181/microsoft-flight-simulator-2024-ps5-release-date)
- - [Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs](https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs)
- - [Qualcomm announces the Snapdragon X2 Elite and X2 Elite Extreme chips for PCs, offering up to 18 cores, and says the latter is the first Arm chip to hit 5GHz &lpar;Andrew E. Freedman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/250924/p36#a250924p36)<!-- TECH:END -->
+ - [Qualcomm announces Snapdragon X2 Elite and Extreme for Windows PCs](https://www.theverge.com/news/785068/qualcomm-announces-snapdragon-x2-elite-and-extreme-for-windows-pcs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

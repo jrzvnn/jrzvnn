@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jessica Chastain says she and Apple are &amp;#8216;not aligned&amp;#8217; on decision to halt The Savant](https://www.theverge.com/news/784839/jessica-chastain-respone-the-savant-pause-apple-tv-plus)
+ - [Larry Ellison Is a ‘Shadow President’ in Donald Trump’s America](https://www.wired.com/story/larry-ellison-is-a-shadow-president-in-donald-trumps-america/)
  - [Instagram hits 3 billion monthly users](https://www.theverge.com/news/784784/instagram-3-billion-monthly-users-reels-dms-updates)
  - [Modular, which lets developers build AI apps that run across multiple GPU and CPU vendors, raised $250M led by US Innovative Technology at a $1.6B valuation &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/250924/p26#a250924p26)
- - [UK arrests man in airport ransomware attack that caused delays across Europe](https://www.theverge.com/news/784786/uk-nca-europe-airport-cyberattack-ransomware-arrest)
- - [YouTube will now let you hide those pesky end screens](https://www.theverge.com/news/784774/youtube-end-screen-videos-hide)
- - [Google launches the Data Commons MCP Server, allowing developers to integrate its collection of public datasets into AI systems via natural language queries &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/250924/p25#a250924p25)<!-- TECH:END -->
+ - [UK arrests man in airport ransomware attack that caused delays across Europe](https://www.theverge.com/news/784786/uk-nca-europe-airport-cyberattack-ransomware-arrest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

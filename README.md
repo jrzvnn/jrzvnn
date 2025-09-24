@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Is YouTube Premium Lite—and Should You Subscribe to It?](https://www.wired.com/story/youtube-premium-lite-should-you-subscribe/)
- - [Bluesky seems to be having trouble](https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble)
- - [Pocket Casts is showing ads to people who paid for an ad-free app](https://www.theverge.com/news/784429/pocket-casts-ads-lifetime-memberships-complaints)
- - [10 Best Natural Deodorants I Tested Day to Day &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [iPhones will add US Passport support by end of 2025](https://appleinsider.com/articles/25/09/24/iphones-will-add-us-passport-support-by-end-of-2025?utm_source=rss)<!-- TECH:END -->
+ - [How patience, ChatGPT, and a little luck can net you one nearly functional iPhone game](https://appleinsider.com/articles/25/09/24/how-patience-chatgpt-and-a-little-luck-can-net-you-one-nearly-functional-iphone-game?utm_source=rss)
+ - [WeTravel, whose travel payments software is used by group travel operators, raised a $92M Series C at a ~$450M valuation, up from ~$100M in 2022 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250924/p18#a250924p18)
+ - [9 Best Electric Scooters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-electric-scooters/)
+ - [Trump’s H-1B chaos is Europe&amp;#8217;s opportunity to steal tech talent](https://www.theverge.com/news/784412/trump-h-1b-visa-europe-steal)
+ - [What Is YouTube Premium Lite—and Should You Subscribe to It?](https://www.wired.com/story/youtube-premium-lite-should-you-subscribe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

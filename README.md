@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will let creators who spread covid misinformation back on the site](https://www.theverge.com/policy/784238/youtube-covid-election-misinformation-reversal)
- - [Logitech Pop Icon Combo review: a colorful, affordable duo for everyday use](https://appleinsider.com/articles/25/09/23/logitech-pop-icon-combo-review-a-colorful-affordable-duo-for-everyday-use?utm_source=rss)
- - [A joint investigation by Canadian privacy authorities finds TikTok collected sensitive personal data from hundreds of thousands of Canadian children under 13 &lpar;Catharine Tunney/CBC News&rpar;](http://www.techmeme.com/250923/p39#a250923p39)
- - [Google introduces Mixboard, an AI-powered tool that lets users create mood boards, available in public beta in the US &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250923/p38#a250923p38)
- - [The Switch 2 version of Borderlands 4 has been delayed](https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay)<!-- TECH:END -->
+ - [iPhone 17 Pro teardown reveals vapor chamber, explains scratches](https://appleinsider.com/articles/25/09/24/iphone-17-pro-teardown-reveals-vapor-chamber-explains-scratches?utm_source=rss)
+ - [Pokémon lawyers won&amp;#8217;t sue DHS for that video, former legal head predicts](https://www.theverge.com/news/784312/pokemon-lawyers-wont-sue-dhs-for-that-video-former-legal-head-predicts)
+ - [Alibaba releases the Qwen3-VL vision models, the Qwen3Guard &quot;safety moderation&quot; models, and three closed-weight models, including Qwen3-Max with 1T+ parameters &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250923/p41#a250923p41)
+ - [For One Glorious Morning, a Website Saved San Francisco From Parking Tickets](https://www.wired.com/story/san-francisco-find-my-parking-cops/)
+ - [Privacy startup Duality says it has developed a private LLM inference framework that uses fully homomorphic encryption to let LLMs answer encrypted prompts &lpar;Rina Diane Caballar/IEEE Spectrum&rpar;](http://www.techmeme.com/250923/p40#a250923p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

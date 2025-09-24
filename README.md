@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/axynZnL)
  - 😝 [It&#39;s a simple life](http://9gag.com/gag/a6Z3yVN)
- - 💣 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 😝 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)
+ - 💣 [It feels like looking in the mirror](http://9gag.com/gag/an7WX75)
+ - 😝 [When we knew, a friend was going too calling us.](http://9gag.com/gag/aD2Nm9K)
  - 👉 [Found out](http://9gag.com/gag/abAmyRr)<!-- MEMES:END -->
 
 ---

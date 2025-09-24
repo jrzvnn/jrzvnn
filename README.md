@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
- - 💣 [This ... and more](http://9gag.com/gag/aryrRQ6)
- - 😝 [I like it](http://9gag.com/gag/amobzNV)
- - 👉 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)<!-- MEMES:END -->
+ - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 💣 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)
+ - 😝 [Let&#39;s remove all the tech from our daily lives as best we can or reduce it to a minimum, then we might be able to pick up where we left offvin the 90s/00s?](http://9gag.com/gag/aO8Nvqy)
+ - 👉 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)<!-- MEMES:END -->
 
 ---
 

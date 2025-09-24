@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&amp;#8217;s Android for PC: &amp;#8216;I&amp;#8217;ve seen it, it is incredible&amp;#8217;](https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-merger-incredible)
+ - [The 22 Very Online Upstarts Changing the Face of Politics](https://www.wired.com/story/wired-2025-political-power-users/)
+ - [Michael Moritz says Trump&#39;s &quot;H-1B caper will backfire&quot; and shows the &quot;fragile grasp&quot; Trump and his acolytes have of what makes the US tech sector so successful &lpar;Michael Moritz/Financial Times&rpar;](http://www.techmeme.com/250924/p15#a250924p15)
  - [Report: China&#39;s market regulator drafts rules to curb &quot;coercive competition&quot; in the online food delivery market, spurring a rally in Meituan and JD.com&#39;s shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p14#a250924p14)
  - [The World’s Oceans Are Hurtling Toward Breaking Point](https://www.wired.com/story/human-impact-on-oceans-to-double-by-2050-study/)
- - [Spotify reintegrates with Algoriddim’s djay](https://www.theverge.com/news/784347/spotify-reintegrates-algoriddim-djay)
- - [Samsung now owns Denon, Bowers &amp;#038; Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)<!-- TECH:END -->
+ - [Spotify reintegrates with Algoriddim’s djay](https://www.theverge.com/news/784347/spotify-reintegrates-algoriddim-djay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

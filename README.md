@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 💣 [Found out](http://9gag.com/gag/abAmyRr)
- - 😝 [What have i done?](http://9gag.com/gag/axyn2r1)
- - 👉 [Guys, I&#39;ve been diagnosed today. It seems I got the Horny...type 2](http://9gag.com/gag/aQzNp3K)<!-- MEMES:END -->
+ - 😝 [Hakuna Matata](http://9gag.com/gag/aW4NOqx)
+ - 😝 [Spray bottle birb](http://9gag.com/gag/aryr4Pp)
+ - 💣 [Poland doesnt give two shits anymore, glad they are part of the Eu lol.](http://9gag.com/gag/a6Z3LEm)
+ - 😝 [Classic Meme](http://9gag.com/gag/aRBNVBy)
+ - 👉 [Never Forgetti](http://9gag.com/gag/agmZN7r)<!-- MEMES:END -->
 
 ---
 

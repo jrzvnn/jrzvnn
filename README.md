@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung now owns Denon, Bowers &amp;#038; Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
  - [Indian digital payments giant PhonePe confidentially files for an IPO in India, seeking to raise $1.5B, sources say at a valuation of $15B &lpar;The Economic Times&rpar;](http://www.techmeme.com/250924/p13#a250924p13)
+ - [9 Foods Experts Say Could Relieve Headaches if Pain Relievers Don&#39;t Cut It](https://www.cnet.com/health/nutrition/foods-experts-say-could-relieve-headaches-pain-relievers-dont-cut-it/#ftag=CAD590a51e)
  - [Alibaba&#39;s Hong Kong-listed shares hit a nearly four-year high after CEO Eddie Wu announces plans to increase AI spending beyond the $53B target over three years &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250924/p12#a250924p12)
- - [A look at some uncertainties surrounding Nvidia&#39;s proposed $100B investment in OpenAI, including concerns about the agreement&#39;s circular structure &lpar;Financial Times&rpar;](http://www.techmeme.com/250924/p11#a250924p11)
- - [Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light](https://www.wired.com/review/logitech-signature-solar-slim-k980-keyboard/)
- - [Logitech’s new light-powered keyboard doesn’t even need the sun](https://www.theverge.com/news/782968/logitech-signature-solar-k980-keyboard)<!-- TECH:END -->
+ - [LCD vs. LED: Which TV Technology Is Better?](https://www.cnet.com/tech/home-entertainment/lcd-vs-led-which-tv-technology-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

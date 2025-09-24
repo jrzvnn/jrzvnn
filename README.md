@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p2#a250924p2)
  - [iPhone 17 Pro teardown: the anodized aluminum scratches badly around the camera plateau edge, the screwed-in battery is a cool repairability upgrade, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250924/p1#a250924p1)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-24/#ftag=CAD590a51e)
  - [VCs court top AI startups with preempted rounds and perks like private jets; PitchBook: US AI startups raised $200B in 2025, with 41% going to just 10 companies &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250923/p44#a250923p44)
- - [Greptile, maker of an AI-powered code review tool, raised a $25M Series A led by Benchmark and launches Greptile v3 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250923/p43#a250923p43)
- - [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)<!-- TECH:END -->
+ - [Greptile, maker of an AI-powered code review tool, raised a $25M Series A led by Benchmark and launches Greptile v3 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250923/p43#a250923p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

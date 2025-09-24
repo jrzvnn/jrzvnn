@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches its Search Live feature in the US, letting users ask questions in AI Mode while sharing their phone&#39;s camera feed for real-time help &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250924/p30#a250924p30)
+ - [Waymo is launching a new service for business travelers](https://www.theverge.com/news/784929/waymo-for-business-corporate-travel-employer)
  - [YouTube adds a &quot;hide&quot; button to let users dismiss recommendation pop-ups that appear at the end of videos, following user feedback that pop-ups were distracting &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/250924/p29#a250924p29)
  - [This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw](https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/)
- - [Volvo’s next-gen hyrbids will be American-made EREVs](https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us)
- - [You can now upgrade a retro Casio watch with Bluetooth, step tracking, and games](https://www.theverge.com/news/784895/ollee-casio-f-91w-a158w-watch-one-kit-bluetooth-smartwatch)
- - [OpenAI partners with SAP to launch OpenAI for Germany, bringing its AI tools to Germany&#39;s public sector through SAP&#39;s Delos Cloud &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p28#a250924p28)<!-- TECH:END -->
+ - [Volvo’s next-gen hyrbids will be American-made EREVs](https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

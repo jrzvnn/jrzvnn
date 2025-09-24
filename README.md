@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sharge’s magnetic fan-cooled SSD doubles as a USB hub](https://www.theverge.com/news/784634/sharge-disk-pro-active-cooling-ssd-kickstarter)
- - [Emergent, which lets non-technical users build apps via AI agents that handle coding errors and more, raised a $23M Series A, bringing its total funding to $30M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p21#a250924p21)
- - [Disney sure picked a terrible time to raise prices](https://www.theverge.com/report/784594/disney-jimmy-kimmel-backlash-price-hikes)
- - [Latest iOS beta hints at notifications on non-Apple watches](https://www.theverge.com/news/784477/apple-ios-26-beta-third-party-smartwatch-notifications)
- - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
+ - [Zerohash, which provides on-chain infrastructure for businesses to offer trading, stablecoin payments, and more, raised a $104M Series D-2 at a $1B valuation &lpar;Blockworks&rpar;](http://www.techmeme.com/250924/p22#a250924p22)
+ - [A Former Apple Luminary Sets Out to Create the Ultimate GPU Software](https://www.wired.com/story/semiconductor-software-startups-chips/)
+ - [Hades II&amp;#8217;s big 1.0 update has me obsessed all over again](https://www.theverge.com/games/783718/hades-ii-2-1-0-update-review-pc-nintendo-switch)
+ - [Microsoft embraces OpenAI rival Anthropic to improve Microsoft 365 apps](https://www.theverge.com/news/784392/microsoft-365-copilot-anthropic-ai-models-feature)
+ - [Sharge’s magnetic fan-cooled SSD doubles as a USB hub](https://www.theverge.com/news/784634/sharge-disk-pro-active-cooling-ssd-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

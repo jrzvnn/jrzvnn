@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 Pro teardown: the anodized aluminum scratches badly around the camera plateau edge, the screwed-in battery is a cool repairability upgrade, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250924/p1#a250924p1)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-24/#ftag=CAD590a51e)
  - [VCs court top AI startups with preempted rounds and perks like private jets; PitchBook: US AI startups raised $200B in 2025, with 41% going to just 10 companies &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250923/p44#a250923p44)
  - [Greptile, maker of an AI-powered code review tool, raised a $25M Series A led by Benchmark and launches Greptile v3 &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/250923/p43#a250923p43)
- - [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)
- - [How Trump leveraged Biden&#39;s TikTok ban law to help allies gain control of the app, amid fears it could be used to boost pro-Trump content and suppress criticism &lpar;Washington Post&rpar;](http://www.techmeme.com/250923/p42#a250923p42)<!-- TECH:END -->
+ - [iFixit zooms in on reports of an iPhone 17 Pro scratch problem](https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

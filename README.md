@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung now owns Denon, Bowers &amp;#038; Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)
- - [Indian digital payments giant PhonePe confidentially files for an IPO in India, seeking to raise $1.5B, sources say at a valuation of $15B &lpar;The Economic Times&rpar;](http://www.techmeme.com/250924/p13#a250924p13)
- - [9 Foods Experts Say Could Relieve Headaches if Pain Relievers Don&#39;t Cut It](https://www.cnet.com/health/nutrition/foods-experts-say-could-relieve-headaches-pain-relievers-dont-cut-it/#ftag=CAD590a51e)
- - [Alibaba&#39;s Hong Kong-listed shares hit a nearly four-year high after CEO Eddie Wu announces plans to increase AI spending beyond the $53B target over three years &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/250924/p12#a250924p12)
- - [LCD vs. LED: Which TV Technology Is Better?](https://www.cnet.com/tech/home-entertainment/lcd-vs-led-which-tv-technology-is-better/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&amp;#8217;s Android for PC: &amp;#8216;I&amp;#8217;ve seen it, it is incredible&amp;#8217;](https://www.theverge.com/news/784381/qualcomm-ceo-seen-googles-android-pc-merger-incredible)
+ - [Report: China&#39;s market regulator drafts rules to curb &quot;coercive competition&quot; in the online food delivery market, spurring a rally in Meituan and JD.com&#39;s shares &lpar;Bloomberg&rpar;](http://www.techmeme.com/250924/p14#a250924p14)
+ - [The World’s Oceans Are Hurtling Toward Breaking Point](https://www.wired.com/story/human-impact-on-oceans-to-double-by-2050-study/)
+ - [Spotify reintegrates with Algoriddim’s djay](https://www.theverge.com/news/784347/spotify-reintegrates-algoriddim-djay)
+ - [Samsung now owns Denon, Bowers &amp;#038; Wilkins, Marantz, Polk, and more audio brands](https://www.theverge.com/news/784390/samsung-harman-masimo-audio-acquisition-complete)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

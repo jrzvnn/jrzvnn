@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Appfigures: dedicated mobile apps for vibe coding have yet to gain traction, with Instance: AI App Builder, the largest such app, seeing just 16,000 downloads &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250924/p5#a250924p5)
+ - [Tracxn: funding for Indian digital lending startups fell to $462M between January and August 2025 from $1.1B a year earlier, after RBI tightened lending norms &lpar;The Economic Times&rpar;](http://www.techmeme.com/250924/p4#a250924p4)
  - [London-based media monitoring and risk management company Signal AI raised $165M led by Battery Ventures, which will hold a majority stake after the investment &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/250924/p3#a250924p3)
  - [Huxe, an app built by three former NotebookLM developers that offers users personalized daily briefs and topic exploration with AI podcast hosts, raised $4.6M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p2#a250924p2)
- - [iPhone 17 Pro teardown: the anodized aluminum scratches badly around the camera plateau edge, the screwed-in battery is a cool repairability upgrade, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250924/p1#a250924p1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Sept. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-sept-24/#ftag=CAD590a51e)
- - [VCs court top AI startups with preempted rounds and perks like private jets; PitchBook: US AI startups raised $200B in 2025, with 41% going to just 10 companies &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/250923/p44#a250923p44)<!-- TECH:END -->
+ - [iPhone 17 Pro teardown: the anodized aluminum scratches badly around the camera plateau edge, the screwed-in battery is a cool repairability upgrade, and more &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/250924/p1#a250924p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

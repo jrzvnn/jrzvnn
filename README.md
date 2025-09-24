@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sharge’s magnetic fan-cooled SSD doubles as a USB hub](https://www.theverge.com/news/784634/sharge-disk-pro-active-cooling-ssd-kickstarter)
+ - [Emergent, which lets non-technical users build apps via AI agents that handle coding errors and more, raised a $23M Series A, bringing its total funding to $30M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250924/p21#a250924p21)
+ - [Disney sure picked a terrible time to raise prices](https://www.theverge.com/report/784594/disney-jimmy-kimmel-backlash-price-hikes)
  - [Latest iOS beta hints at notifications on non-Apple watches](https://www.theverge.com/news/784477/apple-ios-26-beta-third-party-smartwatch-notifications)
- - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
- - [The new Covert Dock is ready for the Switch 2 and ROG Xbox Ally](https://www.theverge.com/news/783976/covert-dock-3-shadowcast-3-switch-2-rog-ally-xbox-specs-price)
- - [Synthesized, which is developing AI tools to automate software testing, raised a $20M Series A led by Redalpine &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/250924/p20#a250924p20)
- - [The die is cast: A close-up view of Apple&#39;s A19 SoC](https://appleinsider.com/articles/25/09/24/the-die-is-cast-a-close-up-view-of-apples-a19-soc?utm_source=rss)<!-- TECH:END -->
+ - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

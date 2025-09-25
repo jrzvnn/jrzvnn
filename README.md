@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump signs an EO declaring that a proposed deal allowing TikTok to continue operating in the US will be a qualified sale that meets national security concerns &lpar;Associated Press&rpar;](http://www.techmeme.com/250925/p47#a250925p47)
+ - [Google asks SCOTUS to pause a lower court&#39;s order requiring a Play Store overhaul set to take effect on October 22, while the company seeks high court review &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250925/p46#a250925p46)
  - [Silicon Valley’s latest argument against regulating AI: that would literally be the antichrist](https://www.theverge.com/ai-artificial-intelligence/785407/peter-thiel-antichrist-tech-regulation)
  - [Meta rolls out Vibes, a platform where users can create and share short-form, AI-generated videos, in the Meta AI app and on the meta.ai website &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250925/p45#a250925p45)
- - [Google updates Gemini 2.5 Flash with better response formatting and image understanding, and releases new 2.5 Flash and 2.5 Flash-Lite previews for developers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250925/p44#a250925p44)
- - [HSBC says it has tested an IBM quantum computing tool on European bond market data and saw a 34% improvement over traditional methods in predicting order fills &lpar;Arjun Neil Alim/Financial Times&rpar;](http://www.techmeme.com/250925/p43#a250925p43)
- - [Microsoft says this new cooling method could enable more powerful chips and efficient data centers](https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency)<!-- TECH:END -->
+ - [Google updates Gemini 2.5 Flash with better response formatting and image understanding, and releases new 2.5 Flash and 2.5 Flash-Lite previews for developers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250925/p44#a250925p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

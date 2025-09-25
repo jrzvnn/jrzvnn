@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nintendo of America boss Doug Bowser is retiring](https://www.theverge.com/news/786068/nintendo-of-america-president-doug-bowser-retirement)
+ - [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source)
  - [Trump signs executive order approving TikTok deal](https://www.theverge.com/news/640745/tiktok-deal-trump-us-china-bytedance)
  - [Trump Executive Order Will Hand TikTok Over to US Investors](https://www.wired.com/story/president-trump-signs-tiktok-deal/)
- - [Sources: Meta is considering using Google&#39;s Gemini and open-source Gemma AI models to improve its ad summarization and recommendation system &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250925/p49#a250925p49)
- - [Trump says Xi Jinping approved the TikTok deal, and JD Vance says the transaction values TikTok US at $14B; ByteDance hasn&#39;t acknowledged the deal &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250925/p48#a250925p48)
- - [Trump signs an EO declaring that a proposed deal allowing TikTok to continue operating in the US will be a qualified sale that meets national security concerns &lpar;Associated Press&rpar;](http://www.techmeme.com/250925/p47#a250925p47)<!-- TECH:END -->
+ - [Sources: Meta is considering using Google&#39;s Gemini and open-source Gemma AI models to improve its ad summarization and recommendation system &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250925/p49#a250925p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

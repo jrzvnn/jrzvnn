@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What happens when an AI-generated artist gets a record deal? A copyright mess](https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright)
+ - [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse)
+ - [Jackery’s newest Explorer 240D power station is already over 30 percent off](https://www.theverge.com/tech/785833/jackery-explorer-240d-bose-quietcomfor-earbuds-deal-sale)
  - [OpenAI releases GDPval, a benchmark to test AI performance on &quot;economically valuable, real-world tasks&quot;, and says Claude Opus 4.1 was the best performing model &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250925/p34#a250925p34)
- - [Deals: AirTag $21, MacBook Air from $385, M3 Max 16&quot; MacBook Pro $2,199](https://appleinsider.com/articles/25/09/25/deals-airtag-21-macbook-air-from-385-m3-max-16-macbook-pro-2199?utm_source=rss)
- - [Sources: EU prepares to issue preliminary findings that Facebook and Instagram lack an adequate &quot;notice and action mechanism&quot; to let users flag illegal posts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p33#a250925p33)
- - [LG’s new TV is designed to be easier for seniors to use](https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote)
- - [Amazon is bringing back Rick Moranis for the Spaceballs sequel](https://www.theverge.com/news/785797/amazon-spaceballs-2-rick-moranis-dark-helmet-sequel-cast-photo)<!-- TECH:END -->
+ - [Deals: AirTag $21, MacBook Air from $385, M3 Max 16&quot; MacBook Pro $2,199](https://appleinsider.com/articles/25/09/25/deals-airtag-21-macbook-air-from-385-m3-max-16-macbook-pro-2199?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

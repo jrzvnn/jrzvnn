@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [CISA issues an emergency directive ordering US federal agencies to secure their Cisco firewall devices against two flaws exploited in zero-day attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250925/p55#a250925p55)
+ - [Forget the New iPhone, the Xiaomi 17 Series Has a Rear Screen and a Giant Battery](https://www.cnet.com/tech/mobile/forget-the-new-iphone-the-xiaomi-17-series-has-a-rear-screen-and-a-giant-battery/#ftag=CAD590a51e)
  - [Why AI isn&#39;t replacing radiologists: models underperform in hospital settings, AI use faces legal hurdles, and the job is much more than image recognition &lpar;The Works in Progress Newsletter&rpar;](http://www.techmeme.com/250925/p54#a250925p54)
  - [Flox, which lets engineers install a development environment on their machines with a single terminal command, raised a $25M Series B led by Addition &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250925/p53#a250925p53)
- - [Call-recording app Neon, which became the #2 social app on the US App Store, goes dark after exposing users&#39; phone numbers, call recordings, and transcripts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250925/p52#a250925p52)
- - [A US federal judge preliminarily approves Anthropic&#39;s $1.5B copyright settlement with authors &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250925/p51#a250925p51)<!-- TECH:END -->
+ - [Call-recording app Neon, which became the #2 social app on the US App Store, goes dark after exposing users&#39; phone numbers, call recordings, and transcripts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250925/p52#a250925p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

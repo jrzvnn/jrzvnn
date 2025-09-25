@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
- - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
- - 😝 [I also play Magic the Gardening](http://9gag.com/gag/aMVN97M)
- - 👉 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)<!-- MEMES:END -->
+ - 😝 [A hope for walking again](http://9gag.com/gag/aryrKmd)
+ - 😝 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)
+ - 💣 [I like it](http://9gag.com/gag/amobzNV)
+ - 😝 [Pianosnaren](http://9gag.com/gag/a7o6dQq)
+ - 👉 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)<!-- MEMES:END -->
 
 ---
 

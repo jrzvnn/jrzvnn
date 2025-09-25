@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Copenhagen-based Light, which develops AI-powered software to automate financial tasks like accounting and bookkeeping, raised a $30M Series A led by Balderton &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250925/p7#a250925p7)
  - [Forza Horizon 6 is set in Japan and arrives in 2026](https://www.theverge.com/news/785486/forza-horizon-6-japan-xbox-release-date)
  - [Nothing spins off its budget brand CMF](https://www.theverge.com/news/785474/nothing-spins-off-budget-brand-cmf-india)
- - [How a Microsoft-backed $1B geothermal-powered data center in Kenya faced construction delays due to uncertainty over its value for local businesses &lpar;Semafor&rpar;](http://www.techmeme.com/250925/p6#a250925p6)
- - [The UK&#39;s Cabinet Office says its Fraud Risk Assessment Accelerator AI tool helped the government recover £480M from fraud in the 12 months from April 2024 &lpar;Jack Fenwick/BBC&rpar;](http://www.techmeme.com/250925/p5#a250925p5)
- - [Taiwan suspends chip export controls on South Africa after just two days, signaling discomfort with using the key tech export as a weapon in diplomatic disputes &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p4#a250925p4)<!-- TECH:END -->
+ - [The 12 Best Foods for Eye Health Can Help Keep Your Peepers Happy as You Age](https://www.cnet.com/health/personal-care/best-foods-eye-health-peepers-happy-age/#ftag=CAD590a51e)
+ - [How a Microsoft-backed $1B geothermal-powered data center in Kenya faced construction delays due to uncertainty over its value for local businesses &lpar;Semafor&rpar;](http://www.techmeme.com/250925/p6#a250925p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

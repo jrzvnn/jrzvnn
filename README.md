@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
- - 😝 [Found out](http://9gag.com/gag/abAmyRr)
- - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 😝 [At Least We Can All Agree On This](http://9gag.com/gag/aQzNxE2)
- - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
+ - 😝 [This is kind of scary actually](http://9gag.com/gag/axynG8Y)
+ - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
+ - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)
+ - 👉 [Wow...](http://9gag.com/gag/aYQneQ0)<!-- MEMES:END -->
 
 ---
 

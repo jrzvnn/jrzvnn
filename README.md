@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - 😝 [This is kind of scary actually](http://9gag.com/gag/axynG8Y)
+ - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
  - 💣 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 😝 [I hate my family](http://9gag.com/gag/aND2nx6)
- - 👉 [Wow...](http://9gag.com/gag/aYQneQ0)<!-- MEMES:END -->
+ - 😝 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
+ - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
 
 ---
 

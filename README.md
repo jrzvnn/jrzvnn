@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
+ - 👉 [Peskow claimed Russia is not a paper tiger but a bear. So here is an actual image of his current condition.](http://9gag.com/gag/a2vjdN9)<!-- MEMES:END -->
 
 ---
 

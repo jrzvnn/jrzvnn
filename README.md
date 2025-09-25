@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify updates its AI policy, including adopting the upcoming DDEX standard to label and identify AI music and rolling out a new music spam filter &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250925/p20#a250925p20)
- - [Microsoft Windows 10 users will receive free Extended Security Updates in the EEA without enabling Windows Backup, after pressure from the Euroconsumers group &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250925/p19#a250925p19)
- - [12 Best Cheap Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
- - [Spotify is finally taking steps to address its AI slop and clone problem](https://www.theverge.com/news/785136/spotify-ai-slop-impersonation-disclosure)
- - [How ProMotion works and why it doesn&#39;t matter on the iPhone 17](https://appleinsider.com/articles/25/09/25/how-promotion-works-and-why-it-doesnt-matter-on-the-iphone-17?utm_source=rss)<!-- TECH:END -->
+ - [Ghost of Yōtei is exactly the kind of game PlayStation needs](https://www.theverge.com/games/784888/ghost-of-yotei-review-ps5)
+ - [Remedy has a big FBC: Firebreak update aimed at turning things around](https://www.theverge.com/entertainment/784967/remedy-fbc-firebreak-update)
+ - [RedotPay, which offers stablecoin cards and multicurrency wallets, raised $47M from Coinbase Ventures, Galaxy Ventures, and others at a $1B valuation &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250925/p23#a250925p23)
+ - [Proton Mail&amp;#8217;s updated app adds an offline mode](https://www.theverge.com/news/785611/proton-mail-app-update-offline-mode)
+ - [Circle president Heath Tarbert says Circle is exploring the possibility of reversible stablecoin transactions to allow refunds in cases of fraud or disputes &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p22#a250925p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Oracle, Silver Lake, and MGX will be the main investors in TikTok&#39;s US business &lpar;CNBC&rpar;](http://www.techmeme.com/250925/p36#a250925p36)
- - [OpenAI launches ChatGPT Pulse, a mobile feature for Pro users that delivers daily personalized updates based on their chats, feedback, and connected apps &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250925/p35#a250925p35)
- - [Amazon ordered to pay out $1.5B to consumers after years of deceptive Prime signups](https://appleinsider.com/articles/25/09/25/amazon-ordered-to-pay-out-15b-to-consumers-after-years-of-deceptive-prime-signups?utm_source=rss)
- - [What happens when an AI-generated artist gets a record deal? A copyright mess](https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright)
- - [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse)<!-- TECH:END -->
+ - [Google DeepMind unveils Gemini Robotics 1.5 and Robotics-ER 1.5, enabling robots to perform multi-step tasks like sorting laundry, including by using web search &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250925/p38#a250925p38)
+ - [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula)
+ - [Source: cryptocurrency exchange Kraken quietly closed a $500M funding round at a $15B valuation, including from co-CEO Arjun Sethi&#39;s Tribe Capital &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250925/p37#a250925p37)
+ - [Sources: Oracle, Silver Lake, and Abu Dhabi&#39;s MGX will be the main TikTok USA investors, with a ~45% stake; ByteDance will own 19.9% and ByteDance investors 35% &lpar;CNBC&rpar;](http://www.techmeme.com/250925/p36#a250925p36)
+ - [The Best Gifts on Amazon That Actually Aren&#39;t Junk: From $25 to $250](https://www.cnet.com/tech/best-gifts-available-on-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple asks the EU to repeal the DMA, saying the law &quot;is leading to a worse experience for Apple users in the EU&quot; and &quot;exposing them to new risks&quot; &lpar;AFP&rpar;](http://www.techmeme.com/250924/p41#a250924p41)
  - [EU Digital Markets Act benefits only other big tech companies and hurts customers, says Apple](https://appleinsider.com/articles/25/09/25/eu-digital-markets-act-benefits-only-other-big-tech-companies-and-hurts-customers-says-apple?utm_source=rss)
  - [Epic v. Google: Google asks the US Supreme Court to pause the permanent injunction ruling, as it plans to appeal the case to SCOTUS by October 27 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250924/p40#a250924p40)
  - [Google just asked the Supreme Court to save it from the Epic ruling](https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling)
- - [Galaxy S25 Ultra Makes Surprise Appearance Shooting the Snapdragon Summit 2025](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-makes-surprise-appearance-shooting-the-snapdragon-summit-2025/#ftag=CAD590a51e)
- - [Sources: OpenAI CEO of Applications Fidji Simo has been meeting with potential candidates for a role overseeing monetization efforts, including ads in ChatGPT &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/250924/p39#a250924p39)<!-- TECH:END -->
+ - [Galaxy S25 Ultra Makes Surprise Appearance Shooting the Snapdragon Summit 2025](https://www.cnet.com/tech/mobile/galaxy-s25-ultra-makes-surprise-appearance-shooting-the-snapdragon-summit-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

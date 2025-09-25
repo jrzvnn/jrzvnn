@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
  - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
+ - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
  - 👉 [Pianosnaren](http://9gag.com/gag/a7o6dQq)<!-- MEMES:END -->
 

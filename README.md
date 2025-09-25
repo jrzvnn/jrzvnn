@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
- - 😝 [The golden age of sibling pop acts](http://9gag.com/gag/ayNVnwV)
- - 💣 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
- - 😝 [At Least We Can All Agree On This](http://9gag.com/gag/aQzNxE2)
+ - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 😝 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
  - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 ---

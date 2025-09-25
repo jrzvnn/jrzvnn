@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi 17 series arrives with secondary screens and enormous batteries](https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen)
  - [xAI sues OpenAI in California for allegedly stealing trade secrets by means of hiring away key employees; in August, xAI sued an ex-staffer who left for OpenAI &lpar;Jon Keegan/Sherwood News&rpar;](http://www.techmeme.com/250925/p28#a250925p28)
  - [CoreWeave expands its data center capacity agreements with OpenAI by $6.5B, bringing their total potential value to $22.4B, to support training of OpenAI models &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250925/p27#a250925p27)
  - [25 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [How AI safety took a backseat to military money](https://www.theverge.com/podcast/784865/ai-safety-military-defense-openai-anthropic-ethics)
- - [E-bike maker Cowboy in talks to be acquired](https://www.theverge.com/news/785644/e-bike-maker-cowboy-in-talks-to-be-acquired)<!-- TECH:END -->
+ - [How AI safety took a backseat to military money](https://www.theverge.com/podcast/784865/ai-safety-military-defense-openai-anthropic-ethics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

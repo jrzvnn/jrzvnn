@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG’s new TV is designed to be easier for seniors to use](https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote)
+ - [Amazon is bringing back Rick Moranis for the Spaceballs sequel](https://www.theverge.com/news/785797/amazon-spaceballs-2-rick-moranis-dark-helmet-sequel-cast-photo)
+ - [Google DeepMind’s new AI models can search the web to help robots complete tasks](https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search)
  - [Apple says the DMA exposes users to new risks, reduces choice by making iOS resemble Android, and creates unfair competition by not applying to Samsung &lpar;Apple&rpar;](http://www.techmeme.com/250925/p32#a250925p32)
- - [Microsoft blocks the Israeli military from some cloud and AI services](https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests)
- - [Amazon will pay $2.5 billion to settle the FTC&amp;#8217;s Prime lawsuit](https://www.theverge.com/news/785744/amazon-ftc-prime-subscription-settlment)
- - [Petulant EU hints it won&#39;t listen to Apple&#39;s complaints](https://appleinsider.com/articles/25/09/25/petulant-eu-hints-it-wont-listen-to-apples-complaints?utm_source=rss)
- - [Xiaomi unveils 17, 17 Pro, and 17 Pro Max, available September 27 in China; Pro phones feature a Snapdragon 8 Elite Gen 5 chipset and a back screen &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250925/p31#a250925p31)<!-- TECH:END -->
+ - [Microsoft blocks the Israeli military from some cloud and AI services](https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

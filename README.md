@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK&#39;s Cabinet Office says its Fraud Risk Assessment Accelerator AI tool helped the government recover £480M from fraud in the 12 months from April 2024 &lpar;Jack Fenwick/BBC&rpar;](http://www.techmeme.com/250925/p5#a250925p5)
+ - [Taiwan suspends chip export controls on South Africa after just two days, signaling discomfort with using the key tech export as a weapon in diplomatic disputes &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p4#a250925p4)
  - [Australian lawmakers propose rules to regulate crypto exchanges, allowing the government to slap penalties of 10% of annual turnover on firms that violate rules &lpar;Richard Henderson/Bloomberg&rpar;](http://www.techmeme.com/250925/p3#a250925p3)
  - [Qualcomm details the Snapdragon 8 Elite Gen 5, its latest flagship mobile SoC, claiming a 20% boost in YoY CPU performance and a 23% uplift in GPU performance &lpar;Daniel Bader/Android Police&rpar;](http://www.techmeme.com/250925/p2#a250925p2)
- - [Sources: Mark Zuckerberg and Sam Altman have sought to get closer to President Trump after Elon Musk fallout, but WH officials remain deeply skeptical of them &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p1#a250925p1)
- - [Groupon Promo Codes: 50% Off in September 2025](https://www.wired.com/story/groupon-promo-code/)
- - [Meta Poaches OpenAI Scientist to Help Lead AI Lab](https://www.wired.com/story/meta-poaches-openai-researcher-yang-song/)<!-- TECH:END -->
+ - [Sources: Mark Zuckerberg and Sam Altman have sought to get closer to President Trump after Elon Musk fallout, but WH officials remain deeply skeptical of them &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p1#a250925p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

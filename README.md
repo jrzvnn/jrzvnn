@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This ... and more](http://9gag.com/gag/aryrRQ6)
  - 😝 [A hope for walking again](http://9gag.com/gag/aryrKmd)
- - 😝 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)
- - 💣 [I like it](http://9gag.com/gag/amobzNV)
- - 😝 [Pianosnaren](http://9gag.com/gag/a7o6dQq)
- - 👉 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)<!-- MEMES:END -->
+ - 💣 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)
+ - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
+ - 👉 [I like it](http://9gag.com/gag/amobzNV)<!-- MEMES:END -->
 
 ---
 

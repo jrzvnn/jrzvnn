@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 😝 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 💣 [We have detected that you have posted content that is hurtful, Please remain seated while justice is served.](http://9gag.com/gag/aoyq2Px)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [I saw one twice today... my eyes.](http://9gag.com/gag/agmZq8v)<!-- MEMES:END -->
+ - 👉 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)<!-- MEMES:END -->
 
 ---
 

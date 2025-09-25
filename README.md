@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI signed a deal with the GSA to offer Grok to US federal agencies for $0.42 per agency for 18 months, a discount to OpenAI&#39;s $1 per year for ChatGPT &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/250925/p25#a250925p25)
+ - [It costs $895 per year to get American Express&amp;#8217; premium app theme](https://www.theverge.com/news/785639/american-express-platinum-credit-card-perks-ios-app-theme)
  - [Microsoft opens the doors to more AI-powered Windows apps](https://www.theverge.com/news/785631/microsoft-windows-ml-ai-apps-availability)
  - [A profile of AI skeptic Ed Zitron: Sam Altman&#39;s firing and return was his &quot;Joker moment&quot;, tech journalism is flawed, his brash persona is not a mask, and more &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250925/p24#a250925p24)
- - [Chromebooks vs. PC: The Differences Between Chrome OS and Windows](https://www.wired.com/story/chromebooks-vs-windows-laptops/)
- - [Ghost of Yōtei is exactly the kind of game PlayStation needs](https://www.theverge.com/games/784888/ghost-of-yotei-review-ps5)
- - [Remedy has a big FBC: Firebreak update aimed at turning things around](https://www.theverge.com/entertainment/784967/remedy-fbc-firebreak-update)<!-- TECH:END -->
+ - [Chromebooks vs. PC: The Differences Between Chrome OS and Windows](https://www.wired.com/story/chromebooks-vs-windows-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

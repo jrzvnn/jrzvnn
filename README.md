@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
- - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 💣 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 😝 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
+ - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 😝 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)
  - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 ---

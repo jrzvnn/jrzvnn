@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SAP, whose cloud sales are set to reach €22B this year, nearly triple 2019 levels, faces competition from other tech giants as it targets AI apps for the future &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250925/p17#a250925p17)
  - [How to &lpar;Mostly&rpar; Get Rid of Liquid Glass](https://www.wired.com/story/how-to-mostly-get-rid-of-liquid-glass/)
- - [Uber Eats is offering grocery discounts to combat ‘veggie-flation’](https://www.theverge.com/transportation/784953/uber-eats-fresh-day-grocery-discount-price)
  - [JPMorgan&#39;s recent data access deal with Plaid, if extended to other aggregators, could allow Plaid to use its cost advantage to further consolidate market share &lpar;Marc Rubinstein/Bloomberg&rpar;](http://www.techmeme.com/250925/p16#a250925p16)
  - [13 Best Bed Frames &lpar;2025&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)
  - [Sources allege that nonprofit Ruby Central took control of some Ruby open-source projects from their maintainers without consent, after pressure from Shopify &lpar;Joel Drapper&rpar;](http://www.techmeme.com/250925/p15#a250925p15)<!-- TECH:END -->

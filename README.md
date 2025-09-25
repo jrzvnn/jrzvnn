@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mark Zuckerberg and Sam Altman have sought to get closer to President Trump after Elon Musk fallout, but WH officials remain deeply skeptical of them &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p1#a250925p1)
+ - [Groupon Promo Codes: 50% Off in September 2025](https://www.wired.com/story/groupon-promo-code/)
  - [Meta Poaches OpenAI Scientist to Help Lead AI Lab](https://www.wired.com/story/meta-poaches-openai-researcher-yang-song/)
  - [Honor’s Magic 8 Pro is getting a new AI button](https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive)
- - [Apple asks the EU to repeal the DMA, saying the law &quot;is leading to a worse experience for Apple users in the EU&quot; and &quot;exposing them to new risks&quot; &lpar;AFP&rpar;](http://www.techmeme.com/250924/p41#a250924p41)
- - [EU Digital Markets Act benefits only other big tech companies and hurts customers, says Apple](https://appleinsider.com/articles/25/09/25/eu-digital-markets-act-benefits-only-other-big-tech-companies-and-hurts-customers-says-apple?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Sept. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-sept-25/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple asks the EU to repeal the DMA, saying the law &quot;is leading to a worse experience for Apple users in the EU&quot; and &quot;exposing them to new risks&quot; &lpar;AFP&rpar;](http://www.techmeme.com/250924/p41#a250924p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

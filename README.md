@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US federal judge preliminarily approves Anthropic&#39;s $1.5B copyright settlement with authors &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250925/p51#a250925p51)
+ - [Nintendo of America President Doug Bowser will retire on December 31 after more than a decade with the company; Nintendo exec Devon Pritchard will succeed him &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250925/p50#a250925p50)
  - [Nintendo of America boss Doug Bowser is retiring](https://www.theverge.com/news/786068/nintendo-of-america-president-doug-bowser-retirement)
  - [Nvidia is letting anyone use its AI voice animation tech](https://www.theverge.com/news/785981/nvidia-audio2face-ai-voice-animation-open-source)
- - [Trump signs executive order approving TikTok deal](https://www.theverge.com/news/640745/tiktok-deal-trump-us-china-bytedance)
- - [Trump Executive Order Will Hand TikTok Over to US Investors](https://www.wired.com/story/president-trump-signs-tiktok-deal/)
- - [Sources: Meta is considering using Google&#39;s Gemini and open-source Gemma AI models to improve its ad summarization and recommendation system &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/250925/p49#a250925p49)<!-- TECH:END -->
+ - [Trump signs executive order approving TikTok deal](https://www.theverge.com/news/640745/tiktok-deal-trump-us-china-bytedance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

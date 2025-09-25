@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
  - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 😝 [Jesus making sure everyone stays hydrated before the real party starts](http://9gag.com/gag/aByN1jQ)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 😝 [I also play Magic the Gardening](http://9gag.com/gag/aMVN97M)
+ - 👉 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)<!-- MEMES:END -->
 
 ---
 

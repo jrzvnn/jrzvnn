@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 😝 [The golden age of sibling pop acts](http://9gag.com/gag/ayNVnwV)
- - 💣 [Found out](http://9gag.com/gag/abAmyRr)
+ - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
  - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
+ - 💣 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 😝 [Found out](http://9gag.com/gag/abAmyRr)
+ - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 ---
 

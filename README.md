@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon ordered to pay out $1.5B to consumers after years of deceptive Prime signups](https://appleinsider.com/articles/25/09/25/amazon-ordered-to-pay-out-15b-to-consumers-after-years-of-deceptive-prime-signups?utm_source=rss)
  - [Juicebox, whose PeopleGPT helps employers analyze professional profiles to identify qualified candidates, raised $36M, including a $30M Series A led by Sequoia &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250925/p42#a250925p42)
  - [Sources: Intel CEO Lip-Bu Tan has spoken to TSMC CEO C.C. Wei about a partnership or a joint venture; he also met with Tim Cook this year; INTC is up 9%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250925/p41#a250925p41)
- - [WIRED’s Politics Issue Cover Is in a City Near You](https://www.wired.com/story/wired-politics-cover-search/)
- - [Cloudflare announces plans to launch NET Dollar, a US dollar-backed stablecoin designed to support payments for the &quot;agentic web&quot; &lpar;Blockworks&rpar;](http://www.techmeme.com/250925/p40#a250925p40)
- - [The 29 Best Movies on Apple TV+ Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)<!-- TECH:END -->
+ - [Prime Video: 19 of the Absolute Best Sci-Fi TV Shows to Stream Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
+ - [WIRED’s Politics Issue Cover Is in a City Near You](https://www.wired.com/story/wired-politics-cover-search/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And for my next Song...](http://9gag.com/gag/an7W10b)
- - 😝 [I like it](http://9gag.com/gag/amobzNV)
- - 💣 [Who wants to be a millionaire](http://9gag.com/gag/avyXPed)
+ - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
+ - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 💣 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Monkey is waiting](http://9gag.com/gag/azxDj5q)<!-- MEMES:END -->
+ - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
 
 ---
 

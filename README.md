@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Factory, which makes AI agents called &quot;droids&quot; to assist in coding, raised $50M at a $300M valuation; AI coding startups raised $7.5B+ in the past three months &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250925/p39#a250925p39)
  - [Twitch is making it easy to rewind streams](https://www.theverge.com/news/785973/twitch-livestream-rewind-easy)
  - [Google DeepMind unveils Gemini Robotics 1.5 and Robotics-ER 1.5, enabling robots to perform multi-step tasks like sorting laundry, including by using web search &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250925/p38#a250925p38)
  - [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula)
- - [Source: cryptocurrency exchange Kraken quietly closed a $500M funding round at a $15B valuation, including from co-CEO Arjun Sethi&#39;s Tribe Capital &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250925/p37#a250925p37)
- - [Sources: Oracle, Silver Lake, and Abu Dhabi&#39;s MGX will be the main TikTok USA investors, with a ~45% stake; ByteDance will own 19.9% and ByteDance investors 35% &lpar;CNBC&rpar;](http://www.techmeme.com/250925/p36#a250925p36)<!-- TECH:END -->
+ - [Source: cryptocurrency exchange Kraken quietly closed a $500M funding round at a $15B valuation, including from co-CEO Arjun Sethi&#39;s Tribe Capital &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250925/p37#a250925p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

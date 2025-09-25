@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Copenhagen-based Light, which develops AI-powered software to automate financial tasks like accounting and bookkeeping, raised a $30M Series A led by Balderton &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/250925/p7#a250925p7)
- - [Forza Horizon 6 is set in Japan and arrives in 2026](https://www.theverge.com/news/785486/forza-horizon-6-japan-xbox-release-date)
- - [Nothing spins off its budget brand CMF](https://www.theverge.com/news/785474/nothing-spins-off-budget-brand-cmf-india)
- - [The 12 Best Foods for Eye Health Can Help Keep Your Peepers Happy as You Age](https://www.cnet.com/health/personal-care/best-foods-eye-health-peepers-happy-age/#ftag=CAD590a51e)
- - [How a Microsoft-backed $1B geothermal-powered data center in Kenya faced construction delays due to uncertainty over its value for local businesses &lpar;Semafor&rpar;](http://www.techmeme.com/250925/p6#a250925p6)<!-- TECH:END -->
+ - [Sources: Meta poached Yang Song, who led OpenAI&#39;s strategic explorations team, to be the research principal of Meta Superintelligence Labs earlier this month &lpar;Wired&rpar;](http://www.techmeme.com/250925/p10#a250925p10)
+ - [Nothing plans to invest $100M to spin off budget brand CMF into an independent subsidiary, with India as its manufacturing and R&amp;D headquarters &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250925/p9#a250925p9)
+ - [30 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025/)
+ - [Armed Guards and Muscle Milk: Senate Investigation Reveals DOGE Takeover Details](https://www.wired.com/story/armed-guards-muscle-milk-senate-investigation-doge-takeover-details/)
+ - [London-based &quot;neocloud&quot; startup Nscale raised a $1.1B Series B led by Aker, with Nvidia participating; Aker says it is investing $285M for a 9.3% stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p8#a250925p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

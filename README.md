@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
- - 💣 [This ... and more](http://9gag.com/gag/aryrRQ6)
- - 😝 [I like it](http://9gag.com/gag/amobzNV)
- - 👉 [A hope for walking again](http://9gag.com/gag/aryrKmd)<!-- MEMES:END -->
+ - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [The golden age of sibling pop acts](http://9gag.com/gag/ayNVnwV)
+ - 💣 [Found out](http://9gag.com/gag/abAmyRr)
+ - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 ---
 

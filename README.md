@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
- - 😝 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/aoyq9Dw)
- - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
+ - 💣 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
+ - 👉 [Most useless Feature](http://9gag.com/gag/apRjrq9)<!-- MEMES:END -->
 
 ---
 

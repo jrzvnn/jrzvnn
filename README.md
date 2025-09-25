@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft blocks the Israeli military from some cloud and AI services](https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests)
+ - [Amazon will pay $2.5 billion to settle the FTC&amp;#8217;s Prime lawsuit](https://www.theverge.com/news/785744/amazon-ftc-prime-subscription-settlment)
  - [Petulant EU hints it won&#39;t listen to Apple&#39;s complaints](https://appleinsider.com/articles/25/09/25/petulant-eu-hints-it-wont-listen-to-apples-complaints?utm_source=rss)
  - [Xiaomi unveils 17, 17 Pro, and 17 Pro Max, available September 27 in China; Pro phones feature a Snapdragon 8 Elite Gen 5 chipset and a back screen &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/250925/p31#a250925p31)
- - [Amazon agrees to pay $2.5B to settle a US FTC case, including a $1B civil penalty and $1.5B in consumer redress; FTC alleged Amazon duped customers into Prime &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/250925/p30#a250925p30)
- - [Amazon accidentally confirms Vega TV OS launch for 2025](https://www.theverge.com/column/785589/amazon-vega-tv-os-2025)
- - [Xiaomi’s retro handheld phone case is the best, and worst, way to game](https://www.theverge.com/news/785720/xiaomi-retro-handheld-phone-case-17-pro-gaming)<!-- TECH:END -->
+ - [Amazon reaches a $2.5B settlement with the FTC over deceptive Prime practices, with a $1B civil penalty and $1.5B in consumer redress, three days into the trial &lpar;Rafe Rosner-Uddin/Financial Times&rpar;](http://www.techmeme.com/250925/p30#a250925p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

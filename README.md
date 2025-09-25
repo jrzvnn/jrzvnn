@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DealStreetAsia: VC funding in Indonesian startups fell to just $80M in H1 2025 from $200M a year earlier, as startups face fallout from corruption scandals &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250925/p11#a250925p11)
  - [Sources: Meta poached Yang Song, who led OpenAI&#39;s strategic explorations team, to be the research principal of Meta Superintelligence Labs earlier this month &lpar;Wired&rpar;](http://www.techmeme.com/250925/p10#a250925p10)
  - [Nothing plans to invest $100M to spin off budget brand CMF into an independent subsidiary, with India as its manufacturing and R&amp;D headquarters &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250925/p9#a250925p9)
  - [30 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025/)
- - [Armed Guards and Muscle Milk: Senate Investigation Reveals DOGE Takeover Details](https://www.wired.com/story/armed-guards-muscle-milk-senate-investigation-doge-takeover-details/)
- - [London-based &quot;neocloud&quot; startup Nscale raised a $1.1B Series B led by Aker, with Nvidia participating; Aker says it is investing $285M for a 9.3% stake &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p8#a250925p8)<!-- TECH:END -->
+ - [Armed Guards and Muscle Milk: Senate Investigation Reveals DOGE Takeover Details](https://www.wired.com/story/armed-guards-muscle-milk-senate-investigation-doge-takeover-details/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
  - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 💣 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
+ - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [We have detected that you have posted content that is hurtful, Please remain seated while justice is served.](http://9gag.com/gag/aoyq2Px)<!-- MEMES:END -->
+ - 👉 [I saw one twice today... my eyes.](http://9gag.com/gag/agmZq8v)<!-- MEMES:END -->
 
 ---
 

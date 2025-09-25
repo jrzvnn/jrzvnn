@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
  - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 😝 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)
+ - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
+ - 💣 [I hate my family](http://9gag.com/gag/aND2nx6)
+ - 😝 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
  - 👉 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)<!-- MEMES:END -->
 
 ---

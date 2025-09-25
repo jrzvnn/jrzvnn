@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Intel CEO Lip-Bu Tan has spoken to TSMC CEO C.C. Wei about a partnership or a joint venture; he also met with Tim Cook this year; INTC is up 9%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250925/p41#a250925p41)
  - [WIRED’s Politics Issue Cover Is in a City Near You](https://www.wired.com/story/wired-politics-cover-search/)
  - [Cloudflare announces plans to launch NET Dollar, a US dollar-backed stablecoin designed to support payments for the &quot;agentic web&quot; &lpar;Blockworks&rpar;](http://www.techmeme.com/250925/p40#a250925p40)
  - [The 29 Best Movies on Apple TV+ Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
- - [A number of great chargers are already on sale ahead of October Prime Day](https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal)
- - [This Energizer laptop claims to have a battery that keeps going and going and going](https://www.theverge.com/news/785857/this-energizer-laptop-claims-to-have-a-battery-that-keeps-going-and-going-and-going)<!-- TECH:END -->
+ - [A number of great chargers are already on sale ahead of October Prime Day](https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

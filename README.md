@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Oracle, Silver Lake, and MGX will be the main investors in TikTok&#39;s US business &lpar;CNBC&rpar;](http://www.techmeme.com/250925/p36#a250925p36)
  - [OpenAI launches ChatGPT Pulse, a mobile feature for Pro users that delivers daily personalized updates based on their chats, feedback, and connected apps &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250925/p35#a250925p35)
  - [Amazon ordered to pay out $1.5B to consumers after years of deceptive Prime signups](https://appleinsider.com/articles/25/09/25/amazon-ordered-to-pay-out-15b-to-consumers-after-years-of-deceptive-prime-signups?utm_source=rss)
  - [What happens when an AI-generated artist gets a record deal? A copyright mess](https://www.theverge.com/ai-artificial-intelligence/785792/ai-generated-music-record-deal-copyright)
- - [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse)
- - [Jackery’s newest Explorer 240D power station is already over 30 percent off](https://www.theverge.com/tech/785833/jackery-explorer-240d-bose-quietcomfor-earbuds-deal-sale)<!-- TECH:END -->
+ - [OpenAI really, really wants you to start your day with ChatGPT Pulse](https://www.theverge.com/ai-artificial-intelligence/785881/openai-really-really-wants-you-to-start-your-day-with-chatgpt-pulse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

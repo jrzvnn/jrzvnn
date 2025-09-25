@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pay and PhonePe accounted for 80% of India&#39;s UPI transactions in Aug. 2025, down from 85% a year ago, as smaller players like Navi and BHIM gained ground &lpar;Pratik Bhakta/The Economic Times&rpar;](http://www.techmeme.com/250925/p13#a250925p13)
- - [The Onion Made an Absolutely Unhinged Jeffrey Epstein Mockumentary](https://www.wired.com/story/the-onion-made-an-absolutely-unhinged-jeffrey-epstein-mockumentary/)
- - [The Story of DOGE, as Told by Federal Workers](https://www.wired.com/story/oral-history-doge-federal-workers/)
- - [UK retailer Co-op says the April cyber attack cost the company £206M in revenue, marking the first time it has quantified the financial impact of the attack &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p12#a250925p12)
- - [DealStreetAsia: VC funding in Indonesian startups fell to just $80M in H1 2025 from $200M a year earlier, as startups face fallout from corruption scandals &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/250925/p11#a250925p11)<!-- TECH:END -->
+ - [Sources allege that nonprofit Ruby Central took control of some Ruby open-source projects from their maintainers without consent, after pressure from Shopify &lpar;Joel Drapper&rpar;](http://www.techmeme.com/250925/p15#a250925p15)
+ - [Memecoins Are Coming to the Stock Market](https://www.wired.com/story/memecoins-are-coming-to-the-stock-market/)
+ - [Astronomers Have Found 6,000 Planets Outside the Solar System](https://www.wired.com/story/6000-planets-have-been-found-outside-the-solar-system/)
+ - [The EU launches an antitrust probe into SAP over its ERP software maintenance and support services, with a potential fine of ~10% of its annual global sales &lpar;Makini Brice/Reuters&rpar;](http://www.techmeme.com/250925/p14#a250925p14)
+ - [Apple warns of more feature delays in Europe](https://www.theverge.com/news/785515/apple-eu-dma-complaint-interoperability-feature-delays)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

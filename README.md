@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why AI isn&#39;t replacing radiologists: models underperform in hospital settings, AI use faces legal hurdles, and the job is much more than image recognition &lpar;The Works in Progress Newsletter&rpar;](http://www.techmeme.com/250925/p54#a250925p54)
+ - [Flox, which lets engineers install a development environment on their machines with a single terminal command, raised a $25M Series B led by Addition &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250925/p53#a250925p53)
  - [Call-recording app Neon, which became the #2 social app on the US App Store, goes dark after exposing users&#39; phone numbers, call recordings, and transcripts &lpar;TechCrunch&rpar;](http://www.techmeme.com/250925/p52#a250925p52)
  - [A US federal judge preliminarily approves Anthropic&#39;s $1.5B copyright settlement with authors &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/250925/p51#a250925p51)
- - [Dreo&#39;s New Space Heaters Can &#39;Heat a Large Room With 40% Less Energy&#39;](https://www.cnet.com/home/kitchen-and-household/dreos-new-space-heaters-can-heat-a-large-room-with-40-less-energy/#ftag=CAD590a51e)
- - [Amazon Might Owe You $51. Here’s How to Find Out if You’re Eligible](https://www.wired.com/story/amazon-might-owe-you-find-out-if-youre-eligible/)
- - [Nintendo of America President Doug Bowser will retire on December 31 after more than a decade with the company; Nintendo exec Devon Pritchard will succeed him &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/250925/p50#a250925p50)<!-- TECH:END -->
+ - [Dreo&#39;s New Space Heaters Can &#39;Heat a Large Room With 40% Less Energy&#39;](https://www.cnet.com/home/kitchen-and-household/dreos-new-space-heaters-can-heat-a-large-room-with-40-less-energy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

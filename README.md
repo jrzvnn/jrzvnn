@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JPMorgan&#39;s recent data access deal with Plaid, if extended to other aggregators, could allow Plaid to use its cost advantage to further consolidate market share &lpar;Marc Rubinstein/Bloomberg&rpar;](http://www.techmeme.com/250925/p16#a250925p16)
+ - [13 Best Bed Frames &lpar;2025&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)
  - [Sources allege that nonprofit Ruby Central took control of some Ruby open-source projects from their maintainers without consent, after pressure from Shopify &lpar;Joel Drapper&rpar;](http://www.techmeme.com/250925/p15#a250925p15)
- - [Memecoins Are Coming to the Stock Market](https://www.wired.com/story/memecoins-are-coming-to-the-stock-market/)
- - [Astronomers Have Found 6,000 Planets Outside the Solar System](https://www.wired.com/story/6000-planets-have-been-found-outside-the-solar-system/)
- - [The EU launches an antitrust probe into SAP over its ERP software maintenance and support services, with a potential fine of ~10% of its annual global sales &lpar;Makini Brice/Reuters&rpar;](http://www.techmeme.com/250925/p14#a250925p14)
- - [Apple warns of more feature delays in Europe](https://www.theverge.com/news/785515/apple-eu-dma-complaint-interoperability-feature-delays)<!-- TECH:END -->
+ - [Google&#39;s Conversational Photo Editor Is the Rare AI Feature People Will Actually Use](https://www.wired.com/story/google-photos-conversational-photo-editor/)
+ - [Memecoins Are Coming to the Stock Market](https://www.wired.com/story/memecoins-are-coming-to-the-stock-market/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

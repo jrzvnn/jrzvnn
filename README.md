@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - 😝 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/aoyq9Dw)
  - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 💣 [We have detected that you have posted content that is hurtful, Please remain seated while justice is served.](http://9gag.com/gag/aoyq2Px)
+ - 💣 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
  - 👉 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)<!-- MEMES:END -->
 

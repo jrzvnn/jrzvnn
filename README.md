@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Databricks says it plans to integrate OpenAI&#39;s models, including GPT-5, into its data platform and AI product Agent Bricks, as part of a $100M multiyear deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250925/p26#a250925p26)
- - [xAI signed a deal with the GSA to offer Grok to US federal agencies for $0.42 per agency for 18 months, a discount to OpenAI&#39;s $1 per year for ChatGPT &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/250925/p25#a250925p25)
- - [It costs $895 per year to get American Express&amp;#8217; premium app theme](https://www.theverge.com/news/785639/american-express-platinum-credit-card-perks-ios-app-theme)
- - [ChatGPT Glossary: 57 AI Terms Everyone Should Know](https://www.cnet.com/tech/services-and-software/chatgpt-glossary-57-ai-terms-everyone-should-know/#ftag=CAD590a51e)
- - [Microsoft opens the doors to more AI-powered Windows apps](https://www.theverge.com/news/785631/microsoft-windows-ml-ai-apps-availability)<!-- TECH:END -->
+ - [CoreWeave expands its data center capacity agreements with OpenAI by $6.5B, bringing their total potential value to $22.4B, to support training of OpenAI models &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250925/p27#a250925p27)
+ - [25 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [How AI safety took a backseat to military money](https://www.theverge.com/podcast/784865/ai-safety-military-defense-openai-anthropic-ethics)
+ - [E-bike maker Cowboy in talks to be acquired](https://www.theverge.com/news/785644/e-bike-maker-cowboy-in-talks-to-be-acquired)
+ - [Databricks says it plans to integrate OpenAI&#39;s models, including GPT-5, into its data platform and AI product Agent Bricks, as part of a $100M multiyear deal &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/250925/p26#a250925p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

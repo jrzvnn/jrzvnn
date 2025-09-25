@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
+ - 😝 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Pianosnaren](http://9gag.com/gag/a7o6dQq)<!-- MEMES:END -->
+ - 👉 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)<!-- MEMES:END -->
 
 ---
 

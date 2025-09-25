@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Factory, which makes AI agents called &quot;droids&quot; to assist in coding, raised $50M at a $300M valuation; AI coding startups raised $7.5B+ in the past three months &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250925/p39#a250925p39)
- - [Twitch is making it easy to rewind streams](https://www.theverge.com/news/785973/twitch-livestream-rewind-easy)
- - [Google DeepMind unveils Gemini Robotics 1.5 and Robotics-ER 1.5, enabling robots to perform multi-step tasks like sorting laundry, including by using web search &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/250925/p38#a250925p38)
- - [Gemini now explains why your Sheets formula failed](https://www.theverge.com/news/785895/gemini-explanation-google-sheets-formula)
- - [Source: cryptocurrency exchange Kraken quietly closed a $500M funding round at a $15B valuation, including from co-CEO Arjun Sethi&#39;s Tribe Capital &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/250925/p37#a250925p37)<!-- TECH:END -->
+ - [Cloudflare announces plans to launch NET Dollar, a US dollar-backed stablecoin designed to support payments for the &quot;agentic web&quot; &lpar;Blockworks&rpar;](http://www.techmeme.com/250925/p40#a250925p40)
+ - [The 29 Best Movies on Apple TV+ Right Now &lpar;September 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [A number of great chargers are already on sale ahead of October Prime Day](https://www.theverge.com/tech/785075/anker-633-magnetic-battery-735-charger-october-prime-day-sale-deal)
+ - [This Energizer laptop claims to have a battery that keeps going and going and going](https://www.theverge.com/news/785857/this-energizer-laptop-claims-to-have-a-battery-that-keeps-going-and-going-and-going)
+ - [Factory, which makes AI agents called &quot;droids&quot; to assist in coding, raised $50M at a $300M valuation; AI coding startups raised $7.5B+ in the past three months &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/250925/p39#a250925p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

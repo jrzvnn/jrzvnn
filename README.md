@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: AirTag $21, MacBook Air from $385, M3 Max 16&quot; MacBook Pro $2,199](https://appleinsider.com/articles/25/09/25/deals-airtag-21-macbook-air-from-385-m3-max-16-macbook-pro-2199?utm_source=rss)
+ - [Sources: EU prepares to issue preliminary findings that Facebook and Instagram lack an adequate &quot;notice and action mechanism&quot; to let users flag illegal posts &lpar;Bloomberg&rpar;](http://www.techmeme.com/250925/p33#a250925p33)
  - [LG’s new TV is designed to be easier for seniors to use](https://www.theverge.com/news/785808/lg-easy-smart-tv-senior-citizens-redesigned-remote)
  - [Amazon is bringing back Rick Moranis for the Spaceballs sequel](https://www.theverge.com/news/785797/amazon-spaceballs-2-rick-moranis-dark-helmet-sequel-cast-photo)
- - [Google DeepMind’s new AI models can search the web to help robots complete tasks](https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search)
- - [Apple says the DMA exposes users to new risks, reduces choice by making iOS resemble Android, and creates unfair competition by not applying to Samsung &lpar;Apple&rpar;](http://www.techmeme.com/250925/p32#a250925p32)
- - [Microsoft blocks the Israeli military from some cloud and AI services](https://www.theverge.com/news/785733/microsoft-block-israeli-military-cloud-ai-services-palestine-protests)<!-- TECH:END -->
+ - [Google DeepMind’s new AI models can search the web to help robots complete tasks](https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

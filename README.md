@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon ordered to pay out $1.5B to consumers after years of deceptive Prime signups](https://appleinsider.com/articles/25/09/25/amazon-ordered-to-pay-out-15b-to-consumers-after-years-of-deceptive-prime-signups?utm_source=rss)
- - [Juicebox, whose PeopleGPT helps employers analyze professional profiles to identify qualified candidates, raised $36M, including a $30M Series A led by Sequoia &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/250925/p42#a250925p42)
- - [Sources: Intel CEO Lip-Bu Tan has spoken to TSMC CEO C.C. Wei about a partnership or a joint venture; he also met with Tim Cook this year; INTC is up 9%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250925/p41#a250925p41)
- - [Prime Video: 19 of the Absolute Best Sci-Fi TV Shows to Stream Now](https://www.cnet.com/tech/services-and-software/prime-video-best-sci-fi-tv-shows-2025/#ftag=CAD590a51e)
- - [WIRED’s Politics Issue Cover Is in a City Near You](https://www.wired.com/story/wired-politics-cover-search/)<!-- TECH:END -->
+ - [HSBC says it has tested an IBM quantum computing tool on European bond market data and saw a 34% improvement over traditional methods in predicting order fills &lpar;Arjun Neil Alim/Financial Times&rpar;](http://www.techmeme.com/250925/p43#a250925p43)
+ - [Microsoft says this new cooling method could enable more powerful chips and efficient data centers](https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency)
+ - [Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups](https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/)
+ - [This Asus Gaming Laptop Is on Sale for Under $1,000](https://www.wired.com/story/asus-laptop-deal-september-2025/)
+ - [Amazon ordered to pay out $1.5B to consumers after years of deceptive Prime signups](https://appleinsider.com/articles/25/09/25/amazon-ordered-to-pay-out-15b-to-consumers-after-years-of-deceptive-prime-signups?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

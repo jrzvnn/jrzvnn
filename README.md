@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out Vibes, a platform where users can create and share short-form, AI-generated videos, in the Meta AI app and on the meta.ai website &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/250925/p45#a250925p45)
+ - [Google updates Gemini 2.5 Flash with better response formatting and image understanding, and releases new 2.5 Flash and 2.5 Flash-Lite previews for developers &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250925/p44#a250925p44)
  - [HSBC says it has tested an IBM quantum computing tool on European bond market data and saw a 34% improvement over traditional methods in predicting order fills &lpar;Arjun Neil Alim/Financial Times&rpar;](http://www.techmeme.com/250925/p43#a250925p43)
  - [Microsoft says this new cooling method could enable more powerful chips and efficient data centers](https://www.theverge.com/report/785992/ai-chip-cooling-microsoft-microfluidic-energy-efficiency)
- - [Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups](https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/)
- - [This Asus Gaming Laptop Is on Sale for Under $1,000](https://www.wired.com/story/asus-laptop-deal-september-2025/)
- - [Amazon ordered to pay out $1.5B to consumers after years of deceptive Prime signups](https://appleinsider.com/articles/25/09/25/amazon-ordered-to-pay-out-15b-to-consumers-after-years-of-deceptive-prime-signups?utm_source=rss)<!-- TECH:END -->
+ - [Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups](https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [Best kind of holding](http://9gag.com/gag/aqyp2LZ)
  - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
- - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 😝 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 💣 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
+ - 😝 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)
+ - 👉 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)<!-- MEMES:END -->
 
 ---
 

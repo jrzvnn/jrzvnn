@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 😝 [We found it but what did it cost](http://9gag.com/gag/aZZVN2W)
- - 💣 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
+ - 😝 [Monkey is waiting](http://9gag.com/gag/azxDj5q)
+ - 😝 [And for my next Song...](http://9gag.com/gag/an7W10b)
+ - 💣 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)<!-- MEMES:END -->
+ - 👉 [Eat the rich!](http://9gag.com/gag/a34p7Rr)<!-- MEMES:END -->
 
 ---
 

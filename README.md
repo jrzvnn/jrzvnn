@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
- - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 😝 [Found out](http://9gag.com/gag/abAmyRr)
- - 👉 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)<!-- MEMES:END -->
+ - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 😝 [I&#39;m sure you someone appreciate that](http://9gag.com/gag/avyXLeW)
+ - 💣 [This ... and more](http://9gag.com/gag/aryrRQ6)
+ - 😝 [I like it](http://9gag.com/gag/amobzNV)
+ - 👉 [A hope for walking again](http://9gag.com/gag/aryrKmd)<!-- MEMES:END -->
 
 ---
 

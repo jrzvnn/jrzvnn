@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How ProMotion works and why it doesn&#39;t matter on the iPhone 17](https://appleinsider.com/articles/25/09/25/how-promotion-works-and-why-it-doesnt-matter-on-the-iphone-17?utm_source=rss)
+ - [Jimmy Kimmel returns bigger than ever](https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures)
+ - [9 Best Down Comforters &lpar;2025&rpar;, Tested in Our Homes in Every Season](https://www.wired.com/gallery/best-down-comforters/)
  - [Microsoft forced to make Windows 10 extended security updates truly free in Europe](https://www.theverge.com/news/785544/microsoft-windows-10-extended-security-updates-free-europe-changes)
- - [Neon, which pays users to record their phone calls and sells that audio data to AI companies for training, becomes the #2 social app on the US App Store &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250925/p18#a250925p18)
- - [OnePlus 13 plus one equals the OnePlus 15](https://www.theverge.com/tech/785386/oneplus-13-plus-one-equals-the-oneplus-15)
- - [SAP, whose cloud sales are set to reach €22B this year, nearly triple 2019 levels, faces competition from other tech giants as it targets AI apps for the future &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/250925/p17#a250925p17)
- - [How to &lpar;Mostly&rpar; Get Rid of Liquid Glass](https://www.wired.com/story/how-to-mostly-get-rid-of-liquid-glass/)<!-- TECH:END -->
+ - [Neon, which pays users to record their phone calls and sells that audio data to AI companies for training, becomes the #2 social app on the US App Store &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/250925/p18#a250925p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

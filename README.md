@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Somehow, flexibility inspires rigidity](http://9gag.com/gag/a34pLnm)
  - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
- - 😝 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
- - 💣 [Non-white women forcibly removed from a Frontier Airlines flight.](http://9gag.com/gag/adB4p49)
- - 😝 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - 👉 [Harry Potter and the Cave of Jessie](http://9gag.com/gag/a0eWLyO)<!-- MEMES:END -->
+ - 💣 [Might come in handy for some degenerates](http://9gag.com/gag/aKGNBgb)
+ - 😝 [Found out](http://9gag.com/gag/abAmyRr)
+ - 👉 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)<!-- MEMES:END -->
 
 ---
 

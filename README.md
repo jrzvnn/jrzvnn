@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft opens the doors to more AI-powered Windows apps](https://www.theverge.com/news/785631/microsoft-windows-ml-ai-apps-availability)
+ - [A profile of AI skeptic Ed Zitron: Sam Altman&#39;s firing and return was his &quot;Joker moment&quot;, tech journalism is flawed, his brash persona is not a mask, and more &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/250925/p24#a250925p24)
+ - [Chromebooks vs. PC: The Differences Between Chrome OS and Windows](https://www.wired.com/story/chromebooks-vs-windows-laptops/)
  - [Ghost of Yōtei is exactly the kind of game PlayStation needs](https://www.theverge.com/games/784888/ghost-of-yotei-review-ps5)
- - [Remedy has a big FBC: Firebreak update aimed at turning things around](https://www.theverge.com/entertainment/784967/remedy-fbc-firebreak-update)
- - [RedotPay, which offers stablecoin cards and multicurrency wallets, raised $47M from Coinbase Ventures, Galaxy Ventures, and others at a $1B valuation &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/250925/p23#a250925p23)
- - [Proton Mail&amp;#8217;s updated app adds an offline mode](https://www.theverge.com/news/785611/proton-mail-app-update-offline-mode)
- - [Circle president Heath Tarbert says Circle is exploring the possibility of reversible stablecoin transactions to allow refunds in cases of fraud or disputes &lpar;Financial Times&rpar;](http://www.techmeme.com/250925/p22#a250925p22)<!-- TECH:END -->
+ - [Remedy has a big FBC: Firebreak update aimed at turning things around](https://www.theverge.com/entertainment/784967/remedy-fbc-firebreak-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

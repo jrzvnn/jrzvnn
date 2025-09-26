@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide](https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air)
  - [iPhone Air and iPhone 17 Pro Max in real-world use, with scratches, on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/26/iphone-air-and-iphone-17-pro-max-in-real-world-use-with-scratches-on-the-appleinsider-podcast?utm_source=rss)
  - [36 Best Advent Calendars for Kids in 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)
  - [Leaked letter: NLRB drops claims against Tim Cook, including that he violated workers&#39; rights with a 2021 email threatening staffers who leak confidential info &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/250926/p26#a250926p26)
- - [Apple AirPods Pro 3 Review: Still The Best for iOS](https://www.wired.com/review/apple-airpods-pro-3/)
- - [Sources: Kraken is in advanced talks to raise $200M to $300M from a strategic investor at a valuation of ~$20B, after recently raising $500M at a $15B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p25#a250926p25)<!-- TECH:END -->
+ - [Apple AirPods Pro 3 Review: Still The Best for iOS](https://www.wired.com/review/apple-airpods-pro-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Silicon Valley Still the Tech Capital?](https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-still-the-tech-capital/)
  - [YouTube’s new AI experiment adds AI hosts to your music](https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts)
  - [Our Favorite Wi-Fi Router Is $20 Off](https://www.wired.com/story/asus-rt-be58u-deal/)
  - [A US court rules that the DOD can classify DJI as a &quot;Chinese Military Company&quot;, finds that there is enough evidence that DJI is supported by Chinese government &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250926/p20#a250926p20)
- - [The Social Network sequel has a new title and release date](https://www.theverge.com/entertainment/786648/aaron-sorkin-the-social-reckoning)
- - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
+ - [The Social Network sequel has a new title and release date](https://www.theverge.com/entertainment/786648/aaron-sorkin-the-social-reckoning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

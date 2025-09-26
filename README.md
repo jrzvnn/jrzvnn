@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instagram&amp;#8217;s &amp;#8216;pay or consent&amp;#8217; approach to ads is coming to UK after being rejected in EU](https://www.theverge.com/news/786313/meta-pay-or-consent-uk)
+ - [Best Solar-Powered Home Security Cameras for 2025](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
  - [How inaccurate AI translations of Wikipedia pages, which AI models use for training, may cause a doom spiral that further marginalizes vulnerable languages &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/250926/p5#a250926p5)
- - [Could These Eye Drops End the Need for Reading Glasses?](https://www.wired.com/story/could-these-eye-drops-end-the-need-for-reading-glasses/)
- - [OLX Group, an online marketplace owned by Prosus, agrees to acquire La Centrale, a French auto classifieds platform, for $1.3B in cash, expected to close in Q4 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/250926/p4#a250926p4)
- - [The robo-advisory market, which includes companies that use AI tools to help investors pick stocks, is expected to grow from $61.75B in 2024 to $470.91B by 2029 &lpar;Joice Alves/Reuters&rpar;](http://www.techmeme.com/250926/p3#a250926p3)
- - [Why Using a Q-Tip to Clean Your Ears Is a Safety Hazard](https://www.cnet.com/health/personal-care/why-using-q-tip-clean-ears-safety-hazard/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [Could These Eye Drops End the Need for Reading Glasses?](https://www.wired.com/story/could-these-eye-drops-end-the-need-for-reading-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

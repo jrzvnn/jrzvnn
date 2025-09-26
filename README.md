@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Fire TV Stick 4K Max is already $20 off ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/786445/amazon-fire-tv-stick-4k-max-october-prime-day-deals-sale)
- - [TCL’s 8-inch Nxtpaper tablet could lure you away from the color Kindle](https://www.theverge.com/news/786479/tcl-tab-8-nxtpaper-5g-android-15-tablet)
- - [Inspiren, which provides AI-powered fall detection and other tech for senior living facilities, raised a $100M Series B, bringing its total funding to $155M &lpar;Kathleen Steele Gaivin/McKnight&#39;s ...&rpar;](http://www.techmeme.com/250926/p15#a250926p15)
- - [Anthropic plans to triple its global workforce and expand its applied AI team 5x in 2025, after growing its business clients from ~1K to 300K+ in two years &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250926/p14#a250926p14)
- - [Perplexity launches Search API, giving developers direct access to the same web index that powers the startup&#39;s answer engine &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250926/p13#a250926p13)<!-- TECH:END -->
+ - [Lawsuit over Apple Intelligence Siri delays is nitpicking, Apple argues](https://appleinsider.com/articles/25/09/26/lawsuit-over-apple-intelligence-siri-delays-is-nitpicking-apple-argues?utm_source=rss)
+ - [Meta AI funnels AI videos from creators into new &amp;#8216;Vibes&amp;#8217; feed](https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos)
+ - [Uber expects non-restaurant deliveries to hit an annual run rate of $12.5B in gross bookings by the end of 2025, up 25% from the $10B+ rate it shared in May &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250926/p16#a250926p16)
+ - [This smartwatch lacks notifications but will still distract you with Tetris](https://www.theverge.com/news/785725/tetris-my-play-watch-smartwatch)
+ - [Amazon’s Fire TV Stick 4K Max is already $20 off ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/786445/amazon-fire-tv-stick-4k-max-october-prime-day-deals-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 😝 [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - 💣 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)
+ - 😝 [Vocal control](http://9gag.com/gag/aPAdMoQ)
+ - 😝 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
+ - 💣 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [I hate my family](http://9gag.com/gag/aND2nx6)<!-- MEMES:END -->
+ - 👉 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)<!-- MEMES:END -->
 
 ---
 

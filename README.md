@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
  - [Sources: ByteDance is expected to receive ~50% of TikTok US&#39; overall profit despite selling majority ownership to US investors, including a 20% licensing fee &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p12#a250926p12)
- - [Enable This iOS 26 Privacy Feature to Make It Harder for Others to Track You](https://www.cnet.com/tech/services-and-software/enable-this-ios-26-privacy-feature-to-make-it-harder-for-others-to-track-you/#ftag=CAD590a51e)
  - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
  - [Suno’s upgraded AI music generator is technically impressive, but still soulless](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review)
- - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)<!-- TECH:END -->
+ - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

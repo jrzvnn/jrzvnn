@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic plans to triple its global workforce and expand its applied AI team 5x in 2025, after growing its business clients from ~1K to 300K+ in two years &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250926/p14#a250926p14)
  - [Perplexity launches Search API, giving developers direct access to the same web index that powers the startup&#39;s answer engine &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250926/p13#a250926p13)
  - [Dear LA, you deserve better than the Clippers’ carbon scandal](https://www.theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change)
  - [What Is Your Tent or Rain Jacket Made From? &lpar;2025&rpar;: Dyneema, Silpoly, X-Pac](https://www.wired.com/story/outdoor-gear-fabric-explainer/)
- - [Broadcast TV Is a &#39;Melting Ice Cube.’ Kimmel Just Turned Up the Heat](https://www.wired.com/story/broadcast-tv-fcc-carr-kimmel/)
- - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)<!-- TECH:END -->
+ - [Broadcast TV Is a &#39;Melting Ice Cube.’ Kimmel Just Turned Up the Heat](https://www.wired.com/story/broadcast-tv-fcc-carr-kimmel/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

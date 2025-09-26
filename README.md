@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait for it....](http://9gag.com/gag/aoyq1N3)
- - 😝 [Still building wonders, just different kinds](http://9gag.com/gag/ae9Pbej)
- - 💣 [Slap that guy.](http://9gag.com/gag/aVv1DxK)
+ - 😝 [Fellow Gen X](http://9gag.com/gag/adB47BD)
+ - 😝 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
+ - 💣 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [No BS for Liam](http://9gag.com/gag/aPAdBOB)<!-- MEMES:END -->
+ - 👉 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)<!-- MEMES:END -->
 
 ---
 

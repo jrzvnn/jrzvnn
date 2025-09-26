@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
- - [Sources: ByteDance is expected to receive ~50% of TikTok US&#39; overall profit despite selling majority ownership to US investors, including a 20% licensing fee &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p12#a250926p12)
- - [The Best 3-in-1 Apple Charging Stations &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/)
- - [Suno’s upgraded AI music generator is technically impressive, but still soulless](https://www.theverge.com/ai-artificial-intelligence/786349/suno-ai-music-generator-v5-review)
- - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
+ - [Perplexity launches Search API, giving developers direct access to the same web index that powers the startup&#39;s answer engine &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250926/p13#a250926p13)
+ - [Dear LA, you deserve better than the Clippers’ carbon scandal](https://www.theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change)
+ - [What Is Your Tent or Rain Jacket Made From? &lpar;2025&rpar;: Dyneema, Silpoly, X-Pac](https://www.wired.com/story/outdoor-gear-fabric-explainer/)
+ - [Broadcast TV Is a &#39;Melting Ice Cube.’ Kimmel Just Turned Up the Heat](https://www.wired.com/story/broadcast-tv-fcc-carr-kimmel/)
+ - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

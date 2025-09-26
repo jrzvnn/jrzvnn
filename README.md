@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
- - 😝 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)
- - 💣 [Zip tile fix everything](http://9gag.com/gag/aXPGw4z)
+ - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Impossibru](http://9gag.com/gag/axyngRM)<!-- MEMES:END -->
+ - 👉 [A crazy woman throws a dog to a guy, so he adopts it](http://9gag.com/gag/abAm6dB)<!-- MEMES:END -->
 
 ---
 

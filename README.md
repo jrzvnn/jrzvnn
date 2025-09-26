@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 😝 [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
+ - 😝 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)
+ - 😝 [T/Kitty](http://9gag.com/gag/apRjLdD)
+ - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Most useless Feature](http://9gag.com/gag/apRjrq9)<!-- MEMES:END -->
+ - 👉 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)<!-- MEMES:END -->
 
 ---
 

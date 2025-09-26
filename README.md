@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 😝 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
- - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
+ - 😝 [No Comment..](http://9gag.com/gag/ajPMqgQ)
+ - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
  - 👉 [Most useless Feature](http://9gag.com/gag/apRjrq9)<!-- MEMES:END -->
 

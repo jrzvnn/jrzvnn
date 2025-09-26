@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How developers are using Apple&#39;s local AI models in iOS 26: Lil Artist story generation, MoneyCoach&#39;s spending insights, F1 race summaries in Lights Out, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250926/p29#a250926p29)
  - [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco)
  - [Sources: the US Commerce Department is considering imposing tariffs on foreign electronic devices based on the number of chips they contain &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250926/p28#a250926p28)
  - [NLRB withdraws claims about Tim Cook&#39;s email violating workers&#39; rights](https://appleinsider.com/articles/25/09/26/nlrb-withdraws-claims-about-tim-cooks-email-violating-workers-rights?utm_source=rss)
- - [Trump says Microsoft should fire its global affairs head Lisa Monaco over her work in the Biden administration, calling her a &quot;menace to US National Security&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250926/p27#a250926p27)
- - [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)<!-- TECH:END -->
+ - [Trump says Microsoft should fire its global affairs head Lisa Monaco over her work in the Biden administration, calling her a &quot;menace to US National Security&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250926/p27#a250926p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

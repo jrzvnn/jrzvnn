@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tick tock, TikTok](https://www.theverge.com/podcast/786324/tiktok-ban-us-deal-trump-ellison-vergecast)
- - [Best Wireless Earbuds &lpar;2025&rpar;: Apple, Sony, Bose, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles](https://www.theverge.com/report/785828/microsoft-xbox-ally-x-pricing-next-gen-consoles-report)
- - [The UK unveils plans for a digital ID, which will be required to work in the country, to combat illegal immigration; the ID will be stored on people&#39;s phones &lpar;Kate Whannel/BBC&rpar;](http://www.techmeme.com/250926/p8#a250926p8)
- - [Your OnePlus phone is probably at risk from a major SMS vulnerability](https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184)<!-- TECH:END -->
+ - [German investigators conduct raids in relation to Northern Data, which is majority-owned by Tether and has been pivoting from crypto mining to AI computing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p10#a250926p10)
+ - [The Trump administration&#39;s $14B valuation of TikTok&#39;s US business falls well below previous estimates of around $40B, surprising investors who call it a bargain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p9#a250926p9)
+ - [Fans caught Apple using iPhones in MLB broadcasts &amp; the shots went viral](https://appleinsider.com/articles/25/09/26/fans-caught-apple-using-iphones-in-mlb-broadcasts-the-shots-went-viral?utm_source=rss)
+ - [Corsair Sabre V2 Pro Ultralight Gaming Mouse Review: Impossibly Light](https://www.wired.com/review/corsair-sabre-v2-pro-ultralight-gaming-mouse/)
+ - [Tick tock, TikTok](https://www.theverge.com/podcast/786324/tiktok-ban-us-deal-trump-ellison-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

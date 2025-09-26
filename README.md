@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is testing AI hosts, who will share stories and trivia about the music users are listening to, in the YouTube Music app through its new Labs program &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250926/p22#a250926p22)
  - [Apple&#39;s secret Veritas chatbot could be the key to fixing Siri](https://appleinsider.com/articles/25/09/26/apples-secret-veritas-chatbot-could-be-the-key-to-fixing-siri?utm_source=rss)
  - [Costco is already selling piles of Lego Game Boys cheaper than the Lego company](https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early)
- - [Sources: EA is nearing a deal to go private in a leveraged buyout valuing the company at ~$50B; investors include Silver Lake and Saudi Arabia&#39;s PIF &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250926/p21#a250926p21)
- - [Is Silicon Valley Still the Tech Capital?](https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-still-the-tech-capital/)
- - [YouTube’s new AI experiment adds AI hosts to your music](https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts)<!-- TECH:END -->
+ - [Sources: EA is nearing a deal to go private in a leveraged buyout valuing EA at ~$50B; investors include Silver Lake and Saudi Arabia&#39;s PIF; EA jumps 13%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250926/p21#a250926p21)
+ - [Is Silicon Valley Still the Tech Capital?](https://www.wired.com/story/uncanny-valley-podcast-is-silicon-valley-still-the-tech-capital/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

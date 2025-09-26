@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Blink security camera app is down, but Amazon is working on it](https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error)
  - [Sources: ByteDance will maintain ownership of TikTok US&#39; revenue-generating business operations such as e-commerce and advertising &lpar;Reuters&rpar;](http://www.techmeme.com/250926/p31#a250926p31)
  - [How developers are using Apple&#39;s local AI models in iOS 26: Lil Artist story generation, MoneyCoach&#39;s spending insights, F1 race summaries in Lights Out, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250926/p29#a250926p29)
  - [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco)
- - [Sources: the US Commerce Department is considering imposing tariffs on foreign electronic devices based on the number of chips they contain &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250926/p28#a250926p28)
- - [My In-Laws Helped Me Put Apple&#39;s Live Translation to the Ultimate Test](https://www.cnet.com/tech/mobile/i-tested-airpods-live-translation-with-my-family-heres-what-i-learned/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the US Commerce Department is considering imposing tariffs on foreign electronic devices based on the number of chips they contain &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/250926/p28#a250926p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

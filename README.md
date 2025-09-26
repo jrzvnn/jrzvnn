@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta plans to launch paid, ad-free versions of Instagram and Facebook in the UK, each costing £2.99 per month on the web, and £3.99 on iOS and Android &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p7#a250926p7)
- - [Tokyo&#39;s Apple Ginza welcomes thousands to its reopening](https://appleinsider.com/articles/25/09/26/tokyos-apple-ginza-welcomes-thousands-to-its-reopening?utm_source=rss)
- - [6 Best Beard Trimmers &lpar;2025&rpar;: Full Beards, Hair, Stubble](https://www.wired.com/gallery/best-beard-trimmers/)
- - [Checkout.com announces an employee share buyback at a $12B valuation, up 30% from $9.35B two years ago yet below $40B in 2022, and says an IPO isn&#39;t a priority &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250926/p6#a250926p6)
- - [Instagram&amp;#8217;s &amp;#8216;pay or consent&amp;#8217; approach to ads is coming to UK after being rejected in EU](https://www.theverge.com/news/786313/meta-pay-or-consent-uk)<!-- TECH:END -->
+ - [iPhone 17 Pro Max review: redefining &#39;Pro&#39; with a new coat of paint](https://appleinsider.com/articles/25/09/26/iphone-17-pro-max-review-redefining-pro-with-a-new-coat-of-paint?utm_source=rss)
+ - [Where to Go to Get Serious About Learning a Language: Lingoda, Preply, Fluenz](https://www.wired.com/story/done-with-duolingo-get-serious-about-learning-a-language/)
+ - [5 More Physics Equations Everyone Should Know](https://www.wired.com/story/5-more-physics-equations-everyone-should-know/)
+ - [Tesla Is Urging Drowsy Drivers to Use &#39;Full Self-Driving&#39;. That Could Go Very Wrong](https://www.wired.com/story/story/tesla-urging-drowsy-drivers-to-use-full-self-driving-that-could-go-very-wrong/)
+ - [Meta plans to launch paid, ad-free versions of Instagram and Facebook in the UK, each costing £2.99 per month on the web, and £3.99 on iOS and Android &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p7#a250926p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - 😝 [Well ... that sucks](http://9gag.com/gag/a34pj8e)
- - 💣 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)<!-- MEMES:END -->
+ - 😝 [Wait for it....](http://9gag.com/gag/aoyq1N3)
+ - 😝 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
+ - 💣 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
+ - 😝 [Still building wonders, just different kinds](http://9gag.com/gag/ae9Pbej)
+ - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
 
 ---
 

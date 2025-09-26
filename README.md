@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NLRB withdraws claims about Tim Cook&#39;s email violating workers&#39; rights](https://appleinsider.com/articles/25/09/26/nlrb-withdraws-claims-about-tim-cooks-email-violating-workers-rights?utm_source=rss)
  - [Trump says Microsoft should fire its global affairs head Lisa Monaco over her work in the Biden administration, calling her a &quot;menace to US National Security&quot; &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/250926/p27#a250926p27)
  - [Microsoft Photos will soon auto-categorize your pictures](https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test)
- - [ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide](https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air)
- - [iPhone Air and iPhone 17 Pro Max in real-world use, with scratches, on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/26/iphone-air-and-iphone-17-pro-max-in-real-world-use-with-scratches-on-the-appleinsider-podcast?utm_source=rss)
- - [36 Best Advent Calendars for Kids in 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 27, #369](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-27-369/#ftag=CAD590a51e)
+ - [ABC affiliates end their boycott, putting Jimmy Kimmel back on the air nationwide](https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Well ... that sucks](http://9gag.com/gag/a34pj8e)
  - 😝 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 💣 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 💣 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Only Kash](http://9gag.com/gag/aE0NYbx)<!-- MEMES:END -->
+ - 👉 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)<!-- MEMES:END -->
 
 ---
 

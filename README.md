@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad recorded his daughter every week for 20 years](http://9gag.com/gag/aoyq9Dw)
  - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 💣 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
+ - 😝 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
+ - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
+ - 👉 [Transformers](http://9gag.com/gag/a2vjrvp)<!-- MEMES:END -->
 
 ---
 

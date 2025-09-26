@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your OnePlus phone is probably at risk from a major SMS vulnerability](https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184)
- - [Yamaha YH-L500A Review: Extremely Comfortable Headphones](https://www.wired.com/review/yamaha-yh-l500a/)
- - [Can I Take Power Banks on Flights? We Explain the Rules &lpar;2025&rpar;](https://www.wired.com/story/rules-for-power-banks-on-flights/)
- - [Evercore hikes Apple stock target to $290 on iPhone 17 Pro Max sales strength](https://appleinsider.com/articles/25/09/26/evercore-hikes-apple-stock-target-to-290-on-iphone-17-pro-max-sales-strength?utm_source=rss)
- - [The UK announces mandatory digital ID plans](https://www.theverge.com/news/786323/uk-digital-id-plans-mandatory-immigration-crackdown)<!-- TECH:END -->
+ - [Tick tock, TikTok](https://www.theverge.com/podcast/786324/tiktok-ban-us-deal-trump-ellison-vergecast)
+ - [Best Wireless Earbuds &lpar;2025&rpar;: Apple, Sony, Bose, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [A $1,000 Xbox Ally handheld tests the appetite for pricey next-gen consoles](https://www.theverge.com/report/785828/microsoft-xbox-ally-x-pricing-next-gen-consoles-report)
+ - [The UK unveils plans for a digital ID, which will be required to work in the country, to combat illegal immigration; the ID will be stored on people&#39;s phones &lpar;Kate Whannel/BBC&rpar;](http://www.techmeme.com/250926/p8#a250926p8)
+ - [Your OnePlus phone is probably at risk from a major SMS vulnerability](https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

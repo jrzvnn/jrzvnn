@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Pangyo Techno Valley, South Korea&#39;s &quot;Silicon Valley&quot; that is home to 1,800+ startups, R&amp;D centers, and global tech firms, as it strives for global impact &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250925/p59#a250925p59)
+ - [Microsoft and Asus open preorders for the first Xbox handhelds, the ROG Xbox Ally for $599 and the ROG Xbox Ally X for $999 in the US, shipping October 16 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250925/p58#a250925p58)
  - [Canada&#39;s anti-money laundering agency fines crypto exchange KuCoin ~$14M for failing to report large and suspicious transactions; KuCoin appeals the decision &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/250925/p57#a250925p57)
  - [I&#39;ve Used the Wild Xiaomi 17 Pro Max, and Its Rear Screen Is Bonkers](https://www.cnet.com/tech/mobile/ive-used-the-wild-xiaomi-17-pro-max-and-its-rear-screen-is-bonkers/#ftag=CAD590a51e)
- - [Xiaomi 17 Pro and 17 Pro Max: Specs, Release Date, Price, Features](https://www.wired.com/story/xiaomi-17-pro-max-hands-on/)
- - [Microsoft and Asus open Xbox Ally preorders — the X costs $999](https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder)
- - [North Dakota driver&#39;s license coming to Apple Wallet soon](https://appleinsider.com/articles/25/09/25/north-dakota-drivers-license-coming-to-apple-wallet-soon?utm_source=rss)<!-- TECH:END -->
+ - [Xiaomi 17 Pro and 17 Pro Max: Specs, Release Date, Price, Features](https://www.wired.com/story/xiaomi-17-pro-max-hands-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

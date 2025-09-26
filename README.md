@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the Trump admin plans to require chipmakers to match local output with imports and impose tariffs on companies that fail to maintain a 1:1 ratio &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p2#a250926p2)
  - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
  - [Home Depot Promo Codes: 10% Off | September 2025](https://www.wired.com/story/home-depot-promo-code/)
  - [As the lyricist behind AI artist Xania Monet signs a $3M record deal, experts say current copyright law may only protect the human-made expressive elements &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/250926/p1#a250926p1)
- - [Microsoft launches Microsoft Marketplace, combining Azure Marketplace and Microsoft AppSource in a single destination for cloud tools and AI apps and agents &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250925/p61#a250925p61)
- - [A look at Intel&#39;s $28B Ohio chip factory, the largest economic development project in Ohio&#39;s history, initially set for a 2025 opening but now delayed till 2030 &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250925/p60#a250925p60)<!-- TECH:END -->
+ - [Microsoft launches Microsoft Marketplace, combining Azure Marketplace and Microsoft AppSource in a single destination for cloud tools and AI apps and agents &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250925/p61#a250925p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

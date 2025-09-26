@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
  - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 😝 [A car committing seppuku, to save the driver from being extra cwispy during a fire](http://9gag.com/gag/aPAdMWn)
  - 💣 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
  - 👉 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)<!-- MEMES:END -->

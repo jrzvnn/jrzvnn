@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US regulators examined 200+ companies about sharp share-price gains in the lead-up to their announcements about making buying crypto a core strategy &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p17#a250926p17)
+ - [Tech Billionaires Already Captured the White House. They Still Want to Be Kings](https://www.wired.com/story/tech-billionaires-communities/)
+ - [Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos](https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos)
  - [iPhones still allegedly being made in China under sweatshop conditions](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
- - [Lawsuit over Apple Intelligence Siri delays is nitpicking, Apple argues](https://appleinsider.com/articles/25/09/26/lawsuit-over-apple-intelligence-siri-delays-is-nitpicking-apple-argues?utm_source=rss)
- - [Meta AI funnels AI videos from creators into new &amp;#8216;Vibes&amp;#8217; feed](https://www.theverge.com/news/786499/meta-ai-vibes-feed-discover-videos)
- - [Uber expects non-restaurant deliveries to hit an annual run rate of $12.5B in gross bookings by the end of 2025, up 25% from the $10B+ rate it shared in May &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/250926/p16#a250926p16)
- - [This smartwatch lacks notifications but will still distract you with Tetris](https://www.theverge.com/news/785725/tetris-my-play-watch-smartwatch)<!-- TECH:END -->
+ - [ROG Xbox Ally: Price, Preorders, Release Date and How It Compares to Steam Deck](https://www.cnet.com/tech/gaming/rog-xbox-ally-price-release-date-specs-compares-steam-deck/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

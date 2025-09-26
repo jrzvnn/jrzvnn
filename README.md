@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good luck](http://9gag.com/gag/aKGNVwb)
- - 😝 [Transformers](http://9gag.com/gag/a2vjrvp)
- - 💣 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 😝 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)
- - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
+ - 😝 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
+ - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 💣 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
+ - 👉 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)<!-- MEMES:END -->
 
 ---
 

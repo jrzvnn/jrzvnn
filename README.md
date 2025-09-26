@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
- - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 💣 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 😝 [Fellow Gen X](http://9gag.com/gag/adB47BD)
+ - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)<!-- MEMES:END -->
+ - 👉 [Well, well, well\u2026 taking what\u2019s not yours, classic](http://9gag.com/gag/a87XyBQ)<!-- MEMES:END -->
 
 ---
 

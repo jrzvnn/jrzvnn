@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
- - 😝 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
- - 💣 [Vocal control](http://9gag.com/gag/aPAdMoQ)
+ - 😝 [A car committing seppuku, to save the driver from being extra cwispy during a fire](http://9gag.com/gag/aPAdMWn)
+ - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)<!-- MEMES:END -->
+ - 👉 [Still building wonders, just different kinds](http://9gag.com/gag/ae9Pbej)<!-- MEMES:END -->
 
 ---
 

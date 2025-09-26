@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your OnePlus phone is probably at risk from a major SMS vulnerability](https://www.theverge.com/news/786341/oneplus-sms-security-flaw-oxygenos-rapid7-cve-2025-10184)
+ - [Yamaha YH-L500A Review: Extremely Comfortable Headphones](https://www.wired.com/review/yamaha-yh-l500a/)
  - [Can I Take Power Banks on Flights? We Explain the Rules &lpar;2025&rpar;](https://www.wired.com/story/rules-for-power-banks-on-flights/)
  - [Evercore hikes Apple stock target to $290 on iPhone 17 Pro Max sales strength](https://appleinsider.com/articles/25/09/26/evercore-hikes-apple-stock-target-to-290-on-iphone-17-pro-max-sales-strength?utm_source=rss)
- - [Inside iMovie - How to get started with video editing on iPhone and iPad](https://appleinsider.com/inside/ios-26/tips/inside-imovie---how-to-get-started-with-video-editing-on-iphone-and-ipad?utm_source=rss)
- - [iPhone 17 Pro Max review: redefining &#39;Pro&#39; with a new coat of paint](https://appleinsider.com/articles/25/09/26/iphone-17-pro-max-review-redefining-pro-with-a-new-coat-of-paint?utm_source=rss)
- - [Where to Go to Get Serious About Learning a Language: Lingoda, Preply, Fluenz](https://www.wired.com/story/done-with-duolingo-get-serious-about-learning-a-language/)<!-- TECH:END -->
+ - [The UK announces mandatory digital ID plans](https://www.theverge.com/news/786323/uk-digital-id-plans-mandatory-immigration-crackdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

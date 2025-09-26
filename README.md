@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A China Labor Watch six-month investigation at Foxconn&#39;s Zhengzhou iPhone factory finds tough working conditions for seasonal staff building the latest iPhones &lpar;Eleanor Olcott/Financial Times&rpar;](http://www.techmeme.com/250925/p56#a250925p56)
- - [CISA issues an emergency directive ordering US federal agencies to secure their Cisco firewall devices against two flaws exploited in zero-day attacks &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/250925/p55#a250925p55)
- - [Forget the New iPhone, the Xiaomi 17 Series Has a Rear Screen and a Giant Battery](https://www.cnet.com/tech/mobile/forget-the-new-iphone-the-xiaomi-17-series-has-a-rear-screen-and-a-giant-battery/#ftag=CAD590a51e)
- - [Why AI isn&#39;t replacing radiologists: models underperform in hospital settings, AI use faces legal hurdles, and the job is much more than image recognition &lpar;The Works in Progress Newsletter&rpar;](http://www.techmeme.com/250925/p54#a250925p54)
- - [Flox, which lets engineers install a development environment on their machines with a single terminal command, raised a $25M Series B led by Addition &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250925/p53#a250925p53)<!-- TECH:END -->
+ - [Canada&#39;s anti-money laundering agency fines crypto exchange KuCoin ~$14M for failing to report large and suspicious transactions; KuCoin appeals the decision &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/250925/p57#a250925p57)
+ - [I&#39;ve Used the Wild Xiaomi 17 Pro Max, and Its Rear Screen Is Bonkers](https://www.cnet.com/tech/mobile/ive-used-the-wild-xiaomi-17-pro-max-and-its-rear-screen-is-bonkers/#ftag=CAD590a51e)
+ - [Xiaomi 17 Pro and 17 Pro Max: Specs, Release Date, Price, Features](https://www.wired.com/story/xiaomi-17-pro-max-hands-on/)
+ - [Microsoft and Asus open Xbox Ally preorders — the X costs $999](https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder)
+ - [North Dakota driver&#39;s license coming to Apple Wallet soon](https://appleinsider.com/articles/25/09/25/north-dakota-drivers-license-coming-to-apple-wallet-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

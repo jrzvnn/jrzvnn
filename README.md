@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 😝 [Wow...](http://9gag.com/gag/aYQneQ0)
+ - 😝 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)
+ - 😝 [Doggy style](http://9gag.com/gag/axynjDb)
  - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [A crazy woman throws a dog to a guy, so he adopts it](http://9gag.com/gag/abAm6dB)<!-- MEMES:END -->
+ - 👉 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)<!-- MEMES:END -->
 
 ---
 

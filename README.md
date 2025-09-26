@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
- - 😝 [Fellow Gen X](http://9gag.com/gag/adB47BD)
- - 💣 [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
+ - 😝 [No Comment..](http://9gag.com/gag/ajPMqgQ)
+ - 😝 [Wait for it....](http://9gag.com/gag/aoyq1N3)
+ - 💣 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
+ - 😝 [Good luck](http://9gag.com/gag/aKGNVwb)
+ - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
 
 ---
 

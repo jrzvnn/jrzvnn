@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evercore hikes Apple stock target to $290 on iPhone 17 Pro Max sales strength](https://appleinsider.com/articles/25/09/26/evercore-hikes-apple-stock-target-to-290-on-iphone-17-pro-max-sales-strength?utm_source=rss)
+ - [The UK announces mandatory digital ID plans](https://www.theverge.com/news/786323/uk-digital-id-plans-mandatory-immigration-crackdown)
+ - [Inside iMovie - How to get started with video editing on iPhone and iPad](https://appleinsider.com/inside/ios-26/tips/inside-imovie---how-to-get-started-with-video-editing-on-iphone-and-ipad?utm_source=rss)
  - [iPhone 17 Pro Max review: redefining &#39;Pro&#39; with a new coat of paint](https://appleinsider.com/articles/25/09/26/iphone-17-pro-max-review-redefining-pro-with-a-new-coat-of-paint?utm_source=rss)
- - [Where to Go to Get Serious About Learning a Language: Lingoda, Preply, Fluenz](https://www.wired.com/story/done-with-duolingo-get-serious-about-learning-a-language/)
- - [5 More Physics Equations Everyone Should Know](https://www.wired.com/story/5-more-physics-equations-everyone-should-know/)
- - [Tesla Is Urging Drowsy Drivers to Use &#39;Full Self-Driving&#39;. That Could Go Very Wrong](https://www.wired.com/story/story/tesla-urging-drowsy-drivers-to-use-full-self-driving-that-could-go-very-wrong/)
- - [Meta plans to launch paid, ad-free versions of Instagram and Facebook in the UK, each costing £2.99 per month on the web, and £3.99 on iOS and Android &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p7#a250926p7)<!-- TECH:END -->
+ - [Where to Go to Get Serious About Learning a Language: Lingoda, Preply, Fluenz](https://www.wired.com/story/done-with-duolingo-get-serious-about-learning-a-language/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

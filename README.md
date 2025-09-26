@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Fire TV Stick 4K Max is already $20 off ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/786445/amazon-fire-tv-stick-4k-max-october-prime-day-deals-sale)
+ - [TCL’s 8-inch Nxtpaper tablet could lure you away from the color Kindle](https://www.theverge.com/news/786479/tcl-tab-8-nxtpaper-5g-android-15-tablet)
  - [Inspiren, which provides AI-powered fall detection and other tech for senior living facilities, raised a $100M Series B, bringing its total funding to $155M &lpar;Kathleen Steele Gaivin/McKnight&#39;s ...&rpar;](http://www.techmeme.com/250926/p15#a250926p15)
  - [Anthropic plans to triple its global workforce and expand its applied AI team 5x in 2025, after growing its business clients from ~1K to 300K+ in two years &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/250926/p14#a250926p14)
- - [Perplexity launches Search API, giving developers direct access to the same web index that powers the startup&#39;s answer engine &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250926/p13#a250926p13)
- - [Dear LA, you deserve better than the Clippers’ carbon scandal](https://www.theverge.com/science/786067/clippers-kawhi-leonard-salary-cap-investigation-carbon-credit-climate-change)
- - [What Is Your Tent or Rain Jacket Made From? &lpar;2025&rpar;: Dyneema, Silpoly, X-Pac](https://www.wired.com/story/outdoor-gear-fabric-explainer/)<!-- TECH:END -->
+ - [Perplexity launches Search API, giving developers direct access to the same web index that powers the startup&#39;s answer engine &lpar;Michael Nuñez/Venturebeat&rpar;](http://www.techmeme.com/250926/p13#a250926p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

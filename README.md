@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OLX Group, an online marketplace owned by Prosus, agrees to acquire La Centrale, a French auto classifieds platform, for $1.3B in cash, expected to close in Q4 &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/250926/p4#a250926p4)
  - [The robo-advisory market, which includes companies that use AI tools to help investors pick stocks, is expected to grow from $61.75B in 2024 to $470.91B by 2029 &lpar;Joice Alves/Reuters&rpar;](http://www.techmeme.com/250926/p3#a250926p3)
  - [Why Using a Q-Tip to Clean Your Ears Is a Safety Hazard](https://www.cnet.com/health/personal-care/why-using-q-tip-clean-ears-safety-hazard/#ftag=CAD590a51e)
  - [Sources: the Trump admin plans to require chipmakers to match local output with imports and impose tariffs on companies that fail to maintain a 1:1 ratio &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p2#a250926p2)
- - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)
- - [Home Depot Promo Codes: 10% Off | September 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [Target Promo Codes and Deals: Up to 50% Off](https://www.wired.com/story/target-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

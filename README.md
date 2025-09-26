@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The delivery guy should try curling because he got potential](http://9gag.com/gag/aE0NnXK)
- - 😝 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
- - 💣 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)
+ - 😝 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
+ - 😝 [No Comment..](http://9gag.com/gag/ajPMqgQ)
+ - 💣 [Police cited an 11yo boy for brandishing his national flag](http://9gag.com/gag/aqyp5vY)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [No Comment..](http://9gag.com/gag/ajPMqgQ)<!-- MEMES:END -->
+ - 👉 [Most useless Feature](http://9gag.com/gag/apRjrq9)<!-- MEMES:END -->
 
 ---
 

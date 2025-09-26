@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo&#39;s Apple Ginza welcomes thousands to its reopening](https://appleinsider.com/articles/25/09/26/tokyos-apple-ginza-welcomes-thousands-to-its-reopening?utm_source=rss)
+ - [Checkout.com announces an employee share buyback at a $12B valuation, up 30% from $9.35B two years ago yet below $40B in 2022, and says an IPO isn&#39;t a priority &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/250926/p6#a250926p6)
  - [Instagram&amp;#8217;s &amp;#8216;pay or consent&amp;#8217; approach to ads is coming to UK after being rejected in EU](https://www.theverge.com/news/786313/meta-pay-or-consent-uk)
  - [Best Solar-Powered Home Security Cameras for 2025](https://www.cnet.com/home/security/best-solar-powered-home-security-camera/#ftag=CAD590a51e)
- - [How inaccurate AI translations of Wikipedia pages, which AI models use for training, may cause a doom spiral that further marginalizes vulnerable languages &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/250926/p5#a250926p5)
- - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
- - [Could These Eye Drops End the Need for Reading Glasses?](https://www.wired.com/story/could-these-eye-drops-end-the-need-for-reading-glasses/)<!-- TECH:END -->
+ - [How inaccurate AI translations of Wikipedia pages, which AI models use for training, may cause a doom spiral that further marginalizes vulnerable languages &lpar;Jacob Judah/MIT Technology Review&rpar;](http://www.techmeme.com/250926/p5#a250926p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

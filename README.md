@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TV giant Sinclair is putting Jimmy Kimmel back on the air](https://www.theverge.com/news/786792/jimmy-kimmel-live-sinclair-return-air)
- - [YouTube is testing AI hosts, who will share stories and trivia about the music users are listening to, in the YouTube Music app through its new Labs program &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/250926/p22#a250926p22)
- - [Apple&#39;s secret Veritas chatbot could be the key to fixing Siri](https://appleinsider.com/articles/25/09/26/apples-secret-veritas-chatbot-could-be-the-key-to-fixing-siri?utm_source=rss)
- - [Costco is already selling piles of Lego Game Boys cheaper than the Lego company](https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early)
- - [Sources: EA is nearing a deal to go private in a leveraged buyout valuing EA at ~$50B; investors include Silver Lake and Saudi Arabia&#39;s PIF; EA jumps 13%+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250926/p21#a250926p21)<!-- TECH:END -->
+ - [Insurance tech company Ethos, last valued at $2.7B in 2021, files for a US IPO ; its revenue rose 54.9% YoY to $183.7M in H1, with net income up 64% to $30.7M &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/250926/p23#a250926p23)
+ - [The TikTok deal raises more questions than answers](https://www.theverge.com/report/786748/tiktok-deal-trump-administration-legal-uncertainty)
+ - [Humanoid robots are Meta&amp;#8217;s next &amp;#8216;AR-size bet&amp;#8217;](https://www.theverge.com/column/786759/humanoid-robots-meta)
+ - [Heritage Foundation Uses Bogus Stat to Push a Trans Terrorism Classification](https://www.wired.com/story/heritage-foundation-uses-bogus-stat-to-push-a-trans-terrorism-classification/)
+ - [Best AirPods for 2025](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

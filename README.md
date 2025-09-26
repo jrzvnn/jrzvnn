@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pentagon can call DJI a Chinese Military Company, court rules](https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod)
  - [Sources: US regulators examined 200+ companies about sharp share-price gains in the lead-up to their announcements about making buying crypto a core strategy &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p17#a250926p17)
  - [Tech Billionaires Already Captured the White House. They Still Want to Be Kings](https://www.wired.com/story/tech-billionaires-communities/)
  - [Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos](https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos)
- - [iPhones still allegedly being made in China under sweatshop conditions](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
- - [ROG Xbox Ally: Price, Preorders, Release Date and How It Compares to Steam Deck](https://www.cnet.com/tech/gaming/rog-xbox-ally-price-release-date-specs-compares-steam-deck/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhones still allegedly being made in China under sweatshop conditions](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

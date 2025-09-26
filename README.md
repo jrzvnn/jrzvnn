@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Kido nursery chain was hacked by a ransomware gang called Radiant, which posted profiles of 10 children online and threatens to release more data &lpar;The Guardian&rpar;](http://www.techmeme.com/250926/p18#a250926p18)
- - [Amazon Will Cough Up $2.5 Billion for &#39;Tricking&#39; People Into Amazon Prime Subscriptions](https://www.cnet.com/news/amazon-will-cough-up-2-5-billion-for-tricking-people-into-amazon-prime-subscriptions/#ftag=CAD590a51e)
- - [Pentagon can call DJI a Chinese Military Company, court rules](https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod)
- - [Sources: US regulators examined 200+ companies about sharp share-price gains in the lead-up to their announcements about making buying crypto a core strategy &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/250926/p17#a250926p17)
- - [Tech Billionaires Already Captured the White House. They Still Want to Be Kings](https://www.wired.com/story/tech-billionaires-communities/)<!-- TECH:END -->
+ - [YouTube’s new AI experiment adds AI hosts to your music](https://www.theverge.com/news/786697/youtube-labs-ai-experiment-music-radio-hosts)
+ - [Our Favorite Wi-Fi Router Is $20 Off](https://www.wired.com/story/asus-rt-be58u-deal/)
+ - [A US court rules that the DOD can classify DJI as a &quot;Chinese Military Company&quot;, finds that there is enough evidence that DJI is supported by Chinese government &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250926/p20#a250926p20)
+ - [The Social Network sequel has a new title and release date](https://www.theverge.com/entertainment/786648/aaron-sorkin-the-social-reckoning)
+ - [The best smartwatches for Android](https://www.theverge.com/23449363/best-android-smartwatches-wear-os)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

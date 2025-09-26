@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No Comment..](http://9gag.com/gag/ajPMqgQ)
- - 😝 [Baseball player hit in face with 99mph fastball](http://9gag.com/gag/a1mqM6b)
- - 💣 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 😝 [Did you see the dude in the red dress?](http://9gag.com/gag/adB4XOM)
+ - 😝 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)
+ - 💣 [Zip tile fix everything](http://9gag.com/gag/aXPGw4z)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Better than watching a movie](http://9gag.com/gag/a5Qy7mL)<!-- MEMES:END -->
+ - 👉 [Impossibru](http://9gag.com/gag/axyngRM)<!-- MEMES:END -->
 
 ---
 

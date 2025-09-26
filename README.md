@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft launches Microsoft Marketplace, combining Azure Marketplace and Microsoft AppSource in a single destination for cloud tools and AI apps and agents &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/250925/p61#a250925p61)
+ - [A look at Intel&#39;s $28B Ohio chip factory, the largest economic development project in Ohio&#39;s history, initially set for a 2025 opening but now delayed till 2030 &lpar;Kris Maher/Wall Street Journal&rpar;](http://www.techmeme.com/250925/p60#a250925p60)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Sept. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-sept-26/#ftag=CAD590a51e)
  - [Inside Pangyo Techno Valley, South Korea&#39;s &quot;Silicon Valley&quot; that is home to 1,800+ startups, R&amp;D centers, and global tech firms, as it strives for global impact &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/250925/p59#a250925p59)
- - [Microsoft and Asus open preorders for the first Xbox handhelds, the ROG Xbox Ally for $599 and the ROG Xbox Ally X for $999 in the US, shipping October 16 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250925/p58#a250925p58)
- - [Canada&#39;s anti-money laundering agency fines crypto exchange KuCoin ~$14M for failing to report large and suspicious transactions; KuCoin appeals the decision &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/250925/p57#a250925p57)
- - [I&#39;ve Used the Wild Xiaomi 17 Pro Max, and Its Rear Screen Is Bonkers](https://www.cnet.com/tech/mobile/ive-used-the-wild-xiaomi-17-pro-max-and-its-rear-screen-is-bonkers/#ftag=CAD590a51e)
- - [Xiaomi 17 Pro and 17 Pro Max: Specs, Release Date, Price, Features](https://www.wired.com/story/xiaomi-17-pro-max-hands-on/)<!-- TECH:END -->
+ - [Microsoft and Asus open preorders for the first Xbox handhelds, the ROG Xbox Ally for $599 and the ROG Xbox Ally X for $999 in the US, shipping October 16 &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/250925/p58#a250925p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

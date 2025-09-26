@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China and its media remained quiet about the TikTok deal, a notable silence as China can still decide the app&#39;s fate; Chinese social media chatter was limited &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250926/p11#a250926p11)
+ - [I’ve got a bone to pick with ‘getting credit’ from your fitness tracker](https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia)
+ - [China and its media are quiet about the TikTok deal, a notable silence as China can still decide the app&#39;s fate; Chinese social media chatter has been limited &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250926/p11#a250926p11)
  - [Raspberry Pi upgraded its keyboard computer with mechanical switches and SSD storage](https://www.theverge.com/news/786369/raspberry-pi-500-plus-mechanical-keyboard-computer-ssd)
  - [German investigators conduct raids in relation to Northern Data, which is majority-owned by Tether and has been pivoting from crypto mining to AI computing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p10#a250926p10)
- - [11 Best 2-in-1 Laptops &lpar;2025&rpar;, WIRED-Approved and Tested](https://www.wired.com/gallery/best-2-in-1-laptops/)
- - [The Trump administration&#39;s $14B valuation of TikTok&#39;s US business falls well below previous estimates of around $40B, surprising investors who call it a bargain &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p9#a250926p9)<!-- TECH:END -->
+ - [11 Best 2-in-1 Laptops &lpar;2025&rpar;, WIRED-Approved and Tested](https://www.wired.com/gallery/best-2-in-1-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air and iPhone 17 Pro Max in real-world use, with scratches, on the AppleInsider Podcast](https://appleinsider.com/articles/25/09/26/iphone-air-and-iphone-17-pro-max-in-real-world-use-with-scratches-on-the-appleinsider-podcast?utm_source=rss)
+ - [36 Best Advent Calendars for Kids in 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars-for-kids/#ftag=CAD590a51e)
  - [Leaked letter: NLRB drops claims against Tim Cook, including that he violated workers&#39; rights with a 2021 email threatening staffers who leak confidential info &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/250926/p26#a250926p26)
  - [Apple AirPods Pro 3 Review: Still The Best for iOS](https://www.wired.com/review/apple-airpods-pro-3/)
- - [Sources: Kraken is in advanced talks to raise $200M to $300M from a strategic investor at a valuation of ~$20B, after recently raising $500M at a $15B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p25#a250926p25)
- - [Andrew Bosworth says humanoid robots, internally called &quot;Metabot&quot;, are Meta&#39;s next &quot;AR size bet&quot; and envisions licensing software to other robot makers &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/250926/p24#a250926p24)
- - [One of our favorite video doorbells is 47 percent off in the run-up to Prime Day](https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale)<!-- TECH:END -->
+ - [Sources: Kraken is in advanced talks to raise $200M to $300M from a strategic investor at a valuation of ~$20B, after recently raising $500M at a $15B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p25#a250926p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

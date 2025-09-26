@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhones still being made in China under sweatshop conditions, watchdog alleges](https://appleinsider.com/articles/25/09/26/iphones-still-being-made-in-china-under-sweatshop-conditions-watchdog-alleges?utm_source=rss)
+ - [17 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
  - [I’ve got a bone to pick with ‘getting credit’ from your fitness tracker](https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia)
  - [China and its media are quiet about the TikTok deal, a notable silence as China can still decide the app&#39;s fate; Chinese social media chatter has been limited &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/250926/p11#a250926p11)
- - [Raspberry Pi upgraded its keyboard computer with mechanical switches and SSD storage](https://www.theverge.com/news/786369/raspberry-pi-500-plus-mechanical-keyboard-computer-ssd)
- - [German investigators conduct raids in relation to Northern Data, which is majority-owned by Tether and has been pivoting from crypto mining to AI computing &lpar;Bloomberg&rpar;](http://www.techmeme.com/250926/p10#a250926p10)
- - [11 Best 2-in-1 Laptops &lpar;2025&rpar;, WIRED-Approved and Tested](https://www.wired.com/gallery/best-2-in-1-laptops/)<!-- TECH:END -->
+ - [Raspberry Pi upgraded its keyboard computer with mechanical switches and SSD storage](https://www.theverge.com/news/786369/raspberry-pi-500-plus-mechanical-keyboard-computer-ssd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

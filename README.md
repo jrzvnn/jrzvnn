@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow Gen X](http://9gag.com/gag/adB47BD)
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
- - 💣 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 😝 [Wait for it....](http://9gag.com/gag/aoyq1N3)
+ - 😝 [Still building wonders, just different kinds](http://9gag.com/gag/ae9Pbej)
+ - 💣 [Slap that guy.](http://9gag.com/gag/aVv1DxK)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Trump Trolls Erdogan: \u201cHe knows rigged elections better than anyone\u201d](http://9gag.com/gag/a0eWd1Q)<!-- MEMES:END -->
+ - 👉 [No BS for Liam](http://9gag.com/gag/aPAdBOB)<!-- MEMES:END -->
 
 ---
 

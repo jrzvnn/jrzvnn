@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
  - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 💣 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
+ - 💣 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
  - 👉 [Britain citizen: &#39;immigrants are assaulting my daughter!` Police: `it will have to wait sir, we are currently into much serious cases.` The cases:](http://9gag.com/gag/aQzNeXz)<!-- MEMES:END -->
 

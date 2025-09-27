@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 😝 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
  - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
+ - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 👉 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
  - 💣 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)<!-- MEMES:END -->
+ - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
 
 ---
 

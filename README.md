@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Friend, which launched a $129 AI-powered, always-listening necklace, plasters NYC subway with ads in $1M+ campaign that includes over 1,000 platform posters &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250927/p14#a250927p14)
  - [International Federation of Robotics: Chinese factories installed ~300K new robots in 2024, more than the rest of the world combined; US factories installed 34K &lpar;New York Times&rpar;](http://www.techmeme.com/250927/p13#a250927p13)
  - [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale)
  - [Leaked a16z decks: $25B in net returns since its 2009 founding, including $11.2B in 2021, and 56 unicorn investments in the past 10 years, the most of any firm &lpar;Eric Newcomer/Newcomer&rpar;](http://www.techmeme.com/250927/p12#a250927p12)
- - [Cloudflare combines a new Email Sending feature with Routing into a unified Email Service to let developers send emails from Cloudflare Workers, in private beta &lpar;Cloudflare&rpar;](http://www.techmeme.com/250927/p11#a250927p11)
- - [You Can Now Get 3D Printed Shoes and We Can Never Go Back](https://www.cnet.com/tech/computing/you-can-now-get-3d-printed-shoes-and-we-can-never-go-back/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare combines a new Email Sending feature with Routing into a unified Email Service to let developers send emails from Cloudflare Workers, in private beta &lpar;Cloudflare&rpar;](http://www.techmeme.com/250927/p11#a250927p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

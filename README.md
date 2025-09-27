@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)
- - 😝 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
- - 💣 [When Andy got a little too specific in his comments on the assailants background:](http://9gag.com/gag/awyGQLD)
+ - 😝 [Fortunately, there are attentive people. He saves a life](http://9gag.com/gag/a2vj4mO)
+ - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Uploading my old 9gag collection 104](http://9gag.com/gag/aryrg3y)<!-- MEMES:END -->
+ - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
 
 ---
 

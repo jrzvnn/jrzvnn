@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
+ - 👉 [This one sparks joy.](http://9gag.com/gag/aPAdjMV)<!-- MEMES:END -->
 
 ---
 

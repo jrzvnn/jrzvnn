@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
- - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 💣 [Fellow Gen X](http://9gag.com/gag/adB47BD)
+ - 😝 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
+ - 😝 [Fellow Gen X](http://9gag.com/gag/adB47BD)
+ - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
+ - 👉 [Has someone posted this already? Well, just in case they haven&#39;t, here it is again...](http://9gag.com/gag/apRjQ98)<!-- MEMES:END -->
 
 ---
 

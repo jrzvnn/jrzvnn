@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The LA Fires Spewed Out Toxic Nanoparticles. He Made It His Mission to Trace Them](https://www.wired.com/story/the-la-fires-spewed-out-toxic-nanoparticles-he-made-it-his-mission-to-trace-them/)
  - [The 24 Best Movies on Amazon Prime Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV](https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/)
- - [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)
- - [An interview with California state Senator Scott Wiener on his new AI safety bill SB 53, the bill&#39;s scope, his focus on AI safety bills, AI PACs, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250927/p7#a250927p7)<!-- TECH:END -->
+ - [Best Handheld Gaming Consoles Right Now](https://www.cnet.com/tech/gaming/best-handheld-gaming-device/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms, as Recommended by a Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

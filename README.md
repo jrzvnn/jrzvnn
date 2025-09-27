@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Weekend](http://9gag.com/gag/aYQn4Rx)
- - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
- - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 😝 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
+ - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [This one sparks joy.](http://9gag.com/gag/aPAdjMV)<!-- MEMES:END -->
+ - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
 
 ---
 

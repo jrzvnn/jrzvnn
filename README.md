@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He had me at K-9.](http://9gag.com/gag/aXPGq6b)
  - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 😝 [Most useless Feature](http://9gag.com/gag/apRjrq9)
- - 💣 [Slap that guy.](http://9gag.com/gag/aVv1DxK)
+ - 💣 [Most useless Feature](http://9gag.com/gag/apRjrq9)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)<!-- MEMES:END -->
+ - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
 
 ---
 

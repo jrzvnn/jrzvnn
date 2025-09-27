@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
- - 💣 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
+ - 😝 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
+ - 😝 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)
+ - 💣 [Not surprised](http://9gag.com/gag/a87X8mQ)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
  - 👉 [This one sparks joy.](http://9gag.com/gag/aPAdjMV)<!-- MEMES:END -->
 

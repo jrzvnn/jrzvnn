@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 💣 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
  - 👉 [This one sparks joy.](http://9gag.com/gag/aPAdjMV)<!-- MEMES:END -->
 

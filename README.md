@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV](https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/)
- - [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)
- - [An interview with California state Senator Scott Wiener on his new AI safety bill SB 53, the bill&#39;s scope, his focus on AI safety bills, AI PACs, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250927/p7#a250927p7)
- - [This Is the Equipment Experts Recommend for Fast Home Internet](https://www.cnet.com/home/internet/this-is-the-equipment-experts-recommend-for-fast-home-internet/#ftag=CAD590a51e)
- - [CNET Editors Tested Camping Gear All Summer: Here Are Our Favorite Gadgets](https://www.cnet.com/news/cnets-favorite-camping-tech-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Handheld Gaming Consoles Right Now](https://www.cnet.com/tech/gaming/best-handheld-gaming-device/#ftag=CAD590a51e)
+ - [Best Smart Home Gyms, as Recommended by a Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
+ - [Apple&#39;s iPhone 17 vs. Samsung&#39;s Galaxy S25: Base Flagship Phones Compared](https://www.cnet.com/tech/mobile/apples-iphone-17-vs-samsungs-galaxy-s25-base-flagship-phones-compared/#ftag=CAD590a51e)
+ - [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

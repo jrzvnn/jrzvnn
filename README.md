@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doggy style](http://9gag.com/gag/a4PrbXv)
- - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 💣 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
+ - 😝 [Good luck](http://9gag.com/gag/aKGNVwb)
+ - 😝 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
+ - 💣 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)<!-- MEMES:END -->
+ - 👉 [Not surprised](http://9gag.com/gag/a87X8mQ)<!-- MEMES:END -->
 
 ---
 

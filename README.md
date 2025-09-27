@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s central bank opens a digital yuan hub in Shanghai; a Chinese state media report says the hub will oversee cross-border payments and blockchain tech &lpar;Foster Wong/Bloomberg&rpar;](http://www.techmeme.com/250927/p5#a250927p5)
  - [At an all-hands, AWS CEO Matt Garman criticized staff for slow product rollouts and demonstrated a new agentic AI product for internal testing called Quick &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/250927/p4#a250927p4)
  - [Google agrees to guarantee $1.4B of AI computing startup Fluidstack&#39;s $3B, 10-year agreement with Cipher Mining and gets the right to buy a 5.4% stake in Cipher &lpar;Bloomberg&rpar;](http://www.techmeme.com/250927/p3#a250927p3)
  - [eBay agrees to acquire Tise, a social marketplace for secondhand fashion and interior design items that has raised $45M in funding, for an undisclosed sum &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250927/p2#a250927p2)
- - [Swiss microfluidic chip-cooling tech startup Corintis raised a $24M Series A, a source says at a $400M valuation, and announces adding Lip-Bu Tan to its board &lpar;Reuters&rpar;](http://www.techmeme.com/250927/p1#a250927p1)
- - [Best Grills for 2025: We Tested Dozens to Find the Best Grill in Every Category](https://www.cnet.com/home/yard-and-outdoors/best-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Smart Scales for 2025 and How to Get the Most Accurate Reading](https://www.cnet.com/health/fitness/best-smart-scale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

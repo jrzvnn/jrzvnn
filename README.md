@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our 10 Favorite Stand Mixers for Making Year-Round Treats &lpar;2025&rpar;](https://www.wired.com/gallery/best-stand-mixer/)
  - [The LA Fires Spewed Out Toxic Nanoparticles. He Made It His Mission to Trace Them](https://www.wired.com/story/the-la-fires-spewed-out-toxic-nanoparticles-he-made-it-his-mission-to-trace-them/)
  - [The 24 Best Movies on Amazon Prime Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV](https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/)
- - [Best Handheld Gaming Consoles Right Now](https://www.cnet.com/tech/gaming/best-handheld-gaming-device/#ftag=CAD590a51e)
- - [Best Smart Home Gyms, as Recommended by a Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Handheld Gaming Consoles Right Now](https://www.cnet.com/tech/gaming/best-handheld-gaming-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
  - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
- - 💣 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
+ - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
+ - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Weekend](http://9gag.com/gag/aYQn4Rx)<!-- MEMES:END -->
+ - 👉 [Another question like that one and it will end with the first episode. No more contestants.](http://9gag.com/gag/a4Pr7qv)<!-- MEMES:END -->
 
 ---
 

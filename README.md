@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Surge Protectors of 2025: I Tested 16 Surge Protectors to Find the Best](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
  - [Salt Lake City-based Filevine, which offers tools to help manage legal workflows, raised $400M from Insight Partners, Accel, Halo Fund, and others in two rounds &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250926/p33#a250926p33)
+ - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-27/#ftag=CAD590a51e)
- - [Q&amp;A with reinforcement learning pioneer Richard Sutton on why LLMs are not the path to achieving human intelligence, world models, continual learning, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250926/p32#a250926p32)
- - [If You&#39;re a Fan of &#39;Gravity Falls&#39;, You Have to Check Out This New Netflix Series](https://www.cnet.com/tech/services-and-software/if-youre-fan-gravity-falls-you-have-to-check-out-this-new-netflix-series/#ftag=CAD590a51e)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with reinforcement learning pioneer Richard Sutton on why LLMs are not the path to achieving human intelligence, world models, continual learning, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250926/p32#a250926p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

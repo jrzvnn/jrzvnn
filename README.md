@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 😝 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
- - 💣 [Fellow Gen X](http://9gag.com/gag/adB47BD)
+ - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
+ - 💣 [Slap that guy.](http://9gag.com/gag/aVv1DxK)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
+ - 👉 [As long as there is a 1% chance of winning its a fair and balanced fight](http://9gag.com/gag/aGyN1Qz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weekend](http://9gag.com/gag/aYQn4Rx)
- - 😝 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
- - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
+ - 😝 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
+ - 💣 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
+ - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
 
 ---
 

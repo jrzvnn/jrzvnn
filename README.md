@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is ramping up efforts to source manufacturing machinery in India, essential for making iPhones locally, and is working with around 17 suppliers &lpar;Danish Khan/Moneycontrol&rpar;](http://www.techmeme.com/250927/p8#a250927p8)
+ - [Factor Protein Plus Meals Review &lpar;2025&rpar;: Filling, Not Fattening](https://www.wired.com/review/factor-high-protein-meal-delivery/)
+ - [I Just Posted to Instagram Using Only an AI Agent. I&#39;m Not Sure I Would Again](https://www.cnet.com/tech/services-and-software/i-just-posted-to-instagram-using-only-an-ai-agent-im-not-sure-i-would-again/#ftag=CAD590a51e)
  - [Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers](https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/)
- - [When this EV maker collapsed, its customers became the car company](https://www.theverge.com/transportation/785872/fisker-ocean-ownership-association-software-recall)
- - [What to expect from Amazon’s big fall hardware event on Tuesday](https://www.theverge.com/news/786455/amazon-fall-hardware-event-2025-what-to-expect-alexa-echo-kindle)
- - [Our 10 Favorite Stand Mixers for Making Year-Round Treats &lpar;2025&rpar;](https://www.wired.com/gallery/best-stand-mixer/)
- - [The LA Fires Spewed Out Toxic Nanoparticles. He Made It His Mission to Trace Them](https://www.wired.com/story/the-la-fires-spewed-out-toxic-nanoparticles-he-made-it-his-mission-to-trace-them/)<!-- TECH:END -->
+ - [13 Superfoods Found in Your Fridge That Keep Your Kidneys Healthy](https://www.cnet.com/health/nutrition/save-your-kidneys-and-your-budget-with-these-13-superfoods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

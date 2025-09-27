@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NC Judge Who Released Iryna Zarutska&#39;s Killer Faces Removal As Thousands Sign Petition for Her Ouster](http://9gag.com/gag/azxDroK)
- - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 💣 [Tuapse, Russia. Modern days.](http://9gag.com/gag/aZZVp4Q)
+ - 😝 [Wait for it....](http://9gag.com/gag/aoyq1N3)
+ - 😝 [Transformers](http://9gag.com/gag/a2vjrvp)
+ - 💣 [He had me at K-9.](http://9gag.com/gag/aXPGq6b)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
  - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
 

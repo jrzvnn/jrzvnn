@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If You&#39;re a Fan of &#39;Gravity Falls&#39;, You Have to Check Out This New Netflix Series](https://www.cnet.com/tech/services-and-software/if-youre-fan-gravity-falls-you-have-to-check-out-this-new-netflix-series/#ftag=CAD590a51e)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
  - [Orico MiniPro Dock Case review: Mini Mac Pro, mini bandwidth](https://appleinsider.com/articles/25/09/26/orico-minipro-dock-case-review-mini-mac-pro-mini-bandwidth?utm_source=rss)
- - [The Blink security camera app is down, but Amazon is working on it](https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error)
- - [Sources: ByteDance will maintain ownership of TikTok US&#39; revenue-generating business operations such as e-commerce and advertising &lpar;Reuters&rpar;](http://www.techmeme.com/250926/p31#a250926p31)
- - [How developers are using Apple&#39;s local AI models in iOS 26: Lil Artist story generation, MoneyCoach&#39;s spending insights, F1 race summaries in Lights Out, more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/250926/p29#a250926p29)
- - [Trump’s new target: Microsoft head of global affairs Lisa Monaco](https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco)<!-- TECH:END -->
+ - [Facebook and Instagram Are Now Offering No-Ad Paid Subscriptions in the UK](https://www.cnet.com/tech/services-and-software/facebook-and-instagram-are-now-offering-no-ad-paid-subscriptions-in-the-uk/#ftag=CAD590a51e)
+ - [The Blink security camera app was down, but Amazon rolled out a fix](https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

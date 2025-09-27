@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The LA Fires Spewed Out Toxic Nanoparticles. He Made It His Mission to Trace Them](https://www.wired.com/story/the-la-fires-spewed-out-toxic-nanoparticles-he-made-it-his-mission-to-trace-them/)
+ - [The 24 Best Movies on Amazon Prime Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
  - [Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV](https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/)
- - [Best Handheld Gaming Consoles Right Now](https://www.cnet.com/tech/gaming/best-handheld-gaming-device/#ftag=CAD590a51e)
- - [Best Smart Home Gyms, as Recommended by a Fitness Expert](https://www.cnet.com/health/fitness/best-smart-home-gym/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone 17 vs. Samsung&#39;s Galaxy S25: Base Flagship Phones Compared](https://www.cnet.com/tech/mobile/apples-iphone-17-vs-samsungs-galaxy-s25-base-flagship-phones-compared/#ftag=CAD590a51e)
- - [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)<!-- TECH:END -->
+ - [WIRED Roundup: Groypers Are Going Mainstream](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-groypers-are-going-mainstream/)
+ - [An interview with California state Senator Scott Wiener on his new AI safety bill SB 53, the bill&#39;s scope, his focus on AI safety bills, AI PACs, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250927/p7#a250927p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

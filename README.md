@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 💣 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)
+ - 😝 [Good luck](http://9gag.com/gag/aKGNVwb)
+ - 😝 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)
+ - 💣 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Slap that guy.](http://9gag.com/gag/aVv1DxK)<!-- MEMES:END -->
+ - 👉 [Meme origins](http://9gag.com/gag/a9yNA4W)<!-- MEMES:END -->
 
 ---
 

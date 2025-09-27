@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked Meta internal document shows updated training protocols for its AI chatbot to refuse any prompts involving sexual roleplay with minors &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/250927/p17#a250927p17)
  - [OpenAI executives working on Stargate say that it costs about $50B to build a data center with roughly 1 GW of capacity, with $35B going toward AI chips &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250927/p16#a250927p16)
  - [Fermi, a data center real estate investment trust co-founded by former Energy Secretary Rick Perry, aims to raise $550M in a US IPO at a $13.16B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250927/p15#a250927p15)
  - [5 Foods Secretly Ruining Your Nonstick Pans](https://www.cnet.com/news/5-foods-secretly-ruining-your-nonstick-pans/#ftag=CAD590a51e)
- - [Friend, which launched a $129 AI-powered, always-listening necklace, plasters NYC subway with ads in $1M+ campaign that includes over 1,000 platform posters &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250927/p14#a250927p14)
- - [When to Stream &#39;Tulsa King&#39; Season 3, Episode 2 on Paramount Plus](https://www.cnet.com/tech/services-and-software/when-to-stream-tulsa-king-season-3-episode-2-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Friend, which launched a $129 AI-powered, always-listening necklace, plasters NYC subway with ads in $1M+ campaign that includes over 1,000 platform posters &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250927/p14#a250927p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

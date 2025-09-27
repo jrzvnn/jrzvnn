@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lenovo Legion 7i Gen 10 Review: An All-White Wonder](https://www.wired.com/review/lenovo-legion-7i-gen-10/)
+ - [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam)
+ - [Can Google be trusted without a break up?](https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust)
  - [Sources: Apple is ramping up efforts to source manufacturing machinery in India, essential for making iPhones locally, and is working with around 17 suppliers &lpar;Danish Khan/Moneycontrol&rpar;](http://www.techmeme.com/250927/p8#a250927p8)
- - [Factor Protein Plus Meals Review &lpar;2025&rpar;: Filling, Not Fattening](https://www.wired.com/review/factor-high-protein-meal-delivery/)
- - [I Just Posted to Instagram Using Only an AI Agent. I&#39;m Not Sure I Would Again](https://www.cnet.com/tech/services-and-software/i-just-posted-to-instagram-using-only-an-ai-agent-im-not-sure-i-would-again/#ftag=CAD590a51e)
- - [Inside the Nuclear Bunkers, Mines, and Mountains Being Retrofitted as Data Centers](https://www.wired.com/story/inside-the-nuclear-bunkers-mines-and-mountains-being-retrofitted-as-data-centers/)
- - [13 Superfoods Found in Your Fridge That Keep Your Kidneys Healthy](https://www.cnet.com/health/nutrition/save-your-kidneys-and-your-budget-with-these-13-superfoods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Factor Protein Plus Meals Review &lpar;2025&rpar;: Filling, Not Fattening](https://www.wired.com/review/factor-high-protein-meal-delivery/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

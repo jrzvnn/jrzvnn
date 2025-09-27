@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
- - 😝 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
- - 💣 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
+ - 😝 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)
+ - 😝 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
+ - 💣 [When Andy got a little too specific in his comments on the assailants background:](http://9gag.com/gag/awyGQLD)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
+ - 👉 [Uploading my old 9gag collection 104](http://9gag.com/gag/aryrg3y)<!-- MEMES:END -->
 
 ---
 

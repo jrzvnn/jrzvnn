@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now this is a Tourette syndrome that i believe is real.](http://9gag.com/gag/a0eWdbZ)
- - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
- - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 👉 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)<!-- MEMES:END -->
+ - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)
+ - 💣 [Slap that guy.](http://9gag.com/gag/aVv1DxK)
+ - 😝 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)
+ - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
 
 ---
 

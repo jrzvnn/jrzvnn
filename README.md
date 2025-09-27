@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of Ant International, Ant Group&#39;s cross-border payments unit using AI and blockchain for treasury management, which handled $1.1T in cash flow in 2024 &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/250927/p19#a250927p19)
+ - [You Can Now Get 3D Printed Shoes and We Can Never Go Back](https://www.cnet.com/tech/computing/you-can-now-get-3d-printed-shoes-and-we-can-never-go-back/#ftag=CAD590a51e)
+ - [LCD vs. LED: Which TV Technology Should You Choose?](https://www.cnet.com/tech/home-entertainment/lcd-vs-led-which-tv-technology-should-you-choose/#ftag=CAD590a51e)
  - [A fire at South Korea&#39;s National Information Resources Service&#39;s data center shut down 647 government IT systems, disrupting services such as postal banking &lpar;Lee Jung-joo/The Korea Herald&rpar;](http://www.techmeme.com/250927/p18#a250927p18)
- - [Leaked Meta internal document shows updated training protocols for its AI chatbot to refuse any prompts involving sexual roleplay with minors &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/250927/p17#a250927p17)
- - [OpenAI executives working on Stargate say that it costs about $50B to build a data center with roughly 1 GW of capacity, with $35B going toward AI chips &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/250927/p16#a250927p16)
- - [Fermi, a data center real estate investment trust co-founded by former Energy Secretary Rick Perry, aims to raise $550M in a US IPO at a $13.16B valuation &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250927/p15#a250927p15)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 28, #1562](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-28-1562/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

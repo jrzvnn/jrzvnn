@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fortunately, there are attentive people. He saves a life](http://9gag.com/gag/a2vj4mO)
- - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
- - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 💣 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
+ - 👉 [Weekend](http://9gag.com/gag/aYQn4Rx)<!-- MEMES:END -->
 
 ---
 

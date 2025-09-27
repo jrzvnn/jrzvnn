@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fermi, a data center REIT co-founded by Rick Perry, aims to raise $550M in its IPO at a $13.16B valuation, offering 25M shares priced between $18 and $22 each &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/250927/p15#a250927p15)
+ - [5 Foods Secretly Ruining Your Nonstick Pans](https://www.cnet.com/news/5-foods-secretly-ruining-your-nonstick-pans/#ftag=CAD590a51e)
  - [Friend, which launched a $129 AI-powered, always-listening necklace, plasters NYC subway with ads in $1M+ campaign that includes over 1,000 platform posters &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/250927/p14#a250927p14)
  - [When to Stream &#39;Tulsa King&#39; Season 3, Episode 2 on Paramount Plus](https://www.cnet.com/tech/services-and-software/when-to-stream-tulsa-king-season-3-episode-2-on-paramount-plus/#ftag=CAD590a51e)
- - [International Federation of Robotics: Chinese factories installed ~300K new robots in 2024, more than the rest of the world combined; US factories installed 34K &lpar;New York Times&rpar;](http://www.techmeme.com/250927/p13#a250927p13)
- - [You Can Now Get 3D Printed Shoes and We Can Never Go Back](https://www.cnet.com/tech/computing/you-can-now-get-3d-printed-shoes-and-we-can-never-go-back/#ftag=CAD590a51e)
- - [Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week](https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale)<!-- TECH:END -->
+ - [International Federation of Robotics: Chinese factories installed ~300K new robots in 2024, more than the rest of the world combined; US factories installed 34K &lpar;New York Times&rpar;](http://www.techmeme.com/250927/p13#a250927p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

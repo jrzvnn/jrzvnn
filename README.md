@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swiss microfluidic chip-cooling tech startup Corintis raised a $24M Series A, a source says at a $400M valuation, and announces adding Lip-Bu Tan to its board &lpar;Reuters&rpar;](http://www.techmeme.com/250927/p1#a250927p1)
  - [Best Surge Protectors of 2025: I Tested 16 Surge Protectors to Find the Best](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
  - [Salt Lake City-based Filevine, which offers tools to help manage legal workflows, raised $400M from Insight Partners, Accel, Halo Fund, and others in two rounds &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250926/p33#a250926p33)
  - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-27/#ftag=CAD590a51e)
- - [Q&amp;A with reinforcement learning pioneer Richard Sutton on why LLMs are not the path to achieving human intelligence, world models, continual learning, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250926/p32#a250926p32)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-27/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

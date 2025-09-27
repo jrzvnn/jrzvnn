@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Buds3 FE Review: Better AirPods for Android](https://www.wired.com/review/samsung-galaxy-buds3-fe/)
  - [Lenovo Legion 7i Gen 10 Review: An All-White Wonder](https://www.wired.com/review/lenovo-legion-7i-gen-10/)
  - [The strangest game of the year is a channel-surfing simulator](https://www.theverge.com/games/785848/blippo-plus-review-switch-steam)
  - [Can Google be trusted without a break up?](https://www.theverge.com/policy/786930/google-doj-ad-tech-remedies-break-up-trust)
- - [Sources: Apple is ramping up efforts to source manufacturing machinery in India, essential for making iPhones locally, and is working with around 17 suppliers &lpar;Danish Khan/Moneycontrol&rpar;](http://www.techmeme.com/250927/p8#a250927p8)
- - [Factor Protein Plus Meals Review &lpar;2025&rpar;: Filling, Not Fattening](https://www.wired.com/review/factor-high-protein-meal-delivery/)<!-- TECH:END -->
+ - [Sources: Apple is ramping up efforts to source manufacturing machinery in India, essential for making iPhones locally, and is working with around 17 suppliers &lpar;Danish Khan/Moneycontrol&rpar;](http://www.techmeme.com/250927/p8#a250927p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

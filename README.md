@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Cloudflare combines a new Email Sending feature with Routing into a unified Email Service to let developers send emails from Cloudflare Workers, in private beta &lpar;Cloudflare&rpar;](http://www.techmeme.com/250927/p11#a250927p11)
+ - [You Can Now Get 3D Printed Shoes and We Can Never Go Back](https://www.cnet.com/tech/computing/you-can-now-get-3d-printed-shoes-and-we-can-never-go-back/#ftag=CAD590a51e)
  - [Oracle, whose expenses are rising as it begins to fulfill massive cloud infrastructure deals, turned cash flow negative this year for the first time since 1992 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/250927/p10#a250927p10)
  - [The Best Body Pillow, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-body-pillow/)
- - [An App Used to Dox Charlie Kirk Critics Doxed Its Own Users Instead](https://www.wired.com/story/app-used-to-dox-charlie-kirk-critics-doxed-its-own-users-instead/)
- - [Why YouTube is key to Google&#39;s success in AI, with YouTube&#39;s AI enhancements making video content more monetizable than text-based content in Search &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/250927/p9#a250927p9)<!-- TECH:END -->
+ - [An App Used to Dox Charlie Kirk Critics Doxed Its Own Users Instead](https://www.wired.com/story/app-used-to-dox-charlie-kirk-critics-doxed-its-own-users-instead/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

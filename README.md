@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 😝 [Remembering good ol days](http://9gag.com/gag/aO8NdZ6)
- - 💣 [Slap that guy.](http://9gag.com/gag/aVv1DxK)
+ - 😝 [Million year old water under microscope](http://9gag.com/gag/a87X4VQ)
+ - 😝 [You can see his soul leaving his body](http://9gag.com/gag/aRBNepM)
+ - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
  - 😝 [\ud83d\udea8THE WAIT IS OVER\ud83d\udea8 Sonic Racing: CrossWorlds is available on all platforms NOW!](http://9gag.com/gag/aByN1M2)
- - 👉 [As long as there is a 1% chance of winning its a fair and balanced fight](http://9gag.com/gag/aGyN1Qz)<!-- MEMES:END -->
+ - 👉 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)<!-- MEMES:END -->
 
 ---
 

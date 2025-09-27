@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay agrees to acquire Tise, a social marketplace for secondhand fashion and interior design items that has raised $45M in funding, for an undisclosed sum &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/250927/p2#a250927p2)
  - [Swiss microfluidic chip-cooling tech startup Corintis raised a $24M Series A, a source says at a $400M valuation, and announces adding Lip-Bu Tan to its board &lpar;Reuters&rpar;](http://www.techmeme.com/250927/p1#a250927p1)
- - [Best Surge Protectors of 2025: I Tested 16 Surge Protectors to Find the Best](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)
- - [Salt Lake City-based Filevine, which offers tools to help manage legal workflows, raised $400M from Insight Partners, Accel, Halo Fund, and others in two rounds &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/250926/p33#a250926p33)
- - [Best Power Bank for iPhones in 2025](https://www.cnet.com/tech/mobile/best-power-bank-for-iphone/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Grills for 2025: We Tested Dozens to Find the Best Grill in Every Category](https://www.cnet.com/home/yard-and-outdoors/best-grill/#ftag=CAD590a51e)
+ - [The 25 Best iPhone 16 and iPhone 16 Pro Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-16-and-iphone-16-pro-cases/#ftag=CAD590a51e)
+ - [Best Surge Protectors of 2025: I Tested 16 Surge Protectors to Find the Best](https://www.cnet.com/news/best-surge-protector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

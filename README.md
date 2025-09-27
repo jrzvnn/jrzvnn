@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good luck](http://9gag.com/gag/aKGNVwb)
- - 😝 [This is how derailed bogeys are put back on track.](http://9gag.com/gag/aO8NBpv)
- - 💣 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
+ - 😝 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
+ - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Meme origins](http://9gag.com/gag/a9yNA4W)<!-- MEMES:END -->
+ - 👉 [Few hours after incident over Alaska the Pentagon has summoned military officials from around the world for a gathering in Virginia - Pete Hegseth has ordered hundreds of the U.S. military\u2019s generals and admirals to gather on short notice.](http://9gag.com/gag/aE0NR89)<!-- MEMES:END -->
 
 ---
 

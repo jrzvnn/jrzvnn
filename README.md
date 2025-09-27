@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Sept. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-sept-27/#ftag=CAD590a51e)
  - [Q&amp;A with reinforcement learning pioneer Richard Sutton on why LLMs are not the path to achieving human intelligence, world models, continual learning, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/250926/p32#a250926p32)
  - [If You&#39;re a Fan of &#39;Gravity Falls&#39;, You Have to Check Out This New Netflix Series](https://www.cnet.com/tech/services-and-software/if-youre-fan-gravity-falls-you-have-to-check-out-this-new-netflix-series/#ftag=CAD590a51e)
  - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Orico MiniPro Dock Case review: Mini Mac Pro, mini bandwidth](https://appleinsider.com/articles/25/09/26/orico-minipro-dock-case-review-mini-mac-pro-mini-bandwidth?utm_source=rss)
- - [Facebook and Instagram Are Now Offering No-Ad Paid Subscriptions in the UK](https://www.cnet.com/tech/services-and-software/facebook-and-instagram-are-now-offering-no-ad-paid-subscriptions-in-the-uk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Orico MiniPro Dock Case review: Mini Mac Pro, mini bandwidth](https://appleinsider.com/articles/25/09/26/orico-minipro-dock-case-review-mini-mac-pro-mini-bandwidth?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

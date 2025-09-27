@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with California state Senator Scott Wiener on his new AI safety bill SB 53, the bill&#39;s scope, his focus on AI safety bills, AI PACs, and more &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/250927/p7#a250927p7)
  - [Premier League Soccer: Livestream Brentford vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brentford-vs-man-united-from-anywhere/#ftag=CAD590a51e)
  - [Surprisingly, Your HSA Might Cover These 7 Wellness Devices](https://www.cnet.com/health/hsa-might-cover-wellness-devices/#ftag=CAD590a51e)
  - [CNET Editors Tested Camping Gear All Summer: Here Are Our Favorite Gadgets](https://www.cnet.com/news/cnets-favorite-camping-tech-gear/#ftag=CAD590a51e)
- - [Best Desktop Computer for 2025: Top Picks for Macs and PCs](https://www.cnet.com/tech/computing/best-desktop-computer/#ftag=CAD590a51e)
- - [Raleigh One e-bike review: redemption tour](https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco)<!-- TECH:END -->
+ - [Best Desktop Computer for 2025: Top Picks for Macs and PCs](https://www.cnet.com/tech/computing/best-desktop-computer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)
- - 😝 [Uploading my old 9gag collection 104](http://9gag.com/gag/aryrg3y)
- - 💣 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 😝 [He&#39;s technically right](http://9gag.com/gag/a5QyMPL)
- - 👉 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)<!-- MEMES:END -->
+ - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
+ - 👉 [Would you like to know more?](http://9gag.com/gag/abAmM7L)<!-- MEMES:END -->
 
 ---
 

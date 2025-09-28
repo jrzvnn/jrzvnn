@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 😝 [Acceptable bullying](http://9gag.com/gag/a6Z3VLq)
- - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 💣 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
+ - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
  - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---

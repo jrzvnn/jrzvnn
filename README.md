@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Larry Ellison’s quest to run the world](https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world)
  - [How JD Vance played a key role in the TikTok US deal, amid concerns about the VP acting as a corporate dealmaker in the forced spin-off of a private company &lpar;Washington Post&rpar;](http://www.techmeme.com/250928/p17#a250928p17)
  - [Since 2019, Brazil&#39;s courts have developed or implemented over 140 AI projects that have helped make the country&#39;s overburdened judicial system more efficient &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250928/p16#a250928p16)
  - [Jaguars vs. 49ers Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/jaguars-vs-49ers-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
- - [Bears vs. Raiders Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/bears-vs-raiders-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
- - [Colts vs. Rams Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/colts-vs-rams-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bears vs. Raiders Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/bears-vs-raiders-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

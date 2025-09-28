@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [SanDisk Creator Desk Drive review: Pretty, but too basic and expensive](https://appleinsider.com/articles/25/09/28/sandisk-creator-desk-drive-review-pretty-but-too-basic-and-expensive?utm_source=rss)
  - [A profile of digital microlender Tala, which has an annualized revenue of $340M but remains unprofitable 11 years in, as it plans to double its lending in 2027 &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250928/p18#a250928p18)
  - [Larry Ellison’s quest to run the world](https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world)
- - [How JD Vance played a key role in the TikTok US deal, amid concerns about the VP acting as a corporate dealmaker in the forced spin-off of a private company &lpar;Washington Post&rpar;](http://www.techmeme.com/250928/p17#a250928p17)
- - [Since 2019, Brazil&#39;s courts have developed or implemented over 140 AI projects that have helped make the country&#39;s overburdened judicial system more efficient &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250928/p16#a250928p16)<!-- TECH:END -->
+ - [The Absolute Best K-Dramas You Can Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-k-dramas-on-netflix-now/#ftag=CAD590a51e)
+ - [How JD Vance played a key role in the TikTok US deal, amid concerns about the VP acting as a corporate dealmaker in the forced spin-off of a private company &lpar;Washington Post&rpar;](http://www.techmeme.com/250928/p17#a250928p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

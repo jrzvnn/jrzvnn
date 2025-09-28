@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 😝 [Exactly one year ago today, this classic was born.](http://9gag.com/gag/a4Pr7Zm)
- - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
- - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
+ - 😝 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
+ - 😝 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)
+ - 💣 [They are all around us](http://9gag.com/gag/aAyN3dL)
+ - 😝 [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
+ - 👉 [Stop the glaze](http://9gag.com/gag/aPAdYxR)<!-- MEMES:END -->
 
 ---
 

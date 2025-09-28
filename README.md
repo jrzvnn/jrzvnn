@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Justin Sun, who was facing an SEC fraud lawsuit before investing $90M in Trump family cryptocurrencies and becoming a business associate of Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250927/p22#a250927p22)
  - [A look at the setbacks facing the US DOD&#39;s Replicator program that seeks to quickly produce low-cost drones and other autonomous weapons to counter China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250927/p21#a250927p21)
  - [Lowest price ever: 15&quot; MacBook Air M3, 24GB, 512GB plunges to $1,099 &lpar;$600 off&rpar;](https://appleinsider.com/articles/25/09/27/lowest-price-ever-15-macbook-air-m3-24gb-512gb-plunges-to-1099-600-off?utm_source=rss)
  - [Q&amp;A with Oura CEO Tom Hale on why many CEOs love its rings, competition from Apple, and more; Oura sold 2.5M rings in 2024 and expects $1B revenue in 2025 &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/250927/p20#a250927p20)
- - [Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record)
- - [Factor Protein Plus Meals Review &lpar;2025&rpar;: Filling, Not Fattening](https://www.wired.com/review/factor-high-protein-meal-delivery/)<!-- TECH:END -->
+ - [Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record](https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

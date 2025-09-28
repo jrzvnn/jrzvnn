@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
- - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 💣 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
  - 😝 [Weekend](http://9gag.com/gag/aYQn4Rx)
- - 👉 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)<!-- MEMES:END -->
+ - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 💣 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
+ - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
+ - 👉 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)<!-- MEMES:END -->
 
 ---
 

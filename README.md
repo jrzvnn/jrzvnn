@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
  - 😝 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
- - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 😝 [Stop the glaze](http://9gag.com/gag/aPAdYxR)
- - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
+ - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
 
 ---
 

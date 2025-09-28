@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not surprised](http://9gag.com/gag/a87X8mQ)
- - 😝 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
- - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
- - 😝 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)
- - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 😝 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)
+ - 💣 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
+ - 😝 [Would you like to know more?](http://9gag.com/gag/abAmM7L)
+ - 👉 [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)<!-- MEMES:END -->
 
 ---
 

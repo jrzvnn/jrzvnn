@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
- - 😝 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
- - 💣 [That&#39;s one way to dismount a motorcycle](http://9gag.com/gag/aZZVBK9)
+ - 😝 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
+ - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Another question like that one and it will end with the first episode. No more contestants.](http://9gag.com/gag/a4Pr7qv)<!-- MEMES:END -->
+ - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
 
 ---
 

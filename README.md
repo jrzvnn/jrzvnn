@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not surprised](http://9gag.com/gag/a87X8mQ)
  - 😝 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
- - 😝 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
- - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
- - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
+ - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 😝 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)
+ - 👉 [I wish I knew...](http://9gag.com/gag/a5QynNE)<!-- MEMES:END -->
 
 ---
 

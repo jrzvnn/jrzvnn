@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Andy got a little too specific in his comments on the assailants background:](http://9gag.com/gag/awyGQLD)
  - 😝 [Not surprised](http://9gag.com/gag/a87X8mQ)
- - 💣 [Meme origins](http://9gag.com/gag/a9yNA4W)
+ - 😝 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
+ - 💣 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Also I will need a designated powerplant to operate](http://9gag.com/gag/aYQng6x)<!-- MEMES:END -->
+ - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
 
 ---
 

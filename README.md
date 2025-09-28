@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)
- - 😝 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
- - 💣 [Would you like to know more?](http://9gag.com/gag/abAmM7L)
- - 😝 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
- - 👉 [They are all around us](http://9gag.com/gag/aAyN3dL)<!-- MEMES:END -->
+ - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
+ - 👉 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)<!-- MEMES:END -->
 
 ---
 

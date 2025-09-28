@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another question like that one and it will end with the first episode. No more contestants.](http://9gag.com/gag/a4Pr7qv)
- - 😝 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
+ - 😝 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)
+ - 😝 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)
  - 💣 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
  - 😝 [He&#39;s technically right](http://9gag.com/gag/a5QyMPL)
- - 👉 [Another monumental production from the Balkans and the Eastern Bloc universe.](http://9gag.com/gag/a34pqz5)<!-- MEMES:END -->
+ - 👉 [Uploading my old 9gag collection 104](http://9gag.com/gag/aryrg3y)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the implosion of CaaStle, a clothing inventory monetization startup whose ex-CEO Christine Hunsicker is accused of swindling investors out of $300M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250928/p8#a250928p8)
  - [How to Fix Wi-Fi Dead Spots in Your Home](https://www.cnet.com/home/internet/how-to-fix-wi-fi-dead-spots-in-your-home/#ftag=CAD590a51e)
  - [iRobot co-founder Rodney Brooks details why humanoid robots won&#39;t learn human-level dexterity from current methods, how to make them safe for humans, and more &lpar;Rodney Brooks&rpar;](http://www.techmeme.com/250928/p7#a250928p7)
  - [At the UN, the US rejected calls for collaborative efforts around AI governance, even as many leaders endorsed a need for urgent international collaboration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/250928/p6#a250928p6)
- - [The US ambassador to the EU Andrew Puzder says the EU must either prove that its digital rules, such as the DMA, do not punish US tech companies or change them &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p5#a250928p5)
- - [Manas AI, the AI drug discovery startup founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised a $26M seed extension after a $24.6M seed in January &lpar;FinSMEs&rpar;](http://www.techmeme.com/250928/p4#a250928p4)<!-- TECH:END -->
+ - [The US ambassador to the EU Andrew Puzder says the EU must either prove that its digital rules, such as the DMA, do not punish US tech companies or change them &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p5#a250928p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

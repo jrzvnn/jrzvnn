@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
  - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 💣 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
  - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
  - 👉 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)<!-- MEMES:END -->
 

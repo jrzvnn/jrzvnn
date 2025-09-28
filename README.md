@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
  - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
- - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 💣 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
+ - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
  - 😝 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
- - 👉 [Gonna catch em all](http://9gag.com/gag/aVv13MK)<!-- MEMES:END -->
+ - 👉 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)<!-- MEMES:END -->
 
 ---
 

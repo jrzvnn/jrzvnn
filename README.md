@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple&#39;s internal chatbot deserves a public release; sources: Apple nears production of M5 MacBook Pros, MacBook Airs, and two monitors for Q4 2025 or Q1 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250928/p13#a250928p13)
  - [How Mode to Code, a nonprofit founded by a teenager, is teaching Bay Area seniors to use AI and avoid scams through free coding and tech literacy classes &lpar;CNN&rpar;](http://www.techmeme.com/250928/p12#a250928p12)
  - [How a Travel YouTuber Captured Nepal’s Revolution for the World](https://www.wired.com/story/how-a-travel-youtuber-captured-nepals-revolution-for-the-world/)
- - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)<!-- TECH:END -->
+ - [QLED vs. LED: What Is the Better TV Tech?](https://www.cnet.com/tech/home-entertainment/qled-vs-led-what-is-the-better-tv-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

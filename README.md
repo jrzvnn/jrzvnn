@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Defeats the whole point of Uber](http://9gag.com/gag/aByNx5A)
- - 😝 [Digging up peanuts](http://9gag.com/gag/an7WM3n)
- - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
- - 😝 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)
- - 👉 [They are all around us](http://9gag.com/gag/aAyN3dL)<!-- MEMES:END -->
+ - 😝 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
+ - 😝 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
+ - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SanDisk Creator Desk Drive review: Pretty, but too basic and expensive](https://appleinsider.com/articles/25/09/28/sandisk-creator-desk-drive-review-pretty-but-too-basic-and-expensive?utm_source=rss)
- - [A profile of digital microlender Tala, which has an annualized revenue of $340M but remains unprofitable 11 years in, as it plans to double its lending in 2027 &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/250928/p18#a250928p18)
- - [Larry Ellison’s quest to run the world](https://www.theverge.com/tech/787051/larry-ellison-tiktok-quest-to-run-the-world)
- - [The Absolute Best K-Dramas You Can Watch on Netflix Right Now](https://www.cnet.com/tech/services-and-software/best-k-dramas-on-netflix-now/#ftag=CAD590a51e)
- - [How JD Vance played a key role in the TikTok US deal, amid concerns about the VP acting as a corporate dealmaker in the forced spin-off of a private company &lpar;Washington Post&rpar;](http://www.techmeme.com/250928/p17#a250928p17)<!-- TECH:END -->
+ - [A therapist details treating ChatGPT as a &quot;patient&quot;, describing its programmed self-critique as &quot;a brilliant means of seducing a techno-skeptical therapist&quot; &lpar;Gary Greenberg/New Yorker&rpar;](http://www.techmeme.com/250928/p19#a250928p19)
+ - [Apple&amp;#8217;s &amp;#8216;Veritas&amp;#8217; chatbot is reportedly an employee-only test of Siri&amp;#8217;s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 29, #841](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-29-841/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 29 #575](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-29-575/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Sept. 29, #1563](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-29-1563/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

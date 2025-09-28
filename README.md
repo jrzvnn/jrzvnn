@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Capri](http://9gag.com/gag/aXPGxbg)
- - 😝 [The new generation of German men are wild](http://9gag.com/gag/aryrbEd)
- - 💣 [When Andy got a little too specific in his comments on the assailants background:](http://9gag.com/gag/awyGQLD)
+ - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
+ - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Not surprised](http://9gag.com/gag/a87X8mQ)<!-- MEMES:END -->
+ - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
 
 ---
 

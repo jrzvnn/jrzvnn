@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even he couldn\u2019t hold it](http://9gag.com/gag/amobYmj)
  - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 😝 [I am speed](http://9gag.com/gag/aXPGqeD)
+ - 💣 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Would you like to know more?](http://9gag.com/gag/abAmM7L)<!-- MEMES:END -->
+ - 👉 [Can&#39;t be sad today, too much work](http://9gag.com/gag/aGyNjWZ)<!-- MEMES:END -->
 
 ---
 

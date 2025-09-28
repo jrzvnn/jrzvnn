@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
- - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
+ - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 😝 [Would you like to know more?](http://9gag.com/gag/abAmM7L)
  - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am speed](http://9gag.com/gag/aXPGqeD)
- - 😝 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)
- - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [Even he couldn\u2019t hold it](http://9gag.com/gag/amobYmj)
+ - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)<!-- MEMES:END -->
+ - 👉 [Would you like to know more?](http://9gag.com/gag/abAmM7L)<!-- MEMES:END -->
 
 ---
 

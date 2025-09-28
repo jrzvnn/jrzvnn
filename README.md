@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts warn that Nvidia&#39;s large investments in data centers and startups, almost like a stimulus program, could be artificially inflating demand for its GPUs &lpar;The Information&rpar;](http://www.techmeme.com/250928/p9#a250928p9)
+ - [20 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
  - [A look at the implosion of CaaStle, a clothing inventory monetization startup whose ex-CEO Christine Hunsicker is accused of swindling investors out of $300M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250928/p8#a250928p8)
  - [ESPN Unlimited Review: Best for Bundlers and ESPN Lovers](https://www.cnet.com/tech/services-and-software/espn-unlimited-review-best-for-bundlers-and-espn-lovers/#ftag=CAD590a51e)
- - [How to Fix Wi-Fi Dead Spots in Your Home](https://www.cnet.com/home/internet/how-to-fix-wi-fi-dead-spots-in-your-home/#ftag=CAD590a51e)
- - [iRobot co-founder Rodney Brooks details why humanoid robots won&#39;t learn human-level dexterity from current methods, how to make them safe for humans, and more &lpar;Rodney Brooks&rpar;](http://www.techmeme.com/250928/p7#a250928p7)
- - [At the UN, the US rejected calls for collaborative efforts around AI governance, even as many leaders endorsed a need for urgent international collaboration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/250928/p6#a250928p6)<!-- TECH:END -->
+ - [How to Fix Wi-Fi Dead Spots in Your Home](https://www.cnet.com/home/internet/how-to-fix-wi-fi-dead-spots-in-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

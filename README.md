@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
+ - 😝 [I am speed](http://9gag.com/gag/aXPGqeD)
  - 😝 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)
- - 💣 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
+ - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Would you like to know more?](http://9gag.com/gag/abAmM7L)<!-- MEMES:END -->
+ - 👉 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)<!-- MEMES:END -->
 
 ---
 

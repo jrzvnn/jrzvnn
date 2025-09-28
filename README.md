@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3 Years Later, Playdate Is Still Gaming&#39;s Best-Kept Secret](https://www.wired.com/story/three-years-on-playdate-is-still-gamings-best-kept-secret/)
+ - [What Is Thirst?](https://www.wired.com/story/what-does-it-mean-to-be-thirsty/)
  - [Experts warn that Nvidia&#39;s large investments in data centers and startups, almost like a stimulus program, could be artificially inflating demand for its GPUs &lpar;The Information&rpar;](http://www.techmeme.com/250928/p9#a250928p9)
  - [20 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
- - [A look at the implosion of CaaStle, a clothing inventory monetization startup whose ex-CEO Christine Hunsicker is accused of swindling investors out of $300M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250928/p8#a250928p8)
- - [ESPN Unlimited Review: Best for Bundlers and ESPN Lovers](https://www.cnet.com/tech/services-and-software/espn-unlimited-review-best-for-bundlers-and-espn-lovers/#ftag=CAD590a51e)
- - [How to Fix Wi-Fi Dead Spots in Your Home](https://www.cnet.com/home/internet/how-to-fix-wi-fi-dead-spots-in-your-home/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the implosion of CaaStle, a clothing inventory monetization startup whose ex-CEO Christine Hunsicker is accused of swindling investors out of $300M &lpar;Bloomberg&rpar;](http://www.techmeme.com/250928/p8#a250928p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

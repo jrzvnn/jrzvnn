@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
- - 😝 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)
- - 💣 [They are all around us](http://9gag.com/gag/aAyN3dL)
- - 😝 [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
- - 👉 [Stop the glaze](http://9gag.com/gag/aPAdYxR)<!-- MEMES:END -->
+ - 😝 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
+ - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 💣 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 😝 [Weekend](http://9gag.com/gag/aYQn4Rx)
+ - 👉 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)<!-- MEMES:END -->
 
 ---
 

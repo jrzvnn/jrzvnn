@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Not surprised](http://9gag.com/gag/a87X8mQ)
- - 😝 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
- - 💣 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
+ - 😝 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
+ - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)<!-- MEMES:END -->
+ - 👉 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)<!-- MEMES:END -->
 
 ---
 

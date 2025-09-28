@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iRobot co-founder Rodney Brooks details why humanoid robots won&#39;t learn human-level dexterity from current methods, how to make them safe for humans, and more &lpar;Rodney Brooks&rpar;](http://www.techmeme.com/250928/p7#a250928p7)
  - [At the UN, the US rejected calls for collaborative efforts around AI governance, even as many leaders endorsed a need for urgent international collaboration &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/250928/p6#a250928p6)
  - [The US ambassador to the EU Andrew Puzder says the EU must either prove that its digital rules, such as the DMA, do not punish US tech companies or change them &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p5#a250928p5)
  - [Manas AI, the AI drug discovery startup founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised a $26M seed extension after a $24.6M seed in January &lpar;FinSMEs&rpar;](http://www.techmeme.com/250928/p4#a250928p4)
- - [Sources: AI image generation startup Black Forest Labs is exploring raising $200M-$300M at a $4B valuation, after a prior undisclosed round at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p3#a250928p3)
- - [South Korea confirms that a fire at National Information Resources Service&#39;s data center, housing 647 government IT systems, directly damaged 96 of them &lpar;Lee Jung-joo/The Korea Herald&rpar;](http://www.techmeme.com/250928/p2#a250928p2)<!-- TECH:END -->
+ - [Sources: AI image generation startup Black Forest Labs is exploring raising $200M-$300M at a $4B valuation, after a prior undisclosed round at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p3#a250928p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

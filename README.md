@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Manas AI, the AI drug discovery startup founded by Reid Hoffman and researcher Siddhartha Mukherjee, raised a $26M seed extension after a $24.6M seed in January &lpar;FinSMEs&rpar;](http://www.techmeme.com/250928/p4#a250928p4)
  - [Sources: AI image generation startup Black Forest Labs is exploring raising $200M-$300M at a $4B valuation, after a prior undisclosed round at a $1B valuation &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p3#a250928p3)
  - [South Korea confirms that a fire at National Information Resources Service&#39;s data center, housing 647 government IT systems, directly damaged 96 of them &lpar;Lee Jung-joo/The Korea Herald&rpar;](http://www.techmeme.com/250928/p2#a250928p2)
  - [Accenture, which laid off 11K+ employees in the past three months, warns of more cuts if workers cannot be retrained to have the skills needed for the age of AI &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/250928/p1#a250928p1)
- - [Sources: data integration company Fivetran is in talks to acquire data management company dbt Labs in a deal valuing the combined entity at between $5B and $10B &lpar;The Information&rpar;](http://www.techmeme.com/250927/p23#a250927p23)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Sept. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-sept-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: data integration company Fivetran is in talks to acquire data management company dbt Labs in a deal valuing the combined entity at between $5B and $10B &lpar;The Information&rpar;](http://www.techmeme.com/250927/p23#a250927p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

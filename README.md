@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 💣 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
+ - 😝 [He should at least give then some batteries first](http://9gag.com/gag/aO8Nzp6)
+ - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 💣 [When you&#39;re out of ammo but still got that trusty shotgun](http://9gag.com/gag/a2vjroE)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Best answer is always that without thinking](http://9gag.com/gag/aryrgAy)<!-- MEMES:END -->
+ - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
 
 ---
 

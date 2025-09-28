@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s internal chatbot deserves a public release, sources: Apple nears production of M5 MacBook Pros, MacBook Airs, and two monitors for Q4 2025 or Q1 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250928/p13#a250928p13)
+ - [How to Choose the Right Gaming Laptop &lpar;2025&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
+ - [Apple&#39;s internal chatbot deserves a public release; sources: Apple nears production of M5 MacBook Pros, MacBook Airs, and two monitors for Q4 2025 or Q1 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250928/p13#a250928p13)
  - [How Mode to Code, a nonprofit founded by a teenager, is teaching Bay Area seniors to use AI and avoid scams through free coding and tech literacy classes &lpar;CNN&rpar;](http://www.techmeme.com/250928/p12#a250928p12)
  - [How a Travel YouTuber Captured Nepal’s Revolution for the World](https://www.wired.com/story/how-a-travel-youtuber-captured-nepals-revolution-for-the-world/)
- - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
- - [Education software company EdSights, which uses SMS texting and AI to reach students and identify those at risk of dropping out, raised $80M from JMI Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250928/p11#a250928p11)<!-- TECH:END -->
+ - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

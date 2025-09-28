@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the voice of Silksong&amp;#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish)
- - [A look at AI-powered &quot;nudify&quot; tools, which make it fast and easy to make nonconsensual, deepfake porn, and the limited legal options available to their victims &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250928/p10#a250928p10)
- - [Proton Pass Review &lpar;2025&rpar;: Finally Standing Tall](https://www.wired.com/review/proton-pass-2025/)
- - [How generative AI boosters are trying to break into Hollywood](https://www.theverge.com/column/785975/hollywood-ai-stepback)
- - [I need a life cool enough for the new GoPro](https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer)<!-- TECH:END -->
+ - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
+ - [I spent three months with Telly, the free TV that&amp;#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)
+ - [Good news: TechWoven is fine](https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro)
+ - [Premier League Soccer: Stream Newcastle vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
+ - [How the voice of Silksong&amp;#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy)
  - [A book excerpt details how a small team of content curators hired by ByteDance in Mexico City in 2018 shaped TikTok&#39;s For You algorithm in Latin America &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250928/p14#a250928p14)
  - [How to Choose the Right Gaming Laptop &lpar;2025&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
  - [Apple&#39;s internal chatbot deserves a public release; sources: Apple nears production of M5 MacBook Pros, MacBook Airs, and two monitors for Q4 2025 or Q1 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250928/p13#a250928p13)
- - [How Mode to Code, a nonprofit founded by a teenager, is teaching Bay Area seniors to use AI and avoid scams through free coding and tech literacy classes &lpar;CNN&rpar;](http://www.techmeme.com/250928/p12#a250928p12)
- - [How a Travel YouTuber Captured Nepal’s Revolution for the World](https://www.wired.com/story/how-a-travel-youtuber-captured-nepals-revolution-for-the-world/)<!-- TECH:END -->
+ - [How Mode to Code, a nonprofit founded by a teenager, is teaching Bay Area seniors to use AI and avoid scams through free coding and tech literacy classes &lpar;CNN&rpar;](http://www.techmeme.com/250928/p12#a250928p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

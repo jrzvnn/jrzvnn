@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Turning compute into a tradable commodity could fuel the next stage of the AI boom, just like oil futures and spectrum auctions unlocked waves of investment &lpar;Felix Salmon/Bloomberg&rpar;](http://www.techmeme.com/250928/p15#a250928p15)
  - [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy)
  - [A book excerpt details how a small team of content curators hired by ByteDance in Mexico City in 2018 shaped TikTok&#39;s For You algorithm in Latin America &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250928/p14#a250928p14)
- - [How to Choose the Right Gaming Laptop &lpar;2025&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)
- - [Apple&#39;s internal chatbot deserves a public release; sources: Apple nears production of M5 MacBook Pros, MacBook Airs, and two monitors for Q4 2025 or Q1 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250928/p13#a250928p13)
- - [How Mode to Code, a nonprofit founded by a teenager, is teaching Bay Area seniors to use AI and avoid scams through free coding and tech literacy classes &lpar;CNN&rpar;](http://www.techmeme.com/250928/p12#a250928p12)<!-- TECH:END -->
+ - [Sunday Night Football: How to Watch Packers vs. Cowboys Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-packers-vs-cowboys-tonight/#ftag=CAD590a51e)
+ - [How to Choose the Right Gaming Laptop &lpar;2025&rpar;: What You Need to Know](https://www.wired.com/story/how-to-buy-a-gaming-laptop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

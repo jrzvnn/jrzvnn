@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not surprised](http://9gag.com/gag/a87X8mQ)
- - 😝 [Weekend](http://9gag.com/gag/aYQn4Rx)
- - 💣 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
+ - 😝 [This Google trick is pure magic](http://9gag.com/gag/avyX7AZ)
+ - 💣 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)<!-- MEMES:END -->
+ - 👉 [Would you like to know more?](http://9gag.com/gag/abAmM7L)<!-- MEMES:END -->
 
 ---
 

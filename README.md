@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea confirms that a fire at National Information Resources Service&#39;s data center, housing 647 government IT systems, directly damaged 96 of them &lpar;Lee Jung-joo/The Korea Herald&rpar;](http://www.techmeme.com/250928/p2#a250928p2)
  - [Accenture, which laid off 11K+ employees in the past three months, warns of more cuts if workers cannot be retrained to have the skills needed for the age of AI &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/250928/p1#a250928p1)
  - [Sources: data integration company Fivetran is in talks to acquire data management company dbt Labs in a deal valuing the combined entity at between $5B and $10B &lpar;The Information&rpar;](http://www.techmeme.com/250927/p23#a250927p23)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Sept. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-sept-28/#ftag=CAD590a51e)
- - [A profile of Justin Sun, who was facing an SEC fraud lawsuit before investing $90M in Trump family cryptocurrencies and becoming a business associate of Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250927/p22#a250927p22)
- - [A look at the setbacks facing the US DOD&#39;s Replicator program that seeks to quickly produce low-cost drones and other autonomous weapons to counter China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250927/p21#a250927p21)<!-- TECH:END -->
+ - [A profile of Justin Sun, who was facing an SEC fraud lawsuit before investing $90M in Trump family cryptocurrencies and becoming a business associate of Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250927/p22#a250927p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

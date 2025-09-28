@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
  - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
+ - 👉 [Another question like that one and it will end with the first episode. No more contestants.](http://9gag.com/gag/a4Pr7qv)<!-- MEMES:END -->
 
 ---
 

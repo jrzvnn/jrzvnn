@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Accenture, which laid off 11K+ employees in the past three months, warns of more cuts if workers cannot be retrained to have the skills needed for the age of AI &lpar;Stephen Foley/Financial Times&rpar;](http://www.techmeme.com/250928/p1#a250928p1)
  - [Sources: data integration company Fivetran is in talks to acquire data management company dbt Labs in a deal valuing the combined entity at between $5B and $10B &lpar;The Information&rpar;](http://www.techmeme.com/250927/p23#a250927p23)
  - [A profile of Justin Sun, who was facing an SEC fraud lawsuit before investing $90M in Trump family cryptocurrencies and becoming a business associate of Trump &lpar;Bloomberg&rpar;](http://www.techmeme.com/250927/p22#a250927p22)
  - [A look at the setbacks facing the US DOD&#39;s Replicator program that seeks to quickly produce low-cost drones and other autonomous weapons to counter China &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250927/p21#a250927p21)
- - [Lowest price ever: 15&quot; MacBook Air M3, 24GB, 512GB plunges to $1,099 &lpar;$600 off&rpar;](https://appleinsider.com/articles/25/09/27/lowest-price-ever-15-macbook-air-m3-24gb-512gb-plunges-to-1099-600-off?utm_source=rss)
- - [Q&amp;A with Oura CEO Tom Hale on why many CEOs love its rings, competition from Apple, and more; Oura sold 2.5M rings in 2024 and expects $1B revenue in 2025 &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/250927/p20#a250927p20)<!-- TECH:END -->
+ - [Lowest price ever: 15&quot; MacBook Air M3, 24GB, 512GB plunges to $1,099 &lpar;$600 off&rpar;](https://appleinsider.com/articles/25/09/27/lowest-price-ever-15-macbook-air-m3-24gb-512gb-plunges-to-1099-600-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)
  - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
  - [I spent three months with Telly, the free TV that&amp;#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)
  - [Good news: TechWoven is fine](https://www.theverge.com/tech/786161/techwoven-case-iphone-17-pro)
- - [Premier League Soccer: Stream Newcastle vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)
- - [How the voice of Silksong&amp;#8217;s Hornet brought her to life through gibberish](https://www.theverge.com/games/785915/hollow-knight-silksong-hornet-voice-actor-makoto-koji-gibberish)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Newcastle vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

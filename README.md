@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keep Your Old Laptop Alive by Installing ChromeOS Flex](https://www.wired.com/story/how-to-install-chromeos-flex/)
  - [3 Years Later, Playdate Is Still Gaming&#39;s Best-Kept Secret](https://www.wired.com/story/three-years-on-playdate-is-still-gamings-best-kept-secret/)
  - [What Is Thirst?](https://www.wired.com/story/what-does-it-mean-to-be-thirsty/)
  - [Experts warn that Nvidia&#39;s large investments in data centers and startups, almost like a stimulus program, could be artificially inflating demand for its GPUs &lpar;The Information&rpar;](http://www.techmeme.com/250928/p9#a250928p9)
- - [iOS 26: Here&#39;s Your Fast Track Guide to Your iPhone&#39;s New Features](https://www.cnet.com/tech/services-and-software/ios-26-heres-your-fast-track-guide-to-your-iphones-new-features/#ftag=CAD590a51e)
- - [Moochers Beware: Amazon Prime Free Shared Shipping Crackdown Starts Soon](https://www.cnet.com/tech/services-and-software/amazon-prime-is-ending-shared-free-shipping-what-to-know-and-when-it-happens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26: Here&#39;s Your Fast Track Guide to Your iPhone&#39;s New Features](https://www.cnet.com/tech/services-and-software/ios-26-heres-your-fast-track-guide-to-your-iphones-new-features/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

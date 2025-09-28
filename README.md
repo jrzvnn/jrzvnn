@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 😝 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
- - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 😝 [There is nothing to see in this meme](http://9gag.com/gag/aKGNjy1)
+ - 😝 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
+ - 💣 [Would you like to know more?](http://9gag.com/gag/abAmM7L)
  - 😝 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
- - 👉 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)<!-- MEMES:END -->
+ - 👉 [They are all around us](http://9gag.com/gag/aAyN3dL)<!-- MEMES:END -->
 
 ---
 

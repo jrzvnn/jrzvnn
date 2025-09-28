@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
  - 😝 [Acceptable bullying](http://9gag.com/gag/a6Z3VLq)
- - 💣 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
+ - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
- - 👉 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)<!-- MEMES:END -->
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---
 

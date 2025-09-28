@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
+ - 💣 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [Would you like to know more?](http://9gag.com/gag/abAmM7L)<!-- MEMES:END -->
+ - 👉 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)<!-- MEMES:END -->
 
 ---
 

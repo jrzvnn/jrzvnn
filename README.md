@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
+ - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
+ - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 💣 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
  - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 💣 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
- - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
- - 👉 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)<!-- MEMES:END -->
+ - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
 
 ---
 

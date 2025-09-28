@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wish I knew...](http://9gag.com/gag/a5QynNE)
- - 😝 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
- - 💣 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 😝 [Would you like to know more?](http://9gag.com/gag/abAmM7L)
- - 👉 [Fly away](http://9gag.com/gag/a34pMN3)<!-- MEMES:END -->
+ - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 😝 [Acceptable bullying](http://9gag.com/gag/a6Z3VLq)
+ - 💣 [Best dimension ever](http://9gag.com/gag/a6Z3bPN)
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 👉 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)<!-- MEMES:END -->
 
 ---
 

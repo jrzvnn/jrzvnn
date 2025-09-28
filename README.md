@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How JD Vance played a key role in the TikTok US deal, amid concerns about the VP acting as a corporate dealmaker in the forced spin-off of a private company &lpar;Washington Post&rpar;](http://www.techmeme.com/250928/p17#a250928p17)
  - [Since 2019, Brazil&#39;s courts have developed or implemented over 140 AI projects that have helped make the country&#39;s overburdened judicial system more efficient &lpar;Pedro Nakamura/Rest of World&rpar;](http://www.techmeme.com/250928/p16#a250928p16)
- - [Turning compute into a tradable commodity could fuel the next stage of the AI boom, just like oil futures and spectrum auctions unlocked waves of investment &lpar;Felix Salmon/Bloomberg&rpar;](http://www.techmeme.com/250928/p15#a250928p15)
- - [Trump posts, then pulls bizarre AI video promoting MedBed conspiracy](https://www.theverge.com/news/787042/trump-posts-then-pulls-bizarre-ai-video-promoting-medbed-conspiracy)
- - [A book excerpt details how a small team of content curators hired by ByteDance in Mexico City in 2018 shaped TikTok&#39;s For You algorithm in Latin America &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/250928/p14#a250928p14)
- - [Sunday Night Football: How to Watch Packers vs. Cowboys Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-packers-vs-cowboys-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jaguars vs. 49ers Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/jaguars-vs-49ers-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
+ - [Bears vs. Raiders Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/bears-vs-raiders-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)
+ - [Colts vs. Rams Livestream: How to Watch NFL Week 4 Online Today](https://www.cnet.com/tech/services-and-software/colts-vs-rams-livestream-how-to-watch-nfl-week-4-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

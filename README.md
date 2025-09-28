@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Weekend](http://9gag.com/gag/aYQn4Rx)
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
+ - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
  - 💣 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
- - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
- - 👉 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)<!-- MEMES:END -->
+ - 😝 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
+ - 👉 [Gonna catch em all](http://9gag.com/gag/aVv13MK)<!-- MEMES:END -->
 
 ---
 

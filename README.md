@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [PIOFFZ !!!! LASS DAS KIND IN RUHE !!!!](http://9gag.com/gag/a7o6DWr)
- - 😝 [This Google trick is pure magic](http://9gag.com/gag/avyX7AZ)
+ - 😝 [Japanese/east Asian cops cannot handle Indian migrants](http://9gag.com/gag/a9yNr3L)
+ - 😝 [Sadly the Phillies clinched a playoff spot](http://9gag.com/gag/avyXGyn)
  - 💣 [This was a banger of a tweet!](http://9gag.com/gag/ajPMNM8)
  - 😝 [Unleash next-gen gaming power with the 2025 ROG Strix G16/18, featuring up to an AMD Ryzen\u2122 9 9955HX3D processor.](http://9gag.com/gag/aByNWYN)
  - 👉 [Would you like to know more?](http://9gag.com/gag/abAmM7L)<!-- MEMES:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keep Your Old Laptop Alive by Installing ChromeOS Flex](https://www.wired.com/story/how-to-install-chromeos-flex/)
- - [3 Years Later, Playdate Is Still Gaming&#39;s Best-Kept Secret](https://www.wired.com/story/three-years-on-playdate-is-still-gamings-best-kept-secret/)
- - [What Is Thirst?](https://www.wired.com/story/what-does-it-mean-to-be-thirsty/)
- - [Experts warn that Nvidia&#39;s large investments in data centers and startups, almost like a stimulus program, could be artificially inflating demand for its GPUs &lpar;The Information&rpar;](http://www.techmeme.com/250928/p9#a250928p9)
- - [iOS 26: Here&#39;s Your Fast Track Guide to Your iPhone&#39;s New Features](https://www.cnet.com/tech/services-and-software/ios-26-heres-your-fast-track-guide-to-your-iphones-new-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at AI-powered &quot;nudify&quot; tools, which make it fast and easy to make nonconsensual, deepfake porn, and the limited legal options available to their victims &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/250928/p10#a250928p10)
+ - [Proton Pass Review &lpar;2025&rpar;: Finally Standing Tall](https://www.wired.com/review/proton-pass-2025/)
+ - [How generative AI boosters are trying to break into Hollywood](https://www.theverge.com/column/785975/hollywood-ai-stepback)
+ - [I need a life cool enough for the new GoPro](https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer)
+ - [Keep Your Old Laptop Alive by Installing ChromeOS Flex](https://www.wired.com/story/how-to-install-chromeos-flex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

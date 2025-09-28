@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation reveals how the Russian military spy ship Yantar is being used to map and potentially intercept undersea telecommunication cables across Europe &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p20#a250928p20)
  - [A therapist details treating ChatGPT as a &quot;patient&quot;, describing its programmed self-critique as &quot;a brilliant means of seducing a techno-skeptical therapist&quot; &lpar;Gary Greenberg/New Yorker&rpar;](http://www.techmeme.com/250928/p19#a250928p19)
  - [Apple&amp;#8217;s &amp;#8216;Veritas&amp;#8217; chatbot is reportedly an employee-only test of Siri&amp;#8217;s AI upgrades](https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Sept. 29, #841](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-sept-29-841/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 29 #575](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-29-575/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Sept. 29, #1563](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-sept-29-1563/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 29 #575](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-29-575/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

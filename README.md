@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
  - [Education software company EdSights, which uses SMS texting and AI to reach students and identify those at risk of dropping out, raised $80M from JMI Equity &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250928/p11#a250928p11)
  - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)
- - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [I spent three months with Telly, the free TV that&amp;#8217;s always showing ads](https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Barcelona vs. Real Sociedad Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-real-sociedad-live-from-anywhere/#ftag=CAD590a51e)
+ - [Best Noise-Canceling Headphones: Sony, Bose, Apple, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

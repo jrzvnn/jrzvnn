@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
- - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
- - 💣 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
- - 😝 [Find a job you enjoy doing, and you will never have to work a day in your life.](http://9gag.com/gag/aAyNgXp)
- - 👉 [Huh lol](http://9gag.com/gag/aAyNxmR)<!-- MEMES:END -->
+ - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 😝 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 💣 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 👉 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)<!-- MEMES:END -->
 
 ---
 

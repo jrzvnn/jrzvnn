@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swift says it is building a blockchain-based ledger with over 30 financial institutions and the first prototype will be built in partnership with Consensys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p25#a250929p25)
  - [Samsung&#39;s president has all but confirmed a 2026 iPhone Fold release](https://appleinsider.com/articles/25/09/29/samsung-oled-ramp-up-signals-probable-2026-apple-iphone-fold-release?utm_source=rss)
  - [Amazon’s kid-friendly Kindles are cheaper than ever ahead of October Prime Day](https://www.theverge.com/tech/787249/amazon-kindle-kids-october-prime-day-deal-sale)
  - [It&#39;s not clear how badly Trump&#39;s 100% tariffs on films will hit Apple TV+](https://appleinsider.com/articles/25/09/29/its-not-clear-how-badly-trumps-100-tariffs-on-films-will-hit-apple-tv?utm_source=rss)
- - [Snapchat announces it will limit storage for its Memories feature to 5GB for free users and launches paid storage plans, including 100GB for $1.99 per month &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/250929/p24#a250929p24)
- - [Keychron mechanical keyboards are up to 62 percent off](https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale)<!-- TECH:END -->
+ - [Snapchat announces it will limit storage for its Memories feature to 5GB for free users and launches paid storage plans, including 100GB for $1.99 per month &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/250929/p24#a250929p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)
- - 😝 [If your summer looked like this, you had a great childhood](http://9gag.com/gag/awyGAMB)
- - 💣 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
- - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
- - 👉 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)<!-- MEMES:END -->
+ - 😝 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
+ - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 😝 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
 
 ---
 

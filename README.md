@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [RidePods is the first iPhone game you control with AirPods](https://www.theverge.com/news/787396/ride-pods-race-with-head-apple-airpods-spatial-audio-motion-controls)
+ - [The wait is over - Mac Studio M3 Ultra owners can now install macOS Tahoe](https://appleinsider.com/articles/25/09/29/the-wait-is-over---mac-studio-m3-ultra-owners-can-now-install-macos-tahoe?utm_source=rss)
  - [OpenAI is open sourcing the Agentic Commerce Protocol, a standard for AI commerce that powers its Instant Checkout feature and was co-developed with Stripe &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250929/p32#a250929p32)
- - [Apple&#39;s iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 updates fix multiple issues](https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues?utm_source=rss)
- - [Lenovo&#39;s Latest Gaming Laptop Is $200 Off Right Now](https://www.wired.com/story/lenovo-legion-7i-gen-10-deal/)
- - [Anthropic announces upgrades to Claude Code: a native VS Code extension, a new terminal interface, and checkpoints for autonomous operation &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p31#a250929p31)
- - [OpenAI rolls out Instant Checkout to let users make single-item purchases directly in ChatGPT, starting with US Etsy sellers, and plans to add Shopify merchants &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250929/p30#a250929p30)<!-- TECH:END -->
+ - [Apple&#39;s iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 updates fix multiple issues](https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

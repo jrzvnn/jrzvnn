@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic says Claude Sonnet 4.5 spent 30 hours running autonomously, writing 11,000 lines of code to build a chat app akin to Slack or Teams &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250929/p29#a250929p29)
  - [Anthropic launches Claude Sonnet 4.5, claims it is the world&#39;s best coding model, strongest for building complex agents, and its &quot;most aligned&quot; frontier model &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p28#a250929p28)
  - [Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy](https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy)
  - [Flying Tulip, founded by DeFi veteran Andre Cronje aiming to build a full-stack onchain exchange, raised a $200M seed at a $1B token valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/250929/p27#a250929p27)
- - [A Chinese woman pleads guilty in a London court to laundering bitcoin linked to a £5B Chinese investment scheme in which UK police seized 61,000 bitcoin in 2018 &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250929/p26#a250929p26)
- - [Developers leverage Apple Intelligence for new mental health, fitness, and productivity features](https://appleinsider.com/articles/25/09/29/developers-leverage-apple-intelligence-for-new-mental-health-fitness-and-productivity-features?utm_source=rss)<!-- TECH:END -->
+ - [A Chinese woman pleads guilty in a London court to laundering bitcoin linked to a £5B Chinese investment scheme in which UK police seized 61,000 bitcoin in 2018 &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250929/p26#a250929p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

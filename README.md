@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
  - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 😝 [I stole this `meme` from a guy a few days back, and when you consider from whom this post came, is it funny if you let it sink in :D](http://9gag.com/gag/a87X3Vp)
- - 👉 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)<!-- MEMES:END -->
+ - 💣 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)
+ - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
+ - 👉 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)<!-- MEMES:END -->
 
 ---
 

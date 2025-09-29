@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What EA’s buyout might mean for its future](https://www.theverge.com/games/787723/ea-private-deal-buyout-future-games-layoffs)
+ - [Filing: YouTube will pay $24.5M to settle a 2021 Trump lawsuit over suspending his account after Jan. 6, the last Big Tech company to settle his lawsuits &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p41#a250929p41)
  - [Robinhood CEO Vladimir Tenev says Robinhood Prediction Markets crossed 4B event contracts traded all-time, with over 2B in Q3 alone; HOOD closes up 12.27% &lpar;Bernard Goyder/Bloomberg&rpar;](http://www.techmeme.com/250929/p40#a250929p40)
  - [PlayStation is getting a big, fancy art book full of unused designs](https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes)
- - [California Governor Gavin Newsom signs SB 53 into law; the first-in-the-nation AI safety law requires AI companies to disclose their safety testing regimes &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250929/p39#a250929p39)
- - [Sources: Vanguard, the asset manager which has historically been critical of cryptocurrencies, prepares to allow access to crypto ETFs on its brokerage platform &lpar;Crypto in America&rpar;](http://www.techmeme.com/250929/p38#a250929p38)
- - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California Governor Gavin Newsom signs SB 53 into law; the first-in-the-nation AI safety law requires AI companies to disclose their safety testing regimes &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250929/p39#a250929p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

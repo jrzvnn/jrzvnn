@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bad Bunny to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/25/09/29/bad-bunny-to-headline-apples-2025-super-bowl-half-time-show?utm_source=rss)
- - [How debt is fueling the next wave of the AI infrastructure boom; an analyst estimates Oracle needs to borrow $25B/year over four years to fund its OpenAI plans &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p15#a250929p15)
- - [CMF’s first over-ear headphones have an energy slider for boosting bass and treble](https://www.theverge.com/news/786552/cmf-headphone-pro-nothing-anc-energy-slider-volume-wheel)
- - [Marissa Mayer is dissolving AI startup Sunshine, founded in 2018, and sells its assets to her new company Dazzle, which sources say is making an AI assistant &lpar;Wired&rpar;](http://www.techmeme.com/250929/p14#a250929p14)
- - [OpenAI launches new ChatGPT parental safety controls for users aged 13 to 18, including parental and law enforcement alerts for chats about self-harm or suicide &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250929/p13#a250929p13)<!-- TECH:END -->
+ - [EA&#39;s $55B sale is the largest leveraged buyout on record and represents a 25% premium on its October 26 close, as the $178B video game industry&#39;s growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p18#a250929p18)
+ - [DeepSeek releases DeepSeek-V3.2-Exp, saying it built the model using a new technique called DeepSeek Sparse Attention, and halves the pricing of its tools &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250929/p17#a250929p17)
+ - [EA agrees to be acquired by Saudi Arabia&#39;s PIF, Silver Lake, and Affinity for $210 per share, taking it private at a ~$55B valuation, set to close in Q1 FY 2027 &lpar;Electronic Arts&rpar;](http://www.techmeme.com/250929/p16#a250929p16)
+ - [Ford doesn&#39;t think CarPlay Ultra is worth using now, but will look at future versions](https://appleinsider.com/articles/25/09/29/ford-doesnt-think-carplay-ultra-is-worth-using-now-but-will-look-at-future-versions?utm_source=rss)
+ - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI told studios that it plans to release a new version of Sora that creates videos featuring copyrighted material unless copyright holders opt out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p36#a250929p36)
+ - [OpenAI Is Preparing to Launch a Social App for AI-Generated Videos](https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/)
  - [Anthropic prices Claude Sonnet 4.5 at $3/1M input and $15/1M output tokens, same as Sonnet 4, cheaper than Opus at $15/$75 but higher than GPT-5 at $1.25/$10 &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p35#a250929p35)
  - [Claude Sonnet 4.5 is faster and more steerable than Opus 4.1 and excels in Claude Code, but GPT-5 Codex is still better for difficult production coding tasks &lpar;Dan Shipper/Every&rpar;](http://www.techmeme.com/250929/p34#a250929p34)
- - [Anthropic adds context editing and a memory tool to the Claude API, allowing AI agents to handle long-running tasks without frequently hitting context limits &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p33#a250929p33)
- - [Gift Guide 2025: 38 of the Best Kitchen and Cookware Gifts for a Home Chef](https://www.cnet.com/news/best-kitchen-gifts/#ftag=CAD590a51e)
- - [Amazon’s Echo Pop and Dot speakers are the cheapest they’ve been in months](https://www.theverge.com/tech/787543/amazon-echo-dot-pop-october-prime-day-deal-sale)<!-- TECH:END -->
+ - [Anthropic adds context editing and a memory tool to the Claude API, allowing AI agents to handle long-running tasks without frequently hitting context limits &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p33#a250929p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

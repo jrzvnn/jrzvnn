@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)
  - [Several US states have passed bills to ban or restrict AI mental health treatment, as experts say state laws lag behind the fast-moving AI therapy landscape &lpar;Devi Shastri/Associated Press&rpar;](http://www.techmeme.com/250929/p5#a250929p5)
  - [EA&#39;s ~$50B buyout talks highlight the slowdown and consolidation trends in the $178B global gaming market after the COVID-19 boom, as gamers stick to old titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250929/p4#a250929p4)
  - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)
- - [Best FDA-Approved Home Blood Pressure Monitors](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
- - [London-based Paid, which helps AI agent providers monetize and track costs, raised a $21.6M seed led by Lightspeed, a source says at a $100M+ valuation &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250929/p3#a250929p3)<!-- TECH:END -->
+ - [Best FDA-Approved Home Blood Pressure Monitors](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keychron mechanical keyboards are up to 62 percent off](https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale)
  - [Samsung OLED ramp up signals probable 2026 Apple iPhone Fold release](https://appleinsider.com/articles/25/09/29/samsung-oled-ramp-up-signals-probable-2026-apple-iphone-fold-release?utm_source=rss)
  - [FCC mistakenly leaks confidential iPhone 16e schematics](https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=rss)
  - [BMW UI chief busts CarPlay &#39;myth&#39; over in-car navigation](https://appleinsider.com/articles/25/09/29/bmw-ui-chief-busts-carplay-myth-over-in-car-navigation?utm_source=rss)
- - [OpenAI’s parental controls are out — here’s what you should know](https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know)
- - [The US Commerce Department says subsidiaries of entity list companies would also be subject to trade restrictions, threatening Chinese companies, from Tuesday &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p23#a250929p23)<!-- TECH:END -->
+ - [OpenAI’s parental controls are out — here’s what you should know](https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

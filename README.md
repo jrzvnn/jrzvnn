@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The way this cat tuck it&#39;s ear to avoid the table edge](http://9gag.com/gag/awyGAgW)
- - 😝 [The practice and the final performance of a ballet dance](http://9gag.com/gag/aYQng2N)
- - 💣 [They are all around us](http://9gag.com/gag/aAyN3dL)
- - 😝 [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
- - 👉 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)<!-- MEMES:END -->
+ - 😝 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
+ - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 💣 [Love spell](http://9gag.com/gag/a87X3eV)
+ - 😝 [Self explanatory .....](http://9gag.com/gag/an7W5QV)
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---
 

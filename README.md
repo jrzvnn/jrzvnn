@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bad Bunny to headline Apple&#39;s 2025 Super Bowl half-time show](https://appleinsider.com/articles/25/09/29/bad-bunny-to-headline-apples-2025-super-bowl-half-time-show?utm_source=rss)
  - [How debt is fueling the next wave of the AI infrastructure boom; an analyst estimates Oracle needs to borrow $25B/year over four years to fund its OpenAI plans &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p15#a250929p15)
  - [CMF’s first over-ear headphones have an energy slider for boosting bass and treble](https://www.theverge.com/news/786552/cmf-headphone-pro-nothing-anc-energy-slider-volume-wheel)
  - [Marissa Mayer is dissolving AI startup Sunshine, founded in 2018, and sells its assets to her new company Dazzle, which sources say is making an AI assistant &lpar;Wired&rpar;](http://www.techmeme.com/250929/p14#a250929p14)
- - [OpenAI launches new ChatGPT parental safety controls for users aged 13 to 18, including parental and law enforcement alerts for chats about self-harm or suicide &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250929/p13#a250929p13)
- - [Sources: Huawei aims to produce ~600K of its marquee 910C Ascend chips in 2026, roughly double 2025&#39;s level, and raise its Ascend lineup output to 1.6M dies &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p12#a250929p12)<!-- TECH:END -->
+ - [OpenAI launches new ChatGPT parental safety controls for users aged 13 to 18, including parental and law enforcement alerts for chats about self-harm or suicide &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250929/p13#a250929p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

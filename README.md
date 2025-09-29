@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
  - 😝 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
- - 💣 [Peak Writing](http://9gag.com/gag/apRjmpp)
- - 😝 [Peak male activities](http://9gag.com/gag/aAyNed0)
+ - 💣 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 😝 [Peak Writing](http://9gag.com/gag/apRjmpp)
  - 👉 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)<!-- MEMES:END -->
 
 ---

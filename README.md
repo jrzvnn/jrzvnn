@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)
+ - [Best FDA-Approved Home Blood Pressure Monitors](https://www.cnet.com/health/medical/best-blood-pressure-monitor/#ftag=CAD590a51e)
  - [London-based Paid, which helps AI agent providers monetize and track costs, raised a $21.6M seed led by Lightspeed, a source says at a $100M+ valuation &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/250929/p3#a250929p3)
  - [DeepMind: video models like Veo 3 could become general purpose foundation models for vision, like LLMs for text, using zero-shot &quot;chain-of-frames&quot; reasoning &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p2#a250929p2)
- - [Best Battery Life Laptops of 2025](https://www.cnet.com/tech/computing/best-battery-life-laptop/#ftag=CAD590a51e)
- - [VCs say some AI startups, under pressure to show rapid ARR growth, are using questionable accounting practices like counting one-time deals as recurring revenue &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250929/p1#a250929p1)
- - [Mini-LED vs. OLED: What&#39;s the Best TV Technology?](https://www.cnet.com/tech/home-entertainment/mini-led-vs-oled-whats-the-best-tv-technology/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Battery Life Laptops of 2025](https://www.cnet.com/tech/computing/best-battery-life-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

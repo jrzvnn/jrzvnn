@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
  - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 😝 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
- - 💣 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
+ - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
  - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
- - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 👉 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)<!-- MEMES:END -->
 
 ---
 

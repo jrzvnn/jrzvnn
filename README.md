@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It ain&#39;t much but it&#39;s honest work](http://9gag.com/gag/aryrG2y)
- - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
- - 💣 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
- - 😝 [A Texas homeowner noticed two car thieves breaking into his vehicle Saturday around 12:30 a.m. So he went outside and opened fire, hitting one of the suspects. DA declined charges `as he was protecting his property.` Both men were charged with burglary.](http://9gag.com/gag/an7W5nn)
- - 👉 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)<!-- MEMES:END -->
+ - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 😝 [Praising to a rapist, liar and murder seems obviously wrong](http://9gag.com/gag/aByNg6O)
+ - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
+ - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
 
 ---
 

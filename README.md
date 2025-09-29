@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 💣 [What? You called me pretty?](http://9gag.com/gag/aPAdjQn)
- - 😝 [The only right answer when asked this question.](http://9gag.com/gag/aByNgK1)
- - 👉 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)<!-- MEMES:END -->
+ - 😝 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
+ - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
+ - 💣 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 😝 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
+ - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---
 

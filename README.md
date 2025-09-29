@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon event preview, iPhone 17 first week reactions, &amp; Kohler smart shower on HomeKit Insider](https://appleinsider.com/articles/25/09/29/amazon-event-preview-iphone-17-first-week-reactions-kohler-smart-shower-on-homekit-insider?utm_source=rss)
+ - [Apple Watch SE 3 review: Boring, but the one to buy](https://appleinsider.com/articles/25/09/29/apple-watch-se-3-review-boring-but-the-one-to-buy?utm_source=rss)
+ - [Anker’s fastest airline-friendly power bank is now available](https://www.theverge.com/news/787213/anker-prime-power-bank-300w-battery-portable-charger-airline-friendly)
  - [Alexa Plus is smarter — but it’s not yet smart enough](https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home)
- - [Swift says it is building a blockchain-based ledger with over 30 financial institutions and the first prototype will be built in partnership with Consensys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p25#a250929p25)
- - [Samsung&#39;s president has all but confirmed a 2026 iPhone Fold release](https://appleinsider.com/articles/25/09/29/samsung-oled-ramp-up-signals-probable-2026-apple-iphone-fold-release?utm_source=rss)
- - [Amazon’s kid-friendly Kindles are cheaper than ever ahead of October Prime Day](https://www.theverge.com/tech/787249/amazon-kindle-kids-october-prime-day-deal-sale)
- - [It&#39;s not clear how badly Trump&#39;s 100% tariffs on films will hit Apple TV+](https://appleinsider.com/articles/25/09/29/its-not-clear-how-badly-trumps-100-tariffs-on-films-will-hit-apple-tv?utm_source=rss)<!-- TECH:END -->
+ - [Swift says it is building a blockchain-based ledger with over 30 financial institutions and the first prototype will be built in partnership with Consensys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p25#a250929p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california)
  - [Internal memo: Microsoft is unifying its key Windows engineering teams under a single organization led by Windows chief Pavan Davuluri, reversing a 2018 split &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250929/p45#a250929p45)
  - [Open-source Android app store F-Droid says Google&#39;s upcoming requirement for all Android devs to verify their identity threatens to kill alternative app stores &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250929/p44#a250929p44)
  - [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes)
- - [Tile&amp;#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)
- - [Automated financial advisory startup Wealthfront files publicly for an IPO and reports net income of $60.7M on revenue of $175.6M in H1 2025 &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250929/p43#a250929p43)<!-- TECH:END -->
+ - [Tile&amp;#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A judge sentences Frank founder Charlie Javice to 85 months in prison for defrauding JPMorgan Chase by overstating how many customers the fintech company had &lpar;CNBC&rpar;](http://www.techmeme.com/250929/p42#a250929p42)
  - [What EA’s buyout might mean for its future](https://www.theverge.com/games/787723/ea-private-deal-buyout-future-games-layoffs)
  - [Filing: YouTube will pay $24.5M to settle a 2021 Trump lawsuit over suspending his account after Jan. 6, the last Big Tech company to settle his lawsuits &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p41#a250929p41)
  - [Robinhood CEO Vladimir Tenev says Robinhood Prediction Markets crossed 4B event contracts traded all-time, with over 2B in Q3 alone; HOOD closes up 12.27% &lpar;Bernard Goyder/Bloomberg&rpar;](http://www.techmeme.com/250929/p40#a250929p40)
- - [PlayStation is getting a big, fancy art book full of unused designs](https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes)
- - [California Governor Gavin Newsom signs SB 53 into law; the first-in-the-nation AI safety law requires AI companies to disclose their safety testing regimes &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/250929/p39#a250929p39)<!-- TECH:END -->
+ - [PlayStation is getting a big, fancy art book full of unused designs](https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

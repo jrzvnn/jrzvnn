@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
- - 😝 [ROAD RAGE FIGHT](http://9gag.com/gag/a7o6DEr)
- - 💣 [The reason they didn\u2019t pass under the train is because](http://9gag.com/gag/an7WjGn)
- - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
- - 👉 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)<!-- MEMES:END -->
+ - 😝 [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
+ - 😝 [Walking dead extras having fun](http://9gag.com/gag/azxD9yb)
+ - 💣 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)
+ - 😝 [FAFO with the Brazilian police](http://9gag.com/gag/apRjmA9)
+ - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
 
 ---
 

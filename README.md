@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft launches Agent Mode in Excel and Word, using GPT-5 to generate complex spreadsheets and documents, saying it is &quot;bringing vibe working&quot; to 365 Copilot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250929/p19#a250929p19)
+ - [Microsoft launches ‘vibe working’ in Excel and Word](https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models)
  - [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
  - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)
- - [FCC mistakenly leaks confidential iPhone 16e schematics](https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=rss)
- - [$55 billion EA buyout hands Madden over to investors including Saudi Arabia and Jared Kushner](https://www.theverge.com/news/787112/electronic-arts-55-billion-privacte-acquisition-pif-silver-lake-affinity-partners)
- - [EA&#39;s $55B sale is the largest leveraged buyout on record and represents a 25% premium on its October 26 close, as the $178B video game industry&#39;s growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p18#a250929p18)<!-- TECH:END -->
+ - [FCC mistakenly leaks confidential iPhone 16e schematics](https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

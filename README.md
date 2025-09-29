@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Battery Life Laptops of 2025](https://www.cnet.com/tech/computing/best-battery-life-laptop/#ftag=CAD590a51e)
  - [VCs say some AI startups, under pressure to show rapid ARR growth, are using questionable accounting practices like counting one-time deals as recurring revenue &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250929/p1#a250929p1)
+ - [Mini-LED vs. OLED: What&#39;s the Best TV Technology?](https://www.cnet.com/tech/home-entertainment/mini-led-vs-oled-whats-the-best-tv-technology/#ftag=CAD590a51e)
  - [Microplastics Could Be Weakening Your Bones, Research Suggests](https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 29, #371](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-29-371/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Sept. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-sept-29/#ftag=CAD590a51e)
- - [A look at China&#39;s Ministry of State Security, which has been reshaped by Xi Jinping to be the primary driver of cyber espionage campaigns like Salt Typhoon &lpar;New York Times&rpar;](http://www.techmeme.com/250928/p23#a250928p23)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 29, #371](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-29-371/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

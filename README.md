@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron mechanical keyboards are up to 62 percent off](https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale)
- - [Samsung OLED ramp up signals probable 2026 Apple iPhone Fold release](https://appleinsider.com/articles/25/09/29/samsung-oled-ramp-up-signals-probable-2026-apple-iphone-fold-release?utm_source=rss)
- - [FCC mistakenly leaks confidential iPhone 16e schematics](https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=rss)
- - [BMW UI chief busts CarPlay &#39;myth&#39; over in-car navigation](https://appleinsider.com/articles/25/09/29/bmw-ui-chief-busts-carplay-myth-over-in-car-navigation?utm_source=rss)
- - [OpenAI’s parental controls are out — here’s what you should know](https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know)<!-- TECH:END -->
+ - [Samsung&#39;s president has all but confirmed a 2026 iPhone Fold release](https://appleinsider.com/articles/25/09/29/samsung-oled-ramp-up-signals-probable-2026-apple-iphone-fold-release?utm_source=rss)
+ - [Amazon’s kid-friendly Kindles are cheaper than ever ahead of October Prime Day](https://www.theverge.com/tech/787249/amazon-kindle-kids-october-prime-day-deal-sale)
+ - [It&#39;s not clear how badly Trump&#39;s 100% tariffs on films will hit Apple TV+](https://appleinsider.com/articles/25/09/29/its-not-clear-how-badly-trumps-100-tariffs-on-films-will-hit-apple-tv?utm_source=rss)
+ - [Snapchat announces it will limit storage for its Memories feature to 5GB for free users and launches paid storage plans, including 100GB for $1.99 per month &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/250929/p24#a250929p24)
+ - [Keychron mechanical keyboards are up to 62 percent off](https://www.theverge.com/tech/787159/keychron-mechanical-keyboard-nvidia-5060-ti-gpu-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

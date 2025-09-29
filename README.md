@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The duality of Man](https://www.reddit.com/r/funny/comments/1ntn0uf/the_duality_of_man/)
  - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
- - 👉 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)<!-- MEMES:END -->
+ - 💣 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 👉 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)<!-- MEMES:END -->
 
 ---
 

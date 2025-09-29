@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Neptune Robotics, which makes robots to clean the underside of giant ships, raised $52M and aims to use AI to help clean ~150 ships per month &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p6#a250929p6)
- - [Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say](https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/)
- - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)
- - [Several US states have passed bills to ban or restrict AI mental health treatment, as experts say state laws lag behind the fast-moving AI therapy landscape &lpar;Devi Shastri/Associated Press&rpar;](http://www.techmeme.com/250929/p5#a250929p5)
- - [EA&#39;s ~$50B buyout talks highlight the slowdown and consolidation trends in the $178B global gaming market after the COVID-19 boom, as gamers stick to old titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250929/p4#a250929p4)<!-- TECH:END -->
+ - [London-based Evantic Capital, founded by ex-Sequoia VC Matt Miller, raised a $400M fund, with ~12.5% coming from 135 &quot;legends&quot;, including CEOs, a novel strategy &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250929/p8#a250929p8)
+ - [The UK government underwrites a £1.5B loan to Jaguar Land Rover as the carmaker reels from a cyberattack that has crippled its production for around a month &lpar;Dominic Chopping/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p7#a250929p7)
+ - [11 Best Coffee Subscriptions &lpar;2025&rpar;, Tested by Caffeine Hounds](https://www.wired.com/gallery/best-coffee-subscriptions/)
+ - [OpenAI Adds Parental Safety Controls for Teen ChatGPT Users. Here’s What to Expect](https://www.wired.com/story/openai-teen-safety-tools-chatgpt-parents-suicidal-ideation/)
+ - [Singapore-based Neptune Robotics, which makes robots to clean the underside of giant ships, raised $52M and aims to use AI to help clean ~150 ships per month &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p6#a250929p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

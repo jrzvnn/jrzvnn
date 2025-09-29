@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How debt is fueling the next wave of the AI infrastructure boom; an analyst estimates Oracle needs to borrow $25B/year over four years to fund its OpenAI plans &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p15#a250929p15)
  - [CMF’s first over-ear headphones have an energy slider for boosting bass and treble](https://www.theverge.com/news/786552/cmf-headphone-pro-nothing-anc-energy-slider-volume-wheel)
  - [Marissa Mayer is dissolving AI startup Sunshine, founded in 2018, and sells its assets to her new company Dazzle, which sources say is making an AI assistant &lpar;Wired&rpar;](http://www.techmeme.com/250929/p14#a250929p14)
  - [OpenAI launches new ChatGPT parental safety controls for users aged 13 to 18, including parental and law enforcement alerts for chats about self-harm or suicide &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250929/p13#a250929p13)
- - [Sources: Huawei aims to produce ~600K of its marquee 910C Ascend chips in 2026, roughly double 2025&#39;s level, and raise its Ascend lineup output to 1.6M dies &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p12#a250929p12)
- - [The 3 Best Coffee Subscription Deals for National Coffee Day 2025](https://www.wired.com/story/national-coffee-day-deals-2025/)<!-- TECH:END -->
+ - [Sources: Huawei aims to produce ~600K of its marquee 910C Ascend chips in 2026, roughly double 2025&#39;s level, and raise its Ascend lineup output to 1.6M dies &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p12#a250929p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

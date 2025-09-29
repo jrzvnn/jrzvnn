@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
  - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 💣 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 😝 [Not sure how this makes me feel...](http://9gag.com/gag/aND21Dw)
+ - 💣 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
  - 😝 [Remember your importance](http://9gag.com/gag/ajPM5Kx)
  - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 

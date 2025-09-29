@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They are all around us](http://9gag.com/gag/aAyN3dL)
  - 😝 [It&#39;s only bad if my people are getting killed](http://9gag.com/gag/a9yNKED)
- - 💣 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)
  - 😝 [FAFO with the Brazilian police](http://9gag.com/gag/apRjmA9)
- - 👉 [Walking dead extras having fun](http://9gag.com/gag/azxD9yb)<!-- MEMES:END -->
+ - 💣 [This app is so racist rn I&#39;m ready for the downvote tsunami, bring in on b*tches](http://9gag.com/gag/ae9PrVO)
+ - 😝 [The only right answer when asked this question.](http://9gag.com/gag/aByNgK1)
+ - 👉 [Who disagrees?](http://9gag.com/gag/a5Qyn6o)<!-- MEMES:END -->
 
 ---
 

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
  - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
  - 💣 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
- - 😝 [Self explanatory .....](http://9gag.com/gag/an7W5QV)
+ - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
  - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
 
 ---

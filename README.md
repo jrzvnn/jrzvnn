@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepMind: video models like Veo 3 could become general purpose foundation models for vision, like LLMs for text, using zero-shot &quot;chain-of-frames&quot; reasoning &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p2#a250929p2)
  - [Best Battery Life Laptops of 2025](https://www.cnet.com/tech/computing/best-battery-life-laptop/#ftag=CAD590a51e)
  - [VCs say some AI startups, under pressure to show rapid ARR growth, are using questionable accounting practices like counting one-time deals as recurring revenue &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250929/p1#a250929p1)
  - [Mini-LED vs. OLED: What&#39;s the Best TV Technology?](https://www.cnet.com/tech/home-entertainment/mini-led-vs-oled-whats-the-best-tv-technology/#ftag=CAD590a51e)
- - [Microplastics Could Be Weakening Your Bones, Research Suggests](https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Sept. 29, #371](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-sept-29-371/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microplastics Could Be Weakening Your Bones, Research Suggests](https://www.wired.com/story/microplastics-could-be-weakening-your-bones-research-suggests-osteoporosis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

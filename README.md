@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Vanguard, the asset manager which has historically been critical of cryptocurrencies, prepares to allow access to crypto ETFs on its brokerage platform &lpar;Crypto in America&rpar;](http://www.techmeme.com/250929/p38#a250929p38)
  - [Amazon launches sale on 2025 Apple Watch Series 11, SE 3, Ultra 3](https://appleinsider.com/articles/25/09/29/amazon-launches-sale-on-2025-apple-watch-series-11-se-3-ultra-3?utm_source=rss)
  - [Sources: OpenAI plans a stand-alone social app powered by Sora 2, featuring a TikTok-like vertical feed with AI-generated videos and a recommendation page &lpar;Wired&rpar;](http://www.techmeme.com/250929/p37#a250929p37)
  - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [Sources: OpenAI told studios that it plans to release a new version of Sora that creates videos featuring copyrighted material unless copyright holders opt out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p36#a250929p36)<!-- TECH:END -->
+ - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

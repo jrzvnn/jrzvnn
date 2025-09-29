@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)
- - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
  - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
+ - 😝 [What? You called me pretty?](http://9gag.com/gag/aPAdjQn)
+ - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
+ - 😝 [Have you tried booze?](http://9gag.com/gag/a4PrQgZ)
+ - 👉 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)<!-- MEMES:END -->
 
 ---
 

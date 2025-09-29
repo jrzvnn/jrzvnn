@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI is open sourcing the Agentic Commerce Protocol, a standard for AI commerce that powers its Instant Checkout feature and was co-developed with Stripe &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/250929/p32#a250929p32)
+ - [Apple&#39;s iOS 26.0.1, macOS 26.0.1, iPadOS 26.0.1 updates fix multiple issues](https://appleinsider.com/articles/25/09/29/apples-ios-2601-macos-2601-ipados-2601-updates-fix-multiple-issues?utm_source=rss)
+ - [Lenovo&#39;s Latest Gaming Laptop Is $200 Off Right Now](https://www.wired.com/story/lenovo-legion-7i-gen-10-deal/)
  - [Anthropic announces upgrades to Claude Code: a native VS Code extension, a new terminal interface, and checkpoints for autonomous operation &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p31#a250929p31)
- - [OpenAI rolls out Instant Checkout to let users make single-item purchases directly in ChatGPT, starting with US Etsy sellers, and plans to add Shopify merchants &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250929/p30#a250929p30)
- - [Anthropic says Claude Sonnet 4.5 spent 30 hours running autonomously, writing 11,000 lines of code to build a chat app akin to Slack or Teams &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250929/p29#a250929p29)
- - [Anthropic launches Claude Sonnet 4.5, claims it is the world&#39;s best coding model, strongest for building complex agents, and its &quot;most aligned&quot; frontier model &lpar;Anthropic&rpar;](http://www.techmeme.com/250929/p28#a250929p28)
- - [Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy](https://www.theverge.com/ai-artificial-intelligence/787524/anthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy)<!-- TECH:END -->
+ - [OpenAI rolls out Instant Checkout to let users make single-item purchases directly in ChatGPT, starting with US Etsy sellers, and plans to add Shopify merchants &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/250929/p30#a250929p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

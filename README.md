@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Modal Labs, which offers a serverless cloud platform to build AI apps and run AI inference, raised $87M led by Lux Capital at a $1.1B valuation &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/250929/p20#a250929p20)
  - [Microsoft launches Agent Mode in Excel and Word, using GPT-5 to generate complex spreadsheets and documents, saying it is &quot;bringing vibe working&quot; to 365 Copilot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250929/p19#a250929p19)
  - [Microsoft launches ‘vibe working’ in Excel and Word](https://www.theverge.com/news/787076/microsoft-office-agent-mode-office-agent-anthropic-models)
  - [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
- - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)
- - [FCC mistakenly leaks confidential iPhone 16e schematics](https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=rss)<!-- TECH:END -->
+ - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

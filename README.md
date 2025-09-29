@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FCC mistakenly leaks confidential iPhone 16e schematics](https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=rss)
+ - [BMW UI chief busts CarPlay &#39;myth&#39; over in-car navigation](https://appleinsider.com/articles/25/09/29/bmw-ui-chief-busts-carplay-myth-over-in-car-navigation?utm_source=rss)
  - [OpenAI’s parental controls are out — here’s what you should know](https://www.theverge.com/ai-artificial-intelligence/787227/openais-parental-controls-are-out-heres-what-you-should-know)
  - [The US Commerce Department says subsidiaries of entity list companies would also be subject to trade restrictions, threatening Chinese companies, from Tuesday &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/250929/p23#a250929p23)
- - [Researchers: Tile tags broadcast unencrypted MAC addresses and unique IDs; researchers informed Life360 in November 2024 but it stopped replying in February &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250929/p22#a250929p22)
- - [GameSir’s clip-on controller turns smartphones into Game Boys](https://www.theverge.com/news/787200/gamesir-controller-smartphone-nintendo-game-boy-tokyo-game-show)
- - [Google rolls out its new gradient &quot;G&quot; icon company-wide, saying it &quot;now represents all of Google ... and visually reflects our evolution in the AI era&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/250929/p21#a250929p21)<!-- TECH:END -->
+ - [Researchers: Tile tags broadcast unencrypted MAC addresses and unique IDs; researchers informed Life360 in November 2024 but it stopped replying in February &lpar;Kim Zetter/Wired&rpar;](http://www.techmeme.com/250929/p22#a250929p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

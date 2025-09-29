@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 😝 [Not sure how this makes me feel...](http://9gag.com/gag/aND21Dw)
- - 💣 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
- - 😝 [Remember your importance](http://9gag.com/gag/ajPM5Kx)
- - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 😝 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 💣 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
+ - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 

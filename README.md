@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 💣 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
- - 😝 [Self explanatory .....](http://9gag.com/gag/an7W5QV)
- - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
+ - 😝 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
+ - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
+ - 👉 [Gonna catch em all](http://9gag.com/gag/aVv13MK)<!-- MEMES:END -->
 
 ---
 

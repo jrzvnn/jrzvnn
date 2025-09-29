@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)
+ - [How Brazil&#39;s Pix digital payment system, adopted by 80%+ of citizens, became a target of the Trump administration, which says it unfairly undercuts US companies &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250929/p46#a250929p46)
  - [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california)
  - [Internal memo: Microsoft is unifying its key Windows engineering teams under a single organization led by Windows chief Pavan Davuluri, reversing a 2018 split &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250929/p45#a250929p45)
- - [Open-source Android app store F-Droid says Google&#39;s upcoming requirement for all Android devs to verify their identity threatens to kill alternative app stores &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250929/p44#a250929p44)
- - [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes)
- - [Tile&amp;#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)<!-- TECH:END -->
+ - [Open-source Android app store F-Droid says Google&#39;s upcoming requirement for all Android devs to verify their identity threatens to kill alternative app stores &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250929/p44#a250929p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

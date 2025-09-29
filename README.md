@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Chinese woman pleads guilty in a London court to laundering bitcoin linked to a £5B Chinese investment scheme in which UK police seized 61,000 bitcoin in 2018 &lpar;Suzi Ring/Financial Times&rpar;](http://www.techmeme.com/250929/p26#a250929p26)
+ - [Developers leverage Apple Intelligence for new mental health, fitness, and productivity features](https://appleinsider.com/articles/25/09/29/developers-leverage-apple-intelligence-for-new-mental-health-fitness-and-productivity-features?utm_source=rss)
+ - [Apple Vision Pro enters enterprise design work with Webex 3D tools](https://appleinsider.com/articles/25/09/29/apple-vision-pro-enters-enterprise-design-work-with-webex-3d-tools?utm_source=rss)
  - [Amazon event preview, iPhone 17 first week reactions, &amp; Kohler smart shower on HomeKit Insider](https://appleinsider.com/articles/25/09/29/amazon-event-preview-iphone-17-first-week-reactions-kohler-smart-shower-on-homekit-insider?utm_source=rss)
- - [Apple Watch SE 3 review: Boring, but the one to buy](https://appleinsider.com/articles/25/09/29/apple-watch-se-3-review-boring-but-the-one-to-buy?utm_source=rss)
- - [Anker’s fastest airline-friendly power bank is now available](https://www.theverge.com/news/787213/anker-prime-power-bank-300w-battery-portable-charger-airline-friendly)
- - [Alexa Plus is smarter — but it’s not yet smart enough](https://www.theverge.com/report/787171/amazon-alexa-plus-hardware-event-smart-home)
- - [Swift says it is building a blockchain-based ledger with over 30 financial institutions and the first prototype will be built in partnership with Consensys &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p25#a250929p25)<!-- TECH:END -->
+ - [Apple Watch SE 3 review: Boring, but the one to buy](https://appleinsider.com/articles/25/09/29/apple-watch-se-3-review-boring-but-the-one-to-buy?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

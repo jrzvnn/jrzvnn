@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
  - 😝 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
- - 😝 [Fly away](http://9gag.com/gag/a34pMN3)
- - 💣 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
+ - 💣 [Fly away](http://9gag.com/gag/a34pMN3)
  - 😝 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
  - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
  - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 😝 [What? You called me pretty?](http://9gag.com/gag/aPAdjQn)
- - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 😝 [Have you tried booze?](http://9gag.com/gag/a4PrQgZ)
- - 👉 [Dating In Your 30&#39;s Dangers.](http://9gag.com/gag/a0eW51B)<!-- MEMES:END -->
+ - 💣 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 😝 [It&#39;s funny because it&#39;s true](http://9gag.com/gag/aAyN3DR)
+ - 👉 [What? You called me pretty?](http://9gag.com/gag/aPAdjQn)<!-- MEMES:END -->
 
 ---
 

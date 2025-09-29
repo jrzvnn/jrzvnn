@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
+ - 😝 [Have you tried booze?](http://9gag.com/gag/a4PrQgZ)
+ - 💣 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
  - 😝 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
- - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 💣 [Love spell](http://9gag.com/gag/a87X3eV)
- - 😝 [Self explanatory .....](http://9gag.com/gag/an7W5QV)
  - 👉 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)<!-- MEMES:END -->
 
 ---

@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at China&#39;s Ministry of State Security, which has been reshaped by Xi Jinping to be the primary driver of cyber espionage campaigns like Salt Typhoon &lpar;New York Times&rpar;](http://www.techmeme.com/250928/p23#a250928p23)
- - [Caltech says it built the world&#39;s largest neutral-atom quantum computer, with 6,100 qubits, 13 second coherence, 10x longer than the past, and 99.98% accuracy &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/250928/p22#a250928p22)
+ - [Caltech says it built the world&#39;s largest neutral-atom quantum computer, with 6,100 qubits, 13 second coherence, 10x longer than previously, and 99.98% accuracy &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/250928/p22#a250928p22)
  - [An interview with Jeanine Wright, CEO of Inception Point AI, about her vow to continue mass-publishing episodes of AI-generated podcasts despite backlash &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/250928/p21#a250928p21)
  - [An investigation reveals how the Russian military spy ship Yantar is being used to map and potentially intercept undersea telecommunication cables across Europe &lpar;Financial Times&rpar;](http://www.techmeme.com/250928/p20#a250928p20)
  - [A therapist details treating ChatGPT as a &quot;patient&quot;, describing its programmed self-critique as &quot;a brilliant means of seducing a techno-skeptical therapist&quot; &lpar;Gary Greenberg/New Yorker&rpar;](http://www.techmeme.com/250928/p19#a250928p19)<!-- TECH:END -->

@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 😝 [Peak Writing](http://9gag.com/gag/apRjmpp)
  - 💣 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
+ - 😝 [.](http://9gag.com/gag/aByNm8Z)
  - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 😝 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 😝 [&lpar;Repost&rpar; Let\u2019s not forget this: Pedophiles aren\u2019t just one party, religion or country. People who don\u2019t want it released are either on the list or afraid / influenced by them](http://9gag.com/gag/aGyNdK0)
- - 👉 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)<!-- MEMES:END -->
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Saudi Arabia&#39;s PIF is the largest contributor to the $36B in equity used to finance the EA deal; it will roll over its $5B EA stake into the new entity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p47#a250929p47)
+ - [Here are 55 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
  - [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)
  - [How Brazil&#39;s Pix digital payment system, adopted by 80%+ of citizens, became a target of the Trump administration, which says it unfairly undercuts US companies &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250929/p46#a250929p46)
- - [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california)
- - [Internal memo: Microsoft is unifying its key Windows engineering teams under a single organization led by Windows chief Pavan Davuluri, reversing a 2018 split &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250929/p45#a250929p45)
- - [Open-source Android app store F-Droid says Google&#39;s upcoming requirement for all Android devs to verify their identity threatens to kill alternative app stores &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/250929/p44#a250929p44)<!-- TECH:END -->
+ - [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

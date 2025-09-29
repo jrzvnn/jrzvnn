@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is bringing its Windows engineering teams back together again](https://www.theverge.com/report/787796/microsoft-windows-reorg-single-engineering-team-changes)
+ - [Tile&amp;#8217;s lack of encryption could make tracker owners vulnerable to stalking](https://www.theverge.com/news/787836/tile-trackers-stalking-research-unencrypted)
+ - [Automated financial advisor startup Wealthfront files publicly for an IPO and reports net income of $60.7M on revenue of $175.6M in H1 2025 &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/250929/p43#a250929p43)
  - [A judge sentences Frank founder Charlie Javice to 85 months in prison for defrauding JPMorgan Chase by overstating how many customers the fintech company had &lpar;CNBC&rpar;](http://www.techmeme.com/250929/p42#a250929p42)
- - [What EA’s buyout might mean for its future](https://www.theverge.com/games/787723/ea-private-deal-buyout-future-games-layoffs)
- - [Filing: YouTube will pay $24.5M to settle a 2021 Trump lawsuit over suspending his account after Jan. 6, the last Big Tech company to settle his lawsuits &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p41#a250929p41)
- - [Robinhood CEO Vladimir Tenev says Robinhood Prediction Markets crossed 4B event contracts traded all-time, with over 2B in Q3 alone; HOOD closes up 12.27% &lpar;Bernard Goyder/Bloomberg&rpar;](http://www.techmeme.com/250929/p40#a250929p40)
- - [PlayStation is getting a big, fancy art book full of unused designs](https://www.theverge.com/news/787751/sony-playstation-first-30-years-photography-book-concepts-prototypes)<!-- TECH:END -->
+ - [AI Can Now Help You Create Top-Grade Word Documents and Excel Spreadsheets](https://www.cnet.com/tech/services-and-software/ai-can-now-help-you-create-top-grade-word-documents-and-excel-spreadsheets/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

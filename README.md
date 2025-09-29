@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 😝 [Praising to a rapist, liar and murder seems obviously wrong](http://9gag.com/gag/aByNg6O)
- - 💣 [British cop tried to detain a man in public](http://9gag.com/gag/a9yNpqZ)
- - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
- - 👉 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)<!-- MEMES:END -->
+ - 😝 [When you buy a cruise ticket from Temu](http://9gag.com/gag/a0eWQMn)
+ - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
+ - 💣 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 😝 [Find a job you enjoy doing, and you will never have to work a day in your life.](http://9gag.com/gag/aAyNgXp)
+ - 👉 [Huh lol](http://9gag.com/gag/aAyNxmR)<!-- MEMES:END -->
 
 ---
 

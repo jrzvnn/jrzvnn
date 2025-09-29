@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches sale on 2025 Apple Watch Series 11, SE 3, Ultra 3](https://appleinsider.com/articles/25/09/29/amazon-launches-sale-on-2025-apple-watch-series-11-se-3-ultra-3?utm_source=rss)
  - [Sources: OpenAI plans a stand-alone social app powered by Sora 2, featuring a TikTok-like vertical feed with AI-generated videos and a recommendation page &lpar;Wired&rpar;](http://www.techmeme.com/250929/p37#a250929p37)
  - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
- - [Sources: OpenAI told studios that it plans to release a new version of Sora that creates videos featuring copyrighted material unless copyright holders opt out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p36#a250929p36)
- - [OpenAI Is Preparing to Launch a Social App for AI-Generated Videos](https://www.wired.com/story/openai-launches-sora-2-tiktok-like-app/)
- - [Anthropic prices Claude Sonnet 4.5 at $3/1M input and $15/1M output tokens, same as Sonnet 4, cheaper than Opus at $15/$75 but higher than GPT-5 at $1.25/$10 &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/250929/p35#a250929p35)<!-- TECH:END -->
+ - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
+ - [Sources: OpenAI told studios that it plans to release a new version of Sora that creates videos featuring copyrighted material unless copyright holders opt out &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250929/p36#a250929p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

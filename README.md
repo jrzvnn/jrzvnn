@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA&#39;s $55B sale is the largest leveraged buyout on record and represents a 25% premium on its October 26 close, as the $178B video game industry&#39;s growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p18#a250929p18)
- - [DeepSeek releases DeepSeek-V3.2-Exp, saying it built the model using a new technique called DeepSeek Sparse Attention, and halves the pricing of its tools &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/250929/p17#a250929p17)
- - [EA agrees to be acquired by Saudi Arabia&#39;s PIF, Silver Lake, and Affinity for $210 per share, taking it private at a ~$55B valuation, set to close in Q1 FY 2027 &lpar;Electronic Arts&rpar;](http://www.techmeme.com/250929/p16#a250929p16)
- - [Ford doesn&#39;t think CarPlay Ultra is worth using now, but will look at future versions](https://appleinsider.com/articles/25/09/29/ford-doesnt-think-carplay-ultra-is-worth-using-now-but-will-look-at-future-versions?utm_source=rss)
- - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)<!-- TECH:END -->
+ - [Qualcomm’s Snapdragon X2 Elite Extreme Performance Puts Pressure Back on Intel and Apple](https://www.wired.com/story/qualcomm-snapdragon-x2-elite-extreme-benchmarks/)
+ - [Get a look at the OnePlus 15 from every angle](https://www.theverge.com/news/787104/oneplus-15-sand-storm-design-photos-colors-ceramic-fiberglass)
+ - [FCC mistakenly leaks confidential iPhone 16e schematics](https://appleinsider.com/articles/25/09/29/fcc-mistakenly-leaks-confidential-iphone-16e-schematics?utm_source=rss)
+ - [$55 billion EA buyout hands Madden over to investors including Saudi Arabia and Jared Kushner](https://www.theverge.com/news/787112/electronic-arts-55-billion-privacte-acquisition-pif-silver-lake-affinity-partners)
+ - [EA&#39;s $55B sale is the largest leveraged buyout on record and represents a 25% premium on its October 26 close, as the $178B video game industry&#39;s growth slows &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p18#a250929p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

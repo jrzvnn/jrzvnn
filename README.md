@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind, Meta, Nvidia, and others are racing to release world models, aiming to navigate the physical world by learning from videos and robotic data &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p11#a250929p11)
  - [US Commerce Secretary Howard Lutnick says the US aims to get &quot;maybe 50% market share&quot; of chip and wafer production to offset Beijing&#39;s threats to invade Taiwan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p10#a250929p10)
  - [Should You Freeze Coffee Beans? Only if You Do It the Right Way](https://www.wired.com/story/how-to-freeze-coffee-beans/)
  - [Marissa Mayer Is Dissolving Her Sunshine Startup Lab](https://www.wired.com/story/marissa-mayer-sunshine-startup-shut-down/)
- - [OpenAI launches its first extended ad campaign for ChatGPT featuring three 30-second cinematic ads with a focus on everyday AI use cases in the US and the UK &lpar;Tim Nudd/Ad Age&rpar;](http://www.techmeme.com/250929/p9#a250929p9)
- - [London-based Evantic Capital, founded by ex-Sequoia VC Matt Miller, raised a $400M fund, with ~12.5% coming from 135 &quot;legends&quot;, including CEOs, a novel strategy &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/250929/p8#a250929p8)<!-- TECH:END -->
+ - [OpenAI launches its first extended ad campaign for ChatGPT featuring three 30-second cinematic ads with a focus on everyday AI use cases in the US and the UK &lpar;Tim Nudd/Ad Age&rpar;](http://www.techmeme.com/250929/p9#a250929p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

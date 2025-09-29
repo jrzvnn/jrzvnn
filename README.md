@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google DeepMind, Meta, Nvidia, and others are racing to release world models, aiming to navigate the physical world by learning from videos and robotic data &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p11#a250929p11)
- - [US Commerce Secretary Howard Lutnick says the US aims to get &quot;maybe 50% market share&quot; of chip and wafer production to offset Beijing&#39;s threats to invade Taiwan &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p10#a250929p10)
- - [Should You Freeze Coffee Beans? Only if You Do It the Right Way](https://www.wired.com/story/how-to-freeze-coffee-beans/)
- - [Marissa Mayer Is Dissolving Her Sunshine Startup Lab](https://www.wired.com/story/marissa-mayer-sunshine-startup-shut-down/)
- - [OpenAI launches its first extended ad campaign for ChatGPT featuring three 30-second cinematic ads with a focus on everyday AI use cases in the US and the UK &lpar;Tim Nudd/Ad Age&rpar;](http://www.techmeme.com/250929/p9#a250929p9)<!-- TECH:END -->
+ - [OpenAI launches new ChatGPT parental safety controls for users aged 13 to 18, including parental and law enforcement alerts for chats about self-harm or suicide &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250929/p13#a250929p13)
+ - [Sources: Huawei aims to produce ~600K of its marquee 910C Ascend chips in 2026, roughly double 2025&#39;s level, and raise its Ascend lineup output to 1.6M dies &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p12#a250929p12)
+ - [The 3 Best Coffee Subscription Deals for National Coffee Day 2025](https://www.wired.com/story/national-coffee-day-deals-2025/)
+ - [How to Use a Password Manager to Share Your Logins After You Die &lpar;2025&rpar;](https://www.wired.com/story/how-to-use-a-password-manager-to-share-your-logins-after-you-die/)
+ - [Inside iMovie - How to get started with video editing on iPhone and iPad](https://appleinsider.com/inside/ios-26/tips/inside-imovie---how-to-get-started-with-video-editing-on-iphone-and-ipad?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

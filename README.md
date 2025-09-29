@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lifehack of the day...](http://9gag.com/gag/ajPM56w)
+ - 😝 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
  - 😝 [Gonna catch em all](http://9gag.com/gag/aVv13MK)
- - 💣 [Attempted Bike Theft](http://9gag.com/gag/aMVNjWx)
- - 😝 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 💣 [A Tikkor confuses Greek flag with Israel flag. Happened in &#39;murica](http://9gag.com/gag/aPAdjog)
+ - 😝 [Self explanatory .....](http://9gag.com/gag/an7W5QV)
  - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
 
 ---

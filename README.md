@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 😝 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
- - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
+ - 😝 [SIM cards are actually tiny computers](http://9gag.com/gag/ajPMEy1)
+ - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 😝 [What do project managers do](http://9gag.com/gag/aD2N4Gw)
  - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based Neptune Robotics, which makes robots to clean the underside of giant ships, raised $52M and aims to use AI to help clean ~150 ships per month &lpar;Yuan Gao/Bloomberg&rpar;](http://www.techmeme.com/250929/p6#a250929p6)
  - [Tile Tracking Tags Can Be Exploited by Tech-Savvy Stalkers, Researchers Say](https://www.wired.com/story/tile-tracking-tags-can-be-exploited-by-tech-savvy-stalkers-researchers-say/)
  - [New Apple displays, M5 MacBook upgrades expected by Q1 2026](https://appleinsider.com/articles/25/09/28/new-apple-displays-m5-macbook-upgrades-expected-by-q1-2026?utm_source=rss)
  - [Several US states have passed bills to ban or restrict AI mental health treatment, as experts say state laws lag behind the fast-moving AI therapy landscape &lpar;Devi Shastri/Associated Press&rpar;](http://www.techmeme.com/250929/p5#a250929p5)
- - [EA&#39;s ~$50B buyout talks highlight the slowdown and consolidation trends in the $178B global gaming market after the COVID-19 boom, as gamers stick to old titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250929/p4#a250929p4)
- - [Best Minimalist Wallet for 2025 Tested By CNET Experts](https://www.cnet.com/tech/mobile/best-minimalist-wallet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EA&#39;s ~$50B buyout talks highlight the slowdown and consolidation trends in the $178B global gaming market after the COVID-19 boom, as gamers stick to old titles &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/250929/p4#a250929p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

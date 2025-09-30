@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FTC sues Zillow and Redfin, alleging they violated antitrust laws when Zillow paid Redfin $100M to stop competing against it in online rental listings &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250930/p44#a250930p44)
+ - [Google is blocking AI searches for Trump and dementia](https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden)
  - [President Trump signs an executive order directing his administration to invest $50M in AI-driven pediatric cancer research &lpar;Tina Reed/Axios&rpar;](http://www.techmeme.com/250930/p43#a250930p43)
  - [Save up to $1,145 on Apple&#39;s M4 Mac mini, with prices from $499](https://appleinsider.com/articles/25/09/30/save-up-to-1145-on-apples-m4-mac-mini-with-prices-from-499?utm_source=rss)
- - [TikTok, #freedom edition](https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator)
- - [Sora 2 is available for free with usage limits for all users, while ChatGPT Pro subscribers have access to the higher-quality Sora 2 Pro model &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250930/p42#a250930p42)
- - [Hermes Apple Watch Series 11 is as luxurious as ever with new Faubourg Party designs](https://appleinsider.com/articles/25/09/30/hermes-apple-watch-series-11-is-as-luxurious-as-ever-with-new-faubourg-party-designs?utm_source=rss)<!-- TECH:END -->
+ - [TikTok, #freedom edition](https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

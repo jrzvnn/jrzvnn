@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NetBlocks: Afghanistan is experiencing a &quot;total internet blackout&quot; as the Taliban imposes a telecom shutdown; an official says it will last until further notice &lpar;Anbarasan Ethirajan/BBC&rpar;](http://www.techmeme.com/250929/p51#a250929p51)
+ - [How Jared Kushner and Silver Lake co-CEO Egon Durban brokered the EA takeover using Kushner&#39;s deep Saudi Arabia ties; sources: Kushner&#39;s firm will own ~5% of EA &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p50#a250929p50)
+ - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
  - [South Korean AI chip maker Rebellions raised a $250M Series C at a $1.4B valuation; Arm joined the round as a strategic partner &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250929/p49#a250929p49)
- - [Leaked document: a &quot;widespread cybersecurity incident&quot; at FEMA allowed hackers to steal employee data from both FEMA and US CBP through a Citrix vulnerability &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250929/p48#a250929p48)
- - [Sources: Saudi Arabia&#39;s PIF is the largest contributor to the $36B in equity used to finance the EA deal; it will roll over its $5B EA stake into the new entity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p47#a250929p47)
- - [Here are 55 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
- - [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)<!-- TECH:END -->
+ - [Leaked document: a &quot;widespread cybersecurity incident&quot; at FEMA allowed hackers to steal employee data from both FEMA and US CBP through a Citrix vulnerability &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250929/p48#a250929p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

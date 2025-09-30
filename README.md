@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [What the M5 iPad Pro leak says about the M5 MacBook Air](https://appleinsider.com/articles/25/09/30/what-the-m5-ipad-pro-leak-says-about-the-m5-macbook-air?utm_source=rss)
  - [The 50 Best Shows on HBO Max Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Stripe launches Open Issuance, a stablecoin issuance platform built on Stripe&#39;s Bridge, which lets companies create their own stablecoins with minimal coding &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250930/p40#a250930p40)
- - [Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now](https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale)
- - [You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000](https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder)<!-- TECH:END -->
+ - [OpenAI&#39;s New Social Media App Will Be All AI Videos, Thanks to New Sora 2 Model](https://www.cnet.com/tech/services-and-software/openais-video-generator-gets-new-social-media-app-with-sora-2/#ftag=CAD590a51e)
+ - [Champions League Soccer: Livestream Bodø/Glimt vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-bodo-glimt-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

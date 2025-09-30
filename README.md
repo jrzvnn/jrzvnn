@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)
+ - [OpenAI launches Sora 2, which it says may be the &quot;GPT‑3.5 moment for video&quot; with the ability to follow intricate instructions spanning multiple shots &lpar;OpenAI&rpar;](http://www.techmeme.com/250930/p37#a250930p37)
+ - [Imgur is blocking users in the UK](https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation)
  - [Google&#39;s Ad Transparency tool no longer shows any political ads, past or present, from any EU countries ahead of new EU ad transparency regulations &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250930/p36#a250930p36)
- - [Microsoft is giving Copilot AI faces you can chat with](https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar)
- - [Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure](https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort)
- - [OpenAI’s new social video app will let you deepfake your friends](https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends)
- - [Apple wants to use your mattress as a body temperature sensor](https://appleinsider.com/articles/25/09/30/apple-wants-to-use-your-mattress-as-a-body-temperature-sensor?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft is giving Copilot AI faces you can chat with](https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

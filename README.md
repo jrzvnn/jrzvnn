@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 😝 [.](http://9gag.com/gag/aByNm8Z)
- - 👉 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)<!-- MEMES:END -->
+ - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 💣 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 😝 [Any Labubu X celebrity ideas?](http://9gag.com/gag/azxDM7K)
+ - 👉 [The best flight ever.](http://9gag.com/gag/aD2N4yG)<!-- MEMES:END -->
 
 ---
 

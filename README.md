@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just awareness, following news from UK](http://9gag.com/gag/awyGomB)
- - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 💣 [Klaus on Rebekah&#39;s love life](http://9gag.com/gag/a87X5yp)
- - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 👉 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)<!-- MEMES:END -->
+ - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 💣 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 😝 [When life made sense](http://9gag.com/gag/aRBN7NG)
+ - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
 
 ---
 

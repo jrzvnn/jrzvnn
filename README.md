@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Jensen Huang, who engaged little in politics until 2024, is using his newfound star power to strike deals in Europe, the Middle East, Japan, and elsewhere &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p4#a250930p4)
  - [Jaguar Land Rover secures £2B from banks as &quot;a liquidity backstop&quot;, on top of a £1.5B UK government loan, and aims to resume manufacturing after its huge hack &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p3#a250930p3)
- - [Best LED Masks of 2025, FDA Cleared for Red Light Therapy](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)
- - [Best PlayStation 5 Controllers in 2025](https://www.cnet.com/tech/gaming/best-playstation-5-controllers-in-2025/#ftag=CAD590a51e)
- - [I Tried an AI App for Sleep Analysis. I Learned a Lot About My Quality of Sleep](https://www.cnet.com/tech/services-and-software/i-tried-an-ai-app-for-sleep-analysis-i-learned-a-lot-about-my-quality-of-sleep/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Sept. 30, #576](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-sept-30-576/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Stop Putting Takeout Containers in the Microwave, Experts Warn](https://www.cnet.com/news/stop-putting-takeout-containers-in-the-microwave-experts-warn/#ftag=CAD590a51e)
+ - [Opera launches its AI browser, but you&amp;#8217;ll have to pay to try it](https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost)
+ - [Logitech MX Master 4 Review: Productivity Pro](https://www.wired.com/review/logitech-mx-master-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

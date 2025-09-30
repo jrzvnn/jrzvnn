@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best OLED TV of 2025](https://www.cnet.com/tech/home-entertainment/best-oled-tv/#ftag=CAD590a51e)
  - [Sources: Elon Musk&#39;s Tesla and xAI have had a wave of senior departures over the past year, driven by burnout, disillusionment with Musk&#39;s politics, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p7#a250930p7)
  - [The Best Over-the-Counter Sleep Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
  - [Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out](https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/)
- - [Education software maker Anthology files for bankruptcy, listing $1B to $10B in both assets and liabilities after its Blackboard merger debt became unmanageable &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p6#a250930p6)
- - [Meta expands its facial recognition tools to combat Facebook accounts impersonating public figures in Europe and South Korea, and plans an Instagram expansion &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/250930/p5#a250930p5)<!-- TECH:END -->
+ - [Education software maker Anthology files for bankruptcy, listing $1B to $10B in both assets and liabilities after its Blackboard merger debt became unmanageable &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p6#a250930p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump signs an executive order directing his administration to invest $50M in AI-driven pediatric cancer research &lpar;Tina Reed/Axios&rpar;](http://www.techmeme.com/250930/p43#a250930p43)
+ - [Save up to $1,145 on Apple&#39;s M4 Mac mini, with prices from $499](https://appleinsider.com/articles/25/09/30/save-up-to-1145-on-apples-m4-mac-mini-with-prices-from-499?utm_source=rss)
+ - [TikTok, #freedom edition](https://www.theverge.com/regulator-newsletter/789100/tiktok-portland-jimmy-kimmel-regulator)
  - [Sora 2 is available for free with usage limits for all users, while ChatGPT Pro subscribers have access to the higher-quality Sora 2 Pro model &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250930/p42#a250930p42)
- - [Hermes Apple Watch Series 11 is as luxurious as ever with new Faubourg Party designs](https://appleinsider.com/articles/25/09/30/hermes-apple-watch-series-11-is-as-luxurious-as-ever-with-new-faubourg-party-designs?utm_source=rss)
- - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025/)
- - [Amazon throws Alexa at everything in sight, from Kindles to doorbells](https://appleinsider.com/articles/25/09/30/amazon-throws-alexa-at-everything-in-sight-from-kindles-to-doorbells?utm_source=rss)
- - [Disney sent a cease-and-desist to Character.AI for misusing its characters in harmful ways, including sexual exploitation; the startup removed Disney characters &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250930/p41#a250930p41)<!-- TECH:END -->
+ - [Hermes Apple Watch Series 11 is as luxurious as ever with new Faubourg Party designs](https://appleinsider.com/articles/25/09/30/hermes-apple-watch-series-11-is-as-luxurious-as-ever-with-new-faubourg-party-designs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

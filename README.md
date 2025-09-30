@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean AI chip maker Rebellions raised a $250M Series C at a $1.4B valuation; Arm joined the round as a strategic partner &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250929/p49#a250929p49)
+ - [Leaked document: a &quot;widespread cybersecurity incident&quot; at FEMA allowed hackers to steal employee data from both FEMA and US CBP through a Citrix vulnerability &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250929/p48#a250929p48)
  - [Sources: Saudi Arabia&#39;s PIF is the largest contributor to the $36B in equity used to finance the EA deal; it will roll over its $5B EA stake into the new entity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250929/p47#a250929p47)
  - [Here are 55 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
- - [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)
- - [How Brazil&#39;s Pix digital payment system, adopted by 80%+ of citizens, became a target of the Trump administration, which says it unfairly undercuts US companies &lpar;Ana Ionova/New York Times&rpar;](http://www.techmeme.com/250929/p46#a250929p46)
- - [SB 53, the landmark AI transparency bill, is now law in California](https://www.theverge.com/ai-artificial-intelligence/787918/sb-53-the-landmark-ai-transparency-bill-is-now-law-in-california)<!-- TECH:END -->
+ - [YouTube caves to Trump with $24.5 million settlement](https://www.theverge.com/news/787932/youtube-trump-ban-lawsuit-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

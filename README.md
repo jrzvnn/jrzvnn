@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is giving Copilot AI faces you can chat with](https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar)
+ - [Beats redesigned its new Powerbeats Fit’s wing tip to be more comfortable and secure](https://www.theverge.com/news/788663/apple-beats-powerbeats-fit-wireless-earbuds-wing-tip-redesign-comfort)
  - [OpenAI’s new social video app will let you deepfake your friends](https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends)
  - [Apple wants to use your mattress as a body temperature sensor](https://appleinsider.com/articles/25/09/30/apple-wants-to-use-your-mattress-as-a-body-temperature-sensor?utm_source=rss)
- - [OpenAI releases an invitation-only Sora app on iOS, powered by Sora 2, to let people create and share AI-generated videos of themselves and their friends &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250930/p35#a250930p35)
- - [Microsoft’s Windows 11 2025 update is available now](https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta)
- - [11 Best White Noise Machines &lpar;2025&rpar;: Lectrofan, Snooz, Hatch, and More](https://www.wired.com/gallery/best-white-noise-machine/)<!-- TECH:END -->
+ - [OpenAI releases an invitation-only Sora app on iOS, powered by Sora 2, to let people create and share AI-generated videos of themselves and their friends &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250930/p35#a250930p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

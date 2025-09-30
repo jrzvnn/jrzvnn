@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
  - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 💣 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 😝 [When life made sense](http://9gag.com/gag/aRBN7NG)
- - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
+ - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
 
 ---
 

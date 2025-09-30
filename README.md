@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Elon Musk&#39;s Tesla and xAI have had a wave of senior departures over the past year, driven by burnout, disillusionment with Musk&#39;s politics, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p7#a250930p7)
+ - [The Best Over-the-Counter Sleep Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
+ - [Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out](https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/)
  - [Education software maker Anthology files for bankruptcy, listing $1B to $10B in both assets and liabilities after its Blackboard merger debt became unmanageable &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p6#a250930p6)
- - [Meta expands its facial recognition tools to combat Facebook accounts impersonating public figures in Europe and South Korea, and plans an Instagram expansion &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/250930/p5#a250930p5)
- - [How Jensen Huang, who engaged little in politics until 2024, is using his newfound star power to strike deals in Europe, the Middle East, Japan, and elsewhere &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p4#a250930p4)
- - [Jaguar Land Rover secures £2B from banks as &quot;a liquidity backstop&quot;, on top of a £1.5B UK government loan, and aims to resume manufacturing after its huge hack &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p3#a250930p3)
- - [Best LED Masks of 2025, FDA Cleared for Red Light Therapy](https://www.cnet.com/health/best-led-face-masks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta expands its facial recognition tools to combat Facebook accounts impersonating public figures in Europe and South Korea, and plans an Instagram expansion &lpar;Andre Revilla/Engadget&rpar;](http://www.techmeme.com/250930/p5#a250930p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

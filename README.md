@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [30% Off Samsung Promo Code | October 2025](https://www.wired.com/story/samsung-promo-codes/)
+ - [Groupon Promo Codes: 50% Off in October 2025](https://www.wired.com/story/groupon-promo-code/)
  - [Financial disclosures to investors suggest OpenAI generated ~$4.3B in revenue in H1 2025, 16% more than all of 2024, and burned $2.5B, largely due to R&amp;D costs &lpar;The Information&rpar;](http://www.techmeme.com/250930/p1#a250930p1)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-30/#ftag=CAD590a51e)
- - [NetBlocks: Afghanistan is experiencing a &quot;total internet blackout&quot; as the Taliban imposes a telecom shutdown; an official says it will last until further notice &lpar;Anbarasan Ethirajan/BBC&rpar;](http://www.techmeme.com/250929/p51#a250929p51)
- - [How Jared Kushner and Silver Lake co-CEO Egon Durban brokered the EA takeover using Kushner&#39;s deep Saudi Arabia ties; sources: Kushner&#39;s firm will own ~5% of EA &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p50#a250929p50)
- - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NetBlocks: Afghanistan is experiencing a &quot;total internet blackout&quot; as the Taliban imposes a telecom shutdown; an official says it will last until further notice &lpar;Anbarasan Ethirajan/BBC&rpar;](http://www.techmeme.com/250929/p51#a250929p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

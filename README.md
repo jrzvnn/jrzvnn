@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says Sora has guardrails intended to block depictions of public figures and to ensure that a user&#39;s likeness is used only with their consent, via cameos &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250930/p47#a250930p47)
  - [US chipmaker Wolfspeed&#39;s shares close up 29.41% after the company emerged from Chapter 11 bankruptcy and achieved its goal of reducing overall debt by ~70% &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p46#a250930p46)
  - [Anthropic&#39;s System Card: Claude Sonnet 4.5 was able to recognize many alignment evaluation environments as tests and would modify its behavior accordingly &lpar;Celia Ford/Transformer&rpar;](http://www.techmeme.com/250930/p45#a250930p45)
  - [iPhone 11 Pro Max &amp; Apple Watch Series 3 join vintage product list](https://appleinsider.com/articles/25/09/30/iphone-11-pro-max-apple-watch-series-3-join-vintage-product-list?utm_source=rss)
- - [28 Best Travel Tech Gifts in 2025: Must-Have Gadgets for the Traveler in Your Life](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)
- - [Apple Watch Series 11 vs. Samsung Galaxy Watch 8: The Top Highlights of Each Smartwatch](https://www.cnet.com/tech/mobile/apple-watch-series-11-vs-samsung-galaxy-watch-8-the-top-highlights-of-each-smartwatch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [28 Best Travel Tech Gifts in 2025: Must-Have Gadgets for the Traveler in Your Life](https://www.cnet.com/tech/mobile/best-travel-tech-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

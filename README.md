@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: wholesale electricity now costs as much as 267% more for a single month than it did in 2020 in US areas located near significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p2#a250930p2)
  - [30% Off Samsung Promo Code | October 2025](https://www.wired.com/story/samsung-promo-codes/)
  - [Groupon Promo Codes: 50% Off in October 2025](https://www.wired.com/story/groupon-promo-code/)
  - [Financial disclosures to investors suggest OpenAI generated ~$4.3B in revenue in H1 2025, 16% more than all of 2024, and burned $2.5B, largely due to R&amp;D costs &lpar;The Information&rpar;](http://www.techmeme.com/250930/p1#a250930p1)
- - [Best OLED TV of 2025](https://www.cnet.com/tech/home-entertainment/best-oled-tv/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best OLED TV of 2025](https://www.cnet.com/tech/home-entertainment/best-oled-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

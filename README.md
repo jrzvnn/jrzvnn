@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 💣 [Peak Writing](http://9gag.com/gag/apRjmpp)
- - 😝 [.](http://9gag.com/gag/aByNm8Z)
- - 👉 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)<!-- MEMES:END -->
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 😝 [Peak Writing](http://9gag.com/gag/apRjmpp)
+ - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 
 ---
 

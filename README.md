@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Sept. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-sept-30/#ftag=CAD590a51e)
  - [NetBlocks: Afghanistan is experiencing a &quot;total internet blackout&quot; as the Taliban imposes a telecom shutdown; an official says it will last until further notice &lpar;Anbarasan Ethirajan/BBC&rpar;](http://www.techmeme.com/250929/p51#a250929p51)
  - [How Jared Kushner and Silver Lake co-CEO Egon Durban brokered the EA takeover using Kushner&#39;s deep Saudi Arabia ties; sources: Kushner&#39;s firm will own ~5% of EA &lpar;Financial Times&rpar;](http://www.techmeme.com/250929/p50#a250929p50)
  - [Best iPhone in 2025: Here&#39;s Which Apple Phone You Should Buy](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [South Korean AI chip maker Rebellions raised a $250M Series C at a $1.4B valuation; Arm joined the round as a strategic partner &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250929/p49#a250929p49)
- - [Leaked document: a &quot;widespread cybersecurity incident&quot; at FEMA allowed hackers to steal employee data from both FEMA and US CBP through a Citrix vulnerability &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/250929/p48#a250929p48)<!-- TECH:END -->
+ - [South Korean AI chip maker Rebellions raised a $250M Series C at a $1.4B valuation; Arm joined the round as a strategic partner &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/250929/p49#a250929p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

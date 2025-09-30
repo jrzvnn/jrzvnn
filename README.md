@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple accused of firing worker over religious practices](https://appleinsider.com/articles/25/09/30/apple-accused-of-firing-worker-over-religious-practices?utm_source=rss)
  - [What the M5 iPad Pro leak says about the M5 MacBook Air](https://appleinsider.com/articles/25/09/30/what-the-m5-ipad-pro-leak-says-about-the-m5-macbook-air?utm_source=rss)
  - [The 50 Best Shows on HBO Max Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Stripe launches Open Issuance, a stablecoin issuance platform built on Stripe&#39;s Bridge, which lets companies create their own stablecoins with minimal coding &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250930/p40#a250930p40)
- - [OpenAI&#39;s New Social Media App Will Be All AI Videos, Thanks to New Sora 2 Model](https://www.cnet.com/tech/services-and-software/openais-video-generator-gets-new-social-media-app-with-sora-2/#ftag=CAD590a51e)
- - [Champions League Soccer: Livestream Bodø/Glimt vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-bodo-glimt-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI&#39;s New Social Media App Will Be All AI Videos, Thanks to New Sora 2 Model](https://www.cnet.com/tech/services-and-software/openais-video-generator-gets-new-social-media-app-with-sora-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

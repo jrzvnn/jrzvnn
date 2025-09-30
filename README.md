@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Irish chip firm IC Mask Design acquired by Apple](https://appleinsider.com/articles/25/09/30/irish-chip-firm-ic-mask-design-acquired-by-apple?utm_source=rss)
  - [Spotify says founder Daniel Ek will become Executive Chairman effective January 1, 2026, replaced by CPTO Gustav Söderström and CBO Alex Norström as co-CEOs &lpar;Spotify&rpar;](http://www.techmeme.com/250930/p10#a250930p10)
  - [How to Use Passkeys With Google Password Manager &lpar;2025&rpar;](https://www.wired.com/story/how-to-use-google-passkeys/)
  - [Unit 42: suspected Chinese hackers, known as Phantom Taurus, have breached foreign ministers&#39; email servers as part of a years-long effort targeting diplomats &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/250930/p9#a250930p9)
- - [Apple &amp; Amazon iPhone &amp; Mac price fixing lawsuit dismissed](https://appleinsider.com/articles/25/09/30/apple-amazon-iphone-mac-price-fixing-lawsuit-dismissed?utm_source=rss)
- - [How K-Pop Stans Set the Stage for the US TikTok Ban](https://www.wired.com/story/book-excerpt-tiktok-ban-trump-kpop-stans/)<!-- TECH:END -->
+ - [Apple &amp; Amazon iPhone &amp; Mac price fixing lawsuit dismissed](https://appleinsider.com/articles/25/09/30/apple-amazon-iphone-mac-price-fixing-lawsuit-dismissed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

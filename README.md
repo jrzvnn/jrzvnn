@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with Panos Panay and other Amazon execs about Alexa+, recruiting old Microsoft colleagues, merging hardware and software teams like Apple, more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250930/p33#a250930p33)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [The Trump phone is late](https://www.theverge.com/news/788673/the-trump-phone-is-late)
- - [In an email to customers, Venmo says Venmo users and PayPal users will be able to send each other money natively in the app in the US and worldwide in November &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/250930/p32#a250930p32)
- - [M5 iPad Pro may have been completely leaked before Apple launch](https://appleinsider.com/articles/25/09/30/m5-ipad-pro-may-have-been-completely-leaked-before-apple-launch?utm_source=rss)<!-- TECH:END -->
+ - [M5 iPad Pro may have been completely leaked before Apple launch](https://appleinsider.com/articles/25/09/30/m5-ipad-pro-may-have-been-completely-leaked-before-apple-launch?utm_source=rss)
+ - [Microsoft is still leaving Mac users exposed to GitHub Mac malware flood](https://appleinsider.com/articles/25/09/30/microsoft-is-still-leaving-mac-users-exposed-to-github-mac-malware-flood?utm_source=rss)
+ - [In the US v. Google ad tech trial, Google says it&#39;s willing to provide publishers with the data for how its ad server decides what online display ads to show &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p34#a250930p34)
+ - [Apple’s M5 iPad Pro might have leaked in Russia](https://www.theverge.com/news/788743/apple-ipad-pro-m5-russia-leak-youtube-wylsacom)
+ - [Everything Amazon Announced Today at Its Fall Hardware Event &lpar;2025&rpar;](https://www.wired.com/story/everything-amazon-announced-today-at-its-fall-hardware-event/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

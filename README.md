@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
+ - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
  - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
  - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 👉 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)<!-- MEMES:END -->

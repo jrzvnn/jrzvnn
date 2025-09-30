@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alien: Earth’s showrunner wanted it to be a dark reflection of our world](https://www.theverge.com/entertainment/787578/alien-earth-noah-hawley-interview-season-1-finale)
- - [Alexa Plus is available out of the box on new Echo devices](https://www.theverge.com/tech/786782/amazon-alexa-plus-availability-early-access)
- - [Amazon&amp;#8217;s 2025 hardware event: the 8 biggest announcements](https://www.theverge.com/news/788297/amazon-fall-2025-hardware-announcements-echo-alexa-kindle-ring)
- - [The Blink Arc Can Merge Two Security Cameras for a 180-Degree View](https://www.wired.com/story/amazon-blink-arc-mini-2k/)
- - [Alexa Plus on the TV is made to save you from your phone](https://www.theverge.com/news/788594/amazon-alexa-plus-fire-tv-select-4k)<!-- TECH:END -->
+ - [Source: Meta is acquiring AI chip startup Rivos, as it seeks to reduce reliance on Nvidia; Rivos was reportedly seeking new funding at a $2B valuation in August &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p31#a250930p31)
+ - [The Real Stakes, and Real Story, of Peter Thiel&#39;s Antichrist Obsession](https://www.wired.com/story/the-real-stakes-real-story-peter-thiels-antichrist-obsession/)
+ - [Imgur blocks UK access after the ICO notified it of a possible fine over its handling of kids&#39; data; the ICO calls Imgur&#39;s move a &quot;commercial decision&quot; &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/250930/p29#a250930p29)
+ - [A Russian YouTuber posts an unboxing of the alleged M5 iPad Pro, which looks identical to the M4 model; the same YouTuber leaked the M4 MacBook Pro in 2024 &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/250930/p30#a250930p30)
+ - [Alien: Earth’s showrunner wanted it to be a dark reflection of our world](https://www.theverge.com/entertainment/787578/alien-earth-noah-hawley-interview-season-1-finale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

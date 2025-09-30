@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Ring founder Jamie Siminoff, who returned to the company in April, on why he &quot;backs the blue&quot;, how Ring is fighting crime, Amazon, and more &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250930/p23#a250930p23)
- - [Amazon announces new Kindle Scribes including one with a color screen](https://www.theverge.com/news/788289/amazon-kindle-scribe-e-ink-digital-notepad-stylus)
+ - [Amazon updates the Kindle Scribe, including a $630 Kindle Scribe Colorsoft with a larger 11-inch E Ink display, lower weight at 400g, and a 5.4mm thin body &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250930/p24#a250930p24)
+ - [Scientists Made Human Eggs from Skin Cells and Used Them to Form Embryos](https://www.wired.com/story/scientists-made-human-eggs-from-skin-cells-and-used-them-to-make-embryos/)
+ - [Amazon reveals its new Echo Dot Max smart speaker](https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa)
  - [Amazon debuts its latest Fire TVs, including a new Omni QLED model](https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price)
- - [Amazon’s new Fire TV Stick 4K Select streaming stick costs $39.99](https://www.theverge.com/news/786261/amazon-fire-tv-4k-select-stick-streaming-fall-2025-hardware-event)
- - [Amazon sticks two cameras together for the 180-degree Blink Arc](https://www.theverge.com/tech/788347/blink-arc-camera-amazon-blink-outdoor-2k-plus-mini-2k-plus)<!-- TECH:END -->
+ - [Amazon announces new Echo Show 8 and 11 smart displays](https://www.theverge.com/news/786681/amazon-alexa-echo-show-smart-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

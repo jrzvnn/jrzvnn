@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What movies is this](http://9gag.com/gag/aXPGgrz)
  - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
- - 😝 [Magic ???](http://9gag.com/gag/aO8NYyE)
- - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 👉 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)<!-- MEMES:END -->
+ - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
 
 ---
 

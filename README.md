@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - 😝 [I do what I want](http://9gag.com/gag/aKGN7z1)
- - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
+ - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 💣 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 😝 [The best flight ever.](http://9gag.com/gag/aD2N4yG)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 

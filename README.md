@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best OLED TV of 2025](https://www.cnet.com/tech/home-entertainment/best-oled-tv/#ftag=CAD590a51e)
+ - [Periodic Labs, co-founded by ChatGPT co-creator Liam Fedus, poaches 20+ researchers from Meta, OpenAI, DeepMind, and others to use AI for scientific discoveries &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/250930/p8#a250930p8)
  - [Sources: Elon Musk&#39;s Tesla and xAI have had a wave of senior departures over the past year, driven by burnout, disillusionment with Musk&#39;s politics, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p7#a250930p7)
  - [The Best Over-the-Counter Sleep Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-sleep-aid/)
  - [Anthropic Will Use Claude Chats for Training Data. Here’s How to Opt Out](https://www.wired.com/story/anthropic-using-claude-chats-for-training-how-to-opt-out/)

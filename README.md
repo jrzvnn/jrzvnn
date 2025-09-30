@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe launches its Premiere video editing software on iPhone for the first time; general editing is free, but Adobe charges for credits to generate AI content &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p15#a250930p15)
- - [Chipmaker Cerebras Systems raised a $1.1B Series G from Fidelity, Trump Jr.&#39;s 1789 Capital, and others at an $8.1B post-money valuation ahead of its planned IPO &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250930/p14#a250930p14)
- - [Adobe Premiere launches on iPhone, free to download now](https://appleinsider.com/articles/25/09/30/adobe-premiere-launches-on-iphone-free-to-download-now?utm_source=rss)
- - [Subaru Crosstrek Hybrid 2026 Review: Smooth, Efficient](https://www.wired.com/review/subaru-crosstrek-hybrid-2026/)
- - [DoorDash’s New Delivery Robot Rolls Out Into the Big, Cruel World](https://www.wired.com/story/doordash-dot-delivery-robot/)<!-- TECH:END -->
+ - [Google updates AI Mode to make searching through images using vague descriptions easier and says the tool will &quot;provide a relevant set of shoppable options&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250930/p19#a250930p19)
+ - [Amazon’s September 2025 hardware event: all the news and announcements](https://www.theverge.com/news/786216/amazon-september-2025-hardware-event-news-announcements)
+ - [Amazon event live blog: we’re here for new Echos, Kindles and more](https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more)
+ - [Anthropic now requires users to accept new privacy terms by October 8, including choosing whether new chats and coding sessions can be used to train AI models &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250930/p18#a250930p18)
+ - [Microsoft launches a Security Store with SaaS tools and AI agents from Darktrace and others, and now lets Security Copilot users build their own AI agents &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250930/p17#a250930p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

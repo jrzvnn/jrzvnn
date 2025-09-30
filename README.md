@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Jared Kushner helped Silver Lake co-CEO Egon Durban, who had wanted to buy EA for years, finally secure the $55B acquisition with PIF&#39;s help &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250930/p39#a250930p39)
+ - [The Apple Watch Series 10 Is $170 Off](https://www.wired.com/story/apple-watch-series-10-deal-1025/)
  - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)
  - [OpenAI launches Sora 2, which it says may be the &quot;GPT‑3.5 moment for video&quot; with the ability to follow intricate instructions spanning multiple shots &lpar;OpenAI&rpar;](http://www.techmeme.com/250930/p37#a250930p37)
- - [Imgur is blocking users in the UK](https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation)
- - [Google&#39;s Ad Transparency tool no longer shows any political ads, past or present, from any EU countries ahead of new EU ad transparency regulations &lpar;Samantha Cole/404 Media&rpar;](http://www.techmeme.com/250930/p36#a250930p36)
- - [Microsoft is giving Copilot AI faces you can chat with](https://www.theverge.com/news/788741/microsoft-copilot-labs-ai-portraits-experiment-human-avatar)<!-- TECH:END -->
+ - [Imgur is blocking users in the UK](https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

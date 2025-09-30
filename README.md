@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 😝 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
- - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
+ - 😝 [Wait untill you find out what it means.](http://9gag.com/gag/adB4V5M)
+ - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
+ - 💣 [Illinois looking different these days](http://9gag.com/gag/aMVNxgP)
+ - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 👉 [.](http://9gag.com/gag/aByNm8Z)<!-- MEMES:END -->
 
 ---
 

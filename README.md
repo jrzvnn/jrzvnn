@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&amp;#8217;s 2025 hardware event: the 8 biggest announcements](https://www.theverge.com/news/788297/amazon-fall-2025-hardware-announcements-echo-alexa-kindle-ring)
+ - [The Blink Arc Can Merge Two Security Cameras for a 180-Degree View](https://www.wired.com/story/amazon-blink-arc-mini-2k/)
  - [Alexa Plus on the TV is made to save you from your phone](https://www.theverge.com/news/788594/amazon-alexa-plus-fire-tv-select-4k)
  - [Google launches a new AI ransomware detection feature for Drive on desktop, trained on millions of real victim files encrypted by various ransomware strains &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250930/p28#a250930p28)
- - [Amazon unveils the $220 Echo Studio, its high-end speaker for audiophiles, 8&quot; and 11&quot; Echo Show for $180 and $220, and the $100 Echo Dot Max, all with Alexa+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250930/p27#a250930p27)
- - [Hands-on with Amazon’s new Kindle Scribes, including one with a color screen](https://www.theverge.com/tech/787984/kindle-scribe-colorsoft-hands-on-amazon)
- - [Amazon finally did the damn hardware right](https://www.theverge.com/tech/788051/hands-on-amazon-alexa-echo-show-11-echo-dot-max-echo-studio)<!-- TECH:END -->
+ - [Amazon unveils the $220 Echo Studio, its high-end speaker for audiophiles, 8&quot; and 11&quot; Echo Show for $180 and $220, and the $100 Echo Dot Max, all with Alexa+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250930/p27#a250930p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

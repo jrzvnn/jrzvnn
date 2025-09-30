@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What the M5 iPad Pro leak says about the M5 MacBook Air](https://appleinsider.com/articles/25/09/30/what-the-m5-ipad-pro-leak-says-about-the-m5-macbook-air?utm_source=rss)
+ - [The 50 Best Shows on HBO Max Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Stripe launches Open Issuance, a stablecoin issuance platform built on Stripe&#39;s Bridge, which lets companies create their own stablecoins with minimal coding &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250930/p40#a250930p40)
  - [Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now](https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale)
- - [You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000](https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder)
- - [How Jared Kushner helped Silver Lake co-CEO Egon Durban, who had wanted to buy EA for years, finally secure the $55B acquisition with PIF&#39;s help &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250930/p39#a250930p39)
- - [The Apple Watch Series 10 Is $170 Off](https://www.wired.com/story/apple-watch-series-10-deal-1025/)<!-- TECH:END -->
+ - [You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000](https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Klaus on Rebekah&#39;s love life](http://9gag.com/gag/a87X5yp)
  - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 😝 [Peak Writing](http://9gag.com/gag/apRjmpp)
- - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
+ - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [The best flight ever.](http://9gag.com/gag/aD2N4yG)
+ - 👉 [He may be old, but he still loves to dig a hole on the beach..\u2728\ufe0f\ud83d\udc36](http://9gag.com/gag/aByNgWx)<!-- MEMES:END -->
 
 ---
 

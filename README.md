@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&#39;s Latest AI Ransomware Defense Only Goes So Far](https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/)
  - [Google updates AI Mode to make searching through images using vague descriptions easier and says the tool will &quot;provide a relevant set of shoppable options&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250930/p19#a250930p19)
  - [Amazon’s September 2025 hardware event: all the news and announcements](https://www.theverge.com/news/786216/amazon-september-2025-hardware-event-news-announcements)
- - [Amazon event live blog: we’re here for new Echos, Kindles and more](https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more)
- - [Anthropic now requires users to accept new privacy terms by October 8, including choosing whether new chats and coding sessions can be used to train AI models &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250930/p18#a250930p18)
- - [Microsoft launches a Security Store with SaaS tools and AI agents from Darktrace and others, and now lets Security Copilot users build their own AI agents &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/250930/p17#a250930p17)<!-- TECH:END -->
+ - [Amazon event live blog: we’re here for new Echos, Kindles, and more](https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more)
+ - [Anthropic now requires users to accept new privacy terms by October 8, including choosing whether new chats and coding sessions can be used to train AI models &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250930/p18#a250930p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

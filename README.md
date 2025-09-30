@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection](https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review)
+ - [A live blog of Amazon&#39;s fall 2025 hardware event in New York City, where new Kindles, Echos, possibly a TV, and Alexa updates are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250930/p20#a250930p20)
  - [Google&#39;s Latest AI Ransomware Defense Only Goes So Far](https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/)
- - [Google updates AI Mode to make searching through images using vague descriptions easier and says the tool will &quot;provide a relevant set of shoppable options&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250930/p19#a250930p19)
- - [Amazon’s September 2025 hardware event: all the news and announcements](https://www.theverge.com/news/786216/amazon-september-2025-hardware-event-news-announcements)
- - [Amazon event live blog: we’re here for new Echos, Kindles, and more](https://www.theverge.com/tech/786685/amazon-event-live-blog-were-here-for-new-echos-kindles-and-more)
- - [Anthropic now requires users to accept new privacy terms by October 8, including choosing whether new chats and coding sessions can be used to train AI models &lpar;Reece Rogers/Wired&rpar;](http://www.techmeme.com/250930/p18#a250930p18)<!-- TECH:END -->
+ - [Best Smart Glasses in 2025: Get Meta&#39;s Latest or Wait?](https://www.cnet.com/tech/computing/best-smart-glasses-in-2025/#ftag=CAD590a51e)
+ - [Google updates AI Mode to make searching through images using vague descriptions easier and says the tool will &quot;provide a relevant set of shoppable options&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250930/p19#a250930p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

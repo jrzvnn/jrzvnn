@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [.](http://9gag.com/gag/aByNm8Z)
- - 😝 [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)
- - 💣 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
- - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
- - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
+ - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 😝 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 😝 [Shut Up Or Jail](http://9gag.com/gag/a7o6E0e)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 

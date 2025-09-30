@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Ring founder Jamie Siminoff, who returned to the company in April, on why he &quot;backs the blue&quot;, how Ring is fighting crime, Amazon, and more &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/250930/p23#a250930p23)
+ - [Amazon announces new Kindle Scribes including one with a color screen](https://www.theverge.com/news/788289/amazon-kindle-scribe-e-ink-digital-notepad-stylus)
  - [Amazon debuts its latest Fire TVs, including a new Omni QLED model](https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price)
  - [Amazon’s new Fire TV Stick 4K Select streaming stick costs $39.99](https://www.theverge.com/news/786261/amazon-fire-tv-4k-select-stick-streaming-fall-2025-hardware-event)
- - [Amazon sticks two cameras together for the 180-degree Blink Arc](https://www.theverge.com/tech/788347/blink-arc-camera-amazon-blink-outdoor-2k-plus-mini-2k-plus)
- - [Beats Powerbeats Fit won&#39;t fly away while you work out](https://appleinsider.com/articles/25/09/30/beats-powerbeats-fit-wont-fly-away-while-you-work-out?utm_source=rss)
- - [Amazon&#39;s Ring unveils the $200 Outdoor Cam Pro, $250 Spotlight Cam Pro, $280 Floodlight Cam Pro with Retinal Vision, a Search Party tool to find pets, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250930/p22#a250930p22)<!-- TECH:END -->
+ - [Amazon sticks two cameras together for the 180-degree Blink Arc](https://www.theverge.com/tech/788347/blink-arc-camera-amazon-blink-outdoor-2k-plus-mini-2k-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

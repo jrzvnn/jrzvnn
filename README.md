@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jaguar Land Rover secures £2B from banks as &quot;a liquidity backstop&quot;, on top of a £1.5B UK government loan, and aims to resume manufacturing after its huge hack &lpar;Financial Times&rpar;](http://www.techmeme.com/250930/p3#a250930p3)
  - [Stop Putting Takeout Containers in the Microwave, Experts Warn](https://www.cnet.com/news/stop-putting-takeout-containers-in-the-microwave-experts-warn/#ftag=CAD590a51e)
  - [Opera launches its AI browser, but you&amp;#8217;ll have to pay to try it](https://www.theverge.com/news/787707/opera-neon-ai-browser-launch-monthly-cost)
  - [Logitech MX Master 4 Review: Productivity Pro](https://www.wired.com/review/logitech-mx-master-4/)
- - [Logitech’s MX Master 4 adds haptic feedback, mostly just for fun](https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price)
- - [Analysis: US wholesale electricity now costs as much as 267% more for a single month than it did in 2020 in areas located near significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p2#a250930p2)<!-- TECH:END -->
+ - [Logitech’s MX Master 4 adds haptic feedback, mostly just for fun](https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection](https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review)
- - [A live blog of Amazon&#39;s fall 2025 hardware event in New York City, where new Kindles, Echos, possibly a TV, and Alexa updates are expected &lpar;The Verge&rpar;](http://www.techmeme.com/250930/p20#a250930p20)
- - [Google&#39;s Latest AI Ransomware Defense Only Goes So Far](https://www.wired.com/story/googles-latest-ai-ransomware-defense-only-goes-so-far/)
- - [Best Smart Glasses in 2025: Get Meta&#39;s Latest or Wait?](https://www.cnet.com/tech/computing/best-smart-glasses-in-2025/#ftag=CAD590a51e)
- - [Google updates AI Mode to make searching through images using vague descriptions easier and says the tool will &quot;provide a relevant set of shoppable options&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/250930/p19#a250930p19)<!-- TECH:END -->
+ - [LG&#39;s UltraFine 6K Thunderbolt 5 monitor will set you back $1,999](https://appleinsider.com/articles/25/09/30/lgs-ultrafine-6k-thunderbolt-5-monitor-will-set-you-back-1999?utm_source=rss)
+ - [Ring launches upgraded cameras with ‘Retinal Vision’ 4K recording](https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs)
+ - [Beats Powerbeats Fit won&#39;t fly away while you work out](https://appleinsider.com/articles/25/09/30/beats-powerbeats-fit-wont-fly-away-while-you-work-out?utm_source=rss)
+ - [Apple-owned Beats announces the $200 Powerbeats Fit, with a redesigned wingtip, IPX4 rating for the case, ANC, and Apple&#39;s H1 chip, available October 2 &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p21#a250930p21)
+ - [SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection](https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

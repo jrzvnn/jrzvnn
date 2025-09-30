@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG&#39;s UltraFine 6K Thunderbolt 5 monitor will set you back $1,999](https://appleinsider.com/articles/25/09/30/lgs-ultrafine-6k-thunderbolt-5-monitor-will-set-you-back-1999?utm_source=rss)
- - [Ring launches upgraded cameras with ‘Retinal Vision’ 4K recording](https://www.theverge.com/news/788290/ring-amazon-hardware-event-price-specs)
+ - [Amazon debuts its latest Fire TVs, including a new Omni QLED model](https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price)
+ - [Amazon’s new Fire TV Stick 4K Select streaming stick costs $39.99](https://www.theverge.com/news/786261/amazon-fire-tv-4k-select-stick-streaming-fall-2025-hardware-event)
+ - [Amazon sticks two cameras together for the 180-degree Blink Arc](https://www.theverge.com/tech/788347/blink-arc-camera-amazon-blink-outdoor-2k-plus-mini-2k-plus)
  - [Beats Powerbeats Fit won&#39;t fly away while you work out](https://appleinsider.com/articles/25/09/30/beats-powerbeats-fit-wont-fly-away-while-you-work-out?utm_source=rss)
- - [Apple-owned Beats announces the $200 Powerbeats Fit, with a redesigned wingtip, IPX4 rating for the case, ANC, and Apple&#39;s H1 chip, available October 2 &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p21#a250930p21)
- - [SteelSeries Arctis Nova Elite review: $599 for premium, pricey perfection](https://www.theverge.com/tech/788141/steelseries-arctis-nova-elite-review)<!-- TECH:END -->
+ - [Amazon&#39;s Ring unveils the $200 Outdoor Cam Pro, $250 Spotlight Cam Pro, $280 Floodlight Cam Pro with Retinal Vision, a Search Party tool to find pets, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250930/p22#a250930p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

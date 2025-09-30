@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoreWeave CEO Michael Intrator says the company signed a deal to supply Meta with up to $14.2B worth of computing power, including access to Nvidia GB300 chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p13#a250930p13)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
- - [Nothing unveils its Essential branding for AI products, a new app store with user-designed, AI-generated apps based on Android called Playground, and more &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/250930/p12#a250930p12)
- - [Asus TUF Gaming T500 PC Review: Great for New PC Gamers](https://www.wired.com/review/asus-tuf-gaming-t500/)
- - [The EV tax credit is dead — here’s what happens next](https://www.theverge.com/transportation/787281/ev-tax-credit-sales-lease-trump-climate)<!-- TECH:END -->
+ - [Adobe launches its Premiere video editing software on iPhone for the first time; general editing is free, but Adobe charges for credits to generate AI content &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/250930/p15#a250930p15)
+ - [Chipmaker Cerebras Systems raised a $1.1B Series G from Fidelity, Trump Jr.&#39;s 1789 Capital, and others at an $8.1B post-money valuation ahead of its planned IPO &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/250930/p14#a250930p14)
+ - [Adobe Premiere launches on iPhone, free to download now](https://appleinsider.com/articles/25/09/30/adobe-premiere-launches-on-iphone-free-to-download-now?utm_source=rss)
+ - [Subaru Crosstrek Hybrid 2026 Review: Smooth, Efficient](https://www.wired.com/review/subaru-crosstrek-hybrid-2026/)
+ - [DoorDash’s New Delivery Robot Rolls Out Into the Big, Cruel World](https://www.wired.com/story/doordash-dot-delivery-robot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

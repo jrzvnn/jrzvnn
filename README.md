@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Refurbished Sonos headphones, speakers, and soundbars are up to 25 percent off right now](https://www.theverge.com/tech/788827/sonos-era-100-refurbished-criterion-collection-deal-sale)
+ - [You can now preorder LG’s 6K 32-inch Thunderbolt 5 display for $2,000](https://www.theverge.com/news/788916/lg-ultrafine-32u990a-32-inch-6k-monitor-thunderbolt-5-preorder)
  - [How Jared Kushner helped Silver Lake co-CEO Egon Durban, who had wanted to buy EA for years, finally secure the $55B acquisition with PIF&#39;s help &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/250930/p39#a250930p39)
  - [The Apple Watch Series 10 Is $170 Off](https://www.wired.com/story/apple-watch-series-10-deal-1025/)
- - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)
- - [OpenAI launches Sora 2, which it says may be the &quot;GPT‑3.5 moment for video&quot; with the ability to follow intricate instructions spanning multiple shots &lpar;OpenAI&rpar;](http://www.techmeme.com/250930/p37#a250930p37)
- - [Imgur is blocking users in the UK](https://www.theverge.com/news/788823/imgur-uk-users-blocked-ico-investigation)<!-- TECH:END -->
+ - [Amazon partners with FanDuel to allow viewers to track their NBA bets in real-time during NBA games on Prime Video and adds shoppable NBA merch to the games &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/250930/p38#a250930p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

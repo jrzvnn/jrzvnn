@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 💣 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 😝 [Any Labubu X celebrity ideas?](http://9gag.com/gag/azxDM7K)
- - 👉 [The best flight ever.](http://9gag.com/gag/aD2N4yG)<!-- MEMES:END -->
+ - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 💣 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)
+ - 😝 [The best flight ever.](http://9gag.com/gag/aD2N4yG)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 

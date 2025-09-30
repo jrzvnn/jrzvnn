@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wait untill you find out what it means.](http://9gag.com/gag/adB4V5M)
- - 😝 [After the USB-C another win for the consumer!](http://9gag.com/gag/a9yNR61)
- - 💣 [Illinois looking different these days](http://9gag.com/gag/aMVNxgP)
- - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 👉 [.](http://9gag.com/gag/aByNm8Z)<!-- MEMES:END -->
+ - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 😝 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 👉 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)<!-- MEMES:END -->
 
 ---
 

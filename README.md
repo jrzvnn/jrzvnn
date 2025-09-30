@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
  - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
  - 😝 [.](http://9gag.com/gag/aByNm8Z)
- - 👉 [Ooh mama](http://9gag.com/gag/aD2N4zO)<!-- MEMES:END -->
+ - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
 
 ---
 

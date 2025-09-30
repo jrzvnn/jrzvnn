@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
+ - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
- - 😝 [When life made sense](http://9gag.com/gag/aRBN7NG)
- - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
+ - 💣 [Peak Writing](http://9gag.com/gag/apRjmpp)
+ - 😝 [.](http://9gag.com/gag/aByNm8Z)
+ - 👉 [It iiiis what it iiis](http://9gag.com/gag/a5QyMng)<!-- MEMES:END -->
 
 ---
 

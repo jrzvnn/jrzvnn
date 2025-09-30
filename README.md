@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 😝 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 😝 [The best flight ever.](http://9gag.com/gag/aD2N4yG)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - 😝 [My cat](http://9gag.com/gag/aKGN6GW)
+ - 😝 [Illinois looking different these days](http://9gag.com/gag/aMVNxgP)
+ - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 😝 [F**k your politics, f**k your war propaganda, f**k your left right and eipstein stuff, this is a damm meme site, i got 4 years of stolen memes, i ll reupload it all and make 9gag funny again](http://9gag.com/gag/aPAd3WV)
+ - 👉 [.](http://9gag.com/gag/aByNm8Z)<!-- MEMES:END -->
 
 ---
 

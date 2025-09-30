@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech MX Master 4 Review: Productivity Pro](https://www.wired.com/review/logitech-mx-master-4/)
+ - [Logitech’s MX Master 4 adds haptic feedback, mostly just for fun](https://www.theverge.com/news/787339/logitech-mx-master-4-mouse-haptics-specs-features-price)
  - [Analysis: wholesale electricity now costs as much as 267% more for a single month than it did in 2020 in US areas located near significant data center activity &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p2#a250930p2)
  - [30% Off Samsung Promo Code | October 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Best Home Ellipticals in 2025: Perfect Your Body and Meet Your Health Goals With These Full-Body Machines](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)
- - [Groupon Promo Codes: 50% Off in October 2025](https://www.wired.com/story/groupon-promo-code/)
- - [Best Shave Club for 2025](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Ellipticals in 2025: Perfect Your Body and Meet Your Health Goals With These Full-Body Machines](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

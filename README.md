@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon updates the Kindle Scribe, including a $630 Kindle Scribe Colorsoft with a larger 11-inch E Ink display, lower weight at 400g, and a 5.4mm thin body &lpar;Andrew Liszewski/The Verge&rpar;](http://www.techmeme.com/250930/p24#a250930p24)
- - [Scientists Made Human Eggs from Skin Cells and Used Them to Form Embryos](https://www.wired.com/story/scientists-made-human-eggs-from-skin-cells-and-used-them-to-make-embryos/)
- - [Amazon reveals its new Echo Dot Max smart speaker](https://www.theverge.com/news/786811/amazon-echo-dot-max-2025-reveal-smart-speaker-alexa)
- - [Amazon debuts its latest Fire TVs, including a new Omni QLED model](https://www.theverge.com/news/787284/amazon-fire-tv-omni-qled-4k-tv-specs-price)
- - [Amazon announces new Echo Show 8 and 11 smart displays](https://www.theverge.com/news/786681/amazon-alexa-echo-show-smart-display)<!-- TECH:END -->
+ - [Alexa Plus on the TV is made to save you from your phone](https://www.theverge.com/news/788594/amazon-alexa-plus-fire-tv-select-4k)
+ - [Google launches a new AI ransomware detection feature for Drive on desktop, trained on millions of real victim files encrypted by various ransomware strains &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/250930/p28#a250930p28)
+ - [Amazon unveils the $220 Echo Studio, its high-end speaker for audiophiles, 8&quot; and 11&quot; Echo Show for $180 and $220, and the $100 Echo Dot Max, all with Alexa+ &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/250930/p27#a250930p27)
+ - [Hands-on with Amazon’s new Kindle Scribes, including one with a color screen](https://www.theverge.com/tech/787984/kindle-scribe-colorsoft-hands-on-amazon)
+ - [Amazon finally did the damn hardware right](https://www.theverge.com/tech/788051/hands-on-amazon-alexa-echo-show-11-echo-dot-max-echo-studio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

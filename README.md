@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sora 2 is available for free with usage limits for all users, while ChatGPT Pro subscribers have access to the higher-quality Sora 2 Pro model &lpar;Carl Franzen/Venturebeat&rpar;](http://www.techmeme.com/250930/p42#a250930p42)
+ - [Hermes Apple Watch Series 11 is as luxurious as ever with new Faubourg Party designs](https://appleinsider.com/articles/25/09/30/hermes-apple-watch-series-11-is-as-luxurious-as-ever-with-new-faubourg-party-designs?utm_source=rss)
+ - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025/)
  - [Amazon throws Alexa at everything in sight, from Kindles to doorbells](https://appleinsider.com/articles/25/09/30/amazon-throws-alexa-at-everything-in-sight-from-kindles-to-doorbells?utm_source=rss)
- - [Disney sent a cease-and-desist to Character.AI for misusing its characters in harmful ways, including sexual exploitation; the startup removed Disney characters &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250930/p41#a250930p41)
- - [Apple accused of firing worker over religious practices](https://appleinsider.com/articles/25/09/30/apple-accused-of-firing-worker-over-religious-practices?utm_source=rss)
- - [What the M5 iPad Pro leak says about the M5 MacBook Air](https://appleinsider.com/articles/25/09/30/what-the-m5-ipad-pro-leak-says-about-the-m5-macbook-air?utm_source=rss)
- - [The 50 Best Shows on HBO Max Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [Disney sent a cease-and-desist to Character.AI for misusing its characters in harmful ways, including sexual exploitation; the startup removed Disney characters &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250930/p41#a250930p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

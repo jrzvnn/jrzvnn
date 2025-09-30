@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [Random knowledge of the day](http://9gag.com/gag/ae9P59p)
  - 😝 [The little mermaid in Peacemaker&#39;s alternative dimension.](http://9gag.com/gag/aVv1YDd)
- - 💣 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)
- - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 👉 [Peak Writing](http://9gag.com/gag/apRjmpp)<!-- MEMES:END -->
+ - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
+ - 👉 [Please continue, I insist!](http://9gag.com/gag/a87X54Z)<!-- MEMES:END -->
 
 ---
 

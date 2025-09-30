@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 iPad Pro may have been completely leaked before Apple launch](https://appleinsider.com/articles/25/09/30/m5-ipad-pro-may-have-been-completely-leaked-before-apple-launch?utm_source=rss)
- - [Microsoft is still leaving Mac users exposed to GitHub Mac malware flood](https://appleinsider.com/articles/25/09/30/microsoft-is-still-leaving-mac-users-exposed-to-github-mac-malware-flood?utm_source=rss)
- - [In the US v. Google ad tech trial, Google says it&#39;s willing to provide publishers with the data for how its ad server decides what online display ads to show &lpar;Bloomberg&rpar;](http://www.techmeme.com/250930/p34#a250930p34)
- - [Apple’s M5 iPad Pro might have leaked in Russia](https://www.theverge.com/news/788743/apple-ipad-pro-m5-russia-leak-youtube-wylsacom)
- - [Everything Amazon Announced Today at Its Fall Hardware Event &lpar;2025&rpar;](https://www.wired.com/story/everything-amazon-announced-today-at-its-fall-hardware-event/)<!-- TECH:END -->
+ - [OpenAI’s new social video app will let you deepfake your friends](https://www.theverge.com/ai-artificial-intelligence/788786/openais-new-ai-sora-ios-social-video-app-will-let-you-deepfake-your-friends)
+ - [Apple wants to use your mattress as a body temperature sensor](https://appleinsider.com/articles/25/09/30/apple-wants-to-use-your-mattress-as-a-body-temperature-sensor?utm_source=rss)
+ - [OpenAI releases an invitation-only Sora app on iOS, powered by Sora 2, to let people create and share AI-generated videos of themselves and their friends &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/250930/p35#a250930p35)
+ - [Microsoft’s Windows 11 2025 update is available now](https://www.theverge.com/news/788167/microsoft-windows-11-version-25h2-download-insta)
+ - [11 Best White Noise Machines &lpar;2025&rpar;: Lectrofan, Snooz, Hatch, and More](https://www.wired.com/gallery/best-white-noise-machine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

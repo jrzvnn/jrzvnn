@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s System Card: Claude Sonnet 4.5 was able to recognize many alignment evaluation environments as tests and would modify its behavior accordingly &lpar;Celia Ford/Transformer&rpar;](http://www.techmeme.com/250930/p45#a250930p45)
+ - [iPhone 11 Pro Max &amp; Apple Watch Series 3 join vintage product list](https://appleinsider.com/articles/25/09/30/iphone-11-pro-max-apple-watch-series-3-join-vintage-product-list?utm_source=rss)
  - [M5 MacBook Pro &amp; iPad Pro model numbers leaked by FCC](https://appleinsider.com/articles/25/09/30/m5-macbook-pro-ipad-pro-model-numbers-leaked-by-fcc?utm_source=rss)
  - [The FTC sues Zillow and Redfin, alleging they violated antitrust laws when Zillow paid Redfin $100M to stop competing against it in online rental listings &lpar;Jody Godoy/Reuters&rpar;](http://www.techmeme.com/250930/p44#a250930p44)
- - [Google is blocking AI searches for Trump and dementia](https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden)
- - [President Trump signs an executive order directing his administration to invest $50M in AI-driven pediatric cancer research &lpar;Tina Reed/Axios&rpar;](http://www.techmeme.com/250930/p43#a250930p43)
- - [Save up to $1,145 on Apple&#39;s M4 Mac mini, with prices from $499](https://appleinsider.com/articles/25/09/30/save-up-to-1145-on-apples-m4-mac-mini-with-prices-from-499?utm_source=rss)<!-- TECH:END -->
+ - [Google is blocking AI searches for Trump and dementia](https://www.theverge.com/news/789152/google-ai-searches-blocking-trump-dementia-biden)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

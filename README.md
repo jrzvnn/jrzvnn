@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon throws Alexa at everything in sight, from Kindles to doorbells](https://appleinsider.com/articles/25/09/30/amazon-throws-alexa-at-everything-in-sight-from-kindles-to-doorbells?utm_source=rss)
+ - [Disney sent a cease-and-desist to Character.AI for misusing its characters in harmful ways, including sexual exploitation; the startup removed Disney characters &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/250930/p41#a250930p41)
  - [Apple accused of firing worker over religious practices](https://appleinsider.com/articles/25/09/30/apple-accused-of-firing-worker-over-religious-practices?utm_source=rss)
  - [What the M5 iPad Pro leak says about the M5 MacBook Air](https://appleinsider.com/articles/25/09/30/what-the-m5-ipad-pro-leak-says-about-the-m5-macbook-air?utm_source=rss)
- - [The 50 Best Shows on HBO Max Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Stripe launches Open Issuance, a stablecoin issuance platform built on Stripe&#39;s Bridge, which lets companies create their own stablecoins with minimal coding &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/250930/p40#a250930p40)
- - [OpenAI&#39;s New Social Media App Will Be All AI Videos, Thanks to New Sora 2 Model](https://www.cnet.com/tech/services-and-software/openais-video-generator-gets-new-social-media-app-with-sora-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 50 Best Shows on HBO Max Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

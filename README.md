@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 💣 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 😝 [The best flight ever.](http://9gag.com/gag/aD2N4yG)
  - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 

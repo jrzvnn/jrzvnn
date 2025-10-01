@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix&amp;#8217;s latest Frankenstein trailer is all about the creature](https://www.theverge.com/news/788304/netflix-frankenstein-trailer-monster-del-toro-jacob-elordi)
- - [Google&#39;s Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell](https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/)
- - [This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro](https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/)
- - [Walmart’s Onn cameras were developed with Google and start at just $23](https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home)
- - [Hands-on with the new Google Home Speaker coming next year](https://www.theverge.com/tech/788085/hands-on-google-home-speaker)<!-- TECH:END -->
+ - [Spotify now lets you exclude specific songs from your algorithm](https://www.theverge.com/news/789717/spotify-exclude-songs-taste-profile-algorithm)
+ - [Sources: Qualcomm adopts Arm&#39;s latest v9 architecture for its new generation of PC and phone chips, joining rivals like MediaTek and, analysts believe, Apple &lpar;Reuters&rpar;](http://www.techmeme.com/251001/p30#a251001p30)
+ - [Apple Watch Ultra 3 review: Iterative update, but still excellent hardware](https://appleinsider.com/articles/25/10/01/apple-watch-ultra-3-review-iterative-update-but-still-excellent-hardware?utm_source=rss)
+ - [Amazon unveils Amazon Grocery, a new private-label brand that offers 1,000+ grocery items largely priced below $5, available online and at Amazon Fresh stores &lpar;Robin Ajello/Bloomberg&rpar;](http://www.techmeme.com/251001/p29#a251001p29)
+ - [Martin Scorsese gets profound in new Apple TV+ documentary trailer](https://appleinsider.com/articles/25/10/01/martin-scorsese-gets-profound-in-new-apple-tv-documentary-trailer?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

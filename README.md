@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)
  - [Plenty of robot vacuums are already discounted ahead of October Prime Day](https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025)
  - [Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers](https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/)
  - [US government takes equity stake in one of the world’s largest lithium mines](https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass)
- - [Pink Clouds and Hot Blue Stars: Here Are the Coolest Space Photos of 2025, So Far](https://www.cnet.com/science/space/coolest-space-photos-of-2025-will-fill-you-with-cosmic-wonder/#ftag=CAD590a51e)
- - [OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)<!-- TECH:END -->
+ - [Pink Clouds and Hot Blue Stars: Here Are the Coolest Space Photos of 2025, So Far](https://www.cnet.com/science/space/coolest-space-photos-of-2025-will-fill-you-with-cosmic-wonder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

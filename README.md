@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
- - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
- - 👉 [Peak male activities](http://9gag.com/gag/aAyNed0)<!-- MEMES:END -->
+ - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 😝 [I&#39;ll send the happy couple a whole roast pig as a gift...](http://9gag.com/gag/a87X1yd)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 

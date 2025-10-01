@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tel Aviv-based Commcrete, maker of handheld satellite communication devices and software, raised a $21M Series A led by Greenfield; sources value it at $100M+ &lpar;Resilience Media&rpar;](http://www.techmeme.com/250930/p54#a250930p54)
+ - [You had mail: AOL finally discontinues dial-up Internet service](https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service?utm_source=rss)
+ - [Assort Health, which is developing voice AI agents for healthcare, raised a $76M Series B led by Lightspeed, bringing its total funding to $102M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250930/p53#a250930p53)
  - [A California jury finds Uber not liable for a woman&#39;s alleged sexual assault by her driver, in the first trial out of 500+ consolidated lawsuits in the state &lpar;Diana Novak Jones/Reuters&rpar;](http://www.techmeme.com/250930/p52#a250930p52)
- - [All hail the new Fat Bear Champion](https://www.theverge.com/news/789358/new-fat-bear-week-champion)
- - [Taiwan&#39;s vice premier, who is leading US negotiations, says Taiwan would not agree to a 50-50 split in chip production, adding no such condition was discussed &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p51#a250930p51)
- - [Here’s where to preorder all of Amazon&amp;#8217;s new Alexa devices and when they arrive](https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date)
- - [Fermi, a data center real estate investment trust co-founded by former US Energy Secretary Rick Perry, raised $682.5M in its US IPO, valuing Fermi at $12.46B &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p50#a250930p50)<!-- TECH:END -->
+ - [All hail the new Fat Bear Champion](https://www.theverge.com/news/789358/new-fat-bear-week-champion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

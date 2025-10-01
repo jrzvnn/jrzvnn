@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mira Murati&#39;s Thinking Machines Lab launches its first product, Tinker, which automates the creation of custom frontier AI models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251001/p38#a251001p38)
- - [Sources: Intel is in early-stage talks to add AMD as a foundry customer; Intel currently lacks the technology to produce AMD&#39;s most advanced, profitable chips &lpar;Rohan Goswami/Semafor&rpar;](http://www.techmeme.com/251001/p37#a251001p37)
- - [Chatbots Play With Your Emotions to Avoid Saying Goodbye](https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/)
- - [Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product](https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/)
- - [Our Favorite Automatic Latte Maker Is $200 Off](https://www.wired.com/story/delonghi-rivelia-deal-1025/)<!-- TECH:END -->
+ - [Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers](https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/)
+ - [US government takes equity stake in one of the world’s largest lithium mines](https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass)
+ - [OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)
+ - [Mira Murati&#39;s Thinking Machines Lab launches its first product, Tinker, an API for fine-tuning language models, in private beta with support for Qwen and Llama &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251001/p38#a251001p38)
+ - [Sources: Intel is in early-stage talks to add AMD as a foundry customer; Intel currently lacks the technology to produce AMD&#39;s most advanced, profitable chips &lpar;Rohan Goswami/Semafor&rpar;](http://www.techmeme.com/251001/p37#a251001p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

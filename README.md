@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 😝 [Women need to be challenged](http://9gag.com/gag/a7o6EQA)
- - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
+ - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [I&#39;ll send the happy couple a whole roast pig as a gift...](http://9gag.com/gag/a87X1yd)
+ - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)
  - [8BitDo’s fantastic Ultimate 2 controller is cheaper than ever](https://www.theverge.com/tech/789728/8bitdo-ultimate-2-switch-pc-october-prime-day-deal-sale)
  - [Unsurprisingly, AirPods Pro 3 still aren&#39;t repairable](https://appleinsider.com/articles/25/10/01/unsurprisingly-airpods-pro-3-still-arent-repairable?utm_source=rss)
  - [iPhone 17 Pro demand surges far past iPhone 16 Pro launch orders](https://appleinsider.com/articles/25/10/01/iphone-17-pro-demand-surges-far-past-iphone-16-pro-launch-orders?utm_source=rss)
- - [Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises bitrate quality to 27Mbps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251001/p33#a251001p33)
- - [Microsoft raises the Xbox Game Pass Ultimate subscription price from $19.99 to $29.99 per month, rebrands Xbox Game Pass Core and Standard plans, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251001/p32#a251001p32)<!-- TECH:END -->
+ - [Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises bitrate quality to 27Mbps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251001/p33#a251001p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

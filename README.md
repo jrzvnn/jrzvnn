@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A look at Nvidia&#39;s uncertain future in China, a critical market at the forefront of every technology wave enabled by its GPUs, as rivals like Huawei rise &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p5#a251001p5)
+ - [Best Leaf Blowers in 2025](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)
  - [How to Watch the Orionids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Beat the Nightly Heat With the Best Cooling Pillows of 2025: Tested and Reviewed](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
- - [How Amazon&#39;s 48% stake in Indian supermarket chain More is becoming a strategic asset in the e-commerce giant&#39;s patient grocery delivery expansion across India &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251001/p4#a251001p4)
- - [Vibe.co, a self-serve platform for businesses to run targeted ads on streaming services, raised a $50M Series B led by Hedosophia at a $410M valuation &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/251001/p3#a251001p3)<!-- TECH:END -->
+ - [Best Massage Guns for 2025, Approved by a Former Personal Trainer](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)
+ - [Beat the Nightly Heat With the Best Cooling Pillows of 2025: Tested and Reviewed](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

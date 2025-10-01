@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Over-the-Counter Eye Drops of 2025, Chosen by Eye Doctors](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
+ - [Best Comforters for 2025: Refresh Your Bedding for Spring With These 8 Options](https://www.cnet.com/health/sleep/best-comforters/#ftag=CAD590a51e)
  - [Roland’s TR-1000 is its first analog drum machine in over 40 years](https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909)
  - [A look at Nvidia&#39;s uncertain future in China, a critical market at the forefront of every technology wave enabled by its GPUs, as rivals like Huawei rise &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p5#a251001p5)
- - [Best Leaf Blowers in 2025](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)
- - [How to Watch the Orionids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Best Massage Guns for 2025, Approved by a Former Personal Trainer](https://www.cnet.com/health/fitness/best-massage-gun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Leaf Blowers in 2025](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

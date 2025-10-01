@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers](https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/)
  - [US government takes equity stake in one of the world’s largest lithium mines](https://www.theverge.com/news/790057/lithium-mine-us-trump-us-government-stake-thacker-pass)
+ - [Pink Clouds and Hot Blue Stars: Here Are the Coolest Space Photos of 2025, So Far](https://www.cnet.com/science/space/coolest-space-photos-of-2025-will-fill-you-with-cosmic-wonder/#ftag=CAD590a51e)
  - [OpenAI’s New Sora App Lets You Deepfake Yourself for Entertainment](https://www.wired.com/story/openai-sora-app-ai-deepfakes-entertainment/)
- - [Mira Murati&#39;s Thinking Machines Lab launches its first product, Tinker, an API for fine-tuning language models, in private beta with support for Qwen and Llama &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251001/p38#a251001p38)
- - [Sources: Intel is in early-stage talks to add AMD as a foundry customer; Intel currently lacks the technology to produce AMD&#39;s most advanced, profitable chips &lpar;Rohan Goswami/Semafor&rpar;](http://www.techmeme.com/251001/p37#a251001p37)<!-- TECH:END -->
+ - [Philips&#39; New Roku TV Sets a Mood With Its Iconic Ambilight Feature](https://www.cnet.com/tech/home-entertainment/philips-new-roku-tv-has-this-most-iconic-feature-ambilight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

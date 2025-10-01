@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beat the Nightly Heat With the Best Cooling Pillows of 2025: Tested and Reviewed](https://www.cnet.com/health/sleep/best-cooling-pillows/#ftag=CAD590a51e)
  - [How Amazon&#39;s 48% stake in Indian supermarket chain More is becoming a strategic asset in the e-commerce giant&#39;s patient grocery delivery expansion across India &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251001/p4#a251001p4)
  - [Vibe.co, a self-serve platform for businesses to run targeted ads on streaming services, raised a $50M Series B led by Hedosophia at a $410M valuation &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/251001/p3#a251001p3)
  - [$100 Off Shark Promo Code | October 2025](https://www.wired.com/story/shark-promo-code/)
- - [Yale and Brookings study: generative AI is reshaping US jobs slightly faster than computers and the internet did, with little evidence of job loss so far &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p2#a251001p2)
- - [Z.ai released GLM-4.6, an open-weights model with a context window of up to 200K tokens, claiming near parity with Claude Sonnet 4 on coding and reasoning tasks &lpar;Z.ai&rpar;](http://www.techmeme.com/251001/p1#a251001p1)<!-- TECH:END -->
+ - [Best Apple HomeKit Devices to Buy for 2025](https://www.cnet.com/home/smart-home/best-apple-homekit-siri-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

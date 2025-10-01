@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brave says it has surpassed 100M monthly active users across desktop and mobile worldwide, with 42M+ DAUs, and Brave Search handles 1.6B+ queries each month &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/251001/p43#a251001p43)
  - [Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites](https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats)
  - [Apple sidelines lighter Vision Pro to prioritize smart glasses](https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro)
  - [Amazon says its AI will let NBA fans track brand-new stats](https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats)
- - [Apple shifts priorities from lighter Apple Vision Pro to smart glasses](https://appleinsider.com/articles/25/10/01/apple-shifts-priorities-from-lighter-apple-vision-pro-to-smart-glasses?utm_source=rss)
- - [Sources: Apple has paused development of a lighter Vision Pro to focus on smart glasses, a no-display model for a 2027 release, and a model with a display later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251001/p42#a251001p42)<!-- TECH:END -->
+ - [Apple shifts priorities from lighter Apple Vision Pro to smart glasses](https://appleinsider.com/articles/25/10/01/apple-shifts-priorities-from-lighter-apple-vision-pro-to-smart-glasses?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

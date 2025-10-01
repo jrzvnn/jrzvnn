@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
  - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
+ - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 😝 [Women need to be challenged](http://9gag.com/gag/a7o6EQA)
  - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 
 ---

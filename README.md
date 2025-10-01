@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
  - 💣 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)
  - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
- - 👉 [In honor of Jane Goodall](https://www.reddit.com/r/funny/comments/1nvhgm8/in_honor_of_jane_goodall/)<!-- MEMES:END -->
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

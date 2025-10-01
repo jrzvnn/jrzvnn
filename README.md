@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sora, which is fun and simple to use, shows that OpenAI remains good at creating viral products, unlike Meta, whose Vibes video feed feels half-baked and obtuse &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251001/p41#a251001p41)
  - [T-Mobile expands its Starlink satellite service to support apps such as WhatsApp, Google Maps, and X, after launching it in July with basic features like SMS &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/251001/p40#a251001p40)
  - [Stockholm-based driverless truck startup Einride raised about $100M, a source says at a $1B+ valuation, up from a valuation of €400M in a 2021 funding round &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/251001/p39#a251001p39)
  - [Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)
- - [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)
- - [Plenty of robot vacuums are already discounted ahead of October Prime Day](https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025)<!-- TECH:END -->
+ - [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

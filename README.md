@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
- - 😝 [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)
- - 💣 [Why am i like this](http://9gag.com/gag/aO8N7NN)
- - 😝 [Pyramid scheme](http://9gag.com/gag/ae9PAnO)
- - 👉 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)<!-- MEMES:END -->
+ - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 💣 [Women need to be challenged](http://9gag.com/gag/a7o6EQA)
+ - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
+ - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 
 ---
 

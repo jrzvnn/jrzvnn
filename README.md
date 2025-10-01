@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 💣 [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [I&#39;ll send the happy couple a whole roast pig as a gift...](http://9gag.com/gag/a87X1yd)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 

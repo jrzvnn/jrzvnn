@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 😝 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
  - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
  - 😝 [Uh-huh \u2615](http://9gag.com/gag/aGyNpmK)
- - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
+ - 👉 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)<!-- MEMES:END -->
 
 ---
 

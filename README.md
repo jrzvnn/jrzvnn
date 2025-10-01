@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seattle-based Phaidra, which develops AI agents to help make data centers more resource efficient, raised over $50M in a Series B led by Collaborative Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/251001/p44#a251001p44)
  - [Brave says it has surpassed 100M monthly active users across desktop and mobile worldwide, with 42M+ DAUs, and Brave Search handles 1.6B+ queries each month &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/251001/p43#a251001p43)
  - [Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites](https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats)
  - [Apple sidelines lighter Vision Pro to prioritize smart glasses](https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro)
- - [Amazon says its AI will let NBA fans track brand-new stats](https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats)
- - [Apple shifts priorities from lighter Apple Vision Pro to smart glasses](https://appleinsider.com/articles/25/10/01/apple-shifts-priorities-from-lighter-apple-vision-pro-to-smart-glasses?utm_source=rss)<!-- TECH:END -->
+ - [Amazon says its AI will let NBA fans track brand-new stats](https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

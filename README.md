@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [RIP Jane Goodall](http://9gag.com/gag/agmZoA1)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 😝 [Fascinating Behaviour forevermore.](http://9gag.com/gag/aZZVDBn)
  - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
 
 ---

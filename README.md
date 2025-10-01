@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic says Apple&#39;s iOS 18.6 &quot;updated user experience&quot; for alt app marketplaces increased installations &quot;for the first time&quot;, cutting drop-offs from 65% to ~25% &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251001/p11#a251001p11)
  - [Tether CEO Paolo Ardoino says the company plans to distribute its new USAT token on Rumble to capture US market share; Tether holds a 48% stake in Rumble &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251001/p10#a251001p10)
  - [Elon Musk&#39;s lawsuit should be thrown out, says Apple](https://appleinsider.com/articles/25/10/01/elon-musks-lawsuit-should-be-thrown-out-says-apple?utm_source=rss)
  - [The EPA Is Ending Greenhouse Gas Data Collection. Who Will Step Up to Fill the Gap?](https://www.wired.com/story/the-epa-is-ending-greenhouse-gas-data-collection-who-will-step-up-to-fill-the-gap/)
- - [Epic says it has proof Apple was scaring users off third-party app stores](https://www.theverge.com/news/789421/epic-games-store-ios-android-installations)
- - [Swedish AI startups Sana, set to be acquired by Workday, Lovable, and Legora, highlight a key dilemma in Europe&#39;s tech scene: sell out or bet on becoming huge &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/251001/p9#a251001p9)<!-- TECH:END -->
+ - [Epic says it has proof Apple was scaring users off third-party app stores](https://www.theverge.com/news/789421/epic-games-store-ios-android-installations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

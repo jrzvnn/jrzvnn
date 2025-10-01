@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
- - 😝 [Fellow human... welcome to my village...](http://9gag.com/gag/aZZV74p)
  - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 😝 [London in 1979](http://9gag.com/gag/aND2p54)
+ - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
  - 👉 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)<!-- MEMES:END -->
 
 ---

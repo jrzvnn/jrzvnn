@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk&#39;s lawsuit should be thrown out, says Apple](https://appleinsider.com/articles/25/10/01/elon-musks-lawsuit-should-be-thrown-out-says-apple?utm_source=rss)
+ - [The EPA Is Ending Greenhouse Gas Data Collection. Who Will Step Up to Fill the Gap?](https://www.wired.com/story/the-epa-is-ending-greenhouse-gas-data-collection-who-will-step-up-to-fill-the-gap/)
  - [Epic says it has proof Apple was scaring users off third-party app stores](https://www.theverge.com/news/789421/epic-games-store-ios-android-installations)
- - [Swedish AI startups Lovable, Legora, and Sana, set to be acquired by Workday, highlight a key dilemma in Europe&#39;s tech scene: sell out or bet on becoming huge &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/251001/p9#a251001p9)
- - [Apple files a motion to dismiss xAI&#39;s lawsuit, which alleges that Apple&#39;s ChatGPT integration stifles competition, saying it plans to integrate other chatbots &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/251001/p8#a251001p8)
- - [Wikimedia wants to make it easier for you and AI developers to search through its data](https://www.theverge.com/news/789288/wikidata-ai-friendly-database)
- - [Axiom Math, which aims to build an &quot;AI mathematician&quot; and has recruited researchers from Meta, raised a $64M seed led by B Capital at a $300M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251001/p7#a251001p7)<!-- TECH:END -->
+ - [Swedish AI startups Sana, set to be acquired by Workday, Lovable, and Legora, highlight a key dilemma in Europe&#39;s tech scene: sell out or bet on becoming huge &lpar;Richard Milne/Financial Times&rpar;](http://www.techmeme.com/251001/p9#a251001p9)
+ - [Apple files a motion to dismiss xAI&#39;s lawsuit, which alleges that Apple&#39;s ChatGPT integration stifles competition, saying it plans to integrate other chatbots &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/251001/p8#a251001p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

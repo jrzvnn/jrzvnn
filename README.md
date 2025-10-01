@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 😝 [Sir Gary Oldman\ud83d\udd25](http://9gag.com/gag/aKGNEgj)
- - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
+ - 💣 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
+ - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 👉 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)<!-- MEMES:END -->
 
 ---
 

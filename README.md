@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
+ - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [Back to the blue oyster.](http://9gag.com/gag/avyXQQn)
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

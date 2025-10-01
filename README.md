@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
  - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - 💣 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
- - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
+ - 😝 [Old but gold - dad with 6 daugters and wife](http://9gag.com/gag/a1mqRW2)
+ - 💣 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 😝 [Uh-huh \u2615](http://9gag.com/gag/aGyNpmK)
  - 👉 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)<!-- MEMES:END -->
 
 ---

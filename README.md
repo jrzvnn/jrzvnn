@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Peloton unveils its Cross Training Series, including a $1,695 Bike and $6,695 Tread Plus, and AI-based Peloton IQ to track workouts on new and old machines &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/251001/p17#a251001p17)
+ - [Apple, Google, Meta must face trial over promotion of gambling apps](https://appleinsider.com/articles/25/10/01/apple-google-meta-must-face-trial-over-promotion-of-gambling-apps?utm_source=rss)
  - [Elon Musk&#39;s Grok App Store positioning lawsuit should be thrown out, says Apple](https://appleinsider.com/articles/25/10/01/elon-musks-lawsuit-should-be-thrown-out-says-apple?utm_source=rss)
  - [China&#39;s Global Digital Trade Expo in Hangzhou showcased robots, EVs, and a self-driving yacht, but questions remain over the US-China trade dispute and profits &lpar;Andrew Higgins/New York Times&rpar;](http://www.techmeme.com/251001/p16#a251001p16)
- - [Peloton Is Having Its Biggest Hardware Launch in Years](https://www.wired.com/story/peloton-iq-lineup-specs-prices/)
- - [Peloton ushers in a new era with revamped hardware and AI](https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness)
- - [Wikimedia Deutschland launches the Wikidata Embedding Project, a vector-based semantic search database with nearly 120M entries, to make data accessible to AI &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251001/p15#a251001p15)<!-- TECH:END -->
+ - [Peloton Is Having Its Biggest Hardware Launch in Years](https://www.wired.com/story/peloton-iq-lineup-specs-prices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Yale and Brookings study: generative AI is reshaping US jobs slightly faster than computers and the internet did, with little evidence of job loss so far &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p2#a251001p2)
  - [Z.ai released GLM-4.6, an open-weights model with a context window of up to 200K tokens, claiming near parity with Claude Sonnet 4 on coding and reasoning tasks &lpar;Z.ai&rpar;](http://www.techmeme.com/251001/p1#a251001p1)
+ - [Peloton Bike or Bike Plus: We Tested Both Models to Help You Decide](https://www.cnet.com/health/fitness/peloton-bike-or-bike-plus-we-tested-both-models-to-help-you-decide/#ftag=CAD590a51e)
  - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)
- - [A Delaware court dismissed Arm&#39;s last claim against Qualcomm, ruling that Qualcomm and subsidiary Nuvia didn&#39;t breach license agreements; Arm plans to appeal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250930/p55#a250930p55)
- - [Tel Aviv-based Commcrete, maker of handheld satellite communication devices and software, raised a $21M Series A led by Greenfield; sources value it at $100M+ &lpar;Resilience Media&rpar;](http://www.techmeme.com/250930/p54#a250930p54)<!-- TECH:END -->
+ - [A Delaware court dismissed Arm&#39;s last claim against Qualcomm, ruling that Qualcomm and subsidiary Nuvia didn&#39;t breach license agreements; Arm plans to appeal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250930/p55#a250930p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

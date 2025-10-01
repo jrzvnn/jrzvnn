@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 😝 [He chose to die due to self esteem . . . . .](http://9gag.com/gag/abAmVOB)
  - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
  - 💣 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)
  - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 👉 [Peak male activities](http://9gag.com/gag/aAyNed0)<!-- MEMES:END -->
 
 ---
 

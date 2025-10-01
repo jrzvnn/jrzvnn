@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)
  - [A Delaware court dismissed Arm&#39;s last claim against Qualcomm, ruling that Qualcomm and subsidiary Nuvia didn&#39;t breach license agreements; Arm plans to appeal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250930/p55#a250930p55)
  - [Tel Aviv-based Commcrete, maker of handheld satellite communication devices and software, raised a $21M Series A led by Greenfield; sources value it at $100M+ &lpar;Resilience Media&rpar;](http://www.techmeme.com/250930/p54#a250930p54)
  - [You had mail: AOL finally discontinues dial-up Internet service](https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-1/#ftag=CAD590a51e)
- - [Assort Health, which is developing voice AI agents for healthcare, raised a $76M Series B led by Lightspeed, bringing its total funding to $102M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/250930/p53#a250930p53)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-1/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

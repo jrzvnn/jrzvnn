@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)
  - [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)
  - [Plenty of robot vacuums are already discounted ahead of October Prime Day](https://www.theverge.com/tech/786897/robot-vacuum-mop-early-deals-amazon-october-prime-day-2025)
- - [Early Prime Day Deals: $100 Off 2 Best-Selling Espresso Makers](https://www.wired.com/story/barista-express-ninja-cafe-luxe-early-prime-day-deals/)<!-- TECH:END -->
+ - [Apple iPad Pro, Vision Pro 2 Rumors: M5 Chip On Deck](https://www.cnet.com/tech/computing/apple-ipad-pro-vision-pro-2-rumors-m5-chip-on-deck/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

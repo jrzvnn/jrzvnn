@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 vs. iPhone 16e: Should you really spend $200 more?](https://appleinsider.com/articles/25/10/01/iphone-17-vs-iphone-16e-should-you-really-spend-200-more?utm_source=rss)
+ - [Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions](https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri)
+ - [The UK&amp;#8217;s war on Apple encryption is back](https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor)
  - [Microsoft’s Windows XP Crocs are here](https://www.theverge.com/news/789982/microsoft-windows-xp-crocs-launch)
- - [Sources: European prosecutors are investigating Northern Data for allegedly claiming a tax break on approximately €500M worth of GPUs it used for crypto mining &lpar;Bloomberg&rpar;](http://www.techmeme.com/251001/p36#a251001p36)
- - [Snoopy to stay with Apple TV+ until 2030](https://appleinsider.com/articles/25/10/01/snoopy-to-stay-with-apple-tv-until-2030?utm_source=rss)
- - [Microsoft launches a $19.99 per month Microsoft 365 Premium subscription, bundling Copilot Pro and Microsoft 365 Family subscriptions along with cloud storage &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251001/p35#a251001p35)
- - [Lowest price ever: Apple Watch SE 2 &lpar;GPS + Cellular&rpar; plunges to $189](https://appleinsider.com/articles/25/10/01/lowest-price-ever-apple-watch-se-2-gps-cellular-plunges-to-189?utm_source=rss)<!-- TECH:END -->
+ - [Sources: European prosecutors are investigating Northern Data for allegedly claiming a tax break on approximately €500M worth of GPUs it used for crypto mining &lpar;Bloomberg&rpar;](http://www.techmeme.com/251001/p36#a251001p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

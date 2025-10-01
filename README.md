@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony brings audio sharing to its flagship noise-cancelling headphones](https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing)
+ - [Sony brings audio sharing to its flagship noise-canceling headphones](https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing)
  - [Samsung’s Galaxy Watch 7 is over $90 off at Amazon](https://www.theverge.com/tech/789818/samsung-galaxy-watch-7-eufy-e28-robot-vacuum-deal-sale)
  - [Porsche’s electric Cayenne has so much screen they had to bend it](https://www.theverge.com/news/789622/porsche-electric-cayenne-curved-screen-flow-display)
  - [Microsoft CEO Satya Nadella hands off some of his duties to Judson Althoff, the company&#39;s longtime sales chief, to free himself up for technical work &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251001/p34#a251001p34)

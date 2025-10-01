@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
+ - [Apple asks judge to toss Musk&amp;#8217;s lawsuit over ChatGPT on iPhone](https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response)
  - [Peloton unveils its Cross Training Series, including a $1,695 Bike and $6,695 Tread Plus, and AI-based Peloton IQ to track workouts on new and old machines &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/251001/p17#a251001p17)
  - [Apple, Google, Meta must face trial over promotion of gambling apps](https://appleinsider.com/articles/25/10/01/apple-google-meta-must-face-trial-over-promotion-of-gambling-apps?utm_source=rss)
- - [Elon Musk&#39;s Grok App Store positioning lawsuit should be thrown out, says Apple](https://appleinsider.com/articles/25/10/01/elon-musks-lawsuit-should-be-thrown-out-says-apple?utm_source=rss)
- - [China&#39;s Global Digital Trade Expo in Hangzhou showcased robots, EVs, and a self-driving yacht, but questions remain over the US-China trade dispute and profits &lpar;Andrew Higgins/New York Times&rpar;](http://www.techmeme.com/251001/p16#a251001p16)
- - [Peloton Is Having Its Biggest Hardware Launch in Years](https://www.wired.com/story/peloton-iq-lineup-specs-prices/)<!-- TECH:END -->
+ - [Elon Musk&#39;s Grok App Store positioning lawsuit should be thrown out, says Apple](https://appleinsider.com/articles/25/10/01/elon-musks-lawsuit-should-be-thrown-out-says-apple?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

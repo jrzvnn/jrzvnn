@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)
+ - [Z.ai released GLM-4.6, an open-weights model with a context window of up to 200K tokens, claiming near parity with Claude Sonnet 4 on coding and reasoning tasks &lpar;Z.ai&rpar;](http://www.techmeme.com/251001/p1#a251001p1)
  - [A Delaware court dismissed Arm&#39;s last claim against Qualcomm, ruling that Qualcomm and subsidiary Nuvia didn&#39;t breach license agreements; Arm plans to appeal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250930/p55#a250930p55)
  - [Tel Aviv-based Commcrete, maker of handheld satellite communication devices and software, raised a $21M Series A led by Greenfield; sources value it at $100M+ &lpar;Resilience Media&rpar;](http://www.techmeme.com/250930/p54#a250930p54)
  - [You had mail: AOL finally discontinues dial-up Internet service](https://appleinsider.com/articles/25/08/09/you-had-mail-aol-finally-discontinues-dial-up-internet-service?utm_source=rss)

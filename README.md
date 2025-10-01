@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
  - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
- - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 😝 [Taking a quick nap during the lunch break](http://9gag.com/gag/aND20v0)
+ - 💣 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
  - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---

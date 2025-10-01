@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Federal Workers Are Being Told to Blame Democrats for the Shutdown](https://www.wired.com/story/government-employees-out-of-office-email-replies/)
+ - [Snoopy to stay with Apple TV+ until 2030](https://appleinsider.com/articles/25/10/01/snoopy-to-stay-with-apple-tv-until-2030?utm_source=rss)
+ - [Microsoft launches a $19.99 per month Microsoft 365 Premium subscription, bundling Copilot Pro and Microsoft 365 Family subscriptions along with cloud storage &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251001/p35#a251001p35)
+ - [Lowest price ever: Apple Watch SE 2 &lpar;GPS + Cellular&rpar; plunges to $189](https://appleinsider.com/articles/25/10/01/lowest-price-ever-apple-watch-se-2-gps-cellular-plunges-to-189?utm_source=rss)
  - [Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus](https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing)
- - [Microsoft’s new Office icons are more curvy and colorful](https://www.theverge.com/news/789533/microsoft-office-new-icons-design)
- - [Ford and GM are buying their own EVs to keep the $7500 tax credit alive](https://www.theverge.com/news/789855/ford-and-gm-are-buying-their-own-evs-to-keep-the-7500-tax-credit-alive)
- - [FTC accuses Zillow of paying $100 million to &amp;#8216;dismantle&amp;#8217; Redfin](https://www.theverge.com/news/789851/ftc-sues-zillow-and-redfin-for-violating-antitrust-laws)<!-- TECH:END -->
+ - [Microsoft’s new Office icons are more curvy and colorful](https://www.theverge.com/news/789533/microsoft-office-new-icons-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

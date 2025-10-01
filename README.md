@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
- - [iPhone 17 Pro demand surges far past iPhone 16 Pro launch orders](https://appleinsider.com/articles/25/10/01/iphone-17-pro-demand-surges-far-past-iphone-16-pro-launch-orders?utm_source=rss)
- - [Oura unveils colorful ceramic Oura Ring 4 versions for $499+ in four finishes with enhanced durability and a thicker 3.51mm design, and a $99 charging case &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/251001/p21#a251001p21)
- - [AWS and the NBA announce a multi-year partnership to launch new AI-powered features and data insights from games, including an NBA Inside the Game platform &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/251001/p20#a251001p20)
- - [Oura Debuts a Ceramic Collection for Its Smart Ring and a $99 Charging Case](https://www.wired.com/story/oura-ceramic-collection-and-charging-case/)<!-- TECH:END -->
+ - [Netflix&amp;#8217;s latest Frankenstein trailer is all about the creature](https://www.theverge.com/news/788304/netflix-frankenstein-trailer-monster-del-toro-jacob-elordi)
+ - [Google&#39;s Gemini Arrives in Google Home, Alongside New Speaker, Nest Cam, and Nest Doorbell](https://www.wired.com/story/gemini-comes-to-google-home-new-nest-devices-and-speaker/)
+ - [This Startup Wants to Put Its Brain-Computer Interface in the Apple Vision Pro](https://www.wired.com/story/this-startup-wants-to-put-its-brain-computer-interface-in-the-apple-vision-pro/)
+ - [Walmart’s Onn cameras were developed with Google and start at just $23](https://www.theverge.com/news/787179/walmart-onn-indoor-camera-video-doorbell-google-home)
+ - [Hands-on with the new Google Home Speaker coming next year](https://www.theverge.com/tech/788085/hands-on-google-home-speaker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

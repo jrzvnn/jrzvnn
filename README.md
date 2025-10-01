@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
  - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
+ - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
  - 💣 [Peak male activities](http://9gag.com/gag/aAyNed0)
- - 😝 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 

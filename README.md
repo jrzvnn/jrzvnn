@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [`The swallow may fly south with the sun, or the house martin/plover may seek warmer climes in the winter.`](http://9gag.com/gag/aZZVrOX)
+ - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 😝 [Sir Gary Oldman\ud83d\udd25](http://9gag.com/gag/aKGNEgj)
  - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
 
 ---

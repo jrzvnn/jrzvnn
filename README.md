@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yes No No No No](http://9gag.com/gag/a0eW7YB)
- - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
+ - 💣 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - 😝 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)
+ - 👉 [Peak male activities](http://9gag.com/gag/aAyNed0)<!-- MEMES:END -->
 
 ---
 

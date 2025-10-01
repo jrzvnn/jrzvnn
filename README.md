@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How live sports betting has exploded in popularity in the US, accounting for more than half of the money wagered on FanDuel and DraftKings in recent quarters &lpar;Jenny Vrentas/New York Times&rpar;](http://www.techmeme.com/251001/p6#a251001p6)
  - [The Best Over-the-Counter Eye Drops of 2025, Chosen by Eye Doctors](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
  - [Best Comforters for 2025: Refresh Your Bedding for Spring With These 8 Options](https://www.cnet.com/health/sleep/best-comforters/#ftag=CAD590a51e)
  - [Roland’s TR-1000 is its first analog drum machine in over 40 years](https://www.theverge.com/tech/789361/rolands-tr-1000-rhythm-creator-analog-drum-machine-808-909)
- - [A look at Nvidia&#39;s uncertain future in China, a critical market at the forefront of every technology wave enabled by its GPUs, as rivals like Huawei rise &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p5#a251001p5)
- - [Best Leaf Blowers in 2025](https://www.cnet.com/news/best-leaf-blowers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Nvidia&#39;s uncertain future in China, a critical market at the forefront of every technology wave enabled by its GPUs, as rivals like Huawei rise &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p5#a251001p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

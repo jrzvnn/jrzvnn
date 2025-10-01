@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
- - 😝 [The best flight ever.](http://9gag.com/gag/aD2N4yG)
- - 💣 [Shut Up Or Jail](http://9gag.com/gag/a7o6E0e)
- - 😝 [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)
- - 👉 [Just......run...](http://9gag.com/gag/aLnNp0z)<!-- MEMES:END -->
+ - 😝 [Yes No No No No](http://9gag.com/gag/a0eW7YB)
+ - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

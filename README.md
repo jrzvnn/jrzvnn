@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC accuses Zillow of paying $100 million to &amp;#8216;dismantle&amp;#8217; Redfin](https://www.theverge.com/news/789851/ftc-sues-zillow-and-redfin-for-violating-antitrust-laws)
- - [Sony brings audio sharing to its flagship noise-canceling headphones](https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing)
- - [Samsung’s Galaxy Watch 7 is over $90 off at Amazon](https://www.theverge.com/tech/789818/samsung-galaxy-watch-7-eufy-e28-robot-vacuum-deal-sale)
- - [Porsche’s electric Cayenne has so much screen they had to bend it](https://www.theverge.com/news/789622/porsche-electric-cayenne-curved-screen-flow-display)
- - [Satya Nadella hands off some of his duties to Judson Althoff, who will become CEO of Microsoft&#39;s commercial business, so that he can focus on technical work &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251001/p34#a251001p34)<!-- TECH:END -->
+ - [Federal Workers Are Being Told to Blame Democrats for the Shutdown](https://www.wired.com/story/government-employees-out-of-office-email-replies/)
+ - [Microsoft 365 Premium bundles Office and AI for the same price as ChatGPT Plus](https://www.theverge.com/news/789493/microsoft-365-premium-features-pricing)
+ - [Microsoft’s new Office icons are more curvy and colorful](https://www.theverge.com/news/789533/microsoft-office-new-icons-design)
+ - [Ford and GM are buying their own EVs to keep the $7500 tax credit alive](https://www.theverge.com/news/789855/ford-and-gm-are-buying-their-own-evs-to-keep-the-7500-tax-credit-alive)
+ - [FTC accuses Zillow of paying $100 million to &amp;#8216;dismantle&amp;#8217; Redfin](https://www.theverge.com/news/789851/ftc-sues-zillow-and-redfin-for-violating-antitrust-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC references non-existent Apple Vision Pro in testing documents](https://appleinsider.com/articles/25/09/30/fcc-references-non-existent-apple-vision-pro-in-testing-documents?utm_source=rss)
- - [The White House withdraws Brian Quintenz&#39;s nomination to lead the CFTC; the Winklevoss twins pressured Trump in July to reconsider his nomination &lpar;Politico&rpar;](http://www.techmeme.com/250930/p48#a250930p48)
- - [OpenAI says Sora has guardrails intended to block depictions of public figures and to ensure that a user&#39;s likeness is used only with their consent, via cameos &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/250930/p47#a250930p47)
- - [US chipmaker Wolfspeed&#39;s shares close up 29.41% after the company emerged from Chapter 11 bankruptcy and achieved its goal of reducing overall debt by ~70% &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p46#a250930p46)
- - [Best Christmas Gifts 2025: 55 Ideas to Clear Your Holiday List](https://www.cnet.com/tech/best-christmas-gift-ideas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A California jury finds Uber not liable for a woman&#39;s alleged sexual assault by her driver, in the first trial out of 500+ consolidated lawsuits in the state &lpar;Diana Novak Jones/Reuters&rpar;](http://www.techmeme.com/250930/p52#a250930p52)
+ - [All hail the new Fat Bear Champion](https://www.theverge.com/news/789358/new-fat-bear-week-champion)
+ - [Taiwan&#39;s vice premier, who is leading US negotiations, says Taiwan would not agree to a 50-50 split in chip production, adding no such condition was discussed &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p51#a250930p51)
+ - [Here’s where to preorder all of Amazon&amp;#8217;s new Alexa devices and when they arrive](https://www.theverge.com/tech/786855/amazon-fall-2025-hardware-preorder-echo-ring-kindle-price-release-date)
+ - [Fermi, a data center real estate investment trust co-founded by former US Energy Secretary Rick Perry, raised $682.5M in its US IPO, valuing Fermi at $12.46B &lpar;Reuters&rpar;](http://www.techmeme.com/250930/p50#a250930p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

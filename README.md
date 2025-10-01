@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Marc Andreessen and investor Charlie Songhurst on Silicon Valley&#39;s past, present, and future, AI, productivity, Stripe, crypto, Musk, media, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/251001/p31#a251001p31)
  - [UK government again trying to get backdoor access to Apple&#39;s user data](https://appleinsider.com/articles/25/10/01/uk-government-again-trying-to-get-backdoor-access-to-apples-user-data?utm_source=rss)
+ - [Ubisoft launches Vantage Studios subsidiary to develop its biggest franchises](https://www.theverge.com/games/789721/ubisoft-vantage-studios-subsidiary-assassins-creed-far-cry)
  - [Petlibro Scout Smart Camera: Filled With Both Features and Kinks](https://www.wired.com/review/petlibro-scout-smart-camera/)
- - [Sources: Qualcomm adopts Arm&#39;s latest v9 architecture for its new generation of PC and phone chips, joining rivals like MediaTek and, analysts believe, Apple &lpar;Reuters&rpar;](http://www.techmeme.com/251001/p30#a251001p30)
- - [Apple Watch Ultra 3 review: Iterative update, but still excellent hardware](https://appleinsider.com/articles/25/10/01/apple-watch-ultra-3-review-iterative-update-but-still-excellent-hardware?utm_source=rss)
- - [Amazon unveils Amazon Grocery, a new private-label brand that offers 1,000+ grocery items largely priced below $5, available online and at Amazon Fresh stores &lpar;Robin Ajello/Bloomberg&rpar;](http://www.techmeme.com/251001/p29#a251001p29)<!-- TECH:END -->
+ - [Spotify now lets you exclude specific songs from your algorithm](https://www.theverge.com/news/789717/spotify-exclude-songs-taste-profile-algorithm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

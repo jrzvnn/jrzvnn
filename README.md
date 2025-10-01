@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Microsoft CEO Satya Nadella is handing off some of his business responsibilities to Judson Althoff, who will become CEO of Microsoft&#39;s commercial business &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251001/p34#a251001p34)
- - [Satya Nadella appoints a new CEO to run Microsoft&amp;#8217;s biggest businesses](https://www.theverge.com/news/789558/microsoft-ceo-commercial-judson-althoff-internal-memo)
- - [The Post-Chuck Schumer Era](https://www.wired.com/story/chuck-schumer-government-shutdown/)
- - [Everything about buying video games is getting more confusing and expensive](https://www.theverge.com/games/789734/game-consoles-too-expensive)
- - [Apple&amp;#8217;s next-gen Vision Pro revealed in new regulatory filing](https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak)<!-- TECH:END -->
+ - [Sony brings audio sharing to its flagship noise-cancelling headphones](https://www.theverge.com/news/789898/sony-firmware-update-wf-1000xm5-wh-1000xm6-headphones-earbuds-audio-sharing)
+ - [Samsung’s Galaxy Watch 7 is over $90 off at Amazon](https://www.theverge.com/tech/789818/samsung-galaxy-watch-7-eufy-e28-robot-vacuum-deal-sale)
+ - [Porsche’s electric Cayenne has so much screen they had to bend it](https://www.theverge.com/news/789622/porsche-electric-cayenne-curved-screen-flow-display)
+ - [Microsoft CEO Satya Nadella hands off some of his duties to Judson Althoff, the company&#39;s longtime sales chief, to free himself up for technical work &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251001/p34#a251001p34)
+ - [Satya Nadella appoints a new CEO to run Microsoft&amp;#8217;s biggest businesses](https://www.theverge.com/news/789558/microsoft-ceo-commercial-judson-althoff-internal-memo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Marc Andreessen and investor Charlie Songhurst on Silicon Valley&#39;s past, present, and future, AI, productivity, Stripe, crypto, Musk, media, and more &lpar;Cheeky Pint&rpar;](http://www.techmeme.com/251001/p31#a251001p31)
- - [UK government again trying to get backdoor access to Apple&#39;s user data](https://appleinsider.com/articles/25/10/01/uk-government-again-trying-to-get-backdoor-access-to-apples-user-data?utm_source=rss)
- - [Ubisoft launches Vantage Studios subsidiary to develop its biggest franchises](https://www.theverge.com/games/789721/ubisoft-vantage-studios-subsidiary-assassins-creed-far-cry)
- - [Petlibro Scout Smart Camera: Filled With Both Features and Kinks](https://www.wired.com/review/petlibro-scout-smart-camera/)
- - [Spotify now lets you exclude specific songs from your algorithm](https://www.theverge.com/news/789717/spotify-exclude-songs-taste-profile-algorithm)<!-- TECH:END -->
+ - [8BitDo’s fantastic Ultimate 2 controller is cheaper than ever](https://www.theverge.com/tech/789728/8bitdo-ultimate-2-switch-pc-october-prime-day-deal-sale)
+ - [Unsurprisingly, AirPods Pro 3 still aren&#39;t repairable](https://appleinsider.com/articles/25/10/01/unsurprisingly-airpods-pro-3-still-arent-repairable?utm_source=rss)
+ - [iPhone 17 Pro demand surges far past iPhone 16 Pro launch orders](https://appleinsider.com/articles/25/10/01/iphone-17-pro-demand-surges-far-past-iphone-16-pro-launch-orders?utm_source=rss)
+ - [Microsoft makes Xbox Cloud Gaming generally available, removing its beta tag after over five years, adds 1440p support, and raises bitrate quality to 27Mbps &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251001/p33#a251001p33)
+ - [Microsoft raises the Xbox Game Pass Ultimate subscription price from $19.99 to $29.99 per month, rebrands Xbox Game Pass Core and Standard plans, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251001/p32#a251001p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooh mama](http://9gag.com/gag/aD2N4zO)
- - 😝 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
- - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 😝 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 😝 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
+ - 😝 [The best flight ever.](http://9gag.com/gag/aD2N4yG)
+ - 💣 [Shut Up Or Jail](http://9gag.com/gag/a7o6E0e)
+ - 😝 [Would this meme get me arrested in the UK?](http://9gag.com/gag/aE0NpWK)
+ - 👉 [Just......run...](http://9gag.com/gag/aLnNp0z)<!-- MEMES:END -->
 
 ---
 

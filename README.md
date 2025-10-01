@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
+ - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
  - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 💣 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)
- - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [`The swallow may fly south with the sun, or the house martin/plover may seek warmer climes in the winter.`](http://9gag.com/gag/aZZVrOX)
+ - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
 
 ---
 

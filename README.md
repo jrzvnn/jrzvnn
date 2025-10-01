@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple has shelved a cheaper, lighter Vision Pro variant planned for 2027 to focus on smart glasses, one to pair with iPhone and another with a display &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251001/p42#a251001p42)
- - [Instagram tests opening right onto Reels](https://www.theverge.com/news/790255/instagram-test-reels-home-tab)
- - [Sora, which is fun and simple to use, shows that OpenAI remains good at creating viral products, unlike Meta, whose Vibes video feed feels half-baked and obtuse &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251001/p41#a251001p41)
- - [T-Mobile expands its Starlink satellite service to support apps such as WhatsApp, Google Maps, and X, after launching it in July with basic features like SMS &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/251001/p40#a251001p40)
- - [YouTube TV and NBC Extend Negotiations Past Deadline](https://www.cnet.com/tech/services-and-software/youtube-tv-and-nbc-extend-negotiations-past-deadline/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Trump admin adds banner attacking ‘Radical Left Democrats’ to government websites](https://www.theverge.com/news/790280/trump-admin-government-shutdown-banner-democrats)
+ - [Apple sidelines lighter Vision Pro to prioritize smart glasses](https://www.theverge.com/news/790285/apple-smart-glasses-vision-pro)
+ - [Amazon says its AI will let NBA fans track brand-new stats](https://www.theverge.com/news/790187/amazon-aws-ai-nba-stats)
+ - [Apple shifts priorities from lighter Apple Vision Pro to smart glasses](https://appleinsider.com/articles/25/10/01/apple-shifts-priorities-from-lighter-apple-vision-pro-to-smart-glasses?utm_source=rss)
+ - [Sources: Apple has paused development of a lighter Vision Pro to focus on smart glasses, a no-display model for a 2027 release, and a model with a display later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251001/p42#a251001p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

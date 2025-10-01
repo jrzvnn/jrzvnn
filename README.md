@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vibe.co, a self-serve platform for businesses to run targeted ads on streaming services, raised a $50M Series B led by Hedosophia at a $410M valuation &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/251001/p3#a251001p3)
+ - [$100 Off Shark Promo Code | October 2025](https://www.wired.com/story/shark-promo-code/)
  - [Yale and Brookings study: generative AI is reshaping US jobs slightly faster than computers and the internet did, with little evidence of job loss so far &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p2#a251001p2)
  - [Z.ai released GLM-4.6, an open-weights model with a context window of up to 200K tokens, claiming near parity with Claude Sonnet 4 on coding and reasoning tasks &lpar;Z.ai&rpar;](http://www.techmeme.com/251001/p1#a251001p1)
- - [Peloton Bike or Bike Plus: We Tested Both Models to Help You Decide](https://www.cnet.com/health/fitness/peloton-bike-or-bike-plus-we-tested-both-models-to-help-you-decide/#ftag=CAD590a51e)
- - [Best 43-Inch TV for 2025](https://www.cnet.com/tech/home-entertainment/best-43-inch-tv/#ftag=CAD590a51e)
- - [A Delaware court dismissed Arm&#39;s last claim against Qualcomm, ruling that Qualcomm and subsidiary Nuvia didn&#39;t breach license agreements; Arm plans to appeal &lpar;Peter Blumberg/Bloomberg&rpar;](http://www.techmeme.com/250930/p55#a250930p55)<!-- TECH:END -->
+ - [Peloton Bike or Bike Plus: We Tested Both Models to Help You Decide](https://www.cnet.com/health/fitness/peloton-bike-or-bike-plus-we-tested-both-models-to-help-you-decide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

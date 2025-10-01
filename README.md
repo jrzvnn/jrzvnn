@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Judges should also be held accountable](http://9gag.com/gag/a4PrEKv)
- - 😝 [Cant wait for this to happen to teachers who have had an onlyfans.](http://9gag.com/gag/aqypnWp)
- - 💣 [Shut Up Or Jail](http://9gag.com/gag/a7o6E0e)
- - 😝 [I&#39;ll send the happy couple a whole roast pig as a gift...](http://9gag.com/gag/a87X1yd)
- - 👉 [The best flight ever.](http://9gag.com/gag/aD2N4yG)<!-- MEMES:END -->
+ - 😝 [No time to f**k around](http://9gag.com/gag/a7o6wBe)
+ - 😝 [Relationship tip of the day.](http://9gag.com/gag/ae9PD3v)
+ - 💣 [This is just ridiculous](http://9gag.com/gag/aW4NEz6)
+ - 😝 [Pigs do fly](http://9gag.com/gag/aW4NgO3)
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 

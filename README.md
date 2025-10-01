@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify and Amazon Ads announce a global partnership to give advertisers using Amazon DSP programmatic access to Spotify&#39;s streaming audio and video inventory &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251001/p18#a251001p18)
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [Apple asks judge to toss Musk&amp;#8217;s lawsuit over ChatGPT on iPhone](https://www.theverge.com/news/789562/apple-openai-elon-musk-antitrust-lawsuit-response)
- - [Peloton unveils its Cross Training Series, including a $1,695 Bike and $6,695 Tread Plus, and AI-based Peloton IQ to track workouts on new and old machines &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/251001/p17#a251001p17)
- - [Apple, Google, Meta must face trial over promotion of gambling apps](https://appleinsider.com/articles/25/10/01/apple-google-meta-must-face-trial-over-promotion-of-gambling-apps?utm_source=rss)<!-- TECH:END -->
+ - [Ray-Ban Meta Gen 2 review: all-day smart glasses with the same tricky questions](https://www.theverge.com/tech/787680/ray-ban-meta-gen-2-review-smart-glasses)
+ - [iPhone 17 Pro demand surges far past iPhone 16 Pro launch orders](https://appleinsider.com/articles/25/10/01/iphone-17-pro-demand-surges-far-past-iphone-16-pro-launch-orders?utm_source=rss)
+ - [Oura unveils colorful ceramic Oura Ring 4 versions for $499+ in four finishes with enhanced durability and a thicker 3.51mm design, and a $99 charging case &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/251001/p21#a251001p21)
+ - [AWS and the NBA announce a multi-year partnership to launch new AI-powered features and data insights from games, including an NBA Inside the Game platform &lpar;Zaheer Kachwala/Reuters&rpar;](http://www.techmeme.com/251001/p20#a251001p20)
+ - [Oura Debuts a Ceramic Collection for Its Smart Ring and a $99 Charging Case](https://www.wired.com/story/oura-ceramic-collection-and-charging-case/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

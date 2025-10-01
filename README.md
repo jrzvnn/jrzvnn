@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Automatic Latte Maker Is $200 Off](https://www.wired.com/story/delonghi-rivelia-deal-1025/)
- - [iPhone 17 vs. iPhone 16e: Should you really spend $200 more?](https://appleinsider.com/articles/25/10/01/iphone-17-vs-iphone-16e-should-you-really-spend-200-more?utm_source=rss)
- - [Adam Mosseri’s ‘we’re totally not spying on you’ video is raising a lot of questions](https://www.theverge.com/news/789991/meta-instagram-microphone-listen-ads-targeting-adam-mosseri)
- - [The UK&amp;#8217;s war on Apple encryption is back](https://www.theverge.com/news/789985/apple-uk-revived-secret-order-encryption-backdoor)
- - [Microsoft’s Windows XP Crocs are here](https://www.theverge.com/news/789982/microsoft-windows-xp-crocs-launch)<!-- TECH:END -->
+ - [Mira Murati&#39;s Thinking Machines Lab launches its first product, Tinker, which automates the creation of custom frontier AI models &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251001/p38#a251001p38)
+ - [Sources: Intel is in early-stage talks to add AMD as a foundry customer; Intel currently lacks the technology to produce AMD&#39;s most advanced, profitable chips &lpar;Rohan Goswami/Semafor&rpar;](http://www.techmeme.com/251001/p37#a251001p37)
+ - [Chatbots Play With Your Emotions to Avoid Saying Goodbye](https://www.wired.com/story/chatbots-play-with-emotions-to-avoid-saying-goodbye/)
+ - [Exclusive: Mira Murati’s Stealth AI Lab Launches Its First Product](https://www.wired.com/story/thinking-machines-lab-first-product-fine-tune/)
+ - [Our Favorite Automatic Latte Maker Is $200 Off](https://www.wired.com/story/delonghi-rivelia-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

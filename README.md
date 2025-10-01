@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wikimedia Deutschland launches the Wikidata Embedding Project, a vector-based semantic search database with nearly 120M entries, to make data accessible to AI &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251001/p15#a251001p15)
- - [Russia&#39;s Ukraine war spurred a new generation of defense tech investors and startups like Helsing, applying a profit-driven model to Europe&#39;s military buildup &lpar;Patricia Cohen/New York Times&rpar;](http://www.techmeme.com/251001/p14#a251001p14)
- - [Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You](https://www.wired.com/story/gear-for-good-20-eco-friendly-items/)
- - [Q&amp;A with Pavel Durov on Telegram, his arrest, censorship, not using a phone, Romanian elections, VK, encryption, Edward Snowden, spring 2018 poisoning, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/251001/p13#a251001p13)
- - [SAG-AFTRA criticizes AI-generated actress Tilly Norwood, the subject of a viral UK TV show parody, saying it opposes replacing performers with &quot;synthetics&quot; &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/251001/p12#a251001p12)<!-- TECH:END -->
+ - [Elon Musk&#39;s Grok App Store positioning lawsuit should be thrown out, says Apple](https://appleinsider.com/articles/25/10/01/elon-musks-lawsuit-should-be-thrown-out-says-apple?utm_source=rss)
+ - [China&#39;s Global Digital Trade Expo in Hangzhou showcased robots, EVs, and a self-driving yacht, but questions remain over the US-China trade dispute and profits &lpar;Andrew Higgins/New York Times&rpar;](http://www.techmeme.com/251001/p16#a251001p16)
+ - [Peloton Is Having Its Biggest Hardware Launch in Years](https://www.wired.com/story/peloton-iq-lineup-specs-prices/)
+ - [Peloton ushers in a new era with revamped hardware and AI](https://www.theverge.com/tech/789282/peloton-cross-training-series-hands-on-peloton-iq-ai-fitness)
+ - [Wikimedia Deutschland launches the Wikidata Embedding Project, a vector-based semantic search database with nearly 120M entries, to make data accessible to AI &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251001/p15#a251001p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

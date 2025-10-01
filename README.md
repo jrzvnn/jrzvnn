@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s next-gen Vision Pro revealed in new regulatory filing](https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak)
- - [15 Best Coolers WIRED Tested for Every Budget, Any Situation &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooler/)
- - [8BitDo’s fantastic Ultimate 2 controller is cheaper than ever](https://www.theverge.com/tech/789728/8bitdo-ultimate-2-switch-pc-october-prime-day-deal-sale)
- - [Unsurprisingly, AirPods Pro 3 still aren&#39;t repairable](https://appleinsider.com/articles/25/10/01/unsurprisingly-airpods-pro-3-still-arent-repairable?utm_source=rss)
- - [iPhone 17 Pro demand surges far past iPhone 16 Pro launch orders](https://appleinsider.com/articles/25/10/01/iphone-17-pro-demand-surges-far-past-iphone-16-pro-launch-orders?utm_source=rss)<!-- TECH:END -->
+ - [Memo: Microsoft CEO Satya Nadella is handing off some of his business responsibilities to Judson Althoff, who will become CEO of Microsoft&#39;s commercial business &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251001/p34#a251001p34)
+ - [Satya Nadella appoints a new CEO to run Microsoft&amp;#8217;s biggest businesses](https://www.theverge.com/news/789558/microsoft-ceo-commercial-judson-althoff-internal-memo)
+ - [The Post-Chuck Schumer Era](https://www.wired.com/story/chuck-schumer-government-shutdown/)
+ - [Everything about buying video games is getting more confusing and expensive](https://www.theverge.com/games/789734/game-consoles-too-expensive)
+ - [Apple&amp;#8217;s next-gen Vision Pro revealed in new regulatory filing](https://www.theverge.com/news/789801/apple-vision-pro-fcc-filing-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

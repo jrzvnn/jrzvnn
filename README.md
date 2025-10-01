@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sora, which is fun and simple to use, shows that OpenAI remains good at creating viral products, unlike Meta, whose Vibes video feed feels half-baked and obtuse &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251001/p41#a251001p41)
  - [T-Mobile expands its Starlink satellite service to support apps such as WhatsApp, Google Maps, and X, after launching it in July with basic features like SMS &lpar;Harshita Mary Varghese/Reuters&rpar;](http://www.techmeme.com/251001/p40#a251001p40)
- - [Stockholm-based driverless truck startup Einride raised about $100M, a source says at a $1B+ valuation, up from a valuation of €400M in a 2021 funding round &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/251001/p39#a251001p39)
- - [Trump&amp;#8217;s solution for high drug prices is a discount portal called TrumpRx](https://www.theverge.com/news/790156/trump-healthcare-government-website-trumprx-pfizer)
- - [Behold: The Lego Game Boy has already been modded to play games for real](https://www.theverge.com/news/790093/lego-game-boy-natalie-the-nerd)<!-- TECH:END -->
+ - [YouTube TV and NBC Extend Negotiations Past Deadline](https://www.cnet.com/tech/services-and-software/youtube-tv-and-nbc-extend-negotiations-past-deadline/#ftag=CAD590a51e)
+ - [Venmo and PayPal Add Payment-Transfer Support: But Do This First](https://www.cnet.com/tech/services-and-software/venmo-and-paypal-add-payment-transfer-support-but-do-this-first/#ftag=CAD590a51e)
+ - [Orionids Is Set to Haunt the Sky in October: How and When to See These Meteors](https://www.cnet.com/science/space/orionids-is-set-to-haunt-the-sky-in-october-how-and-when-to-see-these-meteors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

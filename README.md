@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Russia&#39;s Ukraine war spurred a new generation of defense tech investors and startups like Helsing, applying a profit-driven model to Europe&#39;s military buildup &lpar;Patricia Cohen/New York Times&rpar;](http://www.techmeme.com/251001/p14#a251001p14)
+ - [Gear for Good: 20 Eco-Friendly Items That Score a Win for the Planet—and for You](https://www.wired.com/story/gear-for-good-20-eco-friendly-items/)
+ - [Q&amp;A with Pavel Durov on Telegram, his arrest, censorship, not using a phone, Romanian elections, VK, encryption, Edward Snowden, spring 2018 poisoning, and more &lpar;Lex Fridman&rpar;](http://www.techmeme.com/251001/p13#a251001p13)
  - [SAG-AFTRA criticizes AI-generated actress Tilly Norwood, the subject of a viral UK TV show parody, saying it opposes replacing performers with &quot;synthetics&quot; &lpar;Thomas Buckley/Bloomberg&rpar;](http://www.techmeme.com/251001/p12#a251001p12)
- - [A Journey Into the Heart of Labubu](https://www.wired.com/story/labubu-pop-mart-journey/)
- - [Brompton’s versatile Electric G folding e-bike is now available in the US](https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us)
- - [Epic says Apple&#39;s iOS 18.6 &quot;updated user experience&quot; for alt app marketplaces increased installations &quot;for the first time&quot;, cutting drop-offs from 65% to ~25% &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251001/p11#a251001p11)
- - [Tether CEO Paolo Ardoino says the company plans to distribute its new USAT token on Rumble to capture US market share; Tether holds a 48% stake in Rumble &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251001/p10#a251001p10)<!-- TECH:END -->
+ - [A Journey Into the Heart of Labubu](https://www.wired.com/story/labubu-pop-mart-journey/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

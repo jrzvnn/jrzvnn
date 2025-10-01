@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
  - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
- - 💣 [Peak male activities](http://9gag.com/gag/aAyNed0)
- - 😝 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)
+ - 😝 [Peak male activities](http://9gag.com/gag/aAyNed0)
+ - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 😝 [Why am i like this](http://9gag.com/gag/aO8N7NN)
  - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---

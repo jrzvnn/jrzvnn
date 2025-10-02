@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity is making its AI browser Comet, previously $200 per month as part of Perplexity Max, free for all, with rate limits &lpar;Charles Rollet/Business Insider&rpar;](http://www.techmeme.com/251002/p22#a251002p22)
+ - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2025](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2025?utm_source=rss)
  - [Forget the iPhone 17 - iPhone 18 demand prompts Morgan Stanley to hike AAPL target to $298](https://appleinsider.com/articles/25/10/02/forget-the-iphone-17---iphone-18-demand-prompts-morgan-stanley-to-hike-aapl-target-to-298?utm_source=rss)
  - [Ghost of Yōtei can be chill or brutal with its new cinematic modes](https://www.theverge.com/games/789026/ghost-of-yotei-cinematic-modes-kurosawa-miike-watanabe)
- - [The good, the bad, and the future of AI agents](https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding)
- - [Walmart plans to attach sensors to the 90M grocery pallets it ships each year to its 4,600-store US chain by the end of 2026; tracked items include perishables &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/251002/p21#a251002p21)
- - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)<!-- TECH:END -->
+ - [The good, the bad, and the future of AI agents](https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 😝 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
  - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
  - 😝 [Back to the blue oyster.](http://9gag.com/gag/avyXQQn)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
 
 ---
 

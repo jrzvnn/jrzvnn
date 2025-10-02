@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
- - 😝 [Peak comedy](http://9gag.com/gag/aAyNyGE)
- - 💣 [Salt water doesn&#39;t mix with the drinking water](http://9gag.com/gag/a2vjKxw)
- - 😝 [Sauce: JayDaddy- you&#39;re in a horror movie](http://9gag.com/gag/aAyNy1p)
- - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 💣 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)
+ - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
 
 ---
 

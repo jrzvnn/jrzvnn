@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jane Godall, one of the most important people in natural science, especially in the field of primates, died today at the age of 91. Let us all honor her.](http://9gag.com/gag/adB4PV2)
- - 😝 [Country populated by 97% people following islam is trying to be more secular than some other countries](http://9gag.com/gag/a7o61pe)
- - 💣 [Row your barge](http://9gag.com/gag/a34p1jQ)
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 👉 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)<!-- MEMES:END -->
+ - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - 👉 [Why are you geh](http://9gag.com/gag/avyXAzX)<!-- MEMES:END -->
 
 ---
 

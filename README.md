@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 👉 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)<!-- MEMES:END -->
+ - 😝 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
+ - 😝 [Peak comedy](http://9gag.com/gag/aAyNyGE)
+ - 💣 [Salt water doesn&#39;t mix with the drinking water](http://9gag.com/gag/a2vjKxw)
+ - 😝 [Sauce: JayDaddy- you&#39;re in a horror movie](http://9gag.com/gag/aAyNy1p)
+ - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
 
 ---
 

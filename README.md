@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
+ - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
  - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [Sir Gary Oldman\ud83d\udd25](http://9gag.com/gag/aKGNEgj)
- - 👉 [When you know you messed up](http://9gag.com/gag/aRBNrgq)<!-- MEMES:END -->
+ - 😝 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)
+ - 👉 [Why are you geh](http://9gag.com/gag/avyXAzX)<!-- MEMES:END -->
 
 ---
 

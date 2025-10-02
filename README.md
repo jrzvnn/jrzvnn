@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
  - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
  - 💣 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)
- - 😝 [Hunter](http://9gag.com/gag/aYQnV0w)
+ - 😝 [Imagine just sleeping and get home invaded and you lost your life to a career criminal who was supposed to rot in prison](http://9gag.com/gag/a5QyXyy)
  - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---

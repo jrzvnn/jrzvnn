@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gotta work for that treats](http://9gag.com/gag/ae9P99B)
  - 😝 [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)
- - 💣 [I am an artist!](http://9gag.com/gag/a1mqmww)
  - 😝 [I watch because of good scripts](http://9gag.com/gag/aoyqKvm)
- - 👉 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)<!-- MEMES:END -->
+ - 💣 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
+ - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
+ - 👉 [Salt water doesn&#39;t mix with the drinking water](http://9gag.com/gag/a2vjKxw)<!-- MEMES:END -->
 
 ---
 

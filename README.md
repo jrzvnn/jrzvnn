@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
  - 😝 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
  - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 👉 [Why are you geh](http://9gag.com/gag/avyXAzX)<!-- MEMES:END -->
+ - 😝 [Sir Gary Oldman\ud83d\udd25](http://9gag.com/gag/aKGNEgj)
+ - 👉 [When you know you messed up](http://9gag.com/gag/aRBNrgq)<!-- MEMES:END -->
 
 ---
 

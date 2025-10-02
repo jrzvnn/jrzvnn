@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [New York-based DualEntry, which offers AI-powered ERP software, raised a $90M Series A led by Lightspeed and Khosla Ventures, valuing the company at $415M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251002/p37#a251002p37)
+ - [Instagram Is Not Using Your Phone&#39;s Microphone to Listen to You, Adam Mosseri Says](https://www.cnet.com/tech/services-and-software/instagram-is-not-using-your-phones-microphone-to-listen-to-you-adam-mosseri-says/#ftag=CAD590a51e)
+ - [Ghost of Yotei Starter Guide: 9 Tips to Know](https://www.cnet.com/tech/gaming/ghost-of-yotei-starter-guide-9-tips-to-know/#ftag=CAD590a51e)
  - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
- - [Mercor launches the AI Productivity Index &lpar;APEX&rpar;, which evaluates AI models&#39; ability to perform &quot;economically valuable knowledge work&quot;; GPT-5 leads the index &lpar;Mercor&rpar;](http://www.techmeme.com/251002/p36#a251002p36)
- - [Samsung Glitch? Galaxy Watch Users Report Perfect 99 Sleep Scores for Days Without Explanation](https://www.cnet.com/tech/samsung-glitch-galaxy-watch-users-report-perfect-99-sleep-scores-for-days-without-explanation/#ftag=CAD590a51e)
- - [Best Laptops We&#39;ve Tested &lpar;October 2025&rpar;](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mercor launches the AI Productivity Index &lpar;APEX&rpar;, which evaluates AI models&#39; ability to perform &quot;economically valuable knowledge work&quot;; GPT-5 leads the index &lpar;Mercor&rpar;](http://www.techmeme.com/251002/p36#a251002p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

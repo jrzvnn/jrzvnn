@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Simple, an AI-powered health coaching app to help users lose weight, raised a $35M Series B led by Kevin Hart&#39;s HartBeat Ventures &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251001/p50#a251001p50)
  - [Elon Musk became the first person with a net worth of $500B after Tesla shares climbed on October 1; Musk is $150B ahead of runner-up Larry Ellison &lpar;Matt Durot/Forbes&rpar;](http://www.techmeme.com/251001/p49#a251001p49)
  - [OpenAI&#39;s Sora 2 openly features copyright infringing content, including numerous AI-generated clips of SpongeBob, Pikachu, and Mario &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251001/p48#a251001p48)
- - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)
- - [Nacon’s Revolution X Unlimited Xbox Controller Equips You With Pro-Level Tuning](https://www.cnet.com/tech/gaming/this-xbox-controller-gives-you-pro-level-performance/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-2/#ftag=CAD590a51e)
+ - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

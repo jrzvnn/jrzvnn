@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Failed overtake of long load](http://9gag.com/gag/amobA44)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 💣 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 😝 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)
- - 👉 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)<!-- MEMES:END -->
+ - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [Family with brother and sister be like:](http://9gag.com/gag/aVv1brP)
+ - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
+ - 😝 [Salt water doesn&#39;t mix with the drinking water](http://9gag.com/gag/a2vjKxw)
+ - 👉 [Why are you geh](http://9gag.com/gag/avyXAzX)<!-- MEMES:END -->
 
 ---
 

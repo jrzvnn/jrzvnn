@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Universal Music and Warner Music are nearing landmark AI licensing deals with companies including Google, Spotify, ElevenLabs, Stability AI, and Suno &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251002/p4#a251002p4)
+ - [Visible Promo Code: Save Up to $300 in October 2025](https://www.wired.com/story/visible-promo-code/)
  - [London-based &quot;neocloud&quot; startup Nscale closed a $433M pre-Series C SAFE round from Nvidia, Nokia, Dell, and others, after raising a $1.1B Series B on Sept. 25 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251002/p3#a251002p3)
  - [Data center real estate investment trust Fermi, co-founded by former US Energy Secretary Rick Perry, closed up 55% in its Nasdaq debut, valuing Fermi at ~$19.3B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p2#a251002p2)
- - [China&#39;s recently launched K visa program hopes to attract foreign STEM graduates, but faces online backlash over fears of companies favoring overseas applicants &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251002/p1#a251002p1)
- - [Simple, an AI-powered health coaching app to help users lose weight, raised a $35M Series B led by Kevin Hart&#39;s HartBeat Ventures &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251001/p50#a251001p50)
- - [Elon Musk became the first person with a net worth of $500B after Tesla shares climbed on October 1; Musk is $150B ahead of runner-up Larry Ellison &lpar;Matt Durot/Forbes&rpar;](http://www.techmeme.com/251001/p49#a251001p49)<!-- TECH:END -->
+ - [China&#39;s recently launched K visa program hopes to attract foreign STEM graduates, but faces online backlash over fears of companies favoring overseas applicants &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251002/p1#a251002p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

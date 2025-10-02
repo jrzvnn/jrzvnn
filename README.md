@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As Sora clips go viral, users express awe and delight as others warn about IP theft and that its Cameos could lead to new kinds of misinformation and scams &lpar;New York Times&rpar;](http://www.techmeme.com/251002/p32#a251002p32)
  - [Source: OpenAI employees sold shares to a consortium of investors including Thrive Capital, SoftBank, Dragoneer, Abu Dhabi&#39;s MGX, and T. Rowe Price &lpar;Reuters&rpar;](http://www.techmeme.com/251002/p31#a251002p31)
  - [Anthropic hires former Stripe CTO Rahul Patil as its new CTO, taking over from co-founder Sam McCandlish, who will move to a new role as chief architect &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251002/p30#a251002p30)
  - [Source: OpenAI authorized up to $10.3B in shares for sale, but only $6.6B was sold, which insiders see as a sign of staff confidence and strong investor demand &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251002/p29#a251002p29)
- - [Here are 65 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
- - [Appfigures: Sora saw 56K iOS installs on its first day, on par with Grok but ahead of Claude and Copilot; ChatGPT and Gemini each had ~80K installs on day one &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251002/p28#a251002p28)<!-- TECH:END -->
+ - [Here are 65 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

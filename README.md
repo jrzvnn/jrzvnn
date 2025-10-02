@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based DualEntry, which offers AI-powered ERP software, raised a $90M Series A led by Lightspeed and Khosla Ventures, valuing the company at $415M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251002/p37#a251002p37)
  - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
  - [Mercor launches the AI Productivity Index &lpar;APEX&rpar;, which evaluates AI models&#39; ability to perform &quot;economically valuable knowledge work&quot;; GPT-5 leads the index &lpar;Mercor&rpar;](http://www.techmeme.com/251002/p36#a251002p36)
  - [Samsung Glitch? Galaxy Watch Users Report Perfect 99 Sleep Scores for Days Without Explanation](https://www.cnet.com/tech/samsung-glitch-galaxy-watch-users-report-perfect-99-sleep-scores-for-days-without-explanation/#ftag=CAD590a51e)
- - [Best Laptops We&#39;ve Tested &lpar;October 2025&rpar;](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)
- - [HBO Max: The 26 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-oct-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Laptops We&#39;ve Tested &lpar;October 2025&rpar;](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

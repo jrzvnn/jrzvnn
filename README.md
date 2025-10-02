@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [Back to the blue oyster.](http://9gag.com/gag/avyXQQn)
- - 👉 [Streetwalkers](http://9gag.com/gag/aqypnYv)<!-- MEMES:END -->
+ - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - 😝 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)
+ - 💣 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - 😝 [Classical meme music, but the cattle has to go](http://9gag.com/gag/aryrmXV)
+ - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
 

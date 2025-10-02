@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)
+ - [Silver Lake, whose $24B deal to take Dell private in 2013 became its calling card, sees a similar setup in EA: a recognizable brand with predictable cash flows &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p9#a251002p9)
+ - [A look at a growing number of medical startups that are using robots and AI to fertilize embryos through IVF, helping bring at least 20 babies to term &lpar;Washington Post&rpar;](http://www.techmeme.com/251002/p8#a251002p8)
  - [Public records show AWS is aggressively promoting AI surveillance tech to law enforcement agencies, partnering with companies such as Flock Safety and ZeroEyes &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/251002/p7#a251002p7)
- - [Source: OpenAI completed a secondary sale letting staff sell ~$6.6B in shares at a $500B valuation, making it the world&#39;s most valuable startup ahead of SpaceX &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251002/p6#a251002p6)
- - [A Google exec and sources say a ransomware group presumably tied to Cl0p is sending extortion emails, claiming it stole data from Oracle&#39;s E-Business Suite &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p5#a251002p5)
- - [Sources: Universal Music and Warner Music are nearing landmark AI licensing deals with companies including Google, ElevenLabs, Stability AI, Suno, and Udio &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251002/p4#a251002p4)
- - [Visible Promo Code: Save Up to $300 in October 2025](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
+ - [Source: OpenAI completed a secondary sale letting staff sell ~$6.6B in shares at a $500B valuation, making it the world&#39;s most valuable startup ahead of SpaceX &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251002/p6#a251002p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

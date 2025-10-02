@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s fourth quarter 2025 earnings call to take place on October 30](https://appleinsider.com/articles/25/10/02/apples-fourth-quarter-2025-earnings-call-to-take-place-on-october-30?utm_source=rss)
  - [OpenAI asks a US judge to dismiss a lawsuit alleging it hired away xAI employees to steal trade secrets, calling the case part of Musk&#39;s &quot;ongoing harassment&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251002/p38#a251002p38)
  - [NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network](https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn)
  - [New York-based DualEntry, which offers AI-powered ERP software, raised a $90M Series A led by Lightspeed and Khosla Ventures, valuing the company at $415M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251002/p37#a251002p37)
- - [Instagram Is Not Using Your Phone&#39;s Microphone to Listen to You, Adam Mosseri Says](https://www.cnet.com/tech/services-and-software/instagram-is-not-using-your-phones-microphone-to-listen-to-you-adam-mosseri-says/#ftag=CAD590a51e)
- - [Ghost of Yotei Starter Guide: 9 Tips to Know](https://www.cnet.com/tech/gaming/ghost-of-yotei-starter-guide-9-tips-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instagram Is Not Using Your Phone&#39;s Microphone to Listen to You, Adam Mosseri Says](https://www.cnet.com/tech/services-and-software/instagram-is-not-using-your-phones-microphone-to-listen-to-you-adam-mosseri-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

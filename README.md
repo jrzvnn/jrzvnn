@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
  - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
+ - 💣 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - 😝 [Ain&#39;t that the truth?](http://9gag.com/gag/aW4N4L4)
  - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 ---

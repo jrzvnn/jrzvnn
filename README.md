@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Country populated by 97% people following islam is trying to be more secular than some other countries](http://9gag.com/gag/a7o61pe)
- - 😝 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
- - 💣 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)
- - 😝 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)
- - 👉 [Jane Godall, one of the most important people in natural science, especially in the field of primates, died today at the age of 91. Let us all honor her.](http://9gag.com/gag/adB4PV2)<!-- MEMES:END -->
+ - 😝 [Failed overtake of long load](http://9gag.com/gag/amobA44)
+ - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 💣 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just found out it\u2019s officially Sir Gary Oldman from now on. Guess who likes that](http://9gag.com/gag/aE0N8jG)
- - 😝 [Fascinating Behaviour forevermore.](http://9gag.com/gag/aZZVDBn)
- - 💣 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)
- - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 👉 [Sir Gary Oldman\ud83d\udd25](http://9gag.com/gag/aKGNEgj)<!-- MEMES:END -->
+ - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
+ - 😝 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

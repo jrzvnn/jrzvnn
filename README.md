@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
  - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
- - 😝 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)
- - 👉 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)<!-- MEMES:END -->
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Watch &amp; Mac mini no longer listed as carbon neutral after greenwashing concerns](https://appleinsider.com/articles/25/10/02/apple-watch-mac-mini-no-longer-listed-as-carbon-neutral-after-greenwashing-concerns?utm_source=rss)
  - [Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price)
  - [Google says Gemini 2.5 Flash Image, aka Nano Banana, is now generally available and supports more aspect ratios, priced at $0.039/image and $30/1M output tokens &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/251002/p35#a251002p35)
- - [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion)
- - [Microsoft researchers say AI models can be used to design toxins that evade biosecurity systems used to screen DNA orders for potential biothreats &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251002/p34#a251002p34)
- - [Ring’s new Search Party feature is on by default; should you opt out?](https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out)<!-- TECH:END -->
+ - [Best MacBooks We&#39;ve Tested &lpar;September 2025&rpar;](https://www.cnet.com/tech/computing/best-macbook/#ftag=CAD590a51e)
+ - [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

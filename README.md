@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Trump Administration Is Coming for Nonprofits. They&#39;re Getting Ready](https://www.wired.com/story/the-trump-administration-is-coming-for-nonprofits-theyre-getting-ready/)
- - [Extortion group Crimson Collective claims to have breached Red Hat&#39;s private GitHub repositories, stealing ~570GB from 28K projects; Red Hat confirms a breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251002/p19#a251002p19)
+ - [Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters](https://www.wired.com/story/former-google-ceo-will-fund-boat-drones-to-explore-rough-antarctic-waters/)
+ - [Super Mario Galaxy deserves more](https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2)
+ - [Hulu isn&amp;#8217;t going away after all — it&amp;#8217;s going global](https://www.theverge.com/news/790403/disney-plus-hulu-integration-global-expansion-update)
  - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
- - [Oneleet, an integrated compliance service combining penetration testing, code scanning, and more, raised a $33M Series A led by Dawn Capital and hits $3M ARR &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251002/p18#a251002p18)
- - [13 Best Carry-On Luggage &lpar;2025&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)<!-- TECH:END -->
+ - [The Trump Administration Is Coming for Nonprofits. They&#39;re Getting Ready](https://www.wired.com/story/the-trump-administration-is-coming-for-nonprofits-theyre-getting-ready/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

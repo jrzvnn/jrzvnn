@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Well...well....well` ~ Brian Griffin](http://9gag.com/gag/a34pERN)
- - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 😝 [What lobster?](http://9gag.com/gag/avyXADd)
+ - 😝 [Country populated by 97% people following islam is trying to be more secular than some other countries](http://9gag.com/gag/a7o61pe)
+ - 💣 [Satisfying Sound](http://9gag.com/gag/ajPMg7x)
+ - 😝 [Row your barge](http://9gag.com/gag/a34p1jQ)
+ - 👉 [Jane Godall, one of the most important people in natural science, especially in the field of primates, died today at the age of 91. Let us all honor her.](http://9gag.com/gag/adB4PV2)<!-- MEMES:END -->
 
 ---
 

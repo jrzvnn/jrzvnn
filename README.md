@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
  - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 💣 [To the comment section lads](http://9gag.com/gag/ayNVMrM)
+ - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
  - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
- - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
+ - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile&amp;#8217;s satellite service now supports Google Maps, WhatsApp, X, and more](https://www.theverge.com/news/790412/t-mobile-satellite-service-apps-x-whatsapp-google-maps)
- - [The Best USB-C Cables &lpar;2025&rpar;: For iPhones, Android Phones, Tablets, and Laptops](https://www.wired.com/gallery/best-usb-c-cables/)
- - [There’s Never Been a Worse Time to Be Authentic at Work](https://www.wired.com/story/theres-never-been-a-worse-time-to-be-authentic-at-work/)
- - [Asahi says most of its 30 factories in Japan have not operated since September 29 after a cyberattack, leaving Japan with just days of Asahi Super Dry stock &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p17#a251002p17)
- - [The Best Linen Sheets for Cool and Comfy Sleeping &lpar;2025&rpar;](https://www.wired.com/gallery/best-linen-sheets/)<!-- TECH:END -->
+ - [The Trump Administration Is Coming for Nonprofits. They&#39;re Getting Ready](https://www.wired.com/story/the-trump-administration-is-coming-for-nonprofits-theyre-getting-ready/)
+ - [Extortion group Crimson Collective claims to have breached Red Hat&#39;s private GitHub repositories, stealing ~570GB from 28K projects; Red Hat confirms a breach &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/251002/p19#a251002p19)
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
+ - [Oneleet, an integrated compliance service combining penetration testing, code scanning, and more, raised a $33M Series A led by Dawn Capital and hits $3M ARR &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251002/p18#a251002p18)
+ - [13 Best Carry-On Luggage &lpar;2025&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

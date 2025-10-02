@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Music’s biggest labels are weeks away from major AI licensing deals](https://www.theverge.com/news/790405/warner-universal-music-ai-deals)
+ - [Source: HR software company Gusto paid ~$600M to acquire Guideline, which offers 401&lpar;k&rpar; plans to SMBs; Guideline raised $340M and had a $1.15B valuation in 2021 &lpar;TechCrunch&rpar;](http://www.techmeme.com/251002/p14#a251002p14)
  - [A look at China&#39;s push to integrate AI tools into children&#39;s lives, even as educators and researchers remain skeptical, warning the benefits are overstated &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/251002/p13#a251002p13)
  - [A look at Allen Control Systems, maker of AI-powered gun turrets designed to shoot down drones, co-founded by Steven Simoni, who sold Bbot to DoorDash for $125M &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/251002/p12#a251002p12)
- - [A book excerpt details Tonga&#39;s 2022 internet outage after a colossal underwater volcanic eruption ripped apart the cables connecting the country to the world &lpar;Samanth Subramanian/The Guardian&rpar;](http://www.techmeme.com/251002/p11#a251002p11)
- - [Jeff Bezos’ Blue Origin Wins Contract to Take NASA Rover to the Moon](https://www.wired.com/story/jeff-bezos-blue-origin-wins-contract-to-take-nasa-rover-to-the-moon/)
- - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)<!-- TECH:END -->
+ - [A book excerpt details Tonga&#39;s 2022 internet outage after a colossal underwater volcanic eruption ripped apart the cables connecting the country to the world &lpar;Samanth Subramanian/The Guardian&rpar;](http://www.techmeme.com/251002/p11#a251002p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

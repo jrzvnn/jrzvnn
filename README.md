@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ain&#39;t that the truth?](http://9gag.com/gag/aW4N4L4)
- - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 💣 [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)
- - 😝 [Sauce: JayDaddy- you&#39;re in a horror movie](http://9gag.com/gag/aAyNy1p)
- - 👉 [I watch because of good scripts](http://9gag.com/gag/aoyqKvm)<!-- MEMES:END -->
+ - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
+ - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
+ - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
 

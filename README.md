@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&amp;#8217;s Vega OS launch trick: cloud-streamed apps](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)
  - [Everything is terrorism in Trump&amp;#8217;s America](https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice)
  - [China Rolls Out Its First Talent Visa as the US Retreats on H-1Bs](https://www.wired.com/story/china-talent-immigration-visa-h1-b-policy/)
  - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
- - [Amazon halts drone deliveries in Arizona after a pair crashed into a crane](https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause)
- - [Surfshark&#39;s $1.99/mo VPN deal is back for October](https://appleinsider.com/articles/25/10/02/surfsharks-199-per-month-vpn-deal-is-back-for-october?utm_source=rss)<!-- TECH:END -->
+ - [Amazon halts drone deliveries in Arizona after a pair crashed into a crane](https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

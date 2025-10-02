@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
  - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
  - 💣 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)
- - 😝 [Imagine just sleeping and get home invaded and you lost your life to a career criminal who was supposed to rot in prison](http://9gag.com/gag/a5QyXyy)
+ - 😝 [Salute](http://9gag.com/gag/a7o6qYL)
  - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---

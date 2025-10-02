@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Leave the car there or tow it and change the name?](https://www.reddit.com/r/funny/comments/1nweyzr/leave_the_car_there_or_tow_it_and_change_the_name/)
  - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
- - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
- - 👉 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)<!-- MEMES:END -->
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [Failed overtake of long load](http://9gag.com/gag/amobA44)
+ - 👉 [I am an artist!](http://9gag.com/gag/a1mqmww)<!-- MEMES:END -->
 
 ---
 

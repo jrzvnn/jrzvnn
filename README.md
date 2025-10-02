@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom first check - it&#39;s ok - Then teaches lesson 😄😄😄](https://www.reddit.com/r/funny/comments/1nvwccn/mom_first_check_its_ok_then_teaches_lesson/)
+ - 😝 [`Well...well....well` ~ Brian Griffin](http://9gag.com/gag/a34pERN)
  - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
- - 💣 [How to peel coconut efficiently](http://9gag.com/gag/ae9PgPm)
- - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 👉 [When you know you messed up](http://9gag.com/gag/aRBNrgq)<!-- MEMES:END -->
+ - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---
 

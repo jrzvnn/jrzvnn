@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow](https://www.theverge.com/tech/790768/xbox-series-x-s-kirby-air-riders-deal-sale)
+ - [Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown](https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/)
  - [How to fix iMessage activation issue on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-fix-imessage-activation-issue-on-ios-26?utm_source=rss)
- - [Apple doesn&#39;t blur this rapper&#39;s face, he just wants you to think that they do](https://appleinsider.com/articles/25/10/02/apple-doesnt-blur-this-rappers-face-he-just-wants-you-to-think-that-they-do?utm_source=rss)
- - [Sources: in recent weeks, Meta changed FAIR&#39;s publishing rules to require extra review, angering staff; Yann LeCun considered resigning over Meta&#39;s AI changes &lpar;The Information&rpar;](http://www.techmeme.com/251002/p24#a251002p24)
- - [Elon Musk is leading a pressure campaign to make Netflix un-woke](https://www.theverge.com/news/790740/elon-musk-netflix-pressure-campaign-woke)
- - [Perplexity’s Comet browser is now available to everyone for free](https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free)<!-- TECH:END -->
+ - [Amazon now lets Prime members add items to completed orders](https://www.theverge.com/news/790703/amazon-prime-add-to-deliver-mobile-app-online-store)
+ - [Apple doesn&#39;t blur this rapper&#39;s face, he just wants you to think that they do](https://appleinsider.com/articles/25/10/02/apple-doesnt-blur-this-rappers-face-he-just-wants-you-to-think-that-they-do?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity’s Comet browser is now available to everyone for free](https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free)
+ - [Threads adds communities to help you find your people](https://www.theverge.com/news/790436/threads-communities-topics-launch)
  - [The smart glasses race is really on now](https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display)
  - [Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised a $35M Series A, taking its total funding to $44.5M &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/251002/p23#a251002p23)
- - [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)
- - [Amazon&amp;#8217;s Vega OS launch trick: cloud-streamed apps](https://www.theverge.com/column/790144/amazons-vega-os-streaming-cloud)
- - [These iPhone Settings Helped Me Cut Down on Screen Time](https://www.cnet.com/tech/these-iphone-settings-helped-me-cut-down-on-screen-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

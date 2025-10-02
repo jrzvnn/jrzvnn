@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Forget the iPhone 17 - iPhone 18 demand prompts Morgan Stanley to hike AAPL target to $298](https://appleinsider.com/articles/25/10/02/forget-the-iphone-17---iphone-18-demand-prompts-morgan-stanley-to-hike-aapl-target-to-298?utm_source=rss)
  - [Ghost of Yōtei can be chill or brutal with its new cinematic modes](https://www.theverge.com/games/789026/ghost-of-yotei-cinematic-modes-kurosawa-miike-watanabe)
  - [The good, the bad, and the future of AI agents](https://www.theverge.com/podcast/789772/ai-agents-anthropic-claude-sonnet-autonomous-coding)
  - [Walmart plans to attach sensors to the 90M grocery pallets it ships each year to its 4,600-store US chain by the end of 2026; tracked items include perishables &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/251002/p21#a251002p21)
- - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
- - [Toilet Time With Your Phone Could Give You a Real Pain in the Butt](https://www.cnet.com/tech/mobile/toilet-time-with-your-phone-could-give-you-a-real-pain-in-the-butt/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

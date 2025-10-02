@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Salesforce launches Agentforce Vibes, an enterprise vibe-coding tool and IDE featuring Vibe Codey, built on a fork from Cline&#39;s open source AI coding agent &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251001/p47#a251001p47)
+ - [Nacon’s Revolution X Unlimited Xbox Controller Equips You With Pro-Level Tuning](https://www.cnet.com/tech/gaming/this-xbox-controller-gives-you-pro-level-performance/#ftag=CAD590a51e)
  - [Sources: China curbs the use of European suppliers Nokia and Ericsson in its telecoms networks, requiring lengthy national security reviews for their contracts &lpar;Financial Times&rpar;](http://www.techmeme.com/251001/p46#a251001p46)
  - [Sources: Yahoo nears a deal to sell AOL to Italian app developer Bending Spoons for ~$1.4B; AOL.com&#39;s traffic has recently grown 20% YoY among users aged 25-54 &lpar;Reuters&rpar;](http://www.techmeme.com/251001/p45#a251001p45)
- - [Seattle-based Phaidra, which develops AI agents to help make data centers more resource efficient, raised over $50M in a Series B led by Collaborative Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/251001/p44#a251001p44)
- - [Using Your Phone on the Toilet Could Contribute to Hemorrhoids, Study Finds](https://www.cnet.com/tech/mobile/using-your-phone-on-the-toilet-could-contribute-to-hemorrhoids-study-finds/#ftag=CAD590a51e)
- - [Brave says it has surpassed 100M monthly active users across desktop and mobile worldwide, with 42M+ DAUs, and Brave Search handles 1.6B+ queries each month &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/251001/p43#a251001p43)<!-- TECH:END -->
+ - [Seattle-based Phaidra, which develops AI agents to help make data centers more resource efficient, raised over $50M in a Series B led by Collaborative Fund &lpar;Alan Neuhauser/Axios&rpar;](http://www.techmeme.com/251001/p44#a251001p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

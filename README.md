@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta angered FAIR staff by requiring extra review of research before publishing; Yann LeCun considered resigning over Meta&#39;s broader AI changes &lpar;The Information&rpar;](http://www.techmeme.com/251002/p24#a251002p24)
- - [Perplexity’s Comet browser is now available to everyone for free](https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free)
- - [Threads adds communities to help you find your people](https://www.theverge.com/news/790436/threads-communities-topics-launch)
- - [The smart glasses race is really on now](https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display)
- - [Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised a $35M Series A, taking its total funding to $44.5M &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/251002/p23#a251002p23)<!-- TECH:END -->
+ - [Amazon now lets Prime members add items to completed orders](https://www.theverge.com/news/790703/amazon-prime-add-to-deliver-mobile-app-online-store)
+ - [Apple doesn&#39;t blur this rapper&#39;s face, he just wants you to think that they do](https://appleinsider.com/articles/25/10/02/apple-doesnt-blur-this-rappers-face-he-just-wants-you-to-think-that-they-do?utm_source=rss)
+ - [Sources: in recent weeks, Meta changed FAIR&#39;s publishing rules to require extra review, angering staff; Yann LeCun considered resigning over Meta&#39;s AI changes &lpar;The Information&rpar;](http://www.techmeme.com/251002/p24#a251002p24)
+ - [Elon Musk is leading a pressure campaign to make Netflix un-woke](https://www.theverge.com/news/790740/elon-musk-netflix-pressure-campaign-woke)
+ - [Perplexity’s Comet browser is now available to everyone for free](https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

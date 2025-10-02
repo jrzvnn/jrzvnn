@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says Gemini 2.5 Flash Image, aka Nano Banana, is now generally available and supports more aspect ratios, priced at $0.039/image and $30/1M output tokens &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/251002/p35#a251002p35)
+ - [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion)
  - [Microsoft researchers say AI models can be used to design toxins that evade biosecurity systems used to screen DNA orders for potential biothreats &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251002/p34#a251002p34)
  - [Ring’s new Search Party feature is on by default; should you opt out?](https://www.theverge.com/news/790928/ring-search-party-cameras-default-opt-out)
- - [Amazon&#39;s Fire TV Stick 4K Select, which comes with Vega OS, will use cloud app streaming to run Android versions of apps that haven&#39;t been ported to Vega &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/251002/p33#a251002p33)
- - [Google is destroying independent websites, and one sees no choice but to defend it anyway](https://www.theverge.com/tech/790711/google-doj-ad-tech-remedies-wikihow-open-web)
- - [As Sora clips go viral, users express awe and delight as others warn about IP theft and that its Cameos could lead to new kinds of misinformation and scams &lpar;New York Times&rpar;](http://www.techmeme.com/251002/p32#a251002p32)<!-- TECH:END -->
+ - [Amazon&#39;s Fire TV Stick 4K Select, which comes with Vega OS, will use cloud app streaming to run Android versions of apps that haven&#39;t been ported to Vega &lpar;Janko Roettgers/Lowpass&rpar;](http://www.techmeme.com/251002/p33#a251002p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

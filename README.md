@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 💣 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)
+ - 😝 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

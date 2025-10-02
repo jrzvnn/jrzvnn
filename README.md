@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redbox’s next product may be piracy lawsuits](https://www.theverge.com/tech/791013/redbox-chicken-soup-piracy-lawsuits-ip-sale-grove-street)
+ - [Mercor launches the AI Productivity Index &lpar;APEX&rpar;, which evaluates AI models&#39; ability to perform &quot;economically valuable knowledge work&quot;; GPT-5 leads the index &lpar;Mercor&rpar;](http://www.techmeme.com/251002/p36#a251002p36)
  - [Apple Watch &amp; Mac mini no longer listed as carbon neutral after greenwashing concerns](https://appleinsider.com/articles/25/10/02/apple-watch-mac-mini-no-longer-listed-as-carbon-neutral-after-greenwashing-concerns?utm_source=rss)
  - [Here’s how to get Xbox Game Pass Ultimate at the old price](https://www.theverge.com/tech/791012/xbox-pc-game-pass-ultimate-how-to-get-old-price)
- - [Google says Gemini 2.5 Flash Image, aka Nano Banana, is now generally available and supports more aspect ratios, priced at $0.039/image and $30/1M output tokens &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/251002/p35#a251002p35)
- - [Best MacBooks We&#39;ve Tested &lpar;September 2025&rpar;](https://www.cnet.com/tech/computing/best-macbook/#ftag=CAD590a51e)
- - [Shein is opening its first physical stores](https://www.theverge.com/news/791000/shein-france-physical-store-chinese-ecommerce-fast-fashion)<!-- TECH:END -->
+ - [Google says Gemini 2.5 Flash Image, aka Nano Banana, is now generally available and supports more aspect ratios, priced at $0.039/image and $30/1M output tokens &lpar;Google Developers Blog&rpar;](http://www.techmeme.com/251002/p35#a251002p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

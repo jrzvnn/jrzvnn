@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Meta angered FAIR staff by requiring extra review of research before publishing; Yann LeCun considered resigning over Meta&#39;s broader AI changes &lpar;The Information&rpar;](http://www.techmeme.com/251002/p24#a251002p24)
  - [Perplexity’s Comet browser is now available to everyone for free](https://www.theverge.com/news/790419/perplexity-comet-available-everyone-free)
  - [Threads adds communities to help you find your people](https://www.theverge.com/news/790436/threads-communities-topics-launch)
  - [The smart glasses race is really on now](https://www.theverge.com/news/790697/smart-glasses-race-apple-meta-ray-ban-display)
- - [Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised a $35M Series A, taking its total funding to $44.5M &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/251002/p23#a251002p23)
- - [Welcome to the Xbox $360 era](https://www.theverge.com/tech/790658/microsoft-xbox-game-pass-console-price-hikes-notepad)<!-- TECH:END -->
+ - [Dash0, which offers AI agents to monitor and troubleshoot cloud, app, and infrastructure issues, raised a $35M Series A, taking its total funding to $44.5M &lpar;Maya Dharampal-Hornby/Sifted&rpar;](http://www.techmeme.com/251002/p23#a251002p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

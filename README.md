@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [`Well...well....well` ~ Brian Griffin](http://9gag.com/gag/a34pERN)
- - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)
  - 💣 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)
- - 😝 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)
+ - 😝 [Imagine just sleeping and get home invaded and you lost your life to a career criminal who was supposed to rot in prison](http://9gag.com/gag/a5QyXyy)
  - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
 
 ---

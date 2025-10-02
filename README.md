@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart plans to attach sensors to the 90M grocery pallets it ships each year to its 4,600-store US chain by the end of 2026; tracked items include perishables &lpar;Gregory Meyer/Financial Times&rpar;](http://www.techmeme.com/251002/p21#a251002p21)
  - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
  - [Disney says Hulu will replace the Star hub on Disney+ on October 8 in international markets as part of Disney&#39;s plan to expand Hulu globally &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251002/p20#a251002p20)
  - [Tesla finally had a good sales quarter — it may be the last one for a while](https://www.theverge.com/news/790046/tesla-q3-2025-sales-production-delivery)
- - [Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters](https://www.wired.com/story/former-google-ceo-will-fund-boat-drones-to-explore-rough-antarctic-waters/)
- - [Super Mario Galaxy deserves more](https://www.theverge.com/games/790186/super-mario-galaxy-nintendo-switch-2)<!-- TECH:END -->
+ - [Former Google CEO Will Fund Boat Drones to Explore Rough Antarctic Waters](https://www.wired.com/story/former-google-ceo-will-fund-boat-drones-to-explore-rough-antarctic-waters/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

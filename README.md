@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Failed overtake of long load](http://9gag.com/gag/amobA44)
- - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 😝 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 😝 [Ain&#39;t that the truth?](http://9gag.com/gag/aW4N4L4)
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 💣 [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)
+ - 😝 [Sauce: JayDaddy- you&#39;re in a horror movie](http://9gag.com/gag/aAyNy1p)
+ - 👉 [I watch because of good scripts](http://9gag.com/gag/aoyqKvm)<!-- MEMES:END -->
 
 ---
 

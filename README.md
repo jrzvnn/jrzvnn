@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
  - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 💣 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 😝 [Ain&#39;t that the truth?](http://9gag.com/gag/aW4N4L4)
+ - 💣 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 😝 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
  - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 ---

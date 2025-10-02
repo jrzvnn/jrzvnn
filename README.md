@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker Prime Wireless Charging Station review: The coolest wireless charging station yet](https://appleinsider.com/articles/25/10/02/anker-prime-wireless-charging-station-review-the-coolest-wireless-charging-station-yet?utm_source=rss)
+ - [Google adds a new command-line interface and public API to its AI coding agent Jules, allowing it to plug into terminals, CI/CD systems, and tools like Slack &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251002/p27#a251002p27)
+ - [Microsoft has committed $33B+ to neocloud providers; sources: its $19.4B Nebius deal will provide computing power for creating LLMs and a consumer AI assistant &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251002/p26#a251002p26)
  - [Our Favorite All-in-One Printer and Scanner Is $50 Off](https://www.wired.com/story/epson-ecotank-et2980-deal-1025/)
- - [Meta unveils communities on Threads, starting with 100+ dedicated spaces for casual conversations around topics like basketball, television, and K-pop music &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251002/p25#a251002p25)
- - [It’s your last chance to snag the Xbox Series S and X at its current price before they rise tomorrow](https://www.theverge.com/tech/790768/xbox-series-x-s-kirby-air-riders-deal-sale)
- - [Government Workers Say Their Out-of-Office Replies Were Forcibly Changed to Blame Democrats for Shutdown](https://www.wired.com/story/government-workers-say-their-out-of-office-replies-were-forcibly-changed-to-blame-democrats-for-shutdown/)
- - [How to fix iMessage activation issue on iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-fix-imessage-activation-issue-on-ios-26?utm_source=rss)<!-- TECH:END -->
+ - [Meta unveils communities on Threads, starting with 100+ dedicated spaces for casual conversations around topics like basketball, television, and K-pop music &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251002/p25#a251002p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

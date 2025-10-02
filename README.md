@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 😝 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)
- - 💣 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)
- - 😝 [Classical meme music, but the cattle has to go](http://9gag.com/gag/aryrmXV)
- - 👉 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)<!-- MEMES:END -->
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 💣 [Streetwalkers](http://9gag.com/gag/aqypnYv)
+ - 😝 [Why is it difficult to understand that noone likes to have men in women&#39;s bathroom..](http://9gag.com/gag/aYQnVRN)
+ - 👉 [The moment of realization on her face is priceless](http://9gag.com/gag/a87XGzO)<!-- MEMES:END -->
 
 ---
 

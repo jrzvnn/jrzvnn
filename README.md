@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 😝 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
- - 💣 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)
- - 😝 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
+ - 😝 [Failed overtake of long load](http://9gag.com/gag/amobA44)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 💣 [When you know you messed up](http://9gag.com/gag/aRBNrgq)
+ - 😝 [In the hospital ward to prevent dementia patients leaving the ward. The numerical code is within the message.](http://9gag.com/gag/aD2NYXw)
  - 👉 [Hooaaoohhhhh ooohh](http://9gag.com/gag/aO8NQwv)<!-- MEMES:END -->
 
 ---

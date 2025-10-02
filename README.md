@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All Affinity apps are now free for the iPad - for now [u]](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
- - [Perplexity is making its AI browser Comet, previously $200 per month as part of Perplexity Max, free for all, with rate limits &lpar;Charles Rollet/Business Insider&rpar;](http://www.techmeme.com/251002/p22#a251002p22)
- - [How to watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2025](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-for-free-in-2025?utm_source=rss)
- - [Forget the iPhone 17 - iPhone 18 demand prompts Morgan Stanley to hike AAPL target to $298](https://appleinsider.com/articles/25/10/02/forget-the-iphone-17---iphone-18-demand-prompts-morgan-stanley-to-hike-aapl-target-to-298?utm_source=rss)
- - [Ghost of Yōtei can be chill or brutal with its new cinematic modes](https://www.theverge.com/games/789026/ghost-of-yotei-cinematic-modes-kurosawa-miike-watanabe)<!-- TECH:END -->
+ - [Everything is terrorism in Trump&amp;#8217;s America](https://www.theverge.com/policy/790510/trump-fascism-antifa-soros-ice)
+ - [China Rolls Out Its First Talent Visa as the US Retreats on H-1Bs](https://www.wired.com/story/china-talent-immigration-visa-h1-b-policy/)
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
+ - [Amazon halts drone deliveries in Arizona after a pair crashed into a crane](https://www.theverge.com/news/790636/amazon-prime-mk30-drone-delivery-crash-arizona-pause)
+ - [Surfshark&#39;s $1.99/mo VPN deal is back for October](https://appleinsider.com/articles/25/10/02/surfsharks-199-per-month-vpn-deal-is-back-for-october?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

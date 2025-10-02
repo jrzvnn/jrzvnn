@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The absolute state of america right now](http://9gag.com/gag/aQzNEWw)
- - 😝 [I watch because of good scripts](http://9gag.com/gag/aoyqKvm)
- - 💣 [I mean ... It&#39;s better than piracy but..](http://9gag.com/gag/ayNVN0M)
+ - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
+ - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 💣 [Come full circle](http://9gag.com/gag/aE0N8MM)
  - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
- - 👉 [Salt water doesn&#39;t mix with the drinking water](http://9gag.com/gag/a2vjKxw)<!-- MEMES:END -->
+ - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
 
 ---
 

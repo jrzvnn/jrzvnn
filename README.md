@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A book excerpt details Tonga&#39;s 2022 internet outage after a colossal underwater volcanic eruption ripped apart the cables connecting the country to the world &lpar;Samanth Subramanian/The Guardian&rpar;](http://www.techmeme.com/251002/p11#a251002p11)
+ - [Jeff Bezos’ Blue Origin Wins Contract to Take NASA Rover to the Moon](https://www.wired.com/story/jeff-bezos-blue-origin-wins-contract-to-take-nasa-rover-to-the-moon/)
  - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)
  - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)
- - [Silver Lake, whose $24B deal to take Dell private in 2013 became its calling card, sees a similar setup in EA: a recognizable brand with predictable cash flows &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p9#a251002p9)
- - [A look at a growing number of medical startups that are using robots and AI to fertilize embryos through IVF, helping bring at least 20 babies to term &lpar;Washington Post&rpar;](http://www.techmeme.com/251002/p8#a251002p8)
- - [Public records show AWS is aggressively promoting AI surveillance tech to law enforcement agencies, partnering with companies such as Flock Safety and ZeroEyes &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/251002/p7#a251002p7)<!-- TECH:END -->
+ - [Silver Lake, whose $24B deal to take Dell private in 2013 became its calling card, sees a similar setup in EA: a recognizable brand with predictable cash flows &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p9#a251002p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

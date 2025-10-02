@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
  - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 💣 [He did what? WTF man](http://9gag.com/gag/aVv1xK2)
- - 😝 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
- - 👉 [American military leaders after the Trump speech](http://9gag.com/gag/aW4Nj3n)<!-- MEMES:END -->
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 💣 [To the comment section lads](http://9gag.com/gag/ayNVMrM)
+ - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
+ - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 ---
 

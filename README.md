@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: OpenAI authorized up to $10.3B in shares for sale, but only $6.6B was sold, which insiders see as a sign of staff confidence and strong investor demand &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251002/p29#a251002p29)
+ - [Here are 65 great deals you can snag ahead of Amazon&amp;#8217;s fall Prime Day event](https://www.theverge.com/tech/783008/amazon-october-prime-day-sale-best-early-deals-2025)
  - [Appfigures: Sora saw 56K iOS installs on its first day, on par with Grok but ahead of Claude and Copilot; ChatGPT and Gemini each had ~80K installs on day one &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251002/p28#a251002p28)
- - [Anker Prime Wireless Charging Station review: The coolest wireless charging station yet](https://appleinsider.com/articles/25/10/02/anker-prime-wireless-charging-station-review-the-coolest-wireless-charging-station-yet?utm_source=rss)
- - [Google adds a new command-line interface and public API to its AI coding agent Jules, allowing it to plug into terminals, CI/CD systems, and tools like Slack &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251002/p27#a251002p27)
- - [Microsoft has committed $33B+ to neocloud providers; sources: its $19.4B Nebius deal will provide computing power for creating LLMs and a consumer AI assistant &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251002/p26#a251002p26)
- - [Our Favorite All-in-One Printer and Scanner Is $50 Off](https://www.wired.com/story/epson-ecotank-et2980-deal-1025/)<!-- TECH:END -->
+ - [Firmware Update Brings Audio Sharing and AI Assistance to Some of Sony&#39;s Noise-Canceling Headphones](https://www.cnet.com/tech/mobile/firmware-update-brings-audio-sharing-and-ai-assistance-to-some-of-sonys-noise-canceling-headphones/#ftag=CAD590a51e)
+ - [Anker Prime Wireless Charging Station review: The coolest wireless charging station yet](https://appleinsider.com/articles/25/10/02/anker-prime-wireless-charging-station-review-the-coolest-wireless-charging-station-yet?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

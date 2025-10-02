@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at China&#39;s push to integrate AI tools into children&#39;s lives, even as educators and researchers remain skeptical, warning the benefits are overstated &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/251002/p13#a251002p13)
  - [A look at Allen Control Systems, maker of AI-powered gun turrets designed to shoot down drones, co-founded by Steven Simoni, who sold Bbot to DoorDash for $125M &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/251002/p12#a251002p12)
  - [A book excerpt details Tonga&#39;s 2022 internet outage after a colossal underwater volcanic eruption ripped apart the cables connecting the country to the world &lpar;Samanth Subramanian/The Guardian&rpar;](http://www.techmeme.com/251002/p11#a251002p11)
  - [Jeff Bezos’ Blue Origin Wins Contract to Take NASA Rover to the Moon](https://www.wired.com/story/jeff-bezos-blue-origin-wins-contract-to-take-nasa-rover-to-the-moon/)
- - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)
- - [A profile of Silver Lake co-CEO Egon Durban, who brokered the EA takeover with Jared Kushner, following the PE firm&#39;s high-stakes deals from TikTok to Altera &lpar;Financial Times&rpar;](http://www.techmeme.com/251002/p10#a251002p10)<!-- TECH:END -->
+ - [Jimmyjane Hello Touch Pro Review: A Vibrator Designed Like Earbuds](https://www.wired.com/review/jimmyjane-hello-touch-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

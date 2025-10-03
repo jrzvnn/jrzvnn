@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
  - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 💣 [So scary!](http://9gag.com/gag/amoboW4)
- - 😝 [The fact that PREDATOR rolls credits like it\u2019s a feel good sit-com will never not be funny.](http://9gag.com/gag/an7WReo)
- - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
+ - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---
 

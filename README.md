@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)
+ - [Hoto put a lo-fi torque display on its new cordless screwdriver](https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display)
  - [Sources: Microsoft is testing ad-supported games streaming internally, allowing employees to play select titles for free without a Game Pass subscription &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251003/p14#a251003p14)
  - [Kodak launches Kodacolor 100 and 200 to feed the film resurgence](https://www.theverge.com/news/791251/kodak-launches-kodacolor-100-and-200-to-feed-the-film-resurgence)
- - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
- - [A bundle with Amazon’s biggest smart display and a stand just got its biggest discount](https://www.theverge.com/tech/791283/amazon-echo-show-21-jbl-tour-3-earbuds-deal-sale)
- - [The quest for every Gap store playlist ever](https://www.theverge.com/report/790802/gap-playlists-michael-bise-music-streaming-nostalgia)<!-- TECH:END -->
+ - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

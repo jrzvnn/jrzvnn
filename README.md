@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
  - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 

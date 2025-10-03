@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI acquires AI-powered personal finance app Roi; source: CEO and co-founder Sujith Vishwajith is the only member of Roi&#39;s four-person team joining OpenAI &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251003/p27#a251003p27)
  - [Sources: former Databricks AI chief Naveen Rao is in talks to raise $1B led by a16z at a $5B valuation for his new AI hardware startup Unconventional &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251003/p26#a251003p26)
  - [Coinbase applies for a national trust company charter, says it &quot;has no intention of becoming a bank&quot; and the charter will allow expansion in areas like payments &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251003/p25#a251003p25)
  - [Apple&#39;s removal of ICEBlock raises questions about the limits of what the company will resist under the Trump administration&#39;s increasingly outrageous demands &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251003/p24#a251003p24)
- - [7 Hacks Wellness Editors Swear By to Survive Cold and Flu Season](https://www.cnet.com/health/hacks-wellness-editors-using-survive-flu-season/#ftag=CAD590a51e)
- - [Best Noise-Canceling Headphones We&#39;ve Tested &lpar;August 2025&rpar;](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [7 Hacks Wellness Editors Swear By to Survive Cold and Flu Season](https://www.cnet.com/health/hacks-wellness-editors-using-survive-flu-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

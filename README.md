@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Human Bowling Ball](https://www.reddit.com/r/funny/comments/1nx057y/the_human_bowling_ball/)
  - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 💣 [Peak comedy](http://9gag.com/gag/aAyNyGE)
- - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 👉 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)<!-- MEMES:END -->
+ - 😝 [Peak comedy](http://9gag.com/gag/aAyNyGE)
+ - 💣 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 😝 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)
+ - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
 
 ---
 

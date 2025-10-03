@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [Cows reaction to a breeding bull arriving. He will mate with all of them](http://9gag.com/gag/aQzNzA7)
- - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 💣 [Cows reaction to a breeding bull arriving. He will mate with all of them](http://9gag.com/gag/aQzNzA7)
  - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
+ - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
 
 ---
 

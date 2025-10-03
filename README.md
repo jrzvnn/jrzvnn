@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak comedy](http://9gag.com/gag/aAyNyGE)
  - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 💣 [Waiting for year 2069](http://9gag.com/gag/a4PrnwZ)
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 👉 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)<!-- MEMES:END -->
+ - 😝 [Cows reaction to a breeding bull arriving. He will mate with all of them](http://9gag.com/gag/aQzNzA7)
+ - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
 
 ---
 

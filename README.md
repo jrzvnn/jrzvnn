@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 💣 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 😝 [Hakuna matata](http://9gag.com/gag/adB4vrB)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
+ - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
 
 ---
 

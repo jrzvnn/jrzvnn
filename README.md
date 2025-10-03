@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
  - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)
- - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 👉 [Introducing Potatoz, 9GAG\u2019s official mascot \ud83e\udd54.](http://9gag.com/gag/aMVNVE6)<!-- MEMES:END -->
 
 ---
 

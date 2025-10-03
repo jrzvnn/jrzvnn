@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [CISA, the key law that helps the federal government guard against cyber threats to US critical systems, expired when the government shut down &lpar;Politico&rpar;](http://www.techmeme.com/251003/p11#a251003p11)
  - [Feedzai, which uses AI to detect and prevent financial crimes, raised ~$75M at a $2B valuation &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251003/p10#a251003p10)
  - [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)
- - [OpenAI&#39;s invite-only Sora app, launched on Tuesday, becomes the top free app in the US App Store, surpassing Gemini and ChatGPT &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251003/p9#a251003p9)<!-- TECH:END -->
+ - [OpenAI&#39;s invite-only Sora app becomes the top free app in the US App Store three days after its launch, ahead of Gemini in second and ChatGPT in third &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251003/p9#a251003p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

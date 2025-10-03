@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hori’s new Switch 2 controller lets you deactivate its home and screenshot buttons](https://www.theverge.com/news/791438/hori-wireless-horipad-turbo-nintendo-switch-2-controller)
+ - [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak)
+ - [OpenAI&#39;s Sora Is Now the No. 1 Free iPhone App. Get Ready for Lots More AI Slop](https://www.cnet.com/tech/services-and-software/openais-sora-is-now-the-no-1-free-iphone-app-get-ready-for-lots-more-ai-slop/#ftag=CAD590a51e)
  - [Moonlake AI, which creates tools to &quot;vibe code virtual worlds&quot;, including for gaming, animation, and filmmaking, comes out of stealth with a $28M seed &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251003/p18#a251003p18)
- - [China Is Leading the World in the Clean Energy Transition. Here&#39;s What That Looks Like](https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/)
- - [New research may lead to brain-controlled Apple Vision Pro without surgery](https://appleinsider.com/articles/25/10/03/new-research-may-lead-to-brain-controlled-apple-vision-pro-without-surgery?utm_source=rss)
- - [I’ve fallen into Sora’s slippery slop](https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on)
- - [Google and Apple removed Red Dot, an app for reporting ICE sightings; Google says the app was being used to share the location of a &quot;vulnerable group&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251003/p17#a251003p17)<!-- TECH:END -->
+ - [China Is Leading the World in the Clean Energy Transition. Here&#39;s What That Looks Like](https://www.wired.com/story/china-clean-energy-un-climate-summit-goals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

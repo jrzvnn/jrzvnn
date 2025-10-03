@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
  - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
  - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 😝 [Remember them](http://9gag.com/gag/apRj10n)
- - 👉 [Come full circle](http://9gag.com/gag/aE0N8MM)<!-- MEMES:END -->
+ - 😝 [One, two, three, he definitely counts](http://9gag.com/gag/aLnNL9x)
+ - 👉 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)<!-- MEMES:END -->
 
 ---
 

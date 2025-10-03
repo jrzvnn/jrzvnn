@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So scary!](http://9gag.com/gag/amoboW4)
  - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
- - 😝 [Remember them](http://9gag.com/gag/apRj10n)
- - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
+ - 💣 [Come full circle](http://9gag.com/gag/aE0N8MM)
+ - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
+ - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
 
 ---
 

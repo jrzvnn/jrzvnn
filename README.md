@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [Peak comedy](http://9gag.com/gag/aAyNyGE)
- - 💣 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [Never bring a machete to a bodyslam fight](http://9gag.com/gag/aVv1gb2)
- - 👉 [So scary!](http://9gag.com/gag/amoboW4)<!-- MEMES:END -->
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 💣 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 😝 [Hakuna matata](http://9gag.com/gag/adB4vrB)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 

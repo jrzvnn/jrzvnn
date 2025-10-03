@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Feedzai, which uses AI to detect and prevent financial crimes, raised ~$75M at a $2B valuation &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251003/p10#a251003p10)
  - [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)
  - [OpenAI&#39;s invite-only Sora app, launched on Tuesday, becomes the top free app in the US App Store, surpassing Gemini and ChatGPT &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251003/p9#a251003p9)
  - [The real price of a free TV](https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast)
- - [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)
- - [Sources: BlackRock&#39;s GIP is in talks to buy Aligned, which operates 78 data centers across North and South America, in a deal that could value Aligned at ~$40B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251003/p8#a251003p8)<!-- TECH:END -->
+ - [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

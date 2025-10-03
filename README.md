@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Supabase, an open-source rival to Google&#39;s Firebase, raised a $100M Series E led by Accel and Peak XV at a $5B valuation, bringing its total funding to $500M+ &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251003/p6#a251003p6)
  - [Japan’s most popular beer is running low after cyberattack](https://www.theverge.com/news/791192/asahi-beer-cyberattack-systems-outage)
  - [AI chip startup Groq, last valued at $6.9B, says it plans to break ground on 12+ new data centers in 2026; Groq has set up 12 data centers in 2025 so far &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/251003/p5#a251003p5)
  - [Why Are Car Software Updates Still So Bad?](https://www.wired.com/story/why-are-car-software-updates-still-so-bad/)
- - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)
- - [Scuba diver&#39;s life saved by Apple Watch Ultra&#39;s siren](https://appleinsider.com/articles/25/10/03/scuba-divers-life-saved-by-apple-watch-ultras-siren?utm_source=rss)<!-- TECH:END -->
+ - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia suspends TikTok&#39;s local operating license, saying it failed to share complete livestream activity data during protests following a government request &lpar;Chandra Asmara/Bloomberg&rpar;](http://www.techmeme.com/251003/p3#a251003p3)
  - [A Newly Discovered ‘Einstein’s Cross’ Reveals the Existence of a Giant Dark Matter Halo](https://www.wired.com/story/a-newly-discovered-einsteins-cross-reveals-the-existence-of-a-giant-dark-matter-halo/)
  - [An interview with CEO Amjad Masad on Replit&#39;s slow growth, leaving the professional developer market to focus on non-technical white-collar workers, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251003/p2#a251003p2)
  - [a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251003/p1#a251003p1)
- - [At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star](https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/)
- - [Best Smart TV of 2025](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star](https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

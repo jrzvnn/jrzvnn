@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber acquihires Belgian data labeling startup Segments.ai to expand its lidar data labeling capabilities; its founders and staff will join Uber AI Solutions &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251002/p43#a251002p43)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-3/#ftag=CAD590a51e)
  - [IBM releases Granite 4.0, an open source &quot;enterprise-ready&quot; LLM family with a hybrid architecture, claiming it uses significantly less RAM than traditional LLMs &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251002/p42#a251002p42)
  - [Apple pulls ICEBlock from the App Store](https://www.theverge.com/news/791170/iceblock-app-store-removed-by-apple)
- - [Sources: delays in the deal to send Nvidia&#39;s AI chips to the UAE, announced in May, are frustrating Jensen Huang and administration officials like David Sacks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251002/p41#a251002p41)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 3, #375](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-3-375/#ftag=CAD590a51e)
- - [ICEBlock app removed from App Store after DOJ demands, citing safety concerns](https://appleinsider.com/articles/25/10/03/iceblock-app-removed-from-app-store-after-doj-demands-citing-safety-concerns?utm_source=rss)<!-- TECH:END -->
+ - [Sources: delays in the deal to send Nvidia&#39;s AI chips to the UAE, announced in May, are frustrating Jensen Huang and administration officials like David Sacks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251002/p41#a251002p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

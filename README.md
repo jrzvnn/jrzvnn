@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No, no, noo](http://9gag.com/gag/a0eW4AB)
- - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 💣 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 😝 [Dogpool](http://9gag.com/gag/amob1A2)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 😝 [So scary!](http://9gag.com/gag/amoboW4)
+ - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
+ - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
 
 ---
 

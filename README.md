@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New research may lead to brain-controlled Apple Vision Pro without surgery](https://appleinsider.com/articles/25/10/03/new-research-may-lead-to-brain-controlled-apple-vision-pro-without-surgery?utm_source=rss)
+ - [I’ve fallen into Sora’s slippery slop](https://www.theverge.com/ai-artificial-intelligence/791290/openai-sora-ai-generated-video-hands-on)
  - [Google and Apple removed Red Dot, an app for reporting ICE sightings; Google says the app was being used to share the location of a &quot;vulnerable group&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251003/p17#a251003p17)
  - [Trump rolled YouTube into paying for his ballroom](https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom)
- - [Oneleet, which offers a platform for penetration testing, code scanning, attack surface monitoring, and more, raised a $33M Series A led by Dawn Capital &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/251003/p16#a251003p16)
- - [Jefferies&#39; bearish Apple stock guesswork continues with iPhone 18-related downgrade](https://appleinsider.com/articles/25/10/03/jefferies-bearish-apple-stock-guesswork-continues-with-iphone-18-related-downgrade?utm_source=rss)
- - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)<!-- TECH:END -->
+ - [Impulse Buys Under $25 on Amazon That Make Unexpectedly Great Gifts](https://www.cnet.com/pictures/impulse-buy-gifts-under-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

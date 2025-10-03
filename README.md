@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
- - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [Stop that, it&#39;s silly!](http://9gag.com/gag/a2vjvX9)
- - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
+ - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 💣 [Failed overtake of long load](http://9gag.com/gag/amobA44)
+ - 😝 [Remember them](http://9gag.com/gag/apRj10n)
+ - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
 
 ---
 

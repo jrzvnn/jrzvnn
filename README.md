@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
  - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
+ - 💣 [What artist do you think is overrated? I&#39;ll go first:](http://9gag.com/gag/a9yNzAo)
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 👉 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)<!-- MEMES:END -->
 
 ---
 

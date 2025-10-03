@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supabase, an open-source rival to Google&#39;s Firebase, raised a $100M Series E led by Accel and Peak XV at a $5B valuation, bringing its total funding to $500M+ &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251003/p6#a251003p6)
- - [Japan’s most popular beer is running low after cyberattack](https://www.theverge.com/news/791192/asahi-beer-cyberattack-systems-outage)
- - [AI chip startup Groq, last valued at $6.9B, says it plans to break ground on 12+ new data centers in 2026; Groq has set up 12 data centers in 2025 so far &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/251003/p5#a251003p5)
- - [Why Are Car Software Updates Still So Bad?](https://www.wired.com/story/why-are-car-software-updates-still-so-bad/)
- - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)<!-- TECH:END -->
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+ - [Apple Watch Ultra 3, Alexa, Bad Bunny and Snoopy, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/03/apple-watch-ultra-3-alexa-bad-bunny-and-snoopy-on-the-appleinsider-podcast?utm_source=rss)
+ - [Doc: Amazon&#39;s Q Business AI assistant struggled with accuracy and data processing in its first year, drawing complaints; Amazon says the document is outdated &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/251003/p7#a251003p7)
+ - [8 Best Alexa Speakers and Amazon Echo Devices We’ve Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [Prepare yourself to envy every inch of Apple Music&#39;s new studios](https://appleinsider.com/articles/25/10/03/prepare-yourself-to-envy-every-inch-of-apple-musics-new-studios?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

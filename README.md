@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenText plans to sell its eDOCS legal document management system to NetDocuments for $163M and use the proceeds to reduce its outstanding debt &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251003/p20#a251003p20)
  - [Amazon’s Fire TV Stick 4K is getting a new name soon](https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon)
  - [Memo: Meta Superintelligence Labs&#39; products team, led by Nat Friedman, pushes staff to ditch Meta&#39;s slow internal systems in favor of external tools like Vercel &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/251003/p19#a251003p19)
  - [Hori’s new Switch 2 controller lets you deactivate its home and screenshot buttons](https://www.theverge.com/news/791438/hori-wireless-horipad-turbo-nintendo-switch-2-controller)
- - [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak)
- - [OpenAI&#39;s Sora Is Now the No. 1 Free iPhone App. Get Ready for Lots More AI Slop](https://www.cnet.com/tech/services-and-software/openais-sora-is-now-the-no-1-free-iphone-app-get-ready-for-lots-more-ai-slop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla’s cheaper Model Y finally breaks cover](https://www.theverge.com/news/791414/tesla-model-y-cheap-affordable-photos-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

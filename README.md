@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 😝 [I am an artist!](http://9gag.com/gag/a1mqmww)
  - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 💣 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 👉 [Introducing Potatoz, 9GAG\u2019s official mascot \ud83e\udd54.](http://9gag.com/gag/aMVNVE6)<!-- MEMES:END -->
+ - 💣 [Sauce: JayDaddy- you&#39;re in a horror movie](http://9gag.com/gag/aAyNy1p)
+ - 😝 [Me as soon as I clock in to work](http://9gag.com/gag/ae9P9VQ)
+ - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
 
 ---
 

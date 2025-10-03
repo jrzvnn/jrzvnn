@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [So scary!](http://9gag.com/gag/amoboW4)
+ - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
  - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
+ - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 💣 [Come full circle](http://9gag.com/gag/aE0N8MM)
- - 😝 [Save the guy out of the flood.](http://9gag.com/gag/aRBNEP7)
- - 👉 [Failed overtake of long load](http://9gag.com/gag/amobA44)<!-- MEMES:END -->
+ - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
+ - 💣 [So scary!](http://9gag.com/gag/amoboW4)
+ - 😝 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)
+ - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---
 

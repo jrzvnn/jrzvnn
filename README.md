@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
  - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
- - 💣 [So scary!](http://9gag.com/gag/amoboW4)
- - 😝 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)
+ - 💣 [Come full circle](http://9gag.com/gag/aE0N8MM)
+ - 😝 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
  - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---

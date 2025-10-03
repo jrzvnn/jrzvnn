@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft is testing ad-supported games streaming internally, allowing employees to play select titles for free without a Game Pass subscription &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251003/p14#a251003p14)
+ - [Kodak launches Kodacolor 100 and 200 to feed the film resurgence](https://www.theverge.com/news/791251/kodak-launches-kodacolor-100-and-200-to-feed-the-film-resurgence)
  - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
  - [A bundle with Amazon’s biggest smart display and a stand just got its biggest discount](https://www.theverge.com/tech/791283/amazon-echo-show-21-jbl-tour-3-earbuds-deal-sale)
- - [The quest for every Gap store playlist ever](https://www.theverge.com/report/790802/gap-playlists-michael-bise-music-streaming-nostalgia)
- - [Your Delivery Robot Is Here](https://www.wired.com/story/uncanny-valley-podcast-your-delivery-robot-is-here/)
- - [Tesla Cybertruck’s faulty door handles caused woman’s death, lawsuit alleges](https://www.theverge.com/news/791327/tesla-cybertruck-faulty-door-handles-wrongful-death-lawsuit)<!-- TECH:END -->
+ - [The quest for every Gap store playlist ever](https://www.theverge.com/report/790802/gap-playlists-michael-bise-music-streaming-nostalgia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

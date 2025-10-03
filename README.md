@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Oneleet, which offers a platform for penetration testing, code scanning, attack surface monitoring, and more, raised a $33M Series A led by Dawn Capital &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/251003/p16#a251003p16)
  - [Jefferies&#39; bearish Apple stock guesswork continues with iPhone 18-related downgrade](https://appleinsider.com/articles/25/10/03/jefferies-bearish-apple-stock-guesswork-continues-with-iphone-18-related-downgrade?utm_source=rss)
  - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)
- - [Sources: Microsoft is testing ad-supported games streaming internally, allowing employees to play select titles for free without an Xbox Game Pass subscription &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251003/p14#a251003p14)
- - [Kodak launches Kodacolor 100 and 200 to feed the film resurgence](https://www.theverge.com/news/791251/kodak-launches-kodacolor-100-and-200-to-feed-the-film-resurgence)<!-- TECH:END -->
+ - [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)
+ - [Hoto put a lo-fi torque display on its new cordless screwdriver](https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The real price of a free TV](https://www.theverge.com/podcast/791253/telly-free-tv-ads-amazon-echo-vergecast)
+ - [ICE Wants to Build Out a 24/7 Social Media Surveillance Team](https://www.wired.com/story/ice-social-media-surveillance-24-7-contract/)
+ - [Sources: BlackRock&#39;s GIP is in talks to buy Aligned, which operates 78 data centers across North and South America, in a deal that could value Aligned at ~$40B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251003/p8#a251003p8)
  - [I tried Amazon and Google’s new smart home gadgets, ask me anything!](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
- - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [Apple Watch Ultra 3, Alexa, Bad Bunny and Snoopy, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/03/apple-watch-ultra-3-alexa-bad-bunny-and-snoopy-on-the-appleinsider-podcast?utm_source=rss)
- - [Doc: Amazon&#39;s Q Business AI assistant struggled with accuracy and data processing in its first year, drawing complaints; Amazon says the document is outdated &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/251003/p7#a251003p7)<!-- TECH:END -->
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

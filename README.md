@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Scuba diver&#39;s life saved by Apple Watch Ultra&#39;s siren](https://appleinsider.com/articles/25/10/03/scuba-divers-life-saved-by-apple-watch-ultras-siren?utm_source=rss)
- - [TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the parts are from a reported incident in 2024 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251003/p4#a251003p4)
+ - [TechInsights: Huawei used components from TSMC, Samsung, and SK Hynix in some of its Ascend 910C chips; TSMC says the analyzed dies were made before Oct. 2024 &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251003/p4#a251003p4)
  - [Inside the Contentious World of Luigi Mangione Supporters](https://www.wired.com/story/inside-the-contentious-world-of-luigi-mangione-supporters/)
  - [Indonesia suspends TikTok&#39;s local operating license, saying it failed to share complete livestream activity data during protests following a government request &lpar;Chandra Asmara/Bloomberg&rpar;](http://www.techmeme.com/251003/p3#a251003p3)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 3 #579](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-3-579/#ftag=CAD590a51e)<!-- TECH:END -->

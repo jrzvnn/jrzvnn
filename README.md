@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google and Apple removed Red Dot, an app for reporting ICE sightings; Google says the app was being used to share the location of a &quot;vulnerable group&quot; &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251003/p17#a251003p17)
+ - [Trump rolled YouTube into paying for his ballroom](https://www.theverge.com/policy/791355/trump-youtube-google-antitrust-ballroom)
  - [Oneleet, which offers a platform for penetration testing, code scanning, attack surface monitoring, and more, raised a $33M Series A led by Dawn Capital &lpar;Ionut Arghire/SecurityWeek&rpar;](http://www.techmeme.com/251003/p16#a251003p16)
  - [Jefferies&#39; bearish Apple stock guesswork continues with iPhone 18-related downgrade](https://appleinsider.com/articles/25/10/03/jefferies-bearish-apple-stock-guesswork-continues-with-iphone-18-related-downgrade?utm_source=rss)
- - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)
- - [Sony shrinks PS5 Slim storage in the US, too](https://www.theverge.com/news/791380/sony-ps5-slim-reduced-storage-2100-model-series)
- - [Hoto put a lo-fi torque display on its new cordless screwdriver](https://www.theverge.com/news/791260/hoto-pixeldrive-cordless-screwdriver-display)<!-- TECH:END -->
+ - [Midi, which offers virtual care for women and is developing an AI search engine for health info, raised a $50M Series C, bringing its total funding to ~$150M &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251003/p15#a251003p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

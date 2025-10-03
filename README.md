@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ICEBlock app removed from App Store after DOJ demands, citing safety concerns](https://appleinsider.com/articles/25/10/03/iceblock-app-removed-from-app-store-after-doj-demands-citing-safety-concerns?utm_source=rss)
+ - [Apple removes ICEBlock, an app for anonymously reporting ICE officer sightings, from the App Store; AG Pam Bondi says the DOJ requested its removal &lpar;Ashley Oliver/Fox Business&rpar;](http://www.techmeme.com/251002/p40#a251002p40)
+ - [A Google exec says Alphabet has been working for the past two years to technologically decouple its life sciences unit Verily so that it can be sold or spun off &lpar;Bloomberg&rpar;](http://www.techmeme.com/251002/p39#a251002p39)
  - [Apple&#39;s fourth quarter 2025 earnings call to take place on October 30](https://appleinsider.com/articles/25/10/02/apples-fourth-quarter-2025-earnings-call-to-take-place-on-october-30?utm_source=rss)
- - [OpenAI asks a US judge to dismiss a lawsuit alleging it hired away xAI employees to steal trade secrets, calling the case part of Musk&#39;s &quot;ongoing harassment&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251002/p38#a251002p38)
- - [NBCUniversal’s new YouTube TV deal covers YouTube, Peacock, and a new sports network](https://www.theverge.com/news/791124/youtube-tv-nbc-universal-peacock-nbcsn)
- - [New York-based DualEntry, which offers AI-powered ERP software, raised a $90M Series A led by Lightspeed and Khosla Ventures, valuing the company at $415M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251002/p37#a251002p37)
- - [Instagram Is Not Using Your Phone&#39;s Microphone to Listen to You, Adam Mosseri Says](https://www.cnet.com/tech/services-and-software/instagram-is-not-using-your-phones-microphone-to-listen-to-you-adam-mosseri-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI asks a US judge to dismiss a lawsuit alleging it hired away xAI employees to steal trade secrets, calling the case part of Musk&#39;s &quot;ongoing harassment&quot; &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251002/p38#a251002p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

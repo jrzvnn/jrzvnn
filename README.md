@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [a16z releases a report, with Mercury data, on the top 50 AI companies startups pay for; OpenAI leads, followed by Anthropic, Replit, Freepik, and ElevenLabs &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251003/p1#a251003p1)
  - [At a Conspiracy Conference in Rural Ireland, Charlie Kirk Was the Star](https://www.wired.com/story/conspiracy-conference-rural-ireland-charlie-kirk-quantum-clones/)
+ - [Best Smart TV of 2025](https://www.cnet.com/tech/home-entertainment/best-smart-tv/#ftag=CAD590a51e)
  - [$25 Off DoorDash Promo Code | October 2025](https://www.wired.com/story/doordash-promo-code/)
- - [10% Off Dell Coupon Codes | October 2025](https://www.wired.com/story/dell-coupon-code/)
- - [The Best Water Filter Pitcher for 2025](https://www.cnet.com/news/best-water-filter-pitcher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10% Off Dell Coupon Codes | October 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

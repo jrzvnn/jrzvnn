@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
+ - 😝 [That&#39;s some sirius black tattoo](http://9gag.com/gag/aYQnQbx)
+ - 😝 [Waiting for year 2069](http://9gag.com/gag/a4PrnwZ)
+ - 💣 [So scary!](http://9gag.com/gag/amoboW4)
+ - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 

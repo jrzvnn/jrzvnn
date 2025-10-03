@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 💣 [Tokyo Apartment in Japan](http://9gag.com/gag/azxD25m)
- - 😝 [Why are you geh](http://9gag.com/gag/avyXAzX)
- - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
+ - 😝 [So scary!](http://9gag.com/gag/amoboW4)
+ - 😝 [Come full circle](http://9gag.com/gag/aE0N8MM)
+ - 💣 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
+ - 😝 [Stop that, it&#39;s silly!](http://9gag.com/gag/a2vjvX9)
+ - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---
 

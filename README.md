@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cows reaction to a breeding bull arriving. He will mate with all of them](http://9gag.com/gag/aQzNzA7)
  - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
- - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
+ - 💣 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
 
 ---
 

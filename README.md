@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
+ - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
  - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 👉 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)<!-- MEMES:END -->
+ - 💣 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 👉 [Introducing Potatoz, 9GAG\u2019s official mascot \ud83e\udd54.](http://9gag.com/gag/aMVNVE6)<!-- MEMES:END -->
 
 ---
 

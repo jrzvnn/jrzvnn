@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Unity discloses a years-old security exploit and urges developers to update their games](https://www.theverge.com/news/791609/unity-security-exploit-developers-update-games)
  - [Google removes ICE-spotting app following Apple’s ICEBlock crackdown](https://www.theverge.com/news/791533/google-apple-ice-tracking-app-store-red-dot-iceblock)
  - [OpenText plans to sell its eDOCS legal document management system to NetDocuments for $163M and use the proceeds to reduce its outstanding debt &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251003/p20#a251003p20)
  - [Amazon’s Fire TV Stick 4K is getting a new name soon](https://www.theverge.com/news/791504/amazons-fire-tv-stick-4k-is-getting-a-new-name-soon)
- - [Hot Blue Stars and Pink Clouds: Check Out the Coolest Space Photos of 2025](https://www.cnet.com/science/space/coolest-space-photos-of-2025-will-fill-you-with-cosmic-wonder/#ftag=CAD590a51e)
- - [All Gemini Users Can Now Use the Viral Nano Banana AI Image Generator. Here&#39;s How](https://www.cnet.com/tech/services-and-software/all-gemini-users-can-now-use-the-viral-nano-banana-ai-image-generator-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hot Blue Stars and Pink Clouds: Check Out the Coolest Space Photos of 2025](https://www.cnet.com/science/space/coolest-space-photos-of-2025-will-fill-you-with-cosmic-wonder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

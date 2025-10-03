@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
  - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 💣 [Cows reaction to a breeding bull arriving. He will mate with all of them](http://9gag.com/gag/aQzNzA7)
- - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
+ - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 💣 [So scary!](http://9gag.com/gag/amoboW4)
+ - 😝 [The fact that PREDATOR rolls credits like it\u2019s a feel good sit-com will never not be funny.](http://9gag.com/gag/an7WReo)
+ - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
 
 ---
 

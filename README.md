@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tried Amazon and Google’s new smart home gadgets, ask me anything!](https://www.theverge.com/tech/790817/amazon-alexa-show-google-gemini-nest-hands-on-ama)
+ - [Best MacBooks &lpar;2025&rpar;: Which Apple Laptop Should You Buy?](https://www.wired.com/story/which-macbook-should-you-buy/)
  - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
  - [Apple Watch Ultra 3, Alexa, Bad Bunny and Snoopy, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/03/apple-watch-ultra-3-alexa-bad-bunny-and-snoopy-on-the-appleinsider-podcast?utm_source=rss)
- - [Doc: Amazon&#39;s Q Business AI assistant struggled with accuracy and data processing in its first year, drawing complaints; Amazon says the document is outdated &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/251003/p7#a251003p7)
- - [8 Best Alexa Speakers and Amazon Echo Devices We’ve Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [Prepare yourself to envy every inch of Apple Music&#39;s new studios](https://appleinsider.com/articles/25/10/03/prepare-yourself-to-envy-every-inch-of-apple-musics-new-studios?utm_source=rss)<!-- TECH:END -->
+ - [Doc: Amazon&#39;s Q Business AI assistant struggled with accuracy and data processing in its first year, drawing complaints; Amazon says the document is outdated &lpar;Eugene Kim/Business Insider&rpar;](http://www.techmeme.com/251003/p7#a251003p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

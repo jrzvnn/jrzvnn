@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lapsus$ publishes a data leak site on the dark web threatening to release about ~1B records stolen from Salesforce-hosted customer databases &lpar;TechCrunch&rpar;](http://www.techmeme.com/251003/p12#a251003p12)
- - [CISA, the key law that helps the federal government guard against cyber threats to US critical systems, expired when the government shut down &lpar;Politico&rpar;](http://www.techmeme.com/251003/p11#a251003p11)
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [Feedzai, which uses AI to detect and prevent financial crimes, raised ~$75M at a $2B valuation &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251003/p10#a251003p10)
- - [With a Friend like this, who needs enemies?](https://www.theverge.com/column/791010/optimizer-friend-ai-companion-wearables)<!-- TECH:END -->
+ - [Microsoft is about to launch free Xbox Cloud Gaming with ads](https://www.theverge.com/report/791213/xbox-cloud-gaming-free-ad-supported-version)
+ - [A bundle with Amazon’s biggest smart display and a stand just got its biggest discount](https://www.theverge.com/tech/791283/amazon-echo-show-21-jbl-tour-3-earbuds-deal-sale)
+ - [The quest for every Gap store playlist ever](https://www.theverge.com/report/790802/gap-playlists-michael-bise-music-streaming-nostalgia)
+ - [Your Delivery Robot Is Here](https://www.wired.com/story/uncanny-valley-podcast-your-delivery-robot-is-here/)
+ - [Tesla Cybertruck’s faulty door handles caused woman’s death, lawsuit alleges](https://www.theverge.com/news/791327/tesla-cybertruck-faulty-door-handles-wrongful-death-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

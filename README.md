@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
  - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 💣 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 💣 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
  - 👉 [Introducing Potatoz, 9GAG\u2019s official mascot \ud83e\udd54.](http://9gag.com/gag/aMVNVE6)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dinosaurs do not exi\u2026.](http://9gag.com/gag/aYQnVbN)
- - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 💣 [What artist do you think is overrated? I&#39;ll go first:](http://9gag.com/gag/a9yNzAo)
  - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 👉 [Remember them](http://9gag.com/gag/apRj10n)<!-- MEMES:END -->
+ - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 💣 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 😝 [Remember them](http://9gag.com/gag/apRj10n)
+ - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---
 

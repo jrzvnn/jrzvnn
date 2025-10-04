@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
+ - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
  - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 👉 [Every damn time](http://9gag.com/gag/aGyNE47)<!-- MEMES:END -->
+ - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 

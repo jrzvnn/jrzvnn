@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [14 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
  - [The 53 Best Shows on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
  - [Why US Power Bills Are Surging](https://www.wired.com/story/power-bills-in-the-us-are-soaring-and-will-rise-further-still/)
  - [The 53 Best Movies on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery &lpar;2025&rpar;](https://www.wired.com/gallery/best-pod-coffee-makers/)
- - [Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure](https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/)<!-- TECH:END -->
+ - [8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery &lpar;2025&rpar;](https://www.wired.com/gallery/best-pod-coffee-makers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

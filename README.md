@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How researchers at Microsoft, IBM, and other organizations are using AI to speed up the search for new materials and chemicals for batteries &lpar;Andrew Moseman/IEEE Spectrum&rpar;](http://www.techmeme.com/251004/p11#a251004p11)
  - [Ecovacs’ Deebot X8 and X9 Pro Omni robovacs have hit a new low price](https://www.theverge.com/tech/791106/ecovacs-deebot-x8-x9-pro-omni-robot-vacuum-prime-day-deal-sale)
  - [Q&amp;A with iRobot founder Rodney Brooks on his startup Robust.AI, which builds warehouse robots, unrealistic expectations around humanoid robots and AI, and more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/251004/p10#a251004p10)
- - [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content)
- - [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden)<!-- TECH:END -->
+ - [Beats Powerbeats Fit Earbuds Review: Winged Migration](https://www.cnet.com/tech/mobile/beats-powerbeats-fit-earbuds-review-winged-migration/#ftag=CAD590a51e)
+ - [&#39;Tulsa King&#39; Season 3: When Episode 3 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/tulsa-king-season-3-when-episode-3-hits-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

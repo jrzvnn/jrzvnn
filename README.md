@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
  - [How to master the Camera app on iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/inside/iphone-17/tips/how-to-master-the-camera-app-on-iphone-17-pro-iphone-17-pro-max?utm_source=rss)
  - [Dual Knit Band could make Apple Vision Pro more bearable to wear](https://appleinsider.com/articles/25/10/04/dual-knit-band-could-make-apple-vision-pro-more-bearable-to-wear?utm_source=rss)
  - [7 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
- - [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)
- - [Breaking up &lpar;Google&rpar; is hard to do](https://www.theverge.com/policy/792055/google-doj-ad-tech-remedies-trial-defense)<!-- TECH:END -->
+ - [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

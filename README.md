@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
  - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 💣 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
- - 😝 [This is a universal game, not just a regional one](http://9gag.com/gag/aND2970)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 👉 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)<!-- MEMES:END -->
 
 ---
 

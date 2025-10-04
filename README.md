@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
  - [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)
  - [Breaking up &lpar;Google&rpar; is hard to do](https://www.theverge.com/policy/792055/google-doj-ad-tech-remedies-trial-defense)
  - [An investigation finds rampant caste bias in ChatGPT and Sora; a researcher also finds caste bias in Sarvam AI, which touts itself as a sovereign AI for India &lpar;Nilesh Christopher/MIT Technology Review&rpar;](http://www.techmeme.com/251004/p9#a251004p9)
- - [Dual Knit Band could make Apple Vision Pro more bearable to wear](https://appleinsider.com/articles/25/10/04/dual-knit-band-could-make-apple-vision-pro-more-bearable-to-wear?utm_source=rss)
- - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [Dual Knit Band could make Apple Vision Pro more bearable to wear](https://appleinsider.com/articles/25/10/04/dual-knit-band-could-make-apple-vision-pro-more-bearable-to-wear?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

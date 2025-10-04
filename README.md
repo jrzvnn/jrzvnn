@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [French Politician from the European Parliment was caught throwing her `green` phone into the sea before being arrested by Israeli forces.](http://9gag.com/gag/a5QyVMO)
+ - 😝 [So scary!](http://9gag.com/gag/amoboW4)
+ - 💣 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
  - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---

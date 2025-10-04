@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets](https://www.wired.com/story/gear-news-of-the-week-adobe-premiere-lands-on-iphone-and-nothing-lets-you-design-your-own-widgets/)
+ - [The Vision Pro Was An Expensive Misstep. Now Apple Has to Catch Up With Smart Glasses](https://www.wired.com/story/the-vision-pro-was-an-expensive-misstep-now-apple-has-to-catch-up-with-smart-glasses/)
  - [Deputy HHS Secretary Jim O&#39;Neill says the Trump administration doesn&#39;t support CHAI, an effort by OpenAI, Mayo Clinic, and others to vet AI tools for healthcare &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/251004/p8#a251004p8)
  - [Should You Start &#39;Fibermaxxing&#39;? Registered Dietitians Explain the Viral TikTok Wellness Trend](https://www.cnet.com/health/nutrition/should-you-start-fibermaxxing-registered-dietitians-explain-viral-tiktok-wellness-trend/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Leeds vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-leeds-vs-tottenham-from-anywhere/#ftag=CAD590a51e)
- - [Best Home Security Cameras of 2025: My Picks for Your Protection](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
- - [Inside the aftermath of FTX&#39;s collapse, law firm Sullivan &amp; Cromwell&#39;s role, and an interview with SBF, who is preparing to appeal his conviction in November &lpar;Mother Jones&rpar;](http://www.techmeme.com/251004/p7#a251004p7)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Leeds vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-leeds-vs-tottenham-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

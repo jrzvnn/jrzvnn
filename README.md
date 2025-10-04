@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US semiconductor equipment companies Axcelis and Veeco agree to merge in an all-stock deal, creating a combined company with an enterprise value of $4.4B &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/251004/p1#a251004p1)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-oct-4/#ftag=CAD590a51e)
  - [Sam Altman says OpenAI is planning two Sora changes for rightsholders: granular controls over generation of their characters and a revenue sharing system &lpar;Sam Altman&rpar;](http://www.techmeme.com/251003/p30#a251003p30)
  - [OpenAI VP of Media Partnerships Varun Shetty says OpenAI didn&#39;t put too many guardrails in Sora because it doesn&#39;t &quot;want it to be at a competitive disadvantage&quot; &lpar;Newcomer&rpar;](http://www.techmeme.com/251003/p29#a251003p29)
- - [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro)
- - [Thin Phone Battle: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phone-battle-iphone-air-vs-galaxy-s25-edge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

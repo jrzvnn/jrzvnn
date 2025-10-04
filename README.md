@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
- - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
- - 💣 [Doh](http://9gag.com/gag/a34pA53)
- - 😝 [It always could get worse](http://9gag.com/gag/a6Z39n8)
- - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
+ - 😝 [BREAKING: China has banned all LGBT content.](http://9gag.com/gag/aKGNARN)
+ - 😝 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)
+ - 💣 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
+ - 😝 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
+ - 👉 [Return to monke](http://9gag.com/gag/aVv1ogw)<!-- MEMES:END -->
 
 ---
 

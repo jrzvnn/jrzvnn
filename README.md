@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He puts stickers on apples for a living now](http://9gag.com/gag/aZZVwmV)
  - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
- - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
  - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
+ - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [In honor of both spooky season... And getting high](http://9gag.com/gag/apRjDD5)
  - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Return to monke](http://9gag.com/gag/aVv1ogw)
+ - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
  - 😝 [Doh](http://9gag.com/gag/a34pA53)
  - 💣 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
+ - 😝 [Sus zapatitos volando](http://9gag.com/gag/aVv1E9P)
  - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---

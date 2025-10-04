@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 💣 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 😝 [Dogpool](http://9gag.com/gag/amob1A2)
+ - 😝 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 💣 [Best Youtube comment ever](http://9gag.com/gag/apRj14M)
+ - 😝 [The last seconds before ..](http://9gag.com/gag/awyGmA1)
+ - 👉 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)<!-- MEMES:END -->
 
 ---
 

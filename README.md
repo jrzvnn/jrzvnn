@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 💣 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
- - 😝 [Sus zapatitos volando](http://9gag.com/gag/aVv1E9P)
- - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
+ - 😝 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)
+ - 😝 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
+ - 💣 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
+ - 😝 [The hero we need](http://9gag.com/gag/aKGN9Vg)
+ - 👉 [Are you surprised?](http://9gag.com/gag/aND29r6)<!-- MEMES:END -->
 
 ---
 

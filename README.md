@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Huawei&#39;s Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251004/p18#a251004p18)
  - [A look at challenges facing Tether and Circle&#39;s stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins &lpar;Nic Carter/Murmurations II&rpar;](http://www.techmeme.com/251004/p17#a251004p17)
  - [Beats Powerbeats Fit review: Compact earbuds ideal for workouts](https://appleinsider.com/articles/25/10/04/beats-powerbeats-fit-review-compact-earbuds-ideal-for-workouts?utm_source=rss)
  - [This Gruesome Cave Nightmare Is One of My Favorite Horror Movies of the Century](https://www.cnet.com/culture/entertainment/this-gruesome-cave-nightmare-is-one-of-my-favorite-horror-movies-of-the-century/#ftag=CAD590a51e)
- - [OpenAI updates GPT-5 Instant to better recognize and support people in distress; ChatGPT will route such sensitive parts of conversations to the model &lpar;@openai&rpar;](http://www.techmeme.com/251004/p16#a251004p16)
- - [Standalone Hulu is dead, long live &#39;Hulu on Disney+&#39;](https://appleinsider.com/articles/25/10/04/standalone-hulu-is-dead-long-live-hulu-on-disney?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI updates GPT-5 Instant to better recognize and support people in distress; ChatGPT will route such sensitive parts of conversations to the model &lpar;@openai&rpar;](http://www.techmeme.com/251004/p16#a251004p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

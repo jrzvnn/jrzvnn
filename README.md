@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Dual Knit Band could make Apple Vision Pro more bearable to wear](https://appleinsider.com/articles/25/10/04/dual-knit-band-could-make-apple-vision-pro-more-bearable-to-wear?utm_source=rss)
+ - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [Acer&amp;#8217;s latest Spin 514 is so close to Chromebook greatness](https://www.theverge.com/tech/791532/acer-chromebook-plus-spin-514-2in1-laptop-review)
  - [14 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [The 53 Best Shows on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Why US Power Bills Are Surging](https://www.wired.com/story/power-bills-in-the-us-are-soaring-and-will-rise-further-still/)
- - [The 53 Best Movies on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery &lpar;2025&rpar;](https://www.wired.com/gallery/best-pod-coffee-makers/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Arsenal vs. West Ham Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-arsenal-vs-west-ham-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

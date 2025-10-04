@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bruhh](http://9gag.com/gag/a1mq7bw)
+ - 😝 [Core memory created...](http://9gag.com/gag/ae9P1MQ)
+ - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 💣 [The panicle of humanity](http://9gag.com/gag/aQzNg0W)
  - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 💣 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
+ - 👉 [Everything will be ok](http://9gag.com/gag/aoyqWMX)<!-- MEMES:END -->
 
 ---
 

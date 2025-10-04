@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025-2/)
+ - [How rising unemployment in computer-related fields in the US, where foreign nationals make up ~20% of 2.3M software devs, pushed the H-1B issue to the forefront &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251004/p14#a251004p14)
+ - [This week&amp;#8217;s best deal is a &amp;#8216;kids&amp;#8217; Kindle Paperwhite that&amp;#8217;s better than the adult version](https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale)
  - [PitchBook: VCs have invested $192.7B in AI startups so far this year, putting 2025 on track to be the first year when 50%+ of VC funding goes to the AI industry &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251004/p13#a251004p13)
- - [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify)
- - [Standalone Hulu is dead, long live &#39;Hulu on Disney+&#39;](https://appleinsider.com/articles/25/10/04/standalone-hulu-is-dead-long-live-hulu-on-disney?utm_source=rss)
- - [A look at the tussle between the US and China over subsea cables; US Big Tech now accounts for 70%+ of all used subsea-cable capacity, from &lt;10% a decade ago &lpar;Bloomberg&rpar;](http://www.techmeme.com/251004/p12#a251004p12)
- - [How researchers at Microsoft, IBM, and other organizations are using AI to speed up the search for new materials and chemicals for batteries &lpar;Andrew Moseman/IEEE Spectrum&rpar;](http://www.techmeme.com/251004/p11#a251004p11)<!-- TECH:END -->
+ - [Daniel Ek stepping down changes nothing for Spotify](https://www.theverge.com/report/791593/daniel-ek-stepping-down-changes-nothing-for-artists-boycotting-spotify)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

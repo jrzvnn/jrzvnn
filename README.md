@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)
- - 😝 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
- - 💣 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
- - 😝 [The hero we need](http://9gag.com/gag/aKGN9Vg)
- - 👉 [Are you surprised?](http://9gag.com/gag/aND29r6)<!-- MEMES:END -->
+ - 😝 [Loled](http://9gag.com/gag/adB41O9)
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 💣 [Master splinter](http://9gag.com/gag/aMVNmOR)
+ - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
+ - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---
 

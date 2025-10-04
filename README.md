@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
  - 😝 [Everything will be ok](http://9gag.com/gag/aoyqWMX)
- - 😝 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)
- - 💣 [Dammit Jeff!](http://9gag.com/gag/a7o6Orw)
- - 😝 [BREAKING: China has banned all LGBT content.](http://9gag.com/gag/aKGNARN)
- - 👉 [Model building appreciation post](http://9gag.com/gag/a6Z3DYA)<!-- MEMES:END -->
+ - 💣 [Model building appreciation post](http://9gag.com/gag/a6Z3DYA)
+ - 😝 [Dammit Jeff!](http://9gag.com/gag/a7o6Orw)
+ - 👉 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
+ - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
  - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 💣 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 😝 [French Politician from the European Parliment was caught throwing her `green` phone into the sea before being arrested by Israeli forces.](http://9gag.com/gag/a5QyVMO)
+ - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---
 

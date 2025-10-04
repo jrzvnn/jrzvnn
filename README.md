@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [BREAKING: China has banned all LGBT content.](http://9gag.com/gag/aKGNARN)
- - 😝 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)
- - 💣 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
- - 😝 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
- - 👉 [Return to monke](http://9gag.com/gag/aVv1ogw)<!-- MEMES:END -->
+ - 😝 [He puts stickers on apples for a living now](http://9gag.com/gag/aZZVwmV)
+ - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
+ - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
+ - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---
 

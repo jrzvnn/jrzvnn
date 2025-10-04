@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
  - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
+ - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 💣 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
 
 ---
 

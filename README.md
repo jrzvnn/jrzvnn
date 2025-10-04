@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 53 Best Shows on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Why US Power Bills Are Surging](https://www.wired.com/story/power-bills-in-the-us-are-soaring-and-will-rise-further-still/)
+ - [The 53 Best Movies on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [8 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery &lpar;2025&rpar;](https://www.wired.com/gallery/best-pod-coffee-makers/)
- - [Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure](https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/)
- - [Gear News of the Week: Adobe Premiere Lands on iPhone, and Nothing Lets You Design Your Own Widgets](https://www.wired.com/story/gear-news-of-the-week-adobe-premiere-lands-on-iphone-and-nothing-lets-you-design-your-own-widgets/)
- - [The Vision Pro Was An Expensive Misstep. Now Apple Has to Catch Up With Smart Glasses](https://www.wired.com/story/the-vision-pro-was-an-expensive-misstep-now-apple-has-to-catch-up-with-smart-glasses/)
- - [Deputy HHS Secretary Jim O&#39;Neill says the Trump administration doesn&#39;t support CHAI, an effort by OpenAI, Mayo Clinic, and others to vet AI tools for healthcare &lpar;Ruth Reader/Politico&rpar;](http://www.techmeme.com/251004/p8#a251004p8)<!-- TECH:END -->
+ - [Apple and Google Pull ICE-Tracking Apps, Bowing to DOJ Pressure](https://www.wired.com/story/apple-and-google-pull-ice-tracking-apps-bowing-to-doj-pressure/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

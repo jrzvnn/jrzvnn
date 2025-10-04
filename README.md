@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
  - 💣 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
  - 😝 [The hero we need](http://9gag.com/gag/aKGN9Vg)
- - 👉 [Return to monke](http://9gag.com/gag/aVv1ogw)<!-- MEMES:END -->
+ - 👉 [Are you surprised?](http://9gag.com/gag/aND29r6)<!-- MEMES:END -->
 
 ---
 

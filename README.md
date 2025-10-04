@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
- - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
+ - 😝 [Everything will be ok](http://9gag.com/gag/aoyqWMX)
+ - 😝 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)
+ - 💣 [Dammit Jeff!](http://9gag.com/gag/a7o6Orw)
+ - 😝 [BREAKING: China has banned all LGBT content.](http://9gag.com/gag/aKGNARN)
+ - 👉 [Model building appreciation post](http://9gag.com/gag/a6Z3DYA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So scary!](http://9gag.com/gag/amoboW4)
  - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
- - 😝 [They really dont make them like this anymore. So much talent in these films](http://9gag.com/gag/an7WRGB)
- - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
+ - 💣 [The panicle of humanity](http://9gag.com/gag/aQzNg0W)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 👉 [Everything will be ok](http://9gag.com/gag/aoyqWMX)<!-- MEMES:END -->
 
 ---
 

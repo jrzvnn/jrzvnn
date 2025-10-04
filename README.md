@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Varun Shetty, OpenAI&#39;s media partnerships head, says OpenAI didn&#39;t put too many guardrails in Sora because it didn&#39;t want to &quot;be at a competitive disadvantage&quot; &lpar;Newcomer&rpar;](http://www.techmeme.com/251003/p29#a251003p29)
+ - [Sam Altman says OpenAI is planning two Sora changes for rightsholders: granular controls over generation of their characters and a revenue sharing system &lpar;Sam Altman&rpar;](http://www.techmeme.com/251003/p30#a251003p30)
+ - [OpenAI VP of Media Partnerships Varun Shetty says OpenAI didn&#39;t put too many guardrails in Sora because it doesn&#39;t &quot;want it to be at a competitive disadvantage&quot; &lpar;Newcomer&rpar;](http://www.techmeme.com/251003/p29#a251003p29)
  - [Oregon’s National Guard lawsuit hinges on Trump’s Truth Social posts](https://www.theverge.com/policy/792042/trump-oregon-national-guard-tro)
- - [Discord customer service data breach leaks user info and scanned photo IDs](https://www.theverge.com/news/792032/discord-customer-service-data-breach-hack)
- - [Sources: Microsoft putting some of its top titles on Xbox Game Pass is cutting into its higher-margin game sales, giving up $300M+ in Call of Duty sales in 2024 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251003/p28#a251003p28)
- - [OpenAI acquires AI-powered personal finance app Roi; source: CEO and co-founder Sujith Vishwajith is the only member of Roi&#39;s four-person team joining OpenAI &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251003/p27#a251003p27)<!-- TECH:END -->
+ - [Thin Phone Battle: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phone-battle-iphone-air-vs-galaxy-s25-edge/#ftag=CAD590a51e)
+ - [Dare to Watch These 12 Great Horror Movies on Prime Video](https://www.cnet.com/tech/services-and-software/dare-to-watch-these-12-great-horror-movies-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

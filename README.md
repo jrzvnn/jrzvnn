@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
- - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 💣 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
- - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
+ - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
+ - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
 
 ---
 

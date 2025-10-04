@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 💣 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
+ - 😝 [Sprich deutsch, du Huso-Angelsachse!](http://9gag.com/gag/aO8N86y)
+ - 💣 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 😝 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)
  - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---

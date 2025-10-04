@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 💣 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
  - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
+ - 💣 [Every damn time](http://9gag.com/gag/aGyNE47)
+ - 😝 [They really dont make them like this anymore. So much talent in these films](http://9gag.com/gag/an7WRGB)
  - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---

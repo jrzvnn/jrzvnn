@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 😝 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
  - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 💣 [I will pay for being part of this](http://9gag.com/gag/aMVNVQV)
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 👉 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)<!-- MEMES:END -->
+ - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
+ - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
+ - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---
 

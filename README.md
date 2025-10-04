@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with iRobot founder Rodney Brooks on his startup Robust.AI, which builds warehouse robots, unrealistic expectations around humanoid robots and AI, and more &lpar;Om Malik/Crazy Stupid Tech&rpar;](http://www.techmeme.com/251004/p10#a251004p10)
+ - [Instagram wants me to make content — I just want to post a photo](https://www.theverge.com/tech/791595/instagram-uploading-features-content)
+ - [Tilly Norwood is a gen AI psyop](https://www.theverge.com/ai-artificial-intelligence/791680/tilly-norwood-particle6-xicoia-eline-van-der-velden)
  - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/02/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
- - [How to master the Camera app on iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/inside/iphone-17/tips/how-to-master-the-camera-app-on-iphone-17-pro-iphone-17-pro-max?utm_source=rss)
- - [Dual Knit Band could make Apple Vision Pro more bearable to wear](https://appleinsider.com/articles/25/10/04/dual-knit-band-could-make-apple-vision-pro-more-bearable-to-wear?utm_source=rss)
- - [7 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
- - [Consume Me is a raw and funny memoir in video game form](https://www.theverge.com/games/791220/consume-me-review-steam)<!-- TECH:END -->
+ - [How to master the Camera app on iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/inside/iphone-17/tips/how-to-master-the-camera-app-on-iphone-17-pro-iphone-17-pro-max?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

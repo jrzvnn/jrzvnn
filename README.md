@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dogpool](http://9gag.com/gag/amob1A2)
- - 😝 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
- - 💣 [Best Youtube comment ever](http://9gag.com/gag/apRj14M)
- - 😝 [The last seconds before ..](http://9gag.com/gag/awyGmA1)
- - 👉 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)<!-- MEMES:END -->
+ - 😝 [Sprich deutsch, du Huso-Angelsachse!](http://9gag.com/gag/aO8N86y)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 💣 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
 
 ---
 

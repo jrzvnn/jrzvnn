@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at challenges facing Tether and Circle&#39;s stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins &lpar;Nic Carter/Murmurations II&rpar;](http://www.techmeme.com/251004/p17#a251004p17)
  - [Beats Powerbeats Fit review: Compact earbuds ideal for workouts](https://appleinsider.com/articles/25/10/04/beats-powerbeats-fit-review-compact-earbuds-ideal-for-workouts?utm_source=rss)
  - [OpenAI updates GPT-5 Instant to better recognize and support people in distress; ChatGPT will route such sensitive parts of conversations to the model &lpar;@openai&rpar;](http://www.techmeme.com/251004/p16#a251004p16)
  - [Standalone Hulu is dead, long live &#39;Hulu on Disney+&#39;](https://appleinsider.com/articles/25/10/04/standalone-hulu-is-dead-long-live-hulu-on-disney?utm_source=rss)
- - [US shutdown gives Apple a breather in its DoJ antitrust suit](https://appleinsider.com/articles/25/10/04/us-shutdown-gives-apple-a-breather-in-its-doj-antitrust-suit?utm_source=rss)
- - [Spy x Family Season 3 Release Date: When and Where to Watch the New Season](https://www.cnet.com/tech/services-and-software/spy-x-family-season-3-release-date-when-and-where-to-watch-the-new-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US shutdown gives Apple a breather in its DoJ antitrust suit](https://appleinsider.com/articles/25/10/04/us-shutdown-gives-apple-a-breather-in-its-doj-antitrust-suit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

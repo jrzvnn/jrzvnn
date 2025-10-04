@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
- - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
  - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
+ - 💣 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
+ - 😝 [The last seconds before ..](http://9gag.com/gag/awyGmA1)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 

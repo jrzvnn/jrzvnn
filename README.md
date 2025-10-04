@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US shutdown gives Apple a breather in its DoJ antitrust suit](https://appleinsider.com/articles/25/10/04/us-shutdown-gives-apple-a-breather-in-its-doj-antitrust-suit?utm_source=rss)
  - [40 Best Early Amazon Prime Day Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-prime-day-deals-october-2025-2/)
  - [How rising unemployment in computer-related fields in the US, where foreign nationals make up ~20% of 2.3M software devs, pushed the H-1B issue to the forefront &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251004/p14#a251004p14)
  - [This week&amp;#8217;s best deal is a &amp;#8216;kids&amp;#8217; Kindle Paperwhite that&amp;#8217;s better than the adult version](https://www.theverge.com/tech/791728/kindle-paperwhite-kids-sonos-era-100-deal-sale)
- - [PitchBook: VCs have invested $192.7B in AI startups so far this year, putting 2025 on track to be the first year when 50%+ of VC funding goes to the AI industry &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251004/p13#a251004p13)
- - [La Liga Soccer: Stream Real Madrid vs. Villarreal Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-real-madrid-vs-villarreal-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PitchBook: VCs have invested $192.7B in AI startups so far this year, putting 2025 on track to be the first year when 50%+ of VC funding goes to the AI industry &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251004/p13#a251004p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

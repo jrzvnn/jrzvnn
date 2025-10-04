@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 💣 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
  - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 💣 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 👉 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)<!-- MEMES:END -->
+ - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
 
 ---
 

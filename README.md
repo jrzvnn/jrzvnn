@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So scary!](http://9gag.com/gag/amoboW4)
- - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 💣 [The panicle of humanity](http://9gag.com/gag/aQzNg0W)
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 👉 [Everything will be ok](http://9gag.com/gag/aoyqWMX)<!-- MEMES:END -->
+ - 😝 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)
+ - 😝 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)
+ - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [Every damn time](http://9gag.com/gag/aGyNE47)
+ - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
 
 ---
 

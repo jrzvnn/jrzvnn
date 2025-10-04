@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [But how could she tell to pull you over?](http://9gag.com/gag/a5QyV7N)
  - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
  - 💣 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
- - 😝 [Technically, She&#39;s a Disney Princess.](http://9gag.com/gag/a1mqmew)
- - 👉 [Or vertically divided?](http://9gag.com/gag/a7o6oNx)<!-- MEMES:END -->
+ - 😝 [This is a universal game, not just a regional one](http://9gag.com/gag/aND2970)
+ - 👉 [Asian manners](http://9gag.com/gag/adB4v89)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore dollar-pegged XSGD stablecoin debuts on Coinbase, giving the city-state a head start over Hong Kong in launching a local currency-linked stablecoin &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/251004/p5#a251004p5)
+ - [KKR invests in Infobric, a Stirling Square-backed Swedish company that offers software to the construction industry, sources say at a ~€600M valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/251004/p4#a251004p4)
  - [Applied Materials expects new US export rules from BIS restricting certain product shipments to China to hurt its Q4 revenue by $110M and 2026 revenue by $600M &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/251004/p3#a251004p3)
  - [Indian ministers push domestic alternatives to Google and Microsoft apps amid US tensions; Sensor Tower: Zoho messaging app Arattai hit 400K+ downloads in Sept. &lpar;Arpan Chaturvedi/Reuters&rpar;](http://www.techmeme.com/251004/p2#a251004p2)
- - [US semiconductor equipment companies Axcelis and Veeco agree to merge in an all-stock deal, creating a combined company with an enterprise value of $4.4B &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/251004/p1#a251004p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Oct. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-oct-4/#ftag=CAD590a51e)
- - [Sam Altman says OpenAI is planning two Sora changes for rightsholders: granular controls over generation of their characters and a revenue sharing system &lpar;Sam Altman&rpar;](http://www.techmeme.com/251003/p30#a251003p30)<!-- TECH:END -->
+ - [US semiconductor equipment companies Axcelis and Veeco agree to merge in an all-stock deal, creating a combined company with an enterprise value of $4.4B &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/251004/p1#a251004p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

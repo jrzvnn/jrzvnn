@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
- - 😝 [Sprich deutsch, du Huso-Angelsachse!](http://9gag.com/gag/aO8N86y)
- - 💣 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)
- - 😝 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)
- - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
+ - 😝 [Germany. A cable was stolen from a railway in North Rhine-Westphalia.](http://9gag.com/gag/aGyNLpG)
+ - 💣 [Doh](http://9gag.com/gag/a34pA53)
+ - 😝 [It always could get worse](http://9gag.com/gag/a6Z39n8)
+ - 👉 [What does she mean it&#39;s scripted..](http://9gag.com/gag/aqypRmR)<!-- MEMES:END -->
 
 ---
 

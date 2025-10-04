@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Huawei&#39;s Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251004/p18#a251004p18)
- - [A look at challenges facing Tether and Circle&#39;s stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins &lpar;Nic Carter/Murmurations II&rpar;](http://www.techmeme.com/251004/p17#a251004p17)
- - [Beats Powerbeats Fit review: Compact earbuds ideal for workouts](https://appleinsider.com/articles/25/10/04/beats-powerbeats-fit-review-compact-earbuds-ideal-for-workouts?utm_source=rss)
- - [This Gruesome Cave Nightmare Is One of My Favorite Horror Movies of the Century](https://www.cnet.com/culture/entertainment/this-gruesome-cave-nightmare-is-one-of-my-favorite-horror-movies-of-the-century/#ftag=CAD590a51e)
- - [OpenAI updates GPT-5 Instant to better recognize and support people in distress; ChatGPT will route such sensitive parts of conversations to the model &lpar;@openai&rpar;](http://www.techmeme.com/251004/p16#a251004p16)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 5, #847](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-5-847/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 5 #581](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-5-581/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 5, #1569](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-5-1569/#ftag=CAD590a51e)
+ - [A look at challenges facing Tether and Circle&#39;s stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins &lpar;Nic Carter/Murmurations II&rpar;](http://www.techmeme.com/251004/p17#a251004p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

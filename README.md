@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A look at challenges facing Tether and Circle&#39;s stablecoin duopoly, such as intermediaries like exchanges and DeFi protocols exploring their own stablecoins &lpar;Nic Carter/Murmurations II&rpar;](http://www.techmeme.com/251004/p17#a251004p17)
  - [Beats Powerbeats Fit review: Compact earbuds ideal for workouts](https://appleinsider.com/articles/25/10/04/beats-powerbeats-fit-review-compact-earbuds-ideal-for-workouts?utm_source=rss)
+ - [This Gruesome Cave Nightmare Is One of My Favorite Horror Movies of the Century](https://www.cnet.com/culture/entertainment/this-gruesome-cave-nightmare-is-one-of-my-favorite-horror-movies-of-the-century/#ftag=CAD590a51e)
  - [OpenAI updates GPT-5 Instant to better recognize and support people in distress; ChatGPT will route such sensitive parts of conversations to the model &lpar;@openai&rpar;](http://www.techmeme.com/251004/p16#a251004p16)
- - [Standalone Hulu is dead, long live &#39;Hulu on Disney+&#39;](https://appleinsider.com/articles/25/10/04/standalone-hulu-is-dead-long-live-hulu-on-disney?utm_source=rss)
- - [US shutdown gives Apple a breather in its DoJ antitrust suit](https://appleinsider.com/articles/25/10/04/us-shutdown-gives-apple-a-breather-in-its-doj-antitrust-suit?utm_source=rss)<!-- TECH:END -->
+ - [Standalone Hulu is dead, long live &#39;Hulu on Disney+&#39;](https://appleinsider.com/articles/25/10/04/standalone-hulu-is-dead-long-live-hulu-on-disney?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

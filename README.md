@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core memory created...](http://9gag.com/gag/ae9P1MQ)
  - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
- - 💣 [The panicle of humanity](http://9gag.com/gag/aQzNg0W)
+ - 😝 [The panicle of humanity](http://9gag.com/gag/aQzNg0W)
+ - 💣 [Core memory created...](http://9gag.com/gag/ae9P1MQ)
  - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
  - 👉 [Everything will be ok](http://9gag.com/gag/aoyqWMX)<!-- MEMES:END -->
 

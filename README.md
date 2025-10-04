@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dammit Jeff!](http://9gag.com/gag/a7o6Orw)
- - 😝 [Horse ownership is the secret to a long life, or maybe just good health insurance](http://9gag.com/gag/amob13j)
- - 💣 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
- - 😝 [Who doesn&#39;t love leg day?](http://9gag.com/gag/a1mqNDb)
- - 👉 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)<!-- MEMES:END -->
+ - 😝 [Realization, hey hey .](http://9gag.com/gag/aGyNLgZ)
+ - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 👉 [2 years, 9 mugshots, same girl, can we fix her?](http://9gag.com/gag/axynynK)<!-- MEMES:END -->
 
 ---
 

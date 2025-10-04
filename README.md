@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Home Security Cameras of 2025: My Picks for Your Protection](https://www.cnet.com/home/security/best-home-security-camera/#ftag=CAD590a51e)
  - [Inside the aftermath of FTX&#39;s collapse, law firm Sullivan &amp; Cromwell&#39;s role, and an interview with SBF, who is preparing to appeal his conviction in November &lpar;Mother Jones&rpar;](http://www.techmeme.com/251004/p7#a251004p7)
  - [Kioxia, whose stock has more than tripled since its public debut in Tokyo last December, expects NAND storage demand to grow by ~20% annually amid the AI boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/251004/p6#a251004p6)
  - [Singapore dollar-pegged XSGD stablecoin debuts on Coinbase, giving the city-state a head start over Hong Kong in launching a local currency-linked stablecoin &lpar;Dylan Loh/Nikkei Asia&rpar;](http://www.techmeme.com/251004/p5#a251004p5)
- - [KKR invests in Infobric, a Stirling Square-backed Swedish company that offers software to the construction industry, sources say at a ~€600M valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/251004/p4#a251004p4)
- - [Applied Materials expects new US export rules from BIS restricting certain product shipments to China to hurt its Q4 revenue by $110M and 2026 revenue by $600M &lpar;Nicholas G. Miller/Wall Street Journal&rpar;](http://www.techmeme.com/251004/p3#a251004p3)<!-- TECH:END -->
+ - [KKR invests in Infobric, a Stirling Square-backed Swedish company that offers software to the construction industry, sources say at a ~€600M valuation &lpar;Swetha Gopinath/Bloomberg&rpar;](http://www.techmeme.com/251004/p4#a251004p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

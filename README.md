@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My 14 year olds reassuring voice message that played over speaker to a group of 3 teachers and their spouses.](https://www.reddit.com/r/funny/comments/1nyqmss/my_14_year_olds_reassuring_voice_message_that/)
  - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 💣 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
+ - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
+ - 💣 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
  - [Apple&#39;s leadership page will look very different in the next five years](https://appleinsider.com/articles/25/10/05/apples-leadership-page-will-look-very-different-in-the-next-five-years?utm_source=rss)
  - [AR screen won&#39;t come until the second generation Apple Glasses](https://appleinsider.com/articles/25/10/05/ar-screen-wont-come-until-the-second-generation-apple-glasses?utm_source=rss)
- - [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Brentford vs. Man City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-man-city-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

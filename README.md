@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI and Jony Ive have yet to solve key technical and software issues that could delay the company&#39;s palm-sized device, slated for release in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p1#a251005p1)
  - [Anker paid users of its Eufy security cameras $2 per video of staged or real package and car thefts to train its AI systems from December 2024 to February 2025 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251004/p20#a251004p20)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 5, #377](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-5-377/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-5/#ftag=CAD590a51e)
- - [An interview with Sam Altman and OpenAI President Greg Brockman on the tepid initial reception to GPT-5&#39;s launch, scaling, reinforcement learning, AGI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251004/p19#a251004p19)
- - [Huawei&#39;s Zurich Lab unveils SINQ, an open-source quantization method that it claims can reduce LLM memory use by 60-70% without significant quality loss &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251004/p18#a251004p18)<!-- TECH:END -->
+ - [An interview with Sam Altman and OpenAI President Greg Brockman on the tepid initial reception to GPT-5&#39;s launch, scaling, reinforcement learning, AGI, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251004/p19#a251004p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

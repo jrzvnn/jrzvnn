@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Robinhood is expanding aggressively in the UK, releasing low-cost investment products and seeking to launch its prediction market products in the country &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p16#a251005p16)
+ - [Is It Worth Upgrading to the iPhone 17? Specs, Price, and Feature Comparison](https://www.cnet.com/tech/mobile/is-it-worth-upgrading-to-the-iphone-17-specs-price-and-feature-comparison/#ftag=CAD590a51e)
  - [Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California&#39;s SB 53, the first-in-the-nation AI safety law &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/251005/p15#a251005p15)
  - [Best Over-Ear Headphones We&#39;ve Tested](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
- - [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
- - [How to Get an Invite Code for OpenAI&#39;s Sora Video Generator App](https://www.cnet.com/tech/services-and-software/how-to-get-an-invite-code-for-openais-sora-video-generator-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

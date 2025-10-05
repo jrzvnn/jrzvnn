@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SiPearl unveils Athena1, Europe&#39;s first high-performance CPU with up to 80 cores designed for civilian and military use, slated for commercial launch in H2 2027 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251005/p18#a251005p18)
+ - [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words)
  - [SanDisk Professional G-Raid Project 2 review: High-quality enterprise storage](https://appleinsider.com/articles/25/10/05/sandisk-professional-g-raid-project-2-review-high-quality-enterprise-storage?utm_source=rss)
  - [United set to be first to use iOS 26&#39;s new Wallet boarding passes](https://appleinsider.com/articles/25/10/05/united-set-to-be-first-to-use-ios-26s-new-wallet-boarding-passes?utm_source=rss)
- - [Alvys, an AI-powered logistics software provider, raised a $40M Series B led by RTP Global, bringing its total funding to $77M; Alvys has 1000+ customers &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251005/p17#a251005p17)
- - [Sunday Night Football: How to Watch Patriots vs. Bills Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-patriots-vs-bills-tonight/#ftag=CAD590a51e)
- - [Robinhood is expanding aggressively in the UK, releasing low-cost investment products and seeking to launch its prediction market products in the country &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p16#a251005p16)<!-- TECH:END -->
+ - [Alvys, an AI-powered logistics software provider, raised a $40M Series B led by RTP Global, bringing its total funding to $77M; Alvys has 1000+ customers &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251005/p17#a251005p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

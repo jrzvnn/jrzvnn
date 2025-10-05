@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [That&#39;s one way to crack a smile](http://9gag.com/gag/agmZ7vw)
  - 😝 [Doh](http://9gag.com/gag/a34pA53)
  - 💣 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
+ - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

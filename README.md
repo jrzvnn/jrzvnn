@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remembering Steve Jobs, 14 years after his death](https://appleinsider.com/articles/25/10/05/remembering-steve-jobs-seven-years-after-his-death?utm_source=rss)
- - [Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025](https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/)
- - [8 Best Space Heaters &lpar;2025&rpar;: Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
- - [Crime blotter: Pastor has iPhone stolen while delivering sermon](https://appleinsider.com/articles/25/10/05/crime-blotter-pastor-has-iphone-stolen-while-delivering-sermon?utm_source=rss)<!-- TECH:END -->
+ - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
+ - [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)
+ - [The AI boom is driving memory and storage shortages that may last a decade; OpenAI&#39;s Stargate has deals for 900K DRAM wafers per month, or ~40% of global output &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251005/p9#a251005p9)
+ - [The Best Tech Gear for Work Trips &lpar;2025&rpar;](https://www.wired.com/story/best-tech-business-travelers/)
+ - [Can tap-to-pay save public transportation?](https://www.theverge.com/column/789127/tap-to-pay-public-transportation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

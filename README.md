@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California&#39;s SB 53, the first-in-the-nation AI safety law &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/251005/p15#a251005p15)
  - [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
  - [Foxconn reports Q3 revenue of ~$67.71B, up 11% YoY, driven by strong demand for AI products; the company&#39;s consumer electronics division posted a slight decline &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251005/p14#a251005p14)
  - [An interview with DoorDash CEO Tony Xu on the company&#39;s £2.9B acquisition of Deliveroo, which closed on Oct. 2, to bolster its plans to expand abroad, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p13#a251005p13)
- - [The FBI estimates that North Koreans posing as IT workers, using stolen IDs and AI-fabricated work, funneled up to $1B into the country over the past five years &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/251005/p12#a251005p12)
- - [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000)<!-- TECH:END -->
+ - [The FBI estimates that North Koreans posing as IT workers, using stolen IDs and AI-fabricated work, funneled up to $1B into the country over the past five years &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/251005/p12#a251005p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

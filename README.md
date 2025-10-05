@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025](https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/)
+ - [8 Best Space Heaters &lpar;2025&rpar;: Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
+ - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
  - [Crime blotter: Pastor has iPhone stolen while delivering sermon](https://appleinsider.com/articles/25/10/05/crime-blotter-pastor-has-iphone-stolen-while-delivering-sermon?utm_source=rss)
- - [Early Prime Big Deal Days special: AirPods 4 plunge to $89](https://appleinsider.com/articles/25/10/05/early-prime-big-deal-days-special-airpods-4-plunge-to-89?utm_source=rss)
- - [The Mystery of How Quasicrystals Form](https://www.wired.com/story/quasicrystals-spill-secrets-of-their-formation/)
- - [PitchBook: VC investment in Asia slowed to $48.9B in the first nine months of 2025, just over half of 2024&#39;s total, amid uncertainty due to US tariff policies &lpar;Pak Yiu/Nikkei Asia&rpar;](http://www.techmeme.com/251005/p8#a251005p8)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
+ - [Early Prime Big Deal Days special: AirPods 4 plunge to $89](https://appleinsider.com/articles/25/10/05/early-prime-big-deal-days-special-airpods-4-plunge-to-89?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

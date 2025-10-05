@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [United set to be first to use iOS 26&#39;s new Wallet boarding passes](https://appleinsider.com/articles/25/10/05/united-set-to-be-first-to-use-ios-26s-new-wallet-boarding-passes?utm_source=rss)
  - [Alvys, an AI-powered logistics software provider, raised a $40M Series B led by RTP Global, bringing its total funding to $77M; Alvys has 1000+ customers &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251005/p17#a251005p17)
  - [Robinhood is expanding aggressively in the UK, releasing low-cost investment products and seeking to launch its prediction market products in the country &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p16#a251005p16)
  - [Is It Worth Upgrading to the iPhone 17? Specs, Price, and Feature Comparison](https://www.cnet.com/tech/mobile/is-it-worth-upgrading-to-the-iphone-17-specs-price-and-feature-comparison/#ftag=CAD590a51e)
- - [Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California&#39;s SB 53, the first-in-the-nation AI safety law &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/251005/p15#a251005p15)
- - [Best Over-Ear Headphones We&#39;ve Tested](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California&#39;s SB 53, the first-in-the-nation AI safety law &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/251005/p15#a251005p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

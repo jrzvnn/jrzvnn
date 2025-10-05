@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood is expanding aggressively in the UK, releasing low-cost investment products and seeking to launch its prediction market products in the country &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p16#a251005p16)
  - [Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California&#39;s SB 53, the first-in-the-nation AI safety law &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/251005/p15#a251005p15)
  - [Best Over-Ear Headphones We&#39;ve Tested](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
  - [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
- - [How to Get an Invite Code for OpenAI&#39;s Sora Video Generator App](https://www.cnet.com/tech/services-and-software/how-to-get-an-invite-code-for-openais-sora-video-generator-app/#ftag=CAD590a51e)
- - [Best Air Purifiers for Pets, Large Rooms and Dust, as Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Get an Invite Code for OpenAI&#39;s Sora Video Generator App](https://www.cnet.com/tech/services-and-software/how-to-get-an-invite-code-for-openais-sora-video-generator-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

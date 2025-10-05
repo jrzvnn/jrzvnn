@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 😝 [I wonder why](http://9gag.com/gag/aAyNKdZ)
- - 💣 [Modern problems require........](http://9gag.com/gag/an7W2W5)
- - 😝 [Boo. . who?](http://9gag.com/gag/a6Z35WN)
- - 👉 [Miniature fantasy city in the forest](http://9gag.com/gag/avyX6WM)<!-- MEMES:END -->
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
+ - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

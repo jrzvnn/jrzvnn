@@ -160,7 +160,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A draft proposal outlines the European Commission&#39;s &quot;Apply AI strategy&quot;, which is set to be presented on October 7 and aims to &quot;strengthen EU AI sovereignty&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p3#a251005p3)
  - [Indonesia restores TikTok&#39;s local operating license after the company provided government-requested user activity data for August 25-30, when protests happened &lpar;Prima Wirayani/Bloomberg&rpar;](http://www.techmeme.com/251005/p2#a251005p2)
  - [Sources: OpenAI and Jony Ive have yet to solve key technical and software issues that could delay the company&#39;s palm-sized device, slated for release in 2026 &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p1#a251005p1)
- - [Anker paid users of its Eufy security cameras $2 per video of staged or real package and car thefts to train its AI systems from December 2024 to February 2025 &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251004/p20#a251004p20)
+ - [Since Dec. 2024, Anker has offered cash and other incentives to Eufy security camera users for donating footage, including of thefts, to train its AI systems &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251004/p20#a251004p20)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 5, #377](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-5-377/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

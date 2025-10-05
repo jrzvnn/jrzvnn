@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s one way to crack a smile](http://9gag.com/gag/agmZ7vw)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 💣 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 😝 [Ah... social media...](http://9gag.com/gag/ae9PZjv)
+ - 😝 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)
+ - 💣 [Return to monke](http://9gag.com/gag/aVv1ogw)
+ - 😝 [Tell me who makes the problems in a relationship, not always but often...](http://9gag.com/gag/amob6ry)
+ - 👉 [Mild Shook](http://9gag.com/gag/ae9PZGO)<!-- MEMES:END -->
 
 ---
 

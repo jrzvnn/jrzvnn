@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty Black Ops 7 Open Demo: Start Time, How to Download and Play Today](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-7-open-demo-start-time-how-to-download-and-play-today/#ftag=CAD590a51e)
+ - [Are VPNs Under Attack? An Anti-Censorship Group Speaks Out](https://www.cnet.com/tech/services-and-software/are-vpns-under-attack-an-anti-censorship-group-speaks-out/#ftag=CAD590a51e)
  - [A study found that by late 2024, around 24% of English-language corporate press releases and 14% of UN press releases involved LLM-assisted writing &lpar;AJ Dellinger/Gizmodo&rpar;](http://www.techmeme.com/251005/p6#a251005p6)
  - [Sources: Sam Altman is on a global tour since September, including UAE and East Asia, seeking funding and urging companies like TSMC to prioritize OpenAI orders &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251005/p5#a251005p5)
- - [Alibaba says its mapping app Amap&#39;s destination ranking feature hit 400M users since its launch in September; Amap had a record 360M daily users on October 1 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/251005/p4#a251005p4)
- - [A draft proposal outlines the European Commission&#39;s &quot;Apply AI strategy&quot;, which is set to be presented on October 7 and aims to &quot;strengthen EU AI sovereignty&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p3#a251005p3)
- - [Indonesia restores TikTok&#39;s local operating license after the company provided government-requested user activity data for August 25-30, when protests happened &lpar;Prima Wirayani/Bloomberg&rpar;](http://www.techmeme.com/251005/p2#a251005p2)<!-- TECH:END -->
+ - [Alibaba says its mapping app Amap&#39;s destination ranking feature hit 400M users since its launch in September; Amap had a record 360M daily users on October 1 &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/251005/p4#a251005p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

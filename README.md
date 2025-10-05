@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yikes](http://9gag.com/gag/amobGjo)
  - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 💣 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
+ - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
+ - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
 
 ---
 

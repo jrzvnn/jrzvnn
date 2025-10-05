@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: Pastor has iPhone stolen while delivering sermon](https://appleinsider.com/articles/25/10/05/crime-blotter-pastor-has-iphone-stolen-while-delivering-sermon?utm_source=rss)
+ - [Early Prime Big Deal Days special: AirPods 4 plunge to $89](https://appleinsider.com/articles/25/10/05/early-prime-big-deal-days-special-airpods-4-plunge-to-89?utm_source=rss)
+ - [The Mystery of How Quasicrystals Form](https://www.wired.com/story/quasicrystals-spill-secrets-of-their-formation/)
  - [PitchBook: VC investment in Asia slowed to $48.9B in the first nine months of 2025, just over half of 2024&#39;s total, amid uncertainty due to US tariff policies &lpar;Pak Yiu/Nikkei Asia&rpar;](http://www.techmeme.com/251005/p8#a251005p8)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
- - [7 Best Dehumidifiers for Cool and Dry Home Air &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
- - [How Ordos, a coal-rich northern Chinese city, has become a testing ground for self-driving trucks after turning into a ghost town due to 2012&#39;s coal price crash &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/251005/p7#a251005p7)
- - [NFL Week 5: How to Watch, Stream the Sunday Games Today](https://www.cnet.com/tech/services-and-software/nfl-week-5-how-to-watch-stream-the-sunday-games-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

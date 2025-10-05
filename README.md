@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He puts stickers on apples for a living now](http://9gag.com/gag/aZZVwmV)
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
+ - 😝 [I wonder why](http://9gag.com/gag/aAyNKdZ)
+ - 💣 [Modern problems require........](http://9gag.com/gag/an7W2W5)
+ - 😝 [Boo. . who?](http://9gag.com/gag/a6Z35WN)
+ - 👉 [Miniature fantasy city in the forest](http://9gag.com/gag/avyX6WM)<!-- MEMES:END -->
 
 ---
 

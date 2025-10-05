@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)
  - 😝 [Are you surprised?](http://9gag.com/gag/aND29r6)
- - 😝 [Loled](http://9gag.com/gag/adB41O9)
- - 💣 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)
- - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
- - 👉 [Doh](http://9gag.com/gag/a34pA53)<!-- MEMES:END -->
+ - 💣 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 😝 [Hilarious movie can&#39;t remember the name](http://9gag.com/gag/aGyN8Q7)
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

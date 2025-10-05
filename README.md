@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
  - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
  - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---

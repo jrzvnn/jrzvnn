@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An old gem](http://9gag.com/gag/aryrAzK)
- - 😝 [Are you surprised?](http://9gag.com/gag/aND29r6)
- - 💣 [Return to monke](http://9gag.com/gag/aVv1ogw)
- - 😝 [That&#39;s one way to crack a smile](http://9gag.com/gag/agmZ7vw)
- - 👉 [NOT TO UPVOTE!](http://9gag.com/gag/a9yNvrK)<!-- MEMES:END -->
+ - 😝 [My job here is done](http://9gag.com/gag/a87XmXZ)
+ - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 💣 [Doh](http://9gag.com/gag/a34pA53)
+ - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
 
 ---
 

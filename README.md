@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 😝 [I wonder why](http://9gag.com/gag/aAyNKdZ)
- - 💣 [Miniature fantasy city in the forest](http://9gag.com/gag/avyX6WM)
+ - 😝 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
  - 😝 [Leave it in the comments](http://9gag.com/gag/a0eW6dX)
- - 👉 [Modern problems require........](http://9gag.com/gag/an7W2W5)<!-- MEMES:END -->
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/aYQnO4w)<!-- MEMES:END -->
 
 ---
 

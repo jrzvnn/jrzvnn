@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Nasty surprise in my sandwich.](http://9gag.com/gag/aD2NndB)
  - 😝 [Would](http://9gag.com/gag/ayNV44M)
- - 😝 [2022](http://9gag.com/gag/a87XAXe)
- - 💣 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
  - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
 
 ---
 

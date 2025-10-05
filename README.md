@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My job here is done](http://9gag.com/gag/a87XmXZ)
- - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
+ - 😝 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 😝 [2022](http://9gag.com/gag/a87XAXe)
  - 💣 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)
  - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
  - 👉 [Doh](http://9gag.com/gag/a34pA53)<!-- MEMES:END -->

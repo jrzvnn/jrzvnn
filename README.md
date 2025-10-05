@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Insiders detail negotiations between politicians, tech and AI companies, VCs, and others over California&#39;s SB 53, the first-in-the-nation AI safety law &lpar;Chase DiFeliciantonio/Politico&rpar;](http://www.techmeme.com/251005/p15#a251005p15)
+ - [Best Over-Ear Headphones We&#39;ve Tested](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)
  - [If you can get past the terrible logo, Audacity 4 looks pretty great](https://www.theverge.com/news/792368/if-you-can-get-past-the-terrible-logo-audacity-4-looks-pretty-great)
- - [Foxconn reports Q3 revenue of ~$67.71B, up 11% YoY, driven by strong demand for AI products; the company&#39;s consumer electronics division posted a slight decline &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251005/p14#a251005p14)
- - [An interview with DoorDash CEO Tony Xu on the company&#39;s £2.9B acquisition of Deliveroo, which closed on Oct. 2, to bolster its plans to expand abroad, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p13#a251005p13)
- - [The FBI estimates that North Koreans posing as IT workers, using stolen IDs and AI-fabricated work, funneled up to $1B into the country over the past five years &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/251005/p12#a251005p12)<!-- TECH:END -->
+ - [How to Get an Invite Code for OpenAI&#39;s Sora Video Generator App](https://www.cnet.com/tech/services-and-software/how-to-get-an-invite-code-for-openais-sora-video-generator-app/#ftag=CAD590a51e)
+ - [Best Air Purifiers for Pets, Large Rooms and Dust, as Tested by Our Experts](https://www.cnet.com/home/kitchen-and-household/best-air-purifier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Polars, the Amsterdam-based startup behind the popular open-source library for data manipulation of the same name, raised a €18M Series A led by Accel &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251005/p19#a251005p19)
+ - [Using AI as a Therapist? Why Professionals Say You Should Think Again](https://www.cnet.com/tech/services-and-software/using-ai-as-a-therapist-why-professionals-say-you-should-think-again/#ftag=CAD590a51e)
+ - [Prime Video: The 30 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-oct-2025/#ftag=CAD590a51e)
  - [SiPearl unveils Athena1, Europe&#39;s first high-performance CPU with up to 80 cores designed for civilian and military use, slated for commercial launch in H2 2027 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251005/p18#a251005p18)
- - [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words)
- - [SanDisk Professional G-Raid Project 2 review: High-quality enterprise storage](https://appleinsider.com/articles/25/10/05/sandisk-professional-g-raid-project-2-review-high-quality-enterprise-storage?utm_source=rss)
- - [United set to be first to use iOS 26&#39;s new Wallet boarding passes](https://appleinsider.com/articles/25/10/05/united-set-to-be-first-to-use-ios-26s-new-wallet-boarding-passes?utm_source=rss)<!-- TECH:END -->
+ - [Jane Goodall’s death triggered the premiere of Netflix’s new show](https://www.theverge.com/news/792477/jane-goodall-netflix-famous-last-words)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

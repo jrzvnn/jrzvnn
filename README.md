@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview)
  - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
- - [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)
- - [The AI boom is driving memory and storage shortages that may last a decade; OpenAI&#39;s Stargate has deals for 900K DRAM wafers per month, or ~40% of global output &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251005/p9#a251005p9)
- - [The Best Tech Gear for Work Trips &lpar;2025&rpar;](https://www.wired.com/story/best-tech-business-travelers/)
- - [Can tap-to-pay save public transportation?](https://www.theverge.com/column/789127/tap-to-pay-public-transportation)<!-- TECH:END -->
+ - [Apple&#39;s leadership page will look very different in the next five years](https://appleinsider.com/articles/25/10/05/apples-leadership-page-will-look-very-different-in-the-next-five-years?utm_source=rss)
+ - [AR screen won&#39;t come until the second generation Apple Glasses](https://appleinsider.com/articles/25/10/05/ar-screen-wont-come-until-the-second-generation-apple-glasses?utm_source=rss)
+ - [Version History is live — here’s how to find it](https://www.theverge.com/podcast/792339/version-history-podcast-hoverboards)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

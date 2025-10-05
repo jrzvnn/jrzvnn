@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 💣 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 😝 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
+ - 😝 [An old gem](http://9gag.com/gag/aryrAzK)
+ - 💣 [Are you surprised?](http://9gag.com/gag/aND29r6)
+ - 😝 [Return to monke](http://9gag.com/gag/aVv1ogw)
+ - 👉 [NOT TO UPVOTE!](http://9gag.com/gag/a9yNvrK)<!-- MEMES:END -->
 
 ---
 

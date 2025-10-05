@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
+ - 😝 [NOT TO UPVOTE!](http://9gag.com/gag/a9yNvrK)
+ - 😝 [Tell me who makes the problems in a relationship, not always but often...](http://9gag.com/gag/amob6ry)
+ - 💣 [Ah... social media...](http://9gag.com/gag/ae9PZjv)
+ - 😝 [Return to monke](http://9gag.com/gag/aVv1ogw)
+ - 👉 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
  - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
  - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [Just trying to survive without too much fuss](http://9gag.com/gag/a9yN5Kj)
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
  - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---

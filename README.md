@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 😝 [He puts stickers on apples for a living now](http://9gag.com/gag/aZZVwmV)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
  - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [The artist turns wood into sea waves.](http://9gag.com/gag/aryrXj6)
+ - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
  - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---

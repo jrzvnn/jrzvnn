@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn reports Q3 revenue of ~$67.71B, up 11% YoY, driven by strong demand for AI products; the company&#39;s consumer electronics division posted a slight decline &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251005/p14#a251005p14)
+ - [An interview with DoorDash CEO Tony Xu on the company&#39;s £2.9B acquisition of Deliveroo, which closed on Oct. 2, to bolster its plans to expand abroad, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251005/p13#a251005p13)
  - [The FBI estimates that North Koreans posing as IT workers, using stolen IDs and AI-fabricated work, funneled up to $1B into the country over the past five years &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/251005/p12#a251005p12)
  - [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000)
- - [Remembering Steve Jobs, 14 years after his death](https://appleinsider.com/articles/25/10/05/remembering-steve-jobs-seven-years-after-his-death?utm_source=rss)
- - [Another look at Apple&#39;s executive succession, as it increases the spotlight on hardware chief John Ternus; sources: Apple weighed hiring a senior Meta AI exec &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251005/p11#a251005p11)
- - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)<!-- TECH:END -->
+ - [Remembering Steve Jobs, 14 years after his death](https://appleinsider.com/articles/25/10/05/remembering-steve-jobs-seven-years-after-his-death?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

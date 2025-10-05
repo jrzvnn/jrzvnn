@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NOT TO UPVOTE!](http://9gag.com/gag/a9yNvrK)
- - 😝 [Tell me who makes the problems in a relationship, not always but often...](http://9gag.com/gag/amob6ry)
- - 💣 [Ah... social media...](http://9gag.com/gag/ae9PZjv)
- - 😝 [Return to monke](http://9gag.com/gag/aVv1ogw)
- - 👉 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)<!-- MEMES:END -->
+ - 😝 [My 14 year olds reassuring voice message that played over speaker to a group of 3 teachers and their spouses.](https://www.reddit.com/r/funny/comments/1nyqmss/my_14_year_olds_reassuring_voice_message_that/)
+ - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
+ - 💣 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
+ - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
+ - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
- - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
- - 💣 [My job here is done](http://9gag.com/gag/a87XmXZ)
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
+ - 😝 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
+ - 😝 [The hero we need](http://9gag.com/gag/aKGN9Vg)
+ - 💣 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
+ - 😝 [An old gem](http://9gag.com/gag/aryrAzK)
+ - 👉 [Are you surprised?](http://9gag.com/gag/aND29r6)<!-- MEMES:END -->
 
 ---
 

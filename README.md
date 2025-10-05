@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yikes](http://9gag.com/gag/amobGjo)
- - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 💣 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
+ - 😝 [Ah... social media...](http://9gag.com/gag/ae9PZjv)
+ - 😝 [Are you surprised?](http://9gag.com/gag/aND29r6)
+ - 💣 [NOT TO UPVOTE!](http://9gag.com/gag/a9yNvrK)
+ - 😝 [Mild Shook](http://9gag.com/gag/ae9PZGO)
+ - 👉 [Return to monke](http://9gag.com/gag/aVv1ogw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: VC investment in Asia slowed to $48.9B in the first nine months of 2025, just over half of 2024&#39;s total, amid uncertainty due to US tariff policies &lpar;Pak Yiu/Nikkei Asia&rpar;](http://www.techmeme.com/251005/p8#a251005p8)
  - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
  - [7 Best Dehumidifiers for Cool and Dry Home Air &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
  - [How Ordos, a coal-rich northern Chinese city, has become a testing ground for self-driving trucks after turning into a ghost town due to 2012&#39;s coal price crash &lpar;Kinling Lo/Rest of World&rpar;](http://www.techmeme.com/251005/p7#a251005p7)
- - [NFL Week 5: How to Watch, Stream the Sunday Games Today](https://www.cnet.com/tech/services-and-software/nfl-week-5-how-to-watch-stream-the-sunday-games-today/#ftag=CAD590a51e)
- - [Call of Duty Black Ops 7 Open Demo: Start Time, How to Download and Play Today](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-7-open-demo-start-time-how-to-download-and-play-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NFL Week 5: How to Watch, Stream the Sunday Games Today](https://www.cnet.com/tech/services-and-software/nfl-week-5-how-to-watch-stream-the-sunday-games-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hilarious movie can&#39;t remember the name](http://9gag.com/gag/aGyN8Q7)
- - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 💣 [I wonder why](http://9gag.com/gag/aAyNKdZ)
- - 😝 [Miniature fantasy city in the forest](http://9gag.com/gag/avyX6WM)
- - 👉 [Modern problems require........](http://9gag.com/gag/an7W2W5)<!-- MEMES:END -->
+ - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 💣 [Doh](http://9gag.com/gag/a34pA53)
+ - 😝 [The artist turns wood into sea waves.](http://9gag.com/gag/aryrXj6)
+ - 👉 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)<!-- MEMES:END -->
 
 ---
 

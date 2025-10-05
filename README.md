@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
- - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 💣 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 😝 [Tell me who makes the problems in a relationship, not always but often...](http://9gag.com/gag/amob6ry)
+ - 😝 [Return to monke](http://9gag.com/gag/aVv1ogw)
+ - 💣 [One day I&#39;ll have a babysitter too](http://9gag.com/gag/azxDPPp)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 👉 [Mild Shook](http://9gag.com/gag/ae9PZGO)<!-- MEMES:END -->
 
 ---
 

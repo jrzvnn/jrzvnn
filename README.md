@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
  - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
  - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
  - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)

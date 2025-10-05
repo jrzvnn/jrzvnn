@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Remembering Steve Jobs, 14 years after his death](https://appleinsider.com/articles/25/10/05/remembering-steve-jobs-seven-years-after-his-death?utm_source=rss)
  - [Ninja Slushi Is the Cheapest It’s Been: Early Prime Day Deal 2025](https://www.wired.com/story/ninja-slushi-prime-day-deal-october-2025/)
  - [8 Best Space Heaters &lpar;2025&rpar;: Tested, Measured, and Mistreated](https://www.wired.com/gallery/the-best-space-heaters/)
  - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
- - [Crime blotter: Pastor has iPhone stolen while delivering sermon](https://appleinsider.com/articles/25/10/05/crime-blotter-pastor-has-iphone-stolen-while-delivering-sermon?utm_source=rss)
- - [Early Prime Big Deal Days special: AirPods 4 plunge to $89](https://appleinsider.com/articles/25/10/05/early-prime-big-deal-days-special-airpods-4-plunge-to-89?utm_source=rss)<!-- TECH:END -->
+ - [Crime blotter: Pastor has iPhone stolen while delivering sermon](https://appleinsider.com/articles/25/10/05/crime-blotter-pastor-has-iphone-stolen-while-delivering-sermon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

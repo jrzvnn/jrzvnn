@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [That&#39;s one way to crack a smile](http://9gag.com/gag/agmZ7vw)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
  - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 😝 [Guess what country](http://9gag.com/gag/an7WRQ0)
  - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->

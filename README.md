@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Loled](http://9gag.com/gag/adB41O9)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 💣 [Master splinter](http://9gag.com/gag/aMVNmOR)
+ - 😝 [Asian manners](http://9gag.com/gag/adB4v89)
+ - 😝 [Bro is a king.](http://9gag.com/gag/azxD5jZ)
+ - 💣 [My job here is done](http://9gag.com/gag/a87XmXZ)
  - 😝 [Oh lawdy...](http://9gag.com/gag/aMVNm4X)
- - 👉 [Bro is a king.](http://9gag.com/gag/azxD5jZ)<!-- MEMES:END -->
+ - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
 
 ---
 

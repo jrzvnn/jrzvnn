@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000)
  - [Remembering Steve Jobs, 14 years after his death](https://appleinsider.com/articles/25/10/05/remembering-steve-jobs-seven-years-after-his-death?utm_source=rss)
  - [Another look at Apple&#39;s executive succession, as it increases the spotlight on hardware chief John Ternus; sources: Apple weighed hiring a senior Meta AI exec &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251005/p11#a251005p11)
  - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)
- - [Our Favorite Humidifiers for Home, Travel &amp; More &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifier/)
- - [How video games are shaping a generation of boys, as a survey says US males aged 15 to 24 now spend ~10 hrs/week on average on games, over 2x the time from 2010 &lpar;New York Times&rpar;](http://www.techmeme.com/251005/p10#a251005p10)<!-- TECH:END -->
+ - [Our Favorite Humidifiers for Home, Travel &amp; More &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifier/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

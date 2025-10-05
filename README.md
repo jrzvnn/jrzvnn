@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man discovers pillow fort room in his attic.](http://9gag.com/gag/aryr3E0)
- - 😝 [The hero we need](http://9gag.com/gag/aKGN9Vg)
- - 💣 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
  - 😝 [An old gem](http://9gag.com/gag/aryrAzK)
- - 👉 [Are you surprised?](http://9gag.com/gag/aND29r6)<!-- MEMES:END -->
+ - 😝 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
+ - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 😝 [Are you surprised?](http://9gag.com/gag/aND29r6)
+ - 👉 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)<!-- MEMES:END -->
 
 ---
 

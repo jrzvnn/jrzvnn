@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)
+ - [Our Favorite Humidifiers for Home, Travel &amp; More &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifier/)
  - [How video games are shaping a generation of boys, as a survey says US males aged 15 to 24 now spend ~10 hrs/week on average on games, over 2x the time from 2010 &lpar;New York Times&rpar;](http://www.techmeme.com/251005/p10#a251005p10)
  - [I’ve tested the latest Switch 2 controllers and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview)
- - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
- - [Apple&#39;s leadership page will look very different in the next five years](https://appleinsider.com/articles/25/10/05/apples-leadership-page-will-look-very-different-in-the-next-five-years?utm_source=rss)<!-- TECH:END -->
+ - [8 Overlooked Kitchen Tools and Why You Should Have Them, According to Chefs](https://www.cnet.com/news/8-overlooked-kitchen-tools-and-why-you-should-have-them-according-to-chefs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

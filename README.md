@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An old gem](http://9gag.com/gag/aryrAzK)
- - 😝 [The Lord decided to make me a normal human being, amen!](http://9gag.com/gag/awyGmby)
- - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 😝 [Are you surprised?](http://9gag.com/gag/aND29r6)
- - 👉 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)<!-- MEMES:END -->
+ - 😝 [My job here is done](http://9gag.com/gag/a87XmXZ)
+ - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
+ - 💣 [Yes ...YES ...Die trash](http://9gag.com/gag/aO8N4MR)
+ - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 👉 [Doh](http://9gag.com/gag/a34pA53)<!-- MEMES:END -->
 
 ---
 

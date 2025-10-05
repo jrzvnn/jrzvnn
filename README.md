@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How video games are shaping a generation of boys, as a survey says US males aged 15 to 24 now spend ~10 hrs/week on average on games, over 2x the time from 2010 &lpar;New York Times&rpar;](http://www.techmeme.com/251005/p10#a251005p10)
+ - [I’ve tested the latest Switch 2 controllers and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
  - [The developers behind a hit sausage-dueling game hope Steam launch will take it furter](https://www.theverge.com/entertainment/791353/sausage-legend-steam-launch-interview)
  - [John Gianandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
- - [Apple&#39;s leadership page will look very different in the next five years](https://appleinsider.com/articles/25/10/05/apples-leadership-page-will-look-very-different-in-the-next-five-years?utm_source=rss)
- - [AR screen won&#39;t come until the second generation Apple Glasses](https://appleinsider.com/articles/25/10/05/ar-screen-wont-come-until-the-second-generation-apple-glasses?utm_source=rss)
- - [Premier League Soccer: Stream Brentford vs. Man City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-man-city-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s leadership page will look very different in the next five years](https://appleinsider.com/articles/25/10/05/apples-leadership-page-will-look-very-different-in-the-next-five-years?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

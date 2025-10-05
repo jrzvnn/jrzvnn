@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The FBI estimates that North Koreans posing as IT workers, using stolen IDs and AI-fabricated work, funneled up to $1B into the country over the past five years &lpar;Amanda Gerut/Fortune&rpar;](http://www.techmeme.com/251005/p12#a251005p12)
  - [Roland is finally honoring its legacy instead of just cashing in on it](https://www.theverge.com/entertainment/792209/roland-is-finally-honoring-its-legacy-instead-of-just-cashing-in-tr-1000)
  - [Remembering Steve Jobs, 14 years after his death](https://appleinsider.com/articles/25/10/05/remembering-steve-jobs-seven-years-after-his-death?utm_source=rss)
  - [Another look at Apple&#39;s executive succession, as it increases the spotlight on hardware chief John Ternus; sources: Apple weighed hiring a senior Meta AI exec &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251005/p11#a251005p11)
- - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)
- - [Our Favorite Humidifiers for Home, Travel &amp; More &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-humidifier/)<!-- TECH:END -->
+ - [One of these three Apple executives will probably be Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/07/20/tim-cooks-successor-could-be-one-of-many-apple-executives?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

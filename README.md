@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tell me who makes the problems in a relationship, not always but often...](http://9gag.com/gag/amob6ry)
- - 😝 [Ah... social media...](http://9gag.com/gag/ae9PZjv)
- - 💣 [Mild Shook](http://9gag.com/gag/ae9PZGO)
- - 😝 [Are you surprised?](http://9gag.com/gag/aND29r6)
- - 👉 [Return to monke](http://9gag.com/gag/aVv1ogw)<!-- MEMES:END -->
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 😝 [Helping the homeless stay homeless](http://9gag.com/gag/aO8NegN)
+ - 💣 [Guess what country](http://9gag.com/gag/an7WRQ0)
+ - 😝 [Just trying to survive without too much fuss](http://9gag.com/gag/a9yN5Kj)
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

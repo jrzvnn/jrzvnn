@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Sometimes you have these kinda days](http://9gag.com/gag/ae9P1PB)
+ - 😝 [Officer saves choking baby. Truly a hero in uniform](http://9gag.com/gag/a4Pr6xv)
+ - 💣 [Doh](http://9gag.com/gag/a34pA53)
  - 😝 [Nasty surprise in my sandwich.](http://9gag.com/gag/aD2NndB)
- - 😝 [Would](http://9gag.com/gag/ayNV44M)
- - 💣 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 👉 [Guess what country](http://9gag.com/gag/an7WRQ0)<!-- MEMES:END -->
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

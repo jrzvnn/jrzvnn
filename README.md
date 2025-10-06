@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech companies in the UK, Canada, and elsewhere seek talent amid the US H-1B clampdown, though some skeptics doubt Trump&#39;s policies will spur a tech boom abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p10#a251006p10)
  - [US federal contracting records suggest US ICE is planning to hire ~30 contractors to monitor social media content, seeking leads for enforcement operations &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/251006/p9#a251006p9)
  - [A look at major UK businesses hit by cyberattacks in 2025; a government survey estimates 43% of businesses and 30% of charities were hit in the past 12 months &lpar;Theo Leggett/BBC&rpar;](http://www.techmeme.com/251006/p8#a251006p8)
  - [The European Securities and Markets Authority plans to centralize the regulation of stock exchanges, crypto companies, and clearing houses at an EU level &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251006/p7#a251006p7)
- - [A look at OpenAI&#39;s search for the sites of its Stargate data centers in the US; OpenAI has received 800+ applications since January and has 20 finalist sites &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251006/p6#a251006p6)
- - [A book excerpt details the &quot;enshittification&quot; of Amazon, and how its &quot;flywheel&quot; technique now enriches the company at the expense of merchants &lpar;Cory Doctorow/The Guardian&rpar;](http://www.techmeme.com/251006/p5#a251006p5)<!-- TECH:END -->
+ - [A look at OpenAI&#39;s search for the sites of its Stargate data centers in the US; OpenAI has received 800+ applications since January and has 20 finalist sites &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251006/p6#a251006p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

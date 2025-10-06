@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 💣 [Sport](http://9gag.com/gag/aVv1E6d)
  - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 😝 [Because she doesnt have mental illness like erika ishi](http://9gag.com/gag/a1mq0Bb)
- - 💣 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
- - 😝 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
- - 👉 [Doh](http://9gag.com/gag/a34pA53)<!-- MEMES:END -->
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

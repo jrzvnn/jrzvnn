@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 💣 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 😝 [Modern problems require........](http://9gag.com/gag/an7W2W5)
+ - 😝 [I wonder why](http://9gag.com/gag/aAyNKdZ)
+ - 💣 [I have no idea what I&#39;m doing](http://9gag.com/gag/a2vj09d)
  - 😝 [Look carefully](http://9gag.com/gag/a2vjyDD)
- - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
+ - 👉 [Truth is sometimes stranger than fiction](http://9gag.com/gag/aXPGV29)<!-- MEMES:END -->
 
 ---
 

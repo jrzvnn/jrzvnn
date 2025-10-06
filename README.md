@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s new MX Master 4 wireless mouse is already $30 off](https://www.theverge.com/tech/792702/logitech-mx-master-4-deal-sale)
- - [OpenAI executive Bill Peebles says Sora users can now stop AI-generated versions of themselves from appearing in certain contexts like videos involving politics &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251006/p20#a251006p20)
- - [Deloitte says it will partially refund payment for an AU$439K Australian government report that contained multiple errors and was partly produced by AI &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251006/p19#a251006p19)
- - [Paris-based Filigran, which develops open-source threat intelligence tools, raised a $58M Series C led by French VC Eurazeo and reports 6K+ users &lpar;Daphné Leprince-Ringuet/Sifted&rpar;](http://www.techmeme.com/251006/p18#a251006p18)
- - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [CBS News was just taken over by a Substack](https://www.theverge.com/news/792752/cbs-news-paramount-the-free-press-acquisition-bari-weiss)
+ - [Amazon launches $799 MacBook Air M4 deal for fall Prime Day](https://appleinsider.com/articles/25/10/06/amazon-launches-799-macbook-air-m4-deal-for-fall-prime-day?utm_source=rss)
+ - [Dbrand lets Android users drink the Cosmic Orange juice, too](https://www.theverge.com/news/792712/dbrand-android-device-skins-orange-apple-iphone-17-pro)
+ - [Rivian CEO: &amp;#8216;We&amp;#8217;re really convicted&amp;#8217; about skipping CarPlay](https://www.theverge.com/podcast/790685/rivian-ceo-rj-scaringe-r2-tariffs-china-ev-apple-carplay)
+ - [Logitech’s new MX Master 4 wireless mouse is already $30 off](https://www.theverge.com/tech/792702/logitech-mx-master-4-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

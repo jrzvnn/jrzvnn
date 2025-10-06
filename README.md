@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Modern problems require........](http://9gag.com/gag/an7W2W5)
  - 💣 [I wonder why](http://9gag.com/gag/aAyNKdZ)
  - 😝 [Truth is sometimes stranger than fiction](http://9gag.com/gag/aXPGV29)
- - 👉 [Boo. . who?](http://9gag.com/gag/a6Z35WN)<!-- MEMES:END -->
+ - 👉 [I have no idea what I&#39;m doing](http://9gag.com/gag/a2vj09d)<!-- MEMES:END -->
 
 ---
 

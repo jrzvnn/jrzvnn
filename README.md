@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The European Securities and Markets Authority plans to centralize the regulation of stock exchanges, crypto companies, and clearing houses at an EU level &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251006/p7#a251006p7)
  - [A look at OpenAI&#39;s search for the sites of its Stargate data centers in the US; OpenAI has received 800+ applications since January and has 20 finalist sites &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251006/p6#a251006p6)
  - [A book excerpt details the &quot;enshittification&quot; of Amazon, and how its &quot;flywheel&quot; technique now enriches the company at the expense of merchants &lpar;Cory Doctorow/The Guardian&rpar;](http://www.techmeme.com/251006/p5#a251006p5)
  - [A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251006/p4#a251006p4)
- - [A profile of Riley Walz, whose tech-related pranks in San Francisco blend technical skill with social commentary, including a viral site to track parking police &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251006/p3#a251006p3)
- - [Melbourne-based Heidi Health, which is developing AI agents to assist doctors, raised a $65M Series B led by Point72, taking its total raised to $96.6M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251006/p2#a251006p2)<!-- TECH:END -->
+ - [A profile of Riley Walz, whose tech-related pranks in San Francisco blend technical skill with social commentary, including a viral site to track parking police &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251006/p3#a251006p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

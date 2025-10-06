@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
  - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
  - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 😝 [Not with that attitude. Life finds a way.](http://9gag.com/gag/aAyN4oZ)
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
  - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
 
 ---

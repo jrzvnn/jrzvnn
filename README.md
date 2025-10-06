@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A profile of EA CEO Andrew Wilson, who is expected to stay in the role, as Silver Lake&#39;s Egon Durban hails him for building EA&#39;s &quot;crown jewel&quot; sports business &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251005/p25#a251005p25)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-6/#ftag=CAD590a51e)
  - [Sources: Veeam, which offers data backup and disaster recovery tools, is in advanced talks to acquire data privacy management software maker Securiti for ~$1.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251005/p24#a251005p24)
  - [SoftBank Group consolidates 13 robotics-related companies from its main group and 7 from Vision Fund 2 into a new holding company called SoftBank Robotics Group &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251005/p23#a251005p23)
- - [Best Headsets for Working From Home in 2025 According to CNET&#39;s Audio Expert](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)
- - [A big portion of EA&#39;s cash flow will go toward servicing the $20B debt from the $55B sale, which even the most bullish analysts expect will lead to big layoffs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251005/p22#a251005p22)<!-- TECH:END -->
+ - [Best Headsets for Working From Home in 2025 According to CNET&#39;s Audio Expert](https://www.cnet.com/tech/mobile/best-headphones-for-work-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

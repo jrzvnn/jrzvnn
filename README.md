@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 😝 [ACQUIESCENCE](http://9gag.com/gag/aryrZ6y)
- - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
+ - 😝 [.. when you realize Moriarty is the son of Dumbledore](http://9gag.com/gag/aRBNzMA)
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 💣 [Bring it on, 45](http://9gag.com/gag/an7WvZq)
+ - 😝 [Very brief time in history that I&#39;m proud to have been part of](http://9gag.com/gag/aByNEx2)
+ - 👉 [The artist turns wood into sea waves.](http://9gag.com/gag/aryrXj6)<!-- MEMES:END -->
 
 ---
 

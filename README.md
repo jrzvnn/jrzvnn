@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
+ - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
  - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 👉 [How deep is your love](http://9gag.com/gag/aByNVXA)<!-- MEMES:END -->
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Tinder vs real life](http://9gag.com/gag/aMVNzVW)
+ - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acasis 40Gbps Mac mini M4 Dock review: All the ports you could want for your M4 Mac mini](https://appleinsider.com/articles/25/10/06/acasis-40gbps-mac-mini-m4-dock-review-all-the-ports-you-could-want-for-your-m4-mac-mini?utm_source=rss)
  - [Qualtrics agrees to acquire Press Ganey Forsta, which helps healthcare companies compile feedback from patients and doctors, for $6.75B including debt &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p42#a251006p42)
  - [Best Wi-Fi Extenders of 2025](https://www.cnet.com/home/internet/best-wifi-extenders/#ftag=CAD590a51e)
  - [Google launches a dedicated AI bug bounty program that offers security researchers up to $30,000 for finding vulnerabilities in its AI products &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251006/p41#a251006p41)
- - [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
- - [Oracle urges customers to patch an E-Business Suite vulnerability that&#39;s being exploited by cybercriminals; Mandiant said the Clop hacking group exploited it &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/251006/p40#a251006p40)<!-- TECH:END -->
+ - [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 💣 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 😝 [Tinder vs real life](http://9gag.com/gag/aMVNzVW)
+ - 👉 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)<!-- MEMES:END -->
 
 ---
 

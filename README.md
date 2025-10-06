@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon names Dan Schulman as CEO, replacing Hans Vestberg effective immediately; Schulman was PayPal CEO, and Vestberg will help manage the transition &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251006/p17#a251006p17)
+ - [Fictional characters are &lpar;officially&rpar; coming to Sora as OpenAI manages copyright chaos](https://www.theverge.com/news/792661/sora-fictional-copyright-characters)
+ - [16 Best Camera Bags, Slings, Straps, and Backpacks &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
  - [The Paris prosecutor&#39;s office refers a probe into Apple&#39;s Siri recordings to the Office for Combating Cybercrime, after a human rights organization&#39;s complaint &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p16#a251006p16)
- - [AstraZeneca signs $555mn AI deal to develop gene-editing therapies &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p15#a251006p15)
- - [13 Best Travel Adapters &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-travel-adapters/)
- - [John Giannandrea wasn&#39;t Apple&#39;s AI savior, and the company may be looking for a replacement](https://appleinsider.com/articles/25/10/05/john-gianandrea-wasnt-apples-ai-savior-and-the-company-may-be-looking-for-a-replacement?utm_source=rss)
- - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)<!-- TECH:END -->
+ - [AstraZeneca signs $555mn AI deal to develop gene-editing therapies &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p15#a251006p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

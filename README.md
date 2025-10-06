@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [.. when you realize Moriarty is the son of Dumbledore](http://9gag.com/gag/aRBNzMA)
  - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 💣 [Bring it on, 45](http://9gag.com/gag/an7WvZq)
- - 😝 [Very brief time in history that I&#39;m proud to have been part of](http://9gag.com/gag/aByNEx2)
- - 👉 [The artist turns wood into sea waves.](http://9gag.com/gag/aryrXj6)<!-- MEMES:END -->
+ - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
+ - 💣 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 

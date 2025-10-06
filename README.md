@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 💣 [Sport](http://9gag.com/gag/aVv1E6d)
  - 😝 [Look carefully](http://9gag.com/gag/a2vjyDD)
- - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

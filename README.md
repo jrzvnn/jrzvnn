@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
  - [Oracle urges customers to patch an E-Business Suite vulnerability that&#39;s being exploited by cybercriminals; Mandiant said the Clop hacking group exploited it &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/251006/p40#a251006p40)
  - [Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out](https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman)
  - [OpenAI unveils the Apps SDK, built on MPC, in preview to let developers build apps for ChatGPT, and says it will begin accepting app submissions later this year &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251006/p39#a251006p39)
- - [OpenAI announces apps that work inside ChatGPT, starting with Booking.com, Canva, Coursera, Figma, Expedia, Spotify, and Zillow for users outside of the EU &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p38#a251006p38)
- - [ChatGPT apps are live: Here are the first ones you can try](https://www.theverge.com/news/793081/chagpt-apps-sdk-spotify-zillow-openai)<!-- TECH:END -->
+ - [OpenAI announces apps that work inside ChatGPT, starting with Booking.com, Canva, Coursera, Figma, Expedia, Spotify, and Zillow for users outside of the EU &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p38#a251006p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Coupa, a Thoma Bravo-owned supply chain tech company, acquires procurement tech startup Scoutbee, with the deal expected to close by the end of October &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251006/p26#a251006p26)
+ - [WIRED Roundup: The New Fake World of OpenAI’s Social Video App](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-new-fake-world-of-openais-social-video-app/)
  - [The DOJ and Google wrap up a two-week remedies hearing in the US v. Google ad tech trial; both sides will offer closing arguments in November &lpar;New York Times&rpar;](http://www.techmeme.com/251006/p25#a251006p25)
  - [Tech companies poured money into carbon removal projects now in Trump’s crosshairs](https://www.theverge.com/report/792812/trump-funding-cut-climate-carbon-removal-hub)
- - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
- - [Deloitte announces a deal to roll out Anthropic&#39;s Claude to more than 470,000 of its employees globally, marking Anthropic&#39;s largest enterprise deployment ever &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251006/p24#a251006p24)
- - [Dune: Awakening developer Funcom is laying off staff and shutting down a studio](https://www.theverge.com/news/793011/funcom-dune-awakening-layoffs-metal-hellsinger-the-outsiders-shutdown)<!-- TECH:END -->
+ - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

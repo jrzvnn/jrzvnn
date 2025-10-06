@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did that](http://9gag.com/gag/amob6W4)
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 💣 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
  - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)<!-- MEMES:END -->
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 💣 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
+ - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 

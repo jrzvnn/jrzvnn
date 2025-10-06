@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2025&rpar;](https://www.wired.com/gallery/best-milk-frothers/)
- - [Sources: Oaktree, EQT, DWS, and other private capital groups are seeking to cash in on the US-driven AI boom, launching €17B of European data center sales &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p13#a251006p13)
- - [Sora provides better control over videos featuring your AI self](https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self)
- - [Source: xAI is set to spend $18B+ to acquire ~300K more Nvidia chips for its Colossus 2 project in Memphis; Elon Musk said in July it would have 550K chips &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/251006/p12#a251006p12)
- - [Vibe Coding Is the New Open Source—in the Worst Way Possible](https://www.wired.com/story/vibe-coding-is-the-new-open-source/)<!-- TECH:END -->
+ - [OpenAI and AMD announce a deal as part of which OpenAI could take a 10% stake in AMD and deploy up to 6GW of Instinct GPUs over multiple years; AMD jumps 20%+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251006/p14#a251006p14)
+ - [How to Get Your Kids Into STEM Even When Its Future Is Uncertain](https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/)
+ - [Autism Is Not a Single Condition and Has No Single Cause, Scientists Conclude](https://www.wired.com/story/autism-is-not-a-single-condition-and-has-no-single-cause-scientists-conclude/)
+ - [As the Right Leans Into ‘Warrior’ Culture, Some Leftist Gym Bros Are Pushing Back](https://www.wired.com/story/as-the-right-leans-into-warrior-culture-some-leftist-gym-bros-are-pushing-back/)
+ - [The 7 Best Milk Frothers for Your Home Espresso Setup &lpar;2025&rpar;](https://www.wired.com/gallery/best-milk-frothers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

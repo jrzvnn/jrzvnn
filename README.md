@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half](https://www.wired.com/story/taking-these-50-objects-out-of-orbit-would-cut-danger-from-space-junk-in-half/)
+ - [Lexar’s new SSD sticks to your iPhone and can survive nearly a 10-foot drop](https://www.theverge.com/news/793032/lexar-es5-magnetic-magsafe-portable-ssd-apple-prores-4k)
+ - [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025)
  - [Second developer betas of iOS 26.1, macOS Tahoe 26.1 now available for testing](https://appleinsider.com/articles/25/10/06/second-developer-betas-of-ios-261-macos-tahoe-261-now-available-for-testing?utm_source=rss)
- - [All of the updates from OpenAI Dev Day 2025](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)
- - [Apple Mail breaks Outlook sign-ins, but only if you&#39;re unlucky](https://appleinsider.com/articles/25/10/06/apple-mail-breaks-outlook-sign-ins-but-only-if-youre-unlucky?utm_source=rss)
- - [A live blog of OpenAI DevDay 2025, where the company is expected to announce a visual agent builder and other developer updates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251006/p27#a251006p27)
- - [Coupa, a Thoma Bravo-owned supply chain tech company, acquires procurement tech startup Scoutbee, with the deal expected to close by the end of October &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251006/p26#a251006p26)<!-- TECH:END -->
+ - [All of the updates from OpenAI Dev Day 2025](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

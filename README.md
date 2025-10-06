@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI makes Codex generally available, and announces new features: Slack integration, a new Codex SDK, and new admin tools &lpar;OpenAI&rpar;](http://www.techmeme.com/251006/p32#a251006p32)
+ - [OpenAI launches AgentKit, a toolkit for building and deploying AI agents, including Agent Builder, which Sam Altman described as like Canva for building agents &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p31#a251006p31)
+ - [OpenAI unveils a new feature in preview to let developers build apps that work directly inside ChatGPT, starting with Spotify, Figma, Expedia, and more &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251006/p30#a251006p30)
  - [US v. Google redux: all the news from the ad tech trial](https://www.theverge.com/24237832/google-monopoly-trial-ad-tech-antitrust-us-search)
- - [OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025)
- - [OpenAI unveils a new ChatGPT feature that lets users connect to third-party apps like Spotify and Zillow directly within the chatbot &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p29#a251006p29)
- - [Sam Altman says ChatGPT has reached 800M weekly active users, 4M developers &quot;have built with OpenAI&quot;, and OpenAI processes over 6B tokens per minute on its API &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p28#a251006p28)
- - [Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half](https://www.wired.com/story/taking-these-50-objects-out-of-orbit-would-cut-danger-from-space-junk-in-half/)<!-- TECH:END -->
+ - [OpenAI will let developers build apps that work inside ChatGPT](https://www.theverge.com/news/793039/openai-chatgpt-apps-developers-sdk-canva-zillow-devday-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

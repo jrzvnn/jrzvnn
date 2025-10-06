@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coupa, a Thoma Bravo-owned supply chain tech company, acquires procurement tech startup Scoutbee, with the deal expected to close by the end of October &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251006/p26#a251006p26)
- - [WIRED Roundup: The New Fake World of OpenAI’s Social Video App](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-new-fake-world-of-openais-social-video-app/)
- - [The DOJ and Google wrap up a two-week remedies hearing in the US v. Google ad tech trial; both sides will offer closing arguments in November &lpar;New York Times&rpar;](http://www.techmeme.com/251006/p25#a251006p25)
- - [Tech companies poured money into carbon removal projects now in Trump’s crosshairs](https://www.theverge.com/report/792812/trump-funding-cut-climate-carbon-removal-hub)
- - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)<!-- TECH:END -->
+ - [Second developer betas of iOS 26.1, macOS Tahoe 26.1 now available for testing](https://appleinsider.com/articles/25/10/06/second-developer-betas-of-ios-261-macos-tahoe-261-now-available-for-testing?utm_source=rss)
+ - [All of the updates from OpenAI Dev Day 2025](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)
+ - [Apple Mail breaks Outlook sign-ins, but only if you&#39;re unlucky](https://appleinsider.com/articles/25/10/06/apple-mail-breaks-outlook-sign-ins-but-only-if-youre-unlucky?utm_source=rss)
+ - [A live blog of OpenAI DevDay 2025, where the company is expected to announce a visual agent builder and other developer updates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251006/p27#a251006p27)
+ - [Coupa, a Thoma Bravo-owned supply chain tech company, acquires procurement tech startup Scoutbee, with the deal expected to close by the end of October &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251006/p26#a251006p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

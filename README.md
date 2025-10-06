@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 😝 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
  - 💣 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
  - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 👉 [Sport](http://9gag.com/gag/aVv1E6d)<!-- MEMES:END -->
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

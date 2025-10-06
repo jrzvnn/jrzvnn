@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hilarious movie can&#39;t remember the name](http://9gag.com/gag/aGyN8Q7)
- - 😝 [Modern problems require........](http://9gag.com/gag/an7W2W5)
- - 💣 [I wonder why](http://9gag.com/gag/aAyNKdZ)
- - 😝 [Truth is sometimes stranger than fiction](http://9gag.com/gag/aXPGV29)
- - 👉 [I have no idea what I&#39;m doing](http://9gag.com/gag/a2vj09d)<!-- MEMES:END -->
+ - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 💣 [Sport](http://9gag.com/gag/aVv1E6d)
+ - 😝 [Look carefully](http://9gag.com/gag/a2vjyDD)
+ - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
 
 ---
 

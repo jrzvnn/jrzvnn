@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Parental Controls -- How it works in iOS 26 and iPadOS 26](https://appleinsider.com/inside/ios-26/tips/inside-parental-controls----how-it-works-in-ios-26-and-ipados-26?utm_source=rss)
  - [AMD teams up with OpenAI to challenge Nvidia&amp;#8217;s AI chip dominance](https://www.theverge.com/news/792650/amd-openai-five-year-ai-chip-agreement)
  - [Best Bike Helmets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-bike-helmets/)
  - [OpenAI and AMD announce a deal as part of which OpenAI could take a 10% stake in AMD and deploy up to 6GW of Instinct GPUs over multiple years; AMD jumps 20%+ &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251006/p14#a251006p14)
- - [How to Get Your Kids Into STEM Even When Its Future Is Uncertain](https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/)
- - [Autism Is Not a Single Condition and Has No Single Cause, Scientists Conclude](https://www.wired.com/story/autism-is-not-a-single-condition-and-has-no-single-cause-scientists-conclude/)<!-- TECH:END -->
+ - [How to Get Your Kids Into STEM Even When Its Future Is Uncertain](https://www.wired.com/story/the-importance-of-getting-kids-into-stem-when-its-future-is-uncertain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

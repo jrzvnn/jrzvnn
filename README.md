@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
- - 😝 [Doh](http://9gag.com/gag/a34pA53)
- - 💣 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/aYQnO4w)<!-- MEMES:END -->
+ - 😝 [Hilarious movie can&#39;t remember the name](http://9gag.com/gag/aGyN8Q7)
+ - 😝 [Modern problems require........](http://9gag.com/gag/an7W2W5)
+ - 💣 [I wonder why](http://9gag.com/gag/aAyNKdZ)
+ - 😝 [Truth is sometimes stranger than fiction](http://9gag.com/gag/aXPGV29)
+ - 👉 [Boo. . who?](http://9gag.com/gag/a6Z35WN)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
  - 😝 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
- - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [Sport](http://9gag.com/gag/aVv1E6d)<!-- MEMES:END -->
+ - 😝 [Doh](http://9gag.com/gag/a34pA53)
+ - 💣 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 👉 [No good deed goes unpunished](http://9gag.com/gag/aYQnO4w)<!-- MEMES:END -->
 
 ---
 

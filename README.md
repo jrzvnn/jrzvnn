@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 😝 [Please don&#39;t](http://9gag.com/gag/ayNV4Vq)
+ - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 😝 [Because she doesnt have mental illness like erika ishi](http://9gag.com/gag/a1mq0Bb)
  - 💣 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 👉 [No good deed goes unpunished](http://9gag.com/gag/aYQnO4w)<!-- MEMES:END -->
+ - 😝 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
+ - 👉 [Doh](http://9gag.com/gag/a34pA53)<!-- MEMES:END -->
 
 ---
 

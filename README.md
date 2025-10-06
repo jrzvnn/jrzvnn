@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
  - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 💣 [Sport](http://9gag.com/gag/aVv1E6d)
+ - 💣 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
  - 😝 [Look carefully](http://9gag.com/gag/a2vjyDD)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 👉 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What&#39;s new in iPadOS 26.1 beta 2: Slide Over returns, visual tweaks](https://appleinsider.com/articles/25/10/06/whats-new-in-ipados-261-beta-2-slide-over-returns-visual-tweaks?utm_source=rss)
- - [OpenAI announces API updates, including GPT-5 Pro, Sora 2 in preview, and gpt-realtime-mini, a voice model that is 70% cheaper than gpt-realtime &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p34#a251006p34)
- - [OpenAI Wants ChatGPT to Be Your Future Operating System](https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/)
- - [Bee Maps, a decentralized mapping project powered by Hivemapper on the Solana blockchain, raised $32M to expand its network by distributing AI-enabled dashcams &lpar;CoinDesk&rpar;](http://www.techmeme.com/251006/p33#a251006p33)
- - [Costco Is Now Selling Ozempic and Other GLP-1 Drugs. These Are the Benefits and Risks You Need to Know](https://www.cnet.com/health/medical/costco-now-selling-ozempic-glp-1-drugs-benefits-risks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cerebras CEO Andrew Feldman says the AI chipmaker pulled its IPO filing to share updated financials, admitting it was a mistake not to explain the move sooner &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251006/p36#a251006p36)
+ - [Sources: the SEC has been probing AppLovin over allegations that it violated platform partners&#39; agreements to push more targeted ads to consumers; APP drops 14% &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/251006/p35#a251006p35)
+ - [Google&amp;#8217;s AI bounty program pays bug hunters up to $30K](https://www.theverge.com/news/793362/google-ai-security-vulnerability-rewards)
+ - [Google Japan’s concept keyboard is inspired by rotary phones](https://www.theverge.com/news/793136/google-japan-open-source-concept-dial-keyboard-rotary-phone)
+ - [What&#39;s new in iPadOS 26.1 beta 2: Slide Over returns, visual tweaks](https://appleinsider.com/articles/25/10/06/whats-new-in-ipados-261-beta-2-slide-over-returns-visual-tweaks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

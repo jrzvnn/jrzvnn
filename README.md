@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says ChatGPT has reached 800M weekly active users, 4M developers &quot;have built with OpenAI&quot;, and OpenAI processes over 6B tokens per minute on its API &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p28#a251006p28)
  - [Taking These 50 Objects Out of Orbit Would Cut Danger From Space Junk in Half](https://www.wired.com/story/taking-these-50-objects-out-of-orbit-would-cut-danger-from-space-junk-in-half/)
  - [Lexar’s new SSD sticks to your iPhone and can survive nearly a 10-foot drop](https://www.theverge.com/news/793032/lexar-es5-magnetic-magsafe-portable-ssd-apple-prores-4k)
  - [The best Apple deals to shop ahead of Amazon’s fall Prime Day event](https://www.theverge.com/tech/784180/amazon-october-prime-day-sale-best-early-apple-deals-2025)
- - [Second developer betas of iOS 26.1, macOS Tahoe 26.1 now available for testing](https://appleinsider.com/articles/25/10/06/second-developer-betas-of-ios-261-macos-tahoe-261-now-available-for-testing?utm_source=rss)
- - [All of the updates from OpenAI Dev Day 2025](https://www.theverge.com/news/640086/openai-chat-gpt-news-updates)<!-- TECH:END -->
+ - [Second developer betas of iOS 26.1, macOS Tahoe 26.1 now available for testing](https://appleinsider.com/articles/25/10/06/second-developer-betas-of-ios-261-macos-tahoe-261-now-available-for-testing?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

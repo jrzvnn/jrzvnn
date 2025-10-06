@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
- - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 😝 [ACQUIESCENCE](http://9gag.com/gag/aryrZ6y)
  - 👉 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)<!-- MEMES:END -->
 
 ---

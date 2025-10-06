@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I did that](http://9gag.com/gag/amob6W4)
- - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 💣 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
  - 😝 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
- - 👉 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)<!-- MEMES:END -->
+ - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 

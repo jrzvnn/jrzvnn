@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman and Jony Ive&amp;#8217;s secret device won&amp;#8217;t be &amp;#8216;your weird AI girlfriend&amp;#8217;](https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues)
  - [Tech companies in the UK, Canada, and elsewhere seek talent amid the US H-1B clampdown, though some skeptics doubt Trump&#39;s policies will spur a tech boom abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p10#a251006p10)
  - [US federal contracting records suggest US ICE is planning to hire ~30 contractors to monitor social media content, seeking leads for enforcement operations &lpar;Dell Cameron/Wired&rpar;](http://www.techmeme.com/251006/p9#a251006p9)
  - [9 Hidden Apple Watch Health Features You Can Use to Maximize Your Well-Being](https://www.cnet.com/health/medical/hidden-apple-watch-health-features-optimize-well-being/#ftag=CAD590a51e)
- - [A look at major UK businesses hit by cyberattacks in 2025; a government survey estimates 43% of businesses and 30% of charities were hit in the past 12 months &lpar;Theo Leggett/BBC&rpar;](http://www.techmeme.com/251006/p8#a251006p8)
- - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at major UK businesses hit by cyberattacks in 2025; a government survey estimates 43% of businesses and 30% of charities were hit in the past 12 months &lpar;Theo Leggett/BBC&rpar;](http://www.techmeme.com/251006/p8#a251006p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

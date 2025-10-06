@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
- - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
  - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [\u201cI&#39;m afraid.\u201d\u00a0](http://9gag.com/gag/agmZxZ1)
+ - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
  - 👉 [Fall is here](http://9gag.com/gag/aD2NZdO)<!-- MEMES:END -->
 
 ---

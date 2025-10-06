@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)
  - [Siri&#39;s voice recording scandal lives on in new French probe](https://appleinsider.com/articles/25/10/06/siris-voice-recording-scandal-lives-on-in-new-french-probe?utm_source=rss)
+ - [CBS News was just taken over by a Substack](https://www.theverge.com/news/792752/cbs-news-paramount-the-free-press-acquisition-bari-weiss)
  - [Amazon launches $799 MacBook Air M4 deal for fall Prime Day](https://appleinsider.com/articles/25/10/06/amazon-launches-799-macbook-air-m4-deal-for-fall-prime-day?utm_source=rss)
- - [OpenAI executive Bill Peebles says Sora users can now stop AI-generated versions of themselves from appearing in certain contexts like videos involving politics &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251006/p20#a251006p20)
- - [Deloitte says it will partially refund payment for an AU$439K Australian government report that contained multiple errors and was partly produced by AI &lpar;Ellesheva Kissin/Financial Times&rpar;](http://www.techmeme.com/251006/p19#a251006p19)<!-- TECH:END -->
+ - [Dbrand lets Android users drink the Cosmic Orange juice, too](https://www.theverge.com/news/792712/dbrand-android-device-skins-orange-apple-iphone-17-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

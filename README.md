@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As part of the OpenAI-AMD deal, OpenAI will receive the first GW worth of AMD&#39;s Instinct MI450 chip in H2 2026, when the new chip is scheduled for deployment &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p23#a251006p23)
  - [Google &amp; Amazon&#39;s smart home events on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/10/06/google-amazons-smart-home-events-on-the-homekit-insider-podcast?utm_source=rss)
  - [Verizon appoints a new CEO for the &amp;#8216;next phase&amp;#8217; after its 5G rollout](https://www.theverge.com/news/792875/verizon-dan-schulman-ceo-hans-vestberg-replacement)
  - [Instagram launches Rings, an awards program recognizing 25 top creators; the judging panel includes Spike Lee, designer Marc Jacobs, and Adam Mosseri &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251006/p22#a251006p22)
- - [SwitchBot’s new safety tracker can discreetly trigger a fake phone call](https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light)
- - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)<!-- TECH:END -->
+ - [SwitchBot’s new safety tracker can discreetly trigger a fake phone call](https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

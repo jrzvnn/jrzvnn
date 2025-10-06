@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 💣 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 👉 [Fall is here](http://9gag.com/gag/aD2NZdO)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have no idea what I&#39;m doing](http://9gag.com/gag/a2vj09d)
- - 😝 [Boo. . who?](http://9gag.com/gag/a6Z35WN)
- - 💣 [Jigsaw is not pleased with this version of the game](http://9gag.com/gag/a1mq51D)
- - 😝 [Bring it on, 45](http://9gag.com/gag/an7WvZq)
- - 👉 [.. when you realize Moriarty is the son of Dumbledore](http://9gag.com/gag/aRBNzMA)<!-- MEMES:END -->
+ - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 💣 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
+ - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
+ - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---
 

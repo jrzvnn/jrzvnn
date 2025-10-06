@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A book excerpt details the &quot;enshittification&quot; of Amazon, and how its &quot;flywheel&quot; technique now enriches the company at the expense of merchants &lpar;Cory Doctorow/The Guardian&rpar;](http://www.techmeme.com/251006/p5#a251006p5)
  - [A look at cost and viability concerns over small nuclear reactors in the US, as the government, tech companies, and investors bet on SMRs to power the AI boom &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/251006/p4#a251006p4)
  - [A profile of Riley Walz, whose tech-related pranks in San Francisco blend technical skill with social commentary, including a viral site to track parking police &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251006/p3#a251006p3)
  - [Melbourne-based Heidi Health, which is developing AI agents to assist doctors, raised a $65M Series B led by Point72, taking its total raised to $96.6M &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251006/p2#a251006p2)
- - [A basket tracking stocks of 10 European data center operators and infrastructure providers surged 23% in 2025, topping the Nasdaq 100, driven by the AI boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p1#a251006p1)
- - [Sources: Monzo is considering a new application for a US banking license, hoping for approval amid Trump&#39;s deregulation push, after dropping a 2021 attempt &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251005/p26#a251005p26)<!-- TECH:END -->
+ - [A basket tracking stocks of 10 European data center operators and infrastructure providers surged 23% in 2025, topping the Nasdaq 100, driven by the AI boom &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p1#a251006p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

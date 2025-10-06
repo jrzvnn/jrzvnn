@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)
+ - [Siri&#39;s voice recording scandal lives on in new French probe](https://appleinsider.com/articles/25/10/06/siris-voice-recording-scandal-lives-on-in-new-french-probe?utm_source=rss)
  - [CBS News was just taken over by a Substack](https://www.theverge.com/news/792752/cbs-news-paramount-the-free-press-acquisition-bari-weiss)
  - [Amazon launches $799 MacBook Air M4 deal for fall Prime Day](https://appleinsider.com/articles/25/10/06/amazon-launches-799-macbook-air-m4-deal-for-fall-prime-day?utm_source=rss)
- - [Dbrand lets Android users drink the Cosmic Orange juice, too](https://www.theverge.com/news/792712/dbrand-android-device-skins-orange-apple-iphone-17-pro)
- - [Rivian CEO: &amp;#8216;We&amp;#8217;re really convicted&amp;#8217; about skipping CarPlay](https://www.theverge.com/podcast/790685/rivian-ceo-rj-scaringe-r2-tariffs-china-ev-apple-carplay)
- - [Logitech’s new MX Master 4 wireless mouse is already $30 off](https://www.theverge.com/tech/792702/logitech-mx-master-4-deal-sale)<!-- TECH:END -->
+ - [Dbrand lets Android users drink the Cosmic Orange juice, too](https://www.theverge.com/news/792712/dbrand-android-device-skins-orange-apple-iphone-17-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 💣 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
  - 😝 [Amusing Ourselves to Death is a great book if you ask me!](http://9gag.com/gag/aE0NVOe)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 💣 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
+ - 👉 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)<!-- MEMES:END -->
 
 ---
 

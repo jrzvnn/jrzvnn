@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank Group consolidates 13 robotics-related companies from its main group and 7 from Vision Fund 2 into a new holding company called SoftBank Robotics Group &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251005/p23#a251005p23)
+ - [A big portion of EA&#39;s cash flow will go toward servicing the $20B debt from the $55B sale, which even the most bullish analysts expect will lead to big layoffs &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251005/p22#a251005p22)
  - [PitchBook: US VCs have invested ~$14.2B in European AI startups so far in 2025, with founders saying US investors better fit the sector&#39;s high upfront costs &lpar;Anvee Bhutani/Wall Street Journal&rpar;](http://www.techmeme.com/251005/p21#a251005p21)
  - [Scorability, a college sports recruiting marketplace for athletes and coaches, raised $40M led by Bluestone Equity Partners, bringing its total funding to $51M &lpar;Jessica Golden/CNBC&rpar;](http://www.techmeme.com/251005/p20#a251005p20)
- - [Polars, the Amsterdam-based startup behind the popular open-source library for data manipulation of the same name, raised a €18M Series A led by Accel &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251005/p19#a251005p19)
- - [Using AI as a Therapist? Why Professionals Say You Should Think Again](https://www.cnet.com/tech/services-and-software/using-ai-as-a-therapist-why-professionals-say-you-should-think-again/#ftag=CAD590a51e)
- - [Prime Video: The 30 Absolute Best Shows to Watch](https://www.cnet.com/tech/services-and-software/best-shows-on-prime-video-oct-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Polars, the Amsterdam-based startup behind the popular open-source library for data manipulation of the same name, raised a €18M Series A led by Accel &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251005/p19#a251005p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

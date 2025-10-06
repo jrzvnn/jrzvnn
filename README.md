@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SwitchBot’s new safety tracker can discreetly trigger a fake phone call](https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light)
  - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)
  - [Siri&#39;s voice recording scandal lives on in new French probe](https://appleinsider.com/articles/25/10/06/siris-voice-recording-scandal-lives-on-in-new-french-probe?utm_source=rss)
  - [CBS News was just taken over by a Substack](https://www.theverge.com/news/792752/cbs-news-paramount-the-free-press-acquisition-bari-weiss)
- - [Amazon launches $799 MacBook Air M4 deal for fall Prime Day](https://appleinsider.com/articles/25/10/06/amazon-launches-799-macbook-air-m4-deal-for-fall-prime-day?utm_source=rss)
- - [Dbrand lets Android users drink the Cosmic Orange juice, too](https://www.theverge.com/news/792712/dbrand-android-device-skins-orange-apple-iphone-17-pro)<!-- TECH:END -->
+ - [Amazon launches $799 MacBook Air M4 deal for fall Prime Day](https://appleinsider.com/articles/25/10/06/amazon-launches-799-macbook-air-m4-deal-for-fall-prime-day?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

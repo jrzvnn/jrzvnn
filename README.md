@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google &amp; Amazon&#39;s smart home events on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/10/06/google-amazons-smart-home-events-on-the-homekit-insider-podcast?utm_source=rss)
+ - [Verizon appoints a new CEO for the &amp;#8216;next phase&amp;#8217; after its 5G rollout](https://www.theverge.com/news/792875/verizon-dan-schulman-ceo-hans-vestberg-replacement)
  - [Instagram launches Rings, an awards program recognizing 25 top creators; the judging panel includes Spike Lee, designer Marc Jacobs, and Adam Mosseri &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251006/p22#a251006p22)
  - [SwitchBot’s new safety tracker can discreetly trigger a fake phone call](https://www.theverge.com/news/791676/switchbot-safety-alarm-apple-find-my-siren-light)
- - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)
- - [Siri&#39;s voice recording scandal lives on in new French probe](https://appleinsider.com/articles/25/10/06/siris-voice-recording-scandal-lives-on-in-new-french-probe?utm_source=rss)
- - [CBS News was just taken over by a Substack](https://www.theverge.com/news/792752/cbs-news-paramount-the-free-press-acquisition-bari-weiss)<!-- TECH:END -->
+ - [Google DeepMind unveils CodeMender, an AI agent that autonomously detects, patches, and rewrites vulnerable code, leveraging Gemini Deep Think models &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251006/p21#a251006p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

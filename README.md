@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Oaktree, EQT, DWS, and other private capital groups are seeking to cash in on the US-driven AI boom, launching €17B of European data center sales &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p13#a251006p13)
+ - [Sora provides better control over videos featuring your AI self](https://www.theverge.com/news/792638/sora-provides-better-control-over-videos-featuring-your-ai-self)
  - [Source: xAI is set to spend $18B+ to acquire ~300K more Nvidia chips for its Colossus 2 project in Memphis; Elon Musk said in July it would have 550K chips &lpar;Alexander Saeedy/Wall Street Journal&rpar;](http://www.techmeme.com/251006/p12#a251006p12)
  - [Vibe Coding Is the New Open Source—in the Worst Way Possible](https://www.wired.com/story/vibe-coding-is-the-new-open-source/)
- - [While you were partying with your Steam Deck, GPD studied the cord](https://www.theverge.com/games/791460/gpd-win-5-corded-handhelds)
- - [Asahi restarted production at six Japanese breweries on October 2 after a cyberattack forced it to halt production and shipments for days, and is investigating &lpar;Bloomberg&rpar;](http://www.techmeme.com/251006/p11#a251006p11)
- - [Sam Altman and Jony Ive&amp;#8217;s secret device won&amp;#8217;t be &amp;#8216;your weird AI girlfriend&amp;#8217;](https://www.theverge.com/news/792635/openai-jony-ive-ai-device-voice-personality-issues)<!-- TECH:END -->
+ - [While you were partying with your Steam Deck, GPD studied the cord](https://www.theverge.com/games/791460/gpd-win-5-corded-handhelds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Damned spawn campers](http://9gag.com/gag/avyX1jX)
+ - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
  - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 💣 [Sport](http://9gag.com/gag/aVv1E6d)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 💣 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
+ - 😝 [Sport](http://9gag.com/gag/aVv1E6d)
  - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
 
 ---

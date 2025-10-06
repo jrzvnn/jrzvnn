@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 💣 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 😝 [ACQUIESCENCE](http://9gag.com/gag/aryrZ6y)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 😝 [Jigsaw is not pleased with this version of the game](http://9gag.com/gag/a1mq51D)
+ - 💣 [.. when you realize Moriarty is the son of Dumbledore](http://9gag.com/gag/aRBNzMA)
+ - 😝 [Bring it on, 45](http://9gag.com/gag/an7WvZq)
+ - 👉 [The artist turns wood into sea waves.](http://9gag.com/gag/aryrXj6)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The DOJ and Google wrap up a two-week remedies hearing in the US v. Google ad tech trial; both sides will offer closing arguments in November &lpar;New York Times&rpar;](http://www.techmeme.com/251006/p25#a251006p25)
+ - [Tech companies poured money into carbon removal projects now in Trump’s crosshairs](https://www.theverge.com/report/792812/trump-funding-cut-climate-carbon-removal-hub)
  - [How to find the best deals during Amazon’s October Prime Day sale](https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find)
  - [Deloitte announces a deal to roll out Anthropic&#39;s Claude to more than 470,000 of its employees globally, marking Anthropic&#39;s largest enterprise deployment ever &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251006/p24#a251006p24)
- - [Dune: Awakening developer Funcom is laying off staff and shutting down a studio](https://www.theverge.com/news/793011/funcom-dune-awakening-layoffs-metal-hellsinger-the-outsiders-shutdown)
- - [As part of the OpenAI-AMD deal, OpenAI will receive the first GW worth of AMD&#39;s Instinct MI450 chip in H2 2026, when the new chip is scheduled for deployment &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p23#a251006p23)
- - [Google &amp; Amazon&#39;s smart home events on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/10/06/google-amazons-smart-home-events-on-the-homekit-insider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Dune: Awakening developer Funcom is laying off staff and shutting down a studio](https://www.theverge.com/news/793011/funcom-dune-awakening-layoffs-metal-hellsinger-the-outsiders-shutdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

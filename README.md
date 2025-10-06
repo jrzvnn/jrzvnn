@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
  - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
 
 ---
 

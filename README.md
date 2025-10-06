@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
  - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
+ - 😝 [\u201cI&#39;m afraid.\u201d\u00a0](http://9gag.com/gag/agmZxZ1)
+ - 👉 [Fall is here](http://9gag.com/gag/aD2NZdO)<!-- MEMES:END -->
 
 ---
 

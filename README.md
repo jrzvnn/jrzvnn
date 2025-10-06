@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 😝 [How deep is your love](http://9gag.com/gag/aByNVXA)
  - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
- - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
+ - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
+ - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
 
 ---
 

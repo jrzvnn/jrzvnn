@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI announces API updates, including GPT-5 Pro, Sora 2 in preview, and gpt-realtime-mini, a voice model that is 70% cheaper than gpt-realtime &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251006/p34#a251006p34)
+ - [OpenAI Wants ChatGPT to Be Your Future Operation System](https://www.wired.com/story/openai-dev-day-sam-altman-chatgpt-apps/)
  - [Bee Maps, a decentralized mapping project powered by Hivemapper on the Solana blockchain, raised $32M to expand its network by distributing AI-enabled dashcams &lpar;CoinDesk&rpar;](http://www.techmeme.com/251006/p33#a251006p33)
  - [Costco Is Now Selling Ozempic and Other GLP-1 Drugs. These Are the Benefits and Risks You Need to Know](https://www.cnet.com/health/medical/costco-now-selling-ozempic-glp-1-drugs-benefits-risks/#ftag=CAD590a51e)
- - [This 16-Inch Laptop Just Won Best Buy&#39;s Techtober Sale](https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/)
- - [Eufy Offered $2 Payments for Real or Staged Package-Theft Footage](https://www.cnet.com/home/security/eufy-offered-2-payments-for-real-or-staged-package-theft-footage/#ftag=CAD590a51e)
- - [OpenAI&#39;s Blockbuster AMD Deal Is a Bet on Near-Limitless Demand for AI](https://www.wired.com/story/openai-amd-deal-data-center-chips/)<!-- TECH:END -->
+ - [This 16-Inch Laptop Just Won Best Buy&#39;s Techtober Sale](https://www.wired.com/story/acer-swift-16-ai-deal-best-buy-techtober-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

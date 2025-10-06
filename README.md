@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: Monzo is considering a new application for a US banking license, hoping for approval amid Trump&#39;s deregulation push, after dropping a 2021 attempt &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251005/p26#a251005p26)
+ - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)
  - [A profile of EA CEO Andrew Wilson, who is expected to stay in the role, as Silver Lake&#39;s Egon Durban hails him for building EA&#39;s &quot;crown jewel&quot; sports business &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251005/p25#a251005p25)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-6/#ftag=CAD590a51e)
- - [Sources: Veeam, which offers data backup and disaster recovery tools, is in advanced talks to acquire data privacy management software maker Securiti for ~$1.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251005/p24#a251005p24)
- - [SoftBank Group consolidates 13 robotics-related companies from its main group and 7 from Vision Fund 2 into a new holding company called SoftBank Robotics Group &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251005/p23#a251005p23)<!-- TECH:END -->
+ - [Sources: Veeam, which offers data backup and disaster recovery tools, is in advanced talks to acquire data privacy management software maker Securiti for ~$1.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251005/p24#a251005p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

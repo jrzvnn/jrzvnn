@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got hit by a bus , and then walks straight into a pub](https://www.reddit.com/r/funny/comments/1nzvty4/got_hit_by_a_bus_and_then_walks_straight_into_a/)
  - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 💣 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 😝 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
+ - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 

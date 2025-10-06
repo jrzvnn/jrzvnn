@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [No wonder the Russians stay away from the Nordic countries!](http://9gag.com/gag/aqyp80R)
- - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
- - 💣 [This is how I met your mom](http://9gag.com/gag/ajPMOR0)
- - 😝 [Look carefully](http://9gag.com/gag/a2vjyDD)
- - 👉 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)<!-- MEMES:END -->
+ - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 💣 [The &#39;AllahHuAkbars&#39; have arrived at Japan. Soon enough they&#39;ll cover anima girls with hijabs, and build 1000&#39;s of mosques in Tokyo.](http://9gag.com/gag/aryrZq5)
+ - 😝 [The type of autism the government is scared off](http://9gag.com/gag/a7o60yq)
+ - 👉 [Sport](http://9gag.com/gag/aVv1E6d)<!-- MEMES:END -->
 
 ---
 

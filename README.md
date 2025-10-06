@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualtrics agrees to acquire Press Ganey Forsta, which helps healthcare companies compile feedback from patients and doctors, for $6.75B including debt &lpar;Financial Times&rpar;](http://www.techmeme.com/251006/p42#a251006p42)
+ - [Best Wi-Fi Extenders of 2025](https://www.cnet.com/home/internet/best-wifi-extenders/#ftag=CAD590a51e)
  - [Google launches a dedicated AI bug bounty program that offers security researchers up to $30,000 for finding vulnerabilities in its AI products &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251006/p41#a251006p41)
  - [Microsoft is plugging more holes that let you use Windows 11 without an online account](https://www.theverge.com/news/793579/microsoft-windows-11-local-account-bypass-workaround-changes)
- - [Oracle urges customers to patch an E-Business Suite vulnerability that&#39;s being exploited by cybercriminals; Mandiant said the Clop hacking group exploited it &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/251006/p40#a251006p40)
- - [Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out](https://www.theverge.com/news/793073/chatgpt-pulse-no-plans-for-ads-sam-altman)
- - [OpenAI unveils the Apps SDK, built on MPC, in preview to let developers build apps for ChatGPT, and says it will begin accepting app submissions later this year &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251006/p39#a251006p39)<!-- TECH:END -->
+ - [Oracle urges customers to patch an E-Business Suite vulnerability that&#39;s being exploited by cybercriminals; Mandiant said the Clop hacking group exploited it &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/251006/p40#a251006p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

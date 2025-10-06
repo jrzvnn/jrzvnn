@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The judge tasked with deciding Google’s fate would rather not](https://www.theverge.com/policy/793455/google-doj-ad-tech-judge-brinkema-break-up)
+ - [SCOTUS turns down Google&#39;s request to halt key parts of a judge&#39;s order requiring Google to make major changes to Play Store in an antitrust case filed by Epic &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251006/p37#a251006p37)
  - [What’s going on with this Instagram promotion?](https://www.theverge.com/news/793410/meta-instagram-rings-the-ring-creators-movie)
  - [iPhone Designer Jony Ive Is Reportedly Running Into Snags With AI Project](https://www.cnet.com/tech/services-and-software/iphone-designer-jony-ive-is-reportedly-running-into-snags-with-ai-project/#ftag=CAD590a51e)
- - [Cerebras CEO Andrew Feldman says the AI chipmaker pulled its IPO filing to share updated financials, admitting it was a mistake not to explain the move sooner &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251006/p36#a251006p36)
- - [Starlink Slashes Prices on Equipment and Monthly Service Ahead of Prime Day](https://www.cnet.com/home/internet/starlink-slashes-prices-on-equipment-and-monthly-service-ahead-of-prime-day/#ftag=CAD590a51e)
- - [Sources: the SEC has been probing AppLovin over allegations that it violated platform partners&#39; agreements to push more targeted ads to consumers; APP drops 14% &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/251006/p35#a251006p35)<!-- TECH:END -->
+ - [Cerebras CEO Andrew Feldman says the AI chipmaker pulled its IPO filing to share updated financials, admitting it was a mistake not to explain the move sooner &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251006/p36#a251006p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

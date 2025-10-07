@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EvenUp, which makes AI tools for personal injury law firms, raised a $150M Series E led by Bessemer at a $2B+ valuation, bringing its total funding to $385M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251007/p13#a251007p13)
- - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant](https://www.wired.com/story/prime-day-beauty-deals-october-2025/)
- - [Google hints at a new Nest Hub](https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon)
- - [The Best Wi-Fi 7 Mesh Router for Most People Hits Its Lowest Price Ever](https://www.wired.com/story/netgear-orbi-770-series-prime-day-2025/)
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
+ - [JPMorgan Chase reports that $1.2T of debt is now tied to AI-related companies, making it the largest segment in the investment-grade market &lpar;Caleb Mutua/Bloomberg&rpar;](http://www.techmeme.com/251007/p15#a251007p15)
+ - [The best October Prime Day deals on TVs, soundbars, and more](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
+ - [I&#39;m a Certified Sleep Coach, and My Favorite Pillow Is $20 Off Right Now for Prime Day &lpar;2025&rpar;](https://www.wired.com/story/lagoon-pillow-prime-day-sale-2025/)
+ - [Dell says it now expects annual revenue to grow between 7% and 9%, up from its prior forecast of 3% to 4%, citing demand for AI infrastructure &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251007/p14#a251007p14)
+ - [Google Pixel 10 and Pixel 10 Pro Are on Sale for Prime Big Deal Days](https://www.wired.com/story/google-pixel-10-sale-amazon-prime-big-deal-days-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

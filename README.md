@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [California Gov. Gavin Newsom signs a law banning excessively loud ads on streaming platforms like Netflix, the first such law in the US, modeled on a 2010 law &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251007/p8#a251007p8)
  - [How Israel&#39;s war in Gaza engulfed the entertainment industry, including popular TV shows produced in Israel going dark on US streaming platforms like Netflix &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p7#a251007p7)
  - [Patreon CEO Jack Conte Wants You to Get Off of Your Phone](https://www.wired.com/story/the-big-interview-podcast-jack-conte-patreon/)
  - [At OpenAI&#39;s DevDay, Sam Altman and Jony Ive spoke in vague terms about the &quot;family of devices&quot; currently under development; Altman says &quot;it will take a while&quot; &lpar;Wired&rpar;](http://www.techmeme.com/251007/p6#a251007p6)
- - [The 180 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Sources: NYSE owner Intercontinental Exchange is in talks to invest $2B in Polymarket in a deal that could value it at between $8B and $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p5#a251007p5)<!-- TECH:END -->
+ - [The 180 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

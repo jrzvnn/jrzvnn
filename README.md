@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available during Amazon’s fall Prime Day event](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
- - [You Can Buy This Amazing Alienware QD-OLED Monitor for a Third of What I Paid During Prime Day](https://www.wired.com/story/dell-alienware-aw3423dw-prime-day-2025/)
- - [The Best Discounts We&#39;ve Found From the Walmart Deals Sale &lpar;2025&rpar;](https://www.wired.com/story/best-walmart-deals-october-2025/)
- - [Best Prime Day Fitness Tracker Deals &lpar;2025&rpar;: Ultrahuman, Fitbit, Amazfit, and More](https://www.wired.com/story/best-prime-day-fitness-trackers-2025/)
- - [Google Pixel 9a Sees Its First Major Discount for Prime Big Deal Days](https://www.wired.com/story/google-pixel-9a-prime-day-october-2025/)<!-- TECH:END -->
+ - [Meanwhile, a Bermuda-regulated bitcoin life insurance provider, raised $82M from Apollo, Bain Capital, Haun Ventures, and others, after a $40M Series A in April &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251007/p12#a251007p12)
+ - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
+ - [12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)
+ - [California bans noisy ads on Netflix, YouTube, and other streaming services](https://www.theverge.com/news/794145/california-law-noisy-ad-volume-streaming-services)
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

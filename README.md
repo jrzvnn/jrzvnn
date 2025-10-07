@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jimmy Fallon wants to turn Wordle into a TV show](https://www.theverge.com/news/795536/wordle-tv-game-show-jimmy-fallon-savannah-guthrie-nbc)
  - [Philips Hue customizable string lights are $50 off for October Prime Day](https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale)
  - [Big Tech is ‘donating’ to Trump’s ‘nonprofits’](https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator)
  - [Google&amp;#8217;s latest AI model uses a web browser like you do](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
- - [The Solawave Wand Is the Best LED Device Prime Day Deal Right Now](https://www.wired.com/story/solawave-wand-deal-prime-day-october-2025/)
- - [Best Amazon Prime Day Kindle Deals &lpar;October 2025&rpar;: Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)<!-- TECH:END -->
+ - [Verizon Replaces CEO Vestberg With Former PayPal Chief Schulman](https://www.cnet.com/tech/mobile/verizon-replaces-ceo-vestberg-with-former-paypal-chief-schulman/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

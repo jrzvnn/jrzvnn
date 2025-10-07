@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [HyperSpace Trackpad Pro Hands-On: A Windows Answer to Apple’s Magic Trackpad](https://www.wired.com/story/hyper-hyperspace-trackpad-pro/)
- - [The 162 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025/)
- - [FurtherAI, which uses AI to automate insurance tasks such as claims processing, raised a $25M Series A led by a16z, bringing its total funding to $30M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251007/p16#a251007p16)<!-- TECH:END -->
+ - [Police busts gang suspected of stealing 40,000 phones](https://www.theverge.com/news/794538/police-busts-gang-suspected-of-stealing-40000-phones)
+ - [Docs: Oracle generated ~$900M from its Nvidia cloud server rental business, with a $125M gross profit, or a 14% margin, vs. its ~70% overall gross profit margin &lpar;The Information&rpar;](http://www.techmeme.com/251007/p17#a251007p17)
+ - [Iniu’s tiny 45W battery is great for my Switch 2, and it’s 25 percent off today](https://www.theverge.com/tech/791712/amazon-october-prime-day-iniu-45w-usbc-power-bank-deal-sale-2025)
+ - [Amazon&#39;s $379 iPad mini 7 deal shaves $120 off Apple&#39;s smallest tablet](https://appleinsider.com/articles/25/10/07/amazons-379-ipad-mini-7-deal-shaves-120-off-apples-smallest-tablet?utm_source=rss)
+ - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

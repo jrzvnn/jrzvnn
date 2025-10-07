@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
+ - [The excellent Pixel 9A has dropped to just $349 for Amazon’s fall Prime Day](https://www.theverge.com/tech/789306/amazon-october-prime-day-google-pixel-9a-deal-sale-2025)
+ - [Apple turned the CrowdStrike BSOD issue into an anti-PC ad](https://www.theverge.com/news/794185/apple-bsod-crowdstrike-windows-pc-ad-commercial)
  - [Google&amp;#8217;s extreme smart home makeover](https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast)
- - [The Underdogs return to attack the Windows Blue Screen of Death](https://appleinsider.com/articles/25/10/07/the-underdogs-return-to-attack-the-windows-blue-screen-of-death?utm_source=rss)
- - [Meanwhile, a Bermuda-regulated bitcoin life insurance provider, raised $82M from Apollo, Bain Capital, Haun Ventures, and others, after a $40M Series A in April &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251007/p12#a251007p12)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
+ - [The Underdogs return to attack the Windows Blue Screen of Death](https://appleinsider.com/articles/25/10/07/the-underdogs-return-to-attack-the-windows-blue-screen-of-death?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

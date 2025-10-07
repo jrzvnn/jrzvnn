@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the OpenAI-AMD partnership, which added ~$78B to AMD&#39;s market cap and shows OpenAI is good at deals; OpenAI deals also boosted Shopify and Etsy stocks &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/251007/p4#a251007p4)
+ - [These Are the Best Packing Cubes on Amazon This Prime Day &lpar;2025&rpar;](https://www.wired.com/story/best-packing-cubes-on-amazon-october-2025/)
  - [We&#39;re Tracking All the Sales and Trends During Amazon&#39;s October Prime Day](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
  - [61 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)
- - [UK police dismantle an international gang suspected of smuggling up to 40K stolen smartphones from the UK to China, arrest 18 suspects, and recover 2,000 phones &lpar;Sima Kotecha/BBC&rpar;](http://www.techmeme.com/251007/p3#a251007p3)
- - [Best Amazon Fall Prime Day Deals: AirTag $19, AirPods $89, iPad $279, Apple Watch $169, more](https://appleinsider.com/articles/25/10/07/best-amazon-fall-prime-day-deals-airtag-19-airpods-89-ipad-279-apple-watch-169-more?utm_source=rss)
- - [Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More](https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025/)<!-- TECH:END -->
+ - [UK police dismantle an international gang suspected of smuggling up to 40K stolen smartphones from the UK to China, arrest 18 suspects, and recover 2,000 phones &lpar;Sima Kotecha/BBC&rpar;](http://www.techmeme.com/251007/p3#a251007p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
  - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 😝 [The father is simply setting priorities!](http://9gag.com/gag/a87Xe93)
- - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
+ - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
+ - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 ---
 

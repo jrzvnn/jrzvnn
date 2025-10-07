@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 💣 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 😝 [Yeah, baby! Shall we shag now, or shag later?](http://9gag.com/gag/aByNEq1)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
+ - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
 
 ---
 

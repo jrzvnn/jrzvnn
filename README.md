@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mastodon snags Bluesky&amp;#8217;s starter packs feature and includes the ability to opt out](https://www.theverge.com/news/794988/mastodon-bluesky-starter-packs-fediverse)
- - [Xbox Series X/S storage expansion cards haven&amp;#8217;t been this cheap since July](https://www.theverge.com/tech/698725/amazon-october-prime-day-xbox-storage-expansion-card-deal-sale-2025)
- - [Cozy Earth&#39;s Prime Day Sale &lpar;2025&rpar;: Sheets, Pajamas, Socks and More on Deep Discount](https://www.wired.com/story/cozy-earth-prime-day-sale-october-2025/)
- - [Best Prime Day Apple iPad Deals](https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/)
- - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025/)<!-- TECH:END -->
+ - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)
+ - [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
+ - [The Petcube Cam 360 Is $16 Off for Prime Day](https://www.wired.com/story/petcube-360-cam-prime-big-deal-day-deal/)
+ - [iPhone 17e rumors: Dynamic Island, A19 chip, and more](https://appleinsider.com/articles/25/10/07/iphone-17e-rumors-dynamic-island-a19-chip-and-more?utm_source=rss)
+ - [Mastodon snags Bluesky&amp;#8217;s starter packs feature and includes the ability to opt out](https://www.theverge.com/news/794988/mastodon-bluesky-starter-packs-fediverse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

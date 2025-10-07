@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
+ - 💣 [Good &#39;ol Tesla. The cameras see everything.](http://9gag.com/gag/a9yN2yD)
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
+ - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
  - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 👉 [Milkmaid lifestyle](http://9gag.com/gag/a4PrALv)<!-- MEMES:END -->
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
+ - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
 
 ---
 

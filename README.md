@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant](https://www.wired.com/story/prime-day-beauty-deals-october-2025/)
+ - [Ted Cruz Targets Wikipedia Over ‘Ideological Bias’](https://www.wired.com/story/ted-cruz-targets-wikipedia-over-ideological-bias/)
  - [Nobel Prize in Physics goes to early research that led to today&amp;#8217;s quantum computers](https://www.theverge.com/news/795295/nobel-prize-phyics-quantum-computers)
  - [The Best Anti-Prime Day Deals for Amazon Haters &lpar;2025&rpar;: Sheets, Sex Tech, and Fire Pits](https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025/)
- - [Former Apple bosses slam decision to take down ICEBlock](https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism)
- - [The M4 Mac Mini Is Small and Fast, and It&#39;s $100 Off for Prime Day](https://www.cnet.com/deals/this-m4-mac-mini-is-small-fast-and-now-100-off/#ftag=CAD590a51e)
- - [Bose&amp;#8217;s boldest QuietComfort Ultra headphones are cheaper than ever](https://www.theverge.com/tech/792224/amazon-october-prime-day-bose-quietcomfort-ultra-headphones-deal-sale-2025)<!-- TECH:END -->
+ - [Former Apple bosses slam decision to take down ICEBlock](https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

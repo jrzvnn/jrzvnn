@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [72 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)
+ - [The Tesla Model Y and Model 3 Standard Are Cheaper—but Still Not Cheap](https://www.wired.com/story/tesla-model-y-and-model-3-standard-are-cheaper-but-still-not-cheap/)
  - [Sources: Elon Musk has appointed former Morgan Stanley banker Anthony Armstrong as CFO of xAI; he will also take over financial management for X &lpar;Financial Times&rpar;](http://www.techmeme.com/251007/p29#a251007p29)
  - [26 Best Prime Day Tech Deals: Tablets, Accessories, and More](https://www.wired.com/story/best-prime-day-tech-deals-october-2025/)
- - [We handpicked 30 October Prime Day deals you can get for under $25](https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025)
- - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant](https://www.wired.com/story/prime-day-beauty-deals-october-2025/)
- - [Ted Cruz Targets Wikipedia Over ‘Ideological Bias’](https://www.wired.com/story/ted-cruz-targets-wikipedia-over-ideological-bias/)<!-- TECH:END -->
+ - [We handpicked 30 October Prime Day deals you can get for under $25](https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 😝 [Lucky](http://9gag.com/gag/a1mq2GY)
  - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
+ - 💣 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti&#39;s latest Colorful Elite 30 V2 is joined by excellent Prime Big Deal Days discounts](https://appleinsider.com/articles/25/10/07/bluettis-latest-colorful-elite-30-v2-is-joined-by-excellent-prime-big-deal-days-discounts?utm_source=rss)
- - [Some Verge-favorite gadgets are cheaper than ever for fall Prime Day](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
- - [Bushnell’s new Bluetooth speaker has a touchscreen and golf caddy ambitions](https://www.theverge.com/news/795060/bushnell-wingman-hd-color-screen-bluetooth-wireless-speaker-golf)
- - [Tesla’s ‘affordable’ EVs are just stripped down versions of the Model 3 and Model Y](https://www.theverge.com/transportation/793302/tesla-model-y-moidel-3-standard-affordable-price-specs-photo)
- - [The Petkit PuraMax 2 Is $150 Off Right Now](https://www.wired.com/story/petkit-puramax-2-prime-big-deal-day-deal/)<!-- TECH:END -->
+ - [Anthropic releases Petri, an open-source tool using AI agents for safety testing, and says it observed multiple cases of models attempting to blow the whistle &lpar;Anthropic&rpar;](http://www.techmeme.com/251007/p27#a251007p27)
+ - [AltStore&amp;#8217;s alternative iPhone app store is coming to more countries](https://www.theverge.com/news/795173/altstore-alternative-ios-iphone-app-store-more-countries-fediverse-social-web)
+ - [Amazon&amp;#8217;s latest Kindle Paperwhite just got its first price drop of the year](https://www.theverge.com/tech/794864/amazon-october-prime-day-kindle-paperwhite-deal-sale)
+ - [The 185 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Apple Releases Second iOS 26.1 Beta With a Useful Security Feature](https://www.cnet.com/tech/services-and-software/apple-releases-second-ios-26-1-beta-with-a-useful-security-feature/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

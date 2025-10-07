@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10 Best Power Bank Prime Day Deals](https://www.wired.com/story/power-banks-prime-big-deal-days-2025/)
+ - [OpenAI&#39;s recent deals with Oracle, Nvidia, Samsung, AMD, SK Hynix, and others, plus its DevDay announcements, show it is making a play to be the Windows of AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251007/p11#a251007p11)
  - [Dwindling iPad Pro &amp; MacBook Pro supplies herald imminent update](https://appleinsider.com/articles/25/10/07/dwindling-ipad-pro-macbook-pro-dwindling-supplies-herald-imminent-update?utm_source=rss)
  - [Best Amazon Prime Day Kindle Deals &lpar;October 2025&rpar;: Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)
- - [We Found the 192 Absolute Best Prime Day Deals: iPads, Office Chairs &amp; More](https://www.wired.com/story/prime-day-deals-october-2025/)
- - [Q&amp;A with Patreon CEO Jack Conte on social media algorithms, studying music at Stanford, music streaming economics, creators, TikTok, influencers, AI, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251007/p10#a251007p10)
- - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)<!-- TECH:END -->
+ - [We Found the 192 Absolute Best Prime Day Deals: iPads, Office Chairs &amp; More](https://www.wired.com/story/prime-day-deals-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

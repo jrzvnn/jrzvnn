@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
+ - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
  - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get a bonus 15% off on top of Prime Day deals on Ottocast&#39;s new CarPlay adapters](https://appleinsider.com/articles/25/10/07/get-a-bonus-15-off-on-top-of-prime-day-deals-on-ottocasts-new-carplay-adapters?utm_source=rss)
  - [Police busts gang suspected of stealing 40,000 phones](https://www.theverge.com/news/794538/police-busts-gang-suspected-of-stealing-40000-phones)
  - [Docs: Oracle generated ~$900M from its Nvidia cloud server rental business, with a $125M gross profit, or a 14% margin, vs. its ~70% overall gross profit margin &lpar;The Information&rpar;](http://www.techmeme.com/251007/p17#a251007p17)
  - [Iniu’s tiny 45W battery is great for my Switch 2, and it’s 25 percent off today](https://www.theverge.com/tech/791712/amazon-october-prime-day-iniu-45w-usbc-power-bank-deal-sale-2025)
- - [Amazon&#39;s $379 iPad mini 7 deal shaves $120 off Apple&#39;s smallest tablet](https://appleinsider.com/articles/25/10/07/amazons-379-ipad-mini-7-deal-shaves-120-off-apples-smallest-tablet?utm_source=rss)
- - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)<!-- TECH:END -->
+ - [Amazon&#39;s $379 iPad mini 7 deal shaves $120 off Apple&#39;s smallest tablet](https://appleinsider.com/articles/25/10/07/amazons-379-ipad-mini-7-deal-shaves-120-off-apples-smallest-tablet?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

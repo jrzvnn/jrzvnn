@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Patreon CEO Jack Conte on social media algorithms, studying music at Stanford, music streaming economics, creators, TikTok, influencers, AI, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251007/p10#a251007p10)
+ - [192 Best Prime Day Deals 2025: Kindles, Apple Watch, Discounts](https://www.wired.com/story/prime-day-deals-october-2025/)
  - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)
  - [Anthropic and IBM partner to make Anthropic&#39;s Claude models available in IBM&#39;s latest IDE, and IBM aims to make Claude available in more products soon &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251007/p9#a251007p9)
- - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
- - [California Gov. Gavin Newsom signs a law banning excessively loud ads on streaming platforms like Netflix, the first such law in the US, modeled on a 2010 law &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251007/p8#a251007p8)
- - [How Israel&#39;s war in Gaza engulfed the entertainment industry, including popular TV shows produced in Israel going dark on US streaming platforms like Netflix &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p7#a251007p7)<!-- TECH:END -->
+ - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

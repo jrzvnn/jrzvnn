@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
  - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - 👉 [My nightmares be like](http://9gag.com/gag/aryrZbV)<!-- MEMES:END -->
+ - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 👉 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)<!-- MEMES:END -->
 
 ---
 

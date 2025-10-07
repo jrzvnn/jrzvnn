@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Amazon Prime Day Mattress Deals &lpar;2025&rpar;: Casper, Helix, Birch](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals/)
+ - [Jaguar Land Rover plans to resume some UK production after a cyberattack in August; an analyst says the hack wiped out £5M in daily profit and delayed 30K+ cars &lpar;William Wilkes/Bloomberg&rpar;](http://www.techmeme.com/251007/p2#a251007p2)
+ - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025/)
  - [151 Best Prime Day Deals 2025: Kindles, Apple Watch, Discounts](https://www.wired.com/story/prime-day-deals-october-2025/)
- - [Save up to $150 on Apple Watch styles for Fall Prime Day, prices from $169](https://appleinsider.com/articles/25/10/07/save-up-to-150-on-apple-watch-styles-for-fall-prime-day-prices-from-169?utm_source=rss)
- - [Expand your Apple smart home with up to 48% off Aqara gear for Amazon Prime Big Deal Days](https://appleinsider.com/articles/25/10/07/expand-your-apple-smart-home-with-up-to-48-off-aqara-gear-for-amazon-prime-big-deal-days?utm_source=rss)
- - [Prime Big Deal Days special: AirPods 4 plunge to $89](https://appleinsider.com/articles/25/10/05/early-prime-big-deal-days-special-airpods-4-plunge-to-89?utm_source=rss)
- - [Apple&#39;s iPad 11 drops to $279 for Amazon Prime Big Deal Days](https://appleinsider.com/articles/25/10/07/apples-ipad-11-drops-to-279-for-amazon-prime-big-deal-days?utm_source=rss)<!-- TECH:END -->
+ - [Save up to $150 on Apple Watch styles for Fall Prime Day, prices from $169](https://appleinsider.com/articles/25/10/07/save-up-to-150-on-apple-watch-styles-for-fall-prime-day-prices-from-169?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 💣 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 👉 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)<!-- MEMES:END -->
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Yeah, baby! Shall we shag now, or shag later?](http://9gag.com/gag/aByNEq1)
+ - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
 
 ---
 

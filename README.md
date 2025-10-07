@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [Apps in ChatGPT could be OpenAI&#39;s most ambitious platform play to date, drawing parallels with Facebook&#39;s 2007 efforts to become a platform via social graph &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251006/p43#a251006p43)
- - [The Supreme Court didn’t save Google from Epic, and now the clock is ticking](https://www.theverge.com/news/793610/google-epic-android-supreme-court-stay-denied)
- - [Acasis 40Gbps Mac mini M4 Dock review: All the ports you could want for your M4 Mac mini](https://appleinsider.com/articles/25/10/06/acasis-40gbps-mac-mini-m4-dock-review-all-the-ports-you-could-want-for-your-m4-mac-mini?utm_source=rss)
- - [Verizon Replaces CEO Vestberg With Former PayPal Chief Schulman](https://www.cnet.com/tech/mobile/verizon-replaces-ceo-vestberg-with-former-paypal-chief-schulman/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-with-apple-homekit-and-siri/#ftag=CAD590a51e)
+ - [Best Electric Toothbrushes You Can Buy in 2025, Tested by Experts](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [How to See the Spectacular Supermoon Dominate the Sky on Monday](https://www.cnet.com/science/space/how-to-see-the-spectacular-supermoon-dominate-the-sky-on-monday/#ftag=CAD590a51e)
+ - [Best Wireless Earbuds of 2025](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

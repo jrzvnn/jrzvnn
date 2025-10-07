@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 💣 [My nightmares be like](http://9gag.com/gag/aryrZbV)
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
  - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
 
 ---

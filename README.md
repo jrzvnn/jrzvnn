@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Big Deal Days special: AirPods 4 plunge to $89](https://appleinsider.com/articles/25/10/05/early-prime-big-deal-days-special-airpods-4-plunge-to-89?utm_source=rss)
+ - [Apple&#39;s iPad 11 drops to $279 for Amazon Prime Big Deal Days](https://appleinsider.com/articles/25/10/07/apples-ipad-11-drops-to-279-for-amazon-prime-big-deal-days?utm_source=rss)
  - [OpenAI&#39;s computing deals with Nvidia, AMD, Oracle, and others have topped $1T, commitments that dwarf its revenue and raise questions about how it can fund them &lpar;Financial Times&rpar;](http://www.techmeme.com/251007/p1#a251007p1)
  - [MrBeast, who earned an estimated $85M in 2025, says AI-generated videos could threaten creators&#39; livelihoods, calling it &quot;scary times&quot; for the industry &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251006/p44#a251006p44)
- - [Taylor Swift Launches a New Instagram Feature Inviting Fans to Remix Others&#39; Stories](https://www.cnet.com/culture/entertainment/taylor-swift-just-got-her-own-instagram-feature-and-it-comes-with-a-glitter-filter/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-7/#ftag=CAD590a51e)
- - [Jony Ive Says He Wants His OpenAI Devices to ‘Make Us Happy’](https://www.wired.com/story/sam-altman-and-jony-ives-ai-device-dev-day/)<!-- TECH:END -->
+ - [Taylor Swift Launches a New Instagram Feature Inviting Fans to Remix Others&#39; Stories](https://www.cnet.com/culture/entertainment/taylor-swift-just-got-her-own-instagram-feature-and-it-comes-with-a-glitter-filter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

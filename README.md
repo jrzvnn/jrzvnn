@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nobel Prize in Physics goes to early research that led to today&amp;#8217;s quantum computers](https://www.theverge.com/news/795295/nobel-prize-phyics-quantum-computers)
+ - [The Best Anti-Prime Day Deals for Amazon Haters &lpar;2025&rpar;: Sheets, Sex Tech, and Fire Pits](https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025/)
  - [Former Apple bosses slam decision to take down ICEBlock](https://www.theverge.com/news/795248/former-apple-exec-iceblock-removal-criticism)
- - [Bose&amp;#8217;s boldest QuietComfort Ultra headphones are cheaper than ever](https://www.theverge.com/tech/792224/amazon-october-prime-day-bose-quietcomfort-ultra-headphones-deal-sale-2025)
- - [Google releases the Gemini 2.5 Computer Use model, built on Gemini 2.5 Pro&#39;s capabilities to power agents that can interact with UIs, in preview via the API &lpar;The Keyword&rpar;](http://www.techmeme.com/251007/p28#a251007p28)
- - [6 Best Dehumidifiers for Cool and Dry Home Air &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
- - [Anthropic releases Petri, an open-source tool using AI agents for safety testing, and says it observed multiple cases of models attempting to blow the whistle &lpar;Anthropic&rpar;](http://www.techmeme.com/251007/p27#a251007p27)<!-- TECH:END -->
+ - [The M4 Mac Mini Is Small and Fast, and It&#39;s $100 Off for Prime Day](https://www.cnet.com/deals/this-m4-mac-mini-is-small-fast-and-now-100-off/#ftag=CAD590a51e)
+ - [Bose&amp;#8217;s boldest QuietComfort Ultra headphones are cheaper than ever](https://www.theverge.com/tech/792224/amazon-october-prime-day-bose-quietcomfort-ultra-headphones-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

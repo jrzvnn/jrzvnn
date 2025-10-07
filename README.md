@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google releases the Gemini 2.5 Computer Use model, built on Gemini 2.5 Pro&#39;s capabilities to power agents that can interact with UIs, in preview via the API &lpar;The Keyword&rpar;](http://www.techmeme.com/251007/p28#a251007p28)
+ - [6 Best Dehumidifiers for Cool and Dry Home Air &lpar;2025&rpar;](https://www.wired.com/gallery/best-dehumidifier/)
  - [Anthropic releases Petri, an open-source tool using AI agents for safety testing, and says it observed multiple cases of models attempting to blow the whistle &lpar;Anthropic&rpar;](http://www.techmeme.com/251007/p27#a251007p27)
  - [AltStore&amp;#8217;s alternative iPhone app store is coming to more countries](https://www.theverge.com/news/795173/altstore-alternative-ios-iphone-app-store-more-countries-fediverse-social-web)
- - [Amazon&amp;#8217;s latest Kindle Paperwhite just got its first price drop of the year](https://www.theverge.com/tech/794864/amazon-october-prime-day-kindle-paperwhite-deal-sale)
- - [The 185 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Apple Releases Second iOS 26.1 Beta With a Useful Security Feature](https://www.cnet.com/tech/services-and-software/apple-releases-second-ios-26-1-beta-with-a-useful-security-feature/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s latest Kindle Paperwhite just got its first price drop of the year](https://www.theverge.com/tech/794864/amazon-october-prime-day-kindle-paperwhite-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

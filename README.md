@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boox’s next smartphone-sized e-reader has a color screen and a stylus](https://www.theverge.com/news/794751/onyx-boox-p6-pro-e-ink-reader-smartphone-color-palma)
- - [Mastodon plans to add Bluesky-like starter packs to suggest accounts to follow for new users, but will allow accounts to opt out of being included in Packs &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251007/p23#a251007p23)
- - [Meta updates Reels on Facebook to prioritize showing fresher and more-relevant content, and adds AI search suggestions and friend bubbles like on Instagram &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/251007/p22#a251007p22)
- - [Apple’s latest iPad is down to its best price yet for October Prime Day](https://www.theverge.com/tech/794046/amazon-october-prime-day-11th-gen-ipad-air-pro-deal-sale-2025)
- - [Save 25 Percent on This Sonos Prime Day Soundbar Deal](https://www.wired.com/story/prime-day-soundbar-deal-october-2025/)<!-- TECH:END -->
+ - [The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
+ - [The Best Anti-Prime Day Deals for Amazon Haters &lpar;2025&rpar;: Sheets, Sex Tech, and Fire Pits](https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025/)
+ - [Save hundreds of dollars on these best monitor deals for your Mac &amp; iPad](https://appleinsider.com/articles/25/10/07/save-hundreds-of-dollars-on-these-best-monitor-deals-for-your-mac-ipad?utm_source=rss)
+ - [Microsoft delays Xbox Game Pass Ultimate price hikes for some subscribers](https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-price-changes-countries)
+ - [Docusign&#39;s stock dropped 12% last week after OpenAI revealed an internal DocuGPT demo, highlighting OpenAI&#39;s potential sway over the current software market &lpar;Wired&rpar;](http://www.techmeme.com/251007/p24#a251007p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

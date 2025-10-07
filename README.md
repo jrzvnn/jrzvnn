@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s dark mode is getting more consistent in File Explorer](https://www.theverge.com/news/793958/microsoft-windows-11-dark-mode-official-changes)
- - [The Best Cheap Asus Chromebook Has Dropped Below $250](https://www.wired.com/story/asus-cx-15-chromebook-prime-day-october-2025/)
- - [A look at the OpenAI-AMD partnership, which added ~$78B to AMD&#39;s market cap and shows OpenAI is good at deals; OpenAI deals also boosted Shopify and Etsy stocks &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/251007/p4#a251007p4)
- - [These Are the Best Packing Cubes on Amazon This Prime Day &lpar;2025&rpar;](https://www.wired.com/story/best-packing-cubes-on-amazon-october-2025/)
- - [We&#39;re Tracking All the Sales and Trends During Amazon&#39;s October Prime Day](https://www.wired.com/live/amazon-prime-day-deals-october-25/)<!-- TECH:END -->
+ - [At OpenAI&#39;s DevDay, Sam Altman and Jony Ive spoke in vague terms about the &quot;family of devices&quot; currently under development; Altman says &quot;it will take a while&quot; &lpar;Wired&rpar;](http://www.techmeme.com/251007/p6#a251007p6)
+ - [The 180 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Sources: NYSE owner Intercontinental Exchange is in talks to invest $2B in Polymarket in a deal that could value it at between $8B and $10B &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251007/p5#a251007p5)
+ - [The World&#39;s Best Air Fryer Is 40 Percent Off](https://www.wired.com/story/typhur-dome-2-october-2025-prime-day-deal/)
+ - [The Future of AI Filmmaking Is a Parody of the Apocalypse, Made by a Guy Named Josh](https://www.wired.com/story/the-future-of-ai-media-parody-of-the-apocalypse-guy-named-josh/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

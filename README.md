@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
  - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
- - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
+ - 💣 [It is that time of the year](http://9gag.com/gag/aD2NVn9)
+ - 😝 [I know they&#39;ll delete it](http://9gag.com/gag/a2vjDBe)
+ - 👉 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)<!-- MEMES:END -->
 
 ---
 

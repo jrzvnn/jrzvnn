@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Even better than the punk caterpillar!](http://9gag.com/gag/aLnN4x5)
  - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 💣 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
+ - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
+ - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 ---
 

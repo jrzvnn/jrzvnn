@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\u201cI&#39;m afraid.\u201d\u00a0](http://9gag.com/gag/agmZxZ1)
- - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 💣 [They are GM for the reason](http://9gag.com/gag/abAmx3B)
- - 😝 [Golden Peak in gaming history](http://9gag.com/gag/aE0NWLM)
- - 👉 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)<!-- MEMES:END -->
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
+ - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
 
 ---
 

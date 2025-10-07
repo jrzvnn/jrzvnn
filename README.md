@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We&#39;re Tracking All the Sales and Trends During Amazon&#39;s October Prime Day](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+ - [61 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)
+ - [UK police dismantle an international gang suspected of smuggling up to 40K stolen smartphones from the UK to China, arrest 18 suspects, and recover 2,000 phones &lpar;Sima Kotecha/BBC&rpar;](http://www.techmeme.com/251007/p3#a251007p3)
  - [Best Amazon Fall Prime Day Deals: AirTag $19, AirPods $89, iPad $279, Apple Watch $169, more](https://appleinsider.com/articles/25/10/07/best-amazon-fall-prime-day-deals-airtag-19-airpods-89-ipad-279-apple-watch-169-more?utm_source=rss)
- - [Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More](https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025/)
- - [Thin Phones Compared: iPhone Air vs. Galaxy S25 Edge](https://www.cnet.com/tech/mobile/thin-phone-battle-iphone-air-vs-galaxy-s25-edge/#ftag=CAD590a51e)
- - [Best Amazon Prime Day Mattress Deals &lpar;2025&rpar;: Casper, Helix, Birch](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals/)
- - [Jaguar Land Rover plans to resume some UK production after a cyberattack in August; an analyst says the hack wiped out £5M in daily profit and delayed 30K+ cars &lpar;William Wilkes/Bloomberg&rpar;](http://www.techmeme.com/251007/p2#a251007p2)<!-- TECH:END -->
+ - [Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More](https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

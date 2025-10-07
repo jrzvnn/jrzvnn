@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)
- - [The best robot vacuum and mop to buy right now](https://www.theverge.com/tech/625409/best-robot-vacuum-mops)
- - [The excellent Pixel 9A has dropped to just $349 for Amazon’s fall Prime Day](https://www.theverge.com/tech/789306/amazon-october-prime-day-google-pixel-9a-deal-sale-2025)
- - [Apple turned the CrowdStrike BSOD issue into an anti-PC ad](https://www.theverge.com/news/794185/apple-bsod-crowdstrike-windows-pc-ad-commercial)
- - [Google&amp;#8217;s extreme smart home makeover](https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast)<!-- TECH:END -->
+ - [EvenUp, which makes AI tools for personal injury law firms, raised a $150M Series E led by Bessemer at a $2B+ valuation, bringing its total funding to $385M &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251007/p13#a251007p13)
+ - [Best Prime Day Beauty Deals 2025: Hair, Skin, and Deodorant](https://www.wired.com/story/prime-day-beauty-deals-october-2025/)
+ - [Google hints at a new Nest Hub](https://www.theverge.com/news/794298/new-nest-hub-smart-display-google-home-coming-soon)
+ - [The Best Wi-Fi 7 Mesh Router for Most People Hits Its Lowest Price Ever](https://www.wired.com/story/netgear-orbi-770-series-prime-day-2025/)
+ - [The best iPad to buy](https://www.theverge.com/23639378/best-ipad-apple-buy-model-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

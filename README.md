@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
- - 💣 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)
- - 😝 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)
- - 👉 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)<!-- MEMES:END -->
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 😝 [Me the last years as a gold investor](http://9gag.com/gag/aRBNz7Q)
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
 

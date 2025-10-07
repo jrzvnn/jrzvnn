@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 😝 [Proof Americans are always the entitled little rats they are](http://9gag.com/gag/agmZ43v)
+ - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
  - 😝 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
- - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
+ - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
 
 ---
 

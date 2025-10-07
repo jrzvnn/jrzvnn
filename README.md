@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech is ‘donating’ to Trump’s ‘nonprofits’](https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator)
  - [Google&amp;#8217;s latest AI model uses a web browser like you do](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
  - [The Solawave Wand Is the Best LED Device Prime Day Deal Right Now](https://www.wired.com/story/solawave-wand-deal-prime-day-october-2025/)
  - [Best Amazon Prime Day Kindle Deals &lpar;October 2025&rpar;: Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)
- - [Sources: New Jersey&#39;s AG is investigating the frequency of sexual violence during Uber rides and whether Uber has misrepresented the safety of its service &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/251007/p30#a251007p30)
- - [The 190 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)<!-- TECH:END -->
+ - [Sources: New Jersey&#39;s AG is investigating the frequency of sexual violence during Uber rides and whether Uber has misrepresented the safety of its service &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/251007/p30#a251007p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

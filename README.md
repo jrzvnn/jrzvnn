@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 162 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025/)
  - [FurtherAI, which uses AI to automate insurance tasks such as claims processing, raised a $25M Series A led by a16z, bringing its total funding to $30M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251007/p16#a251007p16)
  - [Qualcomm is acquiring DIY electronics platform Arduino](https://www.theverge.com/news/794452/qualcomm-arduino-acquisition-uno-q)
- - [Find My on iPhone key to UK cops smashing major smartphone theft ring](https://appleinsider.com/articles/25/10/07/find-my-on-iphone-key-to-uk-cops-smashing-major-smartphone-theft-ring?utm_source=rss)
- - [The Best Prime Day Pet Deals &lpar;October 2025&rpar;](https://www.wired.com/story/prime-day-pet-deals-october-2025/)
- - [JPMorgan Chase reports that $1.2T of debt is now tied to AI-related companies, making it the largest segment in the investment-grade market &lpar;Caleb Mutua/Bloomberg&rpar;](http://www.techmeme.com/251007/p15#a251007p15)<!-- TECH:END -->
+ - [Find My on iPhone key to UK cops smashing major smartphone theft ring](https://appleinsider.com/articles/25/10/07/find-my-on-iphone-key-to-uk-cops-smashing-major-smartphone-theft-ring?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

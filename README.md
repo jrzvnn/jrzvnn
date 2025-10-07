@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
- - 💣 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)
- - 😝 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
- - 👉 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)<!-- MEMES:END -->
+ - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
+ - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 😝 [Me the last years as a gold investor](http://9gag.com/gag/aRBNz7Q)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
 

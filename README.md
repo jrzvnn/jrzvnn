@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
  - 😝 [You guys have seggs ?](http://9gag.com/gag/aVv1KD2)
  - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 😝 [This is the coolest screensaver you could have in the 2000&#39;s](http://9gag.com/gag/aVv1ZVv)
+ - 👉 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)<!-- MEMES:END -->
 
 ---
 

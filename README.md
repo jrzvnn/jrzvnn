@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 💣 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 😝 [Very brief time in history that I&#39;m proud to have been part of](http://9gag.com/gag/aByNEx2)
+ - 😝 [Feeling down?](http://9gag.com/gag/a1mqVQP)
+ - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 😝 [They are GM for the reason](http://9gag.com/gag/abAmx3B)
+ - 👉 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)<!-- MEMES:END -->
 
 ---
 

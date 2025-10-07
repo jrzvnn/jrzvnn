@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta updates Reels on Facebook to prioritize showing fresher and more-relevant content, and adds AI search suggestions and friend bubbles like on Instagram &lpar;Katelyn Chedraoui/CNET&rpar;](http://www.techmeme.com/251007/p22#a251007p22)
  - [Apple’s latest iPad is down to its best price yet for October Prime Day](https://www.theverge.com/tech/794046/amazon-october-prime-day-11th-gen-ipad-air-pro-deal-sale-2025)
  - [Save 25 Percent on This Sonos Prime Day Soundbar Deal](https://www.wired.com/story/prime-day-soundbar-deal-october-2025/)
  - [AltStore, one of the first alternative app stores in the EU, raised a $6M Series A led by Pace Capital, aims to launch in Australia, Brazil, and Japan in 2025 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251007/p21#a251007p21)
- - [Dyson&#39;s Best Vacuum Is on Sale for $180 Off Its Regular Price](https://www.wired.com/story/dyson-v15-detect-plus-sale-prime-day-october-2025/)
- - [This Sleep Mask Changed My Life and It&#39;s on Sale &lpar;2025&rpar;](https://www.wired.com/story/manta-sleep-mask-amazon-prime-day-sale/)<!-- TECH:END -->
+ - [Dyson&#39;s Best Vacuum Is on Sale for $180 Off Its Regular Price](https://www.wired.com/story/dyson-v15-detect-plus-sale-prime-day-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

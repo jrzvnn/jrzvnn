@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s ‘affordable’ EVs are just stripped down versions of the Model 3 and Model Y](https://www.theverge.com/transportation/793302/tesla-model-y-moidel-3-standard-affordable-price-specs-photo)
+ - [Apple&#39;s F1 streaming deal may be on the final lap](https://appleinsider.com/articles/25/10/07/apples-f1-streaming-deal-may-be-on-the-final-lap?utm_source=rss)
  - [Ultrahuman&#39;s Tracker Ring Requires No Subscription, and It’s Under $300 for Prime Day](https://www.wired.com/story/ultrahuman-prime-day-2025/)
  - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [We Found the 214 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025/)
- - [The Best Prime Day TV Deals &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-october-2025/)
- - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)<!-- TECH:END -->
+ - [We Found the 214 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

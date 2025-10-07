@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google&amp;#8217;s extreme smart home makeover](https://www.theverge.com/podcast/794067/google-smart-home-gemini-peloton-ai-vergecast)
+ - [The Underdogs return to attack the Windows Blue Screen of Death](https://appleinsider.com/articles/25/10/07/the-underdogs-return-to-attack-the-windows-blue-screen-of-death?utm_source=rss)
  - [Meanwhile, a Bermuda-regulated bitcoin life insurance provider, raised $82M from Apollo, Bain Capital, Haun Ventures, and others, after a $40M Series A in April &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251007/p12#a251007p12)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)
- - [California bans noisy ads on Netflix, YouTube, and other streaming services](https://www.theverge.com/news/794145/california-law-noisy-ad-volume-streaming-services)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [12 Best Wi-Fi Routers of 2025 for Working, Gaming, and Streaming](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

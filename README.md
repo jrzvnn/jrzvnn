@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 😝 [They are GM for the reason](http://9gag.com/gag/abAmx3B)
- - 💣 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)
- - 😝 [My charcoal practice](http://9gag.com/gag/azxDOob)
- - 👉 [Fall is here](http://9gag.com/gag/aD2NZdO)<!-- MEMES:END -->
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [My nightmares be like](http://9gag.com/gag/aryrZbV)
+ - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 😝 [The father is simply setting priorities!](http://9gag.com/gag/a87Xe93)
+ - 👉 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)<!-- MEMES:END -->
 
 ---
 

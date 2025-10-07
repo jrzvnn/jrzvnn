@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Our Favorite Prime Day Deals on Cold-Weather Home Essentials &lpar;2025&rpar;](https://www.wired.com/story/prime-day-household-cold-weather-gear-2025/)
  - [The 25 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
  - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
- - [Some of our favorite gadgets are cheaper than ever for fall Prime Day](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
- - [Sources: xAI nears a deal to raise $20B in equity and debt, tied to the Nvidia GPUs that xAI plans to use in Colossus 2; Nvidia is investing as much as $2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251007/p31#a251007p31)<!-- TECH:END -->
+ - [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

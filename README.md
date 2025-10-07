@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
  - 😝 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
- - 💣 [Good &#39;ol Tesla. The cameras see everything.](http://9gag.com/gag/a9yN2yD)
+ - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
  - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
- - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
+ - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 ---
 

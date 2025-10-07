@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 😝 [They are GM for the reason](http://9gag.com/gag/abAmx3B)
- - 💣 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
+ - 😝 [I know they&#39;ll delete it](http://9gag.com/gag/a2vjDBe)
+ - 💣 [They are GM for the reason](http://9gag.com/gag/abAmx3B)
+ - 😝 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)
  - 👉 [Golden Peak in gaming history](http://9gag.com/gag/aE0NWLM)<!-- MEMES:END -->
 
 ---

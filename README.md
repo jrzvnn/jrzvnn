@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best robot vacuum deals you can snag during Amazon’s fall Prime Day sale](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [The Best Anti-Prime Day Deals for Amazon Haters &lpar;2025&rpar;: Sheets, Sex Tech, and Fire Pits](https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025/)
- - [Save hundreds of dollars on these best monitor deals for your Mac &amp; iPad](https://appleinsider.com/articles/25/10/07/save-hundreds-of-dollars-on-these-best-monitor-deals-for-your-mac-ipad?utm_source=rss)
- - [Microsoft delays Xbox Game Pass Ultimate price hikes for some subscribers](https://www.theverge.com/news/794032/microsoft-xbox-game-pass-ultimate-price-changes-countries)
- - [Docusign&#39;s stock dropped 12% last week after OpenAI revealed an internal DocuGPT demo, highlighting OpenAI&#39;s potential sway over the current software market &lpar;Wired&rpar;](http://www.techmeme.com/251007/p24#a251007p24)<!-- TECH:END -->
+ - [Mastodon snags Bluesky&amp;#8217;s starter packs feature and includes the ability to opt out](https://www.theverge.com/news/794988/mastodon-bluesky-starter-packs-fediverse)
+ - [Xbox Series X/S storage expansion cards haven&amp;#8217;t been this cheap since July](https://www.theverge.com/tech/698725/amazon-october-prime-day-xbox-storage-expansion-card-deal-sale-2025)
+ - [Cozy Earth&#39;s Prime Day Sale &lpar;2025&rpar;: Sheets, Pajamas, Socks and More on Deep Discount](https://www.wired.com/story/cozy-earth-prime-day-sale-october-2025/)
+ - [Best Prime Day Apple iPad Deals](https://www.wired.com/story/apple-ipad-prime-day-sale-october-2025/)
+ - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

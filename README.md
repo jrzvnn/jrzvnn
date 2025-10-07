@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jimmy Fallon wants to turn Wordle into a TV show](https://www.theverge.com/news/795536/wordle-tv-game-show-jimmy-fallon-savannah-guthrie-nbc)
- - [Philips Hue customizable string lights are $50 off for October Prime Day](https://www.theverge.com/tech/792811/amazon-october-prime-day-philips-hue-festavia-string-lights-deal-sale)
- - [Big Tech is ‘donating’ to Trump’s ‘nonprofits’](https://www.theverge.com/column/794975/big-tech-trump-nonprofits-donations-regulator)
- - [Google&amp;#8217;s latest AI model uses a web browser like you do](https://www.theverge.com/news/795463/google-computer-use-gemini-ai-model-agents)
- - [Verizon Replaces CEO Vestberg With Former PayPal Chief Schulman](https://www.cnet.com/tech/mobile/verizon-replaces-ceo-vestberg-with-former-paypal-chief-schulman/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 25 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
+ - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
+ - [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
+ - [Some of our favorite gadgets are cheaper than ever for fall Prime Day](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
+ - [Sources: xAI nears a deal to raise $20B in equity and debt, tied to the Nvidia GPUs that xAI plans to use in Colossus 2; Nvidia is investing as much as $2B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251007/p31#a251007p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

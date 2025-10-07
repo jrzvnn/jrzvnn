@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Power Bank Prime Day Deals](https://www.wired.com/story/power-banks-prime-big-deal-days-2025/)
- - [OpenAI&#39;s recent deals with Oracle, Nvidia, Samsung, AMD, SK Hynix, and others, plus its DevDay announcements, show it is making a play to be the Windows of AI &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251007/p11#a251007p11)
- - [Dwindling iPad Pro &amp; MacBook Pro supplies herald imminent update](https://appleinsider.com/articles/25/10/07/dwindling-ipad-pro-macbook-pro-dwindling-supplies-herald-imminent-update?utm_source=rss)
- - [Best Amazon Prime Day Kindle Deals &lpar;October 2025&rpar;: Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)
- - [We Found the 192 Absolute Best Prime Day Deals: iPads, Office Chairs &amp; More](https://www.wired.com/story/prime-day-deals-october-2025/)<!-- TECH:END -->
+ - [The best Apple deals available during Amazon’s fall Prime Day event](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
+ - [You Can Buy This Amazing Alienware QD-OLED Monitor for a Third of What I Paid During Prime Day](https://www.wired.com/story/dell-alienware-aw3423dw-prime-day-2025/)
+ - [The Best Discounts We&#39;ve Found From the Walmart Deals Sale &lpar;2025&rpar;](https://www.wired.com/story/best-walmart-deals-october-2025/)
+ - [Best Prime Day Fitness Tracker Deals &lpar;2025&rpar;: Ultrahuman, Fitbit, Amazfit, and More](https://www.wired.com/story/best-prime-day-fitness-trackers-2025/)
+ - [Google Pixel 9a Sees Its First Major Discount for Prime Big Deal Days](https://www.wired.com/story/google-pixel-9a-prime-day-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

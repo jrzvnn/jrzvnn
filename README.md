@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
  - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
+ - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
  - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 😝 [Me the last years as a gold investor](http://9gag.com/gag/aRBNz7Q)
+ - 😝 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
  - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---

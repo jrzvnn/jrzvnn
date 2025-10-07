@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - 😝 [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - 💣 [Actually happening every day...](http://9gag.com/gag/aXPGWL9)
- - 😝 [It is that time of the year](http://9gag.com/gag/aD2NVn9)
- - 👉 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)<!-- MEMES:END -->
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
+ - 💣 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
 
 ---
 

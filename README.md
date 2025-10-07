@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
  - 😝 [Bad Chad - Good Dad?](http://9gag.com/gag/a2vj0MD)
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [Yeah, baby! Shall we shag now, or shag later?](http://9gag.com/gag/aByNEq1)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 💣 [How deep is your love](http://9gag.com/gag/aByNVXA)
+ - 😝 [Golden Peak in gaming history](http://9gag.com/gag/aE0NWLM)
  - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
 
 ---

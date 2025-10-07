@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 💣 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
- - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 😝 [That&#39;s just common sense nowadays](http://9gag.com/gag/aW4NbOx)
+ - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 💣 [Actually happening every day...](http://9gag.com/gag/aXPGWL9)
+ - 😝 [Golden Peak in gaming history](http://9gag.com/gag/aE0NWLM)
+ - 👉 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)<!-- MEMES:END -->
 
 ---
 

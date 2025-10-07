@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Even better than the punk caterpillar!](http://9gag.com/gag/aLnN4x5)
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 💣 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 😝 [They are GM for the reason](http://9gag.com/gag/abAmx3B)
+ - 💣 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)
+ - 😝 [And that&#39;s how I met your mother](http://9gag.com/gag/aYQnqYV)
+ - 👉 [Golden Peak in gaming history](http://9gag.com/gag/aE0NWLM)<!-- MEMES:END -->
 
 ---
 

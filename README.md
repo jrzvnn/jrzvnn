@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 166 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [19 Best Prime Day Tech Deals](https://www.wired.com/story/best-prime-day-tech-deals-october-2025/)
- - [Qualcomm acquires Italian open-source electronics platform Arduino for an undisclosed sum and will retain the Arduino brand; Arduino releases a Pi-like board &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251007/p20#a251007p20)
- - [Sources: when Trump criticized Lip-Bu Tan in August, Satya Nadella, Jensen Huang, Michael Dell, and others spoke to Trump or his aides to vouch for Tan &lpar;Semafor&rpar;](http://www.techmeme.com/251007/p19#a251007p19)
- - [OpenAI Sneezes, and Software Firms Catch a Cold](https://www.wired.com/story/openai-chatgpt-docusign-saas-market/)<!-- TECH:END -->
+ - [Apple’s latest iPad is down to its best price yet for October Prime Day](https://www.theverge.com/tech/794046/amazon-october-prime-day-11th-gen-ipad-air-pro-deal-sale-2025)
+ - [Save 25 Percent on This Sonos Prime Day Soundbar Deal](https://www.wired.com/story/prime-day-soundbar-deal-october-2025/)
+ - [AltStore, one of the first alternative app stores in the EU, raised a $6M Series A led by Pace Capital, aims to launch in Australia, Brazil, and Japan in 2025 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251007/p21#a251007p21)
+ - [Dyson&#39;s Best Vacuum Is on Sale for $180 Off Its Regular Price](https://www.wired.com/story/dyson-v15-detect-plus-sale-prime-day-october-2025/)
+ - [This Sleep Mask Changed My Life and It&#39;s on Sale &lpar;2025&rpar;](https://www.wired.com/story/manta-sleep-mask-amazon-prime-day-sale/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

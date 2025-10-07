@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bluetti&#39;s latest Colorful Elite 30 V2 is joined by excellent Prime Big Deal Days discounts](https://appleinsider.com/articles/25/10/07/bluettis-latest-colorful-elite-30-v2-is-joined-by-excellent-prime-big-deal-days-discounts?utm_source=rss)
  - [Some Verge-favorite gadgets are cheaper than ever for fall Prime Day](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
  - [Bushnell’s new Bluetooth speaker has a touchscreen and golf caddy ambitions](https://www.theverge.com/news/795060/bushnell-wingman-hd-color-screen-bluetooth-wireless-speaker-golf)
  - [Tesla’s ‘affordable’ EVs are just stripped down versions of the Model 3 and Model Y](https://www.theverge.com/transportation/793302/tesla-model-y-moidel-3-standard-affordable-price-specs-photo)
- - [The Petkit PuraMax 2 Is $150 Off Right Now](https://www.wired.com/story/petkit-puramax-2-prime-big-deal-day-deal/)
- - [Apple&#39;s F1 streaming deal may be on the final lap](https://appleinsider.com/articles/25/10/07/apples-f1-streaming-deal-may-be-on-the-final-lap?utm_source=rss)<!-- TECH:END -->
+ - [The Petkit PuraMax 2 Is $150 Off Right Now](https://www.wired.com/story/petkit-puramax-2-prime-big-deal-day-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

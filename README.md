@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+ - [HyperSpace Trackpad Pro Hands-On: A Windows Answer to Apple’s Magic Trackpad](https://www.wired.com/story/hyper-hyperspace-trackpad-pro/)
  - [The 162 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
  - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025/)
- - [FurtherAI, which uses AI to automate insurance tasks such as claims processing, raised a $25M Series A led by a16z, bringing its total funding to $30M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251007/p16#a251007p16)
- - [Qualcomm is acquiring DIY electronics platform Arduino](https://www.theverge.com/news/794452/qualcomm-arduino-acquisition-uno-q)
- - [Find My on iPhone key to UK cops smashing major smartphone theft ring](https://appleinsider.com/articles/25/10/07/find-my-on-iphone-key-to-uk-cops-smashing-major-smartphone-theft-ring?utm_source=rss)<!-- TECH:END -->
+ - [FurtherAI, which uses AI to automate insurance tasks such as claims processing, raised a $25M Series A led by a16z, bringing its total funding to $30M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251007/p16#a251007p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

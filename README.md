@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s just common sense nowadays](http://9gag.com/gag/aW4NbOx)
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
  - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
- - 💣 [Actually happening every day...](http://9gag.com/gag/aXPGWL9)
- - 😝 [Golden Peak in gaming history](http://9gag.com/gag/aE0NWLM)
- - 👉 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)<!-- MEMES:END -->
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)
+ - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
 
 ---
 

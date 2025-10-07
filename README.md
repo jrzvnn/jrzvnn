@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)
- - [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
- - [The Petcube Cam 360 Is $16 Off for Prime Day](https://www.wired.com/story/petcube-360-cam-prime-big-deal-day-deal/)
- - [iPhone 17e rumors: Dynamic Island, A19 chip, and more](https://appleinsider.com/articles/25/10/07/iphone-17e-rumors-dynamic-island-a19-chip-and-more?utm_source=rss)
- - [Mastodon snags Bluesky&amp;#8217;s starter packs feature and includes the ability to opt out](https://www.theverge.com/news/794988/mastodon-bluesky-starter-packs-fediverse)<!-- TECH:END -->
+ - [Ultrahuman&#39;s Tracker Ring Requires No Subscription, and It’s Under $300 for Prime Day](https://www.wired.com/story/ultrahuman-prime-day-2025/)
+ - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+ - [We Found the 214 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025/)
+ - [The Best Prime Day TV Deals &lpar;2025&rpar;](https://www.wired.com/story/prime-day-tv-deals-october-2025/)
+ - [The Verge&amp;#8217;s Guide to Amazon&amp;#8217;s October Prime Day Event 2025](https://www.theverge.com/tech/782478/october-amazon-prime-day-deals-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

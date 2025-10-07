@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)
- - 💣 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 👉 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)<!-- MEMES:END -->
+ - 😝 [Me the last years as a gold investor](http://9gag.com/gag/aRBNz7Q)
+ - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
 

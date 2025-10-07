@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [How it&#39;s even possible](http://9gag.com/gag/apRjPYD)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [The best things in life are free, not gratis!](http://9gag.com/gag/aQzNmg2)
+ - 😝 [The business man. The opportunist](http://9gag.com/gag/a6Z3n4L)
+ - 😝 [They are GM for the reason](http://9gag.com/gag/abAmx3B)
+ - 💣 [Dont bite off more than you can chew](http://9gag.com/gag/ae9PxMQ)
+ - 😝 [My charcoal practice](http://9gag.com/gag/azxDOob)
  - 👉 [Fall is here](http://9gag.com/gag/aD2NZdO)<!-- MEMES:END -->
 
 ---

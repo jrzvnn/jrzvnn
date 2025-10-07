@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Fall is here](http://9gag.com/gag/aD2NZdO)
+ - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
  - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 😝 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
- - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
+ - 👉 [It&#39;s that easy to get a cell phone in India.](http://9gag.com/gag/a34pyj3)<!-- MEMES:END -->
 
 ---
 

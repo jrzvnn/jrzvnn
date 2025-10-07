@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA resurrects nearly 20-year-old &#39;MySims&#39; games for Apple Arcade this November](https://appleinsider.com/articles/25/10/07/ea-resurrects-nearly-20-year-old-mysims-games-for-apple-arcade-this-november?utm_source=rss)
- - [Sources: Tesla abandoned Elon Musk&#39;s goal to make thousands of Optimus robots in 2025 due to significant technical challenges, especially with the robots&#39; hands &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251007/p18#a251007p18)
- - [Get a bonus 15% off on top of Prime Day deals on Ottocast&#39;s new CarPlay adapters](https://appleinsider.com/articles/25/10/07/get-a-bonus-15-off-on-top-of-prime-day-deals-on-ottocasts-new-carplay-adapters?utm_source=rss)
- - [Police bust gang suspected of stealing 40,000 phones](https://www.theverge.com/news/794538/police-busts-gang-suspected-of-stealing-40000-phones)
- - [Docs: Oracle generated ~$900M from its Nvidia cloud server rental business, with a $125M gross profit, or a 14% margin, vs. its ~70% overall gross profit margin &lpar;The Information&rpar;](http://www.techmeme.com/251007/p17#a251007p17)<!-- TECH:END -->
+ - [The 166 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [19 Best Prime Day Tech Deals](https://www.wired.com/story/best-prime-day-tech-deals-october-2025/)
+ - [Qualcomm acquires Italian open-source electronics platform Arduino for an undisclosed sum and will retain the Arduino brand; Arduino releases a Pi-like board &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251007/p20#a251007p20)
+ - [Sources: when Trump criticized Lip-Bu Tan in August, Satya Nadella, Jensen Huang, Michael Dell, and others spoke to Trump or his aides to vouch for Tan &lpar;Semafor&rpar;](http://www.techmeme.com/251007/p19#a251007p19)
+ - [OpenAI Sneezes, and Software Firms Catch a Cold](https://www.wired.com/story/openai-chatgpt-docusign-saas-market/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

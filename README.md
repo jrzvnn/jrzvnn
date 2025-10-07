@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Solawave Wand Is the Best LED Device Prime Day Deal Right Now](https://www.wired.com/story/solawave-wand-deal-prime-day-october-2025/)
+ - [Best Amazon Prime Day Kindle Deals &lpar;October 2025&rpar;: Colorsoft, Scribe, Paperwhite](https://www.wired.com/story/amazon-prime-day-kindle-deals-october-2025/)
  - [Sources: New Jersey&#39;s AG is investigating the frequency of sexual violence during Uber rides and whether Uber has misrepresented the safety of its service &lpar;Emily Steel/New York Times&rpar;](http://www.techmeme.com/251007/p30#a251007p30)
  - [The 190 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [75 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)
- - [The Tesla Model Y and Model 3 Standard Are Cheaper—but Still Not Cheap](https://www.wired.com/story/tesla-model-y-and-model-3-standard-are-cheaper-but-still-not-cheap/)
- - [Sources: Elon Musk has appointed former Morgan Stanley banker Anthony Armstrong as CFO of xAI; he will also take over financial management for X &lpar;Financial Times&rpar;](http://www.techmeme.com/251007/p29#a251007p29)<!-- TECH:END -->
+ - [75 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

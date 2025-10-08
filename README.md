@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: top Chinese VCs are close to raising up to $1.1B in total USD-denominated funds in 2025, marking a tentative return of global capital to Chinese tech &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p7#a251008p7)
+ - [Chinese silicon wafer manufacturers like Eswin have rapidly gained market share by undercutting global leaders, such as Japan&#39;s Shin-Etsu Chemical, on price &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251008/p6#a251008p6)
  - [UK filings: Revolut CEO and largest shareholder Nik Storonsky has shifted his residency from the UK to the UAE; Revolut is awaiting a full UK banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p5#a251008p5)
  - [The Linux Foundation will launch the React Foundation, a new home for Meta&#39;s React and React Native; founding members include Amazon, Meta, Microsoft, others &lpar;Engineering at Meta&rpar;](http://www.techmeme.com/251008/p4#a251008p4)
- - [Sources: OpenAI and Anthropic consider using investor funds to settle potential claims from multibillion-dollar lawsuits, as insurers balk at covering AI risks &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p3#a251008p3)
- - [Raise Financial Services, the parent company of Indian stock trading and investment app Dhan, raised $120M led by Hornbill Capital at a $1.2B valuation &lpar;Kunal Manchanada/Entrackr&rpar;](http://www.techmeme.com/251008/p2#a251008p2)
- - [Sources: $TRUMP issuer, Fight Fight Fight LLC, is working to raise at least $200M to create a digital asset treasury company to accumulate the struggling token &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p1#a251008p1)<!-- TECH:END -->
+ - [Sources: OpenAI and Anthropic consider using investor funds to settle potential claims from multibillion-dollar lawsuits, as insurers balk at covering AI risks &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p3#a251008p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

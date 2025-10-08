@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK filings: Revolut CEO and largest shareholder Nik Storonsky has shifted his residency from the UK to the UAE; Revolut is awaiting a full UK banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p5#a251008p5)
+ - [The Linux Foundation will launch the React Foundation, a new home for Meta&#39;s React and React Native; founding members include Amazon, Meta, Microsoft, others &lpar;Engineering at Meta&rpar;](http://www.techmeme.com/251008/p4#a251008p4)
  - [Sources: OpenAI and Anthropic consider using investor funds to settle potential claims from multibillion-dollar lawsuits, as insurers balk at covering AI risks &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p3#a251008p3)
  - [Raise Financial Services, the parent company of Indian stock trading and investment app Dhan, raised $120M led by Hornbill Capital at a $1.2B valuation &lpar;Kunal Manchanada/Entrackr&rpar;](http://www.techmeme.com/251008/p2#a251008p2)
- - [Sources: $TRUMP issuer, Fight Fight Fight LLC, is working to raise at least $200M to create a digital asset treasury company to accumulate the struggling token &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p1#a251008p1)
- - [The 207 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-8/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: $TRUMP issuer, Fight Fight Fight LLC, is working to raise at least $200M to create a digital asset treasury company to accumulate the struggling token &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p1#a251008p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

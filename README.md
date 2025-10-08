@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I never lose my wallet with Nomad&amp;#8217;s slim tracker, which is 20 percent off right now](https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025)
+ - [You can still save up to 70 percent on headphones from Bose and Sony today](https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025)
+ - [A bunch of 4K Blu-ray movies we love are under $20 for Prime Day](https://www.theverge.com/tech/787694/amazon-october-prime-day-4k-bluray-uhd-movie-deal-sale-2025)
  - [Crypto exchange Gemini launches an Australian arm, Gemini Intergalactic Australia, to offer its services in the country after registering with regulator AUSTRAC &lpar;Reuters&rpar;](http://www.techmeme.com/251008/p46#a251008p46)
- - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)
- - [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Our favorite batteries and chargers are on sale for October Prime Day](https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025)
- - [The Dell 14 Plus Is Now Only $650](https://www.wired.com/story/dell-14-plus-prime-day-2025/)<!-- TECH:END -->
+ - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

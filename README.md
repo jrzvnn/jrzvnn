@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 💣 [Just a tourist place in Norway](http://9gag.com/gag/aByNGzz)
- - 😝 [It just makes sense.](http://9gag.com/gag/ajPMZz1)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 😝 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
+ - 👉 [Milkmaid lifestyle](http://9gag.com/gag/a4PrALv)<!-- MEMES:END -->
 
 ---
 

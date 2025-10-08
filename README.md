@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is putting prescription drugs in vending machines](https://www.theverge.com/news/796076/amazon-pharmacy-prescription-drug-vending-machine-kiosks)
- - [SoftBank makes a $5.4 billion bet on AI robots](https://www.theverge.com/news/796068/softbank-bets-on-ai-robots)
- - [Our favorite batteries and chargers are on sale for October Prime Day](https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025)
- - [The AirPods 4 are just $89, matching their best price to date during October Prime Day](https://www.theverge.com/tech/792480/amazon-october-prime-day-airpods-4-anc-deal-sale-2025)
- - [Get a Prime Day Discount on Belkin’s Best 3-in-1 Apple Wireless Charger](https://www.wired.com/story/belkin-3-in-1-wireless-charger-prime-day-october-2025/)<!-- TECH:END -->
+ - [It was Pikmin all along](https://www.theverge.com/games/796094/nintendo-close-to-you-video-pikmin)
+ - [China&#39;s Cyberspace Administration launched a two-month campaign in late September to combat &quot;excessively pessimistic sentiment&quot; on social media, per a notice &lpar;Lily Kuo/New York Times&rpar;](http://www.techmeme.com/251008/p26#a251008p26)
+ - [Jensen Huang says AMD&#39;s deal to offer 10% of itself to OpenAI is &quot;surprising&quot; and &quot;imaginative&quot; considering AMD was &quot;so excited about&quot; its next-generation chip &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251008/p25#a251008p25)
+ - [Apple&#39;s EU Digital Markets Act antitrust debacle may be settled soon](https://appleinsider.com/articles/25/10/08/apples-eu-digital-markets-act-antitrust-debacle-may-be-settled-soon?utm_source=rss)
+ - [Google Pixel 10 and Pixel 10 Pro Are on Sale for Prime Big Deal Days](https://www.wired.com/story/google-pixel-10-sale-amazon-prime-big-deal-days-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

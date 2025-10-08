@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We Found the 276 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
- - [The Moto G Power 5G Is Down to Just $200 Right Now](https://www.wired.com/story/moto-g-power-5g-2025-prime-big-deal-days/)
- - [Cisco unveils the Silicon One P200 chip and 8223 routing systems, saying they allow for faster data transfers across long optic cables, to compete with Broadcom &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251008/p27#a251008p27)
- - [It was Pikmin all along](https://www.theverge.com/games/796094/nintendo-close-to-you-video-pikmin)
- - [China&#39;s Cyberspace Administration launched a two-month campaign in late September to combat &quot;excessively pessimistic sentiment&quot; on social media, per a notice &lpar;Lily Kuo/New York Times&rpar;](http://www.techmeme.com/251008/p26#a251008p26)<!-- TECH:END -->
+ - [German officials say they will vote against the EU&#39;s &quot;Chat Control&quot; proposals, signaling the bloc will not have enough support ahead of an October 14 vote &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p28#a251008p28)
+ - [Synology caves &amp; allows all hard drives in 2025 NAS range - for now](https://appleinsider.com/articles/25/10/08/synology-caves-allows-all-hard-drives-in-2025-nas-range---for-now?utm_source=rss)
+ - [Anker’s portable Nebula P1 projector has a pair of detachable wireless speakers](https://www.theverge.com/news/796129/anker-soundcore-nebula-p1-portable-projector-bluetooth-speakers)
+ - [TAG Heuer&#39;s New Smartwatch Ditches Google&#39;s Wear OS to Be Apple Friendly](https://www.wired.com/story/tag-heuer-connected-calibre-e5/)
+ - [The Best Discounts We&#39;ve Found From the Walmart Deals Sale &lpar;2025&rpar;](https://www.wired.com/story/best-walmart-deals-october-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

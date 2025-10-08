@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Josh Wallace Kerrigan, also known as Neural Viz, an independent creator using Midjourney, Runway, and other AI tools to create a cinematic universe &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/251007/p32#a251007p32)
- - [The electric screwdriver I use for DIY projects is 40 percent off right now](https://www.theverge.com/tech/792618/amazon-october-prime-day-hoto-electric-screwdriver-deal-tools-sale-2025)
- - [NPR podcasting strategy chief reportedly joining Apple](https://appleinsider.com/articles/25/10/08/npr-podcasting-strategy-chief-reportedly-joining-apple?utm_source=rss)
- - [Prime Day 2025 Gets A Hot Start With the Best Sonos Era 100 Deal Yet](https://www.wired.com/story/prime-day-sonos-era-100-deal-october-25/)
- - [Brother MFC-J4335DW INKvestment Tank printer review: Decent, but know what you&#39;re signing up for](https://appleinsider.com/articles/25/10/08/brother-mfc-j4335dw-inkvestment-tank-printer-review-decent-but-know-what-youre-signing-up-for?utm_source=rss)<!-- TECH:END -->
+ - [Anthropic plans to open its first Indian office in Bengaluru in early 2026; Dario Amodei is visiting India to meet government officials and potential partners &lpar;Anthropic&rpar;](http://www.techmeme.com/251007/p33#a251007p33)
+ - [The 200 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
+ - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+ - [We dug through thousands of Prime Day deals to find 60 standouts for $50 or less](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
+ - [The Best Budget Headphone Deals on Prime Day](https://www.wired.com/story/best-prime-day-budget-headphone-deals-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

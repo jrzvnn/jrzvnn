@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new iPhone setting will stop CarPlay from stealing your AirPods&amp;#8217; audio](https://www.theverge.com/news/796554/iphone-ios-26-keep-airpods-wireless-headphones-connected-carplay)
- - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025-1/)
- - [Chicago-based stablecoin payments startup Coinflow raised a $25M Series A led by Pantera and says it supports stablecoin-powered payments in 170+ countries &lpar;CoinDesk&rpar;](http://www.techmeme.com/251008/p33#a251008p33)
- - [Canadians can now opt in to hypertension monitoring on Apple Watch](https://appleinsider.com/articles/25/10/08/canadians-can-now-opt-in-to-hypertension-monitoring-on-apple-watch?utm_source=rss)
- - [Germany&#39;s Federal Cartel Office opens an investigation into whether Temu is influencing the pricing of third-party merchants, potentially stifling competition &lpar;Mark Hallam/DW News&rpar;](http://www.techmeme.com/251008/p32#a251008p32)<!-- TECH:END -->
+ - [Google Pixel Watch 4 vs. Apple Watch Ultra 3: Surprisingly Close](https://www.wired.com/story/google-pixel-watch-4-vs-apple-watch-ultra-3/)
+ - [Google Pixel Watch 4 Review: The Best Smartwatch for Android](https://www.wired.com/review/google-pixel-watch-4/)
+ - [UE’s Wonderboom 4 is great for music lovers, and it’s 34 percent off](https://www.theverge.com/tech/792452/amazon-october-prime-day-ue-wonderboom-4-bluetooth-speaker-deal-sale-2025)
+ - [Google Pixel 10 Pro Fold review: finally, a more durable foldable](https://www.theverge.com/tech/795298/google-pixel-10-pro-fold-review)
+ - [The Google Pixel Watch 4 is the Android watch to beat](https://www.theverge.com/tech/795383/google-pixel-watch-4-review-android-smartwatch-gemini-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

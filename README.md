@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: data streaming software maker Confluent is exploring a sale after attracting acquisition interest from PE firms and tech companies; CFLT jumps 9%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251008/p38#a251008p38)
  - [This Startup Wants to Spark a US DeepSeek Moment](https://www.wired.com/story/prime-intellect-startup-us-deepseek-moment/)
  - [Logitech’s MX Master 3S is one of the best wireless mice around, and it’s 25 percent off](https://www.theverge.com/tech/791722/amazon-october-prime-day-logitech-mx-master-3s-wireless-mouse-deal-sale-2025)
  - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
- - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
- - [New York-based Crosby, a law firm that uses AI to help speed up the contracts process, raised a $20M Series A co-led by Index Ventures, BCV, and Elad Gil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251008/p37#a251008p37)<!-- TECH:END -->
+ - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

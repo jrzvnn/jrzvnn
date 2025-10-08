@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 😝 [Chat Control defeated... for now](http://9gag.com/gag/aVv1Vjn)
- - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
+ - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 😝 [It just makes sense.](http://9gag.com/gag/ajPMZz1)
+ - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
 
 ---
 

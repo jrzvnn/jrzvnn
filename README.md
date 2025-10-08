@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scratch that -- Apple Stores try updating MagSafe chargers to stop &#39;scratchgate&#39;](https://appleinsider.com/articles/25/10/08/scratch-that----apple-stores-try-updating-magsafe-chargers-to-stop-scratchgate?utm_source=rss)
- - [My Most Trusted Jumpstarter Is Nearly Half Off Today](https://www.wired.com/story/gooloo-a3-jumpstarter-october-2025-prime-day/)
- - [Ex-execs slam Tim Cook for eroding Apple&#39;s moral authority after ICEBlock pull](https://appleinsider.com/articles/25/10/08/ex-execs-slam-tim-cook-for-eroding-apples-moral-authority-after-iceblock-pull?utm_source=rss)
- - [Open letter: 40+ European companies oppose the EU&#39;s &quot;Chat Control&quot; proposal, which forces services to scan messages for CSAM, fearing it would mandate backdoors &lpar;CryptPad Blog&rpar;](http://www.techmeme.com/251008/p24#a251008p24)
- - [Amazfit’s Active 2, one of our favorite fitness trackers, is a steal at just $81](https://www.theverge.com/tech/791143/amazon-october-prime-day-amazfit-active-2-deal-sale-2025)<!-- TECH:END -->
+ - [Amazon is putting prescription drugs in vending machines](https://www.theverge.com/news/796076/amazon-pharmacy-prescription-drug-vending-machine-kiosks)
+ - [SoftBank makes a $5.4 billion bet on AI robots](https://www.theverge.com/news/796068/softbank-bets-on-ai-robots)
+ - [Our favorite batteries and chargers are on sale for October Prime Day](https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025)
+ - [The AirPods 4 are just $89, matching their best price to date during October Prime Day](https://www.theverge.com/tech/792480/amazon-october-prime-day-airpods-4-anc-deal-sale-2025)
+ - [Get a Prime Day Discount on Belkin’s Best 3-in-1 Apple Wireless Charger](https://www.wired.com/story/belkin-3-in-1-wireless-charger-prime-day-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

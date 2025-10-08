@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/a34p28m)
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 👉 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)<!-- MEMES:END -->
+ - 😝 [Chat Control defeated... for now](http://9gag.com/gag/aVv1Vjn)
+ - 😝 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
+ - 💣 [Guess they didn&#39;t check the translation before getting these tattoos](http://9gag.com/gag/aMVNXLP)
+ - 😝 [Nice way to die](http://9gag.com/gag/ayNVQwq)
+ - 👉 [Update incoming.](http://9gag.com/gag/ayNVQ5M)<!-- MEMES:END -->
 
 ---
 

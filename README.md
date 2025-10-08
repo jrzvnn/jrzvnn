@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel Buds 2a review: ANC is a welcome addition and sound is detailed and punchy, but there&#39;s still no wireless charging and voice performance suffers &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/251008/p36#a251008p36)
+ - [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
  - [Here&amp;#8217;s how Apple is locking down iPhones to comply with Texas&amp;#8217; age verification law](https://www.theverge.com/news/796760/apple-iphones-ios-app-store-age-verification-law-texas-utah-louisiana)
  - [How to make an external bootable drive in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-make-an-external-bootable-drive-in-macos-tahoe?utm_source=rss)
- - [Developers must comply with new Texas age requirement law, and Apple has detailed how](https://appleinsider.com/articles/25/10/08/developers-must-comply-with-new-texas-age-requirement-law-and-apple-has-detailed-how?utm_source=rss)
- - [The 210 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [Verizon buys the not-quite-5G wireless ISP Starry to expand wireless broadband](https://www.theverge.com/news/796693/verizon-starry-acquisition-wireless-internet-mmwave)<!-- TECH:END -->
+ - [Developers must comply with new Texas age requirement law, and Apple has detailed how](https://appleinsider.com/articles/25/10/08/developers-must-comply-with-new-texas-age-requirement-law-and-apple-has-detailed-how?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

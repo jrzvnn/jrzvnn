@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto exchange Gemini launches an Australian arm, Gemini Intergalactic Australia, to offer its services in the country after registering with regulator AUSTRAC &lpar;Reuters&rpar;](http://www.techmeme.com/251008/p46#a251008p46)
  - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)
  - [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
  - [Our favorite batteries and chargers are on sale for October Prime Day](https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025)
- - [The Dell 14 Plus Is Now Only $650](https://www.wired.com/story/dell-14-plus-prime-day-2025/)
- - [ICEBlock isn&#39;t the only ICE-tracking app that Apple and Google have removed](https://appleinsider.com/articles/25/10/08/iceblock-isnt-the-only-ice-tracking-app-that-apple-and-google-have-removed?utm_source=rss)<!-- TECH:END -->
+ - [The Dell 14 Plus Is Now Only $650](https://www.wired.com/story/dell-14-plus-prime-day-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

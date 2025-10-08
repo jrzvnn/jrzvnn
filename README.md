@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We Found the 276 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
+ - [The Moto G Power 5G Is Down to Just $200 Right Now](https://www.wired.com/story/moto-g-power-5g-2025-prime-big-deal-days/)
  - [Cisco unveils the Silicon One P200 chip and 8223 routing systems, saying they allow for faster data transfers across long optic cables, to compete with Broadcom &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251008/p27#a251008p27)
  - [It was Pikmin all along](https://www.theverge.com/games/796094/nintendo-close-to-you-video-pikmin)
- - [China&#39;s Cyberspace Administration launched a two-month campaign in late September to combat &quot;excessively pessimistic sentiment&quot; on social media, per a notice &lpar;Lily Kuo/New York Times&rpar;](http://www.techmeme.com/251008/p26#a251008p26)
- - [Jensen Huang says AMD&#39;s deal to offer 10% of itself to OpenAI is &quot;surprising&quot; and &quot;imaginative&quot; considering AMD was &quot;so excited about&quot; its next-generation chip &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251008/p25#a251008p25)
- - [Apple&#39;s EU Digital Markets Act antitrust debacle may be settled soon](https://appleinsider.com/articles/25/10/08/apples-eu-digital-markets-act-antitrust-debacle-may-be-settled-soon?utm_source=rss)<!-- TECH:END -->
+ - [China&#39;s Cyberspace Administration launched a two-month campaign in late September to combat &quot;excessively pessimistic sentiment&quot; on social media, per a notice &lpar;Lily Kuo/New York Times&rpar;](http://www.techmeme.com/251008/p26#a251008p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-8/#ftag=CAD590a51e)
  - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_source=rss)
  - [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
  - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
- - [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)<!-- TECH:END -->
+ - [The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

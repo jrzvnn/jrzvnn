@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple has removed Eyes Up, which archives video evidence of ICE abuses, from the App Store; unlike ICEBlock, it doesn&#39;t share ICE officers&#39; real-time locations &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251008/p40#a251008p40)
- - [Scientist Who Was Offline &#39;Living His Best Life&#39; Stunned by Nobel Prize Win](https://www.wired.com/story/nobel-prize-medicine-immunology-2025/)
- - [One of our favorite hybrid mopping vacs just hit its lowest price yet](https://www.theverge.com/tech/795522/amazon-october-prime-day-robot-mop-eufy-x10-pro-omni-deal-sale)
- - [This BlackBerry-style iPhone keyboard case has an optional weight to improve its balance](https://www.theverge.com/news/796643/akko-metakey-case-blackberry-keyboard-iphone-16-17-pro-max)
- - [This LG C4 OLED Sale Is the Best Prime Day TV Deal](https://www.wired.com/story/lg-c4-oled-prime-day-deal-oct-2025/)<!-- TECH:END -->
+ - [The Petkit Eversweet Max 2 Is $23 Off Right Now](https://www.wired.com/story/petkit-eversweet-max-prime-big-deal-day-deal/)
+ - [Relace, which makes tools and specialized language models to help AI agents code faster for customers like Lovable and Figma, raised a $23M Series A led by a16z &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251008/p41#a251008p41)
+ - [Apple&#39;s iPhone Fold could use titanium and aluminum in the frame](https://appleinsider.com/articles/25/10/08/apples-iphone-fold-could-use-titanium-and-aluminum-in-the-frame?utm_source=rss)
+ - [The 218 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+ - [This Is the Best Smart Hummingbird Feeder I&#39;ve Tested, and It&#39;s $50 off Right Now](https://www.wired.com/story/bird-buddy-pro-hummingbird-prime-day-sale-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

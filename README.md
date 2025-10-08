@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 💣 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 😝 [Proof Americans are always the entitled little rats they are](http://9gag.com/gag/agmZ43v)
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
  - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 👉 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)<!-- MEMES:END -->
 
 ---
 

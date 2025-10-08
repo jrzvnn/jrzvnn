@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony’s System 6 Offers Cinematic Sound for a Massive Prime Day Discount](https://www.wired.com/story/prime-day-sony-bravia-theater-system-6-deal-october-2025/)
  - [Discord says 70,000 users may have had their government IDs leaked in breach](https://www.theverge.com/news/797051/discord-government-ids-leaked-data-breach)
  - [Prosecutors say the evidence against a man accused of starting what became the Pacific Palisades fire includes a ChatGPT-generated image of a burning city &lpar;Los Angeles Times&rpar;](http://www.techmeme.com/251008/p43#a251008p43)
  - [The Best Anti-Prime Day Deals for Amazon Haters &lpar;2025&rpar;: Sheets, Sex Tech, and Fire Pits](https://www.wired.com/story/anti-prime-day-small-business-sales-october-2025-1/)
- - [Spending on game consoles is up because of the Switch 2 and tariffs](https://www.theverge.com/news/797023/circana-video-game-consoles-switch-2-tariffs)
- - [Samsung’s Frame Pro has hit a new all-time low for Prime Day](https://www.theverge.com/tech/796826/amazon-october-prime-day-samsung-frame-pro-tv-deal-sale-2025)<!-- TECH:END -->
+ - [Spending on game consoles is up because of the Switch 2 and tariffs](https://www.theverge.com/news/797023/circana-video-game-consoles-switch-2-tariffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

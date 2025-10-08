@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We Found 217 of the Best Prime Day Deals Still on for 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
+ - [California arson suspect used ChatGPT to generate an image of a burning city, DOJ claims](https://www.theverge.com/news/796993/doj-chatgpt-ai-images-palisades-fire-california)
  - [These great October Prime Day deals on laptops won’t last much longer](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
  - [Some of my favorite smart kitchen gadgets are on sale for Prime Day](https://www.theverge.com/tech/796213/smart-kitchen-gadgets-prime-day-sale-coffee-machine-air-fryer)
- - [New York City sues Meta, Alphabet, Snap, and ByteDance, accusing them of fueling a mental health crisis among children by addicting them to social media &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251008/p42#a251008p42)
- - [Sonos soundbars, Sony TVs, and more Prime Day home theater deals](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
- - [The Petkit Eversweet Max 2 Is $23 Off Right Now](https://www.wired.com/story/petkit-eversweet-max-prime-big-deal-day-deal/)<!-- TECH:END -->
+ - [New York City sues Meta, Alphabet, Snap, and ByteDance, accusing them of fueling a mental health crisis among children by addicting them to social media &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251008/p42#a251008p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

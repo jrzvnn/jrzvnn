@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I want to play a game](http://9gag.com/gag/ae9PVqv)
- - 😝 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)
- - 💣 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
- - 😝 [An image from the new Witcher season. My larp group looks more convincing than this multi million dollar pile of dog shit.](http://9gag.com/gag/a2vjbNO)
- - 👉 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)<!-- MEMES:END -->
+ - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
+ - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
 
 ---
 

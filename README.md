@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several Apple products are cheaper than usual now that fall Prime Day&amp;#8217;s almost over](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
- - [We found 30-odd October Prime Day deals we love for $100 or less](https://www.theverge.com/tech/795989/amazon-october-prime-day-best-cheap-tech-deals-under-100-2025)
- - [The 222 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [David AI, which sells audio data sets for AI training, raised a $50M Series B, sources say at a $500M valuation, up from ~$100M from its $25M Series A in May &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251008/p44#a251008p44)
- - [If You Don&#39;t Want to Pay to Store Snapchat Memories, Here&#39;s How to Download Them for Free](https://www.cnet.com/tech/services-and-software/if-you-dont-want-to-pay-to-store-snapchat-memories-heres-how-to-download-them-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ICEBlock isn&#39;t the only ICE-tracking app that Apple and Google have removed](https://appleinsider.com/articles/25/10/08/iceblock-isnt-the-only-ice-tracking-app-that-apple-and-google-have-removed?utm_source=rss)
+ - [You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
+ - [Verizon signs a commercial agreement with AST SpaceMobile to offer satellite-to-phone connectivity in cellular dead zones starting in 2026; ASTS closes up 8.6% &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251008/p45#a251008p45)
+ - [We handpicked 30 last-minute Prime Day deals you can still grab for under $25](https://www.theverge.com/tech/793679/amazon-october-prime-day-best-cheap-tech-deals-under-25-2025)
+ - [Several Apple products are cheaper than usual now that fall Prime Day&amp;#8217;s almost over](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

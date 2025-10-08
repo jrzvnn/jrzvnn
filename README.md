@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
- - 😝 [Nice way to die](http://9gag.com/gag/ayNVQwq)
- - 💣 [Update incoming.](http://9gag.com/gag/ayNVQ5M)
- - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 👉 [Guess they didn&#39;t check the translation before getting these tattoos](http://9gag.com/gag/aMVNXLP)<!-- MEMES:END -->
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 💣 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 😝 [A knowledgeable person shared this, so I tried this prompt out with chatgpt. The improve is OUTSTANDING. I decided to share it because this is so useful and it worked so well for me. Chatgpt finally stopped patting backs all the time, and started to solve problems and be clear.](http://9gag.com/gag/a2vjLXd)
+ - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
 
 ---
 

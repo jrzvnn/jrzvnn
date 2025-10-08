@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [German officials say they will vote against the EU&#39;s &quot;Chat Control&quot; proposals, signaling the bloc will not have enough support ahead of an October 14 vote &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p28#a251008p28)
- - [Synology caves &amp; allows all hard drives in 2025 NAS range - for now](https://appleinsider.com/articles/25/10/08/synology-caves-allows-all-hard-drives-in-2025-nas-range---for-now?utm_source=rss)
- - [Anker’s portable Nebula P1 projector has a pair of detachable wireless speakers](https://www.theverge.com/news/796129/anker-soundcore-nebula-p1-portable-projector-bluetooth-speakers)
- - [TAG Heuer&#39;s New Smartwatch Ditches Google&#39;s Wear OS to Be Apple Friendly](https://www.wired.com/story/tag-heuer-connected-calibre-e5/)
- - [The Best Discounts We&#39;ve Found From the Walmart Deals Sale &lpar;2025&rpar;](https://www.wired.com/story/best-walmart-deals-october-2025-1/)<!-- TECH:END -->
+ - [A Twitch streamer gave birth live, with Twitch&amp;#8217;s CEO in the chat](https://www.theverge.com/news/796179/twitch-fandy-birth-livestream-dan-clancy)
+ - [A bunch of 4K Blu-ray movies we love are under $20 for Prime Day](https://www.theverge.com/tech/787694/amazon-october-prime-day-4k-bluray-uhd-movie-deal-sale-2025)
+ - [Fifteen years later, a developer dives into Antennagate that cost Apple $175 million](https://appleinsider.com/articles/25/10/08/fifteen-years-later-a-developer-dives-into-antennagate-that-cost-apple-175-million?utm_source=rss)
+ - [A survey of US parents: 90% say their kids aged 12 or younger watch TV, 68% say their kids use a tablet, and 61% use a smartphone; 8% of kids use an AI chatbot &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251008/p29#a251008p29)
+ - [The 207 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

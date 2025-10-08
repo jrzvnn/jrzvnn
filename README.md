@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
- - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
- - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
+ - 😝 [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
+ - 😝 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
+ - 💣 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)
+ - 😝 [Kanye&#39;s influence knows no bounds](http://9gag.com/gag/aVv12dw)
+ - 👉 [Denmark followed 321 Muslim Palestinian asylum seekers and their kids for nearly 30 years. These are the results:](http://9gag.com/gag/ae9Pmqm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany&#39;s Federal Cartel Office opens an investigation into whether Temu is influencing the pricing of third-party merchants, potentially stifling competition &lpar;Mark Hallam/DW News&rpar;](http://www.techmeme.com/251008/p32#a251008p32)
+ - [You can still save up to 70 percent on headphones from Bose and Sony today](https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025)
+ - [The problems with AI in the smart home and how Amazon and Google plan to fix them](https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-solutions-smart-home)
  - [Several Apple products are cheaper than usual now that fall Prime Day&amp;#8217;s almost over](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
- - [Microsoft is moving GitHub over to Azure servers](https://www.theverge.com/tech/796119/microsoft-github-azure-migration-move-notepad)
- - [Sennheiser’s new HDB 360 headphones support high-res audio without a wire](https://www.theverge.com/news/796327/sennheiser-hdb-360-wireless-headphones-aptx-adaptive-bluetooth-high-res-audio)
- - [It&#39;s Prime Day, and WIRED is Live-Blogging The Best and Worst Of It](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [11 Best Amazon Deals on Qi2 and MagSafe Accessories](https://www.wired.com/story/magsafe-accessory-deals-amazon-prime-big-deal-days-2025/)<!-- TECH:END -->
+ - [Microsoft is moving GitHub over to Azure servers](https://www.theverge.com/tech/796119/microsoft-github-azure-migration-move-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

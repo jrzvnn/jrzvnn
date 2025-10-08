@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic plans to open its first Indian office in Bengaluru in early 2026; Dario Amodei is visiting India to meet government officials and potential partners &lpar;Anthropic&rpar;](http://www.techmeme.com/251007/p33#a251007p33)
- - [The 200 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Prime Day 2025 - We’re Tracking Deals Live](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [We dug through thousands of Prime Day deals to find 60 standouts for $50 or less](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
- - [The Best Budget Headphone Deals on Prime Day](https://www.wired.com/story/best-prime-day-budget-headphone-deals-october-2025/)<!-- TECH:END -->
+ - [The best laptop deals you can get for Amazon’s October Prime Day](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
+ - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
+ - [The 26 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
+ - [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
+ - [Anthropic plans to open its first Indian office in Bengaluru in early 2026; Dario Amodei is visiting India to meet government officials and potential partners &lpar;Anthropic&rpar;](http://www.techmeme.com/251007/p33#a251007p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

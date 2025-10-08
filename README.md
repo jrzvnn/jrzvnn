@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
- - 👉 [Comment section has become more interesting these days.](http://9gag.com/gag/amobVGo)<!-- MEMES:END -->
+ - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
 
 ---
 

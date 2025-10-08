@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This LG C4 OLED Sale Is the Best Prime Day TV Deal](https://www.wired.com/story/lg-c4-oled-prime-day-deal-oct-2025/)
  - [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
  - [Verizon agrees to buy Starry, which provides home internet via millimeter wave tech to ~100K customers and filed for bankruptcy in 2023, for an undisclosed sum &lpar;Masha Abarinova/Fierce Network&rpar;](http://www.techmeme.com/251008/p39#a251008p39)
  - [You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [Sources: data streaming software maker Confluent is exploring a sale after attracting acquisition interest from PE firms and tech companies; CFLT jumps 9%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251008/p38#a251008p38)
- - [This Startup Wants to Spark a US DeepSeek Moment](https://www.wired.com/story/prime-intellect-startup-us-deepseek-moment/)<!-- TECH:END -->
+ - [Sources: data streaming software maker Confluent is exploring a sale after attracting acquisition interest from PE firms and tech companies; CFLT jumps 9%+ &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251008/p38#a251008p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

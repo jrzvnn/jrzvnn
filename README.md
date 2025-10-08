@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A website set up by a Danish software developer floods EU lawmakers with emails opposing planned EU &quot;Chat Control&quot; laws to fight CSAM by scanning encrypted apps &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251008/p23#a251008p23)
- - [HMD’s Touch 4G is a dumb-smart-phone](https://www.theverge.com/news/795993/hmds-touch-4g-is-a-dumb-smart-phone)
- - [Q&amp;A with Sam Altman on OpenAI&#39;s unifying vision, infrastructure deals, the investor mindset, ChatGPT apps, Instant Checkout, Sora, copyright, feedback, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251008/p22#a251008p22)
- - [30 Best Prime Day Tech Deals: Tablets, Accessories, and More](https://www.wired.com/story/best-prime-day-tech-deals-october-2025-1/)
- - [Polymarket CEO Shayne Coplan says the startup raised two undisclosed rounds: $55M at a $350M valuation in 2024 and $150M at a $1.2B valuation earlier in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251008/p21#a251008p21)<!-- TECH:END -->
+ - [Scratch that -- Apple Stores try updating MagSafe chargers to stop &#39;scratchgate&#39;](https://appleinsider.com/articles/25/10/08/scratch-that----apple-stores-try-updating-magsafe-chargers-to-stop-scratchgate?utm_source=rss)
+ - [My Most Trusted Jumpstarter Is Nearly Half Off Today](https://www.wired.com/story/gooloo-a3-jumpstarter-october-2025-prime-day/)
+ - [Ex-execs slam Tim Cook for eroding Apple&#39;s moral authority after ICEBlock pull](https://appleinsider.com/articles/25/10/08/ex-execs-slam-tim-cook-for-eroding-apples-moral-authority-after-iceblock-pull?utm_source=rss)
+ - [Open letter: 40+ European companies oppose the EU&#39;s &quot;Chat Control&quot; proposal, which forces services to scan messages for CSAM, fearing it would mandate backdoors &lpar;CryptPad Blog&rpar;](http://www.techmeme.com/251008/p24#a251008p24)
+ - [Amazfit’s Active 2, one of our favorite fitness trackers, is a steal at just $81](https://www.theverge.com/tech/791143/amazon-october-prime-day-amazfit-active-2-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

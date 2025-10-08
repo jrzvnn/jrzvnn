@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has summoned influencers to Colorado, for reasons unknown](https://appleinsider.com/articles/25/10/08/apple-has-summoned-influencers-to-colorado-for-reasons-unknown?utm_source=rss)
+ - [The Best Amazon Prime Day Baby Deals &lpar;2025&rpar;: Car Seats, Strollers, and More](https://www.wired.com/story/amazon-prime-day-baby-deals-october-2025/)
+ - [Fans Call on Taylor Swift to ‘Do Better’ After Accusations of Using AI for Promo Videos](https://www.wired.com/story/taylor-swift-swifties-against-ai-viral/)
  - [We Found 217 of the Best Prime Day Deals Still on for 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
- - [California arson suspect used ChatGPT to generate an image of a burning city, DOJ claims](https://www.theverge.com/news/796993/doj-chatgpt-ai-images-palisades-fire-california)
- - [These great October Prime Day deals on laptops won’t last much longer](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)
- - [Some of my favorite smart kitchen gadgets are on sale for Prime Day](https://www.theverge.com/tech/796213/smart-kitchen-gadgets-prime-day-sale-coffee-machine-air-fryer)
- - [New York City sues Meta, Alphabet, Snap, and ByteDance, accusing them of fueling a mental health crisis among children by addicting them to social media &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251008/p42#a251008p42)<!-- TECH:END -->
+ - [Best Cellphone Plans of 2025: Our Top Picks](https://www.cnet.com/tech/mobile/best-phone-plans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

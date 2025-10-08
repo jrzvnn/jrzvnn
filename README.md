@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The European Commission outlines its Apply AI Strategy and AI in Science Strategy, aiming to speed up AI adoption in key industries and AI-driven research &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251008/p17#a251008p17)
- - [Russian-speaking ransomware gang Qilin says it was responsible for an attack on Japan&#39;s Asahi and stole ~27GB of data, including financial docs and contracts &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p16#a251008p16)
- - [It&#39;s Prime Day, and WIRED is Live-Blogging The Best and Worst Of It](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [Microsoft delays Xbox Game Pass Ultimate price hikes for existing subscribers in Germany, Ireland, South Korea, India, and others, after announcing a 50% hike &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251008/p15#a251008p15)
- - [The 13 Best Power Bank Prime Day Deals](https://www.wired.com/story/power-banks-prime-big-deal-days-2025-1/)<!-- TECH:END -->
+ - [Here’s what Verge readers are buying during October Prime Day](https://www.theverge.com/tech/795055/amazon-october-prime-day-2025-popular-products-verge-readers)
+ - [Sources: Meta and Apple are close to settling two EU antitrust cases and agreeing a deal to change their business practices after a total €700M in DMA fines &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251008/p19#a251008p19)
+ - [Amazon announces Amazon Pharmacy kiosks to quickly dispense medications to patients after an appointment, initially rolling out in its One Medical offices in LA &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251008/p18#a251008p18)
+ - [This Is the MacBook I&#39;d Buy For Amazon Big Deal Days This Year](https://www.wired.com/story/macbook-to-buy-amazon-prime-day/)
+ - [Nothing Ear 3 review: work in progress](https://www.theverge.com/tech/792839/nothing-ear-3-review-audio-super-mic-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

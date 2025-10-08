@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple has removed Eyes Up, which archives video evidence of ICE abuses, from the App Store; unlike ICEBlock, it doesn&#39;t share ICE officers&#39; real-time locations &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251008/p40#a251008p40)
+ - [1Password says it can fix login security for AI browser agents](https://www.theverge.com/news/796921/1password-secure-agentic-autofill-ai-browser-agents)
+ - [Scientist Who Was Offline &#39;Living His Best Life&#39; Stunned by Nobel Prize Win](https://www.wired.com/story/nobel-prize-medicine-immunology-2025/)
  - [One of our favorite hybrid mopping vacs just hit its lowest price yet](https://www.theverge.com/tech/795522/amazon-october-prime-day-robot-mop-eufy-x10-pro-omni-deal-sale)
- - [This BlackBerry-style iPhone keyboard case has an optional weight to improve its balance](https://www.theverge.com/news/796643/akko-metakey-case-blackberry-keyboard-iphone-16-17-pro-max)
- - [This LG C4 OLED Sale Is the Best Prime Day TV Deal](https://www.wired.com/story/lg-c4-oled-prime-day-deal-oct-2025/)
- - [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)
- - [Verizon agrees to buy Starry, which provides home internet via millimeter wave tech to ~100K customers and filed for bankruptcy in 2023, for an undisclosed sum &lpar;Masha Abarinova/Fierce Network&rpar;](http://www.techmeme.com/251008/p39#a251008p39)<!-- TECH:END -->
+ - [This BlackBerry-style iPhone keyboard case has an optional weight to improve its balance](https://www.theverge.com/news/796643/akko-metakey-case-blackberry-keyboard-iphone-16-17-pro-max)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

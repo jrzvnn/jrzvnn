@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HMD’s Touch 4G is a dumb-smart-phone](https://www.theverge.com/news/795993/hmds-touch-4g-is-a-dumb-smart-phone)
  - [Q&amp;A with Sam Altman on OpenAI&#39;s unifying vision, infrastructure deals, the investor mindset, ChatGPT apps, Instant Checkout, Sora, copyright, feedback, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251008/p22#a251008p22)
  - [30 Best Prime Day Tech Deals: Tablets, Accessories, and More](https://www.wired.com/story/best-prime-day-tech-deals-october-2025-1/)
  - [Polymarket CEO Shayne Coplan says the startup raised two undisclosed rounds: $55M at a $350M valuation in 2024 and $150M at a $1.2B valuation earlier in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251008/p21#a251008p21)
- - [Firefox is adding profiles to separate your browsing sessions](https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs)
- - [Researchers are investigating using synthetic diamonds to help cool AI data center chips; De Beers-owned Element Six has long used diamonds in satellite chips &lpar;Amos Zeeberg/New York Times&rpar;](http://www.techmeme.com/251008/p20#a251008p20)<!-- TECH:END -->
+ - [Firefox is adding profiles to separate your browsing sessions](https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

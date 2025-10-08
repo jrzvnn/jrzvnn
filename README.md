@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Sam Altman on OpenAI&#39;s unifying vision, infrastructure deals, the investor mindset, ChatGPT apps, Instant Checkout, Sora, copyright, feedback, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251008/p22#a251008p22)
+ - [30 Best Prime Day Tech Deals: Tablets, Accessories, and More](https://www.wired.com/story/best-prime-day-tech-deals-october-2025-1/)
+ - [Polymarket CEO Shayne Coplan says the startup raised two undisclosed rounds: $55M at a $350M valuation in 2024 and $150M at a $1.2B valuation earlier in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251008/p21#a251008p21)
  - [Firefox is adding profiles to separate your browsing sessions](https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs)
- - [Researchers are investigating using synthetic diamonds to help cool AI data center chips; De Beers-owned Element Six has long used diamonds in satellite chips &lpar;Amos Zeeberg/New York Times&rpar;](http://www.techmeme.com/251008/p20#a251008p20)
- - [Here’s what Verge readers are buying during October Prime Day](https://www.theverge.com/tech/795055/amazon-october-prime-day-2025-popular-products-verge-readers)
- - [Sources: Meta and Apple are close to settling two EU antitrust cases and agreeing a deal to change their business practices after a total €700M in DMA fines &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251008/p19#a251008p19)
- - [Amazon announces Amazon Pharmacy kiosks to quickly dispense medications to patients after an appointment, initially rolling out in its One Medical offices in LA &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251008/p18#a251008p18)<!-- TECH:END -->
+ - [Researchers are investigating using synthetic diamonds to help cool AI data center chips; De Beers-owned Element Six has long used diamonds in satellite chips &lpar;Amos Zeeberg/New York Times&rpar;](http://www.techmeme.com/251008/p20#a251008p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

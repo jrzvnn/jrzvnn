@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
- - 😝 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
+ - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 😝 [It just makes sense.](http://9gag.com/gag/ajPMZz1)
  - 👉 [Milkmaid lifestyle](http://9gag.com/gag/a4PrALv)<!-- MEMES:END -->
 
 ---

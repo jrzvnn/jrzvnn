@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Harvard economist Jason Furman estimates that investments in data centers and information-processing software accounted for 92% of US GDP growth in H1 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](http://www.techmeme.com/251008/p13#a251008p13)
+ - [90 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)
+ - [We Found the 267 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
  - [An interview with Evan Prodromou, &quot;inventor of the Fediverse&quot;, on ActivityPub&#39;s origins, Mastodon&#39;s privacy focus, expanding beyond microblogging, and more &lpar;Matthias Pfefferle/Open Channels FM&rpar;](http://www.techmeme.com/251008/p12#a251008p12)
- - [Your HSA or FSA Might Pay for Your New Smart Ring. Just Follow These Steps](https://www.cnet.com/health/medical/hsa-fsa-might-pay-new-smart-ring-follow-these-steps/#ftag=CAD590a51e)
- - [An analysis of 1,100 TikTok users&#39; watch histories across six months in 2024 shows how effective TikTok is at getting even its heaviest users to watch more &lpar;Washington Post&rpar;](http://www.techmeme.com/251008/p11#a251008p11)
- - [An overview of detailed AI usage reports from OpenAI and others, as Microsoft&#39;s AI for Good Lab estimates that 15% of the world&#39;s working population is using AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p10#a251008p10)
- - [SoftBank Group agrees to acquire ABB&#39;s robotics business, which generated $2.3B in sales in 2024, for $5.4B, in a deal expected to close in mid-to-late 2026 &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/251008/p9#a251008p9)<!-- TECH:END -->
+ - [An analysis of 1,100 TikTok users&#39; watch histories across six months in 2024 shows how effective TikTok is at getting even its heaviest users to watch more &lpar;Washington Post&rpar;](http://www.techmeme.com/251008/p11#a251008p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

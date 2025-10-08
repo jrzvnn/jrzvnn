@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Buds 2a review: ANC is a welcome addition and sound is detailed and punchy, but there&#39;s still no wireless charging and voice performance suffers &lpar;Billy Steele/Engadget&rpar;](http://www.techmeme.com/251008/p36#a251008p36)
- - [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
- - [Here&amp;#8217;s how Apple is locking down iPhones to comply with Texas&amp;#8217; age verification law](https://www.theverge.com/news/796760/apple-iphones-ios-app-store-age-verification-law-texas-utah-louisiana)
- - [How to make an external bootable drive in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-make-an-external-bootable-drive-in-macos-tahoe?utm_source=rss)
- - [Developers must comply with new Texas age requirement law, and Apple has detailed how](https://appleinsider.com/articles/25/10/08/developers-must-comply-with-new-texas-age-requirement-law-and-apple-has-detailed-how?utm_source=rss)<!-- TECH:END -->
+ - [This Startup Wants to Spark a US DeepSeek Moment](https://www.wired.com/story/prime-intellect-startup-us-deepseek-moment/)
+ - [Logitech’s MX Master 3S is one of the best wireless mice around, and it’s 25 percent off](https://www.theverge.com/tech/791722/amazon-october-prime-day-logitech-mx-master-3s-wireless-mouse-deal-sale-2025)
+ - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
+ - [The best October Prime Day deals at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
+ - [New York-based Crosby, a law firm that uses AI to help speed up the contracts process, raised a $20M Series A co-led by Index Ventures, BCV, and Elad Gil &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251008/p37#a251008p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

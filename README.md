@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some of my favorite smart kitchen gadgets are on sale for Prime Day](https://www.theverge.com/tech/796213/smart-kitchen-gadgets-prime-day-sale-coffee-machine-air-fryer)
+ - [New York City sues Meta, Alphabet, Snap, and ByteDance, accusing them of fueling a mental health crisis among children by addicting them to social media &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251008/p42#a251008p42)
+ - [Sonos soundbars, Sony TVs, and more Prime Day home theater deals](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)
  - [The Petkit Eversweet Max 2 Is $23 Off Right Now](https://www.wired.com/story/petkit-eversweet-max-prime-big-deal-day-deal/)
- - [Relace, which makes tools and specialized language models to help AI agents code faster for customers like Lovable and Figma, raised a $23M Series A led by a16z &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251008/p41#a251008p41)
- - [Apple&#39;s iPhone Fold could use titanium and aluminum in the frame](https://appleinsider.com/articles/25/10/08/apples-iphone-fold-could-use-titanium-and-aluminum-in-the-frame?utm_source=rss)
- - [The 218 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [This Is the Best Smart Hummingbird Feeder I&#39;ve Tested, and It&#39;s $50 off Right Now](https://www.wired.com/story/bird-buddy-pro-hummingbird-prime-day-sale-2025/)<!-- TECH:END -->
+ - [Relace, which makes tools and specialized language models to help AI agents code faster for customers like Lovable and Figma, raised a $23M Series A led by a16z &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251008/p41#a251008p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
- - 😝 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
- - 💣 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
- - 😝 [Denmark followed 321 Muslim Palestinian asylum seekers and their kids for nearly 30 years. These are the results:](http://9gag.com/gag/ae9Pmqm)
- - 👉 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)<!-- MEMES:END -->
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [Chat Control defeated... for now](http://9gag.com/gag/aVv1Vjn)
+ - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Firefox is adding profiles to separate your browsing sessions](https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs)
+ - [Researchers are investigating using synthetic diamonds to help cool AI data center chips; De Beers-owned Element Six has long used diamonds in satellite chips &lpar;Amos Zeeberg/New York Times&rpar;](http://www.techmeme.com/251008/p20#a251008p20)
  - [Here’s what Verge readers are buying during October Prime Day](https://www.theverge.com/tech/795055/amazon-october-prime-day-2025-popular-products-verge-readers)
  - [Sources: Meta and Apple are close to settling two EU antitrust cases and agreeing a deal to change their business practices after a total €700M in DMA fines &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251008/p19#a251008p19)
- - [Amazon announces Amazon Pharmacy kiosks to quickly dispense medications to patients after an appointment, initially rolling out in its One Medical offices in LA &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251008/p18#a251008p18)
- - [This Is the MacBook I&#39;d Buy For Amazon Big Deal Days This Year](https://www.wired.com/story/macbook-to-buy-amazon-prime-day/)
- - [Nothing Ear 3 review: work in progress](https://www.theverge.com/tech/792839/nothing-ear-3-review-audio-super-mic-price)<!-- TECH:END -->
+ - [Amazon announces Amazon Pharmacy kiosks to quickly dispense medications to patients after an appointment, initially rolling out in its One Medical offices in LA &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251008/p18#a251008p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

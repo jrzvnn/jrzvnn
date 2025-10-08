@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new iPhone setting will stop CarPlay from stealing your AirPods&amp;#8217; audio](https://www.theverge.com/news/796554/iphone-ios-26-keep-airpods-wireless-headphones-connected-carplay)
+ - [Prime Day Brings Strong Savings on Some of Top Coffee and Espresso Machines](https://www.wired.com/story/best-prime-day-coffee-espresso-deals-october-2025-1/)
  - [Chicago-based stablecoin payments startup Coinflow raised a $25M Series A led by Pantera and says it supports stablecoin-powered payments in 170+ countries &lpar;CoinDesk&rpar;](http://www.techmeme.com/251008/p33#a251008p33)
  - [Canadians can now opt in to hypertension monitoring on Apple Watch](https://appleinsider.com/articles/25/10/08/canadians-can-now-opt-in-to-hypertension-monitoring-on-apple-watch?utm_source=rss)
- - [Germany&#39;s Federal Cartel Office opens an investigation into whether Temu is influencing the pricing of third-party merchants, potentially stifling competition &lpar;Mark Hallam/DW News&rpar;](http://www.techmeme.com/251008/p32#a251008p32)
- - [You can still save up to 70 percent on headphones from Bose and Sony today](https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025)
- - [The problems with AI in the smart home and how Amazon and Google plan to fix them](https://www.theverge.com/report/796138/alexa-plus-gemini-for-home-problmes-solutions-smart-home)<!-- TECH:END -->
+ - [Germany&#39;s Federal Cartel Office opens an investigation into whether Temu is influencing the pricing of third-party merchants, potentially stifling competition &lpar;Mark Hallam/DW News&rpar;](http://www.techmeme.com/251008/p32#a251008p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

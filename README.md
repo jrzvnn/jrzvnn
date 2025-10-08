@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oddly satisfying](http://9gag.com/gag/aAyNXP0)
- - 😝 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
- - 💣 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)
- - 😝 [Kanye&#39;s influence knows no bounds](http://9gag.com/gag/aVv12dw)
- - 👉 [Denmark followed 321 Muslim Palestinian asylum seekers and their kids for nearly 30 years. These are the results:](http://9gag.com/gag/ae9Pmqm)<!-- MEMES:END -->
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
+ - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
+ - 💣 [Hot Tub without the use of electricity.](http://9gag.com/gag/aAyNMxg)
+ - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
 
 ---
 

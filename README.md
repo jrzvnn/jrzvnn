@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025-1/)
- - [Harvard economist Jason Furman estimates that investments in data centers and information-processing software accounted for 92% of US GDP growth in H1 2025 &lpar;Nick Lichtenberg/Fortune&rpar;](http://www.techmeme.com/251008/p13#a251008p13)
- - [90 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)
- - [We Found the 267 Best Prime Day Deals of 2025: Up To 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
- - [An interview with Evan Prodromou, &quot;inventor of the Fediverse&quot;, on ActivityPub&#39;s origins, Mastodon&#39;s privacy focus, expanding beyond microblogging, and more &lpar;Matthias Pfefferle/Open Channels FM&rpar;](http://www.techmeme.com/251008/p12#a251008p12)<!-- TECH:END -->
+ - [You can now try Fortnite directly in Discord](https://www.theverge.com/news/795897/epic-fortnite-discord-instant-game-demo-availability)
+ - [Bulk Up On Prime Day Protein Powder Deals From Optimum, Orgain, More](https://www.wired.com/story/protein-powder-prime-day-2025/)
+ - [I Found the Best Amazon Prime Day Hair Tool Deals &lpar;October 2025&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2025/)
+ - [Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More](https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025-1/)
+ - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 208 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
  - [You can now try Fortnite directly in Discord](https://www.theverge.com/news/795897/epic-fortnite-discord-instant-game-demo-availability)
  - [Bulk Up On Prime Day Protein Powder Deals From Optimum, Orgain, More](https://www.wired.com/story/protein-powder-prime-day-2025/)
  - [I Found the Best Amazon Prime Day Hair Tool Deals &lpar;October 2025&rpar;](https://www.wired.com/story/best-prime-day-hair-tool-deals-october-2025/)
- - [Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More](https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025-1/)
- - [The Best Prime Day Apple Deals, From Watches to iPads &lpar;2025&rpar;](https://www.wired.com/story/best-prime-day-apple-deals-oct-2025-1/)<!-- TECH:END -->
+ - [Best Amazon Prime Day Laptop  2025 Deals: MacBooks, Gaming Laptops, More](https://www.wired.com/story/best-amazon-big-deals-day-laptop-deals-october-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

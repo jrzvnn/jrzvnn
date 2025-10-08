@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 194 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Our Favorite Prime Day Deals on Cold-Weather Home Essentials &lpar;2025&rpar;](https://www.wired.com/story/prime-day-household-cold-weather-gear-2025/)
- - [The 25 best fall Prime Day deals on AirPods, iPads, and other Apple gear](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
- - [You can score up to $750 off robovacs from iRobot, Dreame, and Eufy right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [The best October Prime Day deals on TVs, soundbars, and more — up to 50% off](https://www.theverge.com/tech/788328/amazon-october-prime-day-4k-tv-soundbar-streaming-deal-sale-2025)<!-- TECH:END -->
+ - [A profile of Josh Wallace Kerrigan, also known as Neural Viz, an independent creator using Midjourney, Runway, and other AI tools to create a cinematic universe &lpar;Christopher Beam/Wired&rpar;](http://www.techmeme.com/251007/p32#a251007p32)
+ - [The electric screwdriver I use for DIY projects is 40 percent off right now](https://www.theverge.com/tech/792618/amazon-october-prime-day-hoto-electric-screwdriver-deal-tools-sale-2025)
+ - [NPR podcasting strategy chief reportedly joining Apple](https://appleinsider.com/articles/25/10/08/npr-podcasting-strategy-chief-reportedly-joining-apple?utm_source=rss)
+ - [Prime Day 2025 Gets A Hot Start With the Best Sonos Era 100 Deal Yet](https://www.wired.com/story/prime-day-sonos-era-100-deal-october-25/)
+ - [Brother MFC-J4335DW INKvestment Tank printer review: Decent, but know what you&#39;re signing up for](https://appleinsider.com/articles/25/10/08/brother-mfc-j4335dw-inkvestment-tank-printer-review-decent-but-know-what-youre-signing-up-for?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

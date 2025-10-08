@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
- - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
- - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
+ - 😝 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
+ - 😝 [My fellow 37 years old unmarried men](http://9gag.com/gag/avyXdLX)
+ - 💣 [Nice way to die](http://9gag.com/gag/ayNVQwq)
+ - 😝 [Guess they didn&#39;t check the translation before getting these tattoos](http://9gag.com/gag/aMVNXLP)
+ - 👉 [Update incoming.](http://9gag.com/gag/ayNVQ5M)<!-- MEMES:END -->
 
 ---
 

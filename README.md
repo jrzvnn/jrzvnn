@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
  - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
- - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
  - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
  - 😝 [It just makes sense.](http://9gag.com/gag/ajPMZz1)
- - 👉 [Milkmaid lifestyle](http://9gag.com/gag/a4PrALv)<!-- MEMES:END -->
+ - 👉 [Sharing old coupon for new veterans... Still valid.](http://9gag.com/gag/a7o6V6x)<!-- MEMES:END -->
 
 ---
 

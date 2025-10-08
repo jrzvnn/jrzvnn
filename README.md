@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Squishmallows, Lego, and Other Toys Are 50% off Right Now](https://www.wired.com/story/amazon-prime-day-toy-deals-october-2025/)
- - [A Twitch streamer gave birth live, with Twitch&amp;#8217;s CEO in the chat](https://www.theverge.com/news/796179/twitch-fandy-birth-livestream-dan-clancy)
- - [A bunch of 4K Blu-ray movies we love are under $20 for Prime Day](https://www.theverge.com/tech/787694/amazon-october-prime-day-4k-bluray-uhd-movie-deal-sale-2025)
- - [Fifteen years later, a developer dives into Antennagate that cost Apple $175 million](https://appleinsider.com/articles/25/10/08/fifteen-years-later-a-developer-dives-into-antennagate-that-cost-apple-175-million?utm_source=rss)
- - [A survey of US parents: 90% say their kids aged 12 or younger watch TV, 68% say their kids use a tablet, and 61% use a smartphone; 8% of kids use an AI chatbot &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251008/p29#a251008p29)<!-- TECH:END -->
+ - [Snappr, a visual content platform and a marketplace for professional photographers, raised a $28M Series B led by Foundry and expands to Europe &lpar;Kerry Flynn/Axios&rpar;](http://www.techmeme.com/251008/p30#a251008p30)
+ - [October Prime Day deals on AirPods, Beats, Bose offer up to 51% off, but they end tonight](https://appleinsider.com/articles/25/10/08/october-prime-day-deals-on-airpods-beats-bose-offer-up-to-51-off-but-they-end-tonight?utm_source=rss)
+ - [Elon Musk will settle $128 million Twitter execs lawsuit](https://www.theverge.com/news/796239/elon-musk-x-128-million-twitter-exec-lawsuit-settlement)
+ - [It&#39;s Prime Day, and WIRED is Live-Blogging The Best and Worst Of It](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
+ - [19 Best Prime Day Outdoor Deals &lpar;October 2025&rpar;](https://www.wired.com/story/best-prime-day-outdoor-deals-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

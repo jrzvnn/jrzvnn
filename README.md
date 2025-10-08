@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
  - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 😝 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 💣 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 😝 [It just makes sense.](http://9gag.com/gag/ajPMZz1)
+ - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A website set up by a Danish software developer floods EU lawmakers with emails opposing planned EU &quot;Chat Control&quot; laws to fight CSAM by scanning encrypted apps &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251008/p23#a251008p23)
  - [HMD’s Touch 4G is a dumb-smart-phone](https://www.theverge.com/news/795993/hmds-touch-4g-is-a-dumb-smart-phone)
  - [Q&amp;A with Sam Altman on OpenAI&#39;s unifying vision, infrastructure deals, the investor mindset, ChatGPT apps, Instant Checkout, Sora, copyright, feedback, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251008/p22#a251008p22)
  - [30 Best Prime Day Tech Deals: Tablets, Accessories, and More](https://www.wired.com/story/best-prime-day-tech-deals-october-2025-1/)
- - [Polymarket CEO Shayne Coplan says the startup raised two undisclosed rounds: $55M at a $350M valuation in 2024 and $150M at a $1.2B valuation earlier in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251008/p21#a251008p21)
- - [Firefox is adding profiles to separate your browsing sessions](https://www.theverge.com/news/795998/mozilla-firefox-browser-profiles-separate-tabs)<!-- TECH:END -->
+ - [Polymarket CEO Shayne Coplan says the startup raised two undisclosed rounds: $55M at a $350M valuation in 2024 and $150M at a $1.2B valuation earlier in 2025 &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251008/p21#a251008p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

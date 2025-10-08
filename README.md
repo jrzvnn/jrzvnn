@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Several Apple products are cheaper than usual now that fall Prime Day&amp;#8217;s almost over](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
  - [We found 30-odd October Prime Day deals we love for $100 or less](https://www.theverge.com/tech/795989/amazon-october-prime-day-best-cheap-tech-deals-under-100-2025)
  - [The 222 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
  - [David AI, which sells audio data sets for AI training, raised a $50M Series B, sources say at a $500M valuation, up from ~$100M from its $25M Series A in May &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251008/p44#a251008p44)
- - [If You Don&#39;t Want to Pay to Store Snapchat Memories, Here&#39;s How to Download Them for Free](https://www.cnet.com/tech/services-and-software/if-you-dont-want-to-pay-to-store-snapchat-memories-heres-how-to-download-them-for-free/#ftag=CAD590a51e)
- - [Sony’s System 6 Offers Cinematic Sound for a Massive Prime Day Discount](https://www.wired.com/story/prime-day-sony-bravia-theater-system-6-deal-october-2025/)<!-- TECH:END -->
+ - [If You Don&#39;t Want to Pay to Store Snapchat Memories, Here&#39;s How to Download Them for Free](https://www.cnet.com/tech/services-and-software/if-you-dont-want-to-pay-to-store-snapchat-memories-heres-how-to-download-them-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

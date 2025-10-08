@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [An interview with Evan Prodromou, &quot;inventor of the Fediverse&quot;, on ActivityPub&#39;s origins, Mastodon&#39;s privacy focus, expanding beyond microblogging, and more &lpar;Matthias Pfefferle/Open Channels FM&rpar;](http://www.techmeme.com/251008/p12#a251008p12)
+ - [Your HSA or FSA Might Pay for Your New Smart Ring. Just Follow These Steps](https://www.cnet.com/health/medical/hsa-fsa-might-pay-new-smart-ring-follow-these-steps/#ftag=CAD590a51e)
  - [An analysis of 1,100 TikTok users&#39; watch histories across six months in 2024 shows how effective TikTok is at getting even its heaviest users to watch more &lpar;Washington Post&rpar;](http://www.techmeme.com/251008/p11#a251008p11)
  - [An overview of detailed AI usage reports from OpenAI and others, as Microsoft&#39;s AI for Good Lab estimates that 15% of the world&#39;s working population is using AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p10#a251008p10)
- - [SoftBank Group agrees to acquire ABB&#39;s robotics business, which generated sales of $2.3B last year, for $5.38B in a deal expected to close in mid-to-late 2026 &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/251008/p9#a251008p9)
- - [Nvidia and OpenAI&#39;s recent wave of circular deals and partnerships is escalating concerns that they are artificially propping up the $1T+ AI market &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p8#a251008p8)<!-- TECH:END -->
+ - [SoftBank Group agrees to acquire ABB&#39;s robotics business, which generated $2.3B in sales in 2024, for $5.4B, in a deal expected to close in mid-to-late 2026 &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/251008/p9#a251008p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

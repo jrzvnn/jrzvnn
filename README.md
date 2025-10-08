@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 💣 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 😝 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
- - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
+ - 😝 [I want to play a game](http://9gag.com/gag/ae9PVqv)
+ - 😝 [Should You Be Afraid of a Halloween Heart Attack?](http://9gag.com/gag/aVv1Lrd)
+ - 💣 [Works better than pills and no side effects haha](http://9gag.com/gag/aqypWev)
+ - 😝 [An image from the new Witcher season. My larp group looks more convincing than this multi million dollar pile of dog shit.](http://9gag.com/gag/a2vjbNO)
+ - 👉 [Next Level Gaming Hacks](http://9gag.com/gag/aE0NDOe)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&amp;#8217;s how Apple is locking down iPhones to comply with Texas&amp;#8217; age verification law](https://www.theverge.com/news/796760/apple-iphones-ios-app-store-age-verification-law-texas-utah-louisiana)
+ - [How to make an external bootable drive in macOS Tahoe](https://appleinsider.com/inside/macos-tahoe/tips/how-to-make-an-external-bootable-drive-in-macos-tahoe?utm_source=rss)
  - [Developers must comply with new Texas age requirement law, and Apple has detailed how](https://appleinsider.com/articles/25/10/08/developers-must-comply-with-new-texas-age-requirement-law-and-apple-has-detailed-how?utm_source=rss)
  - [The 210 best October Prime Day deals](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [Verizon buys the not-quite-5G wireless ISP Starry to expand wireless broadband](https://www.theverge.com/news/796693/verizon-starry-acquisition-wireless-internet-mmwave)
- - [Google Pixel Watch 4 review: a significant leap in Google&#39;s smartwatch lineup with a nice domed display, but Gemini is unreliable, and GPS maps are still wonky &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/251008/p35#a251008p35)
- - [Google Pixel 10 Pro Fold review: nice display and most AI features run on device, but cameras are a step down from other Pro Pixels, Tensor G5 shows small gains &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/251008/p34#a251008p34)<!-- TECH:END -->
+ - [Verizon buys the not-quite-5G wireless ISP Starry to expand wireless broadband](https://www.theverge.com/news/796693/verizon-starry-acquisition-wireless-internet-mmwave)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

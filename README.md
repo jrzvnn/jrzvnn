@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)
+ - [These 63 October Prime Day deals under $50 are still available](https://www.theverge.com/tech/793435/amazon-october-prime-day-best-cheap-tech-deals-under-50-2025)
  - [Our favorite batteries and chargers are on sale for October Prime Day](https://www.theverge.com/tech/788318/amazon-october-prime-day-chargers-power-banks-batteries-deal-sale-2025)
  - [The Dell 14 Plus Is Now Only $650](https://www.wired.com/story/dell-14-plus-prime-day-2025/)
- - [ICEBlock isn&#39;t the only ICE-tracking app that Apple and Google have removed](https://appleinsider.com/articles/25/10/08/iceblock-isnt-the-only-ice-tracking-app-that-apple-and-google-have-removed?utm_source=rss)
- - [You can score up to $750 off robovacs from Dyson, Dreame, and iRobot right now](https://www.theverge.com/tech/793567/robot-vacuum-mop-deals-amazon-october-prime-day-2025)
- - [Verizon signs a commercial agreement with AST SpaceMobile to offer satellite-to-phone connectivity in cellular dead zones starting in 2026; ASTS closes up 8.6% &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251008/p45#a251008p45)<!-- TECH:END -->
+ - [ICEBlock isn&#39;t the only ICE-tracking app that Apple and Google have removed](https://appleinsider.com/articles/25/10/08/iceblock-isnt-the-only-ice-tracking-app-that-apple-and-google-have-removed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

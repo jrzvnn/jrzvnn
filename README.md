@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
  - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
- - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [Spooktober wood carving](http://9gag.com/gag/an7Wr95)
  - 👉 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)<!-- MEMES:END -->
 
 ---

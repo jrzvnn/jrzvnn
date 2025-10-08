@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 😝 [Proof Americans are always the entitled little rats they are](http://9gag.com/gag/agmZ43v)
- - 💣 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)
+ - 😝 [A short and witty title does the trick](http://9gag.com/gag/aO8N9Wv)
+ - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
+ - 💣 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
  - 😝 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 👉 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)<!-- MEMES:END -->
 
 ---
 

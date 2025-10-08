@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI and Anthropic consider using investor funds to settle potential claims from multibillion-dollar lawsuits, as insurers balk at covering AI risks &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p3#a251008p3)
  - [Raise Financial Services, the parent company of Indian stock trading and investment app Dhan, raised $120M led by Hornbill Capital at a $1.2B valuation &lpar;Kunal Manchanada/Entrackr&rpar;](http://www.techmeme.com/251008/p2#a251008p2)
  - [Sources: $TRUMP issuer, Fight Fight Fight LLC, is working to raise at least $200M to create a digital asset treasury company to accumulate the struggling token &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p1#a251008p1)
  - [The 207 best October Prime Day deals](https://www.theverge.com/tech/788343/best-amazon-prime-day-tech-deals-october-2025-day-1)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-8/#ftag=CAD590a51e)
- - [What&#39;s new with iPad app windows in iPadOS 26, and how they work](https://appleinsider.com/inside/ipados-26/tips/whats-new-with-ipad-app-windows-in-ipados-26-and-how-they-work?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 8](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-8/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

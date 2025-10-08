@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An overview of detailed AI usage reports from OpenAI and others, as Microsoft&#39;s AI for Good Lab estimates that 15% of the world&#39;s working population is using AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p10#a251008p10)
+ - [SoftBank Group agrees to acquire ABB&#39;s robotics business, which generated sales of $2.3B last year, for $5.38B in a deal expected to close in mid-to-late 2026 &lpar;John Revill/Reuters&rpar;](http://www.techmeme.com/251008/p9#a251008p9)
+ - [The recent wave of circular deals and partnerships involving Nvidia and OpenAI is escalating concerns that they are artificially propping up the $1T+ AI market &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p8#a251008p8)
  - [Sources: top Chinese VCs are close to raising up to $1.1B in total USD-denominated funds in 2025, marking a tentative return of global capital to Chinese tech &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p7#a251008p7)
- - [Chinese silicon wafer manufacturers like Eswin have rapidly gained market share by undercutting global leaders, such as Japan&#39;s Shin-Etsu Chemical, on price &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251008/p6#a251008p6)
- - [UK filings: Revolut CEO and largest shareholder Nik Storonsky has shifted his residency from the UK to the UAE; Revolut is awaiting a full UK banking license &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p5#a251008p5)
- - [The Linux Foundation will launch the React Foundation, a new home for Meta&#39;s React and React Native; founding members include Amazon, Meta, Microsoft, others &lpar;Engineering at Meta&rpar;](http://www.techmeme.com/251008/p4#a251008p4)
- - [Sources: OpenAI and Anthropic consider using investor funds to settle potential claims from multibillion-dollar lawsuits, as insurers balk at covering AI risks &lpar;Financial Times&rpar;](http://www.techmeme.com/251008/p3#a251008p3)<!-- TECH:END -->
+ - [Chinese silicon wafer manufacturers like Eswin have rapidly gained market share by undercutting global leaders, such as Japan&#39;s Shin-Etsu Chemical, on price &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251008/p6#a251008p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
  - 😝 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
- - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
- - 😝 [It just makes sense.](http://9gag.com/gag/ajPMZz1)
- - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
+ - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 💣 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
+ - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
+ - 👉 [Always pay yourself first!](http://9gag.com/gag/aryrxy7)<!-- MEMES:END -->
 
 ---
 

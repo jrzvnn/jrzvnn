@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 😝 [Proof Americans are always the entitled little rats they are](http://9gag.com/gag/agmZ43v)
- - 💣 [No idea why\u2026](http://9gag.com/gag/a34p8nv)
+ - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 💣 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
  - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
- - 👉 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)<!-- MEMES:END -->
+ - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
 
 ---
 

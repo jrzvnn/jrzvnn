@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Several Apple products are cheaper than usual now that fall Prime Day&amp;#8217;s almost over](https://www.theverge.com/tech/792289/amazon-october-prime-day-apple-deals-ipad-airpods-sale-2025)
+ - [Microsoft is moving GitHub over to Azure servers](https://www.theverge.com/tech/796119/microsoft-github-azure-migration-move-notepad)
+ - [Sennheiser’s new HDB 360 headphones support high-res audio without a wire](https://www.theverge.com/news/796327/sennheiser-hdb-360-wireless-headphones-aptx-adaptive-bluetooth-high-res-audio)
  - [It&#39;s Prime Day, and WIRED is Live-Blogging The Best and Worst Of It](https://www.wired.com/live/amazon-prime-day-deals-october-25/)
- - [11 Best Amazon Deals on Qi2 and MagSafe Accessories](https://www.wired.com/story/magsafe-accessory-deals-amazon-prime-big-deal-days-2025/)
- - [Filing: Musk and X agree to settle a lawsuit by Twitter&#39;s ex-CEO Parag Agrawal, chief legal officer Vijaya Gadde, and others over $128M+ in unpaid severance &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251008/p31#a251008p31)
- - [Google&amp;#8217;s AI try-on imagines your feet in new shoes](https://www.theverge.com/news/796308/google-ai-shopping-try-on-shoes)
- - [The GoPro Hero 13 Camera Is on Sale for Prime Day &lpar;October 2025&rpar;](https://www.wired.com/story/prime-day-gopro-hero-deal-october-2025/)<!-- TECH:END -->
+ - [11 Best Amazon Deals on Qi2 and MagSafe Accessories](https://www.wired.com/story/magsafe-accessory-deals-amazon-prime-big-deal-days-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

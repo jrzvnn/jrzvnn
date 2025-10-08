@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 😝 [Kaboom?](http://9gag.com/gag/a2vjDdp)
- - 💣 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
  - 😝 [Harambe 2.0?](http://9gag.com/gag/aD2NZEK)
- - 👉 [No idea why\u2026](http://9gag.com/gag/a34p8nv)<!-- MEMES:END -->
+ - 😝 [Someone had a busy night](http://9gag.com/gag/aMVNn7V)
+ - 💣 [Just a tourist place in Norway](http://9gag.com/gag/aByNGzz)
+ - 😝 [It just makes sense.](http://9gag.com/gag/ajPMZz1)
+ - 👉 [Kaboom?](http://9gag.com/gag/a2vjDdp)<!-- MEMES:END -->
 
 ---
 

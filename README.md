@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Disney has opted out of having its IP appear in OpenAI&#39;s Sora app; CAA says OpenAI is exposing artists to &quot;significant risk&quot; with Sora &lpar;Mrinmay Dey/Reuters&rpar;](http://www.techmeme.com/251009/p24#a251009p24)
  - [Toronto-based Spellbook, whose AI helps with legal contracts, raised $50M led by Khosla Ventures at a $350M valuation and says it has ~4,000 customers &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251009/p23#a251009p23)
  - [Google’s Pixel 10 Pro Fold is the thin-enough foldable](https://www.theverge.com/tech/796297/google-pixel-10-pro-fold-thickness-weight-design)
  - [An analysis of nearly 50 Amazon purchases over six months in 2025: during the October 7-8 Prime Day sales, average savings were only 0.6% and some items went up &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/251009/p22#a251009p22)
- - [OneDrive is getting a new Windows app and an AI photo agent](https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features)
- - [Apple plans to update its Declared Age Range API and launch new APIs &quot;later this year&quot; to verify the ages of Apple Account users in Texas from January 1, 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p21#a251009p21)<!-- TECH:END -->
+ - [OneDrive is getting a new Windows app and an AI photo agent](https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

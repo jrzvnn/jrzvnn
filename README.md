@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A survey of 1,000 ninth through 12th grade US students finds that nearly one in five say they or someone they know has had a romantic relationship with AI &lpar;Lee V. Gaines/NPR&rpar;](http://www.techmeme.com/251009/p13#a251009p13)
  - [A look at China&#39;s AI toy boom, which builds on decades of consumer electronics designed for children, as AI toy companies expand into the US and other markets &lpar;Caiwei Chen/MIT Technology Review&rpar;](http://www.techmeme.com/251009/p12#a251009p12)
  - [Ferrari Reveals Its Electric Powerhouse, and What Could Finally Be Real EV Sound](https://www.wired.com/story/ferrari-reveals-its-electric-powerhouse-and-what-could-finally-be-real-ev-sound/)
  - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)
- - [A look at the risks of BNPL apps like Klarna on users&#39; financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services &lpar;Amy X. Wang/New York Times&rpar;](http://www.techmeme.com/251009/p10#a251009p10)
- - [Berlin-based n8n, which lets businesses automate repetitive computing tasks through AI agents, raised $180M led by Accel at a $2.5B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251009/p9#a251009p9)<!-- TECH:END -->
+ - [A look at the risks of BNPL apps like Klarna on users&#39; financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services &lpar;Amy X. Wang/New York Times&rpar;](http://www.techmeme.com/251009/p10#a251009p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

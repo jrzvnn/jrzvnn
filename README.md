@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - 😝 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
- - 💣 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
  - 😝 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
- - 👉 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)<!-- MEMES:END -->
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 💣 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 😝 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)
+ - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
 
 ---
 

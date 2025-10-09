@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DoorDash partners with Serve Robotics to use its autonomous sidewalk delivery robots, starting in LA; Serve also partners with Uber; SERV jumps 20%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251009/p41#a251009p41)
  - [SoundCloud evolves into a more social platform with the introduction of new community-oriented features, including playlists based on friends&#39; likes &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251009/p40#a251009p40)
  - [OpenAI raised concerns about anti-competitive conduct by &quot;entrenched companies&quot; in a September EU meeting; source: OpenAI targeted Google, Microsoft, and Apple &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251009/p39#a251009p39)
  - [Bill Peebles, head of Sora at OpenAI, says the app hit 1M downloads less than five days after its launch, even faster than ChatGPT did &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251009/p38#a251009p38)
- - [Sony teases new GPU tech for the PS6](https://www.theverge.com/news/797640/sony-ps6-handheld-gpu-ray-path-tracing-amd-radiance-cores)
- - [Battlefield 6 is a pivotal moment for the series — and EA](https://www.theverge.com/games/795232/ea-battlefield-6-hit-launch-deal)<!-- TECH:END -->
+ - [Sony teases new GPU tech for the PS6](https://www.theverge.com/news/797640/sony-ps6-handheld-gpu-ray-path-tracing-amd-radiance-cores)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

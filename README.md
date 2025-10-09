@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [October’s Prime Day event is almost over, but our favorite deals are still live](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+ - [Sources: Cursor-maker Anysphere is considering investment offers at a ~$30B valuation; Cursor generates $500M in ARR as of June, third highest for an AI app &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p1#a251009p1)
  - [Netflix is making its video games available on smart TVs and streaming devices like Roku for the first time, with phones serving as controllers &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251008/p52#a251008p52)
  - [Sony&amp;#8217;s noise-canceling WH-1000XM5 headphones are a Prime Day steal at $150 off](https://www.theverge.com/tech/797220/amazon-october-prime-day-sony-wh-1000xm5-headphones-deal-sale-2025)
- - [The 228 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [California Governor Gavin Newsom signs a bill that will require web browsers to add settings that allow residents to opt out of third-party data collection &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p51#a251008p51)
- - [Horror Streaming Guide: 12 New Movies and Shows to Watch in October](https://www.cnet.com/tech/services-and-software/horror-streaming-guide-12-new-movies-and-shows-to-watch-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [California Governor Gavin Newsom signs a bill that will require web browsers to add settings that allow residents to opt out of third-party data collection &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251008/p51#a251008p51)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ethereum Foundation announces the &quot;Privacy cluster&quot;, a team of 47 blockchain industry experts developing protocol-level privacy features for the network &lpar;Vince Quill/Cointelegraph&rpar;](http://www.techmeme.com/251009/p5#a251009p5)
  - [Sources: Microsoft is planning a major healthcare push for Copilot in partnership with Harvard Medical School, as it seeks to reduce its dependence on OpenAI &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251009/p4#a251009p4)
  - [Sources: US Commerce Department&#39;s BIS approves several billion dollars&#39; worth of Nvidia chip exports to the UAE, an early step in a May 2025 bilateral AI deal &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251009/p3#a251009p3)
  - [During a Mumbai trade visit, UK PM Keir Starmer hailed India&#39;s digital ID program, Aadhaar, as a &quot;massive success&quot; as the UK plans to introduce digital ID cards &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p2#a251009p2)
- - [October’s Prime Day event is almost over, but our favorite deals are still live](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [Sources: Cursor-maker Anysphere is considering investment offers at a ~$30B valuation; Cursor generates $500M in ARR as of June, third highest for an AI app &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p1#a251009p1)<!-- TECH:END -->
+ - [October’s Prime Day event is almost over, but our favorite deals are still live](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

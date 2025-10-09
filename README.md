@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shows off the unsettling world of Pluribus in first trailer](https://www.theverge.com/tech/797754/pluribus-trailer-apple-tv-plus)
+ - [OpenAI’s Sora has already hit more than 1 million downloads](https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads)
+ - [We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
  - [AWS launches Quick Suite, a chatbot and set of AI agents that can analyze sales data, produce reports, and summarize web content, set to replace Q Business &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251009/p44#a251009p44)
- - [Europe Pledges $600 Billion for Clean Energy Projects in Africa](https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/)
- - [The German government scales back financial aid for its semiconductor industry, cutting €3B from its previously planned €15B chip subsidies to fund road repairs &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251009/p43#a251009p43)
- - [The AI industry is at a major crossroads](https://www.theverge.com/podcast/796667/ai-industry-crossroads-openai-sora-chatgpt)
- - [He Wrote a Book About Antifa. Death Threats Are Driving Him Out of the US](https://www.wired.com/story/mark-bray-book-antifa-death-threats/)<!-- TECH:END -->
+ - [Europe Pledges $600 Billion for Clean Energy Projects in Africa](https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

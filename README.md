@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of nearly 50 Amazon purchases over six months in 2025: during the October 7-8 Prime Day sales, average savings were only 0.6% and some items went up &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/251009/p22#a251009p22)
  - [OneDrive is getting a new Windows app and an AI photo agent](https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features)
  - [Apple plans to update its Declared Age Range API and launch new APIs &quot;later this year&quot; to verify the ages of Apple Account users in Texas from January 1, 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p21#a251009p21)
  - [6 Best Smart Locks &lpar;2025&rpar; for Front Doors, Slider Doors, and Even Garages](https://www.wired.com/story/best-smart-locks/)
- - [SoftBank-owned PayPay takes a 40% stake in Binance Japan for an undisclosed sum, to capitalize on Japan&#39;s crypto boom; PayPay filed for a US IPO in August &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/251009/p20#a251009p20)
- - [A profile of Twitch streamer Kai Cenat, who has 19M followers on the platform, many of them young people, and drew nearly 50M viewers to a monthlong stream &lpar;Emmanuel Morgan/New York Times&rpar;](http://www.techmeme.com/251009/p19#a251009p19)<!-- TECH:END -->
+ - [SoftBank-owned PayPay takes a 40% stake in Binance Japan for an undisclosed sum, to capitalize on Japan&#39;s crypto boom; PayPay filed for a US IPO in August &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/251009/p20#a251009p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

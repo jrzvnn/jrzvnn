@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
  - 😝 [Wowser..](http://9gag.com/gag/ajPMW90)
  - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 😝 [Neede wife](http://9gag.com/gag/a34pN8e)
+ - 😝 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
  - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adobe launches AI agents tailored for B2B marketers within its Adobe Experience Platform, after launching AI agents aimed at consumer marketing in September &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251009/p48#a251009p48)
  - [Netflix Is Bringing These 5 Party Games to a TV Near You](https://www.cnet.com/tech/gaming/netflix-is-bringing-these-5-party-games-to-a-tv-near-you/#ftag=CAD590a51e)
  - [At Just $50, This All-in-One Kitchen Appliance Is a Steal](https://www.cnet.com/deals/at-just-50-this-all-in-one-kitchen-appliance-is-a-steal/#ftag=CAD590a51e)
  - [A Duolingo Anime Series Is Coming to YouTube](https://www.cnet.com/tech/services-and-software/a-duolingo-anime-series-is-coming-to-youtube/#ftag=CAD590a51e)
- - [Kernel, which helps AI agents access the internet more efficiently via Chrome, raised $22M in seed and Series A led by Accel &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251009/p47#a251009p47)
- - [NordVPN Backs Up Its No-Log Claims With a New Audit From Deloitte](https://www.cnet.com/tech/services-and-software/nordvpn-backs-up-its-no-log-claims-with-a-new-audit-from-deloitte/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kernel, which helps AI agents access the internet more efficiently via Chrome, raised $22M in seed and Series A led by Accel &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251009/p47#a251009p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

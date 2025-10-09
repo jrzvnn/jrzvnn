@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Timex is resurrecting its first LCD watch 50 years later](https://www.theverge.com/news/797692/timex-ssq-digital-reissue-lcd-watch-retro)
  - [The City That Made the World Fall for a Monster](https://www.wired.com/story/made-in-china-why-labubus-come-from-hong-kong/)
  - [Tigris, which is building a network of localized data storage centers that it claims can meet the compute needs of AI workloads, raised a $25M Series A &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251009/p42#a251009p42)
  - [The 2027 Chevy Bolt will be one of the cheapest EVs you can get](https://www.theverge.com/news/797646/chevy-bolt-price-reveal-ev-affordable-specs)
- - [Meta wants its metaverse everywhere](https://www.theverge.com/column/797624/meta-metaverse-horizon-worlds-mobile-vr-social)
- - [DoorDash partners with Serve Robotics to use its autonomous sidewalk delivery robots, starting in LA; Serve also partners with Uber; SERV jumps 20%+ &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251009/p41#a251009p41)<!-- TECH:END -->
+ - [Meta wants its metaverse everywhere](https://www.theverge.com/column/797624/meta-metaverse-horizon-worlds-mobile-vr-social)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

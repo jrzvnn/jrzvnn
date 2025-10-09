@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Cloud launches Gemini Enterprise, designed to help employees automate tasks and generate content across departments, priced at $30 per user per month &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p27#a251009p27)
- - [Reflection AI, which is developing an open-source AI model to compete with DeepSeek, raised $2B led by Nvidia, valuing it at $8B, up from $545M in March &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251009/p26#a251009p26)
- - [The Browser Company says AI browser Dia is &quot;now open to everyone on macOS&quot; without an invite, Dia&#39;s first time being widely available since its June launch &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251009/p25#a251009p25)
- - [DC Comics won’t support generative AI: ‘not now, not ever’](https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge)
- - [Sources: Disney has opted out of having its IP appear in OpenAI&#39;s Sora app; CAA says OpenAI is exposing artists to &quot;significant risk&quot; with Sora &lpar;Mrinmay Dey/Reuters&rpar;](http://www.techmeme.com/251009/p24#a251009p24)<!-- TECH:END -->
+ - [Netflix&amp;#8217;s first TV party games include Lego, Boggle, and Tetris](https://www.theverge.com/streaming/797589/netflix-tv-party-games-boggle-tetris-lego-party)
+ - [Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics](https://www.theverge.com/report/797146/intel-panther-lake-core-series-3-architecture-platform-feature-reveal)
+ - [Elgato is launching a bigger teleprompter for presenters, podcasters, and businesses](https://www.theverge.com/news/797462/elgato-prompter-xl-launch-specs-price-release-date)
+ - [11 Foods Your Freezer Will Completely Destroy](https://www.cnet.com/news/11-foods-your-freezer-will-completely-destroy/#ftag=CAD590a51e)
+ - [The best October Prime Day deals you can still shop](https://www.theverge.com/tech/797264/best-amazon-prime-day-tech-deals-october-still-available-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

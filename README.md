@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI expands its ~$5 ChatGPT Go plan to 16 new Asian countries, including Malaysia, Pakistan, the Philippines, and Vietnam, after launching it in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251009/p17#a251009p17)
  - [ASML names Marco Pieters as its new CTO, replacing Martin van den Brink who left in 2024; Pieters was most recently EVP of ASML&#39;s Applications business &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251009/p16#a251009p16)
  - [China unveils sweeping export controls on rare-earth minerals, creating rules akin to US measures that block chip-related exports to China from third countries &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/251009/p15#a251009p15)
  - [The Browser Company’s Dia is now available on Mac, no invite needed](https://www.theverge.com/news/797436/dia-browser-available-mac)
- - [A look at ASML&#39;s planned 100-hectare expansion project in Eindhoven, set to create 20,000 jobs and that is focused on expanding production of its EUV machines &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p14#a251009p14)
- - [A survey of 1,000 ninth through 12th grade US students finds that nearly one in five say they or someone they know has had a romantic relationship with AI &lpar;Lee V. Gaines/NPR&rpar;](http://www.techmeme.com/251009/p13#a251009p13)<!-- TECH:END -->
+ - [A look at ASML&#39;s planned 100-hectare expansion project in Eindhoven, set to create 20,000 jobs and that is focused on expanding production of its EUV machines &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p14#a251009p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess they didn&#39;t check the translation before getting these tattoos](http://9gag.com/gag/aMVNXLP)
- - 😝 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)
- - 💣 [Understandable, Have a Great Day](http://9gag.com/gag/awyGdjQ)
- - 😝 [Good Humour](http://9gag.com/gag/aYQn100)
- - 👉 [It just makes sense.](http://9gag.com/gag/ajPMZz1)<!-- MEMES:END -->
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 💣 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
+ - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
 
 ---
 

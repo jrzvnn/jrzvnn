@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HBO&amp;#8217;s next Game of Thrones spinoff premieres in January](https://www.theverge.com/entertainment/797762/hbo-a-knight-of-seven-kingdoms-trailer-release-date)
+ - [Cruz wants to make it easier for Americans to get damages for government censorship](https://www.theverge.com/news/797766/cruz-government-censorship-kimmel-carr-first-amendment)
+ - [Scotland vs. Greece: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/scotland-vs-greece-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Apple shows off the unsettling world of Pluribus in first trailer](https://www.theverge.com/tech/797754/pluribus-trailer-apple-tv-plus)
- - [OpenAI’s Sora has already hit more than 1 million downloads](https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads)
- - [We Found 136 of the Best Prime Day Deals Still on for 2025: Up to 55% Off](https://www.wired.com/story/prime-day-deals-october-2025-1/)
- - [AWS launches Quick Suite, a chatbot and set of AI agents that can analyze sales data, produce reports, and summarize web content, set to replace Q Business &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251009/p44#a251009p44)
- - [Europe Pledges $600 Billion for Clean Energy Projects in Africa](https://www.wired.com/story/europe-pledges-dollar600-billion-for-clean-energy-projects-in-africa/)<!-- TECH:END -->
+ - [OpenAI’s Sora has already hit more than 1 million downloads](https://www.theverge.com/news/797752/openai-sora-app-1-million-downloads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

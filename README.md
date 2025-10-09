@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How China Is Hoping to Attract Tech Talent](https://www.wired.com/story/uncanny-valley-podcast-how-china-is-hoping-to-attract-tech-talent/)
  - [YouTube launches a pilot program to give terminated creators a &quot;second chance&quot; by letting them apply to create a new channel &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/251009/p50#a251009p50)
  - [Adam Mosseri says Instagram is exploring building a TV app as part of a deeper push into video but isn&#39;t interested in licensing live sports or other content &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p49#a251009p49)
  - [EcoFlow Recalls 25,000 Delta Max 2000 Power Stations Over Fire and Burn Hazard — Here’s How to Fix Yours](https://www.cnet.com/news/ecoflow-recalls-25000-delta-max-2000-power-stations-over-fire-and-burn-hazard-heres-how-to-fix-yours/#ftag=CAD590a51e)
- - [Adobe launches AI agents tailored for B2B marketers within its Adobe Experience Platform, after launching AI agents aimed at consumer marketing in September &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251009/p48#a251009p48)
- - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-with-apple-homekit-and-siri/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe launches AI agents tailored for B2B marketers within its Adobe Experience Platform, after launching AI agents aimed at consumer marketing in September &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251009/p48#a251009p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

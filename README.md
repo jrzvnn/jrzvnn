@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel CTO Sachin Katti says 18A and Panther Lake are &quot;foundational to our future&quot; and manufacturing is &quot;mission critical, not just for Intel but for&quot; the US &lpar;New York Times&rpar;](http://www.techmeme.com/251009/p33#a251009p33)
- - [At a three-day Intel event in Arizona, executives repeatedly asserted that 18A is the most advanced chip production tech developed and deployed in the US &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251009/p32#a251009p32)
- - [Intel unveils an 18A-based 2nm Clearwater Forest server CPU, launching in H1 2026 with up to 288 E-cores and more, produced in its Fab 52 plant in Arizona &lpar;InsideHPC&rpar;](http://www.techmeme.com/251009/p31#a251009p31)
- - [Tesla is facing an investigation over Full Self-Driving traffic violations](https://www.theverge.com/news/797618/tesla-nhtsa-investigation-full-self-driving-traffic-safety-violations)
- - [Intel says 18A-based Panther Lake chips can deliver 50% more performance at similar power to Lunar Lake chips, details RibbonFET efficiency gains, and more &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251009/p30#a251009p30)<!-- TECH:END -->
+ - [Austin-based Routefusion, whose API for financial institutions lets them embed accounts, payments, currency conversion, and compliance, raised a $26.7M Series A &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251009/p35#a251009p35)
+ - [Nintendo’s weird Pikmin videos were short films, not announcement teasers](https://www.theverge.com/entertainment/797623/pikmin-close-to-you-nintendo-pictures)
+ - [The US NHTSA opens a probe into 2.88M FSD-enabled Tesla vehicles over 50+ reports of traffic-safety violations like running red lights and a series of crashes &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251009/p34#a251009p34)
+ - [Xtra: the company that lets DJI sneak its popular cameras into the US](https://www.theverge.com/report/795016/xtra-muse-dji-osmo-pocket-3-us-customs-tariffs)
+ - [We took viral TikTok gadgets on the road](https://www.theverge.com/tech/795199/tiktok-gadgets-travel-viral-social-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

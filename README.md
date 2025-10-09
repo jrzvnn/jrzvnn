@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Coinbase and Mastercard have each held talks to acquire stablecoin startup BVNK for $1.5B-$2.5B; a deal would be the largest stablecoin acquisition yet &lpar;Fortune&rpar;](http://www.techmeme.com/251009/p53#a251009p53)
+ - [Lakers fans will get court-side seats with Apple Vision Pro](https://appleinsider.com/articles/25/10/09/lakers-fans-will-get-court-side-seats-with-apple-vision-pro?utm_source=rss)
  - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
  - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)
- - [Our Favorite Motorola Smartphone Is $100 Off](https://www.wired.com/story/motorola-razr-deal-1025/)
- - [The Vision Pro is getting its first live ‘immersive’ sports](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games)
- - [Discord Security Breach Exposed Government ID Photos of 70,000 Users](https://www.cnet.com/tech/services-and-software/discord-security-breach-exposed-government-id-photos-of-70000-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Favorite Motorola Smartphone Is $100 Off](https://www.wired.com/story/motorola-razr-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

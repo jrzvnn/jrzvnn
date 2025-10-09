@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix&amp;#8217;s first TV party games include Lego, Boggle, and Tetris](https://www.theverge.com/streaming/797589/netflix-tv-party-games-boggle-tetris-lego-party)
- - [Here is Panther Lake, Intel’s 2026 laptop chip with next-gen graphics](https://www.theverge.com/report/797146/intel-panther-lake-core-series-3-architecture-platform-feature-reveal)
- - [Elgato is launching a bigger teleprompter for presenters, podcasters, and businesses](https://www.theverge.com/news/797462/elgato-prompter-xl-launch-specs-price-release-date)
- - [11 Foods Your Freezer Will Completely Destroy](https://www.cnet.com/news/11-foods-your-freezer-will-completely-destroy/#ftag=CAD590a51e)
- - [The best October Prime Day deals you can still shop](https://www.theverge.com/tech/797264/best-amazon-prime-day-tech-deals-october-still-available-2025)<!-- TECH:END -->
+ - [At a three-day Intel event in Arizona, executives repeatedly asserted that 18A is the most advanced chip production tech developed and deployed in the US &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251009/p32#a251009p32)
+ - [Intel unveils an 18A-based 2nm Clearwater Forest server CPU, launching in H1 2026 with up to 288 E-cores and more, produced in its Fab 52 plant in Arizona &lpar;InsideHPC&rpar;](http://www.techmeme.com/251009/p31#a251009p31)
+ - [Tesla is facing an investigation over Full Self-Driving traffic violations](https://www.theverge.com/news/797618/tesla-nhtsa-investigation-full-self-driving-traffic-safety-violations)
+ - [Intel says 18A-based Panther Lake chips can deliver 50% more performance at similar power to Lunar Lake chips, details RibbonFET efficiency gains, and more &lpar;Jeffrey Kampman/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251009/p30#a251009p30)
+ - [Inside Intel&#39;s new 700-acre factories in the Arizona desert, which cost $32B and are starting large-scale 18A chip production, as it seeks to impress customers &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251009/p29#a251009p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

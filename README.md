@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I never lose my wallet with Nomad&amp;#8217;s slim tracker, which is 20 percent off right now](https://www.theverge.com/tech/797044/amazon-october-prime-day-nomad-tracking-card-deal-sale-2025)
- - [You can still save up to 70 percent on headphones from Bose and Sony today](https://www.theverge.com/tech/790242/amazon-october-prime-day-best-headphone-earbud-deals-2025)
- - [A bunch of 4K Blu-ray movies we love are under $20 for Prime Day](https://www.theverge.com/tech/787694/amazon-october-prime-day-4k-bluray-uhd-movie-deal-sale-2025)
- - [Crypto exchange Gemini launches an Australian arm, Gemini Intergalactic Australia, to offer its services in the country after registering with regulator AUSTRAC &lpar;Reuters&rpar;](http://www.techmeme.com/251008/p46#a251008p46)
- - [100 Best Prime Day Deals Under $100 &lpar;2025&rpar;: Chargers, Earbuds, and More](https://www.wired.com/story/best-prime-day-deals-under-100-october-2025-1/)<!-- TECH:END -->
+ - [The 225 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
+ - [Sources: the US DHS has reassigned hundreds of CISA staffers to jobs that support deportations, including at ICE, and said it would dismiss anyone who refused &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p48#a251008p48)
+ - [Switch 2 accessories that I recommend are cheaper than ever during October Prime Day](https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day)
+ - [MetaMask launches in-app perpetual futures trading powered by Hyperliquid, and plans to integrate Polymarket&#39;s prediction markets later this year &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251008/p47#a251008p47)
+ - [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

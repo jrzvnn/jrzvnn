@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 💣 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
+ - 😝 [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 😝 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
  - 😝 [Ben Affleck beating Tarantino for Best Director back in 2012](http://9gag.com/gag/aXPGRbb)
- - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
+ - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
 
 ---
 

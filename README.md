@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
  - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 😝 [I dont mind it](http://9gag.com/gag/axynmbY)
- - 💣 [Wowser..](http://9gag.com/gag/ajPMW90)
- - 😝 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
- - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
+ - 💣 [I dont mind it](http://9gag.com/gag/axynmbY)
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 ---
 

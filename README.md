@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wowser..](http://9gag.com/gag/ajPMW90)
  - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 💣 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 💣 [Wowser..](http://9gag.com/gag/ajPMW90)
  - 😝 [I dont mind it](http://9gag.com/gag/axynmbY)
  - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
 

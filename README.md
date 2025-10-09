@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank-owned PayPay takes a 40% stake in Binance Japan for an undisclosed sum, to capitalize on Japan&#39;s crypto boom; PayPay filed for a US IPO in August &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/251009/p20#a251009p20)
+ - [A profile of Twitch streamer Kai Cenat, who has 19M followers on the platform, many of them young people, and drew nearly 50M viewers to a monthlong stream &lpar;Emmanuel Morgan/New York Times&rpar;](http://www.techmeme.com/251009/p19#a251009p19)
  - [Logitech tells users that it will end support for its Pop smart home switches, launched in August 2016, on October 15, as it moves on from its smart home plans &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/251009/p18#a251009p18)
  - [The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits](https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/)
- - [The Meta Ray-Ban Display’s most interesting tech might be the glass](https://www.theverge.com/news/797442/ifixit-meta-ray-ban-display-smartglasses-teardown-glass)
- - [OpenAI expands its ~$5 ChatGPT Go plan to 16 new Asian countries, including Malaysia, Pakistan, the Philippines, and Vietnam, after launching it in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251009/p17#a251009p17)
- - [Is &#39;Fibermaxxing&#39; the New &#39;Protein Goals&#39;? I Asked Nutrition Experts](https://www.cnet.com/health/nutrition/is-fibermaxxing-new-protein-goals-asked-nutrition-experts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Meta Ray-Ban Display’s most interesting tech might be the glass](https://www.theverge.com/news/797442/ifixit-meta-ray-ban-display-smartglasses-teardown-glass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

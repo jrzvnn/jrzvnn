@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 💣 [I like my chances if I ever participate in this show](http://9gag.com/gag/aKGNYpb)
- - 😝 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)
- - 👉 [I dont mind it](http://9gag.com/gag/axynmbY)<!-- MEMES:END -->
+ - 😝 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
+ - 😝 [I like my chances if I ever participate in this show](http://9gag.com/gag/aKGNYpb)
+ - 💣 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
+ - 😝 [How about them apples?](http://9gag.com/gag/aAyNZy9)
+ - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 ---
 

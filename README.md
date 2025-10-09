@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 225 best last-minute Prime Day deals you can still grab](https://www.theverge.com/tech/795212/best-amazon-prime-day-tech-deals-october-2025-day-2)
- - [Sources: the US DHS has reassigned hundreds of CISA staffers to jobs that support deportations, including at ICE, and said it would dismiss anyone who refused &lpar;Bloomberg&rpar;](http://www.techmeme.com/251008/p48#a251008p48)
- - [Switch 2 accessories that I recommend are cheaper than ever during October Prime Day](https://www.theverge.com/tech/789835/switch-2-accessories-that-i-recommend-are-cheaper-than-ever-during-october-prime-day)
- - [MetaMask launches in-app perpetual futures trading powered by Hyperliquid, and plans to integrate Polymarket&#39;s prediction markets later this year &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251008/p47#a251008p47)
- - [You still have time to save on Verge-favorite gadgets before Prime Day ends](https://www.theverge.com/tech/794507/amazon-october-prime-day-deals-verge-favorites-2025)<!-- TECH:END -->
+ - [Discord estimates 70,000 users globally may have had government ID photos exposed in a September 20 third-party customer service data breach &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251008/p50#a251008p50)
+ - [Discord support was breached, and accounts vary on how bad it was](https://appleinsider.com/articles/25/10/08/discord-support-was-breached-and-accounts-vary-on-how-bad-it-was?utm_source=rss)
+ - [Prime Day ends soon, but these deals are still going at Walmart](https://www.theverge.com/tech/793052/best-walmart-anti-prime-day-deals-october-2025)
+ - [Alienware’s incredible 27-inch 4K QD-OLED gaming monitor is $200 off](https://www.theverge.com/tech/796918/amazon-october-prime-day-alienware-aw2725q-oled-gaming-monitor-deal-sale)
+ - [These great October Prime Day deals on laptops won’t last much longer](https://www.theverge.com/tech/792893/amazon-october-prime-big-deal-day-laptops-gaming-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

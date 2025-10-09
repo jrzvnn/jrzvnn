@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
  - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 💣 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
  - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 💣 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - 😝 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
  - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 ---

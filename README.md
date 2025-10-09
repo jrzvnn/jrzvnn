@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Coinbase and Mastercard have each held talks to acquire stablecoin startup BVNK for $1.5B-$2.5B; a deal would be the largest stablecoin acquisition yet &lpar;Fortune&rpar;](http://www.techmeme.com/251009/p53#a251009p53)
  - [Lakers fans will get court-side seats with Apple Vision Pro](https://appleinsider.com/articles/25/10/09/lakers-fans-will-get-court-side-seats-with-apple-vision-pro?utm_source=rss)
  - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
- - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)
- - [Our Favorite Motorola Smartphone Is $100 Off](https://www.wired.com/story/motorola-razr-deal-1025/)<!-- TECH:END -->
+ - [Get Ready for A Minecraft Movie 2: A Sequel Film Is in the Works](https://www.cnet.com/tech/services-and-software/get-ready-for-a-minecraft-movie-2-a-sequel-film-is-in-the-works/#ftag=CAD590a51e)
+ - [Need a Kid-Friendly Movie? Don&#39;t Overlook Hallmark](https://www.cnet.com/tech/services-and-software/need-a-kid-friendly-movie-dont-overlook-hallmark/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

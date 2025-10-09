@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
+ - 😝 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
  - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 💣 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
+ - 💣 [I like my chances if I ever participate in this show](http://9gag.com/gag/aKGNYpb)
  - 😝 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)
- - 👉 [Wowser..](http://9gag.com/gag/ajPMW90)<!-- MEMES:END -->
+ - 👉 [I dont mind it](http://9gag.com/gag/axynmbY)<!-- MEMES:END -->
 
 ---
 

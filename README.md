@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Running for your life just got a whole new meaning](http://9gag.com/gag/aGyN2Mn)
- - 😝 [I like my chances if I ever participate in this show](http://9gag.com/gag/aKGNYpb)
- - 💣 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 😝 [How about them apples?](http://9gag.com/gag/aAyNZy9)
- - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
+ - 😝 [Meine kinder surprised](http://9gag.com/gag/aW4N983)
+ - 😝 [Some trauma never heals....](http://9gag.com/gag/aPAdrLV)
+ - 💣 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
+ - 😝 [A knowledgeable person shared this, so I tried this prompt out with chatgpt. The improve is OUTSTANDING. I decided to share it because this is so useful and it worked so well for me. Chatgpt finally stopped patting backs all the time, and started to solve problems and be clear.](http://9gag.com/gag/a2vjLXd)
+ - 👉 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)<!-- MEMES:END -->
 
 ---
 

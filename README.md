@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech tells users that it will end support for its Pop smart home switches, launched in August 2016, on October 15, as it moves on from its smart home plans &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/251009/p18#a251009p18)
+ - [The AI Slur ‘Clanker’ Has Become a Cover for Racist TikTok Skits](https://www.wired.com/story/the-ai-slur-clanker-has-become-a-cover-for-racist-tiktok-skits/)
+ - [The Meta Ray-Ban Display’s most interesting tech might be the glass](https://www.theverge.com/news/797442/ifixit-meta-ray-ban-display-smartglasses-teardown-glass)
  - [OpenAI expands its ~$5 ChatGPT Go plan to 16 new Asian countries, including Malaysia, Pakistan, the Philippines, and Vietnam, after launching it in August &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251009/p17#a251009p17)
- - [ASML names Marco Pieters as its new CTO, replacing Martin van den Brink who left in 2024; Pieters was most recently EVP of ASML&#39;s Applications business &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251009/p16#a251009p16)
- - [China unveils sweeping export controls on rare-earth minerals, creating rules akin to US measures that block chip-related exports to China from third countries &lpar;Ryan McMorrow/Financial Times&rpar;](http://www.techmeme.com/251009/p15#a251009p15)
- - [The Browser Company’s Dia is now available on Mac, no invite needed](https://www.theverge.com/news/797436/dia-browser-available-mac)
- - [A look at ASML&#39;s planned 100-hectare expansion project in Eindhoven, set to create 20,000 jobs and that is focused on expanding production of its EUV machines &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p14#a251009p14)<!-- TECH:END -->
+ - [Is &#39;Fibermaxxing&#39; the New &#39;Protein Goals&#39;? I Asked Nutrition Experts](https://www.cnet.com/health/nutrition/is-fibermaxxing-new-protein-goals-asked-nutrition-experts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
  - [Ferrari exposes the guts of its upcoming 1000hp EV](https://www.theverge.com/news/797746/ferrari-ev-motor-range-power-shifting)
  - [Our Favorite Motorola Smartphone Is $100 Off](https://www.wired.com/story/motorola-razr-deal-1025/)
  - [The Vision Pro is getting its first live ‘immersive’ sports](https://www.theverge.com/news/797970/apple-vision-pro-immersive-nba-lakers-games)
- - [Discord Security Breach Exposed Government ID Photos of 70,000 Users](https://www.cnet.com/tech/services-and-software/discord-security-breach-exposed-government-id-photos-of-70000-users/#ftag=CAD590a51e)
- - [Sources: crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, has reached a tentative agreement with the US DOJ to pay ~$48M to end a 2024 criminal tax fraud case &lpar;New York Times&rpar;](http://www.techmeme.com/251009/p51#a251009p51)<!-- TECH:END -->
+ - [Discord Security Breach Exposed Government ID Photos of 70,000 Users](https://www.cnet.com/tech/services-and-software/discord-security-breach-exposed-government-id-photos-of-70000-users/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

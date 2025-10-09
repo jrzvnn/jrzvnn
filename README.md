@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ferrari Reveals Its Electric Powerhouse, and What Could Finally Be Real EV Sound](https://www.wired.com/story/ferrari-reveals-its-electric-powerhouse-and-what-could-finally-be-real-ev-sound/)
  - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)
  - [A look at the risks of BNPL apps like Klarna on users&#39; financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services &lpar;Amy X. Wang/New York Times&rpar;](http://www.techmeme.com/251009/p10#a251009p10)
  - [Berlin-based n8n, which lets businesses automate repetitive computing tasks through AI agents, raised $180M led by Accel at a $2.5B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251009/p9#a251009p9)
- - [A teardown of the $800 Meta Ray-Ban Display reveals a system of mirrors enabling its &quot;geometric&quot; waveguide tech, setting it apart from other AR glasses &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/251009/p8#a251009p8)
- - [Anthropic&#39;s weeklong anti-AI slop pop-up in NYC&#39;s West Village, part of its &quot;Keep Thinking&quot; Claude push, drew 5,000+ people and 10M+ social media impressions &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251009/p7#a251009p7)<!-- TECH:END -->
+ - [A teardown of the $800 Meta Ray-Ban Display reveals a system of mirrors enabling its &quot;geometric&quot; waveguide tech, setting it apart from other AR glasses &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/251009/p8#a251009p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
- - 😝 [Fiona Gallagher going through some rough times](http://9gag.com/gag/aqypWNj)
- - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
- - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 💣 [Ben Affleck beating Tarantino for Best Director back in 2012](http://9gag.com/gag/aXPGRbb)
+ - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
+ - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
 
 ---
 

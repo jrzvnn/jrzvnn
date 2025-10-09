@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Austin-based Routefusion, whose API for financial institutions lets them embed accounts, payments, currency conversion, and compliance, raised a $26.7M Series A &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251009/p35#a251009p35)
- - [Nintendo’s weird Pikmin videos were short films, not announcement teasers](https://www.theverge.com/entertainment/797623/pikmin-close-to-you-nintendo-pictures)
- - [The US NHTSA opens a probe into 2.88M FSD-enabled Tesla vehicles over 50+ reports of traffic-safety violations like running red lights and a series of crashes &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251009/p34#a251009p34)
- - [Xtra: the company that lets DJI sneak its popular cameras into the US](https://www.theverge.com/report/795016/xtra-muse-dji-osmo-pocket-3-us-customs-tariffs)
- - [We took viral TikTok gadgets on the road](https://www.theverge.com/tech/795199/tiktok-gadgets-travel-viral-social-media)<!-- TECH:END -->
+ - [Leak details Samsung’s Android XR headset weeks before expected launch](https://www.theverge.com/news/797679/samsung-android-xr-project-moohan-leak)
+ - [Meta Ray-Ban Display review: good for some uses like navigation and AI queries, the neural band is great, but the display&#39;s not sharp and camera is just 1080p &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251009/p36#a251009p36)
+ - [This $299 Rubik&amp;#8217;s Cube swaps colored squares for LCD screens](https://www.theverge.com/news/797601/spin-master-rubiks-cube-wowcube-puzzle-app-store-mobile-games)
+ - [Covid Shots Are About to Be Widely Available Again](https://www.wired.com/story/covid-shots-are-about-to-be-widely-available-again-vaccines-cdc/)
+ - [Austin-based Routefusion, whose API for financial institutions lets them embed accounts, payments, currency conversion, and compliance, raised a $26.7M Series A &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251009/p35#a251009p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

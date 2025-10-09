@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 😝 [Please if you have any problem don\u2019t hesitate contacting us](http://9gag.com/gag/a34pWnN)
- - 💣 [That was f..ing close](http://9gag.com/gag/apRjAKE)
- - 😝 [How do I respond?](http://9gag.com/gag/a5Qyqeg)
- - 👉 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)<!-- MEMES:END -->
+ - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 💣 [Ben Affleck beating Tarantino for Best Director back in 2012](http://9gag.com/gag/aXPGRbb)
+ - 😝 [As always](http://9gag.com/gag/aND2jnG)
+ - 👉 [You don&#39;t have to agree. But he has a point](http://9gag.com/gag/azxDRnm)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Disney has opted out of having its IP appear in OpenAI&#39;s Sora app; CAA says OpenAI is exposing artists to &quot;significant risk&quot; with Sora &lpar;Mrinmay Dey/Reuters&rpar;](http://www.techmeme.com/251009/p24#a251009p24)
- - [Toronto-based Spellbook, whose AI helps with legal contracts, raised $50M led by Khosla Ventures at a $350M valuation and says it has ~4,000 customers &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251009/p23#a251009p23)
- - [Google’s Pixel 10 Pro Fold is the thin-enough foldable](https://www.theverge.com/tech/796297/google-pixel-10-pro-fold-thickness-weight-design)
- - [An analysis of nearly 50 Amazon purchases over six months in 2025: during the October 7-8 Prime Day sales, average savings were only 0.6% and some items went up &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/251009/p22#a251009p22)
- - [OneDrive is getting a new Windows app and an AI photo agent](https://www.theverge.com/news/797444/microsoft-onedrive-new-windows-app-ai-copilot-features)<!-- TECH:END -->
+ - [Google Cloud launches Gemini Enterprise, designed to help employees automate tasks and generate content across departments, priced at $30 per user per month &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p27#a251009p27)
+ - [Reflection AI, which is developing an open-source AI model to compete with DeepSeek, raised $2B led by Nvidia, valuing it at $8B, up from $545M in March &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251009/p26#a251009p26)
+ - [The Browser Company says AI browser Dia is &quot;now open to everyone on macOS&quot; without an invite, Dia&#39;s first time being widely available since its June launch &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251009/p25#a251009p25)
+ - [DC Comics won’t support generative AI: ‘not now, not ever’](https://www.theverge.com/news/797540/dc-comics-jim-lee-no-generative-ai-pledge)
+ - [Sources: Disney has opted out of having its IP appear in OpenAI&#39;s Sora app; CAA says OpenAI is exposing artists to &quot;significant risk&quot; with Sora &lpar;Mrinmay Dey/Reuters&rpar;](http://www.techmeme.com/251009/p24#a251009p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

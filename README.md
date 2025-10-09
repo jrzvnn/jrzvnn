@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wowser..](http://9gag.com/gag/ajPMW90)
- - 😝 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
+ - 😝 [You&#39;d ask yourself what was the color of the gun](http://9gag.com/gag/aZZVj1W)
  - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 😝 [Ben Affleck beating Tarantino for Best Director back in 2012](http://9gag.com/gag/aXPGRbb)
- - 👉 [That was f..ing close](http://9gag.com/gag/apRjAKE)<!-- MEMES:END -->
+ - 😝 [That was f..ing close](http://9gag.com/gag/apRjAKE)
+ - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 ---
 

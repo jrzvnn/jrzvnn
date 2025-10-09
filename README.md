@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Samsung researcher introduces the Tiny Recursion Model, a 7M-parameter model that was able to outperform LLMs 10,000x larger like o3-mini on specific problems &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251009/p11#a251009p11)
+ - [A look at the risks of BNPL apps like Klarna on users&#39; financial health, as credit cards adopt BNPL features and regulators struggle to categorize BNPL services &lpar;Amy X. Wang/New York Times&rpar;](http://www.techmeme.com/251009/p10#a251009p10)
  - [Berlin-based n8n, which lets businesses automate repetitive computing tasks through AI agents, raised $180M led by Accel at a $2.5B valuation &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251009/p9#a251009p9)
  - [A teardown of the $800 Meta Ray-Ban Display reveals a system of mirrors enabling its &quot;geometric&quot; waveguide tech, setting it apart from other AR glasses &lpar;Elizabeth Chamberlain/iFixit News&rpar;](http://www.techmeme.com/251009/p8#a251009p8)
- - [Anthropic&#39;s weeklong anti-AI slop pop-up in NYC&#39;s West Village, part of its &quot;Keep Thinking&quot; Claude push, drew 5,000+ people and 10M+ social media impressions &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251009/p7#a251009p7)
- - [TSMC reports Q3 revenue up 30% YoY to ~$32.5B, beating estimates, driven by AI chip demand; TSMC&#39;s Taipei-listed shares have gained 34% so far this year &lpar;Reuters&rpar;](http://www.techmeme.com/251009/p6#a251009p6)
- - [The Ethereum Foundation announces the &quot;Privacy cluster&quot;, a team of 47 blockchain industry experts developing protocol-level privacy features for the network &lpar;Vince Quill/Cointelegraph&rpar;](http://www.techmeme.com/251009/p5#a251009p5)<!-- TECH:END -->
+ - [Anthropic&#39;s weeklong anti-AI slop pop-up in NYC&#39;s West Village, part of its &quot;Keep Thinking&quot; Claude push, drew 5,000+ people and 10M+ social media impressions &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251009/p7#a251009p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EA&#39;s Battlefield 6, coming October 10, is a pivotal moment for the series and for EA, set to go private in a $55B deal, as EA competes with Activision and COD &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p54#a251009p54)
  - [Sources: Coinbase and Mastercard have each held talks to acquire stablecoin startup BVNK for $1.5B-$2.5B; a deal would be the largest stablecoin acquisition yet &lpar;Fortune&rpar;](http://www.techmeme.com/251009/p53#a251009p53)
  - [Lakers fans will get court-side seats with Apple Vision Pro](https://appleinsider.com/articles/25/10/09/lakers-fans-will-get-court-side-seats-with-apple-vision-pro?utm_source=rss)
  - [Microsoft and Anthropic appoint former UK prime minister Rishi Sunak as a senior adviser and pledge his role will not include lobbying with the UK government &lpar;Financial Times&rpar;](http://www.techmeme.com/251009/p52#a251009p52)
- - [Get Ready for A Minecraft Movie 2: A Sequel Film Is in the Works](https://www.cnet.com/tech/services-and-software/get-ready-for-a-minecraft-movie-2-a-sequel-film-is-in-the-works/#ftag=CAD590a51e)
- - [Need a Kid-Friendly Movie? Don&#39;t Overlook Hallmark](https://www.cnet.com/tech/services-and-software/need-a-kid-friendly-movie-dont-overlook-hallmark/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get Ready for A Minecraft Movie 2: A Sequel Film Is in the Works](https://www.cnet.com/tech/services-and-software/get-ready-for-a-minecraft-movie-2-a-sequel-film-is-in-the-works/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

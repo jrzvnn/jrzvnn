@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Pluribus&#39; finally gets a full trailer ahead of debut](https://appleinsider.com/articles/25/10/09/apple-tv-pluribus-finally-gets-a-full-trailer-ahead-of-debut?utm_source=rss)
- - [Q&amp;A with Google Cloud CEO Thomas Kurian on Gemini Enterprise, AI&#39;s labor implications, hype around AI agents, AI industry&#39;s circular investments, and more &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/251009/p46#a251009p46)
- - [OpenAI complains to EU that Apple, Microsoft &amp; Google may hamper growth](https://appleinsider.com/articles/25/10/09/openai-complains-to-eu-that-apple-microsoft-google-may-hamper-growth?utm_source=rss)
- - [A study finds that as few as 250 malicious documents can produce a &quot;backdoor&quot; vulnerability in an LLM, regardless of model size or training data volume &lpar;Anthropic&rpar;](http://www.techmeme.com/251009/p45#a251009p45)
- - [Belkin’s new power bank gives your smartphone a camera grip for $80](https://www.theverge.com/news/797749/belkin-stage-powergrip-camera-photography-wireless-qi-power-bank)<!-- TECH:END -->
+ - [Kernel, which helps AI agents access the internet more efficiently via Chrome, raised $22M in seed and Series A led by Accel &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251009/p47#a251009p47)
+ - [Amazon’s giant ads have ruined the Echo Show](https://www.theverge.com/report/797672/amazon-echo-show-ads-alexa-plus)
+ - [These are the best Apple deals you can still get after October Prime Day](https://appleinsider.com/articles/25/10/09/these-are-the-best-apple-deals-you-can-still-get-after-october-prime-day?utm_source=rss)
+ - [512GB microSD Express cards for Switch 2 are cheaper than ever right now](https://www.theverge.com/tech/797782/lexar-microsd-express-card-nintendo-switch-2-deal-sale)
+ - [YouTube opens &amp;#8216;second chance&amp;#8217; program to creators banned for misinformation](https://www.theverge.com/news/797848/youtube-banned-creators-second-chance-program-covid-election-misinformation-new-channel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

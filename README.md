@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube launches a pilot program to give terminated creators a &quot;second chance&quot; by letting them apply to create a new channel &lpar;Zach Vallese/CNBC&rpar;](http://www.techmeme.com/251009/p50#a251009p50)
+ - [Adam Mosseri says Instagram is exploring building a TV app as part of a deeper push into video but isn&#39;t interested in licensing live sports or other content &lpar;Bloomberg&rpar;](http://www.techmeme.com/251009/p49#a251009p49)
+ - [EcoFlow Recalls 25,000 Delta Max 2000 Power Stations Over Fire and Burn Hazard — Here’s How to Fix Yours](https://www.cnet.com/news/ecoflow-recalls-25000-delta-max-2000-power-stations-over-fire-and-burn-hazard-heres-how-to-fix-yours/#ftag=CAD590a51e)
  - [Adobe launches AI agents tailored for B2B marketers within its Adobe Experience Platform, after launching AI agents aimed at consumer marketing in September &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251009/p48#a251009p48)
- - [Netflix Is Bringing These 5 Party Games to a TV Near You](https://www.cnet.com/tech/gaming/netflix-is-bringing-these-5-party-games-to-a-tv-near-you/#ftag=CAD590a51e)
- - [At Just $50, This All-in-One Kitchen Appliance Is a Steal](https://www.cnet.com/deals/at-just-50-this-all-in-one-kitchen-appliance-is-a-steal/#ftag=CAD590a51e)
- - [A Duolingo Anime Series Is Coming to YouTube](https://www.cnet.com/tech/services-and-software/a-duolingo-anime-series-is-coming-to-youtube/#ftag=CAD590a51e)
- - [Kernel, which helps AI agents access the internet more efficiently via Chrome, raised $22M in seed and Series A led by Accel &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251009/p47#a251009p47)<!-- TECH:END -->
+ - [Best Home Security Cameras for Apple HomeKit and Siri in 2025](https://www.cnet.com/home/security/best-home-security-cameras-with-apple-homekit-and-siri/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
  - 😝 [Extracting gold from old phones](http://9gag.com/gag/a0eWEMX)
- - 💣 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
+ - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
+ - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
  - 😝 [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)
  - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 

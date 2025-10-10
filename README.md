@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slide Over, Apple Glasses, and the Underdogs, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/10/slide-over-apple-glasses-and-the-underdogs-on-the-appleinsider-podcast?utm_source=rss)
- - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)
- - [China bans TechInsights from working with or receiving data from Chinese entities, citing national security concerns, after a report on Huawei&#39;s Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251010/p11#a251010p11)
- - [Sources: SoftBank is nearing a deal for a $5B margin loan secured by Arm shares in order to fund additional investment in OpenAI later this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251010/p10#a251010p10)
- - [10 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
+ - [5 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
+ - [Lab-grown meat does not a burger make, EU lawmakers insist](https://www.theverge.com/news/798146/lab-grown-meat-cultivated-plant-based-burger-sausage-steak-eu-ban)
+ - [Apple announces a &quot;major evolution&quot; of its Security Bounty program, doubling the top award to $2M for exploit chains that could be abused for spyware attacks &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251010/p12#a251010p12)
+ - [Brendan Carr wants to let internet providers charge hidden fees again](https://www.theverge.com/news/798154/fcc-proposal-scrap-isp-hidden-fee-rules)
+ - [Slide Over, Apple Glasses, and the Underdogs, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/10/slide-over-apple-glasses-and-the-underdogs-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

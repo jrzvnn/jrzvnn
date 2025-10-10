@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Big Tech implemented a blackout on political advertising in the EU following a new law, the European Commission says it is in talks with Big Tech &lpar;Politico&rpar;](http://www.techmeme.com/251010/p15#a251010p15)
+ - [Google Search Could Change Forever in the UK](https://www.wired.com/story/uk-watchdog-targets-google-search-in-competition-crackdown/)
+ - [Fractal’s first gaming headset is as refreshingly elegant as its PC cases](https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset)
  - [Kalshi raised a $300M+ Series D at a $5B valuation, expands to 140 countries, and is on track for $50B in annualized trading volume, up from $300M in 2024 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251010/p14#a251010p14)
- - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-hair-vacuums/)
- - [We’re all about to be in wearable hell](https://www.theverge.com/column/797938/optimizer-newsletter-wearable-hell-smart-glasses-smart-rings-ai-hardware)
- - [You can now buy Microsoft&amp;#8217;s Windows XP Crocs for $79.95](https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date)
- - [The Senate passes a measure requiring Nvidia and AMD to prioritize US customers over China for advanced AI chip sales, as part of a defense policy bill &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/251010/p13#a251010p13)<!-- TECH:END -->
+ - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-hair-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

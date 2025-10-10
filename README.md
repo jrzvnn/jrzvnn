@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can still get the latest AirPods Max at their Prime Day price](https://www.theverge.com/tech/798180/apple-airpods-max-usb-c-google-nest-thermostat-deal-sale)
+ - [Campus, which is building an online alternative to community colleges, hires Meta&#39;s ex-VP of AI Jerome Pesenti as its CTO, and acquires his company Sizzle AI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251010/p16#a251010p16)
  - [After Big Tech implemented a blackout on political advertising in the EU following a new law, the European Commission says it is in talks with Big Tech &lpar;Politico&rpar;](http://www.techmeme.com/251010/p15#a251010p15)
  - [Google Search Could Change Forever in the UK](https://www.wired.com/story/uk-watchdog-targets-google-search-in-competition-crackdown/)
- - [Fractal’s first gaming headset is as refreshingly elegant as its PC cases](https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset)
- - [Kalshi raised a $300M+ Series D at a $5B valuation, expands to 140 countries, and is on track for $50B in annualized trading volume, up from $300M in 2024 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251010/p14#a251010p14)
- - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-hair-vacuums/)<!-- TECH:END -->
+ - [Fractal’s first gaming headset is as refreshingly elegant as its PC cases](https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

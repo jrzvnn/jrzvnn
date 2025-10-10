@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says the US would impose an extra 100% tariff on imports from China and export controls on &quot;any and all critical software&quot; from November 1 &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p26#a251010p26)
  - [Update your Slack &amp; Discord clients, the Electron Tahoe GPU slowdown bug is fixed](https://appleinsider.com/articles/25/10/10/update-your-slack-discord-clients-the-electron-tahoe-gpu-slowdown-bug-is-fixed?utm_source=rss)
  - [SemiAnalysis launches InferenceMAX, an open-source benchmark that automatically tracks LLM inference performance across AI models and frameworks every night &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251010/p25#a251010p25)
  - [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval)
- - [WIRED Roundup: Are We In An AI Bubble?](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/)
- - [A federal jury finds that Samsung owes Collision Communications nearly $445.5M in damages for infringing on patents related to 4G, 5G, and Wi-Fi standards &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251010/p24#a251010p24)<!-- TECH:END -->
+ - [Fall 2025 Anime Is Here: 10 Shows You Shouldn&#39;t Miss This Season](https://www.cnet.com/tech/services-and-software/fall-2025-anime-is-here-10-shows-you-shouldnt-miss-this-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

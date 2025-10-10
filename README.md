@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Trump threatens a &quot;massive increase of Tariffs&quot; on Chinese products, in response to export controls that China imposed on rare earth minerals &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p19#a251010p19)
- - [Chainalysis: crypto balances tied to illicit activity top $75B, including ~$15B held by illicit entities and $60B+ in wallets with downstream exposure to them &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/251010/p18#a251010p18)
- - [The Best Google Pixel Phones of 2025, Tested and Reviewed](https://www.wired.com/story/best-google-pixel-phone/)
- - [Apple&amp;#8217;s executive reshuffling isn&amp;#8217;t over](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji)
- - [So much for Ford and GM’s scheme to extend the EV tax credit](https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel)<!-- TECH:END -->
+ - [Samsung SmartThings finally adds support for joining existing Thread networks](https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter)
+ - [A group of American investors led by Hollywood producer Robert Simonds has agreed to acquire NSO Group in a deal valued at &quot;several tens of millions of dollars&quot; &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/251010/p20#a251010p20)
+ - [Over Half of Holiday Tech Shoppers Concerned by Price Hikes and Tariffs, CNET Survey Finds](https://www.cnet.com/tech/mobile/over-half-of-us-adults-concerned-by-price-hikes-and-tariffs-cnet-survey-finds/#ftag=CAD590a51e)
+ - [If You&#39;re Using This VPN App on Android, Get Rid of It Now](https://www.cnet.com/tech/services-and-software/if-youre-using-this-vpn-app-on-android-get-rid-of-it-now/#ftag=CAD590a51e)
+ - [France vs. Azerbaijan: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-azerbaijan-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

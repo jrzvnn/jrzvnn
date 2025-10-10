@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK CMA designates Google with &quot;strategic market status&quot; in online search, but excludes Gemini; Google says potential interventions could slow product launches &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p5#a251010p5)
  - [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection)
  - [China opens an investigation into Qualcomm&#39;s acquisition of Autotalks, a chipmaker specializing in vehicle communications, over potential antitrust violations &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251010/p4#a251010p4)
  - [Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits](https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/)
- - [North Korean Scammers Are Doing Architectural Design Now](https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/)
- - [A profile of Singapore-based Megaspeed, which bought $2B of Nvidia chips and is under US probe for possibly helping Chinese companies evade export controls &lpar;New York Times&rpar;](http://www.techmeme.com/251010/p3#a251010p3)<!-- TECH:END -->
+ - [North Korean Scammers Are Doing Architectural Design Now](https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

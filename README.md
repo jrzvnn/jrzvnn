@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meine kinder surprised](http://9gag.com/gag/aW4N983)
- - 😝 [How about them apples?](http://9gag.com/gag/aAyNZy9)
- - 💣 [Put your finger here](http://9gag.com/gag/a7o6nWb)
- - 😝 [Obviously..](http://9gag.com/gag/aND235v)
- - 👉 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)<!-- MEMES:END -->
+ - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
+ - 💣 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new simulation from the European Central Bank shows that the digital euro could trigger a deposit outflow of up to €700B during a run on commercial banks &lpar;Reuters&rpar;](http://www.techmeme.com/251010/p8#a251010p8)
+ - [‘Tron: Ares’ Wants to Gaslight You About the Future of AI](https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/)
  - [FBI seizes all domains for a BreachForums variant operated by ShinyHunters; the hacker group says their Salesforce extortion campaign is unaffected &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251010/p7#a251010p7)
  - [Google is the first company to be designated with special status in the UK under new digital laws; the designation does not introduce any immediate requirements &lpar;Reuters&rpar;](http://www.techmeme.com/251010/p6#a251010p6)
- - [Trump Wants to Take Over Cities. Influencers Are Giving Him the Fuel to Do It](https://www.wired.com/story/trump-administration-immigration-influencers/)
- - [The UK CMA designates Google with &quot;strategic market status&quot; in online search, but excludes Gemini; Google warns such oversight could slow product launches &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p5#a251010p5)
- - [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection)<!-- TECH:END -->
+ - [Trump Wants to Take Over Cities. Influencers Are Giving Him the Fuel to Do It](https://www.wired.com/story/trump-administration-immigration-influencers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

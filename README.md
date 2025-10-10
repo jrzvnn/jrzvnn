@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [this is so me. credit - sineadchabowski](https://www.reddit.com/r/funny/comments/1o3aagd/this_is_so_me_credit_sineadchabowski/)
- - 😝 [Hoe On Elsewhere](https://www.reddit.com/r/memes/comments/1o39n2y/hoe_on_elsewhere/)
- - 💣 [Father&#39;s final gift](https://www.reddit.com/r/funny/comments/1o37gzv/fathers_final_gift/)
- - 😝 [We need a transfertion. Any brishit in the room with us,](https://www.reddit.com/r/memes/comments/1o36y3y/we_need_a_transfertion_any_brishit_in_the_room/)
- - 👉 [Bathroom signs at an Indian restaurant in Madrid](https://www.reddit.com/r/funny/comments/1o36ukq/bathroom_signs_at_an_indian_restaurant_in_madrid/)<!-- MEMES:END -->
+ - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
+ - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
+ - 👉 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)<!-- MEMES:END -->
 
 ---
 

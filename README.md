@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
- - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
- - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 😝 [Why do I think this funny? Because it is.](http://9gag.com/gag/ae9PRBW)
+ - 😝 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)
+ - 💣 [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
+ - 👉 [This guy&#39;s reaction to bubbles is everything](http://9gag.com/gag/aByNvRA)<!-- MEMES:END -->
 
 ---
 

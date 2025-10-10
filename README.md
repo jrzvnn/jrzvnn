@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature)
+ - [It&#39;s easy to guess that M5 MacBook Pro &amp; iPad Pro are coming in October](https://appleinsider.com/articles/25/10/10/its-easy-to-guess-that-m5-macbook-pro-ipad-pro-are-coming-in-october?utm_source=rss)
  - [The Shutdown Is Pushing Air Safety Workers to the Limit](https://www.wired.com/story/shutdown-pushing-air-safety-workers/)
  - [Boox’s new smartphone-sized e-readers come with a steep price hike](https://www.theverge.com/news/798298/onyx-boox-p6-pro-color-e-ink-color-kaleido-3-5g-sim-card)
- - [Samsung SmartThings finally adds support for joining existing Thread networks](https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter)
- - [A group of American investors led by Hollywood producer Robert Simonds has agreed to acquire NSO Group in a deal valued at &quot;several tens of millions of dollars&quot; &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/251010/p20#a251010p20)
- - [Over Half of Holiday Tech Shoppers Concerned by Price Hikes and Tariffs, CNET Survey Finds](https://www.cnet.com/tech/mobile/over-half-of-us-adults-concerned-by-price-hikes-and-tariffs-cnet-survey-finds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung SmartThings finally adds support for joining existing Thread networks](https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

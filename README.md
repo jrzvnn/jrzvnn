@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Slide Over, Apple Glasses, and the Underdogs, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/10/slide-over-apple-glasses-and-the-underdogs-on-the-appleinsider-podcast?utm_source=rss)
  - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)
  - [China bans TechInsights from working with or receiving data from Chinese entities, citing national security concerns, after a report on Huawei&#39;s Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251010/p11#a251010p11)
  - [Sources: SoftBank is nearing a deal for a $5B margin loan secured by Arm shares in order to fund additional investment in OpenAI later this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251010/p10#a251010p10)
- - [10 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Memo: Vishal Shah, Meta&#39;s VP of Metaverse, tells his team to use AI to &quot;go 5X faster&quot; and expects 80% of them to integrate AI into their day-to-day by Q4 &lpar;Jason Koebler/Wired&rpar;](http://www.techmeme.com/251010/p9#a251010p9)<!-- TECH:END -->
+ - [10 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

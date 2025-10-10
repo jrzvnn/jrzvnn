@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)
  - 💣 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [1 tweet = \u00bd a meme](http://9gag.com/gag/aMVNWQW)<!-- MEMES:END -->
+ - 👉 [I ain&#39;t all that bad right?](http://9gag.com/gag/aAyNm10)<!-- MEMES:END -->
 
 ---
 

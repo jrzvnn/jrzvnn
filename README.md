@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)
- - 😝 [B*tch and f**king](http://9gag.com/gag/avyXmBd)
- - 💣 [This sucks](http://9gag.com/gag/abAmdZX)
+ - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 💣 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [This guy&#39;s reaction to bubbles is everything](http://9gag.com/gag/aByNvRA)<!-- MEMES:END -->
+ - 👉 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)<!-- MEMES:END -->
 
 ---
 

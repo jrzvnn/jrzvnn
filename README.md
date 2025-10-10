@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
- - 😝 [I dont mind it](http://9gag.com/gag/axynmbY)
- - 💣 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 ---
 

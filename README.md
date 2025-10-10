@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says it hit a milestone of 1.3 quadrillion monthly tokens processed across its services this summer, up from 980T monthly tokens announced in July &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251010/p32#a251010p32)
  - [Academics sue over use of pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
  - [Filing: corporate travel and expense management software maker Navan plans to raise up to $960M in a US IPO and is targeting a valuation of up to $6.45B &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251010/p31#a251010p31)
  - [Hollywood has no idea what to do about AI](https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner)
- - [Leaked audio: Apple nears a deal to acquihire computer vision startup Prompt AI; it was approached by other potential suitors, including xAI and Neuralink &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251010/p30#a251010p30)
- - [Nathan Calvin, general counsel of AI safety nonprofit Encode, says OpenAI used intimidation tactics to undermine California&#39;s SB 53 while it was being debated &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251010/p29#a251010p29)<!-- TECH:END -->
+ - [Leaked audio: Apple nears a deal to acquihire computer vision startup Prompt AI; it was approached by other potential suitors, including xAI and Neuralink &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251010/p30#a251010p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

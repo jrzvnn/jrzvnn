@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do I think this funny? Because it is.](http://9gag.com/gag/ae9PRBW)
- - 😝 [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)
- - 💣 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 😝 [I dont mind it](http://9gag.com/gag/axynmbY)
+ - 💣 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [I ain&#39;t all that bad right?](http://9gag.com/gag/aAyNm10)<!-- MEMES:END -->
+ - 👉 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)<!-- MEMES:END -->
 
 ---
 

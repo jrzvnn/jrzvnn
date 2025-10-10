@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says GPT‑5 instant and GPT‑5 thinking cut political bias by 30% from earlier models, and show greater robustness to charged prompts &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251010/p2#a251010p2)
  - [Sources: China tightens customs checks on chip imports, starting with Nvidia&#39;s H20 and RTX Pro 6000D, after urging local tech companies to avoid Nvidia products &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p1#a251010p1)
  - [Best Cordless Vacuums: Our Newest Winner Proves You Don&#39;t Need to Spend a Lot For a Good Vac](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-10/#ftag=CAD590a51e)
- - [Block debuts Square Bitcoin, a BTC wallet allowing US-based SMBs to convert up to 50% of daily sales into BTC now and accept BTC payments starting November 10 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/251009/p58#a251009p58)
- - [a16z hires ex-VMware CEO Raghu Raghuram as general partner overseeing AI infrastructure and growth investments and as a managing partner, replacing Scott Kupor &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p57#a251009p57)<!-- TECH:END -->
+ - [Block debuts Square Bitcoin, a BTC wallet allowing US-based SMBs to convert up to 50% of daily sales into BTC now and accept BTC payments starting November 10 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/251009/p58#a251009p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

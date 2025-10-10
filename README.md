@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK CMA designates Google with &quot;strategic market status&quot; in online search, but excludes Gemini; Google says potential interventions could slow product launches &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p5#a251010p5)
- - [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection)
- - [China opens an investigation into Qualcomm&#39;s acquisition of Autotalks, a chipmaker specializing in vehicle communications, over potential antitrust violations &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251010/p4#a251010p4)
- - [Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits](https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/)
- - [North Korean Scammers Are Doing Architectural Design Now](https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/)<!-- TECH:END -->
+ - [FBI seizes all domains for a BreachForums variant operated by ShinyHunters; the hacker group says their Salesforce extortion campaign is unaffected &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251010/p7#a251010p7)
+ - [Google is the first company to be designated with special status in the UK under new digital laws; the designation does not introduce any immediate requirements &lpar;Reuters&rpar;](http://www.techmeme.com/251010/p6#a251010p6)
+ - [Trump Wants to Take Over Cities. Influencers Are Giving Him the Fuel to Do It](https://www.wired.com/story/trump-administration-immigration-influencers/)
+ - [The UK CMA designates Google with &quot;strategic market status&quot; in online search, but excludes Gemini; Google warns such oversight could slow product launches &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p5#a251010p5)
+ - [Copilot on Windows can now create Office documents and connect to Gmail](https://www.theverge.com/news/798098/microsoft-copilot-windows-create-documents-outlook-gmail-connection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

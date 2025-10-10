@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [They are the meme](http://9gag.com/gag/a5Qyxgy)<!-- MEMES:END -->
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 ---
 

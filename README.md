@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 😝 [A woman takes off Hijab on TV and celebrates her freedom](http://9gag.com/gag/aQzNrWr)
+ - 😝 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
  - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
  - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->

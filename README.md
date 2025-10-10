@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 😝 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
- - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [So much work and..](http://9gag.com/gag/axyn4y1)
+ - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [What culture](http://9gag.com/gag/aGyNoOK)<!-- MEMES:END -->
+ - 👉 [They are the meme](http://9gag.com/gag/a5Qyxgy)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why do I think this funny? Because it is.](http://9gag.com/gag/ae9PRBW)
- - 😝 [How about them apples?](http://9gag.com/gag/aAyNZy9)
+ - 😝 [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)
  - 💣 [Reverse UNO perfectly executed...](http://9gag.com/gag/aByNojP)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Simply *absolute cinema*. Best part, they didn&#39;t have to say much to make you laugh](http://9gag.com/gag/aND23rw)<!-- MEMES:END -->
+ - 👉 [1 tweet = \u00bd a meme](http://9gag.com/gag/aMVNWQW)<!-- MEMES:END -->
 
 ---
 

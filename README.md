@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Health+ could debut in 2026 as Apple&#39;s next subscription service](https://appleinsider.com/articles/25/10/10/health-could-debut-in-2026-as-apples-next-subscription-service?utm_source=rss)
+ - [Jeff Williams prepares for retirement, passes Health, Fitness, &amp; Watch responsibilities on](https://appleinsider.com/articles/25/10/10/jeff-williams-prepares-for-retirement-passes-health-fitness-watch-responsibilities-on?utm_source=rss)
+ - [Sources: Apple plans health and fitness teams reorg under Eddy Cue, watchOS under Craig Federighi, and Watch hardware under John Ternus, as Jeff Williams exits &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251009/p56#a251009p56)
  - [Google says Cl0p hackers who exploited vulnerabilities in Oracle&#39;s E-Business Suite have stolen data from &quot;dozens&quot; of organizations since at least July 10 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/251009/p55#a251009p55)
- - [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)
- - [EA&#39;s Battlefield 6, coming October 10, is a pivotal moment for the series and for EA, set to go private in a $55B deal, as EA competes with Activision and COD &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251009/p54#a251009p54)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 10, #382](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-10-382/#ftag=CAD590a51e)
- - [Sources: Coinbase and Mastercard have each held talks to acquire stablecoin startup BVNK for $1.5B-$2.5B; a deal would be the largest stablecoin acquisition yet &lpar;Fortune&rpar;](http://www.techmeme.com/251009/p53#a251009p53)<!-- TECH:END -->
+ - [The Minecraft movie is getting a sequel](https://www.theverge.com/news/798064/a-minecraft-movie-sequel-2-release-date-2027)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

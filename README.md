@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump threatens a &quot;massive increase of Tariffs&quot; on Chinese products, in response to export controls that China imposed on rare earth minerals &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p19#a251010p19)
  - [Chainalysis: crypto balances tied to illicit activity top $75B, including ~$15B held by illicit entities and $60B+ in wallets with downstream exposure to them &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/251010/p18#a251010p18)
  - [The Best Google Pixel Phones of 2025, Tested and Reviewed](https://www.wired.com/story/best-google-pixel-phone/)
  - [Apple&amp;#8217;s executive reshuffling isn&amp;#8217;t over](https://www.theverge.com/news/798258/apple-executive-reshuffling-eddy-cue-johnny-srouji)
- - [So much for Ford and GM’s scheme to extend the EV tax credit](https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel)
- - [Edifier’s new wireless speaker looks like a gaming PC](https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc)<!-- TECH:END -->
+ - [So much for Ford and GM’s scheme to extend the EV tax credit](https://www.theverge.com/news/798229/ford-gm-ev-tax-credit-lease-cancel)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

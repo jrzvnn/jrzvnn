@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leaked audio: Apple nears a deal to acquihire computer vision startup Prompt AI; it was approached by other potential suitors, including xAI and Neuralink &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251010/p30#a251010p30)
  - [Academics sue over using pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
  - [Nathan Calvin, general counsel of AI safety nonprofit Encode, says OpenAI used intimidation tactics to undermine California&#39;s SB 53 while it was being debated &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251010/p29#a251010p29)
  - [Govini, a Palantir competitor whose AI software Ark helps militaries manage product lifecycles, raised $150M from Bain Capital and says it hit $100M in ARR &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251010/p28#a251010p28)
- - [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police)
- - [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down)<!-- TECH:END -->
+ - [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ana - I wonder what she feeds them](http://9gag.com/gag/amobnRX)
- - 😝 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
- - 💣 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [I dont mind it](http://9gag.com/gag/axynmbY)
+ - 💣 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)
+ - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
  - 👉 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)<!-- MEMES:END -->
 
 ---

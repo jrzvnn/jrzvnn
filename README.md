@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police)
+ - [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down)
  - [China&#39;s new export controls on rare-earth minerals are prompting major semiconductor companies to prepare for potential higher costs and supply chain slowdowns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251010/p27#a251010p27)
  - [Trump says the US would impose an extra 100% tariff on imports from China and export controls on &quot;any and all critical software&quot; from November 1 &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p26#a251010p26)
- - [Update your Slack &amp; Discord clients, the Electron Tahoe GPU slowdown bug is fixed](https://appleinsider.com/articles/25/10/10/update-your-slack-discord-clients-the-electron-tahoe-gpu-slowdown-bug-is-fixed?utm_source=rss)
- - [SemiAnalysis launches InferenceMAX, an open-source benchmark that automatically tracks LLM inference performance across AI models and frameworks every night &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251010/p25#a251010p25)
- - [OpenAI is trying to clamp down on ‘bias’ in ChatGPT](https://www.theverge.com/news/798388/openai-chatgpt-political-bias-eval)<!-- TECH:END -->
+ - [Update your Slack &amp; Discord clients, the Electron Tahoe GPU slowdown bug is fixed](https://appleinsider.com/articles/25/10/10/update-your-slack-discord-clients-the-electron-tahoe-gpu-slowdown-bug-is-fixed?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

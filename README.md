@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Vishal Shah, Meta&#39;s VP of Metaverse, tells his team to use AI to &quot;go 5X faster&quot; and expects 80% of them to integrate AI into their day-to-day by Q4 &lpar;Jason Koebler/Wired&rpar;](http://www.techmeme.com/251010/p9#a251010p9)
- - [&#39;Five Secrets&#39; spec screenplay grabbed by Apple TV+](https://appleinsider.com/articles/25/10/10/five-secrets-spec-screenplay-grabbed-by-apple-tv?utm_source=rss)
- - [Proton VPN Review &lpar;2025&rpar;: The Best VPN for Most People](https://www.wired.com/review/proton-vpn/)
- - [Inside YouTube - How to start a channel on Mac and iPhone and keep it going](https://appleinsider.com/inside/mac/tips/inside-youtube---how-to-start-a-channel-and-keep-it-going?utm_source=rss)
- - [Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’](https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/)<!-- TECH:END -->
+ - [Apple is about to give more generous payouts from its Bug Bounty Program](https://appleinsider.com/articles/25/10/10/apple-is-about-to-give-more-generous-payouts-from-its-bug-bounty-program?utm_source=rss)
+ - [China bans TechInsights from working with or receiving data from Chinese entities, citing national security concerns, after a report on Huawei&#39;s Ascend AI chips &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251010/p11#a251010p11)
+ - [Sources: SoftBank is nearing a deal for a $5B margin loan secured by Arm shares in order to fund additional investment in OpenAI later this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251010/p10#a251010p10)
+ - [10 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Memo: Vishal Shah, Meta&#39;s VP of Metaverse, tells his team to use AI to &quot;go 5X faster&quot; and expects 80% of them to integrate AI into their day-to-day by Q4 &lpar;Jason Koebler/Wired&rpar;](http://www.techmeme.com/251010/p9#a251010p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

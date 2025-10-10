@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kalshi raised a $300M+ Series D at a $5B valuation, expands to 140 countries, and is on track for $50B in annualized trading volume, up from $300M in 2024 &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251010/p14#a251010p14)
+ - [The Best Vacuum for Pet Hair—We Tested a Dozen Models to Find Which Work Best &lpar;2025&rpar;](https://www.wired.com/gallery/best-pet-hair-vacuums/)
+ - [We’re all about to be in wearable hell](https://www.theverge.com/column/797938/optimizer-newsletter-wearable-hell-smart-glasses-smart-rings-ai-hardware)
  - [You can now buy Microsoft&amp;#8217;s Windows XP Crocs for $79.95](https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date)
- - [The Senate passes a measure requiring Nvidia and AMD to prioritize US customers over China for advanced AI chip sales, as part of a defense policy bill &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/251010/p13#a251010p13)
- - [Maybe it&amp;#8217;s real, maybe it&amp;#8217;s Sora](https://www.theverge.com/podcast/798173/openai-sora-chatgpt-apps-vergecast)
- - [5 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
- - [Lab-grown meat does not a burger make, EU lawmakers insist](https://www.theverge.com/news/798146/lab-grown-meat-cultivated-plant-based-burger-sausage-steak-eu-ban)<!-- TECH:END -->
+ - [The Senate passes a measure requiring Nvidia and AMD to prioritize US customers over China for advanced AI chip sales, as part of a defense policy bill &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/251010/p13#a251010p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

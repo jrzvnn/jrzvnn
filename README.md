@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Men Are Betting on WNBA Players&#39; Menstrual Cycles](https://www.wired.com/story/men-are-betting-on-wnba-players-menstrual-cycles/)
+ - [Best Latex Mattress Options for Natural Support &lpar;2025&rpar;](https://www.wired.com/gallery/best-latex-mattresses/)
  - [A new simulation from the European Central Bank shows that the digital euro could trigger a deposit outflow of up to €700B during a run on commercial banks &lpar;Reuters&rpar;](http://www.techmeme.com/251010/p8#a251010p8)
  - [‘Tron: Ares’ Wants to Gaslight You About the Future of AI](https://www.wired.com/story/tron-ares-wants-to-gaslight-you-about-the-future-of-ai/)
- - [FBI seizes all domains for a BreachForums variant operated by ShinyHunters; the hacker group says their Salesforce extortion campaign is unaffected &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251010/p7#a251010p7)
- - [Google is the first company to be designated with special status in the UK under new digital laws; the designation does not introduce any immediate requirements &lpar;Reuters&rpar;](http://www.techmeme.com/251010/p6#a251010p6)
- - [Trump Wants to Take Over Cities. Influencers Are Giving Him the Fuel to Do It](https://www.wired.com/story/trump-administration-immigration-influencers/)<!-- TECH:END -->
+ - [FBI seizes all domains for a BreachForums variant operated by ShinyHunters; the hacker group says their Salesforce extortion campaign is unaffected &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251010/p7#a251010p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

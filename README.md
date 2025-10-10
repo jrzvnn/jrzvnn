@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: China tightens customs checks on chip imports, starting with Nvidia&#39;s H20 and RTX Pro 6000D, after urging local tech companies to avoid Nvidia products &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p1#a251010p1)
+ - [Best Cordless Vacuums: Our Newest Winner Proves You Don&#39;t Need to Spend a Lot For a Good Vac](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 10](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-10/#ftag=CAD590a51e)
  - [Block debuts Square Bitcoin, a BTC wallet allowing US-based SMBs to convert up to 50% of daily sales into BTC now and accept BTC payments starting November 10 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/251009/p58#a251009p58)
- - [a16z hires ex-VMware CEO Raghu Raghuram as general partner overseeing AI infrastructure and growth investments and as a managing partner, replacing Scott Kupor &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p57#a251009p57)
- - [Health+ could debut in 2026 as Apple&#39;s next subscription service](https://appleinsider.com/articles/25/10/10/health-could-debut-in-2026-as-apples-next-subscription-service?utm_source=rss)
- - [Jeff Williams prepares for retirement, passes Health, Fitness, &amp; Watch responsibilities on](https://appleinsider.com/articles/25/10/10/jeff-williams-prepares-for-retirement-passes-health-fitness-watch-responsibilities-on?utm_source=rss)<!-- TECH:END -->
+ - [a16z hires ex-VMware CEO Raghu Raghuram as general partner overseeing AI infrastructure and growth investments and as a managing partner, replacing Scott Kupor &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251009/p57#a251009p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

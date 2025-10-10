@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WIRED Roundup: Are We In An AI Bubble?](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-are-we-in-an-ai-bubble/)
  - [A federal jury finds that Samsung owes Collision Communications nearly $445.5M in damages for infringing on patents related to 4G, 5G, and Wi-Fi standards &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251010/p24#a251010p24)
  - [Some LA Lakers games will be live streamed in the Apple Immersive format in the NBA app and the Spectrum SportsNet app on Vision Pro during the 2025-26 season &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/251010/p23#a251010p23)
  - [macOS Tahoe itself has leaked 2025 and 2026 Mac release timelines](https://appleinsider.com/articles/25/10/10/macos-tahoe-itself-has-leaked-2025-and-2026-mac-release-timelines?utm_source=rss)
- - [USA vs. Ecuador: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-ecuador-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [Austria&#39;s privacy regulator finds that Microsoft violated EU law by illegally tracking students through its Microsoft 365 Education software &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251010/p22#a251010p22)<!-- TECH:END -->
+ - [USA vs. Ecuador: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-ecuador-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

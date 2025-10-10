@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [macOS Tahoe itself has leaked 2025 and 2026 Mac release timelines](https://appleinsider.com/articles/25/10/10/macos-tahoe-itself-has-leaked-2025-and-2026-mac-release-timelines?utm_source=rss)
+ - [USA vs. Ecuador: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-ecuador-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Austria&#39;s privacy regulator finds that Microsoft violated EU law by illegally tracking students through its Microsoft 365 Education software &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251010/p22#a251010p22)
  - [Elgato&#39;s Prompter XL is huge, heavy &amp; exactly what pros need](https://appleinsider.com/articles/25/10/10/elgatos-prompter-xl-is-huge-heavy-exactly-what-pros-need?utm_source=rss)
- - [These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now](https://www.wired.com/story/steelseries-arctis-gamebuds-deal-1025/)
- - [New Ruling Could Change How Google Operates in the UK](https://www.cnet.com/tech/services-and-software/new-ruling-could-change-how-google-operates-in-the-uk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now](https://www.wired.com/story/steelseries-arctis-gamebuds-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

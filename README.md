@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Announces $2 Million Bug Bounty Reward for the Most Dangerous Exploits](https://www.wired.com/story/apple-announces-2-million-bug-bounty-reward/)
  - [North Korean Scammers Are Doing Architectural Design Now](https://www.wired.com/story/north-korean-scammers-are-doing-architectural-design-now/)
  - [A profile of Singapore-based Megaspeed, which bought $2B of Nvidia chips and is under US probe for possibly helping Chinese companies evade export controls &lpar;New York Times&rpar;](http://www.techmeme.com/251010/p3#a251010p3)
  - [OpenAI says GPT‑5 instant and GPT‑5 thinking cut political bias by 30% from earlier models, and show greater robustness to charged prompts &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251010/p2#a251010p2)
- - [Sources: China tightens customs checks on chip imports, starting with Nvidia&#39;s H20 and RTX Pro 6000D, after urging local tech companies to avoid Nvidia products &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p1#a251010p1)
- - [Best Cordless Vacuums: Our Newest Winner Proves You Don&#39;t Need to Spend a Lot For a Good Vac](https://www.cnet.com/home/kitchen-and-household/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: China tightens customs checks on chip imports, starting with Nvidia&#39;s H20 and RTX Pro 6000D, after urging local tech companies to avoid Nvidia products &lpar;Financial Times&rpar;](http://www.techmeme.com/251010/p1#a251010p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

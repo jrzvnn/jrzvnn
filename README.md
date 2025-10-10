@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Govini, a Palantir competitor whose AI software Ark helps militaries manage product lifecycles, raised $150M led by Bain and says it hit $100M in ARR &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251010/p28#a251010p28)
+ - [Govini, a Palantir competitor whose AI software Ark helps militaries manage product lifecycles, raised $150M from Bain Capital and says it hit $100M in ARR &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251010/p28#a251010p28)
  - [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police)
  - [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down)
  - [China&#39;s new export controls on rare earth minerals mean major semiconductor companies are bracing for disruptions due to higher costs and supply chain slowdowns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251010/p27#a251010p27)

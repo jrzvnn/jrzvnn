@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some LA Lakers games will be live streamed in the Apple Immersive format in the NBA app and the Spectrum SportsNet app on Vision Pro during the 2025-26 season &lpar;Jacob Krol/TechRadar&rpar;](http://www.techmeme.com/251010/p23#a251010p23)
  - [macOS Tahoe itself has leaked 2025 and 2026 Mac release timelines](https://appleinsider.com/articles/25/10/10/macos-tahoe-itself-has-leaked-2025-and-2026-mac-release-timelines?utm_source=rss)
  - [USA vs. Ecuador: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-ecuador-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
  - [Austria&#39;s privacy regulator finds that Microsoft violated EU law by illegally tracking students through its Microsoft 365 Education software &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251010/p22#a251010p22)
- - [Elgato&#39;s Prompter XL is huge, heavy &amp; exactly what pros need](https://appleinsider.com/articles/25/10/10/elgatos-prompter-xl-is-huge-heavy-exactly-what-pros-need?utm_source=rss)
- - [These SteelSeries Earbuds Are Great for Gaming, and Are 35% Off Right Now](https://www.wired.com/story/steelseries-arctis-gamebuds-deal-1025/)<!-- TECH:END -->
+ - [Elgato&#39;s Prompter XL is huge, heavy &amp; exactly what pros need](https://appleinsider.com/articles/25/10/10/elgatos-prompter-xl-is-huge-heavy-exactly-what-pros-need?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

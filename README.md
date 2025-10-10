@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Prezent, which offers an AI-powered presentation builder to enterprises, raised $30M at a $400M valuation, bringing its total raised to $74M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251010/p21#a251010p21)
+ - [You can still snag LG’s C4 OLED TV at half the price](https://www.theverge.com/tech/798322/lg-c4-c5-oled-tv-deal-sale)
  - [Chrome will automatically disable web notifications you don’t care about](https://www.theverge.com/news/798122/google-chrome-website-notifications-disable-feature)
  - [It&#39;s easy to guess that M5 MacBook Pro &amp; iPad Pro are coming in October](https://appleinsider.com/articles/25/10/10/its-easy-to-guess-that-m5-macbook-pro-ipad-pro-are-coming-in-october?utm_source=rss)
- - [The Shutdown Is Pushing Air Safety Workers to the Limit](https://www.wired.com/story/shutdown-pushing-air-safety-workers/)
- - [Boox’s new smartphone-sized e-readers come with a steep price hike](https://www.theverge.com/news/798298/onyx-boox-p6-pro-color-e-ink-color-kaleido-3-5g-sim-card)<!-- TECH:END -->
+ - [The Shutdown Is Pushing Air Safety Workers to the Limit](https://www.wired.com/story/shutdown-pushing-air-safety-workers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

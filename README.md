@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Edifier’s new wireless speaker looks like a gaming PC](https://www.theverge.com/news/798148/edifier-huazai-new-cyber-speaker-bluetooth-gaming-pc)
+ - [Quantum computing company IonQ raises $2B by selling 21.5M shares and pre-funded warrants to Heights Capital at $93 each, a 20% premium over October 9&#39;s close &lpar;David Morris/Bloomberg&rpar;](http://www.techmeme.com/251010/p17#a251010p17)
  - [You can still get the latest AirPods Max at their Prime Day price](https://www.theverge.com/tech/798180/apple-airpods-max-usb-c-google-nest-thermostat-deal-sale)
  - [Campus, which is building an online alternative to community colleges, hires Meta&#39;s ex-VP of AI Jerome Pesenti as its CTO, and acquires his company Sizzle AI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251010/p16#a251010p16)
- - [After Big Tech implemented a blackout on political advertising in the EU following a new law, the European Commission says it is in talks with Big Tech &lpar;Politico&rpar;](http://www.techmeme.com/251010/p15#a251010p15)
- - [Google Search Could Change Forever in the UK](https://www.wired.com/story/uk-watchdog-targets-google-search-in-competition-crackdown/)
- - [Fractal’s first gaming headset is as refreshingly elegant as its PC cases](https://www.theverge.com/tech/797879/fractal-design-scape-pc-gaming-headset)<!-- TECH:END -->
+ - [After Big Tech implemented a blackout on political advertising in the EU following a new law, the European Commission says it is in talks with Big Tech &lpar;Politico&rpar;](http://www.techmeme.com/251010/p15#a251010p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

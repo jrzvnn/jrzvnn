@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 😝 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
  - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 💣 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
- - 😝 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)
- - 👉 [Can&#39;t argue with that](http://9gag.com/gag/aYQnmGO)<!-- MEMES:END -->
+ - 💣 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
+ - 😝 [Mexico is leaking into India](http://9gag.com/gag/aQzNOX8)
+ - 👉 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)<!-- MEMES:END -->
 
 ---
 

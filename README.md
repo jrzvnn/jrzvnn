@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some trauma never heals....](http://9gag.com/gag/aPAdrLV)
- - 😝 [At least I&#39;ll go out on my own terms.](http://9gag.com/gag/aRBNOxq)
- - 💣 [Poor](http://9gag.com/gag/aYQnRB2)
- - 😝 [A knowledgeable person shared this, so I tried this prompt out with chatgpt. The improve is OUTSTANDING. I decided to share it because this is so useful and it worked so well for me. Chatgpt finally stopped patting backs all the time, and started to solve problems and be clear.](http://9gag.com/gag/a2vjLXd)
- - 👉 [Put your finger here](http://9gag.com/gag/a7o6nWb)<!-- MEMES:END -->
+ - 😝 [You can&#39;t just post sugar and expect people to understand what you mean](http://9gag.com/gag/a34pbP8)
+ - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
+ - 💣 [Wowser..](http://9gag.com/gag/ajPMW90)
+ - 😝 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)
+ - 👉 [Basketball player decides the whole plane cant leave until its daughter &lpar;whose in the back&rpar; gets off first](http://9gag.com/gag/aW4ND42)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Memo: Vishal Shah, Meta&#39;s VP of Metaverse, tells his team to use AI to &quot;go 5X faster&quot; and expects 80% of them to integrate AI into their day-to-day by Q4 &lpar;Jason Koebler/Wired&rpar;](http://www.techmeme.com/251010/p9#a251010p9)
  - [&#39;Five Secrets&#39; spec screenplay grabbed by Apple TV+](https://appleinsider.com/articles/25/10/10/five-secrets-spec-screenplay-grabbed-by-apple-tv?utm_source=rss)
  - [Proton VPN Review &lpar;2025&rpar;: The Best VPN for Most People](https://www.wired.com/review/proton-vpn/)
  - [Inside YouTube - How to start a channel on Mac and iPhone and keep it going](https://appleinsider.com/inside/mac/tips/inside-youtube---how-to-start-a-channel-and-keep-it-going?utm_source=rss)
- - [Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’](https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/)
- - [Men Are Betting on WNBA Players&#39; Menstrual Cycles](https://www.wired.com/story/men-are-betting-on-wnba-players-menstrual-cycles/)<!-- TECH:END -->
+ - [Meta Tells Its Metaverse Workers to Use AI to ‘Go 5X Faster’](https://www.wired.com/story/meta-mark-zuckerberg-ai-push-metaverse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

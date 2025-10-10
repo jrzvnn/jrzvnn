@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Boox’s new smartphone-sized e-readers come with a steep price hike](https://www.theverge.com/news/798298/onyx-boox-p6-pro-color-e-ink-color-kaleido-3-5g-sim-card)
  - [Samsung SmartThings finally adds support for joining existing Thread networks](https://www.theverge.com/news/798263/samsung-smartthings-thread-border-routers-apple-google-amazon-matter)
  - [A group of American investors led by Hollywood producer Robert Simonds has agreed to acquire NSO Group in a deal valued at &quot;several tens of millions of dollars&quot; &lpar;Omer Kabir/CTech&rpar;](http://www.techmeme.com/251010/p20#a251010p20)
  - [Over Half of Holiday Tech Shoppers Concerned by Price Hikes and Tariffs, CNET Survey Finds](https://www.cnet.com/tech/mobile/over-half-of-us-adults-concerned-by-price-hikes-and-tariffs-cnet-survey-finds/#ftag=CAD590a51e)
- - [If You&#39;re Using This VPN App on Android, Get Rid of It Now](https://www.cnet.com/tech/services-and-software/if-youre-using-this-vpn-app-on-android-get-rid-of-it-now/#ftag=CAD590a51e)
- - [France vs. Azerbaijan: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-azerbaijan-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You&#39;re Using This VPN App on Android, Get Rid of It Now](https://www.cnet.com/tech/services-and-software/if-youre-using-this-vpn-app-on-android-get-rid-of-it-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

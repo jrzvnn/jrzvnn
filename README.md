@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Govini, a Palantir competitor whose AI software Ark helps militaries manage product lifecycles, raised $150M led by Bain and says it hit $100M in ARR &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251010/p28#a251010p28)
  - [OpenAI allegedly sent police to an AI regulation advocate’s door](https://www.theverge.com/news/798523/openai-ai-regulation-advocates-subpoenas-police)
  - [Bose is yanking key features from its SoundTouch speakers](https://www.theverge.com/news/798501/bose-soundtouch-speakers-cloud-discontinue-shut-down)
- - [China&#39;s new export controls on rare-earth minerals are prompting major semiconductor companies to prepare for potential higher costs and supply chain slowdowns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251010/p27#a251010p27)
- - [Trump says the US would impose an extra 100% tariff on imports from China and export controls on &quot;any and all critical software&quot; from November 1 &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p26#a251010p26)
- - [Update your Slack &amp; Discord clients, the Electron Tahoe GPU slowdown bug is fixed](https://appleinsider.com/articles/25/10/10/update-your-slack-discord-clients-the-electron-tahoe-gpu-slowdown-bug-is-fixed?utm_source=rss)<!-- TECH:END -->
+ - [China&#39;s new export controls on rare earth minerals mean major semiconductor companies are bracing for disruptions due to higher costs and supply chain slowdowns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251010/p27#a251010p27)
+ - [President Trump says that the US will impose an extra 100% tariff on imports from China and &quot;Export Controls on any and all critical software&quot; from November 1 &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251010/p26#a251010p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

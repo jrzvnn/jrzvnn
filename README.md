@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
- - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
+ - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)<!-- MEMES:END -->
+ - 👉 [They are the meme](http://9gag.com/gag/a5Qyxgy)<!-- MEMES:END -->
 
 ---
 

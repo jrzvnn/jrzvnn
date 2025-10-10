@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now buy Microsoft&amp;#8217;s Windows XP Crocs for $79.95](https://www.theverge.com/news/798193/microsoft-windows-xp-crocs-price-release-date)
+ - [The Senate passes a measure requiring Nvidia and AMD to prioritize US customers over China for advanced AI chip sales, as part of a defense policy bill &lpar;Oma Seddiq/Bloomberg&rpar;](http://www.techmeme.com/251010/p13#a251010p13)
+ - [Maybe it&amp;#8217;s real, maybe it&amp;#8217;s Sora](https://www.theverge.com/podcast/798173/openai-sora-chatgpt-apps-vergecast)
  - [5 Best Folding Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-folding-phones/)
- - [Lab-grown meat does not a burger make, EU lawmakers insist](https://www.theverge.com/news/798146/lab-grown-meat-cultivated-plant-based-burger-sausage-steak-eu-ban)
- - [Apple announces a &quot;major evolution&quot; of its Security Bounty program, doubling the top award to $2M for exploit chains that could be abused for spyware attacks &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251010/p12#a251010p12)
- - [Brendan Carr wants to let internet providers charge hidden fees again](https://www.theverge.com/news/798154/fcc-proposal-scrap-isp-hidden-fee-rules)
- - [Slide Over, Apple Glasses, and the Underdogs, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/10/slide-over-apple-glasses-and-the-underdogs-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Lab-grown meat does not a burger make, EU lawmakers insist](https://www.theverge.com/news/798146/lab-grown-meat-cultivated-plant-based-burger-sausage-steak-eu-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

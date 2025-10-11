@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
- - 💣 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
+ - 😝 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [WELCOME TO THE BATHROOM](http://9gag.com/gag/aZZVVXz)<!-- MEMES:END -->
+ - 👉 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)<!-- MEMES:END -->
 
 ---
 

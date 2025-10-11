@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
- - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 😝 [Ana - I wonder what she feeds them](http://9gag.com/gag/amobnRX)
+ - 💣 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
+ - 👉 [Well, I&#39;ll be...](http://9gag.com/gag/a4Prrrp)<!-- MEMES:END -->
 
 ---
 

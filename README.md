@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
  - 😝 [Hornet exterminator](http://9gag.com/gag/aGyNoNG)
- - 💣 [What corruption?](http://9gag.com/gag/aByN4bQ)
+ - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 💣 [So much work and..](http://9gag.com/gag/axyn4y1)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
+ - 👉 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)<!-- MEMES:END -->
 
 ---
 

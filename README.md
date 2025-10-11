@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
- - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
- - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 😝 [Training for cock](http://9gag.com/gag/amobn49)
+ - 😝 [Well, I&#39;ll be...](http://9gag.com/gag/a4Prrrp)
+ - 💣 [What culture](http://9gag.com/gag/aGyNoOK)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)<!-- MEMES:END -->
+ - 👉 [Send hot noods](http://9gag.com/gag/a0eWWXL)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ana - I wonder what she feeds them](http://9gag.com/gag/amobnRX)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 💣 [Hasan, the animal abuser](http://9gag.com/gag/axynmqb)
+ - 😝 [Medium where](http://9gag.com/gag/avyX9yE)
+ - 😝 [Woman is bored and decide to divorce husband](http://9gag.com/gag/aVv1BO2)
+ - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
  - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
 

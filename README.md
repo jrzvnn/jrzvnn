@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Convenient](http://9gag.com/gag/aE0NQKx)
  - 😝 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
- - 😝 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
- - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 💣 [You dont say](http://9gag.com/gag/amobbRo)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)<!-- MEMES:END -->
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 ---
 

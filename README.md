@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So much work and..](http://9gag.com/gag/axyn4y1)
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 💣 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
+ - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
+ - 😝 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
+ - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
+ - 👉 [Having a boat is expensive af](http://9gag.com/gag/aO8NGqr)<!-- MEMES:END -->
 
 ---
 

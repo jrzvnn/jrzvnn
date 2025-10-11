@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto markets crashed after Trump threatened an extra 100% tariff on China, triggering $19.1B+ in liquidations, 10x+ the liquidations during the FTX crash &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251011/p11#a251011p11)
  - [Google adds a Chrome feature that automatically disables browser notifications from websites users haven&#39;t interacted with recently, on Android and desktop &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251011/p10#a251011p10)
- - [Here&#39;s the Quickest Way to Get a Special Code for the Viral Sora 2 App](https://www.cnet.com/tech/services-and-software/heres-the-quickest-way-to-get-a-special-code-for-the-viral-sora-2-app/#ftag=CAD590a51e)
- - [Study Reveals Doomscrolling While Using the Bathroom Has a Hidden Risk](https://www.cnet.com/tech/mobile/study-reveals-doomscrolling-while-using-the-bathroom-has-a-hidden-risk/#ftag=CAD590a51e)
  - [8 Common Foods That Are Microplastic Red Flags](https://www.cnet.com/health/nutrition/commons-foods-microplastic-red-flags/#ftag=CAD590a51e)
- - [We Asked Eye Doctors: What Are the Best Over-the-Counter Eye Drops You Recommend?](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We Asked Eye Doctors: What Are the Best Over-the-Counter Eye Drops You Recommend?](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
+ - [In a report, the G20&#39;s Financial Stability Board says regulators are in the early stages of tracking risks posed to the financial system by AI&#39;s rapid adoption &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/251011/p9#a251011p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

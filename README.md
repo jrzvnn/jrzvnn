@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [We are too smart to allow you access to the boat.](http://9gag.com/gag/azxDBnK)
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [9gag nowadays](http://9gag.com/gag/a6Z341A)<!-- MEMES:END -->
+ - 👉 [Not mine but good](http://9gag.com/gag/a9yNZL0)<!-- MEMES:END -->
 
 ---
 

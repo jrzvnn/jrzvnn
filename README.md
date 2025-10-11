@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ten major banks including Bank of America, Goldman Sachs, Deutsche Bank, and UBS announce an early-stage project to explore issuing stablecoins to G7 currencies &lpar;Reuters&rpar;](http://www.techmeme.com/251011/p7#a251011p7)
+ - [Amkor breaks ground on advanced chip packaging campus in Arizona, with production expected by early 2028; state officials say Amkor&#39;s investment could reach $7B &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251011/p6#a251011p6)
  - [Prosus invests ~$146M in Indian travel app ixigo for a 10.1% stake; sources say Prosus plans to buy more shares from other investors to raise its stake to 15% &lpar;Moneycontrol&rpar;](http://www.techmeme.com/251011/p5#a251011p5)
  - [Indian IT giant TCS cut 19,755 jobs in the quarter ended September 30, as strained US relations and a rapid shift to AI reshape India&#39;s $280B IT services sector &lpar;Harshita Swaminathan/Bloomberg&rpar;](http://www.techmeme.com/251011/p4#a251011p4)
- - [FCC Chair Brendan Carr says major US online retailers have removed several million listings for prohibited Chinese electronics as part of the agency&#39;s crackdown &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251011/p3#a251011p3)
- - [Sources: Microsoft&#39;s US data center crunch will last through H1 2026, longer than previously outlined, as the company restricts new Azure cloud subscriptions &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251011/p2#a251011p2)
- - [Google plans to invest $10B to build a new 1GW data center cluster near Visakhapatnam in Andhra Pradesh, India, with operations expected to begin by July 2028 &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/251011/p1#a251011p1)<!-- TECH:END -->
+ - [FCC Chair Brendan Carr says major US online retailers have removed several million listings for prohibited Chinese electronics as part of the agency&#39;s crackdown &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251011/p3#a251011p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

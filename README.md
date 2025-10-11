@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We are too smart to allow you access to the boat.](http://9gag.com/gag/azxDBnK)
- - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
- - 💣 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 💣 [Hasan, the animal abuser](http://9gag.com/gag/axynmqb)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
  - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
 

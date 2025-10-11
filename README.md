@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
- - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 💣 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)<!-- MEMES:END -->
+ - 👉 [Rapid anesthesia](http://9gag.com/gag/aYQnZNw)<!-- MEMES:END -->
 
 ---
 

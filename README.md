@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [Office Office](http://9gag.com/gag/aND22D6)
- - 💣 [What culture](http://9gag.com/gag/aGyNoOK)
+ - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
+ - 😝 [Convenient](http://9gag.com/gag/aE0NQKx)
+ - 💣 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
+ - 👉 [Well, I&#39;ll be...](http://9gag.com/gag/a4Prrrp)<!-- MEMES:END -->
 
 ---
 

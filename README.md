@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
- - 😝 [Hornet exterminator](http://9gag.com/gag/aGyNoNG)
- - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 😝 [Office Office](http://9gag.com/gag/aND22D6)
+ - 💣 [What culture](http://9gag.com/gag/aGyNoOK)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Well, I&#39;ll be...](http://9gag.com/gag/a4Prrrp)<!-- MEMES:END -->
+ - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
 
 ---
 

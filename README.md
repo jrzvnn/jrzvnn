@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
  - 💣 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Rapid anesthesia](http://9gag.com/gag/aYQnZNw)<!-- MEMES:END -->
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 ---
 

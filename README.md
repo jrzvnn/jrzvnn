@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s the Quickest Way to Get a Special Code for the Viral Sora 2 App](https://www.cnet.com/tech/services-and-software/heres-the-quickest-way-to-get-a-special-code-for-the-viral-sora-2-app/#ftag=CAD590a51e)
+ - [Study Reveals Doomscrolling While Using the Bathroom Has a Hidden Risk](https://www.cnet.com/tech/mobile/study-reveals-doomscrolling-while-using-the-bathroom-has-a-hidden-risk/#ftag=CAD590a51e)
  - [8 Common Foods That Are Microplastic Red Flags](https://www.cnet.com/health/nutrition/commons-foods-microplastic-red-flags/#ftag=CAD590a51e)
  - [We Asked Eye Doctors: What Are the Best Over-the-Counter Eye Drops You Recommend?](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [In a report, the G20&#39;s Financial Stability Board says regulators are in the early stages of tracking risks posed to the financial system by AI&#39;s rapid adoption &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/251011/p9#a251011p9)
- - [Filing: Lime&#39;s UK revenue rose 75% YoY to £111.3M in 2024, while its pre-tax profit fell to £1.71M, partly due to a £51.3M &quot;reseller fee&quot; paid to its US parent &lpar;Athena Browning/Zag Daily&rpar;](http://www.techmeme.com/251011/p8#a251011p8)
- - [Corvette E-Ray 2026 Review: Price, Specs, Availability](https://www.wired.com/review/corvette-e-ray/)<!-- TECH:END -->
+ - [In a report, the G20&#39;s Financial Stability Board says regulators are in the early stages of tracking risks posed to the financial system by AI&#39;s rapid adoption &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/251011/p9#a251011p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

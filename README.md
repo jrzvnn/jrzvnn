@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a report, the G20&#39;s Financial Stability Board says regulators are in the early stages of tracking risks posed to the financial system by AI&#39;s rapid adoption &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/251011/p9#a251011p9)
  - [Filing: Lime&#39;s UK revenue rose 75% YoY to £111.3M in 2024, while its pre-tax profit fell to £1.71M, partly due to a £51.3M &quot;reseller fee&quot; paid to its US parent &lpar;Athena Browning/Zag Daily&rpar;](http://www.techmeme.com/251011/p8#a251011p8)
  - [Corvette E-Ray 2026 Review: Price, Specs, Availability](https://www.wired.com/review/corvette-e-ray/)
  - [Ten major banks including Bank of America, Goldman Sachs, Deutsche Bank, and UBS announce an early-stage project to explore issuing stablecoins to G7 currencies &lpar;Reuters&rpar;](http://www.techmeme.com/251011/p7#a251011p7)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 11, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-11-383/#ftag=CAD590a51e)
- - [Amkor breaks ground on advanced chip packaging campus in Arizona, with production expected by early 2028; state officials say Amkor&#39;s investment could reach $7B &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251011/p6#a251011p6)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 11, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-11-383/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

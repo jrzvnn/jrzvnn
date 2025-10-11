@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [SEMI: US chip fab investment to outpace China, Taiwan, and South Korea from 2027, driven by AI demand and US policies, rising from $21B in 2025 to $43B in 2028 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251011/p21#a251011p21)
  - [Interviews with security researchers about AI&#39;s potential for large-scale destruction, as experts remain divided and global regulatory frameworks lag &lpar;Stephen Witt/New York Times&rpar;](http://www.techmeme.com/251011/p20#a251011p20)
  - [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app)
- - [Thinking Machines Lab co-founder Andrew Tulloch has left to join Meta; he reportedly declined Zuckerberg&#39;s offer of a $1.5B+ package in August &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251011/p19#a251011p19)
- - [Indonesia&#39;s film industry is embracing AI tools to produce Hollywood-style movies at a significantly lower cost; the average local film budget is about $602,500 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/251011/p18#a251011p18)<!-- TECH:END -->
+ - [All the Big Marvel TV Announcements for X-Men &#39;97, VisionQuest and More at NYCC 2025](https://www.cnet.com/tech/services-and-software/all-the-big-marvel-tv-announcements-for-x-men-97-visionquest-and-more-at-nycc-2025/#ftag=CAD590a51e)
+ - [Thinking Machines Lab co-founder Andrew Tulloch has left to join Meta; he reportedly declined Zuckerberg&#39;s offer of a $1.5B+ package in August &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251011/p19#a251011p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White guilt vs reality](http://9gag.com/gag/a87Xnee)
+ - 😝 [Ana - I wonder what she feeds them](http://9gag.com/gag/amobnRX)
  - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
- - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 💣 [Convenient](http://9gag.com/gag/aE0NQKx)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Convenient](http://9gag.com/gag/aE0NQKx)<!-- MEMES:END -->
+ - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
 
 ---
 

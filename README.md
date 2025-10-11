@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Woman is bored and decide to divorce husband](http://9gag.com/gag/aVv1BO2)
  - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
- - 😝 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
  - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Having a boat is expensive af](http://9gag.com/gag/aO8NGqr)<!-- MEMES:END -->
+ - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
 
 ---
 

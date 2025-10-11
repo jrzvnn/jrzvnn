@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not gonna lie, this is exactly how i play Hitman games.](http://9gag.com/gag/aGyNogw)
- - 😝 [They are the meme](http://9gag.com/gag/a5Qyxgy)
- - 💣 [Training for cock](http://9gag.com/gag/amobn49)
+ - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
+ - 😝 [Hornet exterminator](http://9gag.com/gag/aGyNoNG)
+ - 💣 [What corruption?](http://9gag.com/gag/aByN4bQ)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [This weather hits different](http://9gag.com/gag/abAmmzL)<!-- MEMES:END -->
+ - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
 
 ---
 

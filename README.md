@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard)
  - [ESR recalls HaloLock power banks over fire risk](https://appleinsider.com/articles/25/10/11/esr-recalls-halolock-power-banks-over-fire-risk?utm_source=rss)
  - [Dreams of Another feels like a fever dream](https://www.theverge.com/games/795553/dreams-of-another-review-ps5-pc)
  - [Thoughts on The Curve conference, where prominent figures debated about AI progress, and why automating research engineers is plausible within years &lpar;Nathan Lambert/Interconnects&rpar;](http://www.techmeme.com/251011/p12#a251011p12)
- - [AI acqui-hire could boost Apple Intelligence&#39;s vision capabilities](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
- - [Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?](https://www.wired.com/review/lenovo-yoga-pro-9i-16/)<!-- TECH:END -->
+ - [AI acqui-hire could boost Apple Intelligence&#39;s vision capabilities](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

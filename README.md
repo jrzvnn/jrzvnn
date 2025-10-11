@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia&#39;s film industry is embracing AI tools to produce Hollywood-style movies at a significantly lower cost; the average local film budget is about $602,500 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/251011/p18#a251011p18)
+ - [Apple Clips social video app killed after eight years](https://appleinsider.com/articles/25/10/11/apple-clips-social-video-app-killed-after-eight-years?utm_source=rss)
  - [Apple discontinues Clips, a video editing app it launched in 2017, removing it from the App Store for new users, and says Clips will no longer be updated &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251011/p17#a251011p17)
  - [How The Verge and our readers manage kids’ screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time)
- - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
- - [How TBPN&#39;s daily livestream became the preferred news show of tech insiders, as it taps into the &quot;who&#39;s up, who&#39;s down&quot; part of Silicon Valley culture &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251011/p16#a251011p16)
- - [&#39;The Chair Company&#39;: Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/the-chair-company-release-schedule-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

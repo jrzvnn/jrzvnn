@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Woman is bored and decide to divorce husband](http://9gag.com/gag/aVv1BO2)
  - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
  - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
+ - 😝 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)
+ - 👉 [Hasan, the animal abuser](http://9gag.com/gag/axynmqb)<!-- MEMES:END -->
 
 ---
 

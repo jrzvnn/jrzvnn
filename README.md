@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 26 Best Shows on Amazon Prime Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)
- - [Australia’s March Toward 100 Percent Clean Energy](https://www.wired.com/story/as-coal-fades-australia-looks-to-realize-dream-of-100-renewable-energy/)
- - [&#39;Happy Gilmore&#39; Producer Buys Spyware Maker NSO Group](https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/)
- - [Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month](https://www.wired.com/story/gear-news-of-the-week-intels-new-chips-arrive-and-apple-may-debut-ipads-and-macbooks-this-month/)
- - [Crypto markets crashed after Trump threatened an extra 100% tariff on China, triggering $19.1B+ in liquidations, 10x+ the liquidations during the FTX crash &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251011/p11#a251011p11)<!-- TECH:END -->
+ - [AI acqui-hire could boost Apple Intelligence&#39;s vision capabilities](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
+ - [Lenovo Yoga Pro 9i 16 Review: A True MacBook Pro Rival?](https://www.wired.com/review/lenovo-yoga-pro-9i-16/)
+ - [Is the Coros Nomad really an adventure watch?](https://www.theverge.com/tech/798613/coros-nomad-thru-hike-rucking)
+ - [iOS 26: Your iPhone Will Get These Eight New Emoji Next Year](https://www.cnet.com/tech/services-and-software/ios-26-your-iphone-will-get-these-eight-new-emoji-next-year/#ftag=CAD590a51e)
+ - [The 26 Best Shows on Amazon Prime Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Happy Gilmore&#39; Producer Buys Spyware Maker NSO Group](https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/)
  - [Gear News of the Week: Intel’s New Chips Arrive, and Apple May Debut iPads and MacBooks This Month](https://www.wired.com/story/gear-news-of-the-week-intels-new-chips-arrive-and-apple-may-debut-ipads-and-macbooks-this-month/)
  - [Crypto markets crashed after Trump threatened an extra 100% tariff on China, triggering $19.1B+ in liquidations, 10x+ the liquidations during the FTX crash &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251011/p11#a251011p11)
  - [Google adds a Chrome feature that automatically disables browser notifications from websites users haven&#39;t interacted with recently, on Android and desktop &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251011/p10#a251011p10)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 11, #853](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-11-853/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 11 #587](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-11-587/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 11, #853](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-11-853/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

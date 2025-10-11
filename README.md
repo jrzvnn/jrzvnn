@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Crypto markets crashed after Trump threatened an extra 100% tariff on China, triggering $19.1B+ in liquidations, 10x+ the liquidations during the FTX crash &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251011/p11#a251011p11)
  - [Google adds a Chrome feature that automatically disables browser notifications from websites users haven&#39;t interacted with recently, on Android and desktop &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251011/p10#a251011p10)
- - [8 Common Foods That Are Microplastic Red Flags](https://www.cnet.com/health/nutrition/commons-foods-microplastic-red-flags/#ftag=CAD590a51e)
- - [We Asked Eye Doctors: What Are the Best Over-the-Counter Eye Drops You Recommend?](https://www.cnet.com/health/personal-care/best-eye-drops/#ftag=CAD590a51e)
- - [In a report, the G20&#39;s Financial Stability Board says regulators are in the early stages of tracking risks posed to the financial system by AI&#39;s rapid adoption &lpar;Laura Noonan/Bloomberg&rpar;](http://www.techmeme.com/251011/p9#a251011p9)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 11, #853](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-11-853/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 11 #587](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-11-587/#ftag=CAD590a51e)
+ - [iPhone 17 vs. iPhone Air Battery Test Showdown: I Just Crowned A New Winner](https://www.cnet.com/tech/mobile/iphone-17-vs-iphone-air-battery-test-showdown-i-just-crowned-a-new-winner/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

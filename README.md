@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: in 2025, tech companies have raised about $157B in the US bond markets, up 70% from last year, as debt seeps into every corner of the AI economy &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/251011/p15#a251011p15)
  - [A look at Figure AI&#39;s new robot, Figure 03, which the company claims will be its first mass-producible humanoid capable of domestic chores and industrial labor &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/251011/p14#a251011p14)
  - [6 Best Carpet Cleaners &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-carpet-cleaner/)
  - [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale)
- - [Best Fiber Internet Providers for October 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
- - [Apple beats Musk, buys Prompt AI startup](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)<!-- TECH:END -->
+ - [Best Fiber Internet Providers for October 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

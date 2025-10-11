@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 😝 [Just when you think you&#39;ve seen it all, this magician pulls another card out of thin air](http://9gag.com/gag/aRBNRQA)
- - 💣 [Typing this on a plane, hope no one sees](http://9gag.com/gag/aryr81d)
+ - 😝 [White guilt vs reality](http://9gag.com/gag/a87Xnee)
+ - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Cats living their best life.](http://9gag.com/gag/aE0NQep)<!-- MEMES:END -->
+ - 👉 [They are the meme](http://9gag.com/gag/a5Qyxgy)<!-- MEMES:END -->
 
 ---
 

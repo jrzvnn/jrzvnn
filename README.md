@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
  - 💣 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)<!-- MEMES:END -->
+ - 👉 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)<!-- MEMES:END -->
 
 ---
 

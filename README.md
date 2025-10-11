@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google plans to invest $10B to build a new 1GW data center cluster near Visakhapatnam in Andhra Pradesh, India, with operations expected to begin by July 2028 &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/251011/p1#a251011p1)
  - [NPCI, which runs India&#39;s UPI, partners with OpenAI and digital payment company Razorpay on a pilot to let consumers shop and pay directly through ChatGPT &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251010/p35#a251010p35)
  - [Marc Benioff says President Trump is &quot;doing a great job&quot; and believes National Guard troops should be deployed to San Francisco to help reduce crime in the city &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251010/p34#a251010p34)
  - [Sources: Morgan Stanley told its financial advisors it will broaden access to crypto investments to all clients and allow such investments in any account type &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251010/p33#a251010p33)
- - [If You&#39;re Using This VPN App on Android, Get Rid of It Now](https://www.cnet.com/tech/services-and-software/if-youre-using-this-vpn-app-on-android-get-rid-of-it-now/#ftag=CAD590a51e)
- - [AMD and Sony Tease Next-Gen Graphics, Possibly for a PS6](https://www.cnet.com/tech/computing/amd-and-sony-tease-next-gen-graphics-possibly-for-a-ps6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If You&#39;re Using This VPN App on Android, Get Rid of It Now](https://www.cnet.com/tech/services-and-software/if-youre-using-this-vpn-app-on-android-get-rid-of-it-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

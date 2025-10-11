@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An index of Chinese chip stocks has surged 50% since the end of June, outperforming global peers, as some investors begin to balk at their lofty valuations &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/251011/p13#a251011p13)
  - [Apple beats Musk, buys Prompt AI startup](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
+ - [An index of Chinese chip stocks has outperformed global peers, surging 50% since the end of June, amid raising investor caution about soaring valuations &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/251011/p13#a251011p13)
  - [Amazfit T-Rex 3 Pro Review: An Outdoor Watch That Doesn&#39;t Work](https://www.wired.com/review/amazfit-t-rex-3-pro/)
  - [American politics has devolved into shitposting and aura farming](https://www.theverge.com/policy/798491/frog-portland-trump-national-guard)
  - [ESR recalls HaloLock power banks over fire risk](https://appleinsider.com/articles/25/10/11/esr-recalls-halolock-power-banks-over-fire-risk?utm_source=rss)<!-- TECH:END -->

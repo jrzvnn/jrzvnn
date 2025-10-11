@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Obviously..](http://9gag.com/gag/aND235v)
  - 😝 [Not gonna lie, this is exactly how i play Hitman games.](http://9gag.com/gag/aGyNogw)
- - 💣 [They are the meme](http://9gag.com/gag/a5Qyxgy)
+ - 😝 [They are the meme](http://9gag.com/gag/a5Qyxgy)
+ - 💣 [Training for cock](http://9gag.com/gag/amobn49)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Training for cock](http://9gag.com/gag/amobn49)<!-- MEMES:END -->
+ - 👉 [This weather hits different](http://9gag.com/gag/abAmmzL)<!-- MEMES:END -->
 
 ---
 

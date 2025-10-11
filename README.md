@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app)
  - [Thinking Machines Lab co-founder Andrew Tulloch has left to join Meta; he reportedly declined Zuckerberg&#39;s offer of a $1.5B+ package in August &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251011/p19#a251011p19)
  - [Indonesia&#39;s film industry is embracing AI tools to produce Hollywood-style movies at a significantly lower cost; the average local film budget is about $602,500 &lpar;Linda Yulisman/Rest of World&rpar;](http://www.techmeme.com/251011/p18#a251011p18)
  - [Apple Clips social video app killed after eight years](https://appleinsider.com/articles/25/10/11/apple-clips-social-video-app-killed-after-eight-years?utm_source=rss)
- - [Apple discontinues Clips, a video editing app it launched in 2017, removing it from the App Store for new users, and says Clips will no longer be updated &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251011/p17#a251011p17)
- - [How Verge readers, and writers, are managing our kids&amp;#8217; screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time)<!-- TECH:END -->
+ - [Apple discontinues Clips, a video editing app it launched in 2017, removing it from the App Store for new users, and says Clips will no longer be updated &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251011/p17#a251011p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

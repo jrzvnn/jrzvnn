@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [C. can&#39;t tell](http://9gag.com/gag/an7WG0b)
  - 😝 [From the river to the see dogs will be free!](http://9gag.com/gag/a2vjGmE)
- - 💣 [Hasan, the animal abuser](http://9gag.com/gag/axynmqb)
+ - 💣 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
+ - 👉 [WELCOME TO THE BATHROOM](http://9gag.com/gag/aZZVVXz)<!-- MEMES:END -->
 
 ---
 

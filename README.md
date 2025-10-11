@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Analysis: in 2025, tech companies have raised about $157B in the US bond markets, up 70% from last year, as debt seeps into every corner of the AI economy &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/251011/p15#a251011p15)
+ - [Spain vs. Georgia: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/spain-vs-georgia-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Portugal vs. Republic of Ireland: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/portugal-vs-republic-of-ireland-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
  - [A look at Figure AI&#39;s new robot, Figure 03, which the company claims will be its first mass-producible humanoid capable of domestic chores and industrial labor &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/251011/p14#a251011p14)
- - [6 Best Carpet Cleaners &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-carpet-cleaner/)
- - [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale)
- - [Best Fiber Internet Providers for October 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [6 Best Carpet Cleaners &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-carpet-cleaner/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

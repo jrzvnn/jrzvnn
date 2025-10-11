@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [A look at Figure AI&#39;s new robot, Figure 03, which the company claims will be its first mass-producible humanoid capable of domestic chores and industrial labor &lpar;Billy Perrigo/Time&rpar;](http://www.techmeme.com/251011/p14#a251011p14)
  - [6 Best Carpet Cleaners &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-carpet-cleaner/)
  - [The AirPods 4 and Lego’s brick-ified Grogu are our favorite deals this week](https://www.theverge.com/tech/798362/apple-airpods-4-lego-star-wars-grogu-deal-sale)
- - [Apple beats Musk, buys Prompt AI startup](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)
- - [An index of Chinese chip stocks is outperforming global peers, surging 50% since the end of June, amid raising investor caution about soaring valuations &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/251011/p13#a251011p13)<!-- TECH:END -->
+ - [Best Fiber Internet Providers for October 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
+ - [Apple beats Musk, buys Prompt AI startup](https://appleinsider.com/articles/25/10/11/ai-acqui-hire-could-boost-apple-intelligences-vision-capabilities?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

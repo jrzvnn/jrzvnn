@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
  - 😝 [So much work and..](http://9gag.com/gag/axyn4y1)
- - 😝 [Convenient](http://9gag.com/gag/aE0NQKx)
- - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 💣 [Convenient](http://9gag.com/gag/aE0NQKx)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
+ - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
 
 ---
 

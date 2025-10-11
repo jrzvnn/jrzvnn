@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Training for cock](http://9gag.com/gag/amobn49)
- - 😝 [Well, I&#39;ll be...](http://9gag.com/gag/a4Prrrp)
- - 💣 [What culture](http://9gag.com/gag/aGyNoOK)
+ - 😝 [What culture](http://9gag.com/gag/aGyNoOK)
+ - 💣 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Send hot noods](http://9gag.com/gag/a0eWWXL)<!-- MEMES:END -->
+ - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
 
 ---
 

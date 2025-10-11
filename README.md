@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Morgan Stanley told its financial advisors it will broaden access to crypto investments to all clients and allow such investments in any account type &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251010/p33#a251010p33)
+ - [AI Companions Use These 6 Tactics to Keep You Chatting](https://www.cnet.com/tech/ai-companions-use-these-6-tactics-to-keep-you-chatting/#ftag=CAD590a51e)
  - [Google says it hit a milestone of 1.3 quadrillion monthly tokens processed across its services this summer, up from 980T monthly tokens announced in July &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251010/p32#a251010p32)
  - [Academics sue over use of pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
- - [Filing: corporate travel and expense management software maker Navan plans to raise up to $960M in a US IPO and is targeting a valuation of up to $6.45B &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251010/p31#a251010p31)
- - [Hollywood has no idea what to do about AI](https://www.theverge.com/ai-artificial-intelligence/798496/hollywood-openai-training-netflix-paramount-warner)
- - [Leaked audio: Apple nears a deal to acquihire computer vision startup Prompt AI; it was approached by other potential suitors, including xAI and Neuralink &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251010/p30#a251010p30)<!-- TECH:END -->
+ - [Filing: corporate travel and expense management software maker Navan plans to raise up to $960M in a US IPO and is targeting a valuation of up to $6.45B &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251010/p31#a251010p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prosus invests ~$146M in Indian travel app ixigo for a 10.1% stake; sources say Prosus plans to buy more shares from other investors to raise its stake to 15% &lpar;Moneycontrol&rpar;](http://www.techmeme.com/251011/p5#a251011p5)
  - [Indian IT giant TCS cut 19,755 jobs in the quarter ended September 30, as strained US relations and a rapid shift to AI reshape India&#39;s $280B IT services sector &lpar;Harshita Swaminathan/Bloomberg&rpar;](http://www.techmeme.com/251011/p4#a251011p4)
  - [FCC Chair Brendan Carr says major US online retailers have removed several million listings for prohibited Chinese electronics as part of the agency&#39;s crackdown &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251011/p3#a251011p3)
  - [Sources: Microsoft&#39;s US data center crunch will last through H1 2026, longer than previously outlined, as the company restricts new Azure cloud subscriptions &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251011/p2#a251011p2)
- - [Google plans to invest $10B to build a new 1GW data center cluster near Visakhapatnam in Andhra Pradesh, India, with operations expected to begin by July 2028 &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/251011/p1#a251011p1)
- - [NPCI, which runs India&#39;s UPI, partners with OpenAI and digital payment company Razorpay on a pilot to let consumers shop and pay directly through ChatGPT &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251010/p35#a251010p35)<!-- TECH:END -->
+ - [Google plans to invest $10B to build a new 1GW data center cluster near Visakhapatnam in Andhra Pradesh, India, with operations expected to begin by July 2028 &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/251011/p1#a251011p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

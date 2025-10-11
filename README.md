@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marc Benioff says President Trump is &quot;doing a great job&quot; and believes National Guard troops should be deployed to San Francisco to help reduce crime in the city &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251010/p34#a251010p34)
  - [Sources: Morgan Stanley told its financial advisors it will broaden access to crypto investments to all clients and allow such investments in any account type &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251010/p33#a251010p33)
- - [AI Companions Use These 6 Tactics to Keep You Chatting](https://www.cnet.com/tech/ai-companions-use-these-6-tactics-to-keep-you-chatting/#ftag=CAD590a51e)
- - [Google says it hit a milestone of 1.3 quadrillion monthly tokens processed across its services this summer, up from 980T monthly tokens announced in July &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251010/p32#a251010p32)
- - [Academics sue over use of pirated books for Apple Intelligence training](https://appleinsider.com/articles/25/10/10/academics-sue-over-using-pirated-books-for-apple-intelligence-training?utm_source=rss)
- - [Filing: corporate travel and expense management software maker Navan plans to raise up to $960M in a US IPO and is targeting a valuation of up to $6.45B &lpar;Prakhar Srivastava/Reuters&rpar;](http://www.techmeme.com/251010/p31#a251010p31)<!-- TECH:END -->
+ - [If You&#39;re Using This VPN App on Android, Get Rid of It Now](https://www.cnet.com/tech/services-and-software/if-youre-using-this-vpn-app-on-android-get-rid-of-it-now/#ftag=CAD590a51e)
+ - [AMD and Sony Tease Next-Gen Graphics, Possibly for a PS6](https://www.cnet.com/tech/computing/amd-and-sony-tease-next-gen-graphics-possibly-for-a-ps6/#ftag=CAD590a51e)
+ - [AI Companions Use These 6 Tactics to Keep You Chatting](https://www.cnet.com/tech/ai-companions-use-these-6-tactics-to-keep-you-chatting/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

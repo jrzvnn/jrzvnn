@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple discontinues Clips, a video editing app it launched in 2017, removing it from the App Store for new users, and says Clips will no longer be updated &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251011/p17#a251011p17)
  - [How The Verge and our readers manage kids’ screen time](https://www.theverge.com/tech/798648/how-verge-parents-and-readers-manage-kids-screen-time)
+ - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
  - [How TBPN&#39;s daily livestream became the preferred news show of tech insiders, as it taps into the &quot;who&#39;s up, who&#39;s down&quot; part of Silicon Valley culture &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251011/p16#a251011p16)
- - [Analysis: in 2025, tech companies have raised about $157B in the US bond markets, up 70% from last year, as debt seeps into every corner of the AI economy &lpar;Edward Ludlow/Bloomberg&rpar;](http://www.techmeme.com/251011/p15#a251011p15)
- - [Spain vs. Georgia: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/spain-vs-georgia-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Chair Company&#39;: Release Schedule and How to Watch](https://www.cnet.com/tech/services-and-software/the-chair-company-release-schedule-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

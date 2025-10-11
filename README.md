@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Lime&#39;s UK revenue rose 75% YoY to £111.3M in 2024, while its pre-tax profit fell to £1.71M, partly due to a £51.3M &quot;reseller fee&quot; paid to its US parent &lpar;Athena Browning/Zag Daily&rpar;](http://www.techmeme.com/251011/p8#a251011p8)
+ - [Corvette E-Ray 2026 Review: Price, Specs, Availability](https://www.wired.com/review/corvette-e-ray/)
  - [Ten major banks including Bank of America, Goldman Sachs, Deutsche Bank, and UBS announce an early-stage project to explore issuing stablecoins to G7 currencies &lpar;Reuters&rpar;](http://www.techmeme.com/251011/p7#a251011p7)
- - [Amkor breaks ground on advanced chip packaging campus in Arizona, with production expected by early 2028; state officials say Amkor&#39;s investment could reach $7B &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251011/p6#a251011p6)
- - [Prosus invests ~$146M in Indian travel app ixigo for a 10.1% stake; sources say Prosus plans to buy more shares from other investors to raise its stake to 15% &lpar;Moneycontrol&rpar;](http://www.techmeme.com/251011/p5#a251011p5)
- - [Indian IT giant TCS cut 19,755 jobs in the quarter ended September 30, as strained US relations and a rapid shift to AI reshape India&#39;s $280B IT services sector &lpar;Harshita Swaminathan/Bloomberg&rpar;](http://www.techmeme.com/251011/p4#a251011p4)
- - [FCC Chair Brendan Carr says major US online retailers have removed several million listings for prohibited Chinese electronics as part of the agency&#39;s crackdown &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251011/p3#a251011p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 11, #383](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-11-383/#ftag=CAD590a51e)
+ - [Amkor breaks ground on advanced chip packaging campus in Arizona, with production expected by early 2028; state officials say Amkor&#39;s investment could reach $7B &lpar;Luke James/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251011/p6#a251011p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

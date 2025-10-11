@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Medium where](http://9gag.com/gag/avyX9yE)
- - 😝 [Woman is bored and decide to divorce husband](http://9gag.com/gag/aVv1BO2)
- - 💣 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [Obviously..](http://9gag.com/gag/aND235v)
+ - 😝 [Not gonna lie, this is exactly how i play Hitman games.](http://9gag.com/gag/aGyNogw)
+ - 💣 [They are the meme](http://9gag.com/gag/a5Qyxgy)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [Bro maxxed out on knowledge and won at life](http://9gag.com/gag/aD2NM2Z)<!-- MEMES:END -->
+ - 👉 [Training for cock](http://9gag.com/gag/amobn49)<!-- MEMES:END -->
 
 ---
 

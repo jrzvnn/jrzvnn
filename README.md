@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AMD&#39;s SVP of AI Vamsi Boppana says the company&#39;s AI software, designed with input from OpenAI, helped secure the multi-billion dollar deal with OpenAI &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251011/p22#a251011p22)
  - [SEMI: US chip fab investment to outpace China, Taiwan, and South Korea from 2027, driven by AI demand and US policies, rising from $21B in 2025 to $43B in 2028 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251011/p21#a251011p21)
- - [Interviews with security researchers about AI&#39;s potential for large-scale destruction, as experts remain divided and global regulatory frameworks lag &lpar;Stephen Witt/New York Times&rpar;](http://www.techmeme.com/251011/p20#a251011p20)
- - [Apple ends support for Clips video-editing app](https://www.theverge.com/news/798676/apple-ends-support-for-clips-video-editing-app)
- - [All the Big Marvel TV Announcements for X-Men &#39;97, VisionQuest and More at NYCC 2025](https://www.cnet.com/tech/services-and-software/all-the-big-marvel-tv-announcements-for-x-men-97-visionquest-and-more-at-nycc-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 12 #588](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-12-588/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 12, #384](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-12-384/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 12, #1576](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-12-1576/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

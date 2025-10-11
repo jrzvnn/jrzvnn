@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
  - 😝 [9gag ramping up censorship again](http://9gag.com/gag/aZZVvL3)
  - 💣 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Haka](http://9gag.com/gag/aQzNBqw)<!-- MEMES:END -->
+ - 👉 [Well, I&#39;ll be...](http://9gag.com/gag/a4Prrrp)<!-- MEMES:END -->
 
 ---
 

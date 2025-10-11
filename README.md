@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [White guilt vs reality](http://9gag.com/gag/a87Xnee)
- - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [This kinda looked easy , so i decided to make it , result in comments](http://9gag.com/gag/apRj8j8)
  - 💣 [I am illegal](http://9gag.com/gag/a1mqxEG)
  - 😝 [Realest horror exists in World of Tanks Blitz \ud83d\udc7b](http://9gag.com/gag/aW4N99x)
- - 👉 [They are the meme](http://9gag.com/gag/a5Qyxgy)<!-- MEMES:END -->
+ - 👉 [Convenient](http://9gag.com/gag/aE0NQKx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Convenient](http://9gag.com/gag/aE0NQKx)
- - 😝 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
- - 💣 [You dont say](http://9gag.com/gag/amobbRo)
+ - 😝 [We are too smart to allow you access to the boat.](http://9gag.com/gag/azxDBnK)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 💣 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [From the archives](http://9gag.com/gag/aPAdnnG)<!-- MEMES:END -->
+ - 👉 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)<!-- MEMES:END -->
 
 ---
 

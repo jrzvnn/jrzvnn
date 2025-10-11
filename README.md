@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Office Office](http://9gag.com/gag/aND22D6)
- - 😝 [What culture](http://9gag.com/gag/aGyNoOK)
- - 💣 [I hate the double click upvote option lol.](http://9gag.com/gag/ajPMyY0)
+ - 😝 [From the archives](http://9gag.com/gag/aPAdnnG)
+ - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
+ - 💣 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
+ - 👉 [Well, I&#39;ll be...](http://9gag.com/gag/a4Prrrp)<!-- MEMES:END -->
 
 ---
 

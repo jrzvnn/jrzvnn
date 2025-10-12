@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never relax around them](http://9gag.com/gag/aGyNNeZ)
  - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
- - 💣 [My name is ...](http://9gag.com/gag/aByNvex)
  - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 💣 [Not in my country](http://9gag.com/gag/aD2NqjN)
+ - 😝 [He&#39;s right](http://9gag.com/gag/ae9Pq5p)
  - 👉 [I love how she was turned on by him violently yonking his shit next to her in the van](http://9gag.com/gag/aYQndAv)<!-- MEMES:END -->
 
 ---

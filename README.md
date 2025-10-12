@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple glasses may run full visionOS when paired with Mac and a lighter UI with iPhone; Apple may unveil M5 iPad, MacBook Pro, and Vision Pro this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251012/p7#a251012p7)
  - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
  - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)
  - [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free)
- - [16 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [I Looked Ridiculous Wearing This Solar Powered Hat That Couldn’t Even Charge My Phone](https://www.cnet.com/news/i-looked-ridiculous-wearing-this-solar-powered-hat-that-couldnt-even-charge-my-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

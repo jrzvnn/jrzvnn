@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
  - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 😝 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
  - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
- - 😝 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
  - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
 
 ---

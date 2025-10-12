@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
- - 😝 [I am in this video](http://9gag.com/gag/aYQnn2q)
- - 💣 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
+ - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
  - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 💣 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 👉 [I love how she was turned on by him violently yonking his shit next to her in the van](http://9gag.com/gag/aYQndAv)<!-- MEMES:END -->
 
 ---
 

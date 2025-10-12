@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You dont say](http://9gag.com/gag/amobbRo)
- - 😝 [Convenient](http://9gag.com/gag/aE0NQKx)
- - 💣 [Hornet exterminator](http://9gag.com/gag/aGyNoNG)
+ - 😝 [You are mine now!](http://9gag.com/gag/a7o6Per)
+ - 😝 [White guilt vs reality](http://9gag.com/gag/a87Xnee)
+ - 💣 [We are too smart to allow you access to the boat.](http://9gag.com/gag/azxDBnK)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)<!-- MEMES:END -->
+ - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
 
 ---
 

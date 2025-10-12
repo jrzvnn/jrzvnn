@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art)
+ - [Taiwan says it expects no significant impact from China&#39;s new export controls on rare earth minerals, as it uses different rare earths in chip manufacturing &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251012/p8#a251012p8)
  - [8 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
  - [Sources: Apple glasses may run full visionOS when paired with Mac and a lighter UI with iPhone; Apple may unveil M5 iPad, MacBook Pro, and Vision Pro this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251012/p7#a251012p7)
- - [I Love My Backyard and the Right Outdoor Tech Makes It a Family Haven](https://www.cnet.com/news/the-best-outdoor-tech/#ftag=CAD590a51e)
- - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)<!-- TECH:END -->
+ - [I Love My Backyard and the Right Outdoor Tech Makes It a Family Haven](https://www.cnet.com/news/the-best-outdoor-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

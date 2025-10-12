@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
  - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
- - 💣 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)<!-- MEMES:END -->
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 💣 [I love how she was turned on by him violently yonking his shit next to her in the van](http://9gag.com/gag/aYQndAv)
+ - 😝 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
+ - 👉 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)<!-- MEMES:END -->
 
 ---
 

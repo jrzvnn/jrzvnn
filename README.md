@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
- - 😝 [Girl always chooses the wrong guy](http://9gag.com/gag/aE0NQne)
- - 💣 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 😝 [Not mine but good](http://9gag.com/gag/a9yNZL0)
+ - 😝 [Send hot noods](http://9gag.com/gag/a0eWWXL)
+ - 💣 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [My name is ...](http://9gag.com/gag/aByNvex)<!-- MEMES:END -->
+ - 👉 [There may be a light coming thru the deep darkness in London](http://9gag.com/gag/avyX4VW)<!-- MEMES:END -->
 
 ---
 

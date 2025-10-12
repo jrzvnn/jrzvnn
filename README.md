@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
- - 😝 [Never relax around them](http://9gag.com/gag/aGyNNeZ)
- - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
- - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
- - 👉 [I love how she was turned on by him violently yonking his shit next to her in the van](http://9gag.com/gag/aYQndAv)<!-- MEMES:END -->
+ - 😝 [The taste of the garlic changes depending on how you chop it](http://9gag.com/gag/aE0NyMe)
+ - 😝 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
+ - 💣 [I am in this video](http://9gag.com/gag/aYQnn2q)
+ - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
+ - 👉 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)<!-- MEMES:END -->
 
 ---
 

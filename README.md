@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foundation Health, which develops an AI assistant to automate patient communication and prior authorization workflows for pharmacies, raised a $20M Series A &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/251012/p3#a251012p3)
  - [1Password founders sold a $75M stake as part of a $100M secondary sale, valuing the company at $6.8B, the same valuation as its $620M Series C in January 2022 &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/251012/p2#a251012p2)
  - [Sources: xAI is building world models for use in gaming and robotics, and has hired two AI researchers, Zeeshan Patel and Ethan He, from Nvidia to work on them &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251012/p1#a251012p1)
  - [New evidence shows the Aisuru botnet, which outpaces all other IoT-based botnets, is drawing most of its firepower from hacked IoT devices hosted on US ISPs &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251011/p25#a251011p25)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-12/#ftag=CAD590a51e)
- - [Google adds Gemini 2.5 Flash Image, aka Nano Banana, to Search&#39;s AI Mode and Google Lens, on Android in the US for those with an account opted into Search Lab &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251011/p24#a251011p24)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

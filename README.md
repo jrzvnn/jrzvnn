@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The taste of the garlic changes depending on how you chop it](http://9gag.com/gag/aE0NyMe)
  - 😝 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
- - 💣 [I am in this video](http://9gag.com/gag/aYQnn2q)
+ - 😝 [I am in this video](http://9gag.com/gag/aYQnn2q)
+ - 💣 [Nice Pilots...](http://9gag.com/gag/axyneEM)
  - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
  - 👉 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)<!-- MEMES:END -->
 

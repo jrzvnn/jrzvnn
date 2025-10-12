@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel’s details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest)
+ - [Marvel details upcoming slate of shows at New York Comic Con](https://www.theverge.com/news/798740/marvels-upcoming-shows-new-york-comic-con-spider-man-x-men-daredevil-visionquest)
  - [AI has sparked a new wave of competition in the browser market, as agentic AI browsers like Perplexity&#39;s Comet and others compete with Gemini-enhanced Chrome &lpar;Fortune&rpar;](http://www.techmeme.com/251012/p12#a251012p12)
  - [How modern media consumption is converging toward a continuous flow of episodic video, across streaming providers, podcasts, and social media apps &lpar;Derek Thompson&rpar;](http://www.techmeme.com/251012/p11#a251012p11)
  - [Apple&#39;s expensive iPhone Fold hinge could be cheaper than expected](https://appleinsider.com/articles/25/10/12/apples-expensive-iphone-fold-hinge-could-be-cheaper-than-expected?utm_source=rss)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He&#39;s right](http://9gag.com/gag/ae9Pq5p)
- - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
- - 💣 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [Not in my country](http://9gag.com/gag/aD2NqjN)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
+ - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
 
 ---
 

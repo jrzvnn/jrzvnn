@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Should You Cancel Xbox Game Pass? Everything to Know on the Price Hikes and New Features](https://www.wired.com/story/should-you-cancel-xbox-game-pass-everything-to-know-on-the-price-hikes-and-new-features/)
  - [A profile of Polymarket CEO Shayne Coplan, whose estimated 11% stake is now worth $1B+ following ICE&#39;s $2B investment, as its rivalry with Kalshi intensifies &lpar;Forbes&rpar;](http://www.techmeme.com/251012/p5#a251012p5)
  - [Qantas says 5.7M customer records stolen in a July breach of a third-party platform have been released online, and it is assessing the extent of the exposure &lpar;Jason Gale/Bloomberg&rpar;](http://www.techmeme.com/251012/p4#a251012p4)
  - [Foundation Health, which develops an AI assistant to automate patient communication and prior authorization workflows for pharmacies, raised a $20M Series A &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/251012/p3#a251012p3)
- - [1Password founders sold a $75M stake as part of a $100M secondary sale, valuing the company at $6.8B, the same valuation as its $620M Series C in January 2022 &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/251012/p2#a251012p2)
- - [Sources: xAI is building world models for use in gaming and robotics, and has hired two AI researchers, Zeeshan Patel and Ethan He, from Nvidia to work on them &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251012/p1#a251012p1)<!-- TECH:END -->
+ - [1Password founders sold a $75M stake as part of a $100M secondary sale, valuing the company at $6.8B, the same valuation as its $620M Series C in January 2022 &lpar;Jeff Stone/Bloomberg&rpar;](http://www.techmeme.com/251012/p2#a251012p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

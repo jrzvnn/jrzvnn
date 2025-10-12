@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The rage bait](http://9gag.com/gag/aryrrg7)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 💣 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
+ - 💣 [Hate when that happens](http://9gag.com/gag/an7W06b)
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
  - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---

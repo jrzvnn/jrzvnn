@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
  - [M5 iPad Pro, Apple Vision Pro refresh may arrive this week](https://appleinsider.com/articles/25/10/12/m5-ipad-pro-apple-vision-pro-refresh-may-arrive-this-week?utm_source=rss)
  - [AirPods Pro 4, AirPods 5 rumored to get Apple Intelligence-enhanced cameras in 2026](https://appleinsider.com/articles/25/10/12/airpods-pro-4-airpods-5-rumored-to-get-apple-intelligence-enhanced-cameras-in-2026?utm_source=rss)
- - [Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike](https://www.wired.com/review/specialized-s-works-levo-4/)
- - [Welcome to the ‘papers, please’ internet](https://www.theverge.com/column/798159/age-gating-internet)
- - [ChatGPT is becoming an everything app](https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer)<!-- TECH:END -->
+ - [Humanoid Robots Headed to War? I Went Hands-On With the Phantom MK1](https://www.cnet.com/tech/computing/humanoid-robots-headed-to-war-hands-on-with-phantom-mk1/#ftag=CAD590a51e)
+ - [Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike](https://www.wired.com/review/specialized-s-works-levo-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

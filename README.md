@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
  - 😝 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
- - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
+ - 💣 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
+ - 👉 [Looks expensive](http://9gag.com/gag/ajPMGRq)<!-- MEMES:END -->
 
 ---
 

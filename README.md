@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
  - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
- - 💣 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
- - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
- - 👉 [Looks expensive](http://9gag.com/gag/ajPMGRq)<!-- MEMES:END -->
+ - 💣 [Hate when that happens](http://9gag.com/gag/an7W06b)
+ - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
 
 ---
 

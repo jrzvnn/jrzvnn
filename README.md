@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
  - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
- - 💣 [I love how she was turned on by him violently yonking his shit next to her in the van](http://9gag.com/gag/aYQndAv)
- - 😝 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)
+ - 💣 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
  - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
 
 ---

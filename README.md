@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sora videos depicting dead celebs spark backlash from families; OpenAI says reps of &quot;recently deceased&quot; public figures can request their likeness be blocked &lpar;Washington Post&rpar;](http://www.techmeme.com/251012/p10#a251012p10)
  - [Judges in Latin America are struggling to rule on cases of AI-generated images even as courts increasingly adopt AI tools to clear case backlogs &lpar;Juliana Bedoya/Rest of World&rpar;](http://www.techmeme.com/251012/p9#a251012p9)
  - [Amazon awkwardly edited the guns out of James Bond art](https://www.theverge.com/news/798712/amazon-awkwardly-edited-the-guns-out-of-james-bond-art)
  - [Taiwan says it expects no significant impact from China&#39;s new export controls on rare earth minerals, as it uses different rare earths in chip manufacturing &lpar;Ben Blanchard/Reuters&rpar;](http://www.techmeme.com/251012/p8#a251012p8)
- - [8 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
- - [Sources: Apple glasses may run full visionOS when paired with Mac and a lighter UI with iPhone; Apple may unveil M5 iPad, MacBook Pro, and Vision Pro this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251012/p7#a251012p7)<!-- TECH:END -->
+ - [8 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

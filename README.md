@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 😝 [Human fren shaped helper.](http://9gag.com/gag/a2vjArD)
+ - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
+ - 💣 [He&#39;s right](http://9gag.com/gag/ae9Pq5p)
  - 😝 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)
- - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
+ - 👉 [Don&#39;t get pregnant](http://9gag.com/gag/aVv14AO)<!-- MEMES:END -->
 
 ---
 

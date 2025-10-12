@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A skirt that tight you got no secrets](http://9gag.com/gag/avyXXPb)
  - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
  - 💣 [My name is ...](http://9gag.com/gag/aByNvex)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [The variety of PlayStation](http://9gag.com/gag/aKGNnNQ)<!-- MEMES:END -->
+ - 👉 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)<!-- MEMES:END -->
 
 ---
 

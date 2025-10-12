@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [Human fren shaped helper.](http://9gag.com/gag/a2vjArD)
- - 💣 [He&#39;s right](http://9gag.com/gag/ae9Pq5p)
- - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
+ - 💣 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
+ - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
 
 ---
 

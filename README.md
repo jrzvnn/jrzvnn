@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: xAI is building world models for use in gaming and robotics, and has hired two AI researchers, Zeeshan Patel and Ethan He, from Nvidia to work on them &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251012/p1#a251012p1)
  - [New evidence shows the Aisuru botnet, which outpaces all other IoT-based botnets, is drawing most of its firepower from hacked IoT devices hosted on US ISPs &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251011/p25#a251011p25)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-12/#ftag=CAD590a51e)
  - [Google adds Gemini 2.5 Flash Image, aka Nano Banana, to Search&#39;s AI Mode and Google Lens, on Android in the US for those with an account opted into Search Lab &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251011/p24#a251011p24)
- - [Sources: Securitize, a blockchain company that tokenizes investments, is in talks to go public via a SPAC started by Cantor Fitzgerald at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251011/p23#a251011p23)
- - [AMD&#39;s SVP of AI Vamsi Boppana says the company&#39;s AI software, designed with input from OpenAI, helped secure the multi-billion dollar deal with OpenAI &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251011/p22#a251011p22)<!-- TECH:END -->
+ - [Sources: Securitize, a blockchain company that tokenizes investments, is in talks to go public via a SPAC started by Cantor Fitzgerald at a $1B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251011/p23#a251011p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

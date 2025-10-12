@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A skirt that tight you got no secrets](http://9gag.com/gag/avyXXPb)
- - 😝 [I am illegal](http://9gag.com/gag/a1mqxEG)
- - 💣 [My name is ...](http://9gag.com/gag/aByNvex)
+ - 😝 [Send hot noods](http://9gag.com/gag/a0eWWXL)
+ - 😝 [Not mine but good](http://9gag.com/gag/a9yNZL0)
+ - 💣 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)<!-- MEMES:END -->
+ - 👉 [There may be a light coming thru the deep darkness in London](http://9gag.com/gag/avyX4VW)<!-- MEMES:END -->
 
 ---
 

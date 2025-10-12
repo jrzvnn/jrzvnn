@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
- - 💣 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
 
 ---
 

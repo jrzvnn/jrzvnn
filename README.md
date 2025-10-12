@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Definitely didn&#39;t see that one coming](http://9gag.com/gag/a7o6G6z)
+ - 😝 [How long did it take for you to get it?](http://9gag.com/gag/aryrr1X)
  - 😝 [Never relax around them](http://9gag.com/gag/aGyNNeZ)
- - 💣 [My name is ...](http://9gag.com/gag/aByNvex)
- - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
  - 👉 [I love how she was turned on by him violently yonking his shit next to her in the van](http://9gag.com/gag/aYQndAv)<!-- MEMES:END -->
 
 ---

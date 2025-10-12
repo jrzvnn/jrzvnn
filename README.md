@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
  - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)
  - [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free)
  - [16 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [M5 iPad Pro, Apple Vision Pro refresh may arrive this week](https://appleinsider.com/articles/25/10/12/m5-ipad-pro-apple-vision-pro-refresh-may-arrive-this-week?utm_source=rss)
- - [AirPods Pro 4, AirPods 5 rumored to get Apple Intelligence-enhanced cameras in 2026](https://appleinsider.com/articles/25/10/12/airpods-pro-4-airpods-5-rumored-to-get-apple-intelligence-enhanced-cameras-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [I Looked Ridiculous Wearing This Solar Powered Hat That Couldn’t Even Charge My Phone](https://www.cnet.com/news/i-looked-ridiculous-wearing-this-solar-powered-hat-that-couldnt-even-charge-my-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

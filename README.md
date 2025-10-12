@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8 Best Cat Water Fountains, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-cat-water-fountains/)
  - [Sources: Apple glasses may run full visionOS when paired with Mac and a lighter UI with iPhone; Apple may unveil M5 iPad, MacBook Pro, and Vision Pro this week &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251012/p7#a251012p7)
+ - [I Love My Backyard and the Right Outdoor Tech Makes It a Family Haven](https://www.cnet.com/news/the-best-outdoor-tech/#ftag=CAD590a51e)
  - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)
- - [How BlackBerry Messenger set texting free](https://www.theverge.com/podcast/798692/how-blackberry-messenger-set-texting-free)
- - [16 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)<!-- TECH:END -->
+ - [Police are asking kids to stop pulling AI homeless man prank](https://www.theverge.com/news/798681/police-stop-pulling-ai-homeless-man-tiktok-prank)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

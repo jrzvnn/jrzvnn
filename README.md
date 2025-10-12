@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How is it possible that circuit breakers didn\u2019t go off??](http://9gag.com/gag/aGyN6O7)
- - 😝 [You dont say](http://9gag.com/gag/amobbRo)
- - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 😝 [Looks expensive](http://9gag.com/gag/ajPMGRq)
+ - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
+ - 💣 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [My name is ...](http://9gag.com/gag/aByNvex)<!-- MEMES:END -->
+ - 👉 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)<!-- MEMES:END -->
 
 ---
 

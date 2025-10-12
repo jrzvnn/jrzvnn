@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 iPad Pro, Apple Vision Pro refresh may arrive this week](https://appleinsider.com/articles/25/10/12/m5-ipad-pro-apple-vision-pro-refresh-may-arrive-this-week?utm_source=rss)
+ - [AirPods Pro 4, AirPods 5 rumored to get Apple Intelligence-enhanced cameras in 2026](https://appleinsider.com/articles/25/10/12/airpods-pro-4-airpods-5-rumored-to-get-apple-intelligence-enhanced-cameras-in-2026?utm_source=rss)
  - [Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike](https://www.wired.com/review/specialized-s-works-levo-4/)
  - [Welcome to the ‘papers, please’ internet](https://www.theverge.com/column/798159/age-gating-internet)
- - [ChatGPT is becoming an everything app](https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer)
- - [How culture and regulations are shaping AI companion platforms worldwide, with US platforms primarily targeting men and Chinese platforms mainly targeting women &lpar;Zilan Qian/ChinaTalk&rpar;](http://www.techmeme.com/251012/p6#a251012p6)
- - [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)<!-- TECH:END -->
+ - [ChatGPT is becoming an everything app](https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

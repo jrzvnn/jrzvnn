@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI has sparked a new wave of competition in the browser market, as agentic AI browsers like Perplexity&#39;s Comet and others compete with Gemini-enhanced Chrome &lpar;Fortune&rpar;](http://www.techmeme.com/251012/p12#a251012p12)
  - [How modern media consumption is converging toward a continuous flow of episodic video, across streaming providers, podcasts, and social media apps &lpar;Derek Thompson&rpar;](http://www.techmeme.com/251012/p11#a251012p11)
  - [Apple&#39;s expensive iPhone Fold hinge could be cheaper than expected](https://appleinsider.com/articles/25/10/12/apples-expensive-iphone-fold-hinge-could-be-cheaper-than-expected?utm_source=rss)
  - [You need to watch the bonkers Japanese fantasy horror film House](https://www.theverge.com/entertainment/798719/watch-japanese-horror-fantasy-film-house-halloween)
- - [19 Excellent Horror Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/19-excellent-horror-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)
- - [Sora videos depicting dead celebs spark backlash from families; OpenAI says reps of &quot;recently deceased&quot; public figures can request their likeness be blocked &lpar;Washington Post&rpar;](http://www.techmeme.com/251012/p10#a251012p10)<!-- TECH:END -->
+ - [19 Excellent Horror Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/19-excellent-horror-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

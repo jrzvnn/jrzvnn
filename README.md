@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Send hot noods](http://9gag.com/gag/a0eWWXL)
  - 💣 [Hey 9 gag let me post this video, it&#39;s not Islmiccc post](http://9gag.com/gag/aD2Nr0N)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [There may be a light coming thru the deep darkness in London](http://9gag.com/gag/avyX4VW)<!-- MEMES:END -->
+ - 👉 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
 
 ---
 

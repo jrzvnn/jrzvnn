@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You are mine now!](http://9gag.com/gag/a7o6Per)
- - 😝 [White guilt vs reality](http://9gag.com/gag/a87Xnee)
- - 💣 [We are too smart to allow you access to the boat.](http://9gag.com/gag/azxDBnK)
+ - 😝 [THE CAMERA MAN HAD ONE JOB ONE JOB](http://9gag.com/gag/azxDQoq)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 💣 [You are mine now!](http://9gag.com/gag/a7o6Per)
  - 😝 [Halloween is creeping closer, and so is the spooky surprise from WoT Blitz! Here&#39;s your chance to win an iPhone 17 with a WoT Blitz themed phone case!](http://9gag.com/gag/amobMN6)
- - 👉 [I am illegal](http://9gag.com/gag/a1mqxEG)<!-- MEMES:END -->
+ - 👉 [Russia canceled its first Russia-Arab summit because most of the 22 Arab leaders would not attend The summit was supposed to take place on October 15, but a week earlier, it turned out that only acting president of Syria and Prime Minister of Iraq confirmed their participation](http://9gag.com/gag/a87XQ71)<!-- MEMES:END -->
 
 ---
 

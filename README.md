@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How culture and regulations are shaping AI companion platforms worldwide, with US platforms primarily targeting men and Chinese platforms mainly targeting women &lpar;Zilan Qian/ChinaTalk&rpar;](http://www.techmeme.com/251012/p6#a251012p6)
  - [A New Algorithm Makes It Faster to Find the Shortest Paths](https://www.wired.com/story/new-method-is-the-fastest-way-to-find-the-best-routes/)
+ - [Easily Find Recently Saved Photos on Your iPhone With This One Trick](https://www.cnet.com/tech/services-and-software/easily-find-recently-saved-photos-on-your-iphone-with-this-one-trick/#ftag=CAD590a51e)
  - [Should You Cancel Xbox Game Pass? Everything to Know on the Price Hikes and New Features](https://www.wired.com/story/should-you-cancel-xbox-game-pass-everything-to-know-on-the-price-hikes-and-new-features/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 12, #384](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-12-384/#ftag=CAD590a51e)
- - [That Expensive Nonstick Pan You Love? You&#39;re Slowly Killing It With These 5 Foods.](https://www.cnet.com/news/that-expensive-nonstick-pan-you-love-youre-slowly-killing-it-with-these-5-foods/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 12, #384](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-12-384/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

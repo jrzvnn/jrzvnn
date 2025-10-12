@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [My name is ...](http://9gag.com/gag/aByNvex)
- - 💣 [Looks expensive](http://9gag.com/gag/ajPMGRq)
- - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
- - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
+ - 😝 [Human fren shaped helper.](http://9gag.com/gag/a2vjArD)
+ - 💣 [He&#39;s right](http://9gag.com/gag/ae9Pq5p)
+ - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
+ - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
 
 ---
 

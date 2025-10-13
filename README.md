@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta brings back job listings on Facebook, available for mobile users in the US via a dedicated Jobs tab in Marketplace, and across Groups and Pages &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251013/p37#a251013p37)
+ - [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us)
  - [Goldman Sachs agrees to acquire multi-stage investment firm Industry Ventures, which has $7B AUM, for $665M in cash and equity plus $300M tied to performance &lpar;Saeed Azhar/Reuters&rpar;](http://www.techmeme.com/251013/p36#a251013p36)
- - [Upgraded Pro Display XDR with webcam hinted at in macOS 26.1 beta 3](https://appleinsider.com/articles/25/10/13/upgraded-pro-display-xdr-with-webcam-hinted-at-in-macos-261-beta-3?utm_source=rss)
- - [Broadcom closes up 9.88% following the announcement of its custom chip deal with OpenAI; its stock is up over 50% in 2025 after more than doubling in 2024 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251013/p35#a251013p35)
- - [The Best PC Monitor for Most People Is $75 Off](https://www.wired.com/story/dell-27-plus-deal-1025/)
- - [Everything new in iOS 26.1 beta 3: Third-party AI, Local Capture toggle, more](https://appleinsider.com/articles/25/10/13/everything-new-in-ios-261-beta-3-third-party-ai-local-capture-toggle-more?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)
+ - [Upgraded Pro Display XDR with webcam hinted at in macOS 26.1 beta 3](https://appleinsider.com/articles/25/10/13/upgraded-pro-display-xdr-with-webcam-hinted-at-in-macos-261-beta-3?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

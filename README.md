@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York- and London-based ClaimSorted, which uses AI to help speed up insurance claims and works with 20+ insurers, raised a $13.3M seed led by Atomico &lpar;Robert Olsen/Forbes&rpar;](http://www.techmeme.com/251013/p15#a251013p15)
  - [Sources: London-based self-driving tech startup Wayve is in early stage talks with Microsoft and SoftBank to raise between $1B and $2B, valuing it at ~$8B &lpar;Financial Times&rpar;](http://www.techmeme.com/251013/p14#a251013p14)
  - [CoinGecko: crypto&#39;s combined market cap rises 6% to hit $4T, recovering from a brutal weekend selloff as President Trump tries to calm US-China trade war fears &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p13#a251013p13)
  - [Joel Mokyr, Philippe Aghion, and Peter Howitt win the Nobel Prize in Economics for their work on how innovation and technological progress helps economic growth &lpar;Eshe Nelson/New York Times&rpar;](http://www.techmeme.com/251013/p12#a251013p12)
- - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
- - [Ofcom fines 4chan £20K under the OSA for failing to provide information on the risk of illegal content; a UK minister says the government &quot;fully backed&quot; Ofcom &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/251013/p11#a251013p11)<!-- TECH:END -->
+ - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

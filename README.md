@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Third iOS 26.1, macOS Tahoe 26.1 developer betas arrive for testing](https://appleinsider.com/articles/25/10/13/third-ios-261-macos-tahoe-261-developer-betas-arrive-for-testing?utm_source=rss)
  - [New California law requires AI to tell you it’s AI](https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai)
  - [California enacts its own internet age-gating law](https://www.theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043)
- - [Nvidia’s ‘personal AI supercomputer’ is now available to buy](https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer)<!-- TECH:END -->
+ - [Sources: Raymond Zage and James Lu, who control most of Grindr, are in talks to take it private after a Temasek unit sold shares pledged for personal loans &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/251013/p28#a251013p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

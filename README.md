@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)
- - [Apple says Apple TV+ streaming service is being renamed as Apple TV, with &quot;a vibrant new identity&quot; &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251013/p26#a251013p26)
- - [Rob Alexander joins HomeKit Insider to talk about Matter&#39;s new certification program](https://appleinsider.com/articles/25/10/13/rob-alexander-joins-homekit-insider-to-talk-about-matters-new-certification-program?utm_source=rss)
- - [Governor Gavin Newsom signs AB 1043, which requires device makers and app stores to verify user ages; Google, Meta, and OpenAI supported the bill &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251013/p25#a251013p25)
- - [California Governor Gavin Newsom signs SB 243, which mandates safety protocols for AI chatbot companions, the first state law to regulate such AI chatbots &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251013/p24#a251013p24)<!-- TECH:END -->
+ - [&#39;F1 The Movie&#39; crosses the finish line, hits Apple TV December 12](https://appleinsider.com/articles/25/10/13/f1-the-movie-crosses-the-finish-line-hits-apple-tv-december-12?utm_source=rss)
+ - [Taylor Swift&#39;s Eras Tour Docuseries and Concert Film Coming to Disney Plus: Here&#39;s Why I&#39;m Excited](https://www.cnet.com/tech/services-and-software/taylor-swifts-eras-tour-docuseries-and-concert-film-coming-to-disney-plus-heres-why-im-excited/#ftag=CAD590a51e)
+ - [Apple says that its Apple TV+ streaming service has been renamed Apple TV, &quot;with a vibrant new identity&quot; &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251013/p26#a251013p26)
+ - [Even &#39;Incompatible&#39; Windows 10 PCs Can Get Windows 11 for Free. Here&#39;s How](https://www.cnet.com/tech/computing/incompatible-windows-10-pcs-can-get-windows-11-for-free-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

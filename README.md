@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [The moment Henry Cavill made facial hair history](http://9gag.com/gag/aZZVV2Q)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
  - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 💣 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [Don\u2019t f#ck with Chuck](http://9gag.com/gag/aND2XWw)
- - 👉 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)<!-- MEMES:END -->
+ - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
 
 ---
 

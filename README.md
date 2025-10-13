@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 😝 [Window cleaning](http://9gag.com/gag/a9yNenm)
+ - 💣 [Nice Pilots...](http://9gag.com/gag/axyneEM)
  - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
- - 😝 [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
- - 💣 [I guess.](http://9gag.com/gag/azxDvLN)
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 👉 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)<!-- MEMES:END -->
 
 ---
 

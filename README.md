@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [What a beautiful cave](http://9gag.com/gag/aQzNbo8)
+ - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [...](http://9gag.com/gag/aD2NLqK)
  - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The biggest crime in India](http://9gag.com/gag/a2vjAZp)
- - 😝 [RIP Randy Savage](http://9gag.com/gag/aQzNKPd)
- - 💣 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 😝 [Don&#39;t get pregnant](http://9gag.com/gag/aVv14AO)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 💣 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
 
 ---
 

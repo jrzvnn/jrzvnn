@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
- - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
- - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 💣 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 😝 [Don\u2019t f#ck with Chuck](http://9gag.com/gag/aND2XWw)
  - 👉 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)<!-- MEMES:END -->
 
 ---

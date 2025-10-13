@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
  - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
  - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 😝 [Don\u2019t f#ck with Chuck](http://9gag.com/gag/aND2XWw)
+ - 😝 [Window cleaning](http://9gag.com/gag/a9yNenm)
  - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The rage bait](http://9gag.com/gag/aryrrg7)
- - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
- - 💣 [Hate when that happens](http://9gag.com/gag/an7W06b)
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 👉 [While Americans fight each other over skin colour and immigration.](http://9gag.com/gag/aLnNNL5)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The stakes are higher than ever](http://9gag.com/gag/aMVN6XV)
- - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
- - 💣 [Nailed it](http://9gag.com/gag/azxDz9K)
- - 😝 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)
- - 👉 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)<!-- MEMES:END -->
+ - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [What a beautiful cave](http://9gag.com/gag/aQzNbo8)
+ - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
 
 ---
 

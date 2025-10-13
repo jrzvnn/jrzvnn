@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Governor Gavin Newsom signs AB 1043, which requires device makers and app stores to verify user ages; Google, Meta, and OpenAI supported the bill &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251013/p25#a251013p25)
+ - [California Governor Gavin Newsom signs SB 243, which mandates safety protocols for AI chatbot companions, the first state law to regulate such AI chatbots &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251013/p24#a251013p24)
  - [California Governor Gavin Newsom signs AB 56, which requires social media companies to add warning labels on mental health risks for users under 18 in the state &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251013/p23#a251013p23)
  - [Anduril plans to make 100 units of its AI-powered EagleEye helmet and eyewear for the US Army by Q2 2026, replacing Microsoft&#39;s IVAS; Meta provided some tech &lpar;Brandi Vincent/DefenseScoop&rpar;](http://www.techmeme.com/251013/p22#a251013p22)
- - [EcoFlow’s Delta Pro Ultra X can power a home for weeks](https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system)
- - [OpenAI partners with Broadcom to produce its own AI chips](https://www.theverge.com/news/798827/openai-broadcom-custom-ai-chips)
- - [Salesforce plans to invest $15B in San Francisco over the next five years, including funding an AI Incubator Hub and workforce programs; CRM is down 25% in 2025 &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/251013/p21#a251013p21)<!-- TECH:END -->
+ - [EcoFlow’s Delta Pro Ultra X can power a home for weeks](https://www.theverge.com/news/798772/ecoflow-delta-pro-ultra-x-battery-system)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

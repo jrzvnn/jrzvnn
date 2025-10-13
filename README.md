@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
- - 💣 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)
- - 😝 [Overdrive](http://9gag.com/gag/aAyNAr2)
- - 👉 [Nailed it](http://9gag.com/gag/azxDz9K)<!-- MEMES:END -->
+ - 😝 [Nice Pilots...](http://9gag.com/gag/axyneEM)
+ - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
+ - 😝 [Yes, I am jenius](http://9gag.com/gag/aLnNo2M)
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---
 

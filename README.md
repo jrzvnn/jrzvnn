@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
- - 😝 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)
- - 💣 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
- - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)
+ - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 ---
 

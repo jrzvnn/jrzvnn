@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
  - 😝 [Window cleaning](http://9gag.com/gag/a9yNenm)
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
  - 💣 [Nice Pilots...](http://9gag.com/gag/axyneEM)
- - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
- - 👉 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)<!-- MEMES:END -->
+ - 😝 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
+ - 👉 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
 
 ---
 

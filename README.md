@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Salesforce plans to invest $15B in San Francisco over the next five years, including funding an AI Incubator Hub and workforce programs; CRM is down 25% in 2025 &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/251013/p21#a251013p21)
+ - [Palmer Luckey&amp;#8217;s Anduril launches EagleEye military helmet with help from buddy Zuck](https://www.theverge.com/news/798821/anduril-eagleeye-palmer-luckey-mark-zuckerberg-meta-military-mr)
  - [At Dreamforce 2025, Salesforce unveils Agentforce 360, a unified agentic AI stack to connect humans, AI agents, and more, and positions Slack as an &quot;agentic OS&quot; &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/251013/p20#a251013p20)
  - [iPhone Air preorders in China start on October 17](https://appleinsider.com/articles/25/10/13/iphone-air-preorders-in-china-rumored-to-start-on-october-17?utm_source=rss)
- - [Amazon&#39;s $449 M3 iPad Air deal is back to save you $150, but supply is limited](https://appleinsider.com/articles/25/10/13/amazons-449-m3-ipad-air-deal-is-back-to-save-you-150-but-supply-is-limited?utm_source=rss)
- - [Best 6 TVs I&#39;ve Tested for October 2025](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s $449 M3 iPad Air deal is back to save you $150, but supply is limited](https://appleinsider.com/articles/25/10/13/amazons-449-m3-ipad-air-deal-is-back-to-save-you-150-but-supply-is-limited?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

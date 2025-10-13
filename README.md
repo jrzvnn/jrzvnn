@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Raymond Zage and James Lu, who control most of Grindr, are in talks to take it private after a Temasek unit sold shares pledged for personal loans &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/251013/p28#a251013p28)
- - [Apple says iPhone Air will go on sale in China on October 22, after initially delaying the launch due to regulatory issues with the device&#39;s eSIM-only design &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251013/p27#a251013p27)
- - [Apple TV ditch of &#39;plus&#39; just adds to Apple&#39;s video branding confusion](https://appleinsider.com/articles/25/10/13/apple-tv-ditch-of-plus-just-adds-to-apples-video-branding-confusion?utm_source=rss)
- - [Apple TV Plus is being rebranded to… Apple TV](https://www.theverge.com/news/798857/apple-tv-plus-rebrand-streaming-service)
- - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)<!-- TECH:END -->
+ - [Google &amp; Facebook like California&#39;s new age check law, but Apple hates it](https://appleinsider.com/articles/25/10/13/google-facebook-like-californias-new-age-check-law-but-apple-hates-it?utm_source=rss)
+ - [Third iOS 26.1, macOS Tahoe 26.1 developer betas arrive for testing](https://appleinsider.com/articles/25/10/13/third-ios-261-macos-tahoe-261-developer-betas-arrive-for-testing?utm_source=rss)
+ - [New California law requires AI to tell you it’s AI](https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai)
+ - [California enacts its own internet age-gating law](https://www.theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043)
+ - [Nvidia’s ‘personal AI supercomputer’ is now available to buy](https://www.theverge.com/news/798775/nvidia-spark-personal-ai-supercomputer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

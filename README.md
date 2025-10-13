@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them)
+ - [Quantum computing stocks jumped after JPMorgan announced a $10B strategic tech investment; Arqit, D-Wave, Rigetti, and IonQ each rose about 20% &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251013/p33#a251013p33)
  - [JPMorgan Chase launches a decade-long plan to invest $10B in industries critical for national security, including &quot;frontier&quot; tech like AI and quantum computing &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251013/p32#a251013p32)
  - [Tesla Cybertruck sales are flatlining](https://www.theverge.com/news/798889/tesla-cybertruck-sales-decrease-q3-2025)
- - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)
- - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [Wales vs. Belgium: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/wales-vs-belgium-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

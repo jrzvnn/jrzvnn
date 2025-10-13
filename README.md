@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You dont say](http://9gag.com/gag/amobbRo)
+ - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
+ - 💣 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)
  - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 💣 [Nailed it](http://9gag.com/gag/azxDz9K)
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 👉 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)<!-- MEMES:END -->
+ - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JPMorgan Chase launches a decade-long plan to invest $10B in industries critical for national security, including &quot;frontier&quot; tech like AI and quantum computing &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251013/p32#a251013p32)
+ - [Tesla Cybertruck sales are flatlining](https://www.theverge.com/news/798889/tesla-cybertruck-sales-decrease-q3-2025)
  - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)
  - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
- - [Wales vs. Belgium: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/wales-vs-belgium-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
- - [5 Reasons Why I&#39;m Ready to Retire My Steam Deck for the ROG Xbox Ally](https://www.cnet.com/tech/gaming/5-reasons-why-im-ready-to-retire-my-steam-deck-for-the-rog-xbox-ally/#ftag=CAD590a51e)
- - [Forget Apple TV Plus, It&#39;s Just Apple TV Now](https://www.cnet.com/tech/services-and-software/forget-apple-tv-plus-its-just-apple-tv-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wales vs. Belgium: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/wales-vs-belgium-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

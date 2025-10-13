@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ofcom fines 4chan £20K under the OSA for failing to provide information on the risk of illegal content; a UK minister says the government &quot;fully backed&quot; Ofcom &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/251013/p11#a251013p11)
  - [Sources: UK security services including MI5 step up work with the country&#39;s largest companies over hacking fears and to improve UK cyber warfare preparedness &lpar;Financial Times&rpar;](http://www.techmeme.com/251013/p10#a251013p10)
  - [How to Make STEM Funny—and Go Viral Doing It](https://www.wired.com/story/freya-mcghee-stem-stand-up-comedian/)
  - [Tencent is investing in shooting games, traditionally dominated by Western companies, after the 2024 success of Delta Force, which still has 30M players daily &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p9#a251013p9)
- - [A profile of eBay CEO Jamie Iannone, who said the platform was &quot;too complacent&quot; in 2020 and now focuses on its power users, boosting its stock by ~50% in 2025 &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/251013/p8#a251013p8)
- - [New Rules Could Force Tesla to Redesign Its Door Handles. That’s Harder Than It Sounds](https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/)<!-- TECH:END -->
+ - [A profile of eBay CEO Jamie Iannone, who said the platform was &quot;too complacent&quot; in 2020 and now focuses on its power users, boosting its stock by ~50% in 2025 &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/251013/p8#a251013p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

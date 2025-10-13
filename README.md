@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 💣 [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)
  - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
  - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
 
 ---

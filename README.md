@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data integration startup Fivetran and data management startup dbt Labs announce a merger in an all-stock deal; Fivetran CEO will be CEO of the combined company &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251013/p30#a251013p30)
  - [Andrej Karpathy unveils nanochat, a full-stack training and inference implementation of an LLM in a single, dependency-minimal codebase &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/251013/p29#a251013p29)
  - [Google &amp; Facebook like California&#39;s new age check law, but Apple hates it](https://appleinsider.com/articles/25/10/13/google-facebook-like-californias-new-age-check-law-but-apple-hates-it?utm_source=rss)
  - [Third iOS 26.1, macOS Tahoe 26.1 developer betas arrive for testing](https://appleinsider.com/articles/25/10/13/third-ios-261-macos-tahoe-261-developer-betas-arrive-for-testing?utm_source=rss)
- - [New California law requires AI to tell you it’s AI](https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai)
- - [California enacts its own internet age-gating law](https://www.theverge.com/news/798871/california-governor-newsom-age-gating-ab-1043)<!-- TECH:END -->
+ - [New California law requires AI to tell you it’s AI](https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

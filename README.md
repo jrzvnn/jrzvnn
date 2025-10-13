@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
- - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
+ - 😝 [The stakes are higher than ever](http://9gag.com/gag/aMVN6XV)
+ - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
+ - 💣 [Nailed it](http://9gag.com/gag/azxDz9K)
+ - 😝 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)
+ - 👉 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)<!-- MEMES:END -->
 
 ---
 

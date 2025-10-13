@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 😝 [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
- - 💣 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
  - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
+ - 😝 [20yo unemployed Chinese student married 47yo daughter of an African diamond mine owner despite strong opposition and threat of disowning from his parents and relatives. Love truly conquers all.](http://9gag.com/gag/a5Qyvqo)
+ - 💣 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
  - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
 
 ---

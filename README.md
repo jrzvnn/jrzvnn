@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warburg Pincus agrees to acquire German industrial software company PSI for over €700M, offering €45 per share; PSI&#39;s stock closed at €33.20 on October 10 &lpar;Reuters&rpar;](http://www.techmeme.com/251013/p2#a251013p2)
  - [Wingtech&#39;s Shanghai-listed stock plunged its daily limit of 10% after the Dutch government moved to exert control over Nexperia, which it acquired in 2018 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p1#a251013p1)
  - [More Evidence Emerges That One of Saturn’s Moons Could Harbor Life](https://www.wired.com/story/more-evidence-emerges-that-one-of-saturns-moons-could-harbor-life/)
  - [John Searle, known for &quot;the Chinese Room&quot; thought experiment on AI consciousness, died on Sept. 16 at 93; his UCB tenure ended over alleged sexual harassment &lpar;Alex Traub/New York Times&rpar;](http://www.techmeme.com/251012/p16#a251012p16)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 13, #385](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-13-385/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 13 #589](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-13-589/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 13, #385](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-13-385/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

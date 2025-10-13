@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
- - 💣 [Don&#39;t get pregnant](http://9gag.com/gag/aVv14AO)
- - 😝 [His name? lady gagito](http://9gag.com/gag/a5Qy9Lq)
- - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
+ - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [Don\u2019t f#ck with Chuck](http://9gag.com/gag/aND2XWw)
+ - 👉 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)<!-- MEMES:END -->
 
 ---
 

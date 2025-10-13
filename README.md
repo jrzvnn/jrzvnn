@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI agrees to acquire 10GW of chips from Broadcom and co-design custom GPUs with Broadcom to run its AI models; sources: the deal is worth multiple billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251013/p18#a251013p18)
+ - [3 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
+ - [UK fines 4Chan over online safety compliance](https://www.theverge.com/news/798797/uk-ofcom-fines-4chan-online-safety-act)
  - [Amazon plans to hire 250K workers for the 2025 holiday season, the same as in 2023 and 2024, including full-time and part-time, and will pay $19/hour on average &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251013/p17#a251013p17)
- - [Slack is testing an AI-based version of Slackbot that acts as a personalized assistant, operating via AWS&#39; virtual private cloud, rolling out by the end of 2025 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251013/p16#a251013p16)
- - [Best Windows Laptops &lpar;2025&rpar;: WIRED-Tested Laptops to Buy](https://www.wired.com/gallery/best-windows-laptops/)
- - [Slack is turning Slackbot into an AI assistant](https://www.theverge.com/news/797890/slack-slackbot-ai-assistant-upgrade)
- - [Wi-Fi 8 demonstrated with first prototype connection](https://www.theverge.com/news/798780/wi-fi-8-prototype-tp-link-test-explained)<!-- TECH:END -->
+ - [Slack is testing an AI-based version of Slackbot that acts as a personalized assistant, operating via AWS&#39; virtual private cloud, rolling out by the end of 2025 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251013/p16#a251013p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data center proposals are facing growing opposition from towns across the US, as residents and officials raise concerns about water and electricity use &lpar;Daniel Wu/Washington Post&rpar;](http://www.techmeme.com/251013/p6#a251013p6)
  - [Strava CEO Michael Martin says Strava plans to launch a US IPO; Sensor Tower says Strava has 50M MAUs and users spent $180M+ on Premium in the year to September &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251013/p5#a251013p5)
+ - [Can&#39;t See Up Close? I Found the 8 Best Places to Buy Reading Glasses Online in 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)
  - [Q&amp;A with journalist Jacob Silverman on his new book Gilded Rage, the radical politics of certain tech elites, AI&#39;s impact on Silicon Valley politics, and more &lpar;Calder McHugh/Politico&rpar;](http://www.techmeme.com/251013/p4#a251013p4)
- - [13 Superfoods That Could Boost Kidney Function](https://www.cnet.com/health/nutrition/superfoods-could-boost-kidneys-small-powerful-organs/#ftag=CAD590a51e)
- - [OpenAI&#39;s blockbuster deals with Nvidia and AMD add a new layer to its complicated ownership structure and will dilute existing shareholders like Microsoft &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251013/p3#a251013p3)
- - [Warburg Pincus agrees to acquire German industrial software company PSI for over €700M, offering €45 per share; PSI&#39;s stock closed at €33.20 on October 10 &lpar;Reuters&rpar;](http://www.techmeme.com/251013/p2#a251013p2)<!-- TECH:END -->
+ - [13 Superfoods That Could Boost Kidney Function](https://www.cnet.com/health/nutrition/superfoods-could-boost-kidneys-small-powerful-organs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

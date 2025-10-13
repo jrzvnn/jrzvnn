@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
- - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
- - 😝 [Overdrive](http://9gag.com/gag/aAyNAr2)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [...](http://9gag.com/gag/aD2NLqK)
  - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 ---

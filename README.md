@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Broadcom closes up 9.88% following the announcement of its custom chip deal with OpenAI; its stock is up over 50% in 2025 after more than doubling in 2024 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251013/p35#a251013p35)
  - [The Best PC Monitor for Most People Is $75 Off](https://www.wired.com/story/dell-27-plus-deal-1025/)
  - [Everything new in iOS 26.1 beta 3: Third-party AI, Local Capture toggle, more](https://appleinsider.com/articles/25/10/13/everything-new-in-ios-261-beta-3-third-party-ai-local-capture-toggle-more?utm_source=rss)
- - [Google updates Search to group paid results into a collapsible section with a single, larger &quot;Sponsored&quot; label at the top and a hide button at the bottom &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251013/p34#a251013p34)
- - [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 14, #386](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-14-386/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 14 #590](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-14-590/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

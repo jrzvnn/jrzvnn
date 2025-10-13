@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
  - 💣 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
- - 😝 [Anything left out at this point?](http://9gag.com/gag/a9yN4Ym)
+ - 😝 [Overdrive](http://9gag.com/gag/aAyNAr2)
  - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 💣 [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)
  - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
+ - 👉 [Mr FAFO](http://9gag.com/gag/aLnNOqM)<!-- MEMES:END -->
 
 ---
 

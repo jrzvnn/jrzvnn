@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s $449 M3 iPad Air deal is back to save you $150, but supply is limited](https://appleinsider.com/articles/25/10/13/amazons-449-m3-ipad-air-deal-is-back-to-save-you-150-but-supply-is-limited?utm_source=rss)
+ - [Best 6 TVs I&#39;ve Tested for October 2025](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
  - [Vivo X300 Pro launches with an Ultra-rivaling camera](https://www.theverge.com/news/798803/vivo-x300-pro-samsung-hpb-telephoto-extender-launch)
- - [Sources: the Trump administration cut 176 CISA jobs last week as part of laying off 4,000+ US federal workers, and is likely to make further mass CISA layoffs &lpar;Cynthia B Brumfield/Metacurity&rpar;](http://www.techmeme.com/251013/p19#a251013p19)
- - [OpenAI agrees to acquire 10GW of chips from Broadcom and co-design custom GPUs with Broadcom to run its AI models; sources: the deal is worth multiple billions &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251013/p18#a251013p18)
- - [3 Best Smart Displays &lpar;2025&rpar;: Tested By a Smart Home Addict](https://www.wired.com/gallery/best-smart-displays/)
- - [UK fines 4Chan over online safety compliance](https://www.theverge.com/news/798797/uk-ofcom-fines-4chan-online-safety-act)<!-- TECH:END -->
+ - [If Your iPhone Keeps Dropping Calls, Apple&#39;s Latest Software Fix Should Help](https://www.cnet.com/tech/mobile/if-your-iphone-keeps-dropping-calls-apples-latest-software-fix-should-help/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch Bills vs. Falcons, Bears vs. Commanders Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-bills-vs-falcons-bears-vs-commanders-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

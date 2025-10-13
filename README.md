@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 💣 [Pure joy seeing daddy come home](http://9gag.com/gag/awyGD58)
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
- - 👉 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)<!-- MEMES:END -->
+ - 😝 [The biggest crime in India](http://9gag.com/gag/a2vjAZp)
+ - 😝 [RIP Randy Savage](http://9gag.com/gag/aQzNKPd)
+ - 💣 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 😝 [Don&#39;t get pregnant](http://9gag.com/gag/aVv14AO)
+ - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
 
 ---
 

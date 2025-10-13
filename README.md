@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data integration startup Fivetran and data management startup dbt Labs announce a merger in an all-stock deal; Fivetran CEO will be CEO of the combined company &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251013/p30#a251013p30)
- - [Andrej Karpathy unveils nanochat, a full-stack training and inference implementation of an LLM in a single, dependency-minimal codebase &lpar;Andrej Karpathy/@karpathy&rpar;](http://www.techmeme.com/251013/p29#a251013p29)
- - [Google &amp; Facebook like California&#39;s new age check law, but Apple hates it](https://appleinsider.com/articles/25/10/13/google-facebook-like-californias-new-age-check-law-but-apple-hates-it?utm_source=rss)
- - [Third iOS 26.1, macOS Tahoe 26.1 developer betas arrive for testing](https://appleinsider.com/articles/25/10/13/third-ios-261-macos-tahoe-261-developer-betas-arrive-for-testing?utm_source=rss)
- - [New California law requires AI to tell you it’s AI](https://www.theverge.com/news/798875/california-just-passed-a-new-law-requiring-ai-to-tell-you-its-ai)<!-- TECH:END -->
+ - [Google updates NotebookLM&#39;s Video Overviews, adding six new Nano Banana-powered visual styles and a new &quot;Brief&quot; format for quick insights &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251013/p31#a251013p31)
+ - [4 Best Website Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-website-builders/)
+ - [Wales vs. Belgium: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/wales-vs-belgium-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [5 Reasons Why I&#39;m Ready to Retire My Steam Deck for the ROG Xbox Ally](https://www.cnet.com/tech/gaming/5-reasons-why-im-ready-to-retire-my-steam-deck-for-the-rog-xbox-ally/#ftag=CAD590a51e)
+ - [Forget Apple TV Plus, It&#39;s Just Apple TV Now](https://www.cnet.com/tech/services-and-software/forget-apple-tv-plus-its-just-apple-tv-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

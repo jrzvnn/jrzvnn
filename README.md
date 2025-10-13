@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)
- - [&#39;F1 The Movie&#39; crosses the finish line, hits Apple TV December 12](https://appleinsider.com/articles/25/10/13/f1-the-movie-crosses-the-finish-line-hits-apple-tv-december-12?utm_source=rss)
- - [Taylor Swift&#39;s Eras Tour Docuseries and Concert Film Coming to Disney Plus: Here&#39;s Why I&#39;m Excited](https://www.cnet.com/tech/services-and-software/taylor-swifts-eras-tour-docuseries-and-concert-film-coming-to-disney-plus-heres-why-im-excited/#ftag=CAD590a51e)
- - [Apple says that its Apple TV+ streaming service has been renamed Apple TV, &quot;with a vibrant new identity&quot; &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/251013/p26#a251013p26)
- - [Even &#39;Incompatible&#39; Windows 10 PCs Can Get Windows 11 for Free. Here&#39;s How](https://www.cnet.com/tech/computing/incompatible-windows-10-pcs-can-get-windows-11-for-free-heres-how/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Raymond Zage and James Lu, who control most of Grindr, are in talks to take it private after a Temasek unit sold shares pledged for personal loans &lpar;Liz Hoffman/Semafor&rpar;](http://www.techmeme.com/251013/p28#a251013p28)
+ - [Apple says iPhone Air will go on sale in China on October 22, after initially delaying the launch due to regulatory issues with the device&#39;s eSIM-only design &lpar;Ryan Christoffel/9to5Mac&rpar;](http://www.techmeme.com/251013/p27#a251013p27)
+ - [Apple TV ditch of &#39;plus&#39; just adds to Apple&#39;s video branding confusion](https://appleinsider.com/articles/25/10/13/apple-tv-ditch-of-plus-just-adds-to-apples-video-branding-confusion?utm_source=rss)
+ - [Apple TV Plus is being rebranded to… Apple TV](https://www.theverge.com/news/798857/apple-tv-plus-rebrand-streaming-service)
+ - [Apple TV+ loses the Plus in Apple&#39;s quietest rebranding exercise ever](https://appleinsider.com/articles/25/10/13/apple-tv-loses-the-plus-in-apples-quietest-rebranding-exercise-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

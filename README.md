@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
  - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 💣 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 😝 [...](http://9gag.com/gag/aD2NLqK)
+ - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
  - 👉 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)<!-- MEMES:END -->
 
 ---

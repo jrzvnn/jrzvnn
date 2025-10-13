@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tencent is investing in shooting games, traditionally dominated by Western companies, after the 2024 success of Delta Force, which still has 30M players daily &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p9#a251013p9)
+ - [A profile of eBay CEO Jamie Iannone, who said the platform was &quot;too complacent&quot; in 2020 and now focuses on its power users, boosting its stock by ~50% in 2025 &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/251013/p8#a251013p8)
+ - [New Rules Could Force Tesla to Redesign Its Door Handles. That’s Harder Than It Sounds](https://www.wired.com/story/new-rules-could-force-tesla-to-redesign-its-door-handles-thats-harder-than-it-sounds/)
  - [Parisians and BHV Marais staff protest Shein&#39;s 1,000-square-meter store, set to open November 1, as France tries to curb the company&#39;s presence in the country &lpar;New York Times&rpar;](http://www.techmeme.com/251013/p7#a251013p7)
- - [The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape](https://www.wired.com/story/the-womanosphere-is-reshaping-the-conservative-dating-landscape/)
- - [Data center proposals are facing growing opposition from towns across the US, as residents and officials raise concerns about water and electricity use &lpar;Daniel Wu/Washington Post&rpar;](http://www.techmeme.com/251013/p6#a251013p6)
- - [Strava CEO Michael Martin says Strava plans to launch a US IPO; Sensor Tower says Strava has 50M MAUs and users spent $180M+ on Premium in the year to September &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251013/p5#a251013p5)
- - [Can&#39;t See Up Close? I Found the 8 Best Places to Buy Reading Glasses Online in 2025](https://www.cnet.com/health/personal-care/best-reading-glasses/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The ‘Womanosphere’ Is Reshaping the Conservative Dating Landscape](https://www.wired.com/story/the-womanosphere-is-reshaping-the-conservative-dating-landscape/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

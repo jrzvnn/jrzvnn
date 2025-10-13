@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoinGecko: crypto&#39;s combined market cap rises 6% to hit $4T, recovering from a brutal weekend selloff as President Trump tries to calm US-China trade war fears &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p13#a251013p13)
+ - [Joel Mokyr, Philippe Aghion, and Peter Howitt win the Nobel Prize in Economics for their work on how innovation and technological progress helps economic growth &lpar;Eshe Nelson/New York Times&rpar;](http://www.techmeme.com/251013/p12#a251013p12)
+ - [Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI](https://www.wired.com/story/programming-assembly-artificial-intelligence/)
  - [Ofcom fines 4chan £20K under the OSA for failing to provide information on the risk of illegal content; a UK minister says the government &quot;fully backed&quot; Ofcom &lpar;Paul Sandle/Reuters&rpar;](http://www.techmeme.com/251013/p11#a251013p11)
- - [Sources: UK security services including MI5 step up work with the country&#39;s largest companies over hacking fears and to improve UK cyber warfare preparedness &lpar;Financial Times&rpar;](http://www.techmeme.com/251013/p10#a251013p10)
- - [How to Make STEM Funny—and Go Viral Doing It](https://www.wired.com/story/freya-mcghee-stem-stand-up-comedian/)
- - [Tencent is investing in shooting games, traditionally dominated by Western companies, after the 2024 success of Delta Force, which still has 30M players daily &lpar;Bloomberg&rpar;](http://www.techmeme.com/251013/p9#a251013p9)
- - [A profile of eBay CEO Jamie Iannone, who said the platform was &quot;too complacent&quot; in 2020 and now focuses on its power users, boosting its stock by ~50% in 2025 &lpar;Andrew Edgecliffe-Johnson/Semafor&rpar;](http://www.techmeme.com/251013/p8#a251013p8)<!-- TECH:END -->
+ - [Sources: UK security services including MI5 step up work with the country&#39;s largest companies over hacking fears and to improve UK cyber warfare preparedness &lpar;Financial Times&rpar;](http://www.techmeme.com/251013/p10#a251013p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

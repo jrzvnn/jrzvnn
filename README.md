@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Window cleaning](http://9gag.com/gag/a9yNenm)
- - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
- - 💣 [Nice Pilots...](http://9gag.com/gag/axyneEM)
- - 😝 [Finally done \u2705](http://9gag.com/gag/aGyN6dK)
- - 👉 [Grandpa&#39;s shirt game is strong](http://9gag.com/gag/abAmL3X)<!-- MEMES:END -->
+ - 😝 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)
+ - 😝 [Dark stuff warning: Sorry for the emoji](http://9gag.com/gag/ayNVmDX)
+ - 💣 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 😝 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
+ - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
 
 ---
 

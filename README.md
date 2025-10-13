@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Charlie Kawwas, president of Broadcom&#39;s semiconductor group, says OpenAI is not the $10B customer the company announced during its earnings call in September &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251013/p38#a251013p38)
  - [Meta brings back job listings on Facebook, available for mobile users in the US via a dedicated Jobs tab in Marketplace, and across Groups and Pages &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/251013/p37#a251013p37)
  - [Facebook is adding job listings, again](https://www.theverge.com/tech/798921/facebook-local-jobs-us)
  - [Goldman Sachs agrees to acquire multi-stage investment firm Industry Ventures, which has $7B AUM, for $665M in cash and equity plus $300M tied to performance &lpar;Saeed Azhar/Reuters&rpar;](http://www.techmeme.com/251013/p36#a251013p36)
- - [Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)
- - [Upgraded Pro Display XDR with webcam hinted at in macOS 26.1 beta 3](https://appleinsider.com/articles/25/10/13/upgraded-pro-display-xdr-with-webcam-hinted-at-in-macos-261-beta-3?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft AI announces first image generator created in-house](https://www.theverge.com/news/798923/microsoft-ai-image-generator-in-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

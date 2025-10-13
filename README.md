@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The moment Henry Cavill made facial hair history](http://9gag.com/gag/aZZVV2Q)
- - 😝 [Future Generations\u2026.](http://9gag.com/gag/aRBN9wA)
- - 💣 [Nope](http://9gag.com/gag/aPAdVQq)
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 👉 [It&#39;s evolving, but backwards.](http://9gag.com/gag/a34pejr)<!-- MEMES:END -->
+ - 😝 [Really f*cking glad to be old](http://9gag.com/gag/aByNj6N)
+ - 😝 [`it&#39;s not a realistic female body`](http://9gag.com/gag/awyGG3Q)
+ - 💣 [Don&#39;t get pregnant](http://9gag.com/gag/aVv14AO)
+ - 😝 [His name? lady gagito](http://9gag.com/gag/a5Qy9Lq)
+ - 👉 [Nice Pilots...](http://9gag.com/gag/axyneEM)<!-- MEMES:END -->
 
 ---
 

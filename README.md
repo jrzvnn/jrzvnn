@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air preorders in China start on October 17](https://appleinsider.com/articles/25/10/13/iphone-air-preorders-in-china-rumored-to-start-on-october-17?utm_source=rss)
  - [Amazon&#39;s $449 M3 iPad Air deal is back to save you $150, but supply is limited](https://appleinsider.com/articles/25/10/13/amazons-449-m3-ipad-air-deal-is-back-to-save-you-150-but-supply-is-limited?utm_source=rss)
  - [Best 6 TVs I&#39;ve Tested for October 2025](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
  - [Vivo X300 Pro launches with an Ultra-rivaling camera](https://www.theverge.com/news/798803/vivo-x300-pro-samsung-hpb-telephoto-extender-launch)
- - [If Your iPhone Keeps Dropping Calls, Apple&#39;s Latest Software Fix Should Help](https://www.cnet.com/tech/mobile/if-your-iphone-keeps-dropping-calls-apples-latest-software-fix-should-help/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch Bills vs. Falcons, Bears vs. Commanders Tonight](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-bills-vs-falcons-bears-vs-commanders-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If Your iPhone Keeps Dropping Calls, Apple&#39;s Latest Software Fix Should Help](https://www.cnet.com/tech/mobile/if-your-iphone-keeps-dropping-calls-apples-latest-software-fix-should-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

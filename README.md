@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Broadcom closes up 9.88% following the announcement of its custom chip deal with OpenAI; its stock is up over 50% in 2025 after more than doubling in 2024 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251013/p35#a251013p35)
+ - [The Best PC Monitor for Most People Is $75 Off](https://www.wired.com/story/dell-27-plus-deal-1025/)
+ - [Everything new in iOS 26.1 beta 3: Third-party AI, Local Capture toggle, more](https://appleinsider.com/articles/25/10/13/everything-new-in-ios-261-beta-3-third-party-ai-local-capture-toggle-more?utm_source=rss)
  - [Google updates Search to group paid results into a collapsible section with a single, larger &quot;Sponsored&quot; label at the top and a hide button at the bottom &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/251013/p34#a251013p34)
- - [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them)
- - [Quantum computing stocks jumped after JPMorgan announced a $10B strategic tech investment; Arqit, D-Wave, Rigetti, and IonQ each rose about 20% &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251013/p33#a251013p33)
- - [JPMorgan Chase launches a decade-long plan to invest $10B in industries critical for national security, including &quot;frontier&quot; tech like AI and quantum computing &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251013/p32#a251013p32)
- - [Tesla Cybertruck sales are flatlining](https://www.theverge.com/news/798889/tesla-cybertruck-sales-decrease-q3-2025)<!-- TECH:END -->
+ - [Google will let you hide sponsored results in search — after you’ve seen them](https://www.theverge.com/tech/798901/google-will-let-you-hide-sponsored-results-in-search-after-youve-seen-them)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

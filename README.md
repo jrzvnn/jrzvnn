@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify partners with Netflix to distribute a selection of video podcasts from Spotify Studios and The Ringer on Netflix starting in early 2026 in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251014/p31#a251014p31)
  - [Document: to avoid an EU fine, Google offered to tweak its search results to show vertical search engines in their own box on Search &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251014/p30#a251014p30)
  - [Sam Altman says ChatGPT will soon sext with verified adults](https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults)
  - [Discord vendor refuses to be blamed for hack and data theft](https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss)
- - [Managed security services provider LevelBlue to acquire cybersecurity firm Cybereason, which raised $850M in total funding and undergone multiple restructurings &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251014/p29#a251014p29)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
+ - [Managed security services provider LevelBlue to acquire cybersecurity firm Cybereason, which raised $850M in total funding and undergone multiple restructurings &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251014/p29#a251014p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

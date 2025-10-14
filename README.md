@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [For people who asked for repost to download video before it gets removed again](http://9gag.com/gag/a0eWgWX)
  - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
- - 💣 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 💣 [That&#39;s a challenging wank!](http://9gag.com/gag/aPAdV8Q)
  - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
  - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
 

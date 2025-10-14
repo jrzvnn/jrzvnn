@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beyond MacBook Pro and iPad Pro, Apple retail is running out of two other key items](https://appleinsider.com/articles/25/10/14/beyond-macbook-pro-and-ipad-pro-apple-retail-is-running-out-of-two-other-key-items?utm_source=rss)
  - [4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
  - [Flow Engineering, which provides a collaborative hardware development platform for companies like Rivian, raised a $23M Series A led by Sequoia &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251014/p33#a251014p33)
  - [New powerful M5 MacBook Pro teased by Greg Joswiak](https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak?utm_source=rss)
- - [Apple teases M5 MacBook](https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser)
- - [Interstellar Comet 3I/ATLAS Is Spewing Water Like a Cosmic Fire Hydrant](https://www.wired.com/story/interstellar-comet-3i-atlas-is-spewing-water-like-a-cosmic-fire-hydrant/)<!-- TECH:END -->
+ - [Apple teases M5 MacBook](https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

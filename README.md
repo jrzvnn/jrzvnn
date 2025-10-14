@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Marc Benioff says Salesforce is saving about $100M a year by using AI tools in its customer service operations &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251014/p32#a251014p32)
+ - [Do You Really Have to Stop Using Windows 10?](https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/)
  - [4 Apple Airtags Are $65 Right Now](https://www.wired.com/story/apple-airtag-deal-1025/)
  - [New iMac price drops shave up to $200 off M4 models at Amazon](https://appleinsider.com/articles/25/10/14/new-imac-price-drops-shave-up-to-200-off-m4-models-at-amazon?utm_source=rss)
- - [Spotify partners with Netflix to distribute a selection of video podcasts from Spotify Studios and The Ringer on Netflix starting in early 2026 in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251014/p31#a251014p31)
- - [Document: to avoid an EU fine, Google offered to tweak its search results to show vertical search engines in their own box on Search &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251014/p30#a251014p30)
- - [Sam Altman says ChatGPT will soon sext with verified adults](https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults)<!-- TECH:END -->
+ - [Spotify partners with Netflix to distribute a selection of video podcasts from Spotify Studios and The Ringer on Netflix starting in early 2026 in the US &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251014/p31#a251014p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

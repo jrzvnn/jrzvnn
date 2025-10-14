@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3 Best VPN for iPhone &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn-for-iphone/)
  - [Oura raised $900M led by Fidelity at an &quot;approximately&quot; $11B valuation, up from $5.2B after raising $200M in December 2024, and has sold 5.5M smart rings total &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251014/p13#a251014p13)
  - [iPhone Air preorders in China start on October 17](https://appleinsider.com/articles/25/10/13/iphone-air-preorders-in-china-rumored-to-start-on-october-17?utm_source=rss)
  - [Tim Cook took over Apple&#39;s operations and started to change the world 20 years ago](https://appleinsider.com/articles/25/10/14/tim-cook-took-over-apples-operations-and-started-to-change-the-world-20-years-ago?utm_source=rss)
- - [Google Pixel Buds 2a Review: The Best Budget Earbuds](https://www.wired.com/review/google-pixel-buds-2a/)
- - [14 Best Greens Powders &lpar;2025&rpar; Researched, Taste-Tested &amp; Reviewed](https://www.wired.com/gallery/best-greens-powders/)<!-- TECH:END -->
+ - [iPhone 17 Preorders Spike and Overall Phone Sales Aren&#39;t Slowing Down Despite Tariffs](https://www.cnet.com/tech/mobile/iphone-17-preorders-spike-and-overall-phone-sales-arent-slowing-down-despite-tariffs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

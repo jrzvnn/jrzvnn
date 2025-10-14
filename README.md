@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AG Pam Bondi says Meta complied with the DOJ&#39;s request to take down a Facebook Page that the agency said was being used to harass ICE agents in Chicago &lpar;James Oliphant/Reuters&rpar;](http://www.techmeme.com/251014/p28#a251014p28)
  - [OpenAI forms the Expert Council on Well-Being and AI, with eight experts to help guide OpenAI&#39;s work on ChatGPT and Sora &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251014/p27#a251014p27)
  - [Glue, a Slack competitor co-founded last year by David Sacks and designed around threads over channels, raised a $20M Series A and says it has refocused on MCP &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251014/p26#a251014p26)
  - [How the iPhone 17 reinvents the selfie, according to Apple execs](https://appleinsider.com/articles/25/10/14/how-the-iphone-17-reinvents-the-selfie-according-to-apple-execs?utm_source=rss)
- - [Sam Altman says OpenAI plans a ChatGPT version with a &quot;personality that behaves more like what people liked about 4o&quot; and will add &quot;erotica for verified adults&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/251014/p25#a251014p25)
- - [Handshake CEO Garrett Lord says the startup hit $100M in ARR in eight months after a &quot;refounding&quot; to focus on AI, and forecasts $300M in ARR by the end of 2025 &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251014/p24#a251014p24)<!-- TECH:END -->
+ - [Sam Altman says OpenAI plans a ChatGPT version with a &quot;personality that behaves more like what people liked about 4o&quot; and will add &quot;erotica for verified adults&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/251014/p25#a251014p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI&#39;s massive deals show Sam Altman is selling a vision of a world-changing product and achieving it via world-changing financial engineering to raise $1T+ &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/251014/p6#a251014p6)
  - [TiVo confirms that it exited the hardware business on October 1 when it stopped selling DVRs, but says it will continue to offer support for the products &lpar;Michael Schneider/Variety&rpar;](http://www.techmeme.com/251014/p5#a251014p5)
  - [Today&#39;s Wordle Hints, Answer and Help for Oct. 15, #1579](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-15-1579/#ftag=CAD590a51e)
  - [A new study of 6,554 children aged 9 to 10 found that social media users scored lower on reading, vocabulary, and memory tests two years later than non-users &lpar;Rhitu Chatterjee/NPR&rpar;](http://www.techmeme.com/251014/p4#a251014p4)
- - [A look at quick commerce in India and China: India&#39;s ecosystem is evolving into a retail-media play, while China&#39;s is being used as a weapon in platform wars &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251014/p3#a251014p3)
- - [Dealroom: 230+ European defense tech startups have launched since Russia&#39;s invasion of Ukraine, driven by interest in drones, as investors foresee a shake-out &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/251014/p2#a251014p2)<!-- TECH:END -->
+ - [A look at quick commerce in India and China: India&#39;s ecosystem is evolving into a retail-media play, while China&#39;s is being used as a weapon in platform wars &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251014/p3#a251014p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

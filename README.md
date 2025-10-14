@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The year is 2246](https://www.reddit.com/r/funny/comments/1o6mjdw/the_year_is_2246/)
- - 😝 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
- - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
- - 👉 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)<!-- MEMES:END -->
+ - 😝 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
+ - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
+ - 💣 [Finally, a solution for my lazy binge-watching](http://9gag.com/gag/a7o6X72)
+ - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
+ - 👉 [I wish they were real](http://9gag.com/gag/ae9PwbW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
- - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
+ - 💣 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)<!-- MEMES:END -->
+ - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
 
 ---
 

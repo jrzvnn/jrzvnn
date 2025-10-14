@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
+ - 💣 [Deja vu](http://9gag.com/gag/apRjwop)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [`Snek friend, hab sum fud.`](http://9gag.com/gag/avyXw0M)<!-- MEMES:END -->
+ - 👉 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)<!-- MEMES:END -->
 
 ---
 

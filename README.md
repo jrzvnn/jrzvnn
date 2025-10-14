@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ seizes ~$15B in bitcoin from a man who oversaw a Cambodian &quot;pig butchering&quot; operation, in the DOJ&#39;s largest ever forfeiture; the man remains at large &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251014/p22#a251014p22)
- - [Motorola has a super-thin Air phone too](https://www.theverge.com/news/799159/motorola-has-a-super-thin-air-phone-too)
- - [London-based Dexory, which builds autonomous warehouse robots, raised a $165M Series C in equity and debt, after raising a $80M Series B in 2024 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/251014/p21#a251014p21)
- - [This Lenovo Legion Laptop Is Built for Gamers and Students -- and It’s $301 Off Right Now](https://www.cnet.com/deals/this-lenovo-legion-laptop-is-built-for-gamers-and-students-and-its-301-off-right-now/#ftag=CAD590a51e)
- - [The latest Moto Razr Ultra foldable is an even better value at $999](https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale)<!-- TECH:END -->
+ - [Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’](https://www.theverge.com/news/799274/discord-security-breach-5ca-vendor-blamed-not-hacked)
+ - [This Watch Brand Has Made a Completely New Kind of Strap Using Lasers](https://www.wired.com/story/this-watch-brand-has-made-a-completely-new-kind-of-strap-using-lasers/)
+ - [‘Sovereign AI’ Has Become a New Front in the US-China Tech War](https://www.wired.com/story/openai-sovereign-ai-us-china-tech-war/)
+ - [Pokémon Legends: Z-A is a fantastic return to &lpar;mega&rpar; form](https://www.theverge.com/games/798848/pokemon-legends-za-review-nintendo-switch-2)
+ - [Gmail now uses AI to help you find meeting times](https://www.theverge.com/news/799160/google-gmail-gemini-ai-help-me-schedule)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

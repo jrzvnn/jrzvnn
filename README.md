@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 💣 [I&#39;m something of a chiropractor myself....](http://9gag.com/gag/an7WZVn)
- - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
+ - 😝 [Dei hiring](http://9gag.com/gag/aE0Nj0n)
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [`Snek friend, hab sum fud.`](http://9gag.com/gag/avyXw0M)
  - 👉 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nexperia says China banned it from exporting China-made products, as Beijing hits back at the Dutch government for taking over the Wingtech-owned chipmaker &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251014/p11#a251014p11)
+ - [Google plans to invest $9B in South Carolina through 2027 to scale up its Berkeley County data center campus and support building two sites in Dorchester County &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/251014/p10#a251014p10)
  - [Online loans marketplace LendingTree says CEO and Chairman Doug Lebda died at 55 in an ATV accident on his family&#39;s farm; Lebda founded LendingTree in 1996 &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/251014/p9#a251014p9)
  - [TiVo no longer makes DVRs](https://www.theverge.com/news/798997/tivo-stops-dvr-hardware-production-sales)
- - [Internal memo: in a first, Samsung plans to award shares and bonuses based on stock price to employees and will let staff get up to 50% of their payout in stock &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251014/p8#a251014p8)
- - [Sources: Bank of England officials are holding up Revolut&#39;s full UK licence over concerns about whether its risk controls can keep pace with its global growth &lpar;Financial Times&rpar;](http://www.techmeme.com/251014/p7#a251014p7)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 14, #856](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-14-856/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal memo: in a first, Samsung plans to award shares and bonuses based on stock price to employees and will let staff get up to 50% of their payout in stock &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251014/p8#a251014p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

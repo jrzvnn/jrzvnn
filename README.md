@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
- - 💣 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 😝 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
+ - 💣 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 👉 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)<!-- MEMES:END -->
 
 ---
 

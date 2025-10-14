@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Flow Engineering, which provides a collaborative hardware development platform for companies like Rivian, raised a $23M Series A led by Sequoia &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251014/p33#a251014p33)
  - [New powerful M5 MacBook Pro teased by Greg Joswiak](https://appleinsider.com/articles/25/10/14/new-powerful-m5-macbook-pro-teased-by-greg-joswiak?utm_source=rss)
  - [Apple teases M5 MacBook](https://www.theverge.com/news/799408/apple-m5-macbook-launch-teaser)
  - [Interstellar Comet 3I/ATLAS Is Spewing Water Like a Cosmic Fire Hydrant](https://www.wired.com/story/interstellar-comet-3i-atlas-is-spewing-water-like-a-cosmic-fire-hydrant/)
- - [Marc Benioff says Salesforce is saving about $100M a year by using AI tools in its customer service operations &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251014/p32#a251014p32)
- - [Do You Really Have to Stop Using Windows 10?](https://www.wired.com/story/do-you-really-have-to-stop-using-windows-10/)<!-- TECH:END -->
+ - [Marc Benioff says Salesforce is saving about $100M a year by using AI tools in its customer service operations &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251014/p32#a251014p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

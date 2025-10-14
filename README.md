@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
  - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
  - 💣 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 😝 [Feminist but also a man, the plot thickens](http://9gag.com/gag/aAyNAN9)
+ - 😝 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
  - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 ---

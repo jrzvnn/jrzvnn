@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
  - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
  - 💣 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [I wish they were real](http://9gag.com/gag/ae9PwbW)<!-- MEMES:END -->
+ - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
 
 ---
 

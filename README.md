@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [3 brits](http://9gag.com/gag/a7o6mAe)
- - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 😝 [What an incredible story of strength and triumph](http://9gag.com/gag/aPAd0gB)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [`Snek friend, hab sum fud.`](http://9gag.com/gag/avyXw0M)
- - 👉 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)<!-- MEMES:END -->
+ - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
+ - 👉 [`Snek friend, hab sum fud.`](http://9gag.com/gag/avyXw0M)<!-- MEMES:END -->
 
 ---
 

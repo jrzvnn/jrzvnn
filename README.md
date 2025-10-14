@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AG Pam Bondi says Meta complied with the DOJ&#39;s request to take down a Facebook Page that the agency said was being used to harass ICE agents in Chicago &lpar;James Oliphant/Reuters&rpar;](http://www.techmeme.com/251014/p28#a251014p28)
- - [OpenAI forms the Expert Council on Well-Being and AI, with eight experts to help guide OpenAI&#39;s work on ChatGPT and Sora &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251014/p27#a251014p27)
- - [Glue, a Slack competitor co-founded last year by David Sacks and designed around threads over channels, raised a $20M Series A and says it has refocused on MCP &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251014/p26#a251014p26)
- - [How the iPhone 17 reinvents the selfie, according to Apple execs](https://appleinsider.com/articles/25/10/14/how-the-iphone-17-reinvents-the-selfie-according-to-apple-execs?utm_source=rss)
- - [Sam Altman says OpenAI plans a ChatGPT version with a &quot;personality that behaves more like what people liked about 4o&quot; and will add &quot;erotica for verified adults&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/251014/p25#a251014p25)<!-- TECH:END -->
+ - [Discord vendor refuses to be blamed over hack and data theft](https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss)
+ - [Managed security services provider LevelBlue to acquire cybersecurity firm Cybereason, which raised $850M in total funding and undergone multiple restructurings &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251014/p29#a251014p29)
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire](https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/)
+ - [AG Pam Bondi says Meta complied with the DOJ&#39;s request to take down a Facebook Page that the agency said was being used to harass ICE agents in Chicago &lpar;James Oliphant/Reuters&rpar;](http://www.techmeme.com/251014/p28#a251014p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

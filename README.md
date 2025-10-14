@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bhutan announces that it is migrating its national ID system for roughly 800,000 residents from Polygon to Ethereum, with completion expected by Q1 2026 &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/251013/p48#a251013p48)
+ - [Indian officials say that over the past year, all 1.2M email addresses of Central Government employees migrated to a platform developed by Chennai-based Zoho &lpar;The Hindu&rpar;](http://www.techmeme.com/251013/p47#a251013p47)
+ - [Mumbai-based wealth management startup Dezerv raised a ~$40M Series C co-led by Premji Invest and Accel&#39;s Global Growth Fund, taking its total funding to ~$100M &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/251013/p46#a251013p46)
  - [Researchers detail &quot;Pixnapping&quot;, a new covert attack to steal 2FA codes and other private data on Android; Google&#39;s September patch only partially mitigates it &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251013/p45#a251013p45)
- - [Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data](https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/)
- - [Wacom One 14 Review: Solid hardware, in a crowded market](https://appleinsider.com/articles/25/10/14/wacom-one-14-review-solid-hardware-in-a-crowded-market?utm_source=rss)
- - [The UK&#39;s NCSC dealt with a record 204 &quot;nationally significant&quot; cyberattacks in the year to August, up 89% YoY, and &quot;highly significant&quot; cyberattacks rose by 50% &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/251013/p44#a251013p44)
- - [California Gov. Gavin Newsom vetoes SB 771, which would&#39;ve fined social media companies if their algorithms intentionally promoted violent or extremist content &lpar;Tyler Katzenberger/Politico&rpar;](http://www.techmeme.com/251013/p43#a251013p43)<!-- TECH:END -->
+ - [Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data](https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

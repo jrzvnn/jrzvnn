@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
- - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [I guess.](http://9gag.com/gag/azxDvLN)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 💣 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
  - 😝 [Feminist but also a man, the plot thickens](http://9gag.com/gag/aAyNAN9)
- - 👉 [Lets Post this](http://9gag.com/gag/azxDzoB)<!-- MEMES:END -->
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 ---
 

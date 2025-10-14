@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord vendor refuses to be blamed over hack and data theft](https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss)
+ - [Document: to avoid an EU fine, Google offered to tweak its search results to show vertical search engines in their own box on Search &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/251014/p30#a251014p30)
+ - [Sam Altman says ChatGPT will soon sext with verified adults](https://www.theverge.com/news/799312/openai-chatgpt-erotica-sam-altman-verified-adults)
+ - [Discord vendor refuses to be blamed for hack and data theft](https://appleinsider.com/articles/25/10/14/discord-vendor-refuses-to-be-blamed-over-hack-and-data-theft?utm_source=rss)
  - [Managed security services provider LevelBlue to acquire cybersecurity firm Cybereason, which raised $850M in total funding and undergone multiple restructurings &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251014/p29#a251014p29)
- - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire](https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/)
- - [AG Pam Bondi says Meta complied with the DOJ&#39;s request to take down a Facebook Page that the agency said was being used to harass ICE agents in Chicago &lpar;James Oliphant/Reuters&rpar;](http://www.techmeme.com/251014/p28#a251014p28)<!-- TECH:END -->
+ - [The best ereader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

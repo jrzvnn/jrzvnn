@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I&#39;m something of a chiropractor myself....](http://9gag.com/gag/an7WZVn)
- - 😝 [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)
- - 💣 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 😝 [3 brits](http://9gag.com/gag/a7o6mAe)
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 👉 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)<!-- MEMES:END -->
 
 ---
 

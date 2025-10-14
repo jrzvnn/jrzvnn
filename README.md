@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Paul says Meow](http://9gag.com/gag/a5Qy3Mq)
- - 😝 [Feminist but also a man, the plot thickens](http://9gag.com/gag/aAyNAN9)
- - 💣 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)
+ - 😝 [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
+ - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)<!-- MEMES:END -->
+ - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
 
 ---
 

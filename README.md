@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
  - 😝 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 💣 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
+ - 💣 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
+ - 👉 [It&#39;s an older meme, sir!](http://9gag.com/gag/a1mqj4D)<!-- MEMES:END -->
 
 ---
 

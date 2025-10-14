@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New EU solar initiative doesn&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)
+ - [How to use Apple Intelligence in Shortcuts to save time every day](https://appleinsider.com/inside/ios-26/tips/how-to-use-apple-intelligence-in-shortcuts-to-save-time-every-day?utm_source=rss)
  - [Bhutan announces that it is migrating its national ID system for roughly 800,000 residents from Polygon to Ethereum, with completion expected by Q1 2026 &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/251013/p48#a251013p48)
  - [Indian officials say that over the past year, all 1.2M email addresses of Central Government employees migrated to a platform developed by Chennai-based Zoho &lpar;The Hindu&rpar;](http://www.techmeme.com/251013/p47#a251013p47)
- - [Mumbai-based wealth management startup Dezerv raised a ~$40M Series C co-led by Premji Invest and Accel&#39;s Global Growth Fund, taking its total funding to ~$100M &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/251013/p46#a251013p46)
- - [Researchers detail &quot;Pixnapping&quot;, a new covert attack to steal 2FA codes and other private data on Android; Google&#39;s September patch only partially mitigates it &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251013/p45#a251013p45)
- - [Satellites Are Leaking the World’s Secrets: Calls, Texts, Military and Corporate Data](https://www.wired.com/story/satellites-are-leaking-the-worlds-secrets-calls-texts-military-and-corporate-data/)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-14/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

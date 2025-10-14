@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
- - 💣 [Deja vu](http://9gag.com/gag/apRjwop)
+ - 💣 [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)<!-- MEMES:END -->
+ - 👉 [Deja vu](http://9gag.com/gag/apRjwop)<!-- MEMES:END -->
 
 ---
 

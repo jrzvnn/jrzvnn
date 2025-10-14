@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether agrees to a $299.5M settlement with the Celsius Network bankruptcy estate, resolving claims related to Celsius&#39;s 2022 collapse &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/251014/p35#a251014p35)
  - [A Plan to Rebuild Gaza Lists Nearly 30 Companies. Many Say They&#39;re Not Involved](https://www.wired.com/story/a-plan-to-rebuild-gaza-lists-nearly-30-companies-many-say-theyre-not-involved/)
  - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
  - [What to expect from the M5 MacBook Pro](https://appleinsider.com/articles/25/10/14/what-to-expect-from-the-m5-macbook-pro?utm_source=rss)
- - [Microsoft officially ends support for Windows 10, which runs on ~40% of Windows PCs per Statcounter; users can enroll in an Extended Security Updates program &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/251014/p34#a251014p34)
- - [Beyond MacBook Pro and iPad Pro, Apple retail is running out of two other key items](https://appleinsider.com/articles/25/10/14/beyond-macbook-pro-and-ipad-pro-apple-retail-is-running-out-of-two-other-key-items?utm_source=rss)<!-- TECH:END -->
+ - [Microsoft officially ends support for Windows 10, which runs on ~40% of Windows PCs per Statcounter; users can enroll in an Extended Security Updates program &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/251014/p34#a251014p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

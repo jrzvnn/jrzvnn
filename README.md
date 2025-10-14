@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung schedules a &quot;Worlds Wide Open&quot; Galaxy event on October 21 at 10pm ET, where it will provide more information about its Project Moohan headset &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251014/p40#a251014p40)
+ - [Samsung officially teases Moohan headset launch for next week](https://www.theverge.com/news/799607/samsung-galaxy-event-project-moohan-android-xr-event-date-worlds-wide-open)
+ - [The Best Smart Home Gifts for the Holidays 2025](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)
  - [Anthropic&#39;s Jack Clark argues that, while he is optimistic about AI&#39;s progress, the industry must do a better job of listening to people&#39;s concerns about it &lpar;Jack Clark/Import AI&rpar;](http://www.techmeme.com/251014/p39#a251014p39)
- - [Netflix is making a big bet on video podcasts](https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal)
- - [Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says](https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery)
- - [Apple Car Key could soon make its way to more GM vehicles](https://appleinsider.com/articles/25/10/14/apple-car-key-could-soon-make-its-way-to-more-gm-vehicles?utm_source=rss)
- - [A Quarter of the CDC Is Gone](https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/)<!-- TECH:END -->
+ - [Netflix is making a big bet on video podcasts](https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

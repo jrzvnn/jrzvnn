@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Car Key could soon make its way to more GM vehicles](https://appleinsider.com/articles/25/10/14/apple-car-key-could-soon-make-its-way-to-more-gm-vehicles?utm_source=rss)
+ - [A Quarter of the CDC Is Gone](https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/)
  - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/)
  - [Crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, reaches a deferred prosecution agreement with the US DOJ and pays ~$50M to resolve a tax evasion indictment &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251014/p38#a251014p38)
- - [DirecTV plans to roll out custom shoppable TV screensavers that feature AI likenesses of users, available on DirecTV Gemini devices in 2026 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251014/p37#a251014p37)
- - [Intel unveils Crescent Island, a data center GPU designed for AI inference workloads, featuring Intel&#39;s Xe3P microarchitecture and 160GB of LPDDR5X memory &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/251014/p36#a251014p36)
- - [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes)<!-- TECH:END -->
+ - [DirecTV plans to roll out custom shoppable TV screensavers that feature AI likenesses of users, available on DirecTV Gemini devices in 2026 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251014/p37#a251014p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

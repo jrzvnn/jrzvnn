@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says it is donating the Vera Rubin NVL144 server rack architecture to the Open Compute Project and outlines its vision for &quot;gigawatt AI factories&quot; &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251014/p1#a251014p1)
  - [Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users&#39; calls and texts, sent by satellites unencrypted &lpar;Wired&rpar;](http://www.techmeme.com/251013/p50#a251013p50)
  - [Sources: Tata Electronics bought the Indian unit of Justech Precision, a China-based Apple supplier that provides CNC machines to Foxconn, for ~$100M in August &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251013/p49#a251013p49)
  - [New EU solar initiative doesn&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)
- - [How to use Apple Intelligence in Shortcuts to save time every day](https://appleinsider.com/inside/ios-26/tips/how-to-use-apple-intelligence-in-shortcuts-to-save-time-every-day?utm_source=rss)
- - [Bhutan announces that it is migrating its national ID system for roughly 800,000 residents from Polygon to Ethereum, with completion expected by Q1 2026 &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/251013/p48#a251013p48)<!-- TECH:END -->
+ - [How to use Apple Intelligence in Shortcuts to save time every day](https://appleinsider.com/inside/ios-26/tips/how-to-use-apple-intelligence-in-shortcuts-to-save-time-every-day?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

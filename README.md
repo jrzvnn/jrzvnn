@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)
- - 😝 [Its important who you pick](http://9gag.com/gag/aKGN5pQ)
- - 💣 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)
+ - 😝 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 💣 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)<!-- MEMES:END -->
+ - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
 
 ---
 

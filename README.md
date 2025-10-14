@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The year is 2246](https://www.reddit.com/r/funny/comments/1o6mjdw/the_year_is_2246/)
  - 😝 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 💣 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
- - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
+ - 👉 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)<!-- MEMES:END -->
 
 ---
 

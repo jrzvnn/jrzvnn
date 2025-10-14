@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)
- - [SteelSeries’ refreshed Nova 7 gaming headset gets a big battery life boost](https://www.theverge.com/news/798992/steelseries-nova-7-gen-2-gaming-headset-release-date-pricing)
- - [Netflix’s Splinter Cell: Deathwatch picks up where the games left off](https://www.theverge.com/streaming/799066/splinter-cell-deathwatch-netflix-derek-kolstad-interview)
- - [Walmart partners with OpenAI to let shoppers browse and purchase its products on ChatGPT, including apparel, entertainment, packaged food, and third-party goods &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/251014/p19#a251014p19)
- - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)<!-- TECH:END -->
+ - [Google gadgets, ranked](https://www.theverge.com/podcast/798880/best-google-gadgets-pixel-reviews)
+ - [Microsoft bids farewell to Windows 10, but millions of users won&amp;#8217;t be](https://www.theverge.com/tech/799098/microsoft-windows-10-end-of-life-notepad)
+ - [Apple &amp; Samsung marketshare identical, flagships lead smartphone rebound](https://appleinsider.com/articles/25/10/14/apple-samsung-marketshare-identical-flagships-lead-smartphone-rebound?utm_source=rss)
+ - [Sources: Renesas is exploring a sale of its unit that supplies timing components for data centers and 5G networks, in a deal that could value the unit at $2B &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251014/p20#a251014p20)
+ - [The Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

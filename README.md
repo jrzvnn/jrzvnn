@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dealroom: 230+ European defense tech startups have launched since Russia&#39;s invasion of Ukraine, with VC funding reaching $1.5B this year, mostly for drone tech &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/251014/p2#a251014p2)
+ - [Dealroom: 230+ European defense tech startups have launched since Russia&#39;s invasion of Ukraine, driven by interest in drones, as investors foresee a shake-out &lpar;Sylvia Pfeifer/Financial Times&rpar;](http://www.techmeme.com/251014/p2#a251014p2)
  - [Nvidia says it is donating the Vera Rubin NVL144 server rack architecture to the Open Compute Project and outlines its vision for &quot;gigawatt AI factories&quot; &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251014/p1#a251014p1)
  - [Researchers used an off-the-shelf system to compile a vast collection of private data, including T-Mobile users&#39; calls and texts, sent by satellites unencrypted &lpar;Wired&rpar;](http://www.techmeme.com/251013/p50#a251013p50)
  - [Sources: Tata Electronics bought the Indian unit of Justech Precision, a China-based Apple supplier that provides CNC machines to Foxconn, for ~$100M in August &lpar;Anniek Bao/CNBC&rpar;](http://www.techmeme.com/251013/p49#a251013p49)

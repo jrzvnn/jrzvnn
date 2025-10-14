@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US DOJ seizes ~$15B in bitcoin from a man who oversaw a Cambodian &quot;pig butchering&quot; operation, in the DOJ&#39;s largest ever forfeiture; the man remains at large &lpar;Dan Mangan/CNBC&rpar;](http://www.techmeme.com/251014/p22#a251014p22)
  - [Motorola has a super-thin Air phone too](https://www.theverge.com/news/799159/motorola-has-a-super-thin-air-phone-too)
  - [London-based Dexory, which builds autonomous warehouse robots, raised a $165M Series C in equity and debt, after raising a $80M Series B in 2024 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/251014/p21#a251014p21)
- - [The latest Moto Razr Ultra foldable is an even better value at $999](https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale)
- - [Google gadgets, ranked](https://www.theverge.com/podcast/798880/best-google-gadgets-pixel-reviews)
- - [As Microsoft bids farewell to Windows 10, millions of users won’t](https://www.theverge.com/tech/799098/microsoft-windows-10-end-of-life-notepad)<!-- TECH:END -->
+ - [This Lenovo Legion Laptop Is Built for Gamers and Students -- and It’s $301 Off Right Now](https://www.cnet.com/deals/this-lenovo-legion-laptop-is-built-for-gamers-and-students-and-its-301-off-right-now/#ftag=CAD590a51e)
+ - [The latest Moto Razr Ultra foldable is an even better value at $999](https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

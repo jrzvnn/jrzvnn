@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 💣 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
  - 👉 [Id wear one](http://9gag.com/gag/avyXwXn)<!-- MEMES:END -->
 

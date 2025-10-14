@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s Jack Clark argues that, while he is optimistic about AI&#39;s progress, the industry must do a better job of listening to people&#39;s concerns about it &lpar;Jack Clark/Import AI&rpar;](http://www.techmeme.com/251014/p39#a251014p39)
+ - [Netflix is making a big bet on video podcasts](https://www.theverge.com/news/799582/netflix-spotify-video-podcast-deal)
+ - [Google’s Pixel 10 Pro Fold is the first to ‘go up in smoke during a bend test,’ JerryRigEverything says](https://www.theverge.com/news/799561/google-pixel-10-pro-fold-jerryrigeverything-teardown-durability-bend-test-battery)
  - [Apple Car Key could soon make its way to more GM vehicles](https://appleinsider.com/articles/25/10/14/apple-car-key-could-soon-make-its-way-to-more-gm-vehicles?utm_source=rss)
- - [A Quarter of the CDC Is Gone](https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/)
- - [A New Attack Lets Hackers Steal 2-Factor Authentication Codes From Android Phones](https://www.wired.com/story/a-new-attack-lets-hackers-steal-2-factor-authentication-codes-from-android-phones/)
- - [Crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, reaches a deferred prosecution agreement with the US DOJ and pays ~$50M to resolve a tax evasion indictment &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251014/p38#a251014p38)
- - [DirecTV plans to roll out custom shoppable TV screensavers that feature AI likenesses of users, available on DirecTV Gemini devices in 2026 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251014/p37#a251014p37)<!-- TECH:END -->
+ - [A Quarter of the CDC Is Gone](https://www.wired.com/story/cdc-terminations-workforce-shutdown-rifs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

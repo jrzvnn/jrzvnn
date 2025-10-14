@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [New EU and China energy initiatives don&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)
- - [3 Best VPN for iPhone &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn-for-iphone/)
- - [Oura raised $900M led by Fidelity at an &quot;approximately&quot; $11B valuation, up from $5.2B after raising $200M in December 2024, and has sold 5.5M smart rings total &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251014/p13#a251014p13)
- - [iPhone Air preorders in China start on October 17](https://appleinsider.com/articles/25/10/13/iphone-air-preorders-in-china-rumored-to-start-on-october-17?utm_source=rss)
- - [Tim Cook took over Apple&#39;s operations and started to change the world 20 years ago](https://appleinsider.com/articles/25/10/14/tim-cook-took-over-apples-operations-and-started-to-change-the-world-20-years-ago?utm_source=rss)<!-- TECH:END -->
+ - [DJI Mini 5 Pro Review: A Heavier Drone Upgrade](https://www.wired.com/review/dji-mini-5-pro/)
+ - [Spotify rolls out controls to keep kids music out of your algorithm](https://www.theverge.com/news/799047/spotify-managed-account-parental-controls-expansion)
+ - [Oracle plans to deploy 50K AMD Instinct MI450 chips, announced in June, starting in H2 2026; the Instinct MI450 is AMD&#39;s first chip for rack-sized systems &lpar;CNBC&rpar;](http://www.techmeme.com/251014/p15#a251014p15)
+ - [Instagram unveils updates to overhaul the app for teen users, including age-gating inappropriate content, in a bid to make its content similar to PG-13 movies &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251014/p14#a251014p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

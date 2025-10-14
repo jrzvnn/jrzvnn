@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Trying to start an office war](http://9gag.com/gag/agmZ9gW)
  - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Nope](http://9gag.com/gag/aPAdVQq)
  - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
- - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
+ - 😝 [This is why the U.S. has the 1st and 2nd Amendments](http://9gag.com/gag/aLnNoAv)
+ - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
 
 ---
 

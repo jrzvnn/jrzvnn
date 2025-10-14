@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto investor Roger Ver, aka &quot;Bitcoin Jesus&quot;, reaches a deferred prosecution agreement with the US DOJ and pays ~$50M to resolve a tax evasion indictment &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251014/p38#a251014p38)
  - [DirecTV plans to roll out custom shoppable TV screensavers that feature AI likenesses of users, available on DirecTV Gemini devices in 2026 &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251014/p37#a251014p37)
  - [Intel unveils Crescent Island, a data center GPU designed for AI inference workloads, featuring Intel&#39;s Xe3P microarchitecture and 160GB of LPDDR5X memory &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/251014/p36#a251014p36)
  - [YouTube has a new video player](https://www.theverge.com/news/799492/youtube-new-video-player-update-changes)
- - [Facebook removes ICE-tracking page after US government ‘outreach’](https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning)
- - [Tether agrees to a $299.5M settlement with the Celsius Network bankruptcy estate, resolving claims related to Celsius&#39;s 2022 collapse &lpar;Sam Bourgi/Cointelegraph&rpar;](http://www.techmeme.com/251014/p35#a251014p35)<!-- TECH:END -->
+ - [Facebook removes ICE-tracking page after US government ‘outreach’](https://www.theverge.com/policy/799473/facebook-meta-ice-jawboning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

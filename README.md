@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
- - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
- - 💣 [Finally, a solution for my lazy binge-watching](http://9gag.com/gag/a7o6X72)
+ - 😝 [Paul says Meow](http://9gag.com/gag/a5Qy3Mq)
+ - 😝 [Feminist but also a man, the plot thickens](http://9gag.com/gag/aAyNAN9)
+ - 💣 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [I wish they were real](http://9gag.com/gag/ae9PwbW)<!-- MEMES:END -->
+ - 👉 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)<!-- MEMES:END -->
 
 ---
 

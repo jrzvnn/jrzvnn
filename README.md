@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Glue, a Slack competitor co-founded last year by David Sacks and designed around threads over channels, raised a $20M Series A and says it has refocused on MCP &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251014/p26#a251014p26)
+ - [How the iPhone 17 reinvents the selfie, according to Apple execs](https://appleinsider.com/articles/25/10/14/how-the-iphone-17-reinvents-the-selfie-according-to-apple-execs?utm_source=rss)
  - [Sam Altman says OpenAI plans a ChatGPT version with a &quot;personality that behaves more like what people liked about 4o&quot; and will add &quot;erotica for verified adults&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/251014/p25#a251014p25)
- - [Handshake CEO Garrett Lord says the startup hit $100M in ARR in eight months after a &quot;refounding&quot; to focus on AI, and forecasts $300M in ARR by end of 2025 &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251014/p24#a251014p24)
- - [California cracks down on ‘predatory’ early cancellation fees](https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees)
- - [Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’](https://www.theverge.com/news/799274/discord-security-breach-5ca-vendor-blamed-not-hacked)
- - [This Watch Brand Has Made a Completely New Kind of Strap Using Lasers](https://www.wired.com/story/this-watch-brand-has-made-a-completely-new-kind-of-strap-using-lasers/)<!-- TECH:END -->
+ - [Handshake CEO Garrett Lord says the startup hit $100M in ARR in eight months after a &quot;refounding&quot; to focus on AI, and forecasts $300M in ARR by the end of 2025 &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251014/p24#a251014p24)
+ - [California cracks down on ‘predatory’ early cancellation fees](https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

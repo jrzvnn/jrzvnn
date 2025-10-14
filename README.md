@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart partners with OpenAI to let shoppers browse and purchase its products on ChatGPT, including apparel, entertainment, packaged food, and third-party goods &lpar;Jaewon Kang/Bloomberg&rpar;](http://www.techmeme.com/251014/p19#a251014p19)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
  - [Salesforce expands its partnerships with OpenAI and Anthropic to embed their AI models into Agentforce 360, including letting customers access it in ChatGPT &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/251014/p18#a251014p18)
  - [Sources: the EU considers forcing Chinese companies seeking access to digital markets to hand over tech to European companies if they want to operate locally &lpar;Bloomberg&rpar;](http://www.techmeme.com/251014/p17#a251014p17)
- - [The return of the trans underground](https://www.theverge.com/cs/features/798493/trans-underground-organizing)
- - [Best Wireless Earbuds &lpar;2025&rpar;: Apple, Sony, Bose, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [DirecTV will soon bring AI ads to your screensaver](https://www.theverge.com/news/798174/directv-glance-ai-shoppable-screensavers)<!-- TECH:END -->
+ - [Nintendo&#39;s Pokemon Legends: Z-A Is a Hit. Just Ask My Kid](https://www.cnet.com/tech/gaming/nintendos-new-pokemon-legends-z-a-game-is-a-hit-just-ask-my-kid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

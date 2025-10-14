@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Air preorders in China start on October 17](https://appleinsider.com/articles/25/10/13/iphone-air-preorders-in-china-rumored-to-start-on-october-17?utm_source=rss)
+ - [Tim Cook took over Apple&#39;s operations and started to change the world 20 years ago](https://appleinsider.com/articles/25/10/14/tim-cook-took-over-apples-operations-and-started-to-change-the-world-20-years-ago?utm_source=rss)
+ - [Google Pixel Buds 2a Review: The Best Budget Earbuds](https://www.wired.com/review/google-pixel-buds-2a/)
  - [14 Best Greens Powders &lpar;2025&rpar; Researched, Taste-Tested &amp; Reviewed](https://www.wired.com/gallery/best-greens-powders/)
- - [Filings: the Dutch government seized Nexperia after the US warned it would not be removed from its export control list if Chinese CEO Zhang Xuezheng remained &lpar;Financial Times&rpar;](http://www.techmeme.com/251014/p12#a251014p12)
- - [Mark Cuban Would Still Have Dinner With Donald Trump](https://www.wired.com/story/the-big-interview-podcast-mark-cuban-cost-plus-drug-company/)
- - [Nexperia says China banned it from exporting China-made products, as Beijing hits back at the Dutch government for taking over the Wingtech-owned chipmaker &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251014/p11#a251014p11)
- - [Google plans to invest $9B in South Carolina through 2027 to scale up its Berkeley County data center campus and support building two sites in Dorchester County &lpar;Kimberley Kao/Wall Street Journal&rpar;](http://www.techmeme.com/251014/p10#a251014p10)<!-- TECH:END -->
+ - [Filings: the Dutch government seized Nexperia after the US warned it would not be removed from its export control list if Chinese CEO Zhang Xuezheng remained &lpar;Financial Times&rpar;](http://www.techmeme.com/251014/p12#a251014p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

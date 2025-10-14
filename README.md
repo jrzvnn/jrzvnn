@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
+ - 😝 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
  - 💣 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)<!-- MEMES:END -->
+ - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
 
 ---
 

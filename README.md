@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says OpenAI plans a ChatGPT version with a &quot;personality that behaves more like what people liked about 4o&quot; and will add &quot;erotica for verified adults&quot; &lpar;Sam Altman/@sama&rpar;](http://www.techmeme.com/251014/p25#a251014p25)
+ - [Handshake CEO Garrett Lord says the startup hit $100M in ARR in eight months after a &quot;refounding&quot; to focus on AI, and forecasts $300M in ARR by end of 2025 &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251014/p24#a251014p24)
+ - [California cracks down on ‘predatory’ early cancellation fees](https://www.theverge.com/news/799237/california-ab483-law-early-termination-fees)
  - [Discord blamed a vendor for its data breach — now the vendor says it was ‘not hacked’](https://www.theverge.com/news/799274/discord-security-breach-5ca-vendor-blamed-not-hacked)
- - [This Watch Brand Has Made a Completely New Kind of Strap Using Lasers](https://www.wired.com/story/this-watch-brand-has-made-a-completely-new-kind-of-strap-using-lasers/)
- - [‘Sovereign AI’ Has Become a New Front in the US-China Tech War](https://www.wired.com/story/openai-sovereign-ai-us-china-tech-war/)
- - [Pokémon Legends: Z-A is a fantastic return to &lpar;mega&rpar; form](https://www.theverge.com/games/798848/pokemon-legends-za-review-nintendo-switch-2)
- - [Gmail now uses AI to help you find meeting times](https://www.theverge.com/news/799160/google-gmail-gemini-ai-help-me-schedule)<!-- TECH:END -->
+ - [This Watch Brand Has Made a Completely New Kind of Strap Using Lasers](https://www.wired.com/story/this-watch-brand-has-made-a-completely-new-kind-of-strap-using-lasers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

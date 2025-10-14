@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat chose to be smothered by love.](http://9gag.com/gag/aE0NKop)
- - 😝 [I tried to uncensor it for you guys](http://9gag.com/gag/aW4NyK2)
- - 💣 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
+ - 😝 [3 brits](http://9gag.com/gag/a7o6mAe)
+ - 😝 [Mr FAFO](http://9gag.com/gag/aLnNOqM)
+ - 💣 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [She will have hundreds of likes for the end of the day](http://9gag.com/gag/aO8NO8R)<!-- MEMES:END -->
+ - 👉 [Good kind of catfishing...](http://9gag.com/gag/an7WwOE)<!-- MEMES:END -->
 
 ---
 

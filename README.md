@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
  - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 💣 [Police in Portland sprayed pepper spray into the hole of a protesting frog.](http://9gag.com/gag/aD2NL6x)
+ - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
  - 👉 [Deja vu](http://9gag.com/gag/apRjwop)<!-- MEMES:END -->
 

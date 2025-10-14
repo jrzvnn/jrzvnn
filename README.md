@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New EU and China energy initiatives don&#39;t scratch the surface of what Apple is consuming](https://appleinsider.com/articles/25/10/14/new-eu-solar-initiative-doesnt-scratch-the-surface-of-what-apple-is-consuming?utm_source=rss)
- - [DJI Mini 5 Pro Review: A Heavier Drone Upgrade](https://www.wired.com/review/dji-mini-5-pro/)
- - [Spotify rolls out controls to keep kids music out of your algorithm](https://www.theverge.com/news/799047/spotify-managed-account-parental-controls-expansion)
- - [Oracle plans to deploy 50K AMD Instinct MI450 chips, announced in June, starting in H2 2026; the Instinct MI450 is AMD&#39;s first chip for rack-sized systems &lpar;CNBC&rpar;](http://www.techmeme.com/251014/p15#a251014p15)
- - [Instagram unveils updates to overhaul the app for teen users, including age-gating inappropriate content, in a bid to make its content similar to PG-13 movies &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251014/p14#a251014p14)<!-- TECH:END -->
+ - [Salesforce expands its partnerships with OpenAI and Anthropic to embed their AI models into Agentforce 360, including letting customers access it in ChatGPT &lpar;Larry Dignan/Constellation Research&rpar;](http://www.techmeme.com/251014/p18#a251014p18)
+ - [Sources: the EU considers forcing Chinese companies seeking access to digital markets to hand over tech to European companies if they want to operate locally &lpar;Bloomberg&rpar;](http://www.techmeme.com/251014/p17#a251014p17)
+ - [The return of the trans underground](https://www.theverge.com/cs/features/798493/trans-underground-organizing)
+ - [Best Wireless Earbuds &lpar;2025&rpar;: Apple, Sony, Bose, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [DirecTV will soon bring AI ads to your screensaver](https://www.theverge.com/news/798174/directv-glance-ai-shoppable-screensavers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

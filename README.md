@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola has a super-thin Air phone too](https://www.theverge.com/news/799159/motorola-has-a-super-thin-air-phone-too)
+ - [London-based Dexory, which builds autonomous warehouse robots, raised a $165M Series C in equity and debt, after raising a $80M Series B in 2024 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/251014/p21#a251014p21)
  - [The latest Moto Razr Ultra foldable is an even better value at $999](https://www.theverge.com/tech/799096/motorola-razr-ultra-2025-anker-nano-charging-station-deal-sale)
  - [Google gadgets, ranked](https://www.theverge.com/podcast/798880/best-google-gadgets-pixel-reviews)
- - [Microsoft bids farewell to Windows 10, but millions of users won&amp;#8217;t be](https://www.theverge.com/tech/799098/microsoft-windows-10-end-of-life-notepad)
- - [Apple &amp; Samsung marketshare identical, flagships lead smartphone rebound](https://appleinsider.com/articles/25/10/14/apple-samsung-marketshare-identical-flagships-lead-smartphone-rebound?utm_source=rss)
- - [Sources: Renesas is exploring a sale of its unit that supplies timing components for data centers and 5G networks, in a deal that could value the unit at $2B &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251014/p20#a251014p20)<!-- TECH:END -->
+ - [As Microsoft bids farewell to Windows 10, millions of users won’t](https://www.theverge.com/tech/799098/microsoft-windows-10-end-of-life-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

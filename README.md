@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unlimited miles means unlimited miles.](http://9gag.com/gag/aPAdVVK)
- - 😝 [Imagine she is your wife, and she watches every move you make.](http://9gag.com/gag/abAmozB)
+ - 😝 [Cat chose to be smothered by love.](http://9gag.com/gag/aE0NKop)
+ - 😝 [I tried to uncensor it for you guys](http://9gag.com/gag/aW4NyK2)
  - 💣 [My first class in College, I&#39;m so excited, feel wholesome!](http://9gag.com/gag/a34pD81)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)<!-- MEMES:END -->
+ - 👉 [She will have hundreds of likes for the end of the day](http://9gag.com/gag/aO8NO8R)<!-- MEMES:END -->
 
 ---
 

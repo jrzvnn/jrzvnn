@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 😝 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
- - 💣 [In Vietnam, we don&#39;t say...](http://9gag.com/gag/aqypOKP)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 💣 [Potatoes](http://9gag.com/gag/aO8N5zv)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Finally I would like to thank PM of great Britain for brining the tea and biscuits](http://9gag.com/gag/avyXq3Z)<!-- MEMES:END -->
+ - 👉 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)<!-- MEMES:END -->
 
 ---
 

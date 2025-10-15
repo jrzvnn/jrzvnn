@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 😝 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)
- - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
+ - 😝 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 😝 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)
+ - 💣 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)
+ - 😝 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
+ - 👉 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)<!-- MEMES:END -->
 
 ---
 

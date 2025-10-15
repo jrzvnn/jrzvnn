@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SoftBank&#39;s $5.4B purchase of ABB&#39;s robotics unit is another setback for Europe, which risks losing its edge to Asian and US companies in the &quot;physical AI&quot; era &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/251015/p11#a251015p11)
  - [Inside First Wap, a European-led phone tracking company in Indonesia that has exploited the SS7 telecom protocol to target politicians, journalists, and others &lpar;Mother Jones&rpar;](http://www.techmeme.com/251015/p9#a251015p9)
  - [SpaceX’s Second-Gen Starship Signs Off With a Near-Perfect Test Flight](https://www.wired.com/story/spacexs-second-gen-starship-signs-off-with-a-near-perfect-test-flight/)
  - [How AI is upending India&#39;s business process management sector, which employs 1.65M people; conversational AI startup LimeChat claims to have automated 5K jobs &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p8#a251015p8)
- - [The Japanese government says it formally requested that OpenAI refrain from infringing on Japanese IPs, such as anime, calling them &quot;irreplaceable treasures&quot; &lpar;Verity Townsend/IGN&rpar;](http://www.techmeme.com/251015/p7#a251015p7)
- - [SEC filing: Jeff Bezos discloses that he now owns 9% of Amazon&#39;s shares, down from 10.1% a year ago, after selling 100M+ shares over the course of the past year &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251015/p6#a251015p6)<!-- TECH:END -->
+ - [The Japanese government says it formally requested that OpenAI refrain from infringing on Japanese IPs, such as anime, calling them &quot;irreplaceable treasures&quot; &lpar;Verity Townsend/IGN&rpar;](http://www.techmeme.com/251015/p7#a251015p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

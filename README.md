@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 18 Pro cameras may take better shots with variable apertures](https://appleinsider.com/articles/25/10/15/iphone-18-pro-cameras-may-take-better-shots-with-variable-apertures?utm_source=rss)
- - [8 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
- - [An investment consortium including BlackRock, Nvidia, xAI, and Microsoft plans to acquire Texas-based Aligned Data Centers from Macquarie in a $40B deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p19#a251015p19)
- - [US DHS: Chinese criminal organizations made $1B+ in the past three years via scam texts; Proofpoint: last month, a record 330K US toll-scam texts were reported &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251015/p18#a251015p18)
- - [A New Road Safety Group Targets Self-Driving Cars](https://www.wired.com/story/road-safety-group-save-us-targets-self-driving-cars/)<!-- TECH:END -->
+ - [Only out online](https://www.theverge.com/cs/features/799045/trans-identity-online-anonymous)
+ - [4 Best Resume Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-resume-builders/)
+ - [Tim Cook vows to boost China investment, despite Trump pressures](https://appleinsider.com/articles/25/10/15/tim-cook-vows-to-boost-china-investment-despite-trump-pressures?utm_source=rss)
+ - [China&#39;s Industry Ministry says Tim Cook pledged to boost Apple&#39;s investment in China during a visit, but offers few details, as the US and China clash on trade &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p20#a251015p20)
+ - [Doing it for themselves](https://www.theverge.com/cs/features/798638/trans-resources-online-sharing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

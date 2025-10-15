@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google introduces Veo 3.1, with improved audio output and stronger prompt adherence, and rolls out new updates to its AI video editor Flow &lpar;The Keyword&rpar;](http://www.techmeme.com/251015/p35#a251015p35)
- - [Is a Chromebook Right for You? Pros and Cons to Be Aware Of](https://www.cnet.com/tech/computing/chromebook-vs-laptop-whats-the-difference/#ftag=CAD590a51e)
- - [Tubi Reminds Us That You Need a Body Bag to Do Horror the Right Way](https://www.cnet.com/tech/services-and-software/tubi-reminds-us-that-you-need-body-bag-to-do-horror-right-way/#ftag=CAD590a51e)
- - [The Best Travel Tote for Every Kind of Trip &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-tote/)
- - [EU gets what it asked for, there is no charger in the MacBook Pro box](https://appleinsider.com/articles/25/10/15/eu-gets-what-it-asked-for-there-is-no-charger-in-the-macbook-pro-box?utm_source=rss)<!-- TECH:END -->
+ - [Meta announces a partnership with Arm to power AI ranking and recommendation systems across Meta&#39;s family of apps using Arm-based data center platforms &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251015/p37#a251015p37)
+ - [You can&#39;t trade-in Apple Vision Pro for a new one -- on October 15, at least](https://appleinsider.com/articles/25/10/15/you-cant-trade-in-apple-vision-pro-for-a-new-one----on-october-15-at-least?utm_source=rss)
+ - [10 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms-2025/)
+ - [Mint Mobile&amp;#8217;s prepaid home internet plan is really cheap under very specific circumstances](https://www.theverge.com/news/800055/mint-mobiles-prepaid-home-internet-plan-is-really-cheap-under-very-specific-circumstances)
+ - [Meta says it is investing $1.5B+ to set up a 1 GW data center in El Paso, Texas, and expects it come online in 2028 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251015/p36#a251015p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

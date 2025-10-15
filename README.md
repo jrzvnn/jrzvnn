@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic is on track to meet an internal goal of $9B in annual revenue run rate by the end of 2025 and is targeting $20B to $26B for 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p45#a251015p45)
+ - [Think You Can Handle My Favorite Western Horror Film on Tubi?](https://www.cnet.com/tech/services-and-software/think-you-can-handle-my-favorite-western-horror-film-on-tubi/#ftag=CAD590a51e)
  - [14-inch M5 MacBook Pro is here without Pro and Max versions](https://appleinsider.com/articles/25/10/15/14-inch-m5-macbook-pro-is-here-without-pro-and-max-versions?utm_source=rss)
  - [Amazon’s new name for the Fire TV Stick 4K only adds more confusion](https://www.theverge.com/news/800104/amazon-fire-tv-stick-4k-plus-new-name)
- - [‘New media’ is just right-wing media](https://www.theverge.com/column/799904/new-media-is-just-right-wing-media)
- - [I just reviewed the Xbox Ally, ask me anything](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
- - [&#39;Tron: Ares&#39; Ending Explained: Connecting to the Past and Setting Up the Future](https://www.cnet.com/tech/services-and-software/tron-ares-ending-explained-what-does-it-all-mean/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘New media’ is just right-wing media](https://www.theverge.com/column/799904/new-media-is-just-right-wing-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

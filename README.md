@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)
  - 😝 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - 💣 [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)<!-- MEMES:END -->
+ - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
 
 ---
 

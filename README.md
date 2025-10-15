@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kobo&amp;#8217;s new e-reader remote lets you turn the page with the press of a button](https://www.theverge.com/news/799990/kobo-e-reader-remote-launch-price-release-date)
  - [US cybersecurity company F5 discloses a cyberattack in August by suspected nation-state hackers that stole undisclosed BIG-IP vulnerabilities and source code &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251015/p32#a251015p32)
  - [Apple Vision Pro Dual Knit Band and more accessories hit Apple Store](https://appleinsider.com/articles/25/10/15/apple-vision-pro-dual-knit-band-and-more-accessories-hit-apple-store?utm_source=rss)
  - [Apple adds a black Magic Keyboard option for the iPad Air](https://appleinsider.com/articles/25/10/15/apple-adds-a-black-magic-keyboard-option-for-the-ipad-air?utm_source=rss)
- - [AppLovin shut down Array last quarter, calling it &quot;a test product&quot; that wasn&#39;t &quot;economically viable&quot;, after allegations it led to unwanted Android app installs &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p31#a251015p31)
- - [SteelSeries Arctis Nova 3 Review: The Best Budget Headset](https://www.wired.com/review/steelseries-arctis-nova-3-review/)<!-- TECH:END -->
+ - [AppLovin shut down Array last quarter, calling it &quot;a test product&quot; that wasn&#39;t &quot;economically viable&quot;, after allegations it led to unwanted Android app installs &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p31#a251015p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US DHS: Chinese criminal organizations made $1B+ in the past three years via scam texts; Proofpoint: last month, a record 330K US toll-scam texts were reported &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251015/p18#a251015p18)
+ - [A New Road Safety Group Targets Self-Driving Cars](https://www.wired.com/story/road-safety-group-save-us-targets-self-driving-cars/)
+ - [The government shutdown is strangling aviation](https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown)
  - [An internal Google email said it received many complaints over Israeli government YouTube ads about food access in Gaza, but ruled the ads could remain online &lpar;Washington Post&rpar;](http://www.techmeme.com/251015/p17#a251015p17)
- - [ASML CFO Roger Dassen says the company is &quot;well prepared&quot; for China&#39;s curbs on exports of rare earths; a source says ASML could face weeks-long shipment delays &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p16#a251015p16)
- - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
- - [The Dutch seizing Nexperia from Wingtech is a landmark moment, showing it made a mistake allowing its sale and how ensnared the EU is in the US-China tech war &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p15#a251015p15)
- - [These are the Office icons Microsoft rejected](https://www.theverge.com/news/799736/microsoft-office-icons-test-versions)<!-- TECH:END -->
+ - [ASML CFO Roger Dassen says the company is &quot;well prepared&quot; for China&#39;s curbs on exports of rare earths; a source says ASML could face weeks-long shipment delays &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p16#a251015p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

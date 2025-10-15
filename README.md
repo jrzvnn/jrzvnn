@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 chip thinks faster, renders quicker, &amp; claims to be a whole lot smarter](https://appleinsider.com/articles/25/10/15/m5-chip-thinks-faster-renders-quicker-claims-to-be-a-whole-lot-smarter?utm_source=rss)
- - [Apple Vision Pro gets spec bump to M5 for enhanced spatial computing](https://appleinsider.com/articles/25/10/15/apple-vision-pro-gets-spec-bump-to-m5-for-enhanced-spatial-computing?utm_source=rss)
- - [Honor’s Robot Phone concept features a fold-out camera arm](https://www.theverge.com/news/799944/honor-robot-phone-tease-announcement)
- - [A survey of 28K+ adults in 25 countries on AI: 81% have heard a lot or a little, 34% are more concerned than excited, and 42% are equally concerned and excited &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251015/p30#a251015p30)
- - [Apple debuts its M5 chip, with a 10-core GPU, a Neural Accelerator in each core, offering 4x+ the performance of M4, and a 10-core CPU with six efficiency cores &lpar;Apple&rpar;](http://www.techmeme.com/251015/p28#a251015p28)<!-- TECH:END -->
+ - [US cybersecurity company F5 discloses a cyberattack in August by suspected nation-state hackers that stole undisclosed BIG-IP vulnerabilities and source code &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251015/p32#a251015p32)
+ - [Apple Vision Pro Dual Knit Band and more accessories hit Apple Store](https://appleinsider.com/articles/25/10/15/apple-vision-pro-dual-knit-band-and-more-accessories-hit-apple-store?utm_source=rss)
+ - [Apple adds a black Magic Keyboard option for the iPad Air](https://appleinsider.com/articles/25/10/15/apple-adds-a-black-magic-keyboard-option-for-the-ipad-air?utm_source=rss)
+ - [AppLovin shut down Array last quarter, calling it &quot;a test product&quot; that wasn&#39;t &quot;economically viable&quot;, after allegations it led to unwanted Android app installs &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p31#a251015p31)
+ - [SteelSeries Arctis Nova 3 Review: The Best Budget Headset](https://www.wired.com/review/steelseries-arctis-nova-3-review/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

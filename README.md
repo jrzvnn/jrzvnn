@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
  - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 😝 [Who read this is gay](http://9gag.com/gag/aXPG6r2)
  - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
- - 😝 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)
- - 💣 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)
- - 😝 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
- - 👉 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)<!-- MEMES:END -->
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
+ - 💣 [F**king DUH](http://9gag.com/gag/aLnNoYA)
+ - 😝 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---
 

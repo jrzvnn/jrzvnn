@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ASML CFO Roger Dassen says the company is &quot;well prepared&quot; for China&#39;s curbs on exports of rare earths; a source says ASML could face weeks-long shipment delays &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p16#a251015p16)
+ - [What Is Google One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-google-one/)
+ - [The Dutch seizing Nexperia from Wingtech is a landmark moment, showing it made a mistake allowing its sale and how ensnared the EU is in the US-China tech war &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p15#a251015p15)
  - [These are the Office icons Microsoft rejected](https://www.theverge.com/news/799736/microsoft-office-icons-test-versions)
- - [Sources: Apple is lobbying India to modify its income tax law to ensure Apple is not taxed for owning high-end iPhone machinery it provides to its manufacturers &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p14#a251015p14)
- - [Waymo plans to launch a fully driverless robotaxi service in London, starting in 2026, its first European launch; human-supervised cars will first collect data &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251015/p13#a251015p13)
- - [UK startup Nscale signs an up to $14B deal with Microsoft to deploy ~104K Nvidia GB300 chips for Microsoft in Texas within 18 months and 12,600 GPUs in Portugal &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251015/p12#a251015p12)
- - [When Face Recognition Doesn’t Know Your Face Is a Face](https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/)<!-- TECH:END -->
+ - [Sources: Apple is lobbying India to modify its income tax law to ensure Apple is not taxed for owning high-end iPhone machinery it provides to its manufacturers &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p14#a251015p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)
- - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
- - 💣 [Uno reverse card](http://9gag.com/gag/aE0N5wG)
- - 😝 [Such well behaved cat.](http://9gag.com/gag/a9yN0NL)
- - 👉 [Respect](http://9gag.com/gag/an7WwQ5)<!-- MEMES:END -->
+ - 😝 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
+ - 😝 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)
+ - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [The pain persists, and so do I.](http://9gag.com/gag/an7Wo8z)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 

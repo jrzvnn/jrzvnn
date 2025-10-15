@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio)
  - [Apple doesn&#39;t include a charger in the box with the new M5 MacBook Pro in European countries, making users pay extra; the company cites local regulations &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251015/p50#a251015p50)
  - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Meta is killing off standalone Mac and Windows Messenger apps](https://appleinsider.com/articles/25/10/15/meta-is-killing-off-standalone-mac-and-windows-messenger-apps?utm_source=rss)
- - [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)
- - [Steve Jobs featured on American Innovation $1 gold coin for 2026](https://appleinsider.com/articles/25/10/15/steve-jobs-featured-on-american-innovation-1-gold-coin-for-2026?utm_source=rss)<!-- TECH:END -->
+ - [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

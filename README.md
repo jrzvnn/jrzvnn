@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
- - 😝 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Tower of silence in India. Sky burial practiced by Parsi community.](http://9gag.com/gag/aD2NLZ9)
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 💣 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
+ - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
+ - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
  - 💣 [F**king DUH](http://9gag.com/gag/aLnNoYA)
- - 😝 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
- - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
+ - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 👉 [Another one sees the end](http://9gag.com/gag/aMVNMBM)<!-- MEMES:END -->
 
 ---
 

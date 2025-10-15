@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
- - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
+ - 😝 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)
+ - 😝 [The discipline here deserves an Oscar](http://9gag.com/gag/a5QyYON)
+ - 💣 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 😝 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)
+ - 👉 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)<!-- MEMES:END -->
 
 ---
 

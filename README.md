@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TechWoven case review: Better than FineWoven, but not by much](https://appleinsider.com/articles/25/10/15/apple-techwoven-case-review-better-than-finewoven-but-not-by-much?utm_source=rss)
+ - [Anthropic says Haiku 4.5 can serve as a subagent for Sonnet 4.5, which can break down problems into multistep plans and orchestrate a team of Haiku 4.5 agents &lpar;Anthropic&rpar;](http://www.techmeme.com/251015/p43#a251015p43)
+ - [Insta360’s impressive X5 action cam has fallen to a new low price](https://www.theverge.com/tech/800000/insta360-x5-action-cam-marshall-emberton-ii-speaker-deal-sale)
  - [Sources: Rakuten began considering a US IPO of its credit card business after SoftBank announced plans to launch an IPO for its mobile payment app PayPay &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p42#a251015p42)
- - [Anthropic releases Claude Haiku 4.5, claiming it offers similar levels of coding performance to Sonnet 4 at &quot;one-third the cost and more than twice the speed&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251015/p41#a251015p41)
- - [Anthropic Launches Smaller, Faster Claude Haiku 4.5 AI Model](https://www.cnet.com/tech/services-and-software/claudes-haiku-4-5-small-model-available-for-all-users/#ftag=CAD590a51e)
- - [Sources: French telecom operator Orange is seeking to raise €400M-€500M by selling a stake of as much as 50% in its data center business &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p40#a251015p40)
- - [Logitech made an Apple Pencil-like stylus for the Vision Pro](https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability)<!-- TECH:END -->
+ - [Anthropic releases Claude Haiku 4.5, claiming it offers similar levels of coding performance to Sonnet 4 at &quot;one-third the cost and more than twice the speed&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251015/p41#a251015p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [‘New media’ is just right-wing media](https://www.theverge.com/column/799904/new-media-is-just-right-wing-media)
+ - [I just reviewed the Xbox Ally, ask me anything](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
  - [&#39;Tron: Ares&#39; Ending Explained: Connecting to the Past and Setting Up the Future](https://www.cnet.com/tech/services-and-software/tron-ares-ending-explained-what-does-it-all-mean/#ftag=CAD590a51e)
- - [The AI Industry&#39;s Scaling Obsession Is Headed for a Cliff](https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/)
- - [Senate Democrats want to know: was YouTube’s Trump settlement a bribe?](https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe)
- - [Sources: Anthropic held early funding talks this month with Abu Dhabi-based MGX, which it considers a prior investor, after closing a $13B Series F in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p44#a251015p44)
- - [Beyerdynamic&#39;s Amiron 300 Are Cheaper Than Ever](https://www.wired.com/story/beyerdynamic-amiron-300-deal-1025/)<!-- TECH:END -->
+ - [The AI Industry’s Scaling Obsession Is Headed for a Cliff](https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/)
+ - [Senate Democrats want to know: was YouTube’s Trump settlement a bribe?](https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

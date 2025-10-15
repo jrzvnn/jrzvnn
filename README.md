@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple doesn&#39;t include a charger in the box with the new M5 MacBook Pro in European countries, making users pay extra; the company cites local regulations &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251015/p50#a251015p50)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
  - [Meta is killing off standalone Mac and Windows Messenger apps](https://appleinsider.com/articles/25/10/15/meta-is-killing-off-standalone-mac-and-windows-messenger-apps?utm_source=rss)
  - [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)
- - [Steve Jobs featured on American Innovation $1 gold coin for 2026](https://appleinsider.com/articles/25/10/15/steve-jobs-featured-on-american-innovation-1-gold-coin-for-2026?utm_source=rss)
- - [David Sacks says Anthropic is running a &quot;regulatory capture strategy based on fear-mongering&quot;, responding to Anthropic co-founder Jack Clark&#39;s post on AI policy &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251015/p49#a251015p49)
- - [OpenAI Plans to Allow Erotica and Change Mental Health Restrictions for Adult Users](https://www.cnet.com/tech/services-and-software/openai-plans-to-allow-erotica-and-change-mental-health-restrictions-for-adult-users/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steve Jobs featured on American Innovation $1 gold coin for 2026](https://appleinsider.com/articles/25/10/15/steve-jobs-featured-on-american-innovation-1-gold-coin-for-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

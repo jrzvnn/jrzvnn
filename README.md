@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Looking back at John Sculley&#39;s rise as Apple&#39;s CEO, and fall on October 15, 1993](https://appleinsider.com/articles/25/10/15/looking-back-at-john-sculleys-rise-as-apples-ceo-and-fall-an-october-15-1993?utm_source=rss)
+ - [Here’s where you can preorder the new M5 MacBook Pro and iPad Pro](https://www.theverge.com/tech/800056/m5-macbook-pro-14-inch-ipad-pro-preorder-price-release-date-availability)
  - [Sam Altman says OpenAI is &quot;not the elected moral police of the world&quot; after receiving backlash for saying ChatGPT will allow &quot;erotica for verified adults&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251015/p48#a251015p48)
  - [Viven, which builds AI &quot;digital twins&quot; that grant employees access to crucial information when coworkers are unavailable, emerges from stealth with a $35M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251015/p47#a251015p47)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 16, #858](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-16-858/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 16 #592](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-16-592/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 16, #1580](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-16-1580/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 16, #858](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-16-858/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

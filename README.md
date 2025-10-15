@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)
  - 😝 [The discipline here deserves an Oscar](http://9gag.com/gag/a5QyYON)
- - 💣 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 😝 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 💣 [He must be feeling traumatized after that](http://9gag.com/gag/a1mq3Kv)
  - 😝 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)
  - 👉 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)<!-- MEMES:END -->
 

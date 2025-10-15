@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
- - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
+ - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
 
 ---
 

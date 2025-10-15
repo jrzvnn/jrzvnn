@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 💣 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
- - 😝 [The pain persists, and so do I.](http://9gag.com/gag/an7Wo8z)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [European mind cannot comprehend this](http://9gag.com/gag/aPAdbyQ)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---
 

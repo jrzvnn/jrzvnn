@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 💣 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 

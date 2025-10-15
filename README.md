@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AI team loses another executive to Meta](https://appleinsider.com/articles/25/10/15/apple-ai-team-loses-another-executive-to-meta?utm_source=rss)
+ - [Sources: Apple executive Ke Yang, who was appointed just weeks ago as head of a team developing AI-driven web search for Siri, is leaving for Meta &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251015/p54#a251015p54)
  - [Honor unveils its flagships Magic8, with a 7,000mAh battery, and Magic8 Pro, with 7,200mAh, both featuring an AI button, launching in China for ~$630 and ~$800 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p53#a251015p53)
  - [Motorola Joins the Thin Phone Trend With the X70 Air](https://www.cnet.com/tech/mobile/motorola-joins-the-thin-phone-trend-with-the-x70-air/#ftag=CAD590a51e)
- - [Honor teases the &quot;Robot Phone&quot;, with an AI-enabled, gimbal-mounted camera that unfolds from the phone&#39;s rear and can capture photos and video in any direction &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p52#a251015p52)
- - [A US judge sentences Matthew Lane, a 20-year-old Massachusetts man, to four years in prison after he pled guilty to hacking two companies, including PowerSchool &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/251015/p51#a251015p51)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Honor teases the &quot;Robot Phone&quot;, with an AI-enabled, gimbal-mounted camera that unfolds from the phone&#39;s rear and can capture photos and video in any direction &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p52#a251015p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

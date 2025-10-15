@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 chip thinks faster, renders quicker, &amp; claims to be a whole lot smarter](https://appleinsider.com/articles/25/10/15/m5-chip-thinks-faster-renders-quicker-claims-to-be-a-whole-lot-smarter?utm_source=rss)
+ - [Apple Vision Pro gets spec bump to M5 for enhanced spatial computing](https://appleinsider.com/articles/25/10/15/apple-vision-pro-gets-spec-bump-to-m5-for-enhanced-spatial-computing?utm_source=rss)
  - [Honor’s Robot Phone concept features a fold-out camera arm](https://www.theverge.com/news/799944/honor-robot-phone-tease-announcement)
  - [A survey of 28K+ adults in 25 countries on AI: 81% have heard a lot or a little, 34% are more concerned than excited, and 42% are equally concerned and excited &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251015/p30#a251015p30)
- - [Apple debuts its M5 chip, with a 10-core GPU, a Neural Accelerator in each core, offering 4x+ the performance of M4, and a 10-core CPU with six efficiency cores &lpar;Apple&rpar;](http://www.techmeme.com/251015/p28#a251015p28)
- - [Apple to start selling Vision Pro-compatible PlayStation VR2 Sense controllers for $250 on November 11 and the $130 Logitech Muse digital pen on October 22 &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/251015/p29#a251015p29)
- - [Japan wants OpenAI to stop ripping off manga and anime](https://www.theverge.com/news/799938/japan-government-openai-sora)<!-- TECH:END -->
+ - [Apple debuts its M5 chip, with a 10-core GPU, a Neural Accelerator in each core, offering 4x+ the performance of M4, and a 10-core CPU with six efficiency cores &lpar;Apple&rpar;](http://www.techmeme.com/251015/p28#a251015p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

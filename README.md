@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [Thank you!](http://9gag.com/gag/aND2MN3)
- - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
  - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 💣 [Thank you!](http://9gag.com/gag/aND2MN3)
+ - 😝 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
  - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---

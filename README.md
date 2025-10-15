@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finch, which offers a voice-based AI system to automate administrative tasks done by paralegals, raised a $20M Series A, source says at a $100M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251014/p45#a251014p45)
+ - [Sources: Amazon plans to cut as much as 15% of its HR staff, and additional layoffs will likely affect other areas of its core consumer business &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/251014/p44#a251014p44)
  - [Spotify&#39;s deal to bring video podcasts to Netflix bars shows from airing in full on YouTube; Netflix won&#39;t run ad breaks, but Spotify&#39;s integrated ads remain &lpar;New York Times&rpar;](http://www.techmeme.com/251014/p43#a251014p43)
  - [EcoFlow Delta 3 Max Plus Review: Portable power that is helpful during storm season](https://appleinsider.com/articles/25/10/15/ecoflow-delta-3-max-plus-review-portable-power-that-is-helpful-during-storm-season?utm_source=rss)
- - [Rumored Apple Home Hub tablet to be made in Vietnam, cost $350](https://appleinsider.com/articles/25/10/15/rumored-apple-home-hub-tablet-to-be-made-in-vietnam-cost-350?utm_source=rss)
- - [Hands-on with Nvidia&#39;s DGX Spark: trades some performance and bandwidth for 128GB of unified memory, Nvidia&#39;s software ecosystem is valuable, and more &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/251014/p42#a251014p42)
- - [Sources: Apple plans to build its upcoming indoor security camera, home hub, and tabletop robot in Vietnam as part an effort to lessen its dependence on China &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251014/p41#a251014p41)<!-- TECH:END -->
+ - [Rumored Apple Home Hub tablet to be made in Vietnam, cost $350](https://appleinsider.com/articles/25/10/15/rumored-apple-home-hub-tablet-to-be-made-in-vietnam-cost-350?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

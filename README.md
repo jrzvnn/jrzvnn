@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
  - 💣 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
- - 👉 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)<!-- MEMES:END -->
+ - 😝 [The pain persists, and so do I.](http://9gag.com/gag/an7Wo8z)
+ - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---
 

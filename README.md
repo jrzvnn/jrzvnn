@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Viven, which builds AI &quot;digital twins&quot; that grant employees access to crucial information when coworkers are unavailable, emerges from stealth with a $35M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251015/p47#a251015p47)
+ - [iPad Pro M5 vs M4 iPad Pro: Where Apple&#39;s best tablet got updated](https://appleinsider.com/articles/25/10/15/ipad-pro-m5-vs-m4-ipad-pro-where-apples-best-tablet-got-updated?utm_source=rss)
+ - [Sources: Chinese state actors compromised UK government servers for at least the last 10 years, routinely accessing low- and medium-level classified information &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/251015/p46#a251015p46)
  - [The iPad just got the chip it needs to be a smart home controller — again](https://www.theverge.com/news/799911/ipad-pro-thread-smart-home-apple-home-hub)
- - [Sources: Anthropic is on track to meet an internal goal of $9B in annual revenue run rate by the end of 2025 and is targeting $20B to $26B for 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p45#a251015p45)
- - [Think You Can Handle My Favorite Western Horror Film on Tubi?](https://www.cnet.com/tech/services-and-software/think-you-can-handle-my-favorite-western-horror-film-on-tubi/#ftag=CAD590a51e)
- - [14-inch M5 MacBook Pro is here without Pro and Max versions](https://appleinsider.com/articles/25/10/15/14-inch-m5-macbook-pro-is-here-without-pro-and-max-versions?utm_source=rss)
- - [Amazon’s new name for the Fire TV Stick 4K only adds more confusion](https://www.theverge.com/news/800104/amazon-fire-tv-stick-4k-plus-new-name)<!-- TECH:END -->
+ - [Sources: Anthropic is on track to meet an internal goal of $9B in annual revenue run rate by the end of 2025 and is targeting $20B to $26B for 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p45#a251015p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Reducto, which uses OCR with vision language models to convert complex documents into inputs for LLMs, raised a $75M Series B led by a16z at a $600M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251014/p46#a251014p46)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-15/#ftag=CAD590a51e)
  - [Finch, which offers a voice-based AI system to automate administrative tasks done by paralegals, raised a $20M Series A, source says at a $100M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251014/p45#a251014p45)
  - [Sources: Amazon plans to cut as much as 15% of its HR staff, and additional layoffs will likely affect other areas of its core consumer business &lpar;Jason Del Rey/Fortune&rpar;](http://www.techmeme.com/251014/p44#a251014p44)
- - [Spotify&#39;s deal to bring video podcasts to Netflix bars shows from airing in full on YouTube; Netflix won&#39;t run ad breaks, but Spotify&#39;s integrated ads remain &lpar;New York Times&rpar;](http://www.techmeme.com/251014/p43#a251014p43)
- - [EcoFlow Delta 3 Max Plus Review: Portable power that is helpful during storm season](https://appleinsider.com/articles/25/10/15/ecoflow-delta-3-max-plus-review-portable-power-that-is-helpful-during-storm-season?utm_source=rss)
- - [Rumored Apple Home Hub tablet to be made in Vietnam, cost $350](https://appleinsider.com/articles/25/10/15/rumored-apple-home-hub-tablet-to-be-made-in-vietnam-cost-350?utm_source=rss)<!-- TECH:END -->
+ - [Spotify&#39;s deal to bring video podcasts to Netflix bars shows from airing in full on YouTube; Netflix won&#39;t run ad breaks, but Spotify&#39;s integrated ads remain &lpar;New York Times&rpar;](http://www.techmeme.com/251014/p43#a251014p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

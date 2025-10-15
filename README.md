@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
  - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
  - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->

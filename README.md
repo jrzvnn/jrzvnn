@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [i think my parents are proud of me](https://www.reddit.com/r/funny/comments/1o77t0g/i_think_my_parents_are_proud_of_me/)
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 💣 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
- - 😝 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 👉 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)<!-- MEMES:END -->
+ - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
+ - 😝 [Uno reverse card](http://9gag.com/gag/aE0N5wG)
+ - 💣 [Such well behaved cat.](http://9gag.com/gag/a9yN0NL)
+ - 😝 [I also like to live dangerously](http://9gag.com/gag/a2vjXb9)
+ - 👉 [Respect](http://9gag.com/gag/an7WwQ5)<!-- MEMES:END -->
 
 ---
 

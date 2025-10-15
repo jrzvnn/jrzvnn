@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Orange is seeking to raise €400M-€500M by selling a stake of as much as 50% in its data center business, including its major facility in Normandy &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p40#a251015p40)
  - [Logitech made an Apple Pencil-like stylus for the Vision Pro](https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability)
  - [X plans to show new info about accounts, including their creation date and which country they are based in, &quot;starting next week&quot; on select X employees&#39; profiles &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251015/p39#a251015p39)
  - [US bank Erebor, founded by Palmer Luckey, Joe Lonsdale, and others, wins conditional OCC approval to offer services to emerging tech companies in crypto and AI &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251015/p38#a251015p38)
- - [Meta announces a partnership with Arm to power AI ranking and recommendation systems across Meta&#39;s family of apps using Arm-based data center platforms &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251015/p37#a251015p37)
- - [You can&#39;t trade-in Apple Vision Pro for a new one -- on October 15, at least](https://appleinsider.com/articles/25/10/15/you-cant-trade-in-apple-vision-pro-for-a-new-one----on-october-15-at-least?utm_source=rss)<!-- TECH:END -->
+ - [Meta announces a partnership with Arm to power AI ranking and recommendation systems across Meta&#39;s family of apps using Arm-based data center platforms &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251015/p37#a251015p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One way to ruin players dream](http://9gag.com/gag/a2vjgAe)
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 💣 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
+ - 😝 [Uno reverse card](http://9gag.com/gag/aE0N5wG)
+ - 💣 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [What sound they just make at the end ?](http://9gag.com/gag/aND2bD4)<!-- MEMES:END -->
+ - 👉 [Big oof](http://9gag.com/gag/agmZep1)<!-- MEMES:END -->
 
 ---
 

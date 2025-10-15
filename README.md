@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Only out online](https://www.theverge.com/cs/features/799045/trans-identity-online-anonymous)
- - [4 Best Resume Builders &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-resume-builders/)
- - [Tim Cook vows to boost China investment, despite Trump pressures](https://appleinsider.com/articles/25/10/15/tim-cook-vows-to-boost-china-investment-despite-trump-pressures?utm_source=rss)
- - [China&#39;s Industry Ministry says Tim Cook pledged to boost Apple&#39;s investment in China during a visit, but offers few details, as the US and China clash on trade &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p20#a251015p20)
- - [Doing it for themselves](https://www.theverge.com/cs/features/798638/trans-resources-online-sharing)<!-- TECH:END -->
+ - [New iPad Pro arrives with M5 speed, Wi-Fi 7, and Apple&#39;s C1X modem](https://appleinsider.com/articles/25/10/15/new-ipad-pro-arrives-with-m5-speed-wi-fi-7-and-apples-c1x-modem?utm_source=rss)
+ - [Apple debuts its M5 chip, with a 10-core GPU, a Neural Accelerator in each core, enabling 4x+ the performance of M4, and a 10-core CPU with six efficiency cores &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251015/p24#a251015p24)
+ - [Apple updates the Vision Pro with an M5 chip, rendering 10% more pixels, and a Dual Knit Band for a more comfortable fit, available on October 22 for $3,499+ &lpar;Apple&rpar;](http://www.techmeme.com/251015/p23#a251015p23)
+ - [Apple updates the iPad Pro with an M5 chip, its new C1X cellular modem, and N1 chip, for $999+ for the 11-inch and $1,299+ for the 13-inch, shipping October 22 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251015/p22#a251015p22)
+ - [Apple unveils a 14-inch MacBook Pro with an M5 chip, up to 3.5x more performance for AI workflows, and faster storage, for the same $1,599+, shipping October 22 &lpar;Apple&rpar;](http://www.techmeme.com/251015/p21#a251015p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

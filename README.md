@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Honor unveils its flagships Magic8, with a 7,000mAh battery, and Magic8 Pro, with 7,200mAh, both featuring an AI button, launching in China for ~$630 and ~$800 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p53#a251015p53)
  - [Honor teases the &quot;Robot Phone&quot;, with an AI-enabled, gimbal-mounted camera that unfolds from the phone&#39;s rear and can capture photos and video in any direction &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p52#a251015p52)
  - [A US judge sentences Matthew Lane, a 20-year-old Massachusetts man, to four years in prison after he pled guilty to hacking two companies, including PowerSchool &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/251015/p51#a251015p51)
  - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio)
- - [Apple doesn&#39;t include a charger in the box with the new M5 MacBook Pro in European countries, making users pay extra; the company cites local regulations &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251015/p50#a251015p50)<!-- TECH:END -->
+ - [Google’s AI video generator is getting better editing and more audio](https://www.theverge.com/news/800371/google-veo-3-1-flow-audio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

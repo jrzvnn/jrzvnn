@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
- - 😝 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
- - 💣 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)
+ - 😝 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
+ - 😝 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
+ - 💣 [Lets Post this](http://9gag.com/gag/azxDzoB)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
+ - 👉 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)<!-- MEMES:END -->
 
 ---
 

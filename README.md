@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
- - 😝 [Uno reverse card](http://9gag.com/gag/aE0N5wG)
- - 💣 [Kids these days will never know the joy of ditch crawling](http://9gag.com/gag/aAyN94Z)
- - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Big oof](http://9gag.com/gag/agmZep1)<!-- MEMES:END -->
+ - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 💣 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
+ - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
+ - 👉 [Some people pay a lot for that](http://9gag.com/gag/aLnNo6W)<!-- MEMES:END -->
 
 ---
 

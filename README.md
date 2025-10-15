@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU gets what it asked for, there is no charger in the MacBook Pro box](https://appleinsider.com/articles/25/10/15/eu-gets-what-it-asked-for-there-is-no-charger-in-the-macbook-pro-box?utm_source=rss)
+ - [MIT spinoff Vertical Semiconductor, which aims to make vertical gallium nitride transistors for AI data centers, raised an $11M seed led by Playground Global &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251015/p34#a251015p34)
  - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)
  - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Sony, Bose, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
- - [Meta adds group chats to Threads, allowing users to add up to 50 people who follow their Threads account, rolling out globally, excluding the UK and Australia &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251015/p33#a251015p33)
- - [Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro with Its New M5 Chip](https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/)
- - [Practical Gift Ideas for New Parents and Their Babies &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-new-parents-2025/)<!-- TECH:END -->
+ - [Meta adds group chats to Threads, allowing users to add up to 50 people who follow their Threads account, rolling out globally, excluding the UK and Australia &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251015/p33#a251015p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

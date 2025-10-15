@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube starts rolling out its redesigned video player, which features rounded, slightly translucent on-screen buttons, across mobile, web, and TV globally &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251015/p2#a251015p2)
+ - [Squarespace Promo Codes: 10% Off | October 2025](https://www.wired.com/story/squarespace-promo-code/)
  - [Sources: OpenAI makes a five-year business plan to meet $1T+ spending pledges; it currently books ~$13B in ARR, 70% of which comes from consumers using ChatGPT &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p1#a251015p1)
  - [Coinbase invests in Indian crypto exchange CoinDCX to expand into India and the Middle East; CEO Sumit Gupta said the deal values CoinDCX at $2.45B post-money &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251014/p47#a251014p47)
- - [Reducto, which uses OCR with vision language models to convert complex documents into inputs for LLMs, raised a $75M Series B led by a16z at a $600M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251014/p46#a251014p46)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Oct. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-oct-15/#ftag=CAD590a51e)
- - [Finch, which offers a voice-based AI system to automate administrative tasks done by paralegals, raised a $20M Series A, source says at a $100M valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251014/p45#a251014p45)<!-- TECH:END -->
+ - [Reducto, which uses OCR with vision language models to convert complex documents into inputs for LLMs, raised a $75M Series B led by a16z at a $600M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251014/p46#a251014p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looking back at John Sculley&#39;s rise as Apple&#39;s CEO, and fall on October 15, 1993](https://appleinsider.com/articles/25/10/15/looking-back-at-john-sculleys-rise-as-apples-ceo-and-fall-an-october-15-1993?utm_source=rss)
- - [Here’s where you can preorder the new M5 MacBook Pro and iPad Pro](https://www.theverge.com/tech/800056/m5-macbook-pro-14-inch-ipad-pro-preorder-price-release-date-availability)
- - [Sam Altman says OpenAI is &quot;not the elected moral police of the world&quot; after receiving backlash for saying ChatGPT will allow &quot;erotica for verified adults&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251015/p48#a251015p48)
- - [Viven, which builds AI &quot;digital twins&quot; that grant employees access to crucial information when coworkers are unavailable, emerges from stealth with a $35M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251015/p47#a251015p47)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 16, #858](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-16-858/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta is killing off standalone Mac and Windows Messenger apps](https://appleinsider.com/articles/25/10/15/meta-is-killing-off-standalone-mac-and-windows-messenger-apps?utm_source=rss)
+ - [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)
+ - [Steve Jobs featured on American Innovation $1 gold coin for 2026](https://appleinsider.com/articles/25/10/15/steve-jobs-featured-on-american-innovation-1-gold-coin-for-2026?utm_source=rss)
+ - [David Sacks says Anthropic is running a &quot;regulatory capture strategy based on fear-mongering&quot;, responding to Anthropic co-founder Jack Clark&#39;s post on AI policy &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251015/p49#a251015p49)
+ - [Looking back at John Sculley&#39;s rise as Apple&#39;s CEO, and fall on October 15, 1993](https://appleinsider.com/articles/25/10/15/looking-back-at-john-sculleys-rise-as-apples-ceo-and-fall-an-october-15-1993?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

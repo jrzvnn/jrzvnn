@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bet the person who called 911 was a female.](http://9gag.com/gag/avyXqnO)
  - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [She can start an infinite money glitch if she wants to.](http://9gag.com/gag/aO8NE0r)
  - 💣 [This is a good strategy from the divorced husband. For 9gaggers husbands with crumbling marriage, take note](http://9gag.com/gag/aE0NbKo)
- - 😝 [Lets Post this](http://9gag.com/gag/azxDzoB)
- - 👉 [Some people pay a lot for that](http://9gag.com/gag/aLnNo6W)<!-- MEMES:END -->
+ - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 👉 [She needed a school, Not forced motherhood.](http://9gag.com/gag/agmZ93r)<!-- MEMES:END -->
 
 ---
 

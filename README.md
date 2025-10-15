@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank&#39;s $5.4B purchase of ABB&#39;s robotics unit is another setback for Europe, which risks losing its edge to Asian and US companies in the &quot;physical AI&quot; era &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/251015/p11#a251015p11)
- - [Inside First Wap, a European-led phone tracking company in Indonesia that has exploited the SS7 telecom protocol to target politicians, journalists, and others &lpar;Mother Jones&rpar;](http://www.techmeme.com/251015/p9#a251015p9)
- - [SpaceX’s Second-Gen Starship Signs Off With a Near-Perfect Test Flight](https://www.wired.com/story/spacexs-second-gen-starship-signs-off-with-a-near-perfect-test-flight/)
- - [How AI is upending India&#39;s business process management sector, which employs 1.65M people; conversational AI startup LimeChat claims to have automated 5K jobs &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p8#a251015p8)
- - [The Japanese government says it formally requested that OpenAI refrain from infringing on Japanese IPs, such as anime, calling them &quot;irreplaceable treasures&quot; &lpar;Verity Townsend/IGN&rpar;](http://www.techmeme.com/251015/p7#a251015p7)<!-- TECH:END -->
+ - [Apple exec on Apple TV rebranding: ‘let’s just do it’](https://www.theverge.com/news/799725/apple-tv-streaming-rebrand-eddy-cue)
+ - [Doctors vs. Influencers: Who&#39;s Shaping Our Health and at What Cost?](https://www.cnet.com/health/features/doctors-vs-influencers-whos-shaping-our-health-and-at-what-cost/#ftag=CAD590a51e)
+ - [Waymo&#39;s Robotaxis Are Heading to London. Everything to Know About the Self-Driving Service](https://www.cnet.com/roadshow/news/waymos-robotaxis-are-heading-to-london-everything-to-know-about-the-self-driving-service/#ftag=CAD590a51e)
+ - [Here&#39;s How to Recycle Your Old PC, Laptop and Printer for Free in 2025](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free-in-2025/#ftag=CAD590a51e)
+ - [Waymo&#39;s Robotaxis Are Coming to London](https://www.wired.com/story/waymos-robotaxis-are-coming-to-london/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

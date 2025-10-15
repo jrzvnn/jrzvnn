@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech made an Apple Pencil-like stylus for the Vision Pro](https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability)
+ - [X plans to show new info about accounts, including their creation date and which country they are based in, &quot;starting next week&quot; on select X employees&#39; profiles &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251015/p39#a251015p39)
+ - [US bank Erebor, founded by Palmer Luckey, Joe Lonsdale, and others, wins conditional OCC approval to offer services to emerging tech companies in crypto and AI &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251015/p38#a251015p38)
  - [Meta announces a partnership with Arm to power AI ranking and recommendation systems across Meta&#39;s family of apps using Arm-based data center platforms &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251015/p37#a251015p37)
- - [You can&#39;t trade-in Apple Vision Pro for a new one -- on October 15, at least](https://appleinsider.com/articles/25/10/15/you-cant-trade-in-apple-vision-pro-for-a-new-one----on-october-15-at-least?utm_source=rss)
- - [10 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms-2025/)
- - [Mint Mobile&amp;#8217;s prepaid home internet plan is really cheap under very specific circumstances](https://www.theverge.com/news/800055/mint-mobiles-prepaid-home-internet-plan-is-really-cheap-under-very-specific-circumstances)
- - [Meta says it is investing $1.5B+ to set up a 1 GW data center in El Paso, Texas, and expects it come online in 2028 &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251015/p36#a251015p36)<!-- TECH:END -->
+ - [You can&#39;t trade-in Apple Vision Pro for a new one -- on October 15, at least](https://appleinsider.com/articles/25/10/15/you-cant-trade-in-apple-vision-pro-for-a-new-one----on-october-15-at-least?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

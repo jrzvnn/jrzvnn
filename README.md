@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The MLB app’s best feature is a 30-second delay](https://www.theverge.com/tech/800279/mlb-app-baseball-notifications-delay)
  - [Steve Jobs featured on American Innovation $1 gold coin for 2026](https://appleinsider.com/articles/25/10/15/steve-jobs-featured-on-american-innovation-1-gold-coin-for-2026?utm_source=rss)
  - [David Sacks says Anthropic is running a &quot;regulatory capture strategy based on fear-mongering&quot;, responding to Anthropic co-founder Jack Clark&#39;s post on AI policy &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251015/p49#a251015p49)
- - [Looking back at John Sculley&#39;s rise as Apple&#39;s CEO, and fall on October 15, 1993](https://appleinsider.com/articles/25/10/15/looking-back-at-john-sculleys-rise-as-apples-ceo-and-fall-an-october-15-1993?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI Plans to Allow Erotica and Change Mental Health Restrictions for Adult Users](https://www.cnet.com/tech/services-and-software/openai-plans-to-allow-erotica-and-change-mental-health-restrictions-for-adult-users/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

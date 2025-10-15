@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When Face Recognition Doesn’t Know Your Face Is a Face](https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/)
  - [Apple exec on Apple TV rebranding: ‘let’s just do it’](https://www.theverge.com/news/799725/apple-tv-streaming-rebrand-eddy-cue)
  - [Doctors vs. Influencers: Who&#39;s Shaping Our Health and at What Cost?](https://www.cnet.com/health/features/doctors-vs-influencers-whos-shaping-our-health-and-at-what-cost/#ftag=CAD590a51e)
  - [Waymo&#39;s Robotaxis Are Heading to London. Everything to Know About the Self-Driving Service](https://www.cnet.com/roadshow/news/waymos-robotaxis-are-heading-to-london-everything-to-know-about-the-self-driving-service/#ftag=CAD590a51e)
- - [Here&#39;s How to Recycle Your Old PC, Laptop and Printer for Free in 2025](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free-in-2025/#ftag=CAD590a51e)
- - [Waymo&#39;s Robotaxis Are Coming to London](https://www.wired.com/story/waymos-robotaxis-are-coming-to-london/)<!-- TECH:END -->
+ - [Here&#39;s How to Recycle Your Old PC, Laptop and Printer for Free in 2025](https://www.cnet.com/tech/computing/where-to-recycle-your-old-pc-laptop-and-printer-for-free-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

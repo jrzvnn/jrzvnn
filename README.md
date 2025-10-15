@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sam Altman says OpenAI is &quot;not the elected moral police of the world&quot; after receiving backlash for saying ChatGPT will allow &quot;erotica for verified adults&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251015/p48#a251015p48)
  - [Viven, which builds AI &quot;digital twins&quot; that grant employees access to crucial information when coworkers are unavailable, emerges from stealth with a $35M seed &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251015/p47#a251015p47)
- - [iPad Pro M5 vs M4 iPad Pro: Where Apple&#39;s best tablet got updated](https://appleinsider.com/articles/25/10/15/ipad-pro-m5-vs-m4-ipad-pro-where-apples-best-tablet-got-updated?utm_source=rss)
- - [Sources: Chinese state actors compromised UK government servers for at least the last 10 years, routinely accessing low- and medium-level classified information &lpar;Alex Wickham/Bloomberg&rpar;](http://www.techmeme.com/251015/p46#a251015p46)
- - [The iPad just got the chip it needs to be a smart home controller — again](https://www.theverge.com/news/799911/ipad-pro-thread-smart-home-apple-home-hub)
- - [Sources: Anthropic is on track to meet an internal goal of $9B in annual revenue run rate by the end of 2025 and is targeting $20B to $26B for 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p45#a251015p45)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 16, #858](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-16-858/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 16 #592](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-16-592/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 16, #1580](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-16-1580/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

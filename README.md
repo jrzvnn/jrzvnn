@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Tron: Ares&#39; Ending Explained: Connecting to the Past and Setting Up the Future](https://www.cnet.com/tech/services-and-software/tron-ares-ending-explained-what-does-it-all-mean/#ftag=CAD590a51e)
+ - [The AI Industry&#39;s Scaling Obsession Is Headed for a Cliff](https://www.wired.com/story/the-ai-industrys-scaling-obsession-is-headed-for-a-cliff/)
+ - [Senate Democrats want to know: was YouTube’s Trump settlement a bribe?](https://www.theverge.com/policy/800193/google-youtube-senators-letter-warren-wyden-bribe)
  - [Sources: Anthropic held early funding talks this month with Abu Dhabi-based MGX, which it considers a prior investor, after closing a $13B Series F in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p44#a251015p44)
- - [Beyerdynamic&#39;s Amiron 300 Are Cheaper Than Ever](https://www.wired.com/story/beyerdynamic-amiron-300-deal-1025/)
- - [Apple TechWoven case review: Better than FineWoven, but not by much](https://appleinsider.com/articles/25/10/15/apple-techwoven-case-review-better-than-finewoven-but-not-by-much?utm_source=rss)
- - [Anthropic says Haiku 4.5 can serve as a subagent for Sonnet 4.5, which can break down problems into multistep plans and orchestrate a team of Haiku 4.5 agents &lpar;Anthropic&rpar;](http://www.techmeme.com/251015/p43#a251015p43)
- - [Insta360’s impressive X5 action cam has fallen to a new low price](https://www.theverge.com/tech/800000/insta360-x5-action-cam-marshall-emberton-ii-speaker-deal-sale)<!-- TECH:END -->
+ - [Beyerdynamic&#39;s Amiron 300 Are Cheaper Than Ever](https://www.wired.com/story/beyerdynamic-amiron-300-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

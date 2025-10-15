@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
  - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 😝 [Who read this is gay](http://9gag.com/gag/aXPG6r2)
+ - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
  - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
 
 ---

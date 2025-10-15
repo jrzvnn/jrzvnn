@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
  - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
- - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---
 

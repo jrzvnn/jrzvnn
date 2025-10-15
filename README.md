@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)
  - 😝 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)
- - 😝 [Uno reverse card](http://9gag.com/gag/aE0N5wG)
- - 💣 [Such well behaved cat.](http://9gag.com/gag/a9yN0NL)
- - 😝 [I also like to live dangerously](http://9gag.com/gag/a2vjXb9)
+ - 💣 [Uno reverse card](http://9gag.com/gag/aE0N5wG)
+ - 😝 [Such well behaved cat.](http://9gag.com/gag/a9yN0NL)
  - 👉 [Respect](http://9gag.com/gag/an7WwQ5)<!-- MEMES:END -->
 
 ---

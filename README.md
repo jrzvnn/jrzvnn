@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [10% Off Dell Coupon Codes | October 2025](https://www.wired.com/story/dell-coupon-code/)
  - [YouTube starts rolling out its redesigned video player, which features rounded, slightly translucent on-screen buttons, across mobile, web, and TV globally &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251015/p2#a251015p2)
  - [Squarespace Promo Codes: 10% Off | October 2025](https://www.wired.com/story/squarespace-promo-code/)
  - [Sources: OpenAI makes a five-year business plan to meet $1T+ spending pledges; it currently books ~$13B in ARR, 70% of which comes from consumers using ChatGPT &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p1#a251015p1)
- - [Coinbase invests in Indian crypto exchange CoinDCX to expand into India and the Middle East; CEO Sumit Gupta said the deal values CoinDCX at $2.45B post-money &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251014/p47#a251014p47)
- - [Reducto, which uses OCR with vision language models to convert complex documents into inputs for LLMs, raised a $75M Series B led by a16z at a $600M valuation &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251014/p46#a251014p46)<!-- TECH:END -->
+ - [Coinbase invests in Indian crypto exchange CoinDCX to expand into India and the Middle East; CEO Sumit Gupta said the deal values CoinDCX at $2.45B post-money &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251014/p47#a251014p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

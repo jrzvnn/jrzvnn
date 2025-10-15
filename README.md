@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Orange is seeking to raise €400M-€500M by selling a stake of as much as 50% in its data center business, including its major facility in Normandy &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p40#a251015p40)
- - [Logitech made an Apple Pencil-like stylus for the Vision Pro](https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability)
- - [X plans to show new info about accounts, including their creation date and which country they are based in, &quot;starting next week&quot; on select X employees&#39; profiles &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251015/p39#a251015p39)
- - [US bank Erebor, founded by Palmer Luckey, Joe Lonsdale, and others, wins conditional OCC approval to offer services to emerging tech companies in crypto and AI &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251015/p38#a251015p38)
- - [Meta announces a partnership with Arm to power AI ranking and recommendation systems across Meta&#39;s family of apps using Arm-based data center platforms &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251015/p37#a251015p37)<!-- TECH:END -->
+ - [Sources: Rakuten began considering a US IPO of its credit card business after SoftBank announced plans to launch an IPO for its mobile payment app PayPay &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p42#a251015p42)
+ - [Anthropic releases Claude Haiku 4.5, claiming it offers similar levels of coding performance to Sonnet 4 at &quot;one-third the cost and more than twice the speed&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251015/p41#a251015p41)
+ - [Anthropic Launches Smaller, Faster Claude Haiku 4.5 AI Model](https://www.cnet.com/tech/services-and-software/claudes-haiku-4-5-small-model-available-for-all-users/#ftag=CAD590a51e)
+ - [Sources: French telecom operator Orange is seeking to raise €400M-€500M by selling a stake of as much as 50% in its data center business &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p40#a251015p40)
+ - [Logitech made an Apple Pencil-like stylus for the Vision Pro](https://www.theverge.com/news/800108/apple-vision-pro-logitech-muse-pen-price-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

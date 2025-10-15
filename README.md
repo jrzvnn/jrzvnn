@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
  - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 💣 [Thank you!](http://9gag.com/gag/aND2MN3)
- - 😝 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
- - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
+ - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - 😝 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 👉 [What sound they just make at the end ?](http://9gag.com/gag/aND2bD4)<!-- MEMES:END -->
 
 ---
 

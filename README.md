@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 18 Pro cameras may take better shots with variable apertures](https://appleinsider.com/articles/25/10/15/iphone-18-pro-cameras-may-take-better-shots-with-variable-apertures?utm_source=rss)
  - [8 Best Pet Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-pet-cameras/)
  - [An investment consortium including BlackRock, Nvidia, xAI, and Microsoft plans to acquire Texas-based Aligned Data Centers from Macquarie in a $40B deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p19#a251015p19)
  - [US DHS: Chinese criminal organizations made $1B+ in the past three years via scam texts; Proofpoint: last month, a record 330K US toll-scam texts were reported &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251015/p18#a251015p18)
- - [A New Road Safety Group Targets Self-Driving Cars](https://www.wired.com/story/road-safety-group-save-us-targets-self-driving-cars/)
- - [How To Avoid Waking Up In the Middle Of the Night To Pee And Sleep Through The Night](https://www.cnet.com/health/sleep/is-waking-up-to-pee-ruining-your-sleep-heres-the-fix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A New Road Safety Group Targets Self-Driving Cars](https://www.wired.com/story/road-safety-group-save-us-targets-self-driving-cars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

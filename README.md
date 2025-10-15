@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kobo&amp;#8217;s new e-reader remote lets you turn the page with the press of a button](https://www.theverge.com/news/799990/kobo-e-reader-remote-launch-price-release-date)
- - [US cybersecurity company F5 discloses a cyberattack in August by suspected nation-state hackers that stole undisclosed BIG-IP vulnerabilities and source code &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251015/p32#a251015p32)
- - [Apple Vision Pro Dual Knit Band and more accessories hit Apple Store](https://appleinsider.com/articles/25/10/15/apple-vision-pro-dual-knit-band-and-more-accessories-hit-apple-store?utm_source=rss)
- - [Apple adds a black Magic Keyboard option for the iPad Air](https://appleinsider.com/articles/25/10/15/apple-adds-a-black-magic-keyboard-option-for-the-ipad-air?utm_source=rss)
- - [AppLovin shut down Array last quarter, calling it &quot;a test product&quot; that wasn&#39;t &quot;economically viable&quot;, after allegations it led to unwanted Android app installs &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p31#a251015p31)<!-- TECH:END -->
+ - [Meta adds group chats to Threads, allowing users to add up to 50 people who follow their Threads account, rolling out globally, excluding the UK and Australia &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251015/p33#a251015p33)
+ - [Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro with Its New M5 Chip](https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/)
+ - [Practical Gift Ideas for New Parents and Their Babies &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-new-parents-2025/)
+ - [Federal Workers Are Being Used as Pawns in the Shutdown](https://www.wired.com/story/federal-workers-are-being-used-as-pawns-in-the-shutdown/)
+ - [Threads now has group chats](https://www.theverge.com/news/799943/meta-threads-group-chat-messaging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

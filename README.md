@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your movie bombs even worse than Morbius](http://9gag.com/gag/awyGj3Q)
- - 😝 [Moms always care about their sons, they also check their sons&#39; room in the college to make sure the room is tidy and clean](http://9gag.com/gag/apRjXVM)
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [F**king DUH](http://9gag.com/gag/aLnNoYA)
+ - 😝 [Handled like a real gentlemen.](http://9gag.com/gag/a2vjgRw)
+ - 💣 [Just ignore the warnings, it will be fine](http://9gag.com/gag/a5Qy3Pg)
  - 😝 [Negan makes Halloween in World of Tanks Blitz scarier. \ud83d\udc7b](http://9gag.com/gag/azxDywx)
- - 👉 [Some heroes wear capes, others wear firefighter gear. What an incredible story](http://9gag.com/gag/amobZvd)<!-- MEMES:END -->
+ - 👉 [Now that&#39;s a motherf**ker &lpar;YT: AGC Andy&rpar;](http://9gag.com/gag/aQzNbe2)<!-- MEMES:END -->
 
 ---
 

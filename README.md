@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Anthropic held early funding talks this month with Abu Dhabi-based MGX, which it considers a prior investor, after closing a $13B Series F in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p44#a251015p44)
+ - [Beyerdynamic&#39;s Amiron 300 Are Cheaper Than Ever](https://www.wired.com/story/beyerdynamic-amiron-300-deal-1025/)
  - [Apple TechWoven case review: Better than FineWoven, but not by much](https://appleinsider.com/articles/25/10/15/apple-techwoven-case-review-better-than-finewoven-but-not-by-much?utm_source=rss)
  - [Anthropic says Haiku 4.5 can serve as a subagent for Sonnet 4.5, which can break down problems into multistep plans and orchestrate a team of Haiku 4.5 agents &lpar;Anthropic&rpar;](http://www.techmeme.com/251015/p43#a251015p43)
- - [Insta360’s impressive X5 action cam has fallen to a new low price](https://www.theverge.com/tech/800000/insta360-x5-action-cam-marshall-emberton-ii-speaker-deal-sale)
- - [Sources: Rakuten began considering a US IPO of its credit card business after SoftBank announced plans to launch an IPO for its mobile payment app PayPay &lpar;Reuters&rpar;](http://www.techmeme.com/251015/p42#a251015p42)
- - [Anthropic releases Claude Haiku 4.5, claiming it offers similar levels of coding performance to Sonnet 4 at &quot;one-third the cost and more than twice the speed&quot; &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251015/p41#a251015p41)<!-- TECH:END -->
+ - [Insta360’s impressive X5 action cam has fallen to a new low price](https://www.theverge.com/tech/800000/insta360-x5-action-cam-marshall-emberton-ii-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investment consortium including BlackRock, Nvidia, xAI, and Microsoft plans to acquire Texas-based Aligned Data Centers from Macquarie in a $40B deal &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p19#a251015p19)
  - [US DHS: Chinese criminal organizations made $1B+ in the past three years via scam texts; Proofpoint: last month, a record 330K US toll-scam texts were reported &lpar;Robert McMillan/Wall Street Journal&rpar;](http://www.techmeme.com/251015/p18#a251015p18)
  - [A New Road Safety Group Targets Self-Driving Cars](https://www.wired.com/story/road-safety-group-save-us-targets-self-driving-cars/)
- - [The government shutdown is strangling aviation](https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown)
- - [An internal Google email said it received many complaints over Israeli government YouTube ads about food access in Gaza, but ruled the ads could remain online &lpar;Washington Post&rpar;](http://www.techmeme.com/251015/p17#a251015p17)
- - [ASML CFO Roger Dassen says the company is &quot;well prepared&quot; for China&#39;s curbs on exports of rare earths; a source says ASML could face weeks-long shipment delays &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p16#a251015p16)<!-- TECH:END -->
+ - [How To Avoid Waking Up In the Middle Of the Night To Pee And Sleep Through The Night](https://www.cnet.com/health/sleep/is-waking-up-to-pee-ruining-your-sleep-heres-the-fix/#ftag=CAD590a51e)
+ - [The government shutdown is strangling aviation](https://www.theverge.com/transportation/799413/faa-air-travel-delays-government-shutdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

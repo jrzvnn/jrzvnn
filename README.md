@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Sony, Bose, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)
  - [Meta adds group chats to Threads, allowing users to add up to 50 people who follow their Threads account, rolling out globally, excluding the UK and Australia &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251015/p33#a251015p33)
  - [Apple Just Upgraded the iPad Pro, MacBook Pro, and Vision Pro with Its New M5 Chip](https://www.wired.com/story/apple-m5-powered-ipad-pro-macbook-pro-vision-pro-october-2025/)
  - [Practical Gift Ideas for New Parents and Their Babies &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-new-parents-2025/)
- - [Federal Workers Are Being Used as Pawns in the Shutdown](https://www.wired.com/story/federal-workers-are-being-used-as-pawns-in-the-shutdown/)
- - [Threads now has group chats](https://www.theverge.com/news/799943/meta-threads-group-chat-messaging)<!-- TECH:END -->
+ - [Federal Workers Are Being Used as Pawns in the Shutdown](https://www.wired.com/story/federal-workers-are-being-used-as-pawns-in-the-shutdown/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

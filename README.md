@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad Pro arrives with M5 speed, Wi-Fi 7, and Apple&#39;s C1X modem](https://appleinsider.com/articles/25/10/15/new-ipad-pro-arrives-with-m5-speed-wi-fi-7-and-apples-c1x-modem?utm_source=rss)
- - [Apple debuts its M5 chip, with a 10-core GPU, a Neural Accelerator in each core, enabling 4x+ the performance of M4, and a 10-core CPU with six efficiency cores &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251015/p24#a251015p24)
- - [Apple updates the Vision Pro with an M5 chip, rendering 10% more pixels, and a Dual Knit Band for a more comfortable fit, available on October 22 for $3,499+ &lpar;Apple&rpar;](http://www.techmeme.com/251015/p23#a251015p23)
- - [Apple updates the iPad Pro with an M5 chip, its new C1X cellular modem, and N1 chip, for $999+ for the 11-inch and $1,299+ for the 13-inch, shipping October 22 &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251015/p22#a251015p22)
- - [Apple unveils a 14-inch MacBook Pro with an M5 chip, up to 3.5x more performance for AI workflows, and faster storage, for the same $1,599+, shipping October 22 &lpar;Apple&rpar;](http://www.techmeme.com/251015/p21#a251015p21)<!-- TECH:END -->
+ - [Apple Vision Pro gets spec bump to M5 for enhanced spatial computing](https://appleinsider.com/articles/25/10/15/apple-vision-pro-gets-spec-bump-to-m5-for-enhanced-spatial-computing?utm_source=rss)
+ - [Prepaid Phone Plans: Everything You Need to Know About MVNOs](https://www.wired.com/story/prepaid-phone-plans-and-mvnos/)
+ - [ROG Xbox Ally X review: great performance and grips, silent cooling, good 120Hz display, and USB-C, but Windows optimization isn&#39;t great and poor battery life &lpar;Rebecca Spear/Windows Central&rpar;](http://www.techmeme.com/251015/p26#a251015p26)
+ - [14-inch M5 MacBook Pro is here without Pro and Max versions](https://appleinsider.com/articles/25/10/15/14-inch-m5-macbook-pro-is-here-without-pro-and-max-versions?utm_source=rss)
+ - [ROG Xbox Ally review: great grips, good speakers, and Windows is easier to control with joysticks, but worse performance than the Steam Deck and unintuitive UI &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251015/p25#a251015p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

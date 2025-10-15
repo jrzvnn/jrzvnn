@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10% Off Dell Coupon Codes | October 2025](https://www.wired.com/story/dell-coupon-code/)
- - [YouTube starts rolling out its redesigned video player, which features rounded, slightly translucent on-screen buttons, across mobile, web, and TV globally &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251015/p2#a251015p2)
- - [Squarespace Promo Codes: 10% Off | October 2025](https://www.wired.com/story/squarespace-promo-code/)
- - [Sources: OpenAI makes a five-year business plan to meet $1T+ spending pledges; it currently books ~$13B in ARR, 70% of which comes from consumers using ChatGPT &lpar;Financial Times&rpar;](http://www.techmeme.com/251015/p1#a251015p1)
- - [Coinbase invests in Indian crypto exchange CoinDCX to expand into India and the Middle East; CEO Sumit Gupta said the deal values CoinDCX at $2.45B post-money &lpar;Danny Park/The Block&rpar;](http://www.techmeme.com/251014/p47#a251014p47)<!-- TECH:END -->
+ - [SEC filing: Jeff Bezos discloses that he now owns 9% of Amazon&#39;s shares, down from 10.1% a year ago, after selling 100M+ shares over the course of the past year &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251015/p6#a251015p6)
+ - [Stripe&#39;s stablecoin arm, Bridge, applied for a US national trust bank charter, joining Circle, Paxos, Ripple, and Coinbase in seeking federal oversight &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/251015/p5#a251015p5)
+ - [ASML reports Q3 net bookings of €5.4B, v. €4.9B est., as the AI spending boom boosts demand for its EUV machines to produce the most sophisticated AI chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p4#a251015p4)
+ - [ASML reports Q3 net sales of €7.5B, v. €7.7B est., and €2.12B net profit, v. €2.11B est., warning that it expects China sales to decline &quot;significantly&quot; in 2026 &lpar;April Roach/CNBC&rpar;](http://www.techmeme.com/251015/p3#a251015p3)
+ - [10% Off Dell Coupon Codes | October 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 💣 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
- - 😝 [True signs of a fire Chinese spot. You just know it hits different](http://9gag.com/gag/a9yNgo0)
- - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
+ - 😝 [Look at them](http://9gag.com/gag/aLnN7Vg)
+ - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 💣 [The revolt against `influencers`. Shout-out to Patisseire Francaise.](http://9gag.com/gag/a5Qy0Yo)
+ - 😝 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
+ - 👉 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)<!-- MEMES:END -->
 
 ---
 

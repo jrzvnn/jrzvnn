@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [Dags](http://9gag.com/gag/agmZDPW)
- - 👉 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)<!-- MEMES:END -->
+ - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
+ - 😝 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 👉 [Gravity always wins](http://9gag.com/gag/ajPMeo1)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify partners with Sony Music Group, WMG, UMG, Merlin, and Believe to develop &quot;responsible&quot; AI products and is building a generative AI research lab &lpar;Steven J. Horowitz/Variety&rpar;](http://www.techmeme.com/251016/p28#a251016p28)
- - [The DIY and IRL energy of punk rock mutual aid](https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral)
- - [Yamaha True X Surround 90a Review: Not Quite Perfect](https://www.wired.com/review/yamaha-true-x-surround-90a/)
- - [Apple Watch Series 11 review: If it ain&#39;t broke...](https://appleinsider.com/articles/25/10/16/apple-watch-series-11-review-if-it-aint-broke?utm_source=rss)
- - [Browser Fingerprinting: What Your Browser Is Telling Everyone About You](https://www.wired.com/story/what-is-browser-fingerprinting/)<!-- TECH:END -->
+ - [Trans women are building their own publishing world, and it&amp;#8217;s under threat](https://www.theverge.com/cs/features/799836/trans-indie-authors-self-publishing-queer-fiction)
+ - [Microsoft wants you to talk to your PC and let AI control it](https://www.theverge.com/news/799768/microsoft-windows-ai-copilot-voice-vision-launch)
+ - [DoorDash will use Waymo’s robotaxis for delivery in Phoenix](https://www.theverge.com/news/800455/waymo-doordash-autonomous-food-delivery-phoenix)
+ - [Oppo Find X9 Pro combines 200MP telephoto with 7,500mAh battery](https://www.theverge.com/news/800600/oppo-find-x9-pro-launch-china-telephoto-extender)
+ - [Honda wants you to teach its new robot lawnmower](https://www.theverge.com/news/800596/honda-prozision-autonomous-lawnmower)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

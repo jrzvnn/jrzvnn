@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Upgrade, which offers online loans and other financial services, raised $165M led by Neuberger Berman at a $7.3B valuation and is &quot;12 to 18 months&quot; from an IPO &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251016/p27#a251016p27)
  - [The US FCC announces proceedings to potentially bar Hong Kong telecom HKT and its subsidiaries from accessing domestic US networks, citing its ties to China &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251016/p26#a251016p26)
  - [Proton Mail Review &lpar;2025&rpar;: The Email Service You Didn’t Know You Needed](https://www.wired.com/review/proton-mail/)
  - [Browser Fingerprinting: What Your Browser Is Telling Everyone About You](https://www.wired.com/story/what-is-browser-fingerprinting/)
- - [Spit On, Sworn At, and Undeterred: What It’s Like to Own a Cybertruck](https://www.wired.com/story/owning-a-cybertruck/)
- - [Better Payment Network, a BNB Chain-based cross-border stablecoin payments network, raised a $50M seed led by YZi Labs, formerly known as Binance Labs &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251016/p25#a251016p25)<!-- TECH:END -->
+ - [Spit On, Sworn At, and Undeterred: What It’s Like to Own a Cybertruck](https://www.wired.com/story/owning-a-cybertruck/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
  - 😝 [Look at them](http://9gag.com/gag/aLnN7Vg)
  - 👉 [Another one sees the end](http://9gag.com/gag/aMVNMBM)<!-- MEMES:END -->
 

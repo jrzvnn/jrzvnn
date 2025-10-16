@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [Finally, a solution for my lazy binge-watching](http://9gag.com/gag/a7o6X72)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
  - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 😝 [True signs of a fire Chinese spot. You just know it hits different](http://9gag.com/gag/a9yNgo0)
  - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---

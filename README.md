@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Better Payment Network, a BNB Chain-based cross-border stablecoin payments network, raised a $50M seed led by YZi Labs, formerly known as Binance Labs &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251016/p25#a251016p25)
  - [Sources: a ransomware attack is disrupting US state and local borrowers&#39; ability to post debt documents on the $4.3T municipal bond market&#39;s MuniOS platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p24#a251016p24)
  - [Best Gifts for Babies and Toddlers, Tested and Approved by Our Own Kids](https://www.wired.com/gallery/best-baby-and-toddler-gifts/)
  - [London-based Jack &amp; Jill, which develops conversational AI agents to streamline hiring, raised a $20M seed led by Creandum to expand into Europe and the US &lpar;Martin Coulter/Sifted&rpar;](http://www.techmeme.com/251016/p23#a251016p23)
- - [Bengaluru-based quick grocery delivery startup Zepto raised $450M from Goodwater, General Catalyst, and others at a $7B valuation, as it prepares for an IPO &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/251016/p22#a251016p22)
- - [HR software startup Deel raised $300M led by Ribbit Capital at a $17B valuation, up from $12.6B earlier in 2025, and says revenue crossed $100M in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p21#a251016p21)<!-- TECH:END -->
+ - [Bengaluru-based quick grocery delivery startup Zepto raised $450M from Goodwater, General Catalyst, and others at a $7B valuation, as it prepares for an IPO &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/251016/p22#a251016p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 💣 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)
+ - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - 😝 [True signs of a fire Chinese spot. You just know it hits different](http://9gag.com/gag/a9yNgo0)
  - 👉 [Another one sees the end](http://9gag.com/gag/aMVNMBM)<!-- MEMES:END -->
 
 ---

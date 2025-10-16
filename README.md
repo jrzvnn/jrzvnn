@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
- - 😝 [Someone needs to stop giving advice](http://9gag.com/gag/aRBNqbB)
- - 💣 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)
- - 😝 [If this video doesnt make you happy, I dont know what will](http://9gag.com/gag/a1mq3jv)
- - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
+ - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 

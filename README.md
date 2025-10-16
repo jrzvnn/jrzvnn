@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s research explains how AI can identify bugs in code and generate QE tests](https://appleinsider.com/articles/25/10/16/apples-research-explains-how-ai-can-identify-bugs-in-code-and-generate-qe-tests?utm_source=rss)
  - [Sources: CME Group plans to debut financial contracts tied to sports games and economic indicators by the end of 2025, including through its FanDuel partnership &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p49#a251016p49)
  - [Amazon shares a ‘first look’ at new nuclear facility](https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look)
  - [Apple SVP Eddy Cue wants to reinvent sports streaming, says it is broken for fans](https://appleinsider.com/articles/25/10/16/apple-svp-eddy-cue-wants-to-reinvent-sports-streaming-says-it-is-broken-for-fans?utm_source=rss)
- - [My All-Time Favorite Horror Movie Is on Peacock, and It&#39;s 100 Minutes of Zombie Fun](https://www.cnet.com/tech/services-and-software/my-all-time-favorite-horror-movie-is-on-peacock-and-its-100-minutes-of-zombie-fun/#ftag=CAD590a51e)
- - [The Best iPhone 17 Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-17-cases-for-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My All-Time Favorite Horror Movie Is on Peacock, and It&#39;s 100 Minutes of Zombie Fun](https://www.cnet.com/tech/services-and-software/my-all-time-favorite-horror-movie-is-on-peacock-and-its-100-minutes-of-zombie-fun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

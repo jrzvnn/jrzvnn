@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google pitches Workspace tools for &amp;#8216;when, not if&amp;#8217; Microsoft 365 fails](https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing)
  - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)
  - [General Intuition, which trains AI agents in spatial reasoning using Medal.tv game clips, raised a $133.7M seed led by Khosla Ventures and General Catalyst &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251016/p33#a251016p33)
  - [Casio goes back to the ‘80s for its Back to the Future calculator watch](https://www.theverge.com/news/800797/casio-back-to-the-future-calculator-watch-flux-capacitor)
- - [Ugreen’s 8-port Thunderbolt 4 hub is $80 off](https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale)
- - [OpenAI hires black hole physicist Alex Lupsasca, the first person to join the OpenAI for Science initiative led by Kevin Weil &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251016/p32#a251016p32)<!-- TECH:END -->
+ - [Ugreen’s 8-port Thunderbolt 4 hub is $80 off](https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

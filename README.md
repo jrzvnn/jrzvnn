@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
- - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
- - 💣 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
  - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 💣 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - 😝 [True signs of a fire Chinese spot. You just know it hits different](http://9gag.com/gag/a9yNgo0)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 

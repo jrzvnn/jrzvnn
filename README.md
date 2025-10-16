@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and NBCUniversal announce an Apple TV and Peacock Premium bundle for $14.99 per month, a 30% discount over the individual subscriptions &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p43#a251016p43)
- - [Apple TV and Peacock announce a discounted $15 monthly subscription bundle](https://www.theverge.com/news/800928/apple-tv-peacock-premium-plus-nbcuniversal-subscription-bundle)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Coinbase launches Coinbase Business, a stablecoin payment platform to let businesses send and receive USDC; Coinbase shares USDC yield revenue 50/50 with Circle &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/251016/p42#a251016p42)
- - [Apple leads global brands again while other companies chase shiny AI dreams](https://appleinsider.com/articles/25/10/16/apple-leads-global-brands-again-while-other-companies-chase-shiny-ai-dreams?utm_source=rss)<!-- TECH:END -->
+ - [Email: Ron Conway, a close friend of Marc Benioff for 25+ years, stepped down from the Salesforce Foundation board, citing Benioff&#39;s comments supporting Trump &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251016/p44#a251016p44)
+ - [Fujifilm redesigned its Instax Mini LiPlay for snapping selfies](https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies)
+ - [Pinterest&amp;#8217;s &amp;#8216;tuner&amp;#8217; lets you dial down the amount of AI content — but not entirely](https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories)
+ - [Is Tim Cook Stepping Down? Apple CEO&#39;s Upcoming 65th Birthday Sparks Succession Talk](https://www.cnet.com/tech/mobile/is-tim-cook-stepping-down-apple-ceos-upcoming-65th-birthday-sparks-succession-talk/#ftag=CAD590a51e)
+ - [Apple and NBCUniversal announce an Apple TV and Peacock Premium bundle for $14.99 per month, a 30% discount over the individual subscriptions &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p43#a251016p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

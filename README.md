@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Coinbase launches Coinbase Business, a stablecoin payment platform to let businesses send and receive USDC; Coinbase shares USDC yield revenue 50/50 with Circle &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/251016/p42#a251016p42)
  - [Apple leads global brands again while other companies chase shiny AI dreams](https://appleinsider.com/articles/25/10/16/apple-leads-global-brands-again-while-other-companies-chase-shiny-ai-dreams?utm_source=rss)
  - [Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide](https://www.wired.com/story/niantic-peridot-augmented-reality-snap-spectacles/)
- - [Sources: OpenAI is proposing a &quot;sign in with ChatGPT&quot; feature for websites, letting startups charge OpenAI model usage costs to users&#39; ChatGPT capacity limits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251016/p41#a251016p41)
- - [New Apple TV and Peacock streaming bundles could save you over 30%](https://appleinsider.com/articles/25/10/16/new-apple-tv-and-peacock-streaming-bundles-could-save-you-over-30?utm_source=rss)<!-- TECH:END -->
+ - [Sources: OpenAI is proposing a &quot;sign in with ChatGPT&quot; feature for websites, letting startups charge OpenAI model usage costs to users&#39; ChatGPT capacity limits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251016/p41#a251016p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

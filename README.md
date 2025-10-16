@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How AI-powered tools like PainChek, an app that scans a person&#39;s face for tiny muscle movements, are helping healthcare providers better assess patients&#39; pain &lpar;Deena Mousa/MIT Technology Review&rpar;](http://www.techmeme.com/251016/p15#a251016p15)
+ - [A look at efforts in Sweden to make its banking systems and payment networks resilient to hybrid warfare attacks; 90% of Sweden&#39;s transactions are digital &lpar;Evelina Youcefi/Bloomberg&rpar;](http://www.techmeme.com/251016/p14#a251016p14)
+ - [Microsoft is reportedly moving its Surface manufacturing out of China](https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report)
  - [An interview with YouTube CEO Neal Mohan on YouTube as the future of TV, paying out $100B+ to creators, partnering with the NFL, scripted content, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p13#a251016p13)
- - [How facial recognition software rejects people with facial differences, who number an estimated 100M+ worldwide, blocking them from accessing essential services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/251016/p12#a251016p12)
- - [From Snake Oil to Wellness Influencers: The Rise and Rise of Health Misinformation](https://www.cnet.com/health/features/snake-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)
- - [Analysis: ten loss-making AI startups, including OpenAI, gained ~$1T in valuation over the past year, fueling concerns of an inflating bubble in private markets &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p11#a251016p11)
- - [GiveDirectly plans to pilot a program using Google&#39;s AI-based Flood Hub, which provides forecast warnings, to send early aid to at-risk families in Bangladesh &lpar;Rest of World&rpar;](http://www.techmeme.com/251016/p10#a251016p10)<!-- TECH:END -->
+ - [How facial recognition software rejects people with facial differences, who number an estimated 100M+ worldwide, blocking them from accessing essential services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/251016/p12#a251016p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

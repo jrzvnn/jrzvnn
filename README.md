@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
  - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
- - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
+ - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
 
 ---
 

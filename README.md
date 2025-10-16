@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is proposing a &quot;sign in with ChatGPT&quot; feature for websites, letting startups charge OpenAI model usage costs to users&#39; ChatGPT capacity limits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251016/p41#a251016p41)
+ - [New Apple TV and Peacock streaming bundles could save you over 30%](https://appleinsider.com/articles/25/10/16/new-apple-tv-and-peacock-streaming-bundles-could-save-you-over-30?utm_source=rss)
  - [Anthropic announces Skills for Claude, a tool with folders of instructions, scripts, and resources that Claude can load to improve performance on some tasks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251016/p40#a251016p40)
  - [How ByteDance Made China’s Most Popular AI Chatbot](https://www.wired.com/story/bytedance-doubao-chatbot-popularity/)
- - [Best Coolers of 2025: After Testing 12 New Coolers, Here&#39;s Are the 6 I Recommend](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)
- - [a16z Crypto invests $50M in Solana infrastructure provider Jito through a private token sale, likely one of a16z&#39;s largest crypto investments in recent years &lpar;Daniel Kuhn/The Block&rpar;](http://www.techmeme.com/251016/p39#a251016p39)
- - [You Can Now Give Anthropic&#39;s Claude AI Particular Skills to Automate Your Tasks](https://www.cnet.com/tech/services-and-software/you-can-now-give-anthropics-claude-ai-particular-skills-to-automate-your-tasks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Coolers of 2025: After Testing 12 New Coolers, Here&#39;s Are the 6 I Recommend](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

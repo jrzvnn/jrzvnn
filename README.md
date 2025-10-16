@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [European mind cannot comprehend this](http://9gag.com/gag/aPAdbyQ)
- - 😝 [If this video doesnt make you happy, I dont know what will](http://9gag.com/gag/a1mq3jv)
- - 💣 [A rational decision. Common sense is kicking in.](http://9gag.com/gag/amobez2)
- - 😝 [What is common sense?](http://9gag.com/gag/awyGWvx)
- - 👉 [Smile and wave boys](http://9gag.com/gag/aQzNWez)<!-- MEMES:END -->
+ - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
+ - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
+ - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 😝 [Time to get the drill](http://9gag.com/gag/aryrQ07)
+ - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
 
 ---
 

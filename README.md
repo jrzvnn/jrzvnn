@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with YouTube CEO Neal Mohan on YouTube as the future of TV, paying out $100B+ to creators, partnering with the NFL, scripted content, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p13#a251016p13)
  - [How facial recognition software rejects people with facial differences, who number an estimated 100M+ worldwide, blocking them from accessing essential services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/251016/p12#a251016p12)
  - [From Snake Oil to Wellness Influencers: The Rise and Rise of Health Misinformation](https://www.cnet.com/health/features/snake-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)
  - [Analysis: ten loss-making AI startups, including OpenAI, gained ~$1T in valuation over the past year, fueling concerns of an inflating bubble in private markets &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p11#a251016p11)
- - [GiveDirectly plans to pilot a program using Google&#39;s AI-based Flood Hub, which provides forecast warnings, to send early aid to at-risk families in Bangladesh &lpar;Rest of World&rpar;](http://www.techmeme.com/251016/p10#a251016p10)
- - [How OpenSea reinvented itself from an NFT marketplace to a crypto trading aggregator, facilitating $1.6B in trades in the first two weeks of October &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/251016/p9#a251016p9)<!-- TECH:END -->
+ - [GiveDirectly plans to pilot a program using Google&#39;s AI-based Flood Hub, which provides forecast warnings, to send early aid to at-risk families in Bangladesh &lpar;Rest of World&rpar;](http://www.techmeme.com/251016/p10#a251016p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

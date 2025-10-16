@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Email: Ron Conway, a close friend of Marc Benioff for 25+ years, stepped down from the Salesforce Foundation board, citing Benioff&#39;s comments supporting Trump &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251016/p44#a251016p44)
- - [Fujifilm redesigned its Instax Mini LiPlay for snapping selfies](https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies)
+ - [Fujifilm&amp;#8217;s bringing instant cameras into the selfie age](https://www.theverge.com/news/801098/fujifilm-instax-mini-liplay-plus-instant-camera-selfies)
  - [Pinterest&amp;#8217;s &amp;#8216;tuner&amp;#8217; lets you dial down the amount of AI content — but not entirely](https://www.theverge.com/news/801093/pinterest-tuner-tool-ai-content-categories)
  - [Is Tim Cook Stepping Down? Apple CEO&#39;s Upcoming 65th Birthday Sparks Succession Talk](https://www.cnet.com/tech/mobile/is-tim-cook-stepping-down-apple-ceos-upcoming-65th-birthday-sparks-succession-talk/#ftag=CAD590a51e)
  - [Apple and NBCUniversal announce an Apple TV and Peacock Premium bundle for $14.99 per month, a 30% discount over the individual subscriptions &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p43#a251016p43)<!-- TECH:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trans women are building their own publishing world, and it&amp;#8217;s under threat](https://www.theverge.com/cs/features/799836/trans-indie-authors-self-publishing-queer-fiction)
- - [Microsoft wants you to talk to your PC and let AI control it](https://www.theverge.com/news/799768/microsoft-windows-ai-copilot-voice-vision-launch)
- - [DoorDash will use Waymo’s robotaxis for delivery in Phoenix](https://www.theverge.com/news/800455/waymo-doordash-autonomous-food-delivery-phoenix)
- - [Oppo Find X9 Pro combines 200MP telephoto with 7,500mAh battery](https://www.theverge.com/news/800600/oppo-find-x9-pro-launch-china-telephoto-extender)
- - [Honda wants you to teach its new robot lawnmower](https://www.theverge.com/news/800596/honda-prozision-autonomous-lawnmower)<!-- TECH:END -->
+ - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
+ - [Netflix’s Frankenstein jolts the classic tale with del Toro’s signature flair](https://www.theverge.com/entertainment/800374/frankenstein-review-netflix-guillermo-del-toro)
+ - [Spotify says it&amp;#8217;s working with labels on &amp;#8216;responsible&amp;#8217; AI music tools](https://www.theverge.com/news/800629/spotify-ai-music-sony-umg-wmg-merlin)
+ - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/16/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)
+ - [Microsoft launches new Windows features to help weave AI into regular Windows 11 PCs, including rolling out a &quot;Hey, Copilot!&quot; wake word and Copilot Vision &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251016/p30#a251016p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

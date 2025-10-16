@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
- - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
+ - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---
 

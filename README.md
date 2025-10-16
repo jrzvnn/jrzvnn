@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber is turning its app into an AI training ground](https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app)
  - [Uber plans to launch data labelling tasks in the US for some drivers to earn extra money, appearing under &quot;digital tasks&quot; in the driver app, later this fall &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251016/p31#a251016p31)
- - [24 Best Wireless Chargers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-wireless-chargers/)
  - [Netflix’s Frankenstein jolts the classic tale with del Toro’s signature flair](https://www.theverge.com/entertainment/800374/frankenstein-review-netflix-guillermo-del-toro)
  - [Spotify says it&amp;#8217;s working with labels on &amp;#8216;responsible&amp;#8217; AI music tools](https://www.theverge.com/news/800629/spotify-ai-music-sony-umg-wmg-merlin)
  - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/16/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)<!-- TECH:END -->

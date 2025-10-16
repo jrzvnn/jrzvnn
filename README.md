@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese chip material maker Tekscend rose 13% on its Tokyo debut after raising $1B in its IPO; Tekscend makes photomasks to transfer tiny circuits onto wafers &lpar;Yasutaka Tamura/Bloomberg&rpar;](http://www.techmeme.com/251016/p18#a251016p18)
- - [Indian startup Kuku, which offers audio content and vertical dramas, raised an $85M Series C led by Granite at a $500M valuation and has 10M+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251016/p17#a251016p17)
- - [Kraken acquires Small Exchange, a US-licensed futures exchange, from the IG Group, for $32.5M in cash and $67.5M in Kraken parent&#39;s Payward stock &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251016/p16#a251016p16)
- - [How AI-powered tools like PainChek, an app that scans a person&#39;s face for tiny muscle movements, are helping healthcare providers better assess patients&#39; pain &lpar;Deena Mousa/MIT Technology Review&rpar;](http://www.techmeme.com/251016/p15#a251016p15)
- - [A look at efforts in Sweden to make its banking systems and payment networks resilient to hybrid warfare attacks; 90% of Sweden&#39;s transactions are digital &lpar;Evelina Youcefi/Bloomberg&rpar;](http://www.techmeme.com/251016/p14#a251016p14)<!-- TECH:END -->
+ - [Bengaluru-based quick grocery delivery startup Zepto raised $450M from Goodwater, General Catalyst, and others at a $7B valuation, as it prepares for an IPO &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/251016/p22#a251016p22)
+ - [HR software startup Deel raised $300M led by Ribbit Capital at a $17B valuation, up from $12.6B earlier in 2025, and says revenue crossed $100M in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p21#a251016p21)
+ - [The EU&#39;s aim to triple AI data center capacity over the next five to seven years sparks water scarcity concerns, especially in water-stressed Southern Europe &lpar;CNBC&rpar;](http://www.techmeme.com/251016/p20#a251016p20)
+ - [Steve Jobs will appear on commemorative $1 coin](https://www.theverge.com/news/800548/steve-jobs-commemorative-dollar-coin-us-mint)
+ - [Court hearing: UK prosecutors aim to confiscate ~$6.8B in bitcoin tied to a massive 2017 fraud in China and to pay back Chinese investors that were its victims &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/251016/p19#a251016p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

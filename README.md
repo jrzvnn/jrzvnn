@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google pitches Workspace tools for &amp;#8216;when, not if&amp;#8217; Microsoft 365 fails](https://www.theverge.com/news/800829/google-workspace-microsoft-365-tools-outage-marketing)
- - [The Best Cat Toys for Your Furry Friend &lpar;2025&rpar;](https://www.wired.com/story/best-cat-toys/)
- - [General Intuition, which trains AI agents in spatial reasoning using Medal.tv game clips, raised a $133.7M seed led by Khosla Ventures and General Catalyst &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251016/p33#a251016p33)
- - [Casio goes back to the ‘80s for its Back to the Future calculator watch](https://www.theverge.com/news/800797/casio-back-to-the-future-calculator-watch-flux-capacitor)
- - [Ugreen’s 8-port Thunderbolt 4 hub is $80 off](https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale)<!-- TECH:END -->
+ - [OnePlus’ OxygenOS 16 brings Gemini into your Mind Space](https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space)
+ - [Commonwealth Fusion Systems partners with Google DeepMind to use Google&#39;s open-source plasma simulator, TORAX, for accelerating fusion energy development &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251016/p34#a251016p34)
+ - [Crafted in a Mercedes: Dolby, Universal Music Group and Merc Make Unlikely Audio Partnership](https://www.cnet.com/tech/home-entertainment/crafted-in-a-mercedes-dolby-universal-music-group-and-merc-enter-unlikely-audio-partnership/#ftag=CAD590a51e)
+ - [Spellcasters Chronicles Boldly Aims to Blend Competition With Narrative](https://www.cnet.com/tech/gaming/spellcasters-chronicles-boldly-aims-to-blend-competition-with-narrative/#ftag=CAD590a51e)
+ - [How to Use Satellite Communications on the Garmin Fenix 8 Pro](https://www.wired.com/story/how-to-use-satcomms-garmin-fenix-8-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

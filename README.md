@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AI team loses another executive to Meta](https://appleinsider.com/articles/25/10/15/apple-ai-team-loses-another-executive-to-meta?utm_source=rss)
- - [Sources: Apple executive Ke Yang, who was appointed just weeks ago as head of a team developing AI-driven web search for Siri, is leaving for Meta &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251015/p54#a251015p54)
- - [Honor unveils its flagships Magic8, with a 7,000mAh battery, and Magic8 Pro, with 7,200mAh, both featuring an AI button, launching in China for ~$630 and ~$800 &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p53#a251015p53)
- - [Motorola Joins the Thin Phone Trend With the X70 Air](https://www.cnet.com/tech/mobile/motorola-joins-the-thin-phone-trend-with-the-x70-air/#ftag=CAD590a51e)
- - [Honor teases the &quot;Robot Phone&quot;, with an AI-enabled, gimbal-mounted camera that unfolds from the phone&#39;s rear and can capture photos and video in any direction &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251015/p52#a251015p52)<!-- TECH:END -->
+ - [Documents: Rhoda AI, which raised a $162.6M Series A in April, and Genesis AI, which raised a $105M seed earlier this year, have been developing humanoid robots &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251015/p56#a251015p56)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Salesforce says it expects FY 2030 revenue of $60B+, vs. $58.37B est., excluding impact from the $8B pending acquisition of data management company Informatica &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251015/p55#a251015p55)
+ - [DirecTV Customers Will Soon See Their Own Faces in AI-Generated TV Ads](https://www.cnet.com/tech/services-and-software/directv-customers-will-soon-see-their-own-faces-in-ai-generated-tv-ads/#ftag=CAD590a51e)
+ - [Apple AI team loses another executive to Meta](https://appleinsider.com/articles/25/10/15/apple-ai-team-loses-another-executive-to-meta?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

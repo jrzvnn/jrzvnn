@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 💣 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
- - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
+ - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 😝 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
+ - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---
 

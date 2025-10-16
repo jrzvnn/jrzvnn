@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Look at them](http://9gag.com/gag/aLnN7Vg)
- - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 😝 [Someone needs to stop giving advice](http://9gag.com/gag/aRBNqbB)
  - 💣 [The revolt against `influencers`. Shout-out to Patisseire Francaise.](http://9gag.com/gag/a5Qy0Yo)
  - 😝 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
  - 👉 [The Art of Crafting a Wagon by Hand.](http://9gag.com/gag/a4PrOP6)<!-- MEMES:END -->

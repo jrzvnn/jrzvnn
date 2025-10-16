@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber is turning its app into an AI training ground](https://www.theverge.com/news/799975/uber-ai-training-digital-task-driver-app)
- - [Uber plans to launch data labelling tasks in the US for some drivers to earn extra money, appearing under &quot;digital tasks&quot; in the driver app, later this fall &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251016/p31#a251016p31)
- - [Netflix’s Frankenstein jolts the classic tale with del Toro’s signature flair](https://www.theverge.com/entertainment/800374/frankenstein-review-netflix-guillermo-del-toro)
- - [Spotify says it&amp;#8217;s working with labels on &amp;#8216;responsible&amp;#8217; AI music tools](https://www.theverge.com/news/800629/spotify-ai-music-sony-umg-wmg-merlin)
- - [All Affinity apps are now free for the iPad - for now](https://appleinsider.com/articles/25/10/16/all-affinity-apps-are-now-free-for-the-ipad---for-now?utm_source=rss)<!-- TECH:END -->
+ - [Casio goes back to the ‘80s for its Back to the Future calculator watch](https://www.theverge.com/news/800797/casio-back-to-the-future-calculator-watch-flux-capacitor)
+ - [Ugreen’s 8-port Thunderbolt 4 hub is $80 off](https://www.theverge.com/tech/800682/ugreen-revodok-max-208-gopro-hero-13-deal-sale)
+ - [OpenAI hires black hole physicist Alex Lupsasca, the first person to join the OpenAI for Science initiative led by Kevin Weil &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251016/p32#a251016p32)
+ - [One Republican Now Controls a Huge Chunk of US Election Infrastructure](https://www.wired.com/story/scott-leiendecker-dominion-liberty-votes/)
+ - [HBO Max: The 29 Absolute Best TV Shows to Watch](https://www.cnet.com/culture/entertainment/best-tv-shows-on-hbo-max-oct-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

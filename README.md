@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
  - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
- - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 💣 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)
  - 😝 [True signs of a fire Chinese spot. You just know it hits different](http://9gag.com/gag/a9yNgo0)
  - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 

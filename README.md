@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
- - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 😝 [Time to get the drill](http://9gag.com/gag/aryrQ07)
- - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
+ - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 

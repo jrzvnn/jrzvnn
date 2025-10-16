@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
  - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 💣 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
  - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---

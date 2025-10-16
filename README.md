@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
- - 💣 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)
+ - 😝 [Look at them](http://9gag.com/gag/aLnN7Vg)
+ - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 💣 [Scratch your brain](http://9gag.com/gag/a9yNgBZ)
  - 😝 [True signs of a fire Chinese spot. You just know it hits different](http://9gag.com/gag/a9yNgo0)
- - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
+ - 👉 [These days flowers are only for serious relationships](http://9gag.com/gag/a6Z36zL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
  - 💣 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
  - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 

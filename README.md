@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a ransomware attack is disrupting US state and local borrowers&#39; ability to post debt documents on the $4.3T municipal bond market&#39;s MuniOS platform &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p24#a251016p24)
+ - [Best Gifts for Babies and Toddlers, Tested and Approved by Our Own Kids](https://www.wired.com/gallery/best-baby-and-toddler-gifts/)
+ - [London-based Jack &amp; Jill, which develops conversational AI agents to streamline hiring, raised a $20M seed led by Creandum to expand into Europe and the US &lpar;Martin Coulter/Sifted&rpar;](http://www.techmeme.com/251016/p23#a251016p23)
  - [Bengaluru-based quick grocery delivery startup Zepto raised $450M from Goodwater, General Catalyst, and others at a $7B valuation, as it prepares for an IPO &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/251016/p22#a251016p22)
- - [HR software startup Deel raised $300M led by Ribbit Capital at a $17B valuation, up from $12.6B earlier in 2025, and says revenue crossed $100M in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p21#a251016p21)
- - [The EU&#39;s aim to triple AI data center capacity over the next five to seven years sparks water scarcity concerns, especially in water-stressed Southern Europe &lpar;CNBC&rpar;](http://www.techmeme.com/251016/p20#a251016p20)
- - [Steve Jobs will appear on commemorative $1 coin](https://www.theverge.com/news/800548/steve-jobs-commemorative-dollar-coin-us-mint)
- - [Court hearing: UK prosecutors aim to confiscate ~$6.8B in bitcoin tied to a massive 2017 fraud in China and to pay back Chinese investors that were its victims &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/251016/p19#a251016p19)<!-- TECH:END -->
+ - [HR software startup Deel raised $300M led by Ribbit Capital at a $17B valuation, up from $12.6B earlier in 2025, and says revenue crossed $100M in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p21#a251016p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

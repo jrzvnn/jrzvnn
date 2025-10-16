@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon shares a ‘first look’ at new nuclear facility](https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look)
  - [Apple SVP Eddy Cue wants to reinvent sports streaming, says it is broken for fans](https://appleinsider.com/articles/25/10/16/apple-svp-eddy-cue-wants-to-reinvent-sports-streaming-says-it-is-broken-for-fans?utm_source=rss)
- - [I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)
- - [Aboon, an AI-powered platform for financial advisers to help business owners launch and manage 401&lpar;k&rpar; plans, raised a $17.5M seed led by Bain Capital Ventures &lpar;Davis Janowski/WealthManagement.com&rpar;](http://www.techmeme.com/251016/p48#a251016p48)
- - [New York bans AI-enabled rent price fixing](https://www.theverge.com/news/801205/new-york-rent-price-fixing-ban-software)
- - [Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks](https://www.wired.com/story/f5-hack-networking-software-big-ip/)<!-- TECH:END -->
+ - [My All-Time Favorite Horror Movie Is on Peacock, and It&#39;s 100 Minutes of Zombie Fun](https://www.cnet.com/tech/services-and-software/my-all-time-favorite-horror-movie-is-on-peacock-and-its-100-minutes-of-zombie-fun/#ftag=CAD590a51e)
+ - [The Best iPhone 17 Cases for 2025](https://www.cnet.com/tech/mobile/best-iphone-17-cases-for-2025/#ftag=CAD590a51e)
+ - [I just reviewed the Xbox Ally and answered your burning questions](https://www.theverge.com/games/800212/i-just-reviewed-the-xbox-ally-ask-me-anything)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple leads global brands again while other companies chase shiny AI dreams](https://appleinsider.com/articles/25/10/16/apple-leads-global-brands-again-while-other-companies-chase-shiny-ai-dreams?utm_source=rss)
+ - [Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide](https://www.wired.com/story/niantic-peridot-augmented-reality-snap-spectacles/)
  - [Sources: OpenAI is proposing a &quot;sign in with ChatGPT&quot; feature for websites, letting startups charge OpenAI model usage costs to users&#39; ChatGPT capacity limits &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251016/p41#a251016p41)
  - [New Apple TV and Peacock streaming bundles could save you over 30%](https://appleinsider.com/articles/25/10/16/new-apple-tv-and-peacock-streaming-bundles-could-save-you-over-30?utm_source=rss)
- - [Anthropic announces Skills for Claude, a tool with folders of instructions, scripts, and resources that Claude can load to improve performance on some tasks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251016/p40#a251016p40)
- - [How ByteDance Made China’s Most Popular AI Chatbot](https://www.wired.com/story/bytedance-doubao-chatbot-popularity/)
- - [Best Coolers of 2025: After Testing 12 New Coolers, Here&#39;s Are the 6 I Recommend](https://www.cnet.com/home/yard-and-outdoors/best-coolers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anthropic announces Skills for Claude, a tool with folders of instructions, scripts, and resources that Claude can load to improve performance on some tasks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251016/p40#a251016p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

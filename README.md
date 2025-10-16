@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
- - 💣 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 💣 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
+ - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
+ - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
 
 ---
 

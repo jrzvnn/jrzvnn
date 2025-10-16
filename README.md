@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
  - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 💣 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 😝 [Dags](http://9gag.com/gag/agmZDPW)
+ - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 ---
 

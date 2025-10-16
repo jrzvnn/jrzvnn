@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aboon, an AI-powered platform for financial advisers to help business owners launch and manage 401&lpar;k&rpar; plans, raised a $17.5M seed led by Bain Capital Ventures &lpar;Davis Janowski/WealthManagement.com&rpar;](http://www.techmeme.com/251016/p48#a251016p48)
+ - [New York bans AI-enabled rent price fixing](https://www.theverge.com/news/801205/new-york-rent-price-fixing-ban-software)
  - [Why the F5 Hack Created an ‘Imminent Threat’ for Thousands of Networks](https://www.wired.com/story/f5-hack-networking-software-big-ip/)
  - [M5 Apple Vision Pro vs. M2 Apple Vision Pro: Improved spatial computing](https://appleinsider.com/articles/25/10/16/m5-apple-vision-pro-vs-m2-apple-vision-pro-improved-spatial-computing?utm_source=rss)
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [Amazon&#39;s Ring partners with Flock to let law enforcement agencies that work with Flock request footage from Ring doorbell users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251016/p47#a251016p47)
- - [M6 MacBook Pro rumored to feature OLED touchscreen with hole punch camera](https://appleinsider.com/articles/25/10/16/m6-macbook-pro-rumored-to-feature-oled-touchscreen-with-hole-punch-camera?utm_source=rss)<!-- TECH:END -->
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

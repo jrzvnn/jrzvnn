@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
  - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [Sounds like Doom](http://9gag.com/gag/aND27Rr)
- - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
+ - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
+ - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
 
 ---
 

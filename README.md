@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
  - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
  - 👉 [Smooth Recovery](http://9gag.com/gag/ajPM40R)<!-- MEMES:END -->
 
 ---

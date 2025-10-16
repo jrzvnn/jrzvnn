@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Basis Theory, which provides data management and payments infrastructure tools, raised a $33M Series B led by Costanoa, taking its total funding to $50M &lpar;David Penn/Finovate&rpar;](http://www.techmeme.com/251015/p61#a251015p61)
+ - [Sources: F5&#39;s breach is blamed on China, whose hackers had infiltrated F5&#39;s network for at least 12 months using the Brickstorm malware to steal source code &lpar;Bloomberg&rpar;](http://www.techmeme.com/251015/p60#a251015p60)
  - [Campfire, an AI-powered ERP and accounting services provider, raised a $65M Series B co-led by Accel and Ribbit Capital, after raising a $35M Series A in June &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251015/p59#a251015p59)
  - [Google releases Cell2Sentence-Scale 27B &lpar;C2S-Scale&rpar;, a 27B-parameter foundation model for single-cell analysis built on its Gemma family of open models &lpar;The Keyword&rpar;](http://www.techmeme.com/251015/p58#a251015p58)
- - [Paxos says it &quot;mistakenly minted&quot; $300T worth of PayPal&#39;s PYUSD stablecoin on Wednesday and &quot;burned&quot; the tokens a little over 20 minutes later &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251015/p57#a251015p57)
- - [Documents: Rhoda AI, which raised a $162.6M Series A in April, and Genesis AI, which raised a $105M seed earlier this year, have been developing humanoid robots &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251015/p56#a251015p56)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [Paxos says it &quot;mistakenly minted&quot; $300T worth of PayPal&#39;s PYUSD stablecoin on Wednesday and &quot;burned&quot; the tokens a little over 20 minutes later &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251015/p57#a251015p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

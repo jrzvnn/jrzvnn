@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+ - [Amazon&#39;s Ring partners with Flock to let law enforcement agencies that work with Flock request footage from Ring doorbell users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251016/p47#a251016p47)
  - [M6 MacBook Pro rumored to feature OLED touchscreen with hole punch camera](https://appleinsider.com/articles/25/10/16/m6-macbook-pro-rumored-to-feature-oled-touchscreen-with-hole-punch-camera?utm_source=rss)
- - [A profile of Joshua Kushner, including Thrive Capital&#39;s investments in GitHub and Stripe and its role in reinstating Sam Altman as OpenAI CEO in November 2023 &lpar;Jeremy Stern/Colossus&rpar;](http://www.techmeme.com/251016/p46#a251016p46)
- - [Unions are trying to stop Trump from kicking out immigrants over social media posts](https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit)
- - [Judge orders immigration agents in Chicago to use body cams](https://www.theverge.com/news/801112/judge-orders-chicago-ice-agents-use-body-cams)
- - [Thursday Night Football: How to Watch Steelers vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-steelers-vs-bengals-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Pinterest Settings Let You Reduce How Much AI Slop You See on Your Feed](https://www.cnet.com/news/social-media/new-pinterest-settings-let-you-reduce-how-much-ai-slop-you-see-on-your-feed/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 17, #1581](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-17-1581/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

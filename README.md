@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple and NBCUniversal announce an Apple TV and Peacock Premium bundle for $14.99 per month, a 30% discount over the individual subscriptions &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p43#a251016p43)
  - [Apple TV and Peacock announce a discounted $15 monthly subscription bundle](https://www.theverge.com/news/800928/apple-tv-peacock-premium-plus-nbcuniversal-subscription-bundle)
  - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Coinbase launches Coinbase Business, a stablecoin payment platform to let businesses send and receive USDC; Coinbase shares USDC yield revenue 50/50 with Circle &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/251016/p42#a251016p42)
- - [Apple leads global brands again while other companies chase shiny AI dreams](https://appleinsider.com/articles/25/10/16/apple-leads-global-brands-again-while-other-companies-chase-shiny-ai-dreams?utm_source=rss)
- - [Niantic’s Peridot, the Augmented Reality Alien Dog, Is Now a Talking Tour Guide](https://www.wired.com/story/niantic-peridot-augmented-reality-snap-spectacles/)<!-- TECH:END -->
+ - [Apple leads global brands again while other companies chase shiny AI dreams](https://appleinsider.com/articles/25/10/16/apple-leads-global-brands-again-while-other-companies-chase-shiny-ai-dreams?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

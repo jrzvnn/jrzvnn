@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M6 MacBook Pro rumored to feature OLED touchscreen with hole punch camera](https://appleinsider.com/articles/25/10/16/m6-macbook-pro-rumored-to-feature-oled-touchscreen-with-hole-punch-camera?utm_source=rss)
+ - [A profile of Joshua Kushner, including Thrive Capital&#39;s investments in GitHub and Stripe and its role in reinstating Sam Altman as OpenAI CEO in November 2023 &lpar;Jeremy Stern/Colossus&rpar;](http://www.techmeme.com/251016/p46#a251016p46)
  - [Unions are trying to stop Trump from kicking out immigrants over social media posts](https://www.theverge.com/policy/801110/eff-catch-and-revoke-visa-social-media-surveillance-lawsuit)
  - [Judge orders immigration agents in Chicago to use body cams](https://www.theverge.com/news/801112/judge-orders-chicago-ice-agents-use-body-cams)
- - [Thursday Night Football: How to Watch Steelers vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-steelers-vs-bengals-tonight/#ftag=CAD590a51e)
- - [Sources: Apple readies a slimmer M6 MacBook Pro featuring an OLED touch display with a hole-punch design replacing the notch, for late 2026 or early 2027 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251016/p45#a251016p45)
- - [An Apple TV and Peacock Bundle Is Coming: Here&#39;s How Much It Costs](https://www.cnet.com/tech/services-and-software/an-apple-tv-and-peacock-bundle-is-coming-heres-how-much-it-costs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thursday Night Football: How to Watch Steelers vs. Bengals Tonight](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-steelers-vs-bengals-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

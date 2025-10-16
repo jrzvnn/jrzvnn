@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Apple Vision Pro vs. M2 Apple Vision Pro: Improved spatial computing](https://appleinsider.com/articles/25/10/16/m5-apple-vision-pro-vs-m2-apple-vision-pro-improved-spatial-computing?utm_source=rss)
+ - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
  - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
  - [Amazon&#39;s Ring partners with Flock to let law enforcement agencies that work with Flock request footage from Ring doorbell users &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251016/p47#a251016p47)
- - [M6 MacBook Pro rumored to feature OLED touchscreen with hole punch camera](https://appleinsider.com/articles/25/10/16/m6-macbook-pro-rumored-to-feature-oled-touchscreen-with-hole-punch-camera?utm_source=rss)
- - [New Pinterest Settings Let You Reduce How Much AI Slop You See on Your Feed](https://www.cnet.com/news/social-media/new-pinterest-settings-let-you-reduce-how-much-ai-slop-you-see-on-your-feed/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 17, #1581](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-17-1581/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [M6 MacBook Pro rumored to feature OLED touchscreen with hole punch camera](https://appleinsider.com/articles/25/10/16/m6-macbook-pro-rumored-to-feature-oled-touchscreen-with-hole-punch-camera?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

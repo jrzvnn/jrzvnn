@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [Yes, this is a camera... Just because you&#39;re paranoid, doesn&#39;t mean they&#39;re not watching.](http://9gag.com/gag/aryrQKB)
- - 💣 [Obey who](http://9gag.com/gag/azxDpmz)
- - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - 👉 [What sound they just make at the end ?](http://9gag.com/gag/aND2bD4)<!-- MEMES:END -->
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 💣 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 😝 [Dags](http://9gag.com/gag/agmZDPW)
+ - 👉 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian startup Kuku, which offers audio content and vertical dramas, raised an $85M Series C led by Granite at a $500M valuation and has 10M+ paid subscribers &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251016/p17#a251016p17)
+ - [Kraken acquires Small Exchange, a US-licensed futures exchange, from the IG Group, for $32.5M in cash and $67.5M in Kraken parent&#39;s Payward stock &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251016/p16#a251016p16)
  - [How AI-powered tools like PainChek, an app that scans a person&#39;s face for tiny muscle movements, are helping healthcare providers better assess patients&#39; pain &lpar;Deena Mousa/MIT Technology Review&rpar;](http://www.techmeme.com/251016/p15#a251016p15)
  - [A look at efforts in Sweden to make its banking systems and payment networks resilient to hybrid warfare attacks; 90% of Sweden&#39;s transactions are digital &lpar;Evelina Youcefi/Bloomberg&rpar;](http://www.techmeme.com/251016/p14#a251016p14)
- - [Microsoft is reportedly moving its Surface manufacturing out of China](https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report)
- - [An interview with YouTube CEO Neal Mohan on YouTube as the future of TV, paying out $100B+ to creators, partnering with the NFL, scripted content, and more &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/251016/p13#a251016p13)
- - [How facial recognition software rejects people with facial differences, who number an estimated 100M+ worldwide, blocking them from accessing essential services &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/251016/p12#a251016p12)<!-- TECH:END -->
+ - [Microsoft is reportedly moving its Surface manufacturing out of China](https://www.theverge.com/news/800538/microsoft-surface-manufacturing-china-move-report)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

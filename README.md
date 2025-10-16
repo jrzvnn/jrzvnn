@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
- - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [Obey who](http://9gag.com/gag/azxDpmz)
- - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
+ - 😝 [European mind cannot comprehend this](http://9gag.com/gag/aPAdbyQ)
+ - 😝 [If this video doesnt make you happy, I dont know what will](http://9gag.com/gag/a1mq3jv)
+ - 💣 [A rational decision. Common sense is kicking in.](http://9gag.com/gag/amobez2)
+ - 😝 [What is common sense?](http://9gag.com/gag/awyGWvx)
+ - 👉 [Smile and wave boys](http://9gag.com/gag/aQzNWez)<!-- MEMES:END -->
 
 ---
 

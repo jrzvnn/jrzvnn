@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Apple&#39;s research explains how AI can identify bugs in code and generate QE tests](https://appleinsider.com/articles/25/10/16/apples-research-explains-how-ai-can-identify-bugs-in-code-and-generate-qe-tests?utm_source=rss)
  - [Sources: CME Group plans to debut financial contracts tied to sports games and economic indicators by the end of 2025, including through its FanDuel partnership &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p49#a251016p49)
- - [Amazon shares a ‘first look’ at new nuclear facility](https://www.theverge.com/news/801257/amazon-nuclear-energy-reactor-first-look)
- - [Apple SVP Eddy Cue wants to reinvent sports streaming, says it is broken for fans](https://appleinsider.com/articles/25/10/16/apple-svp-eddy-cue-wants-to-reinvent-sports-streaming-says-it-is-broken-for-fans?utm_source=rss)
- - [My All-Time Favorite Horror Movie Is on Peacock, and It&#39;s 100 Minutes of Zombie Fun](https://www.cnet.com/tech/services-and-software/my-all-time-favorite-horror-movie-is-on-peacock-and-its-100-minutes-of-zombie-fun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keep Your Kids From Getting Sick This Flu Season With These Doctor-Approved Tips](https://www.cnet.com/health/parenting/ways-prevent-kids-getting-sick-back-to-school-season/#ftag=CAD590a51e)
+ - [Steve Jobs and the Cray-1 Supercomputer Will Be on US Dollar Coins](https://www.cnet.com/tech/services-and-software/steve-jobs-and-the-cray-1-supercomputer-will-be-on-us-dollar-coins/#ftag=CAD590a51e)
+ - [The Earth Has a Growing Weak Spot in Its Magnetic Field: Here&#39;s What That Means](https://www.cnet.com/science/space/the-earth-has-a-growing-weak-spot-in-its-magnetic-field-heres-what-that-means/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

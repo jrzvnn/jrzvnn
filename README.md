@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 💣 [Sarah Sanderson knows what she wants](http://9gag.com/gag/a6Z36wN)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
  - 👉 [F**king DUH](http://9gag.com/gag/aLnNoYA)<!-- MEMES:END -->
 
 ---

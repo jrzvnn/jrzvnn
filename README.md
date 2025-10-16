@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube&#39;s creative ecosystem added over €7B to the EU&#39;s GDP in 2024 and supported 200K+ full-time equivalent jobs, according to advising firm Oxford Economics &lpar;David Wheeldon/YouTube Official Blog&rpar;](http://www.techmeme.com/251016/p3#a251016p3)
  - [Investigation: the Trump family&#39;s crypto empire has reaped over $1B in pre-tax profits over the past year; Eric Trump says the true figure is &quot;probably more&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251016/p2#a251016p2)
  - [The White House says representatives from Microsoft, Meta, Google, and other corporate donors to the $250M ballroom attended a dinner with President Trump &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251016/p1#a251016p1)
  - [OpenAI says all Sora 2 users can now generate videos up to 15 seconds on the app and web, while Pro users can generate videos up to 25 seconds on the web &lpar;@openai&rpar;](http://www.techmeme.com/251015/p63#a251015p63)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-16/#ftag=CAD590a51e)
- - [Liberate, which builds AI agents to automate insurance operations, raised a $50M Series B led by Battery Ventures at a $300M post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251015/p62#a251015p62)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-16/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

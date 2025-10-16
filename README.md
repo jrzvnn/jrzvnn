@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
+ - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
  - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
- - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
- - 👉 [Move b*tch](http://9gag.com/gag/amobZdv)<!-- MEMES:END -->
+ - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---
 

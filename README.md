@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
  - 😝 [Smooth Recovery](http://9gag.com/gag/ajPM40R)
- - 💣 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
- - 😝 [A rational decision. Common sense is kicking in.](http://9gag.com/gag/amobez2)
+ - 😝 [I mean it is not wrong...](http://9gag.com/gag/a87XgOd)
+ - 💣 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [Me trying to be romantic](http://9gag.com/gag/ayNVj8q)
  - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---

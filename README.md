@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
  - 😝 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 💣 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 💣 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [Sounds like Doom](http://9gag.com/gag/aND27Rr)
+ - 👉 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)<!-- MEMES:END -->
 
 ---
 

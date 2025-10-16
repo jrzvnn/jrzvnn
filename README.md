@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify partners with Sony Music Group, WMG, UMG, Merlin, and Believe to develop &quot;responsible&quot; AI products and is building a generative AI research lab &lpar;Steven J. Horowitz/Variety&rpar;](http://www.techmeme.com/251016/p28#a251016p28)
+ - [The DIY and IRL energy of punk rock mutual aid](https://www.theverge.com/cs/features/799722/trans-punk-rock-mutual-aid-ekko-astral)
+ - [Yamaha True X Surround 90a Review: Not Quite Perfect](https://www.wired.com/review/yamaha-true-x-surround-90a/)
  - [Apple Watch Series 11 review: If it ain&#39;t broke...](https://appleinsider.com/articles/25/10/16/apple-watch-series-11-review-if-it-aint-broke?utm_source=rss)
- - [Browser Fingerprinting: What Your Browser Is Telling Everyone About You](https://www.wired.com/story/what-is-browser-fingerprinting/)
- - [Upgrade, which offers online loans and other financial services, raised $165M led by Neuberger Berman at a $7.3B valuation and is &quot;12 to 18 months&quot; from an IPO &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251016/p27#a251016p27)
- - [The US FCC announces proceedings to potentially bar Hong Kong telecom HKT and its subsidiaries from accessing domestic US networks, citing its ties to China &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251016/p26#a251016p26)
- - [Proton Mail Review &lpar;2025&rpar;: The Email Service You Didn’t Know You Needed](https://www.wired.com/review/proton-mail/)<!-- TECH:END -->
+ - [Browser Fingerprinting: What Your Browser Is Telling Everyone About You](https://www.wired.com/story/what-is-browser-fingerprinting/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

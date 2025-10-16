@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [Two step verification](http://9gag.com/gag/avyXwPW)
- - 💣 [1.6 billion on profit but you\u2019ve gotta take the toilets out to lower ticket prices 5%](http://9gag.com/gag/a9yN0oW)
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 👉 [Another one sees the end](http://9gag.com/gag/aMVNMBM)<!-- MEMES:END -->
+ - 😝 [Legally allowed but morally questionable](http://9gag.com/gag/a87XORY)
+ - 😝 [Finally, a solution for my lazy binge-watching](http://9gag.com/gag/a7o6X72)
+ - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 👉 [Two step verification](http://9gag.com/gag/avyXwPW)<!-- MEMES:END -->
 
 ---
 

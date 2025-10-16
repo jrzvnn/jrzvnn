@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ripple acquires GTreasury, a platform used by Fortune 500 companies for managing cash, foreign exchange, and risk, for $1B, set to close in the coming months &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/251016/p38#a251016p38)
  - [Deals: Amazon slashes $250 off M4 Pro MacBook Pro, now $1,749](https://appleinsider.com/articles/25/10/16/deals-amazon-slashes-250-off-m4-pro-macbook-pro-now-1749?utm_source=rss)
  - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [Pinterest adds new tools to let users limit how much AI-generated content they see in their feed in certain categories, including beauty, art, and home decor &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251016/p37#a251016p37)
- - [SharpLink Gaming, the second-largest publicly traded ether treasury firm, raised $76.5M in a direct stock offering priced above market &lpar;CoinDesk&rpar;](http://www.techmeme.com/251016/p36#a251016p36)
- - [DoorDash and Waymo announce a partnership to let DoorDash use Waymo&#39;s robotaxis for delivery, starting with deliveries from Phoenix&#39;s DashMart store &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251016/p35#a251016p35)<!-- TECH:END -->
+ - [Meta is building a smart TV — in VR](https://www.theverge.com/column/800588/meta-smart-tv-vr)
+ - [Pinterest adds new tools to let users limit how much AI-generated content they see in their feed in certain categories, including beauty, art, and home decor &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251016/p37#a251016p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

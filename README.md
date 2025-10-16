@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’ OxygenOS 16 brings Gemini into your Mind Space](https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space)
- - [Commonwealth Fusion Systems partners with Google DeepMind to use Google&#39;s open-source plasma simulator, TORAX, for accelerating fusion energy development &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251016/p34#a251016p34)
- - [Crafted in a Mercedes: Dolby, Universal Music Group and Merc Make Unlikely Audio Partnership](https://www.cnet.com/tech/home-entertainment/crafted-in-a-mercedes-dolby-universal-music-group-and-merc-enter-unlikely-audio-partnership/#ftag=CAD590a51e)
- - [Spellcasters Chronicles Boldly Aims to Blend Competition With Narrative](https://www.cnet.com/tech/gaming/spellcasters-chronicles-boldly-aims-to-blend-competition-with-narrative/#ftag=CAD590a51e)
- - [How to Use Satellite Communications on the Garmin Fenix 8 Pro](https://www.wired.com/story/how-to-use-satcomms-garmin-fenix-8-pro/)<!-- TECH:END -->
+ - [Meta is building a smart TV — in VR](https://www.theverge.com/column/800588/meta-smart-tv-vr)
+ - [Pinterest adds new tools to let users limit how much AI-generated content they see in their feed in certain categories, including beauty, art, and home decor &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251016/p37#a251016p37)
+ - [SharpLink Gaming, the second-largest publicly traded ether treasury firm, raised $76.5M in a direct stock offering priced above market &lpar;CoinDesk&rpar;](http://www.techmeme.com/251016/p36#a251016p36)
+ - [DoorDash and Waymo announce a partnership to let DoorDash use Waymo&#39;s robotaxis for delivery, starting with deliveries from Phoenix&#39;s DashMart store &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251016/p35#a251016p35)
+ - [OnePlus’ OxygenOS 16 brings Gemini into your Mind Space](https://www.theverge.com/news/800754/oneplus-oxygenos-16-gemini-mind-space)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

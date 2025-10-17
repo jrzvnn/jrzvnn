@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
  - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 😝 [Is there anyone who likes this kind of weather?](http://9gag.com/gag/aAyNjb0)
- - 👉 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)<!-- MEMES:END -->
+ - 😝 [How to expose a zombie](http://9gag.com/gag/abAm8nE)
+ - 👉 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)<!-- MEMES:END -->
 
 ---
 

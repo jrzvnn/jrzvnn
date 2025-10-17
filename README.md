@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Can AI Avoid the Enshittification Trap?](https://www.wired.com/story/can-ai-escape-enshittification-trap/)
+ - [This weirdo Xbox game about a walking lighthouse is a Keeper](https://www.theverge.com/games/801563/keeper-review-xbox-double-fine)
+ - [Elon Musk Has Turned His Eye to the UK](https://www.wired.com/story/elon-musk-attention-on-uk-tommy-robinson/)
  - [Early M5 MacBook Pro benchmarks show a big boost over the M4](https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4?utm_source=rss)
- - [European automakers warn of substantial disruption to production after China cut off Nexperia&#39;s outbound shipments following the Dutch seizure of Nexperia &lpar;Financial Times&rpar;](http://www.techmeme.com/251017/p22#a251017p22)
- - [OpenAI suspends MLK deepfakes on Sora after ‘disrespectful’ videos](https://www.theverge.com/news/801539/open-ai-sora-mlk)
- - [Don&#39;t put anything between your MacBook screen, including webcam covers](https://appleinsider.com/articles/25/10/17/dont-put-anything-between-your-macbook-screen-including-webcam-covers?utm_source=rss)
- - [A look at the challenges facing Europe&#39;s chip industry, as the EU will likely fall short of its targeted 20% share of global chip manufacturing by 2030 &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/251017/p21#a251017p21)<!-- TECH:END -->
+ - [European automakers warn of substantial disruption to production after China cut off Nexperia&#39;s outbound shipments following the Dutch seizure of Nexperia &lpar;Financial Times&rpar;](http://www.techmeme.com/251017/p22#a251017p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

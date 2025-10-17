@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
- - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
+ - 😝 [Best plot twist I&#39;ve ever seen](http://9gag.com/gag/a5QyOGg)
+ - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - 💣 [Ytho](http://9gag.com/gag/aryrQD7)
+ - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at ByteDance&#39;s Doubao, which became China&#39;s most popular AI app in August, with over 157M MAUs, thanks in part to its deep integration with Douyin &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251016/p51#a251016p51)
+ - [Why world models are the next big thing in AI](https://www.theverge.com/column/801370/ai-world-models-general-intuition-medal)
+ - [Steam hit a new record with over 41.6M concurrent users on October 12, a surge largely sparked by the release of Battlefield 6 &lpar;Kosta Andreadis/TweakTown&rpar;](http://www.techmeme.com/251016/p50#a251016p50)
  - [MacBook Pro rumor points to OLED, touchscreen upgrades next year](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 17, #389](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-17-389/#ftag=CAD590a51e)
- - [MacBook Pro May Be Finally Getting a Touchscreen](https://www.cnet.com/tech/computing/macbook-pro-may-be-finally-getting-a-touchscreen/#ftag=CAD590a51e)
- - [Meta Is Shuttering Its Messenger Apps for Mac and Windows](https://www.cnet.com/tech/computing/meta-is-shuttering-its-messenger-apps-for-mac-and-windows/#ftag=CAD590a51e)
- - [Apple&#39;s research explains how AI can identify bugs in code and generate QE tests](https://appleinsider.com/articles/25/10/16/apples-research-explains-how-ai-can-identify-bugs-in-code-and-generate-qe-tests?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 17, #389](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-17-389/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

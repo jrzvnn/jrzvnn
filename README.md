@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
+ - 😝 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
  - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 💣 [Especially the 2 hour ones](http://9gag.com/gag/aGyNXAz)
- - 😝 [I&#39;m sorry.](http://9gag.com/gag/an7W63n)
+ - 💣 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 👉 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)<!-- MEMES:END -->
 
 ---

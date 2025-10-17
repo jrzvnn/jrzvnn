@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 💣 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
+ - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 😝 [He never got to this part before](http://9gag.com/gag/ajPM4RR)
+ - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
  - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
+ - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 ---
 

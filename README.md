@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ooops](http://9gag.com/gag/axynLY1)
  - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 💣 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
  - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
+ - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
 
 ---
 

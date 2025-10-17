@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft to bring Copilot Actions, which can use apps to complete certain tasks on local files in Windows 11, to the Windows Insider Program and Copilot Labs &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251017/p3#a251017p3)
+ - [Sources: Nintendo has asked manufacturers to produce as many as 25M Switch 2 units by the end of March 2026, surpassing analysts&#39; estimates of 17.6M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p4#a251017p4)
  - [Internal documents: Salesforce pitched ICE on using its AI tech to nearly triple the agency&#39;s staff by hiring 10K new officers, improve investigations, and more &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251017/p2#a251017p2)
  - [Kayak launches a ChatGPT-powered chatbot on its desktop and mobile website that lets users ask travel questions and compare flights, hotels, and car rentals &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251017/p1#a251017p1)
- - [Sources: Meta is set to seal an almost $30B financing package for its Louisiana data center; Meta will retain 20% ownership in the Hyperion data center site &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p53#a251016p53)
- - [Cherry KW 550 MX LP mechanical keyboard review: Sweet spot of pricing and performance](https://appleinsider.com/articles/25/10/17/cherry-kw-550-mx-lp-mechanical-keyboard-review-sweet-spot-of-pricing-and-performance?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Meta is set to seal an almost $30B financing package for its Louisiana data center; Meta will retain 20% ownership in the Hyperion data center site &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p53#a251016p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

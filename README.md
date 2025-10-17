@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Google plans to release Gemini 3 in December; it is expected to be more performant across the board, especially in coding and multimodal generation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251017/p29#a251017p29)
+ - [Astra Nova, which develops no-code tools that enable creators to launch blockchain-based entertainment experiences, raised $48.3M &lpar;CoinDesk&rpar;](http://www.techmeme.com/251017/p28#a251017p28)
  - [Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review)
  - [Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251017/p27#a251017p27)
- - [Q&amp;A with Andrej Karpathy on AGI still being a decade away, why reinforcement learning is terrible, superintelligence, his AI education startup Eureka, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251017/p26#a251017p26)
- - [Ex-lidar CEO makes a bid to reclaim his company](https://www.theverge.com/news/801827/ex-lidar-ceo-makes-a-bid-to-reclaim-his-company)
- - [&#39;Tulsa King&#39; Season 3 Release Schedule: When to Watch Episode 5 on Paramount Plus](https://www.cnet.com/tech/services-and-software/tulsa-king-season-3-release-schedule-when-to-watch-episode-5-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Andrej Karpathy on AGI still being a decade away, why reinforcement learning is terrible, superintelligence, his AI education startup Eureka, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251017/p26#a251017p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

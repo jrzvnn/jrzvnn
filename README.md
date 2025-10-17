@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off](https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale)
+ - [New Apple Vision Pro with M5 doubles refresh rate of Mac Virtual Display](https://appleinsider.com/articles/25/10/17/new-apple-vision-pro-with-m5-doubles-refresh-rate-of-mac-virtual-display?utm_source=rss)
  - [Atari’s resurrecting the Intellivision, one of its biggest competitors in the ‘80s](https://www.theverge.com/news/801646/atari-intellivision-sprint-console-competition)
  - [I took an iPhone Air on vacation to test its two biggest compromises -- and came home surprised](https://appleinsider.com/articles/25/10/17/i-took-an-iphone-air-on-vacation-to-test-its-two-biggest-compromises----and-came-home-surprised?utm_source=rss)
- - [Price war: Apple&#39;s M4 Pro Mac mini drops to $1,299](https://appleinsider.com/articles/25/10/17/price-war-apples-m4-pro-mac-mini-drops-to-1299?utm_source=rss)
- - [Can AI Avoid the Enshittification Trap?](https://www.wired.com/story/can-ai-escape-enshittification-trap/)
- - [This weirdo Xbox game about a walking lighthouse is a Keeper](https://www.theverge.com/games/801563/keeper-review-xbox-double-fine)<!-- TECH:END -->
+ - [Price war: Apple&#39;s M4 Pro Mac mini drops to $1,299](https://appleinsider.com/articles/25/10/17/price-war-apples-m4-pro-mac-mini-drops-to-1299?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

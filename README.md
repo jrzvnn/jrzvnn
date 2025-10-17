@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Google plans to release Gemini 3 in December; it is expected to be more performant across the board, especially in coding and multimodal generation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251017/p29#a251017p29)
  - [Astra Nova, which develops no-code tools that enable creators to launch blockchain-based entertainment experiences, raised $48.3M &lpar;CoinDesk&rpar;](http://www.techmeme.com/251017/p28#a251017p28)
+ - [OpenAI Pauses Sora AI Videos of Martin Luther King Jr. as &#39;Inappropriate&#39; Deepfakes Flood the App](https://www.cnet.com/tech/services-and-software/openai-pauses-sora-ai-videos-of-martin-luther-king-jr-as-inappropriate-deepfakes-flood-the-app/#ftag=CAD590a51e)
  - [Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review)
- - [Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251017/p27#a251017p27)
- - [Q&amp;A with Andrej Karpathy on AGI still being a decade away, why reinforcement learning is terrible, superintelligence, his AI education startup Eureka, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251017/p26#a251017p26)<!-- TECH:END -->
+ - [Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251017/p27#a251017p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

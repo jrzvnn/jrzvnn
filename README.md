@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
  - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
  - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
- - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
+ - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
 
 ---
 

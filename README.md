@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
  - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 💣 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 😝 [Good on you](http://9gag.com/gag/a34pV87)
+ - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
+ - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
  - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---

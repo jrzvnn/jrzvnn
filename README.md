@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kelly Reichardt’s anti-heist movie](https://www.theverge.com/entertainment/801651/the-mastermind-kelly-reichardt-director-interview)
+ - [The time has come - the first questionable report about iPhone production changes has arrived](https://appleinsider.com/articles/25/10/17/the-time-has-come---the-first-questionable-report-about-iphone-production-changes-has-arrived?utm_source=rss)
+ - [WhatsApp is testing limits on how many messages a user or business can send monthly to unknown people without a response; nearing the limit displays a warning &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p23#a251017p23)
  - [SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off](https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale)
- - [New Apple Vision Pro with M5 doubles refresh rate of Mac Virtual Display](https://appleinsider.com/articles/25/10/17/new-apple-vision-pro-with-m5-doubles-refresh-rate-of-mac-virtual-display?utm_source=rss)
- - [Atari’s resurrecting the Intellivision, one of its biggest competitors in the ‘80s](https://www.theverge.com/news/801646/atari-intellivision-sprint-console-competition)
- - [I took an iPhone Air on vacation to test its two biggest compromises -- and came home surprised](https://appleinsider.com/articles/25/10/17/i-took-an-iphone-air-on-vacation-to-test-its-two-biggest-compromises----and-came-home-surprised?utm_source=rss)
- - [Price war: Apple&#39;s M4 Pro Mac mini drops to $1,299](https://appleinsider.com/articles/25/10/17/price-war-apples-m4-pro-mac-mini-drops-to-1299?utm_source=rss)<!-- TECH:END -->
+ - [New Apple Vision Pro with M5 doubles refresh rate of Mac Virtual Display](https://appleinsider.com/articles/25/10/17/new-apple-vision-pro-with-m5-doubles-refresh-rate-of-mac-virtual-display?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV seizes F1 pole position with five-year US streaming rights deal](https://appleinsider.com/articles/25/10/17/apple-tv-seizes-f1-pole-position-with-five-year-us-streaming-rights-deal?utm_source=rss)
- - [Apple TV will be the only place to watch F1 in the US, starting next year](https://www.theverge.com/news/801597/apple-tv-f1-exclusive-sports-racing-streaming)
- - [CNN’s new All Access streaming service launches later this month](https://www.theverge.com/news/801615/cnn-all-access-subscription-streaming-service)
- - [8 Best USB Hubs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-usb-hubs/)
- - [Redmagic 11 Pro is the first phone with liquid cooling](https://www.theverge.com/news/801581/redmagic-11-pro-china-launch-liquid-cooling-8000mah-battery)<!-- TECH:END -->
+ - [Don&#39;t put anything between your MacBook screen, including webcam covers](https://appleinsider.com/articles/25/10/17/dont-put-anything-between-your-macbook-screen-including-webcam-covers?utm_source=rss)
+ - [A look at the challenges facing Europe&#39;s chip industry, as the EU will likely fall short of its targeted 20% share of global chip manufacturing by 2030 &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/251017/p21#a251017p21)
+ - [The Best TVs We’ve Reviewed In 2025: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)
+ - [These AI glasses promised to make me smarter, and all I got was Clippy for my face](https://www.theverge.com/column/801554/optimizer-halo-smart-glasses-ai-assistant)
+ - [Apple TV seizes F1 pole position with five-year US streaming rights deal](https://appleinsider.com/articles/25/10/17/apple-tv-seizes-f1-pole-position-with-five-year-us-streaming-rights-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

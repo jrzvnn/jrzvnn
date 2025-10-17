@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
- - 😝 [Remember and never forget](http://9gag.com/gag/aO8NXRE)
- - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
+ - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 😝 [Ooops](http://9gag.com/gag/axynLY1)
+ - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
+ - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
 
 ---
 

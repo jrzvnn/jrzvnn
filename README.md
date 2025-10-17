@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Delayed iPhone Air sells out within minutes in China](https://appleinsider.com/articles/25/10/17/delayed-iphone-air-sells-out-within-minutes-in-china?utm_source=rss)
+ - [OpenAI Sora 2 Invite Code: How the Waitlist Works and How to Get Access](https://www.cnet.com/tech/services-and-software/openai-sora-2-invite-code-how-the-waitlist-works-and-how-to-get-acces/#ftag=CAD590a51e)
  - [EssilorLuxottica stock jumps 10%+ after reporting Q3 revenue up 11.7% YoY to €6.9B, with wearables like Ray-Ban Meta contributing 4 percentage points to growth &lpar;CNBC&rpar;](http://www.techmeme.com/251017/p16#a251017p16)
- - [Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)
- - [The Blurred Truths of Sora](https://www.wired.com/story/the-blurred-truths-of-sora/)
- - [Meta plans new Instagram teen safety tools in 2026, letting parents block teens from chatting with AI characters and sending them &quot;insights&quot; from teens&#39; chats &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251017/p15#a251017p15)
- - [Daylight Saving Time Ends Soon. Get Ready to Set Your Clocks Back](https://www.cnet.com/health/daylight-saving-time-ends-soon-heres-when-to-set-your-clocks-back/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Rural Internet Providers for 2025](https://www.cnet.com/home/internet/best-rural-internet-providers/#ftag=CAD590a51e)
+ - [Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

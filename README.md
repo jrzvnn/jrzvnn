@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A chef exposes the parasite &#39;influencers&#39; culture whom invite their selves to restaurants without paying for a good review](http://9gag.com/gag/apRjOEp)
- - 😝 [If this video doesnt make you happy, I dont know what will](http://9gag.com/gag/a1mq3jv)
- - 💣 [Ytho](http://9gag.com/gag/aryrQD7)
- - 😝 [Best plot twist I&#39;ve ever seen](http://9gag.com/gag/a5QyOGg)
- - 👉 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)<!-- MEMES:END -->
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 💣 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
+ - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
+ - 👉 [He never got to this part before](http://9gag.com/gag/ajPM4RR)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to See Comet Lemmon This October](https://www.wired.com/story/how-to-see-comet-lemmon-this-october/)
+ - [Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive](https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai)
  - [Reddit announces that it is expanding its Google Gemini-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p13#a251017p13)
  - [OpenAI says it paused Sora&#39;s ability to generate videos resembling MLK Jr. at the request of his estate, after some users created &quot;disrespectful depictions&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/251017/p12#a251017p12)
- - [Lelo Switch Review: Dual-Ended Vibrator](https://www.wired.com/review/lelo-switch/)
- - [How the FBI&#39;s hunt for the person who coerced a 13-year-old into livestreaming his suicide led to the arrest of a German member of the online predator group 764 &lpar;William Wan/Washington Post&rpar;](http://www.techmeme.com/251017/p11#a251017p11)
- - [Three labor unions filed a lawsuit in NY federal court to block the Trump administration from searching visa holders&#39; social media for posts it deems hostile &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251017/p10#a251017p10)<!-- TECH:END -->
+ - [Lelo Switch Review: Dual-Ended Vibrator](https://www.wired.com/review/lelo-switch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

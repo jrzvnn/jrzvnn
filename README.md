@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
- - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 👉 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)<!-- MEMES:END -->
+ - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
+ - 💣 [Street art.](http://9gag.com/gag/ayNVbvp)
+ - 😝 [Easter Egg](http://9gag.com/gag/a6Z3P5e)
+ - 👉 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)<!-- MEMES:END -->
 
 ---
 

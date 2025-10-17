@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Smile and wave boys](http://9gag.com/gag/aQzNWez)
- - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 💣 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 👉 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)<!-- MEMES:END -->
+ - 😝 [Woman came to police to report sexual harassment. Police threatened to arrest her for describing her attacker.](http://9gag.com/gag/aYQnXQ2)
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 💣 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 😝 [Absolute awesome! credit: Pat Hinds](http://9gag.com/gag/azxDnGK)
+ - 👉 [How to expose a zombie](http://9gag.com/gag/abAm8nE)<!-- MEMES:END -->
 
 ---
 

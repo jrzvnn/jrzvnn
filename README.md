@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Tote Bags of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
- - [Amazon&#39;s Twitch begins testing livestream shopping ads allowing users to buy products &quot;in real time&quot;, starting with e.l.f. Cosmetics &lpar;Peter Adams/Marketing Dive&rpar;](http://www.techmeme.com/251017/p19#a251017p19)
- - [Sources: French regulator ACPR is carrying out anti-money laundering checks on Binance and others, as it seeks to determine eligibility for EU MiCA licenses &lpar;Claudia Cohen/Bloomberg&rpar;](http://www.techmeme.com/251017/p18#a251017p18)
- - [Israel-based Second Nature, whose conversational AI helps train sales teams, raised a $22M Series B led by Sienna VC, taking its total raised to $80M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251017/p17#a251017p17)
- - [Jabra Enhance Select 700 Review: Still Great Hearing Aids](https://www.wired.com/review/jabra-enhance-select-700/)<!-- TECH:END -->
+ - [Apple and F1 announce a five-year US media rights deal that will bring all races to Apple TV beginning in 2026; sources: Apple is paying about $140M per year &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/251017/p20#a251017p20)
+ - [These 8 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
+ - [I Used Squarespace’s Blueprint AI to Design a Website](https://www.wired.com/story/squarespace-blueprint-ai-website-builder/)
+ - [AI can’t even turn on the lights](https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast)
+ - [Unsurprisingly, hinge issues rumored to delay iPhone Fold to 2027](https://appleinsider.com/articles/25/10/17/unsurprisingly-hinge-issues-rumored-to-delay-iphone-fold-to-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

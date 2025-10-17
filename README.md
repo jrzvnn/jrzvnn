@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Li Lin, founder of crypto exchange Huobi, and some of Asia&#39;s earliest Ethereum backers have raised ~$1B to launch a digital asset trust to buy Ether &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p35#a251017p35)
+ - [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap)
  - [Best Indoor Garden Systems: We&#39;ve Been Testing All Year &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
  - [Dreamdata, which offers a B2B marketing analytics platform, raised a $55M Series B led by PeakSpan, bringing its total funding to $67M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251017/p34#a251017p34)
- - [M5 MacBook Pro, iPad Pro, and Apple Vision Pro, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/17/m5-macbook-pro-ipad-pro-and-apple-vision-pro-on-the-appleinsider-podcast?utm_source=rss)
- - [Sources: Suno is in talks to raise $100M+ at a $2B+ valuation, quadrupling its previous valuation; it raised $125M in 2024 and is generating $100M+ in ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p33#a251017p33)
- - [Marc Benioff apologizes for saying Trump should send the National Guard to SF, says the comments were made out of &quot;an abundance of caution&quot; around Dreamforce &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251017/p32#a251017p32)<!-- TECH:END -->
+ - [M5 MacBook Pro, iPad Pro, and Apple Vision Pro, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/17/m5-macbook-pro-ipad-pro-and-apple-vision-pro-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

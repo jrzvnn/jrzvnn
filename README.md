@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft to bring Copilot Actions, which can use apps to complete certain tasks on local files in Windows 11, to the Windows Insider Program and Copilot Labs &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251017/p3#a251017p3)
- - [Sources: Nintendo has asked manufacturers to produce as many as 25M Switch 2 units by the end of March 2026, surpassing analysts&#39; estimates of 17.6M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p4#a251017p4)
- - [Internal documents: Salesforce pitched ICE on using its AI tech to nearly triple the agency&#39;s staff by hiring 10K new officers, improve investigations, and more &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251017/p2#a251017p2)
- - [Kayak launches a ChatGPT-powered chatbot on its desktop and mobile website that lets users ask travel questions and compare flights, hotels, and car rentals &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251017/p1#a251017p1)
- - [Sources: Meta is set to seal an almost $30B financing package for its Louisiana data center; Meta will retain 20% ownership in the Hyperion data center site &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p53#a251016p53)<!-- TECH:END -->
+ - [Three labor unions filed a lawsuit in NY federal court to block the Trump administration from searching visa holders&#39; social media for posts it deems hostile &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251017/p10#a251017p10)
+ - [Source: OpenAI expects to spend 20% to 30% less on AI chips co-developed with Broadcom than on chips from Nvidia, which is notoriously backlogged on GPU orders &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251017/p9#a251017p9)
+ - [Hacker group Scattered LAPSUS$ Hunters posts alleged names, phone numbers, and addresses of hundreds of DHS, ICE, FBI, and DOJ officials in a mass doxxing event &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251017/p8#a251017p8)
+ - [Sources: Samsung to showcase its trifold phone at this month&#39;s APEC summit; attendees won&#39;t be allowed to touch it, as it&#39;s expected to be displayed under glass &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251017/p7#a251017p7)
+ - [Wikimedia says Wikipedia is seeing a significant decline in human traffic, as more people access the site&#39;s information via AI chatbots without clicking through &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251017/p6#a251017p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

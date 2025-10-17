@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - 😝 [True](http://9gag.com/gag/aAyNoPL)
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
  - 💣 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)
- - 😝 [Old good boy](http://9gag.com/gag/aZZVG7X)
- - 👉 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)<!-- MEMES:END -->
+ - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
+ - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
 
 ---
 

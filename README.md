@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EssilorLuxottica stock jumps 10%+ after reporting Q3 revenue up 11.7% YoY to €6.9B, with wearables like Ray-Ban Meta contributing 4 percentage points to growth &lpar;CNBC&rpar;](http://www.techmeme.com/251017/p16#a251017p16)
  - [Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)
  - [The Blurred Truths of Sora](https://www.wired.com/story/the-blurred-truths-of-sora/)
  - [Meta plans new Instagram teen safety tools in 2026, letting parents block teens from chatting with AI characters and sending them &quot;insights&quot; from teens&#39; chats &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251017/p15#a251017p15)
- - [Daylight Saving Time Ends Soon. Get Ready to Set Your Clocks Back](https://www.cnet.com/health/daylight-saving-time-ends-soon-heres-when-to-set-your-clocks-back/#ftag=CAD590a51e)
- - [The Bourbon Industry Is in Turmoil. Could Tech Provide the Shot It Needs?](https://www.wired.com/story/whiskey-house-bourbon/)<!-- TECH:END -->
+ - [Daylight Saving Time Ends Soon. Get Ready to Set Your Clocks Back](https://www.cnet.com/health/daylight-saving-time-ends-soon-heres-when-to-set-your-clocks-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

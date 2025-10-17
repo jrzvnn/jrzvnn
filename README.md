@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 💣 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
+ - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
+ - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
+ - 💣 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)
+ - 😝 [Old good boy](http://9gag.com/gag/aZZVG7X)
+ - 👉 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)<!-- MEMES:END -->
 
 ---
 

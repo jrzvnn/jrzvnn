@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
- - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
- - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
+ - 😝 [Move b*tch](http://9gag.com/gag/amobZdv)
+ - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 💣 [This is peak Comedy lol](http://9gag.com/gag/a2vjXGE)
+ - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
+ - 👉 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)<!-- MEMES:END -->
 
 ---
 

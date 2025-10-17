@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - 😝 [Ytho](http://9gag.com/gag/aryrQD7)
- - 💣 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
- - 😝 [Man kicked cyclist for no reason in front of London police and they helped him get away](http://9gag.com/gag/aZZVewn)
- - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 😝 [This senior graphic designer left her job because she couldn&#39;t get a raise, only to learn that her replacement will be making $15,000 more than she ever made](http://9gag.com/gag/amobeLd)
+ - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 😝 [Is there anyone who likes this kind of weather?](http://9gag.com/gag/aAyNjb0)
+ - 👉 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)<!-- MEMES:END -->
 
 ---
 

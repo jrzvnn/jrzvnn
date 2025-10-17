@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabra Enhance Select 700 Review: Still Great Hearing Aids](https://www.wired.com/review/jabra-enhance-select-700/)
- - [Inside macOS 26 Phone app - Big Continuity upgrade with a sleek design](https://appleinsider.com/inside/ios-26/tips/inside-macos-26-phone-app---big-continuity-upgrade-with-a-sleek-design?utm_source=rss)
- - [Delayed iPhone Air sells out within minutes in China](https://appleinsider.com/articles/25/10/17/delayed-iphone-air-sells-out-within-minutes-in-china?utm_source=rss)
- - [OpenAI Sora 2 Invite Code: How the Waitlist Works and How to Get Access](https://www.cnet.com/tech/services-and-software/openai-sora-2-invite-code-how-the-waitlist-works-and-how-to-get-acces/#ftag=CAD590a51e)
- - [EssilorLuxottica stock jumps 10%+ after reporting Q3 revenue up 11.7% YoY to €6.9B, with wearables like Ray-Ban Meta contributing 4 percentage points to growth &lpar;CNBC&rpar;](http://www.techmeme.com/251017/p16#a251017p16)<!-- TECH:END -->
+ - [6 Best Tote Bags of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/best-laptop-totes-and-purses/)
+ - [Amazon&#39;s Twitch begins testing livestream shopping ads allowing users to buy products &quot;in real time&quot;, starting with e.l.f. Cosmetics &lpar;Peter Adams/Marketing Dive&rpar;](http://www.techmeme.com/251017/p19#a251017p19)
+ - [Sources: French regulator ACPR is carrying out anti-money laundering checks on Binance and others, as it seeks to determine eligibility for EU MiCA licenses &lpar;Claudia Cohen/Bloomberg&rpar;](http://www.techmeme.com/251017/p18#a251017p18)
+ - [Israel-based Second Nature, whose conversational AI helps train sales teams, raised a $22M Series B led by Sienna VC, taking its total raised to $80M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251017/p17#a251017p17)
+ - [Jabra Enhance Select 700 Review: Still Great Hearing Aids](https://www.wired.com/review/jabra-enhance-select-700/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

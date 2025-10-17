@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s research explains how AI can identify bugs in code and generate QE tests](https://appleinsider.com/articles/25/10/16/apples-research-explains-how-ai-can-identify-bugs-in-code-and-generate-qe-tests?utm_source=rss)
- - [Sources: CME Group plans to debut financial contracts tied to sports games and economic indicators by the end of 2025, including through its FanDuel partnership &lpar;Bloomberg&rpar;](http://www.techmeme.com/251016/p49#a251016p49)
- - [Keep Your Kids From Getting Sick This Flu Season With These Doctor-Approved Tips](https://www.cnet.com/health/parenting/ways-prevent-kids-getting-sick-back-to-school-season/#ftag=CAD590a51e)
- - [Steve Jobs and the Cray-1 Supercomputer Will Be on US Dollar Coins](https://www.cnet.com/tech/services-and-software/steve-jobs-and-the-cray-1-supercomputer-will-be-on-us-dollar-coins/#ftag=CAD590a51e)
- - [The Earth Has a Growing Weak Spot in Its Magnetic Field: Here&#39;s What That Means](https://www.cnet.com/science/space/the-earth-has-a-growing-weak-spot-in-its-magnetic-field-heres-what-that-means/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MacBook Pro rumor points to OLED, touchscreen upgrades next year](https://www.theverge.com/news/801363/apple-macbook-pro-2026-rumor-oled-touchscreen)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 17, #389](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-17-389/#ftag=CAD590a51e)
+ - [MacBook Pro May Be Finally Getting a Touchscreen](https://www.cnet.com/tech/computing/macbook-pro-may-be-finally-getting-a-touchscreen/#ftag=CAD590a51e)
+ - [Meta Is Shuttering Its Messenger Apps for Mac and Windows](https://www.cnet.com/tech/computing/meta-is-shuttering-its-messenger-apps-for-mac-and-windows/#ftag=CAD590a51e)
+ - [Apple&#39;s research explains how AI can identify bugs in code and generate QE tests](https://appleinsider.com/articles/25/10/16/apples-research-explains-how-ai-can-identify-bugs-in-code-and-generate-qe-tests?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

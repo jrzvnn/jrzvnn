@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
  - 💣 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
+ - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
+ - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
 
 ---
 

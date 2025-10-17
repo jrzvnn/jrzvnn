@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jabra Enhance Select 700 Review: Still Great Hearing Aids](https://www.wired.com/review/jabra-enhance-select-700/)
+ - [Inside macOS 26 Phone app - Big Continuity upgrade with a sleek design](https://appleinsider.com/inside/ios-26/tips/inside-macos-26-phone-app---big-continuity-upgrade-with-a-sleek-design?utm_source=rss)
  - [Delayed iPhone Air sells out within minutes in China](https://appleinsider.com/articles/25/10/17/delayed-iphone-air-sells-out-within-minutes-in-china?utm_source=rss)
- - [OpenAI Sora 2 Invite Code: How the Waitlist Works and How to Get Access](https://www.cnet.com/tech/services-and-software/openai-sora-2-invite-code-how-the-waitlist-works-and-how-to-get-acces/#ftag=CAD590a51e)
  - [EssilorLuxottica stock jumps 10%+ after reporting Q3 revenue up 11.7% YoY to €6.9B, with wearables like Ray-Ban Meta contributing 4 percentage points to growth &lpar;CNBC&rpar;](http://www.techmeme.com/251017/p16#a251017p16)
- - [Best Rural Internet Providers for 2025](https://www.cnet.com/home/internet/best-rural-internet-providers/#ftag=CAD590a51e)
  - [Best Mattress 2025: We’ve Tested 100-Plus So You Can Sleep Soundly](https://www.wired.com/gallery/best-mattresses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

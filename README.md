@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Revolut is nearing the completion of a $3B fundraising round that values the company at $75B, up from $45B in a 2024 secondary share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p25#a251017p25)
+ - [Amazon’s Ring now works with video surveillance company Flock](https://www.theverge.com/news/801856/amazon-ring-partners-flock-video)
+ - [It&#39;s Scoobtober, Y&#39;all. Here&#39;s Where to Stream the Best of Scooby-Doo](https://www.cnet.com/tech/services-and-software/its-scoobtober-yall-heres-where-to-stream-the-best-of-scooby-doo/#ftag=CAD590a51e)
  - [Sources: Tempo, a stablecoin-focused blockchain developed by Stripe and Paradigm, raised a $500M Series A led by Greenoaks and Thrive Capital at a $5B valuation &lpar;Fortune&rpar;](http://www.techmeme.com/251017/p24#a251017p24)
- - [Kelly Reichardt’s anti-heist movie](https://www.theverge.com/entertainment/801651/the-mastermind-kelly-reichardt-director-interview)
- - [The time has come - the first questionable report about iPhone production changes has arrived](https://appleinsider.com/articles/25/10/17/the-time-has-come---the-first-questionable-report-about-iphone-production-changes-has-arrived?utm_source=rss)
- - [WhatsApp is testing limits on how many messages a user or business can send monthly to unknown people without a response; nearing the limit displays a warning &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p23#a251017p23)
- - [Facebook&#39;s New Feature Can Scan Your Camera Roll to Tell You What to Post](https://www.cnet.com/news/social-media/facebooks-new-feature-can-scan-your-camera-roll-to-tell-you-what-to-post/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kelly Reichardt’s anti-heist movie](https://www.theverge.com/entertainment/801651/the-mastermind-kelly-reichardt-director-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Indoor Garden Systems: We&#39;ve Been Testing All Year &lpar;2025&rpar;](https://www.wired.com/gallery/best-indoor-gardening-systems/)
+ - [Dreamdata, which offers a B2B marketing analytics platform, raised a $55M Series B led by PeakSpan, bringing its total funding to $67M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251017/p34#a251017p34)
+ - [M5 MacBook Pro, iPad Pro, and Apple Vision Pro, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/17/m5-macbook-pro-ipad-pro-and-apple-vision-pro-on-the-appleinsider-podcast?utm_source=rss)
  - [Sources: Suno is in talks to raise $100M+ at a $2B+ valuation, quadrupling its previous valuation; it raised $125M in 2024 and is generating $100M+ in ARR &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p33#a251017p33)
- - [Marc Benioff apologizes for saying Trump should send the National Guard to SF, says the comments were made out of &quot;an abundance of caution&quot; around Dreamforce &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251017/p32#a251017p32)
- - [Nvidia and TSMC unveil the first Blackwell chip wafer made in the US, which will eventually become Blackwell chips &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251017/p31#a251017p31)
- - [Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast](https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/)
- - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $115M at a $1.3B valuation, bringing its Series A to $350M and total funding to $550M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251017/p30#a251017p30)<!-- TECH:END -->
+ - [Marc Benioff apologizes for saying Trump should send the National Guard to SF, says the comments were made out of &quot;an abundance of caution&quot; around Dreamforce &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251017/p32#a251017p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

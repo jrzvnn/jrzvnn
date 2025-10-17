@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [Ooops](http://9gag.com/gag/axynLY1)
+ - 😝 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
+ - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
  - 💣 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 😝 [Remember and never forget](http://9gag.com/gag/aO8NXRE)
+ - 😝 [I dont fly](http://9gag.com/gag/aByN74x)
  - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---

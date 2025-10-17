@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best plot twist I&#39;ve ever seen](http://9gag.com/gag/a5QyOGg)
  - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - 💣 [Ytho](http://9gag.com/gag/aryrQD7)
- - 😝 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 😝 [Ytho](http://9gag.com/gag/aryrQD7)
+ - 💣 [This guy is a f**king legend](http://9gag.com/gag/ayNVKvV)
+ - 😝 [Man kicked cyclist for no reason in front of London police and they helped him get away](http://9gag.com/gag/aZZVewn)
  - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
 
 ---

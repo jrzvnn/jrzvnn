@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
- - 😝 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)
- - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [I dont fly](http://9gag.com/gag/aByN74x)
- - 👉 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)<!-- MEMES:END -->
+ - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 😝 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
+ - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 😝 [Remember and never forget](http://9gag.com/gag/aO8NXRE)
+ - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
 
 ---
 

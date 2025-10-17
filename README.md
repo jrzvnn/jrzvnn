@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 💣 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 👉 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)<!-- MEMES:END -->
+ - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
+ - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
+ - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 😝 [This instrument is the Mega Marvin, used to make sounds for horror movies](http://9gag.com/gag/a7o6Qzz)
+ - 👉 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)<!-- MEMES:END -->
 
 ---
 

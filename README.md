@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [NETFLIX and Chill Winston.](http://9gag.com/gag/a0eWBLO)
- - 😝 [The real rich man!](http://9gag.com/gag/abAmNVB)
+ - 😝 [True](http://9gag.com/gag/aAyNoPL)
  - 💣 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)
  - 😝 [Old good boy](http://9gag.com/gag/aZZVG7X)
  - 👉 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)<!-- MEMES:END -->

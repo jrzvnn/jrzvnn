@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia and TSMC unveil the first Blackwell chip wafer made in the US, which will eventually become Blackwell chips &lpar;Megan Morrone/Axios&rpar;](http://www.techmeme.com/251017/p31#a251017p31)
+ - [Some of Our Favorite Noise-Canceling Headphones Are $100 Off if You Act Fast](https://www.wired.com/story/bose-quietcomfort-ultra-deal-1025/)
+ - [Lila Sciences, which uses AI to develop novel drugs and materials, raised $115M at a $1.3B valuation, bringing its Series A to $350M and total funding to $550M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251017/p30#a251017p30)
  - [Sources: Google plans to release Gemini 3 in December; it is expected to be more performant across the board, especially in coding and multimodal generation &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251017/p29#a251017p29)
- - [Astra Nova, which develops no-code tools that enable creators to launch blockchain-based entertainment experiences, raised $48.3M &lpar;CoinDesk&rpar;](http://www.techmeme.com/251017/p28#a251017p28)
- - [OpenAI Pauses Sora AI Videos of Martin Luther King Jr. as &#39;Inappropriate&#39; Deepfakes Flood the App](https://www.cnet.com/tech/services-and-software/openai-pauses-sora-ai-videos-of-martin-luther-king-jr-as-inappropriate-deepfakes-flood-the-app/#ftag=CAD590a51e)
- - [Pokémon Legends: Z-A Rotom Phone review: better camera, higher jumps](https://www.theverge.com/games/801113/pokemon-legends-za-rotom-phone-pokedex-review)
- - [Automaker Stellantis and Pony.ai sign a non-binding agreement to develop robotaxis for deployment in Europe, with plans to start testing in the coming months &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251017/p27#a251017p27)<!-- TECH:END -->
+ - [Astra Nova, which develops no-code tools that enable creators to launch blockchain-based entertainment experiences, raised $48.3M &lpar;CoinDesk&rpar;](http://www.techmeme.com/251017/p28#a251017p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

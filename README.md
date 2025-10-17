@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Early M5 MacBook Pro benchmarks show a big boost over the M4](https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4?utm_source=rss)
  - [European automakers warn of substantial disruption to production after China cut off Nexperia&#39;s outbound shipments following the Dutch seizure of Nexperia &lpar;Financial Times&rpar;](http://www.techmeme.com/251017/p22#a251017p22)
+ - [OpenAI suspends MLK deepfakes on Sora after ‘disrespectful’ videos](https://www.theverge.com/news/801539/open-ai-sora-mlk)
  - [Don&#39;t put anything between your MacBook screen, including webcam covers](https://appleinsider.com/articles/25/10/17/dont-put-anything-between-your-macbook-screen-including-webcam-covers?utm_source=rss)
- - [A look at the challenges facing Europe&#39;s chip industry, as the EU will likely fall short of its targeted 20% share of global chip manufacturing by 2030 &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/251017/p21#a251017p21)
- - [The Best TVs We’ve Reviewed In 2025: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [A look at the challenges facing Europe&#39;s chip industry, as the EU will likely fall short of its targeted 20% share of global chip manufacturing by 2030 &lpar;Foreign Affairs&rpar;](http://www.techmeme.com/251017/p21#a251017p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

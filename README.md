@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman came to police to report sexual harassment. Police threatened to arrest her for describing her attacker.](http://9gag.com/gag/aYQnXQ2)
+ - 😝 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
  - 😝 [Indian anti rape training](http://9gag.com/gag/aGyN4M6)
- - 💣 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
- - 😝 [Easter Egg](http://9gag.com/gag/a6Z3P5e)
+ - 💣 [Especially the 2 hour ones](http://9gag.com/gag/aGyNXAz)
+ - 😝 [Tears of Joy](http://9gag.com/gag/a34pmg1)
  - 👉 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)<!-- MEMES:END -->
 
 ---

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The Biggest Fall Deals at Home Depot &lpar;2025&rpar;](https://www.wired.com/story/home-depot-fall-savings-2025/)
  - [Sources: Li Lin, founder of crypto exchange Huobi, and some of Asia&#39;s earliest Ethereum backers have raised ~$1B to launch a digital asset trust to buy Ether &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p35#a251017p35)
  - [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 18, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-18-390/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Foods You May Think Are Vegetarian, but Actually Aren&#39;t](https://www.cnet.com/news/10-foods-you-may-think-are-vegetarian-but-actually-arent/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

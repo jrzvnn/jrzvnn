@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and F1 announce a five-year US media rights deal that will bring all races to Apple TV beginning in 2026; sources: Apple is paying about $140M per year &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/251017/p20#a251017p20)
- - [These 8 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)
- - [I Used Squarespace’s Blueprint AI to Design a Website](https://www.wired.com/story/squarespace-blueprint-ai-website-builder/)
- - [AI can’t even turn on the lights](https://www.theverge.com/podcast/801532/ai-smart-home-apple-m5-vergecast)
- - [Unsurprisingly, hinge issues rumored to delay iPhone Fold to 2027](https://appleinsider.com/articles/25/10/17/unsurprisingly-hinge-issues-rumored-to-delay-iphone-fold-to-2027?utm_source=rss)<!-- TECH:END -->
+ - [8 Best USB Hubs &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-usb-hubs/)
+ - [Apple TV seizes F1 pole position with five-year US streaming rights deal](https://appleinsider.com/articles/25/10/17/apple-tv-seizes-f1-pole-position-with-five-year-us-streaming-rights-deal?utm_source=rss)
+ - [Redmagic 11 Pro is the first phone with liquid cooling](https://www.theverge.com/news/801581/redmagic-11-pro-china-launch-liquid-cooling-8000mah-battery)
+ - [Apple and Formula One announce a five-year US media rights deal for all races starting in 2026; sources: Apple is paying $140M/year, up from ESPN&#39;s ~$85M/year &lpar;Alex Sherman/CNBC&rpar;](http://www.techmeme.com/251017/p20#a251017p20)
+ - [These 8 Automatic Cat Feeders Were the Best We Tested &lpar;2025&rpar;](https://www.wired.com/gallery/best-automatic-cat-feeders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

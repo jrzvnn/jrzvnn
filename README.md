@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it paused Sora&#39;s ability to generate videos resembling MLK Jr. at the request of his estate, after some users created &quot;disrespectful depictions&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/251017/p12#a251017p12)
+ - [Lelo Switch Review: Dual-Ended Vibrator](https://www.wired.com/review/lelo-switch/)
  - [How the FBI&#39;s hunt for the person who coerced a 13-year-old into livestreaming his suicide led to the arrest of a German member of the online predator group 764 &lpar;William Wan/Washington Post&rpar;](http://www.techmeme.com/251017/p11#a251017p11)
  - [Three labor unions filed a lawsuit in NY federal court to block the Trump administration from searching visa holders&#39; social media for posts it deems hostile &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251017/p10#a251017p10)
- - [Source: OpenAI expects to spend 20% to 30% less on AI chips co-developed with Broadcom than on chips from Nvidia, which is notoriously backlogged on GPU orders &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251017/p9#a251017p9)
- - [Hacker group Scattered LAPSUS$ Hunters posts alleged names, phone numbers, and addresses of hundreds of DHS, ICE, FBI, and DOJ officials in a mass doxxing event &lpar;Joseph Cox/404 Media&rpar;](http://www.techmeme.com/251017/p8#a251017p8)
- - [Sources: Samsung to showcase its trifold phone at this month&#39;s APEC summit; attendees won&#39;t be allowed to touch it, as it&#39;s expected to be displayed under glass &lpar;Yoolim Lee/Bloomberg&rpar;](http://www.techmeme.com/251017/p7#a251017p7)<!-- TECH:END -->
+ - [Source: OpenAI expects to spend 20% to 30% less on AI chips co-developed with Broadcom than on chips from Nvidia, which is notoriously backlogged on GPU orders &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251017/p9#a251017p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

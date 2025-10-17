@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic&#39;s Skills for Claude, which are conceptually very simple, may become a bigger deal than MCP, whose high token usage is its most significant limitation &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251017/p14#a251017p14)
  - [How to See Comet Lemmon This October](https://www.wired.com/story/how-to-see-comet-lemmon-this-october/)
  - [Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive](https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai)
  - [Reddit announces that it is expanding its Google Gemini-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p13#a251017p13)
- - [OpenAI says it paused Sora&#39;s ability to generate videos resembling MLK Jr. at the request of his estate, after some users created &quot;disrespectful depictions&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/251017/p12#a251017p12)
- - [Lelo Switch Review: Dual-Ended Vibrator](https://www.wired.com/review/lelo-switch/)<!-- TECH:END -->
+ - [OpenAI says it paused Sora&#39;s ability to generate videos resembling MLK Jr. at the request of his estate, after some users created &quot;disrespectful depictions&quot; &lpar;Maxwell Zeff/TechCrunch&rpar;](http://www.techmeme.com/251017/p12#a251017p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

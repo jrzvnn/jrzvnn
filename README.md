@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atari’s resurrecting the Intellivision, one of its biggest competitors in the ‘80s](https://www.theverge.com/news/801646/atari-intellivision-sprint-console-competition)
+ - [I took an iPhone Air on vacation to test its two biggest compromises -- and came home surprised](https://appleinsider.com/articles/25/10/17/i-took-an-iphone-air-on-vacation-to-test-its-two-biggest-compromises----and-came-home-surprised?utm_source=rss)
+ - [Price war: Apple&#39;s M4 Pro Mac mini drops to $1,299](https://appleinsider.com/articles/25/10/17/price-war-apples-m4-pro-mac-mini-drops-to-1299?utm_source=rss)
  - [Can AI Avoid the Enshittification Trap?](https://www.wired.com/story/can-ai-escape-enshittification-trap/)
- - [This weirdo Xbox game about a walking lighthouse is a Keeper](https://www.theverge.com/games/801563/keeper-review-xbox-double-fine)
- - [Elon Musk Has Turned His Eye to the UK](https://www.wired.com/story/elon-musk-attention-on-uk-tommy-robinson/)
- - [Early M5 MacBook Pro benchmarks show a big boost over the M4](https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4?utm_source=rss)
- - [European automakers warn of substantial disruption to production after China cut off Nexperia&#39;s outbound shipments following the Dutch seizure of Nexperia &lpar;Financial Times&rpar;](http://www.techmeme.com/251017/p22#a251017p22)<!-- TECH:END -->
+ - [This weirdo Xbox game about a walking lighthouse is a Keeper](https://www.theverge.com/games/801563/keeper-review-xbox-double-fine)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

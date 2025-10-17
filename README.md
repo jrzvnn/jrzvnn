@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
  - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
  - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
- - 😝 [Good on you](http://9gag.com/gag/a34pV87)
+ - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
  - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---

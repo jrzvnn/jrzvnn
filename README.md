@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
- - 😝 [Bird plays reverse Uno.](http://9gag.com/gag/aXPGyXP)
- - 💣 [Gravity always wins](http://9gag.com/gag/ajPMeo1)
- - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
+ - 😝 [Those darn pirates! &lpar;lol&rpar;](http://9gag.com/gag/aLnNx0z)
+ - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 😝 [I dont fly](http://9gag.com/gag/aByN74x)
+ - 👉 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)<!-- MEMES:END -->
 
 ---
 

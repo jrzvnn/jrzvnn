@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Tempo, a stablecoin-focused blockchain developed by Stripe and Paradigm, raised a $500M Series A led by Greenoaks and Thrive Capital at a $5B valuation &lpar;Fortune&rpar;](http://www.techmeme.com/251017/p24#a251017p24)
  - [Kelly Reichardt’s anti-heist movie](https://www.theverge.com/entertainment/801651/the-mastermind-kelly-reichardt-director-interview)
  - [The time has come - the first questionable report about iPhone production changes has arrived](https://appleinsider.com/articles/25/10/17/the-time-has-come---the-first-questionable-report-about-iphone-production-changes-has-arrived?utm_source=rss)
  - [WhatsApp is testing limits on how many messages a user or business can send monthly to unknown people without a response; nearing the limit displays a warning &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p23#a251017p23)
- - [SteelSeries makes some of the best wireless gaming earbuds, and they’re 36 percent off](https://www.theverge.com/tech/801041/steelseries-arctis-buds-rtx-5070-gpu-deal-sale)
- - [New Apple Vision Pro with M5 doubles refresh rate of Mac Virtual Display](https://appleinsider.com/articles/25/10/17/new-apple-vision-pro-with-m5-doubles-refresh-rate-of-mac-virtual-display?utm_source=rss)<!-- TECH:END -->
+ - [Facebook&#39;s New Feature Can Scan Your Camera Roll to Tell You What to Post](https://www.cnet.com/news/social-media/facebooks-new-feature-can-scan-your-camera-roll-to-tell-you-what-to-post/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

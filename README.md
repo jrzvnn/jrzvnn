@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance’s Other AI Chatbot Is Quietly Gaining Traction Around the World](https://www.wired.com/story/bytedances-ai-chatbot-is-quietly-gaining-traction-around-the-world/)
- - [Anthropic&#39;s Skills for Claude, which are conceptually very simple, may become a bigger deal than MCP, whose high token usage is its most significant limitation &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251017/p14#a251017p14)
- - [How to See Comet Lemmon This October](https://www.wired.com/story/how-to-see-comet-lemmon-this-october/)
- - [Anthropic connects Claude to Microsoft Teams, Outlook, and OneDrive](https://www.theverge.com/news/801487/anthropic-claude-microsoft-365-connector-ai)
- - [Reddit announces that it is expanding its Google Gemini-powered search experience to five new languages: French, German, Spanish, Italian, and Portuguese &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251017/p13#a251017p13)<!-- TECH:END -->
+ - [Meta plans new Instagram teen safety tools in 2026, letting parents block teens from chatting with AI characters and sending them &quot;insights&quot; from teens&#39; chats &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251017/p15#a251017p15)
+ - [Daylight Saving Time Ends Soon. Get Ready to Set Your Clocks Back](https://www.cnet.com/health/daylight-saving-time-ends-soon-heres-when-to-set-your-clocks-back/#ftag=CAD590a51e)
+ - [The Bourbon Industry Is in Turmoil. Could Tech Provide the Shot It Needs?](https://www.wired.com/story/whiskey-house-bourbon/)
+ - [Meta is adding more parental controls for teen AI use](https://www.theverge.com/news/801505/meta-ai-chatbot-parental-controls-instagram)
+ - [ByteDance’s Other AI Chatbot Is Quietly Gaining Traction Around the World](https://www.wired.com/story/bytedances-ai-chatbot-is-quietly-gaining-traction-around-the-world/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers Dox ICE, DHS, DOJ, and FBI Officials](https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/)
- - [Swedish Death Cleaning, but for Your Digital Life](https://www.wired.com/story/swedish-death-cleaning-for-your-digital-life/)
- - [Here&#39;s Where to Find Delicious and Easy Recipes on Your iPhone Now](https://www.cnet.com/tech/services-and-software/heres-where-to-find-delicious-and-easy-recipes-on-your-iphone-now/#ftag=CAD590a51e)
- - [Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor](https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/)
- - [Early M5 MacBook Pro benchmarks show a big boost over the M4](https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4?utm_source=rss)<!-- TECH:END -->
+ - [Your Kitchen Is Full of Useless Gadgets. At Least, That&#39;s What These Chefs Say](https://www.cnet.com/news/your-kitchen-is-full-of-useless-gadgets-at-least-thats-what-these-chefs-say/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Man City vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-everton-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Brighton vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brighton-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
+ - [The 25 Best Movies on Amazon Prime Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [Audien Hearing Atom X Hearing Aids Review: High-Tech Case](https://www.wired.com/review/audien-hearing-atom-x-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

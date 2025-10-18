@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
  - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
  - 👉 [Old good boy](http://9gag.com/gag/aZZVG7X)<!-- MEMES:END -->
 

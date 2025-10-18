@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 😝 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)
+ - 💣 [Tears of Joy](http://9gag.com/gag/a34pmg1)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 👉 [Privilege](http://9gag.com/gag/a1mqzbv)<!-- MEMES:END -->
 
 ---
 

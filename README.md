@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two power chords credit @misiurka fam](http://9gag.com/gag/avyXYLq)
- - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 💣 [Mad respect](http://9gag.com/gag/abAm96b)
+ - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 💣 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
  - 👉 [How to make men laugh](http://9gag.com/gag/avyXbnO)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s for me. &lpar;Paid by you.&rpar;](http://9gag.com/gag/a0eWBxB)
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 💣 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 💣 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Mad respect](http://9gag.com/gag/abAm96b)<!-- MEMES:END -->
+ - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---
 

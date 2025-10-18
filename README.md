@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Anton Pavlovsky, CEO of Kyiv-based Headway Inc, which develops gamified educational apps and has 160M users across its five-product portfolio &lpar;Martina Di Licosa/Forbes&rpar;](http://www.techmeme.com/251018/p14#a251018p14)
  - [US military has adopted an aggressive push to embrace AI; the top US Army commander in South Korea says &quot;Chat and I&quot; have become &quot;really close lately&quot; &lpar;Business Insider&rpar;](http://www.techmeme.com/251018/p13#a251018p13)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #861](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-861/#ftag=CAD590a51e)
  - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #595](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-595/#ftag=CAD590a51e)
- - [Shares of bitcoin mining companies pivoting to AI and HPC infrastructure have soared in 2025, with a fund tracking mining firms up 150% year-to-date &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251018/p12#a251018p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #595](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-595/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

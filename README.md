@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 💣 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
+ - 😝 [Good Afternoon....](http://9gag.com/gag/a4PrXMw)
+ - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 👉 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)<!-- MEMES:END -->
 
 ---
 

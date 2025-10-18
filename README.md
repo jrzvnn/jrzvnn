@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [Tears of Joy](http://9gag.com/gag/a34pmg1)
- - 💣 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)
+ - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)<!-- MEMES:END -->
+ - 👉 [Mad respect](http://9gag.com/gag/abAm96b)<!-- MEMES:END -->
 
 ---
 

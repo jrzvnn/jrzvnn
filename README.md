@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tears of Joy](http://9gag.com/gag/a34pmg1)
+ - 😝 [Privilege](http://9gag.com/gag/a1mqzbv)
  - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
  - 💣 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)

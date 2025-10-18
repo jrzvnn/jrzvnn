@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)
- - 💣 [Tears of Joy](http://9gag.com/gag/a34pmg1)
+ - 😝 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
+ - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 💣 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Privilege](http://9gag.com/gag/a1mqzbv)<!-- MEMES:END -->
+ - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---
 

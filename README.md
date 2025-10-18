@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lovense Lush Mini Review: A Dual-Stimulation Vibrator](https://www.wired.com/review/lovense-lush-mini/)
  - [Inside Hyperliquid, a booming DEX for perpetual crypto futures still controlled by a small insider group, raising questions about how decentralized it really is &lpar;Muyao Shen/Bloomberg&rpar;](http://www.techmeme.com/251018/p5#a251018p5)
  - [Shares of ISU Petasys, a South Korea-based multi-layer PCB supplier for AI servers used by Alphabet, Nvidia, Microsoft, and others, are up 215% so far this year &lpar;John Kang/Forbes&rpar;](http://www.techmeme.com/251018/p4#a251018p4)
  - [South Korea restricts travel to Cambodia over online scam center kidnappings; the UK and US sanction Cambodia&#39;s Prince Group for allegedly running scam centers &lpar;Christian Davies/Financial Times&rpar;](http://www.techmeme.com/251018/p3#a251018p3)
- - [Mexico-based fintech Plata, approved for a banking license in December 2024, raised $250M at a $3.1B valuation, as it seeks to transition to a full-fledged bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/251018/p2#a251018p2)
- - [Top TurboTax Discount Codes &amp; Coupons October 2025](https://www.wired.com/story/turbotax-coupon/)<!-- TECH:END -->
+ - [Mexico-based fintech Plata, approved for a banking license in December 2024, raised $250M at a $3.1B valuation, as it seeks to transition to a full-fledged bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/251018/p2#a251018p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

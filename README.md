@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
  - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
- - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
  - 👉 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)<!-- MEMES:END -->
 

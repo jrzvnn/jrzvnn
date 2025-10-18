@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two power chords credit @misiurka fam](http://9gag.com/gag/avyXYLq)
- - 😝 [Before auto tune you needed a church choir](http://9gag.com/gag/agmZPZq)
- - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [True I guess](http://9gag.com/gag/aPAdNOP)<!-- MEMES:END -->
+ - 👉 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)<!-- MEMES:END -->
 
 ---
 

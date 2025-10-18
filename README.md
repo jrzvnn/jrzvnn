@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #861](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-861/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #595](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-595/#ftag=CAD590a51e)
  - [Shares of bitcoin mining companies pivoting to AI and HPC infrastructure have soared in 2025, with a fund tracking mining firms up 150% year-to-date &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251018/p12#a251018p12)
- - [WhatsApp updates its Business API terms to ban general-purpose chatbots starting January 15, 2026, affecting WhatsApp assistants of OpenAI, Perplexity, others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251018/p11#a251018p11)
- - [Amazon&#39;s Ring Cameras Push Deeper Into Police and Government Surveillance](https://www.cnet.com/home/security/amazons-ring-cameras-push-deeper-into-police-and-government-surveillance/#ftag=CAD590a51e)
- - [Apple Vision Pro Developer Strap could get a surprise upgrade](https://appleinsider.com/articles/25/10/18/apple-vision-pro-developer-strap-could-get-a-surprise-upgrade?utm_source=rss)
- - [&#39;Tracker&#39; Season 3: How to Watch the First Episode Without Cable](https://www.cnet.com/tech/services-and-software/tracker-season-3-how-to-watch-the-first-episode-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp updates its Business API terms to ban general-purpose chatbots starting January 15, 2026, affecting WhatsApp assistants of OpenAI, Perplexity, others &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251018/p11#a251018p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
- - 💣 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [Tears of Joy](http://9gag.com/gag/a34pmg1)
+ - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
+ - 💣 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
+ - 👉 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)<!-- MEMES:END -->
 
 ---
 

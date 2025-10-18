@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
- - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
- - 💣 [Ooops](http://9gag.com/gag/axynLY1)
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Dad bringing the amusement park home](http://9gag.com/gag/aXPGDbD)<!-- MEMES:END -->
+ - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---
 

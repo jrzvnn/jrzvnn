@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
+ - [Pokémon Legends: Z-A makes a big, welcome change for shiny hunters](https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting)
  - [An interview with Cloudflare CEO Matthew Prince on the company&#39;s new Content Signals Policy, which lets sites fine tune how their data can be used by crawlers &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/251018/p8#a251018p8)
  - [Cosmic Orange iPhone 17 Pro changing color to pink for some](https://appleinsider.com/articles/25/10/18/cosmic-orange-iphone-17-pro-allegedly-changes-color-to-pink?utm_source=rss)
- - [15 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
- - [Easy Delivery Co. is a cozy, Lynchian dream](https://www.theverge.com/games/800733/easy-delivery-co-review-steam)
- - [Ring&#39;s New 4K Security Camera Has a Limited-Time Halloween Costume. How to Get It](https://www.cnet.com/home/security/rings-new-4k-security-camera-has-a-limited-time-halloween-disguise-how-to-get-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Vision Pro Developer Strap could get a surprise upgrade](https://appleinsider.com/articles/25/10/18/apple-vision-pro-developer-strap-could-get-a-surprise-upgrade?utm_source=rss)
+ - [&#39;Tracker&#39; Season 3: How to Watch the First Episode Without Cable](https://www.cnet.com/tech/services-and-software/tracker-season-3-how-to-watch-the-first-episode-without-cable/#ftag=CAD590a51e)
  - [TiVo won the court battles, but lost the TV war](https://www.theverge.com/tech/802254/tivo-time-warp-patent-courtoom-battles-lost-tv-war)
  - [Two Wikipedia contributors disarmed a gunman who threatened to kill himself at WikiConference to protest a policy banning editors who identify as pedophiles &lpar;Andy Newman/New York Times&rpar;](http://www.techmeme.com/251018/p10#a251018p10)
- - [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale)
- - [The New Power of Far-Right Influencers](https://www.wired.com/story/uncanny-valley-podcast-the-new-power-of-far-right-influencers/)
- - [16 Gifts for People Who Are Perpetually Cold &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/)<!-- TECH:END -->
+ - [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

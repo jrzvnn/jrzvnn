@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)
- - 😝 [Roger Freedman](http://9gag.com/gag/aW4Nwbx)
- - 💣 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)
+ - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
+ - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
 
 ---
 

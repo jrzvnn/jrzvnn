@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge bars NSO Group from targeting WhatsApp users and cuts the ~$168M damages verdict awarded to Meta by a jury in May to $4M, ruling it was excessive &lpar;Carly Nairn/Courthouse News Service&rpar;](http://www.techmeme.com/251017/p39#a251017p39)
  - [Google says North Korea hackers are using &quot;EtherHiding&quot; to embed malware on blockchains, the first time it has seen a nation-state threat actor using the method &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251017/p38#a251017p38)
  - [Facebook’s new button lets its AI look at photos you haven&amp;#8217;t uploaded yet](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll)
  - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Senate Republicans share an AI-generated video falsely depicting Chuck Schumer saying on camera comments he made in a print interview on the government shutdown &lpar;Thomas Beaumont/Associated Press&rpar;](http://www.techmeme.com/251017/p37#a251017p37)
- - [Google is phasing out its Privacy Sandbox technologies; the initiative was launched in 2019 to develop privacy-protecting tech to replace third-party cookies &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/251017/p36#a251017p36)<!-- TECH:END -->
+ - [Senate Republicans share an AI-generated video falsely depicting Chuck Schumer saying on camera comments he made in a print interview on the government shutdown &lpar;Thomas Beaumont/Associated Press&rpar;](http://www.techmeme.com/251017/p37#a251017p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

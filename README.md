@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)
  - 😝 [Roger Freedman](http://9gag.com/gag/aW4Nwbx)
+ - 😝 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)
  - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
  - 👉 [Before auto tune you needed a church choir](http://9gag.com/gag/agmZPZq)<!-- MEMES:END -->

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 💣 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 👉 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)<!-- MEMES:END -->
 
 ---
 

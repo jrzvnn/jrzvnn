@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Is it any good? Asking for a friend](http://9gag.com/gag/aW4Nrod)
  - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 💣 [Is it any good? Asking for a friend](http://9gag.com/gag/aW4Nrod)
+ - 💣 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Mad respect](http://9gag.com/gag/abAm96b)<!-- MEMES:END -->
+ - 👉 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)<!-- MEMES:END -->
 
 ---
 

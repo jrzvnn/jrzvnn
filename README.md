@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
  - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
- - 😝 [Good Afternoon....](http://9gag.com/gag/a4PrXMw)
  - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)<!-- MEMES:END -->
+ - 👉 [Mad respect](http://9gag.com/gag/abAm96b)<!-- MEMES:END -->
 
 ---
 

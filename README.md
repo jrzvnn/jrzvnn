@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
+ - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 💣 [Is it any good? Asking for a friend](http://9gag.com/gag/aW4Nrod)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [I don&#39;t care, I loved tank controls](http://9gag.com/gag/aMVN3LX)<!-- MEMES:END -->
+ - 👉 [Mad respect](http://9gag.com/gag/abAm96b)<!-- MEMES:END -->
 
 ---
 

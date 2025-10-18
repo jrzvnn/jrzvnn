@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 💣 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 👉 [Good Afternoon....](http://9gag.com/gag/a4PrXMw)<!-- MEMES:END -->
+ - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 💣 [Roger Freedman](http://9gag.com/gag/aW4Nwbx)
+ - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
+ - 👉 [I don&#39;t care, I loved tank controls](http://9gag.com/gag/aMVN3LX)<!-- MEMES:END -->
 
 ---
 

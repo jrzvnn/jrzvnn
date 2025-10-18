@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Kitchen Is Full of Useless Gadgets. At Least, That&#39;s What These Chefs Say](https://www.cnet.com/news/your-kitchen-is-full-of-useless-gadgets-at-least-thats-what-these-chefs-say/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Man City vs. Everton From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-everton-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Brighton vs. Newcastle From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-brighton-vs-newcastle-from-anywhere/#ftag=CAD590a51e)
- - [The 25 Best Movies on Amazon Prime Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [Audien Hearing Atom X Hearing Aids Review: High-Tech Case](https://www.wired.com/review/audien-hearing-atom-x-hearing-aids/)<!-- TECH:END -->
+ - [Cosmic Orange iPhone 17 Pro allegedly changes color to pink](https://appleinsider.com/articles/25/10/18/cosmic-orange-iphone-17-pro-allegedly-changes-color-to-pink?utm_source=rss)
+ - [This &#39;Game of Thrones&#39; Limited Edition Phone Is the Coolest Collector&#39;s Item I&#39;ve Seen in 2025](https://www.cnet.com/tech/mobile/this-game-of-thrones-limited-edition-phone-is-the-coolest-collectors-item-ive-seen-in-2025/#ftag=CAD590a51e)
+ - [5 Pieces of Fitness Tech Personal Trainers Recommend for Your Well-Being](https://www.cnet.com/health/fitness/5-pieces-of-fitness-tech-personal-trainers-recommend-for-your-well-being/#ftag=CAD590a51e)
+ - [Best Cheap Home Security Systems for 2025: Budget-Friendly Kits](https://www.cnet.com/home/security/best-cheap-home-security-systems/#ftag=CAD590a51e)
+ - [Deep in the Wilderness: The Pros and Cons of My Starlink Mini Experience](https://www.cnet.com/home/internet/deep-in-the-wilderness-the-pros-and-cons-of-my-starlink-mini-experience/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

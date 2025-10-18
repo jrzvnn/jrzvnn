@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says North Korea hackers are using &quot;EtherHiding&quot; to embed malware on blockchains, the first time it has seen a nation-state threat actor using the method &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251017/p38#a251017p38)
+ - [Facebook’s new button lets its AI look at photos you haven&amp;#8217;t uploaded yet](https://www.theverge.com/ai-artificial-intelligence/802102/meta-facebook-opt-in-ai-edits-photos-camera-roll)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [Senate Republicans share an AI-generated video falsely depicting Chuck Schumer saying on camera comments he made in a print interview on the government shutdown &lpar;Thomas Beaumont/Associated Press&rpar;](http://www.techmeme.com/251017/p37#a251017p37)
- - [Google is phasing out its Privacy Sandbox technologies; the initiative was launched in 2019 to develop privacy-protecting tech to replace third-party cookies &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/251017/p36#a251017p36)
- - [The Biggest Fall Deals at Home Depot &lpar;2025&rpar;](https://www.wired.com/story/home-depot-fall-savings-2025/)
- - [Sources: Li Lin, founder of crypto exchange Huobi, and some of Asia&#39;s earliest Ethereum backers have raised ~$1B to launch a digital asset trust to buy Ether &lpar;Bloomberg&rpar;](http://www.techmeme.com/251017/p35#a251017p35)
- - [The US has a new roadmap for fusion energy, without the funds to back it up](https://www.theverge.com/news/802070/nuclear-fusion-energy-ai-trump-roadmap)<!-- TECH:END -->
+ - [Google is phasing out its Privacy Sandbox technologies; the initiative was launched in 2019 to develop privacy-protecting tech to replace third-party cookies &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/251017/p36#a251017p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

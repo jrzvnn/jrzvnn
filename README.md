@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Roger Freedman](http://9gag.com/gag/aW4Nwbx)
- - 😝 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)
- - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Before auto tune you needed a church choir](http://9gag.com/gag/agmZPZq)<!-- MEMES:END -->
+ - 👉 [One of us ! One of us !](http://9gag.com/gag/aByNqAz)<!-- MEMES:END -->
 
 ---
 

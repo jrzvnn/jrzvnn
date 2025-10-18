@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
- - 😝 [Privilege](http://9gag.com/gag/a1mqzbv)
- - 💣 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)
+ - 😝 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
  - 👉 [When I say `I listen to any kind of music`, this is what I mean](http://9gag.com/gag/aRBN5zM)<!-- MEMES:END -->
 

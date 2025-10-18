@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
- - 💣 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)
+ - 😝 [Roger Freedman](http://9gag.com/gag/aW4Nwbx)
+ - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)<!-- MEMES:END -->
+ - 👉 [Before auto tune you needed a church choir](http://9gag.com/gag/agmZPZq)<!-- MEMES:END -->
 
 ---
 

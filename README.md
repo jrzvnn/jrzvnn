@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 😝 [HOL UP WAIT A MINNIT.... oh. Okay, then.](http://9gag.com/gag/amobe2y)
- - 💣 [Is it any good? Asking for a friend](http://9gag.com/gag/aW4Nrod)
+ - 😝 [And that&#39;s just a fact](http://9gag.com/gag/aZZV6EQ)
+ - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
+ - 💣 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Lost a great man 30 years ago. Sad that they won&#39;t grow old together](http://9gag.com/gag/aryr6v7)<!-- MEMES:END -->
+ - 👉 [Old good boy](http://9gag.com/gag/aZZVG7X)<!-- MEMES:END -->
 
 ---
 

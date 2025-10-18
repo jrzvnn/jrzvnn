@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nexperia&#39;s China unit asserts its operational independence and compliance with Chinese laws amid escalating tensions with Nexperia Netherlands &lpar;Reuters&rpar;](http://www.techmeme.com/251018/p9#a251018p9)
  - [The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)
  - [This Solar Powered Hat Was a Functional and Fashionable Flop](https://www.cnet.com/news/this-solar-powered-hat-functional-fashionable-flop/#ftag=CAD590a51e)
  - [Pokémon Legends: Z-A makes a big, welcome change for shiny hunters](https://www.theverge.com/games/802089/pokemon-legends-z-a-shiny-hunting)
- - [An interview with Cloudflare CEO Matthew Prince on the company&#39;s new Content Signals Policy, which lets sites fine tune how their data can be used by crawlers &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/251018/p8#a251018p8)
- - [Premier League Soccer: Stream Fulham vs. Arsenal Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-fulham-vs-arsenal-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with Cloudflare CEO Matthew Prince on the company&#39;s new Content Signals Policy, which lets sites fine tune how their data can be used by crawlers &lpar;Samuel Axon/Ars Technica&rpar;](http://www.techmeme.com/251018/p8#a251018p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

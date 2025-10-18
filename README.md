@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Two Wikipedia contributors disarmed a gunman who threatened to kill himself at WikiConference to protest a policy banning editors who identify as pedophiles &lpar;Andy Newman/New York Times&rpar;](http://www.techmeme.com/251018/p10#a251018p10)
  - [Motorola’s Razr Ultra and the Marshall Emberton II top this week’s best deals](https://www.theverge.com/tech/801962/motorola-razr-ultra-2025-foldable-marshall-emberton-ii-speaker-deal-sale)
  - [The New Power of Far-Right Influencers](https://www.wired.com/story/uncanny-valley-podcast-the-new-power-of-far-right-influencers/)
  - [16 Gifts for People Who Are Perpetually Cold &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/)
- - [The 18 Best Golf Gifts for Every Kind of Golfer &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
- - [8BitDo’s new collection celebrates the NES’s 40th anniversary](https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker)<!-- TECH:END -->
+ - [The 18 Best Golf Gifts for Every Kind of Golfer &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

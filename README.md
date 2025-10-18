@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Cosmic Orange iPhone 17 Pro changing color to pink for some](https://appleinsider.com/articles/25/10/18/cosmic-orange-iphone-17-pro-allegedly-changes-color-to-pink?utm_source=rss)
  - [15 Best Heat Protectant Sprays for Wet and Dry Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-heat-protectants-for-hair/)
  - [Easy Delivery Co. is a cozy, Lynchian dream](https://www.theverge.com/games/800733/easy-delivery-co-review-steam)
- - [The AI boom has pushed SF&#39;s residential rents up by the most in the US over the past year, as AI companies lease apartments and offer rent stipends to employees &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/251018/p7#a251018p7)
- - [This &#39;Game of Thrones&#39; Limited Edition Phone Is the Coolest Collector&#39;s Item I&#39;ve Seen in 2025](https://www.cnet.com/tech/mobile/this-game-of-thrones-limited-edition-phone-is-the-coolest-collectors-item-ive-seen-in-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ring&#39;s New 4K Security Camera Has a Limited-Time Halloween Costume. How to Get It](https://www.cnet.com/home/security/rings-new-4k-security-camera-has-a-limited-time-halloween-disguise-how-to-get-it/#ftag=CAD590a51e)
+ - [The AI boom has pushed SF&#39;s residential rents up by the most in the US over the past year, as AI companies lease apartments and offer rent stipends to employees &lpar;Natallie Rocha/New York Times&rpar;](http://www.techmeme.com/251018/p7#a251018p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

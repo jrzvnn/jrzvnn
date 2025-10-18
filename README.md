@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 😝 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
- - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)
+ - 😝 [Roger Freedman](http://9gag.com/gag/aW4Nwbx)
+ - 💣 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [This is how I see the world when I walk through the city](http://9gag.com/gag/aE0Nr0O)<!-- MEMES:END -->
+ - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
 
 ---
 

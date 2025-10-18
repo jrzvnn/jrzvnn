@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea restricts travel to Cambodia over online scam center kidnappings; the UK and US sanction Cambodia&#39;s Prince Group for allegedly running scam centers &lpar;Christian Davies/Financial Times&rpar;](http://www.techmeme.com/251018/p3#a251018p3)
  - [Mexico-based fintech Plata, approved for a banking license in December 2024, raised $250M at a $3.1B valuation, as it seeks to transition to a full-fledged bank &lpar;Bloomberg&rpar;](http://www.techmeme.com/251018/p2#a251018p2)
  - [Top TurboTax Discount Codes &amp; Coupons October 2025](https://www.wired.com/story/turbotax-coupon/)
  - [Lyft plans to open a new tech hub in Toronto in H2 2026 and acquires TBR Global Chauffeuring, a Glasgow-based luxury chauffeur services company, for £83M &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/251018/p1#a251018p1)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-oct-18/#ftag=CAD590a51e)
- - [A US judge bars NSO Group from targeting WhatsApp users and cuts the ~$168M damages verdict awarded to Meta by a jury in May to $4M, ruling it was excessive &lpar;Carly Nairn/Courthouse News Service&rpar;](http://www.techmeme.com/251017/p39#a251017p39)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Oct. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-oct-18/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
  - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 💣 [Roger Freedman](http://9gag.com/gag/aW4Nwbx)
+ - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
+ - 💣 [Is it any good? Asking for a friend](http://9gag.com/gag/aW4Nrod)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
  - 👉 [I don&#39;t care, I loved tank controls](http://9gag.com/gag/aMVN3LX)<!-- MEMES:END -->
 

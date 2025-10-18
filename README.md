@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The New Power of Far-Right Influencers](https://www.wired.com/story/uncanny-valley-podcast-the-new-power-of-far-right-influencers/)
  - [16 Gifts for People Who Are Perpetually Cold &lpar;2025&rpar;](https://www.wired.com/gallery/gift-ideas-for-people-who-are-perpetually-cold-2025/)
  - [The 18 Best Golf Gifts for Every Kind of Golfer &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-golfers/)
  - [8BitDo’s new collection celebrates the NES’s 40th anniversary](https://www.theverge.com/news/801832/8bitdo-nintendo-nes-ultimate-2-controller-retro-keyboard-bluetooth-cube-speaker)
- - [Nexperia&#39;s China unit asserts its operational independence and compliance with Chinese laws amid escalating tensions with Nexperia Netherlands &lpar;Reuters&rpar;](http://www.techmeme.com/251018/p9#a251018p9)
- - [The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Nexperia&#39;s China unit asserts its operational independence and compliance with Chinese laws amid escalating tensions with Nexperia Netherlands &lpar;Reuters&rpar;](http://www.techmeme.com/251018/p9#a251018p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

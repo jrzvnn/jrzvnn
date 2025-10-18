@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Privilege](http://9gag.com/gag/a1mqzbv)
  - 😝 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)
+ - 😝 [Privilege](http://9gag.com/gag/a1mqzbv)
  - 💣 [The guy behind them seems thrilled with the free show he\u2019s getting](http://9gag.com/gag/aqypqWj)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Part of my wholesome Irish Heritage!](http://9gag.com/gag/agmZMg6)<!-- MEMES:END -->
+ - 👉 [When I say `I listen to any kind of music`, this is what I mean](http://9gag.com/gag/aRBN5zM)<!-- MEMES:END -->
 
 ---
 

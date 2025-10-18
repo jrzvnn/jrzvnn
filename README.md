@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Shoulder blade pain](http://9gag.com/gag/a0eWrmL)
- - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
- - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
+ - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 💣 [Ooops](http://9gag.com/gag/axynLY1)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Old good boy](http://9gag.com/gag/aZZVG7X)<!-- MEMES:END -->
+ - 👉 [Dad bringing the amusement park home](http://9gag.com/gag/aXPGDbD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s Where to Find Delicious and Easy Recipes on Your iPhone Now](https://www.cnet.com/tech/services-and-software/heres-where-to-find-delicious-and-easy-recipes-on-your-iphone-now/#ftag=CAD590a51e)
  - [Gear News of the Week: Honor Teases a Bizarre Robot Phone, and Kohler Debuts a Toilet Sensor](https://www.wired.com/story/gear-news-of-the-week-honor-teases-a-bizarre-robot-phone-and-kohler-debuts-a-toilet-sensor/)
  - [Early M5 MacBook Pro benchmarks show a big boost over the M4](https://appleinsider.com/articles/25/10/17/early-m5-macbook-pro-benchmarks-show-a-big-boost-over-the-m4?utm_source=rss)
  - [Inside the discussions between OpenAI and talent agencies about the video app Sora; some agents say studios have been too reluctant to challenge tech giants &lpar;Winston Cho/The Hollywood Reporter&rpar;](http://www.techmeme.com/251018/p6#a251018p6)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 18, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-18-390/#ftag=CAD590a51e)
- - [Edit Photos Like a Pro With Your Voice: &#39;Conversational Editing&#39; on Google Photos Explained](https://www.cnet.com/tech/services-and-software/edit-photos-like-a-pro-with-your-voice-conversational-editing-on-google-photos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 18, #390](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-18-390/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

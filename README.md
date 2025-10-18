@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
- - 💣 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [Two power chords credit @misiurka fam](http://9gag.com/gag/avyXYLq)
+ - 😝 [Before auto tune you needed a church choir](http://9gag.com/gag/agmZPZq)
+ - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Left, right. Good night &lpar;sorry I couldn&#39;t find the original&rpar;. Don&#39;t crucify me](http://9gag.com/gag/ayNVGeb)<!-- MEMES:END -->
+ - 👉 [True I guess](http://9gag.com/gag/aPAdNOP)<!-- MEMES:END -->
 
 ---
 

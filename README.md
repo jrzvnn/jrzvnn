@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better not speak freely in the Big 2030](http://9gag.com/gag/aVv1pbP)
- - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
- - 💣 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
+ - 😝 [It&#39;s for me. &lpar;Paid by you.&rpar;](http://9gag.com/gag/a0eWBxB)
+ - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 💣 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Bro...](http://9gag.com/gag/ayNVGPW)<!-- MEMES:END -->
+ - 👉 [Mad respect](http://9gag.com/gag/abAm96b)<!-- MEMES:END -->
 
 ---
 

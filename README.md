@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Yamaha self driving and self balancing motorcycle\u2026. We all know where this will end right?](http://9gag.com/gag/a9yNozj)
- - 💣 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
+ - 😝 [White boy only got 3rd place. Can you guess why?](http://9gag.com/gag/aVv1AWn)
+ - 😝 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
+ - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)<!-- MEMES:END -->
+ - 👉 [This is how I see the world when I walk through the city](http://9gag.com/gag/aE0Nr0O)<!-- MEMES:END -->
 
 ---
 

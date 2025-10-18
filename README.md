@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Before auto tune you needed a church choir](http://9gag.com/gag/agmZPZq)
  - 😝 [Two power chords credit @misiurka fam](http://9gag.com/gag/avyXYLq)
- - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 💣 [Mad respect](http://9gag.com/gag/abAm96b)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [Mad respect](http://9gag.com/gag/abAm96b)<!-- MEMES:END -->
+ - 👉 [How to make men laugh](http://9gag.com/gag/avyXbnO)<!-- MEMES:END -->
 
 ---
 

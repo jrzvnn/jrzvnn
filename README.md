@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [La Liga Soccer: Stream Getafe vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-getafe-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
  - [11 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
  - [Best Fire TV Stick for 2025: Fire Stick 4K Max, Cube and More](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
- - [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests)
  - [China says the NSA has been hacking its National Time Service Center, which provides high precision time services for the government and others, since 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251019/p9#a251019p9)
  - [Kohler Wants to Put a Tiny Camera in Your Toilet and Analyze the Contents](https://www.cnet.com/health/medical/kohler-wants-to-put-a-tiny-camera-in-your-toilet-and-analyze-the-contents/#ftag=CAD590a51e)<!-- TECH:END -->
 

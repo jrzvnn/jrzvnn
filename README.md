@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
  - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 💣 [When you miss the jump in a video game](http://9gag.com/gag/aE0NrgG)
+ - 💣 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
  - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
- - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
+ - 👉 [When you miss the jump in a video game](http://9gag.com/gag/aE0NrgG)<!-- MEMES:END -->
 
 ---
 

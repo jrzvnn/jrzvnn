@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris-based Upciti, which offers city operations software and hardware to over 150 municipalities in 17 countries, raised a $20M Series A led by Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251019/p3#a251019p3)
+ - [Boston-based OneLayer, which offers zero-trust security and device management for private 5G and LTE networks, raised a $28M Series A led by Maor Investments &lpar;Dan Jones/Fierce Network&rpar;](http://www.techmeme.com/251019/p2#a251019p2)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 19, #391](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-19-391/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-19/#ftag=CAD590a51e)
- - [Prisma Photonics, which develops AI-based tech for monitoring infrastructure using existing optical fiber networks, raised $30M, taking total funding to $80M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251019/p1#a251019p1)
- - [Sources: Chinese companies including Ant Group and JD.com pause plans to issue stablecoins in Hong Kong after instructions from regulators not to move ahead &lpar;Financial Times&rpar;](http://www.techmeme.com/251018/p17#a251018p17)
- - [A profile of Credo, which makes active electrical cables to connect AI servers and whose stock price has more than doubled this year, after soaring 245% in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251018/p16#a251018p16)<!-- TECH:END -->
+ - [Prisma Photonics, which develops AI-based tech for monitoring infrastructure using existing optical fiber networks, raised $30M, taking total funding to $80M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251019/p1#a251019p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

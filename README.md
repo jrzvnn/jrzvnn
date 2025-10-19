@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
- - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [It&#39;s been 3 yrs since.](http://9gag.com/gag/aAyNWng)
- - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
+ - 😝 [Don&#39;t mind me, i&#39;m warming up the woodchipper](http://9gag.com/gag/aPAdNjn)
+ - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 😝 [Relationship relationship](http://9gag.com/gag/aD2NBM9)
+ - 👉 [It&#39;s been 3 yrs since.](http://9gag.com/gag/aAyNWng)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini in Google Home Keeps Mistaking My Dog for a Cat](https://www.wired.com/story/gemini-in-google-home-keeps-mistaking-my-dog-for-a-cat/)
+ - [iOS 26 Is Out: Here&#39;s a Cheat Sheet for Your iPhone](https://www.cnet.com/tech/services-and-software/ios-26-is-out-heres-a-cheat-sheet-for-your-iphone/#ftag=CAD590a51e)
  - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
  - [A study of 311 AI-generated eighth-grade civics lesson plans in Massachusetts suggests they fall short of inspiring students or promoting critical thinking &lpar;The Conversation&rpar;](http://www.techmeme.com/251019/p6#a251019p6)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #861](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-861/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #595](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-595/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

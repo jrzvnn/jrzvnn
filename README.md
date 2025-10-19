@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)
+ - [10 Foods You&#39;ll Be Shocked to Learn Are Not Vegetarian &lpar;or Vegan&rpar;](https://www.cnet.com/news/10-foods-youll-be-shocked-to-learn-are-not-vegetarian-or-vegan/#ftag=CAD590a51e)
  - [How to Protect Yourself Against Getting Locked Out of Google, Dropbox, iCloud, OneDrive](https://www.wired.com/story/how-to-protect-yourself-against-getting-locked-out-of-your-cloud-accounts/)
- - [Time to catch ‘em all again](https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer)
- - [The AI sexting era has arrived](https://www.theverge.com/column/802022/ai-sexting-openai-chatbot-chatgpt)
- - [Crime blotter: Man arrested for New Jersey Apple Store theft](https://appleinsider.com/articles/25/10/19/crime-blotter-man-arrested-for-new-jersey-apple-store-theft?utm_source=rss)<!-- TECH:END -->
+ - [Stay Warm This Fall and Winter With Our Favorite Heated Blankets](https://www.cnet.com/health/sleep/best-heated-blankets/#ftag=CAD590a51e)
+ - [How Much Storage Do You Need in a Laptop?](https://www.cnet.com/tech/computing/how-much-storage-do-you-need-in-a-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

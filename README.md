@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A study of 311 AI-generated eighth-grade civics lesson plans in Massachusetts suggests they fall short of inspiring students or promoting critical thinking &lpar;The Conversation&rpar;](http://www.techmeme.com/251019/p6#a251019p6)
  - [Health Care Has a Trust Crisis. Wellness Influencers Aren&#39;t Helping](https://www.cnet.com/health/features/health-care-trust-crisis-influencers-arent-helping/#ftag=CAD590a51e)
  - [A look at some US energy companies linked to AI infrastructure, such as Sam Altman-backed Oklo, whose stocks have soared despite having little to no revenue &lpar;Jinjoo Lee/Wall Street Journal&rpar;](http://www.techmeme.com/251019/p5#a251019p5)
  - [Counsel Health, which uses a medical AI chatbot and human physicians to provide virtual care, raised a $25M Series A led by Andreessen Horowitz and GV &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/251019/p4#a251019p4)
- - [Paris-based Upciti, which offers city operations software and hardware to over 150 municipalities in 17 countries, raised a $20M Series A led by Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251019/p3#a251019p3)
- - [Boston-based OneLayer, which offers zero-trust security and device management for private 5G and LTE networks, raised a $28M Series A led by Maor Investments &lpar;Dan Jones/Fierce Network&rpar;](http://www.techmeme.com/251019/p2#a251019p2)<!-- TECH:END -->
+ - [Paris-based Upciti, which offers city operations software and hardware to over 150 municipalities in 17 countries, raised a $20M Series A led by Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251019/p3#a251019p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

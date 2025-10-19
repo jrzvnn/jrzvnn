@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
  - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Side families](http://9gag.com/gag/aD2NBBN)
- - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
+ - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
+ - 👉 [It&#39;s been 3 yrs since.](http://9gag.com/gag/aAyNWng)<!-- MEMES:END -->
 
 ---
 

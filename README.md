@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 19, #391](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-19-391/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-19/#ftag=CAD590a51e)
  - [Prisma Photonics, which develops AI-based tech for monitoring infrastructure using existing optical fiber networks, raised $30M, taking total funding to $80M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251019/p1#a251019p1)
  - [Sources: Chinese companies including Ant Group and JD.com pause plans to issue stablecoins in Hong Kong after instructions from regulators not to move ahead &lpar;Financial Times&rpar;](http://www.techmeme.com/251018/p17#a251018p17)
- - [A profile of Credo, which makes active electrical cables to connect AI servers and whose stock price has more than doubled this year, after soaring 245% in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251018/p16#a251018p16)
- - [How Robinhood is expanding beyond commission-free trading into retirement accounts, tokenized equities, and sports betting, with some 27M people using its app &lpar;Bloomberg&rpar;](http://www.techmeme.com/251018/p15#a251018p15)
- - [A profile of Anton Pavlovsky, CEO of Kyiv-based Headway Inc, which develops gamified educational apps and has 160M users across its five-product portfolio &lpar;Martina Di Licosa/Forbes&rpar;](http://www.techmeme.com/251018/p14#a251018p14)<!-- TECH:END -->
+ - [A profile of Credo, which makes active electrical cables to connect AI servers and whose stock price has more than doubled this year, after soaring 245% in 2024 &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251018/p16#a251018p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t mind me, i&#39;m warming up the woodchipper](http://9gag.com/gag/aPAdNjn)
  - 😝 [When you miss the jump in a video game](http://9gag.com/gag/aE0NrgG)
- - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
+ - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
 
 ---
 

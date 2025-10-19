@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)
  - [X plans a Handle Marketplace for Premium+ and Business subscribers to search for and request inactive usernames; rare handles can cost from $2,500 to $1M+ &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/251019/p13#a251019p13)
  - [Scenes From Saturday&#39;s Nationwide ‘No Kings’ Protests](https://www.wired.com/story/no-kings-protests-photos/)
  - [A look at the Crylock ransomware scheme, orchestrated by a Russian couple who targeted as many as 400,000 victims and earned over €64M in BTC over eight years &lpar;Financial Times&rpar;](http://www.techmeme.com/251019/p12#a251019p12)
- - [X is launching a marketplace for inactive handles](https://www.theverge.com/news/802474/x-is-launching-a-marketplace-for-inactive-handles)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 20, #862](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-20-862/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X is launching a marketplace for inactive handles](https://www.theverge.com/news/802474/x-is-launching-a-marketplace-for-inactive-handles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

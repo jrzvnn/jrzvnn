@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [True I guess](http://9gag.com/gag/aPAdNOP)
- - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 💣 [Mad respect](http://9gag.com/gag/abAm96b)
+ - 😝 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
+ - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
  - 😝 [The future is closer than you think.](http://9gag.com/gag/aGyNWrX)
- - 👉 [This is how I see the world when I walk through the city](http://9gag.com/gag/aE0Nr0O)<!-- MEMES:END -->
+ - 👉 [How to make men laugh](http://9gag.com/gag/avyXbnO)<!-- MEMES:END -->
 
 ---
 

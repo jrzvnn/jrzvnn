@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 👉 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)<!-- MEMES:END -->
+ - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 😝 [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
+ - 💣 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [How are you so fit? It&#39;s poverty, b*tch](http://9gag.com/gag/aD2NBLO)
+ - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
 
 ---
 

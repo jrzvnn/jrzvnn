@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meanwhile in capital of romania](http://9gag.com/gag/aGyNXqn)
+ - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 💣 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
  - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 💣 [Which way, PhD man](http://9gag.com/gag/aMVNpYA)
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 👉 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)<!-- MEMES:END -->
+ - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
 
 ---
 

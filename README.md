@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t mind me, i&#39;m warming up the woodchipper](http://9gag.com/gag/aPAdNjn)
- - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
- - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 😝 [Relationship relationship](http://9gag.com/gag/aD2NBM9)
- - 👉 [It&#39;s been 3 yrs since.](http://9gag.com/gag/aAyNWng)<!-- MEMES:END -->
+ - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 👉 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)<!-- MEMES:END -->
 
 ---
 

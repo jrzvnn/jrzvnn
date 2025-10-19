@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 20, #862](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-20-862/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 20, #392](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-20-392/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 20, #596](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-20-596/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 20, #1584](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-20-1584/#ftag=CAD590a51e)
- - [MLS playoff matches free to all Apple TV subscribers](https://appleinsider.com/articles/25/10/19/mls-playoff-matches-free-to-all-apple-tv-subscribers?utm_source=rss)<!-- TECH:END -->
+ - [MLS playoff matches free to all Apple TV subscribers](https://appleinsider.com/articles/25/10/19/mls-playoff-matches-free-to-all-apple-tv-subscribers?utm_source=rss)
+ - [OpenAI&#39;s Broadcom deal shows how the AI startup is diversifying its chip suppliers, including Nvidia chips for training and Broadcom chips for inference &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251019/p11#a251019p11)
+ - [Some Apple engineers are concerned about the state of Siri&#39;s iOS 26.4 update](https://appleinsider.com/articles/25/10/19/siris-long-awaited-update-allegedly-concerns-ios-264-testers?utm_source=rss)
+ - [Sunday Night Football: How to Watch Falcons vs. 49ers Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-falcons-vs-49ers-tonight/#ftag=CAD590a51e)
+ - [You need to read the epic Argentinian horror novel Our Share of Night](https://www.theverge.com/entertainment/802340/you-need-to-read-the-epic-argentinian-horror-novel-our-share-of-night)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you miss the jump in a video game](http://9gag.com/gag/aE0NrgG)
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
- - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
+ - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [Really?](http://9gag.com/gag/a5Qy8OE)
  - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
 
 ---

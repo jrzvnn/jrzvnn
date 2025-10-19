@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jona Health Review: Microbiome Decoder for Health Conditions](https://www.wired.com/review/jona-microbiome-test/)
+ - [The Sony Watchman was must-see TV](https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history)
  - [14 Best USB Flash Drives &lpar;2025&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)
  - [Opera&amp;#8217;s Neon shows just how confusing AI browsers still are](https://www.theverge.com/tech/801899/opera-neon-ai-browser-trial-run)
- - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)
- - [10 Foods You&#39;ll Be Shocked to Learn Are Not Vegetarian &lpar;or Vegan&rpar;](https://www.cnet.com/news/10-foods-youll-be-shocked-to-learn-are-not-vegetarian-or-vegan/#ftag=CAD590a51e)
- - [How to Protect Yourself Against Getting Locked Out of Google, Dropbox, iCloud, OneDrive](https://www.wired.com/story/how-to-protect-yourself-against-getting-locked-out-of-your-cloud-accounts/)<!-- TECH:END -->
+ - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

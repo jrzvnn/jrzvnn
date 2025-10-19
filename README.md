@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Started as one, now we&#39;re a whole train](http://9gag.com/gag/an7WA85)
- - 😝 [This scooby doo episode looks a little bit sus](http://9gag.com/gag/aW4NKnq)
- - 💣 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 👉 [Just for the giggles](http://9gag.com/gag/amobDnj)<!-- MEMES:END -->
+ - 😝 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
+ - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [Side families](http://9gag.com/gag/aD2NBBN)
+ - 👉 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)<!-- MEMES:END -->
 
 ---
 

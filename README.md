@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [When you miss the jump in a video game](http://9gag.com/gag/aE0NrgG)
+ - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
  - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
- - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
 
 ---
 

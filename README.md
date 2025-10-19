@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
- - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
  - 😝 [Side families](http://9gag.com/gag/aD2NBBN)
- - 👉 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)<!-- MEMES:END -->
+ - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
 
 ---
 

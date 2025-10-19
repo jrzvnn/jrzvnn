@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)
  - [A study of 311 AI-generated eighth-grade civics lesson plans in Massachusetts suggests they fall short of inspiring students or promoting critical thinking &lpar;The Conversation&rpar;](http://www.techmeme.com/251019/p6#a251019p6)
  - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #861](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-861/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #595](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-595/#ftag=CAD590a51e)
- - [What Graphics Card Do I Have: How to Identify Your PC&#39;s GPU](https://www.cnet.com/tech/computing/knowing-which-gpu-is-in-your-pc-can-help-you-troubleshoot-how-to-figure-out-what-it-is/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #595](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-595/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 😝 [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
- - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
  - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
- - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
+ - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
 
 ---
 

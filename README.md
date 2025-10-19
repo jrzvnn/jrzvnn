@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
- - 😝 [This is how I see the world when I walk through the city](http://9gag.com/gag/aE0Nr0O)
- - 💣 [For those who doesn&#39;t know what private equities do](http://9gag.com/gag/a7o64Be)
- - 😝 [One of us ! One of us !](http://9gag.com/gag/aByNqAz)
- - 👉 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)<!-- MEMES:END -->
+ - 😝 [College student&#39;s last call to campus security desperately plead for help before she was murdered by &#39;unidentified man&#39;](http://9gag.com/gag/adB4mr2)
+ - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
+ - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
 
 ---
 

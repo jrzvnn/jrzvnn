@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
  - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
- - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
- - 💣 [Bro...](http://9gag.com/gag/ayNVGPW)
- - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
- - 👉 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)<!-- MEMES:END -->
+ - 💣 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
+ - 😝 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)
+ - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
 
 ---
 

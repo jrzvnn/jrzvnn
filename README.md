@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
- - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
+ - 😝 [Needlessly difficult child&#39;s puzzle.](http://9gag.com/gag/aD2NEOG)
+ - 💣 [Really?](http://9gag.com/gag/a5Qy8OE)
+ - 😝 [Just for the giggles](http://9gag.com/gag/amobDnj)
+ - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
 
 ---
 

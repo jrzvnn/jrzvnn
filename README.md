@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
- - 😝 [This is how I see the world when I walk through the city](http://9gag.com/gag/aE0Nr0O)
- - 💣 [For those who doesn&#39;t know what private equities do](http://9gag.com/gag/a7o64Be)
- - 😝 [There is zero benefit for a man to get married. ZERO.](http://9gag.com/gag/apRjeG8)
- - 👉 [One of us ! One of us !](http://9gag.com/gag/aByNqAz)<!-- MEMES:END -->
+ - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
+ - 😝 [Bro...](http://9gag.com/gag/ayNVGPW)
+ - 💣 [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
+ - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
+ - 👉 [Red Alert 2 meme](http://9gag.com/gag/aoyqXbX)<!-- MEMES:END -->
 
 ---
 

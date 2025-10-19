@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Man arrested for New Jersey Apple Store theft](https://appleinsider.com/articles/25/10/19/crime-blotter-man-arrested-for-new-jersey-apple-store-theft?utm_source=rss)
- - [Das Keyboard DeltaForce 65 Review: A Keyboard With Odd Layout Choices](https://www.wired.com/review/das-keyboard-deltaforce-65/)
- - [Gemini in Google Home Keeps Mistaking My Dog for a Cat](https://www.wired.com/story/gemini-in-google-home-keeps-mistaking-my-dog-for-a-cat/)
- - [iOS 26 Is Out: Here&#39;s a Cheat Sheet for Your iPhone](https://www.cnet.com/tech/services-and-software/ios-26-is-out-heres-a-cheat-sheet-for-your-iphone/#ftag=CAD590a51e)
- - [The Zipper Is Getting Its First Major Upgrade in 100 Years](https://www.wired.com/story/the-zipper-is-getting-its-first-major-upgrade-in-100-years/)<!-- TECH:END -->
+ - [ByteDance&#39;s Cici, an overseas counterpart of China&#39;s most popular AI chatbot app Doubao, is quietly gaining traction in the UK, Mexico, and Southeast Asia &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251019/p7#a251019p7)
+ - [How to Protect Yourself Against Getting Locked Out of Google, Dropbox, iCloud, OneDrive](https://www.wired.com/story/how-to-protect-yourself-against-getting-locked-out-of-your-cloud-accounts/)
+ - [Time to catch ‘em all again](https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer)
+ - [The AI sexting era has arrived](https://www.theverge.com/column/802022/ai-sexting-openai-chatbot-chatgpt)
+ - [Crime blotter: Man arrested for New Jersey Apple Store theft](https://appleinsider.com/articles/25/10/19/crime-blotter-man-arrested-for-new-jersey-apple-store-theft?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

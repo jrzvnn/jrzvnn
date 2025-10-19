@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Started as one, now we&#39;re a whole train](http://9gag.com/gag/an7WA85)
  - 😝 [This scooby doo episode looks a little bit sus](http://9gag.com/gag/aW4NKnq)
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 💣 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
- - 😝 [AUSTRIA](http://9gag.com/gag/adB43DM)
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 👉 [Just for the giggles](http://9gag.com/gag/amobDnj)<!-- MEMES:END -->
 
 ---

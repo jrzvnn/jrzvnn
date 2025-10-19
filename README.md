@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Siri&#39;s long-awaited update allegedly &#39;concerns&#39; iOS 26.4 testers](https://appleinsider.com/articles/25/10/19/siris-long-awaited-update-allegedly-concerns-ios-264-testers?utm_source=rss)
  - [OpenAI researchers delete X posts claiming a GPT-5 math breakthrough after pushback from Hassabis, others; LeCun says they were &quot;hoisted by their own GPTards&quot; &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251019/p10#a251019p10)
+ - [La Liga Soccer: Stream Getafe vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-getafe-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
  - [11 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
- - [Best Fire TV Stick for 2025: Fire Stick 4K Max, Cube and More](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
- - [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests)<!-- TECH:END -->
+ - [Best Fire TV Stick for 2025: Fire Stick 4K Max, Cube and More](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

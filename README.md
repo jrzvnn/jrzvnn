@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
- - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 💣 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
- - 😝 [Back in the 90s, the dream girl knew exactly what you wanted](http://9gag.com/gag/a7o6QXb)
- - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
+ - 😝 [Mad respect](http://9gag.com/gag/abAm96b)
+ - 😝 [This is how I see the world when I walk through the city](http://9gag.com/gag/aE0Nr0O)
+ - 💣 [For those who doesn&#39;t know what private equities do](http://9gag.com/gag/a7o64Be)
+ - 😝 [One of us ! One of us !](http://9gag.com/gag/aByNqAz)
+ - 👉 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)<!-- MEMES:END -->
 
 ---
 

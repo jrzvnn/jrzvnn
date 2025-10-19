@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [A study of 311 AI-generated eighth-grade civics lesson plans in Massachusetts suggests they fall short of inspiring students or promoting critical thinking &lpar;The Conversation&rpar;](http://www.techmeme.com/251019/p6#a251019p6)
- - [Health Care Has a Trust Crisis. Wellness Influencers Aren&#39;t Helping](https://www.cnet.com/health/features/health-care-trust-crisis-influencers-arent-helping/#ftag=CAD590a51e)
- - [A look at some US energy companies linked to AI infrastructure, such as Sam Altman-backed Oklo, whose stocks have soared despite having little to no revenue &lpar;Jinjoo Lee/Wall Street Journal&rpar;](http://www.techmeme.com/251019/p5#a251019p5)
- - [Counsel Health, which uses a medical AI chatbot and human physicians to provide virtual care, raised a $25M Series A led by Andreessen Horowitz and GV &lpar;Emma Beavins/Fierce Healthcare&rpar;](http://www.techmeme.com/251019/p4#a251019p4)
- - [Paris-based Upciti, which offers city operations software and hardware to over 150 municipalities in 17 countries, raised a $20M Series A led by Notion Capital &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251019/p3#a251019p3)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 19, #1583](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-19-1583/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 19, #861](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-19-861/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 19, #595](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-19-595/#ftag=CAD590a51e)
+ - [What Graphics Card Do I Have: How to Identify Your PC&#39;s GPU](https://www.cnet.com/tech/computing/knowing-which-gpu-is-in-your-pc-can-help-you-troubleshoot-how-to-figure-out-what-it-is/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

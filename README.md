@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [College student&#39;s last call to campus security desperately plead for help before she was murdered by &#39;unidentified man&#39;](http://9gag.com/gag/adB4mr2)
- - 😝 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
- - 💣 [I showed you my](http://9gag.com/gag/agmZPBn)
- - 😝 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
- - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [I showed you my](http://9gag.com/gag/agmZPBn)
+ - 💣 [There waa blackout in my city and I was able to see some starts and even a take picture, just hope the geoguessers freaks can&#39;t pinpoint my location](http://9gag.com/gag/adB4m6N)
+ - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
+ - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
 
 ---
 

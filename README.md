@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
- - 😝 [Started as one, now we&#39;re a whole train](http://9gag.com/gag/an7WA85)
- - 💣 [And the soup will not cure but induce erectile disfunction](http://9gag.com/gag/an78eBb)
- - 😝 [Just for the giggles](http://9gag.com/gag/amobDnj)
- - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
+ - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 😝 [Essentially created the first ever computer](http://9gag.com/gag/a5QvpQy)
+ - 👉 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)<!-- MEMES:END -->
 
 ---
 

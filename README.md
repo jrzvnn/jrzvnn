@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says the NSA has been hacking its National Time Service Center, which provides high precision time services for the government and others, since 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251019/p9#a251019p9)
  - [Microsoft, OpenAI, and Anthropic are providing millions to the American Federation of Teachers to build AI training hubs aimed at educating 400,000 teachers &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/251019/p8#a251019p8)
  - [This weekend is your last chance to get a month of Disney Plus starting at $9.99](https://www.theverge.com/tech/801979/disney-plus-premium-october-price-hike-deal)
  - [Jona Health Review: Microbiome Decoder for Health Conditions](https://www.wired.com/review/jona-microbiome-test/)
- - [The Sony Watchman was must-see TV](https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history)
- - [14 Best USB Flash Drives &lpar;2025&rpar;: Pen Drives, Thumb Drives, Memory Sticks](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
+ - [The Sony Watchman was must-see TV](https://www.theverge.com/podcast/802307/sony-watchman-tv-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

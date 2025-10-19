@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [11 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
+ - [Best Fire TV Stick for 2025: Fire Stick 4K Max, Cube and More](https://www.cnet.com/tech/home-entertainment/best-fire-tv-stick/#ftag=CAD590a51e)
  - [Organizers say over 7 million showed up to No Kings protests](https://www.theverge.com/news/802321/organizers-say-over-7-million-showed-up-to-no-kings-protests)
  - [China says the NSA has been hacking its National Time Service Center, which provides high precision time services for the government and others, since 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251019/p9#a251019p9)
- - [Microsoft, OpenAI, and Anthropic are providing millions to the American Federation of Teachers to build AI training hubs aimed at educating 400,000 teachers &lpar;Jocelyn Gecker/Associated Press&rpar;](http://www.techmeme.com/251019/p8#a251019p8)
- - [14 New Horror Movies and Shows to Stream in October](https://www.cnet.com/tech/services-and-software/14-new-horror-movies-and-shows-to-stream-in-october/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kohler Wants to Put a Tiny Camera in Your Toilet and Analyze the Contents](https://www.cnet.com/health/medical/kohler-wants-to-put-a-tiny-camera-in-your-toilet-and-analyze-the-contents/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

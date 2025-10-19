@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
  - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 💣 [My sons threw a party and hired a DJ. I&#39;m calling the cops](http://9gag.com/gag/aQzNYoz)
- - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
- - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
+ - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 👉 [Really?](http://9gag.com/gag/a5Qy8OE)<!-- MEMES:END -->
 
 ---
 

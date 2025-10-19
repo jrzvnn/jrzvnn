@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This scooby doo episode looks a little bit sus](http://9gag.com/gag/aW4NKnq)
  - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [Clock is ticking...](http://9gag.com/gag/a9yN9xD)
- - 💣 [It&#39;s been 3 yrs since.](http://9gag.com/gag/aAyNWng)
- - 😝 [How are you so fit? It&#39;s poverty, b*tch](http://9gag.com/gag/aD2NBLO)
- - 👉 [I showed you my](http://9gag.com/gag/agmZPBn)<!-- MEMES:END -->
+ - 💣 [When the chef sneaks to see if you are enjoying the food](http://9gag.com/gag/aLnNq2z)
+ - 😝 [AUSTRIA](http://9gag.com/gag/adB43DM)
+ - 👉 [Just for the giggles](http://9gag.com/gag/amobDnj)<!-- MEMES:END -->
 
 ---
 

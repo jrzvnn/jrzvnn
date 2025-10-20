@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Entire iPhone 17 line sees biggest early sales in years across the globe](https://appleinsider.com/articles/25/10/20/entire-iphone-17-line-sees-biggest-early-sales-in-years-across-the-globe?utm_source=rss)
+ - [The 14 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)
  - [Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’](https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors)
- - [Q&amp;A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple&#39;s and Google&#39;s &quot;wrong decision&quot; to remove ICEBlock, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251020/p20#a251020p20)
- - [Oura launches a redesigned app with a new feature showing a weekly overview of stress management and says it&#39;s working with the US FDA on a blood pressure study &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p19#a251020p19)
- - [Adobe launches AI Foundry, a program that helps enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251020/p18#a251020p18)
- - [The UK CMA says Getty Images and Shutterstock&#39;s $3.7B merger raises competition concerns and gives the companies until October 27 to make a plan to address them &lpar;Ian Walker/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p17#a251020p17)<!-- TECH:END -->
+ - [These nonprofits lobbied to regulate OpenAI — then the subpoenas came](https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring)
+ - [Q&amp;A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple&#39;s and Google&#39;s &quot;wrong decision&quot; to remove ICEBlock, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251020/p20#a251020p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

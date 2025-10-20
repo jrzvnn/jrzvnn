@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jane Goodall has one last collaboration with Apple](https://appleinsider.com/articles/25/10/20/jane-goodall-has-one-last-collaboration-with-apple?utm_source=rss)
+ - [What the Huge AWS Outage Reveals About the Internet](https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/)
  - [Entire iPhone 17 line sees biggest early sales in years across the globe](https://appleinsider.com/articles/25/10/20/entire-iphone-17-line-sees-biggest-early-sales-in-years-across-the-globe?utm_source=rss)
  - [The 14 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)
- - [Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’](https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors)
- - [These nonprofits lobbied to regulate OpenAI — then the subpoenas came](https://www.theverge.com/ai-artificial-intelligence/801994/openai-subpoenas-intimidation-tactics-nonprofits-elon-musk-restructuring)
- - [Q&amp;A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple&#39;s and Google&#39;s &quot;wrong decision&quot; to remove ICEBlock, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251020/p20#a251020p20)<!-- TECH:END -->
+ - [Zocdoc CEO: ‘Dr. Google is going to be replaced by Dr. AI’](https://www.theverge.com/podcast/801767/zocdoc-ceo-oliver-kharraz-ai-medical-healthcare-doctors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

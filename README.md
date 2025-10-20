@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
  - [LangChain, whose open-source framework connects AI apps to real-time data, raised a $125M Series B led by IVP at a $1.25B valuation &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251020/p24#a251020p24)
+ - [WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-satellites-data-leak-cybertrucks-politicized-federal-workers/)
  - [Kohler’s new toilet camera provides health insights based on your bathroom breaks](https://www.theverge.com/news/802727/kohler-health-dekoda-toilet-camera-optical-sensors)
- - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)
- - [Apple TV branding &amp; content push, Sonos updates, &amp; Wi-Fi 8 on HomeKit Insider](https://appleinsider.com/articles/25/10/20/apple-tv-branding-content-push-sonos-updates-wi-fi-8-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

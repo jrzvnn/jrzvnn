@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worth seeing again](http://9gag.com/gag/aZZoqwn)
- - 😝 [Deserve](http://9gag.com/gag/a9yZjKW)
- - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 😝 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
+ - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
  - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
- - 👉 [MTV ends broadcast on December 31.](http://9gag.com/gag/a6Z4r8R)<!-- MEMES:END -->
+ - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
 
 ---
 

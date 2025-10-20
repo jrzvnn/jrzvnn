@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
- - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Always lying](http://9gag.com/gag/aZZoqgW)
+ - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [How to make men laugh](http://9gag.com/gag/avyXbnO)<!-- MEMES:END -->
+ - 👉 [Post Something](http://9gag.com/gag/aYQZj6O)<!-- MEMES:END -->
 
 ---
 

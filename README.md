@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zohran Mamdani, the Internet’s Mayor](https://www.wired.com/story/the-big-interview-podcast-zohran-mamdani/)
+ - [SpaceX launched 56 Starlink satellites on separate Falcon 9 rockets on October 19, surpassing 10,000 total satellites launched into low Earth orbit to date &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251020/p12#a251020p12)
+ - [US tech giants are on a data center building spree, sparking fury worldwide; research says ~60% of the 1,244 largest global centers in June were outside the US &lpar;New York Times&rpar;](http://www.techmeme.com/251020/p11#a251020p11)
  - [Apple services hit as Amazon Web Services suffers outage](https://appleinsider.com/articles/25/10/20/apple-services-hit-as-amazon-web-services-suffers-outage?utm_source=rss)
- - [A lawyer says 55 Chinese iPhone and iPad users filed an antitrust complaint in China alleging Apple abuses its market dominance by restricting app distribution &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p10#a251020p10)
- - [The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure](https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/)
- - [A High-Tech Ankle Guard Is Helping NBA Players Stay in the Game](https://www.wired.com/story/betterguards-ankle-guard-nba-players/)
- - [SpaceX launches 10,000th Starlink internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite)<!-- TECH:END -->
+ - [A lawyer says 55 Chinese iPhone and iPad users filed an antitrust complaint in China alleging Apple abuses its market dominance by restricting app distribution &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p10#a251020p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

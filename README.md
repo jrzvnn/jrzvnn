@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
  - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)<!-- MEMES:END -->
+ - 👉 [Legend](http://9gag.com/gag/aqyB95L)<!-- MEMES:END -->
 
 ---
 

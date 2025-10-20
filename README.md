@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Started as one, now we&#39;re a whole train](http://9gag.com/gag/an7WA85)
- - 😝 [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
- - 💣 [Just for the giggles](http://9gag.com/gag/amobDnj)
- - 😝 [My brother will hear about this](http://9gag.com/gag/aW4PBR4)
+ - 😝 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)
+ - 😝 [Just for the giggles](http://9gag.com/gag/amobDnj)
+ - 💣 [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
+ - 😝 [MTV ends broadcast on December 31.](http://9gag.com/gag/a6Z4r8R)
  - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Show The World Beech Let them get their jerk on IDGF. now There\u2019s a lady with Balls](http://9gag.com/gag/adB43zM)
  - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
- - 💣 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 😝 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)
- - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
+ - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 💣 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)
+ - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
+ - 👉 [Show The World Beech Let them get their jerk on IDGF. now There\u2019s a lady with Balls](http://9gag.com/gag/adB43zM)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Movies](http://9gag.com/gag/aGy6YG5)<!-- MEMES:END -->
+ - 👉 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)<!-- MEMES:END -->
 
 ---
 

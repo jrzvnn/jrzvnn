@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the social debates in Chile over AI investments, emblematic of clashes happening globally over balancing economic growth with environmental concerns &lpar;Paul Mozur/New York Times&rpar;](http://www.techmeme.com/251020/p33#a251020p33)
  - [Apple&#39;s leaker lawsuit marches on after Jon Prosser misses deadlines](https://appleinsider.com/articles/25/10/20/apples-leaker-lawsuit-marches-on-after-jon-prosser-misses-deadlines?utm_source=rss)
+ - [Ninja Gaiden 4 Review: The Comeback Fans Have Been Waiting For](https://www.cnet.com/tech/gaming/ninja-gaiden-4-review/#ftag=CAD590a51e)
  - [Ninja Gaiden 4 is the perfect place to jump into the series](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc)
- - [AWS says services have &quot;returned to normal operations&quot; after an outage in its US-EAST-1 region, first reported at 3:11am ET, that took down major websites &lpar;CNBC&rpar;](http://www.techmeme.com/251020/p32#a251020p32)
- - [Study: brain-computer interface company Science&#39;s PRIMA device, which includes a retinal implant and special glasses, restored vision in some blind patients &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251020/p31#a251020p31)
- - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)<!-- TECH:END -->
+ - [AWS says services have &quot;returned to normal operations&quot; after an outage in its US-EAST-1 region, first reported at 3:11am ET, that took down major websites &lpar;CNBC&rpar;](http://www.techmeme.com/251020/p32#a251020p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

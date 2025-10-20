@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: AirPods Pro 2 are back on sale at $80 off](https://appleinsider.com/articles/25/10/20/deals-airpods-pro-2-are-back-on-sale-at-80-off?utm_source=rss)
- - [Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050](https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale)
- - [Jane Goodall has one last collaboration with Apple](https://appleinsider.com/articles/25/10/20/jane-goodall-has-one-last-collaboration-with-apple?utm_source=rss)
- - [What the Huge AWS Outage Reveals About the Internet](https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/)
- - [Entire iPhone 17 line sees biggest early sales in years across the globe](https://appleinsider.com/articles/25/10/20/entire-iphone-17-line-sees-biggest-early-sales-in-years-across-the-globe?utm_source=rss)<!-- TECH:END -->
+ - [Evernorth, a digital asset treasury backed by Ripple, says it will list on the Nasdaq through a merger with a blank check company and expects to raise $1B+ &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p21#a251020p21)
+ - [Inside macOS 26 Phone app - How to get phone calls on your Mac](https://appleinsider.com/inside/ios-26/tips/inside-macos-26-phone-app---big-continuity-upgrade-with-a-sleek-design?utm_source=rss)
+ - [The Sims Mobile is shutting down next year](https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026)
+ - [Apple stock reaches new all-time high and still climbing](https://appleinsider.com/articles/25/10/20/apple-stock-reaches-new-all-time-high-price-and-still-climbing?utm_source=rss)
+ - [Anbernic&amp;#8217;s DS clone will be cheaper than Nintendo&amp;#8217;s original](https://www.theverge.com/news/802610/anbernic-rg-nintendo-ds-dual-screen-handheld-emulator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with NYC mayoral front-runner Zohran Mamdani on social media, tech leaders, Trump, fame, Apple&#39;s and Google&#39;s &quot;wrong decision&quot; to remove ICEBlock, and more &lpar;Katie Drummond/Wired&rpar;](http://www.techmeme.com/251020/p20#a251020p20)
+ - [Oura launches a redesigned app with a new metric to show a weekly overview of stress management and says it is working with the US FDA on a blood pressure study &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p19#a251020p19)
  - [Adobe launches AI Foundry, a new program to help enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251020/p18#a251020p18)
  - [The UK CMA says Getty Images and Shutterstock&#39;s $3.7B merger causes competition concerns and gives the companies until October 27 to offer plan to address them &lpar;Ian Walker/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p17#a251020p17)
- - [6 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
- - [Ford’s Mustang Mach-E GT California Special blends the old with the new](https://www.theverge.com/news/801920/ford-mustang-mach-e-california-special-specs)
- - [Oura redesigns app with expanded stress tracking](https://www.theverge.com/news/802527/oura-ring-stress-blood-pressure-test-app-redesign)<!-- TECH:END -->
+ - [6 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

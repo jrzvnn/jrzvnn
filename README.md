@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An eye implant and smart glasses restore some lost vision](https://www.theverge.com/news/802905/eye-implant-smart-glasses-restores-vision)
- - [iOS 26.1 beta 4 gets Liquid Glass opacity setting, Camera Swipe toggle](https://appleinsider.com/articles/25/10/20/ios-261-beta-4-gets-liquid-glass-opacity-setting-camera-swipe-toggle?utm_source=rss)
- - [Google will reportedly let 15 superfans test unreleased Pixel phones](https://www.theverge.com/news/802866/google-pixel-superfans-test-new-phone-trusted-tester-program-report)
- - [OpenAI says it will work with SAG-AFTRA, CAA, UTA, and others to crack down on Sora 2 deepfakes, following concerns from actor Bryan Cranston and SAG-AFTRA &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251020/p29#a251020p29)
- - [Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah](https://www.wired.com/story/mystery-space-object-strikes-united-airlines-flight-over-utah/)<!-- TECH:END -->
+ - [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option)
+ - [Reid Hoffman calls Anthropic &quot;one of the good guys&quot; after David Sacks accused the company of running a &quot;regulatory capture strategy based on fear-mongering&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p30#a251020p30)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+ - [Today&#39;s Massive AWS Outage That Took Down Your Favorite Sites Is Still Going On](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 21, #1585](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-21-1585/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

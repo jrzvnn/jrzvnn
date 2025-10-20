@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 💣 [I never would have guessed ...](http://9gag.com/gag/a9yNQNj)
- - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 😝 [Started as one, now we&#39;re a whole train](http://9gag.com/gag/an7WA85)
+ - 😝 [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
+ - 💣 [Just for the giggles](http://9gag.com/gag/amobDnj)
+ - 😝 [My brother will hear about this](http://9gag.com/gag/aW4PBR4)
  - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
  - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
  - 😝 [Turning trash into treasure for these little fluffballs](http://9gag.com/gag/a6Z4reL)
- - 👉 [Asking the important questions](http://9gag.com/gag/a5QymQN)<!-- MEMES:END -->
+ - 👉 [My sons threw a party and hired a DJ. I&#39;m calling the cops](http://9gag.com/gag/aQzNYoz)<!-- MEMES:END -->
 
 ---
 

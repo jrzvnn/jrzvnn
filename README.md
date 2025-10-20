@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese law firm tries suing over App Store practices -- again](https://appleinsider.com/articles/25/10/20/chinese-law-firm-tries-suing-over-app-store-practices----again?utm_source=rss)
  - [Q&amp;A with Asana co-founder Dustin Moskovitz on Facebook, starting Asana, SaaS companies, enterprise AI, the &quot;empty seat problem&quot;, AI modesty, AI safety, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251020/p13#a251020p13)
  - [Apple services hit as Amazon Web Services suffers outage](https://appleinsider.com/articles/25/10/20/apple-services-hit-as-amazon-web-services-suffers-outage?utm_source=rss)
  - [SteelSeries Arctis Nova Elite Review: Gaming Overkill?](https://www.wired.com/review/steelseries-arctis-elite/)
- - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://www.wired.com/story/apple-pioneer-bill-atkinson-was-a-secret-evangelist-of-the-god-molecule/)
- - [Zohran Mamdani, the Internet’s Mayor](https://www.wired.com/story/the-big-interview-podcast-zohran-mamdani/)<!-- TECH:END -->
+ - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://www.wired.com/story/apple-pioneer-bill-atkinson-was-a-secret-evangelist-of-the-god-molecule/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

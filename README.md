@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS says &quot;service recovery across all AWS services continues to improve&quot; following an outage in AWS&#39; US-EAST-1 region that was first reported at 3:11am ET &lpar;CNBC&rpar;](http://www.techmeme.com/251020/p32#a251020p32)
+ - [Study: brain-computer interface company Science&#39;s PRIMA device, which includes a retinal implant and special glasses, restored vision in some blind patients &lpar;Antonio Regalado/MIT Technology Review&rpar;](http://www.techmeme.com/251020/p31#a251020p31)
  - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Caveat emptor: Trump Mobile incredibly overcharging for used iPhone 14](https://appleinsider.com/articles/25/10/20/caveat-emptor-trump-mobile-incredibly-overcharging-for-used-iphone-14?utm_source=rss)
- - [OpenAI Says It&#39;s Working With Actors to Crack Down on Celebrity Deepfakes in Sora](https://www.cnet.com/tech/services-and-software/openai-says-its-working-with-actors-to-crack-down-on-celebrity-deepfakes-in-sora/#ftag=CAD590a51e)
- - [Today&#39;s Massive AWS Outage That Took Down Your Favorite Sites Is Still Going On](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)
- - [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option)<!-- TECH:END -->
+ - [Today&#39;s Massive AWS Outage Explained, and Why It&#39;s Not Done With Us Just Yet](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 21, #863](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-21-863/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

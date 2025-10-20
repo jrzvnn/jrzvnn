@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just for the giggles](http://9gag.com/gag/amobDnj)
- - 😝 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)
- - 💣 [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
- - 😝 [Turning trash into treasure for these little fluffballs](http://9gag.com/gag/a6Z4reL)
- - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
+ - 😝 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
+ - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 😝 [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 👉 [Meme time](http://9gag.com/gag/awyGqyQ)<!-- MEMES:END -->
 
 ---
 

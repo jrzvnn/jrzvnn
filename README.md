@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain&#39;s president Jeffrey Thomas as SVP of AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251020/p23#a251020p23)
  - [Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p22#a251020p22)
  - [Evernorth, a digital asset treasury backed by Ripple, says it will list on the Nasdaq through a merger with a blank check company and expects to raise $1B+ &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p21#a251020p21)
  - [Inside macOS 26 Phone app - How to get phone calls on your Mac](https://appleinsider.com/inside/ios-26/tips/inside-macos-26-phone-app---big-continuity-upgrade-with-a-sleek-design?utm_source=rss)
- - [The Sims Mobile is shutting down next year](https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026)
- - [Apple stock reaches new all-time high and still climbing](https://appleinsider.com/articles/25/10/20/apple-stock-reaches-new-all-time-high-price-and-still-climbing?utm_source=rss)<!-- TECH:END -->
+ - [The Sims Mobile is shutting down next year](https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

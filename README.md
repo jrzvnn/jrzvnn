@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Iniu&amp;#8217;s tiny 10,000mAh power bank is almost half off right now](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)
- - [The Friend AI pendant’s creator promoted a ‘Friend protest’ in NYC](https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc)
+ - [The Friend AI pendant’s creator publicized a ‘Friend protest’ in NYC](https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc)
  - [Every Active Borderlands 4 SHiFT Code](https://www.cnet.com/tech/gaming/every-active-borderlands-4-shift-code/#ftag=CAD590a51e)
  - [Here&#39;s the Only Phone Game Barack Obama Plays](https://www.cnet.com/tech/gaming/barack-obama-reveals-he-only-plays-this-one-phone-game/#ftag=CAD590a51e)
  - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)<!-- TECH:END -->

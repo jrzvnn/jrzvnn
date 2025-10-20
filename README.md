@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 😝 [Asking the important questions](http://9gag.com/gag/a5QymQN)
  - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
- - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
- - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
+ - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
+ - 👉 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)<!-- MEMES:END -->
 
 ---
 

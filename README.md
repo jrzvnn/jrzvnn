@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 💣 [My sons threw a party and hired a DJ. I&#39;m calling the cops](http://9gag.com/gag/aQzNYoz)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Life is unfair](http://9gag.com/gag/a0ez87X)<!-- MEMES:END -->
+ - 👉 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)<!-- MEMES:END -->
 
 ---
 

@@ -159,7 +159,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How China gained control over global rare earth supply through state support, domestic industry consolidation, acquiring US companies like Magnequench, and more &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p8#a251020p8)
  - [A profile of Katherine Boyle, an a16z partner and a friend to JD Vance, as Silicon Valley increasingly adopts her views, including embracing defense tech &lpar;Julia Black/New York Times&rpar;](http://www.techmeme.com/251020/p7#a251020p7)
- - [AWS is experiencing a major US-EAST-1 outage starting at 3:11AM ET that has taken down many services, including Amazon, Alexa, Snapchat, Fortnite, and ChatGPT &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)
+ - [AWS is experiencing a major US-EAST-1 outage starting at 3:11AM ET that has taken down many online services and says it has &quot;identified a potential root cause&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)
  - [Blackstone President Jonathan Gray says AI risk is &quot;top of our list&quot; when evaluating deals; sources: the firm backed down from buying companies vulnerable to AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p5#a251020p5)
  - [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)<!-- TECH:END -->
 

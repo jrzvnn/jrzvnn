@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
  - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
- - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 💣 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)
- - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
- - 👉 [Show The World Beech Let them get their jerk on IDGF. now There\u2019s a lady with Balls](http://9gag.com/gag/adB43zM)<!-- MEMES:END -->
+ - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
+ - 👉 [Sharkzilla would have been nice ...](http://9gag.com/gag/apRzErD)<!-- MEMES:END -->
 
 ---
 

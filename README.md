@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink launches 10,000th internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite)
+ - [SpaceX launches 10,000th Starlink internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite)
  - [Nexperia accuses ousted CEO Zhang Xuezheng of spreading &quot;falsehoods&quot; that the chipmaker is now operating independently in China and of &quot;unauthorized actions&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251020/p9#a251020p9)
  - [How China gained control over global rare earth supply through state support, domestic industry consolidation, acquiring US companies like Magnequench, and more &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p8#a251020p8)
  - [A profile of Katherine Boyle, an a16z partner and a friend to JD Vance, as Silicon Valley increasingly adopts her views, including embracing defense tech &lpar;Julia Black/New York Times&rpar;](http://www.techmeme.com/251020/p7#a251020p7)
- - [AWS is experiencing a major US-EAST-1 outage starting at 3:11AM ET that has taken down many online services and says it has &quot;identified a potential root cause&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)<!-- TECH:END -->
+ - [AWS says it is &quot;seeing significant signs of recovery&quot; after a major US-EAST-1 outage starting at 3:11AM ET took down online services like ChatGPT and Snapchat &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

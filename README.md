@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS is currently experiencing a major outage that has taken down major services, including Amazon, Alexa, Snapchat, Fortnite, and Signal; AWS is investigating &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)
+ - [Blackstone President Jonathan Gray says AI risk is &quot;top of our list&quot; when evaluating deals; sources: the firm backed down from buying companies vulnerable to AI &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p5#a251020p5)
+ - [Major AWS outage takes down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
  - [A profile of Pure Storage co-founder John Colgrove, as AI-driven demand for data storage pushes the company&#39;s stock to record highs, reaching a $30B market cap &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251020/p4#a251020p4)
- - [CoMind, which is developing a non-invasive brain monitoring device with tech similar to Lidar, raised $60M led by Plural, bringing its total funding to $102.5M &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p3#a251020p3)
- - [Counterpoint: iPhone 17 series outsold iPhone 16 by ~14% in the first 10 days of sales in the US and China; base iPhone 17 sales doubled over iPhone 16 in China &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251020/p2#a251020p2)
- - [A look at Opera&#39;s Neon, a $20-per-month agentic AI browser that can take over browsing tasks, but its three built-in AI chatbots can be confusing and unreliable &lpar;The Verge&rpar;](http://www.techmeme.com/251020/p1#a251020p1)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based CoMind, which develops a non-invasive brain monitoring device with Lidar-like tech, raised $60M led by Plural, taking its total funding to $102.5M &lpar;Financial Times&rpar;](http://www.techmeme.com/251020/p3#a251020p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

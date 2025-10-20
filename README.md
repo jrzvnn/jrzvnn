@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [Caveat emptor: Trump Mobile incredibly overcharging for used iPhone 14](https://appleinsider.com/articles/25/10/20/caveat-emptor-trump-mobile-incredibly-overcharging-for-used-iphone-14?utm_source=rss)
  - [OpenAI Says It&#39;s Working With Actors to Crack Down on Celebrity Deepfakes in Sora](https://www.cnet.com/tech/services-and-software/openai-says-its-working-with-actors-to-crack-down-on-celebrity-deepfakes-in-sora/#ftag=CAD590a51e)
  - [Today&#39;s Massive AWS Outage That Took Down Your Favorite Sites Is Still Going On](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)
- - [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option)
- - [Reid Hoffman calls Anthropic &quot;one of the good guys&quot; after David Sacks accused the company of running a &quot;regulatory capture strategy based on fear-mongering&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p30#a251020p30)<!-- TECH:END -->
+ - [Apple adds a new toggle to make Liquid Glass less glassy](https://www.theverge.com/news/802963/apple-liquid-glass-ios-26-1-beta-tint-option)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

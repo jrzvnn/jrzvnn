@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Beyond Wall Street soon](http://9gag.com/gag/ae9PoBm)
+ - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
- - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
+ - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 😝 [How to make men laugh](http://9gag.com/gag/avyXbnO)
+ - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: AirPods Pro 2 are back on sale at $80 off](https://appleinsider.com/articles/25/10/20/deals-airpods-pro-2-are-back-on-sale-at-80-off?utm_source=rss)
  - [Lenovo’s Legion 5 is a fast, OLED-equipped gaming laptop for $1,050](https://www.theverge.com/tech/802576/lenovo-legion-5-gaming-laptop-nvidia-rtx-deal-sale)
  - [Jane Goodall has one last collaboration with Apple](https://appleinsider.com/articles/25/10/20/jane-goodall-has-one-last-collaboration-with-apple?utm_source=rss)
  - [What the Huge AWS Outage Reveals About the Internet](https://www.wired.com/story/what-that-huge-aws-outage-reveals-about-the-internet/)
- - [Entire iPhone 17 line sees biggest early sales in years across the globe](https://appleinsider.com/articles/25/10/20/entire-iphone-17-line-sees-biggest-early-sales-in-years-across-the-globe?utm_source=rss)
- - [The 14 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)<!-- TECH:END -->
+ - [Entire iPhone 17 line sees biggest early sales in years across the globe](https://appleinsider.com/articles/25/10/20/entire-iphone-17-line-sees-biggest-early-sales-in-years-across-the-globe?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

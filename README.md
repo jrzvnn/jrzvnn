@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-20/#ftag=CAD590a51e)
  - [Alibaba Cloud details a GPU pooling system that it claims reduced the number of Nvidia H20 required by 82% when serving dozens of LLMs of up to 72B parameters &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/251019/p16#a251019p16)
  - [Q&amp;A with Jimmy Wales on Wikipedia&#39;s decentralized model, right-wing attacks and political pressure, Elon Musk, protecting volunteer editors, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/251019/p15#a251019p15)
  - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
- - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)
- - [X plans a Handle Marketplace for Premium+ and Business subscribers to search for and request inactive usernames; rare handles can cost from $2,500 to $1M+ &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/251019/p13#a251019p13)<!-- TECH:END -->
+ - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

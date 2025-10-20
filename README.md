@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iniu&amp;#8217;s tiny 10,000mAh power bank is almost half off right now](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)
- - [The Friend AI pendant’s creator publicized a ‘Friend protest’ in NYC](https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc)
- - [Every Active Borderlands 4 SHiFT Code](https://www.cnet.com/tech/gaming/every-active-borderlands-4-shift-code/#ftag=CAD590a51e)
- - [Here&#39;s the Only Phone Game Barack Obama Plays](https://www.cnet.com/tech/gaming/barack-obama-reveals-he-only-plays-this-one-phone-game/#ftag=CAD590a51e)
- - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)<!-- TECH:END -->
+ - [Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251020/p27#a251020p27)
+ - [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/)
+ - [DeepSeek releases DeepSeek-OCR, a vision language model designed for efficient vision-text compression, enabling longer contexts with less compute &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251020/p26#a251020p26)
+ - [These Skullcandy Earbuds Are Discounted Up to Nearly $50 Off](https://www.wired.com/story/skullcandy-method-360-anc-deal-1025/)
+ - [An interview with Deel CEO Alex Bouaziz, who expects a 2025 profit of $170M to $200M, about the company&#39;s $300M round that pushed its valuation above Rippling&#39;s &lpar;Matt Durot/Forbes&rpar;](http://www.techmeme.com/251020/p25#a251020p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

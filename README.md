@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX launches 10,000th Starlink internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite)
- - [Nexperia accuses ousted CEO Zhang Xuezheng of spreading &quot;falsehoods&quot; that the chipmaker is now operating independently in China and of &quot;unauthorized actions&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251020/p9#a251020p9)
- - [How China gained control over global rare earth supply through state support, domestic industry consolidation, acquiring US companies like Magnequench, and more &lpar;Jon Emont/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p8#a251020p8)
- - [A profile of Katherine Boyle, an a16z partner and a friend to JD Vance, as Silicon Valley increasingly adopts her views, including embracing defense tech &lpar;Julia Black/New York Times&rpar;](http://www.techmeme.com/251020/p7#a251020p7)
- - [AWS says it is &quot;seeing significant signs of recovery&quot; after a major US-EAST-1 outage starting at 3:11AM ET took down online services like ChatGPT and Snapchat &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251020/p6#a251020p6)<!-- TECH:END -->
+ - [Apple services hit as Amazon Web Services suffers outage](https://appleinsider.com/articles/25/10/20/apple-services-hit-as-amazon-web-services-suffers-outage?utm_source=rss)
+ - [A lawyer says 55 Chinese iPhone and iPad users filed an antitrust complaint in China alleging Apple abuses its market dominance by restricting app distribution &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p10#a251020p10)
+ - [The FTC Is Disappearing Blog Posts About AI Published During Lina Khan’s Tenure](https://www.wired.com/story/ftc-removes-blog-posts-about-ai-authored-by-by-lina-khan/)
+ - [A High-Tech Ankle Guard Is Helping NBA Players Stay in the Game](https://www.wired.com/story/betterguards-ankle-guard-nba-players/)
+ - [SpaceX launches 10,000th Starlink internet satellite](https://www.theverge.com/news/802509/starlink-launches-10000th-internet-satellite)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

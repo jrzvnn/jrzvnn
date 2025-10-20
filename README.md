@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 26.1 beta 4 gets Liquid Glass opacity setting, Camera Swipe toggle](https://appleinsider.com/articles/25/10/20/ios-261-beta-4-gets-liquid-glass-opacity-setting-camera-swipe-toggle?utm_source=rss)
+ - [Google will reportedly let 15 superfans test unreleased Pixel phones](https://www.theverge.com/news/802866/google-pixel-superfans-test-new-phone-trusted-tester-program-report)
  - [OpenAI says it will work with SAG-AFTRA, CAA, UTA, and others to crack down on Sora 2 deepfakes, following concerns from actor Bryan Cranston and SAG-AFTRA &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251020/p29#a251020p29)
  - [Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah](https://www.wired.com/story/mystery-space-object-strikes-united-airlines-flight-over-utah/)
- - [Doc: Google launched a Trusted Tester program that will select 15 of its &quot;Superfans&quot; to test unreleased Pixels, using protective cases to disguise the hardware &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251020/p28#a251020p28)
- - [Google Has a Bed Bug Infestation in Its New York Offices](https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/)
- - [Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251020/p27#a251020p27)<!-- TECH:END -->
+ - [An AWS Outage Broke the Internet While You Were Sleeping, and the Trouble Continues](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

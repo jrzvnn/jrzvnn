@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
+ - [LangChain, whose open-source framework connects AI apps to real-time data, raised a $125M Series B led by IVP at a $1.25B valuation &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251020/p24#a251020p24)
+ - [Kohler’s new toilet camera provides health insights based on your bathroom breaks](https://www.theverge.com/news/802727/kohler-health-dekoda-toilet-camera-optical-sensors)
  - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)
- - [Apple TV branding &amp; content push, Sonos updates, &amp; Wi-Fi 8 on HomeKit Insider](https://appleinsider.com/articles/25/10/20/apple-tv-branding-content-push-sonos-updates-wi-fi-8-on-homekit-insider?utm_source=rss)
- - [Your Ultimate Guide to AI Video Generators: How to Use Sora 2, Veo 3 and More](https://www.cnet.com/tech/services-and-software/your-ultimate-guide-to-ai-video-generators-how-to-use-sora-2-veo-3-and-more/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream West Ham vs. Brentford Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-brentford-live-from-anywhere/#ftag=CAD590a51e)
- - [An AWS Outage Broke the Internet While You Were Sleeping, and the Troubles Continue](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV branding &amp; content push, Sonos updates, &amp; Wi-Fi 8 on HomeKit Insider](https://appleinsider.com/articles/25/10/20/apple-tv-branding-content-push-sonos-updates-wi-fi-8-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

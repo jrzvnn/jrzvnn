@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)
- - [LangChain, whose open-source framework connects AI apps to real-time data, raised a $125M Series B led by IVP at a $1.25B valuation &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251020/p24#a251020p24)
- - [WIRED Roundup: Satellites Data Leak, Cybertrucks, Politicized Federal Workers](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-satellites-data-leak-cybertrucks-politicized-federal-workers/)
- - [Kohler’s new toilet camera provides health insights based on your bathroom breaks](https://www.theverge.com/news/802727/kohler-health-dekoda-toilet-camera-optical-sensors)
- - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)<!-- TECH:END -->
+ - [Iniu&amp;#8217;s tiny 10,000mAh power bank is almost half off right now](https://www.theverge.com/tech/799260/iniu-45w-usbc-power-bank-deal-sale)
+ - [The Friend AI pendant’s creator promoted a ‘Friend protest’ in NYC](https://www.theverge.com/ai-artificial-intelligence/802697/friend-ai-device-subway-ad-protest-nyc)
+ - [Every Active Borderlands 4 SHiFT Code](https://www.cnet.com/tech/gaming/every-active-borderlands-4-shift-code/#ftag=CAD590a51e)
+ - [Here&#39;s the Only Phone Game Barack Obama Plays](https://www.cnet.com/tech/gaming/barack-obama-reveals-he-only-plays-this-one-phone-game/#ftag=CAD590a51e)
+ - [Major AWS outage took down Fortnite, Alexa, Snapchat, and more](https://www.theverge.com/news/802486/aws-outage-alexa-fortnite-snapchat-offline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CleanSpark shares jump 12%+ after the bitcoin miner expands into AI infrastructure, hiring Humain&#39;s president Jeffrey Thomas as SVP of AI data centers &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/251020/p23#a251020p23)
- - [Anthropic announces Claude Life Sciences, a new offering for researchers that integrates Claude AI models with lab tools like Benchling to boost efficiency &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251020/p22#a251020p22)
- - [Evernorth, a digital asset treasury backed by Ripple, says it will list on the Nasdaq through a merger with a blank check company and expects to raise $1B+ &lpar;Reuters&rpar;](http://www.techmeme.com/251020/p21#a251020p21)
- - [Inside macOS 26 Phone app - How to get phone calls on your Mac](https://appleinsider.com/inside/ios-26/tips/inside-macos-26-phone-app---big-continuity-upgrade-with-a-sleek-design?utm_source=rss)
- - [The Sims Mobile is shutting down next year](https://www.theverge.com/games/802631/the-sims-mobile-shut-down-2026)<!-- TECH:END -->
+ - [M5 MacBook Pro vs M4 MacBook Pro: Incremental but welcome upgrade](https://appleinsider.com/inside/macbook-pro/vs/m5-macbook-pro-vs-m4-macbook-pro-incremental-but-welcome-upgrade?utm_source=rss)
+ - [Apple TV branding &amp; content push, Sonos updates, &amp; Wi-Fi 8 on HomeKit Insider](https://appleinsider.com/articles/25/10/20/apple-tv-branding-content-push-sonos-updates-wi-fi-8-on-homekit-insider?utm_source=rss)
+ - [Your Ultimate Guide to AI Video Generators: How to Use Sora 2, Veo 3 and More](https://www.cnet.com/tech/services-and-software/your-ultimate-guide-to-ai-video-generators-how-to-use-sora-2-veo-3-and-more/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream West Ham vs. Brentford Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-brentford-live-from-anywhere/#ftag=CAD590a51e)
+ - [An AWS Outage Broke the Internet While You Were Sleeping, and the Troubles Continue](https://www.cnet.com/tech/services-and-software/amazon-web-services-outage-october-20-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

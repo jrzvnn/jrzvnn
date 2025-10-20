@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese law firm tries suing over App Store practices -- again](https://appleinsider.com/articles/25/10/20/chinese-law-firm-tries-suing-over-app-store-practices----again?utm_source=rss)
- - [Q&amp;A with Asana co-founder Dustin Moskovitz on Facebook, starting Asana, SaaS companies, enterprise AI, the &quot;empty seat problem&quot;, AI modesty, AI safety, and more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251020/p13#a251020p13)
- - [Apple services hit as Amazon Web Services suffers outage](https://appleinsider.com/articles/25/10/20/apple-services-hit-as-amazon-web-services-suffers-outage?utm_source=rss)
- - [SteelSeries Arctis Nova Elite Review: Gaming Overkill?](https://www.wired.com/review/steelseries-arctis-elite/)
- - [Apple Pioneer Bill Atkinson Was a Secret Evangelist of the ‘God Molecule’](https://www.wired.com/story/apple-pioneer-bill-atkinson-was-a-secret-evangelist-of-the-god-molecule/)<!-- TECH:END -->
+ - [How luxury brands&#39; stiffest competition is coming from secondhand online resellers like The RealReal and Fashionphile, driven by Gen Z and millennial consumers &lpar;Carol Ryan/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p16#a251020p16)
+ - [OpenEvidence, which makes an ad-supported AI chatbot for medical practitioners, raised $200M at a $6B valuation, up from $3.5B after raising $210M in July &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251020/p15#a251020p15)
+ - [Ariel Emanuel&#39;s new company MARI acquires NYC- and London-based theater ticketing app TodayTix from PE firm Great Hill; TodayTix sells ~10M tickets per year &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/251020/p14#a251020p14)
+ - [iPhone Air, One Month Later: My Camera and Battery Fears Have Been Put to Rest](https://www.cnet.com/tech/mobile/iphone-air-one-month-later-my-camera-and-battery-fears-have-been-put-to-rest/#ftag=CAD590a51e)
+ - [Chinese law firm tries suing over App Store practices -- again](https://appleinsider.com/articles/25/10/20/chinese-law-firm-tries-suing-over-app-store-practices----again?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

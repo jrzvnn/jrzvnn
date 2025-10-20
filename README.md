@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How luxury brands&#39; stiffest competition is coming from secondhand online resellers like The RealReal and Fashionphile, driven by Gen Z and millennial consumers &lpar;Carol Ryan/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p16#a251020p16)
- - [OpenEvidence, which makes an ad-supported AI chatbot for medical practitioners, raised $200M at a $6B valuation, up from $3.5B after raising $210M in July &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251020/p15#a251020p15)
- - [Ariel Emanuel&#39;s new company MARI acquires NYC- and London-based theater ticketing app TodayTix from PE firm Great Hill; TodayTix sells ~10M tickets per year &lpar;Michael Paulson/New York Times&rpar;](http://www.techmeme.com/251020/p14#a251020p14)
- - [iPhone Air, One Month Later: My Camera and Battery Fears Have Been Put to Rest](https://www.cnet.com/tech/mobile/iphone-air-one-month-later-my-camera-and-battery-fears-have-been-put-to-rest/#ftag=CAD590a51e)
- - [Chinese law firm tries suing over App Store practices -- again](https://appleinsider.com/articles/25/10/20/chinese-law-firm-tries-suing-over-app-store-practices----again?utm_source=rss)<!-- TECH:END -->
+ - [Adobe launches AI Foundry, a new program to help enterprise customers create bespoke, commercially safe, Firefly-based generative AI models trained on their IP &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251020/p18#a251020p18)
+ - [The UK CMA says Getty Images and Shutterstock&#39;s $3.7B merger causes competition concerns and gives the companies until October 27 to offer plan to address them &lpar;Ian Walker/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p17#a251020p17)
+ - [6 Best VPN Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn/)
+ - [Ford’s Mustang Mach-E GT California Special blends the old with the new](https://www.theverge.com/news/801920/ford-mustang-mach-e-california-special-specs)
+ - [Oura redesigns app with expanded stress tracking](https://www.theverge.com/news/802527/oura-ring-stress-blood-pressure-test-app-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

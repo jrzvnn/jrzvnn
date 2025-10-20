@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know it\u2019s bad when even Asians don\u2019t approve of your construction.](http://9gag.com/gag/ae9PoBB)
- - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 💣 [Flag](http://9gag.com/gag/a9yNQBZ)
- - 😝 [I drew some random Carrots](http://9gag.com/gag/aRB9wwq)
- - 👉 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)<!-- MEMES:END -->
+ - 😝 [Show The World Beech Let them get their jerk on IDGF. now There\u2019s a lady with Balls](http://9gag.com/gag/adB43zM)
+ - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
+ - 💣 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
+ - 😝 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)
+ - 👉 [Flag](http://9gag.com/gag/a9yNQBZ)<!-- MEMES:END -->
 
 ---
 

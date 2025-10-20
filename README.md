@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a letter to two lawmakers, Ticketmaster says it will ban users from operating multiple accounts and shut down its TradeDesk platform after an FTC lawsuit &lpar;Dave Brooks/Billboard&rpar;](http://www.techmeme.com/251020/p34#a251020p34)
  - [A look at the social debates in Chile over AI investments, emblematic of clashes happening globally over balancing economic growth with environmental concerns &lpar;Paul Mozur/New York Times&rpar;](http://www.techmeme.com/251020/p33#a251020p33)
  - [Apple&#39;s leaker lawsuit marches on after Jon Prosser misses deadlines](https://appleinsider.com/articles/25/10/20/apples-leaker-lawsuit-marches-on-after-jon-prosser-misses-deadlines?utm_source=rss)
  - [Ninja Gaiden 4 Review: The Comeback Fans Have Been Waiting For](https://www.cnet.com/tech/gaming/ninja-gaiden-4-review/#ftag=CAD590a51e)
- - [Ninja Gaiden 4 is the perfect place to jump into the series](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc)
- - [AWS says services have &quot;returned to normal operations&quot; after an outage in its US-EAST-1 region, first reported at 3:11am ET, that took down major websites &lpar;CNBC&rpar;](http://www.techmeme.com/251020/p32#a251020p32)<!-- TECH:END -->
+ - [Ninja Gaiden 4 is the perfect place to jump into the series](https://www.theverge.com/games/802755/ninja-gaiden-4-review-xbox-series-x-s-ps5-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

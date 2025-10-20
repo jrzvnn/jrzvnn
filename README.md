@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
- - 😝 [Asking the important questions](http://9gag.com/gag/a5QymQN)
- - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 😝 [Worth seeing again](http://9gag.com/gag/aZZoqwn)
+ - 😝 [Deserve](http://9gag.com/gag/a9yZjKW)
+ - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
  - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
- - 👉 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)<!-- MEMES:END -->
+ - 👉 [MTV ends broadcast on December 31.](http://9gag.com/gag/a6Z4r8R)<!-- MEMES:END -->
 
 ---
 

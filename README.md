@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mystery Object From ‘Space’ Strikes United Airlines Flight Over Utah](https://www.wired.com/story/mystery-space-object-strikes-united-airlines-flight-over-utah/)
+ - [Doc: Google launched a Trusted Tester program that will select 15 of its &quot;Superfans&quot; to test unreleased Pixels, using protective cases to disguise the hardware &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251020/p28#a251020p28)
  - [Google Has a Bed Bug Infestation in Its New York Offices](https://www.wired.com/story/theres-a-beg-bug-infestation-at-googles-manhattan-offices/)
  - [Anthropic announces Claude Code on the web and in the Claude iOS app, available in beta as a research preview for Pro and Max users &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251020/p27#a251020p27)
- - [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/)
- - [DeepSeek releases DeepSeek-OCR, a vision language model designed for efficient vision-text compression, enabling longer contexts with less compute &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251020/p26#a251020p26)
- - [These Skullcandy Earbuds Are Discounted Up to Nearly $50 Off](https://www.wired.com/story/skullcandy-method-360-anc-deal-1025/)<!-- TECH:END -->
+ - [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

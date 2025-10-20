@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 😝 [Meme time](http://9gag.com/gag/awyGqyQ)
  - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 💣 [Apparently, you don&#39;t get a b*tch pass just because you are old](http://9gag.com/gag/a87QLY6)
+ - 💣 [When you try to act tough but get knocked out](http://9gag.com/gag/an7WAnL)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
  - 👉 [How to make men laugh](http://9gag.com/gag/avyXbnO)<!-- MEMES:END -->
 

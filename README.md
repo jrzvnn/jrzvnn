@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [Always lying](http://9gag.com/gag/aZZoqgW)
- - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Post Something](http://9gag.com/gag/aYQZj6O)<!-- MEMES:END -->
+ - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---
 

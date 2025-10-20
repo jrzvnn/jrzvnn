@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Jimmy Wales on Wikipedia&#39;s decentralized model, right-wing attacks and political pressure, Elon Musk, protecting volunteer editors, and more &lpar;Lulu Garcia-Navarro/New York Times&rpar;](http://www.techmeme.com/251019/p15#a251019p15)
  - [X is changing how it handles links to try and keep you in the app](https://www.theverge.com/news/802480/x-is-changing-how-it-handles-links-to-try-and-keep-you-in-the-app)
  - [X is testing a new way of opening links without fully covering an X post, allowing users to see the Like, Repost, and other buttons, starting on iOS &lpar;Cheyenne MacDonald/Engadget&rpar;](http://www.techmeme.com/251019/p14#a251019p14)
  - [X plans a Handle Marketplace for Premium+ and Business subscribers to search for and request inactive usernames; rare handles can cost from $2,500 to $1M+ &lpar;Terrence O&#39;Brien/The Verge&rpar;](http://www.techmeme.com/251019/p13#a251019p13)
- - [Scenes From Saturday&#39;s Nationwide ‘No Kings’ Protests](https://www.wired.com/story/no-kings-protests-photos/)
- - [A look at the Crylock ransomware scheme, orchestrated by a Russian couple who targeted as many as 400,000 victims and earned over €64M in BTC over eight years &lpar;Financial Times&rpar;](http://www.techmeme.com/251019/p12#a251019p12)<!-- TECH:END -->
+ - [Scenes From Saturday&#39;s Nationwide ‘No Kings’ Protests](https://www.wired.com/story/no-kings-protests-photos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

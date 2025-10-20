@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Map of Europe in year 1000.](http://9gag.com/gag/a2vjB81)
- - 😝 [Just for the giggles](http://9gag.com/gag/amobDnj)
- - 💣 [How does microwave work &lpar;02:12&rpar;](http://9gag.com/gag/a0eWA3L)
- - 😝 [MTV ends broadcast on December 31.](http://9gag.com/gag/a6Z4r8R)
- - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
+ - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
+ - 😝 [Flag](http://9gag.com/gag/a9yNQBZ)
+ - 💣 [Asking the important questions](http://9gag.com/gag/a5QymQN)
+ - 😝 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
+ - 👉 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No agenda](http://9gag.com/gag/a2v9z7O)
- - 😝 [Pickpocket Hunters. The Show You Didn&#39;t Know!](http://9gag.com/gag/aPAzvMg)
- - 💣 [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [Who put that window there](http://9gag.com/gag/a1mBADw)
- - 👉 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)<!-- MEMES:END -->
+ - 😝 [Thanks Google?](https://www.reddit.com/r/funny/comments/1ocfkqu/thanks_google/)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)
+ - 😝 [Its a peaceful life](http://9gag.com/gag/aqyBm4M)
+ - 👉 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)<!-- MEMES:END -->
 
 ---
 

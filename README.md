@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hallmark’s glowing Xbox 360 ornament plays the Halo theme](https://www.theverge.com/news/803728/hallmark-keepsake-ornament-microsoft-xbox-360-console-halo-3-theme)
- - [TikTok quietly changed its policies to make it easier to share user data with government and regulatory authorities, and weakened promises to inform users &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/251021/p36#a251021p36)
- - [Apple Vision Pro M5 review roundup: faster, comfier, still not for everyone](https://appleinsider.com/articles/25/10/21/apple-vision-pro-m5-review-roundup-faster-comfier-still-not-for-everyone?utm_source=rss)
- - [Google Fi plans an AI call quality feature to filter out background sounds like wind next month, and will bring full RCS support on the web in December &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/251021/p35#a251021p35)
- - [I see your Haribo gummy bear battery and raise you a Pocket Rocket instead](https://www.theverge.com/tech/803021/haribo-gummy-bear-battery-nitecore-iniu-pocket-rocket)<!-- TECH:END -->
+ - [Google launches new features for its Google AI Studio developer platform, including a revamped &quot;Build&quot; tab to vibe code AI apps &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/251021/p38#a251021p38)
+ - [M5 MacBook Pro review roundup: Higher performance, static design](https://appleinsider.com/articles/25/10/21/m5-macbook-pro-review-roundup-higher-performance-static-design?utm_source=rss)
+ - [Sources: Apple&#39;s foldable iPad with an 18&quot; screen faces engineering challenges tied to weight, features, and display tech, pushing its debut to 2029 or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251021/p37#a251021p37)
+ - [Sperm From Older Men Have More Genetic Mutations](https://www.wired.com/story/sperm-from-older-men-have-more-genetic-mutations/)
+ - [Hallmark’s glowing Xbox 360 ornament plays the Halo theme](https://www.theverge.com/news/803728/hallmark-keepsake-ornament-microsoft-xbox-360-console-halo-3-theme)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

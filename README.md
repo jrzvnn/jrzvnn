@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
  - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 😝 [Good old times](http://9gag.com/gag/avy40bX)
+ - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [\u201cAtleast we don\u2019t speak German\u201d said the Englishman in Arabic.](http://9gag.com/gag/axyQ2d1)
  - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---

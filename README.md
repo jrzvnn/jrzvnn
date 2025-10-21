@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [This was before modern corporations, what were they called then?](http://9gag.com/gag/a4Pm4bw)<!-- MEMES:END -->
+ - 👉 [And the US president will be a russian asset...](http://9gag.com/gag/axyQNop)<!-- MEMES:END -->
 
 ---
 

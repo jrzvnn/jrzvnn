@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnlyFans CEO Keily Blair says the platform has paid out $25B to creators since its founding in 2016; OnlyFans takes a 20% fee on subscriptions and content sales &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251021/p26#a251021p26)
  - [The AWS Outage Was a Nightmare for College Students](https://www.wired.com/story/the-aws-outage-was-a-nightmare-for-college-students/)
  - [It looks like OpenAI is about to announce its AI web browser](https://www.theverge.com/news/803481/openai-web-browser-ai-announcement-teaser)
  - [Dario Amodei addresses &quot;inaccurate claims&quot; about Anthropic&#39;s policy stances after David Sacks said the &quot;real issue&quot; is &quot;Anthropic&#39;s agenda to backdoor Woke AI&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251021/p25#a251021p25)
- - [Beloved Apple TV comedy &#39;Shrinking&#39; gets a season 3 premiere date](https://appleinsider.com/articles/25/10/21/beloved-apple-tv-comedy-shrinking-gets-a-season-3-premiere-date?utm_source=rss)
- - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
+ - [Beloved Apple TV comedy &#39;Shrinking&#39; gets a season 3 premiere date](https://appleinsider.com/articles/25/10/21/beloved-apple-tv-comedy-shrinking-gets-a-season-3-premiere-date?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

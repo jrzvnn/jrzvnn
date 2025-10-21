@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 💣 [No agenda](http://9gag.com/gag/a2v9z7O)
- - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Its a peaceful life](http://9gag.com/gag/aqyBm4M)<!-- MEMES:END -->
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 😝 [Sounds like a good cycle](http://9gag.com/gag/aByjK6A)
+ - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---
 

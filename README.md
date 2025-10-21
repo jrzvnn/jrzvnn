@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
  - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
+ - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
  - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
+ - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---
 

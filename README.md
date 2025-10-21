@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 😝 [Always lying](http://9gag.com/gag/aZZoqgW)
+ - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
  - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
+ - 👉 [Every sport started in a bar. Prove me wrong!](http://9gag.com/gag/ae9yjXb)<!-- MEMES:END -->
 
 ---
 

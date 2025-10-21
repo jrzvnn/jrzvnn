@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
  - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
  - 😝 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
- - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 

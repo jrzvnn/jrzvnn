@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Even Xbox developer kits are getting a big price hike](https://www.theverge.com/report/803237/microsoft-xbox-devkit-price-hikes-developers)
+ - [Samsung rolls out a Perplexity TV app, which works alongside Samsung&#39;s Vision AI Companion, on its 2025 TVs; 2023 and 2024 TV models will get it later this year &lpar;Artie Beaty/ZDNET&rpar;](http://www.techmeme.com/251021/p30#a251021p30)
+ - [YouTube launches its likeness detection tech, letting eligible creators in its Partner Program request the removal of AI-generated content with their likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251021/p29#a251021p29)
  - [A US judge orders Mark Zuckerberg, Evan Spiegel, and Adam Mosseri to testify in the &quot;first bellwether trial&quot; over child social media safety, set for January &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251021/p28#a251021p28)
- - [Serval, which uses agentic AI models to automate IT service management for clients like Perplexity and Mercor, raised a $47M Series A led by Redpoint Ventures &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251021/p27#a251021p27)
- - [Forget SEO. Welcome to the World of Generative Engine Optimization](https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/)
- - [OnlyFans CEO Keily Blair says the platform has paid out $25B to creators since its founding in 2016; OnlyFans takes a 20% fee on subscriptions and content sales &lpar;Rose Henderson/Bloomberg&rpar;](http://www.techmeme.com/251021/p26#a251021p26)
- - [The AWS Outage Was a Nightmare for College Students](https://www.wired.com/story/the-aws-outage-was-a-nightmare-for-college-students/)<!-- TECH:END -->
+ - [Serval, which uses agentic AI models to automate IT service management for clients like Perplexity and Mercor, raised a $47M Series A led by Redpoint Ventures &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251021/p27#a251021p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

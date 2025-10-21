@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Every sport started in a bar. Prove me wrong!](http://9gag.com/gag/ae9yjXb)<!-- MEMES:END -->
+ - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
 
 ---
 

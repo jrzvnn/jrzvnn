@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 😝 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
+ - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
 
 ---
 

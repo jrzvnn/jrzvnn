@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks Google?](https://www.reddit.com/r/funny/comments/1ocfkqu/thanks_google/)
  - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 💣 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)
- - 😝 [Its a peaceful life](http://9gag.com/gag/aqyBm4M)
- - 👉 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)<!-- MEMES:END -->
+ - 😝 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)
+ - 💣 [Its a peaceful life](http://9gag.com/gag/aqyBm4M)
+ - 😝 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)
+ - 👉 [Sony-Ericsson bluetooth remote control CAR-100](http://9gag.com/gag/aYQZbPv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
- - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
+ - 😝 [No agenda](http://9gag.com/gag/a2v9z7O)
+ - 😝 [Pickpocket Hunters. The Show You Didn&#39;t Know!](http://9gag.com/gag/aPAzvMg)
+ - 💣 [Legend](http://9gag.com/gag/aqyB95L)
+ - 😝 [Who put that window there](http://9gag.com/gag/a1mBADw)
+ - 👉 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)<!-- MEMES:END -->
 
 ---
 

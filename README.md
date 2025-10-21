@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 💣 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [You get what you deserve.](http://9gag.com/gag/a1mq49v)<!-- MEMES:END -->
+ - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
 
 ---
 

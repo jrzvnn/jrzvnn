@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
+ - 😝 [Good old times](http://9gag.com/gag/avy40bX)
  - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---

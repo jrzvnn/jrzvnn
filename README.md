@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 💣 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 💣 [Early Black Friday Sale in California](http://9gag.com/gag/aqyB9YY)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
  - 👉 [The test....](http://9gag.com/gag/azxob7j)<!-- MEMES:END -->
 

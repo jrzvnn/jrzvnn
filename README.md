@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 😝 [Every 9gagger can relate.](http://9gag.com/gag/aByjRLZ)
+ - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
+ - 💣 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
+ - 👉 [No agenda](http://9gag.com/gag/a2v9z7O)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 💣 [Legend](http://9gag.com/gag/aqyB95L)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
  - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [You get what you deserve.](http://9gag.com/gag/a1mq49v)
- - 💣 [My sons threw a party and hired a DJ. I&#39;m calling the cops](http://9gag.com/gag/aQzNYoz)
+ - 😝 [A knight to remember](http://9gag.com/gag/amoKNA2)
+ - 😝 [No agenda](http://9gag.com/gag/a2v9z7O)
+ - 💣 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)<!-- MEMES:END -->
+ - 👉 [Billyraycyrus sang this intro](http://9gag.com/gag/aAyqRXd)<!-- MEMES:END -->
 
 ---
 

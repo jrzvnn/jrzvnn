@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
- - 😝 [`Widerlich`](http://9gag.com/gag/aQzB6pe)
- - 💣 [Legend](http://9gag.com/gag/aqyB95L)
+ - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
+ - 😝 [Always lying](http://9gag.com/gag/aZZoqgW)
+ - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
  - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon&#39;s Sparrow, Cardinal, Proteus, and other warehouse robots, taking over roles like selecting and picking items, carrying shipping carts, and more &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/251021/p9#a251021p9)
- - [Lagos-founded payments startup Moniepoint raised $90M at a $1B+ valuation, after raising $110M in October 2024, and says it processes $250B+ yearly transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p8#a251021p8)
- - [17 Best Couches We’ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couch/)
- - [Internal Amazon documents and sources: executives believe Amazon is on the cusp of replacing 500K+ jobs with robots and aims to automate 75% of its operations &lpar;New York Times&rpar;](http://www.techmeme.com/251021/p7#a251021p7)
- - [Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase&#39;s 8th acquisition in 2025 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251021/p6#a251021p6)<!-- TECH:END -->
+ - [Amazon hopes to replace 600,000 US workers with robots, according to leaked documents](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs)
+ - [Anrok, which helps software companies automate sales tax compliance, raised a $55M Series C at a $525M valuation, up from $250M after raising $30M in April 2024 &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/251021/p10#a251021p10)
+ - [Luminkey Magger68 Plus HE Review: Mechanical Heart](https://www.wired.com/review/luminkey-magger68-plus-he/)
+ - [Yelp’s AI can now take reservations over the phone](https://www.theverge.com/news/802529/yelp-ai-host-receptionist)
+ - [A look at Amazon&#39;s Sparrow, Cardinal, Proteus, and other warehouse robots, taking over roles like selecting and picking items, carrying shipping carts, and more &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/251021/p9#a251021p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

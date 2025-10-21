@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Xbox developer kits are getting a big price hike](https://www.theverge.com/report/803237/microsoft-xbox-devkit-price-hikes-developers)
- - [Samsung rolls out a Perplexity TV app, which works alongside Samsung&#39;s Vision AI Companion, on its 2025 TVs; 2023 and 2024 TV models will get it later this year &lpar;Artie Beaty/ZDNET&rpar;](http://www.techmeme.com/251021/p30#a251021p30)
- - [YouTube launches its likeness detection tech, letting eligible creators in its Partner Program request the removal of AI-generated content with their likeness &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251021/p29#a251021p29)
- - [A US judge orders Mark Zuckerberg, Evan Spiegel, and Adam Mosseri to testify in the &quot;first bellwether trial&quot; over child social media safety, set for January &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251021/p28#a251021p28)
- - [Serval, which uses agentic AI models to automate IT service management for clients like Perplexity and Mercor, raised a $47M Series A led by Redpoint Ventures &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251021/p27#a251021p27)<!-- TECH:END -->
+ - [The Long History of Frogs as Protest Symbols](https://www.wired.com/story/the-long-history-of-frogs-as-protest-symbols/)
+ - [OpenAI’s AI-powered browser, ChatGPT Atlas, is here](https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent)
+ - [OpenAI launches its ChatGPT Atlas web browser, available initially for macOS, and &quot;coming soon&quot; to Windows, iOS, and Android &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251021/p31#a251021p31)
+ - [Apple MacBook Pro &lpar;M5, 14-Inch&rpar; Review: More of the Same](https://www.wired.com/review/apple-macbook-pro-m5-14-inch/)
+ - [Apple MacBook Pro M5 review: new chip, same greatness](https://www.theverge.com/tech/803349/apple-macbook-pro-14-m5-2025-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
  - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 💣 [Legend](http://9gag.com/gag/aqyB95L)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
+ - 👉 [Post Something](http://9gag.com/gag/aYQZj6O)<!-- MEMES:END -->
 
 ---
 

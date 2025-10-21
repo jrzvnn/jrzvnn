@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s latest noise-canceling sleep earbuds are nearly $40 off](https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale)
+ - [Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims](https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/)
  - [Here’s how Google is choosing 15 fans to test the next Pixel](https://www.theverge.com/report/803702/google-pixel-superfan-contest-rules)
  - [First impressions of ChatGPT Atlas, as browser agents remain confusing, with insurmountable security and privacy risks including prompt injection attacks &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251021/p40#a251021p40)
- - [Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit](https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default)
- - [OpenAI&#39;s Atlas Browser Takes Direct Aim at Google Chrome](https://www.wired.com/story/openai-atlas-browser-chrome-agents-web-browsing/)
- - [OpenAI says ChatGPT Atlas&#39; opt-in browser memories feature can remember key details from users&#39; web browsing to improve chat responses and offer suggestions &lpar;OpenAI&rpar;](http://www.techmeme.com/251021/p39#a251021p39)<!-- TECH:END -->
+ - [Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit](https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

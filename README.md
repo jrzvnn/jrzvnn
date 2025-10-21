@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
  - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
+ - 👉 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)<!-- MEMES:END -->
 
 ---
 

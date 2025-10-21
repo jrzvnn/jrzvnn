@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [Uploading my old 9gag collection day 114](http://9gag.com/gag/agm63dq)
- - 💣 [Its a peaceful life](http://9gag.com/gag/aqyBm4M)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 😝 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)
- - 👉 [Sony-Ericsson bluetooth remote control CAR-100](http://9gag.com/gag/aYQZbPv)<!-- MEMES:END -->
+ - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-21/#ftag=CAD590a51e)
  - [How to share files from macOS Tahoe to Windows](https://appleinsider.com/inside/macos-tahoe/tips/how-to-share-files-from-macos-tahoe-to-windows?utm_source=rss)
  - [To secure vast compute for OpenAI, Sam Altman&#39;s deal spree pits Silicon Valley giants against each other as they race to cash in, making OpenAI too big to fail &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251020/p36#a251020p36)
  - [Everett Randle, a former partner at Kleiner Perkins, joins VC firm Benchmark as general partner, following a slew of personnel departures at Benchmark &lpar;Natasha Mascarenhas/The Information&rpar;](http://www.techmeme.com/251020/p35#a251020p35)
- - [Google’s new deadline for Epic consequences is October 29th](https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th)
- - [Bryan Cranston and SAG-AFTRA say OpenAI is taking their deepfake concerns seriously](https://www.theverge.com/news/803141/openai-sora-bryan-cranston-deepfakes)<!-- TECH:END -->
+ - [Google’s new deadline for Epic consequences is October 29th](https://www.theverge.com/news/803143/googles-new-deadline-for-epic-consequences-is-october-29th)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

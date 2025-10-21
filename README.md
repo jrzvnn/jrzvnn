@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple goes on the legal offensive against EU Digital Markets Act](https://appleinsider.com/articles/25/10/21/apple-goes-on-the-legal-offensive-against-eu-digital-markets-act?utm_source=rss)
- - [HBO Max raises prices across all plans: Basic With Ads increases by $1/month to $10.99, Standard by $1.50/month to $18.49, and Premium by $2/month to $22.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251021/p21#a251021p21)
- - [Threat intel company Dataminr plans to acquire cybersecurity threat intel provider ThreatConnect for $290M; Dataminr raised $85M in convertible funding in March &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251021/p20#a251021p20)
- - [Oakley Meta Vanguard review: the smart glasses combine headphones, sunglasses, and a camera, plus Garmin integration, but the camera specs aren&#39;t too impressive &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/251021/p19#a251021p19)
- - [iPad Pro &lpar;M5, 2025&rpar; review: amazing performance, hardware remains unbeaten, and iPadOS is getting more Mac-like, but still too pricey for a secondary computer &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251021/p18#a251021p18)<!-- TECH:END -->
+ - [Microsoft’s emergency Windows 11 update fixes a nasty system recovery bug](https://www.theverge.com/news/803373/microsoft-windows-11-emergency-update-usb-mouse-keyboard-recovery-environment-issues)
+ - [M5 iPad Pro review roundup: The best tablet gets better](https://appleinsider.com/articles/25/10/21/m5-ipad-pro-review-roundup-the-best-tablet-gets-better?utm_source=rss)
+ - [Hulu with Live TV now costs $90 monthly but you can lock in $65 for three months](https://www.theverge.com/tech/802562/hulu-live-tv-subscription-disney-espn-deal-sale)
+ - [Aura’s first color E Ink frame is for the cord-averse](https://www.theverge.com/tech/803173/aura-e-ink-digital-photo-frame)
+ - [Apple goes on the legal offensive against EU Digital Markets Act](https://appleinsider.com/articles/25/10/21/apple-goes-on-the-legal-offensive-against-eu-digital-markets-act?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

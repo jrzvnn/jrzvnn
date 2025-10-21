@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
  - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
  - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
  - 😝 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)

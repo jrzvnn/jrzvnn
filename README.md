@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
+ - [Beats Solo 4 and Solo Buds both gain Walmart-exclusive color options](https://appleinsider.com/articles/25/10/21/beats-solo-4-and-solo-buds-both-gain-walmart-exclusive-color-options?utm_source=rss)
  - [YouTube’s AI ‘likeness detection’ tool is searching for deepfakes of popular creators](https://www.theverge.com/news/803818/youtube-ai-likeness-detection-deepfake)
  - [Meta forms a JV with Blue Owl to fund the $27B, 2GW Hyperion data center in Louisiana, its largest ever private capital deal; Meta will retain a ~20% equity &lpar;Reuters&rpar;](http://www.techmeme.com/251021/p46#a251021p46)
- - [Did Microsoft just tease that the next Xbox is a PC and console?](https://www.theverge.com/news/803824/microsoft-xbox-sarah-bond-next-gen-xbox-console-pc)
- - [Filings: Meta spent the most on US lobbying in Q3, spending $5.8M, followed by Amazon, Google, Apple; Anthropic, Nvidia, and a16z hit $1M+ for the first time &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251021/p45#a251021p45)
- - [Texas Instruments reports Q3 revenue up 14% YoY to $4.74B, vs. $4.64B est., and forecasts Q4 revenue and profit below estimates; TXN drops 6%+ after hours &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251021/p44#a251021p44)<!-- TECH:END -->
+ - [Did Microsoft just tease that the next Xbox is a PC and console?](https://www.theverge.com/news/803824/microsoft-xbox-sarah-bond-next-gen-xbox-console-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

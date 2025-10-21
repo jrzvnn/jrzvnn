@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
  - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
- - 💣 [Be aware in public guys](http://9gag.com/gag/an78qdz)
+ - 💣 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Life is unfair](http://9gag.com/gag/a0ez87X)<!-- MEMES:END -->
+ - 👉 [The test....](http://9gag.com/gag/azxob7j)<!-- MEMES:END -->
 
 ---
 

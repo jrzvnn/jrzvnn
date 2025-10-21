@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Every 9gagger can relate.](http://9gag.com/gag/aByjRLZ)
- - 😝 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
- - 💣 [Doesn&#39;t everyone do this?](http://9gag.com/gag/ae9PXn5)
+ - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 😝 [`Widerlich`](http://9gag.com/gag/aQzB6pe)
+ - 💣 [Legend](http://9gag.com/gag/aqyB95L)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [No agenda](http://9gag.com/gag/a2v9z7O)<!-- MEMES:END -->
+ - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
 
 ---
 

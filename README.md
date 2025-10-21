@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [She may be little but is gorgeous](http://9gag.com/gag/ary91GB)
- - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [And the US president will be a russian asset...](http://9gag.com/gag/axyQNop)<!-- MEMES:END -->
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 

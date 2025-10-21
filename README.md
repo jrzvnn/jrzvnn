@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oakley Meta Vanguard Review: The Do-It-All Smart Glasses](https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/)
- - [Apple iPad Pro &lpar;M5, 2025&rpar; Review: Tremendously Powerful](https://www.wired.com/review/apple-ipad-pro-m5-2025/)
- - [These Oakley smart glasses are perfect for weekend warriors and T-ball coaches](https://www.theverge.com/tech/802020/oakley-meta-vanguard-review-smart-glasses-garmin-strava)
- - [Wyze’s new solar-powered pan-and-tilt security camera is less than $80](https://www.theverge.com/news/802704/wyze-solar-cam-pan-tilt-2k-security-camera)
- - [Apple iPad Pro &lpar;2025&rpar; review: fast, faster, fastest](https://www.theverge.com/tech/803105/apple-ipad-pro-2025-review-fast-faster-fastest)<!-- TECH:END -->
+ - [HBO Max raises prices across all plans: Basic With Ads increases by $1/month to $10.99, Standard by $1.50/month to $18.49, and Premium by $2/month to $22.99 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251021/p21#a251021p21)
+ - [Threat intel company Dataminr plans to acquire cybersecurity threat intel provider ThreatConnect for $290M; Dataminr raised $85M in convertible funding in March &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251021/p20#a251021p20)
+ - [Oakley Meta Vanguard review: the smart glasses combine headphones, sunglasses, and a camera, plus Garmin integration, but the camera specs aren&#39;t too impressive &lpar;Adrienne So/Wired&rpar;](http://www.techmeme.com/251021/p19#a251021p19)
+ - [iPad Pro &lpar;M5, 2025&rpar; review: amazing performance, hardware remains unbeaten, and iPadOS is getting more Mac-like, but still too pricey for a secondary computer &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/251021/p18#a251021p18)
+ - [Oakley Meta Vanguard Review: The Do-It-All Smart Glasses](https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

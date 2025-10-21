@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT Atlas will feature an agent mode to let ChatGPT take actions; clicking a search link will show a split-screen with the webpage and a ChatGPT transcript &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251021/p33#a251021p33)
- - [Apple MacBook Pro 14 &lpar;M5&rpar; review: feels the same as M4 with a speed upgrade and still good value for money with great battery life, but only a modest update &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251021/p32#a251021p32)
- - [The Long History of Frogs as Protest Symbols](https://www.wired.com/story/the-long-history-of-frogs-as-protest-symbols/)
- - [OpenAI’s AI-powered browser, ChatGPT Atlas, is here](https://www.theverge.com/ai-artificial-intelligence/803475/openais-ai-powered-browser-chatgpt-atlas-google-chrome-competition-agent)
- - [OpenAI launches its ChatGPT Atlas web browser, available initially for macOS, and &quot;coming soon&quot; to Windows, iOS, and Android &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251021/p31#a251021p31)<!-- TECH:END -->
+ - [Hallmark’s glowing Xbox 360 ornament plays the Halo theme](https://www.theverge.com/news/803728/hallmark-keepsake-ornament-microsoft-xbox-360-console-halo-3-theme)
+ - [TikTok quietly changed its policies to make it easier to share user data with government and regulatory authorities, and weakened promises to inform users &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/251021/p36#a251021p36)
+ - [Apple Vision Pro M5 review roundup: faster, comfier, still not for everyone](https://appleinsider.com/articles/25/10/21/apple-vision-pro-m5-review-roundup-faster-comfier-still-not-for-everyone?utm_source=rss)
+ - [Google Fi plans an AI call quality feature to filter out background sounds like wind next month, and will bring full RCS support on the web in December &lpar;Ryan Whitwam/Ars Technica&rpar;](http://www.techmeme.com/251021/p35#a251021p35)
+ - [I see your Haribo gummy bear battery and raise you a Pocket Rocket instead](https://www.theverge.com/tech/803021/haribo-gummy-bear-battery-nitecore-iniu-pocket-rocket)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

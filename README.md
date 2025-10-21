@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Findem, an AI-powered talent acquisition startup, raised $51M in equity and debt, including a $36M Series C led by SLW, taking its total funding to $105M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251021/p49#a251021p49)
  - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
  - [Sources: Anthropic is in discussions with Google about a deal that would provide Anthropic with computing power valued in the high tens of billions of dollars &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p48#a251021p48)
  - [Filing: Satya Nadella&#39;s total pay for fiscal 2025 rose nearly 22% YoY from $79.1M to $96.5M, including $84.2M in stock awards; MSFT is up ~23% so far in 2025 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251021/p47#a251021p47)
- - [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)
- - [Beats Solo 4 and Solo Buds both gain Walmart-exclusive color options](https://appleinsider.com/articles/25/10/21/beats-solo-4-and-solo-buds-both-gain-walmart-exclusive-color-options?utm_source=rss)<!-- TECH:END -->
+ - [How Apple’s walled garden protects ICE](https://www.theverge.com/column/803693/ice-epic-games-apple-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

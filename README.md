@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A knight to remember](http://9gag.com/gag/amoKNA2)
- - 😝 [No agenda](http://9gag.com/gag/a2v9z7O)
- - 💣 [*Casually steals your Job*](http://9gag.com/gag/a2v9EQ9)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [If one thing is sure, she forgot it immediately, and our boy has never heard about his behaviour in that particular moment again](http://9gag.com/gag/avyXbVq)
+ - 💣 [Be aware in public guys](http://9gag.com/gag/an78qdz)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Billyraycyrus sang this intro](http://9gag.com/gag/aAyqRXd)<!-- MEMES:END -->
+ - 👉 [Life is unfair](http://9gag.com/gag/a0ez87X)<!-- MEMES:END -->
 
 ---
 

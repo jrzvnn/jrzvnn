@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
  - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
  - 💣 [Legend](http://9gag.com/gag/aqyB95L)
  - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 

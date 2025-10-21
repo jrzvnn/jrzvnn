@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether, the world&#39;s largest issuer of stablecoins, says it has hit 500M users; the supply of USDT nears ~$182B while Circle&#39;s USDC has ~$75B in circulation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251021/p23#a251021p23)
- - [Ricoh is making a dedicated black and white camera](https://www.theverge.com/news/803328/ricoh-gr-iv-monochrome-black-and-white-camera)
- - [ChipAgents, which is developing an agentic AI platform to automate chip design and verification, raised a $21M Series A led by Bessemer &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251021/p22#a251021p22)
- - [Warner Bros. Discovery is ready for a sale](https://www.theverge.com/entertainment/803380/warner-bros-discovery-wbd-sale)
- - [M5 iPad Pro review roundup: The best tablet gets better](https://appleinsider.com/articles/25/10/21/m5-ipad-pro-review-roundup-the-best-tablet-gets-better?utm_source=rss)<!-- TECH:END -->
+ - [GM to end production of electric Chevy Brightdrop vans](https://www.theverge.com/news/803385/gm-chevy-brightdrop-ev-end-production-van-canada)
+ - [Inside the Trump Adminstration&#39;s Bluesky Invasion](https://www.wired.com/story/inside-trump-administration-bluesky-invasion/)
+ - [HBO Max is raising prices for the third year in a row](https://www.theverge.com/news/803431/hbo-max-streaming-price-increasing-bundle)
+ - [Boox’s new smartphone-sized, color e-reader is coming to the US](https://www.theverge.com/news/803432/onyx-boox-palma-2-pro-smartphone-color-e-ink-5g-android-stylus)
+ - [Tether, the world&#39;s largest issuer of stablecoins, says it has hit 500M users; the supply of USDT nears ~$182B while Circle&#39;s USDC has ~$75B in circulation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251021/p23#a251021p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

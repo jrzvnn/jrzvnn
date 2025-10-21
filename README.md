@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM to end production of electric Chevy Brightdrop vans](https://www.theverge.com/news/803385/gm-chevy-brightdrop-ev-end-production-van-canada)
- - [Inside the Trump Adminstration&#39;s Bluesky Invasion](https://www.wired.com/story/inside-trump-administration-bluesky-invasion/)
- - [HBO Max is raising prices for the third year in a row](https://www.theverge.com/news/803431/hbo-max-streaming-price-increasing-bundle)
- - [Boox’s new smartphone-sized, color e-reader is coming to the US](https://www.theverge.com/news/803432/onyx-boox-palma-2-pro-smartphone-color-e-ink-5g-android-stylus)
- - [Tether, the world&#39;s largest issuer of stablecoins, says it has hit 500M users; the supply of USDT nears ~$182B while Circle&#39;s USDC has ~$75B in circulation &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251021/p23#a251021p23)<!-- TECH:END -->
+ - [The AWS Outage Was a Nightmare for College Students](https://www.wired.com/story/the-aws-outage-was-a-nightmare-for-college-students/)
+ - [It looks like OpenAI is about to announce its AI web browser](https://www.theverge.com/news/803481/openai-web-browser-ai-announcement-teaser)
+ - [Dario Amodei addresses &quot;inaccurate claims&quot; about Anthropic&#39;s policy stances after David Sacks said the &quot;real issue&quot; is &quot;Anthropic&#39;s agenda to backdoor Woke AI&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251021/p25#a251021p25)
+ - [Beloved Apple TV comedy &#39;Shrinking&#39; gets a season 3 premiere date](https://appleinsider.com/articles/25/10/21/beloved-apple-tv-comedy-shrinking-gets-a-season-3-premiere-date?utm_source=rss)
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

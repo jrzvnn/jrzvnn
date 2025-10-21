@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
- - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 💣 [Legend](http://9gag.com/gag/aqyB95L)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Post Something](http://9gag.com/gag/aYQZj6O)<!-- MEMES:END -->
+ - 👉 [This was before modern corporations, what were they called then?](http://9gag.com/gag/a4Pm4bw)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Easter Island&#39;s Moai Statues May Have Walked to Where They Now Stand](https://www.wired.com/story/easter-islands-moai-statues-may-have-walked-to-where-they-now-stand/)
  - [Nexos.ai, which helps companies adopt AI tools by acting as a middleman between employees and AI systems, raised a €30M Series A co-led by Index and Evantic &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251021/p3#a251021p3)
  - [Analysis: agencies have hired hundreds of thousands of &quot;chatters&quot; to impersonate 4M+ OnlyFans creators, as many Filipino chatters struggle with mental health &lpar;Michael Beltran/Nikkei Asia&rpar;](http://www.techmeme.com/251021/p2#a251021p2)
  - [Some Japanese stores are using robots from the startup Telexistence to restock shelves, piloted remotely by Filipino workers whose actions train AI models &lpar;Michael Beltran/Rest of World&rpar;](http://www.techmeme.com/251021/p1#a251021p1)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-21/#ftag=CAD590a51e)
- - [How to share files from macOS Tahoe to Windows](https://appleinsider.com/inside/macos-tahoe/tips/how-to-share-files-from-macos-tahoe-to-windows?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-21/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
  - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 💣 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
  - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---

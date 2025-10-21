@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches new features for its Google AI Studio developer platform, including a revamped &quot;Build&quot; tab to vibe code AI apps &lpar;Alexey Shabanov/TestingCatalog&rpar;](http://www.techmeme.com/251021/p38#a251021p38)
- - [M5 MacBook Pro review roundup: Higher performance, static design](https://appleinsider.com/articles/25/10/21/m5-macbook-pro-review-roundup-higher-performance-static-design?utm_source=rss)
- - [Sources: Apple&#39;s foldable iPad with an 18&quot; screen faces engineering challenges tied to weight, features, and display tech, pushing its debut to 2029 or later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251021/p37#a251021p37)
- - [Sperm From Older Men Have More Genetic Mutations](https://www.wired.com/story/sperm-from-older-men-have-more-genetic-mutations/)
- - [Hallmark’s glowing Xbox 360 ornament plays the Halo theme](https://www.theverge.com/news/803728/hallmark-keepsake-ornament-microsoft-xbox-360-console-halo-3-theme)<!-- TECH:END -->
+ - [First impressions of ChatGPT Atlas, as browser agents remain confusing, with insurmountable security and privacy risks including prompt injection attacks &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251021/p40#a251021p40)
+ - [Jon Prosser says he’s been in ‘active communication’ with Apple over lawsuit](https://www.theverge.com/news/803754/apple-jon-prosser-trade-secrets-lawsuit-responds-default)
+ - [OpenAI&#39;s Atlas Browser Takes Direct Aim at Google Chrome](https://www.wired.com/story/openai-atlas-browser-chrome-agents-web-browsing/)
+ - [OpenAI says ChatGPT Atlas&#39; opt-in browser memories feature can remember key details from users&#39; web browsing to improve chat responses and offer suggestions &lpar;OpenAI&rpar;](http://www.techmeme.com/251021/p39#a251021p39)
+ - [The 39 Best Shows on Apple TV Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

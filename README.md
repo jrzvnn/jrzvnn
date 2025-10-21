@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lagos-founded payments startup Moniepoint raised $90M at a $1B+ valuation, after raising $110M in October 2024, and says it processes $250B+ yearly transactions &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p8#a251021p8)
+ - [17 Best Couches We’ve Tested That You Can Buy Online &lpar;2025&rpar;](https://www.wired.com/gallery/best-couch/)
  - [Internal Amazon documents and sources: executives believe Amazon is on the cusp of replacing 500K+ jobs with robots and aims to automate 75% of its operations &lpar;New York Times&rpar;](http://www.techmeme.com/251021/p7#a251021p7)
  - [Coinbase agrees to acquire Echo, a blockchain platform to let crypto companies quickly raise capital, for ~$375M, marking Coinbase&#39;s 8th acquisition in 2025 &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251021/p6#a251021p6)
- - [Bread Delivery Service Wildgrain Is $40 Off Right Now](https://www.wired.com/story/wildgrain-promo-code-2025/)
- - [A South Korean court dismisses a K-pop-related stock manipulation case against Kakao founder Brian Kim; prosecutors had sought a 15-year prison sentence &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p5#a251021p5)
- - [Sources: Chinese DRAM chipmaker CXMT plans a Shanghai IPO as soon as Q1 2026, targeting an up to ~$42B valuation and aiming to raise between ~$2.8B and ~$5.6B &lpar;Reuters&rpar;](http://www.techmeme.com/251021/p4#a251021p4)<!-- TECH:END -->
+ - [Bread Delivery Service Wildgrain Is $40 Off Right Now](https://www.wired.com/story/wildgrain-promo-code-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

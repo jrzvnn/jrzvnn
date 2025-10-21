@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [13 families and 8 billion people](http://9gag.com/gag/a0eWmBq)
- - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [Crypto bro learned the value of an NDA](http://9gag.com/gag/aLnV6Vx)
  - 😝 [It&#39;s Trick or Tank this Halloween in World of Tanks Blitz \ud83c\udf83](http://9gag.com/gag/aRB9wKy)
- - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
+ - 👉 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)<!-- MEMES:END -->
 
 ---
 

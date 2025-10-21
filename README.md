@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix reports Q3 revenue up 17% YoY to $11.51B, matching est., operating margin below est. due to Brazilian tax dispute expense; NFLX drops 5%+ after hours &lpar;Sarah Whitten/CNBC&rpar;](http://www.techmeme.com/251021/p41#a251021p41)
+ - [This Smart Warming Mug Is Marked Down by $60](https://www.wired.com/story/ember-travel-mug-deal-1025/)
  - [Folding iPad release may have been delayed until 2029](https://appleinsider.com/articles/25/10/21/folding-ipad-release-may-have-been-delayed-until-2029?utm_source=rss)
  - [Anker’s latest noise-canceling sleep earbuds are nearly $40 off](https://www.theverge.com/tech/803737/anker-soundcore-sleep-a30-earbuds-8bitdo-arcade-controller-deal-sale)
- - [Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims](https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/)
- - [Here’s how Google is choosing 15 fans to test the next Pixel](https://www.theverge.com/report/803702/google-pixel-superfan-contest-rules)
- - [First impressions of ChatGPT Atlas, as browser agents remain confusing, with insurmountable security and privacy risks including prompt injection attacks &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251021/p40#a251021p40)<!-- TECH:END -->
+ - [Melania Trump Used as ‘Window-Dressing’ in Elaborate Memecoin Fraud, Legal Filing Claims](https://www.wired.com/story/melania-trump-used-as-window-dressing-in-elaborate-memecoin-fraud-legal-filing-claims/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

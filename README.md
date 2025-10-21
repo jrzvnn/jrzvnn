@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 

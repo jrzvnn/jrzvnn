@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 drives Apple stock to new all-time high](https://appleinsider.com/articles/25/10/20/apple-stock-reaches-new-all-time-high-price-and-still-climbing?utm_source=rss)
+ - [Apple challenges the DMA in the EU&#39;s General Court, saying it &quot;imposes hugely onerous and intrusive burdens&quot; at odds with Apple&#39;s rights in the EU marketplace &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251021/p11#a251021p11)
+ - [iPhone 17 demand will push Apple&#39;s Q4 past Wall Street expectations](https://appleinsider.com/articles/25/10/21/iphone-17-demand-will-push-apples-q4-past-wall-street-expectations?utm_source=rss)
  - [Amazon hopes to replace 600,000 US workers with robots, according to leaked documents](https://www.theverge.com/news/803257/amazon-robotics-automation-replace-600000-human-jobs)
- - [Anrok, which helps software companies automate sales tax compliance, raised a $55M Series C at a $525M valuation, up from $250M after raising $30M in April 2024 &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/251021/p10#a251021p10)
- - [Luminkey Magger68 Plus HE Review: Mechanical Heart](https://www.wired.com/review/luminkey-magger68-plus-he/)
- - [Yelp’s AI can now take reservations over the phone](https://www.theverge.com/news/802529/yelp-ai-host-receptionist)
- - [A look at Amazon&#39;s Sparrow, Cardinal, Proteus, and other warehouse robots, taking over roles like selecting and picking items, carrying shipping carts, and more &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/251021/p9#a251021p9)<!-- TECH:END -->
+ - [Anrok, which helps software companies automate sales tax compliance, raised a $55M Series C at a $525M valuation, up from $250M after raising $30M in April 2024 &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/251021/p10#a251021p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

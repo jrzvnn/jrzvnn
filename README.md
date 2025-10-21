@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insight Partners-owned Veeam agrees to acquire Securiti AI, which makes data security tools, for ~$1.73B in cash and stock, set to close first week of December &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251021/p13#a251021p13)
- - [32 Best Gifts for Teens &lpar;2025&rpar;, Tested by Us and Our Kids](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [CoreWeave says it won&#39;t increase its $9B offer for data center provider Core Scientific, despite opposition to the deal from major Core Scientific shareholders &lpar;Bloomberg&rpar;](http://www.techmeme.com/251021/p12#a251021p12)
- - [iPhone 17 drives Apple stock to new all-time high](https://appleinsider.com/articles/25/10/20/apple-stock-reaches-new-all-time-high-price-and-still-climbing?utm_source=rss)
- - [Apple challenges the DMA in the EU&#39;s General Court, saying it &quot;imposes hugely onerous and intrusive burdens&quot; at odds with Apple&#39;s rights in the EU marketplace &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251021/p11#a251021p11)<!-- TECH:END -->
+ - [Oakley Meta Vanguard Review: The Do-It-All Smart Glasses](https://www.wired.com/review/oakley-meta-vanguard-smart-glasses/)
+ - [Apple iPad Pro &lpar;M5, 2025&rpar; Review: Tremendously Powerful](https://www.wired.com/review/apple-ipad-pro-m5-2025/)
+ - [These Oakley smart glasses are perfect for weekend warriors and T-ball coaches](https://www.theverge.com/tech/802020/oakley-meta-vanguard-review-smart-glasses-garmin-strava)
+ - [Wyze’s new solar-powered pan-and-tilt security camera is less than $80](https://www.theverge.com/news/802704/wyze-solar-cam-pan-tilt-2k-security-camera)
+ - [Apple iPad Pro &lpar;2025&rpar; review: fast, faster, fastest](https://www.theverge.com/tech/803105/apple-ipad-pro-2025-review-fast-faster-fastest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

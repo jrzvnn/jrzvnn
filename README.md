@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It ain&#39;t me](http://9gag.com/gag/aGy6wpG)
- - 😝 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)
- - 💣 [THICC](http://9gag.com/gag/avy40wd)
+ - 😝 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
+ - 😝 [Mad Honey](http://9gag.com/gag/azxoL0K)
+ - 💣 [China ?](http://9gag.com/gag/an78X5B)
  - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 👉 [Hmmmm..](http://9gag.com/gag/aMVDrEA)<!-- MEMES:END -->
+ - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 
 ---
 

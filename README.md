@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reddit sues Perplexity for allegedly ripping its content to feed AI](https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit)
- - [Reddit files a lawsuit against Perplexity, SerpApi, and two other data scraping companies, accusing them of unlawfully scraping Google for Reddit data &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251022/p33#a251022p33)
- - [Also TM-B Ebike: Specs, Release Date, Price, and Features](https://www.wired.com/story/rivian-also-tm-b-modular-repairable-electric-bike/)
- - [Rivian’s first e-bike is unlike anything you’ve ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
- - [Inside Rivian’s $4,500 electric bike gamble](https://www.theverge.com/transportation/804163/rivian-also-tm-b-ebike-specs-price)<!-- TECH:END -->
+ - [Deep production cutbacks again rumored to hit iPhone Air supply chain](https://appleinsider.com/articles/25/10/22/deep-production-cutbacks-again-rumored-to-hit-iphone-air-supply-chain?utm_source=rss)
+ - [Our Favorite High Resolution Mirrorless Camera Is $900 Off Right Now](https://www.wired.com/story/sony-a7rv-deal-2025/)
+ - [TikTok pushes merchants to use a new ad-buying tool that promotes videos linking to TikTok Shop rather than merchants&#39; own sites, frustrating some merchants &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/251022/p35#a251022p35)
+ - [JBL’s Rad Clip-On Bluetooth Speaker Is $20 Off](https://www.wired.com/story/jbl-clip-5-deal-1025/)
+ - [Apple removes controversial dating safety apps Tea and TeaOnHer from the App Store for failing to meet requirements around content moderation and user privacy &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p34#a251022p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

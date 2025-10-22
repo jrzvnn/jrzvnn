@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eight Sleep adds ‘outage mode’ to smart beds after AWS problems left them frozen](https://www.theverge.com/news/804289/eight-sleep-smart-bed-aws-outage-overheating-offline)
+ - [GM plans to roll out Google Gemini in its vehicles starting in 2026 and plans an advanced driver-assistance system with eyes-off driving capabilities in 2028 &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/251022/p29#a251022p29)
  - [Are We on a Path to Civil War, or Something Else?](https://www.wired.com/story/path-to-civil-war/)
  - [General Motors’ ‘Eyes-Off’ System Begs the Question: What Happens When Cars Go AI?](https://www.wired.com/story/cadillac-escalade-eyes-off-driving/)
- - [GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028](https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous)
- - [Why GM will give you Gemini — but not CarPlay](https://www.theverge.com/podcast/803379/gm-ceo-mary-barra-sterling-anderson-cadillac-iq-ev-autonomy-interview)
- - [The Plants vs. Zombies remaster is a sad reminder of what could have been](https://www.theverge.com/games/803795/plants-vs-zombies-replanted-remaster-switch-pc-ps5-xbox)<!-- TECH:END -->
+ - [GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028](https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

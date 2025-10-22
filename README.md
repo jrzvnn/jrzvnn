@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kuo joins iPhone Air supply chain cutback claim chorus](https://appleinsider.com/articles/25/10/22/kuo-joins-iphone-air-supply-chain-cutback-claim-chorus?utm_source=rss)
  - [Sources: Kalshi is receiving funding offers from VC investors at $10B-$12B or higher valuations, just weeks after it announced a $300M round at a $5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p36#a251022p36)
  - [The PlayStation 5 is $125 off straight from Sony](https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale)
  - [Deep production cutbacks again rumored to hit iPhone Air supply chain](https://appleinsider.com/articles/25/10/22/deep-production-cutbacks-again-rumored-to-hit-iphone-air-supply-chain?utm_source=rss)
- - [Our Favorite High Resolution Mirrorless Camera Is $900 Off Right Now](https://www.wired.com/story/sony-a7rv-deal-2025/)
- - [TikTok pushes merchants to use a new ad-buying tool that promotes videos linking to TikTok Shop rather than merchants&#39; own sites, frustrating some merchants &lpar;Ann Gehan/The Information&rpar;](http://www.techmeme.com/251022/p35#a251022p35)<!-- TECH:END -->
+ - [Our Favorite High Resolution Mirrorless Camera Is $900 Off Right Now](https://www.wired.com/story/sony-a7rv-deal-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

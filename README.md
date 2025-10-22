@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EBU/BBC study: 45% of responses from top AI assistants misrepresented news content with at least one significant issue and 31% showed serious sourcing problems &lpar;Olivia Le Poidevin/Reuters&rpar;](http://www.techmeme.com/251022/p11#a251022p11)
  - [Electricity demand from data centers powering the AI boom has caused a gas turbine supply crunch, as the US becomes the epicenter of new gas-fired power plants &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p10#a251022p10)
  - [Keycard, which lets enterprises manage AI agent access to internal systems, raised a $30M Series A led by Acrew Capital and a $8M seed led by a16z and boldstart &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251022/p9#a251022p9)
  - [Non-profit Cyber Monitoring Centre estimates that the Jaguar Land Rover cyberattack cost the UK economy at least £1.9B and affected over 5,000 UK organizations &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p8#a251022p8)
- - [Sources: Fal.ai, which hosts multimodal AI models for developers, raised ~$250M at a $4B+ valuation, less than three months after announcing a $125M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251022/p7#a251022p7)
- - [Hyro, whose AI agents let US health care organizations automate tasks like scheduling and prescription renewals, raised $45M, taking its total funding to $95M &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/251022/p6#a251022p6)<!-- TECH:END -->
+ - [Sources: Fal.ai, which hosts multimodal AI models for developers, raised ~$250M at a $4B+ valuation, less than three months after announcing a $125M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251022/p7#a251022p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

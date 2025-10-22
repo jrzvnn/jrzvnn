@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He&#39;s Building](https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/)
+ - [The UK FCA sues Justin Sun-linked crypto exchange HTX in London&#39;s High Court for alleged illegal promotion of &quot;cryptoasset services&quot; to UK consumers &lpar;Lucca De Paoli/Bloomberg&rpar;](http://www.techmeme.com/251022/p44#a251022p44)
+ - [Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building](https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 23, #865](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-865/#ftag=CAD590a51e)
  - [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk)
- - [First Partner to the Stars: Muon Space Adopts Starlink Lasers for Millisecond Data Transfer](https://www.cnet.com/science/space/first-partner-to-the-stars-muon-space-adopts-starlink-lasers-for-millisecond-data-transfer/#ftag=CAD590a51e)
- - [Amazon is testing AR glasses for delivery drivers, using AI and computer vision to help them scan packages, follow walking directions, and get proof of delivery &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251022/p43#a251022p43)<!-- TECH:END -->
+ - [First Partner to the Stars: Muon Space Adopts Starlink Lasers for Millisecond Data Transfer](https://www.cnet.com/science/space/first-partner-to-the-stars-muon-space-adopts-starlink-lasers-for-millisecond-data-transfer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

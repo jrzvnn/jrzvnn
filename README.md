@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 23, #865](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-865/#ftag=CAD590a51e)
+ - [First Partner to the Stars: Muon Space Adopts Starlink Lasers for Millisecond Data Transfer](https://www.cnet.com/science/space/first-partner-to-the-stars-muon-space-adopts-starlink-lasers-for-millisecond-data-transfer/#ftag=CAD590a51e)
  - [Amazon is testing AR glasses for delivery drivers, using AI and computer vision to help them scan packages, follow walking directions, and get proof of delivery &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251022/p43#a251022p43)
- - [Here are Amazon’s smart delivery glasses that guide drivers and scan packages](https://www.theverge.com/news/804962/amazon-reveals-smart-delivery-glasses-that-guide-drivers-and-scan-packages)
- - [Wikipedia Says It&#39;s Losing Traffic Due to AI Summaries, Social Media Videos](https://www.cnet.com/tech/services-and-software/wikipedia-says-its-losing-traffic-due-to-ai-summaries-social-media-videos/#ftag=CAD590a51e)
- - [Q&amp;A with GM CEO Mary Barra and CPO Sterling Anderson on GM&#39;s plans for AI and autonomous driving, ditching Apple CarPlay and Android Auto on all its cars, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251022/p42#a251022p42)<!-- TECH:END -->
+ - [Owners of Luxury Smart Beds Literally Lost Sleep Due to AWS Outage](https://www.cnet.com/health/sleep/owners-of-luxury-smart-beds-literally-lost-sleep-due-to-aws-outage/#ftag=CAD590a51e)
+ - [Netflix&#39;s Use of Gen AI in Happy Gilmore 2 Is a Taste of What&#39;s to Come](https://www.cnet.com/tech/services-and-software/netflixs-use-of-gen-ai-in-happy-gilmore-2-is-a-taste-of-whats-to-come/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

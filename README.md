@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 💣 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
- - 😝 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 😝 [Blitzkrieg](http://9gag.com/gag/a4Pm90d)
+ - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK unsurprisingly copies Europe, says Apple should be regulated](https://appleinsider.com/articles/25/10/22/uk-unsurprisingly-copies-europe-says-apple-should-be-regulated?utm_source=rss)
+ - [Google says its Willow quantum chip using a new Quantum Echoes algorithm ran computations 13,000x faster than supercomputers, aiding drug and materials research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251022/p30#a251022p30)
  - [New trailer just adds more mystery to Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/10/22/new-trailer-just-adds-more-mystery-to-vince-gilligans-pluribus?utm_source=rss)
  - [Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom](https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates)
- - [The 6 Best Essential Oil Diffusers We’ve Tried &lpar;and 2 to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
- - [Eight Sleep adds ‘outage mode’ to smart beds after AWS problems left them frozen](https://www.theverge.com/news/804289/eight-sleep-smart-bed-aws-outage-overheating-offline)
- - [GM plans to roll out Google Gemini in its vehicles starting in 2026 and plans an advanced driver-assistance system with eyes-off driving capabilities in 2028 &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/251022/p29#a251022p29)<!-- TECH:END -->
+ - [The 6 Best Essential Oil Diffusers We’ve Tried &lpar;and 2 to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

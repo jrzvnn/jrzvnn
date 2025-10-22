@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max now lets you rate shows and movies](https://www.theverge.com/news/804839/hbo-max-ratings-system-recommendations)
- - [IBM reports Q3 revenue up 9% YoY to $16.3B, above $16.1B est., and Hybrid Cloud &lpar;Red Hat&rpar; revenue up 14%, below 16% est.; IBM drops 5%+ after hours &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251022/p40#a251022p40)
- - [No, ICE &lpar;Probably&rpar; Didn’t Buy Guided Missile Warheads](https://www.wired.com/story/no-ice-probably-didnt-buy-guided-missile-warheads/)
- - [A teen&#39;s parents allege OpenAI loosened ChatGPT&#39;s suicide-talk rules to boost engagement before their son died by suicide using a method discussed with ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251022/p39#a251022p39)
- - [GM ridiculously thinks that not offering CarPlay in future cars is &#39;Jobsian&#39;](https://appleinsider.com/articles/25/10/22/gm-ridiculously-thinks-that-not-offering-carplay-in-future-cars-is-jobsian?utm_source=rss)<!-- TECH:END -->
+ - [Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes](https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery)
+ - [SAP reports Q3 revenue up 7% YoY to €9.08B, cloud revenue up 22% to €5.29B, below €5.33B est., and current cloud backlog up 23% to €18.84B &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251022/p41#a251022p41)
+ - [Criterion’s entire stock of Blu-rays are half off for a very limited time](https://www.theverge.com/tech/804849/criterions-entire-stock-of-blu-rays-are-half-off-for-a-very-limited-time)
+ - [Tinder Launches Mandatory Facial Verification to Weed Out Bots and Scammers](https://www.wired.com/story/tinder-launches-mandatory-facial-verification-to-weed-out-bots-and-scammers/)
+ - [HBO Max now lets you rate shows and movies](https://www.theverge.com/news/804839/hbo-max-ratings-system-recommendations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

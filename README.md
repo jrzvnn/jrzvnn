@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 18 A20 chip will cost TSMC a lot more to make](https://appleinsider.com/articles/25/10/22/iphone-18-a20-chip-will-cost-tsmc-a-lot-more-to-make?utm_source=rss)
  - [The NHL reaches multiyear licensing agreements with prediction market startups Kalshi and Polymarket, the first major US league to allow use of its trademarks &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p22#a251022p22)
  - [New Apple Vision Pro developer strap moves data 40x faster than before](https://appleinsider.com/articles/25/10/22/new-apple-vision-pro-developer-strap-moves-data-40x-faster-than-before?utm_source=rss)
  - [Best Kitchen Composters and Food Recyclers &lpar;2025&rpar;](https://www.wired.com/story/home-composters-buying-guide/)
- - [Shenzhen-based humanoid robot maker Leju Robotics raised $200M+ led by Citic Goldstone and Shenzhen Investment Holdings ahead of a planned IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p21#a251022p21)
- - [Crypto trading firm FalconX agrees to acquire 21shares, one of the main crypto ETF managers, for an undisclosed sum; 21shares had $11B+ in assets in September &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p20#a251022p20)<!-- TECH:END -->
+ - [Shenzhen-based humanoid robot maker Leju Robotics raised $200M+ led by Citic Goldstone and Shenzhen Investment Holdings ahead of a planned IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p21#a251022p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

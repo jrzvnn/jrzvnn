@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&amp;#8217;s reportedly pulling back on iPhone Air production](https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop)
- - [Tinder plans to expand its facial verification feature to all new US users in the coming months, following its rollout in seven countries and in California &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251022/p38#a251022p38)
- - [The weather disaster database that Trump killed has a new home](https://www.theverge.com/news/804714/data-billion-dollar-weather-disaster-revived)
- - [Pitchfork is beta testing user reviews and comments as it approaches 30](https://www.theverge.com/news/804749/pitchfork-is-beta-testing-user-reviews-and-comments-as-it-approaches-30)
- - [No Tea party: Apple pulls women&#39;s dating safety app over privacy concerns](https://appleinsider.com/articles/25/10/22/no-tea-party-apple-pulls-womens-dating-safety-app-over-privacy-concerns?utm_source=rss)<!-- TECH:END -->
+ - [A teen&#39;s parents allege OpenAI loosened ChatGPT&#39;s suicide-talk rules to boost engagement before their son died by suicide using a method discussed with ChatGPT &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251022/p39#a251022p39)
+ - [GM ridiculously thinks that not offering CarPlay in future cars is &#39;Jobsian&#39;](https://appleinsider.com/articles/25/10/22/gm-ridiculously-thinks-that-not-offering-carplay-in-future-cars-is-jobsian?utm_source=rss)
+ - [Tesla’s revenues rebound as consumers race to claim expiring tax credit](https://www.theverge.com/news/803886/tesla-q3-2025-earnings-revenue-profit-ev-elon-musk)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Apple&amp;#8217;s reportedly pulling back on iPhone Air production](https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

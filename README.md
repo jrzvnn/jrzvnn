@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 💣 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)
- - 😝 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)
- - 👉 [I would like to...](http://9gag.com/gag/a87QLN3)<!-- MEMES:END -->
+ - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 😝 [Mad Honey](http://9gag.com/gag/azxoL0K)
+ - 👉 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [College students reactions to OJ being found not guilty.](http://9gag.com/gag/aE0ywNx)
+ - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
  - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - 😝 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
  - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 ---

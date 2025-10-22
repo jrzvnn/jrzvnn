@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Non-profit Cyber Monitoring Centre estimates that the Jaguar Land Rover cyberattack cost the UK economy at least £1.9B and affected over 5,000 UK organizations &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p8#a251022p8)
+ - [Sources: Fal.ai, which hosts multimodal AI models for developers, raised ~$250M at a $4B+ valuation, less than three months after announcing a $125M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251022/p7#a251022p7)
+ - [Hyro, whose AI agents let US health care organizations automate tasks like scheduling and prescription renewals, raised $45M, taking its total funding to $95M &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/251022/p6#a251022p6)
  - [Sesame, which is developing an AI agent with a natural-sounding human voice and smart glasses, raised a $250M Series B and opens an early beta of its iOS app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p5#a251022p5)
- - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)
- - [A UN pact to fight cybercrime is set to be signed by dozens of countries in Hanoi; tech companies and activists warn the pact may criminalize ethical hacking &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251022/p3#a251022p3)
- - [OnePlus Promo Code: $100 Off  | October 2025 | WIRED](https://www.wired.com/story/oneplus-promo-code/)
- - [Lenovo Coupon Codes and Deals: $5,000 Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

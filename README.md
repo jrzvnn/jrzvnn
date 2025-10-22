@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
  - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - 💣 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
- - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
+ - 💣 [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
+ - 😝 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
  - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---

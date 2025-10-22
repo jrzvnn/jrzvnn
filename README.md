@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polymarket and Kalshi surpassed $2B in notional trading volume in the week ending Oct. 19, exceeding the previous peak during the 2024 US presidential election &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251021/p50#a251021p50)
- - [Netflix is &amp;#8216;judiciously&amp;#8217; expanding into interactive experiences](https://www.theverge.com/news/803097/netflix-games-interactive-experiences-real-time-voting-q3-2025-earnings)
- - [Findem, an AI-powered talent acquisition startup, raised $51M in equity and debt, including a $36M Series C led by SLW, taking its total funding to $105M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251021/p49#a251021p49)
- - [The iPhone 17’s selfie camera is to blame for delayed Project Indigo support](https://www.theverge.com/tech/803712/adobe-project-indigo-camera-app-iphone-17-support)
- - [Dare to Watch These 13 Great Horror Movies on Prime Video](https://www.cnet.com/tech/services-and-software/dare-to-watch-these-13-great-horror-movies-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [In an experiment, ChatGPT-4o, Claude Sonnet 4.5, and DeepSeek-V3.2-Exp expressed secular, Western liberal values regardless of the language of the questions &lpar;Kelsey Piper/The Argument&rpar;](http://www.techmeme.com/251021/p51#a251021p51)
+ - [Nomad Stratos Band review: Titanium &amp; FKM is a winning combo for Apple Watch](https://appleinsider.com/articles/25/10/22/nomad-stratos-band-review-titanium-fkm-is-a-winning-combo-for-apple-watch?utm_source=rss)
+ - [OpenAI rolls out ChatGPT Atlas browser with built-in AI tools](https://appleinsider.com/articles/25/10/22/openai-rolls-out-chatgpt-atlas-browser-with-built-in-ai-tools?utm_source=rss)
+ - [Apple returns to court to challenge App Store contempt ruling](https://appleinsider.com/articles/25/10/22/apple-returns-to-court-to-challenge-app-store-contempt-ruling?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

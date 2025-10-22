@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Turn out they have teeth like hell](http://9gag.com/gag/an78epo)
  - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - 💣 [Harmless pranks are the best kind \ud83d\ude02](http://9gag.com/gag/ayNZ7wr)
- - 😝 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 💣 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
+ - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 

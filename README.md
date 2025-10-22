@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese chipmaker YMTC considers an IPO in China at an up to ~$40B valuation as soon as 2026, in what could be one of China&#39;s biggest IPOs in years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p15#a251022p15)
+ - [Researchers detail systemic vulnerabilities in AI agentic browsers, including Perplexity&#39;s Comet and Fellou, related to indirect prompt injection attacks &lpar;Brave&rpar;](http://www.techmeme.com/251022/p14#a251022p14)
  - [Apple&#39;s Vision Pro with the M5 chip is assembled in Vietnam, according to labels on its packaging; the M2-based model, launched in 2024, was built in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p13#a251022p13)
  - [Baidu and Swiss Post&#39;s PostBus plan to launch Baidu&#39;s Apollo Go autonomous vehicle service in Switzerland, testing in December ahead of rollout by Q1 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p12#a251022p12)
- - [NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon](https://www.wired.com/story/nasas-boss-just-shook-up-the-agencys-plans-to-land-on-the-moon/)
- - [Collagen Has Anti-Aging Properties. Here&#39;s Why You Need to Add it to Your Diet](https://www.cnet.com/health/nutrition/collagen-has-anti-aging-properties-add-to-your-diet/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 22, #1586](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-22-1586/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon](https://www.wired.com/story/nasas-boss-just-shook-up-the-agencys-plans-to-land-on-the-moon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

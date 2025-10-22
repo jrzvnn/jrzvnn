@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 💣 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)
- - 😝 [My spirit animal](http://9gag.com/gag/ary943d)
- - 👉 [Mad Honey](http://9gag.com/gag/azxoL0K)<!-- MEMES:END -->
+ - 😝 [It ain&#39;t me](http://9gag.com/gag/aGy6wpG)
+ - 😝 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)
+ - 💣 [THICC](http://9gag.com/gag/avy40wd)
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 👉 [Hmmmm..](http://9gag.com/gag/aMVDrEA)<!-- MEMES:END -->
 
 ---
 

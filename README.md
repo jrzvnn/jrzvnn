@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Apple Vision Pro developer strap moves data 40x faster than before](https://appleinsider.com/articles/25/10/22/new-apple-vision-pro-developer-strap-moves-data-40x-faster-than-before?utm_source=rss)
+ - [Best Kitchen Composters and Food Recyclers &lpar;2025&rpar;](https://www.wired.com/story/home-composters-buying-guide/)
  - [Shenzhen-based humanoid robot maker Leju Robotics raised $200M+ led by Citic Goldstone and Shenzhen Investment Holdings ahead of a planned IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p21#a251022p21)
  - [Crypto trading firm FalconX agrees to acquire 21shares, one of the main crypto ETF managers, for an undisclosed sum; 21shares had $11B+ in assets in September &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p20#a251022p20)
- - [Phonak Virto R Infinio Review: Prescription Hearing Aids With Great Fit](https://www.wired.com/review/phonak-virto-r-infinio/)
- - [Uber will pay drivers $4,000 to switch to EVs](https://www.theverge.com/news/802983/uber-electric-ev-driver-4000-grant-price)
- - [Sources: Apple cuts iPhone Air orders nearly to &quot;end of production&quot; levels after a lukewarm reception in China, but keeps iPhone 17 lineup forecasts at 85M-90M &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251022/p19#a251022p19)<!-- TECH:END -->
+ - [Phonak Virto R Infinio Review: Prescription Hearing Aids With Great Fit](https://www.wired.com/review/phonak-virto-r-infinio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

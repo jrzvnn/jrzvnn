@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK unsurprisingly copies Europe, says Apple should be regulated](https://appleinsider.com/articles/25/10/22/uk-unsurprisingly-copies-europe-says-apple-should-be-regulated?utm_source=rss)
- - [Google says its Willow quantum chip using a new Quantum Echoes algorithm ran computations 13,000x faster than supercomputers, aiding drug and materials research &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251022/p30#a251022p30)
- - [New trailer just adds more mystery to Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/10/22/new-trailer-just-adds-more-mystery-to-vince-gilligans-pluribus?utm_source=rss)
- - [Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom](https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates)
- - [The 6 Best Essential Oil Diffusers We’ve Tried &lpar;and 2 to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)<!-- TECH:END -->
+ - [Anti-diversity activist Robby Starbuck is suing Google now](https://www.theverge.com/news/804494/anti-diversity-activist-robby-starbuck-is-suing-google-now)
+ - [Meta removes an AI video designed to look like RTÉ news bulletin that falsely showed Irish presidential candidate Catherine Connolly withdrawing from the race &lpar;Órla Ryan/The Irish Times&rpar;](http://www.techmeme.com/251022/p31#a251022p31)
+ - [This Open Source Robot Brain Thinks in 3D](https://www.wired.com/story/this-open-source-robot-brain-thinks-in-3d/)
+ - [HBO’s Welcome to Derry series just ain’t it](https://www.theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review)
+ - [UK unsurprisingly copies Europe, says Apple should be regulated](https://appleinsider.com/articles/25/10/22/uk-unsurprisingly-copies-europe-says-apple-should-be-regulated?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

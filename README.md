@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [Cute](http://9gag.com/gag/aLnVQdM)
- - 👉 [Money Vs Knowledge](http://9gag.com/gag/ary9vBd)<!-- MEMES:END -->
+ - 😝 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
+ - 💣 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
+ - 😝 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)
+ - 👉 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)<!-- MEMES:END -->
 
 ---
 

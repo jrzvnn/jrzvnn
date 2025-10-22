@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
  - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
+ - 😝 [Be aware in public guys](http://9gag.com/gag/an78qdz)
+ - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 😝 [Cute](http://9gag.com/gag/aLnVQdM)
+ - 👉 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)<!-- MEMES:END -->
 
 ---
 

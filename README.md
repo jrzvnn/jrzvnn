@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese chipmaker YMTC considers an IPO in China at an up to ~$40B valuation as soon as 2026, in what could be one of China&#39;s biggest IPOs in years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p15#a251022p15)
- - [Researchers detail systemic vulnerabilities in AI agentic browsers, including Perplexity&#39;s Comet and Fellou, related to indirect prompt injection attacks &lpar;Brave&rpar;](http://www.techmeme.com/251022/p14#a251022p14)
- - [Apple&#39;s Vision Pro with the M5 chip is assembled in Vietnam, according to labels on its packaging; the M2-based model, launched in 2024, was built in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p13#a251022p13)
- - [Baidu and Swiss Post&#39;s PostBus plan to launch Baidu&#39;s Apollo Go autonomous vehicle service in Switzerland, testing in December ahead of rollout by Q1 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p12#a251022p12)
- - [NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon](https://www.wired.com/story/nasas-boss-just-shook-up-the-agencys-plans-to-land-on-the-moon/)<!-- TECH:END -->
+ - [Sources: Microsoft is significantly increasing the price of its Xbox Development Kit from $1,500 to $2,000, after hiking Series X prices by $150 in September &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251022/p17#a251022p17)
+ - [Essential Gear for an Emergency Kit—for Cars or Go-Bags](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/)
+ - [People Who Say They’re Experiencing AI Psychosis Beg the FTC for Help](https://www.wired.com/story/ftc-complaints-chatgpt-ai-psychosis/)
+ - [China is racing ahead of the rest of the world in the adoption of robovans, despite limitations like slow speeds; Neolix has deployed 10,000 robovans so far &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251022/p16#a251022p16)
+ - [Sources: Chinese chipmaker YMTC considers an IPO in China at an up to ~$40B valuation as soon as 2026, in what could be one of China&#39;s biggest IPOs in years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p15#a251022p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

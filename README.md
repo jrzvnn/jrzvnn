@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
- - 😝 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
- - 💣 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)
+ - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 😝 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
+ - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
  - 😝 [I&#39;m a social justice cleric](http://9gag.com/gag/aAyqVAo)
- - 👉 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)<!-- MEMES:END -->
+ - 👉 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)<!-- MEMES:END -->
 
 ---
 

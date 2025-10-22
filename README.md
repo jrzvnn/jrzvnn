@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
  - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 💣 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
- - 😝 [Do good when nobody is watching](http://9gag.com/gag/aRB9PQy)
- - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
+ - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 😝 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
+ - 👉 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)<!-- MEMES:END -->
 
 ---
 

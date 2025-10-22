@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 😝 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 💣 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)
- - 😝 [Too late](http://9gag.com/gag/axyQ2KM)
- - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
+ - 😝 [Just a dad recognizing another dad&#39;s excellent work. Love to see it](http://9gag.com/gag/aAyqVX2)
+ - 😝 [We must watch](http://9gag.com/gag/aVv4Wq8)
+ - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)
+ - 👉 [Hmmmm..](http://9gag.com/gag/aMVDrEA)<!-- MEMES:END -->
 
 ---
 

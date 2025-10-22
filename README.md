@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keycard, which lets enterprises manage AI agent access to internal systems, raised a $30M Series A led by Acrew Capital and a $8M seed led by a16z and boldstart &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251022/p9#a251022p9)
  - [Non-profit Cyber Monitoring Centre estimates that the Jaguar Land Rover cyberattack cost the UK economy at least £1.9B and affected over 5,000 UK organizations &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p8#a251022p8)
  - [Sources: Fal.ai, which hosts multimodal AI models for developers, raised ~$250M at a $4B+ valuation, less than three months after announcing a $125M Series C &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251022/p7#a251022p7)
  - [Hyro, whose AI agents let US health care organizations automate tasks like scheduling and prescription renewals, raised $45M, taking its total funding to $95M &lpar;Sophie Shulman/CTech&rpar;](http://www.techmeme.com/251022/p6#a251022p6)
- - [Sesame, which is developing an AI agent with a natural-sounding human voice and smart glasses, raised a $250M Series B and opens an early beta of its iOS app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p5#a251022p5)
- - [Japanese regulators&#39; plan to cull the smallest listings on the Tokyo Stock Exchange is spurring a record number of startup buyouts in Japan, while IPOs slump &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p4#a251022p4)<!-- TECH:END -->
+ - [Sesame, which is developing an AI agent with a natural-sounding human voice and smart glasses, raised a $250M Series B and opens an early beta of its iOS app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251022/p5#a251022p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

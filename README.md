@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
  - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
- - 💣 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
- - 😝 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)
+ - 😝 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
+ - 💣 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)
+ - 😝 [I&#39;m a social justice cleric](http://9gag.com/gag/aAyqVAo)
  - 👉 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)<!-- MEMES:END -->
 
 ---

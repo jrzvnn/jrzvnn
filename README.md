@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 😝 [College students reactions to OJ being found not guilty.](http://9gag.com/gag/aE0ywNx)
  - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [Blitzkrieg](http://9gag.com/gag/a4Pm90d)
- - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
+ - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
+ - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)
- - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
- - 💣 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
- - 😝 [If &#39;oH i hAvE mOrE tHaN 5000 dAyS on 9gag&#39; was a picture](http://9gag.com/gag/awyPbdB)
- - 👉 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)<!-- MEMES:END -->
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 😝 [Legend](http://9gag.com/gag/aqyB95L)
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
 
 ---
 

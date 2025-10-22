@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Resistant Bacteria Are Advancing Faster Than Antibiotics](https://www.wired.com/story/resistant-bacteria-are-advancing-faster-than-antibiotics/)
- - [Best Internet Providers in Seattle, Washington](https://www.cnet.com/home/internet/best-internet-providers-in-seattle-wa/#ftag=CAD590a51e)
- - [EBU/BBC study: 45% of responses from top AI assistants misrepresented news content with at least one significant issue and 31% showed serious sourcing problems &lpar;Olivia Le Poidevin/Reuters&rpar;](http://www.techmeme.com/251022/p11#a251022p11)
- - [Electricity demand from data centers powering the AI boom has caused a gas turbine supply crunch, as the US becomes the epicenter of new gas-fired power plants &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p10#a251022p10)
- - [Keycard, which lets enterprises manage AI agent access to internal systems, raised a $30M Series A led by Acrew Capital and a $8M seed led by a16z and boldstart &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251022/p9#a251022p9)<!-- TECH:END -->
+ - [NASA’s Boss Just Shook Up the Agency’s Plans to Land on the Moon](https://www.wired.com/story/nasas-boss-just-shook-up-the-agencys-plans-to-land-on-the-moon/)
+ - [Collagen Has Anti-Aging Properties. Here&#39;s Why You Need to Add it to Your Diet](https://www.cnet.com/health/nutrition/collagen-has-anti-aging-properties-add-to-your-diet/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 22, #1586](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-22-1586/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 22 #598](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-22-598/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 22, #864](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-22-864/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jason Segel&#39;s new thriller &#39;Sponsor&#39; finds a home in Apple TV](https://appleinsider.com/articles/25/10/22/jason-segels-new-thriller-sponsor-finds-a-home-in-apple-tv?utm_source=rss)
+ - [Lomography made a new film camera that charges with USB-C](https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs)
  - [Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes](https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery)
  - [SAP reports Q3 revenue up 7% YoY to €9.08B, cloud revenue up 22% to €5.29B, below €5.33B est., and current cloud backlog up 23% to €18.84B &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251022/p41#a251022p41)
- - [Criterion’s entire stock of Blu-rays are half off for a very limited time](https://www.theverge.com/tech/804849/criterions-entire-stock-of-blu-rays-are-half-off-for-a-very-limited-time)
- - [Tinder Launches Mandatory Facial Verification to Weed Out Bots and Scammers](https://www.wired.com/story/tinder-launches-mandatory-facial-verification-to-weed-out-bots-and-scammers/)
- - [HBO Max now lets you rate shows and movies](https://www.theverge.com/news/804839/hbo-max-ratings-system-recommendations)<!-- TECH:END -->
+ - [Criterion’s entire stock of Blu-rays are half off for a very limited time](https://www.theverge.com/tech/804849/criterions-entire-stock-of-blu-rays-are-half-off-for-a-very-limited-time)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

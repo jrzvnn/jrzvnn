@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&amp;#8217;s reportedly pulling back on iPhone Air production](https://www.theverge.com/news/804758/iphone-air-sales-production-targets-drop)
  - [Tinder plans to expand its facial verification feature to all new US users in the coming months, following its rollout in seven countries and in California &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/251022/p38#a251022p38)
  - [The weather disaster database that Trump killed has a new home](https://www.theverge.com/news/804714/data-billion-dollar-weather-disaster-revived)
  - [Pitchfork is beta testing user reviews and comments as it approaches 30](https://www.theverge.com/news/804749/pitchfork-is-beta-testing-user-reviews-and-comments-as-it-approaches-30)
- - [No Tea party: Apple pulls women&#39;s dating safety app over privacy concerns](https://appleinsider.com/articles/25/10/22/no-tea-party-apple-pulls-womens-dating-safety-app-over-privacy-concerns?utm_source=rss)
- - [Canada&#39;s financial crime watchdog fines crypto exchange Cryptomus a record ~$126M for infractions including failing to flag suspicious transactions &lpar;Canadian Press&rpar;](http://www.techmeme.com/251022/p37#a251022p37)<!-- TECH:END -->
+ - [No Tea party: Apple pulls women&#39;s dating safety app over privacy concerns](https://appleinsider.com/articles/25/10/22/no-tea-party-apple-pulls-womens-dating-safety-app-over-privacy-concerns?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

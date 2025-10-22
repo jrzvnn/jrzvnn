@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deep production cutbacks again rumored to hit iPhone Air supply chain](https://appleinsider.com/articles/25/10/22/deep-production-cutbacks-again-rumored-to-hit-iphone-air-supply-chain?utm_source=rss)
- - [Internal memo and a source: Meta is cutting ~600 jobs out of several thousand within its Superintelligence Lab, including in its FAIR unit, to cut bureaucracy &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251022/p23#a251022p23)
- - [Best iPad to Buy &lpar;and Some to Avoid&rpar; in 2025](https://www.wired.com/gallery/the-best-ipad/)
- - [iPhone 18 A20 chip will cost TSMC a lot more to make](https://appleinsider.com/articles/25/10/22/iphone-18-a20-chip-will-cost-tsmc-a-lot-more-to-make?utm_source=rss)
- - [The NHL reaches multiyear licensing agreements with prediction market startups Kalshi and Polymarket, the first major US league to allow use of its trademarks &lpar;Alexander Osipovich/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p22#a251022p22)<!-- TECH:END -->
+ - [Enhance your iPad productivity with ESR&#39;s selection of keyboards, cases &amp; more](https://appleinsider.com/articles/25/10/22/enhance-your-ipad-productivity-with-esrs-selection-of-keyboards-cases-more?utm_source=rss)
+ - [The Best Gifts for Rock Climbers &lpar;2025&rpar;: Coros, Meta, Gramicci](https://www.wired.com/gallery/gifts-for-rock-climbers/)
+ - [The new Metroid Prime art book offers rare insight into Nintendo&amp;#8217;s design process](https://www.theverge.com/games/803399/metroid-prime-visual-retrospective-art-book-review)
+ - [YouTube will help you quit watching Shorts](https://www.theverge.com/news/804113/youtube-shorts-time-limit-pause-feeds)
+ - [iPhone Air vs. iPhone 17 Pro: Reevaluating after two weeks](https://appleinsider.com/articles/25/10/22/iphone-air-vs-iphone-17-pro-reevaluating-after-two-weeks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

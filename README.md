@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Legend](http://9gag.com/gag/aqyB95L)
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
- - 💣 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 😝 [When you think you can take on a UFC fighter](http://9gag.com/gag/aByjQ4A)
+ - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 💣 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He&#39;s Building](https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 23, #865](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-865/#ftag=CAD590a51e)
+ - [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk)
  - [First Partner to the Stars: Muon Space Adopts Starlink Lasers for Millisecond Data Transfer](https://www.cnet.com/science/space/first-partner-to-the-stars-muon-space-adopts-starlink-lasers-for-millisecond-data-transfer/#ftag=CAD590a51e)
- - [Amazon is testing AR glasses for delivery drivers, using AI and computer vision to help them scan packages, follow walking directions, and get proof of delivery &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251022/p43#a251022p43)
- - [Owners of Luxury Smart Beds Literally Lost Sleep Due to AWS Outage](https://www.cnet.com/health/sleep/owners-of-luxury-smart-beds-literally-lost-sleep-due-to-aws-outage/#ftag=CAD590a51e)
- - [Netflix&#39;s Use of Gen AI in Happy Gilmore 2 Is a Taste of What&#39;s to Come](https://www.cnet.com/tech/services-and-software/netflixs-use-of-gen-ai-in-happy-gilmore-2-is-a-taste-of-whats-to-come/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon is testing AR glasses for delivery drivers, using AI and computer vision to help them scan packages, follow walking directions, and get proof of delivery &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251022/p43#a251022p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

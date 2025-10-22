@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UEFA joins the MPA-led anti-piracy coalition Alliance for Creativity and Entertainment, the first sports governing body to join the group, which has 50+ members &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251022/p18#a251022p18)
  - [Sources: Microsoft is significantly increasing the price of its Xbox Development Kit from $1,500 to $2,000, after hiking Series X prices by $150 in September &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251022/p17#a251022p17)
  - [Essential Gear for an Emergency Kit—for Cars or Go-Bags](https://www.wired.com/story/emergency-kit-disaster-preparedness-guide/)
  - [People Who Say They’re Experiencing AI Psychosis Beg the FTC for Help](https://www.wired.com/story/ftc-complaints-chatgpt-ai-psychosis/)
- - [China is racing ahead of the rest of the world in the adoption of robovans, despite limitations like slow speeds; Neolix has deployed 10,000 robovans so far &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251022/p16#a251022p16)
- - [Sources: Chinese chipmaker YMTC considers an IPO in China at an up to ~$40B valuation as soon as 2026, in what could be one of China&#39;s biggest IPOs in years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p15#a251022p15)<!-- TECH:END -->
+ - [China is racing ahead of the rest of the world in the adoption of robovans, despite limitations like slow speeds; Neolix has deployed 10,000 robovans so far &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251022/p16#a251022p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

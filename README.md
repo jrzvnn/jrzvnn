@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Long Tail of the AWS Outage](https://www.wired.com/story/aws-cloud-outage-long-tail/)
+ - [Ring&amp;#8217;s CEO says his cameras can almost &amp;#8216;zero out crime&amp;#8217; within the next 12 months](https://www.theverge.com/tech/804052/ring-jamie-siminoff-book-ding-dong-release-date-interview)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
  - [Anti-diversity activist Robby Starbuck is suing Google now](https://www.theverge.com/news/804494/anti-diversity-activist-robby-starbuck-is-suing-google-now)
- - [Meta removes an AI video designed to look like RTÉ news bulletin that falsely showed Irish presidential candidate Catherine Connolly withdrawing from the race &lpar;Órla Ryan/The Irish Times&rpar;](http://www.techmeme.com/251022/p31#a251022p31)
- - [This Open Source Robot Brain Thinks in 3D](https://www.wired.com/story/this-open-source-robot-brain-thinks-in-3d/)
- - [HBO’s Welcome to Derry series just ain’t it](https://www.theverge.com/entertainment/803022/hbo-it-welcome-to-derry-review)
- - [UK unsurprisingly copies Europe, says Apple should be regulated](https://appleinsider.com/articles/25/10/22/uk-unsurprisingly-copies-europe-says-apple-should-be-regulated?utm_source=rss)<!-- TECH:END -->
+ - [Meta removes an AI video designed to look like RTÉ news bulletin that falsely showed Irish presidential candidate Catherine Connolly withdrawing from the race &lpar;Órla Ryan/The Irish Times&rpar;](http://www.techmeme.com/251022/p31#a251022p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

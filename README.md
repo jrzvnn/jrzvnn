@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
- - 💣 [Mad Honey](http://9gag.com/gag/azxoL0K)
- - 😝 [We must watch](http://9gag.com/gag/aVv4Wq8)
+ - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
  - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 ---

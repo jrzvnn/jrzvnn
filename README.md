@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
+ - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
+ - 💣 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
  - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - 💣 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)
- - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 👉 [Be aware in public guys](http://9gag.com/gag/an78qdz)<!-- MEMES:END -->
+ - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
 
 ---
 

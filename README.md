@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 😝 [Never play with guns, kids, or this will happen](http://9gag.com/gag/a2v9POO)
  - 😝 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)
  - 💣 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
  - 😝 [Just a dad recognizing another dad&#39;s excellent work. Love to see it](http://9gag.com/gag/aAyqVX2)

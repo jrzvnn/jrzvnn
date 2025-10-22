@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Latvian Police Busted A SIM Farm](http://9gag.com/gag/apRzEg5)
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 💣 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 😝 [If &#39;oH i hAvE mOrE tHaN 5000 dAyS on 9gag&#39; was a picture](http://9gag.com/gag/awyPbdB)
- - 👉 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)<!-- MEMES:END -->
+ - 💣 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)
+ - 😝 [Cute](http://9gag.com/gag/aLnVQdM)
+ - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
 
 ---
 

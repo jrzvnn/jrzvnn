@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
  - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
  - 💣 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 👉 [I would like to...](http://9gag.com/gag/a87QLN3)<!-- MEMES:END -->
+ - 😝 [Too late](http://9gag.com/gag/axyQ2KM)
+ - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 ---
 

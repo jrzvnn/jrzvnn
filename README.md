@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [College students reactions to OJ being found not guilty.](http://9gag.com/gag/aE0ywNx)
  - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - 💣 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
- - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 💣 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 😝 [Do good when nobody is watching](http://9gag.com/gag/aRB9PQy)
+ - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
 
 ---
 

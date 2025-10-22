@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 😝 [Post Something](http://9gag.com/gag/aYQZj6O)
- - 💣 [Jeremy Clarkson died last night...](http://9gag.com/gag/a4PmKG6)
  - 😝 [Slimes are scrambling to rewrite their own holy book](http://9gag.com/gag/azxognp)
- - 👉 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)<!-- MEMES:END -->
+ - 😝 [Life is unfair](http://9gag.com/gag/a0ez87X)
+ - 💣 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 👉 [The pulsing](http://9gag.com/gag/a0ez8pZ)<!-- MEMES:END -->
 
 ---
 

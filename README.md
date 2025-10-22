@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
- - 💣 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
+ - 😝 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
+ - 💣 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)
  - 😝 [Too late](http://9gag.com/gag/axyQ2KM)
- - 👉 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)<!-- MEMES:END -->
+ - 👉 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)<!-- MEMES:END -->
 
 ---
 

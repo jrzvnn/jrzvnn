@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 17 demand continues to beat analyst expectations](https://appleinsider.com/articles/25/10/22/iphone-17-demand-continues-to-beat-analyst-expectations?utm_source=rss)
+ - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)
  - [Remedy CEO steps down following FBC: Firebreak’s disastrous launch](https://www.theverge.com/news/804372/remedy-ceo-resigns-fbc-firebreak-control)
  - [Relax - Apple tweaking production numbers on new iPhone models is normal](https://appleinsider.com/articles/25/10/22/relax---apple-tweaking-production-numbers-on-new-iphone-models-is-normal?utm_source=rss)
- - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)
- - [ShopMy, which lets brands run influencer marketing efforts, raised $70M led by Avenir at a $1.5B valuation, up from ~$410M after raising $77.5M in March 2024 &lpar;Diana Pearl/The Business of Fashion&rpar;](http://www.techmeme.com/251022/p28#a251022p28)
- - [New Apple Vision Pro developer strap moves data 40x faster than before](https://appleinsider.com/articles/25/10/22/new-apple-vision-pro-developer-strap-moves-data-40x-faster-than-before?utm_source=rss)<!-- TECH:END -->
+ - [ShopMy, which lets brands run influencer marketing efforts, raised $70M led by Avenir at a $1.5B valuation, up from ~$410M after raising $77.5M in March 2024 &lpar;Diana Pearl/The Business of Fashion&rpar;](http://www.techmeme.com/251022/p28#a251022p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

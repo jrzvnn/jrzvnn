@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with GM CEO Mary Barra and CPO Sterling Anderson on GM&#39;s plans for AI and autonomous driving, ditching Apple CarPlay and Android Auto on all its cars, more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251022/p42#a251022p42)
  - [Fandom&amp;#8217;s CEO has left the company](https://www.theverge.com/entertainment/804821/fandom-ceo-perkins-miller-departure)
  - [Owners of Luxury Smart Beds Literally Lost Sleep Due to AWS Outage](https://www.cnet.com/health/sleep/owners-of-luxury-smart-beds-literally-lost-sleep-due-to-aws-outage/#ftag=CAD590a51e)
  - [Jason Segel&#39;s new thriller &#39;Sponsor&#39; finds a home in Apple TV](https://appleinsider.com/articles/25/10/22/jason-segels-new-thriller-sponsor-finds-a-home-in-apple-tv?utm_source=rss)
- - [Lomography made a new film camera that charges with USB-C](https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs)
- - [Amazon wants to buy ‘thousands’ of Rivian’s pedal-assist cargo bikes](https://www.theverge.com/news/804889/amazon-rivian-also-tmq-quad-ebike-delivery)<!-- TECH:END -->
+ - [Lomography made a new film camera that charges with USB-C](https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

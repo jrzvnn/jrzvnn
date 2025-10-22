@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 17 demand continues to beat analyst expectations](https://appleinsider.com/articles/25/10/22/iphone-17-demand-continues-to-beat-analyst-expectations?utm_source=rss)
- - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)
- - [Remedy CEO steps down following FBC: Firebreak’s disastrous launch](https://www.theverge.com/news/804372/remedy-ceo-resigns-fbc-firebreak-control)
- - [Relax - Apple tweaking production numbers on new iPhone models is normal](https://appleinsider.com/articles/25/10/22/relax---apple-tweaking-production-numbers-on-new-iphone-models-is-normal?utm_source=rss)
- - [ShopMy, which lets brands run influencer marketing efforts, raised $70M led by Avenir at a $1.5B valuation, up from ~$410M after raising $77.5M in March 2024 &lpar;Diana Pearl/The Business of Fashion&rpar;](http://www.techmeme.com/251022/p28#a251022p28)<!-- TECH:END -->
+ - [Are We on a Path to Civil War, or Something Else?](https://www.wired.com/story/path-to-civil-war/)
+ - [General Motors’ ‘Eyes-Off’ System Begs the Question: What Happens When Cars Go AI?](https://www.wired.com/story/cadillac-escalade-eyes-off-driving/)
+ - [GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028](https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous)
+ - [Why GM will give you Gemini — but not CarPlay](https://www.theverge.com/podcast/803379/gm-ceo-mary-barra-sterling-anderson-cadillac-iq-ev-autonomy-interview)
+ - [The Plants vs. Zombies remaster is a sad reminder of what could have been](https://www.theverge.com/games/803795/plants-vs-zombies-replanted-remaster-switch-pc-ps5-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

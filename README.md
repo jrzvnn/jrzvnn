@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 😝 [The pulsing](http://9gag.com/gag/a0ez8pZ)
- - 💣 [Is this how to deal with them?](http://9gag.com/gag/avy4pqW)
+ - 😝 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
+ - 😝 [He almost meet the creator](http://9gag.com/gag/avy4pEq)
+ - 💣 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
  - 😝 [Cute](http://9gag.com/gag/aLnVQdM)
- - 👉 [He almost meet the creator](http://9gag.com/gag/avy4pEq)<!-- MEMES:END -->
+ - 👉 [Money Vs Knowledge](http://9gag.com/gag/ary9vBd)<!-- MEMES:END -->
 
 ---
 

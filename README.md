@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shenzhen-based humanoid robot maker Leju Robotics raised $200M+ led by Citic Goldstone and Shenzhen Investment Holdings ahead of a planned IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p21#a251022p21)
  - [Crypto trading firm FalconX agrees to acquire 21shares, one of the main crypto ETF managers, for an undisclosed sum; 21shares had $11B+ in assets in September &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p20#a251022p20)
  - [Phonak Virto R Infinio Review: Prescription Hearing Aids With Great Fit](https://www.wired.com/review/phonak-virto-r-infinio/)
  - [Uber will pay drivers $4,000 to switch to EVs](https://www.theverge.com/news/802983/uber-electric-ev-driver-4000-grant-price)
- - [Sources: Apple cuts iPhone Air orders nearly to &quot;end of production&quot; levels after a lukewarm reception in China, but keeps iPhone 17 lineup forecasts at 85M-90M &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251022/p19#a251022p19)
- - [UEFA joins the MPA-led anti-piracy coalition Alliance for Creativity and Entertainment, the first sports governing body to join the group, which has 50+ members &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251022/p18#a251022p18)<!-- TECH:END -->
+ - [Sources: Apple cuts iPhone Air orders nearly to &quot;end of production&quot; levels after a lukewarm reception in China, but keeps iPhone 17 lineup forecasts at 85M-90M &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251022/p19#a251022p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

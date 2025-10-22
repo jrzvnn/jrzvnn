@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA says it will label Apple and Google as having &quot;strategic market status&quot;, imposing stricter rules on how they run their platforms to boost competition &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p26#a251022p26)
+ - [New DMA complaint ludicrously claims Apple&#39;s App Store limits block freedom of expression](https://appleinsider.com/articles/25/10/22/new-dma-complaint-ludicrously-claims-apples-app-store-limits-block-freedom-of-expression?utm_source=rss)
+ - [Casio’ new ring watch straps a durable G-Shock to your finger](https://www.theverge.com/news/804174/casio-ring-digital-watch-g-shock-nano-dwn-5600)
  - [Sumble, which offers an AI sales intelligence service, emerges from stealth and raised a $30M Series A led by Canaan Partners and $8.5M seed led by Coatue &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/251022/p25#a251022p25)
- - [DC’s shutdown is hurting government tech workers — and everyone else](https://www.theverge.com/policy/804252/government-shutdown-tech-workers-usds)
- - [Meta is reportedly downsizing its legacy AI research team](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
- - [Enhance your iPad productivity with ESR&#39;s selection of keyboards, cases &amp; more](https://appleinsider.com/articles/25/10/22/enhance-your-ipad-productivity-with-esrs-selection-of-keyboards-cases-more?utm_source=rss)
- - [YouTube now lets mobile users set a customizable daily limit to restrict how long they can scroll Shorts feeds; the limit notifications are dismissible &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251022/p24#a251022p24)<!-- TECH:END -->
+ - [DC’s shutdown is hurting government tech workers — and everyone else](https://www.theverge.com/policy/804252/government-shutdown-tech-workers-usds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A UN pact to fight cybercrime is set to be signed by dozens of countries in Hanoi; tech companies and activists warn the pact may criminalize ethical hacking &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251022/p3#a251022p3)
+ - [OnePlus Promo Code: $100 Off  | October 2025 | WIRED](https://www.wired.com/story/oneplus-promo-code/)
  - [Lenovo Coupon Codes and Deals: $5,000 Off](https://www.wired.com/story/lenovo-coupon-code/)
  - [Hundreds of public figures sign a Future of Life Institute statement urging a ban on the development of AI superintelligence until it can be deployed safely &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251022/p2#a251022p2)
- - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
- - [Palworld developer Pocketpair says its new publishing division won&#39;t fund games that use GenAI, saying it &quot;doesn&#39;t believe&quot; in the technology &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/251022/p1#a251022p1)
- - [New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough](https://www.wired.com/story/new-report-finds-efforts-to-slow-climate-change-are-working-just-not-fast-enough/)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

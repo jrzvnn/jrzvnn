@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ubisoft servers? What&#39;s that?](http://9gag.com/gag/aYQZbv0)
- - 😝 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
- - 💣 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
+ - 😝 [The interface developer is an idiot](http://9gag.com/gag/abAKXLv)
+ - 💣 [I miss Top Gear humor !](http://9gag.com/gag/a87QbjY)
  - 😝 [If &#39;oH i hAvE mOrE tHaN 5000 dAyS on 9gag&#39; was a picture](http://9gag.com/gag/awyPbdB)
  - 👉 [Hard right-winger Sanae Takaichi has officially become Japan\u2019s first female Prime Minister. Takaichi has promised a crackdown on migration into Japan.](http://9gag.com/gag/apRzovM)<!-- MEMES:END -->
 

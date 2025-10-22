@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The PlayStation 5 is $125 off straight from Sony](https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale)
+ - [AppleInsider Giveaway: Enter to win an iPhone 17 from Grid Studio](https://appleinsider.com/articles/25/10/22/appleinsider-giveaway-enter-to-win-an-iphone-17-from-grid-studio?utm_source=rss)
+ - [GM will ditch Apple CarPlay and Android Auto on all its cars, not just EVs](https://www.theverge.com/transportation/804562/gm-apple-carplay-android-auto-gas-cars-mary-barra)
  - [Sources: Trump administration is considering barring exports of products made with US software to China in response to the country&#39;s rare earth restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p32#a251022p32)
- - [The Long Tail of the AWS Outage](https://www.wired.com/story/aws-cloud-outage-long-tail/)
- - [Ring&amp;#8217;s CEO says his cameras can almost &amp;#8216;zero out crime&amp;#8217; within the next 12 months](https://www.theverge.com/tech/804052/ring-jamie-siminoff-book-ding-dong-release-date-interview)
- - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
- - [Anti-diversity activist Robby Starbuck is suing Google now](https://www.theverge.com/news/804494/anti-diversity-activist-robby-starbuck-is-suing-google-now)<!-- TECH:END -->
+ - [The Long Tail of the AWS Outage](https://www.wired.com/story/aws-cloud-outage-long-tail/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

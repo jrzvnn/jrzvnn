@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New trailer just adds more mystery to Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/10/22/new-trailer-just-adds-more-mystery-to-vince-gilligans-pluribus?utm_source=rss)
+ - [Nintendo announces a string of free updates for Pikmin 4 and Pikmin Bloom](https://www.theverge.com/news/804408/nintendo-pikmin-4-bloom-november-updates)
+ - [The 6 Best Essential Oil Diffusers We’ve Tried &lpar;and 2 to Avoid&rpar;](https://www.wired.com/gallery/best-essential-oil-diffusers/)
  - [Eight Sleep adds ‘outage mode’ to smart beds after AWS problems left them frozen](https://www.theverge.com/news/804289/eight-sleep-smart-bed-aws-outage-overheating-offline)
- - [GM plans to roll out Google Gemini in its vehicles starting in 2026 and plans an advanced driver-assistance system with eyes-off driving capabilities in 2028 &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/251022/p29#a251022p29)
- - [Are We on a Path to Civil War, or Something Else?](https://www.wired.com/story/path-to-civil-war/)
- - [General Motors’ ‘Eyes-Off’ System Begs the Question: What Happens When Cars Go AI?](https://www.wired.com/story/cadillac-escalade-eyes-off-driving/)
- - [GM says hands-free, eyes-off driving is coming to Escalade IQ in 2028](https://www.theverge.com/news/802452/gm-forward-ai-robot-level-3-autonomous)<!-- TECH:END -->
+ - [GM plans to roll out Google Gemini in its vehicles starting in 2026 and plans an advanced driver-assistance system with eyes-off driving capabilities in 2028 &lpar;Michael Wayland/CNBC&rpar;](http://www.techmeme.com/251022/p29#a251022p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

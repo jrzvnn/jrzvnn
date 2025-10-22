@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wells Fargo hikes AAPL target to $290 on high AI expectations](https://appleinsider.com/articles/25/10/22/wells-fargo-hikes-aapl-target-to-290-on-high-ai-expectations?utm_source=rss)
- - [The PlayStation 5 is $125 off straight from Sony](https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale)
- - [AppleInsider Giveaway: Enter to win an iPhone 17 from Grid Studio](https://appleinsider.com/articles/25/10/22/appleinsider-giveaway-enter-to-win-an-iphone-17-from-grid-studio?utm_source=rss)
- - [GM will ditch Apple CarPlay and Android Auto on all its cars, not just EVs](https://www.theverge.com/transportation/804562/gm-apple-carplay-android-auto-gas-cars-mary-barra)
- - [Sources: Trump administration is considering barring exports of products made with US software to China in response to the country&#39;s rare earth restrictions &lpar;Reuters&rpar;](http://www.techmeme.com/251022/p32#a251022p32)<!-- TECH:END -->
+ - [Reddit sues Perplexity for allegedly ripping its content to feed AI](https://www.theverge.com/news/804660/reddit-suing-perplexity-data-scrapers-ai-lawsuit)
+ - [Reddit files a lawsuit against Perplexity, SerpApi, and two other data scraping companies, accusing them of unlawfully scraping Google for Reddit data &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/251022/p33#a251022p33)
+ - [Also TM-B Ebike: Specs, Release Date, Price, and Features](https://www.wired.com/story/rivian-also-tm-b-modular-repairable-electric-bike/)
+ - [Rivian’s first e-bike is unlike anything you’ve ever seen](https://www.theverge.com/news/804157/rivian-tm-b-electric-bike-price-specs-helmet-quad)
+ - [Inside Rivian’s $4,500 electric bike gamble](https://www.theverge.com/transportation/804163/rivian-also-tm-b-ebike-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

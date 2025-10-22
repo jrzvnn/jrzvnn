@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sumble, which offers an AI sales intelligence service, emerges from stealth and raised a $30M Series A led by Canaan Partners and $8.5M seed led by Coatue &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/251022/p25#a251022p25)
+ - [DC’s shutdown is hurting government tech workers — and everyone else](https://www.theverge.com/policy/804252/government-shutdown-tech-workers-usds)
+ - [Meta is reportedly downsizing its legacy AI research team](https://www.theverge.com/news/804253/meta-ai-research-layoffs-fair-superintelligence)
  - [Enhance your iPad productivity with ESR&#39;s selection of keyboards, cases &amp; more](https://appleinsider.com/articles/25/10/22/enhance-your-ipad-productivity-with-esrs-selection-of-keyboards-cases-more?utm_source=rss)
- - [The Best Gifts for Rock Climbers &lpar;2025&rpar;: Coros, Meta, Gramicci](https://www.wired.com/gallery/gifts-for-rock-climbers/)
- - [The new Metroid Prime art book offers rare insight into Nintendo&amp;#8217;s design process](https://www.theverge.com/games/803399/metroid-prime-visual-retrospective-art-book-review)
- - [YouTube will help you quit watching Shorts](https://www.theverge.com/news/804113/youtube-shorts-time-limit-pause-feeds)
- - [iPhone Air vs. iPhone 17 Pro: Reevaluating after two weeks](https://appleinsider.com/articles/25/10/22/iphone-air-vs-iphone-17-pro-reevaluating-after-two-weeks?utm_source=rss)<!-- TECH:END -->
+ - [YouTube now lets mobile users set a customizable daily limit to restrict how long they can scroll Shorts feeds; the limit notifications are dismissible &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251022/p24#a251022p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After the iPhone Fold, expect bezel-free &amp; flip models in 2027 and 2028](https://appleinsider.com/articles/25/10/22/after-the-iphone-fold-expect-bezel-free-flip-models-in-2027-and-2028?utm_source=rss)
  - [The UK CMA says it will label Apple and Google as having &quot;strategic market status&quot;, imposing stricter rules on how they run their platforms to boost competition &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p26#a251022p26)
  - [New DMA complaint ludicrously claims Apple&#39;s App Store limits block freedom of expression](https://appleinsider.com/articles/25/10/22/new-dma-complaint-ludicrously-claims-apples-app-store-limits-block-freedom-of-expression?utm_source=rss)
  - [Casio’ new ring watch straps a durable G-Shock to your finger](https://www.theverge.com/news/804174/casio-ring-digital-watch-g-shock-nano-dwn-5600)
- - [Sumble, which offers an AI sales intelligence service, emerges from stealth and raised a $30M Series A led by Canaan Partners and $8.5M seed led by Coatue &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/251022/p25#a251022p25)
- - [DC’s shutdown is hurting government tech workers — and everyone else](https://www.theverge.com/policy/804252/government-shutdown-tech-workers-usds)<!-- TECH:END -->
+ - [Sumble, which offers an AI sales intelligence service, emerges from stealth and raised a $30M Series A led by Canaan Partners and $8.5M seed led by Coatue &lpar;Ram Iyer/TechCrunch&rpar;](http://www.techmeme.com/251022/p25#a251022p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

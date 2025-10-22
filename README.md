@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hundreds of public figures sign a Future of Life Institute statement urging a ban on the development of AI superintelligence until it can be deployed safely &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/251022/p2#a251022p2)
+ - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
  - [Palworld developer Pocketpair says its new publishing division won&#39;t fund games that use GenAI, saying it &quot;doesn&#39;t believe&quot; in the technology &lpar;Chris Kerr/Game Developer&rpar;](http://www.techmeme.com/251022/p1#a251022p1)
  - [New Report Finds Efforts to Slow Climate Change Are Working—Just Not Fast Enough](https://www.wired.com/story/new-report-finds-efforts-to-slow-climate-change-are-working-just-not-fast-enough/)
- - [56 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)
- - [Sources: Sequoia COO Sumaiya Balbale resigned after the firm refused to discipline partner Shaun Maguire over his comments calling Zohran Mamdani &quot;an Islamist&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251021/p57#a251021p57)
- - [Samsung says it&#39;s working on smart glasses built on top of Android XR in partnership with Warby Parker and Gentle Monster, during its Worlds Wide Open event &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251021/p56#a251021p56)<!-- TECH:END -->
+ - [56 of the Best TV Shows on Netflix That Will Keep You Entertained](https://www.cnet.com/tech/services-and-software/best-tv-shows-netflix-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

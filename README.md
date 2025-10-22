@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [No Tea party: Apple pulls women&#39;s dating safety app over privacy concerns](https://appleinsider.com/articles/25/10/22/no-tea-party-apple-pulls-womens-dating-safety-app-over-privacy-concerns?utm_source=rss)
+ - [Canada&#39;s financial crime watchdog fines crypto exchange Cryptomus a record ~$126M for infractions including failing to flag suspicious transactions &lpar;Canadian Press&rpar;](http://www.techmeme.com/251022/p37#a251022p37)
  - [Kuo joins iPhone Air supply chain cutback claim chorus](https://appleinsider.com/articles/25/10/22/kuo-joins-iphone-air-supply-chain-cutback-claim-chorus?utm_source=rss)
  - [Sources: Kalshi is receiving funding offers from VC investors at $10B-$12B or higher valuations, just weeks after it announced a $300M round at a $5B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251022/p36#a251022p36)
- - [The PlayStation 5 is $125 off straight from Sony](https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale)
- - [Deep production cutbacks again rumored to hit iPhone Air supply chain](https://appleinsider.com/articles/25/10/22/deep-production-cutbacks-again-rumored-to-hit-iphone-air-supply-chain?utm_source=rss)
- - [Our Favorite High Resolution Mirrorless Camera Is $900 Off Right Now](https://www.wired.com/story/sony-a7rv-deal-2025/)<!-- TECH:END -->
+ - [The PlayStation 5 is $125 off straight from Sony](https://www.theverge.com/tech/804510/sony-playstation-5-ps-direct-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

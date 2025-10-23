@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hollywood is in love with microdramas, for all the wrong reasons](https://www.theverge.com/column/805250/hollywood-is-in-love-with-microdramas-for-all-the-wrong-reasons)
+ - [A Steve Jobs threat is the main reason Corning agreed to make iPhone screens](https://appleinsider.com/articles/25/10/23/a-steve-jobs-threat-is-the-main-reason-corning-agreed-to-make-iphone-screens?utm_source=rss)
+ - [Amazon&amp;#8217;s latest attempt at selling stuff with AI is the &amp;#8216;Help me decide&amp;#8217; button](https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide)
  - [President Trump pardons convicted Binance founder Changpeng Zhao, following months of efforts by Zhao to boost the Trump family&#39;s World Liberty Financial &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p27#a251023p27)
- - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)
- - [Vimeo is upgrading support for Apple Vision Pro 3D video](https://appleinsider.com/articles/25/10/23/vimeo-is-upgrading-support-for-apple-vision-pro-3d-video?utm_source=rss)
- - [Source: Suno hit ~$150M in ARR from subscriptions to its app, up nearly 4x YoY; it has $10 and $30 per month subscription tiers, implying 5M+ subscribers &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251023/p26#a251023p26)
- - [No one, even Apple, may be able to resist Elon Musk&#39;s Starlink](https://appleinsider.com/articles/25/10/23/no-one-even-apple-may-be-able-to-resist-elon-musks-starlink?utm_source=rss)<!-- TECH:END -->
+ - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

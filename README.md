@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Long Do Vacuums Last? &lpar;2025&rpar;](https://www.wired.com/story/how-long-do-vacuums-last/)
+ - [Chinese state media: China&#39;s new five-year development plan aims to achieve tech self-reliance and expand the domestic market, after a four-day CCP conclave &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p18#a251023p18)
+ - [Alibaba launches a free consumer-focused AI chatbot in its Quark app, powered by Qwen 3, and plans to open pre-sales for its $660 Quark AI Glasses on October 24 &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p17#a251023p17)
  - [AI creative studio Wonder Studios, backed by OpenAI and Google DeepMind execs, raised a $12M seed led by Atomico and aims to release its first content in 2026 &lpar;Najat Kantouar/Wall Street Journal&rpar;](http://www.techmeme.com/251023/p16#a251023p16)
- - [OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas](https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates)
- - [Keeper Review &lpar;2025&rpar;: Enterprise-Level Password Management for Everyone](https://www.wired.com/review/keeper-password-manager-2025/)
- - [ChatGPT’s Horny Era Could Be Its Stickiest Yet](https://www.wired.com/story/chatgpt-horny-era/)
- - [Chinese robovan startup Neolix raised $600M led by UAE-based Stone Venture without disclosing its valuation, ahead of a potential Hong Kong IPO as soon as 2026 &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251023/p15#a251023p15)<!-- TECH:END -->
+ - [OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas](https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

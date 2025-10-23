@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
  - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 💣 [King fruit](http://9gag.com/gag/a34eL78)
+ - 💣 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
  - 👉 [Actually, I&#39;m a drunk, alcoholic&#39;s go to meetings](http://9gag.com/gag/avy4LEZ)<!-- MEMES:END -->
 

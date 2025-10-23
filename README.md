@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 😝 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
+ - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 💣 [I think i downloaded the wrong Wizard of Oz movie](http://9gag.com/gag/ary9e8V)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)<!-- MEMES:END -->
+ - 👉 [Watching sports be like](http://9gag.com/gag/aW4PO66)<!-- MEMES:END -->
 
 ---
 

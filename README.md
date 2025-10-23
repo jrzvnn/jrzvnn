@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
- - 💣 [For all the mechanics out there](http://9gag.com/gag/avy4gBb)
+ - 😝 [It ain&#39;t me](http://9gag.com/gag/aGy6wpG)
+ - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 💣 [THICC](http://9gag.com/gag/avy40wd)
  - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
+ - 👉 [About them sticks:](http://9gag.com/gag/a5Qvd0G)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When an brainwashed kid gets educated by an Iranian man about `Palestine`](http://9gag.com/gag/aW4PZVK)
  - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 💣 [THICC](http://9gag.com/gag/avy40wd)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [THICC](http://9gag.com/gag/avy40wd)<!-- MEMES:END -->
+ - 👉 [I&#39;m this old](http://9gag.com/gag/aKGnPbZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
  - 😝 [King fruit](http://9gag.com/gag/a34eL78)
- - 💣 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
+ - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
  - 👉 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)<!-- MEMES:END -->
 

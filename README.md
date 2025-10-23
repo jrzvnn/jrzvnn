@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
  - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 💣 [THICC](http://9gag.com/gag/avy40wd)
+ - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [I&#39;m this old](http://9gag.com/gag/aKGnPbZ)<!-- MEMES:END -->
+ - 👉 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)<!-- MEMES:END -->
 
 ---
 

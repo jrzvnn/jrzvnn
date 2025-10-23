@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 😝 [Mad Honey](http://9gag.com/gag/azxoL0K)
- - 💣 [China ?](http://9gag.com/gag/an78X5B)
+ - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [Feeling old yet](http://9gag.com/gag/aqyBmNZ)
+ - 💣 [For all the mechanics out there](http://9gag.com/gag/avy4gBb)
  - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
  - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 

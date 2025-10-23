@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: SoftBank held talks about acquiring Agility Robotics for $900M+ before participating in Agility&#39;s funding round valuing the startup at $1.75B pre-money &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251023/p41#a251023p41)
+ - [The 26 Best Movies on Apple TV Right Now: WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Anthropic says Claude&#39;s memory feature, initially available for Team and Enterprise users, is rolling out to Pro and Max subscribers &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251023/p40#a251023p40)
  - [Fallout 4 is getting a new edition just in time for the TV show](https://www.theverge.com/news/805612/fallout-4-anniversary-edition-release-date-trailer)
- - [JBL’s rugged Charge 6 speaker is down to one of its lowest prices to date](https://www.theverge.com/tech/805472/jbl-charge-6-speaker-resident-evil-village-ps5-deal-sale)
- - [Trump pardons disgraced Binance founder Changpeng Zhao](https://www.theverge.com/news/805523/trump-pardons-disgraced-binance-founder-changpeng-zhao)
- - [PUBG maker Krafton unveils an &quot;AI First&quot; strategy, investing ~$70M to build a GPU cluster to automate AI workflows and strengthen AI R&amp;D and in-game AI services &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251023/p39#a251023p39)<!-- TECH:END -->
+ - [JBL’s rugged Charge 6 speaker is down to one of its lowest prices to date](https://www.theverge.com/tech/805472/jbl-charge-6-speaker-resident-evil-village-ps5-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

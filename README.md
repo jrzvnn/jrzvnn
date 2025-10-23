@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
- - 😝 [Never provide a workaround for a company that is actively against you....](http://9gag.com/gag/an78YbB)
- - 💣 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 😝 [Christina Ricci as Wednesday and Morticia Addams is a whole mood](http://9gag.com/gag/a0ezYvq)
- - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
+ - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [Future Grades be LIKE](http://9gag.com/gag/an78XyE)
+ - 💣 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
+ - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
+ - 👉 [News](http://9gag.com/gag/an78KLE)<!-- MEMES:END -->
 
 ---
 

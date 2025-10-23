@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainguard, which helps companies secure software supply chains, raised $280M, six months after a $356M Series D, bringing its total funding to $892M &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251023/p36#a251023p36)
+ - [Netflix, Amazon, and Apple are reportedly interested in buying Warner Bros.](https://www.theverge.com/news/805387/warner-bros-sale-netflix-amazon-apple-interested)
+ - [Apple&#39;s A20 chips could launch a new era of thinner, cooler iPhones](https://appleinsider.com/articles/25/10/23/apples-a20-chips-could-launch-a-new-era-of-thinner-cooler-iphones?utm_source=rss)
  - [Anthropic’s Claude chatbot is getting a ‘memory’ upgrade](https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers)
- - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)
- - [VideoShops, an affiliate retail platform that lets creators start personalized storefronts with no minimum follower count, raised a $42M seed &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251023/p35#a251023p35)
- - [Elden Ring on the Switch 2 is delayed until 2026](https://www.theverge.com/games/805381/elden-ring-tarnished-edition-nintendo-switch-2-delay)
- - [Microsoft unveils Mico, a character that responds with real-time expressions when talked to, now on by default in Copilot&#39;s voice mode in the US, UK, and Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p34#a251023p34)<!-- TECH:END -->
+ - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

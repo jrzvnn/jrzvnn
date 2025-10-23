@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [My spirit animal](http://9gag.com/gag/ary943d)
  - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 💣 [King fruit](http://9gag.com/gag/a34eL78)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Actually, I&#39;m a drunk, alcoholic&#39;s go to meetings](http://9gag.com/gag/avy4LEZ)<!-- MEMES:END -->
+ - 👉 [Pay attention to your surroundings if you&#39;re gonna commit a crime](http://9gag.com/gag/aqyB2Kv)<!-- MEMES:END -->
 
 ---
 

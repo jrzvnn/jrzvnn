@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Meesho and the rise of quick commerce companies disrupted Flipkart and Amazon&#39;s e-commerce duopoly that had existed in India for over a decade until 2023 &lpar;Manish Singh/India Dispatch&rpar;](http://www.techmeme.com/251023/p9#a251023p9)
- - [Same Snake, Different Oil: Wellness Influencers and the Rise of Health Misinformation](https://www.cnet.com/health/features/same-snake-different-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)
- - [I Asked Personal Trainers: What Is the One Piece of Fitness Tech You Can&#39;t Stop Recommending?](https://www.cnet.com/health/fitness/asked-personal-trainers-what-one-piece-fitness-tech-cant-stop-recommending/#ftag=CAD590a51e)
- - [4 Microplastic Red Flags I Found Hiding in My Kitchen, and Swaps I&#39;m Making ASAP](https://www.cnet.com/health/4-microplastic-red-flags-i-found-hiding-in-my-kitchen-and-swaps-im-making-asap/#ftag=CAD590a51e)
- - [A look at DeepSeek&#39;s rise in Africa, as China&#39;s lightweight, low-cost AI models make inroads into the continent via tech infrastructure built by Huawei and ZTE &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p8#a251023p8)<!-- TECH:END -->
+ - [This ‘Privacy Browser’ Has Dangerous Hidden Features](https://www.wired.com/story/universe-browser-malware-gambling-networks/)
+ - [Lawyers for a teen who died by suicide after allegedly discussing methods with ChatGPT call OpenAI&#39;s request for all memorial documents &quot;intentional harassment&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251023/p10#a251023p10)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 23 #599](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-23-599/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 23, #395](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-23-395/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 23, #1587](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-23-1587/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

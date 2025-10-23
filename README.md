@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 💣 [Watching sports be like](http://9gag.com/gag/aW4PO66)
+ - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
+ - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 💣 [King fruit](http://9gag.com/gag/a34eL78)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Apple cider process](http://9gag.com/gag/a6Z4yv9)<!-- MEMES:END -->
+ - 👉 [Actually, I&#39;m a drunk, alcoholic&#39;s go to meetings](http://9gag.com/gag/avy4LEZ)<!-- MEMES:END -->
 
 ---
 

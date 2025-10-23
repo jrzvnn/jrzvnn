@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-23/#ftag=CAD590a51e)
  - [Elon Musk says Tesla&#39;s AI5 chip will be made by Samsung in Texas and TSMC in Arizona, with the &quot;oversupply&quot; of chips not used by Tesla going to his data centers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251022/p48#a251022p48)
  - [How going viral made one Apple Store employee change his name](https://appleinsider.com/articles/25/10/23/how-going-viral-made-one-apple-store-employee-change-his-name?utm_source=rss)
  - [Sources: quantum computing companies including IonQ, Rigetti, and D-Wave are in talks to give the US Commerce Dept. equity in exchange for $10M+ each in funding &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251022/p47#a251022p47)
- - [Sources: a16z is aiming to raise $6B for its growth fund, $3B for AI deals, and $1B for American Dynamism; the $10B total would be its largest fundraise to date &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p46#a251022p46)
- - [Judges seems sympathetic to Apple in App Store appeal hearing](https://appleinsider.com/articles/25/10/23/judges-seems-sympathetic-to-apple-in-app-store-appeal-hearing?utm_source=rss)<!-- TECH:END -->
+ - [Sources: a16z is aiming to raise $6B for its growth fund, $3B for AI deals, and $1B for American Dynamism; the $10B total would be its largest fundraise to date &lpar;Financial Times&rpar;](http://www.techmeme.com/251022/p46#a251022p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

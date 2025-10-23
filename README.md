@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It ain&#39;t me](http://9gag.com/gag/aGy6wpG)
  - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 💣 [THICC](http://9gag.com/gag/avy40wd)
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [THICC](http://9gag.com/gag/avy40wd)
+ - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [Apple cider process](http://9gag.com/gag/a6Z4yv9)
  - 👉 [About them sticks:](http://9gag.com/gag/a5Qvd0G)<!-- MEMES:END -->
 
 ---

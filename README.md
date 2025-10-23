@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK FCA sues Justin Sun-linked crypto exchange HTX in London&#39;s High Court for alleged illegal promotion of &quot;cryptoasset services&quot; to UK consumers &lpar;Lucca De Paoli/Bloomberg&rpar;](http://www.techmeme.com/251022/p44#a251022p44)
- - [Elon Musk Wants ‘Strong Influence’ Over the ‘Robot Army’ He’s Building](https://www.wired.com/story/elon-musk-wants-strong-influence-over-the-robot-army-hes-building/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 23, #865](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-23-865/#ftag=CAD590a51e)
- - [Musk wants to get rid of Tesla’s robotaxi babysitters ‘by the end of the year’](https://www.theverge.com/transportation/804972/tesla-robotaxi-safety-monitor-remove-austin-musk)
- - [First Partner to the Stars: Muon Space Adopts Starlink Lasers for Millisecond Data Transfer](https://www.cnet.com/science/space/first-partner-to-the-stars-muon-space-adopts-starlink-lasers-for-millisecond-data-transfer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon claims the headline isn&amp;#8217;t robots taking jobs as it reveals new cost-cutting robots](https://www.theverge.com/news/805098/amazon-robots-ai-warehouses)
+ - [Judges seems sympathetic to Apple in App Store appeal hearing](https://appleinsider.com/articles/25/10/23/judges-seems-sympathetic-to-apple-in-app-store-appeal-hearing?utm_source=rss)
+ - [Sources: Polymarket is in early talks with investors to raise funds at a $12B-$15B valuation, up from ~$8B pre-investment in a deal announced earlier this month &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/251022/p45#a251022p45)
+ - [Doomscrolling While Using the Bathroom Has a Hidden Risk](https://www.cnet.com/tech/mobile/study-reveals-doomscrolling-while-using-the-bathroom-has-a-hidden-risk/#ftag=CAD590a51e)
+ - [These Are the Catchiest Songs of All Time, According to AI. Do You Agree?](https://www.cnet.com/tech/services-and-software/ai-has-officially-solved-the-debate-over-the-catchiest-songs-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

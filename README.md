@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple warns Europe could force it to turn off key privacy feature](https://appleinsider.com/articles/25/10/23/apple-warns-europe-could-force-it-to-turn-off-key-privacy-feature?utm_source=rss)
+ - [Microsoft Launches Mico, an Official Clippy Successor, in Its Copilot AI Fall Release](https://www.cnet.com/tech/services-and-software/microsoft-launches-mico-an-official-clippy-successor-in-its-copilot-ai-fall-release/#ftag=CAD590a51e)
  - [Microsoft Edge’s new Copilot Mode turns on more AI features](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
  - [Nintendo&amp;#8217;s chips make this Lego Game Boy upgrade kit the most authentic](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)
- - [EA strikes a partnership with Stability AI to build game developer tools that serve as &quot;smarter paintbrushes&quot; &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251023/p50#a251023p50)
- - [Filing: Applied Materials plans to cut ~4% of its global workforce and expects the layoffs to cost $160M to $180M; it had 36,100 employees as of the end of July &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/251023/p49#a251023p49)<!-- TECH:END -->
+ - [EA strikes a partnership with Stability AI to build game developer tools that serve as &quot;smarter paintbrushes&quot; &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251023/p50#a251023p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

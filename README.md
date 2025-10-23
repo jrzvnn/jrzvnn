@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
  - 💣 [My spirit animal](http://9gag.com/gag/ary943d)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Pay attention to your surroundings if you&#39;re gonna commit a crime](http://9gag.com/gag/aqyB2Kv)<!-- MEMES:END -->
+ - 👉 [What is life](http://9gag.com/gag/aAyqp0p)<!-- MEMES:END -->
 
 ---
 

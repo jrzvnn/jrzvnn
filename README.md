@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Same Snake, Different Oil: Wellness Influencers and the Rise of Health Misinformation](https://www.cnet.com/health/features/same-snake-different-oil-wellness-influencers-rise-health-misinformation/#ftag=CAD590a51e)
+ - [I Asked Personal Trainers: What Is the One Piece of Fitness Tech You Can&#39;t Stop Recommending?](https://www.cnet.com/health/fitness/asked-personal-trainers-what-one-piece-fitness-tech-cant-stop-recommending/#ftag=CAD590a51e)
+ - [4 Microplastic Red Flags I Found Hiding in My Kitchen, and Swaps I&#39;m Making ASAP](https://www.cnet.com/health/4-microplastic-red-flags-i-found-hiding-in-my-kitchen-and-swaps-im-making-asap/#ftag=CAD590a51e)
  - [A look at DeepSeek&#39;s rise in Africa, as China&#39;s lightweight, low-cost AI models make inroads into the continent via tech infrastructure built by Huawei and ZTE &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p8#a251023p8)
- - [The Atlanta Fed estimates delays faced by claimants in COBOL-based unemployment insurance systems cut US GDP by at least $40B between March 13 and year-end 2020 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251023/p7#a251023p7)
- - [STMicro reports Q3 revenue down 2% YoY to $3.19B and operating income down 53% YoY to $180M, missing est., and forecasts Q4 revenue of $3.28B, below $3.35B est. &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251023/p6#a251023p6)
- - [Sources: Nexperia&#39;s China unit has resumed chip sales to local distributors, with transactions now settled in yuan instead of foreign currencies such as the USD &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p5#a251023p5)
- - [Top AI researchers and executives in SV are working 80 to 100 hours a week, driven by intense competition, as AI&#39;s rapid progress compresses product timelines &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p4#a251023p4)<!-- TECH:END -->
+ - [The Atlanta Fed estimates delays faced by claimants in COBOL-based unemployment insurance systems cut US GDP by at least $40B between March 13 and year-end 2020 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251023/p7#a251023p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Andrew Cuomo Campaign Is All in on MAGA Influencers](https://www.wired.com/story/andrew-cuomo-campaign-maga-influencers/)
+ - [Cyprus&#39;s financial regulator grants a crypto license to Revolut, allowing the startup to offer crypto services across the EU under new regulations &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/251023/p25#a251023p25)
  - [Vimeo is upgrading support for Apple Vision Pro 3D video](https://appleinsider.com/articles/25/10/23/vimeo-is-upgrading-support-for-apple-vision-pro-3d-video?utm_source=rss)
  - [Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial](https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection)
- - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)
- - [Mega Evolution is coming to Pokémon TCG Pocket](https://www.theverge.com/entertainment/805244/pokemon-tcg-pocket-mega-rising)
- - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
+ - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

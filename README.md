@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
  - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
- - 😝 [Guess if real or AI](http://9gag.com/gag/aXPQbo2)
- - 💣 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 💣 [Catfish burger](http://9gag.com/gag/aGy6wKX)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Watching sports be like](http://9gag.com/gag/aW4PO66)<!-- MEMES:END -->
+ - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
 
 ---
 

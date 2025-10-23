@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
- - 💣 [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Just to make this clear](http://9gag.com/gag/aPAzyqG)<!-- MEMES:END -->
+ - 👉 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mustafa Suleyman says Microsoft won&#39;t provide erotica AI services and that &quot;other companies will build that&quot;, after Sam Altman said ChatGPT would offer erotica &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/251023/p51#a251023p51)
  - [Trump&#39;s Investment in Intel Is Paying Off](https://www.wired.com/story/intel-earnings-chips-semiconductors-investment/)
  - [Apple warns Europe could force it to turn off key privacy feature](https://appleinsider.com/articles/25/10/23/apple-warns-europe-could-force-it-to-turn-off-key-privacy-feature?utm_source=rss)
  - [Microsoft Launches Mico, an Official Clippy Successor, in Its Copilot AI Fall Release](https://www.cnet.com/tech/services-and-software/microsoft-launches-mico-an-official-clippy-successor-in-its-copilot-ai-fall-release/#ftag=CAD590a51e)
- - [Microsoft Edge’s new Copilot Mode turns on more AI features](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
- - [Nintendo&amp;#8217;s chips make this Lego Game Boy upgrade kit the most authentic](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)<!-- TECH:END -->
+ - [Microsoft Edge’s new Copilot Mode turns on more AI features](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

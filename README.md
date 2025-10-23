@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft updates Copilot to add Copilot Groups, enabling up to 32 people to collaborate in a session, and a &quot;real talk&quot; mode to add more personality to Copilot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p33#a251023p33)
- - [Blowout deal: M3 MacBook Air 13-inch 24GB RAM plunges to $999 &lpar;$500 off&rpar;](https://appleinsider.com/articles/25/10/23/blowout-deal-m3-macbook-air-13-inch-24gb-ram-plunges-to-999-500-off?utm_source=rss)
- - [Data center startup Crusoe raised $1.4B led by Mubadala and Valor, more than tripling its valuation to $10B+ in one year and taking its total funding to $3.9B &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/251023/p32#a251023p32)
- - [Meet Mico, Microsoft&amp;#8217;s AI version of Clippy](https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy)
- - [Copilot is getting more personality with a ‘real talk’ mode and group chats](https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features)<!-- TECH:END -->
+ - [VideoShops, an affiliate retail platform that lets creators start personalized storefronts with no minimum follower count, raised a $42M seed &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251023/p35#a251023p35)
+ - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)
+ - [Elden Ring on the Switch 2 is delayed until 2026](https://www.theverge.com/games/805381/elden-ring-tarnished-edition-nintendo-switch-2-delay)
+ - [Microsoft unveils Mico, a character that responds with real-time expressions when talked to, now on by default in Copilot&#39;s voice mode in the US, UK, and Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p34#a251023p34)
+ - [Microsoft updates Copilot to add Copilot Groups, enabling up to 32 people to collaborate in a session, and a &quot;real talk&quot; mode to add more personality to Copilot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p33#a251023p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

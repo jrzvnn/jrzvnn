@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Andrew Cuomo Campaign Is All in on MAGA Influencers](https://www.wired.com/story/andrew-cuomo-campaign-maga-influencers/)
- - [Cyprus&#39;s financial regulator grants a crypto license to Revolut, allowing the startup to offer crypto services across the EU under new regulations &lpar;Elizabeth Howcroft/Reuters&rpar;](http://www.techmeme.com/251023/p25#a251023p25)
+ - [President Trump pardons convicted Binance founder Changpeng Zhao, following months of efforts by Zhao to boost the Trump family&#39;s World Liberty Financial &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p27#a251023p27)
+ - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)
  - [Vimeo is upgrading support for Apple Vision Pro 3D video](https://appleinsider.com/articles/25/10/23/vimeo-is-upgrading-support-for-apple-vision-pro-3d-video?utm_source=rss)
- - [Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial](https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection)
- - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)<!-- TECH:END -->
+ - [Source: Suno hit ~$150M in ARR from subscriptions to its app, up nearly 4x YoY; it has $10 and $30 per month subscription tiers, implying 5M+ subscribers &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251023/p26#a251023p26)
+ - [No one, even Apple, may be able to resist Elon Musk&#39;s Starlink](https://appleinsider.com/articles/25/10/23/no-one-even-apple-may-be-able-to-resist-elon-musks-starlink?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese robovan startup Neolix raised $600M led by UAE-based Stone Venture without disclosing its valuation, ahead of a potential Hong Kong IPO as soon as 2026 &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251023/p15#a251023p15)
- - [Ukraine says it has now deployed 30K free physical security keys, called YubiKeys, including 22K to access battle system Delta, up from ~10K in April 2022 &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/251023/p14#a251023p14)
- - [Europe&#39;s startup ecosystem, which had 35,000 early-stage companies in the EU and the UK in 2024, per Atomico, is hindered by complex and varying regulations &lpar;Niki Kitsantonis/New York Times&rpar;](http://www.techmeme.com/251023/p13#a251023p13)
- - [Best Internet Providers in Denver, Colorado](https://www.cnet.com/home/internet/best-internet-providers-in-denver-co/#ftag=CAD590a51e)
- - [How to Manage Cat Allergies—Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/how-to-live-with-a-cat-if-youre-allergic/)<!-- TECH:END -->
+ - [AI creative studio Wonder Studios, backed by OpenAI and Google DeepMind execs, raised a $12M seed led by Atomico and aims to release its first content in 2026 &lpar;Najat Kantouar/Wall Street Journal&rpar;](http://www.techmeme.com/251023/p16#a251023p16)
+ - [OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas](https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates)
+ - [Keeper Review &lpar;2025&rpar;: Enterprise-Level Password Management for Everyone](https://www.wired.com/review/keeper-password-manager-2025/)
+ - [ChatGPT’s Horny Era Could Be Its Stickiest Yet](https://www.wired.com/story/chatgpt-horny-era/)
+ - [Chinese robovan startup Neolix raised $600M led by UAE-based Stone Venture without disclosing its valuation, ahead of a potential Hong Kong IPO as soon as 2026 &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/251023/p15#a251023p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

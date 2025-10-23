@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike’s Robotic Shoe Gets Humans One Step Closer to Cyborg](https://www.wired.com/story/nike-project-amplify/)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Wyze’s budget-friendly video doorbell gets a six-month battery](https://www.theverge.com/news/804394/wyze-battery-video-doorbell-security-camera)
- - [Leica&amp;#8217;s new M camera drops its iconic rangefinder for an EVF](https://www.theverge.com/news/804840/leica-m-ev1-mirrorless-evf-camera-rangefinder-price-specs)
- - [Apple is considering buying HBO owner Warner Bros. to bolster its streaming catalog](https://appleinsider.com/articles/25/10/23/apple-is-considering-buying-hbo-owner-warner-bros-to-bolster-its-streaming-catalog?utm_source=rss)<!-- TECH:END -->
+ - [Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251023/p24#a251023p24)
+ - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)
+ - [Amazon relaunches its game streaming service Luna, available at no additional cost for Prime subscribers, and adds new beginner-friendly multiplayer games &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/251023/p23#a251023p23)
+ - [The Outer Worlds 2 Review: A Smarter, Stronger Sequel That Can&#39;t Decide on the Right Tone](https://www.cnet.com/tech/gaming/the-outer-worlds-2-review/#ftag=CAD590a51e)
+ - [44 of the Best Movies on Netflix You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

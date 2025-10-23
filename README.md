@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - 💣 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 😝 [King fruit](http://9gag.com/gag/a34eL78)
+ - 💣 [My spirit animal](http://9gag.com/gag/ary943d)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [In 2004, 32-year-old Ashley Revell from London sold every possession he had qclothes, car, even his name\u2014raising $135,300. Then, in a bold move captured on live TV, he placed it all on red at a Las Vegas roulette table](http://9gag.com/gag/a4PmLAd)<!-- MEMES:END -->
+ - 👉 [Pay attention to your surroundings if you&#39;re gonna commit a crime](http://9gag.com/gag/aqyB2Kv)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
- - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
- - 💣 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 💣 [Watching sports be like](http://9gag.com/gag/aW4PO66)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Pay attention to your surroundings if you&#39;re gonna commit a crime](http://9gag.com/gag/aqyB2Kv)<!-- MEMES:END -->
+ - 👉 [Apple cider process](http://9gag.com/gag/a6Z4yv9)<!-- MEMES:END -->
 
 ---
 

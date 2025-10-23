@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching sports be like](http://9gag.com/gag/aW4PO66)
- - 😝 [Too late](http://9gag.com/gag/axyQ2KM)
- - 💣 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
+ - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)<!-- MEMES:END -->
+ - 👉 [Teachers reacting to their myspace era](http://9gag.com/gag/aGy6RrX)<!-- MEMES:END -->
 
 ---
 

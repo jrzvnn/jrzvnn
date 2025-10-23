@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [THICC](http://9gag.com/gag/avy40wd)
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 💣 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
+ - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
+ - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [My spirit animal](http://9gag.com/gag/ary943d)<!-- MEMES:END -->
+ - 👉 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)<!-- MEMES:END -->
 
 ---
 

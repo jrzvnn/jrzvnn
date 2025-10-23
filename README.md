@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hmmmm..](http://9gag.com/gag/aMVDrEA)
- - 😝 [THICC](http://9gag.com/gag/avy40wd)
- - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 😝 [Apple cider process](http://9gag.com/gag/a6Z4yv9)
- - 👉 [About them sticks:](http://9gag.com/gag/a5Qvd0G)<!-- MEMES:END -->
+ - 😝 [Killer meltdown in court after receiving life sentence while his mother curses the victim&#39;s family](http://9gag.com/gag/a6Z4dKe)
+ - 😝 [Never provide a workaround for a company that is actively against you....](http://9gag.com/gag/an78YbB)
+ - 💣 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
+ - 😝 [Christina Ricci as Wednesday and Morticia Addams is a whole mood](http://9gag.com/gag/a0ezYvq)
+ - 👉 [Took me a sec](http://9gag.com/gag/a1mBZQ8)<!-- MEMES:END -->
 
 ---
 

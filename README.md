@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nike designed new gear to keep athletes cool in a warming world](https://www.theverge.com/news/805823/nike-peformance-apparel-heat-football)
  - [Filing: Strava voluntarily dismissed its patent lawsuit against Garmin, for allegedly infringing its heat map and segments features, just 21 days after filing &lpar;Ray Maker/DC Rainmaker&rpar;](http://www.techmeme.com/251023/p47#a251023p47)
  - [You can get three months of Audible’s subscription for $3](https://www.theverge.com/tech/805665/audible-premium-plus-subscription-deal-sale)
  - [Apple amongst US tech giants backing Trump&#39;s White House ballroom reno](https://appleinsider.com/articles/25/10/23/apple-amongst-us-tech-giants-backing-trumps-white-house-ballroom-reno?utm_source=rss)
- - [Anthropic and Google announce their cloud partnership worth tens of billions of dollars, giving Anthropic access to 1M TPUs and 1GW of capacity in 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251023/p46#a251023p46)
- - [Google is turning on the gas for its data centers](https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture)<!-- TECH:END -->
+ - [Anthropic and Google announce their cloud partnership worth tens of billions of dollars, giving Anthropic access to 1M TPUs and 1GW of capacity in 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251023/p46#a251023p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

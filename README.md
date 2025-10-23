@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 💣 [Mad Honey](http://9gag.com/gag/azxoL0K)
+ - 😝 [Catfish burger](http://9gag.com/gag/aGy6wKX)
+ - 😝 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
+ - 💣 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [The 9GAG lightning squad.](http://9gag.com/gag/awyP7gx)<!-- MEMES:END -->
+ - 👉 [Pay attention to your surroundings if you&#39;re gonna commit a crime](http://9gag.com/gag/aqyB2Kv)<!-- MEMES:END -->
 
 ---
 

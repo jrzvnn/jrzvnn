@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Super Micro&#39;s shares drop 5%+ after the server maker reports it expects $5B in Q1 revenue, down from its $6B to $7B guidance, due to &quot;design win upgrades&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251023/p30#a251023p30)
- - [White House Staffers Couldn&#39;t Care Less About the East Wing Demolition](https://www.wired.com/story/white-house-staffers-east-wing-demolition/)
- - [Eight Sleep adds an outage mode to its smart beds after complaints they were stuck at sweltering temperatures and in inclined positions during the AWS outage &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251023/p29#a251023p29)
- - [Sources and docs: the US DOJ charges Peter Williams, ex-director of zero-day vendor L3Harris&#39; Trenchant, with stealing trade secrets to sell to a Russian buyer &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p28#a251023p28)
- - [Hollywood is in love with microdramas, for all the wrong reasons](https://www.theverge.com/column/805250/hollywood-is-in-love-with-microdramas-for-all-the-wrong-reasons)<!-- TECH:END -->
+ - [Microsoft updates Copilot to add Copilot Groups, enabling up to 32 people to collaborate in a session, and a &quot;real talk&quot; mode to add more personality to Copilot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p33#a251023p33)
+ - [Blowout deal: M3 MacBook Air 13-inch 24GB RAM plunges to $999 &lpar;$500 off&rpar;](https://appleinsider.com/articles/25/10/23/blowout-deal-m3-macbook-air-13-inch-24gb-ram-plunges-to-999-500-off?utm_source=rss)
+ - [Data center startup Crusoe raised $1.4B led by Mubadala and Valor, more than tripling its valuation to $10B+ in one year and taking its total funding to $3.9B &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/251023/p32#a251023p32)
+ - [Meet Mico, Microsoft&amp;#8217;s AI version of Clippy](https://www.theverge.com/news/804106/microsoft-mico-copilot-ai-assistant-clippy)
+ - [Copilot is getting more personality with a ‘real talk’ mode and group chats](https://www.theverge.com/news/804122/microsoft-copilot-real-talk-mode-group-chats-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

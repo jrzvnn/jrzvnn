@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching sports be like](http://9gag.com/gag/aW4PO66)
- - 😝 [Too late](http://9gag.com/gag/axyQ2KM)
- - 💣 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
+ - 💣 [Hier kommt die Sonne.](http://9gag.com/gag/a9yZMrZ)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
  - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 

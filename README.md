@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 😝 [About them sticks:](http://9gag.com/gag/a5Qvd0G)
- - 💣 [My spirit animal](http://9gag.com/gag/ary943d)
+ - 😝 [King fruit](http://9gag.com/gag/a34eL78)
+ - 😝 [Mad Honey](http://9gag.com/gag/azxoL0K)
+ - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [What is life](http://9gag.com/gag/aAyqp0p)<!-- MEMES:END -->
+ - 👉 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)<!-- MEMES:END -->
 
 ---
 

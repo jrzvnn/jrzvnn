@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft asks its Xbox unit to hit 30% &quot;accountability margins&quot;, or profit margins, and Xbox canceled products, cut jobs, and raised prices to meet it &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p21#a251023p21)
- - [UnifyApps, which lets companies build AI chatbots by connecting SaaS apps and data, raised a $50M Series B led by WestBridge, after a $20M Series A in 2024 &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251023/p20#a251023p20)
- - [Bose QuietComfort Ultra Headphones Gen 2 Review: Major Fun](https://www.wired.com/review/bose-quietcomfort-ultra-headphones-2/)
- - [Anniversary iPhone 20 rumored to launch months earlier than expected](https://appleinsider.com/articles/25/10/23/anniversary-iphone-20-rumored-to-launch-months-earlier-than-expected?utm_source=rss)
- - [Email: Indian crypto exchange WazirX plans to resume operations on October 24, following a court-approved restructuring, after hackers stole $230M in July 2024 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/251023/p19#a251023p19)<!-- TECH:END -->
+ - [The ChatGPT Atlas browser still feels like Googling with extra steps](https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search)
+ - [ChatGPT Atlas hands-on: generally able to interpret instructions and navigate simple menus, but &quot;technical constraints on session length&quot; are a limiting factor &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/251023/p22#a251023p22)
+ - [GoPro Max 2 360 Camera Review: It’s Finally Here](https://www.wired.com/review/gopro-max-2-360-camera/)
+ - [Ledger’s new Nano is meant to be more than just a crypto wallet](https://www.theverge.com/news/801726/ledger-nano-gen-5-crypto-signer-ai-authentication-susan-kare)
+ - [Hands-free home security is here, thanks to ADT and Google — but it’ll cost you](https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

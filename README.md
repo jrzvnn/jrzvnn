@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The reason why fathers are indispensable in healthy family](http://9gag.com/gag/a2v9PNO)
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
  - 😝 [Took me a sec](http://9gag.com/gag/a1mBZQ8)
- - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 💣 [Mad Honey](http://9gag.com/gag/azxoL0K)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)<!-- MEMES:END -->
+ - 👉 [The 9GAG lightning squad.](http://9gag.com/gag/awyP7gx)<!-- MEMES:END -->
 
 ---
 

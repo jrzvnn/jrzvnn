@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just to make this clear](http://9gag.com/gag/aPAzyqG)
- - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
- - 💣 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
+ - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 💣 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
+ - 👉 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)<!-- MEMES:END -->
 
 ---
 

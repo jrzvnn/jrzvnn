@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Stranger Things series finale is coming to theaters](https://www.theverge.com/news/805261/netflix-stranger-things-5-finale-theaters)
  - [Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251023/p24#a251023p24)
  - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)
  - [Amazon relaunches its game streaming service Luna, available at no additional cost for Prime subscribers, and adds new beginner-friendly multiplayer games &lpar;Ian Carlos Campbell/Engadget&rpar;](http://www.techmeme.com/251023/p23#a251023p23)
- - [The Outer Worlds 2 Review: A Smarter, Stronger Sequel That Can&#39;t Decide on the Right Tone](https://www.cnet.com/tech/gaming/the-outer-worlds-2-review/#ftag=CAD590a51e)
- - [44 of the Best Movies on Netflix You Should Stream Right Now](https://www.cnet.com/tech/services-and-software/best-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Outer Worlds 2 Review: A Smarter, Stronger Sequel That Can&#39;t Decide on the Right Tone](https://www.cnet.com/tech/gaming/the-outer-worlds-2-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

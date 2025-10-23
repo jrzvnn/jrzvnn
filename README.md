@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic and Google officially announce their cloud partnership worth tens of billions, giving Anthropic access to 1M TPUs and 1 GW of capacity in 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251023/p46#a251023p46)
+ - [Google is turning on the gas for its data centers](https://www.theverge.com/news/805682/google-data-center-gas-power-plant-carbon-capture)
  - [Intel reports Q3 revenue up 3% YoY to $13.7B, vs. $13.2B est., and net income of $4.1B, vs. a net loss of $16.6B in Q3 2024; INTC jumps 5%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251023/p45#a251023p45)
  - [EA partners with Stability AI for &amp;#8216;transformative&amp;#8217; AI game-making tools](https://www.theverge.com/news/805777/ea-stability-ai-transformative-game-development-tools)
- - [Apple&#39;s Houston AI server plant is shipping hardware to data centers early](https://appleinsider.com/articles/25/10/23/apples-houston-ai-server-plant-is-shipping-hardware-to-data-centers-early?utm_source=rss)
- - [Trump says he canceled plans for a &quot;surge&quot; of National Guard to San Francisco after speaking to &quot;great people like Jensen Huang, Marc Benioff, and others&quot; &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/251023/p44#a251023p44)
- - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)<!-- TECH:END -->
+ - [Apple&#39;s Houston AI server plant is shipping hardware to data centers early](https://appleinsider.com/articles/25/10/23/apples-houston-ai-server-plant-is-shipping-hardware-to-data-centers-early?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

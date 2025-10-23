@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anniversary iPhone 20 rumored to launch months earlier than expected](https://appleinsider.com/articles/25/10/23/anniversary-iphone-20-rumored-to-launch-months-earlier-than-expected?utm_source=rss)
+ - [Email: Indian crypto exchange WazirX plans to resume operations on October 24, following a court-approved restructuring, after hackers stole $230M in July 2024 &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/251023/p19#a251023p19)
  - [How Long Do Vacuums Last? &lpar;2025&rpar;](https://www.wired.com/story/how-long-do-vacuums-last/)
  - [Chinese state media: China&#39;s new five-year development plan aims to achieve tech self-reliance and expand the domestic market, after a four-day CCP conclave &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p18#a251023p18)
- - [Alibaba launches a free consumer-focused AI chatbot in its Quark app, powered by Qwen 3, and plans to open pre-sales for its $660 Quark AI Glasses on October 24 &lpar;Reuters&rpar;](http://www.techmeme.com/251023/p17#a251023p17)
- - [AI creative studio Wonder Studios, backed by OpenAI and Google DeepMind execs, raised a $12M seed led by Atomico and aims to release its first content in 2026 &lpar;Najat Kantouar/Wall Street Journal&rpar;](http://www.techmeme.com/251023/p16#a251023p16)
- - [OpenAI teases a string of updates for its AI-powered browser, ChatGPT Atlas](https://www.theverge.com/news/805160/openai-chatgpt-atlas-updates)<!-- TECH:END -->
+ - [The 20 Best Apple TV Shows You&#39;re Probably Not Watching](https://www.cnet.com/tech/services-and-software/best-apple-tv-shows-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

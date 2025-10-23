@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ChatGPT Atlas browser still feels like Googling with extra steps](https://www.theverge.com/ai-artificial-intelligence/804931/openai-chatgpt-atlas-hands-on-google-search)
- - [ChatGPT Atlas hands-on: generally able to interpret instructions and navigate simple menus, but &quot;technical constraints on session length&quot; are a limiting factor &lpar;Kyle Orland/Ars Technica&rpar;](http://www.techmeme.com/251023/p22#a251023p22)
- - [GoPro Max 2 360 Camera Review: It’s Finally Here](https://www.wired.com/review/gopro-max-2-360-camera/)
- - [Ledger’s new Nano is meant to be more than just a crypto wallet](https://www.theverge.com/news/801726/ledger-nano-gen-5-crypto-signer-ai-authentication-susan-kare)
- - [Hands-free home security is here, thanks to ADT and Google — but it’ll cost you](https://www.theverge.com/tech/803867/adt-plus-home-security-google-nest-smart-home)<!-- TECH:END -->
+ - [Nike’s Robotic Shoe Gets Humans One Step Closer to Cyborg](https://www.wired.com/story/nike-project-amplify/)
+ - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
+ - [Wyze’s budget-friendly video doorbell gets a six-month battery](https://www.theverge.com/news/804394/wyze-battery-video-doorbell-security-camera)
+ - [Leica&amp;#8217;s new M camera drops its iconic rangefinder for an EVF](https://www.theverge.com/news/804840/leica-m-ev1-mirrorless-evf-camera-rangefinder-price-specs)
+ - [Apple is considering buying HBO owner Warner Bros. to bolster its streaming catalog](https://appleinsider.com/articles/25/10/23/apple-is-considering-buying-hbo-owner-warner-bros-to-bolster-its-streaming-catalog?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

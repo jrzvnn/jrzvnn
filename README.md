@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Sources: Adobe held talks to acquire Synthesia, which makes AI tools that generate video avatars of people, for ~$3B; the startup was valued at $2.1B in January &lpar;Katie Roof/The Information&rpar;](http://www.techmeme.com/251023/p42#a251023p42)
- - [Nike says its first &amp;#8216;powered footwear&amp;#8217; is like an e-bike for your feet](https://www.theverge.com/news/805664/nike-powered-show-project-amplify)
- - [Source: SoftBank held talks about acquiring Agility Robotics for $900M+ before participating in Agility&#39;s funding round valuing the startup at $1.75B pre-money &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251023/p41#a251023p41)<!-- TECH:END -->
+ - [Apple&#39;s Houston AI server plant is shipping hardware to data centers early](https://appleinsider.com/articles/25/10/23/apples-houston-ai-server-plant-is-shipping-hardware-to-data-centers-early?utm_source=rss)
+ - [Trump says he canceled plans for a &quot;surge&quot; of National Guard to San Francisco after speaking to &quot;great people like Jensen Huang, Marc Benioff, and others&quot; &lpar;Kate Rogers/CNBC&rpar;](http://www.techmeme.com/251023/p44#a251023p44)
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [Our Favorite Compact Pod Coffee Maker Is $30 Off](https://www.wired.com/story/keurig-k-mini-deal-1025/)
+ - [Apple&#39;s Houston manufacturing facility, originally scheduled to open in 2026, is now shipping AI servers that power Apple Intelligence and Private Cloud Compute &lpar;Brooke Singman/Fox Business&rpar;](http://www.techmeme.com/251023/p43#a251023p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

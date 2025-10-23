@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VideoShops, an affiliate retail platform that lets creators start personalized storefronts with no minimum follower count, raised a $42M seed &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251023/p35#a251023p35)
+ - [Anthropic’s Claude chatbot is getting a ‘memory’ upgrade](https://www.theverge.com/news/804124/anthropic-claude-ai-memory-upgrade-all-subscribers)
  - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)
+ - [VideoShops, an affiliate retail platform that lets creators start personalized storefronts with no minimum follower count, raised a $42M seed &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251023/p35#a251023p35)
  - [Elden Ring on the Switch 2 is delayed until 2026](https://www.theverge.com/games/805381/elden-ring-tarnished-edition-nintendo-switch-2-delay)
- - [Microsoft unveils Mico, a character that responds with real-time expressions when talked to, now on by default in Copilot&#39;s voice mode in the US, UK, and Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p34#a251023p34)
- - [Microsoft updates Copilot to add Copilot Groups, enabling up to 32 people to collaborate in a session, and a &quot;real talk&quot; mode to add more personality to Copilot &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p33#a251023p33)<!-- TECH:END -->
+ - [Microsoft unveils Mico, a character that responds with real-time expressions when talked to, now on by default in Copilot&#39;s voice mode in the US, UK, and Canada &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251023/p34#a251023p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

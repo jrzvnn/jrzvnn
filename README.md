@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Super Micro&#39;s shares drop 5%+ after the server maker reports it expects $5B in Q1 revenue, down from its $6B to $7B guidance, due to &quot;design win upgrades&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251023/p30#a251023p30)
+ - [White House Staffers Couldn&#39;t Care Less About the East Wing Demolition](https://www.wired.com/story/white-house-staffers-east-wing-demolition/)
  - [Eight Sleep adds an outage mode to its smart beds after complaints they were stuck at sweltering temperatures and in inclined positions during the AWS outage &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251023/p29#a251023p29)
  - [Sources and docs: the US DOJ charges Peter Williams, ex-director of zero-day vendor L3Harris&#39; Trenchant, with stealing trade secrets to sell to a Russian buyer &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p28#a251023p28)
- - [Hollywood is in love with microdramas, for all the wrong reasons](https://www.theverge.com/column/805250/hollywood-is-in-love-with-microdramas-for-all-the-wrong-reasons)
- - [A Steve Jobs threat is the main reason Corning agreed to make iPhone screens](https://appleinsider.com/articles/25/10/23/a-steve-jobs-threat-is-the-main-reason-corning-agreed-to-make-iphone-screens?utm_source=rss)
- - [Amazon&amp;#8217;s latest attempt at selling stuff with AI is the &amp;#8216;Help me decide&amp;#8217; button](https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide)<!-- TECH:END -->
+ - [Hollywood is in love with microdramas, for all the wrong reasons](https://www.theverge.com/column/805250/hollywood-is-in-love-with-microdramas-for-all-the-wrong-reasons)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

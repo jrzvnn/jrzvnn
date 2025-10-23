@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nike says its first &amp;#8216;powered footwear&amp;#8217; is like an e-bike for your feet](https://www.theverge.com/news/805664/nike-powered-show-project-amplify)
  - [Source: SoftBank held talks about acquiring Agility Robotics for $900M+ before participating in Agility&#39;s funding round valuing the startup at $1.75B pre-money &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251023/p41#a251023p41)
  - [The 26 Best Movies on Apple TV Right Now: WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [Anthropic says Claude&#39;s memory feature, initially available for Team and Enterprise users, is rolling out to Pro and Max subscribers &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251023/p40#a251023p40)
- - [Fallout 4 is getting a new edition just in time for the TV show](https://www.theverge.com/news/805612/fallout-4-anniversary-edition-release-date-trailer)
- - [JBL’s rugged Charge 6 speaker is down to one of its lowest prices to date](https://www.theverge.com/tech/805472/jbl-charge-6-speaker-resident-evil-village-ps5-deal-sale)<!-- TECH:END -->
+ - [Fallout 4 is getting a new edition just in time for the TV show](https://www.theverge.com/news/805612/fallout-4-anniversary-edition-release-date-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

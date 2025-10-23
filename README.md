@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vimeo is upgrading support for Apple Vision Pro 3D video](https://appleinsider.com/articles/25/10/23/vimeo-is-upgrading-support-for-apple-vision-pro-3d-video?utm_source=rss)
+ - [Fujifilm updates its entry-level X-T30 with 6K video and a film simulation dial](https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection)
  - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)
  - [Mega Evolution is coming to Pokémon TCG Pocket](https://www.theverge.com/entertainment/805244/pokemon-tcg-pocket-mega-rising)
- - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)
- - [The Stranger Things series finale is coming to theaters](https://www.theverge.com/news/805261/netflix-stranger-things-5-finale-theaters)
- - [Internal memo: TikTok plans leadership changes, moving two teams under ByteDance veteran Fiona Zhi and undoing earlier efforts to empower Western executives &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/251023/p24#a251023p24)<!-- TECH:END -->
+ - [The Best Hearing Aids of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbus, Leonardo, and Thales agree to a deal to combine their space businesses, promising &quot;significant synergies&quot; in a bid to build a European SpaceX competitor &lpar;Financial Times&rpar;](http://www.techmeme.com/251023/p12#a251023p12)
  - [OpenAI, Oracle, and Vantage Data Centers plan to build a data center in Wisconsin called Lighthouse, costing $15B+ and set to open in 2028, as part of Stargate &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251023/p11#a251023p11)
  - [This ‘Privacy Browser’ Has Dangerous Hidden Features](https://www.wired.com/story/universe-browser-malware-gambling-networks/)
  - [Lawyers for a teen who died by suicide after allegedly discussing methods with ChatGPT call OpenAI&#39;s request for all memorial documents &quot;intentional harassment&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251023/p10#a251023p10)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 23 #599](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-23-599/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 23, #395](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-23-395/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 23 #599](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-23-599/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

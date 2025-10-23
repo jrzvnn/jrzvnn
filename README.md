@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Apple cider process](http://9gag.com/gag/a6Z4yv9)
- - 😝 [Watching sports be like](http://9gag.com/gag/aW4PO66)
- - 💣 [Mildly interesting](http://9gag.com/gag/aVv4Qbv)
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
+ - 💣 [Air Quality yesterday](http://9gag.com/gag/avy4Z6n)
  - 😝 [Halloween squad: Daryl, Negan\u2026 me? \ud83d\ude31](http://9gag.com/gag/a0ezPwz)
- - 👉 [Big brain time](http://9gag.com/gag/aAyqpvE)<!-- MEMES:END -->
+ - 👉 [That looks expensive](http://9gag.com/gag/aQzBnLq)<!-- MEMES:END -->
 
 ---
 

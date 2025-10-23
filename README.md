@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europe&#39;s startup ecosystem, which had 35,000 early-stage companies in the EU and the UK in 2024, per Atomico, is hindered by complex and varying regulations &lpar;Niki Kitsantonis/New York Times&rpar;](http://www.techmeme.com/251023/p13#a251023p13)
+ - [How to Manage Cat Allergies—Experts Weigh In &lpar;2025&rpar;](https://www.wired.com/story/how-to-live-with-a-cat-if-youre-allergic/)
+ - [The Espresso Pro portable monitor is a revolution for remote work](https://www.theverge.com/reviews/805112/the-espresso-pro-portable-monitor-is-a-revolution-for-remote-work)
  - [Airbus, Leonardo, and Thales agree to a deal to combine their space businesses, promising &quot;significant synergies&quot; in a bid to build a European SpaceX competitor &lpar;Financial Times&rpar;](http://www.techmeme.com/251023/p12#a251023p12)
- - [OpenAI, Oracle, and Vantage Data Centers plan to build a data center in Wisconsin called Lighthouse, costing $15B+ and set to open in 2028, as part of Stargate &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251023/p11#a251023p11)
- - [This ‘Privacy Browser’ Has Dangerous Hidden Features](https://www.wired.com/story/universe-browser-malware-gambling-networks/)
- - [Lawyers for a teen who died by suicide after allegedly discussing methods with ChatGPT call OpenAI&#39;s request for all memorial documents &quot;intentional harassment&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251023/p10#a251023p10)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 23 #599](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-23-599/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI, Oracle, and Vantage Data Centers plan to build a data center in Wisconsin called Lighthouse, costing $15B+ and set to open in 2028, as part of Stargate &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251023/p11#a251023p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

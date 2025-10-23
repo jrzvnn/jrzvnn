@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JBL’s rugged Charge 6 speaker is down to one of its lowest prices to date](https://www.theverge.com/tech/805472/jbl-charge-6-speaker-resident-evil-village-ps5-deal-sale)
+ - [Trump pardons disgraced Binance founder Changpeng Zhao](https://www.theverge.com/news/805523/trump-pardons-disgraced-binance-founder-changpeng-zhao)
  - [PUBG maker Krafton unveils an &quot;AI First&quot; strategy, investing ~$70M to build a GPU cluster to automate AI workflows and strengthen AI R&amp;D and in-game AI services &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251023/p39#a251023p39)
  - [OpenAI adds Sky team to give ChatGPT real control on your Mac](https://appleinsider.com/articles/25/10/23/openai-adds-sky-team-to-give-chatgpt-real-control-on-your-mac?utm_source=rss)
- - [Cosmic Orange iPhone 17 Pro&#39;s color-changing is probably not the owner&#39;s fault](https://appleinsider.com/articles/25/10/23/cosmic-orange-iphone-17-pros-color-changing-is-probably-not-the-owners-fault?utm_source=rss)
- - [PUBG maker Krafton is turning into an &amp;#8216;AI first&amp;#8217; developer](https://www.theverge.com/news/805509/krafton-pubg-ai-first-developer-agentic-gpu-cluster)
- - [Shades of Epic vs. Apple: UK App Store users win $2 billion lawsuit](https://appleinsider.com/articles/25/10/23/shades-of-epic-vs-apple-uk-app-store-users-win-2-billion-lawsuit?utm_source=rss)<!-- TECH:END -->
+ - [Cosmic Orange iPhone 17 Pro&#39;s color-changing is probably not the owner&#39;s fault](https://appleinsider.com/articles/25/10/23/cosmic-orange-iphone-17-pros-color-changing-is-probably-not-the-owners-fault?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

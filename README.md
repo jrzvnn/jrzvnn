@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple warns Europe could force it to turn off key privacy feature](https://appleinsider.com/articles/25/10/23/apple-warns-europe-could-force-it-to-turn-off-key-privacy-feature?utm_source=rss)
+ - [Microsoft Edge’s new Copilot Mode turns on more AI features](https://www.theverge.com/news/805833/microsoft-edge-copilot-mode-ai-launch)
  - [Nintendo&amp;#8217;s chips make this Lego Game Boy upgrade kit the most authentic](https://www.theverge.com/games/805673/nintendos-chips-make-this-lego-game-boy-upgrade-kit-the-most-authentic)
  - [EA strikes a partnership with Stability AI to build game developer tools that serve as &quot;smarter paintbrushes&quot; &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251023/p50#a251023p50)
- - [Filing: Applied Materials plans to cut ~4% of its global workforce and expects the layoffs to cost $160M to $180M; it had 36,100 employees as of the end of July &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/251023/p49#a251023p49)
- - [Amazon blames a rare software bug and &quot;faulty automation&quot; for this week&#39;s massive AWS glitch, and says it has turned off the flawed automation worldwide &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251023/p48#a251023p48)
- - [Nike designed new gear to keep athletes cool in a warming world](https://www.theverge.com/news/805823/nike-peformance-apparel-heat-football)<!-- TECH:END -->
+ - [Filing: Applied Materials plans to cut ~4% of its global workforce and expects the layoffs to cost $160M to $180M; it had 36,100 employees as of the end of July &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/251023/p49#a251023p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

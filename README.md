@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eight Sleep adds an outage mode to its smart beds after complaints they were stuck at sweltering temperatures and in inclined positions during the AWS outage &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251023/p29#a251023p29)
+ - [Sources and docs: the US DOJ charges Peter Williams, ex-director of zero-day vendor L3Harris&#39; Trenchant, with stealing trade secrets to sell to a Russian buyer &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p28#a251023p28)
  - [Hollywood is in love with microdramas, for all the wrong reasons](https://www.theverge.com/column/805250/hollywood-is-in-love-with-microdramas-for-all-the-wrong-reasons)
  - [A Steve Jobs threat is the main reason Corning agreed to make iPhone screens](https://appleinsider.com/articles/25/10/23/a-steve-jobs-threat-is-the-main-reason-corning-agreed-to-make-iphone-screens?utm_source=rss)
- - [Amazon&amp;#8217;s latest attempt at selling stuff with AI is the &amp;#8216;Help me decide&amp;#8217; button](https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide)
- - [President Trump pardons convicted Binance founder Changpeng Zhao, following months of efforts by Zhao to boost the Trump family&#39;s World Liberty Financial &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251023/p27#a251023p27)
- - [Ugreen NASync DH2300 review: Easily ditch Google Drive and iCloud storage](https://appleinsider.com/articles/25/10/23/ugreen-nasync-dh2300-review-easily-ditch-google-drive-and-icloud-storage?utm_source=rss)<!-- TECH:END -->
+ - [Amazon&amp;#8217;s latest attempt at selling stuff with AI is the &amp;#8216;Help me decide&amp;#8217; button](https://www.theverge.com/news/805348/amazon-ai-shopping-help-me-decide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

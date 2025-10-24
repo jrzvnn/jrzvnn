@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epomaker’s surprisingly great P75 keyboard is on sale for just $79.99](https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale)
  - [Netflix shuts down its Squid Game mobile studio](https://www.theverge.com/news/806303/netflix-squid-game-unleashed-boss-fight-entertainment-studio-shut-down)
  - [Nike is trying to sell you ‘mind-body’ shoes](https://www.theverge.com/news/806259/nike-mind-neuroscience-footwear-foam-nodes)
  - [What is Liquidmetal, and why has Apple been interested in it for a decade?](https://appleinsider.com/articles/25/10/24/what-is-liquidmetal-and-why-has-apple-been-interested-in-it-for-a-decade?utm_source=rss)
- - [Tether CEO Paolo Ardoino says the company expects to earn close to $15B in profit in 2025, up from around $13B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251024/p12#a251024p12)
- - [Amazon slashes new M5 iPad Pro by up to $100 in weekend sale](https://appleinsider.com/articles/25/10/24/amazon-slashes-new-m5-ipad-pro-by-up-to-100-in-weekend-sale?utm_source=rss)<!-- TECH:END -->
+ - [Tether CEO Paolo Ardoino says the company expects to earn close to $15B in profit in 2025, up from around $13B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251024/p12#a251024p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

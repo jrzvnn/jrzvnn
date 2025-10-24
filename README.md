@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
  - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 💣 [I would definitely go there just for the experience.](http://9gag.com/gag/a5QvPrE)
+ - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
  - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
  - 👉 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)<!-- MEMES:END -->
 

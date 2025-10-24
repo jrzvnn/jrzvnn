@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)
  - 😝 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
- - 💣 [King fruit](http://9gag.com/gag/a34eL78)
- - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)
+ - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
 
 ---
 

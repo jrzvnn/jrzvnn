@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [That looks expensive](http://9gag.com/gag/aQzBnLq)
- - 💣 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 👉 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)<!-- MEMES:END -->
+ - 😝 [Autumn \ud83c\udf41](http://9gag.com/gag/ayNZdWY)
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Disable deathmatch](http://9gag.com/gag/a0ezjLz)
+ - 👉 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)<!-- MEMES:END -->
 
 ---
 

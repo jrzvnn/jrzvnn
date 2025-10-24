@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon slashes new M5 iPad Pro by up to $100 in weekend sale](https://appleinsider.com/articles/25/10/24/amazon-slashes-new-m5-ipad-pro-by-up-to-100-in-weekend-sale?utm_source=rss)
+ - [Microsoft Outlook is getting an AI overhaul under new leaders](https://www.theverge.com/tech/806162/microsoft-outlook-ai-overhaul-notepad)
  - [Nike’s inflatable puffer jacket de-puffs to cool you down](https://www.theverge.com/news/806188/nike-therma-fit-air-milano-jacket-inflatable-puffer)
  - [Automattic files counterclaims against WP Engine&#39;s October 2024 lawsuit and alleges that WP Engine has been abusing the WordPress trademark &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251024/p11#a251024p11)
- - [What is Liquidmetal, and why has Apple been interested in it for a decade?](https://appleinsider.com/articles/25/10/24/what-is-liquidmetal-and-why-has-apple-been-interested-in-it-for-a-decade?utm_source=rss)
- - [Inside the Messy, Accidental Kryptos Reveal](https://www.wired.com/story/kryptos-code-reveal/)
- - [New York-based Valthos, which is developing AI tools to detect and prevent AI-enabled bioweapon attacks, raised $30M from OpenAI, Founders Fund, and Lux Capital &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251024/p10#a251024p10)<!-- TECH:END -->
+ - [What is Liquidmetal, and why has Apple been interested in it for a decade?](https://appleinsider.com/articles/25/10/24/what-is-liquidmetal-and-why-has-apple-been-interested-in-it-for-a-decade?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

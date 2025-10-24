@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump’s got Big Tech and crypto bankrolling White House ballroom](https://www.theverge.com/news/806027/trumps-got-big-tech-and-crypto-bankrolling-white-house-ballroom)
+ - [Dell Tower Plus Review: A Hybrid Work and Gaming Desktop](https://www.wired.com/review/dell-tower-plus-ebt2250/)
  - [IBM says it was able to run a key quantum computing algorithm in real-time on commonly available field programmable gate array chips made by AMD &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251024/p5#a251024p5)
  - [The Best Audio Interfaces of 2025: Universal Audio and More](https://www.wired.com/gallery/best-audio-interfaces/)
- - [Instagram and Facebook are breaking the EU’s illegal content rules](https://www.theverge.com/news/806019/meta-facebook-instagram-tiktok-eu-dsa-findings)
- - [In Orbit You Have to Slow Down to Speed Up](https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/)
- - [Sources: JPMorgan plans to allow institutional clients globally to use their holdings of bitcoin and ether as collateral for loans by end of year &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251024/p4#a251024p4)<!-- TECH:END -->
+ - [Instagram and Facebook are breaking the EU’s illegal content rules](https://www.theverge.com/news/806019/meta-facebook-instagram-tiktok-eu-dsa-findings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

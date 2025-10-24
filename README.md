@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your perspective is everything](http://9gag.com/gag/a4Pmd4Z)
- - 😝 [16yr old Meya \u00c5berg, who was r**** by an illegal migrant in Sweden, bravely speaks out after a judge ruled he could not be punished because the r**** did not last long enough](http://9gag.com/gag/aO8AmM2)
- - 💣 [For all the mechanics out there](http://9gag.com/gag/avy4gBb)
- - 😝 [Her `Engrish` is sadly probably better than some of the native speakers in that city.](http://9gag.com/gag/azxoVBz)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 💣 [A man was enjoying a quiet coffee with his daughter at Starbucks. Bunch of women thought he was a predator with an underage girl, spread the photos on Facebook,created groups to track him, get his employment details etc, till someone told them that they are father and daughter](http://9gag.com/gag/a9yZLro)
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 👉 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
  - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [King fruit](http://9gag.com/gag/a34eL78)
- - 💣 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 💣 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)
  - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
- - 👉 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)<!-- MEMES:END -->
+ - 👉 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)<!-- MEMES:END -->
 
 ---
 

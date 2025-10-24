@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside iMovie for Mac -- far more powerful than it&#39;s given credit for](https://appleinsider.com/articles/25/10/24/inside-imovie-for-mac----far-more-powerful-than-its-given-credit-for?utm_source=rss)
+ - [The EU accuses Meta and TikTok of violating their obligations to give researchers adequate access to public data on their platforms under the DSA &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251024/p3#a251024p3)
+ - [EU accuses Meta under DSA of failing to give users easy ways to flag illegal content and adequate tools to appeal moderation decisions, in preliminary findings &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/251024/p2#a251024p2)
  - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
- - [How Data Centers Actually Work](https://www.wired.com/story/uncanny-valley-podcast-how-data-centers-actually-work/)
- - [&#39;Weapons&#39; Is Now Streaming: Here&#39;s How to Watch the Hit Horror Film](https://www.cnet.com/tech/services-and-software/weapons-is-now-streaming-heres-how-to-watch-hit-horror-film/#ftag=CAD590a51e)
- - [Meet the Palestinian Teens Trying to Win Robotics Gold](https://www.wired.com/story/meet-the-palestinian-teens-trying-to-win-robotics-gold/)
- - [How Prankster Oobah Butler Convinced Venture Capitalists to Give Him Over $1 Million](https://www.wired.com/story/oobah-butler-documentary-interview/)<!-- TECH:END -->
+ - [How Data Centers Actually Work](https://www.wired.com/story/uncanny-valley-podcast-how-data-centers-actually-work/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

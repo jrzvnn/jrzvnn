@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
  - 😝 [That looks expensive](http://9gag.com/gag/aQzBnLq)
- - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 💣 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
- - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 💣 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
  - 👉 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)<!-- MEMES:END -->
 
 ---

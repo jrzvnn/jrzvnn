@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [A man was enjoying a quiet coffee with his daughter at Starbucks. Bunch of women thought he was a predator with an underage girl, spread the photos on Facebook,created groups to track him, get his employment details etc, till someone told them that they are father and daughter](http://9gag.com/gag/a9yZLro)
- - 💣 [King fruit](http://9gag.com/gag/a34eL78)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
  - 😝 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)
- - 👉 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)<!-- MEMES:END -->
+ - 💣 [King fruit](http://9gag.com/gag/a34eL78)
+ - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
 
 ---
 

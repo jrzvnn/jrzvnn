@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [1 cat cat is good, 2 cats are better.](http://9gag.com/gag/aW4PM6A)
- - 👉 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
+ - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
+ - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
+ - 💣 [From the Achives](http://9gag.com/gag/aXPQwEd)
+ - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 

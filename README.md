@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Prankster Oobah Butler Convinced Venture Capitalists to Give Him Over $1 Million](https://www.wired.com/story/oobah-butler-documentary-interview/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 24, #866](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-24-866/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 24, #600](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-24-600/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 24, #396](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-24-396/#ftag=CAD590a51e)
- - [I Tested HP&#39;s Midrange Omen 16 Gaming Laptop and Like Its Good Looks and 1080p Performance](https://www.cnet.com/tech/computing/i-tested-hps-midrange-omen-16-gaming-laptop-and-like-its-good-looks-and-1080p-performance/#ftag=CAD590a51e)
- - [World Series 2025: How to Watch Dodgers vs. Blue Jays Game 1 Today](https://www.cnet.com/tech/services-and-software/world-series-2025-how-to-watch-dodgers-vs-blue-jays-game-1-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I Tested HP&#39;s Midrange Omen 16 Gaming Laptop and Like Its Good Looks and 1080p Performance](https://www.cnet.com/tech/computing/i-tested-hps-midrange-omen-16-gaming-laptop-and-like-its-good-looks-and-1080p-performance/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

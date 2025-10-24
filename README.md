@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [That&#39;s the fifth sense](https://www.reddit.com/r/funny/comments/1ofcrno/thats_the_fifth_sense/)
  - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 😝 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)
- - 👉 [`Anime is so unrealistic.` Then this diva shows up...](http://9gag.com/gag/aD2rGd7)<!-- MEMES:END -->
+ - 💣 [From the Achives](http://9gag.com/gag/aXPQwEd)
+ - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 👉 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)<!-- MEMES:END -->
 
 ---
 

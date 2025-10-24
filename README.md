@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Audio Interfaces of 2025: Universal Audio and More](https://www.wired.com/gallery/best-audio-interfaces/)
+ - [Instagram and Facebook are breaking the EU’s illegal content rules](https://www.theverge.com/news/806019/meta-facebook-instagram-tiktok-eu-dsa-findings)
+ - [In Orbit You Have to Slow Down to Speed Up](https://www.wired.com/story/in-orbit-you-have-to-slow-down-to-speed-up/)
  - [Sources: JPMorgan plans to allow institutional clients globally to use their holdings of bitcoin and ether as collateral for loans by end of year &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/251024/p4#a251024p4)
- - [How iCloud backups helped expose a mob and NBA poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)
- - [Inside iMovie for Mac -- far more powerful than it&#39;s given credit for](https://appleinsider.com/articles/25/10/24/inside-imovie-for-mac----far-more-powerful-than-its-given-credit-for?utm_source=rss)
- - [The EU accuses Meta and TikTok of violating their obligations to give researchers adequate access to public data on their platforms under the DSA &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251024/p3#a251024p3)
- - [EU accuses Meta under DSA of failing to give users easy ways to flag illegal content and adequate tools to appeal moderation decisions, in preliminary findings &lpar;Kim Mackrael/Wall Street Journal&rpar;](http://www.techmeme.com/251024/p2#a251024p2)<!-- TECH:END -->
+ - [How iCloud backups helped expose a mob and NBA poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple may turn off App Tracking Transparency in Europe due to &quot;intense lobbying efforts&quot; in Germany and other countries over alleged anticompetitive conduct &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251023/p55#a251023p55)
  - [Sources: Snap is in talks with investors, including Saudi Arabia&#39;s Public Investment Fund, to raise at least $1B for its AR glasses division &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251023/p54#a251023p54)
  - [How iCloud backups helped expose a mob-and NBA-linked poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)
  - [US Energy Secretary Chris Wright urges FERC to limit the process for connecting data centers to power grids to 60 days, a process that typically takes years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p53#a251023p53)
- - [The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway](https://www.wired.com/story/san-francisco-troops-protests-ice/)
- - [Trump&#39;s pardon of CZ is a gift to the crypto industry, which has spent heavily to ease regulations and rewrite history to remove associations with criminality &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/251023/p52#a251023p52)<!-- TECH:END -->
+ - [The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway](https://www.wired.com/story/san-francisco-troops-protests-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

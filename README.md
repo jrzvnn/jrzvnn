@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sora Has Lost Its App Store Crown to Drake and Free Chicken](https://www.wired.com/story/sora-app-store-daves-hot-chicken/)
  - [New MacBook Pro is slightly more repairable than before](https://appleinsider.com/articles/25/10/24/new-macbook-pro-is-slightly-more-repairable-than-before?utm_source=rss)
  - [Astronomers Have Discovered Earth&#39;s Latest Quasilunar Moon](https://www.wired.com/story/astronomers-have-discovered-earths-latest-quasilunar-moon/)
  - [Interviews with 23 current and ex-AWS employees and others about AWS&#39; challenges, including intense competition, internal bureaucracy, and lackluster AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251024/p15#a251024p15)
- - [Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time](https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale)
- - [Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode](https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown)<!-- TECH:END -->
+ - [Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time](https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

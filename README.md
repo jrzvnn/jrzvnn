@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026](https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date)
  - [DJI’s excellent Osmo Pocket 3 is over $200 off in its first sale since tariffs](https://www.theverge.com/tech/806400/dji-osmo-pocket-3-creator-combo-deal-sale-price-after-tariffs)
  - [Source: President Trump has picked Michael Selig, the chief counsel for the SEC&#39;s crypto task force, to chair the CFTC, amid a crypto push &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251024/p17#a251024p17)
  - [With an influx of Meta alums, some OpenAI staffers worry it is adopting Meta&#39;s tactics, like using social media dynamics with Sora and a softening stance on ads &lpar;The Information&rpar;](http://www.techmeme.com/251024/p16#a251024p16)
- - [Sora Has Lost Its Top App Store Ranking to Dave&#39;s Hot Chicken](https://www.wired.com/story/sora-app-store-daves-hot-chicken/)
- - [New MacBook Pro is slightly more repairable than before](https://appleinsider.com/articles/25/10/24/new-macbook-pro-is-slightly-more-repairable-than-before?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI&#39;s Sora Loses Its Top App Store Ranking to Dave&#39;s Hot Chicken](https://www.wired.com/story/sora-app-store-daves-hot-chicken/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

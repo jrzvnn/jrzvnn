@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix shuts down Boss Fight Entertainment, the game studio behind mobile game Squid Game: Unleashed, after acquiring it in March 2022 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251024/p14#a251024p14)
  - [This Upgraded SteelSeries Gaming Headset Is $80 Off](https://www.wired.com/story/steelseries-arctis-nova-pro-deal-1025/)
  - [Jon Prosser&#39;s co-defendant could settle leak lawsuit with Apple](https://appleinsider.com/articles/25/10/24/jon-prossers-co-defendant-could-settle-leak-lawsuit-with-apple?utm_source=rss)
  - [Kirby Air Riders&amp;#8217; impressive accessibility features are a rarity for Nintendo](https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2)
- - [Crypto.com follows Circle, BitGo, and others in applying for a US bank charter, as it seeks to further its custody-service business for products such as ETFs &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251024/p13#a251024p13)
- - [Epomaker’s surprisingly great P75 keyboard is on sale for just $79.99](https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale)<!-- TECH:END -->
+ - [Crypto.com follows Circle, BitGo, and others in applying for a US bank charter, as it seeks to further its custody-service business for products such as ETFs &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251024/p13#a251024p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

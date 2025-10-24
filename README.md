@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)
- - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
- - 💣 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
- - 😝 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)
- - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
+ - 💣 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)
+ - 😝 [Old school hip hop is king.](http://9gag.com/gag/aGy6DbK)
+ - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
 
 ---
 

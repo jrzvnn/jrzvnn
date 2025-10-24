@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jon Prosser&#39;s co-defendant could settle leak lawsuit with Apple](https://appleinsider.com/articles/25/10/24/jon-prossers-co-defendant-could-settle-leak-lawsuit-with-apple?utm_source=rss)
  - [Kirby Air Riders&amp;#8217; impressive accessibility features are a rarity for Nintendo](https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2)
  - [Crypto.com follows Circle, BitGo, and others in applying for a US bank charter, as it seeks to further its custody-service business for products such as ETFs &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251024/p13#a251024p13)
  - [Epomaker’s surprisingly great P75 keyboard is on sale for just $79.99](https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale)
- - [Netflix shuts down its Squid Game mobile studio](https://www.theverge.com/news/806303/netflix-squid-game-unleashed-boss-fight-entertainment-studio-shut-down)
- - [Nike is trying to sell you ‘mind-body’ shoes](https://www.theverge.com/news/806259/nike-mind-neuroscience-footwear-foam-nodes)<!-- TECH:END -->
+ - [Netflix shuts down its Squid Game mobile studio](https://www.theverge.com/news/806303/netflix-squid-game-unleashed-boss-fight-entertainment-studio-shut-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

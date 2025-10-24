@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 💣 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [Man want only one thing and it&#39;s d!sgusting!](http://9gag.com/gag/a9yZ7K0)
  - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 👉 [Self written joke](http://9gag.com/gag/azxoENN)<!-- MEMES:END -->
+ - 💣 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [Teachers reacting to their myspace era](http://9gag.com/gag/aGy6RrX)
+ - 👉 [Chonky](http://9gag.com/gag/aW4P6P2)<!-- MEMES:END -->
 
 ---
 

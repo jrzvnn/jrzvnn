@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)
- - 😝 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)
- - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
+ - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 💣 [King fruit](http://9gag.com/gag/a34eL78)
+ - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 👉 [Wth happened?!](http://9gag.com/gag/amoK8Qo)<!-- MEMES:END -->
 
 ---
 

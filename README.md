@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So happy.](http://9gag.com/gag/aoyA9q3)
- - 😝 [Man want only one thing and it&#39;s d!sgusting!](http://9gag.com/gag/a9yZ7K0)
- - 💣 [Self written joke](http://9gag.com/gag/azxoENN)
- - 😝 [Pay attention to your surroundings if you&#39;re gonna commit a crime](http://9gag.com/gag/aqyB2Kv)
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [Self written joke](http://9gag.com/gag/azxoENN)
+ - 💣 [Pay attention to your surroundings if you&#39;re gonna commit a crime](http://9gag.com/gag/aqyB2Kv)
+ - 😝 [Chonky](http://9gag.com/gag/aW4P6P2)
  - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---

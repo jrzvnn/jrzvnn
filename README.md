@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Valthos, which is developing AI tools to detect and prevent AI-enabled bioweapon attacks, raised $30M from OpenAI, Founders Fund, and Lux Capital &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251024/p10#a251024p10)
  - [The Best Gaming Headsets for Xbox, PS5, Switch, and PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
  - [OpenAI launches a &quot;company knowledge&quot; ChatGPT update to let Business, Enterprise, and Education users search for data in connected apps like Slack and GitHub &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251024/p9#a251024p9)
  - [DJI’s new Osmo Mobile 8 adds pet tracking and 360-degree camera pans](https://www.theverge.com/news/806093/dji-osmo-mobile-8-smartphone-gimbal-tracking-module)
- - [Verizon launches Lite home internet for people in limited coverage areas](https://www.theverge.com/news/806083/verizon-lite-home-internet-plan-launch-price)
- - [Get the Hottest Deals Straight to Your Phone Daily. No Hassle, No Cost.](https://www.cnet.com/tech/services-and-software/i-will-text-you-the-best-daily-deals-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Verizon launches Lite home internet for people in limited coverage areas](https://www.theverge.com/news/806083/verizon-lite-home-internet-plan-launch-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

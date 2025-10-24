@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK prosecutors say the ringleader of a 2024 arson attack on Ukraine-linked businesses in London discussed kidnapping Revolut&#39;s Russia-born CEO Nikolay Storonsky &lpar;Michael Holden/Reuters&rpar;](http://www.techmeme.com/251024/p6#a251024p6)
  - [Trump’s got Big Tech and crypto bankrolling White House ballroom](https://www.theverge.com/news/806027/trumps-got-big-tech-and-crypto-bankrolling-white-house-ballroom)
  - [Dell Tower Plus Review: A Hybrid Work and Gaming Desktop](https://www.wired.com/review/dell-tower-plus-ebt2250/)
  - [IBM says it was able to run a key quantum computing algorithm in real-time on commonly available field programmable gate array chips made by AMD &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251024/p5#a251024p5)
- - [The Best Audio Interfaces of 2025: Universal Audio and More](https://www.wired.com/gallery/best-audio-interfaces/)
- - [Instagram and Facebook are breaking the EU’s illegal content rules](https://www.theverge.com/news/806019/meta-facebook-instagram-tiktok-eu-dsa-findings)<!-- TECH:END -->
+ - [The Best Audio Interfaces of 2025: Universal Audio and More](https://www.wired.com/gallery/best-audio-interfaces/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

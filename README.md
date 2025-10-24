@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with 23 current and ex-AWS employees and others about AWS&#39; challenges, including intense competition, internal bureaucracy, and lackluster AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251024/p15#a251024p15)
  - [Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time](https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale)
  - [Neato’s cloud is shutting down, leaving its robovacs stuck in manual mode](https://www.theverge.com/news/806246/neato-robovac-cloud-shutdown)
  - [Netflix shuts down Boss Fight Entertainment, the game studio behind mobile game Squid Game: Unleashed, after acquiring it in March 2022 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251024/p14#a251024p14)
- - [This Upgraded SteelSeries Gaming Headset Is $80 Off](https://www.wired.com/story/steelseries-arctis-nova-pro-deal-1025/)
- - [Jon Prosser&#39;s co-defendant could settle leak lawsuit with Apple](https://appleinsider.com/articles/25/10/24/jon-prossers-co-defendant-could-settle-leak-lawsuit-with-apple?utm_source=rss)<!-- TECH:END -->
+ - [Descend Into a Psychedelic Gothic Nightmare in This Cult Horror Movie](https://www.cnet.com/culture/entertainment/descend-into-a-psychedelic-gothic-nightmare-in-this-cult-horror-movie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

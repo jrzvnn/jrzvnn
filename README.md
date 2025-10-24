@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DJI’s excellent Osmo Pocket 3 is over $200 off in its first sale since tariffs](https://www.theverge.com/tech/806400/dji-osmo-pocket-3-creator-combo-deal-sale-price-after-tariffs)
+ - [Source: President Trump has picked Michael Selig, the chief counsel for the SEC&#39;s crypto task force, to chair the CFTC, amid a crypto push &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251024/p17#a251024p17)
  - [With an influx of Meta alums, some OpenAI staffers worry it is adopting Meta&#39;s tactics, like using social media dynamics with Sora and a softening stance on ads &lpar;The Information&rpar;](http://www.techmeme.com/251024/p16#a251024p16)
- - [Sora Has Lost Its App Store Crown to Drake and Free Chicken](https://www.wired.com/story/sora-app-store-daves-hot-chicken/)
- - [New MacBook Pro is slightly more repairable than before](https://appleinsider.com/articles/25/10/24/new-macbook-pro-is-slightly-more-repairable-than-before?utm_source=rss)
- - [Astronomers Have Discovered Earth’s Latest Quasi-Lunar Moon](https://www.wired.com/story/astronomers-have-discovered-earths-latest-quasilunar-moon/)
- - [Starlink Mini in the Wild: The Pros and Cons of Satellite Internet, From My Experience](https://www.cnet.com/home/internet/starlink-mini-in-the-wild-the-pros-and-cons-of-satellite-internet-from-my-experience/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sora Has Lost Its Top App Store Ranking to Dave&#39;s Hot Chicken](https://www.wired.com/story/sora-app-store-daves-hot-chicken/)
+ - [New MacBook Pro is slightly more repairable than before](https://appleinsider.com/articles/25/10/24/new-macbook-pro-is-slightly-more-repairable-than-before?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

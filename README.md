@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s the fifth sense](https://www.reddit.com/r/funny/comments/1ofcrno/thats_the_fifth_sense/)
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 💣 [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 👉 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)<!-- MEMES:END -->
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 💣 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
 
 ---
 

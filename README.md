@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 💣 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 😝 [Got my hands on some treasure](http://9gag.com/gag/aQzB8bw)
- - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
+ - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 👉 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)<!-- MEMES:END -->
 
 ---
 

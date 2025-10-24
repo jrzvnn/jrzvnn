@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kirby Air Riders&amp;#8217; impressive accessibility features are a rarity for Nintendo](https://www.theverge.com/games/806242/kirby-air-riders-accessibility-features-nintendo-switch-2)
+ - [Crypto.com follows Circle, BitGo, and others in applying for a US bank charter, as it seeks to further its custody-service business for products such as ETFs &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251024/p13#a251024p13)
  - [Epomaker’s surprisingly great P75 keyboard is on sale for just $79.99](https://www.theverge.com/tech/806167/epomaker-p75-mechanical-keyboard-blink-mini-2-deal-sale)
  - [Netflix shuts down its Squid Game mobile studio](https://www.theverge.com/news/806303/netflix-squid-game-unleashed-boss-fight-entertainment-studio-shut-down)
- - [Nike is trying to sell you ‘mind-body’ shoes](https://www.theverge.com/news/806259/nike-mind-neuroscience-footwear-foam-nodes)
- - [What is Liquidmetal, and why has Apple been interested in it for a decade?](https://appleinsider.com/articles/25/10/24/what-is-liquidmetal-and-why-has-apple-been-interested-in-it-for-a-decade?utm_source=rss)
- - [Tether CEO Paolo Ardoino says the company expects to earn close to $15B in profit in 2025, up from around $13B in 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251024/p12#a251024p12)<!-- TECH:END -->
+ - [Nike is trying to sell you ‘mind-body’ shoes](https://www.theverge.com/news/806259/nike-mind-neuroscience-footwear-foam-nodes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

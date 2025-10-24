@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Does Your Internet Connection Feel Slower Than It Should Be? Here’s How to Test It and Use the Result](https://www.cnet.com/home/internet/does-your-internet-connection-feel-slow-heres-how-to-test-it/#ftag=CAD590a51e)
  - [A US judge says Meta lawyers told staff to block or remove parts of internal teen mental health research to limit liability; Meta says no findings were removed &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/251023/p56#a251023p56)
  - [Apple may turn off App Tracking Transparency in Europe due to &quot;intense lobbying efforts&quot; in Germany and other countries over alleged anticompetitive conduct &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251023/p55#a251023p55)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Oct. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-oct-24/#ftag=CAD590a51e)
- - [Sources: Snap is in talks with investors, including Saudi Arabia&#39;s Public Investment Fund, to raise at least $1B for its AR glasses division &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251023/p54#a251023p54)
- - [How iCloud backups helped expose a mob-and NBA-linked poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Snap is in talks with investors, including Saudi Arabia&#39;s Public Investment Fund, to raise at least $1B for its AR glasses division &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251023/p54#a251023p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

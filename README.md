@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 💣 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 💣 [Good night sleep tight and sweet dreams](http://9gag.com/gag/ary9KZB)
+ - 😝 [Got my hands on some treasure](http://9gag.com/gag/aQzB8bw)
  - 👉 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
- - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 💣 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)
- - 👉 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)<!-- MEMES:END -->
+ - 😝 [Autumn \ud83c\udf41](http://9gag.com/gag/ayNZdWY)
+ - 😝 [Teachers reacting to their myspace era](http://9gag.com/gag/aGy6RrX)
+ - 💣 [Chonky](http://9gag.com/gag/aW4P6P2)
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 👉 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)<!-- MEMES:END -->
 
 ---
 

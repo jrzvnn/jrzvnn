@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 👉 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)<!-- MEMES:END -->
+ - 😝 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)
+ - 😝 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
+ - 💣 [King fruit](http://9gag.com/gag/a34eL78)
+ - 😝 [Daily reminder 9gag is horny a stick is all it takes](http://9gag.com/gag/aE0yzzG)
+ - 👉 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)<!-- MEMES:END -->
 
 ---
 

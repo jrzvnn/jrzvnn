@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [My boys going for a neighborhood walk &lpar;oc&rpar;](https://www.reddit.com/r/funny/comments/1oevcg8/my_boys_going_for_a_neighborhood_walk_oc/)
+ - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
  - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
- - 💣 [Whats black, and white, and dead all over](http://9gag.com/gag/ayNZ0XY)
- - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 👉 [Got my hands on some treasure](http://9gag.com/gag/aQzB8bw)<!-- MEMES:END -->
 
 ---
 

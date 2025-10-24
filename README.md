@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [With an influx of Meta alums, some OpenAI staffers worry it is adopting Meta&#39;s tactics, like using social media dynamics with Sora and a softening stance on ads &lpar;The Information&rpar;](http://www.techmeme.com/251024/p16#a251024p16)
  - [Sora Has Lost Its App Store Crown to Drake and Free Chicken](https://www.wired.com/story/sora-app-store-daves-hot-chicken/)
  - [New MacBook Pro is slightly more repairable than before](https://appleinsider.com/articles/25/10/24/new-macbook-pro-is-slightly-more-repairable-than-before?utm_source=rss)
- - [Astronomers Have Discovered Earth&#39;s Latest Quasilunar Moon](https://www.wired.com/story/astronomers-have-discovered-earths-latest-quasilunar-moon/)
- - [Interviews with 23 current and ex-AWS employees and others about AWS&#39; challenges, including intense competition, internal bureaucracy, and lackluster AI efforts &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251024/p15#a251024p15)
- - [Eufy’s X10 Pro Omni robovac is matching its Prime Day low for a limited time](https://www.theverge.com/tech/806364/eufy-x10-pro-omni-robot-vacuum-mop-amazon-deal-sale)<!-- TECH:END -->
+ - [Astronomers Have Discovered Earth’s Latest Quasi-Lunar Moon](https://www.wired.com/story/astronomers-have-discovered-earths-latest-quasilunar-moon/)
+ - [Starlink Mini in the Wild: The Pros and Cons of Satellite Internet, From My Experience](https://www.cnet.com/home/internet/starlink-mini-in-the-wild-the-pros-and-cons-of-satellite-internet-from-my-experience/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

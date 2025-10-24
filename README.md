@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
  - [Microsoft plans to bring its Halo franchise to the PlayStation for the first time with the launch of a 25th‑anniversary remake of Halo: Combat Evolved in 2026 &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251024/p19#a251024p19)
  - [Grindr board members Ray Zage and James Lu, part of an investor group that owns more than 60%, offer to take Grindr private for ~$3.46B; GRND closes up 18.63% &lpar;Reuters&rpar;](http://www.techmeme.com/251024/p18#a251024p18)
  - [Halo: Campaign Evolved is a gorgeous remake that debuts on PS5 and Xbox in 2026](https://www.theverge.com/news/805174/halo-campaign-evolved-remake-xbox-ps5-release-date)
- - [DJI’s excellent Osmo Pocket 3 is over $200 off in its first sale since tariffs](https://www.theverge.com/tech/806400/dji-osmo-pocket-3-creator-combo-deal-sale-price-after-tariffs)
- - [Source: President Trump has picked Michael Selig, the chief counsel for the SEC&#39;s crypto task force, to chair the CFTC, amid a crypto push &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251024/p17#a251024p17)<!-- TECH:END -->
+ - [This TV Stunt Poses the Right Questions About AI and Jobs, and Fails to Answer Any](https://www.cnet.com/tech/services-and-software/this-tv-stunt-poses-the-right-questions-about-ai-and-jobs-and-fails-to-answer-any/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

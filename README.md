@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: banks are preparing to launch a $38B debt sale to fund Oracle data centers, including $23.25B for a Texas data center and $14.75B for a Wisconsin site &lpar;Jeannine Amodeo/Bloomberg&rpar;](http://www.techmeme.com/251024/p8#a251024p8)
- - [Best Laptop Stands &lpar;2025&rpar;: 25+ Models Tested and Reviewed](https://www.wired.com/gallery/best-laptop-stands/)
- - [The AI browser wars are here](https://www.theverge.com/podcast/806031/chatgpt-atlas-ai-browser-wars-vergecast-warner-bros-discovery-sale)
- - [HP plans to build millions of computers in Saudi Arabia by 2030, primarily for export to MENA, as part of the kingdom&#39;s plans to boost manufacturing and exports &lpar;Matthew Martin/Semafor&rpar;](http://www.techmeme.com/251024/p7#a251024p7)
- - [M5 Apple Vision Pro &amp; iPad Pro, plus external SSDs on a budget, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/24/m5-apple-vision-pro-ipad-pro-plus-external-ssds-on-a-budget-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
+ - [Dispatch offers a rare unique twist on superhero stories](https://www.theverge.com/games/805679/dispatch-review-steam-ps5)
+ - [OpenAI made ChatGPT better at sifting through your work or school information](https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update)
+ - [Oreo-maker Mondelez will use AI for TV ads next year](https://www.theverge.com/news/806047/mondelez-ai-generated-ads)
+ - [Sources: banks are preparing to launch a $38B debt sale to fund Oracle data centers, including $23.25B for a Texas data center and $14.75B for a Wisconsin site &lpar;Jeannine Amodeo/Bloomberg&rpar;](http://www.techmeme.com/251024/p8#a251024p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Bike Lights, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-bike-lights/)
+ - [How Data Centers Actually Work](https://www.wired.com/story/uncanny-valley-podcast-how-data-centers-actually-work/)
+ - [&#39;Weapons&#39; Is Now Streaming: Here&#39;s How to Watch the Hit Horror Film](https://www.cnet.com/tech/services-and-software/weapons-is-now-streaming-heres-how-to-watch-hit-horror-film/#ftag=CAD590a51e)
  - [Meet the Palestinian Teens Trying to Win Robotics Gold](https://www.wired.com/story/meet-the-palestinian-teens-trying-to-win-robotics-gold/)
- - [How Prankster Oobah Butler Convinced Venture Capitalists to Give Him Over $1 Million](https://www.wired.com/story/oobah-butler-documentary-interview/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 24, #866](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-24-866/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 24, #600](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-24-600/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 24, #396](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-24-396/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Prankster Oobah Butler Convinced Venture Capitalists to Give Him Over $1 Million](https://www.wired.com/story/oobah-butler-documentary-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

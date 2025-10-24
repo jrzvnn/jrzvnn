@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump&#39;s pardon of CZ is a gift to the crypto industry, which has spent heavily to ease regulations and rewrite history to remove associations with criminality &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/251023/p52#a251023p52)
- - [How Hacked Card Shufflers Allegedly Enabled a Mob-Fueled Poker Scam That Rocked the NBA](https://www.wired.com/story/how-hacked-card-shufflers-allegedly-enabled-a-mob-fueled-poker-scam-that-rocked-the-nba/)
- - [Intel’s tick-tock isn’t coming back, and everything else I just learned](https://www.theverge.com/tech/805652/intel-q3-2025-earnings-18a-panther-lake-ai-gpus-annual)
- - [The best Sonos speakers to buy in 2025](https://www.theverge.com/tech/652171/best-sonos-speakers)
- - [Mustafa Suleyman says Microsoft won&#39;t provide erotica AI services and that &quot;other companies will build that&quot;, after Sam Altman said ChatGPT would offer erotica &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/251023/p51#a251023p51)<!-- TECH:END -->
+ - [Sources: Snap is in talks with investors, including Saudi Arabia&#39;s Public Investment Fund, to raise at least $1B for its AR glasses division &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251023/p54#a251023p54)
+ - [How iCloud backups helped expose a mob-and NBA-linked poker cheating scandal](https://appleinsider.com/articles/25/10/24/how-icloud-backups-helped-expose-a-mob-and-nba-linked-poker-cheating-scandal?utm_source=rss)
+ - [US Energy Secretary Chris Wright urges FERC to limit the process for connecting data centers to power grids to 60 days, a process that typically takes years &lpar;Bloomberg&rpar;](http://www.techmeme.com/251023/p53#a251023p53)
+ - [The ‘Surge’ of Troops May Not Come to San Francisco, but the City Is Ready Anyway](https://www.wired.com/story/san-francisco-troops-protests-ice/)
+ - [Trump&#39;s pardon of CZ is a gift to the crypto industry, which has spent heavily to ease regulations and rewrite history to remove associations with criminality &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/251023/p52#a251023p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is Liquidmetal, and why has Apple been interested in it for a decade?](https://appleinsider.com/articles/25/10/24/what-is-liquidmetal-and-why-has-apple-been-interested-in-it-for-a-decade?utm_source=rss)
  - [Inside the Messy, Accidental Kryptos Reveal](https://www.wired.com/story/kryptos-code-reveal/)
  - [New York-based Valthos, which is developing AI tools to detect and prevent AI-enabled bioweapon attacks, raised $30M from OpenAI, Founders Fund, and Lux Capital &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251024/p10#a251024p10)
  - [The Best Gaming Headsets for Xbox, PS5, Switch, and PC &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-headsets/)
- - [Best Dyson Vacuum Cleaners of 2025: I Tested the Best-Known Vacuum Brand to See if It&#39;s Worth the Price](https://www.cnet.com/home/kitchen-and-household/best-dyson-vacuum-cleaners/#ftag=CAD590a51e)
- - [OpenAI launches a &quot;company knowledge&quot; ChatGPT update to let Business, Enterprise, and Education users search for data in connected apps like Slack and GitHub &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251024/p9#a251024p9)<!-- TECH:END -->
+ - [Best Dyson Vacuum Cleaners of 2025: I Tested the Best-Known Vacuum Brand to See if It&#39;s Worth the Price](https://www.cnet.com/home/kitchen-and-household/best-dyson-vacuum-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

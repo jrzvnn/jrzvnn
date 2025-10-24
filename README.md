@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is genuine shocked](http://9gag.com/gag/aVv4XzP)
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
+ - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
  - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
- - 💣 [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 👉 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)<!-- MEMES:END -->
 
 ---
 

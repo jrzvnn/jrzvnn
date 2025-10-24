@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: X&#39;s advertising chief John Nitti, who joined in January, has left; X&#39;s CFO Mahmoud Reza Banki left in early October after less than a year in the role &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251024/p21#a251024p21)
  - [Sources detail how Sam Altman, Jensen Huang, Marc Benioff, and others brokered a call between SF Mayor Daniel Lurie and Trump to stop National Guard deployment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251024/p20#a251024p20)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 25, #397](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-25-397/#ftag=CAD590a51e)
  - [Wordle has achievements now](https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 25, #867](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-25-867/#ftag=CAD590a51e)
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 25, #867](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-25-867/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

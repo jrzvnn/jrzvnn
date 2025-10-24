@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources detail how Sam Altman, Jensen Huang, Marc Benioff, and others brokered a call between SF Mayor Daniel Lurie and Trump to stop National Guard deployment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251024/p20#a251024p20)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 25, #397](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-25-397/#ftag=CAD590a51e)
  - [Wordle has achievements now](https://www.theverge.com/news/806578/nyt-games-badges-achievements-wordle-spelling-bee-connections)
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Microsoft plans to bring its Halo franchise to the PlayStation for the first time with the launch of a 25th‑anniversary remake of Halo: Combat Evolved in 2026 &lpar;Zachary Small/New York Times&rpar;](http://www.techmeme.com/251024/p19#a251024p19)
- - [Grindr board members Ray Zage and James Lu, part of an investor group that owns more than 60%, offer to take Grindr private for ~$3.46B; GRND closes up 18.63% &lpar;Reuters&rpar;](http://www.techmeme.com/251024/p18#a251024p18)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 25, #867](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-25-867/#ftag=CAD590a51e)
+ - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

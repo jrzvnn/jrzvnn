@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet the Palestinian Teens Trying to Win Robotics Gold](https://www.wired.com/story/meet-the-palestinian-teens-trying-to-win-robotics-gold/)
  - [How Prankster Oobah Butler Convinced Venture Capitalists to Give Him Over $1 Million](https://www.wired.com/story/oobah-butler-documentary-interview/)
- - [Should We All Be Concerned That Protein Powders Contain Heavy Metals? Dietitians Weigh In](https://www.cnet.com/health/should-all-concerned-protein-powders-heavy-metals-dietitians-weigh-in/#ftag=CAD590a51e)
- - [Pricempire: after Valve updated the exchange rate of Counter-Strike digital items, the market fell by $1.75B, or 25%, on October 23; in 2024, a gun sold for $1M &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251024/p1#a251024p1)
- - [Does Your Internet Connection Feel Slower Than It Should Be? Here’s How to Test It and Use the Result](https://www.cnet.com/home/internet/does-your-internet-connection-feel-slow-heres-how-to-test-it/#ftag=CAD590a51e)
- - [A US judge says Meta lawyers told staff to block or remove parts of internal teen mental health research to limit liability; Meta says no findings were removed &lpar;Isaiah Poritz/Bloomberg Law&rpar;](http://www.techmeme.com/251023/p56#a251023p56)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 24, #866](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-24-866/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 24, #600](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-24-600/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 24, #396](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-24-396/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

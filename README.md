@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon launches Lite home internet for people in limited coverage areas](https://www.theverge.com/news/806083/verizon-lite-home-internet-plan-launch-price)
  - [Best 360 Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-360-cameras/)
  - [Dispatch offers a rare unique twist on superhero stories](https://www.theverge.com/games/805679/dispatch-review-steam-ps5)
  - [OpenAI made ChatGPT better at sifting through your work or school information](https://www.theverge.com/news/806046/openai-chatgpt-company-knowledge-update)
- - [Oreo-maker Mondelez will use AI for TV ads next year](https://www.theverge.com/news/806047/mondelez-ai-generated-ads)
- - [Sources: banks are preparing to launch a $38B debt sale to fund Oracle data centers, including $23.25B for a Texas data center and $14.75B for a Wisconsin site &lpar;Jeannine Amodeo/Bloomberg&rpar;](http://www.techmeme.com/251024/p8#a251024p8)<!-- TECH:END -->
+ - [Oreo-maker Mondelez will use AI for TV ads next year](https://www.theverge.com/news/806047/mondelez-ai-generated-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

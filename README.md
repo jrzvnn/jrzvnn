@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto infrastructure provider Fireblocks acquires Dynamic, which streamlines crypto wallet setup, authentication, and onboarding for 50M+ accounts, for ~$90M &lpar;CTech&rpar;](http://www.techmeme.com/251025/p8#a251025p8)
  - [Baseus Inspire XC1 Review: Excellent Open Earbuds](https://www.wired.com/review/baseus-inspire-xc1/)
  - [The Best OTC Hearing Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
  - [Is Waymo ready for winter?](https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing)
- - [The rise of &amp;#8220;catch a cheater&amp;#8221; apps exploits our worst human tendencies](https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder)
- - [Base iPhone 18 memory expected to hit 12GB in 2026](https://appleinsider.com/articles/25/10/25/base-iphone-18-memory-expected-to-hit-12gb-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [The rise of &amp;#8220;catch a cheater&amp;#8221; apps exploits our worst human tendencies](https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

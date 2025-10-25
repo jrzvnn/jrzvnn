@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pave Bank, which lets businesses manage both fiat and digital assets in real time, raised a $39M Series A led by Accel, with Tether and others participating &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251025/p11#a251025p11)
  - [A profile of Wikipedia co-founder Larry Sanger, who left in 2002 and whose claims that Wikipedia has a liberal bias are fueling the right&#39;s campaign against it &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/251025/p10#a251025p10)
  - [AirTags and cheap gaming laptops headline our favorite deals this week](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale)
  - [What does nearly $6,000 of gaming laptop get you?](https://www.theverge.com/tech/806052/msi-titan-18-ai-rtx-5090-gaming-laptop-review)
- - [14 New Horror Movies and Shows to Watch on Streaming Services](https://www.cnet.com/tech/services-and-software/14-new-horror-movies-and-shows-to-watch-on-streaming-services/#ftag=CAD590a51e)
- - [ICE is building a social media panopticon](https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault)<!-- TECH:END -->
+ - [14 New Horror Movies and Shows to Watch on Streaming Services](https://www.cnet.com/tech/services-and-software/14-new-horror-movies-and-shows-to-watch-on-streaming-services/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

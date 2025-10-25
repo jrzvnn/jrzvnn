@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
  - 😝 [Nice](http://9gag.com/gag/abAK0mB)
+ - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
  - 💣 [Old school hip hop is king.](http://9gag.com/gag/aGy6DbK)
  - 😝 [Trying to flirt with men is a whole espionage mission](http://9gag.com/gag/aE0yR6K)
  - 👉 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)<!-- MEMES:END -->

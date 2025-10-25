@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Glasgow-based Chemify, which combines AI with robotics and chemistry to rapidly make novel molecules for pharmaceutical companies, raised a $50M Series B &lpar;Alex Scott/Chemical &amp; Engineering News&rpar;](http://www.techmeme.com/251025/p12#a251025p12)
  - [Tech left teens fighting over scraps, and now it wants those too](https://www.theverge.com/report/806728/tech-left-teens-fighting-over-scraps-robots-taking-jobs)
  - [Pave Bank, which lets businesses manage both fiat and digital assets in real time, raised a $39M Series A led by Accel, with Tether and others participating &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251025/p11#a251025p11)
  - [Premier League Soccer: Stream Brentford vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-brentford-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)
- - [A profile of Wikipedia co-founder Larry Sanger, who left in 2002 and whose claims that Wikipedia has a liberal bias are fueling the right&#39;s campaign against it &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/251025/p10#a251025p10)
- - [AirTags and cheap gaming laptops headline our favorite deals this week](https://www.theverge.com/tech/806174/apple-airtag-hulu-with-live-tv-deal-sale)<!-- TECH:END -->
+ - [A profile of Wikipedia co-founder Larry Sanger, who left in 2002 and whose claims that Wikipedia has a liberal bias are fueling the right&#39;s campaign against it &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/251025/p10#a251025p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

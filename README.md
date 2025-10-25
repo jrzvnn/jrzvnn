@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
  - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
- - 💣 [Michael Myers tries to return a purse to a nice lady](http://9gag.com/gag/aO8AVBy)
- - 😝 [Serenity](http://9gag.com/gag/aLnV9Z5)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 😝 [God damn it capcom](http://9gag.com/gag/ajPGAmG)
+ - 💣 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 👉 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)<!-- MEMES:END -->
 
 ---
 

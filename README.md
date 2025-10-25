@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
  - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [I find Maths difficult so....](http://9gag.com/gag/azxorDZ)
  - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 ---

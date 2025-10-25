@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After/before.](https://www.reddit.com/r/funny/comments/1og469x/afterbefore/)
+ - 😝 [RFK Jr to urge Americans to eat more saturated fats, alarming health experts. Brainworms found to thrive on saturated fats.](https://www.reddit.com/r/funny/comments/1og4hx8/rfk_jr_to_urge_americans_to_eat_more_saturated/)
  - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
  - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
  - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)

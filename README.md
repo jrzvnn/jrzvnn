@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Trying to flirt with men is a whole espionage mission](http://9gag.com/gag/aE0yR6K)
  - 😝 [I find Maths difficult so....](http://9gag.com/gag/azxorDZ)
- - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
+ - 💣 [`Anime is so unrealistic.` Then this diva shows up...](http://9gag.com/gag/aD2rGd7)
+ - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
+ - 👉 [Nice](http://9gag.com/gag/abAK0mB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)
  - [Lindo St. Angel, VP of hardware at Amazon&#39;s Lab126 R&amp;D unit since 2010, plans to leave on October 31; he helped develop the Echo, Astro robot, and Fire tablet &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251025/p1#a251025p1)
  - [Bored Ape Yacht Club is making a comeback — as a metaverse](https://www.theverge.com/tech/806492/bored-ape-yacht-club-bayc-crypto-metaverse-otherside-yuga-labs)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Oct. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-oct-25/#ftag=CAD590a51e)
- - [Oreo maker Mondelez has spent $40M+ on an AI tool, developed with Publicis and Accenture, to cut costs for the production of marketing content by 30% to 50% &lpar;Jessica DiNapoli/Reuters&rpar;](http://www.techmeme.com/251024/p22#a251024p22)
- - [Sam Altman’s next startup eyes using sound waves to read your brain](https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire)<!-- TECH:END -->
+ - [Oreo maker Mondelez has spent $40M+ on an AI tool, developed with Publicis and Accenture, to cut costs for the production of marketing content by 30% to 50% &lpar;Jessica DiNapoli/Reuters&rpar;](http://www.techmeme.com/251024/p22#a251024p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

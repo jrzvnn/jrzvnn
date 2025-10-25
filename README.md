@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football gif](http://9gag.com/gag/amoKrEX)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
  - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
  - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 ---

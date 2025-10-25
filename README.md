@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)
+ - [OpenAI Atlas Browser Hands On: I’m Not Convinced the Web Needs a Chatbot Tour Guide](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/)
  - [A look at AI startups aiming to address loneliness among the elderly; a study predicts the AI market for aging and elderly care will grow to over $43B in 2025 &lpar;Forbes&rpar;](http://www.techmeme.com/251025/p7#a251025p7)
- - [The Pepsi Man Is Coming to Save Samsung From Boring Design](https://www.wired.com/story/the-pepsi-man-is-coming-to-save-samsung-from-boring-design/)
- - [UFC 321: Aspinall vs. Gane, Everything to Know to Watch via Livestream](https://www.cnet.com/tech/services-and-software/ufc-321-aspinall-vs-gane-everything-to-know-to-watch-via-livestream/#ftag=CAD590a51e)
- - [6 Best Couples Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-couples-sex-toys/)
- - [Ready to Ride? These Are the Best Exercise Bikes of 2025, Tested by a Fitness Expert](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [4 Items I Found Lurking in My Kitchen That Could Be Leaching Microplastics Into My Food](https://www.cnet.com/health/items-found-lurking-kitchen-could-leaching-microplastics-into-my-food/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 25, #397](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-25-397/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
- - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 😝 [Yes](http://9gag.com/gag/aGy60E5)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
+ - 😝 [An enthusiast built a camera capable of capturing 2 BILLION frames per second\u2014and it was able to capture the movement of light.](http://9gag.com/gag/amoKzMd)
+ - 💣 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
 
 ---
 

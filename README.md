@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)
- - 😝 [Wth happened?!](http://9gag.com/gag/amoK8Qo)
+ - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
  - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 😝 [I find Maths difficult so....](http://9gag.com/gag/azxorDZ)
+ - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 ---
 

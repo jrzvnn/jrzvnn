@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
  - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
  - 💣 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
- - 😝 [Just don&#39;t go below 50mph](http://9gag.com/gag/amoKrX9)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 👉 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)<!-- MEMES:END -->
 
 ---
 

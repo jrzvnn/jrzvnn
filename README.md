@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
  - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
- - 💣 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
- - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Yes](http://9gag.com/gag/aGy60E5)
+ - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chevy&#39;s New Bolt Electric Car Is Truly Affordable, at Less Than $30,000](https://www.cnet.com/roadshow/news/chevys-new-bolt-electric-car-is-truly-affordable-at-less-than-30000/#ftag=CAD590a51e)
  - [Kyrgyzstan launches a national stablecoin and a CBDC in partnership with Binance; CZ says a national cryptocurrency reserve includes Binance&#39;s BNB token &lpar;Aigerim Turgunbaeva/Reuters&rpar;](http://www.techmeme.com/251025/p13#a251025p13)
  - [When to Watch &#39;The Fantastic Four: First Steps&#39; on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-watch-the-fantastic-four-first-steps-on-disney-plus/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 26, #868](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-26-868/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 26 #602](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-26-602/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 26 #602](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-26-602/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 26, #1590](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-26-1590/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

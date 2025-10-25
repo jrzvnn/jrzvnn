@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 55 Best Shows on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III](https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/)
  - [Amazon Explains How Its AWS Outage Took Down the Web](https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/)
  - [How to Keep Squirrels Off Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/how-to-keep-squirrels-off-bird-feeders/)
- - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)
- - [OpenAI Atlas Browser Hands On: I’m Not Convinced the Web Needs a Chatbot Tour Guide](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/)
- - [A look at AI startups aiming to address loneliness among the elderly; a study predicts the AI market for aging and elderly care will grow to over $43B in 2025 &lpar;Forbes&rpar;](http://www.techmeme.com/251025/p7#a251025p7)<!-- TECH:END -->
+ - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

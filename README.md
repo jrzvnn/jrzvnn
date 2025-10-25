@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn plans to expand AirPods production in India](https://appleinsider.com/articles/25/10/25/foxconn-plans-to-expand-airpods-production-in-india?utm_source=rss)
  - [Ball x Pit is a deep, delightful rabbit hole](https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s)
  - [Crypto infrastructure provider Fireblocks acquires Dynamic, which streamlines crypto wallet setup, authentication, and onboarding for 50M+ accounts, for ~$90M &lpar;CTech&rpar;](http://www.techmeme.com/251025/p8#a251025p8)
  - [Baseus Inspire XC1 Review: Excellent Open Earbuds](https://www.wired.com/review/baseus-inspire-xc1/)
- - [The Best OTC Hearing Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
- - [Is Waymo ready for winter?](https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing)<!-- TECH:END -->
+ - [The Best OTC Hearing Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

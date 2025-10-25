@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 😝 [Need to workout? Tap quickly to do pushups](http://9gag.com/gag/a2v9rmp)
- - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
+ - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 👉 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)<!-- MEMES:END -->
 
 ---
 

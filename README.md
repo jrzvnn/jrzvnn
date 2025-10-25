@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cherry MX 10.1 review: Low profile mechanical keyboard, with good Mac support](https://appleinsider.com/articles/25/10/25/cherry-mx-101-review-low-profile-mechanical-keyboard-with-good-mac-support?utm_source=rss)
- - [The 55 Best Shows on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III](https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/)
- - [Amazon Explains How Its AWS Outage Took Down the Web](https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/)
- - [How to Keep Squirrels Off Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/how-to-keep-squirrels-off-bird-feeders/)<!-- TECH:END -->
+ - [Baseus Inspire XC1 Review: Excellent Open Earbuds](https://www.wired.com/review/baseus-inspire-xc1/)
+ - [The Best OTC Hearing Aids &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-over-the-counter-hearing-aids/)
+ - [Is Waymo ready for winter?](https://www.theverge.com/transportation/805471/waymo-robotaxi-winter-snow-weather-testing)
+ - [The rise of &amp;#8220;catch a cheater&amp;#8221; apps exploits our worst human tendencies](https://www.theverge.com/tech/806465/catch-cheater-app-facial-recognition-tinder)
+ - [Base iPhone 18 memory expected to hit 12GB in 2026](https://appleinsider.com/articles/25/10/25/base-iphone-18-memory-expected-to-hit-12gb-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

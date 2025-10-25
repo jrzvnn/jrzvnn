@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
  - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 😝 [We can so push ups again. Start your training now](http://9gag.com/gag/aLnVMXv)
- - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
+ - 💣 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)
+ - 😝 [Yes](http://9gag.com/gag/aGy60E5)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 

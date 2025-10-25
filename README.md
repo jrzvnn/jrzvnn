@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
- - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
- - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 💣 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
+ - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 

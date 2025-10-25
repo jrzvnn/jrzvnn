@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ICE is building a social media panopticon](https://www.theverge.com/policy/806425/ice-social-media-surveillance-free-speech-assault)
  - [Sources: OpenAI is developing AI tools to generate music from text and audio prompts, including capabilities such as adding guitar accompaniment to vocal tracks &lpar;The Information&rpar;](http://www.techmeme.com/251025/p9#a251025p9)
  - [Foxconn plans to expand AirPods production in India](https://appleinsider.com/articles/25/10/25/foxconn-plans-to-expand-airpods-production-in-india?utm_source=rss)
  - [Ball x Pit is a deep, delightful rabbit hole](https://www.theverge.com/games/805022/ball-x-pit-review-pc-nintendo-switch-ps5-xbox-series-x-s)
- - [Will Tim Cook Step Down? Apple CEO&#39;s Impending 65th Birthday Sparks Succession Talk](https://www.cnet.com/tech/mobile/will-tim-cook-step-down-apple-ceos-impending-65th-birthday-sparks-succession-talk/#ftag=CAD590a51e)
- - [Crypto infrastructure provider Fireblocks acquires Dynamic, which streamlines crypto wallet setup, authentication, and onboarding for 50M+ accounts, for ~$90M &lpar;CTech&rpar;](http://www.techmeme.com/251025/p8#a251025p8)<!-- TECH:END -->
+ - [Will Tim Cook Step Down? Apple CEO&#39;s Impending 65th Birthday Sparks Succession Talk](https://www.cnet.com/tech/mobile/will-tim-cook-step-down-apple-ceos-impending-65th-birthday-sparks-succession-talk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

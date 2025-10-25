@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III](https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/)
+ - [Cherry MX 10.1 review: Low profile mechanical keyboard, with good Mac support](https://appleinsider.com/articles/25/10/25/cherry-mx-101-review-low-profile-mechanical-keyboard-with-good-mac-support?utm_source=rss)
  - [The 55 Best Shows on Netflix Right Now &lpar;October 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Gear News of the Week: There’s Yet Another New AI Browser, and Fujifilm Debuts the X-T30 III](https://www.wired.com/story/gear-news-of-the-week-theres-yet-another-new-ai-browser-and-fujifilm-debuts-the-x-t30-iii/)
  - [Amazon Explains How Its AWS Outage Took Down the Web](https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/)
- - [How to Keep Squirrels Off Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/how-to-keep-squirrels-off-bird-feeders/)
- - [Best Mattresses for Sex &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-sex/)<!-- TECH:END -->
+ - [How to Keep Squirrels Off Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/how-to-keep-squirrels-off-bird-feeders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

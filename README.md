@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`Anime is so unrealistic.` Then this diva shows up...](http://9gag.com/gag/aD2rGd7)
- - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
- - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 😝 [I find Maths difficult so....](http://9gag.com/gag/azxorDZ)
- - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
+ - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [Yes](http://9gag.com/gag/aGy60E5)
+ - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
 
 ---
 

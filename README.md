@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
- - 😝 [Nice](http://9gag.com/gag/abAK0mB)
- - 💣 [Old school hip hop is king.](http://9gag.com/gag/aGy6DbK)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 👉 [Trying to flirt with men is a whole espionage mission](http://9gag.com/gag/aE0yR6K)<!-- MEMES:END -->
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
+ - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
+ - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
 
 ---
 

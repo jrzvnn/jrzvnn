@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [An enthusiast built a camera capable of capturing 2 BILLION frames per second\u2014and it was able to capture the movement of light.](http://9gag.com/gag/amoKzMd)
- - 😝 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)
- - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
- - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
- - 👉 [`Anime is so unrealistic.` Then this diva shows up...](http://9gag.com/gag/aD2rGd7)<!-- MEMES:END -->
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
+ - 💣 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 😝 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
+ - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---
 

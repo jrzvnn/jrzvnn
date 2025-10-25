@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 😝 [God damn it capcom](http://9gag.com/gag/ajPGAmG)
- - 💣 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 😝 [Serenity](http://9gag.com/gag/aLnV9Z5)
+ - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
+ - 😝 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
  - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
 
 ---

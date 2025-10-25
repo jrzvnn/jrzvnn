@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
- - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [Just don&#39;t go below 50mph](http://9gag.com/gag/amoKrX9)
- - 👉 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)<!-- MEMES:END -->
+ - 😝 [An enthusiast built a camera capable of capturing 2 BILLION frames per second\u2014and it was able to capture the movement of light.](http://9gag.com/gag/amoKzMd)
+ - 😝 [So that&#39;s the portal to Beastie Boy videos](http://9gag.com/gag/aZZopPW)
+ - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
+ - 👉 [`Anime is so unrealistic.` Then this diva shows up...](http://9gag.com/gag/aD2rGd7)<!-- MEMES:END -->
 
 ---
 

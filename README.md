@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oreo maker Mondelez has spent $40M+ on an AI tool, developed with Publicis and Accenture, to cut costs for the production of marketing content by 30% to 50% &lpar;Jessica DiNapoli/Reuters&rpar;](http://www.techmeme.com/251024/p22#a251024p22)
+ - [Sam Altman’s next startup eyes using sound waves to read your brain](https://www.theverge.com/column/806666/sam-altman-merge-labs-brain-computer-interface-startup-hire)
+ - [Why Starlink Sends So Many Copyright Warnings to Its Users](https://www.cnet.com/home/internet/why-starlink-sends-so-many-copyright-warnings-to-its-users/#ftag=CAD590a51e)
  - [Apple says Jon Prosser ‘has not indicated’ when he may respond to lawsuit](https://www.theverge.com/news/806664/apple-jon-prosser-not-indicated-respond-lawsuit-trade-secrets-ramacciotti)
- - [DHS Wants a Fleet of AI-Powered Surveillance Trucks](https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/)
- - [Sources: X&#39;s advertising chief John Nitti, who joined in January, has left; X&#39;s CFO Mahmoud Reza Banki left in early October after less than a year in the role &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251024/p21#a251024p21)
- - [Sources detail how Sam Altman, Jensen Huang, Marc Benioff, and others brokered a call between SF Mayor Daniel Lurie and Trump to stop National Guard deployment &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251024/p20#a251024p20)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 25, #397](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-25-397/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Free Xbox Cloud Gaming With Ads Could Be an Alternative to Pricier Game Pass](https://www.cnet.com/tech/gaming/free-xbox-cloud-gaming-with-ads-could-be-an-alternative-to-pricier-game-pass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

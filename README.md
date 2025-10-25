@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
- - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 😝 [Football gif](http://9gag.com/gag/amoKrEX)
+ - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
  - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 😝 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)
- - 👉 [What Thee??](http://9gag.com/gag/awyPnrQ)<!-- MEMES:END -->
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 ---
 

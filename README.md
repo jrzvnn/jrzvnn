@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [`Anime is so unrealistic.` Then this diva shows up...](http://9gag.com/gag/aD2rGd7)
  - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
- - 😝 [From the Achives](http://9gag.com/gag/aXPQwEd)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [Yes](http://9gag.com/gag/aGy60E5)
- - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
+ - 💣 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 😝 [I find Maths difficult so....](http://9gag.com/gag/azxorDZ)
+ - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 ---
 

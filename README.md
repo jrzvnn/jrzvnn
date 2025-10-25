@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi says surging memory chip prices have raised the cost of making smartphones, after pricing of its new Redmi K90 series disappointed Chinese consumers &lpar;Reuters&rpar;](http://www.techmeme.com/251025/p5#a251025p5)
  - [Grab is investing an undisclosed amount in May Mobility as part of a multiyear deal, which includes bringing robotaxis to Southeast Asia as soon as 2026 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251025/p4#a251025p4)
  - [Shares of Japanese optical fiber maker Fujikura are up ~171% YTD, outpacing the Nikkei&#39;s 22% and lifting its market cap to $33B+ amid the AI data center boom &lpar;Junko Fujita/Reuters&rpar;](http://www.techmeme.com/251025/p3#a251025p3)
  - [Sources: PayPal to take over Carlyle&#39;s stake in Shopware, a German provider of e-commerce tools to merchants, with PayPal&#39;s stake increasing to ~41% from ~11% &lpar;Bloomberg&rpar;](http://www.techmeme.com/251025/p2#a251025p2)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)
- - [Lindo St. Angel, VP of hardware at Amazon&#39;s Lab126 R&amp;D unit since 2010, plans to leave on October 31; he helped develop the Echo, Astro robot, and Fire tablet &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251025/p1#a251025p1)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

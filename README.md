@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
- - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
- - 💣 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
- - 👉 [Wth happened?!](http://9gag.com/gag/amoK8Qo)<!-- MEMES:END -->
+ - 😝 [I wouldn&#39;t trust her either, tbh](http://9gag.com/gag/aND8KjA)
+ - 💣 [Michael Myers tries to return a purse to a nice lady](http://9gag.com/gag/aO8AVBy)
+ - 😝 [Serenity](http://9gag.com/gag/aLnV9Z5)
+ - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers won\u2019t be able to relate](http://9gag.com/gag/an78N3z)
- - 😝 [An enthusiast built a camera capable of capturing 2 BILLION frames per second\u2014and it was able to capture the movement of light.](http://9gag.com/gag/amoKzMd)
- - 💣 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 👉 [Finally some good news](http://9gag.com/gag/apRzvrW)<!-- MEMES:END -->
+ - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
+ - 😝 [Nice](http://9gag.com/gag/abAK0mB)
+ - 💣 [Old school hip hop is king.](http://9gag.com/gag/aGy6DbK)
+ - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
+ - 👉 [Trying to flirt with men is a whole espionage mission](http://9gag.com/gag/aE0yR6K)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am jOrnalism](http://9gag.com/gag/a9yZP0D)
- - 😝 [Finally some good news](http://9gag.com/gag/apRzvrW)
+ - 😝 [Thurnberggggg strikes again](http://9gag.com/gag/aZZoNG0)
+ - 😝 [Hopefully they don\u2019t screw this up like every other reboot](http://9gag.com/gag/ary9KM0)
  - 💣 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
  - 😝 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)
- - 👉 [The Philippine government made him pay the bail, then placed his trial on hold... Indefinitely &lpar;For forever&rpar;](http://9gag.com/gag/aD2rme9)<!-- MEMES:END -->
+ - 👉 [Wth happened?!](http://9gag.com/gag/amoK8Qo)<!-- MEMES:END -->
 
 ---
 

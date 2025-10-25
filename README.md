@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice](http://9gag.com/gag/abAK0mB)
- - 😝 [Just a little guy.](http://9gag.com/gag/agm6qmW)
- - 💣 [Old school hip hop is king.](http://9gag.com/gag/aGy6DbK)
- - 😝 [Trying to flirt with men is a whole espionage mission](http://9gag.com/gag/aE0yR6K)
- - 👉 [Double tap to zoom is back!](http://9gag.com/gag/avy4P1b)<!-- MEMES:END -->
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 😝 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)
+ - 👉 [What Thee??](http://9gag.com/gag/awyPnrQ)<!-- MEMES:END -->
 
 ---
 

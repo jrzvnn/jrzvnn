@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
  - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
  - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
  - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
  - 👉 [Is that who I think it is?](http://9gag.com/gag/aRB9mLQ)<!-- MEMES:END -->

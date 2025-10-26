@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Austin-based Roller, a provider of venue management software, raised $50M led by Insight Partners, taking its total funding to over $100M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251026/p1#a251026p1)
  - [Singapore-based wealth management platform Endowus raised $70M+, bringing its total funding to $130M+, and says the new capital will boost its AI advisory tools &lpar;Katrina Bianca Cuaresma/DealStreetAsia&rpar;](http://www.techmeme.com/251025/p15#a251025p15)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 26, #398](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-26-398/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-26/#ftag=CAD590a51e)
- - [Sources: AI chip startup SambaNova is exploring a sale after it struggled to complete a fundraising round; SambaNova was last valued at $5B in 2021 &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/251025/p14#a251025p14)
- - [Chevy&#39;s New Bolt Electric Car Is Truly Affordable, at Less Than $30,000](https://www.cnet.com/roadshow/news/chevys-new-bolt-electric-car-is-truly-affordable-at-less-than-30000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: AI chip startup SambaNova is exploring a sale after it struggled to complete a fundraising round; SambaNova was last valued at $5B in 2021 &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/251025/p14#a251025p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

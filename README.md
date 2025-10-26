@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
  - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)
+ - 💣 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
  - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
 
 ---

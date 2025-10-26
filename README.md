@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 😝 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 😝 [I&#39;m afraid of heights](http://9gag.com/gag/aE0yYpM)
+ - 👉 [Jump!](http://9gag.com/gag/abAKpGp)<!-- MEMES:END -->
 
 ---
 

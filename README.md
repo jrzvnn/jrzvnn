@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
- - 💣 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 👉 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)<!-- MEMES:END -->
+ - 😝 [Trying to flirt with men is a whole espionage mission](http://9gag.com/gag/aE0yR6K)
+ - 😝 [Doggo saved from street life.](http://9gag.com/gag/ae9ybK5)
+ - 💣 [Why?](http://9gag.com/gag/aGy619z)
+ - 😝 [Malinois dog figured out a way to help his human move tires \u2014 by carrying four tires in one bite](http://9gag.com/gag/a0ezbnq)
+ - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
 
 ---
 

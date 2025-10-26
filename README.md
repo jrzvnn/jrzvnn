@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Tracker&#39;: How to Watch Season 3, Episode 2 Without Cable](https://www.cnet.com/tech/services-and-software/tracker-how-to-watch-season-3-episode-2-without-cable/#ftag=CAD590a51e)
+ - [Inside OpenAI&#39;s deals with Nvidia, Oracle, and AMD, in which Sam Altman largely relied on his executive team, with little input from outside advisors &lpar;Financial Times&rpar;](http://www.techmeme.com/251026/p11#a251026p11)
  - [You need to listen to the brutally oppressive I’ve Seen All I Need to See](https://www.theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see)
  - [Best Internet Providers in New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-new-jersey/#ftag=CAD590a51e)
  - [Swift releases Swift SDK preview for Android, allowing developers to build Android apps in Swift and making it easier to share code across iOS and Android &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251026/p10#a251026p10)

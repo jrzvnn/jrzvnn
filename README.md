@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based wealth management platform Endowus raised $70M+, bringing its total funding to $130M+, and says the new capital will boost its AI advisory tools &lpar;Katrina Bianca Cuaresma/DealStreetAsia&rpar;](http://www.techmeme.com/251025/p15#a251025p15)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 26, #398](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-26-398/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Oct. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-oct-26/#ftag=CAD590a51e)
  - [Sources: AI chip startup SambaNova is exploring a sale after it struggled to complete a fundraising round; SambaNova was last valued at $5B in 2021 &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/251025/p14#a251025p14)
- - [Chevy&#39;s New Bolt Electric Car Is Truly Affordable, at Less Than $30,000](https://www.cnet.com/roadshow/news/chevys-new-bolt-electric-car-is-truly-affordable-at-less-than-30000/#ftag=CAD590a51e)
- - [Kyrgyzstan launches a national stablecoin and a CBDC in partnership with Binance; CZ says a national cryptocurrency reserve includes Binance&#39;s BNB token &lpar;Aigerim Turgunbaeva/Reuters&rpar;](http://www.techmeme.com/251025/p13#a251025p13)
- - [When to Watch &#39;The Fantastic Four: First Steps&#39; on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-watch-the-fantastic-four-first-steps-on-disney-plus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 26, #868](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-26-868/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chevy&#39;s New Bolt Electric Car Is Truly Affordable, at Less Than $30,000](https://www.cnet.com/roadshow/news/chevys-new-bolt-electric-car-is-truly-affordable-at-less-than-30000/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

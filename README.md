@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 👉 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)<!-- MEMES:END -->
+ - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 👉 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)<!-- MEMES:END -->
 
 ---
 

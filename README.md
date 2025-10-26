@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
  - 😝 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
- - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 😝 [Jump!](http://9gag.com/gag/abAKpGp)
- - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 💣 [Vroom vroom](http://9gag.com/gag/an78NPL)
+ - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 👉 [Jump!](http://9gag.com/gag/abAKpGp)<!-- MEMES:END -->
 
 ---
 

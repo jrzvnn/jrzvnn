@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
+ - 💣 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
  - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
+ - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
 
 ---
 

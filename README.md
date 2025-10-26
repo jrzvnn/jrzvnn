@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
  - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 👉 [What Thee??](http://9gag.com/gag/awyPnrQ)<!-- MEMES:END -->
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 👉 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)<!-- MEMES:END -->
 
 ---
 

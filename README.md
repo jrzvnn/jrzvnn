@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 😝 [Best selling Jazz single of all time](http://9gag.com/gag/aPAz9LK)
- - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
+ - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 ---
 

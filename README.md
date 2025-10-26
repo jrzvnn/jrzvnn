@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 💣 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
- - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 😝 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
+ - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 😝 [Jump!](http://9gag.com/gag/abAKpGp)
+ - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
 
 ---
 

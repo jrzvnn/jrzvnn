@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Swift releases Swift SDK preview for Android, allowing developers to build Android apps in Swift and making it easier to share code across iOS and Android &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251026/p10#a251026p10)
  - [Adobe’s Project Indigo camera finally adds iPhone 17 support](https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support)
  - [Daylight Saving Time Ends in a Week: Get Ready to Fall Back](https://www.cnet.com/health/daylight-saving-time-ends-in-a-week-get-ready-to-fall-back/#ftag=CAD590a51e)
  - [How Guitar Hero made everybody a rock star](https://www.theverge.com/podcast/806168/guitar-hero-game-version-history)
- - [Sources: Sam Altman&#39;s brain-computer interface startup Merge Labs hires Mikhail Shapiro, who works on noninvasive techniques for neural imaging and control &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251026/p9#a251026p9)
- - [Scouts Can Now Earn a Merit Badge for AI](https://www.cnet.com/tech/services-and-software/scouts-can-now-earn-a-badge-for-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Sam Altman&#39;s brain-computer interface startup Merge Labs hires Mikhail Shapiro, who works on noninvasive techniques for neural imaging and control &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251026/p9#a251026p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

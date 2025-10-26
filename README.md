@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
  - 😝 [Health care](http://9gag.com/gag/apRzL8b)
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
  - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
+ - 😝 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
+ - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 💣 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
+ - 😝 [New York subway](http://9gag.com/gag/aqyBbg7)
+ - 😝 [Why?](http://9gag.com/gag/aGy619z)
+ - 💣 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
 
 ---
 

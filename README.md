@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good question.](http://9gag.com/gag/aW4P8B4)
- - 😝 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
+ - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
+ - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
  - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 😝 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)
- - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
+ - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
+ - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
 
 ---
 

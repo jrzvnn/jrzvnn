@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
  - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
+ - 😝 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
+ - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [You need to listen to the brutally oppressive I’ve Seen All I Need to See](https://www.theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see)
+ - [Best Internet Providers in New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-new-jersey/#ftag=CAD590a51e)
  - [Swift releases Swift SDK preview for Android, allowing developers to build Android apps in Swift and making it easier to share code across iOS and Android &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/251026/p10#a251026p10)
  - [Adobe’s Project Indigo camera finally adds iPhone 17 support](https://www.theverge.com/news/806779/adobes-project-indigo-camera-finally-adds-iphone-17-support)
- - [Daylight Saving Time Ends in a Week: Get Ready to Fall Back](https://www.cnet.com/health/daylight-saving-time-ends-in-a-week-get-ready-to-fall-back/#ftag=CAD590a51e)
- - [How Guitar Hero made everybody a rock star](https://www.theverge.com/podcast/806168/guitar-hero-game-version-history)<!-- TECH:END -->
+ - [Daylight Saving Time Ends in a Week: Get Ready to Fall Back](https://www.cnet.com/health/daylight-saving-time-ends-in-a-week-get-ready-to-fall-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

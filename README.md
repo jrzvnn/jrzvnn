@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
- - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
- - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [I don&#39;t understand](https://www.reddit.com/r/funny/comments/1oges2l/i_dont_understand/)
- - 👉 [Malinois dog figured out a way to help his human move tires \u2014 by carrying four tires in one bite](http://9gag.com/gag/a0ezbnq)<!-- MEMES:END -->
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 👉 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)<!-- MEMES:END -->
 
 ---
 

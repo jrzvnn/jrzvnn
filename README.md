@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 💣 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
  - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
+ - 💣 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 😝 [I just leave this here.](http://9gag.com/gag/apRzQ6b)
+ - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
 
 ---
 

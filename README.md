@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
+ - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 ---
 

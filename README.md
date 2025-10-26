@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Zocdoc CEO Oliver Kharraz on the patient scheduling platform&#39;s telehealth expansion, its policy of not providing medical advice through AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251026/p12#a251026p12)
+ - [Unlock Borderlands 4 Power: Try These Active SHiFT Codes ASAP](https://www.cnet.com/tech/gaming/unlock-borderlands-4-power-try-these-active-shift-codes-asap/#ftag=CAD590a51e)
+ - [Sunday Night Football: How to Watch Packers vs. Steelers Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-packers-vs-steelers-tonight/#ftag=CAD590a51e)
  - [Inside OpenAI&#39;s deals with Nvidia, Oracle, and AMD, where sources say Sam Altman largely relied on his executive team, with little input from outside advisors &lpar;Financial Times&rpar;](http://www.techmeme.com/251026/p11#a251026p11)
- - [&#39;Tracker&#39;: How to Watch Season 3, Episode 2 Without Cable](https://www.cnet.com/tech/services-and-software/tracker-how-to-watch-season-3-episode-2-without-cable/#ftag=CAD590a51e)
- - [You need to listen to the brutally oppressive I’ve Seen All I Need to See](https://www.theverge.com/column/806767/you-need-to-listen-to-the-body-ive-seen-all-i-need-to-see)
- - [Best Internet Providers in New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-new-jersey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Tracker&#39;: How to Watch Season 3, Episode 2 Without Cable](https://www.cnet.com/tech/services-and-software/tracker-how-to-watch-season-3-episode-2-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

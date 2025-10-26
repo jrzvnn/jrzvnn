@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football gif](http://9gag.com/gag/amoKrEX)
+ - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
  - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 💣 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 😝 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
- - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
+ - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
 
 ---
 

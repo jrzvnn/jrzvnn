@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rumble plans to roll out a bitcoin tipping feature, developed in partnership with Tether, to its 51M creators in December; Tether has invested $775M in Rumble &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/251026/p7#a251026p7)
- - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2025?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [The next legal frontier is your face and AI](https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai)
- - [My favorite e-reader just got a big update](https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer)
- - [Best Workout Headphones &lpar;2025&rpar;, Tested In the Gym and Beyond](https://www.wired.com/gallery/best-workout-headphones/)<!-- TECH:END -->
+ - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)
+ - [Ads likely coming to Apple Maps in 2026](https://appleinsider.com/articles/25/10/26/ads-likely-coming-to-apple-maps-in-2026?utm_source=rss)
+ - [Thuma Hybrid Mattress Review: Firm but Favorable](https://www.wired.com/review/thuma-hybrid-mattress/)
+ - [Google Nest Cam Indoor and Outdoor 2K Review: Slick, Smart, and Secure](https://www.wired.com/review/google-nest-cam-indoor-outdoor-2k-2025/)
+ - [You Still Shouldn’t Use a Browser Password Manager](https://www.wired.com/story/browser-password-managers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
- - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 💣 [Is that who I think it is?](http://9gag.com/gag/aRB9mLQ)
  - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
- - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
+ - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
 
 ---
 

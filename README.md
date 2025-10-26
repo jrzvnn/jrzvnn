@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Football gif](http://9gag.com/gag/amoKrEX)
- - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - 😝 [Spork](https://www.reddit.com/r/funny/comments/1ogi2uz/spork/)
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
+ - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 👉 [What Thee??](http://9gag.com/gag/awyPnrQ)<!-- MEMES:END -->
 
 ---
 

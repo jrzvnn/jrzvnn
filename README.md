@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Workout Headphones &lpar;2025&rpar;, Tested In the Gym and Beyond](https://www.wired.com/gallery/best-workout-headphones/)
- - [The 55 Best Movies on Netflix Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [Real Estate Is Entering Its AI Slop Era](https://www.wired.com/story/real-estate-is-entering-its-ai-slop-era/)
- - [Casio’s Fluffy AI Robot Squeaked Its Way Into My Heart](https://www.wired.com/story/casios-fluffy-ai-robot-squeaked-its-way-into-my-heart/)
- - [A First Ride With the Maeving RM2 Electric Motorcycle](https://www.wired.com/story/maeving-rm2-electric-motorcycle/)<!-- TECH:END -->
+ - [Rumble plans to roll out a bitcoin tipping feature, developed in partnership with Tether, to its 51M creators in December; Tether has invested $775M in Rumble &lpar;Francisco Rodrigues/CoinDesk&rpar;](http://www.techmeme.com/251026/p7#a251026p7)
+ - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2025?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
+ - [The next legal frontier is your face and AI](https://www.theverge.com/column/805821/the-next-legal-frontier-is-your-face-and-ai)
+ - [My favorite e-reader just got a big update](https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer)
+ - [Best Workout Headphones &lpar;2025&rpar;, Tested In the Gym and Beyond](https://www.wired.com/gallery/best-workout-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

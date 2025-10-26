@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Casio’s Fluffy AI Robot Squeaked Its Way Into My Heart](https://www.wired.com/story/casios-fluffy-ai-robot-squeaked-its-way-into-my-heart/)
  - [A First Ride With the Maeving RM2 Electric Motorcycle](https://www.wired.com/story/maeving-rm2-electric-motorcycle/)
  - [Sodapop Bluetooth Speaker Review: Bottled Up](https://www.wired.com/review/sodapop-bluetooth-speaker/)
- - [Internet Data Caps Explained: Avoid Extra Charges and Make the Most of Your Internet Plan](https://www.cnet.com/home/internet/internet-data-caps-explained-avoid-extra-charges-and-make-most-of-your-internet-plan/#ftag=CAD590a51e)
- - [French online carpooling marketplace BlaBlaCar says India now accounts for ~33% of its carpool passengers and expects to reach ~150M passengers globally in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251026/p6#a251026p6)<!-- TECH:END -->
+ - [French online carpooling marketplace BlaBlaCar says India now accounts for ~33% of its carpool passengers and expects to reach ~150M passengers globally in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251026/p6#a251026p6)
+ - [The Wellness Trap: How Influencers Are Reshaping &lpar;and Selling&rpar; Health Advice](https://www.cnet.com/health/features/wellness-trap-how-influencers-reshaping-health-advice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

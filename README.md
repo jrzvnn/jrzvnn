@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Artemis: $10B+ was moved through stablecoins in August, up from $6B in February and more than double YoY, following President Trump&#39;s signing of the Genius Act &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251026/p14#a251026p14)
  - [Flare Audio Sonic Lens review: A five-millimeter experiment in over-engineering](https://appleinsider.com/articles/25/10/26/flare-audio-sonic-lens-review-a-five-millimeter-experiment-in-over-engineering?utm_source=rss)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 27, #869](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-27-869/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 27, #399](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-27-399/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 27, #603](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-27-603/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Oct. 27, #1591](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-27-1591/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 27, #603](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-27-603/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

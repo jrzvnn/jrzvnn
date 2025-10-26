@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A First Ride With the Maeving RM2 Electric Motorcycle](https://www.wired.com/story/maeving-rm2-electric-motorcycle/)
  - [Sodapop Bluetooth Speaker Review: Bottled Up](https://www.wired.com/review/sodapop-bluetooth-speaker/)
  - [French online carpooling marketplace BlaBlaCar says India now accounts for ~33% of its carpool passengers and expects to reach ~150M passengers globally in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251026/p6#a251026p6)
  - [The Wellness Trap: How Influencers Are Reshaping &lpar;and Selling&rpar; Health Advice](https://www.cnet.com/health/features/wellness-trap-how-influencers-reshaping-health-advice/#ftag=CAD590a51e)
- - [These 8 Hidden Health Benefits of Green Tea Will Make You Put Your Coffee Down](https://www.cnet.com/health/nutrition/hidden-health-benefits-green-tea-make-put-coffee-down/#ftag=CAD590a51e)
- - [The US AI data center boom is consuming capital, power, and people that the rest of the economy needs, and is crowding out Trump&#39;s manufacturing revival plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251026/p5#a251026p5)<!-- TECH:END -->
+ - [These 8 Hidden Health Benefits of Green Tea Will Make You Put Your Coffee Down](https://www.cnet.com/health/nutrition/hidden-health-benefits-green-tea-make-put-coffee-down/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

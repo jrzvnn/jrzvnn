@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
+ - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
+ - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 😝 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)
  - 👉 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)<!-- MEMES:END -->
 
 ---

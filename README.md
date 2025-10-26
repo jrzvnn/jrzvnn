@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Salman Alabama](http://9gag.com/gag/aD2rj6G)
  - 😝 [So, he just nuked CS skin marketplace overnight.](http://9gag.com/gag/a87QpYe)
  - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 😝 [Malinois dog figured out a way to help his human move tires \u2014 by carrying four tires in one bite](http://9gag.com/gag/a0ezbnq)
- - 👉 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)<!-- MEMES:END -->
+ - 😝 [I don&#39;t understand](https://www.reddit.com/r/funny/comments/1oges2l/i_dont_understand/)
+ - 👉 [Malinois dog figured out a way to help his human move tires \u2014 by carrying four tires in one bite](http://9gag.com/gag/a0ezbnq)<!-- MEMES:END -->
 
 ---
 

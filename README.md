@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
  - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 💣 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 👉 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)<!-- MEMES:END -->
+ - 😝 [Ultra Chad](http://9gag.com/gag/adBrqpB)
+ - 💣 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
+ - 😝 [What Thee??](http://9gag.com/gag/awyPnrQ)
+ - 👉 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)<!-- MEMES:END -->
 
 ---
 

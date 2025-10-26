@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
  - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [Good question.](http://9gag.com/gag/aW4P8B4)
  - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
  - 😝 [A little tight](http://9gag.com/gag/azxoqzz)
- - 👉 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)<!-- MEMES:END -->
+ - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
 
 ---
 

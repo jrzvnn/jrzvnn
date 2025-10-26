@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Flare Audio Sonic Lens review: A five-millimeter experiment in over-engineering](https://appleinsider.com/articles/25/10/26/flare-audio-sonic-lens-review-a-five-millimeter-experiment-in-over-engineering?utm_source=rss)
- - [Treasury Secretary Scott Bessent says Trump and Xi will &quot;consummate&quot; a TikTok deal on Thursday in South Korea, confirming a final US-China agreement on the sale &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/251026/p13#a251026p13)
- - [Q&amp;A with Zocdoc CEO Oliver Kharraz on the patient scheduling platform&#39;s telehealth expansion, its policy of not providing medical advice through AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251026/p12#a251026p12)
- - [Unlock Borderlands 4 Power: Try These Active SHiFT Codes ASAP](https://www.cnet.com/tech/gaming/unlock-borderlands-4-power-try-these-active-shift-codes-asap/#ftag=CAD590a51e)
- - [Sunday Night Football: How to Watch Packers vs. Steelers Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-packers-vs-steelers-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Oct. 27, #869](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-oct-27-869/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Oct. 27, #399](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-oct-27-399/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Oct. 27, #603](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-oct-27-603/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Oct. 27, #1591](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-oct-27-1591/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

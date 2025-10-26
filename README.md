@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Treasury Secretary Scott Bessent says Trump and Xi will &quot;consummate&quot; a TikTok deal on Thursday in South Korea, confirming a final US-China agreement on the sale &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/251026/p13#a251026p13)
  - [Q&amp;A with Zocdoc CEO Oliver Kharraz on the patient scheduling platform&#39;s telehealth expansion, its policy of not providing medical advice through AI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251026/p12#a251026p12)
  - [Unlock Borderlands 4 Power: Try These Active SHiFT Codes ASAP](https://www.cnet.com/tech/gaming/unlock-borderlands-4-power-try-these-active-shift-codes-asap/#ftag=CAD590a51e)
  - [Sunday Night Football: How to Watch Packers vs. Steelers Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-packers-vs-steelers-tonight/#ftag=CAD590a51e)
- - [Inside OpenAI&#39;s deals with Nvidia, Oracle, and AMD, where sources say Sam Altman largely relied on his executive team, with little input from outside advisors &lpar;Financial Times&rpar;](http://www.techmeme.com/251026/p11#a251026p11)
- - [&#39;Tracker&#39;: How to Watch Season 3, Episode 2 Without Cable](https://www.cnet.com/tech/services-and-software/tracker-how-to-watch-season-3-episode-2-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside OpenAI&#39;s deals with Nvidia, Oracle, and AMD, where sources say Sam Altman largely relied on his executive team, with little input from outside advisors &lpar;Financial Times&rpar;](http://www.techmeme.com/251026/p11#a251026p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

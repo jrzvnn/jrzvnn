@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French online carpooling marketplace BlaBlaCar says India now accounts for ~33% of its carpool passengers and expects to reach ~150M passengers globally in 2025 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251026/p6#a251026p6)
  - [These 8 Hidden Health Benefits of Green Tea Will Make You Put Your Coffee Down](https://www.cnet.com/health/nutrition/hidden-health-benefits-green-tea-make-put-coffee-down/#ftag=CAD590a51e)
  - [The US AI data center boom is consuming capital, power, and people that the rest of the economy needs, and is crowding out Trump&#39;s manufacturing revival plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251026/p5#a251026p5)
  - [Defakto, which lets enterprises secure automated interactions between internal systems and AI agents or other non-human actors, raised a $30.75M Series B &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251026/p4#a251026p4)
- - [Microsoft says its Gaming Copilot feature, which recently hit Windows 11 as a public beta, uses screenshots to understand in-game events, not to train AI models &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251026/p3#a251026p3)
- - [Seneca, which is developing autonomous firefighting drones, raised $60M in seed and Series A rounds led by Caffeinated Capital and Convective Capital &lpar;Christopher Marquis/Forbes&rpar;](http://www.techmeme.com/251026/p2#a251026p2)<!-- TECH:END -->
+ - [Microsoft says its Gaming Copilot feature, which recently hit Windows 11 as a public beta, uses screenshots to understand in-game events, not to train AI models &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251026/p3#a251026p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

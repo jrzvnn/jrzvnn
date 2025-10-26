@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
  - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
+ - 💣 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)
  - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 😝 [A little tight](http://9gag.com/gag/azxoqzz)
- - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
+ - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
 
 ---
 

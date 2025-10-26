@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How Guitar Hero made everybody a rock star](https://www.theverge.com/podcast/806168/guitar-hero-game-version-history)
  - [Sources: Sam Altman&#39;s brain-computer interface startup Merge Labs hires Mikhail Shapiro, who works on noninvasive techniques for neural imaging and control &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251026/p9#a251026p9)
  - [Sources: Apple is working on a vapor chamber for the next iPad Pro in 2027 and plans to start selling ads in its Maps app as early as next year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251026/p8#a251026p8)
  - [iPad Pro rumored to get iPhone 17 Pro vapor chamber cooling in early 2027](https://appleinsider.com/articles/25/10/26/ipad-pro-rumored-to-get-iphone-17-pro-vapor-chamber-cooling-in-early-2027?utm_source=rss)
- - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)
- - [Ads likely coming to Apple Maps in 2026](https://appleinsider.com/articles/25/10/26/ads-likely-coming-to-apple-maps-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [Best GoPro Camera &lpar;2025&rpar;: Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

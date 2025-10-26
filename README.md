@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US AI data center boom is consuming capital, power, and people that the rest of the economy needs, and is crowding out Trump&#39;s manufacturing revival plans &lpar;Bloomberg&rpar;](http://www.techmeme.com/251026/p5#a251026p5)
  - [Defakto, which lets enterprises secure automated interactions between internal systems and AI agents or other non-human actors, raised a $30.75M Series B &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251026/p4#a251026p4)
  - [Microsoft says its Gaming Copilot feature, which recently hit Windows 11 as a public beta, uses screenshots to understand in-game events, not to train AI models &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251026/p3#a251026p3)
  - [Seneca, which is developing autonomous firefighting drones, raised $60M in seed and Series A rounds led by Caffeinated Capital and Convective Capital &lpar;Christopher Marquis/Forbes&rpar;](http://www.techmeme.com/251026/p2#a251026p2)
- - [Austin-based Roller, a provider of venue management software, raised $50M led by Insight Partners, taking its total funding to over $100M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251026/p1#a251026p1)
- - [Singapore-based wealth management platform Endowus raised $70M+, bringing its total funding to $130M+, and says the new capital will boost its AI advisory tools &lpar;Katrina Bianca Cuaresma/DealStreetAsia&rpar;](http://www.techmeme.com/251025/p15#a251025p15)<!-- TECH:END -->
+ - [Austin-based Roller, a provider of venue management software, raised $50M led by Insight Partners, taking its total funding to over $100M &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251026/p1#a251026p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

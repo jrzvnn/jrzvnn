@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Workout Headphones &lpar;2025&rpar;, Tested In the Gym and Beyond](https://www.wired.com/gallery/best-workout-headphones/)
  - [The 55 Best Movies on Netflix Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [Real Estate Is Entering Its AI Slop Era](https://www.wired.com/story/real-estate-is-entering-its-ai-slop-era/)
  - [Casio’s Fluffy AI Robot Squeaked Its Way Into My Heart](https://www.wired.com/story/casios-fluffy-ai-robot-squeaked-its-way-into-my-heart/)
- - [A First Ride With the Maeving RM2 Electric Motorcycle](https://www.wired.com/story/maeving-rm2-electric-motorcycle/)
- - [Sodapop Bluetooth Speaker Review: Bottled Up](https://www.wired.com/review/sodapop-bluetooth-speaker/)<!-- TECH:END -->
+ - [A First Ride With the Maeving RM2 Electric Motorcycle](https://www.wired.com/story/maeving-rm2-electric-motorcycle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

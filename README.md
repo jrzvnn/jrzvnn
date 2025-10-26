@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 😝 [Oh Hanna hell no](http://9gag.com/gag/an781Y0)
- - 💣 [College girl learned a lesson her parents never taught her](http://9gag.com/gag/an78NVo)
- - 😝 [Bro is the worst nightmare for feminists](http://9gag.com/gag/aE0y79p)
- - 👉 [Watching Shazam 2, when I suddenly noticed something familiar.](http://9gag.com/gag/a2v95WE)<!-- MEMES:END -->
+ - 😝 [Good question.](http://9gag.com/gag/aW4P8B4)
+ - 😝 [Busting makes him feel good...](http://9gag.com/gag/ayNZ8YM)
+ - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 😝 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)
+ - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
 
 ---
 

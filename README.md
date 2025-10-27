@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM launches Digital Asset Haven, a digital assets platform built with crypto wallet provider Dfns for financial institutions, governments, and companies &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251027/p15#a251027p15)
- - [iPhone 18 Pro variable aperture camera rumor surfaces once again](https://appleinsider.com/articles/25/10/27/iphone-18-pro-variable-aperture-camera-rumor-surfaces-once-again?utm_source=rss)
- - [Flare Audio Sonic Lens review: A five-millimeter experiment in over-engineering](https://appleinsider.com/articles/25/10/26/flare-audio-sonic-lens-review-a-five-millimeter-experiment-in-over-engineering?utm_source=rss)
- - [14 Best Bookshelf Speakers &lpar;2025&rpar;: Active, Passive, and Hi-Fi](https://www.wired.com/gallery/best-bookshelf-speakers/)
- - [Inside iMovie for Mac -- far more powerful than it&#39;s given credit for](https://appleinsider.com/articles/25/10/24/inside-imovie-for-mac----far-more-powerful-than-its-given-credit-for?utm_source=rss)<!-- TECH:END -->
+ - [Analysis: Chinese robotaxi companies like Baidu and WeRide are outnumbering their US rivals with more projects progressing from testing to commercialization &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251027/p16#a251027p16)
+ - [OnePlus 15 arrives in China, global launch ‘coming soon’](https://www.theverge.com/news/806926/oneplus-15-launch-china-specs-camera-battery)
+ - [Anniversary iPhone 20 could get a massively improved camera sensor](https://appleinsider.com/articles/25/10/27/anniversary-iphone-20-could-get-a-massively-improved-camera-sensor?utm_source=rss)
+ - [17 Thoughtful Gifts for Coworkers They&#39;ll Appreciate in 2025](https://www.wired.com/gallery/gifts-for-coworkers/)
+ - [IBM launches Digital Asset Haven, a digital assets platform built with crypto wallet provider Dfns for financial institutions, governments, and companies &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251027/p15#a251027p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

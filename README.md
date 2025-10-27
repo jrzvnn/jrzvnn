@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s MiniMax releases MiniMax M2, an open source model optimized for AI agents and coding and priced at $0.30/1M input tokens and $1.20/1M output tokens &lpar;MiniMax&rpar;](http://www.techmeme.com/251027/p26#a251027p26)
+ - [&amp;#8216;There isn&amp;#8217;t really another choice:&amp;#8217; Signal chief explains why the encrypted messenger relies on AWS](https://www.theverge.com/news/807147/signal-aws-outage-meredith-whittaker)
+ - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)
  - [OpenAI estimates that around 0.07% of ChatGPT users active in a week show &quot;severe mental health symptoms&quot; like mania, and details its safety improvements &lpar;OpenAI&rpar;](http://www.techmeme.com/251027/p25#a251027p25)
- - [OpenAI Says Hundreds of Thousands of ChatGPT Users May Show Signs of Manic or Psychotic Crisis Every Week](https://www.wired.com/story/chatgpt-psychosis-and-self-harm-update/)
- - [The current AI investment boom will spark a &quot;wildfire&quot; that wipes out some companies, yet bolsters and enables others by unlocking GPUs, energy, and talent &lpar;Dion Lim/CEO Dinner Insights&rpar;](http://www.techmeme.com/251027/p24#a251027p24)
- - [Beats’ Powerbeats Pro 2 are nearly matching their best price to date](https://www.theverge.com/tech/789188/beats-powerbeats-pro-2-workout-earbuds-deal-sale)
- - [Fitbit’s overhauled app and AI health coach arrive today](https://www.theverge.com/tech/806243/fitbit-ai-health-coach-app-update-preview)<!-- TECH:END -->
+ - [OpenAI Says Hundreds of Thousands of ChatGPT Users May Show Signs of Manic or Psychotic Crisis Every Week](https://www.wired.com/story/chatgpt-psychosis-and-self-harm-update/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

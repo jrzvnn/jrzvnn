@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
- - 😝 [Nice shot](http://9gag.com/gag/awyPQQ1)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 💣 [Tensile Strength of a Steel Rod](http://9gag.com/gag/aD2rxnx)
+ - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 ---
 

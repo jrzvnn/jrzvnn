@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
- - 😝 [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
- - 💣 [Why?](http://9gag.com/gag/aGy619z)
- - 😝 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 👉 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)<!-- MEMES:END -->
+ - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 💣 [Legend ^_^](http://9gag.com/gag/aoyAOvx)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 ---
 

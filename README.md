@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tantalizing clue hints at Pixelmator Pro and more coming to iPad soon](https://appleinsider.com/articles/25/10/27/tantalizing-clue-hints-at-pixelmator-pro-and-more-coming-to-ipad-soon?utm_source=rss)
  - [The PS5 bundle that includes two years of PS Plus Premium is $170 off](https://www.theverge.com/tech/806949/ps5-ps-plus-premium-console-bundle-deal-sale)
  - [Upgrade your Apple Home with the compact retrofit Nuki Smart Lock](https://appleinsider.com/articles/25/10/27/upgrade-your-apple-home-with-the-compact-retrofit-nuki-smart-lock?utm_source=rss)
- - [iPhone Air production change orders may not be true](https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true?utm_source=rss)
- - [If you can’t afford a vacation, an AI app will sell you pictures of one](https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one)
- - [Qualcomm unveils two AI chips, the AI200, set for 2026, and the AI250, planned for 2027, based on its Hexagon NPUs, and says Humain is the first customer &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251027/p18#a251027p18)<!-- TECH:END -->
+ - [iPhone Air production cut orders may not be true](https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true?utm_source=rss)
+ - [If you can’t afford a vacation, an AI app will sell you pictures of one](https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

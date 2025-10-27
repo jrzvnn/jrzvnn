@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ&#39;s rigged-poker-game indictment involved hacking DeckMate, a casino-standard, suitcase-sized, $10K+ card shuffling machine, to reveal players&#39; hands &lpar;Molly Schuetz/Bloomberg&rpar;](http://www.techmeme.com/251027/p8#a251027p8)
- - [Japanese fintech JPYC launches a yen-pegged stablecoin, the country&#39;s first, and its issuance platform JPYC EX, targeting $65.4B in circulation in three years &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251027/p7#a251027p7)
- - [Chatbots Are Pushing Sanctioned Russian Propaganda](https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/)
- - [I Felt Like an Astronaut Testing Therabody&#39;s JetBoots for 1 Month. This Is How They Affected My Legs](https://www.cnet.com/health/felt-like-astronaut-testing-therabody-jetboots-how-affected-my-legs/#ftag=CAD590a51e)
- - [Real estate agents are using AI tools like AutoReel to replace videographers and stagers, cutting costs but generating distorted or misleading property images &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251027/p6#a251027p6)<!-- TECH:END -->
+ - [Indonesia and other developing countries are becoming AI hubs amid the multitrillion-dollar spending boom, in part driven by an &quot;AI decolonization&quot; philosophy &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p9#a251027p9)
+ - [AI and the End of Accents](https://www.wired.com/story/ai-americanizer-end-accents/)
+ - [AI’s Next Frontier? An Algorithm for Consciousness](https://www.wired.com/story/ai-sentient-consciousness-algorithm/)
+ - [Rise of the Killer Chatbots](https://www.wired.com/story/ai-weapon-anduril-llms-drones/)
+ - [Divorced? With Kids? And an Impossible Ex? There’s AI for That](https://www.wired.com/story/ai-emotional-spellcheck-difficult-people/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

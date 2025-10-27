@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla repeating old threats to get shareholders to approve Musk’s $1 trillion pay day](https://www.theverge.com/news/806970/tesla-elon-musk-trillion-pay-shareholder-board-letter)
+ - [Pila Energy&#39;s Cole Ashman, smart toilet cam, Whisker Litter Robot 5 on HomeKit Insider](https://appleinsider.com/articles/25/10/27/pila-energys-cole-ashman-smart-toilet-cam-whisker-litter-robot-5-on-homekit-insider?utm_source=rss)
+ - [Citigroup and Coinbase say they are exploring on-chain stablecoin payments and simpler crypto-fiat transfers for Citi&#39;s institutional clients &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251027/p22#a251027p22)
  - [Meta launches &quot;ghost posts&quot; on Threads, letting users share &quot;unfiltered thoughts&quot; in posts that disappear after 24 hours; replies will appear as a DM &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251027/p21#a251027p21)
- - [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus)
- - [2026 iPhone rumors: iPhone 18 Pro keeps 2025 design, iPhone 17e gets Dynamic Island](https://appleinsider.com/articles/25/10/27/2026-iphone-rumors-iphone-18-pro-keeps-2025-design-iphone-17e-gets-dynamic-island?utm_source=rss)
- - [Sora is showing us how broken deepfake detection is](https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials)
- - [Threads is getting disappearing posts](https://www.theverge.com/news/806940/threads-disappearing-ghost-posts-launch)<!-- TECH:END -->
+ - [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

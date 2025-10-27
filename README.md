@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Cal State&#39;s plans to become an &quot;AI-empowered&quot; university via partnerships with Amazon and a $16.9M deal to provide ChatGPT Edu to students and staff &lpar;New York Times&rpar;](http://www.techmeme.com/251027/p1#a251027p1)
  - [Australia sues Microsoft for allegedly misleading ~2.7M Microsoft 365 users into accepting a price hike for Copilot plans while hiding cheaper non-AI options &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251026/p17#a251026p17)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-27/#ftag=CAD590a51e)
  - [How building robotic hands that match human dexterity remains a major technical obstacle to deploying humanoid robots in factories and for caregiving jobs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251026/p16#a251026p16)
- - [Employees are increasingly using AI to create ultra-realistic fake expense receipts; AppZen and others attribute the rise to advances in image generation models &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251026/p15#a251026p15)
- - [Artemis: $10B+ was moved through stablecoins in August, up from $6B in February and more than double YoY, following President Trump&#39;s signing of the Genius Act &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251026/p14#a251026p14)<!-- TECH:END -->
+ - [Employees are increasingly using AI to create ultra-realistic fake expense receipts; AppZen and others attribute the rise to advances in image generation models &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251026/p15#a251026p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 😝 [The moment birds flock hit Saudia AK31 aircraft](http://9gag.com/gag/ae9yeRj)
- - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 💣 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
  - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
  - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 😝 [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
+ - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
 
 ---
 

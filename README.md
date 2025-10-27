@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The AI buildout, surpassing railroads and the internet, moves Big Tech from its successful asset-light model, and prior booms have resulted in overinvestment &lpar;Kai Wu/Sparkline Capital&rpar;](http://www.techmeme.com/251027/p19#a251027p19)
  - [Tantalizing clue hints at Pixelmator Pro and more coming to iPad soon](https://appleinsider.com/articles/25/10/27/tantalizing-clue-hints-at-pixelmator-pro-and-more-coming-to-ipad-soon?utm_source=rss)
  - [The PS5 bundle that includes two years of PS Plus Premium is $170 off](https://www.theverge.com/tech/806949/ps5-ps-plus-premium-console-bundle-deal-sale)
  - [Upgrade your Apple Home with the compact retrofit Nuki Smart Lock](https://appleinsider.com/articles/25/10/27/upgrade-your-apple-home-with-the-compact-retrofit-nuki-smart-lock?utm_source=rss)
- - [iPhone Air production cut orders may not be true](https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true?utm_source=rss)
- - [If you can’t afford a vacation, an AI app will sell you pictures of one](https://www.theverge.com/ai-artificial-intelligence/806486/if-you-cant-afford-a-vacation-an-ai-app-will-sell-you-pictures-of-one)<!-- TECH:END -->
+ - [iPhone Air production cut orders may not be true](https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

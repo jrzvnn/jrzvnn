@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Meta&#39;s head of AI product Nat Friedman says Vishal Shah, who previously led the metaverse unit, is joining his team to lead AI product management &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251027/p27#a251027p27)
- - [LexisNexis CEO says the AI law era is already here](https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview)
- - [China&#39;s MiniMax releases MiniMax M2, an open source model optimized for AI agents and coding and priced at $0.30/1M input tokens and $1.20/1M output tokens &lpar;MiniMax&rpar;](http://www.techmeme.com/251027/p26#a251027p26)
- - [&amp;#8216;There isn&amp;#8217;t really another choice:&amp;#8217; Signal chief explains why the encrypted messenger relies on AWS](https://www.theverge.com/news/807147/signal-aws-outage-meredith-whittaker)
- - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)<!-- TECH:END -->
+ - [GM isn’t ready to rip off the CarPlay/Android Auto band-aid quite yet](https://www.theverge.com/news/807189/gm-isnt-ready-to-rip-off-the-carplay-android-auto-band-aid-quite-yet)
+ - [Filing: iRobot says its last potential buyer withdrew from the process and its financials remain dire, following Amazon abandoning a 2024 bid; IRBT drops 33%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251027/p29#a251027p29)
+ - [Sources: Microsoft&#39;s next Xbox will run Windows, letting users play PlayStation titles on Steam and the full Xbox console library, without a multiplayer paywall &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/251027/p28#a251027p28)
+ - [Sennheiser’s Awesome Wireless Earbuds Are Almost Half Off](https://www.wired.com/story/sennheiser-tw4-deal-1025/)
+ - [Internal memo: Meta&#39;s head of AI product Nat Friedman says Vishal Shah, who previously led the metaverse unit, is joining his team to lead AI product management &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251027/p27#a251027p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
  - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
- - 💣 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
- - 😝 [Inside the AC-130, a flying arsenal](http://9gag.com/gag/aqyB7bj)
- - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
+ - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 😝 [Legend ^_^](http://9gag.com/gag/aoyAOvx)
+ - 👉 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)<!-- MEMES:END -->
 
 ---
 

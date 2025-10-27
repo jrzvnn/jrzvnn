@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 💣 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 👉 [Legend ^_^](http://9gag.com/gag/aoyAOvx)<!-- MEMES:END -->
 
 ---
 

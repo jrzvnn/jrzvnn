@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [This is so me](https://www.reddit.com/r/funny/comments/1ohhkhb/this_is_so_me/)
  - 😝 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
- - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 💣 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 😝 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)
+ - 👉 [China #1](http://9gag.com/gag/ae9yMxv)<!-- MEMES:END -->
 
 ---
 

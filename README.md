@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Live Nation&#39;s Setlist.fm, a wiki-like site with 80M annual users that changed live music by letting users document songs that artists play at concerts &lpar;Marc Hogan/New York Times&rpar;](http://www.techmeme.com/251027/p17#a251027p17)
  - [Analysis: Chinese robotaxi companies like Baidu and WeRide are outnumbering their US rivals with more projects progressing from testing to commercialization &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251027/p16#a251027p16)
  - [OnePlus 15 arrives in China, global launch ‘coming soon’](https://www.theverge.com/news/806926/oneplus-15-launch-china-specs-camera-battery)
  - [Anniversary iPhone 20 could get a massively improved camera sensor](https://appleinsider.com/articles/25/10/27/anniversary-iphone-20-could-get-a-massively-improved-camera-sensor?utm_source=rss)
- - [17 Thoughtful Gifts for Coworkers They&#39;ll Appreciate in 2025](https://www.wired.com/gallery/gifts-for-coworkers/)
- - [IBM launches Digital Asset Haven, a digital assets platform built with crypto wallet provider Dfns for financial institutions, governments, and companies &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251027/p15#a251027p15)<!-- TECH:END -->
+ - [17 Thoughtful Gifts for Coworkers They&#39;ll Appreciate in 2025](https://www.wired.com/gallery/gifts-for-coworkers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

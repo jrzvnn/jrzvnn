@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 😝 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
  - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 ---
 

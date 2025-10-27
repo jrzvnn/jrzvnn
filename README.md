@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)
  - [The Best Deals From the All-Clad Factory Seconds Sale on Kitchen Essentials &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
- - [Man Has Pig Kidney Removed After Living With It for a Record 9 Months](https://www.wired.com/story/man-has-pig-kidney-removed-after-living-with-it-for-a-record-9-months/)
- - [Sources: SAP is considering a new bid for accounting software company BlackLine, after its previous bid of nearly $4.5B was rejected in June &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251027/p31#a251027p31)<!-- TECH:END -->
+ - [That &#39;Healthy&#39; Protein Powder You Love? It Might Be Hiding Unsafe Levels of Lead](https://www.cnet.com/health/that-healthy-protein-powder-you-love-it-might-be-hiding-unsafe-levels-of-lead/#ftag=CAD590a51e)
+ - [Adobe&#39;s Indigo App Supercharges My iPhone Cameras, Now with iPhone 17 Support](https://www.cnet.com/tech/mobile/adobes-indigo-app-supercharges-my-iphone-cameras-now-with-iphone-17-support/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

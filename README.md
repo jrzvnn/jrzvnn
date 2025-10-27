@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The AI buildout, surpassing railroads and the internet, moves Big Tech from its successful asset-light model, and prior booms have resulted in overinvestment &lpar;Kai Wu/Sparkline Capital&rpar;](http://www.techmeme.com/251027/p19#a251027p19)
- - [Tantalizing clue hints at Pixelmator Pro and more coming to iPad soon](https://appleinsider.com/articles/25/10/27/tantalizing-clue-hints-at-pixelmator-pro-and-more-coming-to-ipad-soon?utm_source=rss)
- - [The PS5 bundle that includes two years of PS Plus Premium is $170 off](https://www.theverge.com/tech/806949/ps5-ps-plus-premium-console-bundle-deal-sale)
- - [Upgrade your Apple Home with the compact retrofit Nuki Smart Lock](https://appleinsider.com/articles/25/10/27/upgrade-your-apple-home-with-the-compact-retrofit-nuki-smart-lock?utm_source=rss)
- - [iPhone Air production cut orders may not be true](https://appleinsider.com/articles/25/10/27/iphone-air-production-change-orders-may-not-be-true?utm_source=rss)<!-- TECH:END -->
+ - [The US forms a $1B partnership with AMD to construct two supercomputers, Lux and Discovery, accelerating research in fusion energy, drug development, and more &lpar;Reuters&rpar;](http://www.techmeme.com/251027/p20#a251027p20)
+ - [X is getting closer to removing the last reminders of Twitter](https://www.theverge.com/news/807011/twitter-com-x-com-login-security-key-passkey-domain)
+ - [M4 MacBook Air falls to $799, save $200 with month-end deals](https://appleinsider.com/articles/25/10/27/m4-macbook-air-falls-to-799-save-200-with-month-end-deals?utm_source=rss)
+ - [The AI buildout, surpassing railroads and the internet, moves Big Tech from being asset-light to asset-heavy, which has historically produced inferior returns &lpar;Kai Wu/Sparkline Capital&rpar;](http://www.techmeme.com/251027/p19#a251027p19)
+ - [Tantalizing clue hints at Pixelmator Pro and more coming to iPad soon](https://appleinsider.com/articles/25/10/27/tantalizing-clue-hints-at-pixelmator-pro-and-more-coming-to-ipad-soon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

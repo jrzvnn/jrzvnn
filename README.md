@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 💣 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [Legend ^_^](http://9gag.com/gag/aoyAOvx)<!-- MEMES:END -->
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 😝 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 👉 [Best glue ever](http://9gag.com/gag/a5Qvnpr)<!-- MEMES:END -->
 
 ---
 

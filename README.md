@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI urges the US to commit to building 100GW of new energy capacity each year to stay ahead of China in AI, and says &quot;electrons are the new oil&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251027/p32#a251027p32)
+ - [Spotify finally brings video podcasts and music videos to its Apple TV app](https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts)
  - [Vince Gilligan&#39;s &#39;Pluribus&#39; brings Apple TV back to prestige storytelling](https://appleinsider.com/articles/25/10/27/vince-gilligans-pluribus-brings-apple-tv-back-to-prestige-storytelling?utm_source=rss)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)
- - [The Best Deals From the All-Clad Factory Seconds Sale on Kitchen Essentials &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
- - [That &#39;Healthy&#39; Protein Powder You Love? It Might Be Hiding Unsafe Levels of Lead](https://www.cnet.com/health/that-healthy-protein-powder-you-love-it-might-be-hiding-unsafe-levels-of-lead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
  - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 💣 [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 😝 [Nice shot](http://9gag.com/gag/awyPQQ1)
  - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 ---

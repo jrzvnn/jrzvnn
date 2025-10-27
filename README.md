@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: AI contractor marketplace Mercor is finalizing $350M in funding led by Felicis at a $10B valuation; founded in 2023, Mercor manages 30K contractors &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p13#a251027p13)
+ - [Sources: JPMorgan Chase is giving staff the option to use its in-house LLM to write year-end performance reviews, a shortcut to the often painstaking process &lpar;Financial Times&rpar;](http://www.techmeme.com/251027/p12#a251027p12)
+ - [Are Kids Still Looking for Careers in Tech?](https://www.wired.com/story/teens-stem-school-career-artificial-intelligence/)
  - [Out of touch -- how the MacBook Pro Touch Bar came and went](https://appleinsider.com/articles/25/10/27/out-of-touch----how-the-macbook-pro-touch-bar-came-and-went?utm_source=rss)
- - [Microsoft&#39;s disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B &quot;other, net&quot; expense line in the FY ended June 30 &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p11#a251027p11)
- - [Hundreds of People With ‘Top Secret’ Clearance Exposed by House Democrats’ Website](https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/)
- - [How Saudi Arabia is pouring money into data centers and working with US and Chinese tech giants, landing its AI ambitions in the middle of a geopolitical tussle &lpar;New York Times&rpar;](http://www.techmeme.com/251027/p10#a251027p10)
- - [Indonesia and other developing countries are becoming AI hubs amid the multitrillion-dollar spending boom, in part driven by an &quot;AI decolonization&quot; philosophy &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p9#a251027p9)<!-- TECH:END -->
+ - [Microsoft&#39;s disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B &quot;other, net&quot; expense line in the FY ended June 30 &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p11#a251027p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

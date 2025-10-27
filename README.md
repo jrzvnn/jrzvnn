@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
  - 😝 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
- - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
  - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 💣 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 😝 [Bobcat Goldthwait as the narrator of the last few years is spot on](http://9gag.com/gag/a0ezKNL)
  - 👉 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)<!-- MEMES:END -->
 
 ---

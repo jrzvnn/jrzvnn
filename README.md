@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The last-gen Kindle is a steal at just $65 refurbished](https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale)
  - [GM isn’t ready to rip off the CarPlay/Android Auto band-aid quite yet](https://www.theverge.com/news/807189/gm-isnt-ready-to-rip-off-the-carplay-android-auto-band-aid-quite-yet)
  - [Filing: iRobot says its last potential buyer withdrew from the process and its financials remain dire, following Amazon abandoning a 2024 bid; IRBT drops 33%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251027/p29#a251027p29)
  - [Sources: Microsoft&#39;s next Xbox will run Windows, letting users play PlayStation titles on Steam and the full Xbox console library, without a multiplayer paywall &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/251027/p28#a251027p28)
- - [Sennheiser’s Awesome Wireless Earbuds Are Almost Half Off](https://www.wired.com/story/sennheiser-tw4-deal-1025/)
- - [Internal memo: Meta&#39;s head of AI product Nat Friedman says Vishal Shah, who previously led the metaverse unit, is joining his team to lead AI product management &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251027/p27#a251027p27)<!-- TECH:END -->
+ - [Sennheiser’s Awesome Wireless Earbuds Are Almost Half Off](https://www.wired.com/story/sennheiser-tw4-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

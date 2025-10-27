@@ -159,8 +159,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: SAP is considering a new bid for software company BlackLine, after its previous offer of $66 per share, or nearly $4.5B, was rejected in June &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251027/p31#a251027p31)
  - [Sources: Amazon plans to lay off ~10% of corporate staff, or ~30,000 people, its largest layoffs since 2022, to reduce costs and address pandemic overhiring &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251027/p30#a251027p30)
- - [X Is Retiring Twitter.com. You Have Until Nov. 10 to Update Your Account or Risk Lockout](https://www.cnet.com/news/social-media/x-is-retiring-twitter-com-you-have-until-nov-10-to-update-your-account-or-risk-lockout/#ftag=CAD590a51e)
- - [AI Ranked the Catchiest Songs in History—Are Your Favorites on the List?](https://www.cnet.com/tech/services-and-software/ai-has-officially-solved-the-debate-over-the-catchiest-songs-ever/#ftag=CAD590a51e)
+ - [The last-gen Kindle is a steal at just $65 refurbished](https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale)
+ - [GM isn’t ready to rip off the CarPlay/Android Auto band-aid quite yet](https://www.theverge.com/news/807189/gm-isnt-ready-to-rip-off-the-carplay-android-auto-band-aid-quite-yet)
  - [Filing: iRobot says its last potential buyer withdrew from the process and its financials remain dire, following Amazon abandoning a 2024 bid; IRBT drops 33%+ &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251027/p29#a251027p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

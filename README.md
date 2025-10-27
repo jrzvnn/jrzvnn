@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 👉 [Be a good listener](http://9gag.com/gag/avy4GLM)<!-- MEMES:END -->
+ - 😝 [Legend ^_^](http://9gag.com/gag/aoyAOvx)
+ - 😝 [Be a good listener](http://9gag.com/gag/avy4GLM)
+ - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 😝 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
+ - 👉 [The big naturals](http://9gag.com/gag/ary9bO0)<!-- MEMES:END -->
 
 ---
 

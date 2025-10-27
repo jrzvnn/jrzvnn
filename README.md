@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US forms a $1B partnership with AMD to construct two supercomputers, Lux and Discovery, accelerating research in fusion energy, drug development, and more &lpar;Reuters&rpar;](http://www.techmeme.com/251027/p20#a251027p20)
- - [X is getting closer to removing the last reminders of Twitter](https://www.theverge.com/news/807011/twitter-com-x-com-login-security-key-passkey-domain)
- - [M4 MacBook Air falls to $799, save $200 with month-end deals](https://appleinsider.com/articles/25/10/27/m4-macbook-air-falls-to-799-save-200-with-month-end-deals?utm_source=rss)
- - [The AI buildout, surpassing railroads and the internet, moves Big Tech from being asset-light to asset-heavy, which has historically produced inferior returns &lpar;Kai Wu/Sparkline Capital&rpar;](http://www.techmeme.com/251027/p19#a251027p19)
- - [Tantalizing clue hints at Pixelmator Pro and more coming to iPad soon](https://appleinsider.com/articles/25/10/27/tantalizing-clue-hints-at-pixelmator-pro-and-more-coming-to-ipad-soon?utm_source=rss)<!-- TECH:END -->
+ - [Meta launches &quot;ghost posts&quot; on Threads, letting users share &quot;unfiltered thoughts&quot; in posts that disappear after 24 hours; replies will appear as a DM &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251027/p21#a251027p21)
+ - [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus)
+ - [2026 iPhone rumors: iPhone 18 Pro keeps 2025 design, iPhone 17e gets Dynamic Island](https://appleinsider.com/articles/25/10/27/2026-iphone-rumors-iphone-18-pro-keeps-2025-design-iphone-17e-gets-dynamic-island?utm_source=rss)
+ - [Sora is showing us how broken deepfake detection is](https://www.theverge.com/report/806359/openai-sora-deepfake-detection-c2pa-content-credentials)
+ - [Threads is getting disappearing posts](https://www.theverge.com/news/806940/threads-disappearing-ghost-posts-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

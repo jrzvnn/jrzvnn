@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
- - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 😝 [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - 💣 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
  - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
 
 ---

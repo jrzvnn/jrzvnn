@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)
+ - [The Best Deals From the All-Clad Factory Seconds Sale on Kitchen Essentials &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
  - [Man Has Pig Kidney Removed After Living With It for a Record 9 Months](https://www.wired.com/story/man-has-pig-kidney-removed-after-living-with-it-for-a-record-9-months/)
- - [Sources: SAP is considering a new bid for accounting software company BlackLine, after its previous bid of nearly $4.5B was rejected in June &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251027/p31#a251027p31)
- - [Sources: Amazon plans to lay off ~10% of corporate staff, or ~30,000 people, its largest layoffs since 2022, to reduce costs and address pandemic overhiring &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251027/p30#a251027p30)
- - [X Is Retiring Twitter.com. You Have Until Nov. 10 to Update Your Account or Risk Lockout](https://www.cnet.com/news/social-media/x-is-retiring-twitter-com-you-have-until-nov-10-to-update-your-account-or-risk-lockout/#ftag=CAD590a51e)
- - [The last-gen Kindle is a steal at just $65 refurbished](https://www.theverge.com/tech/807194/kindle-2022-refurbished-deal-sale)<!-- TECH:END -->
+ - [Sources: SAP is considering a new bid for accounting software company BlackLine, after its previous bid of nearly $4.5B was rejected in June &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251027/p31#a251027p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

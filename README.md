@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why?](http://9gag.com/gag/aGy619z)
- - 😝 [Back when we had to invent our own fun. Good times](http://9gag.com/gag/adBr7Gd)
- - 💣 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)
- - 😝 [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
- - 👉 [Need to workout? Tap quickly to do pushups](http://9gag.com/gag/a2v9rmp)<!-- MEMES:END -->
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 😝 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)
+ - 💣 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
+ - 😝 [Inside the AC-130, a flying arsenal](http://9gag.com/gag/aqyB7bj)
+ - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 😝 [Nice shot](http://9gag.com/gag/awyPQQ1)
- - 💣 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
+ - 😝 [Well well well](http://9gag.com/gag/azxoXpq)
+ - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 💣 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 👉 [Legend ^_^](http://9gag.com/gag/aoyAOvx)<!-- MEMES:END -->
 
 ---
 

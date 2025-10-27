@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Meta&#39;s head of AI product Nat Friedman says Vishal Shah, who previously led the metaverse unit, is joining his team to lead AI product management &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/251027/p27#a251027p27)
+ - [LexisNexis CEO says the AI law era is already here](https://www.theverge.com/podcast/807136/lexisnexis-ceo-sean-fitzpatick-ai-lawyer-legal-chatgpt-interview)
  - [China&#39;s MiniMax releases MiniMax M2, an open source model optimized for AI agents and coding and priced at $0.30/1M input tokens and $1.20/1M output tokens &lpar;MiniMax&rpar;](http://www.techmeme.com/251027/p26#a251027p26)
  - [&amp;#8216;There isn&amp;#8217;t really another choice:&amp;#8217; Signal chief explains why the encrypted messenger relies on AWS](https://www.theverge.com/news/807147/signal-aws-outage-meredith-whittaker)
- - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)
- - [OpenAI estimates that around 0.07% of ChatGPT users active in a week show &quot;severe mental health symptoms&quot; like mania, and details its safety improvements &lpar;OpenAI&rpar;](http://www.techmeme.com/251027/p25#a251027p25)
- - [OpenAI Says Hundreds of Thousands of ChatGPT Users May Show Signs of Manic or Psychotic Crisis Every Week](https://www.wired.com/story/chatgpt-psychosis-and-self-harm-update/)<!-- TECH:END -->
+ - [iPhone 17, tariffs, and more: What to expect from Apple&#39;s Q4 2025 financials](https://appleinsider.com/articles/25/10/23/iphone-17-tariffs-and-more-what-to-expect-from-apples-q4-2025-financials?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

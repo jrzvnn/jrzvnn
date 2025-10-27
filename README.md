@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NextEra Energy and Google sign a 25-year power supply deal, which includes restarting the 615MW Duane Arnold nuclear plant in Iowa, shut down in 2020 &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251027/p35#a251027p35)
  - [Sources: Forge Global, a leading platform for trading stakes in private startups, is exploring a sale, after its stock fell 90% since its 2021 IPO &lpar;Financial Times&rpar;](http://www.techmeme.com/251027/p34#a251027p34)
  - [A look at Anthropic&#39;s success with corporate AI, which makes up ~80% of its revenue; a July report put its enterprise API market share at 32% vs. OpenAI&#39;s 25% &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p33#a251027p33)
  - [OpenAI urges the US to commit to building 100GW of new energy capacity each year to stay ahead of China in AI, and says &quot;electrons are the new oil&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251027/p32#a251027p32)
- - [Spotify finally brings video podcasts and music videos to its Apple TV app](https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts)
- - [Vince Gilligan&#39;s &#39;Pluribus&#39; brings Apple TV back to prestige storytelling](https://appleinsider.com/articles/25/10/27/vince-gilligans-pluribus-brings-apple-tv-back-to-prestige-storytelling?utm_source=rss)<!-- TECH:END -->
+ - [Spotify finally brings video podcasts and music videos to its Apple TV app](https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

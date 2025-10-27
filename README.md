@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Japanese fintech JPYC launches a yen-pegged stablecoin, the country&#39;s first, and its issuance platform JPYC EX, targeting $65.4B in circulation in three years &lpar;Timmy Shen/The Block&rpar;](http://www.techmeme.com/251027/p7#a251027p7)
  - [Chatbots Are Pushing Sanctioned Russian Propaganda](https://www.wired.com/story/chatbots-are-pushing-sanctioned-russian-propaganda/)
+ - [I Felt Like an Astronaut Testing Therabody&#39;s JetBoots for 1 Month. This Is How They Affected My Legs](https://www.cnet.com/health/felt-like-astronaut-testing-therabody-jetboots-how-affected-my-legs/#ftag=CAD590a51e)
  - [Real estate agents are using AI tools like AutoReel to replace videographers and stagers, cutting costs but generating distorted or misleading property images &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251027/p6#a251027p6)
- - [Q&amp;A with Bill Ready, who became Pinterest&#39;s CEO in 2022, about changes during his tenure, winning over Gen Z, Pinterest&#39;s business model, AI content, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/251027/p5#a251027p5)
- - [An interview with Mauro Porcini, who became Samsung&#39;s first Chief Design Officer in April, about creating a &quot;consistent experience&quot; across devices, and more &lpar;Verity Burns/Wired&rpar;](http://www.techmeme.com/251027/p4#a251027p4)<!-- TECH:END -->
+ - [Q&amp;A with Bill Ready, who became Pinterest&#39;s CEO in 2022, about changes during his tenure, winning over Gen Z, Pinterest&#39;s business model, AI content, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/251027/p5#a251027p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

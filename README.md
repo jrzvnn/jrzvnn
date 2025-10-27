@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A US judge decertifies a class action that accused Apple of monopolizing the market for iPhone apps, citing errors in the plaintiffs&#39; damages model &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251027/p39#a251027p39)
  - [&#39;Alarming errors&#39; lead to 2024 Apple App Store class action decertification by judge](https://appleinsider.com/articles/25/10/27/alarming-errors-lead-to-2024-apple-app-store-class-action-decertification-by-judge?utm_source=rss)
  - [PayPal and Bilt, which offers rewards points for rent payments, say Bilt customers will be able to use Venmo to make rent and mortgage payments starting in 2026 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/251027/p38#a251027p38)
  - [Chegg plans to cut 388 roles, or about 45% of the workforce, citing the &quot;new realities of AI&quot;, and says executive chairman Dan Rosensweig returns as CEO &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251027/p37#a251027p37)
- - [ExxonMobil accuses California of violating its free speech](https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws)
- - [Toronto-based Wealthsimple, an online investment management service, raised CA$750M co-led by Dragoneer and GIC at a post-money valuation of CA$10B &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251027/p36#a251027p36)<!-- TECH:END -->
+ - [ExxonMobil accuses California of violating its free speech](https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

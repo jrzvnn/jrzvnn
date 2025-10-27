@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
  - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 😝 [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
- - 👉 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)<!-- MEMES:END -->
+ - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 👉 [Be a good listener](http://9gag.com/gag/avy4GLM)<!-- MEMES:END -->
 
 ---
 

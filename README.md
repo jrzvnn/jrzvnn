@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vince Gilligan&#39;s &#39;Pluribus&#39; brings Apple TV back to prestige storytelling](https://appleinsider.com/articles/25/10/27/vince-gilligans-pluribus-brings-apple-tv-back-to-prestige-storytelling?utm_source=rss)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)
  - [The Best Deals From the All-Clad Factory Seconds Sale on Kitchen Essentials &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
- - [That &#39;Healthy&#39; Protein Powder You Love? It Might Be Hiding Unsafe Levels of Lead](https://www.cnet.com/health/that-healthy-protein-powder-you-love-it-might-be-hiding-unsafe-levels-of-lead/#ftag=CAD590a51e)
- - [Adobe&#39;s Indigo App Supercharges My iPhone Cameras, Now with iPhone 17 Support](https://www.cnet.com/tech/mobile/adobes-indigo-app-supercharges-my-iphone-cameras-now-with-iphone-17-support/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [That &#39;Healthy&#39; Protein Powder You Love? It Might Be Hiding Unsafe Levels of Lead](https://www.cnet.com/health/that-healthy-protein-powder-you-love-it-might-be-hiding-unsafe-levels-of-lead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

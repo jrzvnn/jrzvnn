@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Mauro Porcini, who became Samsung&#39;s first Chief Design Officer in April, about creating a &quot;consistent experience&quot; across devices, and more &lpar;Verity Burns/Wired&rpar;](http://www.techmeme.com/251027/p4#a251027p4)
  - [Papers, patents, and tenders show China&#39;s military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips &lpar;Reuters&rpar;](http://www.techmeme.com/251027/p3#a251027p3)
  - [Sixty-five countries sign a UN cybercrime treaty to share data and extradite suspects, despite privacy and security concerns from tech companies and activists &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251027/p2#a251027p2)
  - [A look at Cal State&#39;s plans to become an &quot;AI-empowered&quot; university via partnerships with Amazon and a $16.9M deal to provide ChatGPT Edu to students and staff &lpar;New York Times&rpar;](http://www.techmeme.com/251027/p1#a251027p1)
- - [Australia sues Microsoft for allegedly misleading ~2.7M Microsoft 365 users into accepting a price hike for Copilot plans while hiding cheaper non-AI options &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251026/p17#a251026p17)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Oct. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-oct-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia sues Microsoft for allegedly misleading ~2.7M Microsoft 365 users into accepting a price hike for Copilot plans while hiding cheaper non-AI options &lpar;Sneha Kumar/Reuters&rpar;](http://www.techmeme.com/251026/p17#a251026p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

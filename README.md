@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
  - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 😝 [The moment birds flock hit Saudia AK31 aircraft](http://9gag.com/gag/ae9yeRj)
  - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
+ - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 ---
 

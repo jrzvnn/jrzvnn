@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
  - 💣 [Legend ^_^](http://9gag.com/gag/aoyAOvx)
  - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 👉 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)<!-- MEMES:END -->
+ - 👉 [Making sure the safety net is working](http://9gag.com/gag/a1mBbX6)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OpenAI urges the US to commit to building 100GW of new energy capacity each year to stay ahead of China in AI, and says &quot;electrons are the new oil&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251027/p32#a251027p32)
  - [Spotify finally brings video podcasts and music videos to its Apple TV app](https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts)
  - [Vince Gilligan&#39;s &#39;Pluribus&#39; brings Apple TV back to prestige storytelling](https://appleinsider.com/articles/25/10/27/vince-gilligans-pluribus-brings-apple-tv-back-to-prestige-storytelling?utm_source=rss)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
+ - [OnePlus 15 Goes on Sale in China, and Its Global Launch Appears Imminent](https://www.cnet.com/tech/mobile/oneplus-15-goes-on-sale-in-china-and-its-global-launch-appears-imminent/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

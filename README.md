@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The skydiver could not open her chute, instructor did for her](http://9gag.com/gag/avy4r15)
- - 😝 [You do your thing, and I&#39;ll do mine.](http://9gag.com/gag/aKGn2wQ)
- - 💣 [Jamaica is about to be destroyed with the most powerful recorded hurricane BY FAR ever to touch it&#39;s lands](http://9gag.com/gag/aGy6eMZ)
- - 😝 [Best selling Jazz single of all time](http://9gag.com/gag/aPAz9LK)
- - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
+ - 😝 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)
+ - 😝 [He didn&#39;t choose it. It chose him](http://9gag.com/gag/aE0yRqx)
+ - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
+ - 👉 [Who&#39;s handing out these CDL&#39;s?](http://9gag.com/gag/ajPGX98)<!-- MEMES:END -->
 
 ---
 

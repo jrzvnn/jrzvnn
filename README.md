@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No matter your size, you eat.](http://9gag.com/gag/aD2rxR9)
- - 😝 [I like animals and I like good news, so I&#39;m doing a series of posts about how different animals have been saved &lpar;That&#39;s right, I&#39;m bringing the series back&rpar;](http://9gag.com/gag/agm6Xg1)
- - 💣 [I thought that we are smarter here...](http://9gag.com/gag/a87Qy1Y)
- - 😝 [Need to workout? Tap quickly to do pushups](http://9gag.com/gag/a2v9rmp)
- - 👉 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)<!-- MEMES:END -->
+ - 😝 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 💣 [3rd one is okay. And easy also.](http://9gag.com/gag/aE0yRrx)
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 👉 [`That was 15 seconds ago! That wasn&#39;t ME!`](http://9gag.com/gag/ayNZxVV)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B &quot;other, net&quot; expense line in the FY ended June 30 &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p11#a251027p11)
+ - [Hundreds of People With ‘Top Secret’ Clearance Exposed by House Democrats’ Website](https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/)
+ - [How Saudi Arabia is pouring money into data centers and working with US and Chinese tech giants, landing its AI ambitions in the middle of a geopolitical tussle &lpar;New York Times&rpar;](http://www.techmeme.com/251027/p10#a251027p10)
  - [Indonesia and other developing countries are becoming AI hubs amid the multitrillion-dollar spending boom, in part driven by an &quot;AI decolonization&quot; philosophy &lpar;Stu Woo/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p9#a251027p9)
- - [AI and the End of Accents](https://www.wired.com/story/ai-americanizer-end-accents/)
- - [AI’s Next Frontier? An Algorithm for Consciousness](https://www.wired.com/story/ai-sentient-consciousness-algorithm/)
- - [Rise of the Killer Chatbots](https://www.wired.com/story/ai-weapon-anduril-llms-drones/)
- - [Divorced? With Kids? And an Impossible Ex? There’s AI for That](https://www.wired.com/story/ai-emotional-spellcheck-difficult-people/)<!-- TECH:END -->
+ - [AI and the End of Accents](https://www.wired.com/story/ai-americanizer-end-accents/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

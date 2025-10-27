@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla repeating old threats to get shareholders to approve Musk’s $1 trillion pay day](https://www.theverge.com/news/806970/tesla-elon-musk-trillion-pay-shareholder-board-letter)
+ - [Anthropic expands Claude for Financial Services with a beta Claude for Excel integration, additional data connectors, and new pre-built Agent Skills &lpar;Webb Wright/ZDNET&rpar;](http://www.techmeme.com/251027/p23#a251027p23)
+ - [Tesla rehashing old threats to get shareholders to approve Musk’s $1 trillion pay day](https://www.theverge.com/news/806970/tesla-elon-musk-trillion-pay-shareholder-board-letter)
  - [Pila Energy&#39;s Cole Ashman, smart toilet cam, Whisker Litter Robot 5 on HomeKit Insider](https://appleinsider.com/articles/25/10/27/pila-energys-cole-ashman-smart-toilet-cam-whisker-litter-robot-5-on-homekit-insider?utm_source=rss)
  - [Citigroup and Coinbase say they are exploring on-chain stablecoin payments and simpler crypto-fiat transfers for Citi&#39;s institutional clients &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251027/p22#a251027p22)
- - [Meta launches &quot;ghost posts&quot; on Threads, letting users share &quot;unfiltered thoughts&quot; in posts that disappear after 24 hours; replies will appear as a DM &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251027/p21#a251027p21)
- - [Qualcomm is turning parts from cellphone chips into AI chips to rival Nvidia](https://www.theverge.com/news/807078/qualcomm-ai-chips-launch-hexagon-npus)<!-- TECH:END -->
+ - [Meta launches &quot;ghost posts&quot; on Threads, letting users share &quot;unfiltered thoughts&quot; in posts that disappear after 24 hours; replies will appear as a DM &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251027/p21#a251027p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

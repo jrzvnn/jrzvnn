@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android developers can now make apps using Apple&#39;s Swift](https://appleinsider.com/articles/25/10/27/android-developers-can-now-make-apps-using-apples-swift?utm_source=rss)
  - [Sources: AI contractor marketplace Mercor is finalizing $350M in funding led by Felicis at a $10B valuation; founded in 2023, Mercor manages 30K contractors &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p13#a251027p13)
  - [Sources: JPMorgan Chase is giving staff the option to use its in-house LLM to write year-end performance reviews, a shortcut to the often painstaking process &lpar;Financial Times&rpar;](http://www.techmeme.com/251027/p12#a251027p12)
  - [Are Kids Still Looking for Careers in Tech?](https://www.wired.com/story/teens-stem-school-career-artificial-intelligence/)
- - [Out of touch -- how the MacBook Pro Touch Bar came and went](https://appleinsider.com/articles/25/10/27/out-of-touch----how-the-macbook-pro-touch-bar-came-and-went?utm_source=rss)
- - [Microsoft&#39;s disclosures on its OpenAI stake are scant, including putting OpenAI-related losses into a $4.7B &quot;other, net&quot; expense line in the FY ended June 30 &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p11#a251027p11)<!-- TECH:END -->
+ - [Out of touch -- how the MacBook Pro Touch Bar came and went](https://appleinsider.com/articles/25/10/27/out-of-touch----how-the-macbook-pro-touch-bar-came-and-went?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Real estate agents are using AI tools like AutoReel to replace videographers and stagers, cutting costs but generating distorted or misleading property images &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251027/p6#a251027p6)
  - [Q&amp;A with Bill Ready, who became Pinterest&#39;s CEO in 2022, about changes during his tenure, winning over Gen Z, Pinterest&#39;s business model, AI content, and more &lpar;Jordyn Holman/New York Times&rpar;](http://www.techmeme.com/251027/p5#a251027p5)
  - [An interview with Mauro Porcini, who became Samsung&#39;s first Chief Design Officer in April, about creating a &quot;consistent experience&quot; across devices, and more &lpar;Verity Burns/Wired&rpar;](http://www.techmeme.com/251027/p4#a251027p4)
  - [Papers, patents, and tenders show China&#39;s military is integrating DeepSeek and Qwen models in weapons like AI-powered drones, and continues to use Nvidia chips &lpar;Reuters&rpar;](http://www.techmeme.com/251027/p3#a251027p3)
- - [Sixty-five countries sign a UN cybercrime treaty to share data and extradite suspects, despite privacy and security concerns from tech companies and activists &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251027/p2#a251027p2)
- - [A look at Cal State&#39;s plans to become an &quot;AI-empowered&quot; university via partnerships with Amazon and a $16.9M deal to provide ChatGPT Edu to students and staff &lpar;New York Times&rpar;](http://www.techmeme.com/251027/p1#a251027p1)<!-- TECH:END -->
+ - [Vietnam and 64 countries sign a UN cybercrime treaty to share data and extradite suspects, despite tech companies&#39; and activists&#39; privacy and security concerns &lpar;Lien Hoang/Nikkei Asia&rpar;](http://www.techmeme.com/251027/p2#a251027p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

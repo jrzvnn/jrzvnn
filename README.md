@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Alarming errors&#39; lead to 2024 Apple App Store class action decertification by judge](https://appleinsider.com/articles/25/10/27/alarming-errors-lead-to-2024-apple-app-store-class-action-decertification-by-judge?utm_source=rss)
+ - [PayPal and Bilt, which offers rewards points for rent payments, say Bilt customers will be able to use Venmo to make rent and mortgage payments starting in 2026 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/251027/p38#a251027p38)
  - [Chegg plans to cut 388 roles, or about 45% of the workforce, citing the &quot;new realities of AI&quot;, and says executive chairman Dan Rosensweig returns as CEO &lpar;Vallari Srivastava/Reuters&rpar;](http://www.techmeme.com/251027/p37#a251027p37)
  - [ExxonMobil accuses California of violating its free speech](https://www.theverge.com/news/807357/exxon-lawsuit-california-greenhouse-gas-climate-reporting-laws)
- - [Toronto-based Wealthsimple, an online investment management service, raised CA$750M co-led by Dragoneer and GIC at a post-money valuation of CA$10B &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251027/p36#a251027p36)
- - [Trump’s DHS is recruiting ICE officers with a Halo meme](https://www.theverge.com/news/807514/trump-white-house-dhs-ice-halo-image-meme-gamestop-console-wars)
- - [AMD, Department of Energy announce $1 billion AI supercomputer partnership](https://www.theverge.com/news/807483/amd-department-of-energy-announce-1-billion-ai-supercomputer-partnership)<!-- TECH:END -->
+ - [Toronto-based Wealthsimple, an online investment management service, raised CA$750M co-led by Dragoneer and GIC at a post-money valuation of CA$10B &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251027/p36#a251027p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

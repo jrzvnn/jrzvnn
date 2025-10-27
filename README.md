@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Anthropic&#39;s success with corporate AI, which makes up ~80% of its revenue; a July report put its enterprise API market share at 32% vs. OpenAI&#39;s 25% &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/251027/p33#a251027p33)
  - [OpenAI urges the US to commit to building 100GW of new energy capacity each year to stay ahead of China in AI, and says &quot;electrons are the new oil&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251027/p32#a251027p32)
  - [Spotify finally brings video podcasts and music videos to its Apple TV app](https://www.theverge.com/news/807382/spotify-apple-tv-tvos-app-update-music-video-podcasts)
  - [Vince Gilligan&#39;s &#39;Pluribus&#39; brings Apple TV back to prestige storytelling](https://appleinsider.com/articles/25/10/27/vince-gilligans-pluribus-brings-apple-tv-back-to-prestige-storytelling?utm_source=rss)
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [The All-Clad Pizza Oven Is $800 Off Right Now](https://www.wired.com/story/all-clad-pizza-oven-deal-october-2025/)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

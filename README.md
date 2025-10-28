@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Senators propose banning teens from using AI chatbots](https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban)
  - [YouTube will restrict more content showing &amp;#8216;graphic violence&amp;#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction)
  - [Be Wary of AI Videos as Hurricane Melissa Hits Jamaica. How to Spot a Fake](https://www.cnet.com/tech/services-and-software/be-wary-of-ai-videos-as-hurricane-melissa-hits-jamaica-how-to-spot-a-fake/#ftag=CAD590a51e)
  - [Verizon&#39;s New Internet Plan Could Cost You Just $25 Per Month](https://www.cnet.com/home/internet/verizons-new-internet-plan-could-cost-you-just-25-per-month/#ftag=CAD590a51e)
- - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)
- - [Amazon Slashes 14,000 Jobs in Major AI-Driven Shakeup](https://www.cnet.com/tech/services-and-software/amazon-cuts-14000-jobs-amid-ai-push/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

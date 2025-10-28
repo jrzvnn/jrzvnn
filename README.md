@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Redo of healer](http://9gag.com/gag/a6Z4oBL)
- - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
  - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [Back when kids were free-range](http://9gag.com/gag/a9yZKwW)
  - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---

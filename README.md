@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
+ - 😝 [Caw, caw!](http://9gag.com/gag/aByjxo1)
+ - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 💣 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 👉 [No staring at the gym! &lpar;sound needed&rpar;](http://9gag.com/gag/ary9g76)<!-- MEMES:END -->
 
 ---
 

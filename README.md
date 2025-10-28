@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Riyadh-based BNPL startup Tabby completes a secondary share sale of existing shareholders&#39; stakes, valuing it at $4.5B ahead of a possible IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p3#a251028p3)
  - [EU officials are scrambling to resolve a growing trade clash with China over rare earths and chips, as the bloc gets caught between Beijing and Washington &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p2#a251028p2)
  - [First look: DJI’s Romo robot vacuum](https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look)
  - [Pluribus&amp;#8217; Vince Gilligan on making shows that ‘attract really smart viewers’](https://www.theverge.com/entertainment/807102/pluribus-vince-gilligan-interview-apple-tv-breaking-bad)
- - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
- - [Home Depot Promo Codes: 10% Off | October 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

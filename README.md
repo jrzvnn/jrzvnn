@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [If your kids won’t eat their greens… the rabbit will 😂](https://www.reddit.com/r/funny/comments/1oibliw/if_your_kids_wont_eat_their_greens_the_rabbit_will/)
  - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 👉 [Prank](http://9gag.com/gag/aZZoLE3)<!-- MEMES:END -->
 
 ---
 

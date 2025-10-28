@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 50 Best Shows on HBO Max Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
  - [The latest Apple TV 4K just received a rare $30 discount](https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale)
- - [Donald Trump&#39;s Truth Social Is Launching a Polymarket Competitor](https://www.wired.com/story/trump-truth-social-launches-prediction-market/)
- - [A look at 1X&#39;s $20K Neo humanoid housekeeper robot, controlled remotely by a human with a VR headset, available now for preorder, with delivery expected in 2026 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p48#a251028p48)
- - [One of Our Favorite Pairs of Binoculars Is $80 Off](https://www.wired.com/story/celestron-trailseeker-deal-1025/)<!-- TECH:END -->
+ - [Donald Trump’s Truth Social Is Launching a Polymarket Competitor](https://www.wired.com/story/trump-truth-social-launches-prediction-market/)
+ - [A look at 1X&#39;s $20K Neo humanoid housekeeper robot, controlled remotely by a human with a VR headset, available now for preorder, with delivery expected in 2026 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p48#a251028p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

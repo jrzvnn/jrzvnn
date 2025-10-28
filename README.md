@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 😝 [Maybe a little justice?](http://9gag.com/gag/aLnV04g)
- - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
+ - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
+ - 😝 [Eye of class 5 hurricane Melissa](http://9gag.com/gag/aRB90BQ)
+ - 👉 [Legend ^_^](http://9gag.com/gag/aoyAOvx)<!-- MEMES:END -->
 
 ---
 

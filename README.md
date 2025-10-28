@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
- - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
+ - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 😝 [Caw, caw!](http://9gag.com/gag/aByjxo1)
+ - 💣 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 😝 [Back when kids were free-range](http://9gag.com/gag/a9yZKwW)
+ - 👉 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)<!-- MEMES:END -->
 
 ---
 

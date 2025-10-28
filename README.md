@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Life of keyboard..](http://9gag.com/gag/amoK76d)
  - 😝 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 💣 [Caw, caw!](http://9gag.com/gag/aByjxo1)
- - 😝 [Back when kids were free-range](http://9gag.com/gag/a9yZKwW)
+ - 💣 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 😝 [Caw, caw!](http://9gag.com/gag/aByjxo1)
  - 👉 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)<!-- MEMES:END -->
 
 ---

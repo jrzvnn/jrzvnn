@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
- - 😝 [Caw, caw!](http://9gag.com/gag/aByjxo1)
- - 💣 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
  - 😝 [Back when kids were free-range](http://9gag.com/gag/a9yZKwW)
- - 👉 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)<!-- MEMES:END -->
+ - 👉 [Nice shot](http://9gag.com/gag/awyPQQ1)<!-- MEMES:END -->
 
 ---
 

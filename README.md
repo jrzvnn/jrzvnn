@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Substrate, which uses particle acceleration to handle lithography, claiming to solve one of tech&#39;s toughest problems, and aims to compete with ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p27#a251028p27)
  - [Apple reaches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)
  - [Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251028/p26#a251028p26)
  - [OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft](https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi)
- - [ConductorOne, which helps address identity cybersecurity risks for human and AI staff, raised a $79M Series B led by Greycroft, sources say at a $350M valuation &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251028/p25#a251028p25)
- - [Govee’s new power outlet expander gives you voice control and a night light](https://www.theverge.com/news/807890/govee-smart-plug-outlet-extender-voice-control-alexa-google-assistant)<!-- TECH:END -->
+ - [ConductorOne, which helps address identity cybersecurity risks for human and AI staff, raised a $79M Series B led by Greycroft, sources say at a $350M valuation &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251028/p25#a251028p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

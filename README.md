@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
- - 😝 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
+ - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
+ - 😝 [Do not pass go?](http://9gag.com/gag/aqyBgqM)
  - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---

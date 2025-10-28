@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Substrate, which uses particle acceleration to handle lithography, claiming to solve one of tech&#39;s toughest problems, and aims to compete with ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p27#a251028p27)
- - [Apple reaches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)
- - [Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251028/p26#a251028p26)
- - [OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft](https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi)
- - [ConductorOne, which helps address identity cybersecurity risks for human and AI staff, raised a $79M Series B led by Greycroft, sources say at a $350M valuation &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251028/p25#a251028p25)<!-- TECH:END -->
+ - [Apple&#39;s Services expected to top $100 billion annually -- for now](https://appleinsider.com/articles/25/10/28/apples-services-expected-to-top-100-billion-annually----for-now?utm_source=rss)
+ - [Apple crosses a $4T market cap in intra-day trading, making it only the third public company ever to reach the milestone; AAPL is up 56% since its April low &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251028/p28#a251028p28)
+ - [4 Best Music Streaming Services &lpar;2025&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)
+ - [Privacy laws can’t keep up with ‘luxury surveillance’](https://www.theverge.com/tech/807834/meta-smart-glasses-privacy-laws-wearables)
+ - [A profile of Substrate, which uses particle acceleration to handle lithography, claiming to solve one of tech&#39;s toughest problems, and aims to compete with ASML &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p27#a251028p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

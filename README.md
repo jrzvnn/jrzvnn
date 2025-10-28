@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 😝 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
  - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Back when kids were free-range](http://9gag.com/gag/a9yZKwW)
- - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 ---
 

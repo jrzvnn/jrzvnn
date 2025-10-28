@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Season 2 of Netflix&amp;#8217;s live-action One Piece premieres in March](https://www.theverge.com/entertainment/808048/netflix-one-piece-season-2-premiere-date)
- - [The BrickBoy upgrade kit costs more than twice as much as the Lego Game Boy](https://www.theverge.com/news/808051/brickboy-lego-game-boy-emulator-upgrade-kit-kickstarter)
+ - [What car models and manufacturers support Apple Car Key](https://appleinsider.com/articles/25/10/28/what-car-models-and-manufacturers-support-apple-car-key?utm_source=rss)
+ - [Chip changes: How fast will M5 Pro and M5 Max be?](https://appleinsider.com/articles/25/10/28/chip-changes-how-fast-will-m5-pro-and-m5-max-be?utm_source=rss)
  - [GitHub plans to launch Agent HQ, a hub to let developers access third-party AI coding agents, including Claude and OpenAI&#39;s Codex, in the coming months &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251028/p37#a251028p37)
- - [You’ll be able to pay with PayPal in ChatGPT next year](https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases)
- - [Blackstone partners with Humain to invest about $3B in building and operating data centers and AI infrastructure across Saudi Arabia, set to open in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p36#a251028p36)<!-- TECH:END -->
+ - [Blackstone partners with Humain to invest about $3B in building and operating data centers and AI infrastructure across Saudi Arabia, set to open in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p36#a251028p36)
+ - [A livestream of Nvidia&#39;s GTC October 2025 Keynote with CEO Jensen Huang &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/251028/p35#a251028p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

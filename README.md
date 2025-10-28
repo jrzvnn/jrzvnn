@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 30+ US data center proposals in 14 states: in most cases, local officials signed NDAs and worked with apparent shell companies to hide details &lpar;Natalie Kainz/NBC News&rpar;](http://www.techmeme.com/251028/p20#a251028p20)
- - [Best Vacuum Cleaner &lpar;2025&rpar;: Cordless Vacuums, Robot Vacuums, Dysons](https://www.wired.com/gallery/best-vacuum-cleaner/)
- - [The government shutdown is delaying new gadgets](https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products)
- - [Livestream marketplace Whatnot raised $225M at an $11.5B valuation, after raising $265M at a $4.97B valuation in January, taking its total funding to $968M &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251028/p19#a251028p19)
- - [Democrats slam FCC’s decision to ‘gut’ prison phone call price caps](https://www.theverge.com/news/807422/democrats-prison-phone-calls-fcc-letter)<!-- TECH:END -->
+ - [Adobe Max 2025: all the latest creative tools and AI announcements](https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements)
+ - [An Apple Shortcuts masterclass](https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast)
+ - [Samsung shows off its trifold phone in person](https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit)
+ - [Substrate, which aims to challenge TSMC, raised $100M+ from Founders Fund, General Catalyst, and others at a $1B+ valuation as it seeks to boost US chip making &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251028/p23#a251028p23)
+ - [MacPaw&#39;s new Moonlock app challenges the myth of virus-proof Macs](https://appleinsider.com/articles/25/10/28/macpaws-new-moonlock-app-challenges-the-myth-of-virus-proof-macs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

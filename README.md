@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
  - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [Best glue ever](http://9gag.com/gag/a5Qvnpr)
  - 💣 [Deer Friend](http://9gag.com/gag/aE0yBnK)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [Best glue ever](http://9gag.com/gag/a5Qvnpr)<!-- MEMES:END -->
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 👉 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)<!-- MEMES:END -->
 
 ---
 

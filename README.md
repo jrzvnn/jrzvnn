@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An ex-OpenAI staffer of four years says it isn&#39;t doing enough to protect users, especially those with mental health issues, and needs to offer more than words &lpar;Steven Adler/New York Times&rpar;](http://www.techmeme.com/251028/p13#a251028p13)
  - [Amazon is cutting 14,000 corporate jobs](https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai)
  - [7 Best Heated Blankets for Comfy, Cozy Warmth &lpar;2025&rpar;](https://www.wired.com/gallery/best-heated-blankets/)
  - [Fireworks AI, which helps developers access AI chips and models, raised a $254M Series C at a $4B valuation, split into a $230M primary and $24M secondary round &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p12#a251028p12)
- - [China Dives in on the World’s First Wind-Powered Undersea Data Center](https://www.wired.com/story/china-dives-in-on-the-worlds-first-wind-powered-undersea-data-center/)
- - [Alienware 16X Aurora Review: A Return to Form for This Gaming Laptop](https://www.wired.com/review/alienware-16x-aurora/)<!-- TECH:END -->
+ - [China Dives in on the World’s First Wind-Powered Undersea Data Center](https://www.wired.com/story/china-dives-in-on-the-worlds-first-wind-powered-undersea-data-center/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

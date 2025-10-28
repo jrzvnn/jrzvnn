@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Nice shot](http://9gag.com/gag/awyPQQ1)
- - 💣 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 👉 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)<!-- MEMES:END -->
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 😝 [2025 and still no hoverboards...](http://9gag.com/gag/a1mBQ7v)
+ - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
 
 ---
 

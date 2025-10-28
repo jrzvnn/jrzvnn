@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fireworks AI, which helps developers access AI chips and models, raised a $254M Series C at a $4B valuation, split into a $230M primary and $24M secondary round &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p12#a251028p12)
+ - [China Dives in on the World’s First Wind-Powered Undersea Data Center](https://www.wired.com/story/china-dives-in-on-the-worlds-first-wind-powered-undersea-data-center/)
+ - [Alienware 16X Aurora Review: A Return to Form for This Gaming Laptop](https://www.wired.com/review/alienware-16x-aurora/)
  - [Sources: Uber plans to invest in the Hong Kong listings of Pony AI and WeRide, deepening its Chinese robotaxi ties, including ~$100M in Pony AI&#39;s share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p11#a251028p11)
- - [PayPal CEO Alex Chriss says the company signed a deal with OpenAI to let shoppers use PayPal&#39;s digital wallet in ChatGPT to pay for items, starting in 2026 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251028/p10#a251028p10)
- - [Visible Alpha: Apple&#39;s Services unit revenue is set to hit $108.6B in the year to September, its first time above $100B and up 13% YoY, ahead of its Q4 results &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p9#a251028p9)
- - [Why Nicholas Thompson Made a Custom GPT to Run Faster](https://www.wired.com/story/the-big-interview-podcast-nicholas-thompson/)
- - [xAI&#39;s Grokipedia says Grok fact-checked its entries and some &quot;content is adapted from Wikipedia&quot;; some pages, like the PS5&#39;s, are almost identical to Wikipedia &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251028/p8#a251028p8)<!-- TECH:END -->
+ - [PayPal CEO Alex Chriss says the company signed a deal with OpenAI to let shoppers use PayPal&#39;s digital wallet in ChatGPT to pay for items, starting in 2026 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251028/p10#a251028p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

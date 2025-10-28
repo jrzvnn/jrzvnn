@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SK Hynix reports Q3 revenue up 39% YoY to $17.02B, vs. $17.22B est, operating profit up 62% YoY to $7.92B, a record, boosted by demand for its HBM chips for AI &lpar;CNBC&rpar;](http://www.techmeme.com/251028/p56#a251028p56)
  - [Celebrity video shoutout app Cameo sues OpenAI for trademark infringement, alleging Sora&#39;s &quot;cameo&quot; feature is likely to cause confusion and dilute its brand &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251028/p55#a251028p55)
  - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
  - [YouTube will age-restrict more video game content showing &quot;graphic violence&quot; and stop creators from directing users to gambling sites involving digital goods &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251028/p54#a251028p54)
- - [Senators propose banning teens from using AI chatbots](https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban)
- - [YouTube will restrict more content showing &amp;#8216;graphic violence&amp;#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction)<!-- TECH:END -->
+ - [Senators propose banning teens from using AI chatbots](https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

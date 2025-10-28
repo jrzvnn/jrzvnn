@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No staring at the gym! &lpar;sound needed&rpar;](http://9gag.com/gag/ary9g76)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
  - 💣 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
  - 😝 [Al and Air](http://9gag.com/gag/azxo1Mj)
- - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
+ - 👉 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Release candidate betas of iOS 26.1, macOS Tahoe 26.1 developer betas are out now](https://appleinsider.com/articles/25/10/28/fifth-ios-261-macos-tahoe-261-developer-betas-are-out-now?utm_source=rss)
+ - [What the Trump family stands to gain from Changpeng Zhao’s pardon](https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump)
+ - [A Derelict Spaceship Hides a Terrible Secret in This Deep Space Sci-Fi Horror Flick on Tubi](https://www.cnet.com/culture/entertainment/a-derelict-spaceship-hides-a-terrible-secret-in-this-deep-space-sci-fi-horror-flick-on-tubi/#ftag=CAD590a51e)
  - [China claims it has completed the first phase of construction of the first underwater data center, which is powered by wind energy and cooled by seawater &lpar;Anna Lagos/Wired&rpar;](http://www.techmeme.com/251028/p49#a251028p49)
- - [The 50 Best Shows on HBO Max Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
- - [The latest Apple TV 4K just received a rare $30 discount](https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale)
- - [Can You Escape Jason Voorhees? Peloton&#39;s Friday the 13th-Themed Workouts Let You Try](https://www.cnet.com/health/fitness/can-you-outrun-jason-voorhees-try-pelotons-friday-the-13th-themed-workouts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Says a Digital Version of Your Passport Is Coming Soon to iPhones](https://www.cnet.com/tech/services-and-software/apple-says-a-digital-version-of-your-passport-is-coming-soon-to-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

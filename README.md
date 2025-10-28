@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China claims it has completed the first phase of construction of the first underwater data center, which is powered by wind energy and cooled by seawater &lpar;Anna Lagos/Wired&rpar;](http://www.techmeme.com/251028/p49#a251028p49)
  - [The 50 Best Shows on HBO Max Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
  - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
  - [The latest Apple TV 4K just received a rare $30 discount](https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale)
- - [Can You Escape Jason Voorhees? Peloton&#39;s Friday the 13th-Themed Workouts Let You Try](https://www.cnet.com/health/fitness/can-you-outrun-jason-voorhees-try-pelotons-friday-the-13th-themed-workouts/#ftag=CAD590a51e)
  - [Donald Trump’s Truth Social Is Launching a Polymarket Competitor](https://www.wired.com/story/trump-truth-social-launches-prediction-market/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

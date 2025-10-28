@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia unveils BlueField-4 data processing unit, combining a 64-core Grace CPU and ConnectX-9 SuperNIC for 800 Gbps of network throughput, launching in 2026 &lpar;Dylan Martin/CRN&rpar;](http://www.techmeme.com/251028/p43#a251028p43)
- - [Oppo Find X9 Pro’s massive 7,500mAh battery arrives in Europe](https://www.theverge.com/news/808187/oppo-find-x9-pros-massive-7500mah-battery-arrives-in-europe)
- - [Sources: Polymarket plans to return to the US with a focus on sports betting; initial trading is likely by the end of November, but won&#39;t be broadly available &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p42#a251028p42)
- - [Nvidia unveils NVQLink, a high-speed interconnect that Jensen Huang says is the &quot;Rosetta Stone connecting quantum and classical supercomputers&quot; &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p41#a251028p41)
- - [Apple&#39;s iPad 11 is back on sale for $299, plus save up to $280 across line](https://appleinsider.com/articles/25/10/28/apples-ipad-11-is-back-on-sale-for-299-plus-save-up-to-280-across-line?utm_source=rss)<!-- TECH:END -->
+ - [Sam Altman says OpenAI has committed to spend about $1.4T on infrastructure so far, equating to roughly 30GW of data center capacity &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251028/p46#a251028p46)
+ - [Uber, Stellantis, Nvidia, and Foxconn make a robotaxi deal](https://www.theverge.com/news/808042/uber-stellantis-nvidia-and-foxconn-make-a-robotaxi-deal)
+ - [Uber plans a fleet of 100,000 autonomous vehicles powered by Nvidia&#39;s new Drive AGX Hyperion 10, starting in 2027 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251028/p45#a251028p45)
+ - [Oppo launches €999 Find X9 and €1,299 Find X9 Pro in the UK and EU, with 7,025mAh and 7,500mAh silicon-carbon batteries and a MediaTek Dimensity 9500 chip &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251028/p44#a251028p44)
+ - [Lucid jumps on the ‘privately owned’ autonomous vehicle bandwagon](https://www.theverge.com/transportation/807954/lucid-private-owned-autonomous-vehicle-nvidia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

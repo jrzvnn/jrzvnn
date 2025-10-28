@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaahhhhh come on maaaaannn](http://9gag.com/gag/agm6XWq)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [Posting Homm memes until I get bored #166](http://9gag.com/gag/a2v9Ro1)
+ - 😝 [No staring at the gym! &lpar;sound needed&rpar;](http://9gag.com/gag/ary9g76)
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [Seriously, wtf](http://9gag.com/gag/a87Q511)
  - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 💣 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
+ - 😝 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)
+ - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 💣 [Dr Sleeper is putting everyone to sleep, literally](http://9gag.com/gag/a9yZKeW)
+ - 😝 [No staring at the gym! &lpar;sound needed&rpar;](http://9gag.com/gag/ary9g76)
+ - 👉 [Deer Friend](http://9gag.com/gag/aE0yBnK)<!-- MEMES:END -->
 
 ---
 

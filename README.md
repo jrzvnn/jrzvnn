@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 😝 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 😝 [Eye of class 5 hurricane Melissa](http://9gag.com/gag/aRB90BQ)
- - 👉 [Legend ^_^](http://9gag.com/gag/aoyAOvx)<!-- MEMES:END -->
+ - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 😝 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
+ - 👉 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)<!-- MEMES:END -->
 
 ---
 

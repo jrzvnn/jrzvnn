@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NXP reports Q3 revenue down 2% YoY to $3.17B, vs. $3.16B est., automotive revenue flat YoY to $1.83B, and expects above estimates Q4 revenue of $3.20B to $3.40B &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251028/p1#a251028p1)
  - [How to add third-party cards to Apple Wallet app in iOS 26](https://appleinsider.com/inside/ios-26/tips/how-to-add-third-party-cards-to-apple-wallet-app-in-ios-26?utm_source=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Oct. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-oct-28/#ftag=CAD590a51e)
  - [Meta and TikTok say they will comply with Australia&#39;s under-16 social media ban, taking effect on December 10, but warn the landmark law may be hard to enforce &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/251027/p42#a251027p42)
- - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)
- - [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied)<!-- TECH:END -->
+ - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

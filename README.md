@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
+ - [The latest Apple TV 4K just received a rare $30 discount](https://www.theverge.com/tech/808082/apple-tv-4k-third-gen-costco-deal-sale)
+ - [Donald Trump&#39;s Truth Social Is Launching a Polymarket Competitor](https://www.wired.com/story/trump-truth-social-launches-prediction-market/)
  - [A look at 1X&#39;s $20K Neo humanoid housekeeper robot, controlled remotely by a human with a VR headset, available now for preorder, with delivery expected in 2026 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p48#a251028p48)
- - [One of Our Favorite Pairs of Binoculars Is $80 Off](https://www.wired.com/story/celestron-trailseeker-deal-1025/)
- - [Jensen Huang says its Blackwell GPUs are now in full production in Arizona, after being solely manufactured in Taiwan previously &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251028/p47#a251028p47)
- - [The FCC just gave itself the power to make a DJI drone ban stick](https://www.theverge.com/report/808104/fcc-order-retroactive-ban-transmitter-national-security)
- - [Sam Altman says OpenAI has committed to spend about $1.4T on infrastructure so far, equating to roughly 30GW of data center capacity &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251028/p46#a251028p46)<!-- TECH:END -->
+ - [One of Our Favorite Pairs of Binoculars Is $80 Off](https://www.wired.com/story/celestron-trailseeker-deal-1025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

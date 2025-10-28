@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube will restrict more content showing &amp;#8216;graphic violence&amp;#8217; in video games](https://www.theverge.com/news/808545/youtube-graphic-video-game-violence-age-restriction)
+ - [Be Wary of AI Videos as Hurricane Melissa Hits Jamaica. How to Spot a Fake](https://www.cnet.com/tech/services-and-software/be-wary-of-ai-videos-as-hurricane-melissa-hits-jamaica-how-to-spot-a-fake/#ftag=CAD590a51e)
+ - [Verizon&#39;s New Internet Plan Could Cost You Just $25 Per Month](https://www.cnet.com/home/internet/verizons-new-internet-plan-could-cost-you-just-25-per-month/#ftag=CAD590a51e)
  - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)
- - [Myanmar shut down a major online scam center on October 21 as part of operations starting in September to curb cross-border online scams and illegal gambling &lpar;Associated Press&rpar;](http://www.techmeme.com/251028/p52#a251028p52)
- - [OLED iPad mini, MacBook Air, iPad Air are in the works](https://appleinsider.com/articles/25/10/28/oled-ipad-mini-macbook-air-ipad-air-are-in-the-works?utm_source=rss)
- - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
- - [Apple gets rights to Dark Horse&#39;s &#39;Last Flight Out&#39; film adaptation](https://appleinsider.com/articles/25/10/28/apple-gets-rights-to-dark-horses-last-flight-out-film-adaptation?utm_source=rss)<!-- TECH:END -->
+ - [Amazon Slashes 14,000 Jobs in Major AI-Driven Shakeup](https://www.cnet.com/tech/services-and-software/amazon-cuts-14000-jobs-amid-ai-push/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

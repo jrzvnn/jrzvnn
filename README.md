@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chip changes: How fast will M5 Pro and M5 Max be?](https://appleinsider.com/articles/25/10/28/chip-changes-how-fast-will-m5-pro-and-m5-max-be?utm_source=rss)
+ - [Palo Alto Networks launches Cortex AgentiX, AI agents that can be deployed across various security vendor platforms to automate cybersecurity actions &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251028/p30#a251028p30)
  - [PayPal reports Q3 revenue up 7% YoY to $8.4B, total payment volume up 8% to $458.1B, above $450.3B est., and raises its FY 2025 EPS forecast; PYPL jumps 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p29#a251028p29)
  - [Warner Bros. mergers never work, but they&amp;#8217;re trying again anyway](https://www.theverge.com/entertainment/807438/warner-bros-discovery-history-of-mergers-paramount-apple-netflix-amazon)
- - [Apple&#39;s Services expected to top $100 billion annually -- for now](https://appleinsider.com/articles/25/10/28/apples-services-expected-to-top-100-billion-annually----for-now?utm_source=rss)
- - [Apple crosses a $4T market cap in intra-day trading, making it only the third public company ever to reach the milestone; AAPL is up 56% since its April low &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251028/p28#a251028p28)
- - [4 Best Music Streaming Services &lpar;2025&rpar;: Spotify, Apple Music, and More Compared](https://www.wired.com/gallery/best-music-streaming-apps/)<!-- TECH:END -->
+ - [Apple&#39;s Services expected to top $100 billion annually -- for now](https://appleinsider.com/articles/25/10/28/apples-services-expected-to-top-100-billion-annually----for-now?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

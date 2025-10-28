@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [EU officials are scrambling to resolve a growing trade clash with China over rare earths and chips, as the bloc gets caught between Beijing and Washington &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p2#a251028p2)
  - [First look: DJI’s Romo robot vacuum](https://www.theverge.com/tech/807461/dji-romo-robot-vacuum-europe-launch-specs-price-first-look)
  - [Pluribus&amp;#8217; Vince Gilligan on making shows that ‘attract really smart viewers’](https://www.theverge.com/entertainment/807102/pluribus-vince-gilligan-interview-apple-tv-breaking-bad)
  - [20% Off LG Promo Code &amp; Coupons | October 2025](https://www.wired.com/story/lg-promo-code/)
- - [Home Depot Promo Codes: 10% Off | October 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [NXP reports Q3 revenue down 2% YoY to $3.17B, vs. $3.16B est., automotive revenue flat YoY to $1.83B, and expects above estimates Q4 revenue of $3.20B to $3.40B &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251028/p1#a251028p1)<!-- TECH:END -->
+ - [Home Depot Promo Codes: 10% Off | October 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

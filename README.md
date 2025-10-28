@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI offers its cheaper ChatGPT Go plan for free for one year to users in India starting November 4, but did not say how long the offer would remain available &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251028/p4#a251028p4)
  - [Skylight Smart Calendar Max Review: Family Planning](https://www.wired.com/review/skylight-smart-calendar-max/)
  - [This Is the Nuclear-Powered Ship Deployed in Trump’s War on Drug Boats](https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/)
  - [Riyadh-based BNPL startup Tabby completes a secondary share sale of existing shareholders&#39; stakes, valuing it at $4.5B ahead of a possible IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p3#a251028p3)
- - [The 5 Healthiest Air Fryer Foods That Are Also Registered Dietitian-Approved](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-registered-dietitian-approved/#ftag=CAD590a51e)
- - [EU officials are scrambling to resolve a growing trade clash with China over rare earths and chips, as the bloc gets caught between Beijing and Washington &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p2#a251028p2)<!-- TECH:END -->
+ - [The 5 Healthiest Air Fryer Foods That Are Also Registered Dietitian-Approved](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-registered-dietitian-approved/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

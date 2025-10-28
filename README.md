@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Visible Alpha: Apple&#39;s Services unit revenue is set to hit $108.6B in the year to September, its first time above $100B and up 13% YoY, ahead of its Q4 results &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p9#a251028p9)
+ - [Why Nicholas Thompson Made a Custom GPT to Run Faster](https://www.wired.com/story/the-big-interview-podcast-nicholas-thompson/)
+ - [xAI&#39;s Grokipedia says Grok fact-checked its entries and some &quot;content is adapted from Wikipedia&quot;; some pages, like the PS5&#39;s, are almost identical to Wikipedia &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251028/p8#a251028p8)
  - [Stablecoin startup ZAR raised $12.9M led by a16z to test USD-backed coins for Pakistan, which the World Bank estimates has the third-largest unbanked population &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/251028/p7#a251028p7)
- - [After AWS&#39;s major outage, Signal&#39;s Meredith Whittaker says there &quot;isn&#39;t really another choice&quot; but to use AWS and &quot;the entire stack&quot; is &quot;owned by 3-4 players&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251028/p6#a251028p6)
- - [How to Set Up a Google Home Security System: Best Cameras, Doorbells, and Other Devices](https://www.wired.com/story/how-to-set-up-google-home-security-system/)
- - [The Republican Plan to Reform the Census Could Put Everyone’s Privacy at Risk](https://www.wired.com/story/republicans-differential-privacy-census-overhaul/)
- - [Amazon says it will cut ~14,000 jobs from its corporate workforce, after cutting 27,000 across 2022 and 2023; the company had 1.55M employees globally in June &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251028/p5#a251028p5)<!-- TECH:END -->
+ - [After AWS&#39;s major outage, Signal&#39;s Meredith Whittaker says there &quot;isn&#39;t really another choice&quot; but to use AWS and &quot;the entire stack&quot; is &quot;owned by 3-4 players&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251028/p6#a251028p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
  - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 💣 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 👉 [Good quality tents](http://9gag.com/gag/aE0yxOM)<!-- MEMES:END -->
 
 ---
 

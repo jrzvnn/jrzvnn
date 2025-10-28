@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Sources: the Netherlands took control of Nexperia over fears its ex-CEO Zhang Xuezheng was dismantling its European operations and moving production to China &lpar;Toby Sterling/Reuters&rpar;](http://www.techmeme.com/251027/p40#a251027p40)
- - [A US judge decertifies a class action that accused Apple of monopolizing the market for iPhone apps, citing errors in the plaintiffs&#39; damages model &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251027/p39#a251027p39)
- - [&#39;Alarming errors&#39; lead to 2024 Apple App Store class action decertification by judge](https://appleinsider.com/articles/25/10/27/alarming-errors-lead-to-2024-apple-app-store-class-action-decertification-by-judge?utm_source=rss)
- - [PayPal and Bilt, which offers rewards points for rent payments, say Bilt customers will be able to use Venmo to make rent and mortgage payments starting in 2026 &lpar;Paige Smith/Bloomberg&rpar;](http://www.techmeme.com/251027/p38#a251027p38)<!-- TECH:END -->
+ - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)
+ - [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied)
+ - [Apple Says a Digital Version of Your Passport Is Coming Soon to iPhones](https://www.cnet.com/tech/services-and-software/apple-says-a-digital-version-of-your-passport-is-coming-soon-to-iphones/#ftag=CAD590a51e)
+ - [XP-Pen Artist 12 3rd review: A value-based Wacom-beater](https://appleinsider.com/articles/25/10/28/xp-pen-artist-12-3rd-review-a-value-based-wacom-beater?utm_source=rss)
+ - [Grokipedia, a Grok-powered online encyclopedia, launches with over 885K articles; Elon Musk has touted it as a less biased alternative to Wikipedia &lpar;Washington Post&rpar;](http://www.techmeme.com/251027/p41#a251027p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

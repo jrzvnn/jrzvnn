@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it will cut ~14,000 jobs across its corporate workforce, after cutting 27,000 from 2022 to 2023; the company employed 1.55M people globally in June &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251028/p5#a251028p5)
- - [OpenAI offers its cheaper ChatGPT Go plan for free for one year to users in India starting November 4, but did not say how long the offer would remain available &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251028/p4#a251028p4)
- - [Skylight Smart Calendar Max Review: Family Planning](https://www.wired.com/review/skylight-smart-calendar-max/)
- - [This Is the Nuclear-Powered Ship Deployed in Trump’s War on Drug Boats](https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/)
- - [Riyadh-based BNPL startup Tabby completes a secondary share sale of existing shareholders&#39; stakes, valuing it at $4.5B ahead of a possible IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p3#a251028p3)<!-- TECH:END -->
+ - [Stablecoin startup ZAR raised $12.9M led by a16z to test USD-backed coins for Pakistan, which the World Bank estimates has the third-largest unbanked population &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/251028/p7#a251028p7)
+ - [After AWS&#39;s major outage, Signal&#39;s Meredith Whittaker says there &quot;isn&#39;t really another choice&quot; but to use AWS and &quot;the entire stack&quot; is &quot;owned by 3-4 players&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251028/p6#a251028p6)
+ - [How to Set Up a Google Home Security System: Best Cameras, Doorbells, and Other Devices](https://www.wired.com/story/how-to-set-up-google-home-security-system/)
+ - [The Republican Plan to Reform the Census Could Put Everyone’s Privacy at Risk](https://www.wired.com/story/republicans-differential-privacy-census-overhaul/)
+ - [Amazon says it will cut ~14,000 jobs from its corporate workforce, after cutting 27,000 across 2022 and 2023; the company had 1.55M employees globally in June &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251028/p5#a251028p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

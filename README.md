@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What car models and manufacturers support Apple Car Key](https://appleinsider.com/articles/25/10/28/what-car-models-and-manufacturers-support-apple-car-key?utm_source=rss)
- - [Chip changes: How fast will M5 Pro and M5 Max be?](https://appleinsider.com/articles/25/10/28/chip-changes-how-fast-will-m5-pro-and-m5-max-be?utm_source=rss)
- - [GitHub plans to launch Agent HQ, a hub to let developers access third-party AI coding agents, including Claude and OpenAI&#39;s Codex, in the coming months &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251028/p37#a251028p37)
- - [Blackstone partners with Humain to invest about $3B in building and operating data centers and AI infrastructure across Saudi Arabia, set to open in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p36#a251028p36)
- - [A livestream of Nvidia&#39;s GTC October 2025 Keynote with CEO Jensen Huang &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/251028/p35#a251028p35)<!-- TECH:END -->
+ - [Apple&#39;s iPad 11 is back on sale for $299, plus save up to $280 across line](https://appleinsider.com/articles/25/10/28/apples-ipad-11-is-back-on-sale-for-299-plus-save-up-to-280-across-line?utm_source=rss)
+ - [Nvidia and HPE plan to build two new Vera Rubin-based supercomputers for Los Alamos National Laboratory, for national security and scientific research &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251028/p40#a251028p40)
+ - [Skyworks buys rival Qorvo for ~$9.76B in a cash-and-stock deal, forming a $22B combined company that supplies radio-frequency chips to Apple and others &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p39#a251028p39)
+ - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [Western Union plans to launch a dollar-backed stablecoin, USDPT, that is built on the Solana blockchain and issued by Anchorage Digital Bank, in H1 2026 &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p38#a251028p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

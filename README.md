@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Securitize, a blockchain company that tokenizes investments, files to go public via a SPAC started by Cantor Fitzgerald, valuing Securitize at $1.25B pre-money &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/251028/p34#a251028p34)
- - [Nvidia plans to invest $1B in Nokia for a 2.9% stake in the company, an apparent vindication of the Finnish company&#39;s pivot from mobile networking to AI &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/251028/p33#a251028p33)
- - [MSI&amp;#8217;s QD-OLED gaming monitor is very fast and $130 off](https://www.theverge.com/tech/807957/msi-mag271qp-x28-oled-monitor-razer-kishi-ultra-deal-sale)
- - [Apple CEO Tim Cook dines with Trump in Tokyo](https://appleinsider.com/articles/25/10/28/apple-ceo-tim-cook-dines-with-trump-in-tokyo?utm_source=rss)
- - [Hurricane Melissa Has Meteorologists Terrified](https://www.wired.com/story/hurricane-melissa-has-meteorologists-terrified/)<!-- TECH:END -->
+ - [You’ll be able to pay with PayPal in ChatGPT next year](https://www.theverge.com/news/808079/chatgpt-paypal-openai-acp-purchases)
+ - [Blackstone partners with Humain to invest about $3B in building and operating data centers and AI infrastructure across Saudi Arabia, set to open in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p36#a251028p36)
+ - [GitHub is launching a hub for multiple AI coding agents](https://www.theverge.com/news/808032/github-ai-agent-hq-coding-openai-anthropic)
+ - [A livestream of Nvidia&#39;s GTC October 2025 Keynote with CEO Jensen Huang &lpar;NVIDIA on YouTube&rpar;](http://www.techmeme.com/251028/p35#a251028p35)
+ - [The Oppo Find X9 Pro Has a Crazy-Long Detachable Zoom Lens](https://www.wired.com/story/oppo-find-x9-pro-detachable-camera/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

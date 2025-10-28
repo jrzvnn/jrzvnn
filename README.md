@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
  - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---
 

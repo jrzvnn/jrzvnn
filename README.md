@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [No staring at the gym! &lpar;sound needed&rpar;](http://9gag.com/gag/ary9g76)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Seriously, wtf](http://9gag.com/gag/a87Q511)
+ - 💣 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
+ - 😝 [Al and Air](http://9gag.com/gag/azxo1Mj)
  - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple CEO Tim Cook dines with Trump in Tokyo](https://appleinsider.com/articles/25/10/28/apple-ceo-tim-cook-dines-with-trump-in-tokyo?utm_source=rss)
+ - [Mem0, which aims to build a &quot;memory passport&quot; so users&#39; AI memory can travel across their devices, apps, and agents, raised $24M, including a $20M Series A &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/251028/p32#a251028p32)
+ - [CBP Searched a Record Number of Phones at the US Border Over the Past Year](https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/)
  - [Battlefield’s free battle royale mode is available now](https://www.theverge.com/news/807720/ea-battlefield-6-battle-royale-redsec)
- - [The ‘Group 7’ Creator Still Doesn’t Know How She Hacked TikTok’s Algorithm](https://www.wired.com/story/the-group-7-creator-still-doesnt-know-how-she-hacked-tiktoks-algorithm/)
- - [Apple tells Fintiv to stop dragging old litigation back into court](https://appleinsider.com/articles/25/10/28/apple-tells-fintiv-to-stop-dragging-old-litigation-back-into-court?utm_source=rss)
- - [Razer&amp;#8217;s new Huntsman V3 Pro 8kHz keyboard promises speed with improved typing feel](https://www.theverge.com/news/806927/razers-new-huntsman-v3-pro-8khz-keyboard-promises-speed-with-improved-typing-feel)
- - [Truth Social launches Truth Predict, a prediction market platform in partnership with Crypto.com to let users trade on major current events like elections &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p31#a251028p31)<!-- TECH:END -->
+ - [The ‘Group 7’ Creator Still Doesn’t Know How She Hacked TikTok’s Algorithm](https://www.wired.com/story/the-group-7-creator-still-doesnt-know-how-she-hacked-tiktoks-algorithm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

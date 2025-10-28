@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says it will cut ~14,000 jobs across its corporate workforce, after cutting 27,000 from 2022 to 2023; the company employed 1.55M people globally in June &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251028/p5#a251028p5)
  - [OpenAI offers its cheaper ChatGPT Go plan for free for one year to users in India starting November 4, but did not say how long the offer would remain available &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251028/p4#a251028p4)
  - [Skylight Smart Calendar Max Review: Family Planning](https://www.wired.com/review/skylight-smart-calendar-max/)
  - [This Is the Nuclear-Powered Ship Deployed in Trump’s War on Drug Boats](https://www.wired.com/story/this-is-the-nuclear-powered-ship-deployed-in-trumps-war-on-drug-boats/)
- - [Riyadh-based BNPL startup Tabby completes a secondary share sale of existing shareholders&#39; stakes, valuing it at $4.5B ahead of a possible IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p3#a251028p3)
- - [The 5 Healthiest Air Fryer Foods That Are Also Registered Dietitian-Approved](https://www.cnet.com/health/nutrition/healthiest-air-fryer-foods-registered-dietitian-approved/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Riyadh-based BNPL startup Tabby completes a secondary share sale of existing shareholders&#39; stakes, valuing it at $4.5B ahead of a possible IPO &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p3#a251028p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Max 2025: all the latest creative tools and AI announcements](https://www.theverge.com/news/807867/adobe-max-2025-all-the-latest-announcements)
- - [An Apple Shortcuts masterclass](https://www.theverge.com/podcast/807712/apple-shortcuts-best-tips-meta-display-vergecast)
- - [Samsung shows off its trifold phone in person](https://www.theverge.com/news/807868/samsung-trifold-phone-apec-summit)
- - [Substrate, which aims to challenge TSMC, raised $100M+ from Founders Fund, General Catalyst, and others at a $1B+ valuation as it seeks to boost US chip making &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251028/p23#a251028p23)
- - [MacPaw&#39;s new Moonlock app challenges the myth of virus-proof Macs](https://appleinsider.com/articles/25/10/28/macpaws-new-moonlock-app-challenges-the-myth-of-virus-proof-macs?utm_source=rss)<!-- TECH:END -->
+ - [Apple reaches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)
+ - [Circle launches the test version of its Arc blockchain, with Goldman, BlackRock, Apollo, Anthropic, Intercontinental Exchange, and others set to trial it &lpar;Anna Irrera/Bloomberg&rpar;](http://www.techmeme.com/251028/p26#a251028p26)
+ - [OpenAI completed its for-profit restructuring — and struck a new deal with Microsoft](https://www.theverge.com/news/807875/openai-microsoft-for-profit-agi)
+ - [ConductorOne, which helps address identity cybersecurity risks for human and AI staff, raised a $79M Series B led by Greycroft, sources say at a $350M valuation &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251028/p25#a251028p25)
+ - [Govee’s new power outlet expander gives you voice control and a night light](https://www.theverge.com/news/807890/govee-smart-plug-outlet-extender-voice-control-alexa-google-assistant)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

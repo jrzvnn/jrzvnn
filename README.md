@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Caw, caw!](http://9gag.com/gag/aByjxo1)
- - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 💣 [Don&#39;t double tap it](http://9gag.com/gag/amoK79y)
- - 😝 [No staring at the gym! &lpar;sound needed&rpar;](http://9gag.com/gag/ary9g76)
- - 👉 [Here we go](http://9gag.com/gag/aLnVgnA)<!-- MEMES:END -->
+ - 😝 [Nice shot](http://9gag.com/gag/awyPQQ1)
+ - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 

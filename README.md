@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta and TikTok say they will comply with Australia&#39;s under-16 social media ban, taking effect on December 10, but warn the landmark law may be hard to enforce &lpar;Agence France-Presse&rpar;](http://www.techmeme.com/251027/p42#a251027p42)
  - [Elon Musk&#39;s Grokipedia Pushes Far-Right Talking Points](https://www.wired.com/story/elon-musk-launches-grokipedia-wikipedia-competitor/)
  - [Elon Musk’s Grokipedia contains copied Wikipedia pages](https://www.theverge.com/news/807686/elon-musk-grokipedia-launch-wikipedia-xai-copied)
  - [Apple Says a Digital Version of Your Passport Is Coming Soon to iPhones](https://www.cnet.com/tech/services-and-software/apple-says-a-digital-version-of-your-passport-is-coming-soon-to-iphones/#ftag=CAD590a51e)
- - [XP-Pen Artist 12 3rd review: A value-based Wacom-beater](https://appleinsider.com/articles/25/10/28/xp-pen-artist-12-3rd-review-a-value-based-wacom-beater?utm_source=rss)
- - [Grokipedia, a Grok-powered online encyclopedia, launches with over 885K articles; Elon Musk has touted it as a less biased alternative to Wikipedia &lpar;Washington Post&rpar;](http://www.techmeme.com/251027/p41#a251027p41)<!-- TECH:END -->
+ - [XP-Pen Artist 12 3rd review: A value-based Wacom-beater](https://appleinsider.com/articles/25/10/28/xp-pen-artist-12-3rd-review-a-value-based-wacom-beater?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

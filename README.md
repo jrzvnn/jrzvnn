@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gets rights to Dark Horse&#39;s &#39;Last Flight Out&#39; film adaptation](https://appleinsider.com/articles/25/10/28/apple-gets-rights-to-dark-horses-last-flight-out-film-adaptation?utm_source=rss)
+ - [Sources: Apple is testing new versions of the MacBook Air, iPad mini, and iPad Air with OLED screens; the iPad mini will likely arrive first, as early as 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251028/p51#a251028p51)
+ - [Nothing’s Ear Open earbuds are back under $100 right now](https://www.theverge.com/tech/808321/nothing-ear-open-earbuds-deal-sale)
  - [EA reports Q2 net bookings down 13% YoY to $1.82B, vs. $1.88B est., and says it will no longer issue forward-looking financial guidance due to its $55B sale &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251028/p50#a251028p50)
- - [Apple touches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)
- - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
- - [Engineer accused of leaking Apple Watch trade secrets at Oppo](https://appleinsider.com/articles/25/10/28/engineer-accused-of-leaking-apple-watch-trade-secrets-at-oppo?utm_source=rss)
- - [Release candidate betas of iOS 26.1, macOS Tahoe 26.1 developer betas are out now](https://appleinsider.com/articles/25/10/28/fifth-ios-261-macos-tahoe-261-developer-betas-are-out-now?utm_source=rss)<!-- TECH:END -->
+ - [Apple touches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

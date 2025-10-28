@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Securitize, a blockchain company that tokenizes investments, files to go public via a SPAC started by Cantor Fitzgerald, valuing Securitize at $1.25B pre-money &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/251028/p34#a251028p34)
+ - [Nvidia plans to invest $1B in Nokia for a 2.9% stake in the company, an apparent vindication of the Finnish company&#39;s pivot from mobile networking to AI &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/251028/p33#a251028p33)
+ - [MSI&amp;#8217;s QD-OLED gaming monitor is very fast and $130 off](https://www.theverge.com/tech/807957/msi-mag271qp-x28-oled-monitor-razer-kishi-ultra-deal-sale)
  - [Apple CEO Tim Cook dines with Trump in Tokyo](https://appleinsider.com/articles/25/10/28/apple-ceo-tim-cook-dines-with-trump-in-tokyo?utm_source=rss)
- - [Mem0, which aims to build a &quot;memory passport&quot; so users&#39; AI memory can travel across their devices, apps, and agents, raised $24M, including a $20M Series A &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/251028/p32#a251028p32)
- - [CBP Searched a Record Number of Phones at the US Border Over the Past Year](https://www.wired.com/story/cbp-searched-a-record-number-of-phones-at-the-us-border-over-the-past-year/)
- - [Battlefield’s free battle royale mode is available now](https://www.theverge.com/news/807720/ea-battlefield-6-battle-royale-redsec)
- - [The ‘Group 7’ Creator Still Doesn’t Know How She Hacked TikTok’s Algorithm](https://www.wired.com/story/the-group-7-creator-still-doesnt-know-how-she-hacked-tiktoks-algorithm/)<!-- TECH:END -->
+ - [Hurricane Melissa Has Meteorologists Terrified](https://www.wired.com/story/hurricane-melissa-has-meteorologists-terrified/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nice shot](http://9gag.com/gag/awyPQQ1)
- - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 😝 [Dutch Olympic champion Femke Bol... stunned the audience](http://9gag.com/gag/axyQ0Wb)
+ - 😝 [Where can I watch this??](http://9gag.com/gag/aGy6jK6)
  - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 😝 [*suddenly wearing a zoot suit*..ssssmmmookkiinn](http://9gag.com/gag/aByjg3z)
+ - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
  - 😝 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 💣 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
- - 😝 [Do not pass go?](http://9gag.com/gag/aqyBgqM)
+ - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 😝 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
  - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---

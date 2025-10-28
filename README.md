@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Back when kids were free-range](http://9gag.com/gag/a9yZKwW)
- - 👉 [Nice shot](http://9gag.com/gag/awyPQQ1)<!-- MEMES:END -->
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 😝 [Deer Friend](http://9gag.com/gag/aE0yBnK)
+ - 💣 [Physics said `nope, not today` to that bullet](http://9gag.com/gag/aByjWBA)
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
 
 ---
 

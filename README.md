@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Maybe a little justice?](http://9gag.com/gag/aLnV04g)
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
  - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 💣 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
- - 😝 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
- - 👉 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)<!-- MEMES:END -->
+ - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 😝 [Maybe a little justice?](http://9gag.com/gag/aLnV04g)
+ - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
 
 ---
 

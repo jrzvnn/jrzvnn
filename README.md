@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
  - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
+ - 💣 [My son’s Halloween costume last year made the school change their costume rules](https://www.reddit.com/r/funny/comments/1oil79y/my_sons_halloween_costume_last_year_made_the/)
+ - 😝 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
+ - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---
 

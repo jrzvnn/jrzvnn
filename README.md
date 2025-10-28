@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
+ - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 💣 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
- - 😝 [Do not pass go?](http://9gag.com/gag/aqyBgqM)
- - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
+ - 💣 [Peace](http://9gag.com/gag/an785YV)
+ - 😝 [Say hello to my lidl friend](http://9gag.com/gag/amoKv0X)
+ - 👉 [Why boring is good](http://9gag.com/gag/aByjg0A)<!-- MEMES:END -->
 
 ---
 

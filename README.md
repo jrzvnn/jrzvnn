@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Altman says OpenAI has committed to spend about $1.4T on infrastructure so far, equating to roughly 30GW of data center capacity &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251028/p46#a251028p46)
- - [Uber, Stellantis, Nvidia, and Foxconn make a robotaxi deal](https://www.theverge.com/news/808042/uber-stellantis-nvidia-and-foxconn-make-a-robotaxi-deal)
- - [Uber plans a fleet of 100,000 autonomous vehicles powered by Nvidia&#39;s new Drive AGX Hyperion 10, starting in 2027 &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251028/p45#a251028p45)
- - [Oppo launches €999 Find X9 and €1,299 Find X9 Pro in the UK and EU, with 7,025mAh and 7,500mAh silicon-carbon batteries and a MediaTek Dimensity 9500 chip &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251028/p44#a251028p44)
- - [Lucid jumps on the ‘privately owned’ autonomous vehicle bandwagon](https://www.theverge.com/transportation/807954/lucid-private-owned-autonomous-vehicle-nvidia)<!-- TECH:END -->
+ - [A look at 1X&#39;s $20K Neo humanoid housekeeper robot, controlled remotely by a human with a VR headset, available now for preorder, with delivery expected in 2026 &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p48#a251028p48)
+ - [One of Our Favorite Pairs of Binoculars Is $80 Off](https://www.wired.com/story/celestron-trailseeker-deal-1025/)
+ - [Jensen Huang says its Blackwell GPUs are now in full production in Arizona, after being solely manufactured in Taiwan previously &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251028/p47#a251028p47)
+ - [The FCC just gave itself the power to make a DJI drone ban stick](https://www.theverge.com/report/808104/fcc-order-retroactive-ban-transmitter-national-security)
+ - [Sam Altman says OpenAI has committed to spend about $1.4T on infrastructure so far, equating to roughly 30GW of data center capacity &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251028/p46#a251028p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

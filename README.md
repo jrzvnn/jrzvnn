@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple touches $4 trillion market value after surge in iPhone 17 sales](https://appleinsider.com/articles/25/10/28/apple-reaches-4-trillion-market-value-after-surge-in-iphone-17-sales?utm_source=rss)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)
  - [Engineer accused of leaking Apple Watch trade secrets at Oppo](https://appleinsider.com/articles/25/10/28/engineer-accused-of-leaking-apple-watch-trade-secrets-at-oppo?utm_source=rss)
  - [Release candidate betas of iOS 26.1, macOS Tahoe 26.1 developer betas are out now](https://appleinsider.com/articles/25/10/28/fifth-ios-261-macos-tahoe-261-developer-betas-are-out-now?utm_source=rss)
- - [What the Trump family stands to gain from Changpeng Zhao’s pardon](https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump)
- - [China claims it has completed the first phase of construction of the first underwater data center, which is powered by wind energy and cooled by seawater &lpar;Anna Lagos/Wired&rpar;](http://www.techmeme.com/251028/p49#a251028p49)
- - [The 50 Best Shows on HBO Max Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)<!-- TECH:END -->
+ - [What the Trump family stands to gain from Changpeng Zhao’s pardon](https://www.theverge.com/column/808369/changpeng-zhao-binance-pardon-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

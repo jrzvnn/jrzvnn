@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 💣 [My son’s Halloween costume last year made the school change their costume rules](https://www.reddit.com/r/funny/comments/1oil79y/my_sons_halloween_costume_last_year_made_the/)
  - 😝 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 💣 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
+ - 😝 [Do not pass go?](http://9gag.com/gag/aqyBgqM)
  - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---

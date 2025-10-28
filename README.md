@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [During Nvidia&#39;s first ever GTC conference in Washington, DC, Jensen Huang praised Trump&#39;s policies and emphasized themes of patriotism and US national interests &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251028/p53#a251028p53)
  - [Myanmar shut down a major online scam center on October 21 as part of operations starting in September to curb cross-border online scams and illegal gambling &lpar;Associated Press&rpar;](http://www.techmeme.com/251028/p52#a251028p52)
  - [OLED iPad mini, MacBook Air, iPad Air are in the works](https://appleinsider.com/articles/25/10/28/oled-ipad-mini-macbook-air-ipad-air-are-in-the-works?utm_source=rss)
  - [Amazon is ditching MMOs and cranking out party games](https://www.theverge.com/news/808332/amazon-gaming-layoffs-mmo-aaa-first-party-games)
- - [Apple gets rights to Dark Horse&#39;s &#39;Last Flight Out&#39; film adaptation](https://appleinsider.com/articles/25/10/28/apple-gets-rights-to-dark-horses-last-flight-out-film-adaptation?utm_source=rss)
- - [Sources: Apple is testing new versions of the MacBook Air, iPad mini, and iPad Air with OLED screens; the iPad mini will likely arrive first, as early as 2026 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251028/p51#a251028p51)<!-- TECH:END -->
+ - [Apple gets rights to Dark Horse&#39;s &#39;Last Flight Out&#39; film adaptation](https://appleinsider.com/articles/25/10/28/apple-gets-rights-to-dark-horses-last-flight-out-film-adaptation?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

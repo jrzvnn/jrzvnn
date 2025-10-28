@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is cutting 14,000 corporate jobs](https://www.theverge.com/news/807825/amazon-job-layoffs-2025-ai)
+ - [7 Best Heated Blankets for Comfy, Cozy Warmth &lpar;2025&rpar;](https://www.wired.com/gallery/best-heated-blankets/)
  - [Fireworks AI, which helps developers access AI chips and models, raised a $254M Series C at a $4B valuation, split into a $230M primary and $24M secondary round &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p12#a251028p12)
  - [China Dives in on the World’s First Wind-Powered Undersea Data Center](https://www.wired.com/story/china-dives-in-on-the-worlds-first-wind-powered-undersea-data-center/)
- - [Alienware 16X Aurora Review: A Return to Form for This Gaming Laptop](https://www.wired.com/review/alienware-16x-aurora/)
- - [Sources: Uber plans to invest in the Hong Kong listings of Pony AI and WeRide, deepening its Chinese robotaxi ties, including ~$100M in Pony AI&#39;s share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p11#a251028p11)
- - [PayPal CEO Alex Chriss says the company signed a deal with OpenAI to let shoppers use PayPal&#39;s digital wallet in ChatGPT to pay for items, starting in 2026 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251028/p10#a251028p10)<!-- TECH:END -->
+ - [Alienware 16X Aurora Review: A Return to Form for This Gaming Laptop](https://www.wired.com/review/alienware-16x-aurora/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

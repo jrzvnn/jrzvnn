@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Polymarket plans to return to the US with a focus on sports betting; initial trading is likely by the end of November, but won&#39;t be broadly available &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p42#a251028p42)
  - [Nvidia unveils NVQLink, a high-speed interconnect that Jensen Huang says is the &quot;Rosetta Stone connecting quantum and classical supercomputers&quot; &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/251028/p41#a251028p41)
  - [Apple&#39;s iPad 11 is back on sale for $299, plus save up to $280 across line](https://appleinsider.com/articles/25/10/28/apples-ipad-11-is-back-on-sale-for-299-plus-save-up-to-280-across-line?utm_source=rss)
  - [Nvidia and HPE plan to build two new Vera Rubin-based supercomputers for Los Alamos National Laboratory, for national security and scientific research &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251028/p40#a251028p40)
- - [Skyworks buys rival Qorvo for ~$9.76B in a cash-and-stock deal, forming a $22B combined company that supplies radio-frequency chips to Apple and others &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p39#a251028p39)
- - [Here are the price-matching policies for Best Buy, GameStop, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)<!-- TECH:END -->
+ - [Skyworks buys rival Qorvo for ~$9.76B in a cash-and-stock deal, forming a $22B combined company that supplies radio-frequency chips to Apple and others &lpar;Reuters&rpar;](http://www.techmeme.com/251028/p39#a251028p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

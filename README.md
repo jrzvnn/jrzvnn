@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Uber plans to invest in the Hong Kong listings of Pony AI and WeRide, deepening its Chinese robotaxi ties, including ~$100M in Pony AI&#39;s share sale &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p11#a251028p11)
  - [PayPal CEO Alex Chriss says the company signed a deal with OpenAI to let shoppers use PayPal&#39;s digital wallet in ChatGPT to pay for items, starting in 2026 &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251028/p10#a251028p10)
  - [Visible Alpha: Apple&#39;s Services unit revenue is set to hit $108.6B in the year to September, its first time above $100B and up 13% YoY, ahead of its Q4 results &lpar;Financial Times&rpar;](http://www.techmeme.com/251028/p9#a251028p9)
  - [Why Nicholas Thompson Made a Custom GPT to Run Faster](https://www.wired.com/story/the-big-interview-podcast-nicholas-thompson/)
- - [xAI&#39;s Grokipedia says Grok fact-checked its entries and some &quot;content is adapted from Wikipedia&quot;; some pages, like the PS5&#39;s, are almost identical to Wikipedia &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251028/p8#a251028p8)
- - [Stablecoin startup ZAR raised $12.9M led by a16z to test USD-backed coins for Pakistan, which the World Bank estimates has the third-largest unbanked population &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/251028/p7#a251028p7)<!-- TECH:END -->
+ - [xAI&#39;s Grokipedia says Grok fact-checked its entries and some &quot;content is adapted from Wikipedia&quot;; some pages, like the PS5&#39;s, are almost identical to Wikipedia &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251028/p8#a251028p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

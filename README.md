@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 💣 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
- - 😝 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
+ - 😝 [OPM3 ....disappointed](http://9gag.com/gag/a87Qo3p)
+ - 💣 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
+ - 😝 [Eye of class 5 hurricane Melissa](http://9gag.com/gag/aRB90BQ)
  - 👉 [He definitely knows what he wants now](http://9gag.com/gag/azxoXgp)<!-- MEMES:END -->
 
 ---

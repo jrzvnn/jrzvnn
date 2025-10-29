@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
  - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
  - 💣 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
  - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
- - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
+ - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
 
 ---
 

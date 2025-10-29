@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save $30 on This All-Clad Nonstick Frying Pan Set](https://www.wired.com/story/all-clad-nonstick-frying-pans-october-2025/)
  - [Google starts rolling out the Gemini for Home voice assistant in early access in the US, on Nest devices set to English &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251029/p43#a251029p43)
  - [A former L3 Harris executive pleads guilty in a US district court to selling eight zero-day exploits to a Russian broker in exchange for millions of dollars &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251029/p42#a251029p42)
  - [Sources: Synthesia, which helps companies generate videos with AI avatars, raised $200M led by GV at a $4B valuation, up from a $2.1B valuation in January &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251029/p41#a251029p41)
- - [This magnetic controller brings Game Boy-style controls to your smartphone](https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe)
- - [Sources: legal AI startup Harvey raised $150M led by a16z at an $8B valuation, up from a $5B valuation in June, bringing its total raised to over $1B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251029/p40#a251029p40)<!-- TECH:END -->
+ - [This magnetic controller brings Game Boy-style controls to your smartphone](https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

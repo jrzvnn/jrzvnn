@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is true](http://9gag.com/gag/agm6Bdv)
- - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
+ - 😝 [Bro code](http://9gag.com/gag/ayNZeKW)
+ - 😝 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
+ - 💣 [Elijah Wood Crashing a Wedding at Hobbiton in New Zealand](http://9gag.com/gag/aKGn7Q3)
+ - 😝 [Windows 11 is what finally pushed me over to team linux](http://9gag.com/gag/a0ez71X)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 

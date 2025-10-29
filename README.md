@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eBay reports Q3 revenue up 9% YoY to $2.82B, vs. $2.73B est., GMV up 10% to $20.1B, and forecasts Q4 profit below estimates; EBAY drops 6%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251029/p52#a251029p52)
+ - [Alphabet reports Google Cloud Q3 revenue of $15.15B vs. $14.74B est., and raises 2025 capex forecast to $91B-$93B, after projecting $85B in July &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251029/p51#a251029p51)
+ - [How one mountain town hopes AI can help it fight wildfires](https://www.theverge.com/report/809348/ai-fire-detection-vail-hpe-smart-city-platform)
  - [The government shutdown is delaying new gadgets](https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products)
- - [Sources: YouTube reorganizes its leadership team, with three product teams now reporting directly to CEO Neal Mohan, and a &quot;voluntary exit program&quot; for US staff &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251029/p50#a251029p50)
- - [A massive Microsoft Azure outage is taking down Xbox and 365](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)
- - [Meta reports Reality Labs Q3 revenue of $470M vs. $316M est., and a $4.4B operating loss vs. $5.1B est.; Reality Labs has lost $70B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251029/p49#a251029p49)
- - [Meta recorded a one-time income tax charge of $15.93B related to Trump&#39;s Big Beautiful Bill and expects 2025 capex of $70B-$72B, up from a $66B-$72B forecast &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251029/p48#a251029p48)<!-- TECH:END -->
+ - [Sources: YouTube reorganizes its leadership team, with three product teams reporting to CEO Neal Mohan, and announces a &quot;voluntary exit program&quot; for US staff &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251029/p50#a251029p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

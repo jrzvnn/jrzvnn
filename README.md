@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix reports Q3 revenue up 39% YoY to $17.02B, vs. $17.22B est, operating profit up 62% YoY to $7.92B, a record, boosted by demand for its HBM chips for AI &lpar;CNBC&rpar;](http://www.techmeme.com/251028/p56#a251028p56)
- - [Celebrity video shoutout app Cameo sues OpenAI for trademark infringement, alleging Sora&#39;s &quot;cameo&quot; feature is likely to cause confusion and dilute its brand &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251028/p55#a251028p55)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)
- - [YouTube will age-restrict more video game content showing &quot;graphic violence&quot; and stop creators from directing users to gambling sites involving digital goods &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251028/p54#a251028p54)
- - [Senators propose banning teens from using AI chatbots](https://www.theverge.com/news/808589/senators-ai-chatbot-bill-age-verification-teen-ban)<!-- TECH:END -->
+ - [GitHub updates VS Code with Plan Mode for building step-by-step project approaches, MCP Registry integration, definable project rules via AGENTS.md, and more &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/251028/p58#a251028p58)
+ - [Samsung&#39;s Wild-Looking Tri-Fold Phone Makes Its Debut at the APEC Summit in S. Korea](https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-makes-its-debut-at-the-apec-summit-in-s-korea/#ftag=CAD590a51e)
+ - [KiiBoom Cybrix 29 review: Half a keyboard, all the utility](https://appleinsider.com/articles/25/10/29/kiiboom-cybrix-29-review-half-a-keyboard-all-the-utility?utm_source=rss)
+ - [Sources: The Bot Company, co-founded by ex-Cruise CEO Kyle Vogt to make AI-powered household robots, is set to raise $250M at a $4B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p57#a251028p57)
+ - [Apple&#39;s Next Big Move: iPhone 20 Reportedly Could Ditch Every Physical Button](https://www.cnet.com/tech/mobile/apples-next-big-move-iphone-20-could-reportedly-ditch-every-physical-button/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

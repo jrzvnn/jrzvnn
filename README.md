@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
  - 😝 [No context](http://9gag.com/gag/a0ezRyX)
- - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
- - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
  - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---

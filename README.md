@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 😝 [Can&#39;t help some people.](http://9gag.com/gag/aVv4wpM)
- - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
+ - 😝 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)
+ - 😝 [Eye of class 5 hurricane Melissa](http://9gag.com/gag/aRB90BQ)
+ - 💣 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
+ - 😝 [Never forget Iryna Zarutska](http://9gag.com/gag/agm65wn)
+ - 👉 [When you order from Temu.](http://9gag.com/gag/azxomnm)<!-- MEMES:END -->
 
 ---
 

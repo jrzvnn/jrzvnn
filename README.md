@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French lawmakers vote to raise France&#39;s digital services tax on US tech giants to 6%, up from 3%; the French government opposes the move, fearing US retaliation &lpar;Politico&rpar;](http://www.techmeme.com/251029/p15#a251029p15)
- - [Sources: OpenAI&#39;s restructuring, approved by California&#39;s AG, paves the way for an IPO as soon as 2027; Sam Altman says an IPO is likely but gave no timeframe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p14#a251029p14)
- - [After Nvidia GTC, Jensen Huang says &quot;I don&#39;t believe we&#39;re in an AI bubble&quot; and that Nvidia expects to sell 20M Blackwell chips, up from 4M Hopper chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p13#a251029p13)
- - [Tummy Trouble? These Are 5 Signs You Have an Unhealthy Gut](https://www.cnet.com/health/medical/tummy-trouble-signs-dealing-unhealthy-gut/#ftag=CAD590a51e)
- - [US FEC filings and public statements: a handful of crypto super PACs have amassed ~$263M ahead of the 2026 midterms; Fairshake remains the biggest at $141M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p12#a251029p12)<!-- TECH:END -->
+ - [IBM releases four open-source Granite 4.0 Nano AI models ranging from 350M to 1.5B parameters, designed to run on consumer hardware and even in web browsers &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251029/p17#a251029p17)
+ - [Acer Nitro V 16 AI Review: The Best Budget Gaming Laptop](https://www.wired.com/review/acer-nitro-v-16-ai/)
+ - [OnlyFans Goes to Business School](https://www.wired.com/story/onlyfans-goes-to-business-school/)
+ - [A look at the FGC-9, a 3D-printed semiautomatic gun created by a German incel that scholars and lawmakers say is the most popular &quot;ghost gun&quot; outside the US &lpar;Samanth Subramanian/Bloomberg&rpar;](http://www.techmeme.com/251029/p16#a251029p16)
+ - [French lawmakers vote to raise France&#39;s digital services tax on US tech giants to 6%, up from 3%; the French government opposes the move, fearing US retaliation &lpar;Politico&rpar;](http://www.techmeme.com/251029/p15#a251029p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

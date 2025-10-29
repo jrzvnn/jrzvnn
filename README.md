@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 💣 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 😝 [Kids and pets shouldn&#39;t be your `content`](http://9gag.com/gag/a9yZnE1)
  - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
 
 ---

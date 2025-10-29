@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - 😝 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 💣 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
  - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 💣 [Rich people problems](http://9gag.com/gag/avy4znd)
- - 😝 [Based razer](http://9gag.com/gag/aW4PxLn)
- - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
+ - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
 
 ---
 

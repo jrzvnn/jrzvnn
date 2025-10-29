@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SK Hynix says its DRAM, NAND, and HBM production capacity for next year &quot;has been sold out&quot; and that it would set up a production system to meet OpenAI&#39;s demand &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/251029/p2#a251029p2)
- - [Sublime Security, which uses AI agents to protect against phishing and other email threats, raised a $150M Series C, bringing its total funding to $240M+ &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/251029/p1#a251029p1)
- - [Withings’ urine scanning health tracker is now available for $350](https://www.theverge.com/news/808381/withings-u-scan-toilet-urine-test-health-nutrio-calci)
- - [Foxconn says it plans to deploy Nvidia&#39;s Isaac GR00T N model of humanoid robots at its factory in Houston, Texas, which produces AI servers for Nvidia &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/251028/p61#a251028p61)
- - [Memo: California&#39;s AG says OpenAI&#39;s restructuring has &quot;no impact&quot; on other cases, likely referring to Elon Musk&#39;s lawsuit against OpenAI over its restructuring &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251028/p60#a251028p60)<!-- TECH:END -->
+ - [Palantir announces a partnership to use Nvidia&#39;s chips and software to help its customers speed up decision-making in complex fields such as logistics &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251029/p6#a251029p6)
+ - [CrowdStrike and Nvidia announce an expanded partnership to deepen the use of each other&#39;s technologies for creating and deploying AI agents for cybersecurity &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/251029/p5#a251029p5)
+ - [EV maker Lucid partners with Nvidia to develop a fully autonomous vehicle platform, starting with building more ADAS tech for Lucid&#39;s existing Gravity SUV &lpar;Kara Carlson/Bloomberg&rpar;](http://www.techmeme.com/251029/p4#a251029p4)
+ - [Google Workspace Promo Code: Up to 14% Off in October 2025](https://www.wired.com/story/google-workspace-promo-code/)
+ - [Eli Lilly partners with Nvidia to build what the companies say will be the most powerful supercomputer run by a pharma company, powered by 1,000+ Blackwell GPUs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p3#a251029p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

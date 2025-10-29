@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Keep Subways and Trains Cool in an Ever Hotter World](https://www.wired.com/story/how-to-keep-trains-cool-hot-world-global-warming-subway-london-underground-tube/)
  - [Ex-L3Harris Cyber Boss Pleads Guilty to Selling Trade Secrets to Russian Firm](https://www.wired.com/story/peter-williams-trenchant-trade-secrets-theft-russian-firm/)
  - [Extropic Aims to Disrupt the Data Center Bonanza](https://www.wired.com/story/extropic-aims-to-disrupt-the-data-center-bonanza/)
  - [Microsoft 365 and Azure suffer outages; users report problems accessing sites and services, and the company says it is investigating &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251029/p39#a251029p39)
- - [Cursor launches Cursor 2.0, with its first coding model, Composer, that it says is 4x faster than similar models, and a multi-agent interface &lpar;Cursor&rpar;](http://www.techmeme.com/251029/p38#a251029p38)
- - [9 Best Seiko 5 Sports Watches &lpar;2025&rpar;](https://www.wired.com/story/the-best-seiko-5-sports-watches/)<!-- TECH:END -->
+ - [Cursor launches Cursor 2.0, with its first coding model, Composer, that it says is 4x faster than similar models, and a multi-agent interface &lpar;Cursor&rpar;](http://www.techmeme.com/251029/p38#a251029p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

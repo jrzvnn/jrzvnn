@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google starts rolling out the Gemini for Home voice assistant in early access in the US, on Nest devices set to English &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251029/p43#a251029p43)
  - [A former L3 Harris executive pleads guilty in a US district court to selling eight zero-day exploits to a Russian broker in exchange for millions of dollars &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251029/p42#a251029p42)
  - [Sources: Synthesia, which helps companies generate videos with AI avatars, raised $200M led by GV at a $4B valuation, up from a $2.1B valuation in January &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251029/p41#a251029p41)
- - [This magnetic controller brings Game Boy-style controls to your smartphone](https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe)<!-- TECH:END -->
+ - [Don&#39;t Miss the Chance to Get $40 Off This 3-Port 160W Anker Prime Charger](https://www.cnet.com/deals/dont-miss-the-chance-to-get-40-off-this-3-port-160w-anker-prime-charger/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why is Bill Gates tone policing on climate change?](https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo)
+ - [Eating Microwave Popcorn in 2025? You Can Do Better](https://www.wired.com/story/air-popped-popcorn-rave/)
+ - [Apple’s Vision Pro with M5 is better than the first, but still awfully lonely](https://www.theverge.com/tech/807963/apple-vision-pro-m5-review-specs-release-date)
  - [PitchBook: Nvidia invested in 59 AI startups in 2025 so far, including 10 in the past two months, surpassing 55 investments in 2024 and 12 investments in 2022 &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251029/p23#a251029p23)
- - [Apple wants to improve everybody&#39;s AI image editors with new training dataset](https://appleinsider.com/articles/25/10/29/apple-wants-to-improve-everybodys-ai-image-editors-with-new-training-dataset?utm_source=rss)
- - [Etsy appoints Chief Growth Officer Kruti Patel Goyal as its new CEO, starting January 1, 2026, replacing Josh Silverman after eight years in the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p22#a251029p22)
- - [Razer HyperFlux V2 Wireless Charging System Review: A $120 Mousepad](https://www.wired.com/review/razer-hyperflux-v2-wireless-charging-system/)
- - [Big Tech&#39;s EU lobbying hit €151M in 2025, up from €113M in 2023 and €97M in 2021; between January and June 2025, Big Tech had 146 meetings with EU officials &lpar;Corporate Europe Observatory&rpar;](http://www.techmeme.com/251029/p21#a251029p21)<!-- TECH:END -->
+ - [Apple wants to improve everybody&#39;s AI image editors with new training dataset](https://appleinsider.com/articles/25/10/29/apple-wants-to-improve-everybodys-ai-image-editors-with-new-training-dataset?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

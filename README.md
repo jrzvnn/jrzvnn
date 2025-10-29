@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta recorded a one-time income tax charge of $15.93B related to Trump&#39;s Big Beautiful Bill and expects 2025 capex of $70B-$72B, up from a $66B-$72B forecast &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251029/p48#a251029p48)
- - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
- - [The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures](https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/)
- - [Alphabet reports YouTube&#39;s Q3 ad revenue rose 15% YoY to $10.26B, vs. $10.01B est., and Google&#39;s advertising revenue reached $74.18B, up from $65.85B a year ago &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251029/p47#a251029p47)
- - [Microsoft reports Q1 revenue up 18% YoY to $77.7B, vs. $75.3B est., net income up 12% to $27.7B, and Azure and other cloud services revenue up 40% &lpar;Microsoft&rpar;](http://www.techmeme.com/251029/p46#a251029p46)<!-- TECH:END -->
+ - [The government shutdown is delaying new gadgets](https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products)
+ - [Sources: YouTube reorganizes its leadership team, with three product teams now reporting directly to CEO Neal Mohan, and a &quot;voluntary exit program&quot; for US staff &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251029/p50#a251029p50)
+ - [A massive Microsoft Azure outage is taking down Xbox and 365](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)
+ - [Meta reports Reality Labs Q3 revenue of $470M vs. $316M est., and a $4.4B operating loss vs. $5.1B est.; Reality Labs has lost $70B+ since 2020 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251029/p49#a251029p49)
+ - [Meta recorded a one-time income tax charge of $15.93B related to Trump&#39;s Big Beautiful Bill and expects 2025 capex of $70B-$72B, up from a $66B-$72B forecast &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251029/p48#a251029p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

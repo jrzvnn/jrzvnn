@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [This is true](http://9gag.com/gag/agm6Bdv)
  - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
  - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
 
 ---

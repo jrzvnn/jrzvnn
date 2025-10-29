@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 💣 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
- - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
+ - 😝 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
+ - 😝 [A dog was chasing an ambulance carrying its owner. When emergency services noticed the situation, it was taken inside. The dog... Unconditional love...](http://9gag.com/gag/aLnVwEv)
+ - 💣 [Never forget Iryna Zarutska](http://9gag.com/gag/agm65wn)
+ - 😝 [Can&#39;t help some people.](http://9gag.com/gag/aVv4wpM)
+ - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---
 

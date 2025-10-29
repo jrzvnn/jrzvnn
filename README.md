@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US FEC filings and public statements: a handful of crypto super PACs have amassed ~$263M ahead of the 2026 midterms; Fairshake remains the biggest at $141M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p12#a251029p12)
+ - [Some ad buyers say brands are increasingly spending on Reddit due to the site&#39;s prominence in AI-powered search results and its growing audience &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251029/p11#a251029p11)
  - [A survey of 16K+ creators in eight countries: 86% use creative GenAI tools, 60% use multiple, 48% use them for ideation, and 52% for creating video and more &lpar;Adobe Newsroom&rpar;](http://www.techmeme.com/251029/p10#a251029p10)
  - [USC sues Google in Texas federal court, alleging that Google Earth, Maps, and Google Street View violate its patents for overlaying 2D images onto 3D models &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251029/p9#a251029p9)
- - [Rainfall Buries a Mega-Airport in Mexico](https://www.wired.com/story/rainfall-buries-a-mega-airport-in-mexico/)
- - [All three major South Korean telcos, SK Telecom, KT Telecom, and now LG Uplus, have reported cybersecurity incidents to the government over the past six months &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251029/p8#a251029p8)
- - [Ripple&#39;s shares trade between $135 and $170 in private markets, up ~2x-3x since early 2025, valuing the company at $22B-$30B after several major acquisitions &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251029/p7#a251029p7)<!-- TECH:END -->
+ - [Rainfall Buries a Mega-Airport in Mexico](https://www.wired.com/story/rainfall-buries-a-mega-airport-in-mexico/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

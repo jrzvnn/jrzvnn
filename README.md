@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
  - 😝 [Based razer](http://9gag.com/gag/aW4PxLn)
- - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
- - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
+ - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - 💣 [No context](http://9gag.com/gag/a0ezRyX)
+ - 😝 [When you order from Temu.](http://9gag.com/gag/azxomnm)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 

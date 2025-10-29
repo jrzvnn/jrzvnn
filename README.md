@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: the US government allowed and even helped US companies sell tech used for China&#39;s surveillance across five GOP and Democratic administrations &lpar;Associated Press&rpar;](http://www.techmeme.com/251029/p30#a251029p30)
- - [Apple&amp;#8217;s OLED transition could come with a more expensive iPad Mini](https://www.theverge.com/news/808841/apple-oled-transition-macbook-air-ipad-mini)
- - [OpenAI has an AGI problem — and Microsoft just made it worse](https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars)
- - [Grammarly rebrands as Superhuman after its acquisitions of Superhuman Mail in June and Coda in December 2024; the standalone writing tool Grammarly still exists &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251029/p29#a251029p29)
- - [Character.ai plans to limit under-18s to two hours of conversations per day, gradually reducing the time limit before banning them completely from November 25 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251029/p28#a251029p28)<!-- TECH:END -->
+ - [Apple spent more than ever lobbying politicians in the EU in 2025](https://appleinsider.com/articles/25/10/29/apple-spent-more-than-ever-lobbying-politicians-in-the-eu-in-2025?utm_source=rss)
+ - [YouTube is using AI to upscale videos uploaded at between 240p and 720p to HD on TV screens, but users can opt out, and plans 4K upscaling &quot;in the near future&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251029/p32#a251029p32)
+ - [TikTok can use AI to turn your long video into short ones](https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions)
+ - [Nvidia opens at a $5T market cap, becoming the first company to hit the milestone, climbing 5% in early trading; NVDA is up 50% in 2025 and 1,275% since 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/251029/p31#a251029p31)
+ - [Investigation: the US government allowed and even helped US companies sell tech used for China&#39;s surveillance across five GOP and Democratic administrations &lpar;Associated Press&rpar;](http://www.techmeme.com/251029/p30#a251029p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

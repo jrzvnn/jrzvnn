@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 Best Seiko 5 Sports Watches &lpar;2025&rpar;](https://www.wired.com/story/the-best-seiko-5-sports-watches/)
- - [A massive Microsoft Azure outage is taking down Xbox and 365](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)
- - [Halo on PlayStation might be what Xbox needs to survive](https://www.theverge.com/entertainment/809053/halo-playstation-xbox-multiplatform-strategy)
- - [Apple joins the advisory board for The Game Awards](https://appleinsider.com/articles/25/10/29/apple-joins-the-advisory-board-for-the-game-awards?utm_source=rss)
- - [China is expediting IPO approvals amid its AI rivalry with the US, recently approving listings for chip designers MetaX and Moore Threads in just three months &lpar;The Information&rpar;](http://www.techmeme.com/251029/p37#a251029p37)<!-- TECH:END -->
+ - [Ex-L3Harris Cyber Boss Pleads Guilty to Selling Trade Secrets to Russian Firm](https://www.wired.com/story/peter-williams-trenchant-trade-secrets-theft-russian-firm/)
+ - [Extropic Aims to Disrupt the Data Center Bonanza](https://www.wired.com/story/extropic-aims-to-disrupt-the-data-center-bonanza/)
+ - [Microsoft 365 and Azure suffer outages; users report problems accessing sites and services, and the company says it is investigating &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251029/p39#a251029p39)
+ - [Cursor launches Cursor 2.0, with its first coding model, Composer, that it says is 4x faster than similar models, and a multi-agent interface &lpar;Cursor&rpar;](http://www.techmeme.com/251029/p38#a251029p38)
+ - [9 Best Seiko 5 Sports Watches &lpar;2025&rpar;](https://www.wired.com/story/the-best-seiko-5-sports-watches/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

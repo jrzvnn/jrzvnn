@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon opens Project Rainier, an $11B AI data center on 1,200 acres in Indiana that trains and runs Anthropic&#39;s AI models using 500K+ Amazon Trainium 2 chips &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251029/p35#a251029p35)
- - [Jamf goes from public to private in $2.2B acquisition deal](https://appleinsider.com/articles/25/10/29/jamf-goes-from-public-to-private-in-22b-acquisition-deal?utm_source=rss)
- - [Jamf says PE firm Francisco Partners agreed to take the device management software maker private in an all-cash deal valued at ~$2.2B, set to close in Q1 2026 &lpar;Connor Hart/Wall Street Journal&rpar;](http://www.techmeme.com/251029/p34#a251029p34)
- - [9 Best Tents &lpar;2025&rpar;, Tested: Camping, Family, and Outdoor Palaces](https://www.wired.com/gallery/best-camping-tents/)
- - [Amazon&#39;s $100 Echo Dot Max and $220 Echo Studio review: the devices run Alexa+, which works well, and have good audio quality, but the Studio is underwhelming &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251029/p33#a251029p33)<!-- TECH:END -->
+ - [Older Google Pixel phones can’t precisely locate UWB trackers](https://www.theverge.com/news/809050/ultra-wideband-uwb-tracker-moto-tag-google-pixel-6-7-pro)
+ - [Bank of America raises Apple stock target to $320, betting on AI &amp; the smart home](https://appleinsider.com/articles/25/10/29/bank-of-america-raises-apple-stock-target-to-320-betting-on-ai-the-smart-home?utm_source=rss)
+ - [Donald Trump Is the First AI Slop President](https://www.wired.com/story/donald-trump-ai-slop-white-house/)
+ - [Nvidia is officially a $5 trillion company](https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai)
+ - [Amazon opens Project Rainier, an $11B AI data center on 1,200 acres in Indiana that trains and runs Anthropic&#39;s AI models using 500K+ Amazon Trainium 2 chips &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251029/p35#a251029p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

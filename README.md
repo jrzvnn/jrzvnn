@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grammarly is changing its name to Superhuman](https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch)
- - [Character.AI is banning minors from AI character chats](https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban)
- - [YouTube will let you opt out of AI upscaling on low-res videos](https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates)
- - [Grokipedia hands-on: many articles clone Wikipedia, but deviate significantly on topics conflicting with Elon Musk&#39;s worldview; at times, it is overtly racist &lpar;The Verge&rpar;](http://www.techmeme.com/251029/p27#a251029p27)
- - [KiiBoom Cybrix 29 review: Half a keyboard, all the utility](https://appleinsider.com/articles/25/10/29/kiiboom-cybrix-29-review-half-a-keyboard-all-the-utility?utm_source=rss)<!-- TECH:END -->
+ - [Investigation: the US government allowed and even helped US companies sell tech used for China&#39;s surveillance across five GOP and Democratic administrations &lpar;Associated Press&rpar;](http://www.techmeme.com/251029/p30#a251029p30)
+ - [Apple&amp;#8217;s OLED transition could come with a more expensive iPad Mini](https://www.theverge.com/news/808841/apple-oled-transition-macbook-air-ipad-mini)
+ - [OpenAI has an AGI problem — and Microsoft just made it worse](https://www.theverge.com/ai-artificial-intelligence/808434/openai-for-profit-restructuring-microsoft-deal-agi-wars)
+ - [Grammarly rebrands as Superhuman after its acquisitions of Superhuman Mail in June and Coda in December 2024; the standalone writing tool Grammarly still exists &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251029/p29#a251029p29)
+ - [Character.ai plans to limit under-18s to two hours of conversations per day, gradually reducing the time limit before banning them completely from November 25 &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/251029/p28#a251029p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

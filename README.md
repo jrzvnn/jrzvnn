@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump administration charges influencer and congressional candidate over ICE protests](https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted)
+ - [Mark Zuckerberg is excited to add more AI content to all your social feeds](https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings)
  - [Xbox sales continue to tank](https://www.theverge.com/news/809532/xbox-sales-continue-to-tank)
  - [Microsoft reports Q1 Azure and other cloud services revenue up 40% YoY, vs. 38.4% est., and capital expenditures at $34.9B, vs. $30.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/251029/p55#a251029p55)
- - [Sources: Mastercard is in late-stage talks to acquire the crypto and stablecoin infrastructure startup Zerohash for between $1.5B and $2B &lpar;Fortune&rpar;](http://www.techmeme.com/251029/p54#a251029p54)
- - [Microsoft&#39;s OpenAI investment resulted in a $3.1B hit to Q1 net income; Productivity and Business Processes revenue, with Office and LinkedIn, grew 17% to $33B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251029/p53#a251029p53)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Sources: Mastercard is in late-stage talks to acquire the crypto and stablecoin infrastructure startup Zerohash for between $1.5B and $2B &lpar;Fortune&rpar;](http://www.techmeme.com/251029/p54#a251029p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

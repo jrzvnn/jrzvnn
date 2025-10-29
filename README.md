@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mark Zuckerberg says Threads has 150M DAUs, up from 100M+ in December 2024, and Meta has rolled out ads globally in the Threads feed with plans to add video ads &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251029/p56#a251029p56)
+ - [Meta repents again to Republicans in hearing over moderation, while Google stands its ground](https://www.theverge.com/policy/809613/senate-commerce-jawboning-tech-speech-hearing)
  - [Trump administration charges influencer and congressional candidate over ICE protests](https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted)
  - [Mark Zuckerberg is excited to add more AI content to all your social feeds](https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings)
- - [Xbox sales continue to tank](https://www.theverge.com/news/809532/xbox-sales-continue-to-tank)
- - [Microsoft reports Q1 Azure and other cloud services revenue up 40% YoY, vs. 38.4% est., and capital expenditures at $34.9B, vs. $30.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/251029/p55#a251029p55)
- - [Sources: Mastercard is in late-stage talks to acquire the crypto and stablecoin infrastructure startup Zerohash for between $1.5B and $2B &lpar;Fortune&rpar;](http://www.techmeme.com/251029/p54#a251029p54)<!-- TECH:END -->
+ - [Xbox sales continue to tank](https://www.theverge.com/news/809532/xbox-sales-continue-to-tank)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

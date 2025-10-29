@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Science](http://9gag.com/gag/a4PmRj6)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
  - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
- - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
+ - 😝 [Kids and pets shouldn&#39;t be your `content`](http://9gag.com/gag/a9yZnE1)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 

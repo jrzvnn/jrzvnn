@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay reports Q3 revenue up 9% YoY to $2.82B, vs. $2.73B est., GMV up 10% to $20.1B, and forecasts Q4 profit below estimates; EBAY drops 6%+ after hours &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251029/p52#a251029p52)
- - [Alphabet reports Google Cloud Q3 revenue of $15.15B vs. $14.74B est., and raises 2025 capex forecast to $91B-$93B, after projecting $85B in July &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251029/p51#a251029p51)
- - [How one mountain town hopes AI can help it fight wildfires](https://www.theverge.com/report/809348/ai-fire-detection-vail-hpe-smart-city-platform)
- - [The government shutdown is delaying new gadgets](https://www.theverge.com/report/807850/government-shutdown-fcc-clearance-delaying-tech-products)
- - [Sources: YouTube reorganizes its leadership team, with three product teams reporting to CEO Neal Mohan, and announces a &quot;voluntary exit program&quot; for US staff &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251029/p50#a251029p50)<!-- TECH:END -->
+ - [Microsoft reports Q1 Azure and other cloud services revenue up 40% YoY, vs. 38.4% est., and capital expenditures at $34.9B, vs. $30.34B est. &lpar;Reuters&rpar;](http://www.techmeme.com/251029/p55#a251029p55)
+ - [Sources: Mastercard is in late-stage talks to acquire the crypto and stablecoin infrastructure startup Zerohash for between $1.5B and $2B &lpar;Fortune&rpar;](http://www.techmeme.com/251029/p54#a251029p54)
+ - [Microsoft&#39;s OpenAI investment resulted in a $3.1B hit to Q1 net income; Productivity and Business Processes revenue, with Office and LinkedIn, grew 17% to $33B &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251029/p53#a251029p53)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+ - [Should AI Superintelligence Research Continue? Why These Public Figures Want a Pause](https://www.cnet.com/tech/services-and-software/should-ai-superintelligence-research-continue-why-these-public-figures-want-a-pause/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

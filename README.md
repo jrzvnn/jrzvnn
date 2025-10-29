@@ -167,7 +167,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 😝 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
  - 💣 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
  - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
  - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->

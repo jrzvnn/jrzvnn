@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s Cybercab may have a steering wheel after all](https://www.theverge.com/news/809056/tesla-cybercab-steering-wheel-denholm)
- - [Older Google Pixel phones can’t precisely locate UWB trackers](https://www.theverge.com/news/809050/ultra-wideband-uwb-tracker-moto-tag-google-pixel-6-7-pro)
- - [Bank of America raises Apple stock target to $320, betting on AI &amp; the smart home](https://appleinsider.com/articles/25/10/29/bank-of-america-raises-apple-stock-target-to-320-betting-on-ai-the-smart-home?utm_source=rss)
- - [Donald Trump Is the First AI Slop President](https://www.wired.com/story/donald-trump-ai-slop-white-house/)
- - [Nvidia is officially a $5 trillion company](https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai)<!-- TECH:END -->
+ - [China is expediting IPO approvals amid its AI rivalry with the US, recently approving listings for chip designers MetaX and Moore Threads in just three months &lpar;The Information&rpar;](http://www.techmeme.com/251029/p37#a251029p37)
+ - [LG’s G5 65-inch OLED 4K TV is the most affordable it’s ever been](https://www.theverge.com/tech/809043/lg-g5-oled-tv-pawsync-smart-pet-feeder-deal-sale)
+ - [Chrome is about to show even more safety warnings](https://www.theverge.com/news/808108/google-chrome-insecure-websites-warnings-https-default)
+ - [Apollo Global reaches a deal to sell AOL to Bending Spoons, sources say in a deal valued at ~$1.5B; AOL has about 30M MAUs across its email and web properties &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251029/p36#a251029p36)
+ - [Tesla’s Cybercab may have a steering wheel after all](https://www.theverge.com/news/809056/tesla-cybercab-steering-wheel-denholm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

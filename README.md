@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)
+ - [Crypto media company Blockworks is closing its newsroom, launched in 2021, and will focus on software and data, continuing its main newsletters and podcasts &lpar;Pooja Rajkumari/TheStreet&rpar;](http://www.techmeme.com/251029/p58#a251029p58)
  - [Rode has a better way to connect your tiny wireless mics to your digital camera](https://www.theverge.com/news/809146/rode-wireless-microphone-micro-digital-camera-kit-receiver-oled-display)
  - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Microsoft reports Q1 gaming revenue down 2% YoY to $5.51B, Xbox hardware revenue down 29%, and Xbox content and services revenue up 1% &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251029/p57#a251029p57)
- - [Mark Zuckerberg says Threads has 150M DAUs, up from 100M+ in December 2024, and Meta has rolled out ads globally in the Threads feed with plans to add video ads &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251029/p56#a251029p56)
- - [Meta repents again to Republicans in hearing over moderation, while Google stands its ground](https://www.theverge.com/policy/809613/senate-commerce-jawboning-tech-speech-hearing)<!-- TECH:END -->
+ - [Microsoft reports Q1 gaming revenue down 2% YoY to $5.51B, Xbox hardware revenue down 29%, and Xbox content and services revenue up 1% &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251029/p57#a251029p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

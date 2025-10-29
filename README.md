@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
  - 😝 [No context](http://9gag.com/gag/a0ezRyX)
- - 💣 [I&#39;m vengeance](https://www.reddit.com/r/funny/comments/1oje9oh/im_vengeance/)
- - 😝 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
- - 👉 [Noh.](http://9gag.com/gag/aGy6pZz)<!-- MEMES:END -->
+ - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
+ - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 

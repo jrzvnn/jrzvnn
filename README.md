@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ripple&#39;s shares trade between $135 and $170 in private markets, up ~2x-3x since early 2025, valuing the company at $22B-$30B after several major acquisitions &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251029/p7#a251029p7)
+ - [NordVPN Coupons and Deals: 77% Off in October 2025](https://www.wired.com/story/nordvpn-coupon/)
  - [Palantir announces a partnership to use Nvidia&#39;s chips and software to help its customers speed up decision-making in complex fields such as logistics &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251029/p6#a251029p6)
- - [CrowdStrike and Nvidia announce an expanded partnership to deepen the use of each other&#39;s technologies for creating and deploying AI agents for cybersecurity &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/251029/p5#a251029p5)
- - [EV maker Lucid partners with Nvidia to develop a fully autonomous vehicle platform, starting with building more ADAS tech for Lucid&#39;s existing Gravity SUV &lpar;Kara Carlson/Bloomberg&rpar;](http://www.techmeme.com/251029/p4#a251029p4)
- - [Google Workspace Promo Code: Up to 14% Off in October 2025](https://www.wired.com/story/google-workspace-promo-code/)
- - [Eli Lilly partners with Nvidia to build what the companies say will be the most powerful supercomputer run by a pharma company, powered by 1,000+ Blackwell GPUs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p3#a251029p3)<!-- TECH:END -->
+ - [CrowdStrike and Nvidia announce a partnership expansion to deepen the use of each other&#39;s technologies for creating and deploying AI agents for cybersecurity &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/251029/p5#a251029p5)
+ - [EV maker Lucid partners with Nvidia to develop a fully autonomous vehicle platform, starting with building more ADAS tech for Lucid&#39;s existing Gravity SUV &lpar;Kara Carlson/Bloomberg&rpar;](http://www.techmeme.com/251029/p4#a251029p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
  - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
  - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
+ - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
+ - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---
 

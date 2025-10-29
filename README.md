@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: OpenAI is preparing for an IPO that could value it at ~$1T and has looked at raising $60B+, filing as soon as H2 2026 and listing in 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/251029/p59#a251029p59)
  - [Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)
  - [Crypto media company Blockworks is closing its newsroom, launched in 2021, and will focus on software and data, continuing its main newsletters and podcasts &lpar;Pooja Rajkumari/TheStreet&rpar;](http://www.techmeme.com/251029/p58#a251029p58)
  - [Rode has a better way to connect your tiny wireless mics to your digital camera](https://www.theverge.com/news/809146/rode-wireless-microphone-micro-digital-camera-kit-receiver-oled-display)
- - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [Microsoft reports Q1 gaming revenue down 2% YoY to $5.51B, Xbox hardware revenue down 29%, and Xbox content and services revenue up 1% &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251029/p57#a251029p57)<!-- TECH:END -->
+ - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

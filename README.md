@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peace](http://9gag.com/gag/an785YV)
- - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
- - 💣 [Why boring is good](http://9gag.com/gag/aByjg0A)
  - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 👉 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)<!-- MEMES:END -->
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 💣 [Daily Reminder That This Exists](http://9gag.com/gag/apRz2eD)
+ - 😝 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
 
 ---
 

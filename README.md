@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Freeloading at it&#39;s finest](http://9gag.com/gag/aoyAe1g)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
 
 ---
 

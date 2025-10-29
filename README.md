@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
  - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - 😝 [Based razer](http://9gag.com/gag/aW4PxLn)
  - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 😝 [The northern lights tonight from my front door in North Pole, Alaska](http://9gag.com/gag/aPAz72B)
+ - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
  - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
 
 ---

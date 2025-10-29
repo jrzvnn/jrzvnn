@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, UPS, Target, GM, and other major US companies are laying off tens of thousands of white collar workers, as executives hope AI can handle their workload &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p19#a251029p19)
- - [Internal memo: Amazon makes &quot;significant role reductions&quot; to its game division and will cut down on big budget titles, as it focuses on Luna and casual games &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251029/p18#a251029p18)
- - [IBM releases four open-source Granite 4.0 Nano AI models ranging from 350M to 1.5B parameters, designed to run on consumer hardware and even in web browsers &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251029/p17#a251029p17)
- - [Acer Nitro V 16 AI Review: The Best Budget Gaming Laptop](https://www.wired.com/review/acer-nitro-v-16-ai/)
- - [OnlyFans Goes to Business School](https://www.wired.com/story/onlyfans-goes-to-business-school/)<!-- TECH:END -->
+ - [Big Tech&#39;s EU lobbying hit €151M in 2025, up from €113M in 2023 and €97M in 2021; between January and June 2025, Big Tech had 146 meetings with EU officials &lpar;Corporate Europe Observatory&rpar;](http://www.techmeme.com/251029/p21#a251029p21)
+ - [Jensen Huang says the US needs &quot;finesse&quot; to maintain its AI lead over China and Nvidia is an &quot;awkward place&quot; as President Trump meets Xi Jinping later this week &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/251029/p20#a251029p20)
+ - [The Director of a Raunchy 3-Hour Dracula Movie Says AI Is Gross and Slimy. That’s Why He Used It](https://www.wired.com/story/the-director-of-a-raunchy-3-hour-dracula-movie-says-ai-is-gross-and-slimy-thats-why-he-used-it/)
+ - [Apple’s Family Sharing Helps Keep Children Safe. Until It Doesn’t](https://www.wired.com/story/apples-family-sharing-helps-keep-children-safe-until-it-doesnt/)
+ - [Say it with me: Windows is the problem with Windows handhelds](https://www.theverge.com/games/807711/xbox-ally-sleep-fail-bazzite-fix-performance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

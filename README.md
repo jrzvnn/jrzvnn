@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
- - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
- - 💣 [Peace](http://9gag.com/gag/an785YV)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)<!-- MEMES:END -->
+ - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 💣 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 😝 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
+ - 👉 [I wonder what happened in February 2012](http://9gag.com/gag/adBrLK9)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
- - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
- - 💣 [Why boring is good](http://9gag.com/gag/aByjg0A)
+ - 😝 [Why boring is good](http://9gag.com/gag/aByjg0A)
+ - 😝 [Simple bowling animation](http://9gag.com/gag/aAyqepd)
+ - 💣 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
  - 👉 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never forget Iryna Zarutska](http://9gag.com/gag/agm65wn)
- - 😝 [Bro code](http://9gag.com/gag/ayNZeKW)
- - 💣 [Can&#39;t help some people.](http://9gag.com/gag/aVv4wpM)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 👉 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)<!-- MEMES:END -->
+ - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 💣 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
+ - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
+ - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---
 

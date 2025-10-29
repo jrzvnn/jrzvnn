@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [French lawmakers vote to raise France&#39;s digital services tax on US tech giants to 6%, up from 3%; the French government opposes the move, fearing US retaliation &lpar;Politico&rpar;](http://www.techmeme.com/251029/p15#a251029p15)
+ - [Sources: OpenAI&#39;s restructuring, approved by California&#39;s AG, paves the way for an IPO as soon as 2027; Sam Altman says an IPO is likely but gave no timeframe &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251029/p14#a251029p14)
  - [After Nvidia GTC, Jensen Huang says &quot;I don&#39;t believe we&#39;re in an AI bubble&quot; and that Nvidia expects to sell 20M Blackwell chips, up from 4M Hopper chips &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p13#a251029p13)
  - [Tummy Trouble? These Are 5 Signs You Have an Unhealthy Gut](https://www.cnet.com/health/medical/tummy-trouble-signs-dealing-unhealthy-gut/#ftag=CAD590a51e)
- - [US FEC filings and public statements: a handful of crypto super PACs have amassed ~$263M ahead of the 2026 midterms; Fairshake remains the biggest at $141M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p12#a251029p12)
- - [Some ad buyers say brands are increasingly spending on Reddit due to the site&#39;s prominence in AI-powered search results and its growing audience &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251029/p11#a251029p11)
- - [A survey of 16K+ creators in eight countries: 86% use creative GenAI tools, 60% use multiple, 48% use them for ideation, and 52% for creating video and more &lpar;Adobe Newsroom&rpar;](http://www.techmeme.com/251029/p10#a251029p10)<!-- TECH:END -->
+ - [US FEC filings and public statements: a handful of crypto super PACs have amassed ~$263M ahead of the 2026 midterms; Fairshake remains the biggest at $141M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p12#a251029p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

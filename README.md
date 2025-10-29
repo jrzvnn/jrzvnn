@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Magic \u2728](http://9gag.com/gag/a6Z4O19)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
  - 💣 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
  - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
  - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->

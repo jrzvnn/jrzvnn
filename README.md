@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
  - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 💣 [China #1](http://9gag.com/gag/ae9yMxv)
- - 😝 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)
- - 👉 [I wonder what happened in February 2012](http://9gag.com/gag/adBrLK9)<!-- MEMES:END -->
+ - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
+ - 😝 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)
+ - 👉 [With great power, comes great responsibility..](http://9gag.com/gag/aGy6j5w)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla’s Cybercab may have a steering wheel after all](https://www.theverge.com/news/809056/tesla-cybercab-steering-wheel-denholm)
  - [Older Google Pixel phones can’t precisely locate UWB trackers](https://www.theverge.com/news/809050/ultra-wideband-uwb-tracker-moto-tag-google-pixel-6-7-pro)
  - [Bank of America raises Apple stock target to $320, betting on AI &amp; the smart home](https://appleinsider.com/articles/25/10/29/bank-of-america-raises-apple-stock-target-to-320-betting-on-ai-the-smart-home?utm_source=rss)
  - [Donald Trump Is the First AI Slop President](https://www.wired.com/story/donald-trump-ai-slop-white-house/)
- - [Nvidia is officially a $5 trillion company](https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai)
- - [Amazon opens Project Rainier, an $11B AI data center on 1,200 acres in Indiana that trains and runs Anthropic&#39;s AI models using 500K+ Amazon Trainium 2 chips &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251029/p35#a251029p35)<!-- TECH:END -->
+ - [Nvidia is officially a $5 trillion company](https://www.theverge.com/news/809017/nvidia-5-trillion-market-cap-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

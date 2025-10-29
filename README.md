@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A massive Microsoft Azure outage is taking down Xbox and 365](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)
+ - [Halo on PlayStation might be what Xbox needs to survive](https://www.theverge.com/entertainment/809053/halo-playstation-xbox-multiplatform-strategy)
+ - [Apple joins the advisory board for The Game Awards](https://appleinsider.com/articles/25/10/29/apple-joins-the-advisory-board-for-the-game-awards?utm_source=rss)
  - [China is expediting IPO approvals amid its AI rivalry with the US, recently approving listings for chip designers MetaX and Moore Threads in just three months &lpar;The Information&rpar;](http://www.techmeme.com/251029/p37#a251029p37)
- - [LG’s G5 65-inch OLED 4K TV is the most affordable it’s ever been](https://www.theverge.com/tech/809043/lg-g5-oled-tv-pawsync-smart-pet-feeder-deal-sale)
- - [Chrome is about to show even more safety warnings](https://www.theverge.com/news/808108/google-chrome-insecure-websites-warnings-https-default)
- - [Apollo Global reaches a deal to sell AOL to Bending Spoons, sources say in a deal valued at ~$1.5B; AOL has about 30M MAUs across its email and web properties &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251029/p36#a251029p36)
- - [Tesla’s Cybercab may have a steering wheel after all](https://www.theverge.com/news/809056/tesla-cybercab-steering-wheel-denholm)<!-- TECH:END -->
+ - [LG’s G5 65-inch OLED 4K TV is the most affordable it’s ever been](https://www.theverge.com/tech/809043/lg-g5-oled-tv-pawsync-smart-pet-feeder-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

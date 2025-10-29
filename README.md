@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $30 on This All-Clad Nonstick Frying Pan Set](https://www.wired.com/story/all-clad-nonstick-frying-pans-october-2025/)
- - [Google starts rolling out the Gemini for Home voice assistant in early access in the US, on Nest devices set to English &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251029/p43#a251029p43)
- - [A former L3 Harris executive pleads guilty in a US district court to selling eight zero-day exploits to a Russian broker in exchange for millions of dollars &lpar;Greg Otto/CyberScoop&rpar;](http://www.techmeme.com/251029/p42#a251029p42)
- - [Sources: Synthesia, which helps companies generate videos with AI avatars, raised $200M led by GV at a $4B valuation, up from a $2.1B valuation in January &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/251029/p41#a251029p41)
- - [Don&#39;t Miss the Chance to Get $40 Off This 3-Port 160W Anker Prime Charger](https://www.cnet.com/deals/dont-miss-the-chance-to-get-40-off-this-3-port-160w-anker-prime-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Earnings Release FY26 Q1 &lpar;Microsoft&rpar;](http://www.techmeme.com/251029/p46#a251029p46)
+ - [Bending Spoons is buying AOL for some reason](https://www.theverge.com/news/809366/aol-bending-spoons-acquistion)
+ - [Meta Reports Third Quarter 2025 Results &lpar;Meta&rpar;](http://www.techmeme.com/251029/p45#a251029p45)
+ - [Alphabet reports Q3 revenue up 16% YoY to $102.35B, vs. $99.89B est., Cloud revenue up 34% to $15.16B, net income up 33% to $34.98B; GOOG jumps 5%+ after hours &lpar;Alphabet&rpar;](http://www.techmeme.com/251029/p44#a251029p44)
+ - [Save $30 on This All-Clad Nonstick Frying Pan Set](https://www.wired.com/story/all-clad-nonstick-frying-pans-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

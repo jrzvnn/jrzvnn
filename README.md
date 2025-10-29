@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This magnetic controller brings Game Boy-style controls to your smartphone](https://www.theverge.com/news/809274/abxylute-m4-snap-on-mobile-wireless-smartphone-controller-magnetic-magsafe)
+ - [Sources: legal AI startup Harvey raised $150M led by a16z at an $8B valuation, up from a $5B valuation in June, bringing its total raised to over $1B &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251029/p40#a251029p40)
  - [The Pixel Watch 3 Is $100 Off](https://www.wired.com/story/pixel-watch-3-deal-1025/)
  - [AI Agents Are Terrible Freelance Workers](https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/)
- - [The Outer Worlds 2&amp;#8217;s satire has a Microsoft-shaped problem](https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox)
- - [Anker’s fast 2-in-1 USB-C cable is less than $20 right now](https://www.theverge.com/tech/809180/anker-140w-2-in-1-usb-c-cable-deal-sale)
- - [Apple joins advisory board for &#39;The Game Awards&#39;](https://appleinsider.com/articles/25/10/29/apple-joins-the-advisory-board-for-the-game-awards?utm_source=rss)<!-- TECH:END -->
+ - [The Outer Worlds 2&amp;#8217;s satire has a Microsoft-shaped problem](https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

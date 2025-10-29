@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
  - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
  - 💣 [Peace](http://9gag.com/gag/an785YV)
- - 😝 [Say hello to my lidl friend](http://9gag.com/gag/amoKv0X)
- - 👉 [Why boring is good](http://9gag.com/gag/aByjg0A)<!-- MEMES:END -->
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 👉 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
  - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
- - 💣 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [Staaaairs](http://9gag.com/gag/awyPAXx)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 💣 [Based razer](http://9gag.com/gag/aW4PxLn)
+ - 😝 [One movie, right](http://9gag.com/gag/apRzG15)
+ - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
 
 ---
 

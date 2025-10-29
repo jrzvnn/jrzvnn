@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [USC sues Google in Texas federal court, alleging that Google Earth, Maps, and Google Street View violate its patents for overlaying 2D images onto 3D models &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251029/p9#a251029p9)
+ - [Rainfall Buries a Mega-Airport in Mexico](https://www.wired.com/story/rainfall-buries-a-mega-airport-in-mexico/)
  - [All three major South Korean telcos, SK Telecom, KT Telecom, and now LG Uplus, have reported cybersecurity incidents to the government over the past six months &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251029/p8#a251029p8)
  - [Ripple&#39;s shares trade between $135 and $170 in private markets, up ~2x-3x since early 2025, valuing the company at $22B-$30B after several major acquisitions &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251029/p7#a251029p7)
- - [NordVPN Coupons and Deals: 77% Off in October 2025](https://www.wired.com/story/nordvpn-coupon/)
- - [Palantir announces a partnership to use Nvidia&#39;s chips and software to help its customers speed up decision-making in complex fields such as logistics &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251029/p6#a251029p6)
- - [CrowdStrike and Nvidia announce a partnership expansion to deepen the use of each other&#39;s technologies for creating and deploying AI agents for cybersecurity &lpar;Kyle Alspach/CRN&rpar;](http://www.techmeme.com/251029/p5#a251029p5)<!-- TECH:END -->
+ - [NordVPN Coupons and Deals: 77% Off in October 2025](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

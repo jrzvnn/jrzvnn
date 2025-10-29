@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft reports Q1 gaming revenue down 2% YoY to $5.51B, Xbox hardware revenue down 29%, and Xbox content and services revenue up 1% &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/251029/p57#a251029p57)
  - [Mark Zuckerberg says Threads has 150M DAUs, up from 100M+ in December 2024, and Meta has rolled out ads globally in the Threads feed with plans to add video ads &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251029/p56#a251029p56)
  - [Meta repents again to Republicans in hearing over moderation, while Google stands its ground](https://www.theverge.com/policy/809613/senate-commerce-jawboning-tech-speech-hearing)
  - [Trump administration charges influencer and congressional candidate over ICE protests](https://www.theverge.com/news/809401/kat-abughazaleh-ice-indicted)
- - [Mark Zuckerberg is excited to add more AI content to all your social feeds](https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings)
- - [Xbox sales continue to tank](https://www.theverge.com/news/809532/xbox-sales-continue-to-tank)<!-- TECH:END -->
+ - [Mark Zuckerberg is excited to add more AI content to all your social feeds](https://www.theverge.com/news/809349/meta-mark-zuckerberg-ai-social-feeds-q3-2025-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

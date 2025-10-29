@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn says it plans to deploy Nvidia&#39;s Isaac GR00T N model of humanoid robots at its factory in Houston, Texas, which produces AI servers for Nvidia &lpar;Wen-Yee Lee/Reuters&rpar;](http://www.techmeme.com/251028/p61#a251028p61)
+ - [Memo: California&#39;s AG says OpenAI&#39;s restructuring has &quot;no impact&quot; on other cases, likely referring to Elon Musk&#39;s lawsuit against OpenAI over its restructuring &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251028/p60#a251028p60)
  - [Sources: Francisco Partners is in talks to acquire Jamf, which provides remote device management tools, taking it private; Jamf has a market cap of ~$1.5B &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251028/p59#a251028p59)
  - [GitHub updates VS Code with Plan Mode for building step-by-step project approaches, MCP Registry integration, definable project rules via AGENTS.md, and more &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/251028/p58#a251028p58)
- - [Samsung&#39;s Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea](https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-debuts-at-apec-summit-in-south-korea/#ftag=CAD590a51e)
- - [KiiBoom Cybrix 29 review: Half a keyboard, all the utility](https://appleinsider.com/articles/25/10/29/kiiboom-cybrix-29-review-half-a-keyboard-all-the-utility?utm_source=rss)
- - [Sources: The Bot Company, co-founded by ex-Cruise CEO Kyle Vogt to make AI-powered household robots, is set to raise $250M at a $4B+ valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251028/p57#a251028p57)<!-- TECH:END -->
+ - [Samsung&#39;s Wild-Looking Tri-Fold Phone Debuts at APEC Summit in South Korea](https://www.cnet.com/tech/mobile/samsungs-wild-looking-tri-fold-phone-debuts-at-apec-summit-in-south-korea/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

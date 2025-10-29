@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Etsy appoints Chief Growth Officer Kruti Patel Goyal as its new CEO, starting January 1, 2026, replacing Josh Silverman after eight years in the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/251029/p22#a251029p22)
  - [Big Tech&#39;s EU lobbying hit €151M in 2025, up from €113M in 2023 and €97M in 2021; between January and June 2025, Big Tech had 146 meetings with EU officials &lpar;Corporate Europe Observatory&rpar;](http://www.techmeme.com/251029/p21#a251029p21)
  - [Jensen Huang says the US needs &quot;finesse&quot; to maintain its AI lead over China and Nvidia is an &quot;awkward place&quot; as President Trump meets Xi Jinping later this week &lpar;Maggie Eastland/Bloomberg&rpar;](http://www.techmeme.com/251029/p20#a251029p20)
  - [The Director of a Raunchy 3-Hour Dracula Movie Says AI Is Gross and Slimy. That’s Why He Used It](https://www.wired.com/story/the-director-of-a-raunchy-3-hour-dracula-movie-says-ai-is-gross-and-slimy-thats-why-he-used-it/)
- - [Apple’s Family Sharing Helps Keep Children Safe. Until It Doesn’t](https://www.wired.com/story/apples-family-sharing-helps-keep-children-safe-until-it-doesnt/)
- - [Say it with me: Windows is the problem with Windows handhelds](https://www.theverge.com/games/807711/xbox-ally-sleep-fail-bazzite-fix-performance)<!-- TECH:END -->
+ - [Apple’s Family Sharing Helps Keep Children Safe. Until It Doesn’t](https://www.wired.com/story/apples-family-sharing-helps-keep-children-safe-until-it-doesnt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

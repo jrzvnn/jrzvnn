@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple spent more than ever lobbying politicians in the EU in 2025](https://appleinsider.com/articles/25/10/29/apple-spent-more-than-ever-lobbying-politicians-in-the-eu-in-2025?utm_source=rss)
- - [YouTube is using AI to upscale videos uploaded at between 240p and 720p to HD on TV screens, but users can opt out, and plans 4K upscaling &quot;in the near future&quot; &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251029/p32#a251029p32)
- - [TikTok can use AI to turn your long video into short ones](https://www.theverge.com/news/808749/tiktok-smart-split-ai-outline-revenue-sharing-subscriptions)
- - [Nvidia opens at a $5T market cap, becoming the first company to hit the milestone, climbing 5% in early trading; NVDA is up 50% in 2025 and 1,275% since 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/251029/p31#a251029p31)
- - [Investigation: the US government allowed and even helped US companies sell tech used for China&#39;s surveillance across five GOP and Democratic administrations &lpar;Associated Press&rpar;](http://www.techmeme.com/251029/p30#a251029p30)<!-- TECH:END -->
+ - [Google Gemini for Home is rolling out in the US — here&amp;#8217;s how to get early access](https://www.theverge.com/news/808858/google-gemini-for-home-early-access-launch)
+ - [When an ex weaponizes Family Sharing -- and how little you can do](https://appleinsider.com/articles/25/10/29/when-an-ex-weaponizes-family-sharing----and-how-little-you-can-do?utm_source=rss)
+ - [Nothing Phone 3A Lite strips the Glyph Lights down to the bare minimum](https://www.theverge.com/news/808908/nothing-phone-3a-lite-launch-price-availability)
+ - [Amazon Echo Studio &lpar;2nd Gen&rpar; and Echo Dot Max Review: Bigger Sound, Bigger Price](https://www.wired.com/review/amazon-echo-dot-max-echo-studio-2025/)
+ - [Amazon’s Echo Studio is smaller but mightier](https://www.theverge.com/tech/808520/amazon-echo-studio-2025-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

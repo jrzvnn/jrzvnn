@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro code](http://9gag.com/gag/ayNZeKW)
- - 😝 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
- - 💣 [Elijah Wood Crashing a Wedding at Hobbiton in New Zealand](http://9gag.com/gag/aKGn7Q3)
- - 😝 [Windows 11 is what finally pushed me over to team linux](http://9gag.com/gag/a0ez71X)
+ - 😝 [No context](http://9gag.com/gag/a0ezRyX)
+ - 😝 [The realization](http://9gag.com/gag/awyPMKx)
+ - 💣 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
  - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 💣 [Based razer](http://9gag.com/gag/aW4PxLn)
- - 😝 [One movie, right](http://9gag.com/gag/apRzG15)
- - 👉 [Staaaairs](http://9gag.com/gag/awyPAXx)<!-- MEMES:END -->
+ - 😝 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
+ - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 💣 [Why boring is good](http://9gag.com/gag/aByjg0A)
+ - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
+ - 👉 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)<!-- MEMES:END -->
 
 ---
 

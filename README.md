@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why boring is good](http://9gag.com/gag/aByjg0A)
- - 😝 [Simple bowling animation](http://9gag.com/gag/aAyqepd)
- - 💣 [After a divorce and many years without a home, i finally can start again to live... Wish me luck, my fellow degenerates.](http://9gag.com/gag/awyPBBr)
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 👉 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)<!-- MEMES:END -->
+ - 😝 [American nightmare](http://9gag.com/gag/aMVDYAM)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 💣 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 😝 [Based razer](http://9gag.com/gag/aW4PxLn)
+ - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
 
 ---
 

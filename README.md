@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Earnings Release FY26 Q1 &lpar;Microsoft&rpar;](http://www.techmeme.com/251029/p46#a251029p46)
- - [Bending Spoons is buying AOL for some reason](https://www.theverge.com/news/809366/aol-bending-spoons-acquistion)
- - [Meta Reports Third Quarter 2025 Results &lpar;Meta&rpar;](http://www.techmeme.com/251029/p45#a251029p45)
- - [Alphabet reports Q3 revenue up 16% YoY to $102.35B, vs. $99.89B est., Cloud revenue up 34% to $15.16B, net income up 33% to $34.98B; GOOG jumps 5%+ after hours &lpar;Alphabet&rpar;](http://www.techmeme.com/251029/p44#a251029p44)
- - [Save $30 on This All-Clad Nonstick Frying Pan Set](https://www.wired.com/story/all-clad-nonstick-frying-pans-october-2025/)<!-- TECH:END -->
+ - [Meta recorded a one-time income tax charge of $15.93B related to Trump&#39;s Big Beautiful Bill and expects 2025 capex of $70B-$72B, up from a $66B-$72B forecast &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251029/p48#a251029p48)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)
+ - [The Microsoft Azure Outage Shows the Harsh Reality of Cloud Failures](https://www.wired.com/story/the-microsoft-azure-outage-shows-the-harsh-reality-of-cloud-failures/)
+ - [Alphabet reports YouTube&#39;s Q3 ad revenue rose 15% YoY to $10.26B, vs. $10.01B est., and Google&#39;s advertising revenue reached $74.18B, up from $65.85B a year ago &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251029/p47#a251029p47)
+ - [Microsoft reports Q1 revenue up 18% YoY to $77.7B, vs. $75.3B est., net income up 12% to $27.7B, and Azure and other cloud services revenue up 40% &lpar;Microsoft&rpar;](http://www.techmeme.com/251029/p46#a251029p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

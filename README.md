@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why is Bill Gates tone policing on climate change?](https://www.theverge.com/report/808647/bill-gates-climate-change-ai-emissions-memo)
- - [Eating Microwave Popcorn in 2025? You Can Do Better](https://www.wired.com/story/air-popped-popcorn-rave/)
- - [Apple’s Vision Pro with M5 is better than the first, but still awfully lonely](https://www.theverge.com/tech/807963/apple-vision-pro-m5-review-specs-release-date)
- - [PitchBook: Nvidia invested in 59 AI startups in 2025 so far, including 10 in the past two months, surpassing 55 investments in 2024 and 12 investments in 2022 &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251029/p23#a251029p23)
- - [Apple wants to improve everybody&#39;s AI image editors with new training dataset](https://appleinsider.com/articles/25/10/29/apple-wants-to-improve-everybodys-ai-image-editors-with-new-training-dataset?utm_source=rss)<!-- TECH:END -->
+ - [Grammarly is changing its name to Superhuman](https://www.theverge.com/news/808472/grammarly-superhuman-ai-rebrand-relaunch)
+ - [Character.AI is banning minors from AI character chats](https://www.theverge.com/ai-artificial-intelligence/808081/character-ai-under-18-chat-ban)
+ - [YouTube will let you opt out of AI upscaling on low-res videos](https://www.theverge.com/news/808717/youtube-automatic-ai-upscaling-shopping-updates)
+ - [Grokipedia hands-on: many articles clone Wikipedia, but deviate significantly on topics conflicting with Elon Musk&#39;s worldview; at times, it is overtly racist &lpar;The Verge&rpar;](http://www.techmeme.com/251029/p27#a251029p27)
+ - [KiiBoom Cybrix 29 review: Half a keyboard, all the utility](https://appleinsider.com/articles/25/10/29/kiiboom-cybrix-29-review-half-a-keyboard-all-the-utility?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

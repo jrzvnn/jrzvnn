@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
  - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 💣 [No context](http://9gag.com/gag/a0ezRyX)
- - 😝 [Noh.](http://9gag.com/gag/aGy6pZz)
- - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 👉 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)<!-- MEMES:END -->
 
 ---
 

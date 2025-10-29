@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prank](http://9gag.com/gag/aZZoLE3)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 💣 [Good quality tents](http://9gag.com/gag/aE0yxOM)
- - 😝 [Kids and pets shouldn&#39;t be your `content`](http://9gag.com/gag/a9yZnE1)
- - 👉 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)<!-- MEMES:END -->
+ - 😝 [Peace](http://9gag.com/gag/an785YV)
+ - 😝 [Here we go](http://9gag.com/gag/aLnVgnA)
+ - 💣 [Why boring is good](http://9gag.com/gag/aByjg0A)
+ - 😝 [China #1](http://9gag.com/gag/ae9yMxv)
+ - 👉 [Just two guys having a beer and a laugh](http://9gag.com/gag/agm65Z6)<!-- MEMES:END -->
 
 ---
 

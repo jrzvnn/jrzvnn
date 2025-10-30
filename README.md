@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Long Island Compromise&#39; drama looks for new home after Apple TV passes](https://appleinsider.com/articles/25/10/30/long-island-compromise-drama-looks-for-new-home-after-apple-tv-passes?utm_source=rss)
+ - [China&#39;s Commerce Ministry says it will work with the US to resolve issues related to TikTok, stopping short of saying it agreed to a deal touted by Trump &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251030/p16#a251030p16)
  - [Google, Meta, and Microsoft collectively spent nearly $80B on AI infrastructure in Q3, dividing the market on whether they can translate huge capex into income &lpar;Financial Times&rpar;](http://www.techmeme.com/251030/p15#a251030p15)
  - [Netflix, Anthropic, and others are paying researchers up to $25K to find and report flaws; HackerOne paid a record $81M in rewards in the past year, up 13% YoY &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251030/p14#a251030p14)
- - [A Fight Over Big Tech’s Emissions Has the Greenhouse Gas Protocol Caught in the Crossfire](https://www.wired.com/story/greenhouse-gas-protocol-caught-in-big-techs-friendly-fire/)
- - [Federal Workers Are Barely Making It Through the Government Shutdown](https://www.wired.com/story/federal-workers-barely-making-it-through-government-shutdown/)
- - [Scale AI and CAIS&#39; Remote Labor Index benchmark, which tests AI agents on freelance tasks, finds the best AI could perform just &lt;3% of the work, earning $1,810 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251030/p13#a251030p13)<!-- TECH:END -->
+ - [A Fight Over Big Tech’s Emissions Has the Greenhouse Gas Protocol Caught in the Crossfire](https://www.wired.com/story/greenhouse-gas-protocol-caught-in-big-techs-friendly-fire/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

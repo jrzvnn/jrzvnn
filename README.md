@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s M4 Mac mini 24GB RAM, 1TB SSD dips to $1,049](https://appleinsider.com/articles/25/10/30/deals-apples-m4-mac-mini-24gb-ram-1tb-ssd-dips-to-1049?utm_source=rss)
- - [Affinity&#39;s entire suite goes completely free on Mac with new all-in-one app](https://appleinsider.com/articles/25/10/30/affinitys-entire-suite-goes-completely-free-on-mac-with-new-all-in-one-app?utm_source=rss)
- - [Canva&amp;#8217;s new &amp;#8216;Creative Operating System&amp;#8217; is actually a marketing workspace](https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch)
- - [Every Tesla Cybertruck Recall Since the Vehicle Was Released](https://www.cnet.com/roadshow/news/every-tesla-cybertruck-recall-thats-happened-so-far/#ftag=CAD590a51e)
- - [The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24](https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale)<!-- TECH:END -->
+ - [The ICC plans to switch from Microsoft Office to Open Desk, a European open source alternative, amid concerns about public bodies&#39; reliance on US tech companies &lpar;Maximilian Henning/Euractiv&rpar;](http://www.techmeme.com/251030/p36#a251030p36)
+ - [Vivo X300 launch finally brings OriginOS to the rest of the world](https://www.theverge.com/news/810314/vivo-x300-launch-finally-brings-originos-to-the-rest-of-the-world)
+ - [Our Favorite Cordless Stick Vacuum Is Marked Down $50](https://www.wired.com/story/bissell-powerclean-furfinder-deal-1025/)
+ - [Windows 11&amp;#8217;s Vision Pro-like remote desktop is now widely available on Quest 3](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)
+ - [Deals: Apple&#39;s M4 Mac mini 24GB RAM, 1TB SSD dips to $1,049](https://appleinsider.com/articles/25/10/30/deals-apples-m4-mac-mini-24gb-ram-1tb-ssd-dips-to-1049?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Universal partners with AI startup Udio after settling copyright suit](https://www.theverge.com/news/809882/universal-music-udio-settlement)
- - [Bugonia is a galaxy brained masterpiece](https://www.theverge.com/entertainment/808993/bugonia-review)
- - [WhatsApp can now use passkeys to secure your backups](https://www.theverge.com/news/809842/whatsapp-passkey-chat-backup-encryption)
- - [Don&#39;t get too excited yet about the China tariff cut](https://appleinsider.com/articles/25/10/30/dont-get-too-excited-yet-about-the-china-tariff-cut?utm_source=rss)
- - [OpenAI&#39;s Sora app adds new features, including &quot;character cameos&quot; to create AI deepfakes of pets, illustrations, and more, clip stitching, and leaderboards &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251030/p22#a251030p22)<!-- TECH:END -->
+ - [UMG and Stability AI announce a partnership to develop music creation tools powered by &quot;responsibly&quot; trained AI &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/251030/p24#a251030p24)
+ - [Figma’s new app lets you combine multiple AI models and editing tools](https://www.theverge.com/news/809909/figma-weave-weavy-acquisition-ai-design-canvas)
+ - [If You Hated ‘A House of Dynamite,’ Watch This Classic Nuclear Thriller Instead](https://www.wired.com/story/if-you-hated-a-house-of-dynamite-watch-fail-safe-instead/)
+ - [WhatsApp launches passkey-encrypted backups for iOS and Android, letting users encrypt their stored message history using their face, fingerprint, or a code &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251030/p23#a251030p23)
+ - [14 Best Lego Gifts for Brick Builders &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-lego-lovers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

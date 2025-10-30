@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iOS 26 leaker&#39;s court filing rolls Jon Prosser under the bus](https://appleinsider.com/articles/25/10/30/apple-ios-26-leakers-court-filing-rolls-jon-prosser-under-the-bus?utm_source=rss)
- - [Apple&#39;s has record-setting Q4 $102.5B result despite very small iPhone revenue miss](https://appleinsider.com/articles/25/10/30/apples-has-record-setting-q4-1025b-result-despite-very-small-iphone-revenue-miss?utm_source=rss)
- - [Apple reports Q4 revenue up 8% YoY to $102.47B, vs. $102.24B est., net income up 86% to $27.5B, and FY 2025 revenue up 6% to $416.16B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251030/p44#a251030p44)
- - [Apple Q4: iPhone up 6% YoY to $49.03B, vs. $50.19B est., Mac up 13% to $8.73B, iPad flat at $6.95B, and Wearables, Home, and Accessories flat at $9.01B &lpar;Apple&rpar;](http://www.techmeme.com/251030/p43#a251030p43)
- - [Samsung’s AirPods Pro look-alikes have fallen to their best price in months](https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale)<!-- TECH:END -->
+ - [Cook: More partnerships coming soon to enhance Apple Intelligence](https://appleinsider.com/articles/25/10/30/cook-more-partnerships-coming-soon-to-enhance-apple-intelligence?utm_source=rss)
+ - [iPhone revenue falls short of Wall Street expectations, but it doesn&#39;t matter](https://appleinsider.com/articles/25/10/30/iphone-revenue-falls-short-of-wall-street-expectations-but-it-doesnt-matter?utm_source=rss)
+ - [Roku beats expectations with Q3 net income of $24.8M, vs. a net loss of $35.8M a year ago, and revenue of $1.21B, up 14% YoY; total streaming hours rose 12% YoY &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251030/p47#a251030p47)
+ - [Sources: Intel is in early-stage talks to acquire AI chip startup SambaNova, with a deal likely valuing SambaNova below its $5B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p46#a251030p46)
+ - [Amazon reports Q3 ad revenue up 24% YoY to $17.7B, vs. $17.3B est., and subscription services revenue up 11% YoY to $12.6B &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251030/p45#a251030p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

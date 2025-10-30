@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple reports fourth quarter results &lpar;Apple&rpar;](http://www.techmeme.com/251030/p43#a251030p43)
+ - [Netflix announces a 10-for-1 stock split, after its shares boomed over the last three years to above $1,000 a share &lpar;John Melloy/CNBC&rpar;](http://www.techmeme.com/251030/p42#a251030p42)
+ - [Reddit reports Q3 revenue up 68% YoY to $585M, vs. $546M est., and daily active uniques up 19% to 116M, vs. 114M est.; RDDT jumps 5%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251030/p41#a251030p41)
  - [Amazon reports Q3 AWS revenue up 20% YoY to $33B, vs. $32.42B est., and AWS operating income up 9.5% YoY to $11.4B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251030/p40#a251030p40)
- - [Amazon reports Q3 revenue up 13% YoY to $180.2B, a $21.2B net income vs. $15.3B in Q3 2024, and operating income flat at $17.4B; AMZN jumps 10%+ after hours &lpar;Amazon&rpar;](http://www.techmeme.com/251030/p39#a251030p39)
- - [Black Ops 6 Quad Feed Double XP Weekend Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-live-now/#ftag=CAD590a51e)
- - [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
- - [Sources: Nvidia plans to invest $500M to $1B in AI coding startup Poolside, which is in discussions to raise $2B at a $12B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p38#a251030p38)<!-- TECH:END -->
+ - [Amazon reports Q3 revenue up 13% YoY to $180.2B, a $21.2B net income vs. $15.3B in Q3 2024, and operating income flat at $17.4B; AMZN jumps 10%+ after hours &lpar;Amazon&rpar;](http://www.techmeme.com/251030/p39#a251030p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

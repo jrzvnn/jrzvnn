@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [Based razer](http://9gag.com/gag/aW4PxLn)
  - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 
 ---
 

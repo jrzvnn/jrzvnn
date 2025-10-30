@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worthless nuss](http://9gag.com/gag/azxoMrN)
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 💣 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
+ - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
+ - 👉 [A friendly reminder to all the givers out there](http://9gag.com/gag/aXPQrXP)<!-- MEMES:END -->
 
 ---
 

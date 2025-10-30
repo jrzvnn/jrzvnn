@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube now rewards your likes with fun animations](https://www.theverge.com/news/810319/youtube-like-button-animation-genre-user-interface-update)
  - [The ICC plans to switch from Microsoft Office to Open Desk, a European open source alternative, amid concerns about public bodies&#39; reliance on US tech companies &lpar;Maximilian Henning/Euractiv&rpar;](http://www.techmeme.com/251030/p36#a251030p36)
  - [Vivo X300 launch finally brings OriginOS to the rest of the world](https://www.theverge.com/news/810314/vivo-x300-launch-finally-brings-originos-to-the-rest-of-the-world)
  - [Our Favorite Cordless Stick Vacuum Is Marked Down $50](https://www.wired.com/story/bissell-powerclean-furfinder-deal-1025/)
- - [Windows 11&amp;#8217;s Vision Pro-like remote desktop is now widely available on Quest 3](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)
- - [Deals: Apple&#39;s M4 Mac mini 24GB RAM, 1TB SSD dips to $1,049](https://appleinsider.com/articles/25/10/30/deals-apples-m4-mac-mini-24gb-ram-1tb-ssd-dips-to-1049?utm_source=rss)<!-- TECH:END -->
+ - [Windows 11&amp;#8217;s Vision Pro-like remote desktop is now widely available on Quest 3](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

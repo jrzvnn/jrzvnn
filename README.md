@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 😝 [Elijah Wood Crashing a Wedding at Hobbiton in New Zealand](http://9gag.com/gag/aKGn7Q3)
+ - 😝 [Old School methods](http://9gag.com/gag/a2v9WAZ)
+ - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 😝 [That feeling of validation](http://9gag.com/gag/ayNZMQY)
+ - 👉 [When you order from Temu.](http://9gag.com/gag/azxomnm)<!-- MEMES:END -->
 
 ---
 

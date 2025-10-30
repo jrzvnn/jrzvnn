@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
  - [Sources: Nvidia plans to invest $500M to $1B in AI coding startup Poolside, which is in discussions to raise $2B at a $12B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p38#a251030p38)
  - [Cognition releases SWE-1.5, a new coding model in Windsurf, saying it partnered with Cerebras to serve SWE-1.5 at speeds up to 13x faster than Claude Sonnet 4.5 &lpar;Cognition&rpar;](http://www.techmeme.com/251030/p37#a251030p37)
  - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [iOS 26 leak co-defendant says Jon Prosser paid him $650](https://www.theverge.com/news/810656/apple-jon-prosser-lawsuit-ios-26-leaker-michael-ramacciotti-paid)
- - [iPhone Air vs. Galaxy S25 Edge: Which Thin Phone Fits You Best?](https://www.cnet.com/tech/mobile/iphone-air-vs-galaxy-s25-edge-which-thin-phone-fits-you-best/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 26 leak co-defendant says Jon Prosser paid him $650](https://www.theverge.com/news/810656/apple-jon-prosser-lawsuit-ios-26-leaker-michael-ramacciotti-paid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

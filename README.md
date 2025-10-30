@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 💣 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
- - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
+ - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 😝 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
+ - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 

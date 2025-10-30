@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI browsers are a cybersecurity time bomb](https://www.theverge.com/report/810083/ai-browser-cybersecurity-problems)
- - [Nothing&#39;s new Lock Glimpse feature on the Phone &lpar;3a&rpar; Lite shows a rotating selection of wallpapers that link to clickbait articles from a company called Vilykke &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/251030/p31#a251030p31)
- - [Threads is giving you more control over your replies](https://www.theverge.com/news/809956/threads-reply-approvals-posts-filter-people-you-follow)
- - [President Trump’s ballroom design might not be AI — but it’s still a mess](https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai)
- - [Samsung’s internet browser is headed to PC](https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch)<!-- TECH:END -->
+ - [“I Sweated So Much I Never Needed to Pee”: Life in China’s Relentless Gig Economy](https://www.wired.com/story/made-in-china-i-deliver-parcels-in-beijing-author-interview/)
+ - [Adobe&#39;s New AI Is All About Audio. How to Create Music for Your Videos with Firefly](https://www.cnet.com/tech/services-and-software/adobes-new-ai-is-all-about-audio-how-to-create-music-for-your-videos-with-firefly/#ftag=CAD590a51e)
+ - [Photoshop&#39;s New AI Assistant Can Rename All Your Layers So You Don&#39;t Have To](https://www.cnet.com/tech/services-and-software/photoshops-new-ai-assistant-can-rename-all-your-layers-so-you-dont-have-to/#ftag=CAD590a51e)
+ - [Pinterest&amp;#8217;s new AI shopping assistant helps you pick a fit](https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready)
+ - [Liam Hemsworth isn&amp;#8217;t the problem with The Witcher&amp;#8217;s fourth season](https://www.theverge.com/entertainment/810151/the-witcher-season-4-review-netflix-liam-hemsworth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 💣 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
- - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 😝 [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
  - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---

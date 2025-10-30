@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 😝 [Want to share this with you guys\u2014it might not look like much, but it&#39;s 9:45 PM, i got home from work, and my wife had prepared this for me. Deer salami that I made, cheese and butter made by dad on the alp, with bread made by my wife. 20y together and she is still wife material.](http://9gag.com/gag/aPAz30G)
+ - 😝 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
+ - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 😝 [That feeling of validation](http://9gag.com/gag/ayNZMQY)
+ - 👉 [When you order from Temu.](http://9gag.com/gag/azxomnm)<!-- MEMES:END -->
 
 ---
 

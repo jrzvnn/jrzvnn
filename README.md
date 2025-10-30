@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple adds iPhone 17 lineup to its self-repair program](https://appleinsider.com/articles/25/10/30/apple-adds-iphone-17-lineup-to-its-self-repair-program?utm_source=rss)
+ - [ICE Wants to Build a Shadow Deportation Network in Texas](https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/)
+ - [M5 iPad Pro is Apple&#39;s most repairable yet, but roadblocks remain](https://appleinsider.com/articles/25/10/30/m5-ipad-pro-is-apples-most-repairable-yet-but-roadblocks-remain?utm_source=rss)
  - [Another shuttered nuclear power plant is getting new life, thanks to Big Tech](https://www.theverge.com/news/810254/google-ai-data-center-nuclear-power-plant-restart)
- - [DJI’s Neo 2 selfie drone adds obstacle avoidance and gesture controls](https://www.theverge.com/news/810125/dji-neo-2-selfie-drone-gestures-lidar-obstacle-avoidance-gesture-control)
- - [Applied Compute, which wants to create custom AI agents trained on latent company knowledge, raised $80M from Benchmark, Sequoia, Elad Gil, and others &lpar;@appliedcompute&rpar;](http://www.techmeme.com/251030/p32#a251030p32)
- - [“I Sweated So Much I Never Needed to Pee”: Life in China’s Relentless Gig Economy](https://www.wired.com/story/made-in-china-i-deliver-parcels-in-beijing-author-interview/)
- - [Adobe&#39;s New AI Is All About Audio. How to Create Music for Your Videos with Firefly](https://www.cnet.com/tech/services-and-software/adobes-new-ai-is-all-about-audio-how-to-create-music-for-your-videos-with-firefly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DJI’s Neo 2 selfie drone adds obstacle avoidance and gesture controls](https://www.theverge.com/news/810125/dji-neo-2-selfie-drone-gestures-lidar-obstacle-avoidance-gesture-control)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

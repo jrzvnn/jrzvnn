@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
  - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
  - 💣 [Rate his pull out game](http://9gag.com/gag/ary9nq0)
- - 😝 [Dane Axe I just finished up!](http://9gag.com/gag/abAKv5b)
- - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
+ - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
+ - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 ---
 

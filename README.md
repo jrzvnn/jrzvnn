@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double standard from these dumb 304s](http://9gag.com/gag/aVv4058)
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 💣 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 😝 [This brings joy. Russian bot farm seized by Europol, 25 milion accounts = 7 oily traitors , 30 to life for each of them](http://9gag.com/gag/aND8PLA)
  - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
 
 ---

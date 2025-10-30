@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: business services giant Conduent, which was spun off from Xerox in 2017, confirms that a 2024 data breach has impacted over 10.5M people &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251030/p51#a251030p51)
- - [Apple&#39;s has record-setting Q4 $102.5B result despite very small iPhone revenue miss](https://appleinsider.com/articles/25/10/30/apples-has-record-setting-q4-1025b-result-despite-very-small-iphone-revenue-miss?utm_source=rss)
+ - [Filing: Meta plans to raise money through bond offerings worth up to $30B; the company has said its capex next year would be &quot;notably larger&quot; than in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251030/p53#a251030p53)
+ - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)
+ - [Apple expects Q1 revenue to grow 10% to 12% YoY, with iPhone sales up by double digits, and reports Q4 China revenue down 4% YoY to $14.5B, vs. $16.24B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251030/p52#a251030p52)
  - [Hits from tariffs continue, Apple to pay $1.4 billion more in 2025 holiday quarter](https://appleinsider.com/articles/25/10/30/hits-from-tariffs-continue-apple-to-pay-14-billion-more-in-2025-holiday-quarter?utm_source=rss)
- - [Tim Cook says more AIs are coming to Apple Intelligence](https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations)
- - [Coinbase reports Q3 revenue up 55% YoY to $1.9B, vs. $1.8B est., net income up 473% to $433M, and trading volume up 59% to $295B &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251030/p50#a251030p50)<!-- TECH:END -->
+ - [iPhone revenue falls short of Wall Street expectations, but it doesn&#39;t matter](https://appleinsider.com/articles/25/10/30/iphone-revenue-falls-short-of-wall-street-expectations-but-it-doesnt-matter?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

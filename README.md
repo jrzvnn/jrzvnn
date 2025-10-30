@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Want to share this with you guys\u2014it might not look like much, but it&#39;s 9:45 PM, i got home from work, and my wife had prepared this for me. Deer salami that I made, cheese and butter made by dad on the alp, with bread made by my wife. 20y together and she is still wife material.](http://9gag.com/gag/aPAz30G)
- - 😝 [The northern lights tonight from my front door in North Pole, Alaska](http://9gag.com/gag/aPAz72B)
- - 💣 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 😝 [That feeling of validation](http://9gag.com/gag/ayNZMQY)
- - 👉 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)<!-- MEMES:END -->
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 💣 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
 
 ---
 

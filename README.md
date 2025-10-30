@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
  - [Bengaluru-based Snabbit, which offers a range of on-demand home services, raised a $30M Series C at a $180M valuation, taking its total funding to $55M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251030/p2#a251030p2)
  - [Life sciences group Thermo Fisher agrees to acquire PE-owned drug trial software maker Clario for $9.4B in an all-cash deal expected to close by mid-2026 &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/251030/p1#a251030p1)
  - [How to use Reduce Interruptions on iOS 26 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
- - [Google updates Play Store policy in the US to let developers link to external app stores and payment options, following the Epic v. Google injunction &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251029/p65#a251029p65)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google updates Play Store policy in the US to let developers link to external app stores and payment options, following the Epic v. Google injunction &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251029/p65#a251029p65)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

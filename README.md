@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twilio reports Q3 revenue up 15% YoY to $1.3B vs. $1.25B est., forecasts Q4 sales above est., agrees to buy identity platform Stytch; TWLO jumps 8%+ after hours &lpar;Chris Ciaccia/Seeking Alpha&rpar;](http://www.techmeme.com/251030/p57#a251030p57)
  - [OpenAI starts to sell extra credits for Sora, which currently has a limit of 30 free gens per day; 10 video gens will retail for $4 through Apple&#39;s App Store &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/251030/p56#a251030p56)
  - [Amazon reports a $9.5B pre-tax gain from its investment in Anthropic, which was included in the company&#39;s non-operating income for Q3 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251030/p55#a251030p55)
  - [Here are all the records Apple said it broke in Q4 2025 on the earnings call](https://appleinsider.com/articles/25/10/30/here-are-all-the-records-apple-said-broke-in-q4-2025-on-the-earnings-call?utm_source=rss)
- - [Giant Home Depot Skeletons Are on Crazy Sale Right Now &lpar;2025&rpar;](https://www.wired.com/story/home-depot-halloween-sale-2025/)
- - [Amazon reports Q3 AWS revenue up 20% YoY to $33B, vs. $32.42B est., and AWS operating income up 9.5% YoY to $11.4B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251030/p54#a251030p54)<!-- TECH:END -->
+ - [Giant Home Depot Skeletons Are on Crazy Sale Right Now &lpar;2025&rpar;](https://www.wired.com/story/home-depot-halloween-sale-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

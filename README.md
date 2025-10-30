@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 😝 [The realization](http://9gag.com/gag/awyPMKx)
  - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
  - 💣 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 😝 [JKR, the British National Treasure](http://9gag.com/gag/avy4QPW)
+ - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
  - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 ---

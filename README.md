@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 💣 [What a horrible time to become aware of your mortality.](http://9gag.com/gag/aqyBGOM)
- - 😝 [JKR, the British National Treasure](http://9gag.com/gag/avy4QPW)
- - 👉 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)<!-- MEMES:END -->
+ - 😝 [What a horrible time to become aware of your mortality.](http://9gag.com/gag/aqyBGOM)
+ - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 💣 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 😝 [Giant sandwich in usa](http://9gag.com/gag/aLnVpE5)
+ - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US Commerce Department proposed banning TP-Link Systems&#39; networking devices due to TP-Link&#39;s China ties, gaining support from 6+ federal agencies &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/251030/p18#a251030p18)
  - [Trump says US will restart nuclear weapons testing](https://www.theverge.com/news/809845/trump-us-restart-nuclear-weapons-tests)
  - [Swedish startup Legora, whose AI tools help legal teams research and more, raised a $150M Series C at a $1.8B valuation, up from $675M in May after raising $80M &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/251030/p17#a251030p17)
  - [Inside the Star-Studded, Mob-Run Poker Games That Allegedly Steal Millions From Players](https://www.wired.com/story/inside-the-billups-games-mob-rigged-star-studded-poker-games-that-cheat-players-out-of-millions/)
- - [&#39;Long Island Compromise&#39; drama looks for new home after Apple TV passes](https://appleinsider.com/articles/25/10/30/long-island-compromise-drama-looks-for-new-home-after-apple-tv-passes?utm_source=rss)
- - [Chevy&#39;s New Bolt EV Is a Truly Affordable Electric Car, at Less Than $30,000](https://www.cnet.com/roadshow/news/chevys-new-bolt-ev-is-a-truly-affordable-electric-car-at-less-than-30000/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Long Island Compromise&#39; drama looks for new home after Apple TV passes](https://appleinsider.com/articles/25/10/30/long-island-compromise-drama-looks-for-new-home-after-apple-tv-passes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

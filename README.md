@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 💣 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
  - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 

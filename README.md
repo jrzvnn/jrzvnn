@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are all the records Apple said it broke in Q4 2025 on the earnings call](https://appleinsider.com/articles/25/10/30/here-are-all-the-records-apple-said-broke-in-q4-2025-on-the-earnings-call?utm_source=rss)
+ - [Giant Home Depot Skeletons Are on Crazy Sale Right Now &lpar;2025&rpar;](https://www.wired.com/story/home-depot-halloween-sale-2025/)
  - [Amazon reports Q3 AWS revenue up 20% YoY to $33B, vs. $32.42B est., and AWS operating income up 9.5% YoY to $11.4B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251030/p54#a251030p54)
  - [Live-Action &#39;Call of Duty&#39; Movie Reportedly Being Co-Written by Taylor Sheridan](https://www.cnet.com/culture/entertainment/live-action-call-of-duty-movie-reportedly-being-co-written-by-taylor-sheridan/#ftag=CAD590a51e)
- - [Digital Rights Group Tells Amazon Ring Owners to Turn Off Cameras This Halloween](https://www.cnet.com/home/security/digital-rights-group-tells-amazon-ring-owners-to-turn-off-cameras-this-halloween/#ftag=CAD590a51e)
- - [Apple is probably done releasing Macs in 2025](https://appleinsider.com/articles/25/10/30/apple-is-probably-done-releasing-macs-in-2025?utm_source=rss)
- - [I Played Google&#39;s New Pac-Man Halloween Doodle: It&#39;s a Totally Tubular &#39;80s Throwback](https://www.cnet.com/tech/gaming/i-played-googles-new-pac-man-halloween-doodle-its-a-totally-tubular-80s-throwback/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Digital Rights Group Tells Amazon Ring Owners to Turn Off Cameras This Halloween](https://www.cnet.com/home/security/digital-rights-group-tells-amazon-ring-owners-to-turn-off-cameras-this-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

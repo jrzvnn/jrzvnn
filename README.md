@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24](https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale)
+ - [Canva launches a foundational design model that generates editable layered designs, expands Canva AI, makes Affinity free for all users, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251030/p35#a251030p35)
+ - [Amazon has reportedly canceled its LOTR MMO](https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs)
  - [Affinity&#39;s entire suite goes completely free on Mac with new all-in-one app](https://appleinsider.com/articles/25/10/30/affinitys-entire-suite-goes-completely-free-on-mac-with-new-all-in-one-app?utm_source=rss)
- - [OpenAI launches Aardvark, a GPT-5-powered autonomous cybersecurity research agent that can identify and help patch vulnerabilities, in private beta &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251030/p34#a251030p34)
- - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
- - [8 Best Gaming Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
- - [Sources: Meta has received record orders of about $125B for a corporate bond sale expected to be at least $25B in size &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p33#a251030p33)<!-- TECH:END -->
+ - [OpenAI launches Aardvark, a GPT-5-powered autonomous cybersecurity research agent that can identify and help patch vulnerabilities, in private beta &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251030/p34#a251030p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

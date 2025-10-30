@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 💣 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
  - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 ---

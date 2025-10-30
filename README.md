@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Meta says it is no longer facing a CFPB investigation over advertising for financial services on its platforms &lpar;Evan Weinberger/Bloomberg Law&rpar;](http://www.techmeme.com/251030/p49#a251030p49)
- - [Apple Intelligence-enhanced Siri is on track for a 2026 debut](https://appleinsider.com/articles/25/10/30/apple-intelligence-enhanced-siri-is-on-track-for-a-2026-debut?utm_source=rss)
- - [Apple reports Q4 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 15% YoY to $28.75B, vs. $28.17B est. &lpar;Loree Seitz/The Wrap&rpar;](http://www.techmeme.com/251030/p48#a251030p48)
- - [Cook: More partnerships coming soon to enhance Apple Intelligence](https://appleinsider.com/articles/25/10/30/cook-more-partnerships-coming-soon-to-enhance-apple-intelligence?utm_source=rss)
- - [iPhone revenue falls short of Wall Street expectations, but it doesn&#39;t matter](https://appleinsider.com/articles/25/10/30/iphone-revenue-falls-short-of-wall-street-expectations-but-it-doesnt-matter?utm_source=rss)<!-- TECH:END -->
+ - [Hits from tariffs continue, Apple to pay $1.4 billion more in 2025 holiday quarter](https://appleinsider.com/articles/25/10/30/hits-from-tariffs-continue-apple-to-pay-14-billion-more-in-2025-holiday-quarter?utm_source=rss)
+ - [Apple&#39;s has record-setting Q4 $102.5B result despite very small iPhone revenue miss](https://appleinsider.com/articles/25/10/30/apples-has-record-setting-q4-1025b-result-despite-very-small-iphone-revenue-miss?utm_source=rss)
+ - [Tim Cook says more AIs are coming to Apple Intelligence](https://www.theverge.com/news/810735/tim-cook-ai-apple-intelligence-integrations)
+ - [Coinbase reports Q3 revenue up 55% YoY to $1.9B, vs. $1.8B est., net income up 473% to $433M, and trading volume up 59% to $295B &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251030/p50#a251030p50)
+ - [WIRED Roundup: AI Psychosis, Missing FTC Files, and Google Bedbugs](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-ai-psychosis-ftc-files-google-bedbugs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

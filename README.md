@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Want to share this with you guys\u2014it might not look like much, but it&#39;s 9:45 PM, i got home from work, and my wife had prepared this for me. Deer salami that I made, cheese and butter made by dad on the alp, with bread made by my wife. 20y together and she is still wife material.](http://9gag.com/gag/aPAz30G)
- - 😝 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
- - 💣 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 😝 [That feeling of validation](http://9gag.com/gag/ayNZMQY)
- - 👉 [When you order from Temu.](http://9gag.com/gag/azxomnm)<!-- MEMES:END -->
+ - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
+ - 😝 [A friendly reminder to all the givers out there](http://9gag.com/gag/aXPQrXP)
+ - 👉 [Rich people problems](http://9gag.com/gag/avy4znd)<!-- MEMES:END -->
 
 ---
 

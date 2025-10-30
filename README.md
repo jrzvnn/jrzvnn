@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No context](http://9gag.com/gag/a0ezRyX)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 💣 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
- - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
+ - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The northern lights tonight from my front door in North Pole, Alaska](http://9gag.com/gag/aPAz72B)
- - 😝 [Not hiding it, just nobody cares](http://9gag.com/gag/aND8PWb)
- - 💣 [That feeling of validation](http://9gag.com/gag/ayNZMQY)
- - 😝 [This brings joy. Russian bot farm seized by Europol, 25 milion accounts = 7 oily traitors , 30 to life for each of them](http://9gag.com/gag/aND8PLA)
- - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 💣 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 👉 [One Crash. Three Postures.](http://9gag.com/gag/aLnVwgv)<!-- MEMES:END -->
 
 ---
 

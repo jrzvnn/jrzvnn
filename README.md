@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
+ - 😝 [I&#39;m homesick for a place that no longer exists.](http://9gag.com/gag/amoK5e2)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
+ - 😝 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---
 

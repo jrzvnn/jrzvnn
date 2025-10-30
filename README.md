@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24](https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale)
- - [Canva launches a foundational design model that generates editable layered designs, expands Canva AI, makes Affinity free for all users, and more &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251030/p35#a251030p35)
- - [Amazon has reportedly canceled its LOTR MMO](https://www.theverge.com/news/810383/amazon-lotr-mmo-embracer-canceled-layoffs)
+ - [Deals: Apple&#39;s M4 Mac mini 24GB RAM, 1TB SSD dips to $1,049](https://appleinsider.com/articles/25/10/30/deals-apples-m4-mac-mini-24gb-ram-1tb-ssd-dips-to-1049?utm_source=rss)
  - [Affinity&#39;s entire suite goes completely free on Mac with new all-in-one app](https://appleinsider.com/articles/25/10/30/affinitys-entire-suite-goes-completely-free-on-mac-with-new-all-in-one-app?utm_source=rss)
- - [OpenAI launches Aardvark, a GPT-5-powered autonomous cybersecurity research agent that can identify and help patch vulnerabilities, in private beta &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251030/p34#a251030p34)<!-- TECH:END -->
+ - [Canva&amp;#8217;s new &amp;#8216;Creative Operating System&amp;#8217; is actually a marketing workspace](https://www.theverge.com/news/810414/canva-creative-operating-system-ai-launch)
+ - [Every Tesla Cybertruck Recall Since the Vehicle Was Released](https://www.cnet.com/roadshow/news/every-tesla-cybertruck-recall-thats-happened-so-far/#ftag=CAD590a51e)
+ - [The discounted SwitchBot Bot can add smarts to your monitor and coffee maker for just $24](https://www.theverge.com/tech/810358/switchbot-bot-smart-home-amazon-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

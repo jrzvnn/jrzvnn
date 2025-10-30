@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [This brings joy. Russian bot farm seized by Europol, 25 milion accounts = 7 oily traitors , 30 to life for each of them](http://9gag.com/gag/aND8PLA)
- - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
+ - 😝 [Want to share this with you guys\u2014it might not look like much, but it&#39;s 9:45 PM, i got home from work, and my wife had prepared this for me. Deer salami that I made, cheese and butter made by dad on the alp, with bread made by my wife. 20y together and she is still wife material.](http://9gag.com/gag/aPAz30G)
+ - 😝 [The northern lights tonight from my front door in North Pole, Alaska](http://9gag.com/gag/aPAz72B)
+ - 💣 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [That feeling of validation](http://9gag.com/gag/ayNZMQY)
+ - 👉 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir sues two ex-employees now working at Percepta, an &quot;AI transformation company&quot; launched by General Catalyst, and alleges deception and stolen documents &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251030/p29#a251030p29)
- - [A New Startup Wants to Edit Human Embryos](https://www.wired.com/story/startup-edit-human-embryos-manhattan-genomics-cathy-tie/)
- - [Logitech’s wireless vertical mouse has never been cheaper at $50](https://www.theverge.com/tech/809926/logitech-lift-webcams-desktop-speakers-nanoleaf-deal-sale)
- - [Core Scientific shareholders vote to reject a $9B takeover bid by CoreWeave that proxy advisers said undervalued the data center company &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251030/p28#a251030p28)
- - [Milan-based Bending Spoons, which buys and seeks to revitalize tech brands like AOL, raised $710M led by T. Rowe Price at an $11B pre-money valuation &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251030/p27#a251030p27)<!-- TECH:END -->
+ - [Samsung’s internet browser is headed to PC](https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch)
+ - [Extropic, which says its chips using probabilistic bits can be 10,000x more energy efficient than current AI chips, shares its first chip with some AI labs &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251030/p30#a251030p30)
+ - [Inside YouTube&amp;#8217;s transformation on your TV](https://www.theverge.com/column/809883/inside-youtubes-transformation-on-your-tv)
+ - [Don&#39;t get too excited about the China tariff cut yet](https://appleinsider.com/articles/25/10/30/dont-get-too-excited-yet-about-the-china-tariff-cut?utm_source=rss)
+ - [Palantir sues two ex-employees now working at Percepta, an &quot;AI transformation company&quot; launched by General Catalyst, and alleges deception and stolen documents &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251030/p29#a251030p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

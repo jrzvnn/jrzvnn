@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alphabet passed $100B in quarterly revenue for the first time, in Q3; Sundar Pichai says &quot;AI Overviews drive meaningful query growth&quot; and AI Mode has 75M DAUs &lpar;Kendra Barnett/Adweek&rpar;](http://www.techmeme.com/251030/p21#a251030p21)
+ - [Roblox reports Q3 revenue up 48% YoY to $1.36B, DAUs up 70% YoY to 151.5M, above 132.3M est., and bookings up 70% YoY to $1.9B, above $1.7B est. &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/251030/p20#a251030p20)
+ - [8 Best Password Managers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-password-managers/)
  - [After Trump and Xi&#39;s meeting, China says it will suspend its rare earth export controls issued on October 9 for one year, but says nothing about earlier limits &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251030/p19#a251030p19)
- - [Creative Stage Pro Review: A Great Soundbar for Small Spaces](https://www.wired.com/review/creative-stage-pro/)
- - [Sources: the US Commerce Department proposed banning TP-Link Systems&#39; networking devices due to TP-Link&#39;s China ties, gaining support from 6+ federal agencies &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/251030/p18#a251030p18)
- - [Trump says US will restart nuclear weapons testing](https://www.theverge.com/news/809845/trump-us-restart-nuclear-weapons-tests)
- - [Swedish startup Legora, whose AI tools help legal teams research and more, raised a $150M Series C at a $1.8B valuation, up from $675M in May after raising $80M &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/251030/p17#a251030p17)<!-- TECH:END -->
+ - [Creative Stage Pro Review: A Great Soundbar for Small Spaces](https://www.wired.com/review/creative-stage-pro/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds iPhone 17 lineup to its self-repair program](https://appleinsider.com/articles/25/10/30/apple-adds-iphone-17-lineup-to-its-self-repair-program?utm_source=rss)
- - [ICE Wants to Build a Shadow Deportation Network in Texas](https://www.wired.com/story/ice-is-building-a-24-7-shadow-transportation-network-across-texas/)
- - [M5 iPad Pro is Apple&#39;s most repairable yet, but roadblocks remain](https://appleinsider.com/articles/25/10/30/m5-ipad-pro-is-apples-most-repairable-yet-but-roadblocks-remain?utm_source=rss)
- - [Another shuttered nuclear power plant is getting new life, thanks to Big Tech](https://www.theverge.com/news/810254/google-ai-data-center-nuclear-power-plant-restart)
- - [DJI’s Neo 2 selfie drone adds obstacle avoidance and gesture controls](https://www.theverge.com/news/810125/dji-neo-2-selfie-drone-gestures-lidar-obstacle-avoidance-gesture-control)<!-- TECH:END -->
+ - [Affinity&#39;s entire suite goes completely free on Mac with new all-in-one app](https://appleinsider.com/articles/25/10/30/affinitys-entire-suite-goes-completely-free-on-mac-with-new-all-in-one-app?utm_source=rss)
+ - [OpenAI launches Aardvark, a GPT-5-powered autonomous cybersecurity research agent that can identify and help patch vulnerabilities, in private beta &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251030/p34#a251030p34)
+ - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
+ - [8 Best Gaming Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-gaming-laptops/)
+ - [Sources: Meta has received record orders of about $125B for a corporate bond sale expected to be at least $25B in size &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p33#a251030p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

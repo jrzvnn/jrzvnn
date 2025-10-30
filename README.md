@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
  - 😝 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
  - 💣 [Say again, bro](http://9gag.com/gag/aXPQoWP)
- - 😝 [JKR, the British National Treasure](http://9gag.com/gag/avy4QPW)
- - 👉 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)<!-- MEMES:END -->
+ - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
+ - 👉 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)<!-- MEMES:END -->
 
 ---
 

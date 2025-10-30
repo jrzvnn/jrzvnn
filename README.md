@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KitchenAid Promo Code: 25% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Sources detail how Binance boosted the Trump family&#39;s World Liberty Financial by facilitating a $2B purchase of USD1 and building its tech ahead of CZ&#39;s pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251030/p3#a251030p3)
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
  - [Newegg Promo Code: 10% Off in November 2025](https://www.wired.com/story/newegg-promo-code/)
- - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)
- - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
- - [Bengaluru-based Snabbit, which offers a range of on-demand home services, raised a $30M Series C at a $180M valuation, taking its total funding to $55M &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251030/p2#a251030p2)<!-- TECH:END -->
+ - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

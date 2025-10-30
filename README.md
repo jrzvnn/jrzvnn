@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 💣 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
- - 😝 [Useless facts.](http://9gag.com/gag/aO8AQ7D)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 💣 [Dumb and Dumber on LEGO Ideas - So you&#39;re telling me there&#39;s a chance...](https://www.reddit.com/r/funny/comments/1ok2ty8/dumb_and_dumber_on_lego_ideas_so_youre_telling_me/)
+ - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 👉 [Useless facts.](http://9gag.com/gag/aO8AQ7D)<!-- MEMES:END -->
 
 ---
 

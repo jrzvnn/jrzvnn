@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Threads is giving you more control over your replies](https://www.theverge.com/news/809956/threads-reply-approvals-posts-filter-people-you-follow)
+ - [President Trump’s ballroom design might not be AI — but it’s still a mess](https://www.theverge.com/policy/809914/trump-white-house-ballroom-3d-model-ai)
  - [Samsung’s internet browser is headed to PC](https://www.theverge.com/news/810034/samsung-internet-browser-windows-pc-launch)
  - [Extropic, which says its chips using probabilistic bits can be 10,000x more energy efficient than current AI chips, shares its first chip with some AI labs &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251030/p30#a251030p30)
- - [Inside YouTube&amp;#8217;s transformation on your TV](https://www.theverge.com/column/809883/inside-youtubes-transformation-on-your-tv)
- - [Don&#39;t get too excited about the China tariff cut yet](https://appleinsider.com/articles/25/10/30/dont-get-too-excited-yet-about-the-china-tariff-cut?utm_source=rss)
- - [Palantir sues two ex-employees now working at Percepta, an &quot;AI transformation company&quot; launched by General Catalyst, and alleges deception and stolen documents &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251030/p29#a251030p29)<!-- TECH:END -->
+ - [Inside YouTube&amp;#8217;s transformation on your TV](https://www.theverge.com/column/809883/inside-youtubes-transformation-on-your-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

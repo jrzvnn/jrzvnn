@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SEC filing: Meta says it is no longer facing a CFPB investigation over advertising for financial services on its platforms &lpar;Evan Weinberger/Bloomberg Law&rpar;](http://www.techmeme.com/251030/p49#a251030p49)
+ - [Apple Intelligence-enhanced Siri is on track for a 2026 debut](https://appleinsider.com/articles/25/10/30/apple-intelligence-enhanced-siri-is-on-track-for-a-2026-debut?utm_source=rss)
+ - [Apple reports Q4 revenue from Services, which includes the App Store, Apple Pay, Apple TV, Apple Music, and iCloud, up 15% YoY to $28.75B, vs. $28.17B est. &lpar;Loree Seitz/The Wrap&rpar;](http://www.techmeme.com/251030/p48#a251030p48)
  - [Cook: More partnerships coming soon to enhance Apple Intelligence](https://appleinsider.com/articles/25/10/30/cook-more-partnerships-coming-soon-to-enhance-apple-intelligence?utm_source=rss)
- - [iPhone revenue falls short of Wall Street expectations, but it doesn&#39;t matter](https://appleinsider.com/articles/25/10/30/iphone-revenue-falls-short-of-wall-street-expectations-but-it-doesnt-matter?utm_source=rss)
- - [Roku beats expectations with Q3 net income of $24.8M, vs. a net loss of $35.8M a year ago, and revenue of $1.21B, up 14% YoY; total streaming hours rose 12% YoY &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251030/p47#a251030p47)
- - [Sources: Intel is in early-stage talks to acquire AI chip startup SambaNova, with a deal likely valuing SambaNova below its $5B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p46#a251030p46)
- - [Amazon reports Q3 ad revenue up 24% YoY to $17.7B, vs. $17.3B est., and subscription services revenue up 11% YoY to $12.6B &lpar;Lucas Manfredi/The Wrap&rpar;](http://www.techmeme.com/251030/p45#a251030p45)<!-- TECH:END -->
+ - [iPhone revenue falls short of Wall Street expectations, but it doesn&#39;t matter](https://appleinsider.com/articles/25/10/30/iphone-revenue-falls-short-of-wall-street-expectations-but-it-doesnt-matter?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

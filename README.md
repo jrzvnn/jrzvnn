@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January](https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january)
+ - [5 Best Smart Christmas Lights of 2025: From Twinkly to Govee](https://www.wired.com/gallery/best-smart-christmas-lights/)
+ - [How Silicon Valley enshittified the internet](https://www.theverge.com/podcast/809081/enshittification-cory-doctorow-platforms-ai-monopoly-big-tech-interview)
  - [Q&amp;A with Palantir CTO Shyam Sankar on surveillance, AI, the future of war, data, privacy, the US military, ImmigrationOS, the DHS, ICE, the UK&#39;s IDs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p25#a251030p25)
- - [No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/)
- - [UMG and Stability AI announce a partnership to develop music creation tools powered by &quot;responsibly&quot; trained AI &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/251030/p24#a251030p24)
- - [Figma’s new app lets you combine multiple AI models and editing tools](https://www.theverge.com/news/809909/figma-weave-weavy-acquisition-ai-design-canvas)
- - [If You Hated ‘A House of Dynamite,’ Watch This Classic Nuclear Thriller Instead](https://www.wired.com/story/if-you-hated-a-house-of-dynamite-watch-fail-safe-instead/)<!-- TECH:END -->
+ - [No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

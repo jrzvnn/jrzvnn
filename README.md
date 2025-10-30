@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
+ - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
 
 ---
 

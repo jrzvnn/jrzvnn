@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Palantir CTO Shyam Sankar on surveillance, AI, the future of war, data, privacy, the US military, ImmigrationOS, the DHS, ICE, the UK&#39;s IDs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p25#a251030p25)
  - [No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/)
  - [UMG and Stability AI announce a partnership to develop music creation tools powered by &quot;responsibly&quot; trained AI &lpar;Marc Schneider/Billboard&rpar;](http://www.techmeme.com/251030/p24#a251030p24)
  - [Figma’s new app lets you combine multiple AI models and editing tools](https://www.theverge.com/news/809909/figma-weave-weavy-acquisition-ai-design-canvas)
- - [If You Hated ‘A House of Dynamite,’ Watch This Classic Nuclear Thriller Instead](https://www.wired.com/story/if-you-hated-a-house-of-dynamite-watch-fail-safe-instead/)
- - [WhatsApp launches passkey-encrypted backups for iOS and Android, letting users encrypt their stored message history using their face, fingerprint, or a code &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251030/p23#a251030p23)<!-- TECH:END -->
+ - [If You Hated ‘A House of Dynamite,’ Watch This Classic Nuclear Thriller Instead](https://www.wired.com/story/if-you-hated-a-house-of-dynamite-watch-fail-safe-instead/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

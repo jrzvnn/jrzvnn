@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Meta plans to raise money through bond offerings worth up to $30B; the company has said its capex next year would be &quot;notably larger&quot; than in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251030/p53#a251030p53)
+ - [Apple is probably done releasing Macs in 2025](https://appleinsider.com/articles/25/10/30/apple-is-probably-done-releasing-macs-in-2025?utm_source=rss)
  - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)
- - [Apple expects Q1 revenue to grow 10% to 12% YoY, with iPhone sales up by double digits, and reports Q4 China revenue down 4% YoY to $14.5B, vs. $16.24B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251030/p52#a251030p52)
- - [Hits from tariffs continue, Apple to pay $1.4 billion more in 2025 holiday quarter](https://appleinsider.com/articles/25/10/30/hits-from-tariffs-continue-apple-to-pay-14-billion-more-in-2025-holiday-quarter?utm_source=rss)
- - [iPhone revenue falls short of Wall Street expectations, but it doesn&#39;t matter](https://appleinsider.com/articles/25/10/30/iphone-revenue-falls-short-of-wall-street-expectations-but-it-doesnt-matter?utm_source=rss)<!-- TECH:END -->
+ - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
+ - [Filing: Meta plans to raise money through bond offerings worth up to $30B; the company has said its capex next year would be &quot;notably larger&quot; than in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251030/p53#a251030p53)
+ - [Apple expects Q1 revenue to grow 10% to 12% YoY, with iPhone sales up by double digits, and reports Q4 China revenue down 4% YoY to $14.5B, vs. $16.24B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251030/p52#a251030p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

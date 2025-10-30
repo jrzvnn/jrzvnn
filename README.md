@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Another shuttered nuclear power plant is getting new life, thanks to Big Tech](https://www.theverge.com/news/810254/google-ai-data-center-nuclear-power-plant-restart)
+ - [DJI’s Neo 2 selfie drone adds obstacle avoidance and gesture controls](https://www.theverge.com/news/810125/dji-neo-2-selfie-drone-gestures-lidar-obstacle-avoidance-gesture-control)
+ - [Applied Compute, which wants to create custom AI agents trained on latent company knowledge, raised $80M from Benchmark, Sequoia, Elad Gil, and others &lpar;@appliedcompute&rpar;](http://www.techmeme.com/251030/p32#a251030p32)
  - [“I Sweated So Much I Never Needed to Pee”: Life in China’s Relentless Gig Economy](https://www.wired.com/story/made-in-china-i-deliver-parcels-in-beijing-author-interview/)
- - [Adobe&#39;s New AI Is All About Audio. How to Create Music for Your Videos with Firefly](https://www.cnet.com/tech/services-and-software/adobes-new-ai-is-all-about-audio-how-to-create-music-for-your-videos-with-firefly/#ftag=CAD590a51e)
- - [Photoshop&#39;s New AI Assistant Can Rename All Your Layers So You Don&#39;t Have To](https://www.cnet.com/tech/services-and-software/photoshops-new-ai-assistant-can-rename-all-your-layers-so-you-dont-have-to/#ftag=CAD590a51e)
- - [Pinterest&amp;#8217;s new AI shopping assistant helps you pick a fit](https://www.theverge.com/ai-artificial-intelligence/809326/pinterest-ai-shopping-assistant-ceo-ready)
- - [Liam Hemsworth isn&amp;#8217;t the problem with The Witcher&amp;#8217;s fourth season](https://www.theverge.com/entertainment/810151/the-witcher-season-4-review-netflix-liam-hemsworth)<!-- TECH:END -->
+ - [Adobe&#39;s New AI Is All About Audio. How to Create Music for Your Videos with Firefly](https://www.cnet.com/tech/services-and-software/adobes-new-ai-is-all-about-audio-how-to-create-music-for-your-videos-with-firefly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

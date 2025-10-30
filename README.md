@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Logitech CEO Hanneke Faber on software-enabled hardware, prioritizing design, launching about 40 new products each year, AI, tariffs, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251030/p5#a251030p5)
- - [These JetBoots Made Me Feel Like I Was Going to Blast Off. Here&#39;s What They Did to My Legs](https://www.cnet.com/health/these-jetboots-made-me-feel-like-i-was-going-to-blast-off-heres-what-they-did-to-my-legs/#ftag=CAD590a51e)
- - [Wellness Influencers Are Good at Winning Your Trust. That May Not Be the Best Medicine](https://www.cnet.com/health/features/wellness-influencers-good-winning-your-trust-may-not-be-best-medicine/#ftag=CAD590a51e)
- - [GitHub says TypeScript passed Python and JavaScript in August to become the most used language among its 180M+ developers; India added 5.2M developers in 2025 &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/251030/p4#a251030p4)
- - [KitchenAid Promo Code: 25% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)<!-- TECH:END -->
+ - [Corporate travel and expense management software maker Navan and its shareholders raised $923.1M in a US IPO priced at $25/share, giving it a $6.2B market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251030/p7#a251030p7)
+ - [LatAm e-commerce giant MercadoLibre reports Q3 revenue up 39% YoY to $7.4B, vs. $7.2B est., a $421M net income, vs. $489M est., and 77M unique buyers, up 26% &lpar;Maria Clara Cobo/Bloomberg&rpar;](http://www.techmeme.com/251030/p6#a251030p6)
+ - [Hands on with Ursa, a new keycap option for Topre keyboards](https://www.theverge.com/tech/809659/ursa-topre-keycap-hands-on-extras-sale)
+ - [Lost your Meta Neural Band? A new one will cost $199](https://www.theverge.com/news/809805/meta-ray-ban-display-neural-band-wristband-replacement-cost)
+ - [Q&amp;A with Logitech CEO Hanneke Faber on software-enabled hardware, prioritizing design, launching about 40 new products each year, AI, tariffs, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251030/p5#a251030p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Milan-based Bending Spoons, which buys and seeks to revitalize tech brands like AOL, raised $710M led by T. Rowe Price at an $11B pre-money valuation &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251030/p27#a251030p27)
+ - [Google partners with Reliance to offer free AI Pro access to Jio 5G users in India for 18 months; Perplexity has a similar deal with Bharti Airtel &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251030/p26#a251030p26)
+ - [NASA&#39;s Quiet Supersonic Jet Takes Flight](https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/)
  - [Animal Crossing: New Horizons is getting a big Switch 2 upgrade in January](https://www.theverge.com/news/809975/animal-crossing-new-horizons-is-getting-a-big-switch-2-upgrade-in-january)
- - [5 Best Smart Christmas Lights of 2025: From Twinkly to Govee](https://www.wired.com/gallery/best-smart-christmas-lights/)
- - [How Silicon Valley enshittified the internet](https://www.theverge.com/podcast/809081/enshittification-cory-doctorow-platforms-ai-monopoly-big-tech-interview)
- - [Q&amp;A with Palantir CTO Shyam Sankar on surveillance, AI, the future of war, data, privacy, the US military, ImmigrationOS, the DHS, ICE, the UK&#39;s IDs, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p25#a251030p25)
- - [No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/)<!-- TECH:END -->
+ - [5 Best Smart Christmas Lights of 2025: From Twinkly to Govee](https://www.wired.com/gallery/best-smart-christmas-lights/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

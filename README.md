@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says US will restart nuclear weapons testing](https://www.theverge.com/news/809845/trump-us-restart-nuclear-weapons-tests)
+ - [Swedish startup Legora, whose AI tools help legal teams research and more, raised a $150M Series C at a $1.8B valuation, up from $675M in May after raising $80M &lpar;Supantha Mukherjee/Reuters&rpar;](http://www.techmeme.com/251030/p17#a251030p17)
+ - [Inside the Star-Studded, Mob-Run Poker Games That Allegedly Steal Millions From Players](https://www.wired.com/story/inside-the-billups-games-mob-rigged-star-studded-poker-games-that-cheat-players-out-of-millions/)
  - [&#39;Long Island Compromise&#39; drama looks for new home after Apple TV passes](https://appleinsider.com/articles/25/10/30/long-island-compromise-drama-looks-for-new-home-after-apple-tv-passes?utm_source=rss)
- - [China&#39;s Commerce Ministry says it will work with the US to resolve issues related to TikTok, stopping short of saying it agreed to a deal touted by Trump &lpar;Mark Anderson/Bloomberg&rpar;](http://www.techmeme.com/251030/p16#a251030p16)
- - [Google, Meta, and Microsoft collectively spent nearly $80B on AI infrastructure in Q3, dividing the market on whether they can translate huge capex into income &lpar;Financial Times&rpar;](http://www.techmeme.com/251030/p15#a251030p15)
- - [Netflix, Anthropic, and others are paying researchers up to $25K to find and report flaws; HackerOne paid a record $81M in rewards in the past year, up 13% YoY &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251030/p14#a251030p14)
- - [A Fight Over Big Tech’s Emissions Has the Greenhouse Gas Protocol Caught in the Crossfire](https://www.wired.com/story/greenhouse-gas-protocol-caught-in-big-techs-friendly-fire/)<!-- TECH:END -->
+ - [Chevy&#39;s New Bolt EV Is a Truly Affordable Electric Car, at Less Than $30,000](https://www.cnet.com/roadshow/news/chevys-new-bolt-ev-is-a-truly-affordable-electric-car-at-less-than-30000/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

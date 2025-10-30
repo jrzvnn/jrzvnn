@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 😝 [Based razer](http://9gag.com/gag/aW4PxLn)
- - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 😝 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
  - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
  - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 

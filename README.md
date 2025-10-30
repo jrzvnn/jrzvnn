@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 💣 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 💣 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
  - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 
 ---
 

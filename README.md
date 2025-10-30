@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Reduce Interruptions on iOS 26 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
+ - [Google updates Play Store policy in the US to let developers link to external app stores and payment options, following the Epic v. Google injunction &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251029/p65#a251029p65)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-30/#ftag=CAD590a51e)
  - [UMG partners with AI music generator Udio to launch a subscription service for creating music with licensed songs in 2026, in part to settle a copyright lawsuit &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/251029/p64#a251029p64)
- - [Meta, Google, and Microsoft Triple Down on AI Spending](https://www.wired.com/story/microsoft-google-meta-2025-earnings/)
- - [Disney and YouTube settle their legal dispute over YouTube&#39;s hiring in May of former Disney executive Justin Connolly to be global head of media and sports &lpar;Dominic Patten/Deadline&rpar;](http://www.techmeme.com/251029/p63#a251029p63)
- - [CoreStory, whose AI platform automates generating documentation for legacy code bases, raised a $32M Series A led by Tribeca, NEA, and SineWave &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251029/p62#a251029p62)<!-- TECH:END -->
+ - [Meta, Google, and Microsoft Triple Down on AI Spending](https://www.wired.com/story/microsoft-google-meta-2025-earnings/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [Want to share this with you guys\u2014it might not look like much, but it&#39;s 9:45 PM, i got home from work, and my wife had prepared this for me. Deer salami that I made, cheese and butter made by dad on the alp, with bread made by my wife. 20y together and she is still wife material.](http://9gag.com/gag/aPAz30G)
+ - 💣 [A friendly reminder to all the givers out there](http://9gag.com/gag/aXPQrXP)
  - 😝 [Something to do with the kids for the season](http://9gag.com/gag/ajPGgDx)
- - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
+ - 👉 [The northern lights tonight from my front door in North Pole, Alaska](http://9gag.com/gag/aPAz72B)<!-- MEMES:END -->
 
 ---
 

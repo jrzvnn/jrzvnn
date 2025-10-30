@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump and Xi Jinping agree a yearlong truce that rolls back many contentious tariffs and retaliatory measures; the current deal expired on November 10 &lpar;New York Times&rpar;](http://www.techmeme.com/251030/p12#a251030p12)
+ - [Elon Musk&#39;s lawyer pledges to fight OpenAI&#39;s for-profit restructuring and says California&#39;s and Delaware&#39;s AGs &quot;cannot sanitize OpenAI&#39;s unlawful conduct&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p11#a251030p11)
+ - [How K-Pop Demon Hunters Star EJAE Topped the Charts](https://www.wired.com/story/how-k-pop-demon-hunters-star-ejae-topped-the-charts/)
  - [President Trump says he and Xi Jinping discussed Nvidia and other chipmakers&#39; access to China, and that they didn&#39;t discuss approving sales of Blackwell chips &lpar;Mackenzie Hawkins/Bloomberg&rpar;](http://www.techmeme.com/251030/p10#a251030p10)
- - [TrendForce estimates DRAM in 2026 will bring in over 4x as much revenue as the 2023 trough, reaching a record ~$231B, driven by AI industry demand for HBM chips &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251030/p9#a251030p9)
- - [Walmart&#39;s PhonePe raised $600M from General Atlantic at a $14.5B valuation, as the Indian digital payments and financial services company prepares for an IPO &lpar;The Economic Times&rpar;](http://www.techmeme.com/251030/p8#a251030p8)
- - [Corporate travel and expense management software maker Navan and its shareholders raised $923.1M in a US IPO priced at $25/share, giving it a $6.2B market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251030/p7#a251030p7)
- - [LatAm e-commerce giant MercadoLibre reports Q3 revenue up 39% YoY to $7.4B, vs. $7.2B est., a $421M net income, vs. $489M est., and 77M unique buyers, up 26% &lpar;Maria Clara Cobo/Bloomberg&rpar;](http://www.techmeme.com/251030/p6#a251030p6)<!-- TECH:END -->
+ - [TrendForce estimates DRAM in 2026 will bring in over 4x as much revenue as the 2023 trough, reaching a record ~$231B, driven by AI industry demand for HBM chips &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251030/p9#a251030p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

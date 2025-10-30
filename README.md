@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 💣 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
+ - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 💣 [Rate his pull out game](http://9gag.com/gag/ary9nq0)
+ - 😝 [Dane Axe I just finished up!](http://9gag.com/gag/abAKv5b)
  - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [A friendly reminder to all the givers out there](http://9gag.com/gag/aXPQrXP)
- - 👉 [Rich people problems](http://9gag.com/gag/avy4znd)<!-- MEMES:END -->
+ - 💣 [Rich people problems](http://9gag.com/gag/avy4znd)
+ - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 ---
 

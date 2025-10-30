@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GitHub says TypeScript surpassed Python and JavaScript in August 2025 to become the most used language among its 180M+ developers; India added 5.2M devs in 2025 &lpar;The GitHub Blog&rpar;](http://www.techmeme.com/251030/p4#a251030p4)
  - [KitchenAid Promo Code: 25% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [Sources detail how Binance boosted the Trump family&#39;s World Liberty Financial by facilitating a $2B purchase of USD1 and building its tech ahead of CZ&#39;s pardon &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251030/p3#a251030p3)
  - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [Newegg Promo Code: 10% Off in November 2025](https://www.wired.com/story/newegg-promo-code/)
- - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Newegg Promo Code: 10% Off in November 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

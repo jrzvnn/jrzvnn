@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
  - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
  - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
+ - 😝 [Something to do with the kids for the season](http://9gag.com/gag/ajPGgDx)
+ - 👉 [Based razer](http://9gag.com/gag/aW4PxLn)<!-- MEMES:END -->
 
 ---
 

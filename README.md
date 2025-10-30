@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Life sciences group Thermo Fisher agrees to acquire PE-owned drug trial software maker Clario for $9.4B in an all-cash deal expected to close by mid-2026 &lpar;Oliver Barnes/Financial Times&rpar;](http://www.techmeme.com/251030/p1#a251030p1)
  - [How to use Reduce Interruptions on iOS 26 and what it does](https://appleinsider.com/inside/ios-18/tips/how-to-use-reduce-interruptions-on-ios-18-and-what-it-does?utm_source=rss)
  - [Google updates Play Store policy in the US to let developers link to external app stores and payment options, following the Epic v. Google injunction &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251029/p65#a251029p65)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Oct. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-oct-30/#ftag=CAD590a51e)
- - [UMG partners with AI music generator Udio to launch a subscription service for creating music with licensed songs in 2026, in part to settle a copyright lawsuit &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/251029/p64#a251029p64)
- - [Meta, Google, and Microsoft Triple Down on AI Spending](https://www.wired.com/story/microsoft-google-meta-2025-earnings/)<!-- TECH:END -->
+ - [UMG partners with AI music generator Udio to launch a subscription service for creating music with licensed songs in 2026, in part to settle a copyright lawsuit &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/251029/p64#a251029p64)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

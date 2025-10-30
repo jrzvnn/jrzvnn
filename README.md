@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
- - 💣 [Rate his pull out game](http://9gag.com/gag/ary9nq0)
- - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 😝 [How the hell is he still alive?](http://9gag.com/gag/aVv4712)
+ - 😝 [It&#39;s over my friend... we can sell crack and cocaine together](http://9gag.com/gag/apRzg8E)
+ - 💣 [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
+ - 👉 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube now rewards your likes with fun animations](https://www.theverge.com/news/810319/youtube-like-button-animation-genre-user-interface-update)
- - [The ICC plans to switch from Microsoft Office to Open Desk, a European open source alternative, amid concerns about public bodies&#39; reliance on US tech companies &lpar;Maximilian Henning/Euractiv&rpar;](http://www.techmeme.com/251030/p36#a251030p36)
- - [Vivo X300 launch finally brings OriginOS to the rest of the world](https://www.theverge.com/news/810314/vivo-x300-launch-finally-brings-originos-to-the-rest-of-the-world)
- - [Our Favorite Cordless Stick Vacuum Is Marked Down $50](https://www.wired.com/story/bissell-powerclean-furfinder-deal-1025/)
- - [Windows 11&amp;#8217;s Vision Pro-like remote desktop is now widely available on Quest 3](https://www.theverge.com/news/810576/microsoft-windows-11-mixed-reality-link-meta-quest-3-vr)<!-- TECH:END -->
+ - [Cognition releases SWE-1.5, a new coding model in Windsurf, saying it partnered with Cerebras to serve SWE-1.5 at speeds up to 13x faster than Claude Sonnet 4.5 &lpar;Cognition&rpar;](http://www.techmeme.com/251030/p37#a251030p37)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [iOS 26 leak co-defendant says Jon Prosser paid him $650](https://www.theverge.com/news/810656/apple-jon-prosser-lawsuit-ios-26-leaker-michael-ramacciotti-paid)
+ - [iPhone Air vs. Galaxy S25 Edge: Which Thin Phone Fits You Best?](https://www.cnet.com/tech/mobile/iphone-air-vs-galaxy-s25-edge-which-thin-phone-fits-you-best/#ftag=CAD590a51e)
+ - [YouTube now rewards your likes with fun animations](https://www.theverge.com/news/810319/youtube-like-button-animation-genre-user-interface-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

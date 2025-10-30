@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
  - 😝 [This is how you tap a keg](http://9gag.com/gag/a0ezR9L)
+ - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
+ - 💣 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 😝 [The realization](http://9gag.com/gag/awyPMKx)
  - 👉 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)<!-- MEMES:END -->
 
 ---

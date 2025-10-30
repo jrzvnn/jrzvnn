@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
  - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 👉 [No context](http://9gag.com/gag/a0ezRyX)<!-- MEMES:END -->
 
 ---
 

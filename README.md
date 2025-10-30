@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports fourth quarter results &lpar;Apple&rpar;](http://www.techmeme.com/251030/p43#a251030p43)
- - [Netflix announces a 10-for-1 stock split, after its shares boomed over the last three years to above $1,000 a share &lpar;John Melloy/CNBC&rpar;](http://www.techmeme.com/251030/p42#a251030p42)
- - [Reddit reports Q3 revenue up 68% YoY to $585M, vs. $546M est., and daily active uniques up 19% to 116M, vs. 114M est.; RDDT jumps 5%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251030/p41#a251030p41)
- - [Amazon reports Q3 AWS revenue up 20% YoY to $33B, vs. $32.42B est., and AWS operating income up 9.5% YoY to $11.4B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251030/p40#a251030p40)
- - [Amazon reports Q3 revenue up 13% YoY to $180.2B, a $21.2B net income vs. $15.3B in Q3 2024, and operating income flat at $17.4B; AMZN jumps 10%+ after hours &lpar;Amazon&rpar;](http://www.techmeme.com/251030/p39#a251030p39)<!-- TECH:END -->
+ - [Apple&#39;s has record-setting Q4 $102.5B result despite very small iPhone revenue miss](https://appleinsider.com/articles/25/10/30/apples-has-record-setting-q4-1025b-result-despite-very-small-iphone-revenue-miss?utm_source=rss)
+ - [Apple reports Q4 revenue up 8% YoY to $102.47B, vs. $102.24B est., net income up 86% to $27.5B, and FY 2025 revenue up 6% to $416.16B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251030/p44#a251030p44)
+ - [Apple Q4: iPhone up 6% YoY to $49.03B, vs. $50.19B est., Mac up 13% to $8.73B, iPad flat at $6.95B, and Wearables, Home, and Accessories flat at $9.01B &lpar;Apple&rpar;](http://www.techmeme.com/251030/p43#a251030p43)
+ - [Samsung’s AirPods Pro look-alikes have fallen to their best price in months](https://www.theverge.com/tech/810613/samsung-galaxy-buds-3-pro-anc-earbuds-deal-sale)
+ - [Netflix announces a 10-for-1 stock split, after its shares boomed over the last three years to above $1,000 a share &lpar;John Melloy/CNBC&rpar;](http://www.techmeme.com/251030/p42#a251030p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

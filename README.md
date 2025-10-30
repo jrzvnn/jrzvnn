@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart&#39;s PhonePe raised $600M from General Atlantic at a $14.5B valuation, as the Indian digital payments and financial services company prepares for an IPO &lpar;The Economic Times&rpar;](http://www.techmeme.com/251030/p8#a251030p8)
  - [Corporate travel and expense management software maker Navan and its shareholders raised $923.1M in a US IPO priced at $25/share, giving it a $6.2B market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251030/p7#a251030p7)
  - [LatAm e-commerce giant MercadoLibre reports Q3 revenue up 39% YoY to $7.4B, vs. $7.2B est., a $421M net income, vs. $489M est., and 77M unique buyers, up 26% &lpar;Maria Clara Cobo/Bloomberg&rpar;](http://www.techmeme.com/251030/p6#a251030p6)
  - [Hands on with Ursa, a new keycap option for Topre keyboards](https://www.theverge.com/tech/809659/ursa-topre-keycap-hands-on-extras-sale)
- - [Lost your Meta Neural Band? A new one will cost $199](https://www.theverge.com/news/809805/meta-ray-ban-display-neural-band-wristband-replacement-cost)
- - [Q&amp;A with Logitech CEO Hanneke Faber on software-enabled hardware, prioritizing design, launching about 40 new products each year, AI, tariffs, and more &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/251030/p5#a251030p5)<!-- TECH:END -->
+ - [Lost your Meta Neural Band? A new one will cost $199](https://www.theverge.com/news/809805/meta-ray-ban-display-neural-band-wristband-replacement-cost)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

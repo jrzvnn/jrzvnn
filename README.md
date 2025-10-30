@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Palantir sues two ex-employees now working at Percepta, an &quot;AI transformation company&quot; launched by General Catalyst, and alleges deception and stolen documents &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251030/p29#a251030p29)
+ - [A New Startup Wants to Edit Human Embryos](https://www.wired.com/story/startup-edit-human-embryos-manhattan-genomics-cathy-tie/)
  - [Logitech’s wireless vertical mouse has never been cheaper at $50](https://www.theverge.com/tech/809926/logitech-lift-webcams-desktop-speakers-nanoleaf-deal-sale)
  - [Core Scientific shareholders vote to reject a $9B takeover bid by CoreWeave that proxy advisers said undervalued the data center company &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251030/p28#a251030p28)
- - [Milan-based Bending Spoons, which buys and seeks to revitalize tech brands like AOL, raised $710M led by T. Rowe Price at an $11B pre-money valuation &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251030/p27#a251030p27)
- - [Google partners with Reliance to offer free AI Pro access to Jio 5G users in India for 18 months; Perplexity has a similar deal with Bharti Airtel &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251030/p26#a251030p26)
- - [NASA&#39;s Quiet Supersonic Jet Takes Flight](https://www.wired.com/story/nasas-quiet-supersonic-jet-takes-flight/)<!-- TECH:END -->
+ - [Milan-based Bending Spoons, which buys and seeks to revitalize tech brands like AOL, raised $710M led by T. Rowe Price at an $11B pre-money valuation &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251030/p27#a251030p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

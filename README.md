@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple is probably done releasing Macs in 2025](https://appleinsider.com/articles/25/10/30/apple-is-probably-done-releasing-macs-in-2025?utm_source=rss)
  - [Tim Cook didn&#39;t have much to say about reports of low iPhone Air sales](https://appleinsider.com/articles/25/10/30/tim-cook-didnt-have-much-to-say-about-reports-of-low-iphone-air-sales?utm_source=rss)
  - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
- - [Filing: Meta plans to raise money through bond offerings worth up to $30B; the company has said its capex next year would be &quot;notably larger&quot; than in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251030/p53#a251030p53)
- - [Apple expects Q1 revenue to grow 10% to 12% YoY, with iPhone sales up by double digits, and reports Q4 China revenue down 4% YoY to $14.5B, vs. $16.24B est. &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251030/p52#a251030p52)<!-- TECH:END -->
+ - [Live-Action &#39;Call of Duty&#39; Movie Reportedly Being Co-Written by Taylor Sheridan](https://www.cnet.com/culture/entertainment/live-action-call-of-duty-movie-reportedly-being-co-written-by-taylor-sheridan/#ftag=CAD590a51e)
+ - [Filing: Meta plans to raise money through bond offerings worth up to $30B; the company has said its capex next year would be &quot;notably larger&quot; than in 2025 &lpar;Arsheeya Bajwa/Reuters&rpar;](http://www.techmeme.com/251030/p53#a251030p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

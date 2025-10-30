@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: OpenAI is preparing for an IPO that could value it at ~$1T and has looked at raising $60B+, filing as soon as H2 2026 and listing in 2027 &lpar;Reuters&rpar;](http://www.techmeme.com/251029/p59#a251029p59)
- - [Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks](https://www.theverge.com/news/809142/microsoft-azure-xbox-365-is-down-outage)
- - [Crypto media company Blockworks is closing its newsroom, launched in 2021, and will focus on software and data, continuing its main newsletters and podcasts &lpar;Pooja Rajkumari/TheStreet&rpar;](http://www.techmeme.com/251029/p58#a251029p58)
- - [Rode has a better way to connect your tiny wireless mics to your digital camera](https://www.theverge.com/news/809146/rode-wireless-microphone-micro-digital-camera-kit-receiver-oled-display)
- - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CoreStory, whose AI platform automates generating documentation for legacy code bases, raised a $32M Series A led by Tribeca, NEA, and SineWave &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/251029/p62#a251029p62)
+ - [Samsung reports Q3 revenue up 8.85% YoY to ~$60.5B, vs. ~$60.4B est., and operating profit up 32.9% YoY to ~$8.57B, vs. ~$7.9B est., more than doubling from Q2 &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251029/p61#a251029p61)
+ - [Sources: Consensys, maker of crypto wallet MetaMask, plans to go public, with JPMorgan and Goldman Sachs leading its IPO; Consensys was valued at $7B in 2022 &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251029/p60#a251029p60)
+ - [TerraMaster D9-320 review: Nine drives, one Mac](https://appleinsider.com/articles/25/10/30/terramaster-d9-320-review-nine-drives-one-mac?utm_source=rss)
+ - [China Cracks Down: Fake Experts Banned From Social Media](https://www.cnet.com/tech/services-and-software/china-cracks-down-fake-experts-banned-from-social-media/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

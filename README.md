@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon reports Q3 AWS revenue up 20% YoY to $33B, vs. $32.42B est., and AWS operating income up 9.5% YoY to $11.4B &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251030/p40#a251030p40)
+ - [Amazon reports Q3 revenue up 13% YoY to $180.2B, a $21.2B net income vs. $15.3B in Q3 2024, and operating income flat at $17.4B; AMZN jumps 10%+ after hours &lpar;Amazon&rpar;](http://www.techmeme.com/251030/p39#a251030p39)
+ - [Black Ops 6 Quad Feed Double XP Weekend Is Live Now](https://www.cnet.com/tech/gaming/call-of-duty-black-ops-6-double-xp-weekend-live-now/#ftag=CAD590a51e)
  - [How to shop like a pro during Black Friday and Cyber Monday](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)
- - [Sources: Nvidia plans to invest $500M to $1B in AI coding startup Poolside, which is in discussions to raise $2B at a $12B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p38#a251030p38)
- - [Cognition releases SWE-1.5, a new coding model in Windsurf, saying it partnered with Cerebras to serve SWE-1.5 at speeds up to 13x faster than Claude Sonnet 4.5 &lpar;Cognition&rpar;](http://www.techmeme.com/251030/p37#a251030p37)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [iOS 26 leak co-defendant says Jon Prosser paid him $650](https://www.theverge.com/news/810656/apple-jon-prosser-lawsuit-ios-26-leaker-michael-ramacciotti-paid)<!-- TECH:END -->
+ - [Sources: Nvidia plans to invest $500M to $1B in AI coding startup Poolside, which is in discussions to raise $2B at a $12B valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251030/p38#a251030p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

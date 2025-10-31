@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
- - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 💣 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)
- - 😝 [You ever had a day in your life where everything is calm and peaceful? Remembering those days and smiling yourself out? Have some feelings. - Futurama.](http://9gag.com/gag/aXPQn6d)
- - 👉 [I don&#39;t know this actor but damn, he is good.](http://9gag.com/gag/aZZoZwz)<!-- MEMES:END -->
+ - 😝 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
+ - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 💣 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 😝 [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
 

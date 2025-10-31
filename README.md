@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Letter: Nexperia suspends supplies of wafers to its Chinese assembly plant, citing a failure to &quot;comply with the agreed contractual payment terms&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p5#a251031p5)
  - [What Type of Mattress Is Right for You? &lpar;2025&rpar;](https://www.wired.com/story/mattress-types-explained/)
  - [Elon Musk and the Trump Administration Really Don’t Get Tolkien](https://www.wired.com/story/elon-musk-and-the-trump-administration-really-dont-get-tolkien/)
- - [How to Hack a Poker Game](https://www.wired.com/story/uncanny-valley-podcast-how-to-hack-a-poker-game/)<!-- TECH:END -->
+ - [Amazon&#39;s Big Holiday Plan? Replacing 600,000 Human Workers With Robots, a New Report Says](https://www.cnet.com/tech/amazons-big-holiday-plan-replacing-600000-human-workers-with-robots-a-new-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

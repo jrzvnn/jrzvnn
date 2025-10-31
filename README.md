@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
  - [Microsoft&#39;s Q1 earnings, showing that it had a $3.1B net loss from its OpenAI stake, imply OpenAI lost $11.5B during the quarter based on Microsoft&#39;s 27% stake &lpar;Matt Rosoff/The Register&rpar;](http://www.techmeme.com/251031/p19#a251031p19)
  - [13 Horror Movies on Prime Video You Should Dare to Watch on Halloween](https://www.cnet.com/tech/services-and-software/13-horror-movies-on-prime-video-you-should-dare-to-watch-on-halloween/#ftag=CAD590a51e)
  - [Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw](https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider)
- - [No-Code Sorcery: I Conjured an App Using Just My Words, and So Can You](https://www.cnet.com/tech/services-and-software/no-code-sorcery-i-conjured-an-app-using-just-my-words/#ftag=CAD590a51e)
- - [Football Fans Scrambling After ESPN, ABC, Disney Pulled From YouTube TV](https://www.cnet.com/tech/services-and-software/football-fans-scrambling-after-espn-abc-disney-pulled-from-youtube-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No-Code Sorcery: I Conjured an App Using Just My Words, and So Can You](https://www.cnet.com/tech/services-and-software/no-code-sorcery-i-conjured-an-app-using-just-my-words/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

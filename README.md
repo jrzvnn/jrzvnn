@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why is it always the white people who are offended by the jokes even the friends don&#39;t mind?](http://9gag.com/gag/a9yZqWD)
- - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 💣 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
- - 😝 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)
- - 👉 [Wombats](http://9gag.com/gag/aE0y0xp)<!-- MEMES:END -->
+ - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 💣 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 😝 [You basterds!](http://9gag.com/gag/amoKo29)
+ - 👉 [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Christian Influencers Are Throwing Their Hatch Clocks in the Trash &lpar;2025&rpar;](https://www.wired.com/story/why-does-hatch-have-christian-influencers-throwing-their-clocks-in-the-trash/)
+ - [Lettuce Financial, which offers an accounting, payroll, benefits, and tax compliance service for one-person businesses, raised $28M led by Zeev &lpar;Elaine Pofeldt/Forbes&rpar;](http://www.techmeme.com/251031/p17#a251031p17)
  - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
  - [Tether reports that it has generated profits of over $10B during the first three quarters of 2025 and it has issued an additional $17B in USDT during Q3 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251031/p16#a251031p16)
- - [Human Interest, a 401&lpar;k&rpar; platform for SMBs that aims to cut down on administrative work, raised $100M+ at a $3B post-money valuation, up from $1.3B in 2024 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251031/p15#a251031p15)
- - [Woot is offering solid discounts on some of the best Nintendo Switch 2 games](https://www.theverge.com/tech/811251/best-nintendo-switch-2-game-mario-zelda-deal-sale)
- - [&#39;IT: Welcome to Derry&#39; Served Up the Most Unsettling Sequence I&#39;ve Seen on TV This Year](https://www.cnet.com/tech/services-and-software/it-welcome-to-derry-served-up-the-most-unsettling-sequence-ive-seen-on-tv-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Human Interest, a 401&lpar;k&rpar; platform for SMBs that aims to cut down on administrative work, raised $100M+ at a $3B post-money valuation, up from $1.3B in 2024 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251031/p15#a251031p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

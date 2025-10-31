@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw](https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider)
  - [Archy, which offers AI-powered dental practice management software, raised a $20M Series B led by TCV, bringing its total funding to $47M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251031/p18#a251031p18)
  - [Meta Claims Downloaded Porn at Center of AI Lawsuit Was for ‘Personal Use’](https://www.wired.com/story/meta-claims-downloaded-porn-at-center-of-ai-lawsuit-was-for-personal-use/)
  - [Windows 11 tests Bluetooth audio sharing that connects two headsets at once](https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets)
- - [Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio)
- - [Apple commits to aid following Hurricane Melissa&#39;s deadly Caribbean impact](https://appleinsider.com/articles/25/10/31/apple-commits-to-aid-following-hurricane-melissas-deadly-caribbean-impact?utm_source=rss)<!-- TECH:END -->
+ - [Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

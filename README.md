@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 💣 [Strike](http://9gag.com/gag/axyQoPD)
+ - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 👉 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)<!-- MEMES:END -->
 
 ---
 

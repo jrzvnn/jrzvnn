@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
  - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 💣 [Strike](http://9gag.com/gag/axyQoPD)
- - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 👉 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)<!-- MEMES:END -->
+ - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [Strike](http://9gag.com/gag/axyQoPD)
+ - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 ---
 

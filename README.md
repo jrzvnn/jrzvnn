@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
- - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
- - 💣 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)
- - 😝 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
- - 👉 [Something to do with the kids for the season](http://9gag.com/gag/ajPGgDx)<!-- MEMES:END -->
+ - 😝 [This pistol is not for the faint of heart](http://9gag.com/gag/aByjmvx)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 💣 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [The realization](http://9gag.com/gag/awyPMKx)
+ - 👉 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)<!-- MEMES:END -->
 
 ---
 

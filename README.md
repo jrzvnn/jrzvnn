@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Where is the Trump phone?](https://www.theverge.com/news/810500/where-is-the-trump-phone)
  - [Sources: ex-xAI researcher Eric Zelikman is raising $1B at a $5B valuation for Humans&amp;, which aims to train AI that is better at collaborating with humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251031/p12#a251031p12)
  - [Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio](https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter)
  - [Apple earnings, OLED iPad mini, and Affinity&#39;s new apps, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/31/apple-earnings-oled-ipad-mini-and-affinitys-new-apps-on-the-appleinsider-podcast?utm_source=rss)
- - [Perplexity launches a free AI-powered patent research tool in beta to let users search for patents using natural language queries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251031/p11#a251031p11)
- - [Rackmount &amp; add PCI-E to your M4 Mac mini with new Sonnet enclosures](https://appleinsider.com/articles/25/10/31/rackmount-add-pci-e-to-your-m4-mac-mini-with-new-sonnet-enclosures?utm_source=rss)<!-- TECH:END -->
+ - [Perplexity launches a free AI-powered patent research tool in beta to let users search for patents using natural language queries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251031/p11#a251031p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

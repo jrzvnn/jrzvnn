@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 Apple Vision Pro vs. Samsung Galaxy XR: Processing power vs. AI](https://appleinsider.com/inside/apple-vision-pro/vs/m5-apple-vision-pro-vs-samsung-galaxy-xr-processing-power-vs-ai?utm_source=rss)
- - [Republicans Claimed Biden Censored YouTube. 20 Employees Seem to Say Otherwise](https://www.wired.com/story/republicans-claim-biden-censored-youtube/)
- - [In their latest earnings reports, Meta, Alphabet, Microsoft, and Amazon have announced plans to increase their AI spending in 2026 to a combined $400B &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251031/p14#a251031p14)
- - [Netflix is reportedly looking into a bid for Warner Bros. Discovery](https://www.theverge.com/news/811462/netflix-warner-bros-discovery-bid-rumor)
- - [Wedbush hikes Apple target to $320 as iPhone 17 cycle outpaces expectation](https://appleinsider.com/articles/25/10/31/wedbush-hikes-apple-target-to-320-as-iphone-17-cycle-outpaces-expectation?utm_source=rss)<!-- TECH:END -->
+ - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
+ - [Tether reports that it has generated profits of over $10B during the first three quarters of 2025 and it has issued an additional $17B in USDT during Q3 &lpar;RT Watson/The Block&rpar;](http://www.techmeme.com/251031/p16#a251031p16)
+ - [Human Interest, a 401&lpar;k&rpar; platform for SMBs that aims to cut down on administrative work, raised $100M+ at a $3B post-money valuation, up from $1.3B in 2024 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251031/p15#a251031p15)
+ - [Woot is offering solid discounts on some of the best Nintendo Switch 2 games](https://www.theverge.com/tech/811251/best-nintendo-switch-2-game-mario-zelda-deal-sale)
+ - [&#39;IT: Welcome to Derry&#39; Served Up the Most Unsettling Sequence I&#39;ve Seen on TV This Year](https://www.cnet.com/tech/services-and-software/it-welcome-to-derry-served-up-the-most-unsettling-sequence-ive-seen-on-tv-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

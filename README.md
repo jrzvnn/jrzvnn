@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Getty and Perplexity sign a multi-year licensing agreement to let the AI startup display Getty&#39;s images across its search and discovery tools; GETY jumps 55%+ &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251031/p10#a251031p10)
- - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
- - [ESPN, ABC, and other Disney channels go dark on YouTube TV](https://www.theverge.com/news/811316/youtube-tv-disney-channels-pulled-deal-renewal)
- - [10 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
- - [Surfshark vs. Proton VPN: Two of the Best VPNs Compared](https://www.cnet.com/tech/services-and-software/surfshark-vs-proton-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Perplexity launches a free AI-powered patent research tool in beta to let users search for patents using natural language queries &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251031/p11#a251031p11)
+ - [Rackmount &amp; add PCI-E to your M4 Mac mini with new Sonnet enclosures](https://appleinsider.com/articles/25/10/31/rackmount-add-pci-e-to-your-m4-mac-mini-with-new-sonnet-enclosures?utm_source=rss)
+ - [8 Best Indoor Security Cameras &lpar;2025&rpar;: For Homes and Apartments](https://www.wired.com/gallery/best-security-cameras/)
+ - [The FCC is letting ISPs hide fees on your broadband bill](https://www.theverge.com/report/810928/fcc-broadband-information-labels-rollback)
+ - [Perplexity’s new AI tool aims to simplify patent research](https://www.theverge.com/news/811340/perplexity-ai-patent-research-tool)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

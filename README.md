@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Evercore inches Apple stock price up to $300](https://appleinsider.com/articles/25/10/31/evercore-raises-its-apple-target-price-on-latest-earnings-report?utm_source=rss)
  - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)
  - [Google releases its first AI-generated ad, promoting Search&#39;s AI mode, but chooses not to include a label disclosing it was made with Veo 3 and other tools &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/251031/p8#a251031p8)
- - [Epson EcoTank ET-2980 Printer Review: Topped Up](https://www.wired.com/review/epson-ecotank-et-2980/)<!-- TECH:END -->
+ - [Samsung&#39;s New Health Service Aims to Help You Avoid Fitness Plateaus](https://www.cnet.com/tech/mobile/samsungs-new-health-service-aims-to-help-you-avoid-fitness-plateaus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

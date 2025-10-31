@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TD Cowen joins chorus, raises AAPL target to $325](https://appleinsider.com/articles/25/10/31/td-cowen-joins-chorus-raises-aapl-target-to-325?utm_source=rss)
- - [20+ Gifts for Women Who’ve Checked Out of Planet Earth &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
- - [Sora now lets you pay extra to make more AI videos](https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens)
- - [Evercore inches Apple stock price up to $300](https://appleinsider.com/articles/25/10/31/evercore-raises-its-apple-target-price-on-latest-earnings-report?utm_source=rss)
- - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)<!-- TECH:END -->
+ - [MacBook Pro M5 review: Iterative, yes, but worth every penny](https://appleinsider.com/articles/25/10/31/macbook-pro-m5-review-iterative-yes-but-worth-every-penny?utm_source=rss)
+ - [Hits from tariffs continue, Apple to pay $1.4 billion more in 2025 holiday quarter](https://appleinsider.com/articles/25/10/30/hits-from-tariffs-continue-apple-to-pay-14-billion-more-in-2025-holiday-quarter?utm_source=rss)
+ - [Denmark says it will withdraw the EU &quot;Chat Control&quot; proposal, which would force tech companies to scan messages for CSAM, and instead support voluntary scanning &lpar;Claudie Moreau/Euractiv&rpar;](http://www.techmeme.com/251031/p9#a251031p9)
+ - [Hope for iPhone Fold in 2026 rises, Apple is stockpiling components](https://appleinsider.com/articles/25/10/31/hope-for-iphone-fold-in-2026-rises-apple-is-stockpiling-components?utm_source=rss)
+ - [Should You Upgrade to Apple Watch Series 11? Here Are the Key Features You Get](https://www.cnet.com/tech/mobile/should-you-upgrade-to-apple-watch-series-11-here-are-the-key-features-you-get/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

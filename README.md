@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Gloo, a developer of AI tools for Christian churches with ex-Intel CEO Pat Gelsinger as its head of technology, seeks an $873.4M valuation in its US IPO &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251030/p61#a251030p61)
+ - [Amazon CEO Andy Jassy says the 14,000-person layoffs were due to &quot;culture&quot; and &quot;removing layers&quot; from its internal structure, not really AI or financial factors &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251030/p60#a251030p60)
  - [JP Morgan hikes Apple stock target to $305, second increase in a week](https://appleinsider.com/articles/25/10/31/jp-morgan-hikes-apple-stock-target-to-305-second-increase-in-a-week?utm_source=rss)
  - [SEC filing: Snowflake says an executive shared unauthorized financial guidance with an Instagram influencer; an Oct. 26 video interview features CRO Mike Gannon &lpar;Alice Tecotzky/Business Insider&rpar;](http://www.techmeme.com/251030/p59#a251030p59)
- - [Microsoft&amp;#8217;s agent platform play](https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh)
- - [Chilkey ND104 review: Extremely solid construction for a mechanical keyboard](https://appleinsider.com/articles/25/10/31/chilkey-nd104-review-extremely-solid-construction-for-a-mechanical-keyboard?utm_source=rss)
- - [Cloudflare reports Q3 revenue up 31% YoY to $562M, vs. $544.6M est., and forecasts Q4 revenue of $589M, vs. $580M est.; NET jumps 9%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/251030/p58#a251030p58)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s agent platform play](https://www.theverge.com/tech/809889/github-agent-hq-platform-play-microsoft-jared-palmer-jay-parikh)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

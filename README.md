@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple commits to aid following Hurricane Melissa&#39;s deadly Caribbean impact](https://appleinsider.com/articles/25/10/31/apple-commits-to-aid-following-hurricane-melissas-deadly-caribbean-impact?utm_source=rss)
+ - [The Man Who Invented AGI](https://www.wired.com/story/the-man-who-invented-agi/)
+ - [Bose headphones and earbuds return to all-time lows for Black Friday](https://www.theverge.com/tech/811598/bose-headphones-earbuds-xbox-wireless-controller-deal-sale)
  - [Our Favorite Premium TV Is $500 Off](https://www.wired.com/story/lg-g5-oled-deal-1025/)
- - [Hackers threaten to leak ‘woke’ University of Pennsylvania student data](https://www.theverge.com/news/811600/university-of-pennsylvania-hack-woke)
- - [Adobe’s experimental AI tool can edit entire videos using one frame](https://www.theverge.com/news/811602/adobe-max-2025-sneaks-projects)
- - [Christian Influencers Are Throwing Their Hatch Clocks in the Trash &lpar;2025&rpar;](https://www.wired.com/story/why-does-hatch-have-christian-influencers-throwing-their-clocks-in-the-trash/)
- - [Lettuce Financial, which offers an accounting, payroll, benefits, and tax compliance service for one-person businesses, raised $28M led by Zeev &lpar;Elaine Pofeldt/Forbes&rpar;](http://www.techmeme.com/251031/p17#a251031p17)<!-- TECH:END -->
+ - [Hackers threaten to leak ‘woke’ University of Pennsylvania student data](https://www.theverge.com/news/811600/university-of-pennsylvania-hack-woke)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A bizarre Windows 11 bug duplicates Task Manager instead of closing it](https://www.theverge.com/news/811233/microsoft-windows-11-task-manager-duplicate-bug)
+ - [What Hellen Obiri Packs to Run the NYC Marathon 2025](https://www.wired.com/story/hellen-obiri-starter-pack/)
  - [Nvidia CEO Jensen Huang says he still hopes to sell the company&#39;s Blackwell chips to China &quot;someday&quot;, but points out the decision is up to President Trump &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p7#a251031p7)
  - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)
- - [Guillermo del Toro Hopes He’s Dead Before AI Art Goes Mainstream](https://www.wired.com/story/guillermo-del-toro-hopes-hes-dead-before-ai-art-goes-mainstream/)
- - [The US CBP signs a two-year deal with AI logistics company Altana, and will use its platform for real-time trade enforcement, forced labor detection, and more &lpar;Mackenzie Weinger/Axios&rpar;](http://www.techmeme.com/251031/p6#a251031p6)
- - [Letter: Nexperia suspends supplies of wafers to its Chinese assembly plant, citing a failure to &quot;comply with the agreed contractual payment terms&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p5#a251031p5)<!-- TECH:END -->
+ - [Guillermo del Toro Hopes He’s Dead Before AI Art Goes Mainstream](https://www.wired.com/story/guillermo-del-toro-hopes-hes-dead-before-ai-art-goes-mainstream/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pony.ai becomes the first company to receive a citywide robotaxi permit for Shenzhen, allowing self-driving taxis to operate beyond pilot zones &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251031/p13#a251031p13)
  - [All the records Apple said it broke in Q4 2025](https://appleinsider.com/articles/25/10/30/here-are-all-the-records-apple-said-broke-in-q4-2025-on-the-earnings-call?utm_source=rss)
  - [Where is the Trump phone?](https://www.theverge.com/news/810500/where-is-the-trump-phone)
  - [Sources: ex-xAI researcher Eric Zelikman is raising $1B at a $5B valuation for Humans&amp;, which aims to train AI that is better at collaborating with humans &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251031/p12#a251031p12)
- - [Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio](https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter)
- - [Apple earnings, OLED iPad mini, and Affinity&#39;s new apps, on the AppleInsider Podcast](https://appleinsider.com/articles/25/10/31/apple-earnings-oled-ipad-mini-and-affinitys-new-apps-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Sound Blaster’s modular hub is a reconfigurable Stream Deck for audio](https://www.theverge.com/news/811357/creative-sound-blaster-reimagine-modular-audio-hub-kickstarter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

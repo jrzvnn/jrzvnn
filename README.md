@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brian Armstrong deliberately used certain words during Coinbase&#39;s Q3 call to sway $84,000 in bets on Kalshi and Polymarket over which terms would be mentioned &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p20#a251031p20)
+ - [Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report](https://www.wired.com/story/nancy-mace-berates-cops-airport-meltdown/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 1, #874](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-1-874/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 1 #608](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-1-608/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 1, #404](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-1-404/#ftag=CAD590a51e)
- - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
- - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 1, #404](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-1-404/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

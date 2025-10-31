@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 💣 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
  - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
- - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
+ - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 💣 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 😝 [Happy Halloween!](http://9gag.com/gag/aVv4vEO)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 💣 [Happy Halloween!](http://9gag.com/gag/aVv4vEO)
+ - 😝 [You basterds!](http://9gag.com/gag/amoKo29)
  - 👉 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)<!-- MEMES:END -->
 
 ---

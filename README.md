@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Somewhere, in a distant marketing department, someone is trying not to laugh](https://www.reddit.com/r/funny/comments/1okv9xf/somewhere_in_a_distant_marketing_department/)
- - 😝 [Useless facts.](http://9gag.com/gag/aO8AQ7D)
- - 💣 [Need to go here now. This bench is a dream](http://9gag.com/gag/aPAzZ7G)
- - 😝 [Good old shows](http://9gag.com/gag/aD2rDOx)
- - 👉 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)<!-- MEMES:END -->
+ - 😝 [Strike](http://9gag.com/gag/axyQoPD)
+ - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)
+ - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 ---
 

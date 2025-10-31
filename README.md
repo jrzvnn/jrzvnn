@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Kaizen, which provides a commerce platform for government agencies to offer services like utility billing, raised a $21M Series A led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251031/p24#a251031p24)
  - [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)
  - [&#39;Frankenstein,&#39; &#39;Being Eddie&#39; and 10 More Must-See Movies on Netflix This November](https://www.cnet.com/tech/services-and-software/frankenstein-being-eddie-and-10-more-must-see-movies-on-netflix-this-november/#ftag=CAD590a51e)
  - [How to Watch Dodgers vs. Blue Jays World Series Game 6 Today](https://www.cnet.com/tech/services-and-software/how-to-watch-dodgers-vs-blue-jays-world-series-game-6-today/#ftag=CAD590a51e)
- - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)
- - [In its Q3 earnings, Alphabet said the profit included &quot;net gains on equity securities of $10.7B,&quot; in part from a private company, which sources say is Anthropic &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p22#a251031p22)<!-- TECH:END -->
+ - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

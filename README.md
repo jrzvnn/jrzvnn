@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
+ - 😝 [Useless facts.](http://9gag.com/gag/aO8AQ7D)
+ - 😝 [Need to go here now. This bench is a dream](http://9gag.com/gag/aPAzZ7G)
+ - 💣 [Good old shows](http://9gag.com/gag/aD2rDOx)
+ - 😝 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)
+ - 👉 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)<!-- MEMES:END -->
 
 ---
 

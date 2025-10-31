@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTube is revamping its TV app to mimic paid streamers like Netflix, organizing videos by seasons and episodes, blurring the lines between pro and user content &lpar;Janko Roettgers/The Verge&rpar;](http://www.techmeme.com/251031/p4#a251031p4)
+ - [Want to Stay Active as You Age? These Exercises Can Help](https://www.cnet.com/health/fitness/want-to-stay-active-as-you-age-these-exercises-can-help/#ftag=CAD590a51e)
  - [Samsung says it&#39;s partnering with Nvidia to build an &quot;AI Megafactory&quot; and deploy over 50K of Nvidia&#39;s most advanced GPUs to embed AI in its chipmaking process &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251031/p3#a251031p3)
  - [Ofcom chief Melanie Dawes warns social media companies to prove their algorithms protect under-18s from seeing harmful content, or face enforcement action &lpar;Dan Thomas/Financial Times&rpar;](http://www.techmeme.com/251031/p2#a251031p2)
- - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Corporate travel and expense management software maker Navan&#39;s shares fell 20% to $20, valuing it at $5B, after raising $923.1M in its IPO at a $6.2B market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251031/p1#a251031p1)<!-- TECH:END -->
+ - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

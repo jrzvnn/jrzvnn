@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
  - 😝 [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)
+ - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
  - 💣 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 😝 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)
+ - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 ---
 

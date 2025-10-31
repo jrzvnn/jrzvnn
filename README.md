@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 1, #874](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-1-874/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 1 #608](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-1-608/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 1, #404](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-1-404/#ftag=CAD590a51e)
  - [Here are the shipping and return policies for all the big-name retailers](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
- - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)
- - [Microsoft&#39;s Q1 earnings, showing that it had a $3.1B net loss from its OpenAI stake, imply OpenAI lost $11.5B during the quarter based on Microsoft&#39;s 27% stake &lpar;Matt Rosoff/The Register&rpar;](http://www.techmeme.com/251031/p19#a251031p19)
- - [13 Horror Movies on Prime Video You Should Dare to Watch on Halloween](https://www.cnet.com/tech/services-and-software/13-horror-movies-on-prime-video-you-should-dare-to-watch-on-halloween/#ftag=CAD590a51e)
- - [Microsoft releases an Xbox Full Screen Experience preview for the MSI Claw](https://www.theverge.com/news/811826/microsoft-xbox-full-screen-experience-fse-msi-claw-windows-11-insider)<!-- TECH:END -->
+ - [What Apple could buy, instead of spending $3.4 billion on tariffs in 2025](https://appleinsider.com/articles/25/10/31/what-apple-could-buy-instead-of-spending-34-billion-on-tariffs-in-2025?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

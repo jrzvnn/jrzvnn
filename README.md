@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evercore raises its Apple target price on latest earnings report](https://appleinsider.com/articles/25/10/31/evercore-raises-its-apple-target-price-on-latest-earnings-report?utm_source=rss)
- - [A bizarre Windows 11 bug duplicates Task Manager instead of closing it](https://www.theverge.com/news/811233/microsoft-windows-11-task-manager-duplicate-bug)
- - [What Hellen Obiri Packs to Run the NYC Marathon 2025](https://www.wired.com/story/hellen-obiri-starter-pack/)
- - [Nvidia CEO Jensen Huang says he still hopes to sell the company&#39;s Blackwell chips to China &quot;someday&quot;, but points out the decision is up to President Trump &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p7#a251031p7)
- - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)<!-- TECH:END -->
+ - [Sora now lets you pay extra to make more AI videos](https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens)
+ - [Evercore inches Apple stock price up to $300](https://appleinsider.com/articles/25/10/31/evercore-raises-its-apple-target-price-on-latest-earnings-report?utm_source=rss)
+ - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)
+ - [Google releases its first AI-generated ad, promoting Search&#39;s AI mode, but chooses not to include a label disclosing it was made with Veo 3 and other tools &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/251031/p8#a251031p8)
+ - [Epson EcoTank ET-2980 Printer Review: Topped Up](https://www.wired.com/review/epson-ecotank-et-2980/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

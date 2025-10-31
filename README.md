@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 💣 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
- - 👉 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)<!-- MEMES:END -->
+ - 😝 [Giant sandwich in usa](http://9gag.com/gag/aLnVpE5)
+ - 😝 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
+ - 💣 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 
 ---
 

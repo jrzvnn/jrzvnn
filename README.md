@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
- - 💣 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
+ - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
+ - 👉 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)<!-- MEMES:END -->
 
 ---
 

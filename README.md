@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
- - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Dragonbal.](http://9gag.com/gag/an78gvL)
  - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 👉 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)<!-- MEMES:END -->
 
 ---
 

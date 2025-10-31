@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
  - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
+ - 😝 [The realization](http://9gag.com/gag/awyPMKx)
+ - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
+ - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 ---
 

@@ -170,7 +170,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
  - 💣 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
  - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
- - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
+ - 👉 [Your Halloween costume will never top this dog who went as a.....mop.](https://www.reddit.com/r/funny/comments/1okxkae/your_halloween_costume_will_never_top_this_dog/)<!-- MEMES:END -->
 
 ---
 

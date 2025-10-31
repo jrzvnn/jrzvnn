@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Dragonbal.](http://9gag.com/gag/an78gvL)
- - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 👉 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)<!-- MEMES:END -->
+ - 😝 [Everything but work](http://9gag.com/gag/a4PmEVA)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
+ - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
 
 ---
 

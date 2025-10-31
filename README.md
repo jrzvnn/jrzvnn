@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
  - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)
  - [Corporate travel and expense management software maker Navan&#39;s shares fell 20% to $20, valuing it at $5B, after raising $923.1M in its IPO at a $6.2B market cap &lpar;Subrat Patnaik/Bloomberg&rpar;](http://www.techmeme.com/251031/p1#a251031p1)
  - [Filing: Gloo, a developer of AI tools for Christian churches with ex-Intel CEO Pat Gelsinger as its head of technology, seeks an $873.4M valuation in its US IPO &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251030/p61#a251030p61)
- - [Amazon CEO Andy Jassy says the 14,000-person layoffs were due to &quot;culture&quot; and &quot;removing layers&quot; from its internal structure, not really AI or financial factors &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251030/p60#a251030p60)
- - [JP Morgan hikes Apple stock target to $305, second increase in a week](https://appleinsider.com/articles/25/10/31/jp-morgan-hikes-apple-stock-target-to-305-second-increase-in-a-week?utm_source=rss)<!-- TECH:END -->
+ - [Amazon CEO Andy Jassy says the 14,000-person layoffs were due to &quot;culture&quot; and &quot;removing layers&quot; from its internal structure, not really AI or financial factors &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251030/p60#a251030p60)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

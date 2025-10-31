@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
+ - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
  - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
+ - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
  - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 ---

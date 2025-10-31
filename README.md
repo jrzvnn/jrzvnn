@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)
  - [In its Q3 earnings, Alphabet said the profit included &quot;net gains on equity securities of $10.7B,&quot; in part from a private company, which sources say is Anthropic &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p22#a251031p22)
  - [Bluesky says it has hit 40M users and plans to launch &quot;dislikes&quot; in beta to tailor content rankings and reply rankings &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251031/p21#a251031p21)
- - [Brian Armstrong ended Coinbase&#39;s Q3 earnings call by saying certain words that Kalshi and Polymarket users had wagered would be mentioned during the call &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p20#a251031p20)
- - [Nancy Mace Curses, Berates Confused Cops in Airport Meltdown: Police Report](https://www.wired.com/story/nancy-mace-berates-cops-airport-meltdown/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 1, #874](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-1-874/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 1, #1596](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-1-1596/#ftag=CAD590a51e)
+ - [Brian Armstrong ended Coinbase&#39;s Q3 earnings call by saying certain words that Kalshi and Polymarket users had wagered would be mentioned during the call &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p20#a251031p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
  - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
  - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
- - 👉 [Harsh](http://9gag.com/gag/ary9VE5)<!-- MEMES:END -->
+ - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
 
 ---
 

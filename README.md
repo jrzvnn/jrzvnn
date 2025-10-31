@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Evercore raises its Apple target price on latest earnings report](https://appleinsider.com/articles/25/10/31/evercore-raises-its-apple-target-price-on-latest-earnings-report?utm_source=rss)
+ - [A bizarre Windows 11 bug duplicates Task Manager instead of closing it](https://www.theverge.com/news/811233/microsoft-windows-11-task-manager-duplicate-bug)
  - [What Hellen Obiri Packs to Run the NYC Marathon 2025](https://www.wired.com/story/hellen-obiri-starter-pack/)
  - [Nvidia CEO Jensen Huang says he still hopes to sell the company&#39;s Blackwell chips to China &quot;someday&quot;, but points out the decision is up to President Trump &lpar;Reuters&rpar;](http://www.techmeme.com/251031/p7#a251031p7)
- - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)
- - [Is It Time to Upgrade to the iPhone 17? How It Compares With the iPhone 16, 15 and 14](https://www.cnet.com/tech/mobile/is-it-time-to-upgrade-to-the-iphone-17-how-it-compares-with-the-iphone-16-15-and-14/#ftag=CAD590a51e)
- - [This Secret iPhone Camera Feature Can Help Keep Your Lens Clean](https://www.cnet.com/tech/services-and-software/this-secret-iphone-camera-feature-can-help-keep-your-lens-clean/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Mattresses for Stomach Sleepers, According to a Sleep Science Coach &lpar;2025&rpar;](https://www.wired.com/gallery/best-mattress-for-stomach-sleepers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In their latest earnings reports, Meta, Alphabet, Microsoft, and Amazon have announced plans to increase their AI spending in 2026 to a combined $400B &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251031/p14#a251031p14)
  - [Netflix is reportedly looking into a bid for Warner Bros. Discovery](https://www.theverge.com/news/811462/netflix-warner-bros-discovery-bid-rumor)
  - [Wedbush hikes Apple target to $320 as iPhone 17 cycle outpaces expectation](https://appleinsider.com/articles/25/10/31/wedbush-hikes-apple-target-to-320-as-iphone-17-cycle-outpaces-expectation?utm_source=rss)
  - [Apple&#39;s 14&quot; MacBook Pro is on sale from $1,348 &amp; even M5 models are discounted](https://appleinsider.com/articles/25/10/31/apples-14-macbook-pro-is-on-sale-from-1348-even-m5-models-are-discounted?utm_source=rss)
- - [Pony.ai becomes the first company to receive a citywide robotaxi permit for Shenzhen, allowing self-driving taxis to operate beyond pilot zones &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251031/p13#a251031p13)
- - [All the records Apple said it broke in Q4 2025](https://appleinsider.com/articles/25/10/30/here-are-all-the-records-apple-said-broke-in-q4-2025-on-the-earnings-call?utm_source=rss)<!-- TECH:END -->
+ - [Pony.ai becomes the first company to receive a citywide robotaxi permit for Shenzhen, allowing self-driving taxis to operate beyond pilot zones &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251031/p13#a251031p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Pro M5 review: Iterative, yes, but worth every penny](https://appleinsider.com/articles/25/10/31/macbook-pro-m5-review-iterative-yes-but-worth-every-penny?utm_source=rss)
- - [Hits from tariffs continue, Apple to pay $1.4 billion more in 2025 holiday quarter](https://appleinsider.com/articles/25/10/30/hits-from-tariffs-continue-apple-to-pay-14-billion-more-in-2025-holiday-quarter?utm_source=rss)
- - [Denmark says it will withdraw the EU &quot;Chat Control&quot; proposal, which would force tech companies to scan messages for CSAM, and instead support voluntary scanning &lpar;Claudie Moreau/Euractiv&rpar;](http://www.techmeme.com/251031/p9#a251031p9)
- - [Hope for iPhone Fold in 2026 rises, Apple is stockpiling components](https://appleinsider.com/articles/25/10/31/hope-for-iphone-fold-in-2026-rises-apple-is-stockpiling-components?utm_source=rss)
- - [Should You Upgrade to Apple Watch Series 11? Here Are the Key Features You Get](https://www.cnet.com/tech/mobile/should-you-upgrade-to-apple-watch-series-11-here-are-the-key-features-you-get/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Getty and Perplexity sign a multi-year licensing agreement to let the AI startup display Getty&#39;s images across its search and discovery tools; GETY jumps 55%+ &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251031/p10#a251031p10)
+ - [Historical trend broken, AAPL makes big gains after earnings](https://appleinsider.com/articles/25/10/30/historical-trend-broken-aapl-makes-big-gains-after-earnings?utm_source=rss)
+ - [ESPN, ABC, and other Disney channels go dark on YouTube TV](https://www.theverge.com/news/811316/youtube-tv-disney-channels-pulled-deal-renewal)
+ - [10 Best Outdoor Security Cameras &lpar;2025&rpar;: Battery-Powered, LTE, No Subscription](https://www.wired.com/gallery/best-outdoor-security-cameras/)
+ - [Surfshark vs. Proton VPN: Two of the Best VPNs Compared](https://www.cnet.com/tech/services-and-software/surfshark-vs-proton-vpn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

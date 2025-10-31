@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple commits to aid following Hurricane Melissa&#39;s deadly Caribbean impact](https://appleinsider.com/articles/25/10/31/apple-commits-to-aid-following-hurricane-melissas-deadly-caribbean-impact?utm_source=rss)
- - [The Man Who Invented AGI](https://www.wired.com/story/the-man-who-invented-agi/)
- - [Bose headphones and earbuds return to all-time lows for Black Friday](https://www.theverge.com/tech/811598/bose-headphones-earbuds-xbox-wireless-controller-deal-sale)
- - [Our Favorite Premium TV Is $500 Off](https://www.wired.com/story/lg-g5-oled-deal-1025/)
- - [Hackers threaten to leak ‘woke’ University of Pennsylvania student data](https://www.theverge.com/news/811600/university-of-pennsylvania-hack-woke)<!-- TECH:END -->
+ - [Archy, which offers AI-powered dental practice management software, raised a $20M Series B led by TCV, bringing its total funding to $47M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251031/p18#a251031p18)
+ - [Meta Claims Downloaded Porn at Center of AI Lawsuit Was for ‘Personal Use’](https://www.wired.com/story/meta-claims-downloaded-porn-at-center-of-ai-lawsuit-was-for-personal-use/)
+ - [Windows 11 tests Bluetooth audio sharing that connects two headsets at once](https://www.theverge.com/news/811795/microsoft-windows-11-bluetooth-le-shared-audio-headsets)
+ - [Dolby Atmos arrives in the new, affordable China-exclusive Hyundai Elexio](https://www.theverge.com/tech/811718/dolby-atmos-arrives-in-the-new-affordable-china-exclusive-hyundai-elexio)
+ - [Apple commits to aid following Hurricane Melissa&#39;s deadly Caribbean impact](https://appleinsider.com/articles/25/10/31/apple-commits-to-aid-following-hurricane-melissas-deadly-caribbean-impact?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [pumpkin head](https://www.reddit.com/r/funny/comments/1okn4kx/pumpkin_head/)
- - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
- - 💣 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)
- - 😝 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
- - 👉 [Kid had a history of being violent before he did this](http://9gag.com/gag/ary9mx6)<!-- MEMES:END -->
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 💣 [The realization](http://9gag.com/gag/awyPMKx)
+ - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
+ - 👉 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)<!-- MEMES:END -->
 
 ---
 

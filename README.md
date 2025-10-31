@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)
+ - [&#39;Frankenstein,&#39; &#39;Being Eddie&#39; and 10 More Must-See Movies on Netflix This November](https://www.cnet.com/tech/services-and-software/frankenstein-being-eddie-and-10-more-must-see-movies-on-netflix-this-november/#ftag=CAD590a51e)
+ - [How to Watch Dodgers vs. Blue Jays World Series Game 6 Today](https://www.cnet.com/tech/services-and-software/how-to-watch-dodgers-vs-blue-jays-world-series-game-6-today/#ftag=CAD590a51e)
  - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)
- - [In its Q3 earnings, Alphabet said the profit included &quot;net gains on equity securities of $10.7B,&quot; in part from a private company, which sources say is Anthropic &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p22#a251031p22)
- - [Bluesky says it has hit 40M users and plans to launch &quot;dislikes&quot; in beta to tailor content rankings and reply rankings &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251031/p21#a251031p21)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 1, #1596](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-1-1596/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In its Q3 earnings, Alphabet said the profit included &quot;net gains on equity securities of $10.7B,&quot; in part from a private company, which sources say is Anthropic &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p22#a251031p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

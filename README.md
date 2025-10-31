@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TD Cowen joins chorus, raises AAPL target to $325](https://appleinsider.com/articles/25/10/31/td-cowen-joins-chorus-raises-aapl-target-to-325?utm_source=rss)
  - [20+ Gifts for Women Who’ve Checked Out of Planet Earth &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-women-who-are-over-this-planet/)
  - [Sora now lets you pay extra to make more AI videos](https://www.theverge.com/news/811241/sora-pay-for-extra-video-gens)
  - [Evercore inches Apple stock price up to $300](https://appleinsider.com/articles/25/10/31/evercore-raises-its-apple-target-price-on-latest-earnings-report?utm_source=rss)
- - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)
- - [Google releases its first AI-generated ad, promoting Search&#39;s AI mode, but chooses not to include a label disclosing it was made with Veo 3 and other tools &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/251031/p8#a251031p8)<!-- TECH:END -->
+ - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

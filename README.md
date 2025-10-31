@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 😝 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 💣 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 💣 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
  - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
- - 👉 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)<!-- MEMES:END -->
+ - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
 
 ---
 

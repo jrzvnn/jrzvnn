@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)
- - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 💣 [Something to do with the kids for the season](http://9gag.com/gag/ajPGgDx)
- - 😝 [But I can&#39;t reach it](http://9gag.com/gag/ajPGVZp)
- - 👉 [Useless facts.](http://9gag.com/gag/aO8AQ7D)<!-- MEMES:END -->
+ - 😝 [That&#39;s quite an explanation!!](http://9gag.com/gag/amoKvDj)
+ - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
+ - 👉 [The realization](http://9gag.com/gag/awyPMKx)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
+ - 😝 [pumpkin head](https://www.reddit.com/r/funny/comments/1okn4kx/pumpkin_head/)
+ - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 💣 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)
+ - 😝 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
+ - 👉 [Kid had a history of being violent before he did this](http://9gag.com/gag/ary9mx6)<!-- MEMES:END -->
 
 ---
 

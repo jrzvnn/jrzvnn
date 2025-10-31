@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
- - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 😝 [And with a timer to make sure the rape doesn&#39;t last enough to be considered a crime](http://9gag.com/gag/a2v9KWe)
- - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
+ - 😝 [Clear signals, unlike her](http://9gag.com/gag/a0ezZzz)
+ - 😝 [Say again, bro](http://9gag.com/gag/aXPQoWP)
+ - 💣 [Fake it till you make it.](http://9gag.com/gag/a4Pm1mQ)
+ - 😝 [Goal of the Year in 2004 in the Netherlands, Zlatan Ibrahimovi\u0107.](http://9gag.com/gag/axyQBOn)
+ - 👉 [Something to do with the kids for the season](http://9gag.com/gag/ajPGgDx)<!-- MEMES:END -->
 
 ---
 

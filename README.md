@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
  - 😝 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 😝 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)
- - 💣 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
- - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
+ - 💣 [Simpler times](http://9gag.com/gag/a2v97be)
+ - 😝 [The realization](http://9gag.com/gag/awyPMKx)
+ - 👉 [Everything but work](http://9gag.com/gag/a4PmEVA)<!-- MEMES:END -->
 
 ---
 

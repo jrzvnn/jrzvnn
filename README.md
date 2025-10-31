@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Simpler times](http://9gag.com/gag/a2v97be)
- - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 💣 [Happy Halloween!](http://9gag.com/gag/aVv4vEO)
- - 😝 [You basterds!](http://9gag.com/gag/amoKo29)
- - 👉 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)<!-- MEMES:END -->
+ - 😝 [Wombats](http://9gag.com/gag/aE0y0xp)
+ - 😝 [Why is it always the white people who are offended by the jokes even the friends don&#39;t mind?](http://9gag.com/gag/a9yZqWD)
+ - 💣 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
+ - 😝 [The solution we never saw coming](http://9gag.com/gag/avy4Qjb)
+ - 👉 [The cat climbed in to meet her dog friend&#39;s new babies.](http://9gag.com/gag/aoyAKbn)<!-- MEMES:END -->
 
 ---
 

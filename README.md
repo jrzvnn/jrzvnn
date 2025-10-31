@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Giant sandwich in usa](http://9gag.com/gag/aLnVpE5)
- - 😝 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
+ - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
  - 💣 [`Where is my mind?`](http://9gag.com/gag/aQzBXK2)
- - 😝 [Why, brother, why?!?](http://9gag.com/gag/aoyAgmx)
- - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 👉 [Simpler times](http://9gag.com/gag/a2v97be)<!-- MEMES:END -->
 
 ---
 

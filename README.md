@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The realization](http://9gag.com/gag/awyPMKx)
- - 😝 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
- - 💣 [We have to learn so much from them](http://9gag.com/gag/aD2rdmd)
- - 😝 [Why bros ?](http://9gag.com/gag/an78gDb)
- - 👉 [Nature is healing](http://9gag.com/gag/adBrg0j)<!-- MEMES:END -->
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [Nature is healing](http://9gag.com/gag/adBrg0j)
+ - 💣 [Be vewy quiet](http://9gag.com/gag/aPAz3wR)
+ - 😝 [And with a timer to make sure the rape doesn&#39;t last enough to be considered a crime](http://9gag.com/gag/a2v9KWe)
+ - 👉 [Is this a... happy ending?](http://9gag.com/gag/a87QEVY)<!-- MEMES:END -->
 
 ---
 

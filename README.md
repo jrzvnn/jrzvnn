@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
  - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
- - 💣 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 😝 [Boo!](http://9gag.com/gag/aMVDdWR)
- - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
+ - 😝 [You can just do things &lpar;especially if you don&#39;t have that long to live&rpar;](http://9gag.com/gag/aXPQPGb)
+ - 💣 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)
+ - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
+ - 👉 [The important questions must be asked.](http://9gag.com/gag/a2v9vGE)<!-- MEMES:END -->
 
 ---
 

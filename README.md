@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
  - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
  - 😝 [The important questions must be asked.](http://9gag.com/gag/a2v9vGE)
- - 👉 [Crash test](http://9gag.com/gag/amoKoeo)<!-- MEMES:END -->
+ - 👉 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)<!-- MEMES:END -->
 
 ---
 

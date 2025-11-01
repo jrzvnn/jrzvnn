@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech companies, including Meta and xAI, are using SPVs to raise tens of billions for AI data centers, letting them keep the debt off their balance sheets &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251031/p25#a251031p25)
+ - [Kim Kardashian Denies the Moon Landing and NASA Corrects Her Publicly](https://www.cnet.com/science/kim-kardashian-denies-the-moon-landing-and-nasa-corrects-her-publicly/#ftag=CAD590a51e)
+ - [At TwitchCon, I Learned the Secret of Why Some Twitch Games Become Smash Hits](https://www.cnet.com/tech/services-and-software/at-twitchcon-i-learned-the-secret-of-why-some-twitch-games-become-smash-hits/#ftag=CAD590a51e)
  - [New York-based Kaizen, which provides a commerce platform for government agencies to offer services like utility billing, raised a $21M Series A led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251031/p24#a251031p24)
- - [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)
- - [&#39;Frankenstein,&#39; &#39;Being Eddie&#39; and 10 More Must-See Movies on Netflix This November](https://www.cnet.com/tech/services-and-software/frankenstein-being-eddie-and-10-more-must-see-movies-on-netflix-this-november/#ftag=CAD590a51e)
- - [How to Watch Dodgers vs. Blue Jays World Series Game 6 Today](https://www.cnet.com/tech/services-and-software/how-to-watch-dodgers-vs-blue-jays-world-series-game-6-today/#ftag=CAD590a51e)
- - [Sources: Coinbase is in late stage talks to buy stablecoin infra startup BVNK in a ~$2B deal; Coinbase expects to close the deal later this year or early 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251031/p23#a251031p23)<!-- TECH:END -->
+ - [GTA VI developer accused of union busting in mass firings](https://www.theverge.com/news/811999/gta-vi-rockstar-games-union-busting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

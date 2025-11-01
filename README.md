@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft&#39;s AI tools still lag behind OpenAI&#39;s, as Microsoft struggles to create a cohesive AI experience and add new features by integrating OpenAI models &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/251101/p18#a251101p18)
  - [Grokipedia content often closely mirrors Wikipedia except for some political topics but its use of AI makes it better than Wikipedia on obscure entries &lpar;Business Insider&rpar;](http://www.techmeme.com/251101/p17#a251101p17)
  - [The White House says China has agreed to effectively end rare earth export controls issued in 2025 and 2022, and will also close probes of US chip companies &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/251101/p16#a251101p16)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 2 #609](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-2-609/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #875](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-875/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1597](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1597/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #875](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-875/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [E-scooter that can do 110 km/h &lpar;68 mph&rpar;](http://9gag.com/gag/ayNZN9p)
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 💣 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 👉 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)<!-- MEMES:END -->
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 💣 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
+ - 😝 [Well done Japan](http://9gag.com/gag/an78O5z)
+ - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
 
 ---
 

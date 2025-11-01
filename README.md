@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [ESPN plans to make its College Gameday telecast available on host Pat McAfee&#39;s X account, as Disney and YouTube TV continue to spar over a new carriage deal &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/251101/p12#a251101p12)
  - [A profile of AI contractor marketplace Mercor, which is valued at $10B and whose three 22-year-old founders are Thiel Fellows, each holding a roughly 22% stake &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251101/p11#a251101p11)
  - [35 Best Family Board Games &lpar;2025&rpar;: Catan, Ticket to Ride, Codenames](https://www.wired.com/gallery/best-family-board-games/)
- - [9 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
- - [MediaTek says it is on track to generate $1B in revenue from its data center AI accelerator ASIC chips in 2026, after reporting Q3 revenue up 7.8% YoY to $4.64B &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p10#a251101p10)<!-- TECH:END -->
+ - [LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday](https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale)
+ - [9 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

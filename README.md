@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 💣 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
- - 😝 [Your death will be full of memories](http://9gag.com/gag/aO8A2Wy)
- - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
+ - 😝 [How does he do it?](http://9gag.com/gag/aXPQLOb)
+ - 😝 [Bet you didn&#39;t know &lpar;true mostly in rural zone like south Jutland, I&#39;ve been told&rpar;](http://9gag.com/gag/aVv4beM)
+ - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 ---
 

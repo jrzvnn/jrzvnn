@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 😝 [This jelly cake is a masterpiece](http://9gag.com/gag/apRz9M5)
  - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
- - 💣 [That hand....](http://9gag.com/gag/awyPyGQ)
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 💣 [Using a robot for Halloween](http://9gag.com/gag/avy4ydZ)
+ - 😝 [Guy kills it on a guitar made of beer cans... Music and beer sounds good.](http://9gag.com/gag/apRz1Ab)
  - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 ---

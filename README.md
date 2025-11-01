@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You wish your phone had the Oppo Find X9 Pro&amp;#8217;s battery life](https://www.theverge.com/tech/808067/oppo-find-x9-pro-review)
+ - [The Playdate is a great indie puzzle machine](https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it)
  - [I Went Hands-On With the OnePlus 15&#39;s Camera and You Need to See the Results](https://www.cnet.com/tech/mobile/i-went-hands-on-with-the-oneplus-15s-camera-and-you-need-to-see-the-results/#ftag=CAD590a51e)
  - [Premier League Soccer: Livestream Nottingham Forest vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-man-united-from-anywhere/#ftag=CAD590a51e)
- - [Premier League Soccer: Livestream Burnley vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-burnley-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
- - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)
- - [Climate Change Made Hurricane Melissa 4 Times More Likely, Study Suggests](https://www.wired.com/story/climate-change-made-hurricane-melissa-four-times-more-likely-study-suggests/)<!-- TECH:END -->
+ - [Premier League Soccer: Livestream Burnley vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-burnley-vs-arsenal-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

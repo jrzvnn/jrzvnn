@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
- - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [The important questions must be asked.](http://9gag.com/gag/a2v9vGE)
- - 👉 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)<!-- MEMES:END -->
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
+ - 💣 [That hand....](http://9gag.com/gag/awyPyGQ)
+ - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [It has been 16 years\u2026.](http://9gag.com/gag/a34e1m5)
+ - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
  - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 😝 [Guy kills it on a guitar made of beer cans... Music and beer sounds good.](http://9gag.com/gag/apRz1Ab)
- - 👉 [I don&#39;t really blame her, considering how pathetic this was to begin with, but boy did it hurt](http://9gag.com/gag/a4Pmo1A)<!-- MEMES:END -->
+ - 😝 [It went from `phones are distracting` to `lets put several screens in the car for the driver`. And don&#39;t forget ADS systems: you&#39;re going 1 km over the speed limet *Beeeeeep*.](http://9gag.com/gag/a1mB7xD)
+ - 👉 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)<!-- MEMES:END -->
 
 ---
 

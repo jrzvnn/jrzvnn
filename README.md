@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Best Rain Jackets &lpar;2025&rpar;: Cheap, Eco-Friendly, Hiking, and Running](https://www.wired.com/story/best-rain-jackets/)
  - [MediaTek says it is on track to generate $1B in revenue from its data center AI accelerator ASIC chips in 2026, after reporting Q3 revenue up 7.8% YoY to $4.64B &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p10#a251101p10)
+ - [Galaxy S26 Rumor Roundup: Samsung Could Be Shaking Up Its Flagship](https://www.cnet.com/tech/mobile/galaxy-s26-rumor-roundup-samsung-may-be-shaking-up-its-lineup/#ftag=CAD590a51e)
  - [Man Jailed Over Trump Meme After Charlie Kirk&#39;s Shooting Has Finally Been Released](https://www.wired.com/story/man-jailed-over-trump-meme-after-charlie-kirks-shooting-has-finally-been-released/)
- - [You wish your phone had the Oppo Find X9 Pro&amp;#8217;s battery life](https://www.theverge.com/tech/808067/oppo-find-x9-pro-review)
- - [The Playdate is a great indie puzzle machine](https://www.theverge.com/games/811497/playdate-puzzle-game-reviews-lexgrid-togglebot-what-time-is-it)
- - [I Went Hands-On With the OnePlus 15&#39;s Camera and You Need to See the Results](https://www.cnet.com/tech/mobile/i-went-hands-on-with-the-oneplus-15s-camera-and-you-need-to-see-the-results/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You wish your phone had the Oppo Find X9 Pro&amp;#8217;s battery life](https://www.theverge.com/tech/808067/oppo-find-x9-pro-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

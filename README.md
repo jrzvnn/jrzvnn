@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 💣 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 👉 [Last scroll before soul disconnects](http://9gag.com/gag/aqyByop)<!-- MEMES:END -->
+ - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
+ - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
 
 ---
 

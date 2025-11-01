@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 💣 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
  - 😝 [Last scroll before soul disconnects](http://9gag.com/gag/aqyByop)
+ - 😝 [Best Picture award](http://9gag.com/gag/azxo2RK)
+ - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [Halloween](http://9gag.com/gag/azxox0p)
  - 👉 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)<!-- MEMES:END -->
 
 ---

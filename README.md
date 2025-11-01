@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 💣 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
+ - 😝 [That hand....](http://9gag.com/gag/awyPyGQ)
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)
+ - 👉 [Halloween](http://9gag.com/gag/azxox0p)<!-- MEMES:END -->
 
 ---
 

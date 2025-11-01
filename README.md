@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That hand....](http://9gag.com/gag/awyPyGQ)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 💣 [Crash test](http://9gag.com/gag/amoKoeo)
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
+ - 😝 [You can just do things &lpar;especially if you don&#39;t have that long to live&rpar;](http://9gag.com/gag/aXPQPGb)
+ - 😝 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)
+ - 💣 [The important questions must be asked.](http://9gag.com/gag/a2v9vGE)
+ - 😝 [9 gags WEF bot will agree](http://9gag.com/gag/apRz3mB)
+ - 👉 [Guy kills it on a guitar made of beer cans... Music and beer sounds good.](http://9gag.com/gag/apRz1Ab)<!-- MEMES:END -->
 
 ---
 

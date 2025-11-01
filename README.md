@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The White House says China has agreed to effectively end rare earth export controls issued in 2025 and 2022, and will also close probes of US chip companies &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/251101/p16#a251101p16)
- - [Q&amp;A with Sam Altman and Satya Nadella about the Microsoft-OpenAI partnership, OpenAI&#39;s restructuring and $100B revenue target for 2027, $3T AI buildout, more &lpar;@bg2pod&rpar;](http://www.techmeme.com/251101/p15#a251101p15)
- - [Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week](https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale)
- - [How to Watch Dodgers vs. Blue Jays World Series Game 7 Today](https://www.cnet.com/tech/services-and-software/how-to-watch-dodgers-vs-blue-jays-world-series-game-7-today/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Liverpool vs. Aston Villa Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-aston-villa-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 2 #609](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-2-609/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #875](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-875/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1597](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1597/#ftag=CAD590a51e)
+ - [Q&amp;A with Sam Altman and Satya Nadella about the Microsoft-OpenAI partnership, OpenAI&#39;s restructuring and $100B revenue target for 2027, $3T AI buildout, more &lpar;@bg2pod&rpar;](http://www.techmeme.com/251101/p15#a251101p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

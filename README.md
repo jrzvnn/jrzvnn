@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
- - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 💣 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
+ - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
+ - 😝 [This jelly cake is a masterpiece](http://9gag.com/gag/apRz9M5)
+ - 💣 [Using a robot for Halloween](http://9gag.com/gag/avy4ydZ)
+ - 😝 [Explaining basic economics to my wife](http://9gag.com/gag/aW4Pp8x)
+ - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 ---
 

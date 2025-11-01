@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 💣 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
- - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
+ - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 💣 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)
+ - 😝 [Job interviews be like](http://9gag.com/gag/avy4WG5)
+ - 👉 [Crash test](http://9gag.com/gag/amoKoeo)<!-- MEMES:END -->
 
 ---
 

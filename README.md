@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Google’s Pixel Watch 3 and Anker’s two-headed USB-C cable are our favorite deals this week](https://www.theverge.com/tech/811879/google-pixel-watch-3-anker-140w-usb-c-cable-deal-sale)
+ - [How to Watch Dodgers vs. Blue Jays World Series Game 7 Today](https://www.cnet.com/tech/services-and-software/how-to-watch-dodgers-vs-blue-jays-world-series-game-7-today/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Liverpool vs. Aston Villa Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-aston-villa-live-from-anywhere/#ftag=CAD590a51e)
  - [Ayaneo Phone confirmed in a teaser featuring retro Remake branding](https://www.theverge.com/news/812084/ayaneo-phone-confirmed-in-a-teaser-featuring-retro-remake-branding)
- - [Turkish state media reports that Faruk Fatih Ozer, the former CEO of failed crypto exchange Thodex, has been found dead in his prison cell &lpar;Baris Balci/Bloomberg&rpar;](http://www.techmeme.com/251101/p14#a251101p14)
- - [Epomaker Galaxy 68 review: Vanilla mechanical best skipped by Mac users](https://appleinsider.com/articles/25/11/01/epomaker-galaxy-68-review-vanilla-mechanical-best-skipped-by-mac-users?utm_source=rss)
- - [&#39;The Chair Company&#39;: When You Can Watch Episode 4](https://www.cnet.com/tech/services-and-software/the-chair-company-when-you-can-watch-episode-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Turkish state media reports that Faruk Fatih Ozer, the former CEO of failed crypto exchange Thodex, has been found dead in his prison cell &lpar;Baris Balci/Bloomberg&rpar;](http://www.techmeme.com/251101/p14#a251101p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How does he do it?](http://9gag.com/gag/aXPQLOb)
- - 😝 [Bet you didn&#39;t know &lpar;true mostly in rural zone like south Jutland, I&#39;ve been told&rpar;](http://9gag.com/gag/aVv4beM)
- - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
- - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [I don&#39;t know this actor but damn, he is good.](http://9gag.com/gag/aZZoZwz)
+ - 💣 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 😝 [Your death will be full of memories](http://9gag.com/gag/aO8A2Wy)
+ - 👉 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)<!-- MEMES:END -->
 
 ---
 

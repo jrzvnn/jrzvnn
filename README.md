@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lectric XP4 750 Electric Bike Review: The Best, Cheapest Ebike](https://www.wired.com/review/lectric-xp4-750-electric-bike/)
- - [What to Do in Portland, Oregon If You&#39;re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-portland-for-business-travelers/)
- - [Singapore seizes more than $115M in assets linked to Cambodia&#39;s Prince Group, which the US and UK accuse of stealing billions of dollars via online scam centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251101/p9#a251101p9)
- - [The 40 Best Movies on Netflix Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The ‘10 Martini’ Proof Connects Quantum Mechanics With Infinitely Intricate Mathematical Structures](https://www.wired.com/story/the-10-martini-proof-connects-quantum-mechanics-with-infinitely-intricate-mathematical-structures/)<!-- TECH:END -->
+ - [I Went Hands-On With the OnePlus 15&#39;s Camera and You Need to See the Results](https://www.cnet.com/tech/mobile/i-went-hands-on-with-the-oneplus-15s-camera-and-you-need-to-see-the-results/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Nottingham Forest vs. Man United From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-nottingham-forest-vs-man-united-from-anywhere/#ftag=CAD590a51e)
+ - [Premier League Soccer: Livestream Burnley vs. Arsenal From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-burnley-vs-arsenal-from-anywhere/#ftag=CAD590a51e)
+ - [The Best Golf Rangefinders &lpar;2025&rpar;](https://www.wired.com/gallery/best-golf-rangefinders/)
+ - [Climate Change Made Hurricane Melissa 4 Times More Likely, Study Suggests](https://www.wired.com/story/climate-change-made-hurricane-melissa-four-times-more-likely-study-suggests/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

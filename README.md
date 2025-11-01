@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 💣 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
  - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
- - 👉 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)<!-- MEMES:END -->
+ - 👉 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)<!-- MEMES:END -->
 
 ---
 

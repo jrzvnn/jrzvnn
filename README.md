@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mumbai-based Snapmint, a BNPL partner to brands that lets consumers pay in monthly instalments via India&#39;s UPI, raised a $125M Series B led by General Atlantic &lpar;Shashank Pathak/Entrackr&rpar;](http://www.techmeme.com/251101/p1#a251101p1)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-1/#ftag=CAD590a51e)
  - [Tech companies, including Meta and xAI, are using SPVs to raise tens of billions for AI data centers, letting them keep the debt off their balance sheets &lpar;Carmen Arroyo/Bloomberg&rpar;](http://www.techmeme.com/251031/p25#a251031p25)
  - [Kim Kardashian Denies the Moon Landing and NASA Corrects Her Publicly](https://www.cnet.com/science/kim-kardashian-denies-the-moon-landing-and-nasa-corrects-her-publicly/#ftag=CAD590a51e)
- - [At TwitchCon, I Learned the Secret of Why Some Twitch Games Become Smash Hits](https://www.cnet.com/tech/services-and-software/at-twitchcon-i-learned-the-secret-of-why-some-twitch-games-become-smash-hits/#ftag=CAD590a51e)
- - [New York-based Kaizen, which provides a commerce platform for government agencies to offer services like utility billing, raised a $21M Series A led by NEA &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251031/p24#a251031p24)<!-- TECH:END -->
+ - [At TwitchCon, I Learned the Secret of Why Some Twitch Games Become Smash Hits](https://www.cnet.com/tech/services-and-software/at-twitchcon-i-learned-the-secret-of-why-some-twitch-games-become-smash-hits/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Great Tree Test: Best Artificial Christmas Trees 2025](https://www.wired.com/gallery/best-fake-christmas-trees/)
- - [Peacock: 13 of the Best Movies to Stream Right Now](https://www.cnet.com/culture/entertainment/peacock-best-movies-2025/#ftag=CAD590a51e)
- - [All the Upgrades Your iPhone&#39;s Music App Got With iOS 26](https://www.cnet.com/tech/services-and-software/all-the-upgrades-your-iphones-music-app-got-with-ios-26/#ftag=CAD590a51e)
  - [Gear News of the Week: Withings Launches Its Pee Scanner, and Samsung Shows Off a Trifold Phone](https://www.wired.com/story/gear-news-of-the-week-withings-launches-its-pee-scanner-and-samsung-shows-off-a-trifold-phone/)
- - [Man Jailed Over Trump Meme After Charlie Kirk’s Shooting Has Finally Been Released](https://www.wired.com/story/man-jailed-over-trump-meme-after-charlie-kirks-shooting-has-finally-been-released/)<!-- TECH:END -->
+ - [Man Jailed Over Trump Meme After Charlie Kirk’s Shooting Has Finally Been Released](https://www.wired.com/story/man-jailed-over-trump-meme-after-charlie-kirks-shooting-has-finally-been-released/)
+ - [China says it will allow some Nexperia semiconductor chip exports to resume to ease critical supply shortages impacting global auto production &lpar;Financial Times&rpar;](http://www.techmeme.com/251101/p8#a251101p8)
+ - [You Can Officially Stop Stressing About Your Protein Intake. An Expert Explains Why.](https://www.cnet.com/health/nutrition/you-can-officially-stop-stressing-about-your-protein-intake-an-expert-explains-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

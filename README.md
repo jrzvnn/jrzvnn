@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
  - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
  - 💣 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)
  - 😝 [Well done Japan](http://9gag.com/gag/an78O5z)
- - 👉 [Hummm...](http://9gag.com/gag/aE0yqj9)<!-- MEMES:END -->
+ - 👉 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)<!-- MEMES:END -->
 
 ---
 

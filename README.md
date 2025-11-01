@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 😝 [This jelly cake is a masterpiece](http://9gag.com/gag/apRz9M5)
- - 💣 [Using a robot for Halloween](http://9gag.com/gag/avy4ydZ)
- - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
- - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
+ - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [Guy kills it on a guitar made of beer cans... Music and beer sounds good.](http://9gag.com/gag/apRz1Ab)
+ - 👉 [I don&#39;t really blame her, considering how pathetic this was to begin with, but boy did it hurt](http://9gag.com/gag/a4Pmo1A)<!-- MEMES:END -->
 
 ---
 

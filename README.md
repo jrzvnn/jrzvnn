@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 💣 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 😝 [Well done Japan](http://9gag.com/gag/an78O5z)
- - 👉 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)<!-- MEMES:END -->
+ - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 💣 [Hummm...](http://9gag.com/gag/aE0yqj9)
+ - 😝 [The important questions must be asked.](http://9gag.com/gag/a2v9vGE)
+ - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
 
 ---
 

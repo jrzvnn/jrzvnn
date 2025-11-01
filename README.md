@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to Do in Portland, Oregon If You&#39;re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-portland-for-business-travelers/)
  - [Singapore seizes more than $115M in assets linked to Cambodia&#39;s Prince Group, which the US and UK accuse of stealing billions of dollars via online scam centers &lpar;Bloomberg&rpar;](http://www.techmeme.com/251101/p9#a251101p9)
  - [The ‘10 Martini’ Proof Connects Quantum Mechanics With Infinitely Intricate Mathematical Structures](https://www.wired.com/story/the-10-martini-proof-connects-quantum-mechanics-with-infinitely-intricate-mathematical-structures/)
  - [The 20 Best Movies on Amazon Prime Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
- - [The 40 Best Movies on Netflix Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 40 Best Shows on Netflix Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)<!-- TECH:END -->
+ - [The 40 Best Movies on Netflix Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

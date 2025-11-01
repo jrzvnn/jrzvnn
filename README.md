@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Anduril conducts the first flight of its jet-powered unmanned drone, flying it &quot;semi-autonomously&quot;, as the US Air Force plans swarms of unmanned jet drones &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/251101/p13#a251101p13)
+ - [When to Stream &#39;Freakier Friday&#39; on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-stream-freakier-friday-on-disney-plus/#ftag=CAD590a51e)
  - [ESPN plans to make its College Gameday telecast available on host Pat McAfee&#39;s X account, as Disney and YouTube TV continue to spar over a new carriage deal &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/251101/p12#a251101p12)
- - [A profile of AI contractor marketplace Mercor, which is valued at $10B and whose three 22-year-old founders are Thiel Fellows, each holding a roughly 22% stake &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251101/p11#a251101p11)
- - [35 Best Family Board Games &lpar;2025&rpar;: Catan, Ticket to Ride, Codenames](https://www.wired.com/gallery/best-family-board-games/)
- - [LG’s brilliant B5 OLED TV is already down to just $530 for Black Friday](https://www.theverge.com/tech/811935/lg-b5-oled-tv-black-friday-doorbuster-deal-sale)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Tottenham vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
+ - [A profile of AI contractor marketplace Mercor, which is valued at $10B and whose three 22-year-old founders are Thiel Fellows, each holding a roughly 22% stake &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251101/p11#a251101p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

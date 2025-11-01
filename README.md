@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
  - 💣 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)
- - 😝 [Job interviews be like](http://9gag.com/gag/avy4WG5)
- - 👉 [Crash test](http://9gag.com/gag/amoKoeo)<!-- MEMES:END -->
+ - 😝 [Well done Japan](http://9gag.com/gag/an78O5z)
+ - 👉 [Hummm...](http://9gag.com/gag/aE0yqj9)<!-- MEMES:END -->
 
 ---
 

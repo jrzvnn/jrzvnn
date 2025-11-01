@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You ever had a day in your life where everything is calm and peaceful? Remembering those days and smiling yourself out? Have some feelings. - Futurama.](http://9gag.com/gag/aXPQn6d)
- - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
- - 💣 [Wombats](http://9gag.com/gag/aE0y0xp)
- - 😝 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)
- - 👉 [This jelly cake is a masterpiece](http://9gag.com/gag/apRz9M5)<!-- MEMES:END -->
+ - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 💣 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
+ - 😝 [Halloween](http://9gag.com/gag/azxox0p)
+ - 👉 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)<!-- MEMES:END -->
 
 ---
 

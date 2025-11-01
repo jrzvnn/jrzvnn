@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [China says it will allow some Nexperia semiconductor chip exports to resume to ease critical supply shortages impacting global auto production &lpar;Financial Times&rpar;](http://www.techmeme.com/251101/p8#a251101p8)
+ - [You Can Officially Stop Stressing About Your Protein Intake. An Expert Explains Why.](https://www.cnet.com/health/nutrition/you-can-officially-stop-stressing-about-your-protein-intake-an-expert-explains-why/#ftag=CAD590a51e)
  - [Wireless Charging a 2026 Porsche Cayenne Electric](https://www.wired.com/story/porsche-cayenne-ev-wireless-charging-wont-fry-your-cat/)
- - [Nvidia says it will supply 260K+ of its most advanced AI chips to the South Korean government and major companies, including Samsung, Naver, and SK Group &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p7#a251101p7)
- - [A $20K Humanoid Robot to Help Around the House? The Price Isn&#39;t the Only Caveat](https://www.cnet.com/tech/a-20k-humanoid-robot-to-help-around-the-house-the-price-isnt-the-only-caveat/#ftag=CAD590a51e)
- - [Despite the hype around large AI models, many companies like Meta are using small models for routine tasks, finding them more practical and cost-effective &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251101/p6#a251101p6)<!-- TECH:END -->
+ - [Sora 2 App Is Open to All in the US and Others ... No Invite Code Required](https://www.cnet.com/tech/services-and-software/sora-2-app-is-now-open-to-all-in-the-us-no-invite-code-needed/#ftag=CAD590a51e)
+ - [Nvidia says it will supply 260K+ of its most advanced AI chips to the South Korean government and major companies, including Samsung, Naver, and SK Group &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p7#a251101p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

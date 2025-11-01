@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
  - 😝 [Hummm...](http://9gag.com/gag/aE0yqj9)
- - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
- - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 💣 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
+ - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
  - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
 
 ---

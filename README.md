@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 😝 [Dark oil ships transferring oil](http://9gag.com/gag/aRB9rMB)
- - 💣 [Last scroll before soul disconnects](http://9gag.com/gag/aqyByop)
+ - 😝 [You ever had a day in your life where everything is calm and peaceful? Remembering those days and smiling yourself out? Have some feelings. - Futurama.](http://9gag.com/gag/aXPQn6d)
+ - 😝 [Bread? Why does my tummy hurts?](http://9gag.com/gag/aqyBeGM)
+ - 💣 [Wombats](http://9gag.com/gag/aE0y0xp)
  - 😝 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)
- - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
+ - 👉 [This jelly cake is a masterpiece](http://9gag.com/gag/apRz9M5)<!-- MEMES:END -->
 
 ---
 

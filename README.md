@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia says it will supply 260K+ of its most advanced AI chips to the South Korean government and major companies, including Samsung, Naver, and SK Group &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p7#a251101p7)
+ - [A $20K Humanoid Robot to Help Around the House? The Price Isn&#39;t the Only Caveat](https://www.cnet.com/tech/a-20k-humanoid-robot-to-help-around-the-house-the-price-isnt-the-only-caveat/#ftag=CAD590a51e)
  - [Despite the hype around large AI models, many companies like Meta are using small models for routine tasks, finding them more practical and cost-effective &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/251101/p6#a251101p6)
  - [Shares of Seagate and Western Digital have sharply outperformed the broader market in 2025, surging ~200% on AI-related infrastructure demand for hard drives &lpar;Shashwat Chauhan/Reuters&rpar;](http://www.techmeme.com/251101/p5#a251101p5)
- - [Vista Equity Partners buys a majority stake in Nexthink, which uses AI to let businesses track employees&#39; device and app performance, valuing Nexthink at $3B &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/251101/p4#a251101p4)
- - [Vodafone agrees to acquire Skaylink, a German company specializing in managing cloud deployments on Microsoft Azure and AWS, for €175M from PE firm Waterland &lpar;Yamini Kalia/Reuters&rpar;](http://www.techmeme.com/251101/p3#a251101p3)
- - [NEC to buy US-listed CSG, a SaaS provider of customer care and billing services for telcos and other companies, for ~$2.9B in a deal expected to close in 2026 &lpar;Mayumi Negishi/Bloomberg&rpar;](http://www.techmeme.com/251101/p2#a251101p2)<!-- TECH:END -->
+ - [Vista Equity Partners buys a majority stake in Nexthink, which uses AI to let businesses track employees&#39; device and app performance, valuing Nexthink at $3B &lpar;Paula Doenecke/Bloomberg&rpar;](http://www.techmeme.com/251101/p4#a251101p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

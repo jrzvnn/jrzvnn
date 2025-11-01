@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Leo just playing himself on screen](http://9gag.com/gag/azxoeyx)
- - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
- - 💣 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
- - 😝 [The important questions must be asked.](http://9gag.com/gag/a2v9vGE)
+ - 😝 [Who\u2019s gonna tell him](http://9gag.com/gag/aQzBXAe)
+ - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
+ - 💣 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
  - 👉 [Last scroll before soul disconnects](http://9gag.com/gag/aqyByop)<!-- MEMES:END -->
 
 ---

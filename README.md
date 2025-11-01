@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 😝 [That hand....](http://9gag.com/gag/awyPyGQ)
+ - 😝 [Pov: How did you get here for so long?](http://9gag.com/gag/agm6oy1)
  - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
  - 😝 [It went from `phones are distracting` to `lets put several screens in the car for the driver`. And don&#39;t forget ADS systems: you&#39;re going 1 km over the speed limet *Beeeeeep*.](http://9gag.com/gag/a1mB7xD)
  - 👉 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)<!-- MEMES:END -->

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That hand....](http://9gag.com/gag/awyPyGQ)
- - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
- - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 😝 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)
- - 👉 [Halloween](http://9gag.com/gag/azxox0p)<!-- MEMES:END -->
+ - 😝 [I don&#39;t know this actor but damn, he is good.](http://9gag.com/gag/aZZoZwz)
+ - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 💣 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)
+ - 😝 [You can just do things &lpar;especially if you don&#39;t have that long to live&rpar;](http://9gag.com/gag/aXPQPGb)
+ - 👉 [You\u2019re seeing a perspective few ever witness, a Boeing 747 slicing through the sky at 900 km/h &lpar;560 mph&rpar;.](http://9gag.com/gag/aQzBgVW)<!-- MEMES:END -->
 
 ---
 

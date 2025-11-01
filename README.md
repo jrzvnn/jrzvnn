@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Man Jailed Over Trump Meme After Charlie Kirk’s Shooting Has Finally Been Released](https://www.wired.com/story/man-jailed-over-trump-meme-after-charlie-kirks-shooting-has-finally-been-released/)
  - [China says it will allow some Nexperia semiconductor chip exports to resume to ease critical supply shortages impacting global auto production &lpar;Financial Times&rpar;](http://www.techmeme.com/251101/p8#a251101p8)
  - [You Can Officially Stop Stressing About Your Protein Intake. An Expert Explains Why.](https://www.cnet.com/health/nutrition/you-can-officially-stop-stressing-about-your-protein-intake-an-expert-explains-why/#ftag=CAD590a51e)
  - [Wireless Charging a 2026 Porsche Cayenne Electric](https://www.wired.com/story/porsche-cayenne-ev-wireless-charging-wont-fry-your-cat/)
- - [Sora 2 App Is Open to All in the US and Others ... No Invite Code Required](https://www.cnet.com/tech/services-and-software/sora-2-app-is-now-open-to-all-in-the-us-no-invite-code-needed/#ftag=CAD590a51e)
- - [Nvidia says it will supply 260K+ of its most advanced AI chips to the South Korean government and major companies, including Samsung, Naver, and SK Group &lpar;Reuters&rpar;](http://www.techmeme.com/251101/p7#a251101p7)<!-- TECH:END -->
+ - [Sora 2 App Is Open to All in the US and Others ... No Invite Code Required](https://www.cnet.com/tech/services-and-software/sora-2-app-is-now-open-to-all-in-the-us-no-invite-code-needed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

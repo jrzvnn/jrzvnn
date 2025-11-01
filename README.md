@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
+ - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 💣 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
  - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [I don&#39;t know this actor but damn, he is good.](http://9gag.com/gag/aZZoZwz)
- - 💣 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
- - 😝 [Your death will be full of memories](http://9gag.com/gag/aO8A2Wy)
- - 👉 [At a pet store, two polite dogs are offered treats by a friendly employee. Instead of immediately snatching them, they both look up at their owner with the sweetest, most patient expressions, waiting for permission.](http://9gag.com/gag/a7oPoR2)<!-- MEMES:END -->
+ - 👉 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)<!-- MEMES:END -->
 
 ---
 

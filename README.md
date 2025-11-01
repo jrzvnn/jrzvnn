@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epomaker Galaxy 68 review: Vanilla mechanical best skipped by Mac users](https://appleinsider.com/articles/25/11/01/epomaker-galaxy-68-review-vanilla-mechanical-best-skipped-by-mac-users?utm_source=rss)
+ - [&#39;The Chair Company&#39;: When You Can Watch Episode 4](https://www.cnet.com/tech/services-and-software/the-chair-company-when-you-can-watch-episode-4/#ftag=CAD590a51e)
  - [Anduril conducts the first flight of its jet-powered unmanned drone, flying it &quot;semi-autonomously&quot;, as the US Air Force plans swarms of unmanned jet drones &lpar;David Jeans/Reuters&rpar;](http://www.techmeme.com/251101/p13#a251101p13)
  - [When to Stream &#39;Freakier Friday&#39; on Disney Plus](https://www.cnet.com/tech/services-and-software/when-to-stream-freakier-friday-on-disney-plus/#ftag=CAD590a51e)
- - [ESPN plans to make its College Gameday telecast available on host Pat McAfee&#39;s X account, as Disney and YouTube TV continue to spar over a new carriage deal &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/251101/p12#a251101p12)
- - [Premier League Soccer: Stream Tottenham vs. Chelsea Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-chelsea-live-from-anywhere/#ftag=CAD590a51e)
- - [A profile of AI contractor marketplace Mercor, which is valued at $10B and whose three 22-year-old founders are Thiel Fellows, each holding a roughly 22% stake &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251101/p11#a251101p11)<!-- TECH:END -->
+ - [ESPN plans to make its College Gameday telecast available on host Pat McAfee&#39;s X account, as Disney and YouTube TV continue to spar over a new carriage deal &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/251101/p12#a251101p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

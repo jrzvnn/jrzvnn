@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why the Zune never killed the iPod](https://www.theverge.com/podcast/811595/microsoft-zune-version-history)
  - [A profile of David Bailey, Trump&#39;s informal crypto advisor who organizes the Bitcoin Conference, as he seeks to turn a Utah health clinic into a bitcoin bank &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251102/p6#a251102p6)
+ - [&#39;Tracker&#39; Season 3 Release Schedule: How to Stream Episode 3](https://www.cnet.com/tech/services-and-software/tracker-season-3-release-schedule-how-to-stream-episode-3/#ftag=CAD590a51e)
  - [LiberNovo Omni Review: A Motorized Office Chair](https://www.wired.com/review/libernovo-omni/)
- - [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep)
- - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2025&rpar;](https://www.wired.com/gallery/best-hybrid-mattress/)
- - [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown)<!-- TECH:END -->
+ - [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Is Cold Plunging Good for You? &lpar;2025&rpar;](https://www.wired.com/story/is-cold-plunging-good-for-you/)
  - [AI browsers can bypass some paywalls; OpenAI&#39;s Atlas seems to avoid content from companies suing OpenAI, providing summaries or alternate reporting instead &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/251102/p5#a251102p5)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 2 #609](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-2-609/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #875](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-875/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1597](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1597/#ftag=CAD590a51e)
- - [Here&#39;s What Azteca Stadium Will Look Like for the 2026 World Cup](https://www.wired.com/story/heres-what-estadio-azteca-will-look-like-for-the-2026-world-cup/)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1597](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1597/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
- - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
- - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 😝 [Black rock company got scammed by Indian guy he stole 500 million from the company and escaped to India](http://9gag.com/gag/a4PmPjv)
+ - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [Drunk talent](http://9gag.com/gag/a6Z4XEe)
+ - 👉 [Halloween](http://9gag.com/gag/azxox0p)<!-- MEMES:END -->
 
 ---
 

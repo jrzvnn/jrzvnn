@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 💣 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)
+ - 😝 [That man is a mountain](http://9gag.com/gag/awyP3xW)
+ - 😝 [Another black day](http://9gag.com/gag/a87QmE1)
+ - 💣 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
  - 😝 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
- - 👉 [That man is a mountain](http://9gag.com/gag/awyP3xW)<!-- MEMES:END -->
+ - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
 
 ---
 

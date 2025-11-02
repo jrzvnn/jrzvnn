@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)
- - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
  - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
  - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 👉 [Drunk talent](http://9gag.com/gag/a6Z4XEe)<!-- MEMES:END -->
+ - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
 
 ---
 

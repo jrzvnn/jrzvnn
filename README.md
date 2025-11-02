@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
  - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
  - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
- - 👉 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)<!-- MEMES:END -->
+ - 😝 [Ending doesn&#39;t disappoint](http://9gag.com/gag/aByj6eN)
+ - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
  - [Online harassers are using AI tools to create more realistic death threats, posting hyper-realistic AI-generated images and sounds to social media platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/251102/p7#a251102p7)
  - [5 Best Live TV Streaming Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-live-tv-streaming-services/)
  - [Why the Zune never killed the iPod](https://www.theverge.com/podcast/811595/microsoft-zune-version-history)
- - [Porsche Has Released Its First All-Electric Macan GTS. How Fast Does It Go?](https://www.cnet.com/roadshow/news/porsche-has-released-its-first-all-electric-macan-gts-how-fast-does-it-go/#ftag=CAD590a51e)
- - [A profile of David Bailey, Trump&#39;s informal crypto advisor who organizes the Bitcoin Conference, as he seeks to turn a Utah health clinic into a bitcoin bank &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251102/p6#a251102p6)<!-- TECH:END -->
+ - [Porsche Has Released Its First All-Electric Macan GTS. How Fast Does It Go?](https://www.cnet.com/roadshow/news/porsche-has-released-its-first-all-electric-macan-gts-how-fast-does-it-go/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

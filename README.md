@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 😝 [Run](http://9gag.com/gag/a87Qmj3)
- - 💣 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
+ - 😝 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)
+ - 💣 [Balkan people: `They will never invent a robot which can replace us. We are to unique.` The robot:](http://9gag.com/gag/a87QmM3)
  - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
  - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 

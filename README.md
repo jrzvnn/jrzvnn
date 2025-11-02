@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 💣 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
- - 😝 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)
+ - 😝 [Steak level : titanium](http://9gag.com/gag/aPAzx0g)
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 💣 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)
+ - 😝 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
  - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---

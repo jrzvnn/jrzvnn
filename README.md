@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Job listings show AI groups like OpenAI, Anthropic, and Cohere have stepped up hiring for forward-deployed engineers to help businesses adopt their AI models &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p10#a251102p10)
+ - [Sunday Night Football: How to Watch Seahawks vs. Commanders Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-seahawks-vs-commanders-tonight/#ftag=CAD590a51e)
+ - [HBO Max: The 25 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-nov-2025/#ftag=CAD590a51e)
  - [Israel unveils tax incentives to reverse tech brain drain that increased during the war in Gaza and tax breaks for investors in Israeli funds and tech firms &lpar;James Shotter/Financial Times&rpar;](http://www.techmeme.com/251102/p9#a251102p9)
- - [You need to watch the found footage classic, Lake Mungo](https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo)
- - [An Italian law requiring porn sites, including Pornhub, YouPorn, and OnlyFans, to verify the ages of their users will go into effect on November 12 &lpar;Jackson Chen/Engadget&rpar;](http://www.techmeme.com/251102/p8#a251102p8)
- - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
- - [Online harassers are using AI tools to create more realistic death threats, posting hyper-realistic AI-generated images and sounds to social media platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/251102/p7#a251102p7)<!-- TECH:END -->
+ - [You need to watch the found footage classic, Lake Mungo](https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

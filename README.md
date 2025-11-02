@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daylight Saving Time Ended Today. Why Clocks Went Back an Hour](https://www.cnet.com/health/daylight-saving-time-ended-today-why-clocks-went-back-an-hour/#ftag=CAD590a51e)
+ - [Am I Eating Plastic? 4 Kitchen Items That May Be Filling My Food With Microplastics](https://www.cnet.com/health/am-i-eating-plastic-4-kitchen-items-that-may-be-filling-my-food-with-microplastics/#ftag=CAD590a51e)
  - [Copenhagen-based Formalize, whose compliance software serves organizations in 80+ countries, raised a €30M Series B co-led by Acton Capital and Blackfin Tech &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251102/p3#a251102p3)
  - [Nexperia&#39;s China unit says it has &quot;sufficient inventories&quot; to sustain order fulfillment &quot;through year-end and beyond&quot;, after the parent suspended wafer supplies &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p2#a251102p2)
- - [Analysis: sports volumes on Kalshi approach $1B a week, with open interest in sports contracts regularly above $100M, significantly higher than other categories &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p4#a251102p4)
- - [How the Venezuelan government is using crypto and stablecoins like USDT to manage the downturn; Venezuela sells most of its oil to China and is paid in crypto &lpar;Anatoly Kurmanaev/New York Times&rpar;](http://www.techmeme.com/251102/p1#a251102p1)
- - [Apple Watch Ultra 3 falls to best $699 price with early Black Friday deal](https://appleinsider.com/articles/25/11/02/apple-watch-ultra-3-falls-to-best-699-price-with-early-black-friday-deal?utm_source=rss)<!-- TECH:END -->
+ - [Analysis: sports volumes on Kalshi approach $1B a week, with open interest in sports contracts regularly above $100M, significantly higher than other categories &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p4#a251102p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

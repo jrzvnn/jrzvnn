@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 💣 [Is this a good solution for pickpockets?](http://9gag.com/gag/aqyB8rv)
  - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 💣 [His name is Jenner](http://9gag.com/gag/amoK1W4)
- - 😝 [Run](http://9gag.com/gag/a87Qmj3)
- - 👉 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)<!-- MEMES:END -->
+ - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
 
 ---
 

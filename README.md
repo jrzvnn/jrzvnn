@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
- - 😝 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
- - 💣 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)
- - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
- - 👉 [Ricky knows](http://9gag.com/gag/aW4P73x)<!-- MEMES:END -->
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 💣 [That man is a mountain](http://9gag.com/gag/awyP3xW)
+ - 😝 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
+ - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 ---
 

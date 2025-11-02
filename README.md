@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AI browsers can bypass some paywalls; OpenAI&#39;s Atlas seems to avoid content from companies suing OpenAI, providing summaries or alternate reporting instead &lpar;Columbia Journalism Review&rpar;](http://www.techmeme.com/251102/p5#a251102p5)
- - [Here&#39;s What Azteca Stadium Will Look Like for the 2026 World Cup](https://www.wired.com/story/heres-what-estadio-azteca-will-look-like-for-the-2026-world-cup/)
- - [Daylight Saving Time Ended Today. Why Clocks Went Back an Hour](https://www.cnet.com/health/daylight-saving-time-ended-today-why-clocks-went-back-an-hour/#ftag=CAD590a51e)
- - [Am I Eating Plastic? 4 Kitchen Items That May Be Filling My Food With Microplastics](https://www.cnet.com/health/am-i-eating-plastic-4-kitchen-items-that-may-be-filling-my-food-with-microplastics/#ftag=CAD590a51e)
- - [Copenhagen-based Formalize, whose compliance software serves organizations in 80+ countries, raised a €30M Series B co-led by Acton Capital and Blackfin Tech &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251102/p3#a251102p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 2 #609](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-2-609/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 2, #875](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-2-875/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 2, #1597](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-2-1597/#ftag=CAD590a51e)
+ - [Here&#39;s What Azteca Stadium Will Look Like for the 2026 World Cup](https://www.wired.com/story/heres-what-estadio-azteca-will-look-like-for-the-2026-world-cup/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

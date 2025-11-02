@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: California Highway Patrol finds $200,000 in stolen Apple products](https://appleinsider.com/articles/25/11/02/crime-blotter-california-highway-patrol-finds-200000-in-stolen-apple-products?utm_source=rss)
+ - [Aura Ink Review &lpar;2025&rpar;: Newspaper-Style Realism](https://www.wired.com/review/aura-ink/)
  - [What to Do in Austin if You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-austin-for-business-travelers/)
  - [Physicists Create a Thermometer for Measuring ‘Quantumness’](https://www.wired.com/story/physicists-create-a-thermometer-for-measuring-quantumness/)
- - [Best Home Pet Cams of 2025: Tested with Our Pets](https://www.cnet.com/home/security/best-home-pet-cams/#ftag=CAD590a51e)
- - [Ray-Ban Meta Gen 2 Review: Upgraded Glasses, Bad Vibes](https://www.wired.com/review/ray-ban-meta-gen-2-glasses/)
- - [November Nights Will Dazzle with Three Meteor Showers. Here&#39;s How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-will-dazzle-with-three-meteor-showers-heres-how-to-watch-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Home Pet Cams of 2025: Tested with Our Pets](https://www.cnet.com/home/security/best-home-pet-cams/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

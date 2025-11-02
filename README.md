@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
+ - 😝 [She&#39;s not so bad herself..](http://9gag.com/gag/aAyqyDR)
  - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
+ - 💣 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
  - 😝 [Ending doesn&#39;t disappoint](http://9gag.com/gag/aByj6eN)
- - 👉 [Crash test](http://9gag.com/gag/amoKoeo)<!-- MEMES:END -->
+ - 👉 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)<!-- MEMES:END -->
 
 ---
 

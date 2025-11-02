@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Machine gunner&#39;s wet dream](http://9gag.com/gag/aND8966)
  - 😝 [Those are not rookie numbers](http://9gag.com/gag/a87QAKY)
- - 💣 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 😝 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)
- - 👉 [Wait for it](http://9gag.com/gag/azxox5j)<!-- MEMES:END -->
+ - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
+ - 💣 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
 
 ---
 

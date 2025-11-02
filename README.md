@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Job listings show AI groups like OpenAI, Anthropic, and Cohere have stepped up hiring for forward-deployed engineers to help businesses adopt their AI models &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p10#a251102p10)
- - [Sunday Night Football: How to Watch Seahawks vs. Commanders Tonight](https://www.cnet.com/tech/services-and-software/sunday-night-football-how-to-watch-seahawks-vs-commanders-tonight/#ftag=CAD590a51e)
- - [HBO Max: The 25 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-hbo-max-nov-2025/#ftag=CAD590a51e)
- - [Israel unveils tax incentives to reverse tech brain drain that increased during the war in Gaza and tax breaks for investors in Israeli funds and tech firms &lpar;James Shotter/Financial Times&rpar;](http://www.techmeme.com/251102/p9#a251102p9)
- - [You need to watch the found footage classic, Lake Mungo](https://www.theverge.com/column/812150/watch-the-found-footage-classic-horror-mokumentary-lake-mungo)<!-- TECH:END -->
+ - [Save up to 57% with the best early Black Friday deals on Apple](https://appleinsider.com/articles/25/11/02/save-up-to-57-with-the-best-early-black-friday-deals-on-apple?utm_source=rss)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 3 #610](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-3-610/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 3, #876](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-3-876/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 3, #1598](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-3-1598/#ftag=CAD590a51e)
+ - [Job listings show AI groups like OpenAI, Anthropic, and Cohere have stepped up hiring for forward-deployed engineers to help businesses adopt their AI models &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p10#a251102p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

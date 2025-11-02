@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
  - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
  - 💣 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
+ - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
  - 👉 [Wait for it](http://9gag.com/gag/azxox5j)<!-- MEMES:END -->
 
 ---

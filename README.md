@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not revolutionary. Chris Rock posted `How not to get your ass kicked by the police!`, 18 years ago &lpar;google it&rpar;. Father of boys here; it turns out it was great advice and most of the time they got warnings vs tickets . . . and zero ass kicking&#39;s by the police.](http://9gag.com/gag/aGy6n20)
- - 😝 [His name is Jenner](http://9gag.com/gag/amoK1W4)
- - 💣 [Just a repost from the good times](http://9gag.com/gag/avy41eM)
- - 😝 [Balkan people: `They will never invent a robot which can replace us. We are to unique.` The robot:](http://9gag.com/gag/a87QmM3)
- - 👉 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)<!-- MEMES:END -->
+ - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
+ - 😝 [Learn from the mistakes others](http://9gag.com/gag/aGy6LP0)
+ - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 👉 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keychron Q16 HE 8K Review: Premium ceramic feel is great, just wired is not](https://appleinsider.com/articles/25/11/02/keychron-q16-he-8k-review-premium-ceramic-feel-is-great-just-wired-is-not?utm_source=rss)
+ - [Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/251102/p11#a251102p11)
  - [Save up to 57% with the best early Black Friday deals on Apple](https://appleinsider.com/articles/25/11/02/save-up-to-57-with-the-best-early-black-friday-deals-on-apple?utm_source=rss)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 3 #610](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-3-610/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 3, #876](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-3-876/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 3, #1598](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-3-1598/#ftag=CAD590a51e)
- - [Job listings show AI groups like OpenAI, Anthropic, and Cohere have stepped up hiring for forward-deployed engineers to help businesses adopt their AI models &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p10#a251102p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 3, #876](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-3-876/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

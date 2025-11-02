@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [5 Best Live TV Streaming Services &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-live-tv-streaming-services/)
  - [Why the Zune never killed the iPod](https://www.theverge.com/podcast/811595/microsoft-zune-version-history)
- - [Porsche Has Released Its First All-Electric Macan GTS. How Fast Does It Go?](https://www.cnet.com/roadshow/news/porsche-has-released-its-first-all-electric-macan-gts-how-fast-does-it-go/#ftag=CAD590a51e)
  - [A profile of David Bailey, Trump&#39;s informal crypto advisor who organizes the Bitcoin Conference, as he seeks to turn a Utah health clinic into a bitcoin bank &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251102/p6#a251102p6)
- - [&#39;Tracker&#39; Season 3 Release Schedule: How to Stream Episode 3](https://www.cnet.com/tech/services-and-software/tracker-season-3-release-schedule-how-to-stream-episode-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Tracker&#39; Season 3 Release Schedule: How to Stream Episode 3](https://www.cnet.com/tech/services-and-software/tracker-season-3-release-schedule-how-to-stream-episode-3/#ftag=CAD590a51e)
+ - [LiberNovo Omni Review: A Motorized Office Chair](https://www.wired.com/review/libernovo-omni/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

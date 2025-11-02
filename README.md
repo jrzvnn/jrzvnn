@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 💣 [Those are not rookie numbers](http://9gag.com/gag/a87QAKY)
+ - 😝 [Machine gunner&#39;s wet dream](http://9gag.com/gag/aND8966)
+ - 😝 [Those are not rookie numbers](http://9gag.com/gag/a87QAKY)
+ - 💣 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
  - 😝 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)
- - 👉 [Halloween](http://9gag.com/gag/azxox0p)<!-- MEMES:END -->
+ - 👉 [Wait for it](http://9gag.com/gag/azxox5j)<!-- MEMES:END -->
 
 ---
 

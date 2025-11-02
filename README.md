@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Copenhagen-based Formalize, whose compliance software serves organizations in 80+ countries, raised a €30M Series B co-led by Acton Capital and Blackfin Tech &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251102/p3#a251102p3)
- - [Apple Watch Ultra 3 falls to best $699 price with early Black Friday deal](https://appleinsider.com/articles/25/11/02/apple-watch-ultra-3-falls-to-best-699-price-with-early-black-friday-deal?utm_source=rss)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 2, #405](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-2-405/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-2/#ftag=CAD590a51e)
- - [Nexperia&#39;s China unit says it has &quot;sufficient inventories&quot; to sustain order fulfillment &quot;through year-end and beyond&quot;, after the parent suspended wafer supplies &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p2#a251102p2)<!-- TECH:END -->
+ - [Nexperia&#39;s China unit says it has &quot;sufficient inventories&quot; to sustain order fulfillment &quot;through year-end and beyond&quot;, after the parent suspended wafer supplies &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p2#a251102p2)
+ - [Analysis: sports volumes on Kalshi approach $1B a week, with open interest in sports contracts regularly above $100M, significantly higher than other categories &lpar;Financial Times&rpar;](http://www.techmeme.com/251102/p4#a251102p4)
+ - [How the Venezuelan government is using crypto and stablecoins like USDT to manage the downturn; Venezuela sells most of its oil to China and is paid in crypto &lpar;Anatoly Kurmanaev/New York Times&rpar;](http://www.techmeme.com/251102/p1#a251102p1)
+ - [Apple Watch Ultra 3 falls to best $699 price with early Black Friday deal](https://appleinsider.com/articles/25/11/02/apple-watch-ultra-3-falls-to-best-699-price-with-early-black-friday-deal?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2025&rpar;](https://www.wired.com/gallery/best-hybrid-mattress/)
+ - [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown)
+ - [The best things to watch over and over and over](https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer)
  - [Crime blotter: California Highway Patrol finds $200,000 in stolen Apple products](https://appleinsider.com/articles/25/11/02/crime-blotter-california-highway-patrol-finds-200000-in-stolen-apple-products?utm_source=rss)
- - [Aura Ink Review &lpar;2025&rpar;: Newspaper-Style Realism](https://www.wired.com/review/aura-ink/)
- - [What to Do in Austin if You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-austin-for-business-travelers/)
- - [Physicists Create a Thermometer for Measuring ‘Quantumness’](https://www.wired.com/story/physicists-create-a-thermometer-for-measuring-quantumness/)
- - [Best Home Pet Cams of 2025: Tested with Our Pets](https://www.cnet.com/home/security/best-home-pet-cams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Aura Ink Review &lpar;2025&rpar;: Newspaper-Style Realism](https://www.wired.com/review/aura-ink/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Big Tech&#39;s dominance on the S&amp;P 500 is becoming more extreme; the eight biggest tech stocks account for 60% of the gains since the market bottomed in April 2025 &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251101/p21#a251101p21)
  - [How Google Cloud has become one of Alphabet&#39;s fastest-growing businesses under Thomas Kurian, driven by investments in AI, data centers, custom chips, and more &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251101/p20#a251101p20)
  - [A profile of Aaron Greenspan, who has spent years on a crusade to expose what he believes are financial problems at Tesla and at big tech companies &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251101/p19#a251101p19)
  - [Microsoft&#39;s AI tools still lag behind OpenAI&#39;s, as Microsoft struggles to create a cohesive AI experience and add new features by integrating OpenAI models &lpar;Austin Carr/Bloomberg&rpar;](http://www.techmeme.com/251101/p18#a251101p18)
- - [Grokipedia content often closely mirrors Wikipedia except for some political topics but its use of AI makes it better than Wikipedia on obscure entries &lpar;Business Insider&rpar;](http://www.techmeme.com/251101/p17#a251101p17)
- - [The White House says China has agreed to effectively end rare earth export controls issued in 2025 and 2022, and will also close probes of US chip companies &lpar;Hadriana Lowenkron/Bloomberg&rpar;](http://www.techmeme.com/251101/p16#a251101p16)<!-- TECH:END -->
+ - [Grokipedia content often closely mirrors Wikipedia except for some political topics but its use of AI makes it better than Wikipedia on obscure entries &lpar;Business Insider&rpar;](http://www.techmeme.com/251101/p17#a251101p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

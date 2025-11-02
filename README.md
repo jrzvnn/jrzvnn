@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 😝 [Learn from the mistakes others](http://9gag.com/gag/aGy6LP0)
- - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
  - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 👉 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)<!-- MEMES:END -->
+ - 💣 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
+ - 😝 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [That hand....](http://9gag.com/gag/awyPyGQ)
- - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [Accidentally said love you to a client, then this happened](http://9gag.com/gag/ayNZ2zW)
+ - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
  - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
- - 👉 [Halloween](http://9gag.com/gag/azxox0p)<!-- MEMES:END -->
+ - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
 
 ---
 

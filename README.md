@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
  - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 💣 [Another black day](http://9gag.com/gag/a87QmE1)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 💣 [Bro was like: you sure about that?](http://9gag.com/gag/aByjZ91)
  - 😝 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
- - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
+ - 👉 [That man is a mountain](http://9gag.com/gag/awyP3xW)<!-- MEMES:END -->
 
 ---
 

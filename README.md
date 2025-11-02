@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those are not rookie numbers](http://9gag.com/gag/a87QAKY)
+ - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
  - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 💣 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
+ - 💣 [His name is Jenner](http://9gag.com/gag/amoK1W4)
+ - 😝 [Run](http://9gag.com/gag/a87Qmj3)
+ - 👉 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)<!-- MEMES:END -->
 
 ---
 

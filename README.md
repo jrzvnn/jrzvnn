@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steak level : titanium](http://9gag.com/gag/aPAzx0g)
- - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 😝 [That man is a mountain](http://9gag.com/gag/awyP3xW)
+ - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
  - 💣 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)
- - 😝 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
+ - 😝 [Fixed it](http://9gag.com/gag/a6Z49Zb)
  - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---

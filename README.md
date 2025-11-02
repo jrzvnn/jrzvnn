@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a repost from the good times](http://9gag.com/gag/avy41eM)
- - 😝 [You\u2019re seeing a perspective few ever witness, a Boeing 747 slicing through the sky at 900 km/h &lpar;560 mph&rpar;.](http://9gag.com/gag/aQzBgVW)
- - 💣 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
- - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
- - 👉 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)<!-- MEMES:END -->
+ - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
+ - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
+ - 👉 [Halloween](http://9gag.com/gag/azxox0p)<!-- MEMES:END -->
 
 ---
 

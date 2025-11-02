@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nexperia&#39;s China unit says it has &quot;sufficient inventories&quot; to sustain order fulfillment &quot;through year-end and beyond&quot;, after the parent suspended wafer supplies &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p2#a251102p2)
  - [How the Venezuelan government is using crypto and stablecoins like USDT to manage the downturn; Venezuela sells most of its oil to China and is paid in crypto &lpar;Anatoly Kurmanaev/New York Times&rpar;](http://www.techmeme.com/251102/p1#a251102p1)
  - [Oxford Economics: the AI boom is lifting global trade, with ~60% of US data center capex spent on imported IT gear, mainly from Taiwan, South Korea, and Vietnam &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/251101/p22#a251101p22)
  - [Big Tech&#39;s dominance on the S&amp;P 500 is becoming more extreme; the eight biggest tech stocks account for 60% of the gains since the market bottomed in April 2025 &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251101/p21#a251101p21)
- - [How Google Cloud has become one of Alphabet&#39;s fastest-growing businesses under Thomas Kurian, driven by investments in AI, data centers, custom chips, and more &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251101/p20#a251101p20)
- - [A profile of Aaron Greenspan, who has spent years on a crusade to expose what he believes are financial problems at Tesla and at big tech companies &lpar;Noam Scheiber/New York Times&rpar;](http://www.techmeme.com/251101/p19#a251101p19)<!-- TECH:END -->
+ - [How Google Cloud has become one of Alphabet&#39;s fastest-growing businesses under Thomas Kurian, driven by investments in AI, data centers, custom chips, and more &lpar;Kenrick Cai/Reuters&rpar;](http://www.techmeme.com/251101/p20#a251101p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

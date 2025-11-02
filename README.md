@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
  - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 💣 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
+ - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
+ - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
  - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The HERO of the People](http://9gag.com/gag/aW4P4oZ)
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 💣 [Is this a good solution for pickpockets?](http://9gag.com/gag/aqyB8rv)
- - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
+ - 😝 [Not revolutionary. Chris Rock posted `How not to get your ass kicked by the police!`, 18 years ago &lpar;google it&rpar;. Father of boys here; it turns out it was great advice and most of the time they got warnings vs tickets . . . and zero ass kicking&#39;s by the police.](http://9gag.com/gag/aGy6n20)
+ - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
+ - 💣 [Boo!](http://9gag.com/gag/aMVDdWR)
+ - 😝 [Just a repost from the good times](http://9gag.com/gag/avy41eM)
+ - 👉 [Ricky knows](http://9gag.com/gag/aW4P73x)<!-- MEMES:END -->
 
 ---
 

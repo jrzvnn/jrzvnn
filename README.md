@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of David Bailey, Trump&#39;s informal crypto advisor who organizes the Bitcoin Conference, as he seeks to turn a Utah health clinic into a bitcoin bank &lpar;Nina Bambysheva/Forbes&rpar;](http://www.techmeme.com/251102/p6#a251102p6)
+ - [LiberNovo Omni Review: A Motorized Office Chair](https://www.wired.com/review/libernovo-omni/)
+ - [The perfect grocery list-making app doesn’t exist](https://www.theverge.com/tech/809152/grocery-list-app-paprika-better-meal-google-keep)
  - [The Best Hybrid Mattresses for Couples, Back Pain, and More &lpar;2025&rpar;](https://www.wired.com/gallery/best-hybrid-mattress/)
- - [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown)
- - [The best things to watch over and over and over](https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer)
- - [Crime blotter: California Highway Patrol finds $200,000 in stolen Apple products](https://appleinsider.com/articles/25/11/02/crime-blotter-california-highway-patrol-finds-200000-in-stolen-apple-products?utm_source=rss)
- - [Aura Ink Review &lpar;2025&rpar;: Newspaper-Style Realism](https://www.wired.com/review/aura-ink/)<!-- TECH:END -->
+ - [The great tariff shakedown](https://www.theverge.com/column/811549/trump-tariff-shakedown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

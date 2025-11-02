@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That man is a mountain](http://9gag.com/gag/awyP3xW)
- - 😝 [I&#39;m built different](http://9gag.com/gag/aXPQLvz)
- - 💣 [Not enough Halloween Candy for this kid?](http://9gag.com/gag/a4PmPgZ)
- - 😝 [Fixed it](http://9gag.com/gag/a6Z49Zb)
- - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
+ - 😝 [Just a repost from the good times](http://9gag.com/gag/avy41eM)
+ - 😝 [You\u2019re seeing a perspective few ever witness, a Boeing 747 slicing through the sky at 900 km/h &lpar;560 mph&rpar;.](http://9gag.com/gag/aQzBgVW)
+ - 💣 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
+ - 😝 [A perfect car for a ninja](http://9gag.com/gag/a7oPOdq)
+ - 👉 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)<!-- MEMES:END -->
 
 ---
 

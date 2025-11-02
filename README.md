@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
  - 😝 [NOW - Ten people were reportedly stabbed on a train in Huntingdon, England.](http://9gag.com/gag/aW4P7G3)
- - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
  - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 😝 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
+ - 😝 [Crash test](http://9gag.com/gag/amoKoeo)
  - 👉 [Halloween](http://9gag.com/gag/azxox0p)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That man is a mountain](http://9gag.com/gag/awyP3xW)
- - 😝 [Another black day](http://9gag.com/gag/a87QmE1)
- - 💣 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 😝 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
- - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
+ - 😝 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 💣 [Good News](http://9gag.com/gag/aAyq6v9)
+ - 😝 [Started lifting heavy rocks to make the sad voice silent](http://9gag.com/gag/ayNZ4Vr)
+ - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 ---
 

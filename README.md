@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers find OpenAI&#39;s o1 can analyze languages like a human expert, including inferring the phonological rules of made-up languages without prior knowledge &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/251103/p8#a251103p8)
  - [Q&amp;A with LexisNexis CEO Sean Fitzpatrick on AI reshaping legal workflows, document drafting, attorneys losing their licenses over &quot;sloppy use of AI&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251103/p7#a251103p7)
  - [Microsoft AI chief Mustafa Suleyman says only biological beings can be conscious and it &quot;would be absurd to pursue research&quot; about AI consciousness &lpar;Salvador Rodriguez/CNBC&rpar;](http://www.techmeme.com/251103/p6#a251103p6)
  - [A Doctor at Apple Shares 9 Hidden Apple Watch Health Features](https://www.cnet.com/health/medical/doctor-apple-shares-hidden-apple-watch-features-can-boost-your-health/#ftag=CAD590a51e)
- - [Michael Grimes, a tech banker known for handling Uber and Airbnb&#39;s IPOs, is leading Trump&#39;s new investment accelerator, amid legal and congressional uncertainty &lpar;Politico&rpar;](http://www.techmeme.com/251103/p5#a251103p5)
- - [Logitech’s latest keyboard dabbles in enthusiast features](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions)<!-- TECH:END -->
+ - [Michael Grimes, a tech banker known for handling Uber and Airbnb&#39;s IPOs, is leading Trump&#39;s new investment accelerator, amid legal and congressional uncertainty &lpar;Politico&rpar;](http://www.techmeme.com/251103/p5#a251103p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

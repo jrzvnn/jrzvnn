@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
  - 😝 [Australia](http://9gag.com/gag/aGy689X)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
  - 💣 [Best chips](http://9gag.com/gag/a6Z495e)
- - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
  - 👉 [The Council of Men disappoves that move](http://9gag.com/gag/ajPGOOR)<!-- MEMES:END -->
 
 ---

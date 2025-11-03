@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Watch the Leonids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
+ - [Crypto.com strikes a deal with Hollywood.com to let users make predictions related to movies, actors, shows, and awards &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/251103/p29#a251103p29)
  - [The AI industry is running on FOMO](https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype)
  - [TikTok announces its first ever TikTok Awards show in the US; the live event will take place on December 18 and will be streamed on the TikTok app and on Tubi &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251103/p28#a251103p28)
- - [arXiv says it will stop accepting computer science papers that haven&#39;t been vetted by an academic journal or a conference, after a surge in AI-generated papers &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251103/p27#a251103p27)
- - [Save $50 on Apple Watch SE 3 during Amazon&#39;s early Black Friday sale](https://appleinsider.com/articles/25/11/03/save-50-on-apple-watch-se-3-during-amazons-early-black-friday-sale?utm_source=rss)
- - [NY-based Teleskope, which offers smaller LLMs fine-tuned for specific security problems, raised a $25M Series A led by M13, taking its total funding to $32.2M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/251103/p26#a251103p26)<!-- TECH:END -->
+ - [arXiv says it will stop accepting computer science papers that haven&#39;t been vetted by an academic journal or a conference, after a surge in AI-generated papers &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251103/p27#a251103p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

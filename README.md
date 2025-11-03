@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cisco launches Unified Edge, an all-in-one system to help retail stores, health care facilities, and factories use AI with a single equipment rack &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p24#a251103p24)
+ - [The Best iPhone Privacy and Security Settings to Change on Your Apple Device &lpar;2025&rpar;](https://www.wired.com/story/iphone-privacy-and-security-settings/)
  - [As part of the AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia GPUs in the US &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251103/p23#a251103p23)
  - [5 Best Digital Photo Frames &lpar;2025&rpar;: Aura, Skylight, Nixplay](https://www.wired.com/gallery/best-digital-photo-frames/)
- - [OpenAI and AWS agree to a seven year deal in which OpenAI will pay $38B for AI compute, including training its models on Amazon&#39;s servers and using its CPUs &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p22#a251103p22)
- - [MongoDB CEO Dev Ittycheria is stepping down after 11 years, replaced by Cloudflare President of Product &amp; Engineering Chirantan Desai, effective November 10 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251103/p21#a251103p21)
- - [I Need Samsung to Steal These 3 iPhone 17 Pro Features for the Galaxy S26 Ultra](https://www.cnet.com/tech/mobile/i-need-samsung-to-steal-these-3-iphone-17-pro-features-for-the-galaxy-s26-ultra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI and AWS agree to a seven year deal in which OpenAI will pay $38B for AI compute, including training its models on Amazon&#39;s servers and using its CPUs &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p22#a251103p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

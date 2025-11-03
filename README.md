@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo’s robotaxis are coming to three new cities](https://www.theverge.com/transportation/812440/waymo-san-diego-las-vegas-detroit-robotaxi-launch)
+ - [OpenAI strikes $38 billion AI training deal with Amazon](https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai)
  - [The Best Delivery Thanksgiving Meal Kits &lpar;2025&rpar;](https://www.wired.com/story/thanksgiving-meal-kits-2025/)
  - [Lyft CEO David Risher on paying drivers more and the shift to robotaxis](https://www.theverge.com/podcast/811532/lyft-uber-david-risher-interview-ai-rideshare)
- - [Cisco launches Unified Edge, an all-in-one system designed to help retail stores, health care facilities, and factories use AI with a single equipment rack &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p24#a251103p24)
- - [The Best iPhone Privacy and Security Settings to Change on Your Apple Device &lpar;2025&rpar;](https://www.wired.com/story/iphone-privacy-and-security-settings/)
- - [As part of the AWS deal, OpenAI says it will immediately begin running workloads on AWS infrastructure, tapping hundreds of thousands of Nvidia GPUs in the US &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251103/p23#a251103p23)<!-- TECH:END -->
+ - [Cisco launches Unified Edge, an all-in-one system designed to help retail stores, health care facilities, and factories use AI with a single equipment rack &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p24#a251103p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

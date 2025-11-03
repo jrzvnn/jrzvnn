@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 26.1 arrives with new toggles and more Apple Intelligence languages](https://appleinsider.com/articles/25/11/03/ios-261-arrives-with-new-toggles-and-more-apple-intelligence-languages?utm_source=rss)
- - [Neato shutdown, iRobot potential bankruptcy &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/11/03/neato-shutdown-irobot-potential-bankruptcy-more-on-homekit-insider?utm_source=rss)
- - [Apple launches the App Store on the web, with dedicated pages for the iPhone, iPad, Mac, TV, Watch, and Vision &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251103/p37#a251103p37)
- - [France threatens to ban Shein and refers it to Paris prosecutor after an investigation found that sex dolls &quot;resembling children&quot; were being sold on the site &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/251103/p36#a251103p36)
- - [Apple brings its App Store to the web](https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad)<!-- TECH:END -->
+ - [‘Eyes-off driving’ is coming, and we’re so not ready](https://www.theverge.com/transportation/812439/eyes-off-driving-level-3-legal-liability-crash)
+ - [Apple releases 26.1 updates for tvOS, HomePod](https://appleinsider.com/articles/25/11/03/apple-releases-261-updates-for-tvos-homepod?utm_source=rss)
+ - [Palantir reports Q3 revenue up 63% YoY to $1.18B, vs. $1.09B est., US government revenue up 52% to $486M, and forecasts Q4 revenue above estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251103/p39#a251103p39)
+ - [visionOS 26.1 arrives with minimal bug fixes](https://appleinsider.com/articles/25/11/03/visionos-261-arrives-with-minimal-bug-fixes?utm_source=rss)
+ - [watchOS 26.1 brings performance, stability &amp; language upgrades](https://appleinsider.com/articles/25/11/03/watchos-261-brings-performance-stability-language-upgrades?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

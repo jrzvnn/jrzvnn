@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump&#39;s CZ Pardon Has the Crypto World Bracing for Impact](https://www.wired.com/story/trumps-cz-pardon-has-the-crypto-world-bracing-for-impact/)
  - [Apple TV&#39;s rebrand introduces a new logo and a signature sound](https://appleinsider.com/articles/25/11/03/apple-tvs-rebrand-introduces-a-new-logo-and-a-signature-sound?utm_source=rss)
  - [Sources: Trump decided not to discuss Nvidia&#39;s AI chip exports to China during his October 30 meeting with Xi Jinping following opposition from his top advisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251103/p35#a251103p35)
  - [Our Favorite Earbuds for Android Users Are $60 Off](https://www.wired.com/story/pixel-buds-pro-2-deal-1125/)
- - [Apple finally brings the full App Store experience to the web](https://appleinsider.com/articles/25/11/03/apple-finally-brings-the-full-app-store-experience-to-the-web?utm_source=rss)
- - [OpenAI Signs $38 Billion Deal With Amazon](https://www.wired.com/story/openai-amazon-multi-billion-dollar-deal/)<!-- TECH:END -->
+ - [Apple finally brings the full App Store experience to the web](https://appleinsider.com/articles/25/11/03/apple-finally-brings-the-full-app-store-experience-to-the-web?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [His name is Jenner](http://9gag.com/gag/amoK1W4)
+ - 😝 [Fail](http://9gag.com/gag/aYQZOvx)
  - 😝 [Good News](http://9gag.com/gag/aAyq6v9)
  - 💣 [Sparta this import into oblivion](http://9gag.com/gag/ajPGLDq)
  - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)

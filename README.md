@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 😝 [His name is Jenner](http://9gag.com/gag/amoK1W4)
  - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 💣 [His name is Jenner](http://9gag.com/gag/amoK1W4)
- - 😝 [The fat ones](http://9gag.com/gag/aVv4EyO)
+ - 💣 [The fat ones](http://9gag.com/gag/aVv4EyO)
+ - 😝 [Good News](http://9gag.com/gag/aAyq6v9)
  - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 ---

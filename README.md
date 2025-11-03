@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
- - [‘Eyes-off driving’ is coming, and we’re so not ready](https://www.theverge.com/transportation/812439/eyes-off-driving-level-3-legal-liability-crash)
- - [Apple releases 26.1 updates for tvOS, HomePod](https://appleinsider.com/articles/25/11/03/apple-releases-261-updates-for-tvos-homepod?utm_source=rss)
- - [Palantir reports Q3 revenue up 63% YoY to $1.18B, vs. $1.09B est., US government revenue up 52% to $486M, and forecasts Q4 revenue above estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251103/p39#a251103p39)
- - [visionOS 26.1 arrives with minimal bug fixes](https://appleinsider.com/articles/25/11/03/visionos-261-arrives-with-minimal-bug-fixes?utm_source=rss)<!-- TECH:END -->
+ - [No, ChatGPT hasn&amp;#8217;t added a ban on giving legal and health advice](https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor)
+ - [iOS 26.1 lets you tweak Liquid Glass, and it&amp;#8217;s out now](https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [Apple releases version 26.1 of its full family of OSes, including a &quot;tinted&quot; option for the Liquid Glass design to reduce transparency and increase contrast &lpar;John Voorhees/MacStories&rpar;](http://www.techmeme.com/251103/p40#a251103p40)
+ - [The best iPad deals you can get right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

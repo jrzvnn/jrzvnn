@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump says Nvidia&#39;s Blackwell chips would not be available to &quot;other people&quot;; Trump suggested in August he might allow sales of a scaled-down version to China &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/251102/p13#a251102p13)
  - [A look at Palantir&#39;s four-month &quot;Meritocracy Fellowship&quot; for high school graduates, which offers a path to a job at Palantir without a university degree &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251102/p12#a251102p12)
  - [The best new movies to stream this week](https://www.theverge.com/entertainment/812193/the-best-new-movies-to-stream-this-week)
  - [Keychron Q16 HE 8K Review: Premium ceramic feel is great, just wired is not](https://appleinsider.com/articles/25/11/02/keychron-q16-he-8k-review-premium-ceramic-feel-is-great-just-wired-is-not?utm_source=rss)
- - [Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/251102/p11#a251102p11)
- - [Save up to 57% with the best early Black Friday deals on Apple](https://appleinsider.com/articles/25/11/02/save-up-to-57-with-the-best-early-black-friday-deals-on-apple?utm_source=rss)<!-- TECH:END -->
+ - [Google says it has removed its AI model Gemma from AI Studio; in a letter to Google, Sen. Blackburn said it fabricated sexual misconduct allegations against her &lpar;Anthony Ha/TechCrunch&rpar;](http://www.techmeme.com/251102/p11#a251102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

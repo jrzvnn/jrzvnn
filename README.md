@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London is establishing itself as a center for quantitative finance; filings show trading firms XTX, Qube, and Quadrature each made £1B+ revenue in the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p11#a251103p11)
  - [When asked about Changpeng Zhao&#39;s pardon on 60 Minutes, President Trump says &quot;I don&#39;t know who he is&quot; and &quot;I heard it was a Biden witch hunt&quot; &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/251103/p10#a251103p10)
  - [An Anarchist’s Conviction Offers a Grim Foreshadowing of Trump’s War on the ‘Left’](https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/)
  - [Alphabet&#39;s X is increasingly spinning out independent companies via a dedicated Series X Capital fund, which has raised $500M+ with a minority Alphabet stake &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251103/p9#a251103p9)
- - [Hack Exposes Kansas City’s Secret Police Misconduct List](https://www.wired.com/story/hack-exposes-kansas-city-kansas-polices-secret-misconduct-list/)
- - [Researchers find OpenAI&#39;s o1 can analyze languages like a human expert, including inferring the phonological rules of made-up languages without prior knowledge &lpar;Steve Nadis/Quanta Magazine&rpar;](http://www.techmeme.com/251103/p8#a251103p8)<!-- TECH:END -->
+ - [Free Movies You Can Stream This November on Tubi, Pluto TV and More](https://www.cnet.com/tech/services-and-software/free-movies-you-can-stream-this-november-on-tubi-pluto-tv-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

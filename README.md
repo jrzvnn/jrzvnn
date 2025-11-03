@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NY-based Teleskope, which offers smaller LLMs fine-tuned for specific security problems, raised a $25M Series A led by M13, taking its total funding to $32.2M &lpar;Leo Schwartz/Fortune&rpar;](http://www.techmeme.com/251103/p26#a251103p26)
+ - [Toronto-based quantum computing company Xanadu says it will go public in the US and Canada via a SPAC, in a deal that values the combined business at ~$3.6B &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251103/p25#a251103p25)
  - [The Apple Watch SE 3 is on sale for a record low price of $199](https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale)
  - [Waymo’s robotaxis are coming to three new cities](https://www.theverge.com/transportation/812440/waymo-san-diego-las-vegas-detroit-robotaxi-launch)
- - [OpenAI strikes $38 billion AI training deal with Amazon](https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai)
- - [The Best Delivery Thanksgiving Meal Kits &lpar;2025&rpar;](https://www.wired.com/story/thanksgiving-meal-kits-2025/)
- - [Lyft CEO David Risher on paying drivers more and the shift to robotaxis](https://www.theverge.com/podcast/811532/lyft-uber-david-risher-interview-ai-rideshare)<!-- TECH:END -->
+ - [OpenAI strikes $38 billion AI training deal with Amazon](https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

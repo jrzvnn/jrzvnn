@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 26.1 arrives with new toggles and more Apple Intelligence languages](https://appleinsider.com/articles/25/11/03/ios-261-arrives-with-new-toggles-and-more-apple-intelligence-languages?utm_source=rss)
+ - [Neato shutdown, iRobot potential bankruptcy &amp; more on HomeKit Insider](https://appleinsider.com/articles/25/11/03/neato-shutdown-irobot-potential-bankruptcy-more-on-homekit-insider?utm_source=rss)
  - [Apple launches the App Store on the web, with dedicated pages for the iPhone, iPad, Mac, TV, Watch, and Vision &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251103/p37#a251103p37)
  - [France threatens to ban Shein and refers it to Paris prosecutor after an investigation found that sex dolls &quot;resembling children&quot; were being sold on the site &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/251103/p36#a251103p36)
- - [Apple brings its App Store to the web](https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad)
- - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
- - [Alleged U Penn hacker claims they’re in it for money, not ‘primarily “anti-DEI”’](https://www.theverge.com/policy/812700/university-pennsylvania-hack-data-sale-dei)<!-- TECH:END -->
+ - [Apple brings its App Store to the web](https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

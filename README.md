@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good News](http://9gag.com/gag/aAyq6v9)
- - 😝 [Fail](http://9gag.com/gag/aYQZOvx)
- - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 😝 [Inspiring poles](http://9gag.com/gag/a5QvwRN)
- - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
+ - 😝 [The 80s Hit Different](http://9gag.com/gag/a7oPeqz)
+ - 😝 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
+ - 💣 [Fixed it](http://9gag.com/gag/a6Z49Zb)
+ - 😝 [The fat ones](http://9gag.com/gag/aVv4EyO)
+ - 👉 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple Watch SE 3 is on sale for a record low price of $199](https://www.theverge.com/tech/812446/apple-watch-se-3-amazon-fire-tablet-hd-10-deal-sale)
  - [Waymo’s robotaxis are coming to three new cities](https://www.theverge.com/transportation/812440/waymo-san-diego-las-vegas-detroit-robotaxi-launch)
  - [OpenAI strikes $38 billion AI training deal with Amazon](https://www.theverge.com/news/812443/openai-amazon-38-billion-cloud-computing-ai)
  - [The Best Delivery Thanksgiving Meal Kits &lpar;2025&rpar;](https://www.wired.com/story/thanksgiving-meal-kits-2025/)
- - [Lyft CEO David Risher on paying drivers more and the shift to robotaxis](https://www.theverge.com/podcast/811532/lyft-uber-david-risher-interview-ai-rideshare)
- - [Cisco launches Unified Edge, an all-in-one system designed to help retail stores, health care facilities, and factories use AI with a single equipment rack &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p24#a251103p24)<!-- TECH:END -->
+ - [Lyft CEO David Risher on paying drivers more and the shift to robotaxis](https://www.theverge.com/podcast/811532/lyft-uber-david-risher-interview-ai-rideshare)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

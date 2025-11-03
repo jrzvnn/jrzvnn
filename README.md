@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands OpenAI to stop using their copyrighted content to train Sora 2 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251103/p31#a251103p31)
+ - [Hippocratic AI, which offers healthcare AI agents, raised a $126M Series C led by Avenir at a $3.5B valuation, up from $1.64B in January &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/251103/p33#a251103p33)
+ - [Lambda announces a multibillion-dollar agreement with Microsoft for AI infrastructure powered by Nvidia chips; the specific deal value was not disclosed &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251103/p32#a251103p32)
+ - [Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251103/p31#a251103p31)
  - [Your Friend Asked You a Question. Don&#39;t Copy and Paste an Answer From a Chatbot](https://www.wired.com/story/dont-copy-and-paste-answers-from-a-chatbot/)
- - [Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251103/p30#a251103p30)
- - [Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
- - [Coca-Cola&amp;#8217;s new AI holiday ad is a sloppy eyesore](https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025)<!-- TECH:END -->
+ - [Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251103/p30#a251103p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

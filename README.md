@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p2#a251103p2)
  - [During an interview, Satya Nadella says Microsoft faces a power shortage, not a compute one, which could leave &quot;chips sitting in inventory that I can&#39;t plug in&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251103/p1#a251103p1)
  - [Baidu says its Apollo Go robotaxi hit 250,000 weekly orders globally as of October 31, matching Waymo&#39;s 250,000 weekly paid US rides reported in April 2025 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251102/p16#a251102p16)
  - [At APEC, Xi Jinping proposed a World Artificial Intelligence Cooperation Organization for global AI regulation; state media says it could be based in Shanghai &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p15#a251102p15)
- - [In a reply to Elon Musk&#39;s post of &quot;you stole a non-profit&quot;, Sam Altman says OpenAI&#39;s structure is needed to create &quot;what should be the largest non-profit ever&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251102/p14#a251102p14)
- - [Trump says Nvidia&#39;s Blackwell chips would not be available to &quot;other people&quot;; Trump suggested in August he might allow sales of a scaled-down version to China &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/251102/p13#a251102p13)<!-- TECH:END -->
+ - [In a reply to Elon Musk&#39;s post of &quot;you stole a non-profit&quot;, Sam Altman says OpenAI&#39;s structure is needed to create &quot;what should be the largest non-profit ever&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251102/p14#a251102p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

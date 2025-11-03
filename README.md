@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 😝 [Australia](http://9gag.com/gag/aGy689X)
- - 💣 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
+ - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 💣 [Australia](http://9gag.com/gag/aGy689X)
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
  - 👉 [Urgent decision making](http://9gag.com/gag/a87Q08d)<!-- MEMES:END -->
 
 ---

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [MongoDB CEO Dev Ittycheria is stepping down after 11 years, replaced by Cloudflare President of Product &amp; Engineering Chirantan Desai, effective November 10 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251103/p21#a251103p21)
+ - [I Need Samsung to Steal These 3 iPhone 17 Pro Features for the Galaxy S26 Ultra](https://www.cnet.com/tech/mobile/i-need-samsung-to-steal-these-3-iphone-17-pro-features-for-the-galaxy-s26-ultra/#ftag=CAD590a51e)
  - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
  - [How Frankenstein’s creature designer found a new look for an iconic monster](https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill)
- - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)
- - [Court documents: in a deposition, Ilya Sutskever documented significant internal conflicts at OpenAI prior to Sam Altman&#39;s firing and discusses his OpenAI exit &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251103/p20#a251103p20)<!-- TECH:END -->
+ - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

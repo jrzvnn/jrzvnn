@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic announces a deal with Cognizant, under which Cognizant will deploy Claude to its 350,000 employees and co-sell Claude models to its business customers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p42#a251103p42)
  - [US federal prosecutors allege that three cybersecurity professionals carried out ransomware attacks on at least five US companies in 2023 using ALPHV ransomware &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/251103/p41#a251103p41)
  - [I tested 30 smart locks, and these are the best](https://www.theverge.com/23393163/best-smart-door-lock)
  - [No, ChatGPT hasn&amp;#8217;t added a ban on giving legal and health advice](https://www.theverge.com/news/812848/chatgpt-legal-medical-advice-rumor)
- - [iOS 26.1 lets you tweak Liquid Glass, and it&amp;#8217;s out now](https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [iOS 26.1 lets you tweak Liquid Glass, and it&amp;#8217;s out now](https://www.theverge.com/news/812375/apple-iphone-ios-26-1-update-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

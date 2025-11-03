@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft signs a five-year, ~$9.7B deal to buy AI cloud capacity from Sydney-based IREN, giving Microsoft access to Nvidia&#39;s GB300 in IREN&#39;s Texas facility &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p14#a251103p14)
+ - [15 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
+ - [Some podcasters are embracing AI voice clones from ElevenLabs and other startups, aiming to augment, translate episodes, and even replace in-studio performances &lpar;Reggie Ugwu/New York Times&rpar;](http://www.techmeme.com/251103/p13#a251103p13)
  - [Xi Jinping joked about security backdoors when presenting South Korean President Lee Jae Myung with Xiaomi smartphones at APEC, amid US concerns about Huawei &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p12#a251103p12)
- - [The Curious Case of the Bizarre, Disappearing Captcha](https://www.wired.com/story/bizarre-disappearing-captcha/)
- - [London is establishing itself as a center for quantitative finance; filings show trading firms XTX, Qube, and Quadrature each made £1B+ revenue in the past year &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p11#a251103p11)
- - [When asked about Changpeng Zhao&#39;s pardon on 60 Minutes, President Trump says &quot;I don&#39;t know who he is&quot; and &quot;I heard it was a Biden witch hunt&quot; &lpar;Vince Dioquino/Decrypt&rpar;](http://www.techmeme.com/251103/p10#a251103p10)
- - [An Anarchist’s Conviction Offers a Grim Foreshadowing of Trump’s War on the ‘Left’](https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/)<!-- TECH:END -->
+ - [The Curious Case of the Bizarre, Disappearing Captcha](https://www.wired.com/story/bizarre-disappearing-captcha/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hong Kong-based crypto investor Animoca Brands plans to list on the Nasdaq via a reverse merger with Currenc Group, set to close in 2026 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251103/p15#a251103p15)
- - [Google pulls AI model after senator says it fabricated assault allegation](https://www.theverge.com/news/812376/google-removes-gemma-senator-blackburn-hallucination)
- - [Microsoft signs a five-year, ~$9.7B deal to buy AI cloud capacity from Sydney-based IREN, giving Microsoft access to Nvidia&#39;s GB300 in IREN&#39;s Texas facility &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251103/p14#a251103p14)
- - [15 Best Travel Toiletry Bags, Tested Over Many Miles &lpar;2025&rpar;](https://www.wired.com/gallery/best-toiletry-bags/)
- - [Some podcasters are embracing AI voice clones from ElevenLabs and other startups, aiming to augment, translate episodes, and even replace in-studio performances &lpar;Reggie Ugwu/New York Times&rpar;](http://www.techmeme.com/251103/p13#a251103p13)<!-- TECH:END -->
+ - [Microsoft says the US has let it ship the latest Nvidia chips to the UAE for the first time; President Trump agreed to a deal with UAE President MBZ in May &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251103/p17#a251103p17)
+ - [What to Do in Chicago If You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/)
+ - [Proofpoint says it has &quot;high confidence&quot; that hackers are working with organized crime groups to infiltrate trucking and freight companies to steal cargo &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251103/p16#a251103p16)
+ - [UK iPad users can light up Apple UK headquarters for Christmas](https://appleinsider.com/articles/25/11/03/uk-ipad-users-can-light-up-apple-uk-headquarters-for-christmas?utm_source=rss)
+ - [Hong Kong-based crypto investor Animoca Brands plans to list on the Nasdaq via a reverse merger with Currenc Group, set to close in 2026 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251103/p15#a251103p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

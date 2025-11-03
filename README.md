@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft says the US has let it ship the latest Nvidia chips to the UAE for the first time; President Trump agreed to a deal with UAE President MBZ in May &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/251103/p17#a251103p17)
- - [What to Do in Chicago If You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-chicago-for-business-travelers/)
- - [Proofpoint says it has &quot;high confidence&quot; that hackers are working with organized crime groups to infiltrate trucking and freight companies to steal cargo &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251103/p16#a251103p16)
- - [UK iPad users can light up Apple UK headquarters for Christmas](https://appleinsider.com/articles/25/11/03/uk-ipad-users-can-light-up-apple-uk-headquarters-for-christmas?utm_source=rss)
- - [Hong Kong-based crypto investor Animoca Brands plans to list on the Nasdaq via a reverse merger with Currenc Group, set to close in 2026 &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251103/p15#a251103p15)<!-- TECH:END -->
+ - [How Frankenstein’s creature designer found a new look for an iconic monster](https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill)
+ - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)
+ - [Court documents: in a deposition, Ilya Sutskever documented significant internal conflicts at OpenAI prior to Sam Altman&#39;s firing and discusses his OpenAI exit &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251103/p20#a251103p20)
+ - [Redmagic’s liquid-cooled gaming phone starts at $749](https://www.theverge.com/news/812391/redmagics-liquid-cooled-gaming-phone-starts-at-749)
+ - [The UK CMA says it will launch an in-depth investigation into Getty and Shutterstock&#39;s proposed merger after their proposed remedies failed to address concerns &lpar;Raechel Thankam Job/Reuters&rpar;](http://www.techmeme.com/251103/p19#a251103p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

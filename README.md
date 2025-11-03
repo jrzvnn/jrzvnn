@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
- - 💣 [A valuable lesson](http://9gag.com/gag/adBrQnQ)
- - 😝 [Now we have clarity](http://9gag.com/gag/aD2r8yZ)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 😝 [Australia](http://9gag.com/gag/aGy689X)
+ - 💣 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 👉 [The Council of Men disappoves that move](http://9gag.com/gag/ajPGOOR)<!-- MEMES:END -->
 
 ---
 

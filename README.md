@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are they doing with these locusts? A grasshopper farm in China. A typical farm produces 100s of thousands of grasshoppers per year.](http://9gag.com/gag/azxoPEb)
- - 😝 [Fail](http://9gag.com/gag/aYQZOvx)
- - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
+ - 😝 [Fixed it](http://9gag.com/gag/a6Z49Zb)
+ - 😝 [Ricky Gervais is furious that his billboard is now banned after the mass stabbing in London](http://9gag.com/gag/a2v986e)
+ - 💣 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
+ - 😝 [The fat ones](http://9gag.com/gag/aVv4EyO)
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---
 

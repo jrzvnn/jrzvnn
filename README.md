@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 MacBook Air, iPad, iPhone 17e: Apple&#39;s plans for the first half of 2026](https://appleinsider.com/articles/25/11/02/m5-macbook-air-ipad-iphone-17e-apples-plans-for-the-first-half-of-2026?utm_source=rss)
  - [‘Eyes-off driving’ is coming, and we’re so not ready](https://www.theverge.com/transportation/812439/eyes-off-driving-level-3-legal-liability-crash)
  - [Apple releases 26.1 updates for tvOS, HomePod](https://appleinsider.com/articles/25/11/03/apple-releases-261-updates-for-tvos-homepod?utm_source=rss)
  - [Palantir reports Q3 revenue up 63% YoY to $1.18B, vs. $1.09B est., US government revenue up 52% to $486M, and forecasts Q4 revenue above estimates &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251103/p39#a251103p39)
- - [visionOS 26.1 arrives with minimal bug fixes](https://appleinsider.com/articles/25/11/03/visionos-261-arrives-with-minimal-bug-fixes?utm_source=rss)
- - [watchOS 26.1 brings performance, stability &amp; language upgrades](https://appleinsider.com/articles/25/11/03/watchos-261-brings-performance-stability-language-upgrades?utm_source=rss)<!-- TECH:END -->
+ - [visionOS 26.1 arrives with minimal bug fixes](https://appleinsider.com/articles/25/11/03/visionos-261-arrives-with-minimal-bug-fixes?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

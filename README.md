@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
- - 😝 [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
- - 💣 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
+ - 💣 [Best chips](http://9gag.com/gag/a6Z495e)
  - 😝 [Urgent decision making](http://9gag.com/gag/a87Q08d)
  - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 

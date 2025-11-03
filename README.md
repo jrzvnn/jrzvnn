@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What are they doing with these locusts? A grasshopper farm in China. A typical farm produces 100s of thousands of grasshoppers per year.](http://9gag.com/gag/azxoPEb)
- - 😝 [Good News](http://9gag.com/gag/aAyq6v9)
- - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 😝 [How many bad decisions can you put in one video?](http://9gag.com/gag/aoyARNx)
+ - 😝 [Crypto bros explain to me after quindecade after launch why Bitcoin will change the world.](http://9gag.com/gag/aVv4ERn)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 💣 [How many bad decisions can you put in one video?](http://9gag.com/gag/aoyARNx)
+ - 😝 [Inspiring poles](http://9gag.com/gag/a5QvwRN)
  - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---

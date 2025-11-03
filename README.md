@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
- - 😝 [I&#39;m this old](http://9gag.com/gag/ajPG1B1)
- - 💣 [His name is Jenner](http://9gag.com/gag/amoK1W4)
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
+ - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
+ - 😝 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)
+ - 💣 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
+ - 😝 [Is this a good solution for pickpockets?](http://9gag.com/gag/aqyB8rv)
+ - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
 
 ---
 

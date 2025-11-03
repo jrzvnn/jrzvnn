@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251103/p30#a251103p30)
+ - [Studio Ghibli, Bandai Namco, Square Enix demand OpenAI stop using their content to train AI](https://www.theverge.com/news/812545/coda-studio-ghibli-sora-2-copyright-infringement)
+ - [Coca-Cola&amp;#8217;s new AI holiday ad is a sloppy eyesore](https://www.theverge.com/news/812559/coca-cola-ai-holiday-christmas-commercial-2025)
  - [How to Watch the Leonids Meteor Shower](https://www.wired.com/story/watch-meteor-showers-2025-shooting-stars-ursids-geminids-leonids-orionids-perseids-southern-delta-aquariids-lyrids-quadrantids/)
- - [Crypto.com strikes a deal with Hollywood.com to let users make predictions related to movies, actors, shows, and awards &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/251103/p29#a251103p29)
- - [The AI industry is running on FOMO](https://www.theverge.com/ai-artificial-intelligence/812455/ai-industry-earnings-bubble-fomo-hype)
- - [TikTok announces its first ever TikTok Awards show in the US; the live event will take place on December 18 and will be streamed on the TikTok app and on Tubi &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251103/p28#a251103p28)
- - [arXiv says it will stop accepting computer science papers that haven&#39;t been vetted by an academic journal or a conference, after a surge in AI-generated papers &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251103/p27#a251103p27)<!-- TECH:END -->
+ - [Crypto.com strikes a deal with Hollywood.com to let users make predictions related to movies, actors, shows, and awards &lpar;Rob Golum/Bloomberg&rpar;](http://www.techmeme.com/251103/p29#a251103p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

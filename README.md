@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hippocratic AI, which offers healthcare AI agents, raised a $126M Series C led by Avenir at a $3.5B valuation, up from $1.64B in January &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/251103/p33#a251103p33)
- - [Lambda announces a multibillion-dollar agreement with Microsoft for AI infrastructure powered by Nvidia chips; the specific deal value was not disclosed &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251103/p32#a251103p32)
- - [Japanese trade association CODA, representing Studio Ghibli, Square Enix and others, demands that OpenAI stop using their copyrighted content to train Sora 2 &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251103/p31#a251103p31)
- - [Your Friend Asked You a Question. Don&#39;t Copy and Paste an Answer From a Chatbot](https://www.wired.com/story/dont-copy-and-paste-answers-from-a-chatbot/)
- - [Indian digital payments company Pine Labs prices its IPO at $2 to $2.5/share, valuing it at $2.9B at the top end of the range, down from a $5B valuation in 2022 &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251103/p30#a251103p30)<!-- TECH:END -->
+ - [Google’s TV Streamer &lpar;4K&rpar; is down to its best price to date ahead of Black Friday](https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale)
+ - [Apple TV&amp;#8217;s new name now comes with a new sound](https://www.theverge.com/news/812644/apple-tv-sound-video-mnemonic-finneas-rebrand-name-plus)
+ - [How Facebook Dating, launched in 2019, has become a surprise hit with 21M+ daily users, vs. Hinge&#39;s ~15M, a sign of how Facebook has been reinventing itself &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251103/p34#a251103p34)
+ - [GarageBand gets a minor iOS update, iWork still unupdated](https://appleinsider.com/articles/25/11/03/garageband-gets-a-minor-ios-update-iwork-still-unupdated?utm_source=rss)
+ - [Hippocratic AI, which offers healthcare AI agents, raised a $126M Series C led by Avenir at a $3.5B valuation, up from $1.64B in January &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/251103/p33#a251103p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

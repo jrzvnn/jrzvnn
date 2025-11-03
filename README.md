@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael Grimes, a tech banker known for handling Uber and Airbnb&#39;s IPOs, is leading Trump&#39;s new investment accelerator, amid legal and congressional uncertainty &lpar;Politico&rpar;](http://www.techmeme.com/251103/p5#a251103p5)
  - [Logitech’s latest keyboard dabbles in enthusiast features](https://www.theverge.com/tech/810124/logitech-alto-keys-k98m-mechanical-keyboard-price-specs-impressions)
  - [A profile of Mark Gubrud, who coined the term AGI in a 1997 research paper, which argued that breakthrough technologies will redefine international conflicts &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251103/p4#a251103p4)
  - [Cologne-based Octonomy, which helps companies deploy AI in complex workflows, raised a $20M seed led by Macquarie Capital, bringing its total raised to $25M &lpar;Amelia Isaacs/Pathfounders&rpar;](http://www.techmeme.com/251103/p3#a251103p3)
- - [Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p2#a251103p2)
- - [During an interview, Satya Nadella says Microsoft faces a power shortage, not a compute one, which could leave &quot;chips sitting in inventory that I can&#39;t plug in&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251103/p1#a251103p1)<!-- TECH:END -->
+ - [Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p2#a251103p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

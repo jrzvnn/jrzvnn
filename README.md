@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
- - 😝 [This is next level petty and brilliant](http://9gag.com/gag/a2v9wVd)
- - 💣 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
- - 😝 [Is this a good solution for pickpockets?](http://9gag.com/gag/aqyB8rv)
- - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
+ - 😝 [His name is Jenner](http://9gag.com/gag/amoK1W4)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 💣 [Good News](http://9gag.com/gag/aAyq6v9)
+ - 😝 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---
 

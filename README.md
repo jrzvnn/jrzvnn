@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So I&#39;m not fat, I only got ghost on my back all this time](http://9gag.com/gag/aRB9L7B)
- - 😝 [Champaigne for my real friends, real pain for my sham friends.](http://9gag.com/gag/aE0yVR9)
- - 💣 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)
- - 😝 [I&#39;m this old](http://9gag.com/gag/ajPG1B1)
- - 👉 [Good News](http://9gag.com/gag/aAyq6v9)<!-- MEMES:END -->
+ - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
+ - 😝 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
+ - 💣 [Fixed it](http://9gag.com/gag/a6Z49Zb)
+ - 😝 [Bald](http://9gag.com/gag/a87QmB1)
+ - 👉 [Is this a good solution for pickpockets?](http://9gag.com/gag/aqyB8rv)<!-- MEMES:END -->
 
 ---
 

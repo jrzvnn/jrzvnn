@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Baidu says its Apollo Go robotaxi hit 250,000 weekly orders globally as of October 31, matching Waymo&#39;s 250,000 weekly paid US rides reported in April 2025 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251102/p16#a251102p16)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 3, #406](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-3-406/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-3/#ftag=CAD590a51e)
  - [At APEC, Xi Jinping proposed a World Artificial Intelligence Cooperation Organization for global AI regulation; state media says it could be based in Shanghai &lpar;Reuters&rpar;](http://www.techmeme.com/251102/p15#a251102p15)
- - [In a reply to Elon Musk&#39;s post of &quot;you stole a non-profit&quot;, Sam Altman says OpenAI&#39;s structure is needed to create &quot;what should be the largest non-profit ever&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251102/p14#a251102p14)
- - [Trump says Nvidia&#39;s Blackwell chips would not be available to &quot;other people&quot;; Trump suggested in August he might allow sales of a scaled-down version to China &lpar;Alexandra Alper/Reuters&rpar;](http://www.techmeme.com/251102/p13#a251102p13)
- - [A look at Palantir&#39;s four-month &quot;Meritocracy Fellowship&quot; for high school graduates, which offers a path to a job at Palantir without a university degree &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251102/p12#a251102p12)<!-- TECH:END -->
+ - [In a reply to Elon Musk&#39;s post of &quot;you stole a non-profit&quot;, Sam Altman says OpenAI&#39;s structure is needed to create &quot;what should be the largest non-profit ever&quot; &lpar;Lauren Edmonds/Business Insider&rpar;](http://www.techmeme.com/251102/p14#a251102p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

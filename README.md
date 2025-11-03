@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This cafe hires people with Down syndrome not just to work, but to show the world their humanity and break the stigma, one smile at a time](http://9gag.com/gag/a9yZ6Bo)
- - 😝 [Prison rules - my old meme collection](http://9gag.com/gag/adBrOYD)
- - 💣 [Fixed it](http://9gag.com/gag/a6Z49Zb)
- - 😝 [Bald](http://9gag.com/gag/a87QmB1)
- - 👉 [Is this a good solution for pickpockets?](http://9gag.com/gag/aqyB8rv)<!-- MEMES:END -->
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
+ - 💣 [His name is Jenner](http://9gag.com/gag/amoK1W4)
+ - 😝 [The fat ones](http://9gag.com/gag/aVv4EyO)
+ - 👉 [Durian skin: nature&#39;s fireproof shield](http://9gag.com/gag/ae9y41W)<!-- MEMES:END -->
 
 ---
 

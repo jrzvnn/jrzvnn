@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s TV Streamer &lpar;4K&rpar; is down to its best price to date ahead of Black Friday](https://www.theverge.com/tech/812562/google-tv-streamer-4k-black-friday-2025-deal-sale)
- - [Apple TV&amp;#8217;s new name now comes with a new sound](https://www.theverge.com/news/812644/apple-tv-sound-video-mnemonic-finneas-rebrand-name-plus)
- - [How Facebook Dating, launched in 2019, has become a surprise hit with 21M+ daily users, vs. Hinge&#39;s ~15M, a sign of how Facebook has been reinventing itself &lpar;Eli Tan/New York Times&rpar;](http://www.techmeme.com/251103/p34#a251103p34)
- - [GarageBand gets a minor iOS update, iWork still unupdated](https://appleinsider.com/articles/25/11/03/garageband-gets-a-minor-ios-update-iwork-still-unupdated?utm_source=rss)
- - [Hippocratic AI, which offers healthcare AI agents, raised a $126M Series C led by Avenir at a $3.5B valuation, up from $1.64B in January &lpar;Heather Landi/Fierce Healthcare&rpar;](http://www.techmeme.com/251103/p33#a251103p33)<!-- TECH:END -->
+ - [Apple TV&#39;s rebrand introduces a new logo and a signature sound](https://appleinsider.com/articles/25/11/03/apple-tvs-rebrand-introduces-a-new-logo-and-a-signature-sound?utm_source=rss)
+ - [Sources: Trump decided not to discuss Nvidia&#39;s AI chip exports to China during his October 30 meeting with Xi Jinping following opposition from his top advisers &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251103/p35#a251103p35)
+ - [Our Favorite Earbuds for Android Users Are $60 Off](https://www.wired.com/story/pixel-buds-pro-2-deal-1125/)
+ - [Apple finally brings the full App Store experience to the web](https://appleinsider.com/articles/25/11/03/apple-finally-brings-the-full-app-store-experience-to-the-web?utm_source=rss)
+ - [OpenAI Signs $38 Billion Deal With Amazon](https://www.wired.com/story/openai-amazon-multi-billion-dollar-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

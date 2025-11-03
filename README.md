@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [His name is Jenner](http://9gag.com/gag/amoK1W4)
- - 😝 [A swatch oh yer fanny.](http://9gag.com/gag/amoKWe4)
- - 💣 [Good News](http://9gag.com/gag/aAyq6v9)
- - 😝 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
+ - 😝 [Good News](http://9gag.com/gag/aAyq6v9)
+ - 💣 [Sparta this import into oblivion](http://9gag.com/gag/ajPGLDq)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
  - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---

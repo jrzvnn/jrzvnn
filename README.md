@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cologne-based Octonomy, which helps companies deploy AI in complex workflows, raised a $20M seed led by Macquarie Capital, bringing its total raised to $25M &lpar;Amelia Isaacs/Pathfounders&rpar;](http://www.techmeme.com/251103/p3#a251103p3)
  - [Sources: Pony AI plans to raise $863M in its November 6 Hong Kong IPO by selling 48.3M shares at ~$17.88 each, below its October 31 Nasdaq close at $18.68 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p2#a251103p2)
  - [During an interview, Satya Nadella says Microsoft faces a power shortage, not a compute one, which could leave &quot;chips sitting in inventory that I can&#39;t plug in&quot; &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251103/p1#a251103p1)
  - [Baidu says its Apollo Go robotaxi hit 250,000 weekly orders globally as of October 31, matching Waymo&#39;s 250,000 weekly paid US rides reported in April 2025 &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251102/p16#a251102p16)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 3, #406](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-3-406/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 3](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 3, #406](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-3-406/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

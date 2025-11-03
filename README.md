@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches the App Store on the web, with dedicated pages for the iPhone, iPad, Mac, TV, Watch, and Vision &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/251103/p37#a251103p37)
  - [France threatens to ban Shein and refers it to Paris prosecutor after an investigation found that sex dolls &quot;resembling children&quot; were being sold on the site &lpar;Liz Alderman/New York Times&rpar;](http://www.techmeme.com/251103/p36#a251103p36)
  - [Apple brings its App Store to the web](https://www.theverge.com/news/812731/apple-app-store-web-iphone-mac-ipad)
- - [7 of Our Favorite A24 Movies Are Now Streaming for Free](https://www.cnet.com/tech/services-and-software/7-of-our-favorite-a24-movies-are-streaming-for-free/#ftag=CAD590a51e)
  - [I tested a bunch of gaming laptops and these are the best](https://www.theverge.com/22295181/best-gaming-laptop)
  - [Alleged U Penn hacker claims they’re in it for money, not ‘primarily “anti-DEI”’](https://www.theverge.com/policy/812700/university-pennsylvania-hack-data-sale-dei)<!-- TECH:END -->
 

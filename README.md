@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MongoDB CEO Dev Ittycheria is stepping down after 11 years, replaced by Cloudflare President of Product &amp; Engineering Chirantan Desai, effective November 10 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251103/p21#a251103p21)
+ - [Best Wireless Headphones &lpar;2025&rpar;: Tested Over Many Hours](https://www.wired.com/gallery/best-wireless-headphones/)
  - [How Frankenstein’s creature designer found a new look for an iconic monster](https://www.theverge.com/entertainment/811694/netflix-frankenstein-creature-design-interview-mike-hill)
  - [Inside Camera in iOS 26 -- The essentials of iPhone photography](https://appleinsider.com/inside/ios-26/tips/inside-camera-in-ios-26----the-essentials-of-iphone-photography?utm_source=rss)
- - [Court documents: in a deposition, Ilya Sutskever documented significant internal conflicts at OpenAI prior to Sam Altman&#39;s firing and discusses his OpenAI exit &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251103/p20#a251103p20)
- - [Redmagic’s liquid-cooled gaming phone starts at $749](https://www.theverge.com/news/812391/redmagics-liquid-cooled-gaming-phone-starts-at-749)
- - [The UK CMA says it will launch an in-depth investigation into Getty and Shutterstock&#39;s proposed merger after their proposed remedies failed to address concerns &lpar;Raechel Thankam Job/Reuters&rpar;](http://www.techmeme.com/251103/p19#a251103p19)<!-- TECH:END -->
+ - [Court documents: in a deposition, Ilya Sutskever documented significant internal conflicts at OpenAI prior to Sam Altman&#39;s firing and discusses his OpenAI exit &lpar;Rocket Drew/The Information&rpar;](http://www.techmeme.com/251103/p20#a251103p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

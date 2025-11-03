@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple discontinuing support for older Home architecture in February 2026](https://appleinsider.com/articles/25/11/03/apple-discontinuing-support-for-older-home-architecture-in-february-2026?utm_source=rss)
+ - [DeFi protocol Balancer says its V2 Composable Stable Pools suffered an exploit, which security experts estimate resulted in total losses worth about $128M &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251103/p43#a251103p43)
  - [Anthropic announces a deal with Cognizant, under which Cognizant will deploy Claude to its 350,000 employees and co-sell Claude models to its business customers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p42#a251103p42)
  - [&#39;Squid Game: The Challenge&#39; Is Back With Season 2. Here&#39;s When to Watch](https://www.cnet.com/culture/entertainment/squid-game-the-challenge-is-back-with-season-2-heres-when-to-watch/#ftag=CAD590a51e)
- - [I Tested the Top Cheap Digicams on Amazon. Most of Them Were Garbage](https://www.cnet.com/tech/computing/i-tested-the-top-cheap-digicams-on-amazon-most-of-them-were-garbage/#ftag=CAD590a51e)
- - [iOS 26.1 Is Here, and It Brings All These Changes to Your iPhone](https://www.cnet.com/tech/services-and-software/ios-26-1-is-here-and-it-brings-all-these-changes-to-your-iphone/#ftag=CAD590a51e)
- - [US federal prosecutors allege that three cybersecurity professionals carried out ransomware attacks on at least five US companies in 2023 using ALPHV ransomware &lpar;Matt Kapko/CyberScoop&rpar;](http://www.techmeme.com/251103/p41#a251103p41)<!-- TECH:END -->
+ - [I Tested the Top Cheap Digicams on Amazon. Most of Them Were Garbage](https://www.cnet.com/tech/computing/i-tested-the-top-cheap-digicams-on-amazon-most-of-them-were-garbage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

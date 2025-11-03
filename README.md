@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fixed it](http://9gag.com/gag/a6Z49Zb)
+ - 😝 [Missing the good old internet days](http://9gag.com/gag/aD2r81x)
  - 😝 [Ricky Gervais is furious that his billboard is now banned after the mass stabbing in London](http://9gag.com/gag/a2v986e)
  - 💣 [Guys will see thing like this and just say `Hell yeah`](http://9gag.com/gag/avy41KZ)
  - 😝 [The fat ones](http://9gag.com/gag/aVv4EyO)

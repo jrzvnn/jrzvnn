@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 😝 [Good News](http://9gag.com/gag/aAyq6v9)
  - 😝 [Fail](http://9gag.com/gag/aYQZOvx)
- - 💣 [Australia](http://9gag.com/gag/aGy689X)
+ - 💣 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
  - 😝 [Inspiring poles](http://9gag.com/gag/a5QvwRN)
- - 👉 [For some, lessons can be taught but not learned.](http://9gag.com/gag/ae9y47b)<!-- MEMES:END -->
+ - 👉 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)<!-- MEMES:END -->
 
 ---
 

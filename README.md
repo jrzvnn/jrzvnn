@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
- - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 💣 [A valuable lesson](http://9gag.com/gag/adBrQnQ)
- - 😝 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
- - 👉 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)<!-- MEMES:END -->
+ - 😝 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
+ - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 💣 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 👉 [The Council of Men disappoves that move](http://9gag.com/gag/ajPGOOR)<!-- MEMES:END -->
 
 ---
 

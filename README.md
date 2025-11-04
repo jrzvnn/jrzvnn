@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 😝 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
  - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 💣 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)
+ - 💣 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
  - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
+ - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
 
 ---
 

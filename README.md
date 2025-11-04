@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays](https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale)
+ - [AirPods Live Translation is coming to the EU soon after regulatory delays](https://appleinsider.com/articles/25/11/04/airpods-live-translation-is-coming-to-the-eu-soon-after-regulatory-delays?utm_source=rss)
  - [Perplexity AI accuses Amazon of &quot;bullying&quot; after receiving &quot;an aggressive legal threat&quot; demanding Comet not make purchases on users&#39; behalf &lpar;CNBC&rpar;](http://www.techmeme.com/251104/p29#a251104p29)
  - [Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk](https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/)
- - [FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves](https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/)
- - [M5 Mac Mini, Mac Studio updates expected in early 2026](https://appleinsider.com/articles/25/11/04/m5-mac-mini-mac-studio-updates-expected-in-early-2026?utm_source=rss)
- - [Budget-friendly MacBook ship date pushed to 2026](https://appleinsider.com/articles/25/11/04/budget-friendly-macbook-shipdate-pushed-to-2026?utm_source=rss)<!-- TECH:END -->
+ - [FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves](https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

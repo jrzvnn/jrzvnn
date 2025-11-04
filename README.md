@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EV Battery Tech That’s Worth the Hype, According to Experts](https://www.wired.com/story/the-ev-battery-tech-thats-worth-the-hype-according-to-experts/)
- - [A New Light-Based Cancer Treatment Kills Tumor Cells and Spares Healthy Ones](https://www.wired.com/story/a-new-light-based-cancer-treatment-kills-tumor-cells-and-spares-healthy-ones/)
- - [Q&amp;A with Lyft CEO David Risher on the company&#39;s turnaround, AI, paying drivers more, Uber, partnership with Tensor for autonomous vehicle tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251104/p2#a251104p2)
- - [Nintendo reports Q2 revenue up 90% YoY to $3.7B, vs. ~$3B est., net profit of ~$667M, vs. ~$412M est., and expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)
- - [20% Off Chewy Promo Codes | November 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
+ - [Nintendo is raising its Switch 2 sales expectations](https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings)
+ - [Chainalysis CEO Jonathan Levin says DeFi platforms&#39; rapid growth leaves their users&#39; assets at risk of attack; DefiLlama says $140B+ is held on DeFi protocols &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251104/p3#a251104p3)
+ - [A New Type of Opioid Is Killing People in the US, Europe, and Australia](https://www.wired.com/story/a-new-type-of-opioid-is-killing-people-in-the-us-europe-and-australia/)
+ - [What’s the Deal With Okapa’s $300 Water Bottle?](https://www.wired.com/story/whats-the-deal-with-okapas-dollar300-water-bottle/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 4 #611](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-4-611/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

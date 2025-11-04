@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 💣 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)<!-- MEMES:END -->
+ - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
+ - 😝 [The Matrix is a system, Neo](http://9gag.com/gag/a9yZ58Z)
+ - 💣 [This is how you do it](http://9gag.com/gag/aAyqKrd)
+ - 😝 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)
+ - 👉 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)<!-- MEMES:END -->
 
 ---
 

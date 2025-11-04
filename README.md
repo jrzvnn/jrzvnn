@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple discontinuing support for older Home architecture in February 2026](https://appleinsider.com/articles/25/11/03/apple-discontinuing-support-for-older-home-architecture-in-february-2026?utm_source=rss)
- - [DeFi protocol Balancer says its V2 Composable Stable Pools suffered an exploit, which security experts estimate resulted in total losses worth about $128M &lpar;Ryan S. Gladwin/Decrypt&rpar;](http://www.techmeme.com/251103/p43#a251103p43)
- - [Anthropic announces a deal with Cognizant, under which Cognizant will deploy Claude to its 350,000 employees and co-sell Claude models to its business customers &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p42#a251103p42)
- - [&#39;Squid Game: The Challenge&#39; Is Back With Season 2. Here&#39;s When to Watch](https://www.cnet.com/culture/entertainment/squid-game-the-challenge-is-back-with-season-2-heres-when-to-watch/#ftag=CAD590a51e)
- - [I Tested the Top Cheap Digicams on Amazon. Most of Them Were Garbage](https://www.cnet.com/tech/computing/i-tested-the-top-cheap-digicams-on-amazon-most-of-them-were-garbage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)
+ - [Epomaker MS68 review: Squishy and underwhelming](https://appleinsider.com/articles/25/11/04/epomaker-ms68-review-squishy-and-underwhelming?utm_source=rss)
+ - [Coca-Cola releases upgraded AI-generated ads for 2025 holidays, after finding people didn&#39;t know or care about the use of AI, despite criticism for its 2024 ads &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p45#a251103p45)
+ - [Chrome Autofill Now Supports Passport, Driver&#39;s License and Vehicle Info](https://www.cnet.com/tech/services-and-software/chrome-autofill-now-supports-passport-drivers-license-and-vehicle-info/#ftag=CAD590a51e)
+ - [Augmented Intelligence, which is building neuro-symbolic AI models, raised $20M in a bridge SAFE round at a $750M valuation, bringing its total funding to ~$60M &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251103/p44#a251103p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

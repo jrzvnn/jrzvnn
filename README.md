@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils Project Suncatcher to launch two solar-powered satellites, each with four TPUs, into low Earth orbit in 2027, as it seeks to scale AI compute &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251104/p22#a251104p22)
- - [Paris prosecutors open a probe into TikTok&#39;s algorithm and compliance with requirements to police and report suicide content, after a French government report &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251104/p21#a251104p21)
- - [Apple is reportedly working on a cheaper Mac laptop with an iPhone chip](https://www.theverge.com/news/813391/apple-mac-laptop-iphone-a-series-chip-macbook-cheaper)
- - [After a decade, Apple Watch finally gets a WhatsApp client](https://appleinsider.com/articles/25/11/04/after-a-decade-apple-watch-finally-gets-a-whatsapp-client?utm_source=rss)
- - [Sources: Apple plans to launch a low-cost laptop powered by an iPhone chip in H1 2026 to rival Chromebooks, aimed at students and casual users, codenamed J700 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251104/p20#a251104p20)<!-- TECH:END -->
+ - [Sequoia announces that Alfred Lin and Pat Grady will be elevated to firm stewards, succeeding Roelof Botha, who led Sequoia solo since 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251104/p24#a251104p24)
+ - [Source: Anthropic projects revenues of up to $70B in 2028, up from ~$5B in 2025, and expects to become cash flow positive as soon as 2027 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251104/p23#a251104p23)
+ - [Predator: Badlands is a lighthearted twist on the brutal sci-fi series](https://www.theverge.com/entertainment/813146/predator-badlands-review)
+ - [Wikipedia co-founder joins editing conflict over the Gaza genocide page](https://www.theverge.com/news/813245/wikipedia-co-founder-jimmy-wales-gaza-genocide)
+ - [Budget-friendly MacBook shipdate pushed to 2026](https://appleinsider.com/articles/25/11/04/budget-friendly-macbook-shipdate-pushed-to-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

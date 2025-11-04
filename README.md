@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia broadens its social media ban for under-16s to include Reddit and Kick, which join Facebook, Instagram, Threads, Snapchat, TikTok, X, and YouTube &lpar;Clare Armstrong/ABC&rpar;](http://www.techmeme.com/251104/p37#a251104p37)
+ - [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters)
+ - [Sources: Netflix has sent out dozens of requests to agents at WME, UTA, and CAA for video podcast creators, and plans to launch video podcasts in early 2026 &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/251104/p36#a251104p36)
  - [Your Stream Deck’s ‘device not supported’ error should fix itself if you log in](https://www.theverge.com/tech/813814/your-stream-decks-device-not-supported-error-should-fix-itself-if-you-log-in)
- - [Super Micro reports Q1 revenue down 15% YoY to $5B, vs. $6.09B est., and forecasts Q2 profit below estimates; SMCI drops 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251104/p35#a251104p35)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Match reports Q3 revenue up 2% YoY to $914M, vs. $915M est., net income up 18% to $161M, paying users down 5% to 14.5M, and forecasts Q4 revenue below estimates &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251104/p34#a251104p34)
- - [Microsoft AI&amp;#8217;s first in-house image generator MAI-Image-1 is now available](https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1)<!-- TECH:END -->
+ - [Super Micro reports Q1 revenue down 15% YoY to $5B, vs. $6.09B est., and forecasts Q2 profit below estimates; SMCI drops 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251104/p35#a251104p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

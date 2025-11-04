@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
- - 💣 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)
- - 😝 [A valuable lesson](http://9gag.com/gag/adBrQnQ)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
+ - 💣 [Fail](http://9gag.com/gag/aYQZOvx)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 
 ---
 

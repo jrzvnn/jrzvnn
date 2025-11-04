@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 💣 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
  - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
- - 😝 [The Matrix is a system, Neo](http://9gag.com/gag/a9yZ58Z)
- - 💣 [This is how you do it](http://9gag.com/gag/aAyqKrd)
- - 😝 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)
- - 👉 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)<!-- MEMES:END -->
+ - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
 
 ---
 

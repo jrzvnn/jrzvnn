@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sequoia announces that Alfred Lin and Pat Grady will be elevated to firm stewards, succeeding Roelof Botha, who led Sequoia solo since 2022 &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251104/p24#a251104p24)
- - [Source: Anthropic projects revenues of up to $70B in 2028, up from ~$5B in 2025, and expects to become cash flow positive as soon as 2027 &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251104/p23#a251104p23)
- - [Predator: Badlands is a lighthearted twist on the brutal sci-fi series](https://www.theverge.com/entertainment/813146/predator-badlands-review)
- - [Wikipedia co-founder joins editing conflict over the Gaza genocide page](https://www.theverge.com/news/813245/wikipedia-co-founder-jimmy-wales-gaza-genocide)
- - [Budget-friendly MacBook shipdate pushed to 2026](https://appleinsider.com/articles/25/11/04/budget-friendly-macbook-shipdate-pushed-to-2026?utm_source=rss)<!-- TECH:END -->
+ - [Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2](https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2)
+ - [Switzerland-based Mimic Robotics, which is building AI models to enable human-like robotic hands to adapt to complex, high-precision tasks, raised a $16M seed &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251104/p26#a251104p26)
+ - [First developer beta of iOS 26.2 arrives, but macOS Tahoe is missing](https://appleinsider.com/articles/25/11/04/first-developer-beta-of-ios-262-arrives-but-macos-tahoe-is-missing?utm_source=rss)
+ - [Sources: Amazon sent a cease-and-desist to Perplexity, demanding it to stop letting Comet make purchases on users&#39; behalf, accusing it of computer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p25#a251104p25)
+ - [Every current-gen Fitbit is already heavily discounted for Black Friday](https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

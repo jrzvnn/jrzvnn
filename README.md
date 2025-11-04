@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify reports Q3 revenue up 12% YoY to €4.3B, above €4.23B est., subscribers up 12% YoY to 281M, MAUs up 11% YoY to 713M, and a €582M operating income &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251104/p5#a251104p5)
+ - [How Portugal is investing ~4.6% of its GDP around the port of Sines, seeking to transform it from a tourism-dependent economy to a tech and industrial hub &lpar;Sofia Horta e Costa/Bloomberg&rpar;](http://www.techmeme.com/251104/p4#a251104p4)
+ - [The Inside Story of How Gen Z Toppled Nepal’s Leader and Chose a New One on Discord](https://www.wired.com/story/nepal-discord-gen-z-protests-vote-prime-minister-election/)
  - [Nintendo is raising its Switch 2 sales expectations](https://www.theverge.com/news/813025/nintendo-switch-2-sales-september-2025-earnings)
- - [Chainalysis CEO Jonathan Levin says DeFi platforms&#39; rapid growth leaves their users&#39; assets at risk of attack; DefiLlama says $140B+ is held on DeFi protocols &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251104/p3#a251104p3)
- - [A New Type of Opioid Is Killing People in the US, Europe, and Australia](https://www.wired.com/story/a-new-type-of-opioid-is-killing-people-in-the-us-europe-and-australia/)
- - [What’s the Deal With Okapa’s $300 Water Bottle?](https://www.wired.com/story/whats-the-deal-with-okapas-dollar300-water-bottle/)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 4 #611](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-4-611/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chainalysis CEO Jonathan Levin says DeFi platforms&#39; rapid growth leaves their users&#39; assets at risk of attack; DefiLlama says $140B+ is held on DeFi protocols &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251104/p3#a251104p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

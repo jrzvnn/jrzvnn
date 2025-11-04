@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
  - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
- - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
+ - 💣 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
 
 ---
 

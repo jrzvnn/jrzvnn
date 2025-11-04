@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google unveils Project Suncatcher to launch two solar-powered satellites, each with four TPUs, into low Earth orbit in 2027, as it seeks to scale AI compute &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251104/p22#a251104p22)
  - [Paris prosecutors open a probe into TikTok&#39;s algorithm and compliance with requirements to police and report suicide content, after a French government report &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251104/p21#a251104p21)
  - [Apple is reportedly working on a cheaper Mac laptop with an iPhone chip](https://www.theverge.com/news/813391/apple-mac-laptop-iphone-a-series-chip-macbook-cheaper)
  - [After a decade, Apple Watch finally gets a WhatsApp client](https://appleinsider.com/articles/25/11/04/after-a-decade-apple-watch-finally-gets-a-whatsapp-client?utm_source=rss)
- - [Sources: Apple plans to launch a low-cost laptop powered by an iPhone chip in H1 2026 to rival Chromebooks, aimed at students and casual users, codenamed J700 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251104/p20#a251104p20)
- - [European law enforcement arrests nine suspects involved in an alleged crypto fraud ring that stole €600M+ via fake investment platforms promising high returns &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251104/p19#a251104p19)<!-- TECH:END -->
+ - [Sources: Apple plans to launch a low-cost laptop powered by an iPhone chip in H1 2026 to rival Chromebooks, aimed at students and casual users, codenamed J700 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251104/p20#a251104p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

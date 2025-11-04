@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Jos\u00e9 Meffre set an incredible speed record of 204.73 km/h on this bicycle in 1962.](http://9gag.com/gag/a4PmNMQ)
- - 😝 [This boy suddenly has more experience than most 9gaggers](http://9gag.com/gag/a9yZ5MK)
- - 💣 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
+ - 😝 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)
+ - 😝 [Prey for me](http://9gag.com/gag/a87QDQZ)
+ - 💣 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)
+ - 😝 [Low res image, but true](http://9gag.com/gag/aXPQ4yg)
+ - 👉 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)<!-- MEMES:END -->
 
 ---
 

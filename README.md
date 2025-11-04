@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches its Sora app on Android](https://www.theverge.com/news/813533/openai-sora-android-launch)
+ - [iPhone 18 Pro may get one of these three colors](https://appleinsider.com/articles/25/11/04/iphone-18-pro-may-get-one-of-these-three-colors?utm_source=rss)
+ - [Our Favorite Gaming Headset for Xbox Owners Is Discounted](https://www.wired.com/story/xbox-wireless-headset-deal-1125/)
  - [Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2](https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2)
- - [Switzerland-based Mimic Robotics, which is building AI models to enable human-like robotic hands to adapt to complex, high-precision tasks, raised a $16M seed &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251104/p26#a251104p26)
- - [First developer beta of iOS 26.2 arrives, but macOS Tahoe is missing](https://appleinsider.com/articles/25/11/04/first-developer-beta-of-ios-262-arrives-but-macos-tahoe-is-missing?utm_source=rss)
- - [Sources: Amazon sent a cease-and-desist to Perplexity, demanding it to stop letting Comet make purchases on users&#39; behalf, accusing it of computer fraud &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p25#a251104p25)
- - [Every current-gen Fitbit is already heavily discounted for Black Friday](https://www.theverge.com/tech/813053/fitbit-fitness-tracker-deals-black-friday-sale-2025)<!-- TECH:END -->
+ - [Switzerland-based Mimic Robotics, which is building AI models to enable human-like robotic hands to adapt to complex, high-precision tasks, raised a $16M seed &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251104/p26#a251104p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

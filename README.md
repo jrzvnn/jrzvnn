@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% Off Chewy Promo Codes | November 2025](https://www.wired.com/story/chewy-promo-code/)
  - [The Best Holiday Cooking Kits and Classes to Delight Every Food Lovers in 2025](https://www.cnet.com/news/best-food-kits-and-experiences/#ftag=CAD590a51e)
  - [How to stream &#39;A Charlie Brown Thanksgiving&#39; for free in 2025](https://appleinsider.com/articles/25/11/04/how-to-stream-a-charlie-brown-thanksgiving-for-free-in-2025?utm_source=rss)
  - [Grab reports Q3 revenue up 22% YoY to $873M, vs. 869M est., and an adjusted EBITDA of $136M, helped by offerings like group food orders and cheaper shared rides &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251103/p48#a251103p48)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-4/#ftag=CAD590a51e)
- - [Sources: China offers to cut data center power bills by up to 50% to Alibaba and others, if they use local chips like Huawei&#39;s over foreign ones like Nvidia&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p47#a251103p47)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 4](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
- - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 💣 [Fail](http://9gag.com/gag/aYQZOvx)
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 💣 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
  - 😝 [0_0](http://9gag.com/gag/axyQ691)
  - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 

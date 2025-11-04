@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 😝 [Jos\u00e9 Meffre set an incredible speed record of 204.73 km/h on this bicycle in 1962.](http://9gag.com/gag/a4PmNMQ)
+ - 😝 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
+ - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
  - 😝 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)
- - 💣 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
  - 👉 [Oh no, you can actually hear the neurons sizzling, full Dunning-Kruger on display. Someone tell him just because u can read the word, doesn&#39;t make you an expert](http://9gag.com/gag/a5QvB3q)<!-- MEMES:END -->
 
 ---

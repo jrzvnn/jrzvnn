@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The GOP Civil War Over Nick Fuentes Has Just Begun](https://www.wired.com/story/gop-civil-war-over-nick-fuentes-antisemitism/)
+ - [The 16 Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)
  - [Amazon rolls out Alexa+ on the Amazon Music app on iOS and Android, letting Alexa+ Early Access users request obscure information or complex recommendations &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251104/p13#a251104p13)
  - [Your smart home questions, answered](https://www.theverge.com/podcast/813012/smart-home-questions-hotline-vergecast)
- - [AWS says it is developing the Fastnet subsea cable to connect Maryland and Ireland, aiming to launch by 2028 with a capacity of 320Tbps+ and buried ~1.5m deep &lpar;Emily Forlini/PCMag&rpar;](http://www.techmeme.com/251104/p12#a251104p12)
- - [Premiere: Netflix’s New True Crime Doc Dives Into a Mother’s Mysterious Disappearance](https://www.wired.com/story/the-carman-family-deaths-trailer-premiere/)
- - [Amazon is building Alexa Plus into its Music app](https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration)<!-- TECH:END -->
+ - [AWS says it is developing the Fastnet subsea cable to connect Maryland and Ireland, aiming to launch by 2028 with a capacity of 320Tbps+ and buried ~1.5m deep &lpar;Emily Forlini/PCMag&rpar;](http://www.techmeme.com/251104/p12#a251104p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

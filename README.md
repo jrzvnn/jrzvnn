@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
- - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 💣 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Fixed it](http://9gag.com/gag/a6Z49Zb)<!-- MEMES:END -->
+ - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
+ - 😝 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)
+ - 💣 [A valuable lesson](http://9gag.com/gag/adBrQnQ)
+ - 😝 [Old cat with many chronic diseases enjoying company of his human.](http://9gag.com/gag/aVv4mYd)
+ - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
 
 ---
 

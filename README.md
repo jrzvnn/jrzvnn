@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
- - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 💣 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
+ - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
  - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
+ - 👉 [Bro got took down](http://9gag.com/gag/apRzPdB)<!-- MEMES:END -->
 
 ---
 

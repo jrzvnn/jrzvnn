@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pinterest reports Q3 revenue up 17% YoY to $1.05B, MAUs up 12% to 600M, vs. 590M est., but forecasts Q4 revenue below est.; PINS drops 13%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251104/p32#a251104p32)
  - [I let Gemini watch my family for the weekend — it got weird](https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on)
  - [Influencers have fractured reality in Portland](https://www.theverge.com/policy/813408/portland-influencers-national-guard-oregon-ninth-circuit)
  - [New in iOS 26.2: Liquid Glass, News, Podcasts, and Sleep Score changes](https://appleinsider.com/articles/25/11/04/new-in-ios-262-liquid-glass-news-podcasts-and-sleep-score-changes?utm_source=rss)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Apple says Live Translation on AirPods will expand to the EU next month; the first iOS 26.2 beta, seeded to developers on Tuesday, brings the feature to the EU &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251104/p31#a251104p31)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Premiere: Netflix’s New True Crime Doc Dives Into a Mother’s Mysterious Disappearance](https://www.wired.com/story/the-carman-family-deaths-trailer-premiere/)
+ - [Amazon is building Alexa Plus into its Music app](https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration)
+ - [Jimmy Wales says Wikipedia&#39;s &quot;Gaza genocide&quot; page failed to meet its standards of neutrality; the article is listed as &quot;protected&quot; until 21:47 UTC on November 4 &lpar;Xander Elliards/The National&rpar;](http://www.techmeme.com/251104/p11#a251104p11)
  - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Tech companies don’t care that students use their AI agents to cheat](https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students)
- - [Apple Desperately Needs to Copy 3 Oppo Find X9 Pro Features for the iPhone 18](https://www.cnet.com/tech/mobile/apple-desperately-needs-to-copy-3-oppo-find-x9-pro-features-for-the-iphone-18/#ftag=CAD590a51e)
- - [Hisense U75QG TV Review: Dazzling Punch, Minimal Compromises](https://www.wired.com/review/hisense-u75qg/)
- - [A profile of nonprofit Common Crawl, which has scraped billions of webpages since 2013, including paywalled ones, to build an archive used by OpenAI and others &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/251104/p10#a251104p10)<!-- TECH:END -->
+ - [Tech companies don’t care that students use their AI agents to cheat](https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

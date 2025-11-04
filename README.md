@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)
- - 😝 [Prey for me](http://9gag.com/gag/a87QDQZ)
- - 💣 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)
- - 😝 [Low res image, but true](http://9gag.com/gag/aXPQ4yg)
- - 👉 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)<!-- MEMES:END -->
+ - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 😝 [Oh no, you can actually hear the neurons sizzling, full Dunning-Kruger on display. Someone tell him just because u can read the word, doesn&#39;t make you an expert](http://9gag.com/gag/a5QvB3q)
+ - 💣 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
+ - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beacon Software, which buys niche software businesses and uses AI to transform them, raised a $250M Series B led by GC, Lightspeed, and D1 at a $1B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251104/p16#a251104p16)
+ - [Spotify says it now has nearly 500K video podcasts and more than 390M users have now streamed a video podcast on its platform, up 54% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251104/p18#a251104p18)
+ - [Tel Aviv-based Daylight, whose AI-native platform autonomously identifies and contains cyber threats, raised a $33M Series A, bringing its total funding to $40M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251104/p17#a251104p17)
+ - [Beacon Software, which acquires niche software businesses and transforms them with AI, raised a $250M Series B led by GC, Lightspeed, and D1 at a $1B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251104/p16#a251104p16)
  - [Google’s entire Pixel 10 lineup is up to 25 percent off for the first time](https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale)
- - [Instacart launches an AI shopping assistant as part of its white-label e-commerce service, which powers the online shopping sites for some grocery chains &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251104/p15#a251104p15)
- - [It&#39;s Been a Year Since Trump Was Elected. Democrats Still Don&#39;t Get the Internet](https://www.wired.com/story/do-democrats-get-the-internet-yet/)
- - [WhatsApp launches an Apple Watch app that lets users get call notifications, read full messages, and record and send voice messages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251104/p14#a251104p14)<!-- TECH:END -->
+ - [Instacart launches an AI shopping assistant as part of its white-label e-commerce service, which powers the online shopping sites for some grocery chains &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251104/p15#a251104p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

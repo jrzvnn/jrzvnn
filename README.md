@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Beacon Software, which buys niche software businesses and uses AI to transform them, raised a $250M Series B led by GC, Lightspeed, and D1 at a $1B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251104/p16#a251104p16)
+ - [Google’s entire Pixel 10 lineup is up to 25 percent off for the first time](https://www.theverge.com/tech/813137/google-pixel-10-pro-fold-motherboard-nintendo-deal-sale)
+ - [Instacart launches an AI shopping assistant as part of its white-label e-commerce service, which powers the online shopping sites for some grocery chains &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251104/p15#a251104p15)
  - [It&#39;s Been a Year Since Trump Was Elected. Democrats Still Don&#39;t Get the Internet](https://www.wired.com/story/do-democrats-get-the-internet-yet/)
- - [WhatsApp launches an Apple Watch companion app, letting users get call notifications, read full messages, and record and send voice messages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251104/p14#a251104p14)
- - [Grab massive Surfshark VPN discounts with Black Friday deals from $1.99/mo](https://appleinsider.com/articles/25/11/04/grab-massive-surfshark-vpn-discounts-with-black-friday-deals-from-199-per-month?utm_source=rss)
- - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
- - [The GOP Civil War Over Nick Fuentes Has Just Begun](https://www.wired.com/story/gop-civil-war-over-nick-fuentes-antisemitism/)<!-- TECH:END -->
+ - [WhatsApp launches an Apple Watch app that lets users get call notifications, read full messages, and record and send voice messages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251104/p14#a251104p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google has a ‘moonshot’ plan for AI data centers in space](https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites)
  - [The US sanctions eight people and two companies it accused of laundering money obtained from cybercrime and IT worker schemes for the North Korean government &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/251104/p38#a251104p38)
- - [Apple Reportedly Planning Cheaper Macs to Compete With Budget Chromebooks, PCs](https://www.cnet.com/tech/computing/apple-reportedly-planning-cheaper-macs-to-compete-with-budget-chromebooks-pcs/#ftag=CAD590a51e)
  - [Valve will finally turn off the Steam Deck&amp;#8217;s screen while it&amp;#8217;s downloading games](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off)
  - [Australia broadens its social media ban for under-16s to include Reddit and Kick, which join Facebook, Instagram, Threads, Snapchat, TikTok, X, and YouTube &lpar;Clare Armstrong/ABC&rpar;](http://www.techmeme.com/251104/p37#a251104p37)
  - [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters)<!-- TECH:END -->

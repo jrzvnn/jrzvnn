@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp launches an Apple Watch companion app, letting users get call notifications, read full messages, and record and send voice messages &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251104/p14#a251104p14)
+ - [Grab massive Surfshark VPN discounts with Black Friday deals from $1.99/mo](https://appleinsider.com/articles/25/11/04/grab-massive-surfshark-vpn-discounts-with-black-friday-deals-from-199-per-month?utm_source=rss)
+ - [10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic](https://www.wired.com/gallery/best-meal-kit-services-1/)
  - [The GOP Civil War Over Nick Fuentes Has Just Begun](https://www.wired.com/story/gop-civil-war-over-nick-fuentes-antisemitism/)
- - [The 16 Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)
- - [Amazon rolls out Alexa+ on the Amazon Music app on iOS and Android, letting Alexa+ Early Access users request obscure information or complex recommendations &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251104/p13#a251104p13)
- - [Your smart home questions, answered](https://www.theverge.com/podcast/813012/smart-home-questions-hotline-vergecast)
- - [AWS says it is developing the Fastnet subsea cable to connect Maryland and Ireland, aiming to launch by 2028 with a capacity of 320Tbps+ and buried ~1.5m deep &lpar;Emily Forlini/PCMag&rpar;](http://www.techmeme.com/251104/p12#a251104p12)<!-- TECH:END -->
+ - [The 16 Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

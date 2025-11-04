@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to stream &#39;A Charlie Brown Thanksgiving&#39; for free in 2025](https://appleinsider.com/articles/25/11/04/how-to-stream-a-charlie-brown-thanksgiving-for-free-in-2025?utm_source=rss)
+ - [Grab reports Q3 revenue up 22% YoY to $873M, vs. 869M est., and an adjusted EBITDA of $136M, helped by offerings like group food orders and cheaper shared rides &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251103/p48#a251103p48)
  - [Sources: China offers to cut data center power bills by up to 50% to Alibaba and others, if they use local chips like Huawei&#39;s over foreign ones like Nvidia&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p47#a251103p47)
  - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)
- - [Windows 11 Previews a Feature That Lets You Share Audio With Another Person&#39;s Device](https://www.cnet.com/tech/mobile/windows-11-previews-a-feature-that-lets-you-share-audio-with-another-persons-device/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 4, #407](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-4-407/#ftag=CAD590a51e)
- - [Epomaker MS68 review: Squishy and underwhelming](https://appleinsider.com/articles/25/11/04/epomaker-ms68-review-squishy-and-underwhelming?utm_source=rss)<!-- TECH:END -->
+ - [Windows 11 Previews a Feature That Lets You Share Audio With Another Person&#39;s Device](https://www.cnet.com/tech/mobile/windows-11-previews-a-feature-that-lets-you-share-audio-with-another-persons-device/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This boy suddenly has more experience than most 9gaggers](http://9gag.com/gag/a9yZ5MK)
- - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 💣 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 😝 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
  - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 
 ---

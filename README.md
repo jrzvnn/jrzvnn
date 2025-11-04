@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China offers to cut data center power bills by up to 50% to Alibaba and others, if they use local chips like Huawei&#39;s over foreign ones like Nvidia&#39;s &lpar;Financial Times&rpar;](http://www.techmeme.com/251103/p47#a251103p47)
  - [Sources: WeRide is set to raise ~$308M in its Hong Kong listing, planning to price shares at ~$3.48, representing a ~4% discount to its Monday Nasdaq close &lpar;Bloomberg&rpar;](http://www.techmeme.com/251103/p46#a251103p46)
- - [Epomaker MS68 review: Squishy and underwhelming](https://appleinsider.com/articles/25/11/04/epomaker-ms68-review-squishy-and-underwhelming?utm_source=rss)
- - [Coca-Cola releases upgraded AI-generated ads for 2025 holidays, after finding people didn&#39;t know or care about the use of AI, despite criticism for its 2024 ads &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/251103/p45#a251103p45)
- - [Chrome Autofill Now Supports Passport, Driver&#39;s License and Vehicle Info](https://www.cnet.com/tech/services-and-software/chrome-autofill-now-supports-passport-drivers-license-and-vehicle-info/#ftag=CAD590a51e)
- - [Augmented Intelligence, which is building neuro-symbolic AI models, raised $20M in a bridge SAFE round at a $750M valuation, bringing its total funding to ~$60M &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251103/p44#a251103p44)<!-- TECH:END -->
+ - [Windows 11 Previews a Feature That Lets You Share Audio With Another Person&#39;s Device](https://www.cnet.com/tech/mobile/windows-11-previews-a-feature-that-lets-you-share-audio-with-another-persons-device/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 4, #407](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-4-407/#ftag=CAD590a51e)
+ - [Epomaker MS68 review: Squishy and underwhelming](https://appleinsider.com/articles/25/11/04/epomaker-ms68-review-squishy-and-underwhelming?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

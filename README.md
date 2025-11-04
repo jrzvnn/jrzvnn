@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
+ - 😝 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
  - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 💣 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
  - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
+ - 👉 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)<!-- MEMES:END -->
 
 ---
 

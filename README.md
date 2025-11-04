@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon rolls out Alexa+ on the Amazon Music app on iOS and Android, letting Alexa+ Early Access users request obscure information or complex recommendations &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251104/p13#a251104p13)
+ - [Your smart home questions, answered](https://www.theverge.com/podcast/813012/smart-home-questions-hotline-vergecast)
+ - [AWS says it is developing the Fastnet subsea cable to connect Maryland and Ireland, aiming to launch by 2028 with a capacity of 320Tbps+ and buried ~1.5m deep &lpar;Emily Forlini/PCMag&rpar;](http://www.techmeme.com/251104/p12#a251104p12)
  - [Premiere: Netflix’s New True Crime Doc Dives Into a Mother’s Mysterious Disappearance](https://www.wired.com/story/the-carman-family-deaths-trailer-premiere/)
- - [Amazon is building Alexa Plus into its Music app](https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration)
- - [Jimmy Wales says Wikipedia&#39;s &quot;Gaza genocide&quot; page failed to meet its standards of neutrality; the article is listed as &quot;protected&quot; until 21:47 UTC on November 4 &lpar;Xander Elliards/The National&rpar;](http://www.techmeme.com/251104/p11#a251104p11)
- - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
- - [Tech companies don’t care that students use their AI agents to cheat](https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students)<!-- TECH:END -->
+ - [Amazon is building Alexa Plus into its Music app](https://www.theverge.com/news/813102/amazon-music-alexa-plus-ai-integration)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

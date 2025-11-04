@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [All the work that women have been doing](http://9gag.com/gag/a9yZvvK)
  - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
  - 💣 [A valuable lesson](http://9gag.com/gag/adBrQnQ)
- - 😝 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 👉 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)<!-- MEMES:END -->
 
 ---
 

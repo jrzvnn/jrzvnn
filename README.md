@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
- - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
+ - 😝 [This boy suddenly has more experience than most 9gaggers](http://9gag.com/gag/a9yZ5MK)
+ - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
  - 💣 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [The Council of Men disappoves that move](http://9gag.com/gag/ajPGOOR)<!-- MEMES:END -->
+ - 😝 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
+ - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 
 ---
 

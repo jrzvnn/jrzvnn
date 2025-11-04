@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft AI&amp;#8217;s first in-house image generator MAI-Image-1 is now available](https://www.theverge.com/news/813789/microsoft-in-house-ai-image-generator-mai-image-1)
+ - [AMD reports Q3 revenue up 36% YoY to $9.24B, vs. $8.7B est., Data Center revenue up 22% to $4.3B, and forecasts Q4 revenue below the highest projections &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251104/p33#a251104p33)
+ - [Nomad’s magnetic charging stands now support faster 25W rates](https://www.theverge.com/news/813769/nomad-qi2-stand-one-max-wireless-charging-25w-magsafe-pixelsnap)
  - [Amazon and Perplexity have kicked off the great AI web browser fight](https://www.theverge.com/news/813755/amazon-perplexity-ai-shopping-agent-block)
- - [Why Trump hijacked the .gov domain](https://www.theverge.com/column/813499/viral-politics-trump-mamdani-cuomo)
- - [Pinterest reports Q3 revenue up 17% YoY to $1.05B, MAUs up 12% to 600M, vs. 590M est., but forecasts Q4 revenue below est.; PINS drops 13%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251104/p32#a251104p32)
- - [I let Gemini watch my family for the weekend — it got weird](https://www.theverge.com/tech/813523/gemini-for-home-google-nest-camera-hands-on)
- - [Influencers have fractured reality in Portland](https://www.theverge.com/policy/813408/portland-influencers-national-guard-oregon-ninth-circuit)<!-- TECH:END -->
+ - [Why Trump hijacked the .gov domain](https://www.theverge.com/column/813499/viral-politics-trump-mamdani-cuomo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

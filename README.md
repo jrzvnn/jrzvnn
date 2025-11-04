@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
  - [Apple says Live Translation on AirPods will expand to the EU next month; the first iOS 26.2 beta, seeded to developers on Tuesday, brings the feature to the EU &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/251104/p31#a251104p31)
  - [The Arduboy credit card-sized Game Boy now supports multiplayer over USB](https://www.theverge.com/news/813661/arduboy-fx-c-handheld-console-arduino-usb-c-multiplayer)
  - [A joint Databroker Files investigation shows commercially traded mobile phone location data allows the tracking of millions of Europeans, including EU officials &lpar;netzpolitik.org&rpar;](http://www.techmeme.com/251104/p30#a251104p30)
- - [Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays](https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale)
- - [AirPods Live Translation is coming to the EU soon after regulatory delays](https://appleinsider.com/articles/25/11/04/airpods-live-translation-is-coming-to-the-eu-soon-after-regulatory-delays?utm_source=rss)<!-- TECH:END -->
+ - [Deck your house in Govee’s smart string lights, which are cheaper ahead of the holidays](https://www.theverge.com/tech/813488/govee-christmas-lights-2-holidays-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

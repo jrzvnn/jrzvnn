@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI launches its Sora app on Android, including in the US, Canada, and Japan; the app reached 1M+ downloads in the five days after its September iOS launch &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251104/p28#a251104p28)
+ - [IBM plans to cut &quot;a low single-digit percentage&quot; of its workforce in Q4, affecting thousands of staffers; it employed ~270K workers as of the end of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p27#a251104p27)
  - [OpenAI launches its Sora app on Android](https://www.theverge.com/news/813533/openai-sora-android-launch)
  - [iPhone 18 Pro may get one of these three colors](https://appleinsider.com/articles/25/11/04/iphone-18-pro-may-get-one-of-these-three-colors?utm_source=rss)
- - [Our Favorite Gaming Headset for Xbox Owners Is Discounted](https://www.wired.com/story/xbox-wireless-headset-deal-1125/)
- - [Samsung previews HDR10 Plus Advanced, its answer to Dolby Vision 2](https://www.theverge.com/tech/813389/samsung-previews-hdr10-plus-advanced-its-answer-to-dolby-vision-2)
- - [Switzerland-based Mimic Robotics, which is building AI models to enable human-like robotic hands to adapt to complex, high-precision tasks, raised a $16M seed &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251104/p26#a251104p26)<!-- TECH:END -->
+ - [Our Favorite Gaming Headset for Xbox Owners Is Discounted](https://www.wired.com/story/xbox-wireless-headset-deal-1125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

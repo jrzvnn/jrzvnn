@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity AI accuses Amazon of &quot;bullying&quot; after receiving &quot;an aggressive legal threat&quot; demanding Comet not make purchases on users&#39; behalf &lpar;CNBC&rpar;](http://www.techmeme.com/251104/p29#a251104p29)
+ - [Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk](https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/)
+ - [FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves](https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/)
  - [M5 Mac Mini, Mac Studio updates expected in early 2026](https://appleinsider.com/articles/25/11/04/m5-mac-mini-mac-studio-updates-expected-in-early-2026?utm_source=rss)
- - [Budget-friendly MacBook ship date pushed to 2026](https://appleinsider.com/articles/25/11/04/budget-friendly-macbook-shipdate-pushed-to-2026?utm_source=rss)
- - [OpenAI launches its Sora app on Android, including in the US, Canada, and Japan; the app reached 1M+ downloads in the five days after its September iOS launch &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251104/p28#a251104p28)
- - [IBM plans to cut &quot;a low single-digit percentage&quot; of its workforce in Q4, affecting thousands of staffers; it employed ~270K workers as of the end of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p27#a251104p27)
- - [OpenAI launches its Sora app on Android](https://www.theverge.com/news/813533/openai-sora-android-launch)<!-- TECH:END -->
+ - [Budget-friendly MacBook ship date pushed to 2026](https://appleinsider.com/articles/25/11/04/budget-friendly-macbook-shipdate-pushed-to-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
- - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 💣 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
+ - 😝 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)
+ - 😝 [Prey for me](http://9gag.com/gag/a87QDQZ)
+ - 💣 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)
+ - 😝 [Low res image, but true](http://9gag.com/gag/aXPQ4yg)
+ - 👉 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)<!-- MEMES:END -->
 
 ---
 

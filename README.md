@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
  - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
- - 💣 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
  - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
  - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
 

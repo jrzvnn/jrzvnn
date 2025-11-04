@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 😝 [A gem](http://9gag.com/gag/aqyBQ67)
+ - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 💣 [0_0](http://9gag.com/gag/axyQ691)
  - 😝 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
- - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 😝 [Worlds most functional Yugo](http://9gag.com/gag/an78x2L)
  - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
 
 ---

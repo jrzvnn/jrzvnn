@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 😝 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)
- - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 😝 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 💣 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
  - 👉 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)<!-- MEMES:END -->
 
 ---

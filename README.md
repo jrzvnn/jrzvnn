@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Lyft CEO David Risher on the company&#39;s turnaround, AI, paying drivers more, Uber, partnership with Tensor for autonomous vehicle tech, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251104/p2#a251104p2)
- - [Nintendo reports Q2 revenue of $3.7B, vs. ~$3B est., and net profit of ~$667M, vs. ~$412M est.; it now expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)
+ - [Nintendo reports Q2 revenue up 90% YoY to $3.7B, vs. ~$3B est., net profit of ~$667M, vs. ~$412M est., and expects 19M Switch 2 sales by March 2026, up from 15M &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/251104/p1#a251104p1)
  - [20% Off Chewy Promo Codes | November 2025](https://www.wired.com/story/chewy-promo-code/)
  - [The Best Holiday Cooking Kits and Classes to Delight Every Food Lovers in 2025](https://www.cnet.com/news/best-food-kits-and-experiences/#ftag=CAD590a51e)
  - [How to stream &#39;A Charlie Brown Thanksgiving&#39; for free in 2025](https://appleinsider.com/articles/25/11/04/how-to-stream-a-charlie-brown-thanksgiving-for-free-in-2025?utm_source=rss)<!-- TECH:END -->

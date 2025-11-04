@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best chips](http://9gag.com/gag/a6Z495e)
- - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 😝 [How to catch a mole with your bare hands.](http://9gag.com/gag/aGy68o0)
+ - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
  - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
  - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Bro got took down](http://9gag.com/gag/apRzPdB)<!-- MEMES:END -->
+ - 👉 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)<!-- MEMES:END -->
 
 ---
 

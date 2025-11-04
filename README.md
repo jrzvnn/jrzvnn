@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why aren&#39;t we funding this?!](http://9gag.com/gag/ary9Zo5)
- - 😝 [Prey for me](http://9gag.com/gag/a87QDQZ)
- - 💣 [My brain refusing to accept how quickly time flies](http://9gag.com/gag/a1mB5q8)
- - 😝 [Low res image, but true](http://9gag.com/gag/aXPQ4yg)
- - 👉 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)<!-- MEMES:END -->
+ - 😝 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)
+ - 😝 [Jos\u00e9 Meffre set an incredible speed record of 204.73 km/h on this bicycle in 1962.](http://9gag.com/gag/a4PmNMQ)
+ - 💣 [If You Can&#39;t Reach A Wall, Its Possible To Get Stuck Floating In The Space Station](http://9gag.com/gag/abAKOnO)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
+ - 👉 [Oh no, you can actually hear the neurons sizzling, full Dunning-Kruger on display. Someone tell him just because u can read the word, doesn&#39;t make you an expert](http://9gag.com/gag/a5QvB3q)<!-- MEMES:END -->
 
 ---
 

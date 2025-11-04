@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
- - [Kara Swisher Would Rather Work for Sam Altman Than Mark Zuckerberg](https://www.wired.com/story/the-big-interview-podcast-kara-swisher/)
- - [Goldman Sachs: just 33 US counties accounted for 72% of all US data center capacity as of July; places like Umatilla have been transformed by an AWS build-out &lpar;David Uberti/Wall Street Journal&rpar;](http://www.techmeme.com/251104/p6#a251104p6)
- - [Spotify reports Q3 revenue up 12% YoY to €4.3B, above €4.23B est., subscribers up 12% YoY to 281M, MAUs up 11% YoY to 713M, and a €582M operating income &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251104/p5#a251104p5)
- - [How Portugal is investing ~4.6% of its GDP around the port of Sines, seeking to transform it from a tourism-dependent economy to a tech and industrial hub &lpar;Sofia Horta e Costa/Bloomberg&rpar;](http://www.techmeme.com/251104/p4#a251104p4)<!-- TECH:END -->
+ - [A profile of nonprofit Common Crawl, which scraped billions of web pages since 2013, including paywalled articles, to build an archive used by OpenAI and others &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/251104/p10#a251104p10)
+ - [Apple slices its logo for new Apple One branding](https://appleinsider.com/articles/25/11/04/apple-slices-its-logo-for-new-apple-one-branding?utm_source=rss)
+ - [Shopify reports Q3 revenue up 32% YoY to $2.84B, vs. $2.76B est., GMV up 32% YoY to $92B, and expects Q4 revenue up in the mid-to-high 20% range, vs. 23.4% est. &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/251104/p9#a251104p9)
+ - [20 Best Power Banks &lpar;2025&rpar;, I’ve Tested Countless to Find Them](https://www.wired.com/gallery/best-portable-chargers-power-banks/)
+ - [The UK&#39;s High Court rules against Getty in its lawsuit against Stability AI over its image generator; the judge calls the ruling &quot;extremely limited in scope&quot; &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/251104/p8#a251104p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

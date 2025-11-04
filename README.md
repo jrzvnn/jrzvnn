@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
- - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 💣 [Booked the cheapest hotel he could find in Frankfurt, Germany.](http://9gag.com/gag/ajPGOpw)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
+ - 😝 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 💣 [A valuable lesson](http://9gag.com/gag/adBrQnQ)
+ - 😝 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
+ - 👉 [First day as winter caretaker at this awesome hotel. Going to write a book and spend some family time. Wish me luck guys!](http://9gag.com/gag/ary9Z1B)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [The Best Smart Rings, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-smart-rings/)
  - [Tech companies don’t care that students use their AI agents to cheat](https://www.theverge.com/ai-artificial-intelligence/812906/ai-agents-cheating-school-students)
+ - [Apple Desperately Needs to Copy 3 Oppo Find X9 Pro Features for the iPhone 18](https://www.cnet.com/tech/mobile/apple-desperately-needs-to-copy-3-oppo-find-x9-pro-features-for-the-iphone-18/#ftag=CAD590a51e)
  - [Hisense U75QG TV Review: Dazzling Punch, Minimal Compromises](https://www.wired.com/review/hisense-u75qg/)
- - [A profile of nonprofit Common Crawl, which has scraped billions of webpages since 2013, including paywalled ones, to build an archive used by OpenAI and others &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/251104/p10#a251104p10)
- - [Apple slices its logo for new Apple One branding](https://appleinsider.com/articles/25/11/04/apple-slices-its-logo-for-new-apple-one-branding?utm_source=rss)<!-- TECH:END -->
+ - [A profile of nonprofit Common Crawl, which has scraped billions of webpages since 2013, including paywalled ones, to build an archive used by OpenAI and others &lpar;Alex Reisner/The Atlantic&rpar;](http://www.techmeme.com/251104/p10#a251104p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

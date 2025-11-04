@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Mac Mini, Mac Studio updates expected in early 2026](https://appleinsider.com/articles/25/11/04/m5-mac-mini-mac-studio-updates-expected-in-early-2026?utm_source=rss)
+ - [Budget-friendly MacBook ship date pushed to 2026](https://appleinsider.com/articles/25/11/04/budget-friendly-macbook-shipdate-pushed-to-2026?utm_source=rss)
  - [OpenAI launches its Sora app on Android, including in the US, Canada, and Japan; the app reached 1M+ downloads in the five days after its September iOS launch &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251104/p28#a251104p28)
  - [IBM plans to cut &quot;a low single-digit percentage&quot; of its workforce in Q4, affecting thousands of staffers; it employed ~270K workers as of the end of 2024 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p27#a251104p27)
- - [OpenAI launches its Sora app on Android](https://www.theverge.com/news/813533/openai-sora-android-launch)
- - [iPhone 18 Pro may get one of these three colors](https://appleinsider.com/articles/25/11/04/iphone-18-pro-may-get-one-of-these-three-colors?utm_source=rss)
- - [Our Favorite Gaming Headset for Xbox Owners Is Discounted](https://www.wired.com/story/xbox-wireless-headset-deal-1125/)<!-- TECH:END -->
+ - [OpenAI launches its Sora app on Android](https://www.theverge.com/news/813533/openai-sora-android-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

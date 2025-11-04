@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Paris prosecutors open a probe into TikTok&#39;s algorithm and compliance with requirements to police and report suicide content, after a French government report &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251104/p21#a251104p21)
+ - [After a decade, Apple Watch finally gets a WhatsApp client](https://appleinsider.com/articles/25/11/04/after-a-decade-apple-watch-finally-gets-a-whatsapp-client?utm_source=rss)
  - [Sources: Apple plans to launch a low-cost laptop powered by an iPhone chip in H1 2026 to rival Chromebooks, aimed at students and casual users, codenamed J700 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251104/p20#a251104p20)
  - [European law enforcement arrests nine suspects involved in an alleged crypto fraud ring that stole €600M+ via fake investment platforms promising high returns &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251104/p19#a251104p19)
- - [Google Maps can tell Polestar 4 drivers when to merge lanes](https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance)
- - [Spotify says it now has nearly 500K video podcasts and more than 390M users have now streamed a video podcast on its platform, up 54% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251104/p18#a251104p18)
- - [Tel Aviv-based Daylight, whose AI-native platform autonomously identifies and contains cyber threats, raised a $33M Series A, bringing its total funding to $40M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251104/p17#a251104p17)<!-- TECH:END -->
+ - [Google Maps can tell Polestar 4 drivers when to merge lanes](https://www.theverge.com/news/813315/google-maps-polestar-4-live-lane-guidance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

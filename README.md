@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve will finally turn off the Steam Deck&amp;#8217;s screen while it&amp;#8217;s downloading games](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off)
  - [Australia broadens its social media ban for under-16s to include Reddit and Kick, which join Facebook, Instagram, Threads, Snapchat, TikTok, X, and YouTube &lpar;Clare Armstrong/ABC&rpar;](http://www.techmeme.com/251104/p37#a251104p37)
  - [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters)
- - [Sources: Netflix has sent out dozens of requests to agents at WME, UTA, and CAA for video podcast creators, and plans to launch video podcasts in early 2026 &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/251104/p36#a251104p36)
- - [Your Stream Deck’s ‘device not supported’ error should fix itself if you log in](https://www.theverge.com/tech/813814/your-stream-decks-device-not-supported-error-should-fix-itself-if-you-log-in)
- - [Super Micro reports Q1 revenue down 15% YoY to $5B, vs. $6.09B est., and forecasts Q2 profit below estimates; SMCI drops 9%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251104/p35#a251104p35)<!-- TECH:END -->
+ - [Windows 11 Previews a Feature That Lets You Share Audio With Another Person&#39;s Device](https://www.cnet.com/tech/mobile/windows-11-previews-a-feature-that-lets-you-share-audio-with-another-persons-device/#ftag=CAD590a51e)
+ - [Sources: Netflix has sent out dozens of requests to agents at WME, UTA, and CAA for video podcast creators, and plans to launch video podcasts in early 2026 &lpar;Caitlin Huston/The Hollywood Reporter&rpar;](http://www.techmeme.com/251104/p36#a251104p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

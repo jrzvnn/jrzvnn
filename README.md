@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The 1992 Barcelona Olympics torch lighting remains one of the most unforgettable moments in Olympic history.](http://9gag.com/gag/axyQvdW)
- - 😝 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 💣 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
+ - 😝 [Me eating at a 3-star Michelin restaurant](http://9gag.com/gag/aVv4EYO)
  - 😝 [Not mine, just I think I know that face](http://9gag.com/gag/aPAzPEQ)
+ - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
  - 👉 [Australia](http://9gag.com/gag/aGy689X)<!-- MEMES:END -->
 
 ---

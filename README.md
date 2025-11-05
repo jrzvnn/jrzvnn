@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zohran Mamdani won because he knew when to be online — and when not to](https://www.theverge.com/policy/814065/zohran-mamdani-nyc-mayor-race-victory-online)
- - [Apple Vision Pro with M5 review: a chip can&#39;t fix developer relations](https://appleinsider.com/articles/25/11/05/apple-vision-pro-with-m5-review-a-chip-cant-fix-developer-relations?utm_source=rss)
- - [Shein opens a store in Paris, its first physical outlet, on the top floor of the historic BHV Marais department store, as politicians and retailers protest it &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/251105/p27#a251105p27)
- - [We finally have a Nintendo Store app for iOS and Android](https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop)
- - [Apple demands payment from long-time legal foe Hagens Berman over misconduct](https://appleinsider.com/articles/25/11/05/apple-demands-payment-from-long-time-legal-foe-hagens-berman-over-misconduct?utm_source=rss)<!-- TECH:END -->
+ - [Giga, which develops voice-based AI agents for customer support, raised a $61M Series A led by Redpoint with participation from Y Combinator and Nexus &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/251105/p30#a251105p30)
+ - [Xlr8yourmac goes offline, ending an era of DIY tinkering](https://appleinsider.com/articles/25/11/05/xlr8yourmac-goes-offline-ending-an-era-of-diy-tinkering?utm_source=rss)
+ - [Reevo, which aims to use AI to help bring products to market, raised $80M, split across a $10M seed and $70M Series A led by Kleiner, at a $500M valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251105/p29#a251105p29)
+ - [The Best Messenger Bag for Modern Professionals’ Commute &lpar;2025&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
+ - [Letter: the MPA sent a cease-and-desist to Meta over Instagram&#39;s use of PG-13 for teen content restrictions, calling it &quot;literally false and highly misleading&quot; &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251105/p28#a251105p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

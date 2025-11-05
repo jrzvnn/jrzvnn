@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zohran Mamdani&#39;s Campaign Figured Out How to Channel Fandom](https://www.wired.com/story/zohran-mamdani-campaign-fandom/)
+ - [Champions League Soccer: Livestream Club Brugge vs. Barcelona Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-club-brugge-vs-barcelona-live-from-anywhere/#ftag=CAD590a51e)
+ - [Amazon&amp;#8217;s grocery store dreams are reshaping Whole Foods](https://www.theverge.com/news/814454/amazon-whole-foods-fulfillment-concept-store)
+ - [Zohran Mamdani’s Campaign Figured Out How to Channel Fandom](https://www.wired.com/story/zohran-mamdani-campaign-fandom/)
  - [Wabi, a &quot;YouTube for apps&quot; launched by Replika founder Eugenia Kuyda to let users create and share mini apps without coding, raised a $20M pre-seed &lpar;TechCrunch&rpar;](http://www.techmeme.com/251105/p41#a251105p41)
- - [The hottest trend in speedrunning is flipping a coin](https://www.theverge.com/games/814111/unfair-flips-speedrunning)
- - [Baseus’ solar-powered dash cam is down to its best price yet](https://www.theverge.com/tech/814368/baseus-primetrip-vd1-pro-dash-cam-deal-sale)
- - [Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/)<!-- TECH:END -->
+ - [The hottest trend in speedrunning is flipping a coin](https://www.theverge.com/games/814111/unfair-flips-speedrunning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

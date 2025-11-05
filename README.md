@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man....](http://9gag.com/gag/aO8ADM3)
- - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
- - 💣 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)
- - 😝 [Some still exist](http://9gag.com/gag/aLnVAo6)
- - 👉 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)<!-- MEMES:END -->
+ - 😝 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
+ - 😝 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
+ - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)
+ - 👉 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
 
 ---
 

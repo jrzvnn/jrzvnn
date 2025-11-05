@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snap announces a deal to distribute Perplexity&#39;s search engine to Snapchat users; Perplexity will pay Snap $400M through a combination of cash and equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p47#a251105p47)
+ - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
  - [Snap reports Q3 revenue up 10% YoY to $1.51B vs. $1.49B est., DAUs up 8% to 477M vs. 476M est., and announces a $500M share buyback; SNAP jumps 23%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251105/p46#a251105p46)
- - [Arm reports Q2 revenue up 34% YoY to $1.14B, royalty revenue up 21% YoY to $620M, vs. $586M est., and forecasts Q3 revenue above est.; ARM jumps 4%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251105/p45#a251105p45)
- - [Early Black Friday deal: M4 MacBook Air drops to $749 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/05/early-black-friday-deal-m4-macbook-air-drops-to-749-lowest-price-ever?utm_source=rss)
- - [Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday](https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale)
- - [The AI Data Center Boom Is Warping the US Economy](https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/)<!-- TECH:END -->
+ - [I&#39;m Still Using My TP-Link Router, Even Though It Could Be Banned in the US](https://www.cnet.com/home/internet/im-still-using-my-tp-link-router-even-though-it-could-be-banned-in-the-us/#ftag=CAD590a51e)
+ - [Arm reports Q2 revenue up 34% YoY to $1.14B, royalty revenue up 21% YoY to $620M, vs. $586M est., and forecasts Q3 revenue above est.; ARM jumps 4%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251105/p45#a251105p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

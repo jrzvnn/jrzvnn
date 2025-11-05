@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 😝 [Just keep quiet ..](http://9gag.com/gag/a1mB2L2)
+ - 😝 [Never ever forget.](http://9gag.com/gag/azxoRZz)
+ - 💣 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)
  - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
+ - 👉 [Seeing myself in a mirror after a night out](http://9gag.com/gag/ae9ym5b)<!-- MEMES:END -->
 
 ---
 

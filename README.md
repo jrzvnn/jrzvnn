@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Football Manager game developer Sports Interactive, which has ~280 full-time staff and licenses its scouting data to 40+ teams, as it releases FM26 &lpar;Chris Allnutt/Financial Times&rpar;](http://www.techmeme.com/251105/p19#a251105p19)
+ - [Meze Audio 105 Silva Headphones Review: Look Great, Sound Better](https://www.wired.com/review/meze-audio-105-silva-headphones/)
+ - [The CIA Used This Psychic Meditation Program. It’s Never Been More Popular](https://www.wired.com/story/the-cia-used-this-psychic-meditation-program-its-never-been-more-popular/)
  - [YouTube confirms it removed 700+ videos from three prominent Palestinian human rights groups in early October to comply with US State Department sanctions &lpar;The Intercept&rpar;](http://www.techmeme.com/251105/p18#a251105p18)
- - [Sources: Roelof Botha was asked to step aside after some Sequoia partners raised concerns about his leadership; Botha had declined to comment on Shaun Maguire &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251105/p17#a251105p17)
- - [Wiz CEO Assaf Rappaport says the US DOJ concluded its review of Google&#39;s planned $32B acquisition; the FTC website dated the early termination to October 24 &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/251105/p16#a251105p16)
- - [Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts](https://www.wired.com/story/sandbar-stream-smart-ring/)
- - [UK retailer M&amp;S reports a £135.6M profit hit in H1 2025 after a cyber attack in April, which it attributes to DragonForce, and claimed £100M from its insurers &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/251105/p15#a251105p15)<!-- TECH:END -->
+ - [Sources: Roelof Botha was asked to step aside after some Sequoia partners raised concerns about his leadership; Botha had declined to comment on Shaun Maguire &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251105/p17#a251105p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

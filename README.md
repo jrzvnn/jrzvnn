@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm Ventures and six Indian VC firms join India Deep Tech Alliance with an additional $850M+ in commitments; Nvidia joins as a strategic technical adviser &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251104/p43#a251104p43)
  - [iOS 26: How to customize the iPhone&#39;s Lock Screen clock](https://appleinsider.com/inside/ios-26/tips/ios-26-how-to-customize-the-iphones-lock-screen-clock?utm_source=rss)
  - [A look at Fermi, a startup co-founded by ex-US Energy Secretary Rick Perry that aims to build one of the world&#39;s largest datacenter campuses in Texas by 2038 &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251104/p42#a251104p42)
  - [Apple Creator Studio referenced in iOS 26.2 beta 1, but meaning is unclear](https://appleinsider.com/articles/25/11/05/apple-creator-studio-referenced-in-ios-262-beta-1-but-meaning-is-unclear?utm_source=rss)
- - [Bitcoin dropped below $100K for the first time since June on Tuesday; ETH also fell as much as 15% on Tuesday, and many altcoins are down 50%+ this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p41#a251104p41)
- - [Beelink Mate mini 80Gbps Dock review: Port expansion without the bandwidth limit](https://appleinsider.com/articles/25/11/05/beelink-mate-mini-80gbps-dock-review-port-expansion-without-the-bandwidth-limit?utm_source=rss)<!-- TECH:END -->
+ - [Bitcoin dropped below $100K for the first time since June on Tuesday; ETH also fell as much as 15% on Tuesday, and many altcoins are down 50%+ this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p41#a251104p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday](https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale)
+ - [&#39;Freakier Friday&#39; Disney Plus Release Date: When and How to Watch the New Movie](https://www.cnet.com/tech/services-and-software/freakier-friday-disney-plus-release-date-when-and-how-to-watch-the-new-movie/#ftag=CAD590a51e)
  - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
- - [Apple considers paying $1B per year to use Google Gemini in Siri](https://appleinsider.com/articles/25/11/05/apple-considers-paying-1b-per-year-to-use-google-gemini-in-siri?utm_source=rss)
- - [The keyboard of choice for modular synth nerds gets a proper sequel after 10 years](https://www.theverge.com/news/814658/the-keyboard-of-choice-for-modular-synth-nerds-gets-a-proper-sequel-after-10-years)
- - [Apple Original Films plots turbulent thriller &#39;The Flick&#39; about survival at 30,000 feet](https://appleinsider.com/articles/25/11/05/apple-original-films-plots-turbulent-thriller-the-flick-about-survival-at-30000-feet?utm_source=rss)
- - [Baseball broke containment during the World Series](https://www.theverge.com/report/814483/world-series-dodgers-blue-jays-fandom-social-media)<!-- TECH:END -->
+ - [Trump&#39;s FCC Just Made It Easier for Internet Providers to Hide Fees](https://www.cnet.com/home/internet/trumps-fcc-just-made-it-easier-for-internet-providers-to-hide-fees/#ftag=CAD590a51e)
+ - [Apple considers paying $1B per year to use Google Gemini in Siri](https://appleinsider.com/articles/25/11/05/apple-considers-paying-1b-per-year-to-use-google-gemini-in-siri?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

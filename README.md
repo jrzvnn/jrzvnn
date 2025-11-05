@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WEB WAR III](https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome)
+ - [Disney and Fortnite show hints of budding metaverse with new Disneyland game](https://www.theverge.com/games/813723/fortnite-disneyland-game-rush-launch-metaverse)
  - [The Best Travel Totes for Every Kind of Trip &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-tote/)
  - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
- - [France begins the process to temporarily suspend Shein for &quot;the time necessary for the platform to demonstrate&quot; it has scrubbed its website of illegal products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251105/p36#a251105p36)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [‘New York City Has Fallen’: MAGA Responds to Zohran Mamdani’s Victory With a Racist Freak-Out](https://www.wired.com/story/maga-responds-to-zohran-mamdani-victory/)<!-- TECH:END -->
+ - [France begins the process to temporarily suspend Shein for &quot;the time necessary for the platform to demonstrate&quot; it has scrubbed its website of illegal products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251105/p36#a251105p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

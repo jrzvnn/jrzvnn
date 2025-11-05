@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin dropped below $100K for the first time since June on Tuesday; ETH also fell as much as 15% on Tuesday, and many altcoins are down 50%+ this year &lpar;Bloomberg&rpar;](http://www.techmeme.com/251104/p41#a251104p41)
+ - [Beelink Mate mini 80Gbps Dock review: Port expansion without the bandwidth limit](https://appleinsider.com/articles/25/11/05/beelink-mate-mini-80gbps-dock-review-port-expansion-without-the-bandwidth-limit?utm_source=rss)
  - [Apple inadvertently leaked front-end source code of new App Store on the web](https://appleinsider.com/articles/25/11/05/apple-inadvertently-leaked-front-end-source-code-of-new-app-store-on-the-web?utm_source=rss)
- - [Shares of Asian AI-linked companies fall, tracking declines in US peers, as investors worry about stretched valuations; SoftBank falls 9%+, Advantest 7%+ &lpar;Lee Ying Shan/CNBC&rpar;](http://www.techmeme.com/251104/p40#a251104p40)
- - [Sources detail Musk&#39;s time at xAI after he left DOGE: he oversaw the design of the racy chatbot Ani, employees turned over biometric data to train avatars, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251104/p39#a251104p39)
- - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [&#39;High Potential&#39; Season 2 Hiatus: When Is the Next Episode Coming?](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus-when-is-the-next-episode-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shares of Asian AI-linked companies fall, tracking declines in US peers, as investors worry about stretched valuations; SoftBank falls 13%+, Advantest drops 8%+ &lpar;Lee Ying Shan/CNBC&rpar;](http://www.techmeme.com/251104/p40#a251104p40)
+ - [Sources detail Musk&#39;s time at xAI after he left DOGE: he oversaw the design of the racy chatbot Ani, employees turned over biometric data to train avatars, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251104/p39#a251104p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

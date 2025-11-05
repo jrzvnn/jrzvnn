@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at US efforts to train workers for semiconductor manufacturing, led by Arizona, which has secured over 60 semiconductor expansion projects since 2020 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251105/p8#a251105p8)
  - [Barclays: hyperscalers have announced a total of 46 GW of AI data center capacity, which at full utilization will consume as much energy as ~44.2M US households &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/251105/p7#a251105p7)
  - [A look at data labeling startups like Objectways, whose workers record and annotate repetitive tasks like folding towels to train AI robots for physical tasks &lpar;Nilesh Christopher/Los Angeles Times&rpar;](http://www.techmeme.com/251105/p6#a251105p6)
  - [VW says it&#39;s developing an AI chip for advanced driving in China via a JV between its Cariad unit and Horizon Robotics, with deliveries in three to five years &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251105/p5#a251105p5)
- - [Customer engagement service MoEngage raised a $100M Series F led by Goldman Sachs Alternatives, bringing its total funding to $250M as it ramps up AI investment &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251105/p4#a251105p4)
- - [Google&#39;s proposed Epic settlement includes reduced app store fees globally and a new program for alternative app stores to become first-class Android citizens &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251105/p3#a251105p3)<!-- TECH:END -->
+ - [Customer engagement service MoEngage raised a $100M Series F led by Goldman Sachs Alternatives, bringing its total funding to $250M as it ramps up AI investment &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251105/p4#a251105p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

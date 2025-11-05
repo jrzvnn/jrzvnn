@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google has a ‘moonshot’ plan for AI data centers in space](https://www.theverge.com/news/813894/google-project-suncatcher-ai-datacenter-satellites)
- - [The US sanctions eight people and two companies it accused of laundering money obtained from cybercrime and IT worker schemes for the North Korean government &lpar;Tim Starks/CyberScoop&rpar;](http://www.techmeme.com/251104/p38#a251104p38)
- - [Valve will finally turn off the Steam Deck&amp;#8217;s screen while it&amp;#8217;s downloading games](https://www.theverge.com/news/813864/valve-steam-deck-screen-download-games-low-power-screen-off)
- - [Australia broadens its social media ban for under-16s to include Reddit and Kick, which join Facebook, Instagram, Threads, Snapchat, TikTok, X, and YouTube &lpar;Clare Armstrong/ABC&rpar;](http://www.techmeme.com/251104/p37#a251104p37)
- - [Apple Podcasts is generating automatic links and chapters](https://www.theverge.com/news/813817/apple-podcasts-automatic-links-and-chapters)<!-- TECH:END -->
+ - [Apple inadvertently leaked front-end source code of new App Store on the web](https://appleinsider.com/articles/25/11/05/apple-inadvertently-leaked-front-end-source-code-of-new-app-store-on-the-web?utm_source=rss)
+ - [Shares of Asian AI-linked companies fall, tracking declines in US peers, as investors worry about stretched valuations; SoftBank falls 9%+, Advantest 7%+ &lpar;Lee Ying Shan/CNBC&rpar;](http://www.techmeme.com/251104/p40#a251104p40)
+ - [Sources detail Musk&#39;s time at xAI after he left DOGE: he oversaw the design of the racy chatbot Ani, employees turned over biometric data to train avatars, more &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251104/p39#a251104p39)
+ - [The best robot vacuums we&amp;#8217;ve tested for 2025](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [&#39;High Potential&#39; Season 2 Hiatus: When Is the Next Episode Coming?](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus-when-is-the-next-episode-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

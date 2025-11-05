@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the Chinese government issues guidance requiring new data center projects that have received any state funds to only use domestically-made AI chips &lpar;Reuters&rpar;](http://www.techmeme.com/251105/p21#a251105p21)
- - [Research: AI&#39;s ability to complete long and complex software engineering tasks doubles every 6-7 months, but there is a &quot;messiness tax&quot; for real-world tasks &lpar;Boaz Barak/Windows On Theory&rpar;](http://www.techmeme.com/251105/p20#a251105p20)
- - [A profile of Football Manager game developer Sports Interactive, which has ~280 full-time staff and licenses its scouting data to 40+ teams, as it releases FM26 &lpar;Chris Allnutt/Financial Times&rpar;](http://www.techmeme.com/251105/p19#a251105p19)
- - [Meze Audio 105 Silva Headphones Review: Look Great, Sound Better](https://www.wired.com/review/meze-audio-105-silva-headphones/)
- - [The CIA Used This Psychic Meditation Program. It’s Never Been More Popular](https://www.wired.com/story/the-cia-used-this-psychic-meditation-program-its-never-been-more-popular/)<!-- TECH:END -->
+ - [Sources: Deutsche Bank is exploring ways to hedge its exposure to data centres after extending billions of dollars in debt to hyperscalers like Alphabet &lpar;Financial Times&rpar;](http://www.techmeme.com/251105/p26#a251105p26)
+ - [Netherlands-based Nebius unveils Token Factory, a platform to let companies use open source AI models like GPT-oss, in a bid to compete with AWS and Azure &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251105/p25#a251105p25)
+ - [Armis, which helps businesses secure and manage IoT devices, raised $435M at a $6.1B valuation, up from $4.2B after raising a $200M Series D in October 2024 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251105/p24#a251105p24)
+ - [Hot subpoena summer](https://www.theverge.com/cs/features/804409/perez-hilton-lively-baldoni-subpoena)
+ - [Razer Blade 14 Review: Still the Best Gaming Laptop for Its Size](https://www.wired.com/review/razer-blade-14-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

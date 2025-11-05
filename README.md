@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Motorola’s Edge 70 is the blueprint for future thin phones](https://www.theverge.com/gadgets/813377/motorola-edge-70-review)
  - [How ideology-driven AI chatbots like Grok and Gab&#39;s Arya position themselves as alternatives to mainstream chatbots accused of liberal bias &lpar;New York Times&rpar;](http://www.techmeme.com/251105/p10#a251105p10)
  - [Sources detail a leadership vacuum and staff cuts at the NSA, eroding morale among its analysts and weakening the agency&#39;s long-term cyber capabilities &lpar;David DiMolfetta/Nextgov/FCW&rpar;](http://www.techmeme.com/251105/p9#a251105p9)
  - [A look at US efforts to train workers for semiconductor manufacturing, led by Arizona, which has secured over 60 semiconductor expansion projects since 2020 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251105/p8#a251105p8)
- - [Barclays: hyperscalers have announced a total of 46 GW of AI data center capacity, which at full utilization will consume as much energy as ~44.2M US households &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/251105/p7#a251105p7)
- - [A look at data labeling startups like Objectways, whose workers record and annotate repetitive tasks like folding towels to train AI robots for physical tasks &lpar;Nilesh Christopher/Los Angeles Times&rpar;](http://www.techmeme.com/251105/p6#a251105p6)<!-- TECH:END -->
+ - [Barclays: hyperscalers have announced a total of 46 GW of AI data center capacity, which at full utilization will consume as much energy as ~44.2M US households &lpar;Robin Wigglesworth/Financial Times&rpar;](http://www.techmeme.com/251105/p7#a251105p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

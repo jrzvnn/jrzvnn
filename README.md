@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 💣 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
- - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
+ - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [The static of life is mine to endure, like everyone else, I am not special in my suffering](http://9gag.com/gag/aAyq2j0)
  - 👉 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)<!-- MEMES:END -->
 
 ---

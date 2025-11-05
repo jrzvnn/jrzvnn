@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This refugee from Yemen is suing the Netherlands for not letting in his second wife and their five children in &lpar;his first wife and their 8 children are already there&rpar;](http://9gag.com/gag/avy4E8M)
- - 😝 [The WRONG pronunciation of `cyan.`](http://9gag.com/gag/aZZoQmn)
- - 💣 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
- - 😝 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
- - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
+ - 😝 [Creepy](http://9gag.com/gag/aPAzoAR)
+ - 😝 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
+ - 💣 [Is this the worst browngrading we\u2019ve seen so far?](http://9gag.com/gag/aO8AZQ2)
+ - 😝 [They pushed recycling so hard in school in the 90s](http://9gag.com/gag/a6Z4B0e)
+ - 👉 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)<!-- MEMES:END -->
 
 ---
 

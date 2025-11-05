@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Sam Altman on OpenAI&#39;s growth management, delegation, hiring hardware talent, GPT-6 enabling research breakthroughs, societal challenges, and more &lpar;Conversations with Tyler&rpar;](http://www.techmeme.com/251105/p31#a251105p31)
+ - [Cloud streaming finally arrives on the PlayStation Portal](https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming)
+ - [iOS 26.2 beta testers in Japan can install third party app stores](https://appleinsider.com/articles/25/11/05/ios-262-beta-testers-in-japan-can-install-third-party-app-stores?utm_source=rss)
  - [Giga, which develops voice-based AI agents for customer support, raised a $61M Series A led by Redpoint with participation from Y Combinator and Nexus &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/251105/p30#a251105p30)
- - [Xlr8yourmac goes offline, ending an era of DIY tinkering](https://appleinsider.com/articles/25/11/05/xlr8yourmac-goes-offline-ending-an-era-of-diy-tinkering?utm_source=rss)
- - [Reevo, which aims to use AI to help bring products to market, raised $80M, split across a $10M seed and $70M Series A led by Kleiner, at a $500M valuation &lpar;Paayal Zaveri/Bloomberg&rpar;](http://www.techmeme.com/251105/p29#a251105p29)
- - [The Best Messenger Bag for Modern Professionals’ Commute &lpar;2025&rpar;](https://www.wired.com/gallery/best-messenger-bags/)
- - [Letter: the MPA sent a cease-and-desist to Meta over Instagram&#39;s use of PG-13 for teen content restrictions, calling it &quot;literally false and highly misleading&quot; &lpar;Isabella Simonetti/Wall Street Journal&rpar;](http://www.techmeme.com/251105/p28#a251105p28)<!-- TECH:END -->
+ - [Xlr8yourmac goes offline, ending an era of DIY tinkering](https://appleinsider.com/articles/25/11/05/xlr8yourmac-goes-offline-ending-an-era-of-diy-tinkering?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

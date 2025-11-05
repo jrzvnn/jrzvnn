@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Deutsche Bank is exploring ways to hedge its exposure to data centres after extending billions of dollars in debt to hyperscalers like Alphabet &lpar;Financial Times&rpar;](http://www.techmeme.com/251105/p26#a251105p26)
- - [Netherlands-based Nebius unveils Token Factory, a platform to let companies use open source AI models like GPT-oss, in a bid to compete with AWS and Azure &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251105/p25#a251105p25)
- - [Armis, which helps businesses secure and manage IoT devices, raised $435M at a $6.1B valuation, up from $4.2B after raising a $200M Series D in October 2024 &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251105/p24#a251105p24)
- - [Hot subpoena summer](https://www.theverge.com/cs/features/804409/perez-hilton-lively-baldoni-subpoena)
- - [Razer Blade 14 Review: Still the Best Gaming Laptop for Its Size](https://www.wired.com/review/razer-blade-14-2025/)<!-- TECH:END -->
+ - [Zohran Mamdani won because he knew when to be online — and when not to](https://www.theverge.com/policy/814065/zohran-mamdani-nyc-mayor-race-victory-online)
+ - [Apple Vision Pro with M5 review: a chip can&#39;t fix developer relations](https://appleinsider.com/articles/25/11/05/apple-vision-pro-with-m5-review-a-chip-cant-fix-developer-relations?utm_source=rss)
+ - [Shein opens a store in Paris, its first physical outlet, on the top floor of the historic BHV Marais department store, as politicians and retailers protest it &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/251105/p27#a251105p27)
+ - [We finally have a Nintendo Store app for iOS and Android](https://www.theverge.com/news/814054/nintendo-store-app-ios-android-games-shop)
+ - [Apple demands payment from long-time legal foe Hagens Berman over misconduct](https://appleinsider.com/articles/25/11/05/apple-demands-payment-from-long-time-legal-foe-hagens-berman-over-misconduct?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

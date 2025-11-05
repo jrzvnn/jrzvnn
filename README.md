@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My man....](http://9gag.com/gag/aO8ADM3)
- - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
- - 💣 [Some still exist](http://9gag.com/gag/aLnVAo6)
- - 😝 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)
- - 👉 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)<!-- MEMES:END -->
+ - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 😝 [Stank](http://9gag.com/gag/aZZojmW)
+ - 👉 [I have this weird super power that lets me see IQs](http://9gag.com/gag/aPAz84q)<!-- MEMES:END -->
 
 ---
 

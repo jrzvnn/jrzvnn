@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK retailer M&amp;S reports a £135.6M profit hit in H1 2025 after a cyber attack in April, which it attributes to DragonForce, and claimed £100M from its insurers &lpar;Philip Stafford/Financial Times&rpar;](http://www.techmeme.com/251105/p15#a251105p15)
+ - [Wiz CEO Assaf Rappaport says the US DOJ concluded its review of Google&#39;s planned $32B acquisition; the FTC website dated the early termination to October 24 &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/251105/p16#a251105p16)
+ - [Whisper Into This AI-Powered Smart Ring to Organize Your Thoughts](https://www.wired.com/story/sandbar-stream-smart-ring/)
+ - [UK retailer M&amp;S reports a £135.6M profit hit in H1 2025 after a cyber attack in April, which it attributes to DragonForce, and claimed £100M from its insurers &lpar;Financial Times&rpar;](http://www.techmeme.com/251105/p15#a251105p15)
  - [Trump re-nominates billionaire Jared Isaacman to lead NASA](https://www.theverge.com/news/814035/donald-trump-jared-isaacman-nasa-nomination)
- - [Singapore-based Video Rebirth, founded by Tencent AI veteran Liu Wei to develop AI video generation models, raised a $50M seed from Qiming, ActozSoft, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p14#a251105p14)
- - [Insiders detail how Nepal&#39;s Gen Z protests, born on Discord servers, TikTok feeds, and encrypted messaging apps, ended with an online poll to pick the new PM &lpar;Tulsi Rauniyar/Wired&rpar;](http://www.techmeme.com/251105/p13#a251105p13)
- - [Feeling the Effects of the Time Change? We Asked Experts How to Get Back on Track](https://www.wired.com/story/how-to-get-your-sleep-back-on-track-after-a-time-change/)<!-- TECH:END -->
+ - [Singapore-based Video Rebirth, founded by Tencent AI veteran Liu Wei to develop AI video generation models, raised a $50M seed from Qiming, ActozSoft, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p14#a251105p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

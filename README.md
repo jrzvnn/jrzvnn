@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 😝 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
- - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [Incredible Armor of 16th Century Knights Explained](http://9gag.com/gag/amoKx82)
- - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
+ - 😝 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
+ - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
+ - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 😝 [Motorboat](http://9gag.com/gag/awyPdmR)
+ - 👉 [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)<!-- MEMES:END -->
 
 ---
 

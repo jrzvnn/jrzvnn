@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s next smart-home gadget is already hiding in iOS 26.2](https://appleinsider.com/articles/25/11/05/apples-next-smart-home-gadget-is-already-hiding-in-ios-262?utm_source=rss)
- - [T-Mobile brings free 911 emergency texting to AT&amp;#038;T and Verizon customers](https://www.theverge.com/news/814319/t-mobile-911-emergency-texting-att-verizon-free)
- - [Democrats Did Much Better Than Expected](https://www.wired.com/story/democrats-did-way-better-than-expected-yesterday/)
- - [Teenage Engineering pairs its reggae-themed sampler with a new voice-changing mic](https://www.theverge.com/news/814300/teenage-engineering-pairs-its-reggae-themed-sampler-with-a-new-voice-changing-mic)
- - [8 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuum/)<!-- TECH:END -->
+ - [You can keep using your iPad as an Apple Home hub until February](https://www.theverge.com/news/814287/apple-home-new-architecture-update-delay)
+ - [This AI smart ring lets you record voice notes with a whisper](https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable)
+ - [Amazon opens a new 10,000-square-foot automated Whole Foods store in Pennsylvania partly staffed by robots; customers can scan and order items from the aisles &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251105/p37#a251105p37)
+ - [Google’s fantastic Pixel Buds Pro 2 are down to $169](https://www.theverge.com/tech/814149/google-pixel-buds-pro-2-wireless-earbuds-deal-sale)
+ - [Apple&#39;s next smart-home gadget is already hiding in iOS 26.2](https://appleinsider.com/articles/25/11/05/apples-next-smart-home-gadget-is-already-hiding-in-ios-262?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

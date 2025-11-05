@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Customer engagement service MoEngage raised a $100M Series F led by Goldman Sachs Alternatives, bringing its total funding to $250M as it ramps up AI investment &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251105/p4#a251105p4)
  - [Google&#39;s proposed Epic settlement includes reduced app store fees globally and a new program for alternative app stores to become first-class Android citizens &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/251105/p3#a251105p3)
  - [Google and Epic Games reached an agreement to settle Epic&#39;s 2020 antitrust lawsuit, with proposed changes to Android and Google Play pending court approval &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251105/p2#a251105p2)
  - [Canon Promo Codes: 10% Off | November 2025](https://www.wired.com/story/canon-promo-code/)
- - [Epic and Google agree to settle their lawsuit and change Android’s fate globally](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
- - [Google removed 749M URLs linked to Anna&#39;s Archive, a popular shadow library for pirated books, over copyright claims, representing ~5% of all takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251105/p1#a251105p1)<!-- TECH:END -->
+ - [Epic and Google agree to settle their lawsuit and change Android’s fate globally](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

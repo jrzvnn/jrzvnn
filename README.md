@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
- - 😝 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
- - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)
- - 👉 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
+ - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 😝 [Some still exist](http://9gag.com/gag/aLnVAo6)
+ - 💣 [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)
+ - 😝 [Seriously McDonald&#39;s is depressing as hell now.](http://9gag.com/gag/aQzBZd2)
+ - 👉 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)<!-- MEMES:END -->
 
 ---
 

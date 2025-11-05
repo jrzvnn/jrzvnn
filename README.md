@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arm reports Q2 revenue up 34% YoY to $1.14B, royalty revenue up 21% YoY to $620M, vs. $586M est., and forecasts Q3 revenue above est.; ARM jumps 4%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251105/p45#a251105p45)
  - [Early Black Friday deal: M4 MacBook Air drops to $749 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/05/early-black-friday-deal-m4-macbook-air-drops-to-749-lowest-price-ever?utm_source=rss)
  - [Apple’s slim M4 MacBook Air is cheaper than ever ahead of Black Friday](https://www.theverge.com/tech/814640/apple-macbook-air-m4-deal-sale)
  - [The AI Data Center Boom Is Warping the US Economy](https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/)
- - [&#39;Freakier Friday&#39; Disney Plus Release Date: When and How to Watch the New Movie](https://www.cnet.com/tech/services-and-software/freakier-friday-disney-plus-release-date-when-and-how-to-watch-the-new-movie/#ftag=CAD590a51e)
- - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)<!-- TECH:END -->
+ - [&#39;Freakier Friday&#39; Disney Plus Release Date: When and How to Watch the New Movie](https://www.cnet.com/tech/services-and-software/freakier-friday-disney-plus-release-date-when-and-how-to-watch-the-new-movie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

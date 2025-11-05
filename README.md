@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Expect more Apple Immersive Video thanks to streamlined production process](https://appleinsider.com/articles/25/11/05/expect-more-apple-immersive-video-thanks-to-streamlined-production-process?utm_source=rss)
- - [Qualcomm reports Q4 revenue up 10% to $11.27B, vs. $10.79B est., handsets revenue up 14% to $6.96B, and forecasts Q1 revenue above estimates &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251105/p48#a251105p48)
- - [Snap announces a deal to distribute Perplexity&#39;s search engine to Snapchat users; Perplexity will pay Snap $400M through a combination of cash and equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p47#a251105p47)
- - [Snap reports Q3 revenue up 10% YoY to $1.51B vs. $1.49B est., DAUs up 8% to 477M vs. 476M est., and announces a $500M share buyback; SNAP jumps 23%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251105/p46#a251105p46)
- - [I&#39;m Still Using My TP-Link Router, Even Though It Could Be Banned in the US](https://www.cnet.com/home/internet/im-still-using-my-tp-link-router-even-though-it-could-be-banned-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bumble reports Q3 revenue down 10% YoY to $246.2M, total paying users down 16% to 3.6M, and forecasts Q4 revenue below estimates; BMBL falls 15%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/251105/p51#a251105p51)
+ - [Google Gemini’s Deep Research can look into your emails, drive, and chats](https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized)
+ - [DoorDash reports Q3 revenue up 27% YoY to $3.45B, vs. $3.36B est., and total orders up 21% to 776M, vs. 770.13M est.; DASH drops 18%+ after hours &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/251105/p50#a251105p50)
+ - [Lyft reports Q3 revenue of $1.69B, up 10.7% YoY, vs. 11.5% est., adjusted EBITDA of $138.9M, vs. $140M est., and forecasts Q4 gross bookings above estimates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/251105/p49#a251105p49)
+ - [Expect more Apple Immersive Video thanks to streamlined production process](https://appleinsider.com/articles/25/11/05/expect-more-apple-immersive-video-thanks-to-streamlined-production-process?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

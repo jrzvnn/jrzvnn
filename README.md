@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Robinhood reports Q3 revenue up 100% YoY to $1.27B, vs. $1.19B est., transaction-based revenue up 129% to $730M, vs. $739M est., and net income up 271% to $556M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251105/p53#a251105p53)
+ - [Quantinuum unveils Helios, a quantum computer with 98 physical qubits, from which it can deliver 48 logical error-corrected qubits, an impressive 2:1 ratio &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/251105/p52#a251105p52)
  - [Bumble reports Q3 revenue down 10% YoY to $246.2M, total paying users down 16% to 3.6M, and forecasts Q4 revenue below estimates; BMBL falls 15%+ after hours &lpar;Reuters&rpar;](http://www.techmeme.com/251105/p51#a251105p51)
  - [Google Gemini’s Deep Research can look into your emails, drive, and chats](https://www.theverge.com/ai-artificial-intelligence/814878/google-ai-gemini-deep-research-personalized)
- - [DoorDash reports Q3 revenue up 27% YoY to $3.45B, vs. $3.36B est., and total orders up 21% to 776M, vs. 770.13M est.; DASH drops 18%+ after hours &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/251105/p50#a251105p50)
- - [Lyft reports Q3 revenue of $1.69B, up 10.7% YoY, vs. 11.5% est., adjusted EBITDA of $138.9M, vs. $140M est., and forecasts Q4 gross bookings above estimates &lpar;Akash Sriram/Reuters&rpar;](http://www.techmeme.com/251105/p49#a251105p49)
- - [Expect more Apple Immersive Video thanks to streamlined production process](https://appleinsider.com/articles/25/11/05/expect-more-apple-immersive-video-thanks-to-streamlined-production-process?utm_source=rss)<!-- TECH:END -->
+ - [DoorDash reports Q3 revenue up 27% YoY to $3.45B, vs. $3.36B est., and total orders up 21% to 776M, vs. 770.13M est.; DASH drops 18%+ after hours &lpar;Chris Eudaily/CNBC&rpar;](http://www.techmeme.com/251105/p50#a251105p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

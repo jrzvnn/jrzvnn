@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can keep using your iPad as an Apple Home hub until February](https://www.theverge.com/news/814287/apple-home-new-architecture-update-delay)
- - [This AI smart ring lets you record voice notes with a whisper](https://www.theverge.com/ai-artificial-intelligence/814329/sandbar-stream-ring-ai-wearable)
- - [Amazon opens a new 10,000-square-foot automated Whole Foods store in Pennsylvania partly staffed by robots; customers can scan and order items from the aisles &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251105/p37#a251105p37)
- - [Google’s fantastic Pixel Buds Pro 2 are down to $169](https://www.theverge.com/tech/814149/google-pixel-buds-pro-2-wireless-earbuds-deal-sale)
- - [Apple&#39;s next smart-home gadget is already hiding in iOS 26.2](https://appleinsider.com/articles/25/11/05/apples-next-smart-home-gadget-is-already-hiding-in-ios-262?utm_source=rss)<!-- TECH:END -->
+ - [Pinterest shares dropped 20% on Wednesday after forecasting Q4 revenue below estimates as advertising took a hit from retailers dealing with tariffs &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251105/p38#a251105p38)
+ - [Nintendo is getting the Switch ready for retirement](https://www.theverge.com/news/814273/nintendo-switch-2-console-primary-focus-pivot)
+ - [Discord now lets parents control who contacts their teens, but messages stay private](https://www.theverge.com/news/814144/discord-family-center-dm-controls)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [You can keep using your iPad as an Apple Home hub until February](https://www.theverge.com/news/814287/apple-home-new-architecture-update-delay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It keeps getting better and BETTER and BETTER!](http://9gag.com/gag/aqyB68M)
- - 😝 [The WRONG pronunciation of `cyan.`](http://9gag.com/gag/aZZoQmn)
- - 💣 [Wut ya doing ova durr](http://9gag.com/gag/a0ez0ez)
- - 😝 [0_0](http://9gag.com/gag/axyQ691)
- - 👉 [It Morphing Time!!](http://9gag.com/gag/avy46qn)<!-- MEMES:END -->
+ - 😝 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
+ - 😝 [The King](http://9gag.com/gag/aVv4m5v)
+ - 💣 [My man....](http://9gag.com/gag/aO8ADM3)
+ - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 👉 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)<!-- MEMES:END -->
 
 ---
 

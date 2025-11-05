@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2](https://www.theverge.com/news/814551/8bitdos-latest-wireless-controllers-can-now-shake-to-wake-the-switch-2)
  - [Sources: Apple plans to use a custom 1.2T-parameter Google Gemini model to help power the new Siri next year and will be paying Google ~$1B annually for it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251105/p43#a251105p43)
+ - [Champions League Soccer: Livestream Newcastle vs. Athletic Bilbao Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-newcastle-vs-athletic-bilbao-live-from-anywhere/#ftag=CAD590a51e)
  - [Apple releases iOS 18.7.2, iPadOS 18.7.2 updates](https://appleinsider.com/articles/25/11/05/apple-releases-ios-1872-ipados-1872-updates?utm_source=rss)
- - [The Pixel 10 Family Is Marked Down on Amazon](https://www.wired.com/story/pixel-10-deal-1125/)
- - [Meet the Chinese Startup Using AI—and a Small Army of Workers—to Train Robots](https://www.wired.com/story/agibot-robots-manufacturing/)<!-- TECH:END -->
+ - [The Pixel 10 Family Is Marked Down on Amazon](https://www.wired.com/story/pixel-10-deal-1125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

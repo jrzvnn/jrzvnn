@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
  - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
  - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [Just keep quiet ..](http://9gag.com/gag/a1mB2L2)
- - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
+ - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 👉 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
 
 ---
 

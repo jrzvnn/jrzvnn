@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [xAI used employee biometric data to train Elon Musk’s AI girlfriend](https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data)
  - [A Chinese court sentences five top members of an infamous Myanmar mafia to death as Beijing continues its crackdown on scam operations, convicting 21 in total &lpar;Koh Ewe/BBC&rpar;](http://www.techmeme.com/251105/p35#a251105p35)
  - [Proton VPN&#39;s Black Friday sale slashes plans by up to 75%](https://appleinsider.com/articles/25/11/05/proton-vpns-black-friday-sale-slashes-plans-by-up-to-75?utm_source=rss)
- - [PlayStation starts rolling out cloud streaming to the PlayStation Portal, after a beta in 2024, to let some users stream select titles without a PS5 connection &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/251105/p34#a251105p34)
- - [Instagram slapped with cease and desist over its use of &amp;#8216;PG-13&amp;#8217; teen accounts](https://www.theverge.com/news/814159/instagram-mpa-teen-accounts-pg13-rating-cease-and-desist)
- - [Google Maps plans to replace Assistant with Gemini on Android and iOS, giving users a &quot;hands-free, conversational driving experience&quot;, in the &quot;coming weeks&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251105/p33#a251105p33)<!-- TECH:END -->
+ - [Sony rolls out PlayStation Portal cloud streaming, letting PlayStation Premium Plus members stream select titles without a PS5 connection, in testing since 2024 &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/251105/p34#a251105p34)
+ - [Instagram slapped with cease and desist over its use of &amp;#8216;PG-13&amp;#8217; teen accounts](https://www.theverge.com/news/814159/instagram-mpa-teen-accounts-pg13-rating-cease-and-desist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

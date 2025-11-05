@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
  - 😝 [My man....](http://9gag.com/gag/aO8ADM3)
- - 💣 [Lol](http://9gag.com/gag/a5Qvz9r)
- - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 💣 [Pure genius](http://9gag.com/gag/abAKx1b)
+ - 😝 [Some still exist](http://9gag.com/gag/aLnVAo6)
  - 👉 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)<!-- MEMES:END -->
 
 ---

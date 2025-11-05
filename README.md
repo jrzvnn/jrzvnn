@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
- - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
+ - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [Going to the opposite end of the spectrum](http://9gag.com/gag/abAK4Pp)
+ - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [Incredible Armor of 16th Century Knights Explained](http://9gag.com/gag/amoKx82)
+ - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
 
 ---
 

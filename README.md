@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Incredible Armor of 16th Century Knights Explained](http://9gag.com/gag/amoKx82)
- - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
  - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 😝 [Its the truth and always will be](http://9gag.com/gag/aByjGx1)
  - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
 
 ---

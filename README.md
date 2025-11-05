@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
+ - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 😝 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
+ - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
 
 ---
 

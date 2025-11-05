@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says it now has 1M+ business customers globally, with ChatGPT for Work seats up 40% in two months to 7M+ and ChatGPT Enterprise seats up 9x YoY &lpar;OpenAI&rpar;](http://www.techmeme.com/251105/p39#a251105p39)
+ - [Cash-for-Calls Neon App Makes Stealth Return With One Key Change](https://www.cnet.com/tech/services-and-software/cash-for-calls-neon-app-makes-stealth-return-with-one-key-change/#ftag=CAD590a51e)
  - [Pinterest shares dropped 20% on Wednesday after forecasting Q4 revenue below estimates as advertising took a hit from retailers dealing with tariffs &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251105/p38#a251105p38)
  - [Nintendo is getting the Switch ready for retirement](https://www.theverge.com/news/814273/nintendo-switch-2-console-primary-focus-pivot)
- - [Discord now lets parents control who contacts their teens, but messages stay private](https://www.theverge.com/news/814144/discord-family-center-dm-controls)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
- - [You can keep using your iPad as an Apple Home hub until February](https://www.theverge.com/news/814287/apple-home-new-architecture-update-delay)<!-- TECH:END -->
+ - [I Used an AI Food Scanner App for 6 Weeks. This Is What It Taught Me About Carbs](https://www.cnet.com/health/nutrition/used-ai-food-scanner-app-6-weeks-what-taught-me-about-carbs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

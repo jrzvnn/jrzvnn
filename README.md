@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
- - 👉 [Just a hug.](http://9gag.com/gag/a6Z4nKN)<!-- MEMES:END -->
+ - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
+ - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
 
 ---
 

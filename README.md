@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Epic and Google agree to settle their lawsuit and change Android’s fate globally](https://www.theverge.com/policy/813991/epic-google-proposed-settlement)
  - [Google removed 749M URLs linked to Anna&#39;s Archive, a popular shadow library for pirated books, over copyright claims, representing ~5% of all takedown requests &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251105/p1#a251105p1)
  - [Qualcomm Ventures and six Indian VC firms join India Deep Tech Alliance with an additional $850M+ in commitments; Nvidia joins as a strategic technical adviser &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251104/p43#a251104p43)
  - [iOS 26: How to customize the iPhone&#39;s Lock Screen clock](https://appleinsider.com/inside/ios-26/tips/ios-26-how-to-customize-the-iphones-lock-screen-clock?utm_source=rss)
- - [A look at Fermi, a startup co-founded by ex-US Energy Secretary Rick Perry that aims to build one of the world&#39;s largest datacenter campuses in Texas by 2038 &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251104/p42#a251104p42)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 5](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-5/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Fermi, a startup co-founded by ex-US Energy Secretary Rick Perry that aims to build one of the world&#39;s largest datacenter campuses in Texas by 2038 &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251104/p42#a251104p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

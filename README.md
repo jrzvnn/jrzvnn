@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
  - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
- - 💣 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
- - 😝 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)
- - 👉 [Tina Louise in &#39;God&#39;s Little Acres&#39; &lpar;1958&rpar;](http://9gag.com/gag/a9yZ5G1)<!-- MEMES:END -->
+ - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 👉 [Dont try this at home](http://9gag.com/gag/aRB9oV5)<!-- MEMES:END -->
 
 ---
 

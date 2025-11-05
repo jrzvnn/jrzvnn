@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [AppLovin reports Q3 revenue up 68% YoY to $1.41B, vs. $1.34B est., and forecasts Q4 revenue and adjusted EBITDA above estimates; APP jumps 6%+ after hours &lpar;Luke Kawa/Sherwood News&rpar;](http://www.techmeme.com/251105/p55#a251105p55)
+ - [Here are the best Apple Watch deals available right now](https://www.theverge.com/21289209/best-apple-watch-deals)
  - [Figma reports Q3 revenue up 38% YoY to $274.2M, vs. $265.2M est., adjusted operating margin of 12%, vs. 6.5% est., and forecasts Q4 revenue above estimates &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251105/p54#a251105p54)
  - [Apple plans to remove Wi-Fi network syncing on Apple Watch in the EU](https://appleinsider.com/articles/25/11/05/apple-plans-to-remove-wi-fi-network-syncing-on-apple-watch-in-the-eu?utm_source=rss)
- - [Robinhood reports Q3 revenue up 100% YoY to $1.27B, vs. $1.19B est., transaction-based revenue up 129% to $730M, vs. $739M est., and net income up 271% to $556M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251105/p53#a251105p53)
- - [Quantinuum unveils Helios, a quantum computer with 98 physical qubits, from which it can deliver 48 logical error-corrected qubits, an impressive 2:1 ratio &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/251105/p52#a251105p52)<!-- TECH:END -->
+ - [Robinhood reports Q3 revenue up 100% YoY to $1.27B, vs. $1.19B est., transaction-based revenue up 129% to $730M, vs. $739M est., and net income up 271% to $556M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251105/p53#a251105p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps plans to replace Assistant with Gemini on Android and iOS, giving users a &quot;hands-free, conversational driving experience&quot;, in the &quot;coming weeks&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251105/p33#a251105p33)
- - [Stablecoin operator Ripple raised $500M from Citadel, Fortress, and more at a $40B valuation and says the value of payments on its platform passed $95B in 2025 &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251105/p32#a251105p32)
- - [The Best Budget TVs &lpar;2025&rpar;: TCL, Hisense, LG and More](https://www.wired.com/gallery/best-cheap-tvs/)
- - [Google Maps taps Gemini AI to transform into an ‘all-knowing copilot’](https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions)
- - [Q&amp;A with Sam Altman on OpenAI&#39;s growth management, delegation, hiring hardware talent, GPT-6 enabling research breakthroughs, societal challenges, and more &lpar;Conversations with Tyler&rpar;](http://www.techmeme.com/251105/p31#a251105p31)<!-- TECH:END -->
+ - [A Chinese court sentences five top members of an infamous Myanmar mafia to death as Beijing continues its crackdown on scam operations, convicting 21 in total &lpar;Koh Ewe/BBC&rpar;](http://www.techmeme.com/251105/p35#a251105p35)
+ - [Proton VPN&#39;s Black Friday sale slashes plans by up to 75%](https://appleinsider.com/articles/25/11/05/proton-vpns-black-friday-sale-slashes-plans-by-up-to-75?utm_source=rss)
+ - [PlayStation starts rolling out cloud streaming to the PlayStation Portal, after a beta in 2024, to let some users stream select titles without a PS5 connection &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/251105/p34#a251105p34)
+ - [Instagram slapped with cease and desist over its use of &amp;#8216;PG-13&amp;#8217; teen accounts](https://www.theverge.com/news/814159/instagram-mpa-teen-accounts-pg13-rating-cease-and-desist)
+ - [Google Maps plans to replace Assistant with Gemini on Android and iOS, giving users a &quot;hands-free, conversational driving experience&quot;, in the &quot;coming weeks&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251105/p33#a251105p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

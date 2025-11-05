@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [Its the truth and always will be](http://9gag.com/gag/aByjGx1)
- - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
+ - 😝 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
+ - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 💣 [Seeing myself in a mirror after a night out](http://9gag.com/gag/ae9ym5b)
+ - 😝 [Just keep quiet ..](http://9gag.com/gag/a1mB2L2)
+ - 👉 [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)<!-- MEMES:END -->
 
 ---
 

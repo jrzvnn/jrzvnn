@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WEB WAR III](https://www.theverge.com/tech/813944/browser-wars-chatgpt-gemini-chrome)
- - [Disney and Fortnite show hints of budding metaverse with new Disneyland game](https://www.theverge.com/games/813723/fortnite-disneyland-game-rush-launch-metaverse)
- - [The Best Travel Totes for Every Kind of Trip &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-tote/)
- - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
- - [France begins the process to temporarily suspend Shein for &quot;the time necessary for the platform to demonstrate&quot; it has scrubbed its website of illegal products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251105/p36#a251105p36)<!-- TECH:END -->
+ - [Apple&#39;s next smart-home gadget is already hiding in iOS 26.2](https://appleinsider.com/articles/25/11/05/apples-next-smart-home-gadget-is-already-hiding-in-ios-262?utm_source=rss)
+ - [T-Mobile brings free 911 emergency texting to AT&amp;#038;T and Verizon customers](https://www.theverge.com/news/814319/t-mobile-911-emergency-texting-att-verizon-free)
+ - [Democrats Did Much Better Than Expected](https://www.wired.com/story/democrats-did-way-better-than-expected-yesterday/)
+ - [Teenage Engineering pairs its reggae-themed sampler with a new voice-changing mic](https://www.theverge.com/news/814300/teenage-engineering-pairs-its-reggae-themed-sampler-with-a-new-voice-changing-mic)
+ - [8 Best Cordless Vacuums for Your Whole House &lpar;2025&rpar;](https://www.wired.com/gallery/best-cordless-vacuum/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

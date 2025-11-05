@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/)
- - [Netflix rolls out a new ad metric called monthly active viewers, or MAV, and says it has 190M such viewers in the 12 countries where it offers an ad tier &lpar;Rick Porter/The Hollywood Reporter&rpar;](http://www.techmeme.com/251105/p40#a251105p40)
- - [OpenAI says it now has 1M+ business customers globally, with ChatGPT for Work seats up 40% in two months to 7M+ and ChatGPT Enterprise seats up 9x YoY &lpar;OpenAI&rpar;](http://www.techmeme.com/251105/p39#a251105p39)
- - [Cash-for-Calls Neon App Makes Stealth Return With One Key Change](https://www.cnet.com/tech/services-and-software/cash-for-calls-neon-app-makes-stealth-return-with-one-key-change/#ftag=CAD590a51e)
- - [Pinterest shares dropped 20% on Wednesday after forecasting Q4 revenue below estimates as advertising took a hit from retailers dealing with tariffs &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251105/p38#a251105p38)<!-- TECH:END -->
+ - [Zohran Mamdani&#39;s Campaign Figured Out How to Channel Fandom](https://www.wired.com/story/zohran-mamdani-campaign-fandom/)
+ - [Wabi, a &quot;YouTube for apps&quot; launched by Replika founder Eugenia Kuyda to let users create and share mini apps without coding, raised a $20M pre-seed &lpar;TechCrunch&rpar;](http://www.techmeme.com/251105/p41#a251105p41)
+ - [The hottest trend in speedrunning is flipping a coin](https://www.theverge.com/games/814111/unfair-flips-speedrunning)
+ - [Baseus’ solar-powered dash cam is down to its best price yet](https://www.theverge.com/tech/814368/baseus-primetrip-vd1-pro-dash-cam-deal-sale)
+ - [Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

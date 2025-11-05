@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sam Altman on OpenAI&#39;s growth management, delegation, hiring hardware talent, GPT-6 enabling research breakthroughs, societal challenges, and more &lpar;Conversations with Tyler&rpar;](http://www.techmeme.com/251105/p31#a251105p31)
- - [Cloud streaming finally arrives on the PlayStation Portal](https://www.theverge.com/news/814078/playstation-portal-ps5-cloud-streaming)
- - [iOS 26.2 beta testers in Japan can install third party app stores](https://appleinsider.com/articles/25/11/05/ios-262-beta-testers-in-japan-can-install-third-party-app-stores?utm_source=rss)
- - [Giga, which develops voice-based AI agents for customer support, raised a $61M Series A led by Redpoint with participation from Y Combinator and Nexus &lpar;Beatrice Nolan/Fortune&rpar;](http://www.techmeme.com/251105/p30#a251105p30)
- - [Xlr8yourmac goes offline, ending an era of DIY tinkering](https://appleinsider.com/articles/25/11/05/xlr8yourmac-goes-offline-ending-an-era-of-diy-tinkering?utm_source=rss)<!-- TECH:END -->
+ - [Google Maps plans to replace Assistant with Gemini on Android and iOS, giving users a &quot;hands-free, conversational driving experience&quot;, in the &quot;coming weeks&quot; &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251105/p33#a251105p33)
+ - [Stablecoin operator Ripple raised $500M from Citadel, Fortress, and more at a $40B valuation and says the value of payments on its platform passed $95B in 2025 &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251105/p32#a251105p32)
+ - [The Best Budget TVs &lpar;2025&rpar;: TCL, Hisense, LG and More](https://www.wired.com/gallery/best-cheap-tvs/)
+ - [Google Maps taps Gemini AI to transform into an ‘all-knowing copilot’](https://www.theverge.com/news/813588/google-maps-gemini-ai-chatbot-navigation-directions)
+ - [Q&amp;A with Sam Altman on OpenAI&#39;s growth management, delegation, hiring hardware talent, GPT-6 enabling research breakthroughs, societal challenges, and more &lpar;Conversations with Tyler&rpar;](http://www.techmeme.com/251105/p31#a251105p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

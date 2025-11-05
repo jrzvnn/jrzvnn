@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
- - 😝 [Some still exist](http://9gag.com/gag/aLnVAo6)
- - 💣 [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)
- - 😝 [Seriously McDonald&#39;s is depressing as hell now.](http://9gag.com/gag/aQzBZd2)
- - 👉 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)<!-- MEMES:END -->
+ - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 💣 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 😝 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 👉 [I have this weird super power that lets me see IQs](http://9gag.com/gag/aPAz84q)<!-- MEMES:END -->
 
 ---
 

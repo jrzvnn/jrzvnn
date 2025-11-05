@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some still exist](http://9gag.com/gag/aLnVAo6)
+ - 😝 [My man....](http://9gag.com/gag/aO8ADM3)
  - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
- - 💣 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)
- - 😝 [True true](http://9gag.com/gag/ary9qpX)
- - 👉 [They pushed recycling so hard in school in the 90s](http://9gag.com/gag/a6Z4B0e)<!-- MEMES:END -->
+ - 💣 [Some still exist](http://9gag.com/gag/aLnVAo6)
+ - 😝 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)
+ - 👉 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)<!-- MEMES:END -->
 
 ---
 

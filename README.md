@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Expect more Apple Immersive Video thanks to streamlined production process](https://appleinsider.com/articles/25/11/05/expect-more-apple-immersive-video-thanks-to-streamlined-production-process?utm_source=rss)
+ - [Qualcomm reports Q4 revenue up 10% to $11.27B, vs. $10.79B est., handsets revenue up 14% to $6.96B, and forecasts Q1 revenue above estimates &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251105/p48#a251105p48)
  - [Snap announces a deal to distribute Perplexity&#39;s search engine to Snapchat users; Perplexity will pay Snap $400M through a combination of cash and equity &lpar;Bloomberg&rpar;](http://www.techmeme.com/251105/p47#a251105p47)
- - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
  - [Snap reports Q3 revenue up 10% YoY to $1.51B vs. $1.49B est., DAUs up 8% to 477M vs. 476M est., and announces a $500M share buyback; SNAP jumps 23%+ after hours &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/251105/p46#a251105p46)
- - [I&#39;m Still Using My TP-Link Router, Even Though It Could Be Banned in the US](https://www.cnet.com/home/internet/im-still-using-my-tp-link-router-even-though-it-could-be-banned-in-the-us/#ftag=CAD590a51e)
- - [Arm reports Q2 revenue up 34% YoY to $1.14B, royalty revenue up 21% YoY to $620M, vs. $586M est., and forecasts Q3 revenue above est.; ARM jumps 4%+ after hours &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251105/p45#a251105p45)<!-- TECH:END -->
+ - [I&#39;m Still Using My TP-Link Router, Even Though It Could Be Banned in the US](https://www.cnet.com/home/internet/im-still-using-my-tp-link-router-even-though-it-could-be-banned-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

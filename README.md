@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Turns out 9 PM is still the sweet spot](http://9gag.com/gag/abAKWBO)
- - 😝 [The King](http://9gag.com/gag/aVv4m5v)
- - 💣 [My man....](http://9gag.com/gag/aO8ADM3)
- - 😝 [Pure genius](http://9gag.com/gag/abAKx1b)
- - 👉 [The happiest days of your life was when your desktop looked like this](http://9gag.com/gag/a9yZmPW)<!-- MEMES:END -->
+ - 😝 [Creepy](http://9gag.com/gag/aPAzoAR)
+ - 😝 [My favorite is beech.](http://9gag.com/gag/aW4PnD2)
+ - 💣 [0_0](http://9gag.com/gag/axyQ691)
+ - 😝 [They pushed recycling so hard in school in the 90s](http://9gag.com/gag/a6Z4B0e)
+ - 👉 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)<!-- MEMES:END -->
 
 ---
 

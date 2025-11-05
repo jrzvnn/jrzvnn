@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Research: AI&#39;s ability to complete long and complex software engineering tasks doubles every 6-7 months, but there is a &quot;messiness tax&quot; for real-world tasks &lpar;Boaz Barak/Windows On Theory&rpar;](http://www.techmeme.com/251105/p20#a251105p20)
  - [A profile of Football Manager game developer Sports Interactive, which has ~280 full-time staff and licenses its scouting data to 40+ teams, as it releases FM26 &lpar;Chris Allnutt/Financial Times&rpar;](http://www.techmeme.com/251105/p19#a251105p19)
  - [Meze Audio 105 Silva Headphones Review: Look Great, Sound Better](https://www.wired.com/review/meze-audio-105-silva-headphones/)
  - [The CIA Used This Psychic Meditation Program. It’s Never Been More Popular](https://www.wired.com/story/the-cia-used-this-psychic-meditation-program-its-never-been-more-popular/)
- - [YouTube confirms it removed 700+ videos from three prominent Palestinian human rights groups in early October to comply with US State Department sanctions &lpar;The Intercept&rpar;](http://www.techmeme.com/251105/p18#a251105p18)
- - [Sources: Roelof Botha was asked to step aside after some Sequoia partners raised concerns about his leadership; Botha had declined to comment on Shaun Maguire &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251105/p17#a251105p17)<!-- TECH:END -->
+ - [YouTube confirms it removed 700+ videos from three prominent Palestinian human rights groups in early October to comply with US State Department sanctions &lpar;The Intercept&rpar;](http://www.techmeme.com/251105/p18#a251105p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

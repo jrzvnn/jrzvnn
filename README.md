@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The WRONG pronunciation of `cyan.`](http://9gag.com/gag/aZZoQmn)
  - 😝 [Malaysian PM Anwar Ibrahim sneaked pass Xi Jinping security details to shake hand with him. You can see how flustered Chinese Foreign Minister and Xi Jinping security details look. They were totally caught off guard.](http://9gag.com/gag/aZZo8K3)
- - 😝 [That&#39;s just peak awkwardness right there](http://9gag.com/gag/aE0yoWM)
- - 💣 [It Morphing Time!!](http://9gag.com/gag/avy46qn)
- - 😝 [Security guard in Turkey narrowly saves woman from oncoming train](http://9gag.com/gag/aQzBAE7)
+ - 💣 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
+ - 😝 [0_0](http://9gag.com/gag/axyQ691)
  - 👉 [Creepy](http://9gag.com/gag/aPAzoAR)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2](https://www.theverge.com/news/814551/8bitdos-latest-wireless-controllers-can-now-shake-to-wake-the-switch-2)
+ - [Sources: Apple plans to use a custom 1.2T-parameter Google Gemini model to help power the new Siri next year and will be paying Google ~$1B annually for it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251105/p43#a251105p43)
  - [Apple releases iOS 18.7.2, iPadOS 18.7.2 updates](https://appleinsider.com/articles/25/11/05/apple-releases-ios-1872-ipados-1872-updates?utm_source=rss)
  - [The Pixel 10 Family Is Marked Down on Amazon](https://www.wired.com/story/pixel-10-deal-1125/)
- - [Meet the Chinese Startup Using AI—and a Small Army of Workers—to Train Robots](https://www.wired.com/story/agibot-robots-manufacturing/)
- - [AI Mode button in iPad &amp; iPhone Chrome speeds searches](https://appleinsider.com/articles/25/11/05/ai-mode-button-in-ipad-iphone-chrome-speeds-searches?utm_source=rss)
- - [A look at Bret Taylor&#39;s AI agent startup Sierra as it launches new products; source: Sierra is on track to exceed $100M in annualized revenue by January 2026 &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251105/p42#a251105p42)<!-- TECH:END -->
+ - [Meet the Chinese Startup Using AI—and a Small Army of Workers—to Train Robots](https://www.wired.com/story/agibot-robots-manufacturing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

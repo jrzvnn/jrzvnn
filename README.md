@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Y&#39;all motherf***ers want a photo](http://9gag.com/gag/axyQb6b)
- - 😝 [... and he&#39;s right.](http://9gag.com/gag/aE0yWd9)
- - 💣 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 😝 [Motorboat](http://9gag.com/gag/awyPdmR)
- - 👉 [ZLM! I think the more appropriate term is mortally challenged.](http://9gag.com/gag/an78xpz)<!-- MEMES:END -->
+ - 😝 [Incredible Armor of 16th Century Knights Explained](http://9gag.com/gag/amoKx82)
+ - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 💣 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
- - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 💣 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
- - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
- - 👉 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)<!-- MEMES:END -->
+ - 😝 [Gorgeous](http://9gag.com/gag/awyPOGW)
+ - 😝 [Never ever forget.](http://9gag.com/gag/azxoRZz)
+ - 💣 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)
+ - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 👉 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)<!-- MEMES:END -->
 
 ---
 

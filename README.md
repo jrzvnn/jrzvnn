@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
+ - [France begins the process to temporarily suspend Shein for &quot;the time necessary for the platform to demonstrate&quot; it has scrubbed its website of illegal products &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251105/p36#a251105p36)
  - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
  - [‘New York City Has Fallen’: MAGA Responds to Zohran Mamdani’s Victory With a Racist Freak-Out](https://www.wired.com/story/maga-responds-to-zohran-mamdani-victory/)
- - [xAI used employee biometric data to train Elon Musk’s AI girlfriend](https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data)
- - [A Chinese court sentences five top members of an infamous Myanmar mafia to death as Beijing continues its crackdown on scam operations, convicting 21 in total &lpar;Koh Ewe/BBC&rpar;](http://www.techmeme.com/251105/p35#a251105p35)
- - [Proton VPN&#39;s Black Friday sale slashes plans by up to 75%](https://appleinsider.com/articles/25/11/05/proton-vpns-black-friday-sale-slashes-plans-by-up-to-75?utm_source=rss)<!-- TECH:END -->
+ - [xAI used employee biometric data to train Elon Musk’s AI girlfriend](https://www.theverge.com/news/814168/xai-grok-ani-employee-biometric-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

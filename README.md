@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 💣 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
  - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 😝 [Just a hug.](http://9gag.com/gag/a6Z4nKN)
- - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
+ - 👉 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)<!-- MEMES:END -->
 
 ---
 

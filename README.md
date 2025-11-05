@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: data center startup Crusoe is arranging an employee share sale involving ~$120M worth of shares that values it at ~$13B, up from $10B+ just weeks ago &lpar;The Information&rpar;](http://www.techmeme.com/251105/p44#a251105p44)
  - [Wokyis M5 dock review: Mac Plus looks, M4 Mac mini performance](https://appleinsider.com/articles/25/08/04/wokyis-m5-dock-review-mac-plus-looks-m4-mac-mini-performance?utm_source=rss)
  - [8BitDo’s latest wireless controllers can now shake-to-wake the Switch 2](https://www.theverge.com/news/814551/8bitdos-latest-wireless-controllers-can-now-shake-to-wake-the-switch-2)
  - [Sources: Apple plans to use a custom 1.2T-parameter Google Gemini model to help power the new Siri next year and will be paying Google ~$1B annually for it &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251105/p43#a251105p43)
- - [Apple releases iOS 18.7.2, iPadOS 18.7.2 updates](https://appleinsider.com/articles/25/11/05/apple-releases-ios-1872-ipados-1872-updates?utm_source=rss)
- - [The Pixel 10 Family Is Marked Down on Amazon](https://www.wired.com/story/pixel-10-deal-1125/)<!-- TECH:END -->
+ - [Champions League Soccer: Livestream Newcastle vs. Athletic Bilbao Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-newcastle-vs-athletic-bilbao-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

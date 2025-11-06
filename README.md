@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 😝 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
- - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 💣 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
  - 😝 [Collab](http://9gag.com/gag/a9yZXxo)
- - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
+ - 👉 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)<!-- MEMES:END -->
 
 ---
 

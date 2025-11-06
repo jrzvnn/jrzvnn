@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
  - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 😝 [And one for the road...](http://9gag.com/gag/aPAzX1g)
- - 👉 [Cool hair](http://9gag.com/gag/aW4PbNK)<!-- MEMES:END -->
+ - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - 😝 [No Patrick, chairs are not a musical instrument](http://9gag.com/gag/a6Z4jMe)
+ - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---
 

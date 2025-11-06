@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft AI CEO Mustafa Suleyman lays out the company&#39;s plans to develop AI self-sufficiency from OpenAI, like releasing its own voice, image, and text models &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p23#a251106p23)
- - [11 Best Cheap Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
- - [I’m The Verge’s new AV expert, ask me anything!](https://www.theverge.com/tech/814389/im-the-verges-new-av-expert-ama)
- - [Lego’s first Star Trek set is a $400 Enterprise with Data, Picard, and Worf minifigures](https://www.theverge.com/news/815337/lego-star-trek-uss-enterprise-ncc-1701-d-data-picard-riker-worf-minifigures)
- - [Thousands of flights in danger of cancellation as FAA announces major cuts](https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown)<!-- TECH:END -->
+ - [The Chan Zuckerberg Initiative restructures to focus on AI and science, led by Biohub research centers, and acquires AI startup Evolutionary Scale&#39;s team &lpar;New York Times&rpar;](http://www.techmeme.com/251106/p26#a251106p26)
+ - [British Airways owner IAG signs a deal with SpaceX&#39;s Starlink for Wi-Fi across all five carriers in the airline group, making it available in 500+ aircraft &lpar;Kate Duffy/Bloomberg&rpar;](http://www.techmeme.com/251106/p25#a251106p25)
+ - [The Best Mushroom Gifts for Your Fungi Friend &lpar;2025&rpar;](https://www.wired.com/gallery/spore-yourself-rotten-with-wireds-mushroom-gift-guide/)
+ - [Microsoft AI CEO Mustafa Suleyman says Microsoft plans to focus on superintelligence that prioritizes human control; he will lead a new superintelligence team &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/251106/p24#a251106p24)
+ - [Peloton issues recall for 833,00 bikes over faulty seat posts](https://www.theverge.com/news/815376/peloton-bike-plus-recall-seat-post)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

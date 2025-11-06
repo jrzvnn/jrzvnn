@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Google is in early talks to deepen its strategic investment in Anthropic that could value the AI company at more than $350B &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251105/p64#a251105p64)
+ - [Sources: Charles Schwab is expected to announce a deal to acquire Forge Global, a leading platform for trading stakes in private startups, for as much as $600M &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/251105/p63#a251105p63)
  - [Inside Kalshi&#39;s NYC HQ on election night, as it handled ~$100M in trades on the mayoral race that day, calling it for Mamdani 36 minutes before any media outlet &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251105/p62#a251105p62)
  - [A profile of OpenAI President Greg Brockman and his role in the company&#39;s $1.4T infrastructure buildout that&#39;s required to reach AGI &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251105/p61#a251105p61)
- - [Got Poor Internet Access? Verizon&#39;s New $25 Per Month Internet Plan May Help](https://www.cnet.com/home/internet/got-poor-internet-access-verizons-new-25-per-month-internet-plan-may-help/#ftag=CAD590a51e)
- - [Sandbar introduces Stream Ring, an AI-powered smart ring for transcribing audio notes into text via an app, preorder now from $249 and shipping in summer 2026 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/251105/p60#a251105p60)
- - [Election night at Kalshi HQ](https://www.theverge.com/column/815208/election-night-at-kalshi-hq)<!-- TECH:END -->
+ - [Got Poor Internet Access? Verizon&#39;s New $25 Per Month Internet Plan May Help](https://www.cnet.com/home/internet/got-poor-internet-access-verizons-new-25-per-month-internet-plan-may-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
- - 💣 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
+ - 😝 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
+ - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 💣 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
  - 😝 [Collab](http://9gag.com/gag/a9yZXxo)
- - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
+ - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---
 

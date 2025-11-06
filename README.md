@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grand Theft Auto VI launch delayed until November 2026](https://www.theverge.com/news/816005/grand-theft-auto-vi-gta-g-delayed-november-2026)
+ - [Amazon offers AI translation for self-published Kindle books](https://www.theverge.com/news/815987/amazon-kindle-translate-ai-ebook-translation)
+ - [Sam Altman says OpenAI doesn&#39;t want government guarantees for data centers and expects to fund investments with revenues hitting &quot;hundreds of billions by 2030&quot; &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251106/p42#a251106p42)
  - [Amazon is testing an AI tool called Kindle Translate that automatically translates books into other languages, for authors that self-publish on the platform &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/251106/p41#a251106p41)
- - [Expert-Backed Ways to Fix AI Image Hallucinations While Using ChatGPT, Midjourney and More](https://www.cnet.com/tech/services-and-software/expert-backed-ways-to-fix-ai-image-hallucinations-while-using-chatgpt-midjourney-and-more/#ftag=CAD590a51e)
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [These Hallmark Channel Movies Are Perfect for Family Movie Night](https://www.cnet.com/tech/services-and-software/these-hallmark-channel-movies-are-perfect-for-family-movie-night/#ftag=CAD590a51e)
- - [The 65 Best Movies on Disney+ Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)<!-- TECH:END -->
+ - [Expert-Backed Ways to Fix AI Image Hallucinations While Using ChatGPT, Midjourney and More](https://www.cnet.com/tech/services-and-software/expert-backed-ways-to-fix-ai-image-hallucinations-while-using-chatgpt-midjourney-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

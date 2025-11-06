@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call-Recording App Neon Disappeared Abruptly. Now It&#39;s Back for Another Try](https://www.cnet.com/tech/services-and-software/call-recording-app-neon-disappeared-abruptly-now-its-back-for-another-try/#ftag=CAD590a51e)
+ - [Europa League Soccer: Livestream Sturm Graz vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-sturm-graz-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)
  - [The latest Blink Video Doorbell is over 50 percent off](https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale)
  - [Google adds Gemini&#39;s Deep Search to Google Finance, which also gets prediction market data from Kalshi and Polymarket for future event analysis, first in the US &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/251106/p35#a251106p35)
- - [Stranger Things: Tales From ‘85 winds the clock back in new trailer](https://www.theverge.com/streaming/815627/stranger-things-tales-from-85-teaser)
- - [Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear](https://www.wired.com/gallery/best-adaptogen-drinks/)
- - [Save up to $234 on every new M5 MacBook Pro with exclusive deals](https://appleinsider.com/articles/25/11/06/save-up-to-234-on-every-new-m5-macbook-pro-with-exclusive-deals?utm_source=rss)<!-- TECH:END -->
+ - [Stranger Things: Tales From ‘85 winds the clock back in new trailer](https://www.theverge.com/streaming/815627/stranger-things-tales-from-85-teaser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

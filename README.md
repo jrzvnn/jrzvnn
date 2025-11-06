@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sign at My Kid’s Daycare](https://www.reddit.com/r/funny/comments/1oqde9k/sign_at_my_kids_daycare/)
  - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - 💣 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 😝 [Cameron Diaz dropping wisdom on aging](http://9gag.com/gag/aPAzeOK)
- - 👉 [Cool hair](http://9gag.com/gag/aW4PbNK)<!-- MEMES:END -->
+ - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
+ - 💣 [Cameron Diaz dropping wisdom on aging](http://9gag.com/gag/aPAzeOK)
+ - 😝 [Cool hair](http://9gag.com/gag/aW4PbNK)
+ - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
 
 ---
 

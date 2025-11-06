@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15-Inch MacBook Air Is Marked Down by $200](https://www.wired.com/story/macbook-air-15-deal-1125/)
+ - [Nintendo has too many apps](https://www.theverge.com/games/815741/nintendo-apps-nintendo-store-nintendo-music)
+ - [A US judge sentences Keonne Rodriguez, a co-founder of crypto mixer Samourai Wallet, to five years in prison for helping to launder hundreds of millions &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/251106/p39#a251106p39)
+ - [The 15-Inch MacBook Air Is $200 Off](https://www.wired.com/story/macbook-air-15-deal-1125/)
  - [First macOS Tahoe 26.2 beta released for developer testing](https://appleinsider.com/articles/25/11/06/first-macos-tahoe-262-beta-released-for-developer-testing?utm_source=rss)
- - [OpenAI releases a blueprint the company hopes lawmakers will use in crafting safety standards for teens using AI, with five suggestions for AI companies &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251106/p38#a251106p38)
- - [FBI subpoenas the web registrar behind Archive.is](https://www.theverge.com/news/815691/fbi-subpoena-archive-is-owner)
- - [TSMC price hikes are another financial pain point for iPhone 18](https://appleinsider.com/articles/25/11/06/tsmc-price-hikes-are-another-financial-pain-point-for-iphone-18?utm_source=rss)<!-- TECH:END -->
+ - [OpenAI releases a blueprint the company hopes lawmakers will use in crafting safety standards for teens using AI, with five suggestions for AI companies &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251106/p38#a251106p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

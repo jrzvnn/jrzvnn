@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
- - 👉 [Cool hair](http://9gag.com/gag/aW4PbNK)<!-- MEMES:END -->
+ - 😝 [Really worth it](http://9gag.com/gag/aZZozMp)
+ - 😝 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - 💣 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
+ - 😝 [Nope](http://9gag.com/gag/aW4PDM2)
+ - 👉 [I&#39;m a regular everyday](http://9gag.com/gag/aO8ARo6)<!-- MEMES:END -->
 
 ---
 

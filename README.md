@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Mate 70 Air is a little thick for a thin phone](https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone)
- - [iPhone 13 mini to iPhone 17: What you get, upgrading after four years](https://appleinsider.com/articles/25/11/06/iphone-13-mini-to-iphone-17-what-you-get-upgrading-after-four-years?utm_source=rss)
- - [LG Studio Smart 3-Door French Door Refrigerator Review: Cool Customer](https://www.wired.com/review/lg-studio-smart-3-door-french-door-refrigerator/)
- - [SpaceX agrees to acquire EchoStar&#39;s unpaired AWS-3 licenses for $2.6B in stock, after EchoStar sold WS-4 and H-block licenses to SpaceX for $17B in September &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/251106/p18#a251106p18)
- - [Sources: Shein told investors in August that it expects $2B in net income in 2025 despite US tariffs and forecasts mid-teen percentage growth in full-year sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p17#a251106p17)<!-- TECH:END -->
+ - [Foursquare&amp;#8217;s founder launches a new app that talks to you about your neighborhood](https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates)
+ - [Inception, which is building diffusion-based AI models for code and text, raised a $50M seed led by Menlo and releases an update to its Mercury coding model &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p20#a251106p20)
+ - [Internal documents: Meta projected in December 2024 that 10.1% of its annual ad revenue, or $16B, came from fraudulent ads, including $7B from &quot;higher risk&quot; ads &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251106/p19#a251106p19)
+ - [New Australia &amp; New Zealand power initiatives are an attempt to balance Apple&#39;s consumption](https://appleinsider.com/articles/25/11/06/new-australia-new-zealand-power-initiatives-are-an-attempt-to-balance-apples-consumption?utm_source=rss)
+ - [Huawei Mate 70 Air is a little thick for a thin phone](https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

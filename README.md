@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now make your own Wordle puzzles](https://www.theverge.com/news/815716/wordle-new-york-times-nyt-creation-tool-puzzles)
- - [David Sacks says there will be &quot;no federal bailout for AI&quot;, as the US has at least five major AI companies and &quot;if one fails, others will take its place&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p37#a251106p37)
- - [Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year](https://www.wired.com/story/lego-uss-enterprise-2025/)
- - [a16z announces an eight-week new media fellowship for people with a record of creating &quot;impactful content&quot; via newsletters, podcasts, communities, and more &lpar;a16z&rpar;](http://www.techmeme.com/251106/p36#a251106p36)
- - [Call-Recording App Neon Disappeared Abruptly. Now It&#39;s Back for Another Try](https://www.cnet.com/tech/services-and-software/call-recording-app-neon-disappeared-abruptly-now-its-back-for-another-try/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [First macOS Tahoe 26.2 beta released for developer testing](https://appleinsider.com/articles/25/11/06/first-macos-tahoe-262-beta-released-for-developer-testing?utm_source=rss)
+ - [OpenAI releases a blueprint the company hopes lawmakers will use in crafting safety standards for teens using AI, with five suggestions for AI companies &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/251106/p38#a251106p38)
+ - [FBI subpoenas the web registrar behind Archive.is](https://www.theverge.com/news/815691/fbi-subpoena-archive-is-owner)
+ - [TSMC price hikes are another financial pain point for iPhone 18](https://appleinsider.com/articles/25/11/06/tsmc-price-hikes-are-another-financial-pain-point-for-iphone-18?utm_source=rss)
+ - [You can now make your own Wordle puzzles](https://www.theverge.com/news/815716/wordle-new-york-times-nyt-creation-tool-puzzles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

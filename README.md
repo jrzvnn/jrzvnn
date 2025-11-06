@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jensen Huang warns &quot;China is going to win the AI race&quot;, after the US kept a ban on high-end AI chip sales to China, and says the West is held back by &quot;cynicism&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251106/p13#a251106p13)
+ - [My Arcade Atari Gamestation Go Review: Price, Specs, Availability](https://www.wired.com/review/my-arcade-atari-gamestation-go/)
+ - [Rockstar says it fired dozens of staff last week due to &quot;distributing and discussing confidential information in a public forum&quot;, disputing union allegations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251106/p12#a251106p12)
  - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)
- - [Huawei unveils the ~$590 Mate 70 Air, a 6.6mm thick smartphone set to compete with the $999 iPhone Air, with a 7&quot; display and HarmonyOS, shipping November 11 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p11#a251106p11)
- - [Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear](https://www.wired.com/gallery/best-adaptogen-drinks/)
- - [Mark Zuckerberg Opened an Illegal School at His Palo Alto Compound. His Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
- - [New Study Finds That One Long Walk Is Better Than Multiple Short Ones](https://www.cnet.com/health/fitness/new-study-finds-one-long-walk-better-than-several-short-ones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Huawei unveils the ~$590 Mate 70 Air, a 6.6mm thick smartphone set to compete with the $999 iPhone Air, with a 7&quot; display and HarmonyOS, shipping November 11 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p11#a251106p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Call-Recording App Neon Disappeared Abruptly. Now It&#39;s Back for Another Try](https://www.cnet.com/tech/services-and-software/call-recording-app-neon-disappeared-abruptly-now-its-back-for-another-try/#ftag=CAD590a51e)
- - [Europa League Soccer: Livestream Sturm Graz vs. Nottingham Forest Live From Anywhere](https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-sturm-graz-vs-nottingham-forest-live-from-anywhere/#ftag=CAD590a51e)
- - [The latest Blink Video Doorbell is over 50 percent off](https://www.theverge.com/tech/815637/blink-video-doorbell-second-generation-early-black-friday-deal-sale)
- - [Google adds Gemini&#39;s Deep Search to Google Finance, which also gets prediction market data from Kalshi and Polymarket for future event analysis, first in the US &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/251106/p35#a251106p35)
- - [Stranger Things: Tales From ‘85 winds the clock back in new trailer](https://www.theverge.com/streaming/815627/stranger-things-tales-from-85-teaser)<!-- TECH:END -->
+ - [You can now make your own Wordle puzzles](https://www.theverge.com/news/815716/wordle-new-york-times-nyt-creation-tool-puzzles)
+ - [David Sacks says there will be &quot;no federal bailout for AI&quot;, as the US has at least five major AI companies and &quot;if one fails, others will take its place&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p37#a251106p37)
+ - [Lego’s 3,600-Piece Star Trek Enterprise Is the Holiday Gift to Buy This Year](https://www.wired.com/story/lego-uss-enterprise-2025/)
+ - [a16z announces an eight-week new media fellowship for people with a record of creating &quot;impactful content&quot; via newsletters, podcasts, communities, and more &lpar;a16z&rpar;](http://www.techmeme.com/251106/p36#a251106p36)
+ - [Call-Recording App Neon Disappeared Abruptly. Now It&#39;s Back for Another Try](https://www.cnet.com/tech/services-and-software/call-recording-app-neon-disappeared-abruptly-now-its-back-for-another-try/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Airbnb reports Q3 revenue up 10% YoY to $4.1B, vs. $4.08B est., Nights and Seats booked up 9% to 133.6M, vs. 131.75M est., forecasts Q4 revenue above estimates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p45#a251106p45)
  - [Tesla shareholders approve Elon Musk’s $1 trillion pay package](https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot)
  - [DoorDash&#39;s stock fell 17%+ on Thursday, marking its worst trading day ever, amid concerns over its 2026 spending plans for new products like autonomous delivery &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251106/p44#a251106p44)
  - [Take-Two delays the release of GTA VI by six months to November 2026, reports Q2 net bookings up 33% YoY to $1.96B, vs. $1.72B est.; TTWO drops 8%+ after hours &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251106/p43#a251106p43)
- - [GTA 6 Delayed Once Again to November 2026](https://www.cnet.com/tech/gaming/gta-6-delayed-once-again-to-november-2026/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 7, #410](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-7-410/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GTA 6 Delayed Once Again to November 2026](https://www.cnet.com/tech/gaming/gta-6-delayed-once-again-to-november-2026/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

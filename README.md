@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources and documents: Google plans to build an AI data center on Australia&#39;s remote Christmas Island after signing a cloud deal with its DOD earlier in 2025 &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251106/p16#a251106p16)
  - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)
  - [Research: US companies announced 153,074 job cuts in October, the most in 20+ years and up 3x on October 2024, as AI reshapes industries and cost-cutting rises &lpar;Julia Fanzeres/Bloomberg&rpar;](http://www.techmeme.com/251106/p15#a251106p15)
  - [Everything You Need to Know About iOS 26 and Beyond on Your iPhone](https://www.cnet.com/tech/services-and-software/everything-you-need-to-know-about-ios-26-and-beyond-on-your-iphone/#ftag=CAD590a51e)
- - [Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan](https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/)
- - [The Best Holiday Party Hack? A Good-Smelling House](https://www.wired.com/story/holiday-party-aromatherapy/)<!-- TECH:END -->
+ - [Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan](https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

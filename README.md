@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And one for the road...](http://9gag.com/gag/aPAzX1g)
- - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
  - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
+ - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 😝 [Collab](http://9gag.com/gag/a9yZXxo)
  - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---

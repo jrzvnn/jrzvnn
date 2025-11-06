@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
  - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
  - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [No Patrick, chairs are not a musical instrument](http://9gag.com/gag/a6Z4jMe)
- - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
+ - 😝 [The perfect trilogy, you cant convince me otherwise.](http://9gag.com/gag/aZZozZX)
+ - 👉 [And one for the road...](http://9gag.com/gag/aPAzX1g)<!-- MEMES:END -->
 
 ---
 

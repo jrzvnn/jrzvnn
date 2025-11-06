@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thousands of flights in danger of cancellation as FAA announces major cuts](https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown)
- - [Investigation: X amplifies right-wing and extreme political content in the UK, as Elon Musk endorses fringe politicians and encourages nationalist sentiment &lpar;Sky News&rpar;](http://www.techmeme.com/251106/p22#a251106p22)
- - [Apple is getting angry about contradictory EU big tech regulations](https://appleinsider.com/articles/25/11/06/apple-is-getting-angry-about-contradictory-eu-big-tech-regulations?utm_source=rss)
- - [Google says Ironwood, its seventh-gen TPU, will launch in the coming weeks and is more than 4x faster than its sixth-gen TPU; it comes in a 9,216-chip config &lpar;CNBC&rpar;](http://www.techmeme.com/251106/p21#a251106p21)
- - [The Best Cheap Headphones We’ve Tried](https://www.wired.com/gallery/best-headphones-under-100/)<!-- TECH:END -->
+ - [Microsoft AI CEO Mustafa Suleyman lays out the company&#39;s plans to develop AI self-sufficiency from OpenAI, like releasing its own voice, image, and text models &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p23#a251106p23)
+ - [11 Best Cheap Laptops &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-cheap-laptops/)
+ - [I’m The Verge’s new AV expert, ask me anything!](https://www.theverge.com/tech/814389/im-the-verges-new-av-expert-ama)
+ - [Lego’s first Star Trek set is a $400 Enterprise with Data, Picard, and Worf minifigures](https://www.theverge.com/news/815337/lego-star-trek-uss-enterprise-ncc-1701-d-data-picard-riker-worf-minifigures)
+ - [Thousands of flights in danger of cancellation as FAA announces major cuts](https://www.theverge.com/news/815359/faa-flight-cuts-airport-government-shutdown)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

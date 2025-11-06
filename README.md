@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
- - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 😝 [I do that in the planetarium bathroom mirror](http://9gag.com/gag/a6Z424L)
+ - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
  - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
- - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
+ - 😝 [Seeing myself in a mirror after a night out](http://9gag.com/gag/ae9ym5b)
+ - 👉 [Stank](http://9gag.com/gag/aZZojmW)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I do that in the planetarium bathroom mirror](http://9gag.com/gag/a6Z424L)
- - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [Seeing myself in a mirror after a night out](http://9gag.com/gag/ae9ym5b)
- - 👉 [Stank](http://9gag.com/gag/aZZojmW)<!-- MEMES:END -->
+ - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 💣 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
+ - 😝 [Collab](http://9gag.com/gag/a9yZXxo)
+ - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
 
 ---
 

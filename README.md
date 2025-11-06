@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Finance offers Gemini AI tools to stock traders](https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search)
+ - [Microsoft AI says it&amp;#8217;ll make superintelligent AI that won&amp;#8217;t be terrible for humanity](https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence)
+ - [OpenAI CFO Sarah Friar clarifies the startup is not seeking a government &quot;backstop&quot; for its infrastructure deals, saying her use of the word &quot;muddied the point&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p33#a251106p33)
  - [Sports streaming is a fragmented hot mess](https://www.theverge.com/column/815571/sports-streaming-mess)
- - [Apple&#39;s robotics may earn as much as today&#39;s App Store by 2040](https://appleinsider.com/articles/25/11/06/apples-robotics-may-earn-as-much-as-todays-app-store-by-2040?utm_source=rss)
- - [DualBird, which has created a plug-in for rewritable hardware to accelerate data workloads, raised $25M, including a $16.5M Series A led by Lightspeed &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251106/p32#a251106p32)
- - [Pebblebee’s new trackers are brighter, louder, thinner, and more colorful](https://www.theverge.com/news/814728/pebblebee-clip-card-5-trackers-apple-find-my-google-hub)
- - [Spotify is launching a weekly mini ‘Wrapped’](https://www.theverge.com/news/815521/spotify-listening-stats-weekly-feature-wrapped)<!-- TECH:END -->
+ - [Apple&#39;s robotics may earn as much as today&#39;s App Store by 2040](https://appleinsider.com/articles/25/11/06/apples-robotics-may-earn-as-much-as-todays-app-store-by-2040?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

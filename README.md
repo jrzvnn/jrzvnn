@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 💣 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
- - 😝 [Me trying to figure out if I just need water or if it&#39;s the end](http://9gag.com/gag/a4Pmq76)
- - 👉 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)<!-- MEMES:END -->
+ - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
+ - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
+ - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
+ - 👉 [Trick or Treat?](http://9gag.com/gag/amoKMjy)<!-- MEMES:END -->
 
 ---
 

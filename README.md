@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cat is ready for a knuckle sandwich](https://www.reddit.com/r/funny/comments/1oq2jg5/cat_is_ready_for_a_knuckle_sandwich/)
  - 😝 [Stank](http://9gag.com/gag/aZZojmW)
- - 💣 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
- - 😝 [Signs](http://9gag.com/gag/aRB92AB)
+ - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 💣 [Signs](http://9gag.com/gag/aRB92AB)
+ - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
  - 👉 [Japanese kids learning about road safety](http://9gag.com/gag/apRzAjp)<!-- MEMES:END -->
 
 ---

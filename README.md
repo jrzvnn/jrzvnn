@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tinder’s AI can find better matches by scanning your camera roll](https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test)
- - [10 Best Travel Pillows for Planes and Hotels &lpar;2025&rpar;, Travel Tested](https://www.wired.com/gallery/best-travel-pillows/)
- - [How deep-sea mining could threaten a vital ocean food source](https://www.theverge.com/news/814694/deep-sea-mining-waste-battery-metals-research-trump)
- - [Sources, public records, and documents detail TuSimple&#39;s downfall, after it transferred autonomous driving IP to Chinese partners despite a 2022 CFIUS agreement &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/251106/p10#a251106p10)
- - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)<!-- TECH:END -->
+ - [Huawei unveils the ~$590 Mate 70 Air, a 6.6mm thick smartphone set to compete with the $999 iPhone Air, with a 7&quot; display and HarmonyOS, shipping November 11 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p11#a251106p11)
+ - [Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear](https://www.wired.com/gallery/best-adaptogen-drinks/)
+ - [Mark Zuckerberg Opened an Illegal School at His Palo Alto Compound. His Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
+ - [New Study Finds That One Long Walk Is Better Than Multiple Short Ones](https://www.cnet.com/health/fitness/new-study-finds-one-long-walk-better-than-several-short-ones/#ftag=CAD590a51e)
+ - [Tinder’s AI can find better matches by scanning your camera roll](https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foursquare&amp;#8217;s founder launches a new app that talks to you about your neighborhood](https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates)
- - [Inception, which is building diffusion-based AI models for code and text, raised a $50M seed led by Menlo and releases an update to its Mercury coding model &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p20#a251106p20)
- - [Internal documents: Meta projected in December 2024 that 10.1% of its annual ad revenue, or $16B, came from fraudulent ads, including $7B from &quot;higher risk&quot; ads &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251106/p19#a251106p19)
- - [New Australia &amp; New Zealand power initiatives are an attempt to balance Apple&#39;s consumption](https://appleinsider.com/articles/25/11/06/new-australia-new-zealand-power-initiatives-are-an-attempt-to-balance-apples-consumption?utm_source=rss)
- - [Huawei Mate 70 Air is a little thick for a thin phone](https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone)<!-- TECH:END -->
+ - [Investigation: X amplifies right-wing and extreme political content in the UK, as Elon Musk endorses fringe politicians and encourages nationalist sentiment &lpar;Sky News&rpar;](http://www.techmeme.com/251106/p22#a251106p22)
+ - [Apple is getting angry about contradictory EU big tech regulations](https://appleinsider.com/articles/25/11/06/apple-is-getting-angry-about-contradictory-eu-big-tech-regulations?utm_source=rss)
+ - [Google says Ironwood, its seventh-gen TPU, will launch in the coming weeks and is more than 4x faster than its sixth-gen TPU; it comes in a 9,216-chip config &lpar;CNBC&rpar;](http://www.techmeme.com/251106/p21#a251106p21)
+ - [The Best Cheap Headphones We’ve Tried](https://www.wired.com/gallery/best-headphones-under-100/)
+ - [Foursquare&amp;#8217;s founder launches a new app that talks to you about your neighborhood](https://www.theverge.com/news/815328/beebot-app-foursquare-founder-ai-audio-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foursquare founder Dennis Crowley&#39;s new startup Hopscotch Labs releases BeeBot, which combines AI, audio, and location-based social features, on the App Store &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251106/p3#a251106p3)
- - [Peacock Promo Code &amp; Deals: 16% Off November 2025](https://www.wired.com/story/peacock-promo-code/)
- - [Nexperia says it suspended wafer supplies to its China factory because the local unit refused to make payments and has ignored global management&#39;s instructions &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251106/p2#a251106p2)
- - [Tuft &amp; Needle Promo Codes: 20% Off | November 2025](https://www.wired.com/story/tuft-and-needle-promo-code/)
- - [Canon adds a 32-megapixel sensor and 7K video to the new EOS R6 Mark III](https://www.theverge.com/news/814245/canon-eos-r6-mark-iii-mirrorless-camera-price-specs)<!-- TECH:END -->
+ - [Sources: SoftBank explored a potential takeover of Marvell earlier this year to merge it with Arm, in what would have been the chip industry&#39;s largest-ever deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p6#a251106p6)
+ - [Sony unveils the Fair Human-Centric Image Benchmark dataset to test the fairness of computer vision models, saying it was compiled in a fair and ethical manner &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/251106/p5#a251106p5)
+ - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)
+ - [Shares of Pony.ai and WeRide fell as much as 15% in their Hong Kong trading debut; Pony.ai raised ~$863M in the secondary offering and WeRide raised ~$309M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p4#a251106p4)
+ - [Foursquare founder Dennis Crowley&#39;s new startup Hopscotch Labs releases BeeBot, which combines AI, audio, and location-based social features, on the App Store &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251106/p3#a251106p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers used AI to design functional antibodies from scratch, suggesting that AI tools could speed up antibody discovery without the need for animal testing &lpar;Financial Times&rpar;](http://www.techmeme.com/251106/p1#a251106p1)
  - [Source: Google is in early talks to deepen its strategic investment in Anthropic that could value the AI company at more than $350B &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251105/p64#a251105p64)
  - [Sources: Charles Schwab is expected to announce a deal to acquire Forge Global, a leading platform for trading stakes in private startups, for as much as $600M &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/251105/p63#a251105p63)
  - [Inside Kalshi&#39;s NYC HQ on election night, as it handled ~$100M in trades on the mayoral race that day, calling it for Mamdani 36 minutes before any media outlet &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251105/p62#a251105p62)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-6/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 6, #409](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-6-409/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 6](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

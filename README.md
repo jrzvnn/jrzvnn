@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)
  - [Sources: SoftBank explored a potential takeover of Marvell earlier this year to merge it with Arm, in what would have been the chip industry&#39;s largest-ever deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p6#a251106p6)
  - [Sony unveils the Fair Human-Centric Image Benchmark dataset to test the fairness of computer vision models, saying it was compiled in a fair and ethical manner &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/251106/p5#a251106p5)
  - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)
- - [Shares of Pony.ai and WeRide fell as much as 15% in their Hong Kong trading debut; Pony.ai raised ~$863M in the secondary offering and WeRide raised ~$309M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p4#a251106p4)
- - [Foursquare founder Dennis Crowley&#39;s new startup Hopscotch Labs releases BeeBot, which combines AI, audio, and location-based social features, on the App Store &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251106/p3#a251106p3)<!-- TECH:END -->
+ - [Shares of Pony.ai and WeRide fell as much as 15% in their Hong Kong trading debut; Pony.ai raised ~$863M in the secondary offering and WeRide raised ~$309M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p4#a251106p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

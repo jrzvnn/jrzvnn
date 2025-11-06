@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tinder’s AI can find better matches by scanning your camera roll](https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test)
+ - [10 Best Travel Pillows for Planes and Hotels &lpar;2025&rpar;, Travel Tested](https://www.wired.com/gallery/best-travel-pillows/)
+ - [How deep-sea mining could threaten a vital ocean food source](https://www.theverge.com/news/814694/deep-sea-mining-waste-battery-metals-research-trump)
  - [Sources, public records, and documents detail TuSimple&#39;s downfall, after it transferred autonomous driving IP to Chinese partners despite a 2022 CFIUS agreement &lpar;Kate O&#39;Keeffe/Bloomberg&rpar;](http://www.techmeme.com/251106/p10#a251106p10)
- - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)
- - [License plate surveillance company Flock Safety faces bipartisan pressure from lawmakers and local organizers over its data handling and cybersecurity practices &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251106/p8#a251106p8)
- - [Microsoft built a simulated marketplace to test hundreds of AI agents, finding that businesses could manipulate agents into buying their products and more &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251106/p7#a251106p7)
- - [Sources: SoftBank explored a potential takeover of Marvell earlier this year to merge it with Arm, in what would have been the chip industry&#39;s largest-ever deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p6#a251106p6)<!-- TECH:END -->
+ - [The AI boom is driving coordinated innovation in the US as it builds fabs and energy infrastructure that could have lasting value even if the bubble bursts &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251106/p9#a251106p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

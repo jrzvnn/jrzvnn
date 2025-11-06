@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fomo, a consumer crypto trading app, raised a $17M Series A led by Benchmark, bringing its total funding to $19M, and reports $20M-$40M in daily trading volume &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251106/p28#a251106p28)
  - [LA-based Metropolis, which operates AI- and computer vision-enabled parking lots, raised $1.6B, including a $500M Series D led by LionTree at a $5B valuation &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251106/p27#a251106p27)
  - [Pokémon Legends: Z-A&amp;#8217;s DLC drops this December](https://www.theverge.com/games/815416/pokemon-legends-za-mega-dimension-release-date)
  - [The Chan Zuckerberg Initiative restructures to focus on AI and science, led by Biohub research centers, and acquires AI startup Evolutionary Scale&#39;s team &lpar;New York Times&rpar;](http://www.techmeme.com/251106/p26#a251106p26)
- - [British Airways owner IAG signs a deal with SpaceX&#39;s Starlink for Wi-Fi across all five carriers in the airline group, making it available in 500+ aircraft &lpar;Kate Duffy/Bloomberg&rpar;](http://www.techmeme.com/251106/p25#a251106p25)
- - [The Best Mushroom Gifts for Your Fungi Friend &lpar;2025&rpar;](https://www.wired.com/gallery/spore-yourself-rotten-with-wireds-mushroom-gift-guide/)<!-- TECH:END -->
+ - [British Airways owner IAG signs a deal with SpaceX&#39;s Starlink for Wi-Fi across all five carriers in the airline group, making it available in 500+ aircraft &lpar;Kate Duffy/Bloomberg&rpar;](http://www.techmeme.com/251106/p25#a251106p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

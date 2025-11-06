@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
  - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
+ - 💣 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
  - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
- - 👉 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)<!-- MEMES:END -->
+ - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
 
 ---
 

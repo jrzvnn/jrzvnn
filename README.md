@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify is launching a weekly mini ‘Wrapped’](https://www.theverge.com/news/815521/spotify-listening-stats-weekly-feature-wrapped)
+ - [Forget Liquid Glass, Apple TV&#39;s new logo was shot with actual glass](https://appleinsider.com/articles/25/11/06/forget-liquid-glass-apple-tvs-new-logo-was-shot-with-actual-glass?utm_source=rss)
+ - [5 Ways to Keep Watching ESPN and ABC During the Disney vs. YouTube TV Dispute](https://www.cnet.com/tech/services-and-software/5-ways-to-keep-watching-espn-and-abc-during-the-disney-vs-youtube-tv-dispute/#ftag=CAD590a51e)
  - [Apple&#39;s robotics may earn as much as today&#39;s App Store by 2040](https://appleinsider.com/articles/25/11/06/apples-robotics-may-earn-as-much-as-todays-app-store-by-2040?utm_source=rss)
- - [Truffle Security, whose open source tool detects, verifies, and remediates leaked secrets such as API keys, raised a $25M Series A led by Intel Capital and a16z &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251106/p31#a251106p31)
- - [25 WIRED-Approved Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
- - [How AI is fueling an existential crisis in education](https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades)
- - [Duolingo stock falls 25%+ after saying it expects bookings to range between $329.5M and $335.5M this quarter, falling short of a $344.3M estimate &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251106/p30#a251106p30)<!-- TECH:END -->
+ - [Truffle Security, whose open source tool detects, verifies, and remediates leaked secrets such as API keys, raised a $25M Series A led by Intel Capital and a16z &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251106/p31#a251106p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

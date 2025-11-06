@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Duolingo stock falls 25%+ after saying it expects bookings to range between $329.5M and $335.5M this quarter, falling short of a $344.3M estimate &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251106/p30#a251106p30)
- - [Ikea&#39;s new smart home lineup makes Matter more affordable](https://appleinsider.com/articles/25/11/06/ikeas-new-smart-home-lineup-makes-matter-more-affordable?utm_source=rss)
- - [Synchron, whose brain implant is inserted through the circulatory system, avoiding invasive brain surgery, raised a $200M Series D at a nearly $1B valuation &lpar;Ike Swetlitz/Bloomberg&rpar;](http://www.techmeme.com/251106/p29#a251106p29)
- - [What to Do in St. Paul and Minneapolis If You’re Here for Business &lpar;2025&rpar;](https://www.wired.com/story/the-wired-guide-to-the-twin-cities-for-business-travelers/)
- - [Chaos and lies: Why Sam Altman was booted from OpenAI, according to new testimony](https://www.theverge.com/ai-artificial-intelligence/814876/ilya-sutskever-deposition-openai-sam-altman-elon-musk-lawsuit)<!-- TECH:END -->
+ - [Apple&#39;s robotics may earn as much as today&#39;s App Store by 2040](https://appleinsider.com/articles/25/11/06/apples-robotics-may-earn-as-much-as-todays-app-store-by-2040?utm_source=rss)
+ - [Truffle Security, whose open source tool detects, verifies, and remediates leaked secrets such as API keys, raised a $25M Series A led by Intel Capital and a16z &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251106/p31#a251106p31)
+ - [25 WIRED-Approved Gifts for Frequent Travelers &lpar;2025&rpar;](https://www.wired.com/gallery/best-travel-gifts/)
+ - [How AI is fueling an existential crisis in education](https://www.theverge.com/podcast/815434/ai-education-schools-research-cheating-chatgpt-jobs-grades)
+ - [Duolingo stock falls 25%+ after saying it expects bookings to range between $329.5M and $335.5M this quarter, falling short of a $344.3M estimate &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251106/p30#a251106p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

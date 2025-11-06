@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
+ - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
  - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 😝 [Cool hair](http://9gag.com/gag/aW4PbNK)
- - 💣 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
- - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
  - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
 
 ---

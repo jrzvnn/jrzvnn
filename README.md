@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 😝 [Cameron Diaz dropping wisdom on aging](http://9gag.com/gag/aPAzeOK)
  - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 💣 [Cameron Diaz dropping wisdom on aging](http://9gag.com/gag/aPAzeOK)
- - 😝 [Cool hair](http://9gag.com/gag/aW4PbNK)
+ - 💣 [Cool hair](http://9gag.com/gag/aW4PbNK)
+ - 😝 [The perfect trilogy, you cant convince me otherwise.](http://9gag.com/gag/aZZozZX)
  - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
 
 ---

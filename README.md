@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
+ - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [Cool hair](http://9gag.com/gag/aW4PbNK)
  - 💣 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
- - 😝 [Live vs Telescope View of the Universe](http://9gag.com/gag/aXPQ2j9)
- - 👉 [Good morning, humans](http://9gag.com/gag/aByjE5D)<!-- MEMES:END -->
+ - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
+ - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
 
 ---
 

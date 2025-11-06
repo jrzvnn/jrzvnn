@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Finance offers Gemini AI tools to stock traders](https://www.theverge.com/news/815300/google-finance-gets-ai-deep-search)
- - [Microsoft AI says it&amp;#8217;ll make superintelligent AI that won&amp;#8217;t be terrible for humanity](https://www.theverge.com/news/815619/microsoft-ai-humanist-superintelligence)
- - [OpenAI CFO Sarah Friar clarifies the startup is not seeking a government &quot;backstop&quot; for its infrastructure deals, saying her use of the word &quot;muddied the point&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p33#a251106p33)
- - [Sports streaming is a fragmented hot mess](https://www.theverge.com/column/815571/sports-streaming-mess)
- - [Apple&#39;s robotics may earn as much as today&#39;s App Store by 2040](https://appleinsider.com/articles/25/11/06/apples-robotics-may-earn-as-much-as-todays-app-store-by-2040?utm_source=rss)<!-- TECH:END -->
+ - [Google adds Gemini&#39;s Deep Search to Google Finance, which will also have prediction market data from Kalshi and Polymarket for event analysis, first in the US &lpar;Aamir Siddiqui/Android Authority&rpar;](http://www.techmeme.com/251106/p35#a251106p35)
+ - [Stranger Things: Tales From ‘85 winds the clock back in new trailer](https://www.theverge.com/streaming/815627/stranger-things-tales-from-85-teaser)
+ - [Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear](https://www.wired.com/gallery/best-adaptogen-drinks/)
+ - [Save up to $234 on every new M5 MacBook Pro with exclusive deals](https://appleinsider.com/articles/25/11/06/save-up-to-234-on-every-new-m5-macbook-pro-with-exclusive-deals?utm_source=rss)
+ - [Datadog&#39;s stock jumps 20%+ after reporting Q3 revenue up 28% YoY to $885.7M, above $852.8M est., and forecasting Q4 revenue at $912M-$916M, above $877M est. &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251106/p34#a251106p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

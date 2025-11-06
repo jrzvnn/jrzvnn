@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh no everything, but that question](http://9gag.com/gag/aVv4Zgd)
- - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
  - 😝 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
- - 👉 [She crushed any and all trust he had in her.](http://9gag.com/gag/aAyq4O0)<!-- MEMES:END -->
+ - 💣 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [I wish I was that quick witted.](http://9gag.com/gag/aByjXwQ)
+ - 👉 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)<!-- MEMES:END -->
 
 ---
 

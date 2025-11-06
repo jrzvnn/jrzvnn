@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of OpenAI President Greg Brockman and his role in the company&#39;s $1.4T infrastructure buildout that&#39;s required to reach AGI &lpar;Sharon Goldman/Fortune&rpar;](http://www.techmeme.com/251105/p61#a251105p61)
+ - [Sandbar introduces Stream Ring, an AI-powered smart ring for transcribing audio notes into text via an app, preorder now from $249 and shipping in summer 2026 &lpar;Julian Chokkattu/Wired&rpar;](http://www.techmeme.com/251105/p60#a251105p60)
  - [Election night at Kalshi HQ](https://www.theverge.com/column/815208/election-night-at-kalshi-hq)
  - [Sources and docs: after Marc Andreessen donated $5M+ to Trump&#39;s 2024 campaign, most CFPB probes have stalled, including three into Andreessen-backed companies &lpar;Jake Pearson/ProPublica&rpar;](http://www.techmeme.com/251105/p59#a251105p59)
- - [iOS 26.2 beta 1 seemingly pulled for devices using C1 modem](https://appleinsider.com/articles/25/11/06/ios-262-beta-1-seemingly-pulled-for-devices-using-c1-modem?utm_source=rss)
- - [You Probably Have a Better Password Than The Louvre Did: Learn From Its Mistake](https://www.cnet.com/tech/you-probably-have-a-better-password-than-the-louvre-did-learn-from-its-mistake/#ftag=CAD590a51e)
- - [KiiBoom Cybrix 16 review: 16 keys, tons of usefulness](https://appleinsider.com/articles/25/11/06/kiiboom-cybrix-16-review-16-keys-tons-of-usefulness?utm_source=rss)<!-- TECH:END -->
+ - [iOS 26.2 beta 1 seemingly pulled for devices using C1 modem](https://appleinsider.com/articles/25/11/06/ios-262-beta-1-seemingly-pulled-for-devices-using-c1-modem?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

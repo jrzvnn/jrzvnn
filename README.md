@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
  - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
+ - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
  - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [The perfect trilogy, you cant convince me otherwise.](http://9gag.com/gag/aZZozZX)
- - 👉 [And one for the road...](http://9gag.com/gag/aPAzX1g)<!-- MEMES:END -->
+ - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
+ - 👉 [Cool hair](http://9gag.com/gag/aW4PbNK)<!-- MEMES:END -->
 
 ---
 

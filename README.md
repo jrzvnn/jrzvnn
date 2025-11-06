@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazing he didn\u2019t give up](http://9gag.com/gag/aXPQ7YV)
- - 😝 [Never ever forget.](http://9gag.com/gag/azxoRZz)
- - 💣 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
- - 😝 [Collab](http://9gag.com/gag/a9yZXxo)
- - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
+ - 😝 [Stank](http://9gag.com/gag/aZZojmW)
+ - 😝 [You can run but you can&#39;t hide](http://9gag.com/gag/aXPQWb2)
+ - 💣 [Signs](http://9gag.com/gag/aRB92AB)
+ - 😝 [Japanese kids learning about road safety](http://9gag.com/gag/apRzAjp)
+ - 👉 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)<!-- MEMES:END -->
 
 ---
 

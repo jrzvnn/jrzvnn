@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
- - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 💣 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 😝 [Collab](http://9gag.com/gag/a9yZXxo)
- - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
+ - 😝 [Called into HR for this observation. Worth it](http://9gag.com/gag/ajPGKMq)
+ - 😝 [Japanese kids learning about road safety](http://9gag.com/gag/apRzAjp)
+ - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - 😝 [Tick-tock! Tick-tock!](http://9gag.com/gag/azxoYjN)
+ - 👉 [My eyes are down here](http://9gag.com/gag/aKGnOgW)<!-- MEMES:END -->
 
 ---
 

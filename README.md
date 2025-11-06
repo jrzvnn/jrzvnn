@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is testing an AI tool called Kindle Translate that automatically translates books into other languages, for authors that self-publish on the platform &lpar;Lawrence Bonk/Engadget&rpar;](http://www.techmeme.com/251106/p41#a251106p41)
+ - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
  - [The 65 Best Movies on Disney+ Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
  - [Senators call on Trump to continue banning Nvidia from selling its best chips in China](https://www.theverge.com/news/815806/senate-resolution-trump-us-ai-technology-china)
- - [Kuxiu’s magnetic multi-device power bank now has faster 25W wireless charging](https://www.theverge.com/news/815808/kuxiu-k1-ultra-magnetic-magsafe-power-bank-qi2-25w-wireless-charging)
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
- - [The FBI has subpoenaed the domain registrar of archive.today, demanding information about the owner of the archiving site as part of a criminal investigation &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251106/p40#a251106p40)<!-- TECH:END -->
+ - [Kuxiu’s magnetic multi-device power bank now has faster 25W wireless charging](https://www.theverge.com/news/815808/kuxiu-k1-ultra-magnetic-magsafe-power-bank-qi2-25w-wireless-charging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Sequoia&#39;s Pat Grady and Alfred Lin plan to deepen the firm&#39;s AI focus and reframe its image as less politically partisan, after Roelof Botha&#39;s exit &lpar;Kate Clark/Bloomberg&rpar;](http://www.techmeme.com/251106/p14#a251106p14)
  - [Jensen Huang warns &quot;China is going to win the AI race&quot;, after the US kept a ban on high-end AI chip sales to China, and says the West is held back by &quot;cynicism&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/251106/p13#a251106p13)
  - [My Arcade Atari Gamestation Go Review: Price, Specs, Availability](https://www.wired.com/review/my-arcade-atari-gamestation-go/)
  - [Rockstar says it fired dozens of staff last week due to &quot;distributing and discussing confidential information in a public forum&quot;, disputing union allegations &lpar;Jason Schreier/Bloomberg&rpar;](http://www.techmeme.com/251106/p12#a251106p12)
- - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)
- - [Huawei unveils the ~$590 Mate 70 Air, a 6.6mm thick smartphone set to compete with the $999 iPhone Air, with a 7&quot; display and HarmonyOS, shipping November 11 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p11#a251106p11)<!-- TECH:END -->
+ - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

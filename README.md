@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget smartphone you can buy](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [The 65 Best Movies on Disney+ Right Now &lpar;November 2025&rpar;](https://www.wired.com/story/best-movies-disney-plus/)
  - [Senators call on Trump to continue banning Nvidia from selling its best chips in China](https://www.theverge.com/news/815806/senate-resolution-trump-us-ai-technology-china)
  - [Kuxiu’s magnetic multi-device power bank now has faster 25W wireless charging](https://www.theverge.com/news/815808/kuxiu-k1-ultra-magnetic-magsafe-power-bank-qi2-25w-wireless-charging)
  - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
- - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 💣 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
+ - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
+ - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 💣 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
  - 😝 [Collab](http://9gag.com/gag/a9yZXxo)
- - 👉 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)<!-- MEMES:END -->
+ - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
 
 ---
 

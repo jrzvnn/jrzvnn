@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)
  - [Huawei unveils the ~$590 Mate 70 Air, a 6.6mm thick smartphone set to compete with the $999 iPhone Air, with a 7&quot; display and HarmonyOS, shipping November 11 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p11#a251106p11)
  - [Best Adaptogen Drinks and Functional Drinks of 2025: Get Clear](https://www.wired.com/gallery/best-adaptogen-drinks/)
  - [Mark Zuckerberg Opened an Illegal School at His Palo Alto Compound. His Neighbors Revolted](https://www.wired.com/story/mark-zuckerberg-school-palo-alto-shut-down/)
- - [New Study Finds That One Long Walk Is Better Than Multiple Short Ones](https://www.cnet.com/health/fitness/new-study-finds-one-long-walk-better-than-several-short-ones/#ftag=CAD590a51e)
- - [Tinder’s AI can find better matches by scanning your camera roll](https://www.theverge.com/news/815286/tinder-ai-chemistry-camera-roll-feature-test)<!-- TECH:END -->
+ - [New Study Finds That One Long Walk Is Better Than Multiple Short Ones](https://www.cnet.com/health/fitness/new-study-finds-one-long-walk-better-than-several-short-ones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

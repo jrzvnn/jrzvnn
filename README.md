@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 😝 [Never ever forget.](http://9gag.com/gag/azxoRZz)
  - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 💣 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
- - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
- - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
+ - 💣 [I do that in the planetarium bathroom mirror](http://9gag.com/gag/a6Z424L)
+ - 😝 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)
+ - 👉 [Seeing myself in a mirror after a night out](http://9gag.com/gag/ae9ym5b)<!-- MEMES:END -->
 
 ---
 

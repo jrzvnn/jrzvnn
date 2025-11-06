@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Never ever forget.](http://9gag.com/gag/azxoRZz)
- - 😝 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)
- - 💣 [I do that in the planetarium bathroom mirror](http://9gag.com/gag/a6Z424L)
- - 😝 [I mean, you can\u2019t really argue against that, can you?](http://9gag.com/gag/aO8ADL3)
- - 👉 [Seeing myself in a mirror after a night out](http://9gag.com/gag/ae9ym5b)<!-- MEMES:END -->
+ - 😝 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 💣 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)
+ - 😝 [Good morning, humans](http://9gag.com/gag/aByjE5D)
+ - 👉 [Native Englishman since Albion era](http://9gag.com/gag/a2v920E)<!-- MEMES:END -->
 
 ---
 

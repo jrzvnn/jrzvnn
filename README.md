@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources and documents: Google plans to build an AI data center on Australia&#39;s remote Christmas Island after signing a cloud deal with its DOD earlier in 2025 &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251106/p16#a251106p16)
- - [Next iPhone Air may have two rear cameras](https://appleinsider.com/articles/25/11/06/next-iphone-air-may-have-two-rear-cameras?utm_source=rss)
- - [Research: US companies announced 153,074 job cuts in October, the most in 20+ years and up 3x on October 2024, as AI reshapes industries and cost-cutting rises &lpar;Julia Fanzeres/Bloomberg&rpar;](http://www.techmeme.com/251106/p15#a251106p15)
- - [Everything You Need to Know About iOS 26 and Beyond on Your iPhone](https://www.cnet.com/tech/services-and-software/everything-you-need-to-know-about-ios-26-and-beyond-on-your-iphone/#ftag=CAD590a51e)
- - [Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan](https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/)<!-- TECH:END -->
+ - [Huawei Mate 70 Air is a little thick for a thin phone](https://www.theverge.com/news/815327/huawei-mate-70-air-is-a-little-thick-for-a-thin-phone)
+ - [iPhone 13 mini to iPhone 17: What you get, upgrading after four years](https://appleinsider.com/articles/25/11/06/iphone-13-mini-to-iphone-17-what-you-get-upgrading-after-four-years?utm_source=rss)
+ - [LG Studio Smart 3-Door French Door Refrigerator Review: Cool Customer](https://www.wired.com/review/lg-studio-smart-3-door-french-door-refrigerator/)
+ - [SpaceX agrees to acquire EchoStar&#39;s unpaired AWS-3 licenses for $2.6B in stock, after EchoStar sold WS-4 and H-block licenses to SpaceX for $17B in September &lpar;Jake Rudnitsky/Bloomberg&rpar;](http://www.techmeme.com/251106/p18#a251106p18)
+ - [Sources: Shein told investors in August that it expects $2B in net income in 2025 despite US tariffs and forecasts mid-teen percentage growth in full-year sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/251106/p17#a251106p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

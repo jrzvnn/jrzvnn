@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
- - 😝 [Meanwhile in Brazil. lol](http://9gag.com/gag/ajPGxMx)
- - 💣 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
+ - 😝 [Dont try this at home](http://9gag.com/gag/aRB9oV5)
+ - 😝 [Hungarian researchers create a possible cancer cure after one treatment](http://9gag.com/gag/amoKM0o)
+ - 💣 [Trick or Treat?](http://9gag.com/gag/amoKMjy)
  - 😝 [Dont ride and text &lpar;credit Boli blog&rpar;](http://9gag.com/gag/adBrezZ)
- - 👉 [Entitled man blocking the whole street](http://9gag.com/gag/agm6xEn)<!-- MEMES:END -->
+ - 👉 [She crushed any and all trust he had in her.](http://9gag.com/gag/aAyq4O0)<!-- MEMES:END -->
 
 ---
 

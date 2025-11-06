@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s new Switch 2-compatible microSD Express card is already on sale](https://www.theverge.com/tech/815946/samsung-p9-microsd-express-card-nintendo-switch-2-deal-sale)
  - [The US Congressional Budget Office says it has identified a security incident; sources say the CBO has been hacked by a suspected foreign actor &lpar;Washington Post&rpar;](http://www.techmeme.com/251106/p48#a251106p48)
  - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
  - [Meta launches Vibes, its short-form video feed of AI-generated videos, in Europe through the Meta AI app, following its US debut six weeks earlier &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251106/p47#a251106p47)
- - [Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package](https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/)
- - [Tesla shareholders approve a $1T pay package for Elon Musk that requires him to hit a series of milestones and expand Tesla&#39;s market cap to $8.5T over 10 years &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p46#a251106p46)<!-- TECH:END -->
+ - [Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package](https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Shareholders Approve Elon Musk’s Makes $1 Trillion Pay Package](https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/)
- - [Tesla shareholders approve a $1T pay package for Elon Musk, if he hits a series of milestones and expands Tesla&#39;s market cap to $8.5T over the next 10 years &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p46#a251106p46)
+ - [Tesla Shareholders Approve Elon Musk’s $1 Trillion Pay Package](https://www.wired.com/story/tesla-shareholders-approve-musk-1-trillion-dollar-pay-package/)
+ - [Tesla shareholders approve a $1T pay package for Elon Musk that requires he hit a series of milestones and expands Tesla&#39;s market cap to $8.5T over 10 years &lpar;Becky Peterson/Wall Street Journal&rpar;](http://www.techmeme.com/251106/p46#a251106p46)
  - [Airbnb reports Q3 revenue up 10% YoY to $4.1B, vs. $4.08B est., Nights and Seats booked up 9% to 133.6M, vs. 131.75M est., forecasts Q4 revenue above estimates &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251106/p45#a251106p45)
  - [Tesla shareholders approve Elon Musk’s $1 trillion pay package](https://www.theverge.com/news/815892/tesla-shareholder-vote-elon-musk-pay-trillion-robot)
  - [DoorDash&#39;s stock fell 17%+ on Thursday, marking its worst trading day ever, amid concerns over its 2026 spending plans for new products like autonomous delivery &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251106/p44#a251106p44)<!-- TECH:END -->

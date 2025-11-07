@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music must emulate Spotify or die, says nonsensical report](https://appleinsider.com/articles/25/11/07/apple-music-must-emulate-spotify-or-die-says-nonsensical-report?utm_source=rss)
  - [Does the Trump phone exist yet?](https://www.theverge.com/news/816484/does-trump-phone-exist-yet)
  - [TikTok Shop Is Now the Size of eBay](https://www.wired.com/story/tiktok-shop-sales-global-ecommerce/)
  - [X appears to be sending fake traffic across the web](https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack)
- - [Samsung’s Frame Pro TV has hit a new all-time low before Black Friday](https://www.theverge.com/tech/816373/samsung-frame-pro-lego-star-wars-advent-calendar-deal-sale)
- - [Pluribus: all the latest on Vince Gilligan&amp;#8217;s Apple TV series](https://www.theverge.com/entertainment/815898/pluribus-apple-tv-vince-gilligan)<!-- TECH:END -->
+ - [Samsung’s Frame Pro TV has hit a new all-time low before Black Friday](https://www.theverge.com/tech/816373/samsung-frame-pro-lego-star-wars-advent-calendar-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

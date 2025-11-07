@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block reports Q3 revenue up 2.3% YoY to $6.1B, below $6.3B est., adjusted EPS below est., and a $461.6M net income, up from $283.8M; XYZ drops 11%+ after hours &lpar;Dean Seal/Dow Jones Newswires&rpar;](http://www.techmeme.com/251106/p50#a251106p50)
- - [Spatial Scenes &amp; Spatial Photos add depth to your memories, but in different ways](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)
- - [Affirm reports Q1 revenue up 34% YoY to $933M, vs. $883M est., GMV up 42% to $10.8B, vs. $10.38B est., and profit above estimates; AFRM jumps 11%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/251106/p49#a251106p49)
- - [Samsung’s new Switch 2-compatible microSD Express card is already on sale](https://www.theverge.com/tech/815946/samsung-p9-microsd-express-card-nintendo-switch-2-deal-sale)
- - [The US Congressional Budget Office says it has identified a security incident; sources say the CBO has been hacked by a suspected foreign actor &lpar;Washington Post&rpar;](http://www.techmeme.com/251106/p48#a251106p48)<!-- TECH:END -->
+ - [Sources: the White House has told others in the government it won&#39;t allow Nvidia to sell its scaled-down AI chip B30A to China, despite Trump&#39;s hints he might &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251106/p52#a251106p52)
+ - [Apple’s latest sci-fi series Pluribus luxuriates in its mystery](https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv)
+ - [Tow Center identifies eight X bot accounts that use X&#39;s AI Note Writer API to write between 5% to 10% of the Community Notes visible to the public each day &lpar;C.J. Robinson/Columbia Journalism Review&rpar;](http://www.techmeme.com/251106/p51#a251106p51)
+ - [The best AirPods to buy](https://www.theverge.com/tech/645217/best-apple-airpods-pro)
+ - [How Sonic Rumble Spins Away From Mario Party With Its Own Multiplayer Style](https://www.cnet.com/tech/gaming/how-sonic-rumble-spins-away-from-mario-party-with-its-own-multiplayer-style/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

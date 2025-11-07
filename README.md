@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Halo Infinite is about to get its last major update](https://www.theverge.com/news/816960/halo-infinite-end)
  - [France&#39;s Finance Ministry halts the suspension proceedings of Shein that was initiated on November 5 after Shein withdrew illicit products from its platform &lpar;Inti Landauro/Reuters&rpar;](http://www.techmeme.com/251107/p27#a251107p27)
  - [The Government Shutdown Is a Ticking Cybersecurity Time Bomb](https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/)
  - [Netflix Review: Our Top Pick in a Sea of Streaming Choices](https://www.cnet.com/tech/services-and-software/netflix-review-our-top-pick-sea-streaming-choices/#ftag=CAD590a51e)
- - [Wordle Gets Personal: You Can Now Make and Share Your Own Puzzles](https://www.cnet.com/tech/services-and-software/wordle-gets-personal-you-can-now-make-and-share-your-own-puzzles/#ftag=CAD590a51e)
- - [Apple TV leaders share insights on recent successes and future plans](https://appleinsider.com/articles/25/11/07/apple-tv-leaders-share-insights-on-recent-successes-and-future-plans?utm_source=rss)<!-- TECH:END -->
+ - [Wordle Gets Personal: You Can Now Make and Share Your Own Puzzles](https://www.cnet.com/tech/services-and-software/wordle-gets-personal-you-can-now-make-and-share-your-own-puzzles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

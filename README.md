@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [I have an idea](http://9gag.com/gag/aQzB2De)
- - 💣 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 👉 [Ay el amour](http://9gag.com/gag/aoyA8DA)<!-- MEMES:END -->
+ - 😝 [Ay el amour](http://9gag.com/gag/aoyA8DA)
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 💣 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
+ - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
+ - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
 
 ---
 

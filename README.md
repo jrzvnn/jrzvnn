@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Cloudflare warns the US government that site-blocking efforts in Europe and Asia to combat online piracy are creating digital trade barriers for US providers &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251106/p55#a251106p55)
  - [How to turn the Action Button into a multi-function automation launcher](https://appleinsider.com/inside/iphone/tips/how-to-turn-the-action-button-into-a-multi-function-automation-launcher?utm_source=rss)
  - [An Oxford Internet Institute study of 445 AI benchmarks finds many tests lack clear aims and comparable statistical methods, potentially exaggerating AI claims &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251106/p54#a251106p54)
- - [Chinese startup Moonshot releases Kimi K2 Thinking, an open-source model it claims beats GPT-5 in agentic capabilities; source: the model cost $4.6M to train &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251106/p53#a251106p53)
- - [Sources: the White House has told others in the government it won&#39;t allow Nvidia to sell its scaled-down AI chip B30A to China, despite Trump&#39;s hints he might &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251106/p52#a251106p52)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-7/#ftag=CAD590a51e)
+ - [Chinese startup Moonshot releases Kimi K2 Thinking, an open-source model it claims beats GPT-5 in agentic capabilities; source: the model cost $4.6M to train &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251106/p53#a251106p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

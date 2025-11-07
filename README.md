@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [BioWare says it&amp;#8217;s &amp;#8216;focused exclusively&amp;#8217; on the next Mass Effect](https://www.theverge.com/news/816555/bioware-mass-effect-5-development-focused-tv-show-amazon-n7-day)
  - [Apple Music must emulate Spotify or die, says nonsensical report](https://appleinsider.com/articles/25/11/07/apple-music-must-emulate-spotify-or-die-says-nonsensical-report?utm_source=rss)
  - [Does the Trump phone exist yet?](https://www.theverge.com/news/816484/does-trump-phone-exist-yet)
  - [TikTok Shop Is Now the Size of eBay](https://www.wired.com/story/tiktok-shop-sales-global-ecommerce/)
- - [X appears to be sending fake traffic across the web](https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack)
- - [Samsung’s Frame Pro TV has hit a new all-time low before Black Friday](https://www.theverge.com/tech/816373/samsung-frame-pro-lego-star-wars-advent-calendar-deal-sale)<!-- TECH:END -->
+ - [X appears to be sending fake traffic across the web](https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

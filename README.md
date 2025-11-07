@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Trump Media reports Q3 net sales down 3.8% YoY to $972.9K and a net loss of $55M, up from $19M in Q3 2024; its stock is down 70% from a January high &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/251107/p20#a251107p20)
+ - [You.com CEO Richard Socher is working on a new AI lab to automate AI research, and, sources say, hopes to raise $1B for it; Socher will remain at You.com &lpar;The Information&rpar;](http://www.techmeme.com/251107/p19#a251107p19)
+ - [Anker’s 521 PowerHouse can power up to six devices, and it&amp;#8217;s on sale](https://www.theverge.com/tech/816578/anker-521-powerhouse-deal-sale)
  - [Meta says it will invest $600B in the US infrastructure and jobs by 2028; Zuckerberg told Trump at a September dinner that Meta will spend &quot;at least $600B&quot; &lpar;Juby Babu/Reuters&rpar;](http://www.techmeme.com/251107/p18#a251107p18)
- - [Texas sues Roblox for allegedly failing to protect children on its platform](https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety)
- - [Denmark&#39;s government has reached a political agreement to ban social media access for anyone under 15, with a possible parental consent exception from age 13 &lpar;Euronews&rpar;](http://www.techmeme.com/251107/p17#a251107p17)
- - [BioWare says it&amp;#8217;s &amp;#8216;focused exclusively&amp;#8217; on the next Mass Effect](https://www.theverge.com/news/816555/bioware-mass-effect-5-development-focused-tv-show-amazon-n7-day)
- - [Apple Music must emulate Spotify or die, says nonsensical report](https://appleinsider.com/articles/25/11/07/apple-music-must-emulate-spotify-or-die-says-nonsensical-report?utm_source=rss)<!-- TECH:END -->
+ - [Steam store pages are wider now](https://www.theverge.com/news/816599/valve-steam-store-pages-wider)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

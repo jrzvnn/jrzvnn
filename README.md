@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Title](http://9gag.com/gag/aLnVd1W)
- - 😝 [That classic magic](http://9gag.com/gag/a6Z4GVb)
- - 💣 [Cute Couple](http://9gag.com/gag/ae9y7QQ)
- - 😝 [So better never open up then](http://9gag.com/gag/a6Z4G1m)
- - 👉 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)<!-- MEMES:END -->
+ - 😝 [One of the performances of all time](http://9gag.com/gag/a1mBLoY)
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 💣 [Ay el amour](http://9gag.com/gag/aoyA8DA)
+ - 😝 [I have an idea](http://9gag.com/gag/aQzB2De)
+ - 👉 [Shut her down real quick](http://9gag.com/gag/abAKQnb)<!-- MEMES:END -->
 
 ---
 

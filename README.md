@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness)
+ - [In a letter on October 27, OpenAI asked the Trump administration to expand a 35% Chips Act tax credit to help lower the cost of AI infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p26#a251107p26)
+ - [WIRED-Approved Brooklinen Bedding Is on Sale for a Few Days](https://www.wired.com/story/brooklinen-flash-sale-november-2025/)
  - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
- - [Apple TV racks up Grammy nominations with &#39;F1 The Movie&#39; and &#39;Severance&#39;](https://appleinsider.com/articles/25/11/07/apple-tv-racks-up-grammy-nominations-with-f1-the-movie-and-severance?utm_source=rss)
- - [Branch Sale of the Year: Deals on Office Chairs, Standing Desks, and Home Office Gear](https://www.wired.com/story/branch-sale-of-the-year-2025/)
- - [Both Baumol effect and Jevons paradox may apply to the AI supercycle, as services with AI productivity gains get cheaper, while those without AI become costlier &lpar;Alex Danco/a16z&rpar;](http://www.techmeme.com/251107/p25#a251107p25)
- - [Amazon slashes Apple Watch Series 10 to $279 while supplies last](https://appleinsider.com/articles/25/11/07/amazon-slashes-apple-watch-series-10-to-279-while-supplies-last?utm_source=rss)<!-- TECH:END -->
+ - [Apple TV racks up Grammy nominations with &#39;F1 The Movie&#39; and &#39;Severance&#39;](https://appleinsider.com/articles/25/11/07/apple-tv-racks-up-grammy-nominations-with-f1-the-movie-and-severance?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

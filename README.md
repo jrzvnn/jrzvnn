@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s Frame Pro TV has hit a new all-time low before Black Friday](https://www.theverge.com/tech/816373/samsung-frame-pro-lego-star-wars-advent-calendar-deal-sale)
  - [Pluribus: all the latest on Vince Gilligan&amp;#8217;s Apple TV series](https://www.theverge.com/entertainment/815898/pluribus-apple-tv-vince-gilligan)
  - [Ploopy’s smallest open-source trackball now includes a button](https://www.theverge.com/news/816341/ploopy-nano-2-open-source-trackball-button-qmk)
  - [Amazon launches Amazon Bazaar, a standalone low-cost shopping app in 12+ markets in Asia, Africa, and Latin America, with most products priced under $10 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251107/p16#a251107p16)
- - [Grab Apple&#39;s M4 Mac mini 512GB for just $689.99 today](https://appleinsider.com/articles/25/11/07/grab-apples-m4-mac-mini-512gb-for-just-68999-today?utm_source=rss)
- - [Apple TV&#39;s &#39;La Decision&#39; turns a presidential scandal into a political thriller](https://appleinsider.com/articles/25/11/07/apple-tvs-la-decision-turns-a-presidential-scandal-into-a-political-thriller?utm_source=rss)<!-- TECH:END -->
+ - [Grab Apple&#39;s M4 Mac mini 512GB for just $689.99 today](https://appleinsider.com/articles/25/11/07/grab-apples-m4-mac-mini-512gb-for-just-68999-today?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

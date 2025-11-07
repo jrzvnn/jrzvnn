@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
  - 😝 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
- - 💣 [Ay el amour](http://9gag.com/gag/aoyA8DA)
- - 😝 [Nice](http://9gag.com/gag/aW4PRqZ)
- - 👉 [And one for the road...](http://9gag.com/gag/aPAzX1g)<!-- MEMES:END -->
+ - 😝 [Ay el amour](http://9gag.com/gag/aoyA8DA)
+ - 💣 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - 😝 [And one for the road...](http://9gag.com/gag/aPAzX1g)
+ - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---
 

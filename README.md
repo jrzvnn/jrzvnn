@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop](https://www.wired.com/story/razer-blade-14-oled-deal-1125/)
  - [World of Warcraft is getting a new kind of fake money](https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency)
  - [Sources: Roelof Botha was ousted by senior Sequoia partners amid concerns about his &quot;imperial style&quot; leadership, AI investment strategy, and internal clashes &lpar;George Hammond/Financial Times&rpar;](http://www.techmeme.com/251107/p23#a251107p23)
  - [Neobank Mercury says it has hit $650M in annualized revenue, up from $500M by end of 2024, and has been GAAP profitable on net income and EBITDA for three years &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251107/p22#a251107p22)
- - [13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
- - [A Delaware federal jury rules that GoDaddy owes patent owner Express Mobile $170M for violating its rights in website-building technology; GoDaddy will appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251107/p21#a251107p21)<!-- TECH:END -->
+ - [13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

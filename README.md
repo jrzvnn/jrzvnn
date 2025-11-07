@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
  - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 💣 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
+ - 😝 [I have an idea](http://9gag.com/gag/aQzB2De)
+ - 💣 [And one for the road...](http://9gag.com/gag/aPAzX1g)
  - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
- - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
+ - 👉 [Shut her down real quick](http://9gag.com/gag/abAKQnb)<!-- MEMES:END -->
 
 ---
 

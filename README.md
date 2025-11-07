@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 😝 [Both beauty and beast](http://9gag.com/gag/awyPe0B)
  - 😝 [I have an idea](http://9gag.com/gag/aQzB2De)
- - 💣 [And one for the road...](http://9gag.com/gag/aPAzX1g)
- - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
- - 👉 [Shut her down real quick](http://9gag.com/gag/abAKQnb)<!-- MEMES:END -->
+ - 💣 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 😝 [Nah, thats an upgrade](http://9gag.com/gag/adBrREN)
+ - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
 
 ---
 

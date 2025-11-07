@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China is allowing Nexperia to export chips again, according to officials from several auto companies; shares in Wingtech, Nexperia&#39;s Chinese parent, surged 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p8#a251107p8)
- - [Google, Microsoft, and Meta Have Stopped Publishing Workforce Diversity Data](https://www.wired.com/story/google-microsoft-and-meta-have-stopped-publishing-workforce-diversity-data/)
- - [Best Base Layer &lpar;2025&rpar;: Ibex, Smartwool, and More](https://www.wired.com/gallery/best-base-layers/)
- - [Mexico City Is the Most Video-Surveilled Metropolis in the Americas](https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/)
- - [How to Follow the Trajectory of Comet 3I/Atlas](https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/)<!-- TECH:END -->
+ - [Vodafone and AST SpaceMobile plan to establish a Europe-led satellite constellation, operated out of Germany, to provide satellite-to-smartphone connectivity &lpar;Reuters&rpar;](http://www.techmeme.com/251107/p9#a251107p9)
+ - [How Spatial Scenes &amp; Spatial Photos on Apple Vision Pro add depth to your memories](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)
+ - [What Mac owners need to know about buying Network Attached Storage](https://appleinsider.com/articles/25/11/07/what-mac-owners-need-to-know-about-buying-network-attached-storage?utm_source=rss)
+ - [iPhone 18 Pro to get smaller hole punch for selfie and Face ID camera](https://appleinsider.com/articles/25/11/07/iphone-18-pro-to-get-smaller-hole-punch-for-selfie-and-face-id-camera?utm_source=rss)
+ - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Sony, Bose, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

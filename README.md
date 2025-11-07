@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China is allowing Nexperia to export chips again, according to officials from several auto companies; shares in Wingtech, Nexperia&#39;s Chinese parent, surged 10%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p8#a251107p8)
+ - [Google, Microsoft, and Meta Have Stopped Publishing Workforce Diversity Data](https://www.wired.com/story/google-microsoft-and-meta-have-stopped-publishing-workforce-diversity-data/)
+ - [Best Base Layer &lpar;2025&rpar;: Ibex, Smartwool, and More](https://www.wired.com/gallery/best-base-layers/)
  - [Mexico City Is the Most Video-Surveilled Metropolis in the Americas](https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/)
- - [How to Follow the Trajectory of Comet 3I/Atlas](https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/)
- - [Texas Attorney General Ken Paxton sues Roblox, accusing the company of &quot;flagrantly ignoring&quot; safety laws and calling it a &quot;breeding ground for predators&quot; &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251107/p7#a251107p7)
- - [Sources: the Netherlands is prepared to drop the ministerial order that gave it control of Nexperia if China allows exports of its critical chips again &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p6#a251107p6)
- - [Researchers tested Google DeepMind&#39;s AlphaEvolve AI agent on 67 mathematical problems and found that it discovered improved solutions to about 20 of them &lpar;Adam Zsolt Wagner/@azwagner_&rpar;](http://www.techmeme.com/251107/p5#a251107p5)<!-- TECH:END -->
+ - [How to Follow the Trajectory of Comet 3I/Atlas](https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

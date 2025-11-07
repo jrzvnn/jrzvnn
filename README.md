@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers tested Google DeepMind&#39;s AlphaEvolve AI agent on 67 mathematical problems and found that it discovered improved solutions to about 20 of them &lpar;Adam Zsolt Wagner/@azwagner_&rpar;](http://www.techmeme.com/251107/p5#a251107p5)
  - [Top Verizon Promo Codes &amp; Deals | November 2025](https://www.wired.com/story/verizon-promo-code/)
  - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
  - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
- - [Seven lawsuits in California, including four wrongful death suits, claim ChatGPT encouraged dangerous discussions, leading to suicides and harmful delusions &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251107/p4#a251107p4)
- - [Meta Quest Promo Codes: $50 Off | November 2025](https://www.wired.com/story/meta-quest-promo-code/)<!-- TECH:END -->
+ - [Seven lawsuits in California, including four wrongful death suits, claim ChatGPT encouraged dangerous discussions, leading to suicides and harmful delusions &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251107/p4#a251107p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

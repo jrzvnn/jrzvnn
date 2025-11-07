@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A draft shows the European Commission plans to propose a simplification package on Nov. 19 to pause parts of its AI laws amid pressure from Big Tech and the US &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251107/p2#a251107p2)
  - [TikTok Shop says fraudulent sellers are using AI to create fake brands and nonexistent products; TikTok rejected 70M products and banned 700K sellers in H1 2025 &lpar;Dan Whateley/Business Insider&rpar;](http://www.techmeme.com/251107/p1#a251107p1)
  - [Cloudflare warns the US government that site-blocking efforts in Europe and Asia to combat online piracy are creating digital trade barriers for US providers &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251106/p55#a251106p55)
  - [How to turn the Action Button into a multi-function automation launcher](https://appleinsider.com/inside/iphone/tips/how-to-turn-the-action-button-into-a-multi-function-automation-launcher?utm_source=rss)
- - [An Oxford Internet Institute study of 445 AI benchmarks finds many tests lack clear aims and comparable statistical methods, potentially exaggerating AI claims &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251106/p54#a251106p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 7](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-7/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An Oxford Internet Institute study of 445 AI benchmarks finds many tests lack clear aims and comparable statistical methods, potentially exaggerating AI claims &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251106/p54#a251106p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

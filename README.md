@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Block reports Q3 revenue up 2.3% YoY to $6.1B, below $6.3B est., adjusted EPS below est., and a $461.6M net income, up from $283.8M; XYZ drops 11%+ after hours &lpar;Dean Seal/Dow Jones Newswires&rpar;](http://www.techmeme.com/251106/p50#a251106p50)
+ - [Spatial Scenes &amp; Spatial Photos add depth to your memories, but in different ways](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)
  - [Affirm reports Q1 revenue up 34% YoY to $933M, vs. $883M est., GMV up 42% to $10.8B, vs. $10.38B est., and profit above estimates; AFRM jumps 11%+ after hours &lpar;Reinhardt Krause/Investor&#39;s Business ...&rpar;](http://www.techmeme.com/251106/p49#a251106p49)
  - [Samsung’s new Switch 2-compatible microSD Express card is already on sale](https://www.theverge.com/tech/815946/samsung-p9-microsd-express-card-nintendo-switch-2-deal-sale)
- - [The US Congressional Budget Office says it has identified a security incident; sources say the CBO has been hacked by a suspected foreign actor &lpar;Washington Post&rpar;](http://www.techmeme.com/251106/p48#a251106p48)
- - [GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series](https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games)
- - [Meta launches Vibes, its short-form video feed of AI-generated videos, in Europe through the Meta AI app, following its US debut six weeks earlier &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251106/p47#a251106p47)<!-- TECH:END -->
+ - [The US Congressional Budget Office says it has identified a security incident; sources say the CBO has been hacked by a suspected foreign actor &lpar;Washington Post&rpar;](http://www.techmeme.com/251106/p48#a251106p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

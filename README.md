@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)
+ - [Apple TV racks up Grammy nominations with &#39;F1 The Movie&#39; and &#39;Severance&#39;](https://appleinsider.com/articles/25/11/07/apple-tv-racks-up-grammy-nominations-with-f1-the-movie-and-severance?utm_source=rss)
+ - [Branch Sale of the Year: Deals on Office Chairs, Standing Desks, and Home Office Gear](https://www.wired.com/story/branch-sale-of-the-year-2025/)
  - [Both Baumol effect and Jevons paradox may apply to the AI supercycle, as services with AI productivity gains get cheaper, while those without AI become costlier &lpar;Alex Danco/a16z&rpar;](http://www.techmeme.com/251107/p25#a251107p25)
- - [Amazon slashes Apple Watch Series 10 to $279 while supplies last](https://appleinsider.com/articles/25/11/07/amazon-slashes-apple-watch-series-10-to-279-while-supplies-last?utm_source=rss)
- - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
- - [Unit 42: &quot;commercial grade&quot; spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251107/p24#a251107p24)
- - [Best Fiber Internet Providers for November 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon slashes Apple Watch Series 10 to $279 while supplies last](https://appleinsider.com/articles/25/11/07/amazon-slashes-apple-watch-series-10-to-279-while-supplies-last?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

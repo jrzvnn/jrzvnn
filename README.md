@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas sues Roblox for allegedly failing to protect children on its platform](https://www.theverge.com/news/816549/texas-roblox-lawsuit-child-safety)
+ - [Denmark&#39;s government has reached a political agreement to ban social media access for anyone under 15, with a possible parental consent exception from age 13 &lpar;Euronews&rpar;](http://www.techmeme.com/251107/p17#a251107p17)
  - [BioWare says it&amp;#8217;s &amp;#8216;focused exclusively&amp;#8217; on the next Mass Effect](https://www.theverge.com/news/816555/bioware-mass-effect-5-development-focused-tv-show-amazon-n7-day)
  - [Apple Music must emulate Spotify or die, says nonsensical report](https://appleinsider.com/articles/25/11/07/apple-music-must-emulate-spotify-or-die-says-nonsensical-report?utm_source=rss)
- - [Does the Trump phone exist yet?](https://www.theverge.com/news/816484/does-trump-phone-exist-yet)
- - [TikTok Shop Is Now the Size of eBay](https://www.wired.com/story/tiktok-shop-sales-global-ecommerce/)
- - [X appears to be sending fake traffic across the web](https://www.theverge.com/news/816451/x-fake-traffic-preloading-links-bluesky-substack)<!-- TECH:END -->
+ - [Does the Trump phone exist yet?](https://www.theverge.com/news/816484/does-trump-phone-exist-yet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

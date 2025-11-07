@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare warns the US government that site-blocking efforts in Europe and Asia to combat online piracy are creating digital trade barriers for US providers &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251106/p55#a251106p55)
+ - [How to turn the Action Button into a multi-function automation launcher](https://appleinsider.com/inside/iphone/tips/how-to-turn-the-action-button-into-a-multi-function-automation-launcher?utm_source=rss)
  - [An Oxford Internet Institute study of 445 AI benchmarks finds many tests lack clear aims and comparable statistical methods, potentially exaggerating AI claims &lpar;Jared Perlo/NBC News&rpar;](http://www.techmeme.com/251106/p54#a251106p54)
  - [Chinese startup Moonshot releases Kimi K2 Thinking, an open-source model it claims beats GPT-5 in agentic capabilities; source: the model cost $4.6M to train &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251106/p53#a251106p53)
- - [Sources: the White House has told others in the government it won&#39;t allow Nvidia to sell its scaled-down AI chip B30A to China, despite Trump&#39;s hints he might &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251106/p52#a251106p52)
- - [Apple’s latest sci-fi series Pluribus luxuriates in its mystery](https://www.theverge.com/entertainment/815745/pluribus-review-apple-tv)
- - [Tow Center identifies eight X bot accounts that use X&#39;s AI Note Writer API to write between 5% to 10% of the Community Notes visible to the public each day &lpar;C.J. Robinson/Columbia Journalism Review&rpar;](http://www.techmeme.com/251106/p51#a251106p51)<!-- TECH:END -->
+ - [Sources: the White House has told others in the government it won&#39;t allow Nvidia to sell its scaled-down AI chip B30A to China, despite Trump&#39;s hints he might &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251106/p52#a251106p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

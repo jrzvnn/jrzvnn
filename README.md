@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Seven lawsuits in California, including four wrongful death suits, claim ChatGPT encouraged dangerous discussions, leading to suicides and harmful delusions &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251107/p4#a251107p4)
+ - [Meta Quest Promo Codes: $50 Off | November 2025](https://www.wired.com/story/meta-quest-promo-code/)
+ - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
  - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
- - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)
- - [60% HP Discount Codes &amp; Coupons November 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Speaking to shareholders, Elon Musk says Tesla will likely need to build &quot;a gigantic chip fab&quot; for AI chips and &quot;maybe, we&#39;ll do something with Intel&quot; &lpar;Sayantani Ghosh/Reuters&rpar;](http://www.techmeme.com/251107/p3#a251107p3)
- - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
+ - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

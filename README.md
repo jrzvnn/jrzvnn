@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 😝 [Ay el amour](http://9gag.com/gag/aoyA8DA)
- - 💣 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
- - 😝 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
- - 👉 [And one for the road...](http://9gag.com/gag/aPAzX1g)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aLnVd1W)
+ - 😝 [Me every morning before work, gotta go fast](http://9gag.com/gag/ayNZYOr)
+ - 💣 [That classic magic](http://9gag.com/gag/a6Z4GVb)
+ - 😝 [Cute Couple](http://9gag.com/gag/ae9y7QQ)
+ - 👉 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla rewards Elon Musk’s reality-distortion field](https://www.theverge.com/transportation/816259/tesla-shareholder-elon-musk-pay-package-reality-distortion)
+ - [1Password CEO David Faugno says the company has crossed $400M in ARR, up from $250M in 2023, as it benefits from a shift in the threat landscape due to AI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251107/p13#a251107p13)
  - [M5 13-inch iPad Pro review -- minute improvements, but so what?](https://appleinsider.com/articles/25/11/07/m5-13-inch-ipad-pro-review----minute-improvements-but-so-what?utm_source=rss)
- - [Microsoft, Meta, and sources say, Google will not publish diversity reports and data this year; Amazon, Apple, and Nvidia released diversity data this year &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251107/p11#a251107p11)
- - [Bring back the iBook, you cowards](https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast)
- - [Apple Vision Pro, iOS 26, and Google isn&#39;t saving Siri, on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/07/apple-vision-pro-ios-26-and-google-isnt-saving-siri-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Google Gemini co-lead Noam Shazeer clashed with colleagues on internal forums over topics like gender and Gaza; moderators deleted some of his comments &lpar;The Information&rpar;](http://www.techmeme.com/251107/p12#a251107p12)
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
+ - [Lost in AI translation](https://www.theverge.com/column/815681/optimizer-ai-translation-google-translate-pocketalk-timekettle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

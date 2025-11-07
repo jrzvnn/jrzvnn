@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas Attorney General Ken Paxton sues Roblox, accusing the company of &quot;flagrantly ignoring&quot; safety laws and calling it a &quot;breeding ground for predators&quot; &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251107/p7#a251107p7)
  - [Sources: the Netherlands is prepared to drop the ministerial order that gave it control of Nexperia if China allows exports of its critical chips again &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p6#a251107p6)
  - [Researchers tested Google DeepMind&#39;s AlphaEvolve AI agent on 67 mathematical problems and found that it discovered improved solutions to about 20 of them &lpar;Adam Zsolt Wagner/@azwagner_&rpar;](http://www.techmeme.com/251107/p5#a251107p5)
  - [Top Verizon Promo Codes &amp; Deals | November 2025](https://www.wired.com/story/verizon-promo-code/)
- - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

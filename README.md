@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: Polymarket&#39;s trading volume has been artificially inflated by wash trading, accounting for 25% of all buying and selling over the past three years &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251107/p10#a251107p10)
+ - [Apple Vision Pro, iOS 26, and Google isn&#39;t saving Siri, on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/07/apple-vision-pro-ios-26-and-google-isnt-saving-siri-on-the-appleinsider-podcast?utm_source=rss)
  - [9 Best Leggings of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-leggings/)
  - [Apple&#39;s long game will result in a safe, secure, and ethical AI ecosystem](https://appleinsider.com/articles/25/11/07/apples-long-game-will-result-in-a-safe-secure-and-ethical-ai-ecosystem?utm_source=rss)
- - [6 Best Laptops for College Students &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-laptops-for-college-students/)
- - [Vodafone and AST SpaceMobile plan to establish a Europe-led satellite constellation, operated out of Germany, to provide satellite-to-smartphone connectivity &lpar;Reuters&rpar;](http://www.techmeme.com/251107/p9#a251107p9)
- - [How Spatial Scenes &amp; Spatial Photos on Apple Vision Pro add depth to your memories](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)<!-- TECH:END -->
+ - [6 Best Laptops for College Students &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-laptops-for-college-students/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

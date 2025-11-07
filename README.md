@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
+ - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)
+ - [60% HP Discount Codes &amp; Coupons November 2025](https://www.wired.com/story/hp-coupon-code/)
  - [Speaking to shareholders, Elon Musk says Tesla will likely need to build &quot;a gigantic chip fab&quot; for AI chips and &quot;maybe, we&#39;ll do something with Intel&quot; &lpar;Sayantani Ghosh/Reuters&rpar;](http://www.techmeme.com/251107/p3#a251107p3)
- - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/surfshark-coupon/)
- - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Hulu Promo Codes and Discounts: 80% Off for Select Users](https://www.wired.com/story/hulu-promo-code/)
- - [Draft proposal: the EU weighs a pause and simplification of parts of the AI Act, with a decision expected on November 19, amid pressure from Big Tech and the US &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251107/p2#a251107p2)<!-- TECH:END -->
+ - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/surfshark-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

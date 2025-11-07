@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mexico City Is the Most Video-Surveilled Metropolis in the Americas](https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/)
  - [How to Follow the Trajectory of Comet 3I/Atlas](https://www.wired.com/story/how-to-follow-the-trajectory-of-comet-3i-atlas/)
  - [Texas Attorney General Ken Paxton sues Roblox, accusing the company of &quot;flagrantly ignoring&quot; safety laws and calling it a &quot;breeding ground for predators&quot; &lpar;Osmond Chia/BBC&rpar;](http://www.techmeme.com/251107/p7#a251107p7)
  - [Sources: the Netherlands is prepared to drop the ministerial order that gave it control of Nexperia if China allows exports of its critical chips again &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p6#a251107p6)
- - [Researchers tested Google DeepMind&#39;s AlphaEvolve AI agent on 67 mathematical problems and found that it discovered improved solutions to about 20 of them &lpar;Adam Zsolt Wagner/@azwagner_&rpar;](http://www.techmeme.com/251107/p5#a251107p5)
- - [Your Kidneys Are Small but Powerful Organs. These 13 Superfoods Can Give Them a Boost](https://www.cnet.com/health/nutrition/kidneys-small-powerful-organs-13-superfoods-give-them-boost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Researchers tested Google DeepMind&#39;s AlphaEvolve AI agent on 67 mathematical problems and found that it discovered improved solutions to about 20 of them &lpar;Adam Zsolt Wagner/@azwagner_&rpar;](http://www.techmeme.com/251107/p5#a251107p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

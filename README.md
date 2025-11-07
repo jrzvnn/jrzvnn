@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple TV&#39;s &#39;La Decision&#39; turns a presidential scandal into a political thriller](https://appleinsider.com/articles/25/11/07/apple-tvs-la-decision-turns-a-presidential-scandal-into-a-political-thriller?utm_source=rss)
  - [Commonware, which develops open-source code for launching blockchains, raised $25M led by Tempo, a stablecoin-focused blockchain backed by Stripe and Paradigm &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251107/p15#a251107p15)
  - [The Best Gifts for Sleep, as Tested by Our Team](https://www.wired.com/gallery/best-sleep-gifts/)
  - [7 Best Shower Water Filters &lpar;2025&rpar;, WIRED Tested and Approved](https://www.wired.com/gallery/best-shower-water-filters/)
- - [Fastbreak AI, which provides AI-based sports scheduling optimization tools to the NBA, NHL, and others, raised $40M led by Greycroft and GTMfund &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/251107/p14#a251107p14)
- - [1Password CEO David Faugno says the company has crossed $400M in ARR, up from $250M in 2023, as it benefits from a shift in the threat landscape due to AI &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251107/p13#a251107p13)<!-- TECH:END -->
+ - [Fastbreak AI, which provides AI-based sports scheduling optimization tools to the NBA, NHL, and others, raised $40M led by Greycroft and GTMfund &lpar;Kim Bhasin/Bloomberg&rpar;](http://www.techmeme.com/251107/p14#a251107p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

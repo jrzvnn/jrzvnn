@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Walmart Promo Codes and Coupons: $10 Off](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
  - [Seven lawsuits in California, including four wrongful death suits, claim ChatGPT encouraged dangerous discussions, leading to suicides and harmful delusions &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/251107/p4#a251107p4)
  - [Meta Quest Promo Codes: $50 Off | November 2025](https://www.wired.com/story/meta-quest-promo-code/)
- - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)
- - [Western Digital Promo Code: 10% Off](https://www.wired.com/story/western-digital-promo-code/)
- - [Govee Discount Codes and Deals: 30% Off](https://www.wired.com/story/govee-discount-code/)<!-- TECH:END -->
+ - [Home Chef Promo Code: 50% Off](https://www.wired.com/story/home-chef-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

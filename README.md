@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Imagine having such striking and intense eyes and being asked to tone it down. She was like a cat in human form. Alexandria Daddario has eyes like that.](http://9gag.com/gag/ajPGK9Q)
- - 😝 [Cool hair](http://9gag.com/gag/aW4PbNK)
- - 💣 [My eyes are down here](http://9gag.com/gag/aKGnOgW)
- - 😝 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
- - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
+ - 😝 [The goal and celebration in slomo](http://9gag.com/gag/aoyAYPe)
+ - 😝 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - 💣 [The perfect trilogy, you cant convince me otherwise.](http://9gag.com/gag/aZZozZX)
+ - 😝 [Nope](http://9gag.com/gag/aW4PDM2)
+ - 👉 [My eyes are down here](http://9gag.com/gag/aKGnOgW)<!-- MEMES:END -->
 
 ---
 

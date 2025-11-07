@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Title](http://9gag.com/gag/aLnVd1W)
  - 😝 [That classic magic](http://9gag.com/gag/a6Z4GVb)
- - 😝 [Cute Couple](http://9gag.com/gag/ae9y7QQ)
- - 💣 [So better never open up then](http://9gag.com/gag/a6Z4G1m)
- - 😝 [We&#39;ll never know what this feels like](http://9gag.com/gag/aVv4R92)
+ - 💣 [Cute Couple](http://9gag.com/gag/ae9y7QQ)
+ - 😝 [So better never open up then](http://9gag.com/gag/a6Z4G1m)
  - 👉 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s long game will result in a safe, secure, and ethical AI ecosystem](https://appleinsider.com/articles/25/11/07/apples-long-game-will-result-in-a-safe-secure-and-ethical-ai-ecosystem?utm_source=rss)
+ - [6 Best Laptops for College Students &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-laptops-for-college-students/)
  - [Vodafone and AST SpaceMobile plan to establish a Europe-led satellite constellation, operated out of Germany, to provide satellite-to-smartphone connectivity &lpar;Reuters&rpar;](http://www.techmeme.com/251107/p9#a251107p9)
  - [How Spatial Scenes &amp; Spatial Photos on Apple Vision Pro add depth to your memories](https://appleinsider.com/articles/25/11/07/spatial-scenes-spatial-photos-add-depth-to-your-memories-but-in-different-ways?utm_source=rss)
- - [What Mac owners need to know about buying Network Attached Storage](https://appleinsider.com/articles/25/11/07/what-mac-owners-need-to-know-about-buying-network-attached-storage?utm_source=rss)
- - [iPhone 18 Pro to get smaller hole punch for selfie and Face ID camera](https://appleinsider.com/articles/25/11/07/iphone-18-pro-to-get-smaller-hole-punch-for-selfie-and-face-id-camera?utm_source=rss)
- - [Best Noise-Canceling Headphones &lpar;2025&rpar;: Sony, Bose, and More](https://www.wired.com/gallery/best-noise-canceling-headphones/)<!-- TECH:END -->
+ - [What Mac owners need to know about buying Network Attached Storage](https://appleinsider.com/articles/25/11/07/what-mac-owners-need-to-know-about-buying-network-attached-storage?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

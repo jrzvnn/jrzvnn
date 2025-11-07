@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Government Shutdown Is a Ticking Cybersecurity Time Bomb](https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/)
+ - [Netflix Review: Our Top Pick in a Sea of Streaming Choices](https://www.cnet.com/tech/services-and-software/netflix-review-our-top-pick-sea-streaming-choices/#ftag=CAD590a51e)
+ - [Wordle Gets Personal: You Can Now Make and Share Your Own Puzzles](https://www.cnet.com/tech/services-and-software/wordle-gets-personal-you-can-now-make-and-share-your-own-puzzles/#ftag=CAD590a51e)
  - [Apple TV leaders share insights on recent successes and future plans](https://appleinsider.com/articles/25/11/07/apple-tv-leaders-share-insights-on-recent-successes-and-future-plans?utm_source=rss)
- - [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness)
- - [In a letter on October 27, OpenAI asked the Trump administration to expand a 35% Chips Act tax credit to help lower the cost of AI infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p26#a251107p26)
- - [WIRED-Approved Brooklinen Bedding Is on Sale for a Few Days](https://www.wired.com/story/brooklinen-flash-sale-november-2025/)
- - [Best Packing Cubes for Every Kind of Trip &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-packing-cubes/)<!-- TECH:END -->
+ - [Maybe Peloton is its own worst enemy](https://www.theverge.com/gadgets/816352/peloton-q1-2026-earnings-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

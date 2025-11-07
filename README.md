@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [13 Best Deals From the All-Clad Factory Seconds Sale on Kitchen Must-Haves &lpar;2025&rpar;](https://www.wired.com/story/all-clad-sale-october-2025/)
+ - [A Delaware federal jury rules that GoDaddy owes patent owner Express Mobile $170M for violating its rights in website-building technology; GoDaddy will appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251107/p21#a251107p21)
+ - [Best Budget Earbuds for 2025: Cheap Wireless Picks](https://www.cnet.com/tech/mobile/best-cheap-budget-wireless-earbuds/#ftag=CAD590a51e)
  - [Apple Music must emulate Spotify or die, says nonsensical report](https://appleinsider.com/articles/25/11/07/apple-music-must-emulate-spotify-or-die-says-nonsensical-report?utm_source=rss)
- - [Why camera-equipped smart glasses are already a privacy disaster](https://appleinsider.com/articles/25/11/07/why-camera-equipped-smart-glasses-are-already-a-privacy-disaster?utm_source=rss)
- - [Welcome to Big Tech&#39;s ‘Age of Extraction’](https://www.wired.com/story/tim-wu-age-of-extraction/)
- - [Blackmagic’s free camera app can now stream directly to YouTube and Twitch](https://www.theverge.com/news/816516/blackmagic-design-camera-mobile-app-ios-android-streaming-youtube-twitch)
- - [Social Security Employees Grill Management During Tense Shutdown Meeting](https://www.wired.com/story/social-security-administration-tense-shutdown-meeting/)<!-- TECH:END -->
+ - [Why camera-equipped smart glasses are already a privacy disaster](https://appleinsider.com/articles/25/11/07/why-camera-equipped-smart-glasses-are-already-a-privacy-disaster?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

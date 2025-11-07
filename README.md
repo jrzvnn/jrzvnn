@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ay el amour](http://9gag.com/gag/aoyA8DA)
+ - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
  - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
  - 💣 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
  - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)

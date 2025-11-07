@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Both Baumol effect and Jevons paradox may apply to the AI supercycle, as services with AI productivity gains get cheaper, while those without AI become costlier &lpar;Alex Danco/a16z&rpar;](http://www.techmeme.com/251107/p25#a251107p25)
+ - [Amazon slashes Apple Watch Series 10 to $279 while supplies last](https://appleinsider.com/articles/25/11/07/amazon-slashes-apple-watch-series-10-to-279-while-supplies-last?utm_source=rss)
+ - [The best Fitbits for your fitness and health](https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker)
  - [Unit 42: &quot;commercial grade&quot; spyware called Landfall, likely zero-click, was used in a hacking campaign aimed at Samsung Galaxy phones in the Middle East &lpar;Suzanne Smalley/The Record&rpar;](http://www.techmeme.com/251107/p24#a251107p24)
- - [Best Fiber Internet Providers for November 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)
- - [Before You Preorder a $20K Home Robot, There&#39;s Something You Should See](https://www.cnet.com/tech/before-you-preorder-a-20k-home-robot-theres-something-you-should-see/#ftag=CAD590a51e)
- - [Fat Savings on the Super Skinny Razer Blade 14 Gaming Laptop](https://www.wired.com/story/razer-blade-14-oled-deal-1125/)
- - [World of Warcraft is getting a new kind of fake money](https://www.theverge.com/news/816714/world-of-warcraft-player-housing-hearthsteel-currency)<!-- TECH:END -->
+ - [Best Fiber Internet Providers for November 2025](https://www.cnet.com/home/internet/best-fiber-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

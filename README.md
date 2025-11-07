@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft, Meta, and sources say, Google will not publish diversity reports and data this year; Amazon, Apple, and Nvidia released diversity data this year &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251107/p11#a251107p11)
  - [Bring back the iBook, you cowards](https://www.theverge.com/podcast/816270/ibook-cheap-mac-ai-shopping-comet-vergecast)
  - [Apple Vision Pro, iOS 26, and Google isn&#39;t saving Siri, on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/07/apple-vision-pro-ios-26-and-google-isnt-saving-siri-on-the-appleinsider-podcast?utm_source=rss)
  - [13 Best Carry-On Luggage &lpar;2025&rpar;: Away, Travelpro, and More](https://www.wired.com/gallery/best-carry-on-luggage/)
- - [Study: Polymarket&#39;s trading volume has been artificially inflated by wash trading, accounting for 25% of all buying and selling over the past three years &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251107/p10#a251107p10)
- - [9 Best Leggings of 2025, Tested and Reviewed by WIRED](https://www.wired.com/gallery/the-best-leggings/)<!-- TECH:END -->
+ - [Study: Polymarket&#39;s trading volume has been artificially inflated by wash trading, accounting for 25% of all buying and selling over the past three years &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251107/p10#a251107p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

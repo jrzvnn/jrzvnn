@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music&#39;s growth may be stymied by the lack of a free tier as a funnel; Midia: on a weekly level, 43% of consumers used Spotify and 16% turned to Apple &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251108/p6#a251108p6)
- - [Unpicking How to Measure the Complexity of Knots](https://www.wired.com/story/unpicking-how-to-measure-the-complexity-of-knots/)
- - [Should You Cold Plunge Before or After a Workout? &lpar;2025&rpar;](https://www.wired.com/story/cold-plunge-before-or-after-workout/)
- - [Bad Air Is One of the Biggest Threats to Your Health. Here’s How to Protect Yourself](https://www.wired.com/story/one-of-the-biggest-threats-to-your-health-is-something-you-cant-see/)
- - [Why Are We All Still Carrying Around Car Keys?](https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/)<!-- TECH:END -->
+ - [Trump’s Hatred of EVs Is Making Gas Cars More Expensive](https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/)
+ - [Gear News of the Week: Fairphone Lands in the US, and WhatsApp Is Finally on the Apple Watch](https://www.wired.com/story/gear-news-of-the-week-fairphone-lands-in-the-us-and-whatsapp-is-finally-on-the-apple-watch/)
+ - [The 42 Best Movies on Netflix, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
+ - [The 42 Best Shows on Netflix, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
+ - [Apple Music&#39;s growth may be stymied by the lack of a free tier as a funnel; Midia: on a weekly level, 43% of consumers used Spotify and 16% turned to Apple &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251108/p6#a251108p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

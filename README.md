@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Video: The 15 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-prime-video-nov-2025/#ftag=CAD590a51e)
  - [Sims streamers are distancing themselves from EA, but for some the choice is hard](https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie)
  - [A Gene Editing Therapy Cut Cholesterol Levels by Half](https://www.wired.com/story/a-gene-editing-therapy-cut-cholesterol-levels-by-half/)
  - [Apple Watches and advent calendars top our list of the best deals this week](https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale)
- - [OpenAI, Alphabet, and Perplexity offering free access to their paid tiers in India suggests the country may be the biggest and safest bet for broad AI adoption &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/251108/p7#a251108p7)
- - [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review)<!-- TECH:END -->
+ - [OpenAI, Alphabet, and Perplexity offering free access to their paid tiers in India suggests the country may be the biggest and safest bet for broad AI adoption &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/251108/p7#a251108p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

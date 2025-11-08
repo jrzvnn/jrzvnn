@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The endearing movie that affirms creativity as a human act](https://www.theverge.com/entertainment/816399/peter-hujars-day-ira-sachs-interview)
- - [Soaring electricity rates fueled Democratic victories — now comes the hard part](https://www.theverge.com/report/816946/electricity-rates-election-democrats)
- - [X Is Retiring Twitter.com. You Have 2 Days to Update Your Account or Risk Lockout](https://www.cnet.com/news/social-media/x-is-retiring-twitter-com-you-have-2-days-to-update-your-account-or-risk-lockout/#ftag=CAD590a51e)
- - [The Worst Thing About Coca-Cola&#39;s Holiday Ad Isn&#39;t the AI](https://www.cnet.com/tech/services-and-software/the-worst-thing-about-coca-colas-holiday-ad-isnt-the-ai/#ftag=CAD590a51e)
- - [Trump’s Hatred of EVs Is Making Gas Cars More Expensive](https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/)<!-- TECH:END -->
+ - [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review)
+ - [Formula E&#39;s New Electric Racing Car Is Faster Than a Formula 1 Car. What We Know So Far](https://www.cnet.com/roadshow/news/formula-es-new-electric-racing-car-is-faster-than-a-formula-1-car-what-we-know-so-far/#ftag=CAD590a51e)
+ - [Are You Using the Wrong Sponge? Why You Should Choose Them Based on Color](https://www.cnet.com/news/are-you-using-the-wrong-sponge-why-you-should-choose-them-based-on-color/#ftag=CAD590a51e)
+ - [I Used the Oppo Find X9 Pro&#39;s Bizarre-Looking Hasselblad Lens and Here&#39;s Everything It Can Do](https://www.cnet.com/tech/mobile/i-used-the-oppo-find-x9-pros-bizarre-looking-hasselblad-lens-and-heres-everything-it-can-do/#ftag=CAD590a51e)
+ - [The endearing movie that affirms creativity as a human act](https://www.theverge.com/entertainment/816399/peter-hujars-day-ira-sachs-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

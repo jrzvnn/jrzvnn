@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [5 Options for Streaming ESPN and ABC Without YouTube TV](https://www.cnet.com/tech/services-and-software/5-options-for-streaming-espn-abc-without-youtube-tv/#ftag=CAD590a51e)
  - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [Apple TV outage hits launch of Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/11/08/apple-tv-outage-hits-launch-of-vince-gilligans-pluribus?utm_source=rss)
  - [A look at Dominari Holdings and Yorkville Advisors, two little-known boutique banks that have helped finance the Trump family&#39;s flurry of crypto deals this year &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251108/p8#a251108p8)
- - [Apple helped kill netbooks. Will it bring them back?](https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back)
- - [Prime Video: The 15 Absolute Best Movies to Watch](https://www.cnet.com/tech/services-and-software/best-movies-on-prime-video-nov-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple helped kill netbooks. Will it bring them back?](https://www.theverge.com/tech/817277/apple-ipad-killed-the-netbook-cheap-macbook-is-bringing-them-back)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

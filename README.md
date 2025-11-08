@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music&#39;s growth may be stymied by the lack of a free tier as a funnel; Midia: on a weekly level, 43% of consumers used Spotify and 16% turned to Apple &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251108/p6#a251108p6)
+ - [Unpicking How to Measure the Complexity of Knots](https://www.wired.com/story/unpicking-how-to-measure-the-complexity-of-knots/)
+ - [Should You Cold Plunge Before or After a Workout? &lpar;2025&rpar;](https://www.wired.com/story/cold-plunge-before-or-after-workout/)
  - [Bad Air Is One of the Biggest Threats to Your Health. Here’s How to Protect Yourself](https://www.wired.com/story/one-of-the-biggest-threats-to-your-health-is-something-you-cant-see/)
- - [Why Are We All Still Carrying Around Car Keys?](https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/)
- - [7 Wellness Hacks We Swear By for Surviving Cold and Flu Season](https://www.cnet.com/health/cough-cough-wellness-hacks-swear-by-surviving-cold-flu-season/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Tottenham vs. Man United, Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
- - [Controversy Brews: US Government Targets Banning Top Wi-Fi Router](https://www.cnet.com/tech/services-and-software/controversy-brews-us-government-targets-banning-top-wi-fi-router/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why Are We All Still Carrying Around Car Keys?](https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

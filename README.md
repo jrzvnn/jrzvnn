@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Both beauty and beast](http://9gag.com/gag/awyPe0B)
- - 😝 [I have an idea](http://9gag.com/gag/aQzB2De)
- - 💣 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 😝 [Nah, thats an upgrade](http://9gag.com/gag/adBrREN)
- - 👉 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)<!-- MEMES:END -->
+ - 😝 [It&#39;s beginning to look a lot like Christmas....](http://9gag.com/gag/ayNZvGy)
+ - 😝 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)
+ - 💣 [Happy to know that there are still good people in the world.](http://9gag.com/gag/axyQYzW)
+ - 😝 [Healthy masculinity will save our world](http://9gag.com/gag/aO8Ap0E)
+ - 👉 [Both beauty and beast](http://9gag.com/gag/awyPe0B)<!-- MEMES:END -->
 
 ---
 

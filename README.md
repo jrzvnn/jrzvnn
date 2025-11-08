@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What the heck](http://9gag.com/gag/aByjODO)
  - 😝 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
+ - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
  - 💣 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
  - 😝 [It&#39;s always the low quality ones](http://9gag.com/gag/abAKEop)
- - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
+ - 👉 [Shut her down real quick](http://9gag.com/gag/abAKQnb)<!-- MEMES:END -->
 
 ---
 

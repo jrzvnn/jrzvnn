@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
- - 💣 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
+ - 😝 [Men at work](http://9gag.com/gag/aoyADnx)
+ - 😝 [He really won with silence](http://9gag.com/gag/aW4P99d)
+ - 💣 [Is this true](http://9gag.com/gag/abAKdXB)
+ - 😝 [Return back to monke](http://9gag.com/gag/a34eNO5)
+ - 👉 [Weeeelp](http://9gag.com/gag/a1mBw9D)<!-- MEMES:END -->
 
 ---
 

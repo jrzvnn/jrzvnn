@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What the heck](http://9gag.com/gag/aByjODO)
  - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 💣 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
  - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 💣 [What the heck](http://9gag.com/gag/aByjODO)
- - 😝 [Trusting AI with your life decisions, what could go wrong](http://9gag.com/gag/agm6j8q)
- - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
+ - 👉 [My eyes are down here](http://9gag.com/gag/aKGnOgW)<!-- MEMES:END -->
 
 ---
 

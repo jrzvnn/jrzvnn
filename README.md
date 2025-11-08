@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 💣 [What the heck](http://9gag.com/gag/aByjODO)
- - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
+ - 😝 [What the heck](http://9gag.com/gag/aByjODO)
+ - 💣 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
+ - 👉 [Merry xmass](http://9gag.com/gag/a7oPn3r)<!-- MEMES:END -->
 
 ---
 

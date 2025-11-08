@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Why Are We All Still Carrying Around Car Keys?](https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/)
+ - [Premier League Soccer: Stream Tottenham vs. Man United, Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
+ - [Controversy Brews: US Government Targets Banning Top Wi-Fi Router](https://www.cnet.com/tech/services-and-software/controversy-brews-us-government-targets-banning-top-wi-fi-router/#ftag=CAD590a51e)
  - [An account of working at Cursor for 60 days: a largely in-person culture, few scheduled meetings, aggressive recruiting, heavy internal product testing, more &lpar;Brie Wolfson/Colossus&rpar;](http://www.techmeme.com/251108/p5#a251108p5)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)
- - [In DeepSeek&#39;s first public appearance since R1&#39;s success, a senior researcher told a state-run conference he was pessimistic about AI&#39;s impact on humanity &lpar;Reuters&rpar;](http://www.techmeme.com/251108/p4#a251108p4)
- - [CoinGecko: crypto market cap falls to $3.5T from October&#39;s $4.4T peak, on track to erase its 2025 gains; crypto ETFs had $700M of net outflow over the past week &lpar;Bloomberg&rpar;](http://www.techmeme.com/251108/p3#a251108p3)<!-- TECH:END -->
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

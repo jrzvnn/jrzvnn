@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As US schools adopt AI, a look at the growing use of AI-powered monitoring tools like GoGuardian to scan students&#39; chatbot conversations for signs of self-harm &lpar;Janne Knodler/Bloomberg&rpar;](http://www.techmeme.com/251108/p11#a251108p11)
  - [22 of the Best Fitness Gifts You Can Buy in 2025](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)
  - [Chinese robotaxi companies&#39; tech and rider experience are generally similar to Waymo&#39;s, as they build businesses at home while also expanding internationally &lpar;Peter Landers/Wall Street Journal&rpar;](http://www.techmeme.com/251108/p10#a251108p10)
  - [Apple&#39;s M4 MacBook Pro falls to $1,299, save $300 with blowout deals](https://appleinsider.com/articles/25/11/08/apples-m4-macbook-pro-falls-to-1299-save-300-with-blowout-deals?utm_source=rss)
- - [Several of Asia&#39;s top tycoons and conglomerates are joining the data center race as tech giants plan $240B in APAC hyperscale expansion over the next five years &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/251108/p9#a251108p9)
- - [5 Options for Streaming ESPN and ABC Without YouTube TV](https://www.cnet.com/tech/services-and-software/5-options-for-streaming-espn-abc-without-youtube-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Several of Asia&#39;s top tycoons and conglomerates are joining the data center race as tech giants plan $240B in APAC hyperscale expansion over the next five years &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/251108/p9#a251108p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
  - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 😝 [What the heck](http://9gag.com/gag/aByjODO)
- - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
+ - 💣 [What the heck](http://9gag.com/gag/aByjODO)
+ - 😝 [Trusting AI with your life decisions, what could go wrong](http://9gag.com/gag/agm6j8q)
  - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---

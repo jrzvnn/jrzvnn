@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
  - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 💣 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 👉 [Shut her down real quick](http://9gag.com/gag/abAKQnb)<!-- MEMES:END -->
+ - 💣 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
+ - 👉 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)<!-- MEMES:END -->
 
 ---
 

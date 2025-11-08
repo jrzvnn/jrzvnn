@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [And one for the road...](http://9gag.com/gag/aPAzX1g)
  - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 😝 [I have an idea](http://9gag.com/gag/aQzB2De)
  - 💣 [Sometimes it&#39;s nice to just talk.](http://9gag.com/gag/a6Z48Mq)
- - 😝 [Who puts ketchup on a baked potato anyway](http://9gag.com/gag/azxoQ9j)
+ - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
  - 👉 [Shut her down real quick](http://9gag.com/gag/abAKQnb)<!-- MEMES:END -->
 
 ---

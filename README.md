@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
- - 💣 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 😝 [It wasnt worth it](http://9gag.com/gag/a34exR3)
- - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
+ - 😝 [Return back to monke](http://9gag.com/gag/a34eNO5)
+ - 😝 [Gender reveal](http://9gag.com/gag/aGy6oxX)
+ - 💣 [Is this true](http://9gag.com/gag/abAKdXB)
+ - 😝 [Weeeelp](http://9gag.com/gag/a1mBw9D)
+ - 👉 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)<!-- MEMES:END -->
 
 ---
 

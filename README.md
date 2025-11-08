@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It&#39;s beginning to look a lot like Christmas....](http://9gag.com/gag/ayNZvGy)
- - 😝 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)
- - 💣 [Happy to know that there are still good people in the world.](http://9gag.com/gag/axyQYzW)
- - 😝 [Healthy masculinity will save our world](http://9gag.com/gag/aO8Ap0E)
- - 👉 [Both beauty and beast](http://9gag.com/gag/awyPe0B)<!-- MEMES:END -->
+ - 😝 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
+ - 💣 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 😝 [Who puts ketchup on a baked potato anyway](http://9gag.com/gag/azxoQ9j)
+ - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---
 

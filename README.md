@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
- - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
- - 👉 [Ay el amour](http://9gag.com/gag/aoyA8DA)<!-- MEMES:END -->
+ - 😝 [A sweet moment with the royal guard and his horse](http://9gag.com/gag/agm6EMr)
+ - 😝 [Happy to know that there are still good people in the world.](http://9gag.com/gag/axyQYzW)
+ - 💣 [Healthy masculinity will save our world](http://9gag.com/gag/aO8Ap0E)
+ - 😝 [Sean Penn&#39;s hair is a whole mood](http://9gag.com/gag/aPAzn7q)
+ - 👉 [Both beauty and beast](http://9gag.com/gag/awyPe0B)<!-- MEMES:END -->
 
 ---
 

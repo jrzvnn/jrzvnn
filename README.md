@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 😝 [What the heck](http://9gag.com/gag/aByjODO)
- - 💣 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
- - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 👉 [Merry xmass](http://9gag.com/gag/a7oPn3r)<!-- MEMES:END -->
+ - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 😝 [Kowalski, status report!](http://9gag.com/gag/aGy62W6)
+ - 💣 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
+ - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
 
 ---
 

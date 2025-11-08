@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sims streamers are distancing themselves from EA, but for some the choice is hard](https://www.theverge.com/games/816750/the-sims-ea-buyout-content-creator-program-departures-lilsimsie)
+ - [A Gene Editing Therapy Cut Cholesterol Levels by Half](https://www.wired.com/story/a-gene-editing-therapy-cut-cholesterol-levels-by-half/)
  - [The Apple Watch SE 3 and Lego’s Star Wars Advent Calendar are our favorite deals this week](https://www.theverge.com/tech/816649/apple-watch-se-3-lego-star-wars-advent-calendar-deal-sale)
  - [OpenAI, Alphabet, and Perplexity offering free access to their paid tiers in India suggests the country may be the biggest and safest bet for broad AI adoption &lpar;Mihir Sharma/Bloomberg&rpar;](http://www.techmeme.com/251108/p7#a251108p7)
- - [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review)
- - [Formula E&#39;s New Electric Racing Car Is Faster Than a Formula 1 Car. What We Know So Far](https://www.cnet.com/roadshow/news/formula-es-new-electric-racing-car-is-faster-than-a-formula-1-car-what-we-know-so-far/#ftag=CAD590a51e)
- - [Are You Using the Wrong Sponge? Why You Should Choose Them Based on Color](https://www.cnet.com/news/are-you-using-the-wrong-sponge-why-you-should-choose-them-based-on-color/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Matic robot vacuum is smarter, quieter, and gets the job done](https://www.theverge.com/tech/816645/matic-robot-vacuum-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

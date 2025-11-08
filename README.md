@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google introduces Nested Learning, a new ML approach for continual learning that views models as nested optimization problems to enhance long context processing &lpar;Google Research&rpar;](http://www.techmeme.com/251107/p29#a251107p29)
  - [AI Ranked the Catchiest Songs in History—Do You Agree With the List?](https://www.cnet.com/tech/services-and-software/ai-has-officially-solved-the-debate-over-the-catchiest-songs-ever/#ftag=CAD590a51e)
  - [Sources: Samsung is in talks with Barclays to launch a consumer credit card in the US; it&#39;s also exploring a high-yield savings account, BNPL product, and more &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/251107/p28#a251107p28)
  - [Early Black Friday Deal: Save $100 on OWC Thunderbolt Go Dock for Mac](https://appleinsider.com/articles/25/11/07/early-black-friday-deal-save-100-on-owc-thunderbolt-go-dock-for-mac?utm_source=rss)
- - [Halo Infinite is about to get its last major update](https://www.theverge.com/news/816960/halo-infinite-end)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 8, #411](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-8-411/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

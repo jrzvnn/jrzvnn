@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 💣 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 😝 [It wasnt worth it](http://9gag.com/gag/a34exR3)
- - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
+ - 😝 [Is this true](http://9gag.com/gag/abAKdXB)
+ - 😝 [Men at work](http://9gag.com/gag/aoyADnx)
+ - 💣 [He really won with silence](http://9gag.com/gag/aW4P99d)
+ - 😝 [Return back to monke](http://9gag.com/gag/a34eNO5)
+ - 👉 [Weeeelp](http://9gag.com/gag/a1mBw9D)<!-- MEMES:END -->
 
 ---
 

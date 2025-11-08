@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And one for the road...](http://9gag.com/gag/aPAzX1g)
+ - 😝 [A 29 year old woman pretended to be a nurse for 7 months. She treated over 4,000 patients and only got caught after she was offered a promotion](http://9gag.com/gag/aVv4BOn)
+ - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
+ - 💣 [Both beauty and beast](http://9gag.com/gag/awyPe0B)
  - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 💣 [Sometimes it&#39;s nice to just talk.](http://9gag.com/gag/a6Z48Mq)
- - 😝 [Do hard push ups](http://9gag.com/gag/aRB9OE5)
- - 👉 [Shut her down real quick](http://9gag.com/gag/abAKQnb)<!-- MEMES:END -->
+ - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---
 

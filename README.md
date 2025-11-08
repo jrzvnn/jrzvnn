@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)
+ - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
+ - [Nasdaq had its worst 5-day run since April, falling 3% for the week as the combined market value of eight most valuable AI-related stocks fell by about $800B &lpar;Financial Times&rpar;](http://www.techmeme.com/251108/p1#a251108p1)
  - [A US judge declares a mistrial after a jury couldn&#39;t reach a verdict on two brothers charged in 2024 for allegedly stealing $25M in crypto from Ethereum traders &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p30#a251107p30)
- - [Google introduces Nested Learning, a new ML approach for continual learning that views models as nested optimization problems to enhance long context processing &lpar;Google Research&rpar;](http://www.techmeme.com/251107/p29#a251107p29)
- - [ARC Raiders Review: An Extraction Shooter Built for Every Type of Player](https://www.cnet.com/tech/gaming/arc-raiders-review-this-is-the-best-extraction-shooter-ive-ever-played/#ftag=CAD590a51e)
- - [AI Ranked the Catchiest Songs in History—Do You Agree With the List?](https://www.cnet.com/tech/services-and-software/ai-has-officially-solved-the-debate-over-the-catchiest-songs-ever/#ftag=CAD590a51e)
- - [Sources: Samsung is in talks with Barclays to launch a consumer credit card in the US; it&#39;s also exploring a high-yield savings account, BNPL product, and more &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/251107/p28#a251107p28)<!-- TECH:END -->
+ - [Google introduces Nested Learning, a new ML approach for continual learning that views models as nested optimization problems to enhance long context processing &lpar;Google Research&rpar;](http://www.techmeme.com/251107/p29#a251107p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s M4 MacBook Pro falls to $1,299, save $300 with blowout deals](https://appleinsider.com/articles/25/11/08/apples-m4-macbook-pro-falls-to-1299-save-300-with-blowout-deals?utm_source=rss)
  - [Several of Asia&#39;s top tycoons and conglomerates are joining the data center race as tech giants plan $240B in APAC hyperscale expansion over the next five years &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/251108/p9#a251108p9)
  - [5 Options for Streaming ESPN and ABC Without YouTube TV](https://www.cnet.com/tech/services-and-software/5-options-for-streaming-espn-abc-without-youtube-tv/#ftag=CAD590a51e)
  - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [Apple TV outage hits launch of Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/11/08/apple-tv-outage-hits-launch-of-vince-gilligans-pluribus?utm_source=rss)
- - [A look at Dominari Holdings and Yorkville Advisors, two little-known boutique banks that have helped finance the Trump family&#39;s flurry of crypto deals this year &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251108/p8#a251108p8)<!-- TECH:END -->
+ - [Apple TV outage hits launch of Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/11/08/apple-tv-outage-hits-launch-of-vince-gilligans-pluribus?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

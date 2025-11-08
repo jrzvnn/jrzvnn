@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Why Are We All Still Carrying Around Car Keys?](https://www.wired.com/story/why-are-we-all-still-carrying-around-car-keys/)
+ - [7 Wellness Hacks We Swear By for Surviving Cold and Flu Season](https://www.cnet.com/health/cough-cough-wellness-hacks-swear-by-surviving-cold-flu-season/#ftag=CAD590a51e)
  - [Premier League Soccer: Stream Tottenham vs. Man United, Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-tottenham-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
  - [Controversy Brews: US Government Targets Banning Top Wi-Fi Router](https://www.cnet.com/tech/services-and-software/controversy-brews-us-government-targets-banning-top-wi-fi-router/#ftag=CAD590a51e)
- - [An account of working at Cursor for 60 days: a largely in-person culture, few scheduled meetings, aggressive recruiting, heavy internal product testing, more &lpar;Brie Wolfson/Colossus&rpar;](http://www.techmeme.com/251108/p5#a251108p5)
- - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)<!-- TECH:END -->
+ - [An account of working at Cursor for 60 days: a largely in-person culture, few scheduled meetings, aggressive recruiting, heavy internal product testing, more &lpar;Brie Wolfson/Colossus&rpar;](http://www.techmeme.com/251108/p5#a251108p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A 29 year old woman pretended to be a nurse for 7 months. She treated over 4,000 patients and only got caught after she was offered a promotion](http://9gag.com/gag/aVv4BOn)
- - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
- - 💣 [Both beauty and beast](http://9gag.com/gag/awyPe0B)
+ - 😝 [From what I&#39;ve heard this guy told them to make posts on social media promoting Thailand. The `prize` to do so was a private dinner with this guy and more favorable reviews in the this contest. Fatima didn&#39;t comply after consulting her mgt back home. So, this happened.](http://9gag.com/gag/aO8A1jy)
  - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 💣 [Chilli powder plan backfired immediately. What a plot twist](http://9gag.com/gag/adBr2r2)
+ - 😝 [Who puts ketchup on a baked potato anyway](http://9gag.com/gag/azxoQ9j)
  - 👉 [I have an idea](http://9gag.com/gag/aQzB2De)<!-- MEMES:END -->
 
 ---

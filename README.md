@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
  - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 💣 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 😝 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
- - 👉 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)<!-- MEMES:END -->
+ - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 💣 [Shut her down real quick](http://9gag.com/gag/abAKQnb)
+ - 😝 [Weeeelp](http://9gag.com/gag/a1mBw9D)
+ - 👉 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)<!-- MEMES:END -->
 
 ---
 

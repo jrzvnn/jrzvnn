@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [As US schools adopt AI, a look at the growing use of AI-powered monitoring tools like GoGuardian to scan students&#39; chatbot conversations for signs of self-harm &lpar;Janne Knodler/Bloomberg&rpar;](http://www.techmeme.com/251108/p11#a251108p11)
- - [22 of the Best Fitness Gifts You Can Buy in 2025](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)
- - [Chinese robotaxi companies&#39; tech and rider experience are generally similar to Waymo&#39;s, as they build businesses at home while also expanding internationally &lpar;Peter Landers/Wall Street Journal&rpar;](http://www.techmeme.com/251108/p10#a251108p10)
- - [Apple&#39;s M4 MacBook Pro falls to $1,299, save $300 with blowout deals](https://appleinsider.com/articles/25/11/08/apples-m4-macbook-pro-falls-to-1299-save-300-with-blowout-deals?utm_source=rss)
- - [Several of Asia&#39;s top tycoons and conglomerates are joining the data center race as tech giants plan $240B in APAC hyperscale expansion over the next five years &lpar;Jonathan Burgos/Forbes&rpar;](http://www.techmeme.com/251108/p9#a251108p9)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 9 #616](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-9-616/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 9, #882](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-9-882/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 9, #1604](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-9-1604/#ftag=CAD590a51e)
+ - [22 of the Best Fitness Gifts You Can Buy in 2025](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

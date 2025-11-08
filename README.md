@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)
- - [LegalZoom Promo Code: Exclusive 10% Off LLC Formations](https://www.wired.com/story/legalzoom-promo-code/)
- - [Nasdaq had its worst 5-day run since April, falling 3% for the week as the combined market value of eight most valuable AI-related stocks fell by about $800B &lpar;Financial Times&rpar;](http://www.techmeme.com/251108/p1#a251108p1)
- - [A US judge declares a mistrial after a jury couldn&#39;t reach a verdict on two brothers charged in 2024 for allegedly stealing $25M in crypto from Ethereum traders &lpar;Bloomberg&rpar;](http://www.techmeme.com/251107/p30#a251107p30)
- - [Google introduces Nested Learning, a new ML approach for continual learning that views models as nested optimization problems to enhance long context processing &lpar;Google Research&rpar;](http://www.techmeme.com/251107/p29#a251107p29)<!-- TECH:END -->
+ - [In DeepSeek&#39;s first public appearance since R1&#39;s success, a senior researcher told a state-run conference he was pessimistic about AI&#39;s impact on humanity &lpar;Reuters&rpar;](http://www.techmeme.com/251108/p4#a251108p4)
+ - [CoinGecko: crypto market cap falls to $3.5T from October&#39;s $4.4T peak, on track to erase its 2025 gains; crypto ETFs had $700M of net outflow over the past week &lpar;Bloomberg&rpar;](http://www.techmeme.com/251108/p3#a251108p3)
+ - [Paramount Plus Coupon Codes and Deals: Up to 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Vast Data, which develops data storage tools, inks a $1.17B AI deal with CoreWeave; Vast Data, valued at $9.1B in 2023, said it reached $200M ARR by Jan. 2025 &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251108/p2#a251108p2)
+ - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

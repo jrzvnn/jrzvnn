@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Trump’s Hatred of EVs Is Making Gas Cars More Expensive](https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/)
- - [Gear News of the Week: Fairphone Lands in the US, and WhatsApp Is Finally on the Apple Watch](https://www.wired.com/story/gear-news-of-the-week-fairphone-lands-in-the-us-and-whatsapp-is-finally-on-the-apple-watch/)
- - [The 42 Best Movies on Netflix, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 42 Best Shows on Netflix, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [Apple Music&#39;s growth may be stymied by the lack of a free tier as a funnel; Midia: on a weekly level, 43% of consumers used Spotify and 16% turned to Apple &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/251108/p6#a251108p6)<!-- TECH:END -->
+ - [The endearing movie that affirms creativity as a human act](https://www.theverge.com/entertainment/816399/peter-hujars-day-ira-sachs-interview)
+ - [Soaring electricity rates fueled Democratic victories — now comes the hard part](https://www.theverge.com/report/816946/electricity-rates-election-democrats)
+ - [X Is Retiring Twitter.com. You Have 2 Days to Update Your Account or Risk Lockout](https://www.cnet.com/news/social-media/x-is-retiring-twitter-com-you-have-2-days-to-update-your-account-or-risk-lockout/#ftag=CAD590a51e)
+ - [The Worst Thing About Coca-Cola&#39;s Holiday Ad Isn&#39;t the AI](https://www.cnet.com/tech/services-and-software/the-worst-thing-about-coca-colas-holiday-ad-isnt-the-ai/#ftag=CAD590a51e)
+ - [Trump’s Hatred of EVs Is Making Gas Cars More Expensive](https://www.wired.com/story/trumps-anti-climate-agenda-is-making-it-more-expensive-to-own-a-car/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

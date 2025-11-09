@@ -166,8 +166,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
  - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
  - 💣 [India number one](http://9gag.com/gag/adBrdzB)
  - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
  - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Still better than no sex](http://9gag.com/gag/a1mBOGR)
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 💣 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 😝 [1990. American escape artist Joseph Burrus buried himself alive, following his role model Harry Houdini. The coffin, dug two meters deep, collapsed after 7 tons of concrete was poured over it.](http://9gag.com/gag/ajPGMLx)
+ - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [There is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.](http://9gag.com/gag/aqyBAZp)
+ - 💣 [India number one](http://9gag.com/gag/adBrdzB)
+ - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
  - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 ---

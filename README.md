@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Gender reveal](http://9gag.com/gag/aGy6oxX)
- - 😝 [I support this](http://9gag.com/gag/aQzBrGq)
- - 💣 [One word to make a woman mad](http://9gag.com/gag/a0ezxZz)
- - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
- - 👉 [Wasnt worth it](http://9gag.com/gag/azxoBVz)<!-- MEMES:END -->
+ - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
+ - 😝 [I remember watching this scene when I was 10 years old and asked mum to do the same dish for me. I&#39;m 61 now and I still love it. Scrambled egg with pork and beans on it. Mum died 30 years ago.](http://9gag.com/gag/aRB9NP2)
+ - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
 
 ---
 

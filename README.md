@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely magical encounter in African wilderness](http://9gag.com/gag/a2v9Gbp)
  - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
+ - 💣 [Absolutely magical encounter in African wilderness](http://9gag.com/gag/a2v9Gbp)
+ - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
  - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 ---

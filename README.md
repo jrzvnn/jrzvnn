@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 😝 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 💣 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
- - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->
+ - 😝 [He really won with silence](http://9gag.com/gag/aW4P99d)
+ - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
+ - 💣 [I support this](http://9gag.com/gag/aQzBrGq)
+ - 😝 [Wasnt worth it](http://9gag.com/gag/azxoBVz)
+ - 👉 [It wasnt worth it](http://9gag.com/gag/a34exR3)<!-- MEMES:END -->
 
 ---
 

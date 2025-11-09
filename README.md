@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China suspends export restrictions for a year on five critical minerals to the US, including gallium and germanium, used to make certain types of semiconductors &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251109/p7#a251109p7)
+ - [6 Best Dyson Vacuums &lpar;2025&rpar;: V15 Detect, Gen5 Detect, Digital Slim](https://www.wired.com/gallery/best-dyson-vacuums/)
+ - [Deck out your tree with ornaments of retro consoles, movie moments, and more](https://www.theverge.com/tech/811614/best-christmas-ornaments-2025)
  - [Apple has big plans for more satellite features in future iPhones](https://appleinsider.com/articles/25/11/09/apple-has-big-plans-for-more-satellite-features-in-future-iphones?utm_source=rss)
- - [An interview with Internet Archive founder Brewster Kahle on copyright lawsuits that threatened to bankrupt the nonprofit, fair use, IA&#39;s future, AI, and more &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251109/p6#a251109p6)
- - [What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool](https://www.wired.com/story/what-is-adobe-firefly/)
- - [65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world](https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic)
- - [Moving Apple Fitness+ over to Health is part of Apple&#39;s 2026 AI plan](https://appleinsider.com/articles/25/11/09/moving-apple-fitness-over-to-health-is-part-of-apples-2026-ai-plan?utm_source=rss)<!-- TECH:END -->
+ - [An interview with Internet Archive founder Brewster Kahle on copyright lawsuits that threatened to bankrupt the nonprofit, fair use, IA&#39;s future, AI, and more &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251109/p6#a251109p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

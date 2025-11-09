@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
+ - 😝 [Still better than no sex](http://9gag.com/gag/a1mBOGR)
  - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
+ - 😝 [I remember watching this scene when I was 10 years old and asked mum to do the same dish for me. I&#39;m 61 now and I still love it. Scrambled egg with pork and beans on it. Mum died 30 years ago.](http://9gag.com/gag/aRB9NP2)
  - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
 
 ---

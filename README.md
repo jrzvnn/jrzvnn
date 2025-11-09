@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [You need to listen to this compilation of ‘80s Spanish ambient and electronic music](https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music)
- - [Zurich-based DeepJudge, which builds customized search indexes for law firms that plug into AI tools like ChatGPT, raised a $41M Series A at a $300M valuation &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251109/p11#a251109p11)
- - [Apple AirPods 4 plunge to $89 best price during early Black Friday sale](https://appleinsider.com/articles/25/11/09/apple-airpods-4-plunge-to-89-best-price-during-early-black-friday-sale?utm_source=rss)
- - [YouTube TV, ESPN, and Disney: the latest on the blackout](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)
- - [The UK is investigating whether ~700 of its Chinese-made Yutong electric buses can be remotely deactivated; Norway found that Yutong can render buses inoperable &lpar;Financial Times&rpar;](http://www.techmeme.com/251109/p10#a251109p10)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 10, #883](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-10-883/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 10, #617](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-10-617/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 10, #1605](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-10-1605/#ftag=CAD590a51e)
+ - [Zurich-based DeepJudge, which builds customized search indexes for law firms that plug into AI tools like ChatGPT, raised a $41M Series A at a $300M valuation &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251109/p11#a251109p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

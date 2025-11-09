@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
- - 😝 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
+ - 😝 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
  - 💣 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 😝 [One word to make a woman mad](http://9gag.com/gag/a0ezxZz)
- - 👉 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)<!-- MEMES:END -->
+ - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 👉 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)<!-- MEMES:END -->
 
 ---
 

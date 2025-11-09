@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Absolutely magical encounter in African wilderness](http://9gag.com/gag/a2v9Gbp)
- - 😝 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
+ - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
+ - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
  - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 👉 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)<!-- MEMES:END -->
+ - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 ---
 

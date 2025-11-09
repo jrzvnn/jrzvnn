@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
- - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 💣 [One word to make a woman mad](http://9gag.com/gag/a0ezxZz)
- - 😝 [Spicy blood?](http://9gag.com/gag/aGy6o10)
- - 👉 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)<!-- MEMES:END -->
+ - 😝 [Gender reveal](http://9gag.com/gag/aGy6oxX)
+ - 😝 [Finally a study I totaly agree with.](http://9gag.com/gag/ayNZzeM)
+ - 💣 [He really won with silence](http://9gag.com/gag/aW4P99d)
+ - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
+ - 👉 [It wasnt worth it](http://9gag.com/gag/a34exR3)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zurich-based DeepJudge, which builds customized search indexes for law firms that plug into AI tools like ChatGPT, raised a $41M Series A at a $300M valuation &lpar;Alicia Park/Forbes&rpar;](http://www.techmeme.com/251109/p11#a251109p11)
  - [Apple AirPods 4 plunge to $89 best price during early Black Friday sale](https://appleinsider.com/articles/25/11/09/apple-airpods-4-plunge-to-89-best-price-during-early-black-friday-sale?utm_source=rss)
  - [YouTube TV, ESPN, and Disney: the latest on the blackout](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)
  - [The UK is investigating whether ~700 of its Chinese-made Yutong electric buses can be remotely deactivated; Norway found that Yutong can render buses inoperable &lpar;Financial Times&rpar;](http://www.techmeme.com/251109/p10#a251109p10)
- - [Arturia&amp;#8217;s KeyStep mk2 MIDI controller is a shortcut to flow state](https://www.theverge.com/tech/817387/arturia-keystep-mk2-midi-controller-generative-sequencing-writers-block)
- - [The demand for cold-storage crypto wallets is soaring, as hardware wallet maker Ledger reports its best year, with &quot;triple-digit millions&quot; in 2025 YTD revenue &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251109/p9#a251109p9)<!-- TECH:END -->
+ - [Arturia&amp;#8217;s KeyStep mk2 MIDI controller is a shortcut to flow state](https://www.theverge.com/tech/817387/arturia-keystep-mk2-midi-controller-generative-sequencing-writers-block)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

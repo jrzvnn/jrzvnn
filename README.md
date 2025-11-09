@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tala Health, which plans to roll out AI agents to help clinicians improve patient care next year, raised a $100M seed led by Sofreh Capital &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251109/p4#a251109p4)
+ - [9 Foods That Are Nature’s Medicine for Headaches](https://www.cnet.com/health/nutrition/foods-natures-medicine-for-headaches/#ftag=CAD590a51e)
  - [The Alpha Arena experiment gave six frontier models $10K each to trade crypto derivatives over two weeks: losses ranged from Qwen3 Max&#39;s $652 to GPT-5&#39;s $5,679 &lpar;Sebastian Pellejero/Reuters&rpar;](http://www.techmeme.com/251109/p3#a251109p3)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 9, #412](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-9-412/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 9](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-9/#ftag=CAD590a51e)
- - [The Hidden Math of Ocean Waves](https://www.wired.com/story/the-hidden-math-of-ocean-waves-crashes-into-view/)<!-- TECH:END -->
+ - [Want Those Pearly Whites to Shine? These Are Best Electric Toothbrushes in 2025](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 9, #412](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-9-412/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

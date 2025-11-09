@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
- - 😝 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
- - 💣 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 😝 [One word to make a woman mad](http://9gag.com/gag/a0ezxZz)
- - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
+ - 😝 [He really won with silence](http://9gag.com/gag/aW4P99d)
+ - 😝 [Finally a study I totaly agree with.](http://9gag.com/gag/ayNZzeM)
+ - 💣 [Gender reveal](http://9gag.com/gag/aGy6oxX)
+ - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
+ - 👉 [If it ever comes out](http://9gag.com/gag/aMVDWZM)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
+ - [The algorithm failed music](https://www.theverge.com/column/815744/music-recommendation-algorithms)
+ - [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home)
  - [Israel-based RAAAM, whose &quot;GCRAM&quot; on-chip memory tech aims to deliver up to 10x power savings relative to high-density SRAM, raised a $17M Series A led by NXP &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251109/p5#a251109p5)
- - [Keep Your Eyes Healthy and Sharp as You Age by Eating These SuperPower Foods](https://www.cnet.com/health/personal-care/best-foods-eye-health-peepers-happy-age/#ftag=CAD590a51e)
- - [I Tested the Acer Aspire 16 AI. It&#39;s Proof That a 16-Inch Laptop Can Be Ultraportable](https://www.cnet.com/tech/computing/i-tested-the-acer-aspire-16-ai-its-proof-that-a-16-inch-laptop-can-be-ultraportable/#ftag=CAD590a51e)
- - [Tired of Wordle? Try These Other Word Games Next](https://www.cnet.com/tech/gaming/tired-of-wordle-try-these-other-word-games-next/#ftag=CAD590a51e)
- - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
+ - [Keep Your Eyes Healthy and Sharp as You Age by Eating These SuperPower Foods](https://www.cnet.com/health/personal-care/best-foods-eye-health-peepers-happy-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

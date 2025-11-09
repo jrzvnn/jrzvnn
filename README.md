@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investment in subsea cable projects is expected to reach $13B between 2025 and 2027, almost 2x the amount invested between 2022 and 2024, driven by AI buildout &lpar;Magdalena Petrova/CNBC&rpar;](http://www.techmeme.com/251108/p12#a251108p12)
  - [As US schools adopt AI, a look at the growing use of AI-powered monitoring tools like GoGuardian to scan students&#39; chatbot conversations for signs of self-harm &lpar;Janne Knodler/Bloomberg&rpar;](http://www.techmeme.com/251108/p11#a251108p11)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 9 #616](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-9-616/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 9, #882](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-9-882/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 9, #1604](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-9-1604/#ftag=CAD590a51e)
- - [22 of the Best Fitness Gifts You Can Buy in 2025](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 9, #1604](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-9-1604/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

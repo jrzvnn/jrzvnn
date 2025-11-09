@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 😝 [There is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.](http://9gag.com/gag/aqyBAZp)
- - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 😝 [This was 2020\u2026 do you remember](http://9gag.com/gag/a87Qnr1)
+ - 😝 [If it ever comes out](http://9gag.com/gag/aMVDWZM)
+ - 💣 [To be completely honest with you I would definitely like to try this](http://9gag.com/gag/azxoDAq)
+ - 😝 [Oh shit](http://9gag.com/gag/a5Qvyno)
+ - 👉 [Bratislava today](http://9gag.com/gag/aPAzdGG)<!-- MEMES:END -->
 
 ---
 

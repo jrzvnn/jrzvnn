@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our 8 Favorite Pizza Ovens: Wood, Gas, Electric, and Grill &lpar;2025&rpar;](https://www.wired.com/gallery/best-backyard-pizza-oven/)
  - [The tale of the Fire Phone, Amazon’s very strange smartphone](https://www.theverge.com/podcast/816739/amazon-fire-phone-version-history)
  - [China suspends export restrictions for a year on five critical minerals to the US, including gallium and germanium, used to make certain types of semiconductors &lpar;Keith Bradsher/New York Times&rpar;](http://www.techmeme.com/251109/p7#a251109p7)
  - [6 Best Dyson Vacuums &lpar;2025&rpar;: V15 Detect, Gen5 Detect, Digital Slim](https://www.wired.com/gallery/best-dyson-vacuums/)
- - [Deck out your tree with ornaments of retro consoles, movie moments, and more](https://www.theverge.com/tech/811614/best-christmas-ornaments-2025)
- - [Apple has big plans for more satellite features in future iPhones](https://appleinsider.com/articles/25/11/09/apple-has-big-plans-for-more-satellite-features-in-future-iphones?utm_source=rss)<!-- TECH:END -->
+ - [Deck out your tree with ornaments of retro consoles, movie moments, and more](https://www.theverge.com/tech/811614/best-christmas-ornaments-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

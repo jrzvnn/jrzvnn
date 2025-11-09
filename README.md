@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Israel-based RAAAM, whose &quot;GCRAM&quot; on-chip memory tech aims to deliver up to 10x power savings relative to high-density SRAM, raised a $17M Series A led by NXP &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251109/p5#a251109p5)
- - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)
- - [What 6 Weeks of Testing an AI Food and Barcode Scanning App Taught Me About My Diet](https://www.cnet.com/health/nutrition/what-6-weeks-testing-ai-food-barcode-scanning-app-taught-me-about-my-diet/#ftag=CAD590a51e)
- - [Tala Health, which plans to roll out AI agents to help clinicians improve patient care next year, raised a $100M seed led by Sofreh Capital &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251109/p4#a251109p4)
- - [NFL Berlin Game: How to Watch Falcons vs. Colts This Morning](https://www.cnet.com/tech/services-and-software/nfl-berlin-game-how-to-watch-falcons-vs-colts-this-morning/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Keep Your Eyes Healthy and Sharp as You Age by Eating These SuperPower Foods](https://www.cnet.com/health/personal-care/best-foods-eye-health-peepers-happy-age/#ftag=CAD590a51e)
+ - [I Tested the Acer Aspire 16 AI. It&#39;s Proof That a 16-Inch Laptop Can Be Ultraportable](https://www.cnet.com/tech/computing/i-tested-the-acer-aspire-16-ai-its-proof-that-a-16-inch-laptop-can-be-ultraportable/#ftag=CAD590a51e)
+ - [Tired of Wordle? Try These Other Word Games Next](https://www.cnet.com/tech/gaming/tired-of-wordle-try-these-other-word-games-next/#ftag=CAD590a51e)
+ - [Best Merino Wool Clothing &lpar;2025&rpar;: Base Layers, Hoodies, Jackets &amp; More](https://www.wired.com/story/best-merino-wool-clothes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

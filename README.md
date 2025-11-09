@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
  - 😝 [Still better than no sex](http://9gag.com/gag/a1mBOGR)
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [I remember watching this scene when I was 10 years old and asked mum to do the same dish for me. I&#39;m 61 now and I still love it. Scrambled egg with pork and beans on it. Mum died 30 years ago.](http://9gag.com/gag/aRB9NP2)
- - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [1990. American escape artist Joseph Burrus buried himself alive, following his role model Harry Houdini. The coffin, dug two meters deep, collapsed after 7 tons of concrete was poured over it.](http://9gag.com/gag/ajPGMLx)
+ - 👉 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)<!-- MEMES:END -->
 
 ---
 

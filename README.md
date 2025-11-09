@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moving Apple Fitness+ over to Health is part of Apple&#39;s 2026 AI plan](https://appleinsider.com/articles/25/11/09/moving-apple-fitness-over-to-health-is-part-of-apples-2026-ai-plan?utm_source=rss)
  - [Apple has big plans for more satellite features in future iPhones](https://appleinsider.com/articles/25/11/09/apple-has-big-plans-for-more-satellite-features-in-future-iphones?utm_source=rss)
  - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
  - [The algorithm failed music](https://www.theverge.com/column/815744/music-recommendation-algorithms)
- - [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home)
- - [Israel-based RAAAM, whose &quot;GCRAM&quot; on-chip memory tech aims to deliver up to 10x power savings relative to high-density SRAM, raised a $17M Series A led by NXP &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251109/p5#a251109p5)<!-- TECH:END -->
+ - [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

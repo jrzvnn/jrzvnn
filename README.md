@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [It wasnt worth it](http://9gag.com/gag/a34exR3)
- - 😝 [It&#39;s always the low quality ones](http://9gag.com/gag/abAKEop)
- - 💣 [Spicy blood?](http://9gag.com/gag/aGy6o10)
- - 😝 [To be completely honest with you I would definitely like to try this](http://9gag.com/gag/azxoDAq)
- - 👉 [If it ever comes out](http://9gag.com/gag/aMVDWZM)<!-- MEMES:END -->
+ - 😝 [Still better than no sex](http://9gag.com/gag/a1mBOGR)
+ - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 💣 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
+ - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
+ - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rivian spins off Mind Robotics as a new stand-alone industrial AI and robotics company; Mind Robotics raised a $115M seed led by Eclipse &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251109/p2#a251109p2)
  - [Swedish investment firm EQT agrees to invest $930M in Douzone Bizon, a South Korea-based provider of ERP and business software to SMBs, for a 37.6% stake &lpar;Atharva Singh/Reuters&rpar;](http://www.techmeme.com/251109/p1#a251109p1)
  - [Investment in subsea cable projects is expected to reach $13B between 2025 and 2027, almost 2x the amount invested between 2022 and 2024, driven by AI buildout &lpar;Magdalena Petrova/CNBC&rpar;](http://www.techmeme.com/251108/p12#a251108p12)
  - [As US schools adopt AI, a look at the growing use of AI-powered monitoring tools like GoGuardian to scan students&#39; chatbot conversations for signs of self-harm &lpar;Janne Knodler/Bloomberg&rpar;](http://www.techmeme.com/251108/p11#a251108p11)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 9 #616](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-9-616/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 9, #882](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-9-882/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 9 #616](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-9-616/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

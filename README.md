@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 💣 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
- - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->
+ - 😝 [Gender reveal](http://9gag.com/gag/aGy6oxX)
+ - 😝 [I support this](http://9gag.com/gag/aQzBrGq)
+ - 💣 [One word to make a woman mad](http://9gag.com/gag/a0ezxZz)
+ - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
+ - 👉 [Wasnt worth it](http://9gag.com/gag/azxoBVz)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Absolutely magical encounter in African wilderness](http://9gag.com/gag/a2v9Gbp)
  - 😝 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
- - 😝 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 💣 [There is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.](http://9gag.com/gag/aqyBAZp)
- - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
- - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 👉 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)<!-- MEMES:END -->
 
 ---
 

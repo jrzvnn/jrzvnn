@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
  - 😝 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 💣 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
  - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 💣 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
+ - 😝 [F**k these mega corps and their use of AI. Leaving this here in case y&#39;all don&#39;t want facebook to train their AI with your data. Hope this helps, and f**k you and see you tomorrow](http://9gag.com/gag/aqyBdpL)
  - 👉 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)<!-- MEMES:END -->
 
 ---

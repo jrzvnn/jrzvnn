@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [I remember watching this scene when I was 10 years old and asked mum to do the same dish for me. I&#39;m 61 now and I still love it. Scrambled egg with pork and beans on it. Mum died 30 years ago.](http://9gag.com/gag/aRB9NP2)
- - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
+ - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
+ - 😝 [It wasnt worth it](http://9gag.com/gag/a34exR3)
+ - 💣 [Spicy blood?](http://9gag.com/gag/aGy6o10)
+ - 😝 [It&#39;s always the low quality ones](http://9gag.com/gag/abAKEop)
+ - 👉 [If it ever comes out](http://9gag.com/gag/aMVDWZM)<!-- MEMES:END -->
 
 ---
 

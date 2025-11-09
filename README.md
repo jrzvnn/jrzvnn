@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cleveland Guardians&amp;#8217; pitchers indicted for rigging online bets](https://www.theverge.com/news/817425/cleveland-guardians-pitchers-indicted-for-rigging-online-bets)
  - [Procurement Sciences, whose AI software helps its customers find and build proposals for government contracts, raised a $30M Series B led by Catalyst Investors &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251109/p12#a251109p12)
  - [You need to listen to this compilation of ‘80s Spanish ambient and electronic music](https://www.theverge.com/column/817417/la-ola-interior-compilation-80s-spanish-ambient-and-electronic-music)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 10, #883](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-10-883/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 10, #617](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-10-617/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 10, #1605](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-10-1605/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 10, #617](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-10-617/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

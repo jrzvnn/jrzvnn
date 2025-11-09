@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
- - 💣 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
- - 😝 [Thank you NHS](http://9gag.com/gag/ary9dBd)
- - 👉 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)<!-- MEMES:END -->
+ - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
+ - 😝 [20 years ago today, the greatest cast of all time was assembled](http://9gag.com/gag/adBrb3M)
+ - 💣 [One word to make a woman mad](http://9gag.com/gag/a0ezxZz)
+ - 😝 [Yeah bro](http://9gag.com/gag/aND8q3A)
+ - 👉 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AirPods 4 plunge to $89 best price during early Black Friday sale](https://appleinsider.com/articles/25/11/09/apple-airpods-4-plunge-to-89-best-price-during-early-black-friday-sale?utm_source=rss)
  - [YouTube TV, ESPN, and Disney: the latest on the blackout](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)
  - [The UK is investigating whether ~700 of its Chinese-made Yutong electric buses can be remotely deactivated; Norway found that Yutong can render buses inoperable &lpar;Financial Times&rpar;](http://www.techmeme.com/251109/p10#a251109p10)
  - [Arturia&amp;#8217;s KeyStep mk2 MIDI controller is a shortcut to flow state](https://www.theverge.com/tech/817387/arturia-keystep-mk2-midi-controller-generative-sequencing-writers-block)
- - [The demand for cold-storage crypto wallets is soaring, as hardware wallet maker Ledger reports its best year, with &quot;triple-digit millions&quot; in 2025 YTD revenue &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251109/p9#a251109p9)
- - [Apple TV outage hits launch of Vince Gilligan&#39;s &#39;Pluribus&#39;](https://appleinsider.com/articles/25/11/08/apple-tv-outage-hits-launch-of-vince-gilligans-pluribus?utm_source=rss)<!-- TECH:END -->
+ - [The demand for cold-storage crypto wallets is soaring, as hardware wallet maker Ledger reports its best year, with &quot;triple-digit millions&quot; in 2025 YTD revenue &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251109/p9#a251109p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

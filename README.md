@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dear lady, I have news for you...](http://9gag.com/gag/ayNZvRp)
- - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
- - 💣 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 👉 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)<!-- MEMES:END -->
+ - 😝 [Still better than no sex](http://9gag.com/gag/a1mBOGR)
+ - 😝 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
+ - 💣 [Merry xmass](http://9gag.com/gag/a7oPn3r)
+ - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
+ - 👉 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)<!-- MEMES:END -->
 
 ---
 

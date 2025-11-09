@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [There is a mutation that causes bones to become 8 times denser than normal that allow people to walk away from car accidents without a single fracture but with a trade off of being unable to swim.](http://9gag.com/gag/aqyBAZp)
- - 😝 [She truly cannot fathom anyone disagreeing with her.](http://9gag.com/gag/amoKpDd)
- - 💣 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
- - 😝 [Merry xmass](http://9gag.com/gag/a7oPn3r)
- - 👉 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)<!-- MEMES:END -->
+ - 😝 [YOU&#39;RE NOT APOLOGIZING?!?!](http://9gag.com/gag/an78Gqn)
+ - 😝 [British veterans break down live on TV over the state of the country: `Rows and rows of white tombs for what? A country of today? No, I&#39;m sorry. The sacrifice wasn&#39;t worth the result. I fought for freedom, and it&#39;s darn-sight worse now than when I fought.`](http://9gag.com/gag/avy4mgW)
+ - 💣 [When cornered with a stupid trap question Sydney delivery this awesome based answer, white guilt is over.](http://9gag.com/gag/ajPGRyx)
+ - 😝 [Thank you NHS](http://9gag.com/gag/ary9dBd)
+ - 👉 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)<!-- MEMES:END -->
 
 ---
 

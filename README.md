@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moving Apple Fitness+ over to Health is part of Apple&#39;s 2026 AI plan](https://appleinsider.com/articles/25/11/09/moving-apple-fitness-over-to-health-is-part-of-apples-2026-ai-plan?utm_source=rss)
  - [Apple has big plans for more satellite features in future iPhones](https://appleinsider.com/articles/25/11/09/apple-has-big-plans-for-more-satellite-features-in-future-iphones?utm_source=rss)
- - [The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?](https://www.wired.com/gallery/best-kindle/)
- - [The algorithm failed music](https://www.theverge.com/column/815744/music-recommendation-algorithms)
- - [Ikea just took over your smart home](https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home)<!-- TECH:END -->
+ - [An interview with Internet Archive founder Brewster Kahle on copyright lawsuits that threatened to bankrupt the nonprofit, fair use, IA&#39;s future, AI, and more &lpar;Ashley Belanger/Ars Technica&rpar;](http://www.techmeme.com/251109/p6#a251109p6)
+ - [What Is Adobe Firefly? Here’s How to Use This Powerful Generative AI Tool](https://www.wired.com/story/what-is-adobe-firefly/)
+ - [65daysofstatic’s new No Man’s Sky album searches for humanity in an AI-filled world](https://www.theverge.com/report/816427/no-mans-sky-album-journeys-65daysofstatic)
+ - [Moving Apple Fitness+ over to Health is part of Apple&#39;s 2026 AI plan](https://appleinsider.com/articles/25/11/09/moving-apple-fitness-over-to-health-is-part-of-apples-2026-ai-plan?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

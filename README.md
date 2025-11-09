@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [`I want to give you the opportunity to talk about it` Translation: `I want to give you the opportunity to apologize for your jeans ad`](http://9gag.com/gag/a1mBOzR)
  - 😝 [It wasnt worth it](http://9gag.com/gag/a34exR3)
- - 💣 [Spicy blood?](http://9gag.com/gag/aGy6o10)
- - 😝 [It&#39;s always the low quality ones](http://9gag.com/gag/abAKEop)
+ - 💣 [It&#39;s always the low quality ones](http://9gag.com/gag/abAKEop)
+ - 😝 [Spicy blood?](http://9gag.com/gag/aGy6o10)
  - 👉 [If it ever comes out](http://9gag.com/gag/aMVDWZM)<!-- MEMES:END -->
 
 ---

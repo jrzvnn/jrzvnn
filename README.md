@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)
  - [The EPA Is in Chaos](https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/)
+ - [YouTube TV Starts Giving $20 Credits for Extended ESPN and ABC Outage](https://www.cnet.com/tech/services-and-software/as-disneys-youtube-tv-outage-drags-on-viewers-have-few-options-for-football/#ftag=CAD590a51e)
  - [The First Radio Signal From Comet 3I/Atlas Ends the Debate About Its Nature](https://www.wired.com/story/the-first-radio-signal-from-comet-3i-atlas-ends-debate-about-its-nature/)
- - [Sir Tim Berners-Lee doesn’t think AI will destroy the web](https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview)
- - [Let’s talk about Pluribus](https://www.theverge.com/entertainment/816546/pluribus-apple-tv-book-club-discussion)<!-- TECH:END -->
+ - [Amazon Music Launches New Beta Feature &#39;Fan Groups&#39; in Canada](https://www.cnet.com/tech/services-and-software/amazon-music-launches-new-beta-feature-fan-groups-in-canada/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

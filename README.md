@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CoreWeave reports Q3 revenue up 134% YoY to $1.36B, vs. $1.29B est., and a net loss of $110M, down from $360M a year ago; CRWV is up 164% since its March IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251110/p31#a251110p31)
+ - [Paramount Plus is getting a price hike in early 2026](https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026)
+ - [Nintendo&amp;#8217;s upcoming Black Friday sale includes up to $30 off Switch classics](https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale)
  - [eToro reports Q3 net contribution up 28% YoY to $215M, vs. $208M est., adjusted EBITDA up 43% to $78M, and announces a $150M share buyback; ETOR closed up 8% &lpar;CoinDesk&rpar;](http://www.techmeme.com/251110/p30#a251110p30)
- - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Meta plans to discontinue its Like and Share buttons for external websites in February 2026 as their usage &quot;naturally declined as the digital landscape evolved&quot; &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/251110/p29#a251110p29)
- - [Wikipedia Asks AI Companies to Stop Scraping Data and to Start Paying Up](https://www.cnet.com/tech/services-and-software/wikipedia-asks-ai-companies-to-stop-scraping-data-and-to-start-paying-up/#ftag=CAD590a51e)
- - [Early Black Friday Deals Are Rolling In: 50+ Sweet Discounts on AirPods, TVs and More](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

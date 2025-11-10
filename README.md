@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 💣 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
- - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
+ - 😝 [Bratislava today](http://9gag.com/gag/aPAzdGG)
+ - 😝 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
+ - 💣 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
+ - 😝 [Removing wasps nests with drone-mounted flamethrower](http://9gag.com/gag/azxoo5b)
+ - 👉 [That&#39;s a bit silly](http://9gag.com/gag/an78WYE)<!-- MEMES:END -->
 
 ---
 

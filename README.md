@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple is delaying the release of the next version of the iPhone Air, originally planned for fall 2026, after the first model sold below expectations &lpar;The Information&rpar;](http://www.techmeme.com/251110/p25#a251110p25)
+ - [Your iRobot vacuum is in danger as the company bleeds out](https://appleinsider.com/articles/25/11/10/your-irobot-vacuum-is-in-danger-as-the-company-bleeds-out?utm_source=rss)
  - [This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130](https://www.wired.com/story/jbl-charge-6-deal-1125/)
  - [Apple’s AirPods 4 just hit their lowest price yet at $85](https://www.theverge.com/tech/817656/apple-airpods-4-early-black-friday-deal-sale)
- - [Sources: the European Commission is exploring ways to force EU member states to phase out Chinese telecom equipment makers Huawei and ZTE from their networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251110/p24#a251110p24)
- - [iPod changed the world in 2001 -- before being killed by the iPhone](https://appleinsider.com/articles/25/11/10/ipod-changed-the-world-in-2001----before-being-killed-by-the-iphone?utm_source=rss)
- - [Netflix might make its own video podcasts](https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor)<!-- TECH:END -->
+ - [The 20 Best Advent Calendars for Christmas 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 👉 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)<!-- MEMES:END -->
+ - 😝 [If it ever comes out](http://9gag.com/gag/aMVDWZM)
+ - 😝 [This was 2020\u2026 do you remember](http://9gag.com/gag/a87Qnr1)
+ - 💣 [Oh shit](http://9gag.com/gag/a5Qvyno)
+ - 😝 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
+ - 👉 [Bratislava today](http://9gag.com/gag/aPAzdGG)<!-- MEMES:END -->
 
 ---
 

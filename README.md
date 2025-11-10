@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A YouGov survey estimates 9% of UK adults, or 4.7M people, watched sports via illegal streams in the six months to October, about 200K people more than in 2023 &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251110/p4#a251110p4)
+ - [The 13 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)
+ - [In a letter, the SIA urges the USPTO to drop a plan to impose annual patent fees of 1% to 5% based on government-assessed value, replacing the flat-fee model &lpar;Jowi Morales/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/251110/p3#a251110p3)
  - [A profile of Mercor CEO Brendan Foody, who says Mercor is creating a new category of work; Mercor hit $500M ARR in September and pays contractors $1.5M daily &lpar;Rya Jetha/The San Francisco Standard&rpar;](http://www.techmeme.com/251110/p2#a251110p2)
- - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)
- - [Apple Pulls China’s Top Gay Dating Apps After Government Order](https://www.wired.com/story/apple-removes-gay-dating-apps-china-app-store/)
- - [Draft documents show the European Commission plans to relax some privacy laws, including the GDPR, to boost AI growth and cut red tape for businesses in Europe &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/251109/p17#a251109p17)
- - [EchoTik: TikTok Shop sold an estimated $19B worth of products globally in Q3, nearing eBay&#39;s $20.1B, with US sales accounting for $4B to $4.5B, up 125% QoQ &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251109/p16#a251109p16)<!-- TECH:END -->
+ - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

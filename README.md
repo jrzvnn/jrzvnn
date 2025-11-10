@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blue Origin scrubs second New Glenn launch](https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed)
+ - [Amazon&#39;s House of David season two included 350 to 400 AI-generated shots, up from 70+ in S1, using 10 to 15 tools from companies like Runway, drawing criticism &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251110/p11#a251110p11)
+ - [Amazon expands its low-cost Haul service to 25 countries and regions globally, rebrands it as Amazon Bazaar in some markets, and plans a two-day sales event &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251110/p10#a251110p10)
  - [ABI: UK insurers paid out £197M+ in cyber claims in 2024, up from £60M in 2023; malware and ransomware-related claims were 51% of the total, up from 32% in 2023 &lpar;Lee Harris/Financial Times&rpar;](http://www.techmeme.com/251110/p9#a251110p9)
- - [Under-display selfie camera and Face ID pushed back to 2027](https://appleinsider.com/articles/25/11/10/under-display-face-id-pushed-back-to-2027?utm_source=rss)
- - [A group of US lawyers document 509 cases of AI misuse in legal filings so far in 2025, including fabricated citations; judges and bar associations permit AI use &lpar;Evan Gorelick/New York Times&rpar;](http://www.techmeme.com/251110/p8#a251110p8)
- - [TSMC reports a 16.9% rise in October sales, the slowest pace since February 2024, highlighting uncertainty over the AI boom&#39;s sustainability; TSMC is up 37% YTD &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/251110/p7#a251110p7)
- - [The Mysterious Math Behind the Brazilian Butt Lift](https://www.wired.com/story/book-excerpt-replaceable-you-mary-roach-butt-implants/)<!-- TECH:END -->
+ - [Under-display selfie camera and Face ID pushed back to 2027](https://appleinsider.com/articles/25/11/10/under-display-face-id-pushed-back-to-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

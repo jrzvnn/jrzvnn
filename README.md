@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rumble agrees to acquire German AI infrastructure company Northern Data in an up to $970M deal, set to close in Q2 2026; both companies are backed by Tether &lpar;Billy Gray/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p6#a251110p6)
+ - [Alex Karp Goes to War](https://www.wired.com/story/alex-karp-goes-to-war-palantir-big-interview/)
  - [Robinhood CEO Vlad Tenev says he aims to give &quot;normal people&quot; exposure to private AI companies via Robinhood Ventures&#39; fund with 5+ &quot;best in class&quot; companies &lpar;Financial Times&rpar;](http://www.techmeme.com/251110/p5#a251110p5)
  - [Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa](https://www.wired.com/story/lice-checks-crafts-and-being-touched-by-strangers-inside-a-roleplaying-asmr-spa/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 10, #883](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-10-883/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 10, #617](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-10-617/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 10, #1605](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-10-1605/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 10, #883](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-10-883/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

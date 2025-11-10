@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)
+ - [The EPA Is in Chaos](https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/)
  - [The First Radio Signal From Comet 3I/Atlas Ends the Debate About Its Nature](https://www.wired.com/story/the-first-radio-signal-from-comet-3i-atlas-ends-debate-about-its-nature/)
  - [Sir Tim Berners-Lee doesn’t think AI will destroy the web](https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview)
- - [Let’s talk about Pluribus](https://www.theverge.com/entertainment/816546/pluribus-apple-tv-book-club-discussion)
- - [CNN’s app is adding a ‘Shorts’ feed for bite-size videos](https://www.theverge.com/news/816638/cnn-app-shorts-feed-videos-launch)
- - [Majestic Labs, which makes patent-pending server architecture that promises 1,000x more memory capacity, raised $100M, including a $71M Series A led by Bow Wave &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251110/p20#a251110p20)<!-- TECH:END -->
+ - [Let’s talk about Pluribus](https://www.theverge.com/entertainment/816546/pluribus-apple-tv-book-club-discussion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

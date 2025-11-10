@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [1990. American escape artist Joseph Burrus buried himself alive, following his role model Harry Houdini. The coffin, dug two meters deep, collapsed after 7 tons of concrete was poured over it.](http://9gag.com/gag/ajPGMLx)
  - 😝 [Worst memory](http://9gag.com/gag/a5QvyVE)
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
- - 👉 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)<!-- MEMES:END -->
+ - 💣 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 👉 [From the archives](http://9gag.com/gag/apRzz9p)<!-- MEMES:END -->
 
 ---
 

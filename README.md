@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
  - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 💣 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
- - 😝 [When your kids interrupt you on a live interview.](http://9gag.com/gag/aMVDNDP)
- - 👉 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)<!-- MEMES:END -->
+ - 💣 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [Banana for scale](http://9gag.com/gag/an78W6b)
+ - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
 
 ---
 

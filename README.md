@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An annual Walmart Plus membership is half off right now](https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale)
  - [Neros, which makes low-cost, military FPV drones in the US, raised $75M led by Sequoia, bringing its total funding to $121M, and won a US Army contract &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/251110/p27#a251110p27)
  - [Bakkt reports Q3 revenue up 27% YoY to $402.2M and a $23.2M net loss, driven by an accounting charge tied to warrants issued to its investors; BKKT drops 9%+ &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251110/p26#a251110p26)
  - [iPhone Air 2 won&#39;t be out in 2026, claims questionable report](https://appleinsider.com/articles/25/11/10/iphone-air-2-wont-be-out-in-2026-claims-questionable-report?utm_source=rss)
- - [Google says its confusing Gemini Home rollout is going just great](https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great)
- - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)<!-- TECH:END -->
+ - [Google says its confusing Gemini Home rollout is going just great](https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

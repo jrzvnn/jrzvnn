@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
  - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
  - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [364.21284985](http://9gag.com/gag/aZZooQX)
+ - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
  - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
 
 ---

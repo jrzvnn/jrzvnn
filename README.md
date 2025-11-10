@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday](https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale)
+ - [Samsung Galaxy S26 Plus reappears in renders with a new camera island](https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island)
  - [Canada-based CoLab, which makes collaboration software for manufacturers, raised a $72M Series C led by Intrepid Growth Partners &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251110/p21#a251110p21)
  - [Ikea&#39;s new Matter lineup, smart home maintenance and more on HomeKit Insider](https://appleinsider.com/articles/25/11/10/ikeas-new-matter-lineup-smart-home-maintenance-and-more-on-homekit-insider?utm_source=rss)
- - [Sora Is the No. 1 Free App on the Google Play Store: Your Guide to the AI Video App](https://www.cnet.com/tech/services-and-software/sora-is-the-no-1-free-app-on-the-google-play-store-your-guide-to-the-ai-video-app/#ftag=CAD590a51e)
- - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)
- - [The EPA Is in Chaos](https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/)<!-- TECH:END -->
+ - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

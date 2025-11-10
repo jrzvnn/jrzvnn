@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
+ - 😝 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
  - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
+ - 💣 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
  - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
  - 👉 [India number one](http://9gag.com/gag/adBrdzB)<!-- MEMES:END -->
 

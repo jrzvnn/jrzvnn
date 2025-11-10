@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [He tried his best](http://9gag.com/gag/a34ee23)
  - 😝 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
+ - 💣 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
  - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
 
 ---

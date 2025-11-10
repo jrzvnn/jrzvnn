@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bratislava today](http://9gag.com/gag/aPAzdGG)
  - 😝 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
- - 💣 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
- - 😝 [Removing wasps nests with drone-mounted flamethrower](http://9gag.com/gag/azxoo5b)
- - 👉 [That&#39;s a bit silly](http://9gag.com/gag/an78WYE)<!-- MEMES:END -->
+ - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
+ - 💣 [That&#39;s a bit silly](http://9gag.com/gag/an78WYE)
+ - 😝 [I remember watching this scene when I was 10 years old and asked mum to do the same dish for me. I&#39;m 61 now and I still love it. Scrambled egg with pork and beans on it. Mum died 30 years ago.](http://9gag.com/gag/aRB9NP2)
+ - 👉 [Married Life Summed Up ?](http://9gag.com/gag/amoKKW9)<!-- MEMES:END -->
 
 ---
 

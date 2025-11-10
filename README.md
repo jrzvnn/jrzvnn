@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
  - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
- - 💣 [He tried his best](http://9gag.com/gag/a34ee23)
- - 😝 [Me want cuddles too.](http://9gag.com/gag/a4Pmmgd)
- - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
+ - 💣 [Win stupid prizes](http://9gag.com/gag/an78WKo)
+ - 😝 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
+ - 👉 [He tried his best](http://9gag.com/gag/a34ee23)<!-- MEMES:END -->
 
 ---
 

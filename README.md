@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Robinhood CEO Vlad Tenev says he aims to give &quot;normal people&quot; exposure to private AI companies via Robinhood Ventures&#39; fund with 5+ &quot;best in class&quot; companies &lpar;Financial Times&rpar;](http://www.techmeme.com/251110/p5#a251110p5)
  - [Lice Checks, Crafts, and Being Touched by Strangers: Inside a Role-Playing ASMR Spa](https://www.wired.com/story/lice-checks-crafts-and-being-touched-by-strangers-inside-a-roleplaying-asmr-spa/)
- - [Amazon’s ‘House of David’ Used Over 350 AI Shots in Season 2. Its Creator Isn’t Sorry](https://www.wired.com/story/amazons-house-of-david-used-over-350-ai-shots-in-season-2-its-creator-isnt-sorry/)
- - [A YouGov survey estimates 9% of UK adults, or 4.7M people, watched sports via illegal streams in the six months to October, about 200K people more than in 2023 &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251110/p4#a251110p4)
- - [The 13 Best Sexy Gifts for Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/best-sexy-gift/)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 10, #883](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-10-883/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 10, #617](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-10-617/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 10, #1605](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-10-1605/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

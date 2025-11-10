@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saturn, visible with a telescope in daylight. 2022](http://9gag.com/gag/ary997d)
- - 😝 [`wE bUiLt ThIs CiTy`](http://9gag.com/gag/ae9yyPO)
- - 💣 [Removing wasps nests with drone-mounted flamethrower](http://9gag.com/gag/azxoo5b)
- - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
+ - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
+ - 👉 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)<!-- MEMES:END -->
 
 ---
 

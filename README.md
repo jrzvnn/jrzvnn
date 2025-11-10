@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Homepod mini marked as &#39;out of stock&#39; and &#39;discontinued&#39; yet again](https://appleinsider.com/articles/25/11/10/homepod-mini-marked-as-out-of-stock-and-discontinued-yet-again?utm_source=rss)
+ - [Meta introduces Omnilingual Automatic Speech Recognition, a suite of AI models providing automatic speech recognition capabilities for more than 1,600 languages &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251110/p34#a251110p34)
  - [Sachin Katti, Intel&#39;s CTO and AI officer, says he is leaving the company to join OpenAI; Intel says CEO Lip-Bu Tan will take over its AI efforts &lpar;CRN&rpar;](http://www.techmeme.com/251110/p33#a251110p33)
  - [The US Treasury and IRS issue guidance allowing crypto products to offer staking rewards under a new safe harbor &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/251110/p32#a251110p32)
- - [iPod changed the world in 2001 -- before being killed by the iPhone](https://appleinsider.com/articles/25/11/10/ipod-changed-the-world-in-2001----before-being-killed-by-the-iphone?utm_source=rss)
- - [Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support)
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
+ - [iPod changed the world in 2001 -- before being killed by the iPhone](https://appleinsider.com/articles/25/11/10/ipod-changed-the-world-in-2001----before-being-killed-by-the-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

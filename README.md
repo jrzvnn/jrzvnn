@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada-based CoLab, which makes collaboration software for manufacturers, raised a $72M Series C led by Intrepid Growth Partners &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251110/p21#a251110p21)
+ - [Ikea&#39;s new Matter lineup, smart home maintenance and more on HomeKit Insider](https://appleinsider.com/articles/25/11/10/ikeas-new-matter-lineup-smart-home-maintenance-and-more-on-homekit-insider?utm_source=rss)
+ - [Sora Is the No. 1 Free App on the Google Play Store: Your Guide to the AI Video App](https://www.cnet.com/tech/services-and-software/sora-is-the-no-1-free-app-on-the-google-play-store-your-guide-to-the-ai-video-app/#ftag=CAD590a51e)
  - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)
- - [The EPA Is in Chaos](https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/)
- - [YouTube TV Starts Giving $20 Credits for Extended ESPN and ABC Outage](https://www.cnet.com/tech/services-and-software/as-disneys-youtube-tv-outage-drags-on-viewers-have-few-options-for-football/#ftag=CAD590a51e)
- - [The First Radio Signal From Comet 3I/Atlas Ends the Debate About Its Nature](https://www.wired.com/story/the-first-radio-signal-from-comet-3i-atlas-ends-debate-about-its-nature/)
- - [Amazon Music Launches New Beta Feature &#39;Fan Groups&#39; in Canada](https://www.cnet.com/tech/services-and-software/amazon-music-launches-new-beta-feature-fan-groups-in-canada/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EPA Is in Chaos](https://www.wired.com/story/environmental-protection-agency-shutdown-chaos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

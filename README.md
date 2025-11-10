@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pyroclastic flow.](http://9gag.com/gag/awyPG6r)
+ - 😝 [Nutty Putty cave in VR](http://9gag.com/gag/aLnVNyW)
  - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
  - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
+ - 😝 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
  - 👉 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)<!-- MEMES:END -->
 
 ---

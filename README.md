@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
  - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
  - 💣 [He tried his best](http://9gag.com/gag/a34ee23)
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
+ - 😝 [Me want cuddles too.](http://9gag.com/gag/a4Pmmgd)
  - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
 
 ---

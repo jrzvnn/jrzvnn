@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini for TV is coming to Google TV Streamer starting today](https://www.theverge.com/news/817831/gemini-for-tv-google-tv-streamer-roll-out)
  - [iPhone Air 2 won&#39;t be out in 2026, claims questionable report](https://appleinsider.com/articles/25/11/10/iphone-air-2-wont-be-out-in-2026-claims-questionable-report?utm_source=rss)
- - [Sources: Apple is delaying the release of the next version of the iPhone Air, originally planned for fall 2026, after the first model sold below expectations &lpar;The Information&rpar;](http://www.techmeme.com/251110/p25#a251110p25)
- - [Your iRobot vacuum is in danger as the company bleeds out](https://appleinsider.com/articles/25/11/10/your-irobot-vacuum-is-in-danger-as-the-company-bleeds-out?utm_source=rss)
- - [This Bluetooth Speaker Is Also a Charging Hub, and It’s Discounted to $130](https://www.wired.com/story/jbl-charge-6-deal-1125/)<!-- TECH:END -->
+ - [Google says its confusing Gemini Home rollout is going just great](https://www.theverge.com/news/817668/google-gemini-home-rollout-is-going-great)
+ - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)
+ - [Gemini for TV is coming to Google TV Streamer starting today](https://www.theverge.com/news/817831/gemini-for-tv-google-tv-streamer-roll-out)
+ - [Sources: Apple is delaying the release of the next version of the iPhone Air, originally planned for fall 2026, after the first model sold below expectations &lpar;The Information&rpar;](http://www.techmeme.com/251110/p25#a251110p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

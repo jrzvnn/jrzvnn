@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Travel and leisure booking service Klook files for a US IPO, and reports a net loss of $141.5M on $407.4M of revenue for the first nine months of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251110/p23#a251110p23)
  - [Patreon is adding tweet-like features and more recommended content](https://www.theverge.com/news/816723/patreon-features-quips-recommendations-collaborative-posts)
  - [Canada-based legaltech company Clio raised a $500M Series G at a $5B valuation, along with $350M in debt, and says it has completed its $1B vLex acquisition &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251110/p22#a251110p22)
  - [iRobot’s revenue has tanked and it’s almost out of cash](https://www.theverge.com/news/817536/irobots-revenue-has-tanked-and-its-almost-out-of-cash)
- - [Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday](https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale)
- - [Samsung Galaxy S26 Plus reappears in renders with a new camera island](https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island)<!-- TECH:END -->
+ - [Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday](https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

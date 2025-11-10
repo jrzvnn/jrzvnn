@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 💣 [Win stupid prizes](http://9gag.com/gag/an78WKo)
+ - 😝 [Worst memory](http://9gag.com/gag/a5QvyVE)
+ - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 💣 [India number one](http://9gag.com/gag/adBrdzB)
  - 😝 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
- - 👉 [He tried his best](http://9gag.com/gag/a34ee23)<!-- MEMES:END -->
+ - 👉 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)<!-- MEMES:END -->
 
 ---
 

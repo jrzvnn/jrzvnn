@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blue Origin scrubs second New Glenn launch](https://www.theverge.com/news/817466/blue-origin-new-glenn-second-launch-scrubbed)
- - [Amazon&#39;s House of David season two included 350 to 400 AI-generated shots, up from 70+ in S1, using 10 to 15 tools from companies like Runway, drawing criticism &lpar;Kat Tenbarge/Wired&rpar;](http://www.techmeme.com/251110/p11#a251110p11)
- - [Amazon expands its low-cost Haul service to 25 countries and regions globally, rebrands it as Amazon Bazaar in some markets, and plans a two-day sales event &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251110/p10#a251110p10)
- - [ABI: UK insurers paid out £197M+ in cyber claims in 2024, up from £60M in 2023; malware and ransomware-related claims were 51% of the total, up from 32% in 2023 &lpar;Lee Harris/Financial Times&rpar;](http://www.techmeme.com/251110/p9#a251110p9)
- - [Under-display selfie camera and Face ID pushed back to 2027](https://appleinsider.com/articles/25/11/10/under-display-face-id-pushed-back-to-2027?utm_source=rss)<!-- TECH:END -->
+ - [Instacart reports Q3 revenue up 10% YoY to $939M, above est., orders up 14% YoY to 83.4M, above 82.9M est., GTV up 10% to $9.1B, and plans a $1.5B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251110/p15#a251110p15)
+ - [Asus ProArt P16 Review: The Fastest Windows Laptop](https://www.wired.com/review/asus-proart-p16-2025/)
+ - [Q&amp;A with Palantir CEO Alex Karp on &quot;the woke left and the woke right&quot;, being patriotic, the Ukraine war, Palantir&#39;s culture, Trump, democracy, Israel, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251110/p14#a251110p14)
+ - [Microsoft recruits popular US influencers to help boost its Copilot chatbot; Sensor Tower says Copilot has 99M downloads since launch, far below ChatGPT&#39;s 1.4B &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251110/p13#a251110p13)
+ - [An interview with Ukrainian cyber-crime kingpin Vyacheslav Penchukov, aka Tank, who was arrested in 2022 after spending ~10 years on the FBI&#39;s Most Wanted list &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/251110/p12#a251110p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

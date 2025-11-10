@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada-based legaltech company Clio raised a $500M Series G at a $5B valuation, along with $350M in debt, and says it has completed its $1B vLex acquisition &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251110/p22#a251110p22)
+ - [iRobot’s revenue has tanked and it’s almost out of cash](https://www.theverge.com/news/817536/irobots-revenue-has-tanked-and-its-almost-out-of-cash)
  - [Bose’s latest QuietComfort Ultra earbuds are $50 off ahead of Black Friday](https://www.theverge.com/tech/817575/bose-quietcomfort-ultra-earbuds-blink-video-doorbell-bundle-deal-sale)
  - [Samsung Galaxy S26 Plus reappears in renders with a new camera island](https://www.theverge.com/news/817615/samsung-galaxy-s26-plus-renders-design-camera-island)
- - [Canada-based CoLab, which makes collaboration software for manufacturers, raised a $72M Series C led by Intrepid Growth Partners &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251110/p21#a251110p21)
- - [Ikea&#39;s new Matter lineup, smart home maintenance and more on HomeKit Insider](https://appleinsider.com/articles/25/11/10/ikeas-new-matter-lineup-smart-home-maintenance-and-more-on-homekit-insider?utm_source=rss)
- - [AirPods 4 fall to record low $84.99 at Amazon before Black Friday](https://appleinsider.com/articles/25/11/10/airpods-4-fall-to-record-low-8499-at-amazon-before-black-friday?utm_source=rss)<!-- TECH:END -->
+ - [Canada-based CoLab, which makes collaboration software for manufacturers, raised a $72M Series C led by Intrepid Growth Partners &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/251110/p21#a251110p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

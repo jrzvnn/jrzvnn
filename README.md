@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
- - 😝 [When US dollars made you forget](http://9gag.com/gag/an78dPn)
- - 💣 [That&#39;s a bit silly](http://9gag.com/gag/an78WYE)
- - 😝 [I remember watching this scene when I was 10 years old and asked mum to do the same dish for me. I&#39;m 61 now and I still love it. Scrambled egg with pork and beans on it. Mum died 30 years ago.](http://9gag.com/gag/aRB9NP2)
- - 👉 [Married Life Summed Up ?](http://9gag.com/gag/amoKKW9)<!-- MEMES:END -->
+ - 😝 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
+ - 😝 [Never Forget...](http://9gag.com/gag/aByjoDD)
+ - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
 
 ---
 

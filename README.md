@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CNN’s app is adding a ‘Shorts’ feed for bite-size videos](https://www.theverge.com/news/816638/cnn-app-shorts-feed-videos-launch)
  - [Majestic Labs, which makes patent-pending server architecture that promises more memory capacity, raised $100M, including a $71M Series A led by Bow Wave &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251110/p20#a251110p20)
  - [Coinbase plans to launch a platform to let individual investors buy digital tokens before they are listed on its exchange, reviving 2017 and 2018&#39;s ICO craze &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p19#a251110p19)
  - [America’s cybersecurity defenses are cracking](https://www.theverge.com/policy/816882/cisa-cybersecurity-elections-infrastructure-shutdown)
- - [Tesla is fighting the EV sales slump with short-term rentals](https://www.theverge.com/news/817477/tesla-direct-short-term-ev-rentals-tax-credit)
- - [Grab plans to invest $60M in remote driving service Vay, potentially rising to $410M within the next year if Vay hits certain milestones, set to close in Q4 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251110/p18#a251110p18)<!-- TECH:END -->
+ - [Tesla is fighting the EV sales slump with short-term rentals](https://www.theverge.com/news/817477/tesla-direct-short-term-ev-rentals-tax-credit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

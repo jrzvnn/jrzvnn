@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [This Halloween costume is next level](http://9gag.com/gag/a2v9G0Z)
- - 😝 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)
- - 💣 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
- - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 😝 [When your kids interrupt you on a live interview.](http://9gag.com/gag/aMVDNDP)
+ - 👉 [I&#39;ll simp myself out](http://9gag.com/gag/apRz8MM)<!-- MEMES:END -->
 
 ---
 

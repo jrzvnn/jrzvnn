@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Mercor CEO Brendan Foody, who says Mercor is creating a new category of work; Mercor hit $500M ARR in September and pays contractors $1.5M daily &lpar;Rya Jetha/The San Francisco Standard&rpar;](http://www.techmeme.com/251110/p2#a251110p2)
  - [Apple removes two of the most popular gay dating apps, Blued and Finka, from its App Store in China, citing orders from the country&#39;s Cyberspace Administration &lpar;Wired&rpar;](http://www.techmeme.com/251110/p1#a251110p1)
  - [Apple Pulls China’s Top Gay Dating Apps After Government Order](https://www.wired.com/story/apple-removes-gay-dating-apps-china-app-store/)
  - [Draft documents show the European Commission plans to relax some privacy laws, including the GDPR, to boost AI growth and cut red tape for businesses in Europe &lpar;Ellen O&#39;Regan/Politico&rpar;](http://www.techmeme.com/251109/p17#a251109p17)
- - [EchoTik: TikTok Shop sold an estimated $19B worth of products globally in Q3, nearing eBay&#39;s $20.1B, with US sales accounting for $4B to $4.5B, up 125% QoQ &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251109/p16#a251109p16)
- - [Financial stress from AI infrastructure spending, overhiring, and recession fears, rather than AI adoption, is likely driving layoffs in the tech sector &lpar;Fast Company&rpar;](http://www.techmeme.com/251109/p15#a251109p15)<!-- TECH:END -->
+ - [EchoTik: TikTok Shop sold an estimated $19B worth of products globally in Q3, nearing eBay&#39;s $20.1B, with US sales accounting for $4B to $4.5B, up 125% QoQ &lpar;Zeyi Yang/Wired&rpar;](http://www.techmeme.com/251109/p16#a251109p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Siri Shortcuts now works with Samsung SmartThings routines](https://www.theverge.com/news/818054/samsung-smartthings-routines-siri-ios-support)
  - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
  - [CoreWeave reports Q3 revenue up 134% YoY to $1.36B, vs. $1.29B est., and a net loss of $110M, down from $360M a year ago; CRWV is up 164% since its March IPO &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251110/p31#a251110p31)
  - [Paramount Plus is getting a price hike in early 2026](https://www.theverge.com/news/818019/paramount-plus-price-increase-us-2026)
- - [Nintendo&amp;#8217;s upcoming Black Friday sale includes up to $30 off Switch classics](https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale)
- - [eToro reports Q3 net contribution up 28% YoY to $215M, vs. $208M est., adjusted EBITDA up 43% to $78M, and announces a $150M share buyback; ETOR closed up 8% &lpar;CoinDesk&rpar;](http://www.techmeme.com/251110/p30#a251110p30)<!-- TECH:END -->
+ - [Nintendo&amp;#8217;s upcoming Black Friday sale includes up to $30 off Switch classics](https://www.theverge.com/gadgets/817944/nintendo-switch-2-black-friday-games-amiibo-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

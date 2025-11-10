@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
- - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
- - 👉 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)<!-- MEMES:END -->
+ - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
+ - 💣 [Win stupid prizes](http://9gag.com/gag/an78WKo)
+ - 😝 [Robert](http://9gag.com/gag/awyP97B)
+ - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 ---
 

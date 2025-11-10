@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [eToro reports Q3 net contribution up 28% YoY to $215M, vs. $208M est., adjusted EBITDA up 43% to $78M, and announces a $150M share buyback; ETOR closed up 8% &lpar;CoinDesk&rpar;](http://www.techmeme.com/251110/p30#a251110p30)
+ - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Meta plans to discontinue its Like and Share buttons for external websites in February 2026 as their usage &quot;naturally declined as the digital landscape evolved&quot; &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/251110/p29#a251110p29)
  - [Sources: C3.ai is exploring options, including a potential sale and raising funds from private investors, after Thomas Siebel stepped down as CEO in July &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251110/p28#a251110p28)
- - [An annual Walmart Plus membership is half off right now](https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale)
- - [Neros, which makes low-cost, military FPV drones in the US, raised $75M led by Sequoia, bringing its total funding to $121M, and won a US Army contract &lpar;Farah Stockman/New York Times&rpar;](http://www.techmeme.com/251110/p27#a251110p27)
- - [Bakkt reports Q3 revenue up 27% YoY to $402.2M and a $23.2M net loss, driven by an accounting charge tied to warrants issued to its investors; BKKT drops 9%+ &lpar;Judy Lagrou/Bloomberg&rpar;](http://www.techmeme.com/251110/p26#a251110p26)
- - [iPhone Air 2 won&#39;t be out in 2026, claims questionable report](https://appleinsider.com/articles/25/11/10/iphone-air-2-wont-be-out-in-2026-claims-questionable-report?utm_source=rss)<!-- TECH:END -->
+ - [An annual Walmart Plus membership is half off right now](https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

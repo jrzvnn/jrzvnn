@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [If it ever comes out](http://9gag.com/gag/aMVDWZM)
  - 😝 [Oh shit](http://9gag.com/gag/a5Qvyno)
- - 💣 [Lol....the way he is shocked you have two flippity flappies](http://9gag.com/gag/a4Pmm4p)
- - 😝 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
- - 👉 [Bratislava today](http://9gag.com/gag/aPAzdGG)<!-- MEMES:END -->
+ - 😝 [Lol....the way he is shocked you have two flippity flappies](http://9gag.com/gag/a4Pmm4p)
+ - 💣 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
+ - 😝 [Bratislava today](http://9gag.com/gag/aPAzdGG)
+ - 👉 [When US dollars made you forget](http://9gag.com/gag/an78dPn)<!-- MEMES:END -->
 
 ---
 

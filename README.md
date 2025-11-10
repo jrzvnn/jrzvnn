@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They treat us as 5 years old kid](http://9gag.com/gag/a2v9jx9)
- - 😝 [Oh shit](http://9gag.com/gag/a5Qvyno)
- - 💣 [Bratislava today](http://9gag.com/gag/aPAzdGG)
- - 😝 [New Mexico officer speaks out after progressive judge dismissed criminal charges against the same man 108 times](http://9gag.com/gag/aByjNbx)
- - 👉 [That&#39;s a bit silly](http://9gag.com/gag/an78WYE)<!-- MEMES:END -->
+ - 😝 [What it&#39;s like using public transportation in western European countries](http://9gag.com/gag/a2v9x7O)
+ - 😝 [I&#39;m starving!](http://9gag.com/gag/aVv4dOP)
+ - 💣 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)
+ - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 👉 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)<!-- MEMES:END -->
 
 ---
 

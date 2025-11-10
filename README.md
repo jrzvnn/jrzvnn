@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The First Radio Signal From Comet 3I/Atlas Ends the Debate About Its Nature](https://www.wired.com/story/the-first-radio-signal-from-comet-3i-atlas-ends-debate-about-its-nature/)
  - [Sir Tim Berners-Lee doesn’t think AI will destroy the web](https://www.theverge.com/podcast/814552/tim-berners-lee-world-wide-web-ai-future-interview)
  - [Let’s talk about Pluribus](https://www.theverge.com/entertainment/816546/pluribus-apple-tv-book-club-discussion)
  - [CNN’s app is adding a ‘Shorts’ feed for bite-size videos](https://www.theverge.com/news/816638/cnn-app-shorts-feed-videos-launch)
- - [Majestic Labs, which makes patent-pending server architecture that promises more memory capacity, raised $100M, including a $71M Series A led by Bow Wave &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251110/p20#a251110p20)
- - [Coinbase plans to launch a platform to let individual investors buy digital tokens before they are listed on its exchange, reviving 2017 and 2018&#39;s ICO craze &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p19#a251110p19)<!-- TECH:END -->
+ - [Majestic Labs, which makes patent-pending server architecture that promises 1,000x more memory capacity, raised $100M, including a $71M Series A led by Bow Wave &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251110/p20#a251110p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

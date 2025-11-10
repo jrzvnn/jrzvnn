@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
  - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
- - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 💣 [He tried his best](http://9gag.com/gag/a34ee23)
  - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
  - 👉 [Meanwhile in Germany. Folks enjoying a Christmas market then some very loud people showed up.](http://9gag.com/gag/abAKdVp)<!-- MEMES:END -->
 

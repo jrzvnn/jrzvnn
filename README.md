@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart reports Q3 revenue up 10% YoY to $939M, above est., orders up 14% YoY to 83.4M, above 82.9M est., GTV up 10% to $9.1B, and plans a $1.5B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251110/p15#a251110p15)
- - [Asus ProArt P16 Review: The Fastest Windows Laptop](https://www.wired.com/review/asus-proart-p16-2025/)
- - [Q&amp;A with Palantir CEO Alex Karp on &quot;the woke left and the woke right&quot;, being patriotic, the Ukraine war, Palantir&#39;s culture, Trump, democracy, Israel, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251110/p14#a251110p14)
- - [Microsoft recruits popular US influencers to help boost its Copilot chatbot; Sensor Tower says Copilot has 99M downloads since launch, far below ChatGPT&#39;s 1.4B &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251110/p13#a251110p13)
- - [An interview with Ukrainian cyber-crime kingpin Vyacheslav Penchukov, aka Tank, who was arrested in 2022 after spending ~10 years on the FBI&#39;s Most Wanted list &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/251110/p12#a251110p12)<!-- TECH:END -->
+ - [Tesla is fighting the EV sales slump with short-term rentals](https://www.theverge.com/news/817477/tesla-direct-short-term-ev-rentals-tax-credit)
+ - [Grab plans to invest $60M in remote driving service Vay, potentially rising to $410M within the next year if Vay hits certain milestones, set to close in Q4 &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251110/p18#a251110p18)
+ - [Scribe, which helps enterprises identify where AI and automation investments will yield genuine returns, raised a $75M Series C at a $1.3B post-money valuation &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251110/p17#a251110p17)
+ - [Gamma, which uses AI to help create presentations, social media posts, websites, and more, raised $68M at a $2.1B valuation and reports 600K+ paying users &lpar;Niko Gallogly/New York Times&rpar;](http://www.techmeme.com/251110/p16#a251110p16)
+ - [Instacart reports Q3 revenue up 10% YoY to $939M, above est., orders up 14% YoY to 83.4M, above 82.9M est., GTV up 10% to $9.1B, and plans a $1.5B share buyback &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251110/p15#a251110p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

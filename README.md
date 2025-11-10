@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If the US Has to Build Data Centers, Here’s Where They Should Go](https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/)
- - [Travel and leisure booking service Klook files for a US IPO, and reports a net loss of $141.5M on $407.4M of revenue for the first nine months of 2025 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251110/p23#a251110p23)
- - [Patreon is adding tweet-like features and more recommended content](https://www.theverge.com/news/816723/patreon-features-quips-recommendations-collaborative-posts)
- - [Does Putting AirPods Max in a Freezer Actually Fix Them?](https://www.cnet.com/tech/mobile/does-putting-airpods-max-in-a-freezer-actually-fix-them/#ftag=CAD590a51e)
- - [Canada-based legaltech company Clio raised a $500M Series G at a $5B valuation, along with $350M in debt, and says it has completed its $1B vLex acquisition &lpar;Josh Scott/BetaKit&rpar;](http://www.techmeme.com/251110/p22#a251110p22)<!-- TECH:END -->
+ - [Sources: the European Commission is exploring ways to force EU member states to phase out Chinese telecom equipment makers Huawei and ZTE from their networks &lpar;Bloomberg&rpar;](http://www.techmeme.com/251110/p24#a251110p24)
+ - [iPod changed the world in 2001 -- before being killed by the iPhone](https://appleinsider.com/articles/25/11/10/ipod-changed-the-world-in-2001----before-being-killed-by-the-iphone?utm_source=rss)
+ - [Netflix might make its own video podcasts](https://www.theverge.com/news/817675/netflix-exclusive-original-podcasts-rumor)
+ - [Why I love my OXO kitchen scale](https://www.theverge.com/tech/812853/oxo-kitchen-scale-favorites)
+ - [If the US Has to Build Data Centers, Here’s Where They Should Go](https://www.wired.com/story/heres-where-to-build-data-centers-to-keep-emissions-down/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

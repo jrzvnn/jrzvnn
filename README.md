@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [eToro reports Q3 net contribution up 28% YoY to $215M, vs. $208M est., adjusted EBITDA up 43% to $78M, and announces a $150M share buyback; ETOR closed up 8% &lpar;CoinDesk&rpar;](http://www.techmeme.com/251110/p30#a251110p30)
  - [The best doorbell cameras](https://www.theverge.com/22954554/best-video-doorbell-camera)
  - [Meta plans to discontinue its Like and Share buttons for external websites in February 2026 as their usage &quot;naturally declined as the digital landscape evolved&quot; &lpar;Anna Washenko/Engadget&rpar;](http://www.techmeme.com/251110/p29#a251110p29)
- - [Sources: C3.ai is exploring options, including a potential sale and raising funds from private investors, after Thomas Siebel stepped down as CEO in July &lpar;Milana Vinn/Reuters&rpar;](http://www.techmeme.com/251110/p28#a251110p28)
- - [An annual Walmart Plus membership is half off right now](https://www.theverge.com/gadgets/817799/walmart-plus-50-percent-off-fall-deal-sale)<!-- TECH:END -->
+ - [Wikipedia Asks AI Companies to Stop Scraping Data and to Start Paying Up](https://www.cnet.com/tech/services-and-software/wikipedia-asks-ai-companies-to-stop-scraping-data-and-to-start-paying-up/#ftag=CAD590a51e)
+ - [Early Black Friday Deals Are Rolling In: 50+ Sweet Discounts on AirPods, TVs and More](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

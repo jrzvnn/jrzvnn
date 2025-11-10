@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nutty Putty cave in VR](http://9gag.com/gag/aLnVNyW)
- - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
- - 💣 [India number one](http://9gag.com/gag/adBrdzB)
- - 😝 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
+ - 😝 [When i told her we gonna eat canned sardines tonight](http://9gag.com/gag/aND8q6b)
+ - 😝 [India number one](http://9gag.com/gag/adBrdzB)
+ - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 😝 [Robert](http://9gag.com/gag/awyP97B)
  - 👉 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)<!-- MEMES:END -->
 
 ---

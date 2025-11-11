@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Q2: revenue up 4.6% YoY to ~$20.3B, net profit up 6.7% to ~$2.02B, says it sold 3.9M PS5 units, and raises annual operating profit forecast 7.5% to ~$9.3B &lpar;Kosaku Narioka/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p37#a251110p37)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-11/#ftag=CAD590a51e)
- - [How Much Unified Memory Do I Need in a Mac?](https://www.cnet.com/tech/computing/how-much-unified-memory-do-i-need-in-a-mac/#ftag=CAD590a51e)
- - [Financial documents show Anthropic expects to break even in 2028, while OpenAI projects ~$74B in operating losses that year before turning a profit in 2030 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p36#a251110p36)
- - [Crypto exchange Gemini reports Q3 revenue up 106% YoY to $50.6M, vs. $46.2M est., net loss of $159.5M, up from $90.2M a year ago; GEMI drops 5%+ after hours &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251110/p35#a251110p35)<!-- TECH:END -->
+ - [Bengaluru-based digital lending startup Finnable raised about $28.19M in August 2025 co-led by Z47 and TVS Capital, bringing its total raised to about $60.9M &lpar;Alenjith K Johny/The Economic Times&rpar;](http://www.techmeme.com/251111/p1#a251111p1)
+ - [B&amp;H Photo Promo Codes and Deals for November 2025](https://www.wired.com/story/bh-photo-coupon/)
+ - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
+ - [OnePlus Promo Code: $100 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

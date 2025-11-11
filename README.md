@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)
  - [CoreWeave closed down 16% after its CEO admitted delays at a data center developer that Jim Cramer implied may be Core Scientific; CORZ closed down 10% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251111/p35#a251111p35)
  - [Apple Invites now lets attendees say how many kids will be at the party](https://appleinsider.com/articles/25/11/11/apple-invites-now-lets-attendees-say-how-many-kids-will-be-at-the-party?utm_source=rss)
  - [Threads adds new features for podcasters, as it tries to become the de facto place for people to talk about shows and engage with creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251111/p34#a251111p34)
- - [Apple&#39;s 1TB M5 MacBook Pro is down to the lowest price ever at Amazon](https://appleinsider.com/articles/25/11/11/apples-1tb-m5-macbook-pro-is-down-to-the-lowest-price-ever-at-amazon?utm_source=rss)
- - [The Nike x Hyperice Hyperboot Is $200 Off](https://www.wired.com/story/nike-hyperboots-deal-1125/)<!-- TECH:END -->
+ - [Apple&#39;s 1TB M5 MacBook Pro is down to the lowest price ever at Amazon](https://appleinsider.com/articles/25/11/11/apples-1tb-m5-macbook-pro-is-down-to-the-lowest-price-ever-at-amazon?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

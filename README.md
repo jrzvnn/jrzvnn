@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investor group and AI developer Voltai plan to use AI to design, build, and run a 3GW data center in South Korea, set to cost up to $35B and open in 2028 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251111/p12#a251111p12)
- - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
- - [Sources: Meta Chief AI Scientist Yann LeCun plans to leave in the coming months to found his own startup; a source says he is in early talks to raise funds &lpar;Financial Times&rpar;](http://www.techmeme.com/251111/p11#a251111p11)
- - [How US-based ACE, led by the MPA, took down illegal sports streamer Streameast, which had 136M global users per month, £4.9M in ad revenue, and £150K in crypto &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251111/p10#a251111p10)
- - [The Former Staffer Calling Out OpenAI’s Erotica Claims](https://www.wired.com/story/the-big-interview-podcast-steven-adler-openai-erotica/)<!-- TECH:END -->
+ - [Tractive Smart Pet Collar: An Inexpensive Way to Keep Tabs on Your Fur Baby](https://www.wired.com/review/tractive-smart-cat-tracker/)
+ - [Oura CEO Tom Hale says the Finnish company expects &quot;maybe close&quot; to $2B in sales in 2026, up from $1B in 2025, and there is &quot;no news on an IPO&quot; &lpar;Tasmin Lockwood/CNBC&rpar;](http://www.techmeme.com/251111/p15#a251111p15)
+ - [&#39;Fallen Astronaut&#39; book snatched up by Apple TV ahead of auction](https://appleinsider.com/articles/25/11/11/fallen-astronaut-book-snatched-up-by-apple-tv-ahead-of-auction?utm_source=rss)
+ - [Sources: the EU plans to designate WhatsApp&#39;s Channels as a Very Large Online Platform under the DSA, meaning it must meet moderation and transparency standards &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/251111/p14#a251111p14)
+ - [Microsoft plans to spend $10B to build a data center in the Portuguese town of Sines in partnership with Portuguese developer Start Campus and UK startup Nscale &lpar;Henrique Almeida/Bloomberg&rpar;](http://www.techmeme.com/251111/p13#a251111p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

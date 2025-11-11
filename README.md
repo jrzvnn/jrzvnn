@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Invites now lets attendees say how many kids will be at the party](https://appleinsider.com/articles/25/11/11/apple-invites-now-lets-attendees-say-how-many-kids-will-be-at-the-party?utm_source=rss)
+ - [Threads adds new features for podcasters, as it tries to become the de facto place for people to talk about shows and engage with creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251111/p34#a251111p34)
  - [Apple&#39;s 1TB M5 MacBook Pro is down to the lowest price ever at Amazon](https://appleinsider.com/articles/25/11/11/apples-1tb-m5-macbook-pro-is-down-to-the-lowest-price-ever-at-amazon?utm_source=rss)
  - [The Nike x Hyperice Hyperboot Is $200 Off](https://www.wired.com/story/nike-hyperboots-deal-1125/)
- - [&#39;Reacher&#39; Fans Can Watch Alan Ritchson in the New Buddy Comedy, &#39;Playdate&#39;](https://www.cnet.com/tech/services-and-software/reacher-fans-can-watch-alan-ritchson-in-the-new-buddy-comedy-playdate/#ftag=CAD590a51e)
- - [Google Might Make NotebookLM&#39;s Video Overviews Even More Customizable](https://www.cnet.com/tech/services-and-software/google-might-make-notebooklms-video-overviews-even-more-customizable/#ftag=CAD590a51e)
- - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)<!-- TECH:END -->
+ - [&#39;Reacher&#39; Fans Can Watch Alan Ritchson in the New Buddy Comedy, &#39;Playdate&#39;](https://www.cnet.com/tech/services-and-software/reacher-fans-can-watch-alan-ritchson-in-the-new-buddy-comedy-playdate/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

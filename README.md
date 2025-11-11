@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - 😝 [Arguing on the internet is like running in the special Olympics, even if you win you are still retarded.](http://9gag.com/gag/a4Pm8Gm)
  - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
  - 💣 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 😝 [Arguing on the internet is like running in the special Olympics, even if you win you are still retarded.](http://9gag.com/gag/a4Pm8Gm)
+ - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
  - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
 
 ---

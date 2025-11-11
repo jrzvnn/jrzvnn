@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst memory](http://9gag.com/gag/a5QvyVE)
+ - 😝 [Yup](http://9gag.com/gag/agm6ZOx)
  - 😝 [Perfect skirt length indeed](http://9gag.com/gag/a34ex61)
  - 💣 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [Choose your fighter in game development philosophy](http://9gag.com/gag/aByjb2N)
+ - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
  - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
 
 ---

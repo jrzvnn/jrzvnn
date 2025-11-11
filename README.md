@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)
- - [Snapchat is letting subscribers revive their 2D Bitmojis](https://www.theverge.com/news/818382/snapchat-bitmoji-comic-style-2d-avatar)
- - [iPhone 18 Pro may lose the two-tone look in 2026](https://appleinsider.com/articles/25/11/11/iphone-18-pro-may-lose-the-two-tone-look-in-2026?utm_source=rss)
- - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)<!-- TECH:END -->
+ - [The iPad Pro at 10: a decade of unrealized potential](https://www.theverge.com/tech/817939/ipad-pro-laptop-computer-2025)
+ - [5 Best Ergonomic Mice &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)
+ - [Wyze’s new scale measures segmented body composition with a retractable handle](https://www.theverge.com/news/817826/wyze-smart-scale-ultra-bodyscan-segmented-body-composition-handle-electrodes)
+ - [Lumines Arise is an almost perfect zen puzzle game](https://www.theverge.com/games/817997/lumines-arise-review-ps5-steam)
+ - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

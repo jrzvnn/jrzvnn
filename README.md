@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
+ - 😝 [Things are going according to plan...](http://9gag.com/gag/aGy6qYw)
+ - 😝 [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)
+ - 💣 [Niceee](http://9gag.com/gag/a4PmB0A)
  - 😝 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)
- - 💣 [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)
- - 😝 [Arguing on the internet is like running in the special Olympics, even if you win you are still retarded.](http://9gag.com/gag/a4Pm8Gm)
- - 👉 [Niceee](http://9gag.com/gag/a4PmB0A)<!-- MEMES:END -->
+ - 👉 [The cat&#39;s face](http://9gag.com/gag/aByjbBN)<!-- MEMES:END -->
 
 ---
 

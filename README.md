@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Permanent Outdoor Lights &lpar;2025&rpar;: Govee, Eufy, Lepro](https://www.wired.com/story/should-you-get-permanent-outdoor-lights/)
+ - [Sources: Meta Chief AI Scientist Yann LeCun plans to leave in the coming months to found his own startup; a source says he is in early talks to raise funds &lpar;Financial Times&rpar;](http://www.techmeme.com/251111/p11#a251111p11)
  - [How US-based ACE, led by the MPA, took down illegal sports streamer Streameast, which had 136M global users per month, £4.9M in ad revenue, and £150K in crypto &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251111/p10#a251111p10)
  - [The Former Staffer Calling Out OpenAI’s Erotica Claims](https://www.wired.com/story/the-big-interview-podcast-steven-adler-openai-erotica/)
- - [Sources: Apple may add a second camera to the next iPhone Air, possibly set for spring 2027 release alongside the iPhone 18 and 18e, to address user complaints &lpar;The Information&rpar;](http://www.techmeme.com/251111/p9#a251111p9)
- - [How China ramped up its AI development since early 2024 to catch the US, including relaxed regulations, huge government funding, and a focus on domestic chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251111/p8#a251111p8)
- - [Asahi says shipment levels are at just 10% of normal after a cyberattack in early October, and it is processing orders manually, ahead of a busy December period &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p7#a251111p7)<!-- TECH:END -->
+ - [Sources: Apple may add a second camera to the next iPhone Air, possibly set for spring 2027 release alongside the iPhone 18 and 18e, to address user complaints &lpar;The Information&rpar;](http://www.techmeme.com/251111/p9#a251111p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

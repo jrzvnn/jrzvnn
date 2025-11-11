@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Daddy](http://9gag.com/gag/aMVDNQA)
  - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 😝 [Obey the Omnissiah](http://9gag.com/gag/aLnVO8z)
+ - 😝 [Daddy](http://9gag.com/gag/aMVDNQA)
+ - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
  - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 ---

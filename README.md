@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says ads on Prime Video reach 315M viewers across its series and films, live sports and events, and free, ad-supported live channels &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/251111/p27#a251111p27)
  - [Apple could make game controller that magnetically attaches to iPhone](https://appleinsider.com/articles/22/03/31/apple-could-make-game-controller-that-magnetically-attaches-to-iphone?utm_source=rss)
  - [This DOGE Whistleblower Is Running for Office](https://www.wired.com/story/doge-whistleblower-chuck-borges-running-for-political-office/)
  - [The 30 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [The LG G5 takes OLED performance to another level](https://www.theverge.com/tech/817807/lg-g5-oled-tv-review)
- - [A UK judge jails a Chinese woman to 11 years and 8 months in prison for laundering bitcoin linked to a £5B investment scheme in which UK seized 61K bitcoin &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/251111/p26#a251111p26)<!-- TECH:END -->
+ - [The LG G5 takes OLED performance to another level](https://www.theverge.com/tech/817807/lg-g5-oled-tv-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

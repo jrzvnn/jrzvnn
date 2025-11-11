@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
  - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 💣 [Daddy](http://9gag.com/gag/aMVDNQA)
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
+ - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
 
 ---
 

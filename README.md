@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Anakin no](http://9gag.com/gag/aByjNQD)
+ - 😝 [Damn time flies](http://9gag.com/gag/a9yZZYZ)
  - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 💣 [Daddy](http://9gag.com/gag/aMVDNQA)
- - 😝 [Just when you think you&#39;re hot stuff at painting details](http://9gag.com/gag/adBrWvN)
+ - 💣 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 😝 [Daddy](http://9gag.com/gag/aMVDNQA)
  - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 ---

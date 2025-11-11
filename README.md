@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
  - 😝 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 😝 [A short and witty title does the trick.](http://9gag.com/gag/a2v9VRO)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 💣 [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 😝 [The future is now](http://9gag.com/gag/a0ezGOL)
+ - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 ---
 

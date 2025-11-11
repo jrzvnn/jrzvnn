@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 11](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-11/#ftag=CAD590a51e)
+ - [How Much Unified Memory Do I Need in a Mac?](https://www.cnet.com/tech/computing/how-much-unified-memory-do-i-need-in-a-mac/#ftag=CAD590a51e)
  - [Financial documents show Anthropic expects to break even in 2028, while OpenAI projects ~$74B in operating losses that year before turning a profit in 2030 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251110/p36#a251110p36)
  - [Crypto exchange Gemini reports Q3 revenue up 106% YoY to $50.6M, vs. $46.2M est., net loss of $159.5M, up from $90.2M a year ago; GEMI drops 5%+ after hours &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/251110/p35#a251110p35)
- - [Homepod mini marked as &#39;out of stock&#39; and &#39;discontinued&#39; yet again](https://appleinsider.com/articles/25/11/10/homepod-mini-marked-as-out-of-stock-and-discontinued-yet-again?utm_source=rss)
- - [Meta introduces Omnilingual Automatic Speech Recognition, a suite of AI models providing automatic speech recognition capabilities for more than 1,600 languages &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251110/p34#a251110p34)
- - [Sachin Katti, Intel&#39;s CTO and AI officer, says he is leaving the company to join OpenAI; Intel says CEO Lip-Bu Tan will take over its AI efforts &lpar;CRN&rpar;](http://www.techmeme.com/251110/p33#a251110p33)<!-- TECH:END -->
+ - [Homepod mini marked as &#39;out of stock&#39; and &#39;discontinued&#39; yet again](https://appleinsider.com/articles/25/11/10/homepod-mini-marked-as-out-of-stock-and-discontinued-yet-again?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

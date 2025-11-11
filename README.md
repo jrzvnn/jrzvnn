@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Blue Owl&#39;s Digital Infrastructure funds are investing ~$3B in a New Mexico-based Stargate data center, set to consume 4.5GW, as Blue Owl expands into AI &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/251111/p20#a251111p20)
+ - [Extreme smart home makeover](https://www.theverge.com/podcast/818219/best-smart-home-gadgets-kitchen-bedroom-office-vergecast)
+ - [Microsoft AI CEO Mustafa Suleyman says his new superintelligence team will build &quot;frontier-grade research capability&quot; and Microsoft needs AI self-sufficiency &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/251111/p19#a251111p19)
  - [The iPad Pro at 10: a decade of unrealized potential](https://www.theverge.com/tech/817939/ipad-pro-laptop-computer-2025)
- - [5 Best Ergonomic Mice &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)
- - [Wyze’s new scale measures segmented body composition with a retractable handle](https://www.theverge.com/news/817826/wyze-smart-scale-ultra-bodyscan-segmented-body-composition-handle-electrodes)
- - [Lumines Arise is an almost perfect zen puzzle game](https://www.theverge.com/games/817997/lumines-arise-review-ps5-steam)
- - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)<!-- TECH:END -->
+ - [5 Best Ergonomic Mice &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-ergonomic-mouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

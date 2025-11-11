@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How US-based ACE, led by the MPA, took down illegal sports streamer Streameast, which had 136M global users per month, £4.9M in ad revenue, and £150K in crypto &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251111/p10#a251111p10)
+ - [The Former Staffer Calling Out OpenAI’s Erotica Claims](https://www.wired.com/story/the-big-interview-podcast-steven-adler-openai-erotica/)
  - [Sources: Apple may add a second camera to the next iPhone Air, possibly set for spring 2027 release alongside the iPhone 18 and 18e, to address user complaints &lpar;The Information&rpar;](http://www.techmeme.com/251111/p9#a251111p9)
  - [How China ramped up its AI development since early 2024 to catch the US, including relaxed regulations, huge government funding, and a focus on domestic chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251111/p8#a251111p8)
- - [Asahi says shipment levels are at just 10% of normal after a cyberattack in early October, and it is processing orders manually, ahead of a busy December period &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p7#a251111p7)
- - [A Munich court sides with Germany&#39;s music rights society GEMA in a case against OpenAI, saying OpenAI can&#39;t use song lyrics without a license; OpenAI can appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251111/p6#a251111p6)
- - [Limited edition knitted iPhone Pocket launched by Apple and Japanese fashion house](https://appleinsider.com/articles/25/11/11/limited-edition-knitted-iphone-pocket-launched-by-apple-and-japanese-fashion-house?utm_source=rss)<!-- TECH:END -->
+ - [Asahi says shipment levels are at just 10% of normal after a cyberattack in early October, and it is processing orders manually, ahead of a busy December period &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p7#a251111p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
- - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 💣 [I just finished this painting today . It\u2019s an acrylic painting , that I painted . It\u2019s 80x100 cm and I hope you like it .](http://9gag.com/gag/a0ezDYd)
- - 😝 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 😝 [Anakin no](http://9gag.com/gag/aByjNQD)
+ - 💣 [Daddy](http://9gag.com/gag/aMVDNQA)
+ - 😝 [Just when you think you&#39;re hot stuff at painting details](http://9gag.com/gag/adBrWvN)
+ - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
 
 ---
 

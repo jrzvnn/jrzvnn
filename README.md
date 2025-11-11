@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tractive Smart Pet Collar: An Inexpensive Way to Keep Tabs on Your Fur Baby](https://www.wired.com/review/tractive-smart-cat-tracker/)
- - [Oura CEO Tom Hale says the Finnish company expects &quot;maybe close&quot; to $2B in sales in 2026, up from $1B in 2025, and there is &quot;no news on an IPO&quot; &lpar;Tasmin Lockwood/CNBC&rpar;](http://www.techmeme.com/251111/p15#a251111p15)
- - [&#39;Fallen Astronaut&#39; book snatched up by Apple TV ahead of auction](https://appleinsider.com/articles/25/11/11/fallen-astronaut-book-snatched-up-by-apple-tv-ahead-of-auction?utm_source=rss)
- - [Sources: the EU plans to designate WhatsApp&#39;s Channels as a Very Large Online Platform under the DSA, meaning it must meet moderation and transparency standards &lpar;Gian Volpicelli/Bloomberg&rpar;](http://www.techmeme.com/251111/p14#a251111p14)
- - [Microsoft plans to spend $10B to build a data center in the Portuguese town of Sines in partnership with Portuguese developer Start Campus and UK startup Nscale &lpar;Henrique Almeida/Bloomberg&rpar;](http://www.techmeme.com/251111/p13#a251111p13)<!-- TECH:END -->
+ - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
+ - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)
+ - [Samsung rolls out its Vision AI Companion, a generative AI-powered upgrade to its Bixby assistant, across its 2025 TV lineup, with support for 10 languages &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251111/p18#a251111p18)
+ - [Sea reports Q3 revenue up 38% YoY to $6B, above $5.65B est., a $375M net income, below $433M est., and Shopee revenue up 35% YoY to $4.3B and GMV up 28% YoY &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251111/p17#a251111p17)
+ - [Nebius signs a ~$3B, five-year deal to provide Meta with AI infrastructure and reports a $100M+ loss in Q3, up from a $39.7M loss in Q3 2024 &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/251111/p16#a251111p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

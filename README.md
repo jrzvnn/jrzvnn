@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now buy Sony&#39;s VR controllers for the Apple Vision Pro](https://appleinsider.com/articles/25/11/11/you-can-now-buy-sonys-vr-controllers-for-the-apple-vision-pro?utm_source=rss)
+ - [Sony unveils a cheaper, Japan-only PlayStation 5 Digital Edition for ~$350, a ~25% discount, following a similar move by Nintendo with the Switch 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/251111/p39#a251111p39)
  - [Google unveils new features for Pixel phones, including AI-powered notification summaries, notification prioritization, and AI photo edits in Messages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251111/p38#a251111p38)
  - [SoFi launches SoFi Crypto, saying it&#39;s the first nationally chartered bank in the US to offer crypto trading to consumers &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251111/p37#a251111p37)
- - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)
- - [&#39;Freakier Friday&#39; Is About to Hit Disney Plus. Here&#39;s How to Stream the Sequel](https://www.cnet.com/tech/services-and-software/freakier-friday-is-about-to-hit-disney-plus-heres-how-to-stream-the-sequel/#ftag=CAD590a51e)
- - [CoreWeave closed down 16% after its CEO admitted delays at a data center developer that Jim Cramer implied may be Core Scientific; CORZ closed down 10% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251111/p35#a251111p35)<!-- TECH:END -->
+ - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

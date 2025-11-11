@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli startup Wonderful, which helps companies manage customer-facing AI agents across voice, chat, and email, raised $100M at a $700M valuation &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/251111/p22#a251111p22)
  - [A Danish court sentences a man for sharing 347+ copyrighted nude scenes on Reddit featuring 100+ actresses and 25TB+ of pirated content via a torrent tracker &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251111/p21#a251111p21)
  - [Sandisk’s new 1TB USB-C SSD is so small you never need to take it out](https://www.theverge.com/news/818405/sandisk-1tb-extreme-fit-usb-c-ssd)
  - [Source: Blue Owl&#39;s Digital Infrastructure funds are investing ~$3B in a New Mexico-based Stargate data center, set to consume 4.5GW, as Blue Owl expands into AI &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/251111/p20#a251111p20)
- - [Extreme smart home makeover](https://www.theverge.com/podcast/818219/best-smart-home-gadgets-kitchen-bedroom-office-vergecast)
- - [Microsoft AI CEO Mustafa Suleyman says his new superintelligence team will build &quot;frontier-grade research capability&quot; and Microsoft needs AI self-sufficiency &lpar;Ashley Stewart/Business Insider&rpar;](http://www.techmeme.com/251111/p19#a251111p19)<!-- TECH:END -->
+ - [Extreme smart home makeover](https://www.theverge.com/podcast/818219/best-smart-home-gadgets-kitchen-bedroom-office-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

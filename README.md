@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 💣 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
- - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
+ - 😝 [But I being poor have only my memes](http://9gag.com/gag/aW4PAQ3)
+ - 😝 [Niceee](http://9gag.com/gag/a4PmB0A)
+ - 💣 [The cat&#39;s face](http://9gag.com/gag/aByjbBN)
+ - 😝 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)
+ - 👉 [My back hurts](http://9gag.com/gag/aVv4948)<!-- MEMES:END -->
 
 ---
 

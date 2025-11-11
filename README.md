@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Nike x Hyperice Hyperboot Is $200 Off](https://www.wired.com/story/nike-hyperboots-deal-1125/)
  - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)
- - [The 50 Best Shows on Hulu, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
+ - [The 50 Best Shows on Hulu, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
  - [Disney is losing over $4 million a day in revenue on the YouTube TV blackout](https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost)
- - [Google unveils Private AI Compute, a cloud platform providing a &quot;secure, fortified space&quot; to run AI tools on devices, similar to Apple&#39;s Private Cloud Compute &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251111/p32#a251111p32)
- - [A Far-Reaching Aurora Is Coming Tuesday and Wednesday Night: Here&#39;s Where You May See It](https://www.cnet.com/science/space/a-far-reaching-aurora-is-coming-tuesday-and-wednesday-night-heres-where-you-may-see-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google unveils Private AI Compute, a cloud platform providing a &quot;secure, fortified space&quot; to run AI tools on devices, similar to Apple&#39;s Private Cloud Compute &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251111/p32#a251111p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

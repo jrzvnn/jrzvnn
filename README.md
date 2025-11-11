@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A UK judge jails a Chinese woman to 11 years and 8 months in prison for laundering bitcoin linked to a £5B investment scheme in which UK seized 61K bitcoin &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/251111/p26#a251111p26)
- - [Lighter, which operates an Ethereum Layer 2 network and a decentralized exchange to support perpetual futures contracts, raised $68M at a ~$1.5B valuation &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p25#a251111p25)
- - [Search and browser startup Brave&#39;s CBO says it passed $100M in annualized revenue in Q1, and had 100M MAUs as of September, up from 77M at the end of 2024 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251111/p24#a251111p24)
- - [Streaming live sports to Apple Vision Pro is a pipe dream a startup cannot easily solve](https://appleinsider.com/articles/25/11/11/streaming-live-sports-to-apple-vision-pro-is-a-pipe-dream-a-startup-cannot-easily-solve?utm_source=rss)
- - [Lighter raises $68 million at a $1.5 billion valuation as VC bets flood back into perp DEX infrastructure: report &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251111/p23#a251111p23)<!-- TECH:END -->
+ - [Apple could make game controller that magnetically attaches to iPhone](https://appleinsider.com/articles/22/03/31/apple-could-make-game-controller-that-magnetically-attaches-to-iphone?utm_source=rss)
+ - [This DOGE Whistleblower Is Running for Office](https://www.wired.com/story/doge-whistleblower-chuck-borges-running-for-political-office/)
+ - [The 30 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
+ - [The LG G5 takes OLED performance to another level](https://www.theverge.com/tech/817807/lg-g5-oled-tv-review)
+ - [A UK judge jails a Chinese woman to 11 years and 8 months in prison for laundering bitcoin linked to a £5B investment scheme in which UK seized 61K bitcoin &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/251111/p26#a251111p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

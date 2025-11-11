@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Matthew McConaughey and Michael Caine partner with ElevenLabs to create AI versions of their voices for its Iconic Voice Marketplace; McConaughey also invests &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251111/p30#a251111p30)
- - [This Beats Pill Bluetooth Speaker Has Upgraded Features, and It’s Just $100](https://www.wired.com/story/beats-pill-deal-1125/)
- - [Late to the party: Epic Games Launcher is finally Apple Silicon native](https://appleinsider.com/articles/25/11/11/late-to-the-party-epic-games-launcher-is-finally-apple-silicon-native?utm_source=rss)
- - [Launch in an F-18 from the USS Nimitz in the new Apple Vision Pro immersive experience](https://appleinsider.com/articles/25/11/11/launch-in-an-f-18-from-the-uss-nimitz-in-the-new-apple-vision-pro-immersive-experience?utm_source=rss)
- - [Sony says PlayStation 5 has sold a total of 84.2M units since launch, including 3.9M units sold in Q2, up from 3.8M a year ago &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251111/p29#a251111p29)<!-- TECH:END -->
+ - [AMD CEO Lisa Su says AMD&#39;s annual revenue growth will average 35%+ a year over the next three to five years and the total AI chip market will reach $1T by 2030 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251111/p31#a251111p31)
+ - [‘The Running Man’ Conjures a Dystopian Vision of America That’s Still Not as Bad as Reality](https://www.wired.com/story/the-running-man-conjures-a-dystopian-vision-of-america-thats-still-not-as-bad-as-reality/)
+ - [Pixel phones are getting notification summaries](https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages)
+ - [Google is introducing its own version of Apple’s private AI cloud compute](https://www.theverge.com/news/818364/google-private-ai-compute)
+ - [Matthew McConaughey and Michael Caine partner with ElevenLabs to create AI versions of their voices for its Iconic Voice Marketplace; McConaughey also invests &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251111/p30#a251111p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’](https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health)
  - [Google rolls out Nano Banana image editing upgrades in Photos, including a &quot;help me edit&quot; feature that lets users make edits using text or voice prompts &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/251111/p28#a251111p28)
  - [Emergency SOS via Satellite comes to Mexico](https://appleinsider.com/articles/25/11/11/emergency-sos-via-satellite-comes-to-mexico?utm_source=rss)
  - [Nomad Tracking Card Pro review: Find My mixed with Apple Card aesthetics](https://appleinsider.com/articles/25/11/11/nomad-tracking-card-pro-review-find-my-mixed-with-apple-card-aesthetics?utm_source=rss)
- - [Amazon’s like-new Kindle Paperwhite Signature Edition is on sale for just $127](https://www.theverge.com/gadgets/818102/amazon-kindle-paperwhite-signature-edition-lego-christmas-tree-deal-sale)
- - [Google Photos lets iPhone users edit images by describing changes](https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update)<!-- TECH:END -->
+ - [Amazon’s like-new Kindle Paperwhite Signature Edition is on sale for just $127](https://www.theverge.com/gadgets/818102/amazon-kindle-paperwhite-signature-edition-lego-christmas-tree-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

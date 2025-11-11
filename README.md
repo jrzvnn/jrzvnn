@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google unveils new features for Pixel phones, including AI-powered notification summaries, notification prioritization, and AI photo edits in Messages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251111/p38#a251111p38)
  - [SoFi launches SoFi Crypto, saying it&#39;s the first nationally chartered bank in the US to offer crypto trading to consumers &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251111/p37#a251111p37)
  - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)
- - [CoreWeave closed down 16% after its CEO admitted delays at a data center developer that Jim Cramer implied may be Core Scientific; CORZ closed down 10% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251111/p35#a251111p35)
- - [YouTube TV Subscribers Get $20 for Disney Channels Outage but You May Need to Claim It](https://www.cnet.com/tech/services-and-software/youtube-tv-subscribers-get-free-20-for-disney-channels-outage-but-you-may-need-to-claim-it/#ftag=CAD590a51e)
- - [Apple Invites now lets attendees say how many kids will be at the party](https://appleinsider.com/articles/25/11/11/apple-invites-now-lets-attendees-say-how-many-kids-will-be-at-the-party?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Freakier Friday&#39; Is About to Hit Disney Plus. Here&#39;s How to Stream the Sequel](https://www.cnet.com/tech/services-and-software/freakier-friday-is-about-to-hit-disney-plus-heres-how-to-stream-the-sequel/#ftag=CAD590a51e)
+ - [CoreWeave closed down 16% after its CEO admitted delays at a data center developer that Jim Cramer implied may be Core Scientific; CORZ closed down 10% &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251111/p35#a251111p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

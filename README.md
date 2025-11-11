@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How China ramped up its AI development since early 2024 to catch the US, including relaxed regulations, huge government funding, and a focus on domestic chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251111/p8#a251111p8)
+ - [Asahi says shipment levels are at just 10% of normal after a cyberattack in early October, and it is processing orders manually, ahead of a busy December period &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p7#a251111p7)
  - [A Munich court sides with Germany&#39;s music rights society GEMA in a case against OpenAI, saying OpenAI can&#39;t use song lyrics without a license; OpenAI can appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251111/p6#a251111p6)
  - [Limited edition knitted iPhone Pocket launched by Apple and Japanese fashion house](https://appleinsider.com/articles/25/11/11/limited-edition-knitted-iphone-pocket-launched-by-apple-and-japanese-fashion-house?utm_source=rss)
- - [Under-display selfie camera and Face ID pushed back to 2027](https://appleinsider.com/articles/25/11/10/under-display-face-id-pushed-back-to-2027?utm_source=rss)
- - [Apple and Japanese fashion house Issey Miyake launch the $150 iPhone Pocket, a 3D-knitted fabric accessory, its first fashion collaboration since Hermès in 2015 &lpar;Vogue&rpar;](http://www.techmeme.com/251111/p5#a251111p5)
- - [Apple made a $230 crossbody… sock](https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag)<!-- TECH:END -->
+ - [Under-display selfie camera and Face ID pushed back to 2027](https://appleinsider.com/articles/25/11/10/under-display-face-id-pushed-back-to-2027?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

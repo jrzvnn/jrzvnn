@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says ads on Prime Video reach 315M viewers across its series and films, live sports and events, and free, ad-supported live channels &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/251111/p27#a251111p27)
- - [Apple could make game controller that magnetically attaches to iPhone](https://appleinsider.com/articles/22/03/31/apple-could-make-game-controller-that-magnetically-attaches-to-iphone?utm_source=rss)
- - [This DOGE Whistleblower Is Running for Office](https://www.wired.com/story/doge-whistleblower-chuck-borges-running-for-political-office/)
- - [The 30 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [The LG G5 takes OLED performance to another level](https://www.theverge.com/tech/817807/lg-g5-oled-tv-review)<!-- TECH:END -->
+ - [Google rolls out Nano Banana image editing upgrades in Photos, including a &quot;help me edit&quot; feature that lets users make edits using text or voice prompts &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/251111/p28#a251111p28)
+ - [Emergency SOS via Satellite comes to Mexico](https://appleinsider.com/articles/25/11/11/emergency-sos-via-satellite-comes-to-mexico?utm_source=rss)
+ - [Nomad Tracking Card Pro review: Find My mixed with Apple Card aesthetics](https://appleinsider.com/articles/25/11/11/nomad-tracking-card-pro-review-find-my-mixed-with-apple-card-aesthetics?utm_source=rss)
+ - [Amazon’s like-new Kindle Paperwhite Signature Edition is on sale for just $127](https://www.theverge.com/gadgets/818102/amazon-kindle-paperwhite-signature-edition-lego-christmas-tree-deal-sale)
+ - [Google Photos lets iPhone users edit images by describing changes](https://www.theverge.com/news/818346/google-photos-ios-help-me-edit-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

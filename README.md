@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
  - 😝 [Anakin no](http://9gag.com/gag/aByjNQD)
+ - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
  - 💣 [Daddy](http://9gag.com/gag/aMVDNQA)
  - 😝 [Just when you think you&#39;re hot stuff at painting details](http://9gag.com/gag/adBrWvN)
- - 👉 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)<!-- MEMES:END -->
+ - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 ---
 

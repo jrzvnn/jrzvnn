@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Late to the party: Epic Games Launcher is finally Apple Silicon native](https://appleinsider.com/articles/25/11/11/late-to-the-party-epic-games-launcher-is-finally-apple-silicon-native?utm_source=rss)
  - [Launch in an F-18 from the USS Nimitz in the new Apple Vision Pro immersive experience](https://appleinsider.com/articles/25/11/11/launch-in-an-f-18-from-the-uss-nimitz-in-the-new-apple-vision-pro-immersive-experience?utm_source=rss)
- - [Sony says the PlayStation 5 has sold a total of 84.2M units since launch, including 3.9M units sold in Q2, up from 3.8M a year ago &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251111/p29#a251111p29)
+ - [Sony says PlayStation 5 has sold a total of 84.2M units since launch, including 3.9M units sold in Q2, up from 3.8M a year ago &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/251111/p29#a251111p29)
  - [AI chatbots are helping hide eating disorders and making deepfake ‘thinspiration’](https://www.theverge.com/news/818508/chatbot-eating-disorder-mental-health)
- - [Google rolls out Nano Banana image editing upgrades in Photos, including a &quot;help me edit&quot; feature that lets users make edits using text or voice prompts &lpar;Elyse Betters Picaro/ZDNET&rpar;](http://www.techmeme.com/251111/p28#a251111p28)
- - [Emergency SOS via Satellite comes to Mexico](https://appleinsider.com/articles/25/11/11/emergency-sos-via-satellite-comes-to-mexico?utm_source=rss)<!-- TECH:END -->
+ - [Best 2-in-1 Laptop for 2025](https://www.cnet.com/tech/computing/best-2-in-1-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

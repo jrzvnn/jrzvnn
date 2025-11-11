@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Search and browser startup Brave&#39;s CBO says it passed $100M in annualized revenue in Q1, and had 100M MAUs as of September, up from 77M at the end of 2024 &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251111/p24#a251111p24)
  - [Streaming live sports to Apple Vision Pro is a pipe dream a startup cannot easily solve](https://appleinsider.com/articles/25/11/11/streaming-live-sports-to-apple-vision-pro-is-a-pipe-dream-a-startup-cannot-easily-solve?utm_source=rss)
  - [Lighter, which operates an Ethereum Layer 2 network and a decentralized exchange to support perpetual futures contracts, raised $68M at a ~$1.5B valuation &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251111/p23#a251111p23)
  - [Amazon&#39;s $159.99 Apple Watch deal ends tonight](https://appleinsider.com/articles/25/11/11/amazons-15999-apple-watch-deal-ends-tonight?utm_source=rss)
- - [33 Best Gifts for Cat Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
- - [Israeli startup Wonderful, which helps companies manage customer-facing AI agents across voice, chat, and email, raised $100M at a $700M valuation &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/251111/p22#a251111p22)<!-- TECH:END -->
+ - [33 Best Gifts for Cat Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

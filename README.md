@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 💣 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
+ - 😝 [Pyroclastic flow.](http://9gag.com/gag/awyPG6r)
+ - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
+ - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
 
 ---
 

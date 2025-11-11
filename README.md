@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)
  - [Bengaluru-based digital lending startup Finnable raised about $28.19M in August 2025 co-led by Z47 and TVS Capital, bringing its total raised to about $60.9M &lpar;Alenjith K Johny/The Economic Times&rpar;](http://www.techmeme.com/251111/p1#a251111p1)
  - [B&amp;H Photo Promo Codes and Deals for November 2025](https://www.wired.com/story/bh-photo-coupon/)
  - [Vimeo Promo Codes and Deals: Save Up to 40%](https://www.wired.com/story/vimeo-promo-code/)
- - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
- - [OnePlus Promo Code: $100 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)<!-- TECH:END -->
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

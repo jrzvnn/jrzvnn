@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Hiking Boots &lpar;2025&rpar;: Walking Shoes, Trails, Backpacking](https://www.wired.com/gallery/best-hiking-boots/)
+ - [Snapchat is letting subscribers revive their 2D Bitmojis](https://www.theverge.com/news/818382/snapchat-bitmoji-comic-style-2d-avatar)
+ - [iPhone 18 Pro may lose the two-tone look in 2026](https://appleinsider.com/articles/25/11/11/iphone-18-pro-may-lose-the-two-tone-look-in-2026?utm_source=rss)
  - [The Best Gifts for Book Lovers &lpar;2025&rpar;: From E-Readers to Boxed Sets](https://www.wired.com/story/gifts-for-book-lovers/)
- - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)
- - [Samsung rolls out its Vision AI Companion, a generative AI-powered upgrade to its Bixby assistant, across its 2025 TV lineup, with support for 10 languages &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251111/p18#a251111p18)
- - [Sea reports Q3 revenue up 38% YoY to $6B, above $5.65B est., a $375M net income, below $433M est., and Shopee revenue up 35% YoY to $4.3B and GMV up 28% YoY &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/251111/p17#a251111p17)
- - [Nebius signs a ~$3B, five-year deal to provide Meta with AI infrastructure and reports a $100M+ loss in Q3, up from a $39.7M loss in Q3 2024 &lpar;Deborah Sophia/Reuters&rpar;](http://www.techmeme.com/251111/p16#a251111p16)<!-- TECH:END -->
+ - [The next iPhone Air has reportedly been delayed](https://www.theverge.com/news/817908/apple-iphone-air-second-generation-delayed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

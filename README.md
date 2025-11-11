@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Israeli startup Wonderful, which helps companies manage customer-facing AI agents across voice, chat, and email, raised $100M at a $700M valuation &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/251111/p22#a251111p22)
- - [A Danish court sentences a man for sharing 347+ copyrighted nude scenes on Reddit featuring 100+ actresses and 25TB+ of pirated content via a torrent tracker &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251111/p21#a251111p21)
- - [Sandisk’s new 1TB USB-C SSD is so small you never need to take it out](https://www.theverge.com/news/818405/sandisk-1tb-extreme-fit-usb-c-ssd)
- - [Source: Blue Owl&#39;s Digital Infrastructure funds are investing ~$3B in a New Mexico-based Stargate data center, set to consume 4.5GW, as Blue Owl expands into AI &lpar;Miles Kruppa/The Information&rpar;](http://www.techmeme.com/251111/p20#a251111p20)
- - [Extreme smart home makeover](https://www.theverge.com/podcast/818219/best-smart-home-gadgets-kitchen-bedroom-office-vergecast)<!-- TECH:END -->
+ - [Streaming live sports to Apple Vision Pro is a pipe dream a startup cannot easily solve](https://appleinsider.com/articles/25/11/11/streaming-live-sports-to-apple-vision-pro-is-a-pipe-dream-a-startup-cannot-easily-solve?utm_source=rss)
+ - [Lighter, which operates an Ethereum Layer 2 network and a decentralized exchange to support perpetual futures contracts, raised $68M at a ~$1.5B valuation &lpar;Naga Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/251111/p23#a251111p23)
+ - [Amazon&#39;s $159.99 Apple Watch deal ends tonight](https://appleinsider.com/articles/25/11/11/amazons-15999-apple-watch-deal-ends-tonight?utm_source=rss)
+ - [33 Best Gifts for Cat Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-cat-lovers/)
+ - [Israeli startup Wonderful, which helps companies manage customer-facing AI agents across voice, chat, and email, raised $100M at a $700M valuation &lpar;Steven Scheer/Reuters&rpar;](http://www.techmeme.com/251111/p22#a251111p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

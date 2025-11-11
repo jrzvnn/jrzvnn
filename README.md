@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank sold its entire Nvidia stake, or ~32M shares, in October for $5.8B and part of its T-Mobile stake for $9.2B, boosting Q2 profit to $16.2B, above est. &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/251111/p4#a251111p4)
- - [Q&amp;A with Tim Berners-Lee on the future of web, AI, his decentralization startup Inrupt and its open-source web protocol Solid, his new memoir, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251111/p3#a251111p3)
- - [$50 Target Coupon &amp; Promo Codes | November 2025](https://www.wired.com/story/target-promo-code/)
- - [Google, Temasek, and Bain: private funding for SE Asia&#39;s digital economy grew 15% YoY to $7.7B in the year to June, below 25% global growth and 2021&#39;s $27B peak &lpar;Jun Yuan Yong/Reuters&rpar;](http://www.techmeme.com/251111/p2#a251111p2)
- - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)<!-- TECH:END -->
+ - [Limited edition knitted iPhone Pocket launched by Apple and Japanese fashion house](https://appleinsider.com/articles/25/11/11/limited-edition-knitted-iphone-pocket-launched-by-apple-and-japanese-fashion-house?utm_source=rss)
+ - [Under-display selfie camera and Face ID pushed back to 2027](https://appleinsider.com/articles/25/11/10/under-display-face-id-pushed-back-to-2027?utm_source=rss)
+ - [Apple and Japanese fashion house Issey Miyake launch the $150 iPhone Pocket, a 3D-knitted fabric accessory, its first fashion collaboration since Hermès in 2015 &lpar;Vogue&rpar;](http://www.techmeme.com/251111/p5#a251111p5)
+ - [Apple made a $230 crossbody… sock](https://www.theverge.com/news/818328/apple-iphone-pocket-crossbody-knitted-sock-bag)
+ - [SoftBank sold its entire Nvidia stake, or ~32M shares, in October for $5.8B and part of its T-Mobile stake for $9.2B, boosting Q2 profit to $16.2B, above est. &lpar;David Keohane/Financial Times&rpar;](http://www.techmeme.com/251111/p4#a251111p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Give it to me baby, aha, aha...](http://9gag.com/gag/ae9yywj)
  - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 😝 [A short and witty title does the trick.](http://9gag.com/gag/a2v9VRO)
+ - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 💣 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 😝 [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
  - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worst memory](http://9gag.com/gag/a5QvyVE)
- - 😝 [Anyone ?? I find them ugly af](http://9gag.com/gag/aD2rNYZ)
- - 💣 [Daddy](http://9gag.com/gag/aMVDNQA)
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 😝 [I just finished this painting today . It\u2019s an acrylic painting , that I painted . It\u2019s 80x100 cm and I hope you like it .](http://9gag.com/gag/a0ezDYd)
+ - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 💣 [Peak experience in the earlier days!!](http://9gag.com/gag/aXPQQ5b)
+ - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
+ - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
 
 ---
 

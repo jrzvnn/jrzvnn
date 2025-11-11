@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 😝 [Win stupid prizes](http://9gag.com/gag/an78WKo)
- - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 👉 [Daddy](http://9gag.com/gag/aMVDNQA)<!-- MEMES:END -->
+ - 😝 [My taste in movies is truly something else](http://9gag.com/gag/a0ezzZL)
+ - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 💣 [Science be like](http://9gag.com/gag/ajPG3PR)
+ - 😝 [Heather Locklear in the 80s, what a vibe](http://9gag.com/gag/a87Qv7p)
+ - 👉 [This is actually genius](http://9gag.com/gag/aW4Peb4)<!-- MEMES:END -->
 
 ---
 

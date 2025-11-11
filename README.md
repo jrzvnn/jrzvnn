@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney is losing over $4 million a day in revenue on the YouTube TV blackout](https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost)
  - [Google unveils Private AI Compute, a cloud platform providing a &quot;secure, fortified space&quot; to run AI tools on devices, similar to Apple&#39;s Private Cloud Compute &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251111/p32#a251111p32)
  - [AMD CEO Lisa Su says AMD&#39;s annual revenue growth will average 35%+ a year over the next three to five years and the total AI chip market will reach $1T by 2030 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/251111/p31#a251111p31)
  - [‘The Running Man’ Conjures a Dystopian Vision of America That’s Still Not as Bad as Reality](https://www.wired.com/story/the-running-man-conjures-a-dystopian-vision-of-america-thats-still-not-as-bad-as-reality/)
- - [Pixel phones are getting notification summaries](https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages)
- - [Google is introducing its own version of Apple’s private AI cloud compute](https://www.theverge.com/news/818364/google-private-ai-compute)<!-- TECH:END -->
+ - [Pixel phones are getting notification summaries](https://www.theverge.com/tech/817644/pixel-update-notification-summaries-image-remix-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

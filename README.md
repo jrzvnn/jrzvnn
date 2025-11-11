@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 1TB M5 MacBook Pro is down to the lowest price ever at Amazon](https://appleinsider.com/articles/25/11/11/apples-1tb-m5-macbook-pro-is-down-to-the-lowest-price-ever-at-amazon?utm_source=rss)
  - [The Nike x Hyperice Hyperboot Is $200 Off](https://www.wired.com/story/nike-hyperboots-deal-1125/)
- - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)
- - [The 50 Best Shows on Hulu, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-tv-shows-hulu-this-week/)
- - [Disney is losing over $4 million a day in revenue on the YouTube TV blackout](https://www.theverge.com/news/818542/disney-youtube-tv-blackout-cost)
- - [Google unveils Private AI Compute, a cloud platform providing a &quot;secure, fortified space&quot; to run AI tools on devices, similar to Apple&#39;s Private Cloud Compute &lpar;Robert Hart/The Verge&rpar;](http://www.techmeme.com/251111/p32#a251111p32)<!-- TECH:END -->
+ - [&#39;Reacher&#39; Fans Can Watch Alan Ritchson in the New Buddy Comedy, &#39;Playdate&#39;](https://www.cnet.com/tech/services-and-software/reacher-fans-can-watch-alan-ritchson-in-the-new-buddy-comedy-playdate/#ftag=CAD590a51e)
+ - [Google Might Make NotebookLM&#39;s Video Overviews Even More Customizable](https://www.cnet.com/tech/services-and-software/google-might-make-notebooklms-video-overviews-even-more-customizable/#ftag=CAD590a51e)
+ - [Coinbase confirms that it has called off acquisition talks with stablecoin infra startup BVNK; reports previously put the acquisition price around $2B &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251111/p33#a251111p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You died](http://9gag.com/gag/an780vV)
  - 😝 [Japan&#39;s next.](http://9gag.com/gag/ary9rzy)
- - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
  - 💣 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 😝 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 👉 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)<!-- MEMES:END -->
+ - 😝 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
+ - 👉 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)<!-- MEMES:END -->
 
 ---
 

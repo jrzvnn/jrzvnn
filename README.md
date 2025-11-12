@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
- - [Anthropic plans to spend $50B on a US infrastructure buildout, starting with data centers in Texas and New York in partnership with Fluidstack, opening in 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251112/p23#a251112p23)
- - [5 things I love about Amazon&amp;#8217;s new Echo Shows — and 3 things I don’t](https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on)
- - [The Verge’s 2025 holiday gift guide for teens](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [Circle reports Q3 revenue up 66% YoY to $739.8M, USDC in Circulation at quarter end up 108% YoY to $73.7B, and net income up 202% YoY to $214M; CRCL drops 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/251112/p22#a251112p22)<!-- TECH:END -->
+ - [Nomad’s new wallet tracking card gets a battery life boost](https://www.theverge.com/news/818791/nomad-tracking-card-pro-apple-find-my-wireless-charging-battery)
+ - [Filing: Synopsys plans to lay off ~10% of its staff, or ~2,000 employees, after completing its $35B acquisition of engineering design firm Ansys earlier in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251112/p24#a251112p24)
+ - [OWC StudioStack expands Mac Studio storage without a larger footprint](https://appleinsider.com/articles/25/11/12/owc-studiostack-expands-mac-studio-storage-without-a-larger-footprint?utm_source=rss)
+ - [Hate Meta? Even Realities Is Making the Smart Glasses You Want](https://www.wired.com/story/even-realities-even-g2-smart-glasses-and-even-r1-smart-ring/)
+ - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

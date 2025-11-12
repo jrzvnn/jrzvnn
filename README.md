@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is cracking down on illegal streaming on its Fire TV Stick](https://www.theverge.com/news/819043/amazon-illegal-streaming-fire-tv-stick)
- - [The AI Boom Is Fueling a Need for Speed in Chip Networking](https://www.wired.com/story/ai-boom-networking-technology-photonics/)
+ - [Sources: the EU is preparing to probe Google over news publisher rankings in search over claims that Google demotes sites with &quot;third party&quot; promotional content &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251112/p28#a251112p28)
  - [Passports on iPhone arrive with new Digital ID feature](https://appleinsider.com/articles/25/11/12/passports-on-iphone-arrive-with-new-digital-id-feature?utm_source=rss)
- - [B&amp;H&#39;s early Black Friday Apple deals start at just $25.99](https://appleinsider.com/articles/25/11/12/bhs-early-black-friday-apple-deals-start-at-just-2599?utm_source=rss)
- - [OWC&#39;s Helios 5S adds PCI-E to Thunderbolt 5 Macs](https://appleinsider.com/articles/25/11/12/owcs-helios-5s-adds-pci-e-to-thunderbolt-5-macs?utm_source=rss)<!-- TECH:END -->
+ - [Aqara’s cord-free presence sensor runs for up to three years on battery power](https://www.theverge.com/news/819067/aqara-presence-multi-sensor-fp300-battery-power-zigbee-matter-thread)
+ - [WisdomAI, which offers AI-driven data analytics that can answer business questions, including from &quot;dirty&quot; data, raised a $50M Series A led by Kleiner Perkins &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251112/p27#a251112p27)
+ - [Anthropic will invest $50 billion in building AI data centers in the US](https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

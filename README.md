@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
  - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 💣 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [Women](http://9gag.com/gag/aMVD68X)
+ - 💣 [Women](http://9gag.com/gag/aMVD68X)
+ - 😝 [The best day in doggos life.](http://9gag.com/gag/aYQZ6Kw)
  - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
 
 ---

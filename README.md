@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Sweet Security, which helps spot abnormal cloud infrastructure behavior, raised $75M led by Evolution Equity, taking its total funding to $120M &lpar;Marissa Newman/Bloomberg&rpar;](http://www.techmeme.com/251112/p17#a251112p17)
- - [The first Toy Story 5 teaser threatens the toys with a tablet](https://www.theverge.com/news/818762/toy-story-5-pixar-disney-first-teaser-trailer)
- - [The Physics of the Northern Lights](https://www.wired.com/story/the-physics-of-the-northern-lights-aurora-borealis/)
- - [Deezer-Ipsos survey of 9,000 music listeners in eight countries: 97% can&#39;t distinguish AI-generated music, 73% support clear labelling of AI tracks, and more &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251112/p16#a251112p16)
- - [Apple Intelligence website mistake wipes away M1 Mac support](https://appleinsider.com/articles/25/11/12/apple-intelligence-website-mistake-wipes-away-m1-mac-support?utm_source=rss)<!-- TECH:END -->
+ - [UN climate talks are getting weird](https://www.theverge.com/report/818223/un-climate-united-nations-climate-change-conference-cop30-ai-trade-energy-costs-are-getting-weird)
+ - [Indian investment app Groww raised ~$748M in its Indian IPO, closing up 29% and giving it a ~$9B market cap; Groww is the first Indian YC-backed startup to IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251112/p19#a251112p19)
+ - [iPhone Fold: All the rumors about Apple&#39;s first foldable, and what it might look like](https://appleinsider.com/articles/25/11/12/iphone-fold-all-the-rumors-about-apples-first-foldable-and-what-it-might-look-like?utm_source=rss)
+ - [Coinbase plans to move its incorporation from Delaware to Texas, saying Delaware &quot;once provided companies with consistency&quot; but now has &quot;unpredictable outcomes&quot; &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251112/p18#a251112p18)
+ - [Google relaunches Cameyo to entice businesses from Windows to ChromeOS](https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

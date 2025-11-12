@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% VistaPrint Coupon &amp; Promo Codes | November 2025](https://www.wired.com/story/vistaprint-coupon-code/)
+ - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)
+ - [Design Within Reach Promo Codes: 30% Off | November 2025](https://www.wired.com/story/design-within-reach-promo-code/)
  - [Nomad Coupons: 80% Off](https://www.wired.com/story/nomad-discount-code/)
- - [The UK proposes an amendment to the Crime and Policing Bill allowing &quot;authorized testers&quot; to proactively assess AI models for their ability to generate CSAM &lpar;BBC&rpar;](http://www.techmeme.com/251112/p1#a251112p1)
- - [eBay Coupon Codes and Deals: Up to 60% Off Select Items](https://www.wired.com/story/ebay-coupon-code/)
- - [Menulog, acquired by Just Eat in 2015, plans to shut down in Australia on November 26, leaving Uber Eats and DoorDash as the country&#39;s main food delivery apps &lpar;Tegan Jones/SmartCompany&rpar;](http://www.techmeme.com/251111/p44#a251111p44)
- - [South Korea&#39;s KT Corp. launches a sovereign cloud for Korean enterprises built on Azure, with encrypted in-memory computing and strict local data governance &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/251111/p43#a251111p43)<!-- TECH:END -->
+ - [The UK proposes an amendment to the Crime and Policing Bill allowing &quot;authorized testers&quot; to proactively assess AI models for their ability to generate CSAM &lpar;BBC&rpar;](http://www.techmeme.com/251112/p1#a251112p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

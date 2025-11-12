@@ -169,8 +169,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [The cat&#39;s face](http://9gag.com/gag/aByjbBN)
  - 😝 [My back hurts](http://9gag.com/gag/aVv4948)
  - 💣 [Get it ma dudes](http://9gag.com/gag/axyQ8mD)
- - 😝 [The best day in doggos life.](http://9gag.com/gag/aYQZ6Kw)
- - 👉 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)<!-- MEMES:END -->
+ - 😝 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)
+ - 👉 [A short and witty title does the trick.](http://9gag.com/gag/a2v9VRO)<!-- MEMES:END -->
 
 ---
 

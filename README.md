@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now buy Sony&#39;s VR controllers for the Apple Vision Pro](https://appleinsider.com/articles/25/11/11/you-can-now-buy-sonys-vr-controllers-for-the-apple-vision-pro?utm_source=rss)
- - [Sony unveils a cheaper, Japan-only PlayStation 5 Digital Edition for ~$350, a ~25% discount, following a similar move by Nintendo with the Switch 2 &lpar;Financial Times&rpar;](http://www.techmeme.com/251111/p39#a251111p39)
- - [Google unveils new features for Pixel phones, including AI-powered notification summaries, notification prioritization, and AI photo edits in Messages &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251111/p38#a251111p38)
- - [SoFi launches SoFi Crypto, saying it&#39;s the first nationally chartered bank in the US to offer crypto trading to consumers &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251111/p37#a251111p37)
- - [China says the December 2020 theft of 127,272 BTC, now worth ~$13B, from Chinese mining pool LuBian is likely a &quot;state-level hacker operation&quot; led by the US &lpar;Bloomberg&rpar;](http://www.techmeme.com/251111/p36#a251111p36)<!-- TECH:END -->
+ - [Octopath Traveler 0 First Impressions: New Tricks, With a Little Less Soul](https://www.cnet.com/tech/gaming/octopath-traveler-0-first-impressions-new-tricks-with-a-little-less-soul/#ftag=CAD590a51e)
+ - [November Nights Are Dazzling With These Three Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)
+ - [Elden Ring Nightreign DLC: The Forsaken Hollows Adds More Classes and Bosses](https://www.cnet.com/tech/gaming/elden-ring-nightreign-dlc-the-forsaken-hollows-adds-more-classes-and-bosses/#ftag=CAD590a51e)
+ - [The UK proposes laws to protect public services from cyberattacks, including regulating companies providing services to private and public sector organizations &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/251111/p40#a251111p40)
+ - [Sony Unveils 27-Inch, 240Hz PlayStation Monitor That Charges Your PS5 Controller](https://www.cnet.com/tech/gaming/sony-unveils-27-inch-240hz-playstation-monitor-that-charges-your-ps5-controller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

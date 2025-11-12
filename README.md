@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New in iOS 26.2 beta 2: Liquid Glass tweaks, Games app changes, more](https://appleinsider.com/articles/25/11/12/new-in-ios-262-beta-2-liquid-glass-tweaks-games-app-changes-more?utm_source=rss)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [Former Twitter CEO Parag Agrawal&#39;s Parallel Web Systems, which is building tools for AI agents to search the web, raised a $100M Series A at a $740M valuation &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/251112/p42#a251112p42)
  - [DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules](https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/)
- - [Belkin UltraCharge Pro review: Apple exclusive 25W charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/25/11/12/belkin-ultracharge-pro-review-apple-exclusive-25w-charging-for-iphone-apple-watch?utm_source=rss)
- - [Cisco reports Q1 revenue up 8% YoY to $14.88B, vs. $14.77B est., net income up 5% to $2.86B, and forecasts Q2 revenue above est.; CSCO jumps 5%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251112/p41#a251112p41)<!-- TECH:END -->
+ - [You Can Use an AI Clone of Matthew McConaughey&#39;s Voice, If He Says It&#39;s Alright, Alright, Alright](https://www.cnet.com/tech/services-and-software/you-can-use-an-ai-clone-of-matthew-mcconaugheys-voice-if-he-says-its-alright-alright-alright/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

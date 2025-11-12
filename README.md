@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
  - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 💣 [Amazonian](http://9gag.com/gag/agm6pDg)
+ - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
  - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
+ - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 ---
 

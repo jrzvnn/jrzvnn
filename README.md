@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM unveils two quantum computers, Loon and Nighthawk, that it says feature unprecedented qubit connectivity designs aiming to enable error-free computations &lpar;Karmela Padavic-Callaghan/New Scientist&rpar;](http://www.techmeme.com/251112/p10#a251112p10)
- - [Amazon says it is rolling out a tougher approach to combat illegal sports streaming on Fire TV Stick devices, aiming to block apps that stream pirated content &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251112/p9#a251112p9)
- - [D-Matrix, which develops AI inference chips, raised $275M co-led by Bullhound, Triatomic, and Temasek at a $2B valuation, taking its total funding to $450M &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251112/p8#a251112p8)
- - [How Do Pimple Patches Work? Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/how-do-pimple-patches-work/)
- - [Google files a lawsuit in the SDNY against a group of China-based hackers that it says run the Lighthouse platform for &quot;phishing services&quot;, stealing $1B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/251112/p7#a251112p7)<!-- TECH:END -->
+ - [An analysis of 47,000 publicly shared ChatGPT conversations: ~10% related to emotional or mental health, ChatGPT exhibits a &quot;default to yes&quot; behavior, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/251112/p14#a251112p14)
+ - [Is a Robot Vacuum Worth It?](https://www.wired.com/story/is-a-robot-vacuum-worth-it/)
+ - [Maryland-based Forterra, an autonomous military vehicle software startup founded in 2002, raised $238M, including $50M in debt, at a $1B+ valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251112/p13#a251112p13)
+ - [Stockholm-based driverless truck startup Einride plans to go public in H1 2026 via a blank-check merger at a $1.8B valuation and reports ~$43M in 2024 revenue &lpar;Paul Berger/Wall Street Journal&rpar;](http://www.techmeme.com/251112/p12#a251112p12)
+ - [Leaker backtracks: iPhone Air not canceled, is getting two cameras instead](https://appleinsider.com/articles/25/11/12/leaker-backtracks-iphone-air-not-canceled-is-getting-two-cameras-instead?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

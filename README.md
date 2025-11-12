@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of 47,000 publicly shared ChatGPT conversations: ~10% related to emotional or mental health, ChatGPT exhibits a &quot;default to yes&quot; behavior, and more &lpar;Washington Post&rpar;](http://www.techmeme.com/251112/p14#a251112p14)
- - [Is a Robot Vacuum Worth It?](https://www.wired.com/story/is-a-robot-vacuum-worth-it/)
- - [Maryland-based Forterra, an autonomous military vehicle software startup founded in 2002, raised $238M, including $50M in debt, at a $1B+ valuation &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/251112/p13#a251112p13)
- - [Stockholm-based driverless truck startup Einride plans to go public in H1 2026 via a blank-check merger at a $1.8B valuation and reports ~$43M in 2024 revenue &lpar;Paul Berger/Wall Street Journal&rpar;](http://www.techmeme.com/251112/p12#a251112p12)
- - [Leaker backtracks: iPhone Air not canceled, is getting two cameras instead](https://appleinsider.com/articles/25/11/12/leaker-backtracks-iphone-air-not-canceled-is-getting-two-cameras-instead?utm_source=rss)<!-- TECH:END -->
+ - [Apple Intelligence website mistake wipes away M1 Mac support](https://appleinsider.com/articles/25/11/12/apple-intelligence-website-mistake-wipes-away-m1-mac-support?utm_source=rss)
+ - [Best Home Depot Black Friday Deals for 2025](https://www.wired.com/story/black-friday-home-depot-deals-2025-update/)
+ - [Insta360’s new accessories turn its Ace Pro 2 into an instant camera](https://www.theverge.com/news/817622/insta360-ace-pro-2-action-camera-pocket-printer-xplorer-grip-pro-kit)
+ - [Boston-based Teradar, which aims to launch a solid-state sensor for autonomous cars in 2028 that it says can outperform lidar and radar, raised a $150M Series B &lpar;Sean O&#39;Kane/TechCrunch&rpar;](http://www.techmeme.com/251112/p15#a251112p15)
+ - [Samsung&amp;#8217;s new 27-inch portable display has a three-hour battery life](https://www.theverge.com/news/818738/samsung-movingstyle-portable-display-tv-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

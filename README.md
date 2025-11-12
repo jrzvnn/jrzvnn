@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Can&#39;t a bro travel and eat a Rolex without getting arrested](http://9gag.com/gag/azxovKK)
  - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 💣 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
  - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 💣 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)
- - 😝 [Who can tell the difference](http://9gag.com/gag/aYQZ6zx)
- - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
+ - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Belkin UltraCharge Pro review: Apple exclusive 25W charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/25/11/12/belkin-ultracharge-pro-review-apple-exclusive-25w-charging-for-iphone-apple-watch?utm_source=rss)
  - [Cisco reports Q1 revenue up 8% YoY to $14.88B, vs. $14.77B est., net income up 5% to $2.86B, and forecasts Q2 revenue above est.; CSCO jumps 5%+ after hours &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251112/p41#a251112p41)
  - [Second developer betas of iOS 26.2, iPadOS 26.2 now available for testing](https://appleinsider.com/articles/25/11/12/second-developer-betas-of-ios-262-ipados-262-now-available-for-testing?utm_source=rss)
  - [Boston-based Code Metal, which uses AI to help engineers translate code into other languages, raised a $36.5M Series A led by Accel at a $250M valuation &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251112/p40#a251112p40)
- - [A Proposed Federal THC Ban Would ‘Wipe Out’ Hemp Products That Get People High](https://www.wired.com/story/proposed-federal-thc-ban-would-wipe-out-hemp-products-that-get-people-high/)
- - [Visa announces a pilot allowing businesses to send stablecoins payouts directly to users&#39; or workers&#39; crypto wallets &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251112/p39#a251112p39)<!-- TECH:END -->
+ - [ARC Raiders Adds Duo Matchmaking and Prepares for North Line Update](https://www.cnet.com/tech/gaming/arc-raiders-adds-duo-matchmaking-and-prepares-for-north-line-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

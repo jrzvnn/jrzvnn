@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Alien is coming back to Earth for a second season](https://www.theverge.com/news/818677/alien-earth-season-2-renewal-noah-hawley-london)
+ - [The 6 Best Natural Sugar Substitutes, If You Want to Cut Out Processed White Sugar](https://www.cnet.com/health/nutrition/the-6-best-natural-sugar-substitutes-want-cut-out-processed-white-sugar/#ftag=CAD590a51e)
  - [Kraken co-CEO Arjun Sethi criticizes UK crypto promotion rules requiring clear risk warnings, saying they hinder retail investors by slowing fund movement &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/251112/p3#a251112p3)
  - [Best Internet Providers in New York, New York](https://www.cnet.com/home/internet/best-internet-providers-in-new-york-ny/#ftag=CAD590a51e)
- - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)
- - [Foxconn reports Q3 revenue of $66.3B, in line with est., net profit up 17% YoY to $1.86B, above $1.63B est., and expects Q4 results to &quot;remain favorable&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/251112/p2#a251112p2)<!-- TECH:END -->
+ - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

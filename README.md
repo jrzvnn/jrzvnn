@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Visa announces a pilot allowing businesses to send stablecoins payouts directly to users&#39; or workers&#39; crypto wallets &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251112/p39#a251112p39)
+ - [The Steam Frame has two speakers on each side of your face for vibration cancellation](https://www.theverge.com/news/818599/valve-steam-frame-headset-speakers-head-strap-vibration-cancellation)
+ - [Energy and tech news at UN climate negotiations in Brazil](https://www.theverge.com/news/819192/united-nations-climate-change-conference-brazil-updates)
  - [Valve&#39;s Steam Frame features a replaceable battery strap, dual 2160×2160 LCD panels, a Snapdragon 8 Gen 3 chipset, 16GB of RAM, a microSD slot, and weighs 440g &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251112/p38#a251112p38)
- - [Our Favorite Travel and Outdoor Gear Is on Sale at Huckberry](https://www.wired.com/story/huckberry-sitewide-sale-2025/)
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Microsoft unveils an AI &quot;super factory&quot;, a new class of hubs built for AI training, in Atlanta as part of its Fairwater network of data centers &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251112/p37#a251112p37)
- - [Valve’s new VR streaming trick won’t just work with its own headset](https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link)<!-- TECH:END -->
+ - [Our Favorite Travel and Outdoor Gear Is on Sale at Huckberry](https://www.wired.com/story/huckberry-sitewide-sale-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon is cracking down on illegal streaming on its Fire TV Stick](https://www.theverge.com/news/819043/amazon-illegal-streaming-fire-tv-stick)
+ - [The AI Boom Is Fueling a Need for Speed in Chip Networking](https://www.wired.com/story/ai-boom-networking-technology-photonics/)
+ - [Passports on iPhone arrive with new Digital ID feature](https://appleinsider.com/articles/25/11/12/passports-on-iphone-arrive-with-new-digital-id-feature?utm_source=rss)
  - [B&amp;H&#39;s early Black Friday Apple deals start at just $25.99](https://appleinsider.com/articles/25/11/12/bhs-early-black-friday-apple-deals-start-at-just-2599?utm_source=rss)
- - [OWC&#39;s Helios 5S adds PCI-E to Thunderbolt 5 Macs](https://appleinsider.com/articles/25/11/12/owcs-helios-5s-adds-pci-e-to-thunderbolt-5-macs?utm_source=rss)
- - [Air travel chaos will linger long after the government reopens](https://www.theverge.com/transportation/818878/air-travel-delay-cancel-government-shutdown-faa)
- - [65-inch OLEDs are under $1,000 ahead of Black Friday](https://www.theverge.com/gadgets/818836/65-inch-oleds-are-under-1000-ahead-of-black-friday)
- - [Waymo becomes the first robotaxi provider to offer driverless rides on freeways, available 24/7 in San Francisco, Phoenix, and Los Angeles for users who opt in &lpar;Zoe Thomas/Bloomberg&rpar;](http://www.techmeme.com/251112/p26#a251112p26)<!-- TECH:END -->
+ - [OWC&#39;s Helios 5S adds PCI-E to Thunderbolt 5 Macs](https://appleinsider.com/articles/25/11/12/owcs-helios-5s-adds-pci-e-to-thunderbolt-5-macs?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

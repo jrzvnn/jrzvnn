@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 12, #415](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-12-415/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-12/#ftag=CAD590a51e)
  - [Australia&#39;s spy chief said Chinese state hackers probed telecom networks and critical infrastructure; Australia lost $8B+ last year to espionage &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251111/p41#a251111p41)
  - [Octopath Traveler 0 First Impressions: New Tricks, With a Little Less Soul](https://www.cnet.com/tech/gaming/octopath-traveler-0-first-impressions-new-tricks-with-a-little-less-soul/#ftag=CAD590a51e)
- - [November Nights Are Dazzling With These 3 Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)
- - [Elden Ring Nightreign DLC: The Forsaken Hollows Adds More Classes and Bosses](https://www.cnet.com/tech/gaming/elden-ring-nightreign-dlc-the-forsaken-hollows-adds-more-classes-and-bosses/#ftag=CAD590a51e)
- - [The UK proposes laws to protect public services from cyberattacks, including regulating companies providing services to private and public sector organizations &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/251111/p40#a251111p40)<!-- TECH:END -->
+ - [November Nights Are Dazzling With These 3 Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

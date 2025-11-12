@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [From the archives](http://9gag.com/gag/apRzz9p)
- - 😝 [Niceee](http://9gag.com/gag/a4PmB0A)
- - 💣 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)
- - 😝 [The cat&#39;s face](http://9gag.com/gag/aByjbBN)
- - 👉 [My back hurts](http://9gag.com/gag/aVv4948)<!-- MEMES:END -->
+ - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
+ - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - 😝 [The northern lights are absolutely breathtaking](http://9gag.com/gag/avy4VwX)
+ - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 💣 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
  - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
  - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
 

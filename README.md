@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jason Momoa &amp; Kurt Sutter steer Apple TV toward darker prestige drama with &#39;Nomad&#39;](https://appleinsider.com/articles/25/11/12/jason-momoa-kurt-sutter-steer-apple-tv-toward-darker-prestige-drama-with-nomad?utm_source=rss)
+ - [Microsoft’s Surface Laptop Is Marked Down by $350](https://www.wired.com/story/surface-laptop-deal-1125/)
+ - [We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)
  - [OpenAI rolls out GPT-5.1 Instant, &quot;warmer&quot; and &quot;more conversational&quot;, and GPT-5.1 Thinking, &quot;easier to understand and faster&quot;, starting with paid ChatGPT users &lpar;OpenAI&rpar;](http://www.techmeme.com/251112/p36#a251112p36)
- - [How the Steam Frame compares to other VR headsets](https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison)
- - [I Tested Four Budget TVs and This Hisense Was the Best](https://www.cnet.com/tech/home-entertainment/best-budget-tv/#ftag=CAD590a51e)
- - [Valve thinks Arm has ‘potential’ for SteamOS handhelds, laptops, and more](https://www.theverge.com/news/818698/valve-steamos-arm-potential-handhelds-laptops)
- - [Netflix House Philadelphia Might Give You FOMO, but Here&#39;s a Look](https://www.cnet.com/tech/services-and-software/netflix-house-philadelphia-might-give-you-fomo-but-heres-a-look/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How the Steam Frame compares to other VR headsets](https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

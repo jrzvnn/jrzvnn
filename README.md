@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea&#39;s KT Corp. launches a sovereign cloud for Korean enterprises built on Azure, with encrypted in-memory computing and strict local data governance &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/251111/p43#a251111p43)
+ - [Sources: the Chinese government is intervening in how SMIC allocates its chip output, prioritizing Huawei amid US export restrictions on advanced chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251111/p42#a251111p42)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 12, #415](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-12-415/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-12/#ftag=CAD590a51e)
- - [Australia&#39;s spy chief said Chinese state hackers probed telecom networks and critical infrastructure; Australia lost $8B+ last year to espionage &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251111/p41#a251111p41)
- - [Octopath Traveler 0 First Impressions: New Tricks, With a Little Less Soul](https://www.cnet.com/tech/gaming/octopath-traveler-0-first-impressions-new-tricks-with-a-little-less-soul/#ftag=CAD590a51e)
- - [November Nights Are Dazzling With These 3 Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia&#39;s spy chief said Chinese state hackers probed telecom networks and critical infrastructure; Australia lost $8B+ last year to espionage &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251111/p41#a251111p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

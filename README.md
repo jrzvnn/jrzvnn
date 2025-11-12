@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
- - 💣 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 😝 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)
- - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
+ - 😝 [Amazonian](http://9gag.com/gag/agm6pDg)
+ - 😝 [Get it ma dudes](http://9gag.com/gag/axyQ8mD)
+ - 💣 [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
+ - 😝 [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)
+ - 👉 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)<!-- MEMES:END -->
 
 ---
 

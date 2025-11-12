@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Menulog, acquired by Just Eat in 2015, plans to shut down in Australia on November 26, leaving Uber Eats and DoorDash as the country&#39;s main food delivery apps &lpar;Tegan Jones/SmartCompany&rpar;](http://www.techmeme.com/251111/p44#a251111p44)
  - [South Korea&#39;s KT Corp. launches a sovereign cloud for Korean enterprises built on Azure, with encrypted in-memory computing and strict local data governance &lpar;Jie Ye-eun/The Korea Herald&rpar;](http://www.techmeme.com/251111/p43#a251111p43)
  - [Sources: the Chinese government is intervening in how SMIC allocates its chip output, prioritizing Huawei amid US export restrictions on advanced chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251111/p42#a251111p42)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 12, #415](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-12-415/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-12/#ftag=CAD590a51e)
- - [Australia&#39;s spy chief said Chinese state hackers probed telecom networks and critical infrastructure; Australia lost $8B+ last year to espionage &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251111/p41#a251111p41)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 12](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-12/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [IBM unveils two quantum computers, Loon and Nighthawk, that it says feature unprecedented qubit connectivity designs aiming to enable error-free computations &lpar;Karmela Padavic-Callaghan/New Scientist&rpar;](http://www.techmeme.com/251112/p10#a251112p10)
  - [Amazon says it is rolling out a tougher approach to combat illegal sports streaming on Fire TV Stick devices, aiming to block apps that stream pirated content &lpar;Adam Leventhal/The Athletic&rpar;](http://www.techmeme.com/251112/p9#a251112p9)
  - [D-Matrix, which develops AI inference chips, raised $275M co-led by Bullhound, Triatomic, and Temasek at a $2B valuation, taking its total funding to $450M &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251112/p8#a251112p8)
  - [How Do Pimple Patches Work? Everything You Need to Know &lpar;2025&rpar;](https://www.wired.com/story/how-do-pimple-patches-work/)
- - [Google files a lawsuit in the SDNY against a group of China-based hackers that it says run the Lighthouse platform for &quot;phishing services&quot;, stealing $1B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/251112/p7#a251112p7)
- - [JD.com says it had record sales during China&#39;s Singles&#39; Day event, without giving transaction values, despite Chinese deflation; Alibaba hasn&#39;t released data &lpar;Jacob Gu/Bloomberg&rpar;](http://www.techmeme.com/251112/p6#a251112p6)<!-- TECH:END -->
+ - [Google files a lawsuit in the SDNY against a group of China-based hackers that it says run the Lighthouse platform for &quot;phishing services&quot;, stealing $1B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/251112/p7#a251112p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

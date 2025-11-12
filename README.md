@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Microsoft unveils an AI &quot;super factory&quot;, a new class of hubs built for AI training, in Atlanta as part of its Fairwater network of data centers &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251112/p37#a251112p37)
+ - [Valve’s new VR streaming trick won’t just work with its own headset](https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link)
  - [Jason Momoa &amp; Kurt Sutter steer Apple TV toward darker prestige drama with &#39;Nomad&#39;](https://appleinsider.com/articles/25/11/12/jason-momoa-kurt-sutter-steer-apple-tv-toward-darker-prestige-drama-with-nomad?utm_source=rss)
- - [Microsoft’s Surface Laptop Is Marked Down by $350](https://www.wired.com/story/surface-laptop-deal-1125/)
- - [We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)
- - [OpenAI rolls out GPT-5.1 Instant, &quot;warmer&quot; and &quot;more conversational&quot;, and GPT-5.1 Thinking, &quot;easier to understand and faster&quot;, starting with paid ChatGPT users &lpar;OpenAI&rpar;](http://www.techmeme.com/251112/p36#a251112p36)
- - [How the Steam Frame compares to other VR headsets](https://www.theverge.com/news/818041/valve-steam-frame-vr-headsets-comparison)<!-- TECH:END -->
+ - [Microsoft’s Surface Laptop Is Marked Down by $350](https://www.wired.com/story/surface-laptop-deal-1125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

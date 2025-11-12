@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
- - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 💣 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 😝 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)
+ - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
  - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
  - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
 

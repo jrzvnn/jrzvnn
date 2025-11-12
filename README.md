@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
  - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 💣 [Women](http://9gag.com/gag/aMVD68X)
- - 😝 [The best day in doggos life.](http://9gag.com/gag/aYQZ6Kw)
- - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
+ - 💣 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
+ - 😝 [Found here around 2010.](http://9gag.com/gag/aMVD7qA)
+ - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
 
 ---
 

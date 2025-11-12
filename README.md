@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Circle reports Q3 revenue up 66% YoY to $739.8M, USDC in Circulation at quarter end up 108% YoY to $73.7B, and net income up 202% YoY to $214M; CRCL drops 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/251112/p22#a251112p22)
- - [iPhone 18 Pro Max may be the heaviest iPhone ever made](https://appleinsider.com/articles/25/11/12/iphone-18-pro-max-may-be-the-heaviest-iphone-ever-made?utm_source=rss)
- - [Fei-Fei Li&#39;s World Labs launches Marble, its first world model to let users turn prompts, photos, and other media into editable 3D environments, after a beta &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/251112/p21#a251112p21)
- - [The Super Mario Galaxy Movie shoots for the stars in first trailer](https://www.theverge.com/entertainment/818737/super-mario-galaxy-movie-trailer)
- - [Airbnb plans to launch a three-month pilot on January 5 to let guests order groceries via Instacart within its app for rentals in Phoenix, Orlando, and LA &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251112/p20#a251112p20)<!-- TECH:END -->
+ - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)
+ - [Anthropic plans to spend $50B on a US infrastructure buildout, starting with data centers in Texas and New York in partnership with Fluidstack, opening in 2026 &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251112/p23#a251112p23)
+ - [5 things I love about Amazon&amp;#8217;s new Echo Shows — and 3 things I don’t](https://www.theverge.com/tech/818814/amazon-echo-show-11-8-alexa-plus-hands-on)
+ - [The Verge’s 2025 holiday gift guide for teens](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
+ - [Circle reports Q3 revenue up 66% YoY to $739.8M, USDC in Circulation at quarter end up 108% YoY to $73.7B, and net income up 202% YoY to $214M; CRCL drops 5%+ &lpar;Reuters&rpar;](http://www.techmeme.com/251112/p22#a251112p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

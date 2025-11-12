@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)
- - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
+ - 😝 [A short and witty title does the trick.](http://9gag.com/gag/a2v9VRO)
+ - 😝 [Arguing on the internet is like running in the special Olympics, even if you win you are still retarded.](http://9gag.com/gag/a4Pm8Gm)
+ - 💣 [Amazonian](http://9gag.com/gag/agm6pDg)
+ - 😝 [Found here around 2010.](http://9gag.com/gag/aMVD7qA)
+ - 👉 [Get it ma dudes](http://9gag.com/gag/axyQ8mD)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
  - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
  - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 😝 [I made a song entirely from 50 country artists singing &quot;cold beer&quot;](https://www.reddit.com/r/funny/comments/1ov4ubg/i_made_a_song_entirely_from_50_country_artists/)
+ - 😝 [Women](http://9gag.com/gag/aMVD68X)
  - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
 
 ---

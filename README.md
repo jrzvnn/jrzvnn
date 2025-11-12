@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Can&#39;t a bro travel and eat a Rolex without getting arrested](http://9gag.com/gag/azxovKK)
+ - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
  - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 💣 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
  - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 ---

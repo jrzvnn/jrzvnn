@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)
  - [Foxconn reports Q3 revenue of $66.3B, in line with estimates, net profit up 17% YoY to $1.86B, vs. $1.63B exp., says it expects significant YoY growth in Q4 &lpar;CNBC&rpar;](http://www.techmeme.com/251112/p2#a251112p2)
  - [Womanizer Coupons: Save 15% in November](https://www.wired.com/story/womanizer-coupon/)
  - [Hydrow Discount Code: Save Up to $150 This Month](https://www.wired.com/story/hydrow-discount-code/)
- - [20% VistaPrint Coupon &amp; Promo Codes | November 2025](https://www.wired.com/story/vistaprint-coupon-code/)
- - [Bose Coupon Codes &amp; Discounts: 10% Off](https://www.wired.com/story/bose-coupon-code/)<!-- TECH:END -->
+ - [20% VistaPrint Coupon &amp; Promo Codes | November 2025](https://www.wired.com/story/vistaprint-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

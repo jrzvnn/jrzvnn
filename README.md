@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve has stopped manufacturing its Index VR headset](https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame)
- - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)
- - [Valve unveils the second-gen Steam Controller, with a puck that serves as both a low-latency wireless connector and a charging station, launching in early 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251112/p34#a251112p34)
- - [Valve plans to launch Steam Frame, a VR headset with a Snapdragon 8 Gen 3 chip for streaming games from a PC or playing Windows games locally, in 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251112/p33#a251112p33)
- - [Apple to Reportedly Pay Google $1 Billion a Year for Siri&#39;s Custom Gemini AI Model](https://www.cnet.com/tech/services-and-software/apple-to-reportedly-pay-google-1-billion-a-year-for-siris-custom-gemini-ai-model/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OpenAI asks a federal judge to reverse an order that required it to turn over 20M anonymized ChatGPT chat logs in NYT&#39;s copyright suit, citing privacy concerns &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251112/p35#a251112p35)
+ - [Anthropic’s Claude Takes Control of a Robot Dog](https://www.wired.com/story/anthropic-claude-takes-control-robot-dog/)
+ - [OpenAI says the brand-new GPT-5.1 is &amp;#8216;warmer&amp;#8217; and has more &amp;#8216;personality&amp;#8217; options](https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets)
+ - [Valve is welcoming Android games into Steam](https://www.theverge.com/news/818672/valve-android-apps-steam-frame)
+ - [Valve has stopped manufacturing its Index VR headset](https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

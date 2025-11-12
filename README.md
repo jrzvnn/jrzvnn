@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Dubai court orders a worldwide freeze on $456M in reserves linked to Justin Sun&#39;s bailout of Techteryx&#39;s TrueUSD, saying there&#39;s evidence of a breach of trust &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251112/p43#a251112p43)
  - [New in iOS 26.2 beta 2: Liquid Glass tweaks, Games app changes, more](https://appleinsider.com/articles/25/11/12/new-in-ios-262-beta-2-liquid-glass-tweaks-games-app-changes-more?utm_source=rss)
  - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
  - [Former Twitter CEO Parag Agrawal&#39;s Parallel Web Systems, which is building tools for AI agents to search the web, raised a $100M Series A at a $740M valuation &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/251112/p42#a251112p42)
- - [DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules](https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/)
- - [You Can Use an AI Clone of Matthew McConaughey&#39;s Voice, If He Says It&#39;s Alright, Alright, Alright](https://www.cnet.com/tech/services-and-software/you-can-use-an-ai-clone-of-matthew-mcconaugheys-voice-if-he-says-its-alright-alright-alright/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DHS Kept Chicago Police Records for Months in Violation of Domestic Espionage Rules](https://www.wired.com/story/dhs-kept-chicago-police-records-for-months-in-violation-of-domestic-espionage-rules/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

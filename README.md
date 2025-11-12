@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Super Mario Galaxy Movie shoots for the stars in first trailer](https://www.theverge.com/entertainment/818737/super-mario-galaxy-movie-trailer)
+ - [Airbnb plans to launch a three-month pilot on January 5 to let guests order groceries via Instacart within its app for rentals in Phoenix, Orlando, and LA &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251112/p20#a251112p20)
  - [UN climate talks are getting weird](https://www.theverge.com/report/818223/un-climate-united-nations-climate-change-conference-cop30-ai-trade-energy-costs-are-getting-weird)
  - [Indian investment app Groww raised ~$748M in its Indian IPO, closing up 29% and giving it a ~$9B market cap; Groww is the first Indian YC-backed startup to IPO &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251112/p19#a251112p19)
- - [iPhone Fold: All the rumors about Apple&#39;s first foldable, and what it might look like](https://appleinsider.com/articles/25/11/12/iphone-fold-all-the-rumors-about-apples-first-foldable-and-what-it-might-look-like?utm_source=rss)
- - [Coinbase plans to move its incorporation from Delaware to Texas, saying Delaware &quot;once provided companies with consistency&quot; but now has &quot;unpredictable outcomes&quot; &lpar;Ari Levy/CNBC&rpar;](http://www.techmeme.com/251112/p18#a251112p18)
- - [Google relaunches Cameyo to entice businesses from Windows to ChromeOS](https://www.theverge.com/news/818716/google-cameyo-chromeos-windows-app-virtualization)<!-- TECH:END -->
+ - [iPhone Fold: All the rumors about Apple&#39;s first foldable, and what it might look like](https://appleinsider.com/articles/25/11/12/iphone-fold-all-the-rumors-about-apples-first-foldable-and-what-it-might-look-like?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

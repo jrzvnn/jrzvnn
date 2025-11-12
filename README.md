@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)
- - [An Apple-funded study about DMA finds developers didn&#39;t pass on App Store fee savings to EU users, keeping prices the same or increasing them on 91% of products &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/251112/p31#a251112p31)
- - [Valve’s new Steam Controller might be my dream controller](https://www.theverge.com/games/815061/valve-steam-controller-hands-on-deck-frame-machine)
- - [The Steam Frame is a surprising new twist on VR](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on)
- - [Our first look at the Steam Machine, Valve’s ambitious new game console](https://www.theverge.com/tech/818111/valve-steam-machine-hands-on-preview-specs-announcement)<!-- TECH:END -->
+ - [Valve has stopped manufacturing its Index VR headset](https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame)
+ - [How to use an iPhone to take pictures of the Aurora Borealis](https://appleinsider.com/inside/ios-26/tips/how-to-use-an-iphone-to-take-pictures-of-the-aurora-borealis?utm_source=rss)
+ - [Valve unveils the second-gen Steam Controller, with a puck that serves as both a low-latency wireless connector and a charging station, launching in early 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251112/p34#a251112p34)
+ - [Valve plans to launch Steam Frame, a VR headset with a Snapdragon 8 Gen 3 chip for streaming games from a PC or playing Windows games locally, in 2026 &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251112/p33#a251112p33)
+ - [Apple to Reportedly Pay Google $1 Billion a Year for Siri&#39;s Custom Gemini AI Model](https://www.cnet.com/tech/services-and-software/apple-to-reportedly-pay-google-1-billion-a-year-for-siris-custom-gemini-ai-model/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

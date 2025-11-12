@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You died](http://9gag.com/gag/an780vV)
  - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
  - 💣 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 😝 [The northern lights are absolutely breathtaking](http://9gag.com/gag/avy4VwX)
- - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
+ - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
 
 ---
 

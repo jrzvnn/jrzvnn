@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
  - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 💣 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 😝 [Found here around 2010.](http://9gag.com/gag/aMVD7qA)
+ - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
  - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
 
 ---

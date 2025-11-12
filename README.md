@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches a Digital ID and says it&amp;#8217;ll be accepted by the TSA](https://www.theverge.com/news/819077/apple-digital-id-launch-tsa)
+ - [Ireland&#39;s media regulator launches its first formal investigation under the EU DSA, probing X for allegedly failing to remove illegal content reported by users &lpar;Bloomberg&rpar;](http://www.techmeme.com/251112/p29#a251112p29)
  - [Sources: the EU is preparing to probe Google over news publisher rankings in search over claims that Google demotes sites with &quot;third party&quot; promotional content &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251112/p28#a251112p28)
  - [Passports on iPhone arrive with new Digital ID feature](https://appleinsider.com/articles/25/11/12/passports-on-iphone-arrive-with-new-digital-id-feature?utm_source=rss)
- - [Aqara’s cord-free presence sensor runs for up to three years on battery power](https://www.theverge.com/news/819067/aqara-presence-multi-sensor-fp300-battery-power-zigbee-matter-thread)
- - [WisdomAI, which offers AI-driven data analytics that can answer business questions, including from &quot;dirty&quot; data, raised a $50M Series A led by Kleiner Perkins &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251112/p27#a251112p27)
- - [Anthropic will invest $50 billion in building AI data centers in the US](https://www.theverge.com/news/819072/anthropic-50-billion-infrastructure-ai-data-center-investment)<!-- TECH:END -->
+ - [Aqara’s cord-free presence sensor runs for up to three years on battery power](https://www.theverge.com/news/819067/aqara-presence-multi-sensor-fp300-battery-power-zigbee-matter-thread)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

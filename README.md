@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ultralight gummy bear power bank just got yanked from Amazon](https://www.theverge.com/news/818906/haribo-gummy-bear-power-bank-amazon-removed)
- - [Amazon Echo Show 8 &lpar;$180&rpar; and Echo Show 11 &lpar;$220&rpar; review: better hardware and software, and Alexa+ is an improvement, but no camera cover and ads in the future &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/251112/p25#a251112p25)
- - [Nomad’s new wallet tracking card gets a battery life boost](https://www.theverge.com/news/818791/nomad-tracking-card-pro-apple-find-my-wireless-charging-battery)
- - [13 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms-2025/)
- - [Filing: Synopsys plans to lay off ~10% of its staff, or ~2,000 employees, after completing its $35B acquisition of engineering design firm Ansys earlier in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251112/p24#a251112p24)<!-- TECH:END -->
+ - [Air travel chaos will linger long after the government reopens](https://www.theverge.com/transportation/818878/air-travel-delay-cancel-government-shutdown-faa)
+ - [65-inch OLEDs are under $1,000 ahead of Black Friday](https://www.theverge.com/gadgets/818836/65-inch-oleds-are-under-1000-ahead-of-black-friday)
+ - [Waymo becomes the first robotaxi provider to offer driverless rides on freeways, available 24/7 in San Francisco, Phoenix, and Los Angeles for users who opt in &lpar;Zoe Thomas/Bloomberg&rpar;](http://www.techmeme.com/251112/p26#a251112p26)
+ - [EU developers don&#39;t pass on App Store fee savings to users](https://appleinsider.com/articles/25/11/12/eu-developers-dont-pass-on-app-store-fee-savings-to-users?utm_source=rss)
+ - [Waymo’s Robotaxis Can Now Use the Highway, Speeding Up Longer Trips](https://www.wired.com/story/waymo-robotaxis-can-now-take-highways-freeways/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

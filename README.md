@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
+ - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
+ - 😝 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
+ - 💣 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
  - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 💣 [That&#39;s what friends are for](http://9gag.com/gag/an788gz)
- - 😝 [It\u2019s a tight situation](http://9gag.com/gag/ajPGjz8)
- - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
+ - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
 
 ---
 

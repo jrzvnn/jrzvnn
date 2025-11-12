@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
- - 💣 [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 👉 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)<!-- MEMES:END -->
+ - 😝 [The future is now](http://9gag.com/gag/a0ezGOL)
+ - 😝 [Niceee](http://9gag.com/gag/a4PmB0A)
+ - 💣 [Rotten Tomatoes scores](http://9gag.com/gag/agm6bLr)
+ - 😝 [The cat&#39;s face](http://9gag.com/gag/aByjbBN)
+ - 👉 [My back hurts](http://9gag.com/gag/aVv4948)<!-- MEMES:END -->
 
 ---
 

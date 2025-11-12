@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia&#39;s spy chief said Chinese state hackers probed telecom networks and critical infrastructure; Australia lost $8B+ last year to espionage &lpar;Kirsty Needham/Reuters&rpar;](http://www.techmeme.com/251111/p41#a251111p41)
  - [Octopath Traveler 0 First Impressions: New Tricks, With a Little Less Soul](https://www.cnet.com/tech/gaming/octopath-traveler-0-first-impressions-new-tricks-with-a-little-less-soul/#ftag=CAD590a51e)
- - [November Nights Are Dazzling With These Three Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)
+ - [November Nights Are Dazzling With These 3 Meteor Showers. How to Watch Like a Pro](https://www.cnet.com/science/space/november-nights-are-dazzling-with-these-three-meteor-showers-how-to-watch-like-a-pro/#ftag=CAD590a51e)
  - [Elden Ring Nightreign DLC: The Forsaken Hollows Adds More Classes and Bosses](https://www.cnet.com/tech/gaming/elden-ring-nightreign-dlc-the-forsaken-hollows-adds-more-classes-and-bosses/#ftag=CAD590a51e)
- - [The UK proposes laws to protect public services from cyberattacks, including regulating companies providing services to private and public sector organizations &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/251111/p40#a251111p40)
- - [Sony Unveils 27-Inch, 240Hz PlayStation Monitor That Charges Your PS5 Controller](https://www.cnet.com/tech/gaming/sony-unveils-27-inch-240hz-playstation-monitor-that-charges-your-ps5-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UK proposes laws to protect public services from cyberattacks, including regulating companies providing services to private and public sector organizations &lpar;Catarina Demony/Reuters&rpar;](http://www.techmeme.com/251111/p40#a251111p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches a Digital ID and says it&amp;#8217;ll be accepted by the TSA](https://www.theverge.com/news/819077/apple-digital-id-launch-tsa)
- - [Ireland&#39;s media regulator launches its first formal investigation under the EU DSA, probing X for allegedly failing to remove illegal content reported by users &lpar;Bloomberg&rpar;](http://www.techmeme.com/251112/p29#a251112p29)
- - [Sources: the EU is preparing to probe Google over news publisher rankings in search over claims that Google demotes sites with &quot;third party&quot; promotional content &lpar;Barbara Moens/Financial Times&rpar;](http://www.techmeme.com/251112/p28#a251112p28)
- - [Passports on iPhone arrive with new Digital ID feature](https://appleinsider.com/articles/25/11/12/passports-on-iphone-arrive-with-new-digital-id-feature?utm_source=rss)
- - [Aqara’s cord-free presence sensor runs for up to three years on battery power](https://www.theverge.com/news/819067/aqara-presence-multi-sensor-fp300-battery-power-zigbee-matter-thread)<!-- TECH:END -->
+ - [We tried Valve’s new VR headset, PC, and controller — ask us anything!](https://www.theverge.com/games/818113/valve-steam-frame-machine-controller-vr-headset-pc-ask-us-anything-ama)
+ - [An Apple-funded study about DMA finds developers didn&#39;t pass on App Store fee savings to EU users, keeping prices the same or increasing them on 91% of products &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/251112/p31#a251112p31)
+ - [Valve’s new Steam Controller might be my dream controller](https://www.theverge.com/games/815061/valve-steam-controller-hands-on-deck-frame-machine)
+ - [The Steam Frame is a surprising new twist on VR](https://www.theverge.com/games/816118/valve-steam-frame-vr-headset-streaming-arm-steamos-hands-on)
+ - [Our first look at the Steam Machine, Valve’s ambitious new game console](https://www.theverge.com/tech/818111/valve-steam-machine-hands-on-preview-specs-announcement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

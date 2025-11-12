@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ultralight gummy bear power bank just got yanked from Amazon](https://www.theverge.com/news/818906/haribo-gummy-bear-power-bank-amazon-removed)
+ - [Amazon Echo Show 8 &lpar;$180&rpar; and Echo Show 11 &lpar;$220&rpar; review: better hardware and software, and Alexa+ is an improvement, but no camera cover and ads in the future &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/251112/p25#a251112p25)
  - [Nomad’s new wallet tracking card gets a battery life boost](https://www.theverge.com/news/818791/nomad-tracking-card-pro-apple-find-my-wireless-charging-battery)
- - [Filing: Synopsys plans to lay off ~10% of its staff, or ~2,000 employees, after completing its $35B acquisition of engineering design firm Ansys earlier in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251112/p24#a251112p24)
- - [OWC StudioStack expands Mac Studio storage without a larger footprint](https://appleinsider.com/articles/25/11/12/owc-studiostack-expands-mac-studio-storage-without-a-larger-footprint?utm_source=rss)
- - [Hate Meta? Even Realities Is Making the Smart Glasses You Want](https://www.wired.com/story/even-realities-even-g2-smart-glasses-and-even-r1-smart-ring/)
- - [The Best Pixel 10 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/)<!-- TECH:END -->
+ - [13 Great Gifts for Mom: Ideas for the Best Mother &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-moms-2025/)
+ - [Filing: Synopsys plans to lay off ~10% of its staff, or ~2,000 employees, after completing its $35B acquisition of engineering design firm Ansys earlier in 2025 &lpar;Jaspreet Singh/Reuters&rpar;](http://www.techmeme.com/251112/p24#a251112p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve thinks Arm has ‘potential’ for SteamOS handhelds, laptops, and more](https://www.theverge.com/news/818698/valve-steamos-arm-potential-handhelds-laptops)
  - [OpenAI asks a federal judge to reverse an order that required it to turn over 20M anonymized ChatGPT chat logs in NYT&#39;s copyright suit, citing privacy concerns &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251112/p35#a251112p35)
  - [Anthropic’s Claude Takes Control of a Robot Dog](https://www.wired.com/story/anthropic-claude-takes-control-robot-dog/)
  - [OpenAI says the brand-new GPT-5.1 is &amp;#8216;warmer&amp;#8217; and has more &amp;#8216;personality&amp;#8217; options](https://www.theverge.com/news/802653/openai-gpt-5-1-upgrade-personality-presets)
- - [Valve is welcoming Android games into Steam](https://www.theverge.com/news/818672/valve-android-apps-steam-frame)
- - [Valve has stopped manufacturing its Index VR headset](https://www.theverge.com/news/817967/valve-index-vr-headset-stopped-manufacturing-frame)<!-- TECH:END -->
+ - [Valve is welcoming Android games into Steam](https://www.theverge.com/news/818672/valve-android-apps-steam-frame)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

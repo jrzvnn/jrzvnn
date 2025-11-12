@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Best tool for putting a sausage in bread](http://9gag.com/gag/ae9yyoB)
- - 😝 [This is actually genius](http://9gag.com/gag/aW4Peb4)
- - 💣 [One guitar is worth $450,000, the other $2,200.](http://9gag.com/gag/amoKKXj)
- - 😝 [The future is now](http://9gag.com/gag/a0ezGOL)
- - 👉 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)<!-- MEMES:END -->
+ - 😝 [As\u00ed quien falta a clases.](http://9gag.com/gag/an780M5)
+ - 💣 [This is actually genius](http://9gag.com/gag/aW4Peb4)
+ - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 👉 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)<!-- MEMES:END -->
 
 ---
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Valve&#39;s Steam Frame features a replaceable battery strap, dual 2160×2160 LCD panels, a Snapdragon 8 Gen 3 chipset, 16GB of RAM, a microSD slot, and weighs 440g &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/251112/p38#a251112p38)
+ - [Our Favorite Travel and Outdoor Gear Is on Sale at Huckberry](https://www.wired.com/story/huckberry-sitewide-sale-2025/)
  - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
  - [Microsoft unveils an AI &quot;super factory&quot;, a new class of hubs built for AI training, in Atlanta as part of its Fairwater network of data centers &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/251112/p37#a251112p37)
- - [Valve’s new VR streaming trick won’t just work with its own headset](https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link)
- - [Jason Momoa &amp; Kurt Sutter steer Apple TV toward darker prestige drama with &#39;Nomad&#39;](https://appleinsider.com/articles/25/11/12/jason-momoa-kurt-sutter-steer-apple-tv-toward-darker-prestige-drama-with-nomad?utm_source=rss)<!-- TECH:END -->
+ - [Valve’s new VR streaming trick won’t just work with its own headset](https://www.theverge.com/news/817993/valve-vr-steam-frame-foveated-streaming-rendering-link)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

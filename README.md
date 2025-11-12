@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wait, you mean I wasn&#39;t supposed to put these in the microwave this whole time](http://9gag.com/gag/ajPGjbw)
- - 😝 [When Dad is one of the boys but has to be seen acting responsible](http://9gag.com/gag/aND8GAb)
- - 💣 [Women](http://9gag.com/gag/aMVD68X)
- - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 👉 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)<!-- MEMES:END -->
+ - 😝 [Just a little girl questioning all her life choices at the dinner table](http://9gag.com/gag/aMVD0xR)
+ - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
+ - 😝 [Well Well Well ...](http://9gag.com/gag/ajPG3z0)
+ - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
 
 ---
 

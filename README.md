@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google files a lawsuit in the SDNY against a group of China-based hackers that it says run the Lighthouse platform for &quot;phishing services&quot;, stealing $1B+ &lpar;Financial Times&rpar;](http://www.techmeme.com/251112/p7#a251112p7)
  - [JD.com says it had record sales during China&#39;s Singles&#39; Day event, without giving transaction values, despite Chinese deflation; Alibaba hasn&#39;t released data &lpar;Jacob Gu/Bloomberg&rpar;](http://www.techmeme.com/251112/p6#a251112p6)
  - [All of My Employees Are AI Agents, and So Are My Executives](https://www.wired.com/story/all-my-employees-are-ai-agents-so-are-my-executives/)
  - [German chipmaker Infineon reports Q4 revenue up 1% YoY to €3.94B, vs. €3.91B est., a €231M net profit, and expects 2026 sales growth as AI demand keeps booming &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/251112/p5#a251112p5)
- - [Sources: software-focused PE firm Vista plans significant workforce cuts in the coming years as it uses AI to compile presentations, aggregate data, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251112/p4#a251112p4)
- - [This Is the Platform Google Claims Is Behind a &#39;Staggering’ Scam Text Operation](https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/)<!-- TECH:END -->
+ - [Sources: software-focused PE firm Vista plans significant workforce cuts in the coming years as it uses AI to compile presentations, aggregate data, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/251112/p4#a251112p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

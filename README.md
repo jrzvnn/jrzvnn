@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google says all NotebookLM users will get access to Deep Research in the service within a week; users get to choose between two research styles: fast or deep &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p39#a251113p39)
+ - [Stewart Rhodes Relaunched the Oath Keepers. Even Old Oath Keepers Don&#39;t Care](https://www.wired.com/story/stewart-rhodes-relaunched-oath-keepers-militia/)
  - [Amazon renames Project Kuiper to Amazon Leo, a nod to &quot;low Earth orbit&quot;; so far, Amazon has launched 150+ satellites as part of a 3,200 planned constellation &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251113/p38#a251113p38)
  - [Mozilla announces an AI ‘window’ for Firefox](https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser)
- - [Meta overhauls Facebook Marketplace, adding new collaborative tools, expanded social features, an improved checkout experience, and Meta AI integrations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251113/p37#a251113p37)
- - [Tesla may be looking to Apple CarPlay to boost flagging sales](https://appleinsider.com/articles/25/11/13/tesla-may-be-looking-to-apple-carplay-to-boost-flagging-sales?utm_source=rss)
- - [The Fire TV Stick 4K Max is back down to $35, its best price in a year](https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale)<!-- TECH:END -->
+ - [Meta overhauls Facebook Marketplace, adding new collaborative tools, expanded social features, an improved checkout experience, and Meta AI integrations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251113/p37#a251113p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

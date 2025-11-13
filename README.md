@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philadelphia-based grocery delivery company Gopuff raised $250M led by Eldridge Industries and Valor Equity at an $8.5B valuation, down from $15B in 2021 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/251113/p11#a251113p11)
+ - [The EU opens a DMA investigation into Google over allegedly demoting news outlets with promotional content; Google says this is part of its anti-spam efforts &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251113/p10#a251113p10)
  - [JD.com reports Q3 revenue up 15% YoY to $42.1B, above ~$41.4B est., and net income down 55% YoY to ~$745M, as it competes in meal delivery and fast-commerce &lpar;Bloomberg&rpar;](http://www.techmeme.com/251113/p9#a251113p9)
  - [Jackrabbit MG Doble Review: Powerful, But Not Bike Path Legal](https://www.wired.com/review/jackrabbit-mg-doble/)
- - [Valve says it has stopped production of its high-end, PC-tethered VR headset Valve Index, which it&#39;s &quot;no longer manufacturing&quot;, after unveiling the Steam Frame &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251113/p8#a251113p8)
- - [OpenAI’s Open-Weight Models Are Coming to the US Military](https://www.wired.com/story/open-ai-artificial-intelligence-open-weight-model/)
- - [Tencent reports Q3 revenue up 15% YoY to ~$27B, above ~$26.6B est., net profit up 19% YoY to ~$8.9B, above ~$8B est., and domestic game revenue up 15% YoY &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p7#a251113p7)<!-- TECH:END -->
+ - [Valve says it has stopped production of its high-end, PC-tethered VR headset Valve Index, which it&#39;s &quot;no longer manufacturing&quot;, after unveiling the Steam Frame &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251113/p8#a251113p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI releases GPT-5.1 in the API, featuring a &quot;no-reasoning&quot; mode and extended prompt caching with up to 24-hour retention to generate faster responses &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p54#a251113p54)
  - [AirPods Pro 3, AirPods Pro 2, &amp; AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/11/13/airpods-pro-3-airpods-pro-2-airpods-4-receive-new-firmware-update?utm_source=rss)
  - [Sundar Pichai proved to be the &quot;wartime CEO&quot; that Google needed after ChatGPT&#39;s launch, making the company an AI leader, in part by empowering Demis Hassabis &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251113/p53#a251113p53)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)
- - [Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo](https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand)<!-- TECH:END -->
+ - [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

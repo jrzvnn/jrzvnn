@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [On a random Wednesday, Lord Gaben blessed us](http://9gag.com/gag/axyQweM)
- - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aXPQ37D)
- - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
- - 👉 [They already know everything their mom wants to teach. Hardware is still developing though.](http://9gag.com/gag/apRzwX9)<!-- MEMES:END -->
+ - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
+ - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
+ - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
 
 ---
 

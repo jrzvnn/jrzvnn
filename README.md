@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix is shifting its video game strategy to focus on popular titles like Pictionary, Boggle, and Tetris, playable on TVs with smartphones as controllers &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/251113/p44#a251113p44)
  - [The New Apple Watch Ultra 3 Is $100 Off](https://www.wired.com/story/apple-watch-ultra-3-deal-1125/)
  - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
  - [Apple may ditch MLS Season Pass, make games free to Apple TV subscribers](https://appleinsider.com/articles/25/11/13/apple-may-ditch-mls-season-pass-make-games-free-to-apple-tv-subscribers?utm_source=rss)
- - [The last-gen Apple Watch Series 10 has returned to its lowest price to date](https://www.theverge.com/gadgets/794705/apple-watch-series-10-se-2-amazon-deal-sale)
- - [Where have all the TV cameras gone?](https://www.theverge.com/column/819878/smart-tv-cameras)<!-- TECH:END -->
+ - [The last-gen Apple Watch Series 10 has returned to its lowest price to date](https://www.theverge.com/gadgets/794705/apple-watch-series-10-se-2-amazon-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

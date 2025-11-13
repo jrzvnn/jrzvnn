@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 😝 [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 💣 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
+ - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
  - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
+ - 💣 [Sheesh...](http://9gag.com/gag/azxovBZ)
+ - 😝 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
  - 👉 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)<!-- MEMES:END -->
 
 ---

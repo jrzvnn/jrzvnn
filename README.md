@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 😝 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
- - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
- - 👉 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)<!-- MEMES:END -->
+ - 😝 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
+ - 😝 [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)
+ - 💣 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)
+ - 😝 [Edible Road Salt](http://9gag.com/gag/aND85Y6)
+ - 👉 [It&#39;s Wednesday](http://9gag.com/gag/an78ZMV)<!-- MEMES:END -->
 
 ---
 

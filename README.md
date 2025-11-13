@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sundar Pichai proved to be the &quot;wartime CEO&quot; that Google needed after ChatGPT&#39;s launch, making the company an AI leader, in part by empowering Demis Hassabis &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251113/p53#a251113p53)
  - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
  - [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)
  - [Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo](https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand)
- - [Apple TV subscribers will get Major League Soccer games for free in 2026](https://appleinsider.com/articles/25/11/13/apple-tv-subscribers-will-get-major-league-soccer-games-for-free-in-2026?utm_source=rss)
- - [StubHub reports Q3 revenue up 8% YoY to $468.1M, vs. $452M est., gross merchandise sales up 11% to $2.43B; STUB drops 5%+ after hours &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251113/p52#a251113p52)<!-- TECH:END -->
+ - [Apple TV subscribers will get Major League Soccer games for free in 2026](https://appleinsider.com/articles/25/11/13/apple-tv-subscribers-will-get-major-league-soccer-games-for-free-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

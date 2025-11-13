@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 💣 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 😝 [They already know everything their mom wants to teach. Hardware is still developing though.](http://9gag.com/gag/apRzwX9)
+ - 💣 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)
+ - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
  - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
 
 ---

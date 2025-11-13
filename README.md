@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aXPQ37D)
  - 😝 [They already know everything their mom wants to teach. Hardware is still developing though.](http://9gag.com/gag/apRzwX9)
  - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 😝 [Ironic](http://9gag.com/gag/aByje2D)
+ - 😝 [It&#39;s not that you hate Microsoft. It&#39;s that you don&#39;t hate them enough.](http://9gag.com/gag/aZZoY89)
  - 👉 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)<!-- MEMES:END -->
 
 ---

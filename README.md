@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
+ - 😝 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 💣 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
- - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
- - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
+ - 💣 [It&#39;s Wednesday](http://9gag.com/gag/an78ZMV)
+ - 😝 [Neighbors afraid of my dog so I put a wig on him. Problem solved](http://9gag.com/gag/ary9wd7)
+ - 👉 [The best day in doggos life.](http://9gag.com/gag/aYQZ6Kw)<!-- MEMES:END -->
 
 ---
 

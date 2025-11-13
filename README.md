@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)
- - [The long-delayed Analogue 3D is shipping later this month](https://www.theverge.com/news/819903/analogue-3d-nintendo-64-console-ship-date-november-18)
- - [Dresden-based chip startup Ferroelectric Memory raised €100M, including €77M equity led by HV Capital and DTCF, to commercialize energy-saving memory chips &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251113/p24#a251113p24)
- - [Spotify starts rolling out Recaps, a new AI feature for audiobooks that summarizes what users have listened to so far, in beta on iOS &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p23#a251113p23)
- - [12 Best Computer Speakers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-computer-speakers/)<!-- TECH:END -->
+ - [OnePlus 15 Review: A Phone With Two-Day Battery Life](https://www.wired.com/review/oneplus-15/)
+ - [The OnePlus 15 is the phone to buy if you hate charging your phone](https://www.theverge.com/tech/818933/oneplus-15-review-battery-screen-camera)
+ - [The OnePlus 15 will go on sale in the US… sometime](https://www.theverge.com/tech/819200/oneplus-15-on-sale-us-delay-fcc)
+ - [Google launches AI-powered shopping features in the US, including conversational search, side-by-side item comparisons, price tracking, and AI-assisted checkout &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/251113/p25#a251113p25)
+ - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

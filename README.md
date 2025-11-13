@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Amazonian](http://9gag.com/gag/agm6pDg)
+ - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
+ - 😝 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
+ - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
  - 😝 [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 💣 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 😝 [Being royalty in the neighborhood was peak childhood](http://9gag.com/gag/a6Z46qN)
- - 👉 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)<!-- MEMES:END -->
+ - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
 
 ---
 

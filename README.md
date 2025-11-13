@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Philosophy](http://9gag.com/gag/a4Pmy5m)
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 😝 [Philosophy](http://9gag.com/gag/a4Pmy5m)
  - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
- - 😝 [It&#39;s not that you hate Microsoft. It&#39;s that you don&#39;t hate them enough.](http://9gag.com/gag/aZZoY89)
- - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
+ - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
+ - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 ---
 

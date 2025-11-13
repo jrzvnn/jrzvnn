@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Hackers use Anthropic’s AI model Claude once again](https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude)
  - [Who is buying VR and XR headsets anyway?](https://www.theverge.com/tech/820416/vr-xr-headsets-vision-pro-galaxy-xr-steam-frame-enterprise)
  - [Sources: Apple and Major League Soccer agree to make all MLS games available on Apple TV for no extra charge in 2026, ending the MLS Season Pass subscription &lpar;Paul Tenorio/The Athletic&rpar;](http://www.techmeme.com/251113/p45#a251113p45)
- - [Want More Jackbox-Like Couch Party Games? Just Open the Netflix App on Any TV](https://www.cnet.com/tech/gaming/want-more-jackbox-like-couch-party-games-just-open-the-netflix-app-on-any-tv/#ftag=CAD590a51e)
- - [Netflix is shifting its video game strategy to focus on popular titles like Pictionary, Boggle, and Tetris, playable on TVs with smartphones as controllers &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/251113/p44#a251113p44)<!-- TECH:END -->
+ - [Netflix is shifting its video game strategy to focus on popular titles like Pictionary, Boggle, and Tetris, playable on TVs with smartphones as controllers &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/251113/p44#a251113p44)
+ - [The New Apple Watch Ultra 3 Is $100 Off](https://www.wired.com/story/apple-watch-ultra-3-deal-1125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

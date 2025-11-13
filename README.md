@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where have all the TV cameras gone?](https://www.theverge.com/column/819878/smart-tv-cameras)
- - [Red Queen Bio, spun out of mRNA therapeutics company Helix Nano to focus on preventing AI-enabled bioweapons development, raised a $15M seed led by OpenAI &lpar;Deepa Seetharaman/Reuters&rpar;](http://www.techmeme.com/251113/p43#a251113p43)
- - [The UK CAT refuses Apple permission to appeal a ruling that it abused its dominance by charging unfairly high App Store fees; a lawyer calculates damages at £1B &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/251113/p42#a251113p42)
- - [Apple launches new Mini App Partner Program](https://appleinsider.com/articles/25/11/13/apple-launches-new-mini-app-partner-program?utm_source=rss)
- - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)<!-- TECH:END -->
+ - [The New Apple Watch Ultra 3 Is $100 Off](https://www.wired.com/story/apple-watch-ultra-3-deal-1125/)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Apple may ditch MLS Season Pass, make games free to Apple TV subscribers](https://appleinsider.com/articles/25/11/13/apple-may-ditch-mls-season-pass-make-games-free-to-apple-tv-subscribers?utm_source=rss)
+ - [The last-gen Apple Watch Series 10 has returned to its lowest price to date](https://www.theverge.com/gadgets/794705/apple-watch-series-10-se-2-amazon-deal-sale)
+ - [Where have all the TV cameras gone?](https://www.theverge.com/column/819878/smart-tv-cameras)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

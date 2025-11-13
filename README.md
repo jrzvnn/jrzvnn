@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [GC AI, which provides in-house corporate legal teams with AI tools for common tasks, raised a $60M Series B led by Scale and Northzone at a $555M valuation &lpar;Sara Merken/Reuters&rpar;](http://www.techmeme.com/251112/p50#a251112p50)
+ - [FanDuel and CME Group plan to launch FanDuel Predicts, a prediction market app, in December, bypassing restrictions in US states where gambling is illegal &lpar;Stephanie Stacey/Financial Times&rpar;](http://www.techmeme.com/251112/p49#a251112p49)
  - [Google says it will allow &quot;experienced users&quot; to install Android apps from unverified developers, following backlash against new sideloading restrictions &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/251112/p48#a251112p48)
  - [Satya Nadella says Microsoft has access to &quot;all&quot; of OpenAI&#39;s custom AI chip work and plans to use it to help develop its own in-house chip &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251112/p47#a251112p47)
- - [Tavus, which develops enterprise AI agents focused on employee recruitment and training, raised a $40M Series B led by CRV &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251112/p46#a251112p46)
- - [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation)
- - [AI Music Fools Most People, and They&#39;re Not Happy About It](https://www.cnet.com/tech/services-and-software/ai-music-fools-most-people-and-theyre-not-happy-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Toy Story 5&#39; Trailer Teases Terrifying Toy Battle: Woody and Buzz vs. a Tablet](https://www.cnet.com/tech/services-and-software/toy-story-5-trailer-teases-terrifying-toy-battle-woody-and-buzz-vs-a-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

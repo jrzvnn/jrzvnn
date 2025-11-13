@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SMIC reports Q3 revenue up 9.7% YoY to $2.38B, above $2.35B est., and net profit up 29% YoY to $191.8M, above $161.2M est., as analog chip demand rises &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p15#a251113p15)
  - [European carmaker officials warn the industry faces &quot;devastating&quot; chip shortages after the Netherlands&#39; Nexperia takeover and is scrambling to find alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p14#a251113p14)
  - [A Chinese-born businessman who the US and China say ran one of SE Asia&#39;s largest scam compounds was extradited to China, three years after his Thailand arrest &lpar;Francesca Regalado/New York Times&rpar;](http://www.techmeme.com/251113/p13#a251113p13)
  - [10 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery &lpar;2025&rpar;](https://www.wired.com/gallery/best-pod-coffee-makers/)
- - [Sources: Tencent and Apple agree to a deal to let Apple handle payments and take a 15% cut of purchases in WeChat mini games and apps, after a year of talks &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/251113/p12#a251113p12)
- - [AI Relationships Are on the Rise. A Divorce Boom Could Be Next](https://www.wired.com/story/ai-relationships-are-on-the-rise-a-divorce-boom-could-be-next/)<!-- TECH:END -->
+ - [Sources: Tencent and Apple agree to a deal to let Apple handle payments and take a 15% cut of purchases in WeChat mini games and apps, after a year of talks &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/251113/p12#a251113p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

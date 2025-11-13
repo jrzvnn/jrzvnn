@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
  - 😝 [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
- - 💣 [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)
- - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
+ - 😝 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
+ - 💣 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
+ - 😝 [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)
  - 👉 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)<!-- MEMES:END -->
 
 ---

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Sources: Alibaba is renaming its AI app Tongyi to &quot;Qwen&quot;, aiming to make it more like ChatGPT, and adding agentic-AI shopping features for platforms like Taobao &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251113/p5#a251113p5)
  - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)
+ - [Best No-Contract Internet Providers for November 2025](https://www.cnet.com/home/internet/best-no-contract-internet-providers/#ftag=CAD590a51e)
  - [KitchenAid Promo Code: 50% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
- - [Attentive.ai, maker of Beam AI for automating preconstruction workflows using AI, raised $30.5M Series B led by Insight Partners, bringing total raised to $48M &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/251113/p3#a251113p3)<!-- TECH:END -->
+ - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

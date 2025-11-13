@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple is trying to get permission to appeal UK $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/apple-is-trying-to-get-permission-to-appeal-uk-2-billion-app-store-ruling?utm_source=rss)
+ - [Best Running Socks &lpar;2025&rpar;: Compression, Merino Wool, Toe Socks](https://www.wired.com/gallery/the-best-running-socks/)
+ - [Spotify’s new audiobook recap feature uses AI to remind you of the story so far](https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary)
  - [Source: French authorities fully lifted the travel ban on Telegram CEO Pavel Durov and removed a requirement for regular police check-ins as of November 10 &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251113/p22#a251113p22)
- - [Europol, Eurojust, and others dismantle 1K+ servers linked to Rhadamanthys infostealer, VenomRAT, and Elysium botnet, as part of the ongoing Operation Endgame &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251113/p21#a251113p21)
- - [8 Best Webcams &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)
- - [Valve just built the Xbox that Microsoft is dreaming of](https://www.theverge.com/tech/819844/valve-steam-machine-xbox-console-steamos-competition-notepad)<!-- TECH:END -->
+ - [Europol, Eurojust, and others dismantle 1K+ servers linked to Rhadamanthys infostealer, VenomRAT, and Elysium botnet, as part of the ongoing Operation Endgame &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251113/p21#a251113p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

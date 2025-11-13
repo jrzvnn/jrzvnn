@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SMIC reports Q3 revenue up 9.7% YoY to $2.38B, above $2.35B est., and net profit up 29% YoY to $191.8M, above $161.2M est., as analog chip demand rises &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p15#a251113p15)
- - [European carmaker officials warn the industry faces &quot;devastating&quot; chip shortages after the Netherlands&#39; Nexperia takeover and is scrambling to find alternatives &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p14#a251113p14)
- - [A Chinese-born businessman who the US and China say ran one of SE Asia&#39;s largest scam compounds was extradited to China, three years after his Thailand arrest &lpar;Francesca Regalado/New York Times&rpar;](http://www.techmeme.com/251113/p13#a251113p13)
- - [10 Best Coffee Pod Machines We Tested for Lickety-Split Caffeine Delivery &lpar;2025&rpar;](https://www.wired.com/gallery/best-pod-coffee-makers/)
- - [Sources: Tencent and Apple agree to a deal to let Apple handle payments and take a 15% cut of purchases in WeChat mini games and apps, after a year of talks &lpar;Pei Li/Bloomberg&rpar;](http://www.techmeme.com/251113/p12#a251113p12)<!-- TECH:END -->
+ - [A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p20#a251113p20)
+ - [Apple Stores extend return policy into January for holiday buyers](https://appleinsider.com/articles/25/11/13/apple-stores-extend-return-policy-into-january-for-holiday-buyers?utm_source=rss)
+ - [Nothing Phone &lpar;3a&rpar; Lite Review: Bloating the Brand](https://www.wired.com/review/nothing-phone-3a-lite/)
+ - [At a Moscow demo, anthropomorphic robot AIDOL, one of the first in Russia, face-planted; organizers dragged the machine away and covered it with a black drape &lpar;Neil Vigdor/New York Times&rpar;](http://www.techmeme.com/251113/p19#a251113p19)
+ - [UK-based BNPL startup Zilch raised $176.7M in equity and debt led by KKCG at the same $2B valuation as its 2022 funding, after raising $127M in 2024 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251113/p18#a251113p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 😝 [Scientists have identified a black fungus growing on the radioactive remains of the Chernobyl nuclear reactor that appears to have evolved the ability to feed on radiation. The species, Cladosporium sphaerospermum, uses a rare process known as radiosynthesis](http://9gag.com/gag/a5Qvgzr)
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
  - 💣 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 😝 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
- - 👉 [The situation in Italy](http://9gag.com/gag/aGy6qV7)<!-- MEMES:END -->
+ - 😝 [Looking for me, classic](http://9gag.com/gag/axyQw3p)
+ - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
 
 ---
 

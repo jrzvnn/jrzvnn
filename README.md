@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into Microsoft&#39;s AI strategy, including OpenAI, data center investments, neocloud renting, GitHub Copilot, MAI models, and the Maia chip &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251113/p1#a251113p1)
- - [Q&amp;A with Satya Nadella on business models for AGI, Copilot, Microsoft AI, the hyperscale business, the OpenAI partnership, capex, sovereign AI efforts, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251112/p55#a251112p55)
- - [An investigation traces how Shanghai-based AI company INF Tech accessed advanced Nvidia chips at an Indonesian data center despite US export controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251112/p54#a251112p54)
- - [Foxglove, which is building a data and observability platform for robotics companies, raised a $40M Series B led by Bessemer, bringing its total funding to $58M &lpar;Steve Crowe/The Robot Report&rpar;](http://www.techmeme.com/251112/p53#a251112p53)
- - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)<!-- TECH:END -->
+ - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
+ - [Attentive.ai, maker of Beam AI for automating preconstruction workflows using AI, raised $30.5M Series B led by Insight Partners, bringing total raised to $48M &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/251113/p3#a251113p3)
+ - [NZXT Discount Codes: 50% Off in November 2025](https://www.wired.com/story/nzxt-discount-code/)
+ - [Visible Promo Code: Save $20 in November 2025](https://www.wired.com/story/visible-promo-code/)
+ - [Polymarket starts live testing its US exchange, quietly opening to some users, and says it&#39;s fully functional with select users betting on real contracts &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251113/p2#a251113p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

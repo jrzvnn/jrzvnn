@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
+ - [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)
+ - [Starlink rival ‘Project Kuiper’ rebrands to Amazon Leo](https://www.theverge.com/news/820580/project-kuiper-amazon-leo-rebrand)
  - [Apple TV subscribers will get Major League Soccer games for free in 2026](https://appleinsider.com/articles/25/11/13/apple-tv-subscribers-will-get-major-league-soccer-games-for-free-in-2026?utm_source=rss)
- - [StubHub reports Q3 revenue up 8% YoY to $468.1M, vs. $452M est., gross merchandise sales up 11% to $2.43B; STUB drops 5%+ after hours &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251113/p52#a251113p52)
- - [Maryland will use Claude across its agencies to help residents apply for food aid, Medicaid, and more, and deploy Percepta tools to speed up housing permits &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251113/p51#a251113p51)
- - [21 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
- - [Kensington&#39;s latest docks tap full Thunderbolt 5 power on supported M4 Macs](https://appleinsider.com/articles/25/11/13/kensingtons-latest-docks-tap-full-thunderbolt-5-power-on-supported-m4-macs?utm_source=rss)<!-- TECH:END -->
+ - [StubHub reports Q3 revenue up 8% YoY to $468.1M, vs. $452M est., gross merchandise sales up 11% to $2.43B; STUB drops 5%+ after hours &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251113/p52#a251113p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A deep dive into Microsoft&#39;s AI strategy, including OpenAI, data center investments, neocloud renting, GitHub Copilot, MAI models, and the Maia chip &lpar;SemiAnalysis&rpar;](http://www.techmeme.com/251113/p1#a251113p1)
  - [Q&amp;A with Satya Nadella on business models for AGI, Copilot, Microsoft AI, the hyperscale business, the OpenAI partnership, capex, sovereign AI efforts, and more &lpar;Dwarkesh Patel/Dwarkesh Podcast&rpar;](http://www.techmeme.com/251112/p55#a251112p55)
  - [An investigation traces how Shanghai-based AI company INF Tech accessed advanced Nvidia chips at an Indonesian data center despite US export controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251112/p54#a251112p54)
  - [Foxglove, which is building a data and observability platform for robotics companies, raised a $40M Series B led by Bessemer, bringing its total funding to $58M &lpar;Steve Crowe/The Robot Report&rpar;](http://www.techmeme.com/251112/p53#a251112p53)
- - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)
- - [Even Realities&#39; G2 glasses hands-on: lighter than G1, subtle notifications on lens that cross eye line, designed to be a &quot;passive wearable&quot; akin to Apple Watch &lpar;Fernando Silva/9to5Mac&rpar;](http://www.techmeme.com/251112/p51#a251112p51)<!-- TECH:END -->
+ - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

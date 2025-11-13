@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Valve wants Half-Life: Alyx to work well standalone on Steam Frame](https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr)
+ - [Anthropic open sources a method to score AI model political evenhandedness; Gemini 2.5 Pro got 97%, Grok 4 96%, Claude Opus 4.1 95%, GPT-5 89%, and Llama 4 66% &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251113/p47#a251113p47)
+ - [Jeffrey Epstein Claimed Intimate Knowledge of Donald Trump’s Views in Texts With Bill Gates Adviser](https://www.wired.com/story/jeffrey-epstein-claimed-intimate-knowledge-of-donald-trumps-views-in-texts-with-bill-gates-adviser/)
  - [Cursor says it has crossed $1B in annualized revenue, has 300+ employees, and its in-house models &quot;generate more code than almost any other LLMs in the world&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251113/p46#a251113p46)
- - [The 45 Best Movies on Hulu, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
- - [Anthropic details how it measures Claude&amp;#8217;s wokeness](https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai)
- - [Apple will take a mini commission from mini app developers](https://www.theverge.com/news/820486/apple-mini-app-developers-commission)
- - [Hackers use Anthropic’s AI model Claude once again](https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude)<!-- TECH:END -->
+ - [The 45 Best Movies on Hulu, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

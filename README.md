@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [KitchenAid Promo Code: 50% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
  - [Attentive.ai, maker of Beam AI for automating preconstruction workflows using AI, raised $30.5M Series B led by Insight Partners, bringing total raised to $48M &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/251113/p3#a251113p3)
  - [NZXT Discount Codes: 50% Off in November 2025](https://www.wired.com/story/nzxt-discount-code/)
- - [Visible Promo Code: Save $20 in November 2025](https://www.wired.com/story/visible-promo-code/)
- - [Polymarket starts live testing its US exchange, quietly opening to some users, and says it&#39;s fully functional with select users betting on real contracts &lpar;Denitsa Tsekova/Bloomberg&rpar;](http://www.techmeme.com/251113/p2#a251113p2)<!-- TECH:END -->
+ - [Visible Promo Code: Save $20 in November 2025](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

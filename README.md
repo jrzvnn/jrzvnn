@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
  - 😝 [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 😝 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)
  - 💣 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
- - 😝 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
- - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
+ - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
+ - 👉 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)<!-- MEMES:END -->
 
 ---
 

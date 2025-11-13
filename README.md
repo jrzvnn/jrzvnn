@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
- - 😝 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
- - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 😝 [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 👉 [Amazonian](http://9gag.com/gag/agm6pDg)<!-- MEMES:END -->
+ - 😝 [Witnessing this incredible talent is truly inspiring](http://9gag.com/gag/aoyAo02)
+ - 😝 [Yes, yes moooooor!](http://9gag.com/gag/a87Q9b6)
+ - 💣 [I am not sure about what&#39;s next](http://9gag.com/gag/aVv4rNK)
+ - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
+ - 👉 [It&#39;s rare to see a child&#39;s dreams/hobbies/talents being supported by their parents](http://9gag.com/gag/aAyq7qR)<!-- MEMES:END -->
 
 ---
 

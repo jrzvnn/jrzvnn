@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fire TV Stick 4K Max is back down to $35, its best price in a year](https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale)
- - [World Labs is betting on ‘world generation’ as the next AI frontier](https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier)
- - [Anthropic says China&#39;s state-sponsored hackers used its tools to automate 80% to 90% of a September hacking campaign that targeted corporations and governments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251113/p36#a251113p36)
- - [Tesla is recalling over 10,000 Powerwall 2 batteries due to burn risks](https://www.theverge.com/news/820123/tesla-recall-uscpsc-powerwall-2-batteries-overheat-fire-burn-hazard)
- - [Even Realities’ new smart glasses ditch cameras and speakers](https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai)<!-- TECH:END -->
+ - [Amazon renames Project Kuiper to Amazon Leo, a nod to &quot;low Earth orbit&quot;; so far, Amazon has launched 150+ satellites as part of a 3,200 planned constellation &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251113/p38#a251113p38)
+ - [Mozilla announces an AI ‘window’ for Firefox](https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser)
+ - [Meta overhauls Facebook Marketplace, adding new collaborative tools, expanded social features, an improved checkout experience, and Meta AI integrations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251113/p37#a251113p37)
+ - [Tesla may be looking to Apple CarPlay to boost flagging sales](https://appleinsider.com/articles/25/11/13/tesla-may-be-looking-to-apple-carplay-to-boost-flagging-sales?utm_source=rss)
+ - [The Fire TV Stick 4K Max is back down to $35, its best price in a year](https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

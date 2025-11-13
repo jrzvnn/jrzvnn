@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google will let ‘experienced users’ keep sideloading Android apps](https://www.theverge.com/news/819835/google-android-sideloading-experienced-users-developer-verification)
  - [A look at Cybathlon, an event by ETH Zurich where researchers team up with people with disabilities in a competition to test brain-computer interfaces &lpar;Oliver Whang/New York Times&rpar;](http://www.techmeme.com/251113/p6#a251113p6)
  - [Samsung&amp;#8217;s trifold gets a name and &amp;#8216;confirmed&amp;#8217; specs](https://www.theverge.com/news/819820/samsungs-trifold-gets-a-name-and-confirmed-specs)
  - [Sources: Alibaba is renaming its AI app Tongyi to &quot;Qwen&quot;, aiming to make it more like ChatGPT, and adding agentic-AI shopping features for platforms like Taobao &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251113/p5#a251113p5)
- - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)
- - [Best No-Contract Internet Providers for November 2025](https://www.cnet.com/home/internet/best-no-contract-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

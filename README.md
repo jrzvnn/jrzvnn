@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says all NotebookLM users will get access to Deep Research in the service within a week; users get to choose between two research styles: fast or deep &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p39#a251113p39)
- - [Stewart Rhodes Relaunched the Oath Keepers. Even Old Oath Keepers Don&#39;t Care](https://www.wired.com/story/stewart-rhodes-relaunched-oath-keepers-militia/)
- - [Amazon renames Project Kuiper to Amazon Leo, a nod to &quot;low Earth orbit&quot;; so far, Amazon has launched 150+ satellites as part of a 3,200 planned constellation &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/251113/p38#a251113p38)
- - [Mozilla announces an AI ‘window’ for Firefox](https://www.theverge.com/news/820196/mozilla-firefox-ai-window-browser)
- - [Meta overhauls Facebook Marketplace, adding new collaborative tools, expanded social features, an improved checkout experience, and Meta AI integrations &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251113/p37#a251113p37)<!-- TECH:END -->
+ - [Red Queen Bio, spun out of mRNA therapeutics company Helix Nano to focus on preventing AI-enabled bioweapons development, raised a $15M seed led by OpenAI &lpar;Deepa Seetharaman/Reuters&rpar;](http://www.techmeme.com/251113/p43#a251113p43)
+ - [The UK CAT refuses Apple permission to appeal a ruling that it abused its dominance by charging unfairly high App Store fees; a lawyer calculates damages at £1B &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/251113/p42#a251113p42)
+ - [Apple launches new Mini App Partner Program](https://appleinsider.com/articles/25/11/13/apple-launches-new-mini-app-partner-program?utm_source=rss)
+ - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)
+ - [France vs. Ukraine: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-ukraine-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

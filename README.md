@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Alibaba is renaming its AI app Tongyi to &quot;Qwen&quot;, aiming to make it more like ChatGPT, and adding agentic-AI shopping features for platforms like Taobao &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251113/p5#a251113p5)
+ - [Baidu unveils two AI chips: the M100 for efficient MoE inference, launching in 2026, and the M300 for training super-large multimodal models, coming in 2027 &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251113/p4#a251113p4)
  - [KitchenAid Promo Code: 50% Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
  - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
- - [Attentive.ai, maker of Beam AI for automating preconstruction workflows using AI, raised $30.5M Series B led by Insight Partners, bringing total raised to $48M &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/251113/p3#a251113p3)
- - [NZXT Discount Codes: 50% Off in November 2025](https://www.wired.com/story/nzxt-discount-code/)
- - [Visible Promo Code: Save $20 in November 2025](https://www.wired.com/story/visible-promo-code/)<!-- TECH:END -->
+ - [Attentive.ai, maker of Beam AI for automating preconstruction workflows using AI, raised $30.5M Series B led by Insight Partners, bringing total raised to $48M &lpar;Amit Chowdhry/Pulse 2.0&rpar;](http://www.techmeme.com/251113/p3#a251113p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

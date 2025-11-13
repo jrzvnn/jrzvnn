@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grayscale files for an IPO, reporting $203.3M in net income on $318.7M in revenue for January to September 2025; the DCG unit has ~$35B in AUM and 40+ products &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/251113/p26#a251113p26)
+ - [George Lucas&amp;#8217; narrative art museum opens next year in LA](https://www.theverge.com/news/819951/george-lucas-museum-of-narrative-art-opening-day-2026)
  - [UK refuses Apple&#39;s request to appeal $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/uk-refuses-apples-request-to-appeal-2-billion-app-store-ruling?utm_source=rss)
- - [OnePlus 15 Review: A Phone With Two-Day Battery Life](https://www.wired.com/review/oneplus-15/)
- - [The OnePlus 15 is the phone to buy if you hate charging your phone](https://www.theverge.com/tech/818933/oneplus-15-review-battery-screen-camera)
- - [The OnePlus 15 will go on sale in the US… sometime](https://www.theverge.com/tech/819200/oneplus-15-on-sale-us-delay-fcc)<!-- TECH:END -->
+ - [14 Best Bed Frames &lpar;2025&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)
+ - [The best Christmas gifts under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025)
+ - [The company at the heart of the AI bubble](https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

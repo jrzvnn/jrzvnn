@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21 Best MagSafe Accessories &lpar;2025&rpar;: Qi2 Chargers, Magnetic Wallets, and More](https://www.wired.com/gallery/best-magsafe-accessories/)
  - [Kensington&#39;s latest docks tap full Thunderbolt 5 power on supported M4 Macs](https://appleinsider.com/articles/25/11/13/kensingtons-latest-docks-tap-full-thunderbolt-5-power-on-supported-m4-macs?utm_source=rss)
  - [Apple Store app gets Liquid Glass overhaul and a new icon](https://appleinsider.com/articles/25/11/13/apple-store-app-gets-liquid-glass-overhaul-and-a-new-icon?utm_source=rss)
  - [The 17 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)
- - [Alembic, which offers AI-powered data analytics for marketers, raised a $145M Series B led by Prysm and Accenture at a $645M valuation, up from $49M in 2024 &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p50#a251113p50)
- - [How to Enable the New AI Notification Summaries on Your Pixel Phone](https://www.cnet.com/tech/services-and-software/how-to-enable-the-new-ai-notification-summaries-on-your-pixel-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Alembic, which offers AI-powered data analytics for marketers, raised a $145M Series B led by Prysm and Accenture at a $645M valuation, up from $49M in 2024 &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p50#a251113p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

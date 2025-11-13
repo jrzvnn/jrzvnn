@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
  - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
  - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
- - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
- - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
+ - 😝 [It&#39;s not that you hate Microsoft. It&#39;s that you don&#39;t hate them enough.](http://9gag.com/gag/aZZoY89)
+ - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
 
 ---
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Apple Store app gets Liquid Glass overhaul and a new icon](https://appleinsider.com/articles/25/11/13/apple-store-app-gets-liquid-glass-overhaul-and-a-new-icon?utm_source=rss)
  - [The 17 Best Gifts for Plant Lovers We’d Buy Ourselves &lpar;2025&rpar;](https://www.wired.com/gallery/best-gifts-for-plant-lovers/)
  - [Alembic, which offers AI-powered data analytics for marketers, raised a $145M Series B led by Prysm and Accenture at a $645M valuation, up from $49M in 2024 &lpar;Patrick Coffee/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p50#a251113p50)
- - [Sources: Mira Murati&#39;s Thinking Machines Lab is in early talks to raise a new round of funding at a roughly $50B valuation, potentially rising to $55B-$60B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251113/p49#a251113p49)<!-- TECH:END -->
+ - [How to Enable the New AI Notification Summaries on Your Pixel Phone](https://www.cnet.com/tech/services-and-software/how-to-enable-the-new-ai-notification-summaries-on-your-pixel-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

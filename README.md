@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251113/p29#a251113p29)
- - [Watch Google DeepMind’s new AI agent learn to play video games](https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games)
- - [The future of Disney Plus could involve AI-generated videos](https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings)
- - [Fire hazard prompts recall of three Belkin power bank and stand models](https://appleinsider.com/articles/25/11/13/fire-hazard-prompts-recall-of-three-belkin-power-banks-and-stand-models?utm_source=rss)
- - [Disney Sees Potential in AI for Disney Plus Games and Short-Form Content](https://www.cnet.com/tech/services-and-software/disney-sees-potential-in-ai-for-disney-plus-games-and-short-form-content/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 34 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
+ - [Google DeepMind unveils SIMA 2, a video-game-playing agent built on Gemini to navigate and solve problems in 3D virtual worlds like Goat Simulator 3 &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251113/p30#a251113p30)
+ - [UK refuses Apple&#39;s request to appeal $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/uk-refuses-apples-request-to-appeal-2-billion-app-store-ruling?utm_source=rss)
+ - [LinkedIn is making it easier to search for people with AI](https://www.theverge.com/news/819908/linkedin-ai-people-search-launch)
+ - [Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251113/p29#a251113p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple launches new Mini App Partner Program](https://appleinsider.com/articles/25/11/13/apple-launches-new-mini-app-partner-program?utm_source=rss)
+ - [TikTok launches Bulletin board, which lets brands and creators share public, one-to-many messages to their followers, similar to Instagram&#39;s broadcast channels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251113/p34#a251113p34)
+ - [The Boox Palma 2 e-book reader is now $84 off](https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales)
  - [UK refuses Apple&#39;s request to appeal $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/uk-refuses-apples-request-to-appeal-2-billion-app-store-ruling?utm_source=rss)
- - [Fabric8Labs, which uses electrochemical additive manufacturing to create chip-cooling plates for data centers, raised $50M led by NEA and Intel Capital &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251113/p33#a251113p33)
- - [Sources: Verizon plans to cut ~15,000 jobs, its largest workforce reduction ever, and transition ~200 stores into franchised operations, seeking to cut costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251113/p32#a251113p32)
- - [Uber is making it easier to get a ride at the airport or pay for someone else’s](https://www.theverge.com/news/820053/uber-send-a-ride-holiday-season-new-features)
- - [LinkedIn rolls out AI-powered people search to premium users in the US, with plans to expand it to other countries in the coming months &lpar;TechCrunch&rpar;](http://www.techmeme.com/251113/p31#a251113p31)<!-- TECH:END -->
+ - [Fabric8Labs, which uses electrochemical additive manufacturing to create chip-cooling plates for data centers, raised $50M led by NEA and Intel Capital &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251113/p33#a251113p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

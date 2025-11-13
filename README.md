@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grayscale files for an IPO, reporting $203.3M in net income on $318.7M in revenue for January to September 2025; the DCG unit has ~$35B in AUM and 40+ products &lpar;Isabelle Lee/Bloomberg&rpar;](http://www.techmeme.com/251113/p26#a251113p26)
+ - [UK refuses Apple&#39;s request to appeal $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/uk-refuses-apples-request-to-appeal-2-billion-app-store-ruling?utm_source=rss)
  - [OnePlus 15 Review: A Phone With Two-Day Battery Life](https://www.wired.com/review/oneplus-15/)
  - [The OnePlus 15 is the phone to buy if you hate charging your phone](https://www.theverge.com/tech/818933/oneplus-15-review-battery-screen-camera)
- - [The OnePlus 15 will go on sale in the US… sometime](https://www.theverge.com/tech/819200/oneplus-15-on-sale-us-delay-fcc)
- - [Google launches AI-powered shopping features in the US, including conversational search, side-by-side item comparisons, price tracking, and AI-assisted checkout &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/251113/p25#a251113p25)
- - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)<!-- TECH:END -->
+ - [The OnePlus 15 will go on sale in the US… sometime](https://www.theverge.com/tech/819200/oneplus-15-on-sale-us-delay-fcc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

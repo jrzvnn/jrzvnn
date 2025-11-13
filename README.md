@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches Cameyo by Google, after acquiring the software virtualization company in June 2024, to help organizations run legacy Windows apps on ChromeOS &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251112/p44#a251112p44)
- - [A Dubai court orders a worldwide freeze on $456M in reserves linked to Justin Sun&#39;s bailout of Techteryx&#39;s TrueUSD, saying there&#39;s evidence of a breach of trust &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/251112/p43#a251112p43)
- - [New in iOS 26.2 beta 2: Liquid Glass tweaks, Games app changes, more](https://appleinsider.com/articles/25/11/12/new-in-ios-262-beta-2-liquid-glass-tweaks-games-app-changes-more?utm_source=rss)
- - [The best budget robot vacuums](https://www.theverge.com/23846479/best-budget-robot-vacuum-robot-mop)
- - [Former Twitter CEO Parag Agrawal&#39;s Parallel Web Systems, which is building tools for AI agents to search the web, raised a $100M Series A at a $740M valuation &lpar;Tom Dotan/Newcomer&rpar;](http://www.techmeme.com/251112/p42#a251112p42)<!-- TECH:END -->
+ - [Google says it will allow &quot;experienced users&quot; to install Android apps from unverified developers, following backlash against new sideloading restrictions &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/251112/p48#a251112p48)
+ - [Satya Nadella says Microsoft has access to &quot;all&quot; of OpenAI&#39;s custom AI chip work and plans to use it to help develop its own in-house chip &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251112/p47#a251112p47)
+ - [Tavus, which develops enterprise AI agents focused on employee recruitment and training, raised a $40M Series B led by CRV &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251112/p46#a251112p46)
+ - [Sony is making a Horizon MMO — here’s the video and details](https://www.theverge.com/news/819657/horizon-steel-frontiers-mmo-sony-ncsoft-playstation)
+ - [AI Music Fools Most People, and They&#39;re Not Happy About It](https://www.cnet.com/tech/services-and-software/ai-music-fools-most-people-and-theyre-not-happy-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

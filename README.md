@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hackers use Anthropic’s AI model Claude once again](https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude)
- - [Who is buying VR and XR headsets anyway?](https://www.theverge.com/tech/820416/vr-xr-headsets-vision-pro-galaxy-xr-steam-frame-enterprise)
- - [Sources: Apple and Major League Soccer agree to make all MLS games available on Apple TV for no extra charge in 2026, ending the MLS Season Pass subscription &lpar;Paul Tenorio/The Athletic&rpar;](http://www.techmeme.com/251113/p45#a251113p45)
- - [Netflix is shifting its video game strategy to focus on popular titles like Pictionary, Boggle, and Tetris, playable on TVs with smartphones as controllers &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/251113/p44#a251113p44)
- - [The New Apple Watch Ultra 3 Is $100 Off](https://www.wired.com/story/apple-watch-ultra-3-deal-1125/)<!-- TECH:END -->
+ - [Cursor says it has crossed $1B in annualized revenue, has 300+ employees, and its in-house models &quot;generate more code than almost any other LLMs in the world&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251113/p46#a251113p46)
+ - [The 45 Best Movies on Hulu, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-movies-hulu-right-now/)
+ - [Anthropic details how it measures Claude&amp;#8217;s wokeness](https://www.theverge.com/news/819216/anthropic-claude-political-even-handedness-woke-ai)
+ - [Apple will take a mini commission from mini app developers](https://www.theverge.com/news/820486/apple-mini-app-developers-commission)
+ - [Hackers use Anthropic’s AI model Claude once again](https://www.theverge.com/news/820458/hackers-china-ai-anthropic-claude)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claim that iPhone 16e &#39;failed&#39; Apple&#39;s cheaper lineup plan is ridiculous](https://appleinsider.com/articles/25/11/13/claim-that-iphone-16e-failed-apples-cheaper-lineup-plan-is-ridiculous?utm_source=rss)
- - [Apple is trying to get permission to appeal UK $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/apple-is-trying-to-get-permission-to-appeal-uk-2-billion-app-store-ruling?utm_source=rss)
- - [Best Running Socks &lpar;2025&rpar;: Compression, Merino Wool, Toe Socks](https://www.wired.com/gallery/the-best-running-socks/)
- - [Spotify’s new audiobook recap feature uses AI to remind you of the story so far](https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary)
- - [Source: French authorities fully lifted the travel ban on Telegram CEO Pavel Durov and removed a requirement for regular police check-ins as of November 10 &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251113/p22#a251113p22)<!-- TECH:END -->
+ - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)
+ - [The long-delayed Analogue 3D is shipping later this month](https://www.theverge.com/news/819903/analogue-3d-nintendo-64-console-ship-date-november-18)
+ - [Dresden-based chip startup Ferroelectric Memory raised €100M, including €77M equity led by HV Capital and DTCF, to commercialize energy-saving memory chips &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251113/p24#a251113p24)
+ - [Spotify starts rolling out Recaps, a new AI feature for audiobooks that summarizes what users have listened to so far, in beta on iOS &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p23#a251113p23)
+ - [12 Best Computer Speakers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-computer-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

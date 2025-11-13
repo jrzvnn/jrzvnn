@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251113/p29#a251113p29)
  - [Watch Google DeepMind’s new AI agent learn to play video games](https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games)
  - [The future of Disney Plus could involve AI-generated videos](https://www.theverge.com/news/819980/disney-plus-ai-videos-bob-iger-q4-2025-earnings)
  - [Fire hazard prompts recall of three Belkin power bank and stand models](https://appleinsider.com/articles/25/11/13/fire-hazard-prompts-recall-of-three-belkin-power-banks-and-stand-models?utm_source=rss)
- - [Adobe&#39;s Black Friday deal on Creative Cloud Pro is live, save up to 70%](https://appleinsider.com/articles/25/11/13/adobes-black-friday-deal-on-creative-cloud-pro-is-live-save-up-to-70?utm_source=rss)
- - [Salesforce buys Doti AI for $100M; the Israeli startup raised $7M and its Work AI tool lets enterprises securely access and use internal knowledge in real time &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251113/p28#a251113p28)<!-- TECH:END -->
+ - [Disney Sees Potential in AI for Disney Plus Games and Short-Form Content](https://www.cnet.com/tech/services-and-software/disney-sees-potential-in-ai-for-disney-plus-games-and-short-form-content/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

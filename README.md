@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Indian messaging app Arattai, which officials are backing as a domestic WhatsApp alternative; Arattai maker Zoho says it had 350K sign-ups in October &lpar;Financial Times&rpar;](http://www.techmeme.com/251113/p20#a251113p20)
- - [Apple Stores extend return policy into January for holiday buyers](https://appleinsider.com/articles/25/11/13/apple-stores-extend-return-policy-into-january-for-holiday-buyers?utm_source=rss)
- - [Nothing Phone &lpar;3a&rpar; Lite Review: Bloating the Brand](https://www.wired.com/review/nothing-phone-3a-lite/)
- - [At a Moscow demo, anthropomorphic robot AIDOL, one of the first in Russia, face-planted; organizers dragged the machine away and covered it with a black drape &lpar;Neil Vigdor/New York Times&rpar;](http://www.techmeme.com/251113/p19#a251113p19)
- - [UK-based BNPL startup Zilch raised $176.7M in equity and debt led by KKCG at the same $2B valuation as its 2022 funding, after raising $127M in 2024 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251113/p18#a251113p18)<!-- TECH:END -->
+ - [Apple is trying to get permission to appeal UK $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/apple-is-trying-to-get-permission-to-appeal-uk-2-billion-app-store-ruling?utm_source=rss)
+ - [Source: French authorities fully lifted the travel ban on Telegram CEO Pavel Durov and removed a requirement for regular police check-ins as of November 10 &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251113/p22#a251113p22)
+ - [Europol, Eurojust, and others dismantle 1K+ servers linked to Rhadamanthys infostealer, VenomRAT, and Elysium botnet, as part of the ongoing Operation Endgame &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251113/p21#a251113p21)
+ - [8 Best Webcams &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-webcams/)
+ - [Valve just built the Xbox that Microsoft is dreaming of](https://www.theverge.com/tech/819844/valve-steam-machine-xbox-console-steamos-competition-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

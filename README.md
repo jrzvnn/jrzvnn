@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Claim that iPhone 16e &#39;failed&#39; Apple&#39;s cheaper lineup plan is ridiculous](https://appleinsider.com/articles/25/11/13/claim-that-iphone-16e-failed-apples-cheaper-lineup-plan-is-ridiculous?utm_source=rss)
  - [Apple is trying to get permission to appeal UK $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/apple-is-trying-to-get-permission-to-appeal-uk-2-billion-app-store-ruling?utm_source=rss)
  - [Best Running Socks &lpar;2025&rpar;: Compression, Merino Wool, Toe Socks](https://www.wired.com/gallery/the-best-running-socks/)
  - [Spotify’s new audiobook recap feature uses AI to remind you of the story so far](https://www.theverge.com/news/819476/spotify-audiobook-ai-recaps-short-summary)
- - [Source: French authorities fully lifted the travel ban on Telegram CEO Pavel Durov and removed a requirement for regular police check-ins as of November 10 &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251113/p22#a251113p22)
- - [Europol, Eurojust, and others dismantle 1K+ servers linked to Rhadamanthys infostealer, VenomRAT, and Elysium botnet, as part of the ongoing Operation Endgame &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251113/p21#a251113p21)<!-- TECH:END -->
+ - [Source: French authorities fully lifted the travel ban on Telegram CEO Pavel Durov and removed a requirement for regular police check-ins as of November 10 &lpar;Gaspard Sebag/Bloomberg&rpar;](http://www.techmeme.com/251113/p22#a251113p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

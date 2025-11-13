@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Philosophy](http://9gag.com/gag/a4Pmy5m)
+ - 😝 [Respecting her decision and doing exactly what she asked. And somehow he was still wrong.](http://9gag.com/gag/aVv48g2)
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
  - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
  - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
- - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
+ - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aZZo4Yz)
- - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
- - 💣 [Amazonian](http://9gag.com/gag/agm6pDg)
+ - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
+ - 😝 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
+ - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
  - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
- - 👉 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)<!-- MEMES:END -->
+ - 👉 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)<!-- MEMES:END -->
 
 ---
 

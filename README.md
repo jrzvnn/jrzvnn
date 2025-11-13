@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 💣 [In 2007, a home improvement television show literally blew up this family&#39;s house before rebuilding it.](http://9gag.com/gag/abAKw5O)
- - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
- - 👉 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)<!-- MEMES:END -->
+ - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
+ - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 ---
 

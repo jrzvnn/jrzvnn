@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The UK CAT refuses Apple permission to appeal a ruling that it abused its dominance by charging unfairly high App Store fees; a lawyer calculates damages at £1B &lpar;Sam Tobin/Reuters&rpar;](http://www.techmeme.com/251113/p42#a251113p42)
  - [Apple launches new Mini App Partner Program](https://appleinsider.com/articles/25/11/13/apple-launches-new-mini-app-partner-program?utm_source=rss)
  - [Apple is about to get a financial windfall from China WeChat Mini users](https://appleinsider.com/articles/25/11/13/apple-is-about-to-get-a-financial-windfall-from-china-wechat-mini-users?utm_source=rss)
- - [France vs. Ukraine: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/france-vs-ukraine-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple unveils Mini Apps Partner Program, offering a reduced 15% commission on IAPs for mini apps, or &quot;self-contained&quot; experiences built with web tech like HTML5 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251113/p41#a251113p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

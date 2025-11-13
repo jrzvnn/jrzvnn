@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 34 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [Google DeepMind unveils SIMA 2, a video-game-playing agent built on Gemini to navigate and solve problems in 3D virtual worlds like Goat Simulator 3 &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251113/p30#a251113p30)
  - [UK refuses Apple&#39;s request to appeal $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/uk-refuses-apples-request-to-appeal-2-billion-app-store-ruling?utm_source=rss)
- - [LinkedIn is making it easier to search for people with AI](https://www.theverge.com/news/819908/linkedin-ai-people-search-launch)
- - [Sources: xAI has raised $15B, adding $5B to the $10B reported in September, which valued the startup at $200B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251113/p29#a251113p29)<!-- TECH:END -->
+ - [Fabric8Labs, which uses electrochemical additive manufacturing to create chip-cooling plates for data centers, raised $50M led by NEA and Intel Capital &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251113/p33#a251113p33)
+ - [Sources: Verizon plans to cut ~15,000 jobs, its largest workforce reduction ever, and transition ~200 stores into franchised operations, seeking to cut costs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251113/p32#a251113p32)
+ - [Uber is making it easier to get a ride at the airport or pay for someone else’s](https://www.theverge.com/news/820053/uber-send-a-ride-holiday-season-new-features)
+ - [LinkedIn rolls out AI-powered people search to premium users in the US, with plans to expand it to other countries in the coming months &lpar;TechCrunch&rpar;](http://www.techmeme.com/251113/p31#a251113p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Respecting her decision and doing exactly what she asked. And somehow he was still wrong.](http://9gag.com/gag/aVv48g2)
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 💣 [The missing plot](http://9gag.com/gag/aAyqAro)
- - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
- - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
+ - 😝 [Double tap is back on the menu, no shit this time](http://9gag.com/gag/aXPQ37D)
+ - 😝 [They already know everything their mom wants to teach. Hardware is still developing though.](http://9gag.com/gag/apRzwX9)
+ - 💣 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 😝 [Ironic](http://9gag.com/gag/aByje2D)
+ - 👉 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)<!-- MEMES:END -->
 
 ---
 

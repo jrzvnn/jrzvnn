@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An investigation traces how Shanghai-based AI company INF Tech accessed advanced Nvidia chips at an Indonesian data center despite US export controls &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251112/p54#a251112p54)
  - [Foxglove, which is building a data and observability platform for robotics companies, raised a $40M Series B led by Bessemer, bringing its total funding to $58M &lpar;Steve Crowe/The Robot Report&rpar;](http://www.techmeme.com/251112/p53#a251112p53)
  - [US Attorney Jeanine Pirro launches a federal investigative task force to crack down on overseas crime organizations behind crypto scams targeting Americans &lpar;Salvador Rizzo/Washington Post&rpar;](http://www.techmeme.com/251112/p52#a251112p52)
  - [Even Realities&#39; G2 glasses hands-on: lighter than G1, subtle notifications on lens that cross eye line, designed to be a &quot;passive wearable&quot; akin to Apple Watch &lpar;Fernando Silva/9to5Mac&rpar;](http://www.techmeme.com/251112/p51#a251112p51)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 13 #620](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-13-620/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 13](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-13/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 13 #620](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-13-620/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

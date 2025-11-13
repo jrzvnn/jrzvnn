@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches new Mini App Partner Program](https://appleinsider.com/articles/25/11/13/apple-launches-new-mini-app-partner-program?utm_source=rss)
- - [TikTok launches Bulletin board, which lets brands and creators share public, one-to-many messages to their followers, similar to Instagram&#39;s broadcast channels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251113/p34#a251113p34)
- - [The Boox Palma 2 e-book reader is now $84 off](https://www.theverge.com/tech/820046/boox-ebook-hoto-lenono-deals-sales)
- - [UK refuses Apple&#39;s request to appeal $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/uk-refuses-apples-request-to-appeal-2-billion-app-store-ruling?utm_source=rss)
- - [Fabric8Labs, which uses electrochemical additive manufacturing to create chip-cooling plates for data centers, raised $50M led by NEA and Intel Capital &lpar;Colin Campbell/Axios&rpar;](http://www.techmeme.com/251113/p33#a251113p33)<!-- TECH:END -->
+ - [The Fire TV Stick 4K Max is back down to $35, its best price in a year](https://www.theverge.com/tech/820121/amazon-fire-tv-stick-4k-max-early-black-friday-deal-sale)
+ - [World Labs is betting on ‘world generation’ as the next AI frontier](https://www.theverge.com/ai-artificial-intelligence/820016/world-labs-is-betting-on-world-generation-as-the-next-ai-frontier)
+ - [Anthropic says China&#39;s state-sponsored hackers used its tools to automate 80% to 90% of a September hacking campaign that targeted corporations and governments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251113/p36#a251113p36)
+ - [Tesla is recalling over 10,000 Powerwall 2 batteries due to burn risks](https://www.theverge.com/news/820123/tesla-recall-uscpsc-powerwall-2-batteries-overheat-fire-burn-hazard)
+ - [Even Realities’ new smart glasses ditch cameras and speakers](https://www.theverge.com/news/820120/even-realities-g2-smart-glasses-r1-ring-launch-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

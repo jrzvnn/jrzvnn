@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [George Lucas&amp;#8217; narrative art museum opens next year in LA](https://www.theverge.com/news/819951/george-lucas-museum-of-narrative-art-opening-day-2026)
- - [UK refuses Apple&#39;s request to appeal $2 billion App Store ruling](https://appleinsider.com/articles/25/11/13/uk-refuses-apples-request-to-appeal-2-billion-app-store-ruling?utm_source=rss)
- - [14 Best Bed Frames &lpar;2025&rpar;, Tested in Our Homes](https://www.wired.com/gallery/best-bed-frames/)
- - [The best Christmas gifts under $50](https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025)
- - [The company at the heart of the AI bubble](https://www.theverge.com/podcast/819612/coreweave-ai-bubble-nvidia-openai-data-centers)<!-- TECH:END -->
+ - [Fire hazard prompts recall of three Belkin power banks and stand models](https://appleinsider.com/articles/25/11/13/fire-hazard-prompts-recall-of-three-belkin-power-banks-and-stand-models?utm_source=rss)
+ - [Adobe&#39;s Black Friday deal on Creative Cloud Pro is live, save up to 70%](https://appleinsider.com/articles/25/11/13/adobes-black-friday-deal-on-creative-cloud-pro-is-live-save-up-to-70?utm_source=rss)
+ - [Salesforce buys Doti AI for $100M; the Israeli startup raised $7M and its Work AI tool lets enterprises securely access and use internal knowledge in real time &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251113/p28#a251113p28)
+ - [British Churches Are Putting Their Faith in Heat Pumps](https://www.wired.com/story/let-there-be-warmth-the-british-churches-putting-their-faith-in-heat-pumps/)
+ - [George Lucas&amp;#8217; narrative art museum opens next year in LA](https://www.theverge.com/news/819951/george-lucas-museum-of-narrative-art-opening-day-2026)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

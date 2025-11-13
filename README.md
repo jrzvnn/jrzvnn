@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Mira Murati&#39;s Thinking Machines Lab is in early talks to raise a new round of funding at a roughly $50B valuation, potentially rising to $55B-$60B &lpar;Bloomberg&rpar;](http://www.techmeme.com/251113/p49#a251113p49)
  - [Baidu unveils Ernie 5.0, an AI model to process and generate text, images, audio, and video, claiming it beats GPT-5-High and Gemini 2.5 Pro on some benchmarks &lpar;Carl Franzen/VentureBeat&rpar;](http://www.techmeme.com/251113/p48#a251113p48)
  - [Valve wants Half-Life: Alyx to work well standalone on Steam Frame](https://www.theverge.com/news/820503/valve-half-life-alyx-steam-frame-standalone-vr)
  - [Anthropic open sources a method to score AI model political evenhandedness; Gemini 2.5 Pro got 97%, Grok 4 96%, Claude Opus 4.1 95%, GPT-5 89%, and Llama 4 66% &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/251113/p47#a251113p47)
- - [Jeffrey Epstein Claimed Intimate Knowledge of Donald Trump’s Views in Texts With Bill Gates Adviser](https://www.wired.com/story/jeffrey-epstein-claimed-intimate-knowledge-of-donald-trumps-views-in-texts-with-bill-gates-adviser/)
- - [Cursor says it has crossed $1B in annualized revenue, has 300+ employees, and its in-house models &quot;generate more code than almost any other LLMs in the world&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251113/p46#a251113p46)<!-- TECH:END -->
+ - [Jeffrey Epstein Claimed Intimate Knowledge of Donald Trump’s Views in Texts With Bill Gates Adviser](https://www.wired.com/story/jeffrey-epstein-claimed-intimate-knowledge-of-donald-trumps-views-in-texts-with-bill-gates-adviser/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
  - 😝 [The situation in Italy](http://9gag.com/gag/aGy6qV7)
- - 💣 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
- - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
- - 👉 [Women](http://9gag.com/gag/aMVD68X)<!-- MEMES:END -->
+ - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 💣 [Women](http://9gag.com/gag/aMVD68X)
+ - 😝 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)
+ - 👉 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)<!-- MEMES:END -->
 
 ---
 

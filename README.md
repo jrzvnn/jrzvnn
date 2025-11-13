@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)
- - 😝 [Sheesh...](http://9gag.com/gag/azxovBZ)
- - 💣 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
  - 😝 [Waiting for the turbulence!!!](http://9gag.com/gag/a9yZwe0)
+ - 💣 [Indian Street Ice Cream....](http://9gag.com/gag/aO8AO3N)
+ - 😝 [32 years of serving smiles, what a legend](http://9gag.com/gag/a1mBj0Y)
  - 👉 [In the 15th century, King James IV of Scotland performed a strange experiment, isolating a mute woman and two infants on a deserted island to try discover what the `natural human language` might be.](http://9gag.com/gag/awyPjZB)<!-- MEMES:END -->
 
 ---

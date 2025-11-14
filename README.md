@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [30 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025/)
- - [JPMorgan Chase secures deals with fintech middlemen, like Plaid, covering 95%+ of third-party data pulls, and will receive payment for access to customer data &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251114/p22#a251114p22)
- - [Paramount Skydance is working on a new Star Trek movie](https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley)
- - [Apple under USITC investigation again over Apple Watch blood oxygen sensing](https://appleinsider.com/articles/25/11/14/apple-under-investigation-again-by-usitc-over-apple-watch-blood-oxygen-sensing?utm_source=rss)
- - [Apple TV leans into &#39;Pluribus&#39; worldbuilding with free book chapter](https://appleinsider.com/articles/25/11/14/apple-tv-leans-into-pluribus-worldbuilding-with-free-book-chapter?utm_source=rss)<!-- TECH:END -->
+ - [Black Friday 2025: Expert Tips for Finding the Best Deals](https://www.wired.com/story/black-friday-2025-tips-and-tricks/)
+ - [Chinese Beverage Chains Spread Across the US, Challenging Starbucks&#39; Dominance](https://www.wired.com/story/luckin-chagee-mixue-chinese-tea-coffee/)
+ - [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked)
+ - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,478](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
+ - [30 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Publicly traded Bitcoin miner Bitfarms says it will wind down its BTC operations and pivot to AI infrastructure after posting a net loss of $46M in Q3 &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/251114/p14#a251114p14)
+ - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
  - [A Berlin court rules that Google must pay €465M and €107M to German price comparison sites Idealo and Producto, in damages for market abuse; Google will appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p13#a251114p13)
  - [Valve made Microsoft&amp;#8217;s dream console](https://www.theverge.com/podcast/820889/vergecast-steam-machines-neo-robot-fire-tv-piracy)
- - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)
- - [Baidu stock fell as much as 9.8% in Hong Kong on Friday after its latest AI model Ernie 5.0 fails to impress investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p12#a251114p12)
- - [Razer Cobra HyperSpeed: A Basic Gaming Mouse With All You Need](https://www.wired.com/review/razer-cobra-hyperspeed/)<!-- TECH:END -->
+ - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

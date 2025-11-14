@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
- - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
+ - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - 😝 [In an unusual move, Trump just IGNORED every single question about Jeffrey Epstein after the bill signing and panicked White House staff started to kick reporters out of the room. It\u2019s never been more obvious.](http://9gag.com/gag/azxowOZ)
  - 💣 [MORE POWER](http://9gag.com/gag/a34eXL8)
  - 😝 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
- - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
+ - 👉 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)<!-- MEMES:END -->
 
 ---
 

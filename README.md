@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Skydance is working on a new Stret Trek movie](https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley)
+ - [30 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025/)
+ - [JPMorgan Chase secures deals with fintech middlemen, like Plaid, covering 95%+ of third-party data pulls, and will receive payment for access to customer data &lpar;Hugh Son/CNBC&rpar;](http://www.techmeme.com/251114/p22#a251114p22)
+ - [Paramount Skydance is working on a new Star Trek movie](https://www.theverge.com/entertainment/821219/paramount-skydance-star-trak-movie-jonathan-goldstein-john-francis-daley)
  - [Apple under USITC investigation again over Apple Watch blood oxygen sensing](https://appleinsider.com/articles/25/11/14/apple-under-investigation-again-by-usitc-over-apple-watch-blood-oxygen-sensing?utm_source=rss)
- - [Apple TV leans into &#39;Pluribus&#39; worldbuilding with free book chapter](https://appleinsider.com/articles/25/11/14/apple-tv-leans-into-pluribus-worldbuilding-with-free-book-chapter?utm_source=rss)
- - [Our Favorite Webcam Is Marked Down by $35](https://www.wired.com/story/logitech-brio-500-deal-1125/)
- - [WH national security memo: Alibaba provides tech support for China military&#39;s &quot;operations&quot; against targets in the US; Alibaba says it is &quot;complete nonsense&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/251114/p21#a251114p21)<!-- TECH:END -->
+ - [Apple TV leans into &#39;Pluribus&#39; worldbuilding with free book chapter](https://appleinsider.com/articles/25/11/14/apple-tv-leans-into-pluribus-worldbuilding-with-free-book-chapter?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

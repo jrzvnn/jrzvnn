@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 💣 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)
- - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
+ - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 😝 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)
+ - 💣 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
+ - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [False advertising.](http://9gag.com/gag/azxowyN)
- - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
- - 💣 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
+ - 😝 [What a selfless act by this brave SOB. RIP sir.](http://9gag.com/gag/ajPGe88)
+ - 😝 [Printing pictures from vhs tapes](http://9gag.com/gag/aVv4ymP)
+ - 💣 [Just a typical day on the road, nothing to see here](http://9gag.com/gag/a5Qv06V)
+ - 😝 [The best of both worlds!](http://9gag.com/gag/avy4Mrd)
+ - 👉 [The dog, who grew up with cows since he was a puppy, went to another farm for three days and the first thing he did was play with the calf.](http://9gag.com/gag/awyPW3y)<!-- MEMES:END -->
 
 ---
 

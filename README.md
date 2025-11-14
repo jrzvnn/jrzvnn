@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Therabody Promo Code: 15% Off | November 2025](https://www.wired.com/story/therabody-promo-code/)
+ - [Shares of Indian payment startup Pine Labs debuted at ~$2.73, up 9.5% from the ~$2.49 IPO price, after a $440M IPO earlier this week that was 2x oversubscribed &lpar;Soumyajit Saha/Nikkei Asia&rpar;](http://www.techmeme.com/251114/p2#a251114p2)
+ - [20% Off Home Depot Promo Code | November 2025](https://www.wired.com/story/home-depot-promo-code/)
  - [Oracle shares are down nearly 30% in the past month, reversing more than $250B in market value gains following the announcement of its OpenAI deals in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p1#a251114p1)
- - [How Microsoft, Amazon, Meta, and Google are managing the strain of AI&#39;s increased energy demand with their promises of net-zero carbon emissions &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251113/p61#a251113p61)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 14](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-14/#ftag=CAD590a51e)
- - [Australia-based AI infrastructure company Firmus raised AU$500M, or ~$325M, tripling its valuation to AU$6B in two months, after raising AU$330M in September &lpar;Tess Bennett/Australian Financial Review&rpar;](http://www.techmeme.com/251113/p60#a251113p60)
- - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p59#a251113p59)<!-- TECH:END -->
+ - [How Microsoft, Amazon, Meta, and Google are managing the strain of AI&#39;s increased energy demand with their promises of net-zero carbon emissions &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251113/p61#a251113p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

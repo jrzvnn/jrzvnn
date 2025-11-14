@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Germany approves legislation granting Interior Ministry new powers to ban Chinese tech suppliers from critical infrastructure sectors like energy and transport &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251114/p19#a251114p19)
+ - [Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday](https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale)
  - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)
  - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
- - [Samsung Galaxy XR review: matches some of the Vision Pro&#39;s hardware features at half the price, but has an uncomfortable headband and less precise hand tracking &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251114/p18#a251114p18)
- - [Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen](https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/)
- - [The Data Center Resistance Has Arrived](https://www.wired.com/story/the-data-center-resistance-has-arrived/)<!-- TECH:END -->
+ - [Samsung Galaxy XR review: matches some of the Vision Pro&#39;s hardware features at half the price, but has an uncomfortable headband and less precise hand tracking &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251114/p18#a251114p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

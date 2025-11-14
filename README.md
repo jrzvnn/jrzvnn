@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Cooked an Entire Thanksgiving Dinner With Just Blue Apron Meal Kits. Here&#39;s How It Went](https://www.cnet.com/health/nutrition/cooked-entire-thanksgiving-dinner-blue-apron-meal-kits-how-it-went/#ftag=CAD590a51e)
  - [An interview with Unity CEO Matthew Bromberg on lessons from AOL, the rise of esports, turning around EA&#39;s Star Wars: The Old Republic, Zynga, more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251114/p3#a251114p3)
  - [Blue Apron Coupon &amp; Promo Codes: $25 Off | November 2025](https://www.wired.com/story/blue-apron-coupon/)
  - [Hungryroot Coupon Codes: 30% Off in November 2025](https://www.wired.com/story/hungryroot-promo-code/)
- - [I rode in one of the UK’s first self-driving cars](https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london)
- - [HelloFresh Coupon Codes: 55% Off + Free Meals - November 2025](https://www.wired.com/story/hellofresh-coupon/)<!-- TECH:END -->
+ - [I rode in one of the UK’s first self-driving cars](https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CloudX, which uses Anthropic&#39;s Claude to automate mobile ad pricing and inventory optimization for publishers, raised a $30M Series A led by Addition &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251114/p16#a251114p16)
- - [8 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
- - [Costly iPhone Pocket sells out nearly immediately](https://appleinsider.com/articles/25/11/14/costly-iphone-pocket-sells-out-nearly-immediately?utm_source=rss)
- - [Apple quietly started selling &#39;Dark Cherry&#39; accessories online and in-store](https://appleinsider.com/articles/25/11/14/apple-quietly-started-selling-dark-cherry-accessories-online-and-in-store?utm_source=rss)
- - [All MAGA Wanted Was the Epstein Files. Now They&#39;re Ignoring Them](https://www.wired.com/story/maga-wanted-epstein-files-now-theyre-ignoring-them/)<!-- TECH:END -->
+ - [Weight-Loss Drug Zepbound Is Being Tested as a Treatment for Long Covid](https://www.wired.com/story/weight-loss-drug-zepbound-is-being-tested-as-a-treatment-for-long-covid/)
+ - [Sources: Stockholm-based vibe coding startup Lovable is in talks to raise funding at a valuation of ~$6B, up from $1.8B in July when it raised a $200M Series A &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251114/p17#a251114p17)
+ - [Shop 85+ Early Black Friday Deals on AirPods, TVs, Laptops and More](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [CloudX, which uses Anthropic&#39;s Claude to automate testing mobile ad pricing and optimizing inventory for publishers, raised a $30M Series A led by Addition &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251114/p16#a251114p16)
+ - [8 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

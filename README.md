@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We need to try](http://9gag.com/gag/a87Qg5V)
- - 😝 [It&#39;s not that you hate Microsoft. It&#39;s that you don&#39;t hate them enough.](http://9gag.com/gag/aZZoY89)
- - 💣 [FLT certified](http://9gag.com/gag/aVv46xy)
- - 😝 [Edible Road Salt](http://9gag.com/gag/aND85Y6)
- - 👉 [The day the linux nation attacked](http://9gag.com/gag/a6Z4RP9)<!-- MEMES:END -->
+ - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
+ - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 💣 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)
+ - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
+ - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
  - [Samsung Galaxy XR review: matches some of the Vision Pro&#39;s hardware features at half the price, but has an uncomfortable headband and less precise hand tracking &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251114/p18#a251114p18)
  - [Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen](https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/)
  - [The Data Center Resistance Has Arrived](https://www.wired.com/story/the-data-center-resistance-has-arrived/)
- - [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)
- - [Belkin is recalling its iPhone tracking stand and two power banks due to fire risks](https://www.theverge.com/news/821016/belkin-recall-auto-tracking-iphone-stand-pro-boostcharge-power-bank)<!-- TECH:END -->
+ - [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

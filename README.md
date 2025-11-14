@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
+ - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
  - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 💣 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 💣 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
  - 😝 [The best of both worlds!](http://9gag.com/gag/avy4Mrd)
- - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
+ - 👉 [MORE POWER](http://9gag.com/gag/a34eXL8)<!-- MEMES:END -->
 
 ---
 

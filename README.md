@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Costly iPhone Pocket sells out nearly immediately](https://appleinsider.com/articles/25/11/14/costly-iphone-pocket-sells-out-nearly-immediately?utm_source=rss)
+ - [Apple quietly started selling &#39;Dark Cherry&#39; accessories online and in-store](https://appleinsider.com/articles/25/11/14/apple-quietly-started-selling-dark-cherry-accessories-online-and-in-store?utm_source=rss)
+ - [All MAGA Wanted Was the Epstein Files. Now They&#39;re Ignoring Them](https://www.wired.com/story/maga-wanted-epstein-files-now-theyre-ignoring-them/)
  - [Waymo partners with Moove and Baidu&#39;s ApolloGo partners with Lyft to roll out robotaxis in 2026 in London, the first place Chinese and US robotaxis will compete &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251114/p15#a251114p15)
- - [The Running Man is a propulsive tribute to &amp;#8217;80s action movies](https://www.theverge.com/entertainment/820502/the-running-man-review)
- - [Counting Renaissance butts in Rome with the Meta Ray-Ban Display](https://www.theverge.com/column/820894/optimizer-meta-ray-ban-display-enterprise-wearables-tourism-renaissance-art)
- - [Google Call Recording launches on more Pixel phones](https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability)
- - [Meta must rein in scammers — or face consequences](https://www.theverge.com/tech/820906/meta-scam-ads-failure-remove-consequences)<!-- TECH:END -->
+ - [The Running Man is a propulsive tribute to &amp;#8217;80s action movies](https://www.theverge.com/entertainment/820502/the-running-man-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

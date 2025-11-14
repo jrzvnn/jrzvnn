@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Blue Apron Coupon &amp; Promo Codes: $25 Off | November 2025](https://www.wired.com/story/blue-apron-coupon/)
  - [Hungryroot Coupon Codes: 30% Off in November 2025](https://www.wired.com/story/hungryroot-promo-code/)
+ - [I rode in one of the UK’s first self-driving cars](https://www.theverge.com/report/820324/wayve-driverless-robotaxi-london)
  - [HelloFresh Coupon Codes: 55% Off + Free Meals - November 2025](https://www.wired.com/story/hellofresh-coupon/)
- - [Sealy Promo Code: Save $200 on Mattresses in November 2025](https://www.wired.com/story/sealy-promo-code/)
- - [Groupon Promo Codes: 50% Off in November 2025](https://www.wired.com/story/groupon-promo-code/)<!-- TECH:END -->
+ - [Sealy Promo Code: Save $200 on Mattresses in November 2025](https://www.wired.com/story/sealy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

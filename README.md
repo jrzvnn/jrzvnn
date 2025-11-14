@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
  - 😝 [Love her honesty..](http://9gag.com/gag/aPAzb6n)
- - 💣 [The dog, who grew up with cows since he was a puppy, went to another farm for three days and the first thing he did was play with the calf.](http://9gag.com/gag/awyPW3y)
- - 😝 [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)
+ - 😝 [The lid opener looks like it would survive an atomic bomb blast](http://9gag.com/gag/a6Z40KR)
+ - 💣 [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)
+ - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
  - 👉 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)<!-- MEMES:END -->
 
 ---

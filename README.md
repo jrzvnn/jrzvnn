@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The missing plot](http://9gag.com/gag/aAyqAro)
- - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
  - 💣 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)
- - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
- - 👉 [Doing God&#39;s work](http://9gag.com/gag/ary9Eg5)<!-- MEMES:END -->
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 👉 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Call Recording launches on more Pixel phones](https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability)
+ - [Meta must rein in scammers — or face consequences](https://www.theverge.com/tech/820906/meta-scam-ads-failure-remove-consequences)
  - [15 Best Camera Accessories for Phones &lpar;2025&rpar;: Tripods, Mics, and Lights](https://www.wired.com/gallery/best-photo-video-accessories-for-phones/)
  - [The Meta Quest 3S is $50 off and comes with a $50 gift card and a game](https://www.theverge.com/gadgets/820921/meta-quest-3s-black-friday-deal-sale)
- - [Publicly traded Bitcoin miner Bitfarms says it will wind down its BTC operations and pivot to AI infrastructure after posting a net loss of $46M in Q3 &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/251114/p14#a251114p14)
- - [Amazon’s Fire Tablets, Tested, So You Don’t Have To &lpar;2025&rpar;](https://www.wired.com/gallery/best-amazon-fire-tablet/)
- - [A Berlin court rules that Google must pay €465M and €107M to German price comparison sites Idealo and Producto, in damages for market abuse; Google will appeal &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p13#a251114p13)<!-- TECH:END -->
+ - [Publicly traded Bitcoin miner Bitfarms says it will wind down its BTC operations and pivot to AI infrastructure, after reporting Q3 net loss up 92% YoY to $46M &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/251114/p14#a251114p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

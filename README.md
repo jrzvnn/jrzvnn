@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)
  - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
  - [Samsung Galaxy XR review: matches some of the Vision Pro&#39;s hardware features at half the price, but has an uncomfortable headband and less precise hand tracking &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251114/p18#a251114p18)
- - [Disney Exec Says ESPN Outage on YouTube TV May &#39;Go for a Little While&#39;](https://www.cnet.com/tech/services-and-software/disney-exec-says-espn-outage-on-youtube-tv-may-go-for-a-little-while/#ftag=CAD590a51e)
- - [Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen](https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/)<!-- TECH:END -->
+ - [Inside the Multimillion-Dollar Plan to Make Mobile Voting Happen](https://www.wired.com/story/bradley-tusk-mobile-voting-protocol/)
+ - [The Data Center Resistance Has Arrived](https://www.wired.com/story/the-data-center-resistance-has-arrived/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases GPT-5.1 in the API, featuring a &quot;no-reasoning&quot; mode and extended prompt caching with up to 24-hour retention to generate faster responses &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p54#a251113p54)
- - [AirPods Pro 3, AirPods Pro 2, &amp; AirPods 4 receive new firmware update](https://appleinsider.com/articles/25/11/13/airpods-pro-3-airpods-pro-2-airpods-4-receive-new-firmware-update?utm_source=rss)
- - [Sundar Pichai proved to be the &quot;wartime CEO&quot; that Google needed after ChatGPT&#39;s launch, making the company an AI leader, in part by empowering Demis Hassabis &lpar;Dave Lee/Bloomberg&rpar;](http://www.techmeme.com/251113/p53#a251113p53)
- - [The best instant cameras you can buy right now](https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak)
- - [Apple TV is getting MLS games at no extra cost](https://www.theverge.com/news/820595/apple-tv-mls-games-bundle-no-extra-cost-subscription-season-pass)<!-- TECH:END -->
+ - [OpenAI is piloting group chats in ChatGPT in Japan, New Zealand, South Korea, and Taiwan; up to 20 users can be invited to prompt ChatGPT in a shared space &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p58#a251113p58)
+ - [TerraMaster F2-425 2-bay NAS review: Features beyond its bay count](https://appleinsider.com/articles/25/11/14/terramaster-f2-425-2-bay-nas-review-features-beyond-its-bay-count?utm_source=rss)
+ - [Mozilla says it is building AI Window, a Firefox feature that will include an AI assistant and let users choose the model, but offers few additional details &lpar;Elissa Welle/The Verge&rpar;](http://www.techmeme.com/251113/p57#a251113p57)
+ - [Sources: OneTrust, which sells privacy and compliance software and was last valued at $4.5B in 2023, is exploring a sale, possibly to private equity buyers &lpar;The Information&rpar;](http://www.techmeme.com/251113/p56#a251113p56)
+ - [A US judge rules that Apple and OpenAI must answer to a lawsuit filed by X and xAI accusing them of conspiring to thwart competition in emerging markets in AI &lpar;Madlin Mekelburg/Bloomberg&rpar;](http://www.techmeme.com/251113/p55#a251113p55)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

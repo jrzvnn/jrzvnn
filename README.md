@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
- - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
+ - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
+ - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
+ - 💣 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 😝 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
  - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
+ - [Best Holiday Photo Cards &lpar;2025&rpar;: Mixbook, Vistaprint, Canva](https://www.wired.com/gallery/best-holiday-photo-cards/)
  - [Sources: Samsung raised the prices of some memory chips by 30%- 60% compared to September, amid shortages, adding to stress for companies building data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p6#a251114p6)
  - [How Windows Recall Works—and Whether You Should Switch It On](https://www.wired.com/story/how-windows-recall-works-and-whether-you-should-switch-it-on/)
- - [Meta plans to launch WhatsApp third-party app integration in Europe &quot;over the coming months&quot; as required by the DMA, starting with BirdyChat and Haiket &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251114/p5#a251114p5)
- - [The 31 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
- - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)<!-- TECH:END -->
+ - [Meta plans to launch WhatsApp third-party app integration in Europe &quot;over the coming months&quot; as required by the DMA, starting with BirdyChat and Haiket &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251114/p5#a251114p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

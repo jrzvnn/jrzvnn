@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
+ - 😝 [Such a beautiful design](http://9gag.com/gag/awyPpZR)
  - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
- - 💣 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
- - 👉 [Probabilities.](http://9gag.com/gag/a6Z462q)<!-- MEMES:END -->
+ - 💣 [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 👉 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)<!-- MEMES:END -->
 
 ---
 

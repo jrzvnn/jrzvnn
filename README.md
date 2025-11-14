@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPod Sock reborn, Apple VIsion Pro carrier aviation, and the fate of iPhone Air 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/14/ipod-sock-reborn-apple-vision-pro-carrier-aviation-and-the-fate-of-iphone-air-2-on-the-appleinsider-podcast?utm_source=rss)
- - [Wooldroom Luxury Wooly Mattress Review: Supple but Stinky](https://www.wired.com/review/woolroom-luxury-wooly-mattress/)
- - [India officially notifies its first data protection law to establish a framework for data processing, protection, and governance, including verifiable consent &lpar;The Economic Times&rpar;](http://www.techmeme.com/251114/p10#a251114p10)
- - [After a backlash, Google reverses plans to require all Android app developers to verify their identities with government ID and pay fees from 2026 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251114/p9#a251114p9)
- - [Draft plans: EU is pushing for market regulator ESMA to get supervision and authorization powers over crypto firms, shifting oversight from national regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p8#a251114p8)<!-- TECH:END -->
+ - [Baidu stock fell as much as 9.8% in Hong Kong on Friday after its latest AI model Ernie 5.0 fails to impress investors &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p12#a251114p12)
+ - [Razer Cobra HyperSpeed: A Basic Gaming Mouse With All You Need](https://www.wired.com/review/razer-cobra-hyperspeed/)
+ - [Valve is making microSD cards the next game cartridges](https://www.theverge.com/games/818602/valve-steam-deck-machine-frame-microsd-card-game-cartridges)
+ - [Alibaba halves Qwen3-Max prices, from $0.861 to $0.459 per 1M input tokens and $3.441 to $1.836 per 1M output tokens for API users, amid China&#39;s AI price wars &lpar;Vincent Chow/South China Morning Post&rpar;](http://www.techmeme.com/251114/p11#a251114p11)
+ - [iPod Sock reborn, Apple Vision Pro carrier aviation, and the fate of iPhone Air 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/14/ipod-sock-reborn-apple-vision-pro-carrier-aviation-and-the-fate-of-iphone-air-2-on-the-appleinsider-podcast?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

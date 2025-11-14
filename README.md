@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI says ChatGPT will now ditch em dashes if users tell it to; em dashes have become telltale signs that supposedly signals text written by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251114/p29#a251114p29)
+ - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
  - [Meta, TikTok, Google, and YouTube sue California over a new law that prohibits personalized feeds for minors without parental consent, claiming it violates 1A &lpar;Bernie Pazanowski/Bloomberg Law&rpar;](http://www.techmeme.com/251114/p28#a251114p28)
  - [Filing: Berkshire Hathaway discloses a $4.3B stake in Alphabet in Q3, a surprising move given Warren Buffett&#39;s reluctance toward high-growth, tech-driven stocks &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/251114/p27#a251114p27)
- - [The 19 Best Tried and Tested Gifts for Bird Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-bird-lovers/)
- - [Google says it plans to invest $40B through 2027 in three new data centers in Texas, including one co-located with a new solar and battery energy storage plant &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p26#a251114p26)
- - [Older Pixel Phones Score a Handy New Feature: Call Recording](https://www.cnet.com/tech/mobile/older-pixel-phones-score-a-handy-new-feature-call-recording/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 19 Best Tried and Tested Gifts for Bird Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-bird-lovers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 😝 [A knight&#39;s ....](http://9gag.com/gag/aW4Py7q)
- - 💣 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)
- - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 👉 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)<!-- MEMES:END -->
+ - 😝 [FLT certified](http://9gag.com/gag/aVv46xy)
+ - 😝 [We need to try](http://9gag.com/gag/a87Qg5V)
+ - 💣 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 😝 [Edible Road Salt](http://9gag.com/gag/aND85Y6)
+ - 👉 [The day the linux nation attacked](http://9gag.com/gag/a6Z4RP9)<!-- MEMES:END -->
 
 ---
 

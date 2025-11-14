@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our Favorite Webcam Is Marked Down by $35](https://www.wired.com/story/logitech-brio-500-deal-1125/)
  - [WH national security memo: Alibaba provides tech support for China military&#39;s &quot;operations&quot; against targets in the US; Alibaba says it is &quot;complete nonsense&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/251114/p21#a251114p21)
  - [Fortnite is coming to the Xbox PC store](https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass)
  - [Sources: Tether is in talks to lead a €1B funding round in Neura Robotics, valuing the startup at €8B-€10B, as Tether seeks to expand its investment portfolio &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p20#a251114p20)
- - [Germany approves legislation granting Interior Ministry new powers to ban Chinese tech suppliers from critical infrastructure sectors like energy and transport &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251114/p19#a251114p19)
- - [&#39;The Conjuring: Last Rites&#39; Will Stream on HBO Max Next Week](https://www.cnet.com/tech/services-and-software/the-conjuring-last-rites-will-stream-on-hbo-max-next-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany approves legislation granting Interior Ministry new powers to ban Chinese tech suppliers from critical infrastructure sectors like energy and transport &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251114/p19#a251114p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

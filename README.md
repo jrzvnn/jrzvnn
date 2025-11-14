@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Love her honesty..](http://9gag.com/gag/aPAzb6n)
- - 😝 [The lid opener looks like it would survive an atomic bomb blast](http://9gag.com/gag/a6Z40KR)
- - 💣 [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)
- - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
- - 👉 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)<!-- MEMES:END -->
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
+ - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
+ - 😝 [Christmas is approaching!](http://9gag.com/gag/aND874w)
+ - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
 
 ---
 

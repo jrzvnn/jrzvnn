@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In 2007, a home improvement television show literally blew up this family&#39;s house before rebuilding it.](http://9gag.com/gag/abAKw5O)
- - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 💣 [Here we go again...](http://9gag.com/gag/aZZoY3z)
  - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
- - 👉 [Probabilities.](http://9gag.com/gag/a6Z462q)<!-- MEMES:END -->
+ - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
+ - 💣 [False advertising.](http://9gag.com/gag/azxowyN)
+ - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 👉 [MORE POWER](http://9gag.com/gag/a34eXL8)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Australia-based AI infrastructure company Firmus raised AU$500M, or ~$325M, tripling its valuation to AU$6B in two months, after raising AU$330M in September &lpar;Tess Bennett/Australian Financial Review&rpar;](http://www.techmeme.com/251113/p60#a251113p60)
  - [Sources: Amazon and Anthropic support the GAIN AI Act, which would give US buyers first priority on advanced AI chips, joining Microsoft; Nvidia opposes it &lpar;Amrith Ramkumar/Wall Street Journal&rpar;](http://www.techmeme.com/251113/p59#a251113p59)
  - [Apple &amp; OpenAI must face baseless xAI lawsuit about alleged anticompetitive collusion](https://appleinsider.com/articles/25/11/14/apple-openai-must-face-baseless-xai-lawsuit-about-alleged-anticompetitive-collusion?utm_source=rss)
  - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)
- - [What insiders anonymously think about the AI race](https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey)
- - [OpenAI is piloting group chats in ChatGPT in Japan, New Zealand, South Korea, and Taiwan; up to 20 users can be invited to prompt ChatGPT in a shared space &lpar;OpenAI&rpar;](http://www.techmeme.com/251113/p58#a251113p58)<!-- TECH:END -->
+ - [What insiders anonymously think about the AI race](https://www.theverge.com/column/820664/cerebral-valley-conference-ai-anonymous-survey)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Samsung raised the prices of some memory chips by 30%- 60% compared to September, amid shortages, adding to stress for companies building data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p6#a251114p6)
+ - [How Windows Recall Works—and Whether You Should Switch It On](https://www.wired.com/story/how-windows-recall-works-and-whether-you-should-switch-it-on/)
  - [Meta plans to launch WhatsApp third-party app integration in Europe &quot;over the coming months&quot; as required by the DMA, starting with BirdyChat and Haiket &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251114/p5#a251114p5)
  - [The 31 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
- - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
- - [You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon](https://www.wired.com/story/inside-the-dealmaking-to-make-agentic-shopping-a-reality/)
- - [Google proposes ad tech changes to address a €2.95B EU antitrust fine, including enhancing interoperability across its ad services, but still plans to appeal &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251114/p4#a251114p4)<!-- TECH:END -->
+ - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

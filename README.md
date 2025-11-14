@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
- - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 💣 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 😝 [The best of both worlds!](http://9gag.com/gag/avy4Mrd)
- - 👉 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)<!-- MEMES:END -->
+ - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
+ - 😝 [Love her honesty..](http://9gag.com/gag/aPAzb6n)
+ - 💣 [The dog, who grew up with cows since he was a puppy, went to another farm for three days and the first thing he did was play with the calf.](http://9gag.com/gag/awyPW3y)
+ - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
+ - 👉 [Mom, can I go see a Rocky movie? No, we have Rocky at Home. Rocky at Home.](http://9gag.com/gag/aND8E2G)<!-- MEMES:END -->
 
 ---
 

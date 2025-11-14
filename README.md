@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Berkshire Hathaway discloses a $4.3B stake in Alphabet in Q3, a surprising move given Warren Buffett&#39;s reluctance toward high-growth, tech-driven stocks &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/251114/p27#a251114p27)
+ - [The 19 Best Tried and Tested Gifts for Bird Lovers &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-bird-lovers/)
  - [Google says it plans to invest $40B through 2027 in three new data centers in Texas, including one co-located with a new solar and battery energy storage plant &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p26#a251114p26)
- - [Elon Musk says Grok 5 would be released &quot;in Q1 sometime&quot;, later than a deadline he previously set of releasing the model by the end of 2025 &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251114/p25#a251114p25)
- - [MLS &amp; Apple TV deal ends in 2029, years ahead of schedule](https://appleinsider.com/articles/25/11/14/mls-apple-tv-deal-ends-in-2029-years-ahead-of-schedule?utm_source=rss)
- - [Internal memo: Meta plans to assess employees on their &quot;AI-driven impact&quot;, which will be a &quot;core expectation&quot; of their performance from 2026 &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251114/p24#a251114p24)
- - [DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used at Scam Compound](https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/)<!-- TECH:END -->
+ - [Older Pixel Phones Score a Handy New Feature: Call Recording](https://www.cnet.com/tech/mobile/older-pixel-phones-score-a-handy-new-feature-call-recording/#ftag=CAD590a51e)
+ - [Elon Musk says Grok 5 would be released &quot;in Q1 sometime&quot;, later than a deadline he previously set of releasing the model by the end of 2025 &lpar;Theo Wayt/The Information&rpar;](http://www.techmeme.com/251114/p25#a251114p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

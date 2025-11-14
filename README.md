@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether CEO Paolo Ardoino says the company plans to expand its lending to commodities traders &quot;dramatically&quot; after extending ~$1.5B worth of credit to the sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p7#a251114p7)
- - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
- - [Best Holiday Photo Cards &lpar;2025&rpar;: Mixbook, Vistaprint, Canva](https://www.wired.com/gallery/best-holiday-photo-cards/)
- - [Sources: Samsung raised the prices of some memory chips by 30%- 60% compared to September, amid shortages, adding to stress for companies building data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p6#a251114p6)
- - [How Windows Recall Works—and Whether You Should Switch It On](https://www.wired.com/story/how-windows-recall-works-and-whether-you-should-switch-it-on/)<!-- TECH:END -->
+ - [iPod Sock reborn, Apple VIsion Pro carrier aviation, and the fate of iPhone Air 2 on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/14/ipod-sock-reborn-apple-vision-pro-carrier-aviation-and-the-fate-of-iphone-air-2-on-the-appleinsider-podcast?utm_source=rss)
+ - [Wooldroom Luxury Wooly Mattress Review: Supple but Stinky](https://www.wired.com/review/woolroom-luxury-wooly-mattress/)
+ - [India officially notifies its first data protection law to establish a framework for data processing, protection, and governance, including verifiable consent &lpar;The Economic Times&rpar;](http://www.techmeme.com/251114/p10#a251114p10)
+ - [After a backlash, Google reverses plans to require all Android app developers to verify their identities with government ID and pay fees from 2026 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251114/p9#a251114p9)
+ - [Draft plans: EU is pushing for market regulator ESMA to get supervision and authorization powers over crypto firms, shifting oversight from national regulators &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p8#a251114p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

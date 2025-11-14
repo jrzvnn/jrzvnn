@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MLS &amp; Apple TV deal ends in 2029, years ahead of schedule](https://appleinsider.com/articles/25/11/14/mls-apple-tv-deal-ends-in-2029-years-ahead-of-schedule?utm_source=rss)
  - [Internal memo: Meta plans to assess employees on their &quot;AI-driven impact&quot;, which will be a &quot;core expectation&quot; of their performance from 2026 &lpar;Jyoti Mann/Business Insider&rpar;](http://www.techmeme.com/251114/p24#a251114p24)
  - [DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used at Scam Compound](https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/)
  - [Microsoft signs a deal with a legal advocacy group to resolve claims it denied discounts to conservative religious nonprofits; OpenAI and Asana also made deals &lpar;Jeff Green/Bloomberg&rpar;](http://www.techmeme.com/251114/p23#a251114p23)
- - [Black Friday 2025: Expert Tips for Finding the Best Deals](https://www.wired.com/story/black-friday-2025-tips-and-tricks/)
- - [Chinese Beverage Chains Spread Across the US, Challenging Starbucks&#39; Dominance](https://www.wired.com/story/luckin-chagee-mixue-chinese-tea-coffee/)<!-- TECH:END -->
+ - [Black Friday 2025: Expert Tips for Finding the Best Deals](https://www.wired.com/story/black-friday-2025-tips-and-tricks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

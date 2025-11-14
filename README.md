@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WH national security memo: Alibaba provides tech support for China military&#39;s &quot;operations&quot; against targets in the US; Alibaba says it is &quot;complete nonsense&quot; &lpar;Demetri Sevastopulo/Financial Times&rpar;](http://www.techmeme.com/251114/p21#a251114p21)
+ - [Fortnite is coming to the Xbox PC store](https://www.theverge.com/news/821177/fortnite-xbox-on-pc-app-store-epic-games-play-anywhere-crew-game-pass)
+ - [Sources: Tether is in talks to lead a €1B funding round in Neura Robotics, valuing the startup at €8B-€10B, as Tether seeks to expand its investment portfolio &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p20#a251114p20)
  - [Germany approves legislation granting Interior Ministry new powers to ban Chinese tech suppliers from critical infrastructure sectors like energy and transport &lpar;Sam Clark/Politico&rpar;](http://www.techmeme.com/251114/p19#a251114p19)
- - [Superman, Sinners, and other 4K Blu-rays are just $12.99 ahead of Black Friday](https://www.theverge.com/tech/821035/superman-sinners-4k-blu-ray-black-friday-deal-sale)
- - [Amazon unveils $18 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)
- - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
- - [Samsung Galaxy XR review: matches some of the Vision Pro&#39;s hardware features at half the price, but has an uncomfortable headband and less precise hand tracking &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251114/p18#a251114p18)<!-- TECH:END -->
+ - [&#39;The Conjuring: Last Rites&#39; Will Stream on HBO Max Next Week](https://www.cnet.com/tech/services-and-software/the-conjuring-last-rites-will-stream-on-hbo-max-next-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

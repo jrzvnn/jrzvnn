@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
  - [You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon](https://www.wired.com/story/inside-the-dealmaking-to-make-agentic-shopping-a-reality/)
  - [Google proposes ad tech changes to address a €2.95B EU antitrust fine, including enhancing interoperability across its ad services, but still plans to appeal &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251114/p4#a251114p4)
  - [Airports and Airlines Are Crawling Out of the Shutdown](https://www.wired.com/story/airports-and-airlines-are-crawling-out-of-the-shutdown/)
- - [I Cooked an Entire Thanksgiving Dinner With Just Blue Apron Meal Kits. Here&#39;s How It Went](https://www.cnet.com/health/nutrition/cooked-entire-thanksgiving-dinner-blue-apron-meal-kits-how-it-went/#ftag=CAD590a51e)
- - [An interview with Unity CEO Matthew Bromberg on lessons from AOL, the rise of esports, turning around EA&#39;s Star Wars: The Old Republic, Zynga, more &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251114/p3#a251114p3)<!-- TECH:END -->
+ - [I Cooked an Entire Thanksgiving Dinner With Just Blue Apron Meal Kits. Here&#39;s How It Went](https://www.cnet.com/health/nutrition/cooked-entire-thanksgiving-dinner-blue-apron-meal-kits-how-it-went/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

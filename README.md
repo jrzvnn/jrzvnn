@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
  - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
- - 💣 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 😝 [All hail Lord Gaben](http://9gag.com/gag/aAyq8wL)
- - 👉 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)<!-- MEMES:END -->
+ - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
+ - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
+ - 👉 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)<!-- MEMES:END -->
 
 ---
 

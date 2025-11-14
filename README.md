@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
  - [You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon](https://www.wired.com/story/inside-the-dealmaking-to-make-agentic-shopping-a-reality/)
  - [Google proposes ad tech changes to address a €2.95B EU antitrust fine, including enhancing interoperability across its ad services, but still plans to appeal &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251114/p4#a251114p4)
- - [Airports and Airlines Are Crawling Out of the Shutdown](https://www.wired.com/story/airports-and-airlines-are-crawling-out-of-the-shutdown/)
- - [I Cooked an Entire Thanksgiving Dinner With Just Blue Apron Meal Kits. Here&#39;s How It Went](https://www.cnet.com/health/nutrition/cooked-entire-thanksgiving-dinner-blue-apron-meal-kits-how-it-went/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 14 #621](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-14-621/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 14, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-14-417/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

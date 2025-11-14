@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
  - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
  - 💣 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 😝 [Saving a hummingbird](http://9gag.com/gag/a34eXjr)
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
  - 👉 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)<!-- MEMES:END -->
 
 ---

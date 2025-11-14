@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
+ - 😝 [We need to try](http://9gag.com/gag/a87Qg5V)
  - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
- - 💣 [False advertising.](http://9gag.com/gag/azxowyN)
- - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 👉 [MORE POWER](http://9gag.com/gag/a34eXL8)<!-- MEMES:END -->
+ - 💣 [I am happy to announce that the inventors of Jeans were Black.](http://9gag.com/gag/aE0y5ne)
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 👉 [Probabilities.](http://9gag.com/gag/a6Z462q)<!-- MEMES:END -->
 
 ---
 

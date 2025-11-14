@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
- - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 💣 [MORE POWER](http://9gag.com/gag/a34eXL8)
  - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 👉 [An Islamic regime cleric in Iran tried to secretly film a woman breastfeeding her child and not wearing a hijab at a hospital, with the intention of having her arrested later. So all the other women taught him a lesson!](http://9gag.com/gag/aYQZ5K7)<!-- MEMES:END -->
+ - 💣 [Probabilities.](http://9gag.com/gag/a6Z462q)
+ - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
+ - 👉 [MORE POWER](http://9gag.com/gag/a34eXL8)<!-- MEMES:END -->
 
 ---
 

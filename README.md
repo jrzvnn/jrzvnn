@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta plans to launch WhatsApp third-party app integration in Europe &quot;over the coming months&quot; as required by the DMA, starting with BirdyChat and Haiket &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251114/p5#a251114p5)
+ - [The 31 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
  - [WhatsApp is launching third-party chat integration in Europe](https://www.theverge.com/news/820858/whatsapp-third-party-messaging-date-eu-e2ee)
  - [You Won’t Be Able to Offload Your Holiday Shopping to AI Agents Anytime Soon](https://www.wired.com/story/inside-the-dealmaking-to-make-agentic-shopping-a-reality/)
- - [Google proposes ad tech changes to address a €2.95B EU antitrust fine, including enhancing interoperability across its ad services, but still plans to appeal &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251114/p4#a251114p4)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 14 #621](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-14-621/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 14, #417](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-14-417/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google proposes ad tech changes to address a €2.95B EU antitrust fine, including enhancing interoperability across its ad services, but still plans to appeal &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251114/p4#a251114p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

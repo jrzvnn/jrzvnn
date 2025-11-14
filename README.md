@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Opera says in the 12 months ending with October, it saw a 88% surge in daily active iOS users across Europe, partly due to the changes mandated by the DMA &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251114/p30#a251114p30)
- - [Best Beats Headphones and Earbuds for 2025](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)
- - [300,000 Poses and an AI Instant: My Visit to Disney Was a Peek at Animation&#39;s New Reality](https://www.cnet.com/tech/services-and-software/300000-poses-and-an-ai-instant-my-visit-to-disney-was-a-peek-at-animations-new-reality/#ftag=CAD590a51e)
  - [OpenAI says ChatGPT will now ditch em dashes if users tell it to; em dashes have become telltale signs that supposedly signals text written by AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251114/p29#a251114p29)
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)<!-- TECH:END -->
+ - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
+ - [Meta, TikTok, Google, and YouTube sue California over a new law that prohibits personalized feeds for minors without parental consent, claiming it violates 1A &lpar;Bernie Pazanowski/Bloomberg Law&rpar;](http://www.techmeme.com/251114/p28#a251114p28)
+ - [Filing: Berkshire Hathaway discloses a $4.3B stake in Alphabet in Q3, a surprising move given Warren Buffett&#39;s reluctance toward high-growth, tech-driven stocks &lpar;Yun Li/CNBC&rpar;](http://www.techmeme.com/251114/p27#a251114p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

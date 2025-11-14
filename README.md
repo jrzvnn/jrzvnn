@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CloudX, which uses Anthropic&#39;s Claude to automate mobile ad pricing and inventory optimization for publishers, raised a $30M Series A led by Addition &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251114/p16#a251114p16)
  - [8 Best MagSafe Phone Grips &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-grips/)
  - [Costly iPhone Pocket sells out nearly immediately](https://appleinsider.com/articles/25/11/14/costly-iphone-pocket-sells-out-nearly-immediately?utm_source=rss)
  - [Apple quietly started selling &#39;Dark Cherry&#39; accessories online and in-store](https://appleinsider.com/articles/25/11/14/apple-quietly-started-selling-dark-cherry-accessories-online-and-in-store?utm_source=rss)
- - [All MAGA Wanted Was the Epstein Files. Now They&#39;re Ignoring Them](https://www.wired.com/story/maga-wanted-epstein-files-now-theyre-ignoring-them/)
- - [Waymo partners with Moove and Baidu&#39;s ApolloGo partners with Lyft to roll out robotaxis in 2026 in London, the first place Chinese and US robotaxis will compete &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251114/p15#a251114p15)<!-- TECH:END -->
+ - [All MAGA Wanted Was the Epstein Files. Now They&#39;re Ignoring Them](https://www.wired.com/story/maga-wanted-epstein-files-now-theyre-ignoring-them/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

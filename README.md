@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tether CEO Paolo Ardoino says the company plans to expand its lending to commodities traders &quot;dramatically&quot; after extending ~$1.5B worth of credit to the sector &lpar;Bloomberg&rpar;](http://www.techmeme.com/251114/p7#a251114p7)
  - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
  - [Best Holiday Photo Cards &lpar;2025&rpar;: Mixbook, Vistaprint, Canva](https://www.wired.com/gallery/best-holiday-photo-cards/)
  - [Sources: Samsung raised the prices of some memory chips by 30%- 60% compared to September, amid shortages, adding to stress for companies building data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251114/p6#a251114p6)
- - [How Windows Recall Works—and Whether You Should Switch It On](https://www.wired.com/story/how-windows-recall-works-and-whether-you-should-switch-it-on/)
- - [Meta plans to launch WhatsApp third-party app integration in Europe &quot;over the coming months&quot; as required by the DMA, starting with BirdyChat and Haiket &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/251114/p5#a251114p5)<!-- TECH:END -->
+ - [How Windows Recall Works—and Whether You Should Switch It On](https://www.wired.com/story/how-windows-recall-works-and-whether-you-should-switch-it-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple COO Jeff Williams is now officially retired](https://appleinsider.com/articles/25/11/14/apple-ceo-jeff-williams-is-now-officially-retired?utm_source=rss)
  - [Digital asset treasuries increasingly rely on in-kind contributions, with sponsors using their own crypto instead of cash, shifting risk to retail investors &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251114/p31#a251114p31)
- - [Apple CEO Jeff Williams is now officially retired](https://appleinsider.com/articles/25/11/14/apple-ceo-jeff-williams-is-now-officially-retired?utm_source=rss)
  - [Opera says in the 12 months ending with October, it saw a 88% surge in daily active iOS users across Europe, partly due to the changes mandated by the DMA &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251114/p30#a251114p30)
  - [Best Beats Headphones and Earbuds for 2025](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)
  - [300,000 Poses and an AI Instant: My Visit to Disney Was a Peek at Animation&#39;s New Reality](https://www.cnet.com/tech/services-and-software/300000-poses-and-an-ai-instant-my-visit-to-disney-was-a-peek-at-animations-new-reality/#ftag=CAD590a51e)<!-- TECH:END -->

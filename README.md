@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Waymo partners with Moove and Baidu&#39;s ApolloGo partners with Lyft to roll out robotaxis in 2026 in London, the first place Chinese and US robotaxis will compete &lpar;Jiahui Huang/Wall Street Journal&rpar;](http://www.techmeme.com/251114/p15#a251114p15)
+ - [The Running Man is a propulsive tribute to &amp;#8217;80s action movies](https://www.theverge.com/entertainment/820502/the-running-man-review)
+ - [Counting Renaissance butts in Rome with the Meta Ray-Ban Display](https://www.theverge.com/column/820894/optimizer-meta-ray-ban-display-enterprise-wearables-tourism-renaissance-art)
  - [Google Call Recording launches on more Pixel phones](https://www.theverge.com/news/820938/google-call-recording-pixel-phone-app-availability)
- - [Meta must rein in scammers — or face consequences](https://www.theverge.com/tech/820906/meta-scam-ads-failure-remove-consequences)
- - [15 Best Camera Accessories for Phones &lpar;2025&rpar;: Tripods, Mics, and Lights](https://www.wired.com/gallery/best-photo-video-accessories-for-phones/)
- - [The Meta Quest 3S is $50 off and comes with a $50 gift card and a game](https://www.theverge.com/gadgets/820921/meta-quest-3s-black-friday-deal-sale)
- - [Publicly traded Bitcoin miner Bitfarms says it will wind down its BTC operations and pivot to AI infrastructure, after reporting Q3 net loss up 92% YoY to $46M &lpar;Logan Hitchcock/Decrypt&rpar;](http://www.techmeme.com/251114/p14#a251114p14)<!-- TECH:END -->
+ - [Meta must rein in scammers — or face consequences](https://www.theverge.com/tech/820906/meta-scam-ads-failure-remove-consequences)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used at Scam Compound](https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/)
+ - [Microsoft signs a deal with a legal advocacy group to resolve claims it denied discounts to conservative religious nonprofits; OpenAI and Asana also made deals &lpar;Jeff Green/Bloomberg&rpar;](http://www.techmeme.com/251114/p23#a251114p23)
  - [Black Friday 2025: Expert Tips for Finding the Best Deals](https://www.wired.com/story/black-friday-2025-tips-and-tricks/)
  - [Chinese Beverage Chains Spread Across the US, Challenging Starbucks&#39; Dominance](https://www.wired.com/story/luckin-chagee-mixue-chinese-tea-coffee/)
- - [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked)
- - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,478](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
- - [30 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025/)<!-- TECH:END -->
+ - [A recent Switch 2 update blocks some third-party docks, but Nintendo isn’t saying why](https://www.theverge.com/news/821250/switch-2-update-third-party-dock-update-blocked)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

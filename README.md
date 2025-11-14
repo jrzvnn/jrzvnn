@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Data Center Resistance Has Arrived](https://www.wired.com/story/the-data-center-resistance-has-arrived/)
- - [Apple’s last-gen AirPods Pro 2 are down to their lowest price to date](https://www.theverge.com/gadgets/821049/apple-airpods-pro-2-walmart-black-friday-deal-sale)
- - [Belkin is recalling its iPhone tracking stand and two power banks due to fire risks](https://www.theverge.com/news/821016/belkin-recall-auto-tracking-iphone-stand-pro-boostcharge-power-bank)
- - [Why we&amp;#8217;re going to keep talking about the Trump phone](https://www.theverge.com/news/820887/why-we-keep-writing-about-trump-phone-t1)
- - [Weight-Loss Drug Zepbound Is Being Tested as a Treatment for Long Covid](https://www.wired.com/story/weight-loss-drug-zepbound-is-being-tested-as-a-treatment-for-long-covid/)<!-- TECH:END -->
+ - [Weight-Loss Drug Zepbound Is Being Tested as a Treatment for Long Covid](https://www.wired.com/story/weight-loss-drug-zepbound-is-being-tested-as-a-treatment-for-long-covid/)
+ - [Sources: Stockholm-based vibe coding startup Lovable is in talks to raise funding at a valuation of ~$6B, up from $1.8B in July when it raised a $200M Series A &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251114/p17#a251114p17)
+ - [Shop 85+ Early Black Friday Deals on AirPods, TVs, Laptops and More](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
+ - [CloudX, which uses Anthropic&#39;s Claude to automate testing mobile ad pricing and optimizing inventory for publishers, raised a $30M Series A led by Addition &lpar;Trishla Ostwal/Adweek&rpar;](http://www.techmeme.com/251114/p16#a251114p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

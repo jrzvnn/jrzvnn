@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sealy Promo Code: Save $200 on Mattresses in November 2025](https://www.wired.com/story/sealy-promo-code/)
+ - [Groupon Promo Codes: 50% Off in November 2025](https://www.wired.com/story/groupon-promo-code/)
  - [Therabody Promo Code: 15% Off | November 2025](https://www.wired.com/story/therabody-promo-code/)
  - [Shares of Indian payment startup Pine Labs debuted at ~$2.73, up 9.5% from the ~$2.49 IPO price, after a $440M IPO earlier this week that was 2x oversubscribed &lpar;Soumyajit Saha/Nikkei Asia&rpar;](http://www.techmeme.com/251114/p2#a251114p2)
- - [20% Off Home Depot Promo Code | November 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [Oracle shares are down nearly 30% in the past month, reversing more than $250B in market value gains following the announcement of its OpenAI deals in September &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p1#a251114p1)
- - [How Microsoft, Amazon, Meta, and Google are managing the strain of AI&#39;s increased energy demand with their promises of net-zero carbon emissions &lpar;Emily Forgash/Bloomberg&rpar;](http://www.techmeme.com/251113/p61#a251113p61)<!-- TECH:END -->
+ - [20% Off Home Depot Promo Code | November 2025](https://www.wired.com/story/home-depot-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

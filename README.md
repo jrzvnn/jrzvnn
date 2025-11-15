@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Possessor&lpar;s&rpar; is a fast-paced action game that gets off to a slow start](https://www.theverge.com/games/821117/possessors-review-pc-ps5)
- - [17 Best Gifts for PC Gamers &lpar;2025&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
- - [How to find music you will love without the algorithm](https://www.theverge.com/report/821614/discover-music-without-algorithms)
- - [A look at the global AI data center buildout, its limits, and ROI concerns; in 2025, US capacity that is built, underway, planned, or stalled has topped 80 GW &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251115/p3#a251115p3)
- - [Masimo awarded $634M in Apple Watch patent infringement verdict](https://appleinsider.com/articles/25/11/15/masimo-awarded-634m-in-apple-watch-patent-infringement-verdict?utm_source=rss)<!-- TECH:END -->
+ - [The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)
+ - [Political fixer Bradley Tusk&#39;s nonprofit releases VoteSecure, an open-source cryptographic protocol for mobile voting, amid skepticism from cryptographers &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/251115/p4#a251115p4)
+ - [Here&#39;s How Much Tesla&#39;s New Affordable Electric Cars Cost](https://www.cnet.com/roadshow/news/heres-how-much-teslas-new-affordable-electric-cars-cost/#ftag=CAD590a51e)
+ - [Let&#39;s Be Real: Your Sleep Routine Is a Mess. Try This 10-3-2-1-0 Hack Tonight.](https://www.cnet.com/health/sleep/lets-be-real-your-sleep-routine-is-a-mess-try-this-10-3-2-1-0-hack-tonight/#ftag=CAD590a51e)
+ - [Possessor&lpar;s&rpar; is a fast-paced action game that gets off to a slow start](https://www.theverge.com/games/821117/possessors-review-pc-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

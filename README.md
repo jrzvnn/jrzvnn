@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
  - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
- - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 👉 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)<!-- MEMES:END -->
+ - 💣 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)
+ - 😝 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 👉 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)<!-- MEMES:END -->
 
 ---
 

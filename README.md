@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tim Cook could step down as Apple CEO next year](https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year)
- - [A Google Photos AI Editing Feature Isn&#39;t Available in These States. We Asked Lawyers Why](https://www.cnet.com/tech/services-and-software/a-google-photos-ai-editing-feature-isnt-available-in-these-states-we-asked-lawyers-why/#ftag=CAD590a51e)
- - [USA vs. Paraguay: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-paraguay-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [&#39;Landman&#39; Season 2: How to Watch the Premiere Episode](https://www.cnet.com/tech/services-and-software/landman-season-2-how-to-watch-the-premiere-episode/#ftag=CAD590a51e)
- - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,476](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)<!-- TECH:END -->
+ - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,476](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
+ - [Apple updates App Review Guidelines to require apps to disclose and obtain users&#39; permission before sharing personal data with third-party AI providers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251115/p5#a251115p5)
+ - [Best early Black Friday MacBook Air deals slash up to $600 off](https://appleinsider.com/articles/25/11/15/best-early-black-friday-macbook-air-deals-slash-up-to-600-off?utm_source=rss)
+ - [Let&#39;s Be Real: Your Sleep Routine Is a Mess. Try This 10-3-2-1-0 Hack Tonight.](https://www.cnet.com/health/sleep/lets-be-real-your-sleep-routine-is-a-mess-try-this-10-3-2-1-0-hack-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

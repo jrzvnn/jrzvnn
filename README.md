@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 😝 [In an unusual move, Trump just IGNORED every single question about Jeffrey Epstein after the bill signing and panicked White House staff started to kick reporters out of the room. It\u2019s never been more obvious.](http://9gag.com/gag/azxowOZ)
- - 💣 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 😝 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
- - 👉 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)<!-- MEMES:END -->
+ - 😝 [President of Tanzania. Charges main opponent with treason. Wins election by 97.66%. Shuts down the internet and sends in security forces when people protest. Many people dead](http://9gag.com/gag/ary9QN6)
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
+ - 😝 [Christmas is approaching!](http://9gag.com/gag/aND874w)
+ - 👉 [Probabilities.](http://9gag.com/gag/a6Z462q)<!-- MEMES:END -->
 
 ---
 

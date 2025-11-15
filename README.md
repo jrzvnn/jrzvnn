@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)
- - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
- - 💣 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
- - 😝 [Mom, can I go see a Rocky movie? No, we have Rocky at Home. Rocky at Home.](http://9gag.com/gag/aND8E2G)
- - 👉 [All hail Lord Gaben](http://9gag.com/gag/aAyq8wL)<!-- MEMES:END -->
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
+ - 😝 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 👉 [Look at those puppies](http://9gag.com/gag/abAKNrE)<!-- MEMES:END -->
 
 ---
 

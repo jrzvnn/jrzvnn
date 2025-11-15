@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Got this card in the mail. Nice reminder to get a few bottles of wine for Thanksgiving to deal with my family!](https://www.reddit.com/r/funny/comments/1oy3f0g/got_this_card_in_the_mail_nice_reminder_to_get_a/)
  - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
  - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 👉 [Funny how things is](http://9gag.com/gag/axyQ5XW)<!-- MEMES:END -->
+ - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [Funny how things is](http://9gag.com/gag/axyQ5XW)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
 
 ---
 

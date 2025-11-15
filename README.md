@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Mom, can I go see a Rocky movie? No, we have Rocky at Home. Rocky at Home.](http://9gag.com/gag/aND8E2G)
- - 😝 [All hail Lord Gaben](http://9gag.com/gag/aAyq8wL)
- - 💣 [The bird even realized he had won](http://9gag.com/gag/aYQZ3Rq)
- - 😝 [Brilliant](http://9gag.com/gag/aD2rKyx)
- - 👉 [Where\u2026?](http://9gag.com/gag/aVv4pKO)<!-- MEMES:END -->
+ - 😝 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 👉 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)<!-- MEMES:END -->
 
 ---
 

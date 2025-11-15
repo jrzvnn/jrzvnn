@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Gear News of the Week: Steam Makes a Home Console, and Apple Debuts a $230 Pouch for Your iPhone](https://www.wired.com/story/gear-news-of-the-week-steam-makes-a-home-console-and-apple-debuts-a-dollar230-pouch-for-your-iphone/)
  - [Automated Holiday Party Ideas &lpar;2025&rpar;: Ninja, HP Sprocket, Cricut](https://www.wired.com/story/automated-holiday-party-ideas/)
- - [When Will the US Finally Get $15K EVs?](https://www.wired.com/story/when-will-the-us-finally-get-dollar15k-evs/)
- - [28 Top Personalized Gifts to Bring Joy and Cheer This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)
- - [A profile of Meta Chief AI Scientist Yann LeCun, reportedly leaving after being sidelined, who says LLMs are a dead end for AGI and backs world models instead &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251115/p1#a251115p1)<!-- TECH:END -->
+ - [A Side of Plastic, Anyone? 4 Kitchen Items That Could Be Leaking Microplastics Into My Food](https://www.cnet.com/health/side-plastic-anyone-4-kitchen-items-could-leaking-microplastics-into-my-food/#ftag=CAD590a51e)
+ - [BeamO ‘Thermometer of the Future&#39; Is Now FDA-Cleared and Available in the US](https://www.cnet.com/health/medical/beamo-thermometer-of-the-future-now-fda-cleared-available-in-the-us/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 15, #418](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-15-418/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

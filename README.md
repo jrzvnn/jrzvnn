@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A California federal jury says Apple must pay Masimo $634M for infringing a blood-oxygen patent used in Watch workout and heart-rate alerts; Apple will appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251115/p2#a251115p2)
  - [How to Use the New AI Features in OmniFocus, the Power User’s To-Do List](https://www.wired.com/story/ai-features-in-omnifocus/)
  - [A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets](https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/)
  - [Gear News of the Week: Steam Makes a Home Console, and Apple Debuts a $230 Pouch for Your iPhone](https://www.wired.com/story/gear-news-of-the-week-steam-makes-a-home-console-and-apple-debuts-a-dollar230-pouch-for-your-iphone/)
- - [Automated Holiday Party Ideas &lpar;2025&rpar;: Ninja, HP Sprocket, Cricut](https://www.wired.com/story/automated-holiday-party-ideas/)
- - [A Side of Plastic, Anyone? 4 Kitchen Items That Could Be Leaking Microplastics Into My Food](https://www.cnet.com/health/side-plastic-anyone-4-kitchen-items-could-leaking-microplastics-into-my-food/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Automated Holiday Party Ideas &lpar;2025&rpar;: Ninja, HP Sprocket, Cricut](https://www.wired.com/story/automated-holiday-party-ideas/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

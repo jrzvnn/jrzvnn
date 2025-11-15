@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Use the New AI Features in OmniFocus, the Power User’s To-Do List](https://www.wired.com/story/ai-features-in-omnifocus/)
+ - [A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets](https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/)
  - [Gear News of the Week: Steam Makes a Home Console, and Apple Debuts a $230 Pouch for Your iPhone](https://www.wired.com/story/gear-news-of-the-week-steam-makes-a-home-console-and-apple-debuts-a-dollar230-pouch-for-your-iphone/)
  - [Automated Holiday Party Ideas &lpar;2025&rpar;: Ninja, HP Sprocket, Cricut](https://www.wired.com/story/automated-holiday-party-ideas/)
- - [A Side of Plastic, Anyone? 4 Kitchen Items That Could Be Leaking Microplastics Into My Food](https://www.cnet.com/health/side-plastic-anyone-4-kitchen-items-could-leaking-microplastics-into-my-food/#ftag=CAD590a51e)
- - [BeamO ‘Thermometer of the Future&#39; Is Now FDA-Cleared and Available in the US](https://www.cnet.com/health/medical/beamo-thermometer-of-the-future-now-fda-cleared-available-in-the-us/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 15, #418](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-15-418/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Side of Plastic, Anyone? 4 Kitchen Items That Could Be Leaking Microplastics Into My Food](https://www.cnet.com/health/side-plastic-anyone-4-kitchen-items-could-leaking-microplastics-into-my-food/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

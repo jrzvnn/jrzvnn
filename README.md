@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [When Will the US Finally Get $15K EVs?](https://www.wired.com/story/when-will-the-us-finally-get-dollar15k-evs/)
  - [28 Top Personalized Gifts to Bring Joy and Cheer This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)
+ - [A profile of Meta Chief AI Scientist Yann LeCun, reportedly leaving after being sidelined, who says LLMs are a dead end for AGI and backs world models instead &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251115/p1#a251115p1)
  - [25% Off DoorDash Promo Code | November 2025](https://www.wired.com/story/doordash-promo-code/)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-15/#ftag=CAD590a51e)
- - [Touchdown! Disney, ESPN and Other Channels Are Back on YouTube TV](https://www.cnet.com/tech/services-and-software/touchdown-disney-espn-and-other-channels-are-back-on-youtube-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-15/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

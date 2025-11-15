@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
- - 😝 [All hail Lord Gaben](http://9gag.com/gag/aAyq8wL)
- - 💣 [The bird even realized he had won](http://9gag.com/gag/aYQZ3Rq)
- - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
- - 👉 [Where\u2026?](http://9gag.com/gag/aVv4pKO)<!-- MEMES:END -->
+ - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)
+ - 👉 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)<!-- MEMES:END -->
 
 ---
 

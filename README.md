@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the global AI data center buildout, its limits, and ROI concerns; in 2025, US capacity that is built, underway, planned, or stalled has topped 80 GW &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251115/p3#a251115p3)
  - [Masimo awarded $634M in Apple Watch patent infringement verdict](https://appleinsider.com/articles/25/11/15/masimo-awarded-634m-in-apple-watch-patent-infringement-verdict?utm_source=rss)
  - [5 Best Lip Balms to Try in 2025, All Tested in Tough Conditions](https://www.wired.com/gallery/the-best-lip-balms/)
- - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2025&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)
- - [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review)
- - [This New Car Feature Uses AI to Keep You From Missing Your Exit](https://www.cnet.com/roadshow/news/this-new-car-feature-uses-ai-to-keep-you-from-missing-your-exit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Georgia vs. Spain: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/georgia-vs-spain-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2025&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

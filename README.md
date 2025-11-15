@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [A profile of Meta Chief AI Scientist Yann LeCun, reportedly leaving after being sidelined, who says LLMs are a dead end for AGI and backs world models instead &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/251115/p1#a251115p1)
  - [25% Off DoorDash Promo Code | November 2025](https://www.wired.com/story/doordash-promo-code/)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-15/#ftag=CAD590a51e)
  - [Sources: Apple is intensifying CEO succession planning as Tim Cook, now 65, may step down as early as next year, with John Ternus seen as the likely successor &lpar;Financial Times&rpar;](http://www.techmeme.com/251114/p35#a251114p35)
- - [Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/251114/p34#a251114p34)
- - [Touchdown! Disney, ESPN and Other Channels Are Back on YouTube TV](https://www.cnet.com/tech/services-and-software/touchdown-disney-espn-and-other-channels-are-back-on-youtube-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/251114/p34#a251114p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

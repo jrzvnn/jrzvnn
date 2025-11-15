@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A California federal jury says Apple must pay Masimo $634M for infringing a blood-oxygen patent used in Watch workout and heart-rate alerts; Apple will appeal &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251115/p2#a251115p2)
- - [How to Use the New AI Features in OmniFocus, the Power User’s To-Do List](https://www.wired.com/story/ai-features-in-omnifocus/)
- - [A Major Leak Spills a Chinese Hacking Contractor’s Tools and Targets](https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/)
- - [Gear News of the Week: Steam Makes a Home Console, and Apple Debuts a $230 Pouch for Your iPhone](https://www.wired.com/story/gear-news-of-the-week-steam-makes-a-home-console-and-apple-debuts-a-dollar230-pouch-for-your-iphone/)
- - [Automated Holiday Party Ideas &lpar;2025&rpar;: Ninja, HP Sprocket, Cricut](https://www.wired.com/story/automated-holiday-party-ideas/)<!-- TECH:END -->
+ - [The &#39;Secret&#39; to Healthy Aging Isn&#39;t a Secret. It&#39;s These 6 Expert-Backed Vitamins](https://www.cnet.com/health/nutrition/the-secret-to-healthy-aging-isnt-a-secret-its-these-6-expert-backed-vitamins/#ftag=CAD590a51e)
+ - [In the Age of AI, What Does Meaning Look Like?](https://www.cnet.com/tech/services-and-software/in-the-age-of-ai-what-does-meaning-look-like/#ftag=CAD590a51e)
+ - [An Invasive Disease-Carrying Mosquito Has Spread to the Rocky Mountains](https://www.wired.com/story/a-disease-carrying-mosquito-has-landed-in-the-rocky-mountains-where-it-historically-couldnt-survive/)
+ - [The 20 Best Movies on Amazon Prime, WIRED&#39;s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-amazon-prime-movies/)
+ - [The 23 Best Shows on Amazon Prime, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-shows-amazon-prime/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

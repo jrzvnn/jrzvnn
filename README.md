@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
  - 😝 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
- - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Empty row on a flight, better than winning the lottery](http://9gag.com/gag/aMVDgZ6)
- - 👉 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)<!-- MEMES:END -->
+ - 💣 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - 😝 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
 
 ---
 

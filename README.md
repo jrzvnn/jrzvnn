@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Chicken wings? Chicken wings!!](https://www.reddit.com/r/funny/comments/1oxuats/chicken_wings_chicken_wings/)
- - 💣 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
+ - 😝 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
+ - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 👉 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)<!-- MEMES:END -->
 
 ---
 

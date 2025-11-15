@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The current AI strategies of China and the US are complementary, as unlike the US, China isn&#39;t &quot;AGI-pilled&quot; yet, focusing on embodied AI and open source models &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/251115/p6#a251115p6)
- - [Tim Cook could step down as Apple CEO next year](https://www.theverge.com/news/821691/tim-cook-step-down-apple-ceo-next-year)
- - [A Google Photos AI Editing Feature Isn&#39;t Available in These States. We Asked Lawyers Why](https://www.cnet.com/tech/services-and-software/a-google-photos-ai-editing-feature-isnt-available-in-these-states-we-asked-lawyers-why/#ftag=CAD590a51e)
- - [USA vs. Paraguay: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/usa-vs-paraguay-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [&#39;Landman&#39; Season 2: How to Watch the Premiere Episode](https://www.cnet.com/tech/services-and-software/landman-season-2-how-to-watch-the-premiere-episode/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-419/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 16 #623](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-16-623/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 16, #889](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-16-889/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 16, #1611](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-16-1611/#ftag=CAD590a51e)
+ - [The current AI strategies of China and the US are complementary, as unlike the US, China isn&#39;t &quot;AGI-pilled&quot; yet, focusing on embodied AI and open source models &lpar;Dean W. Ball/Hyperdimensional&rpar;](http://www.techmeme.com/251115/p6#a251115p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analog Photography: The Beginner’s Guide to Film Cameras &lpar;2025&rpar;](https://www.wired.com/story/film-photography-beginners-guide/)
+ - [Framework’s franken-laptop is back with big chip upgrades and familiar frustrations](https://www.theverge.com/tech/821420/framework-laptop-16-2025-nvidia-rtx5070-review)
+ - [This New Car Feature Uses AI to Keep You From Missing Your Exit](https://www.cnet.com/roadshow/news/this-new-car-feature-uses-ai-to-keep-you-from-missing-your-exit/#ftag=CAD590a51e)
  - [11 Best Natural Deodorants I Tested for Daily Use &lpar;2025&rpar;](https://www.wired.com/gallery/best-natural-deodorants/)
- - [The Steam Machine feels like the TV gaming PC I’ve always wanted](https://www.theverge.com/games/818606/valve-steam-machine-tv-gaming-pc-wanted)
- - [Pluribus’ third episode throws a bomb into things](https://www.theverge.com/entertainment/820523/pluribus-episode-3-discussion)
- - [Apple&#39;s succession planning efforts step up to find Tim Cook&#39;s replacement](https://appleinsider.com/articles/25/11/15/apples-succession-planning-efforts-step-up-to-find-tim-cooks-replacement?utm_source=rss)
- - [The &#39;Secret&#39; to Healthy Aging Isn&#39;t a Secret. It&#39;s These 6 Expert-Backed Vitamins](https://www.cnet.com/health/nutrition/the-secret-to-healthy-aging-isnt-a-secret-its-these-6-expert-backed-vitamins/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Comparing the 2026 Phone Lineups From Apple, Samsung, Google and Everyone Else](https://www.cnet.com/tech/mobile/comparing-the-2026-phone-lineups-from-apple-samsung-google-and-everyone-else/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

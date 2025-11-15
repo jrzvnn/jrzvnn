@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 😝 [Capturing a skydiver in front of the sun.](http://9gag.com/gag/avy4NDq)
- - 👉 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)<!-- MEMES:END -->
+ - 😝 [Look at those puppies](http://9gag.com/gag/abAKNrE)
+ - 😝 [SLOP](http://9gag.com/gag/aVv4Abn)
+ - 💣 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 😝 [Funny how things is](http://9gag.com/gag/axyQ5XW)
+ - 👉 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)<!-- MEMES:END -->
 
 ---
 

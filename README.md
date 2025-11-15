@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [Do not blink...](http://9gag.com/gag/awyPwn8)
  - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Funny how things is](http://9gag.com/gag/axyQ5XW)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
  - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
 
 ---

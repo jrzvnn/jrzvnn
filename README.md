@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s early Black Friday M5 MacBook Pro deal delivers lowest price ever at $1,476](https://appleinsider.com/articles/25/11/14/amazons-early-black-friday-m5-macbook-pro-deal-delivers-lowest-price-ever-at-1478?utm_source=rss)
+ - [Apple updates App Review Guidelines to require apps to disclose and obtain users&#39; permission before sharing personal data with third-party AI providers &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251115/p5#a251115p5)
  - [Best early Black Friday MacBook Air deals slash up to $600 off](https://appleinsider.com/articles/25/11/15/best-early-black-friday-macbook-air-deals-slash-up-to-600-off?utm_source=rss)
  - [Let&#39;s Be Real: Your Sleep Routine Is a Mess. Try This 10-3-2-1-0 Hack Tonight.](https://www.cnet.com/health/sleep/lets-be-real-your-sleep-routine-is-a-mess-try-this-10-3-2-1-0-hack-tonight/#ftag=CAD590a51e)
- - [Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale](https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals)
- - [Masimo awarded $634M in Apple Watch patent infringement verdict](https://appleinsider.com/articles/25/11/15/masimo-awarded-634m-in-apple-watch-patent-infringement-verdict?utm_source=rss)
- - [The Best TVs We’ve Reviewed in 2025: Sony, Samsung, LG, and More](https://www.wired.com/gallery/best-tvs/)<!-- TECH:END -->
+ - [Here are 25 of our favorite outdoorsy deals from REI’s massive Holiday Sale](https://www.theverge.com/gadgets/821397/best-rei-holiday-sale-2025-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

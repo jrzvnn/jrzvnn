@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [When Will the US Finally Get $15K EVs?](https://www.wired.com/story/when-will-the-us-finally-get-dollar15k-evs/)
  - [28 Top Personalized Gifts to Bring Joy and Cheer This Holiday Season](https://www.cnet.com/news/best-personalized-gifts/#ftag=CAD590a51e)
  - [25% Off DoorDash Promo Code | November 2025](https://www.wired.com/story/doordash-promo-code/)
  - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 15](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-15/#ftag=CAD590a51e)
- - [Touchdown! Disney, ESPN and Other Channels Are Back on YouTube TV](https://www.cnet.com/tech/services-and-software/touchdown-disney-espn-and-other-channels-are-back-on-youtube-tv/#ftag=CAD590a51e)
- - [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)<!-- TECH:END -->
+ - [Touchdown! Disney, ESPN and Other Channels Are Back on YouTube TV](https://www.cnet.com/tech/services-and-software/touchdown-disney-espn-and-other-channels-are-back-on-youtube-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

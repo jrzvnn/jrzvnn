@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data Center Watch: local opposition blocked or delayed 17 US data center projects worth $98B in Q2 2025, vs. 16 projects worth $64B from May 2024 to March 2025 &lpar;Molly Taft/Wired&rpar;](http://www.techmeme.com/251114/p34#a251114p34)
+ - [Touchdown! Disney, ESPN and Other Channels Are Back on YouTube TV](https://www.cnet.com/tech/services-and-software/touchdown-disney-espn-and-other-channels-are-back-on-youtube-tv/#ftag=CAD590a51e)
  - [Sources: Apptronik, a humanoid robot maker backed by Google, is in the process of raising at least $400M led by B Capital at a $5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/251114/p33#a251114p33)
  - [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)
- - [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)
- - [Doritos and Cheetos Offering Dye-Free Options. We Have So Many Questions](https://www.cnet.com/health/doritos-and-cheetos-offering-dye-free-options-we-have-so-many-questions/#ftag=CAD590a51e)
- - [X replaces DMs with Chat, a new messaging system that it says is E2EE, supports file sharing, video calling, and more, rolling out first to iOS and the web &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251114/p32#a251114p32)<!-- TECH:END -->
+ - [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

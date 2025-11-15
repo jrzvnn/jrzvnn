@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)
- - 😝 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
  - 💣 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 👉 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)<!-- MEMES:END -->
+ - 😝 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
+ - 👉 [Look at those puppies](http://9gag.com/gag/abAKNrE)<!-- MEMES:END -->
 
 ---
 

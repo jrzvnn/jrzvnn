@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
  - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [Capturing a skydiver in front of the sun.](http://9gag.com/gag/avy4NDq)
  - 👉 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)<!-- MEMES:END -->
 
 ---

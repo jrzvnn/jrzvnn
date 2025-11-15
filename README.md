@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 💣 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)
- - 😝 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
- - 👉 [Look at those puppies](http://9gag.com/gag/abAKNrE)<!-- MEMES:END -->
+ - 😝 [Ultra advanced knowledge](http://9gag.com/gag/a9yZg8K)
+ - 😝 [Unforgettable moments in the history of pop](http://9gag.com/gag/aND8EDK)
+ - 💣 [C: Can&#39;t tell.](http://9gag.com/gag/a34e641)
+ - 😝 [Mom, can I go see a Rocky movie? No, we have Rocky at Home. Rocky at Home.](http://9gag.com/gag/aND8E2G)
+ - 👉 [All hail Lord Gaben](http://9gag.com/gag/aAyq8wL)<!-- MEMES:END -->
 
 ---
 

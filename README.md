@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: Apptronik, a humanoid robot maker backed by Google, is in the process of raising at least $400M led by B Capital at a $5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/251114/p33#a251114p33)
  - [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)
  - [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)
- - [X replaces DMs with Chat, a new messaging system that it says is E2EE, supports file sharing, video calling, and more, rolling out first to iOS and the web &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251114/p32#a251114p32)
- - [Apple COO Jeff Williams is now officially retired](https://appleinsider.com/articles/25/11/14/apple-ceo-jeff-williams-is-now-officially-retired?utm_source=rss)<!-- TECH:END -->
+ - [Doritos and Cheetos Offering Dye-Free Options. We Have So Many Questions](https://www.cnet.com/health/doritos-and-cheetos-offering-dye-free-options-we-have-so-many-questions/#ftag=CAD590a51e)
+ - [X replaces DMs with Chat, a new messaging system that it says is E2EE, supports file sharing, video calling, and more, rolling out first to iOS and the web &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251114/p32#a251114p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

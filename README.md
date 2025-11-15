@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple COO Jeff Williams is now officially retired](https://appleinsider.com/articles/25/11/14/apple-ceo-jeff-williams-is-now-officially-retired?utm_source=rss)
- - [Digital asset treasuries increasingly rely on in-kind contributions, with sponsors using their own crypto instead of cash, shifting risk to retail investors &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/251114/p31#a251114p31)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 15, #418](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-15-418/#ftag=CAD590a51e)
- - [Opera says in the 12 months ending with October, it saw a 88% surge in daily active iOS users across Europe, partly due to the changes mandated by the DMA &lpar;Marcus Mendes/9to5Mac&rpar;](http://www.techmeme.com/251114/p30#a251114p30)
- - [Best Beats Headphones and Earbuds for 2025](https://www.cnet.com/tech/mobile/best-beats-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apptronik, a humanoid robot maker backed by Google, is in the process of raising at least $400M led by B Capital at a $5B pre-money valuation &lpar;The Information&rpar;](http://www.techmeme.com/251114/p33#a251114p33)
+ - [YouTube TV, ESPN, and Disney: the latest on the blackout that’s now over](https://www.theverge.com/news/817403/youtube-tv-disney-espn-blackout-updates)
+ - [Disney and ESPN are back on YouTube TV](https://www.theverge.com/news/821581/disney-youtube-tv-deal-agreement-espn)
+ - [X replaces DMs with Chat, a new messaging system that it says is E2EE, supports file sharing, video calling, and more, rolling out first to iOS and the web &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251114/p32#a251114p32)
+ - [Apple COO Jeff Williams is now officially retired](https://appleinsider.com/articles/25/11/14/apple-ceo-jeff-williams-is-now-officially-retired?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

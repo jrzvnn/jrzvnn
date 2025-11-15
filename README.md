@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [No one reads this anyway](http://9gag.com/gag/a4PmOpw)
  - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
- - 😝 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
- - 👉 [Look at those puppies](http://9gag.com/gag/abAKNrE)<!-- MEMES:END -->
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 👉 [Chinese automaker tries recreating the viral Range Rover `Stairway to Heaven` climb, crashes through guardrail](http://9gag.com/gag/azxop7q)<!-- MEMES:END -->
 
 ---
 

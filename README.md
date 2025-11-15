@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Human safari](http://9gag.com/gag/apRzM7M)
- - 😝 [Probabilities.](http://9gag.com/gag/a6Z462q)
- - 💣 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
- - 😝 [Brilliant](http://9gag.com/gag/aD2rKyx)
- - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [Repost and not mine but to remember that `It&#39;s all in the diaphragm`](http://9gag.com/gag/ajPG4z0)
+ - 💣 [Who had Ubisoft for November?](http://9gag.com/gag/azxo3op)
+ - 😝 [MORE POWER](http://9gag.com/gag/a34eXL8)
+ - 👉 [You could see so many emotions on his face, even through the helmet](http://9gag.com/gag/aVv45ry)<!-- MEMES:END -->
 
 ---
 

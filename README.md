@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 😝 [Where\u2026?](http://9gag.com/gag/aVv4pKO)
+ - 😝 [Name that song &lpar;list&rpar;](http://9gag.com/gag/aKGnRLj)
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
  - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
- - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
+ - 👉 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 😝 [Polio](http://9gag.com/gag/aYQZ38x)
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
- - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
+ - 😝 [Baby box](http://9gag.com/gag/aByj73A)
+ - 😝 [Here&#39;s some Euro-Dance, arguably the best Dance has to offer](http://9gag.com/gag/aZZoeEW)
+ - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
 
 ---
 

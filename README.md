@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
+ - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 😝 [Peak german engineering](http://9gag.com/gag/a9yZQd0)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---
 

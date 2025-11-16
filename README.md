@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [Here&#39;s some Euro-Dance, arguably the best Dance has to offer](http://9gag.com/gag/aZZoeEW)
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
  - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
- - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
+ - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
 
 ---
 

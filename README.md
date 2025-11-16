@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I Ditched Alexa and Upgraded My Smart Home](https://www.wired.com/story/heres-how-i-ditched-alexa-and-upgraded-my-smart-home/)
  - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-419/#ftag=CAD590a51e)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 16 #623](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-16-623/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 16, #889](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-16-889/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 16, #1611](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-16-1611/#ftag=CAD590a51e)
- - [NFL Week 11: How to Watch Bucs vs. Bills, Chiefs vs. Broncos and Other Games From Anywhere](https://www.cnet.com/tech/services-and-software/nfl-week-11-how-to-watch-bucs-vs-bills-chiefs-vs-broncos-and-other-games-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 16, #1611](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-16-1611/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

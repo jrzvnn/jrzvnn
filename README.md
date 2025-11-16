@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tokyo-based Sakana AI becomes Japan&#39;s most valuable unicorn at a ~$2.6B valuation, following a ~$130M raise from Mitsubishi UFJ Financial and US VC firms &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251116/p6#a251116p6)
+ - [EcoFlow Delta 3 Ultra Plus review: Premium, but solid power](https://appleinsider.com/articles/25/11/16/ecoflow-delta-3-ultra-plus-review-premium-but-solid-power?utm_source=rss)
  - [You Can Now Add Your Passport to Your iPhone in Apple Wallet. Here&#39;s How](https://www.cnet.com/tech/mobile/iphone-users-can-now-add-their-passport-to-apple-wallet-heres-how-to-do-it/#ftag=CAD590a51e)
  - [A look at Flighty, a flight-tracking app that often beats airline updates; downloads went up 3x when the FAA cut air traffic during the US government shutdown &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251116/p5#a251116p5)
- - [Stereogum soldiers on in the era of streaming and AI](https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai)
- - [Amazon slashes Apple Watch Series 10 46mm to record low $279](https://appleinsider.com/articles/25/11/16/amazon-slashes-apple-watch-series-10-46mm-to-record-low-279?utm_source=rss)
- - [Keep holiday lights shining with Bluetti&#39;s new Elite 400 &amp; B500K home battery backup &amp; save up to 65% for Black Friday](https://appleinsider.com/articles/25/11/16/keep-holiday-lights-shining-with-bluettis-new-elite-400-b500k-home-battery-backup-save-up-to-65-for-black-friday?utm_source=rss)<!-- TECH:END -->
+ - [Stereogum soldiers on in the era of streaming and AI](https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

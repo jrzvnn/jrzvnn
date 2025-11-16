@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
  - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [Look at those puppies](http://9gag.com/gag/abAKNrE)
- - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [RIP Steve](http://9gag.com/gag/apRzWmB)
- - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
+ - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 😝 [An old post for ya. Saved this 11-2019](http://9gag.com/gag/aByj7mD)
+ - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
 
 ---
 

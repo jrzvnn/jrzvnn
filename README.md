@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Mac Pro may never be updated, Apple backs Mac Studio instead](https://appleinsider.com/articles/25/11/16/mac-pro-may-never-be-updated-apple-backs-mac-studio-instead?utm_source=rss)
  - [16 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Clothes, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
- - [How soapy micro dramas became Hollywood&amp;#8217;s next big bet](https://www.theverge.com/column/821345/micro-dramas-how-hollywood)
- - [Crime blotter: Apple product haul worth $320,000 is recovered](https://appleinsider.com/articles/25/11/16/crime-blotter-apple-product-haul-worth-320000-is-recovered?utm_source=rss)
- - [AI Wants to Make You Happy. Even If It Has to Bend the Truth](https://www.cnet.com/tech/services-and-software/ai-wants-to-make-you-happy-even-if-it-has-to-bend-the-truth/#ftag=CAD590a51e)
- - [How Genes Have Harnessed Physics to Grow Living Things](https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/)<!-- TECH:END -->
+ - [The OnePlus 15 Is One of the Best Mainstream Phones for Gamers](https://www.cnet.com/tech/mobile/the-oneplus-15-is-one-of-the-best-mainstream-phones-for-gamers/#ftag=CAD590a51e)
+ - [This Lunar Resource Is So Valuable It Could Spark a New Gold Rush](https://www.cnet.com/science/space/this-lunar-resource-is-so-valuable-it-could-spark-a-new-gold-rush/#ftag=CAD590a51e)
+ - [Best Adjustable Dumbbells for 2025: Fitness Expert Tested](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

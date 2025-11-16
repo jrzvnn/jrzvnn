@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
- - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [Cute skunks](http://9gag.com/gag/aAyqWQZ)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---
 

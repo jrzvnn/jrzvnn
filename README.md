@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dwayne Johnson and Barney](https://www.reddit.com/r/funny/comments/1oyjxvk/dwayne_johnson_and_barney/)
- - 😝 [The Witcher&#39;s Bounty](https://www.reddit.com/r/funny/comments/1oyjw8j/the_witchers_bounty/)
- - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
 
 ---
 

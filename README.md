@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
  - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Cute skunks](http://9gag.com/gag/aAyqWQZ)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
+ - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
 
 ---
 

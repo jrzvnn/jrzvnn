@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
+ - [Sources: Apple to launch 3 high-end iPhones next fall, with lower-end iPhones and likely new Air in Q2 2027; Mac Pro gets deprioritized; Jeff Williams retires &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251116/p3#a251116p3)
  - [How LimeWire ended the Napster music revolution](https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history)
- - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
- - [The Asus Falcata is an ambitious split ergo gaming keyboard that falls short](https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard)
- - [Apple Is Planning Cheaper Macs That Compete With Budget Chromebooks and PCs, Report Says](https://www.cnet.com/tech/computing/apple-is-planning-cheaper-macs-that-compete-with-budget-chromebooks-and-pcs-report-says/#ftag=CAD590a51e)
- - [Sources: Demis Hassabis pursued a Nobel as a DeepMind goal and favored high-minded work over short-term revenue or a stronger AI race position for Alphabet &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/251116/p2#a251116p2)<!-- TECH:END -->
+ - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

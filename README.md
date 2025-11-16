@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [You Can Now Add Your Passport to Your iPhone in Apple Wallet. Here&#39;s How](https://www.cnet.com/tech/mobile/iphone-users-can-now-add-their-passport-to-apple-wallet-heres-how-to-do-it/#ftag=CAD590a51e)
  - [A look at Flighty, a flight-tracking app that often beats airline updates; downloads went up 3x when the FAA cut air traffic during the US government shutdown &lpar;Ben Cohen/Wall Street Journal&rpar;](http://www.techmeme.com/251116/p5#a251116p5)
+ - [Stereogum soldiers on in the era of streaming and AI](https://www.theverge.com/entertainment/821767/stereogum-scott-lapatine-independent-music-media-streaming-ai)
  - [Amazon slashes Apple Watch Series 10 46mm to record low $279](https://appleinsider.com/articles/25/11/16/amazon-slashes-apple-watch-series-10-46mm-to-record-low-279?utm_source=rss)
- - [Keep holiday lights shining with Bluetti&#39;s new Elite 400 &amp; B500K home battery backup &amp; save up to 65% for Black Friday](https://appleinsider.com/articles/25/11/16/keep-holiday-lights-shining-with-bluettis-new-elite-400-b500k-home-battery-backup-save-up-to-65-for-black-friday?utm_source=rss)
- - [Samsung, SK Group, and others announce billions in domestic investment after US-South Korea trade deal; Samsung plans to invest $310B and SK Group pledged $88B &lpar;Kim Tong-Hyung/Associated Press&rpar;](http://www.techmeme.com/251116/p4#a251116p4)<!-- TECH:END -->
+ - [Keep holiday lights shining with Bluetti&#39;s new Elite 400 &amp; B500K home battery backup &amp; save up to 65% for Black Friday](https://appleinsider.com/articles/25/11/16/keep-holiday-lights-shining-with-bluettis-new-elite-400-b500k-home-battery-backup-save-up-to-65-for-black-friday?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

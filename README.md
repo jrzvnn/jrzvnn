@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Do not blink...](http://9gag.com/gag/awyPwn8)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
+ - 😝 [Polio](http://9gag.com/gag/aYQZ38x)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 😝 [Peak german engineering](http://9gag.com/gag/a9yZQd0)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---
 

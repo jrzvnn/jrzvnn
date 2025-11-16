@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gifts for Gym Bros: Best Workout Gear and Gym Essentials &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-gym-bros/)
- - [Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions](https://www.wired.com/story/google-gemini-and-chatgpt-scheduled-actions/)
- - [I Ditched Alexa and Upgraded My Smart Home](https://www.wired.com/story/heres-how-i-ditched-alexa-and-upgraded-my-smart-home/)
- - [Dell 16 Premium Review: New Name, Same Design, Slightly Better Performance](https://www.cnet.com/tech/computing/dell-16-premium-review-new-name-same-design-slightly-better-performance/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-419/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: Apple product haul worth $320,000 is recovered](https://appleinsider.com/articles/25/11/16/crime-blotter-apple-product-haul-worth-320000-is-recovered?utm_source=rss)
+ - [AI Wants to Make You Happy. Even If It Has to Bend the Truth](https://www.cnet.com/tech/services-and-software/ai-wants-to-make-you-happy-even-if-it-has-to-bend-the-truth/#ftag=CAD590a51e)
+ - [How Genes Have Harnessed Physics to Grow Living Things](https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/)
+ - [NordVPN Review &lpar;2025&rpar;: Living Up to Its Name](https://www.wired.com/review/nordvpn-review-2025/)
+ - [13 Foods Health Experts Recommend Eating to Strengthen Your Kidneys](https://www.cnet.com/health/nutrition/13-foods-health-experts-recommend-eating-to-strengthen-your-kidneys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

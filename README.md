@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A cat&#39;s killing by a Waymo robotaxi sparked outrage in San Francisco, as some questioned why deaths caused by human drivers don&#39;t get the same level of concern &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251115/p8#a251115p8)
+ - [Hollywood&#39;s Biggest Stars Shine in This Lesser-Known Sci-Fi Thriller](https://www.cnet.com/culture/entertainment/hollywoods-biggest-stars-shine-in-this-lesser-known-sci-fi-thriller/#ftag=CAD590a51e)
  - [Some experts question Anthropic&#39;s claims of cyberattack breakthroughs using its tools, noting that white-hat hackers report modest gains from AI-aided hacking &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251115/p7#a251115p7)
  - [Deepfake Videos Are More Realistic Than Ever. Here&#39;s How to Spot if a Video Is Real or AI](https://www.cnet.com/tech/services-and-software/deepfake-videos-are-more-realistic-than-ever-heres-how-to-spot-if-a-video-is-real-or-ai/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 16 #623](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-16-623/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 16, #889](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-16-889/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 16, #1611](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-16-1611/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 16 #623](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-16-623/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

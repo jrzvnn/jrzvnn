@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
+ - [The Asus Falcata is an ambitious split ergo gaming keyboard that falls short](https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard)
  - [Sources: Demis Hassabis pursued a Nobel as a DeepMind goal and favored high-minded work over short-term revenue or a stronger AI race position for Alphabet &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/251116/p2#a251116p2)
  - [Albania vs. England: Livestream World Cup 2026 Qualifier Soccer From Anywhere for Free](https://www.cnet.com/tech/services-and-software/albania-vs-england-livestream-world-cup-2026-qualifier-soccer-from-anywhere-for-free/#ftag=CAD590a51e)
- - [Marshall Heston 120 Review: Premium Style, Restrained Sound](https://www.wired.com/review/marshall-heston-120/)
- - [iPhone Air isn&#39;t annual, iPhone Air 2 was never coming in 2026](https://appleinsider.com/articles/25/11/16/iphone-air-isnt-annual-iphone-air-2-was-never-coming-in-2026?utm_source=rss)
- - [Expect big changes in iPhone release timing in 2026 and 2027](https://appleinsider.com/articles/25/11/16/expect-big-changes-in-iphone-release-timing-in-2026-and-2027?utm_source=rss)<!-- TECH:END -->
+ - [Marshall Heston 120 Review: Premium Style, Restrained Sound](https://www.wired.com/review/marshall-heston-120/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

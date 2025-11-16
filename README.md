@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 😝 [Peak german engineering](http://9gag.com/gag/a9yZQd0)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 😝 [Impossible to forget](http://9gag.com/gag/aGy6WDK)
+ - 😝 [Perfection](http://9gag.com/gag/aYQZ960)
+ - 💣 [Instant buddies](http://9gag.com/gag/agm6PEr)
+ - 😝 [In principle](http://9gag.com/gag/an78LQo)
+ - 👉 [From the archive...](http://9gag.com/gag/a0ezB0d)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 😝 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)
  - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 😝 [Very accurate.](http://9gag.com/gag/amoKE7y)
- - 👉 [Just another day...](http://9gag.com/gag/aByjpQ1)<!-- MEMES:END -->
+ - 😝 [Funny how things is](http://9gag.com/gag/axyQ5XW)
+ - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
 
 ---
 

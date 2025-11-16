@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
- - 💣 [Look at those puppies](http://9gag.com/gag/abAKNrE)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 😝 [Please do not the elk. He will kill you and we will record it.](http://9gag.com/gag/aqyBq6L)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
 
 ---
 

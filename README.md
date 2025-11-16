@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung, SK Group, and others announce billions in domestic investment after US-South Korea trade deal; Samsung plans to invest $310B and SK Group pledged $88B &lpar;Kim Tong-Hyung/Associated Press&rpar;](http://www.techmeme.com/251116/p4#a251116p4)
  - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
  - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
  - [Sources: Apple to launch 3 high-end iPhones next fall, with lower-end iPhones and likely new Air in Q2 2027; Mac Pro gets deprioritized; Jeff Williams retires &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251116/p3#a251116p3)
- - [How LimeWire ended the Napster music revolution](https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history)
- - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)<!-- TECH:END -->
+ - [How LimeWire ended the Napster music revolution](https://www.theverge.com/podcast/820818/limewire-music-piracy-version-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

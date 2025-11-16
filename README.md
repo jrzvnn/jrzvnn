@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Expect big changes in iPhone release timing in 2026 and 2027](https://appleinsider.com/articles/25/11/16/expect-big-changes-in-iphone-release-timing-in-2026-and-2027?utm_source=rss)
  - [Mac Pro may never be updated, Apple backs Mac Studio instead](https://appleinsider.com/articles/25/11/16/mac-pro-may-never-be-updated-apple-backs-mac-studio-instead?utm_source=rss)
  - [16 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Clothes, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
- - [How soapy micro dramas became Hollywood&amp;#8217;s next big bet](https://www.theverge.com/column/821345/micro-dramas-how-hollywood)<!-- TECH:END -->
+ - [The OnePlus 15 Is One of the Best Mainstream Phones for Gamers](https://www.cnet.com/tech/mobile/the-oneplus-15-is-one-of-the-best-mainstream-phones-for-gamers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

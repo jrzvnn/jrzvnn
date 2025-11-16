@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Clothes, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)
+ - [How soapy micro dramas became Hollywood&amp;#8217;s next big bet](https://www.theverge.com/column/821345/micro-dramas-how-hollywood)
  - [Crime blotter: Apple product haul worth $320,000 is recovered](https://appleinsider.com/articles/25/11/16/crime-blotter-apple-product-haul-worth-320000-is-recovered?utm_source=rss)
  - [AI Wants to Make You Happy. Even If It Has to Bend the Truth](https://www.cnet.com/tech/services-and-software/ai-wants-to-make-you-happy-even-if-it-has-to-bend-the-truth/#ftag=CAD590a51e)
- - [How Genes Have Harnessed Physics to Grow Living Things](https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/)
- - [NordVPN Review &lpar;2025&rpar;: Living Up to Its Name](https://www.wired.com/review/nordvpn-review-2025/)
- - [13 Foods Health Experts Recommend Eating to Strengthen Your Kidneys](https://www.cnet.com/health/nutrition/13-foods-health-experts-recommend-eating-to-strengthen-your-kidneys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Genes Have Harnessed Physics to Grow Living Things](https://www.wired.com/story/how-genes-have-harnessed-physics-to-grow-living-things/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

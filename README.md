@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polio](http://9gag.com/gag/aYQZ38x)
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [Do not blink...](http://9gag.com/gag/awyPwn8)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
  - 💣 [And here we all grew up thinking these goddamn things lived off bananas](http://9gag.com/gag/aGy64yZ)
- - 😝 [What is being hidden needs immediate release.](http://9gag.com/gag/aD2rEo9)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
+ - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
 
 ---
 

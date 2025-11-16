@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Name that song &lpar;list&rpar;](http://9gag.com/gag/aKGnRLj)
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 💣 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 😝 [Polio](http://9gag.com/gag/aYQZ38x)
+ - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
  - 😝 [Peak german engineering](http://9gag.com/gag/a9yZQd0)
- - 👉 [Perfection](http://9gag.com/gag/aYQZ960)<!-- MEMES:END -->
+ - 👉 [Look at those puppies](http://9gag.com/gag/abAKNrE)<!-- MEMES:END -->
 
 ---
 

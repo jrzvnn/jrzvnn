@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 😝 [GEN X MEME](http://9gag.com/gag/aO8AgbR)
+ - 😝 [In principle](http://9gag.com/gag/an78LQo)
+ - 💣 [This generation forgets our B-movies had Christian Bale and Matthew McConaughey hunting dragons in post-apocalyptic Britain.](http://9gag.com/gag/aPAzKyV)
  - 😝 [All superheros do not wear capes, some wear wellies and carry nailbars &lpar;DIY when the council will not&rpar;](http://9gag.com/gag/aE0yrPM)
- - 👉 [Really?](http://9gag.com/gag/aVv4nzv)<!-- MEMES:END -->
+ - 👉 [Handsome young man](http://9gag.com/gag/aRB9Y5q)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
  - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
+ - 😝 [Look at those puppies](http://9gag.com/gag/abAKNrE)
+ - 💣 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
+ - 😝 [RIP Steve](http://9gag.com/gag/apRzWmB)
+ - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
 
 ---
 

@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Best Action Cameras &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-action-cameras/)
  - [The Asus Falcata is an ambitious split ergo gaming keyboard that falls short](https://www.theverge.com/tech/821355/asus-falcata-review-hall-effect-switches-split-ergo-gaming-keyboard)
+ - [Apple Is Planning Cheaper Macs That Compete With Budget Chromebooks and PCs, Report Says](https://www.cnet.com/tech/computing/apple-is-planning-cheaper-macs-that-compete-with-budget-chromebooks-and-pcs-report-says/#ftag=CAD590a51e)
  - [Sources: Demis Hassabis pursued a Nobel as a DeepMind goal and favored high-minded work over short-term revenue or a stronger AI race position for Alphabet &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/251116/p2#a251116p2)
- - [Albania vs. England: Livestream World Cup 2026 Qualifier Soccer From Anywhere for Free](https://www.cnet.com/tech/services-and-software/albania-vs-england-livestream-world-cup-2026-qualifier-soccer-from-anywhere-for-free/#ftag=CAD590a51e)
- - [Marshall Heston 120 Review: Premium Style, Restrained Sound](https://www.wired.com/review/marshall-heston-120/)<!-- TECH:END -->
+ - [Albania vs. England: Livestream World Cup 2026 Qualifier Soccer From Anywhere for Free](https://www.cnet.com/tech/services-and-software/albania-vs-england-livestream-world-cup-2026-qualifier-soccer-from-anywhere-for-free/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

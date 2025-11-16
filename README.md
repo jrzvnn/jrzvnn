@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Demis Hassabis pursued a Nobel as a DeepMind goal and favored high-minded work over short-term revenue or a stronger AI race position for Alphabet &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/251116/p2#a251116p2)
  - [Marshall Heston 120 Review: Premium Style, Restrained Sound](https://www.wired.com/review/marshall-heston-120/)
  - [iPhone Air isn&#39;t annual, iPhone Air 2 was never coming in 2026](https://appleinsider.com/articles/25/11/16/iphone-air-isnt-annual-iphone-air-2-was-never-coming-in-2026?utm_source=rss)
  - [Expect big changes in iPhone release timing in 2026 and 2027](https://appleinsider.com/articles/25/11/16/expect-big-changes-in-iphone-release-timing-in-2026-and-2027?utm_source=rss)
- - [Mac Pro may never be updated, Apple backs Mac Studio instead](https://appleinsider.com/articles/25/11/16/mac-pro-may-never-be-updated-apple-backs-mac-studio-instead?utm_source=rss)
- - [16 Best Subscription Boxes for Kids &lpar;2025&rpar;: STEM, Books, Clothes, Snacks](https://www.wired.com/gallery/best-subscription-boxes-for-kids/)<!-- TECH:END -->
+ - [Mac Pro may never be updated, Apple backs Mac Studio instead](https://appleinsider.com/articles/25/11/16/mac-pro-may-never-be-updated-apple-backs-mac-studio-instead?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

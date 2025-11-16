@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gifts for Gym Bros: Best Workout Gear and Gym Essentials &lpar;2025&rpar;](https://www.wired.com/gallery/gifts-for-gym-bros/)
+ - [Use Google Gemini and ChatGPT to Organize Your Life With Scheduled Actions](https://www.wired.com/story/google-gemini-and-chatgpt-scheduled-actions/)
  - [I Ditched Alexa and Upgraded My Smart Home](https://www.wired.com/story/heres-how-i-ditched-alexa-and-upgraded-my-smart-home/)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-419/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 16 #623](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-16-623/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 16, #889](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-16-889/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 16, #1611](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-16-1611/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dell 16 Premium Review: New Name, Same Design, Slightly Better Performance](https://www.cnet.com/tech/computing/dell-16-premium-review-new-name-same-design-slightly-better-performance/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 16, #419](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-16-419/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Funniest caption wins](https://www.reddit.com/r/funny/comments/1oydmv4/funniest_caption_wins/)
  - 😝 [Name that song &lpar;list&rpar;](http://9gag.com/gag/aKGnRLj)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 😝 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
- - 👉 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)<!-- MEMES:END -->
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 💣 [It&#39;s about time we teach kids life skills regardless of gender](http://9gag.com/gag/awyPw0W)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 👉 [Just another day...](http://9gag.com/gag/aByjpQ1)<!-- MEMES:END -->
 
 ---
 

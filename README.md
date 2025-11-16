@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [Do not blink...](http://9gag.com/gag/awyPwn8)
  - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 💣 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 😝 [GEN X MEME](http://9gag.com/gag/aO8AgbR)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 💣 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
 
 ---
 

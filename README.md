@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Baby box](http://9gag.com/gag/aByj73A)
- - 😝 [Here&#39;s some Euro-Dance, arguably the best Dance has to offer](http://9gag.com/gag/aZZoeEW)
- - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
- - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
+ - 😝 [Handsome young man](http://9gag.com/gag/aRB9Y5q)
+ - 😝 [Sepultura in their prime &lpar;1991&rpar; on their home turf in Belo Horizonte, Brazil. Pure chaos.](http://9gag.com/gag/abAKPx8)
+ - 💣 [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)
+ - 😝 [Funny how things is](http://9gag.com/gag/axyQ5XW)
+ - 👉 [Cute skunks](http://9gag.com/gag/aAyqWQZ)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Vinted is exploring a share sale that could value the company at ~€8B; Vinted says it expects 2025 revenue to cross €1B+, up from €813M in 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251116/p1#a251116p1)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 16](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-16/#ftag=CAD590a51e)
  - [Dealogic: 51 US tech IPOs raised $16.8B in 2025, driven by AI and crypto, above the past three-year average but far below 2021&#39;s 127 IPOs raising $74.4B &lpar;Valida Pau/The Information&rpar;](http://www.techmeme.com/251115/p9#a251115p9)
  - [A cat&#39;s killing by a Waymo robotaxi sparked outrage in San Francisco, as some questioned why deaths caused by human drivers don&#39;t get the same level of concern &lpar;Heather Knight/New York Times&rpar;](http://www.techmeme.com/251115/p8#a251115p8)
- - [Hollywood&#39;s Biggest Stars Shine in This Lesser-Known Sci-Fi Thriller](https://www.cnet.com/culture/entertainment/hollywoods-biggest-stars-shine-in-this-lesser-known-sci-fi-thriller/#ftag=CAD590a51e)
- - [Some experts question Anthropic&#39;s claims of cyberattack breakthroughs using its tools, noting that white-hat hackers report modest gains from AI-aided hacking &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251115/p7#a251115p7)
- - [Deepfake Videos Are More Realistic Than Ever. Here&#39;s How to Spot if a Video Is Real or AI](https://www.cnet.com/tech/services-and-software/deepfake-videos-are-more-realistic-than-ever-heres-how-to-spot-if-a-video-is-real-or-ai/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hollywood&#39;s Biggest Stars Shine in This Lesser-Known Sci-Fi Thriller](https://www.cnet.com/culture/entertainment/hollywoods-biggest-stars-shine-in-this-lesser-known-sci-fi-thriller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

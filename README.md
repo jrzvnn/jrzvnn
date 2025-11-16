@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 😝 [Here&#39;s some Euro-Dance, arguably the best Dance has to offer](http://9gag.com/gag/aZZoeEW)
- - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
- - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
+ - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 😝 [Cute skunks](http://9gag.com/gag/aAyqWQZ)
+ - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
 
 ---
 

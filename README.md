@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 💣 [Look at those puppies](http://9gag.com/gag/abAKNrE)
  - 😝 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)
- - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 👉 [Look at those puppies](http://9gag.com/gag/abAKNrE)<!-- MEMES:END -->
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---
 

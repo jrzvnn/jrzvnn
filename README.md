@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Keep holiday lights shining with Bluetti&#39;s new Elite 400 &amp; B500K home battery backup &amp; save up to 65% for Black Friday](https://appleinsider.com/articles/25/11/16/keep-holiday-lights-shining-with-bluettis-new-elite-400-b500k-home-battery-backup-save-up-to-65-for-black-friday?utm_source=rss)
  - [Samsung, SK Group, and others announce billions in domestic investment after US-South Korea trade deal; Samsung plans to invest $310B and SK Group pledged $88B &lpar;Kim Tong-Hyung/Associated Press&rpar;](http://www.techmeme.com/251116/p4#a251116p4)
  - [The iOS 26 Feature Secretly Extending Your iPhone&#39;s Battery Life](https://www.cnet.com/tech/mobile/the-ios-26-feature-secretly-extending-your-iphones-battery-life/#ftag=CAD590a51e)
  - [Best Organic Mattresses &lpar;2025&rpar;: Birch, Avocado, Naturepedic, More](https://www.wired.com/gallery/best-organic-mattresses/)
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)
- - [Sources: Apple to launch 3 high-end iPhones next fall, with lower-end iPhones and likely new Air in Q2 2027; Mac Pro gets deprioritized; Jeff Williams retires &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251116/p3#a251116p3)<!-- TECH:END -->
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

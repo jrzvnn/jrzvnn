@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Polio](http://9gag.com/gag/aYQZ38x)
- - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [Peak german engineering](http://9gag.com/gag/a9yZQd0)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 😝 [Impossible to forget](http://9gag.com/gag/aGy6WDK)
+ - 😝 [Handsome young man](http://9gag.com/gag/aRB9Y5q)
+ - 💣 [From the archive...](http://9gag.com/gag/a0ezB0d)
+ - 😝 [In principle](http://9gag.com/gag/an78LQo)
+ - 👉 [This generation forgets our B-movies had Christian Bale and Matthew McConaughey hunting dragons in post-apocalyptic Britain.](http://9gag.com/gag/aPAzKyV)<!-- MEMES:END -->
 
 ---
 

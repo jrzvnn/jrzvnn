@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
  - 😝 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)
- - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
  - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
- - 😝 [An old post for ya. Saved this 11-2019](http://9gag.com/gag/aByj7mD)
+ - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
  - 👉 [Low trust society, RIP Western countries](http://9gag.com/gag/aByjAvx)<!-- MEMES:END -->
 
 ---

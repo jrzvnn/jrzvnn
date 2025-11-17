@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Eric Gillespie, the founder of Govini whose AI software is used by the US military, was arrested last week for allegedly soliciting pre-teens for sexual contact &lpar;Lori Ann LaRocco/CNBC&rpar;](http://www.techmeme.com/251117/p32#a251117p32)
+ - [Valar Atomics Says It&#39;s the First Nuclear Startup to Achieve Criticality](https://www.wired.com/story/valar-atomics-says-its-the-first-nuclear-startup-to-achieve-criticality/)
  - [NetChoice sues Virginia over a law that would require parental permission for minors to use social media for more than one hour per day, arguing it violates 1A &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251117/p31#a251117p31)
  - [New in iOS 26.2 beta 3: AirDrop codes, EU Siri changes, visual tweaks](https://appleinsider.com/articles/25/11/17/new-in-ios-262-beta-3-airdrop-codes-eu-siri-changes-visual-tweaks?utm_source=rss)
- - [Google Calendar can finally block off time without faking a meeting](https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block)
- - [Meta launches a tool called content protection to let creators detect and take action when their reels are reposted on Facebook or Instagram without permission &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251117/p30#a251117p30)
- - [Sixth Beijing Apple Store set to open on December 6](https://appleinsider.com/articles/25/11/17/sixth-beijing-apple-store-set-to-open-on-december-6?utm_source=rss)<!-- TECH:END -->
+ - [Google Calendar can finally block off time without faking a meeting](https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

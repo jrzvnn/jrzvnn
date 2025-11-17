@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
  - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
  - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [Time traveler plays COD](http://9gag.com/gag/aVv4n2d)
- - 👉 [Just found out about the Sky King incident. Press F.](http://9gag.com/gag/abAK7qL)<!-- MEMES:END -->
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
 
 ---
 

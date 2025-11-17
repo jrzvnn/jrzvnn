@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sky Sports killed off its female-focused Halo brand after just three days](https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok)
+ - [BNPL use in the US has grown to 91.5M users, with 25% financing groceries, as default rates accelerate and most loans aren&#39;t reported, creating &quot;phantom debt&quot; &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251116/p8#a251116p8)
  - [Forecasters at the US National Hurricane Center are increasingly leaning on Google&#39;s new DeepMind prediction model, though questions about its methods remain &lpar;Eric Holthaus/The Guardian&rpar;](http://www.techmeme.com/251116/p7#a251116p7)
  - [You need to listen to the searing noise pop album Forever in Your Heart](https://www.theverge.com/entertainment/821782/you-need-to-listen-to-the-searing-noise-pop-album-forever-in-your-heart)
- - [Tokyo-based Sakana AI becomes Japan&#39;s most valuable unicorn at a ~$2.6B valuation, following a ~$130M raise from Mitsubishi UFJ Financial and US VC firms &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251116/p6#a251116p6)
- - [EcoFlow Delta 3 Ultra Plus review: Premium, but solid power](https://appleinsider.com/articles/25/11/16/ecoflow-delta-3-ultra-plus-review-premium-but-solid-power?utm_source=rss)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 17 #624](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-17-624/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tokyo-based Sakana AI raised a ~$135M Series B from MUFG, Khosla Ventures, and others at a ~$2.6B valuation, becoming Japan&#39;s most valuable unicorn &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251116/p6#a251116p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

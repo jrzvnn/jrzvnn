@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta launches a tool called content protection to let creators detect when their reels are reposted on Facebook or Instagram and take action &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251117/p30#a251117p30)
- - [Sixth Beijing Apple Store set to open on December 6](https://appleinsider.com/articles/25/11/17/sixth-beijing-apple-store-set-to-open-on-december-6?utm_source=rss)
- - [NetChoice sues Virginia to block its one-hour social media limit for kids](https://www.theverge.com/news/822475/netchoice-virginia-lawsuit-social-media-time-limit-law)
- - [iOS 26.2 may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/11/17/ios-262-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_source=rss)
- - [Microsoft says it mitigated a 15.7 Tbps DDoS from the Aisuru botnet on a single Australian Azure endpoint in October, the largest cloud DDoS ever recorded &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/251117/p29#a251117p29)<!-- TECH:END -->
+ - [NetChoice sues Virginia over a law that would require parental permission for minors to use social media for more than one hour per day, arguing it violates 1A &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251117/p31#a251117p31)
+ - [New in iOS 26.2 beta 3: AirDrop codes, EU Siri changes, visual tweaks](https://appleinsider.com/articles/25/11/17/new-in-ios-262-beta-3-airdrop-codes-eu-siri-changes-visual-tweaks?utm_source=rss)
+ - [Google Calendar can finally block off time without faking a meeting](https://www.theverge.com/news/822492/google-calendar-tasks-busy-time-block)
+ - [Meta launches a tool called content protection to let creators detect and take action when their reels are reposted on Facebook or Instagram without permission &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/251117/p30#a251117p30)
+ - [Sixth Beijing Apple Store set to open on December 6](https://appleinsider.com/articles/25/11/17/sixth-beijing-apple-store-set-to-open-on-december-6?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

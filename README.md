@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 💣 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
- - 😝 [Soon](http://9gag.com/gag/a0ezm3B)
- - 👉 [Is it true?](http://9gag.com/gag/aE0yexp)<!-- MEMES:END -->
+ - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 💣 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---
 

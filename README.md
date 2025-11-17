@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In an informal survey of 300+ Cerebral Valley AI Conference attendees asking which $1B+ valuation startup to short, most voted Perplexity, followed by OpenAI &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251117/p13#a251117p13)
+ - [Apple&#39;s future iPhone cases could add touch surfaces beyond the screen](https://appleinsider.com/articles/25/11/17/apples-future-iphone-cases-could-add-touch-surfaces-beyond-the-screen?utm_source=rss)
  - [Selena Quintanilla Is Celebrated in New Music Documentary: Here&#39;s Where to Watch](https://www.cnet.com/culture/entertainment/selena-quintanilla-is-celebrated-in-new-music-documentary-heres-where-to-watch/#ftag=CAD590a51e)
  - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
- - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
- - [My Favorite iPhone 17 Features That You&#39;re Not Using](https://www.cnet.com/tech/mobile/my-favorite-iphone-17-features-that-youre-not-using/#ftag=CAD590a51e)
- - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)<!-- TECH:END -->
+ - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

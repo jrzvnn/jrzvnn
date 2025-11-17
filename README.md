@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investigation: $28B+ in crypto tied to illicit activity flowed into crypto exchanges like Binance over the last two years, as President Trump embraces crypto &lpar;New York Times&rpar;](http://www.techmeme.com/251117/p6#a251117p6)
+ - [OpenAI&#39;s Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It](https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/)
  - [12 Best Tech Gifts That They&#39;d Actually Want &lpar;2025&rpar;](https://www.wired.com/story/best-tech-gifts/)
  - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)
- - [Inside a Wild Bitcoin Heist: Five-Star Hotels, Cash-Stuffed Envelopes, and Vanishing Funds](https://www.wired.com/story/bitcoin-scam-mining-as-service/)
- - [Chinese toymaker FoloToy suspends sales of its GPT-4o-powered teddy bear, after researchers found the toy gave kids harmful responses, including sexual content &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/251117/p5#a251117p5)
- - [Sources: AI startup Project Prometheus raised $6.2B, including from Jeff Bezos, who will become co-CEO, his first operational role since leaving Amazon in 2021 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251117/p4#a251117p4)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 17 #624](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-17-624/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

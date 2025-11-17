@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Sources: AI startup Project Prometheus raised $6.2B, including from Jeff Bezos, who will become co-CEO, his first operational role since leaving Amazon in 2021 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251117/p4#a251117p4)
- - [An interview with Chris Gilliard on his new book Luxury Surveillance, how smart wearables could normalize pervasive surveillance, X&#39;s political shift, and more &lpar;Anika Collier Navaroli/The Tech Policy ...&rpar;](http://www.techmeme.com/251117/p3#a251117p3)
+ - [An interview with Chris Gilliard on his new book Luxury Surveillance, how smart wearables could normalize pervasive surveillance, X&#39;s political shift, and more &lpar;Anika Collier Navaroli/Tech Policy Press&rpar;](http://www.techmeme.com/251117/p3#a251117p3)
  - [Chinese chipmaker Cambricon&#39;s revenue surged 500%+ in the past year and its stock jumped 765%+ in two years, as China pushes local chips amid US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p2#a251117p2)
  - [A Doctor at Apple Shares 9 Hidden Apple Watch Features for Your Health](https://www.cnet.com/health/medical/doctor-apple-shares-hidden-apple-watch-features-health/#ftag=CAD590a51e)
  - [Europe banned new gas cars after 2035 — now it’s reconsidering](https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate)<!-- TECH:END -->

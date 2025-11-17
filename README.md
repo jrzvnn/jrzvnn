@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
  - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
+ - 😝 [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)
+ - 💣 [Cute skunks](http://9gag.com/gag/aAyqWQZ)
+ - 😝 [Funny how things is](http://9gag.com/gag/axyQ5XW)
+ - 👉 [Nobody: . That new fashionable pretentious restaurant:](http://9gag.com/gag/a1mBzKP)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best early Black Friday iPad deals deliver prices from $299](https://appleinsider.com/articles/25/11/17/best-early-black-friday-ipad-deals-deliver-prices-from-299?utm_source=rss)
- - [Span, which aims to help companies measure the value of AI-assisted coding, raised $25M in seed and Series A rounds from Alt Capital, Craft Ventures, and others &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251117/p20#a251117p20)
- - [A treasure trove of Criterion Collection DVDs are now on half-price sale](https://www.theverge.com/tech/822105/dvd-bluray-movie-criterion-sale-deal)
- - [Ramp says it is now valued at $32B following a $300M raise led by Lightspeed and an employee tender offer, up from a $22.5B valuation in July &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251117/p19#a251117p19)
- - [2TB SSD upgrades for Steam Deck are surprisingly cheap](https://www.theverge.com/gadgets/822070/steam-deck-rog-ally-ssd-2tb-gaming-deal-sale)<!-- TECH:END -->
+ - [&#39;Sneaky Sasquatch&#39; gets its own iMessage sticker pack](https://appleinsider.com/articles/25/11/17/sneaky-sasquatch-gets-its-own-imessage-sticker-pack?utm_source=rss)
+ - [Sources: Amazon is seeking to raise about $12B through a bond sale, its first such deal in US dollars since 2022, to help fund acquisitions, capex, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p21#a251117p21)
+ - [Google&amp;#8217;s AI Mode can now help you visualize your travel plans](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas)
+ - [Netgear&amp;#8217;s $499.99 5G hotspot lets you swap eSIMs at will](https://www.theverge.com/news/822256/netgear-nighthawk-5g-m7-esim-marketplace-launch)
+ - [Best early Black Friday iPad deals deliver prices from $299](https://appleinsider.com/articles/25/11/17/best-early-black-friday-ipad-deals-deliver-prices-from-299?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

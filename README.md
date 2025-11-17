@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cloudflare acquires Replicate, which hosts over 50,000 AI models and simplifies AI model deployment via a single API call; Replicate will keep its brand &lpar;Rita Kozlov/Cloudflare&rpar;](http://www.techmeme.com/251117/p25#a251117p25)
+ - [Ford and Amazon partner to let people purchase certified pre-owned Ford vehicles via Amazon Autos, initially available in Los Angeles, Seattle, and Dallas &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251117/p24#a251117p24)
+ - [Our Favorite Compact Soundbar Is $100 Off](https://www.wired.com/story/bose-smart-soundbar-deal-1125/)
  - [Third round of iOS 26.2, macOS 26.2 developer betas available for testing](https://appleinsider.com/articles/25/11/17/third-round-of-ios-262-macos-262-developer-betas-available-for-testing?utm_source=rss)
- - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)
- - [The 42 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
- - [Apple Sports brings match results to 20 more European countries](https://appleinsider.com/articles/25/11/17/apple-sports-brings-match-results-to-20-more-european-countries?utm_source=rss)
- - [Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $140M, including a $100M Series B led by CapitalG &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251117/p23#a251117p23)<!-- TECH:END -->
+ - [26 Best Gifts for Gamers for 2025](https://www.cnet.com/tech/gaming/best-gifts-for-gamers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

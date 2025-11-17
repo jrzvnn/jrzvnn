@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pinkfong prices its South Korea IPO at ~$26 per share, valuing the company behind Baby Shark Dance, YouTube&#39;s most-watched video with 16.4B views, at ~$375M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251117/p28#a251117p28)
  - [How Jeffrey Epstein used SEO to bury news about his crimes](https://www.theverge.com/report/822311/jeffrey-epstein-emails-google-search-seo-pr)
  - [Runlayer, which aims to make it easy for companies to securely scale MCP servers, emerges from stealth with an $11M seed from Khosla Ventures and Felicis &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251117/p27#a251117p27)
  - [Pro-AI super PAC Leading the Future targets NY State Assemblymember Alex Bores, co-sponsor of the RAISE Act, a bill imposing safety and disclosure requirements &lpar;CNBC&rpar;](http://www.techmeme.com/251117/p26#a251117p26)
- - [Your online reservations are telling restaurants all about you](https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants)
- - [Don&#39;t get overwhelmed by spam &amp; scams, remove your personal information from the internet](https://appleinsider.com/articles/25/11/17/dont-get-overwhelmed-by-spam-scams-remove-your-personal-information-from-the-internet?utm_source=rss)<!-- TECH:END -->
+ - [Your online reservations are telling restaurants all about you](https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

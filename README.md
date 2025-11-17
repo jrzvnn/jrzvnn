@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [South Africans describing life in South Africa.](http://9gag.com/gag/aByj7WZ)
+ - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
  - 😝 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
- - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
- - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 💣 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
+ - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - 👉 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)<!-- MEMES:END -->
 
 ---
 

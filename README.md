@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [We wuz Romans](http://9gag.com/gag/ae9yXLW)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
- - 💣 [Word articulation level prestige](http://9gag.com/gag/aKGnb0N)
- - 😝 [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
- - 👉 [They Call It Culture and Manners I Believe...](http://9gag.com/gag/aD2rBxB)<!-- MEMES:END -->
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---
 

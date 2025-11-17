@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Klarna CEO Sebastian Siemiatkowski says he is &quot;nervous about the size of these investments in these data centres&quot;; he owns stakes in OpenAI, Perplexity, and xAI &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251117/p15#a251117p15)
+ - [Meta says its 2Africa subsea cable project remains incomplete in the southern Red Sea segment due to security risks; Google&#39;s Blue-Raman cable is also delayed &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p14#a251117p14)
  - [MSNBC&amp;#8217;s website is now MS.NOW](https://www.theverge.com/news/822028/msnbc-msnow-rebrand-new-website)
  - [Don&#39;t Donate Torn, Stained Clothes and Sheets—Send Them to Trashie](https://www.wired.com/story/trashie-recycling/)
- - [You can now buy pre-owned Ford vehicles on Amazon](https://www.theverge.com/news/821258/ford-amazon-auto-online-sales-certified-preowned)
- - [In an informal survey of 300+ Cerebral Valley AI Conference attendees asking which $1B+ valuation startup to short, most voted Perplexity, followed by OpenAI &lpar;Ben Bergman/Business Insider&rpar;](http://www.techmeme.com/251117/p13#a251117p13)
- - [Apple&#39;s future iPhone cases could add touch surfaces beyond the screen](https://appleinsider.com/articles/25/11/17/apples-future-iphone-cases-could-add-touch-surfaces-beyond-the-screen?utm_source=rss)<!-- TECH:END -->
+ - [Sakara and Factor Meals Team Up to Deliver Healthy High-Protein Salads](https://www.cnet.com/health/nutrition/sakara-and-factor-meals-team-up-to-deliver-healthy-high-protein-salads/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

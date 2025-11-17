@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pro-AI super PAC Leading the Future targets NY State Assemblymember Alex Bores, co-sponsor of the RAISE Act, a bill imposing safety and disclosure requirements &lpar;CNBC&rpar;](http://www.techmeme.com/251117/p26#a251117p26)
+ - [Your online reservations are telling restaurants all about you](https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants)
  - [Don&#39;t get overwhelmed by spam &amp; scams, remove your personal information from the internet](https://appleinsider.com/articles/25/11/17/dont-get-overwhelmed-by-spam-scams-remove-your-personal-information-from-the-internet?utm_source=rss)
  - [Cloudflare acquires Replicate, which hosts over 50,000 AI models and simplifies AI model deployment via a single API call; Replicate will keep its brand &lpar;Cloudflare&rpar;](http://www.techmeme.com/251117/p25#a251117p25)
- - [Ford and Amazon partner to let people purchase certified pre-owned Ford vehicles via Amazon Autos, initially available in Los Angeles, Seattle, and Dallas &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251117/p24#a251117p24)
- - [Our Favorite Compact Soundbar Is $100 Off](https://www.wired.com/story/bose-smart-soundbar-deal-1125/)
- - [Third round of iOS 26.2, macOS 26.2 developer betas available for testing](https://appleinsider.com/articles/25/11/17/third-round-of-ios-262-macos-262-developer-betas-available-for-testing?utm_source=rss)<!-- TECH:END -->
+ - [Ford and Amazon partner to let people purchase certified pre-owned Ford vehicles via Amazon Autos, initially available in Los Angeles, Seattle, and Dallas &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251117/p24#a251117p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

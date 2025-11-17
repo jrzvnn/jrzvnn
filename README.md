@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
- - 😝 [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
- - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
+ - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - 💣 [Identification of a Mercedes Benz factory worker in Argentina in 1959. He&#39;s just a regular guy, stop asking questions.](http://9gag.com/gag/a6Z4P8A)
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
+ - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
 
 ---
 

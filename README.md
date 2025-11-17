@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NetChoice sues Virginia to block its one-hour social media limit for kids](https://www.theverge.com/news/822475/netchoice-virginia-lawsuit-social-media-time-limit-law)
+ - [iOS 26.2 may let EU users shift from Siri to other voice assistants](https://appleinsider.com/articles/25/11/17/ios-262-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_source=rss)
  - [Microsoft says it mitigated a 15.7 Tbps DDoS from the Aisuru botnet on a single Australian Azure endpoint in October, the largest cloud DDoS ever recorded &lpar;Pierluigi Paganini/Security Affairs&rpar;](http://www.techmeme.com/251117/p29#a251117p29)
  - [Bose’s noise-canceling QuietComfort Headphones are more than 50 percent off](https://www.theverge.com/gadgets/822365/bose-noise-canceling-quietcomfort-headphones-amazon-deal-sale)
- - [Pinkfong prices its South Korea IPO at ~$26 per share, valuing the company behind Baby Shark Dance, YouTube&#39;s most-watched video with 16.4B views, at ~$375M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251117/p28#a251117p28)
- - [How Jeffrey Epstein used SEO to bury news about his crimes](https://www.theverge.com/report/822311/jeffrey-epstein-emails-google-search-seo-pr)
- - [Runlayer, which aims to make it easy for companies to securely scale MCP servers, emerges from stealth with an $11M seed from Khosla Ventures and Felicis &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251117/p27#a251117p27)<!-- TECH:END -->
+ - [Pinkfong prices its South Korea IPO at ~$26 per share, valuing the company behind Baby Shark Dance, YouTube&#39;s most-watched video with 16.4B views, at ~$375M &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251117/p28#a251117p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

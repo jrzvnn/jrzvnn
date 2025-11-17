@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Danish startup Flatpay, which facilitates card payments for SMBs, raised €145M at a €1.5B valuation and says it &quot;crossed €100M of ARR in October&quot; &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251117/p9#a251117p9)
  - [Sources: UK companies and groups tell the UK that a planned ban on paying ransoms to ransomware gangs is unlikely to stop attacks and risks collapsing services &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251117/p8#a251117p8)
  - [11 Best Dry Shampoos for All Types of Hair &lpar;2025&rpar;](https://www.wired.com/gallery/the-best-dry-shampoo/)
  - [Freedom House&#39;s Freedom on the Net 2025 report: for the 15th straight year, global internet freedom is in decline; of the 72 countries surveyed, Kenya fell most &lpar;Tech Policy Press&rpar;](http://www.techmeme.com/251117/p7#a251117p7)
- - [Investigation: $28B+ in crypto tied to illicit activity flowed into crypto exchanges like Binance over the last two years, as President Trump embraces crypto &lpar;New York Times&rpar;](http://www.techmeme.com/251117/p6#a251117p6)
- - [OpenAI&#39;s Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It](https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/)<!-- TECH:END -->
+ - [Investigation: $28B+ in crypto tied to illicit activity flowed into crypto exchanges like Binance over the last two years, as President Trump embraces crypto &lpar;New York Times&rpar;](http://www.techmeme.com/251117/p6#a251117p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

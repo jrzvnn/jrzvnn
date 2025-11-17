@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Handsome young man](http://9gag.com/gag/aRB9Y5q)
- - 😝 [Sepultura in their prime &lpar;1991&rpar; on their home turf in Belo Horizonte, Brazil. Pure chaos.](http://9gag.com/gag/abAKPx8)
- - 💣 [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)
- - 😝 [Funny how things is](http://9gag.com/gag/axyQ5XW)
- - 👉 [Cute skunks](http://9gag.com/gag/aAyqWQZ)<!-- MEMES:END -->
+ - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
+ - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
- - 👉 [Really?](http://9gag.com/gag/aVv4nzv)<!-- MEMES:END -->
+ - 😝 [Flerfers](http://9gag.com/gag/aKGnbvj)
+ - 😝 [Well habibi](http://9gag.com/gag/aPAzO7V)
+ - 💣 [We wuz Romans](http://9gag.com/gag/ae9yXLW)
+ - 😝 [Word articulation level prestige](http://9gag.com/gag/aKGnb0N)
+ - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)<!-- MEMES:END -->
 
 ---
 

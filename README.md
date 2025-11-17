@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Span, which aims to help companies measure the value of AI-assisted coding, raised $25M in seed and Series A rounds from Alt Capital, Craft Ventures, and others &lpar;Alex Konrad/Upstarts Media&rpar;](http://www.techmeme.com/251117/p20#a251117p20)
+ - [A treasure trove of Criterion Collection DVDs are now on half-price sale](https://www.theverge.com/tech/822105/dvd-bluray-movie-criterion-sale-deal)
  - [Ramp says it is now valued at $32B following a $300M raise led by Lightspeed and an employee tender offer, up from a $22.5B valuation in July &lpar;Emily Mason/Bloomberg&rpar;](http://www.techmeme.com/251117/p19#a251117p19)
  - [2TB SSD upgrades for Steam Deck are surprisingly cheap](https://www.theverge.com/gadgets/822070/steam-deck-rog-ally-ssd-2tb-gaming-deal-sale)
- - [Amazon unveils $17.99 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)
- - [Even the lawmakers behind the TikTok ban have no idea what&amp;#8217;s going on](https://www.theverge.com/policy/822164/tiktok-deal-trump-china)
- - [Next Apple Watch refresh may not happen until 2028](https://appleinsider.com/articles/25/11/17/next-apple-watch-refresh-may-not-happen-until-2028?utm_source=rss)<!-- TECH:END -->
+ - [Amazon unveils $17.99 Apple AirTag deal, the lowest price ever](https://appleinsider.com/articles/25/11/14/amazon-unveils-18-apple-airtag-deal-the-lowest-price-ever?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

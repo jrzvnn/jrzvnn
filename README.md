@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 💣 [This generation forgets our B-movies had Christian Bale and Matthew McConaughey hunting dragons in post-apocalyptic Britain.](http://9gag.com/gag/aPAzKyV)
  - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
  - 👉 [Just make them bigger](http://9gag.com/gag/a4PmDLp)<!-- MEMES:END -->
 

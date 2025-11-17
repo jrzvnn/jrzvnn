@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $140M, including a $100M Series B led by CapitalG &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251117/p23#a251117p23)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
  - [Coding assistant startup Sourcegraph says ads in its free tier are generating $5M to $10M in annualized revenue; the ad-supported tier was launched in October &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251117/p22#a251117p22)
  - [&#39;Sneaky Sasquatch&#39; gets its own iMessage sticker pack](https://appleinsider.com/articles/25/11/17/sneaky-sasquatch-gets-its-own-imessage-sticker-pack?utm_source=rss)
- - [Sources: Amazon is seeking to raise about $12B through a bond sale, its first such deal in US dollars since 2022, to help fund acquisitions, capex, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p21#a251117p21)
- - [Google&amp;#8217;s AI Mode can now help you visualize your travel plans](https://www.theverge.com/news/822240/google-ai-mode-travel-plans-canvas)
- - [Netgear&amp;#8217;s $499.99 5G hotspot lets you swap eSIMs at will](https://www.theverge.com/news/822256/netgear-nighthawk-5g-m7-esim-marketplace-launch)<!-- TECH:END -->
+ - [Sources: Amazon is seeking to raise about $12B through a bond sale, its first such deal in US dollars since 2022, to help fund acquisitions, capex, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p21#a251117p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

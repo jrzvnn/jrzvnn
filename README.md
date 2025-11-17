@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 😝 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
+ - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 💣 [HOLY SHIT THEY F**KIN DIED!](http://9gag.com/gag/a1mB4qR)
  - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 👉 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)<!-- MEMES:END -->
+ - 👉 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)<!-- MEMES:END -->
 
 ---
 

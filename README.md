@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Tech Gifts That They&#39;d Actually Want &lpar;2025&rpar;](https://www.wired.com/story/best-tech-gifts/)
  - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)
  - [Inside a Wild Bitcoin Heist: Five-Star Hotels, Cash-Stuffed Envelopes, and Vanishing Funds](https://www.wired.com/story/bitcoin-scam-mining-as-service/)
  - [Chinese toymaker FoloToy suspends sales of its GPT-4o-powered teddy bear, after researchers found the toy gave kids harmful responses, including sexual content &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/251117/p5#a251117p5)
- - [Sources: AI startup Project Prometheus raised $6.2B, including from Jeff Bezos, who will become co-CEO, his first operational role since leaving Amazon in 2021 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251117/p4#a251117p4)
- - [An interview with Chris Gilliard on his new book Luxury Surveillance, how smart wearables could normalize pervasive surveillance, X&#39;s political shift, and more &lpar;Anika Collier Navaroli/Tech Policy Press&rpar;](http://www.techmeme.com/251117/p3#a251117p3)<!-- TECH:END -->
+ - [Sources: AI startup Project Prometheus raised $6.2B, including from Jeff Bezos, who will become co-CEO, his first operational role since leaving Amazon in 2021 &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/251117/p4#a251117p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

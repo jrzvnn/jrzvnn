@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In with a bang, out in silence -- the end of the Mac Pro](https://appleinsider.com/articles/25/11/17/in-with-a-bang-out-in-silence----the-end-of-the-mac-pro?utm_source=rss)
+ - [I looked into CoreWeave and the abyss gazed back](https://www.theverge.com/ai-artificial-intelligence/822011/coreweave-debt-data-center-ai)
  - [Klarna CEO Sebastian Siemiatkowski says he is &quot;nervous about the size of these investments in these data centres&quot;; he owns stakes in OpenAI, Perplexity, and xAI &lpar;Laith Al-Khalaf/Financial Times&rpar;](http://www.techmeme.com/251117/p15#a251117p15)
  - [Meta says its 2Africa subsea cable project remains incomplete in the southern Red Sea segment due to security risks; Google&#39;s Blue-Raman cable is also delayed &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p14#a251117p14)
- - [MSNBC&amp;#8217;s website is now MS.NOW](https://www.theverge.com/news/822028/msnbc-msnow-rebrand-new-website)
- - [Don&#39;t Donate Torn, Stained Clothes and Sheets—Send Them to Trashie](https://www.wired.com/story/trashie-recycling/)
- - [Sakara and Factor Meals Team Up to Deliver Healthy High-Protein Salads](https://www.cnet.com/health/nutrition/sakara-and-factor-meals-team-up-to-deliver-healthy-high-protein-salads/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MSNBC&amp;#8217;s website is now MS.NOW](https://www.theverge.com/news/822028/msnbc-msnow-rebrand-new-website)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

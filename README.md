@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
+ - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
+ - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)
  - [Voize, an ambient AI voice company targeting skilled nursing facilities, raised a $50M Series A led by Balderton Capital and plans a US launch in Q1 2026 &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251117/p12#a251117p12)
- - [EcoFlow Delta 3 Ultra Plus review: Premium, but solid power](https://appleinsider.com/articles/25/11/16/ecoflow-delta-3-ultra-plus-review-premium-but-solid-power?utm_source=rss)
- - [MSI’s $380 QD-OLED gaming monitor is one of 2025’s best deals so far](https://www.theverge.com/gadgets/820451/msi-qd-oled-1440p-gaming-monitor-deal-sale-black-friday)
- - [Q&amp;A with OpenAI CEO of Applications Fidji Simo on joining OpenAI, ChatGPT users&#39; mental health, profitability, data center deals, her chronic illness, and more &lpar;Zoë Schiffer/Wired&rpar;](http://www.techmeme.com/251117/p11#a251117p11)
- - [X launches Chat, its new encrypted DMs](https://www.theverge.com/news/821950/x-chat-encrypted-dms-video-calls)<!-- TECH:END -->
+ - [EcoFlow Delta 3 Ultra Plus review: Premium, but solid power](https://appleinsider.com/articles/25/11/16/ecoflow-delta-3-ultra-plus-review-premium-but-solid-power?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

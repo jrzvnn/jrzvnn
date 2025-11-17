@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 💣 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 😝 [They Call It Culture and Manners I Believe...](http://9gag.com/gag/aD2rBxB)
+ - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [Parkour](http://9gag.com/gag/a9yZ3VK)
  - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---

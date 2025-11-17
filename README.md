@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
+ - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
  - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 💣 [Woman rejects a good guy for no reason](http://9gag.com/gag/aoyAr6w)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
  - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---

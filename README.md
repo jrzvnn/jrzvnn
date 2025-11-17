@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vancouver-based PowerLattice, which makes a power supply chiplet to cut power consumption by 50%+, raised a $25M Series A, taking its total funding to $31M &lpar;Pete Danko/Portland Business Journal&rpar;](http://www.techmeme.com/251117/p18#a251117p18)
+ - [Google DeepMind releases WeatherNext 2, a weather model that it says offers faster, more accurate two-week forecasts and includes tools aimed at energy traders &lpar;Joe Wertz/Bloomberg&rpar;](http://www.techmeme.com/251117/p17#a251117p17)
  - [Sources: the EU Commission wants to decide if any of AWS, Azure, and Google Cloud should face new restrictions under the DMA, following several major outages &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251117/p16#a251117p16)
  - [A Collision with Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit](https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/)
- - [25 Best Tech Books to Gift &lpar;2025&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)
- - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
- - [Ring’s Jamie Siminoff thinks AI can reduce crime](https://www.theverge.com/podcast/822038/ring-jamie-siminoff-camera-ai-crime-surveillance-home-security)<!-- TECH:END -->
+ - [25 Best Tech Books to Gift &lpar;2025&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

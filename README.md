@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese chipmaker Cambricon&#39;s revenue surged 500%+ in the past year and its stock jumped 765%+ in two years, as China pushes local chips amid US sanctions &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p2#a251117p2)
+ - [A Doctor at Apple Shares 9 Hidden Apple Watch Features for Your Health](https://www.cnet.com/health/medical/doctor-apple-shares-hidden-apple-watch-features-health/#ftag=CAD590a51e)
  - [Europe banned new gas cars after 2035 — now it’s reconsidering](https://www.theverge.com/transportation/820398/eu-gas-car-ban-2035-weaken-climate)
  - [FT&#39;s Tim Cook retirement story could be a &quot;trial balloon&quot; from people close to him, if Cook makes the decision to leave on a high note after Q1 earnings report &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251117/p1#a251117p1)
- - [Tokyo-based Turing, which is developing an AI model for self-driving vehicles, raised a $99M Series A, sources say at a ~$388M valuation &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/251116/p10#a251116p10)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 17, #420](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-17-420/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-17/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tokyo-based Turing, which is developing an AI model for self-driving vehicles, raised a $99M Series A, sources say at a ~$388M valuation &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/251116/p10#a251116p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

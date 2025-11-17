@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Next Apple Watch refresh may not happen until 2028](https://appleinsider.com/articles/25/11/17/next-apple-watch-refresh-may-not-happen-until-2028?utm_source=rss)
  - [Vancouver-based PowerLattice, which makes a power supply chiplet to cut power consumption by 50%+, raised a $25M Series A, taking its total funding to $31M &lpar;Pete Danko/Portland Business Journal&rpar;](http://www.techmeme.com/251117/p18#a251117p18)
  - [Google DeepMind releases WeatherNext 2, a weather model that it says offers faster, more accurate two-week forecasts and includes tools aimed at energy traders &lpar;Joe Wertz/Bloomberg&rpar;](http://www.techmeme.com/251117/p17#a251117p17)
- - [Sources: the EU Commission wants to decide if any of AWS, Azure, and Google Cloud should face new restrictions under the DMA, following several major outages &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251117/p16#a251117p16)
- - [A Collision with Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit](https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/)
- - [25 Best Tech Books to Gift &lpar;2025&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)<!-- TECH:END -->
+ - [Sources: the European Commission wants to decide if AWS, Azure, or Google Cloud should face new restrictions under the DMA, after several major cloud outages &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251117/p16#a251117p16)
+ - [A Collision with Space Debris Leaves 3 Chinese Astronauts Stranded in Orbit](https://www.wired.com/story/three-astronauts-are-stuck-on-chinas-space-station-without-a-safe-ride-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

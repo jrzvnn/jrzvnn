@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS declines to hear an appeal by Gesture Technology Partners over its right to challenge expired patents, leaving in place a win for Apple, Google, and LG &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251117/p35#a251117p35)
+ - [OpenAI is finally letting employees donate their equity to charity](https://www.theverge.com/ai-artificial-intelligence/822496/openai-employee-equity-donation-charity-rounds-share-valuation)
+ - [SCOTUS declines to hear an appeal by Gesture Technology Partners over the right to challenge expired patents, leaving in place a win for Apple, Google, and LG &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251117/p35#a251117p35)
  - [WIRED Roundup: Fandom in Politics, Zuckerberg’s Illegal School, and Nepal’s Discord Revolution](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-fandom-politics-zuckerberg-illegal-school-nepal-discord-revolution/)
  - [Internal memo: CISA will increase its hiring efforts in 2026 to rebuild after the Trump administration&#39;s cuts and prepare for a potential US conflict with China &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/251117/p34#a251117p34)
- - [The 4 Things You Need for a Tech Bubble](https://www.wired.com/story/uncanny-valley-podcast-4-things-you-need-for-a-tech-bubble/)
- - [Google updates its weather forecasts with a new AI model](https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext)<!-- TECH:END -->
+ - [The 4 Things You Need for a Tech Bubble](https://www.wired.com/story/uncanny-valley-podcast-4-things-you-need-for-a-tech-bubble/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

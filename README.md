@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
  - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 😝 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)
- - 💣 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
- - 😝 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 💣 [Being a teacher is not an easy job](http://9gag.com/gag/aByjpVO)
+ - 😝 [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
  - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---

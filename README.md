@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Tokyo-based Turing, which is developing an AI model for self-driving vehicles, raised a $99M Series A, sources say at a ~$388M valuation &lpar;Min-Jeong Lee/Bloomberg&rpar;](http://www.techmeme.com/251116/p10#a251116p10)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 17, #420](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-17-420/#ftag=CAD590a51e)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 17](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-17/#ftag=CAD590a51e)
- - [Elon Musk, Jeff Bezos, and Sundar Pichai are exploring future lunar and orbital AI data centers which could offer steady solar power with fewer regulations &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/251116/p9#a251116p9)
- - [Sky Sports killed off its female-focused Halo brand after just three days](https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok)
- - [BNPL use in the US has grown to 91.5M users, with 25% financing groceries, as default rates accelerate and most loans aren&#39;t reported, creating &quot;phantom debt&quot; &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/251116/p8#a251116p8)<!-- TECH:END -->
+ - [Elon Musk, Jeff Bezos, and Sundar Pichai have each discussed lunar and orbital AI data centers, which could offer steady solar power with fewer regulations &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/251116/p9#a251116p9)
+ - [Sky Sports killed off its female-focused Halo brand after just three days](https://www.theverge.com/news/821807/sky-sports-halo-women-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

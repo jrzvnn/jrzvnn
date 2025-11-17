@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Flerfers](http://9gag.com/gag/aKGnbvj)
  - 😝 [Well habibi](http://9gag.com/gag/aPAzO7V)
- - 💣 [We wuz Romans](http://9gag.com/gag/ae9yXLW)
- - 😝 [Word articulation level prestige](http://9gag.com/gag/aKGnb0N)
- - 👉 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)<!-- MEMES:END -->
+ - 😝 [We wuz Romans](http://9gag.com/gag/ae9yXLW)
+ - 💣 [Chuck Norris](http://9gag.com/gag/aD2qRjK)
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
+ - 👉 [Word articulation level prestige](http://9gag.com/gag/aKGnb0N)<!-- MEMES:END -->
 
 ---
 

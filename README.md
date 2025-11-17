@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
- - 💣 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
  - 😝 [They Call It Culture and Manners I Believe...](http://9gag.com/gag/aD2rBxB)
  - 👉 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)<!-- MEMES:END -->
 

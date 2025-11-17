@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
  - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Gordon meets the working class, David](http://9gag.com/gag/amoK3n6)
  - 💣 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 😝 [Identification of a Mercedes Benz factory worker in Argentina in 1959. He&#39;s just a regular guy, stop asking questions.](http://9gag.com/gag/a6Z4P8A)
+ - 😝 [They Call It Culture and Manners I Believe...](http://9gag.com/gag/aD2rBxB)
  - 👉 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)<!-- MEMES:END -->
 
 ---

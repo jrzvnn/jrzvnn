@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $140M, including a $100M Series B led by CapitalG &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251117/p23#a251117p23)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [Coding assistant startup Sourcegraph says ads in its free tier are generating $5M to $10M in annualized revenue; the ad-supported tier was launched in October &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251117/p22#a251117p22)
- - [&#39;Sneaky Sasquatch&#39; gets its own iMessage sticker pack](https://appleinsider.com/articles/25/11/17/sneaky-sasquatch-gets-its-own-imessage-sticker-pack?utm_source=rss)
- - [Sources: Amazon is seeking to raise about $12B through a bond sale, its first such deal in US dollars since 2022, to help fund acquisitions, capex, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251117/p21#a251117p21)<!-- TECH:END -->
+ - [Third round of iOS 26.2, macOS 26.2 developer betas available for testing](https://appleinsider.com/articles/25/11/17/third-round-of-ios-262-macos-262-developer-betas-available-for-testing?utm_source=rss)
+ - [What’s the Best Hair Straightener for You? It Depends &lpar;2025&rpar;](https://www.wired.com/gallery/best-hair-straighteners/)
+ - [The 42 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
+ - [Apple Sports brings match results to 20 more European countries](https://appleinsider.com/articles/25/11/17/apple-sports-brings-match-results-to-20-more-european-countries?utm_source=rss)
+ - [Celero, which is developing a chip to enable long-distance connections between AI data centers, raised $140M, including a $100M Series B led by CapitalG &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251117/p23#a251117p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

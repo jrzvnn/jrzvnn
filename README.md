@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Fast and furious on skates, who needs a car](http://9gag.com/gag/aO8AgLN)
- - 😝 [Momma bringing her kittens to her human.](http://9gag.com/gag/azxo6oz)
- - 💣 [Well habibi](http://9gag.com/gag/aPAzO7V)
- - 😝 [Flerfers](http://9gag.com/gag/aKGnbvj)
- - 👉 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)<!-- MEMES:END -->
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
+ - 👉 [Really?](http://9gag.com/gag/aVv4nzv)<!-- MEMES:END -->
 
 ---
 

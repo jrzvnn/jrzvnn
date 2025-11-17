@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dad&#39;s got some moves](http://9gag.com/gag/aGy6W20)
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
+ - 😝 [Fast and furious on skates, who needs a car](http://9gag.com/gag/aO8AgLN)
+ - 😝 [Momma bringing her kittens to her human.](http://9gag.com/gag/azxo6oz)
+ - 💣 [Well habibi](http://9gag.com/gag/aPAzO7V)
+ - 😝 [Flerfers](http://9gag.com/gag/aKGnbvj)
  - 👉 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)<!-- MEMES:END -->
 
 ---

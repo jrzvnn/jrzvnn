@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [xAI unveils Grok 4.1, saying it&#39;s 3x less likely to hallucinate compared to its previous models and Grok 4.1 Thinking holds the top spot on LMArena&#39;s Text Arena &lpar;xAI&rpar;](http://www.techmeme.com/251117/p33#a251117p33)
- - [Eric Gillespie, the founder of Govini whose AI software is used by the US military, was arrested last week for allegedly soliciting pre-teens for sexual contact &lpar;Lori Ann LaRocco/CNBC&rpar;](http://www.techmeme.com/251117/p32#a251117p32)
- - [Valar Atomics Says It&#39;s the First Nuclear Startup to Achieve Criticality](https://www.wired.com/story/valar-atomics-says-its-the-first-nuclear-startup-to-achieve-criticality/)
- - [NetChoice sues Virginia over a law that would require parental permission for minors to use social media for more than one hour per day, arguing it violates 1A &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251117/p31#a251117p31)
- - [Stop Switching Devices Manually: Your Guide to Multipoint Bluetooth Audio](https://www.cnet.com/tech/mobile/stop-switching-devices-manually-your-guide-to-multipoint-bluetooth-audio/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WIRED Roundup: Fandom in Politics, Zuckerberg’s Illegal School, and Nepal’s Discord Revolution](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-fandom-politics-zuckerberg-illegal-school-nepal-discord-revolution/)
+ - [Internal memo: CISA will increase its hiring efforts in 2026 to rebuild after the Trump administration&#39;s cuts and prepare for a potential US conflict with China &lpar;Eric Geller/Cybersecurity Dive&rpar;](http://www.techmeme.com/251117/p34#a251117p34)
+ - [The 4 Things You Need for a Tech Bubble](https://www.wired.com/story/uncanny-valley-podcast-4-things-you-need-for-a-tech-bubble/)
+ - [Google updates its weather forecasts with a new AI model](https://www.theverge.com/news/822489/weather-forecast-ai-model-google-weathernext)
+ - [The best Garmin watches for training and everyday life](https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

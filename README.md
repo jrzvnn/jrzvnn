@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Selena Quintanilla Is Celebrated in New Music Documentary: Here&#39;s Where to Watch](https://www.cnet.com/culture/entertainment/selena-quintanilla-is-celebrated-in-new-music-documentary-heres-where-to-watch/#ftag=CAD590a51e)
  - [Inside Homebrew: How to get the best open source software on Mac, for free](https://appleinsider.com/inside/macos/tips/inside-homebrew-how-to-get-the-best-open-source-software-on-mac-for-free?utm_source=rss)
  - [9 Best Robot Vacuums &lpar;2025&rpar;: Tested and Reviewed in Real Homes](https://www.wired.com/gallery/best-robot-vacuums/)
- - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)
- - [Voize, an ambient AI voice company targeting skilled nursing facilities, raised a $50M Series A led by Balderton Capital and plans a US launch in Q1 2026 &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251117/p12#a251117p12)
- - [EcoFlow Delta 3 Ultra Plus review: Premium, but solid power](https://appleinsider.com/articles/25/11/16/ecoflow-delta-3-ultra-plus-review-premium-but-solid-power?utm_source=rss)<!-- TECH:END -->
+ - [My Favorite iPhone 17 Features That You&#39;re Not Using](https://www.cnet.com/tech/mobile/my-favorite-iphone-17-features-that-youre-not-using/#ftag=CAD590a51e)
+ - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

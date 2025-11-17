@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Freedom House&#39;s Freedom on the Net 2025 report: for the 15th straight year, global internet freedom is in decline; of the 72 countries surveyed, Kenya fell most &lpar;Tech Policy Press&rpar;](http://www.techmeme.com/251117/p7#a251117p7)
  - [Investigation: $28B+ in crypto tied to illicit activity flowed into crypto exchanges like Binance over the last two years, as President Trump embraces crypto &lpar;New York Times&rpar;](http://www.techmeme.com/251117/p6#a251117p6)
  - [OpenAI&#39;s Fidji Simo Plans to Make ChatGPT Way More Useful—and Have You Pay For It](https://www.wired.com/story/fidji-simo-is-openais-other-ceo-and-she-swears-shell-make-chatgpt-profitable/)
  - [12 Best Tech Gifts That They&#39;d Actually Want &lpar;2025&rpar;](https://www.wired.com/story/best-tech-gifts/)
- - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 17 #624](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-17-624/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jeff Bezos will be co-CEO of AI startup Project Prometheus](https://www.theverge.com/news/821943/jeff-bezos-project-prometheus-co-ceo-funding-ai-startup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

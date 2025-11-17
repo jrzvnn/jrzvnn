@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [How Jeffrey Epstein used SEO to bury news about his crimes](https://www.theverge.com/report/822311/jeffrey-epstein-emails-google-search-seo-pr)
  - [Runlayer, which aims to make it easy for companies to securely scale MCP servers, emerges from stealth with an $11M seed from Khosla Ventures and Felicis &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251117/p27#a251117p27)
  - [Pro-AI super PAC Leading the Future targets NY State Assemblymember Alex Bores, co-sponsor of the RAISE Act, a bill imposing safety and disclosure requirements &lpar;CNBC&rpar;](http://www.techmeme.com/251117/p26#a251117p26)
- - [Your online reservations are telling restaurants all about you](https://www.theverge.com/report/822110/opentable-ai-assisted-data-restaurants)<!-- TECH:END -->
+ - [Germany vs. Slovakia: Livestream World Cup 2026 Qualifier Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/germany-vs-slovakia-livestream-world-cup-2026-qualifier-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

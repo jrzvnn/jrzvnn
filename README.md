@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very lovely Taxi Driver](http://9gag.com/gag/an786LL)
  - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 💣 [Just make them bigger](http://9gag.com/gag/a4PmDLp)
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
- - 👉 [9gaggers... hear me out...](http://9gag.com/gag/adBrEed)<!-- MEMES:END -->
+ - 😝 [Next level of forklift certification.](http://9gag.com/gag/abAKPGO)
+ - 💣 [Cute skunks](http://9gag.com/gag/aAyqWQZ)
+ - 😝 [Fast and furious on skates, who needs a car](http://9gag.com/gag/aO8AgLN)
+ - 👉 [Funny how things is](http://9gag.com/gag/axyQ5XW)<!-- MEMES:END -->
 
 ---
 

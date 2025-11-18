@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)
  - [Maxima, whose AI platform automates accounting tasks like reconciliation and journal entry, raised $41M in seed and Series A rounds at a $143M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251118/p46#a251118p46)
  - [Windows 11 Copilot AI hands-on: despite Microsoft advertising the feature as able to &quot;understand you&quot;, it delivers inconsistent and often incorrect responses &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251118/p45#a251118p45)
  - [The Best 85+ Black Friday Deals You Can Shop on AirPods, TVs and Laptops Right Now](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
- - [Best Noise-Canceling Headphones I&#39;ve Tested for 2025](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

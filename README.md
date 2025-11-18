@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu reports Q3 revenue down 7% YoY to ~$4.4B, its biggest quarterly revenue decline ever, and a ~$1.5B net loss, as the search giant battles falling usership &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/251118/p6#a251118p6)
- - [The UK CMA opens probes into StubHub, Viagogo, and others over allegedly deceptive online pricing practices; the UK plans to ban above face value ticket resales &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251118/p5#a251118p5)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 18, #421](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-18-421/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 18, #891](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-18-891/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18 #625](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-625/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi reports Q3 revenue up 22.3% YoY to ~$15.9B, below ~$16.4B est., and net profit up 80.9% YoY to ~$1.59B, above ~$1.5B est., driven by AI and EV sales &lpar;Reuters&rpar;](http://www.techmeme.com/251118/p9#a251118p9)
+ - [The EU Commission opens an investigation into AWS and Azure to determine whether they should fall under the DMA and says they &quot;occupy very strong positions&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251118/p8#a251118p8)
+ - [Sources: Larry Ellison is overhauling a £10B science initiative in Oxford after clashing with President John Bell, who left in September, and COO Lisa Flashner &lpar;Financial Times&rpar;](http://www.techmeme.com/251118/p7#a251118p7)
+ - [Social Security Data Is Openly Being Shared With DHS to Target Immigrants](https://www.wired.com/story/social-security-data-shared-with-dhs-target-immigrants/)
+ - [Baidu reports Q3 revenue down 7% YoY to ~$4.4B, its biggest quarterly revenue decline ever, and a ~$1.5B net loss, as the search giant battles falling usership &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/251118/p6#a251118p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

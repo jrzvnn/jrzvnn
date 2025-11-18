@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 💣 [Is it true?](http://9gag.com/gag/aE0yexp)
- - 😝 [Just a normal day unloading a forklift](http://9gag.com/gag/amoOqM2)
- - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
+ - 😝 [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
+ - 💣 [They Call It Culture and Manners I Believe...](http://9gag.com/gag/aD2rBxB)
+ - 😝 [U.S. has Trump university!](http://9gag.com/gag/azxo63b)
+ - 👉 [Chuck Norris](http://9gag.com/gag/aD2qRjK)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Peec AI, which helps brands manage visibility in AI-powered search results, raised a $21M Series A led by Singular at a $100M+ valuation &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251118/p1#a251118p1)
  - [iOS 26: How to view 2D photos as 3D Spatial Scenes on iPhone](https://appleinsider.com/inside/ipados-26/tips/ios-26-how-to-view-2d-photos-as-3d-spatial-scenes-on-iphone?utm_source=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-18/#ftag=CAD590a51e)
  - [Sources: Databricks is in talks to raise money at a valuation of more than $130B, up about 30% from September when it raised a $1B Series K at a $100B valuation &lpar;The Information&rpar;](http://www.techmeme.com/251117/p39#a251117p39)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18 #625](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-625/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 18, #421](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-18-421/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18 #625](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-625/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

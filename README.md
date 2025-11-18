@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sundar Pichai says there is some &quot;irrationality&quot; in the AI boom, the industry can &quot;overshoot&quot; in investment cycles, and &quot;no company is going to be immune&quot; &lpar;Faisal Islam/BBC&rpar;](http://www.techmeme.com/251118/p11#a251118p11)
- - [Mastodon founder and CEO Eugen Rochko is stepping down from the decentralized social network as part of its shift to a nonprofit structure overseen by a board &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251118/p10#a251118p10)
- - [‘Odd Lots’ Cohost Joe Weisenthal Has Predictions About How the AI Bubble Will Burst](https://www.wired.com/story/the-big-interview-podcast-joe-weisenthal/)
- - [Xiaomi reports Q3 revenue up 22.3% YoY to ~$15.9B, below ~$16.4B est., and net profit up 80.9% YoY to ~$1.59B, above ~$1.5B est., driven by AI and EV sales &lpar;Reuters&rpar;](http://www.techmeme.com/251118/p9#a251118p9)
- - [The EU Commission opens an investigation into AWS and Azure to determine whether they should fall under the DMA and says they &quot;occupy very strong positions&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251118/p8#a251118p8)<!-- TECH:END -->
+ - [Lambda, which rents access to AI chips, raised a $1.5B Series E led by TWG Global, after raising $500M in April 2024, taking its total funding to $2.3B &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p15#a251118p15)
+ - [Filing: the US FTC ends its review of SoftBank&#39;s $6.5B acquisition of chip designer Ampere, granting an early termination; SoftBank announced the deal in March &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/251118/p14#a251118p14)
+ - [The Best Home Cocktail Machines—and Whether You Need One](https://www.wired.com/story/cocktail-machines-bartesian-versus-barsys/)
+ - [Cloudflare says it is &quot;continuing to investigate&quot; a Global Network issue, starting 11:48 UTC; X, Letterboxd, and more show a Cloudflare &quot;internal server error&quot; &lpar;Andrew Griffin/The Independent&rpar;](http://www.techmeme.com/251118/p13#a251118p13)
+ - [4 Clever Tricks That Make It Worth Switching to Proton Mail](https://www.wired.com/story/4-tips-that-make-it-worth-switching-to-proton-mail/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

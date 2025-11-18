@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 39 Best Shows on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
  - [Q&amp;A with Ring founder Jamie Siminoff on returning to Amazon post-burnout, his goal to &quot;zero out crime&quot;, privacy and the &quot;surveillance panopticon&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251118/p3#a251118p3)
  - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
  - [$100 Off Shark Promo Code | November 2025](https://www.wired.com/story/shark-promo-code/)
- - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

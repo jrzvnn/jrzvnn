@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New in iOS 26.2 beta 3: AirDrop codes, EU Siri changes, visual tweaks](https://appleinsider.com/articles/25/11/17/new-in-ios-262-beta-3-airdrop-codes-eu-siri-changes-visual-tweaks?utm_source=rss)
- - [iOS 26.2 may let EU users shift from Siri to other voice assistants [u]](https://appleinsider.com/articles/25/11/17/ios-262-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_source=rss)
- - [iOS 26.2 Side button virtual assistant settings were actually meant for Japan](https://appleinsider.com/articles/25/11/17/ios-262-side-button-virtual-assistant-settings-were-actually-meant-for-japan?utm_source=rss)
- - [Apple wins camera patent dispute, as Supreme Court refuses to hear appeal](https://appleinsider.com/articles/25/11/17/apple-wins-camera-patent-dispute-as-supreme-court-refuses-to-hear-appeal?utm_source=rss)
- - [Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot)<!-- TECH:END -->
+ - [Industrial designer &amp; iPhone Air video narrator departs Apple for AI startup](https://appleinsider.com/articles/25/11/18/industrial-designer-iphone-air-video-narrator-departs-apple-for-ai-startup?utm_source=rss)
+ - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks with potential investors to raise about $5B and is aiming for a valuation of at least $50B &lpar;The Information&rpar;](http://www.techmeme.com/251117/p38#a251117p38)
+ - [Artificial Analysis announces AA-Omniscience, a benchmark for knowledge and hallucination across 40+ topics; Claude 4.1 Opus takes first place in its key metric &lpar;@artificialanlys&rpar;](http://www.techmeme.com/251117/p37#a251117p37)
+ - [Apple Car Key could soon make its way to select Cadillac vehicles](https://appleinsider.com/articles/25/11/18/apple-car-key-could-soon-make-its-way-to-select-cadillac-vehicles?utm_source=rss)
+ - [New in iOS 26.2 beta 3: AirDrop codes, EU Siri changes, visual tweaks](https://appleinsider.com/articles/25/11/17/new-in-ios-262-beta-3-airdrop-codes-eu-siri-changes-visual-tweaks?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

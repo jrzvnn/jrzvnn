@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sundar Pichai says there is some &quot;irrationality&quot; in the AI boom, the industry can &quot;overshoot&quot; in investment cycles, and &quot;no company is going to be immune&quot; &lpar;Faisal Islam/BBC&rpar;](http://www.techmeme.com/251118/p11#a251118p11)
  - [Mastodon founder and CEO Eugen Rochko is stepping down from the decentralized social network as part of its shift to a nonprofit structure overseen by a board &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251118/p10#a251118p10)
  - [‘Odd Lots’ Cohost Joe Weisenthal Has Predictions About How the AI Bubble Will Burst](https://www.wired.com/story/the-big-interview-podcast-joe-weisenthal/)
  - [Xiaomi reports Q3 revenue up 22.3% YoY to ~$15.9B, below ~$16.4B est., and net profit up 80.9% YoY to ~$1.59B, above ~$1.5B est., driven by AI and EV sales &lpar;Reuters&rpar;](http://www.techmeme.com/251118/p9#a251118p9)
- - [The EU Commission opens an investigation into AWS and Azure to determine whether they should fall under the DMA and says they &quot;occupy very strong positions&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251118/p8#a251118p8)
- - [Sources: Larry Ellison is overhauling a £10B science initiative in Oxford after clashing with President John Bell, who left in September, and COO Lisa Flashner &lpar;Financial Times&rpar;](http://www.techmeme.com/251118/p7#a251118p7)<!-- TECH:END -->
+ - [The EU Commission opens an investigation into AWS and Azure to determine whether they should fall under the DMA and says they &quot;occupy very strong positions&quot; &lpar;Samuel Stolton/Bloomberg&rpar;](http://www.techmeme.com/251118/p8#a251118p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

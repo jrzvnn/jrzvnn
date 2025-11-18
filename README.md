@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New in iOS 26.2 beta 3: AirDrop codes, EU Siri changes, visual tweaks](https://appleinsider.com/articles/25/11/17/new-in-ios-262-beta-3-airdrop-codes-eu-siri-changes-visual-tweaks?utm_source=rss)
+ - [iOS 26.2 may let EU users shift from Siri to other voice assistants [u]](https://appleinsider.com/articles/25/11/17/ios-262-may-let-eu-users-shift-from-siri-to-other-voice-assistants?utm_source=rss)
  - [iOS 26.2 Side button virtual assistant settings were actually meant for Japan](https://appleinsider.com/articles/25/11/17/ios-262-side-button-virtual-assistant-settings-were-actually-meant-for-japan?utm_source=rss)
  - [Apple wins camera patent dispute, as Supreme Court refuses to hear appeal](https://appleinsider.com/articles/25/11/17/apple-wins-camera-patent-dispute-as-supreme-court-refuses-to-hear-appeal?utm_source=rss)
- - [Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot)
- - [Arm and Nvidia announce that Arm-based Neoverse CPUs will be able to integrate with AI accelerators using Nvidia&#39;s NVLink Fusion tech &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251117/p36#a251117p36)
- - [The best foldable phone you can buy](https://www.theverge.com/tech/635839/best-foldable-phone)<!-- TECH:END -->
+ - [Google is fighting the defamation battle Meta caved on](https://www.theverge.com/news/822636/google-robby-starbuck-defamation-lawsuit-ai-chatbot)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

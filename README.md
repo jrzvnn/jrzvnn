@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 💣 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 💣 [Is it true?](http://9gag.com/gag/aE0yexp)
  - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
  - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 

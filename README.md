@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Accidental discharge](http://9gag.com/gag/aGy6P67)
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
  - 💣 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
  - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)

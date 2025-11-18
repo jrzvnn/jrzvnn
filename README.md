@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The UK CMA opens probes into StubHub, Viagogo, and others over allegedly deceptive online pricing practices; the UK plans to ban above face value ticket resales &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251118/p5#a251118p5)
  - [GlobalFoundries acquires Advanced Micro Foundry, a Singapore-based silicon photonics foundry, for an undisclosed sum, and plans a new R&amp;D center in Singapore &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251118/p4#a251118p4)
  - [Le Wand Lick 3-in-1 Review: Three Times the Pleasure](https://www.wired.com/review/le-wand-lick-3-in-1/)
  - [Modern-Day Snake Oil: How Wellness Influencers Gained the Power to Spread Health Misinformation](https://www.cnet.com/health/features/modern-day-snake-oil-how-wellness-influencers-gained-power-spread-health-misinformation/#ftag=CAD590a51e)
- - [The 39 Best Shows on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)
- - [Q&amp;A with Ring founder Jamie Siminoff on returning to Amazon post-burnout, his goal to &quot;zero out crime&quot;, privacy and the &quot;surveillance panopticon&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251118/p3#a251118p3)<!-- TECH:END -->
+ - [The 39 Best Shows on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lambda, which rents access to AI chips, raised a $1.5B Series E led by TWG Global, after raising $500M in April 2024, taking its total funding to $2.3B &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p15#a251118p15)
- - [Filing: the US FTC ends its review of SoftBank&#39;s $6.5B acquisition of chip designer Ampere, granting an early termination; SoftBank announced the deal in March &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/251118/p14#a251118p14)
- - [The Best Home Cocktail Machines—and Whether You Need One](https://www.wired.com/story/cocktail-machines-bartesian-versus-barsys/)
- - [Cloudflare says it is &quot;continuing to investigate&quot; a Global Network issue, starting 11:48 UTC; X, Letterboxd, and more show a Cloudflare &quot;internal server error&quot; &lpar;Andrew Griffin/The Independent&rpar;](http://www.techmeme.com/251118/p13#a251118p13)
- - [4 Clever Tricks That Make It Worth Switching to Proton Mail](https://www.wired.com/story/4-tips-that-make-it-worth-switching-to-proton-mail/)<!-- TECH:END -->
+ - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Steam Machine and Steam Frame: your questions answered](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)
+ - [Talking to Windows&amp;#8217; Copilot AI makes a computer feel incompetent](https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions)
+ - [Zigbee&amp;#8217;s next big update lets you add smart home devices without a hub](https://www.theverge.com/news/822450/zigbee-4-0-suzi-smart-home-wireless-mesh-network-ble)
+ - [Klarna reports Q3 revenue up 26% YoY to $903M, above $882M est., a $95M net loss, and expects $1B+ revenue in Q4, in its first post-IPO earnings release &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251118/p18#a251118p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

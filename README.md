@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based Peec AI, which helps brands manage visibility in AI-powered search results, raised a $21M Series A led by Singular at a $100M+ valuation &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251118/p1#a251118p1)
- - [iOS 26: How to view 2D photos as 3D Spatial Scenes on iPhone](https://appleinsider.com/inside/ipados-26/tips/ios-26-how-to-view-2d-photos-as-3d-spatial-scenes-on-iphone?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 18](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-18/#ftag=CAD590a51e)
- - [Sources: Databricks is in talks to raise money at a valuation of more than $130B, up about 30% from September when it raised a $1B Series K at a $100B valuation &lpar;The Information&rpar;](http://www.techmeme.com/251117/p39#a251117p39)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18 #625](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-625/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [$100 Off Shark Promo Code | November 2025](https://www.wired.com/story/shark-promo-code/)
+ - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
+ - [CoinGecko: total market value of 18K+ tracked coins fell 25% since October 6, wiping $1.2T; Bitcoin fell 28% to $89.5K, its lowest since April and flat for 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/251118/p2#a251118p2)
+ - [Newegg Promo Code: 10% Off in November 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

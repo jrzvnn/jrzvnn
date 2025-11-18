@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 😝 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
- - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 😝 [Further proof of Nurgle superiority](http://9gag.com/gag/aQzDP4q)
- - 👉 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)<!-- MEMES:END -->
+ - 😝 [Cloudflare down](https://www.reddit.com/r/memes/comments/1p0dab8/cloudflare_down/)
+ - 😝 [“Better Call Saul” of Real Estate](https://www.reddit.com/r/funny/comments/1p0d7l1/better_call_saul_of_real_estate/)
+ - 💣 [True facts](https://www.reddit.com/r/memes/comments/1p0cm6a/true_facts/)
+ - 😝 [The Internet is kinda dead right now](https://www.reddit.com/r/memes/comments/1p0clv7/the_internet_is_kinda_dead_right_now/)
+ - 👉 [What it feels like when the Cloudflare Status goes from green to red](https://www.reddit.com/r/memes/comments/1p0bxs6/what_it_feels_like_when_the_cloudflare_status/)<!-- MEMES:END -->
 
 ---
 

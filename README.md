@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Pocket hands on: Polarizing, fashion-forward iPhone accessory](https://appleinsider.com/articles/25/11/17/iphone-pocket-hands-on-polarizing-fashion-forward-iphone-accessory?utm_source=rss)
- - [Maxima, whose AI platform automates accounting tasks like reconciliation and journal entry, raised $41M in seed and Series A rounds at a $143M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251118/p46#a251118p46)
- - [Windows 11 Copilot AI hands-on: despite Microsoft advertising the feature as able to &quot;understand you&quot;, it delivers inconsistent and often incorrect responses &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251118/p45#a251118p45)
- - [The Best 85+ Black Friday Deals You Can Shop on AirPods, TVs and Laptops Right Now](https://www.cnet.com/deals/black-friday-cyber-monday/#ftag=CAD590a51e)
- - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)<!-- TECH:END -->
+ - [Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251118/p49#a251118p49)
+ - [EPA fines Apple $261,000 to settle hazardous waste complaint](https://appleinsider.com/articles/25/11/18/epa-files-apple-261000-to-settle-hazardous-waste-complaint?utm_source=rss)
+ - [Limited supply: M4 MacBook Pro dips to $1,299 &lpar;save $300&rpar;](https://appleinsider.com/articles/25/11/18/limited-supply-m4-macbook-pro-dips-to-1299-save-300?utm_source=rss)
+ - [One in four smartphones sold in China is an iPhone](https://appleinsider.com/articles/25/11/18/one-in-four-smartphones-sold-in-china-is-an-iphone?utm_source=rss)
+ - [Gemini 3 Pro is priced at $2-$4 per 1M input tokens and $12-$18 per 1M output tokens, cheaper than Claude Sonnet 4.5 but more expensive than GPT-5.1 &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251118/p48#a251118p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

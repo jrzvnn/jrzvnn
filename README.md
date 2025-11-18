@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers](https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/)
+ - [Zoox will let public riders use its robotaxis in San Francisco](https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides)
+ - [Wyze’s budget-friendly smart lock gets a Wi-Fi upgrade without a price increase](https://www.theverge.com/news/822276/wyze-lock-bolt-v2-wifi-bluetooth-smart-door-lock)
  - [Sony is taking $100 off its PS5 consoles for Black Friday](https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals)
- - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
- - [A massive Cloudflare outage is affecting X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)
- - [OpenAI and Intuit sign a multiyear deal, set to generate $100M+ in OpenAI revenue, in which Intuit will deepen its use of OpenAI models and launch ChatGPT apps &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p19#a251118p19)
- - [Is an iPhone 17 Upgrade Worth It? Here&#39;s How It Compares to Apple&#39;s Older Models](https://www.cnet.com/tech/mobile/is-an-iphone-17-upgrade-worth-it-heres-how-it-compares-to-apples-older-models/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

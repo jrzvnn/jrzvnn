@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
  - [A massive Cloudflare outage is affecting X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)
  - [OpenAI and Intuit sign a multiyear deal, set to generate $100M+ in OpenAI revenue, in which Intuit will deepen its use of OpenAI models and launch ChatGPT apps &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p19#a251118p19)
- - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
+ - [Is an iPhone 17 Upgrade Worth It? Here&#39;s How It Compares to Apple&#39;s Older Models](https://www.cnet.com/tech/mobile/is-an-iphone-17-upgrade-worth-it-heres-how-it-compares-to-apples-older-models/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

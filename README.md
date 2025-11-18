@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It&amp;#8217;s not your job to fix the internet](https://www.theverge.com/podcast/822822/enshittification-cory-doctorow-interview-vergecast)
+ - [Zoox Opens Up Self-Driving Rides for the Public in San Francisco](https://www.cnet.com/roadshow/news/zoox-opens-up-self-driving-rides-for-the-public-in-san-francisco/#ftag=CAD590a51e)
+ - [&#39;High Potential&#39; Season 2 Hiatus: How to Watch More of the Drama Series](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus-how-to-watch-more-of-the-drama-series/#ftag=CAD590a51e)
  - [A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers](https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/)
- - [Zoox will let public riders use its robotaxis in San Francisco](https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides)
- - [Wyze’s budget-friendly smart lock gets a Wi-Fi upgrade without a price increase](https://www.theverge.com/news/822276/wyze-lock-bolt-v2-wifi-bluetooth-smart-door-lock)
- - [Sony is taking $100 off its PS5 consoles for Black Friday](https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals)
- - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [Zoox will let public riders use its robotaxis in San Francisco](https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London thieves snatching iPhones, but &#39;don&#39;t want no Samsung&#39;](https://appleinsider.com/articles/25/11/18/london-thieves-snatching-iphones-but-dont-want-no-samsung?utm_source=rss)
- - [Quora&#39;s Poe launches group chats, letting users around the world engage in group chats with up to 200 people and collaborate across 200+ AI models &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251118/p43#a251118p43)
- - [Apono, which helps enterprises manage cloud permissions by eliminating standing privileges, raised a $34M Series B, bringing its total funding to $54M+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251118/p42#a251118p42)
- - [Apple&amp;#8217;s custom Wi-Fi chip gives the iPhone 17 a notable boost, according to speed tests](https://www.theverge.com/news/823198/ookla-speedtest-iphone-17-apple-custom-n1-networking-chip)
- - [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)<!-- TECH:END -->
+ - [The Best Delivery Thanksgiving Meal Kits &lpar;2025&rpar;](https://www.wired.com/story/thanksgiving-meal-kits-2025-update/)
+ - [Apple&#39;s N1 chipset in the iPhone 17 lineup delivers up to 40% higher median Wi-Fi download and upload speeds globally vs. the Broadcom-based iPhone 16 lineup &lpar;Luke Kehoe/Ookla&rpar;](http://www.techmeme.com/251118/p44#a251118p44)
+ - [Apple Watch Series 11 drops to all-time low $349 with early Black Friday deals](https://appleinsider.com/articles/25/11/18/apple-watch-series-11-drops-to-all-time-low-349-with-early-black-friday-deals?utm_source=rss)
+ - [This Quest 3S Bundle Is $50 Off and Includes a Game and Gift Card](https://www.wired.com/story/meta-quest-3s-walking-dead-deal-1125/)
+ - [London thieves snatching iPhones, but &#39;don&#39;t want no Samsung&#39;](https://appleinsider.com/articles/25/11/18/london-thieves-snatching-iphones-but-dont-want-no-samsung?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

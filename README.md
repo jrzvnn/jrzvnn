@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Baidu reports Q3 revenue down 7% YoY to ~$4.4B, its biggest quarterly revenue decline ever, and a ~$1.5B net loss, as the search giant battles falling usership &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/251118/p6#a251118p6)
  - [The UK CMA opens probes into StubHub, Viagogo, and others over allegedly deceptive online pricing practices; the UK plans to ban above face value ticket resales &lpar;Martin Arnold/Financial Times&rpar;](http://www.techmeme.com/251118/p5#a251118p5)
  - [GlobalFoundries acquires Advanced Micro Foundry, a Singapore-based silicon photonics foundry, for an undisclosed sum, and plans a new R&amp;D center in Singapore &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251118/p4#a251118p4)
  - [Le Wand Lick 3-in-1 Review: Three Times the Pleasure](https://www.wired.com/review/le-wand-lick-3-in-1/)
- - [Modern-Day Snake Oil: How Wellness Influencers Gained the Power to Spread Health Misinformation](https://www.cnet.com/health/features/modern-day-snake-oil-how-wellness-influencers-gained-power-spread-health-misinformation/#ftag=CAD590a51e)
- - [The 39 Best Shows on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-shows/)<!-- TECH:END -->
+ - [Modern-Day Snake Oil: How Wellness Influencers Gained the Power to Spread Health Misinformation](https://www.cnet.com/health/features/modern-day-snake-oil-how-wellness-influencers-gained-power-spread-health-misinformation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

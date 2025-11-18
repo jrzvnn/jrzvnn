@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The joys of camping](http://9gag.com/gag/ae9qj5j)
  - 😝 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
- - 😝 [Cloudflare](http://9gag.com/gag/aryDvO7)
  - 💣 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)
- - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
- - 👉 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)<!-- MEMES:END -->
+ - 😝 [You can only see it once](http://9gag.com/gag/awy90m1)
+ - 👉 [The Look](http://9gag.com/gag/aD2qAw9)<!-- MEMES:END -->
 
 ---
 

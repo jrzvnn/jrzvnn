@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
+ - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
  - 👉 [Really?](http://9gag.com/gag/aVv4nzv)<!-- MEMES:END -->
 
 ---

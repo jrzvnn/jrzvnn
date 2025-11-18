@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
- - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [Hope](http://9gag.com/gag/aqyV4Q7)
  - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---

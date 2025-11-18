@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Edtech startup Physics Wallah closed up 44% in its Indian IPO, giving it a ~$5B market cap; it was last valued at $2.8B in 2024 when it raised a $210M Series B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251118/p26#a251118p26)
- - [Costco membership deal: Get up to a $60 Shop card for Black Friday](https://appleinsider.com/articles/25/11/18/costco-membership-deal-get-up-to-a-60-shop-card-for-black-friday?utm_source=rss)
- - [Best Early Black Friday Mattress Deals 2025](https://www.wired.com/story/best-early-black-friday-mattress-deals-2025/)
- - [Zigbee 4.0 launches with Suzi wireless standard, on the HomeKit Insider Podcast](https://appleinsider.com/articles/25/11/18/zigbee-40-launches-with-suzi-wireless-standard-on-the-homekit-insider-podcast?utm_source=rss)
- - [Microsoft&amp;#8217;s new Anthropic partnership brings Claude AI models to Azure](https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia)<!-- TECH:END -->
+ - [Google announces Gemini 3, its &quot;most intelligent&quot; and &quot;factually accurate&quot; model yet, with improvements across coding, reasoning, and less &quot;flattery&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251118/p27#a251118p27)
+ - [Microsoft is turning Windows into an &amp;#8216;agentic OS,&amp;#8217; starting with the taskbar](https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration)
+ - [Microsoft’s Agent 365 Tries to Be the AI Bot Boss](https://www.wired.com/story/microsoft-ai-agent-365/)
+ - [Gemini 3 Is Here—and Google Says It Will Make Search Smarter](https://www.wired.com/story/google-launches-gemini-3-ai-bubble-search/)
+ - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

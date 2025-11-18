@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)
- - [Steam Machine and Steam Frame: your questions answered](https://www.theverge.com/games/820293/steam-machine-frame-hardware-faq)
- - [Talking to Windows&amp;#8217; Copilot AI makes a computer feel incompetent](https://www.theverge.com/report/822443/microsoft-windows-copilot-vision-ai-assistant-pc-voice-controls-impressions)
- - [Zigbee&amp;#8217;s next big update lets you add smart home devices without a hub](https://www.theverge.com/news/822450/zigbee-4-0-suzi-smart-home-wireless-mesh-network-ble)
- - [Klarna reports Q3 revenue up 26% YoY to $903M, above $882M est., a $95M net loss, and expects $1B+ revenue in Q4, in its first post-IPO earnings release &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251118/p18#a251118p18)<!-- TECH:END -->
+ - [Sony is taking $100 off its PS5 consoles for Black Friday](https://www.theverge.com/news/822851/sony-ps5-playstation-black-friday-deals)
+ - [15 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them](https://www.wired.com/gallery/best-office-chairs/)
+ - [A massive Cloudflare outage is affecting X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)
+ - [OpenAI and Intuit sign a multiyear deal, set to generate $100M+ in OpenAI revenue, in which Intuit will deepen its use of OpenAI models and launch ChatGPT apps &lpar;Steven Rosenbush/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p19#a251118p19)
+ - [14 Best Fitness Trackers &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-fitness-tracker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

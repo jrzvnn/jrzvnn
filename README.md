@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)
- - 😝 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
- - 💣 [The Look](http://9gag.com/gag/aD2qAw9)
- - 😝 [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
- - 👉 [Hope](http://9gag.com/gag/aqyV4Q7)<!-- MEMES:END -->
+ - 😝 [Why do women live longer](http://9gag.com/gag/agmprnq)
+ - 😝 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
+ - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---
 

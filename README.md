@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft launches Agent 365, a new framework to let businesses deploy and manage AI agents like human employees, with dashboards showing telemetry and alerts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251118/p35#a251118p35)
- - [The Apple Watch Series 11 has plunged to a record low price](https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale)
- - [Meta Chief Revenue Officer John Hegeman is leaving, after 17 years at Meta; Clara Shih, who joined in November 2024 to lead its Business AI unit, is exiting &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251118/p34#a251118p34)
- - [Microsoft integrates more AI features into Windows, including new Copilot skills, AI agents in the taskbar, writing assistance, and troubleshooting agents &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/251118/p33#a251118p33)
- - [Google details a new implementation of generative UI that lets Gemini 3 Pro build interactive interfaces for any prompt, launching in the Gemini app and AI Mode &lpar;Google Research&rpar;](http://www.techmeme.com/251118/p32#a251118p32)<!-- TECH:END -->
+ - [Source: Microsoft&#39;s and Nvidia&#39;s investments in Anthropic push its valuation to the range of $350B, up from its $183B valuation after raising $13B in September &lpar;CNBC&rpar;](http://www.techmeme.com/251118/p37#a251118p37)
+ - [How Pixar avoided becoming &#39;Sillywood&#39; when Steve Jobs took over](https://appleinsider.com/articles/25/11/18/how-pixar-avoided-becoming-sillywood-when-steve-jobs-took-over?utm_source=rss)
+ - [Sphere, which raised a $4.3M seed as an edtech marketplace, pivots and raised a $21M Series A led by a16z to develop an AI tax compliance software service &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251118/p36#a251118p36)
+ - [iPhone 17 N1 delivers the best Wi-Fi speeds of any smartphone in North America](https://appleinsider.com/articles/25/11/18/iphone-17-n1-delivers-the-best-wi-fi-speeds-of-any-smartphone-in-north-america?utm_source=rss)
+ - [Microsoft launches Agent 365, a new framework to let businesses deploy and manage AI agents like human employees, with dashboards showing telemetry and alerts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251118/p35#a251118p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

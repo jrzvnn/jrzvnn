@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Snapchat launches Topic Chats, which enables public conversations on subjects like F1, and plans to use AI and other safety tech to moderate the chats &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251118/p39#a251118p39)
  - [How to use digital IDs in Apple Wallet &amp; where they are supported](https://appleinsider.com/articles/25/11/18/how-to-use-digital-ids-in-apple-wallet-where-they-are-supported?utm_source=rss)
  - [Gemini 3 demonstrates strong planning, coding, and judgment skills, and shows how AI models moved past hallucinations to subtle, and often human-like, errors &lpar;Ethan Mollick/One Useful Thing&rpar;](http://www.techmeme.com/251118/p38#a251118p38)
  - [Source: Microsoft&#39;s and Nvidia&#39;s investments in Anthropic push its valuation to the range of $350B, up from its $183B valuation after raising $13B in September &lpar;CNBC&rpar;](http://www.techmeme.com/251118/p37#a251118p37)
- - [How Pixar avoided becoming &#39;Sillywood&#39; when Steve Jobs took over](https://appleinsider.com/articles/25/11/18/how-pixar-avoided-becoming-sillywood-when-steve-jobs-took-over?utm_source=rss)
- - [Sphere, which raised a $4.3M seed as an edtech marketplace, pivots and raised a $21M Series A led by a16z to develop an AI tax compliance software service &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251118/p36#a251118p36)<!-- TECH:END -->
+ - [How Pixar avoided becoming &#39;Sillywood&#39; when Steve Jobs took over](https://appleinsider.com/articles/25/11/18/how-pixar-avoided-becoming-sillywood-when-steve-jobs-took-over?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

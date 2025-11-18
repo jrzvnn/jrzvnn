@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [Hope](http://9gag.com/gag/aqyV4Q7)
+ - 💣 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 😝 [Just a normal day unloading a forklift](http://9gag.com/gag/amoOqM2)
  - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---

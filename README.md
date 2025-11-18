@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google details a new implementation of generative UI that lets Gemini 3 Pro build interactive interfaces for any prompt, launching in the Gemini app and AI Mode &lpar;Google Research&rpar;](http://www.techmeme.com/251118/p32#a251118p32)
- - [The Echo Aviation Controller puts a flight simulator in your hands](https://www.theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator)
- - [Google says Gemini 3 Pro scores 1,501 on LMArena, above 2.5 Pro, and demonstrates PhD-level reasoning with top scores on Humanity&#39;s Last Exam and GPQA Diamond &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251118/p31#a251118p31)
- - [Google plans to release Gemini 3 Deep Think to Google AI Ultra subscribers in the coming weeks, once it passes further rounds of safety testing &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251118/p30#a251118p30)
- - [Google launches Antigravity, an &quot;agent-first&quot; coding tool that leverages Gemini 3 Pro and third-party models, available in free public preview &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251118/p29#a251118p29)<!-- TECH:END -->
+ - [Microsoft launches Agent 365, a new framework to let businesses deploy and manage AI agents like human employees, with dashboards showing telemetry and alerts &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/251118/p35#a251118p35)
+ - [The Apple Watch Series 11 has plunged to a record low price](https://www.theverge.com/tech/823052/apple-watch-series-11-onn-4k-pro-deal-sale)
+ - [Meta Chief Revenue Officer John Hegeman is leaving, after 17 years at Meta; Clara Shih, who joined in November 2024 to lead its Business AI unit, is exiting &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/251118/p34#a251118p34)
+ - [Microsoft integrates more AI features into Windows, including new Copilot skills, AI agents in the taskbar, writing assistance, and troubleshooting agents &lpar;Lance Whitney/ZDNET&rpar;](http://www.techmeme.com/251118/p33#a251118p33)
+ - [Google details a new implementation of generative UI that lets Gemini 3 Pro build interactive interfaces for any prompt, launching in the Gemini app and AI Mode &lpar;Google Research&rpar;](http://www.techmeme.com/251118/p32#a251118p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

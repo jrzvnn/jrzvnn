@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251118/p49#a251118p49)
  - [EPA fines Apple $261,000 to settle hazardous waste complaint](https://appleinsider.com/articles/25/11/18/epa-files-apple-261000-to-settle-hazardous-waste-complaint?utm_source=rss)
  - [Limited supply: M4 MacBook Pro dips to $1,299 &lpar;save $300&rpar;](https://appleinsider.com/articles/25/11/18/limited-supply-m4-macbook-pro-dips-to-1299-save-300?utm_source=rss)
- - [One in four smartphones sold in China is an iPhone](https://appleinsider.com/articles/25/11/18/one-in-four-smartphones-sold-in-china-is-an-iphone?utm_source=rss)
- - [Gemini 3 Pro is priced at $2-$4 per 1M input tokens and $12-$18 per 1M output tokens, cheaper than Claude Sonnet 4.5 but more expensive than GPT-5.1 &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251118/p48#a251118p48)<!-- TECH:END -->
+ - [United States vs. Uruguay: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/united-states-vs-uruguay-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
+ - [One in four smartphones sold in China is an iPhone](https://appleinsider.com/articles/25/11/18/one-in-four-smartphones-sold-in-china-is-an-iphone?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

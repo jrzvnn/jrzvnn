@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Apple deals worth shopping before Black Friday &lpar;and the discounts to expect&rpar;](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
  - [Republicans are looking for a way to bring back the AI moratorium](https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise)
  - [Trump says the US needs a &quot;Federal Standard&quot; governing oversight of AI instead of &quot;a patchwork of 50 State Regulatory Regimes&quot;, otherwise China will catch up &lpar;Kate Sullivan/Bloomberg&rpar;](http://www.techmeme.com/251118/p54#a251118p54)
  - [Soumith Chintala, who co-created the PyTorch ML framework at Meta and left the company this month, has joined Mira Murati&#39;s Thinking Machines Lab &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/251118/p53#a251118p53)
- - [Apple&#39;s Magic Keyboard and Magic Trackpad get firmware updates](https://appleinsider.com/articles/25/11/18/apples-magic-keyboard-and-magic-trackpad-get-firmware-updates?utm_source=rss)
- - [Amazon&#39;s Zoox announces that users in San Francisco can now sign up for its Zoox Explorers program to take free rides in its robotaxis in select neighborhoods &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251118/p52#a251118p52)<!-- TECH:END -->
+ - [Apple&#39;s Magic Keyboard and Magic Trackpad get firmware updates](https://appleinsider.com/articles/25/11/18/apples-magic-keyboard-and-magic-trackpad-get-firmware-updates?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

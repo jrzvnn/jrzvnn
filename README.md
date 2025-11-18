@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Larry Summers steps back from public commitments after his Jeffrey Epstein emails were released; OpenAI still lists Summers as a board member and didn&#39;t comment &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/251118/p20#a251118p20)
+ - [14 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)
  - [It&amp;#8217;s not your job to fix the internet](https://www.theverge.com/podcast/822822/enshittification-cory-doctorow-interview-vergecast)
  - [Zoox Opens Up Self-Driving Rides for the Public in San Francisco](https://www.cnet.com/roadshow/news/zoox-opens-up-self-driving-rides-for-the-public-in-san-francisco/#ftag=CAD590a51e)
- - [&#39;High Potential&#39; Season 2 Hiatus: How to Watch More of the Drama Series](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus-how-to-watch-more-of-the-drama-series/#ftag=CAD590a51e)
- - [A Simple WhatsApp Security Flaw Exposed 3.5 Billion Phone Numbers](https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/)
- - [Zoox will let public riders use its robotaxis in San Francisco](https://www.theverge.com/news/822096/zoox-robotaxi-sf-waitlist-rides)<!-- TECH:END -->
+ - [&#39;High Potential&#39; Season 2 Hiatus: How to Watch More of the Drama Series](https://www.cnet.com/tech/services-and-software/high-potential-season-2-hiatus-how-to-watch-more-of-the-drama-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

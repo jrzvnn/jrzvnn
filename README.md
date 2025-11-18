@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces Gemini 3, its &quot;most intelligent&quot; and &quot;factually accurate&quot; model yet, with improvements across coding, reasoning, and less &quot;flattery&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/251118/p27#a251118p27)
- - [Microsoft is turning Windows into an &amp;#8216;agentic OS,&amp;#8217; starting with the taskbar](https://www.theverge.com/news/821948/microsoft-windows-11-ai-agents-taskbar-integration)
- - [Microsoft’s Agent 365 Tries to Be the AI Bot Boss](https://www.wired.com/story/microsoft-ai-agent-365/)
- - [Gemini 3 Is Here—and Google Says It Will Make Search Smarter](https://www.wired.com/story/google-launches-gemini-3-ai-bubble-search/)
- - [Best Binoculars &lpar;2025&rpar;: Zeiss, Swarovski, Leica](https://www.wired.com/story/best-binoculars/)<!-- TECH:END -->
+ - [Google details a new implementation of generative UI that lets Gemini 3 Pro build interactive interfaces for any prompt, launching in the Gemini app and AI Mode &lpar;Google Research&rpar;](http://www.techmeme.com/251118/p32#a251118p32)
+ - [The Echo Aviation Controller puts a flight simulator in your hands](https://www.theverge.com/news/823018/honeycomb-aeronautical-echo-aviation-controller-gamepad-pc-flight-simulator)
+ - [Google says Gemini 3 Pro scores 1,501 on LMArena, above 2.5 Pro, and demonstrates PhD-level reasoning with top scores on Humanity&#39;s Last Exam and GPQA Diamond &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251118/p31#a251118p31)
+ - [Google plans to release Gemini 3 Deep Think to Google AI Ultra subscribers in the coming weeks, once it passes further rounds of safety testing &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251118/p30#a251118p30)
+ - [Google launches Antigravity, an &quot;agent-first&quot; coding tool that leverages Gemini 3 Pro and third-party models, available in free public preview &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251118/p29#a251118p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

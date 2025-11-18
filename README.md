@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And that is it\u2026](http://9gag.com/gag/aQzBwRq)
+ - 😝 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
  - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Databricks is in talks to raise money at a valuation of more than $130B, up about 30% from September when it raised a $1B Series K at a $100B valuation &lpar;The Information&rpar;](http://www.techmeme.com/251117/p39#a251117p39)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 18 #625](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-18-625/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 18, #421](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-18-421/#ftag=CAD590a51e)
  - [Industrial designer &amp; iPhone Air video narrator departs Apple for AI startup](https://appleinsider.com/articles/25/11/18/industrial-designer-iphone-air-video-narrator-departs-apple-for-ai-startup?utm_source=rss)
- - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks with potential investors to raise about $5B and is aiming for a valuation of at least $50B &lpar;The Information&rpar;](http://www.techmeme.com/251117/p38#a251117p38)
- - [Artificial Analysis announces AA-Omniscience, a benchmark for knowledge and hallucination across 40+ topics; Claude 4.1 Opus takes first place in its key metric &lpar;@artificialanlys&rpar;](http://www.techmeme.com/251117/p37#a251117p37)
- - [Apple Car Key could soon make its way to select Cadillac vehicles](https://appleinsider.com/articles/25/11/18/apple-car-key-could-soon-make-its-way-to-select-cadillac-vehicles?utm_source=rss)
- - [New in iOS 26.2 beta 3: AirDrop codes, EU Siri changes, visual tweaks](https://appleinsider.com/articles/25/11/17/new-in-ios-262-beta-3-airdrop-codes-eu-siri-changes-visual-tweaks?utm_source=rss)<!-- TECH:END -->
+ - [Sources: Mira Murati&#39;s Thinking Machines Lab is in talks with potential investors to raise about $5B and is aiming for a valuation of at least $50B &lpar;The Information&rpar;](http://www.techmeme.com/251117/p38#a251117p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

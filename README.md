@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 💣 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
- - 😝 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 💣 [I lost](http://9gag.com/gag/aByjDox)
+ - 😝 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
  - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---

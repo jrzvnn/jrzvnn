@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Ring founder Jamie Siminoff on returning to Amazon post-burnout, his goal to &quot;zero out crime&quot;, privacy and the &quot;surveillance panopticon&quot;, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/251118/p3#a251118p3)
  - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
  - [$100 Off Shark Promo Code | November 2025](https://www.wired.com/story/shark-promo-code/)
  - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [CoinGecko: total market value of 18K+ tracked coins fell 25% since October 6, wiping $1.2T; Bitcoin fell 28% to $89.5K, its lowest since April and flat for 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/251118/p2#a251118p2)<!-- TECH:END -->
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

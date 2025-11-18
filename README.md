@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 💣 [I lost](http://9gag.com/gag/aByjDox)
  - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
+ - 👉 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)<!-- MEMES:END -->
 
 ---
 

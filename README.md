@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me? Never. Totally not me](https://www.reddit.com/r/funny/comments/1p0g1p7/me_never_totally_not_me/)
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
  - 💣 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
  - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 👉 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)<!-- MEMES:END -->
+ - 👉 [Cloudflare](http://9gag.com/gag/aryDvO7)<!-- MEMES:END -->
 
 ---
 

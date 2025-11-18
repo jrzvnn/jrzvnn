@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 👉 [I lost](http://9gag.com/gag/aByjDox)<!-- MEMES:END -->
+ - 😝 [Accidental discharge](http://9gag.com/gag/aGy6P67)
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 😝 [Oh my godness](http://9gag.com/gag/a4PBpDZ)
+ - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 
 ---
 

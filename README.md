@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Republicans are looking for a way to bring back the AI moratorium](https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise)
+ - [Trump says the US needs a &quot;Federal Standard&quot; governing oversight of AI instead of &quot;a patchwork of 50 State Regulatory Regimes&quot;, otherwise China will catch up &lpar;Kate Sullivan/Bloomberg&rpar;](http://www.techmeme.com/251118/p54#a251118p54)
  - [Soumith Chintala, who co-created the PyTorch ML framework at Meta and left the company this month, has joined Mira Murati&#39;s Thinking Machines Lab &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/251118/p53#a251118p53)
  - [Apple&#39;s Magic Keyboard and Magic Trackpad get firmware updates](https://appleinsider.com/articles/25/11/18/apples-magic-keyboard-and-magic-trackpad-get-firmware-updates?utm_source=rss)
- - [Amazon&#39;s Zoox announces that users in San Francisco can now sign up for its Zoox Explorers program to take free rides in its robotaxis in select neighborhoods &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251118/p52#a251118p52)
- - [Cloudflare shows massive internet outages aren’t a matter of if — but when](https://www.theverge.com/news/823562/cloudflare-outage-wake-up-call-websites)
- - [The US DOE will provide Constellation with a $1B loan to restart the Three Mile Island nuclear plant; the output will be sold to Microsoft under a 20-year deal &lpar;Costas Paris/Wall Street Journal&rpar;](http://www.techmeme.com/251118/p51#a251118p51)<!-- TECH:END -->
+ - [Amazon&#39;s Zoox announces that users in San Francisco can now sign up for its Zoox Explorers program to take free rides in its robotaxis in select neighborhoods &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251118/p52#a251118p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

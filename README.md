@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Maxima, whose AI platform automates accounting tasks like reconciliation and journal entry, raised $41M in seed and Series A rounds at a $143M valuation &lpar;Aditya Soni/Reuters&rpar;](http://www.techmeme.com/251118/p46#a251118p46)
  - [Windows 11 Copilot AI hands-on: despite Microsoft advertising the feature as able to &quot;understand you&quot;, it delivers inconsistent and often incorrect responses &lpar;Antonio G. Di Benedetto/The Verge&rpar;](http://www.techmeme.com/251118/p45#a251118p45)
  - [The best Nintendo Switch controllers to buy right now](https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad)
  - [The Best Delivery Thanksgiving Meal Kits &lpar;2025&rpar;](https://www.wired.com/story/thanksgiving-meal-kits-2025-update/)
- - [Apple&#39;s N1 chipset in the iPhone 17 lineup delivers up to 40% higher median Wi-Fi download and upload speeds globally vs. the Broadcom-based iPhone 16 lineup &lpar;Luke Kehoe/Ookla&rpar;](http://www.techmeme.com/251118/p44#a251118p44)
- - [Apple Watch Series 11 drops to all-time low $349 with early Black Friday deals](https://appleinsider.com/articles/25/11/18/apple-watch-series-11-drops-to-all-time-low-349-with-early-black-friday-deals?utm_source=rss)<!-- TECH:END -->
+ - [Apple&#39;s N1 chipset in the iPhone 17 lineup delivers up to 40% higher median Wi-Fi download and upload speeds globally vs. the Broadcom-based iPhone 16 lineup &lpar;Luke Kehoe/Ookla&rpar;](http://www.techmeme.com/251118/p44#a251118p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 👉 [Really?](http://9gag.com/gag/aVv4nzv)<!-- MEMES:END -->
+ - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
+ - 😝 [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
+ - 💣 [U.S. has Trump university!](http://9gag.com/gag/azxo63b)
+ - 😝 [They Call It Culture and Manners I Believe...](http://9gag.com/gag/aD2rBxB)
+ - 👉 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)<!-- MEMES:END -->
 
 ---
 

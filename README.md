@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 😝 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
- - 👉 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)<!-- MEMES:END -->
+ - 😝 [Older wifu material\u2026](http://9gag.com/gag/aByjDpO)
+ - 😝 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
+ - 💣 [The Look](http://9gag.com/gag/aD2qAw9)
+ - 😝 [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
+ - 👉 [Hope](http://9gag.com/gag/aqyV4Q7)<!-- MEMES:END -->
 
 ---
 

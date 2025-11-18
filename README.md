@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How titanium 3D printing is used to make Apple Watch &amp; iPhone Air](https://appleinsider.com/articles/25/11/18/how-titanium-3d-printing-is-used-to-make-apple-watch-iphone-air?utm_source=rss)
- - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [Researchers demonstrated a major WhatsApp flaw that exposed 3.5B users&#39; phone numbers, with 57% also showing a profile photo; Meta fixed the enumeration problem &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/251118/p21#a251118p21)
- - [Larry Summers steps back from public commitments after his Jeffrey Epstein emails were released; OpenAI still lists Summers as a board member and didn&#39;t comment &lpar;Raquel Coronell Uribe/NBC News&rpar;](http://www.techmeme.com/251118/p20#a251118p20)
- - [14 Best Housewarming Gifts We Can&#39;t Stop Using &lpar;2025&rpar;: Coasters, Blenders, Sheets](https://www.wired.com/gallery/best-housewarming-gifts-for-any-new-home-2025/)<!-- TECH:END -->
+ - [Microsoft&amp;#8217;s new Anthropic partnership brings Claude AI models to Azure](https://www.theverge.com/news/822988/microsoft-anthropic-partnership-claude-models-azure-investment-nvidia)
+ - [Agentio, which uses AI to help brands automate and scale campaigns with YouTube creators, raised a $40M Series B led by Forerunner at a $340M valuation &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251118/p25#a251118p25)
+ - [The 26 Best Advent Calendars &lpar;2025&rpar;: We Opened Every Door](https://www.wired.com/gallery/best-advent-calendar/)
+ - [Anthropic commits to buy $30B in Azure capacity in a new deal with Microsoft and Nvidia, which commit to invest up to $5B and $10B, respectively, in Anthropic &lpar;Microsoft&rpar;](http://www.techmeme.com/251118/p24#a251118p24)
+ - [Rebecca Heineman, legendary game designer, Interplay co-founder, programmer, and the first formally recognized US Space Invaders champion, died at 62 in October &lpar;Ted Litchfield/PC Gamer&rpar;](http://www.techmeme.com/251118/p23#a251118p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

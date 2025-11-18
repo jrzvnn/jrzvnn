@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Xbox controller to buy right now](https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s)
+ - [Apple details how it is 3D printing Watch Series 11 and Ultra 3 cases using titanium powder, helping Apple save 400 metric tons of raw titanium in 2025 &lpar;Apple&rpar;](http://www.techmeme.com/251118/p50#a251118p50)
  - [Kraken raised $200M at a $20B valuation, after raising $600M at a $15B valuation in Sept.; prior to the two rounds, Kraken raised only $27M in venture capital &lpar;Ben Weiss/Fortune&rpar;](http://www.techmeme.com/251118/p49#a251118p49)
  - [EPA fines Apple $261,000 to settle hazardous waste complaint](https://appleinsider.com/articles/25/11/18/epa-files-apple-261000-to-settle-hazardous-waste-complaint?utm_source=rss)
- - [Limited supply: M4 MacBook Pro dips to $1,299 &lpar;save $300&rpar;](https://appleinsider.com/articles/25/11/18/limited-supply-m4-macbook-pro-dips-to-1299-save-300?utm_source=rss)
- - [United States vs. Uruguay: Livestream International Friendly Soccer From Anywhere](https://www.cnet.com/tech/services-and-software/united-states-vs-uruguay-livestream-international-friendly-soccer-from-anywhere/#ftag=CAD590a51e)
- - [One in four smartphones sold in China is an iPhone](https://appleinsider.com/articles/25/11/18/one-in-four-smartphones-sold-in-china-is-an-iphone?utm_source=rss)<!-- TECH:END -->
+ - [Limited supply: M4 MacBook Pro dips to $1,299 &lpar;save $300&rpar;](https://appleinsider.com/articles/25/11/18/limited-supply-m4-macbook-pro-dips-to-1299-save-300?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

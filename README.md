@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [Really?](http://9gag.com/gag/aVv4nzv)
- - 😝 [Chuck Norris](http://9gag.com/gag/aD2qRjK)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [Pure cinema](http://9gag.com/gag/a6Z4vOq)
+ - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [HOLY SHIT THEY F**KIN DIED!](http://9gag.com/gag/a1mB4qR)<!-- MEMES:END -->
 
 ---
 

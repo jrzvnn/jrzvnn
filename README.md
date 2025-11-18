@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Wood cumin cider box.](http://9gag.com/gag/ayNZOqy)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 😝 [They are buzzing in Norway.](http://9gag.com/gag/abAL3AE)
- - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [HOLY SHIT THEY F**KIN DIED!](http://9gag.com/gag/a1mB4qR)<!-- MEMES:END -->
 
 ---
 

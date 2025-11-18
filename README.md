@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 💣 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
  - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
  - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [\udb40\uddc3\udb40\uddc3\udb40\uddc3 \udb40\uddc3\udb40\uddc3\udb40\uddc3](http://9gag.com/gag/ae9yvnj)
- - 😝 [This comment is peak internet humor](http://9gag.com/gag/aByjDrx)
- - 💣 [U.S. has Trump university!](http://9gag.com/gag/azxo63b)
- - 😝 [They Call It Culture and Manners I Believe...](http://9gag.com/gag/aD2rBxB)
- - 👉 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)<!-- MEMES:END -->
+ - 😝 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)
+ - 😝 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
+ - 💣 [I lost](http://9gag.com/gag/aByjDox)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [What if you miss it?](http://9gag.com/gag/a5QvLDL)<!-- MEMES:END -->
 
 ---
 

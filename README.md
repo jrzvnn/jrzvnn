@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [New fear unlock](http://9gag.com/gag/aqyB3oQ)
+ - 😝 [Is it true?](http://9gag.com/gag/aE0yexp)
  - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 👉 [Going into get my Brain Tumor removed. See you guys on The other side. Thanks for everything.](http://9gag.com/gag/avy4YvM)<!-- MEMES:END -->
+ - 💣 [Woody Harrelson&#39;s magic skills are just too good](http://9gag.com/gag/aO8AX9R)
+ - 😝 [I lost](http://9gag.com/gag/aByjDox)
+ - 👉 [Really?](http://9gag.com/gag/aVv4nzv)<!-- MEMES:END -->
 
 ---
 

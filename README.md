@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)
- - [macOS Tahoe 26.2 will give M5 Macs a giant machine learning speed boost](https://appleinsider.com/articles/25/11/18/macos-tahoe-262-will-give-m5-macs-a-giant-machine-learning-speed-boost?utm_source=rss)
- - [Meta is not a monopolist, judge rules](https://www.theverge.com/news/823191/meta-ftc-antitrust-trial-ruling)
- - [A US judge rules Meta&#39;s acquisitions of Instagram and WhatsApp don&#39;t violate antitrust law, as the FTC failed to prove the deals let Meta monopolize the market &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/251118/p41#a251118p41)
- - [Internal docs show Meta&#39;s Vibes AI video feed has about 2M DAUs as of November 9, up 1% from the previous week; ~52% of returning users prompted the AI &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/251118/p40#a251118p40)<!-- TECH:END -->
+ - [London thieves snatching iPhones, but &#39;don&#39;t want no Samsung&#39;](https://appleinsider.com/articles/25/11/18/london-thieves-snatching-iphones-but-dont-want-no-samsung?utm_source=rss)
+ - [Quora&#39;s Poe launches group chats, letting users around the world engage in group chats with up to 200 people and collaborate across 200+ AI models &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251118/p43#a251118p43)
+ - [Apono, which helps enterprises manage cloud permissions by eliminating standing privileges, raised a $34M Series B, bringing its total funding to $54M+ &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/251118/p42#a251118p42)
+ - [Apple&amp;#8217;s custom Wi-Fi chip gives the iPhone 17 a notable boost, according to speed tests](https://www.theverge.com/news/823198/ookla-speedtest-iphone-17-apple-custom-n1-networking-chip)
+ - [A massive Cloudflare outage brought down X, ChatGPT, and even Downdetector](https://www.theverge.com/news/822869/cloudflare-is-down-outage-x-twitter-downdetector)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Squarespace Promo Codes: 10% Off | November 2025](https://www.wired.com/story/squarespace-promo-code/)
  - [$100 Off Shark Promo Code | November 2025](https://www.wired.com/story/shark-promo-code/)
  - [Naturepedic Promo Codes and Deals: 20% Off](https://www.wired.com/story/naturepedic-promo-code/)
  - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [CoinGecko: total market value of 18K+ tracked coins fell 25% since October 6, wiping $1.2T; Bitcoin fell 28% to $89.5K, its lowest since April and flat for 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/251118/p2#a251118p2)
- - [Newegg Promo Code: 10% Off in November 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
+ - [CoinGecko: total market value of 18K+ tracked coins fell 25% since October 6, wiping $1.2T; Bitcoin fell 28% to $89.5K, its lowest since April and flat for 2025 &lpar;Financial Times&rpar;](http://www.techmeme.com/251118/p2#a251118p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

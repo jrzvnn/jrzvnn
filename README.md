@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 💣 [\u201cEncephalitis lethargica remains one of the most haunting medical mysteries of the twentieth century, a disease that swept across the world and then vanished as suddenly as it appeared.\u201d](http://9gag.com/gag/azxvgMq)
- - 😝 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 😝 [\u201cEncephalitis lethargica remains one of the most haunting medical mysteries of the twentieth century, a disease that swept across the world and then vanished as suddenly as it appeared.\u201d](http://9gag.com/gag/azxvgMq)
  - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---

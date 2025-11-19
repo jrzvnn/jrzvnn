@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Adobe nears a $1.9B deal to acquire NYSE-listed Semrush, which helps companies run search engine optimization as AI use increases, paying $12 per share &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p24#a251119p24)
- - [Meta&#39;s win over the US FTC may mean Meta, Google, Microsoft, and others can resume buying startups to stay ahead of the pack, after a slowdown under Lina Khan &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p23#a251119p23)
- - [WIRED’s Best E-Readers, Tested and Reviewed &lpar;2025&rpar;: Kobo, Kindle, Boox](https://www.wired.com/gallery/best-ereaders/)
- - [Larry Summers and OpenAI say he has resigned from the OpenAI board, after a US House committee released his emails with Jeffrey Epstein &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/251119/p22#a251119p22)
- - [Don&#39;t Buy a Galaxy S25 Ultra for Black Friday. Here Are 3 Reasons Why](https://www.cnet.com/tech/mobile/dont-buy-a-galaxy-s25-ultra-for-black-friday-here-are-3-reasons-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU unveils proposed updates to GDPR, including simplifying cookie permission pop-ups, and plans to water down the AI Act, after US and tech company pressure &lpar;The Verge&rpar;](http://www.techmeme.com/251119/p26#a251119p26)
+ - [TikTok is letting users control how much AI content they see](https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics)
+ - [Ubisoft says it will release results for the fiscal first half before trading opens on November 21, after unexpectedly postponing their publication last week &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p25#a251119p25)
+ - [Thrustmaster ESWAP X2 H.E. Controller Review](https://www.wired.com/review/thrustmaster-eswap-x2-he-controller/)
+ - [Screw it, I’m installing Linux](https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

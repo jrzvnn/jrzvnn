@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 😝 [\u201cEncephalitis lethargica remains one of the most haunting medical mysteries of the twentieth century, a disease that swept across the world and then vanished as suddenly as it appeared.\u201d](http://9gag.com/gag/azxvgMq)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
+ - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
+ - 💣 [Family brings home an orange kitten to help mother cat heal after losing her kitten](http://9gag.com/gag/aZZ4b56)
+ - 😝 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
+ - 👉 [Hope](http://9gag.com/gag/aqyV4Q7)<!-- MEMES:END -->
 
 ---
 

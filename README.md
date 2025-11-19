@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As TSMC readies its €10B Germany plant for 2027, its Taiwanese suppliers say they&#39;re struggling with the EU&#39;s complex permitting, labor, and environmental rules &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p7#a251119p7)
+ - [10% Off Canon Promo Codes | November 2025](https://www.wired.com/story/canon-promo-code/)
+ - [Atomico: European startups are on track to raise $44B in 2025, up from $41B in 2024; tech now makes up 15% of Europe&#39;s GDP, up from 4% in 2016 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/251119/p6#a251119p6)
  - [Brookfield Asset Management is targeting $10B for its new AI infrastructure fund and has already raised $5B from its balance sheet, Nvidia, and other investors &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p5#a251119p5)
- - [30% Off Tempur-Pedic Promo Codes | November 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
- - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
- - [TikTok is rolling out new digital well-being features like an affirmation journal and says it will also give users badges for limiting their daily screen time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p4#a251119p4)
- - [Exclusive Shed Rain Coupon: 15% Off](https://www.wired.com/story/shed-rain-coupon/)<!-- TECH:END -->
+ - [30% Off Tempur-Pedic Promo Codes | November 2025](https://www.wired.com/story/tempur-pedic-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

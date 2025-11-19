@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
- - 😝 [This is how you do a ventriloquist act](http://9gag.com/gag/aE0jdLp)
- - 💣 [Details matter](http://9gag.com/gag/ayNm76W)
- - 😝 [Family brings home an orange kitten to help mother cat heal after losing her kitten](http://9gag.com/gag/aZZ4b56)
- - 👉 [They are trying to off us](http://9gag.com/gag/awy901D)<!-- MEMES:END -->
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 💣 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 😝 [Go back. Change history.](http://9gag.com/gag/ayNm5rM)
+ - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 ---
 

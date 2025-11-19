@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 😝 [I lost](http://9gag.com/gag/aByjDox)
- - 💣 [Is it true?](http://9gag.com/gag/aE0yexp)
+ - 😝 [Accidental discharge](http://9gag.com/gag/aGy6P67)
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 💣 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
  - 😝 [They are trying to off us](http://9gag.com/gag/awy901D)
- - 👉 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)<!-- MEMES:END -->
+ - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---
 

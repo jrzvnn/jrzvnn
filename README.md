@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lmfao these people..what&#39;s the manager gonna do? Give him a timeout? Ground him?](http://9gag.com/gag/aXPm0Ng)
  - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 💣 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
- - 😝 [Go back. Change history.](http://9gag.com/gag/ayNm5rM)
- - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
+ - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 💣 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)
+ - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---
 

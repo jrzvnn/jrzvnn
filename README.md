@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Huawei&#39;s efforts to build an independent Chinese chip supply chain; through vehicles like Hubble, it has invested in 60+ chip companies since 2019 &lpar;Itsuro Fujino/Nikkei Asia&rpar;](http://www.techmeme.com/251119/p9#a251119p9)
  - [A look at Tsinghua University, which leads China&#39;s AI innovation, with 4,986 AI patents between 2005 and 2024, alumni behind startups like DeepSeek, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251119/p8#a251119p8)
  - [As TSMC readies its €10B Germany plant for 2027, its Taiwanese suppliers say they&#39;re struggling with the EU&#39;s complex permitting, labor, and environmental rules &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p7#a251119p7)
  - [10% Off Canon Promo Codes | November 2025](https://www.wired.com/story/canon-promo-code/)
- - [Atomico: European startups are on track to raise $44B in 2025, up from $41B in 2024; tech now makes up 15% of Europe&#39;s GDP, up from 4% in 2016 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/251119/p6#a251119p6)
- - [Brookfield Asset Management is targeting $10B for its new AI infrastructure fund and has already raised $5B from its balance sheet, Nvidia, and other investors &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p5#a251119p5)<!-- TECH:END -->
+ - [Atomico: European startups are on track to raise $44B in 2025, up from $41B in 2024; tech now makes up 15% of Europe&#39;s GDP, up from 4% in 2016 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/251119/p6#a251119p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

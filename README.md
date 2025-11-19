@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251119/p38#a251119p38)
  - [Perplexity plans to roll out a free agentic shopping product for US users next week in partnership with PayPal &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p37#a251119p37)
  - [Elon Musk says xAI plans to develop a 500 megawatt data center in Saudi Arabia with state-backed AI startup Humain; the data center will rely on Nvidia chips &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251119/p36#a251119p36)
  - [Meta release SAM 3, a model for detection, segmentation, and tracking of objects in images and video, and SAM 3D, which can reconstruct objects and humans in 3D &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251119/p35#a251119p35)
- - [This Home Robot Clears Tables and Loads the Dishwasher All by Itself](https://www.wired.com/story/memo-sunday-robotics-home-robot/)
- - [Alphabet&#39;s stock rose as much as 6.9% on Wednesday, its biggest gain since early September, amid a wave of glowing reviews for Gemini 3 &lpar;Ryan Vlastelica/Bloomberg&rpar;](http://www.techmeme.com/251119/p34#a251119p34)<!-- TECH:END -->
+ - [This Home Robot Clears Tables and Loads the Dishwasher All by Itself](https://www.wired.com/story/memo-sunday-robotics-home-robot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

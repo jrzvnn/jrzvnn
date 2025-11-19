@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Sources: South Korean antitrust officials visited Arm&#39;s Seoul offices as part of ongoing scrutiny of its licensing practices, following Qualcomm&#39;s complaint &lpar;Josh Sisco/Bloomberg&rpar;](http://www.techmeme.com/251119/p15#a251119p15)
  - [Vaping Is ‘Everywhere’ in Schools—Sparking a Bathroom Surveillance Boom](https://www.wired.com/story/vaping-surveillance-school-bathrooms/)
  - [CEIP study: 87 of the top 100 Chinese AI researchers who were working in the US in 2019 are still doing research at US universities or companies in 2025 &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p14#a251119p14)
- - [AI, my unexpected daily travel companion](https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero)
- - [UK bank Lloyds agrees to acquire UK startup Curve, which offers digital wallets, in a deal set to close in H1 2026; Sky News reported Lloyds is set to pay £120M &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251119/p13#a251119p13)<!-- TECH:END -->
+ - [UK bank Lloyds agrees to acquire UK startup Curve, which offers digital wallets, in a deal set to close in H1 2026; Sky News reported Lloyds is set to pay £120M &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251119/p13#a251119p13)
+ - [Fox News hires Palantir to build tools that help journalists produce stories across Fox platforms and social media; Fox won&#39;t use AI to generate editorial copy &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251119/p12#a251119p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

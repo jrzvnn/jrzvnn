@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK online grocer Ocado&#39;s stock closed down 17.4% on November 18 after its US partner Kroger said it would close three automated warehouses in January 2026 &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p1#a251119p1)
  - [Sources: xAI is in advanced talks to raise $15B at a $230B valuation, up from the $113B it reported after merging with X in March 2025 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251118/p60#a251118p60)
  - [Google DeepMind plans to open an AI research lab in Singapore, collaborating with institutions across the Asia-Pacific in education, public services, and more &lpar;Lila Ibrahim/Google DeepMind&rpar;](http://www.techmeme.com/251118/p59#a251118p59)
  - [iPadOS 26: How to use Quick Notes or take a screenshot with a swipe](https://appleinsider.com/inside/ipados-26/tips/ipados-26-how-to-use-quick-notes-or-take-a-screenshot-with-a-swipe?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-19/#ftag=CAD590a51e)
- - [A look at Inception Point AI, whose podcast network makes 3,000 AI-made podcasts per week and has 400K subs; an episode needs only 20 listeners to turn a profit &lpar;Tess Patton/The Wrap&rpar;](http://www.techmeme.com/251118/p58#a251118p58)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-19/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

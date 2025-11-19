@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why do women live longer](http://9gag.com/gag/agmprnq)
- - 😝 [Udh Senin lagi aj...](http://9gag.com/gag/azxoNyp)
- - 💣 [When your adrenaline addiction reaches critical mass...](http://9gag.com/gag/aPAzNER)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 💣 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
+ - 😝 [They are trying to off us](http://9gag.com/gag/awy901D)
+ - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
 ---
 

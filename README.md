@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI announces ChatGPT for Teachers, designed for K-12 educators and school districts, and says it will be free to K-12 educators in the US through June 2027 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p41#a251119p41)
  - [Apple attacks Which&#39;s lawsuit backer in $2 billion UK App Store hearing](https://appleinsider.com/articles/25/11/19/apple-attacks-whichs-lawsuit-backer-in-2-billion-uk-app-store-hearing?utm_source=rss)
  - [AI video startup Luma AI raised a $900M Series C led by Humain, sources say at a ~$4B valuation, and partners with Humain on a 2GW AI cluster in Saudi Arabia &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/251119/p40#a251119p40)
  - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)
- - [Doppel, which makes an AI social engineering detection service, raised a $70M Series C led by Bessemer at a $600M+ valuation, up from $205M in May &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251119/p39#a251119p39)
- - [Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251119/p38#a251119p38)<!-- TECH:END -->
+ - [Doppel, which makes an AI social engineering detection service, raised a $70M Series C led by Bessemer at a $600M+ valuation, up from $205M in May &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251119/p39#a251119p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

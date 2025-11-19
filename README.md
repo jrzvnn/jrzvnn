@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 😝 [You can only see it once](http://9gag.com/gag/awy90m1)
  - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 💣 [She&#39;s freaking out lmfao](http://9gag.com/gag/aW4eBm2)
- - 😝 [They are trying to off us](http://9gag.com/gag/awy901D)
+ - 💣 [How f**k up you are](http://9gag.com/gag/a0eDv3L)
+ - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
  - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
 ---

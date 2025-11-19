@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Investors pulled $523M from BlackRock&#39;s IBIT bitcoin ETF on Tuesday, its largest single-day outflow since launch; BTC fell ~30% from its October all-time high &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251119/p45#a251119p45)
+ - [This Excellent LG OLED Is Deeply Discounted Before Black Friday](https://www.wired.com/story/lg-b5-oled-deal-1125/)
+ - [The 53 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
  - [Sources: Coinbase is preparing to launch a prediction market powered by Kalshi to allow its clients to bet on events such as elections and sports &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251119/p44#a251119p44)
- - [Why some apps disappear, and why free speech rights can&#39;t stop it](https://appleinsider.com/articles/25/11/19/why-some-apps-disappear-and-why-free-speech-rights-cant-stop-it?utm_source=rss)
- - [Sources: US officials are privately saying they might not levy semiconductor tariffs soon, as the Trump administration takes a more cautious approach with China &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p43#a251119p43)
- - [40 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-1/)
- - [An ingenious Apple Service hoax is convincing users their account is under attack](https://appleinsider.com/articles/25/11/19/an-ingenious-apple-service-hoax-is-convincing-users-their-account-is-under-attack?utm_source=rss)<!-- TECH:END -->
+ - [Why some apps disappear, and why free speech rights can&#39;t stop it](https://appleinsider.com/articles/25/11/19/why-some-apps-disappear-and-why-free-speech-rights-cant-stop-it?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

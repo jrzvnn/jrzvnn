@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU&#39;s General Court dismisses Amazon&#39;s request to remove its designation as a Very Large Online Platform under the DSA; platforms with 45M+ users qualify &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p21#a251119p21)
  - [Crypto miners like IREN are pivoting to AI data centers amid the AI boom; IREN&#39;s stock, down to ~$1 in 2022, is up 300% in 2025, giving it a $13B+ market cap &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p20#a251119p20)
  - [The ‘Great Meme Reset’ Is Coming](https://www.wired.com/story/the-great-meme-reset-is-coming/)
  - [Missing Launchpad in MacOS 26? Here&#39;s How to Bring It Back](https://www.wired.com/story/how-to-bring-back-launchpad-in-macos/)
- - [NetEase says 2M+ people played martial arts game Where the Winds Meet in the 24 hours after its global release, as Chinese companies&#39; cultural influence expands &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251119/p19#a251119p19)
- - [This 3-Port Anker Charger Is $38 Off for Black Friday and Solves All Your Outlet Troubles](https://www.cnet.com/deals/this-3-port-anker-charger-is-38-off-for-black-friday-and-solves-all-your-outlet-troubles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NetEase says 2M+ people played martial arts game Where the Winds Meet in the 24 hours after its global release, as Chinese companies&#39; cultural influence expands &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251119/p19#a251119p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

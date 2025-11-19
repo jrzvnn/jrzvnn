@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A draft EO shows President Trump plans to grant the federal government sole power to regulate AI and create an &quot;AI Litigation Task Force&quot; overseen by the AG &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/251119/p55#a251119p55)
  - [Humain partners with Adobe and Qualcomm to develop AI tools for Arabic content, using Adobe&#39;s Firefly Foundry to build AI models and Qualcomm chips to run them &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251119/p54#a251119p54)
- - [Best VR Headsets of 2025: My Favorite Hardware Right Now](https://www.cnet.com/tech/computing/best-vr-headset-sem/#ftag=CAD590a51e)
  - [NASA Finally Weighs In on the Origin of 3I/ATLAS](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/)
  - [Apple TV will offer Friday Night Baseball through 2028, contrary to rumors](https://appleinsider.com/articles/25/11/19/apple-tv-will-offer-friday-night-baseball-through-2028-contrary-to-rumors?utm_source=rss)
  - [Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics](https://www.wired.com/story/google-hires-cto-boston-dynamics-demis-hassabis-android/)<!-- TECH:END -->

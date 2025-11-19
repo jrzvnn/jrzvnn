@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Laptop prices in 1989](http://9gag.com/gag/aXPmbE2)
- - 😝 [Didn&#39;t realise how much force a bumble bee&#39;s wings produced until now.](http://9gag.com/gag/adBWNxV)
- - 💣 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
- - 😝 [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
- - 👉 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)<!-- MEMES:END -->
+ - 😝 [Why bother anymore?](http://9gag.com/gag/aMV01O1)
+ - 😝 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
+ - 💣 [Spooky Ride](http://9gag.com/gag/a4PB4qv)
+ - 😝 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
+ - 👉 [Another wife to the college](http://9gag.com/gag/aLnO63A)<!-- MEMES:END -->
 
 ---
 

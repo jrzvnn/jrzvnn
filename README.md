@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Coinbase is preparing to launch a prediction market powered by Kalshi to allow its clients to bet on events such as elections and sports &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251119/p44#a251119p44)
+ - [Why some apps disappear, and why free speech rights can&#39;t stop it](https://appleinsider.com/articles/25/11/19/why-some-apps-disappear-and-why-free-speech-rights-cant-stop-it?utm_source=rss)
+ - [Sources: US officials are privately saying they might not levy semiconductor tariffs soon, as the Trump administration takes a more cautious approach with China &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p43#a251119p43)
  - [40 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-1/)
- - [An ingenious Apple Service hoax is convincing users their account is under attack](https://appleinsider.com/articles/25/11/19/an-ingenious-apple-service-hoax-is-convincing-users-their-account-is-under-attack?utm_source=rss)
- - [OpenAI unveils GPT-5.1-Codex-Max, saying it is &quot;significantly better&quot; at &quot;long-horizon reasoning&quot; and is the first model it has trained for Windows environments &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251119/p42#a251119p42)
- - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
- - [The Biggest AI Companies Met to Find a Better Path for Chatbot Companions](https://www.wired.com/story/the-biggest-ai-companies-met-to-find-a-better-path-for-chatbot-companions/)<!-- TECH:END -->
+ - [An ingenious Apple Service hoax is convincing users their account is under attack](https://appleinsider.com/articles/25/11/19/an-ingenious-apple-service-hoax-is-convincing-users-their-account-is-under-attack?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

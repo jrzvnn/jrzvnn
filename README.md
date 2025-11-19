@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix signs a three year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn)
+ - [Sources: the US Commerce Department plans to approve the sale of up to 35K of Nvidia&#39;s GB300 servers or their equivalents to G42 and Humain each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251119/p53#a251119p53)
+ - [Yeti Vs Host Modern: Which Insulated Serving Dishes Are the Best?](https://www.wired.com/story/the-best-insulated-serving-dishes-for-your-next-dinner-party/)
  - [Sources: ID verification startup Incode is in preliminary talks to raise between $150M and $300M at a valuation of up to $3B, up from a $1.25B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p52#a251119p52)
- - [Nvidia says its AI GPUs are sold out, grows data center business by $10B in a single quarter](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue)
- - [WIRED Roundup: DHS’s Privacy Breach, AI Romantic Affairs, and Google Sues Text Scammers](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-dhs-privacy-breach-ai-romantic-affairs-google-sues-text-scammers/)
- - [Google’s new Scholar Labs search uses AI to find relevant studies](https://www.theverge.com/news/823213/google-scholar-labs-ai-search)
- - [Nvidia reports Q3 revenue up 62% YoY to $57.01B, vs. $54.92B est., Data Center revenue up 66% to $51.2B, and net income up 65% to $31.9B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251119/p51#a251119p51)<!-- TECH:END -->
+ - [Nvidia says its AI GPUs are sold out, grows data center business by $10B in a single quarter](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

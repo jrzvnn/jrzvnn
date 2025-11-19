@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini 3 hands-on: a fundamental improvement on daily use, extremely fast, Antigravity IDE is a powerful launch product, and its personality is terse and direct &lpar;matt shumer&rpar;](http://www.techmeme.com/251119/p32#a251119p32)
  - [Gemini co-lead Oriol Vinyals says Gemini 3&#39;s gains come from better pre-training and post-training, contradicting the idea that pre-training gains are falling &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251119/p31#a251119p31)
  - [Disney loses bid to block Sling TV’s one-day cable passes](https://www.theverge.com/news/824017/disney-sling-tv-cable-passes-block-denied)
  - [Crypto exchange Kraken says it confidentially filed for a US IPO, without revealing any terms; Kraken said it raised $200M at a $20B valuation on November 18 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/251119/p30#a251119p30)
- - [19 Best Mac Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mac-accessories/)
- - [Guardio, which helps detect malicious code created with AI tools, raised $80M led by ION Crossover, and says it has 500K paying users and $100M in ARR in 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p29#a251119p29)<!-- TECH:END -->
+ - [19 Best Mac Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mac-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

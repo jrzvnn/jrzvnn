@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Upgrade your daily routine with the 2025 App Store finalists](https://appleinsider.com/articles/25/11/19/upgrade-your-daily-routine-with-the-2025-app-store-finalists?utm_source=rss)
  - [Vasco Translator Q1 Review: Cloning Your Voice](https://www.wired.com/review/vasco-translator-q1/)
  - [Porsche Reveals Everything About Its Cayenne Electric—Except for One Vital Thing](https://www.wired.com/story/porsche-reveals-everything-about-its-cayenne-electric-apart-from-one-vital-thing/)
  - [Porsche crowns Cayenne Electric ‘most powerful production Porsche of all time’](https://www.theverge.com/news/823329/porsche-cayenne-electric-turbo-specs-price-range)
- - [Adobe to acquire digital marketing platform Semrush for $1.9 billion](https://www.theverge.com/news/823887/adobe-semrush-acquisition-digital-marketing)
- - [AI music platform Suno raised $250M led by Menlo Ventures at a $2.45B valuation, up from ~$500M in 2024, and says its annual revenue has reached $200M &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p28#a251119p28)<!-- TECH:END -->
+ - [Adobe to acquire digital marketing platform Semrush for $1.9 billion](https://www.theverge.com/news/823887/adobe-semrush-acquisition-digital-marketing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

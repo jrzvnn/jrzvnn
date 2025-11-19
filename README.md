@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI, my unexpected daily travel companion](https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero)
+ - [UK bank Lloyds agrees to acquire UK startup Curve, which offers digital wallets, in a deal set to close in H1 2026; Sky News reported Lloyds is set to pay £120M &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251119/p13#a251119p13)
  - [Fox News hires Palantir to build tools that help journalists produce stories across Fox platforms and social media; Fox won&#39;t use AI to generate editorial copy &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251119/p12#a251119p12)
  - [The Dutch government suspends its powers over chipmaker Nexperia, restoring control to its Chinese owner; a Dutch minister says the move is &quot;a show of goodwill&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p11#a251119p11)
- - [Boston Dynamics says its robot dog Spot is used by 60+ US and Canadian bomb squads and SWAT teams, with ~2K units deployed globally, five years after its debut &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/251119/p10#a251119p10)
- - [Fortnite is getting Unity games](https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg)
- - [A look at Huawei&#39;s efforts to build an independent Chinese chip supply chain; through vehicles like Hubble, it has invested in 60+ chip companies since 2019 &lpar;Itsuro Fujino/Nikkei Asia&rpar;](http://www.techmeme.com/251119/p9#a251119p9)<!-- TECH:END -->
+ - [Boston Dynamics says its robot dog Spot is used by 60+ US and Canadian bomb squads and SWAT teams, with ~2K units deployed globally, five years after its debut &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/251119/p10#a251119p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

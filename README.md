@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [How f**k up you are](http://9gag.com/gag/a0eDv3L)
  - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
  - 💣 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 😝 [Go back. Change history.](http://9gag.com/gag/ayNm5rM)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
 
 ---
 

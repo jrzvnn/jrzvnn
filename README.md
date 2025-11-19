@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Guardio, which helps detect malicious code created with AI tools, raised $80M led by ION Crossover, and says it has 500K paying users and $100M in ARR in 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p29#a251119p29)
+ - [This viral AI pen didn&amp;#8217;t help me cheat](https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests)
  - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2025&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
  - [Demonschool channels Buffy and Persona for delightfully demonic RPG action](https://www.theverge.com/games-review/770090/demonschool-review-switch-xbox-ps5)
- - [The US Will Prioritize Visa Processing for Fans With World Cup Tickets](https://www.wired.com/story/the-us-will-prioritize-visa-processing-for-fans-with-world-cup-tickets/)
- - [Upgrade your daily routine with the 2025 App Store finalists](https://appleinsider.com/articles/25/11/19/upgrade-your-daily-routine-with-the-2025-app-store-finalists?utm_source=rss)
- - [Vasco Translator Q1 Review: Cloning Your Voice](https://www.wired.com/review/vasco-translator-q1/)<!-- TECH:END -->
+ - [The US Will Prioritize Visa Processing for Fans With World Cup Tickets](https://www.wired.com/story/the-us-will-prioritize-visa-processing-for-fans-with-world-cup-tickets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

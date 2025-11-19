@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
- - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
- - 💣 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
- - 😝 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
- - 👉 [Hope](http://9gag.com/gag/aqyV4Q7)<!-- MEMES:END -->
+ - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 😝 [Click it out you&#39;re geh](http://9gag.com/gag/aPAVwWR)
+ - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---
 

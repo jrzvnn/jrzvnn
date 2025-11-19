@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
- - 😝 [Hope](http://9gag.com/gag/aqyV4Q7)
- - 💣 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
- - 😝 [Laptop prices in 1989](http://9gag.com/gag/aXPmbE2)
- - 👉 [This is how you do a ventriloquist act](http://9gag.com/gag/aE0jdLp)<!-- MEMES:END -->
+ - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 💣 [\u201cEncephalitis lethargica remains one of the most haunting medical mysteries of the twentieth century, a disease that swept across the world and then vanished as suddenly as it appeared.\u201d](http://9gag.com/gag/azxvgMq)
+ - 😝 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
+ - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---
 

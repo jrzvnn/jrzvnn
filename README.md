@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google DeepMind plans to open an AI research lab in Singapore, collaborating with institutions across the Asia-Pacific in education, public services, and more &lpar;Lila Ibrahim/Google DeepMind&rpar;](http://www.techmeme.com/251118/p59#a251118p59)
  - [iPadOS 26: How to use Quick Notes or take a screenshot with a swipe](https://appleinsider.com/inside/ipados-26/tips/ipados-26-how-to-use-quick-notes-or-take-a-screenshot-with-a-swipe?utm_source=rss)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-19/#ftag=CAD590a51e)
  - [A look at Inception Point AI, whose podcast network makes 3,000 AI-made podcasts per week and has 400K subs; an episode needs only 20 listeners to turn a profit &lpar;Tess Patton/The Wrap&rpar;](http://www.techmeme.com/251118/p58#a251118p58)
- - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)
- - [HidrateSpark Pro 2 review: motivational drinking with lights, chimes, &amp; Find My](https://appleinsider.com/articles/25/11/19/hidratespark-pro-2-review-motivational-drinking-with-lights-chimes-find-my?utm_source=rss)<!-- TECH:END -->
+ - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A new bipartisan Senate bill amends Section 230 to make commercial social media platforms responsible if their recommendation systems cause foreseeable harms &lpar;Lauren Feiner/The Verge&rpar;](http://www.techmeme.com/251119/p33#a251119p33)
+ - [BOE takes another hit, iPhone 17 screen orders shifted to Samsung](https://appleinsider.com/articles/25/11/19/boe-takes-another-hit-iphone-17-screen-orders-shifted-to-samsung?utm_source=rss)
  - [3 Best Hall Effect Keyboards for Gamers and Serious Typists &lpar;2025&rpar;](https://www.wired.com/gallery/best-hall-effect-keyboards/)
  - [Half-baked constant cookie requests mandated by EU may be getting cut way back](https://appleinsider.com/articles/25/11/19/half-baked-constant-cookie-requests-mandated-by-eu-may-be-getting-cut-way-back?utm_source=rss)
- - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)
- - [Lawmakers want to let users sue over harmful social media algorithms](https://www.theverge.com/policy/824054/algorithm-accountability-act-section-230)
- - [Apple attacks Which&#39;s lawsuit backer in $2 billion UK App Store hearing](https://appleinsider.com/articles/25/11/19/apple-attacks-whichs-lawsuit-backer-in-2-billion-uk-app-store-hearing?utm_source=rss)<!-- TECH:END -->
+ - [The Verge’s 2025 holiday gift guide for tinkerers](https://www.theverge.com/tech/800444/best-tool-gift-ideas-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

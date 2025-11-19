@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 💣 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 😝 [And they listen to them](http://9gag.com/gag/a1m8AO6)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [The sheer confidence is insane](http://9gag.com/gag/aLnOKBW)
+ - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
+ - 💣 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPadOS 26: How to use Quick Notes or take a screenshot with a swipe](https://appleinsider.com/inside/ipados-26/tips/ipados-26-how-to-use-quick-notes-or-take-a-screenshot-with-a-swipe?utm_source=rss)
+ - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 19](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-19/#ftag=CAD590a51e)
  - [A look at Inception Point AI, whose podcast network makes 3,000 AI-made podcasts per week and has 400K subs; an episode needs only 20 listeners to turn a profit &lpar;Tess Patton/The Wrap&rpar;](http://www.techmeme.com/251118/p58#a251118p58)
  - [Cloudflare explains Tuesday’s outage that temporarily took down ChatGPT](https://www.theverge.com/news/823711/cloudflare-outage-postmortem)
- - [HidrateSpark Pro 2 review: motivational drinking with lights, chimes, &amp; Find My](https://appleinsider.com/articles/25/11/19/hidratespark-pro-2-review-motivational-drinking-with-lights-chimes-find-my?utm_source=rss)
- - [Waymo Is Going Fully Autonomous in 5 New Cities. Everything to Know About the Robotaxi](https://www.cnet.com/roadshow/news/waymo-is-going-fully-autonomous-in-five-new-cities-everything-to-know-about-the-robotaxi/#ftag=CAD590a51e)
- - [In a lawsuit, US-based TP-Link says Netgear orchestrated a smear campaign by planting false claims with journalists and influencers about TP-Link&#39;s China ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p57#a251118p57)<!-- TECH:END -->
+ - [HidrateSpark Pro 2 review: motivational drinking with lights, chimes, &amp; Find My](https://appleinsider.com/articles/25/11/19/hidratespark-pro-2-review-motivational-drinking-with-lights-chimes-find-my?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU&#39;s General Court dismisses Amazon&#39;s request to remove its designation as a Very Large Online Platform under the DSA; platforms with 45M+ users qualify &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p21#a251119p21)
- - [Crypto miners like IREN are pivoting to AI data centers amid the AI boom; IREN&#39;s stock, down to ~$1 in 2022, is up 300% in 2025, giving it a $13B+ market cap &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p20#a251119p20)
- - [The ‘Great Meme Reset’ Is Coming](https://www.wired.com/story/the-great-meme-reset-is-coming/)
- - [Missing Launchpad in MacOS 26? Here&#39;s How to Bring It Back](https://www.wired.com/story/how-to-bring-back-launchpad-in-macos/)
- - [NetEase says 2M+ people played martial arts game Where the Winds Meet in the 24 hours after its global release, as Chinese companies&#39; cultural influence expands &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251119/p19#a251119p19)<!-- TECH:END -->
+ - [Sources: Adobe nears a $1.9B deal to acquire NYSE-listed Semrush, which helps companies run search engine optimization as AI use increases, paying $12 per share &lpar;Lauren Thomas/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p24#a251119p24)
+ - [Meta&#39;s win over the US FTC may mean Meta, Google, Microsoft, and others can resume buying startups to stay ahead of the pack, after a slowdown under Lina Khan &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p23#a251119p23)
+ - [WIRED’s Best E-Readers, Tested and Reviewed &lpar;2025&rpar;: Kobo, Kindle, Boox](https://www.wired.com/gallery/best-ereaders/)
+ - [Larry Summers and OpenAI say he has resigned from the OpenAI board, after a US House committee released his emails with Jeffrey Epstein &lpar;Ben Berkowitz/Axios&rpar;](http://www.techmeme.com/251119/p22#a251119p22)
+ - [Don&#39;t Buy a Galaxy S25 Ultra for Black Friday. Here Are 3 Reasons Why](https://www.cnet.com/tech/mobile/dont-buy-a-galaxy-s25-ultra-for-black-friday-here-are-3-reasons-why/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

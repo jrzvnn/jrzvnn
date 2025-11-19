@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia reports Q3 revenue up 62% YoY to $57.01B, vs. $54.92B est., Data Center revenue up 66% to $51.2B, and net income up 65% to $31.9B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251119/p51#a251119p51)
+ - [The US, the UK, and Australia sanction Russian bulletproof hosting provider Media Land, which provided services to cybercrime marketplaces and ransomware groups &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251119/p50#a251119p50)
  - [Sources: key White House officials are pressing lawmakers on Capitol Hill to keep AI chip export restrictions to China out of the annual defense policy bill &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251119/p49#a251119p49)
  - [Amazon launches a Video Recaps feature on Prime Video that uses AI to summarize a show&#39;s key plot points with snippets and music, available in beta for US users &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251119/p48#a251119p48)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [Yann LeCun is departing Meta; sources: Meta plans to partner with LeCun on his new startup, which will be focused on world models &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p47#a251119p47)
- - [I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600](https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale)<!-- TECH:END -->
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix signs a three year deal to stream MLB live events and games](https://www.theverge.com/news/824513/mlb-netflix-nbc-peacock-espn)
- - [Sources: the US Commerce Department plans to approve the sale of up to 35K of Nvidia&#39;s GB300 servers or their equivalents to G42 and Humain each &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251119/p53#a251119p53)
- - [Yeti Vs Host Modern: Which Insulated Serving Dishes Are the Best?](https://www.wired.com/story/the-best-insulated-serving-dishes-for-your-next-dinner-party/)
- - [Sources: ID verification startup Incode is in preliminary talks to raise between $150M and $300M at a valuation of up to $3B, up from a $1.25B valuation in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p52#a251119p52)
- - [Nvidia says its AI GPUs are sold out, grows data center business by $10B in a single quarter](https://www.theverge.com/tech/824111/nvidia-q3-2026-earnings-data-center-revenue)<!-- TECH:END -->
+ - [Apple TV will offer Friday Night Baseball through 2028, contrary to rumors](https://appleinsider.com/articles/25/11/19/apple-tv-will-offer-friday-night-baseball-through-2028-contrary-to-rumors?utm_source=rss)
+ - [Google DeepMind Hires Former CTO of Boston Dynamics as the Company Pushes Deeper Into Robotics](https://www.wired.com/story/google-hires-cto-boston-dynamics-demis-hassabis-android/)
+ - [Here’s the Trump executive order that would ban state AI laws](https://www.theverge.com/ai-artificial-intelligence/824608/trump-executive-order-ai-state-laws)
+ - [The Zelos-450 Pellet Grill Has Features Missing on Grills Triple Its Price](https://www.wired.com/story/an-ai-enabled-pellet-grill-is-a-dumb-idea-buy-this-one-anyway/)
+ - [The best iPhones](https://www.theverge.com/23618862/best-iphone-camera-battery-screen-guide)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

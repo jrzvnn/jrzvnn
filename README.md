@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: key White House officials are pressing lawmakers on Capitol Hill to keep AI chip export restrictions to China out of the annual defense policy bill &lpar;Maria Curi/Axios&rpar;](http://www.techmeme.com/251119/p49#a251119p49)
+ - [Amazon launches a Video Recaps feature on Prime Video that uses AI to summarize a show&#39;s key plot points with snippets and music, available in beta for US users &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/251119/p48#a251119p48)
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
  - [Yann LeCun is departing Meta; sources: Meta plans to partner with LeCun on his new startup, which will be focused on world models &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p47#a251119p47)
- - [I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600](https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale)
- - [Nokia unveils a new strategy, including plans to split its high-growth AI operations into a separate unit from its telecoms business; Nokia&#39;s shares fall 7% &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251119/p46#a251119p46)
- - [Investors pulled $523M from BlackRock&#39;s IBIT bitcoin ETF on Tuesday, its largest single-day outflow since launch; BTC fell ~30% from its October all-time high &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251119/p45#a251119p45)
- - [This Excellent LG OLED Is Deeply Discounted Before Black Friday](https://www.wired.com/story/lg-b5-oled-deal-1125/)<!-- TECH:END -->
+ - [I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600](https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

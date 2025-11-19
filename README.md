@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 💣 [Is it true?](http://9gag.com/gag/aE0yexp)
- - 😝 [Laptop prices in 1989](http://9gag.com/gag/aXPmbE2)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [Kitten finds out that human is friend](http://9gag.com/gag/aPAVwQP)
+ - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
+ - 💣 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
+ - 😝 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
+ - 👉 [Hope](http://9gag.com/gag/aqyV4Q7)<!-- MEMES:END -->
 
 ---
 

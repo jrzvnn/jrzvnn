@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You can only see it once](http://9gag.com/gag/awy90m1)
- - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
- - 💣 [How f**k up you are](http://9gag.com/gag/a0eDv3L)
+ - 😝 [I lost](http://9gag.com/gag/aByjDox)
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 💣 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
  - 😝 [What if you miss it?](http://9gag.com/gag/a5QvLDL)
- - 👉 [She&#39;s met her match](http://9gag.com/gag/abALX0O)<!-- MEMES:END -->
+ - 👉 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)<!-- MEMES:END -->
 
 ---
 

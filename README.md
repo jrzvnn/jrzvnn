@@ -166,7 +166,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not again!](http://9gag.com/gag/aZZ4qBp)
+ - 😝 [Lmfao these people..what&#39;s the manager gonna do? Give him a timeout? Ground him?](http://9gag.com/gag/aXPm0Ng)
  - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
  - 💣 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
  - 😝 [Go back. Change history.](http://9gag.com/gag/ayNm5rM)

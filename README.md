@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M5 MacBook Pro is on sale for record low $1,447, plus save up to $500](https://appleinsider.com/articles/25/11/19/apples-m5-macbook-pro-is-on-sale-for-record-low-1447-plus-save-up-to-500?utm_source=rss)
- - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)
- - [xAI&#39;s Grok 4.1 tops benchmarks in emotional intelligence, while its model card also shows a marked increase in sycophancy compared to Grok 4 &lpar;Christopher Ort/i10X&rpar;](http://www.techmeme.com/251119/p3#a251119p3)
- - [Surfshark Promo Codes: 87% Off | November 2025](https://www.wired.com/story/surfshark-coupon/)
- - [Meross’ radar presence sensor ditches the cord and adds Matter-over-Thread support](https://www.theverge.com/news/823265/meross-matter-thread-smart-presence-sensor-ms605-radar-mmwave)<!-- TECH:END -->
+ - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
+ - [TikTok is rolling out new digital well-being features like an affirmation journal and says it will also give users badges for limiting their daily screen time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p4#a251119p4)
+ - [Exclusive Shed Rain Coupon: 15% Off](https://www.wired.com/story/shed-rain-coupon/)
+ - [TopResume Free Review, Discounts &amp; Packages for November 2025](https://www.wired.com/story/topresume-discount-code/)
+ - [Apple&#39;s M5 MacBook Pro is on sale for record low $1,447, plus save up to $500](https://appleinsider.com/articles/25/11/19/apples-m5-macbook-pro-is-on-sale-for-record-low-1447-plus-save-up-to-500?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

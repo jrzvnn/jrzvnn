@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yann LeCun is departing Meta; sources: Meta plans to partner with LeCun on his new startup, which will be focused on world models &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p47#a251119p47)
+ - [I’m out of reasons to recommend Apple’s M1 MacBook Air, even at $600](https://www.theverge.com/gadgets/824237/m4-macbook-air-apple-m1-laptop-black-friday-deal-sale)
  - [Nokia unveils a new strategy, including plans to split its high-growth AI operations into a separate unit from its telecoms business; Nokia&#39;s shares fall 7% &lpar;Kieran Smith/Financial Times&rpar;](http://www.techmeme.com/251119/p46#a251119p46)
  - [Investors pulled $523M from BlackRock&#39;s IBIT bitcoin ETF on Tuesday, its largest single-day outflow since launch; BTC fell ~30% from its October all-time high &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251119/p45#a251119p45)
- - [This Excellent LG OLED Is Deeply Discounted Before Black Friday](https://www.wired.com/story/lg-b5-oled-deal-1125/)
- - [The 53 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
- - [Sources: Coinbase is preparing to launch a prediction market powered by Kalshi to allow its clients to bet on events such as elections and sports &lpar;Yueqi Yang/The Information&rpar;](http://www.techmeme.com/251119/p44#a251119p44)<!-- TECH:END -->
+ - [This Excellent LG OLED Is Deeply Discounted Before Black Friday](https://www.wired.com/story/lg-b5-oled-deal-1125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

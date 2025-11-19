@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
  - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
- - 💣 [Family brings home an orange kitten to help mother cat heal after losing her kitten](http://9gag.com/gag/aZZ4b56)
- - 😝 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
- - 👉 [Hope](http://9gag.com/gag/aqyV4Q7)<!-- MEMES:END -->
+ - 💣 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
+ - 😝 [Hope](http://9gag.com/gag/aqyV4Q7)
+ - 👉 [Family brings home an orange kitten to help mother cat heal after losing her kitten](http://9gag.com/gag/aZZ4b56)<!-- MEMES:END -->
 
 ---
 

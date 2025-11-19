@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Who knew static electricity could be so useful](http://9gag.com/gag/a6Zer0N)
- - 😝 [The Look](http://9gag.com/gag/aD2qAw9)
- - 💣 [I don&#39;t understand a word he&#39;s saying, but I think I know what he means....](http://9gag.com/gag/abALXGr)
- - 😝 [Hope](http://9gag.com/gag/aqyV4Q7)
- - 👉 [Family brings home an orange kitten to help mother cat heal after losing her kitten](http://9gag.com/gag/aZZ4b56)<!-- MEMES:END -->
+ - 😝 [Not again!](http://9gag.com/gag/aZZ4qBp)
+ - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 💣 [I lost](http://9gag.com/gag/aByjDox)
+ - 😝 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)
+ - 👉 [Circa 2005 , this movie genuinely ruin my expectations going forward in life..](http://9gag.com/gag/an70e5V)<!-- MEMES:END -->
 
 ---
 

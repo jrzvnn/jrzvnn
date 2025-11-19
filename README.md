@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251119/p38#a251119p38)
- - [Perplexity plans to roll out a free agentic shopping product for US users next week in partnership with PayPal &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p37#a251119p37)
- - [Prime Video&#39;s New Recap Feature Aims to Be Your Best Friend for Catching Up](https://www.cnet.com/tech/services-and-software/prime-videos-new-recap-feature-aims-to-be-your-best-friend-for-catching-up/#ftag=CAD590a51e)
- - [Elon Musk says xAI plans to develop a 500 megawatt data center in Saudi Arabia with state-backed AI startup Humain; the data center will rely on Nvidia chips &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/251119/p36#a251119p36)
- - [Meta release SAM 3, a model for detection, segmentation, and tracking of objects in images and video, and SAM 3D, which can reconstruct objects and humans in 3D &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251119/p35#a251119p35)<!-- TECH:END -->
+ - [Apple attacks Which&#39;s lawsuit backer in $2 billion UK App Store hearing](https://appleinsider.com/articles/25/11/19/apple-attacks-whichs-lawsuit-backer-in-2-billion-uk-app-store-hearing?utm_source=rss)
+ - [AI video startup Luma AI raised a $900M Series C led by Humain, sources say at a ~$4B valuation, and partners with Humain on a 2GW AI cluster in Saudi Arabia &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/251119/p40#a251119p40)
+ - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)
+ - [Doppel, which makes an AI social engineering detection service, raised a $70M Series C led by Bessemer at a $600M+ valuation, up from $205M in May &lpar;Allie Garfinkle/Fortune&rpar;](http://www.techmeme.com/251119/p39#a251119p39)
+ - [Sources: Warner Music settles its suit with AI startup Udio, which is planning a service that lets users create songs from licensed tracks of artists who opt-in &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251119/p38#a251119p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

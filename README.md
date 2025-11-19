@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Dutch government suspends its powers over chipmaker Nexperia, restoring control to its Chinese owner; a Dutch minister says the move is &quot;a show of goodwill&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p11#a251119p11)
+ - [Boston Dynamics says its robot dog Spot is used by 60+ US and Canadian bomb squads and SWAT teams, with ~2K units deployed globally, five years after its debut &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/251119/p10#a251119p10)
+ - [Fortnite is getting Unity games](https://www.theverge.com/report/823233/fortnite-epic-games-unity-creators-developers-tim-sweeney-matt-bromberg)
  - [A look at Huawei&#39;s efforts to build an independent Chinese chip supply chain; through vehicles like Hubble, it has invested in 60+ chip companies since 2019 &lpar;Itsuro Fujino/Nikkei Asia&rpar;](http://www.techmeme.com/251119/p9#a251119p9)
- - [A look at Tsinghua University, which leads China&#39;s AI innovation, with 4,986 AI patents between 2005 and 2024, alumni behind startups like DeepSeek, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251119/p8#a251119p8)
- - [As TSMC readies its €10B Germany plant for 2027, its Taiwanese suppliers say they&#39;re struggling with the EU&#39;s complex permitting, labor, and environmental rules &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p7#a251119p7)
- - [10% Off Canon Promo Codes | November 2025](https://www.wired.com/story/canon-promo-code/)
- - [Atomico: European startups are on track to raise $44B in 2025, up from $41B in 2024; tech now makes up 15% of Europe&#39;s GDP, up from 4% in 2016 &lpar;Kai Nicol-Schwarz/Sifted&rpar;](http://www.techmeme.com/251119/p6#a251119p6)<!-- TECH:END -->
+ - [A look at Tsinghua University, which leads China&#39;s AI innovation, with 4,986 AI patents between 2005 and 2024, alumni behind startups like DeepSeek, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251119/p8#a251119p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brookfield Asset Management is targeting $10B for its new AI infrastructure fund and has already raised $5B from its balance sheet, Nvidia, and other investors &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p5#a251119p5)
+ - [30% Off Tempur-Pedic Promo Codes | November 2025](https://www.wired.com/story/tempur-pedic-promo-code/)
  - [Purple Promo Codes and Deals: Up to 30% Off](https://www.wired.com/story/purple-promo-code/)
  - [TikTok is rolling out new digital well-being features like an affirmation journal and says it will also give users badges for limiting their daily screen time &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p4#a251119p4)
- - [Exclusive Shed Rain Coupon: 15% Off](https://www.wired.com/story/shed-rain-coupon/)
- - [TopResume Free Review, Discounts &amp; Packages for November 2025](https://www.wired.com/story/topresume-discount-code/)
- - [Apple&#39;s M5 MacBook Pro is on sale for record low $1,447, plus save up to $500](https://appleinsider.com/articles/25/11/19/apples-m5-macbook-pro-is-on-sale-for-record-low-1447-plus-save-up-to-500?utm_source=rss)<!-- TECH:END -->
+ - [Exclusive Shed Rain Coupon: 15% Off](https://www.wired.com/story/shed-rain-coupon/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

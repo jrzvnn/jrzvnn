@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto miners like IREN are pivoting to AI data centers amid the AI boom; IREN&#39;s stock, down to ~$1 in 2022, is up 300% in 2025, giving it a $13B+ market cap &lpar;Jennifer Hiller/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p20#a251119p20)
+ - [The ‘Great Meme Reset’ Is Coming](https://www.wired.com/story/the-great-meme-reset-is-coming/)
+ - [Missing Launchpad in MacOS 26? Here&#39;s How to Bring It Back](https://www.wired.com/story/how-to-bring-back-launchpad-in-macos/)
  - [NetEase says 2M+ people played martial arts game Where the Winds Meet in the 24 hours after its global release, as Chinese companies&#39; cultural influence expands &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/251119/p19#a251119p19)
- - [Epic Games partners with Unity to bring games made with Unity Engine to Fortnite in 2026, part of Epic&#39;s longterm vision to make Fortnite into an open metaverse &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251119/p18#a251119p18)
- - [Cancelled &#39;Time Bandits&#39; tops Children&#39;s Emmy nominations](https://appleinsider.com/articles/25/11/19/cancelled-time-bandits-tops-childrens-emmy-nominations?utm_source=rss)
- - [FTC v. Meta: TikTok&#39;s rise undermined the FTC&#39;s antitrust case and helped Meta avoid a breakup; Judge Boasberg said the tech landscape has &quot;changed markedly&quot; &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p17#a251119p17)
- - [Kuaishou reports Q3 revenue up 14% YoY to ~$5B and net profit up 37% YoY to ~$632M, above ~$588M est., driven by ad growth and its Kling AI video generator &lpar;Sherry Qin/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p16#a251119p16)<!-- TECH:END -->
+ - [This 3-Port Anker Charger Is $38 Off for Black Friday and Solves All Your Outlet Troubles](https://www.cnet.com/deals/this-3-port-anker-charger-is-38-off-for-black-friday-and-solves-all-your-outlet-troubles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

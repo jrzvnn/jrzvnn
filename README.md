@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney loses bid to block Sling TV’s one-day cable passes](https://www.theverge.com/news/824017/disney-sling-tv-cable-passes-block-denied)
+ - [Crypto exchange Kraken says it confidentially filed for a US IPO, without revealing any terms; Kraken said it raised $200M at a $20B valuation on November 18 &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/251119/p30#a251119p30)
+ - [19 Best Mac Accessories &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-mac-accessories/)
  - [Guardio, which helps detect malicious code created with AI tools, raised $80M led by ION Crossover, and says it has 500K paying users and $100M in ARR in 2025 &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251119/p29#a251119p29)
- - [This viral AI pen didn&amp;#8217;t help me cheat](https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests)
- - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2025&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
- - [Demonschool channels Buffy and Persona for delightfully demonic RPG action](https://www.theverge.com/games-review/770090/demonschool-review-switch-xbox-ps5)
- - [The US Will Prioritize Visa Processing for Fans With World Cup Tickets](https://www.wired.com/story/the-us-will-prioritize-visa-processing-for-fans-with-world-cup-tickets/)<!-- TECH:END -->
+ - [This viral AI pen didn&amp;#8217;t help me cheat](https://www.theverge.com/report/822151/ai-smart-pen-for-cheating-tests)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

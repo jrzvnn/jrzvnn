@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
  - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 💣 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)
- - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 💣 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
+ - 😝 [This just in!!! &lpar;probably from years ago&rpar;](http://9gag.com/gag/avyB0bq)
  - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---

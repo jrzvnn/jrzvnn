@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An ingenious Apple Service hoax is convincing users their account is under attack](https://appleinsider.com/articles/25/11/19/an-ingenious-apple-service-hoax-is-convincing-users-their-account-is-under-attack?utm_source=rss)
+ - [OpenAI unveils GPT-5.1-Codex-Max, saying it is &quot;significantly better&quot; at &quot;long-horizon reasoning&quot; and is the first model it has trained for Windows environments &lpar;David Gewirtz/ZDNET&rpar;](http://www.techmeme.com/251119/p42#a251119p42)
+ - [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
  - [The Biggest AI Companies Met to Find a Better Path for Chatbot Companions](https://www.wired.com/story/the-biggest-ai-companies-met-to-find-a-better-path-for-chatbot-companions/)
- - [The US Needs an Open Source AI Intervention to Beat China](https://www.wired.com/story/us-needs-open-source-ai-model-intervention-china/)
- - [Future Google TV devices might come with a solar-powered remote](https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics)
- - [OpenAI announces ChatGPT for Teachers, designed for K-12 educators and school districts, and says it will be free to K-12 educators in the US through June 2027 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p41#a251119p41)
- - [Best Peloton Alternatives if You’re Looking for Other Solid Choices](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Needs an Open Source AI Intervention to Beat China](https://www.wired.com/story/us-needs-open-source-ai-model-intervention-china/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

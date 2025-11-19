@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Biggest AI Companies Met to Find a Better Path for Chatbot Companions](https://www.wired.com/story/the-biggest-ai-companies-met-to-find-a-better-path-for-chatbot-companions/)
+ - [The US Needs an Open Source AI Intervention to Beat China](https://www.wired.com/story/us-needs-open-source-ai-model-intervention-china/)
  - [Future Google TV devices might come with a solar-powered remote](https://www.theverge.com/news/824255/google-tv-reference-remote-solar-power-epishine-ohsung-electronics)
  - [OpenAI announces ChatGPT for Teachers, designed for K-12 educators and school districts, and says it will be free to K-12 educators in the US through June 2027 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251119/p41#a251119p41)
- - [Apple attacks Which&#39;s lawsuit backer in $2 billion UK App Store hearing](https://appleinsider.com/articles/25/11/19/apple-attacks-whichs-lawsuit-backer-in-2-billion-uk-app-store-hearing?utm_source=rss)
- - [AI video startup Luma AI raised a $900M Series C led by Humain, sources say at a ~$4B valuation, and partners with Humain on a 2GW AI cluster in Saudi Arabia &lpar;Vaibhavi Khanwalkar/The Economic Times&rpar;](http://www.techmeme.com/251119/p40#a251119p40)
- - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)<!-- TECH:END -->
+ - [Best Peloton Alternatives if You’re Looking for Other Solid Choices](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

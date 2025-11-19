@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Gifts for Hikers, Backpackers, Outdoorsy People &lpar;2025&rpar;](https://www.wired.com/gallery/awesome-gifts-for-hikers-backpackers-and-outdoorsy-people/)
+ - [Demonschool channels Buffy and Persona for delightfully demonic RPG action](https://www.theverge.com/games-review/770090/demonschool-review-switch-xbox-ps5)
+ - [The US Will Prioritize Visa Processing for Fans With World Cup Tickets](https://www.wired.com/story/the-us-will-prioritize-visa-processing-for-fans-with-world-cup-tickets/)
  - [Upgrade your daily routine with the 2025 App Store finalists](https://appleinsider.com/articles/25/11/19/upgrade-your-daily-routine-with-the-2025-app-store-finalists?utm_source=rss)
- - [Vasco Translator Q1 Review: Cloning Your Voice](https://www.wired.com/review/vasco-translator-q1/)
- - [Porsche Reveals Everything About Its Cayenne Electric—Except for One Vital Thing](https://www.wired.com/story/porsche-reveals-everything-about-its-cayenne-electric-apart-from-one-vital-thing/)
- - [Porsche crowns Cayenne Electric ‘most powerful production Porsche of all time’](https://www.theverge.com/news/823329/porsche-cayenne-electric-turbo-specs-price-range)
- - [Adobe to acquire digital marketing platform Semrush for $1.9 billion](https://www.theverge.com/news/823887/adobe-semrush-acquisition-digital-marketing)<!-- TECH:END -->
+ - [Vasco Translator Q1 Review: Cloning Your Voice](https://www.wired.com/review/vasco-translator-q1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

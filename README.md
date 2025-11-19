@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple deals worth shopping before Black Friday &lpar;and the discounts to expect&rpar;](https://www.theverge.com/tech/821484/black-friday-best-early-apple-deals-2025)
- - [Republicans are looking for a way to bring back the AI moratorium](https://www.theverge.com/policy/823650/ai-moratorium-house-gop-scalise)
- - [Trump says the US needs a &quot;Federal Standard&quot; governing oversight of AI instead of &quot;a patchwork of 50 State Regulatory Regimes&quot;, otherwise China will catch up &lpar;Kate Sullivan/Bloomberg&rpar;](http://www.techmeme.com/251118/p54#a251118p54)
- - [Soumith Chintala, who co-created the PyTorch ML framework at Meta and left the company this month, has joined Mira Murati&#39;s Thinking Machines Lab &lpar;Pranav Dixit/Business Insider&rpar;](http://www.techmeme.com/251118/p53#a251118p53)
- - [Apple&#39;s Magic Keyboard and Magic Trackpad get firmware updates](https://appleinsider.com/articles/25/11/18/apples-magic-keyboard-and-magic-trackpad-get-firmware-updates?utm_source=rss)<!-- TECH:END -->
+ - [In a lawsuit, California-based TP-Link says Netgear orchestrated a smear by planting false claims with journalists and influencers about TP-Link&#39;s China ties &lpar;Bloomberg&rpar;](http://www.techmeme.com/251118/p57#a251118p57)
+ - [Cloudflare says the November 18 outage was caused by a change to one of its &quot;database systems&#39; permissions&quot;, not by &quot;malicious activity of any kind&quot; &lpar;Matthew Prince/Cloudflare&rpar;](http://www.techmeme.com/251118/p56#a251118p56)
+ - [Anthropic&#39;s Claude Sonnet 4.5, Haiku 4.5, and Opus 4.1 are now available in public preview in Microsoft Foundry for Azure customers &lpar;Anthropic&rpar;](http://www.techmeme.com/251118/p55#a251118p55)
+ - [The best Android phones](https://www.theverge.com/23674658/best-android-phone)
+ - [EA will skip next year&amp;#8217;s F1 game and release update DLC instead](https://www.theverge.com/news/823675/ea-f1-25-2026-2027-dlc-expansion-update-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 😝 [I lost](http://9gag.com/gag/aByjDox)
+ - 😝 [First look at Link and Zelda.](http://9gag.com/gag/adBr33d)
  - 💣 [\u201cEncephalitis lethargica remains one of the most haunting medical mysteries of the twentieth century, a disease that swept across the world and then vanished as suddenly as it appeared.\u201d](http://9gag.com/gag/azxvgMq)
- - 😝 [Laptop prices in 1989](http://9gag.com/gag/aXPmbE2)
+ - 😝 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
  - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---

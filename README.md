@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [CEIP study: 87 of the top 100 Chinese AI researchers who were working in the US in 2019 are still doing research at US universities or companies in 2025 &lpar;New York Times&rpar;](http://www.techmeme.com/251119/p14#a251119p14)
  - [AI, my unexpected daily travel companion](https://www.theverge.com/report/823725/vanlife-ai-travel-planner-google-zero)
  - [UK bank Lloyds agrees to acquire UK startup Curve, which offers digital wallets, in a deal set to close in H1 2026; Sky News reported Lloyds is set to pay £120M &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/251119/p13#a251119p13)
  - [Fox News hires Palantir to build tools that help journalists produce stories across Fox platforms and social media; Fox won&#39;t use AI to generate editorial copy &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251119/p12#a251119p12)
- - [The Dutch government suspends its powers over chipmaker Nexperia, restoring control to its Chinese owner; a Dutch minister says the move is &quot;a show of goodwill&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p11#a251119p11)
- - [Boston Dynamics says its robot dog Spot is used by 60+ US and Canadian bomb squads and SWAT teams, with ~2K units deployed globally, five years after its debut &lpar;Samantha Kelly/Bloomberg&rpar;](http://www.techmeme.com/251119/p10#a251119p10)<!-- TECH:END -->
+ - [The Dutch government suspends its powers over chipmaker Nexperia, restoring control to its Chinese owner; a Dutch minister says the move is &quot;a show of goodwill&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/251119/p11#a251119p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

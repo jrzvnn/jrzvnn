@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Why bother anymore?](http://9gag.com/gag/aMV01O1)
  - 😝 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
- - 💣 [Spooky Ride](http://9gag.com/gag/a4PB4qv)
- - 😝 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
+ - 😝 [The `Superbowl Streaker` was a Las Vegas local who placed a bet that there would be a streaker during Super Bowl LV, he ran on the field by himself and cashed out with $374,000 and a $1000 fine](http://9gag.com/gag/ayNm7yy)
+ - 💣 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
+ - 😝 [Weasels](http://9gag.com/gag/a6ZedOR)
  - 👉 [Another wife to the college](http://9gag.com/gag/aLnO63A)<!-- MEMES:END -->
 
 ---

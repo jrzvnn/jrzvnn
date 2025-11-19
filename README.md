@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
- - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
- - 💣 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 😝 [This just in!!! &lpar;probably from years ago&rpar;](http://9gag.com/gag/avyB0bq)
+ - 😝 [Laptop prices in 1989](http://9gag.com/gag/aXPmbE2)
+ - 😝 [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
+ - 💣 [Didn&#39;t realise how much force a bumble bee&#39;s wings produced until now.](http://9gag.com/gag/adBWNxV)
+ - 😝 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
  - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
 
 ---

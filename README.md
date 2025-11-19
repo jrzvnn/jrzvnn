@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cook controversially dines with Saudi Crown Prince at White House](https://appleinsider.com/articles/25/11/19/cook-controversially-dines-with-saudi-crown-prince-at-white-house?utm_source=rss)
- - [Europe&amp;#8217;s cookie nightmare is crumbling](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
- - [Meta warns of significant difficulties in identifying and removing underage users as it prepares for Australia&#39;s under-16 social media ban, set for December 10 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251119/p27#a251119p27)
- - [The EU unveils proposed updates to GDPR, including simplifying cookie permission pop-ups, and plans to water down the AI Act, after US and tech company pressure &lpar;The Verge&rpar;](http://www.techmeme.com/251119/p26#a251119p26)
- - [TikTok is letting users control how much AI content they see](https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics)<!-- TECH:END -->
+ - [Porsche crowns Cayenne Electric ‘most powerful production Porsche of all time’](https://www.theverge.com/news/823329/porsche-cayenne-electric-turbo-specs-price-range)
+ - [Adobe to acquire digital marketing platform Semrush for $1.9 billion](https://www.theverge.com/news/823887/adobe-semrush-acquisition-digital-marketing)
+ - [AI music platform Suno raised $250M led by Menlo Ventures at a $2.45B valuation, up from ~$500M in 2024, and says its annual revenue has reached $200M &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p28#a251119p28)
+ - [Upgrade your daily routine with the 2025 App Store finalists](https://appleinsider.com/articles/25/11/19/upgrade-your-daily-routine-with-the-2025-app-store-finalists?utm_source=rss)
+ - [The 15 Best Soundbars We’ve Tested in 2025: Sonos, Sony, Bose](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

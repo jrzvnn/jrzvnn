@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Cook controversially dines with Saudi Crown Prince at White House](https://appleinsider.com/articles/25/11/19/cook-controversially-dines-with-saudi-crown-prince-at-white-house?utm_source=rss)
  - [Europe&amp;#8217;s cookie nightmare is crumbling](https://www.theverge.com/news/823788/europe-cookie-prompt-browser-changes-proposal)
  - [Meta warns of significant difficulties in identifying and removing underage users as it prepares for Australia&#39;s under-16 social media ban, set for December 10 &lpar;Angus Whitley/Bloomberg&rpar;](http://www.techmeme.com/251119/p27#a251119p27)
- - [Closing Gaps in Health Care: How Inflo Health Is Using AI](https://www.cnet.com/tech/services-and-software/closing-gaps-in-health-care-how-inflo-health-is-using-ai/#ftag=CAD590a51e)
- - [Cloudflare CEO Apologizes for &#39;Unacceptable&#39; Outage and Explains What Went Wrong](https://www.cnet.com/tech/services-and-software/cloudflare-ceo-apologizes-for-unacceptable-outage-and-explains-what-went-wrong/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The EU unveils proposed updates to GDPR, including simplifying cookie permission pop-ups, and plans to water down the AI Act, after US and tech company pressure &lpar;The Verge&rpar;](http://www.techmeme.com/251119/p26#a251119p26)
+ - [TikTok is letting users control how much AI content they see](https://www.theverge.com/news/823775/tiktok-ai-generated-content-controls-manage-topics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

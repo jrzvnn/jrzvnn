@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)
- - 😝 [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
- - 💣 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
- - 😝 [Didn&#39;t realise how much force a bumble bee&#39;s wings produced until now.](http://9gag.com/gag/adBWNxV)
- - 👉 [Core memory with dad created.](http://9gag.com/gag/ayNmEXy)<!-- MEMES:END -->
+ - 😝 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 😝 [Another wife to the college](http://9gag.com/gag/aLnO63A)
+ - 💣 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
+ - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 ---
 

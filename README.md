@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
- - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
- - 😝 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)
- - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
+ - 😝 [This guy got arrested](http://9gag.com/gag/aNDGeoG)
+ - 💣 [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 😝 [So much for Body Positivity\u2122](http://9gag.com/gag/aGyrwZ7)
+ - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 ---
 

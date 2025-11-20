@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Allen Institute for AI, or Ai2, unveils Olmo 3 models that it says outperform open models like Stanford&#39;s Marin and commercial open-weight models like Llama 3.1 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251120/p43#a251120p43)
- - [Amazon is using AI to create video recaps of its biggest streaming shows](https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan)
- - [Pixel 10 phones are now compatible with AirDrop](https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10)
- - [The FCC votes along party lines to repeal a Biden-era cybersecurity rule aimed at preventing intrusions like Salt Typhoon, calling it an ineffective measure &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/251120/p42#a251120p42)
- - [Numeric, which automates accounting workflows, raised a $51M Series B led by IVP, bringing its total funding to $89M, and says OpenAI and Brex are clients &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251120/p41#a251120p41)<!-- TECH:END -->
+ - [The Oura Ring 4 has dropped to its lowest price yet for Black Friday](https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025)
+ - [This Lightweight Laptop Is Almost Half Off](https://www.wired.com/story/asus-zenbook-a14-deal-1125/)
+ - [Source: Twenty, which uses AI to help hackers for the US military penetrate adversary computer networks, raised a $38M Series A led by Caffeinated Capital &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/251120/p44#a251120p44)
+ - [Perplexity brings its Comet browser to Android](https://www.theverge.com/news/825221/perplexity-comet-ai-browser-launch-android)
+ - [Apple&#39;s M4 Mac mini plunges to $479 as Amazon issues Black Friday price drops](https://appleinsider.com/articles/25/11/20/apples-m4-mac-mini-plunges-to-479-as-amazon-issues-black-friday-price-drops?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

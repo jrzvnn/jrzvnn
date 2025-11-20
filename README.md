@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)
+ - [Apple AirPods 4 fall to record low $79.99 during Amazon&#39;s Black Friday sale](https://appleinsider.com/articles/25/11/20/apple-airpods-4-fall-to-record-low-7999-during-amazons-black-friday-sale?utm_source=rss)
+ - [4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)
  - [Grok’s Elon Musk worship is getting weird](https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird)
  - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
- - [Google&amp;#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test)
- - [This Budget-Friendly Laptop Handles AI Like a Pro -- and It’s $250 off During Early Black Friday Sales](https://www.cnet.com/deals/this-budget-friendly-laptop-handles-ai-like-a-pro-and-its-250-off-during-early-black-friday-sales/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google&amp;#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

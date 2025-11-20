@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Got a Pixel 10? Google&#39;s Android Phone Can Now Share Files With Apple&#39;s AirDrop](https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/)
+ - [This Is the Cheapest Way to Create Unlimited AI Images With Google&#39;s New Nano Banana Pro](https://www.cnet.com/tech/services-and-software/this-is-the-cheapest-way-to-create-unlimited-ai-images-with-googles-new-nano-banana-pro/#ftag=CAD590a51e)
  - [The 27 Best Movies on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
  - [You can get up to 30 percent off Sonos speakers and soundbars right now](https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025)
- - [OpenAI is launching group chats in ChatGPT](https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch)
- - [Feds charge four with illegally smuggling Nvidia AI chips to China](https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200)<!-- TECH:END -->
+ - [OpenAI is launching group chats in ChatGPT](https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

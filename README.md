@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 💣 [Irad Cannon used on crowd](http://9gag.com/gag/aYQvpg2)
+ - 😝 [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
+ - 😝 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
+ - 💣 [You can only see it once](http://9gag.com/gag/awy90m1)
  - 😝 [Equality](http://9gag.com/gag/aYQvWYw)
- - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
+ - 👉 [Best Google Doodle ever!](http://9gag.com/gag/aW4eZyq)<!-- MEMES:END -->
 
 ---
 

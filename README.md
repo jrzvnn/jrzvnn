@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Profluent, which wants to use AI for protein design in drug discovery, raised $106M led by Bezos Expeditions and Altimeter, bringing its total funding to $150M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/251120/p46#a251120p46)
+ - [Android Quick Share on Pixel 10 can AirDrop to iPhones](https://appleinsider.com/articles/25/11/20/android-quick-share-on-pixel-10-can-airdrop-to-iphones?utm_source=rss)
  - [OpenAI says GPT-5 has demonstrated the ability to accelerate scientific research workflows but can&#39;t run projects or solve scientific problems autonomously &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/251120/p45#a251120p45)
  - [Windows handhelds are getting the new Xbox Full Screen Experience tomorrow](https://www.theverge.com/news/825405/microsoft-xbox-full-screen-experience-available-windows-handhelds)
- - [The Oura Ring 4 has dropped to its lowest price yet for Black Friday](https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025)
- - [This Lightweight Laptop Is Almost Half Off](https://www.wired.com/story/asus-zenbook-a14-deal-1125/)
- - [Source: Twenty, which uses AI to help hackers for the US military penetrate adversary computer networks, raised a $38M Series A led by Caffeinated Capital &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/251120/p44#a251120p44)<!-- TECH:END -->
+ - [The Oura Ring 4 has dropped to its lowest price yet for Black Friday](https://www.theverge.com/gadgets/825315/oura-ring-4-black-friday-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

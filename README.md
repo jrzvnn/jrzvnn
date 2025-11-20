@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Josh Hawley, Ron DeSantis, Sarah Huckabee Sanders, and other Republicans publicly oppose President Trump&#39;s proposal to restrict US states from regulating AI &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/251120/p15#a251120p15)
  - [As OpenAI commits to spending $1.4T, creating a mesh of complicated deals, the startup does not disclose its auditor, and there is little information online &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/251120/p14#a251120p14)
  - [Windows on Arm is now ready for gaming thanks to some big changes](https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements)
  - [An overview of macro tech trends for 2026, as &quot;AI eats the world&quot;: bubbles, the AI platform shift, Big Tech FOMO, capex, Nvidia, US power backlogs, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/251120/p13#a251120p13)
- - [Letterboxd plans to launch the Letterboxd Video Store, a curated rental platform with undistributed festival standouts, restorations, and more, in December 2025 &lpar;Letterboxd&rpar;](http://www.techmeme.com/251120/p12#a251120p12)
- - [The Pelvic Floor Is a Problem](https://www.wired.com/story/the-pelvic-floor-is-a-problem/)<!-- TECH:END -->
+ - [Can You Tell AI-Generated Music From the Real Thing? Most of Us Can&#39;t](https://www.cnet.com/tech/services-and-software/ai-music-fools-most-people-and-theyre-not-happy-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

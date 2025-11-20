@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gemini 3 is almost as good as Google says it is](https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test)
  - [OpenAI expands group chats in ChatGPT globally to all logged-in users on Free, Go, Plus, and Pro plans, after piloting the feature in select regions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251120/p47#a251120p47)
  - [The music industry is all in on AI](https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner)
  - [Profluent, which wants to use AI for protein design in drug discovery, raised $106M led by Bezos Expeditions and Altimeter, bringing its total funding to $150M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/251120/p46#a251120p46)
- - [Android Quick Share on Pixel 10 can AirDrop to iPhones](https://appleinsider.com/articles/25/11/20/android-quick-share-on-pixel-10-can-airdrop-to-iphones?utm_source=rss)
- - [OpenAI says GPT-5 has demonstrated the ability to accelerate scientific research workflows but can&#39;t run projects or solve scientific problems autonomously &lpar;Radhika Rajkumar/ZDNET&rpar;](http://www.techmeme.com/251120/p45#a251120p45)<!-- TECH:END -->
+ - [Android Quick Share on Pixel 10 can AirDrop to iPhones](https://appleinsider.com/articles/25/11/20/android-quick-share-on-pixel-10-can-airdrop-to-iphones?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

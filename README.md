@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini 3 is almost as good as Google says it is](https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test)
- - [OpenAI expands group chats in ChatGPT globally to all logged-in users on Free, Go, Plus, and Pro plans, after piloting the feature in select regions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/251120/p47#a251120p47)
- - [The music industry is all in on AI](https://www.theverge.com/tech/825382/ai-music-streaming-deal-klay-umg-sony-warner)
- - [Profluent, which wants to use AI for protein design in drug discovery, raised $106M led by Bezos Expeditions and Altimeter, bringing its total funding to $150M &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/251120/p46#a251120p46)
- - [Android Quick Share on Pixel 10 can AirDrop to iPhones](https://appleinsider.com/articles/25/11/20/android-quick-share-on-pixel-10-can-airdrop-to-iphones?utm_source=rss)<!-- TECH:END -->
+ - [Feds charge four with illegally smuggling Nvidia AI chips to China](https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200)
+ - [Tesla is getting better about reporting FSD crash data — but the numbers are still misleading](https://www.theverge.com/transportation/824381/tesla-fsd-safety-data-flaws-misleading)
+ - [Method Security, which specializes in dual-use cyber capabilities, raised $26M across seed and Series A rounds led by a16z and General Catalyst, respectively &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/251120/p48#a251120p48)
+ - [Awkwafina&#39;s new Apple TV series joins a growing wave of food storytelling](https://appleinsider.com/articles/25/11/20/awkwafinas-new-apple-tv-series-joins-a-growing-wave-of-food-storytelling?utm_source=rss)
+ - [Gemini 3 is almost as good as Google says it is](https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

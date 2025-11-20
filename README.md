@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI academic research hub alphaXiv, which lets users comment on, annotate, and discuss arXiv papers, raised a $7M seed co-led by Menlo Ventures and Haystack &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251119/p64#a251119p64)
+ - [Google opens an AI infrastructure hardware engineering hub in Taipei, its biggest outside of the US, to develop and test tech to be deployed in its data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p63#a251119p63)
  - [A US judge sentences William Lonergan Hill, a co-founder of crypto mixer Samourai Wallet, to four years in prison for laundering $200M+ in illegal transactions &lpar;Miles J. Herszenhorn/Bloomberg&rpar;](http://www.techmeme.com/251119/p62#a251119p62)
  - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-20/#ftag=CAD590a51e)
- - [Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251119/p61#a251119p61)
- - [Australia vs. England Livestream: How to Watch 1st Test Ashes Cricket From Anywhere for Free](https://www.cnet.com/tech/services-and-software/australia-vs-england-livestream-how-to-watch-1st-test-ashes-cricket-from-anywhere-for-free/#ftag=CAD590a51e)
- - [Gloo, which develops AI tools for Christian churches and counts Pat Gelsinger as executive chair, closed up 1% in its Nasdaq debut after raising $73M in its IPO &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251119/p60#a251119p60)<!-- TECH:END -->
+ - [Function Health, a health tracking tech company, raised a $298M Series B led by Redpoint Ventures at a $2.5B valuation, bringing its total funding to $350M &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/251119/p61#a251119p61)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
- - 😝 [Marvel Father](http://9gag.com/gag/ayNmEGX)
- - 💣 [Ask the professor](http://9gag.com/gag/a4PBKyy)
- - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 👉 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)<!-- MEMES:END -->
+ - 😝 [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
+ - 😝 [Night will be long](http://9gag.com/gag/a5Q9NXq)
+ - 💣 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)
+ - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
+ - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
 
 ---
 

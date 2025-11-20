@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
- - 😝 [Night will be long](http://9gag.com/gag/a5Q9NXq)
- - 💣 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)
- - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 😝 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
+ - 😝 [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - 💣 [She&#39;s met her match](http://9gag.com/gag/abALX0O)
+ - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
 
 ---
 

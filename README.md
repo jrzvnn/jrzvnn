@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 😝 [Irad Cannon used on crowd](http://9gag.com/gag/aYQvpg2)
- - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
+ - 😝 [Best Google Doodle ever!](http://9gag.com/gag/aW4eZyq)
+ - 😝 [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
+ - 💣 [You can only see it once](http://9gag.com/gag/awy90m1)
+ - 😝 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
+ - 👉 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)<!-- MEMES:END -->
 
 ---
 

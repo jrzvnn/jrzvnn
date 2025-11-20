@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A draft EO shows President Trump plans to grant the federal government sole power to regulate AI and create an &quot;AI Litigation Task Force&quot; overseen by the AG &lpar;Tina Nguyen/The Verge&rpar;](http://www.techmeme.com/251119/p55#a251119p55)
- - [Humain partners with Adobe and Qualcomm to develop AI tools for Arabic content, using Adobe&#39;s Firefly Foundry to build AI models and Qualcomm chips to run them &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251119/p54#a251119p54)
- - [Best VR Headsets of 2025: My Favorite Hardware Right Now](https://www.cnet.com/tech/computing/best-vr-headset-sem/#ftag=CAD590a51e)
- - [NASA Finally Weighs In on the Origin of 3I/ATLAS](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/)
- - [Apple TV will offer Friday Night Baseball through 2028, contrary to rumors](https://appleinsider.com/articles/25/11/19/apple-tv-will-offer-friday-night-baseball-through-2028-contrary-to-rumors?utm_source=rss)<!-- TECH:END -->
+ - [Lenovo reports Q2 revenue up 15% YoY to $20.45B, vs. $20B est., net profit down 5% to $340M, vs. $382M est., but adjusted net profit up 25% to $512M &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p58#a251119p58)
+ - [Dell UltraSharp 32 6K Monitor review: Cross-platform productivity champion](https://appleinsider.com/articles/25/11/20/dell-ultrasharp-32-6k-monitor-review-cross-platform-productivity-champion?utm_source=rss)
+ - [Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical](https://www.wired.com/story/nvidia-third-quarter-2026-earnings/)
+ - [Palo Alto Networks reports Q1 revenue up 16% YoY to $2.47B, vs. $2.46B est., forecasts Q2 revenue in line with est., and agrees to buy Chronosphere for $3.35B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251119/p57#a251119p57)
+ - [Block expects gross profit to increase in the mid-teens YoY through 2028, reaching ~$15.8B, with adjusted operating income growing ~30% YoY; XYZ closed up 7.56% &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251119/p56#a251119p56)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

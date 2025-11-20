@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How scientists are exploring the use of quantum sensors, developed by startups like Q-CTRL, as a secure GPS alternative with military and civilian applications &lpar;Mike Cherney/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p8#a251120p8)
+ - [With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging Tech](https://www.wired.com/story/cisco-aging-technical-infrastructure/)
+ - [Q&amp;A with former Xbox boss Peter Moore on the Xbox 360 launch, his new book Game Changer, competition with Sony, the origins of the modern console war, and more &lpar;Robert Purchese/Eurogamer.net&rpar;](http://www.techmeme.com/251120/p7#a251120p7)
  - [Amazon Black Friday Apple Watch Ultra 2 deal: Now $599 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/20/amazon-black-friday-apple-watch-ultra-2-deal-now-599-lowest-price-ever?utm_source=rss)
- - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
- - [China&#39;s transport, logistics, and ride-hailing sectors are accelerating the mass adoption of autonomous vehicles, threatening the jobs of millions of drivers &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251120/p6#a251120p6)
- - [How the AI Act became a case study for critics who say the EU puts regulation ahead of innovation, as the European Commission postpones a key part of the law &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p5#a251120p5)
- - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
+ - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

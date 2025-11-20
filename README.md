@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sunday Robotics unveils Memo, a fully autonomous home robot capable of tasks like making espresso and loading dishwashers, set to launch in beta in 2026 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251120/p30#a251120p30)
- - [Amazon Black Friday Deals Week starts now, Apple gear on sale from $9.98](https://appleinsider.com/articles/25/11/20/amazon-black-friday-deals-week-starts-now-apple-gear-on-sale-from-998?utm_source=rss)
- - [Circana: EA&#39;s Battlefield 6 became 2025&#39;s best-selling US game less than a month after its October 10 debut; Pokémon is 2025&#39;s fastest-selling physical game &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251120/p29#a251120p29)
- - [I’m officially done with YouTube Kids](https://www.theverge.com/tech/824556/youtube-kids-videos-slop)
- - [IAB: ad spend in the creator ecosystem in 2025 is expected to rise 26% YoY to $37B, vastly outperforming ad spend in media overall, set to grow 5.7% YoY &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251120/p28#a251120p28)<!-- TECH:END -->
+ - [Apple partners on limited edition iPhone grip tailored for disabled users](https://appleinsider.com/articles/25/11/20/apple-partners-on-limited-edition-iphone-grip-tailored-for-disabled-users?utm_source=rss)
+ - [Google launches Gemini 3 Pro Image, aka Nano Banana Pro, with more control, improved text rendering, and enhanced world knowledge, for free in the Gemini app &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251120/p31#a251120p31)
+ - [AirPods&amp;#8217; best features come to Android and Linux with free app](https://www.theverge.com/news/824953/librepods-apple-airpods-wireless-headphones-android-linux)
+ - [ChatGPT Atlas adds Arc-like vertical tabs](https://www.theverge.com/news/825036/openai-chatgpt-atlas-arc-vertical-tabs-update)
+ - [The Best N95, KF94, and KN95 Face Masks &lpar;2025&rpar;](https://www.wired.com/story/best-disposable-face-masks-n95-kn95-kf94-surgical/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

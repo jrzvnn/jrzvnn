@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Brendan Carr’s FCC launches probe into BBC’s Trump edit](https://www.theverge.com/news/824913/bbc-pbs-npr-probe-trump-speech-news-distortion-fcc-brendan-carr)
+ - [Verizon is laying off over 13,000 workers](https://www.theverge.com/news/824970/verizon-layoffs-13-percent-employees)
+ - [Amazon slashes iPad 11 to just $279 for Black Friday Deals Week](https://appleinsider.com/articles/25/11/20/amazon-slashes-ipad-11-to-just-279-for-black-friday-deals-week?utm_source=rss)
  - [Apple TV&#39;s &#39;The Hunt&#39; has disappeared days before its premiere](https://appleinsider.com/articles/25/11/20/apple-tvs-the-hunt-has-disappeared-days-before-its-premiere?utm_source=rss)
- - [Sisterhood of the Best Travel Pants: Best Travel Trousers &lpar;2025&rpar;](https://www.wired.com/gallery/the-sisterhood-of-the-traveling-pants/)
- - [The FCC wants to roll back steps meant to stop a repeat of a massive telecom hack](https://www.theverge.com/policy/824508/fcc-telecom-salt-typhoon-hack)
- - [The CSA says Matter will support video cameras for the first time with Matter 1.5; Amazon and Google have not committed to making their cameras interoperable &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251120/p26#a251120p26)
- - [Internal memo: Verizon CEO Dan Schulman says the company will begin notifying the 13,000+ employees impacted by its largest-ever round of layoffs &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p25#a251120p25)<!-- TECH:END -->
+ - [Sisterhood of the Best Travel Pants: Best Travel Trousers &lpar;2025&rpar;](https://www.wired.com/gallery/the-sisterhood-of-the-traveling-pants/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

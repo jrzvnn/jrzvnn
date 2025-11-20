@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Chinese investment firm Capital Today bought ByteDance shares at a $480B valuation after a bidding war; ByteDance had a $330B valuation in September &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/251120/p11#a251120p11)
  - [Sources: Salesforce&#39;s Slack tells customers in China, Hong Kong, Macau, and Taiwan that they must migrate their accounts to partner Alibaba before February &lpar;The Information&rpar;](http://www.techmeme.com/251120/p10#a251120p10)
  - [MacBook Air Black Friday deals: Prices slashed to $749 at Amazon](https://appleinsider.com/articles/25/11/20/macbook-air-black-friday-deals-prices-slashed-to-749-at-amazon?utm_source=rss)
  - [7 Best Coffee Makers &lpar;2025&rpar;: Drip Is Drippin&#39;](https://www.wired.com/gallery/best-coffee-makers/)
- - [Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/)
- - [How AI is pressuring Poland&#39;s economy, Europe&#39;s top location for global business services, as companies lay off staff in Krakow, the country&#39;s hub for BPO jobs &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p9#a251120p9)<!-- TECH:END -->
+ - [Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

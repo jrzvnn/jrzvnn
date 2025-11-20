@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)
+ - [Google Workspace Promo Code: Up to 14% Off in 2025](https://www.wired.com/story/google-workspace-promo-code/)
  - [Shipments of AI servers from Taiwan to the US are set to double in 2025 vs. 2024, as Foxconn, Quanta, and Wistron ramp up production to meet demand &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/251120/p1#a251120p1)
  - [AI academic research hub alphaXiv, which lets users comment on, annotate, and discuss arXiv papers, raised a $7M seed co-led by Menlo Ventures and Haystack &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251119/p64#a251119p64)
- - [Google opens an AI infrastructure hardware engineering hub in Taipei, its biggest outside of the US, to develop and test tech to be deployed in its data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p63#a251119p63)
- - [A US judge sentences William Lonergan Hill, a co-founder of crypto mixer Samourai Wallet, to four years in prison for laundering $200M+ in illegal transactions &lpar;Miles J. Herszenhorn/Bloomberg&rpar;](http://www.techmeme.com/251119/p62#a251119p62)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 20](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-20/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google opens an AI infrastructure hardware engineering hub in Taipei, its biggest outside of the US, to develop and test tech to be deployed in its data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p63#a251119p63)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

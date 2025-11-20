@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft warns that Copilot Actions in Windows, now in beta and off by default, can infect devices and pilfer data, prompting concern from security researchers &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251120/p3#a251120p3)
  - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)
  - [Filing: Nvidia says it plans to rent $26B worth of servers over the next six years, doubling the cloud spending commitments it disclosed three months ago &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/251120/p2#a251120p2)
  - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)
- - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)
- - [Google Workspace Promo Code: Up to 14% Off in 2025](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
+ - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

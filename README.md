@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grok’s Elon Musk worship is getting weird](https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird)
  - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
  - [Google&amp;#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test)
  - [Microsoft&amp;#8217;s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai)
- - [Meta&amp;#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse)
- - [Wicked: For Good is a soaring second act that brings it all full circle](https://www.theverge.com/entertainment/825554/wicked-for-good-review)<!-- TECH:END -->
+ - [Meta&amp;#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

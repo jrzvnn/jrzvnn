@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOE accelerates its approach to equipping national labs with AI supercomputers by working with Nvidia, AMD, and Oracle, which will pay some of the costs &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/251120/p16#a251120p16)
- - [Josh Hawley, Ron DeSantis, Sarah Huckabee Sanders, and other Republicans publicly oppose President Trump&#39;s proposal to restrict US states from regulating AI &lpar;Joe Miller/Financial Times&rpar;](http://www.techmeme.com/251120/p15#a251120p15)
- - [As OpenAI commits to spending $1.4T, creating a mesh of complicated deals, the startup does not disclose its auditor, and there is little information online &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/251120/p14#a251120p14)
- - [Windows on Arm is now ready for gaming thanks to some big changes](https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements)
- - [An overview of macro tech trends for 2026, as &quot;AI eats the world&quot;: bubbles, the AI platform shift, Big Tech FOMO, capex, Nvidia, US power backlogs, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/251120/p13#a251120p13)<!-- TECH:END -->
+ - [A study of mental health conversations with ChatGPT, Claude, Gemini, and Meta AI: they often failed to recognize signs of conditions and offered general advice &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p19#a251120p19)
+ - [A Spanish court orders Meta to pay €479M to 87 Spanish digital media outlets for unfair competition practices and infringement of EU data protection regulations &lpar;Reuters&rpar;](http://www.techmeme.com/251120/p18#a251120p18)
+ - [How to Go Paperless in 9 Steps](https://www.wired.com/story/how-to-go-paperless-in-9-steps/)
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2025&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
+ - [Analysis: YouTube&#39;s top conservative podcasters drive a boom in host-read ads targeting right-wing audiences; nearly 91% of 876 episodes had political ads &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p17#a251120p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

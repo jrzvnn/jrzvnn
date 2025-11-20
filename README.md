@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
- - 😝 [Didn&#39;t realise how much force a bumble bee&#39;s wings produced until now.](http://9gag.com/gag/adBWNxV)
- - 💣 [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
- - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
- - 👉 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)<!-- MEMES:END -->
+ - 😝 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
+ - 😝 [Marvel Father](http://9gag.com/gag/ayNmEGX)
+ - 💣 [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 👉 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)<!-- MEMES:END -->
 
 ---
 

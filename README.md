@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brendan Carr’s FCC launches probe into BBC’s Trump edit](https://www.theverge.com/news/824913/bbc-pbs-npr-probe-trump-speech-news-distortion-fcc-brendan-carr)
- - [Verizon is laying off over 13,000 workers](https://www.theverge.com/news/824970/verizon-layoffs-13-percent-employees)
- - [Amazon slashes iPad 11 to just $279 for Black Friday Deals Week](https://appleinsider.com/articles/25/11/20/amazon-slashes-ipad-11-to-just-279-for-black-friday-deals-week?utm_source=rss)
- - [Apple TV&#39;s &#39;The Hunt&#39; has disappeared days before its premiere](https://appleinsider.com/articles/25/11/20/apple-tvs-the-hunt-has-disappeared-days-before-its-premiere?utm_source=rss)
- - [Sisterhood of the Best Travel Pants: Best Travel Trousers &lpar;2025&rpar;](https://www.wired.com/gallery/the-sisterhood-of-the-traveling-pants/)<!-- TECH:END -->
+ - [Sources: SoftBank plans to invest up to $3B to remodel an EV plant in Lordstown, Ohio, that will produce equipment for OpenAI&#39;s forthcoming US data centers &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251120/p27#a251120p27)
+ - [Bose-Infused Baseus Inspire XH1 Headphones Exceeded My Expectations](https://www.cnet.com/tech/mobile/bose-infused-baseus-inspire-xh1-headphones-exceeded-my-expectations/#ftag=CAD590a51e)
+ - [Waymo Adds 3 New Cities to Its Roster. Everything to Know About the Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-adds-3-new-cities-to-its-roster-everything-to-know-about-the-robotaxi-service/#ftag=CAD590a51e)
+ - [Peak Design&#39;s Passport Wallet Is a Slim, Rugged Pick for Spartan Travelers](https://www.cnet.com/tech/mobile/peak-designs-passport-wallet-is-a-slim-rugged-pick-for-spartan-travelers/#ftag=CAD590a51e)
+ - [The Best Google Pixel Phones of 2025, Tested and Reviewed](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

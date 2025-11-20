@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A study of mental health conversations with ChatGPT, Claude, Gemini, and Meta AI: they often failed to recognize signs of conditions and offered general advice &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p19#a251120p19)
- - [A Spanish court orders Meta to pay €479M to 87 Spanish digital media outlets for unfair competition practices and infringement of EU data protection regulations &lpar;Reuters&rpar;](http://www.techmeme.com/251120/p18#a251120p18)
- - [How to Go Paperless in 9 Steps](https://www.wired.com/story/how-to-go-paperless-in-9-steps/)
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2025&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
- - [Analysis: YouTube&#39;s top conservative podcasters drive a boom in host-read ads targeting right-wing audiences; nearly 91% of 876 episodes had political ads &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p17#a251120p17)<!-- TECH:END -->
+ - [Paradromics Gets FDA Approval to Trial Its Brain Implant in People](https://www.wired.com/story/paradromics-gets-fda-approval-to-trial-its-brain-implant-in-people/)
+ - [ModRetro Chromatic Review: Chic and Durable](https://www.wired.com/review/modretro-chromatic/)
+ - [10 Best Early Black Friday Deals at Best Buy &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-best-buy-deals/)
+ - [Camera support could be the boost Matter needs](https://www.theverge.com/tech/821707/matter-smart-home-standard-supports-cameras-apple-ring-google-nest)
+ - [DoorDash confirms user data theft for an unknown number of customers](https://appleinsider.com/articles/25/11/20/doordash-confirms-user-data-theft-for-an-unknown-number-of-customers?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

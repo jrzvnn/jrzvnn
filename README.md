@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Worth a medal](http://9gag.com/gag/aNDGozG)
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
- - 😝 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)
- - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
+ - 😝 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
+ - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 💣 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
+ - 😝 [Stunning](http://9gag.com/gag/a9y4LqL)
+ - 👉 [Damn boys](http://9gag.com/gag/aD2q3Yx)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&amp;#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse)
  - [Wicked: For Good is a soaring second act that brings it all full circle](https://www.theverge.com/entertainment/825554/wicked-for-good-review)
  - [Sources: Google is offering voluntary buyouts to employees in its UK offices, following similar offers in several US divisions this year &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/251120/p50#a251120p50)
  - [Bethesda’s $300 Pip-Boy 3000 replica can measure &lpar;harmless&rpar; radiation](https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica)
- - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
- - [Apple&#39;s F1 streaming partner is excited about the future and benefits for fans](https://appleinsider.com/articles/25/11/20/apples-f1-streaming-partner-is-excited-about-the-future-and-benefits-for-fans?utm_source=rss)<!-- TECH:END -->
+ - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

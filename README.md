@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
  - 😝 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
  - 💣 [Irad Cannon used on crowd](http://9gag.com/gag/aYQvpg2)
- - 😝 [Officer rescues a trapped dog and gets a hug](http://9gag.com/gag/aO8nbbr)
- - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
+ - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
+ - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 ---
 

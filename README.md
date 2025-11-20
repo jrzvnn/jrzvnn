@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
+ - 😝 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
+ - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
  - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 😝 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)
- - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
+ - 😝 [Stunning](http://9gag.com/gag/a9y4LqL)
+ - 👉 [What a talent......](http://9gag.com/gag/a6ZedZ8)<!-- MEMES:END -->
 
 ---
 

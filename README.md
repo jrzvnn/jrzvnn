@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I’m officially done with YouTube Kids](https://www.theverge.com/tech/824556/youtube-kids-videos-slop)
+ - [IAB: ad spend in the creator ecosystem in 2025 is expected to rise 26% YoY to $37B, vastly outperforming ad spend in media overall, set to grow 5.7% YoY &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251120/p28#a251120p28)
  - [Sources: SoftBank plans to invest up to $3B to remodel an EV plant in Lordstown, Ohio, that will produce equipment for OpenAI&#39;s forthcoming US data centers &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251120/p27#a251120p27)
  - [Bose-Infused Baseus Inspire XH1 Headphones Exceeded My Expectations](https://www.cnet.com/tech/mobile/bose-infused-baseus-inspire-xh1-headphones-exceeded-my-expectations/#ftag=CAD590a51e)
- - [Waymo Adds 3 New Cities to Its Roster. Everything to Know About the Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-adds-3-new-cities-to-its-roster-everything-to-know-about-the-robotaxi-service/#ftag=CAD590a51e)
- - [Peak Design&#39;s Passport Wallet Is a Slim, Rugged Pick for Spartan Travelers](https://www.cnet.com/tech/mobile/peak-designs-passport-wallet-is-a-slim-rugged-pick-for-spartan-travelers/#ftag=CAD590a51e)
- - [The Best Google Pixel Phones of 2025, Tested and Reviewed](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Waymo Adds 3 New Cities to Its Roster. Everything to Know About the Robotaxi Service](https://www.cnet.com/roadshow/news/waymo-adds-3-new-cities-to-its-roster-everything-to-know-about-the-robotaxi-service/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

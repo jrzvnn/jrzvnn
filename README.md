@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
- - 😝 [Why bother anymore?](http://9gag.com/gag/aMV01O1)
- - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
- - 😝 [Rate my setup... 10/10 feelsies](http://9gag.com/gag/aE0jGqn)
- - 👉 [Another wife to the college](http://9gag.com/gag/aLnO63A)<!-- MEMES:END -->
+ - 😝 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
+ - 😝 [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - 💣 [Why bother anymore?](http://9gag.com/gag/aMV01O1)
+ - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
 
 ---
 

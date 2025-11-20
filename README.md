@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Wicked: For Good is a soaring second act that brings it all full circle](https://www.theverge.com/entertainment/825554/wicked-for-good-review)
+ - [Sources: Google is offering voluntary buyouts to employees in its UK offices, following similar offers in several US divisions this year &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/251120/p50#a251120p50)
  - [Bethesda’s $300 Pip-Boy 3000 replica can measure &lpar;harmless&rpar; radiation](https://www.theverge.com/news/825283/bethesda-wand-company-fallout-3-new-vegas-pip-boy-3000-replica)
  - [The Verge’s favorite holiday gifts under $100](https://www.theverge.com/tech/800440/best-gifts-under-100-2025)
- - [Apple&#39;s F1 streaming partner is excited about the future and benefits for fans](https://appleinsider.com/articles/25/11/20/apples-f1-streaming-partner-is-excited-about-the-future-and-benefits-for-fans?utm_source=rss)
- - [Source: Kalshi raised $1B led by Sequoia and CapitalG at a $11B valuation, less than two months after it announced a $300M fundraise at a $5B valuation &lpar;Marina Temkin/TechCrunch&rpar;](http://www.techmeme.com/251120/p49#a251120p49)
- - [Got a Pixel 10? Google’s Android Phone Can Now Share Files With Apple’s AirDrop](https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/)<!-- TECH:END -->
+ - [Apple&#39;s F1 streaming partner is excited about the future and benefits for fans](https://appleinsider.com/articles/25/11/20/apples-f1-streaming-partner-is-excited-about-the-future-and-benefits-for-fans?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

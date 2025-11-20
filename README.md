@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Seriously what the hell is she even saying?](http://9gag.com/gag/avyB0PW)
  - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
+ - 💣 [This world seems funny](http://9gag.com/gag/ae9q3pm)
  - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 ---
 

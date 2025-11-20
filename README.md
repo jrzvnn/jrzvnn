@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nano Banana Pro is great at following instructions, generates interim &quot;thought images&quot;, and makes full infographics with well-rendered text from a short prompt &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251120/p36#a251120p36)
- - [HBO has renewed its Game of Thrones spinoff shows for more seasons](https://www.theverge.com/streaming/825136/hbo-renewals-house-of-the-dragon-a-knight-of-seven-kingdoms-i-love-la)
- - [Suno’s CEO thinks typing a text prompt is ‘really active’ music creation](https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation)
- - [The 6 Best Automatic Litter Boxes &lpar;2025&rpar; Our Cats Would Recommend](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
- - [AR startup Viture is stealthily working on new AI glasses](https://www.theverge.com/column/824994/ar-viture-ai-glasses)<!-- TECH:END -->
+ - [AI workplace agents startup Genspark raised a $275M Series B at a $1.25B valuation and says it hit $50M in annualized revenue after pivoting from AI search &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251120/p37#a251120p37)
+ - [Amazon’s latest entry-level Kindle has fallen to a new low for Black Friday](https://www.theverge.com/gadgets/824412/amazon-kindle-paperwhite-black-friday-deal-sale-2025)
+ - [Two new U.S. states agree to bring driver&#39;s licenses to Apple Wallet soon](https://appleinsider.com/articles/25/11/20/two-new-us-states-agree-to-bring-drivers-licenses-to-apple-wallet-soon?utm_source=rss)
+ - [New Chromebooks will come with a year of Nvidia&amp;#8217;s cloud gaming &amp;#8216;fast pass&amp;#8217;](https://www.theverge.com/news/824940/chromebooks-nvidia-geforce-now-fast-pass-free-year)
+ - [Google’s Gemini is now on Android Auto](https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

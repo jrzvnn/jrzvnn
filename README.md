@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Four Indicted In Alleged Conspiracy To Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)
+ - [Four Indicted In Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)
  - [Grok’s Elon Musk worship is getting weird](https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird)
  - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
  - [Google&amp;#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test)

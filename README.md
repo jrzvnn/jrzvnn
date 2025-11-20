@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
  - [China&#39;s transport, logistics, and ride-hailing sectors are accelerating the mass adoption of autonomous vehicles, threatening the jobs of millions of drivers &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251120/p6#a251120p6)
  - [How the AI Act became a case study for critics who say the EU puts regulation ahead of innovation, as the European Commission postpones a key part of the law &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p5#a251120p5)
  - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Google DeepMind hires former Boston Dynamics CTO Aaron Saunders as VP of hardware engineering, as Demis Hassabis envisions Gemini to become a sort of robot OS &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251120/p4#a251120p4)
- - [Microsoft warns that Copilot Actions in Windows, now in beta and off by default, can infect devices and pilfer data, prompting concern from security researchers &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/251120/p3#a251120p3)<!-- TECH:END -->
+ - [Google DeepMind hires former Boston Dynamics CTO Aaron Saunders as VP of hardware engineering, as Demis Hassabis envisions Gemini to become a sort of robot OS &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251120/p4#a251120p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

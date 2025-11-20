@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
  - 😝 [Ask the professor](http://9gag.com/gag/a4PBKyy)
- - 💣 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
- - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
+ - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
+ - 😝 [Cross the stream](http://9gag.com/gag/aVv9Wzw)
+ - 👉 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)<!-- MEMES:END -->
 
 ---
 

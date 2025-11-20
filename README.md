@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Numeric, which automates accounting workflows, raised a $51M Series B led by IVP, bringing its total funding to $89M, and says OpenAI and Brex are clients &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251120/p41#a251120p41)
- - [Google updates Quick Share to work with Apple&#39;s AirDrop to make file transfers between iPhones and Android devices easier, starting with the Pixel 10 family &lpar;The Keyword&rpar;](http://www.techmeme.com/251120/p40#a251120p40)
- - [Sources: AI robotics startup Physical Intelligence raised $600M led by CapitalG at a $5.6B valuation, with participation from Jeff Bezos, Lux, Thrive, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251120/p39#a251120p39)
- - [Nvidia and Google launch the GeForce Now Fast Pass to let Chromebook owners stream over 2,000 games directly from an existing PC game library without ads &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251120/p38#a251120p38)
- - [AI workplace agents startup Genspark raised a $275M Series B at a $1.25B valuation and says it hit $50M in annualized revenue after pivoting from AI search &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251120/p37#a251120p37)<!-- TECH:END -->
+ - [Allen Institute for AI, or Ai2, unveils Olmo 3 models that it says outperform open models like Stanford&#39;s Marin and commercial open-weight models like Llama 3.1 &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/251120/p43#a251120p43)
+ - [Amazon is using AI to create video recaps of its biggest streaming shows](https://www.theverge.com/news/825052/amazon-prime-original-ai-video-recap-fallout-jack-ryan)
+ - [Pixel 10 phones are now compatible with AirDrop](https://www.theverge.com/news/825228/iphone-airdrop-android-quick-share-pixel-10)
+ - [The FCC votes along party lines to repeal a Biden-era cybersecurity rule aimed at preventing intrusions like Salt Typhoon, calling it an ineffective measure &lpar;Kelcee Griffis/Bloomberg&rpar;](http://www.techmeme.com/251120/p42#a251120p42)
+ - [Numeric, which automates accounting workflows, raised a $51M Series B led by IVP, bringing its total funding to $89M, and says OpenAI and Brex are clients &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251120/p41#a251120p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

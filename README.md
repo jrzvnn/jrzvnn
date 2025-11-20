@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Budget Noise-Canceling Headphones Under $100 for 2025](https://www.cnet.com/tech/mobile/best-budget-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
  - [Apple AirPods 4 fall to record low $79.99 during Amazon&#39;s Black Friday sale](https://appleinsider.com/articles/25/11/20/apple-airpods-4-fall-to-record-low-7999-during-amazons-black-friday-sale?utm_source=rss)
- - [4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)
- - [Grok’s Elon Musk worship is getting weird](https://www.theverge.com/ai-artificial-intelligence/825675/groks-elon-musk-worship-is-getting-weird)
- - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
- - [Google&amp;#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test)<!-- TECH:END -->
+ - [This Blink Outdoor Security Cam Blew Me Away With Its Battery Life, and It&#39;s on Sale Ahead of Black Friday](https://www.cnet.com/deals/this-blink-outdoor-4-security-cam-blew-me-away-with-its-battery-life-and-its-on-sale-ahead-of-black-friday/#ftag=CAD590a51e)
+ - [Your Next Vacation Starts in a Chat: TripAdvisor Debuts App Inside ChatGPT](https://www.cnet.com/deals/your-next-vacation-starts-in-a-chat-tripadvisor-debuts-app-inside-chatgpt/#ftag=CAD590a51e)
+ - [4 People Indicted in Alleged Conspiracy to Smuggle Supercomputers and Nvidia Chips to China](https://www.wired.com/story/smuggling-supercomputers-china-nvidia-indictment/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

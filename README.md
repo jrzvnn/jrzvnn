@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds charge four with illegally smuggling Nvidia AI chips to China](https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200)
- - [Tesla is getting better about reporting FSD crash data — but the numbers are still misleading](https://www.theverge.com/transportation/824381/tesla-fsd-safety-data-flaws-misleading)
- - [Method Security, which specializes in dual-use cyber capabilities, raised $26M across seed and Series A rounds led by a16z and General Catalyst, respectively &lpar;Colin Demarest/Axios&rpar;](http://www.techmeme.com/251120/p48#a251120p48)
- - [Awkwafina&#39;s new Apple TV series joins a growing wave of food storytelling](https://appleinsider.com/articles/25/11/20/awkwafinas-new-apple-tv-series-joins-a-growing-wave-of-food-storytelling?utm_source=rss)
- - [Gemini 3 is almost as good as Google says it is](https://www.theverge.com/report/825332/google-gemini-3-pro-ai-hands-on-test)<!-- TECH:END -->
+ - [Got a Pixel 10? Google&#39;s Android Phone Can Now Share Files With Apple&#39;s AirDrop](https://www.wired.com/story/pixel-10-can-now-share-files-with-apples-airdrop/)
+ - [The 27 Best Movies on Apple TV, WIRED’s Picks &lpar;November 2025&rpar;](https://www.wired.com/story/best-apple-tv-plus-movies/)
+ - [You can get up to 30 percent off Sonos speakers and soundbars right now](https://www.theverge.com/tech/823523/sonos-black-friday-deals-soundbar-speaker-sale-2025)
+ - [OpenAI is launching group chats in ChatGPT](https://www.theverge.com/news/825544/openai-chatgpt-group-chats-launch)
+ - [Feds charge four with illegally smuggling Nvidia AI chips to China](https://www.theverge.com/news/825510/nvidia-china-smuggling-ai-chips-h200)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

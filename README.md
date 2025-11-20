@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best early Black Friday deals we’ve found so far on laptops, TVs, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
+ - [Google&amp;#8217;s new AI image creator took my shirt off](https://www.theverge.com/news/825667/google-nano-banana-pro-test)
  - [Microsoft&amp;#8217;s AI-powered copy and paste can now use on-device AI](https://www.theverge.com/news/825668/microsoft-advanced-paste-powertoys-on-device-ai)
  - [Meta&amp;#8217;s Hyperscape is ready to turn your real living room into a VR hangout](https://www.theverge.com/news/825705/meta-hyperscape-social-links-capture-scan-metaverse)
- - [Wicked: For Good is a soaring second act that brings it all full circle](https://www.theverge.com/entertainment/825554/wicked-for-good-review)
- - [Sources: Google is offering voluntary buyouts to employees in its UK offices, following similar offers in several US divisions this year &lpar;Hugh Langley/Business Insider&rpar;](http://www.techmeme.com/251120/p50#a251120p50)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 21 #628](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-21-628/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wicked: For Good is a soaring second act that brings it all full circle](https://www.theverge.com/entertainment/825554/wicked-for-good-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

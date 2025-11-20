@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ask the professor](http://9gag.com/gag/a4PBKyy)
+ - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
  - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
+ - 💣 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)
  - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 👉 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)<!-- MEMES:END -->
+ - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
 
 ---
 

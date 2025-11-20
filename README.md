@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
- - 😝 [This guy got arrested](http://9gag.com/gag/aNDGeoG)
- - 💣 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 😝 [So much for Body Positivity\u2122](http://9gag.com/gag/aGyrwZ7)
- - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
+ - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 💣 [This guy got arrested](http://9gag.com/gag/aNDGeoG)
+ - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
 
 ---
 

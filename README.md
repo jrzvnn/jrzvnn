@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stuut, which connects to CRM and other systems to automate management of accounts receivable, raised a $29.5M Series A led by a16z &lpar;Charlie Fink/Forbes&rpar;](http://www.techmeme.com/251120/p34#a251120p34)
- - [AI dictation startup Wispr Flow raised $25M, after raising a $30M Series A in June, taking its total funding to $81M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251120/p33#a251120p33)
- - [Google says the Gemini app is now able to detect images made by Google AI, with plans to roll out verification of video and audio &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251120/p32#a251120p32)
- - [The DoorDash Problem: How AI browsers are a huge threat to Amazon](https://www.theverge.com/podcast/823909/the-doordash-problem-ai-agents-web-amazon-perplexity-lawsuit)
- - [All the news on Qi2 wireless charging](https://www.theverge.com/24134055/qi2-wireless-charging-apple-android-anker-mophie-belkin)<!-- TECH:END -->
+ - [AR startup Viture is stealthily working on new AI glasses](https://www.theverge.com/column/824994/ar-viture-ai-glasses)
+ - [The 32 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
+ - [Paradromics says it received FDA approval for a human trial of its Connexus brain implant, aimed at restoring speech to those with severe motor impairments &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251120/p35#a251120p35)
+ - [Swatch&#39;s New OpenAI-Powered Tool Lets You Design Your Own Watch](https://www.wired.com/story/swatchs-new-openai-powered-tool-lets-you-design-your-own-watch/)
+ - [Tyler, the Creator seals his biggest year yet as Apple Music Artist of the Year](https://appleinsider.com/articles/25/11/20/tyler-the-creator-seals-his-biggest-year-yet-as-apple-music-artist-of-the-year?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

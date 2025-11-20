@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AI workplace agents startup Genspark raised a $275M Series B at a $1.25B valuation and says it hit $50M in annualized revenue after pivoting from AI search &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251120/p37#a251120p37)
- - [Amazon’s latest entry-level Kindle has fallen to a new low for Black Friday](https://www.theverge.com/gadgets/824412/amazon-kindle-paperwhite-black-friday-deal-sale-2025)
- - [Two new U.S. states agree to bring driver&#39;s licenses to Apple Wallet soon](https://appleinsider.com/articles/25/11/20/two-new-us-states-agree-to-bring-drivers-licenses-to-apple-wallet-soon?utm_source=rss)
- - [New Chromebooks will come with a year of Nvidia&amp;#8217;s cloud gaming &amp;#8216;fast pass&amp;#8217;](https://www.theverge.com/news/824940/chromebooks-nvidia-geforce-now-fast-pass-free-year)
- - [Google’s Gemini is now on Android Auto](https://www.theverge.com/news/825008/googles-gemini-is-now-on-android-auto)<!-- TECH:END -->
+ - [Numeric, which automates accounting workflows, raised a $51M Series B led by IVP, bringing its total funding to $89M, and says OpenAI and Brex are clients &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251120/p41#a251120p41)
+ - [Google updates Quick Share to work with Apple&#39;s AirDrop to make file transfers between iPhones and Android devices easier, starting with the Pixel 10 family &lpar;The Keyword&rpar;](http://www.techmeme.com/251120/p40#a251120p40)
+ - [Sources: AI robotics startup Physical Intelligence raised $600M led by CapitalG at a $5.6B valuation, with participation from Jeff Bezos, Lux, Thrive, and more &lpar;Shirin Ghaffary/Bloomberg&rpar;](http://www.techmeme.com/251120/p39#a251120p39)
+ - [Nvidia and Google launch the GeForce Now Fast Pass to let Chromebook owners stream over 2,000 games directly from an existing PC game library without ads &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251120/p38#a251120p38)
+ - [AI workplace agents startup Genspark raised a $275M Series B at a $1.25B valuation and says it hit $50M in annualized revenue after pivoting from AI search &lpar;Anna Tong/Forbes&rpar;](http://www.techmeme.com/251120/p37#a251120p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

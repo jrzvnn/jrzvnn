@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AR startup Viture is stealthily working on new AI glasses](https://www.theverge.com/column/824994/ar-viture-ai-glasses)
- - [The 32 best gifts that your teen will actually use](https://www.theverge.com/tech/785418/best-teen-gift-ideas-2025)
- - [Paradromics says it received FDA approval for a human trial of its Connexus brain implant, aimed at restoring speech to those with severe motor impairments &lpar;Emily Mullin/Wired&rpar;](http://www.techmeme.com/251120/p35#a251120p35)
- - [Swatch&#39;s New OpenAI-Powered Tool Lets You Design Your Own Watch](https://www.wired.com/story/swatchs-new-openai-powered-tool-lets-you-design-your-own-watch/)
- - [Tyler, the Creator seals his biggest year yet as Apple Music Artist of the Year](https://appleinsider.com/articles/25/11/20/tyler-the-creator-seals-his-biggest-year-yet-as-apple-music-artist-of-the-year?utm_source=rss)<!-- TECH:END -->
+ - [Nano Banana Pro is great at following instructions, generates interim &quot;thought images&quot;, and makes full infographics with well-rendered text from a short prompt &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251120/p36#a251120p36)
+ - [HBO has renewed its Game of Thrones spinoff shows for more seasons](https://www.theverge.com/streaming/825136/hbo-renewals-house-of-the-dragon-a-knight-of-seven-kingdoms-i-love-la)
+ - [Suno’s CEO thinks typing a text prompt is ‘really active’ music creation](https://www.theverge.com/report/825141/sunos-ceo-ai-text-prompt-really-active-music-creation)
+ - [The 6 Best Automatic Litter Boxes &lpar;2025&rpar; Our Cats Would Recommend](https://www.wired.com/gallery/the-best-automatic-cat-litter-boxes/)
+ - [AR startup Viture is stealthily working on new AI glasses](https://www.theverge.com/column/824994/ar-viture-ai-glasses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

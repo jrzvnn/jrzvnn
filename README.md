@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lenovo reports Q2 revenue up 15% YoY to $20.45B, vs. $20B est., net profit down 5% to $340M, vs. $382M est., but adjusted net profit up 25% to $512M &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p58#a251119p58)
- - [Dell UltraSharp 32 6K Monitor review: Cross-platform productivity champion](https://appleinsider.com/articles/25/11/20/dell-ultrasharp-32-6k-monitor-review-cross-platform-productivity-champion?utm_source=rss)
- - [Nvidia CEO Dismisses Concerns of an AI Bubble. Investors Remain Skeptical](https://www.wired.com/story/nvidia-third-quarter-2026-earnings/)
- - [Palo Alto Networks reports Q1 revenue up 16% YoY to $2.47B, vs. $2.46B est., forecasts Q2 revenue in line with est., and agrees to buy Chronosphere for $3.35B &lpar;Samantha Subin/CNBC&rpar;](http://www.techmeme.com/251119/p57#a251119p57)
- - [Block expects gross profit to increase in the mid-teens YoY through 2028, reaching ~$15.8B, with adjusted operating income growing ~30% YoY; XYZ closed up 7.56% &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251119/p56#a251119p56)<!-- TECH:END -->
+ - [Australia vs. England Livestream: How to Watch 1st Test Ashes Cricket From Anywhere for Free](https://www.cnet.com/tech/services-and-software/australia-vs-england-livestream-how-to-watch-1st-test-ashes-cricket-from-anywhere-for-free/#ftag=CAD590a51e)
+ - [Gloo, which develops AI tools for Christian churches and counts Pat Gelsinger as executive chair, closed up 1% in its Nasdaq debut after raising $73M in its IPO &lpar;George Steer/Financial Times&rpar;](http://www.techmeme.com/251119/p60#a251119p60)
+ - [Sources: UMG, WMG, and Sony Music have licensed their works to Klay, which is building a streaming service that will let users remake songs using AI tools &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/251119/p59#a251119p59)
+ - [Trump Takes Aim at State AI Laws in Draft Executive Order](https://www.wired.com/story/trump-prepares-executive-order-challenging-state-ai-laws/)
+ - [Lenovo reports Q2 revenue up 15% YoY to $20.45B, vs. $20B est., net profit down 5% to $340M, vs. $382M est., but adjusted net profit up 25% to $512M &lpar;P.R. Venkat/Wall Street Journal&rpar;](http://www.techmeme.com/251119/p58#a251119p58)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paradromics Gets FDA Approval to Trial Its Brain Implant in People](https://www.wired.com/story/paradromics-gets-fda-approval-to-trial-its-brain-implant-in-people/)
- - [ModRetro Chromatic Review: Chic and Durable](https://www.wired.com/review/modretro-chromatic/)
- - [10 Best Early Black Friday Deals at Best Buy &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-best-buy-deals/)
- - [Camera support could be the boost Matter needs](https://www.theverge.com/tech/821707/matter-smart-home-standard-supports-cameras-apple-ring-google-nest)
- - [DoorDash confirms user data theft for an unknown number of customers](https://appleinsider.com/articles/25/11/20/doordash-confirms-user-data-theft-for-an-unknown-number-of-customers?utm_source=rss)<!-- TECH:END -->
+ - [Apple TV&#39;s &#39;The Hunt&#39; has disappeared days before its premiere](https://appleinsider.com/articles/25/11/20/apple-tvs-the-hunt-has-disappeared-days-before-its-premiere?utm_source=rss)
+ - [Sisterhood of the Best Travel Pants: Best Travel Trousers &lpar;2025&rpar;](https://www.wired.com/gallery/the-sisterhood-of-the-traveling-pants/)
+ - [The FCC wants to roll back steps meant to stop a repeat of a massive telecom hack](https://www.theverge.com/policy/824508/fcc-telecom-salt-typhoon-hack)
+ - [The CSA says Matter will support video cameras for the first time with Matter 1.5; Amazon and Google have not committed to making their cameras interoperable &lpar;Chris Welch/Bloomberg&rpar;](http://www.techmeme.com/251120/p26#a251120p26)
+ - [Internal memo: Verizon CEO Dan Schulman says the company will begin notifying the 13,000+ employees impacted by its largest-ever round of layoffs &lpar;Patience Haggin/Wall Street Journal&rpar;](http://www.techmeme.com/251120/p25#a251120p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

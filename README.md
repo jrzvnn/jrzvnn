@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NordVPN Coupons and Deals: 77% Off in November 2025](https://www.wired.com/story/nordvpn-coupon/)
+ - [Filing: Nvidia says it plans to rent $26B worth of servers over the next six years, doubling the cloud spending commitments it disclosed three months ago &lpar;Anissa Gardizy/The Information&rpar;](http://www.techmeme.com/251120/p2#a251120p2)
+ - [AT&amp;T Promo Codes and Bundle Deals: Save $50 in November](https://www.wired.com/story/att-promo-code/)
  - [20% Off Brooks Promo Code &amp; Deals for November 2025](https://www.wired.com/story/brooks-promo-code/)
- - [Google Workspace Promo Code: Up to 14% Off in 2025](https://www.wired.com/story/google-workspace-promo-code/)
- - [Shipments of AI servers from Taiwan to the US are set to double in 2025 vs. 2024, as Foxconn, Quanta, and Wistron ramp up production to meet demand &lpar;Hideaki Ryugen/Nikkei Asia&rpar;](http://www.techmeme.com/251120/p1#a251120p1)
- - [AI academic research hub alphaXiv, which lets users comment on, annotate, and discuss arXiv papers, raised a $7M seed co-led by Menlo Ventures and Haystack &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/251119/p64#a251119p64)
- - [Google opens an AI infrastructure hardware engineering hub in Taipei, its biggest outside of the US, to develop and test tech to be deployed in its data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251119/p63#a251119p63)<!-- TECH:END -->
+ - [Google Workspace Promo Code: Up to 14% Off in 2025](https://www.wired.com/story/google-workspace-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

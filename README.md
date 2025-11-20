@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Are we that old bro?](http://9gag.com/gag/aAyLRA0)
- - 😝 [Ask the professor](http://9gag.com/gag/a4PBKyy)
- - 💣 [Why bother anymore?](http://9gag.com/gag/aMV01O1)
- - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 👉 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)<!-- MEMES:END -->
+ - 😝 [Finally washing away all my problems](http://9gag.com/gag/a9y4d71)
+ - 😝 [Didn&#39;t realise how much force a bumble bee&#39;s wings produced until now.](http://9gag.com/gag/adBWNxV)
+ - 💣 [Intrusive thoughts won](http://9gag.com/gag/axyeN4n)
+ - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
+ - 👉 [The owner came up with a working way to make his dog lose weight.](http://9gag.com/gag/aW4e0Qx)<!-- MEMES:END -->
 
 ---
 

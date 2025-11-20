@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 😝 [Sydney Sweeney and Alexandra shipp](http://9gag.com/gag/a2vAzW9)
- - 💣 [This guy got arrested](http://9gag.com/gag/aNDGeoG)
+ - 😝 [You can only see it once](http://9gag.com/gag/awy90m1)
+ - 😝 [It is wednesday my dudes](http://9gag.com/gag/agmp00W)
+ - 💣 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
  - 😝 [Damn boys](http://9gag.com/gag/aD2q3Yx)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 👉 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)<!-- MEMES:END -->
 
 ---
 

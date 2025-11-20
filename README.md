@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As OpenAI commits to spending $1.4T, creating a mesh of complicated deals, the startup does not disclose its auditor, and there is little information online &lpar;Louis Ashworth/Financial Times&rpar;](http://www.techmeme.com/251120/p14#a251120p14)
+ - [Windows on Arm is now ready for gaming thanks to some big changes](https://www.theverge.com/news/824783/windows-on-arm-snapdragon-control-panel-gaming-driver-compatibility-improvements)
+ - [An overview of macro tech trends for 2026, as &quot;AI eats the world&quot;: bubbles, the AI platform shift, Big Tech FOMO, capex, Nvidia, US power backlogs, and more &lpar;Benedict Evans&rpar;](http://www.techmeme.com/251120/p13#a251120p13)
  - [Letterboxd plans to launch the Letterboxd Video Store, a curated rental platform with undistributed festival standouts, restorations, and more, in December 2025 &lpar;Letterboxd&rpar;](http://www.techmeme.com/251120/p12#a251120p12)
- - [The Pelvic Floor Is a Problem](https://www.wired.com/story/the-pelvic-floor-is-a-problem/)
- - [Sources: Chinese investment firm Capital Today bought ByteDance shares at a $480B valuation after a bidding war; ByteDance had a $330B valuation in September &lpar;Dong Cao/Bloomberg&rpar;](http://www.techmeme.com/251120/p11#a251120p11)
- - [Sources: Salesforce&#39;s Slack tells customers in China, Hong Kong, Macau, and Taiwan that they must migrate their accounts to partner Alibaba before February &lpar;The Information&rpar;](http://www.techmeme.com/251120/p10#a251120p10)
- - [MacBook Air Black Friday deals: Prices slashed to $749 at Amazon](https://appleinsider.com/articles/25/11/20/macbook-air-black-friday-deals-prices-slashed-to-749-at-amazon?utm_source=rss)<!-- TECH:END -->
+ - [The Pelvic Floor Is a Problem](https://www.wired.com/story/the-pelvic-floor-is-a-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

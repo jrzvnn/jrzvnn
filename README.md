@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI dictation startup Wispr Flow raised $25M, after raising a $30M Series A in June, taking its total funding to $81M &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251120/p33#a251120p33)
  - [Google says the Gemini app is now able to detect images made by Google AI, with plans to roll out verification of video and audio &lpar;Dominic Preston/The Verge&rpar;](http://www.techmeme.com/251120/p32#a251120p32)
  - [The DoorDash Problem: How AI browsers are a huge threat to Amazon](https://www.theverge.com/podcast/823909/the-doordash-problem-ai-agents-web-amazon-perplexity-lawsuit)
  - [All the news on Qi2 wireless charging](https://www.theverge.com/24134055/qi2-wireless-charging-apple-android-anker-mophie-belkin)
- - [Apple partners on limited edition iPhone grip tailored for disabled users](https://appleinsider.com/articles/25/11/20/apple-partners-on-limited-edition-iphone-grip-tailored-for-disabled-users?utm_source=rss)
- - [Google launches Gemini 3 Pro Image, aka Nano Banana Pro, with more control, improved text rendering, and enhanced world knowledge, for free in the Gemini app &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/251120/p31#a251120p31)<!-- TECH:END -->
+ - [Apple partners on limited edition iPhone grip tailored for disabled users](https://appleinsider.com/articles/25/11/20/apple-partners-on-limited-edition-iphone-grip-tailored-for-disabled-users?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 💣 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 😝 [Damn boys](http://9gag.com/gag/aD2q3Yx)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 😝 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)
+ - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
 
 ---
 

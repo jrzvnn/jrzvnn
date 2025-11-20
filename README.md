@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon Black Friday Apple Watch Ultra 2 deal: Now $599 &lpar;lowest price ever&rpar;](https://appleinsider.com/articles/25/11/20/amazon-black-friday-apple-watch-ultra-2-deal-now-599-lowest-price-ever?utm_source=rss)
  - [40% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
  - [China&#39;s transport, logistics, and ride-hailing sectors are accelerating the mass adoption of autonomous vehicles, threatening the jobs of millions of drivers &lpar;Edward White/Financial Times&rpar;](http://www.techmeme.com/251120/p6#a251120p6)
  - [How the AI Act became a case study for critics who say the EU puts regulation ahead of innovation, as the European Commission postpones a key part of the law &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p5#a251120p5)
- - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)
- - [Google DeepMind hires former Boston Dynamics CTO Aaron Saunders as VP of hardware engineering, as Demis Hassabis envisions Gemini to become a sort of robot OS &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251120/p4#a251120p4)<!-- TECH:END -->
+ - [30% Off Samsung Promo Code | November 2025](https://www.wired.com/story/samsung-promo-codes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

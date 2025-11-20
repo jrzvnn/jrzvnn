@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sunday Robotics unveils Memo, a fully autonomous home robot capable of tasks like making espresso and loading dishwashers, set to launch in beta in 2026 &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251120/p30#a251120p30)
  - [Amazon Black Friday Deals Week starts now, Apple gear on sale from $9.98](https://appleinsider.com/articles/25/11/20/amazon-black-friday-deals-week-starts-now-apple-gear-on-sale-from-998?utm_source=rss)
  - [Circana: EA&#39;s Battlefield 6 became 2025&#39;s best-selling US game less than a month after its October 10 debut; Pokémon is 2025&#39;s fastest-selling physical game &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251120/p29#a251120p29)
  - [I’m officially done with YouTube Kids](https://www.theverge.com/tech/824556/youtube-kids-videos-slop)
- - [IAB: ad spend in the creator ecosystem in 2025 is expected to rise 26% YoY to $37B, vastly outperforming ad spend in media overall, set to grow 5.7% YoY &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251120/p28#a251120p28)
- - [Sources: SoftBank plans to invest up to $3B to remodel an EV plant in Lordstown, Ohio, that will produce equipment for OpenAI&#39;s forthcoming US data centers &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251120/p27#a251120p27)<!-- TECH:END -->
+ - [IAB: ad spend in the creator ecosystem in 2025 is expected to rise 26% YoY to $37B, vastly outperforming ad spend in media overall, set to grow 5.7% YoY &lpar;Kayla Cobb/The Wrap&rpar;](http://www.techmeme.com/251120/p28#a251120p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

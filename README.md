@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [40....love](http://9gag.com/gag/azxvExm)
  - 😝 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
- - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
- - 💣 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
- - 😝 [Stunning](http://9gag.com/gag/a9y4LqL)
+ - 💣 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 😝 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
  - 👉 [Damn boys](http://9gag.com/gag/aD2q3Yx)<!-- MEMES:END -->
 
 ---

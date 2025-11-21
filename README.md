@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)
- - 😝 [Damn boys](http://9gag.com/gag/aD2q3Yx)
- - 💣 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
- - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 👉 [Seagull vs crow accuracy contest](http://9gag.com/gag/azxvE9z)<!-- MEMES:END -->
+ - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
+ - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 💣 [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bret Taylor says his AI agent startup Sierra has hit $100M in ARR, after launching in February 2024, up from about $20M this time last year &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251121/p21#a251121p21)
+ - [Skip the Lines and Shop These 85+ Early Black Friday Deals from Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)
  - [Senators Want Extremism Researchers to Surrender Documents Linked to Right-Wing Grudges](https://www.wired.com/story/senators-want-extremism-researchers-to-surrender-documents-linked-to-right-wing-grudges/)
  - [Hoto’s slick new leaf blower looks ready to blast away leaves or alien invaders](https://www.theverge.com/news/826189/hoto-cordless-leaf-blower-720-cfm-120-mph)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [Apple’s cheapest iPad is already $70 off for Black Friday](https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025)
- - [AI startups are turning their revenue into recruiting bait](https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor)<!-- TECH:END -->
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

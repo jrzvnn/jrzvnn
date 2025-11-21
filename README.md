@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 😝 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
- - 💣 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 💣 [What a talent......](http://9gag.com/gag/a6ZedZ8)
  - 😝 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)
- - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
+ - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
 
 ---
 

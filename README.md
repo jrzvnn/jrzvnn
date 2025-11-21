@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 💣 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 😝 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)
- - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
+ - 😝 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
+ - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 💣 [Damn boys](http://9gag.com/gag/aD2q3Yx)
+ - 😝 [I don\u2019t even have a garage](http://9gag.com/gag/aD2qmxO)
+ - 👉 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
  - [Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/251121/p12#a251121p12)
  - [13 Best Kids Headphones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-kids-headphones/)
  - [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)
- - [Apple’s new limited edition iPhone grip is all about accessibility](https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition)
- - [IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251121/p11#a251121p11)<!-- TECH:END -->
+ - [Apple’s new limited edition iPhone grip is all about accessibility](https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

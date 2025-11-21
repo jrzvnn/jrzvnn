@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
  - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 💣 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 😝 [Hiker captures his own shadow floating in the mountain mist](http://9gag.com/gag/axyeGWW)
- - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
+ - 💣 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 😝 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)
+ - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
 
 ---
 

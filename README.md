@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 💣 [It&#39;s just a prank, bro](http://9gag.com/gag/aD2qmyG)
+ - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Hiker captures his own shadow floating in the mountain mist](http://9gag.com/gag/axyeGWW)<!-- MEMES:END -->
+ - 👉 [It&#39;s just a prank, bro](http://9gag.com/gag/aD2qmyG)<!-- MEMES:END -->
 
 ---
 

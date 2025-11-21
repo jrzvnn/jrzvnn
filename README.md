@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Finally, I died peacefully](http://9gag.com/gag/aqyV2wZ)
- - 😝 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)
- - 💣 [Everything is already calculated](http://9gag.com/gag/a34zL5Q)
+ - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
+ - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)<!-- MEMES:END -->
+ - 👉 [I&#39;d say yes to both](http://9gag.com/gag/an70Nyn)<!-- MEMES:END -->
 
 ---
 

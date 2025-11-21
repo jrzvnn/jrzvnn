@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
  - 😝 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
- - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [I&#39;d say yes to both](http://9gag.com/gag/an70Nyn)<!-- MEMES:END -->
+ - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
 
 ---
 

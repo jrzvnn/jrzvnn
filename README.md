@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [11 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [The PlayStation 5 Slim and Pro are on sale for Black Friday](https://www.theverge.com/gadgets/824326/playstation-5-ps5-pro-black-friday-deal-sale-2025)
+ - [Meta enters electricity trading to help accelerate the construction of new US power plants critical for its AI infrastructure buildout &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p15#a251121p15)
  - [AI agents are invading your PC](https://www.theverge.com/podcast/825979/ai-agents-are-invading-your-pc)
- - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
- - [AI nutrition tracking stinks](https://www.theverge.com/column/825219/optimizer-ai-nutrition-tracking-wellness)
- - [Google&#39;s new &#39;Wicked&#39;-inspired ad takes another swing at the iPhone](https://appleinsider.com/articles/25/11/21/googles-new-wicked-inspired-ad-takes-another-swing-at-the-iphone?utm_source=rss)
- - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)<!-- TECH:END -->
+ - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

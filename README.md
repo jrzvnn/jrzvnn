@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Instead of Fitbit’s AI Health Coach, You Could Just Have Friends](https://www.wired.com/story/google-fitbit-health-coach-preview/)
  - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)
  - [A Viral Chinese Wristband Claims to Zap You Awake. The Public Says &#39;No Thanks’](https://www.wired.com/story/viral-chinese-wristband-claims-to-zap-you-awake/)
  - [Best Internet Providers in San Francisco](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
- - [Best Internet Providers for November 2025](https://www.cnet.com/home/internet/best-internet-providers/#ftag=CAD590a51e)
- - [Foxconn Chair Young Liu says the company will spend $2B to $3B per year in AI in the next three to five years and is discussing potential investments with Japan &lpar;Reuters&rpar;](http://www.techmeme.com/251121/p7#a251121p7)<!-- TECH:END -->
+ - [Best Internet Providers for November 2025](https://www.cnet.com/home/internet/best-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These Beats Headphones Are Marked Down to $150 for Black Friday](https://www.wired.com/story/beats-studio-pro-deal-1125/)
+ - [CrowdStrike confirms that an insider shared screenshots from internal systems with unnamed threat actors but says its systems were not breached &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251121/p22#a251121p22)
  - [Where the rumored budget MacBook fits in Apple&#39;s laptop lineup](https://appleinsider.com/articles/25/11/21/where-the-rumored-budget-macbook-fits-in-apples-laptop-lineup?utm_source=rss)
  - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025/)
- - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)
- - [Kids in China Are Using Bots and Engagement Hacks to Look More Popular on Their Smartwatches](https://www.wired.com/story/kids-in-china-are-scheming-and-buying-bots-to-win-clout-on-their-watches/)
- - [Who is AI nostalgia slop even for?](https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers)<!-- TECH:END -->
+ - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

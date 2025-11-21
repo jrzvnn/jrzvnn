@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel)
  - [Instead of Fitbit’s AI Health Coach, You Could Just Have Friends](https://www.wired.com/story/google-fitbit-health-coach-preview/)
  - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)
- - [A Viral Chinese Wristband Claims to Zap You Awake. The Public Says &#39;No Thanks’](https://www.wired.com/story/viral-chinese-wristband-claims-to-zap-you-awake/)
- - [Best Internet Providers in San Francisco](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 21, #424](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-21-424/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 21, #894](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-21-894/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [High caste will NOT be questioned.](http://9gag.com/gag/a5Q9dnq)
+ - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
  - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 💣 [This guy got arrested](http://9gag.com/gag/aNDGeoG)
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
+ - 💣 [What a talent......](http://9gag.com/gag/a6ZedZ8)
+ - 😝 [In a parallel universe...](http://9gag.com/gag/aVv9WZO)
+ - 👉 [This guy got arrested](http://9gag.com/gag/aNDGeoG)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Analogue 3D will be available again next week, but with a $20 price bump](https://www.theverge.com/news/826302/analogue-3d-console-nintendo-64-restock-price-increase)
+ - [Sources: the US has probed whether the products of China&#39;s Bitmain, which sells most of the world&#39;s Bitcoin-mining machines, pose risks of espionage or sabotage &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p19#a251121p19)
+ - [Fujifilm Instax Mini LiPlay+ Review: A Camera and Printer in One](https://www.wired.com/review/fujifilm-instax-mini-liplay-plus/)
  - [Google starts rolling out ads in AI mode; the ads look similar to the citations in AI answers but with a &quot;sponsored&quot; label &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/251121/p18#a251121p18)
- - [Sources: Meta plans to test an AI-powered personalized daily briefing, designed to compete with ChatGPT&#39;s Pulse, with some Facebook users in NYC and SF &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251121/p17#a251121p17)
- - [Public anxiety about Apple&#39;s Digital ID greatly overstates actual risks](https://appleinsider.com/articles/25/11/21/public-anxiety-about-apples-digital-id-greatly-overstates-actual-risks?utm_source=rss)
- - [There Is Only One AI Company. Welcome to the Blob](https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/)
- - [Sorcero, which makes AI agents for pharmaceutical companies to market new medications, raised a $42.5M Series B, bringing its total funding to $59M &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/251121/p16#a251121p16)<!-- TECH:END -->
+ - [Sources: Meta plans to test an AI-powered personalized daily briefing, designed to compete with ChatGPT&#39;s Pulse, with some Facebook users in NYC and SF &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251121/p17#a251121p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

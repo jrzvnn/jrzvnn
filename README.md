@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Files - How to manage files like a pro on iPhone, iPad, and Apple Vision Pro](https://appleinsider.com/inside/ipados-26/tips/inside-files---how-to-manage-files-like-a-pro-on-iphone-ipad-and-apple-vision-pro?utm_source=rss)
- - [Apple’s Most Overlooked App Just Got a Lot Better](https://www.wired.com/story/apple-shortcuts-just-got-a-lot-better/)
- - [Ubisoft delayed reporting its Q2 results after auditors found it improperly booked sales from a partnership as revenue, forcing it to restate its accounts &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/251121/p10#a251121p10)
- - [A $100 Million AI Super PAC Targeted New York Democrat Alex Bores. He Thinks It Backfired](https://www.wired.com/story/alex-bores-andreessen-horowitz-super-pac-ai-regulation-new-york/)
- - [After a delay, Ubisoft reports Q2 net bookings up 39% YoY to €490.8M, above €450M est., and expects Q3 bookings of €305M; Ubisoft resumed trading on November 21 &lpar;Leo Marchandon/Reuters&rpar;](http://www.techmeme.com/251121/p9#a251121p9)<!-- TECH:END -->
+ - [IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251121/p11#a251121p11)
+ - [The Nama M1 Is the Best Nut Milk Maker We’ve Tested in 2025](https://www.wired.com/gallery/the-best-nut-milk-maker/)
+ - [A Computer Science Professor Invented the Emoticon After a Joke Went Wrong](https://www.wired.com/story/a-computer-scientist-invented-the-emoticon-after-his-colleagues-misunderstood-sarcasm/)
+ - [NordPass Review: An Almost Flawless Password Manager](https://www.wired.com/review/nordpass-2025/)
+ - [The new silicon valley &lpar;literally&rpar;](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

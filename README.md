@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Airbnb says CTO Ari Balogh, who joined seven years ago from Google, plans to step down in December &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251121/p25#a251121p25)
+ - [The 65 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
  - [Sources: Trump&#39;s team recently discussed letting Nvidia sell H200 chips to China, a major departure from the administration&#39;s earlier public stances &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p24#a251121p24)
  - [Press a button and this SSD will self-destruct with all your data](https://www.theverge.com/news/826338/teamgroup-t-create-expert-p35s-externa-ssd-self-destruct-button)
- - [The 36 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
- - [Sony&amp;#8217;s PlayStation Portal just got a rare discount for Black Friday](https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025)
- - [Google confirms hackers stole Salesforce-stored data from 200+ companies via a supply chain hack involving Gainsight, which provides a customer support platform &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251121/p23#a251121p23)<!-- TECH:END -->
+ - [Best iPad of 2025: Top iPad Air, iPad Mini, iPad Pro Picks](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

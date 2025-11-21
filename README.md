@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwan&#39;s minister Wu Cheng-wen says the US won&#39;t impose &quot;punishing&quot; tariffs on Taiwan, after a &quot;consensus&quot; that Taiwan would support the US chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p57#a251120p57)
+ - [X ends its 2023 lawsuit against law firm Wachtell to recover most of the $90M fee the firm received for defeating Musk&#39;s bid to exit his $44B Twitter buyout &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251120/p56#a251120p56)
  - [The SEC drops its 2023 case against SolarWinds and its CISO Tim Brown, which alleged they concealed vulnerabilities ahead of the Russia-linked 2020 cyberattack &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/251120/p55#a251120p55)
  - [Filings: Meta&#39;s board agreed to a $190M settlement with investors over claims that Zuckerberg and other board members mishandled the Cambridge Analytica scandal &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/251120/p54#a251120p54)
- - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-21/#ftag=CAD590a51e)
- - [OpenAI partners with Foxconn to design and develop data center server racks to be manufactured in the US; Foxconn will produce cabling, power systems, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p53#a251120p53)
- - [Grok&#39;s chatbot on X says Elon Musk is superior at almost anything, including drinking urine; Musk says Grok was &quot;manipulated by adversarial prompting&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/251120/p52#a251120p52)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-21/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

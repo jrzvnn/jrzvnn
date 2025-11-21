@@ -168,7 +168,7 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
  - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 💣 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
  - 👉 [I&#39;d say yes to both](http://9gag.com/gag/an70Nyn)<!-- MEMES:END -->
 

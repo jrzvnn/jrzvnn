@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
- - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 😝 [First Mortgage Payment - Visualized](http://9gag.com/gag/aPAVDWV)
+ - 😝 [Thanks satan](http://9gag.com/gag/axyejGp)
+ - 💣 [Cat&#39;s parenting](http://9gag.com/gag/aVv9PQn)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [One console to rule them all](http://9gag.com/gag/a87vMpe)<!-- MEMES:END -->
+ - 👉 [Interesting piece of history...*](http://9gag.com/gag/ajP3nL1)<!-- MEMES:END -->
 
 ---
 

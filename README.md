@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best AI video upscaling app: Enhance video quality to 4K on Mac](https://appleinsider.com/articles/25/11/21/best-ai-video-upscaling-app-enhance-video-quality-to-4k-on-mac?utm_source=rss)
  - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
  - [Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/251121/p12#a251121p12)
  - [13 Best Kids Headphones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-kids-headphones/)
- - [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)
- - [Apple’s new limited edition iPhone grip is all about accessibility](https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition)<!-- TECH:END -->
+ - [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

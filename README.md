@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Sam Altman told OpenAI employees last month that Google&#39;s recent progress in AI could &quot;create some temporary economic headwinds for our company&quot; &lpar;The Information&rpar;](http://www.techmeme.com/251121/p2#a251121p2)
+ - [How to use the Apple Maps Library feature](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-apple-maps-library-feature-in-ios-18?utm_source=rss)
+ - [Australia adds Twitch to teen social media ban; Twitch plans to deactivate accounts for 16-and-under users from Jan. 9 and bar new underage users from Dec. 10 &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/251121/p1#a251121p1)
  - [AI-driven crowdsourced hedge fund Numerai raised a $30M Series C led by university endowments, with Paul Tudor Jones also participating, at a $500M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p58#a251120p58)
- - [Taiwan&#39;s minister Wu Cheng-wen says the US won&#39;t impose &quot;punishing&quot; tariffs on Taiwan, after a &quot;consensus&quot; that Taiwan would support the US chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p57#a251120p57)
- - [X ends its 2023 lawsuit against law firm Wachtell to recover most of the $90M fee the firm received for defeating Musk&#39;s bid to exit his $44B Twitter buyout &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/251120/p56#a251120p56)
- - [The SEC drops its 2023 case against SolarWinds and its CISO Tim Brown, which alleged they concealed vulnerabilities ahead of the Russia-linked 2020 cyberattack &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/251120/p55#a251120p55)
- - [Filings: Meta&#39;s board agreed to a $190M settlement with investors over claims that Zuckerberg and other board members mishandled the Cambridge Analytica scandal &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/251120/p54#a251120p54)<!-- TECH:END -->
+ - [Taiwan&#39;s minister Wu Cheng-wen says the US won&#39;t impose &quot;punishing&quot; tariffs on Taiwan, after a &quot;consensus&quot; that Taiwan would support the US chip industry &lpar;Financial Times&rpar;](http://www.techmeme.com/251120/p57#a251120p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [The 65 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
  - [Sources: Trump&#39;s team recently discussed letting Nvidia sell H200 chips to China, a major departure from the administration&#39;s earlier public stances &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p24#a251121p24)
  - [Press a button and this SSD will self-destruct with all your data](https://www.theverge.com/news/826338/teamgroup-t-create-expert-p35s-externa-ssd-self-destruct-button)
- - [Best iPad of 2025: Top iPad Air, iPad Mini, iPad Pro Picks](https://www.cnet.com/tech/computing/best-ipad/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 36 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

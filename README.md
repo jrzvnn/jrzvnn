@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
- - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)<!-- MEMES:END -->
+ - 👉 [POV: What does that girl who posts yachts on her story see every night?](http://9gag.com/gag/aoyG95n)<!-- MEMES:END -->
 
 ---
 

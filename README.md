@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 💣 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
+ - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [This little squirrel has more critical thinking skills than most people](http://9gag.com/gag/a9y47ro)<!-- MEMES:END -->
+ - 👉 [One console to rule them all](http://9gag.com/gag/a87vMpe)<!-- MEMES:END -->
 
 ---
 

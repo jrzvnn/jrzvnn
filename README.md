@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Trump&#39;s team recently discussed letting Nvidia sell H200 chips to China, a major departure from the administration&#39;s earlier public stances &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p24#a251121p24)
  - [Press a button and this SSD will self-destruct with all your data](https://www.theverge.com/news/826338/teamgroup-t-create-expert-p35s-externa-ssd-self-destruct-button)
  - [The 36 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)
  - [Sony&amp;#8217;s PlayStation Portal just got a rare discount for Black Friday](https://www.theverge.com/gadgets/825985/sony-playstation-portal-black-friday-deal-sale-2025)
- - [Google confirms hackers stole Salesforce-stored data from 200+ companies via a supply chain hack involving Gainsight, which provides a customer support platform &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251121/p23#a251121p23)
- - [These Beats Headphones Are Marked Down to $150 for Black Friday](https://www.wired.com/story/beats-studio-pro-deal-1125/)<!-- TECH:END -->
+ - [Google confirms hackers stole Salesforce-stored data from 200+ companies via a supply chain hack involving Gainsight, which provides a customer support platform &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251121/p23#a251121p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

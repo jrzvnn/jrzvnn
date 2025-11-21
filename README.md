@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bret Taylor says his AI agent startup Sierra has hit $100M in ARR, after launching in February 2024, up from about $20M this time last year &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251121/p21#a251121p21)
- - [Senators Want Extremism Researchers to Surrender Documents Linked to Right-Wing Grudges](https://www.wired.com/story/senators-want-extremism-researchers-to-surrender-documents-linked-to-right-wing-grudges/)
- - [Hoto’s slick new leaf blower looks ready to blast away leaves or alien invaders](https://www.theverge.com/news/826189/hoto-cordless-leaf-blower-720-cfm-120-mph)
- - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
- - [Apple’s cheapest iPad is already $70 off for Black Friday](https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025)<!-- TECH:END -->
+ - [Where the rumored budget MacBook fits in Apple&#39;s laptop lineup](https://appleinsider.com/articles/25/11/21/where-the-rumored-budget-macbook-fits-in-apples-laptop-lineup?utm_source=rss)
+ - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025/)
+ - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)
+ - [Kids in China Are Using Bots and Engagement Hacks to Look More Popular on Their Smartwatches](https://www.wired.com/story/kids-in-china-are-scheming-and-buying-bots-to-win-clout-on-their-watches/)
+ - [Who is AI nostalgia slop even for?](https://www.theverge.com/ai-artificial-intelligence/825498/openai-sora-video-slop-nostalgia-mister-rogers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
  - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
+ - 👉 [One console to rule them all](http://9gag.com/gag/a87vMpe)<!-- MEMES:END -->
 
 ---
 

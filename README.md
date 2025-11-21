@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Posha vs. Thermomix: Kitchen Robots Face Off on Thanksgiving Sides](https://www.wired.com/story/i-tasked-rival-robots-with-cooking-my-thanksgiving-dinner/)
+ - [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
  - [Q&amp;A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251121/p13#a251121p13)
  - [Best AI video upscaling app: Enhance video quality to 4K on Mac](https://appleinsider.com/articles/25/11/21/best-ai-video-upscaling-app-enhance-video-quality-to-4k-on-mac?utm_source=rss)
- - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)
- - [Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/251121/p12#a251121p12)
- - [13 Best Kids Headphones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-kids-headphones/)<!-- TECH:END -->
+ - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

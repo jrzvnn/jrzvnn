@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)
+ - [You can save up to $1,300 on robovacs from Roborock and Eufy ahead of Black Friday](https://www.theverge.com/gadgets/823578/black-friday-best-early-robot-vacuum-mop-deals-2025)
  - [Anthropic finds that LLMs trained to &quot;reward hack&quot; by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research &lpar;Anthropic&rpar;](http://www.techmeme.com/251121/p28#a251121p28)
  - [I Finally Found a Robot Vacuum That Can Conquer Every Obstacle in My Home, and It&#39;s at an All-Time Low Price for Black Friday](https://www.cnet.com/deals/i-finally-found-a-robot-vacuum-that-can-conquer-every-obstacle-in-my-home-and-its-at-an-all-time-low-price-for-black-friday/#ftag=CAD590a51e)
- - [A look at AMD&#39;s pivot to AI chips in 2022 under CEO Lisa Su, increasing AMD&#39;s market value from $90B to $335B+ in three years, as the chipmaker takes on Nvidia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p27#a251121p27)
- - [Skip the Lines and Shop These 85+ Early Black Friday Deals From Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at AMD&#39;s pivot to AI chips in 2022 under CEO Lisa Su, increasing AMD&#39;s market value from $90B to $335B+ in three years, as the chipmaker takes on Nvidia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p27#a251121p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

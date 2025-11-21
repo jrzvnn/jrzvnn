@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-black-friday-deals-2025/)
- - [Sources: the US has probed whether the products of China&#39;s Bitmain, which sells most of the world&#39;s Bitcoin-mining machines, pose risks of espionage or sabotage &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p19#a251121p19)
- - [Fujifilm Instax Mini LiPlay+ Review: A Camera and Printer in One](https://www.wired.com/review/fujifilm-instax-mini-liplay-plus/)
- - [Google starts rolling out ads in AI mode; the ads look similar to the citations in AI answers but with a &quot;sponsored&quot; label &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/251121/p18#a251121p18)
- - [Sources: Meta plans to test an AI-powered personalized daily briefing, designed to compete with ChatGPT&#39;s Pulse, with some Facebook users in NYC and SF &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251121/p17#a251121p17)<!-- TECH:END -->
+ - [Senators Want Extremism Researchers to Surrender Documents Linked to Right-Wing Grudges](https://www.wired.com/story/senators-want-extremism-researchers-to-surrender-documents-linked-to-right-wing-grudges/)
+ - [Hoto’s slick new leaf blower looks ready to blast away leaves or alien invaders](https://www.theverge.com/news/826189/hoto-cordless-leaf-blower-720-cfm-120-mph)
+ - [Best Bird Feeders With Cameras, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeders/)
+ - [Apple’s cheapest iPad is already $70 off for Black Friday](https://www.theverge.com/tech/825254/ipad-a16-black-friday-deal-sale-2025)
+ - [AI startups are turning their revenue into recruiting bait](https://www.theverge.com/column/826172/ai-startup-arr-numbers-sierra-bret-taylor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

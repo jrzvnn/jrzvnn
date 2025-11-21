@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AI agents are invading your PC](https://www.theverge.com/podcast/825979/ai-agents-are-invading-your-pc)
+ - [The Best Motorola Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-motorola-phones/)
+ - [AI nutrition tracking stinks](https://www.theverge.com/column/825219/optimizer-ai-nutrition-tracking-wellness)
  - [Google&#39;s new &#39;Wicked&#39;-inspired ad takes another swing at the iPhone](https://appleinsider.com/articles/25/11/21/googles-new-wicked-inspired-ad-takes-another-swing-at-the-iphone?utm_source=rss)
- - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)
- - [The Asus Falcata Hall effect split gaming keyboard is $140 off right now](https://www.theverge.com/gadgets/824372/asus-falcata-split-ergo-keyboard-hall-effect-deal-sale-black-friday)
- - [Apple gives up on Mac Pro, an iPhone designer, and MLS on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/21/apple-gives-up-on-mac-pro-an-iphone-designer-and-mls-on-the-appleinsider-podcast?utm_source=rss)
- - [At a recent all-hands meeting, Google&#39;s head of AI infrastructure Amin Vahdat said Google must double AI compute capacity every six months to meet demand &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251121/p14#a251121p14)<!-- TECH:END -->
+ - [Best early Black Friday Mac mini deals deliver up to $1,145 off](https://appleinsider.com/articles/25/11/19/best-early-black-friday-mac-mini-deals-deliver-up-to-1145-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

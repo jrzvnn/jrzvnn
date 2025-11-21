@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC drops its 2023 case against SolarWinds and its CISO Tim Brown, which alleged they concealed vulnerabilities ahead of the Russia-linked 2020 cyberattack &lpar;Chris Prentice/Reuters&rpar;](http://www.techmeme.com/251120/p55#a251120p55)
+ - [Filings: Meta&#39;s board agreed to a $190M settlement with investors over claims that Zuckerberg and other board members mishandled the Cambridge Analytica scandal &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/251120/p54#a251120p54)
  - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 21](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-21/#ftag=CAD590a51e)
  - [OpenAI partners with Foxconn to design and develop data center server racks to be manufactured in the US; Foxconn will produce cabling, power systems, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p53#a251120p53)
- - [Grok&#39;s chatbot on X says Elon Musk is superior at almost anything, including drinking urine; Musk says Grok was &quot;manipulated by adversarial prompting&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/251120/p52#a251120p52)
- - [Internet Providers Can Monitor Their Own Cybersecurity Standards, Says Trump’s FCC](https://www.cnet.com/home/internet/internet-providers-can-monitor-their-own-cybersecurity-standards-says-trumps-fcc/#ftag=CAD590a51e)
- - [A survey of US adults on social media: 84% use YouTube, 71% use Facebook, 50% use Instagram, 37% use TikTok, 32% use WhatsApp, 26% use Reddit, and 21% use X &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251120/p51#a251120p51)<!-- TECH:END -->
+ - [Grok&#39;s chatbot on X says Elon Musk is superior at almost anything, including drinking urine; Musk says Grok was &quot;manipulated by adversarial prompting&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/251120/p52#a251120p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

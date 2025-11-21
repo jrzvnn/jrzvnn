@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Nothing’s Android 16 update puts a progress bar on the back of your phone](https://www.theverge.com/news/826648/nothing-android-16-live-updates-glyph)
  - [In Kirby Air Riders, expression is more fun than racing](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)
- - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
- - [MediaWorld Accidentally Sold iPads for €15 and Asked for Them Back: &quot;It Was a Clear Mistake&quot;](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/)
- - [Pranksters Recreated a Working Version of Jeffrey Epstein’s Gmail Inbox](https://www.wired.com/story/pranksters-recreated-a-working-version-of-jeffrey-epstein-gmail-inbox/)<!-- TECH:END -->
+ - [Over 70 of the Best Star Wars Gifts for 2025: From Legos to Lightsabers, Artwork and More](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
+ - [TikTok Rolls Out New Tools to Help Curb Scrolling Time](https://www.cnet.com/tech/services-and-software/tiktok-rolls-out-new-tools-aimed-at-curbing-teen-scrolling-time/#ftag=CAD590a51e)
+ - [Skip the Lines and Shop These 85+ Early Black Friday Deals From Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

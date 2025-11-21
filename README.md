@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic finds that LLMs trained to &quot;reward hack&quot; by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research &lpar;Anthropic&rpar;](http://www.techmeme.com/251121/p28#a251121p28)
  - [I Finally Found a Robot Vacuum That Can Conquer Every Obstacle in My Home, and It&#39;s at an All-Time Low Price for Black Friday](https://www.cnet.com/deals/i-finally-found-a-robot-vacuum-that-can-conquer-every-obstacle-in-my-home-and-its-at-an-all-time-low-price-for-black-friday/#ftag=CAD590a51e)
  - [A look at AMD&#39;s pivot to AI chips in 2022 under CEO Lisa Su, increasing AMD&#39;s market value from $90B to $335B+ in three years, as the chipmaker takes on Nvidia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p27#a251121p27)
  - [Skip the Lines and Shop These 85+ Early Black Friday Deals From Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)
- - [Activists Are Using &#39;Fortnite&#39; to Fight Back Against ICE](https://www.wired.com/story/activists-are-using-fortnite-to-fight-back-against-ice/)
- - [Didn&#39;t Get a Sora 2 Invite Code? You Don&#39;t Need One to Use the Viral App](https://www.cnet.com/tech/services-and-software/didnt-get-a-sora-2-invite-code-you-dont-need-one-to-use-the-viral-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Activists Are Using &#39;Fortnite&#39; to Fight Back Against ICE](https://www.wired.com/story/activists-are-using-fortnite-to-fight-back-against-ice/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

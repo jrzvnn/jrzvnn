@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gives up on Mac Pro, an iPhone designer, and MLS on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/21/apple-gives-up-on-mac-pro-an-iphone-designer-and-mls-on-the-appleinsider-podcast?utm_source=rss)
+ - [At a recent all-hands meeting, Google&#39;s head of AI infrastructure Amin Vahdat said Google must double AI compute capacity every six months to meet demand &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/251121/p14#a251121p14)
  - [Posha vs. Thermomix: Kitchen Robots Face Off on Thanksgiving Sides](https://www.wired.com/story/i-tasked-rival-robots-with-cooking-my-thanksgiving-dinner/)
  - [I signed up for Trump Mobile two weeks ago and I still don’t have my SIM](https://www.theverge.com/tech/825190/trump-mobile-service-customer-care-sim)
- - [Q&amp;A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251121/p13#a251121p13)
- - [Best AI video upscaling app: Enhance video quality to 4K on Mac](https://appleinsider.com/articles/25/11/21/best-ai-video-upscaling-app-enhance-video-quality-to-4k-on-mac?utm_source=rss)
- - [6 Best Phones With Headphone Jacks &lpar;2025&rpar;: Tested and Reviewed](https://www.wired.com/gallery/best-headphone-jack-phones/)<!-- TECH:END -->
+ - [Q&amp;A with Roblox co-founder and CEO David Baszucki on using face scans to verify age, having a chat function on Roblox, AI content moderation at scale, and more &lpar;New York Times&rpar;](http://www.techmeme.com/251121/p13#a251121p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

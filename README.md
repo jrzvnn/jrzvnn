@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
  - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 👉 [Husbands be like](http://9gag.com/gag/apRnB2B)<!-- MEMES:END -->
+ - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
+ - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
 
 ---
 

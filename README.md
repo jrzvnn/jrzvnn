@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [It&#39;s just a prank, bro](http://9gag.com/gag/aD2qmyG)<!-- MEMES:END -->
+ - 👉 [I&#39;d say yes to both](http://9gag.com/gag/an70Nyn)<!-- MEMES:END -->
 
 ---
 

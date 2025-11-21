@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
- - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
+ - 😝 [Thanks satan](http://9gag.com/gag/axyejGp)
+ - 😝 [Cat&#39;s parenting](http://9gag.com/gag/aVv9PQn)
+ - 💣 [Interesting piece of history...*](http://9gag.com/gag/ajP3nL1)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [POV: What does that girl who posts yachts on her story see every night?](http://9gag.com/gag/aoyG95n)<!-- MEMES:END -->
+ - 👉 [Straight to Hell](http://9gag.com/gag/apRnvoD)<!-- MEMES:END -->
 
 ---
 

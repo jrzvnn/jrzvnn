@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [“ You’ve hardly touched your hotdickles.”](https://www.reddit.com/r/funny/comments/1p2pf4y/youve_hardly_touched_your_hotdickles/)
  - 😝 [40....love](http://9gag.com/gag/azxvExm)
- - 💣 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
- - 😝 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
- - 👉 [Damn boys](http://9gag.com/gag/aD2q3Yx)<!-- MEMES:END -->
+ - 😝 [Man only want one thing and it&#39;s disgusting.](http://9gag.com/gag/ae9q3ZO)
+ - 💣 [It`s wednesday my degens :&rpar;](http://9gag.com/gag/aYQvb5O)
+ - 😝 [Damn boys](http://9gag.com/gag/aD2q3Yx)
+ - 👉 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)<!-- MEMES:END -->
 
 ---
 

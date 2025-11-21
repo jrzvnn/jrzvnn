@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI partners with Foxconn to design and develop data center server racks to be manufactured in the US; Foxconn will produce cabling, power systems, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p53#a251120p53)
  - [Grok&#39;s chatbot on X says Elon Musk is superior at almost anything, including drinking urine; Musk says Grok was &quot;manipulated by adversarial prompting&quot; &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/251120/p52#a251120p52)
+ - [Internet Providers Can Monitor Their Own Cybersecurity Standards, Says Trump’s FCC](https://www.cnet.com/home/internet/internet-providers-can-monitor-their-own-cybersecurity-standards-says-trumps-fcc/#ftag=CAD590a51e)
  - [A survey of US adults on social media: 84% use YouTube, 71% use Facebook, 50% use Instagram, 37% use TikTok, 32% use WhatsApp, 26% use Reddit, and 21% use X &lpar;Pew Research Center&rpar;](http://www.techmeme.com/251120/p51#a251120p51)
- - [Hands On With Google&#39;s Nano Banana Pro Image Generator](https://www.wired.com/story/google-nano-banana-pro-hands-on/)
- - [Best Budget Noise-Canceling Headphones Under $100 for 2025](https://www.cnet.com/tech/mobile/best-budget-noise-canceling-headphones-under-100/#ftag=CAD590a51e)
- - [Apple AirPods 4 fall to record low $79.99 during Amazon&#39;s Black Friday sale](https://appleinsider.com/articles/25/11/20/apple-airpods-4-fall-to-record-low-7999-during-amazons-black-friday-sale?utm_source=rss)<!-- TECH:END -->
+ - [Hands On With Google’s Nano Banana Pro Image Generator](https://www.wired.com/story/google-nano-banana-pro-hands-on/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

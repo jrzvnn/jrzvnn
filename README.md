@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Analogue 3D will be available again next week, but with a $20 price bump](https://www.theverge.com/news/826302/analogue-3d-console-nintendo-64-restock-price-increase)
+ - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-black-friday-deals-2025/)
  - [Sources: the US has probed whether the products of China&#39;s Bitmain, which sells most of the world&#39;s Bitcoin-mining machines, pose risks of espionage or sabotage &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p19#a251121p19)
  - [Fujifilm Instax Mini LiPlay+ Review: A Camera and Printer in One](https://www.wired.com/review/fujifilm-instax-mini-liplay-plus/)
  - [Google starts rolling out ads in AI mode; the ads look similar to the citations in AI answers but with a &quot;sponsored&quot; label &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/251121/p18#a251121p18)

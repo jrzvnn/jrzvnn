@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 😝 [Security guy, a man of integrity tried to save the player&#39;s life](http://9gag.com/gag/azxvbBm)
- - 💣 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 😝 [Hiker captures his own shadow floating in the mountain mist](http://9gag.com/gag/axyeGWW)
- - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
+ - 😝 [Damn boys](http://9gag.com/gag/aD2q3Yx)
+ - 😝 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
+ - 💣 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 😝 [My dad and his friends looked like the cast of Stranger Things &lpar;1982&rpar;](http://9gag.com/gag/a7ombDz)
+ - 👉 [Seagull vs crow accuracy contest](http://9gag.com/gag/azxvE9z)<!-- MEMES:END -->
 
 ---
 

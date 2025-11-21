@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
- - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 😝 [Straight to Hell](http://9gag.com/gag/apRnvoD)
+ - 😝 [Night before a day off hits different](http://9gag.com/gag/azxvVDj)
+ - 💣 [This is too accurate](http://9gag.com/gag/aqyVZWj)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Just minding your own business](http://9gag.com/gag/aLnOBAW)<!-- MEMES:END -->
+ - 👉 [Everything is already calculated](http://9gag.com/gag/a34zL5Q)<!-- MEMES:END -->
 
 ---
 

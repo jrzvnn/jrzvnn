@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
+ - [MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/)
+ - [Pranksters Recreated a Working Version of Jeffrey Epstein’s Gmail Inbox](https://www.wired.com/story/pranksters-recreated-a-working-version-of-jeffrey-epstein-gmail-inbox/)
  - [Filing: Airbnb says CTO Ari Balogh, who joined seven years ago from Google, plans to step down in December &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251121/p25#a251121p25)
- - [The 65 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
- - [Sources: Trump&#39;s team recently discussed letting Nvidia sell H200 chips to China, a major departure from the administration&#39;s earlier public stances &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p24#a251121p24)
- - [Press a button and this SSD will self-destruct with all your data](https://www.theverge.com/news/826338/teamgroup-t-create-expert-p35s-externa-ssd-self-destruct-button)
- - [The 36 best gift ideas for mom this holiday season](https://www.theverge.com/gadgets/802964/best-mom-gift-ideas)<!-- TECH:END -->
+ - [The 65 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 💣 [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
+ - 💣 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
  - 😝 [Hiker captures his own shadow floating in the mountain mist](http://9gag.com/gag/axyeGWW)
  - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
 

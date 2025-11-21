@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta rolls out link sharing to let users invite up to eight people into their Hyperscape virtual rooms via a Quest 3 or 3S headset, or the Horizon mobile app &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/251121/p4#a251121p4)
  - [Samsung names mobile chief TM Roh as co-CEO and DX division head; Roh was serving as consumer business acting head since April after co-CEO Han Jong-Hee&#39;s death &lpar;Heekyong Yang/Reuters&rpar;](http://www.techmeme.com/251121/p3#a251121p3)
  - [Internal memo: Sam Altman told OpenAI employees last month that Google&#39;s recent progress in AI could &quot;create some temporary economic headwinds for our company&quot; &lpar;The Information&rpar;](http://www.techmeme.com/251121/p2#a251121p2)
  - [How to use the Apple Maps Library feature](https://appleinsider.com/inside/apple-maps/tips/how-to-use-the-apple-maps-library-feature-in-ios-18?utm_source=rss)
- - [Australia adds Twitch to teen social media ban; Twitch plans to deactivate accounts for 16-and-under users from Jan. 9 and bar new underage users from Dec. 10 &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/251121/p1#a251121p1)
- - [Numerai, which trades stocks using AI-driven ideas from freelance finance quants, raised a $30M Series C led by university endowments at a $500M valuation &lpar;Bloomberg&rpar;](http://www.techmeme.com/251120/p58#a251120p58)<!-- TECH:END -->
+ - [Australia adds Twitch to teen social media ban; Twitch plans to deactivate accounts for 16-and-under users from Jan. 9 and bar new underage users from Dec. 10 &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/251121/p1#a251121p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

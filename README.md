@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s some serious magic](http://9gag.com/gag/a1m8Z4G)
- - 😝 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
- - 💣 [Seagull vs crow accuracy contest](http://9gag.com/gag/azxvE9z)
+ - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 💣 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)
  - 😝 [My ancestors would be so disappointed in my December activities](http://9gag.com/gag/aO8nmwE)
- - 👉 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)<!-- MEMES:END -->
+ - 👉 [This world seems funny](http://9gag.com/gag/ae9q3pm)<!-- MEMES:END -->
 
 ---
 

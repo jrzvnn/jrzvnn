@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thanks satan](http://9gag.com/gag/axyejGp)
- - 😝 [Cat&#39;s parenting](http://9gag.com/gag/aVv9PQn)
- - 💣 [Interesting piece of history...*](http://9gag.com/gag/ajP3nL1)
+ - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Straight to Hell](http://9gag.com/gag/apRnvoD)<!-- MEMES:END -->
+ - 👉 [Have a nice day](http://9gag.com/gag/azxvEbx)<!-- MEMES:END -->
 
 ---
 

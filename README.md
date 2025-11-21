@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet](https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider)
+ - [A US judge is expected to rule next year on breaking up Google&#39;s ad tech monopoly, after the DOJ and Google delivered closing arguments in a remedies hearing &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/251121/p26#a251121p26)
+ - [Grab AirPods 4 with ANC at a record low price of $99 this weekend](https://appleinsider.com/articles/25/11/21/grab-airpods-4-with-anc-at-a-record-low-price-of-99-this-weekend?utm_source=rss)
  - [Nothing’s Android 16 update puts a progress bar on the back of your phone](https://www.theverge.com/news/826648/nothing-android-16-live-updates-glyph)
- - [In Kirby Air Riders, expression is more fun than racing](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)
- - [Over 70 of the Best Star Wars Gifts for 2025: From Legos to Lightsabers, Artwork and More](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)
- - [TikTok Rolls Out New Tools to Help Curb Scrolling Time](https://www.cnet.com/tech/services-and-software/tiktok-rolls-out-new-tools-aimed-at-curbing-teen-scrolling-time/#ftag=CAD590a51e)
- - [Skip the Lines and Shop These 85+ Early Black Friday Deals From Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In Kirby Air Riders, expression is more fun than racing](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

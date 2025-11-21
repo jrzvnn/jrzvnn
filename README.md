@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google confirms hackers stole Salesforce-stored data from 200+ companies via a supply chain hack involving Gainsight, which provides a customer support platform &lpar;Lorenzo Franceschi-Bicchierai/TechCrunch&rpar;](http://www.techmeme.com/251121/p23#a251121p23)
  - [These Beats Headphones Are Marked Down to $150 for Black Friday](https://www.wired.com/story/beats-studio-pro-deal-1125/)
  - [CrowdStrike confirms that an insider shared screenshots from internal systems with unnamed threat actors but says its systems were not breached &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/251121/p22#a251121p22)
  - [Where the rumored budget MacBook fits in Apple&#39;s laptop lineup](https://appleinsider.com/articles/25/11/21/where-the-rumored-budget-macbook-fits-in-apples-laptop-lineup?utm_source=rss)
- - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025/)
- - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)<!-- TECH:END -->
+ - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

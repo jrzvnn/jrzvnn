@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is too accurate](http://9gag.com/gag/aqyVZWj)
  - 😝 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 💣 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 💣 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [One console to rule them all](http://9gag.com/gag/a87vMpe)<!-- MEMES:END -->
+ - 👉 [This little squirrel has more critical thinking skills than most people](http://9gag.com/gag/a9y47ro)<!-- MEMES:END -->
 
 ---
 

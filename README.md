@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 💣 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 😝 [Finally, I died peacefully](http://9gag.com/gag/aqyV2wZ)
+ - 😝 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)
+ - 💣 [Everything is already calculated](http://9gag.com/gag/a34zL5Q)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [I&#39;d say yes to both](http://9gag.com/gag/an70Nyn)<!-- MEMES:END -->
+ - 👉 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)<!-- MEMES:END -->
 
 ---
 

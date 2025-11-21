@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After a delay, Ubisoft reports Q2 net bookings up 39% YoY to €490.8M, above €450M est., and expects Q3 bookings of €305M; Ubisoft resumed trading on November 21 &lpar;Leo Marchandon/Reuters&rpar;](http://www.techmeme.com/251121/p9#a251121p9)
+ - [This Hacker Conference Installed a Literal Anti-Virus Monitoring System](https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/)
  - [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel)
  - [Instead of Fitbit’s AI Health Coach, You Could Just Have Friends](https://www.wired.com/story/google-fitbit-health-coach-preview/)
- - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 21, #424](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-21-424/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 21, #894](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-21-894/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

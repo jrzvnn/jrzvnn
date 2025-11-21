@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This world seems funny](http://9gag.com/gag/ae9q3pm)
- - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
- - 💣 [What a talent......](http://9gag.com/gag/a6ZedZ8)
- - 😝 [In a parallel universe...](http://9gag.com/gag/aVv9WZO)
- - 👉 [This guy got arrested](http://9gag.com/gag/aNDGeoG)<!-- MEMES:END -->
+ - 😝 [Bro,just reject me next time.](http://9gag.com/gag/aryDeBy)
+ - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
+ - 💣 [The benefit of fasting](http://9gag.com/gag/ae9q31O)
+ - 😝 [It&#39;s just a psyop](http://9gag.com/gag/aoyGjpn)
+ - 👉 [&lpar;\u2060\u251b\u2060\u25c9\u2060\u0414\u2060\u25c9\u2060&rpar;\u2060\u251b\u2060\u5f61\u2060\u253b\u2060\u2501\u2060\u253b](http://9gag.com/gag/ae9q34b)<!-- MEMES:END -->
 
 ---
 

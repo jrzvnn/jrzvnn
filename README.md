@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Foxconn Chair Young Liu says the company will spend $2B to $3B per year in AI in the next three to five years and is discussing potential investments with Japan &lpar;Reuters&rpar;](http://www.techmeme.com/251121/p7#a251121p7)
  - [The UK announces a £100M plan to support local AI hardware startups via guaranteed &quot;first customer&quot; payments, and estimates its AI market to be worth over £72B &lpar;Financial Times&rpar;](http://www.techmeme.com/251121/p6#a251121p6)
  - [GE HealthCare acquires Intelerad, which sells cloud imaging software and digital workflow tools primarily to outpatient and ambulatory sites, for $2.3B &lpar;Brock E.W. Turner/Axios&rpar;](http://www.techmeme.com/251121/p5#a251121p5)
  - [KitchenAid Promo Code: $250 Off in November 2025](https://www.wired.com/story/exclusive-kitchenaid-promo-code/)
- - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/airdoctor-coupon-code/)
- - [Peacock Promo Code &amp; Deals: 16% Off November 2025](https://www.wired.com/story/peacock-promo-code/)<!-- TECH:END -->
+ - [AirDoctor Coupon Codes: 40% Off | November 2025](https://www.wired.com/story/airdoctor-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

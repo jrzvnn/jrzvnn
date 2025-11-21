@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ubisoft delayed reporting its Q2 results after auditors found it improperly booked sales from a partnership as revenue, forcing it to restate its accounts &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/251121/p10#a251121p10)
  - [After a delay, Ubisoft reports Q2 net bookings up 39% YoY to €490.8M, above €450M est., and expects Q3 bookings of €305M; Ubisoft resumed trading on November 21 &lpar;Leo Marchandon/Reuters&rpar;](http://www.techmeme.com/251121/p9#a251121p9)
  - [This Hacker Conference Installed a Literal Anti-Virus Monitoring System](https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/)
  - [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel)
- - [Instead of Fitbit’s AI Health Coach, You Could Just Have Friends](https://www.wired.com/story/google-fitbit-health-coach-preview/)
- - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)<!-- TECH:END -->
+ - [Instead of Fitbit’s AI Health Coach, You Could Just Have Friends](https://www.wired.com/story/google-fitbit-health-coach-preview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

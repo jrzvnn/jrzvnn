@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at AMD&#39;s pivot to AI chips in 2022 under CEO Lisa Su, increasing AMD&#39;s market value from $90B to $335B+ in three years, as the chipmaker takes on Nvidia &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p27#a251121p27)
  - [Activists Are Using &#39;Fortnite&#39; to Fight Back Against ICE](https://www.wired.com/story/activists-are-using-fortnite-to-fight-back-against-ice/)
- - [You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet](https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider)
- - [A US judge is expected to rule next year on breaking up Google&#39;s ad tech monopoly, after the DOJ and Google delivered closing arguments in a remedies hearing &lpar;David McCabe/New York Times&rpar;](http://www.techmeme.com/251121/p26#a251121p26)
- - [Grab AirPods 4 with ANC at a record low price of $99 this weekend](https://appleinsider.com/articles/25/11/21/grab-airpods-4-with-anc-at-a-record-low-price-of-99-this-weekend?utm_source=rss)
- - [Nothing’s Android 16 update puts a progress bar on the back of your phone](https://www.theverge.com/news/826648/nothing-android-16-live-updates-glyph)<!-- TECH:END -->
+ - [Skip the Lines and Shop These 85+ Early Black Friday Deals From Apple, Sony, Samsung and More](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)
+ - [I Finally Found a Robot Vacuum That Can Conquer Every Obstacle in My Home, and It&#39;s at an All-Time Low Price for Black Friday](https://www.cnet.com/deals/i-finally-found-a-robot-vacuum-that-can-conquer-every-obstacle-in-my-home-and-its-at-an-all-time-low-price-for-black-friday/#ftag=CAD590a51e)
+ - [You can now try the Xbox Full Screen Experience on any PC, laptop, or tablet](https://www.theverge.com/news/826695/microsoft-xbox-full-screen-experience-pc-laptop-tablet-windows-insider)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

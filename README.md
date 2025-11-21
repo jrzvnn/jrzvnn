@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In Kirby Air Riders, expression is more fun than racing](https://www.theverge.com/games/826488/kirby-air-riders-nintendo-switch-2-vehicle-customization)
  - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)
  - [MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/)
  - [Pranksters Recreated a Working Version of Jeffrey Epstein’s Gmail Inbox](https://www.wired.com/story/pranksters-recreated-a-working-version-of-jeffrey-epstein-gmail-inbox/)
- - [Filing: Airbnb says CTO Ari Balogh, who joined seven years ago from Google, plans to step down in December &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251121/p25#a251121p25)
- - [The 65 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)<!-- TECH:END -->
+ - [Filing: Airbnb says CTO Ari Balogh, who joined seven years ago from Google, plans to step down in December &lpar;Natalie Lung/Bloomberg&rpar;](http://www.techmeme.com/251121/p25#a251121p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

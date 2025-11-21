@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost everyone was let go, including me, but I&#39;m not even mad. It was worth it, even if just to make a lesson to the CEO - if your company operates on six-digit revenue, don&#39;t fire your only IT guy](http://9gag.com/gag/adBW6Pd)
- - 😝 [Husbands be like](http://9gag.com/gag/apRnB2B)
- - 💣 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 😝 [My ancestors would be so disappointed in my December activities](http://9gag.com/gag/aO8nmwE)
- - 👉 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)<!-- MEMES:END -->
+ - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
+ - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 💣 [Husbands be like](http://9gag.com/gag/apRnB2B)
+ - 😝 [Grandad had it easy, we&#39;re just trying to survive](http://9gag.com/gag/aYQvwnv)
+ - 👉 [The benefit of fasting](http://9gag.com/gag/ae9q31O)<!-- MEMES:END -->
 
 ---
 

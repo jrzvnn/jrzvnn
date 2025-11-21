@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Nano Banana Pro generates excellent conspiracy fuel](https://www.theverge.com/report/826003/googles-nano-banana-pro-generates-excellent-conspiracy-fuel)
  - [Instead of Fitbit’s AI Health Coach, You Could Just Have Friends](https://www.wired.com/story/google-fitbit-health-coach-preview/)
  - [As Kalshi and Polymarket race to scale during a Trump-era regulatory opening, critics warn that expanding gambling in the US could have unintended consequences &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p8#a251121p8)
  - [A Viral Chinese Wristband Claims to Zap You Awake. The Public Says &#39;No Thanks’](https://www.wired.com/story/viral-chinese-wristband-claims-to-zap-you-awake/)
- - [Best Internet Providers in San Francisco](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)
- - [Best Internet Providers for November 2025](https://www.cnet.com/home/internet/best-internet-providers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Internet Providers in San Francisco](https://www.cnet.com/home/internet/best-internet-providers-in-san-francisco-ca/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251121/p11#a251121p11)
- - [The Nama M1 Is the Best Nut Milk Maker We’ve Tested in 2025](https://www.wired.com/gallery/the-best-nut-milk-maker/)
- - [A Computer Science Professor Invented the Emoticon After a Joke Went Wrong](https://www.wired.com/story/a-computer-scientist-invented-the-emoticon-after-his-colleagues-misunderstood-sarcasm/)
- - [NordPass Review: An Almost Flawless Password Manager](https://www.wired.com/review/nordpass-2025/)
- - [The new silicon valley &lpar;literally&rpar;](https://www.theverge.com/features/825207/semiconductor-chip-manufacturing-new-silicon-valley)<!-- TECH:END -->
+ - [Archetype, which builds AI to interpret sensor data from the physical world, raised a $35M Series A and launches tools to build and deploy physical agents &lpar;Grace Priscilla Teo/Tech in Asia&rpar;](http://www.techmeme.com/251121/p12#a251121p12)
+ - [13 Best Kids Headphones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-kids-headphones/)
+ - [AirDropping stuff from a Pixel phone rules so much](https://www.theverge.com/tech/825696/pixel-10-pro-airdrop-quick-share-hands-on)
+ - [Apple’s new limited edition iPhone grip is all about accessibility](https://www.theverge.com/news/826081/apple-hikawa-iphone-grip-stand-accessibility-limited-edition)
+ - [IBM and Cisco plan to link quantum computers over long distances and aim to provide a proof-of-concept by 2030, potentially paving the way for quantum internet &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251121/p11#a251121p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

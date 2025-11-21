@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sorcero, which makes AI agents for pharmaceutical companies to market new medications, raised a $42.5M Series B, bringing its total funding to $59M &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/251121/p16#a251121p16)
- - [Apple&#39;s M4 Mac mini with 24GB RAM, 512GB SSD drops to $869 today](https://appleinsider.com/articles/25/11/21/apples-m4-mac-mini-with-24gb-ram-512gb-ssd-drops-to-869-today?utm_source=rss)
- - [11 Best Smartwatches &lpar;2025&rpar;: Apple, Wear OS, Hybrid &amp; Kids’ Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [The PlayStation 5 Slim and Pro are on sale for Black Friday](https://www.theverge.com/gadgets/824326/playstation-5-ps5-pro-black-friday-deal-sale-2025)
- - [Meta enters electricity trading to help accelerate the construction of new US power plants critical for its AI infrastructure buildout &lpar;Bloomberg&rpar;](http://www.techmeme.com/251121/p15#a251121p15)<!-- TECH:END -->
+ - [Google starts rolling out ads in AI mode; the ads look similar to the citations in AI answers but with a &quot;sponsored&quot; label &lpar;Mayank Parmar/BleepingComputer&rpar;](http://www.techmeme.com/251121/p18#a251121p18)
+ - [Sources: Meta plans to test an AI-powered personalized daily briefing, designed to compete with ChatGPT&#39;s Pulse, with some Facebook users in NYC and SF &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/251121/p17#a251121p17)
+ - [Public anxiety about Apple&#39;s Digital ID greatly overstates actual risks](https://appleinsider.com/articles/25/11/21/public-anxiety-about-apples-digital-id-greatly-overstates-actual-risks?utm_source=rss)
+ - [There Is Only One AI Company. Welcome to the Blob](https://www.wired.com/story/ai-industry-monopoly-nvidia-microsoft-google/)
+ - [Sorcero, which makes AI agents for pharmaceutical companies to market new medications, raised a $42.5M Series B, bringing its total funding to $59M &lpar;Katherine Davis/Axios&rpar;](http://www.techmeme.com/251121/p16#a251121p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

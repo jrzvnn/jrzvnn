@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight to Hell](http://9gag.com/gag/apRnvoD)
- - 😝 [Night before a day off hits different](http://9gag.com/gag/azxvVDj)
- - 💣 [This is too accurate](http://9gag.com/gag/aqyVZWj)
+ - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 😝 [Traditions! My dudes!](http://9gag.com/gag/aO8ny3v)
+ - 💣 [It&#39;s just a prank, bro](http://9gag.com/gag/aD2qmyG)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Everything is already calculated](http://9gag.com/gag/a34zL5Q)<!-- MEMES:END -->
+ - 👉 [Hiker captures his own shadow floating in the mountain mist](http://9gag.com/gag/axyeGWW)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Industry executives say nearly all major memory chipmakers are running at or near full capacity, with 2026 production slots almost &quot;sold out&quot; due to AI demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251122/p9#a251122p9)
+ - [40 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)
  - [The Best Chef’s Knives of 2025. We Tested Nearly Two Dozen to Find Our Favorites](https://www.wired.com/gallery/best-chefs-knife/)
  - [Carol seeks the truth &lpar;serum&rpar; in Pluribus episode 4](https://www.theverge.com/entertainment/826367/pluribus-episode-4-discussion)
- - [The Ninja Slushi Early Black Friday Deal Is the Lowest We&#39;ve Seen](https://www.wired.com/story/ninja-slushi-black-friday-deal-2025/)
- - [La Liga Soccer: Stream Barcelona vs. Athletic Bilbao Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-athletic-bilbao-live-from-anywhere/#ftag=CAD590a51e)
- - [HP OmniBook 5 14 Review: You Won&#39;t Believe How Long This Snapdragon X Laptop Runs](https://www.cnet.com/tech/computing/hp-omnibook-5-14-review-you-wont-believe-how-long-this-snapdragon-x-laptop-runs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Ninja Slushi Early Black Friday Deal Is the Lowest We&#39;ve Seen](https://www.wired.com/story/ninja-slushi-black-friday-deal-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

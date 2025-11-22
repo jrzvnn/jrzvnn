@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ninja Slushi Early Black Friday Deal Is the Lowest We&#39;ve Seen](https://www.wired.com/story/ninja-slushi-black-friday-deal-2025/)
  - [The Climate Impact of Owning a Dog](https://www.wired.com/story/the-climate-paradox-of-having-a-dog/)
  - [The 44 Best Movies on Netflix, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
  - [The 44 Best Shows on Netflix, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [17 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press-for-morning-brew/)
- - [US Border Patrol Is Spying on Millions of American Drivers](https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/)<!-- TECH:END -->
+ - [17 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press-for-morning-brew/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
- - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
- - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
  - 😝 [How many reps, yes](http://9gag.com/gag/an701mn)
- - 👉 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)<!-- MEMES:END -->
+ - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 💣 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 👉 [WOMP WOMP](http://9gag.com/gag/avyBPME)<!-- MEMES:END -->
 
 ---
 

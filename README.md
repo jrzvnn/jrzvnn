@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
- - 💣 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 😝 [Straight to Hell](http://9gag.com/gag/apRnvoD)
+ - 😝 [Interesting piece of history...*](http://9gag.com/gag/ajP3nL1)
+ - 💣 [Cat&#39;s parenting](http://9gag.com/gag/aVv9PQn)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Excellent parenting!](http://9gag.com/gag/a9y479Z)<!-- MEMES:END -->
+ - 👉 [Quick mafs](http://9gag.com/gag/aVv9ezP)<!-- MEMES:END -->
 
 ---
 

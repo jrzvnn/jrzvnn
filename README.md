@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Q&amp;A with Fei-Fei Li on ImageNet, her startup World Labs&#39; focus on spatial intelligence, superintelligence, regulation, AI bubble, US-China AI arms race, more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251122/p7#a251122p7)
+ - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-22/#ftag=CAD590a51e)
  - [Thoma Bravo acquires a majority stake in Java platform Azul, which received a $340M majority investment from Vitruvian Partners and Lead Edge Capital in 2020 &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251122/p6#a251122p6)
  - [General Atlantic purchases a $96M minority stake in Japanese HR software unicorn SmartHR, marking the PE firm&#39;s first growth equity investment in Japan &lpar;Lisa Du/Bloomberg&rpar;](http://www.techmeme.com/251122/p5#a251122p5)
- - [Federato, which provides AI-powered insurance lifecycle software, raised a $100M Series D led by Goldman Sachs Alternatives, taking its total funding to $180M+ &lpar;InsurTech Analyst&rpar;](http://www.techmeme.com/251122/p4#a251122p4)
- - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [Federato, which provides AI-powered insurance lifecycle software, raised a $100M Series D led by Goldman Sachs Alternatives, taking its total funding to $180M+ &lpar;InsurTech Analyst&rpar;](http://www.techmeme.com/251122/p4#a251122p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

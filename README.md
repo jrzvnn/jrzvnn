@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Finland-based NestAI raised €100M led by Finland&#39;s sovereign fund Tesi and Nokia to build AI products for defense applications, including for unmanned vehicles &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251122/p2#a251122p2)
  - [Alphabet&#39;s stock closed at a record high of $299.66 on November 21, continuing a strong recent run after Google&#39;s Gemini 3 impressed analysts and consumers &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/251122/p1#a251122p1)
  - [Italy&#39;s competition authority closes its July 2024 probe into Google&#39;s alleged unfair practices over users&#39; personal data after Google adopted remedies &lpar;Gianluca Semeraro/Reuters&rpar;](http://www.techmeme.com/251121/p34#a251121p34)
  - [Sources: China&#39;s Moonshot AI, developer of the Kimi models, is raising several hundred million dollars at a ~$4B valuation and is aiming for an IPO in H2 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p33#a251121p33)
- - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)
- - [Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/251121/p31#a251121p31)<!-- TECH:END -->
+ - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

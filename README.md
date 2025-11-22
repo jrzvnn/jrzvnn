@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
  - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
  - 💣 [WOMP WOMP](http://9gag.com/gag/avyBPME)
- - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
- - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
+ - 😝 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
+ - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
 
 ---
 

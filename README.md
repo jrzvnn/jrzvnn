@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve Says Steam Machine Isn&#39;t a Console—but It Is](https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/)
- - [Samsung&#39;s Black Friday TV deals knock up to $2,100 off OLED, The Frame sets](https://appleinsider.com/articles/25/11/22/samsungs-black-friday-tv-deals-knock-up-to-2100-off-oled-the-frame-sets?utm_source=rss)
- - [Q&amp;A with Fei-Fei Li on ImageNet, her startup World Labs&#39; focus on spatial intelligence, superintelligence, regulation, AI bubble, US-China AI arms race, more &lpar;Mishal Husain/Bloomberg&rpar;](http://www.techmeme.com/251122/p7#a251122p7)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 22](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-22/#ftag=CAD590a51e)
- - [Thoma Bravo acquires a majority stake in Java platform Azul, which received a $340M majority investment from Vitruvian Partners and Lead Edge Capital in 2020 &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251122/p6#a251122p6)<!-- TECH:END -->
+ - [A look at Indian startups like TuluAI, which are building LLMs for low-resource languages by creating data sets nearly from scratch with community involvement &lpar;Rest of World&rpar;](http://www.techmeme.com/251122/p8#a251122p8)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 22 #629](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-22-629/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 22, #895](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-22-895/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 22, #1617](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-22-1617/#ftag=CAD590a51e)
+ - [Valve Says Steam Machine Isn&#39;t a Console—but It Is](https://www.wired.com/story/valve-says-steam-machine-isnt-a-console-but-it-is/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

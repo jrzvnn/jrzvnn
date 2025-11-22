@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
- - 💣 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
  - 👉 [Excellent parenting!](http://9gag.com/gag/a9y479Z)<!-- MEMES:END -->
 

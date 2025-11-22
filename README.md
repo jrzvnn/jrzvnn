@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 💣 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 😝 [Deserved](http://9gag.com/gag/a6ZeLmL)
+ - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)<!-- MEMES:END -->
+ - 👉 [Just minding your own business](http://9gag.com/gag/aLnOBAW)<!-- MEMES:END -->
 
 ---
 

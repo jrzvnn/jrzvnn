@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
- - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
- - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 😝 [The Irish, the epitome of privilege.](http://9gag.com/gag/a7omdEb)
- - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
+ - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
+ - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 😝 [How many reps, yes](http://9gag.com/gag/an701mn)
+ - 👉 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)<!-- MEMES:END -->
 
 ---
 

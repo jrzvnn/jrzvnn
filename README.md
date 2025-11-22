@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deserved](http://9gag.com/gag/a6ZeLmL)
- - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
- - 💣 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
+ - 😝 [Straight to Hell](http://9gag.com/gag/apRnvoD)
+ - 😝 [Construction tryouts are wild](http://9gag.com/gag/aW4eWq3)
+ - 💣 [Interesting piece of history...*](http://9gag.com/gag/ajP3nL1)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Excellent parenting!](http://9gag.com/gag/a9y479Z)<!-- MEMES:END -->
+ - 👉 [Cat&#39;s parenting](http://9gag.com/gag/aVv9PQn)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
+ - 😝 [Is he gonna do it? I hope so.](http://9gag.com/gag/a6Ze7O8)
+ - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
+ - 👉 [One console to rule them all](http://9gag.com/gag/a87vMpe)<!-- MEMES:END -->
 
 ---
 

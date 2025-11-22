@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
  - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
  - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Really makes you think](http://9gag.com/gag/a4PBj76)<!-- MEMES:END -->
+ - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
 
 ---
 

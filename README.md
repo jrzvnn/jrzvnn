@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [17 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press-for-morning-brew/)
  - [US Border Patrol Is Spying on Millions of American Drivers](https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/)
+ - [300,000 Character Poses in an AI Instant: My Visit to Disney Was a Peek at Animation&#39;s New Reality](https://www.cnet.com/tech/services-and-software/300000-character-poses-in-an-ai-instant-my-visit-to-disney-was-a-peek-at-animations-new-reality/#ftag=CAD590a51e)
  - [Gear News of the Week: Matter 1.5 Adds Smart Home Camera Support, and Gemini Comes to Android Auto](https://www.wired.com/story/gear-news-of-the-week-matter-15-adds-smart-home-camera-support-and-gemini-comes-to-android-auto/)
- - [55 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-2/)
- - [A look at Indian startups like TuluAI, which are building LLMs for low-resource languages by creating data sets nearly from scratch with community involvement &lpar;Rest of World&rpar;](http://www.techmeme.com/251122/p8#a251122p8)<!-- TECH:END -->
+ - [Over 70 of the Best Star Wars Gifts for 2025: From Legos to Lightsabers, Artwork and More](https://www.cnet.com/culture/entertainment/best-star-wars-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

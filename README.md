@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
- - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
- - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
  - 👉 [Really makes you think](http://9gag.com/gag/a4PBj76)<!-- MEMES:END -->
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
  - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 💣 [WOMP WOMP](http://9gag.com/gag/avyBPME)
- - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
+ - 💣 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
+ - 😝 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
  - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
 
 ---

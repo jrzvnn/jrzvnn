@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many reps, yes](http://9gag.com/gag/an701mn)
- - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
- - 💣 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
+ - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
  - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 👉 [WOMP WOMP](http://9gag.com/gag/avyBPME)<!-- MEMES:END -->
+ - 💣 [WOMP WOMP](http://9gag.com/gag/avyBPME)
+ - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
+ - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
 
 ---
 

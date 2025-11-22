@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Chef’s Knives of 2025. We Tested Nearly Two Dozen to Find Our Favorites](https://www.wired.com/gallery/best-chefs-knife/)
+ - [Carol seeks the truth &lpar;serum&rpar; in Pluribus episode 4](https://www.theverge.com/entertainment/826367/pluribus-episode-4-discussion)
  - [The Ninja Slushi Early Black Friday Deal Is the Lowest We&#39;ve Seen](https://www.wired.com/story/ninja-slushi-black-friday-deal-2025/)
- - [The Climate Impact of Owning a Dog](https://www.wired.com/story/the-climate-paradox-of-having-a-dog/)
- - [The 44 Best Movies on Netflix, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-movies-this-week/)
- - [The 44 Best Shows on Netflix, WIRED&#39;s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/netflix-best-shows-this-week/)
- - [17 Best French Presses &lpar;2025&rpar;: Plastic, Glass, Stainless Steel, Travel](https://www.wired.com/gallery/best-french-press-for-morning-brew/)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Barcelona vs. Athletic Bilbao Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-athletic-bilbao-live-from-anywhere/#ftag=CAD590a51e)
+ - [HP OmniBook 5 14 Review: You Won&#39;t Believe How Long This Snapdragon X Laptop Runs](https://www.cnet.com/tech/computing/hp-omnibook-5-14-review-you-wont-believe-how-long-this-snapdragon-x-laptop-runs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
- - 💣 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
- - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [The Irish, the epitome of privilege.](http://9gag.com/gag/a7omdEb)<!-- MEMES:END -->
+ - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
+ - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
+ - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
+ - 👉 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)<!-- MEMES:END -->
 
 ---
 

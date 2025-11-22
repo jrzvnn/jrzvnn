@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: China&#39;s Moonshot AI, developer of the Kimi models, is raising several hundred million dollars at a ~$4B valuation and is aiming for an IPO in H2 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p33#a251121p33)
+ - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)
  - [Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/251121/p31#a251121p31)
  - [‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails](https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail)
- - [Figure AI&#39;s former head of product safety sues the humanoid robot startup, alleging he was unlawfully terminated after warning executives about product safety &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251121/p30#a251121p30)
- - [Google denies &amp;#8216;misleading&amp;#8217; reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 22, #425](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-22-425/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Figure AI&#39;s former head of product safety sues the humanoid robot startup, alleging he was unlawfully terminated after warning executives about product safety &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251121/p30#a251121p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

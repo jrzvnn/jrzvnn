@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Segway E3 Pro May Just Be the Best Entry-Level Electric Scooter for Commuters](https://www.cnet.com/roadshow/news/segway-e3-pro-review-may-just-be-the-best-entry-level-electric-scooter-for-commuters/#ftag=CAD590a51e)
+ - [&#39;Landman&#39; Season 2: When Episode 2 Drops on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-when-episode-2-drops-on-paramount-plus/#ftag=CAD590a51e)
  - [13 Best MagSafe Power Banks for iPhones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-power-banks/)
  - [The best AR glasses are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/826225/xreal-one-viture-luma-pro-ar-glasses-steam-deck-switch-2-deal-sale)
- - [These 5 Posture Corrector Picks Will Straighten You Out &lpar;2025&rpar;](https://www.wired.com/gallery/posture-correctors/)
- - [LG OLED TV: The Brightest Screen at an Unbeatable Price for Black Friday](https://www.cnet.com/deals/lg-oled-tv-the-brightest-screen-at-an-unbeatable-price-for-black-friday/#ftag=CAD590a51e)
- - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Newcastle vs. Man City Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-newcastle-vs-man-city-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

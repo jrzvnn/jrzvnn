@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)
+ - [New York-based emergency alerts platform RapidSOS raised $100M led by Apax Digital Funds, a source says at a $1B+ valuation, for US and international expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/251122/p3#a251122p3)
+ - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
  - [Finland-based NestAI raised €100M led by Finland&#39;s sovereign fund Tesi and Nokia to build AI products for defense applications, including for unmanned vehicles &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251122/p2#a251122p2)
- - [Alphabet&#39;s stock closed at a record high of $299.66 on November 21, continuing a strong recent run after Google&#39;s Gemini 3 impressed analysts and consumers &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/251122/p1#a251122p1)
- - [Italy&#39;s competition authority closes its July 2024 probe into Google&#39;s alleged unfair practices over users&#39; personal data after Google adopted remedies &lpar;Gianluca Semeraro/Reuters&rpar;](http://www.techmeme.com/251121/p34#a251121p34)
- - [Sources: China&#39;s Moonshot AI, developer of the Kimi models, is raising several hundred million dollars at a ~$4B valuation and is aiming for an IPO in H2 2026 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251121/p33#a251121p33)
- - [Sources: the White House has put on hold a draft executive order that would seek to preempt state AI laws, following bipartisan backlash &lpar;Karen Freifeld/Reuters&rpar;](http://www.techmeme.com/251121/p32#a251121p32)<!-- TECH:END -->
+ - [Alphabet&#39;s stock closed at a record high of $299.66 on November 21, continuing a strong recent run after Google&#39;s Gemini 3 impressed analysts and consumers &lpar;Rani Molla/Sherwood News&rpar;](http://www.techmeme.com/251122/p1#a251122p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

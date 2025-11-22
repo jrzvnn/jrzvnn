@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
  - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
- - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
+ - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
  - 😝 [The Irish, the epitome of privilege.](http://9gag.com/gag/a7omdEb)
- - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
+ - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
 
 ---
 

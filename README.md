@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [These 5 Posture Corrector Picks Will Straighten You Out &lpar;2025&rpar;](https://www.wired.com/gallery/posture-correctors/)
+ - [LG OLED TV: The Brightest Screen at an Unbeatable Price for Black Friday](https://www.cnet.com/deals/lg-oled-tv-the-brightest-screen-at-an-unbeatable-price-for-black-friday/#ftag=CAD590a51e)
  - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
  - [Forestrike trained me to become an incredible pixelated fighter](https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam)
- - [Industry executives say nearly all major memory chipmakers are running at or near full capacity, with 2026 production slots almost &quot;sold out&quot; due to AI demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251122/p9#a251122p9)
- - [40 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)<!-- TECH:END -->
+ - [Industry executives say nearly all major memory chipmakers are running at or near full capacity, with 2026 production slots almost &quot;sold out&quot; due to AI demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251122/p9#a251122p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

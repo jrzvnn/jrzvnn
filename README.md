@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
+ - 😝 [ED-209](http://9gag.com/gag/aKGXP6Q)
  - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
- - 💣 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
+ - 💣 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Quick mafs](http://9gag.com/gag/aVv9ezP)<!-- MEMES:END -->
+ - 👉 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)<!-- MEMES:END -->
 
 ---
 

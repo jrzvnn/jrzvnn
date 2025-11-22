@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Gear News of the Week: Matter 1.5 Adds Smart Home Camera Support, and Gemini Comes to Android Auto](https://www.wired.com/story/gear-news-of-the-week-matter-15-adds-smart-home-camera-support-and-gemini-comes-to-android-auto/)
  - [55 Best Early Black Friday Deals on WIRED-Tested Gear &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-2/)
  - [A look at Indian startups like TuluAI, which are building LLMs for low-resource languages by creating data sets nearly from scratch with community involvement &lpar;Rest of World&rpar;](http://www.techmeme.com/251122/p8#a251122p8)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 22 #629](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-22-629/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 22, #895](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-22-895/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 22, #1617](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-22-1617/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 22, #895](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-22-895/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

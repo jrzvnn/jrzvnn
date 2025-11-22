@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
  - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
- - 💣 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
- - 😝 [Really makes you think](http://9gag.com/gag/a4PBj76)
- - 👉 [WOMP WOMP](http://9gag.com/gag/avyBPME)<!-- MEMES:END -->
+ - 😝 [Just minding your own business](http://9gag.com/gag/aLnOBAW)
+ - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 😝 [The Irish, the epitome of privilege.](http://9gag.com/gag/a7omdEb)
+ - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
 
 ---
 

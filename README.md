@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Have a nice day](http://9gag.com/gag/azxvEbx)
- - 😝 [Is he gonna do it? I hope so.](http://9gag.com/gag/a6Ze7O8)
+ - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
  - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [One console to rule them all](http://9gag.com/gag/a87vMpe)<!-- MEMES:END -->
+ - 👉 [The true reign of terror was that song on repeat for months](http://9gag.com/gag/a5Q97Or)<!-- MEMES:END -->
 
 ---
 

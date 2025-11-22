@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How a semiconductor investment boom is turning Arizona into &quot;America&#39;s Semiconductor HQ&quot;, attracting more than $200B in investments in the last five years &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/251122/p13#a251122p13)
- - [12 Great Horror Movies You Shouldn&#39;t Skip on Prime Video](https://www.cnet.com/tech/services-and-software/12-great-horror-movies-you-shouldnt-skip-on-prime-video/#ftag=CAD590a51e)
- - [Hikawa iPhone grip accessory sells out fast from the online Apple Store](https://appleinsider.com/articles/25/11/22/hikawa-iphone-grip-sells-out-fast-from-the-online-apple-store?utm_source=rss)
- - [85+ Early Black Friday Deals on TVs, Laptops and AirPods to Grab Before the Holiday Rush Begins](https://www.cnet.com/deals/early-black-friday/#ftag=CAD590a51e)
- - [While the AI bubble feels like the internet bubble of 1999, it may actually be larger and scarier with an unstable US economy and greater exposure for Big Tech &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/251122/p12#a251122p12)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 23, #896](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-23-896/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 23, #1618](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-23-1618/#ftag=CAD590a51e)
+ - [I’ve Found Best Gift for the 3D-Printing Fanatic in Your Life. No Contest](https://www.cnet.com/tech/computing/ive-found-best-gift-for-the-3d-printing-fanatic-in-your-life-no-contest/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

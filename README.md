@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
  - 😝 [Saddam Hussein&#39;s chilling consolidation of power in 1979. A stark reminder of history](http://9gag.com/gag/a4PBL31)
- - 😝 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
- - 💣 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)
+ - 💣 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Really makes you think](http://9gag.com/gag/a4PBj76)<!-- MEMES:END -->
+ - 👉 [The Irish, the epitome of privilege.](http://9gag.com/gag/a7omdEb)<!-- MEMES:END -->
 
 ---
 

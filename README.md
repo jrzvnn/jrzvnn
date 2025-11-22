@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analyzing Gemini 3&#39;s model card and safety framework report: the model is excellent but the safety report withholds or makes it difficult to understand key info &lpar;Zvi Mowshowitz/Don&#39;t Worry About the Vase&rpar;](http://www.techmeme.com/251121/p29#a251121p29)
- - [Judge wants to fix Google’s ad tech monopoly before it’s too late](https://www.theverge.com/news/826796/google-ad-tech-closing-arguments)
- - [You can save up to $1,300 on robovacs from Roborock and Eufy ahead of Black Friday](https://www.theverge.com/gadgets/823578/black-friday-best-early-robot-vacuum-mop-deals-2025)
- - [Anthropic finds that LLMs trained to &quot;reward hack&quot; by cheating on coding tasks show even more misaligned behavior, including sabotaging AI-safety research &lpar;Anthropic&rpar;](http://www.techmeme.com/251121/p28#a251121p28)
- - [I Finally Found a Robot Vacuum That Can Conquer Every Obstacle in My Home, and It&#39;s at an All-Time Low Price for Black Friday](https://www.cnet.com/deals/i-finally-found-a-robot-vacuum-that-can-conquer-every-obstacle-in-my-home-and-its-at-an-all-time-low-price-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo says California authorized it to operate across the entire Bay Area and Sacramento, and between LA and San Diego, where it plans to expand to in mid-2026 &lpar;Aidin Vaziri/San Francisco Chronicle&rpar;](http://www.techmeme.com/251121/p31#a251121p31)
+ - [‘Jmail’ is like any other inbox, except this one has Jeffrey Epstein’s emails](https://www.theverge.com/news/826901/jeffrey-epstein-files-emails-gmail-jmail)
+ - [Figure AI&#39;s former head of product safety sues the humanoid robot startup, alleging he was unlawfully terminated after warning executives about product safety &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/251121/p30#a251121p30)
+ - [Google denies &amp;#8216;misleading&amp;#8217; reports of Gmail using your emails to train AI](https://www.theverge.com/news/826902/gmail-ai-training-data-opt-out)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 22, #425](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-22-425/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

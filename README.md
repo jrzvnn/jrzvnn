@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hikawa iPhone grip sells out fast from the online Apple Store](https://appleinsider.com/articles/25/11/22/hikawa-iphone-grip-sells-out-fast-from-the-online-apple-store?utm_source=rss)
  - [While the AI bubble feels like the internet bubble of 1999, it may actually be larger and scarier with an unstable US economy and greater exposure for Big Tech &lpar;Fred Vogelstein/Crazy Stupid Tech&rpar;](http://www.techmeme.com/251122/p12#a251122p12)
  - [Sony’s entire DualSense lineup is $20 off, including the limited edition models](https://www.theverge.com/gadgets/826320/ps5-dualsense-wireless-controller-black-friday-deal-sale-2025)
  - [Apple TV Black Friday deal: Get the streaming service for $5.99/mo for 6 months](https://appleinsider.com/articles/25/11/22/apple-tv-black-friday-deal-get-the-streaming-service-for-599-per-month-for-6-months?utm_source=rss)
- - [How the launch of Gemini 3, which surged ahead of models from OpenAI and other competitors on benchmark tests, has pushed Google ahead in the AI race &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/251122/p11#a251122p11)
- - [Spotify simplifies importing playlists from other streaming services](https://www.theverge.com/news/825646/spotify-playlist-import)<!-- TECH:END -->
+ - [How the launch of Gemini 3, which surged ahead of models from OpenAI and other competitors on benchmark tests, has pushed Google ahead in the AI race &lpar;Katherine Blunt/Wall Street Journal&rpar;](http://www.techmeme.com/251122/p11#a251122p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

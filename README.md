@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [LG OLED TV: The Brightest Screen at an Unbeatable Price for Black Friday](https://www.cnet.com/deals/lg-oled-tv-the-brightest-screen-at-an-unbeatable-price-for-black-friday/#ftag=CAD590a51e)
  - [Best Indoor TV Antenna &lpar;2025&rpar;: Mohu, Clearstream, One for All](https://www.wired.com/gallery/best-tv-antennas/)
  - [Forestrike trained me to become an incredible pixelated fighter](https://www.theverge.com/games/826331/forestrike-review-nintendo-switch-steam)
  - [Industry executives say nearly all major memory chipmakers are running at or near full capacity, with 2026 production slots almost &quot;sold out&quot; due to AI demand &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251122/p9#a251122p9)
- - [40 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)
- - [The Best Chef’s Knives of 2025. We Tested Nearly Two Dozen to Find Our Favorites](https://www.wired.com/gallery/best-chefs-knife/)<!-- TECH:END -->
+ - [40 Techy Gifts Under $100 That We Tested and Love](https://www.wired.com/gallery/best-gifts-under-100/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

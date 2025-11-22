@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Thoma Bravo acquires a majority stake in Java platform Azul, which received a $340M majority investment from Vitruvian Partners and Lead Edge Capital in 2020 &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251122/p6#a251122p6)
+ - [General Atlantic purchases a $96M minority stake in Japanese HR software unicorn SmartHR, marking the PE firm&#39;s first growth equity investment in Japan &lpar;Lisa Du/Bloomberg&rpar;](http://www.techmeme.com/251122/p5#a251122p5)
  - [Federato, which provides AI-powered insurance lifecycle software, raised a $100M Series D led by Goldman Sachs Alternatives, taking its total funding to $180M+ &lpar;InsurTech Analyst&rpar;](http://www.techmeme.com/251122/p4#a251122p4)
  - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)
- - [New York-based emergency alerts platform RapidSOS raised $100M led by Apax Digital Funds, a source says at a $1B+ valuation, for US and international expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/251122/p3#a251122p3)
- - [Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans](https://www.wired.com/story/total-wireless-promo-code/)
- - [Finland-based NestAI raised €100M led by Finland&#39;s sovereign fund Tesi and Nokia to build AI products for defense applications, including for unmanned vehicles &lpar;Anna Heim/TechCrunch&rpar;](http://www.techmeme.com/251122/p2#a251122p2)<!-- TECH:END -->
+ - [New York-based emergency alerts platform RapidSOS raised $100M led by Apax Digital Funds, a source says at a $1B+ valuation, for US and international expansion &lpar;Bloomberg&rpar;](http://www.techmeme.com/251122/p3#a251122p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

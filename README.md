@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Straight to Hell](http://9gag.com/gag/apRnvoD)
- - 😝 [Interesting piece of history...*](http://9gag.com/gag/ajP3nL1)
- - 💣 [Cat&#39;s parenting](http://9gag.com/gag/aVv9PQn)
+ - 😝 [1934. Chicago. The body of mobster John Dillinger is viewed by visitors at the public morgue. About 15,000 people were curious about the body](http://9gag.com/gag/aYQveQq)
+ - 😝 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
+ - 💣 [A timelapse of sleeping seals](http://9gag.com/gag/apRnBM9)
  - 😝 [Trying to outrun Sonic? Good luck. Trying to out-enthusiasm SpongeBob? Impossible.](http://9gag.com/gag/aBybrDP)
- - 👉 [Quick mafs](http://9gag.com/gag/aVv9ezP)<!-- MEMES:END -->
+ - 👉 [Just minding your own business](http://9gag.com/gag/aLnOBAW)<!-- MEMES:END -->
 
 ---
 

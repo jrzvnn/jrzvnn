@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Shocker: Elon Musk spends a lot of time on X posting bad political takes](https://www.theverge.com/tech/827125/elon-musk-x-posts-politics-himself)
+ - [&#39;Landman&#39; Season 2: When Episode 2 Hits Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-when-episode-2-hits-paramount-plus/#ftag=CAD590a51e)
  - [How a semiconductor investment boom is turning Arizona into &quot;America&#39;s Semiconductor HQ&quot;, attracting more than $200B in investments in the last five years &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/251122/p13#a251122p13)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 23, #896](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-23-896/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 23, #1618](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-23-1618/#ftag=CAD590a51e)
- - [I’ve Found Best Gift for the 3D-Printing Fanatic in Your Life. No Contest](https://www.cnet.com/tech/computing/ive-found-best-gift-for-the-3d-printing-fanatic-in-your-life-no-contest/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

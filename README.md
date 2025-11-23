@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israel-based Chargeflow, whose AI tech automates chargeback disputes for online merchants, raised a $25M Series A led by Viola Growth, and a $10M debt round &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251123/p4#a251123p4)
+ - [Peek, which sells software for attractions and tour operators, raised a $70M Series D, taking total funding to $150M, and acquired Acme Ticketing and Connect&amp;Go &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251123/p3#a251123p3)
  - [Arbiter, which is using AI to automate healthcare administrative tasks, emerges from stealth with a $52M seed from multiple family offices at a $400M valuation &lpar;Rebecca Torrence/Business Insider&rpar;](http://www.techmeme.com/251123/p2#a251123p2)
  - [X starts rolling out About This Account globally, letting users see the country or region where an X account is based by tapping the signup date on the profile &lpar;Nikita Bier/@nikitabier&rpar;](http://www.techmeme.com/251123/p1#a251123p1)
- - [A US bankruptcy judge ordered Indian edtech startup Byju&#39;s founder Byju Raveendran on Nov. 20 to pay $1B+ to US lenders, over missing funds from Byju&#39;s US unit &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251122/p14#a251122p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 23, #426](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-23-426/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 23](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A US bankruptcy judge ordered Indian edtech startup Byju&#39;s founder Byju Raveendran on Nov. 20 to pay $1B+ to US lenders, over missing funds from Byju&#39;s US unit &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251122/p14#a251122p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

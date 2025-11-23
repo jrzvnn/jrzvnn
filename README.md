@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [How to Get the Perfect Surround Sound Speaker Setup](https://www.wired.com/story/how-to-get-the-perfect-surround-sound-speaker-setup/)
- - [9 Best Espresso Machines for Home &lpar;2025&rpar;, Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)
- - [Stop Debating EVs vs. Gas. We Ran the Numbers to Find the True Cheapest Car](https://www.cnet.com/roadshow/news/stop-debating-evs-vs-gas-we-ran-the-numbers-to-find-the-true-cheapest-car/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 23, #896](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-23-896/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 20 Best Advent Calendars for Christmas 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)
+ - [Winter Safety Checklist: Here&#39;s What a Heating and Plumbing Specialist Does to His Home](https://www.cnet.com/home/services/winter-safety-checklist-heres-what-a-heating-and-plumbing-specialist-does-to-his-home/#ftag=CAD590a51e)
+ - [Premier League Soccer: Stream Leeds vs. Aston Villa Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-aston-villa-live-from-anywhere/#ftag=CAD590a51e)
+ - [9 Best Espresso Machines for Home &lpar;2025&rpar;, Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

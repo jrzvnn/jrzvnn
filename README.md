@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Eating cold ravioli really brings out the inner architect](http://9gag.com/gag/avyBrWX)
- - 😝 [Damn, this actually made me feel bad.](http://9gag.com/gag/a1m8dLb)
- - 💣 [How many reps, yes](http://9gag.com/gag/an701mn)
- - 😝 [Winter](http://9gag.com/gag/apRnp0b)
- - 👉 [It tracks](http://9gag.com/gag/a87vyM1)<!-- MEMES:END -->
+ - 😝 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)
+ - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 😝 [Getting mopmopped](http://9gag.com/gag/aryDb3X)
+ - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
 
 ---
 

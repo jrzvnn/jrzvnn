@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is awkward.](http://9gag.com/gag/an701qB)
- - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)
- - 👉 [WOMP WOMP](http://9gag.com/gag/avyBPME)<!-- MEMES:END -->
+ - 😝 [Woke broke](http://9gag.com/gag/aLnOMRV)
+ - 😝 [Winter](http://9gag.com/gag/apRnp0b)
+ - 💣 [Eating cold ravioli really brings out the inner architect](http://9gag.com/gag/avyBrWX)
+ - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
+ - 👉 [Title](http://9gag.com/gag/aE0jRDN)<!-- MEMES:END -->
 
 ---
 

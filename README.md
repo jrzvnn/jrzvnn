@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Almost… the perfect wingman](https://www.reddit.com/r/funny/comments/1p4lyih/almost_the_perfect_wingman/)
- - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
- - 💣 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 😝 [WOMP WOMP](http://9gag.com/gag/avyBPME)
- - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
+ - 😝 [For the shorties](http://9gag.com/gag/awy95by)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 💣 [Title](http://9gag.com/gag/aE0jRDN)
+ - 😝 [It tracks](http://9gag.com/gag/a87vyM1)
+ - 👉 [Woke broke](http://9gag.com/gag/aLnOMRV)<!-- MEMES:END -->
 
 ---
 

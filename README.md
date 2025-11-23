@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
- - 😝 [This is awkward.](http://9gag.com/gag/an701qB)
- - 💣 [Thats one way to do it, i guess](http://9gag.com/gag/aD2qmqd)
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 👉 [Me convincing my only two friends to commit a bank robbery](http://9gag.com/gag/aLnOBVV)<!-- MEMES:END -->
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 😝 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
+ - 💣 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
+ - 😝 [Well, well, well... Think about it...](http://9gag.com/gag/a0eDdod)
+ - 👉 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)<!-- MEMES:END -->
 
 ---
 

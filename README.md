@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 💣 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)
+ - 😝 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)
+ - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - 💣 [Bad runner](http://9gag.com/gag/aLnO9yM)
  - 😝 [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
  - 👉 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)<!-- MEMES:END -->
 

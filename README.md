@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Science-centric streamer CuriosityStream&#39;s Q3 revenue rose 46% YoY to $18.4M, driven by IP licensing deals for AI training that generated $23.4M through Sept. &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/251123/p13#a251123p13)
+ - [Amazon&#39;s $749 Black Friday MacBook Air deal is selling fast, grab $250 savings now](https://appleinsider.com/articles/25/11/23/amazons-749-black-friday-macbook-air-deal-is-selling-fast-grab-250-savings-now?utm_source=rss)
  - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
  - [Flying for the Holidays? Streaming Services Are Free on These Airlines](https://www.cnet.com/tech/services-and-software/flying-for-the-holidays-streaming-services-are-free-on-these-airlines/#ftag=CAD590a51e)
- - [La Liga Soccer: Stream Elche vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
- - [Filing: Meta axed research based on a Nielsen survey in 2020 that found evidence of social media harms, claiming the survey was tainted by the &quot;media narrative&quot; &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251123/p12#a251123p12)
- - [X&#39;s new About This Account feature reveals that some top accounts, including many MAGA influencers, are based in countries like Russia, India, and Nigeria &lpar;Jack Revell/The Daily Beast&rpar;](http://www.techmeme.com/251123/p11#a251123p11)<!-- TECH:END -->
+ - [La Liga Soccer: Stream Elche vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

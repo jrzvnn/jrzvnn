@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 💣 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 😝 [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
- - 👉 [WOMP WOMP](http://9gag.com/gag/avyBPME)<!-- MEMES:END -->
+ - 😝 [WOMP WOMP](http://9gag.com/gag/avyBPME)
+ - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
+ - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - 👉 [The beacons are lit](http://9gag.com/gag/a1m8X4G)<!-- MEMES:END -->
 
 ---
 

@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
- - 😝 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
+ - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
  - 💣 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
- - 👉 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)<!-- MEMES:END -->
+ - 😝 [Title](http://9gag.com/gag/aE0jRDN)
+ - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
 
 ---
 

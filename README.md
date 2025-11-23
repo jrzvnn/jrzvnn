@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some of the best Nintendo Switch games are up to $30 off for Black Friday](https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025)
  - [X&amp;#8217;s messy About This Account rollout has caused utter chaos](https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-has-caused-utter-chaos)
  - [Science-centric streamer CuriosityStream&#39;s Q3 revenue rose 46% YoY to $18.4M, driven by IP licensing deals for AI training that generated $23.4M through Sept. &lpar;Scharon Harding/Ars Technica&rpar;](http://www.techmeme.com/251123/p13#a251123p13)
  - [Amazon&#39;s $749 Black Friday MacBook Air deal is selling fast, grab $250 savings now](https://appleinsider.com/articles/25/11/23/amazons-749-black-friday-macbook-air-deal-is-selling-fast-grab-250-savings-now?utm_source=rss)
- - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
- - [Flying for the Holidays? Streaming Services Are Free on These Airlines](https://www.cnet.com/tech/services-and-software/flying-for-the-holidays-streaming-services-are-free-on-these-airlines/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

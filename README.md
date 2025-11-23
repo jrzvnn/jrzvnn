@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [17 Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
  - [An in-depth look at the humanoid robotics industry, which currently relies heavily on hype to rally interest and investors, as AI fuels the humanoid boom &lpar;James Vincent/Harper&#39;s&rpar;](http://www.techmeme.com/251123/p7#a251123p7)
  - [Bedrock Data, which has debuted ArgusAI to show enterprises what data their AI models access during training and to prevent data leakage, raised a $25M Series A &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251123/p6#a251123p6)
  - [Deblock, an app that lets users manage fiat and digital assets in one place by linking a bank account with a self-owned crypto wallet, raised a €30M Series A &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251123/p5#a251123p5)
- - [Israel-based Chargeflow, whose AI tech automates chargeback disputes for online merchants, raised a $25M Series A led by Viola Growth, and a $10M debt round &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251123/p4#a251123p4)
- - [Peek, which sells software for attractions and tour operators, raised a $70M Series D, taking total funding to $150M, and acquired Acme Ticketing and Connect&amp;Go &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251123/p3#a251123p3)<!-- TECH:END -->
+ - [Israel-based Chargeflow, whose AI tech automates chargeback disputes for online merchants, raised a $25M Series A led by Viola Growth, and a $10M debt round &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/251123/p4#a251123p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

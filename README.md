@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
  - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [Well, well, well... Think about it...](http://9gag.com/gag/a0eDdod)
- - 👉 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)<!-- MEMES:END -->
+ - 😝 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
+ - 💣 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
+ - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
+ - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 💣 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 💣 [Make it make sense.](http://9gag.com/gag/a5Q9r0E)
  - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [WOMP WOMP](http://9gag.com/gag/avyBPME)<!-- MEMES:END -->
+ - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
 
 ---
 

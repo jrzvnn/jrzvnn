@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)
+ - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
  - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
  - [Panasonic Z95B OLED TV Review: Glorious Performance, One Small Catch](https://www.wired.com/review/panasonic-z95b/)
- - [A researcher details an LLM-based AI agent that &quot;demonstrated a near-flawless ability&quot; to bypass bot detection methods while answering online survey questions &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251123/p9#a251123p9)
- - [9 Best Chromebooks of 2025: All the Latest Models, Tested](https://www.wired.com/gallery/best-chromebooks/)<!-- TECH:END -->
+ - [No More Gatekeeping: Coffee Experts on How to Make the Perfect Espresso Shots at Home](https://www.cnet.com/home/kitchen-and-household/no-more-gatekeeping-coffee-experts-on-how-to-make-the-perfect-espresso-shots-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

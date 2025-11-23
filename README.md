@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 💣 [Southeast, Southwest](http://9gag.com/gag/aQzDMOW)
+ - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
+ - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
+ - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
  - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
- - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
+ - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
 
 ---
 

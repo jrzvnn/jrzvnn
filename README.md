@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [16 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
+ - [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025)
  - [Vine walked so TikTok could run](https://www.theverge.com/podcast/827102/vine-influence-tiktok-reels-shorts-version-history)
  - [The 73 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
- - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)
- - [11 Best MagSafe Wallets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-magsafe-wallets/)
- - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)<!-- TECH:END -->
+ - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

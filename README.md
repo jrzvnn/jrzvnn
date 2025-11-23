@@ -157,8 +157,8 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: iOS 27 will be a Snow Leopard-style update focused on bug fixes and performance, plus new AI features; FT&#39;s retirement report on Tim Cook was premature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251123/p10#a251123p10)
  - [16 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025)
  - [Vine walked so TikTok could run](https://www.theverge.com/podcast/827102/vine-influence-tiktok-reels-shorts-version-history)
  - [The 73 Best Deals From REI’s 2025 Holiday Sale](https://www.wired.com/story/rei-holiday-sale-nov-2025/)
  - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)<!-- TECH:END -->

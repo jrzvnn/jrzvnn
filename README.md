@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Panasonic Z95B OLED TV Review: Glorious Performance, One Small Catch](https://www.wired.com/review/panasonic-z95b/)
+ - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)
  - [A researcher details an LLM-based AI agent that &quot;demonstrated a near-flawless ability&quot; to bypass bot detection methods while answering online survey questions &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251123/p9#a251123p9)
  - [9 Best Chromebooks of 2025: All the Latest Models, Tested](https://www.wired.com/gallery/best-chromebooks/)
- - [Apple TV wants to go big](https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience)
- - [The app that will instantly improve your Windows PC](https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer)
- - [Game Theory Explains How Algorithms Can Drive Up Prices](https://www.wired.com/story/game-theory-explains-how-algorithms-can-drive-up-prices/)<!-- TECH:END -->
+ - [Apple TV wants to go big](https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

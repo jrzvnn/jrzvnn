@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Flexion, which is building a full autonomy stack for humanoid robots, raised a $50M Series A from DST Global Partners, NVentures, and others, after a $7M+ seed &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251123/p15#a251123p15)
- - [&#39;Landman&#39; Season 2 Release Schedule: When to Watch More on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule-when-to-watch-more-on-paramount-plus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 24, #631](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-24-631/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 24, #1619](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-24-1619/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 24, #897](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-24-897/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [18 Excellent Horror Movies to Watch on HBO Max](https://www.cnet.com/tech/services-and-software/18-excellent-horror-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)
+ - [Sources: Infinite Reality, rebranded as Napster, told staff that $3B+ in funding from an unnamed investor is not coming, calling itself a &quot;victim of misconduct&quot; &lpar;Forbes&rpar;](http://www.techmeme.com/251123/p14#a251123p14)
+ - [Some of the best Nintendo Switch games are up to $30 off for Black Friday](https://www.theverge.com/gadgets/826416/best-nintendo-black-friday-deals-switch-games-amiibo-sale-2025)
+ - [X&amp;#8217;s messy About This Account rollout has caused utter chaos](https://www.theverge.com/news/827279/xs-messy-about-this-account-rollout-has-caused-utter-chaos)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

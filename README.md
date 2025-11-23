@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Get the Perfect Surround Sound Speaker Setup](https://www.wired.com/story/how-to-get-the-perfect-surround-sound-speaker-setup/)
  - [9 Best Espresso Machines for Home &lpar;2025&rpar;, Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)
  - [Stop Debating EVs vs. Gas. We Ran the Numbers to Find the True Cheapest Car](https://www.cnet.com/roadshow/news/stop-debating-evs-vs-gas-we-ran-the-numbers-to-find-the-true-cheapest-car/#ftag=CAD590a51e)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 23, #896](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-23-896/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 23, #1618](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-23-1618/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

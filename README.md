@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
- - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
- - 💣 [WOMP WOMP](http://9gag.com/gag/avyBPME)
+ - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 💣 [Southeast, Southwest](http://9gag.com/gag/aQzDMOW)
  - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
- - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
+ - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
 
 ---
 

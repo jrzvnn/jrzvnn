@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 😝 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)
- - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
  - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [The beacons are lit](http://9gag.com/gag/a1m8X4G)<!-- MEMES:END -->
+ - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 💣 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 😝 [Even Verstappen smiled...](http://9gag.com/gag/aZZ4md0)
+ - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
 
 ---
 

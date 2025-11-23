@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Throwing back](http://9gag.com/gag/azxvrVN)
- - 😝 [I miss walking home under the falling snow..](http://9gag.com/gag/azxvrbB)
- - 💣 [Wicked game](http://9gag.com/gag/aO8nv6N)
- - 😝 [Skeletor always has a way with words](http://9gag.com/gag/aVv9DbM)
- - 👉 [Woke broke](http://9gag.com/gag/aLnOMRV)<!-- MEMES:END -->
+ - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
+ - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 💣 [This is awkward.](http://9gag.com/gag/an701qB)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 👉 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)<!-- MEMES:END -->
 
 ---
 

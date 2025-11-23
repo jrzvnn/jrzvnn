@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
- - 😝 [This is awkward.](http://9gag.com/gag/an701qB)
- - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [Well, well, well... Think about it...](http://9gag.com/gag/a0eDdod)
- - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
+ - 😝 [Throwing back](http://9gag.com/gag/azxvrVN)
+ - 😝 [I miss walking home under the falling snow..](http://9gag.com/gag/azxvrbB)
+ - 💣 [Wicked game](http://9gag.com/gag/aO8nv6N)
+ - 😝 [Skeletor always has a way with words](http://9gag.com/gag/aVv9DbM)
+ - 👉 [Woke broke](http://9gag.com/gag/aLnOMRV)<!-- MEMES:END -->
 
 ---
 

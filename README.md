@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)
  - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
  - [Panasonic Z95B OLED TV Review: Glorious Performance, One Small Catch](https://www.wired.com/review/panasonic-z95b/)
- - [iOS 27 rumored to be focused on stability, like macOS X Snow Leopard was](https://appleinsider.com/articles/25/11/23/ios-27-rumored-to-be-focused-on-stability-like-macos-x-snow-leopard-was?utm_source=rss)
  - [A researcher details an LLM-based AI agent that &quot;demonstrated a near-flawless ability&quot; to bypass bot detection methods while answering online survey questions &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251123/p9#a251123p9)
  - [9 Best Chromebooks of 2025: All the Latest Models, Tested](https://www.wired.com/gallery/best-chromebooks/)<!-- TECH:END -->
 

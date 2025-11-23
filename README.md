@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: Meta axed research based on a Nielsen survey in 2020 that found evidence of social media harms, claiming the survey was tainted by the &quot;media narrative&quot; &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251123/p12#a251123p12)
  - [X&#39;s new About This Account feature reveals that some top accounts, including many MAGA influencers, are based in countries like Russia, India, and Nigeria &lpar;Jack Revell/The Daily Beast&rpar;](http://www.techmeme.com/251123/p11#a251123p11)
  - [Sources: iOS 27 will be a Snow Leopard-style update focused on bug fixes and performance, plus new AI features; FT&#39;s retirement report on Tim Cook was premature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251123/p10#a251123p10)
  - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)
- - [16 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)
- - [Sony’s last-gen XM4 headphones are over 50 percent off for Black Friday](https://www.theverge.com/gadgets/826784/sony-wh-1000xm4-noise-canceling-headphones-black-friday-deal-sale-2025)<!-- TECH:END -->
+ - [16 Best Air Purifiers &lpar;2025&rpar;: Coway, AirDoctor, IQAir](https://www.wired.com/gallery/best-air-purifiers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

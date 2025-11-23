@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stunning](http://9gag.com/gag/aQzDnLz)
- - 😝 [Why does this keep happening?](http://9gag.com/gag/ae9qpqO)
- - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
- - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
+ - 😝 [Sequential Turn Signals, how it works &#39;67](http://9gag.com/gag/aryDN6B)
+ - 😝 [Throwing back](http://9gag.com/gag/azxvrVN)
+ - 💣 [Woke broke](http://9gag.com/gag/aLnOMRV)
+ - 😝 [I miss walking home under the falling snow..](http://9gag.com/gag/azxvrbB)
+ - 👉 [Wicked game](http://9gag.com/gag/aO8nv6N)<!-- MEMES:END -->
 
 ---
 

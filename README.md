@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
+ - [Flying for the Holidays? Streaming Services Are Free on These Airlines](https://www.cnet.com/tech/services-and-software/flying-for-the-holidays-streaming-services-are-free-on-these-airlines/#ftag=CAD590a51e)
+ - [La Liga Soccer: Stream Elche vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-elche-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
  - [Filing: Meta axed research based on a Nielsen survey in 2020 that found evidence of social media harms, claiming the survey was tainted by the &quot;media narrative&quot; &lpar;Jeff Horwitz/Reuters&rpar;](http://www.techmeme.com/251123/p12#a251123p12)
- - [X&#39;s new About This Account feature reveals that some top accounts, including many MAGA influencers, are based in countries like Russia, India, and Nigeria &lpar;Jack Revell/The Daily Beast&rpar;](http://www.techmeme.com/251123/p11#a251123p11)
- - [Sources: iOS 27 will be a Snow Leopard-style update focused on bug fixes and performance, plus new AI features; FT&#39;s retirement report on Tim Cook was premature &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251123/p10#a251123p10)
- - [Best Internet Providers in Los Angeles, California](https://www.cnet.com/home/internet/best-internet-providers-in-los-angeles-ca/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [X&#39;s new About This Account feature reveals that some top accounts, including many MAGA influencers, are based in countries like Russia, India, and Nigeria &lpar;Jack Revell/The Daily Beast&rpar;](http://www.techmeme.com/251123/p11#a251123p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

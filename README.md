@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
- - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 💣 [Make it make sense.](http://9gag.com/gag/a5Q9r0E)
- - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
+ - 😝 [Eating cold ravioli really brings out the inner architect](http://9gag.com/gag/avyBrWX)
+ - 😝 [Title](http://9gag.com/gag/aE0jRDN)
+ - 💣 [Winter](http://9gag.com/gag/apRnp0b)
+ - 😝 [Damn, this actually made me feel bad.](http://9gag.com/gag/a1m8dLb)
+ - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
 
 ---
 

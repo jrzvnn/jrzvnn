@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
  - 😝 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
- - 💣 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
- - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
- - 👉 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)<!-- MEMES:END -->
+ - 💣 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
+ - 👉 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game Theory Explains How Algorithms Can Drive Up Prices](https://www.wired.com/story/game-theory-explains-how-algorithms-can-drive-up-prices/)
- - [How to Get the Perfect Surround Sound Speaker Setup](https://www.wired.com/story/how-to-get-the-perfect-surround-sound-speaker-setup/)
- - [The 20 Best Advent Calendars for Christmas 2025](https://www.cnet.com/culture/entertainment/best-advent-calendars/#ftag=CAD590a51e)
- - [Winter Safety Checklist: Here&#39;s What a Heating and Plumbing Specialist Does to His Home](https://www.cnet.com/home/services/winter-safety-checklist-heres-what-a-heating-and-plumbing-specialist-does-to-his-home/#ftag=CAD590a51e)
- - [Premier League Soccer: Stream Leeds vs. Aston Villa Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-leeds-vs-aston-villa-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A researcher details an LLM-based AI agent that &quot;demonstrated a near-flawless ability&quot; to bypass bot detection methods while answering online survey questions &lpar;Emanuel Maiberg/404 Media&rpar;](http://www.techmeme.com/251123/p9#a251123p9)
+ - [9 Best Chromebooks of 2025: All the Latest Models, Tested](https://www.wired.com/gallery/best-chromebooks/)
+ - [Apple TV wants to go big](https://www.theverge.com/column/825282/apple-tv-streaming-grow-audience)
+ - [The app that will instantly improve your Windows PC](https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer)
+ - [Game Theory Explains How Algorithms Can Drive Up Prices](https://www.wired.com/story/game-theory-explains-how-algorithms-can-drive-up-prices/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Arrested 71 times still on the streets !!](http://9gag.com/gag/a5Q974r)
  - 😝 [Ryanair sm admin is savage](http://9gag.com/gag/aByb13P)
- - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
- - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [Dialogue: 0%, Happy Men: 100%](http://9gag.com/gag/an701ob)
- - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
+ - 💣 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 👉 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)<!-- MEMES:END -->
 
 ---
 

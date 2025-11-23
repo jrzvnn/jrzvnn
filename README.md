@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [For the shorties](http://9gag.com/gag/awy95by)
- - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 💣 [Title](http://9gag.com/gag/aE0jRDN)
- - 😝 [It tracks](http://9gag.com/gag/a87vyM1)
- - 👉 [Woke broke](http://9gag.com/gag/aLnOMRV)<!-- MEMES:END -->
+ - 😝 [This is awkward.](http://9gag.com/gag/an701qB)
+ - 😝 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
+ - 💣 [1954. A black worker in a South African diamond mine behind an X-ray machine. They were scanned at the end of each shift to prevent them from swallowing diamonds and smuggling them out.](http://9gag.com/gag/aXPm9xd)
+ - 😝 [Damn, this actually made me feel bad.](http://9gag.com/gag/a1m8dLb)
+ - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
 
 ---
 

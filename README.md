@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [9 Best Espresso Machines for Home &lpar;2025&rpar;, Tested by Coffee Pros](https://www.wired.com/gallery/best-espresso-machines/)
- - [Chip companies in South Korea, Taiwan, and China have been raising pay and bonuses as global competition intensifies for a limited pool of chip engineers &lpar;June Yoon/Financial Times&rpar;](http://www.techmeme.com/251123/p8#a251123p8)
- - [I Tested an AI Food Scanning App for 6 Weeks. This Is What I Learned About Ultra-Processed Foods](https://www.cnet.com/health/nutrition/tested-ai-food-scanning-app-6-weeks-what-learned-about-ultra-processed-foods/#ftag=CAD590a51e)
- - [17 Best Sex Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-sex-toys-and-tech/)
- - [An in-depth look at the humanoid robotics industry, which currently relies heavily on hype to rally interest and investors, as AI fuels the humanoid boom &lpar;James Vincent/Harper&#39;s&rpar;](http://www.techmeme.com/251123/p7#a251123p7)<!-- TECH:END -->
+ - [Stop Debating EVs vs. Gas. We Ran the Numbers to Find the True Cheapest Car](https://www.cnet.com/roadshow/news/stop-debating-evs-vs-gas-we-ran-the-numbers-to-find-the-true-cheapest-car/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 23, #896](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-23-896/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 23, #630](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-23-630/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 23, #1618](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-23-1618/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

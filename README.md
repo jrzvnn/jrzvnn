@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pro-AI super PAC Leading the Future launches a $10M media campaign to push Congress to craft a national AI policy that will override a patchwork of state laws &lpar;CNBC&rpar;](http://www.techmeme.com/251124/p45#a251124p45)
+ - [DOJ settles with RealPage over its software&amp;#8217;s alleged rent price fixing](https://www.theverge.com/news/828335/doj-realpage-settlement-rent-setting-software)
  - [ChatGPT shopping research builds you a buyer&amp;#8217;s guide using AI](https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide)
  - [The US DOJ settles its case against RealPage, which was accused of building algorithms that allowed landlords to illegally collude to drive up rental prices &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/251124/p44#a251124p44)
- - [Nvidia refuted accounting questions in a memo to analysts, saying &quot;Unlike Enron, NVIDIA does not use Special Purpose Entities to hide debt and inflate revenue&quot; &lpar;Tae Kim/Barron&#39;s Online&rpar;](http://www.techmeme.com/251124/p43#a251124p43)
- - [Best Laptop for College Students: Top Laptops for School in 2025](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)
- - [Sources: Spotify plans to raise US subscription prices in Q1 2026, its first US price rise since July 2024, after increasing prices in other countries this year &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251124/p42#a251124p42)<!-- TECH:END -->
+ - [Nvidia refuted accounting questions in a memo to analysts, saying &quot;Unlike Enron, NVIDIA does not use Special Purpose Entities to hide debt and inflate revenue&quot; &lpar;Tae Kim/Barron&#39;s Online&rpar;](http://www.techmeme.com/251124/p43#a251124p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

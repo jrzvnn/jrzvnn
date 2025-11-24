@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Steam Deck LCD is 20 percent off for Black Friday](https://www.theverge.com/gadgets/827910/steam-deck-lcd-black-friday-deal-sale)
+ - [Anthropic says Claude can now keep a chat going indefinitely, automatically summarizing earlier context when it hits its context window &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251124/p30#a251124p30)
  - [How the US&#39; annualized 1.6% GDP growth in H1 was heavily dependent on AI-related investments, which might have accounted for as much as 50% of the growth &lpar;Konrad Putzier/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p29#a251124p29)
  - [Anthropic launches Claude Opus 4.5, which the company says is &quot;the best model in the world for coding, agents, and computer use&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/251124/p28#a251124p28)
- - [Grindr ends talks on a $3.46B take-private deal by shareholders Ray Zage and James Lu, who own 60%+ of Grindr, citing uncertainty over the deal&#39;s financing &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251124/p27#a251124p27)
- - [Microsoft unveils Fara-7B, its first agentic SLM designed for computer use, available as an experimental release on Hugging Face and Microsoft Foundry &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/251124/p26#a251124p26)
- - [The US DOD and the intelligence community awarded Enabled Intelligence a seven-year, up to $708M data labeling contract in September, beating out Scale AI &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/251124/p25#a251124p25)<!-- TECH:END -->
+ - [Anthropic&#39;s New Claude Opus 4.5 AI Model Is Designed for Coding and Office Work](https://www.cnet.com/tech/services-and-software/anthropics-new-claude-opus-4-5-ai-model-is-designed-for-coding-and-office-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Oura Ring 4 Is $100 off Ahead of Black Friday](https://www.wired.com/story/oura-ring-4-deal-1125/)
- - [Dutch online grocery store Picnic raised €430M from The Bill and Melinda Gates Foundation Trust and others, after raising €355M in January 2024 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251124/p22#a251124p22)
- - [Save $400 on Apple&#39;s M4 Max MacBook Pro in Black Friday price war](https://appleinsider.com/articles/25/11/24/save-400-on-apples-m4-max-macbook-pro-in-black-friday-price-war?utm_source=rss)
- - [Analogue3D Review: A Retro Gamer&#39;s Dream](https://www.wired.com/review/analogue3d-console/)
- - [Meta had a 17-strike policy for sex trafficking, former safety leader claims](https://www.theverge.com/news/827658/meta-17-strike-policy-sex-trafficking-testimony-lawsuit)<!-- TECH:END -->
+ - [LoveFrom has a prototype for the first piece of OpenAI Hardware](https://appleinsider.com/articles/25/11/24/lovefrom-has-a-prototype-for-the-first-piece-of-openai-hardware?utm_source=rss)
+ - [Philips Hue from founding to now with George Yianni on HomeKit Insider](https://appleinsider.com/articles/25/11/24/philips-hue-from-founding-to-now-with-george-yianni-on-homekit-insider?utm_source=rss)
+ - [Get ready for a foldable iPhone that costs as much as a 16-inch MacBook Pro](https://appleinsider.com/articles/25/11/24/get-ready-for-a-foldable-iphone-that-costs-as-much-as-a-16-inch-macbook-pro?utm_source=rss)
+ - [Sources: Shopify salespeople engaged in a sales fraud scheme inflating deal values for over a year, leading to internal investigations in mid-2024 and firings &lpar;Aleksandra Sagan/The Logic&rpar;](http://www.techmeme.com/251124/p23#a251124p23)
+ - [The Oura Ring 4 Is $100 off Ahead of Black Friday](https://www.wired.com/story/oura-ring-4-deal-1125/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

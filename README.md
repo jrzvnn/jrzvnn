@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DOGE is no more, and in its wake, only chaos](https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos)
  - [Major insurers have recently sought permission from US regulators to offer policies excluding liabilities tied to businesses deploying AI chatbots and agents &lpar;Financial Times&rpar;](http://www.techmeme.com/251123/p16#a251123p16)
  - [About This Account reveals the scale of X’s foreign troll problem](https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem)
  - [Flexion, which is building a full autonomy stack for humanoid robots, raised a $50M Series A from DST Global Partners, NVentures, and others, after a $7M+ seed &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251123/p15#a251123p15)
- - [&#39;Landman&#39; Season 2 Release Schedule: When to Watch More on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule-when-to-watch-more-on-paramount-plus/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 24, #631](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-24-631/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Landman&#39; Season 2 Release Schedule: When to Watch More on Paramount Plus](https://www.cnet.com/tech/services-and-software/landman-season-2-release-schedule-when-to-watch-more-on-paramount-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

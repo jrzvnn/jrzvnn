@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)
- - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 😝 [`Glow plug` for diesel engine start up.](http://9gag.com/gag/a0eD5MO)
- - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
+ - 😝 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
+ - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 💣 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
+ - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
 
 ---
 

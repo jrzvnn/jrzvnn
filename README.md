@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
- - [You can grab a year of Disney Plus and Hulu for just $5 a month for Black Friday](https://www.theverge.com/gadgets/827649/disney-plus-hulu-black-friday-deal-sale-2025)
- - [LoveFrom has a prototype for the first piece of OpenAI Hardware](https://appleinsider.com/articles/25/11/24/lovefrom-has-a-prototype-for-the-first-piece-of-openai-hardware?utm_source=rss)
- - [&#39;Bel-Air&#39;: Jabari Banks and Cast Talk the Final Season](https://www.cnet.com/culture/entertainment/bel-air-jabari-banks-and-cast-talk-the-final-season/#ftag=CAD590a51e)
- - [Philips Hue from founding to now with George Yianni on HomeKit Insider](https://appleinsider.com/articles/25/11/24/philips-hue-from-founding-to-now-with-george-yianni-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
+ - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/827608/hbo-max-black-friday-deal-streaming-sale-2025)
+ - [OpenAI unveils a free shopping research feature in ChatGPT that delivers a personalized buyer&#39;s guide, powered by a custom version of GPT-5 mini &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251124/p24#a251124p24)
+ - [Amazon&amp;#8217;s Starlink competitor is launching with &amp;#8216;world&amp;#8217;s fastest satellite internet antenna&amp;#8217;](https://www.theverge.com/news/827783/amazon-leo-ultra-antenna-enterprise-preview)
+ - [Aqara&amp;#8217;s $99 Wi-Fi smart lock is a good-looking budget option](https://www.theverge.com/news/827784/aqara-wifi-b50-smart-lock-lowes-budget-friendly)
+ - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

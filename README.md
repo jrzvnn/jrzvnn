@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity)
- - [Anthropic unveils two Claude Code upgrades: a new plan mode that creates more precise plans, and support for Claude Code in the Claude desktop app &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251124/p32#a251124p32)
- - [Sources: Apple cut dozens of sales roles to streamline sales to businesses, schools, and governments; Apple says the changes affect &quot;a small number of roles&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251124/p31#a251124p31)
- - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
- - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
+ - [Anthropic says Claude Opus 4.5 is &quot;harder to trick with prompt injection than any other frontier model in the industry&quot; but isn&#39;t &quot;immune&quot; to such attacks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251124/p33#a251124p33)
+ - [Signal’s secure message backups arrive on iOS](https://www.theverge.com/news/828091/signal-secure-backups-ios-launch)
+ - [Rad Power Bikes’ batteries are a fire risk and shouldn’t be used, CPSC warns](https://www.theverge.com/news/828004/rad-power-bikes-batteries-fire-cpsc)
+ - [Apple has unexpectedly laid off a small amount of its sales force](https://appleinsider.com/articles/25/11/24/apple-has-unexpectedly-laid-off-a-small-amount-of-its-sales-force?utm_source=rss)
+ - [Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A $100 Billion Chip Project Forced a 91-Year-Old Woman From Her Home](https://www.wired.com/story/micron-superfab-evicts-91-year-old-new-york/)
  - [A look at New Save Collective, a group of gamers and activists roleplaying ICE raids in Fortnite and GTA 5 to prepare for real-world situations &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/251124/p3#a251124p3)
  - [10 Best Early Black Friday Deals at Best Buy &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-best-buy-deals/)
  - [Q&amp;A with Z.ai Director of Product Zixuan Li on Chinese AI models embracing open source, attracting global users for its GLM model, training on memes, and more &lpar;ChinaTalk&rpar;](http://www.techmeme.com/251124/p2#a251124p2)
- - [Europe Is Bending the Knee to the US on Tech Policy](https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/)
- - [Save 40% on any Plex Pass with Black Friday &amp; Cyber Monday deals](https://appleinsider.com/articles/25/11/24/save-40-on-any-plex-pass-with-black-friday-cyber-monday-deals?utm_source=rss)<!-- TECH:END -->
+ - [Europe Is Bending the Knee to the US on Tech Policy](https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

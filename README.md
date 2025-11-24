@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
  - 💣 [I swear Opm animation is getting worst](http://9gag.com/gag/aRB8j3G)
- - 😝 [Let there be light.](http://9gag.com/gag/aYQv4E0)
- - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
+ - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
 
 ---
 

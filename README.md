@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
  - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
  - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
+ - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 😝 [Little wisdom](http://9gag.com/gag/adBW7ZV)
+ - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
 
 ---
 

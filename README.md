@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Paris-based Pennylane, which makes accounting software, is discussing a $200M investment led by TCV at a $4.25B valuation, up from €2B in April &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251124/p36#a251124p36)
- - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)
- - [Rad Power Bike E-Bike Batteries Can Catch Fire, Consumer Protection Agency Warns](https://www.cnet.com/tech/rad-power-bike-e-bike-batteries-can-catch-fire-consumer-protection-agency-warns/#ftag=CAD590a51e)
- - [Anthropic says Opus 4.5 outscored all humans on a take-home exam it gives to prospective performance engineering candidates, within a prescribed two-hour limit &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251124/p35#a251124p35)
- - [Nvidia’s ‘I’m Not Enron’ memo has people asking a lot of questions already answered by that memo](https://www.theverge.com/business/828047/nvidia-enron-conspiracy-accounting)<!-- TECH:END -->
+ - [New Apple ad shows off NHL goalie masks designed on iPad](https://appleinsider.com/articles/25/11/24/new-apple-ad-shows-off-nhl-goalie-masks-designed-on-ipad?utm_source=rss)
+ - [Sources: Italian police raided two Amazon sites on Monday as part of a growing investigation into alleged customs and tax fraud involving Chinese imports &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/251124/p39#a251124p39)
+ - [A US judge issues a temporary restraining order blocking OpenAI from using the word &quot;cameo&quot; for Sora features, following a trademark lawsuit by video app Cameo &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251124/p38#a251124p38)
+ - [Zoom reports Q3 revenue up 4.4% YoY to $1.23B, vs. $1.21B est., enterprise revenue up 6.1% YoY to $741.4M, and a Q4 revenue forecast above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251124/p37#a251124p37)
+ - [Sources: Paris-based Pennylane, which makes accounting software, is discussing a $200M investment led by TCV at a $4.25B valuation, up from €2B in April &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251124/p36#a251124p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

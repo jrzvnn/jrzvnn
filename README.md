@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nvidia refuted accounting questions in a memo to analysts, saying &quot;Unlike Enron, NVIDIA does not use Special Purpose Entities to hide debt and inflate revenue&quot; &lpar;Tae Kim/Barron&#39;s Online&rpar;](http://www.techmeme.com/251124/p43#a251124p43)
  - [Sources: Spotify plans to raise US subscription prices in Q1 2026, its first US price rise since July 2024, after increasing prices in other countries this year &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251124/p42#a251124p42)
  - [Sources: Google has begun pitching customers, including Meta and big financial institutions, on the idea of using TPUs in their own data centers &lpar;The Information&rpar;](http://www.techmeme.com/251124/p41#a251124p41)
  - [President Trump signs an EO establishing the &quot;Genesis Mission&quot; to boost AI research and shorten discovery timelines &quot;from years to days or even hours&quot; &lpar;Axios&rpar;](http://www.techmeme.com/251124/p40#a251124p40)
- - [Meta&amp;#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts](https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit)
- - [New Apple ad shows off NHL goalie masks designed on iPad](https://appleinsider.com/articles/25/11/24/new-apple-ad-shows-off-nhl-goalie-masks-designed-on-ipad?utm_source=rss)<!-- TECH:END -->
+ - [Meta&amp;#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts](https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

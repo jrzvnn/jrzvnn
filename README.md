@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 💣 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
- - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 😝 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
+ - 😝 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
+ - 💣 [When she saw the cosplay of her childhood dreams. Disneyland](http://9gag.com/gag/a87v8qZ)
+ - 😝 [Luke is a dork.](http://9gag.com/gag/an70jb0)
  - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
 
 ---

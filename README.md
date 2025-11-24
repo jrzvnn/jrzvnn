@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)
+ - [Anthropic says Opus 4.5 outscored all humans on a take-home exam it gives to prospective performance engineering candidates, within a prescribed two-hour limit &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251124/p35#a251124p35)
+ - [Nvidia’s ‘I’m Not Enron’ memo has people asking a lot of questions already answered by that memo](https://www.theverge.com/business/828047/nvidia-enron-conspiracy-accounting)
  - [Xbox Crocs are real](https://www.theverge.com/news/828175/microsoft-xbox-crocs)
- - [Apple has unexpectedly laid off a small amount of its sales force](https://appleinsider.com/articles/25/11/24/apple-has-unexpectedly-laid-off-a-small-amount-of-its-sales-force?utm_source=rss)
- - [Anthropic prices Claude Opus 4.5 at $5/1M input and $25/1M output tokens, much cheaper than Opus 4.1 at $15/$75 but still pricier than GPT-5.1 and Gemini 3 Pro &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251124/p34#a251124p34)
- - [Anthropic says Claude Opus 4.5 is &quot;harder to trick with prompt injection than any other frontier model in the industry&quot; but isn&#39;t &quot;immune&quot; to such attacks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251124/p33#a251124p33)
- - [Signal’s secure message backups arrive on iOS](https://www.theverge.com/news/828091/signal-secure-backups-ios-launch)<!-- TECH:END -->
+ - [Apple has unexpectedly laid off a small amount of its sales force](https://appleinsider.com/articles/25/11/24/apple-has-unexpectedly-laid-off-a-small-amount-of-its-sales-force?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The absolute best Black Friday deals we’ve found &lpar;so far&rpar;](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
- - [The Steam Deck LCD is 20 percent off for Black Friday](https://www.theverge.com/gadgets/827910/steam-deck-lcd-black-friday-deal-sale)
- - [Anthropic says Claude can now keep a chat going indefinitely, automatically summarizing earlier context when it hits its context window &lpar;Russell Brandom/TechCrunch&rpar;](http://www.techmeme.com/251124/p30#a251124p30)
- - [How the US&#39; annualized 1.6% GDP growth in H1 was heavily dependent on AI-related investments, which might have accounted for as much as 50% of the growth &lpar;Konrad Putzier/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p29#a251124p29)
- - [Anthropic launches Claude Opus 4.5, which the company says is &quot;the best model in the world for coding, agents, and computer use&quot; &lpar;Anthropic&rpar;](http://www.techmeme.com/251124/p28#a251124p28)<!-- TECH:END -->
+ - [Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity)
+ - [Anthropic unveils two Claude Code upgrades: a new plan mode that creates more precise plans, and support for Claude Code in the Claude desktop app &lpar;Frederic Lardinois/The New Stack&rpar;](http://www.techmeme.com/251124/p32#a251124p32)
+ - [Sources: Apple cut dozens of sales roles to streamline sales to businesses, schools, and governments; Apple says the changes affect &quot;a small number of roles&quot; &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/251124/p31#a251124p31)
+ - [I tested a bunch of Switch 2 screen protectors, and these are the best](https://www.theverge.com/reviews/694948/best-switch-2-glass-screen-protector-glossy-matte)
+ - [The best gifts for dads that have everything &lpar;but deserve more&rpar;](https://www.theverge.com/gadgets/780847/best-dad-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

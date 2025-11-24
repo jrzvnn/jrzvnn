@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
  - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
+ - 💣 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)
+ - 😝 [Let there be light.](http://9gag.com/gag/aYQv4E0)
+ - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
 
 ---
 

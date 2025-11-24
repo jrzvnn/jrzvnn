@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 😝 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
- - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
+ - 😝 [Always The Simpsons....](http://9gag.com/gag/aByb8RQ)
+ - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 💣 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
+ - 😝 [N/A](http://9gag.com/gag/aByb8XQ)
+ - 👉 [Little wisdom](http://9gag.com/gag/adBW7ZV)<!-- MEMES:END -->
 
 ---
 

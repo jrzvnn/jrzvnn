@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many reps, yes](http://9gag.com/gag/an701mn)
- - 😝 [Winter](http://9gag.com/gag/apRnp0b)
- - 💣 [Peace Plan?](http://9gag.com/gag/an70bW5)
- - 😝 [Boys will be boys.](http://9gag.com/gag/aZZ4gxQ)
- - 👉 [A random brazilian 9gagger yesterday at the Oasis concert. Alone and browsing 9gag instead of socializing and enjoying the concert! A true veteran! Cheers mate and I hope you see yourself](http://9gag.com/gag/a1m8b1R)<!-- MEMES:END -->
+ - 😝 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)
+ - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
+ - 💣 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - 😝 [Luke is a dork.](http://9gag.com/gag/an70jb0)
+ - 👉 [How many reps, yes](http://9gag.com/gag/an701mn)<!-- MEMES:END -->
 
 ---
 

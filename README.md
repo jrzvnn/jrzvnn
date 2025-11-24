@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anthropic prices Claude Opus 4.5 at $5/1M input and $25/1M output tokens, much cheaper than Opus 4.1 at $15/$75 but still pricier than GPT-5.1 and Gemini 3 Pro &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251124/p34#a251124p34)
  - [Anthropic says Claude Opus 4.5 is &quot;harder to trick with prompt injection than any other frontier model in the industry&quot; but isn&#39;t &quot;immune&quot; to such attacks &lpar;Hayden Field/The Verge&rpar;](http://www.techmeme.com/251124/p33#a251124p33)
  - [Signal’s secure message backups arrive on iOS](https://www.theverge.com/news/828091/signal-secure-backups-ios-launch)
  - [Rad Power Bikes’ batteries are a fire risk and shouldn’t be used, CPSC warns](https://www.theverge.com/news/828004/rad-power-bikes-batteries-fire-cpsc)
- - [Apple has unexpectedly laid off a small amount of its sales force](https://appleinsider.com/articles/25/11/24/apple-has-unexpectedly-laid-off-a-small-amount-of-its-sales-force?utm_source=rss)
- - [Anthropic’s new model is its latest frontier in the AI agent battle — but it’s still facing cybersecurity concerns](https://www.theverge.com/ai-artificial-intelligence/828003/anthropics-new-claude-opus-4-5-model-ai-agents-cybersecurity)<!-- TECH:END -->
+ - [Apple has unexpectedly laid off a small amount of its sales force](https://appleinsider.com/articles/25/11/24/apple-has-unexpectedly-laid-off-a-small-amount-of-its-sales-force?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

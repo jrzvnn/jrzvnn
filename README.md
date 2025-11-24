@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best OLED TVs &lpar;2025&rpar;: Sony, LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)
+ - [&amp;#8216;Holy shit’: Gemini 3 is winning the AI race — for now](https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now)
  - [French lawsuit again turns Apple&#39;s App Store fees into a high-stakes legal test](https://appleinsider.com/articles/25/11/24/french-lawsuit-again-turns-apples-app-store-fees-into-a-high-stakes-legal-test?utm_source=rss)
  - [What Kilian Jornet Packs to Climb Every 14er in the Mountain West in 31 days](https://www.wired.com/story/kilian-jornets-mountain-conquering-starter-pack/)
- - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
- - [Manage files and record 4K ProRes RAW video on iPhone with new Lexar ES5 MagSafe-compatible SSD](https://appleinsider.com/articles/25/11/24/manage-files-and-record-4k-prores-raw-video-on-iphone-with-new-lexar-es5-magsafe-compatible-ssd?utm_source=rss)
- - [Amazon unveils its Autonomous Threat Analysis system, born from a 2024 internal hackathon, to use AI agents competing in teams to identify vulnerabilities &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251124/p18#a251124p18)<!-- TECH:END -->
+ - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

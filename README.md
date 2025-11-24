@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Grindr ends talks on a $3.46B take-private deal by shareholders Ray Zage and James Lu, who own 60%+ of Grindr, citing uncertainty over the deal&#39;s financing &lpar;Kritika Lamba/Reuters&rpar;](http://www.techmeme.com/251124/p27#a251124p27)
  - [Microsoft unveils Fara-7B, its first agentic SLM designed for computer use, available as an experimental release on Hugging Face and Microsoft Foundry &lpar;Ben Dickson/VentureBeat&rpar;](http://www.techmeme.com/251124/p26#a251124p26)
  - [The US DOD and the intelligence community awarded Enabled Intelligence a seven-year, up to $708M data labeling contract in September, beating out Scale AI &lpar;Katrina Manson/Bloomberg&rpar;](http://www.techmeme.com/251124/p25#a251124p25)
  - [Indie game developers have a new sales pitch: being ‘AI free’](https://www.theverge.com/entertainment/827650/indie-developers-gen-ai-nexon-arc-raiders)
- - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/827608/hbo-max-black-friday-deal-streaming-sale-2025)
- - [OpenAI unveils a free shopping research feature in ChatGPT that delivers a personalized buyer&#39;s guide, powered by a custom version of GPT-5 mini &lpar;Sabrina Ortiz/ZDNET&rpar;](http://www.techmeme.com/251124/p24#a251124p24)<!-- TECH:END -->
+ - [HBO Max is offering one of the best Black Friday deals we’ve seen this year](https://www.theverge.com/gadgets/827608/hbo-max-black-friday-deal-streaming-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

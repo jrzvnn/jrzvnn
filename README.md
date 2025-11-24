@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 😝 [It could happen to anyone..](http://9gag.com/gag/a9y473j)
+ - 😝 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
+ - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
  - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
  - 😝 [Old vid, rp](http://9gag.com/gag/aAyLdAo)
- - 👉 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)<!-- MEMES:END -->
+ - 👉 [The beacons are lit](http://9gag.com/gag/a1m8X4G)<!-- MEMES:END -->
 
 ---
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
- - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 💣 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
  - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
+ - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 😝 [The lying truth](http://9gag.com/gag/an70jdn)
  - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
 
 ---

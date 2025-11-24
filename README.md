@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Europe Is Bending the Knee to the US on Tech Policy](https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/)
  - [Save 40% on any Plex Pass with Black Friday &amp; Cyber Monday deals](https://appleinsider.com/articles/25/11/24/save-40-on-any-plex-pass-with-black-friday-cyber-monday-deals?utm_source=rss)
  - [Apple&#39;s DMA compliance isn&#39;t &quot;malicious&quot;, but an effort to balance Apple&#39;s privacy focus with the EU&#39;s mandate, as iOS 26.2 iPhone/Watch Wi-Fi sync changes show &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251124/p1#a251124p1)
  - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-24/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 24, #427](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-24-427/#ftag=CAD590a51e)
- - [OPM Director Scott Kupor earlier this month said DOGE &quot;doesn&#39;t exist&quot; and OPM took over many of its functions, eight months before DOGE was set to close &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251123/p19#a251123p19)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 24, #427](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-24-427/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI confirms Andrea Vallone, the head of an OpenAI safety research team that works on ChatGPT&#39;s mental health responses, is set to leave at the end of 2025 &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251124/p9#a251124p9)
  - [The 5 Best Bread Makers for Homemade Loaves &lpar;2025&rpar;](https://www.wired.com/gallery/best-bread-makers/)
  - [Alibaba says its Qwen app drew 10M+ downloads in the week after its relaunch, one of the fastest app adoption rates behind ChatGPT, particularly in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p8#a251124p8)
  - [Researchers detail popEVE, an AI model to predict the disease-causing potential of unknown human genetic mutations, and says it beats Google&#39;s AlphaMissense &lpar;Michael Peel/Financial Times&rpar;](http://www.techmeme.com/251124/p7#a251124p7)
- - [Microsoft is speeding up and decluttering File Explorer in Windows 11](https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter)
- - [Lenovo CFO Winston Cheng says the PC maker is stockpiling memory and other critical components amid a supply crunch, holding inventories ~50% higher than usual &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p6#a251124p6)<!-- TECH:END -->
+ - [Microsoft is speeding up and decluttering File Explorer in Windows 11](https://www.theverge.com/news/827414/microsoft-file-explorer-windows-11-preload-context-menu-declutter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

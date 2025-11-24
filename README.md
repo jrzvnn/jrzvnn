@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
- - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 😝 [The lying truth](http://9gag.com/gag/an70jdn)
+ - 😝 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)
+ - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 💣 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
+ - 😝 [A wort and shitty title does the trick.](http://9gag.com/gag/aZZ4gOz)
  - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
 
 ---

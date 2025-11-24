@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Some of our favorite gifts will cost you less than $25](https://www.theverge.com/gadgets/780844/best-gifts-under-25-2025)
  - [You can grab a year of Disney Plus and Hulu for just $5 a month for Black Friday](https://www.theverge.com/gadgets/827649/disney-plus-hulu-black-friday-deal-sale-2025)
  - [LoveFrom has a prototype for the first piece of OpenAI Hardware](https://appleinsider.com/articles/25/11/24/lovefrom-has-a-prototype-for-the-first-piece-of-openai-hardware?utm_source=rss)
- - [Philips Hue from founding to now with George Yianni on HomeKit Insider](https://appleinsider.com/articles/25/11/24/philips-hue-from-founding-to-now-with-george-yianni-on-homekit-insider?utm_source=rss)
- - [Get ready for a foldable iPhone that costs as much as a 16-inch MacBook Pro](https://appleinsider.com/articles/25/11/24/get-ready-for-a-foldable-iphone-that-costs-as-much-as-a-16-inch-macbook-pro?utm_source=rss)<!-- TECH:END -->
+ - [&#39;Bel-Air&#39;: Jabari Banks and Cast Talk the Final Season](https://www.cnet.com/culture/entertainment/bel-air-jabari-banks-and-cast-talk-the-final-season/#ftag=CAD590a51e)
+ - [Philips Hue from founding to now with George Yianni on HomeKit Insider](https://appleinsider.com/articles/25/11/24/philips-hue-from-founding-to-now-with-george-yianni-on-homekit-insider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

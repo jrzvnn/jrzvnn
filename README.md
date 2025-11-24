@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - 😝 [When you hear a chopper flying low, but you can&#39;t locate it.](http://9gag.com/gag/axyeDwp)
  - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
- - 💣 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
  - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
 
 ---

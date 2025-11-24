@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peace Plan?](http://9gag.com/gag/an70bW5)
- - 😝 [Are You This Old ?](http://9gag.com/gag/aO8nzBr)
- - 💣 [It tracks](http://9gag.com/gag/a87vyM1)
- - 😝 [How many reps, yes](http://9gag.com/gag/an701mn)
- - 👉 [She can fix me.](http://9gag.com/gag/aoyG1N2)<!-- MEMES:END -->
+ - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
+ - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
+ - 💣 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)
- - 😝 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
- - 💣 [When she saw the cosplay of her childhood dreams. Disneyland](http://9gag.com/gag/a87v8qZ)
+ - 😝 [Peace Plan?](http://9gag.com/gag/an70bW5)
+ - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 💣 [A random brazilian 9gagger yesterday at the Oasis concert. Alone and browsing 9gag instead of socializing and enjoying the concert! A true veteran! Cheers mate and I hope you see yourself](http://9gag.com/gag/a1m8b1R)
  - 😝 [Luke is a dork.](http://9gag.com/gag/an70jb0)
- - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
+ - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
 
 ---
 

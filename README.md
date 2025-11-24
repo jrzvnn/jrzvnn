@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with current and former OpenAI employees detail how updates that made ChatGPT more appealing to boost growth sent some users into delusional spirals &lpar;New York Times&rpar;](http://www.techmeme.com/251123/p18#a251123p18)
  - [Changes to CISA have left some states without support during elections; California said CISA provided little support during the Nov. 4 election on redistricting &lpar;Associated Press&rpar;](http://www.techmeme.com/251123/p17#a251123p17)
  - [DOGE is no more, and in its wake, only chaos](https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos)
  - [Major insurers have recently sought permission from US regulators to offer policies excluding liabilities tied to businesses deploying AI chatbots and agents &lpar;Financial Times&rpar;](http://www.techmeme.com/251123/p16#a251123p16)
- - [About This Account reveals the scale of X’s foreign troll problem](https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem)
- - [Flexion, which is building a full autonomy stack for humanoid robots, raised a $50M Series A from DST Global Partners, NVentures, and others, after a $7M+ seed &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251123/p15#a251123p15)<!-- TECH:END -->
+ - [About This Account reveals the scale of X’s foreign troll problem](https://www.theverge.com/news/827298/about-this-account-reveals-the-scale-of-xs-foreign-troll-problem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A $100 Billion Chip Project Forced a 91-Year-Old Woman From Her Home](https://www.wired.com/story/micron-superfab-evicts-91-year-old-new-york/)
- - [A look at New Save Collective, a group of gamers and activists roleplaying ICE raids in Fortnite and GTA 5 to prepare for real-world situations &lpar;Megan Farokhmanesh/Wired&rpar;](http://www.techmeme.com/251124/p3#a251124p3)
- - [10 Best Early Black Friday Deals at Best Buy &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-best-buy-deals/)
- - [Q&amp;A with Z.ai Director of Product Zixuan Li on Chinese AI models embracing open source, attracting global users for its GLM model, training on memes, and more &lpar;ChinaTalk&rpar;](http://www.techmeme.com/251124/p2#a251124p2)
- - [Europe Is Bending the Knee to the US on Tech Policy](https://www.wired.com/story/europe-bends-us-digital-policies-eu-ai-act/)<!-- TECH:END -->
+ - [21 Best Gifts for Coffee Lovers &lpar;2025&rpar;: Drips, Pours, and Shots](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2025/)
+ - [A Research Leader Behind ChatGPT’s Mental Health Work Is Leaving OpenAI](https://www.wired.com/story/openai-research-lead-mental-health-quietly-departs/)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 24, #631](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-24-631/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 24, #897](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-24-897/#ftag=CAD590a51e)
+ - [Today&#39;s Wordle Hints, Answer and Help for Nov. 24, #1619](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-24-1619/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

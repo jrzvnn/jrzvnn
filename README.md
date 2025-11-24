@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AWS announces a commitment to invest up to $50B to build AI and HPC infrastructure for the US government, starting in 2026 and adding nearly 1.3 GW of capacity &lpar;Eric Revell/Fox Business&rpar;](http://www.techmeme.com/251124/p21#a251124p21)
+ - [Sam Altman and Jony Ive say they have settled on a design for OpenAI&#39;s device, speaking to Laurene Powell Jobs; Ive says it could debut in &quot;less than&quot; two years &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251124/p20#a251124p20)
  - [Jony Ive and Sam Altman say they finally have an AI hardware prototype](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman)
  - [Zombies, Run! isn’t headed for the grave after all](https://www.theverge.com/gadgets/827575/zombies-run-six-to-start-fitness-gaming)
- - [CNN&#39;s Apple News feed goes dark while contract talks continue](https://appleinsider.com/articles/25/11/24/cnns-apple-news-feed-goes-dark-while-contract-talks-continue?utm_source=rss)
- - [Amazon begins previewing its Amazon Leo satellite internet system for a select group of customers, ahead of a wider public rollout planned for 2026 &lpar;Loren Grush/Bloomberg&rpar;](http://www.techmeme.com/251124/p19#a251124p19)
- - [Herman Miller Is Having a Surprise Flash Sale on Office Chairs](https://www.wired.com/story/black-friday-herman-miller-sale-november-2025/)<!-- TECH:END -->
+ - [CNN&#39;s Apple News feed goes dark while contract talks continue](https://appleinsider.com/articles/25/11/24/cnns-apple-news-feed-goes-dark-while-contract-talks-continue?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

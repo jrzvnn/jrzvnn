@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Oura Ring 4 Is $100 off Ahead of Black Friday](https://www.wired.com/story/oura-ring-4-deal-1125/)
+ - [Dutch online grocery store Picnic raised €430M from The Bill and Melinda Gates Foundation Trust and others, after raising €355M in January 2024 &lpar;John Reynolds/Tech.eu&rpar;](http://www.techmeme.com/251124/p22#a251124p22)
  - [Save $400 on Apple&#39;s M4 Max MacBook Pro in Black Friday price war](https://appleinsider.com/articles/25/11/24/save-400-on-apples-m4-max-macbook-pro-in-black-friday-price-war?utm_source=rss)
  - [Analogue3D Review: A Retro Gamer&#39;s Dream](https://www.wired.com/review/analogue3d-console/)
- - [Meta had a 17-strike policy for sex trafficking, former safety leader claims](https://www.theverge.com/news/827658/meta-17-strike-policy-sex-trafficking-testimony-lawsuit)
- - [AWS announces a commitment to invest up to $50B to build AI and HPC infrastructure for the US government, starting in 2026 and adding nearly 1.3 GW of capacity &lpar;Eric Revell/Fox Business&rpar;](http://www.techmeme.com/251124/p21#a251124p21)
- - [Sam Altman and Jony Ive say they have settled on a design for OpenAI&#39;s device, speaking to Laurene Powell Jobs; Ive says it could debut in &quot;less than&quot; two years &lpar;Stevie Bonifield/The Verge&rpar;](http://www.techmeme.com/251124/p20#a251124p20)<!-- TECH:END -->
+ - [Meta had a 17-strike policy for sex trafficking, former safety leader claims](https://www.theverge.com/news/827658/meta-17-strike-policy-sex-trafficking-testimony-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

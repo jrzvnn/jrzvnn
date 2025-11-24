@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 10 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
+ - [Amazon Is Using Specialized AI Agents for Deep Bug Hunting](https://www.wired.com/story/amazon-autonomous-threat-analysis/)
  - [iPhone Fold nears mass production, screen crease issue rumored to be solved](https://appleinsider.com/articles/25/11/24/iphone-fold-nears-mass-production-screen-crease-issue-rumored-to-be-solved?utm_source=rss)
  - [NYC-based Opti, an enterprise identity security service that uses AI to analyze user, system, and access relationships, raised a $20M seed led by YL Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251124/p17#a251124p17)
- - [Revolut reaches a $75B valuation in its latest share sale led by Coatue, Greenoaks, and others, up from $45B in 2024, making it Europe&#39;s most valuable startup &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/251124/p16#a251124p16)
- - [Game development diary: Planning failures and the fyre festival of game expos](https://appleinsider.com/articles/25/11/24/game-development-diary-planning-failures-and-the-fyre-festival-of-game-expos?utm_source=rss)
- - [Galaxy Z Fold 7 vs. Pixel 10 Pro Fold Camera Comparison: The Results Have Me Torn](https://www.cnet.com/tech/mobile/galaxy-z-fold-7-vs-pixel-10-pro-fold-camera-comparison-the-results-have-me-torn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Revolut reaches a $75B valuation in its latest share sale led by Coatue, Greenoaks, and others, up from $45B in 2024, making it Europe&#39;s most valuable startup &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/251124/p16#a251124p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ubisoft says Tencent&#39;s €1.16B investment in Vantage Studios, set to reduce its debt, is complete, giving Tencent a 26% stake in Vantage and valuing it at €3.8B &lpar;Daniel Zuidijk/Bloomberg&rpar;](http://www.techmeme.com/251124/p4#a251124p4)
  - [21 Best Gifts for Coffee Lovers &lpar;2025&rpar;: Drips, Pours, and Shots](https://www.wired.com/gallery/gift-ideas-for-coffee-lovers-2025/)
  - [A Research Leader Behind ChatGPT’s Mental Health Work Is Leaving OpenAI](https://www.wired.com/story/openai-research-lead-mental-health-quietly-departs/)
  - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 24, #631](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-24-631/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 24, #897](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-24-897/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 24, #1619](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-24-1619/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 24, #897](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-24-897/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

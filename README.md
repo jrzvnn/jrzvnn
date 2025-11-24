@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Revolut reaches a $75B valuation in its latest share sale led by Coatue, Greenoaks, and others, up from $45B in 2024, making it Europe&#39;s most valuable startup &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/251124/p16#a251124p16)
  - [Game development diary: Planning failures and the fyre festival of game expos](https://appleinsider.com/articles/25/11/24/game-development-diary-planning-failures-and-the-fyre-festival-of-game-expos?utm_source=rss)
- - [Internal documents: Amazon&#39;s data center operations total 900+ facilities in 50+ countries, including AWS colocation facilities, higher than commonly understood &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251124/p15#a251124p15)
- - [OnePlus 15R will get a late launch next month](https://www.theverge.com/news/827430/oneplus-15r-will-get-a-late-launch-next-month)
- - [Hashrate Index: China&#39;s bitcoin mining market share rebounded to 14% by the end of October, making it the world&#39;s third-largest miner despite China&#39;s 2021 ban &lpar;Reuters&rpar;](http://www.techmeme.com/251124/p14#a251124p14)
- - [Apple promotes iPhone 17 Pro vapor chamber cooling in dynamic ad](https://appleinsider.com/articles/25/11/24/apple-promotes-iphone-17-pro-vapor-chamber-cooling-in-dynamic-ad?utm_source=rss)<!-- TECH:END -->
+ - [Galaxy Z Fold 7 vs. Pixel 10 Pro Fold Camera Comparison: The Results Have Me Torn](https://www.cnet.com/tech/mobile/galaxy-z-fold-7-vs-pixel-10-pro-fold-camera-comparison-the-results-have-me-torn/#ftag=CAD590a51e)
+ - [I&#39;ve Tested Bad Phones Before. Here&#39;s How to Tell if a Cheap Phone Is a Deal or Trash](https://www.cnet.com/tech/mobile/ive-tested-bad-phones-before-heres-how-to-tell-if-a-cheap-phone-is-a-deal-or-trash/#ftag=CAD590a51e)
+ - [Internal documents: Amazon&#39;s data center operations total 900+ facilities in 50+ countries, including AWS colocation facilities, higher than commonly understood &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251124/p15#a251124p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple promotes iPhone 17 Pro vapor chamber cooling in dynamic ad](https://appleinsider.com/articles/25/11/24/apple-promotes-iphone-17-pro-vapor-chamber-cooling-in-dynamic-ad?utm_source=rss)
- - [Analysis: as crypto sheds $1T+, the Trump family&#39;s fortune has fallen to ~$6.7B from $7.7B in early September; President Trump&#39;s TMTG stake fell by ~$800M &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p13#a251124p13)
- - [Best Apple Watch &lpar;2025&rpar;: Buyer’s Guide to the Series 11, SE 3, and Ultra 3](https://www.wired.com/gallery/best-apple-watch/)
- - [Amazon-backed nuclear reactor developer X-energy raised $700M led by Jane Street, taking its total funding to $1.4B, to build 150 SMRs in the US and the UK &lpar;Jamie Smyth/Financial Times&rpar;](http://www.techmeme.com/251124/p12#a251124p12)
- - [The EU unconditionally approves Omnicom&#39;s $13.25B all-stock deal to buy Interpublic, creating the world&#39;s largest ad agency to better compete with Big Tech &lpar;Bart Meijer/Reuters&rpar;](http://www.techmeme.com/251124/p11#a251124p11)<!-- TECH:END -->
+ - [Game development diary: Planning failures and the fyre festival of game expos](https://appleinsider.com/articles/25/11/24/game-development-diary-planning-failures-and-the-fyre-festival-of-game-expos?utm_source=rss)
+ - [Internal documents: Amazon&#39;s data center operations total 900+ facilities in 50+ countries, including AWS colocation facilities, higher than commonly understood &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/251124/p15#a251124p15)
+ - [OnePlus 15R will get a late launch next month](https://www.theverge.com/news/827430/oneplus-15r-will-get-a-late-launch-next-month)
+ - [Hashrate Index: China&#39;s bitcoin mining market share rebounded to 14% by the end of October, making it the world&#39;s third-largest miner despite China&#39;s 2021 ban &lpar;Reuters&rpar;](http://www.techmeme.com/251124/p14#a251124p14)
+ - [Apple promotes iPhone 17 Pro vapor chamber cooling in dynamic ad](https://appleinsider.com/articles/25/11/24/apple-promotes-iphone-17-pro-vapor-chamber-cooling-in-dynamic-ad?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

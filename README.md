@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Spotify plans to raise US subscription prices in Q1 2026, its first US price rise since July 2024, after increasing prices in other countries this year &lpar;Anna Nicolaou/Financial Times&rpar;](http://www.techmeme.com/251124/p42#a251124p42)
+ - [Sources: Google has begun pitching customers, including Meta and big financial institutions, on the idea of using TPUs in their own data centers &lpar;The Information&rpar;](http://www.techmeme.com/251124/p41#a251124p41)
  - [President Trump signs an EO establishing the &quot;Genesis Mission&quot; to boost AI research and shorten discovery timelines &quot;from years to days or even hours&quot; &lpar;Axios&rpar;](http://www.techmeme.com/251124/p40#a251124p40)
  - [Meta&amp;#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts](https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit)
- - [New Apple ad shows off NHL goalie masks designed on iPad](https://appleinsider.com/articles/25/11/24/new-apple-ad-shows-off-nhl-goalie-masks-designed-on-ipad?utm_source=rss)
- - [Meta Allegedly Profited by $16B From Scam Ads. US Senators Demand FTC, SEC Probe](https://www.cnet.com/tech/services-and-software/meta-allegedly-profited-by-16b-from-scam-ads-us-senators-demand-ftc-sec-probe/#ftag=CAD590a51e)
- - [Sources: Italian police raided two Amazon sites on Monday as part of a growing investigation into alleged customs and tax fraud involving Chinese imports &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/251124/p39#a251124p39)<!-- TECH:END -->
+ - [New Apple ad shows off NHL goalie masks designed on iPad](https://appleinsider.com/articles/25/11/24/new-apple-ad-shows-off-nhl-goalie-masks-designed-on-ipad?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 💣 [A California restaurant was shut down after viral video showed a worker tossing raw meat onto the pavement behind the building.](http://9gag.com/gag/adBW7EN)
- - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
+ - 😝 [How many reps, yes](http://9gag.com/gag/an701mn)
+ - 😝 [Winter](http://9gag.com/gag/apRnp0b)
+ - 💣 [Peace Plan?](http://9gag.com/gag/an70bW5)
+ - 😝 [Boys will be boys.](http://9gag.com/gag/aZZ4gxQ)
+ - 👉 [A random brazilian 9gagger yesterday at the Oasis concert. Alone and browsing 9gag instead of socializing and enjoying the concert! A true veteran! Cheers mate and I hope you see yourself](http://9gag.com/gag/a1m8b1R)<!-- MEMES:END -->
 
 ---
 

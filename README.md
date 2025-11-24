@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)
- - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 💣 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 😝 [A wort and shitty title does the trick.](http://9gag.com/gag/aZZ4gOz)
- - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
+ - 😝 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
+ - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 💣 [Little wisdom](http://9gag.com/gag/adBW7ZV)
+ - 😝 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)
+ - 👉 [This Little Caesars employee is a legend](http://9gag.com/gag/aqyVbvL)<!-- MEMES:END -->
 
 ---
 

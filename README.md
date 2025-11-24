@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How many reps, yes](http://9gag.com/gag/an701mn)
  - 😝 [Bad runner](http://9gag.com/gag/aLnO9yM)
- - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)
- - 👉 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)<!-- MEMES:END -->
+ - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 💣 [A California restaurant was shut down after viral video showed a worker tossing raw meat onto the pavement behind the building.](http://9gag.com/gag/adBW7EN)
+ - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 👉 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)<!-- MEMES:END -->
 
 ---
 

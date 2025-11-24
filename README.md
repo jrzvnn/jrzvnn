@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save 40% on any Plex Pass with Black Friday &amp; Cyber Monday deals](https://appleinsider.com/articles/25/11/24/save-40-on-any-plex-pass-with-black-friday-cyber-monday-deals?utm_source=rss)
  - [Apple&#39;s DMA compliance isn&#39;t &quot;malicious&quot;, but an effort to balance Apple&#39;s privacy focus with the EU&#39;s mandate, as iOS 26.2 iPhone/Watch Wi-Fi sync changes show &lpar;John Gruber/Daring Fireball&rpar;](http://www.techmeme.com/251124/p1#a251124p1)
- - [OPM Director Scott Kupor earlier this month said DOGE &quot;doesn&#39;t exist&quot; and OPM took over many of its functions, eight months before DOGE was set to close &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251123/p19#a251123p19)
- - [Interviews with current and former OpenAI employees detail how updates that made ChatGPT more appealing to boost growth sent some users into delusional spirals &lpar;New York Times&rpar;](http://www.techmeme.com/251123/p18#a251123p18)
- - [Changes to CISA left some states without election cybersecurity help; California says CISA gave little support during the November 4 vote on redistricting &lpar;Associated Press&rpar;](http://www.techmeme.com/251123/p17#a251123p17)
- - [DOGE is no more, and in its wake, only chaos](https://www.theverge.com/news/827390/doge-is-no-more-and-in-its-wake-only-chaos)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Monday, Nov. 24](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-nov-24/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 24, #427](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-24-427/#ftag=CAD590a51e)
+ - [OPM Director Scott Kupor earlier this month said DOGE &quot;doesn&#39;t exist&quot; and OPM took over many of its functions, eight months before DOGE was set to close &lpar;Courtney Rozen/Reuters&rpar;](http://www.techmeme.com/251123/p19#a251123p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

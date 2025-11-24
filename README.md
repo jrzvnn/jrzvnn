@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Paris-based Pennylane, which makes accounting software, is discussing a $200M investment led by TCV at a $4.25B valuation, up from €2B in April &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251124/p36#a251124p36)
  - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)
  - [Anthropic says Opus 4.5 outscored all humans on a take-home exam it gives to prospective performance engineering candidates, within a prescribed two-hour limit &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251124/p35#a251124p35)
  - [Nvidia’s ‘I’m Not Enron’ memo has people asking a lot of questions already answered by that memo](https://www.theverge.com/business/828047/nvidia-enron-conspiracy-accounting)
- - [Xbox Crocs are real](https://www.theverge.com/news/828175/microsoft-xbox-crocs)
- - [Apple has unexpectedly laid off a small amount of its sales force](https://appleinsider.com/articles/25/11/24/apple-has-unexpectedly-laid-off-a-small-amount-of-its-sales-force?utm_source=rss)<!-- TECH:END -->
+ - [Xbox Crocs are real](https://www.theverge.com/news/828175/microsoft-xbox-crocs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

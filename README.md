@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [President Trump signs an EO establishing the &quot;Genesis Mission&quot; to boost AI research and shorten discovery timelines &quot;from years to days or even hours&quot; &lpar;Axios&rpar;](http://www.techmeme.com/251124/p40#a251124p40)
+ - [Meta&amp;#8217;s new wearables trade-in program gives you Ray-Ban and Oakley discounts](https://www.theverge.com/news/828256/meta-smart-glasses-trade-in-credit)
  - [New Apple ad shows off NHL goalie masks designed on iPad](https://appleinsider.com/articles/25/11/24/new-apple-ad-shows-off-nhl-goalie-masks-designed-on-ipad?utm_source=rss)
- - [Sources: Italian police raided two Amazon sites on Monday as part of a growing investigation into alleged customs and tax fraud involving Chinese imports &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/251124/p39#a251124p39)
- - [A US judge issues a temporary restraining order blocking OpenAI from using the word &quot;cameo&quot; for Sora features, following a trademark lawsuit by video app Cameo &lpar;Jaures Yip/CNBC&rpar;](http://www.techmeme.com/251124/p38#a251124p38)
- - [Zoom reports Q3 revenue up 4.4% YoY to $1.23B, vs. $1.21B est., enterprise revenue up 6.1% YoY to $741.4M, and a Q4 revenue forecast above estimates &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/251124/p37#a251124p37)
- - [Sources: Paris-based Pennylane, which makes accounting software, is discussing a $200M investment led by TCV at a $4.25B valuation, up from €2B in April &lpar;Yazhou Sun/Bloomberg&rpar;](http://www.techmeme.com/251124/p36#a251124p36)<!-- TECH:END -->
+ - [Meta Allegedly Profited by $16B From Scam Ads. US Senators Demand FTC, SEC Probe](https://www.cnet.com/tech/services-and-software/meta-allegedly-profited-by-16b-from-scam-ads-us-senators-demand-ftc-sec-probe/#ftag=CAD590a51e)
+ - [Sources: Italian police raided two Amazon sites on Monday as part of a growing investigation into alleged customs and tax fraud involving Chinese imports &lpar;Emilio Parodi/Reuters&rpar;](http://www.techmeme.com/251124/p39#a251124p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

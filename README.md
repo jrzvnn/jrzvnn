@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I rate it 3.6](http://9gag.com/gag/a9y4YrL)
  - 😝 [Frodo the Grey](http://9gag.com/gag/aVv9qPw)
- - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [Little wisdom](http://9gag.com/gag/adBW7ZV)
+ - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 💣 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
+ - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
  - 👉 [Bad runner](http://9gag.com/gag/aLnO9yM)<!-- MEMES:END -->
 
 ---

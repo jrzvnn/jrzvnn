@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon unveils its Autonomous Threat Analysis system, born from a 2024 internal hackathon, to use AI agents competing in teams to identify vulnerabilities &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251124/p18#a251124p18)
+ - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)
  - [The 10 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
  - [Amazon Is Using Specialized AI Agents for Deep Bug Hunting](https://www.wired.com/story/amazon-autonomous-threat-analysis/)
- - [iPhone Fold nears mass production, screen crease issue rumored to be solved](https://appleinsider.com/articles/25/11/24/iphone-fold-nears-mass-production-screen-crease-issue-rumored-to-be-solved?utm_source=rss)
- - [NYC-based Opti, an enterprise identity security service that uses AI to analyze user, system, and access relationships, raised a $20M seed led by YL Ventures &lpar;Chris Metinko/Axios&rpar;](http://www.techmeme.com/251124/p17#a251124p17)
- - [Revolut reaches a $75B valuation in its latest share sale led by Coatue, Greenoaks, and others, up from $45B in 2024, making it Europe&#39;s most valuable startup &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/251124/p16#a251124p16)<!-- TECH:END -->
+ - [iPhone Fold nears mass production, screen crease issue rumored to be solved](https://appleinsider.com/articles/25/11/24/iphone-fold-nears-mass-production-screen-crease-issue-rumored-to-be-solved?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

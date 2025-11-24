@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Always The Simpsons....](http://9gag.com/gag/aByb8RQ)
- - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
- - 💣 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
- - 😝 [N/A](http://9gag.com/gag/aByb8XQ)
- - 👉 [Little wisdom](http://9gag.com/gag/adBW7ZV)<!-- MEMES:END -->
+ - 😝 [Engineers who worked on the Leopard tank upgrade testing brakes](http://9gag.com/gag/aLnOMgP)
+ - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 😝 [`Glow plug` for diesel engine start up.](http://9gag.com/gag/a0eD5MO)
+ - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
 
 ---
 

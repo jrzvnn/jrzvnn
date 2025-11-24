@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon unveils its Autonomous Threat Analysis system, born from a 2024 internal hackathon, to use AI agents competing in teams to identify vulnerabilities &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251124/p18#a251124p18)
- - [Google wants to use your emails to train its AI -- here&#39;s how to turn that off](https://appleinsider.com/inside/macos/tips/google-wants-to-use-your-emails-to-train-its-ai----heres-how-to-turn-that-off?utm_source=rss)
- - [The 10 Best Home Arcade Machines &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-home-arcade-machines/)
- - [Amazon Is Using Specialized AI Agents for Deep Bug Hunting](https://www.wired.com/story/amazon-autonomous-threat-analysis/)
- - [iPhone Fold nears mass production, screen crease issue rumored to be solved](https://appleinsider.com/articles/25/11/24/iphone-fold-nears-mass-production-screen-crease-issue-rumored-to-be-solved?utm_source=rss)<!-- TECH:END -->
+ - [French lawsuit again turns Apple&#39;s App Store fees into a high-stakes legal test](https://appleinsider.com/articles/25/11/24/french-lawsuit-again-turns-apples-app-store-fees-into-a-high-stakes-legal-test?utm_source=rss)
+ - [What Kilian Jornet Packs to Climb Every 14er in the Mountain West in 31 days](https://www.wired.com/story/kilian-jornets-mountain-conquering-starter-pack/)
+ - [Apple CEO Tim Cook isn&#39;t retiring in 2026](https://appleinsider.com/articles/25/11/23/apple-ceo-tim-cook-isnt-retiring-in-2026?utm_source=rss)
+ - [Manage files and record 4K ProRes RAW video on iPhone with new Lexar ES5 MagSafe-compatible SSD](https://appleinsider.com/articles/25/11/24/manage-files-and-record-4k-prores-raw-video-on-iphone-with-new-lexar-es5-magsafe-compatible-ssd?utm_source=rss)
+ - [Amazon unveils its Autonomous Threat Analysis system, born from a 2024 internal hackathon, to use AI agents competing in teams to identify vulnerabilities &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/251124/p18#a251124p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

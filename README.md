@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jony Ive and Sam Altman say they finally have an AI hardware prototype](https://www.theverge.com/news/827607/openai-hardware-prototype-chatgpt-jony-ive-sam-altman)
+ - [Zombies, Run! isn’t headed for the grave after all](https://www.theverge.com/gadgets/827575/zombies-run-six-to-start-fitness-gaming)
  - [CNN&#39;s Apple News feed goes dark while contract talks continue](https://appleinsider.com/articles/25/11/24/cnns-apple-news-feed-goes-dark-while-contract-talks-continue?utm_source=rss)
  - [Amazon begins previewing its Amazon Leo satellite internet system for a select group of customers, ahead of a wider public rollout planned for 2026 &lpar;Loren Grush/Bloomberg&rpar;](http://www.techmeme.com/251124/p19#a251124p19)
- - [Herman Miller Is Having a Surprise Flash Sale on Office Chairs](https://www.wired.com/story/black-friday-herman-miller-sale-november-2025/)
- - [7 Best OLED TVs &lpar;2025&rpar;: Sony, LG, Samsung, and More](https://www.wired.com/gallery/best-oleds/)
- - [&amp;#8216;Holy shit’: Gemini 3 is winning the AI race — for now](https://www.theverge.com/report/827555/google-gemini-3-is-winning-the-ai-race-for-now)<!-- TECH:END -->
+ - [Herman Miller Is Having a Surprise Flash Sale on Office Chairs](https://www.wired.com/story/black-friday-herman-miller-sale-november-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

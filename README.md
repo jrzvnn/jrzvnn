@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [The beacons are lit](http://9gag.com/gag/a1m8X4G)
  - 😝 [It could happen to anyone..](http://9gag.com/gag/a9y473j)
- - 😝 [WOMP WOMP](http://9gag.com/gag/avyBPME)
- - 💣 [Irish police arrest a teacher for refusing to use a student&#39;s THEY/THEM pronouns.](http://9gag.com/gag/a1m8MGD)
- - 😝 [I can see fast and furious reference](http://9gag.com/gag/aGyrDmn)
- - 👉 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)<!-- MEMES:END -->
+ - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 😝 [Old vid, rp](http://9gag.com/gag/aAyLdAo)
+ - 👉 [Prayz da lawd](http://9gag.com/gag/aKGXVVW)<!-- MEMES:END -->
 
 ---
 

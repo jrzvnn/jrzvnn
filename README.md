@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple gets more time to build North Carolina campus, after years of delays](https://appleinsider.com/articles/25/11/25/apple-gets-more-time-to-build-north-carolina-campus-after-years-of-delays?utm_source=rss)
  - [Harmonic, an AI math startup co-founded by Vlad Tenev, raised a $120M Series C led by Ribbit at a $1.45B valuation, bringing its total funding to $295M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251125/p26#a251125p26)
+ - [Best DIY Home Security Systems of 2025: Installed and Tested](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
  - [The Best Deals from Huckberry&#39;s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)
- - [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025)
- - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
- - [ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms](https://www.wired.com/story/ice-bounty-hunter-spy-program/)<!-- TECH:END -->
+ - [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

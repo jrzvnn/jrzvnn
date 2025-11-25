@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korea, the EU, the UK, Saudi Arabia, the UAE, and others aim to build &quot;sovereign AI&quot;; Gartner expects $1.5T in AI spending in 2025, up 50% from 2024 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p9#a251125p9)
  - [X exposing political accounts&#39; location shows why trust and safety teams mattered: to combat coordinated inauthentic behavior, not &quot;censorship&quot; of viewpoints &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/251125/p8#a251125p8)
  - [Alibaba reports Q2 revenue up 5% YoY to ~$35B, vs. ~$34.5B est., Chinese e-commerce revenue up 16% YoY, and net income down to ~$3B, as it boosts cloud spending &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251125/p7#a251125p7)
  - [Wish List 2025: A WIRED Gift Guide](https://www.wired.com/story/wish-list-2025/)
- - [TSMC sues former VP Lo Wen-jen in Taiwan, who left to join Intel, alleging a high likelihood that he leaked secrets to Intel after a two-decade career at TSMC &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/251125/p6#a251125p6)
- - [11 Best Down Comforters &lpar;2025&rpar;, Tested in Our Homes in Every Season](https://www.wired.com/gallery/best-down-comforters/)<!-- TECH:END -->
+ - [TSMC sues former VP Lo Wen-jen, who left to join Intel, alleging a high likelihood that he leaked secrets to Intel after a two-decade career at TSMC &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/251125/p6#a251125p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

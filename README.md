@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
  - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
- - 😝 [Animation studios in the 2000s knew what they were doing](http://9gag.com/gag/an70MVV)
  - 💣 [This Little Caesars employee is a legend](http://9gag.com/gag/aqyVbvL)
- - 😝 [Simple Creatures](http://9gag.com/gag/aE0jx49)
- - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
+ - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
+ - 👉 [Animation studios in the 2000s knew what they were doing](http://9gag.com/gag/an70MVV)<!-- MEMES:END -->
 
 ---
 

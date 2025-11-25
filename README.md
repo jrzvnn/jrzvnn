@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)
+ - [Get six months of Apple TV at its 2022 price for Black Friday](https://www.theverge.com/gadgets/828621/apple-tv-black-friday-discount-deal-sale)
+ - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
  - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [ROG Xbox Ally adds default game profiles to help you save battery](https://www.theverge.com/news/828775/microsoft-rog-xbox-ally-default-game-profiles)
- - [TikTok names veteran government affairs executive Ziad Ojakli as its head of public policy for the Americas, replacing longtime policy lead Michael Beckerman &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251125/p17#a251125p17)
- - [Stranger Things is ending, and so is Netflix&amp;#8217;s reliance on tentpole shows](https://www.theverge.com/streaming/828254/stranger-things-season-5-netflix-tentpoles-future)
- - [The Kodak Snapic A1 is a $99 film camera that makes double exposures easy](https://www.theverge.com/news/828648/reto-kodak-snapic-a1-35mm-film-camera-double-exposure)<!-- TECH:END -->
+ - [ROG Xbox Ally&amp;#8217;s new profiles optimize performance per game for more battery life](https://www.theverge.com/news/828775/microsoft-rog-xbox-ally-default-game-profiles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

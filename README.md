@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
  - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
  - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
+ - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 😝 [Madrid, Spain](http://9gag.com/gag/a34zQx5)
+ - 👉 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)<!-- MEMES:END -->
 
 ---
 

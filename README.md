@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Mate 80 Pro Max has the world’s brightest phone screen](https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits)
- - [China is aggressively deploying AI and robotics to maintain its status as the world&#39;s manufacturing hub, and major companies are pioneering AI &quot;dark factories&quot; &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p12#a251125p12)
- - [&#39;Wake Up Dead Man: A Knives Out Mystery&#39; Is Irresistibly Smart and Cheeky](https://www.cnet.com/tech/services-and-software/wake-up-dead-man-a-knives-out-mystery-is-irresistibly-smart-and-cheeky/#ftag=CAD590a51e)
- - [I Spent a Month With the Pixel Watch 4 and the Honeymoon Period Is Over](https://www.cnet.com/tech/mobile/i-spent-a-month-with-the-pixel-watch-4-and-the-honeymoon-period-is-over/#ftag=CAD590a51e)
- - [He Hunted Alleged Groomers on Roblox. Then the Company Banned Him](https://www.wired.com/story/he-hunted-alleged-groomers-on-roblox-then-the-company-banned-him/)<!-- TECH:END -->
+ - [Mageasy&#39;s Crossbody Cases offer excellent utility and better prices than Apple&#39;s alternatives](https://appleinsider.com/articles/25/11/25/mageasys-crossbody-cases-offer-excellent-utility-and-better-prices-than-apples-alternatives?utm_source=rss)
+ - [Aluminium OS will be Google’s take on Android for PC](https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai)
+ - [Klarna launches KlarnaUSD, its first stablecoin, running on Stripe and Paradigm&#39;s Tempo blockchain, aiming to &quot;reduce costs&quot; in international payments &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251125/p13#a251125p13)
+ - [Poland probes Apple again over App Tracking Transparency rules](https://appleinsider.com/articles/25/11/25/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss)
+ - [9 Best Speakers for Kids &lpar;2025&rpar;: Smart, Bluetooth, and Offline Speakers](https://www.wired.com/gallery/best-kids-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

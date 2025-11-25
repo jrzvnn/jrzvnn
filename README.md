@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MLB&#39;s Angels could face massive damages because DEA won&#39;t return an iPad](https://appleinsider.com/articles/25/11/25/mlbs-angels-could-face-massive-damages-because-dea-wont-return-an-ipad?utm_source=rss)
+ - [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal)
+ - [Documents: AI music startup Suno has spent $32M on compute power and $2,000 on data, such as music, to train its model since January 2024 &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/251125/p27#a251125p27)
  - [Apple gets more time to build North Carolina campus, after years of delays](https://appleinsider.com/articles/25/11/25/apple-gets-more-time-to-build-north-carolina-campus-after-years-of-delays?utm_source=rss)
- - [Harmonic, an AI math startup co-founded by Vlad Tenev, raised a $120M Series C led by Ribbit at a $1.45B valuation, bringing its total funding to $295M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251125/p26#a251125p26)
- - [Best DIY Home Security Systems of 2025: Installed and Tested](https://www.cnet.com/home/security/best-diy-home-security-systems/#ftag=CAD590a51e)
- - [The Best Deals from Huckberry&#39;s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)
- - [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025)<!-- TECH:END -->
+ - [Harmonic, an AI math startup co-founded by Vlad Tenev, raised a $120M Series C led by Ribbit at a $1.45B valuation, bringing its total funding to $295M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251125/p26#a251125p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

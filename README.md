@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Music and AI music generator Suno strike a deal, settling previous litigation; Suno will launch licensed AI models and will acquire WMG&#39;s Songkick &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/251125/p25#a251125p25)
- - [Black Friday Brings A Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025/)
- - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
- - [Perplexity says its AI personal shopper ‘puts you first’](https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal)
- - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Harmonic, an AI math startup co-founded by Vlad Tenev, raised a $120M Series C led by Ribbit at a $1.45B valuation, bringing its total funding to $295M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251125/p26#a251125p26)
+ - [The Best Deals from Huckberry&#39;s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)
+ - [You can grab two months of Paramount Plus with Showtime for $2.99 a month](https://www.theverge.com/gadgets/827612/paramount-plus-black-friday-deal-sale-2025)
+ - [The 50 Best Shows on HBO Max, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/)
+ - [ICE Offers Up to $280 Million to Immigrant-Tracking ‘Bounty Hunter’ Firms](https://www.wired.com/story/ice-bounty-hunter-spy-program/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alienware Aurora Gaming Desktop Review: Great Value](https://www.wired.com/review/alienware-aurora-gaming-desktop/)
  - [Wyze’s new security camera watches your yard from inside your home](https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision)
  - [OpenAI merges ChatGPT&#39;s voice mode directly into the main text chat interface by default; users can still switch back to the original, separate voice mode &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/251125/p23#a251125p23)
  - [The Nothing &lpar;1&rpar; Headset Is Discounted Early for Black Friday](https://www.wired.com/story/nothing-1-headset-deal-1125/)
- - [Bose and Sony headphones are up to $200 off in the run-up to Black Friday](https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025)
- - [Best Black Friday Mattress Deals 2025](https://www.wired.com/story/best-black-friday-mattress-deals-2025-1/)<!-- TECH:END -->
+ - [Bose and Sony headphones are up to $200 off in the run-up to Black Friday](https://www.theverge.com/gadgets/827914/best-early-black-friday-headphone-earbud-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

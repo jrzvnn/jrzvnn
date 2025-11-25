@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
- - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
- - 💣 [This Little Caesars employee is a legend](http://9gag.com/gag/aqyVbvL)
- - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 👉 [Animation studios in the 2000s knew what they were doing](http://9gag.com/gag/an70MVV)<!-- MEMES:END -->
+ - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
+ - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
+ - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 👉 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)<!-- MEMES:END -->
 
 ---
 

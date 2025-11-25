@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_source=rss)
  - [Google is starting to bridge OpenAI&#39;s product moat, like with Gemini&#39;s &quot;dynamic view&quot; option, which converts a text answer into an interactive, visual output &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251124/p50#a251124p50)
+ - [Best Smart Locks of 2025: High-Tech Door Defenses](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)
  - [Exclusive Black Friday MacBook Air, MacBook Pro &amp; Mac mini deals start at just $679](https://appleinsider.com/articles/25/11/25/exclusive-black-friday-macbook-air-macbook-pro-mac-mini-deals-start-at-just-679?utm_source=rss)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-25/#ftag=CAD590a51e)
- - [Character.ai is cutting off access to ongoing chats for users under 18 over mental-health concerns, after adding a two-hour daily limit on October 29 &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p49#a251124p49)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Nov. 25](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-nov-25/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

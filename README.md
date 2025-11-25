@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)
+ - [Cerrion, which develops AI video agents that detect and resolve production line issues in real time, raised an $18M Series A led by Creandum &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251125/p18#a251125p18)
+ - [Arturia’s AstroLab 37 crams 44 synths into a tiny keyboard](https://www.theverge.com/tech/828658/arturia-astrolab-37-synth-stage-keyboard)
  - [Get six months of Apple TV at its 2022 price for Black Friday](https://www.theverge.com/gadgets/828621/apple-tv-black-friday-discount-deal-sale)
  - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [ROG Xbox Ally&amp;#8217;s new profiles optimize performance per game for more battery life](https://www.theverge.com/news/828775/microsoft-rog-xbox-ally-default-game-profiles)<!-- TECH:END -->
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

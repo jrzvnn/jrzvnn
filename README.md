@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerrion, which develops AI video agents that detect and resolve production line issues in real time, raised an $18M Series A led by Creandum &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251125/p18#a251125p18)
- - [Arturia’s AstroLab 37 crams 44 synths into a tiny keyboard](https://www.theverge.com/tech/828658/arturia-astrolab-37-synth-stage-keyboard)
- - [Get six months of Apple TV at its 2022 price for Black Friday](https://www.theverge.com/gadgets/828621/apple-tv-black-friday-discount-deal-sale)
- - [Best Standing Desks of 2025](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)<!-- TECH:END -->
+ - [Apple’s AirPods 4 are on sale starting at just $69 for Black Friday](https://www.theverge.com/gadgets/828725/apple-airpods-4-anc-black-friday-deal-sale-2025)
+ - [Nvidia says it is &quot;delighted by Google&#39;s success&quot; and Google &quot;made great advances in AI and we continue to supply to Google&quot;, but &quot;Nvidia is a generation ahead&quot; &lpar;@nvidianewsroom&rpar;](http://www.techmeme.com/251125/p20#a251125p20)
+ - [The best Christmas gifts for gamers and movie lovers](https://www.theverge.com/gadgets/780850/gaming-entertainment-gifts-ideas-2025)
+ - [Polymarket says it received an amended US CFTC designation, letting it operate a prediction market in the US with a fully regulated exchange structure &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/251125/p19#a251125p19)
+ - [Cerrion, which develops AI video agents that detect and resolve production line issues in real time, raised an $18M Series A led by Creandum &lpar;Tamara Djurickovic/Tech.eu&rpar;](http://www.techmeme.com/251125/p18#a251125p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

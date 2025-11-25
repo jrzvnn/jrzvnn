@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
- - 💣 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 😝 [The lying truth](http://9gag.com/gag/an70jdn)
- - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
+ - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
+ - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
+ - 💣 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
+ - 😝 [Beware of the bonk fairy!](http://9gag.com/gag/avyBOd5)
+ - 👉 [Those puppies are adorable](http://9gag.com/gag/aYQv427)<!-- MEMES:END -->
 
 ---
 

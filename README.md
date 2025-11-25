@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at how tech executives use &quot;delay, deny, and deflect&quot; when pressed on user safety and what it means for journalism, as shame loses power over public life &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251125/p11#a251125p11)
- - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
- - [X&#39;s location tool shows revenue sharing incentivizes US political content from international sock puppet and bot accounts, making polarization a side hustle &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251125/p10#a251125p10)
- - [Can Tech Get Rid of Bad Trips?](https://www.wired.com/story/uncanny-valley-podcast-can-tech-get-rid-of-bad-trips/)
- - [South Korea, the EU, the UK, Saudi Arabia, the UAE, and others aim to build &quot;sovereign AI&quot;; Gartner expects $1.5T in AI spending in 2025, up 50% from 2024 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p9#a251125p9)<!-- TECH:END -->
+ - [Huawei Mate 80 Pro Max has the world’s brightest phone screen](https://www.theverge.com/news/828543/huawei-mate-80-pro-max-dual-layer-oled-display-8000-nits)
+ - [China is aggressively deploying AI and robotics to maintain its status as the world&#39;s manufacturing hub, and major companies are pioneering AI &quot;dark factories&quot; &lpar;Brian Spegele/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p12#a251125p12)
+ - [&#39;Wake Up Dead Man: A Knives Out Mystery&#39; Is Irresistibly Smart and Cheeky](https://www.cnet.com/tech/services-and-software/wake-up-dead-man-a-knives-out-mystery-is-irresistibly-smart-and-cheeky/#ftag=CAD590a51e)
+ - [I Spent a Month With the Pixel Watch 4 and the Honeymoon Period Is Over](https://www.cnet.com/tech/mobile/i-spent-a-month-with-the-pixel-watch-4-and-the-honeymoon-period-is-over/#ftag=CAD590a51e)
+ - [He Hunted Alleged Groomers on Roblox. Then the Company Banned Him](https://www.wired.com/story/he-hunted-alleged-groomers-on-roblox-then-the-company-banned-him/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

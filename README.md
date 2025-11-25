@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kraken launches a Mastercard-powered debit card with 1% cashback and multi-asset spending in the UK and EU as part of a global rollout of its Krak money app &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251125/p16#a251125p16)
+ - [Amazon slashes new M5 MacBook Pro to $1,399, save $200 for Black Friday](https://appleinsider.com/articles/25/11/25/amazon-slashes-new-m5-macbook-pro-to-1399-save-200-for-black-friday?utm_source=rss)
+ - [Our favorite ways to survive Thanksgiving](https://www.theverge.com/gadgets/824092/thanksgiving-food-tech-help-favorite)
  - [The geek&amp;#8217;s guide to running faster](https://www.theverge.com/podcast/828616/running-tech-gear-motion-smoothing-vergecast)
- - [TikTok Shop expands into luxury retail, offering items such as Hermes&#39; $11,000 handbags, primarily sold by secondhand resellers using AI to verify authenticity &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/251125/p15#a251125p15)
- - [AirPods 4 drop to $69, a new record low price for Black Friday](https://appleinsider.com/articles/25/11/25/airpods-4-drop-to-69-a-new-record-low-price-for-black-friday?utm_source=rss)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [One of our favorite Switch 2 controllers is 20 percent off right now](https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025)<!-- TECH:END -->
+ - [TikTok Shop expands into luxury retail, offering items such as Hermes&#39; $11,000 handbags, primarily sold by secondhand resellers using AI to verify authenticity &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/251125/p15#a251125p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

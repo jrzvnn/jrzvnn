@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M5 Apple Vision Pro vs. Steam Frame: Spatial computing vs. VR gaming](https://appleinsider.com/inside/apple-vision-pro/vs/m5-apple-vision-pro-vs-steam-frame-spatial-computing-vs-vr-gaming?utm_source=rss)
  - [MLB&#39;s Angels could face massive damages because DEA won&#39;t return an iPad](https://appleinsider.com/articles/25/11/25/mlbs-angels-could-face-massive-damages-because-dea-wont-return-an-ipad?utm_source=rss)
  - [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal)
  - [Documents: AI music startup Suno has spent $32M on compute power and $2,000 on data, such as music, to train its model since January 2024 &lpar;Kristin Robinson/Billboard&rpar;](http://www.techmeme.com/251125/p27#a251125p27)
- - [Apple gets more time to build North Carolina campus, after years of delays](https://appleinsider.com/articles/25/11/25/apple-gets-more-time-to-build-north-carolina-campus-after-years-of-delays?utm_source=rss)
- - [Harmonic, an AI math startup co-founded by Vlad Tenev, raised a $120M Series C led by Ribbit at a $1.45B valuation, bringing its total funding to $295M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251125/p26#a251125p26)<!-- TECH:END -->
+ - [Apple gets more time to build North Carolina campus, after years of delays](https://appleinsider.com/articles/25/11/25/apple-gets-more-time-to-build-north-carolina-campus-after-years-of-delays?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

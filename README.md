@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Good for him.](http://9gag.com/gag/aKGXDdj)
- - 😝 [A California restaurant was shut down after viral video showed a worker tossing raw meat onto the pavement behind the building.](http://9gag.com/gag/adBW7EN)
- - 💣 [Australians are just a different type](https://www.reddit.com/r/funny/comments/1p60l2w/australians_are_just_a_different_type/)
- - 😝 [An imam in South Florida broke down in tears, because people were eating bacon while he was praying.](http://9gag.com/gag/aD2qWjO)
- - 👉 [Well well well](http://9gag.com/gag/a34zMXm)<!-- MEMES:END -->
+ - 😝 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
+ - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
+ - 💣 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
+ - 😝 [The lying truth](http://9gag.com/gag/an70jdn)
+ - 👉 [A California restaurant was shut down after viral video showed a worker tossing raw meat onto the pavement behind the building.](http://9gag.com/gag/adBW7EN)<!-- MEMES:END -->
 
 ---
 

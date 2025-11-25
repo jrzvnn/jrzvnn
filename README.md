@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP reports Q4 revenue up 4% YoY to $14.6B, forecasts FY 2026 profit below est., and plans to cut 4,000-6,000 jobs through FY 2028; HPQ drops 5%+ after hours &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/251125/p30#a251125p30)
- - [The best cases for iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/articles/25/11/25/the-best-cases-for-iphone-17-pro-iphone-17-pro-max?utm_source=rss)
- - [Elon Musk Said Grok’s Roasts Would Be ‘Epic’ at Parties—So I Tried It on My Coworkers](https://www.wired.com/story/elon-musk-said-grok-roasts-are-epic-at-parties-i-tried-it-on-my-coworkers/)
- - [Dell reports Q3 revenue up 11% YoY to $27.01B, vs. $27.13B est., Infrastructure Solutions revenue up 24% to $14.1B, and Client Solutions revenue up 3% to $12.5B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251125/p29#a251125p29)
- - [WIRED Roundup: Gemini 3 Release, Nvidia Earnings, Epstein Files Fallout](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-gemini-3-release-nvidia-earnings-epstein-files-fallout/)<!-- TECH:END -->
+ - [Character.AI launches Stories, which lets users create interactive fiction and is the company&#39;s &quot;first new format created specifically&quot; for users under 18 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251125/p31#a251125p31)
+ - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)
+ - [Fubo Loses NBCUniversal Channels, Putting Your NBA Games in Jeopardy](https://www.cnet.com/tech/services-and-software/fubo-loses-nbcuniversal-channels-putting-your-nba-games-in-jeopardy/#ftag=CAD590a51e)
+ - [Best Ring Video Doorbells of 2025: Ring in Your Security Upgrade](https://www.cnet.com/home/security/best-ring-video-doorbells/#ftag=CAD590a51e)
+ - [I Tested 4 Budget TVs Head-to-Head and One Was So Good I Had to Check the Price](https://www.cnet.com/tech/home-entertainment/best-budget-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

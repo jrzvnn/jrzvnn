@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 😝 [My mom is taking a photoshop class and this absolutely sent me 😂](https://www.reddit.com/r/funny/comments/1p6dt2k/my_mom_is_taking_a_photoshop_class_and_this/)
+ - 😝 [Wholesome](http://9gag.com/gag/a87v8je)
  - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
+ - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 👉 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)<!-- MEMES:END -->
 
 ---
 

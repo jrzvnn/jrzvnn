@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 😝 [Not stop for a school bus.](http://9gag.com/gag/ajP3qz1)
- - 💣 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 😝 [Things that makes a grown man cry..](http://9gag.com/gag/ae9qb0b)
- - 👉 [South Park like interaction\u2026 Except it\u2019s not](http://9gag.com/gag/aryDO8K)<!-- MEMES:END -->
+ - 😝 [Good for him.](http://9gag.com/gag/aKGXDdj)
+ - 😝 [A California restaurant was shut down after viral video showed a worker tossing raw meat onto the pavement behind the building.](http://9gag.com/gag/adBW7EN)
+ - 💣 [Australians are just a different type](https://www.reddit.com/r/funny/comments/1p60l2w/australians_are_just_a_different_type/)
+ - 😝 [An imam in South Florida broke down in tears, because people were eating bacon while he was praying.](http://9gag.com/gag/aD2qWjO)
+ - 👉 [Well well well](http://9gag.com/gag/a34zMXm)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
- - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - 😝 [The lying truth](http://9gag.com/gag/an70jdn)
- - 👉 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)<!-- MEMES:END -->
+ - 😝 [Lowcost cosplay](http://9gag.com/gag/a87vypV)
+ - 😝 [Little wisdom](http://9gag.com/gag/adBW7ZV)
+ - 💣 [Valve, the creator of Steam and iconic games like Half-Life, Dota 2, Counter-Strike, Portal, Left 4 Dead etc., generated $17 billion in revenue in 2025 with a workforce of roughly 336 employees, amounting to over $50 million in revenue per employee.](http://9gag.com/gag/abALzXv)
+ - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 👉 [A wort and shitty title does the trick.](http://9gag.com/gag/aZZ4gOz)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Sacks tried to kill state AI laws — and it blew up in his face](https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order)
- - [A US judge rules Kalshi&#39;s sports-betting contracts are subject to Nevada Gaming Commission enforcement; Kalshi argues they should be regulated only by the CFTC &lpar;Lydia Beyoud/Bloomberg&rpar;](http://www.techmeme.com/251125/p28#a251125p28)
- - [M5 Apple Vision Pro vs. Steam Frame: Spatial computing vs. VR gaming](https://appleinsider.com/inside/apple-vision-pro/vs/m5-apple-vision-pro-vs-steam-frame-spatial-computing-vs-vr-gaming?utm_source=rss)
- - [MLB&#39;s Angels could face massive damages because DEA won&#39;t return an iPad](https://appleinsider.com/articles/25/11/25/mlbs-angels-could-face-massive-damages-because-dea-wont-return-an-ipad?utm_source=rss)
- - [Warner Music Group partners with Suno to offer AI likenesses of its artists](https://www.theverge.com/news/829189/warner-music-group-suno-ai-licensing-deal)<!-- TECH:END -->
+ - [The best cases for iPhone 17 Pro &amp; iPhone 17 Pro Max](https://appleinsider.com/articles/25/11/25/the-best-cases-for-iphone-17-pro-iphone-17-pro-max?utm_source=rss)
+ - [Elon Musk Said Grok’s Roasts Would Be ‘Epic’ at Parties—So I Tried It on My Coworkers](https://www.wired.com/story/elon-musk-said-grok-roasts-are-epic-at-parties-i-tried-it-on-my-coworkers/)
+ - [Dell reports Q3 revenue up 11% YoY to $27.01B, vs. $27.13B est., Infrastructure Solutions revenue up 24% to $14.1B, and Client Solutions revenue up 3% to $12.5B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251125/p29#a251125p29)
+ - [WIRED Roundup: Gemini 3 Release, Nvidia Earnings, Epstein Files Fallout](https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-gemini-3-release-nvidia-earnings-epstein-files-fallout/)
+ - [David Sacks tried to kill state AI laws — and it blew up in his face](https://www.theverge.com/ai-artificial-intelligence/829179/david-sacks-ai-executive-order)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

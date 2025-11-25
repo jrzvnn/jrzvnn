@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The geek&amp;#8217;s guide to running faster](https://www.theverge.com/podcast/828616/running-tech-gear-motion-smoothing-vergecast)
+ - [TikTok Shop expands into luxury retail, offering items such as Hermes&#39; $11,000 handbags, primarily sold by secondhand resellers using AI to verify authenticity &lpar;Alexandra S. Levine/Bloomberg&rpar;](http://www.techmeme.com/251125/p15#a251125p15)
  - [AirPods 4 drop to $69, a new record low price for Black Friday](https://appleinsider.com/articles/25/11/25/airpods-4-drop-to-69-a-new-record-low-price-for-black-friday?utm_source=rss)
- - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
- - [One of our favorite Switch 2 controllers is 20 percent off right now](https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025)
- - [Rian Johnson doesn&amp;#8217;t have a plan for Knives Out](https://www.theverge.com/report/827712/rian-johnson-interview-knives-out-wake-up-dead-man)
- - [Singapore orders block of iMessage scams that fake government addresses](https://appleinsider.com/articles/25/11/25/singapore-orders-block-of-imessage-scams-that-fake-government-addresses?utm_source=rss)<!-- TECH:END -->
+ - [I Tried 32 Holiday K-Cups. These Are the Best Coffee Pods to Pop in Your Keurig](https://www.cnet.com/news/i-tried-32-holiday-k-cups-these-are-the-best-and-worst-to-drop-in-your-keurig-this-season/#ftag=CAD590a51e)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

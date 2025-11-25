@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - 😝 [Helping a friend out](http://9gag.com/gag/agmpX9r)
- - 💣 [Clean](http://9gag.com/gag/a34zQEr)
- - 😝 [Who?](http://9gag.com/gag/aKGXxG1)
- - 👉 [Beware of the bonk fairy!](http://9gag.com/gag/avyBOd5)<!-- MEMES:END -->
+ - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
+ - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 😝 [Man of culture](http://9gag.com/gag/aGyreMz)
+ - 👉 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)<!-- MEMES:END -->
 
 ---
 

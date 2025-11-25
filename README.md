@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Investors have pulled $3.5B from US-listed bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6B set in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p48#a251124p48)
+ - [SmartWings smart roller shades review: bring in natural light to your Apple Home](https://appleinsider.com/articles/25/11/25/smartwings-smart-roller-shades-review-bring-in-natural-light-to-your-apple-home?utm_source=rss)
  - [How Meta&#39;s financing structure for its $27B Louisiana data center, which helps it keep debt off its books, hinges on some convenient accounting assumptions &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p47#a251124p47)
- - [Trump signs an EO establishing the Genesis Mission to boost AI innovation, including by using federal scientific datasets to train models and create AI agents &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251124/p46#a251124p46)
- - [RAM prices are so out of control that stores are selling it like lobster](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center)
- - [I&#39;m Tracking 95+ Early Black Friday Deals Actually Worth Grabbing From Ninja, Roku, Sony and More](https://www.cnet.com/deals/early-black-friday-2025-11-24/#ftag=CAD590a51e)
- - [UN climate negotiations burned up and then fizzled out](https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle)<!-- TECH:END -->
+ - [OnePlus Launching 15R Phone, Tablet and Watch Just Ahead of the Holidays](https://www.cnet.com/tech/mobile/oneplus-launching-15r-phone-tablet-and-watch-just-ahead-of-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poland&#39;s antitrust office UOKiK is probing whether Apple&#39;s ATT limits third-party data collection in mobile ads while giving Apple&#39;s own ads service an edge &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](http://www.techmeme.com/251125/p5#a251125p5)
  - [A look at NY&#39;s RAISE Act, requiring AI companies to publish safety protocols and disclose serious incidents, as its co-sponsor is targeted by a pro-AI super PAC &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251125/p4#a251125p4)
  - [A job listing shows Google is developing a new Android-based &quot;Aluminium OS&quot; that is &quot;built with AI at the core&quot;, potentially as a ChromeOS replacement for PCs &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/251125/p3#a251125p3)
  - [Theragun Alternatives: All the Best Budget Massage Guns You Can Buy in 2025](https://www.cnet.com/health/fitness/best-budget-massage-guns/#ftag=CAD590a51e)
- - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
- - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

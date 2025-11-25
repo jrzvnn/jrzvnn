@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
- - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 😝 [Man of culture](http://9gag.com/gag/aGyreMz)
+ - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 💣 [Man of culture](http://9gag.com/gag/aGyreMz)
+ - 😝 [Who?](http://9gag.com/gag/aKGXxG1)
  - 👉 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)<!-- MEMES:END -->
 
 ---

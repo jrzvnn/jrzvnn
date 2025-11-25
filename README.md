@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Kodak Snapic A1 is a $99 film camera that makes double exposures easy](https://www.theverge.com/news/828648/reto-kodak-snapic-a1-35mm-film-camera-double-exposure)
  - [Kraken launches a Mastercard-powered debit card with 1% cashback and multi-asset spending in the UK and EU as part of a global rollout of its Krak money app &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251125/p16#a251125p16)
  - [Amazon slashes new M5 MacBook Pro to $1,399, save $200 for Black Friday](https://appleinsider.com/articles/25/11/25/amazon-slashes-new-m5-macbook-pro-to-1399-save-200-for-black-friday?utm_source=rss)
- - [I&#39;m Tracking 95+ Early Black Friday Deals You Can&#39;t Miss From Ninja, Roku, Sony and More](https://www.cnet.com/deals/early-black-friday-2025-11-25/#ftag=CAD590a51e)
  - [Our favorite ways to survive Thanksgiving](https://www.theverge.com/gadgets/824092/thanksgiving-food-tech-help-favorite)
  - [The geek&amp;#8217;s guide to running faster](https://www.theverge.com/podcast/828616/running-tech-gear-motion-smoothing-vergecast)<!-- TECH:END -->
 

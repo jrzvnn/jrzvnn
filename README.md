@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google is starting to bridge OpenAI&#39;s product moat, like with Gemini&#39;s &quot;dynamic view&quot; option, which converts a text answer into an interactive, visual output &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251124/p50#a251124p50)
  - [Exclusive Black Friday MacBook Air, MacBook Pro &amp; Mac mini deals start at just $679](https://appleinsider.com/articles/25/11/25/exclusive-black-friday-macbook-air-macbook-pro-mac-mini-deals-start-at-just-679?utm_source=rss)
  - [Character.ai is cutting off access to ongoing chats for users under 18 over mental-health concerns, after adding a two-hour daily limit on October 29 &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p49#a251124p49)
  - [Best Carpet Cleaners: I Used Real Life Messes as the Ultimate Test](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Investors have pulled $3.5B from US-listed bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6B set in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p48#a251124p48)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

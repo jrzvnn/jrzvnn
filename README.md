@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore orders block of iMessage scams that fake government addresses](https://appleinsider.com/articles/25/11/25/singapore-orders-block-of-imessage-scams-that-fake-government-addresses?utm_source=rss)
- - [Japanese chipmaker Rapidus plans to start building a second plant in Hokkaido in fiscal 2027, aiming to make advanced 1.4nm chips as early as 2029 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251125/p14#a251125p14)
- - [Mageasy&#39;s Crossbody Cases offer excellent utility and better prices than Apple&#39;s alternatives](https://appleinsider.com/articles/25/11/25/mageasys-crossbody-cases-offer-excellent-utility-and-better-prices-than-apples-alternatives?utm_source=rss)
- - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
- - [Aluminium OS will be Google’s take on Android for PC](https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai)<!-- TECH:END -->
+ - [AirPods 4 drop to $69, a new record low price for Black Friday](https://appleinsider.com/articles/25/11/25/airpods-4-drop-to-69-a-new-record-low-price-for-black-friday?utm_source=rss)
+ - [8 Best Cheap Phones &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/story/best-cheap-phones/)
+ - [One of our favorite Switch 2 controllers is 20 percent off right now](https://www.theverge.com/gadgets/827225/8bitdo-ultimate-2-bluetooth-controller-black-friday-deal-sale-2025)
+ - [Rian Johnson doesn&amp;#8217;t have a plan for Knives Out](https://www.theverge.com/report/827712/rian-johnson-interview-knives-out-wake-up-dead-man)
+ - [Singapore orders block of iMessage scams that fake government addresses](https://appleinsider.com/articles/25/11/25/singapore-orders-block-of-imessage-scams-that-fake-government-addresses?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

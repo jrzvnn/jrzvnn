@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
+ - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
  - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - 💣 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
+ - 💣 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
  - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
  - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
 

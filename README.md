@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A job listing shows Google is developing a new Android-based &quot;Aluminium OS&quot; that is &quot;built with AI at the core&quot;, potentially as a ChromeOS replacement for PCs &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/251125/p3#a251125p3)
+ - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
+ - [Factor Promo Code: Up to $130 Off Meal Prep](https://www.wired.com/story/factor-promo-code/)
  - [India&#39;s November 21 labor law has granted legal status to millions of gig workers, but benefits are unclear and access to social security remains elusive &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251125/p2#a251125p2)
- - [Internal memo: Amazon asks engineers to use its in-house AI coding assistant Kiro over third-party tools like Cursor, aiming to gather feedback for improvement &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251125/p1#a251125p1)
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_source=rss)
- - [Google is starting to bridge OpenAI&#39;s product moat, like with Gemini&#39;s &quot;dynamic view&quot; option, which converts a text answer into an interactive, visual output &lpar;M.G. Siegler/Spyglass&rpar;](http://www.techmeme.com/251124/p50#a251124p50)
- - [Best Smart Locks of 2025: High-Tech Door Defenses](https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal memo: Amazon asks engineers to use its in-house AI coding assistant Kiro over third-party tools like Cursor, aiming to gather feedback for improvement &lpar;Greg Bensinger/Reuters&rpar;](http://www.techmeme.com/251125/p1#a251125p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

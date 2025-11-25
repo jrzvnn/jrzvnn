@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Exclusive Black Friday MacBook Air, MacBook Pro &amp; Mac mini deals start at just $679](https://appleinsider.com/articles/25/11/25/exclusive-black-friday-macbook-air-macbook-pro-mac-mini-deals-start-at-just-679?utm_source=rss)
+ - [Character.ai is cutting off access to ongoing chats for users under 18 over mental-health concerns, after adding a two-hour daily limit on October 29 &lpar;Georgia Wells/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p49#a251124p49)
+ - [Best Carpet Cleaners: I Used Real Life Messes as the Ultimate Test](https://www.cnet.com/news/best-carpet-cleaners/#ftag=CAD590a51e)
  - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [Investors have pulled $3.5B from US-listed bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6B set in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p48#a251124p48)
- - [SmartWings smart roller shades review: bring in natural light to your Apple Home](https://appleinsider.com/articles/25/11/25/smartwings-smart-roller-shades-review-bring-in-natural-light-to-your-apple-home?utm_source=rss)
- - [How Meta&#39;s financing structure for its $27B Louisiana data center, which helps it keep debt off its books, hinges on some convenient accounting assumptions &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p47#a251124p47)
- - [OnePlus Launching 15R Phone, Tablet and Watch Just Ahead of the Holidays](https://www.cnet.com/tech/mobile/oneplus-launching-15r-phone-tablet-and-watch-just-ahead-of-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Investors have pulled $3.5B from US-listed bitcoin ETFs so far in November, almost equaling the previous monthly record for outflows of $3.6B set in February &lpar;Bloomberg&rpar;](http://www.techmeme.com/251124/p48#a251124p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

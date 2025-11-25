@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at how tech executives use &quot;delay, deny, and deflect&quot; when pressed on user safety and what it means for journalism, as shame loses power over public life &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/251125/p11#a251125p11)
  - [The Best Mushroom Coffee, WIRED Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-mushroom-coffee/)
  - [X&#39;s location tool shows revenue sharing incentivizes US political content from international sock puppet and bot accounts, making polarization a side hustle &lpar;Jason Koebler/404 Media&rpar;](http://www.techmeme.com/251125/p10#a251125p10)
  - [Can Tech Get Rid of Bad Trips?](https://www.wired.com/story/uncanny-valley-podcast-can-tech-get-rid-of-bad-trips/)
- - [South Korea, the EU, the UK, Saudi Arabia, the UAE, and others aim to build &quot;sovereign AI&quot;; Gartner expects $1.5T in AI spending in 2025, up 50% from 2024 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p9#a251125p9)
- - [X exposing political accounts&#39; location shows why trust and safety teams mattered: to combat coordinated inauthentic behavior, not &quot;censorship&quot; of viewpoints &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/251125/p8#a251125p8)<!-- TECH:END -->
+ - [South Korea, the EU, the UK, Saudi Arabia, the UAE, and others aim to build &quot;sovereign AI&quot;; Gartner expects $1.5T in AI spending in 2025, up 50% from 2024 &lpar;Jiyoung Sohn/Wall Street Journal&rpar;](http://www.techmeme.com/251125/p9#a251125p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

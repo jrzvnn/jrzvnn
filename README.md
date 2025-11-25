@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How an indirect prompt injection can manipulate Google&#39;s Antigravity IDE to invoke a malicious browser subagent and exfiltrate data; Google is working on a fix &lpar;PromptArmor&rpar;](http://www.techmeme.com/251125/p33#a251125p33)
  - [Campbell’s promises its soups are not made with 3D printed meat](https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup)
  - [Nvidia says it is &quot;delighted by Google&#39;s success&quot; but &quot;Nvidia is a generation ahead&quot;, after a report that Meta could use Google&#39;s TPUs in its data centers &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251125/p32#a251125p32)
  - [House overhauls KOSA in a new kids online safety package](https://www.theverge.com/news/829492/house-energy-commerce-kids-online-safety-package)
- - [Character.AI launches Stories, which lets users create interactive fiction and is the company&#39;s &quot;first new format created specifically&quot; for users under 18 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251125/p31#a251125p31)
- - [Black Friday streaming deals slash Disney Plus, Max, Hulu, Paramount Plus, Apple TV to as low as $2.99/mo](https://appleinsider.com/articles/25/11/24/black-friday-streaming-deals-slash-disney-plus-max-hulu-paramount-plus-apple-tv-to-as-low-as-299mo?utm_source=rss)<!-- TECH:END -->
+ - [Character.AI launches Stories, which lets users create interactive fiction and is the company&#39;s &quot;first new format created specifically&quot; for users under 18 &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251125/p31#a251125p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

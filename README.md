@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese chipmaker Rapidus plans to start building a second plant in Hokkaido in fiscal 2027, aiming to make advanced 1.4nm chips as early as 2029 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/251125/p14#a251125p14)
  - [Mageasy&#39;s Crossbody Cases offer excellent utility and better prices than Apple&#39;s alternatives](https://appleinsider.com/articles/25/11/25/mageasys-crossbody-cases-offer-excellent-utility-and-better-prices-than-apples-alternatives?utm_source=rss)
+ - [The Best Samsung Phones of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-samsung-phones/)
  - [Aluminium OS will be Google’s take on Android for PC](https://www.theverge.com/news/828595/google-aluminium-os-android-pc-chromeos-ai)
- - [Klarna launches KlarnaUSD, its first stablecoin, running on Stripe and Paradigm&#39;s Tempo blockchain, aiming to &quot;reduce costs&quot; in international payments &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251125/p13#a251125p13)
- - [Poland probes Apple again over App Tracking Transparency rules](https://appleinsider.com/articles/25/11/25/poland-probes-apple-again-over-app-tracking-transparency-rules?utm_source=rss)
- - [9 Best Speakers for Kids &lpar;2025&rpar;: Smart, Bluetooth, and Offline Speakers](https://www.wired.com/gallery/best-kids-speakers/)<!-- TECH:END -->
+ - [Klarna launches KlarnaUSD, its first stablecoin, running on Stripe and Paradigm&#39;s Tempo blockchain, aiming to &quot;reduce costs&quot; in international payments &lpar;Pritam Biswas/Reuters&rpar;](http://www.techmeme.com/251125/p13#a251125p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

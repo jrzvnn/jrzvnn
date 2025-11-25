@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Perplexity says its AI personal shopper ‘puts you first’](https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal)
+ - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
  - [Families of October 7 victims sue Binance and Changpeng Zhao in US federal court, alleging Binance facilitated millions in payments to Hamas after October 7 &lpar;Financial Times&rpar;](http://www.techmeme.com/251125/p24#a251125p24)
  - [Alienware Aurora Gaming Desktop Review: Great Value](https://www.wired.com/review/alienware-aurora-gaming-desktop/)
- - [Wyze’s new security camera watches your yard from inside your home](https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision)
- - [OpenAI merges ChatGPT&#39;s voice mode directly into the main text chat interface by default; users can still switch back to the original, separate voice mode &lpar;Zac Hall/9to5Mac&rpar;](http://www.techmeme.com/251125/p23#a251125p23)
- - [Best Tablet 2025: Top Tablets From Apple, Samsung, Amazon and More](https://www.cnet.com/tech/computing/best-tablet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Bluetooth Speaker for 2025](https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

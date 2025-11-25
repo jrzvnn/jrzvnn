@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Warner Music and AI music generator Suno strike a deal, settling previous litigation; Suno will launch licensed AI models and will acquire WMG&#39;s Songkick &lpar;Murray Stassen/Music Business Worldwide&rpar;](http://www.techmeme.com/251125/p25#a251125p25)
+ - [Black Friday Brings A Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025/)
  - [These are my favorite Switch 2 accessories](https://www.theverge.com/buying-guides/720160/best-switch-2-accessories)
  - [Perplexity says its AI personal shopper ‘puts you first’](https://www.theverge.com/ai-artificial-intelligence/829019/perplexity-ai-personal-shopper-paypal)
- - [Families of October 7 victims sue Binance and Changpeng Zhao in US federal court, alleging Binance facilitated millions in payments to Hamas after October 7 &lpar;Financial Times&rpar;](http://www.techmeme.com/251125/p24#a251125p24)
- - [Alienware Aurora Gaming Desktop Review: Great Value](https://www.wired.com/review/alienware-aurora-gaming-desktop/)
- - [Wyze’s new security camera watches your yard from inside your home](https://www.theverge.com/news/829005/wyze-window-security-cam-hd-enhanced-night-vision)<!-- TECH:END -->
+ - [Best Live TV Streaming Services of 2025](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

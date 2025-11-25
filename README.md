@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Kodak Snapic A1 is a $99 film camera that makes double exposures easy](https://www.theverge.com/news/828648/reto-kodak-snapic-a1-35mm-film-camera-double-exposure)
- - [Kraken launches a Mastercard-powered debit card with 1% cashback and multi-asset spending in the UK and EU as part of a global rollout of its Krak money app &lpar;James Hunt/The Block&rpar;](http://www.techmeme.com/251125/p16#a251125p16)
- - [Amazon slashes new M5 MacBook Pro to $1,399, save $200 for Black Friday](https://appleinsider.com/articles/25/11/25/amazon-slashes-new-m5-macbook-pro-to-1399-save-200-for-black-friday?utm_source=rss)
- - [Our favorite ways to survive Thanksgiving](https://www.theverge.com/gadgets/824092/thanksgiving-food-tech-help-favorite)
- - [The geek&amp;#8217;s guide to running faster](https://www.theverge.com/podcast/828616/running-tech-gear-motion-smoothing-vergecast)<!-- TECH:END -->
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [ROG Xbox Ally adds default game profiles to help you save battery](https://www.theverge.com/news/828775/microsoft-rog-xbox-ally-default-game-profiles)
+ - [TikTok names veteran government affairs executive Ziad Ojakli as its head of public policy for the Americas, replacing longtime policy lead Michael Beckerman &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251125/p17#a251125p17)
+ - [Stranger Things is ending, and so is Netflix&amp;#8217;s reliance on tentpole shows](https://www.theverge.com/streaming/828254/stranger-things-season-5-netflix-tentpoles-future)
+ - [The Kodak Snapic A1 is a $99 film camera that makes double exposures easy](https://www.theverge.com/news/828648/reto-kodak-snapic-a1-35mm-film-camera-double-exposure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pro-AI super PAC Leading the Future launches a $10M media campaign to push Congress to craft a national AI policy that will override a patchwork of state laws &lpar;CNBC&rpar;](http://www.techmeme.com/251124/p45#a251124p45)
- - [DOJ settles with RealPage over its software&amp;#8217;s alleged rent price fixing](https://www.theverge.com/news/828335/doj-realpage-settlement-rent-setting-software)
- - [ChatGPT shopping research builds you a buyer&amp;#8217;s guide using AI](https://www.theverge.com/news/828326/chatgpt-shopping-research-chatgpt-buyers-guide)
- - [The US DOJ settles its case against RealPage, which was accused of building algorithms that allowed landlords to illegally collude to drive up rental prices &lpar;Thomas Barrabi/New York Post&rpar;](http://www.techmeme.com/251124/p44#a251124p44)
- - [Nvidia refuted accounting questions in a memo to analysts, saying &quot;Unlike Enron, NVIDIA does not use Special Purpose Entities to hide debt and inflate revenue&quot; &lpar;Tae Kim/Barron&#39;s Online&rpar;](http://www.techmeme.com/251124/p43#a251124p43)<!-- TECH:END -->
+ - [How Meta&#39;s financing structure for its $27B Louisiana data center, which helps it keep debt off its books, hinges on some convenient accounting assumptions &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/251124/p47#a251124p47)
+ - [Trump signs an EO establishing the Genesis Mission to boost AI innovation, including by using federal scientific datasets to train models and create AI agents &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/251124/p46#a251124p46)
+ - [RAM prices are so out of control that stores are selling it like lobster](https://www.theverge.com/news/828337/ram-memory-shortage-crunch-market-prices-central-micro-center)
+ - [I&#39;m Tracking 95+ Early Black Friday Deals Actually Worth Grabbing From Ninja, Roku, Sony and More](https://www.cnet.com/deals/early-black-friday-2025-11-24/#ftag=CAD590a51e)
+ - [UN climate negotiations burned up and then fizzled out](https://www.theverge.com/report/828270/un-climate-change-negotiations-fizzle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

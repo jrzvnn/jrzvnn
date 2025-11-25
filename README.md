@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [90 kids will remember](https://www.reddit.com/r/funny/comments/1p69g31/90_kids_will_remember/)
- - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 💣 [Wholesome](http://9gag.com/gag/a87v8je)
- - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - 👉 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)<!-- MEMES:END -->
+ - 😝 [Climber removes his harness to take a picture](http://9gag.com/gag/azxv80K)
+ - 😝 [Animation studios in the 2000s knew what they were doing](http://9gag.com/gag/an70MVV)
+ - 💣 [This Little Caesars employee is a legend](http://9gag.com/gag/aqyVbvL)
+ - 😝 [Simple Creatures](http://9gag.com/gag/aE0jx49)
+ - 👉 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)<!-- MEMES:END -->
 
 ---
 

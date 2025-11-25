@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TSMC files a trade secret lawsuit against Intel executive Lo Wen-jen, alleging a high likelihood he leaked secrets after a two-decade career at TSMC &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/251125/p6#a251125p6)
  - [11 Best Down Comforters &lpar;2025&rpar;, Tested in Our Homes in Every Season](https://www.wired.com/gallery/best-down-comforters/)
- - [Sam Bankman-Fried Goes on the Offensive](https://www.wired.com/story/sam-bankman-fried-goes-on-the-offensive/)
- - [Polish antitrust office UOKiK is probing whether Apple&#39;s ATT limits third-party data collection in mobile ads while giving Apple&#39;s own ads service an advantage &lpar;Anna Wlodarczak-Semczuk/Reuters&rpar;](http://www.techmeme.com/251125/p5#a251125p5)
- - [A look at NY&#39;s RAISE Act, requiring AI companies to publish safety protocols and disclose serious incidents, as its co-sponsor is targeted by a pro-AI super PAC &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251125/p4#a251125p4)
- - [A job listing shows Google is developing a new Android-based &quot;Aluminium OS&quot; that is &quot;built with AI at the core&quot;, potentially as a ChromeOS replacement for PCs &lpar;Mishaal Rahman/Android Authority&rpar;](http://www.techmeme.com/251125/p3#a251125p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 25 #632](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-25-632/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 25, #428](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-25-428/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 25, #898](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-25-898/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

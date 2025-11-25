@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Woman walking home at night in Portugal](http://9gag.com/gag/aMV08DW)
- - 😝 [That probably explains why I like asian girls.](http://9gag.com/gag/aLnODwA)
- - 💣 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
- - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
+ - 😝 [Dude destryed some ATM machines and then enter the bank after closing time](http://9gag.com/gag/abALzyE)
+ - 😝 [Wholesome](http://9gag.com/gag/a87v8je)
+ - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
+ - 😝 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
+ - 👉 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)<!-- MEMES:END -->
 
 ---
 

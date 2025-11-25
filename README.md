@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 💣 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 😝 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
+ - 😝 [The thrills of reeling in a fish](http://9gag.com/gag/aZZ4meV)
+ - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
+ - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
  - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
 
 ---

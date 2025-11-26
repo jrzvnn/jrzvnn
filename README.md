@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Strong iPhone 17 sales may push Apple ahead of Samsung this year](https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025)
  - [Black Friday deals: Save up to 52% on monitor upgrades for your Mac](https://appleinsider.com/articles/25/11/26/black-friday-deals-save-up-to-52-on-monitor-upgrades-for-your-mac?utm_source=rss)
  - [These prebuilt PCs are about to cost more due to rising RAM prices](https://www.theverge.com/news/831032/cyberpowerpc-maingear-ram-price-increases-pc-gaming)
  - [14 Early Black Friday Deals at Best Buy &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-best-buy-deals/)
- - [Shop Torras iPhone 17 cases during Black Friday &amp; get free gifts, big discounts](https://appleinsider.com/articles/25/11/26/shop-torras-iphone-17-cases-during-black-friday-get-free-gifts-big-discounts?utm_source=rss)<!-- TECH:END -->
+ - [Shop Torras iPhone 17 cases during Black Friday &amp; get free gifts, big discounts](https://appleinsider.com/articles/25/11/26/shop-torras-iphone-17-cases-during-black-friday-get-free-gifts-big-discounts?utm_source=rss)
+ - [Best Rowing Machine Picks As Tested by a Fitness Expert](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

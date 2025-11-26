@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool it yo](http://9gag.com/gag/a5Q9R5O)
- - 😝 [Mexican budget fireworks...](http://9gag.com/gag/azxv93z)
- - 💣 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
- - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
+ - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 💣 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
+ - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 👉 [How is this possible?](http://9gag.com/gag/a34zKQ3)<!-- MEMES:END -->
 
 ---
 

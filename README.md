@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
+ - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
  - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
  - 💣 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
+ - 👉 [How is this possible?](http://9gag.com/gag/a34zKQ3)<!-- MEMES:END -->
 
 ---
 

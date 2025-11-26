@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 💣 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
- - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
- - 👉 [How is this possible?](http://9gag.com/gag/a34zKQ3)<!-- MEMES:END -->
+ - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
+ - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 💣 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 😝 [How is this possible?](http://9gag.com/gag/a34zKQ3)
+ - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
 
 ---
 

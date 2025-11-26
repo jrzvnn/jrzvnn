@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The EU Parliament backs a report that sets a 16+ age limit for accessing social media without parental consent and holds CEOs personally liable for violations &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251126/p26#a251126p26)
  - [Italy&#39;s competition regulator says it is scrutinizing a Meta policy excluding rival AI chatbots from WhatsApp, broadening the scope of a probe started in July &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p25#a251126p25)
  - [India&#39;s $38B antitrust threat puts Apple&#39;s in-app payment control at risk](https://appleinsider.com/articles/25/11/26/indias-38b-antitrust-threat-puts-apples-in-app-payment-control-at-risk?utm_source=rss)
  - [How the pieces are falling into place for Apple to create a truly compelling smart home display](https://appleinsider.com/articles/25/11/26/how-the-pieces-are-falling-into-place-for-apple-to-create-a-truly-compelling-smart-home-display?utm_source=rss)
- - [Amazon Workers Issue Warning About Company’s ‘All-Costs-Justified’ Approach to AI Development](https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/)
- - [Teens Can&#39;t Talk to Character.AI&#39;s Chatbots Anymore. Here&#39;s What They Can Do Instead](https://www.cnet.com/tech/services-and-software/teens-cant-talk-to-character-ais-chatbots-anymore-heres-what-they-can-do-instead/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon Workers Issue Warning About Company’s ‘All-Costs-Justified’ Approach to AI Development](https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

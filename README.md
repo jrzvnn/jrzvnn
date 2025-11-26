@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)
- - [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 26 #633](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-26-633/#ftag=CAD590a51e)
- - [I Took 3 of the Best Phone Cameras to the Las Vegas Grand Prix and Here&#39;s My P1](https://www.cnet.com/tech/mobile/i-took-3-of-the-best-phone-cameras-to-the-las-vegas-grand-prix-and-heres-my-p1/#ftag=CAD590a51e)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 26, #899](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-26-899/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [France says it plans legal complaints against AliExpress and Joom over the sales of childlike sex dolls; Temu, Wish, eBay, and more are also under investigation &lpar;Financial Times&rpar;](http://www.techmeme.com/251126/p20#a251126p20)
+ - [Sources: ByteDance is in talks to sell game studio Moonton, which it acquired for ~$4B in 2021, to Saudi Arabia-based Savvy Games; Moonton makes Mobile Legends &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p19#a251126p19)
+ - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2025&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
+ - [You’re buying a Frame TV? It’s okay to cheap out a little](https://www.theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little)
+ - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

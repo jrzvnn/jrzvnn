@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aggressive traders on Robinhood, whose stock has more than tripled in 2025, are central to the company&#39;s success, as critics liken the environment to a casino &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p3#a251126p3)
- - [As Microsoft accelerates its AI buildout in rural Wisconsin, one community&#39;s vocal opposition led the company to withdraw plans for a proposed data center site &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251126/p2#a251126p2)
- - [Shopping for a New iPhone or Android Phone? Read This Before You Buy](https://www.cnet.com/tech/mobile/shopping-for-a-new-iphone-or-android-phone-read-this-before-you-buy/#ftag=CAD590a51e)
- - [MIT and Hugging Face study: the share of downloads of Chinese-made open AI models rose to 17% in the past year, surpassing US developers&#39; 15.8% share, a first &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251126/p1#a251126p1)
- - [Apple to become number one smartphone maker globally through 2029](https://appleinsider.com/articles/25/11/26/apple-to-become-number-one-smartphone-maker-globally-through-2029?utm_source=rss)<!-- TECH:END -->
+ - [M5 MacBook Pro with 24GB RAM plunges to record low $1,569 &lpar;$230 off&rpar;](https://appleinsider.com/articles/25/11/26/m5-macbook-pro-with-24gb-ram-plunges-to-record-low-1569-230-off?utm_source=rss)
+ - [Pony AI&#39;s Hong Kong-listed shares rose 6.7% after it said its Guangzhou operations had broken even per car, as it targets a 3,000+ global robotaxi fleet in 2026 &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251126/p4#a251126p4)
+ - [Therabody Promo Codes: 35% Off | November 2025](https://www.wired.com/story/therabody-promo-code/)
+ - [Surfshark Promo Codes: 87% Off | November 2025](https://www.wired.com/story/surfshark-coupon/)
+ - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

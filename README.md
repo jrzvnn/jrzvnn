@@ -168,9 +168,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [The value of cross expertise collaboration](http://9gag.com/gag/aW4eERn)
  - 😝 [How is this possible?](http://9gag.com/gag/a34zKQ3)
- - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 😝 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 💣 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 👉 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)<!-- MEMES:END -->
 
 ---
 

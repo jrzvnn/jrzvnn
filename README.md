@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
  - [You can play classic Nintendo games on these custom SNES-inspired Nike sneakers](https://www.theverge.com/news/829880/gustavo-bonzanini-nike-air-max-90-sneaker-super-nintendo)
  - [The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’](https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/)
  - [Our Favorite Wireless Headphones for iPhone Owners Are $150 Off](https://www.wired.com/story/apple-airpods-max-deal-1125/)
- - [Top 5 Black Friday deals on Thunderbolt 5, 4 docks knock up to $145 off](https://appleinsider.com/articles/25/11/26/top-5-black-friday-deals-on-thunderbolt-5-4-docks-knock-up-to-145-off?utm_source=rss)
- - [The 11 Best Cooling Mattresses for Hot Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)<!-- TECH:END -->
+ - [Top 5 Black Friday deals on Thunderbolt 5, 4 docks knock up to $145 off](https://appleinsider.com/articles/25/11/26/top-5-black-friday-deals-on-thunderbolt-5-4-docks-knock-up-to-145-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Aggressive traders on Robinhood, whose stock has more than tripled in 2025, are central to the company&#39;s success, as critics liken the environment to a casino &lpar;Hannah Erin Lang/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p3#a251126p3)
  - [As Microsoft accelerates its AI buildout in rural Wisconsin, one community&#39;s vocal opposition led the company to withdraw plans for a proposed data center site &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251126/p2#a251126p2)
+ - [Shopping for a New iPhone or Android Phone? Read This Before You Buy](https://www.cnet.com/tech/mobile/shopping-for-a-new-iphone-or-android-phone-read-this-before-you-buy/#ftag=CAD590a51e)
  - [MIT and Hugging Face study: the share of downloads of Chinese-made open AI models rose to 17% in the past year, surpassing US developers&#39; 15.8% share, a first &lpar;Melissa Heikkilä/Financial Times&rpar;](http://www.techmeme.com/251126/p1#a251126p1)
- - [Apple to become number one smartphone maker globally through 2029](https://appleinsider.com/articles/25/11/26/apple-to-become-number-one-smartphone-maker-globally-through-2029?utm_source=rss)
- - [Charm.io: TikTok Shop reached $10B+ in US sales across 600K creators between January and October, up from $5B YoY; global sales are on par with eBay&#39;s &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/251125/p38#a251125p38)
- - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-26/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to become number one smartphone maker globally through 2029](https://appleinsider.com/articles/25/11/26/apple-to-become-number-one-smartphone-maker-globally-through-2029?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

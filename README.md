@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How is this possible?](http://9gag.com/gag/a34zKQ3)
+ - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 💣 [9th century female torso from india](http://9gag.com/gag/awy9o44)
  - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
+ - 👉 [How is this possible?](http://9gag.com/gag/a34zKQ3)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Jeff Bezos&#39; Project Prometheus, which is building AI for manufacturing computers, cars, and spacecraft, has acquired agentic AI startup General Agents &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251126/p27#a251126p27)
  - [The US Military Wants to Fix Its Own Equipment. Defense Contractors Are Trying to Shoot That Down](https://www.wired.com/story/subscription-us-military-right-to-repair/)
  - [Pentagon contractors want to blow up military right to repair](https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service)
  - [Jeff Bezos&#39; New AI Venture Quietly Acquired an Agentic Computing Startup](https://www.wired.com/story/jeff-bezos-new-ai-company-acquired-agentic-computing-startup/)
- - [The EU Parliament backs a report that sets a 16+ age limit for accessing social media without parental consent and holds CEOs personally liable for violations &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251126/p26#a251126p26)
- - [Italy&#39;s competition regulator says it is scrutinizing a Meta policy excluding rival AI chatbots from WhatsApp, broadening the scope of a probe started in July &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p25#a251126p25)<!-- TECH:END -->
+ - [The EU Parliament backs a report that sets a 16+ age limit for accessing social media without parental consent and holds CEOs personally liable for violations &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251126/p26#a251126p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

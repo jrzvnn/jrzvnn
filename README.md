@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M5 MacBook Pro with 24GB RAM plunges to record low $1,569 &lpar;$230 off&rpar;](https://appleinsider.com/articles/25/11/26/m5-macbook-pro-with-24gb-ram-plunges-to-record-low-1569-230-off?utm_source=rss)
- - [Pony AI&#39;s Hong Kong-listed shares rose 6.7% after it said its Guangzhou operations had broken even per car, as it targets a 3,000+ global robotaxi fleet in 2026 &lpar;Linda Lew/Bloomberg&rpar;](http://www.techmeme.com/251126/p4#a251126p4)
- - [Therabody Promo Codes: 35% Off | November 2025](https://www.wired.com/story/therabody-promo-code/)
- - [Surfshark Promo Codes: 87% Off | November 2025](https://www.wired.com/story/surfshark-coupon/)
- - [HBO Max Promo Code: 50% Off | November 2025](https://www.wired.com/story/max-promo-code/)<!-- TECH:END -->
+ - [watchTowr: 80K+ sensitive credentials were found via publicly accessible &quot;Recent Links&quot; pages on online code formatting tools JSONFormatter and CodeBeautify &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251126/p5#a251126p5)
+ - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
+ - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)
+ - [Paramount Plus Coupon Codes and Deals: Up to 50% Off](https://www.wired.com/story/paramount-plus-coupon-code/)
+ - [Newegg Promo Code: 10% Off in November 2025](https://www.wired.com/story/newegg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

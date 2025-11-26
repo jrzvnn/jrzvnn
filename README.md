@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
- - 😝 [...](http://9gag.com/gag/amoO73j)
- - 💣 [I would if I were in good shape.](http://9gag.com/gag/aAyLxn0)
- - 😝 [Night parking solo](http://9gag.com/gag/ayNmB1b)
- - 👉 [Something about Slayer](http://9gag.com/gag/aQzDR2W)<!-- MEMES:END -->
+ - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
+ - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 💣 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 😝 [Man of culture](http://9gag.com/gag/aGyreMz)
+ - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
 
 ---
 

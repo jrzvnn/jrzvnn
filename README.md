@@ -158,7 +158,7 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [Campbell&amp;#8217;s fired the VP recorded saying its meat &amp;#8216;came from a 3D printer&amp;#8217;](https://www.theverge.com/news/829516/campbells-3d-printed-chicken-soup)
- - [Save $900 on Sony&#39;s Best Mirrorless Camera With This Early Black Friday Deal &lpar;2025&rpar;](https://www.wired.com/story/sony-a7rv-black-friday-deal-2025/)
+ - [Save $900 on Sony’s Best Mirrorless Camera With This Early Black Friday Deal &lpar;2025&rpar;](https://www.wired.com/story/sony-a7rv-black-friday-deal-2025/)
  - [Sources: Jeff Bezos&#39; Project Prometheus, which is building AI for manufacturing computers, cars, and spacecraft, has acquired agentic AI startup General Agents &lpar;Paresh Dave/Wired&rpar;](http://www.techmeme.com/251126/p27#a251126p27)
  - [The US Military Wants to Fix Its Own Equipment. Defense Contractors Are Trying to Shoot That Down](https://www.wired.com/story/subscription-us-military-right-to-repair/)
  - [Pentagon contractors want to blow up military right to repair](https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service)<!-- TECH:END -->

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Didi reports Q3 revenue up 8.6% YoY to ~$8.28B and a ~$211M net income, up from ~$127M in Q3 2024; international revenue up 35% YoY to ~$558M with a ~$240M loss &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p13#a251126p13)
  - [10 Best Pillows: Tested For Side, Back, and Stomach Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)
  - [Naver agrees to acquire Dunamu, which runs South Korea&#39;s biggest crypto exchange Upbit, in a $10.3B all-stock deal; Upbit has 80%+ market share in South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p12#a251126p12)
  - [Boeing&#39;s Next Starliner Flight Will Only Be Allowed to Carry Cargo](https://www.wired.com/story/boeings-next-starliner-flight-will-only-be-allowed-to-carry-cargo/)
- - [Malaysia&#39;s Johor state, which has approved 51 data centre projects as of November, stops approvals for new low-tier data centers citing high water consumption &lpar;The Star&rpar;](http://www.techmeme.com/251126/p11#a251126p11)
- - [Uber starts deploying fully driverless WeRide robotaxis in Abu Dhabi, after launching its robotaxi service with safety drivers in the UAE in December 2024 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251126/p10#a251126p10)<!-- TECH:END -->
+ - [Malaysia&#39;s Johor state, which has approved 51 data centre projects as of November, stops approvals for new low-tier data centers citing high water consumption &lpar;The Star&rpar;](http://www.techmeme.com/251126/p11#a251126p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

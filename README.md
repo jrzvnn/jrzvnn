@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Viral ‘DoorDash Girl’ Saga Unearthed a Nightmare for Black Creators](https://www.wired.com/story/the-viral-doordash-girl-saga-unearthed-a-nightmare-for-black-creators/)
+ - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2025?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
  - [A profile of Chen Tao, founder of Chinese AI circuit board company Victory Giant, which is up 530%+ in 2025 so far, giving Chen and his wife a $9.1B net worth &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p15#a251126p15)
  - [PitchBook: US AI and robotics VC deals are up over 4x since 2023 to $160B+ so far in 2025, while comparable China deals are just $10B+, up from $9.24B in 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/251126/p14#a251126p14)
- - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)
- - [Didi reports Q3 revenue up 8.6% YoY to ~$8.28B and a ~$211M net income, up from ~$127M in Q3 2024; international revenue up 35% YoY to ~$558M with a ~$240M loss &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p13#a251126p13)
- - [10 Best Pillows: Tested For Side, Back, and Stomach Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-pillows/)<!-- TECH:END -->
+ - [The 6 Best Latte Machines for Automatic Espresso Drinks &lpar;2025&rpar;](https://www.wired.com/story/best-latte-and-cappuccino-machines/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

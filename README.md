@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some food bloggers warn Google&#39;s AI Overviews and AI food pics are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p6#a251126p6)
  - [OnePlus Promo Code: $70 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)
  - [Uber’s robotaxi service in UAE now includes fully driverless vehicles](https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae)
  - [watchTowr: 80K+ sensitive credentials were found via publicly accessible &quot;Recent Links&quot; pages on online code formatting tools JSONFormatter and CodeBeautify &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251126/p5#a251126p5)
- - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)
- - [Walmart Promo Codes and Coupons: Up to 65% Off](https://www.wired.com/story/top-walmart-promo-codes/)<!-- TECH:END -->
+ - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

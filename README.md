@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Cool it yo](http://9gag.com/gag/a5Q9R5O)
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
  - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 💣 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)
- - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - 👉 [How is this possible?](http://9gag.com/gag/a34zKQ3)<!-- MEMES:END -->
+ - 👉 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)<!-- MEMES:END -->
 
 ---
 

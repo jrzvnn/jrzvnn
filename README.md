@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
- - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 💣 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 😝 [How is this possible?](http://9gag.com/gag/a34zKQ3)
- - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
+ - 😝 [Mexican budget fireworks...](http://9gag.com/gag/azxv93z)
+ - 😝 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
+ - 💣 [Cool it yo](http://9gag.com/gag/a5Q9R5O)
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 👉 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
 
 ---
 

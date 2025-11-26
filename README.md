@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Something about Slayer](http://9gag.com/gag/aQzDR2W)
- - 😝 [Clean](http://9gag.com/gag/a34zQEr)
- - 💣 [Do it for your future self](http://9gag.com/gag/a6ZeNrL)
- - 😝 [It is what it is](http://9gag.com/gag/aAyL3wd)
- - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
+ - 😝 [A real Messi fan](http://9gag.com/gag/aNDGz6w)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
+ - 😝 [Why Women Live Longer](http://9gag.com/gag/aGyrgO6)
+ - 👉 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)<!-- MEMES:END -->
 
 ---
 

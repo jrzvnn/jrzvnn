@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Naver agrees to acquire Dunamu, which runs South Korea&#39;s biggest crypto exchange Upbit, in a $10.3B all-stock deal; Upbit has 80%+ market share in South Korea &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p12#a251126p12)
+ - [Boeing&#39;s Next Starliner Flight Will Only Be Allowed to Carry Cargo](https://www.wired.com/story/boeings-next-starliner-flight-will-only-be-allowed-to-carry-cargo/)
+ - [Malaysia&#39;s Johor state, which has approved 51 data centre projects as of November, stops approvals for new low-tier data centers citing high water consumption &lpar;The Star&rpar;](http://www.techmeme.com/251126/p11#a251126p11)
  - [Uber starts deploying fully driverless WeRide robotaxis in Abu Dhabi, after launching its robotaxi service with safety drivers in the UAE in December 2024 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251126/p10#a251126p10)
- - [Kohler Black Friday Promo Code &lpar;2025&rpar;: 10 Percent Off Bathroom and Kitchen](https://www.wired.com/story/kohler-black-friday-2025-promo-code/)
- - [Counterpoint: Apple is set to overtake Samsung as the world&#39;s largest smartphone maker for the first time since 2011, lifted by the success of iPhone 17 models &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251126/p9#a251126p9)
- - [Poco partners with Bose to put a subwoofer in its latest phone](https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer)
- - [Japanese memory chipmaker Kioxia&#39;s stock falls 14%+ after a Bain Capital-backed entity sold $2.1B worth of shares at a discount, stoking AI valuation concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p8#a251126p8)<!-- TECH:END -->
+ - [Kohler Black Friday Promo Code &lpar;2025&rpar;: 10 Percent Off Bathroom and Kitchen](https://www.wired.com/story/kohler-black-friday-2025-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

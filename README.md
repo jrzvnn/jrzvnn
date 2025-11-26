@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - 😝 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
- - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
+ - 😝 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
+ - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
+ - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple faces new lawsuit over alleged use of conflict minerals](https://appleinsider.com/articles/25/11/26/apple-faces-new-lawsuit-over-alleged-use-of-conflict-minerals?utm_source=rss)
+ - [The House Homeland Security Committee asks Dario Amodei to testify at a December 17 hearing about how Chinese state actors used Claude Code for cyber-espionage &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/251126/p23#a251126p23)
+ - [Fanttik&amp;#8217;s portable tire inflator has hit an all-time low for Black Friday](https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale)
  - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)
- - [You can play classic Nintendo games on these custom SNES-inspired Nike sneakers](https://www.theverge.com/news/829880/gustavo-bonzanini-nike-air-max-90-sneaker-super-nintendo)
- - [The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’](https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/)
- - [Our Favorite Wireless Headphones for iPhone Owners Are $150 Off](https://www.wired.com/story/apple-airpods-max-deal-1125/)
- - [Top 5 Black Friday deals on Thunderbolt 5, 4 docks knock up to $145 off](https://appleinsider.com/articles/25/11/26/top-5-black-friday-deals-on-thunderbolt-5-4-docks-knock-up-to-145-off?utm_source=rss)<!-- TECH:END -->
+ - [You can play classic Nintendo games on these custom SNES-inspired Nike sneakers](https://www.theverge.com/news/829880/gustavo-bonzanini-nike-air-max-90-sneaker-super-nintendo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

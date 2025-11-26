@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Uber starts deploying fully driverless WeRide robotaxis in Abu Dhabi, after launching its robotaxi service with safety drivers in the UAE in December 2024 &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/251126/p10#a251126p10)
+ - [Kohler Black Friday Promo Code &lpar;2025&rpar;: 10 Percent Off Bathroom and Kitchen](https://www.wired.com/story/kohler-black-friday-2025-promo-code/)
  - [Counterpoint: Apple is set to overtake Samsung as the world&#39;s largest smartphone maker for the first time since 2011, lifted by the success of iPhone 17 models &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251126/p9#a251126p9)
  - [Poco partners with Bose to put a subwoofer in its latest phone](https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer)
- - [Japanese memory chipmaker Kioxia&#39;s stock falls 14%+ after a Bain Capital-backed entity sold $2.1B worth of shares at a discount, stoking AI valuation concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p8#a251126p8)
- - [65 Best Early Black Friday Deals on Gear We Tested &amp; Loved &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-3/)
- - [Q&amp;A with Sportable co-founders Dugald Macdonald and Peter Husemeyer on their sensor-based sports tech that generates data for teams, leagues, and broadcasters &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/251126/p7#a251126p7)<!-- TECH:END -->
+ - [Japanese memory chipmaker Kioxia&#39;s stock falls 14%+ after a Bain Capital-backed entity sold $2.1B worth of shares at a discount, stoking AI valuation concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p8#a251126p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

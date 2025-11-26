@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Critically acclaimed puzzle game &#39;Blue Prince&#39; coming to Mac App Store soon](https://appleinsider.com/articles/25/11/26/critically-acclaimed-puzzle-game-blue-prince-coming-to-mac-app-store-soon?utm_source=rss)
+ - [What the leaked AI executive order tells us about the Big Tech power grab](https://www.theverge.com/column/829938/leaked-ai-executive-order-analysis)
+ - [The best gaming headset I tried this year is $30 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)
  - [OWC&#39;s Black Friday sale has Apple accessories, docks, storage &amp; more from $2.99](https://appleinsider.com/articles/25/11/26/owcs-black-friday-sale-has-apple-accessories-docks-storage-more-from-299?utm_source=rss)
- - [21 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)
- - [Apple&#39;s 1976 formation papers could fetch $4 million at auction](https://appleinsider.com/articles/25/11/26/apples-1976-formation-papers-could-fetch-4-million-at-auction?utm_source=rss)
- - [The EU says its regulators asked Shein for documents on measures to prevent the exposure of minors to inappropriate content and the circulation of illegal items &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/251126/p21#a251126p21)
- - [Character.AI launches Stories for teens after banning them from chats](https://www.theverge.com/news/829892/character-ai-stories-launch-teens)<!-- TECH:END -->
+ - [21 Best iPhone 17 Cases and Accessories &lpar;2025&rpar;](https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
+ - 😝 [Dedication to the hustle is next level](http://9gag.com/gag/aW4e184)
  - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 💣 [Man of culture](http://9gag.com/gag/aGyreMz)
+ - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
  - 👉 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
 
 ---

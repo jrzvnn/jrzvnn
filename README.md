@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)
  - [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
- - [12 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K, and More](https://www.wired.com/gallery/best-computer-monitors/)
- - [Sources: ByteDance bought more Nvidia chips than any other Chinese company in 2025, but Chinese regulators now block it from using the chips in new data centers &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251126/p18#a251126p18)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 26 #633](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-26-633/#ftag=CAD590a51e)
+ - [I Took 3 of the Best Phone Cameras to the Las Vegas Grand Prix and Here&#39;s My P1](https://www.cnet.com/tech/mobile/i-took-3-of-the-best-phone-cameras-to-the-las-vegas-grand-prix-and-heres-my-p1/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 26, #899](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-26-899/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

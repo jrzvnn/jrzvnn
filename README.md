@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 😝 [Madrid, Spain](http://9gag.com/gag/a34zQx5)
- - 👉 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)<!-- MEMES:END -->
+ - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
+ - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
+ - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 👉 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
 
 ---
 

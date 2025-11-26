@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Sportable co-founders Dugald Macdonald and Peter Husemeyer on their sensor-based sports tech that generates data for teams, leagues, and broadcasters &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/251126/p7#a251126p7)
- - [Some food bloggers warn Google&#39;s AI Overviews and AI food pics are burying their real, tested recipes, setting home cooks up for disaster this Thanksgiving &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p6#a251126p6)
- - [OnePlus Promo Code: $70 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)
- - [Uber’s robotaxi service in UAE now includes fully driverless vehicles](https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae)
- - [watchTowr: 80K+ sensitive credentials were found via publicly accessible &quot;Recent Links&quot; pages on online code formatting tools JSONFormatter and CodeBeautify &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251126/p5#a251126p5)<!-- TECH:END -->
+ - [Counterpoint: Apple is set to overtake Samsung as the world&#39;s largest smartphone maker for the first time since 2011, lifted by the success of iPhone 17 models &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/251126/p9#a251126p9)
+ - [Poco partners with Bose to put a subwoofer in its latest phone](https://www.theverge.com/news/829419/poco-f8-ultra-bose-speakers-stereo-subwoofer)
+ - [Japanese memory chipmaker Kioxia&#39;s stock falls 14%+ after a Bain Capital-backed entity sold $2.1B worth of shares at a discount, stoking AI valuation concerns &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p8#a251126p8)
+ - [65 Best Early Black Friday Deals on Gear We Tested &amp; Loved &lpar;2025&rpar;](https://www.wired.com/story/early-black-friday-deals-2025-3/)
+ - [Q&amp;A with Sportable co-founders Dugald Macdonald and Peter Husemeyer on their sensor-based sports tech that generates data for teams, leagues, and broadcasters &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/251126/p7#a251126p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

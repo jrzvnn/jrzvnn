@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
  - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - 😝 [Do it for your future self](http://9gag.com/gag/a6ZeNrL)
- - 👉 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)<!-- MEMES:END -->
+ - 😝 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
+ - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
+ - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 👉 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
 
 ---
 

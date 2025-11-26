@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 😝 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 💣 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
  - 😝 [Man of culture](http://9gag.com/gag/aGyreMz)
- - 💣 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - 😝 [A funny joke](http://9gag.com/gag/aKGXddg)
- - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
+ - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
 
 ---
 

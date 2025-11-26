@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In recent months, DDR4 and DDR5 RAM and SSD prices surged dramatically due to an ongoing AI chip shortage and panic buying; some RAM kits now cost 3x as much &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/251126/p16#a251126p16)
- - [The Viral ‘DoorDash Girl’ Saga Unearthed a Nightmare for Black Creators](https://www.wired.com/story/the-viral-doordash-girl-saga-unearthed-a-nightmare-for-black-creators/)
- - [What&#39;s the Best Red Light Therapy Mask for Your Skin in 2025?](https://www.wired.com/story/led-face-masks-and-red-light-therapy/)
- - [A profile of Chen Tao, founder of Chinese AI circuit board company Victory Giant, which is up 530%+ in 2025 so far, giving Chen and his wife a $9.1B net worth &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p15#a251126p15)
- - [PitchBook: US AI and robotics VC deals are up over 4x since 2023 to $160B+ so far in 2025, while comparable China deals are just $10B+, up from $9.24B in 2023 &lpar;CNBC&rpar;](http://www.techmeme.com/251126/p14#a251126p14)<!-- TECH:END -->
+ - [Sources: ByteDance bought more Nvidia chips than any other Chinese company in 2025, but Chinese regulators now block it from using the chips in new data centers &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251126/p18#a251126p18)
+ - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
+ - [Michael Saylor-led Strategy is down 50%+ in the past three months after crypto loses $1T+ in value, as the &quot;digital asset treasury&quot; craze at companies unravels &lpar;Financial Times&rpar;](http://www.techmeme.com/251126/p17#a251126p17)
+ - [The Trump Administration’s Data Center Push Could Open the Door for New Forever Chemicals](https://www.wired.com/story/the-trump-administrations-data-center-push-could-open-the-door-for-new-forever-chemicals/)
+ - [First there was nothing, then there was Hoto and Fanttik](https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

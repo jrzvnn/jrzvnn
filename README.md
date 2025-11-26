@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s 1976 formation papers could fetch $4 million at auction](https://appleinsider.com/articles/25/11/26/apples-1976-formation-papers-could-fetch-4-million-at-auction?utm_source=rss)
+ - [The EU says its regulators asked Shein for documents on measures to prevent the exposure of minors to inappropriate content and the circulation of illegal items &lpar;Jenny Che/Bloomberg&rpar;](http://www.techmeme.com/251126/p21#a251126p21)
  - [France says it plans legal complaints against AliExpress and Joom over the sales of childlike sex dolls; Temu, Wish, eBay, and more are also under investigation &lpar;Financial Times&rpar;](http://www.techmeme.com/251126/p20#a251126p20)
- - [Sources: ByteDance is in talks to sell game studio Moonton, which it acquired for ~$4B in 2021, to Saudi Arabia-based Savvy Games; Moonton makes Mobile Legends &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p19#a251126p19)
- - [The Best Star Wars Gifts for Everyone, From Padawans to Jedi Masters &lpar;2025&rpar;](https://www.wired.com/gallery/best-star-wars-gifts/)
- - [You’re buying a Frame TV? It’s okay to cheap out a little](https://www.theverge.com/tech/829002/youre-buying-a-frame-tv-its-okay-to-cheap-out-a-little)
- - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)<!-- TECH:END -->
+ - [Three Steps Everyone Should Take to Watch &#39;The Muppet Christmas Carol&#39; Correctly](https://www.cnet.com/culture/entertainment/three-steps-everyone-should-take-to-watch-the-muppet-christmas-carol-correctly/#ftag=CAD590a51e)
+ - [Sources: ByteDance is in talks to sell game studio Moonton, which it acquired for ~$4B in 2021, to Saudi Arabia-based Savvy Games; Moonton makes Mobile Legends &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p19#a251126p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

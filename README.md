@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
  - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - 💣 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 😝 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)
+ - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
  - 👉 [Man of culture](http://9gag.com/gag/aGyreMz)<!-- MEMES:END -->
 
 ---

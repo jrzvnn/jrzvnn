@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s $38B antitrust threat puts Apple&#39;s in-app payment control at risk](https://appleinsider.com/articles/25/11/26/indias-38b-antitrust-threat-puts-apples-in-app-payment-control-at-risk?utm_source=rss)
  - [How the pieces are falling into place for Apple to create a truly compelling smart home display](https://appleinsider.com/articles/25/11/26/how-the-pieces-are-falling-into-place-for-apple-to-create-a-truly-compelling-smart-home-display?utm_source=rss)
  - [Amazon Workers Issue Warning About Company’s ‘All-Costs-Justified’ Approach to AI Development](https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/)
  - [The end of Stranger Things: all the news from the Netflix show&amp;#8217;s fifth and final season](https://www.theverge.com/entertainment/830031/stranger-things-5-final-season-netflix)
- - [Battlefield 6 is already 24 percent off for Black Friday](https://www.theverge.com/gadgets/830040/battlefield-6-black-friday-deal-sale-2025)
- - [In an October 7 letter, the Pentagon informed lawmakers that Alibaba, Baidu, and BYD should be added to a list of companies that aid the Chinese military &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/251126/p24#a251126p24)<!-- TECH:END -->
+ - [Battlefield 6 is already 24 percent off for Black Friday](https://www.theverge.com/gadgets/830040/battlefield-6-black-friday-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

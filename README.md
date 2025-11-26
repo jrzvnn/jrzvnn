@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 💣 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 😝 [Mexican budget fireworks...](http://9gag.com/gag/azxv93z)
- - 👉 [Your motivation for the week](http://9gag.com/gag/a5Q9nVL)<!-- MEMES:END -->
+ - 😝 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
+ - 😝 [...](http://9gag.com/gag/amoO73j)
+ - 💣 [Night parking solo](http://9gag.com/gag/ayNmB1b)
+ - 😝 [I would if I were in good shape.](http://9gag.com/gag/aAyLxn0)
+ - 👉 [Something about Slayer](http://9gag.com/gag/aQzDR2W)<!-- MEMES:END -->
 
 ---
 

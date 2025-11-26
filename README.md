@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
- - 😝 [Now I can finally die in piece. &lpar;After seeing what makes that sound&rpar;](http://9gag.com/gag/axye0Q1)
- - 💣 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 👉 [To be worse than...](http://9gag.com/gag/aPAV9LR)<!-- MEMES:END -->
+ - 😝 [Something about Slayer](http://9gag.com/gag/aQzDR2W)
+ - 😝 [Clean](http://9gag.com/gag/a34zQEr)
+ - 💣 [Do it for your future self](http://9gag.com/gag/a6ZeNrL)
+ - 😝 [Why Women Live Longer](http://9gag.com/gag/aGyrgO6)
+ - 👉 [It is what it is](http://9gag.com/gag/aAyL3wd)<!-- MEMES:END -->
 
 ---
 

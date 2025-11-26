@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to become number one smartphone maker globally through 2029](https://appleinsider.com/articles/25/11/26/apple-to-become-number-one-smartphone-maker-globally-through-2029?utm_source=rss)
  - [Charm.io: TikTok Shop reached $10B+ in US sales across 600K creators between January and October, up from $5B YoY; global sales are on par with eBay&#39;s &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/251125/p38#a251125p38)
  - [Today&#39;s NYT Mini Crossword Answers for Wednesday, Nov. 26](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-nov-26/#ftag=CAD590a51e)
  - [Foxconn plans to spend another $569M through 2029 to expand its Mount Pleasant, WI AI server manufacturing site, adding to $717M invested through 2024 &lpar;Joe Schulz/WPR&rpar;](http://www.techmeme.com/251125/p37#a251125p37)
- - [Best Video Doorbells of 2025: Take Charge of Your Front Door](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)
- - [Best Outdoor String Lights for 2025: Illuminate Your Balcony, Patio, Backyard and More](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Video Doorbells of 2025: Take Charge of Your Front Door](https://www.cnet.com/home/security/best-video-doorbell-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

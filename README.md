@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [In an October 7 letter, the Pentagon informed lawmakers that Alibaba, Baidu, and BYD should be added to a list of companies that aid the Chinese military &lpar;Anthony Capaccio/Bloomberg&rpar;](http://www.techmeme.com/251126/p24#a251126p24)
  - [Hands On: Kagi&#39;s Orion browser is a surprisingly good alternative to Safari](https://appleinsider.com/articles/25/11/26/hands-on-kagis-orion-browser-is-a-surprisingly-good-alternative-to-safari?utm_source=rss)
- - [Amazon drops Apple&#39;s iPad 11 to $274, a new record low price](https://appleinsider.com/articles/25/11/26/amazon-drops-apples-ipad-11-to-274-a-new-record-low-price?utm_source=rss)
- - [Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price](https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale)
- - [Apple faces new lawsuit over alleged use of conflict minerals](https://appleinsider.com/articles/25/11/26/apple-faces-new-lawsuit-over-alleged-use-of-conflict-minerals?utm_source=rss)<!-- TECH:END -->
+ - [These Are the 7 Biggest Thanksgiving Hosting Mistakes, According to a Catering Chef](https://www.cnet.com/news/these-are-the-7-biggest-thanksgiving-hosting-mistakes-according-to-a-catering-chef/#ftag=CAD590a51e)
+ - [&#39;Supernatural&#39; Is Leaving Netflix, but You&#39;ll Be Able to Carry On and Stream Elsewhere](https://www.cnet.com/tech/services-and-software/supernatural-is-leaving-netflix-but-youll-be-able-to-carry-on-stream-elsewhere/#ftag=CAD590a51e)
+ - [Amazon drops Apple&#39;s iPad 11 to $274, a new record low price](https://appleinsider.com/articles/25/11/26/amazon-drops-apples-ipad-11-to-274-a-new-record-low-price?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

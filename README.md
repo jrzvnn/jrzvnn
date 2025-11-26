@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [OnePlus Promo Code: $70 Off | November 2025](https://www.wired.com/story/oneplus-promo-code/)
  - [Uber’s robotaxi service in UAE now includes fully driverless vehicles](https://www.theverge.com/news/828685/uber-weride-robotaxi-fully-driverless-uae)
  - [watchTowr: 80K+ sensitive credentials were found via publicly accessible &quot;Recent Links&quot; pages on online code formatting tools JSONFormatter and CodeBeautify &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/251126/p5#a251126p5)
- - [Qualcomm&#39;s New Chip Means You Don&#39;t Need a Flagship Phone for Cutting-Edge AI Tools](https://www.cnet.com/tech/mobile/qualcomms-new-chip-means-you-dont-need-a-flagship-phone-for-cutting-edge-ai-tools/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [20% Off Sephora Promo Code](https://www.wired.com/story/sephora-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

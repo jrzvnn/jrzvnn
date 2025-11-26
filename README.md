@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Microsoft’s latest 13-inch Surface Laptop is down to $549.99, a new record low price](https://www.theverge.com/gadgets/830182/microsoft-surface-laptop-black-friday-2025-deal-sale)
  - [Apple faces new lawsuit over alleged use of conflict minerals](https://appleinsider.com/articles/25/11/26/apple-faces-new-lawsuit-over-alleged-use-of-conflict-minerals?utm_source=rss)
  - [The House Homeland Security Committee asks Dario Amodei to testify at a December 17 hearing about how Chinese state actors used Claude Code for cyber-espionage &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/251126/p23#a251126p23)
- - [Fanttik&amp;#8217;s portable tire inflator has hit an all-time low for Black Friday](https://www.theverge.com/gadgets/829971/fanttik-x8-tire-inflator-black-friday-deal-sale)
- - [The Verge’s 2025 holiday gift guide](https://www.theverge.com/tech/809421/holiday-gift-guide-2025)<!-- TECH:END -->
+ - [Champions League Soccer: Livestream PSG vs. Tottenham Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-psg-vs-tottenham-live-from-anywhere/#ftag=CAD590a51e)
+ - [Champions League Soccer: Livestream Olympiacos vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-olympiacos-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

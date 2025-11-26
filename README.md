@@ -168,8 +168,8 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- MEMES:START -->
  - 😝 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
  - 😝 [...](http://9gag.com/gag/amoO73j)
- - 💣 [Night parking solo](http://9gag.com/gag/ayNmB1b)
- - 😝 [I would if I were in good shape.](http://9gag.com/gag/aAyLxn0)
+ - 💣 [I would if I were in good shape.](http://9gag.com/gag/aAyLxn0)
+ - 😝 [Night parking solo](http://9gag.com/gag/ayNmB1b)
  - 👉 [Something about Slayer](http://9gag.com/gag/aQzDR2W)<!-- MEMES:END -->
 
 ---

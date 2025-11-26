@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 11 Best Cooling Mattresses for Hot Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)
- - [EU member states agree a position on draft child protection legislation without forcing Big Tech to find and remove CSAM; states now negotiate with EU lawmakers &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p22#a251126p22)
- - [Critically acclaimed puzzle game &#39;Blue Prince&#39; coming to Mac App Store soon](https://appleinsider.com/articles/25/11/26/critically-acclaimed-puzzle-game-blue-prince-coming-to-mac-app-store-soon?utm_source=rss)
- - [What the leaked AI executive order tells us about the Big Tech power grab](https://www.theverge.com/column/829938/leaked-ai-executive-order-analysis)
- - [The best gaming headset I tried this year is $30 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)<!-- TECH:END -->
+ - [You can play classic Nintendo games on these custom SNES-inspired Nike sneakers](https://www.theverge.com/news/829880/gustavo-bonzanini-nike-air-max-90-sneaker-super-nintendo)
+ - [The Destruction of a Notorious Myanmar Scam Compound Appears to Have Been ‘Performative’](https://www.wired.com/story/myanmar-kk-park-scam-compound-destruction/)
+ - [Our Favorite Wireless Headphones for iPhone Owners Are $150 Off](https://www.wired.com/story/apple-airpods-max-deal-1125/)
+ - [Top 5 Black Friday deals on Thunderbolt 5, 4 docks knock up to $145 off](https://appleinsider.com/articles/25/11/26/top-5-black-friday-deals-on-thunderbolt-5-4-docks-knock-up-to-145-off?utm_source=rss)
+ - [The 11 Best Cooling Mattresses for Hot Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

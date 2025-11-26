@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Dedication to the hustle is next level](http://9gag.com/gag/aW4e184)
- - 😝 [Those puppies are adorable](http://9gag.com/gag/aYQv427)
- - 💣 [Man of culture](http://9gag.com/gag/aGyreMz)
- - 😝 [To be worse than...](http://9gag.com/gag/aPAV9LR)
- - 👉 [Second place woman furiously walked out after first trans woman won the `World\u2019s Strongest Woman` competition in Arlington, Texas](http://9gag.com/gag/adBWK5B)<!-- MEMES:END -->
+ - 😝 [Who?](http://9gag.com/gag/aKGXxG1)
+ - 😝 [Hi nice to marry you](http://9gag.com/gag/aRB81mA)
+ - 💣 [Night parking solo](http://9gag.com/gag/ayNmB1b)
+ - 😝 [I would if I were in good shape.](http://9gag.com/gag/aAyLxn0)
+ - 👉 [Something about Slayer](http://9gag.com/gag/aQzDR2W)<!-- MEMES:END -->
 
 ---
 

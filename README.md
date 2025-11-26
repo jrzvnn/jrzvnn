@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPad mini with OLED expected to arrive by the end of 2026](https://appleinsider.com/articles/25/11/26/ipad-mini-with-oled-expected-to-arrive-by-the-end-of-2026?utm_source=rss)
+ - [ChatGPT and Copilot are being booted out of WhatsApp](https://www.theverge.com/news/829808/chatgpt-copilot-ai-llm-leaving-whatsapp-meta)
+ - [12 Best Computer Monitors &lpar;2025&rpar;: Budget, OLED, 4K, and More](https://www.wired.com/gallery/best-computer-monitors/)
  - [Sources: ByteDance bought more Nvidia chips than any other Chinese company in 2025, but Chinese regulators now block it from using the chips in new data centers &lpar;Qianer Liu/The Information&rpar;](http://www.techmeme.com/251126/p18#a251126p18)
- - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)
- - [Michael Saylor-led Strategy is down 50%+ in the past three months after crypto loses $1T+ in value, as the &quot;digital asset treasury&quot; craze at companies unravels &lpar;Financial Times&rpar;](http://www.techmeme.com/251126/p17#a251126p17)
- - [The Trump Administration’s Data Center Push Could Open the Door for New Forever Chemicals](https://www.wired.com/story/the-trump-administrations-data-center-push-could-open-the-door-for-new-forever-chemicals/)
- - [First there was nothing, then there was Hoto and Fanttik](https://www.theverge.com/report/829265/hoto-fanttik-profile-origins-xiaomi-aukey-tiktok)<!-- TECH:END -->
+ - [14 Best Tablets &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

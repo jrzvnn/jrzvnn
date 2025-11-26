@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Charm.io: TikTok Shop reached $10B+ in US sales across 600K creators between January and October, up from $5B YoY; global sales are on par with eBay&#39;s &lpar;Emmett Lindner/New York Times&rpar;](http://www.techmeme.com/251125/p38#a251125p38)
  - [Foxconn plans to spend another $569M through 2029 to expand its Mount Pleasant, WI AI server manufacturing site, adding to $717M invested through 2024 &lpar;Joe Schulz/WPR&rpar;](http://www.techmeme.com/251125/p37#a251125p37)
  - [Best Outdoor String Lights for 2025: Illuminate Your Balcony, Patio, Backyard and More](https://www.cnet.com/news/best-outdoor-string-lights/#ftag=CAD590a51e)
  - [The 3 Best Espresso Machines You Can Buy in 2025](https://www.cnet.com/home/kitchen-and-household/best-espresso-machine/#ftag=CAD590a51e)
- - [Sources: a new network of super PACs plans to raise ~$50M to counter the Leading the Future super PAC and back candidates who prioritize AI regulations &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251125/p36#a251125p36)
- - [iPhone Fold Will Be Creaseless and Cost $2,400, Report Says](https://www.cnet.com/tech/mobile/iphone-fold-will-be-creaseless-and-cost-2400-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: a new network of super PACs plans to raise ~$50M to counter the Leading the Future super PAC and back candidates who prioritize AI regulations &lpar;Theodore Schleifer/New York Times&rpar;](http://www.techmeme.com/251125/p36#a251125p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

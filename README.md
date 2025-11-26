@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Cool it yo](http://9gag.com/gag/a5Q9R5O)
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
- - 👉 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)<!-- MEMES:END -->
+ - 😝 [The value of cross expertise collaboration](http://9gag.com/gag/aW4eERn)
+ - 😝 [How is this possible?](http://9gag.com/gag/a34zKQ3)
+ - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)
+ - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
 
 ---
 

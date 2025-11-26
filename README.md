@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US Military Wants to Fix Its Own Equipment. Defense Contractors Are Trying to Shoot That Down](https://www.wired.com/story/subscription-us-military-right-to-repair/)
+ - [Pentagon contractors want to blow up military right to repair](https://www.theverge.com/news/830715/military-contractors-right-to-repair-ndaa-data-as-a-service)
+ - [Jeff Bezos&#39; New AI Venture Quietly Acquired an Agentic Computing Startup](https://www.wired.com/story/jeff-bezos-new-ai-company-acquired-agentic-computing-startup/)
  - [The EU Parliament backs a report that sets a 16+ age limit for accessing social media without parental consent and holds CEOs personally liable for violations &lpar;Eliza Gkritsi/Politico&rpar;](http://www.techmeme.com/251126/p26#a251126p26)
- - [Italy&#39;s competition regulator says it is scrutinizing a Meta policy excluding rival AI chatbots from WhatsApp, broadening the scope of a probe started in July &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p25#a251126p25)
- - [India&#39;s $38B antitrust threat puts Apple&#39;s in-app payment control at risk](https://appleinsider.com/articles/25/11/26/indias-38b-antitrust-threat-puts-apples-in-app-payment-control-at-risk?utm_source=rss)
- - [How the pieces are falling into place for Apple to create a truly compelling smart home display](https://appleinsider.com/articles/25/11/26/how-the-pieces-are-falling-into-place-for-apple-to-create-a-truly-compelling-smart-home-display?utm_source=rss)
- - [Amazon Workers Issue Warning About Company’s ‘All-Costs-Justified’ Approach to AI Development](https://www.wired.com/story/amazon-employees-open-letter-artificial-intelligence-layoffs/)<!-- TECH:END -->
+ - [Italy&#39;s competition regulator says it is scrutinizing a Meta policy excluding rival AI chatbots from WhatsApp, broadening the scope of a probe started in July &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251126/p25#a251126p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 11 Best Cooling Mattresses for Hot Sleepers &lpar;2025&rpar;](https://www.wired.com/gallery/best-cooling-mattress/)
  - [EU member states agree a position on draft child protection legislation without forcing Big Tech to find and remove CSAM; states now negotiate with EU lawmakers &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p22#a251126p22)
  - [Critically acclaimed puzzle game &#39;Blue Prince&#39; coming to Mac App Store soon](https://appleinsider.com/articles/25/11/26/critically-acclaimed-puzzle-game-blue-prince-coming-to-mac-app-store-soon?utm_source=rss)
  - [What the leaked AI executive order tells us about the Big Tech power grab](https://www.theverge.com/column/829938/leaked-ai-executive-order-analysis)
- - [The best gaming headset I tried this year is $30 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)
- - [OWC&#39;s Black Friday sale has Apple accessories, docks, storage &amp; more from $2.99](https://appleinsider.com/articles/25/11/26/owcs-black-friday-sale-has-apple-accessories-docks-storage-more-from-299?utm_source=rss)<!-- TECH:END -->
+ - [The best gaming headset I tried this year is $30 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

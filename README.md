@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
+ - 😝 [Does it herself](http://9gag.com/gag/amoOB62)
+ - 💣 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
  - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 👉 [How is this possible?](http://9gag.com/gag/a34zKQ3)<!-- MEMES:END -->
+ - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
 
 ---
 

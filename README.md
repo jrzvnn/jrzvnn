@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Disney now failing at their reverse move too.](http://9gag.com/gag/aByb0QD)
+ - 😝 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
  - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
+ - 💣 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 👉 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 💣 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
- - 😝 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 💣 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 😝 [Think before you share](http://9gag.com/gag/aoyGMEA)
+ - 👉 [The value of cross expertise collaboration](http://9gag.com/gag/aW4eERn)<!-- MEMES:END -->
 
 ---
 

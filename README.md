@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 💣 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 😝 [I believe him](http://9gag.com/gag/aLnOp4g)
- - 👉 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)<!-- MEMES:END -->
+ - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 😝 [The value of cross expertise collaboration](http://9gag.com/gag/aW4eERn)
+ - 💣 [Cop arrested man and caused him to miss his daughter&#39;s graduation because she was offended by his attitude](http://9gag.com/gag/a9y4nRZ)
+ - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 👉 [VPN is a blessing](http://9gag.com/gag/an705mz)<!-- MEMES:END -->
 
 ---
 

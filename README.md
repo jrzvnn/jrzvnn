@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
  - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 😝 [That&#39;ll Show &#39;Em!](http://9gag.com/gag/a9y4Ew1)
- - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 💣 [The word is Kakistocracy in case you are asking why](http://9gag.com/gag/aMV0x9G)
+ - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
 
 ---
 

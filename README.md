@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
  - 😝 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
+ - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
  - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 👉 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)<!-- MEMES:END -->
 
 ---
 

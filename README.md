@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)
+ - [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad)
  - [EU lawmakers agree on new rules that hold platforms like Meta and TikTok liable for financial scams that have been reported, requiring them to compensate banks &lpar;Politico&rpar;](http://www.techmeme.com/251127/p18#a251127p18)
  - [Amazon Is Having a Huge Black Friday Sale on Birdfy Smart Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeder-deals-black-friday-2025/)
- - [The UK proposes a &quot;no gain, no loss&quot; tax rule for crypto lending and liquidity pools in DeFi, deferring capital gains tax until a true economic disposal occurs &lpar;CoinDesk&rpar;](http://www.techmeme.com/251127/p17#a251127p17)
- - [This Quick Trick Cuts Turkey Cooking Time in Half](https://www.cnet.com/news/this-quick-trick-cuts-turkey-cooking-time-in-half/#ftag=CAD590a51e)
- - [A humanoid robot-shaped bubble is forming, China warns](https://www.theverge.com/news/831451/china-humanoid-robotics-bubble)<!-- TECH:END -->
+ - [The UK proposes a &quot;no gain, no loss&quot; tax rule for crypto lending and liquidity pools in DeFi, deferring capital gains tax until a true economic disposal occurs &lpar;CoinDesk&rpar;](http://www.techmeme.com/251127/p17#a251127p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

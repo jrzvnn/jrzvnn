@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
- - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 💣 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 😝 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
+ - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
+ - 👉 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)<!-- MEMES:END -->
 
 ---
 

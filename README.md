@@ -157,7 +157,7 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwanese prosecutors search Intel exec Lo Wen-jen&#39;s homes days after TSMC alleged he leaked sensitive info, suggesting the government is deepening its probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p11#a251127p11)
+ - [Taiwanese prosecutors search Intel executive Lo Wen-jen&#39;s homes days after TSMC alleged he leaked sensitive info, suggesting Taiwan is deepening its probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p11#a251127p11)
  - [5 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
  - [Plex Will Start Cracking Down on Free Remote Streaming Access This Week](https://www.wired.com/story/plex-cracking-down-free-remote-streaming-access/)
  - [OpenAI says a Mixpanel security incident on November 9 let a hacker access API account names and more, but not ChatGPT data, and it terminated its Mixpanel use &lpar;OpenAI&rpar;](http://www.techmeme.com/251127/p10#a251127p10)

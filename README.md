@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
- - [Jefferies: Tether, which said it held 116 tons of gold in September, is &quot;the largest holder of gold outside central banks&quot;, buying 26 tons in Q3 and 24 in Q2 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251127/p12#a251127p12)
- - [3 Best VPN for iPhone &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn-for-iphone/)
- - [Taiwanese prosecutors search Intel executive Lo Wen-jen&#39;s homes days after TSMC alleged he leaked sensitive info, suggesting Taiwan is deepening its probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p11#a251127p11)
- - [5 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)<!-- TECH:END -->
+ - [Reliance, Brookfield, and Digital Realty&#39;s joint venture Digital Connexion plans to invest $11B by 2030 to build a 1 GW data center in India&#39;s Visakhapatnam &lpar;Sanjai P R/Bloomberg&rpar;](http://www.techmeme.com/251127/p14#a251127p14)
+ - [My AI shopping assistants are stuck in the past](https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past)
+ - [Intel says star hire from TSMC didn&amp;#8217;t steal secrets](https://www.theverge.com/news/831353/intel-tsmc-wei-jen-lo-trade-secrets)
+ - [EU antitrust chief Teresa Ribera accuses the US of using &quot;blackmail&quot; to strong-arm the EU into watering down its tech rulebook during trade negotiations &lpar;Politico&rpar;](http://www.techmeme.com/251127/p13#a251127p13)
+ - [17 Best White Elephant Gifts &lpar;2025&rpar;: Coffee Pot Mug, Legos, Sushi Magnets, and More](https://www.wired.com/gallery/best-white-elephant-gifts-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

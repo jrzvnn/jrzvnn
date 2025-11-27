@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Best Alexa Speakers &lpar;2025&rpar;: Echo Dot Max, Echo Show 11, Echo Studio](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
+ - [China’s Alibaba brings removable batteries to the smart glasses race](https://www.theverge.com/news/831354/alibaba-quark-smart-glasses)
  - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025/)
  - [My favorite e-reader is at its lowest price ever for Black Friday](https://www.theverge.com/gadgets/828242/kobo-libra-colour-e-reader-black-friday-deal-sale-2025)
- - [Pluribus gets even more lonely — and dangerous — in episode 5](https://www.theverge.com/tech/829885/pluribus-episode-5-discussion-apple-tv)
- - [Reliance, Brookfield, and Digital Realty&#39;s joint venture Digital Connexion plans to invest $11B by 2030 to build a 1 GW data center in India&#39;s Visakhapatnam &lpar;Sanjai P R/Bloomberg&rpar;](http://www.techmeme.com/251127/p14#a251127p14)
- - [My AI shopping assistants are stuck in the past](https://www.theverge.com/ai-artificial-intelligence/830450/ai-shopping-assistants-are-stuck-in-the-past)<!-- TECH:END -->
+ - [Pluribus gets even more lonely — and dangerous — in episode 5](https://www.theverge.com/tech/829885/pluribus-episode-5-discussion-apple-tv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

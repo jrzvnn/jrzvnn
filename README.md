@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jefferies: Tether, which said it held 116 tons of gold in September, is &quot;the largest holder of gold outside central banks&quot;, buying 26 tons in Q3 and 24 in Q2 &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/251127/p12#a251127p12)
+ - [3 Best VPN for iPhone &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-vpn-for-iphone/)
  - [Taiwanese prosecutors search Intel executive Lo Wen-jen&#39;s homes days after TSMC alleged he leaked sensitive info, suggesting Taiwan is deepening its probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p11#a251127p11)
  - [5 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
- - [Plex Will Start Cracking Down on Free Remote Streaming Access This Week](https://www.wired.com/story/plex-cracking-down-free-remote-streaming-access/)
- - [OpenAI says a Mixpanel security incident on November 9 let a hacker access API account names and more, but not ChatGPT data, and it terminated its Mixpanel use &lpar;OpenAI&rpar;](http://www.techmeme.com/251127/p10#a251127p10)
- - [Best Side-Sleeper Mattress 2025: Picked by a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)<!-- TECH:END -->
+ - [Plex Will Start Cracking Down on Free Remote Streaming Access This Week](https://www.wired.com/story/plex-cracking-down-free-remote-streaming-access/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail how Anduril&#39;s fast-moving approach with its defense tech led to setbacks; Ukraine stopped using Anduril&#39;s Altius drones in 2024 due to problems &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251127/p20#a251127p20)
+ - [The 40 Best Movies on HBO Max Right Now &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
  - [Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday](https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale)
  - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
- - [The USPTO issues new guidelines clarifying that generative AI is considered a tool that assists human inventors and cannot itself be considered an inventor &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251127/p19#a251127p19)
- - [10 Best Thanksgiving Movies to Watch After Your Feast](https://www.cnet.com/tech/services-and-software/10-best-thanksgiving-movies-to-watch-after-your-feast/#ftag=CAD590a51e)
- - [Google&#39;s Nest Learning Thermostat Slashed My Heating Bill, and It&#39;s $50 Off for Black Friday](https://www.cnet.com/deals/googles-nest-learning-thermostat-slashed-my-heating-bill-and-its-50-off-for-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The USPTO issues new guidelines clarifying that generative AI is considered a tool that assists human inventors and cannot itself be considered an inventor &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251127/p19#a251127p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 😝 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
- - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 😝 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)
+ - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 👉 [Cop arrested man and caused him to miss his daughter&#39;s graduation because she was offended by his attitude](http://9gag.com/gag/a9y4nRZ)<!-- MEMES:END -->
 
 ---
 

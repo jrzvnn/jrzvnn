@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 😝 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)
- - 👉 [How fg get away with this lol](http://9gag.com/gag/abALrnB)<!-- MEMES:END -->
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 💣 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 😝 [I believe him](http://9gag.com/gag/aLnOp4g)
+ - 👉 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)<!-- MEMES:END -->
 
 ---
 

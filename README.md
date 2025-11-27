@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 💣 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
+ - 😝 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 👉 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
 
 ---
 

@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
  - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
  - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
 

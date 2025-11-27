@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
  - [The USPTO issues new guidelines clarifying that generative AI is considered a tool that assists human inventors and cannot itself be considered an inventor &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251127/p19#a251127p19)
  - [Google&#39;s Nest Learning Thermostat Slashed My Heating Bill, and It&#39;s $50 Off for Black Friday](https://www.cnet.com/deals/googles-nest-learning-thermostat-slashed-my-heating-bill-and-its-50-off-for-black-friday/#ftag=CAD590a51e)
  - [Europa League Soccer: Livestream Nottingham Forest vs. Malmö FF From Anywhere](https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-nottingham-forest-vs-malmo-ff-live-from-anywhere/#ftag=CAD590a51e)
- - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)
- - [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad)<!-- TECH:END -->
+ - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

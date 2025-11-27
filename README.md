@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This $1,400 Steam Machine alternative houses a tiny desktop GPU](https://www.theverge.com/games/831106/minisforum-g1-pro-mini-pc-price-release-date)
- - [Dell, HP, and other tech companies are warning of potential memory-chip supply shortages in the coming year due to demand from the buildout of AI infrastructure &lpar;Bloomberg&rpar;](http://www.techmeme.com/251126/p29#a251126p29)
- - [Strong iPhone 17 sales may push Apple ahead of Samsung this year](https://www.theverge.com/news/831048/apple-iphone-17-samsung-galaxy-s25-top-sales-2025)
- - [Black Friday deals: Save up to 52% on monitor upgrades for your Mac](https://appleinsider.com/articles/25/11/26/black-friday-deals-save-up-to-52-on-monitor-upgrades-for-your-mac?utm_source=rss)
- - [These prebuilt PCs are about to cost more due to rising RAM prices](https://www.theverge.com/news/831032/cyberpowerpc-maingear-ram-price-increases-pc-gaming)<!-- TECH:END -->
+ - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [Intel denies allegations in a TSMC lawsuit that VP Wei-Jen Lo likely leaked trade secrets after retiring from TSMC and joining Intel &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p30#a251126p30)
+ - [The best Black Friday deals we’ve found on TVs, laptops, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
+ - [Insta360 Go Ultra review: big power in tiny form](https://appleinsider.com/articles/25/11/27/insta360-go-ultra-review-big-power-in-tiny-form?utm_source=rss)
+ - [Stranger Things 5 begins with a frantic race to the finish line](https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

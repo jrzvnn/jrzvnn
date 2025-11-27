@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
  - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
  - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 😝 [They can be amazed](http://9gag.com/gag/aMV0KEW)
+ - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
  - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
 
 ---

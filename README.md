@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An MIT study finds that AI can replace 11.7% of the US labor market, or ~$1.2T in wages, based on the &quot;Iceberg Index&quot;, which measures job automation potential &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251127/p7#a251127p7)
+ - [30% Off Canon Promo Codes | November 2025](https://www.wired.com/story/canon-promo-code/)
+ - [Thanksgiving Flash Deal: Mac mini M4 24GB sinks to record low $649](https://appleinsider.com/articles/25/11/27/thanksgiving-flash-deal-mac-mini-m4-24gb-sinks-to-record-low-649?utm_source=rss)
  - [50% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
- - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)
- - [20% Off Home Depot Promo Code | November 2025](https://www.wired.com/story/home-depot-promo-code/)
- - [Clover Security, whose AI agents plug into developer platforms like GitHub to predict and detect security flaws, raised $36M led by Notable Capital and Team8 &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/251127/p6#a251127p6)
- - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
+ - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

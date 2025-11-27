@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [San Francisco Compute, which provides a marketplace for AI computing capacity, raised a $40M Series A led by DCVC and Wing Venture Capital at a $300M valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/251127/p2#a251127p2)
  - [Sources: Alibaba and ByteDance are among the top Chinese companies training their latest LLMs in Southeast Asian data centers to access Nvidia&#39;s AI chips &lpar;Financial Times&rpar;](http://www.techmeme.com/251127/p1#a251127p1)
+ - [Apple Desperately Needs to Launch a Foldable iPhone Flip Next Year](https://www.cnet.com/tech/mobile/apple-desperately-needs-to-launch-a-foldable-iphone-flip-next-year/#ftag=CAD590a51e)
  - [Point One Navigation, which develops precise location tech, raised a $35M Series C led by Khosla Ventures, a source says at a post-money valuation of $230M &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/251126/p34#a251126p34)
- - [Happy Thanksgiving 2025 from AppleInsider](https://appleinsider.com/articles/25/11/27/happy-thanksgiving-2025-from-appleinsider?utm_source=rss)
- - [Coverbase, an AI procurement and risk platform provider, raised a $16.5M Series A led by Canapi Ventures, bringing its total funding to $20M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251126/p33#a251126p33)
- - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-27/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Happy Thanksgiving 2025 from AppleInsider](https://appleinsider.com/articles/25/11/27/happy-thanksgiving-2025-from-appleinsider?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

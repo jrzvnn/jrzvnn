@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The USPTO issues new guidelines clarifying that generative AI is considered a tool that assists human inventors and cannot itself be considered an inventor &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251127/p19#a251127p19)
- - [10 Best Thanksgiving Movies to Watch After Your Feast](https://www.cnet.com/tech/services-and-software/10-best-thanksgiving-movies-to-watch-after-your-feast/#ftag=CAD590a51e)
  - [Google&#39;s Nest Learning Thermostat Slashed My Heating Bill, and It&#39;s $50 Off for Black Friday](https://www.cnet.com/deals/googles-nest-learning-thermostat-slashed-my-heating-bill-and-its-50-off-for-black-friday/#ftag=CAD590a51e)
  - [Europa League Soccer: Livestream Nottingham Forest vs. Malmö FF From Anywhere](https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-nottingham-forest-vs-malmo-ff-live-from-anywhere/#ftag=CAD590a51e)
- - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)<!-- TECH:END -->
+ - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)
+ - [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

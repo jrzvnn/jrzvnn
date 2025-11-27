@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [VPN is a blessing](http://9gag.com/gag/an705mz)
- - 😝 [Little angel](http://9gag.com/gag/a9y4EvZ)
- - 💣 [Stand back ladies, men at work](http://9gag.com/gag/aO8n39E)
- - 😝 [Think before you share](http://9gag.com/gag/aoyGMEA)
- - 👉 [Two friends meet each other after 20 years](http://9gag.com/gag/a2vA72E)<!-- MEMES:END -->
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 😝 [They can be amazed](http://9gag.com/gag/aMV0KEW)
+ - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
 
 ---
 

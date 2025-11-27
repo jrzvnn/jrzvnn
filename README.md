@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Germany-based Quantum Systems, which sells surveillance drones that are being used by Ukraine, raised €180M, tripling its valuation to €3B since May &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251127/p21#a251127p21)
  - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #901](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-901/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 28 #635](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-28-635/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 28, #1623](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-28-1623/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025)
+ - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
+ - [Best MacBook Pro Black Friday deals drop prices to as low as $1,399 for M5 14-inch](https://appleinsider.com/articles/25/11/27/best-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-1399-for-m5-14-inch?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

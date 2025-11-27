@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why can’t ChatGPT tell time?](https://www.theverge.com/report/829137/openai-chatgpt-time-date)
- - [T-Mobile&#39;s best iPhone Black Friday deals: Get 4 iPhone 17 devices when you switch](https://appleinsider.com/articles/25/11/27/t-mobiles-best-iphone-black-friday-deals-get-4-iphone-17-devices-when-you-switch?utm_source=rss)
- - [Around 500 million PCs are holding off upgrading to Windows 11, says Dell](https://www.theverge.com/news/831364/dell-windows-11-upgrade-numbers-earnings-call-q3-2025)
- - [A profile of &quot;Rey&quot;, the admin of cybercriminal group Scattered LAPSUS$ Hunters, a 15-year-old from Amman, Jordan who cooperated with European police since June &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251127/p15#a251127p15)
- - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
+ - [Kuxiu’s solid-state power bank now has more capacity and faster wireless charging](https://www.theverge.com/news/831365/kuxiu-magsafe-semi-solid-state-wireless-power-bank-s3)
+ - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
+ - [How to help your parents with their tech over the holidays](https://www.theverge.com/tech/827812/tech-support-family-thanksgiving-how-to)
+ - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
+ - [Why can’t ChatGPT tell time?](https://www.theverge.com/report/829137/openai-chatgpt-time-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

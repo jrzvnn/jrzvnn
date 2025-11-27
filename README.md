@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [50% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
+ - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)
+ - [20% Off Home Depot Promo Code | November 2025](https://www.wired.com/story/home-depot-promo-code/)
  - [Clover Security, whose AI agents plug into developer platforms like GitHub to predict and detect security flaws, raised $36M led by Notable Capital and Team8 &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/251127/p6#a251127p6)
- - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
- - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)
- - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [South Korean crypto exchange Upbit suspended deposits and withdrawals after saying $37M worth of Solana tokens were moved to an unauthorized external wallet &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251127/p5#a251127p5)<!-- TECH:END -->
+ - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

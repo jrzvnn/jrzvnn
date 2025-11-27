@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Best Alexa Speakers &lpar;2025&rpar;: Echo Dot Max, Echo Show 11, Echo Studio](https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers/)
- - [China’s Alibaba brings removable batteries to the smart glasses race](https://www.theverge.com/news/831354/alibaba-quark-smart-glasses)
- - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025/)
- - [My favorite e-reader is at its lowest price ever for Black Friday](https://www.theverge.com/gadgets/828242/kobo-libra-colour-e-reader-black-friday-deal-sale-2025)
- - [Pluribus gets even more lonely — and dangerous — in episode 5](https://www.theverge.com/tech/829885/pluribus-episode-5-discussion-apple-tv)<!-- TECH:END -->
+ - [Around 500 million PCs are holding off upgrading to Windows 11, says Dell](https://www.theverge.com/news/831364/dell-windows-11-upgrade-numbers-earnings-call-q3-2025)
+ - [A profile of &quot;Rey&quot;, the admin of cybercriminal group Scattered LAPSUS$ Hunters, a 15-year-old from Amman, Jordan who cooperated with European police since June &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251127/p15#a251127p15)
+ - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
+ - [Black Friday Temu coupon knocks 30% off $39+](https://appleinsider.com/articles/25/11/27/black-friday-temu-coupon-knocks-30-off-39?utm_source=rss)
+ - [Joachim Trier finds his place](https://www.theverge.com/entertainment/830079/sentimental-value-joachim-trier-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

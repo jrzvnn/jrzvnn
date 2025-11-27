@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Six years after EU law enforcement raids shut down German cyberlocker Share-Online, a German court sentences its operator to a two-year suspended prison term &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251127/p8#a251127p8)
  - [Thanksgiving Flash Deal: Mac mini M4 24GB sinks to record low $649](https://appleinsider.com/articles/25/11/27/thanksgiving-flash-deal-mac-mini-m4-24gb-sinks-to-record-low-649?utm_source=rss)
  - [An MIT study finds that AI can replace 11.7% of the US labor market, or ~$1.2T in wages, based on the &quot;Iceberg Index&quot;, which measures job automation potential &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/251127/p7#a251127p7)
  - [30% Off Canon Promo Codes | November 2025](https://www.wired.com/story/canon-promo-code/)
- - [50% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)
- - [Dell Coupon Codes: 10% Off | November 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [50% Off Chewy Promo Code | November 2025](https://www.wired.com/story/chewy-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

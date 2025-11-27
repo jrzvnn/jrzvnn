@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [People have been accusing JC Staff of using AI for their animation. They are factually wrong.](http://9gag.com/gag/azxv1bp)
  - 😝 [Disney now failing at their reverse move too.](http://9gag.com/gag/aByb0QD)
  - 💣 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 👉 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)<!-- MEMES:END -->
+ - 😝 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
+ - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
 
 ---
 

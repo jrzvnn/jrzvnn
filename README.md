@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why can’t ChatGPT tell time?](https://www.theverge.com/report/829137/openai-chatgpt-time-date)
+ - [T-Mobile&#39;s best iPhone Black Friday deals: Get 4 iPhone 17 devices when you switch](https://appleinsider.com/articles/25/11/27/t-mobiles-best-iphone-black-friday-deals-get-4-iphone-17-devices-when-you-switch?utm_source=rss)
  - [Around 500 million PCs are holding off upgrading to Windows 11, says Dell](https://www.theverge.com/news/831364/dell-windows-11-upgrade-numbers-earnings-call-q3-2025)
  - [A profile of &quot;Rey&quot;, the admin of cybercriminal group Scattered LAPSUS$ Hunters, a 15-year-old from Amman, Jordan who cooperated with European police since June &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/251127/p15#a251127p15)
- - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)
- - [Black Friday Temu coupon knocks 30% off $39+](https://appleinsider.com/articles/25/11/27/black-friday-temu-coupon-knocks-30-off-39?utm_source=rss)
- - [Joachim Trier finds his place](https://www.theverge.com/entertainment/830079/sentimental-value-joachim-trier-interview)<!-- TECH:END -->
+ - [6 Best Smart Speakers &lpar;2025&rpar;: Alexa, Google Assistant, Siri](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

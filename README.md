@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco Compute, which provides a marketplace for AI computing capacity, raised a $40M Series A led by DCVC and Wing Venture Capital at a $300M valuation &lpar;Yuliya Chernova/Wall Street Journal&rpar;](http://www.techmeme.com/251127/p2#a251127p2)
- - [Sources: Alibaba and ByteDance are among the top Chinese companies training their latest LLMs in Southeast Asian data centers to access Nvidia&#39;s AI chips &lpar;Financial Times&rpar;](http://www.techmeme.com/251127/p1#a251127p1)
- - [Apple Desperately Needs to Launch a Foldable iPhone Flip Next Year](https://www.cnet.com/tech/mobile/apple-desperately-needs-to-launch-a-foldable-iphone-flip-next-year/#ftag=CAD590a51e)
- - [Point One Navigation, which develops precise location tech, raised a $35M Series C led by Khosla Ventures, a source says at a post-money valuation of $230M &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/251126/p34#a251126p34)
- - [Happy Thanksgiving 2025 from AppleInsider](https://appleinsider.com/articles/25/11/27/happy-thanksgiving-2025-from-appleinsider?utm_source=rss)<!-- TECH:END -->
+ - [Clover Security, whose AI agents plug into developer platforms like GitHub to predict and detect security flaws, raised $36M led by Notable Capital and Team8 &lpar;Sam Sabin/Axios&rpar;](http://www.techmeme.com/251127/p6#a251127p6)
+ - [20% Off LG Promo Code &amp; Coupons | November 2025](https://www.wired.com/story/lg-promo-code/)
+ - [1Password Coupon: Score a Free Trial in November](https://www.wired.com/story/1password-coupon/)
+ - [15% Off Dyson Promo Codes | November 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [South Korean crypto exchange Upbit suspended deposits and withdrawals after saying $37M worth of Solana tokens were moved to an unauthorized external wallet &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/251127/p5#a251127p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

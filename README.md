@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
  - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
  - 😝 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
+ - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)
  - 👉 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)<!-- MEMES:END -->
 
 ---

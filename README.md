@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
- - 👉 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)<!-- MEMES:END -->
+ - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 😝 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
+ - 💣 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 

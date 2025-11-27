@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
- - 😝 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
+ - 😝 [Pink! Pink! Pink!](http://9gag.com/gag/a34zRVv)
+ - 😝 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
  - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)
- - 👉 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)<!-- MEMES:END -->
+ - 😝 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)
+ - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)
- - [How Microsoft’s developers are using AI](https://www.theverge.com/tech/831379/microsoft-developer-ai-usage-stats-notepad)
- - [EU lawmakers agree on new rules that hold platforms like Meta and TikTok liable for financial scams that have been reported, requiring them to compensate banks &lpar;Politico&rpar;](http://www.techmeme.com/251127/p18#a251127p18)
- - [Amazon Is Having a Huge Black Friday Sale on Birdfy Smart Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeder-deals-black-friday-2025/)
- - [The UK proposes a &quot;no gain, no loss&quot; tax rule for crypto lending and liquidity pools in DeFi, deferring capital gains tax until a true economic disposal occurs &lpar;CoinDesk&rpar;](http://www.techmeme.com/251127/p17#a251127p17)<!-- TECH:END -->
+ - [The USPTO issues new guidelines clarifying that generative AI is considered a tool that assists human inventors and cannot itself be considered an inventor &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/251127/p19#a251127p19)
+ - [10 Best Thanksgiving Movies to Watch After Your Feast](https://www.cnet.com/tech/services-and-software/10-best-thanksgiving-movies-to-watch-after-your-feast/#ftag=CAD590a51e)
+ - [Google&#39;s Nest Learning Thermostat Slashed My Heating Bill, and It&#39;s $50 Off for Black Friday](https://www.cnet.com/deals/googles-nest-learning-thermostat-slashed-my-heating-bill-and-its-50-off-for-black-friday/#ftag=CAD590a51e)
+ - [Europa League Soccer: Livestream Nottingham Forest vs. Malmö FF From Anywhere](https://www.cnet.com/tech/services-and-software/europa-league-soccer-livestream-nottingham-forest-vs-malmo-ff-live-from-anywhere/#ftag=CAD590a51e)
+ - [Philips Hue’s Festavia string lights are up to $158 off just in time for Christmas](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

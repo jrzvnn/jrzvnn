@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Everything is vodka in Poland](http://9gag.com/gag/aKGXjo1)
+ - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
  - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
  - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
- - 👉 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)<!-- MEMES:END -->
+ - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
+ - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
 
 ---
 

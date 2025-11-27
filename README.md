@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
  - [Germany-based Quantum Systems, which sells surveillance drones that are being used by Ukraine, raised €180M, tripling its valuation to €3B since May &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251127/p21#a251127p21)
  - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)
  - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 28, #901](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-28-901/#ftag=CAD590a51e)
- - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 28 #635](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-28-635/#ftag=CAD590a51e)
- - [Today&#39;s Wordle Hints, Answer and Help for Nov. 28, #1623](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-nov-28-1623/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 28 #635](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-28-635/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

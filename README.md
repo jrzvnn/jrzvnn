@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A humanoid robot-shaped bubble is forming, China warns](https://www.theverge.com/news/831451/china-humanoid-robotics-bubble)
- - [Best Black Friday iPhone deals: Save up to $1,899 on iPhone 17 Pro, Apple Watch, iPad bundle; iPhone Air as low as $0/mo](https://appleinsider.com/articles/25/11/27/best-black-friday-iphone-deals-save-up-to-1899-on-iphone-17-pro-apple-watch-ipad-bundle-iphone-air-as-low-as-0mo?utm_source=rss)
- - [Analysis: since 2023, data center power demands have delayed 15 coal plants&#39; retirements; the Trump administration has ordered two power plants to remain open &lpar;Ariel Wittenberg/Politico&rpar;](http://www.techmeme.com/251127/p16#a251127p16)
- - [Kuxiu’s solid-state power bank now has more capacity and faster wireless charging](https://www.theverge.com/news/831365/kuxiu-magsafe-semi-solid-state-wireless-power-bank-s3)
- - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025/)<!-- TECH:END -->
+ - [EU lawmakers agree on new rules that hold platforms like Meta and TikTok liable for financial scams that have been reported, requiring them to compensate banks &lpar;Politico&rpar;](http://www.techmeme.com/251127/p18#a251127p18)
+ - [Amazon Is Having a Huge Black Friday Sale on Birdfy Smart Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeder-deals-black-friday-2025/)
+ - [The UK proposes a &quot;no gain, no loss&quot; tax rule for crypto lending and liquidity pools in DeFi, deferring capital gains tax until a true economic disposal occurs &lpar;CoinDesk&rpar;](http://www.techmeme.com/251127/p17#a251127p17)
+ - [Watch how Apple made its new puppet-packed holiday ad](https://www.theverge.com/news/831431/apple-a-critter-carol-holiday-ad-puppets-practical-effects)
+ - [A humanoid robot-shaped bubble is forming, China warns](https://www.theverge.com/news/831451/china-humanoid-robotics-bubble)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Blackstone invests $50M into compliance agent-focused Norm Ai, which is launching an independent law firm offering &quot;AI-native legal services&quot; &lpar;Norm Ai&rpar;](http://www.techmeme.com/251126/p32#a251126p32)
+ - [Sources: ServiceNow is in advanced talks to buy corporate data management and security startup Veza for $1B+ in a deal as early as next week &lpar;The Information&rpar;](http://www.techmeme.com/251126/p31#a251126p31)
+ - [Best Peloton Alternatives if You’re Looking for Other Solid Choices](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/#ftag=CAD590a51e)
  - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
- - [Intel denies allegations in a TSMC lawsuit that VP Wei-Jen Lo likely leaked trade secrets after retiring from TSMC and joining Intel &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p30#a251126p30)
- - [The best Black Friday deals we’ve found on TVs, laptops, and more](https://www.theverge.com/tech/814345/black-friday-best-early-deals-2025)
- - [Insta360 Go Ultra review: big power in tiny form](https://appleinsider.com/articles/25/11/27/insta360-go-ultra-review-big-power-in-tiny-form?utm_source=rss)
- - [Stranger Things 5 begins with a frantic race to the finish line](https://www.theverge.com/entertainment/830518/stranger-things-5-review-part-one)<!-- TECH:END -->
+ - [Intel denies allegations in a TSMC lawsuit that VP Wei-Jen Lo likely leaked trade secrets after retiring from TSMC and joining Intel &lpar;Reuters&rpar;](http://www.techmeme.com/251126/p30#a251126p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

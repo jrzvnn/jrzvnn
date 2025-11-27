@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Taiwanese prosecutors search Intel exec Lo Wen-jen&#39;s homes days after TSMC alleged he leaked sensitive info, suggesting the government is deepening its probe &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p11#a251127p11)
+ - [5 Best Smart Glasses &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-smart-glasses/)
+ - [Plex Will Start Cracking Down on Free Remote Streaming Access This Week](https://www.wired.com/story/plex-cracking-down-free-remote-streaming-access/)
  - [OpenAI says a Mixpanel security incident on November 9 let a hacker access API account names and more, but not ChatGPT data, and it terminated its Mixpanel use &lpar;OpenAI&rpar;](http://www.techmeme.com/251127/p10#a251127p10)
- - [Best Side-Sleeper Mattress 2025: Picked by a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)
- - [Alibaba starts selling Quark S1, its first smart glasses powered by its Qwen AI models, for ~$537 in China, and plans to release international versions in 2026 &lpar;Bloomberg&rpar;](http://www.techmeme.com/251127/p9#a251127p9)
- - [The Best Artificial Christmas Trees, as Blind-Judged By Interior Designers](https://www.wired.com/gallery/best-judged-fake-christmas-trees/)
- - [Six years after EU law enforcement raids shut down German cyberlocker Share-Online, a German court sentences its operator to a two-year suspended prison term &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/251127/p8#a251127p8)<!-- TECH:END -->
+ - [Best Side-Sleeper Mattress 2025: Picked by a Sleep Science Coach](https://www.wired.com/gallery/best-mattress-for-side-sleepers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

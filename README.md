@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When you apply job at 9gag](http://9gag.com/gag/a1m8o6P)
- - 😝 [Does it herself](http://9gag.com/gag/amoOB62)
- - 💣 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
+ - 😝 [Don&#39;t be the first one to sleep.....](http://9gag.com/gag/axyezE2)
  - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 💣 [How fg get away with this lol](http://9gag.com/gag/abALrnB)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
 
 ---
 

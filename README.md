@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
- - 💣 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
+ - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
+ - 👉 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)<!-- MEMES:END -->
 
 ---
 

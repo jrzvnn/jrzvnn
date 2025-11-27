@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 😝 [The word is Kakistocracy in case you are asking why](http://9gag.com/gag/aMV0x9G)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
  - 😝 [They can be amazed](http://9gag.com/gag/aMV0KEW)
- - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 

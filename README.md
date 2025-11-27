@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Ray-Ban Meta smart glasses are at their best-ever price for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025)
  - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
  - [Best MacBook Pro Black Friday deals drop prices to as low as $1,399 for M5 14-inch](https://appleinsider.com/articles/25/11/27/best-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-1399-for-m5-14-inch?utm_source=rss)
  - [Sources detail how Anduril&#39;s fast-moving approach with its defense tech led to setbacks; Ukraine stopped using Anduril&#39;s Altius drones in 2024 due to problems &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251127/p20#a251127p20)
- - [The 40 Best Movies on HBO Max Right Now &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)
- - [Dreame’s X40 Ultra is arguably the best robovac deal you can grab for Black Friday](https://www.theverge.com/gadgets/829006/dreame-x40-ultra-black-friday-2025-deal-sale)<!-- TECH:END -->
+ - [The 40 Best Movies on HBO Max Right Now &lpar;December 2025&rpar;](https://www.wired.com/story/best-movies-hbo-max-right-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

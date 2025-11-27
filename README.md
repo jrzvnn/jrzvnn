@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Happy Thanksgiving 2025 from AppleInsider](https://appleinsider.com/articles/25/11/27/happy-thanksgiving-2025-from-appleinsider?utm_source=rss)
  - [Coverbase, an AI procurement and risk platform provider, raised a $16.5M Series A led by Canapi Ventures, bringing its total funding to $20M &lpar;Mary Ann Azevedo/Crunchbase News&rpar;](http://www.techmeme.com/251126/p33#a251126p33)
- - [Blackstone invests $50M into compliance agent-focused Norm Ai, which is launching an independent law firm offering &quot;AI-native legal services&quot; &lpar;Norm Ai&rpar;](http://www.techmeme.com/251126/p32#a251126p32)
- - [Sources: ServiceNow is in advanced talks to buy corporate data management and security startup Veza for $1B+ in a deal as early as next week &lpar;The Information&rpar;](http://www.techmeme.com/251126/p31#a251126p31)
- - [Best Peloton Alternatives if You’re Looking for Other Solid Choices](https://www.cnet.com/health/fitness/best-peloton-alternatives-if-youre-looking-for-other-solid-choices/#ftag=CAD590a51e)
- - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [Today&#39;s NYT Mini Crossword Answers for Thursday, Nov. 27](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-thursday-nov-27/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 27, #430](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-27-430/#ftag=CAD590a51e)
+ - [Blackstone invests $50M into compliance agent-focused Norm Ai, which is launching an independent law firm offering &quot;AI-native legal services&quot; &lpar;Norm Ai&rpar;](http://www.techmeme.com/251126/p32#a251126p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

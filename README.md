@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Not having Malevola romance option was the only thing I didn&#39;t like about Dispatch](http://9gag.com/gag/aGyrZ57)
+ - 😝 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)
+ - 😝 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)
+ - 💣 [**What kind of question is that?**](http://9gag.com/gag/axye1XK)
  - 😝 [Better than England &lpar;@WolfClant&rpar;](http://9gag.com/gag/awy9AYy)
- - 💣 [Disney now failing at their reverse move too.](http://9gag.com/gag/aByb0QD)
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 👉 [Nasa breeding practice in space](http://9gag.com/gag/aryDGAV)<!-- MEMES:END -->
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 

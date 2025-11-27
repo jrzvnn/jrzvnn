@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Just Asking](http://9gag.com/gag/agmp5Wq)
- - 😝 [You need to see this again degenerates. F u and see u tmrw](http://9gag.com/gag/axye9Db)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [You might like this 14h satisfying honest work &lpar;stop motion included&rpar;](http://9gag.com/gag/an7090B)
- - 👉 [Cop arrested man and caused him to miss his daughter&#39;s graduation because she was offended by his attitude](http://9gag.com/gag/a9y4nRZ)<!-- MEMES:END -->
+ - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 💣 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
+ - 😝 [Tom the horse who pretends to be dead so that nobody can ride him.](http://9gag.com/gag/a9y4n3j)
+ - 👉 [It was worth it if he gets to hit](http://9gag.com/gag/awy9AX1)<!-- MEMES:END -->
 
 ---
 

@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 😝 [Just be a migrant duh](http://9gag.com/gag/aoyG52X)
- - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 💣 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 😝 [I believe him](http://9gag.com/gag/aLnOp4g)
  - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
 
 ---

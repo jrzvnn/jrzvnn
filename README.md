@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
  - 😝 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
  - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 😝 [Brrrrrrrrt](http://9gag.com/gag/a6ZeqMb)
- - 👉 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)<!-- MEMES:END -->
+ - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 👉 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)<!-- MEMES:END -->
 
 ---
 

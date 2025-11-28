@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic CEO Tim Sweeney says Steam should drop its ‘Made with AI’ tags](https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai)
- - [17 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)
- - [Meituan reports Q3 revenue up 2% to $13.4B and a $2.3B adjusted net loss, worse than $1.9B est., its first loss since 2022, amid a price war with JD and Alibaba &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251128/p10#a251128p10)
- - [The Best Amazon Device and Kindle Black Friday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025/)
- - [Save up to 48% with Aqara Black Friday deals on Apple Home smart locks &amp; cameras](https://appleinsider.com/articles/25/11/28/save-up-to-48-with-aqara-black-friday-deals-on-apple-home-smart-locks-cameras?utm_source=rss)<!-- TECH:END -->
+ - [Some of our favorite Blu-rays are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/829057/best-4k-blu-ray-uhd-movies-black-friday-deal-sale-2025)
+ - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
+ - [The 150 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Cozy Earth&#39;s Best Black Friday Sales on Products We Love &lpar;2025&rpar;](https://www.wired.com/story/cozy-earth-black-friday-sale-2025/)
+ - [Sora and Nano Banana Pro throttled amid soaring demand](https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

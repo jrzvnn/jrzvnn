@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China&#39;s top economic planning agency warns about the risk of a bubble forming in the booming humanoid robotics industry; 150+ manufacturers operate in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p1#a251128p1)
  - [Black Friday: Save up to $600 on MacBook Air, MacBook Pro, iPad Air with Expercom Apple deals](https://appleinsider.com/articles/25/11/28/black-friday-save-up-to-600-on-macbook-air-macbook-pro-ipad-air-with-expercom-apple-deals?utm_source=rss)
  - [Sources: South Korean authorities suspect North Korean hacking group Lazarus of the $30M+ Upbit hack, which used methods resembling those of a 2019 Upbit theft &lpar;Kang Yoon-seung/Yonhap News Agency&rpar;](http://www.techmeme.com/251127/p25#a251127p25)
  - [Sources: Vietnam&#39;s recent Huawei and ZTE 5G equipment deals bolster its ties with China following US tariffs, but could undermine US trust in Vietnam&#39;s networks &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251127/p24#a251127p24)
- - [Save $330 on Apple&#39;s loaded 15-inch MacBook Air &lpar;M4, 32GB RAM, 1TB&rpar; for Black Friday](https://appleinsider.com/articles/25/11/28/save-330-on-apples-loaded-15-inch-macbook-air-m4-32gb-ram-1tb-for-black-friday?utm_source=rss)
- - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $330 on Apple&#39;s loaded 15-inch MacBook Air &lpar;M4, 32GB RAM, 1TB&rpar; for Black Friday](https://appleinsider.com/articles/25/11/28/save-330-on-apples-loaded-15-inch-macbook-air-m4-32gb-ram-1tb-for-black-friday?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

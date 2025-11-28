@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 💣 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
  - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 

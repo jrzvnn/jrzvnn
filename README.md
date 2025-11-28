@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
  - [Apple Watch Series 11 drops to $339 with Black Friday deal](https://appleinsider.com/articles/25/11/27/apple-watch-series-11-drops-to-339-with-thanksgiving-deal?utm_source=rss)
  - [Intel could finally return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
  - [Prime Intellect debuts INTELLECT-3, an RL-trained 106B parameter open source MOE model it claims outperforms larger models across math, code, science, reasoning &lpar;Prime Intellect&rpar;](http://www.techmeme.com/251128/p17#a251128p17)
- - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
- - [The 170 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

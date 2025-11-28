@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Wise policeman](http://9gag.com/gag/a4PBE86)
- - 😝 [Thanks to whoever edited this](http://9gag.com/gag/aAyLbn0)
- - 💣 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)
- - 😝 [Zesty boy got in line real quick](http://9gag.com/gag/aAyLGdE)
- - 👉 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)<!-- MEMES:END -->
+ - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [Check this thing I found....*](http://9gag.com/gag/aPAVZGg)
+ - 👉 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)<!-- MEMES:END -->
 
 ---
 

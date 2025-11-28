@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tim Cook isn&#39;t retiring in 2026, Pixel gets an iPhone feature, &amp; accessibility talk on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/28/tim-cook-isnt-retiring-in-2026-pixel-gets-an-iphone-feature-accessibility-talk-on-the-appleinsider-podcast?utm_source=rss)
+ - [Black Friday Deals Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
  - [15 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
  - [9 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [Here are my favorite Black Friday TV deals from Samsung, Sony, and others](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
- - [Our Favorite Unbound Merino Wool T-Shirts Are on Sale for Black Friday](https://www.wired.com/story/unbound-merino-black-friday-sale-2025/)
- - [The Best Deals From Huckberry’s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)<!-- TECH:END -->
+ - [Here are my favorite Black Friday TV deals from Samsung, Sony, and others](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

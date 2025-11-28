@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
- - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
+ - 😝 [Stand back ladies, men at work](http://9gag.com/gag/aO8n39E)
+ - 😝 [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
+ - 💣 [Think before you share](http://9gag.com/gag/aoyGMEA)
+ - 😝 [Two friends meet each other after 20 years](http://9gag.com/gag/a2vA72E)
+ - 👉 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)<!-- MEMES:END -->
 
 ---
 

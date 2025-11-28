@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Valid crashout](https://www.reddit.com/r/funny/comments/1p93p8v/valid_crashout/)
  - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 💣 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
  - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 👉 [Post a pic of The game you played](http://9gag.com/gag/aryDm1V)<!-- MEMES:END -->
+ - 💣 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 👉 [Peaceful culture](http://9gag.com/gag/aE0jpQG)<!-- MEMES:END -->
 
 ---
 

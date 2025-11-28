@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Surprise: The BrickBoy kit for the Lego Game Boy uses floating magnets instead of switches](https://www.theverge.com/gadgets/832654/brickboy-kickstarter-lego-game-boy-magnet-buttons)
  - [The 177 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [I Bet You Won&#39;t Be Able to Stop After One Episode of Netflix&#39;s Addictive New Thriller](https://www.cnet.com/tech/services-and-software/i-bet-you-wont-be-able-to-stop-after-one-episode-of-netflixs-addictive-new-thriller/#ftag=CAD590a51e)
  - [Cyber Monday Mac mini deals drop M4 models to as low as $479](https://appleinsider.com/articles/25/11/28/cyber-monday-mac-mini-deals-drop-m4-models-to-as-low-as-479?utm_source=rss)
- - [Black Friday deals that are most popular with Verge readers](https://www.theverge.com/gadgets/830017/black-friday-ipod-favorite-deals-sales)
- - [DeepSeek says its new DeepSeekMath-V2 model got gold-medal level status on the International Mathematical Olympiad 2025 and Chinese Mathematical Olympiad 2024 &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251128/p19#a251128p19)
- - [You can get a four-pack of AirTags for just over $60, the lowest price ever](https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025)<!-- TECH:END -->
+ - [Black Friday deals that are most popular with Verge readers](https://www.theverge.com/gadgets/830017/black-friday-ipod-favorite-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

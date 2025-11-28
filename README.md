@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Wise policeman](http://9gag.com/gag/a4PBE86)
  - 😝 [Thanks to whoever edited this](http://9gag.com/gag/aAyLbn0)
  - 💣 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)
- - 😝 [Teach them young!](http://9gag.com/gag/a5Q91KL)
+ - 😝 [Zesty boy got in line real quick](http://9gag.com/gag/aAyLGdE)
  - 👉 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)<!-- MEMES:END -->
 
 ---

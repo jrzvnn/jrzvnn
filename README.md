@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Deals Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
- - [CME Group says trading on its markets, including the S&amp;P 500 and Nasdaq, was halted on November 28 due to a cooling issue at CyrusOne&#39;s data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p8#a251128p8)
- - [The best Black Friday deals on AirPods, AirTags, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
- - [The Nothing &lpar;1&rpar; Headset Is Discounted for Black Friday](https://www.wired.com/story/nothing-1-headset-deal-1125-1/)
- - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-black-friday-deals-2025-1/)<!-- TECH:END -->
+ - [Our Favorite Unbound Merino Wool T-Shirts Are on Sale for Black Friday](https://www.wired.com/story/unbound-merino-black-friday-sale-2025/)
+ - [The Best Deals From Huckberry’s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)
+ - [Don&#39;t Get Suckered by Black Friday Laptop Deals. Just Get the MacBook Air &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-black-friday-deal-2025/)
+ - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025/)
+ - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

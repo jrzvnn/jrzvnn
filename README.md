@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 💣 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
  - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
+ - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
 
 ---
 

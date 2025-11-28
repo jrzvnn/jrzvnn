@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bose, Sony, and Apple headphones are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)
+ - [The 159 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
  - [The Oura Ring 4 is still at its lowest price ever for Black Friday](https://www.theverge.com/gadgets/832303/oura-ring-4-smart-wearable-black-friday-deal-sale-2025)
  - [Hallmark’s Mario and Toad Christmas ornaments are less than $10 for Black Friday](https://www.theverge.com/gadgets/832239/black-friday-mario-toad-nintendo-christmas-ornaments-deal-sale-2025)
- - [Best Vacuum Cleaner Black Friday Deals &lpar;2025&rpar;: Dyson, Bissell, Eufy](https://www.wired.com/story/vacuum-cleaner-black-friday-deals/)
- - [Apple&amp;#8217;s most affordable iPad is over 20 percent off for Black Friday](https://www.theverge.com/gadgets/832251/apple-ipad-air-mini-pro-black-friday-deal-sale-2025)
- - [Best MacBook Pro Black Friday deals drop prices to as low as $1,349 for M5 14-inch](https://appleinsider.com/articles/25/11/27/best-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-1399-for-m5-14-inch?utm_source=rss)<!-- TECH:END -->
+ - [Best Vacuum Cleaner Black Friday Deals &lpar;2025&rpar;: Dyson, Bissell, Eufy](https://www.wired.com/story/vacuum-cleaner-black-friday-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

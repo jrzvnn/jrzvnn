@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
- - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
+ - 😝 [Wise policeman](http://9gag.com/gag/a4PBE86)
+ - 😝 [Thanks to whoever edited this](http://9gag.com/gag/aAyLbn0)
+ - 💣 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)
+ - 😝 [Teach them young!](http://9gag.com/gag/a5Q91KL)
+ - 👉 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)<!-- MEMES:END -->
 
 ---
 

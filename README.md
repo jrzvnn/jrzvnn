@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 😝 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 👉 [VPN is a blessing](http://9gag.com/gag/an705mz)<!-- MEMES:END -->
 
 ---
 

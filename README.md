@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Intel may start shipping a portion of Apple&#39;s lowest-end M chips as early as 2027; Apple is evaluating Intel&#39;s 18A process for the chip production &lpar;@mingchikuo&rpar;](http://www.techmeme.com/251128/p14#a251128p14)
- - [Best Black Friday AirTag deals: 4-pack drops to $62.99, single tag hits $17.97](https://appleinsider.com/articles/25/11/28/best-black-friday-airtag-deals-4-pack-drops-to-6299-single-tag-hits-1797?utm_source=rss)
- - [My favorite Nintendo Switch 2 accessories are heavily discounted for Black Friday](https://www.theverge.com/gadgets/829211/nintendo-switch-2-black-friday-accessories-deal-sale)
- - [10 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)
- - [12 Best Black Friday Gaming Deals &lpar;2025&rpar;: PS5 Pro, Viture Glasses, and More](https://www.wired.com/story/best-black-friday-gaming-deals/)<!-- TECH:END -->
+ - [Deck out your tree with ornaments of retro consoles, movie moments, and more](https://www.theverge.com/tech/811614/best-christmas-ornaments-2025)
+ - [Indian e-commerce platform Meesho is set to launch an India IPO, seeking to raise $606M, targeting a post-issue valuation of ~$5.60B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251128/p15#a251128p15)
+ - [125 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)
+ - [The best deals I’ve seen on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals)
+ - [Sources: Intel may start shipping a portion of Apple&#39;s lowest-end M chips as early as 2027; Apple is evaluating Intel&#39;s 18A process for the chip production &lpar;@mingchikuo&rpar;](http://www.techmeme.com/251128/p14#a251128p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

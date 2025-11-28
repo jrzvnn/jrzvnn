@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 😝 [Sweet poetic justice.](http://9gag.com/gag/aE0j8nK)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
 
 ---
 

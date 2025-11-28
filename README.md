@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: South Korean authorities suspect North Korean hacking group Lazarus of the $30M+ Upbit hack, which used methods resembling those of a 2019 Upbit theft &lpar;Kang Yoon-seung/Yonhap News Agency&rpar;](http://www.techmeme.com/251127/p25#a251127p25)
+ - [Sources: Vietnam&#39;s recent Huawei and ZTE 5G equipment deals bolster its ties with China following US tariffs, but could undermine US trust in Vietnam&#39;s networks &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251127/p24#a251127p24)
  - [Save $330 on Apple&#39;s loaded 15-inch MacBook Air &lpar;M4, 32GB RAM, 1TB&rpar; for Black Friday](https://appleinsider.com/articles/25/11/28/save-330-on-apples-loaded-15-inch-macbook-air-m4-32gb-ram-1tb-for-black-friday?utm_source=rss)
  - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
- - [Best Smart Home Safes for 2025: We Cracked the Code](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)
- - [How Motorola, which spun out its struggling smartphone business in 2011, successfully refocused on critical communication equipment, giving it a $60B market cap &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251127/p23#a251127p23)
- - [The Best Smart-Home Gifts for the Holidays 2025](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Smart Home Safes for 2025: We Cracked the Code](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

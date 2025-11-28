@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [12 Best Black Friday Gaming Deals &lpar;2025&rpar;: PS5 Pro, Viture Glasses, and More](https://www.wired.com/story/best-black-friday-gaming-deals/)
+ - [French President Emmanuel Macron criticizes the EU for being too slow to act on probes into Big Tech companies, attributing the delay to US pressure against DSA &lpar;Politico&rpar;](http://www.techmeme.com/251128/p13#a251128p13)
  - [Best Apple Watch Black Friday deals slash prices to as low as $129](https://appleinsider.com/articles/25/11/28/best-apple-watch-black-friday-deals-slash-prices-to-as-low-as-129?utm_source=rss)
  - [The 154 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
- - [Best Home Depot Black Friday Deals for 2025](https://www.wired.com/story/black-friday-home-depot-deals-2025-nov-28-update/)
- - [20 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)<!-- TECH:END -->
+ - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
- - 😝 [Think before you share](http://9gag.com/gag/aoyGMEA)
- - 💣 [I believe him](http://9gag.com/gag/aLnOp4g)
- - 😝 [Two friends meet each other after 20 years](http://9gag.com/gag/a2vA72E)
- - 👉 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)<!-- MEMES:END -->
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 😝 [Some things are just not meant to be messed with](http://9gag.com/gag/a7om1Kr)
+ - 👉 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)<!-- MEMES:END -->
 
 ---
 

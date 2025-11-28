@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Getty CEO Craig Peters says Getty may rethink its UK presence if the CMA blocks its Shutterstock deal, arguing the CMA is overlooking AI&#39;s impact on imaging &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251128/p5#a251128p5)
+ - [Best Black Friday Headphone Deals &lpar;2025&rpar;: Apple, Sony and More](https://www.wired.com/story/black-friday-headphone-deals-2025/)
  - [Black Friday Deal Zone discounts M4 MacBook Air by up to $350, new record low prices](https://appleinsider.com/articles/25/11/28/black-friday-deal-zone-discounts-m4-macbook-air-by-up-to-350-new-record-low-prices?utm_source=rss)
  - [Nexperia warns customers face impending production halts and urges its Chinese unit to reengage, says it hadn&#39;t got &quot;any meaningful response&quot; despite outreach &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251128/p4#a251128p4)
- - [Australia passes a law requiring global streamers with 1M+ Australian subscribers to spend 10% of their local outlay or 7.5% of revenue on Australian originals &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/251128/p3#a251128p3)
- - [OpenAI&#39;s data center partners are set to rack up nearly $100B in debt; sources say banks may lend another $38B to Oracle and Vantage to build more OpenAI sites &lpar;Financial Times&rpar;](http://www.techmeme.com/251128/p2#a251128p2)
- - [I Learned Every Photographer Needs These 3 Types of Cameras](https://www.cnet.com/tech/computing/i-learned-every-photographer-needs-these-three-types-of-cameras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia passes a law requiring global streamers with 1M+ Australian subscribers to spend 10% of their local outlay or 7.5% of revenue on Australian originals &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/251128/p3#a251128p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday Deals Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
  - [CME Group says trading on its markets, including the S&amp;P 500 and Nasdaq, was halted on November 28 due to a cooling issue at CyrusOne&#39;s data centers &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p8#a251128p8)
+ - [The best Black Friday deals on AirPods, AirTags, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
  - [The Nothing &lpar;1&rpar; Headset Is Discounted for Black Friday](https://www.wired.com/story/nothing-1-headset-deal-1125-1/)
- - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-black-friday-deals-2025-1/)
- - [The Best Therabody and Theragun Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-therabody-deals-2025/)
- - [The Best Black Friday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025/)<!-- TECH:END -->
+ - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-black-friday-deals-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

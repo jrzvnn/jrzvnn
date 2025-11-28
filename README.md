@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They can be amazed](http://9gag.com/gag/aMV0KEW)
- - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 💣 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
  - 😝 [Oh Shit you all done fu*ked Up now and Pissed off MegaMind](http://9gag.com/gag/aKGXm63)
- - 👉 [Technologia](http://9gag.com/gag/ae9qAPp)<!-- MEMES:END -->
+ - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
 
 ---
 

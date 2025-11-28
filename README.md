@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Two friends meet each other after 20 years](http://9gag.com/gag/a2vA72E)
- - 😝 [Wise policeman](http://9gag.com/gag/a4PBE86)
- - 💣 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)
- - 😝 [Thanks to whoever edited this](http://9gag.com/gag/aAyLbn0)
- - 👉 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)<!-- MEMES:END -->
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
+ - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 

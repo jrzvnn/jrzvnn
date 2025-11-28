@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
  - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 👉 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)<!-- MEMES:END -->
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
 
 ---
 

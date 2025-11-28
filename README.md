@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [MediaTek&#39;s stock posted its best week since 2002, up 22%, amid enthusiasm over Google&#39;s Gemini 3 and chip deals; MediaTek was reported as Google&#39;s TPU partner &lpar;Sangmi Cha/Bloomberg&rpar;](http://www.techmeme.com/251128/p11#a251128p11)
+ - [Apple&#39;s Podcasts have become a target for hackers, but it&#39;s unclear how](https://appleinsider.com/articles/25/11/28/apples-podcasts-have-become-a-target-for-hackers-but-its-unclear-how?utm_source=rss)
  - [The best fitness trackers and watches we’ve tested](https://www.theverge.com/22985108/best-fitness-tracker)
  - [Tessan’s 140W Universal Travel Adapter has hit a new all-time low](https://www.theverge.com/gadgets/831748/tessan-universal-travel-adapter-black-friday-deal-sale)
- - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
- - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
- - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)<!-- TECH:END -->
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

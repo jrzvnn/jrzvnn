@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 💣 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 👉 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)<!-- MEMES:END -->
 
 ---
 

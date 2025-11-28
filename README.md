@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
- - [The best Black Friday deals on Apple AirPods — up to 47 percent off](https://www.theverge.com/gadgets/831908/best-black-friday-airpods-pro-max-apple-deal-sale)
- - [Amazon slashes 14-inch MacBook Pro M5 to $1,349, all-time best price](https://appleinsider.com/articles/25/11/28/amazon-slashes-14-inch-macbook-pro-m5-to-1349-all-time-best-price?utm_source=rss)
- - [Apple&#39;s Maps &amp; Ads face new EU scrutiny under the Digital Markets Act](https://appleinsider.com/articles/25/11/28/apples-maps-ads-face-new-eu-scrutiny-under-the-digital-markets-act?utm_source=rss)
- - [We found Black Friday deals on our favorite tech, and most are under $50](https://www.theverge.com/gadgets/829162/best-black-friday-deals-verge-favorites-2025)<!-- TECH:END -->
+ - [Best Apple Watch Black Friday deals slash prices to as low as $129](https://appleinsider.com/articles/25/11/28/best-apple-watch-black-friday-deals-slash-prices-to-as-low-as-129?utm_source=rss)
+ - [The 154 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
+ - [Best Home Depot Black Friday Deals for 2025](https://www.wired.com/story/black-friday-home-depot-deals-2025-nov-28-update/)
+ - [20 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

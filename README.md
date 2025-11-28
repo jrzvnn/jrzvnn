@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
+ - [9 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
+ - [Here are my favorite Black Friday TV deals from Samsung, Sony, and others](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
  - [Our Favorite Unbound Merino Wool T-Shirts Are on Sale for Black Friday](https://www.wired.com/story/unbound-merino-black-friday-sale-2025/)
- - [The Best Deals From Huckberry’s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)
- - [Don&#39;t Get Suckered by Black Friday Laptop Deals. Just Get the MacBook Air &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-black-friday-deal-2025/)
- - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025/)
- - [6 Best Mesh Wi-Fi Systems &lpar;2025&rpar;, Tested in a Tech Reviewer&#39;s Home](https://www.wired.com/story/best-mesh-wifi-routers/)<!-- TECH:END -->
+ - [The Best Deals From Huckberry’s 2025 Black Friday Sale](https://www.wired.com/story/huckberry-black-friday-sale-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

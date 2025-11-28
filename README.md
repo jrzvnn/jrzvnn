@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Babbel coupon slashes lifetime all-language plan to $129.99](https://appleinsider.com/articles/25/11/28/black-friday-babbel-coupon-slashes-lifetime-all-language-plan-to-12999?utm_source=rss)
- - [These Lego kits for kids and adults are up to 50% off for Black Friday](https://www.theverge.com/gadgets/831898/these-lego-kits-for-kids-and-adults-are-up-to-50-off-for-black-friday)
- - [ModRetro recreated the N64 controller for its M64 console](https://www.theverge.com/news/831498/modretro-m64-console-4k-fpga-nintendo-64-clone)
- - [The Best Black Friday Pod Coffee Maker Deals, According to a Daily User &lpar;2025&rpar;](https://www.wired.com/story/best-pod-coffee-maker-black-friday-deals-2025/)
- - [Made in the USA: Intel foundries may get used for Apple&#39;s M7 processor](https://appleinsider.com/articles/25/11/28/made-in-the-usa-intel-foundries-may-get-used-for-apples-m7-processor?utm_source=rss)<!-- TECH:END -->
+ - [Okay, which of you are still using Facebook?](https://www.theverge.com/news/832132/pew-social-media-landscape-2025)
+ - [Black Friday Protein Powder Deals and Supplement Steals &lpar;2025&rpar;](https://www.wired.com/story/protein-powder-black-friday-deals-2025/)
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Black Friday deals on chargers and power banks we love from Anker and more](https://www.theverge.com/gadgets/831598/black-friday-2025-chargers-power-banks-batteries-deal-sale)
+ - [The best Black Friday deals on AirPods, AirTags, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
  - [The Best Black Friday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2025-3/)
  - [Apple&#39;s 15-inch MacBook Air falls to $949, its lowest price yet](https://appleinsider.com/articles/25/11/28/apples-15-inch-macbook-air-falls-to-949-its-lowest-price-yet?utm_source=rss)
  - [SEC filing: CoinShares withdraws registrations for its XRP, Solana staking, and Litecoin ETFs to focus on higher-margin opportunities ahead of a US listing &lpar;Arasu Kannagi Basil/Reuters&rpar;](http://www.techmeme.com/251128/p18#a251128p18)
- - [What a Ban Would Actually Mean for DJI Drone Owners and Holiday Shoppers](https://www.cnet.com/tech/computing/what-a-ban-would-actually-mean-for-dji-drone-owners-and-holiday-shoppers/#ftag=CAD590a51e)
- - [I&amp;#8217;m a laptop reviewer, and these are the Black Friday deals I&amp;#8217;d shop—many are over $400 off](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)<!-- TECH:END -->
+ - [What a Ban Would Actually Mean for DJI Drone Owners and Holiday Shoppers](https://www.cnet.com/tech/computing/what-a-ban-would-actually-mean-for-dji-drone-owners-and-holiday-shoppers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Stand back ladies, men at work](http://9gag.com/gag/aO8n39E)
- - 😝 [One of the best pieces of story telling I have seen in a stand up](http://9gag.com/gag/avyB59M)
- - 💣 [Think before you share](http://9gag.com/gag/aoyGMEA)
- - 😝 [Two friends meet each other after 20 years](http://9gag.com/gag/a2vA72E)
- - 👉 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)<!-- MEMES:END -->
+ - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 👉 [Typical 9Gagger reaction](http://9gag.com/gag/aW4ex42)<!-- MEMES:END -->
 
 ---
 

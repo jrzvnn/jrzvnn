@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some of our favorite Blu-rays are cheaper than ever during Black Friday](https://www.theverge.com/gadgets/829057/best-4k-blu-ray-uhd-movies-black-friday-deal-sale-2025)
- - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
- - [The 150 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Cozy Earth&#39;s Best Black Friday Sales on Products We Love &lpar;2025&rpar;](https://www.wired.com/story/cozy-earth-black-friday-sale-2025/)
- - [Sora and Nano Banana Pro throttled amid soaring demand](https://www.theverge.com/news/831760/openai-google-rate-limit-sora-nano-banana-pro)<!-- TECH:END -->
+ - [Tessan’s 140W Universal Travel Adapter has hit a new all-time low](https://www.theverge.com/gadgets/831748/tessan-universal-travel-adapter-black-friday-deal-sale)
+ - [The best e-reader to buy right now](https://www.theverge.com/23769068/best-ebook-readers)
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [The best Apple Watch to buy](https://www.theverge.com/23037217/best-apple-watch-series-se-ultra)
+ - [The best laptops you can get](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

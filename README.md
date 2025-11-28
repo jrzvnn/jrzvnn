@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 49 Best Black Friday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2025/)
- - [Big Black Friday deals on Roborock robot vacuum &amp; mops offer up to 62% off](https://appleinsider.com/articles/25/11/28/big-black-friday-deals-on-roborock-robot-vacuum-mops-offer-up-to-62-off?utm_source=rss)
- - [The 13 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025/)
- - [Getty CEO Craig Peters says Getty may rethink its UK presence if the CMA blocks its Shutterstock deal, arguing the CMA is overlooking AI&#39;s impact on imaging &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251128/p5#a251128p5)
- - [Best Black Friday Headphone Deals &lpar;2025&rpar;: Apple, Sony and More](https://www.wired.com/story/black-friday-headphone-deals-2025/)<!-- TECH:END -->
+ - [Bring Wi-Fi Home for the Holidays With Netgear’s Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-netgear-router-deals-2025/)
+ - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)
+ - [5 Black Friday Toy Deals on Stuff Our Kids Love &lpar;2025&rpar;](https://www.wired.com/story/black-friday-toy-deals-2025/)
+ - [The 58 Best Black Friday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2025/)
+ - [Big Black Friday deals on Roborock robot vacuum &amp; mops offer up to 62% off](https://appleinsider.com/articles/25/11/28/big-black-friday-deals-on-roborock-robot-vacuum-mops-offer-up-to-62-off?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 170 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Apple Watch Series 11 drops to $339 with Black Friday deal](https://appleinsider.com/articles/25/11/27/apple-watch-series-11-drops-to-339-with-thanksgiving-deal?utm_source=rss)
+ - [Intel could finally return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
+ - [Prime Intellect debuts INTELLECT-3, an RL-trained 106B parameter open source MOE model it claims outperforms larger models across math, code, science, reasoning &lpar;Prime Intellect&rpar;](http://www.techmeme.com/251128/p17#a251128p17)
  - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
- - [Bose, Sony, and Apple headphones are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)
- - [The Oura Ring 4 is still at its lowest price ever for Black Friday](https://www.theverge.com/gadgets/832303/oura-ring-4-smart-wearable-black-friday-deal-sale-2025)
- - [Hallmark’s Mario and Toad Christmas ornaments are less than $10 for Black Friday](https://www.theverge.com/gadgets/832239/black-friday-mario-toad-nintendo-christmas-ornaments-deal-sale-2025)<!-- TECH:END -->
+ - [The 170 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

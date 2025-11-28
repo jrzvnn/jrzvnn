@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Black Friday Gaming Deals &lpar;2025&rpar;: PS5 Pro, Viture Glasses, and More](https://www.wired.com/story/best-black-friday-gaming-deals/)
- - [French President Emmanuel Macron criticizes the EU for being too slow to act on probes into Big Tech companies, attributing the delay to US pressure against DSA &lpar;Politico&rpar;](http://www.techmeme.com/251128/p13#a251128p13)
- - [Best Apple Watch Black Friday deals slash prices to as low as $129](https://appleinsider.com/articles/25/11/28/best-apple-watch-black-friday-deals-slash-prices-to-as-low-as-129?utm_source=rss)
- - [The 154 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)<!-- TECH:END -->
+ - [Sources: Intel may start shipping a portion of Apple&#39;s lowest-end M chips as early as 2027; Apple is evaluating Intel&#39;s 18A process for the chip production &lpar;@mingchikuo&rpar;](http://www.techmeme.com/251128/p14#a251128p14)
+ - [Best Black Friday AirTag deals: 4-pack drops to $62.99, single tag hits $17.97](https://appleinsider.com/articles/25/11/28/best-black-friday-airtag-deals-4-pack-drops-to-6299-single-tag-hits-1797?utm_source=rss)
+ - [My favorite Nintendo Switch 2 accessories are heavily discounted for Black Friday](https://www.theverge.com/gadgets/829211/nintendo-switch-2-black-friday-accessories-deal-sale)
+ - [10 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)
+ - [12 Best Black Friday Gaming Deals &lpar;2025&rpar;: PS5 Pro, Viture Glasses, and More](https://www.wired.com/story/best-black-friday-gaming-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

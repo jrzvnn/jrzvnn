@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
- - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
+ - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
  - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
- - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
+ - 😝 [Some things are just not meant to be messed with](http://9gag.com/gag/a7om1Kr)
+ - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
 
 ---
 

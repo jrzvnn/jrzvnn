@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [135 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)
+ - [7 Best All-Clad Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/best-all-clad-black-friday-deals-2025/)
  - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
  - [Apple Watch Series 11 drops to $339 with Black Friday deal](https://appleinsider.com/articles/25/11/27/apple-watch-series-11-drops-to-339-with-thanksgiving-deal?utm_source=rss)
- - [Intel could finally return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)
- - [Prime Intellect debuts INTELLECT-3, an RL-trained 106B parameter open source MOE model it claims outperforms larger models across math, code, science, reasoning &lpar;Prime Intellect&rpar;](http://www.techmeme.com/251128/p17#a251128p17)
- - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)<!-- TECH:END -->
+ - [Intel could finally return to Apple computers in 2027](https://www.theverge.com/news/832366/intel-apple-m-chip-low-end-processor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

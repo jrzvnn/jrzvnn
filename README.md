@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nexperia warns customers face impending production halts and urges its Chinese unit to reengage, says it hadn&#39;t got &quot;any meaningful response&quot; despite outreach &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251128/p4#a251128p4)
+ - [Australia passes a law requiring global streamers with 1M+ Australian subscribers to spend 10% of their local outlay or 7.5% of revenue on Australian originals &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/251128/p3#a251128p3)
  - [OpenAI&#39;s data center partners are set to rack up nearly $100B in debt; sources say banks may lend another $38B to Oracle and Vantage to build more OpenAI sites &lpar;Financial Times&rpar;](http://www.techmeme.com/251128/p2#a251128p2)
- - [China&#39;s top economic planning agency warns about the risk of a bubble forming in the booming humanoid robotics industry; 150+ manufacturers operate in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p1#a251128p1)
- - [Black Friday: Save up to $600 on MacBook Air, MacBook Pro, iPad Air with Expercom Apple deals](https://appleinsider.com/articles/25/11/28/black-friday-save-up-to-600-on-macbook-air-macbook-pro-ipad-air-with-expercom-apple-deals?utm_source=rss)
- - [Sources: South Korean authorities suspect North Korean hacking group Lazarus of the $30M+ Upbit hack, which used methods resembling those of a 2019 Upbit theft &lpar;Kang Yoon-seung/Yonhap News Agency&rpar;](http://www.techmeme.com/251127/p25#a251127p25)
- - [Sources: Vietnam&#39;s recent Huawei and ZTE 5G equipment deals bolster its ties with China following US tariffs, but could undermine US trust in Vietnam&#39;s networks &lpar;Francesco Guarascio/Reuters&rpar;](http://www.techmeme.com/251127/p24#a251127p24)<!-- TECH:END -->
+ - [I Learned Every Photographer Needs These 3 Types of Cameras](https://www.cnet.com/tech/computing/i-learned-every-photographer-needs-these-three-types-of-cameras/#ftag=CAD590a51e)
+ - [China&#39;s top economic planning agency warns about the risk of a bubble forming in the booming humanoid robotics industry; 150+ manufacturers operate in China &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p1#a251128p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

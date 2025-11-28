@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Made in the USA: Intel foundries may get used for Apple&#39;s M7 processor](https://appleinsider.com/articles/25/11/28/made-in-the-usa-intel-foundries-may-get-used-for-apples-m7-processor?utm_source=rss)
  - [Deck out your tree with ornaments of retro consoles, movie moments, and more](https://www.theverge.com/tech/811614/best-christmas-ornaments-2025)
  - [Indian e-commerce platform Meesho is set to launch an India IPO, seeking to raise $606M, targeting a post-issue valuation of ~$5.60B &lpar;Jagmeet Singh/TechCrunch&rpar;](http://www.techmeme.com/251128/p15#a251128p15)
  - [125 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)
- - [The best deals I’ve seen on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals)
- - [Sources: Intel may start shipping a portion of Apple&#39;s lowest-end M chips as early as 2027; Apple is evaluating Intel&#39;s 18A process for the chip production &lpar;@mingchikuo&rpar;](http://www.techmeme.com/251128/p14#a251128p14)<!-- TECH:END -->
+ - [The best Black Friday deals I’ve seen on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

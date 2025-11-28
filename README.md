@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The EC says it got notification from Apple that Apple Ads and Apple Maps likely meet DMA thresholds; Apple says the services should not be called &quot;gatekeepers&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p7#a251128p7)
+ - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025-1/)
  - [Stanford researchers develop a web-based tool that uses an LLM to downrank X posts with antagonistic language in a user&#39;s feed, to reduce &quot;partisan animosity&quot; &lpar;Stanford University&rpar;](http://www.techmeme.com/251128/p6#a251128p6)
  - [Bring Wi-Fi Home for the Holidays With Netgear’s Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-netgear-router-deals-2025/)
- - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)
- - [5 Black Friday Toy Deals on Stuff Our Kids Love &lpar;2025&rpar;](https://www.wired.com/story/black-friday-toy-deals-2025/)<!-- TECH:END -->
+ - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

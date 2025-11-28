@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
  - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
  - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [Oh Shit you all done fu*ked Up now and Pissed off MegaMind](http://9gag.com/gag/aKGXm63)
+ - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
  - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
 
 ---

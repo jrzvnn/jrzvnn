@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 170 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
  - [Black Friday Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
  - [Bose, Sony, and Apple headphones are cheaper than ever for Black Friday](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)
- - [The 159 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
  - [The Oura Ring 4 is still at its lowest price ever for Black Friday](https://www.theverge.com/gadgets/832303/oura-ring-4-smart-wearable-black-friday-deal-sale-2025)
  - [Hallmark’s Mario and Toad Christmas ornaments are less than $10 for Black Friday](https://www.theverge.com/gadgets/832239/black-friday-mario-toad-nintendo-christmas-ornaments-deal-sale-2025)<!-- TECH:END -->
 

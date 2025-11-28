@@ -160,8 +160,8 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Getty CEO Craig Peters says Getty may rethink its UK presence if the CMA blocks its Shutterstock deal, arguing the CMA is overlooking AI&#39;s impact on imaging &lpar;Daniel Thomas/Financial Times&rpar;](http://www.techmeme.com/251128/p5#a251128p5)
  - [Best Black Friday Headphone Deals &lpar;2025&rpar;: Apple, Sony and More](https://www.wired.com/story/black-friday-headphone-deals-2025/)
  - [Black Friday Deal Zone discounts M4 MacBook Air by up to $350, new record low prices](https://appleinsider.com/articles/25/11/28/black-friday-deal-zone-discounts-m4-macbook-air-by-up-to-350-new-record-low-prices?utm_source=rss)
- - [Nexperia warns customers face impending production halts and urges its Chinese unit to reengage, says it hadn&#39;t got &quot;any meaningful response&quot; despite outreach &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251128/p4#a251128p4)
- - [Australia passes a law requiring global streamers with 1M+ Australian subscribers to spend 10% of their local outlay or 7.5% of revenue on Australian originals &lpar;Jesse Whittock/Deadline&rpar;](http://www.techmeme.com/251128/p3#a251128p3)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 28, #431](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-28-431/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Friday, Nov. 28](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-friday-nov-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H Black Friday sale takes up to $550 off MacBook Pro, Mac Studio, Mac mini, iPad](https://appleinsider.com/articles/25/11/27/bh-black-friday-sale-takes-up-to-550-off-macbook-pro-mac-studio-mac-mini-ipad?utm_source=rss)
- - [Tim Sweeney says it &quot;makes no sense&quot; for stores like Steam to label games that are made using AI, since AI &quot;will be involved in nearly all future production&quot; &lpar;Alex Forbes-Calvin/GamesIndustry.biz&rpar;](http://www.techmeme.com/251127/p22#a251127p22)
- - [The DualSense Edge has fallen to one of the lowest we’ve seen for Black Friday](https://www.theverge.com/gadgets/822252/sony-dualsense-edge-controller-black-friday-deal-sale-2025)
- - [Amazon&#39;s best Black Friday Apple deals slash prices to as low as $9.88](https://appleinsider.com/articles/25/11/27/amazons-best-black-friday-apple-deals-slash-prices-to-as-low-as-988?utm_source=rss)
- - [Germany-based Quantum Systems, which sells surveillance drones that are being used by Ukraine, raised €180M, tripling its valuation to €3B since May &lpar;Christina Kyriasoglou/Bloomberg&rpar;](http://www.techmeme.com/251127/p21#a251127p21)<!-- TECH:END -->
+ - [Save $330 on Apple&#39;s loaded 15-inch MacBook Air &lpar;M4, 32GB RAM, 1TB&rpar; for Black Friday](https://appleinsider.com/articles/25/11/28/save-330-on-apples-loaded-15-inch-macbook-air-m4-32gb-ram-1tb-for-black-friday?utm_source=rss)
+ - [The 5 Best Sunrise Alarm Clocks and How to Choose One](https://www.cnet.com/health/sleep/best-sunrise-alarm-clock/#ftag=CAD590a51e)
+ - [Best Smart Home Safes for 2025: We Cracked the Code](https://www.cnet.com/home/security/best-smart-home-safes/#ftag=CAD590a51e)
+ - [How Motorola, which spun out its struggling smartphone business in 2011, successfully refocused on critical communication equipment, giving it a $60B market cap &lpar;Ryan Gould/Bloomberg&rpar;](http://www.techmeme.com/251127/p23#a251127p23)
+ - [The Best Smart-Home Gifts for the Holidays 2025](https://www.cnet.com/home/smart-home/best-smart-home-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 💣 [Escape](http://9gag.com/gag/aoyGMx3)
- - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [Peaceful culture](http://9gag.com/gag/aE0jpQG)<!-- MEMES:END -->
+ - 😝 [Wise policeman](http://9gag.com/gag/a4PBE86)
+ - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 💣 [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 😝 [Trickster](http://9gag.com/gag/a1m8PYb)
+ - 👉 [Romani Schmomani](http://9gag.com/gag/a34zEO3)<!-- MEMES:END -->
 
 ---
 

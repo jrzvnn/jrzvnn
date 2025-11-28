@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [The Best Black Friday Ninja Deals of 2025: Slushi, Crispi, more](https://www.wired.com/story/black-friday-ninja-deals-2025/)
  - [Okay, which of you are still using Facebook?](https://www.theverge.com/news/832132/pew-social-media-landscape-2025)
  - [Black Friday Protein Powder Deals and Supplement Steals &lpar;2025&rpar;](https://www.wired.com/story/protein-powder-black-friday-deals-2025/)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Black Friday deals on chargers and power banks we love from Anker and more](https://www.theverge.com/gadgets/831598/black-friday-2025-chargers-power-banks-batteries-deal-sale)
- - [The best Black Friday deals on AirPods, AirTags, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)<!-- TECH:END -->
+ - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

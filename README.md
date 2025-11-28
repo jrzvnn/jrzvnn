@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The Future Is Bright](http://9gag.com/gag/ae9qgmq)
- - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 💣 [They can be amazed](http://9gag.com/gag/aMV0KEW)
- - 😝 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
- - 👉 [Technologia](http://9gag.com/gag/ae9qAPp)<!-- MEMES:END -->
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 😝 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
+ - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [Post a pic of The game you played](http://9gag.com/gag/aryDm1V)
+ - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
 
 ---
 

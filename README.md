@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday deals that are most popular with Verge readers](https://www.theverge.com/gadgets/830017/black-friday-ipod-favorite-deals-sales)
  - [DeepSeek says its new DeepSeekMath-V2 model got gold-medal level status on the International Mathematical Olympiad 2025 and Chinese Mathematical Olympiad 2024 &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/251128/p19#a251128p19)
  - [You can get a four-pack of AirTags for just over $60, the lowest price ever](https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025)
  - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)
- - [Disney Plus &amp; Hulu bundle drops to $4.99/mo for Black Friday &amp; Cyber Monday](https://appleinsider.com/articles/25/11/28/disney-plus-hulu-bundle-drops-to-499mo-for-black-friday-cyber-monday?utm_source=rss)
- - [Tim Cook promises donations after deadly fire in Hong Kong](https://appleinsider.com/articles/25/11/28/tim-cook-promises-donations-after-deadly-fire-in-hong-kong?utm_source=rss)<!-- TECH:END -->
+ - [Disney Plus &amp; Hulu bundle drops to $4.99/mo for Black Friday &amp; Cyber Monday](https://appleinsider.com/articles/25/11/28/disney-plus-hulu-bundle-drops-to-499mo-for-black-friday-cyber-monday?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

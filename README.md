@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EC says it got notification from Apple that Apple Ads and Apple Maps likely meet DMA thresholds; Apple says the services should not be called &quot;gatekeepers&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/251128/p7#a251128p7)
- - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025-1/)
- - [Stanford researchers develop a web-based tool that uses an LLM to downrank X posts with antagonistic language in a user&#39;s feed, to reduce &quot;partisan animosity&quot; &lpar;Stanford University&rpar;](http://www.techmeme.com/251128/p6#a251128p6)
- - [Bring Wi-Fi Home for the Holidays With Netgear’s Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-netgear-router-deals-2025/)
- - [Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)<!-- TECH:END -->
+ - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025-1/)
+ - [The Oura Ring 4 Is $100 off for Black Friday](https://www.wired.com/story/oura-ring-4-deal-1125-1/)
+ - [Power Up With This Black Friday Deal on Anker’s Best Power Bank &lpar;2025&rpar;](https://www.wired.com/story/anker-laptop-power-bank-black-friday-deal-2025/)
+ - [Poems Can Trick AI Into Helping You Make a Nuclear Weapon](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
+ - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
+ - [The best Black Friday deals on Apple AirPods — up to 47 percent off](https://www.theverge.com/gadgets/831908/best-black-friday-airpods-pro-max-apple-deal-sale)
  - [Amazon slashes 14-inch MacBook Pro M5 to $1,349, all-time best price](https://appleinsider.com/articles/25/11/28/amazon-slashes-14-inch-macbook-pro-m5-to-1349-all-time-best-price?utm_source=rss)
  - [Apple&#39;s Maps &amp; Ads face new EU scrutiny under the Digital Markets Act](https://appleinsider.com/articles/25/11/28/apples-maps-ads-face-new-eu-scrutiny-under-the-digital-markets-act?utm_source=rss)
- - [We found Black Friday deals on our favorite tech, and most are under $50](https://www.theverge.com/gadgets/829162/best-black-friday-deals-verge-favorites-2025)
- - [The dark side of optimizing your metabolism](https://www.theverge.com/column/830937/optimizer-cgms-metabolism-wearables)
- - [Sources: Temasek is in talks to buy a ~5% stake in Quest Global, in a deal that values the engineering services company at $4.6B in the lead-up to its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p12#a251128p12)<!-- TECH:END -->
+ - [We found Black Friday deals on our favorite tech, and most are under $50](https://www.theverge.com/gadgets/829162/best-black-friday-deals-verge-favorites-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

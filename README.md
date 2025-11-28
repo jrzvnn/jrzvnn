@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook isn&#39;t retiring in 2026, Pixel gets an iPhone feature, &amp; accessibility talk on the AppleInsider Podcast](https://appleinsider.com/articles/25/11/28/tim-cook-isnt-retiring-in-2026-pixel-gets-an-iphone-feature-accessibility-talk-on-the-appleinsider-podcast?utm_source=rss)
- - [Black Friday Deals Live 2025: We&#39;re Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25/)
- - [15 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
- - [9 Best Laptops &lpar;2025&rpar;, WIRED-Tested and Approved](https://www.wired.com/gallery/best-laptops/)
- - [Here are my favorite Black Friday TV deals from Samsung, Sony, and others](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)<!-- TECH:END -->
+ - [Epic CEO Tim Sweeney says Steam should drop its ‘Made with AI’ tags](https://www.theverge.com/news/831747/tim-sweeney-epic-ceo-steam-game-stores-made-with-ai)
+ - [17 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)
+ - [Meituan reports Q3 revenue up 2% to $13.4B and a $2.3B adjusted net loss, worse than $1.9B est., its first loss since 2022, amid a price war with JD and Alibaba &lpar;Luz Ding/Bloomberg&rpar;](http://www.techmeme.com/251128/p10#a251128p10)
+ - [The Best Amazon Device and Kindle Black Friday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025/)
+ - [Save up to 48% with Aqara Black Friday deals on Apple Home smart locks &amp; cameras](https://appleinsider.com/articles/25/11/28/save-up-to-48-with-aqara-black-friday-deals-on-apple-home-smart-locks-cameras?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

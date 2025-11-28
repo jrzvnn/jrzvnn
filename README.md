@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [9th century female torso from india](http://9gag.com/gag/awy9o44)
- - 💣 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
- - 😝 [Some things are just not meant to be messed with](http://9gag.com/gag/a7om1Kr)
- - 👉 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)<!-- MEMES:END -->
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 👉 [9th century female torso from india](http://9gag.com/gag/awy9o44)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twelve South&amp;#8217;s magenetic PowerBug charger is 20 percent off for Black Friday](https://www.theverge.com/gadgets/832416/black-friday-twelve-south-powerbug-wireless-charger-deal-sale-2025)
- - [DJI ban: how the world&amp;#8217;s biggest dronemaker is getting shoved out of the US](https://www.theverge.com/news/831241/dji-ban-us-trump-fcc-customs-import-ndaa)
- - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)
- - [The Best Black Friday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-mattress-deals-2025-3/)
- - [Apple&#39;s 15-inch MacBook Air falls to $949, its lowest price yet](https://appleinsider.com/articles/25/11/28/apples-15-inch-macbook-air-falls-to-949-its-lowest-price-yet?utm_source=rss)<!-- TECH:END -->
+ - [Tim Cook promises donations after deadly fire in Hong Kong](https://appleinsider.com/articles/25/11/28/tim-cook-promises-donations-after-deadly-fire-in-hong-kong?utm_source=rss)
+ - [The 174 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Twelve South&amp;#8217;s magnetic PowerBug charger is 20 percent off for Black Friday](https://www.theverge.com/gadgets/832416/black-friday-twelve-south-powerbug-wireless-charger-deal-sale-2025)
+ - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 29, #902](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-29-902/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Strands Hints, Answers and Help for Nov. 29 #636](https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-and-help-for-nov-29-636/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

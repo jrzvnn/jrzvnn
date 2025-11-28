@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best MacBook Pro Black Friday deals drop prices to as low as $1,349 for M5 14-inch](https://appleinsider.com/articles/25/11/27/best-macbook-pro-black-friday-deals-drop-prices-to-as-low-as-1399-for-m5-14-inch?utm_source=rss)
+ - [Google withdraws its 2024 EU antitrust complaint against Microsoft over Azure licensing, after the EU launched a probe into Azure and AWS under the DMA &lpar;Edith Hancock/Wall Street Journal&rpar;](http://www.techmeme.com/251128/p16#a251128p16)
  - [The best earbuds we’ve tested for 2025](https://www.theverge.com/21309820/best-wireless-earbuds)
  - [The Best Black Friday Ninja Deals of 2025: Slushi, Crispi, more](https://www.wired.com/story/black-friday-ninja-deals-2025/)
- - [Okay, which of you are still using Facebook?](https://www.theverge.com/news/832132/pew-social-media-landscape-2025)
- - [Black Friday Protein Powder Deals and Supplement Steals &lpar;2025&rpar;](https://www.wired.com/story/protein-powder-black-friday-deals-2025/)
- - [The best robot vacuums](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)<!-- TECH:END -->
+ - [Okay, which of you are still using Facebook?](https://www.theverge.com/news/832132/pew-social-media-landscape-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

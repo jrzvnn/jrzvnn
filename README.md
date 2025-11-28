@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Temasek is in talks to buy a ~5% stake in Quest Global, in a deal that values the engineering services company at $4.6B in the lead-up to its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p12#a251128p12)
- - [Best Black Friday deals: Save up to $550 on Apple Watch, AirPods, AirTag, iPad, MacBook, Mac mini](https://appleinsider.com/articles/25/11/28/best-black-friday-deals-save-up-to-550-on-apple-watch-airpods-airtag-ipad-macbook-mac-mini?utm_source=rss)
- - [We handpicked 50 Black Friday deals you can get for under $50](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025)
- - [The 17 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025/)
- - [MediaTek&#39;s stock posted its best week since 2002, up 22%, amid enthusiasm over Google&#39;s Gemini 3 and chip deals; MediaTek was reported as Google&#39;s TPU partner &lpar;Sangmi Cha/Bloomberg&rpar;](http://www.techmeme.com/251128/p11#a251128p11)<!-- TECH:END -->
+ - [Amazon slashes 14-inch MacBook Pro M5 to $1,349, all-time best price](https://appleinsider.com/articles/25/11/28/amazon-slashes-14-inch-macbook-pro-m5-to-1349-all-time-best-price?utm_source=rss)
+ - [Apple&#39;s Maps &amp; Ads face new EU scrutiny under the Digital Markets Act](https://appleinsider.com/articles/25/11/28/apples-maps-ads-face-new-eu-scrutiny-under-the-digital-markets-act?utm_source=rss)
+ - [We found Black Friday deals on our favorite tech, and most are under $50](https://www.theverge.com/gadgets/829162/best-black-friday-deals-verge-favorites-2025)
+ - [The dark side of optimizing your metabolism](https://www.theverge.com/column/830937/optimizer-cgms-metabolism-wearables)
+ - [Sources: Temasek is in talks to buy a ~5% stake in Quest Global, in a deal that values the engineering services company at $4.6B in the lead-up to its India IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/251128/p12#a251128p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
+ - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
  - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 💣 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 💣 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
  - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 👉 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)<!-- MEMES:END -->
+ - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
 
 ---
 

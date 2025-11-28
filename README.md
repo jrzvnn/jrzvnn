@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
- - 💣 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 😝 [The Future Is Bright](http://9gag.com/gag/ae9qgmq)
+ - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
+ - 💣 [They can be amazed](http://9gag.com/gag/aMV0KEW)
+ - 😝 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
+ - 👉 [Technologia](http://9gag.com/gag/ae9qAPp)<!-- MEMES:END -->
 
 ---
 

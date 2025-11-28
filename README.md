@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
  - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 💣 [The word is Kakistocracy in case you are asking why](http://9gag.com/gag/aMV0x9G)
- - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 👉 [Bros got a point](http://9gag.com/gag/adBW8jD)<!-- MEMES:END -->
+ - 😝 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
+ - 💣 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
+ - 😝 [Bros got a point](http://9gag.com/gag/adBW8jD)
+ - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
 
 ---
 

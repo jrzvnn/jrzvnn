@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dell 14 Plus Just Hit a New Rock Bottom Price &lpar;2025&rpar;](https://www.wired.com/story/dell-14-plus-black-friday-2025-1/)
- - [The Oura Ring 4 Is $100 off for Black Friday](https://www.wired.com/story/oura-ring-4-deal-1125-1/)
- - [Power Up With This Black Friday Deal on Anker’s Best Power Bank &lpar;2025&rpar;](https://www.wired.com/story/anker-laptop-power-bank-black-friday-deal-2025/)
- - [Poems Can Trick AI Into Helping You Make a Nuclear Weapon](https://www.wired.com/story/poems-can-trick-ai-into-helping-you-make-a-nuclear-weapon/)
- - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025/)<!-- TECH:END -->
+ - [The Nothing &lpar;1&rpar; Headset Is Discounted for Black Friday](https://www.wired.com/story/nothing-1-headset-deal-1125-1/)
+ - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-black-friday-deals-2025-1/)
+ - [The Best Therabody and Theragun Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-therabody-deals-2025/)
+ - [The Best Black Friday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025/)
+ - [Secure Your Home for Less With This Arlo Pro 5S Camera Deal &lpar;2025&rpar;](https://www.wired.com/story/arlo-pro-5s-black-friday-deal-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Two friends meet each other after 20 years](http://9gag.com/gag/a2vA72E)
  - 😝 [Wise policeman](http://9gag.com/gag/a4PBE86)
- - 😝 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)
- - 💣 [Thanks to whoever edited this](http://9gag.com/gag/aAyLbn0)
- - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
+ - 💣 [Autotune was invented in 1997. Singers before 1997:](http://9gag.com/gag/amoOP84)
+ - 😝 [Thanks to whoever edited this](http://9gag.com/gag/aAyLbn0)
  - 👉 [I took a photo of this and sent it to my wife and she didn\u2019t reply so i\u2019m hoping you fellow degenerates will appreciate it](http://9gag.com/gag/ayNmeyV)<!-- MEMES:END -->
 
 ---

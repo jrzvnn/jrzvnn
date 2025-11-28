@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
- - 💣 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
+ - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
+ - 😝 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
+ - 💣 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)
  - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
 
 ---
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [I have bad news for you, future boy](http://9gag.com/gag/aMV0x1X)
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 💣 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
- - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [Sweet home Al....bania](http://9gag.com/gag/aAyLe19)<!-- MEMES:END -->
+ - 😝 [They can be amazed](http://9gag.com/gag/aMV0KEW)
+ - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
+ - 💣 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
+ - 😝 [Oh Shit you all done fu*ked Up now and Pissed off MegaMind](http://9gag.com/gag/aKGXm63)
+ - 👉 [Technologia](http://9gag.com/gag/ae9qAPp)<!-- MEMES:END -->
 
 ---
 

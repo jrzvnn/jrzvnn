@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can get a four-pack of AirTags for just over $60, the lowest price ever](https://www.theverge.com/gadgets/832483/black-friday-apple-airtags-deal-sale-2025)
+ - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)
  - [Disney Plus &amp; Hulu bundle drops to $4.99/mo for Black Friday &amp; Cyber Monday](https://appleinsider.com/articles/25/11/28/disney-plus-hulu-bundle-drops-to-499mo-for-black-friday-cyber-monday?utm_source=rss)
  - [Tim Cook promises donations after deadly fire in Hong Kong](https://appleinsider.com/articles/25/11/28/tim-cook-promises-donations-after-deadly-fire-in-hong-kong?utm_source=rss)
- - [The 174 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Twelve South&amp;#8217;s magnetic PowerBug charger is 20 percent off for Black Friday](https://www.theverge.com/gadgets/832416/black-friday-twelve-south-powerbug-wireless-charger-deal-sale-2025)
- - [Today&#39;s NYT Connections Hints, Answers and Help for Nov. 29, #902](https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-nov-29-902/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 174 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

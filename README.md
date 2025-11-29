@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
- - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 💣 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
  - 😝 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
- - 👉 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)<!-- MEMES:END -->
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 💣 [Versatile role](http://9gag.com/gag/axyeyZ1)
+ - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
+ - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
 
 ---
 

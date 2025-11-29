@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Was is das](http://9gag.com/gag/aMV04xX)
  - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
- - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
- - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 👉 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)<!-- MEMES:END -->
+ - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
+ - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
 
 ---
 

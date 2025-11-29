@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Basepaws Pet Test Kits Are Half Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/basepaws-dna-test-black-friday-2025/)
+ - [25 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
+ - [Black Friday Live 2025: We&#39;re Still Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25-1/)
  - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025-2/)
- - [The 190 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
- - [This Is a Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025-2/)
- - [The Best Black Friday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025-1/)
- - [Why Honda is suddenly launching reusable rockets](https://www.theverge.com/transportation/832364/honda-reusable-rocket-space-exploration)<!-- TECH:END -->
+ - [The 190 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

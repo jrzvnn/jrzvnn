@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Black Friday Headphone Deals &lpar;2025&rpar;: Apple, Sony, and Bose](https://www.wired.com/story/black-friday-headphone-deals-2025-1/)
  - [I wish this $169 deal was around for the viral TikTok skincare wand when I got one](https://www.theverge.com/gadgets/833268/medicube-booster-pro-serum-black-friday-deal-sale)
  - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025-1/)
  - [14 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)
- - [Logitech’s Casa is a must-have if you use a laptop — and it’s $30 off](https://www.theverge.com/gadgets/833260/logitech-casa-laptop-accessories-black-friday-deal-sale)
- - [The Best Amazon Device and Kindle Black Friday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025-1/)<!-- TECH:END -->
+ - [Logitech’s Casa is a must-have if you use a laptop — and it’s $30 off](https://www.theverge.com/gadgets/833260/logitech-casa-laptop-accessories-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

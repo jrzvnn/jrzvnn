@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Amazon Device and Kindle Black Friday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025-1/)
+ - [15 Best Black Friday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tv-deals-2025-1/)
+ - [What&amp;#8217;s on your desk, Sarah Smithers?](https://www.theverge.com/gadgets/826412/desk-apple-dog-plants)
  - [Black Friday deals extended: AirPods, iPads, Apple Watch, Mac up to $550 off](https://appleinsider.com/articles/25/11/29/black-friday-deals-extended-airpods-ipads-apple-watch-mac-up-to-550-off?utm_source=rss)
- - [A look at Mexico City&#39;s Nuevo Polanco neighborhood, where Huawei, TikTok, and other Chinese firms have opened offices, fueling a growing Chinese tech community &lpar;Daniela Dib/Rest of World&rpar;](http://www.techmeme.com/251129/p5#a251129p5)
- - [Skylight’s smart calendars are up to $120 off for Black Friday](https://www.theverge.com/gadgets/831893/skylight-calendar-black-friday-deal-sale)
- - [155 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-2/)
- - [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)<!-- TECH:END -->
+ - [A look at Mexico City&#39;s Nuevo Polanco neighborhood, where Huawei, TikTok, and other Chinese firms have opened offices, fueling a growing Chinese tech community &lpar;Daniela Dib/Rest of World&rpar;](http://www.techmeme.com/251129/p5#a251129p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

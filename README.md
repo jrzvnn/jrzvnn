@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
- - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 💣 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
- - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 😝 [Man knows his shit.](http://9gag.com/gag/aAyL0xd)
+ - 😝 [Cycle of life](http://9gag.com/gag/apRngxM)
+ - 💣 [You got me, I&#39;m bay harbor butcher](http://9gag.com/gag/azxvemb)
+ - 😝 [Check this thing I found....*](http://9gag.com/gag/aPAVZGg)
+ - 👉 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)<!-- MEMES:END -->
 
 ---
 

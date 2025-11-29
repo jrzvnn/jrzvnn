@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
  - 😝 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
- - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
  - 💣 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
+ - 😝 [Steam: The origins](http://9gag.com/gag/aE0j07n)
  - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
 
 ---

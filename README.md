@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This Is a Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025-2/)
+ - [The Best Black Friday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025-1/)
  - [Why Honda is suddenly launching reusable rockets](https://www.theverge.com/transportation/832364/honda-reusable-rocket-space-exploration)
  - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025-1/)
- - [Whoop Subscription Plans Are on Sale &lpar;2025&rpar;](https://www.wired.com/story/whoop-plans-sale-black-friday-2025/)
- - [Unit 42 details how underground hacking forums advertise and sell custom, jailbroken, and open-source AI hacking tools such as WormGPT and KawaiiGPT &lpar;Derek B. Johnson/CyberScoop&rpar;](http://www.techmeme.com/251129/p4#a251129p4)
- - [Best Digital Notebook Black Friday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-black-friday-sales/)<!-- TECH:END -->
+ - [Whoop Subscription Plans Are on Sale &lpar;2025&rpar;](https://www.wired.com/story/whoop-plans-sale-black-friday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

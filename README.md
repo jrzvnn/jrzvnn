@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Man knows his shit.](http://9gag.com/gag/aAyL0xd)
- - 😝 [Cycle of life](http://9gag.com/gag/apRngxM)
- - 💣 [You got me, I&#39;m bay harbor butcher](http://9gag.com/gag/azxvemb)
- - 😝 [Check this thing I found....*](http://9gag.com/gag/aPAVZGg)
- - 👉 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)<!-- MEMES:END -->
+ - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 💣 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
+ - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
 
 ---
 

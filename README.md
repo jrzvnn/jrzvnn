@@ -159,9 +159,9 @@ R                        1 repo              ░░░░░░░░░░░�
 <!-- TECH:START -->
  - [Our Favorite Smart Glasses Are on Sale for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/meta-sale-black-friday-2025/)
  - [Tractive Smart Cat and Dog Trackers Are 40 Percent Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/tractive-smart-pet-collar-black-friday-2025/)
- - [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)
- - [A look at ChatGPT&#39;s impact on US stocks three years after its release: AI mania revived Big Tech, making an already concentrated S&amp;P 500 even more top heavy &lpar;Bloomberg&rpar;](http://www.techmeme.com/251129/p3#a251129p3)
- - [The 194 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [How to Watch Ohio State vs. Michigan Game Today](https://www.cnet.com/tech/services-and-software/how-to-watch-ohio-state-vs-michigan-game-today/#ftag=CAD590a51e)
+ - [Tired of Heavy Meals? These Are the 5 Healthiest Air Fryer Foods Approved by Registered Dietitians](https://www.cnet.com/health/nutrition/tired-heavy-meals-healthiest-air-fryer-foods-approved-registered-dietitians/#ftag=CAD590a51e)
+ - [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

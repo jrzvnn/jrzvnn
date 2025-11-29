@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
- - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
- - 💣 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
- - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 😝 [Was is das](http://9gag.com/gag/aMV04xX)
+ - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 💣 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
+ - 👉 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)<!-- MEMES:END -->
 
 ---
 

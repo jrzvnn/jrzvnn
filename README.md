@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I bought this $110 Nespresso rig and it’s been caffeinated bliss ever since](https://www.theverge.com/gadgets/833482/delonghi-nespresso-vertuo-black-friday-deal)
+ - [Salesforce: online Black Friday sales grew 6% YoY to $79B globally, including $3B in US sales driven by AI agents; Adobe: US online sales rose 9.1% to $11.8B &lpar;Joan Verdon/Forbes&rpar;](http://www.techmeme.com/251129/p9#a251129p9)
  - [Best Hyperice Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/hyperice-black-friday-deals-2025/)
  - [35 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
- - [The Android phone you should buy your dad is just $349](https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale)
- - [This great 27-inch Studio Display alternative is cheaper than ever](https://www.theverge.com/gadgets/833564/this-great-27-inch-studio-display-alternative-is-cheaper-than-ever)
- - [The 196 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)<!-- TECH:END -->
+ - [The Android phone you should buy your dad is just $349](https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

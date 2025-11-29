@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Surprise: The BrickBoy kit for the Lego Game Boy uses floating magnets instead of switches](https://www.theverge.com/gadgets/832654/brickboy-kickstarter-lego-game-boy-magnet-buttons)
- - [The 177 best Black Friday deals we’ve found so far — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [I Bet You Won&#39;t Be Able to Stop After One Episode of Netflix&#39;s Addictive New Thriller](https://www.cnet.com/tech/services-and-software/i-bet-you-wont-be-able-to-stop-after-one-episode-of-netflixs-addictive-new-thriller/#ftag=CAD590a51e)
- - [Cyber Monday Mac mini deals drop M4 models to as low as $479](https://appleinsider.com/articles/25/11/28/cyber-monday-mac-mini-deals-drop-m4-models-to-as-low-as-479?utm_source=rss)
- - [Black Friday deals that are most popular with Verge readers](https://www.theverge.com/gadgets/830017/black-friday-ipod-favorite-deals-sales)<!-- TECH:END -->
+ - [The Super Mario Galaxy bundle for the Switch is 20 percent off today only](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025)
+ - [The best Black Friday deals you can still get on iPads, AirPods, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
+ - [149 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)
+ - [The Ray-Ban Meta smart glasses are still at their all-time low for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025)
+ - [We found 40 surprisingly good Black Friday deals you can still grab for $30 or less](https://www.theverge.com/gadgets/827295/black-friday-best-cheap-tech-deals-under-30-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

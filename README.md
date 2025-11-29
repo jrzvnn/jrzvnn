@@ -161,7 +161,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - [Salesforce: online Black Friday sales grew 6% YoY to $79B globally, including $3B in US sales driven by AI agents; Adobe: US online sales rose 9.1% to $11.8B &lpar;Joan Verdon/Forbes&rpar;](http://www.techmeme.com/251129/p9#a251129p9)
  - [Best Hyperice Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/hyperice-black-friday-deals-2025/)
  - [35 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
- - [The Android phone you should buy your dad is just $349](https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale)<!-- TECH:END -->
+ - [&#39;Landman&#39; Season 2, Episode 3: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-episode-3-streaming-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

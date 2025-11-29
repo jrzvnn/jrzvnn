@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Interesting](http://9gag.com/gag/ayNm94Y)
+ - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
  - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
- - 💣 [Was is das](http://9gag.com/gag/aMV04xX)
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
+ - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
+ - 😝 [Was is das](http://9gag.com/gag/aMV04xX)
+ - 👉 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)<!-- MEMES:END -->
 
 ---
 

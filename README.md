@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [157 Best Black Friday Deals 2025: Everything Tested and Actually Discounted](https://www.wired.com/story/black-friday-deals-2025-2/)
+ - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)
+ - [169 Best Black Friday Deals 2025: Everything Tested and Actually Discounted](https://www.wired.com/story/black-friday-deals-2025-2/)
  - [The 200 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
  - [A profile of Klay, whose app will let users remake songs using AI; Klay has raised ~$10M and is the first AI startup to close deals with the three major labels &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251129/p10#a251129p10)
- - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
- - [New West KnifeWorks Knives Are 20 Percent off Right Now &lpar;2025&rpar;](https://www.wired.com/story/new-west-knifeworks-black-friday-2025/)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-films-on-hulu-nov-2025/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

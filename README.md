@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Hyperice Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/hyperice-black-friday-deals-2025/)
+ - [35 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
+ - [The Android phone you should buy your dad is just $349](https://www.theverge.com/gadgets/833639/google-pixel-9a-black-friday-cyber-monday-2025-deal-sale)
  - [This great 27-inch Studio Display alternative is cheaper than ever](https://www.theverge.com/gadgets/833564/this-great-27-inch-studio-display-alternative-is-cheaper-than-ever)
- - [The 196 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
- - [The latest Nest Learning Thermostat is $70 off for Black Friday](https://www.theverge.com/gadgets/833365/google-nest-learning-thermostat-4th-gen-black-friday-deal-sale)
- - [The Best Black Friday Travel Gear Deals &lpar;2025&rpar;](https://www.wired.com/story/travel-gear-deals-black-friday-2025/)
- - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)<!-- TECH:END -->
+ - [The 196 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

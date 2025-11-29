@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
- - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
- - 💣 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
- - 😝 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
- - 👉 [Little angel](http://9gag.com/gag/a9y4EvZ)<!-- MEMES:END -->
+ - 😝 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
+ - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 💣 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
+ - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
+ - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
 
 ---
 

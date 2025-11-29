@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Klay, whose app will let users remake songs using AI; Klay has raised ~$10M and is the first AI startup to close deals with the three major labels &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251129/p10#a251129p10)
+ - [I tested 15 cases for the Switch 2 and these are the best](https://www.theverge.com/reviews/691319/best-switch-2-cases)
  - [New West KnifeWorks Knives Are 20 Percent off Right Now &lpar;2025&rpar;](https://www.wired.com/story/new-west-knifeworks-black-friday-2025/)
  - [21 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025-1/)
- - [Black Friday Protein Powder Deals and Supplement Steals &lpar;2025&rpar;](https://www.wired.com/story/protein-powder-black-friday-deals-2025-1/)
- - [The Fujifilm X Half is on sale for what it should have originally cost](https://www.theverge.com/gadgets/833668/fujifilm-x-half-camera-price-black-friday-cyber-monday)
- - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)<!-- TECH:END -->
+ - [Black Friday Protein Powder Deals and Supplement Steals &lpar;2025&rpar;](https://www.wired.com/story/protein-powder-black-friday-deals-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
- - 😝 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
- - 💣 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
- - 😝 [At the Christmas market in Switzerland](http://9gag.com/gag/a2vAKXE)
+ - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 💣 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 😝 [So it&#39;s the Elcipse for Europe](http://9gag.com/gag/a6ZeEZA)
  - 👉 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)<!-- MEMES:END -->
 
 ---

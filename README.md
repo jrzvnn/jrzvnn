@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Micron plans to invest $9.6B in Japan to build a production facility for next-gen HBM memory chips beginning in 2026, with shipments expected in 2028 &lpar;Ryo Mukano/Nikkei Asia&rpar;](http://www.techmeme.com/251129/p7#a251129p7)
+ - [The 70 Best Black Friday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2025-1/)
  - [20 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
  - [12 Best Black Friday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-black-friday-laptop-deals-2025/)
- - [It has begun - iPhone Pocket knockoffs weave their way onto Amazon&#39;s shelves](https://appleinsider.com/articles/25/11/29/it-has-begun---iphone-pocket-knockoffs-weave-their-way-onto-amazons-shelves?utm_source=rss)
- - [157 Best Black Friday Deals 2025: Everything Tested and Actually Discounted](https://www.wired.com/story/black-friday-deals-2025-2/)
- - [The 195 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)<!-- TECH:END -->
+ - [It has begun - iPhone Pocket knockoffs weave their way onto Amazon&#39;s shelves](https://appleinsider.com/articles/25/11/29/it-has-begun---iphone-pocket-knockoffs-weave-their-way-onto-amazons-shelves?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

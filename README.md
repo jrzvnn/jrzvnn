@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Dyson Black Friday Deals &lpar;2025&rpar;: Gen5 Detect, Airstrait](https://www.wired.com/story/dyson-black-friday-deals/)
+ - [Find Any Lost Phone—Even if It Uses a Different Operating System](https://www.wired.com/story/ringit-app-finds-any-lost-phone-even-if-it-uses-a-different-operating-system/)
+ - [All the places I used my Trump Mobile wireless service this week](https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test)
  - [Our Favorite Smart Glasses Are on Sale for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/meta-sale-black-friday-2025/)
- - [Tractive Smart Cat and Dog Trackers Are 40 Percent Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/tractive-smart-pet-collar-black-friday-2025/)
- - [How to Watch Ohio State vs. Michigan Game Today](https://www.cnet.com/tech/services-and-software/how-to-watch-ohio-state-vs-michigan-game-today/#ftag=CAD590a51e)
- - [Tired of Heavy Meals? These Are the 5 Healthiest Air Fryer Foods Approved by Registered Dietitians](https://www.cnet.com/health/nutrition/tired-heavy-meals-healthiest-air-fryer-foods-approved-registered-dietitians/#ftag=CAD590a51e)
- - [13 Best Vibrators of 2025, Tested and Reviewed](https://www.wired.com/gallery/best-vibrators/)<!-- TECH:END -->
+ - [Tractive Smart Cat and Dog Trackers Are 40 Percent Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/tractive-smart-pet-collar-black-friday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

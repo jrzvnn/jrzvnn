@@ -157,9 +157,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 190 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
  - [The M4 MacBook Air is one of the best Apple deals you can get for Black Friday](https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025)
  - [These 50 handpicked Black Friday deals are still available for $50 or less](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025)
- - [The 187 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
  - [AirPods are still available for $69, grab holiday discounts of up to $150 off](https://appleinsider.com/articles/25/11/29/airpods-are-still-available-for-69-grab-holiday-discounts-of-up-to-150-off?utm_source=rss)
  - [Aura’s latest, gift-worthy digital photo frame is $30 off for Black Friday](https://www.theverge.com/gadgets/832496/black-friday-aura-aspen-digital-photo-frame-deal-sale-2025)<!-- TECH:END -->
 

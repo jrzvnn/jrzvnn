@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 187 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [AirPods are still available for $69, grab holiday discounts of up to $150 off](https://appleinsider.com/articles/25/11/29/airpods-are-still-available-for-69-grab-holiday-discounts-of-up-to-150-off?utm_source=rss)
  - [Aura’s latest, gift-worthy digital photo frame is $30 off for Black Friday](https://www.theverge.com/gadgets/832496/black-friday-aura-aspen-digital-photo-frame-deal-sale-2025)
  - [You can pick up 32GB of DDR5 RAM with a whole PC for $999 for Black Friday](https://www.theverge.com/gadgets/830678/black-friday-ibuypower-gaming-pc-5060ti-prebuilt-ddr5-ram-deal-sale-2025)
- - [An analysis of Google TPU v6e vs AMD MI300X vs Nvidia H100/B200: Nvidia achieves a ~5x tokens-per-dollar advantage over TPU v6e and 2x advantage over MI300X &lpar;@artificialanlys&rpar;](http://www.techmeme.com/251128/p21#a251128p21)
- - [The 182 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [These laptops are still steeply discounted for Black Friday — many are over $400 off](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)<!-- TECH:END -->
+ - [An analysis of Google TPU v6e vs AMD MI300X vs Nvidia H100/B200: Nvidia achieves a ~5x tokens-per-dollar advantage over TPU v6e and 2x advantage over MI300X &lpar;@artificialanlys&rpar;](http://www.techmeme.com/251128/p21#a251128p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

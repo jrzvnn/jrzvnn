@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Super Mario Galaxy bundle for the Switch is 20 percent off today only](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025)
- - [The best Black Friday deals you can still get on iPads, AirPods, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
- - [149 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-1/)
- - [The Ray-Ban Meta smart glasses are still at their all-time low for Black Friday](https://www.theverge.com/gadgets/829574/ray-ban-meta-smart-glasses-gen-1-black-friday-deal-sale-2025)
- - [We found 40 surprisingly good Black Friday deals you can still grab for $30 or less](https://www.theverge.com/gadgets/827295/black-friday-best-cheap-tech-deals-under-30-2025)<!-- TECH:END -->
+ - [An analysis of Google TPU v6e vs AMD MI300X vs Nvidia H100/B200: Nvidia achieves a ~5x tokens-per-dollar advantage over TPU v6e and 2x advantage over MI300X &lpar;@artificialanlys&rpar;](http://www.techmeme.com/251128/p21#a251128p21)
+ - [The 182 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [These laptops are still steeply discounted for Black Friday — many are over $400 off](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
+ - [Ninja’s versatile Creami ice cream maker hits an all-time low for Black Friday](https://www.theverge.com/gadgets/832870/black-friday-ninja-swirl-creami-ice-cream-maker-deal-sale-2025)
+ - [Our favorite gear from Apple, Bose, Sony and more is at all-time low prices for Black Friday — up to 58% off](https://www.theverge.com/gadgets/832710/black-friday-all-time-low-prices-headphones-gaming-tv-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

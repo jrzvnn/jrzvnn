@@ -157,10 +157,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 194 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
  - [The best Black Friday deals you can still get on AirTags, iPad, and other Apple gear](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
  - [Sunday Robotics, which debuted its Memo home robot on Nov. 19, hired at least 10 former Tesla employees, including engineers who worked on Autopilot and Optimus &lpar;Grace Kay/Business Insider&rpar;](http://www.techmeme.com/251129/p2#a251129p2)
  - [Philips Hue’s Festavia string lights are nearly $60 off &lpar;and still available&rpar; for Black Friday](https://www.theverge.com/gadgets/826881/philips-hue-festavia-govee-christmas-lights-black-friday-deal-2025)
- - [The 192 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
  - [Range, which uses AI to offer flat-fee financial planning services to mass affluent households, raised a $60M Series C led by Scale Venture Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251129/p1#a251129p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour

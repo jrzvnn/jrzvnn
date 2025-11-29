@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [15 Best Black Friday Headphone Deals &lpar;2025&rpar;: Apple, Sony, and Bose](https://www.wired.com/story/black-friday-headphone-deals-2025-1/)
- - [I wish this $169 deal was around for the viral TikTok skincare wand when I got one](https://www.theverge.com/gadgets/833268/medicube-booster-pro-serum-black-friday-deal-sale)
- - [The Best Apple Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-black-friday-deals-2025-1/)
- - [14 Best Black Friday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-phone-deals-2025/)
- - [Logitech’s Casa is a must-have if you use a laptop — and it’s $30 off](https://www.theverge.com/gadgets/833260/logitech-casa-laptop-accessories-black-friday-deal-sale)<!-- TECH:END -->
+ - [It has begun - iPhone Pocket knockoffs weave their way onto Amazon&#39;s shelves](https://appleinsider.com/articles/25/11/29/it-has-begun---iphone-pocket-knockoffs-weave-their-way-onto-amazons-shelves?utm_source=rss)
+ - [157 Best Black Friday Deals 2025: Everything Tested and Actually Discounted](https://www.wired.com/story/black-friday-deals-2025-2/)
+ - [The 195 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
+ - [Pangram Labs: ~21% of the 75,800 peer reviews submitted for ICLR 2026, a major ML conference, were fully AI-generated, and 50%+ contained signs of AI use &lpar;Miryam Naddaf/Nature&rpar;](http://www.techmeme.com/251129/p6#a251129p6)
+ - [97 percent of people struggle to identify AI music, but it’s not as bad as it seems](https://www.theverge.com/entertainment/830393/ai-music-deezer-survey-spotify)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

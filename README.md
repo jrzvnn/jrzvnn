@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
- - 💣 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 😝 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 👉 [Peaceful culture](http://9gag.com/gag/aE0jpQG)<!-- MEMES:END -->
+ - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
+ - 💣 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
+ - 😝 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
+ - 👉 [Little angel](http://9gag.com/gag/a9y4EvZ)<!-- MEMES:END -->
 
 ---
 

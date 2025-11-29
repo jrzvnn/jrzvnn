@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Color E-Reader &lpar;2025&rpar;: Kobo Libra Colour](https://www.wired.com/story/my-favorite-color-e-readers/)
- - [Best Dyson Black Friday Deals &lpar;2025&rpar;: Gen5 Detect, Airstrait](https://www.wired.com/story/dyson-black-friday-deals/)
- - [Find Any Lost Phone—Even if It Uses a Different Operating System](https://www.wired.com/story/ringit-app-finds-any-lost-phone-even-if-it-uses-a-different-operating-system/)
- - [All the places I used my Trump Mobile wireless service this week](https://www.theverge.com/tech/829414/trump-mobile-mvno-wireless-service-test)
- - [Our Favorite Smart Glasses Are on Sale for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/meta-sale-black-friday-2025/)<!-- TECH:END -->
+ - [Our Favorite Smart Glasses Are on Sale for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/meta-sale-black-friday-2025/)
+ - [Apple Watch SE 2 GPS + Cellular falls to $129, best Apple Watch price yet](https://appleinsider.com/articles/25/11/29/apple-watch-se-2-gps-cellular-falls-to-129-best-apple-watch-price-yet?utm_source=rss)
+ - [This New Way to Make Protein Could Be What Feeds Astronauts on Long Space Journeys](https://www.cnet.com/science/space/how-to-feed-astronauts-bound-for-mars-try-protein-made-out-of-thin-air/#ftag=CAD590a51e)
+ - [La Liga Soccer: Stream Barcelona vs. Alavés Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-barcelona-vs-alaves-live-from-anywhere/#ftag=CAD590a51e)
+ - [Best VPN for Chrome 2025: Keep Your Browsing Traffic Private](https://www.cnet.com/tech/services-and-software/best-vpn-for-chrome/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

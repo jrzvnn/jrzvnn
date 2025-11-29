@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Technologia](http://9gag.com/gag/ae9qAPp)
- - 😝 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
- - 💣 [Romani Schmomani](http://9gag.com/gag/a34zEO3)
- - 😝 [Scary frightday, nuclear plant cooling tower walk &lpar;viernepantos&rpar;](http://9gag.com/gag/aZZ4Dz0)
- - 👉 [Little angel](http://9gag.com/gag/a9y4EvZ)<!-- MEMES:END -->
+ - 😝 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 😝 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
+ - 💣 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
+ - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
 
 ---
 

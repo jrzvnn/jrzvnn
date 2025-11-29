@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port)
  - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)
  - [169 Best Black Friday Deals 2025: Everything Tested and Actually Discounted](https://www.wired.com/story/black-friday-deals-2025-2/)
  - [The 200 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
- - [A profile of Klay, whose app will let users remake songs using AI; Klay has raised ~$10M and is the first AI startup to close deals with the three major labels &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251129/p10#a251129p10)
- - [The Absolute Best Horror Movies on Hulu](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-films-on-hulu-nov-2025/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Klay, whose app will let users remake songs using AI; Klay has raised ~$10M and is the first AI startup to close deals with the three major labels &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251129/p10#a251129p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

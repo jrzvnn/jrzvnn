@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [21 Best GoPro and Camera Deals for Black Friday &lpar;2025&rpar;](https://www.wired.com/story/black-friday-camera-deals-2025-1/)
+ - [Black Friday Protein Powder Deals and Supplement Steals &lpar;2025&rpar;](https://www.wired.com/story/protein-powder-black-friday-deals-2025-1/)
  - [The Fujifilm X Half is on sale for what it should have originally cost](https://www.theverge.com/gadgets/833668/fujifilm-x-half-camera-price-black-friday-cyber-monday)
  - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
- - [Behold, the black Apple Watch Ultra 2 is $200 off during Black Friday](https://www.theverge.com/gadgets/833432/black-apple-watch-ultra-2-black-friday-deal-sale)
- - [I bought this $110 Nespresso rig and it’s been caffeinated bliss ever since](https://www.theverge.com/gadgets/833482/delonghi-nespresso-vertuo-black-friday-deal)
- - [Salesforce: online Black Friday sales grew 6% YoY to $79B globally, including $3B in US sales driven by AI agents; Adobe: US online sales rose 9.1% to $11.8B &lpar;Joan Verdon/Forbes&rpar;](http://www.techmeme.com/251129/p9#a251129p9)<!-- TECH:END -->
+ - [Behold, the black Apple Watch Ultra 2 is $200 off during Black Friday](https://www.theverge.com/gadgets/833432/black-apple-watch-ultra-2-black-friday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

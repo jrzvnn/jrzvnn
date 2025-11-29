@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A game made with passion and love 10 years ago in 2015. No in-game purchases, free main game quality, 2 free DLCs and a free next-gen upgrade.](http://9gag.com/gag/avyBAqM)
- - 😝 [Man knows his shit.](http://9gag.com/gag/aAyL0xd)
- - 💣 [Cycle of life](http://9gag.com/gag/apRngxM)
- - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
- - 👉 [You got me, I&#39;m bay harbor butcher](http://9gag.com/gag/azxvemb)<!-- MEMES:END -->
+ - 😝 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 💣 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
+ - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
+ - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
 
 ---
 

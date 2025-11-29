@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 190 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
  - [This Is a Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-black-friday-deal-2025-2/)
  - [The Best Black Friday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-black-friday-2025-1/)
  - [Why Honda is suddenly launching reusable rockets](https://www.theverge.com/transportation/832364/honda-reusable-rocket-space-exploration)
- - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025-1/)
- - [Whoop Subscription Plans Are on Sale &lpar;2025&rpar;](https://www.wired.com/story/whoop-plans-sale-black-friday-2025/)<!-- TECH:END -->
+ - [The Best Black Friday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/black-friday-beauty-deals-2025-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

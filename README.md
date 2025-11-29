@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Fujifilm X Half is on sale for what it should have originally cost](https://www.theverge.com/gadgets/833668/fujifilm-x-half-camera-price-black-friday-cyber-monday)
+ - [I’ve tested the latest Switch 2 controllers, and this one is the best](https://www.theverge.com/tech/791574/best-switch-2-controllers)
+ - [Behold, the black Apple Watch Ultra 2 is $200 off during Black Friday](https://www.theverge.com/gadgets/833432/black-apple-watch-ultra-2-black-friday-deal-sale)
  - [I bought this $110 Nespresso rig and it’s been caffeinated bliss ever since](https://www.theverge.com/gadgets/833482/delonghi-nespresso-vertuo-black-friday-deal)
- - [Salesforce: online Black Friday sales grew 6% YoY to $79B globally, including $3B in US sales driven by AI agents; Adobe: US online sales rose 9.1% to $11.8B &lpar;Joan Verdon/Forbes&rpar;](http://www.techmeme.com/251129/p9#a251129p9)
- - [Best Hyperice Black Friday Deals &lpar;2025&rpar;](https://www.wired.com/story/hyperice-black-friday-deals-2025/)
- - [35 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
- - [&#39;Landman&#39; Season 2, Episode 3: Streaming Release Date and Time](https://www.cnet.com/tech/services-and-software/landman-season-2-episode-3-streaming-release-date-and-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Salesforce: online Black Friday sales grew 6% YoY to $79B globally, including $3B in US sales driven by AI agents; Adobe: US online sales rose 9.1% to $11.8B &lpar;Joan Verdon/Forbes&rpar;](http://www.techmeme.com/251129/p9#a251129p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

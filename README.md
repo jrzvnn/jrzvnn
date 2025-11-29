@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Basepaws Pet Test Kits Are Half Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/basepaws-dna-test-black-friday-2025/)
- - [25 Best Black Friday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
- - [Black Friday Live 2025: We&#39;re Still Tracking Discounts, Trends, and More](https://www.wired.com/live/black-friday-live-25-1/)
- - [Best Black Friday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-google-pixel-deals-2025-2/)
- - [The 190 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)<!-- TECH:END -->
+ - [149 Best Black Friday Deals 2025: We&#39;ve Tested Every Item and Tracked Every Price](https://www.wired.com/story/black-friday-deals-2025-2/)
+ - [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)
+ - [Branch Sale of the Year on Office Chairs and Standing Desks &lpar;2025&rpar;](https://www.wired.com/story/branch-sale-of-the-year-2025-2/)
+ - [Don&#39;t Get Suckered by Black Friday Laptop Deals. Just Get the MacBook Air &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-black-friday-deal-2025-1/)
+ - [Basepaws Pet Test Kits Are Half Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/basepaws-dna-test-black-friday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
- - 😝 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
- - 💣 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
- - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)<!-- MEMES:END -->
+ - 😝 [Honestly this is the biggest plottwist for 2025, and because of this all of the rotchschild&#39;s patent lawsuits will be -thoroughly- inspected from now on](http://9gag.com/gag/avyB5Mb)
+ - 😝 [They say marriage makes man happy.](http://9gag.com/gag/agmpB1g)
+ - 💣 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
+ - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 👉 [Peaceful culture](http://9gag.com/gag/aE0jpQG)<!-- MEMES:END -->
 
 ---
 

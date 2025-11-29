@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Range, which uses AI to offer flat-fee financial planning services to mass affluent households, raised a $60M Series C led by Scale Venture Partners &lpar;Ryan Lawler/Axios&rpar;](http://www.techmeme.com/251129/p1#a251129p1)
  - [The Verge’s guide to Black Friday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)
  - [The 190 best Black Friday deals you can still shop — a ton of tech is over half off](https://www.theverge.com/gadgets/824521/black-friday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Today&#39;s NYT Mini Crossword Answers for Saturday, Nov. 29](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-saturday-nov-29/#ftag=CAD590a51e)
  - [The M4 MacBook Air is one of the best Apple deals you can get for Black Friday](https://www.theverge.com/gadgets/832969/black-friday-macbook-air-m4-13-15-inch-deal-sale-2025)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 29, #432](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-29-432/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These 50 handpicked Black Friday deals are still available for $50 or less](https://www.theverge.com/gadgets/829553/black-friday-best-cheap-tech-deals-under-50-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

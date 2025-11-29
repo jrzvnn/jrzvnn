@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday deals are still going strong on Apple AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
- - [Sources: Micron plans to invest $9.6B in Japan to build a production facility for next-gen HBM memory chips beginning in 2026, with shipments expected in 2028 &lpar;Ryo Mukano/Nikkei Asia&rpar;](http://www.techmeme.com/251129/p7#a251129p7)
- - [The 70 Best Black Friday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2025-1/)
- - [20 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
- - [12 Best Black Friday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-black-friday-laptop-deals-2025/)<!-- TECH:END -->
+ - [We handpicked 12 great gaming laptops that are hundreds off for Black Friday](https://www.theverge.com/gadgets/833307/best-gaming-laptop-nvidia-rtx-black-friday-deal-sale)
+ - [Airbus issues an order to revert 6,000 A320-series planes to old software, after an incident revealed that intense solar radiation corrupted flight control data &lpar;Nadeem Badshah/The Guardian&rpar;](http://www.techmeme.com/251129/p8#a251129p8)
+ - [The Super Mario Galaxy bundle for the Switch is still 20 percent off](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025)
+ - [These are my picks for the best Black Friday deals on Garmin watches](https://www.theverge.com/gadgets/833297/best-garmin-watch-black-friday-deal-sale)
+ - [Balsam Hill&#39;s Black Friday Sale Is On. Save 40% on the Best Fake Christmas Tree](https://www.wired.com/story/balsam-hill-black-friday-deal-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

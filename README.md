@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)
  - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 😝 [When people asking why i&#39;m so sad about the death of that scary looking spider that always lurking in my room](http://9gag.com/gag/aLnOwqA)
  - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 😝 [Men just bottle it up like real men](http://9gag.com/gag/aVv9bbd)
- - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
+ - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
+ - 👉 [Escape](http://9gag.com/gag/aoyGMx3)<!-- MEMES:END -->
 
 ---
 

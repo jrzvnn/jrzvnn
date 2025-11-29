@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Black Friday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
+ - [Buying a $100 Apple gift card will earn you a $15 Amazon credit](https://www.theverge.com/gadgets/833566/buying-a-100-apple-gift-card-will-earn-you-15-amazon-credit)
+ - [The Best Black Friday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/black-friday-streaming-deals-2025/)
  - [We handpicked 12 great gaming laptops that are hundreds off for Black Friday](https://www.theverge.com/gadgets/833307/best-gaming-laptop-nvidia-rtx-black-friday-deal-sale)
- - [Airbus issues an order to revert 6,000 A320-series planes to old software, after an incident revealed that intense solar radiation corrupted flight control data &lpar;Nadeem Badshah/The Guardian&rpar;](http://www.techmeme.com/251129/p8#a251129p8)
- - [The Super Mario Galaxy bundle for the Switch is still 20 percent off](https://www.theverge.com/gadgets/832513/black-friday-super-mario-galaxy-bundle-switch-deal-sale-2025)
- - [These are my picks for the best Black Friday deals on Garmin watches](https://www.theverge.com/gadgets/833297/best-garmin-watch-black-friday-deal-sale)
- - [Balsam Hill&#39;s Black Friday Sale Is On. Save 40% on the Best Fake Christmas Tree](https://www.wired.com/story/balsam-hill-black-friday-deal-2025/)<!-- TECH:END -->
+ - [Airbus issues an order to revert 6,000 A320-series planes to old software, after an incident revealed that intense solar radiation corrupted flight control data &lpar;Nadeem Badshah/The Guardian&rpar;](http://www.techmeme.com/251129/p8#a251129p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
  - 😝 [Peaceful culture](http://9gag.com/gag/aE0jpQG)
- - 😝 [Escape](http://9gag.com/gag/aoyGMx3)
- - 💣 [Look how they have massacred my girl](http://9gag.com/gag/aYQvogx)
- - 😝 [Dating Stuff](http://9gag.com/gag/aBybnP1)
- - 👉 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)<!-- MEMES:END -->
+ - 💣 [Escape](http://9gag.com/gag/aoyGMx3)
+ - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 👉 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday deals are still going strong on Apple AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
  - [Sources: Micron plans to invest $9.6B in Japan to build a production facility for next-gen HBM memory chips beginning in 2026, with shipments expected in 2028 &lpar;Ryo Mukano/Nikkei Asia&rpar;](http://www.techmeme.com/251129/p7#a251129p7)
  - [The 70 Best Black Friday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-outdoor-deals-2025-1/)
  - [20 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-black-friday-deals-under-100-2025/)
- - [12 Best Black Friday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-black-friday-laptop-deals-2025/)
- - [It has begun - iPhone Pocket knockoffs weave their way onto Amazon&#39;s shelves](https://appleinsider.com/articles/25/11/29/it-has-begun---iphone-pocket-knockoffs-weave-their-way-onto-amazons-shelves?utm_source=rss)<!-- TECH:END -->
+ - [12 Best Black Friday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-black-friday-laptop-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
- - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 💣 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)
- - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
- - 👉 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)<!-- MEMES:END -->
+ - 😝 [Steam: The origins](http://9gag.com/gag/aE0j07n)
+ - 😝 [For the boys](http://9gag.com/gag/aZZ4Dmp)
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 😝 [Good old times](http://9gag.com/gag/aXPmPgv)
+ - 👉 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)<!-- MEMES:END -->
 
 ---
 

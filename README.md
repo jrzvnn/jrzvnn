@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Gang gang](http://9gag.com/gag/aD2qYNd)
- - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
+ - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
  - 💣 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
- - 😝 [Great Pyrenees on the front, border collies along the sides, donkeys in the middle and blue heelers at the rear ... He&#39;s not messing around keeping that herd safe.](http://9gag.com/gag/a87v7g1)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)<!-- MEMES:END -->
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 👉 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)<!-- MEMES:END -->
 
 ---
 

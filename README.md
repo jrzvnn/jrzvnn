@@ -167,9 +167,9 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
- - 😝 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)
- - 💣 [Thank you, gravity!](http://9gag.com/gag/aNDGwY6)
- - 😝 [Poor](http://9gag.com/gag/amoOgEd)
+ - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
+ - 💣 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 😝 [Great Pyrenees on the front, border collies along the sides, donkeys in the middle and blue heelers at the rear ... He&#39;s not messing around keeping that herd safe.](http://9gag.com/gag/a87v7g1)
  - 👉 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)<!-- MEMES:END -->
 
 ---

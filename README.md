@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)
+ - [Best Thuma Black Friday Deal: Signature Bed Frame &lpar;2025&rpar;](https://www.wired.com/story/thuma-black-friday-deals-2025/)
  - [An in-depth look at TPUv7 Ironwood, the latest generation of Google&#39;s TPU, and how it positions Google as a serious challenger to Nvidia&#39;s AI chip dominance &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/251130/p8#a251130p8)
  - [You need to read the treatise on spacing out, Bored and Brilliant](https://www.theverge.com/report/834063/treatise-on-spacing-out-bored-and-brilliant-manoush-zomorodi)
- - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
- - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-cyber-monday-deals-2025/)
- - [Nintendo Switch 2 Black Friday Deals: Bundles, Controllers, Earbuds](https://www.wired.com/story/nintendo-switch-2-black-friday-deals/)<!-- TECH:END -->
+ - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

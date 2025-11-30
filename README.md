@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
  - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
- - 💣 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
- - 😝 [POV you are an engineer about to leak state secrets and f*ck up your entire life](http://9gag.com/gag/aQzDzG8)
+ - 💣 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)
+ - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
  - 👉 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
  - [I just want AI to rename my photos](https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast)
  - [This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now](https://www.wired.com/story/best-black-friday-gaming-laptop-deal/)
  - [The Best Walking Pad is 30% Off With This Cyber Week Sale](https://www.wired.com/story/urevo-walking-pad-black-friday-sale-2025/)
- - [Stock Up On Lifestraw Personal Water Filters During This Sale](https://www.wired.com/story/lifestraw-black-friday-deal-2025/)
- - [It doesn&amp;#8217;t end at Neuralink](https://www.theverge.com/report/829120/neuralink-bci-webcam)<!-- TECH:END -->
+ - [Stock Up On Lifestraw Personal Water Filters During This Sale](https://www.wired.com/story/lifestraw-black-friday-deal-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

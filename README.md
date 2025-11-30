@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Petkit PuraMax 2 Is $100 Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/petkit-puramax-2-black-friday-2025/)
  - [The indie web is here to make the internet weird again](https://www.theverge.com/column/829831/indie-web-geocities-neocities)
  - [The 2025 Installer gift guide](https://www.theverge.com/tech/830153/the-2025-installer-gift-guide)
  - [Crime blotter: 100 iPhones recovered in Austin](https://appleinsider.com/articles/25/11/30/crime-blotter-100-iphones-recovered-in-austin?utm_source=rss)
- - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
- - [Here&#39;s How to Relive Your Gaming History Spanning Decades Across Nintendo Consoles](https://www.cnet.com/tech/gaming/heres-how-to-relive-your-gaming-history-spanning-decades-across-nintendo-consoles/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

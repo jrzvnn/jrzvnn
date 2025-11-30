@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Versatile role](http://9gag.com/gag/axyeyZ1)
- - 😝 [Awesome scene](http://9gag.com/gag/aMV0EjP)
- - 💣 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
- - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
- - 👉 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)<!-- MEMES:END -->
+ - 😝 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)
+ - 😝 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)
+ - 💣 [Thank you, gravity!](http://9gag.com/gag/aNDGwY6)
+ - 😝 [Poor](http://9gag.com/gag/amoOgEd)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)<!-- MEMES:END -->
 
 ---
 

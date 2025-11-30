@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
+ - [Black Friday across the pond: Save on these UK Apple deals](https://appleinsider.com/articles/25/11/30/black-friday-across-the-pond-save-on-these-uk-apple-deals?utm_source=rss)
  - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
  - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)
- - [Boox Palma 2 Pro review: Adds color at a significant cost](https://appleinsider.com/articles/25/11/30/boox-palma-2-pro-review-adds-color-at-a-significant-cost?utm_source=rss)
- - [Anthropic says over 60% of its business customers use more than one Claude product, a trend it began noticing after Claude Code&#39;s rise in popularity &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251130/p10#a251130p10)
- - [Today&#39;s Wordle Hints, Answer and Help for Dec. 1, #1626](https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-dec-1-1626/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boox Palma 2 Pro review: Adds color at a significant cost](https://appleinsider.com/articles/25/11/30/boox-palma-2-pro-review-adds-color-at-a-significant-cost?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

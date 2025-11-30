@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 😝 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
+ - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
  - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 😝 [Was is das](http://9gag.com/gag/aMV04xX)
- - 👉 [Reminder of a perfect casting](http://9gag.com/gag/a1m81vD)<!-- MEMES:END -->
+ - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
+ - 👉 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)<!-- MEMES:END -->
 
 ---
 

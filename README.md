@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crime blotter: 100 iPhones recovered in Austin](https://appleinsider.com/articles/25/11/30/crime-blotter-100-iphones-recovered-in-austin?utm_source=rss)
+ - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
  - [The Oceans Are Going to Rise—but When?](https://www.wired.com/story/the-oceans-are-going-to-rise-but-when/)
  - [Researchers unveil PropensityBench, a benchmark showing how stressors like shorter deadlines increase misbehavior in agentic AI models during task completion &lpar;Matthew Hutson/IEEE Spectrum&rpar;](http://www.techmeme.com/251130/p5#a251130p5)
- - [Premier League Soccer: Stream West Ham vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)
- - [Mexico Preps for the 2026 World Cup With a Ticket Resale Platform and a Tourism App](https://www.wired.com/story/mexico-preps-for-the-2026-world-cup-with-a-ticket-resale-platform-and-a-tourism-app/)
- - [The Merlin Bird ID App Has Kept Me Grounded in the Present More Than Any Meditation App](https://www.cnet.com/health/the-merlin-bird-id-app-has-kept-me-grounded-in-the-present-more-than-any-meditation-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Premier League Soccer: Stream West Ham vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The 202 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 30, #433](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-30-433/#ftag=CAD590a51e)
+ - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-30/#ftag=CAD590a51e)
  - [Anker’s handy little 3-port charger is just 35 bucks](https://www.theverge.com/gadgets/833697/anker-prime-charger-67w-3-port)
- - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)
- - [169 Best Black Friday Deals 2025: Everything Tested and Actually Discounted](https://www.wired.com/story/black-friday-deals-2025-2/)
- - [The 200 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
- - [A profile of Klay, whose app will let users remake songs using AI; Klay has raised ~$10M and is the first AI startup to close deals with the three major labels &lpar;Abram Brown/The Information&rpar;](http://www.techmeme.com/251129/p10#a251129p10)<!-- TECH:END -->
+ - [The best gaming headset I tried this year is $60 off for Black Friday](https://www.theverge.com/gadgets/829932/wireless-pc-gaming-headset-fractal-scape-deal-sale-black-friday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

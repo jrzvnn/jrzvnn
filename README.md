@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Steam: The origins](http://9gag.com/gag/aE0j07n)
- - 😝 [For the boys](http://9gag.com/gag/aZZ4Dmp)
- - 💣 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
- - 😝 [Good old times](http://9gag.com/gag/aXPmPgv)
- - 👉 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)<!-- MEMES:END -->
+ - 😝 [Versatile role](http://9gag.com/gag/axyeyZ1)
+ - 😝 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
+ - 💣 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
+ - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
 
 ---
 

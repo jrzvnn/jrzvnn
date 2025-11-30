@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The best Cyber Monday deals on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals)
+ - [The Best Kindle Colorsoft Sale Is Happening for Black Friday](https://www.wired.com/story/best-kindle-colorsoft-black-friday-deal-2025/)
  - [South Korean authorities are investigating a data leak at e-commerce giant Coupang that exposed ~33.7M accounts; the country has a population of 51.7M &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/251130/p7#a251130p7)
  - [The Best Black Friday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/black-friday-streaming-deals-2025/)
- - [Our Definitive List of the 180 Black Friday Deals](https://www.wired.com/story/black-friday-deals-2025-3/)
- - [Considering Buying a $20K Home Robot? There&#39;s Something You Need to Know First](https://www.cnet.com/tech/considering-buying-a-20k-home-robot-theres-something-you-need-to-know-first/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Our Definitive List of the 180 Black Friday Deals](https://www.wired.com/story/black-friday-deals-2025-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [A very good simple solution](http://9gag.com/gag/aE0jMjO)
- - 😝 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)
- - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 😝 [My friend: &#39;&#39;I had a dream where I climbed Mount Everest and touched the clouds, what did you dream about lately?&#39;&#39; Me:](http://9gag.com/gag/aZZ41Pp)
- - 👉 [Evolving, but evolving backwards..](http://9gag.com/gag/aqyVRBp)<!-- MEMES:END -->
+ - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
+ - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
+ - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
 
 ---
 

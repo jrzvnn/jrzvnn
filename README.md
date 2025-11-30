@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
  - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
- - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 💣 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
- - 👉 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)<!-- MEMES:END -->
+ - 💣 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
+ - 😝 [POV you are an engineer about to leak state secrets and f*ck up your entire life](http://9gag.com/gag/aQzDzG8)
+ - 👉 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)<!-- MEMES:END -->
 
 ---
 

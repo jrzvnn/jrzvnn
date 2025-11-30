@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
  - 😝 [Versatile role](http://9gag.com/gag/axyeyZ1)
- - 💣 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
- - 😝 [Arnie](http://9gag.com/gag/a4PBnPy)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 😝 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
+ - 💣 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
 
 ---
 

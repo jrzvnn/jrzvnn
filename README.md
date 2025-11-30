@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
- - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
- - 💣 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
- - 😝 [BONK](http://9gag.com/gag/awy9g9r)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 😝 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
+ - 😝 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)
+ - 💣 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
+ - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
 
 ---
 

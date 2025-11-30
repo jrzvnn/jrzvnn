@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I just want AI to rename my photos](https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast)
+ - [This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now](https://www.wired.com/story/best-black-friday-gaming-laptop-deal/)
  - [The Best Walking Pad is 30% Off With This Cyber Week Sale](https://www.wired.com/story/urevo-walking-pad-black-friday-sale-2025/)
  - [Stock Up On Lifestraw Personal Water Filters During This Sale](https://www.wired.com/story/lifestraw-black-friday-deal-2025/)
- - [It doesn&amp;#8217;t end at Neuralink](https://www.theverge.com/report/829120/neuralink-bci-webcam)
- - [The Rocco Fridge Isn&#39;t So Smart, But It Sure Is Pretty](https://www.wired.com/story/you-have-8-hours-to-save-on-this-stunning-smart-fridge/)
- - [The Petkit PuraMax 2 Is $100 Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/petkit-puramax-2-black-friday-2025/)<!-- TECH:END -->
+ - [It doesn&amp;#8217;t end at Neuralink](https://www.theverge.com/report/829120/neuralink-bci-webcam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

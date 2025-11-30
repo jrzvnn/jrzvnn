@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
  - [Best MacBook Air Cyber Monday deals knock up to $600 off, prices from $549](https://appleinsider.com/articles/25/11/30/best-macbook-air-cyber-monday-deals-knock-up-to-600-off-prices-from-549?utm_source=rss)
  - [Data centers in Oregon might be helping to drive an increase in cancer and miscarriages](https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage)
  - [How a Chinese entrepreneur amassed 10M+ IPv4 addresses, mostly from Africa, to lease them outside Africa, leaving African ISPs struggling to expand capacity &lpar;Alexandra Wexler/Wall Street Journal&rpar;](http://www.techmeme.com/251130/p11#a251130p11)
- - [Swatch MoonSwatch Mission To Earthphase Moonshine Gold Cold Moon: Price, Specs, Availability](https://www.wired.com/story/every-model-of-this-new-snoopy-moonswatch-is-different-and-you-can-only-get-one-when-it-snows/)
- - [The Best Cyber Monday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2025/)<!-- TECH:END -->
+ - [Swatch MoonSwatch Mission To Earthphase Moonshine Gold Cold Moon: Price, Specs, Availability](https://www.wired.com/story/every-model-of-this-new-snoopy-moonswatch-is-different-and-you-can-only-get-one-when-it-snows/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

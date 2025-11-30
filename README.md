@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Black Friday Soundbar Deals](https://www.wired.com/story/black-friday-soundbar-deals-2025/)
  - [Best Dyson Cyber Monday Deals &lpar;2025&rpar;: Gen5 Detect, Airstrait](https://www.wired.com/story/dyson-cyber-monday-deals-2025/)
  - [My favorite snore-blocking sleepbuds are down to their lowest price](https://www.theverge.com/gadgets/834099/anker-soundcore-sleep-a20-snore-blocking-earbuds-lowest-price-cyber-monday)
  - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)
- - [Best Thuma Black Friday Deal: Signature Bed Frame &lpar;2025&rpar;](https://www.wired.com/story/thuma-black-friday-deals-2025/)
- - [An in-depth look at TPUv7 Ironwood, the latest generation of Google&#39;s TPU, and how it positions Google as a serious challenger to Nvidia&#39;s AI chip dominance &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/251130/p8#a251130p8)<!-- TECH:END -->
+ - [Best Thuma Black Friday Deal: Signature Bed Frame &lpar;2025&rpar;](https://www.wired.com/story/thuma-black-friday-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

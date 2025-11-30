@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
- - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 😝 [A very good simple solution](http://9gag.com/gag/aE0jMjO)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
+ - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 😝 [BONK](http://9gag.com/gag/awy9g9r)
+ - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
 
 ---
 

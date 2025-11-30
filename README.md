@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
  - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 💣 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
+ - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
  - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
  - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
 

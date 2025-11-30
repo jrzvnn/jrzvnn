@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
- - 😝 [Rejection..](http://9gag.com/gag/a9y4yM1)
- - 💣 [They interrupted the interview for this moment](http://9gag.com/gag/abALedv)
- - 😝 [Mercy to the guilty is cruelty to the innocent.](http://9gag.com/gag/a7omoDA)
- - 👉 [Evolving, but evolving backwards..](http://9gag.com/gag/aqyVRBp)<!-- MEMES:END -->
+ - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [A very good simple solution](http://9gag.com/gag/aE0jMjO)
+ - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---
 

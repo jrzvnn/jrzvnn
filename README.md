@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers unveil PropensityBench, a benchmark showing how stressors like shorter deadlines increase misbehavior in agentic AI models during task completion &lpar;Matthew Hutson/IEEE Spectrum&rpar;](http://www.techmeme.com/251130/p5#a251130p5)
+ - [Mexico Preps for the 2026 World Cup With a Ticket Resale Platform and a Tourism App](https://www.wired.com/story/mexico-preps-for-the-2026-world-cup-with-a-ticket-resale-platform-and-a-tourism-app/)
  - [Best Black Friday Christmas Tree Deals &lpar;and Lights, Too&rpar; of 2025](https://www.wired.com/story/black-friday-christmas-tree-deals/)
  - [The Rare Earth Metal Driving Tensions Between the US and China](https://www.wired.com/story/yttrium-rare-earth-metal-china-us/)
- - [Premier League Soccer: Stream Crystal Palace vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-crystal-palace-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
- - [6 Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
- - [OpenAI faces rising pressure from rivals three years after ChatGPT&#39;s debut; Similarweb says Gemini users chat longer per visit than ChatGPT and Claude users &lpar;Financial Times&rpar;](http://www.techmeme.com/251130/p4#a251130p4)<!-- TECH:END -->
+ - [Premier League Soccer: Stream Crystal Palace vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-crystal-palace-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

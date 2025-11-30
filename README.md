@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Versatile role](http://9gag.com/gag/axyeyZ1)
+ - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
  - 😝 [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
- - 💣 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
- - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
  - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---

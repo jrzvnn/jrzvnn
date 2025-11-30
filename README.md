@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [La Liga Soccer: Stream Girona vs. Real Madrid Live From Anywhere](https://www.cnet.com/tech/services-and-software/la-liga-soccer-stream-girona-vs-real-madrid-live-from-anywhere/#ftag=CAD590a51e)
  - [The Best Amazon Device and Kindle Black Friday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025-2/)
  - [The best Cyber Monday deals on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals)
  - [The Best Kindle Colorsoft Sale Is Happening for Black Friday](https://www.wired.com/story/best-kindle-colorsoft-black-friday-deal-2025/)
- - [South Korean authorities are investigating a data leak at e-commerce giant Coupang that exposed ~33.7M accounts; the country has a population of 51.7M &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/251130/p7#a251130p7)
- - [The Best Black Friday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/black-friday-streaming-deals-2025/)<!-- TECH:END -->
+ - [South Korean authorities are investigating a data leak at e-commerce giant Coupang that exposed ~33.7M accounts; the country has a population of 51.7M &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/251130/p7#a251130p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

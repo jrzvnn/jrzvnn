@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The indie web is here to make the internet weird again](https://www.theverge.com/column/829831/indie-web-geocities-neocities)
+ - [The 2025 Installer gift guide](https://www.theverge.com/tech/830153/the-2025-installer-gift-guide)
  - [Crime blotter: 100 iPhones recovered in Austin](https://appleinsider.com/articles/25/11/30/crime-blotter-100-iphones-recovered-in-austin?utm_source=rss)
  - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
- - [The Oceans Are Going to Rise—but When?](https://www.wired.com/story/the-oceans-are-going-to-rise-but-when/)
- - [Researchers unveil PropensityBench, a benchmark showing how stressors like shorter deadlines increase misbehavior in agentic AI models during task completion &lpar;Matthew Hutson/IEEE Spectrum&rpar;](http://www.techmeme.com/251130/p5#a251130p5)
- - [Premier League Soccer: Stream West Ham vs. Liverpool Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-west-ham-vs-liverpool-live-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s How to Relive Your Gaming History Spanning Decades Across Nintendo Consoles](https://www.cnet.com/tech/gaming/heres-how-to-relive-your-gaming-history-spanning-decades-across-nintendo-consoles/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

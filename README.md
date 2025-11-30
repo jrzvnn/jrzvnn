@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Some products just arent made for everyone](http://9gag.com/gag/a4PBo01)
- - 😝 [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
- - 💣 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
- - 👉 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)<!-- MEMES:END -->
+ - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [Awesome scene](http://9gag.com/gag/aMV0EjP)
+ - 💣 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)
+ - 😝 [Man knows his worth](http://9gag.com/gag/a34z4oe)
+ - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
 
 ---
 

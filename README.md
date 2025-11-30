@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A very good simple solution](http://9gag.com/gag/aE0jMjO)
  - 😝 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [A very good simple solution](http://9gag.com/gag/aE0jMjO)
- - 😝 [Evolving, but evolving backwards..](http://9gag.com/gag/aqyVRBp)
- - 👉 [Arnie](http://9gag.com/gag/a4PBnPy)<!-- MEMES:END -->
+ - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 😝 [My friend: &#39;&#39;I had a dream where I climbed Mount Everest and touched the clouds, what did you dream about lately?&#39;&#39; Me:](http://9gag.com/gag/aZZ41Pp)
+ - 👉 [Evolving, but evolving backwards..](http://9gag.com/gag/aqyVRBp)<!-- MEMES:END -->
 
 ---
 

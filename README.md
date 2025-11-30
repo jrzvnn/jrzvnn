@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Versatile role](http://9gag.com/gag/axyeyZ1)
- - 😝 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
- - 💣 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
- - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 👉 [Energy Shield Master Challenges Martial Arts Expert to Hit Him in the Face](http://9gag.com/gag/aryDnZ7)<!-- MEMES:END -->
+ - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [The tenth thanksgiving celebration among them](http://9gag.com/gag/aE0jqdn)
+ - 💣 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
+ - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
+ - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
 
 ---
 

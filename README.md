@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)
+ - [Boox Palma 2 Pro review: Adds color at a significant cost](https://appleinsider.com/articles/25/11/30/boox-palma-2-pro-review-adds-color-at-a-significant-cost?utm_source=rss)
  - [Anthropic says over 60% of its business customers use more than one Claude product, a trend it began noticing after Claude Code&#39;s rise in popularity &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/251130/p10#a251130p10)
  - [30 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tech-deals-2025/)
- - [You Can Get Peacock or Paramount+ With Walmart+ Right Now &lpar;2025&rpar;](https://www.wired.com/story/walmart-plus-cyber-monday-2025/)
- - [Sources: Databricks is raising $5B at a $134B valuation, expects sales to grow 55% in 2025 to $4.1B, and is operating at roughly breakeven &lpar;Cory Weinberg/The Information&rpar;](http://www.techmeme.com/251130/p9#a251130p9)
- - [This deal on smart glasses was too good for my husband to pass up](https://www.theverge.com/gadgets/834064/echo-frames-cyber-monday-deal-echo-spot)<!-- TECH:END -->
+ - [You Can Get Peacock or Paramount+ With Walmart+ Right Now &lpar;2025&rpar;](https://www.wired.com/story/walmart-plus-cyber-monday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

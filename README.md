@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Walking Pad is 30% Off With This Cyber Week Sale](https://www.wired.com/story/urevo-walking-pad-black-friday-sale-2025/)
+ - [Stock Up On Lifestraw Personal Water Filters During This Sale](https://www.wired.com/story/lifestraw-black-friday-deal-2025/)
  - [It doesn&amp;#8217;t end at Neuralink](https://www.theverge.com/report/829120/neuralink-bci-webcam)
  - [The Rocco Fridge Isn&#39;t So Smart, But It Sure Is Pretty](https://www.wired.com/story/you-have-8-hours-to-save-on-this-stunning-smart-fridge/)
- - [The Petkit PuraMax 2 Is $100 Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/petkit-puramax-2-black-friday-2025/)
- - [300,000 AI-Animated Poses in an Instant: My Visit to Disney and the New Reality for Cartoons](https://www.cnet.com/tech/services-and-software/300000-ai-animated-poses-in-an-instant-my-visit-to-disney-and-the-new-reality-for-cartoons/#ftag=CAD590a51e)
- - [Best VPN for Mac for 2025: Improve Your Privacy for Web Browsing, Streaming and Gaming](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Petkit PuraMax 2 Is $100 Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/petkit-puramax-2-black-friday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

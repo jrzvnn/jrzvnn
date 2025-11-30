@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Black Friday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/black-friday-tv-deals-2025-2/)
  - [Screaming Cyber Monday deals on Bose, Sony, and Apple headphones and earbuds](https://www.theverge.com/gadgets/831125/best-black-friday-headphone-earbud-deals-2025)
  - [How David Sacks&#39; work on AI and crypto in Trump&#39;s White House benefits his investments, those of his Silicon Valley friends, and the All-In podcast he co-hosts &lpar;New York Times&rpar;](http://www.techmeme.com/251130/p6#a251130p6)
  - [The best Cyber Monday deals on Apple MacBooks, AirTags, iPads, and more](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
- - [I just want AI to rename my photos](https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast)
- - [This Alienware Laptop Is the Best Gaming Laptop Deal Going Right Now](https://www.wired.com/story/best-black-friday-gaming-laptop-deal/)<!-- TECH:END -->
+ - [I just want AI to rename my photos](https://www.theverge.com/podcast/833993/raycast-ai-models-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

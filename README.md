@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
- - 😝 [Couldn&#39;t leave the little guy behind](http://9gag.com/gag/awy9yL1)
- - 💣 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
+ - 😝 [Rejection..](http://9gag.com/gag/a9y4yM1)
+ - 💣 [They interrupted the interview for this moment](http://9gag.com/gag/abALedv)
+ - 😝 [Mercy to the guilty is cruelty to the innocent.](http://9gag.com/gag/a7omoDA)
+ - 👉 [Evolving, but evolving backwards..](http://9gag.com/gag/aqyVRBp)<!-- MEMES:END -->
 
 ---
 

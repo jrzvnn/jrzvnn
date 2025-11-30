@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
  - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 😝 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
- - 💣 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
+ - 💣 [Aaaaooooooooooo..](http://9gag.com/gag/a2vA1bw)
  - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
- - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
+ - 👉 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)<!-- MEMES:END -->
 
 ---
 

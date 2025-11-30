@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 😝 [Awesome scene](http://9gag.com/gag/aMV0EjP)
- - 💣 [Karen vs. Man](http://9gag.com/gag/a1m8Ppw)
- - 😝 [Man knows his worth](http://9gag.com/gag/a34z4oe)
- - 👉 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)<!-- MEMES:END -->
+ - 😝 [Gang gang](http://9gag.com/gag/aD2qYNd)
+ - 😝 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)
+ - 💣 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 😝 [Mercy to the guilty is cruelty to the innocent.](http://9gag.com/gag/a7omoDA)
+ - 👉 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)<!-- MEMES:END -->
 
 ---
 

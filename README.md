@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [At the Christmas market in Switzerland](http://9gag.com/gag/a2vAKXE)
- - 😝 [POV you are an engineer about to leak state secrets and f*ck up your entire life](http://9gag.com/gag/aQzDzG8)
- - 💣 [The way he tracked it under the car, pure precision, flawless](http://9gag.com/gag/avyBQYM)
- - 😝 [9gaggers... Eurasian girl...](http://9gag.com/gag/a4PBnWv)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)<!-- MEMES:END -->
+ - 😝 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
+ - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
+ - 💣 [Versatile role](http://9gag.com/gag/axyeyZ1)
+ - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
+ - 👉 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)<!-- MEMES:END -->
 
 ---
 

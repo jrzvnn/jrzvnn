@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [My favorite Cyber Monday TV deals from Samsung, Sony, and others are up to 50% off](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
  - [Disney Plus, Hulu, and HBO Max are all over 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/829306/best-black-friday-streaming-deals-hulu-disney-plus-paramount-hbo-max-2025)
  - [Black Friday across the pond: Save on these UK Apple deals](https://appleinsider.com/articles/25/11/30/black-friday-across-the-pond-save-on-these-uk-apple-deals?utm_source=rss)
  - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
- - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)
- - [Boox Palma 2 Pro review: Adds color at a significant cost](https://appleinsider.com/articles/25/11/30/boox-palma-2-pro-review-adds-color-at-a-significant-cost?utm_source=rss)<!-- TECH:END -->
+ - [20 Best Black Friday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/early-black-friday-best-buy-deals-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

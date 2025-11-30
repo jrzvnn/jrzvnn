@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 😝 [Poor](http://9gag.com/gag/amoOgEd)
  - 😝 [Please answer, is it true?](http://9gag.com/gag/a9y4qB6)
  - 💣 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
- - 😝 [Arnie](http://9gag.com/gag/a4PBnPy)
+ - 😝 [Mercy to the guilty is cruelty to the innocent.](http://9gag.com/gag/a7omoDA)
  - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India&#39;s Department of Telecommunications directs WhatsApp and other messaging apps to implement SIM binding to ensure each account remains tied to an active SIM &lpar;Kamya Pandey/MediaNama&rpar;](http://www.techmeme.com/251130/p1#a251130p1)
  - [Amazon slashes Apple Watch Ultra 3 to $679 for Cyber Monday &lpar;save $120&rpar;](https://appleinsider.com/articles/25/11/30/amazon-slashes-apple-watch-ultra-3-to-679-for-cyber-monday-save-120?utm_source=rss)
  - [An interview with Google DeepMind Nobel laureate John Jumper on the creative &quot;off-label&quot; uses for AlphaFold, combining AlphaFold&#39;s power with LLMs, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251129/p11#a251129p11)
  - [The 201 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 30, #433](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-30-433/#ftag=CAD590a51e)
- - [Today&#39;s NYT Mini Crossword Answers for Sunday, Nov. 30](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-sunday-nov-30/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Nov. 30, #433](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-nov-30-433/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

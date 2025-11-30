@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Costco Black Friday Deals 2025](https://www.wired.com/story/costco-black-friday-2025/)
- - [The Best Amazon Device and Kindle Black Friday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-black-friday-deals-2025-2/)
- - [The best Cyber Monday deals on some of my favorite smart home gear](https://www.theverge.com/gadgets/831719/best-black-friday-cyber-monday-smart-home-deals)
- - [The Best Kindle Colorsoft Sale Is Happening for Black Friday](https://www.wired.com/story/best-kindle-colorsoft-black-friday-deal-2025/)
- - [South Korean authorities are investigating a data leak at e-commerce giant Coupang that exposed ~33.7M accounts; the country has a population of 51.7M &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/251130/p7#a251130p7)<!-- TECH:END -->
+ - [An in-depth look at TPUv7 Ironwood, the latest generation of Google&#39;s TPU, and how it positions Google as a serious challenger to Nvidia&#39;s AI chip dominance &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/251130/p8#a251130p8)
+ - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
+ - [The Best Red Light Therapy Mask You Can Buy Is Currently on Sale](https://www.wired.com/story/best-current-body-cyber-monday-deals-2025/)
+ - [Nintendo Switch 2 Black Friday Deals: Bundles, Controllers, Earbuds](https://www.wired.com/story/nintendo-switch-2-black-friday-deals/)
+ - [Best Costco Black Friday Deals 2025](https://www.wired.com/story/costco-black-friday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

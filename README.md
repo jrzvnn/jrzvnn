@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Many men still don&#39;t know this](http://9gag.com/gag/aQzDX7d)
  - 😝 [When your drug dealer wants to recruit you, but you need to stay cool so he doesn&#39;t change his mind](http://9gag.com/gag/aqyVGR7)
- - 💣 [How would they blame it on israel and jews this time? i am curious](http://9gag.com/gag/adBWgqV)
- - 😝 [Decorating a pie for the boys](http://9gag.com/gag/aBybdbD)
- - 👉 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)<!-- MEMES:END -->
+ - 😝 [Deport all of them. Never let them into your country](http://9gag.com/gag/aW4eg16)
+ - 💣 [Awesome scene](http://9gag.com/gag/aMV0EjP)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 👉 [You got me, I&#39;m bay harbor butcher](http://9gag.com/gag/azxvemb)<!-- MEMES:END -->
 
 ---
 

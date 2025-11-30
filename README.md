@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday Christmas Tree Deals &lpar;and Lights, Too&rpar; of 2025](https://www.wired.com/story/black-friday-christmas-tree-deals/)
+ - [The Rare Earth Metal Driving Tensions Between the US and China](https://www.wired.com/story/yttrium-rare-earth-metal-china-us/)
+ - [Premier League Soccer: Stream Crystal Palace vs. Man United Live From Anywhere](https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-crystal-palace-vs-man-united-live-from-anywhere/#ftag=CAD590a51e)
  - [6 Best Clitoral Suction Toys &lpar;2025&rpar;, Tested and Reviewed](https://www.wired.com/gallery/best-clitoral-suction-toys/)
- - [OpenAI faces rising pressure from rivals three years after ChatGPT&#39;s debut; Similarweb says Gemini users chat longer per visit than ChatGPT and Claude users &lpar;Financial Times&rpar;](http://www.techmeme.com/251130/p4#a251130p4)
- - [Alibaba Technical Report: Qwen3-VL beats GPT-5 and Gemini 2.5 Pro on visual tasks and has 100% accuracy on &quot;needle-in-a-haystack&quot; tests for 30-minute videos &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251130/p3#a251130p3)
- - [Best MacBook Pro Cyber Monday deals start at just $1,299, save up to $500](https://appleinsider.com/articles/25/11/30/best-macbook-pro-cyber-monday-deals-start-at-just-1299-save-up-to-500?utm_source=rss)
- - [Taiwan raises its 2025 GDP growth forecast to 7.37%, up from 4.45% forecasted in August, the fastest in 15 years, as AI demand boosts its electronics exports &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/251130/p2#a251130p2)<!-- TECH:END -->
+ - [OpenAI faces rising pressure from rivals three years after ChatGPT&#39;s debut; Similarweb says Gemini users chat longer per visit than ChatGPT and Claude users &lpar;Financial Times&rpar;](http://www.techmeme.com/251130/p4#a251130p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

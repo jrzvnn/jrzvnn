@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Rocco Fridge Isn&#39;t So Smart, But It Sure Is Pretty](https://www.wired.com/story/you-have-8-hours-to-save-on-this-stunning-smart-fridge/)
  - [The Petkit PuraMax 2 Is $100 Off Right Now &lpar;2025&rpar;](https://www.wired.com/story/petkit-puramax-2-black-friday-2025/)
- - [The indie web is here to make the internet weird again](https://www.theverge.com/column/829831/indie-web-geocities-neocities)
- - [The 2025 Installer gift guide](https://www.theverge.com/tech/830153/the-2025-installer-gift-guide)
- - [Crime blotter: 100 iPhones recovered in Austin](https://appleinsider.com/articles/25/11/30/crime-blotter-100-iphones-recovered-in-austin?utm_source=rss)
- - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)<!-- TECH:END -->
+ - [300,000 AI-Animated Poses in an Instant: My Visit to Disney and the New Reality for Cartoons](https://www.cnet.com/tech/services-and-software/300000-ai-animated-poses-in-an-instant-my-visit-to-disney-and-the-new-reality-for-cartoons/#ftag=CAD590a51e)
+ - [Best VPN for Mac for 2025: Improve Your Privacy for Web Browsing, Streaming and Gaming](https://www.cnet.com/tech/services-and-software/best-vpn-for-mac/#ftag=CAD590a51e)
+ - [The indie web is here to make the internet weird again](https://www.theverge.com/column/829831/indie-web-geocities-neocities)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

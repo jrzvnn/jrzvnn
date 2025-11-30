@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [And even here, so much is removed.](http://9gag.com/gag/aVv9vzM)
- - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 😝 [C. Can&#39;t tell](http://9gag.com/gag/an707B0)
+ - 😝 [Versatile role](http://9gag.com/gag/axyeyZ1)
  - 💣 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
- - 😝 [BONK](http://9gag.com/gag/awy9g9r)
- - 👉 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)<!-- MEMES:END -->
+ - 😝 [Arnie](http://9gag.com/gag/a4PBnPy)
+ - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---
 

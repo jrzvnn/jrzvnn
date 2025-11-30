@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba Technical Report: Qwen3-VL beats GPT-5 and Gemini 2.5 Pro on visual tasks and has 100% accuracy on &quot;needle-in-a-haystack&quot; tests for 30-minute videos &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251130/p3#a251130p3)
+ - [Best MacBook Pro Cyber Monday deals start at just $1,299, save up to $500](https://appleinsider.com/articles/25/11/30/best-macbook-pro-cyber-monday-deals-start-at-just-1299-save-up-to-500?utm_source=rss)
  - [Taiwan raises its 2025 GDP growth forecast to 7.37%, up from 4.45% forecasted in August, the fastest in 15 years, as AI demand boosts its electronics exports &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/251130/p2#a251130p2)
  - [India&#39;s Department of Telecommunications directs WhatsApp and other messaging apps to implement SIM binding to ensure each account remains tied to an active SIM &lpar;Kamya Pandey/MediaNama&rpar;](http://www.techmeme.com/251130/p1#a251130p1)
- - [Amazon slashes Apple Watch Ultra 3 to $679 for Cyber Monday &lpar;save $120&rpar;](https://appleinsider.com/articles/25/11/30/amazon-slashes-apple-watch-ultra-3-to-679-for-cyber-monday-save-120?utm_source=rss)
- - [An interview with Google DeepMind Nobel laureate John Jumper on the creative &quot;off-label&quot; uses for AlphaFold, combining AlphaFold&#39;s power with LLMs, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/251129/p11#a251129p11)
- - [The 201 Black Friday deals you can still get](https://www.theverge.com/gadgets/832641/black-friday-2025-best-deals-tech-gadgets-still-available)<!-- TECH:END -->
+ - [Amazon slashes Apple Watch Ultra 3 to $679 for Cyber Monday &lpar;save $120&rpar;](https://appleinsider.com/articles/25/11/30/amazon-slashes-apple-watch-ultra-3-to-679-for-cyber-monday-save-120?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

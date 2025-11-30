@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI faces rising pressure from rivals three years after ChatGPT&#39;s debut; Similarweb says Gemini users chat longer per visit than ChatGPT and Claude users &lpar;Financial Times&rpar;](http://www.techmeme.com/251130/p4#a251130p4)
  - [Alibaba Technical Report: Qwen3-VL beats GPT-5 and Gemini 2.5 Pro on visual tasks and has 100% accuracy on &quot;needle-in-a-haystack&quot; tests for 30-minute videos &lpar;Jonathan Kemper/The Decoder&rpar;](http://www.techmeme.com/251130/p3#a251130p3)
  - [Best MacBook Pro Cyber Monday deals start at just $1,299, save up to $500](https://appleinsider.com/articles/25/11/30/best-macbook-pro-cyber-monday-deals-start-at-just-1299-save-up-to-500?utm_source=rss)
  - [Taiwan raises its 2025 GDP growth forecast to 7.37%, up from 4.45% forecasted in August, the fastest in 15 years, as AI demand boosts its electronics exports &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/251130/p2#a251130p2)
- - [India&#39;s Department of Telecommunications directs WhatsApp and other messaging apps to implement SIM binding to ensure each account remains tied to an active SIM &lpar;Kamya Pandey/MediaNama&rpar;](http://www.techmeme.com/251130/p1#a251130p1)
- - [Amazon slashes Apple Watch Ultra 3 to $679 for Cyber Monday &lpar;save $120&rpar;](https://appleinsider.com/articles/25/11/30/amazon-slashes-apple-watch-ultra-3-to-679-for-cyber-monday-save-120?utm_source=rss)<!-- TECH:END -->
+ - [India&#39;s Department of Telecommunications directs WhatsApp and other messaging apps to implement SIM binding to ensure each account remains tied to an active SIM &lpar;Kamya Pandey/MediaNama&rpar;](http://www.techmeme.com/251130/p1#a251130p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

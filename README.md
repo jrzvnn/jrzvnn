@@ -166,9 +166,9 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
  - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
  - 😝 [Kids nowdays will never understand how mindblowing teletext/ceefax was when it appeared](http://9gag.com/gag/aAyLE6g)
  - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
 

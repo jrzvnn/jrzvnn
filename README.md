@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
- - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 😝 [World first lighter](http://9gag.com/gag/aQzDvVz)
- - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
+ - 😝 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
+ - 😝 [Insurance logic at its finest](http://9gag.com/gag/aPAVmpg)
+ - 💣 [Beer commercials before they became g eh](http://9gag.com/gag/aoyG303)
+ - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
 
 ---
 

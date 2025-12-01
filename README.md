@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 💣 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
+ - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
  - 😝 [When you are an English teacher](http://9gag.com/gag/awy937R)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
 
 ---
 

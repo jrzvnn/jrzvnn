@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [15 Best Cyber Monday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)
  - [MKBHD is taking down his wallpaper app](https://www.theverge.com/news/835090/mkbhd-panels-wallpaper-app-shutdown)
+ - [Why Don’t Norwegians Hate Tesla Like the Rest of Europe Does?](https://www.wired.com/story/why-dont-norwegians-hate-tesla-like-rest-of-europe/)
  - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [SITE NEWS: How to contact Techmeme about news](https://news.techmeme.com/251201/contact)
- - [The Best Cyber Monday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2025/)
- - [Microsoft&amp;#8217;s ugly sweaters return with Clippy, Xbox, and Zune brown options](https://www.theverge.com/news/835130/microsoft-ugly-sweater-clippy-zune-brown-xbox)<!-- TECH:END -->
+ - [SITE NEWS: How to contact Techmeme about news](https://news.techmeme.com/251201/contact)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

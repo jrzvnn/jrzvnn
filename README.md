@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prague’s City Center Sparkles, Buzzes, and Burns at the Signal Festival](https://www.wired.com/story/prague-signal-festival-report/)
  - [30% Off Canon Promo Codes | December 2025](https://www.wired.com/story/canon-promo-code/)
  - [China&#39;s central bank reaffirmed its stance on crypto, calling virtual currency activity illegal and saying stablecoins fail KYC and anti-money-laundering rules &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p2#a251201p2)
  - [Newegg Promo Code: 10% Off in December 2025](https://www.wired.com/story/newegg-promo-code/)
- - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)
- - [20% Squarespace Promo Codes | December 2025](https://www.wired.com/story/squarespace-promo-code/)<!-- TECH:END -->
+ - [Lenovo Coupon Codes and Deals: $5,000+ Off](https://www.wired.com/story/lenovo-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

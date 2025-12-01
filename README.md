@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Cyber Monday Coffee Subscription Deals &lpar;2025&rpar;: Atlas, Trade](https://www.wired.com/story/best-cyber-monday-coffee-subscription-deals-2025/)
+ - [This $5 Kindle page-turning remote is all I’m buying for Cyber Monday](https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025)
+ - [The 157 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025/)
  - [Memo: Adam Mosseri asks Instagram US staff to return to office five days a week, starting February; sources: it&#39;s the first such RTO mandate for a big Meta unit &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251201/p23#a251201p23)
- - [15 Best Cyber Monday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)
- - [MKBHD is taking down his wallpaper app](https://www.theverge.com/news/835090/mkbhd-panels-wallpaper-app-shutdown)
- - [Why Don’t Norwegians Hate Tesla Like the Rest of Europe Does?](https://www.wired.com/story/why-dont-norwegians-hate-tesla-like-rest-of-europe/)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [15 Best Cyber Monday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [German AI startup Black Forest Labs, which develops the open-source Flux image models, raised $300M at a $3.25B valuation, up from $1B in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p7#a251201p7)
- - [14 Best Cyber MondayPhone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)
- - [Best Cyber Monday Couch Deals, Tested In Our Homes &lpar;2025&rpar;](https://www.wired.com/story/best-couch-deals-cyber-monday-2025/)
- - [The Verge’s guide to Cyber Monday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)
- - [Netflix kills casting from phones](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)<!-- TECH:END -->
+ - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)
+ - [32 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)
+ - [Amazon Is Having a Huge Cyber Monday Sale on Birdfy Smart Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeder-deals-cyber-monday-2025/)
+ - [14 Best Cyber MondayPhone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

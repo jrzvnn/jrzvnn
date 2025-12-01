@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Dozens of US universities and colleges have announced new AI departments and programs over the last two years; an AI program is now MIT&#39;s second-largest major &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/251201/p25#a251201p25)
  - [Netflix Won&#39;t Let You Cast Shows From Your Phone to Your TV Anymore](https://www.wired.com/story/netflix-wont-let-you-cast-shows-from-your-phone-to-your-tv-anymore/)
  - [The still-great AirPods Pro 2 are $85 cheaper than the latest model for Cyber Monday](https://www.theverge.com/gadgets/835202/cyber-monday-airpods-pro-2-woot-deal-sale-2025)
- - [The Surface Laptop Has Dropped to an All-Time Low for Cyber Monday](https://www.wired.com/story/surface-laptop-cyber-monday-deal/)
- - [The Best Cyber Monday Soundbar Deals](https://www.wired.com/story/cyber-monday-soundbar-deals-2025/)
- - [Shopify suffers an outage, leaving some merchants unable to log in or access POS systems, and says it has fixed an issue and is seeing signs of recovery &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251201/p24#a251201p24)<!-- TECH:END -->
+ - [The Surface Laptop Has Dropped to an All-Time Low for Cyber Monday](https://www.wired.com/story/surface-laptop-cyber-monday-deal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

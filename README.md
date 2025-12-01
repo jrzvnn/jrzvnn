@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon launches Amazon Now, a new service that aims to deliver household essentials and groceries in ~30 minutes or less, available in Seattle and Philadelphia &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251201/p29#a251201p29)
+ - [Kalshi says users can now trade tokenized versions of their wagers on Solana, in a bid to court crypto holders; Polymarket already allows on-chain trading &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/251201/p28#a251201p28)
  - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
  - [OpenAI just made another circular deal](https://www.theverge.com/news/835453/openai-ownership-thrive-holdings)
- - [We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)
- - [Apple&#39;s head of AI John Giannandrea is retiring](https://appleinsider.com/articles/25/12/01/head-of-ai-and-ml-john-giannandrea-is-retiring-from-apple?utm_source=rss)
- - [Apple AI chief steps down following Siri setbacks](https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri)<!-- TECH:END -->
+ - [We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

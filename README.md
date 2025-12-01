@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tutor Intelligence, which makes AI-powered warehouse robots, raised a $34M Series A led by Union Square Ventures, bringing its total funding to $42M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251201/p19#a251201p19)
+ - [India is ordering Apple and other phone makers to preinstall a state-owned app](https://www.theverge.com/news/834998/india-sanchar-saathi-app-order-apple-android)
+ - [Cyber Monday Grill Deals: A Bunch of Favorites Are on Sale Today &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-grill-deals-2025/)
  - [Swiss and German law enforcement agencies jointly shut down Cryptomixer, a major bitcoin mixing platform suspected of laundering money from criminal activities &lpar;Ludwig Burger/Reuters&rpar;](http://www.techmeme.com/251201/p18#a251201p18)
- - [Runway says its new text-to-video AI generator has &amp;#8216;unprecedented&amp;#8217; accuracy](https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch)
- - [Apple smart display rumors, Matter camera &amp; a new tracking card on HomeKit Insider](https://appleinsider.com/articles/25/12/01/apple-smart-display-rumors-matter-camera-a-new-tracking-card-on-homekit-insider?utm_source=rss)
- - [The Best Pokémon Cyber Monday Deals That Make Great Gifts &lpar;2025&rpar;](https://www.wired.com/story/best-pokemon-black-friday-deals-2025/)
- - [The reaction to NYT&#39;s David Sacks story aside, Sacks is pushing policies to help the US win the AI race, which also benefit him, his allies, and even his foes &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251201/p17#a251201p17)<!-- TECH:END -->
+ - [Runway says its new text-to-video AI generator has &amp;#8216;unprecedented&amp;#8217; accuracy](https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

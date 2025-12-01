@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
  - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 💣 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
- - 😝 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
+ - 💣 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)
+ - 😝 [When you are an English teacher](http://9gag.com/gag/awy937R)
  - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---

@@ -167,8 +167,8 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
+ - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
+ - 💣 [Great scene](http://9gag.com/gag/azxvd8z)
  - 😝 [When you are an English teacher](http://9gag.com/gag/awy937R)
  - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You can save up to $100 on Seagate’s Xbox Expansion Cards for Cyber Monday](https://www.theverge.com/gadgets/834745/seagate-storage-expansion-card-xbox-series-x-s-cyber-monday-deal-sale-2025)
+ - [12 Best Cyber Monday Home Security Deals 2025](https://www.wired.com/story/cyber-monday-home-security-deals-2025/)
  - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
  - [Nevis, which develops AI agents to automate wealth advisers&#39; grunt work, raised a $35M Series A from Sequoia and others at a $200M valuation, after a $5M seed &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251201/p16#a251201p16)
- - [DeepSeek releases DeepSeek-V3.2 and DeepSeek-V3.2-Speciale, calling them &quot;reasoning-first models built for agents&quot;, after releasing V3.2-Exp in September &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251201/p15#a251201p15)
- - [Why IBM CEO Arvind Krishna is still hiring humans in the AI era](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing)
- - [GE’s indoor food smoker is cheaper than ever this Cyber Monday](https://www.theverge.com/gadgets/834666/ge-profile-smart-indoor-smoker-cyber-monday-deal-sale)<!-- TECH:END -->
+ - [DeepSeek releases DeepSeek-V3.2 and DeepSeek-V3.2-Speciale, calling them &quot;reasoning-first models built for agents&quot;, after releasing V3.2-Exp in September &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251201/p15#a251201p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

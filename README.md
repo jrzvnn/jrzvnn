@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 😝 [Before](http://9gag.com/gag/avyB1xq)
- - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
+ - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - 😝 [Instant Regret!](http://9gag.com/gag/aGyrLXK)
+ - 💣 [Before](http://9gag.com/gag/avyB1xq)
+ - 😝 [8 Years and 6 Months. Nursed you to life as an infant. Never hisses, friendly to every single person and downright Zen cat. Gone too soon. RIP Noodle](http://9gag.com/gag/aYQvO40)
+ - 👉 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)<!-- MEMES:END -->
 
 ---
 

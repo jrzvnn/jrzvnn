@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyber Monday streaming deals end tonight, get Disney Plus, Hulu, Paramount Plus, Apple TV from $2.99/mo](https://appleinsider.com/articles/25/12/01/cyber-monday-streaming-deals-end-tonight-get-disney-plus-hulu-paramount-plus-apple-tv-from-299mo?utm_source=rss)
  - [How Animaj, a startup in Disney&#39;s Accelerator Program, uses AI to drastically speed up the animation process, while also claiming to let artists stay in control &lpar;Corinne Reichert/CNET&rpar;](http://www.techmeme.com/251130/p14#a251130p14)
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 1, #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-1-434/#ftag=CAD590a51e)
  - [Amazon&#39;s best AirPods 4 ANC deal is back in stock at $99 for Cyber Monday](https://appleinsider.com/articles/25/12/01/amazons-best-airpods-4-anc-deal-is-back-in-stock-at-99-for-cyber-monday?utm_source=rss)
- - [Here are 50 standout deals under $100 we’re eyeing for Cyber Monday](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)
- - [Today&#39;s NYT Mini Crossword Answers for Monday, Dec. 1](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-monday-dec-1/#ftag=CAD590a51e)
- - [US startups are increasingly adopting Chinese open source AI models, as some capabilities of Chinese models start to catch up with those of frontier US labs &lpar;NBC News&rpar;](http://www.techmeme.com/251130/p13#a251130p13)<!-- TECH:END -->
+ - [Here are 50 standout deals under $100 we’re eyeing for Cyber Monday](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

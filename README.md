@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI takes a stake in Thrive Capital&#39;s Thrive Holdings and plans to embed AI agents in its companies, which already includes an accounting and IT business &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251201/p12#a251201p12)
- - [The Nintendo Switch 2 is $50 off at Walmart during Cyber Monday](https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale)
- - [This Is a Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-cyber-monday-deal-2025/)
- - [Best Cyber Monday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-google-pixel-deals-2025/)
- - [Nvidia acquires $2B of Synopsys&#39; common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p11#a251201p11)<!-- TECH:END -->
+ - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
+ - [39 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)
+ - [Runway launches Gen 4.5, a new text-to-video AI model that produces HD videos from written prompts and excels at physics; Gen 4.5 tops Video Arena&#39;s leaderboard &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p13#a251201p13)
+ - [23 Best GoPro and Camera Deals for Cyber Monday &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-camera-deals-2025/)
+ - [Best Apple Watch Series 11 Cyber Monday deal: New low price of $329](https://appleinsider.com/articles/25/12/01/best-apple-watch-series-11-cyber-monday-deal-new-low-price-of-329?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

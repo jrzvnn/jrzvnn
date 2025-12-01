@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with ex-Intel CEO Pat Gelsinger on the &quot;decay&quot; at Intel, the Chip Act&#39;s terrible execution, the irony of Lip-Bu Tan broadly following his strategy, and more &lpar;Michael Acton/Financial Times&rpar;](http://www.techmeme.com/251130/p12#a251130p12)
+ - [Anker’s Laptop Power Bank is  $32 off for Cyber Monday, its biggest discount yet](https://www.theverge.com/gadgets/834269/anker-laptop-power-bank-cyber-monday-deal-sale-2025)
+ - [The absolute best Cyber Monday deals you can already shop](https://www.theverge.com/gadgets/833101/cyber-monday-best-early-deals-2025)
  - [Our favorite laptops from Apple, Razer, HP, and others are over $500 for Cyber Monday](https://www.theverge.com/gadgets/828617/best-black-friday-laptop-deals-macbook-surface-gaming-notebooks-2025)
- - [Best MacBook Air Cyber Monday deals knock up to $600 off, prices from $549](https://appleinsider.com/articles/25/11/30/best-macbook-air-cyber-monday-deals-knock-up-to-600-off-prices-from-549?utm_source=rss)
- - [Data centers in Oregon might be helping to drive an increase in cancer and miscarriages](https://www.theverge.com/news/834151/amazon-data-centers-oregon-cancer-miscarriage)
- - [How a Chinese entrepreneur amassed 10M+ IPv4 addresses, mostly from Africa, to lease them outside Africa, leaving African ISPs struggling to expand capacity &lpar;Alexandra Wexler/Wall Street Journal&rpar;](http://www.techmeme.com/251130/p11#a251130p11)
- - [Swatch MoonSwatch Mission To Earthphase Moonshine Gold Cold Moon: Price, Specs, Availability](https://www.wired.com/story/every-model-of-this-new-snoopy-moonswatch-is-different-and-you-can-only-get-one-when-it-snows/)<!-- TECH:END -->
+ - [Best MacBook Air Cyber Monday deals knock up to $600 off, prices from $549](https://appleinsider.com/articles/25/11/30/best-macbook-air-cyber-monday-deals-knock-up-to-600-off-prices-from-549?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

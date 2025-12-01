@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s head of AI John Giannandrea is retiring](https://appleinsider.com/articles/25/12/01/head-of-ai-and-ml-john-giannandrea-is-retiring-from-apple?utm_source=rss)
+ - [Apple says its AI chief, John Giannandrea, is stepping down; former Microsoft executive Amar Subramanya will lead AI, reporting to Craig Federighi &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251201/p27#a251201p27)
  - [Vanguard will allow ETFs and mutual funds that primarily hold cryptocurrencies to be traded on its platform starting Tuesday, reversing a longstanding position &lpar;Emily Graffeo/Bloomberg&rpar;](http://www.techmeme.com/251201/p26#a251201p26)
  - [The Best Amazon Device and Kindle Cyber Monday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-cyber-monday-deals-2025/)
- - [14 Best Cyber Monday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/)
- - [Vego&#39;s Food Recycler Is the Cheapest We&#39;ve Ever Seen it Right Now &lpar;2025&rpar;](https://www.wired.com/story/vego-cyber-monday-2025/)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [14 Best Cyber Monday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

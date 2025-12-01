@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
+ - [Aura Frame Cyber Monday Sale &lpar;2025&rpar;: Carver, Walden, Aspen](https://www.wired.com/story/aura-frame-cyber-monday-2025/)
  - [US wants laws to force App Store age checks, despite Apple&#39;s existing protections](https://appleinsider.com/articles/25/12/01/us-wants-laws-to-force-app-store-age-checks-despite-apples-existing-protections?utm_source=rss)
  - [The 74 Best REI Cyber Monday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/)
- - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)
- - [Tutor Intelligence, which makes AI-powered warehouse robots, raised a $34M Series A led by Union Square Ventures, bringing its total funding to $42M &lpar;Kyt Dotson/SiliconANGLE&rpar;](http://www.techmeme.com/251201/p19#a251201p19)
- - [India is ordering Apple and other phone makers to preinstall a state-owned app](https://www.theverge.com/news/834998/india-sanchar-saathi-app-order-apple-android)<!-- TECH:END -->
+ - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)
- - 😝 [Mommy Issues](http://9gag.com/gag/aAyLQZL)
- - 💣 [World first lighter](http://9gag.com/gag/aQzDvVz)
- - 😝 [Insurance logic at its finest](http://9gag.com/gag/aPAVmpg)
- - 👉 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)<!-- MEMES:END -->
+ - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
+ - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 😝 [NEVER forget:](http://9gag.com/gag/a4PB6x1)
+ - 👉 [Need help](http://9gag.com/gag/agmpQK1)<!-- MEMES:END -->
 
 ---
 

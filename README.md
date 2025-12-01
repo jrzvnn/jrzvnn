@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
  - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
- - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
- - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
- - 😝 [NEVER forget:](http://9gag.com/gag/a4PB6x1)
- - 👉 [Need help](http://9gag.com/gag/agmpQK1)<!-- MEMES:END -->
+ - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 😝 [Relatable](http://9gag.com/gag/aD2q69N)
+ - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
  - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
  - [39 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)
  - [Runway launches Gen 4.5, a new text-to-video AI model that produces HD videos from written prompts and excels at physics; Gen 4.5 tops Video Arena&#39;s leaderboard &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p13#a251201p13)
- - [23 Best GoPro and Camera Deals for Cyber Monday &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-camera-deals-2025/)
- - [Best Apple Watch Series 11 Cyber Monday deal: New low price of $329](https://appleinsider.com/articles/25/12/01/best-apple-watch-series-11-cyber-monday-deal-new-low-price-of-329?utm_source=rss)<!-- TECH:END -->
+ - [23 Best GoPro and Camera Deals for Cyber Monday &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-camera-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

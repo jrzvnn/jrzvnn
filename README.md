@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why IBM CEO Arvind Krishna is still hiring humans in the AI era](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing)
+ - [GE’s indoor food smoker is cheaper than ever this Cyber Monday](https://www.theverge.com/gadgets/834666/ge-profile-smart-indoor-smoker-cyber-monday-deal-sale)
  - [An analysis of Crunchbase and PitchBook data: in 2025 so far, 80+ tech startups reached $1B valuations, many of them focused on AI with exceptions like Kalshi &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251201/p14#a251201p14)
  - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
- - [39 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)
- - [Runway launches Gen 4.5, a new text-to-video AI model that produces HD videos from written prompts and excels at physics; Gen 4.5 tops Video Arena&#39;s leaderboard &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p13#a251201p13)<!-- TECH:END -->
+ - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

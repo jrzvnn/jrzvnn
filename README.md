@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
- - 😝 [Insurance logic at its finest](http://9gag.com/gag/aPAVmpg)
- - 💣 [Beer commercials before they became g eh](http://9gag.com/gag/aoyG303)
- - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
+ - 😝 [This is how you track helicopter blades apparently](http://9gag.com/gag/avyByMq)
+ - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
+ - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
 
 ---
 

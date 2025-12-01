@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)
  - [Apple&#39;s head of AI John Giannandrea is retiring](https://appleinsider.com/articles/25/12/01/head-of-ai-and-ml-john-giannandrea-is-retiring-from-apple?utm_source=rss)
  - [Apple AI chief steps down amid Siri struggles](https://www.theverge.com/news/835466/apple-ai-chief-john-giannandrea-steps-down-siri)
  - [Apple says its AI chief, John Giannandrea, is stepping down; former Microsoft executive Amar Subramanya will lead AI, reporting to Craig Federighi &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/251201/p27#a251201p27)
- - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)
- - [Vanguard will allow ETFs and mutual funds that primarily hold cryptocurrencies to be traded on its platform starting Tuesday, reversing a longstanding position &lpar;Emily Graffeo/Bloomberg&rpar;](http://www.techmeme.com/251201/p26#a251201p26)<!-- TECH:END -->
+ - [Best Desks of 2025: I&#39;ve Spent Nearly 4,000 Hours Testing Desks. These Are the Ones You Want](https://www.cnet.com/news/best-desks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

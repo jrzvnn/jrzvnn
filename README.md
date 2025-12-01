@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Digital Notebook Cyber Monday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-cyber-monday-sales/)
+ - [Car sharing service Zipcar UK plans to shut down after London extended its Congestion Charge to EVs; Zipcar had losses of £11.7M in 2024 vs. £364,000 in 2023 &lpar;Simon Hunt/City A.M.&rpar;](http://www.techmeme.com/251201/p20#a251201p20)
+ - [Apple’s smallest iPad just got its biggest price cut for Cyber Monday](https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025)
  - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
- - [Aura Frame Cyber Monday Sale &lpar;2025&rpar;: Carver, Walden, Aspen](https://www.wired.com/story/aura-frame-cyber-monday-2025/)
- - [US wants laws to force App Store age checks, despite Apple&#39;s existing protections](https://appleinsider.com/articles/25/12/01/us-wants-laws-to-force-app-store-age-checks-despite-apples-existing-protections?utm_source=rss)
- - [The 74 Best REI Cyber Monday Outdoor Deals &lpar;2025&rpar;](https://www.wired.com/story/best-rei-cyber-week-outdoor-deals-2025/)
- - [The ping pong movie is very stressful](https://www.theverge.com/entertainment/828746/marty-supreme-movie-review)<!-- TECH:END -->
+ - [Aura Frame Cyber Monday Sale &lpar;2025&rpar;: Carver, Walden, Aspen](https://www.wired.com/story/aura-frame-cyber-monday-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

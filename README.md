@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can save up to $100 on Seagate’s Xbox Expansion Cards for Cyber Monday](https://www.theverge.com/gadgets/834745/seagate-storage-expansion-card-xbox-series-x-s-cyber-monday-deal-sale-2025)
- - [12 Best Cyber Monday Home Security Deals 2025](https://www.wired.com/story/cyber-monday-home-security-deals-2025/)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Nevis, which develops AI agents to automate wealth advisers&#39; grunt work, raised a $35M Series A from Sequoia and others at a $200M valuation, after a $5M seed &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251201/p16#a251201p16)
- - [DeepSeek releases DeepSeek-V3.2 and DeepSeek-V3.2-Speciale, calling them &quot;reasoning-first models built for agents&quot;, after releasing V3.2-Exp in September &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251201/p15#a251201p15)<!-- TECH:END -->
+ - [Swiss and German law enforcement agencies jointly shut down Cryptomixer, a major bitcoin mixing platform suspected of laundering money from criminal activities &lpar;Ludwig Burger/Reuters&rpar;](http://www.techmeme.com/251201/p18#a251201p18)
+ - [Runway says its new text-to-video AI generator has &amp;#8216;unprecedented&amp;#8217; accuracy](https://www.theverge.com/news/834905/runway-ai-text-video-generator-launch)
+ - [Apple smart display rumors, Matter camera &amp; a new tracking card on HomeKit Insider](https://appleinsider.com/articles/25/12/01/apple-smart-display-rumors-matter-camera-a-new-tracking-card-on-homekit-insider?utm_source=rss)
+ - [The Best Pokémon Cyber Monday Deals That Make Great Gifts &lpar;2025&rpar;](https://www.wired.com/story/best-pokemon-black-friday-deals-2025/)
+ - [The reaction to NYT&#39;s David Sacks story aside, Sacks is pushing policies to help the US win the AI race, which also benefit him, his allies, and even his foes &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/251201/p17#a251201p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
+ - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
  - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 😝 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
- - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
+ - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 😝 [NEVER forget:](http://9gag.com/gag/a4PB6x1)
+ - 👉 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)<!-- MEMES:END -->
 
 ---
 

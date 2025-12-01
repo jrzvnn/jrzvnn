@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Cyber Monday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/cyber-monday-best-buy-deals/)
  - [Sources: McKinsey and other top consultancies freeze graduate pay offers in 2026 for the third year, as AI reshapes the industry and threatens its pyramid model &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p9#a251201p9)
+ - [Razer DeathAdder V4 Pro Review: Almost the Perfect Gaming Mouse](https://www.wired.com/review/razer-deathadder-v4-pro/)
  - [The Best Cyber Monday Soundbar Deals](https://www.wired.com/story/cyber-monday-soundbar-deals-2025/)
- - [ByteDance launches an AI voice assistant powered by its Doubao LLM, available first on ZTE&#39;s Nubia M153 smartphone prototype; Doubao has an estimated 159M MAUs &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p8#a251201p8)
- - [The Best Cyber Monday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-cyber-monday-2025/)
- - [Who the Hell Is Actually Using Facebook Dating?](https://www.wired.com/story/who-the-hell-is-actually-using-facebook-dating/)<!-- TECH:END -->
+ - [ByteDance launches an AI voice assistant powered by its Doubao LLM, available first on ZTE&#39;s Nubia M153 smartphone prototype; Doubao has an estimated 159M MAUs &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p8#a251201p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

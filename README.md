@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix kills casting from phones](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)
- - [The Best Cyber Monday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2025/)
- - [Indian government order: India&#39;s telecom ministry privately asks phonemakers to preload state cybersecurity app Sanchar Saathi on all new devices within 90 days &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p6#a251201p6)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [14 Best Cyber Monday Headphone Deals &lpar;2025&rpar;: Apple, Sony, and Bose](https://www.wired.com/story/cyber-monday-headphone-deals-2025/)<!-- TECH:END -->
+ - [German AI startup Black Forest Labs, which develops the open-source Flux image models, raised $300M at a $3.25B valuation, up from $1B in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p7#a251201p7)
+ - [14 Best Cyber MondayPhone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)
+ - [Best Cyber Monday Couch Deals, Tested In Our Homes &lpar;2025&rpar;](https://www.wired.com/story/best-couch-deals-cyber-monday-2025/)
+ - [The Verge’s guide to Cyber Monday 2025](https://www.theverge.com/tech/808624/black-friday-cyber-monday-guide-2025)
+ - [Netflix kills casting from phones](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

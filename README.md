@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix Won&#39;t Let You Cast Shows From Your Phone to Your TV Anymore](https://www.wired.com/story/netflix-wont-let-you-cast-shows-from-your-phone-to-your-tv-anymore/)
+ - [The still-great AirPods Pro 2 are $85 cheaper than the latest model for Cyber Monday](https://www.theverge.com/gadgets/835202/cyber-monday-airpods-pro-2-woot-deal-sale-2025)
+ - [The Surface Laptop Has Dropped to an All-Time Low for Cyber Monday](https://www.wired.com/story/surface-laptop-cyber-monday-deal/)
  - [The Best Cyber Monday Soundbar Deals](https://www.wired.com/story/cyber-monday-soundbar-deals-2025/)
- - [Shopify suffers an outage, leaving some merchants unable to log in or access POS systems, and says it has fixed an issue and is seeing signs of recovery &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251201/p24#a251201p24)
- - [The Meta Quest 3S VR Headset Is the Cheapest It&#39;s Ever Been &lpar;2025&rpar;](https://www.wired.com/story/meta-quest-3s-deal-cyber-monday-2025/)
- - [Best Thuma Cyber Monday Deal: Signature Bed Frame &lpar;2025&rpar;](https://www.wired.com/story/thuma-cyber-monday-deals-2025/)
- - [Cyber Monday Electric Toothbrush Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-electric-toothbrush-deals-2025/)<!-- TECH:END -->
+ - [Shopify suffers an outage, leaving some merchants unable to log in or access POS systems, and says it has fixed an issue and is seeing signs of recovery &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251201/p24#a251201p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

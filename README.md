@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OpenAI takes a stake in Thrive Capital&#39;s Thrive Holdings and plans to embed AI agents in its companies, which already includes an accounting and IT business &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251201/p12#a251201p12)
+ - [The Nintendo Switch 2 is $50 off at Walmart during Cyber Monday](https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale)
  - [This Is a Truly Great iPad Deal](https://www.wired.com/story/apple-ipad-cyber-monday-deal-2025/)
  - [Best Cyber Monday Google Pixel Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-google-pixel-deals-2025/)
- - [Nvidia acquires $2B of Synopsys&#39; common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p11#a251201p11)
- - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)
- - [The Best Cyber Monday Beauty Deals, WIRED Approved &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-beauty-deals-2025/)<!-- TECH:END -->
+ - [Nvidia acquires $2B of Synopsys&#39; common stock and unveils a strategic partnership to accelerate computing and AI engineering products, including deploying CUDA &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/251201/p11#a251201p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

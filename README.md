@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HSBC signs a deal with Mistral to access Mistral&#39;s AI models and collaborate on developing new models for internal use, as big banks rush to adopt generative AI &lpar;Ortenca Aliaj/Financial Times&rpar;](http://www.techmeme.com/251201/p5#a251201p5)
- - [40 Best Cyber Monday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-deals-under-100-2025/)
- - [The Best Amazon Device and Kindle Cyber Monday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-cyber-monday-deals-2025/)
- - [Don&#39;t Get Suckered by Cyber Monday Laptop Deals. Just Get the MacBook Air &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-cyber-monday-deal-2025/)
- - [11 Best Cyber Monday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/)<!-- TECH:END -->
+ - [Netflix kills casting from phones](https://www.theverge.com/news/834655/netflix-phone-casting-chromecast-support-killed)
+ - [The Best Cyber Monday Mattress and Bedding Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-mattress-deals-2025/)
+ - [Indian government order: India&#39;s telecom ministry privately asks phonemakers to preload state cybersecurity app Sanchar Saathi on all new devices within 90 days &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p6#a251201p6)
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [14 Best Cyber Monday Headphone Deals &lpar;2025&rpar;: Apple, Sony, and Bose](https://www.wired.com/story/cyber-monday-headphone-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

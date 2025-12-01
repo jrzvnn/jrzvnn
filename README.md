@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [B&amp;H&#39;s Cyber Monday sale slashes up to $500 off MacBook Pro, Air, Mac Studio, Mac mini](https://appleinsider.com/articles/25/12/01/bhs-cyber-monday-sale-slashes-up-to-500-off-macbook-pro-air-mac-studio-mac-mini?utm_source=rss)
+ - [The Luigi Mangione legal saga](https://www.theverge.com/news/835433/the-luigi-mangione-legal-saga)
  - [Amazon launches Amazon Now, a new service that aims to deliver household essentials and groceries in ~30 minutes or less, available in Seattle and Philadelphia &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251201/p29#a251201p29)
  - [Kalshi says users can now trade tokenized versions of their wagers on Solana, in a bid to court crypto holders; Polymarket already allows on-chain trading &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/251201/p28#a251201p28)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [OpenAI just made another circular deal](https://www.theverge.com/news/835453/openai-ownership-thrive-holdings)
- - [We found 25 great laptop deals you can still grab for Cyber Monday](https://www.theverge.com/gadgets/835403/cyber-monday-laptop-deals-macbook-chromebook-surface-2025)<!-- TECH:END -->
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

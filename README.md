@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zillow property listings no longer show risk of fires, floods, and storms](https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings)
+ - [Best Costco Cyber Monday Deals 2025](https://www.wired.com/story/costco-cyber-monday-2025/)
+ - [Nintendo Switch 2 Cyber Monday Deals: Bundles, Controllers, Earbuds](https://www.wired.com/story/nintendo-switch-2-cyber-monday-deals/)
  - [20 Best Cyber Monday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/cyber-monday-best-buy-deals/)
- - [Sources: McKinsey and other top consultancies freeze graduate pay offers in 2026 for the third year, as AI reshapes the industry and threatens its pyramid model &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p9#a251201p9)
- - [Razer DeathAdder V4 Pro Review: Almost the Perfect Gaming Mouse](https://www.wired.com/review/razer-deathadder-v4-pro/)
- - [The Best Cyber Monday Soundbar Deals](https://www.wired.com/story/cyber-monday-soundbar-deals-2025/)
- - [ByteDance launches an AI voice assistant powered by its Doubao LLM, available first on ZTE&#39;s Nubia M153 smartphone prototype; Doubao has an estimated 159M MAUs &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p8#a251201p8)<!-- TECH:END -->
+ - [Sources: McKinsey and other top consultancies freeze graduate pay offers in 2026 for the third year, as AI reshapes the industry and threatens its pyramid model &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p9#a251201p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

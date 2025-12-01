@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Michael Saylor&#39;s Strategy creates a $1.44B cash reserve funded by stock sales after cutting full-year profit and BTC yield targets due to bitcoin price drops &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/251201/p21#a251201p21)
- - [Cyber Week deals: Save up to $2,100 on Samsung Frame, OLED TVs, plus monitors for Mac](https://appleinsider.com/articles/25/12/01/cyber-week-deals-save-up-to-2100-on-samsung-frame-oled-tvs-plus-monitors-for-mac?utm_source=rss)
- - [Amazon and Google’s new cloud link could make it easier to deal with outages](https://www.theverge.com/news/835077/google-cloud-aws-multicloud-link-backup)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Best Digital Notebook Cyber Monday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-cyber-monday-sales/)<!-- TECH:END -->
+ - [A look at ElevenLabs, as ~50% of its $193M in trailing 12-month revenue now comes from corporates, like Cisco, and ~50% from YouTubers, podcasters, and authors &lpar;Iain Martin/Forbes&rpar;](http://www.techmeme.com/251201/p22#a251201p22)
+ - [The Nintendo Switch 2 got its first-ever discount during Cyber Monday](https://www.theverge.com/gadgets/834775/nintendo-switch-2-walmart-cyber-monday-deal-sale)
+ - [Best Apple Cyber Monday Deals: Save up to $1,899 on iPhone, Apple Watch, iPad, AirPods, Mac](https://appleinsider.com/articles/25/11/30/best-apple-cyber-monday-deals-save-up-to-1899-on-iphone-apple-watch-ipad-airpods-mac?utm_source=rss)
+ - [The Best Therabody and Theragun Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-therabody-deals-2025/)
+ - [48 Best Cyber Monday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-deals-under-100-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Cyber Monday Soundbar Deals](https://www.wired.com/story/cyber-monday-soundbar-deals-2025/)
  - [Shopify suffers an outage, leaving some merchants unable to log in or access POS systems, and says it has fixed an issue and is seeing signs of recovery &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251201/p24#a251201p24)
+ - [The Meta Quest 3S VR Headset Is the Cheapest It&#39;s Ever Been &lpar;2025&rpar;](https://www.wired.com/story/meta-quest-3s-deal-cyber-monday-2025/)
  - [Best Thuma Cyber Monday Deal: Signature Bed Frame &lpar;2025&rpar;](https://www.wired.com/story/thuma-cyber-monday-deals-2025/)
- - [Cyber Monday Electric Toothbrush Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-electric-toothbrush-deals-2025/)
- - [Apple&#39;s M4 Mac Mini Is Small, Fast and 20% Off for Cyber Monday](https://www.cnet.com/deals/apples-m4-mac-mini-is-small-fast-and-20-off-for-cyber-monday/#ftag=CAD590a51e)
- - [Best Cyber Monday Coffee Subscription Deals &lpar;2025&rpar;: Atlas, Trade](https://www.wired.com/story/best-cyber-monday-coffee-subscription-deals-2025/)<!-- TECH:END -->
+ - [Cyber Monday Electric Toothbrush Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-electric-toothbrush-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

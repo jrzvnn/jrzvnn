@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cyber Monday Coffee Subscription Deals &lpar;2025&rpar;: Atlas, Trade](https://www.wired.com/story/best-cyber-monday-coffee-subscription-deals-2025/)
- - [This $5 Kindle page-turning remote is all I’m buying for Cyber Monday](https://www.theverge.com/gadgets/834864/kindle-remote-page-turner-cyber-monday-deal-sale-2025)
- - [The 157 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025/)
- - [Memo: Adam Mosseri asks Instagram US staff to return to office five days a week, starting February; sources: it&#39;s the first such RTO mandate for a big Meta unit &lpar;Alex Heath/Sources&rpar;](http://www.techmeme.com/251201/p23#a251201p23)
- - [15 Best Cyber Monday Phone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)<!-- TECH:END -->
+ - [Shopify suffers an outage, leaving some merchants unable to log in or access POS systems, and says it has fixed an issue and is seeing signs of recovery &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/251201/p24#a251201p24)
+ - [Best Thuma Cyber Monday Deal: Signature Bed Frame &lpar;2025&rpar;](https://www.wired.com/story/thuma-cyber-monday-deals-2025/)
+ - [Cyber Monday Electric Toothbrush Deals &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-electric-toothbrush-deals-2025/)
+ - [Apple&#39;s M4 Mac Mini Is Small, Fast and 20% Off for Cyber Monday](https://www.cnet.com/deals/apples-m4-mac-mini-is-small-fast-and-20-off-for-cyber-monday/#ftag=CAD590a51e)
+ - [Best Cyber Monday Coffee Subscription Deals &lpar;2025&rpar;: Atlas, Trade](https://www.wired.com/story/best-cyber-monday-coffee-subscription-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

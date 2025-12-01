@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best MacBook Pro Cyber Monday deals start at just $1,299, save up to $500](https://appleinsider.com/articles/25/11/30/best-macbook-pro-cyber-monday-deals-start-at-just-1299-save-up-to-500?utm_source=rss)
+ - [The 145 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025/)
+ - [The AI boom has led to high demand and more pay for the construction workers that build data centers; a trade group says there is a shortage of ~439K workers &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/251201/p3#a251201p3)
  - [20 Best Cyber Monday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tv-deals-2025/)
- - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)
- - [HP Sprocket Photo Booth Is on Sale for Cyber Monday](https://www.wired.com/story/hp-sprocket-photo-booth-on-sale-cyber-monday-2025/)
- - [Best Cyber Monday Vacuum Deals &lpar;2025&rpar;: Dyson, Bissell, Eufy](https://www.wired.com/story/cyber-monday-vacuum-deals-2025/)
- - [Prague’s City Center Sparkles, Buzzes, and Burns at the Signal Festival](https://www.wired.com/story/prague-signal-festival-report/)<!-- TECH:END -->
+ - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

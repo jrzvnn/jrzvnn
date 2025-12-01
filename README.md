@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 😝 [Instant Regret!](http://9gag.com/gag/aGyrLXK)
- - 💣 [Before](http://9gag.com/gag/avyB1xq)
+ - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
+ - 😝 [A person shot down 27 steel targets in 7.53 seconds with 100% accuracy](http://9gag.com/gag/aGyrn2G)
+ - 💣 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
  - 😝 [8 Years and 6 Months. Nursed you to life as an infant. Never hisses, friendly to every single person and downright Zen cat. Gone too soon. RIP Noodle](http://9gag.com/gag/aYQvO40)
- - 👉 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)<!-- MEMES:END -->
+ - 👉 [Insurance logic at its finest](http://9gag.com/gag/aPAVmpg)<!-- MEMES:END -->
 
 ---
 

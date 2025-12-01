@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 😝 [Modders are the savior](http://9gag.com/gag/azxvxWB)
- - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 😝 [When you are an English teacher](http://9gag.com/gag/awy937R)
- - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
+ - 😝 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)
+ - 😝 [Mommy Issues](http://9gag.com/gag/aAyLQZL)
+ - 💣 [World first lighter](http://9gag.com/gag/aQzDvVz)
+ - 😝 [Insurance logic at its finest](http://9gag.com/gag/aPAVmpg)
+ - 👉 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)<!-- MEMES:END -->
 
 ---
 

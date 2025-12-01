@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [20 Best Cyber Monday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tv-deals-2025/)
+ - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)
  - [HP Sprocket Photo Booth Is on Sale for Cyber Monday](https://www.wired.com/story/hp-sprocket-photo-booth-on-sale-cyber-monday-2025/)
  - [Best Cyber Monday Vacuum Deals &lpar;2025&rpar;: Dyson, Bissell, Eufy](https://www.wired.com/story/cyber-monday-vacuum-deals-2025/)
- - [Prague’s City Center Sparkles, Buzzes, and Burns at the Signal Festival](https://www.wired.com/story/prague-signal-festival-report/)
- - [30% Off Canon Promo Codes | December 2025](https://www.wired.com/story/canon-promo-code/)
- - [China&#39;s central bank reaffirmed its stance on crypto, calling virtual currency activity illegal and saying stablecoins fail KYC and anti-money-laundering rules &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p2#a251201p2)<!-- TECH:END -->
+ - [Prague’s City Center Sparkles, Buzzes, and Burns at the Signal Festival](https://www.wired.com/story/prague-signal-festival-report/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

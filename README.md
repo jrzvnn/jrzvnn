@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you track helicopter blades apparently](http://9gag.com/gag/avyByMq)
+ - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
  - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
  - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
+ - 😝 [Kids nowdays will never understand how mindblowing teletext/ceefax was when it appeared](http://9gag.com/gag/aAyLE6g)
  - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
 
 ---

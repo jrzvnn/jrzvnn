@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zillow property listings no longer show risk of fires, floods, and storms](https://www.theverge.com/news/834715/zillow-removes-flood-fire-risk-scores-home-listings)
- - [Best Costco Cyber Monday Deals 2025](https://www.wired.com/story/costco-cyber-monday-2025/)
- - [Nintendo Switch 2 Cyber Monday Deals: Bundles, Controllers, Earbuds](https://www.wired.com/story/nintendo-switch-2-cyber-monday-deals/)
- - [20 Best Cyber Monday Deals at Best Buy &lpar;2025&rpar; on Hot Tech](https://www.wired.com/story/cyber-monday-best-buy-deals/)
- - [Sources: McKinsey and other top consultancies freeze graduate pay offers in 2026 for the third year, as AI reshapes the industry and threatens its pyramid model &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p9#a251201p9)<!-- TECH:END -->
+ - [Ruby Is Not a Serious Programming Language](https://www.wired.com/story/ruby-is-not-a-serious-programming-language/)
+ - [13 Picks of the Best Gaming Mouse, Tested and Reviewed &lpar;2025&rpar;](https://www.wired.com/gallery/best-gaming-mouse/)
+ - [Welcome to fandom’s AI clout economy](https://www.theverge.com/ai-artificial-intelligence/830876/influencers-anti-ai-deepfakes-fandom-economy)
+ - [We&#39;re Covering Cyber Monday Live—Because Today Is A Very Fine Day To Shop the Internet](https://www.wired.com/live/cyber-monday-live-25/)
+ - [Netflix quietly removes support for casting from its mobile app to most modern TVs and streaming devices, including Chromecast, regardless of subscription plan &lpar;Adamya Sharma/Android Authority&rpar;](http://www.techmeme.com/251201/p10#a251201p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

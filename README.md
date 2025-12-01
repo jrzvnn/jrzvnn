@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Nevis, which develops AI agents to automate wealth advisers&#39; grunt work, raised a $35M Series A from Sequoia and others at a $200M valuation, after a $5M seed &lpar;Biz Carson/Bloomberg&rpar;](http://www.techmeme.com/251201/p16#a251201p16)
  - [DeepSeek releases DeepSeek-V3.2 and DeepSeek-V3.2-Speciale, calling them &quot;reasoning-first models built for agents&quot;, after releasing V3.2-Exp in September &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/251201/p15#a251201p15)
  - [Why IBM CEO Arvind Krishna is still hiring humans in the AI era](https://www.theverge.com/podcast/829868/ibm-arvind-krishna-watson-llms-ai-bubble-quantum-computing)
- - [GE’s indoor food smoker is cheaper than ever this Cyber Monday](https://www.theverge.com/gadgets/834666/ge-profile-smart-indoor-smoker-cyber-monday-deal-sale)
- - [An analysis of Crunchbase and PitchBook data: in 2025 so far, 80+ tech startups reached $1B valuations, many of them focused on AI with exceptions like Kalshi &lpar;Dominic-Madori Davis/TechCrunch&rpar;](http://www.techmeme.com/251201/p14#a251201p14)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
+ - [GE’s indoor food smoker is cheaper than ever this Cyber Monday](https://www.theverge.com/gadgets/834666/ge-profile-smart-indoor-smoker-cyber-monday-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

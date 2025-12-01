@@ -169,7 +169,7 @@ R                        1 repo              ░░░░░░░░░░░�
  - 😝 [Bro took matters into his own hands](http://9gag.com/gag/a1m8m8G)
  - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
  - 💣 [You know what, I can fix her.](http://9gag.com/gag/avyByrO)
- - 😝 [This is peak meta humor and I&#39;m here for it](http://9gag.com/gag/aLnOzzz)
+ - 😝 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
  - 👉 [Modders are the savior](http://9gag.com/gag/azxvxWB)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [ByteDance launches an AI voice assistant powered by its Doubao LLM, available first on ZTE&#39;s Nubia M153 smartphone prototype; Doubao has an estimated 159M MAUs &lpar;Reuters&rpar;](http://www.techmeme.com/251201/p8#a251201p8)
+ - [The Best Cyber Monday Coffee Deals &lpar;2025&rpar;](https://www.wired.com/story/best-coffee-espresso-deals-cyber-monday-2025/)
+ - [Who the Hell Is Actually Using Facebook Dating?](https://www.wired.com/story/who-the-hell-is-actually-using-facebook-dating/)
  - [German AI startup Black Forest Labs, which develops the open-source Flux image models, raised $300M at a $3.25B valuation, up from $1B in September 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/251201/p7#a251201p7)
- - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)
- - [32 Best Cyber Monday Tech Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tech-deals-2025/)
- - [Amazon Is Having a Huge Cyber Monday Sale on Birdfy Smart Bird Feeders &lpar;2025&rpar;](https://www.wired.com/story/best-smart-bird-feeder-deals-cyber-monday-2025/)
- - [14 Best Cyber MondayPhone Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-phone-deals-2025/)<!-- TECH:END -->
+ - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

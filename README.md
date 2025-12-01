@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Digital Notebook Cyber Monday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-cyber-monday-sales/)
- - [Car sharing service Zipcar UK plans to shut down after London extended its Congestion Charge to EVs; Zipcar had losses of £11.7M in 2024 vs. £364,000 in 2023 &lpar;Simon Hunt/City A.M.&rpar;](http://www.techmeme.com/251201/p20#a251201p20)
- - [Apple’s smallest iPad just got its biggest price cut for Cyber Monday](https://www.theverge.com/gadgets/834850/apple-ipad-mini-cyber-monday-deal-sale-2025)
- - [The Best Cyber Monday Streaming Deals &lpar;2025&rpar;: HBO Max, Disney+, Apple](https://www.wired.com/story/cyber-monday-streaming-deals-2025/)
- - [Aura Frame Cyber Monday Sale &lpar;2025&rpar;: Carver, Walden, Aspen](https://www.wired.com/story/aura-frame-cyber-monday-2025/)<!-- TECH:END -->
+ - [Michael Saylor&#39;s Strategy creates a $1.44B cash reserve funded by stock sales after cutting full-year profit and BTC yield targets due to bitcoin price drops &lpar;Stephen Alpher/CoinDesk&rpar;](http://www.techmeme.com/251201/p21#a251201p21)
+ - [Cyber Week deals: Save up to $2,100 on Samsung Frame, OLED TVs, plus monitors for Mac](https://appleinsider.com/articles/25/12/01/cyber-week-deals-save-up-to-2100-on-samsung-frame-oled-tvs-plus-monitors-for-mac?utm_source=rss)
+ - [Amazon and Google’s new cloud link could make it easier to deal with outages](https://www.theverge.com/news/835077/google-cloud-aws-multicloud-link-backup)
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
+ - [Best Digital Notebook Cyber Monday Sales &lpar;2025&rpar;: ReMarkable, Kobo, Kindle](https://www.wired.com/story/digital-notebook-cyber-monday-sales/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyber Monday Deal Zone slashes $300 off M5 MacBook Pro with 24GB RAM](https://appleinsider.com/articles/25/12/01/cyber-monday-deal-zone-slashes-300-off-m5-macbook-pro-with-24gb-ram?utm_source=rss)
+ - [New York becomes the first US state to require retailers to disclose use of algorithmic pricing tied to personal data; 10+ states are considering similar bills &lpar;Tim Balk/New York Times&rpar;](http://www.techmeme.com/251201/p1#a251201p1)
  - [Cyber Monday streaming deals end tonight, get Disney Plus, Hulu, Paramount Plus, Apple TV from $2.99/mo](https://appleinsider.com/articles/25/12/01/cyber-monday-streaming-deals-end-tonight-get-disney-plus-hulu-paramount-plus-apple-tv-from-299mo?utm_source=rss)
  - [How Animaj, a startup in Disney&#39;s Accelerator Program, uses AI to drastically speed up the animation process, while also claiming to let artists stay in control &lpar;Corinne Reichert/CNET&rpar;](http://www.techmeme.com/251130/p14#a251130p14)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 1, #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-1-434/#ftag=CAD590a51e)
- - [Amazon&#39;s best AirPods 4 ANC deal is back in stock at $99 for Cyber Monday](https://appleinsider.com/articles/25/12/01/amazons-best-airpods-4-anc-deal-is-back-in-stock-at-99-for-cyber-monday?utm_source=rss)
- - [Here are 50 standout deals under $100 we’re eyeing for Cyber Monday](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
+ - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 1, #434](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-1-434/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

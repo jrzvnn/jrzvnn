@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
  - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
  - 😝 [Kids nowdays will never understand how mindblowing teletext/ceefax was when it appeared](http://9gag.com/gag/aAyLE6g)
- - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
+ - 👉 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)<!-- MEMES:END -->
 
 ---
 

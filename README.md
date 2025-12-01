@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Vanguard will allow ETFs and mutual funds that primarily hold cryptocurrencies to be traded on its platform starting Tuesday, reversing a longstanding position &lpar;Emily Graffeo/Bloomberg&rpar;](http://www.techmeme.com/251201/p26#a251201p26)
+ - [The Best Amazon Device and Kindle Cyber Monday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-cyber-monday-deals-2025/)
  - [14 Best Cyber Monday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/)
  - [Vego&#39;s Food Recycler Is the Cheapest We&#39;ve Ever Seen it Right Now &lpar;2025&rpar;](https://www.wired.com/story/vego-cyber-monday-2025/)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Dozens of US universities and colleges have announced new AI departments and programs over the last two years; an AI program is now MIT&#39;s second-largest major &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/251201/p25#a251201p25)
- - [Netflix Won’t Let You Cast Shows From Your Phone to Your TV Anymore](https://www.wired.com/story/netflix-wont-let-you-cast-shows-from-your-phone-to-your-tv-anymore/)<!-- TECH:END -->
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

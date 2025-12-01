@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MacBook Pro Cyber Monday deals start at just $1,299, save up to $500](https://appleinsider.com/articles/25/11/30/best-macbook-pro-cyber-monday-deals-start-at-just-1299-save-up-to-500?utm_source=rss)
- - [The 145 Best Cyber Monday Deals—Save Up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025/)
- - [The AI boom has led to high demand and more pay for the construction workers that build data centers; a trade group says there is a shortage of ~439K workers &lpar;Te-Ping Chen/Wall Street Journal&rpar;](http://www.techmeme.com/251201/p3#a251201p3)
- - [20 Best Cyber Monday TV Deals &lpar;2025&rpar;](https://www.wired.com/story/cyber-monday-tv-deals-2025/)
- - [The Best Apple Cyber Monday Deals &lpar;2025&rpar;](https://www.wired.com/story/apple-cyber-monday-deals-2025/)<!-- TECH:END -->
+ - [HSBC signs a deal with Mistral to access Mistral&#39;s AI models and collaborate on developing new models for internal use, as big banks rush to adopt generative AI &lpar;Ortenca Aliaj/Financial Times&rpar;](http://www.techmeme.com/251201/p5#a251201p5)
+ - [35 Best Black Friday Deals Under $100 &lpar;2025&rpar;](https://www.wired.com/story/best-cyber-monday-deals-under-100-2025/)
+ - [The Best Amazon Device and Kindle Cyber Monday Deals &lpar;2025&rpar;: Paperwhite, Scribe, Echo Dot Max](https://www.wired.com/story/amazon-device-kindle-cyber-monday-deals-2025/)
+ - [Don&#39;t Get Suckered by Cyber Monday Laptop Deals. Just Get the MacBook Air &lpar;2025&rpar;](https://www.wired.com/story/best-macbook-cyber-monday-deal-2025/)
+ - [11 Best Cyber Monday Laptop Deals &lpar;2025&rpar;: MacBooks, Gaming Laptops, and More](https://www.wired.com/story/best-cyber-monday-laptop-deals-2025/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

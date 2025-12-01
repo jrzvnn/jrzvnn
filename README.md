@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
+ - 😝 [A very good simple solution](http://9gag.com/gag/aE0jMjO)
  - 😝 [Arnie](http://9gag.com/gag/a4PBnPy)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)
- - 😝 [I belive i can fly](http://9gag.com/gag/aByb6Wz)
+ - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 😝 [Bro already banned from every pysco movie](http://9gag.com/gag/ae9q4wW)
  - 👉 [Mommy Issues](http://9gag.com/gag/aAyLQZL)<!-- MEMES:END -->
 
 ---

@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [This is how you track helicopter blades apparently](http://9gag.com/gag/avyByMq)
  - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
- - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
+ - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - 😝 [World first lighter](http://9gag.com/gag/aQzDvVz)
+ - 👉 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)<!-- MEMES:END -->
 
 ---
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Marvell is in advanced talks to buy chip startup Celestial AI in a cash-and-stock deal that could top $5B; Celestial was valued at $2.5B in March 2025 &lpar;The Information&rpar;](http://www.techmeme.com/251201/p36#a251201p36)
+ - [Internal memo: OpenAI CEO Sam Altman declares a &quot;code red&quot; to shift more resources into improving ChatGPT amid rising competition, delaying other plans like ads &lpar;The Information&rpar;](http://www.techmeme.com/251201/p35#a251201p35)
+ - [The best Apple deals you can still shop in Cyber Monday’s final hours](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
  - [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale)
- - [Here are 50+ Cyber Monday deals you can still get for $100 or less](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)
- - [We found 45 of the best last-minute Cyber Monday deals under $30](https://www.theverge.com/gadgets/835702/cyber-monday-best-cheap-tech-deals-under-30-2025)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Today&#39;s NYT Mini Crossword Answers for Tuesday, Dec. 2](https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-dec-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are 50+ Cyber Monday deals you can still get for $100 or less](https://www.theverge.com/gadgets/833655/cyber-monday-best-cheap-tech-deals-under-100-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

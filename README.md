@@ -158,10 +158,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- TECH:START -->
  - [The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
+ - [The 157 Best Cyber Week Deals—Save up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025-1/)
  - [Steam Machine today, Steam Phones tomorrow](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
  - [Google launches Android 16 QPR2, marking the end of Google&#39;s annual OS release schedule as it shifts to more frequent updates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251202/p49#a251202p49)
- - [iPhone 17 sales fueling a record year, pushing market toward higher prices](https://appleinsider.com/articles/25/12/02/iphone-17-sales-fueling-a-record-year-pushing-market-toward-higher-prices?utm_source=rss)
- - [Be wary of the rumored connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)<!-- TECH:END -->
+ - [iPhone 17 sales fueling a record year, pushing market toward higher prices](https://appleinsider.com/articles/25/12/02/iphone-17-sales-fueling-a-record-year-pushing-market-toward-higher-prices?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

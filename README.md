@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
  - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 💣 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
- - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 😝 [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)
+ - 💣 [When you are an English teacher](http://9gag.com/gag/awy937R)
+ - 😝 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
+ - 👉 [For some reason, those feelings always happen when this happens.](http://9gag.com/gag/aKGX9A3)<!-- MEMES:END -->
 
 ---
 

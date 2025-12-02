@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 😝 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
  - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [Modders are the savior](http://9gag.com/gag/azxvxWB)
- - 😝 [Kiss revealed their faces without makeup with the song Lick it up 1983](http://9gag.com/gag/a6ZeZgA)
+ - 💣 [Gonna be honest here, I\u2019d rather not](http://9gag.com/gag/aMV0dpR)
+ - 😝 [Racism is also not only tolerate, but expected...](http://9gag.com/gag/aqyV8jL)
  - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
 
 ---

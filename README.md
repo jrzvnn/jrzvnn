@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
  - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 💣 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
- - 😝 [IMMIGRANTS lose their citizenships in Nordic countries, if you sympathize with the country you claim to have escaped from :&rpar;](http://9gag.com/gag/aRB8MyM)
+ - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 💣 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
+ - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
  - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---

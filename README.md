@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Switch 2 is still on sale at multiple retailers if you missed out during Cyber Monday](https://www.theverge.com/gadgets/836519/nintendo-switch-2-mario-kart-world-bundle-walmart-deal)
- - [The 157 Best Cyber Week Deals—Save up to 57% Off Gear We Love](https://www.wired.com/story/cyber-monday-deals-2025-1/)
- - [Steam Machine today, Steam Phones tomorrow](https://www.theverge.com/report/820656/valve-interview-arm-gaming-steamos-pierre-loup-griffais)
- - [Google launches Android 16 QPR2, marking the end of Google&#39;s annual OS release schedule as it shifts to more frequent updates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251202/p49#a251202p49)
- - [iPhone 17 sales fueling a record year, pushing market toward higher prices](https://appleinsider.com/articles/25/12/02/iphone-17-sales-fueling-a-record-year-pushing-market-toward-higher-prices?utm_source=rss)<!-- TECH:END -->
+ - [Dutch judge clears the way for a major App Store damages fight](https://appleinsider.com/articles/25/12/02/dutch-judge-clears-the-way-for-a-major-app-store-damages-fight?utm_source=rss)
+ - [HBO Max&amp;#8217;s Mad Men 4K release is the opposite of a remaster](https://www.theverge.com/entertainment/836922/hbo-max-man-men-4k-errors-red-in-the-face-lionsgate)
+ - [Instacart sues New York City to block enforcement of five laws, including rules governing minimum pay for app-based workers and tipping disclosures &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251202/p50#a251202p50)
+ - [The 55 Best Shows on Disney+, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
+ - [Roborock’s powerful Saros 10 robovac is still at its lowest price ever](https://www.theverge.com/gadgets/836687/roborock-saros-10-cyber-week-2025-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

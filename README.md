@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vista Equity-backed infrastructure software company LogicMonitor acquires Catchpoint, which monitors user experiences across the internet, for $250M+ in cash &lpar;Liana Baker/Bloomberg&rpar;](http://www.techmeme.com/251202/p23#a251202p23)
- - [Apple Watch saves hiker after a blindfolded mountain fall](https://appleinsider.com/articles/25/12/02/apple-watch-saves-hiker-after-a-blindfolded-mountain-fall?utm_source=rss)
- - [YouTube launches Recap, which lets users review their most notable video habits over the past year, in the US, ahead of a global rollout next week &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251202/p22#a251202p22)
- - [Sony’s new A7 V uses a partially stacked sensor so you can shoot silently](https://www.theverge.com/news/835420/sony-a7v-mirrorless-camera-partially-stacked-sensor-price-specs)
- - [YouTube introduces its own version of Spotify Wrapped for videos](https://www.theverge.com/news/836173/youtube-recap-videos-eoy-review-wrapped)<!-- TECH:END -->
+ - [Apple will reportedly refuse India&amp;#8217;s order to preinstall a government app](https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response)
+ - [Wooting’s 60HE v2 is a solid upgrade to the best gaming keyboard](https://www.theverge.com/tech/836168/wooting-60he-v2-keyboard-gaming-hands-on)
+ - [Adobe: US shoppers spent $14.25B online during Cyber Monday, up 7.1% YoY, compared with a 9.1% rise on Black Friday; five-day spending rose 7.7% YoY to $44.2B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251202/p25#a251202p25)
+ - [Amazon is testing 30-minute deliveries](https://www.theverge.com/news/836337/amazon-now-30-minute-delivery-tests)
+ - [A Claude user gets Claude 4.5 Opus to generate a 14,000-token document that Claude calls its &quot;Soul overview&quot;; an Anthropic staffer confirms its authenticity &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251202/p24#a251202p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

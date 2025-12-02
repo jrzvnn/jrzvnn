@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DRAM it! Raspberry Pi raises prices](https://www.theverge.com/news/836221/raspberry-pi-price-increases-ram-costs)
- - [Taiwanese prosecutors charge Tokyo Electron for failing to prevent staff from allegedly stealing TSMC trade secrets, indicting the company on several counts &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p15#a251202p15)
- - [At a Tokyo forum, Masayoshi Son says he &quot;was crying&quot; over SoftBank selling its $5.83B Nvidia stake but &quot;I just had more need for money to invest in OpenAI&quot; &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251202/p14#a251202p14)
- - [OpenAI declares ‘code red’ as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
- - [Just Eat founder Jitse Groen plans to step down as CEO effective January 1, replaced by Prosus Europe head Roberto Gandolfo; Groen founded Takeaway.com in 2000 &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251202/p13#a251202p13)<!-- TECH:END -->
+ - [Discord now lets you buy and gift video game skins](https://www.theverge.com/news/835385/discord-shop-marvel-rivals-gifting-wishlist)
+ - [Apple pushes back on India&#39;s iPhone security app install order](https://appleinsider.com/articles/25/12/02/apple-pushes-back-on-indias-iphone-security-app-install-order?utm_source=rss)
+ - [Apple owes its greatest strength in AI to Giannandrea](https://appleinsider.com/articles/25/12/02/apple-owes-its-greatest-strength-in-ai-to-giannandrea?utm_source=rss)
+ - [Paris-based AI voice startup Gradium, spun out of the nonprofit AI lab Kyutai, raised $70M led by FirstMark and Eurazeo, after launching in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p16#a251202p16)
+ - [Best Internet Providers in New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-new-jersey/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

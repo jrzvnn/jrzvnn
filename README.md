@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources say President Trump&#39;s efforts to block state-level AI regulations through a preemption proposal are facing significant opposition on Capitol Hill &lpar;Axios&rpar;](http://www.techmeme.com/251202/p53#a251202p53)
  - [Last chance: $2.99 Paramount Plus Black Friday streaming deal ends tonight](https://appleinsider.com/articles/25/12/02/last-chance-299-paramount-plus-black-friday-streaming-deal-ends-tonight?utm_source=rss)
  - [Anthropic&#39;s employees self-report using Claude in 60% of work and achieving a 50% productivity boost, often using it for debugging and code understanding, more &lpar;Anthropic&rpar;](http://www.techmeme.com/251202/p52#a251202p52)
  - [HBO Max’s ‘Mad Men’ Vomit Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’](https://www.wired.com/story/hbo-maxs-mad-men-barf-scene-proves-remastered-doesnt-mean-better/)
- - [Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive](https://www.theverge.com/news/836948/helldivers-2-file-size-decrease)
- - [CNN partners with Kalshi to use the company&#39;s real-time prediction data in its reporting, for on-air data tickers, fact-checking, and more &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251202/p51#a251202p51)<!-- TECH:END -->
+ - [Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive](https://www.theverge.com/news/836948/helldivers-2-file-size-decrease)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

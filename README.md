@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner](https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping)
  - [Google is experimentally replacing news headlines with AI clickbait nonsense](https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense)
  - [Natural disasters across Asia prompt Apple CEO Tim Cook to promise donations](https://appleinsider.com/articles/25/12/02/natural-disasters-across-asia-prompt-apple-ceo-tim-cook-to-promise-donations?utm_source=rss)
  - [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter)
- - [Silicon Valley is rallying behind a guy who sucks](https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house)
- - [Sources say President Trump&#39;s efforts to block state-level AI regulations through a preemption proposal are facing significant opposition on Capitol Hill &lpar;Axios&rpar;](http://www.techmeme.com/251202/p53#a251202p53)<!-- TECH:END -->
+ - [Silicon Valley is rallying behind a guy who sucks](https://www.theverge.com/column/836932/david-sacks-new-york-times-white-house)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

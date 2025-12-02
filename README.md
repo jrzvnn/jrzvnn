@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
  - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 💣 [He is likely to be deported](http://9gag.com/gag/avyBWdM)
- - 😝 [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)
- - 👉 [Bot-lickers](http://9gag.com/gag/a34z5Le)<!-- MEMES:END -->
+ - 😝 [He is likely to be deported](http://9gag.com/gag/avyBWdM)
+ - 💣 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
+ - 😝 [World first lighter](http://9gag.com/gag/aQzDvVz)
+ - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
 
 ---
 

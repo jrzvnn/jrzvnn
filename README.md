@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [At a Tokyo forum, Masayoshi Son says he &quot;was crying&quot; over SoftBank selling its $5.83B Nvidia stake but &quot;I just had more need for money to invest in OpenAI&quot; &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251202/p14#a251202p14)
+ - [OpenAI declares ‘code red’ as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
  - [Just Eat founder Jitse Groen plans to step down as CEO effective January 1, replaced by Prosus Europe head Roberto Gandolfo; Groen founded Takeaway.com in 2000 &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251202/p13#a251202p13)
  - [Microsoft&amp;#8217;s latest Windows 11 update improves and breaks dark mode](https://www.theverge.com/news/836199/microsoft-windows-11-file-explorer-white-screen-flash-bug)
- - [Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’](https://www.wired.com/story/the-big-interview-podcast-melinda-french-gates/)
- - [Study: using the SCONE-bench benchmark of 405 smart contracts, Claude Opus 4.5, Sonnet 4.5, and GPT-5 found and developed exploits collectively worth $4.6M &lpar;Anthropic&rpar;](http://www.techmeme.com/251202/p12#a251202p12)
- - [Your iPhone Already Has iPhone Fold Software, but Apple Won’t Let You Use It](https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/)<!-- TECH:END -->
+ - [Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’](https://www.wired.com/story/the-big-interview-podcast-melinda-french-gates/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

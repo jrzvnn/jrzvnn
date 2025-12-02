@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Life in a nutshell, right](http://9gag.com/gag/azxvKAj)
- - 😝 [It helps](http://9gag.com/gag/a5Q9wyq)
- - 💣 [For some reason, those feelings always happen when this happens.](http://9gag.com/gag/aKGX9A3)
- - 😝 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
- - 👉 [World first lighter](http://9gag.com/gag/aQzDvVz)<!-- MEMES:END -->
+ - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 💣 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
+ - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
+ - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
 
 ---
 

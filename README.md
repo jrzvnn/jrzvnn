@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Oh my gut](http://9gag.com/gag/aMV0BMX)
  - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 💣 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
+ - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
+ - 💣 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)
+ - 😝 [Good old CEO](http://9gag.com/gag/aNDGVA0)
+ - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
 
 ---
 

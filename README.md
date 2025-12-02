@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Barcelona-based Titan OS, which provides a smart TV operating system to TV makers like Philips and JVC, raised a €50M Series A led by Highland Europe &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251202/p28#a251202p28)
- - [Some of our favorite Cyber Monday deals are still kicking](https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025)
- - [How to check Apple Music Replay 2025 and share your year](https://appleinsider.com/inside/apple-music/tips/how-to-check-apple-music-replay-2025-and-share-your-year?utm_source=rss)
- - [Axiado, which is making a chip designed to save space and power in AI servers, raised $100M led by Maverick Silicon &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251202/p27#a251202p27)
- - [Mistral launches Mistral 3, a family of 10 models under the Apache 2.0 license, including the flagship Mistral Large 3 and nine smaller Ministral 3 models &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251202/p26#a251202p26)<!-- TECH:END -->
+ - [AWS launches Nova Forge, a $100,000/year service allowing clients to customize Amazon&#39;s AI models at various stages of training and refine open-weight models &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251202/p35#a251202p35)
+ - [Sources: OpenAI is developing a new LLM codenamed Garlic, which performs well when compared to Gemini 3 and Opus 4.5 in coding and reasoning tasks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251202/p34#a251202p34)
+ - [AWS launches DevOps Agent, an AI-enabled tool designed to help clients quickly identify root causes of outages and implement fixes, available in preview &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251202/p33#a251202p33)
+ - [Amazon launches second generation of its Nova AI models, including Nova Lite, Nova Pro, Nova Sonic, and Nova Omni, a fully multimodal reasoning model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251202/p32#a251202p32)
+ - [Amazon launches the Trainium3 UltraServer, powered by the 3nm Trainium3 AI training chip, and teases Trainium4, which will be able to work with Nvidia&#39;s chips &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251202/p31#a251202p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

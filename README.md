@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
- - 😝 [Racism is also not only tolerate, but expected...](http://9gag.com/gag/aqyV8jL)
- - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
+ - 😝 [That&#39;s another way to fight with problem](http://9gag.com/gag/aoyGW8A)
+ - 😝 [Meta](http://9gag.com/gag/aBybLnz)
+ - 💣 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)
+ - 😝 [Forget Elf on a shelf. It&#39;s stripper on a whipper](http://9gag.com/gag/ajP3O1G)
+ - 👉 [9gag gamers. Don&#39;t forget to talk to yourself.](http://9gag.com/gag/awy9mQR)<!-- MEMES:END -->
 
 ---
 

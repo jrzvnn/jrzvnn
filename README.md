@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
+ - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 💣 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
  - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
- - 💣 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
- - 😝 [IMMIGRANTS lose their citizenships in Nordic countries, if you sympathize with the country you claim to have escaped from :&rpar;](http://9gag.com/gag/aRB8MyM)
- - 👉 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)<!-- MEMES:END -->
+ - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
 
 ---
 

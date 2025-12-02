@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Apple doesn&#39;t plan to comply with India&#39;s mandate to preload a state-owned cyber safety app on iPhones and will raise its concerns with New Delhi &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p5#a251202p5)
  - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
  - [Trade data shows South Korea&#39;s chip exports rose 38.5% YoY to a record $17.26B in November, driven by strong data center demand and higher memory prices &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p4#a251202p4)
  - [20% Off Brooks Promo Code &amp; Deals for December 2025](https://www.wired.com/story/brooks-promo-code/)
- - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)
- - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
+ - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

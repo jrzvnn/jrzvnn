@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DRAM it! Raspberry Pi raises prices](https://www.theverge.com/news/836221/raspberry-pi-price-increases-ram-costs)
+ - [Taiwanese prosecutors charge Tokyo Electron for failing to prevent staff from allegedly stealing TSMC trade secrets, indicting the company on several counts &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p15#a251202p15)
  - [At a Tokyo forum, Masayoshi Son says he &quot;was crying&quot; over SoftBank selling its $5.83B Nvidia stake but &quot;I just had more need for money to invest in OpenAI&quot; &lpar;Dylan Butts/CNBC&rpar;](http://www.techmeme.com/251202/p14#a251202p14)
  - [OpenAI declares ‘code red’ as Google catches up in AI race](https://www.theverge.com/news/836212/openai-code-red-chatgpt)
- - [Just Eat founder Jitse Groen plans to step down as CEO effective January 1, replaced by Prosus Europe head Roberto Gandolfo; Groen founded Takeaway.com in 2000 &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251202/p13#a251202p13)
- - [Microsoft&amp;#8217;s latest Windows 11 update improves and breaks dark mode](https://www.theverge.com/news/836199/microsoft-windows-11-file-explorer-white-screen-flash-bug)
- - [Melinda French Gates on Secrets: ‘Live a Truthful Life, Then You Don’t Have Any’](https://www.wired.com/story/the-big-interview-podcast-melinda-french-gates/)<!-- TECH:END -->
+ - [Just Eat founder Jitse Groen plans to step down as CEO effective January 1, replaced by Prosus Europe head Roberto Gandolfo; Groen founded Takeaway.com in 2000 &lpar;Sarah Jacob/Bloomberg&rpar;](http://www.techmeme.com/251202/p13#a251202p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

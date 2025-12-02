@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Michael and Susan Dell say they will deposit $250 in individual investment accounts for 25M kids, totaling $6.25B, comparing the gift to Dell&#39;s direct model &lpar;Nicholas Kulish/New York Times&rpar;](http://www.techmeme.com/251202/p21#a251202p21)
  - [South Korean police arrest four over hacking 120K home security cameras, whose footage was used to make sexually exploitative material; one person made ~$12K &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/251202/p20#a251202p20)
  - [Chinese short-video company Kuaishou launches Kling Video O1, saying it is the first multimodal AI model to unify video generation, editing, and post-production &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251202/p19#a251202p19)
  - [The Nikon ZR gets surprisingly close to a real RED camera &lpar;for a lot less money&rpar;](https://www.theverge.com/gadgets/829930/nikon-zr-review-red-r3d-video-files)
- - [Prediction market Kalshi raised $1B led by Paradigm at an $11B valuation, up from $5B after raising $300M in October 2025, making its co-founders billionaires &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251202/p18#a251202p18)
- - [Discord now lets users buy, wishlist, and gift in-game cosmetic items directly within its platform, starting with a store within Marvel Rivals&#39; Discord server &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/251202/p17#a251202p17)<!-- TECH:END -->
+ - [Prediction market Kalshi raised $1B led by Paradigm at an $11B valuation, up from $5B after raising $300M in October 2025, making its co-founders billionaires &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251202/p18#a251202p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

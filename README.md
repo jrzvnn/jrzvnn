@@ -167,10 +167,10 @@ R                        1 repo              ░░░░░░░░░░░�
 
 <!-- MEMES:START -->
  - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
- - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 💣 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
  - 😝 [A fitting end](http://9gag.com/gag/abAL4PB)
- - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
+ - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
+ - 😝 [Coming home from college and forgetting how to dress for family events](http://9gag.com/gag/aoyG3ee)
+ - 👉 [Boss of the year award goes to this guy](http://9gag.com/gag/avyB6y5)<!-- MEMES:END -->
 
 ---
 

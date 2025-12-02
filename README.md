@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Texas AG Ken Paxton says he is investigating Shein to determine whether it violated state laws on unethical labor practices and the sale of unsafe products &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251202/p1#a251202p1)
+ - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
  - [Google, with its structural advantages, is a threat for both OpenAI and Nvidia; OpenAI has a real moat with 800M+ ChatGPT users, but needs an advertising model &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251201/p37#a251201p37)
  - [Sources: Marvell is in advanced talks to buy chip startup Celestial AI in a cash-and-stock deal that could top $5B; Celestial was valued at $2.5B in March 2025 &lpar;The Information&rpar;](http://www.techmeme.com/251201/p36#a251201p36)
- - [Internal memo: OpenAI CEO Sam Altman declares a &quot;code red&quot; to shift more resources into improving ChatGPT amid rising competition, delaying other plans like ads &lpar;The Information&rpar;](http://www.techmeme.com/251201/p35#a251201p35)
- - [The best Apple deals you can still shop in Cyber Monday’s final hours](https://www.theverge.com/gadgets/827826/best-black-friday-apple-deals-sale-2025)
- - [These Verge-approved gifts are still available for up to 60 percent off for Cyber Monday](https://www.theverge.com/gadgets/833050/cyber-monday-2025-gift-ideas-deal-sale)<!-- TECH:END -->
+ - [Internal memo: OpenAI CEO Sam Altman declares a &quot;code red&quot; to shift more resources into improving ChatGPT amid rising competition, delaying other plans like ads &lpar;The Information&rpar;](http://www.techmeme.com/251201/p35#a251201p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

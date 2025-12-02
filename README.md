@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will reportedly refuse India&amp;#8217;s order to preinstall a government app](https://www.theverge.com/news/836384/apple-india-sanchar-saathi-app-response)
- - [Wooting’s 60HE v2 is a solid upgrade to the best gaming keyboard](https://www.theverge.com/tech/836168/wooting-60he-v2-keyboard-gaming-hands-on)
- - [Adobe: US shoppers spent $14.25B online during Cyber Monday, up 7.1% YoY, compared with a 9.1% rise on Black Friday; five-day spending rose 7.7% YoY to $44.2B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/251202/p25#a251202p25)
- - [Amazon is testing 30-minute deliveries](https://www.theverge.com/news/836337/amazon-now-30-minute-delivery-tests)
- - [A Claude user gets Claude 4.5 Opus to generate a 14,000-token document that Claude calls its &quot;Soul overview&quot;; an Anthropic staffer confirms its authenticity &lpar;Simon Willison/Simon Willison&#39;s Weblog&rpar;](http://www.techmeme.com/251202/p24#a251202p24)<!-- TECH:END -->
+ - [Mistral launches Mistral 3, a family of 10 models under the Apache 2.0 license, including the flagship Mistral Large 3 and nine smaller Ministral 3 models &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251202/p26#a251202p26)
+ - [It&amp;#8217;s their job to keep AI from destroying everything](https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects)
+ - [Apple gadgets, ranked](https://www.theverge.com/podcast/836441/best-apple-gadgets-vergecast)
+ - [30 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
+ - [Metroid Prime 4 excels when it&amp;#8217;s actually being Metroid](https://www.theverge.com/games/835325/metroid-prime-4-review-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: using the SCONE-bench benchmark of 405 smart contracts, Claude Opus 4.5, Sonnet 4.5, and GPT-5 found and developed exploits collectively worth $4.6M &lpar;Anthropic&rpar;](http://www.techmeme.com/251202/p12#a251202p12)
+ - [Your iPhone Already Has iPhone Fold Software, but Apple Won’t Let You Use It](https://www.wired.com/story/your-iphone-already-has-iphone-fold-software-but-apple-wont-let-you-use-it/)
  - [A profile of Cursor CEO Michael Truell, a 25-year-old who started building the AI coding tool in 2023, as some question Cursor&#39;s reliance on third-party models &lpar;Angel Au-Yeung/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p11#a251202p11)
  - [DOGE Isn’t Dead. Here’s What Its Operatives Are Doing Now](https://www.wired.com/story/what-is-doge-doing-now/)
- - [Polymarket&#39;s Ukraine war betting, based on ISW&#39;s map, generated $1M+ in volume for &quot;Will Russia capture Myrnohrad?&quot;; an &quot;unauthorized&quot; map edit resolved the bet &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251202/p10#a251202p10)
- - [Americans express fear and negativity toward AI, often relying on bad arguments like water usage, a stark contrast with Asia and Europe&#39;s relative positivity &lpar;Noah Smith/Noahpinion&rpar;](http://www.techmeme.com/251202/p9#a251202p9)
- - [Today&#39;s NYT Connections: Sports Edition Hints and Answers for Dec. 2, #435](https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-dec-2-435/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Polymarket&#39;s Ukraine war betting, based on ISW&#39;s map, generated $1M+ in volume for &quot;Will Russia capture Myrnohrad?&quot;; an &quot;unauthorized&quot; map edit resolved the bet &lpar;Matthew Gault/404 Media&rpar;](http://www.techmeme.com/251202/p10#a251202p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

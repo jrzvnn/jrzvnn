@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [He is likely to be deported](http://9gag.com/gag/avyBWdM)
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 😝 [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)
+ - 😝 [POV](http://9gag.com/gag/ajP37yq)
+ - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
+ - 💣 [Bot-lickers](http://9gag.com/gag/a34z5Le)
+ - 😝 [The book is even partly taxpayer-funded. It&#39;s becoming kind of ridiculous at this point.](http://9gag.com/gag/aBybV6z)
  - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
 
 ---

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google launches Android 16 QPR2, marking the end of Google&#39;s annual OS release schedule as it shifts to more frequent updates &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/251202/p49#a251202p49)
  - [iPhone 17 sales fueling a record year, pushing market toward higher prices](https://appleinsider.com/articles/25/12/02/iphone-17-sales-fueling-a-record-year-pushing-market-toward-higher-prices?utm_source=rss)
  - [Be wary of the rumored connection between ChatGPT and Apple Health](https://appleinsider.com/articles/25/12/02/be-wary-of-the-rumored-connection-between-chatgpt-and-apple-health?utm_source=rss)
  - [Your Data Might Determine How Much You Pay for Eggs](https://www.wired.com/story/algorithmic-pricing-eggs-ny-law/)
- - [Android&amp;#8217;s new &amp;#8216;Call Reason&amp;#8217; flags important calls before you even pick up](https://www.theverge.com/news/836838/android-beta-call-reason)
- - [Google is getting ready to launch AI-powered notification summaries on more Android devices](https://www.theverge.com/news/836490/google-android-16-update-ai-notification-summaries)<!-- TECH:END -->
+ - [Android&amp;#8217;s new &amp;#8216;Call Reason&amp;#8217; flags important calls before you even pick up](https://www.theverge.com/news/836838/android-beta-call-reason)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord now lets you buy and gift video game skins](https://www.theverge.com/news/835385/discord-shop-marvel-rivals-gifting-wishlist)
- - [Apple pushes back on India&#39;s iPhone security app install order](https://appleinsider.com/articles/25/12/02/apple-pushes-back-on-indias-iphone-security-app-install-order?utm_source=rss)
- - [Apple owes its greatest strength in AI to Giannandrea](https://appleinsider.com/articles/25/12/02/apple-owes-its-greatest-strength-in-ai-to-giannandrea?utm_source=rss)
- - [Paris-based AI voice startup Gradium, spun out of the nonprofit AI lab Kyutai, raised $70M led by FirstMark and Eurazeo, after launching in September &lpar;Bloomberg&rpar;](http://www.techmeme.com/251202/p16#a251202p16)
- - [Best Internet Providers in New Jersey](https://www.cnet.com/home/internet/best-internet-providers-in-new-jersey/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korean police arrest four over hacking 120K home security cameras, whose footage was used to make sexually exploitative material; one person made ~$12K &lpar;John Yoon/New York Times&rpar;](http://www.techmeme.com/251202/p20#a251202p20)
+ - [Chinese short-video company Kuaishou launches Kling Video O1, saying it is the first multimodal AI model to unify video generation, editing, and post-production &lpar;Ben Jiang/South China Morning Post&rpar;](http://www.techmeme.com/251202/p19#a251202p19)
+ - [The Nikon ZR gets surprisingly close to a real RED camera &lpar;for a lot less money&rpar;](https://www.theverge.com/gadgets/829930/nikon-zr-review-red-r3d-video-files)
+ - [Prediction market Kalshi raised $1B led by Paradigm at an $11B valuation, up from $5B after raising $300M in October 2025, making its co-founders billionaires &lpar;Michael J. de la Merced/New York Times&rpar;](http://www.techmeme.com/251202/p18#a251202p18)
+ - [Discord now lets users buy, wishlist, and gift in-game cosmetic items directly within its platform, starting with a store within Marvel Rivals&#39; Discord server &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/251202/p17#a251202p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

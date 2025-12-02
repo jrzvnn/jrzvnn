@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [Uno Reverse!](http://9gag.com/gag/aqyV8wY)
  - 😝 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 😝 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)
- - 👉 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)<!-- MEMES:END -->
+ - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
+ - 💣 [Dad fighting for his family against corrupt officials is the best thing you&#39;ll see today](http://9gag.com/gag/aAyLKr2)
+ - 😝 [A plan so brilliant... My genius frightens me sometimes](http://9gag.com/gag/an702pB)
+ - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
 
 ---
 

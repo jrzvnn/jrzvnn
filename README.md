@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mistral launches Mistral 3, a family of 10 models under the Apache 2.0 license, including the flagship Mistral Large 3 and nine smaller Ministral 3 models &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251202/p26#a251202p26)
- - [It&amp;#8217;s their job to keep AI from destroying everything](https://www.theverge.com/ai-artificial-intelligence/836335/anthropic-societal-impacts-team-ai-claude-effects)
- - [Apple gadgets, ranked](https://www.theverge.com/podcast/836441/best-apple-gadgets-vergecast)
- - [30 practical smart home gifts that make everyday life a little easier](https://www.theverge.com/gadgets/800449/best-practical-smart-home-gift-ideas-2025)
- - [Metroid Prime 4 excels when it&amp;#8217;s actually being Metroid](https://www.theverge.com/games/835325/metroid-prime-4-review-nintendo-switch)<!-- TECH:END -->
+ - [Barcelona-based Titan OS, which provides a smart TV operating system to TV makers like Philips and JVC, raised a €50M Series A led by Highland Europe &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/251202/p28#a251202p28)
+ - [Some of our favorite Cyber Monday deals are still kicking](https://www.theverge.com/gadgets/835113/best-cyber-monday-deals-still-available-2025)
+ - [How to check Apple Music Replay 2025 and share your year](https://appleinsider.com/inside/apple-music/tips/how-to-check-apple-music-replay-2025-and-share-your-year?utm_source=rss)
+ - [Axiado, which is making a chip designed to save space and power in AI servers, raised $100M led by Maverick Silicon &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/251202/p27#a251202p27)
+ - [Mistral launches Mistral 3, a family of 10 models under the Apache 2.0 license, including the flagship Mistral Large 3 and nine smaller Ministral 3 models &lpar;Michael Nuñez/VentureBeat&rpar;](http://www.techmeme.com/251202/p26#a251202p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

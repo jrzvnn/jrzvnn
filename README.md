@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These terrific Cyber Monday deals are still available for $100 or less](https://www.theverge.com/gadgets/836602/cyber-monday-best-cheap-tech-deals-under-100-still-available-2025)
- - [Apptopia: ChatGPT referrals to retailer mobile apps increased 28% YoY during the Black Friday weekend in 2025; Amazon&#39;s share of ChatGPT referrals grew to 54% &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/251202/p47#a251202p47)
- - [Watch out for fake Amazon Prime Video billing emails hitting inboxes right now](https://appleinsider.com/articles/25/12/02/watch-out-for-fake-amazon-prime-video-billing-emails-hitting-inboxes-right-now?utm_source=rss)
- - [Ireland investigates TikTok and LinkedIn over concerns that their illegal content reporting tools are hard to access and don&#39;t allow anonymous CSAM reporting &lpar;Padraic Halpin/Reuters&rpar;](http://www.techmeme.com/251202/p46#a251202p46)
- - [Filings: after EA&#39;s buyout, Saudi Arabia&#39;s PIF would own 93.4% of EA, implying it needs to put up ~$29B, while Silver Lake and Affinity would own 5.5% and 1.1% &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/251202/p45#a251202p45)<!-- TECH:END -->
+ - [Android&amp;#8217;s new &amp;#8216;Call Reason&amp;#8217; flags important calls before you even pick up](https://www.theverge.com/news/836838/android-beta-call-reason)
+ - [Google is getting ready to launch AI-powered notification summaries on more Android devices](https://www.theverge.com/news/836490/google-android-16-update-ai-notification-summaries)
+ - [Android 16’s latest update ushers in a more frequent release schedule](https://www.theverge.com/news/836832/android-16-qpr2-release-timeline-update)
+ - [Bending Spoons acquires Eventbrite for ~$500M in an all-cash deal, following its $1.38B purchase of Vimeo and a pending acquisition of AOL &lpar;Cate Lawrence/Tech.eu&rpar;](http://www.techmeme.com/251202/p48#a251202p48)
+ - [These terrific Cyber Monday deals are still available for $100 or less](https://www.theverge.com/gadgets/836602/cyber-monday-best-cheap-tech-deals-under-100-still-available-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [POV](http://9gag.com/gag/ajP37yq)
+ - 😝 [Extreme claustrophobia](http://9gag.com/gag/aLnOz25)
  - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
  - 💣 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 😝 [Surprise surprise motherfugger...](http://9gag.com/gag/aD2qnMd)
+ - 😝 [Racism is also not only tolerate, but expected...](http://9gag.com/gag/aqyV8jL)
  - 👉 [Need help](http://9gag.com/gag/agmpQK1)<!-- MEMES:END -->
 
 ---

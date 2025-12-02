@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Series 11 is $70 off, beating its Black Friday price](https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025)
- - [B&amp;H&#39;s Cyber Monday sale slashes up to $500 off MacBook Pro, Air, Mac Studio, Mac mini](https://appleinsider.com/articles/25/12/01/bhs-cyber-monday-sale-slashes-up-to-500-off-macbook-pro-air-mac-studio-mac-mini?utm_source=rss)
- - [The Luigi Mangione legal saga](https://www.theverge.com/news/835433/the-luigi-mangione-legal-saga)
- - [Amazon launches Amazon Now, a new service that aims to deliver household essentials and groceries in ~30 minutes or less, available in Seattle and Philadelphia &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/251201/p29#a251201p29)
- - [Kalshi says users can now trade tokenized versions of their wagers on Solana, in a bid to court crypto holders; Polymarket already allows on-chain trading &lpar;Liz Napolitano/CNBC&rpar;](http://www.techmeme.com/251201/p28#a251201p28)<!-- TECH:END -->
+ - [Marques Brownlee plans to shut down his wallpaper app Panels on December 31; Appfigures: it had 900K downloads and $95K in user spending since its 2024 launch &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/251201/p30#a251201p30)
+ - [The Beats Powerbeats Pro 2 are $50 off, but only until the end Cyber Monday](https://www.theverge.com/gadgets/835276/beats-powerbeats-pro-2-cyber-monday-deal-sale-2025)
+ - [We&#39;re Covering Cyber Monday Live—Because Today Is A Very Fine Day To Shop the Internet](https://www.wired.com/live/cyber-monday-live-25/)
+ - [My favorite TVs, streaming devices, and soundbars are still up to 50% off for Cyber Monday](https://www.theverge.com/tech/829579/best-4k-tv-streaming-soundbar-blu-ray-player-deal-sale-black-friday)
+ - [The Apple Watch Series 11 is $70 off, beating its Black Friday price](https://www.theverge.com/gadgets/835083/cyber-monday-apple-watch-series-11-deal-sale-2025)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

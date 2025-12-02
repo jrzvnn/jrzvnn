@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bryan Johnson Has Discovered Shrooms and He Really Wants You to Know It](https://www.wired.com/story/bryan-johnson-shrooms-livestream-trip/)
  - [Arizona AG Kris Mayes sues Temu for allegedly stealing customers&#39; data, including their physical location, and counterfeiting local brands &lpar;Sejal Govindarao/Associated Press&rpar;](http://www.techmeme.com/251202/p55#a251202p55)
  - [The Polaroid Flip, my favorite retro instant camera, is cheaper than ever](https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale)
  - [Marvell announces a deal to buy Celestial AI for at least $3.25B, expected to close in Q1 2026; the price can rise to $5.5B if Celestial hits revenue targets &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251202/p54#a251202p54)
- - [Netflix Bans Streaming From Your Phone to Your TV](https://www.cnet.com/tech/services-and-software/netflix-bans-streaming-from-your-phone-to-your-tv/#ftag=CAD590a51e)
- - [Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner](https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping)<!-- TECH:END -->
+ - [Netflix Bans Streaming From Your Phone to Your TV](https://www.cnet.com/tech/services-and-software/netflix-bans-streaming-from-your-phone-to-your-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

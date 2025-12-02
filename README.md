@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [New flavors: Pi\u00f1a Colitis and Mango Gastroparesis.](http://9gag.com/gag/aryDAOy)
- - 😝 [The book is even partly taxpayer-funded. It&#39;s becoming kind of ridiculous at this point.](http://9gag.com/gag/aBybV6z)
- - 👉 [Breed...Now...](http://9gag.com/gag/a6ZeXR2)<!-- MEMES:END -->
+ - 😝 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
+ - 😝 [Not Suitable For The `Modern Audiences`](http://9gag.com/gag/a2vA85w)
+ - 💣 [A Picture i took on the way to my workplace.](http://9gag.com/gag/awy91Ay)
+ - 😝 [When you are an English teacher](http://9gag.com/gag/awy937R)
+ - 👉 [How to deal with hustlers](http://9gag.com/gag/aO8nZYr)<!-- MEMES:END -->
 
 ---
 

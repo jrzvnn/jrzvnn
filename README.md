@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS launches Nova Forge, a $100,000/year service allowing clients to customize Amazon&#39;s AI models at various stages of training and refine open-weight models &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251202/p35#a251202p35)
- - [Sources: OpenAI is developing a new LLM codenamed Garlic, which performs well when compared to Gemini 3 and Opus 4.5 in coding and reasoning tasks &lpar;Stephanie Palazzolo/The Information&rpar;](http://www.techmeme.com/251202/p34#a251202p34)
- - [AWS launches DevOps Agent, an AI-enabled tool designed to help clients quickly identify root causes of outages and implement fixes, available in preview &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/251202/p33#a251202p33)
- - [Amazon launches second generation of its Nova AI models, including Nova Lite, Nova Pro, Nova Sonic, and Nova Omni, a fully multimodal reasoning model &lpar;Will Knight/Wired&rpar;](http://www.techmeme.com/251202/p32#a251202p32)
- - [Amazon launches the Trainium3 UltraServer, powered by the 3nm Trainium3 AI training chip, and teases Trainium4, which will be able to work with Nvidia&#39;s chips &lpar;Julie Bort/TechCrunch&rpar;](http://www.techmeme.com/251202/p31#a251202p31)<!-- TECH:END -->
+ - [Amazon launches AWS AI Factories to deploy AWS infrastructure, including AWS Trainium chips and Nvidia GPUs, in customers&#39; data centers &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/251202/p40#a251202p40)
+ - [A profile of Dario Amodei and Anthropic, which is on track to hit a nearly $10B annualized run rate by the end of 2025, more than 10x what it generated in 2024 &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251202/p39#a251202p39)
+ - [Apple Music Replay 2025 is back with new listening stats](https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch)
+ - [&#39;I&#39;m Not Remarkable&#39; shows Apple&#39;s accessibility features helping students conquer college](https://appleinsider.com/articles/25/12/02/im-not-remarkable-shows-apples-accessibility-features-helping-students-conquer-college?utm_source=rss)
+ - [An interview with AWS CEO Matt Garman on his AI vision, how he plans to extend Amazon&#39;s cloud market lead, adding AI to AWS services, AI efficiencies, and more &lpar;Maxwell Zeff/Wired&rpar;](http://www.techmeme.com/251202/p38#a251202p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

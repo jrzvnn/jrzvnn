@@ -166,10 +166,10 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [75% cute and 85% charisma](http://9gag.com/gag/aE0jMWo)
- - 😝 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
- - 💣 [Gonna be honest here, I\u2019d rather not](http://9gag.com/gag/aMV0dpR)
- - 😝 [Racism is also not only tolerate, but expected...](http://9gag.com/gag/aqyV8jL)
+ - 😝 [Gonna be honest here, I\u2019d rather not](http://9gag.com/gag/aMV0dpR)
+ - 😝 [Mahhamed explained in less than 2 minutes](http://9gag.com/gag/aMV0BG6)
+ - 💣 [In a 1967, Woody Allen tried to embarrass 17-year-old model Twiggy, but the stunt backfired](http://9gag.com/gag/a9y4z0o)
+ - 😝 [Surprise surprise motherfugger...](http://9gag.com/gag/aD2qnMd)
  - 👉 [Just trying to win the race, oops](http://9gag.com/gag/a34zGdQ)<!-- MEMES:END -->
 
 ---

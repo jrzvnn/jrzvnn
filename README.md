@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia announces Alpamayo-R1, an AI model for autonomous driving research, and calls it the &quot;first industry-scale open reasoning vision language action model&quot; &lpar;Rebecca Szkutak/TechCrunch&rpar;](http://www.techmeme.com/251202/p2#a251202p2)
- - [Texas AG Ken Paxton says he is investigating Shein to determine whether it violated state laws on unethical labor practices and the sale of unsafe products &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251202/p1#a251202p1)
+ - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)
  - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Google, with its structural advantages, is a threat for both OpenAI and Nvidia; OpenAI has a real moat with 800M+ ChatGPT users, but needs an advertising model &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/251201/p37#a251201p37)
- - [Sources: Marvell is in advanced talks to buy chip startup Celestial AI in a cash-and-stock deal that could top $5B; Celestial was valued at $2.5B in March 2025 &lpar;The Information&rpar;](http://www.techmeme.com/251201/p36#a251201p36)<!-- TECH:END -->
+ - [Shopify says it fixed an issue in its login authentication flow, resolving a December 1 outage that left some merchants unable to log in or access POS systems &lpar;Neil J Kanatt/Reuters&rpar;](http://www.techmeme.com/251202/p3#a251202p3)
+ - [15% Off Dyson Promo Code | December 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
+ - [Dell Coupon Codes: 10% Off | December 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

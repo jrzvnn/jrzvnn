@@ -166,11 +166,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 😝 [No need subtitle](http://9gag.com/gag/ajP3L9g)
- - 😝 [I N C L U S I V I T Y](http://9gag.com/gag/an70ngV)
- - 💣 [My cat everytime i peacefully eating my meal](http://9gag.com/gag/aO8n4nD)
- - 😝 [Bot-lickers](http://9gag.com/gag/a34z5Le)
- - 👉 [So many creamers, so little time to understand them all](http://9gag.com/gag/aYQvEEv)<!-- MEMES:END -->
+ - 😝 [Racism is also not only tolerate, but expected...](http://9gag.com/gag/aqyV8jL)
+ - 😝 [IMMIGRANTS lose their citizenships in Nordic countries, if you sympathize with the country you claim to have escaped from :&rpar;](http://9gag.com/gag/aRB8MyM)
+ - 💣 [Life in a nutshell, right](http://9gag.com/gag/azxvKAj)
+ - 😝 [Internet Immediately Finds Gun a Dumb TikToker Threw Off Bridge - apologies for posting shitter but i thought you&#39;d appreciate the story](http://9gag.com/gag/aAyLKgZ)
+ - 👉 [For some reason, those feelings always happen when this happens.](http://9gag.com/gag/aKGX9A3)<!-- MEMES:END -->
 
 ---
 

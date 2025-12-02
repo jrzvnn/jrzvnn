@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive](https://www.theverge.com/news/836948/helldivers-2-file-size-decrease)
+ - [CNN partners with Kalshi to use the company&#39;s real-time prediction data in its reporting, for on-air data tickers, fact-checking, and more &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251202/p51#a251202p51)
  - [Dutch judge clears the way for a major App Store damages fight](https://appleinsider.com/articles/25/12/02/dutch-judge-clears-the-way-for-a-major-app-store-damages-fight?utm_source=rss)
  - [HBO Max&amp;#8217;s Mad Men 4K release is the opposite of a remaster](https://www.theverge.com/entertainment/836922/hbo-max-man-men-4k-errors-red-in-the-face-lionsgate)
- - [Instacart sues New York City to block enforcement of five laws, including rules governing minimum pay for app-based workers and tipping disclosures &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251202/p50#a251202p50)
- - [The 55 Best Shows on Disney+, WIRED’s Picks &lpar;December 2025&rpar;](https://www.wired.com/story/best-shows-disney-plus/)
- - [Roborock’s powerful Saros 10 robovac is still at its lowest price ever](https://www.theverge.com/gadgets/836687/roborock-saros-10-cyber-week-2025-deal-sale)<!-- TECH:END -->
+ - [Instacart sues New York City to block enforcement of five laws, including rules governing minimum pay for app-based workers and tipping disclosures &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/251202/p50#a251202p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

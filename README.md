@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max’s &#39;Mad Men&#39; Barf Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’](https://www.wired.com/story/hbo-maxs-mad-men-barf-scene-proves-remastered-doesnt-mean-better/)
+ - [Anthropic&#39;s employees self-report using Claude in 60% of work and achieving a 50% productivity boost, often using it for debugging and code understanding, more &lpar;Anthropic&rpar;](http://www.techmeme.com/251202/p52#a251202p52)
+ - [HBO Max’s &#39;Mad Men&#39; Vomit Scene Proves ‘Remastered’ Doesn’t Mean ‘Better’](https://www.wired.com/story/hbo-maxs-mad-men-barf-scene-proves-remastered-doesnt-mean-better/)
  - [Helldivers 2&amp;#8217;s new &amp;#8216;slim&amp;#8217; version saves 131GB of space on your drive](https://www.theverge.com/news/836948/helldivers-2-file-size-decrease)
  - [CNN partners with Kalshi to use the company&#39;s real-time prediction data in its reporting, for on-air data tickers, fact-checking, and more &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/251202/p51#a251202p51)
- - [Dutch judge clears the way for a major App Store damages fight](https://appleinsider.com/articles/25/12/02/dutch-judge-clears-the-way-for-a-major-app-store-damages-fight?utm_source=rss)
- - [HBO Max&amp;#8217;s Mad Men 4K release is the opposite of a remaster](https://www.theverge.com/entertainment/836922/hbo-max-man-men-4k-errors-red-in-the-face-lionsgate)<!-- TECH:END -->
+ - [Dutch judge clears the way for a major App Store damages fight](https://appleinsider.com/articles/25/12/02/dutch-judge-clears-the-way-for-a-major-app-store-damages-fight?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

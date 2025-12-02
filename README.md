@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)
- - [These great Cyber Monday tech deals will likely be gone tomorrow](https://www.theverge.com/gadgets/834422/cyber-monday-2025-best-deals-tech-gadgets-gift-ideas)
- - [Shopify says it fixed an issue in its login authentication flow, resolving a December 1 outage that left some merchants unable to log in or access POS systems &lpar;Neil J Kanatt/Reuters&rpar;](http://www.techmeme.com/251202/p3#a251202p3)
- - [15% Off Dyson Promo Code | December 2025](https://www.wired.com/story/dyson-cordless-vacuum-promo-code/)
- - [Dell Coupon Codes: 10% Off | December 2025](https://www.wired.com/story/dell-coupon-code/)<!-- TECH:END -->
+ - [Vitamix Promo Codes and Deals: $25 Off + Free Shipping](https://www.wired.com/story/vitamix-promo-code/)
+ - [Trade data shows South Korea&#39;s chip exports rose 38.5% YoY to a record $17.26B in November, driven by strong data center demand and higher memory prices &lpar;Reuters&rpar;](http://www.techmeme.com/251202/p4#a251202p4)
+ - [20% Off Brooks Promo Code &amp; Deals for December 2025](https://www.wired.com/story/brooks-promo-code/)
+ - [60% HP Discount Codes &amp; Coupons December 2025](https://www.wired.com/story/hp-coupon-code/)
+ - [Logitech Promo Code: $25 Off This Holiday Season](https://www.wired.com/story/logitech-promo-code/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

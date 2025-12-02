@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Israeli startup Zafran, an AI-native threat exposure management service, raised a $60M Series C led by Menlo Ventures, bringing its total funding to $130M &lpar;Globes&rpar;](http://www.techmeme.com/251202/p44#a251202p44)
+ - [US and Israeli cloud data management startup Eon raised $300M led by Gil at a $4B valuation, up from $1.4B in November 2024, taking its total funding to $500M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251202/p43#a251202p43)
+ - [Sources: Anthropic is in talks to buy developer tool startup Bun for low hundreds of millions, its first acquisition; Claude Code hit $1B in annualized revenue &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251202/p42#a251202p42)
  - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $35M led by Sequoia at a $750M valuation and plans a product launch in 2026 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p41#a251202p41)
- - [App Tracking Transparency under the gun by German antitrust investigators](https://appleinsider.com/articles/25/12/02/app-tracking-transparency-under-the-gun-by-german-antitrust-investigators?utm_source=rss)
- - [Amazon launches AWS AI Factories to deploy AWS infrastructure, including AWS Trainium chips and Nvidia GPUs, in customers&#39; data centers &lpar;Georgia Butler/DatacenterDynamics&rpar;](http://www.techmeme.com/251202/p40#a251202p40)
- - [A profile of Dario Amodei and Anthropic, which is on track to hit a nearly $10B annualized run rate by the end of 2025, more than 10x what it generated in 2024 &lpar;Jeremy Kahn/Fortune&rpar;](http://www.techmeme.com/251202/p39#a251202p39)
- - [Apple Music Replay 2025 is back with new listening stats](https://www.theverge.com/news/836613/apple-music-replay-2025-listening-stats-launch)<!-- TECH:END -->
+ - [App Tracking Transparency under the gun by German antitrust investigators](https://appleinsider.com/articles/25/12/02/app-tracking-transparency-under-the-gun-by-german-antitrust-investigators?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Polaroid Flip, my favorite retro instant camera, is cheaper than ever](https://www.theverge.com/gadgets/836984/polaroid-flip-cyber-week-2025-deal-sale)
  - [Marvell announces a deal to buy Celestial AI for at least $3.25B, expected to close in Q1 2026; the price can rise to $5.5B if Celestial hits revenue targets &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/251202/p54#a251202p54)
  - [Indiegogo is launching ‘Express Crowdfunding’ so creators can ship things sooner](https://www.theverge.com/news/836886/indiegogo-express-crowdfunding-ayaneo-shipping)
  - [Google is experimentally replacing news headlines with AI clickbait nonsense](https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense)
- - [Natural disasters across Asia prompt Apple CEO Tim Cook to promise donations](https://appleinsider.com/articles/25/12/02/natural-disasters-across-asia-prompt-apple-ceo-tim-cook-to-promise-donations?utm_source=rss)
- - [Amazon’s bet that AI benchmarks don’t matter](https://www.theverge.com/column/836902/amazons-ai-benchmarks-dont-matter)<!-- TECH:END -->
+ - [Natural disasters across Asia prompt Apple CEO Tim Cook to promise donations](https://appleinsider.com/articles/25/12/02/natural-disasters-across-asia-prompt-apple-ceo-tim-cook-to-promise-donations?utm_source=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 

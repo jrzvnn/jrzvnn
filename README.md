@@ -157,11 +157,11 @@ R                        1 repo              ░░░░░░░░░░░�
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cyber Monday Apple deals have been extended, grab prices from $10.99](https://appleinsider.com/articles/25/12/02/cyber-monday-apple-deals-have-been-extended-grab-prices-from-1099?utm_source=rss)
  - [Israeli startup Zafran, an AI-native threat exposure management service, raised a $60M Series C led by Menlo Ventures, bringing its total funding to $130M &lpar;Globes&rpar;](http://www.techmeme.com/251202/p44#a251202p44)
  - [US and Israeli cloud data management startup Eon raised $300M led by Gil at a $4B valuation, up from $1.4B in November 2024, taking its total funding to $500M &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/251202/p43#a251202p43)
  - [Sources: Anthropic is in talks to buy developer tool startup Bun for low hundreds of millions, its first acquisition; Claude Code hit $1B in annualized revenue &lpar;Sri Muppidi/The Information&rpar;](http://www.techmeme.com/251202/p42#a251202p42)
- - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $35M led by Sequoia at a $750M valuation and plans a product launch in 2026 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p41#a251202p41)
- - [App Tracking Transparency under the gun by German antitrust investigators](https://appleinsider.com/articles/25/12/02/app-tracking-transparency-under-the-gun-by-german-antitrust-investigators?utm_source=rss)<!-- TECH:END -->
+ - [Ricursive, founded by ex-Google researchers to automate advanced chip design, raised $35M led by Sequoia at a $750M valuation and plans a product launch in 2026 &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/251202/p41#a251202p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
